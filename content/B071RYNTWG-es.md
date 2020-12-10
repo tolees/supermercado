@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Purina Gourmet Gold Bocaditos en Salsa c al 39.82 % de descuento'
-date: 2020-12-04 09:46:17
+date: 2020-12-10 15:26:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Qb8AGD6+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Qb8AGD6+L._SL200_.jpg' ]
 comments: true
