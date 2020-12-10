@@ -18,12 +18,10 @@ prodname: 'OptiFibre de Nestlé Health Science  100% vegetal  1 x 250 g '
 country: 'es'
 ---
 
-Está [OptiFibre de Nestlé Health Science  100% vegetal  1 x 250 g ](https://www.amazon.es/dp/B00WXVKC2U/?tag=tolees-21) con 38.39 de descuento por 10.32 EUR (original: 16.75 EUR) en el siguiente enlace!
+Ahora mismo tienes [OptiFibre de Nestlé Health Science  100% vegetal  1 x 250 g ](https://www.amazon.es/dp/B00WXVKC2U/?tag=tolees-21) a 10.32 EUR (original: 16.75 EUR) (38.39 %  de descuento) en el siguiente enlace!
 
 [![OptiFibre de Nestlé Health Science  100%](https://m.media-amazon.com/images/I/41aQAeXAdKL._SL200_.jpg)](https://www.amazon.es/dp/B00WXVKC2U/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00WXVKC2U/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00WXVKC2U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
