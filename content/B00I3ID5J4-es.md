@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'MyProtein Brown Rice Proteína de Arroz I al 49.81 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M7iSIoPDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M7iSIoPDL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00I3ID5J4-es'
+description:
+actualPrice: 20.98 EUR
+currency: EUR
+price: 20.98
+comparePrice: 41.8 EUR
+inStock: true
+prodname: 'MyProtein Brown Rice Proteína de Arroz Integral - 1000 gr'
+country: 'es'
+---
+
+Está [MyProtein Brown Rice Proteína de Arroz Integral - 1000 gr](https://www.amazon.es/dp/B00I3ID5J4/?tag=tolees-21) con 49.81 de descuento por 20.98 EUR (original: 41.8 EUR) en el siguiente enlace!
+
+[![MyProtein Brown Rice Proteína de Arroz I](https://images-eu.ssl-images-amazon.com/images/I/41M7iSIoPDL._SL200_.jpg)](https://www.amazon.es/dp/B00I3ID5J4/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B00I3ID5J4/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
