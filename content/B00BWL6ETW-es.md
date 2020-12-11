@@ -24,11 +24,11 @@ Tienes [Pasta de dientes COLGATE Max Fresh con cristales refrescantes  una nueva
 
 Características principales:
 
-- Pasta de dientes con cristales refrescantes
+- Nueva dimensión de frescor
 - Consigue dientes más blancos
 - Contiene flúor para prevenir la formación de caries
+- Pasta de dientes con cristales refrescantes
 - Refresca y limpia tu boca
-- Nueva dimensión de frescor
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BWL6ETW/?tag=tolees-21)
 
