@@ -24,11 +24,11 @@ Tienes [Vegan Protein Powder | 100% A Base de Plantas | Sin Gluten | Ecológico 
 
 ℹ️:
 
+- Sin azúcar añadido
 - Mezcla de CINCO fuentes de proteína vegana - cáñamo, arroz integral, girasol, soja y guisante.
 - Alto en proteínas: hasta 25g de proteína de primera calidad por porción
-- Contiene tan sólo 0.6g de grasa y 0.2g de carbohidratos.
-- Sin azúcar añadido
-- Sin lácteos, sin gluten y sin trigo.
 - 100% proteína natural de origen vegetal
+- Sin lácteos, sin gluten y sin trigo.
+- Contiene tan sólo 0.6g de grasa y 0.2g de carbohidratos.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M8HZF9D/?tag=tolees-21)
