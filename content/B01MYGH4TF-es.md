@@ -28,11 +28,11 @@ Ahora mismo tienes [Licor del Polo - Pasta de dientes 2 en 1 Acción 3 - Protecc
 
 Características:
 
+- Combate la placa entre los dientes
 - Tiene un aliento fresco
 - Tiene acción blanqueadora
 - Es formulado con micro-granulos
 - Ofrece protección anticaries
-- Combate la placa entre los dientes
 
 [Visítala!!!](https://www.amazon.es/dp/B01MYGH4TF/?tag=tolees-21)
 
