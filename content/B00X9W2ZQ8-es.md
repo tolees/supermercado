@@ -28,11 +28,11 @@ Está [L Oréal Paris Men Expert Hydra Sensitive Cuidado Hidratante - 50 ml](htt
 
 Principales características:
 
-- Hidrata continuamente la piel
 - Tono fresco y piel lisa
+- Hidrata continuamente la piel
 - Textura ultra-refrescante
-- Protege de las agresiones y vuelve la piel más fuerte
 - No grasa, no pegajosa, penetra rápidamente
+- Protege de las agresiones y vuelve la piel más fuerte
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00X9W2ZQ8/?tag=tolees-21)
 
