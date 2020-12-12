@@ -29,10 +29,10 @@ Ahora mismo tienes [Rimmel London Lasting Finish by Kate Barra De Labios Tono 1 
 Características:
 
 - Color intenso, labio hidratado
-- Captura el estilo y el look único de Kate Moss
-- Refleja la luz como nunca antes gracias a su exclusivo complejo de pigmentos reflectantes
 - Colección de labiales diseñados por Kate Moss
 - Color intenso hasta 8 horas
+- Captura el estilo y el look único de Kate Moss
+- Refleja la luz como nunca antes gracias a su exclusivo complejo de pigmentos reflectantes
 
 [Visítala!!!](https://www.amazon.es/dp/B006WZ9X8M/?tag=tolees-21)
 
