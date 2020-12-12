@@ -30,10 +30,10 @@ Características:
 
 - Es una mezcla con múltiples capas que incluye más de veinte de los whiskies de malta más raros de Escocia, dándole un toque muy original y especial a su sabor
 - Chivas Regal 18 años es un whisky escocés premium de mezcla con 85 notas de sabor
-- Su color ámbar radiante y dorado no lo dejan pasar desapercibido
-- Es un whisky escocés de textura aterciopelada, con notas de chocolate negro y aromas con múltiples matices de frutos secos y toffee de mantequilla
 - El whiskey Chivas Regal 18 años tiene un sabor rico y cremoso, que ofrece un largo final y extremadamente cálido
 - Se recomienda servir solo o con hielo para disfrutar de todo su sabor
+- Su color ámbar radiante y dorado no lo dejan pasar desapercibido
+- Es un whisky escocés de textura aterciopelada, con notas de chocolate negro y aromas con múltiples matices de frutos secos y toffee de mantequilla
 
 [Visítala!!!](https://www.amazon.es/dp/B001P4SF0C/?tag=tolees-21)
 
