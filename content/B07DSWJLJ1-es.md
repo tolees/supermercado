@@ -22,7 +22,7 @@ Ahora mismo tienes [L Oréal Paris Make-up designer Infalible 24H Fresh Wear Bas
 
 [![L Oréal Paris Make-up designer Infalible](https://m.media-amazon.com/images/I/31QOKz2-pfL._SL200_.jpg)](https://www.amazon.es/dp/B07DSWJLJ1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DSWJLJ1/?tag=tolees-21)

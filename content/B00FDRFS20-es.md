@@ -22,7 +22,7 @@ Ahora mismo tienes [Lékué Spanish Omelette - Molde para tortilla española  co
 
 [![Lékué Spanish Omelette - Molde para tort](https://m.media-amazon.com/images/I/41CcMzdFioL._SL200_.jpg)](https://www.amazon.es/dp/B00FDRFS20/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00FDRFS20/?tag=tolees-21)

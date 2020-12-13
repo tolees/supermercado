@@ -22,7 +22,7 @@ Ahora mismo tienes [Mortlach 12 Whisky Escocés Single Malt - 700 ml](https://ww
 
 [![Mortlach 12 Whisky Escocés Single Malt -](https://m.media-amazon.com/images/I/51zg-h-GsyL._SL200_.jpg)](https://www.amazon.es/dp/B07JQ6PK1T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JQ6PK1T/?tag=tolees-21)

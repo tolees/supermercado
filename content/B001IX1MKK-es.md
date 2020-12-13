@@ -22,7 +22,7 @@ Ahora mismo tienes [Knorr - Caldo Pastilla Pescado  120 g](https://www.amazon.es
 
 [![Knorr - Caldo Pastilla Pescado  120 g](https://m.media-amazon.com/images/I/41fRRXQzggL._SL200_.jpg)](https://www.amazon.es/dp/B001IX1MKK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B001IX1MKK/?tag=tolees-21)

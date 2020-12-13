@@ -22,7 +22,7 @@ Ahora mismo tienes [L Oreal Paris Elvive Dream Long Champú reconstructor - pack
 
 [![L Oreal Paris Elvive Dream Long Champú r](https://m.media-amazon.com/images/I/41GIRwMXT1L._SL200_.jpg)](https://www.amazon.es/dp/B079VV8F2N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079VV8F2N/?tag=tolees-21)

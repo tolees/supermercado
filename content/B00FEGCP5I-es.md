@@ -22,7 +22,7 @@ Ahora mismo tienes [Lancaster Desodorante en Crema - 125 ml](https://www.amazon.
 
 [![Lancaster Desodorante en Crema - 125 ml](https://m.media-amazon.com/images/I/31TV0RBT0iL._SL200_.jpg)](https://www.amazon.es/dp/B00FEGCP5I/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00FEGCP5I/?tag=tolees-21)

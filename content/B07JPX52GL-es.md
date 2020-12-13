@@ -22,7 +22,7 @@ Ahora mismo tienes [Cepillo de Dientes para Viajes  Camping  Actividades Aire Li
 
 [![Cepillo de Dientes para Viajes  Camping ](https://m.media-amazon.com/images/I/31rkEWHFFSL._SL200_.jpg)](https://www.amazon.es/dp/B07JPX52GL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JPX52GL/?tag=tolees-21)

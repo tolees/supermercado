@@ -22,7 +22,7 @@ Ahora mismo tienes [Wilkinson Sword Hydro 5 Sensitive - Recambio de Cuchillas de
 
 [![Wilkinson Sword Hydro 5 Sensitive - Reca](https://m.media-amazon.com/images/I/51Ma6bDTH6L._SL200_.jpg)](https://www.amazon.es/dp/B01AK7IHNO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01AK7IHNO/?tag=tolees-21)

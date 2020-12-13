@@ -22,7 +22,7 @@ Ahora mismo tienes [Dove Loción con Karité y Vainilla - 3 Paquetes de 400 ml -
 
 [![Dove Loción con Karité y Vainilla - 3 Pa](https://m.media-amazon.com/images/I/41awXyoRLKL._SL200_.jpg)](https://www.amazon.es/dp/B07BJGV55N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BJGV55N/?tag=tolees-21)

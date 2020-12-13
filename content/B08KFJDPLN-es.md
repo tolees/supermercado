@@ -22,7 +22,7 @@ Ahora mismo tienes [HARIBO Funky Mix   1 x 1.00 kg](https://www.amazon.es/dp/B08
 
 [![HARIBO Funky Mix   1 x 1.00 kg](https://m.media-amazon.com/images/I/51ArctZ497L._SL200_.jpg)](https://www.amazon.es/dp/B08KFJDPLN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08KFJDPLN/?tag=tolees-21)

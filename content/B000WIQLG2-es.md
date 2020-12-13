@@ -22,7 +22,7 @@ Ahora mismo tienes [Jameson Original Whisky Irlandés - 700 ml](https://www.amaz
 
 [![Jameson Original Whisky Irlandés - 700 m](https://m.media-amazon.com/images/I/315bGgy73gL._SL200_.jpg)](https://www.amazon.es/dp/B000WIQLG2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000WIQLG2/?tag=tolees-21)

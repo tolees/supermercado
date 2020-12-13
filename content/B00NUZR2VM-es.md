@@ -22,7 +22,7 @@ Ahora mismo tienes [Lactovit - Gel de Ducha Nutritivo  para Pieles Normales y Se
 
 [![Lactovit - Gel de Ducha Nutritivo  para ](https://m.media-amazon.com/images/I/31GQbdPPByL._SL200_.jpg)](https://www.amazon.es/dp/B00NUZR2VM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00NUZR2VM/?tag=tolees-21)

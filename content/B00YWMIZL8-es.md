@@ -22,7 +22,7 @@ Ahora mismo tienes [Mars Whisky - 700 ml](https://www.amazon.es/dp/B00YWMIZL8/?t
 
 [![Mars Whisky - 700 ml](https://m.media-amazon.com/images/I/51qWPEQteYL._SL200_.jpg)](https://www.amazon.es/dp/B00YWMIZL8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00YWMIZL8/?tag=tolees-21)

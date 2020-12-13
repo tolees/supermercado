@@ -22,7 +22,7 @@ Ahora mismo tienes [Wet n Wild - Silk Finish Lipstick - Barra de Labios con Colo
 
 [![Wet n Wild - Silk Finish Lipstick - Barr](https://m.media-amazon.com/images/I/31vGIbHOXbL._SL200_.jpg)](https://www.amazon.es/dp/B075VV5JF6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075VV5JF6/?tag=tolees-21)

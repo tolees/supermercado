@@ -22,7 +22,7 @@ Ahora mismo tienes [Monrodbitt Taza portátil para Estudiantes de Trigo  Taza de
 
 [![Monrodbitt Taza portátil para Estudiante](https://m.media-amazon.com/images/I/51V4QXKrfEL._SL200_.jpg)](https://www.amazon.es/dp/B08N429GFL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08N429GFL/?tag=tolees-21)

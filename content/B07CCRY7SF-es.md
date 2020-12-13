@@ -22,7 +22,7 @@ Ahora mismo tienes [Jura Seven Wood Single Malt Scotch Whisky - 700 ml](https://
 
 [![Jura Seven Wood Single Malt Scotch Whisk](https://m.media-amazon.com/images/I/41J1gT4nowL._SL200_.jpg)](https://www.amazon.es/dp/B07CCRY7SF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CCRY7SF/?tag=tolees-21)

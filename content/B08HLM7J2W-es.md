@@ -22,7 +22,7 @@ Ahora mismo tienes [#NA Breve Moda Fibra Paja Trigo Plástico Taza de café Taza
 
 [![#NA Breve Moda Fibra Paja Trigo Plástico](https://m.media-amazon.com/images/I/21VWdOesFPL._SL200_.jpg)](https://www.amazon.es/dp/B08HLM7J2W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08HLM7J2W/?tag=tolees-21)

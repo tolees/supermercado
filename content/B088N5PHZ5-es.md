@@ -22,7 +22,7 @@ Ahora mismo tienes [Paños Reutilizables de Algodón  Pack de 10 Toallitas de Pa
 
 [![Paños Reutilizables de Algodón  Pack de ](https://m.media-amazon.com/images/I/61VT7LEHjZL._SL200_.jpg)](https://www.amazon.es/dp/B088N5PHZ5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B088N5PHZ5/?tag=tolees-21)

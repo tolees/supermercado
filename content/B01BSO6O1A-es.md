@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips Sonicare CleanCare HX3212/11 - Cepillo de dientes el
 
 [![Philips Sonicare CleanCare HX3212/11 - C](https://m.media-amazon.com/images/I/41R6OG80NCL._SL200_.jpg)](https://www.amazon.es/dp/B01BSO6O1A/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01BSO6O1A/?tag=tolees-21)

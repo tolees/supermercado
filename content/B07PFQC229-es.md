@@ -22,7 +22,7 @@ Ahora mismo tienes [Valquer Profesional Champú Zero Silver Platinum. Sin sulfat
 
 [![Valquer Profesional Champú Zero Silver P](https://m.media-amazon.com/images/I/41tOMKblEjL._SL200_.jpg)](https://www.amazon.es/dp/B07PFQC229/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PFQC229/?tag=tolees-21)

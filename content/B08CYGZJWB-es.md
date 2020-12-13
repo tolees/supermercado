@@ -22,7 +22,7 @@ Ahora mismo tienes [Mimosín Intense Suavizante Éxtasis Tropical 52 Lavados Pac
 
 [![Mimosín Intense Suavizante Éxtasis Tropi](https://m.media-amazon.com/images/I/51rUmD8V0RL._SL200_.jpg)](https://www.amazon.es/dp/B08CYGZJWB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08CYGZJWB/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Ymea Vientre Plano | Tratamiento de la Menopausia | Control 
 
 [![Ymea Vientre Plano | Tratamiento de la M](https://m.media-amazon.com/images/I/51C2yQm9CjL._SL200_.jpg)](https://www.amazon.es/dp/B084XQV95F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B084XQV95F/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Max Factor Colour Elixir Honey Lacquer Gloss Brillo de Labio
 
 [![Max Factor Colour Elixir Honey Lacquer G](https://m.media-amazon.com/images/I/315SBoqhjKL._SL200_.jpg)](https://www.amazon.es/dp/B071P9BRDV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071P9BRDV/?tag=tolees-21)

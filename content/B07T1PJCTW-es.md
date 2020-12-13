@@ -22,7 +22,7 @@ Ahora mismo tienes [OrgaWise Organizador Maleta Set de 9  Bolsa Organizador para
 
 [![OrgaWise Organizador Maleta Set de 9  Bo](https://m.media-amazon.com/images/I/51YVe23GbdL._SL200_.jpg)](https://www.amazon.es/dp/B07T1PJCTW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07T1PJCTW/?tag=tolees-21)

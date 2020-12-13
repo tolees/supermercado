@@ -22,7 +22,7 @@ Ahora mismo tienes [YoPRO Pack 8 unidades batido 25G de Proteína sabor chocolat
 
 [![YoPRO Pack 8 unidades batido 25G de Prot](https://m.media-amazon.com/images/I/41Q2JeV8EKL._SL200_.jpg)](https://www.amazon.es/dp/B0854XWJZN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0854XWJZN/?tag=tolees-21)

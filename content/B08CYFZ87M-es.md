@@ -22,7 +22,7 @@ Ahora mismo tienes [Mimosín Collection Parfum Suavizante Nº 7  52 Lavados 870 
 
 [![Mimosín Collection Parfum Suavizante Nº ](https://m.media-amazon.com/images/I/51B4T--q8uL._SL200_.jpg)](https://www.amazon.es/dp/B08CYFZ87M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08CYFZ87M/?tag=tolees-21)

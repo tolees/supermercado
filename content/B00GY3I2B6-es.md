@@ -22,7 +22,7 @@ Ahora mismo tienes [Bulleit Bourbon Frontier Whisky de centeno destilado y añej
 
 [![Bulleit Bourbon Frontier Whisky de cente](https://m.media-amazon.com/images/I/41ehYHI0UJL._SL200_.jpg)](https://www.amazon.es/dp/B00GY3I2B6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00GY3I2B6/?tag=tolees-21)

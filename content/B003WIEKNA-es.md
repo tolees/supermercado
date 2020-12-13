@@ -24,11 +24,11 @@ Tienes [The Glenlivet 15 años Whisky Escocés de Malta Premium - 700 ml](https:
 
 ℹ️:
 
-- Este whisky combina trazas de nueces con notas ligeramente picantes
-- El roble francés Limousin hace que el licor penetre en la madera y adquiera un ligero sabor picante que lo hace particular
-- Whiskey escocés de 15 años, cuya maduración se realiza en barriles de roble francés y durante un periodo limitado
-- El whisky escocés The Glenlivet 15 años, se caracteriza por un intenso color dorado
 - Tiene un aroma cremoso con toques de mantequilla, y un sabor dulce afrutado
+- Este whisky combina trazas de nueces con notas ligeramente picantes
+- Whiskey escocés de 15 años, cuya maduración se realiza en barriles de roble francés y durante un periodo limitado
+- El roble francés Limousin hace que el licor penetre en la madera y adquiera un ligero sabor picante que lo hace particular
+- El whisky escocés The Glenlivet 15 años, se caracteriza por un intenso color dorado
 - Se recomienda servir solo o con hielo en un vaso de cristal ancho
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B003WIEKNA/?tag=tolees-21)

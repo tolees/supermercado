@@ -22,12 +22,12 @@ Ahora mismo tienes [Max Factor  Bronceador e iluminador facial  Tono Universal  
 
 [![Max Factor  Bronceador e iluminador faci](https://m.media-amazon.com/images/I/41ZXIA4PaXL._SL200_.jpg)](https://www.amazon.es/dp/B079YW4SD3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
-- Polvos diseñados para adaptarse a todos los tonos de piel
-- Fácil de aplicar, se funde con tu piel suavemente
 - Paleta universal para hacer counturing
-- Fórmula ligera de larga duración
 - Dermatológicamente testado
+- Fácil de aplicar, se funde con tu piel suavemente
+- Polvos diseñados para adaptarse a todos los tonos de piel
+- Fórmula ligera de larga duración
 
 [Visítala!!!](https://www.amazon.es/dp/B079YW4SD3/?tag=tolees-21)

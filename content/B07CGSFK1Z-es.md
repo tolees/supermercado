@@ -22,7 +22,7 @@ Ahora mismo tienes [Schwarzkopf Professional BC Champú Volume Boost Miscelar 10
 
 [![Schwarzkopf Professional BC Champú Volum](https://m.media-amazon.com/images/I/41QQ-13xJiL._SL200_.jpg)](https://www.amazon.es/dp/B07CGSFK1Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CGSFK1Z/?tag=tolees-21)

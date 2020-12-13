@@ -22,7 +22,7 @@ Ahora mismo tienes [Café de Etiopía en grano Consuelo  2 paquetes de 1 kg](htt
 
 [![Café de Etiopía en grano Consuelo  2 paq](https://m.media-amazon.com/images/I/41hDdPlANnL._SL200_.jpg)](https://www.amazon.es/dp/B07XWWL4BQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07XWWL4BQ/?tag=tolees-21)

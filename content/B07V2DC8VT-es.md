@@ -22,7 +22,7 @@ Ahora mismo tienes [[RIZILIA CELEBOX] Lágrima Pendientes largos Piercing Aretes
 
 [![[RIZILIA CELEBOX] Lágrima Pendientes lar](https://m.media-amazon.com/images/I/51UHS7rW7FL._SL200_.jpg)](https://www.amazon.es/dp/B07V2DC8VT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07V2DC8VT/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Garnier Skin Active BB Cream Matificante Crema Correctora y 
 
 [![Garnier Skin Active BB Cream Matificante](https://m.media-amazon.com/images/I/41Wo4aYcBWL._SL200_.jpg)](https://www.amazon.es/dp/B00X9TTLB8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00X9TTLB8/?tag=tolees-21)

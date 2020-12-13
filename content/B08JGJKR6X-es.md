@@ -22,7 +22,7 @@ Ahora mismo tienes [Colador de té con forma de pez lindo Kawaii  tetera de filt
 
 [![Colador de té con forma de pez lindo Kaw](https://m.media-amazon.com/images/I/31i2ckaEGeL._SL200_.jpg)](https://www.amazon.es/dp/B08JGJKR6X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08JGJKR6X/?tag=tolees-21)

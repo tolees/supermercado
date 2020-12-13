@@ -22,7 +22,7 @@ Ahora mismo tienes [SYOSS - Acondicionador Rizos Pro - Definición e hidratació
 
 [![SYOSS - Acondicionador Rizos Pro - Defin](https://m.media-amazon.com/images/I/41kHhzzGxOL._SL200_.jpg)](https://www.amazon.es/dp/B07CHK5J2M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CHK5J2M/?tag=tolees-21)

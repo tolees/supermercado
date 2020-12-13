@@ -22,7 +22,7 @@ Ahora mismo tienes [XLS Medical Carboblocker Ayuda Extra para Quienes Comen Una 
 
 [![XLS Medical Carboblocker Ayuda Extra par](https://m.media-amazon.com/images/I/41brNRGsFiL._SL200_.jpg)](https://www.amazon.es/dp/B00KP8SVTE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00KP8SVTE/?tag=tolees-21)

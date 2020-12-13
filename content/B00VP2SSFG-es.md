@@ -22,7 +22,7 @@ Ahora mismo tienes [Maybelline New York  Máscara de Pestañas Volumen Waterproo
 
 [![Maybelline New York  Máscara de Pestañas](https://m.media-amazon.com/images/I/31E+yaOKsfL._SL200_.jpg)](https://www.amazon.es/dp/B00VP2SSFG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00VP2SSFG/?tag=tolees-21)

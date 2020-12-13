@@ -22,7 +22,7 @@ Ahora mismo tienes [Maybelline New York  Máscara de Pestañas Volum  Express  C
 
 [![Maybelline New York  Máscara de Pestañas](https://m.media-amazon.com/images/I/31PIJdrjmZL._SL200_.jpg)](https://www.amazon.es/dp/B06XDS8RNY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XDS8RNY/?tag=tolees-21)

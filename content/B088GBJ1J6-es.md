@@ -22,7 +22,7 @@ Ahora mismo tienes [Oral-B Pro 1 750 - Cepillo de dientes eléctrico  incluye es
 
 [![Oral-B Pro 1 750 - Cepillo de dientes el](https://m.media-amazon.com/images/I/51yk+AMW0VL._SL200_.jpg)](https://www.amazon.es/dp/B088GBJ1J6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B088GBJ1J6/?tag=tolees-21)

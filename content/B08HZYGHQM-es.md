@@ -22,7 +22,7 @@ Ahora mismo tienes [Garnier Fructis Tratamiento Nutri Rizos Secado al Aire Crema
 
 [![Garnier Fructis Tratamiento Nutri Rizos ](https://m.media-amazon.com/images/I/41kzsToGrDL._SL200_.jpg)](https://www.amazon.es/dp/B08HZYGHQM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08HZYGHQM/?tag=tolees-21)

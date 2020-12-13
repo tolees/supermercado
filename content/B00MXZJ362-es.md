@@ -22,7 +22,7 @@ Ahora mismo tienes [OGX  Champú Biotina y Colágeno  Cabello Fino  385 ml](http
 
 [![OGX  Champú Biotina y Colágeno  Cabello ](https://m.media-amazon.com/images/I/41emLpNa1nL._SL200_.jpg)](https://www.amazon.es/dp/B00MXZJ362/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00MXZJ362/?tag=tolees-21)

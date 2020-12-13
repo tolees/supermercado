@@ -22,7 +22,7 @@ Ahora mismo tienes [FitFlop Lottie Sandal-Twisted Chain  Sandalias de Punta Desc
 
 [![FitFlop Lottie Sandal-Twisted Chain  San](https://m.media-amazon.com/images/I/31g2SySNkrL._SL200_.jpg)](https://www.amazon.es/dp/B07S5G23KJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07S5G23KJ/?tag=tolees-21)

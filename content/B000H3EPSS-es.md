@@ -24,10 +24,10 @@ Tienes [Revlon Super Lustrous Pintalabios  Black Cherry ](https://www.amazon.es/
 
 ℹ️:
 
-- La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
 - Acabado satinado
+- La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
 - Extra sedoso e hidratante
-- Sin fragancia
 - Enriquecido con Aloe, Vitaminas A, C y E
+- Sin fragancia
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000H3EPSS/?tag=tolees-21)

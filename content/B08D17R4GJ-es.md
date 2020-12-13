@@ -22,7 +22,7 @@ Ahora mismo tienes [Lagarto Suavizante Concentrado al Jabon 60 lavdos Hipoalerge
 
 [![Lagarto Suavizante Concentrado al Jabon ](https://m.media-amazon.com/images/I/31gX45J5PML._SL200_.jpg)](https://www.amazon.es/dp/B08D17R4GJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08D17R4GJ/?tag=tolees-21)

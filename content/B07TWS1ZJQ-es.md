@@ -22,7 +22,7 @@ Ahora mismo tienes [Max Factor Perfect Gel Shine; Laca de Uñas  Tono 001 - 12 m
 
 [![Max Factor Perfect Gel Shine; Laca de Uñ](https://m.media-amazon.com/images/I/31DmhECzfQL._SL200_.jpg)](https://www.amazon.es/dp/B07TWS1ZJQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07TWS1ZJQ/?tag=tolees-21)

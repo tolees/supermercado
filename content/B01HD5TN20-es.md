@@ -22,7 +22,7 @@ Ahora mismo tienes [Lagarto Botella Detergente Lavadora Liquido - Aloe Vera - 40
 
 [![Lagarto Botella Detergente Lavadora Liqu](https://m.media-amazon.com/images/I/41xtuLCFqlL._SL200_.jpg)](https://www.amazon.es/dp/B01HD5TN20/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01HD5TN20/?tag=tolees-21)

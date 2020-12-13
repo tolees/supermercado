@@ -22,7 +22,7 @@ Ahora mismo tienes [Soberano - Bebida Espirituosa de Jerez - 1000 ml](https://ww
 
 [![Soberano - Bebida Espirituosa de Jerez -](https://m.media-amazon.com/images/I/41iURiyhB8L._SL200_.jpg)](https://www.amazon.es/dp/B00AATCX8S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00AATCX8S/?tag=tolees-21)

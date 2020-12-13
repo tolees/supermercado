@@ -22,7 +22,7 @@ Ahora mismo tienes [NIVEA Bajo la Ducha Loción Reafirmante Q10Plus en pack de 6
 
 [![NIVEA Bajo la Ducha Loción Reafirmante Q](https://m.media-amazon.com/images/I/41h0HMkxvJL._SL200_.jpg)](https://www.amazon.es/dp/B07GSN3LQ7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GSN3LQ7/?tag=tolees-21)

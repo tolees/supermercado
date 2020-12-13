@@ -22,7 +22,7 @@ Ahora mismo tienes [YUE GANG Velas de Citronela para Exteriores  Juego de 4 Vela
 
 [![YUE GANG Velas de Citronela para Exterio](https://m.media-amazon.com/images/I/51APkdt-mJL._SL200_.jpg)](https://www.amazon.es/dp/B08CSB69BH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08CSB69BH/?tag=tolees-21)

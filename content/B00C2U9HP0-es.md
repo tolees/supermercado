@@ -22,7 +22,7 @@ Ahora mismo tienes [Rimmel London Lasting Finish Foundation 25H Base de Maquilla
 
 [![Rimmel London Lasting Finish Foundation ](https://m.media-amazon.com/images/I/310mOVJxx5L._SL200_.jpg)](https://www.amazon.es/dp/B00C2U9HP0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00C2U9HP0/?tag=tolees-21)

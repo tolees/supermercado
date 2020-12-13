@@ -22,7 +22,7 @@ Ahora mismo tienes [TRESemmé Champú Liso Keratina 6 x 685 ML](https://www.amaz
 
 [![TRESemmé Champú Liso Keratina 6 x 685 ML](https://m.media-amazon.com/images/I/417B3-DtqiL._SL200_.jpg)](https://www.amazon.es/dp/B089HKKNFP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B089HKKNFP/?tag=tolees-21)

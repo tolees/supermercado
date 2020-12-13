@@ -22,7 +22,7 @@ Ahora mismo tienes [Gillette Body Recambios - 2 Unidades](https://www.amazon.es
 
 [![Gillette Body Recambios - 2 Unidades](https://m.media-amazon.com/images/I/51BCxis573L._SL200_.jpg)](https://www.amazon.es/dp/B01FDO6W4U/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01FDO6W4U/?tag=tolees-21)

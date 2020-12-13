@@ -22,7 +22,7 @@ Ahora mismo tienes [Rexona Desodorante Antitranspirante Invisible en ropa blanca
 
 [![Rexona Desodorante Antitranspirante Invi](https://m.media-amazon.com/images/I/41MKcoWEH9L._SL200_.jpg)](https://www.amazon.es/dp/B07QSLM7LS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07QSLM7LS/?tag=tolees-21)

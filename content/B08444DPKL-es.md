@@ -22,7 +22,7 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Cacahuetes Garrapiñados con Sés
 
 [![Marca Amazon - Happy Belly Cacahuetes Ga](https://m.media-amazon.com/images/I/51E-VjoXXPL._SL200_.jpg)](https://www.amazon.es/dp/B08444DPKL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08444DPKL/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pasta de Dientes Oral-B Pro-Expert Sensibilidad + Blanqueant
 
 [![Pasta de Dientes Oral-B Pro-Expert Sensi](https://m.media-amazon.com/images/I/41bVi6tNh0L._SL200_.jpg)](https://www.amazon.es/dp/B00XAGF2OA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00XAGF2OA/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Gliss - Champú Ultimate Oil Elixir para Cabellos Quebradizo
 
 [![Gliss - Champú Ultimate Oil Elixir para ](https://m.media-amazon.com/images/I/41L+owaiADL._SL200_.jpg)](https://www.amazon.es/dp/B07NRF19MV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NRF19MV/?tag=tolees-21)

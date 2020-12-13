@@ -22,7 +22,7 @@ Ahora mismo tienes [Finish Powerball Quantum Max - Pastillas para el Lavavajilla
 
 [![Finish Powerball Quantum Max - Pastillas](https://m.media-amazon.com/images/I/51IFq11whbL._SL200_.jpg)](https://www.amazon.es/dp/B07RJYMWT7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07RJYMWT7/?tag=tolees-21)

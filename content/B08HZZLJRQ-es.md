@@ -22,7 +22,7 @@ Ahora mismo tienes [L Oréal Paris Elvive Full Resist Champú Fortificante - pac
 
 [![L Oréal Paris Elvive Full Resist Champú ](https://m.media-amazon.com/images/I/41R4hlvSkLL._SL200_.jpg)](https://www.amazon.es/dp/B08HZZLJRQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08HZZLJRQ/?tag=tolees-21)

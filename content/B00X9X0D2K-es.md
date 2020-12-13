@@ -22,7 +22,7 @@ Ahora mismo tienes [L Oréal Paris Elvive Aceite Extraordinario 150 ml](https://
 
 [![L Oréal Paris Elvive Aceite Extraordinar](https://m.media-amazon.com/images/I/41UOiBYC3nL._SL200_.jpg)](https://www.amazon.es/dp/B00X9X0D2K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00X9X0D2K/?tag=tolees-21)

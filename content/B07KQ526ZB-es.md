@@ -22,7 +22,7 @@ Ahora mismo tienes [Pulverizador Spray Oliva Aceite  Homegoo Rociando Pulverizad
 
 [![Pulverizador Spray Oliva Aceite  Homegoo](https://m.media-amazon.com/images/I/4180E9dJHIL._SL200_.jpg)](https://www.amazon.es/dp/B07KQ526ZB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KQ526ZB/?tag=tolees-21)

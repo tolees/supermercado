@@ -22,12 +22,12 @@ Ahora mismo tienes [Licor del Polo - Pasta de dientes 2 en 1 Acción 3 - Protecc
 
 [![Licor del Polo - Pasta de dientes 2 en 1](https://m.media-amazon.com/images/I/41uX6mmgNsL._SL200_.jpg)](https://www.amazon.es/dp/B01MYGH4TF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
-- Es formulado con micro-granulos
-- Tiene un aliento fresco
 - Tiene acción blanqueadora
-- Combate la placa entre los dientes
 - Ofrece protección anticaries
+- Combate la placa entre los dientes
+- Tiene un aliento fresco
+- Es formulado con micro-granulos
 
 [Visítala!!!](https://www.amazon.es/dp/B01MYGH4TF/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [KoffieCup Intense 40 cápsulas compostables de café compati
 
 [![KoffieCup Intense 40 cápsulas compostabl](https://m.media-amazon.com/images/I/41UWBaCw51L._SL200_.jpg)](https://www.amazon.es/dp/B08D3Y2KB4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08D3Y2KB4/?tag=tolees-21)

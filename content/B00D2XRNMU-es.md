@@ -22,7 +22,7 @@ Ahora mismo tienes [Colgate 360° - Cepillo de Dientes Medio con Limpiador de Le
 
 [![Colgate 360° - Cepillo de Dientes Medio ](https://m.media-amazon.com/images/I/41ttPcEIDBL._SL200_.jpg)](https://www.amazon.es/dp/B00D2XRNMU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00D2XRNMU/?tag=tolees-21)

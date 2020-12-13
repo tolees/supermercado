@@ -22,7 +22,7 @@ Ahora mismo tienes [Gillette Labs Heated Razor Máquina de Afeitar Caliente + 1 
 
 [![Gillette Labs Heated Razor Máquina de Af](https://m.media-amazon.com/images/I/41XCs9PWBYL._SL200_.jpg)](https://www.amazon.es/dp/B083KZFMNS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B083KZFMNS/?tag=tolees-21)

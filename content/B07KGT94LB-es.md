@@ -22,7 +22,7 @@ Ahora mismo tienes [Maybelline Tattoo Liner 900 Deep Onyx - Lápiz de Ojos Semi-
 
 [![Maybelline Tattoo Liner 900 Deep Onyx - ](https://m.media-amazon.com/images/I/210SN3JVwBL._SL200_.jpg)](https://www.amazon.es/dp/B07KGT94LB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KGT94LB/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Maybelline New York Fit Me - Polvos Compactos Matificantes y
 
 [![Maybelline New York Fit Me - Polvos Comp](https://m.media-amazon.com/images/I/41JcQeJF8eL._SL200_.jpg)](https://www.amazon.es/dp/B06XGH5HLZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XGH5HLZ/?tag=tolees-21)

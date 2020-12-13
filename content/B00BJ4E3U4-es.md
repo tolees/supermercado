@@ -22,7 +22,7 @@ Ahora mismo tienes [Coronas Crianza  Vino Tinto - 6 botellas de 75 cl  Total: 45
 
 [![Coronas Crianza  Vino Tinto - 6 botellas](https://m.media-amazon.com/images/I/41a4TwopuHL._SL200_.jpg)](https://www.amazon.es/dp/B00BJ4E3U4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00BJ4E3U4/?tag=tolees-21)

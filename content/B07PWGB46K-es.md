@@ -22,7 +22,7 @@ Ahora mismo tienes [Fenteer Cuchara De Té De Aleación Retro Cuchara De Café P
 
 [![Fenteer Cuchara De Té De Aleación Retro ](https://m.media-amazon.com/images/I/31aVwS-nm0L._SL200_.jpg)](https://www.amazon.es/dp/B07PWGB46K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PWGB46K/?tag=tolees-21)

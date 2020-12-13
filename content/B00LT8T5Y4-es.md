@@ -22,7 +22,7 @@ Ahora mismo tienes [Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duració
 
 [![Revlon ColorStay Gel Envy Esmalte de Uña](https://m.media-amazon.com/images/I/31aF2-9YxjL._SL200_.jpg)](https://www.amazon.es/dp/B00LT8T5Y4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00LT8T5Y4/?tag=tolees-21)

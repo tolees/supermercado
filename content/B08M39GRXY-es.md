@@ -22,7 +22,7 @@ Ahora mismo tienes [Longspeed Kawaii Cute Fish Shape Colador de té Silicona Int
 
 [![Longspeed Kawaii Cute Fish Shape Colador](https://m.media-amazon.com/images/I/3193URrCLCL._SL200_.jpg)](https://www.amazon.es/dp/B08M39GRXY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08M39GRXY/?tag=tolees-21)

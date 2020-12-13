@@ -22,7 +22,7 @@ Ahora mismo tienes [Oral-B Genius 9000N Cepillo de Dientes Eléctrico Tecnologí
 
 [![Oral-B Genius 9000N Cepillo de Dientes E](https://m.media-amazon.com/images/I/51B82ZtH-yL._SL200_.jpg)](https://www.amazon.es/dp/B01EON1IEA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01EON1IEA/?tag=tolees-21)

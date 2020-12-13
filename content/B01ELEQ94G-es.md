@@ -22,7 +22,7 @@ Ahora mismo tienes [HOMCOM Máquina de Algodón de Azúcar Eléctrica Profesiona
 
 [![HOMCOM Máquina de Algodón de Azúcar Eléc](https://m.media-amazon.com/images/I/41COMBXh--L._SL200_.jpg)](https://www.amazon.es/dp/B01ELEQ94G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01ELEQ94G/?tag=tolees-21)

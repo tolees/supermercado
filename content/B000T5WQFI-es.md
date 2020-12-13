@@ -22,7 +22,7 @@ Ahora mismo tienes [Revlon ColorStay Base de Maquillaje piel normal/seca FPS20  
 
 [![Revlon ColorStay Base de Maquillaje piel](https://m.media-amazon.com/images/I/41hgVYJ0ulL._SL200_.jpg)](https://www.amazon.es/dp/B000T5WQFI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000T5WQFI/?tag=tolees-21)

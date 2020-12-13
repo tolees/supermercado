@@ -22,7 +22,7 @@ Ahora mismo tienes [Marca Amazon - Happy Belly - Sal con romero  4 x 60 g](http
 
 [![Marca Amazon - Happy Belly - Sal con rom](https://m.media-amazon.com/images/I/41WY0dDotIL._SL200_.jpg)](https://www.amazon.es/dp/B07ZDNM37N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZDNM37N/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Colgate Sensitive Pro Alivio  Pasta de dientes blanqueante  
 
 [![Colgate Sensitive Pro Alivio  Pasta de d](https://m.media-amazon.com/images/I/51HyCaffOxL._SL200_.jpg)](https://www.amazon.es/dp/B08FBVVRZD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08FBVVRZD/?tag=tolees-21)

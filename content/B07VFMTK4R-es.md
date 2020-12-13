@@ -22,7 +22,7 @@ Ahora mismo tienes [Horno de Leña Copos De Avena Finos Y Blandos Eco 1000 g](ht
 
 [![Horno de Leña Copos De Avena Finos Y Bla](https://m.media-amazon.com/images/I/51AUayMTMBL._SL200_.jpg)](https://www.amazon.es/dp/B07VFMTK4R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07VFMTK4R/?tag=tolees-21)

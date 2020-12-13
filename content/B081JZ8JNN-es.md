@@ -22,7 +22,7 @@ Ahora mismo tienes [Justdodo Taza Plegable portátil Té de Agua 130 ml Paja de 
 
 [![Justdodo Taza Plegable portátil Té de Ag](https://m.media-amazon.com/images/I/41rcEwbQvRL._SL200_.jpg)](https://www.amazon.es/dp/B081JZ8JNN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B081JZ8JNN/?tag=tolees-21)

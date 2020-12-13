@@ -22,7 +22,7 @@ Ahora mismo tienes [Colgate Max White Expert Complete  Pasta de Dientes  blanque
 
 [![Colgate Max White Expert Complete  Pasta](https://m.media-amazon.com/images/I/51yunTP-04L._SL200_.jpg)](https://www.amazon.es/dp/B08FBVCPMZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08FBVCPMZ/?tag=tolees-21)

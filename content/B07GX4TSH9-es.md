@@ -22,7 +22,7 @@ Ahora mismo tienes [Smint 2H Frutos Rojos  Caramelo Comprimido Sin Azúcar - 12 
 
 [![Smint 2H Frutos Rojos  Caramelo Comprimi](https://m.media-amazon.com/images/I/51O2lRdjI+L._SL200_.jpg)](https://www.amazon.es/dp/B07GX4TSH9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GX4TSH9/?tag=tolees-21)

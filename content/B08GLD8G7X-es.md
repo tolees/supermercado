@@ -22,7 +22,7 @@ Ahora mismo tienes [ANVASK Dispensador Jabon Automático Montaje en Pared  350ML
 
 [![ANVASK Dispensador Jabon Automático Mont](https://m.media-amazon.com/images/I/31v660J7xoL._SL200_.jpg)](https://www.amazon.es/dp/B08GLD8G7X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08GLD8G7X/?tag=tolees-21)

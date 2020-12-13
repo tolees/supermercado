@@ -22,7 +22,7 @@ Ahora mismo tienes [Jabón Natural  Jabón Manos y Cara  Jabón Vegano  Aloe Jab
 
 [![Jabón Natural  Jabón Manos y Cara  Jabón](https://m.media-amazon.com/images/I/51FDo2uUERL._SL200_.jpg)](https://www.amazon.es/dp/B0861V2ZRX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0861V2ZRX/?tag=tolees-21)

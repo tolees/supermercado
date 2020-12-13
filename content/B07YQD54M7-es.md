@@ -22,7 +22,7 @@ Ahora mismo tienes [Pompadour Grand Maroc Té - 10 Cápsulas](https://www.amazon
 
 [![Pompadour Grand Maroc Té - 10 Cápsulas](https://m.media-amazon.com/images/I/51ehSAaK8CL._SL200_.jpg)](https://www.amazon.es/dp/B07YQD54M7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07YQD54M7/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [BPT Simpleway C1 - Dispensador de jabón automático  300 ml
 
 [![BPT Simpleway C1 - Dispensador de jabón ](https://m.media-amazon.com/images/I/41g8VpBzAIL._SL200_.jpg)](https://www.amazon.es/dp/B08DNQ9GCP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08DNQ9GCP/?tag=tolees-21)

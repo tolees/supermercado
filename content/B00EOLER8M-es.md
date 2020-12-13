@@ -22,7 +22,7 @@ Ahora mismo tienes [Smint Tin Fresa  Caramelo Comprimido Sin Azúcar - 12 unidad
 
 [![Smint Tin Fresa  Caramelo Comprimido Sin](https://m.media-amazon.com/images/I/51Pm9Qv7PuL._SL200_.jpg)](https://www.amazon.es/dp/B00EOLER8M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00EOLER8M/?tag=tolees-21)

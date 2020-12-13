@@ -22,7 +22,7 @@ Ahora mismo tienes [Max Factor  Base de maquillaje  Tono: 65 Rose Beige  Pieles 
 
 [![Max Factor  Base de maquillaje  Tono: 65](https://m.media-amazon.com/images/I/31CFCNr70XL._SL200_.jpg)](https://www.amazon.es/dp/B07G5NY5VM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G5NY5VM/?tag=tolees-21)

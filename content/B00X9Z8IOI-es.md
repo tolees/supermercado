@@ -22,7 +22,7 @@ Ahora mismo tienes [Friskies - Alimento para Perros Snacks Variety 126 g](https:
 
 [![Friskies - Alimento para Perros Snacks V](https://m.media-amazon.com/images/I/51mFJTCsoiL._SL200_.jpg)](https://www.amazon.es/dp/B00X9Z8IOI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00X9Z8IOI/?tag=tolees-21)

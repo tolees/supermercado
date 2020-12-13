@@ -22,7 +22,7 @@ Ahora mismo tienes [Magno Gel de ducha Rosé con Aceite de Almendra - 550 ml](ht
 
 [![Magno Gel de ducha Rosé con Aceite de Al](https://m.media-amazon.com/images/I/31oK0Lhbj6L._SL200_.jpg)](https://www.amazon.es/dp/B07MG7GK81/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MG7GK81/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Ginebra premium Ampersand London Dry Gin - 1 botella de 70 c
 
 [![Ginebra premium Ampersand London Dry Gin](https://m.media-amazon.com/images/I/31QJ2kv0jxL._SL200_.jpg)](https://www.amazon.es/dp/B0143OWZXI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0143OWZXI/?tag=tolees-21)

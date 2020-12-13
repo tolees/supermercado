@@ -22,7 +22,7 @@ Ahora mismo tienes [Oral-B CrossAction Cabezales de recambio con tecnología Cle
 
 [![Oral-B CrossAction Cabezales de recambio](https://m.media-amazon.com/images/I/51nY9s9dxKL._SL200_.jpg)](https://www.amazon.es/dp/B086TX9BWR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B086TX9BWR/?tag=tolees-21)

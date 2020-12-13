@@ -22,7 +22,7 @@ Ahora mismo tienes [Listerine - Enjuague Bucal Protección Dientes y Encías  2 
 
 [![Listerine - Enjuague Bucal Protección Di](https://m.media-amazon.com/images/I/51u-9sqKyQL._SL200_.jpg)](https://www.amazon.es/dp/B086KDL6WT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B086KDL6WT/?tag=tolees-21)

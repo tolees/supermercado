@@ -22,7 +22,7 @@ Ahora mismo tienes [Smint Tin Menta  Caramelo Comprimido Sin Azúcar - 12 unidad
 
 [![Smint Tin Menta  Caramelo Comprimido Sin](https://m.media-amazon.com/images/I/51+gUB6QzEL._SL200_.jpg)](https://www.amazon.es/dp/B00GUJ5S3Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00GUJ5S3Y/?tag=tolees-21)

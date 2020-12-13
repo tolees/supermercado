@@ -22,7 +22,7 @@ Ahora mismo tienes [Chocolates Simón Coll - Gotas de Chocolate Blanco  500 g](h
 
 [![Chocolates Simón Coll - Gotas de Chocola](https://m.media-amazon.com/images/I/41Mozb1opTL._SL200_.jpg)](https://www.amazon.es/dp/B079YYH3H1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079YYH3H1/?tag=tolees-21)

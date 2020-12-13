@@ -22,7 +22,7 @@ Ahora mismo tienes [Revlon Super Lustrous Pintalabios  Love is On ](https://www.
 
 [![Revlon Super Lustrous Pintalabios  Love ](https://m.media-amazon.com/images/I/31BnYFBhcjL._SL200_.jpg)](https://www.amazon.es/dp/B01FIL601I/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01FIL601I/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Marca Amazon - Lifelong Complete- Alimento seco completo par
 
 [![Marca Amazon - Lifelong Complete- Alimen](https://m.media-amazon.com/images/I/41g0-z1ermL._SL200_.jpg)](https://www.amazon.es/dp/B07HB68Z5K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HB68Z5K/?tag=tolees-21)

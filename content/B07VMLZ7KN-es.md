@@ -22,7 +22,7 @@ Ahora mismo tienes [Krups The Sub Heineken VB650E10 - Tirador de cerveza  2 L fr
 
 [![Krups The Sub Heineken VB650E10 - Tirado](https://m.media-amazon.com/images/I/41ByygkEznL._SL200_.jpg)](https://www.amazon.es/dp/B07VMLZ7KN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07VMLZ7KN/?tag=tolees-21)

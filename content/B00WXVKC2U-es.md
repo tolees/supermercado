@@ -22,7 +22,7 @@ Ahora mismo tienes [OptiFibre de Nestlé Health Science  100% vegetal  1 x 250 g
 
 [![OptiFibre de Nestlé Health Science  100%](https://m.media-amazon.com/images/I/41aQAeXAdKL._SL200_.jpg)](https://www.amazon.es/dp/B00WXVKC2U/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00WXVKC2U/?tag=tolees-21)

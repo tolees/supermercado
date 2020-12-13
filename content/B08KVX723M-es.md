@@ -22,7 +22,7 @@ Ahora mismo tienes [100Pcs Bolsas de Filtro de Té con Cordón Bolsas de Té Vac
 
 [![100Pcs Bolsas de Filtro de Té con Cordón](https://m.media-amazon.com/images/I/51LtglumJ+L._SL200_.jpg)](https://www.amazon.es/dp/B08KVX723M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B08KVX723M/?tag=tolees-21)

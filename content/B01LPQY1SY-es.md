@@ -22,7 +22,7 @@ Ahora mismo tienes [Garnier Olia - Decolorante Permanente sin Amoniaco  con Acei
 
 [![Garnier Olia - Decolorante Permanente si](https://m.media-amazon.com/images/I/512tPuXvLIL._SL200_.jpg)](https://www.amazon.es/dp/B01LPQY1SY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LPQY1SY/?tag=tolees-21)

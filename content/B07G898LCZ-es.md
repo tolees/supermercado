@@ -22,7 +22,7 @@ Ahora mismo tienes [TRESemmé Champú Botanique Macadamia - 700 ml](https://www.
 
 [![TRESemmé Champú Botanique Macadamia - 70](https://m.media-amazon.com/images/I/41XkK2pxcRL._SL200_.jpg)](https://www.amazon.es/dp/B07G898LCZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G898LCZ/?tag=tolees-21)

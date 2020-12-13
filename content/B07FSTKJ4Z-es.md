@@ -22,7 +22,7 @@ Ahora mismo tienes [Oral-B PRO 2 2500 CrossAction Cepillo de dientes eléctrico
 
 [![Oral-B PRO 2 2500 CrossAction Cepillo de](https://m.media-amazon.com/images/I/417KU8qOWCL._SL200_.jpg)](https://www.amazon.es/dp/B07FSTKJ4Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FSTKJ4Z/?tag=tolees-21)

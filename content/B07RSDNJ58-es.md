@@ -22,7 +22,7 @@ Ahora mismo tienes [Oral-B Genius X 20000N - Cepillo De Dientes Eléctrico con T
 
 [![Oral-B Genius X 20000N - Cepillo De Dien](https://m.media-amazon.com/images/I/41ASZvITC4L._SL200_.jpg)](https://www.amazon.es/dp/B07RSDNJ58/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07RSDNJ58/?tag=tolees-21)

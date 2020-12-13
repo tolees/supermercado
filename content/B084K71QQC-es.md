@@ -22,7 +22,7 @@ Ahora mismo tienes [Parodontax Herbal Fresh Pasta de Dientes que Ayuda a Detener
 
 [![Parodontax Herbal Fresh Pasta de Dientes](https://m.media-amazon.com/images/I/516Ws64ppDL._SL200_.jpg)](https://www.amazon.es/dp/B084K71QQC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B084K71QQC/?tag=tolees-21)

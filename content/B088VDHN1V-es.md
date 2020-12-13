@@ -22,7 +22,7 @@ Ahora mismo tienes [Colgate Kit Blanqueante con Pasta de Dientes Max White Lumin
 
 [![Colgate Kit Blanqueante con Pasta de Die](https://m.media-amazon.com/images/I/51fNmDtKDeL._SL200_.jpg)](https://www.amazon.es/dp/B088VDHN1V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B088VDHN1V/?tag=tolees-21)

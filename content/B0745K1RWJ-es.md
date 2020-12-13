@@ -22,7 +22,7 @@ Ahora mismo tienes [Solaray Vitamina D3 + K2 | Favorece la absorción de calcio 
 
 [![Solaray Vitamina D3 + K2 | Favorece la a](https://m.media-amazon.com/images/I/41b+rO6iK6L._SL200_.jpg)](https://www.amazon.es/dp/B0745K1RWJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0745K1RWJ/?tag=tolees-21)

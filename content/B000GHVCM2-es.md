@@ -22,7 +22,7 @@ Ahora mismo tienes [Jabón facial para mujer - 200 ml](https://www.amazon.es/dp/
 
 [![Jabón facial para mujer - 200 ml](https://m.media-amazon.com/images/I/31ChHh1ptTL._SL200_.jpg)](https://www.amazon.es/dp/B000GHVCM2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000GHVCM2/?tag=tolees-21)

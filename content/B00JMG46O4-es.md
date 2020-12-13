@@ -22,7 +22,7 @@ Ahora mismo tienes [Fairy Ultra  Líquido lavavajillas verde oscuro sin remojo n
 
 [![Fairy Ultra  Líquido lavavajillas verde ](https://m.media-amazon.com/images/I/41g3vGeStcL._SL200_.jpg)](https://www.amazon.es/dp/B00JMG46O4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00JMG46O4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [GIOR - Detergente Líquido para Lavadora  Ropa Blanca y de C
 
 [![GIOR - Detergente Líquido para Lavadora ](https://m.media-amazon.com/images/I/31fTj70HFqL._SL200_.jpg)](https://www.amazon.es/dp/B00UCCWT32/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00UCCWT32/?tag=tolees-21)

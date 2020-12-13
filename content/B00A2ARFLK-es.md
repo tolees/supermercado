@@ -22,7 +22,7 @@ Ahora mismo tienes [LIDA Jabón 100% Natural Glicerina - 600 ml](https://www.ama
 
 [![LIDA Jabón 100% Natural Glicerina - 600 ](https://m.media-amazon.com/images/I/41U-AG-W4eL._SL200_.jpg)](https://www.amazon.es/dp/B00A2ARFLK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00A2ARFLK/?tag=tolees-21)

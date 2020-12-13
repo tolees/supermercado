@@ -22,7 +22,7 @@ Ahora mismo tienes [Cardenal Mendoza - Brandy De Jerez  70 cl](https://www.amazo
 
 [![Cardenal Mendoza - Brandy De Jerez  70 c](https://m.media-amazon.com/images/I/41Q8dTnkV1L._SL200_.jpg)](https://www.amazon.es/dp/B005UXJSYQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B005UXJSYQ/?tag=tolees-21)

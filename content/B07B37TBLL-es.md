@@ -22,7 +22,7 @@ Ahora mismo tienes [Marqués de Carrión Reserva - Vino Tinto D.O Rioja - Caja d
 
 [![Marqués de Carrión Reserva - Vino Tinto ](https://m.media-amazon.com/images/I/41fbFgADVxL._SL200_.jpg)](https://www.amazon.es/dp/B07B37TBLL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B37TBLL/?tag=tolees-21)

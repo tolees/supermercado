@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips Sonicare Hx9901/63 Diamondclean Smart - Cepillo de D
 
 [![Philips Sonicare Hx9901/63 Diamondclean ](https://m.media-amazon.com/images/I/41BTKMqLC2L._SL200_.jpg)](https://www.amazon.es/dp/B07Q76CMRG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07Q76CMRG/?tag=tolees-21)

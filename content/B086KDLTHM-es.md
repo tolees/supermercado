@@ -22,7 +22,7 @@ Ahora mismo tienes [Listerine - Enjuague Bucal Mentol Sabor Suave  2 x 1000 ml 2
 
 [![Listerine - Enjuague Bucal Mentol Sabor ](https://m.media-amazon.com/images/I/51MpMtr1yCL._SL200_.jpg)](https://www.amazon.es/dp/B086KDLTHM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B086KDLTHM/?tag=tolees-21)

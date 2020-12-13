@@ -22,7 +22,7 @@ Ahora mismo tienes [Lékué Recipiente para cocinar Quinoa  Arroces y Cereales  
 
 [![Lékué Recipiente para cocinar Quinoa  Ar](https://m.media-amazon.com/images/I/41H98OcDtrL._SL200_.jpg)](https://www.amazon.es/dp/B07HYDMK7J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HYDMK7J/?tag=tolees-21)
