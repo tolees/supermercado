@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español - Pieles Atópicas - Cr al 76.65 % de descuento'
-date: 2020-12-10 20:28:14
+date: 2020-12-13 16:02:09
 image: 'https://m.media-amazon.com/images/I/41yzdPxkLPL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [Instituto Español - Pieles Atópicas - Crema cuidado integral - 50 ml](h
 ℹ️:
 
 - No irrita
-- Hipoalergénico
 - Acción anti-sequedad
-- Regenera progresivamente la piel
 - Calma el picor
+- Regenera progresivamente la piel
 - Especial piel atópica
+- Hipoalergénico
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00XAIPYV4/?tag=tolees-21)
