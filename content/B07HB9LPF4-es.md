@@ -25,9 +25,9 @@ Ahora mismo tienes [Johnnie Walker White Walker Whisky Escocés  Edición limita
 🔎:
 
 - White Walker de Johnnie Walker es una edición limitada inspirada en los personajes de la serie Juego de Tronos con una botella y packaging único
+- Una edición limitada única, creada por el maestro destilero y especialista George Harper. Perfecta para regalar
 - La mejor manera de disfrutar de esta edición limitada de Johnnie Walker es congelándola y serviéndola directamente en un vaso con hielo
 - Notas de caramelo, vainilla y frutos rojos. Es un whisky no ahumado
-- Una edición limitada única, creada por el maestro destilero y especialista George Harper. Perfecta para regalar
 - Cuando se congela, la botella desvela detalles invisibles que a temperatura ambiente no se ven
 
 [Visítala!!!](https://www.amazon.es/dp/B07HB9LPF4/?tag=tolees-21)
