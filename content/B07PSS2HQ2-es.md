@@ -25,8 +25,8 @@ Ahora mismo tienes [Moussel  Gel y jabón  Aloe vera  - 900 ml.](https://www.ama
 
 🔎:
 
-- Gracias a su aroma y espuma, sentirás que no hay mejor ocasión para reconectar cuerpo y mente
-- Con ingredientes hidratantes y Aloe Vera
 - Moussel Aloe Vera convierte tu ducha diaria en un placentero momento para conectar contigo
+- Con ingredientes hidratantes y Aloe Vera
+- Gracias a su aroma y espuma, sentirás que no hay mejor ocasión para reconectar cuerpo y mente
 
 [Visítala!!!](https://www.amazon.es/dp/B07PSS2HQ2/?tag=tolees-21)

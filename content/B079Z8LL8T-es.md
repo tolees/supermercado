@@ -27,7 +27,7 @@ Ahora mismo tienes [Simón Coll - Gotas de Chocolate con Leche 500g](https://www
 
 - Cobertura y decoración repostería
 - Expertos chocolateros desde 1840.
-- Elaboración con ingredientes de calidad y producción bean to bar, desde el haba de cacao.
 - Sin gluten. Sin aceite de palma.
+- Elaboración con ingredientes de calidad y producción bean to bar, desde el haba de cacao.
 
 [Visítala!!!](https://www.amazon.es/dp/B079Z8LL8T/?tag=tolees-21)
