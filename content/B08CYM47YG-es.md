@@ -24,9 +24,9 @@ Está [Mimosín Intense Suavizante Elixir Floral 52 Lavados  1196 ml - Pack de 6
 
 ℹ️:
 
-- Mimosín Intense Elixir Floral
-- Suavizante concentrado intenso
 - Una explosión de suavidad
+- Suavizante concentrado intenso
+- Mimosín Intense Elixir Floral
 - Permite mantener la suavidad de la ropa incluso después de una pequeña temporada en el armario
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08CYM47YG/?tag=tolees-21)
