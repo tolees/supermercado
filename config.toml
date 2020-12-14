@@ -1,5 +1,5 @@
 baseURL = "https://supermercado.tole.es"
-title = "Últimas ofertas"
+title = "Productos en oferta para tu casa"
 theme = "portfolio"
 languageCode = "es-es"
 # Enable comments by entering your Disqus shortname
