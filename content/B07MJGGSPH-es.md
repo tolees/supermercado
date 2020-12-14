@@ -25,10 +25,10 @@ Está [Metronic 477510 - Radio FM mp3 West Street Coca-Cola con Toma USB/microsd
 
 ℹ️:
 
-- Búsqueda y memorización de emisoras de radio
-- Pantalla digital con visualización de la hora
 - Tuner digital fm; función despertador (buzzer o radio)
-- Función sleep: permite un apagado automático de la radio; función snooze: repetición de la alarma
 - Reproducción en tu radio fm mp3 de tu música almacenada en tu llave usb o tu tarjeta micro sd
+- Búsqueda y memorización de emisoras de radio
+- Función sleep: permite un apagado automático de la radio; función snooze: repetición de la alarma
+- Pantalla digital con visualización de la hora
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MJGGSPH/?tag=tolees-21)
