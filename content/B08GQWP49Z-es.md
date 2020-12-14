@@ -24,13 +24,13 @@ Tienes [Dove Jabón de manos Care & Protect con dosificador y recambio 2x250 ml 
 
 ℹ️:
 
-- Hidratación
-- Suaviza y protege las manos
-- Protección ante bacterias
-- Gel de manos
 - 1/4 de Crema hidratante
+- Gel de manos
 - Ingredientes antibacterianos
 - Para nutrir y proteger las manos
+- Suaviza y protege las manos
+- Hidratación
 - Limpia en profundidad
+- Protección ante bacterias
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08GQWP49Z/?tag=tolees-21)
