@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pasta de Dientes Oral-B Pro-Expert Sensi al 26.07 % de descuento'
-date: 2020-12-09 20:24:14
+date: 2020-12-13 22:54:57
 image: 'https://m.media-amazon.com/images/I/41bVi6tNh0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,8 @@ Ahora mismo tienes [Pasta de Dientes Oral-B Pro-Expert Sensibilidad + Blanqueant
 
 🔎:
 
+- Pasta con fluoruro de estaño que fortalece y protege el esmalte
+- Pasta con fluoruro de estaño que fortalece y protege el esmalte
+- Pasta con fluoruro de estaño que fortalece y protege el esmalte
 
 [Visítala!!!](https://www.amazon.es/dp/B00XAGF2OA/?tag=tolees-21)
