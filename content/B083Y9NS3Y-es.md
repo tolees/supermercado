@@ -25,17 +25,17 @@ Ahora mismo tienes [Baby Dove Gel de Ducha para Bebés Noches Tranquilas - Pack 
 
 🔎:
 
-- Este producto no contiene lácteos
 - Suave como el agua. Clínicamente probado
-- Sin lágrimas
 - Ayuda a conservar la hidratación natural de la piel del bebé durante toda la noche
-- Fórmula hipoalergénica y con pH neutro para la piel del bebé
-- Test realizado con 250 familias en US en 2019. Detalles disponibles bajo petición(Estudio hecho por IPSOS)
-- Dermatológica, pediátrica y oftalmológicamente testado
 - 9 de cada 10 madres y padres recomiendan utilizar este producto como parte de la rutina de noche
-- Formulado con limpiadores suaves, sin sulfatos SLES
-- Con nutrientes 100% naturalmente presentes en la piel del bebé
+- Este producto no contiene lácteos
 - Gel para bebés adecuado para recién nacidos
+- Formulado con limpiadores suaves, sin sulfatos SLES
+- Test realizado con 250 familias en US en 2019. Detalles disponibles bajo petición(Estudio hecho por IPSOS)
+- Con nutrientes 100% naturalmente presentes en la piel del bebé
+- Sin lágrimas
 - Sin colorantes artificiales
+- Fórmula hipoalergénica y con pH neutro para la piel del bebé
+- Dermatológica, pediátrica y oftalmológicamente testado
 
 [Visítala!!!](https://www.amazon.es/dp/B083Y9NS3Y/?tag=tolees-21)
