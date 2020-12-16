@@ -25,10 +25,10 @@ Ahora mismo tienes [Oreo Bañadas - Galletas de Cacao Rellenas de Crema y Bañad
 
 🔎:
 
-- Alérgenos: contiene cereales con gluten, soja y leche
-- Conservar en lugar fresco y seco
 - Combina la textura crujiente de las láminas de galleta con la suavidad y la cremosidad de la nata y el baño de chocolate
-- Galletas de cacao rellenas de una deliciosa crema con sabor a vainilla, con cobertura con sabor a chocolate blanco
 - Con una deliciosa cobertura con sabor a chocolate blanco, para un sabor extra dulce, suave e irresistible
+- Conservar en lugar fresco y seco
+- Alérgenos: contiene cereales con gluten, soja y leche
+- Galletas de cacao rellenas de una deliciosa crema con sabor a vainilla, con cobertura con sabor a chocolate blanco
 
 [Visítala!!!](https://www.amazon.es/dp/B00XAO4WX4/?tag=tolees-21)
