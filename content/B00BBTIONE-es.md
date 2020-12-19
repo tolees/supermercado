@@ -25,10 +25,10 @@ Tienes [Bombay Sapphire Gin - 1000 ml](https://www.amazon.es/dp/B00BBTIONE/?tag=
 
 ℹ️:
 
-- Un equilibrio ideal de una combinación única de 10 ingredientes botánicos cuidadosamente seleccionados que provienen de todas partes del mundo
-- Aroma a enebro, piel de limón y bayas de cilantro
-- Con especias ligeras y cálidas, como almendras, raíz de cassia y regaliz
 - Acabado con granos del paraíso y bayas de cubeba
+- Aroma a enebro, piel de limón y bayas de cilantro
 - Sabores terrosos y aromáticos a raíz de orris y raíz de angélica
+- Con especias ligeras y cálidas, como almendras, raíz de cassia y regaliz
+- Un equilibrio ideal de una combinación única de 10 ingredientes botánicos cuidadosamente seleccionados que provienen de todas partes del mundo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BBTIONE/?tag=tolees-21)
