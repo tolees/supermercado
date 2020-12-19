@@ -25,9 +25,9 @@ Ahora mismo tienes [Cacique Añejo Ron - 700 ml](https://www.amazon.es/dp/B00GW2
 
 🔎:
 
-- Elaborado de forma artesanal y con las mejores materias primas que la naturaleza puede dar: agua pura manantial mejor caña azúcar
 - El Ron Cacique es un Añejo superior
-- El clima d entorno selvático idóneo para elaboración del Ron, hace tenga sabor único, equilibrado personalidad
 - Disfrútalo en vaso alto, hielo cola
+- Elaborado de forma artesanal y con las mejores materias primas que la naturaleza puede dar: agua pura manantial mejor caña azúcar
+- El clima d entorno selvático idóneo para elaboración del Ron, hace tenga sabor único, equilibrado personalidad
 
 [Visítala!!!](https://www.amazon.es/dp/B00GW2PCOY/?tag=tolees-21)
