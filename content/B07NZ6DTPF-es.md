@@ -25,10 +25,10 @@ Está [Johnson s Pure Protect - Jabón de manos 3 x 300 ml](https://www.amazon.e
 
 ℹ️:
 
-- Jabón de manos para niños que deja la piel limpia y con aspecto saludable
 - Hipoalergénico y con pH equilibrado
 - Jabón de manos sin sulfatos, colorantes, ftalatos, alcohol ni jabón
-- Probado por pediatras y dermatólogos
 - Formulado con miel, té verde y extracto de rooibos
+- Probado por pediatras y dermatólogos
+- Jabón de manos para niños que deja la piel limpia y con aspecto saludable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NZ6DTPF/?tag=tolees-21)
