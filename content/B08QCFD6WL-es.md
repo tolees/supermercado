@@ -25,10 +25,10 @@ Ahora mismo tienes [perfk Adaptador Convertidor de Cápsulas de Café para Máqu
 
 🔎:
 
-- Estructura a cuadros: aplasta de manera eficiente la tapa de la cápsula y prepara café fácilmente
-- Adecuado para DOLCEGUSTO EDG606, EDG466 Genio2, EDG305 Me, EDG455TEX1, EDG250, EDG626, KP1108
 - Coloque la cápsula de café en el convertidor y luego colóquela en la máquina de café.
-- Compatible con adaptador de cápsula DolceGusto soporte de conversión de cápsula reutilizable
 - Hecho de material de pp de grado alimenticio espeso, resistente al calor
+- Adecuado para DOLCEGUSTO EDG606, EDG466 Genio2, EDG305 Me, EDG455TEX1, EDG250, EDG626, KP1108
+- Compatible con adaptador de cápsula DolceGusto soporte de conversión de cápsula reutilizable
+- Estructura a cuadros: aplasta de manera eficiente la tapa de la cápsula y prepara café fácilmente
 
 [Visítala!!!](https://www.amazon.es/dp/B08QCFD6WL/?tag=tolees-21)
