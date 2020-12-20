@@ -25,10 +25,10 @@ Está [Babaria - Jabón De Manos de Coco&Aloe  Blanco  500 ml](https://www.amazo
 
 ℹ️:
 
-- Este producto está indicado tanto para mujeres como para hombres
 - Tipo de piel: Todas
+- 500 g
+- Este producto está indicado tanto para mujeres como para hombres
 - facil de usar
 - Número de modelo del producto: 8410412027021
-- 500 g
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00BBQ7QGS/?tag=tolees-21)
