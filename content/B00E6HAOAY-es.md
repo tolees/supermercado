@@ -25,10 +25,10 @@ Tienes [Philips Sonicare ProResults HX6018/07 - Set de 8 cabezales estándar par
 
 ℹ️:
 
-- Para áreas de difícil acceso
-- La cabeza del cepillo ayuda a reducir la presión sobre los dientes
 - Cerdas redondeadas para una limpieza suave y eficaz
-- Suave para las encías y los dientes
+- Para áreas de difícil acceso
 - Compatibles con todos los mangos ajustables Sonicare
+- Suave para las encías y los dientes
+- La cabeza del cepillo ayuda a reducir la presión sobre los dientes
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00E6HAOAY/?tag=tolees-21)
