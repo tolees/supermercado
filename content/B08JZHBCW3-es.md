@@ -25,10 +25,10 @@ Ahora mismo tienes [EHC Juego de 3 tarros de almacenamiento de té  azúcar y ca
 
 🔎:
 
+- Cuidado y uso: lavar antes de usar. Lavables a mano. Tapa fácil de limpiar.
+- Regalo perfecto: estos son el perfecto nuevo hogar, boda, regalo de Navidad y maravillosa idea de regalo para tus familiares y amigos para cumpleaños.
+- Diseño elegante y clásico: estos magníficos recipientes definitivamente añadirán un toque de elegancia a cualquier cocina, siendo fáciles de mezclar y combinar con cualquier tipo de decoración, desde modernos, minimalistas hasta más clásicos.
 - Material: los recipientes simples y elegantes están hechos de metal con recubrimiento de polvo.
 - Uso: adecuado para uso en cocina, oficina, hotel, restaurante, sala de café, etc.
-- Regalo perfecto: estos son el perfecto nuevo hogar, boda, regalo de Navidad y maravillosa idea de regalo para tus familiares y amigos para cumpleaños.
-- Cuidado y uso: lavar antes de usar. Lavables a mano. Tapa fácil de limpiar.
-- Diseño elegante y clásico: estos magníficos recipientes definitivamente añadirán un toque de elegancia a cualquier cocina, siendo fáciles de mezclar y combinar con cualquier tipo de decoración, desde modernos, minimalistas hasta más clásicos.
 
 [Visítala!!!](https://www.amazon.es/dp/B08JZHBCW3/?tag=tolees-21)
