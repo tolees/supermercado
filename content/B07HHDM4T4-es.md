@@ -25,10 +25,10 @@ Tienes [Grefusa - MisterCorn Africa | Cocktail de Frutos Secos con Sabor a Espec
 
 ℹ️:
 
-- Snacks fritos | Fuente de fibra sin conservantes ni colorantes artificiales
 - Tentempie idóneo para descubrir los tesoros de África - Una perfecta combinación con cacahuetes y el auténtico sabor a especias surafricanas
-- Surtido de frutos secos - Una mezcla perfecta durante el aperitivo o como picoteo (Maiz - Bolitas - Triangulos - Cacahuetes) sabor a especias surafricanas
 - Bolsa de frutos secos mezclados de 195 gramos
+- Snacks fritos | Fuente de fibra sin conservantes ni colorantes artificiales
 - Snack sin aceite de palma
+- Surtido de frutos secos - Una mezcla perfecta durante el aperitivo o como picoteo (Maiz - Bolitas - Triangulos - Cacahuetes) sabor a especias surafricanas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HHDM4T4/?tag=tolees-21)
