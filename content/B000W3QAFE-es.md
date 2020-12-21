@@ -25,10 +25,10 @@ En este momento está [Max Factor Max Factor Lasting Performance - Base De Maqui
 
 🔎:
 
-- Sensación ligera
+- Sin aceite, sin fragancia
 - No obstruye los poros
 - Base de maquillaje líquida
-- Sin aceite, sin fragancia
+- Sensación ligera
 - A prueba de roces, a prueba del día a día
 
 [Aquí!!!](https://www.amazon.es/dp/B000W3QAFE/?tag=tolees-21)
