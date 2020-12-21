@@ -26,9 +26,9 @@ Tienes [SOTYA Proteína Soja 100% Vainilla 1 kg](https://www.amazon.es/dp/B00GY7
 ℹ️:
 
 - De la marca Sotya
-- En proteína de soja aislada garantizado IP (identidad preservada)
-- No contiene lactosa
 - No contiene ingredientes de origen animal
 - Te facilita la obtencion más rendimiento deportivo
+- No contiene lactosa
+- En proteína de soja aislada garantizado IP (identidad preservada)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GY7CEH0/?tag=tolees-21)
