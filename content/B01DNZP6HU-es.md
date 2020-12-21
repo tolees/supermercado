@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Catto´s  Catto´S Blended Scotch Whisky - al 37.02 % de descuento'
-date: 2020-12-18 14:29:39
+date: 2020-12-21 17:03:08
 image: 'https://m.media-amazon.com/images/I/31TdLv91PjL._SL200_.jpg'
 comments: true
 category: ofertas
