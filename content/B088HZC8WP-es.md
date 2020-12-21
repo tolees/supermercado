@@ -25,11 +25,11 @@ Tienes [Ariel Pods Allin1 Detergente en Cápsulas para Lavadora  Ultra Oxi  129 
 
 ℹ️:
 
+- Eficaz en frío (incluso a 30ºC)
+- Resultados óptimos en una sola cápsula (detergente concentrado)
+- Fragancia intensa
+- Iluminador
 - POD contra las manchas más difíciles
 - Limpieza profunda e higiene
-- Resultados óptimos en una sola cápsula (detergente concentrado)
-- Iluminador
-- Eficaz en frío (incluso a 30ºC)
-- Fragancia intensa
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B088HZC8WP/?tag=tolees-21)
