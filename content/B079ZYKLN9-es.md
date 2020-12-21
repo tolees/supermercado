@@ -26,10 +26,10 @@ Está [Nestlé Papilla 8 cereales con galleta María - Alimento Para bebés - Pa
 ℹ️:
 
 - Papillas elaboradas a partir de cereales 100% naturales, seleccionados especialmente para la alimentación infantil
+- Cereales infantiles de fácil disolución, sin grumos
 - Con Hierro, Zinc y vitaminas A y C, que ayudan a la función normal del sistema inmunitario
 - Papilla de 8 cereales Nestlé con un delicioso sabor a galleta que le encantará a tu bebé
 - Con Hierro+, que contribuye a su desarrollo cognitivo normal
 - Sin aceite de palma y sin azúcares añadidos Contiene los naturalmente presentes
-- Cereales infantiles de fácil disolución, sin grumos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079ZYKLN9/?tag=tolees-21)
