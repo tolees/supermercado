@@ -25,10 +25,10 @@ En este momento está [Max Factor  Bronceador e iluminador facial  Tono Universa
 
 🔎:
 
+- Fórmula ligera de larga duración
 - Paleta universal para hacer counturing
-- Polvos diseñados para adaptarse a todos los tonos de piel
 - Dermatológicamente testado
 - Fácil de aplicar, se funde con tu piel suavemente
-- Fórmula ligera de larga duración
+- Polvos diseñados para adaptarse a todos los tonos de piel
 
 [Aquí!!!](https://www.amazon.es/dp/B079YW4SD3/?tag=tolees-21)

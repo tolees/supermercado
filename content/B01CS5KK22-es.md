@@ -27,7 +27,7 @@ Ahora mismo tienes [Instituto Español Crema Reparadora Piel Seca de Urea al 20%
 
 - Acción regeneradora
 - No grasa, de rápida absorción
-- Zonas secas y agrietadas
 - Nueva fórmula 20% para una Ultra-hidratación
+- Zonas secas y agrietadas
 
 [Visítala!!!](https://www.amazon.es/dp/B01CS5KK22/?tag=tolees-21)
