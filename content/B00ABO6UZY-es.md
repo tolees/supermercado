@@ -25,11 +25,11 @@ Está [1866 Brandy Solera Gran Reserva - 700 ml](https://www.amazon.es/dp/B00ABO
 
 ℹ️:
 
+- Su envejecimiento en botas de roble americano hacen que 1866 haya conseguido toda su armonia y suvidad que lo distingue de los demás brandis.
+- 40º Graduación Alcoholica
 - Gran lujo
 - Intensidad aromática, profundo con ligeras notas de vainilla, cacao, y frutos secos
-- Este brandy de limitada elaboración es fruto de nuestra larga experiencia y tradición de más de 100 años.
-- 40º Graduación Alcoholica
-- Su envejecimiento en botas de roble americano hacen que 1866 haya conseguido toda su armonia y suvidad que lo distingue de los demás brandis.
 - Color ámbar dorado con ribetes yodados
+- Este brandy de limitada elaboración es fruto de nuestra larga experiencia y tradición de más de 100 años.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00ABO6UZY/?tag=tolees-21)
