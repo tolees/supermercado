@@ -25,10 +25,10 @@ Tienes [Ginebra Citadelle Original  70 cl - 700 ml](https://www.amazon.es/dp/B01
 
 🔎:
 
-- Origen: Cognac
-- Perfectamente equilibrada. Flores frescas resaltadas por notas cítricas. Resulta elegante, suave y persistente en boca.
-- El maridaje estrella para Citadelle Gin son las ostras.
-- Gin Citadelle y Tónica con un toque de limón. .
 - Graduación: 44% vol.
+- Gin Citadelle y Tónica con un toque de limón. .
+- El maridaje estrella para Citadelle Gin son las ostras.
+- Perfectamente equilibrada. Flores frescas resaltadas por notas cítricas. Resulta elegante, suave y persistente en boca.
+- Origen: Cognac
 
 [Comprar!!!](https://www.amazon.es/dp/B01AWLIQX4/?tag=tolees-21)
