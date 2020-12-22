@@ -25,12 +25,12 @@ En este momento está [Ariel Pods Allin1 Detergente en Cápsulas para Lavadora  
 
 🔎:
 
+- Eficaz en frío (incluso a 30ºC)
+- Resultados increíbles en una sola cápsula (detergente concentrado)
+- Eficaz en eliminar los malos olores
+- Quitamanchas
+- Limpieza profunda e higiene
 - Iluminador
 - Fragancia intensa
-- Limpieza profunda e higiene
-- Resultados increíbles en una sola cápsula (detergente concentrado)
-- Eficaz en frío (incluso a 30ºC)
-- Quitamanchas
-- Eficaz en eliminar los malos olores
 
 [Aquí!!!](https://www.amazon.es/dp/B086KF1RJ8/?tag=tolees-21)

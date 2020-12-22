@@ -27,10 +27,10 @@ Ahora mismo tienes [Oral-B PRO 2 2000 Sensi Ultrathin Cepillo de dientes eléct
 
 - 2 modos de cepillado: Limpieza Diaria y Cuidado de las Encías
 - Contenido: 1 mango de cepillo eléctrico con cargador, 1 cabezal de recambio
-- Protege tus encías: el sensor de presión te avisa si te cepillas demasiado fuerte
-- Elimina hasta un 100 % más de placa: el cabezal redondo limpia mejor para lograr unas encías más sanas
 - Comprueba que te cepillas durante el tiempo adecuado con el temporizador profesional de 2 minutos
+- Protege tus encías: el sensor de presión te avisa si te cepillas demasiado fuerte
 - Blanquea tus dientes con suavidad desde el primer día eliminando las manchas superficiales
+- Elimina hasta un 100 % más de placa: el cabezal redondo limpia mejor para lograr unas encías más sanas
 - La batería dura más de dos semanas
 
 [Visítala!!!](https://www.amazon.es/dp/B07SBJLHGM/?tag=tolees-21)
