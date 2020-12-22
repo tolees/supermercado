@@ -25,10 +25,10 @@ En este momento está [AXE Desodorante Bodyspray Dark Temptation - 150 ml](https
 
 🔎:
 
-- Axe Bodyspray Dark Temptation 150 ml.
-- 48h odour protection
-- Keeps you dry for 48 hours
 - Attractive and irresistible fragrance Captivating like chocolate
 - Stay cool for longer
+- Axe Bodyspray Dark Temptation 150 ml.
+- Keeps you dry for 48 hours
+- 48h odour protection
 
 [Aquí!!!](https://www.amazon.es/dp/B07NXGBT3X/?tag=tolees-21)
