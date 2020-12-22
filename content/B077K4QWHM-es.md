@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - Happy Belly Mezcla de fru al 20.85 % de rebaja'
-date: 2020-12-21 14:37:52
+date: 2020-12-22 20:00:57
 image: 'https://m.media-amazon.com/images/I/41Blbvs3J+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Tienes [Marca Amazon - Happy Belly Mezcla de frutos secos  500 g](https://www.am
 
 🔎:
 
+- Rico en fibra
+- Contiene avellanas, anacardos, nueces y almendras blanqueadas
 - Sin sal añadida, ingredients naturales
 - Apto para dietas vegetarianas y veganas
-- Contiene avellanas, anacardos, nueces y almendras blanqueadas
-- Rico en fibra
 
 [Comprar!!!](https://www.amazon.es/dp/B077K4QWHM/?tag=tolees-21)

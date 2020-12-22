@@ -25,10 +25,10 @@ Está [L Oréal Paris Elvive Full Resist Crema sin Aclarado Stop Rotura para Pel
 
 ℹ️:
 
-- Fórmula enriquecida con arginina, biotina y vitamina B5, suplementos capilares que actúan como una barrera ligera
-- Refuerza el pelo durante todo el día para evitar que se rompa
-- Como resultado, un 98.8% menos de rotura al cepillarlo; se puede aplicar sobre pelo seco o mojado antes del cepillarlo o peinarlo
 - Crema sin aclarado indicada para cabello frágil con tendencia a caerse
+- Como resultado, un 98.8% menos de rotura al cepillarlo; se puede aplicar sobre pelo seco o mojado antes del cepillarlo o peinarlo
+- Refuerza el pelo durante todo el día para evitar que se rompa
+- Fórmula enriquecida con arginina, biotina y vitamina B5, suplementos capilares que actúan como una barrera ligera
 - Protege de la fricción y rotura del cepillado para minimizar la caída del cabello
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086FCRNPD/?tag=tolees-21)
