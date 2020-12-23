@@ -26,8 +26,8 @@ Tienes [Marca Amazon - Happy Belly Mezcla de frutos secos  500 g](https://www.am
 🔎:
 
 - Apto para dietas vegetarianas y veganas
+- Contiene avellanas, anacardos, nueces y almendras blanqueadas
 - Sin sal añadida, ingredients naturales
 - Rico en fibra
-- Contiene avellanas, anacardos, nueces y almendras blanqueadas
 
 [Comprar!!!](https://www.amazon.es/dp/B077K4QWHM/?tag=tolees-21)
