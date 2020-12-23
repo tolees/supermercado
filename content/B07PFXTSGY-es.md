@@ -25,10 +25,10 @@ Ahora mismo tienes [Whisky Japonés Nikka Days  70 cl - 700 ml](https://www.amaz
 
 🔎:
 
-- Suave. Cereales, malta, toffee, frutos secos tostados con vainilla. Un ligero toque de turba que perdura en la boca.
-- Para disfrutar sólo con hielo, con agua o en formato trago largo con Ginger Ale. .
 - Graduación: 40% vol.
 - Ideal para tomar con aperitivos y entrantes.
 - Origen: Miyagikyo/Yoichi
+- Para disfrutar sólo con hielo, con agua o en formato trago largo con Ginger Ale. .
+- Suave. Cereales, malta, toffee, frutos secos tostados con vainilla. Un ligero toque de turba que perdura en la boca.
 
 [Visítala!!!](https://www.amazon.es/dp/B07PFXTSGY/?tag=tolees-21)
