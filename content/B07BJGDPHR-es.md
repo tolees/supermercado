@@ -25,9 +25,9 @@ Ahora mismo tienes [Dove Men Pack Ahorro Desodorante Clean Comfort   2 Packs  4 
 
 🔎:
 
-- Pack ahorro dove desodorante clean confort
 - 1/4 de crema hidratante
 - Desodorante diseñado para hombres
+- Pack ahorro dove desodorante clean confort
 - No contiene sales de aluminio ni alcohol
 
 [Visítala!!!](https://www.amazon.es/dp/B07BJGDPHR/?tag=tolees-21)

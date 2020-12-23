@@ -25,11 +25,11 @@ Ahora mismo tienes [Señorío de los Llanos Gran Reserva - Vino Tinto D.O Valdep
 
 🔎:
 
-- Apariencia: Vino tinto de color rojo intenso y con tonos tejas
-- Aroma: En nariz presenta un perfil intenso donde destacan los aromas de crianza
 - Gusto: En boca se manifiesta como un vino con estructura y muy agradable al paladar; es envolvente y con un largo postgusto
-- Maridaje: Es un vino tinto óptimo para acompañar todo tipo de carnes rojas y asados
-- Consumo: Para disfrutar de su cualidades óptimas recomendamos servirlo entre los 16ºC y 18ºC
 - Tipo de uva: Elaborado a partir de una selección de uvas Tempranillo, la variedad de uva reina de la península ibérica; ha sido fermentado a temperatura controlada en torno a los 25ºC - 30ºC para después permanecer durante 18 meses en barricas de roble americano
+- Apariencia: Vino tinto de color rojo intenso y con tonos tejas
+- Consumo: Para disfrutar de su cualidades óptimas recomendamos servirlo entre los 16ºC y 18ºC
+- Maridaje: Es un vino tinto óptimo para acompañar todo tipo de carnes rojas y asados
+- Aroma: En nariz presenta un perfil intenso donde destacan los aromas de crianza
 
 [Visítala!!!](https://www.amazon.es/dp/B01N52UPLL/?tag=tolees-21)
