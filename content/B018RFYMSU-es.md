@@ -25,10 +25,10 @@ En este momento está [Revlon Ultra HD Pintalabios Mate  Flirtation ](https://ww
 
 🔎:
 
+- 100% libre de cera
 - Sensación hidratante y sedosa
-- Agradable fragancia a vainilla
 - Con aplicador profesional
 - Color puro de alta definición con acabado mate y libre de ceras y Tecnología HD alta definición
-- 100% libre de cera
+- Agradable fragancia a vainilla
 
 [Aquí!!!](https://www.amazon.es/dp/B018RFYMSU/?tag=tolees-21)
