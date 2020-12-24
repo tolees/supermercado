@@ -25,9 +25,9 @@ Tienes [Finish Classic Regular Pastillas para Lavavajillas - 57 Pastillas](https
 
 ℹ️:
 
-- Marca recomendada por los principales fabricantes de lavavajillas
 - Para unos mejores resultados combínalo con Finish Sal y Finish Abrillantador
 - Finish Classic son las pastillas para el lavavajillas que incluyen una acción de prelavado única
+- Marca recomendada por los principales fabricantes de lavavajillas
 - Desincrusta y elimina los restos de comida
 - Su función de remojo reblandece la comida, desincrustándola
 
