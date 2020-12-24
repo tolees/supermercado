@@ -27,8 +27,8 @@ En este momento está [Oral-B Junior Star Wars Pasta Dentífrica 75ml  +6 Años]
 
 - Sabor menta suave
 - Pasta dentífrica con flúor
+- Adecuado para niños a partir de 6 años
 - Pasta dentífrica sin azúcar
 - Protege los dientes contra los ácidos de los azúcares de los alimentos cotidianos
-- Adecuado para niños a partir de 6 años
 
 [Aquí!!!](https://www.amazon.es/dp/B07F9Y38TK/?tag=tolees-21)
