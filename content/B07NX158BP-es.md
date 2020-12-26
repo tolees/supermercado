@@ -25,11 +25,11 @@ En este momento está [AXE - Dark Temptation - Desodorante antitranspirante para
 
 🔎:
 
+- Descubre una sutil fragancia dulce con notas de cálido chocolate, ámbar y pimienta roja
 - Disfruta de una sensual explosión de dulzura y especias del desodorante antitranspirante en aerosol AXE Dark Temptation que te mantendrán alerto
 - AXE es una marca de cuidado personal masculino vendida en el mundo que ofrece óptima calidad
 - Ofrece una protección duradera y eficaz contra el sudor y los malos olores de hasta 48 horas de duración
 - Aplica el antitranspirante rociándolo en las axilas para que notes la diferencia y te olvides del sudor antes de que aparezca
 - Siéntete protegido, fresco y seco durante todo el día; Tu estilo no es negociable
-- Descubre una sutil fragancia dulce con notas de cálido chocolate, ámbar y pimienta roja
 
 [Aquí!!!](https://www.amazon.es/dp/B07NX158BP/?tag=tolees-21)
