@@ -27,8 +27,8 @@ Ahora mismo tienes [Max Factor Maquillaje corrector  01 Fair  7 ml](https://www.
 
 - Corrector Radiant Lift de Max Factor de larga duración y acabado luminoso
 - Oculta los signos de fatiga y minimiza las líneas finas de expresión con acción anti-edad
-- Crea tu look de rostro perfecto con la base de maquillaje Radiant Lift
-- Cuida tu piel con vitaminas C y e
 - Textura ligera y cómoda en la piel
+- Cuida tu piel con vitaminas C y e
+- Crea tu look de rostro perfecto con la base de maquillaje Radiant Lift
 
 [Visítala!!!](https://www.amazon.es/dp/B07G57CGWJ/?tag=tolees-21)
