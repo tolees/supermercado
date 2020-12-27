@@ -26,8 +26,8 @@ Tienes [Finish Classic Regular Pastillas para Lavavajillas - 57 Pastillas](https
 ℹ️:
 
 - Finish Classic son las pastillas para el lavavajillas que incluyen una acción de prelavado única
-- Desincrusta y elimina los restos de comida
 - Su función de remojo reblandece la comida, desincrustándola
+- Desincrusta y elimina los restos de comida
 - Marca recomendada por los principales fabricantes de lavavajillas
 - Para unos mejores resultados combínalo con Finish Sal y Finish Abrillantador
 
