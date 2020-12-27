@@ -25,8 +25,8 @@ Tienes [Dove Aceite de Aguacate y Extracto de Caléndula Crema de Manos 75 ml - 
 
 ℹ️:
 
-- Contenido de 75 ml
 - Apto para el uso diario
+- Contenido de 75 ml
 - De uso diario para restablecer la máxima suavidad de las manos
 - Transforma la piel seca en una piel aterciopelada, luminosa y de aspecto uniforme
 - Dermatológicamente comprobado
