@@ -25,14 +25,14 @@ Tienes [Baby Dove Toallitas Húmedas para bebés biodegradables - Pack de 12 x 7
 
 🔎:
 
+- Su textura tridimensional está especialmente desarrollada para la limpieza de la piel del bebé
 - Sin colorantes artificiales
 - Hipoalergénicas
-- Tan suaves como el agua
 - Aptas para recién nacidos
-- 0% alcohol
 - Adecuadas para las pieles más sensibles
-- Su textura tridimensional está especialmente desarrollada para la limpieza de la piel del bebé
-- Limpieza efectiva e hidratación instantánea
+- 0% alcohol
 - Sin fragancias
+- Limpieza efectiva e hidratación instantánea
+- Tan suaves como el agua
 
 [Comprar!!!](https://www.amazon.es/dp/B083YB1G4Q/?tag=tolees-21)
