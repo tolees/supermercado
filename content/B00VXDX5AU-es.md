@@ -25,8 +25,8 @@ Tienes [Galletas cacao con pepitas de chocolate bio 250 gr  BIO ](https://www.am
 
 ℹ️:
 
-- Itália
 - Harina de trigo, azúcar de caña, gotas de chocolate (12%)
 - Contiene gluten. Puede contener trazas de otros cereales, huevo, soja, leche y otros frutos de cáscara
+- Itália
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00VXDX5AU/?tag=tolees-21)
