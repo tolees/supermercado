@@ -25,9 +25,9 @@ Ahora mismo tienes [Maybelline New York - Cofre de 3 Pintalabios Superstay Matte
 
 🔎:
 
-- Fórmula de tinta líquida permanente que no reseca ni cuartea tus labios
-- Cofre de 3 pintalabios de edición limitada diseñado por Ashley Longshore
 - El color intenso permanece en tus labios durante todo el día
+- Cofre de 3 pintalabios de edición limitada diseñado por Ashley Longshore
+- Fórmula de tinta líquida permanente que no reseca ni cuartea tus labios
 - Aplicador en forma de flecha de alta precisión
 - Acabado mate de color saturado en 3 tonos: morado, rosa y rojo
 
