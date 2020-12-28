@@ -25,12 +25,12 @@ En este momento está [Oral-B Genius 8900 - Cepillo de dientes eléctrico  con T
 
 🔎:
 
-- Up to 100 percent more plaque removal: Round head cleans better for healthier gums in 30 days vs a manual toothbrush
-- Gently whitens your teeth starting from day one by removing surface stains
 - Lithium-ION battery lasts over 2 weeks between charges
-- Genius, the best toothbrush from the #1 Dentist recommended brand worldwide
 - 100 percent brushing coverage: The only brush with position detection guides you to a ideal clean
 - Healthier gums forever with pressure control that reduces the speed if you brush too hard
 - Contents: 2 x silver handles, charger with a 2 pin UK plug, 3 x brush heads, Lithium Ion battery, 1 x travel case, smartphone holder
+- Genius, the best toothbrush from the #1 Dentist recommended brand worldwide
+- Up to 100 percent more plaque removal: Round head cleans better for healthier gums in 30 days vs a manual toothbrush
+- Gently whitens your teeth starting from day one by removing surface stains
 
 [Aquí!!!](https://www.amazon.es/dp/B01EY8LKCK/?tag=tolees-21)
