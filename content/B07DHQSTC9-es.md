@@ -26,8 +26,8 @@ Tienes [AICOOK Espumador de Leche  3 Vaporizador de Leche Eléctrico  200ml Recu
 🔎:
 
 - ☕ Facil de limpiezar - El revestimiento interior del espumador de leche cuenta con una capa antiadherente La cabeza batidor simplemente se extrae para el lavado y el interior se puede limpiar y enjuagar en segundos. Y viene con un cepillo de limpieza.
-- ☕ Dos anos - Compre con confianza ya que el AICOOK está cubierto por del fabricante de 2 años. Si el producto tiene cualquier problema de calidad de espuma de leche, puede haber cambiado por un nuevo plazo de dos años AICOOK tiene como objetivo dar a cada cliente el 100% servicio satisfactorio.
 - ☕ Diseno inteligente - Cuerpo de acero inoxidable con una capa de silicona antideslizante, y la base antideslizante de 360 grados que cuenta con una conexión STRIX. Apague automáticamente una vez que la temperatura alcance 65+/-5℃. lo protege de quemaduras con una carcasa de PP resistente al calor.
+- ☕ Dos anos - Compre con confianza ya que el AICOOK está cubierto por del fabricante de 2 años. Si el producto tiene cualquier problema de calidad de espuma de leche, puede haber cambiado por un nuevo plazo de dos años AICOOK tiene como objetivo dar a cada cliente el 100% servicio satisfactorio.
 - ☕ Espumar y calentar leche -AICOOK El vaporizador de leche puede preparar leche espumosa en solo 1minutos, calentar hasta 300 ml (10 oz) de leche hasta obtener una consistencia y temperatura perfectas de 60 ° C (140 ° F). Así que usted puede hacer cappuccinos, lattes, flat whites, y más.
 - ☕ Rapido y silencioso - Viene con 2 batidores, un batidor de alambre de acero inoxidable para espumar y un batidor de plástico para calentar. 2 botones simples para calentar y hacer, opera con un ruido mínimo, permitiéndole disfrutar de una cocina tranquila con su familia.
 
