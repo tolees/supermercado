@@ -26,9 +26,9 @@ Tienes [Max Factor False Lash Effect Máscara Color Negro - 13.1 ml](https://www
 ℹ️:
 
 - Nuestra fórmula duplica el grosor del volumen y la apariencia de las pestañas descubiertas
-- Sin descamación no mancha duplica tu volumen de grosor
 - El pincel duplica la apariencia del tamaño de las pestañas frente a las pestañas descubiertas
-- De la raíz a la punta para un impacto de pestañas falsas
 - La fórmula patentada liquid lash cubre las pestañas de la raíz a la punta
+- De la raíz a la punta para un impacto de pestañas falsas
+- Sin descamación no mancha duplica tu volumen de grosor
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B001VNCA0S/?tag=tolees-21)
