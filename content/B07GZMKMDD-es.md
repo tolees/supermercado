@@ -25,10 +25,10 @@ Ahora mismo tienes [Max Factor Miracle Prep Illuminating & Hydrating Primer - 30
 
 🔎:
 
-- Contiene vitaminas E, B5, B3
 - Primer hidratante y luminoso
-- Proporciona un brillo natural, radiante y saludable para que el maquillaje quede luminoso
+- Contiene vitaminas E, B5, B3
 - Incrementa un acabado de piel radiante y fresca a lo largo del día
+- Proporciona un brillo natural, radiante y saludable para que el maquillaje quede luminoso
 - Consigue el maquillaje perfecto aplicando el primer antes de la base de maquillaje
 
 [Visítala!!!](https://www.amazon.es/dp/B07GZMKMDD/?tag=tolees-21)
