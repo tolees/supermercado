@@ -26,8 +26,8 @@ En este momento está [Nestlé Caja Roja Bombones De Chocolate Estuche Navidad -
 🔎:
 
 - Viene en un formato coleccionable
-- Incluye 11 variedades de bombones
 - Puede contener frutos secos y huevo
 - Contiene cacao de cultivo sostenible
+- Incluye 11 variedades de bombones
 
 [Aquí!!!](https://www.amazon.es/dp/B07KGKYR3B/?tag=tolees-21)
