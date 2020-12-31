@@ -25,9 +25,9 @@ Está [Lagunilla Crianza D.O Rioja Vino tinto - 750 ml](https://www.amazon.es/dp
 
 ℹ️:
 
-- Temperatura de servicio recomendada: 17º
-- Ideal para tomar con carnes rojas, blancas, aves de corral, pastas y quesos curados
 - Vino de cuerpo medio y estructurado equilibrado
 - Rojo rubí profundo, notas de hoja de tabaco y vainilla fresca en la nariz.
+- Ideal para tomar con carnes rojas, blancas, aves de corral, pastas y quesos curados
+- Temperatura de servicio recomendada: 17º
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00XA2JJ6Q/?tag=tolees-21)
