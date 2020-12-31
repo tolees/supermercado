@@ -26,9 +26,9 @@ Tienes [L Oréal Paris Infalible 24H Pintalabios permanente frambuesa 214 Raspeb
 🔎:
 
 - Su textura líquida enriquecida con ácido hialurónico se fija en tus labios sin manchar o agrietarse
+- Color permanente hasta 24 horas disponible en 22 tonos
 - Primero aplica el color con pigmentos mate y cuando se seque, aplica el hidratante potenciador del color
 - Pintalabios de larga duración para un resultado mate intacto 24 horas
-- Color permanente hasta 24 horas disponible en 22 tonos
 - Resistencia absoluta para unos labios hidratados y confortables, sin retoques
 
 [Comprar!!!](https://www.amazon.es/dp/B019WBKMRS/?tag=tolees-21)
