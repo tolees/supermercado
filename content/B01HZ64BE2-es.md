@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Conservas Cabezón Lata de Rabo de Toro - al 17.12 % de descuento'
-date: 2020-12-29 21:55:45
+date: 2020-12-30 22:06:27
 image: 'https://m.media-amazon.com/images/I/51mje+kXbHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Ahora mismo tienes [Conservas Cabezón Lata de Rabo de Toro - 800 gr](https://ww
 
 🔎:
 
-- producto de calidad
 - origen: España
 - 800 gr
+- producto de calidad
 - fácil de usar
 
 [Visítala!!!](https://www.amazon.es/dp/B01HZ64BE2/?tag=tolees-21)
