@@ -25,8 +25,8 @@ En este momento está [Haribo Caramelos Grageados - 2 kg](https://www.amazon.es/
 
 🔎:
 
-- Hechos en España.
 - No contiene alérgenos
+- Hechos en España.
 - Caramelos con un variado de colores y múltiples sabores
 
 [Aquí!!!](https://www.amazon.es/dp/B005T3QXNQ/?tag=tolees-21)
