@@ -25,9 +25,9 @@ Tienes [Gallo - Fideos Sin Gluten - 450 grs](https://www.amazon.es/dp/B01LZHIYU9
 
 🔎:
 
-- 500 gr
 - Mantener en lugar fresco y seco
-- No se pasa, no se pega
+- 500 gr
 - Sin gluten
+- No se pasa, no se pega
 
 [Comprar!!!](https://www.amazon.es/dp/B01LZHIYU9/?tag=tolees-21)
