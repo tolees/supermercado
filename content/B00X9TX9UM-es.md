@@ -27,8 +27,8 @@ Tienes [Garnier Skin Active Gama Botánica Gel Hidratante Refrescante con Savia 
 
 - Fórmula vegana, sin ingredientes o subproductos de origen animal; testado dermatológicamente y en pieles sensibles
 - La primera crema hidratante y refrescante de origen botánico elaborada a base de Savia de Aloe, indicada para todo tipo de pieles y es de rápida absorción
-- Formulada con un 96% de ingredientes y Antioxidantes de origen natural, equilibra la piel normal a la vez que consigue un efecto refrescante en tu rostro
 - Gracias a la Savia de Aloe y a su textura refrescante, alisa y recarga la piel de forma rápida, equilibrando la piel e hidratando la piel del rostro
+- Formulada con un 96% de ingredientes y Antioxidantes de origen natural, equilibra la piel normal a la vez que consigue un efecto refrescante en tu rostro
 - Día tras día, conseguirás una piel visiblemente más fresca y radiante, la tez encuentra su equilibrio y confort estando más jugosa e hidratada durante 48h
 
 [Comprar!!!](https://www.amazon.es/dp/B00X9TX9UM/?tag=tolees-21)
