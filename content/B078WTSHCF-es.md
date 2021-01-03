@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish Powerball All in 1 Max - Pastilla con un 20.96 % de descuento'
-date: 2021-01-02 16:41:00
+date: 2021-01-03 16:54:22
 image: 'https://m.media-amazon.com/images/I/51SD1vVOhyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WTSHCF/?tag=tolees-21'
 descuento: '20.96'
-average: '20.119160839160838'
+average: '20.089793103448272'
 ---
 
 En este momento está [Finish Powerball All in 1 Max - Pastillas para el lavavajillas todo en 1 - formato 110 unidades](https://www.amazon.es/dp/B078WTSHCF/?tag=tolees-21) a 17.99 EUR (original: 22.76 EUR) (20.96 %  de descuento) en el siguiente enlace!
