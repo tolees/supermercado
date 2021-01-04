@@ -25,10 +25,10 @@ Está [Garnier Original Remedies Champú Sólido Jengibre Vital Para Cabello Deb
 
 ℹ️:
 
-- El champú sólido Jengibre Vital combina jengibre y aceite de almendra ecológico en un remedio auténtico para nutrir y revitalizar el cabello débil y sin brillo 94% origen vegetal  
-- Revitaliza y nutre tu pelo hasta las puntas
-- Equivale a dos champús, permitiendo hasta 48 usos* *Hasta 2x250ml. Puede variar según el largo del cabello. Basado en la media en Europa: 3,5 lavados/semana. Fórmula 97% biodegradable** **Según test OECD 301 o equivalentes.
-- Instrucciones de uso: moja tu pelo y el champú sólido para que haga espuma. Enjabona el pelo de raices a puntas. Guarda tu champú sólido en una caja para protegerlo. Masajea el cuero cabelludo y después aclara.
 - Fácil de desenredar y si aspecto áspero
+- Instrucciones de uso: moja tu pelo y el champú sólido para que haga espuma. Enjabona el pelo de raices a puntas. Guarda tu champú sólido en una caja para protegerlo. Masajea el cuero cabelludo y después aclara.
+- Revitaliza y nutre tu pelo hasta las puntas
+- El champú sólido Jengibre Vital combina jengibre y aceite de almendra ecológico en un remedio auténtico para nutrir y revitalizar el cabello débil y sin brillo 94% origen vegetal  
+- Equivale a dos champús, permitiendo hasta 48 usos* *Hasta 2x250ml. Puede variar según el largo del cabello. Basado en la media en Europa: 3,5 lavados/semana. Fórmula 97% biodegradable** **Según test OECD 301 o equivalentes.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08L4Q2SP6/?tag=tolees-21)
