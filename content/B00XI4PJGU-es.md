@@ -25,13 +25,13 @@ Tienes [Gillette Fusion ProGlide Sensitive 2 En 1 Cool & Fresh Gel De Afeitado 1
 
 🔎:
 
-- Protege la piel contra los arañazos, el enrojecimiento y la tirantez
-- El bote no se oxida ni deja marcas al posarse
-- Tres eficaces lubricantes mejoran el deslizamiento de la maquinilla para lograr un afeitado suave y cómodo
-- Deja la piel sensible suave y fresca
-- Con fragancia Cool & Fresh
-- Fórmula 2 en 1 que combina el mejor gel de afeitado de Gillette con un intenso cuidado de la piel
 - El tapón se bloquea para impedir que el exceso de gel salga del bote
+- El bote no se oxida ni deja marcas al posarse
+- Protege la piel contra los arañazos, el enrojecimiento y la tirantez
+- Fórmula 2 en 1 que combina el mejor gel de afeitado de Gillette con un intenso cuidado de la piel
+- Deja la piel sensible suave y fresca
 - Incluye un indicador de gel para saber exactamente cuánto queda
+- Tres eficaces lubricantes mejoran el deslizamiento de la maquinilla para lograr un afeitado suave y cómodo
+- Con fragancia Cool & Fresh
 
 [Comprar!!!](https://www.amazon.es/dp/B00XI4PJGU/?tag=tolees-21)
