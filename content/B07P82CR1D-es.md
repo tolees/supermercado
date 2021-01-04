@@ -25,10 +25,10 @@ Está [La Virgen Cerveza Artesana Jamonera - pack 24 botellas x 330 ml - Total: 
 
 ℹ️:
 
-- Tostada y de color rojizo es perfecta para acompañar un buen bocata de jamón
-- Elaborada con maltas tostadas y caramelizadas que le aportan sus característicos aromas frutales
 - La Jamonera es un cerveza de alta fermentación estilo Amber Ale
-- Hecha a las afueras de Madrid en una cervecería artesanal
+- Elaborada con maltas tostadas y caramelizadas que le aportan sus característicos aromas frutales
 - Nombrada en 2019 como la mejor Amber Ale de España por los World Beer Awards
+- Tostada y de color rojizo es perfecta para acompañar un buen bocata de jamón
+- Hecha a las afueras de Madrid en una cervecería artesanal
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07P82CR1D/?tag=tolees-21)
