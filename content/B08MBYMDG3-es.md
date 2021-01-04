@@ -25,10 +25,10 @@ En este momento está [Garnier Original Remedies Mascarilla Tesoros Miel - Pack 
 
 🔎:
 
-- Pelo fuerte y brillante
-- El pack incluye 3 unidades
 - Repara, protege y da fuerza a tu cabello. Indicada para pelo dañado y quebradizo.
-- Mascarilla capilar reconstituyente para el cabello dañado y quebradizo 
+- Pelo fuerte y brillante
 - Repara, refuerza y protege 
+- Mascarilla capilar reconstituyente para el cabello dañado y quebradizo 
+- El pack incluye 3 unidades
 
 [Aquí!!!](https://www.amazon.es/dp/B08MBYMDG3/?tag=tolees-21)
