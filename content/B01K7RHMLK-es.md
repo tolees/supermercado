@@ -25,10 +25,10 @@ Ahora mismo tienes [Finish Lavavajillas Abrillantador Regular - 500 ml - 100 lav
 
 🔎:
 
-- Finish Abrillantador: acelera el secado y evita que la vajilla salga húmeda del lavavajillas
-- Finish es la marca recomendada por los principales fabricantes de lavavajillas
-- Combate las marcas de agua en la cristaleria
 - Evita los residuos del aclarado
 - Consigue una vajilla y una cristalería brillante
+- Finish Abrillantador: acelera el secado y evita que la vajilla salga húmeda del lavavajillas
+- Combate las marcas de agua en la cristaleria
+- Finish es la marca recomendada por los principales fabricantes de lavavajillas
 
 [Visítala!!!](https://www.amazon.es/dp/B01K7RHMLK/?tag=tolees-21)
