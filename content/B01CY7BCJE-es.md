@@ -26,9 +26,9 @@ Ahora mismo tienes [Nescafé Dolce Gusto Nescafé Dolce Gusto Espresso 48 Unità
 🔎:
 
 - Cápsulas compatibles con cafetera espresso y otras bebidas Nescafé Dolce Gusto.
-- 1 paquete de 16 cápsulas: 16 tazas de café expreso intenso.
 - Un café intenso con tostado medio-oscuro para disfrutar de una taza corta. Intensidad 7/13
-- Café torrefacto y molido
 - Una mezcla equilibrada de robusta y afrutada arábica suramericana.
+- Café torrefacto y molido
+- 1 paquete de 16 cápsulas: 16 tazas de café expreso intenso.
 
 [Visítala!!!](https://www.amazon.es/dp/B01CY7BCJE/?tag=tolees-21)
