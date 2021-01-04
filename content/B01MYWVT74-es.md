@@ -26,7 +26,7 @@ Tienes [Pompadour Té Infusion Tila - 20 bolsitas - [Pack de 5]](https://www.ama
 🔎:
 
 - Máxima intensidad en sabor y en las propiedades naturales
-- 100% flores y brácteas de tila
 - Cuádruple control de calidad
+- 100% flores y brácteas de tila
 
 [Comprar!!!](https://www.amazon.es/dp/B01MYWVT74/?tag=tolees-21)
