@@ -25,10 +25,10 @@ Está [Garnier Skin Active - Pure Active  Gel Limpiador de Poros y Exfoliante Fa
 
 ℹ️:
 
-- Gel limpiador de poros 3 en 1 con carbón activo que elimina las impurezas de la piel, reduce los puntos negros y matifica el rostro
 - Contiene partículas exfoliantes naturales para desatascar los poros y reducir visiblemente la apariencia de las espinillas
-- Contribuye a una buena exfoliación facial y ayuda a combatir las imperfecciones, puntos negros y espinillas
 - Indicado para pieles grasas con tendencia acnéica; sin parabenos
+- Gel limpiador de poros 3 en 1 con carbón activo que elimina las impurezas de la piel, reduce los puntos negros y matifica el rostro
+- Contribuye a una buena exfoliación facial y ayuda a combatir las imperfecciones, puntos negros y espinillas
 - Hipo alergénico y fórmula de PH neutro para una óptima tolerancia
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01K6UVGIS/?tag=tolees-21)
