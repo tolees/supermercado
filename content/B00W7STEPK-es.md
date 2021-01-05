@@ -26,9 +26,9 @@ Ahora mismo tienes [ROC KEOPS - Desodorante Stick Duplo  40 ml  x2 ](https://www
 🔎:
 
 - Post irritación, enrojecimiento, post depilación
-- Un producto hipoalergénico, sin perfumes y sin parabenos
-- Unidad de medida: Recipiente
-- No contiene alcohol
 - Adecuado para pieles sensibles y muy sensibles, secas y muy secas e dañadas
+- Unidad de medida: Recipiente
+- Un producto hipoalergénico, sin perfumes y sin parabenos
+- No contiene alcohol
 
 [Visítala!!!](https://www.amazon.es/dp/B00W7STEPK/?tag=tolees-21)
