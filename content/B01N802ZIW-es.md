@@ -25,10 +25,10 @@ Ahora mismo tienes [L Oréal Paris Dermo Expertise Hydra Genius Aloe Vera - Cuid
 
 🔎:
 
+- Su fórmula combina dos activos que retienen el agua en tu piel, Aloe Vera y ácido hialurónico
 - Cuidado líquido facial para pieles mixtas y grasas
 - Su textura liquida es fresca, ligera y de rápida absorción
-- Hidratación intensa con una sensación de frescura y bienestar instantánea
 - Aplicar dos veces al día sobre la piel del rostro y del cuello 2 veces al día
-- Su fórmula combina dos activos que retienen el agua en tu piel, Aloe Vera y ácido hialurónico
+- Hidratación intensa con una sensación de frescura y bienestar instantánea
 
 [Visítala!!!](https://www.amazon.es/dp/B01N802ZIW/?tag=tolees-21)
