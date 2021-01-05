@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ROC KEOPS - Desodorante Stick Duplo  40  al 37.10 % de descuento'
-date: 2020-12-25 11:41:10
+date: 2021-01-05 15:08:40
 image: 'https://m.media-amazon.com/images/I/5188kBXe-ML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ Ahora mismo tienes [ROC KEOPS - Desodorante Stick Duplo  40 ml  x2 ](https://www
 
 - Post irritación, enrojecimiento, post depilación
 - Un producto hipoalergénico, sin perfumes y sin parabenos
+- Unidad de medida: Recipiente
 - No contiene alcohol
 - Adecuado para pieles sensibles y muy sensibles, secas y muy secas e dañadas
-- Unidad de medida: Recipiente
 
 [Visítala!!!](https://www.amazon.es/dp/B00W7STEPK/?tag=tolees-21)
