@@ -27,8 +27,8 @@ Tienes [Maybelline New York Fit Me - Polvos Compactos Matificantes y Sin Brillos
 
 - Para pieles normales y grasas
 - Matifica tu piel
-- Fija la base de maquillaje a tu piel para una mayor duración
 - Controlla brillos y borra poros
 - Luce un acabado mate por más de 12 horas
+- Fija la base de maquillaje a tu piel para una mayor duración
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XGH5HLZ/?tag=tolees-21)
