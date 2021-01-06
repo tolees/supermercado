@@ -26,8 +26,8 @@ Está [Nihlsfen Herramientas de Cuchara de té de Grano de café expreso 2 en 1 
 ℹ️:
 
 - Diseño de mango largo, fuerte tensión.
-- Diseño clásico dos en uno, se puede utilizar como cuchara medidora y apisonadora de café.
 - Diseño 2 en 1, dos extremos, cuchara medidora, herramienta de café
 - Fácil de poner granos de café, café en polvo, leche en polvo, cereales, etc.
+- Diseño clásico dos en uno, se puede utilizar como cuchara medidora y apisonadora de café.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08RJ8KT1B/?tag=tolees-21)
