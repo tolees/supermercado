@@ -26,9 +26,9 @@ Está [Danonino Pouch sin azúcares añadidos: Alimento Infantil Ecológico Con 
 ℹ️:
 
 - 75% de fruta ecológica (naranja, plátano, manzana) + cereales + yogur
-- Sin azucares añadidos; solo tiene los azucares naturalmente presentes de la fruta y la leche
 - No necesita frio porque es pasteurizado, por eso no tiene conservantes
-- Sin aromas artificiales ni colorantes artificiales
+- Sin azucares añadidos; solo tiene los azucares naturalmente presentes de la fruta y la leche
 - Nutri-Score B
+- Sin aromas artificiales ni colorantes artificiales
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0854XG1QN/?tag=tolees-21)
