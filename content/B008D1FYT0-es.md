@@ -25,11 +25,11 @@ Tienes [Juego de Tronos Jarra Cerveza  Hear Me Roar](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Admite lavavajillas y microondas
-- Jarras Juego de Tronos serie tv
 - Para los fans de Juego de Tronos
-- Para los fans de Game of Thrones
+- Jarras Juego de Tronos serie tv
 - Merchandising oficial de Juego de Tronos
+- Para los fans de Game of Thrones
 - Producto oficial Game of Thrones
+- Admite lavavajillas y microondas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B008D1FYT0/?tag=tolees-21)
