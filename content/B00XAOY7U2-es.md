@@ -25,8 +25,8 @@ Ahora mismo tienes [Mentolín Caramelo Balsámico con Azúcar - 1000 gr](https:/
 
 🔎:
 
+- Suave efecto balsámico
 - Perfecto para inspirar y respirar
 - Caramelo duro con azúcar de menta fresca
-- Suave efecto balsámico
 
 [Visítala!!!](https://www.amazon.es/dp/B00XAOY7U2/?tag=tolees-21)
