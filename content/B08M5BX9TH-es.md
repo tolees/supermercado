@@ -25,10 +25,10 @@ Tienes [SZXCX Taza de té de Vidrio de Doble Capa Resistente al Calor de 50 ml  
 
 🔎:
 
-- Bonita taza de vidrio adecuada para el hogar, pub, cafetería.
-- Vaso de agua de vidrio borosilicato ecológico hecho a mano.
-- Perfecto para el entretenimiento y el uso diario.
-- Apto para llenar té, vino, café, etc.
 - Capas dobles para un excelente aislamiento térmico.
+- Apto para llenar té, vino, café, etc.
+- Bonita taza de vidrio adecuada para el hogar, pub, cafetería.
+- Perfecto para el entretenimiento y el uso diario.
+- Vaso de agua de vidrio borosilicato ecológico hecho a mano.
 
 [Comprar!!!](https://www.amazon.es/dp/B08M5BX9TH/?tag=tolees-21)
