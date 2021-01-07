@@ -25,8 +25,8 @@ Está [AXE Pack Ahorro Desodorante Black 2 x 150 ml](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Ofrece una protección duradera y eficaz contra el sudor y los malos olores
-- Tiene un aplicación rápida que ayudará a mantenerte fresco y seco
 - AXE Edición Especial Sex Education Pack Ahorro Desodorante Black 2 X 150 ml
+- Tiene un aplicación rápida que ayudará a mantenerte fresco y seco
+- Ofrece una protección duradera y eficaz contra el sudor y los malos olores
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086WTNZYN/?tag=tolees-21)
