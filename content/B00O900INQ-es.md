@@ -25,9 +25,9 @@ Tienes [Nomad Whisky - 700 ml](https://www.amazon.es/dp/B00O900INQ/?tag=tolees-2
 
 ℹ️:
 
-- Capacidad: 700 ml
-- Presenta notas de malta y recuerdos de madera y sherry
 - Graduación: 41.3º
 - Almacenar en un sitio seco y oscuro
+- Capacidad: 700 ml
+- Presenta notas de malta y recuerdos de madera y sherry
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00O900INQ/?tag=tolees-21)
