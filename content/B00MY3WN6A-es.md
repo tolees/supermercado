@@ -25,8 +25,8 @@ Está [Cheetos - Gustosines Sal -Producto de aperitivo de maíz horneado - 96 g]
 
 ℹ️:
 
-- Puede contener lactosa
 - Conservar en lugar fresco y seco
+- Puede contener lactosa
 - Puede contener trazas de gluten
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00MY3WN6A/?tag=tolees-21)
