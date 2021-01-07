@@ -26,9 +26,9 @@ Ahora mismo tienes [Maggi Pasta Oriental XXL Thai Curry - Fideos Orientales Sin 
 🔎:
 
 - Disfruta de tus deliciosos Noodles Fusian Pasta Oriental XXL Thai Curry de MAGGI, ahora SIN ACEITE DE PALMA
-- Disponible en formato bolsa: 185g (3 raciones)
-- Auténtica comida oriental; sabor asiático en tu casa
 - Noodles asiáticos con un delicioso toque de chile, cúrcuma y jengibre
+- Auténtica comida oriental; sabor asiático en tu casa
+- Disponible en formato bolsa: 185g (3 raciones)
 - Fideos orientales rápidos y fáciles de cocinar; listos en 3 minutos
 
 [Visítala!!!](https://www.amazon.es/dp/B07QJLYGTW/?tag=tolees-21)

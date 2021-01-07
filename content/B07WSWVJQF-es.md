@@ -26,7 +26,7 @@ Ahora mismo tienes [Haribo Ositos de Oro Azúcar  1 x 150g](https://www.amazon.e
 🔎:
 
 - Irresistible mix sabor a frutas
-- Caramelos de goma
 - Deliciosas piezas en forma de ositos, las originales
+- Caramelos de goma
 
 [Visítala!!!](https://www.amazon.es/dp/B07WSWVJQF/?tag=tolees-21)
