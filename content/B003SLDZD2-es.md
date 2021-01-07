@@ -26,7 +26,7 @@ Ahora mismo tienes [WENKO 3620115100 True Colours Festival - Dispensador de Dete
 🔎:
 
 - Superficie soft-touch (cerámica engomada) en color blanco
-- Dispensador de detergente o de jabón con almacenamiento integrado para las esponjas
 - Bomba de plástico cromada de brillo intenso para dosificar porcionando el detergente
+- Dispensador de detergente o de jabón con almacenamiento integrado para las esponjas
 
 [Visítala!!!](https://www.amazon.es/dp/B003SLDZD2/?tag=tolees-21)
