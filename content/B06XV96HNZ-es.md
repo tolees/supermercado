@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Pro-Expert Protección Profesional al 24.87 % de descuento'
-date: 2021-01-07 06:33:51
+date: 2021-01-08 06:47:29
 image: 'https://m.media-amazon.com/images/I/51J1VZSe19L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XV96HNZ/?tag=tolees-21'
 descuento: '24.87'
-average: '4.626950672645742'
+average: '4.625822222222224'
 ---
 
 Está [Oral-B Pro-Expert Protección Profesional Pasta Dentífrica 2x75 ml](https://www.amazon.es/dp/B06XV96HNZ/?tag=tolees-21) con 24.87 de descuento por 4.5 EUR (original: 5.99 EUR) en el siguiente enlace!
