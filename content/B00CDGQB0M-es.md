@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.10 % en Mayor de Castilla Verdejo - Vino Blanco '
-date: 2021-01-03 16:07:35
+date: 2021-01-08 18:37:53
 image: 'https://m.media-amazon.com/images/I/515HgE2D1uL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CDGQB0M/?tag=tolees-21'
 descuento: '38.10'
-average: '13.889285714285714'
+average: '13.83'
 ---
 
 Tienes [Mayor de Castilla Verdejo - Vino Blanco D.O Rueda  Pack de 6 Botellas x 750 ml](https://www.amazon.es/dp/B00CDGQB0M/?tag=tolees-21) con un 38.10 % de descuento con precio de oferta de 13.0 EUR (original: 21.0 EUR) en el siguiente enlace!
