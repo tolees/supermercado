@@ -25,11 +25,11 @@ Está [Ausonia Super Compresas con alas absorbentes  neutralizan el olor  finas 
 
 ℹ️:
 
-- Barreras protectoras para evitar fugas
 - Hasta un 100% protección frente al olor y humedad
-- Cobertura seca para un óptimo confort
+- Barreras protectoras para evitar fugas
 - Núcleo Ausonia de absorción rápida
-- Compresa de 28.4 cm de largo
+- Cobertura seca para un óptimo confort
 - Captura y neutraliza el olor
+- Compresa de 28.4 cm de largo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N0TF8N6/?tag=tolees-21)
