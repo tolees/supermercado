@@ -26,8 +26,8 @@ Está [Pulverizador Spray Oliva Aceite  Homegoo Rociando Pulverizador de Botella
 ℹ️:
 
 - DISEÑO VISIBLE Y ANTIDESLIZANTE: con la botella visible transparente, puedes reconocer el condimento rápidamente. Paquete con: 1 * Rociador de aceite, 1 * Cepillo de aceite de barbacoa, 1 * Cepillo de limpieza, 1 * Embudo.
-- MATERIAL SALUDABLE: con tapa de acero inoxidable 304 y vidrio de calidad alimentaria, el pulverizador de aceite es completamente libre de BPA
 - MULTI-USO: Complete esto pulverizador de aceite con sus aceites favoritos, vinagre, jugo de limón, jerez o vino. Perfecto para enjuagar aderezos para ensaladas, asar en forma más saludable, asar, asar, hornear o rociar neblinas de agua.
+- MATERIAL SALUDABLE: con tapa de acero inoxidable 304 y vidrio de calidad alimentaria, el pulverizador de aceite es completamente libre de BPA
 - INCLUSO DE PULVERIZACIÓN, DISEÑO DE AHORRO DE ACEITE: Con diseño de boca pulverizadora incorporada. Ahorrar aceite y mantenerlo más saludable.
 - FÁCIL DE USAR Y LIMPIAR: simplemente vierta su aceite favorito en el contenedor con el embudo incluido. Fácil de limpiar pulverizador de aceite por cepillo de limpieza incluido con detergente o agua tibia
 
