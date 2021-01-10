@@ -25,12 +25,12 @@ En este momento está [Marca Amazon - Happy Belly - Galletas de leche y cereales
 
 🔎:
 
-- Fuente de fibra
-- Alto contenido en vitamina B1
-- Paquete de 5
 - Aptas para dietas vegetarianas
-- El acompañamiento perfecto para tu desayuno
 - Deliciosas galletas de leche y cereales para el desayuno, fabricadas en Portugal con cereales y leche procedentes de varios países
+- Paquete de 5
+- El acompañamiento perfecto para tu desayuno
+- Alto contenido en vitamina B1
 - Fuente de vitamina A
+- Fuente de fibra
 
 [Aquí!!!](https://www.amazon.es/dp/B081SD68CK/?tag=tolees-21)

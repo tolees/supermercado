@@ -25,10 +25,10 @@ En este momento está [Martinrenault Kawaii Cute Fish Shape Colador de té Silic
 
 🔎:
 
-- Filtro ideal para infundir té y fácil de limpiar.
-- Moldeado de silicona insípida y apta para alimentos.
-- Seguro y duradero.
-- Un compa?ero ideal para la hora del té.
 - Maravilloso regalo para amigos a los que les encanta beber té.
+- Un compa?ero ideal para la hora del té.
+- Moldeado de silicona insípida y apta para alimentos.
+- Filtro ideal para infundir té y fácil de limpiar.
+- Seguro y duradero.
 
 [Aquí!!!](https://www.amazon.es/dp/B08RBTYQ33/?tag=tolees-21)
