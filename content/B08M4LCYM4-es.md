@@ -25,8 +25,8 @@ Tienes [Hero-Crema Ecológica Hero de Brócoli  Maíz y Espinacas 345 g](https:/
 
 🔎:
 
+- Fuente natural de fibra
 - Apto para veganos
 - Menos de 170 Kcal por ración
-- Fuente natural de fibra
 
 [Comprar!!!](https://www.amazon.es/dp/B08M4LCYM4/?tag=tolees-21)

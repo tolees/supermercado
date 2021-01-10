@@ -25,8 +25,8 @@ Está [Café FORTALEZA Café molido Natural - 500 gr](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Producto especial para cafeteras de émbolo, Melita o italiana
 - Intensidad 7/10
+- Producto especial para cafeteras de émbolo, Melita o italiana
 - Sabor elegante con matices herbales
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07R6SPLM6/?tag=tolees-21)
