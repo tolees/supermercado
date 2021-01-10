@@ -25,8 +25,8 @@ Tienes [Ginebra G’Vine Floraison 700 ml](https://www.amazon.es/dp/B001P4WHJC/?
 
 🔎:
 
-- Ideal para cualquier ocasión
 - Gran sabor
 - Máxima calidad
+- Ideal para cualquier ocasión
 
 [Comprar!!!](https://www.amazon.es/dp/B001P4WHJC/?tag=tolees-21)
