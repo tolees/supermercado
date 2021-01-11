@@ -25,12 +25,12 @@ En este momento está [Rexona Maximum Protection- Desodorante Aerosol Antitransp
 
 🔎:
 
-- Controla la sudoración excesiva y el mal olor
-- La aplicación del producto por la noche garantiza un resultado óptimo
-- Dermatológicamente testado para un uso diario
 - No es necesario volver a aplicar, incluso con sudoración intensa
-- Rexona Máxima Protección antitranspirante
-- Proporciona 96 horas de protección duradera
+- La aplicación del producto por la noche garantiza un resultado óptimo
 - 3 veces eficaz que un antitranspirante básico.
+- Dermatológicamente testado para un uso diario
+- Rexona Máxima Protección antitranspirante
+- Controla la sudoración excesiva y el mal olor
+- Proporciona 96 horas de protección duradera
 
 [Aquí!!!](https://www.amazon.es/dp/B088CCHGJR/?tag=tolees-21)
