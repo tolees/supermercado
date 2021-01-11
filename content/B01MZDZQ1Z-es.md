@@ -25,10 +25,10 @@ Está [Garnier Skin Active - Gel Micelar Desmaquillante para Pieles Normales  To
 
 ℹ️:
 
-- Aplicar generosamente sobre rostro, ojos y labios húmedos y masajear con la yema de los dedos; aclarar a posteriori
-- Con aclarado, óptimo para usarlo también en la ducha
-- Gel micelar desmaquillante todo en uno
 - Su textura suave y su fórmula sin perfume reconforta incluso las pieles sensibles; apto para todo tipo de pieles, incluso las sensibles
+- Aplicar generosamente sobre rostro, ojos y labios húmedos y masajear con la yema de los dedos; aclarar a posteriori
 - Enriquecido con extracto de uva y micelas, captura las impurezas y el maquillaje como un imán
+- Gel micelar desmaquillante todo en uno
+- Con aclarado, óptimo para usarlo también en la ducha
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MZDZQ1Z/?tag=tolees-21)
