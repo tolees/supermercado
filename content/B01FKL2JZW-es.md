@@ -25,10 +25,10 @@ Ahora mismo tienes [Revlon Ultra HD Pintalabios Mate  Embrace ](https://www.amaz
 
 🔎:
 
-- 100% libre de cera
-- Agradable fragancia a vainilla
-- Sensación hidratante y sedosa
 - Color puro de alta definición con acabado mate y libre de ceras y Tecnología HD alta definición
+- Sensación hidratante y sedosa
+- 100% libre de cera
 - Con aplicador profesional
+- Agradable fragancia a vainilla
 
 [Visítala!!!](https://www.amazon.es/dp/B01FKL2JZW/?tag=tolees-21)
