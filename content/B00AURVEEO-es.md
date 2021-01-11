@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.71 % en Gullón - Galleta Sándwich chocolate sin '
-date: 2021-01-09 17:40:36
+date: 2021-01-11 19:54:39
 image: 'https://m.media-amazon.com/images/I/412-jb0fJHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Tienes [Gullón - Galleta Sándwich chocolate sin azúcar Diet Nature 250g](http
 
 ℹ️:
 
+- Sin azúcares añadidos, la elección perfecta para darte un capricho.
 - Fabricado por Galletas Gullón.
+- Producto elaborado con aceite de girasol alto oleico.
 - Galletas en sandwich de chocolate Diet Nature sin azúcares añadidos.
 - Prueba este delicioso sándwich relleno de chocolate y fuente de fibra.
-- Sin azúcares añadidos, la elección perfecta para darte un capricho.
-- Producto elaborado con aceite de girasol alto oleico.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00AURVEEO/?tag=tolees-21)
