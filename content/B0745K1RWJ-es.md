@@ -25,10 +25,10 @@ Está [Solaray Vitamina D3 + K2 | Favorece la absorción de calcio y apoya al si
 
 ℹ️:
 
-- Alta potencia: 5000UI (125mcg) de Vitamina D3 (colecalciferol), con 50mcg de menaquinona 7 obtenida de garbanzo fermentado
+- Equipo en sinergia: Las vitaminas D3 y K2 trabajan juntas para ayudar a transportar y absorber el calcio para un saludable soporte óseo
 - Laboratorio Verificado que verifica pureza, potencia y composición; No GMO, sin soja, sin colorantes, sabores o conservantes artificiales
 - Apoyo nutricional: Las vitaminas D3 y K2 pueden ayudar a mantener un sistema cardiovascular y arterial saludable
-- Equipo en sinergia: Las vitaminas D3 y K2 trabajan juntas para ayudar a transportar y absorber el calcio para un saludable soporte óseo
+- Alta potencia: 5000UI (125mcg) de Vitamina D3 (colecalciferol), con 50mcg de menaquinona 7 obtenida de garbanzo fermentado
 - Los consumidores comentan: "Estoy muy feliz de ver los resultados después de tomar la marca Solaray"
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0745K1RWJ/?tag=tolees-21)
