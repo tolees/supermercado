@@ -26,10 +26,10 @@ Tienes [Cereales Nestlé Lion - Cereales de trigo y arroz tostados con crema de 
 🔎:
 
 - Crujientes Cereales Nestlé LION de chocolate y caramelo
-- Cereales integrales como ingrediente número 1
-- Con un único sabor a caramelo Placer salvaje
-- Cereales con vitaminas del grupo B, calcio y hierro
 - Cereales sin colorantes ni aromas artificiales y sin edulcorantes artificiales
+- Cereales con vitaminas del grupo B, calcio y hierro
+- Con un único sabor a caramelo Placer salvaje
 - Cereales sin aceite de palma
+- Cereales integrales como ingrediente número 1
 
 [Comprar!!!](https://www.amazon.es/dp/B079ZYKBXL/?tag=tolees-21)
