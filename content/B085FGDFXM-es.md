@@ -27,8 +27,8 @@ Tienes [Sante Champu Fortalecedor & Brillo Family 950 Naranja Y Coco 950 ml](htt
 
 - Vegano, Sin Gluten, Sin Lactosa
 - Aceite de naranja Bio, Extracto de coco Bio
+- Champú BIO para toda la familia
 - Limpia, aporta brillo y volumen al cabello fino y debilitado, aroma cítrico y fresco
 - Botella rPET procedente de Plástico reciclado
-- Champú BIO para toda la familia
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B085FGDFXM/?tag=tolees-21)
