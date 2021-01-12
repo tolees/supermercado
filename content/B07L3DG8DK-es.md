@@ -26,8 +26,8 @@ En este momento está [Scottex Original Papel Higiénico - 96 Rollos](https://ww
 🔎:
 
 - La nueva textura OndaSuave proporciona el equilibrio perfecto entre Higiene, Suavidad y Resistencia - 3 beneficios en 1 solo producto
-- Incluye 6 packs de 16 rollos, en total 96 rollos
 - Además, Scottex cuida del medio ambiente utilizando fibras certificadas FSC de fuentes responsables
+- Incluye 6 packs de 16 rollos, en total 96 rollos
 - Scottex Original, con dos suaves capas, se renueva para ofrecer la mejor sensación de CUIDADO COMPLETO
 - Recuerda incluir Papel Higiénico Húmedo Scottex en tu rutina diaria para una higiene perfecta
 
