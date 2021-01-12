@@ -25,8 +25,8 @@ En este momento está [Maybelline New York - The Burgundy Bar  Paleta de Sombras
 
 🔎:
 
-- Color de tendencia, tanto de noche como de día
 - 12 tonos de sombras de ojos ultra pigmentados
+- Color de tendencia, tanto de noche como de día
 - Crea tu natural smoky con tonos granates y nudes
 
 [Aquí!!!](https://www.amazon.es/dp/B073VNJWVY/?tag=tolees-21)
