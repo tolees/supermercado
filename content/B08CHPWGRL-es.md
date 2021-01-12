@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AXE Pack Dark Temptation Tripode - 2 x 1 con un 28.98 % de descuento'
-date: 2021-01-07 11:01:14
+date: 2021-01-12 22:06:49
 image: 'https://m.media-amazon.com/images/I/413IQbzjXdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08CHPWGRL/?tag=tolees-21'
 descuento: '28.98'
-average: '8.087333333333332'
+average: '7.845294117647057'
 ---
 
 En este momento está [AXE Pack Dark Temptation Tripode - 2 x 150 ml y Mini 35 ml y Tripode 460 g](https://www.amazon.es/dp/B08CHPWGRL/?tag=tolees-21) a 6.03 EUR (original: 8.49 EUR) (28.98 %  de descuento) en el siguiente enlace!
