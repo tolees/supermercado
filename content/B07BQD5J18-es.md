@@ -27,8 +27,8 @@ En este momento está [Scottex Sensitive Papel Higiénico - 42 rollos](https://w
 
 - Scottex Sensitive, con 3 suaves capas, te ofrece el cuidado más delicado con un toque de Leche de Almendra
 - Recuerda incluir Papel Higiénico Húmedo Scottex en tu rutina diaria para una higiene perfecta
-- Además, Scottex cuida del medio ambiente utilizando fibras certificadas FSC de fuentes responsables
 - 42 rollos
+- Además, Scottex cuida del medio ambiente utilizando fibras certificadas FSC de fuentes responsables
 - Gracias a su nueva tecnología, ofrece la mayor sensación de acolchamiento
 
 [Aquí!!!](https://www.amazon.es/dp/B07BQD5J18/?tag=tolees-21)
