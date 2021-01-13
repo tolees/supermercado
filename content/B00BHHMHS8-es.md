@@ -25,8 +25,8 @@ En este momento está [Elizabeth Arden 5th Avenue NYC Eau de Parfum 75 ml](https
 
 🔎:
 
-- Notas de corazón: grosellas negras, jazmín, peonía y flor del ciruelo
 - Notas de fondo son ámbar, vainilla, haba tonka, almizcle y sándalo
+- Notas de corazón: grosellas negras, jazmín, peonía y flor del ciruelo
 - Notas principales: orientales, florales
 - Notas de salida: bergamota, durazno (melocotón) y manzana
 
