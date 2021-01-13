@@ -25,10 +25,10 @@ Tienes [Sanytol Desodorante Calzado Desinfectante Spray - 150 ml](https://www.am
 
 ℹ️:
 
-- Disinfectant deodorant spray eliminates bad root odor, eliminating germs that cause it.
-- Removes bacteria, such as staphylococcus epidermidis, viruses and fungi such as the cause of athletes foot or ringworm of the foot.
-- For the inside of the footwear. Do not use directly on the skin.
-- It works quickly and efficiently, just letting it act for a few minutes will achieve excellent results.
 - It leaves a pleasant feeling of freshness and is suitable for all types of shoes, using it only inside.
+- It works quickly and efficiently, just letting it act for a few minutes will achieve excellent results.
+- Removes bacteria, such as staphylococcus epidermidis, viruses and fungi such as the cause of athletes foot or ringworm of the foot.
+- Disinfectant deodorant spray eliminates bad root odor, eliminating germs that cause it.
+- For the inside of the footwear. Do not use directly on the skin.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DUX2R0O/?tag=tolees-21)

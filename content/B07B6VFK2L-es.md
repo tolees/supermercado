@@ -25,11 +25,11 @@ Ahora mismo tienes [Nestlé Naturnes Bio Bolsita de puré de Pera  Manzana y Pl�
 
 🔎:
 
-- Sin colorantes ni conservantes, según la legislación vigente
-- Aprovecha este práctico formato de bolsita que no necesita frío para llevar siempre contigo una ración de fruta Naturnes Bio, para que tu bebé la disfrute cuándo y dónde queráis
-- Sin gluten
-- Ingredientes BIO - cultivados especialmente para la alimentación de los bebés
 - Bolsita de puré 0% azúcares añadidos, contiene los naturalmente presentes en las frutas
+- Sin colorantes ni conservantes, según la legislación vigente
 - Bolsita de puré para bebés solo con frutas procedentes de agricultura ecológica
+- Ingredientes BIO - cultivados especialmente para la alimentación de los bebés
+- Sin gluten
+- Aprovecha este práctico formato de bolsita que no necesita frío para llevar siempre contigo una ración de fruta Naturnes Bio, para que tu bebé la disfrute cuándo y dónde queráis
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B6VFK2L/?tag=tolees-21)

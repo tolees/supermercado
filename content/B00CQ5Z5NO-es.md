@@ -25,8 +25,8 @@ Tienes [Revlon Super Lustrous Brillo Labial  Snow Pink ](https://www.amazon.es/d
 
 ℹ️:
 
-- Sensacíón cómoda y no pegajosa hará que sientas tus labios hidratados durante horas
 - Gloss ultra-brillo ligero, no pegajoso gracias a su complejo Liquid-Shine
+- Sensacíón cómoda y no pegajosa hará que sientas tus labios hidratados durante horas
 - Tiene fórmula con agave, aceite de Moringa, manteca de Cupuacu combinados con micro-aceites aporta una mayor hidratación y rellena los labios al instante
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CQ5Z5NO/?tag=tolees-21)
