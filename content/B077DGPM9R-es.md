@@ -25,10 +25,10 @@ Tienes [Cesta navidad con vino Habla de la Tierra  paté al Pedro Ximenez  paté
 
 🔎:
 
-- 1 paté de ciervo de pedro Ximenez La chinata 120 gr; 1 paté de langosta de la Chinata de 120 g.
 - 1 botella de vino tinto envejecido Habla de la Tierra 75 cl.
 - 1 x Cachueka Estremadura iberitos 250 g; 1 x Pasta de perdrix del monte iberitos.
-- 1 mermelada extra de tomate sin azúcar de 280 g.
 - 1 funda con asa (anchura: 9 x longitud: 29 x 33 cm).
+- 1 paté de ciervo de pedro Ximenez La chinata 120 gr; 1 paté de langosta de la Chinata de 120 g.
+- 1 mermelada extra de tomate sin azúcar de 280 g.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077DGPM9R/?tag=tolees-21)
