@@ -25,9 +25,9 @@ Tienes [Revlon Professional UniqOne Champú y Acondicionador 1000 ml](https://ww
 
 🔎:
 
-- Cuidado diario
-- Lava delicadamente el cabello y el cuero cabelludo
 - Deja el cabello ligero
+- Lava delicadamente el cabello y el cuero cabelludo
 - Deja el cabello fácil de peinar y manejable
+- Cuidado diario
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00JOH9FRO/?tag=tolees-21)
