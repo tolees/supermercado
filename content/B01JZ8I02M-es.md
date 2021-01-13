@@ -25,7 +25,7 @@ Ahora mismo tienes [Haribo fruitmania Lemon  osos  Gominolas de Fruta  Bolsa  17
 
 🔎:
 
-- Sobre: 175 g.
 - Caramelo de goma.
+- Sobre: 175 g.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01JZ8I02M/?tag=tolees-21)

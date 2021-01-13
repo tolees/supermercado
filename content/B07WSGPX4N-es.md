@@ -25,9 +25,9 @@ Tienes [Liposan Sabor Sandia 4.8 g / 5 5 ml](https://www.amazon.es/dp/B07WSGPX4N
 
 🔎:
 
-- Número de modelo del producto: 85235
 - Es Un Bálsamo Labial
-- con sabor
 - 4.8 g
+- Número de modelo del producto: 85235
+- con sabor
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WSGPX4N/?tag=tolees-21)

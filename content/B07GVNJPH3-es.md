@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Original Source Mint Gel de ducha  500 m con un 5.90 % de descuento'
+date: 2020-06-23 09:41:20
+image: 'https://m.media-amazon.com/images/I/5146bdl4fBL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07GVNJPH3-es'
+actualPrice: 22.17 EUR
+currency: EUR
+price: 22.17
+comparePrice: 23.56 EUR
+prodname: 'Original Source Mint Gel de ducha  500 ml  6 unidades'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07GVNJPH3/?tag=tolees-21'
+descuento: '5.90'
+average: '22.526666666666667'
+---
+
+En este momento está [Original Source Mint Gel de ducha  500 ml  6 unidades](https://www.amazon.es/dp/B07GVNJPH3/?tag=tolees-21) a 22.17 EUR (original: 23.56 EUR) (5.90 %  de descuento) en el siguiente enlace!
+
+[![Original Source Mint Gel de ducha  500 m](https://m.media-amazon.com/images/I/5146bdl4fBL._SL200_.jpg)](https://www.amazon.es/dp/B07GVNJPH3/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B07GVNJPH3/?tag=tolees-21)

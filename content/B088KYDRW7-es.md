@@ -26,7 +26,7 @@ Ahora mismo tienes [Nescafé DOLCE GUSTO Café ESPRESSO  Pack de 3 x 16 Cápsula
 🔎:
 
 - Un café Espresso equilibrado Nescafé Dolce Gusto
-- Cápsulas inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y idades de espresso con leche
+- Cápsulas inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088KYDRW7/?tag=tolees-21)

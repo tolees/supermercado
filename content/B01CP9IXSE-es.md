@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Haribo Relleno Cola Geles Dulces - 1500  al 18.66 % de rebaja'
+date: 2020-05-30 11:55:21
+image: 'https://m.media-amazon.com/images/I/41A5Gi5+7qL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B01CP9IXSE-es'
+actualPrice: 7.67 EUR
+currency: EUR
+price: 7.67
+comparePrice: 9.43 EUR
+prodname: 'Haribo Relleno Cola Geles Dulces - 1500 gr'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B01CP9IXSE/?tag=tolees-21'
+descuento: '18.66'
+average: '7.513333333333334'
+---
+
+Tienes [Haribo Relleno Cola Geles Dulces - 1500 gr](https://www.amazon.es/dp/B01CP9IXSE/?tag=tolees-21) con precio final de  7.67 EUR (original: 9.43 EUR) (18.66 %  de rebaja) aqui!
+
+[![Haribo Relleno Cola Geles Dulces - 1500 ](https://m.media-amazon.com/images/I/41A5Gi5+7qL._SL200_.jpg)](https://www.amazon.es/dp/B01CP9IXSE/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B01CP9IXSE/?tag=tolees-21)

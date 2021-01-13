@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Max Factor  Maquillaje en polvo - 1 unid al 9.24 % de rebaja'
+date: 2020-03-16 14:44:58
+image: 'https://m.media-amazon.com/images/I/41nAIAxUjEL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B001IZYQC4-es'
+actualPrice: 5.89 EUR
+currency: EUR
+price: 5.89
+comparePrice: 6.49 EUR
+prodname: 'Max Factor  Maquillaje en polvo - 1 unidad'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B001IZYQC4/?tag=tolees-21'
+descuento: '9.24'
+average: '5.89'
+---
+
+Tienes [Max Factor  Maquillaje en polvo - 1 unidad](https://www.amazon.es/dp/B001IZYQC4/?tag=tolees-21) con precio final de  5.89 EUR (original: 6.49 EUR) (9.24 %  de rebaja) aqui!
+
+[![Max Factor  Maquillaje en polvo - 1 unid](https://m.media-amazon.com/images/I/41nAIAxUjEL._SL200_.jpg)](https://www.amazon.es/dp/B001IZYQC4/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B001IZYQC4/?tag=tolees-21)

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'KLORANE Champú al Extracto de Peonía 400 al 0.00 % de descuento'
+date: 2020-01-17 12:13:57
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yMckGX7OL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B002LDZQDK-es'
+actualPrice: 13.25 EUR
+currency: EUR
+price: 13.25
+comparePrice: 13.25 EUR
+prodname: 'KLORANE Champú al Extracto de Peonía 400 ml'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B002LDZQDK/?tag=tolees-21'
+descuento: '0.00'
+average: '13.25'
+---
+
+Ahora mismo tienes [KLORANE Champú al Extracto de Peonía 400 ml](https://www.amazon.es/dp/B002LDZQDK/?tag=tolees-21) a 13.25 EUR (original: 13.25 EUR) (0.00 %  de descuento) en el siguiente enlace!
+
+[![KLORANE Champú al Extracto de Peonía 400](https://images-eu.ssl-images-amazon.com/images/I/41yMckGX7OL._SL200_.jpg)](https://www.amazon.es/dp/B002LDZQDK/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Visítala!!!](https://www.amazon.es/dp/B002LDZQDK/?tag=tolees-21)

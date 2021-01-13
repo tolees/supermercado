@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Dove Gel De Ducha Avena - Pack de 3 x 50 al 17.19 % de descuento'
+date: 2020-02-17 16:25:31
+image: 'https://m.media-amazon.com/images/I/318dPicfonL._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07P6QK4J2-es'
+actualPrice: 8.67 EUR
+currency: EUR
+price: 8.67
+comparePrice: 10.47 EUR
+prodname: 'Dove Gel De Ducha Avena - Pack de 3 x 500 ml  Total: 1500 ml '
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07P6QK4J2/?tag=tolees-21'
+descuento: '17.19'
+average: '7.52'
+---
+
+Ahora mismo tienes [Dove Gel De Ducha Avena - Pack de 3 x 500 ml  Total: 1500 ml ](https://www.amazon.es/dp/B07P6QK4J2/?tag=tolees-21) a 8.67 EUR (original: 10.47 EUR) (17.19 %  de descuento) en el siguiente enlace!
+
+[![Dove Gel De Ducha Avena - Pack de 3 x 50](https://m.media-amazon.com/images/I/318dPicfonL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07P6QK4J2/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Visítala!!!](https://www.amazon.es/dp/B07P6QK4J2/?tag=tolees-21)
