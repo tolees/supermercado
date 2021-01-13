@@ -25,10 +25,10 @@ Está [Diadermine Desmaquillador de ojos - 2 uds de 125ml](https://www.amazon.es
 
 ℹ️:
 
-- Desmaquillador de ojos compatible con el uso de lentillas
 - Aplica con un algodón sobre los ojos cerrados y las pestañas
 - Para todo tipo de pieles; respeta el ph de la piel
-- Protege y cuida las pestañas
 - El desmaquillante de ojos de Diadermine elimina el maquillaje de manera eficaz sin irritar la piel
+- Protege y cuida las pestañas
+- Desmaquillador de ojos compatible con el uso de lentillas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NRTDSD6/?tag=tolees-21)
