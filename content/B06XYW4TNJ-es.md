@@ -26,7 +26,7 @@ Tienes [Instituto Español L Oreal Expert Professionnel Dia Light GelCreme Acide
 🔎:
 
 - Marca: Instituto Español
-- Producto de alta calidad
 - Resistente y con diseño funcional
+- Producto de alta calidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XYW4TNJ/?tag=tolees-21)

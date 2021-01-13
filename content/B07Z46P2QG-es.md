@@ -25,9 +25,9 @@ Ahora mismo tienes [Knorr - Vietnamese Pho  60 gr](https://www.amazon.es/dp/B07Z
 
 🔎:
 
-- Knorr vietnamese pho 60g.
-- Sin glutamato.
 - Cena equilibrada y deliciosa lista en 5 minutos.
 - Sin conservantes.
+- Sin glutamato.
+- Knorr vietnamese pho 60g.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Z46P2QG/?tag=tolees-21)

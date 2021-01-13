@@ -25,8 +25,8 @@ Ahora mismo tienes [L Oréal Paris Base de Maquillaje Fluida Cushion Beige 9](ht
 
 🔎:
 
-- Sensibile
-- Viso donna
 - Pelle donna
+- Viso donna
+- Sensibile
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01A52XVLM/?tag=tolees-21)

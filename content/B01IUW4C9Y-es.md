@@ -25,8 +25,8 @@ Tienes [Ruffles Patatas Fritas - 282 gr](https://www.amazon.es/dp/B01IUW4C9Y/?ta
 
 🔎:
 
-- Conservar en lugar fresco y seco
-- Envasado en atmósfera protectora
 - Patatas aceite de palma y sal
+- Envasado en atmósfera protectora
+- Conservar en lugar fresco y seco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01IUW4C9Y/?tag=tolees-21)

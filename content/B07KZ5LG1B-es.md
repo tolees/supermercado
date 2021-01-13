@@ -26,8 +26,8 @@ Está [PBN - Bote de ganador de peso  3 kg  sabor chocolate ](https://www.amazon
 ℹ️:
 
 - Se puede tomar antes, durante o después del ejercicio
+- La solución ideal para deportistas que quieren aumentar la masa muscular o ganar peso
 - Las proteínas contribuyen a aumentar la masa muscular y al mantenimiento de unos huesos sanos
 - PBN - Bote de ganador de peso, 3 kg (sabor chocolate)
-- La solución ideal para deportistas que quieren aumentar la masa muscular o ganar peso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KZ5LG1B/?tag=tolees-21)

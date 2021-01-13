@@ -25,9 +25,9 @@ Tienes [Tognana ME685015528 New Bone China - Juego de 6 tazas de café con plato
 
 🔎:
 
-- Calidad de los materiales
 - Explosión de colores
-- Diseño moderno e impactante.
 - Stoneware y porcelana
+- Calidad de los materiales
+- Diseño moderno e impactante.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D9RGHCQ/?tag=tolees-21)

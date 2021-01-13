@@ -25,10 +25,10 @@ Tienes [Trapa Tableta de Chocolate Extrafino con Leche y Almendra  con Stevia  7
 
 ℹ️:
 
-- Sin gluten
-- Sin Grasas Trans
 - Conservar en lugar fresco, seco, alejado de olores y protegido de la luz solar
+- Sin Grasas Trans
 - Chocolate con Stevia
+- Sin gluten
 - Temperatura ideal de conservación: 2ºC - 8ºC
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MDLWR85/?tag=tolees-21)

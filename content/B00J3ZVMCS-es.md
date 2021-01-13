@@ -26,8 +26,8 @@ En este momento está [Arcos Toscana - Juego de cucharas de café  140 mm  6 pie
 🔎:
 
 - Fabricadas en acero inoxidable 18/10
+- El set contiene 6 cucharillas
 - Tiene el tamaño completo de 140 mm
 - Con el grosor de 2.5 mm
-- El set contiene 6 cucharillas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00J3ZVMCS/?tag=tolees-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [Whey Protein 920g chocolate](https://www.amazon.es/dp/B004EP
 
 🔎:
 
+- Proteína de excelente calidad exclusivamente de suero
 - Disponible sin sabor y en varios sabores distintos
 - Agregado de matriz de aminoácidos con taurina y L-glutamina
-- Proteína de excelente calidad exclusivamente de suero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004EPYEM2/?tag=tolees-21)

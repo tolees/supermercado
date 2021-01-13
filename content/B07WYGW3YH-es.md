@@ -25,10 +25,10 @@ En este momento está [Note D Espresso Cápsulas de Café Cortado Instantáneo E
 
 🔎:
 
-- Exclusively Compatible with Nescafé* and Dolce Gusto* capsule machines (* Not registered to Amazon EU S.a.r.l.)
-- Made in Italy
 - Practical pack of 48 capsules
+- Exclusively Compatible with Nescafé* and Dolce Gusto* capsule machines (* Not registered to Amazon EU S.a.r.l.)
 - recommended dose of water 80 ml
 - The delicious flavour and aroma of coffee in a convenient 10 gram capsule
+- Made in Italy
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WYGW3YH/?tag=tolees-21)

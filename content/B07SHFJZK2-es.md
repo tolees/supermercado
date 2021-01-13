@@ -25,9 +25,9 @@ Ahora mismo tienes [Trapa Tableta de Chocolate Negro 80%  Pack de 1](https://www
 
 🔎:
 
-- Sin gluten
 - Conservar en lugar fresco, seco, alejado de olores y protegido de la luz solar
 - Puede contener frutos de cáscara y leche
+- Sin gluten
 - País de origen: España
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SHFJZK2/?tag=tolees-21)

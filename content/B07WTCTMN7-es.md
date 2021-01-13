@@ -27,8 +27,8 @@ Ahora mismo tienes [Note D Espresso - Cápsulas de Caffelatte Instantáneo compa
 
 - Exclusivamente Compatibles con cafeteras de cápsulas Nescafé* y Dolce Gusto* (* No registrado en Amazon EU S.a.r.l.)
 - Practical pack of 48 capsules
-- Hechos en Italia
 - El delicioso sabor y aroma del café recién hecho en una pequeña cápsula de 10 gramos
 - Dosis recomendada de agua 180 ml
+- Hechos en Italia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WTCTMN7/?tag=tolees-21)
