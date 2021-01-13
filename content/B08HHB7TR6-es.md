@@ -25,10 +25,10 @@ Está [King C. Gillette Gel Limpiador para Barba y Rostro  350 ml + Aceite de Ar
 
 ℹ️:
 
+- Para un resultado óptimo combínalo con el bálsamo
 - Deja una sensación de suavidad y tersura en la piel
 - Gel refrescante limpiador para barba y rostro con agua de coco, aceite de argán y aceite de aguacate
 - Aceite para barba a base de ingredientes naturales de origen vegetal, argán, jojoba, aguacate, semillas de macadamia y almendra
 - Gel de afeitar transparente para barba con té blanco y aceite de argán
-- Para un resultado óptimo combínalo con el bálsamo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HHB7TR6/?tag=tolees-21)
