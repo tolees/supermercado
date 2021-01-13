@@ -25,10 +25,10 @@ Tienes [Rexona Desodorante Antitranspirante Cobalt  2 X 200 ml  400 ml ](https:/
 
 🔎:
 
-- Fresca y energizante fragancia a hierbabuena y almizcle
 - Nuestra mejor protección en formato spray para seguir en movimiento todo el día
+- Protección eficaz 48h contra el sudor y el mal olor corporal
 - Marca de desodorantes nº1 en ventas en todo el mundo.
 - Único con tecnología de encapsulación patentada motionsense que se activa con el movimiento; cuanto más te mueves, más te protege
-- Protección eficaz 48h contra el sudor y el mal olor corporal
+- Fresca y energizante fragancia a hierbabuena y almizcle
 
 [Comprar!!!](https://www.amazon.es/dp/B07RT5FG69/?tag=tolees-21)
