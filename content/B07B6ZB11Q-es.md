@@ -25,9 +25,9 @@ Está [Nestlé Naturnes Bio Bolsita Puré Pera  A Partir De Los 4 Meses.  Pack 
 
 ℹ️:
 
-- Tiene un práctico formato: bolsita listo para llevar
-- Elaborado con ingredientes procedentes de la agricultura ecológica
-- Para bebés a partir de los cuatro meses
 - Bolsita de puré de frutas para bebés
+- Para bebés a partir de los cuatro meses
+- Elaborado con ingredientes procedentes de la agricultura ecológica
+- Tiene un práctico formato: bolsita listo para llevar
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07B6ZB11Q/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B6ZB11Q/?tag=tolees-21)
