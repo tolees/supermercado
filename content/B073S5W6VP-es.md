@@ -25,10 +25,10 @@ Está [Relaxdays Cascanueces  Cascador Frutos Secos  Almendras  Nueces  Abrebote
 
 ℹ️:
 
+- Cascador: partidor de frutos secos grandes como nueces de brasil, nueces y almendras
+- Funcional: abre botellas de vino espumoso o parte nueces cómodamente en el sofá
 - Resorte: el muelle evita que los frutos secos se salgan del casca nueces negro
 - 2 en 1: la superficie acanalada de la pinza hace que se pueda utilizar como abrebotellas de champán
-- Funcional: abre botellas de vino espumoso o parte nueces cómodamente en el sofá
-- Cascador: partidor de frutos secos grandes como nueces de brasil, nueces y almendras
 - Resistente: este cascanueces de aluminio es perfecto para abrir frutos secos sin hacer mucha fuerza
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073S5W6VP/?tag=tolees-21)
