@@ -26,9 +26,9 @@ Está [PraNaturals Jabón Negro Africano 200g  Orgánico y Vegano para Todo Tipo
 ℹ️:
 
 - REFRESCANTE Y HIDRATANTE - El jabón negro de África elimina manchas y limpia la piel, dejando tu piel completamente hidratada y suave.
-- EL SECRETO PARA UNA PIEL PERFECTA: promueve una piel más joven y saludable.
 - 100% NATURAL - PraNaturals African Black Soap es completamente orgánico, con ingredientes totalmente naturales, de origen ético y hechos a mano en Ghana.
-- ANTI-ENVEJECIMIENTO - lleno de minerales y antioxidantes, el jabón negro africano previene los signos de envejecimiento, como arrugas, piel opaca y líneas finas.
+- EL SECRETO PARA UNA PIEL PERFECTA: promueve una piel más joven y saludable.
 - INGREDIENTES DE SANACIÓN NATURAL - Una mezcla única de aceite de coco, manteca de karité y más ingredientes desintoxicantes naturales para mejorar la condición de la piel.
+- ANTI-ENVEJECIMIENTO - lleno de minerales y antioxidantes, el jabón negro africano previene los signos de envejecimiento, como arrugas, piel opaca y líneas finas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075XVBFR6/?tag=tolees-21)

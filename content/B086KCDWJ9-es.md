@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1906 Reserva Especial Cerveza - Paquete  al 18.49 % de rebaja'
-date: 2021-01-06 13:04:32
+date: 2021-01-14 22:40:29
 image: 'https://m.media-amazon.com/images/I/31T2JRPHIfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B086KCDWJ9/?tag=tolees-21'
 descuento: '18.49'
-average: '19.90635658914729'
+average: '19.866259541984736'
 ---
 
 Tienes [1906 Reserva Especial Cerveza - Paquete de 24 x 330 ml - Total: 7 92 L](https://www.amazon.es/dp/B086KCDWJ9/?tag=tolees-21) con precio final de  17.28 EUR (original: 21.2 EUR) (18.49 %  de rebaja) aqui!
@@ -25,15 +25,15 @@ Tienes [1906 Reserva Especial Cerveza - Paquete de 24 x 330 ml - Total: 7 92 L](
 
 🔎:
 
-- Elaborada a partir de un mosto específicos, en la fábrica de Hijos de Rivera, en A Coruña. La cerveza 1906 Reserva Especial cuenta con uno de los períodos de maduración más largos entre las cervezas lager nacionales.
 - Alcohol 6,5%
-- Temperatura recomendada 5-6 grados. Mantener en lugar fresco y seco
-- Color 15,5 EBC
-- Amargor 25 EBU
 - Toda nuestra herencia resumida en una cerveza extraordinaria. Maltas tostadas, lúpulo aromático y una guarda prolongada para crear un sabor y aroma con carácter único.
 - Ingredientes: agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), maíz y lúpulo Perle Hallertau. Levadura seleccionada Hijos de Rivera.
+- Elaborada a partir de un mosto específicos, en la fábrica de Hijos de Rivera, en A Coruña. La cerveza 1906 Reserva Especial cuenta con uno de los períodos de maduración más largos entre las cervezas lager nacionales.
 - 1906 Reserva Especial Cerveza - Pack de 24 latas x 330 ml
+- Amargor 25 EBU
+- Color 15,5 EBC
 - Aromas a malta tostada con suaves notas de caramelo y café. El lúpulo aparece en nariz con ligeros matices florales y herbales.
 - Clasificación Helles Bock
+- Temperatura recomendada 5-6 grados. Mantener en lugar fresco y seco
 
-[Comprar!!!](https://www.amazon.es/dp/B086KCDWJ9/?tag=tolees-21)
+[🛒 Comprar!!!](https://www.amazon.es/dp/B086KCDWJ9/?tag=tolees-21)

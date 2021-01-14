@@ -25,9 +25,9 @@ Tienes [Gallo - Helices Vegetales sin Gluten - 450 grs](https://www.amazon.es/dp
 
 🔎:
 
-- No hay presencia de alérgenos; gluten: < 10 ppm
-- Pais de Orgien España
-- Pasta sin vegetales, Pasta con tomate y Pasta con espinacas
 - Mantener En Lugar Fresco Y Seco
+- No hay presencia de alérgenos; gluten: < 10 ppm
+- Pasta sin vegetales, Pasta con tomate y Pasta con espinacas
+- Pais de Orgien España
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M63UR9C/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 5.91 % en Campos  Conserva de atún claro en aceite'
-date: 2021-01-13 21:42:25
+date: 2021-01-14 22:38:01
 image: 'https://m.media-amazon.com/images/I/41Pd90c8tbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07Q1J5RYM/?tag=tolees-21'
 descuento: '5.91'
-average: '2.745'
+average: '2.6714285714285713'
 ---
 
 Tienes [Campos  Conserva de atún claro en aceite de oliva - pack de 3 latas de 80 g](https://www.amazon.es/dp/B07Q1J5RYM/?tag=tolees-21) con un 5.91 % de descuento con precio de oferta de 2.23 EUR (original: 2.37 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Tienes [Campos  Conserva de atún claro en aceite de oliva - pack de 3 latas de 
 
 ℹ️:
 
-- Conserva de atún claro en aceite de oliva
-- País de origen: España, producto natural sin conservantes ni colorantes
 - Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - Lata ideal para consumo individual
 - Pack de 3 latas individuales de 80 g, con tapa fácil apertura
+- País de origen: España, producto natural sin conservantes ni colorantes
+- Conserva de atún claro en aceite de oliva
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Q1J5RYM/?tag=tolees-21)
