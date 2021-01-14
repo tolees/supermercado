@@ -26,8 +26,8 @@ Está [Cesta Navidad de regalo Lote Riojano gourmet / Cestas de Navidad para reg
 ℹ️:
 
 - ➡️ LOTE NAVIDAD BARATOS Selección de productos autóctonos de la zona al alcance de todos los bolsillo, Ideales para regalar en fiestas de navidad a empresas y familiares.
-- ➡️ LOTE GOURMET NAVIDAD : ¿QUÉ BEBIDAS INCLUYE? 2 x Vino tinto Rioja (Heredad Orcasol - Heredad Figu) , Vino blanco Verdejo, Cava Brut
 - ➡️ LOTE NAVIDAD: ¿QUÉ EMBUTIDOS INCLUYE? Sarta de Chorizo gourmet de la zona Riojana , totalmente artesanal. Sarta de Salchichón artesano de la Rioja, elaboración artesanal.
+- ➡️ LOTE GOURMET NAVIDAD : ¿QUÉ BEBIDAS INCLUYE? 2 x Vino tinto Rioja (Heredad Orcasol - Heredad Figu) , Vino blanco Verdejo, Cava Brut
 - ➡️ LOTE GOURMET : ¿QUÉ CONSERVAS INCLUYE? Conservas riojanas artesanas: 2 x Espárragos, cardo, Txaka, Alcachofa extra, Preparado de tortilla casero, Melocotón 1k, Bonito, Tiras del piquillo, Tomate frito de la zona.
 - ➡️ CESTA NAVIDAD GOURMET DE PRODUCTO DE LA RIOJA Y NORTE DE ESPAÑA: increible lote de navidad gourmet selección de productos riojanos, seleccionando los productos más típicos de cada zona. Cesta de navidad de calidad .
 

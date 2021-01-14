@@ -25,10 +25,10 @@ En este momento está [Scholl Desodorante en Polvo Fresh Step 2 en 1 para Pies y
 
 🔎:
 
+- ✅ Para su uso, mantener el spray a 10-15 cm de distancia y aplicar abundantemente sobre piel seca y limpia
 - ✅ Absorbe la humedad con acción secante para controlar la aparición de las bacterias causantes el mal olor
 - ✅ Ligera fragancia que protege con eficacia del olor de los pies y zapatos para que estén siempre frescos pase lo que pase
 - ✅ Se puede utilizar también en zapatos y calzado deportivo para una mayor protección
 - ✅ Proporciona a tus pies y a los zapatos 24 horas de frescor y protección contra el olor
-- ✅ Para su uso, mantener el spray a 10-15 cm de distancia y aplicar abundantemente sobre piel seca y limpia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082YGR8YC/?tag=tolees-21)
