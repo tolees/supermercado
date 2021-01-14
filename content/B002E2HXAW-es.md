@@ -25,10 +25,10 @@ Ahora mismo tienes [Teacher s Escoces Peated Whisky  40% - 1000 ml](https://www.
 
 🔎:
 
-- Sabor: suave y ahumado, con el corazón de The Ardmore
 - Paladar y Cuerpo: sabor desafiante y emocionante, lleno de ricas maltas y madurez que se desvanecen lentamente hasta convertirse en una textura sedosa y redondeada
-- Elaborado con más de 25 whiskies de malta mezclados
 - Nariz : Una maldad profunda y robusta se muestra desde el principio acompañada por un suave humo de turba de Highland
+- Elaborado con más de 25 whiskies de malta mezclados
+- Sabor: suave y ahumado, con el corazón de The Ardmore
 - Blended Scotch Whisky de la casa de Whisky Escocés Teachers
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002E2HXAW/?tag=tolees-21)
