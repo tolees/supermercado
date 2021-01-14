@@ -26,9 +26,9 @@ Ahora mismo tienes [Dani - Mejillones 13/18 en escabeche picante - Pack 6 x 106 
 🔎:
 
 - Pack 6 latas de 106 gr
-- Piezas: de 13 a 18
 - Alérgenos: contiene moluscos
-- Para cocinar o por si solos como aperitivo
 - Mejillones en escabeche picante en conserva con abrefácil
+- Para cocinar o por si solos como aperitivo
+- Piezas: de 13 a 18
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087QNZPXY/?tag=tolees-21)

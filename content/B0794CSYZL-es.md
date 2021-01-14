@@ -25,10 +25,10 @@ Tienes [Magdalenas Sin Azúcar y Sin Lactosa](https://www.amazon.es/dp/B0794CSYZ
 
 🔎:
 
-- Riquísimas Magdalenas Sin Azúcar.
-- Peso: 1,8 Kg. Vienen envueltas de una en una. Caducidad de 2 a 3 meses.
-- Producto sin Leche ni derivados. Elaborado en instalaciones libres de leche. Sin conservantes ni colorantes.
-- No contiene Aceite de Palma. Recomendado para las personas intolerantes a la lactosa, las personas con alergia a la proteína de leche de vaca (APLV) y aquellos que deban controlar su índice glucémico.
 - Recomendado por Adilac, Asociación de intolerantes a la Lactosa - España
+- Riquísimas Magdalenas Sin Azúcar.
+- No contiene Aceite de Palma. Recomendado para las personas intolerantes a la lactosa, las personas con alergia a la proteína de leche de vaca (APLV) y aquellos que deban controlar su índice glucémico.
+- Producto sin Leche ni derivados. Elaborado en instalaciones libres de leche. Sin conservantes ni colorantes.
+- Peso: 1,8 Kg. Vienen envueltas de una en una. Caducidad de 2 a 3 meses.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0794CSYZL/?tag=tolees-21)

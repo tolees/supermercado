@@ -27,8 +27,8 @@ Está [Sardinas en aceite de oliva  Sardinillas -10-14 pzs/lata- Portomar- Pack 
 
 - Solas, como aperitivo o en ensalada, aportan un plus de sabor, aroma y textura a cualquier elaboración.
 - Ingredientes: sardinas, aceite de oliva y sal.
-- Rico en Omega 3, fuente natural de calcio y vitamina D.
-- Enlatadas manualmente pieza por pieza.
 - Tamaño: 10/14 piezas/lata.
+- Enlatadas manualmente pieza por pieza.
+- Rico en Omega 3, fuente natural de calcio y vitamina D.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07C77B6LD/?tag=tolees-21)
