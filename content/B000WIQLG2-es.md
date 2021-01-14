@@ -25,10 +25,10 @@ Ahora mismo tienes [Jameson Original Whisky Irlandés - 700 ml](https://www.amaz
 
 🔎:
 
-- Es una mezcla de whiskies de grano destilados tres veces en alambique y que se envejece en barricas de roble durante 4 años
-- El color del whisky irlandés Jameson recuerda a una cálida y dorada puesta de sol
-- Jameson es un whisky de triple destilación que pasa por un proceso artesanal para conseguir su sabor suave y equilibrado
-- Jameson es un whisky irlandés con un aroma suave y un ligero toque floral complementado con notas dulces, de madera tostada y jerez
 - Contiene una delicada fusión de sabores como vainilla, madera de roble y miel, equilibrados con especias, caramelo y nueces
+- Jameson es un whisky de triple destilación que pasa por un proceso artesanal para conseguir su sabor suave y equilibrado
+- El color del whisky irlandés Jameson recuerda a una cálida y dorada puesta de sol
+- Es una mezcla de whiskies de grano destilados tres veces en alambique y que se envejece en barricas de roble durante 4 años
+- Jameson es un whisky irlandés con un aroma suave y un ligero toque floral complementado con notas dulces, de madera tostada y jerez
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000WIQLG2/?tag=tolees-21)
