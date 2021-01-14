@@ -25,11 +25,11 @@ Tienes [CAMPOS Conserva de atún en aceite de girasol  pouch/ bolsa de 500 gr](h
 
 ℹ️:
 
-- Método de pesca: cerco, ver especie y zona de pesca en la lata
-- Alto contenido en proteína, proteína barata, ideal para deportistas
-- Bolsa hermética o pouch en aceite de girasol, con reducida cantidad de líquido de cobertura y mínimo envase de desperdicio
-- País de origen: España, producto natural sin conservantes ni colorantes
 - Bolsa o pouch de 500 g para un consumo de volumen, especial hostelería
+- Alto contenido en proteína, proteína barata, ideal para deportistas
+- País de origen: España, producto natural sin conservantes ni colorantes
+- Método de pesca: cerco, ver especie y zona de pesca en la lata
+- Bolsa hermética o pouch en aceite de girasol, con reducida cantidad de líquido de cobertura y mínimo envase de desperdicio
 - Conserva de atún en aceite de girasol
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06Y3YQJ5V/?tag=tolees-21)
