@@ -25,10 +25,10 @@ Tienes [Fun Water Earthy Outlook - Desodorante para hombre  100 ml  pack de 2 ](
 
 🔎:
 
+- Salvaje, especiado y amaderado: pura sofisticación
+- Precauciones: Evitar rociar hacia los ojos o sobre pieles sensibles. No rociar sobre una llama o cualquier material incandescente. Emplear exclusivamente para el uso previsto
+- Un viaje aromático y audaz
 - Notas de la fragancia: Salida: pomelo, naranja, elemí. Corazón: pimienta negra, geranio, cedro. Fondo: pachulí, musgo de roble, vetiver, benjuí
 - Aplicar en las muñecas y el cuello
-- Un viaje aromático y audaz
-- Precauciones: Evitar rociar hacia los ojos o sobre pieles sensibles. No rociar sobre una llama o cualquier material incandescente. Emplear exclusivamente para el uso previsto
-- Salvaje, especiado y amaderado: pura sofisticación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W3F3FJ4/?tag=tolees-21)
