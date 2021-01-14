@@ -25,13 +25,13 @@ Está [Foxy Seda Papel Higiénico - 30 Unidades](https://www.amazon.es/dp/B07CC6
 
 ℹ️:
 
-- 1 unidad tiene 30 rollos de papel higiénico
-- Aroma a talco
 - Tacto Seda
-- Segmento Premium
 - PH neutro
-- Pura celulosa virgen
 - 3 capas
+- Pura celulosa virgen
+- Aroma a talco
+- 1 unidad tiene 30 rollos de papel higiénico
+- Segmento Premium
 - Papel higiénico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CC6SWQM/?tag=tolees-21)

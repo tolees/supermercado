@@ -25,10 +25,10 @@ Tienes [Usetcc Bolas de Hielo 2 Piezas  Bandeja de Hielo de Silicona  Molde de C
 
 🔎:
 
-- 🍹【Easy to Release and Quality】The ice cube moulds are flexible and can be easily twisted from the bottom to remove ice. Our ice ball moulds are reusable and durable for they wont crack or break like stiff plastic ice cube trays.
 - 🧊【Practical Lids】The lids help to avoid spilling or over-freezing, make beautiful ice balls and protect against freezer odors.
+- 🍸【Large Ice Ball Maker】The giant ice ball is 1.77in / 4.5cm and melts slowly, perfecting for whiskey, brandy, rum, cocktail, coffee, milk, tea, juice and other drinks. It is ideal for parties, bars and restaurants.
 - 🍫【Multipurpose Ice Cube Tray】The ice ball makers are great for making chocolates, popsicles, jellos, candies and so on. Also good for gifts and holiday events.
 - 🍨【Food Grade Material 】The ice cube trays are made of food grade silicone, free of BPA, FDA approved, eco-friendly and easy to clean. Dishwasher and oven safe from -40℉ to 446℉(-40℃〜230℃).
-- 🍸【Large Ice Ball Maker】The giant ice ball is 1.77in / 4.5cm and melts slowly, perfecting for whiskey, brandy, rum, cocktail, coffee, milk, tea, juice and other drinks. It is ideal for parties, bars and restaurants.
+- 🍹【Easy to Release and Quality】The ice cube moulds are flexible and can be easily twisted from the bottom to remove ice. Our ice ball moulds are reusable and durable for they wont crack or break like stiff plastic ice cube trays.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B087F34MSC/?tag=tolees-21)
