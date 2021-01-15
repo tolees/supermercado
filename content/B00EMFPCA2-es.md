@@ -25,12 +25,12 @@ Ahora mismo tienes [Spirella 10.16461 - Portarrollos para Papel de Cocina  Color
 
 🔎:
 
+- para que coincida con otros accesorios de baño de la serie del tazón de fuente y Sídney
 - Portarrollos de papel higiénico para atornillar o pegar
+- seguro no lavavajillas
+- Material: ABS
 - producto de la marca Spirella
 - Redondeo fresco para Lugares de silencio
 - Tamaño aprox (H x W ): 18,5 x 18,5 cm
-- para que coincida con otros accesorios de baño de la serie del tazón de fuente y Sídney
-- Material: ABS
-- seguro no lavavajillas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00EMFPCA2/?tag=tolees-21)

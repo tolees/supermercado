@@ -26,7 +26,7 @@ Está [Don Simon - Zumo Naranja Exprimida sin pulpa  1 L](https://www.amazon.es/
 ℹ️:
 
 - Una vez abierto el envase, conservar en el frigorífico
-- Agitar antes de servir
 - Almacenar en un lugar fresco
+- Agitar antes de servir
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DUWB6HU/?tag=tolees-21)

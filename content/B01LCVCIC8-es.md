@@ -26,7 +26,7 @@ En este momento está [Germanor Arbequina Aceite de Oliva Virgen Extra - 5 l](ht
 🔎:
 
 - Para frituras de carnes, pescados y para todo tipo de cocidos
-- Realza el sabor sin modificar gustos
 - De aceitunas Arbequinas
+- Realza el sabor sin modificar gustos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LCVCIC8/?tag=tolees-21)

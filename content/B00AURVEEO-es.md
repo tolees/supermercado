@@ -25,10 +25,10 @@ Tienes [Gullón - Galleta Sándwich chocolate sin azúcar Diet Nature 250g](http
 
 ℹ️:
 
+- Galletas en sandwich de chocolate Diet Nature sin azúcares añadidos.
+- Fabricado por Galletas Gullón.
+- Sin azúcares añadidos, la elección perfecta para darte un capricho.
 - Producto elaborado con aceite de girasol alto oleico.
 - Prueba este delicioso sándwich relleno de chocolate y fuente de fibra.
-- Sin azúcares añadidos, la elección perfecta para darte un capricho.
-- Fabricado por Galletas Gullón.
-- Galletas en sandwich de chocolate Diet Nature sin azúcares añadidos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AURVEEO/?tag=tolees-21)
