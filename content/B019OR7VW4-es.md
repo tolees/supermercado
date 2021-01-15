@@ -25,9 +25,9 @@ Tienes [SOS Arroz Especial Ensaladas – 500 g](https://www.amazon.es/dp/B019OR7
 
 🔎:
 
-- Tiempo de cocción: 20 minutos
-- Sin gluten
 - Producto ideal para dietas veganas, vegetarianas y flexitarianas
+- Sin gluten
+- Tiempo de cocción: 20 minutos
 - Mezcla de arroz largo, rojo integral y salvaje de SOS que aportan una textura y colorido diferentes a tus ensaladas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B019OR7VW4/?tag=tolees-21)
