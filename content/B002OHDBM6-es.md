@@ -25,10 +25,10 @@ Está [Delonghi ECAM 23.420.Sw Máquina De Café  1450 W  1.8 Litros  Negro/Plat
 
 ℹ️:
 
-- Nevo molinillo integrado más silencioso
-- Regulador manual de cantidad de agua y café y temperatura
-- Tanque de agua de 1.8 l y depósito de gotas extraibles
-- Caldera desmontable para una mejor limpieza
 - Función de 2 tazas
+- Regulador manual de cantidad de agua y café y temperatura
+- Caldera desmontable para una mejor limpieza
+- Tanque de agua de 1.8 l y depósito de gotas extraibles
+- Nevo molinillo integrado más silencioso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002OHDBM6/?tag=tolees-21)
