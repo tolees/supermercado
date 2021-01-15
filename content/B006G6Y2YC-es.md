@@ -26,9 +26,9 @@ Ahora mismo tienes [Finish Sal para Lavavajillas  4 kg](https://www.amazon.es/dp
 🔎:
 
 - No contiene residuos, ayudando a conservar tu vajilla más tiempo
-- Finish es la marca recomendada por los principales fabricantes de lavavajillas
-- Aumenta el rendimiento de limpieza de tu detergente
 - Finish Sal para el lavavajillas evita la acumulación de cal en tu vajilla
+- Finish es la marca recomendada por los principales fabricantes de lavavajillas
 - Evita puntos y marcas de agua en la vajilla
+- Aumenta el rendimiento de limpieza de tu detergente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B006G6Y2YC/?tag=tolees-21)

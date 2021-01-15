@@ -25,8 +25,8 @@ Está [Knorr -  Sopa Deshidratada Rabo De Buey  71g ](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Elaborada con ingredientes de alta calidad
-- Bajo en grasas
 - Sin conservantes ni colorantes artificiales
+- Bajo en grasas
+- Elaborada con ingredientes de alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LYEYPYL/?tag=tolees-21)
