@@ -25,8 +25,8 @@ Está [Maybelline Stick Master Contour Tono: 03 Dark - 7 g](https://www.amazon.e
 
 ℹ️:
 
-- Dirigido a las mujeres
 - Nombre del color: Dark
+- Dirigido a las mujeres
 - Adecuado para los tipos de piel
 - Número de colores: 03
 - Tipo de dispensador: lápiz
