@@ -25,10 +25,10 @@ En este momento está [Finish Power Gel 0% Detergente Gel Lavavajilla con Certif
 
 🔎:
 
-- Detergente en formato gel para el lavavajillas sin perfume, colorantes, conservantes
-- Gel de rápida disolución, incluso en ciclos cortos
-- Con certificado ecológico Ecolabel
 - Finish es la marca recomendada por los principales fabricantes de lavavajillas
+- Gel de rápida disolución, incluso en ciclos cortos
 - Con la misma eficacia que los geles Finish All in 1 Max
+- Detergente en formato gel para el lavavajillas sin perfume, colorantes, conservantes
+- Con certificado ecológico Ecolabel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082BQGL8Y/?tag=tolees-21)
