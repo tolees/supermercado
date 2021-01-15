@@ -25,11 +25,11 @@ Está [Pantene Pro-V Hair Biology Purifica & Reconstruye Mascarilla 160 ml  Para
 
 ℹ️:
 
-- Mascarilla para puntas dañadas y raíces grasas
-- Pantene Hair Biology, para lucir un pelo increíble cada día
-- 0 % de parabenos, colorantes y aceites minerales
 - Con agua de rosas, agua micelar y complejo ProV
+- 0 % de parabenos, colorantes y aceites minerales
 - Ayuda a reparar los daños al instante
 - Mascarilla reparadora instantánea
+- Pantene Hair Biology, para lucir un pelo increíble cada día
+- Mascarilla para puntas dañadas y raíces grasas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RR3M6VZ/?tag=tolees-21)

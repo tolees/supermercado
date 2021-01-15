@@ -25,8 +25,8 @@ Ahora mismo tienes [La Piara Tapa Negra - Paté de higaro de cerdo  115 g](https
 
 🔎:
 
-- Una vez abierto se debe mantener refrigerado
 - Conservar en un lugar fresco, seco y protegido del sol
 - Tiene un contenido de 27% hígado
+- Una vez abierto se debe mantener refrigerado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01DUWWD2W/?tag=tolees-21)

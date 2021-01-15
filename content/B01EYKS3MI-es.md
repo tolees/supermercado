@@ -25,10 +25,10 @@ En este momento está [Glen Breton  Ice Wine Barrel Whisky  12 Años - 700 ml](h
 
 🔎:
 
+- Sabor: Dulce, vino rosado, roble picante, miel.
+- perfecto como un regalo
 - Nariz: Malteada dulce, miel, ciruelas, fresas.
 - Color: Oro pajizo claro.
-- Sabor: Dulce, vino rosado, roble picante, miel.
 - Acabado: Larga duración, toques de canela, caramelo.
-- perfecto como un regalo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01EYKS3MI/?tag=tolees-21)
