@@ -26,9 +26,9 @@ Tienes [Just For Men Control GX - Champú y Acondicionador Reductor de Canas par
 🔎:
 
 - Lava, revitaliza y acondiciona el cabello
-- Suave para uso diario
 - Fácil de usar. Tan sencillo como lavarse el pelo
-- Champú que elimina las canas gradualmente y proporciona un resultado natural
+- Suave para uso diario
 - Usar diariamente hasta conseguir el resultado deseado
+- Champú que elimina las canas gradualmente y proporciona un resultado natural
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078WTX9WY/?tag=tolees-21)
