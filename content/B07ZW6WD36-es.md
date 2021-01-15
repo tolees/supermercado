@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Palmolive - Aceite de oliva Leche Jabón  al 0.00 % de descuento'
-date: 2021-01-14 16:03:33
+date: 2021-01-15 16:59:16
 image: 'https://m.media-amazon.com/images/I/41HG3iI1+DL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07ZW6WD36/?tag=tolees-21'
 descuento: '0.00'
-average: '1.8717721518987338'
+average: '1.8794999999999995'
 ---
 
 Está [Palmolive - Aceite de oliva Leche Jabón líquido  300 ml](https://www.amazon.es/dp/B07ZW6WD36/?tag=tolees-21) con 0.00 de descuento por 2.49 EUR (original:  EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Está [Palmolive - Aceite de oliva Leche Jabón líquido  300 ml](https://www.am
 
 ℹ️:
 
+- Producto con Aceite de oliva y leche
 - Dimensiones: 145 mm x 94 mm
 - Volum: 300 ml
 - Jabón líquido
-- Producto con Aceite de oliva y leche
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZW6WD36/?tag=tolees-21)

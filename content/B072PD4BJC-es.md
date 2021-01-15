@@ -25,9 +25,9 @@ Tienes [Montibel-Lo Platinum  Champú para Canas  1000 ml](https://www.amazon.es
 
 🔎:
 
-- Tipo de producto - Champú
 - Género - Unisex
-- Producto de buena calidad
 - facil de usar
+- Tipo de producto - Champú
+- Producto de buena calidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072PD4BJC/?tag=tolees-21)

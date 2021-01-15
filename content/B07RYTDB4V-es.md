@@ -25,10 +25,10 @@ Tienes [Oral-B 3D White Luxe Brillo Glamoroso  Pasta Dentífrica  75 ml](https:
 
 🔎:
 
+- Protege contra nuevas manchas
 - Sabor a menta para un aliento fresco durante más tiempo
+- Blanquea eliminando las manchas superficiales
 - Elimina hasta el 100 % de las manchas superficiales* en 3 días y ayuda a prevenir futuras manchas
 - Pasta dentífrica que protege el esmalte
-- Protege contra nuevas manchas
-- Blanquea eliminando las manchas superficiales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RYTDB4V/?tag=tolees-21)
