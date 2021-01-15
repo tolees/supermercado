@@ -25,8 +25,8 @@ Tienes [Fairy Original Limón - Pastillas para Lavavajillas Todo en 1  125 Cáps
 
 🔎:
 
-- Powerful tablets with tough stain removal and super shine function with any dishwasher
 - Fairy’s reliable dishwasher tablets with 1st time cleaning action
+- Powerful tablets with tough stain removal and super shine function with any dishwasher
 - Dishwasher tablets that leave your dishes looking good as new, even cleans dried on grease
 - Keep your dishwasher smelling clean and fresh with Fairy tablets
 - These dishwasher tablets have built-in salt and rinse aid action with also glass and silver protection
