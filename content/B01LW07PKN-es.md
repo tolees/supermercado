@@ -26,9 +26,9 @@ Ahora mismo tienes [Maybelline New York  Base de Maquillaje que Calca a tu Tono 
 🔎:
 
 - Base de maquillaje que calca tu tono y tu textura para un resultado sublime y homogéneo
-- Utiliza tu tono en toda la cara y otro ligeramente más oscuro en los relieves del rostro para un efecto bronceado, Combínalo con el corrector y los polvos Fit Me para un acabado impecable
-- Contenido: 1 x Base de maquillaje fluido Fit Me Mate y Afinaporos Maybelline New York, Tono: 115 Ivory Cantidad: 30 ml
 - Idónea para pieles mixtas o gracias a su fórmula
+- Utiliza tu tono en toda la cara y otro ligeramente más oscuro en los relieves del rostro para un efecto bronceado, Combínalo con el corrector y los polvos Fit Me para un acabado impecable
 - Fórmula ligera no comedogénica enriquecida con arcilla matificante y micropolvos borradores de brillos y poros para un acabado natural
+- Contenido: 1 x Base de maquillaje fluido Fit Me Mate y Afinaporos Maybelline New York, Tono: 115 Ivory Cantidad: 30 ml
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LW07PKN/?tag=tolees-21)
