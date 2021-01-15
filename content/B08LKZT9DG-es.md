@@ -25,9 +25,9 @@ Tienes [Aceite de Oliva Virgen Extra MARTOLIVA  Jaén . 2 LITROS. 100% PICUAL. P
 
 🔎:
 
-- Envase PET de 2 litros
 - 100% variedad Picual
-- Primera presión en frío
 - Producido en Jaén
+- Primera presión en frío
+- Envase PET de 2 litros
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08LKZT9DG/?tag=tolees-21)

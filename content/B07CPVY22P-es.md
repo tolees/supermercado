@@ -25,8 +25,8 @@ Ahora mismo tienes [JOE WEIDER VICTORY Multikids Up Cherry. 50 gummies. Complejo
 
 🔎:
 
-- Seguir las instrucciones de uso
-- Suplemento alimenticio
 - Tomar 2 gummies, que se pueden tomar a la vez o repartidas en dos momentos del día. ¡Como tu peque prefiera!
+- Suplemento alimenticio
+- Seguir las instrucciones de uso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CPVY22P/?tag=tolees-21)

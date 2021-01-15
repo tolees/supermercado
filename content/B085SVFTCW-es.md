@@ -28,7 +28,7 @@ Tienes [Sanytol - Limpiador Desinfectante Multiusos en Spray  Todas las Superfic
 - Desinfectante multisuperficies eficaz contra las bacterias como el S. aureus o el E.coli y hongos más comunes en el hogar, como el causante de la Candidiasis o el moho.)
 - Ideal para desinfectar incluso las zonas de bebés o mascotas.
 - Limpia y desinfecta sin lejía y de una sola pasada todo tipo de superficies.
-- Deja un agradable perfume a limpio.
 - Elimina el 99,9% de los gérmenes, neutralizando los alérgenos más comunes del hogar como los ácaros del polvo, los gatos, esporas de moho y el polen.
+- Deja un agradable perfume a limpio.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085SVFTCW/?tag=tolees-21)
