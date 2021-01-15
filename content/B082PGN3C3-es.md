@@ -25,8 +25,8 @@ En este momento está [Estrella Limpiahogar con Lejía y Detergente Limón - 1.3
 
 🔎:
 
-- Producto 2 en 1: Contiene tanto lejía como detergente ofreciendo resultados óptimos
 - Garantiza la higiene óptima de todo el hogar
+- Producto 2 en 1: Contiene tanto lejía como detergente ofreciendo resultados óptimos
 - Garantiza la máxima desinfección y limpia en profundidad dejando tu hogar impecable
 - Combate los malos olores dejando una fragancia fresca para tu hogar
 - Desinfección y limpieza sin huella: Producto contra virus, hongos y bacterias

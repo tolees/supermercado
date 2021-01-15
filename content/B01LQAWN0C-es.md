@@ -25,8 +25,8 @@ Tienes [Dr. Oetker - Chocolate Mug Cake  Sin Gluten  1 unidad](https://www.amazo
 
 ℹ️:
 
-- Ideal para tomar caliente y recién hecho en cualquier momento
-- Solo necesitas 1 taza, 1 cuchara y un minuto en el microondas
 - Fácil, rápido y delicioso.
+- Solo necesitas 1 taza, 1 cuchara y un minuto en el microondas
+- Ideal para tomar caliente y recién hecho en cualquier momento
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LQAWN0C/?tag=tolees-21)

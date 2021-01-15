@@ -25,9 +25,9 @@ Está [Garnier Fructis Style Gel Wet Shine Efecto Mojado - Pack de 6 x 250 ml](h
 
 ℹ️:
 
+- 250 ml
 - Formulado con extracto de bambú
 - Logra un efecto recién salido de la ducha de extra-larga duración, con un acabado que no se seca; brillo y fijación por más tiempo
 - Aplicar una avellana de producto sobre el pelo húmedo
-- 250 ml
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01I2Y7ES6/?tag=tolees-21)

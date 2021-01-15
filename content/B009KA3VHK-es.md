@@ -25,10 +25,10 @@ En este momento está [Hero - Baby Natur - Lenguado con crema de Bechamel para 8
 
 🔎:
 
-- Elaborados en la Huerta de Murcia
-- 100% natural
 - A partir de 8 meses
 - Sin colorantes ni conservantes
+- 100% natural
+- Elaborados en la Huerta de Murcia
 - Contiene Pescado y/o productos a base de pescados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B009KA3VHK/?tag=tolees-21)
