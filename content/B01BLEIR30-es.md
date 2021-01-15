@@ -26,8 +26,8 @@ Tienes [UniqOne Revlon Professional - Tratamiento para el cabello  Coco  150 ml]
 ℹ️:
 
 - Facilita el peinado
+- Protección térmica
 - Efecto desenredante
 - Repara el cabello seco y dañado
-- Protección térmica
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BLEIR30/?tag=tolees-21)

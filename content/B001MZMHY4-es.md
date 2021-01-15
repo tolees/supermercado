@@ -25,10 +25,10 @@ Tienes [Schott Zwiesel 475676 Hielo Vasos de café  Cristal  Transparente  6 U
 
 🔎:
 
+- Diámetro: 8 cm
+- Contenido (pieza): 6
 - Schott zwiesel
 - De cristal
-- Contenido (pieza): 6
-- Diámetro: 8 cm
 - Transparente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001MZMHY4/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [Fa - Desodorante Roll-On Bali Kiss - Con fragancia de mango 
 
 🔎:
 
-- 48 horas de protección
-- El complejo de frescor activo ayuda a combatir de forma eficaz las bacterias que causan el mal olor
 - Fragancia de mango y flor de vainilla
 - 0% sales de aluminio
+- El complejo de frescor activo ayuda a combatir de forma eficaz las bacterias que causan el mal olor
+- 48 horas de protección
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KGGDHJB/?tag=tolees-21)
