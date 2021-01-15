@@ -26,13 +26,13 @@ Está [Pernigotti Crema Cremino 350 g](https://www.amazon.es/dp/B08P61HJVV/?tag=
 ℹ️:
 
 - Unidad de medida: unidad
-- Páis de origen: italia
-- Número de items: 1
 - Sin aceite de palma
+- Páis de origen: italia
 - Gianduia (50%) y crema de avellana(50%) para untar
+- Número de items: 1
+- Instrucciones para su uso adecuado: conservar en lugar fresco y seco (preferiblemente 18-20°c) y alejado de olores.
+- Advertencia de seguridad: conservar en lugar fresco y seco (preferiblemente 18-20°c) y alejado de olores.
 - Unidades: 1.0
 - Solo aromas naturales
-- Advertencia de seguridad: conservar en lugar fresco y seco (preferiblemente 18-20°c) y alejado de olores.
-- Instrucciones para su uso adecuado: conservar en lugar fresco y seco (preferiblemente 18-20°c) y alejado de olores.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08P61HJVV/?tag=tolees-21)

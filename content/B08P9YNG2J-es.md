@@ -25,10 +25,10 @@ Ahora mismo tienes [Soporte para cápsulas de café – Soporte para cápsulas d
 
 🔎:
 
-- Ideal para guardar cápsulas de café Nespresso. Su estructura está realizada en metal cromado para un aspecto perfecto.
-- Tamaño del soporte: 30 x 13 x 10 cm.
-- El soporte tiene 4 filas de 8 cápsulas, con una capacidad total de 48 cápsulas.
 - Este bonito diseño práctico es la forma menos voluminosa para guardar y organizar tus cápsulas Nespresso.
+- Ideal para guardar cápsulas de café Nespresso. Su estructura está realizada en metal cromado para un aspecto perfecto.
+- El soporte tiene 4 filas de 8 cápsulas, con una capacidad total de 48 cápsulas.
 - Este moderno soporte para cápsulas dará un toque de estilo a tu cocina.
+- Tamaño del soporte: 30 x 13 x 10 cm.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08P9YNG2J/?tag=tolees-21)
