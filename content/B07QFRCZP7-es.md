@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dulcesol  Hazelnut Cake  Bizcocho de Ave al 0.00 % de descuento'
-date: 2021-01-14 03:31:16
+date: 2021-01-15 04:28:33
 image: 'https://m.media-amazon.com/images/I/41v81YDivzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21'
 descuento: '0.00'
-average: '1.6170886075949369'
+average: '1.6175000000000002'
 ---
 
 Ahora mismo tienes [Dulcesol  Hazelnut Cake  Bizcocho de Avellana  - 5 unidades.](https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21) a 1.65 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
@@ -25,8 +25,8 @@ Ahora mismo tienes [Dulcesol  Hazelnut Cake  Bizcocho de Avellana  - 5 unidades.
 
 🔎:
 
-- Producto de pastelería y repostería
 - Marca Dulcesol
+- Producto de pastelería y repostería
 - Pastelito relleno sabor avellana
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21)

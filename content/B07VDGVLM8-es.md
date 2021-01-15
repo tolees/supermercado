@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Palmini lasaña Baja en carbohidratos | 4 con un 0.00 % de descuento'
-date: 2021-01-14 04:05:26
+date: 2021-01-15 04:30:57
 image: 'https://m.media-amazon.com/images/I/41Z47m83HDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ En este momento está [Palmini lasaña Baja en carbohidratos | 4 g de Carbohidra
 
 - Libre de Gluten
 - Libre de Azucar
-- 4g de Carbohidratos
-- Pasta Baja en Carbohidratos
 - 20 Calorias
+- Pasta Baja en Carbohidratos
+- 4g de Carbohidratos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VDGVLM8/?tag=tolees-21)

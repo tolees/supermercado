@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dani - Hígado de bacalao ahumado - Pack  al 0.00 % de descuento'
-date: 2021-01-14 03:37:01
+date: 2021-01-15 04:45:32
 image: 'https://m.media-amazon.com/images/I/41uIsKfZ4uL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,8 +26,8 @@ Ahora mismo tienes [Dani - Hígado de bacalao ahumado - Pack 5 x 120 gr.](https:
 🔎:
 
 - Alérgenos: contiene pescado
-- Rico en Omega 3 y vitaminas a y D
-- Hígado de bacalao ahumado en conserva con abrefácil; pack 5 latas de 120 gr
 - El "foie del mar”, tiene una textura y un sabor delicado, y se utiliza para preparar numerosos platos o para tomar por sí solo
+- Hígado de bacalao ahumado en conserva con abrefácil; pack 5 latas de 120 gr
+- Rico en Omega 3 y vitaminas a y D
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087QNGQ2L/?tag=tolees-21)
