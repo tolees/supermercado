@@ -26,7 +26,7 @@ Está [Dulcesol  Bizcocho Red Velvet - 175 gr.](https://www.amazon.es/dp/B07QK31
 ℹ️:
 
 - Producto de pastelería y repostería
-- Bizcocho Red Velvet
 - Marca Dulcesol
+- Bizcocho Red Velvet
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QK31VZM/?tag=tolees-21)
