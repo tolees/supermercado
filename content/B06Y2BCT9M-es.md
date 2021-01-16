@@ -25,8 +25,8 @@ Tienes [Nestlé Leche y Cereales Pijama Alimento Para bebés - Paquete de 2 unid
 
 🔎:
 
-- Textura suave y un sabor que le encantará
 - Con hierro+ que contribuye al desarrollo cognitivo normal
+- Textura suave y un sabor que le encantará
 - No contiene aceite de palma
 - Nestlé Leche y Cereales Pijama es un alimento para bebés que contiene 80% de leche de continuación y cereales
 - En un práctico formato para disfrutar en cualquier parte
