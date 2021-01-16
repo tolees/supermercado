@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en CAMPOS Conserva de atún en aceite de gir'
-date: 2021-01-15 16:41:49
+date: 2021-01-16 16:47:18
 image: 'https://m.media-amazon.com/images/I/51WCaJKD4IL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,9 +27,9 @@ Tienes [CAMPOS Conserva de atún en aceite de girasol  pouch/ bolsa de 500 gr](h
 
 - Conserva de atún en aceite de girasol
 - Bolsa o pouch de 500 g para un consumo de volumen, especial hostelería
-- País de origen: España, producto natural sin conservantes ni colorantes
-- Bolsa hermética o pouch en aceite de girasol, con reducida cantidad de líquido de cobertura y mínimo envase de desperdicio
 - Alto contenido en proteína, proteína barata, ideal para deportistas
 - Método de pesca: cerco, ver especie y zona de pesca en la lata
+- País de origen: España, producto natural sin conservantes ni colorantes
+- Bolsa hermética o pouch en aceite de girasol, con reducida cantidad de líquido de cobertura y mínimo envase de desperdicio
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06Y3YQJ5V/?tag=tolees-21)
