@@ -25,8 +25,8 @@ Tienes [Instituto Español Desodorante Roll On de Urea - 75 ml](https://www.amaz
 
 🔎:
 
-- Tipo de producto: Desodorante roll on
 - Género: Unisex Adulto
 - Marca: Instituto Español
+- Tipo de producto: Desodorante roll on
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0194NAZQM/?tag=tolees-21)

@@ -25,7 +25,7 @@ Tienes [Haribo Mega Roulette Caramelos de Goma - 1080 gr](https://www.amazon.es/
 
 🔎:
 
-- Deliciosa mezcla de caramelos en formato snack
 - Irresistible mix de sabores
+- Deliciosa mezcla de caramelos en formato snack
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XAQ99PI/?tag=tolees-21)
