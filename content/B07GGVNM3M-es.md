@@ -25,9 +25,9 @@ En este momento está [Cabezales de cepillo de repuesto compatibles con el cepil
 
 🔎:
 
-- Estos cabezales de cepillos de dientes son fabricados independientemente por Yanaboo, aprobados por CE y la FDA.
 - Estas cabezas de cepillo de reemplazo de 12 paquetes vienen con 4 tapas para almacenamiento y viaje higiénicos.
 - Compatible con toda la línea de mangos recargables Oral-B, excepto los cepillos de dientes sónicos Oral-B.
+- Estos cabezales de cepillos de dientes son fabricados independientemente por Yanaboo, aprobados por CE y la FDA.
 - Las cerdas indicadoras se desvanecen como un letrero para reemplazar el cabezal del cepillo de dientes por una buena limpieza.
 - Hecho con cerdas de nylon Dupont Tynex de EE. UU. Redondeadas, las cerdas redondeadas extra suaves son suaves para los dientes y las encías.
 
