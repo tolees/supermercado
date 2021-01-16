@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CERVEZA ARTESANA: ELABORACIÓN  PROCESOS  con un 0.00 % de descuento'
-date: 2021-01-14 15:53:39
+date: 2021-01-15 23:07:58
 image: 'https://m.media-amazon.com/images/I/51G8wPxeBjL._SL200_.jpg'
 comments: true
 category: ofertas
