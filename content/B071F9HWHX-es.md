@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lixone - Jabón de glicerina natural  Pac al 0.00 % de rebaja'
-date: 2021-01-15 04:28:51
+date: 2021-01-16 05:15:40
 image: 'https://m.media-amazon.com/images/I/41E9Z0slftL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071F9HWHX/?tag=tolees-21'
 descuento: '0.00'
-average: '2.2906666666666666'
+average: '2.2896103896103894'
 ---
 
 Tienes [Lixone - Jabón de glicerina natural  Pack de 3 x 125 gr](https://www.amazon.es/dp/B071F9HWHX/?tag=tolees-21) con precio final de  2.25 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
