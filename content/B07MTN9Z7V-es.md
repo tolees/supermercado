@@ -25,8 +25,8 @@ Ahora mismo tienes [Axe Provocation Déodorant Homme Spray Sans Sels d Aluminium
 
 🔎:
 
+- Un perfume muy original y enérgico con los acuerdos a la vez dulces y sexy, épicés y moderna. Como un resultado défendu provocación sería una mezcla a croquer, que se debe, pero no se descuiden... Hecho caer incluso los ángeles
 - Siempre de usos con menos de embalaje
 - Desodorante parfumant para hombre
-- Un perfume muy original y enérgico con los acuerdos a la vez dulces y sexy, épicés y moderna. Como un resultado défendu provocación sería una mezcla a croquer, que se debe, pero no se descuiden... Hecho caer incluso los ángeles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MTN9Z7V/?tag=tolees-21)

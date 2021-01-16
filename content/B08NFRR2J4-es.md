@@ -25,12 +25,12 @@ Tienes [NIVEA Neceser Gimnasio Gympack  set de regalo mujer](https://www.amazon.
 
 🔎:
 
-- El desodorante con 0 % alcohol etílico contiene acondicionadores para la piel que dejan una sensación fresca
-- La loción corporal para piel normal proporciona una hidratación profunda durante 48 horas y deja en la piel una agradable sensación de suavidad
-- Nivea neceser gympack es un set adecuado como regalo para navidad, para un cumpleaños o para otras ocasiones importantes y contiene 4 productos fundamentales para el cuidado de la piel
 - Unidad de medida: unidad
+- El desodorante con 0 % alcohol etílico contiene acondicionadores para la piel que dejan una sensación fresca
 - El gel de ducha enriquecido con aceite de jojoba cuida la piel de una forma delicada; su refrescante fragancia a coco mima los sentidos
-- Número de items: 1
 - El gel limpiador enriquecido con vitamina e e hydra iq limpia profundamente la piel y la refresca, al tiempo que respeta su equilibrio natural de hidratación
+- Nivea neceser gympack es un set adecuado como regalo para navidad, para un cumpleaños o para otras ocasiones importantes y contiene 4 productos fundamentales para el cuidado de la piel
+- Número de items: 1
+- La loción corporal para piel normal proporciona una hidratación profunda durante 48 horas y deja en la piel una agradable sensación de suavidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08NFRR2J4/?tag=tolees-21)
