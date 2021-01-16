@@ -26,8 +26,8 @@ Está [Usisa - Conserva de Pescado | Caballa al Vapor - 6 Latas x 400 g](https:/
 ℹ️:
 
 - Conservas de pescado natural producida en España, sin ningún tipo de conservantes ni aditivos
-- Pack de 6 latas de caballas al natural con el mejor sabor de Andalucía
 - Cada lata se elabora de forma artesanal y solo contiene caballas, agua y sal
+- Pack de 6 latas de caballas al natural con el mejor sabor de Andalucía
 - En Tejero la producción continúa siendo artesanal, siendo fieles a una tradición centenaria
 - Caballa al Natural de Andalucía cocida al vapor con todo el sabor del sur de España
 

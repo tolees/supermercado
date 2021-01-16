@@ -26,8 +26,8 @@ Ahora mismo tienes [Nutella - Chocolate para untar  825 g](https://www.amazon.es
 🔎:
 
 - Mezcla que contiene aproximadamente 50 % de avellanas y 50 % de chocolate
+- Contiene lactosa
 - Adecuada para untar sobre un pan
 - Conservar en un lugar fresco, seco y protegido del sol
-- Contiene lactosa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0072RSCGS/?tag=tolees-21)

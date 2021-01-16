@@ -25,10 +25,10 @@ Tienes [Pasta de Datiles 1 KG BIO cultivo Ecológica | Pasta Fruto Seco | Soft D
 
 🔎:
 
-- ✅✔El Dulce mas sano de la Naturaleza/Natures healthiest sweetner.
-- ✅✔El carbohydrato favorito de personas activas/deportistas/sana!
 - ✅✔Nueva calidad y packaging Invierno 2020 Requisito, Suave y Dulce! 100% FRUTA NATURAL
-- ✅✔Para hacer tartas, barritas, cereales, muesli y desayunos y endulzar cual quiera receta en forma sano.
 - ✅✔Durante Verano, Conservar EN NEVERA.
+- ✅✔El carbohydrato favorito de personas activas/deportistas/sana!
+- ✅✔El Dulce mas sano de la Naturaleza/Natures healthiest sweetner.
+- ✅✔Para hacer tartas, barritas, cereales, muesli y desayunos y endulzar cual quiera receta en forma sano.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081QSCP9M/?tag=tolees-21)
