@@ -25,10 +25,10 @@ Tienes [Pasticceria Passerini dal 1919 Cesta de Navidad con 4 Panettones Italian
 
 🔎:
 
-- La cesta de mimbre que custodia el lote de productos mide 58x27,5x36 cm y está incluida en el precio
-- Si hay un regalo infalible, que siempre hace ilusión, es una cesta de productos gastronómicos 🎁
 - En esta ocasión os proponemos una cesta muy dulce, formada por un surtido de panettones italianos
-- ✔️ 1 Panettone clásico ✔️1 Panettone de 3 chocolates ✔️1 Pandoro ✔️1 Veneziana
 - Podrás utilizarla como baúl para guardar manteles y servilletas e incluso como cesta de picnic 🌿
+- Si hay un regalo infalible, que siempre hace ilusión, es una cesta de productos gastronómicos 🎁
+- La cesta de mimbre que custodia el lote de productos mide 58x27,5x36 cm y está incluida en el precio
+- ✔️ 1 Panettone clásico ✔️1 Panettone de 3 chocolates ✔️1 Pandoro ✔️1 Veneziana
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KLQ4XDN/?tag=tolees-21)

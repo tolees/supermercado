@@ -25,8 +25,8 @@ En este momento está [Dulcesol Croissants Cacao 5 Unidades 225 g](https://www.a
 
 🔎:
 
-- Envases individuales
 - Producto de bollería
 - Croissant Dulcesol
+- Envases individuales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077PSLTM8/?tag=tolees-21)

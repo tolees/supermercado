@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Axe Desodorante Apollo - 150 ml al 27.63 % de descuento'
-date: 2021-01-14 11:21:48
+date: 2021-01-16 06:42:33
 image: 'https://m.media-amazon.com/images/I/41zegnzYqgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Ahora mismo tienes [Axe Desodorante Apollo - 150 ml](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Dermatológicamente comprobado
 - Axe Desodorante Apollo
-- Mantente fresco por más tiempo
 - Fragancia fresca y adictiva
+- Dermatológicamente comprobado
+- Mantente fresco por más tiempo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PN9PT7F/?tag=tolees-21)
