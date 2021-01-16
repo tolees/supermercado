@@ -25,9 +25,9 @@ Ahora mismo tienes [Axe Desodorante Apollo - 150 ml](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Dermatológicamente comprobado
-- Axe Desodorante Apollo
-- Fragancia fresca y adictiva
 - Mantente fresco por más tiempo
+- Dermatológicamente comprobado
+- Fragancia fresca y adictiva
+- Axe Desodorante Apollo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PN9PT7F/?tag=tolees-21)
