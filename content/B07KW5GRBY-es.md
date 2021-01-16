@@ -25,9 +25,9 @@ Tienes [Dulcesol Cheese Cake 5 Unidades 225 g](https://www.amazon.es/dp/B07KW5GR
 
 ℹ️:
 
-- Chees cake marca Dulcesol
-- Envase de 5 unidades
-- Bizcocho relleno con queso y arándanos
 - Producto de pastelería y repostería
+- Envase de 5 unidades
+- Chees cake marca Dulcesol
+- Bizcocho relleno con queso y arándanos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KW5GRBY/?tag=tolees-21)

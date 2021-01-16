@@ -25,10 +25,10 @@ Tienes [Scottex Quanto Basta - 6 Maxi rollos de papel de cocina](https://www.am
 
 🔎:
 
-- Fabricado en Italia.
-- Rollo con opción corte a la mitad, para consumir menos papel en función de los usos.
 - Papel de cocina fabricado con fibras de celulosa certificadas.
 - Media Hoja, elige la cantidad adecuada de papel en base a tus necesidades.
+- Rollo con opción corte a la mitad, para consumir menos papel en función de los usos.
 - Muy absorbente, óptimo para cocina.
+- Fabricado en Italia.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06Y5SW2S4/?tag=tolees-21)
