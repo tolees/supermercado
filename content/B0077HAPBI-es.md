@@ -27,8 +27,8 @@ Ahora mismo tienes [L Oréal Paris Perfect Slim Líquido Negro Intenso - 12 ml](
 
 - Perfilador líquido con trazo fino de color negro
 - Gracias a la punta de alta precisión dibuja un trazo preciso, intenso y modulable
-- Forma ergonómica que se adapta a la forma de tu ojo
 - Punta de pluma extra fina para conseguir un trazo más delicado y elegante
 - Aplicación fácil y rápida en una sola pasada
+- Forma ergonómica que se adapta a la forma de tu ojo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0077HAPBI/?tag=tolees-21)

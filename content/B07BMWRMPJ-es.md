@@ -26,7 +26,7 @@ Ahora mismo tienes [Lagarto Bolsa Detergente en Capsulas - Al Jabón - Pack de 3
 🔎:
 
 - Fácil dosificación, Zip seguridad
-- Efectivas en todo tipo de manchas
 - Perfume duradero
+- Efectivas en todo tipo de manchas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BMWRMPJ/?tag=tolees-21)
