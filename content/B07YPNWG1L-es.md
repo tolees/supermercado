@@ -25,10 +25,10 @@ Está [CocoPacific - Harina de coco bio  1 kg](https://www.amazon.es/dp/B07YPNWG
 
 ℹ️:
 
-- 100 % pura y sin sulfitos, con un contenido reducido de grasa
-- Hecha de pulpa de coco bio desgrasada y finamente molida
-- La harina de coco tiene todo tipo de fantásticas aplicaciones y es adecuada para la mayoría de las dietas
 - Alto contenido de proteínas y fibra dietética, y baja en carbohidratos
 - Alternativa natural sin gluten a la harina normal
+- La harina de coco tiene todo tipo de fantásticas aplicaciones y es adecuada para la mayoría de las dietas
+- 100 % pura y sin sulfitos, con un contenido reducido de grasa
+- Hecha de pulpa de coco bio desgrasada y finamente molida
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YPNWG1L/?tag=tolees-21)
