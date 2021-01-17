@@ -25,10 +25,10 @@ Está [Chicco Natural Sensation - Gel de baño y champú sin lágrimas  500 ml](
 
 ℹ️:
 
-- Deja el pelo y la piel suave y perfumada
+- Ingredientes activos naturales
 - Mantiene el pH fisiológico de la piel
 - Con aloe y camomila: hidrata y alivia
-- Ingredientes activos naturales
 - Sin parabenos, fenoxietanol, alcohol, colorantes ni jabón
+- Deja el pelo y la piel suave y perfumada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01FH6T6ME/?tag=tolees-21)

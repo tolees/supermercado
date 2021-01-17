@@ -25,10 +25,10 @@ Está [Cecotec Espumador de leche y chocolate Power Moca Spume 5000. Con 650 W  
 
 ℹ️:
 
-- Cambia de función manteniendo el botón pulsado varios segundos. Antideslizante y con función auto-off.
-- Accesorios desmontables para adaptarse a todas las funciones y accesorio específico para preparar chocolate fundido.
-- Jarra de acero inoxidable apta para lavavajillas y sin cables, que facilita su manejo y funcionamiento, con indicador de máxima y mínima capacidad en relieve, BPA-free y base 360º.
-- Espumador de leche de 650 W en color negro y plata, con cuatro modos para espumar en caliente, espumar en frío, calentar y modo de chocolate caliente., con capacidad de 200 ml para la función espumar y de 400 ml para la función de calentar.
 - Admite espumación en todo tipo de leche: normal, vaporaizada, fría, sin lactosa...
+- Espumador de leche de 650 W en color negro y plata, con cuatro modos para espumar en caliente, espumar en frío, calentar y modo de chocolate caliente., con capacidad de 200 ml para la función espumar y de 400 ml para la función de calentar.
+- Cambia de función manteniendo el botón pulsado varios segundos. Antideslizante y con función auto-off.
+- Jarra de acero inoxidable apta para lavavajillas y sin cables, que facilita su manejo y funcionamiento, con indicador de máxima y mínima capacidad en relieve, BPA-free y base 360º.
+- Accesorios desmontables para adaptarse a todas las funciones y accesorio específico para preparar chocolate fundido.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K8SP6GJ/?tag=tolees-21)

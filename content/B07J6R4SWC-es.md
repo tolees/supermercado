@@ -25,9 +25,9 @@ Tienes [Instituto Español Poseidon Deep - Perfume Hombre - EDT 150 ML](https://
 
 🔎:
 
-- Para un hombre moderno y elegante
-- Familia aromática especiada
 - Corazón de canela, cuero y licor
+- Para un hombre moderno y elegante
 - Perfume para hombre 150 ml
+- Familia aromática especiada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07J6R4SWC/?tag=tolees-21)
