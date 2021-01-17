@@ -27,8 +27,8 @@ Está [Dr. Oetker 1534 - Báscula de Cocina analógica  diseño Retro](https://w
 
 - Pesa 2 Kg
 - No se deforma
-- Fácil de ajustar
 - 2 x PL Elec . S-27 /2 x E-27
 - Añade un toque de elegancia a la manera de servir a sus condimentos, aperitivos y salsas para todas las ocasiones
+- Fácil de ajustar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004DCAU56/?tag=tolees-21)

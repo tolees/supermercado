@@ -25,10 +25,10 @@ Ahora mismo tienes [Mr. Wonderful Llavero Mermelada para Personas Superdulces  M
 
 🔎:
 
-- No mojar la parte metálica (el caucho se puede limpiar con un paño húmedo)
 - Llavero de caucho
-- Ideal para regalar a los mejores amigos
 - Medidas del llavero: 6 x 7 x cm
+- No mojar la parte metálica (el caucho se puede limpiar con un paño húmedo)
 - Diseñado con mucho amor en barcelona
+- Ideal para regalar a los mejores amigos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JJH2CJR/?tag=tolees-21)
