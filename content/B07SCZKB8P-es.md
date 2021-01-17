@@ -25,10 +25,10 @@ En este momento está [Jabones faciales  Jabón de sal de mar Jabón de hecho a 
 
 🔎:
 
-- Lujoso: nuestros jabones tienen una espuma irresistiblemente lujosa que se desliza sobre su cuerpo, dejando su piel suave, limpia y más suave que nunca.
 - Exfoliante corporal exfoliante todo natural. Limpia, desintoxica y da a tu piel un brillo saludable sin usar productos químicos corrosivos que pueden irritar y causar erupciones.
-- Útil para afecciones de la piel como eccema, acné, pieles grasas y maduras, pero lo suficientemente suave para el uso diario. ¡Ahora puede disfrutar de la comodidad diaria de una ducha de jabón con sal!
 - Apto para todo tipo de piel, jabón multifuncional hecho a mano, uso para limpieza facial, baño y lavado de manos. Muy conveniente de usar. Use este jabón para mejorar y reparar la piel, dejándola blanca y suave.
+- Útil para afecciones de la piel como eccema, acné, pieles grasas y maduras, pero lo suficientemente suave para el uso diario. ¡Ahora puede disfrutar de la comodidad diaria de una ducha de jabón con sal!
+- Lujoso: nuestros jabones tienen una espuma irresistiblemente lujosa que se desliza sobre su cuerpo, dejando su piel suave, limpia y más suave que nunca.
 - Exfoliante corporal exfoliante de carbón activado activado. Exfoliante Cara Mano Labio Pie y cuerpo Exfoliante de sal marina Minimizador de poros Limpiador facial profundo Limpiador de espinillas y cicatrices de acné, anticelulítico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SCZKB8P/?tag=tolees-21)

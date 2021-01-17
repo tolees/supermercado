@@ -26,10 +26,10 @@ Ahora mismo tienes [NESCAFÉ Café Vitalissimo Soluble Natural  Bote de cristal 
 🔎:
 
 - Café soluble fácil de preparar: se disuelve en agua o leche bien caliente
-- NESCAFÉ Vitalissimo es un café soluble con Magnesio que te ayuda a reducir el cansancio y la fatiga con solo una taza al día, sin renunciar al mejor sabor y aroma a café recién molido de NESCAFÉ Classic
 - Llevamos más de 75 años asegurando la mejor calidad de café en cada taza
-- Envasado en frasco de cristal que mantiene el sabor y aroma inconfundible hasta el último café
-- Café hecho a base de una mezcla de granos de arábica y robusta para ofrecerte el inconfundible sabor NESCAFÉ y aroma a café recién molido
+- NESCAFÉ Vitalissimo es un café soluble con Magnesio que te ayuda a reducir el cansancio y la fatiga con solo una taza al día, sin renunciar al mejor sabor y aroma a café recién molido de NESCAFÉ Classic
 - NESCAFÉ Cultivo Sostenible: comprometidos con la calidad de nuestros cafés y con el desarrollo económico y social de las comunidades cafetaleras
+- Café hecho a base de una mezcla de granos de arábica y robusta para ofrecerte el inconfundible sabor NESCAFÉ y aroma a café recién molido
+- Envasado en frasco de cristal que mantiene el sabor y aroma inconfundible hasta el último café
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MA6LX7B/?tag=tolees-21)

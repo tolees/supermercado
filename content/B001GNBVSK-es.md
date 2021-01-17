@@ -26,7 +26,7 @@ Está [Max Factor  Base de maquillaje - 1 unidad](https://www.amazon.es/dp/B001G
 ℹ️:
 
 - Base de maquillaje Maquillaje Mujer
-- Base de maquillaje Max Factor
 - PANSTIK 030 OLIVE (0000050884506)
+- Base de maquillaje Max Factor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001GNBVSK/?tag=tolees-21)

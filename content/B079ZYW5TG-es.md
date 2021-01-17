@@ -25,8 +25,8 @@ Tienes [LITORAL Vegetal Garbanzos con Espinacas - Plato Preparado Sin Gluten - P
 
 ℹ️:
 
-- Apto para dietas vegetarianas
 - Disfruta de una receta práctica y saludable; con la calidad de LITORAL
+- Apto para dietas vegetarianas
 - Disponible en formato lata: 425g
 - LITORAL Deliciosa receta ligera con legumbres y verduras españolas
 - Receta 100% vegetal; baja en grasa y sin gluten; ni aditivos
