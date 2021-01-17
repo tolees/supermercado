@@ -25,8 +25,8 @@ En este momento está [Neutrogena T/Gel Champú - 125 ml.](https://www.amazon.es
 
 🔎:
 
-- Alivia los picores más intensos. Su fórmula sin alcohol y no irritante calma y proporciona un alivio duradero del cuero cabelludo.
 - Utilizar de 1 a 2 veces por semana. Se puede usar champú suave. Uso externo. Evitar el contacto con los ojos
 - En caso de contacto, enjuagar con abundante agua. En caso de irritación, espaciar los champús o dejar de usar.
+- Alivia los picores más intensos. Su fórmula sin alcohol y no irritante calma y proporciona un alivio duradero del cuero cabelludo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000VJS33Q/?tag=tolees-21)
