@@ -25,9 +25,9 @@ Tienes [Caja 3 Garrafas 5 litros Carrasqueño Aceite de Oliva Virgen Extra - Gar
 
 ℹ️:
 
-- Aceite de una cooperativa agrícola de Jaén
 - Directo de la Almazara
-- Formato ahorro
+- Aceite de una cooperativa agrícola de Jaén
 - Aceite de Oliva VIRGEN EXTRA
+- Formato ahorro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07F5LYFPD/?tag=tolees-21)

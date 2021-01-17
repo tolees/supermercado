@@ -25,8 +25,8 @@ Tienes [Dr. Oetker La Dulce Casita De Navidad  403 g](https://www.amazon.es/dp/B
 
 🔎:
 
-- Incluye figuras recortables
-- Alérgenos: gluten y leche. Puede contener trazas de Frutos de cáscara, cacahuete, leche, soja, avellanas, y huevo
 - Incluye más de 80 decoraciones
+- Alérgenos: gluten y leche. Puede contener trazas de Frutos de cáscara, cacahuete, leche, soja, avellanas, y huevo
+- Incluye figuras recortables
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W7TYSJ9/?tag=tolees-21)
