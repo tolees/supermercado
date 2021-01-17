@@ -25,10 +25,10 @@ Tienes [Revlon Colorstay Creme Eye 24H Sombra de Ojos Tono 740 Black Currant - 4
 
 🔎:
 
-- El producto incluye un cepillo
-- Posee una fórmula de larga duración sin manchas o arrugas, hasta 24 horas
 - Permite crear tonalidad y intensidades de color antes de su fijación
-- Su textura es cremosa y de fácil y cómoda aplicación
+- Posee una fórmula de larga duración sin manchas o arrugas, hasta 24 horas
 - Producto de la colección Revlon ColorStay
+- El producto incluye un cepillo
+- Su textura es cremosa y de fácil y cómoda aplicación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01KHSV4UY/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [TRESemmé Acondicionador Keratina Color 6 x 685 ML](https://www.amazon.es
 
 ℹ️:
 
-- Proporciona un color apropiado
-- Podrás cuidar, reparar y potenciar el color de tu melena
-- Alisado de peluquería
 - Especial para cabellos teñidos o con mechas
 - Combina la Keratina y el aceite de Argán en una fórmula que controla el encrespamiento hasta 72 horas
+- Alisado de peluquería
+- Podrás cuidar, reparar y potenciar el color de tu melena
+- Proporciona un color apropiado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089HXZ11H/?tag=tolees-21)
