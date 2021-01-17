@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jabón exfoliante con ácido salicílico po al 0.00 % de descuento'
-date: 2021-01-16 16:39:45
+date: 2021-01-17 17:52:37
 image: 'https://m.media-amazon.com/images/I/31SVBkGoY7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [Jabón exfoliante con ácido salicílico poro exfoliante  lucha contra el
 
 ℹ️:
 
-- Exfoliante de poros, lucha contra el acné, piel suavizante, antimanchas, elimina las verrugas
-- Ayuda a prevenir las manchas de acné al destapar la piel congestionada.
-- Deja la piel sintiéndose completamente limpia, sin aceite y refrescada.
 - Especialmente formulado para suavizar los callos y alisar la piel áspera.
+- Deja la piel sintiéndose completamente limpia, sin aceite y refrescada.
 - Revitale Salicylic Acid Scrub Soap contiene granos de albaricoque que trabajan con el jabón para limpiar a fondo los aceites y las toxinas excesivos que conducen a los brotes de acné.
+- Ayuda a prevenir las manchas de acné al destapar la piel congestionada.
+- Exfoliante de poros, lucha contra el acné, piel suavizante, antimanchas, elimina las verrugas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XW6GCD6/?tag=tolees-21)

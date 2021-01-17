@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - Solimo Recambio de jabón  al 3.66 % de descuento'
-date: 2021-01-16 17:10:43
+date: 2021-01-17 17:59:25
 image: 'https://m.media-amazon.com/images/I/51B31XegzoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NGJQP2G/?tag=tolees-21'
 descuento: '3.66'
-average: '10.237500000000004'
+average: '10.230428571428575'
 ---
 
 Ahora mismo tienes [Marca Amazon - Solimo Recambio de jabón líquido para manos. Fórmula hidratante de oliva- Paquete de 2  2 Recambios x 1000ml ](https://www.amazon.es/dp/B07NGJQP2G/?tag=tolees-21) a 9.99 EUR (original: 10.37 EUR) (3.66 %  de descuento) en el siguiente enlace!
@@ -25,15 +25,15 @@ Ahora mismo tienes [Marca Amazon - Solimo Recambio de jabón líquido para manos
 
 🔎:
 
-- Dermatológicamente probad
-- Con pantenol, extracto de hoja de olivo y complejo vitamínico
 - Protege la piel contra la sequedad excesiva, dejando las manos nutridas y suaves
+- Con pantenol, extracto de hoja de olivo y complejo vitamínico
+- Dermatológicamente probad
 - 2 recargas x 1000ml
-- Fórmula hidratante de oliva
 - 1 recambio = 2 botellas de jabón líquido Solimo
-- En caso de contacto con los ojos, lavar bien con agua
-- Aplicar en las manos húmedas, jabonar y enjuagar bien
-- Únicamente para uso externo
 - Destapar con cuidado y usar para rellenar el dispensador. Asegúrese de volver a cerrarlo firmemente y guardarlo fuera del alcance de los niños
+- Aplicar en las manos húmedas, jabonar y enjuagar bien
+- En caso de contacto con los ojos, lavar bien con agua
+- Únicamente para uso externo
+- Fórmula hidratante de oliva
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NGJQP2G/?tag=tolees-21)
