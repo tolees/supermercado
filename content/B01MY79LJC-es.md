@@ -25,9 +25,9 @@ Tienes [Alpro Central Lechera Asturiana Bebida de Almendra Sin Azúcar - Paquete
 
 🔎:
 
-- Leche de almendras UHT enriquecida con calcio y vitaminas (D,E,B2,B12)
-- fácil de usar
 - Enriquecida con calcio y vitaminas (D,E,B2 y B12)
 - Sabor suave a almendras tostadas
+- fácil de usar
+- Leche de almendras UHT enriquecida con calcio y vitaminas (D,E,B2,B12)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MY79LJC/?tag=tolees-21)
