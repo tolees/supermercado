@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dani - Mejillones 13/18 en escabeche pic al 0.00 % de descuento'
-date: 2021-01-16 05:32:18
+date: 2021-01-17 05:35:45
 image: 'https://m.media-amazon.com/images/I/51MX-4-Z26L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Ahora mismo tienes [Dani - Mejillones 13/18 en escabeche picante - Pack 6 x 106 
 
 🔎:
 
-- Piezas: de 13 a 18
-- Pack 6 latas de 106 gr
 - Para cocinar o por si solos como aperitivo
-- Alérgenos: contiene moluscos
+- Pack 6 latas de 106 gr
 - Mejillones en escabeche picante en conserva con abrefácil
+- Alérgenos: contiene moluscos
+- Piezas: de 13 a 18
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087QNZPXY/?tag=tolees-21)

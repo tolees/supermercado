@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Conservas Cabezón Lata de Carrilleras de al 0.00 % de rebaja'
-date: 2021-01-16 04:53:21
+date: 2021-01-17 05:37:52
 image: 'https://m.media-amazon.com/images/I/51QD93lSBFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Tienes [Conservas Cabezón Lata de Carrilleras de Cerdo - 800 gr](https://www.am
 
 🔎:
 
-- 800 gr
-- fácil de usar
 - origen: España
 - producto de calidad
+- 800 gr
+- fácil de usar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01HZ64BHO/?tag=tolees-21)
