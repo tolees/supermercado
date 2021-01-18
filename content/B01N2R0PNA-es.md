@@ -25,10 +25,10 @@ Tienes [Café Fortaleza Café Molido Grandes Orígenes Kenya - 250 gr - [Pack de
 
 ℹ️:
 
-- Generoso e intenso sabor que perdura en el paladar
 - Café con cuerpo pleno
-- Producto especial para cafeteras de émbolo, Melita o italiana
 - Matices silvestres
+- Producto especial para cafeteras de émbolo, Melita o italiana
 - Intensidad 6
+- Generoso e intenso sabor que perdura en el paladar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N2R0PNA/?tag=tolees-21)
