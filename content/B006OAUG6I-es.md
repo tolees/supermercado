@@ -25,10 +25,10 @@ Está [Glencadam 21 Years Old Single Malt Scotch Whisky - 700 ml](https://www.am
 
 ℹ️:
 
-- El paladar es refinado, suave, floral con cítricos de naranja y cáscara confitada
 - La nariz es floral y elegante con algunos tonos cítricos de naranja dulce
-- Con mucha riqueza y sabor a malta
 - Termina con persistente y digno
+- Con mucha riqueza y sabor a malta
+- El paladar es refinado, suave, floral con cítricos de naranja y cáscara confitada
 - Whisky de malta color dorado claro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006OAUG6I/?tag=tolees-21)

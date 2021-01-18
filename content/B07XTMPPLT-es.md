@@ -25,10 +25,10 @@ Ahora mismo tienes [Oursson AM6250/RD - Máquina de café superautomática  moli
 
 🔎:
 
-- El café más fresco cada vez: el molinillo integrado con la tecnología sensor grinding permite obtener un molido uniforme y una dosis óptima.
+- Fácil acceso: el recipiente de residuos, la bandeja de goteo y el depósito de agua están todos a mano y accesibles desde la parte delantera de la máquina para una limpieza y mantenimiento rápida y fácil.
 - Garantía de 2 años.
+- El café más fresco cada vez: el molinillo integrado con la tecnología sensor grinding permite obtener un molido uniforme y una dosis óptima.
 - Pantalla fácil de usar y con facilidad: los controles táctiles y la pantalla LED con iconos luminosos permiten una experiencia sencilla e intuitiva.
 - Extracción expreso preciso: el control de temperatura digital (pid) proporciona agua a la temperatura adecuada, garantizando una extracción óptima del espresso
-- Fácil acceso: el recipiente de residuos, la bandeja de goteo y el depósito de agua están todos a mano y accesibles desde la parte delantera de la máquina para una limpieza y mantenimiento rápida y fácil.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XTMPPLT/?tag=tolees-21)
