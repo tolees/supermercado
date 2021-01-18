@@ -25,10 +25,10 @@ Tienes [Garnier Fructis Nutri Rizos Secado al Aire Crema Sin Aclarado para Pelo 
 
 🔎:
 
-- Nutre, aporta cuerpo y define los rizos sin encrespar ni dejar residuos
-- Crema de peinado sin aclarado secado al aire para cabellos rizados u ondulados
-- Fórmula enriquecida con pectina de fruta y aceite de pistacho
 - Aplicar una nuez del producto sobre el cabello húmedo o seco, sin aclarar; dejar secar al aire
+- Crema de peinado sin aclarado secado al aire para cabellos rizados u ondulados
+- Nutre, aporta cuerpo y define los rizos sin encrespar ni dejar residuos
+- Fórmula enriquecida con pectina de fruta y aceite de pistacho
 - Rizos nutridos, elásticos, definidos, con movimiento y siempre bajo control sin engrasar ni apelmazar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YQDSW9G/?tag=tolees-21)

@@ -26,9 +26,9 @@ Tienes [Consorcio Atún Claro en Aceite de Oliva Virgen Extra - 8 Paquetes de 3 
 🔎:
 
 - Un producto 100% natural, procedentes de lomos de enteros de pescado cocido
-- Tripack Atún Claro en Aceite de Oliva Virgen Extra. Lata 85grx3
-- Todo el sabor del Atlántico
-- Ingredientes: Atún Claro, Aceite de Oliva Virgen Extra y Sal
 - El Atun Claro que CONSORCIO comercializa procede exclusivamente de las aguas del Atlantico, un origen de reconocido prestigio por su alta calidad
+- Tripack Atún Claro en Aceite de Oliva Virgen Extra. Lata 85grx3
+- Ingredientes: Atún Claro, Aceite de Oliva Virgen Extra y Sal
+- Todo el sabor del Atlántico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074G44PWP/?tag=tolees-21)

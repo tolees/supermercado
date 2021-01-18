@@ -26,7 +26,7 @@ Ahora mismo tienes [Café FORTALEZA - Café Grano Ecológico Etopía bolsa 250 g
 🔎:
 
 - Intensidad: 10
-- Café en grano de tueste natural ecológico 100% arábica
 - Producto especial para máquinas espresso
+- Café en grano de tueste natural ecológico 100% arábica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TWQLZZF/?tag=tolees-21)

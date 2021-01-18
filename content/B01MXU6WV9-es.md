@@ -1,29 +1,34 @@
 ---
 layout: post
-title: 'Tamnavulin Double Cask Whisky De Malta E al 10.31 % de rebaja'
-date: 2020-09-20 09:30:37
-image: 'https://m.media-amazon.com/images/I/41s6mxAuRyL._SL200_.jpg'
+title: 'Tamnavulin Tamnavulin Double Cask Speysi al 0.00 % de rebaja'
+date: 2021-01-18 09:44:32
+image: 'https://m.media-amazon.com/images/I/41A5sePz68L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01MXU6WV9-es'
-actualPrice: 18.79 EUR
+actualPrice: 21.35 EUR
 currency: EUR
-price: 18.79
-comparePrice: 20.95 EUR
-prodname: 'Tamnavulin Double Cask Whisky De Malta Escocés - 700 ml'
+price: 21.35
+comparePrice:  EUR
+prodname: 'Tamnavulin Tamnavulin Double Cask Speyside Single Malt Scotch Whisky 40% Vol. 0 7L In Giftbox - 700 ml'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXU6WV9/?tag=tolees-21'
-descuento: '10.31'
-average: '20.086'
+descuento: '0.00'
+average: '20.447142857142858'
 ---
 
-Tienes [Tamnavulin Double Cask Whisky De Malta Escocés - 700 ml](https://www.amazon.es/dp/B01MXU6WV9/?tag=tolees-21) con precio final de  18.79 EUR (original: 20.95 EUR) (10.31 %  de rebaja) aqui!
+Tienes [Tamnavulin Tamnavulin Double Cask Speyside Single Malt Scotch Whisky 40% Vol. 0 7L In Giftbox - 700 ml](https://www.amazon.es/dp/B01MXU6WV9/?tag=tolees-21) con precio final de  21.35 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
 
-[![Tamnavulin Double Cask Whisky De Malta E](https://m.media-amazon.com/images/I/41s6mxAuRyL._SL200_.jpg)](https://www.amazon.es/dp/B01MXU6WV9/?tag=tolees-21)
+[![Tamnavulin Tamnavulin Double Cask Speysi](https://m.media-amazon.com/images/I/41A5sePz68L._SL200_.jpg)](https://www.amazon.es/dp/B01MXU6WV9/?tag=tolees-21)
 
 🔎:
 
+- Nariz: Caliente, miel, manzanas, caramelos, mazapán, mermelada.
+- perfecto como un regalo
+- Acabado: Duradero, fresco.
+- Sabor: Fresco, azúcar demerara, peras, melocotones, piña.
+- Color: Ámbar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MXU6WV9/?tag=tolees-21)

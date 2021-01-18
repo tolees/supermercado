@@ -25,10 +25,10 @@ Tienes [Consuelo - cápsulas de café compatibles con Nespresso* - Classico  100
 
 ℹ️:
 
+- Composición: Arábica y Robusta
 - Tostado y envasado en Italia
-- Intensidad 8
 - Envase de 100 cápsulas (10 cajas de 10 cápsulas)
 - Una mezcla en la que cuerpo y aroma se combinan a la perfección, caracterizada por notas que recuerdan a flores y frutas frescas.
-- Composición: Arábica y Robusta
+- Intensidad 8
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KSP95SC/?tag=tolees-21)
