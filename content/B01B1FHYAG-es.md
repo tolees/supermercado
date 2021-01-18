@@ -25,10 +25,10 @@ Está [Heineken Cerveza - Caja de 24 Latas x 330 ml - Total: 7.92 L](https://www
 
 ℹ️:
 
-- De color amarillo brillante y espuma blanca intensa. Con aroma frutal, con ligero sabor dulce y amargor suave
+- Cerveza tipo y estilo Lager, con 5% de alcohol en volumen
 - La única que reposa en tanques horizontales durante 28 días para proporcionar la presión perfecta a la levadura
 - Ingredientes Naturales: Agua, malta de cebada, lúpulo y la levadura tipo A única de Heineken
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
-- Cerveza tipo y estilo Lager, con 5% de alcohol en volumen
+- De color amarillo brillante y espuma blanca intensa. Con aroma frutal, con ligero sabor dulce y amargor suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01B1FHYAG/?tag=tolees-21)

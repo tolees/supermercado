@@ -25,10 +25,10 @@ En este momento está [Highland Park 12 Years Old Single Malt Scotch Whisky - 50
 
 🔎:
 
-- Final de bastante largo con especias picantes y virutas de madera
 - Notas florales abundan en los sentidos con una ligera hierba
-- Un toque de cítricos jugosos con crema y un dulzor bien equilibrado
 - Paladar de bastante completo con una profundidad agradable
+- Un toque de cítricos jugosos con crema y un dulzor bien equilibrado
 - Nariz de fresca, limpia y muy aromática
+- Final de bastante largo con especias picantes y virutas de madera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002YI8YOK/?tag=tolees-21)

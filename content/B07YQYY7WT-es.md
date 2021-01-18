@@ -25,10 +25,10 @@ Ahora mismo tienes [Aldelís Conserva Pechuga de Pollo al Natural Pack 16 x 2 Un
 
 🔎:
 
-- Granjas propias y de proximidad
-- Mantener en un lugar fresco y seco
 - España
 - Sin gluten
 - Producto listo para su consumo
+- Mantener en un lugar fresco y seco
+- Granjas propias y de proximidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YQYY7WT/?tag=tolees-21)
