@@ -25,10 +25,10 @@ Tienes [Maybelline Eye Liner Gel 24H](https://www.amazon.es/dp/B00ATO02B4/?tag=t
 
 🔎:
 
-- La intensa, impermeable de color se puede mediante la termoplástico textura fácil y uniformemente aplicar y mantiene hasta 24h de largo
-- El resultado es un dramática de Schöner lid trazo fácil y expresivo en intensos colores y con sujeción 24h.
 - reinige el pincel de maquillaje de ojos regularmente con Cleaner para resistente al agua de maquillaje
-- La brocha profesional lleva la ultra de color con precisión a y permite además diferentes lid grosores de trazo
 - La fórmula de gel proporciona un planeador lid trazo, la inmediatamente se seca y no borrosa
+- La intensa, impermeable de color se puede mediante la termoplástico textura fácil y uniformemente aplicar y mantiene hasta 24h de largo
+- La brocha profesional lleva la ultra de color con precisión a y permite además diferentes lid grosores de trazo
+- El resultado es un dramática de Schöner lid trazo fácil y expresivo en intensos colores y con sujeción 24h.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ATO02B4/?tag=tolees-21)

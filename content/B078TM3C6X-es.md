@@ -25,9 +25,9 @@ Está [Revitale Tratamiento de jabón de azufre puro vegetal avanzado  80 g  ant
 
 ℹ️:
 
-- Combate y ayuda a reducir el enrojecimiento y los granos causados por la rosácea.
+- Aceite de vitamina E enriquecido que deja la piel hidratada y con aspecto radiante.
 - El azufre natural es ampliamente conocido por sus increíbles propiedades de limpieza de la piel.Ayuda a que tu piel tenga un aspecto más saludable al eliminar puntos negros y granos, además de eliminar las células muertas, para una piel más joven.
 - Potente fórmula diseñada para ayudar a combatir las condiciones de la piel como el eccema, la psoriasis, las manchas, reducir los poros y mejorar la apariencia general de tu piel.
-- Aceite de vitamina E enriquecido que deja la piel hidratada y con aspecto radiante.
+- Combate y ayuda a reducir el enrojecimiento y los granos causados por la rosácea.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078TM3C6X/?tag=tolees-21)

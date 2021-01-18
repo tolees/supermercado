@@ -25,10 +25,10 @@ Está [Campos  Conserva de atún en tomate - pack de 3 latas de 80 gr.](https://
 
 ℹ️:
 
-- Lata ideal para consumo individual
 - Pack de 3 latas individuales, con tapa fácil apertura
 - País de origen: españa, producto natural sin conservantes ni colorantes
 - Método de pesca: cerco. Ver especie y zona de pesca en la lata.
+- Lata ideal para consumo individual
 - Atún en deliciosa salsa de tomate
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NRQ6XQL/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Gallina Blanca - Caldo casero de pollo b'
-date: 2021-01-16 13:37:39
+date: 2021-01-18 00:28:31
 image: 'https://m.media-amazon.com/images/I/5155IPWS8VL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XA5JQGG/?tag=tolees-21'
 descuento: '0.00'
-average: '1.6433333333333333'
+average: '1.65'
 ---
 
 Tienes [Gallina Blanca - Caldo casero de pollo bajo en sal 100% natural  1 L](https://www.amazon.es/dp/B00XA5JQGG/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 1.66 EUR (original:  EUR) en el siguiente enlace!

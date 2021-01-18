@@ -25,10 +25,10 @@ Ahora mismo tienes [O Naturals Selección 6 Mejores Jabones Natural Negro Facial
 
 🔎:
 
-- FRANCÉS TRIPLE MILLED: O Naturals 6-Piece Black Soap Bar Collection es el mejor regalo. Diseñado para brindarle a su piel una experiencia de spa en casa indulgente y clarificadora. Llenos de ingredientes auténticos, todos naturales y orgánicos, nuestros jabones triturados dejarán su rostro y cuerpo limpios, hidratados, hidratados y lujosos.
+- TODOS LOS TIPOS DE PIEL: Beneficioso para todos los tipos de piel; seco, aceitoso, sensible, envejecido, adolescente y normal. Ideal para pieles dañadas con sus propiedades calmantes y curativas.
 - INDULGAR: deje que su piel se relaje, hidrate y se limpie profundamente con la elección de jabón negro africano, barro y arcilla verde, carbón activado, té negro y árbol de té, barro y sal del mar muerto y jabón de café negro.
 - El jabón negro africano varía en color, desde marrón hasta marrón claro, negro o beige. El color depende principalmente de nuestros proveedores y de cómo se cosecharon los ingredientes.
 - PALMA VEGANA PRENSADA EN FRÍO Y SOSTENIBLE + TODOS LOS INGREDIENTES NATURALES: Sin parabenos, sin sulfatos, aromas naturales de aceites esenciales terapéuticos, aceite de palma sostenible, sin productos químicos nocivos, sin crueldad.
-- TODOS LOS TIPOS DE PIEL: Beneficioso para todos los tipos de piel; seco, aceitoso, sensible, envejecido, adolescente y normal. Ideal para pieles dañadas con sus propiedades calmantes y curativas.
+- FRANCÉS TRIPLE MILLED: O Naturals 6-Piece Black Soap Bar Collection es el mejor regalo. Diseñado para brindarle a su piel una experiencia de spa en casa indulgente y clarificadora. Llenos de ingredientes auténticos, todos naturales y orgánicos, nuestros jabones triturados dejarán su rostro y cuerpo limpios, hidratados, hidratados y lujosos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GWSMYYL/?tag=tolees-21)

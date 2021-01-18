@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heineken Cerveza - Caja de 24 Latas x 33 al 0.00 % de descuento'
-date: 2021-01-16 23:08:09
+date: 2021-01-18 00:18:18
 image: 'https://m.media-amazon.com/images/I/51OxpUcitSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ Está [Heineken Cerveza - Caja de 24 Latas x 330 ml - Total: 7.92 L](https://www
 ℹ️:
 
 - De color amarillo brillante y espuma blanca intensa. Con aroma frutal, con ligero sabor dulce y amargor suave
-- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 - La única que reposa en tanques horizontales durante 28 días para proporcionar la presión perfecta a la levadura
 - Ingredientes Naturales: Agua, malta de cebada, lúpulo y la levadura tipo A única de Heineken
+- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 - Cerveza tipo y estilo Lager, con 5% de alcohol en volumen
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01B1FHYAG/?tag=tolees-21)
