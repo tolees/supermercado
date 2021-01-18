@@ -25,7 +25,7 @@ Tienes [Gallina Blanca - Caldo casero de pollo bajo en sal 100% natural  1 L](ht
 
 ℹ️:
 
-- Bajo en grasa
 - Sin conservantes
+- Bajo en grasa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XA5JQGG/?tag=tolees-21)

@@ -25,7 +25,7 @@ Tienes [Gallina Blanca - Sopa De Pollo Con Maravilla](https://www.amazon.es/dp/B
 
 🔎:
 
-- Con menos sal
 - Contiene Huevos y/o productos a base de huevos
+- Con menos sal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XA5HY24/?tag=tolees-21)
