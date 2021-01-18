@@ -25,10 +25,10 @@ En este momento está [Palmini lasaña Baja en carbohidratos | 4 g de Carbohidra
 
 🔎:
 
-- Libre de Azucar
-- Pasta Baja en Carbohidratos
-- 4g de Carbohidratos
-- 20 Calorias
 - Libre de Gluten
+- Pasta Baja en Carbohidratos
+- Libre de Azucar
+- 20 Calorias
+- 4g de Carbohidratos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VDGVLM8/?tag=tolees-21)
