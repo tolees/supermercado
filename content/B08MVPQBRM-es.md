@@ -25,14 +25,14 @@ En este momento está [Set Ruavieja Crema de Orujo 70cl + vasos de regalo](https
 
 🔎:
 
-- De color beige, con aromas combinados de cacao, caramelo, café tostado y notas ligeras de praliné; dulce y equilibrado al paladar, untuoso, persistente en sabor
 - Procedencia: spain
-- La crema ruavieja se elabora siguiendo la auténtica tradición del destilado
-- Volumen: 70.0 centiliters
-- El set ruavieja crema de orujo 70cl + 2 vasos de regalo, es óptimo para compartir con los que más quieres; el final óptimo de cualquier sobremesa
 - Unidades: 1.0
-- Tipo de alcohol: liquors
-- Como servir: se recomienda disfrutar del dulce sabor de ruavieja crema de orujo con hielo despues de comer
+- Volumen: 70.0 centiliters
 - Contenido de alcohol (alc/vol): 17.0 percent_by_volume
+- Tipo de alcohol: liquors
+- El set ruavieja crema de orujo 70cl + 2 vasos de regalo, es óptimo para compartir con los que más quieres; el final óptimo de cualquier sobremesa
+- La crema ruavieja se elabora siguiendo la auténtica tradición del destilado
+- Como servir: se recomienda disfrutar del dulce sabor de ruavieja crema de orujo con hielo despues de comer
+- De color beige, con aromas combinados de cacao, caramelo, café tostado y notas ligeras de praliné; dulce y equilibrado al paladar, untuoso, persistente en sabor
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MVPQBRM/?tag=tolees-21)

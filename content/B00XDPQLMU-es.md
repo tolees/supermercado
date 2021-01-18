@@ -25,9 +25,9 @@ Tienes [Gallina Blanca - Sopa De Cocido](https://www.amazon.es/dp/B00XDPQLMU/?ta
 
 ℹ️:
 
-- No contiene conservantes
-- Advertencia alergénica: contiene trigo, leche, huevo
-- Con menos sal
 - Se debe conservar en un lugar fresco y seco
+- Con menos sal
+- Advertencia alergénica: contiene trigo, leche, huevo
+- No contiene conservantes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDPQLMU/?tag=tolees-21)

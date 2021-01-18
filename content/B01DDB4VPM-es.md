@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hacienda Ortigosa Aceite de Oliva Virgen al 0.00 % de rebaja'
-date: 2021-01-17 17:20:34
+date: 2021-01-18 17:40:49
 image: 'https://m.media-amazon.com/images/I/4165LxDvV9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ Tienes [Hacienda Ortigosa Aceite de Oliva Virgen Extra  Garrafa - 5000 ml](https
 🔎:
 
 - Extracción en frío
-- Tiene un sabor almendrado, muy dulce y agradable
-- Producción propia
 - 100% variedad arbequina
 - 100% Zumo de fruta
+- Producción propia
+- Tiene un sabor almendrado, muy dulce y agradable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01DDB4VPM/?tag=tolees-21)
