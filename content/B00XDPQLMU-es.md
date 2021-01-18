@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Gallina Blanca - Sopa De Cocido'
-date: 2021-01-16 13:37:36
+date: 2021-01-18 16:44:00
 image: 'https://m.media-amazon.com/images/I/51ZE3MBNU2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Tienes [Gallina Blanca - Sopa De Cocido](https://www.amazon.es/dp/B00XDPQLMU/?ta
 
 ℹ️:
 
-- Con menos sal
 - No contiene conservantes
 - Advertencia alergénica: contiene trigo, leche, huevo
+- Con menos sal
 - Se debe conservar en un lugar fresco y seco
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDPQLMU/?tag=tolees-21)

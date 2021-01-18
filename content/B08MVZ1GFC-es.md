@@ -25,9 +25,9 @@ Está [Ruavieja Crema de Orujo 70cl + 1 miniatura de regalo](https://www.amazon.
 
 ℹ️:
 
-- La Crema Ruavieja se elabora siguiendo la auténtica tradición del destilado
 - Ruavieja Chocolate es una crema de orujo con sabor a chocolate, óptimo para endulzar el final de tus comidas
 - Ruavieja Crema de Orujo (70cl, 17% alcohol) + Miniatura de regalo Ruavieja Chocolate (5cl, 17% volumen), es la combinación óptima para compartir en la sobremesa con los que más quieres
 - De color beige, con aromas combinados de cacao, caramelo, café tostado y notas ligeras de praliné; dulce y equilibrado al paladar, untuoso, persistente en sabor
+- La Crema Ruavieja se elabora siguiendo la auténtica tradición del destilado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08MVZ1GFC/?tag=tolees-21)

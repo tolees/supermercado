@@ -25,10 +25,10 @@ En este momento está [Ruavieja Licor de Hierbas 70ml + 1 miniatura de regalo](h
 
 🔎:
 
-- Ruavieja Licor de Hierbas (70cl, 30% vol alcohol) + Miniatura de regalo Ruavieja Crema (5cl, 17% vol alcohol), es la combinación adecuada para disfrutar de los sabores tradicionales y familiares de Ruavieja
 - Este licor de hierbas se elabora con hierbas naturales previamente seleccionadas, y maceradas en aguardiente gallego de primera calidad; destaca por su aroma de hierbas maceradas en el dulce licor
+- Ruavieja licor de hierbas es un licor de gran tradición y de origen gallego
+- Ruavieja Licor de Hierbas (70cl, 30% vol alcohol) + Miniatura de regalo Ruavieja Crema (5cl, 17% vol alcohol), es la combinación adecuada para disfrutar de los sabores tradicionales y familiares de Ruavieja
 - La crema de orujo Ruavieja es de color beige y se caracteriza por su untuosidad, su equilibrio y la persistencia de sus sabores
 - La entrada del licor de hierbas Ruavieja es dulce, y su sabor combina toques a hierbabuena, mentol y un fondo de camomila
-- Ruavieja licor de hierbas es un licor de gran tradición y de origen gallego
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MVZ8WRY/?tag=tolees-21)
