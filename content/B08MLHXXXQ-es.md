@@ -25,13 +25,13 @@ En este momento está [Estrella Galicia 0 0 Tostada Pack 24x25cl](https://www.am
 
 🔎:
 
-- Capacidad: 6 L
 - Mantener en lugar fresco y seco
-- Una cerveza 0,0 tostada con un sabor pleno. El blend de maltas y los lúpulos empleados suman a su carácter sabroso, equilibrado y refrescante. Todo el poder de una cerveza de Estrella Galicia, pero sin nada de alcohol. ¿Aromas artificiales? Cero, solo ingredientes naturales
-- Botellas individuales
-- Temperatura recomendada 4-5 grados
-- Dominan los sabores de las maltas, bien equilibrados por la presencia de los lúpulos. Un suave dulzor inicial con ligeras notas ácidas, prolongado regusto amargo y final seco
 - Ingredientes: Agua de la ciudad de A Coruña, coupage de cuatro maltas con diferentes grados de tueste. Lúpulos Nugget y Sladek. Levadura seleccionada Hijos de Rivera
 - Estrella Galicia 0,0 Negra Pack 24x25cl. 24 botellas individuales
+- Botellas individuales
+- Una cerveza 0,0 tostada con un sabor pleno. El blend de maltas y los lúpulos empleados suman a su carácter sabroso, equilibrado y refrescante. Todo el poder de una cerveza de Estrella Galicia, pero sin nada de alcohol. ¿Aromas artificiales? Cero, solo ingredientes naturales
+- Temperatura recomendada 4-5 grados
+- Capacidad: 6 L
+- Dominan los sabores de las maltas, bien equilibrados por la presencia de los lúpulos. Un suave dulzor inicial con ligeras notas ácidas, prolongado regusto amargo y final seco
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MLHXXXQ/?tag=tolees-21)

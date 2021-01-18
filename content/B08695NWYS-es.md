@@ -25,10 +25,10 @@ Tienes [AXE Leather&Cookies- Desodorante Pack Duplo Ahorro 2x 150 ml](https://ww
 
 ℹ️:
 
-- AXE Desodorante Bodyspray Leather & Cookies pack ahorro 2x150ml
 - Cuero y cookies: dos ingredientes que chocan y que parece que no funcionen, pero que crean una fragancia alucinante
-- Axe Leather & Cookies, no debería funcionar pero funciona
 - Mantente fresco durante el dia
 - Una mezcla inesperada de cuero y cookies, con toques de mandarina, cardamomo y cuero nuevo
+- Axe Leather & Cookies, no debería funcionar pero funciona
+- AXE Desodorante Bodyspray Leather & Cookies pack ahorro 2x150ml
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08695NWYS/?tag=tolees-21)

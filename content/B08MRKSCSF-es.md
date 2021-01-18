@@ -25,10 +25,10 @@ En este momento está [Larios 12 Ginebra Mediterránea + Farolillo  40% - 700 ml
 
 🔎:
 
-- Elaborada a partir de una exótica combinación de 12 especies botánicas naturales en 5 destilaciones
 - Para disfrutar de su refrescante sabor se recomienda tomarla en una copa con abundante hielo acompañada de tónica
 - Suave y evocadora en el paladar; Destaca su frescor con pequeños toques cítricos y notas botánicas
 - Ginebra Premium de aspecto cristalino y brillante; Incluye un farolillo Larios de regalo
+- Elaborada a partir de una exótica combinación de 12 especies botánicas naturales en 5 destilaciones
 - Los aromas propios de la ginebra combinan con los toques cítricos del limón, la naranja y la mandarina para terminar con su nota distintiva: la flor de azahar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MRKSCSF/?tag=tolees-21)
