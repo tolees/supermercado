@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 21.16 % en Mentolín Miel & Mentol Caramelo Balsámic'
-date: 2021-01-13 08:11:57
+date: 2021-01-18 22:12:48
 image: 'https://m.media-amazon.com/images/I/51DcsM++kZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,8 +26,8 @@ Tienes [Mentolín Miel & Mentol Caramelo Balsámico sin Azúcar - 1000 gr](https
 ℹ️:
 
 - 1 kg
-- Suave efecto balsámico
 - Caramelo duro sin azúcar de miel y mentol
 - Perfecto para inspirar y respirar
+- Suave efecto balsámico
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00XAPUIJK/?tag=tolees-21)
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAPUIJK/?tag=tolees-21)

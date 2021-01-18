@@ -26,9 +26,9 @@ Está [Lagers del Mundo Pack Degustación de Cerveza - 12 botellas x 330 ml - To
 ℹ️:
 
 - 3 botellas de 330 ml de Staropramen Premium, una lager checa de estilo Pilsener. La cerveza de Praga
-- Pack 12 botellas de cerveza Lager
-- 3 botellas de 330 ml de La Sagra Bohemia Lager, una lager desarrollada por nuestro maestro cervecero en Republica Checa
 - 3 botellas de 330 ml de Miller Genuine Draft, una lager con cuatro destilaciones en frío. El sabor de la cerveza de barril en botella
+- 3 botellas de 330 ml de La Sagra Bohemia Lager, una lager desarrollada por nuestro maestro cervecero en Republica Checa
 - 3 botellas de 330 ml de Coors Light, una de las lagers más vendida en el mundo
+- Pack 12 botellas de cerveza Lager
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08896VVTQ/?tag=tolees-21)
