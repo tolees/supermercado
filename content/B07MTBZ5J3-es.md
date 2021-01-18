@@ -25,10 +25,10 @@ En este momento está [Dove - Gel de ducha ritual revitalizante con té matcha y
 
 🔎:
 
-- Aroma refrescante.
 - Inspirado en rituales japoneses de belleza.
-- Con matcha y aroma a flores de cerezo.
-- Fórmula refrescante.
 - Con crema hidratante 1/4.
+- Aroma refrescante.
+- Fórmula refrescante.
+- Con matcha y aroma a flores de cerezo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MTBZ5J3/?tag=tolees-21)
