@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Renova Rollo de Cocina Gigaroll Déco - P al 0.00 % de rebaja'
-date: 2021-01-16 23:32:16
+date: 2021-01-18 05:31:35
 image: 'https://m.media-amazon.com/images/I/51sJrOFQamL._SL200_.jpg'
 comments: true
 category: ofertas
