@@ -25,10 +25,10 @@ Ahora mismo tienes [Consuelo - cápsulas de café compatibles con Nespresso* - I
 
 🔎:
 
-- Composición: alto porcentaje de Robusta asiático
 - Intensity 10
 - Tostado y envasado en Italia
 - Una mezcla con un sabor rico y pleno, con notas de chocolate y frutos secos.
 - Envase de 100 cápsulas (10 cajas de 10 cápsulas)
+- Composición: alto porcentaje de Robusta asiático
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KSQCBBF/?tag=tolees-21)

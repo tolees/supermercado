@@ -25,10 +25,10 @@ Ahora mismo tienes [O Naturals Pastilla Jabón Orgánico Ecológico Natural Faci
 
 🔎:
 
-- TOTALMENTE NATURAL: Nuestro jabón combina - Argán y Lavanda. Néctar de Agave y Leche de Soja. Romero y menta. Avena y café. Jojoba y árbol de Té. Manteca De Coco Y Karité.
 - VEGANO: Hecho de Aceite de Oliva Orgánico, 100% Natural, Sin Parabeno, Sin Sulfato, Válido para cualquier piel, No testeado en animales. Hecho en USA.
-- Estamos siempre detrás de nuestros productos y le aseguramos que quedará encantado. Ofrecemos Garantía de Satisfacción del Cliente al 100%. La felicidad de nuestro cliente es nuestra máxima prioridad.
 - UN JABÓN PARA CUALQUIER OCASIÓN: Seis barras únicas de jabón. Para Limpiar, Energizar, Exfoliar, Hidratar, Sensible y Relajante. Un perfecto regula.
 - TRIPLE MOLIDO FRANCÉS: Estas barras de jabón de triple molido tienen una espuma lujosa e irresistible que relucirá sobre su cuerpo y dejará su piel con una suave sensación como nunca antes. Perfecto para uso en la cara, cuerpo y como jabón de manos.
+- Estamos siempre detrás de nuestros productos y le aseguramos que quedará encantado. Ofrecemos Garantía de Satisfacción del Cliente al 100%. La felicidad de nuestro cliente es nuestra máxima prioridad.
+- TOTALMENTE NATURAL: Nuestro jabón combina - Argán y Lavanda. Néctar de Agave y Leche de Soja. Romero y menta. Avena y café. Jojoba y árbol de Té. Manteca De Coco Y Karité.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074P2DH7K/?tag=tolees-21)

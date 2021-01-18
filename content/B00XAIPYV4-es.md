@@ -25,11 +25,11 @@ Tienes [Instituto Español - Pieles Atópicas - Crema cuidado integral - 50 ml](
 
 🔎:
 
+- Especial piel atópica
+- Regenera progresivamente la piel
+- No irrita
 - Calma el picor
 - Acción anti-sequedad
-- Especial piel atópica
-- No irrita
 - Hipoalergénico
-- Regenera progresivamente la piel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XAIPYV4/?tag=tolees-21)
