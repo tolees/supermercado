@@ -25,8 +25,8 @@ Está [Cesta Navidad con Jamón Serrano  Fuet Casero  Chorizo Salamanca  Queso S
 
 ℹ️:
 
-- Ideal para Regalar.
 - Cesta Regalo de Navidad:
+- Ideal para Regalar.
 - 1 Paq. Jamón Serrano en Lonchas, 1 Fuet Casero, 1 Chorizo Salamanca, 1 Cuña Queso Semicurado, 1 Botella 3/8 Vino Tinto y 1 Bolsa de Picos de Pan.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081BFJLFT/?tag=tolees-21)
