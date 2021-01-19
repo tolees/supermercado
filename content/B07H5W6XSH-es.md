@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5W6XSH-es L Or Espresso Café Ristretto Decaffeinato Intensidad 9 -...'
-tags: café
+tags: tole.es, café
 actualPrice: 9.16 EUR
 currency: EUR
 price: 9.16

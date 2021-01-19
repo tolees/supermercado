@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VTG7ZF-es Dove Gel de ducha Agua Micelar Anti-Estrés Ambiental - 500 ml'
-tags: dove, gel, de, ducha
+tags: tole.es, dove, gel, de, ducha
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

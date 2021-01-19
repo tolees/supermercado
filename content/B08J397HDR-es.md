@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J397HDR-es BNKR BEER Brew&Share | Kit para Hacer Cerveza Red Ale | Tu...'
-tags: cerveza
+tags: tole.es, cerveza
 actualPrice: 34.8 EUR
 currency: EUR
 price: 34.8

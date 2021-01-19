@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015KXE3UO-es Balvenie 12 Años Whisky - 1 botella'
-tags: whisky
+tags: tole.es, whisky
 actualPrice: 41.18 EUR
 currency: EUR
 price: 41.18

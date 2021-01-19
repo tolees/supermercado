@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BLCL6L2-es Domus Finca La Trastada Aceite de Oliva Virgen Extra...'
-tags: aceite, de, oliva, virgen, extra
+tags: tole.es, aceite, de, oliva, virgen, extra
 actualPrice: 26.53 EUR
 currency: EUR
 price: 26.53

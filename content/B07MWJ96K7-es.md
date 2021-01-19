@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MWJ96K7-es Nestlé Láminas de Chocolate Negro - 135 g'
-tags: nestlé, chocolate
+tags: tole.es, nestlé, chocolate
 actualPrice: 1.42 EUR
 currency: EUR
 price: 1.42

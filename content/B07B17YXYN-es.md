@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B17YXYN-es Nestlé La Lechera Leche condensada entera - Lata de leche...'
-tags: nestlé
+tags: tole.es, nestlé
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

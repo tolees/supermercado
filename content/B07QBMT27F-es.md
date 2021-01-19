@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QBMT27F-es Fregona con Pulverizador 4 mopas lavables Mopa Spray...'
-tags: fregona
+tags: tole.es, fregona
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

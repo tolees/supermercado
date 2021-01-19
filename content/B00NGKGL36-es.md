@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NGKGL36-es Lactacyd Pharma Hidratante 250 ml'
-tags: lactacyd
+tags: tole.es, lactacyd
 actualPrice: 10.43 EUR
 currency: EUR
 price: 10.43

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8ZGCQW-es L Oreal Paris Men Expert Hydra Sensitive Gel de Ducha...'
-tags: gel, de, ducha
+tags: tole.es, gel, de, ducha
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

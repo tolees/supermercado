@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CV1BXTC-es Gaoyong Velas Aromaticas 4 Piezas Velas Perfumadas de...'
-tags: soja
+tags: tole.es, soja
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

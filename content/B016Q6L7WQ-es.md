@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016Q6L7WQ-es Naturseed - Aceite de coco Virgen Extra Orgánico - Para...'
-tags: virgen, extra
+tags: tole.es, virgen, extra
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

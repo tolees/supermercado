@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HOD3W8C-es Champú de manteca de karité de Shea Moisture 379 ml .'
-tags: champú
+tags: tole.es, champú
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

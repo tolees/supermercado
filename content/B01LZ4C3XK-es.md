@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZ4C3XK-es Nestlé Fitness - Cereales con Chocolate Negro - 4 Paquetes...'
-tags: nestlé, chocolate
+tags: tole.es, nestlé, chocolate
 actualPrice: 12.28 EUR
 currency: EUR
 price: 12.28

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LI4KZYI-es Max Factor Mastertouch Concealer Corrector Tono 303-Ivory'
-tags: max, factor
+tags: tole.es, max, factor
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

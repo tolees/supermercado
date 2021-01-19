@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTX2I9U-es Listerine - Enjuague Bucal Menta Fresca 500 ml'
-tags: listerine
+tags: tole.es, listerine
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

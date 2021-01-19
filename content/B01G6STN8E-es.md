@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G6STN8E-es Lote de Conservas Gourmet'
-tags: conservas
+tags: tole.es, conservas
 actualPrice: 31.4 EUR
 currency: EUR
 price: 31.4

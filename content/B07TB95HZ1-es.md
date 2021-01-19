@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TB95HZ1-es Puleva Nata Líquida Para Montar 1000 ml'
-tags: puleva
+tags: tole.es, puleva
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

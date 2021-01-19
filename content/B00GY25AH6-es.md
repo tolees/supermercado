@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GY25AH6-es Isdin Zincation Champú Anticaspa Uso frecuente - 1 x 400ml'
-tags: champú
+tags: tole.es, champú
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WXLJT64-es Note D Espresso Cápsulas de Café de Guatemala - 96...'
-tags: café, cápsulas, de, café, dolce, gusto
+tags: tole.es, café, cápsulas, de, café, dolce, gusto
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

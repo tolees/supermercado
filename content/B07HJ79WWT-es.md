@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJ79WWT-es Home Treats - Juego de 3 tablas de cortar de bambú | 3...'
-tags: queso
+tags: tole.es, queso
 actualPrice: None None
 currency: None
 price: None

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UDCW1R0-es Wella SP Luxe Oil Keratin Acondicionador en Crema - 1000 ml'
-tags: acondicionador, wella
+tags: tole.es, acondicionador, wella
 actualPrice: 26.43 EUR
 currency: EUR
 price: 26.43

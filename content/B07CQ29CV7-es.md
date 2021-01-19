@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQ29CV7-es Monster - Green Bebida energética 500 ml Pack de 4 Lata'
-tags: bebida, energética
+tags: tole.es, bebida, energética
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

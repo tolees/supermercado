@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HGCJXN-es Balvi salvamanteles Tomato Sauce En Forma de Bote de...'
-tags: conserva
+tags: tole.es, conserva
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

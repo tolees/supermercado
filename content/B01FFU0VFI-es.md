@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFU0VFI-es True Instinct Original Medium-Maxi Junior - Pienso para...'
-tags: arroz, arroz, integral
+tags: tole.es, arroz, arroz, integral
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

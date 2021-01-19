@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXCYZFA-es Gourmet Aceitunas Rellenas de Anchoa Verdes Manzanilla...'
-tags: aceitunas, anchoa, manzanilla, aceitunas, rellenas
+tags: tole.es, aceitunas, anchoa, manzanilla, aceitunas, rellenas
 actualPrice: None None
 currency: None
 price: None

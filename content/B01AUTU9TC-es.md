@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AUTU9TC-es L Oréal Paris Sculpt 01 Base De Maquillaje Fluida - 1 Base...'
-tags: oréal
+tags: tole.es, oréal
 actualPrice: 8.52 EUR
 currency: EUR
 price: 8.52

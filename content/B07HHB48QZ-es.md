@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHB48QZ-es Cúrcuma 6000 mg Extracto al 95% con Pimienta Negra | 120...'
-tags: cúrcuma
+tags: tole.es, cúrcuma
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

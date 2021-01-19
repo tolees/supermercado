@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q43NCLY-es Vestimenta Casual de Playa para Mujer Vestidos de Verano...'
-tags: espagueti
+tags: tole.es, espagueti
 actualPrice: None None
 currency: None
 price: None

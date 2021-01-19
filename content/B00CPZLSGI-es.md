@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CPZLSGI-es Bulleit Rye Whisky - 700 ml'
-tags: whisky
+tags: tole.es, whisky
 actualPrice: 28.1 EUR
 currency: EUR
 price: 28.1

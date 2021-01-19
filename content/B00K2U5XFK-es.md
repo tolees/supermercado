@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K2U5XFK-es Braun Oral-B PRO 2000/ PRO 2 - 2000N CrossAction 2-Mode...'
-tags: cepillo, de, dientes
+tags: tole.es, cepillo, de, dientes
 actualPrice: 29.66 EUR
 currency: EUR
 price: 29.66

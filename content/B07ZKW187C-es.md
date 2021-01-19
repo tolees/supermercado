@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKW187C-es Heallily lubricante anal lubricante personal a base de...'
-tags: melocotón
+tags: tole.es, melocotón
 actualPrice: 5.81 EUR
 currency: EUR
 price: 5.81

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA1RJWI-es Café FORTALEZA - Café en Grano Natural - 1 kg'
-tags: café, fortaleza
+tags: tole.es, café, fortaleza
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

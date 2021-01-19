@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MA4BOHU-es Air Wick Freshmatic Life Ambientador Scents Oasis Color...'
-tags: air, wick
+tags: tole.es, air, wick
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

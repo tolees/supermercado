@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004CYZ7ZI-es Fireball Whisky - 1 x 0.7 l'
-tags: whisky
+tags: tole.es, whisky
 actualPrice: 10.66 EUR
 currency: EUR
 price: 10.66

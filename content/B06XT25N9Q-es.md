@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XT25N9Q-es Purina Dentalife Golosina Dental para Perro Pequeño 345 g'
-tags: purina
+tags: tole.es, purina
 actualPrice: 4.32 EUR
 currency: EUR
 price: 4.32

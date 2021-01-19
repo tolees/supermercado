@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXX7CM1-es President Leche Desnatada - 6 x 1 L'
-tags: president
+tags: tole.es, president
 actualPrice: None None
 currency: None
 price: None

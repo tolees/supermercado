@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MUS3ED8-es Gliss - Acondicionador Express Fiber Therapy - Sin...'
-tags: acondicionador, schwarzkopf
+tags: tole.es, acondicionador, schwarzkopf
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

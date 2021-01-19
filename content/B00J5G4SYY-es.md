@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J5G4SYY-es Ureadin Gel De Baño Hidratante Sin Jabón Para Piel Seca -...'
-tags: jabón
+tags: tole.es, jabón
 actualPrice: 5.92 EUR
 currency: EUR
 price: 5.92

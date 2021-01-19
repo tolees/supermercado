@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9VJA7Q-es Micolor Detergente Líquido Colores Vivos - 40 Lavados 2 L'
-tags: detergente
+tags: tole.es, detergente
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

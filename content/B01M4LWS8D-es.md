@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4LWS8D-es Gourmet - Aceitunas rellenas de anchoa - Verdes manzanilla...'
-tags: aceitunas, anchoa, manzanilla, aceitunas, rellenas
+tags: tole.es, aceitunas, anchoa, manzanilla, aceitunas, rellenas
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0812DPFTG-es L Oréal Infalible 24 H Matte Cover Base De Maquillaje Alta...'
-tags: oréal
+tags: tole.es, oréal
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

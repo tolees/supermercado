@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BR76RQB-es Maybelline New York - Total Temptation Máscara de Pestañas...'
-tags: maybelline
+tags: tole.es, maybelline
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

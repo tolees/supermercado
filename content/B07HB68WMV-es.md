@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB68WMV-es Marca Amazon - Lifelong Complete- Alimento seco completo...'
-tags: arroz
+tags: tole.es, arroz
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

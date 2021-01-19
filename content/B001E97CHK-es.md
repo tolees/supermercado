@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001E97CHK-es Colgate 360 Cepillo de dientes Suave limpiador de lengua y...'
-tags: colgate, cepillo, de, dientes
+tags: tole.es, colgate, cepillo, de, dientes
 actualPrice: 3.3 EUR
 currency: EUR
 price: 3.3

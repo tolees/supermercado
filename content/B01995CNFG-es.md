@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01995CNFG-es Forbury Direct - Base Jabón de glicerina transparente sin...'
-tags: jabón
+tags: tole.es, jabón
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

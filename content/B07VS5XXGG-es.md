@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VS5XXGG-es Lurrose - 5 Bolsas de jabón de Malla de Espuma de Burbujas...'
-tags: jabón
+tags: tole.es, jabón
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

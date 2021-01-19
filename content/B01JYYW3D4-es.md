@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JYYW3D4-es Finish All in 1 Max Power Gel Limón Desengrasante...'
-tags: detergente, finish
+tags: tole.es, detergente, finish
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

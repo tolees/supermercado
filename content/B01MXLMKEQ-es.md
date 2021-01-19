@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXLMKEQ-es Lavazza Café Molido Espresso Club 100% Arábica Paquete de...'
-tags: café, lavazza
+tags: tole.es, café, lavazza
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4LGCT9-es So Bath Bomb - Bomba de jabón Canal Toys BBD003 surtido:...'
-tags: jabón
+tags: tole.es, jabón
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZG3SC1S-es Moussel Neceser Gel de Ducha Clásico'
-tags: moussel, gel, de, ducha
+tags: tole.es, moussel, gel, de, ducha
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

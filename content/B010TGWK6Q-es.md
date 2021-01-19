@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010TGWK6Q-es Wella Eimi Moisture Me Rich - Pasta mate 150 ml'
-tags: wella
+tags: tole.es, wella
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

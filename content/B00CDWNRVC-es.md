@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CDWNRVC-es Roger & Gallet 65882 - Gel de ducha 200 ml'
-tags: gel, de, ducha
+tags: tole.es, gel, de, ducha
 actualPrice: 4.47 EUR
 currency: EUR
 price: 4.47

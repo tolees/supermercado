@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B7Z2JBD-es RZKJ-SHOP Abridor de Botellas de Vino Profesional Manual...'
-tags: cerveza
+tags: tole.es, cerveza
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

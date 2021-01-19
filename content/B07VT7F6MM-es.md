@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VT7F6MM-es Magic Gel 2 Paquetes Uñas De Gel Mágico Removedor De...'
-tags: acondicionador
+tags: tole.es, acondicionador
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

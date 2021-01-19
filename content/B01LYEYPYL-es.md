@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYEYPYL-es Knorr - Sopa Deshidratada Rabo De Buey 71g'
-tags: knorr
+tags: tole.es, knorr
 actualPrice: None None
 currency: None
 price: None
@@ -26,8 +26,8 @@ Está [Knorr -  Sopa Deshidratada Rabo De Buey  71g ](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Elaborada con ingredientes de alta calidad
 - Sin conservantes ni colorantes artificiales
+- Elaborada con ingredientes de alta calidad
 - Bajo en grasas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LYEYPYL/?tag=tolees-21)

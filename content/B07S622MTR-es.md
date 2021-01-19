@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S622MTR-es Silk n ToothWave Blanco - Cepillo de dientes eléctrico...'
-tags: cepillo, de, dientes
+tags: tole.es, cepillo, de, dientes
 actualPrice: 200.96 EUR
 currency: EUR
 price: 200.96

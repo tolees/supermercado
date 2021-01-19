@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FKL2BU0-es Revlon Ultra HD Pintalabios Mate Intensity'
-tags: revlon
+tags: tole.es, revlon
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

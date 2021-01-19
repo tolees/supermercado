@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9J4LA4-es Hero Maridaje del Chef Mermelada de Cebolla Caramelizada...'
-tags: cebolla, mermelada
+tags: tole.es, cebolla, mermelada
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

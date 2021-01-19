@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8QNKHZ-es Bone Broth Caldo concentrado de hueso bovino con cúrcuma -...'
-tags: cúrcuma
+tags: tole.es, cúrcuma
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

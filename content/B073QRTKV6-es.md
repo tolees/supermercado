@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QRTKV6-es L Oréal Paris Máscara de Pestañas Paradise Extatic Volumen...'
-tags: oréal
+tags: tole.es, oréal
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

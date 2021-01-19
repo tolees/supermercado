@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNZ2F3Q-es iBazal 22mm Correas Cuero Piel Pulseras Bandas Compatible...'
-tags: café
+tags: tole.es, café
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

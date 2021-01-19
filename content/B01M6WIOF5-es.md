@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M6WIOF5-es Renova Rollo de Cocina - 3 Rollos'
-tags: renova
+tags: tole.es, renova
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

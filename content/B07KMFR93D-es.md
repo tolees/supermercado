@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMFR93D-es Larios Citrus + Rosé Ginebra Mediterránea + Regalo 2 Copas...'
-tags: ginebra
+tags: tole.es, ginebra
 actualPrice: 22.26 EUR
 currency: EUR
 price: 22.26

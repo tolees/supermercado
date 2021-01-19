@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TPDVUTI-es L Oréal Paris Infalible Primer PreBase Alisadora de...'
-tags: oréal
+tags: tole.es, oréal
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66
@@ -26,10 +26,10 @@ Tienes [L Oréal Paris Infalible Primer  PreBase Alisadora de Maquillaje Larga D
 
 ℹ️:
 
+- Aplicar por todo el rostro en movimientos circulares para preparar y alisar la superficie de la piel
+- Permite que el maquillaje aguante intacto por más tiempo
 - Pre base de maquillaje matificante Infalible
 - Textura gel transparente ligero de rápida absorción
-- Permite que el maquillaje aguante intacto por más tiempo
-- Aplicar por todo el rostro en movimientos circulares para preparar y alisar la superficie de la piel
 - Prepara la piel para aplicar el maquillaje, alisando los poros
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TPDVUTI/?tag=tolees-21)

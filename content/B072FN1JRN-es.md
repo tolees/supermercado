@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072FN1JRN-es INJUICY Loft Vintage Retro Industria LED AJ Lámpara de...'
-tags: café
+tags: tole.es, café
 actualPrice: None None
 currency: None
 price: None

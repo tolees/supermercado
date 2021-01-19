@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5SZ2FR-es Sunburst Snacks Sunburst anacardos de miel y canela asadas...'
-tags: canela
+tags: tole.es, canela
 actualPrice: 24.59 EUR
 currency: EUR
 price: 24.59

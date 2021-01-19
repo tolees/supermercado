@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0086MEEII-es L Oréal Paris Barra de Labios Color Riche Accords Naturels...'
-tags: oréal
+tags: tole.es, oréal
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

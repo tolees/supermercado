@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQU9REB-es Chorizo Herradura No Picante Embutidos Ezequiel 500 gramos'
-tags: chorizo
+tags: tole.es, chorizo
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7R5KEG-es Natural Honey Gel de Ducha Hidratante - 0 75 l'
-tags: gel, de, ducha
+tags: tole.es, gel, de, ducha
 actualPrice: None None
 currency: None
 price: None
@@ -26,9 +26,9 @@ Tienes [Natural Honey Gel de Ducha Hidratante - 0 75 l](https://www.amazon.es/dp
 
 ℹ️:
 
-- 750 ml
-- Unisex
-- facil de usar
 - Gel de ducha hidratante Natural Honey de la marca Revlon
+- Unisex
+- 750 ml
+- facil de usar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01K7R5KEG/?tag=tolees-21)

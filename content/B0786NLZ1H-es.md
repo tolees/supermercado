@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0786NLZ1H-es Aceite de hígado de bacalao – 2000 mg de omega 3 con...'
-tags: bacalao
+tags: tole.es, bacalao
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

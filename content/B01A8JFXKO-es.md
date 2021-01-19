@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A8JFXKO-es OGX - Acondicionador Agua de Coco 385 ml'
-tags: acondicionador
+tags: tole.es, acondicionador
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

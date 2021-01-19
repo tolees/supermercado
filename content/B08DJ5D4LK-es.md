@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ5D4LK-es 2 x Botes de Cristal para Cocina de 1 litro con Cierre Muy...'
-tags: conserva
+tags: tole.es, conserva
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
@@ -27,8 +27,8 @@ Tienes [2 x Botes de Cristal para Cocina de 1 litro con Cierre Muy Hermético de
 🔎:
 
 - MULTIUSOS: También es apto para guardar pequeños objetos como clavos, tornillos, canicas e infinidad de cosas que pueda tener en su hogar
-- RECOMENDACIÓN: Lavar antes de su primer uso con abundante agua y jabón
 - CARACTERÍSTICAS: Capacidad de 1 litro // Peso 725 gr // Dimensiones 10 x 10 x 17 cm
+- RECOMENDACIÓN: Lavar antes de su primer uso con abundante agua y jabón
 - ÚTIL: Recipiente totalmente hermético gracias a una junta de silicona que permite sellar completamente el tarro y cierre muy ajustado con tapa de clip para conservar 100%
 - COCINA: Ideal para conservar todo tipo de alimentos como pasta, legumbres, harina, dulces…
 

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSN2HQR-es L Oréal Men Expert - Kit de Regalo para Hombre Incluye...'
-tags: champú, oréal
+tags: tole.es, champú, oréal
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

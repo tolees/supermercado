@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CRWWG13-es Philips Sonicare ProtectiveClean HX6857/17 - Cepillo de...'
-tags: cepillo, de, dientes
+tags: tole.es, cepillo, de, dientes
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

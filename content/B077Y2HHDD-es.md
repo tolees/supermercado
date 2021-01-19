@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y2HHDD-es Alhambra Especial Cerveza Dorada Lager 5.4% Volumen de...'
-tags: cerveza
+tags: tole.es, cerveza
 actualPrice: 2.72 EUR
 currency: EUR
 price: 2.72

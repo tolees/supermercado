@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0868JWBKJ-es Dispensador Jabón Automático Dosificador Gel...'
-tags: jabón, hidroalcohólico
+tags: tole.es, jabón, hidroalcohólico
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

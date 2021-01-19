@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002CMLS3M-es Aveda 50397 - Acondicionador 200 ml'
-tags: acondicionador
+tags: tole.es, acondicionador
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

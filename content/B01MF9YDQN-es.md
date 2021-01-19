@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MF9YDQN-es Neutrogena Crema Facial – Gel de agua Hydro Boost...'
-tags: neutrogena
+tags: tole.es, neutrogena
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

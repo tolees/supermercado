@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013H2TO4U-es Chivas Regal Extra Whisky Escocés de Mezcla - 700 ml'
-tags: whisky
+tags: tole.es, whisky
 actualPrice: 30.5 EUR
 currency: EUR
 price: 30.5

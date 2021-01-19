@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Y2KXF4-es Cocoda Dispensador Jabón Automático 500ml/17oz Dispensador...'
-tags: jabon, jabón
+tags: tole.es, jabon, jabón
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

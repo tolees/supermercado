@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CEZ2HDC-es Dalwhinnie Whisky Escocés - 700 ml'
-tags: whisky
+tags: tole.es, whisky
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08MW5BXWS-es SUAVINEX Suavinex Detergente para Biberones y Tetinas'
-tags: detergente
+tags: tole.es, detergente
 actualPrice: None None
 currency: None
 price: None

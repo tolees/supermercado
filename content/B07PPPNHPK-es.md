@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPPNHPK-es L OR Espresso Café Espresso paquete de amante - Nespresso®...'
-tags: café, cápsulas, de, café
+tags: tole.es, café, cápsulas, de, café
 actualPrice: 32.71 EUR
 currency: EUR
 price: 32.71

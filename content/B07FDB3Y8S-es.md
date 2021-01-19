@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDB3Y8S-es Skip Ultimate Triple Poder Pieles Sensibles Detergente...'
-tags: detergente
+tags: tole.es, detergente
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

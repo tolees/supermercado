@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXJRPYL-es dixan detergente Líquido - 2 paquetes de 2781 gr'
-tags: detergente, dixan
+tags: tole.es, detergente, dixan
 actualPrice: 15.34 EUR
 currency: EUR
 price: 15.34

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMQDTGT-es L Oréal Paris Rouge Signature 113 I Don t Pintalabios Mate...'
-tags: oréal
+tags: tole.es, oréal
 actualPrice: 7.75 EUR
 currency: EUR
 price: 7.75

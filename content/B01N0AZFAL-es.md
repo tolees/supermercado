@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0AZFAL-es NERTHUS FIH 167 - La croquetera ideal para albóndigas...'
-tags: croquetas
+tags: tole.es, croquetas
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

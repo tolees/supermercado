@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078LHP55S-es Maybelline New York - Color Sensational Pintalabios Mate...'
-tags: maybelline
+tags: tole.es, maybelline
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XZPLVS-es Tesoky luz ultravioleta esterilizador UV de Teléfono...'
-tags: cepillo, de, dientes
+tags: tole.es, cepillo, de, dientes
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

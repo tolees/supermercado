@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWNSY4Z-es Grefusa 109996 Mezcla de Productos de Aperitivos Horneados...'
-tags: grefusa, queso
+tags: tole.es, grefusa, queso
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

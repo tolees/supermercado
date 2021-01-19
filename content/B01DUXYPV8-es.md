@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DUXYPV8-es Central Lechera Asturiana - Nata Montada Azucarada para...'
-tags: central, lechera
+tags: tole.es, central, lechera
 actualPrice: None None
 currency: None
 price: None

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AHV6FYM-es Laboratorios Babé - Crema Urea 10% Loción Reparadora 500...'
-tags: soja
+tags: tole.es, soja
 actualPrice: 14.45 EUR
 currency: EUR
 price: 14.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QB3WC6X-es Old Spice Citron Antitranspirante Y Desodorante En Barra...'
-tags: desodorante
+tags: tole.es, desodorante
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

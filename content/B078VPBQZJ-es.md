@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078VPBQZJ-es Aneto 100% Natural - Caldo de Pollo - caja de 6 unidades...'
-tags: caldo, de, pollo
+tags: tole.es, caldo, de, pollo
 actualPrice: 16.16 EUR
 currency: EUR
 price: 16.16

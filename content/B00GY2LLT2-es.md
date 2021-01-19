@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GY2LLT2-es Listerine - Enjuague Bucal Mentol 500 ml'
-tags: listerine
+tags: tole.es, listerine
 actualPrice: 4.52 EUR
 currency: EUR
 price: 4.52

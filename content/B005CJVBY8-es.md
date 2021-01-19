@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005CJVBY8-es Ginebra - Gin Citadelle 1L'
-tags: ginebra
+tags: tole.es, ginebra
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6K47HT-es Crock-Pot CSC051X Olla Multicooker Express para todo tipo...'
-tags: yogur
+tags: tole.es, yogur
 actualPrice: 74.25 EUR
 currency: EUR
 price: 74.25

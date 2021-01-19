@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFVJJHC-es Kit Cuidado de Barba Fixget Recorte - Champú Barba Aceite...'
-tags: champú
+tags: tole.es, champú
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

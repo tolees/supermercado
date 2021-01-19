@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876NNRG6-es Marca Amazon - Solimo Jabón de manos líquido - Frambuesa &...'
-tags: jabón, solimo
+tags: tole.es, jabón, solimo
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

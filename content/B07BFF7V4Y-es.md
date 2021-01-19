@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFF7V4Y-es 100 Unidades. Coffee To Go – Vasos Desechables para café...'
-tags: café
+tags: tole.es, café
 actualPrice: 10.41 EUR
 currency: EUR
 price: 10.41

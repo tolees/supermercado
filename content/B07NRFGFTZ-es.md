@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRFGFTZ-es Schwarzkopf Gliss Champú seco anti-grasa - 200 ml x Pack...'
-tags: schwarzkopf, champú
+tags: tole.es, schwarzkopf, champú
 actualPrice: 4.25 EUR
 currency: EUR
 price: 4.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GYLXZ1F-es Head & Shoulders Men Ultra Limpieza Profunda Champú...'
-tags: champú
+tags: tole.es, champú
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

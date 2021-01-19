@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071YZJYJ9-es Purina Gourmet Diamant Delicias en Gelatina comida para...'
-tags: purina
+tags: tole.es, purina
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

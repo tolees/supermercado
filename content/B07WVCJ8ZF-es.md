@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVCJ8ZF-es Tassimo Coffee L OR XL Bundle Cápsulas de Café - L OR...'
-tags: café, cápsulas, de, café
+tags: tole.es, café, cápsulas, de, café
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

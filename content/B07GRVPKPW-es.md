@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GRVPKPW-es Dolce Gusto 32 - Soporte giratorio para cápsulas de café'
-tags: café, cápsulas, de, café, dolce, gusto
+tags: tole.es, café, cápsulas, de, café, dolce, gusto
 actualPrice: 13.4 EUR
 currency: EUR
 price: 13.4

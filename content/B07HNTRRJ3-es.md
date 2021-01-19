@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNTRRJ3-es Biolage Champú y Acondicionador - 30 ml.'
-tags: acondicionador, champú
+tags: tole.es, acondicionador, champú
 actualPrice: 19.29 EUR
 currency: EUR
 price: 19.29
@@ -26,9 +26,9 @@ En este momento está [Biolage  Champú y Acondicionador - 30 ml.](https://www.a
 
 🔎:
 
+- R.A.A; rebalance scalp oil 30 ml
+- Tipo de cabello: seco
 - Productos para tu salud y cuidado personal
 - Producto de alta calidad
-- Tipo de cabello: seco
-- R.A.A; rebalance scalp oil 30 ml
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HNTRRJ3/?tag=tolees-21)

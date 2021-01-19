@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BP7WV9Z-es Los Chicos del Maíz I-II-III Edición Digipack [Blu-ray]'
-tags: maíz
+tags: tole.es, maíz
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

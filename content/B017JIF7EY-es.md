@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017JIF7EY-es DESODORANTE POTASSIUM ALUM 60GR'
-tags: desodorante
+tags: tole.es, desodorante
 actualPrice: 7.16 EUR
 currency: EUR
 price: 7.16

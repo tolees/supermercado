@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHQVDWZ-es Schmidt s - Gel de ducha sólido charcoal y magnesium - 142 gr'
-tags: gel, de, ducha
+tags: tole.es, gel, de, ducha
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

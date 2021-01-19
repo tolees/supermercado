@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4B1FYN-es Café Fortaleza Café Grano Descafeinado - 250 gr - [Pack de 3]'
-tags: café, descafeinado, fortaleza
+tags: tole.es, café, descafeinado, fortaleza
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

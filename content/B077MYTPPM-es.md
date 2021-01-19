@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MYTPPM-es CORNERIA Easy-store Portacepillos De Diente - Soporte de...'
-tags: cepillo, de, dientes
+tags: tole.es, cepillo, de, dientes
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

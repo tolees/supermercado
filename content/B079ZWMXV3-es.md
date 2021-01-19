@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZWMXV3-es ITECHNIK Cabezal de Recambio Para oral-b cepillo de...'
-tags: cepillo, de, dientes
+tags: tole.es, cepillo, de, dientes
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

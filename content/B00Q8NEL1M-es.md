@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q8NEL1M-es Cool Create - Kit de fabricación de Chocolate para niñas...'
-tags: chocolate
+tags: tole.es, chocolate
 actualPrice: 21.02 EUR
 currency: EUR
 price: 21.02

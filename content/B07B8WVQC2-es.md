@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8WVQC2-es PURINA ONE Bifensis Pienso para Gatos Esterilizados Salmón...'
-tags: purina, trigo
+tags: tole.es, purina, trigo
 actualPrice: 32.51 EUR
 currency: EUR
 price: 32.51

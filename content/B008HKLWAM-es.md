@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008HKLWAM-es Seagram s Dry Ginebra Premium - 700 ml'
-tags: ginebra
+tags: tole.es, ginebra
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

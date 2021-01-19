@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088PJXXND-es Puleva Max Leche Blanca de Crecimiento Y Desarrollo - 10...'
-tags: puleva
+tags: tole.es, puleva
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

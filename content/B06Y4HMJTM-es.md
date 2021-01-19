@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y4HMJTM-es L Oreal Vitamino Color - Champú Capilar - 1500 ml'
-tags: champú
+tags: tole.es, champú
 actualPrice: 15 EUR
 currency: EUR
 price: 15

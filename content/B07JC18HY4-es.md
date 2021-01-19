@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JC18HY4-es Tejero Atún Almadraba en aceite de oliva - 8ud de pack 3...'
-tags: atún, aceite, de, oliva
+tags: tole.es, atún, aceite, de, oliva
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

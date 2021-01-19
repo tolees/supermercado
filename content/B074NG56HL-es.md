@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074NG56HL-es Elizabeth Arden Flawless Finish Everyday Perfection Base...'
-tags: finish, elizabeth, arden
+tags: tole.es, finish, elizabeth, arden
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

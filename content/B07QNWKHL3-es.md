@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QNWKHL3-es BODY & EARTH Canasta de regalo para mujeres set de regalo...'
-tags: gel, de, ducha
+tags: tole.es, gel, de, ducha
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

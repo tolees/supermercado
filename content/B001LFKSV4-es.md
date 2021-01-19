@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001LFKSV4-es Klorane APF-129 Champú con pulpa de cítricos 400 ml'
-tags: champú
+tags: tole.es, champú
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

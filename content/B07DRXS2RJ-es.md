@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRXS2RJ-es Premier Protein Protein Bar Double Chocolate 24x40g -...'
-tags: azúcar, chocolate
+tags: tole.es, azúcar, chocolate
 actualPrice: 22.02 EUR
 currency: EUR
 price: 22.02

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0051PRCNC-es Revlon ZP11 - Champú Anticaspa Cabellos Normales 400 ml'
-tags: revlon, champú
+tags: tole.es, revlon, champú
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAEBRPK-es Colon Detergente para Ropa en Polvo Formato Profesional -...'
-tags: detergente
+tags: tole.es, detergente
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

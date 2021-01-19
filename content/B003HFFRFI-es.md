@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003HFFRFI-es Elizabeth Arden Green Tea Lavender EDT Spray 100 ml 1-pack'
-tags: elizabeth, arden
+tags: tole.es, elizabeth, arden
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

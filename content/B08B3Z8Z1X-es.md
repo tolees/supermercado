@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B3Z8Z1X-es WIFORT Dispensador de Jabón Automático 400ML Dispensador...'
-tags: jabón
+tags: tole.es, jabón
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7Q6HXW-es Dove Jabón De Manos Original Con Un 1/4 De Crema...'
-tags: dove, jabón, crema, hidratante
+tags: tole.es, dove, jabón, crema, hidratante
 actualPrice: 3.74 EUR
 currency: EUR
 price: 3.74

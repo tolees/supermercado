@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003Z2D3OU-es Sebastian Sebastian Penetraitt Acondicionador 250 ml'
-tags: acondicionador
+tags: tole.es, acondicionador
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

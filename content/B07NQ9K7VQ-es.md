@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ9K7VQ-es E-MANIS Fundas para Sillas de Comedor 4 Piezas Sillas...'
-tags: café
+tags: tole.es, café
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

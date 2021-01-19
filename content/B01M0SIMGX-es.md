@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0SIMGX-es Coca-Cola Sabor Original Lata - 330 ml Pack de 24'
-tags: coca-cola
+tags: tole.es, coca-cola
 actualPrice: 13.44 EUR
 currency: EUR
 price: 13.44

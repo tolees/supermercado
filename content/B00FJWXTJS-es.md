@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FJWXTJS-es Maybelline New York - Superstay 24H Polvos Compactos de...'
-tags: maybelline
+tags: tole.es, maybelline
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010UMO3V4-es Maybelline Barra de Labios Hidratante Mate Color...'
-tags: maybelline
+tags: tole.es, maybelline
 actualPrice: 4.05 EUR
 currency: EUR
 price: 4.05

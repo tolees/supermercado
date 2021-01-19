@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0762W5FMH-es CERVEZA ESTRELLA DE GALICIA ESPECIAL LAGER PACK 24 LATAS 33CL'
-tags: cerveza
+tags: tole.es, cerveza
 actualPrice: 18.06 EUR
 currency: EUR
 price: 18.06

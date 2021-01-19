@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGLTRB2-es L Oréal Men Expert Cofre Vitalift Crema antiedad para...'
-tags: gel, de, ducha, oréal
+tags: tole.es, gel, de, ducha, oréal
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

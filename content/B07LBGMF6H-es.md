@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBGMF6H-es FOGAWA 2 Pcs Paño de Queso Cucina Telas Filtrantes de...'
-tags: queso
+tags: tole.es, queso
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

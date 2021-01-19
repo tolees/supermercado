@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003HLKN9C-es Revlon Colorstay Delineador de Ojos Líquido #252 Black...'
-tags: revlon
+tags: tole.es, revlon
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

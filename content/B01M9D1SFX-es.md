@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9D1SFX-es Matcha Green Tea | Té Matcha Vegano | Polvo de Té Natural...'
-tags: sin, gluten
+tags: tole.es, sin, gluten
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

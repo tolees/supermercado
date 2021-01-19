@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5J72MH-es Kit Set Cuidado Barba con Libre Champu Barba Peine Barba...'
-tags: acondicionador, champu
+tags: tole.es, acondicionador, champu
 actualPrice: 20.91 EUR
 currency: EUR
 price: 20.91

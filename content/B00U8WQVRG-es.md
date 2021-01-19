@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U8WQVRG-es Sesderma Reti Age Contorno de Ojos - 15 gr'
-tags: sesderma
+tags: tole.es, sesderma
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

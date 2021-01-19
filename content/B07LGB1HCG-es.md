@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGB1HCG-es Royal Lochnagar - Whisky escocés puro de malta Edición...'
-tags: whisky
+tags: tole.es, whisky
 actualPrice: 35.7 EUR
 currency: EUR
 price: 35.7

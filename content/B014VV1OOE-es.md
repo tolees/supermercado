@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014VV1OOE-es Bolero Bebida Instantánea sin Azúcar Sabor Cereza-Kola -...'
-tags: azúcar
+tags: tole.es, azúcar
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

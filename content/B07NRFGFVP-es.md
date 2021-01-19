@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRFGFVP-es La Toja - Bálsamo Protect 7 Sin alcohol y con micro...'
-tags: la, toja
+tags: tole.es, la, toja
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

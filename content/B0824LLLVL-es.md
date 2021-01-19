@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0824LLLVL-es Velas Aromaticas Cera de Soja Natural Velas Perfumadas...'
-tags: soja
+tags: tole.es, soja
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

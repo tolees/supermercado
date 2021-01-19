@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002SVAJK0-es Original Sprout Sulfato Champú Natural 975ml'
-tags: champú
+tags: tole.es, champú
 actualPrice: 28.74 EUR
 currency: EUR
 price: 28.74
