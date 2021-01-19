@@ -25,8 +25,8 @@ Tienes [Lindt – Tableta de chocolate con leche  125 g](https://www.amazon.es/d
 
 ℹ️:
 
+- Cacao 30% mínimo
 - Chocolate con leche extrafino
 - Una gran sorpresa en cualquier momento
-- Cacao 30% mínimo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M0SB0VT/?tag=tolees-21)
