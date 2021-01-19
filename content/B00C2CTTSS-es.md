@@ -26,7 +26,7 @@ Ahora mismo tienes [Babaria Gel de Baño Hidratante con Aloe Vera Fresh Sensatio
 
 🔎:
 
-- Tipo de piel: Todas
 - Gel Baño Hidratante
+- Tipo de piel: Todas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00C2CTTSS/?tag=tolees-21)

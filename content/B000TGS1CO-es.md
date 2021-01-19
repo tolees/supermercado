@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Amor en conserva [DVD] al 0.00 % de descuento'
-date: 2021-01-18 17:42:47
+date: 2021-01-19 18:30:10
 image: 'https://m.media-amazon.com/images/I/51kGHEG2GpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000TGS1CO-es'
+slug: 'B000TGS1CO-es Amor en conserva [DVD]'
+tags: [ 'tole.es','conserva', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95
