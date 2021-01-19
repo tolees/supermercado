@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J5FTF84-es ISDIN Deo Germisdin Ultra 72h Desodorante - Controla la...'
-tags: tole.es, desodorante
+tags: [ tole.es, desodorante ]
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJFKTFM-es Un Air d’Antan® Caja Belleza Douce Mujer 1 Jabon 100g 1...'
-tags: tole.es, jabon
+tags: [ tole.es, jabon ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

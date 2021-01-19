@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVL1BHP-es Diadermine - Gel Micelar Whashing me Softly para Pieles...'
-tags: tole.es, diadermine
+tags: [ tole.es, diadermine ]
 actualPrice: 10.25 EUR
 currency: EUR
 price: 10.25

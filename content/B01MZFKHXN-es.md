@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZFKHXN-es L Oreal Paris Colorista Fader - Champú Borrador del color...'
-tags: tole.es, champú
+tags: [ tole.es, champú ]
 actualPrice: 0.25 EUR
 currency: EUR
 price: 0.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000ORWOVW-es WELEDA Desodorante Spray de Salvia 1x 100 ml'
-tags: tole.es, desodorante
+tags: [ tole.es, desodorante ]
 actualPrice: 10.82 EUR
 currency: EUR
 price: 10.82

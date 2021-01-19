@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EJANIWI-es Sesderma Kit Antibolsas - 30 gr'
-tags: tole.es, sesderma
+tags: [ tole.es, sesderma ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

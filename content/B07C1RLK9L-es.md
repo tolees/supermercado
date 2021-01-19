@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C1RLK9L-es Cesar Multipack de 8 tarrinas para perro de 150g selección...'
-tags: tole.es, paté
+tags: [ tole.es, paté ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

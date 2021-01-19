@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0012RXTBW-es Elizabeth Arden Mediterranean - Agua de perfume'
-tags: tole.es, elizabeth, arden
+tags: [ tole.es, elizabeth, arden ]
 actualPrice: 25.86 EUR
 currency: EUR
 price: 25.86

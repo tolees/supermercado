@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078ZYN8PJ-es TRESemmé Acondicionador Repara y Fortalece - Paquete de 3...'
-tags: tole.es, acondicionador, tresemmé
+tags: [ tole.es, acondicionador, tresemmé ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

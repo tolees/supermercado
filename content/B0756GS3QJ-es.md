@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0756GS3QJ-es Vileda - Fregona microfibras y algodón'
-tags: tole.es, fregona
+tags: [ tole.es, fregona ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

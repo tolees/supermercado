@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K69TVZA-es Max Factor CC Colour Corrector Sticks Correctores Tono...'
-tags: tole.es, max, factor
+tags: [ tole.es, max, factor ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

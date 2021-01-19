@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006PANUI8-es Revlon ColorStay 16H Sombra de Ojos #505 Decadent'
-tags: tole.es, revlon
+tags: [ tole.es, revlon ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

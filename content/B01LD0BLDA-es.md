@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LD0BLDA-es Invero® - Juego de 6 tazas altas transparentes de 240 ml...'
-tags: tole.es, café, chocolate
+tags: [ tole.es, café, chocolate ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

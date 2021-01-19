@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SL937SC-es Chicco Tutina Bimbo con Apertura Frontale Mono Corto para...'
-tags: tole.es, bimbo
+tags: [ tole.es, bimbo ]
 actualPrice: None None
 currency: None
 price: None

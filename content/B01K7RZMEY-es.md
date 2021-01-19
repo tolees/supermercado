@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7RZMEY-es Carbonell Aceite de Oliva Virgen Extra 3L'
-tags: tole.es, carbonell, aceite, de, oliva, virgen, extra
+tags: [ tole.es, carbonell, aceite, de, oliva, virgen, extra ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

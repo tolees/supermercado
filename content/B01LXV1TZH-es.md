@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXV1TZH-es Nestlé KiKat Mini Chocolate con Leche - Barritas de...'
-tags: tole.es, nestlé, chocolate
+tags: [ tole.es, nestlé, chocolate ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

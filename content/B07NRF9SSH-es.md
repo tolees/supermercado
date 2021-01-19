@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRF9SSH-es Fa - Desodorante Roll-On Limones del Caribe - Anti...'
-tags: tole.es, desodorante
+tags: [ tole.es, desodorante ]
 actualPrice: 4.65 EUR
 currency: EUR
 price: 4.65

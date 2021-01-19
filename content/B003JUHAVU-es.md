@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003JUHAVU-es L Oréal Paris elnett de Luxe - haarspray dauerhaftes...'
-tags: tole.es, oréal
+tags: [ tole.es, oréal ]
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

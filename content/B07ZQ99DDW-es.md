@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQ99DDW-es Kit de fabricación de sushi de bambú 9 piezas alfombrilla...'
-tags: tole.es, arroz
+tags: [ tole.es, arroz ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

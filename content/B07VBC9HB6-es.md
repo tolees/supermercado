@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBC9HB6-es Optimum Nutrition 1094185 Optimum Protein Shakes...'
-tags: tole.es, azúcar
+tags: [ tole.es, azúcar ]
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

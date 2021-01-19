@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074JDNVH5-es Gullón Vitalday Tortitas Maíz Chocolate Gullón - 100 g'
-tags: tole.es, gullón, maíz, chocolate
+tags: [ tole.es, gullón, maíz, chocolate ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

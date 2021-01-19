@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HCV239W-es Maybelline Lápiz de Ojos Efecto Tatuaje Tattoo Liner 940...'
-tags: tole.es, maybelline
+tags: [ tole.es, maybelline ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

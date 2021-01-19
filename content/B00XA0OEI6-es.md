@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA0OEI6-es Nestlé nesquik cacao soluble instantáneo 3kg 2x1.5kg'
-tags: tole.es, nesquik, nestlé
+tags: [ tole.es, nesquik, nestlé ]
 actualPrice: 15.93 EUR
 currency: EUR
 price: 15.93

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001N00CTA-es EUKANUBA Raza Pequeña Adulto Activo rico en pollo fresco...'
-tags: tole.es, eukanuba
+tags: [ tole.es, eukanuba ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

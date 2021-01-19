@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000HCZ34E-es Maquinilla de afeitar Sensor Excel de Gillette'
-tags: tole.es, gillette
+tags: [ tole.es, gillette ]
 actualPrice: 15.8 EUR
 currency: EUR
 price: 15.8

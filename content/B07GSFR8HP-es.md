@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSFR8HP-es NIVEA MEN Protege & Cuida After Shave Bálsamo Hidratante...'
-tags: tole.es, nivea
+tags: [ tole.es, nivea ]
 actualPrice: 22.14 EUR
 currency: EUR
 price: 22.14

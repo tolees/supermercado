@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OY3S36M-es Sancarlos Relleno Nórdico Mistral con Microgel Tacto Piel...'
-tags: tole.es, melocotón
+tags: [ tole.es, melocotón ]
 actualPrice: 39.38 EUR
 currency: EUR
 price: 39.38

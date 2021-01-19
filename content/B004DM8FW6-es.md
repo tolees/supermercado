@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004DM8FW6-es Gillette Fusion ProGlide Cuchillas de recambio para...'
-tags: tole.es, gillette
+tags: [ tole.es, gillette ]
 actualPrice: 26.53 EUR
 currency: EUR
 price: 26.53

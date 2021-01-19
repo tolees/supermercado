@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y29B1LL-es Puleva Leche Desnatada - 6 x 1 L'
-tags: tole.es, puleva
+tags: [ tole.es, puleva ]
 actualPrice: None None
 currency: None
 price: None

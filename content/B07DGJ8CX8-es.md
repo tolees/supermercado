@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DGJ8CX8-es Oral-B Pro 610 - Cepillo de dientes eléctrico'
-tags: tole.es, cepillo, de, dientes
+tags: [ tole.es, cepillo, de, dientes ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

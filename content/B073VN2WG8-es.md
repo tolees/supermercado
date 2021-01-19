@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073VN2WG8-es Mimosín - Intense Estallido de Pasión Suavizante...'
-tags: tole.es, suavizante
+tags: [ tole.es, suavizante ]
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

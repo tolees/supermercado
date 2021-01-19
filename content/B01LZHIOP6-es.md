@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZHIOP6-es Wella Eimi Sculpt Force - 28 ml'
-tags: tole.es, wella
+tags: [ tole.es, wella ]
 actualPrice: 2.52 EUR
 currency: EUR
 price: 2.52

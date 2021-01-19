@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ABY8FCU-es OB Cepillo Shiny Clean Medium Robin Hood 4 uds'
-tags: tole.es, ob, cepillo
+tags: [ tole.es, ob, cepillo ]
 actualPrice: 3.47 EUR
 currency: EUR
 price: 3.47

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FM935GB-es Dymatize ISO100 chocolate y coco 2200 G'
-tags: tole.es, chocolate
+tags: [ tole.es, chocolate ]
 actualPrice: 46.86 EUR
 currency: EUR
 price: 46.86

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WOMCHP8-es Crema Repelente Mosquitos - Repelente de Insectos para...'
-tags: tole.es, aceite, de, oliva, virgen, extra
+tags: [ tole.es, aceite, de, oliva, virgen, extra ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

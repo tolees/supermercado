@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AGYUM0W-es Elizabeth Arden Flawless Start Base de Maquillaje 30 ml'
-tags: tole.es, elizabeth, arden
+tags: [ tole.es, elizabeth, arden ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

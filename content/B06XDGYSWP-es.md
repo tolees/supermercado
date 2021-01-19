@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDGYSWP-es Garnier Skin Active - Pure Active Sensitive Limpiador de...'
-tags: tole.es, garnier, jabón
+tags: [ tole.es, garnier, jabón ]
 actualPrice: 4.85 EUR
 currency: EUR
 price: 4.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011SGS8U8-es Botellas de cerveza Chef s Star de tapón fácil de abrir....'
-tags: tole.es, cerveza
+tags: [ tole.es, cerveza ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

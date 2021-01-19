@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZB5IIS-es Apis Tomate Triturado - 800 g'
-tags: tole.es, apis
+tags: [ tole.es, apis ]
 actualPrice: None None
 currency: None
 price: None

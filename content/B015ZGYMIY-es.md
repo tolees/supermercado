@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015ZGYMIY-es L Oréal Paris - Brocha de Maquillaje Dúo para Bases Fluidas'
-tags: tole.es, oréal
+tags: [ tole.es, oréal ]
 actualPrice: 10.93 EUR
 currency: EUR
 price: 10.93

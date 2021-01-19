@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRXVJGW-es Discos Desmaquillantes Reutilizables | Almohadillas...'
-tags: tole.es, discos, desmaquillantes
+tags: [ tole.es, discos, desmaquillantes ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

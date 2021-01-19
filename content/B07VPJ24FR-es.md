@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPJ24FR-es Tamnavulin Sherry Cask Whisky De Malta Escocés - 700 ml'
-tags: tole.es, whisky
+tags: [ tole.es, whisky ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

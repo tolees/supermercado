@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RYL67T-es Ensaimadas Mallorquinas Rellenas - Pack 3 Unidades -...'
-tags: tole.es, sobrasada, chocolate
+tags: [ tole.es, sobrasada, chocolate ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

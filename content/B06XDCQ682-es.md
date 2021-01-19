@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDCQ682-es Vileda 139460 Salvauñas - 2 Unidades'
-tags: tole.es, salvauñas
+tags: [ tole.es, salvauñas ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

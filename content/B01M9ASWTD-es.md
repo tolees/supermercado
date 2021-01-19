@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9ASWTD-es Knorr - Crema Verduras Mediterráneas - 500 ml'
-tags: tole.es, knorr
+tags: [ tole.es, knorr ]
 actualPrice: 1.59 EUR
 currency: EUR
 price: 1.59

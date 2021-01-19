@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBLG2S9-es Font Vella Levité Limón Zero - pack de 6 x 1 25L'
-tags: tole.es, font, vella
+tags: [ tole.es, font, vella ]
 actualPrice: 6.84 EUR
 currency: EUR
 price: 6.84

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW72J7G-es Vernel Suavizante Concentrado Romance – Pack de 3 Total 3.6 L'
-tags: tole.es, suavizante, vernel
+tags: [ tole.es, suavizante, vernel ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

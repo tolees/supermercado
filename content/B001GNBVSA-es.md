@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001GNBVSA-es Max Factor Base de maquillaje - 1 unidad'
-tags: tole.es, max, factor
+tags: [ tole.es, max, factor ]
 actualPrice: 4.7 EUR
 currency: EUR
 price: 4.7

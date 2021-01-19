@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TB96DLT-es President Leche Desnatada 1 5L x 6 = 9L'
-tags: tole.es, president
+tags: [ tole.es, president ]
 actualPrice: None None
 currency: None
 price: None

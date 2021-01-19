@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGS5YG7-es NIVEA MEN DEEP Amazonia Spray desodorante de hombre con...'
-tags: tole.es, desodorante, nivea
+tags: [ tole.es, desodorante, nivea ]
 actualPrice: 9.58 EUR
 currency: EUR
 price: 9.58

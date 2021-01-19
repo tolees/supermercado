@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001LS5VYU-es Versele-laga A-17680 Crispy Muesli Hámster - 1 kg'
-tags: tole.es, muesli
+tags: [ tole.es, muesli ]
 actualPrice: 2.08 EUR
 currency: EUR
 price: 2.08

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QK5RLGT-es L Oréal Paris - Age Perfect Nutrición Intensa Sérum...'
-tags: tole.es, oréal
+tags: [ tole.es, oréal ]
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

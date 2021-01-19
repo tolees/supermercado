@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFDHNLL-es Air Wick - Ambientador aerosol esencia para casa con aroma...'
-tags: tole.es, air, wick
+tags: [ tole.es, air, wick ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

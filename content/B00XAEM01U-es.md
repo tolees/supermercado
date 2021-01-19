@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAEM01U-es Air Wick Vela Duplo Vainilla y Ébano de Madagascar'
-tags: tole.es, air, wick
+tags: [ tole.es, air, wick ]
 actualPrice: 3.73 EUR
 currency: EUR
 price: 3.73

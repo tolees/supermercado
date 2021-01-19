@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQRQRP1-es Jacobs Aluminum Nespresso® * Vainas de café compatibles -...'
-tags: tole.es, café
+tags: [ tole.es, café ]
 actualPrice: 20.72 EUR
 currency: EUR
 price: 20.72

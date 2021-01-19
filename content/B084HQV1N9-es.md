@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084HQV1N9-es SUPLEMENTO PARA MANTENER LA SALUD DEL TRACTO URINARIO-...'
-tags: tole.es, sin, gluten
+tags: [ tole.es, sin, gluten ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

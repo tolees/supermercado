@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002EP7WKU-es Bowmore 15Y Whisky Darkest Malt - 700ml'
-tags: tole.es, whisky
+tags: [ tole.es, whisky ]
 actualPrice: 42.1 EUR
 currency: EUR
 price: 42.1

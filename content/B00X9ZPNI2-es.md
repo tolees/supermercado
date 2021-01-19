@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9ZPNI2-es Dr. Oetker - Mug Cake Vainilla Con Pepitas De Chocolate 65 g'
-tags: tole.es, chocolate, dr., oetker
+tags: [ tole.es, chocolate, dr., oetker ]
 actualPrice: 1.11 EUR
 currency: EUR
 price: 1.11

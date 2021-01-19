@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTT5VM7-es Marca Amazon - Happy Belly Café molido "Espresso Forte" 4...'
-tags: tole.es, café, happy, belly
+tags: [ tole.es, café, happy, belly ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

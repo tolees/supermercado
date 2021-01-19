@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EQ7BGIS-es Klorane Shampoo with Nettle Mujeres No profesional Champú...'
-tags: tole.es, champú
+tags: [ tole.es, champú ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3XDMNC-es MENFORSAN Desenredante y Acondicionador Perros - 125 ml'
-tags: tole.es, acondicionador
+tags: [ tole.es, acondicionador ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

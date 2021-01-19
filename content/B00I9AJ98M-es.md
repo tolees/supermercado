@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I9AJ98M-es 414/21"O" Coca-Cola Glass Estuche 2 Copas'
-tags: tole.es, coca-cola
+tags: [ tole.es, coca-cola ]
 actualPrice: 19.01 EUR
 currency: EUR
 price: 19.01

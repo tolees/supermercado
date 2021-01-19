@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C291LFZ-es 900 g Miel de bosque flores silvestres y hierbas...'
-tags: tole.es, azúcar
+tags: [ tole.es, azúcar ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

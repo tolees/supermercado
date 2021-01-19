@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQ6N2S9-es Brillante Arroz Largo - Pack de 16 vasitos X 200 Gr -...'
-tags: tole.es, arroz
+tags: [ tole.es, arroz ]
 actualPrice: 16.4 EUR
 currency: EUR
 price: 16.4

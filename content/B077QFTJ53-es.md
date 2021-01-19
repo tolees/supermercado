@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077QFTJ53-es L Occitane VERBENA gel de ducha Cuerpo 500 ml - Geles de...'
-tags: tole.es, gel, de, ducha
+tags: [ tole.es, gel, de, ducha ]
 actualPrice: 24.39 EUR
 currency: EUR
 price: 24.39

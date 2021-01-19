@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IVI21YA-es Somat Oro Gel Lavavajillas Higiene 50 Dosis'
-tags: tole.es, somat
+tags: [ tole.es, somat ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

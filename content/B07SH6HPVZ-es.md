@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SH6HPVZ-es Chicco Pantaloni Lunghi Jeans Denim Stretch Bimbo Bebés'
-tags: tole.es, bimbo
+tags: [ tole.es, bimbo ]
 actualPrice: None None
 currency: None
 price: None

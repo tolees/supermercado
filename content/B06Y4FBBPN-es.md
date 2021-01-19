@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y4FBBPN-es L Oreal Expert Champú Reforzador - 500 ml'
-tags: tole.es, champú
+tags: [ tole.es, champú ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

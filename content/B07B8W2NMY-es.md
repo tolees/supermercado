@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8W2NMY-es American Crew Pomada de Fijacion Fijacion Ligera / Poco...'
-tags: tole.es, american, crew
+tags: [ tole.es, american, crew ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

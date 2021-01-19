@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7QBTH4-es Azucarera Azúcar Blanco - 1000 g'
-tags: tole.es, azúcar
+tags: [ tole.es, azúcar ]
 actualPrice: None None
 currency: None
 price: None

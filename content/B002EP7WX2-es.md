@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002EP7WX2-es The Dalmore Whisky 12Y - 700 ml'
-tags: tole.es, whisky
+tags: [ tole.es, whisky ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

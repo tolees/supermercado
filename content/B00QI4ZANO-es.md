@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QI4ZANO-es L-Carnitina suplemento deportivo quemagrasas ayuda perdida...'
-tags: tole.es, sin, gluten
+tags: [ tole.es, sin, gluten ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

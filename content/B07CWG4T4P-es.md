@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CWG4T4P-es Melatonina 1 8 mg con 5-HTP Magnesio y Vitamina B6 180...'
-tags: tole.es, sin, gluten
+tags: [ tole.es, sin, gluten ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

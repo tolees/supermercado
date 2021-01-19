@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA02RKS-es Ballantine s Finest Whisky Escocés de Mezcla - 700 ml'
-tags: tole.es, whisky
+tags: [ tole.es, whisky ]
 actualPrice: 10.66 EUR
 currency: EUR
 price: 10.66

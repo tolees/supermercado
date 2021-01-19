@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8V4GHB-es Purina Gourmet Perle Delicias en Salsa comida para gato...'
-tags: tole.es, purina
+tags: [ tole.es, purina ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

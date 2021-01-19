@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7VLPP2-es Dove Dermaspa Crema Tratamiento Manos Night - Pack de 6 x...'
-tags: tole.es, dove
+tags: [ tole.es, dove ]
 actualPrice: 15.2 EUR
 currency: EUR
 price: 15.2

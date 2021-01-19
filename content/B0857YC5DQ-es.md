@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0857YC5DQ-es Garnier Skin Active - BB Cream'
-tags: tole.es, garnier
+tags: [ tole.es, garnier ]
 actualPrice: None None
 currency: None
 price: None

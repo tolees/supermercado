@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B3ZQPLC-es Pato - WC Power Lejía fragancia Marine Limpiador...'
-tags: tole.es, lejía
+tags: [ tole.es, lejía ]
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

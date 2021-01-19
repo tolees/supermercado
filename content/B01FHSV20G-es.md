@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FHSV20G-es NaturGreen ARROZ CHOCO CALCIUM 200 ml'
-tags: tole.es, arroz
+tags: [ tole.es, arroz ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

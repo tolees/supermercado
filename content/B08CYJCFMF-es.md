@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CYJCFMF-es Mimosín Collection Parfum Suavizante Nº 3 52 Lavados 870...'
-tags: tole.es, suavizante
+tags: [ tole.es, suavizante ]
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

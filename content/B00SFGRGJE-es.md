@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SFGRGJE-es iRobot Scooba 4416470 - Detergente Líquido Concentrado...'
-tags: tole.es, detergente
+tags: [ tole.es, detergente ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

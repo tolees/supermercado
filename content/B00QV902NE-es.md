@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QV902NE-es Prozis Cafeína Estimular la Concentración los Niveles de...'
-tags: tole.es, azúcar
+tags: [ tole.es, azúcar ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

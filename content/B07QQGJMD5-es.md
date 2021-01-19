@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QQGJMD5-es Mimosín Collection Parfum Suavizante Fleur D Or - 6...'
-tags: tole.es, suavizante
+tags: [ tole.es, suavizante ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

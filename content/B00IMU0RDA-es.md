@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IMU0RDA-es Elizabeth Arden Agua de colonia para mujeres - 100 ml.'
-tags: tole.es, elizabeth, arden
+tags: [ tole.es, elizabeth, arden ]
 actualPrice: 11.74 EUR
 currency: EUR
 price: 11.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EF2MM4Q-es Beefeater Burrough s Reserve Ginebra - 700 ml'
-tags: tole.es, ginebra
+tags: [ tole.es, ginebra ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

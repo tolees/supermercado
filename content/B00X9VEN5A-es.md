@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9VEN5A-es Vernel Suavizante Concentrado Delicado - 76 lavados 1.748 l'
-tags: tole.es, suavizante, vernel
+tags: [ tole.es, suavizante, vernel ]
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

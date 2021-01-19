@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D31RY2G-es NESCAFÉ Dolce Gusto Espresso Intenso Descafeinado | Pack...'
-tags: tole.es, descafeinado, nescafé, dolce, gusto
+tags: [ tole.es, descafeinado, nescafé, dolce, gusto ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

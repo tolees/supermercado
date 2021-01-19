@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H44QZ4V-es Air Wick Essential Mist Recambio Ambientador Lavanda - 1...'
-tags: tole.es, air, wick
+tags: [ tole.es, air, wick ]
 actualPrice: 4.56 EUR
 currency: EUR
 price: 4.56

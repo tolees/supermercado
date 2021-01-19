@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XG4JQH2-es Diadermine Lift + Sérum Super Rellenador 40ml Pack de 1'
-tags: tole.es, diadermine
+tags: [ tole.es, diadermine ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA3KBQM-es La Fallera - Arroz Extra - 5 kg'
-tags: tole.es, arroz
+tags: [ tole.es, arroz ]
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

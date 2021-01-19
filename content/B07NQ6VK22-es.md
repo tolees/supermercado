@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ6VK22-es Mimosín Suavizante Dulces Sueños 66lav x 8botellas'
-tags: tole.es, suavizante
+tags: [ tole.es, suavizante ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

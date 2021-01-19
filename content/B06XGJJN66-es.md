@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGJJN66-es Maybelline New York Fit Me - Polvos Compactos Matificantes...'
-tags: tole.es, maybelline
+tags: [ tole.es, maybelline ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

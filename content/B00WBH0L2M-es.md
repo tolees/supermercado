@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WBH0L2M-es Babaria Crema Facial Regeneradora 9 Efectos Vital Skin...'
-tags: tole.es, babaria
+tags: [ tole.es, babaria ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

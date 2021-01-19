@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2D2XVW-es Wella - Mascarilla Reparadora Intensa Fusion 500'
-tags: tole.es, wella
+tags: [ tole.es, wella ]
 actualPrice: 20.47 EUR
 currency: EUR
 price: 20.47

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079L5JSMM-es Rimmel London Match Perfection Foundation Base de...'
-tags: tole.es, chocolate
+tags: [ tole.es, chocolate ]
 actualPrice: 3.01 EUR
 currency: EUR
 price: 3.01

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRY5MHT-es Red Bull Bebida Energética Coco y Arándanos - 12 latas de...'
-tags: tole.es, bebida, energética, red, bull
+tags: [ tole.es, bebida, energética, red, bull ]
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

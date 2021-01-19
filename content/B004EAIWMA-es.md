@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EAIWMA-es Sipsmith London Dry Gin Ginebra 41.6% -700 ml'
-tags: tole.es, ginebra
+tags: [ tole.es, ginebra ]
 actualPrice: 29.17 EUR
 currency: EUR
 price: 29.17

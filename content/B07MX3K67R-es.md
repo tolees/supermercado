@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MX3K67R-es KUNSE Mezclador Eléctrico Auto Portátil De La Proteína...'
-tags: tole.es, café
+tags: [ tole.es, café ]
 actualPrice: 22.64 EUR
 currency: EUR
 price: 22.64

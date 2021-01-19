@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M63RZXI-es TAMPAX Superplus Tampones - 30 Unidades'
-tags: tole.es, tampax
+tags: [ tole.es, tampax ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

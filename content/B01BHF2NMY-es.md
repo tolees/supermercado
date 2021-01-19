@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BHF2NMY-es Tigi Catwalk Oatmeal & Honey Nourishing Acondicionador -...'
-tags: tole.es, acondicionador, oatmeal
+tags: [ tole.es, acondicionador, oatmeal ]
 actualPrice: 11.74 EUR
 currency: EUR
 price: 11.74

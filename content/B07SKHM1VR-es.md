@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKHM1VR-es Trapa Intenso - Chocolate Blanco con Almendras Enteras 175 g'
-tags: tole.es, chocolate
+tags: [ tole.es, chocolate ]
 actualPrice: 1.6 EUR
 currency: EUR
 price: 1.6

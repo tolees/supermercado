@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078ZZNDB6-es TRESemmé Champú Repara y Fortalece - Paquete de 3 x 700 ml...'
-tags: tole.es, champú, tresemmé
+tags: [ tole.es, champú, tresemmé ]
 actualPrice: 14.73 EUR
 currency: EUR
 price: 14.73

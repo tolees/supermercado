@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B11FKCP-es Ladrón de Manzanas Cider Frutos Rojos - 4 Packs de 6...'
-tags: tole.es, ladrón, de, manzanas
+tags: [ tole.es, ladrón, de, manzanas ]
 actualPrice: 15.28 EUR
 currency: EUR
 price: 15.28

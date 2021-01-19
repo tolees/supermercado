@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WPWMSY8-es Bolsa impermeable y reutilizable para la merienda comida...'
-tags: tole.es, frutos, secos
+tags: [ tole.es, frutos, secos ]
 actualPrice: 15 EUR
 currency: EUR
 price: 15

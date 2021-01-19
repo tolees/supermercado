@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0811WHWWH-es Gobesty Juego de servilletas de Tela 10 Unidades Suaves...'
-tags: tole.es, servilletas
+tags: [ tole.es, servilletas ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDJZGK9-es NICKS Favourite Mix Barritas de chocolate surtidas sin...'
-tags: tole.es, azúcar, chocolate, sin, gluten
+tags: [ tole.es, azúcar, chocolate, sin, gluten ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

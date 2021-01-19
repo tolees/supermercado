@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XABGDFC-es NESCAFÉ 3 en 1 | Bolsa de Café | Paquete de 10x18g'
-tags: tole.es, café, nescafé
+tags: [ tole.es, café, nescafé ]
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

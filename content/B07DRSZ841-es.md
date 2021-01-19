@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRSZ841-es Premier Protein Protein Bar Chocolate Caramel 24x40g -...'
-tags: tole.es, azúcar, chocolate
+tags: [ tole.es, azúcar, chocolate ]
 actualPrice: 22.11 EUR
 currency: EUR
 price: 22.11

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HWQG5OO-es ITALY MORN Hombre Jogging Pantalones Stretch Skinny Largo...'
-tags: tole.es, café
+tags: [ tole.es, café ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

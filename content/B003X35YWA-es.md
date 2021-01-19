@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003X35YWA-es Uhlsport Team Pro Essential Medias de Equipaciones Sin...'
-tags: tole.es, maíz
+tags: [ tole.es, maíz ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

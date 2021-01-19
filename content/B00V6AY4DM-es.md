@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V6AY4DM-es Solaray Sex Up | Libido saludable vitalidad resistencia y...'
-tags: tole.es, sin, gluten
+tags: [ tole.es, sin, gluten ]
 actualPrice: 20.52 EUR
 currency: EUR
 price: 20.52

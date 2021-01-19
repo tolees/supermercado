@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8JZWG7-es TRESemmé - Acondicionador Botanique Coco - 700 ml Paquete...'
-tags: tole.es, acondicionador, tresemmé
+tags: [ tole.es, acondicionador, tresemmé ]
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

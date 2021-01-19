@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBZZX9S-es AXE You - Desodorante Bodyspray para hombre 48 horas de...'
-tags: tole.es, axe, desodorante
+tags: [ tole.es, axe, desodorante ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

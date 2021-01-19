@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003YVJIIC-es NESCAFÉ Dolce Gusto Café Latte Macchiato Vainilla Pack de...'
-tags: tole.es, café, nescafé, cápsulas, de, café, dolce, gusto
+tags: [ tole.es, café, nescafé, cápsulas, de, café, dolce, gusto ]
 actualPrice: 13.7 EUR
 currency: EUR
 price: 13.7

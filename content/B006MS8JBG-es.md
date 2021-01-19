@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006MS8JBG-es Havanna Alfajores de Chocolate - 330 gr'
-tags: tole.es, chocolate
+tags: [ tole.es, chocolate ]
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

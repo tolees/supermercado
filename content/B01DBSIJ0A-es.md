@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DBSIJ0A-es Jack Daniels Single Barrel 100 Proof Whisky - 1 x 0.7 l'
-tags: tole.es, whisky
+tags: [ tole.es, whisky ]
 actualPrice: 42.39 EUR
 currency: EUR
 price: 42.39

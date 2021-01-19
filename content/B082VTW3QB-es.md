@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VTW3QB-es Café FORTALEZA - Cápsulas de Café Etiopia Compatibles con...'
-tags: tole.es, café, fortaleza, cápsulas, de, café, dolce, gusto
+tags: [ tole.es, café, fortaleza, cápsulas, de, café, dolce, gusto ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

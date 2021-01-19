@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005NXA2SY-es Revlon Cuidado del pelo y del cuero cabelludo - 100 ml.'
-tags: tole.es, revlon
+tags: [ tole.es, revlon ]
 actualPrice: 3.78 EUR
 currency: EUR
 price: 3.78

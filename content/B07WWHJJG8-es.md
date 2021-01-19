@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWHJJG8-es Marca Amazon - Happy Belly Espresso Café UTZ molido de...'
-tags: tole.es, café, happy, belly
+tags: [ tole.es, café, happy, belly ]
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

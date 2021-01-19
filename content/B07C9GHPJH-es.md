@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C9GHPJH-es Celorrio 20 - 20018 Piña En Almibar Rodajas 50-60 Lata...'
-tags: tole.es, almibar
+tags: [ tole.es, almibar ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

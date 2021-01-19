@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9TXIRQ-es Garnier Delial Sensitive Advanced - Leche Solar para...'
-tags: tole.es, garnier
+tags: [ tole.es, garnier ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

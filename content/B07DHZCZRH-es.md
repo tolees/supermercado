@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHZCZRH-es AUSONIA protege slips maxi caja 30 uds'
-tags: tole.es, ausonia
+tags: [ tole.es, ausonia ]
 actualPrice: 1.36 EUR
 currency: EUR
 price: 1.36

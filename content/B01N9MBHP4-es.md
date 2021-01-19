@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9MBHP4-es Nivea Nivea Desod Spray 150 Ml.Woman 0% Alumin. X.B 12U...'
-tags: tole.es, nivea
+tags: [ tole.es, nivea ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

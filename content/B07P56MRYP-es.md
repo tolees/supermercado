@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P56MRYP-es Max Factor Maquillaje corrector Tono: 305 Sand Pieles...'
-tags: tole.es, max, factor
+tags: [ tole.es, max, factor ]
 actualPrice: 3.3 EUR
 currency: EUR
 price: 3.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GQHX3K-es Johnnie Walker Blue Label Whisky Edición Limitada...'
-tags: tole.es, whisky
+tags: [ tole.es, whisky ]
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

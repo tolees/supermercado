@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LNQ5B3U-es L Oreal Paris Elvive Fibralogy Champú Creador de Densidad...'
-tags: tole.es, champú
+tags: [ tole.es, champú ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XACHTEK-es Nestlé NESQUIK Cacao Soluble Instantáneo - Estuche 5+1kg'
-tags: tole.es, nesquik, nestlé
+tags: [ tole.es, nesquik, nestlé ]
 actualPrice: 18.09 EUR
 currency: EUR
 price: 18.09

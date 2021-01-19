@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085TYJJF4-es Embutidos Ezequiel Chorizo Extra Picante 425 g'
-tags: tole.es, chorizo
+tags: [ tole.es, chorizo ]
 actualPrice: 5.06 EUR
 currency: EUR
 price: 5.06

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0S5HJY-es Cuétara - Napolitanas - Con un toque de deliciosa canela...'
-tags: tole.es, canela
+tags: [ tole.es, canela ]
 actualPrice: 2.22 EUR
 currency: EUR
 price: 2.22

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BK4FFHZ-es Automático Touchless Dispensador De Jabón Con Sensor...'
-tags: tole.es, jabón
+tags: [ tole.es, jabón ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

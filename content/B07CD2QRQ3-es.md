@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CD2QRQ3-es L Oréal Paris Colorista Hair Makeup Raspberry Hair'
-tags: tole.es, oréal
+tags: [ tole.es, oréal ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

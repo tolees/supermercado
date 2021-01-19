@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5QH35Z-es Colon Total Power Gel Caps Nenuco Detergente para Lavadora...'
-tags: tole.es, detergente
+tags: [ tole.es, detergente ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

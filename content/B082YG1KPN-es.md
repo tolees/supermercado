@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082YG1KPN-es Scholl Desodorante de Pies Fresh Step Antitranspirante -...'
-tags: tole.es, desodorante
+tags: [ tole.es, desodorante ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRYTWWT-es L OR Espresso Café paquete favorito - Nespresso® *...'
-tags: tole.es, café, cápsulas, de, café
+tags: [ tole.es, café, cápsulas, de, café ]
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

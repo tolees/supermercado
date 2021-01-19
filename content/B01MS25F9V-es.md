@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MS25F9V-es Air Wick Freshmatic - Aparato y recambio de Ambientador...'
-tags: tole.es, air, wick
+tags: [ tole.es, air, wick ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

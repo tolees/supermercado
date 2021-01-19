@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WZH8M6-es Clinique -Mild With Dish Jabón Facial 100 g'
-tags: tole.es, jabón
+tags: [ tole.es, jabón ]
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

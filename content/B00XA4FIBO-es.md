@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA4FIBO-es Maizena - Levadura Panadería 27.5 g'
-tags: tole.es, levadura, maizena
+tags: [ tole.es, levadura, maizena ]
 actualPrice: 1.59 EUR
 currency: EUR
 price: 1.59

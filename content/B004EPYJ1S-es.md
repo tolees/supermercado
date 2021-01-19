@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EPYJ1S-es Scitec Nutrition Whey Protein Professional Proteína Fresa...'
-tags: tole.es, chocolate
+tags: [ tole.es, chocolate ]
 actualPrice: 66.5 EUR
 currency: EUR
 price: 66.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y5X87QQ-es Pantene Rizos Definidos Mascarilla Hidrata para Conseguir...'
-tags: tole.es, pantene
+tags: [ tole.es, pantene ]
 actualPrice: 7.42 EUR
 currency: EUR
 price: 7.42

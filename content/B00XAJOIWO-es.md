@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAJOIWO-es Iberia Tinte Textil Color Chocolate - 70 gr'
-tags: tole.es, chocolate
+tags: [ tole.es, chocolate ]
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

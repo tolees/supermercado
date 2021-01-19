@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BV6QV2I-es Nescafé Dolce Gusto Café Cortado Espresso Macchiato Pack...'
-tags: tole.es, café, nescafé, cápsulas, de, café, dolce, gusto
+tags: [ tole.es, café, nescafé, cápsulas, de, café, dolce, gusto ]
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25

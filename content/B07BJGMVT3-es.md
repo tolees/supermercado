@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJGMVT3-es Dove Desodorante 0% Pepino Ahorro - 2 Paquetes de 2 x 150...'
-tags: tole.es, desodorante, dove
+tags: [ tole.es, desodorante, dove ]
 actualPrice: 7.63 EUR
 currency: EUR
 price: 7.63

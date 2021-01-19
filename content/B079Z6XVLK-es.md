@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Z6XVLK-es VICTORY ENDURANCE NatureŽs Energy Bar Manzana 60g x 25...'
-tags: tole.es, manzana
+tags: [ tole.es, manzana ]
 actualPrice: 27.84 EUR
 currency: EUR
 price: 27.84

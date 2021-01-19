@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DXLK3D8-es Abridor de tarros 4 en 1 manual 5 en 1 abrebotellas de...'
-tags: tole.es, cerveza
+tags: [ tole.es, cerveza ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZYD5SG-es HABA- Juego de Mesa Guisantes Habermass H304278'
-tags: tole.es, guisantes
+tags: [ tole.es, guisantes ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95
