@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007NPX4LM-es CND Solaroil Acondicionador de cutículas y uñas 15 ml'
-tags: [ tole.es, acondicionador ]
+tags: [ 'tole.es','acondicionador', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

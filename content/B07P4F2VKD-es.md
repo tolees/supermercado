@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4F2VKD-es Handheld eléctrico Café Leche batidor de huevo Batir...'
-tags: [ tole.es, café ]
+tags: [ 'tole.es','café', ]
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

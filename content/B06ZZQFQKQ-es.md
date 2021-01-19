@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZQFQKQ-es Instituto Español Piel Sana Crema Corporal Hidratante -...'
-tags: [ tole.es, instituto, español ]
+tags: [ 'tole.es','instituto','español', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CNTZF1O-es Borges Natura - Cocktail Frutos Secos de nueces de...'
-tags: [ tole.es, frutos, secos ]
+tags: [ 'tole.es','frutos','secos', ]
 actualPrice: 2.42 EUR
 currency: EUR
 price: 2.42

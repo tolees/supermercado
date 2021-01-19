@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VJXZZM-es EUKANUBA Edad avanzada Próspero Raza Grande rico en pollo...'
-tags: [ tole.es, eukanuba ]
+tags: [ 'tole.es','eukanuba', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

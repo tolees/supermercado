@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3TS9DP-es Bonsenkitchen Cortador de Verduras en Espiral...'
-tags: [ tole.es, spaghetti ]
+tags: [ 'tole.es','spaghetti', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

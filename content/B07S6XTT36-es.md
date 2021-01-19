@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6XTT36-es Vivesoy Frutos Secos sin Azúcar pack de 6 x 1L'
-tags: [ tole.es, azúcar, frutos, secos ]
+tags: [ 'tole.es','azúcar','frutos','secos', ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

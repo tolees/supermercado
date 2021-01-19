@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LY8ST4U-es Fanta Naranja Lata - 330 ml Pack de 9'
-tags: [ tole.es, fanta ]
+tags: [ 'tole.es','fanta', ]
 actualPrice: 4.01 EUR
 currency: EUR
 price: 4.01

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGJ2ZMM-es Orlando - Salsa Deluxe Fusión - 245 gr'
-tags: [ tole.es, orlando ]
+tags: [ 'tole.es','orlando', ]
 actualPrice: 1.29 EUR
 currency: EUR
 price: 1.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BLNSXSG-es Elizabeth Arden Prevage Suero Antienvejecimiento...'
-tags: [ tole.es, elizabeth, arden ]
+tags: [ 'tole.es','elizabeth','arden', ]
 actualPrice: 92.9 EUR
 currency: EUR
 price: 92.9

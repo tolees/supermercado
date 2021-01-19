@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZYW1V6-es Nestlé Purés Tarrito de puré de verduras y carne variedad...'
-tags: [ tole.es, nestlé ]
+tags: [ 'tole.es','nestlé', ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

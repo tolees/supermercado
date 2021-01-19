@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CBFOOA8-es 9 Cervezas de las especialidades de mundo a las mejores...'
-tags: [ tole.es, cerveza ]
+tags: [ 'tole.es','cerveza', ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

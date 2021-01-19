@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SBDUEOK-es L Oréal Paris Barra de Labios Color Riche 630'
-tags: [ tole.es, oréal ]
+tags: [ 'tole.es','oréal', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

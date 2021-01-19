@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085B2NRLM-es Vivaldi Deciso | 110 cápsulas de café compatibles con...'
-tags: [ tole.es, café, cápsulas, de, café ]
+tags: [ 'tole.es','café','cápsulas','de','café', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

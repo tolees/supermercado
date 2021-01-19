@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFST0TI-es Nosa Healthcare Champú - 250 ml'
-tags: [ tole.es, champú ]
+tags: [ 'tole.es','champú', ]
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

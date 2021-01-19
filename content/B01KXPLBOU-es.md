@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KXPLBOU-es Maybelline Stick Master Contour Tono: 03 Dark - 7 g'
-tags: [ tole.es, maybelline ]
+tags: [ 'tole.es','maybelline', ]
 actualPrice: None None
 currency: None
 price: None
@@ -26,10 +26,10 @@ Está [Maybelline Stick Master Contour Tono: 03 Dark - 7 g](https://www.amazon.e
 
 ℹ️:
 
-- Tipo de dispensador: lápiz
 - Nombre del color: Dark
 - Número de colores: 03
 - Adecuado para los tipos de piel
 - Dirigido a las mujeres
+- Tipo de dispensador: lápiz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01KXPLBOU/?tag=tolees-21)

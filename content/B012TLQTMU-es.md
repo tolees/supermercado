@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012TLQTMU-es Sukin Super Greens Crema hidratante facial 125 ml'
-tags: [ tole.es, crema, hidratante ]
+tags: [ 'tole.es','crema','hidratante', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

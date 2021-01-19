@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SWX9AUI-es Leifheit Set de fregona rotatoria Clean Twist Disc Mop...'
-tags: [ tole.es, fregona ]
+tags: [ 'tole.es','fregona', ]
 actualPrice: 66.9 EUR
 currency: EUR
 price: 66.9

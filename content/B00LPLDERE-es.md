@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LPLDERE-es L Oréal Paris - Infallible 24H Maquillaje en Polvo...'
-tags: [ tole.es, oréal ]
+tags: [ 'tole.es','oréal', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

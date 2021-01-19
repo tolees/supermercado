@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KZEVXQQ-es BSN Nutrition Amino X Suplementos Deportivos BCAA Polvo...'
-tags: [ tole.es, manzana ]
+tags: [ 'tole.es','manzana', ]
 actualPrice: 23.77 EUR
 currency: EUR
 price: 23.77

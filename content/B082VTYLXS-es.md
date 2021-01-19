@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VTYLXS-es BIOTERRA Harina Almendra Ecológica Española Sin Gluten Sin...'
-tags: [ tole.es, harina, sin, gluten ]
+tags: [ 'tole.es','harina','sin','gluten', ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

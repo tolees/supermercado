@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2QN7CD-es Smint Caramelo Comprimido Sin Azúcar Tin Con Sabor A Fresa...'
-tags: [ tole.es, azúcar, smint ]
+tags: [ 'tole.es','azúcar','smint', ]
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

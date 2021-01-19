@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009ET3QO-es American Crew Gel Spray Fijación Media 250ml'
-tags: [ tole.es, american, crew ]
+tags: [ 'tole.es','american','crew', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

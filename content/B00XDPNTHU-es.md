@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XDPNTHU-es Foxy Asso Ultra Papel de Cocina - 2 rollos'
-tags: [ tole.es, foxy, papel, de, cocina ]
+tags: [ 'tole.es','foxy','papel','de','cocina', ]
 actualPrice: 2.37 EUR
 currency: EUR
 price: 2.37

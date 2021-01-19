@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR1KP76-es VVVVANKER DIY Resina Helado Sundae Taza de café Miniatura...'
-tags: [ tole.es, café ]
+tags: [ 'tole.es','café', ]
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

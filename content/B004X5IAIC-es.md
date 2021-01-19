@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004X5IAIC-es Vileda 141084 Easy Wring & Clean Juego de Fregona con Palo...'
-tags: [ tole.es, fregona ]
+tags: [ 'tole.es','fregona', ]
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

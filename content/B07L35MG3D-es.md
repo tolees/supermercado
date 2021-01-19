@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L35MG3D-es WiPP Express Detergente Liquido 31 Dosis Paquete de 4...'
-tags: [ tole.es, detergente ]
+tags: [ 'tole.es','detergente', ]
 actualPrice: 29.13 EUR
 currency: EUR
 price: 29.13

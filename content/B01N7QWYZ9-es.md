@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7QWYZ9-es Arehucas Ginebra Carmela Mango Guayaba - 700 ml'
-tags: [ tole.es, ginebra ]
+tags: [ 'tole.es','ginebra', ]
 actualPrice: 14.05 EUR
 currency: EUR
 price: 14.05

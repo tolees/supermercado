@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DSYSNVH-es L Oréal París - Infallible 24H Fresh Wear Base de...'
-tags: [ tole.es, oréal ]
+tags: [ 'tole.es','oréal', ]
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

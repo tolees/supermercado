@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XD38KPB-es Garnier Delial Sensitive Advanced - Bruma Facial...'
-tags: [ tole.es, garnier ]
+tags: [ 'tole.es','garnier', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BKKDCHG-es Krups MS-623241 - Recipiente para cápsulas de café Dolce...'
-tags: [ tole.es, café, cápsulas, de, café, dolce, gusto ]
+tags: [ 'tole.es','café','cápsulas','de','café','dolce','gusto', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

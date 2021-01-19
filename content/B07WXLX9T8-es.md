@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WXLX9T8-es Marca Amazon - Happy Belly Espresso Decaffeinato- Café UTZ...'
-tags: [ tole.es, café, descafeinado, happy, belly ]
+tags: [ 'tole.es','café','descafeinado','happy','belly', ]
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

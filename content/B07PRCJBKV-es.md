@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRCJBKV-es PediaSure Complemento Alimenticio para Niños Sabor...'
-tags: [ tole.es, chocolate ]
+tags: [ 'tole.es','chocolate', ]
 actualPrice: 7.26 EUR
 currency: EUR
 price: 7.26

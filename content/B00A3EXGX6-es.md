@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A3EXGX6-es Santa Rita Harina para Croquetas y Bechamel - 430 gr'
-tags: [ tole.es, bechamel, croquetas, harina ]
+tags: [ 'tole.es','bechamel','croquetas','harina', ]
 actualPrice: 1.93 EUR
 currency: EUR
 price: 1.93

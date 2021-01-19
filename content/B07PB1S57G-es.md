@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PB1S57G-es Fa - Desodorante Spray Aqua 48 horas de protección - Anti...'
-tags: [ tole.es, desodorante ]
+tags: [ 'tole.es','desodorante', ]
 actualPrice: 2.3 EUR
 currency: EUR
 price: 2.3
@@ -26,10 +26,10 @@ Ahora mismo tienes [Fa - Desodorante Spray Aqua 48 horas de protección - Anti M
 
 🔎:
 
-- 48 horas
-- Sin sales de aluminio
 - Anti-manchas
 - Fresco
 - Fragancia acuática
+- Sin sales de aluminio
+- 48 horas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PB1S57G/?tag=tolees-21)

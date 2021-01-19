@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7TSCRS-es PediaSure - para Niños Sabor Chocolate con Proteínas...'
-tags: [ tole.es, chocolate ]
+tags: [ 'tole.es','chocolate', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

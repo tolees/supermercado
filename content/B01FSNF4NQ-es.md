@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FSNF4NQ-es Elizabeth Arden Sunflowers Crema Corporal - 500 gr'
-tags: [ tole.es, elizabeth, arden ]
+tags: [ 'tole.es','elizabeth','arden', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

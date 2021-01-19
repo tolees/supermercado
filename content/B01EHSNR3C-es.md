@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EHSNR3C-es Cumlaude Gineseda - Complemento Alimenticio para Aliviar...'
-tags: [ tole.es, soja ]
+tags: [ 'tole.es','soja', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

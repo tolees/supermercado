@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QRSGLK-es Mimosín Creaciones Flor de Lirio y Lima Suavizante...'
-tags: [ tole.es, suavizante ]
+tags: [ 'tole.es','suavizante', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

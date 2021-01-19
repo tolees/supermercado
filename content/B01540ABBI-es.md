@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01540ABBI-es MATRIX total results HIGHT AMPLIFY - Champú 300 ml'
-tags: [ tole.es, champú ]
+tags: [ 'tole.es','champú', ]
 actualPrice: 4.03 EUR
 currency: EUR
 price: 4.03

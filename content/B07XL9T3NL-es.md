@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL9T3NL-es Gillette Fusion5 - Cuchillas de Afeitar Pack Ahorro...'
-tags: [ tole.es, gillette ]
+tags: [ 'tole.es','gillette', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

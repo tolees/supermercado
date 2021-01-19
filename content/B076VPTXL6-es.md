@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076VPTXL6-es Neutrogena Crema de Manos Sin Perfume - 50 ml.'
-tags: [ tole.es, neutrogena ]
+tags: [ 'tole.es','neutrogena', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

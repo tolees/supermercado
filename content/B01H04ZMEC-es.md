@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H04ZMEC-es Vegetalia Canela en Rama - 80 gr'
-tags: [ tole.es, canela ]
+tags: [ 'tole.es','canela', ]
 actualPrice: 3.26 EUR
 currency: EUR
 price: 3.26

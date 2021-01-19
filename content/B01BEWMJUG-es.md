@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BEWMJUG-es Fisherman s Friend Original Caramelo Comprimido Con Azúcar...'
-tags: [ tole.es, azúcar ]
+tags: [ 'tole.es','azúcar', ]
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJBSPDX-es Cepillo de Dientes Eléctrico Cepillo de Dientes Sonico con...'
-tags: [ tole.es, cepillo, de, dientes ]
+tags: [ 'tole.es','cepillo','de','dientes', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

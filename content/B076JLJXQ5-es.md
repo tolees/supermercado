@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JLJXQ5-es Oral-B Pro 750 Sensi Ultrathin Adulto Azul - Cepillo de...'
-tags: [ tole.es, cepillo, de, dientes ]
+tags: [ 'tole.es','cepillo','de','dientes', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

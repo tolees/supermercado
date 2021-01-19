@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EFXO28-es Oral-B Advance Power - Cepillo de dientes con pilas'
-tags: [ tole.es, cepillo, de, dientes ]
+tags: [ 'tole.es','cepillo','de','dientes', ]
 actualPrice: 8.87 EUR
 currency: EUR
 price: 8.87

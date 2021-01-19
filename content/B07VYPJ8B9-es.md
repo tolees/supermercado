@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYPJ8B9-es Hoomtaook Estanteria Baño Para Esquinas de Baño Ducha No...'
-tags: [ tole.es, jabón ]
+tags: [ 'tole.es','jabón', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

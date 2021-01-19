@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UJV4SS0-es Aceite de virgen carbonell 5l pet'
-tags: [ tole.es, carbonell ]
+tags: [ 'tole.es','carbonell', ]
 actualPrice: 21.25 EUR
 currency: EUR
 price: 21.25

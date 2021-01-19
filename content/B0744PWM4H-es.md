@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0744PWM4H-es Holle Papilla de Copos de Avena +4 meses - Paquete de 6 x...'
-tags: [ tole.es, copos, de, avena ]
+tags: [ 'tole.es','copos','de','avena', ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

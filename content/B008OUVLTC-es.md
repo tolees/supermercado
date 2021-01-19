@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008OUVLTC-es L Oréal Paris Excellence Creme Tinte Tono 9.3 Rubio Claro...'
-tags: [ tole.es, oréal ]
+tags: [ 'tole.es','oréal', ]
 actualPrice: 4.87 EUR
 currency: EUR
 price: 4.87

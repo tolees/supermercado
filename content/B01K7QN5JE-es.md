@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7QN5JE-es Orlando Tomate Frito Clásico - Pack de 3 x 210 g - Total :...'
-tags: [ tole.es, orlando ]
+tags: [ 'tole.es','orlando', ]
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

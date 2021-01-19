@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZPF8J3Q-es Knorr Caldo Líquido de la Abuela Pollo - 1L'
-tags: [ tole.es, knorr ]
+tags: [ 'tole.es','knorr', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

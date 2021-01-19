@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LX17FPQ-es Gourmet Frutos Secos Pipas Mondadas Fritas con Sal - 125 g'
-tags: [ tole.es, pipas, frutos, secos ]
+tags: [ 'tole.es','pipas','frutos','secos', ]
 actualPrice: None None
 currency: None
 price: None

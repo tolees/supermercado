@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9WS7Z6-es L Oréal Paris Men Expert Todo en 1 After-Shave +...'
-tags: [ tole.es, oréal ]
+tags: [ 'tole.es','oréal', ]
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GIA03EI-es Lactovit Loción corporal - 400 gr.'
-tags: [ tole.es, lactovit ]
+tags: [ 'tole.es','lactovit', ]
 actualPrice: 3.54 EUR
 currency: EUR
 price: 3.54

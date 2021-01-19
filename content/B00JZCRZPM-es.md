@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JZCRZPM-es OGX - Champú Aceite de Keratina 385 ml'
-tags: [ tole.es, champú ]
+tags: [ 'tole.es','champú', ]
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

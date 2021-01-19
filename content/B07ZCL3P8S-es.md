@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCL3P8S-es Air Wick - Vela de aceites esenciales edición limitada...'
-tags: [ tole.es, air, wick ]
+tags: [ 'tole.es','air','wick', ]
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

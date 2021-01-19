@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2DJTQ9-es MICHLEY Irrompible Copas de Vino Tinto 100% Tritan-...'
-tags: [ tole.es, vino, tinto ]
+tags: [ 'tole.es','vino','tinto', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GSKQNX9-es SO-buts Dispensadores De Desinfectante De Manos para...'
-tags: [ tole.es, jabón ]
+tags: [ 'tole.es','jabón', ]
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

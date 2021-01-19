@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005UXOIU0-es Tanqueray Rangpur Ginebra - 700 ml'
-tags: [ tole.es, ginebra ]
+tags: [ 'tole.es','ginebra', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

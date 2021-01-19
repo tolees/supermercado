@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081C5FG8F-es JASHEN Fregona electrica sin Cable Mopa Electrica con...'
-tags: [ tole.es, fregona ]
+tags: [ 'tole.es','fregona', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

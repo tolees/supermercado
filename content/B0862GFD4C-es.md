@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0862GFD4C-es Garnier Delial Sensitive Advanced - Crema Facial Super UV...'
-tags: [ tole.es, garnier ]
+tags: [ 'tole.es','garnier', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

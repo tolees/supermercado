@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DUU8GHQ-es Elizabeth Arden Eight Hour Bálsamo Nutritivo Lip SPF20 15ml'
-tags: [ tole.es, elizabeth, arden ]
+tags: [ 'tole.es','elizabeth','arden', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

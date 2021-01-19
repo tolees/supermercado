@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748GDLLZ-es Haribo Dragibus - 2000 gr'
-tags: [ tole.es, haribo ]
+tags: [ 'tole.es','haribo', ]
 actualPrice: 5.82 EUR
 currency: EUR
 price: 5.82

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BV93LOK-es Diadermine Lift + Tagescreme Súper relleno Paquete 1er 1 x...'
-tags: [ tole.es, diadermine ]
+tags: [ 'tole.es','diadermine', ]
 actualPrice: 9.68 EUR
 currency: EUR
 price: 9.68

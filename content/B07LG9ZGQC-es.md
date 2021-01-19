@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG9ZGQC-es Singleton Glendullan - Whisky escocés puro de malta -...'
-tags: [ tole.es, whisky ]
+tags: [ 'tole.es','whisky', ]
 actualPrice: 35.7 EUR
 currency: EUR
 price: 35.7

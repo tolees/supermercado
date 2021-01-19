@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PA0ABUO-es American Crew Cera Liquida Fijación Media y Brillo Medio...'
-tags: [ tole.es, american, crew ]
+tags: [ 'tole.es','american','crew', ]
 actualPrice: 6.87 EUR
 currency: EUR
 price: 6.87

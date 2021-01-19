@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07856VSNC-es L Oréal Paris Make-up designer Infaillible Stick de...'
-tags: [ tole.es, oréal ]
+tags: [ 'tole.es','oréal', ]
 actualPrice: 4.47 EUR
 currency: EUR
 price: 4.47

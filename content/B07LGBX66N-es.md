@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGBX66N-es Dalwhinnie Winter s Frost – Whisky escocés puro de malta –...'
-tags: [ tole.es, whisky ]
+tags: [ 'tole.es','whisky', ]
 actualPrice: 44.2 EUR
 currency: EUR
 price: 44.2

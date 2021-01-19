@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VS2DCZ-es Head & Shoulders Men Ultra Frescor Instantáneo Champú...'
-tags: [ tole.es, champú ]
+tags: [ 'tole.es','champú', ]
 actualPrice: 5.32 EUR
 currency: EUR
 price: 5.32

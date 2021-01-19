@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L7QPXDA-es Neutrogena - Cuerpo Hidratación Bálsamo Hidratación...'
-tags: [ tole.es, neutrogena ]
+tags: [ 'tole.es','neutrogena', ]
 actualPrice: 11.35 EUR
 currency: EUR
 price: 11.35

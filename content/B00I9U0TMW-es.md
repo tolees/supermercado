@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I9U0TMW-es Philips Sonicare For Kids HX6032 - Set de 2 cabezales mini...'
-tags: [ tole.es, cepillo, de, dientes ]
+tags: [ 'tole.es','cepillo','de','dientes', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

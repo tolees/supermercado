@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0B7WFB-es Haribo Gummy Beans Caramelos Grageados - 1 Kg'
-tags: [ tole.es, haribo ]
+tags: [ 'tole.es','haribo', ]
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

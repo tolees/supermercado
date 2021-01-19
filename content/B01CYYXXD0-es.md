@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CYYXXD0-es Lea Champú para Barba Purificante y Suavizante - 100 ml'
-tags: [ tole.es, suavizante, champú ]
+tags: [ 'tole.es','suavizante','champú', ]
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

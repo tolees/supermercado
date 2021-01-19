@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BPYCD95-es ECOSUSI Maletín para Bolso Portatil Mujer Mujer Mochila...'
-tags: [ tole.es, café ]
+tags: [ 'tole.es','café', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

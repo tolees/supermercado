@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XS1CWFD-es Bowmore No.1 Single Malt Whisky Escoces 40% - 700 ml'
-tags: [ tole.es, whisky ]
+tags: [ 'tole.es','whisky', ]
 actualPrice: 23.3 EUR
 currency: EUR
 price: 23.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GGMPZ1P-es Fairy Tail: Dragon Cry Movie 2 - Limited Steelcase Edition...'
-tags: [ tole.es, fairy ]
+tags: [ 'tole.es','fairy', ]
 actualPrice: 41.71 EUR
 currency: EUR
 price: 41.71

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BN7XB0K-es NIVEA MEN Active Energy Bálsamo 2en1 Revitalizante 1 x 100...'
-tags: [ tole.es, nivea ]
+tags: [ 'tole.es','nivea', ]
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001HU7THE-es Caol Ila 12 Años Whisky Escocés Puro de Malta de la Isla...'
-tags: [ tole.es, whisky ]
+tags: [ 'tole.es','whisky', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

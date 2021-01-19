@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSK58P3-es Max Factor Mattitude Powder. Polvos bronceadores Tono 003...'
-tags: [ tole.es, max, factor ]
+tags: [ 'tole.es','max','factor', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

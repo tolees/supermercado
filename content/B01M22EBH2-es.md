@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M22EBH2-es Pompadour - Poleo menta té - pack de 2 total: 20 cápsulas'
-tags: [ tole.es, pompadour ]
+tags: [ 'tole.es','pompadour', ]
 actualPrice: None None
 currency: None
 price: None
@@ -26,9 +26,9 @@ Ahora mismo tienes [Pompadour - Poleo menta té - pack de 2  total: 20 cápsulas
 
 🔎:
 
-- Infusión de pura menta, ahora en cápsulas
-- Cápsulas 100% ingeniería de placer: exclusivo sistema de 3 toberas para una infusión superior
-- Refrescantes y matizadas hojas de vital verdor
 - 10 Cápsulas compatibles con máquinas Nespresso
+- Infusión de pura menta, ahora en cápsulas
+- Refrescantes y matizadas hojas de vital verdor
+- Cápsulas 100% ingeniería de placer: exclusivo sistema de 3 toberas para una infusión superior
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M22EBH2/?tag=tolees-21)

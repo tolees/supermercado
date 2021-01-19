@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BGNIL1K-es Lancaster Gel y jabón - 250 gr.'
-tags: [ tole.es, jabón ]
+tags: [ 'tole.es','jabón', ]
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

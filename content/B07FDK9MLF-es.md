@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDK9MLF-es Mimosin Intense Explosión de Frescor Perlas de fragancia...'
-tags: [ tole.es, mimosin ]
+tags: [ 'tole.es','mimosin', ]
 actualPrice: 17.8 EUR
 currency: EUR
 price: 17.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFMBH31-es Levadura de Arroz Rojo con 10 mg de Monacolina K y 5 mg de...'
-tags: [ tole.es, arroz, levadura ]
+tags: [ 'tole.es','arroz','levadura', ]
 actualPrice: 13.82 EUR
 currency: EUR
 price: 13.82

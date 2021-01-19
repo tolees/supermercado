@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA02NMA-es Beefeater London Dry Ginebra - 700 ml'
-tags: [ tole.es, ginebra ]
+tags: [ 'tole.es','ginebra', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

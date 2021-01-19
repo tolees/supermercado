@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R98QGGT-es Marca Amazon - Happy Belly Avellanas tostadas sin sal...'
-tags: [ tole.es, happy, belly ]
+tags: [ 'tole.es','happy','belly', ]
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

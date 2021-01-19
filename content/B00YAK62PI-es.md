@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YAK62PI-es VIAGGIO ESPRESSO - 60 Cápsulas de Café Compatibles con...'
-tags: [ tole.es, café, cápsulas, de, café ]
+tags: [ 'tole.es','café','cápsulas','de','café', ]
 actualPrice: 17.7 EUR
 currency: EUR
 price: 17.7

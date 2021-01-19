@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L2FIUO4-es Revlon Professional Equave Kids Acondicionador...'
-tags: [ tole.es, acondicionador, revlon ]
+tags: [ 'tole.es','acondicionador','revlon', ]
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

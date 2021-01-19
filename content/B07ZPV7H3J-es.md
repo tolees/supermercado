@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZPV7H3J-es GLUBEE dispensadores de jabón rellenables - de cristal...'
-tags: [ tole.es, jabón ]
+tags: [ 'tole.es','jabón', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

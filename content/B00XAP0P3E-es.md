@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAP0P3E-es Haribo Delfines Azules 1kg'
-tags: [ tole.es, haribo ]
+tags: [ 'tole.es','haribo', ]
 actualPrice: 4.72 EUR
 currency: EUR
 price: 4.72

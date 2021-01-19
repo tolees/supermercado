@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGJRB9R-es Marca Amazon - Solimo Gel de ducha para hombre...'
-tags: [ tole.es, solimo, gel, de, ducha ]
+tags: [ 'tole.es','solimo','gel','de','ducha', ]
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

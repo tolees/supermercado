@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LQBJJHG-es Maybelline New York - Master Strobing Liquido Iluminador...'
-tags: [ tole.es, maybelline ]
+tags: [ 'tole.es','maybelline', ]
 actualPrice: 7.34 EUR
 currency: EUR
 price: 7.34

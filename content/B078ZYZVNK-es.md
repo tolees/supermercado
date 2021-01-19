@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078ZYZVNK-es TRESemmé Acondicionador Color Keratina - Paquete de 3 x...'
-tags: [ tole.es, acondicionador, tresemmé ]
+tags: [ 'tole.es','acondicionador','tresemmé', ]
 actualPrice: 12.36 EUR
 currency: EUR
 price: 12.36

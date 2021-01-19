@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VTG7VK-es Johnson s Baby - Acondicionador No Más Tirones para Niños...'
-tags: [ tole.es, acondicionador ]
+tags: [ 'tole.es','acondicionador', ]
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

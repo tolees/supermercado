@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXLMPRZ-es Café Fortaleza Café Grano Natural - 500 gr - [Pack de 3]'
-tags: [ tole.es, café, fortaleza ]
+tags: [ 'tole.es','café','fortaleza', ]
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

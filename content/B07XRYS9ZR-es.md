@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRYS9ZR-es Fairy Tail'
-tags: [ tole.es, fairy ]
+tags: [ 'tole.es','fairy', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

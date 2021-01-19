@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSBW5JH-es NIVEA MEN Cool Kick Roll-on en pack de 6 6 x 50 ml...'
-tags: [ tole.es, desodorante, nivea ]
+tags: [ 'tole.es','desodorante','nivea', ]
 actualPrice: 11.1 EUR
 currency: EUR
 price: 11.1

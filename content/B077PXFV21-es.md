@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PXFV21-es Sanytol - Ambientador Desinfectante de Tejidos en Spray...'
-tags: [ tole.es, sanytol ]
+tags: [ 'tole.es','sanytol', ]
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

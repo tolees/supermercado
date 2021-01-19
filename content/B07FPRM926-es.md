@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPRM926-es TAC - Juego de 2 paños de cocina absorbentes 100% algodón...'
-tags: [ tole.es, magdalena ]
+tags: [ 'tole.es','magdalena', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJRYSTF-es LUCIFER S ROAST Espresso de KIQO de Italia - 1kg café...'
-tags: [ tole.es, café ]
+tags: [ 'tole.es','café', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

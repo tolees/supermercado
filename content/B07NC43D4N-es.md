@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC43D4N-es AXE Desodorante Bodyspray Dark Temptation - Pack de 3 x...'
-tags: [ tole.es, axe, desodorante ]
+tags: [ 'tole.es','axe','desodorante', ]
 actualPrice: 8.57 EUR
 currency: EUR
 price: 8.57

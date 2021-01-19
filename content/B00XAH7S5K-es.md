@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAH7S5K-es Heno de Pravia - Desodorante roll-on 50 ml'
-tags: [ tole.es, desodorante ]
+tags: [ 'tole.es','desodorante', ]
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

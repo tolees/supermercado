@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTMKY2O-es Tampax Tampones Compak Regular - 22 unidades'
-tags: [ tole.es, tampax ]
+tags: [ 'tole.es','tampax', ]
 actualPrice: 3.23 EUR
 currency: EUR
 price: 3.23

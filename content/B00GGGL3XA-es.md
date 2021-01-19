@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GGGL3XA-es Oral B 68341 - Cabezales para cepillo de dientes eléctrico...'
-tags: [ tole.es, cepillo, de, dientes ]
+tags: [ 'tole.es','cepillo','de','dientes', ]
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

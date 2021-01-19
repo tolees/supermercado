@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0091DK1II-es Brandy Solera Reserva Jerez Carlos III Osborne 36º - 1...'
-tags: [ tole.es, brandy ]
+tags: [ 'tole.es','brandy', ]
 actualPrice: 10.48 EUR
 currency: EUR
 price: 10.48

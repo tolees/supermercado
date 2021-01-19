@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KM2RL6J-es NESACAFÉ Dolce Gusto | Capsulas de Café Latte Macchiato...'
-tags: [ tole.es, café, dolce, gusto ]
+tags: [ 'tole.es','café','dolce','gusto', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

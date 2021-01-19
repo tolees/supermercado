@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CW6CVX-es Botanical Origin Suavizante para Ropa Ecológico Apto para...'
-tags: [ tole.es, suavizante ]
+tags: [ 'tole.es','suavizante', ]
 actualPrice: 20.6 EUR
 currency: EUR
 price: 20.6

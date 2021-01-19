@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SM9T7JF-es Cola Cao Original Chocolate en Polvo - 770 gr'
-tags: [ tole.es, chocolate ]
+tags: [ 'tole.es','chocolate', ]
 actualPrice: 2.11 EUR
 currency: EUR
 price: 2.11

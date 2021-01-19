@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYDRGL7-es Diadermine - Pack Expert Rejuvenecedor Crema Día +...'
-tags: [ tole.es, diadermine ]
+tags: [ 'tole.es','diadermine', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

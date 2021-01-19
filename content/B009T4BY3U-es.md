@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009T4BY3U-es Master s - Ginebra - 700 ml'
-tags: [ tole.es, ginebra ]
+tags: [ 'tole.es','ginebra', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

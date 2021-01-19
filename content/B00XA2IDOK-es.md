@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA2IDOK-es Maizena Harina Fina de Maíz Espesante Caja 2 5 kilogramos...'
-tags: [ tole.es, harina, maizena, maíz, sin, gluten ]
+tags: [ 'tole.es','harina','maizena','maíz','sin','gluten', ]
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

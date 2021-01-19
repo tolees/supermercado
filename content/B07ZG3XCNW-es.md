@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZG3XCNW-es TRESemmé Botanique Pack Champú + Protector y Rizador de...'
-tags: [ tole.es, champú, tresemmé ]
+tags: [ 'tole.es','champú','tresemmé', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

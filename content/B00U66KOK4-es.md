@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U66KOK4-es AXE Black Dry Desodorante Roll-On - 2 Paquetes de 1 x 50...'
-tags: [ tole.es, axe, desodorante ]
+tags: [ 'tole.es','axe','desodorante', ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

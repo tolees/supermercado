@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K7ZD4Q0-es Lancaster Deodorant Cream Sensitive Desodorante - 125 ml'
-tags: [ tole.es, desodorante ]
+tags: [ 'tole.es','desodorante', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

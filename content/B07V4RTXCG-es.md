@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4RTXCG-es Tommy Hilfiger - Soft Turnlock Lrg Za Carteras Mujer Gris...'
-tags: [ tole.es, oatmeal ]
+tags: [ 'tole.es','oatmeal', ]
 actualPrice: 37.58 EUR
 currency: EUR
 price: 37.58

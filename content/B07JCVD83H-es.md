@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JCVD83H-es Cesar elección del Chef Ternera A La Rejilla con arroz...'
-tags: [ tole.es, arroz, arroz, integral ]
+tags: [ 'tole.es','arroz','arroz','integral', ]
 actualPrice: 12.13 EUR
 currency: EUR
 price: 12.13

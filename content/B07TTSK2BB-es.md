@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTSK2BB-es GOTOTO - Juego de fregona y fregona de Vapor Plana Cubo...'
-tags: [ tole.es, fregona ]
+tags: [ 'tole.es','fregona', ]
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

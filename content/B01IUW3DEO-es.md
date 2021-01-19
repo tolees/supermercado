@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IUW3DEO-es Ruffles - Patatas Fritas con Sabor a Jamón y Queso - 170 gr'
-tags: [ tole.es, jamón, queso, ruffles, patatas, fritas ]
+tags: [ 'tole.es','jamón','queso','ruffles','patatas','fritas', ]
 actualPrice: 1.23 EUR
 currency: EUR
 price: 1.23

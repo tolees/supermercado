@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZHXHZC-es Oral-B 3D White Luxe Brillo Seductor Pasta Dentífrica 75...'
-tags: [ tole.es, dentífrica ]
+tags: [ 'tole.es','dentífrica', ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

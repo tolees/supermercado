@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNLLBKW-es 20x Clips de Cierre de Plástico 11cm Pinzas de Cierre en...'
-tags: [ tole.es, café ]
+tags: [ 'tole.es','café', ]
 actualPrice: 4.47 EUR
 currency: EUR
 price: 4.47

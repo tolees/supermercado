@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010MVG6ZY-es Pogi s Grooming Wipes - Toallitas húmedas - 100 toallitas...'
-tags: [ tole.es, desodorantes ]
+tags: [ 'tole.es','desodorantes', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

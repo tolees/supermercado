@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7RQDOW-es Sensodyne Protección Diaria - Pasta de dientes con flúor...'
-tags: [ tole.es, sensodyne, pasta, de, dientes ]
+tags: [ 'tole.es','sensodyne','pasta','de','dientes', ]
 actualPrice: 2.78 EUR
 currency: EUR
 price: 2.78

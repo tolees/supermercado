@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GQYKBT4-es Mengshen Bascula Cuchara Digital para Cocina Alimentos...'
-tags: [ tole.es, harina ]
+tags: [ 'tole.es','harina', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

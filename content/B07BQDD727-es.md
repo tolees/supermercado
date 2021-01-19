@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQDD727-es Dove Desodorante Original Ahorro - Paquetes de 2 x 200 ml...'
-tags: [ tole.es, desodorante, dove ]
+tags: [ 'tole.es','desodorante','dove', ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

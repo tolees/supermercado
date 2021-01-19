@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZLB13W-es FIND - Mascarilla hidrogel sin goteo antienvejecimiento...'
-tags: [ tole.es, zumo, de ]
+tags: [ 'tole.es','zumo','de', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

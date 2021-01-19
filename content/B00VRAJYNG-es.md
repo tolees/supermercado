@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VRAJYNG-es Revlon Sombra de ojos - 6.6 gr.'
-tags: [ tole.es, revlon ]
+tags: [ 'tole.es','revlon', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

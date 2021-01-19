@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5HQVBM-es Knorr Dso Thai - 69 g'
-tags: [ tole.es, knorr ]
+tags: [ 'tole.es','knorr', ]
 actualPrice: None None
 currency: None
 price: None

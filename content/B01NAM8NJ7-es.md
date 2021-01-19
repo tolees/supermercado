@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAM8NJ7-es Lancardo - Reloj de pulsera para pareja Lovers con correa...'
-tags: [ tole.es, café ]
+tags: [ 'tole.es','café', ]
 actualPrice: 20.64 EUR
 currency: EUR
 price: 20.64

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EXSAJ56-es Neutrogena Blackhead Eliminating Tónico Limpiador - 200 ml'
-tags: [ tole.es, neutrogena ]
+tags: [ 'tole.es','neutrogena', ]
 actualPrice: 13.1 EUR
 currency: EUR
 price: 13.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDJ9QL5-es Casals C63009000 Hidrolimpiadora 1400 W 105 bares de...'
-tags: [ tole.es, detergente ]
+tags: [ 'tole.es','detergente', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

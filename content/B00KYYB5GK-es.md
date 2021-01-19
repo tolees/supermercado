@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KYYB5GK-es Palmolive - Aroma Gel Absolute Relax 500 ml'
-tags: [ tole.es, palmolive ]
+tags: [ 'tole.es','palmolive', ]
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

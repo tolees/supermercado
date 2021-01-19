@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQXY77X-es Tibek - Máquina de palomitas por aire caliente sin aceite...'
-tags: [ tole.es, chocolate ]
+tags: [ 'tole.es','chocolate', ]
 actualPrice: 34.26 EUR
 currency: EUR
 price: 34.26

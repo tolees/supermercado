@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086DJ9MGW-es TTAototech Sensor inteligente Dispensador de jabón- 1000...'
-tags: [ tole.es, jabón ]
+tags: [ 'tole.es','jabón', ]
 actualPrice: 33.79 EUR
 currency: EUR
 price: 33.79

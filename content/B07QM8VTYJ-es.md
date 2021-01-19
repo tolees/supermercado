@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QM8VTYJ-es Love Beauty and Planet Champú para Cabello teñido Manteca...'
-tags: [ tole.es, champú ]
+tags: [ 'tole.es','champú', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

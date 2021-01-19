@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WKDJNSN-es Etolab - Champú para barba. Fórmula delicada elimina...'
-tags: [ tole.es, champú ]
+tags: [ 'tole.es','champú', ]
 actualPrice: 13.1 EUR
 currency: EUR
 price: 13.1

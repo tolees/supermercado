@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0721QGRJF-es La Toja - Hidrotermal Espuma Afeitar Protect 7 - 300ml...'
-tags: [ tole.es, la, toja ]
+tags: [ 'tole.es','la','toja', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4
