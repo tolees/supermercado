@@ -26,10 +26,10 @@ Está [L Oréal Paris Barra de Labios Color Riche Shine  Tono Rosa 111 Instaheav
 
 ℹ️:
 
-- Color rosa lacado pigmentado
-- Barra de labios con brillo intenso para el maquillaje de día y de noche
-- Tiene pigmentación duradera
-- Los labios tienen un aspecto pleno y sano
 - Hidrata y cuida los labios
+- Los labios tienen un aspecto pleno y sano
+- Color rosa lacado pigmentado
+- Tiene pigmentación duradera
+- Barra de labios con brillo intenso para el maquillaje de día y de noche
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0781VSQJW/?tag=tolees-21)

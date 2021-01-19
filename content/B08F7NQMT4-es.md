@@ -26,10 +26,10 @@ Tienes [CC Cream  BB Cream  Base de Maquillaje  Corrector Base Duradera Hidratac
 
 🔎:
 
-- 【Puff de polvo innovador de fácil aplicación】 Puff de polvo de mariposa de diseño innovador, la película biónica elástica agradable para la piel, la película biónica suave presionada con una crema BB uniformemente suave. Puedes hacer diferentes maquillajes en diferentes ocasiones y hacerte lucir más hermosa.
-- 【Para todo tipo de piel】 Esta fórmula de base se extrae principalmente de esencia de plantas naturales, SIN fargancia, SIN aceite mineral, SIN aditivos de metales pesados, SIN alcohol, adecuada para todo tipo de piel, incluida la sensible, grasa, seca, mixta, acné, o incluso piel cuperosa.
 - 【Oculta los poros finos】 Cubre naturalmente los defectos de la piel, crea un maquillaje hidratante natural. El producto es fino y ligero, no obstruye los poros, disimula fácilmente las imperfecciones, los poros, la opacidad y presenta un maquillaje natural, ligero e impecable, permitiendo que la piel respire libremente.
+- 【Puff de polvo innovador de fácil aplicación】 Puff de polvo de mariposa de diseño innovador, la película biónica elástica agradable para la piel, la película biónica suave presionada con una crema BB uniformemente suave. Puedes hacer diferentes maquillajes en diferentes ocasiones y hacerte lucir más hermosa.
 - 【Hidratación intensa】 Equilibra los niveles de sebo, reduce el acné, las manchas secas, la irritación de la piel y previene los signos del envejecimiento.
 - 【Perfecto y corrector】 La crema CC con colchón de aire es hidratante, controla la grasa, duradera, la textura es ligera y fina, transpirable, oculta los poros, crea un maquillaje de temperamento.Textura clara y húmeda, refrescante y no grasosa.
+- 【Para todo tipo de piel】 Esta fórmula de base se extrae principalmente de esencia de plantas naturales, SIN fargancia, SIN aceite mineral, SIN aditivos de metales pesados, SIN alcohol, adecuada para todo tipo de piel, incluida la sensible, grasa, seca, mixta, acné, o incluso piel cuperosa.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08F7NQMT4/?tag=tolees-21)
