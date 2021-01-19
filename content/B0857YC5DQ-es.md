@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KS-m6W8xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0857YC5DQ-es'
+slug: 'B0857YC5DQ-es Garnier Skin Active - BB Cream'
+tags: 'garnier'
 actualPrice: None None
 currency: None
 price: None

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yQv2iGl7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWV3K6W-es'
+slug: 'B07GWV3K6W-es Chupa Chups Meals Golosinas de Formas y Sabores Variados...'
+tags: 'chupa chups'
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

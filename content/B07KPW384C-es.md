@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31r5eF6gJ4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPW384C-es'
+slug: 'B07KPW384C-es Max Factor Base de maquillaje Matificante y minimizador de...'
+tags: 'max factor'
 actualPrice: 6.64 EUR
 currency: EUR
 price: 6.64

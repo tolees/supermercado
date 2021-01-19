@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VZgfO6N8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004JV7QX0-es'
+slug: 'B004JV7QX0-es Brandy de Jerez Solera Gran Reserva Carlos I - 1 botella...'
+tags: 'brandy'
 actualPrice: 22.26 EUR
 currency: EUR
 price: 22.26

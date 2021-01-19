@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kTOjAnxtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXX7CM1-es'
+slug: 'B01LXX7CM1-es President Leche Desnatada - 6 x 1 L'
+tags: 'president'
 actualPrice: None None
 currency: None
 price: None

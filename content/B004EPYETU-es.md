@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41np5hgkQfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004EPYETU-es'
+slug: 'B004EPYETU-es Scitec Nutrition 100% Whey Protein Proteína Chocolate...'
+tags: 'chocolate'
 actualPrice: 34.01 EUR
 currency: EUR
 price: 34.01

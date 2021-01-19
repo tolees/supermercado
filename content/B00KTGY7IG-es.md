@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510dRfmlcBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KTGY7IG-es'
+slug: 'B00KTGY7IG-es Gillette Venus Oceana Maquinillas Desechables Para Mujer -...'
+tags: 'gillette'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31y+jR34wML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0043PC3MG-es'
+slug: 'B0043PC3MG-es Vino Tinto D.O. Rioja Montecillo Crianza - 1 botella de 75 cl'
+tags: 'vino tinto'
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

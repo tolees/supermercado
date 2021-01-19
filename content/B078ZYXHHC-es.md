@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fp3lDNkGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078ZYXHHC-es'
+slug: 'B078ZYXHHC-es TRESemmé Champú Liso y Sedoso - Paquete de 4 x 900 ml -...'
+tags: 'champú, tresemmé'
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

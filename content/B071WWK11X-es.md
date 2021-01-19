@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31NgMkD2t4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WWK11X-es'
+slug: 'B071WWK11X-es Fanola No Orange Champú Antirreflectante 350 ml'
+tags: 'champú'
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

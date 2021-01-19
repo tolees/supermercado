@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5122TxDiEVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWXZ2GX-es'
+slug: 'B01LWXZ2GX-es Dani Berberechos al Natural 40-50 - 63 g'
+tags: 'berberechos'
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

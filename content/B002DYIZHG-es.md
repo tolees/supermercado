@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p6IXGU5FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002DYIZHG-es'
+slug: 'B002DYIZHG-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en...'
+tags: 'chocolate'
 actualPrice: 25.85 EUR
 currency: EUR
 price: 25.85

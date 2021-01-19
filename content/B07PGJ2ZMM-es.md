@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VV3t4WKYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGJ2ZMM-es'
+slug: 'B07PGJ2ZMM-es Orlando - Salsa Deluxe Fusión - 245 gr'
+tags: 'orlando'
 actualPrice: 1.29 EUR
 currency: EUR
 price: 1.29

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZeGbyAQaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XABDJL8-es'
+slug: 'B00XABDJL8-es Haribo - Pasta Basta Fresa - Geles dulces - 200 unidades'
+tags: 'haribo'
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

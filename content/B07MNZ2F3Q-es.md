@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51wc5e1V6NL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNZ2F3Q-es'
+slug: 'B07MNZ2F3Q-es iBazal 22mm Correas Cuero Piel Pulseras Bandas Compatible...'
+tags: 'café'
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

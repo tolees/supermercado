@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ryROc9QvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CGFY8WS-es'
+slug: 'B08CGFY8WS-es MENNYO Posavasos Originales Juego de 14 Posavasos de...'
+tags: 'café'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

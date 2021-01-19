@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nAIAxUjEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001IZYQC4-es'
+slug: 'B001IZYQC4-es Max Factor Maquillaje en polvo - 1 unidad'
+tags: 'max factor'
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

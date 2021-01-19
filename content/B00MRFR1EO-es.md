@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WaoA-5prL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MRFR1EO-es'
+slug: 'B00MRFR1EO-es Refrigerador botellero puerta de Cristal color rojo con...'
+tags: 'coca cola'
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

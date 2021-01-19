@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3151zFIFWoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001MJ0XIC-es'
+slug: 'B001MJ0XIC-es Hugo Boss 11563 - Desodorante'
+tags: 'desodorante'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

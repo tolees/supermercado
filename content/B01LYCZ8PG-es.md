@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nGjNF34HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYCZ8PG-es'
+slug: 'B01LYCZ8PG-es Orlando Tomate Natural Triturado - 800 g'
+tags: 'orlando'
 actualPrice: 0.92 EUR
 currency: EUR
 price: 0.92

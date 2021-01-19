@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41reypoq+CL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GTJ7ICI-es'
+slug: 'B01GTJ7ICI-es AUSONIA - 34744 SIERRA DE COMPÁS AJUSTABLE DE 30 CM DE...'
+tags: 'ausonia'
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

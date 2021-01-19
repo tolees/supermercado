@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-QrWG78XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0AZFAL-es'
+slug: 'B01N0AZFAL-es NERTHUS FIH 167 - La croquetera ideal para albóndigas...'
+tags: 'croquetas'
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SIvFu+xNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7S9XQ6-es'
+slug: 'B01K7S9XQ6-es Garnier Skin Active Agua Micelar Clásica para pieles...'
+tags: 'garnier'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

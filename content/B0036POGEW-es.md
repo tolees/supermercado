@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EE1q-R2cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0036POGEW-es'
+slug: 'B0036POGEW-es Auchentoshan 12 Años Single Malt Whisky Escoces 40% - 700 ml'
+tags: 'whisky'
 actualPrice: 24.02 EUR
 currency: EUR
 price: 24.02

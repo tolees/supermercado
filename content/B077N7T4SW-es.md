@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51um6UcPeOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077N7T4SW-es'
+slug: 'B077N7T4SW-es CEREX- Pack Degustación de 10 Cervezas Artesanas - Cerveza...'
+tags: 'cerveza'
 actualPrice: 24.3 EUR
 currency: EUR
 price: 24.3

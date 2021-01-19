@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n7h8qsFpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XJP77KE-es'
+slug: 'B00XJP77KE-es NIVEA Desmaquillador de Ojos Doble Acción 1 x 125 ml...'
+tags: 'nivea'
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

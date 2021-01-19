@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SBq0-NclL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XDPNZMO-es'
+slug: 'B00XDPNZMO-es Purina Friskies Pienso para Perro Adulto Aves y Verduras...'
+tags: 'friskies, purina'
 actualPrice: 11.81 EUR
 currency: EUR
 price: 11.81

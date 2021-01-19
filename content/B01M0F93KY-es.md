@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51A3hGs1fgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0F93KY-es'
+slug: 'B01M0F93KY-es Matutano - Cacahuetes Tostados Al Horno - 200 g - [pack de 4]'
+tags: 'matutano'
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

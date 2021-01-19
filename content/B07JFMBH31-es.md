@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OC38QGZDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JFMBH31-es'
+slug: 'B07JFMBH31-es Levadura de Arroz Rojo con 10 mg de Monacolina K y 5 mg de...'
+tags: 'arroz, levadura'
 actualPrice: 13.82 EUR
 currency: EUR
 price: 13.82

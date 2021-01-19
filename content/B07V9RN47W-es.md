@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ESozlA+SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9RN47W-es'
+slug: 'B07V9RN47W-es Cepillo de dientes eléctrico Ctbd Cepillo de dientes...'
+tags: 'cepillo de dientes'
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

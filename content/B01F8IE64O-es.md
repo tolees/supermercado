@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ssQXaQQiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F8IE64O-es'
+slug: 'B01F8IE64O-es Desodorante en barra antitranspirante Dove Plus Care. Para...'
+tags: 'desodorante, dove'
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

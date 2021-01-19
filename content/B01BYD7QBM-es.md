@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51E85ma6ZwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BYD7QBM-es'
+slug: 'B01BYD7QBM-es Oral-B Genius 8000N Cepillo de Dientes Eléctrico...'
+tags: 'cepillo de dientes'
 actualPrice: 127.68 EUR
 currency: EUR
 price: 127.68

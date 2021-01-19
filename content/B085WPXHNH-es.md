@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51r4XECsB3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085WPXHNH-es'
+slug: 'B085WPXHNH-es Dispensador de jabón Triency dispensador de líquidos 350...'
+tags: 'jabón'
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

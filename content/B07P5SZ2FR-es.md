@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sSm7XzuiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5SZ2FR-es'
+slug: 'B07P5SZ2FR-es Sunburst Snacks Sunburst anacardos de miel y canela asadas...'
+tags: 'canela'
 actualPrice: 24.59 EUR
 currency: EUR
 price: 24.59

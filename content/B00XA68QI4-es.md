@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yql3ZrI0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XA68QI4-es'
+slug: 'B00XA68QI4-es Ariel Original Detergente en polvo 70 lavados 4.550 kg'
+tags: 'detergente'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

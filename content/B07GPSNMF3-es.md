@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YHzHUejRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GPSNMF3-es'
+slug: 'B07GPSNMF3-es Vileda Turbo - Juego de fregona con palo telescópico +...'
+tags: 'fregona'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

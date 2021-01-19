@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v6ORB6yRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2QN7CD-es'
+slug: 'B07H2QN7CD-es Smint Caramelo Comprimido Sin Azúcar Tin Con Sabor A Fresa...'
+tags: 'azúcar, smint'
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fN+XGJ8nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KEUR8HE-es'
+slug: 'B00KEUR8HE-es Friskies - Shapes Snack Perro 800 g'
+tags: 'friskies'
 actualPrice: 2.91 EUR
 currency: EUR
 price: 2.91

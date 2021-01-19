@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CBtwR6e7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078ZZD3JB-es'
+slug: 'B078ZZD3JB-es TRESemmé Champú en Seco Fresco y Limpio - Paquete de 3 x...'
+tags: 'champú, tresemmé'
 actualPrice: 15.57 EUR
 currency: EUR
 price: 15.57

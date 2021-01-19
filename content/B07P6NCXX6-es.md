@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cB-1AdXYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6NCXX6-es'
+slug: 'B07P6NCXX6-es Gliss - Champú Fiber Therapy para cabello sobreprocesado...'
+tags: 'schwarzkopf, champú'
 actualPrice: 13.56 EUR
 currency: EUR
 price: 13.56

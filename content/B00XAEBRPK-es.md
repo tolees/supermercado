@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51pPRfLauFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAEBRPK-es'
+slug: 'B00XAEBRPK-es Colon Detergente para Ropa en Polvo Formato Profesional -...'
+tags: 'detergente'
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

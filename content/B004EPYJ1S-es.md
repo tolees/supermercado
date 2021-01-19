@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51N9Ku--RFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004EPYJ1S-es'
+slug: 'B004EPYJ1S-es Scitec Nutrition Whey Protein Professional Proteína Fresa...'
+tags: 'chocolate'
 actualPrice: 66.5 EUR
 currency: EUR
 price: 66.5

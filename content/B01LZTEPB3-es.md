@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BeCZ7sLgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZTEPB3-es'
+slug: 'B01LZTEPB3-es Garnier Original Remedies Champú Arcilla y Limón -25 cl'
+tags: 'garnier, champú'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

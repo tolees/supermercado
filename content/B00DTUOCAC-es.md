@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Rx4Y-rHSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DTUOCAC-es'
+slug: 'B00DTUOCAC-es Oro de Cánava Aceite de Oliva Virgen Extra Premium de Jaén...'
+tags: 'aceite de oliva, virgen extra'
 actualPrice: 14.78 EUR
 currency: EUR
 price: 14.78

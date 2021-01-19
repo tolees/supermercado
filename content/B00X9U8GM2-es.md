@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413W3veJMmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9U8GM2-es'
+slug: 'B00X9U8GM2-es Garnier Delial UV Sport Bruma Protectora SPF50 - 200 ml'
+tags: 'garnier'
 actualPrice: 8.78 EUR
 currency: EUR
 price: 8.78

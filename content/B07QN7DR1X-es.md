@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51IUKea2UXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QN7DR1X-es'
+slug: 'B07QN7DR1X-es Rexona Desodorante Antitranspirante Invisible On...'
+tags: 'desodorante'
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

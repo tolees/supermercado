@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412tHRJ81qL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LTHWTII-es'
+slug: 'B01LTHWTII-es Scottex - Pañuelos Suaves y Resistentes 4 Capas 6 Paquetes...'
+tags: 'scottex'
 actualPrice: 8.81 EUR
 currency: EUR
 price: 8.81

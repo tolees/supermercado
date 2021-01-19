@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Eqtql-BsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EPDJ0W2-es'
+slug: 'B00EPDJ0W2-es Oral-B Pro 600 3D White - Cepillo de Dientes Eléctrico con...'
+tags: 'cepillo de dientes'
 actualPrice: 25.83 EUR
 currency: EUR
 price: 25.83

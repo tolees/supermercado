@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UnIgepo+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081SGSCG9-es'
+slug: 'B081SGSCG9-es GoMaihe Tarro de Vidrio de Almacenamiento 3Pcs Tarros de...'
+tags: 'café, conservas'
 actualPrice: 23.69 EUR
 currency: EUR
 price: 23.69

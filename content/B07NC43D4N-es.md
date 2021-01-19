@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jqm8DvqDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC43D4N-es'
+slug: 'B07NC43D4N-es AXE Desodorante Bodyspray Dark Temptation - Pack de 3 x...'
+tags: 'axe, desodorante'
 actualPrice: 8.57 EUR
 currency: EUR
 price: 8.57

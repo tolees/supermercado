@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sCuhHz9iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PS642TW-es'
+slug: 'B07PS642TW-es Croc Odor Desodorante Frigorifico Grande XL 140g Pack de 3...'
+tags: 'desodorante'
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

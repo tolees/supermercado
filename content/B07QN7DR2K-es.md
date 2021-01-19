@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41oZT5tUyGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QN7DR2K-es'
+slug: 'B07QN7DR2K-es Love Beauty and Planet Gel de Ducha refrescante Agua de...'
+tags: 'gel de ducha'
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

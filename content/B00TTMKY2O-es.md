@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512SFxy5tvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TTMKY2O-es'
+slug: 'B00TTMKY2O-es Tampax Tampones Compak Regular - 22 unidades'
+tags: 'tampax'
 actualPrice: 3.23 EUR
 currency: EUR
 price: 3.23

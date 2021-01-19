@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MXZ0KqDsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJRYSTF-es'
+slug: 'B07HJRYSTF-es LUCIFER S ROAST Espresso de KIQO de Italia - 1kg café...'
+tags: 'café'
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

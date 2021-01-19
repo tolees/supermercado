@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YGxzz5O8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDCQ682-es'
+slug: 'B06XDCQ682-es Vileda 139460 Salvauñas - 2 Unidades'
+tags: 'salvauñas'
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

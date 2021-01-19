@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41twTczEN3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F6D6ZCM-es'
+slug: 'B07F6D6ZCM-es Bandeja de Té de Madera Rectangular para Café Plato de...'
+tags: 'café'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

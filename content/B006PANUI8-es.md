@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jg0i5kxeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006PANUI8-es'
+slug: 'B006PANUI8-es Revlon ColorStay 16H Sombra de Ojos #505 Decadent'
+tags: 'revlon'
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

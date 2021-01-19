@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yYajIgAXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LCV7BMU-es'
+slug: 'B01LCV7BMU-es Kellogg s Extra Chocolate belga y Avellanas Granolas- 375 g'
+tags: 'kellogg, chocolate'
 actualPrice: 2.56 EUR
 currency: EUR
 price: 2.56

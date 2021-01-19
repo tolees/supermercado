@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WENm76JGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HXGTZ73-es'
+slug: 'B07HXGTZ73-es Marca Amazon - Lifelong Complete- Alimento seco completo...'
+tags: 'arroz'
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

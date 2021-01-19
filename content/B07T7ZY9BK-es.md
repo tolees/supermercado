@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51A0xJh8HfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T7ZY9BK-es'
+slug: 'B07T7ZY9BK-es Marcilla Espresso Intenso Cápsulas de café - 3 paquetes x...'
+tags: 'café, marcilla, cápsulas de café'
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

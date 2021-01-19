@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sMAduDGjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKQ9CLN-es'
+slug: 'B07ZKQ9CLN-es Herbal Essences Daily Detox Brillo Con Té Blanco Y Menta...'
+tags: 'champú'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

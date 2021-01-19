@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XGv-KncVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9ZEHCK-es'
+slug: 'B00X9ZEHCK-es Nivea Sun Spray Solar Niños Protege Juega FP50+ 1 x 300 ml...'
+tags: 'nivea'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

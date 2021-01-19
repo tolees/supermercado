@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FHDy-gLGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IMJ5JAW-es'
+slug: 'B00IMJ5JAW-es Elizabeth Arden Green Tea Honey Drops Body Crema - 500 ml'
+tags: 'elizabeth arden'
 actualPrice: 23.78 EUR
 currency: EUR
 price: 23.78

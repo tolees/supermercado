@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41v2x7ZslWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXW2TSW-es'
+slug: 'B07NXW2TSW-es La Parroquia de Veracruz - Bolsa Café Molido Tradicional...'
+tags: 'café, chocolate'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

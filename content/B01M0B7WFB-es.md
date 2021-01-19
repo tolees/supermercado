@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pmfgPZm+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0B7WFB-es'
+slug: 'B01M0B7WFB-es Haribo Gummy Beans Caramelos Grageados - 1 Kg'
+tags: 'haribo'
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

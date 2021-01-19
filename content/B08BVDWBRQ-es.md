@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bP2dJ079L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BVDWBRQ-es'
+slug: 'B08BVDWBRQ-es Vanish Vanish Oxi Advance - Quitamanchas Para La Ropa...'
+tags: 'lejía'
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

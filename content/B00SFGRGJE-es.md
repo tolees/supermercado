@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31TNdMCCiuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SFGRGJE-es'
+slug: 'B00SFGRGJE-es iRobot Scooba 4416470 - Detergente Líquido Concentrado...'
+tags: 'detergente'
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

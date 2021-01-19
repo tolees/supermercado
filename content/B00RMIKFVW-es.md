@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51H5vmsyq9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RMIKFVW-es'
+slug: 'B00RMIKFVW-es Gillette Fusion5 ProGlide Power - Recambio de Maquinilla...'
+tags: 'gillette'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

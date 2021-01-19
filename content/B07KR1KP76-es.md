@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-wJajI7gL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR1KP76-es'
+slug: 'B07KR1KP76-es VVVVANKER DIY Resina Helado Sundae Taza de café Miniatura...'
+tags: 'café'
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

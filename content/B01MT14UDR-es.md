@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412qVyqFiuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT14UDR-es'
+slug: 'B01MT14UDR-es L Oréal Paris Men Expert After Shave Reparador...'
+tags: 'oréal'
 actualPrice: 4.94 EUR
 currency: EUR
 price: 4.94

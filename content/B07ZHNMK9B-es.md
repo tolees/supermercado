@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41moJcvMOuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHNMK9B-es'
+slug: 'B07ZHNMK9B-es NIVEA Hyaluron Cellular Filler pack tratamiento...'
+tags: 'nivea'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

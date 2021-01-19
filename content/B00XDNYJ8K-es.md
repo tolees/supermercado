@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hiE-ZR7PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XDNYJ8K-es'
+slug: 'B00XDNYJ8K-es Lindt - Lindor Leche Singles 100 g'
+tags: 'lindt'
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

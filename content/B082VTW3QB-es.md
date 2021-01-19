@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-KkydT9oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VTW3QB-es'
+slug: 'B082VTW3QB-es Café FORTALEZA - Cápsulas de Café Etiopia Compatibles con...'
+tags: 'café, fortaleza, cápsulas de café, dolce gusto'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415BvN4+DiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004EPYIXW-es'
+slug: 'B004EPYIXW-es Scitec Whey Protein Professional Mezcla de Proteína de...'
+tags: 'chocolate'
 actualPrice: 42.9 EUR
 currency: EUR
 price: 42.9

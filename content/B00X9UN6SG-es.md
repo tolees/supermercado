@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rqJaTXhCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9UN6SG-es'
+slug: 'B00X9UN6SG-es Licor del Polo - Pasta de Dientes 2 en 1 Menta Fresca - 75 ml'
+tags: 'pasta de dientes'
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

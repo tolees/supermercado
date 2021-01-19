@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4189raOdn+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075YSMXN9-es'
+slug: 'B075YSMXN9-es Cúrcuma 4600mg Extracto Certificado 120 cápsulas con...'
+tags: 'cúrcuma'
 actualPrice: 13.58 EUR
 currency: EUR
 price: 13.58

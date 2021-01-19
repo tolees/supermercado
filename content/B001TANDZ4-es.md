@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WOZu6ziyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001TANDZ4-es'
+slug: 'B001TANDZ4-es Kerastase U-HC-5074 Specifique Champú cabello sensible...'
+tags: 'champú'
 actualPrice: 35.45 EUR
 currency: EUR
 price: 35.45

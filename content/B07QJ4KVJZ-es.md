@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31U-fxtJpAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ4KVJZ-es'
+slug: 'B07QJ4KVJZ-es L Oréal Paris Magic Retouch Spray Retoca Raíces y Canas...'
+tags: 'oréal'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

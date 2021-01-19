@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411bztdwZvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SG9CL4A-es'
+slug: 'B00SG9CL4A-es NIVEA Hyaluron Cellular Filler Serum Facial Renovador...'
+tags: 'nivea'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

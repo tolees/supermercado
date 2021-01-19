@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uqvFyIYkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMQDTGT-es'
+slug: 'B07KMQDTGT-es L Oréal Paris Rouge Signature 113 I Don t Pintalabios Mate...'
+tags: 'oréal'
 actualPrice: 7.75 EUR
 currency: EUR
 price: 7.75

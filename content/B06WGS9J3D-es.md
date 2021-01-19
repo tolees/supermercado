@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lvEW4IIoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WGS9J3D-es'
+slug: 'B06WGS9J3D-es LITORAL Cocido Madrileño - Plato Preparado Sin Gluten -...'
+tags: 'litoral, plato preparado, sin gluten'
 actualPrice: 10.14 EUR
 currency: EUR
 price: 10.14

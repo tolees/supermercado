@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31edcVvbFBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B003X35YWA-es'
+slug: 'B003X35YWA-es Uhlsport Team Pro Essential Medias de Equipaciones Sin...'
+tags: 'maíz'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

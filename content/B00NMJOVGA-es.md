@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GyCROZiXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NMJOVGA-es'
+slug: 'B00NMJOVGA-es Batiste Oriental Pretty & Opulent Dry Shampoo Champú - 200 ml'
+tags: 'champú'
 actualPrice: 2.89 EUR
 currency: EUR
 price: 2.89

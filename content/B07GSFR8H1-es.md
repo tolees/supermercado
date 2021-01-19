@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-kcngbsyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSFR8H1-es'
+slug: 'B07GSFR8H1-es NIVEA Creme en pack de 4 4 x 400 ml crema hidratante de...'
+tags: 'nivea, crema hidratante'
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

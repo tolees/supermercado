@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51z0geJ+H5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRKR5GI-es'
+slug: 'B01MRKR5GI-es Yamazakura Whisky - 700 ml'
+tags: 'whisky'
 actualPrice: 42.1 EUR
 currency: EUR
 price: 42.1

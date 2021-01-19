@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oc8X-xRCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NR6RWY-es'
+slug: 'B089NR6RWY-es Beeasy Dispensador Jabón Automático 400mL Dosificador Gel...'
+tags: 'jabón, hidroalcohólico'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aFON9uFzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BMCC3QN-es'
+slug: 'B07BMCC3QN-es NIVEA MEN Active Clean Champú para hombre para una...'
+tags: 'nivea, champú'
 actualPrice: 21.47 EUR
 currency: EUR
 price: 21.47

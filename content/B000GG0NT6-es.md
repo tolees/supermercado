@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21-hZcnDlfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GG0NT6-es'
+slug: 'B000GG0NT6-es American Crew Classic Champú Hidratante Diario 1000 ml'
+tags: 'american crew, champú'
 actualPrice: 14.83 EUR
 currency: EUR
 price: 14.83

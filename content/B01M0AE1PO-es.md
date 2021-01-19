@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-b57BGilL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0AE1PO-es'
+slug: 'B01M0AE1PO-es LITORAL Fabada Asturiana Plato Preparado de Fabada...'
+tags: 'fabada, litoral, plato preparado, sin gluten'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

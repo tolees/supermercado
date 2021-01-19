@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wBfw9FQpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTSK2BB-es'
+slug: 'B07TTSK2BB-es GOTOTO - Juego de fregona y fregona de Vapor Plana Cubo...'
+tags: 'fregona'
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

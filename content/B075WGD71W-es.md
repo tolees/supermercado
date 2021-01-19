@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31gbNjoPQ%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B075WGD71W-es'
+slug: 'B075WGD71W-es Hugo Boss Man Desodorante Spray 1er Pack 1 x 150 ml'
+tags: 'desodorante'
 actualPrice: 17.71 EUR
 currency: EUR
 price: 17.71

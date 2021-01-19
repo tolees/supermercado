@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HBbm9XMpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXL39I7-es'
+slug: 'B01MXL39I7-es L Oréal Paris Colorista Coloración Temporal Colorista...'
+tags: 'oréal'
 actualPrice: 0.5 EUR
 currency: EUR
 price: 0.5

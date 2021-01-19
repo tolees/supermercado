@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GopwB9yBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TPLX8GI-es'
+slug: 'B00TPLX8GI-es L Oréal Paris Excellence Creme Tinte Tono 6.1 Rubio Oscuro...'
+tags: 'oréal'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

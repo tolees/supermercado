@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41os0EmG3yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T4SJFD2-es'
+slug: 'B00T4SJFD2-es Balvi Bote Cocina Cucina Color Blanco Recipiente de Cocina...'
+tags: 'arroz'
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

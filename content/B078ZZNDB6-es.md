@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M7479Z5uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078ZZNDB6-es'
+slug: 'B078ZZNDB6-es TRESemmé Champú Repara y Fortalece - Paquete de 3 x 700 ml...'
+tags: 'champú, tresemmé'
 actualPrice: 14.73 EUR
 currency: EUR
 price: 14.73

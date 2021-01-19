@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31o+0yWFKmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2DJTQ9-es'
+slug: 'B07H2DJTQ9-es MICHLEY Irrompible Copas de Vino Tinto 100% Tritan-...'
+tags: 'vino tinto'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

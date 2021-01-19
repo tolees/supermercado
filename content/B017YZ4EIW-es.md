@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Q9o7OuPrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B017YZ4EIW-es'
+slug: 'B017YZ4EIW-es Tassimo Hot Choco Bundle Cápsulas - Cadbury Oreo Milka...'
+tags: 'milka'
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

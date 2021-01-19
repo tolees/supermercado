@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+ImQyP0UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLNJWCF-es'
+slug: 'B08BLNJWCF-es XILOSIN El Papel de arroz Blanco de la caligrafía China de...'
+tags: 'arroz'
 actualPrice: 4.63 EUR
 currency: EUR
 price: 4.63

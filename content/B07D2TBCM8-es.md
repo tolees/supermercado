@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kfRMheFuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2TBCM8-es'
+slug: 'B07D2TBCM8-es New Look Wide Foot Petal Sandalias con Punta Abierta para...'
+tags: 'oatmeal'
 actualPrice: 6.27 EUR
 currency: EUR
 price: 6.27

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XAZ7ScrGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004EAIWMA-es'
+slug: 'B004EAIWMA-es Sipsmith London Dry Gin Ginebra 41.6% -700 ml'
+tags: 'ginebra'
 actualPrice: 29.17 EUR
 currency: EUR
 price: 29.17

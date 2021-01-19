@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318uut5KOlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S86GTTT-es'
+slug: 'B07S86GTTT-es Braun Oral-B Genius PRO9000 Cepillo de Dientes Color Negro'
+tags: 'cepillo de dientes'
 actualPrice: None None
 currency: None
 price: None

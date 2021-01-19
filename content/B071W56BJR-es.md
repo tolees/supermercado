@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KoZT4PGnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071W56BJR-es'
+slug: 'B071W56BJR-es Premium Whisky Stones Gift Set de Amerigo- ¿Aguar tu...'
+tags: 'whisky'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fp7lOKa6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZ1QH61-es'
+slug: 'B07MZ1QH61-es Relaxdays Set de 500 Palitos Helado Palos Manualidades...'
+tags: 'café'
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

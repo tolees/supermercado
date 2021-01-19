@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21Tqj2yXGZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQ39VLL-es'
+slug: 'B07CQ39VLL-es Xiaomi – 6970244529329 – Mi cepillo de dientes...'
+tags: 'cepillo de dientes'
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HSBoJp0kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V4ZE1BE-es'
+slug: 'B00V4ZE1BE-es Neutrogena Bálsamo Corporal Reparación Intensa - 2...'
+tags: 'neutrogena'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

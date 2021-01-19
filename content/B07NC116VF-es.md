@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4184UoF60lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC116VF-es'
+slug: 'B07NC116VF-es AXE Marine - Desodorante Bodyspray para hombre 48 horas de...'
+tags: 'axe, desodorante'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

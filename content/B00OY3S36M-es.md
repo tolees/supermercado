@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RiDPAweZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OY3S36M-es'
+slug: 'B00OY3S36M-es Sancarlos Relleno Nórdico Mistral con Microgel Tacto Piel...'
+tags: 'melocotón'
 actualPrice: 39.38 EUR
 currency: EUR
 price: 39.38

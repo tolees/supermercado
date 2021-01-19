@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511x792KVUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZWMXV3-es'
+slug: 'B079ZWMXV3-es ITECHNIK Cabezal de Recambio Para oral-b cepillo de...'
+tags: 'cepillo de dientes'
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

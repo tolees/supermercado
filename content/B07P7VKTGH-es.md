@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CepEjLuiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7VKTGH-es'
+slug: 'B07P7VKTGH-es Axe Dark Temptation Pack Duplo Ahorro - 2 Paquetes de 2 x...'
+tags: 'axe'
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

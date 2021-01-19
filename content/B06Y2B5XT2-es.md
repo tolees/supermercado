@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G4eUBU-HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2B5XT2-es'
+slug: 'B06Y2B5XT2-es Cidacos Extra Alubias Enlatadas - 570 g'
+tags: 'cidacos'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316BCVvyinL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001TOGQKO-es'
+slug: 'B001TOGQKO-es Marques De Riscal Reserva - Vino Tinto Botella de 0.75 L'
+tags: 'vino tinto'
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

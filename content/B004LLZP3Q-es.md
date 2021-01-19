@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CyX0ZEaRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004LLZP3Q-es'
+slug: 'B004LLZP3Q-es Hendrick s - Ginebra Botella 700 ml'
+tags: 'ginebra'
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416UlYAJJKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071X9DZFC-es'
+slug: 'B071X9DZFC-es Schwarzkopf Root Retoucher - Coloración del Cabello Negro...'
+tags: 'schwarzkopf'
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61EnHgvAPuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y17N7XT-es'
+slug: 'B06Y17N7XT-es Gillette Venus Snap Recambios para Maquinilla'
+tags: 'gillette'
 actualPrice: 7.86 EUR
 currency: EUR
 price: 7.86

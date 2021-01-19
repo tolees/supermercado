@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XVUqvoQ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0768SSBJY-es'
+slug: 'B0768SSBJY-es L Oréal Paris Men Expert - Barber Club Aceite hidratante...'
+tags: 'oréal'
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

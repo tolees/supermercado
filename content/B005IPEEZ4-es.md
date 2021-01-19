@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zRXIPdq+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005IPEEZ4-es'
+slug: 'B005IPEEZ4-es Dr. Schar - Pan payés de trigo sarraceno SIN GLUTEN - 240 gr'
+tags: 'trigo, pan payés, sin gluten'
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

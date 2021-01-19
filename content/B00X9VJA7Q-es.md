@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fsa+xiqVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9VJA7Q-es'
+slug: 'B00X9VJA7Q-es Micolor Detergente Líquido Colores Vivos - 40 Lavados 2 L'
+tags: 'detergente'
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

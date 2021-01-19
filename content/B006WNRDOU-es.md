@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413R9T7wBhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006WNRDOU-es'
+slug: 'B006WNRDOU-es Grohe - Dispensador de jabón estilo Contemporáneo color...'
+tags: 'jabón'
 actualPrice: 37.44 EUR
 currency: EUR
 price: 37.44

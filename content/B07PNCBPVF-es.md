@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNCBPVF-es'
+slug: 'B07PNCBPVF-es Vermouth La Copa Extra Seco - 3 botellas x 750 ml - Total:...'
+tags: 'vermouth'
 actualPrice: 34.41 EUR
 currency: EUR
 price: 34.41

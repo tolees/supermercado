@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Onkp204QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HQ435GS-es'
+slug: 'B01HQ435GS-es Bolero Bebida Instantánea sin Azúcar Sabor Mango - Paquete...'
+tags: 'azúcar'
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

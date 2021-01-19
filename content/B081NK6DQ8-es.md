@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311fsfGtRFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081NK6DQ8-es'
+slug: 'B081NK6DQ8-es Lactacyd Gel Lubricante Íntimo - Favorece Tus Relaciones...'
+tags: 'lactacyd'
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418J-zLRbWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CXCJ63M-es'
+slug: 'B07CXCJ63M-es Garnier Skin Active Gelatina Hidratante para el Rostro...'
+tags: 'garnier'
 actualPrice: 12.22 EUR
 currency: EUR
 price: 12.22

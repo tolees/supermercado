@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qUWjuD7CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7RL85G-es'
+slug: 'B01K7RL85G-es Nestlé Purés Tarrito de puré de verduras y carne variedad...'
+tags: 'nestlé'
 actualPrice: None None
 currency: None
 price: None

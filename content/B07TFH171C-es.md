@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vfjM3Fx6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFH171C-es'
+slug: 'B07TFH171C-es [Nueva versión] LEDGLE Cortina Luces LED Fairy String...'
+tags: 'fairy'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

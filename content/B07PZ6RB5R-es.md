@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C7MOStXIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZ6RB5R-es'
+slug: 'B07PZ6RB5R-es Maybelline New York - Superstay Matte Ink Pintalabios Mate...'
+tags: 'maybelline'
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

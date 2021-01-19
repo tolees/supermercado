@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mFsVDoyHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WPWMSY8-es'
+slug: 'B07WPWMSY8-es Bolsa impermeable y reutilizable para la merienda comida...'
+tags: 'frutos secos'
 actualPrice: 15 EUR
 currency: EUR
 price: 15

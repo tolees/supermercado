@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZagttWn4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X04EJYQ-es'
+slug: 'B00X04EJYQ-es BSN Nutrition Syntha 6 Edge Whey Protein Isolate Proteinas...'
+tags: 'chocolate'
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

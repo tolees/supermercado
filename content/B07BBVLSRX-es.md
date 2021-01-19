@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+2zKhhYUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BBVLSRX-es'
+slug: 'B07BBVLSRX-es Pendientes con forma de pera de ópalo y diamante en plata...'
+tags: 'pera'
 actualPrice: 66.71 EUR
 currency: EUR
 price: 66.71

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u8F+VqEdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S622MTR-es'
+slug: 'B07S622MTR-es Silk n ToothWave Blanco - Cepillo de dientes eléctrico...'
+tags: 'cepillo de dientes'
 actualPrice: 200.96 EUR
 currency: EUR
 price: 200.96

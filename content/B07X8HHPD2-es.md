@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UfZW+IeHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8HHPD2-es'
+slug: 'B07X8HHPD2-es Aceite de oliva de autor | Virgen extra ecológico...'
+tags: 'arbequina, aceite de oliva, virgen extra'
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

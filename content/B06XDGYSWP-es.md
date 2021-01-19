@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sBMMeetZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDGYSWP-es'
+slug: 'B06XDGYSWP-es Garnier Skin Active - Pure Active Sensitive Limpiador de...'
+tags: 'garnier, jabón'
 actualPrice: 4.85 EUR
 currency: EUR
 price: 4.85

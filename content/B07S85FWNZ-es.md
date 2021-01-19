@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419TF9TTG2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S85FWNZ-es'
+slug: 'B07S85FWNZ-es Café en Grano Natural 100% 1kg - Para Estar Despierto -...'
+tags: 'café'
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

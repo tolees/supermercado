@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TVDvpwRHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L35MG3D-es'
+slug: 'B07L35MG3D-es WiPP Express Detergente Liquido 31 Dosis Paquete de 4...'
+tags: 'detergente'
 actualPrice: 29.13 EUR
 currency: EUR
 price: 29.13

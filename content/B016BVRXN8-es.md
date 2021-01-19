@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RT48DHmoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016BVRXN8-es'
+slug: 'B016BVRXN8-es Lagunilla Reserva Vino Tinto Reserva D.O Rioja - 3...'
+tags: 'vino tinto'
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Q6GLuhuUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B876SPO-es'
+slug: 'B01B876SPO-es Gillette Mach3 Turbo Maquinilla de Afeitar'
+tags: 'gillette'
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

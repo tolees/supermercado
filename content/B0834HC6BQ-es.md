@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+CAFNfE9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0834HC6BQ-es'
+slug: 'B0834HC6BQ-es Planetacase Taza Padrino - Aquí Bebe Un Super Padrino -...'
+tags: 'café'
 actualPrice: None None
 currency: None
 price: None

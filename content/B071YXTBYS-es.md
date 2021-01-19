@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41lUMjw0BbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071YXTBYS-es'
+slug: 'B071YXTBYS-es Purina Gourmet Crystal Soup comida para gatos con Pollo...'
+tags: 'purina'
 actualPrice: 23.04 EUR
 currency: EUR
 price: 23.04

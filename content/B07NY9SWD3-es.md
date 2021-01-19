@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pc3O400wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY9SWD3-es'
+slug: 'B07NY9SWD3-es Control Lub Aloe - Gel lubricante de aloe y aroma a jazmín...'
+tags: 'azúcar'
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

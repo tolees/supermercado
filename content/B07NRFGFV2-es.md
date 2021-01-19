@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HMRqUYeBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRFGFV2-es'
+slug: 'B07NRFGFV2-es Gliss - Oil Elixir Diario - Aceite Capilar Nutrición y...'
+tags: 'schwarzkopf'
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

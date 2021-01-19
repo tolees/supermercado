@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UkmZAH95L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCDJ91C-es'
+slug: 'B07JCDJ91C-es Syoss Champú Color Tech - con Tecnología selladora del...'
+tags: 'champú'
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jzgykVzsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XABGDFC-es'
+slug: 'B00XABGDFC-es NESCAFÉ 3 en 1 | Bolsa de Café | Paquete de 10x18g'
+tags: 'café, nescafé'
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

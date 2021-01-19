@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31S5c%2BCASbL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y657SBZ-es'
+slug: 'B06Y657SBZ-es Neutrogena Hydro Boost Aqua Gel Piel Normal Y Mixta - 50 ml.'
+tags: 'neutrogena'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

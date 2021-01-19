@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X3N4BVK-es'
+slug: 'B00X3N4BVK-es Optimum Nutrition Pro BCAA Suplemento para Deportistas...'
+tags: 'melocotón'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

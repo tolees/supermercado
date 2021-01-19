@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Y5HhAuYZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L54L7ZD-es'
+slug: 'B07L54L7ZD-es Consuelo - cápsulas de café compatibles con Nespresso* -...'
+tags: 'café, cápsulas de café'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

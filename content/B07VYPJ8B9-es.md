@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oaKS4dK+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VYPJ8B9-es'
+slug: 'B07VYPJ8B9-es Hoomtaook Estanteria Baño Para Esquinas de Baño Ducha No...'
+tags: 'jabón'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

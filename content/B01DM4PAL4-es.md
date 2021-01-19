@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jSjcywL2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DM4PAL4-es'
+slug: 'B01DM4PAL4-es Pack 3 recargas de materias primas para elaborar cerveza...'
+tags: 'cerveza, trigo'
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JCW52baAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003RK9YUM-es'
+slug: 'B003RK9YUM-es Martín Códax - Vino Blanco 75 cl'
+tags: 'vino blanco'
 actualPrice: 10.06 EUR
 currency: EUR
 price: 10.06

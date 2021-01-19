@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z7b3a7kyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCNVY3F-es'
+slug: 'B07GCNVY3F-es RREN-Faucet Versión extendida de la grifería de Doble...'
+tags: 'fregona'
 actualPrice: 35.2 EUR
 currency: EUR
 price: 35.2

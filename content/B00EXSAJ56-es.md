@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313etbc042L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EXSAJ56-es'
+slug: 'B00EXSAJ56-es Neutrogena Blackhead Eliminating Tónico Limpiador - 200 ml'
+tags: 'neutrogena'
 actualPrice: 13.1 EUR
 currency: EUR
 price: 13.1

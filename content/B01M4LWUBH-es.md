@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51w%2B5zLEL9L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M4LWUBH-es'
+slug: 'B01M4LWUBH-es VERNEL Suavizante Concentrado Azul Botella 57 lavados...'
+tags: 'suavizante, vernel'
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

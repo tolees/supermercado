@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rQ8iY2jaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078Y9PBX4-es'
+slug: 'B078Y9PBX4-es CLA - Ácido Linoleico Conjugado | 1000mg x 200 perlas |...'
+tags: 'sin gluten'
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

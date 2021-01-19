@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GTslTEUkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC1Q1RZ-es'
+slug: 'B07WC1Q1RZ-es Slendier Pasta Konjac Noodle sin Gluten Bio 400g Caja 6...'
+tags: 'sin gluten'
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

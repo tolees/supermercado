@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UtiDZnZNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZSKL74-es'
+slug: 'B077ZSKL74-es Alargador de antena N Macho a SMA macho Enchufe 5 m RG58...'
+tags: 'jamón'
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G8aKDO7zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008HKLWAM-es'
+slug: 'B008HKLWAM-es Seagram s Dry Ginebra Premium - 700 ml'
+tags: 'ginebra'
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

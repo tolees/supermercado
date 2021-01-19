@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eimMeczWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H44QZ4V-es'
+slug: 'B07H44QZ4V-es Air Wick Essential Mist Recambio Ambientador Lavanda - 1...'
+tags: 'air wick'
 actualPrice: 4.56 EUR
 currency: EUR
 price: 4.56

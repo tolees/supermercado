@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4137alBsM6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009LHA0WQ-es'
+slug: 'B009LHA0WQ-es Max Factor Translucent Professional Maquillaje en polvo...'
+tags: 'max factor'
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

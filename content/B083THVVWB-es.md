@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yHPnKCR1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B083THVVWB-es'
+slug: 'B083THVVWB-es Mumiumius Taza de Dientes/Taza de Cepillo de Dientes...'
+tags: 'café, cepillo de dientes'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CN0Br9NhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008LTT8V4-es'
+slug: 'B008LTT8V4-es L Oréal Paris Barra de Labios Color Riche Creme 297 lntense'
+tags: 'oréal'
 actualPrice: 5.66 EUR
 currency: EUR
 price: 5.66

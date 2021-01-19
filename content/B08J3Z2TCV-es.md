@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ylz-tKDyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08J3Z2TCV-es'
+slug: 'B08J3Z2TCV-es BNKR BEER Brew&Share | Kit para Hacer Cerveza Blond Bio...'
+tags: 'cerveza'
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

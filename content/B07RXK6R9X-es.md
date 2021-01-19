@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lWJDteiAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXK6R9X-es'
+slug: 'B07RXK6R9X-es Johnson s Baby Baño Suave Jabón Líquido Suave y Delicado...'
+tags: 'jabón'
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

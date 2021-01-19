@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p2EBMIauL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XA7HCU6-es'
+slug: 'B00XA7HCU6-es Marcilla Gran Aroma Café Molido Descafeinado Natural - 200 gr'
+tags: 'café, descafeinado, marcilla'
 actualPrice: 2.33 EUR
 currency: EUR
 price: 2.33

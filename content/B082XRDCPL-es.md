@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+qepyvTnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XRDCPL-es'
+slug: 'B082XRDCPL-es L Oreal Paris Make-up Designer Maybelline New York Brow...'
+tags: 'maybelline'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

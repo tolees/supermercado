@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51H+NcMl6qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084XR1QJ3-es'
+slug: 'B084XR1QJ3-es Ymea Silueta| Tratamiento de la Menopausia | Doble acción...'
+tags: 'soja'
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

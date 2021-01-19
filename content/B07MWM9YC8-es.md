@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tlzvd43hL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MWM9YC8-es'
+slug: 'B07MWM9YC8-es Exquisite Gaming MMFTMR300024 Meta Merch - Taza de café...'
+tags: 'café'
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

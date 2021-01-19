@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zF0KpCC9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDR65DX-es'
+slug: 'B07QDR65DX-es L Oreal Paris Elvive Arcilla Extraordinaria Champú Cuidado...'
+tags: 'champú'
 actualPrice: 10.73 EUR
 currency: EUR
 price: 10.73

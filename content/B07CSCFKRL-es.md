@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PojUDlJVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CSCFKRL-es'
+slug: 'B07CSCFKRL-es Chytaii Delantal cocina Delantal vaquero para mujer y...'
+tags: 'café'
 actualPrice: 3.11 EUR
 currency: EUR
 price: 3.11

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iRToytSrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP4TLCS-es'
+slug: 'B07DP4TLCS-es Neutrogena Hydro Boost Loción Corporal En Gel - 750 ml.'
+tags: 'neutrogena'
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

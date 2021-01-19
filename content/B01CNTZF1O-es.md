@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oUDvZL+6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CNTZF1O-es'
+slug: 'B01CNTZF1O-es Borges Natura - Cocktail Frutos Secos de nueces de...'
+tags: 'frutos secos'
 actualPrice: 2.42 EUR
 currency: EUR
 price: 2.42

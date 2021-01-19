@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q2ONEw76L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015GYQZMQ-es'
+slug: 'B015GYQZMQ-es L Oréal Paris Accord Parfait Base de maquillaje acabado...'
+tags: 'oréal'
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51J0Xem-hPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFY1TLP-es'
+slug: 'B07MFY1TLP-es Fairy Platinum Plus Cápsulas para Lavavajillas Elimina...'
+tags: 'fairy'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

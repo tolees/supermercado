@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61MINExXtXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TTX2F7U-es'
+slug: 'B00TTX2F7U-es Fontactiv Forte Chocolate - 14 Sobres de 30gr'
+tags: 'chocolate'
 actualPrice: 10.92 EUR
 currency: EUR
 price: 10.92

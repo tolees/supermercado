@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YK3CoGF8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079R7QLRV-es'
+slug: 'B079R7QLRV-es PEKITAS Muselinas Pack de 3 | Mantas de Muselina 100%...'
+tags: 'café'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d+xumjZUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TPRRDW-es'
+slug: 'B077TPRRDW-es Puleva Leche Ecológica Semidesnatada - Paquete de 6 x 1000...'
+tags: 'puleva'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

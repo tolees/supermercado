@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vDjswemiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XA8LKVC-es'
+slug: 'B00XA8LKVC-es Aceite de oliva virgen extra carbonell gran selección 0 75...'
+tags: 'carbonell, aceite de oliva, virgen extra'
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

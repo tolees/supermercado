@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YWHO-qe6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016QBJGGU-es'
+slug: 'B016QBJGGU-es Vino Tinto Mencía D.O. Bierzo 750ml'
+tags: 'vino tinto'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

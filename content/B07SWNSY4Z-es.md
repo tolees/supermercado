@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Q6Za1CUuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWNSY4Z-es'
+slug: 'B07SWNSY4Z-es Grefusa 109996 Mezcla de Productos de Aperitivos Horneados...'
+tags: 'grefusa, queso'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

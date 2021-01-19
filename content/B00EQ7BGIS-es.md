@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Atj49m8+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EQ7BGIS-es'
+slug: 'B00EQ7BGIS-es Klorane Shampoo with Nettle Mujeres No profesional Champú...'
+tags: 'champú'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

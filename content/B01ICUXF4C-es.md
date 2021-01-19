@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k8A7DNoDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ICUXF4C-es'
+slug: 'B01ICUXF4C-es Elifexir Esenciall | Piel Canela | 40 Cápsulas para un...'
+tags: 'canela'
 actualPrice: 14.56 EUR
 currency: EUR
 price: 14.56

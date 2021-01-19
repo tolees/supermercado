@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412ZvU519DL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HD5AG9Y-es'
+slug: 'B01HD5AG9Y-es Lagarto Jabón Natural - Paquete de 40 x 400 gr - Total:...'
+tags: 'jabón'
 actualPrice: 38.02 EUR
 currency: EUR
 price: 38.02

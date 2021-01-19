@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VM7lbyI0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010UMO3V4-es'
+slug: 'B010UMO3V4-es Maybelline Barra de Labios Hidratante Mate Color...'
+tags: 'maybelline'
 actualPrice: 4.05 EUR
 currency: EUR
 price: 4.05

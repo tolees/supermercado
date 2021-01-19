@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513rlZFqHpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EF2MM4Q-es'
+slug: 'B00EF2MM4Q-es Beefeater Burrough s Reserve Ginebra - 700 ml'
+tags: 'ginebra'
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

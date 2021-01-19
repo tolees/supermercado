@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-R8MNRs1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0VJ05X-es'
+slug: 'B01N0VJ05X-es Air Wick Ambientador Freshmatic Completo Delicias de...'
+tags: 'air wick'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

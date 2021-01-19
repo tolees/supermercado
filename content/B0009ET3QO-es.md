@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317QKVHcqkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009ET3QO-es'
+slug: 'B0009ET3QO-es American Crew Gel Spray Fijación Media 250ml'
+tags: 'american crew'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

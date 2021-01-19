@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hLuxGv+-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBKVS36-es'
+slug: 'B07JBKVS36-es Suplemento Para Articulaciones Vegavero® | 100% VEGETAL |...'
+tags: 'cebolla, cúrcuma, jengibre'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

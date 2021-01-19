@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21+n+3XtkAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071Z56SNW-es'
+slug: 'B071Z56SNW-es Neutrogena - Hidratación profunda spray corporal express...'
+tags: 'neutrogena'
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

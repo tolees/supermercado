@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PcdMyQCXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9JHLVP-es'
+slug: 'B07L9JHLVP-es Caja de Paternina Reserva D.O. Rioja Vino tinto - 6...'
+tags: 'vino tinto'
 actualPrice: 31.82 EUR
 currency: EUR
 price: 31.82

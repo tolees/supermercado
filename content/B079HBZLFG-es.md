@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TZpNvpaZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079HBZLFG-es'
+slug: 'B079HBZLFG-es Philips Sonicare ProtectiveClean HX6856/17 - Cepillo de...'
+tags: 'cepillo de dientes'
 actualPrice: 92.99 EUR
 currency: EUR
 price: 92.99

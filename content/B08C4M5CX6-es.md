@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cmMRhmqUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C4M5CX6-es'
+slug: 'B08C4M5CX6-es Cepillo de dientes eléctrico tres en uno Vibración de alta...'
+tags: 'cepillo de dientes'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

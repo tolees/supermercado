@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31t9wqZ9fsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2VVVR1-es'
+slug: 'B07F2VVVR1-es Jim Beam Single Barrel Kentacky Bourbon Whisky 47.5% - 700 ml'
+tags: 'whisky'
 actualPrice: 22.8 EUR
 currency: EUR
 price: 22.8

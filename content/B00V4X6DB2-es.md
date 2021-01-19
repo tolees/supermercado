@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lDE85IA0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V4X6DB2-es'
+slug: 'B00V4X6DB2-es Jim Beam Apple Bourbon Whisky con Licor de Manzana 35% -...'
+tags: 'manzana, whisky'
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

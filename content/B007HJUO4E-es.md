@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417Y-ANjRNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007HJUO4E-es'
+slug: 'B007HJUO4E-es G-Vine Nouaison Ginebra - 700 ml'
+tags: 'ginebra'
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

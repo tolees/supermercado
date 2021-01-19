@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OMPfVdxoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MNNG6CS-es'
+slug: 'B00MNNG6CS-es MyProtein Impact Whey Isolate Proteína de Suero Sabor...'
+tags: 'chocolate'
 actualPrice: 25.6 EUR
 currency: EUR
 price: 25.6

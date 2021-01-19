@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41trnk84H+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAEM01U-es'
+slug: 'B00XAEM01U-es Air Wick Vela Duplo Vainilla y Ébano de Madagascar'
+tags: 'air wick'
 actualPrice: 3.73 EUR
 currency: EUR
 price: 3.73

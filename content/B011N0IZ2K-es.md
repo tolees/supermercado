@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41T5K0%2BJpYL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B011N0IZ2K-es'
+slug: 'B011N0IZ2K-es Dispensador de Pasta Dental de Niños Cepillo de Dientes...'
+tags: 'cepillo de dientes'
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

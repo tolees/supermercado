@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iBnBQ3TVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M75FOPM-es'
+slug: 'B00M75FOPM-es Blevit Plus Duplo 8 Cereales Al Estilo Bizcocho 1 unidad...'
+tags: 'bizcocho'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

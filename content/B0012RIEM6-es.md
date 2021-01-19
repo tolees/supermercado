@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414g3gUs1cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0012RIEM6-es'
+slug: 'B0012RIEM6-es Finish Line Fiber Fibre Grip Unisex Adulto Blanco 50 g'
+tags: 'finish'
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

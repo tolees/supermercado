@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cBOWgA7uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y3JY5HY-es'
+slug: 'B06Y3JY5HY-es L Oréal Professionnel 3474636481729 Champú 500 ml'
+tags: 'champú, oréal'
 actualPrice: 16.31 EUR
 currency: EUR
 price: 16.31

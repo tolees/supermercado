@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51DRSFUtJLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WS7W6GQ-es'
+slug: 'B07WS7W6GQ-es Note D Espresso - Cápsulas de capuchino instantáneo...'
+tags: 'dolce gusto'
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

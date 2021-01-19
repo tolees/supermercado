@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21rKZ1moIkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B004GXDI4M-es'
+slug: 'B004GXDI4M-es Maybelline - Barra de Labios Superstay 24h con estuche 585...'
+tags: 'maybelline'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

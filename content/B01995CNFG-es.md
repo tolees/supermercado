@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iNkeQb3VL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01995CNFG-es'
+slug: 'B01995CNFG-es Forbury Direct - Base Jabón de glicerina transparente sin...'
+tags: 'jabón'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

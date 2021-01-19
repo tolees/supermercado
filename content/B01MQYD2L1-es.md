@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gRoTBKMuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQYD2L1-es'
+slug: 'B01MQYD2L1-es TRESemmé Laca Extra Fuerte - 400 ml'
+tags: 'tresemmé'
 actualPrice: 2.3 EUR
 currency: EUR
 price: 2.3

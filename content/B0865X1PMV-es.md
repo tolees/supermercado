@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hpge2mQjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0865X1PMV-es'
+slug: 'B0865X1PMV-es Soporte para cepillo de dientes soporte para cepillo de...'
+tags: 'cepillo de dientes, pasta de dientes'
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

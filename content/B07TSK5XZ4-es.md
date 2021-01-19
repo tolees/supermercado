@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31jpRavvGwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSK5XZ4-es'
+slug: 'B07TSK5XZ4-es Max Factor Mattitude Powder. Polvos bronceadores Tono 001...'
+tags: 'max factor'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

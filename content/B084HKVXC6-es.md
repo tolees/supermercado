@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mGUiUEwBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084HKVXC6-es'
+slug: 'B084HKVXC6-es SUPLEMENTO MENOPAUSIA - MENODEN + VITAMINA B6 Y ZINC...'
+tags: 'soja'
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

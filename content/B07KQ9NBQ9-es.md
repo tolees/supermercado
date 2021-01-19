@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41agZ3Nv3PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ9NBQ9-es'
+slug: 'B07KQ9NBQ9-es Gifts Treat Navidad Botella de Vino Tinto Bolsas de...'
+tags: 'vino tinto'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

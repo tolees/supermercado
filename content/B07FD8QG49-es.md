@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CCsYg+AsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FD8QG49-es'
+slug: 'B07FD8QG49-es Skip Active Clean Detergente Cápsulas para Lavadora -...'
+tags: 'detergente'
 actualPrice: 24.02 EUR
 currency: EUR
 price: 24.02

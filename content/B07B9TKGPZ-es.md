@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CwlczPtOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9TKGPZ-es'
+slug: 'B07B9TKGPZ-es ICA CHPM20 Champú Antiparásitos con Aloe Vera para Perros'
+tags: 'champú'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

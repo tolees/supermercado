@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z5H0pyvEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FMVJGW-es'
+slug: 'B071FMVJGW-es Novex Aceite de Oliva Mascarilla Capilar - 400g'
+tags: 'aceite de oliva, mascarilla capilar'
 actualPrice: 3.04 EUR
 currency: EUR
 price: 3.04

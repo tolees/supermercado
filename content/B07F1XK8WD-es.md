@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aDya2V8UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1XK8WD-es'
+slug: 'B07F1XK8WD-es Mascarilla de Pelo Morado-Matizador para Cabello Rubio y...'
+tags: 'acondicionador'
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

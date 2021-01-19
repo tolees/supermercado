@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fCny3mrxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WW22YNN-es'
+slug: 'B06WW22YNN-es Adonis Low Sugar - Barritas de Pacanas Crujiente Sabor de...'
+tags: 'sin gluten'
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

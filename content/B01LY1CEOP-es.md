@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51u3CgCWB+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY1CEOP-es'
+slug: 'B01LY1CEOP-es Knorr Sopa Cebolla - 50 g'
+tags: 'cebolla, knorr'
 actualPrice: 0.62 EUR
 currency: EUR
 price: 0.62

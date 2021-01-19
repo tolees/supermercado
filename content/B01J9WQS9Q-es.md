@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VIlcStWmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J9WQS9Q-es'
+slug: 'B01J9WQS9Q-es Philips Sonicare Diamond Clean HX9312/04 - Cepillo de...'
+tags: 'cepillo de dientes'
 actualPrice: 153.96 EUR
 currency: EUR
 price: 153.96

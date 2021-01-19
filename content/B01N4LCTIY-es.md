@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Woq6nDD4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4LCTIY-es'
+slug: 'B01N4LCTIY-es Elizabeth Arden Crema corporal - 400 ml.'
+tags: 'elizabeth arden'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

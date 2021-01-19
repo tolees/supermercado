@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PXp5294kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7S92TE-es'
+slug: 'B01K7S92TE-es Colgate Pasta de dientes AntiSarro + Blanqueador - 75 ml'
+tags: 'colgate, pasta de dientes'
 actualPrice: 1.57 EUR
 currency: EUR
 price: 1.57

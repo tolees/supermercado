@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QYpO2V6SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XDXH4CI-es'
+slug: 'B00XDXH4CI-es Foxy - Pañuelos hipoalergénicos - 10 paquetes x 9 unidades'
+tags: 'foxy'
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

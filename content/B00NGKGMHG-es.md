@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41knKEXV8lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NGKGMHG-es'
+slug: 'B00NGKGMHG-es Lactacyd Pharma Balsámico 250 ml'
+tags: 'lactacyd'
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

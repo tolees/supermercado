@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hNMcyEVYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GZ4TIHK-es'
+slug: 'B01GZ4TIHK-es Licor del Polo - Pasta de dientes 2 en 1 Blanqueador...'
+tags: 'pasta de dientes'
 actualPrice: 7.75 EUR
 currency: EUR
 price: 7.75

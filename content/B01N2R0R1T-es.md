@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MhUEc0rNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2R0R1T-es'
+slug: 'B01N2R0R1T-es Nescafé Dolce Gusto - Chococino - 3 Paquetes de 16...'
+tags: 'nescafé, dolce gusto'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

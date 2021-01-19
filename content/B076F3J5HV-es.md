@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dZQNQj-yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076F3J5HV-es'
+slug: 'B076F3J5HV-es Hero Baby Solo Bolsita de Manzana Plátano y Zanahoria Puré...'
+tags: 'manzana, hero baby'
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

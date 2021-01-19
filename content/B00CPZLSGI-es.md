@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s0A3AE4JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CPZLSGI-es'
+slug: 'B00CPZLSGI-es Bulleit Rye Whisky - 700 ml'
+tags: 'whisky'
 actualPrice: 28.1 EUR
 currency: EUR
 price: 28.1

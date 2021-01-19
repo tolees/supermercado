@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51isuhRWOJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSHFQ4H-es'
+slug: 'B07FSHFQ4H-es Gudotra Acerca de 100pcs Bolsa de Lino con Cordón para...'
+tags: 'arroz'
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

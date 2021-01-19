@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xPa6Gro2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QMDFB8-es'
+slug: 'B075QMDFB8-es Grohe Rainshower 310 SmartActive CUBE - Juego de alcachofa...'
+tags: 'alcachofa'
 actualPrice: 380.12 EUR
 currency: EUR
 price: 380.12

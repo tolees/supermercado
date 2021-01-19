@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MnlerX9UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9V1WMW-es'
+slug: 'B00X9V1WMW-es Somat Lavavajillas Limpia Máquinas - 250 ml'
+tags: 'somat'
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5
@@ -25,10 +26,10 @@ Está [Somat Lavavajillas Limpia Máquinas - 250 ml](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Ayuda a mantener las prestaciones habituales de la máquina.
 - Elimina los depósitos de grasa resistente y de cal.
+- Ayuda a mantener las prestaciones habituales de la máquina.
 - Limpieza higiénica del interior de la máquina, aspas y filtro.
-- Uso con el lavavajillas vacío, cada 3 meses.
 - Tecnología Alemana
+- Uso con el lavavajillas vacío, cada 3 meses.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00X9V1WMW/?tag=tolees-21)

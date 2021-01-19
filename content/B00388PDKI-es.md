@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K+P17IhsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00388PDKI-es'
+slug: 'B00388PDKI-es Advance Pienso para Gato Adulto con Pollo y Arroz - 3000 gr'
+tags: 'arroz'
 actualPrice: 17.32 EUR
 currency: EUR
 price: 17.32

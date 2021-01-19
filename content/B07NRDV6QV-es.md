@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q2j99x1xL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRDV6QV-es'
+slug: 'B07NRDV6QV-es Syoss Champú para Volumen 0% Siliconas - Pack de 3...'
+tags: 'champú'
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

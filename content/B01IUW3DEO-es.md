@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PL1OZcUyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IUW3DEO-es'
+slug: 'B01IUW3DEO-es Ruffles - Patatas Fritas con Sabor a Jamón y Queso - 170 gr'
+tags: 'jamón, queso, ruffles, patatas fritas'
 actualPrice: 1.23 EUR
 currency: EUR
 price: 1.23

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31GJVGeZIUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCTQFMJ-es'
+slug: 'B07HCTQFMJ-es Maybelline New York Maybelline Lápiz de Ojos Efecto...'
+tags: 'maybelline'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tTI14ouvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002HYBXI-es'
+slug: 'B0002HYBXI-es Pustefix- Juego para Hacer pompas de jabón 70 ml...'
+tags: 'jabón'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YqE4ZTPdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00008MORG-es'
+slug: 'B00008MORG-es Max Factor LipFinity Classic Pintalabios Tono 110...'
+tags: 'max factor'
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

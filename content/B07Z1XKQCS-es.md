@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51mqFXC4GzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z1XKQCS-es'
+slug: 'B07Z1XKQCS-es DingGreat Kit Accesorios de Recambio para Cecotec Robot...'
+tags: 'fregona'
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

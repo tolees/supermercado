@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mjLj5l2HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GIA03EI-es'
+slug: 'B01GIA03EI-es Lactovit Loción corporal - 400 gr.'
+tags: 'lactovit'
 actualPrice: 3.54 EUR
 currency: EUR
 price: 3.54

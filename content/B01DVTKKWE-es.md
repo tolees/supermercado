@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51f5rc1WQWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DVTKKWE-es'
+slug: 'B01DVTKKWE-es Weider Protein Pancake Mix Coco y Chocolate Blanco - 600 gr'
+tags: 'chocolate'
 actualPrice: 15.44 EUR
 currency: EUR
 price: 15.44

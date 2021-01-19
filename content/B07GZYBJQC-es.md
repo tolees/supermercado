@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411GumdrEAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZYBJQC-es'
+slug: 'B07GZYBJQC-es Elvive Acondicionador con Arcilla Extraordinaria - 300 ml'
+tags: 'acondicionador'
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

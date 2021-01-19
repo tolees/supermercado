@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qDgrtOA-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZYKBYV-es'
+slug: 'B079ZYKBYV-es Nestlé Bolsita de puré de frutas variedad Manzana...'
+tags: 'manzana, nestlé'
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

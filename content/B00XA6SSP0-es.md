@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510alfRUIKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XA6SSP0-es'
+slug: 'B00XA6SSP0-es WiPP Express Detergente en Polvo - 80 Lavados 5 2 Kg'
+tags: 'detergente'
 actualPrice: 12.12 EUR
 currency: EUR
 price: 12.12

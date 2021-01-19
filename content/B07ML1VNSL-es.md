@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51l6-HKgAVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ML1VNSL-es'
+slug: 'B07ML1VNSL-es Set de aceites esenciales de aromaterapia orgánica - TOP8...'
+tags: 'canela'
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21lszwAADQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5JP53C-es'
+slug: 'B07D5JP53C-es Revlon 7244684000 Style Masters 2 Modular Laca de Fijación...'
+tags: 'revlon'
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HxFeKVpLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BB7K7YX-es'
+slug: 'B07BB7K7YX-es Amstel Radler Limón Cerveza - Pack de 12 Latas x 330 ml -...'
+tags: 'cerveza'
 actualPrice: 6.37 EUR
 currency: EUR
 price: 6.37

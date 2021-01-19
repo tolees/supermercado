@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DE2uyM80L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078VPBQZJ-es'
+slug: 'B078VPBQZJ-es Aneto 100% Natural - Caldo de Pollo - caja de 6 unidades...'
+tags: 'caldo de pollo'
 actualPrice: 16.16 EUR
 currency: EUR
 price: 16.16

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mNaiKOjhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZB5LI8-es'
+slug: 'B01LZB5LI8-es Ligeresa Salsa Fina - 225 ml'
+tags: 'ligeresa'
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

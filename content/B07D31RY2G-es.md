@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YBGTNRa5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D31RY2G-es'
+slug: 'B07D31RY2G-es NESCAFÉ Dolce Gusto Espresso Intenso Descafeinado | Pack...'
+tags: 'descafeinado, nescafé, dolce gusto'
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

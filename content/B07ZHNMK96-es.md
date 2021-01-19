@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TsOVsVeGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHNMK96-es'
+slug: 'B07ZHNMK96-es NIVEA Q10 Power Día FP30 1 x 50 ml y Serum Pearls 1 x 40...'
+tags: 'nivea'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

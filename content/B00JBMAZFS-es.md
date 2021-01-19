@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k25PRnc7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JBMAZFS-es'
+slug: 'B00JBMAZFS-es Scitec Nutrition 100% Whey Protein Professional Chocolate...'
+tags: 'chocolate'
 actualPrice: 42.89 EUR
 currency: EUR
 price: 42.89

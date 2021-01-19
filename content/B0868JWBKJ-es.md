@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EVZ1a7TJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868JWBKJ-es'
+slug: 'B0868JWBKJ-es Dispensador Jabón Automático Dosificador Gel...'
+tags: 'jabón, hidroalcohólico'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

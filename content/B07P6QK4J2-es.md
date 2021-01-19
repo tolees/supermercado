@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318dPicfonL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6QK4J2-es'
+slug: 'B07P6QK4J2-es Dove Gel De Ducha Avena - Pack de 3 x 500 ml Total: 1500 ml'
+tags: 'dove, gel de ducha'
 actualPrice: 8.67 EUR
 currency: EUR
 price: 8.67

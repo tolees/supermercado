@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uVcscaX+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3Z8Z1X-es'
+slug: 'B08B3Z8Z1X-es WIFORT Dispensador de Jabón Automático 400ML Dispensador...'
+tags: 'jabón'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

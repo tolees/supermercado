@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dk7ELq%2B3L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JE0ZCIC-es'
+slug: 'B00JE0ZCIC-es HeroNeo - Juego de plantillas para decoración de café 16...'
+tags: 'café'
 actualPrice: 0.94 EUR
 currency: EUR
 price: 0.94

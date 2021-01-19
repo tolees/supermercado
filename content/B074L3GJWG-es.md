@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41lJFlkZi-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074L3GJWG-es'
+slug: 'B074L3GJWG-es FRETZ men Hull Mocasines para Hombre Gris Dove 53 46 EU'
+tags: 'dove'
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

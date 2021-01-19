@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51x2vIabslL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKSLXRT-es'
+slug: 'B07MKSLXRT-es Beeswax Wraps - Juego de 6 envoltorios de cera de abeja...'
+tags: 'queso'
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

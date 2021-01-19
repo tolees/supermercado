@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411R6Mjd8kL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCVD83H-es'
+slug: 'B07JCVD83H-es Cesar elección del Chef Ternera A La Rejilla con arroz...'
+tags: 'arroz, arroz integral'
 actualPrice: 12.13 EUR
 currency: EUR
 price: 12.13

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xycPZ3BTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPJ24FR-es'
+slug: 'B07VPJ24FR-es Tamnavulin Sherry Cask Whisky De Malta Escocés - 700 ml'
+tags: 'whisky'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

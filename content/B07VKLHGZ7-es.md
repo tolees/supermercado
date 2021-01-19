@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415lm9BkXVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKLHGZ7-es'
+slug: 'B07VKLHGZ7-es ToullGo Calentador de Café Calentador de Bebidas Portátil...'
+tags: 'café'
 actualPrice: 23.21 EUR
 currency: EUR
 price: 23.21

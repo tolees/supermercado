@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iBiCMTweL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGJ8CX8-es'
+slug: 'B07DGJ8CX8-es Oral-B Pro 610 - Cepillo de dientes eléctrico'
+tags: 'cepillo de dientes'
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

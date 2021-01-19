@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oiPKEnImL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019A7XR3A-es'
+slug: 'B019A7XR3A-es Rexona Desodorante Antitranspirante Shower Fresh 200ml'
+tags: 'desodorante'
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

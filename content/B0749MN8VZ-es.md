@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41rdU3cXswL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0749MN8VZ-es'
+slug: 'B0749MN8VZ-es Gel hidroalcohólico antiséptico para piel sana S nonas....'
+tags: 'hidroalcohólico'
 actualPrice: 4.27 EUR
 currency: EUR
 price: 4.27

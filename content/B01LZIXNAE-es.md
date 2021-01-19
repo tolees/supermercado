@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vfd2H%2BprL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZIXNAE-es'
+slug: 'B01LZIXNAE-es Dr. Oetker Molde Desmontable Back-Harmonie Acero marrón 28 cm'
+tags: 'dr. oetker'
 actualPrice: 39.51 EUR
 currency: EUR
 price: 39.51

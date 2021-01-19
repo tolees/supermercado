@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nADMg-viL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Q4WDG4-es'
+slug: 'B077Q4WDG4-es Oral-B Stages Star Wars Cabezales de cepillo de dientes...'
+tags: 'cepillo de dientes'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

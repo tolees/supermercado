@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bKy8fkoGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LCU6TBK-es'
+slug: 'B01LCU6TBK-es Kinder Bueno Mini Barritas con Relleno de Leche y...'
+tags: 'chocolate'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

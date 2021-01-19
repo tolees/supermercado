@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/319TgsPxeKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0Y7UNH-es'
+slug: 'B01N0Y7UNH-es Elizabeth Arden Plush Up Gelato Pintalabios 4ml Flirty...'
+tags: 'elizabeth arden'
 actualPrice: 26.13 EUR
 currency: EUR
 price: 26.13

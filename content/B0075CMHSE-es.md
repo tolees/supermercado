@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318SEE5FvFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0075CMHSE-es'
+slug: 'B0075CMHSE-es Salerm Cosmetics Dermocalm Champú - 250 ml Transparente'
+tags: 'champú'
 actualPrice: 5.67 EUR
 currency: EUR
 price: 5.67

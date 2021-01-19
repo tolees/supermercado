@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416zSmP5ZYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHV353C-es'
+slug: 'B07SHV353C-es Skip Ultimate Triple Poder Detergente Capsulas Maxima...'
+tags: 'detergente'
 actualPrice: 8.65 EUR
 currency: EUR
 price: 8.65

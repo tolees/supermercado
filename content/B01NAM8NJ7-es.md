@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516baElwoIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAM8NJ7-es'
+slug: 'B01NAM8NJ7-es Lancardo - Reloj de pulsera para pareja Lovers con correa...'
+tags: 'café'
 actualPrice: 20.64 EUR
 currency: EUR
 price: 20.64

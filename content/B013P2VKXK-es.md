@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z5I4VlYAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B013P2VKXK-es'
+slug: 'B013P2VKXK-es TENTACION INCIENSO EROTICO CON FEROMONAS CHOCOLATE'
+tags: 'chocolate'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

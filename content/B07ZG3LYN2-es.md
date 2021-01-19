@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417-bG7RfFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZG3LYN2-es'
+slug: 'B07ZG3LYN2-es Axe Necesser Dark Temptation Bodyspray 150 ml + Gel de...'
+tags: 'axe, gel de ducha'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

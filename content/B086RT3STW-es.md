@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZXtSoA22L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086RT3STW-es'
+slug: 'B086RT3STW-es MovilCom® - Cortador de Verduras | Picadora Manual de...'
+tags: 'cebolla'
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

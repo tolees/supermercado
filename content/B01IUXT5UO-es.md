@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41O-HQOsGCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IUXT5UO-es'
+slug: 'B01IUXT5UO-es Chocolates Valor - Chocolate 70% Cacao con Mousse de...'
+tags: 'azúcar, chocolate'
 actualPrice: 1.33 EUR
 currency: EUR
 price: 1.33

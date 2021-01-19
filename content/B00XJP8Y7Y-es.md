@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PuV1foRgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XJP8Y7Y-es'
+slug: 'B00XJP8Y7Y-es NIVEA Hyaluron Cellular Filler Cuidado de Noche Crema de...'
+tags: 'nivea'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

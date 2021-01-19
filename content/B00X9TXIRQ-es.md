@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410bHUG7GbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9TXIRQ-es'
+slug: 'B00X9TXIRQ-es Garnier Delial Sensitive Advanced - Leche Solar para...'
+tags: 'garnier'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311PWt6KQuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRJ2JNM-es'
+slug: 'B07NRJ2JNM-es SYOSS - Acondicionador Salon Plex - Tratamiento de...'
+tags: 'acondicionador'
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

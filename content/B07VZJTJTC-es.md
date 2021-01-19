@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hQk3uhV8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZJTJTC-es'
+slug: 'B07VZJTJTC-es Mo Salinas Vino Tinto - Paquete de 6 x 750 ml - Total: 4500ml'
+tags: 'vino tinto'
 actualPrice: 26.85 EUR
 currency: EUR
 price: 26.85

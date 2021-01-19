@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41khEyI4KGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D3HWRCQ-es'
+slug: 'B00D3HWRCQ-es Neutrogena Crema De Manos Y Uñas - 75 ml.'
+tags: 'neutrogena'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

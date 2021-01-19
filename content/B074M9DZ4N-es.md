@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vBiVXC+5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074M9DZ4N-es'
+slug: 'B074M9DZ4N-es Philips CA6903/10 Filtro de Agua Aquaclean para Máquinas...'
+tags: 'café'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

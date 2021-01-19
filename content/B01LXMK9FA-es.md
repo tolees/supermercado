@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qEQ-vjgOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXMK9FA-es'
+slug: 'B01LXMK9FA-es Solán De Cabras Agua Mineral Natural - Pack de 6 x 1 5 l -...'
+tags: 'agua mineral, solán de cabras'
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pr8447NhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9NN5ZV-es'
+slug: 'B01N9NN5ZV-es Viaggio Espresso Cápsulas de café compatibles con máquinas...'
+tags: 'café, cápsulas de café'
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

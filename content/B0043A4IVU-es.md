@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41X5EAYan3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0043A4IVU-es'
+slug: 'B0043A4IVU-es No. 3 London Dry Gin Ginebra - 700 ml'
+tags: 'ginebra'
 actualPrice: 30.15 EUR
 currency: EUR
 price: 30.15

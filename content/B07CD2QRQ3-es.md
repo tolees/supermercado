@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mRQMRGc-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CD2QRQ3-es'
+slug: 'B07CD2QRQ3-es L Oréal Paris Colorista Hair Makeup Raspberry Hair'
+tags: 'oréal'
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

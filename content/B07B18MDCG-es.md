@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ea8t+nT3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B18MDCG-es'
+slug: 'B07B18MDCG-es Ladrón de Manzanas Cider Manzana - 4 Packs de 6 Botellas x...'
+tags: 'manzana, ladrón de manzanas'
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

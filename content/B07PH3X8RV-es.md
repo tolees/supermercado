@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518QsLgyDWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PH3X8RV-es'
+slug: 'B07PH3X8RV-es Betacaroteno [25.000 ui] 180 Cápsulas con Patentado Lyc-O-...'
+tags: 'aceite de oliva'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

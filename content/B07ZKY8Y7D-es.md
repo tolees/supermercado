@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GV2naj5+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKY8Y7D-es'
+slug: 'B07ZKY8Y7D-es L´Oréal Men Expert Hydra Energetic Pack con Gel de Ducha...'
+tags: 'crema hidratante, gel de ducha'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

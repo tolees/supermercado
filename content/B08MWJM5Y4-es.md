@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411fuk4RUSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08MWJM5Y4-es'
+slug: 'B08MWJM5Y4-es San Jamón - Cesta Regalo Gourmet Ibérica Dueñas. Chorizo y...'
+tags: 'chorizo, jamón, mermelada, queso'
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0
@@ -26,9 +27,9 @@ Tienes [San Jamón - Cesta Regalo Gourmet Ibérica  Dueñas. Chorizo y Salchich�
 🔎:
 
 - Disfruta de los mejores jamones y embutidos ibéricos de San Jamón
+- Chorizo y Salchichón Ibéricos
 - El regalo perfecto para esta Navidad
 - Una deliciosa selección de productos gourmet ibéricos
 - Cesta de Productos Gourmet
-- Chorizo y Salchichón Ibéricos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MWJM5Y4/?tag=tolees-21)

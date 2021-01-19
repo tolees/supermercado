@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31paR1VfsyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KN1WVVQ-es'
+slug: 'B07KN1WVVQ-es Armani Exchange Different Logo Mood suéter Martini 1107...'
+tags: 'martini'
 actualPrice: 46.81 EUR
 currency: EUR
 price: 46.81

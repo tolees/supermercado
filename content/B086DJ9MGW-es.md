@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rID85fqbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086DJ9MGW-es'
+slug: 'B086DJ9MGW-es TTAototech Sensor inteligente Dispensador de jabón- 1000...'
+tags: 'jabón'
 actualPrice: 33.79 EUR
 currency: EUR
 price: 33.79

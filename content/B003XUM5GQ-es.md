@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513UjJqCrML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003XUM5GQ-es'
+slug: 'B003XUM5GQ-es ColaCao 0% Azúcares añadidos - 300g'
+tags: 'colacao'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

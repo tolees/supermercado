@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vuJHCgjTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MZB49L-es'
+slug: 'B082MZB49L-es Junio1 Hermosa Caja de Regalo de Flor de jabón de Caja de...'
+tags: 'jabón'
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

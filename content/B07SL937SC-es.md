@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21MM-LMRIdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SL937SC-es'
+slug: 'B07SL937SC-es Chicco Tutina Bimbo con Apertura Frontale Mono Corto para...'
+tags: 'bimbo'
 actualPrice: None None
 currency: None
 price: None

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UPcsHclfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MPYCBM-es'
+slug: 'B082MPYCBM-es textil-home Puf - Pera moldeable XL Puff - 80x80x130 cm-...'
+tags: 'pera'
 actualPrice: 61.9 EUR
 currency: EUR
 price: 61.9

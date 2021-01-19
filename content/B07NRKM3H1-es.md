@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G-4Xsv2mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRKM3H1-es'
+slug: 'B07NRKM3H1-es La Toja - Gel de Afeitar Triple Acción Piel Sensible...'
+tags: 'la toja'
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

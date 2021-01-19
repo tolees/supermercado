@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31aCC5H6wtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071YPDTLX-es'
+slug: 'B071YPDTLX-es Ultrawhite Miele Detergente Lavadora para blancos Cod...'
+tags: 'detergente'
 actualPrice: 19 EUR
 currency: EUR
 price: 19

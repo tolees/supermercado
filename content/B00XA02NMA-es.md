@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IxFTfg3aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XA02NMA-es'
+slug: 'B00XA02NMA-es Beefeater London Dry Ginebra - 700 ml'
+tags: 'ginebra'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

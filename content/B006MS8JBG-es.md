@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S-RAUeCRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006MS8JBG-es'
+slug: 'B006MS8JBG-es Havanna Alfajores de Chocolate - 330 gr'
+tags: 'chocolate'
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

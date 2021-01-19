@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31V3wOJWusL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005CJVBY8-es'
+slug: 'B005CJVBY8-es Ginebra - Gin Citadelle 1L'
+tags: 'ginebra'
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

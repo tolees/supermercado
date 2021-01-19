@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IBzd4wsHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0012RXTBW-es'
+slug: 'B0012RXTBW-es Elizabeth Arden Mediterranean - Agua de perfume'
+tags: 'elizabeth arden'
 actualPrice: 25.86 EUR
 currency: EUR
 price: 25.86

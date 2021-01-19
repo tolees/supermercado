@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t5Ng8+LtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSBW5JH-es'
+slug: 'B07GSBW5JH-es NIVEA MEN Cool Kick Roll-on en pack de 6 6 x 50 ml...'
+tags: 'desodorante, nivea'
 actualPrice: 11.1 EUR
 currency: EUR
 price: 11.1

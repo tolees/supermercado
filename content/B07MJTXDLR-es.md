@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kHBOceW8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJTXDLR-es'
+slug: 'B07MJTXDLR-es Caffè Borbone DGBBLU6X15N Cápsulas de café - 90 cápsulas'
+tags: 'café, cápsulas de café'
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

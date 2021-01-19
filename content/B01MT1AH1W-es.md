@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B1Rw0CpWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT1AH1W-es'
+slug: 'B01MT1AH1W-es Gin Mare Mediterranean Colección de Autor Ginebra - 1000 ml'
+tags: 'ginebra'
 actualPrice: 37.15 EUR
 currency: EUR
 price: 37.15

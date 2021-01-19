@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qFOclO1DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CLC0ZVY-es'
+slug: 'B00CLC0ZVY-es Elizabeth Arden 5th Avenue NYC - Agua de perfume'
+tags: 'elizabeth arden'
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

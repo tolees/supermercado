@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317fbGP6yJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C3FPHLW-es'
+slug: 'B00C3FPHLW-es Rives Ginebra Especial Negra - 700 ml'
+tags: 'ginebra'
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

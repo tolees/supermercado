@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/513VLeB8dqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AQDP2DQ-es'
+slug: 'B00AQDP2DQ-es L Oréal Paris Color Riche Quad Pro S4 - Sombra de ojos'
+tags: 'oréal'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

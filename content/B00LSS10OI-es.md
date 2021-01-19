@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DzChXdxwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LSS10OI-es'
+slug: 'B00LSS10OI-es Bolero Bebida Instantánea sin Azúcar Sabor Papaya -...'
+tags: 'azúcar'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

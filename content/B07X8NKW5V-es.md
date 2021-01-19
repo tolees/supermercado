@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gm45zlNGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8NKW5V-es'
+slug: 'B07X8NKW5V-es Weider Green Flex PROTECTOR Articular 100% Vegano Con...'
+tags: 'cúrcuma, sin gluten'
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

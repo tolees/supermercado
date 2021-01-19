@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TE+0ikuyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EJANIWI-es'
+slug: 'B01EJANIWI-es Sesderma Kit Antibolsas - 30 gr'
+tags: 'sesderma'
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

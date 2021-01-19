@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KlWGH1lQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0058LQIZ2-es'
+slug: 'B0058LQIZ2-es Glenfarclas 12 Year Old Highland Single Malt Whisky 43% 1...'
+tags: 'whisky'
 actualPrice: 30.1 EUR
 currency: EUR
 price: 30.1

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-gVvXog2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DI6HG1O-es'
+slug: 'B00DI6HG1O-es Jim Beam Honey Bourbon Whisky Con Miel 35% - 700 ml'
+tags: 'whisky'
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

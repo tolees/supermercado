@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eQrYLNrNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTXLRR8-es'
+slug: 'B07RTXLRR8-es Crema para las pecas Crema de eliminación de pecas Crema...'
+tags: 'crema hidratante'
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

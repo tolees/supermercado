@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cWPD6HH0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UD1J2R8-es'
+slug: 'B00UD1J2R8-es Säntis Malt Appenzeller Single Edition Trinity Whisky -...'
+tags: 'whisky'
 actualPrice: 23.36 EUR
 currency: EUR
 price: 23.36

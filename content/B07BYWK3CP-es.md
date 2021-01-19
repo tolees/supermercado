@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JNhxPWU+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BYWK3CP-es'
+slug: 'B07BYWK3CP-es Garnier Original Remedies Elixir de Argán Mascarilla...'
+tags: 'garnier, mascarilla capilar'
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

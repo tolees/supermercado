@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51x3OfctoiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DWFIUHY-es'
+slug: 'B01DWFIUHY-es Colgate Fun Smile Cepillo de Dientes Surtido: Modelos...'
+tags: 'colgate, cepillo de dientes'
 actualPrice: 10.6 EUR
 currency: EUR
 price: 10.6

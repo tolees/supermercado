@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/318BfPM-5oL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRTDTG2-es'
+slug: 'B07NRTDTG2-es Gliss - Acondicionador Reparación Total - 2 uds de 200ml -...'
+tags: 'acondicionador, schwarzkopf'
 actualPrice: 4.08 EUR
 currency: EUR
 price: 4.08

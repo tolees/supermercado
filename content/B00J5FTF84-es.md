@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NVJbnT0ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J5FTF84-es'
+slug: 'B00J5FTF84-es ISDIN Deo Germisdin Ultra 72h Desodorante - Controla la...'
+tags: 'desodorante'
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

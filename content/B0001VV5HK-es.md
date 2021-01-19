@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/314PyGlUaKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0001VV5HK-es'
+slug: 'B0001VV5HK-es SOLARAY® B complex 50. 50 VegCaps. Las Vitaminas B...'
+tags: 'sin gluten'
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

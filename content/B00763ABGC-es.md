@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LPbLK4rZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00763ABGC-es'
+slug: 'B00763ABGC-es Rexona Desodorante Antitranspirante Crema Confidence 45Ml'
+tags: 'desodorante'
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b7so4sMmL._SL500_._AC_._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U2TXCTU-es'
+slug: 'B00U2TXCTU-es Scotch-Brite Spray Limpiador para Vitrocerámica 500 ml'
+tags: 'scotch-brite'
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

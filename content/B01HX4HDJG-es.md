@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qgm9qk%2BqL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HX4HDJG-es'
+slug: 'B01HX4HDJG-es OREWORK 386770 Molino Maíz eléctrico'
+tags: 'maíz'
 actualPrice: 141.93 EUR
 currency: EUR
 price: 141.93

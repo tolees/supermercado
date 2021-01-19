@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51cNS1YfWeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XA63YB8-es'
+slug: 'B00XA63YB8-es Dixan Detergente en Polvo - 55 lavados 3 25 Kg'
+tags: 'detergente, dixan'
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

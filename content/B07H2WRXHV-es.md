@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aLYARBKNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2WRXHV-es'
+slug: 'B07H2WRXHV-es Carbonell Aceite De Oliva Virgen Extra Monovarietal Regium...'
+tags: 'carbonell, aceite de oliva, virgen extra'
 actualPrice: 3.83 EUR
 currency: EUR
 price: 3.83

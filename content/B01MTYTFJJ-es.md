@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31M-%2BmIi2GL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTYTFJJ-es'
+slug: 'B01MTYTFJJ-es Martini Vermouth Rosso - 1000 ml'
+tags: 'martini, vermouth'
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

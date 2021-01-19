@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C38DmVMoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SMHNYPG-es'
+slug: 'B07SMHNYPG-es Chicco Pantaloni Lunghi Bimbo Pantalones para Bebés'
+tags: 'bimbo'
 actualPrice: None None
 currency: None
 price: None

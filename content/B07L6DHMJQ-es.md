@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AJ5yQ3kkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6DHMJQ-es'
+slug: 'B07L6DHMJQ-es Dispensador automático de pasta de dientes y cepillo de...'
+tags: 'cepillo de dientes, pasta de dientes'
 actualPrice: 18.58 EUR
 currency: EUR
 price: 18.58

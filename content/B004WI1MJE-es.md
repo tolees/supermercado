@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418FOfRxY+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004WI1MJE-es'
+slug: 'B004WI1MJE-es Glen Grant The Major s Reserve Whisky Single Malt 70 cl'
+tags: 'whisky'
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

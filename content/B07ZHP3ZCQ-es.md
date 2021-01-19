@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413H1q5VEeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHP3ZCQ-es'
+slug: 'B07ZHP3ZCQ-es NIVEA Neceser Body Cuidado Completo con body milk 1 x 400...'
+tags: 'desodorante, nivea, gel de ducha'
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

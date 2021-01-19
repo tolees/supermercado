@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+dKetLZCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9P5QBB-es'
+slug: 'B07S9P5QBB-es Lactovit - Gel de Ducha Hidratante Vitalidad y Frescor...'
+tags: 'lactovit, melocotón, gel de ducha'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

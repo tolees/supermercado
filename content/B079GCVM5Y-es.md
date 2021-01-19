@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XbLIqFKwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079GCVM5Y-es'
+slug: 'B079GCVM5Y-es Lavazza Cápsulas de café Leggero - 10 Cápsulas'
+tags: 'café, lavazza, cápsulas de café'
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

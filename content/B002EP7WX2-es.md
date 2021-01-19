@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415TJ+I3skL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002EP7WX2-es'
+slug: 'B002EP7WX2-es The Dalmore Whisky 12Y - 700 ml'
+tags: 'whisky'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311Rs5lPhdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085YG9PP3-es'
+slug: 'B085YG9PP3-es HR-International - 2 rollos de paño desechable para...'
+tags: 'papel de cocina'
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

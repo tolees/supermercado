@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513cOdRs4vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX17FPQ-es'
+slug: 'B01LX17FPQ-es Gourmet Frutos Secos Pipas Mondadas Fritas con Sal - 125 g'
+tags: 'pipas, frutos secos'
 actualPrice: None None
 currency: None
 price: None

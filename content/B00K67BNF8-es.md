@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CLSSuIijL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K67BNF8-es'
+slug: 'B00K67BNF8-es L oréal paris - Volume million lashes extra black máscara...'
+tags: 'oréal'
 actualPrice: 10.14 EUR
 currency: EUR
 price: 10.14

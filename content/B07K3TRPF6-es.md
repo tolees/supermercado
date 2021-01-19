@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Wx9nssqSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K3TRPF6-es'
+slug: 'B07K3TRPF6-es iTrunk Paquete 16 cabezales de cepillo de dientes para...'
+tags: 'cepillo de dientes'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

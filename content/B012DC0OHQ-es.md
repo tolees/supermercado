@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FiEAS-MVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012DC0OHQ-es'
+slug: 'B012DC0OHQ-es Hibiki Suntory Whisky Japanese Harmony 43% - 700 ml'
+tags: 'whisky'
 actualPrice: 94.75 EUR
 currency: EUR
 price: 94.75

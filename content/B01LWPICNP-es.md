@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JiNEOfSKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWPICNP-es'
+slug: 'B01LWPICNP-es Turia Märzen Cerveza Tostada - Lata 33cl'
+tags: 'cerveza'
 actualPrice: 0.62 EUR
 currency: EUR
 price: 0.62

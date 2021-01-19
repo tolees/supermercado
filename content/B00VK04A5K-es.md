@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415SZ1UK%2BWL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VK04A5K-es'
+slug: 'B00VK04A5K-es L Oréal Paris Mega Gloss Infalible 505 Never Let Me Go'
+tags: 'oréal'
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

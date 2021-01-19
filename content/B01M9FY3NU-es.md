@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oxo4oDBOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M9FY3NU-es'
+slug: 'B01M9FY3NU-es Sotya Café - 100 gr'
+tags: 'café'
 actualPrice: 4.66 EUR
 currency: EUR
 price: 4.66

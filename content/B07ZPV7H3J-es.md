@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bh+l1JHVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPV7H3J-es'
+slug: 'B07ZPV7H3J-es GLUBEE dispensadores de jabón rellenables - de cristal...'
+tags: 'jabón'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

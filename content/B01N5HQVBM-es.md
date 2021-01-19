@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DB8iW8eTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5HQVBM-es'
+slug: 'B01N5HQVBM-es Knorr Dso Thai - 69 g'
+tags: 'knorr'
 actualPrice: None None
 currency: None
 price: None

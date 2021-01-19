@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OxmpHQhyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QNLV6B-es'
+slug: 'B079QNLV6B-es Hackett London Tweed Trim Crew suéter Beige Oatmeal 8hw XL...'
+tags: 'oatmeal'
 actualPrice: 77.93 EUR
 currency: EUR
 price: 77.93

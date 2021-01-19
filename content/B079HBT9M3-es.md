@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kpe09MzUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079HBT9M3-es'
+slug: 'B079HBT9M3-es Philips Cepillo dental eléctrico sónico HX6870/47 -...'
+tags: 'cepillo de dientes'
 actualPrice: 111.75 EUR
 currency: EUR
 price: 111.75

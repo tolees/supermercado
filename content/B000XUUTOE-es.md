@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OTax6WQ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000XUUTOE-es'
+slug: 'B000XUUTOE-es Calvin Klein 16407 - Desodorante 150 ml'
+tags: 'desodorante'
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

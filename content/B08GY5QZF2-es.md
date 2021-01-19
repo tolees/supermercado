@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513bNhtyR9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GY5QZF2-es'
+slug: 'B08GY5QZF2-es Wristband Dispenser Portátil Sillicone Jabón Pulsera...'
+tags: 'jabón'
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

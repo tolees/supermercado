@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DM-AfvvSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DUX69XU-es'
+slug: 'B01DUX69XU-es ultima Cat - Junior 2-12 Pollo & Arroz 400 gr'
+tags: 'arroz'
 actualPrice: None None
 currency: None
 price: None

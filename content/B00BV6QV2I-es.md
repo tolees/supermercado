@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cCS1v2MRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BV6QV2I-es'
+slug: 'B00BV6QV2I-es Nescafé Dolce Gusto Café Cortado Espresso Macchiato Pack...'
+tags: 'café, nescafé, cápsulas de café, dolce gusto'
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25

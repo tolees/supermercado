@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yvNKmf2YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756GS3QJ-es'
+slug: 'B0756GS3QJ-es Vileda - Fregona microfibras y algodón'
+tags: 'fregona'
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

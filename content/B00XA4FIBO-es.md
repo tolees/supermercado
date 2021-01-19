@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hXya9HgRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XA4FIBO-es'
+slug: 'B00XA4FIBO-es Maizena - Levadura Panadería 27.5 g'
+tags: 'levadura, maizena'
 actualPrice: 1.59 EUR
 currency: EUR
 price: 1.59

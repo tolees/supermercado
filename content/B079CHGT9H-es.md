@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41E5u3vKq-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079CHGT9H-es'
+slug: 'B079CHGT9H-es HOMFA Mesitas de café Mesitas de centro Mesas Nórdicos...'
+tags: 'café'
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

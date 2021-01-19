@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QcXZe8vDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005UXJRBU-es'
+slug: 'B005UXJRBU-es Brokers Ginebra - 700 ml'
+tags: 'ginebra'
 actualPrice: 13.85 EUR
 currency: EUR
 price: 13.85

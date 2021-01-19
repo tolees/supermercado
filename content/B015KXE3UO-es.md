@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bWRVuDBcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015KXE3UO-es'
+slug: 'B015KXE3UO-es Balvenie 12 Años Whisky - 1 botella'
+tags: 'whisky'
 actualPrice: 41.18 EUR
 currency: EUR
 price: 41.18

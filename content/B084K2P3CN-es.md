@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411guAc9XsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084K2P3CN-es'
+slug: 'B084K2P3CN-es Garnier Fructis Hair Food Champú de Aloe Vera Hidratante...'
+tags: 'garnier, champú'
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

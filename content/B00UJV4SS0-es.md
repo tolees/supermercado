@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/513rZC2tHkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UJV4SS0-es'
+slug: 'B00UJV4SS0-es Aceite de virgen carbonell 5l pet'
+tags: 'carbonell'
 actualPrice: 21.25 EUR
 currency: EUR
 price: 21.25

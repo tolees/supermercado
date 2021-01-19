@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419fXGAjGbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q29FMGB-es'
+slug: 'B07Q29FMGB-es Cepillo de Dientes Eléctrico Homever Cepillo de Dientes...'
+tags: 'cepillo de dientes'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

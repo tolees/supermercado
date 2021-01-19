@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BSx8Fm9GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M7Q6HXW-es'
+slug: 'B01M7Q6HXW-es Dove Jabón De Manos Original Con Un 1/4 De Crema...'
+tags: 'dove, jabón, crema hidratante'
 actualPrice: 3.74 EUR
 currency: EUR
 price: 3.74

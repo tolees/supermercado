@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41461FFbZOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAJOIWO-es'
+slug: 'B00XAJOIWO-es Iberia Tinte Textil Color Chocolate - 70 gr'
+tags: 'chocolate'
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

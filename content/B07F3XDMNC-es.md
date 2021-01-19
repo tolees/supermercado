@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VnJ0wrwsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3XDMNC-es'
+slug: 'B07F3XDMNC-es MENFORSAN Desenredante y Acondicionador Perros - 125 ml'
+tags: 'acondicionador'
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

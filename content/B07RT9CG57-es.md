@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316gPVTLrtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT9CG57-es'
+slug: 'B07RT9CG57-es CESFONJER 10 Metros Tubo de Agua Blanco 1/4" 6.3 mm Kit de...'
+tags: 'café'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

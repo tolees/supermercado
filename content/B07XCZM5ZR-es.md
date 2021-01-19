@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512Tz8nNciL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCZM5ZR-es'
+slug: 'B07XCZM5ZR-es Bolsa de Lino con Cordón KATOOM 24pcs Bolsitas de Tela...'
+tags: 'azúcar, café'
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

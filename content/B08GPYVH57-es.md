@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SUH9iIOAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GPYVH57-es'
+slug: 'B08GPYVH57-es Bolsas Regalo CumpleañOs Bolsa Merienda Infantil Bolsas...'
+tags: 'chocolate'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

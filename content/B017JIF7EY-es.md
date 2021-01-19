@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413GrZw80iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017JIF7EY-es'
+slug: 'B017JIF7EY-es DESODORANTE POTASSIUM ALUM 60GR'
+tags: 'desodorante'
 actualPrice: 7.16 EUR
 currency: EUR
 price: 7.16

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61uiork43cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0722VTR2X-es'
+slug: 'B0722VTR2X-es Purina Dentalife Perro Grande [5 packs x 12 sticks]'
+tags: 'purina'
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

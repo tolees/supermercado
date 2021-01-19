@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HowRIo7iL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C6T1WPP-es'
+slug: 'B07C6T1WPP-es Marca Amazon- Solimo Cápsulas Classic compatibles con...'
+tags: 'café, solimo'
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

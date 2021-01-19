@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JfHcra5yL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QL8XMJY-es'
+slug: 'B07QL8XMJY-es Love Beauty and Planet Acondicionador para Cabello dañado...'
+tags: 'acondicionador'
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

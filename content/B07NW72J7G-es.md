@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h3akv9eCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW72J7G-es'
+slug: 'B07NW72J7G-es Vernel Suavizante Concentrado Romance – Pack de 3 Total 3.6 L'
+tags: 'suavizante, vernel'
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

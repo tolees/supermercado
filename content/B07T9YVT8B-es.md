@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bHPhDoO1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9YVT8B-es'
+slug: 'B07T9YVT8B-es RED BULL Coconut Edition Bebida energética sabor coco y...'
+tags: 'bebida energética, red bull'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

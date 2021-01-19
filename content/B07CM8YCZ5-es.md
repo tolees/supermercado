@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31V2CuhUKeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CM8YCZ5-es'
+slug: 'B07CM8YCZ5-es NIVEA SUN Protección Facial UV Control de Brillos FP50 1 x...'
+tags: 'nivea, crema solar'
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

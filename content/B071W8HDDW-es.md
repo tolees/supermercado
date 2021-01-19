@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lPoj4NiGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071W8HDDW-es'
+slug: 'B071W8HDDW-es L Oréal Expert Champú Protector de Cabellos Teñidos - 500 ml'
+tags: 'champú, oréal'
 actualPrice: 11.21 EUR
 currency: EUR
 price: 11.21

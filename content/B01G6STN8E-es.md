@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kdLCY0iyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G6STN8E-es'
+slug: 'B01G6STN8E-es Lote de Conservas Gourmet'
+tags: 'conservas'
 actualPrice: 31.4 EUR
 currency: EUR
 price: 31.4

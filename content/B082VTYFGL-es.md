@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NqXqiRadL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VTYFGL-es'
+slug: 'B082VTYFGL-es Vivesoy - Bebida de Soja sabor Vainilla - 1 L'
+tags: 'soja'
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

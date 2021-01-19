@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31p2zPTsq-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0047X8LSE-es'
+slug: 'B0047X8LSE-es Rimmel London Lasting Finish Foundation 25H Base de...'
+tags: 'finish'
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

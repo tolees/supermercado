@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rpdZHWwsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8PR5Q3-es'
+slug: 'B07B8PR5Q3-es Purina Beyond Pienso Natural para Perro Adulto Pollo y...'
+tags: 'purina'
 actualPrice: 60.85 EUR
 currency: EUR
 price: 60.85

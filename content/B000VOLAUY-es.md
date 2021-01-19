@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31b+VENaG0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VOLAUY-es'
+slug: 'B000VOLAUY-es Giorgio Armani Aqua Di Gio Desodorante Stick 75 ml'
+tags: 'desodorante'
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417%2BINPWqXL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHGK61J-es'
+slug: 'B07FHGK61J-es L Oréal Men expert Hydra Humedad Cuidado 24h Anti de...'
+tags: 'oréal'
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

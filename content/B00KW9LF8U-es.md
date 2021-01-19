@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bgKC3y8BL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KW9LF8U-es'
+slug: 'B00KW9LF8U-es AUSONIA - 72007 ABRELATAS PROFESIONAL DE MESA'
+tags: 'ausonia'
 actualPrice: 93.0 EUR
 currency: EUR
 price: 93.0

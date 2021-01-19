@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-tO0JpFwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B6NH61Q-es'
+slug: 'B08B6NH61Q-es Nestlé Naturnes Bio Nutri Puffs Snack De Cereales Con...'
+tags: 'nestlé'
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U2R9MW8-es'
+slug: 'B00U2R9MW8-es FINISH - Detergente Maquina Vajillas Finish 30 Past'
+tags: 'detergente, finish'
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iBWg1c+aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCQVFXY-es'
+slug: 'B07VCQVFXY-es Dove Men + Care Desodorante Spray Invisible Dry –...'
+tags: 'desodorante, dove'
 actualPrice: 7.43 EUR
 currency: EUR
 price: 7.43

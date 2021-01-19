@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wYAcRHvjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VX6U9DI-es'
+slug: 'B00VX6U9DI-es Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15...'
+tags: 'revlon'
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

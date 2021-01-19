@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318SEioub2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08MW5BXWS-es'
+slug: 'B08MW5BXWS-es SUAVINEX Suavinex Detergente para Biberones y Tetinas'
+tags: 'detergente'
 actualPrice: None None
 currency: None
 price: None

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31K6JQvqKIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXVR7QT-es'
+slug: 'B07MXVR7QT-es Maybelline New York Pack de 2 Barras de Labios Superstay...'
+tags: 'maybelline'
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

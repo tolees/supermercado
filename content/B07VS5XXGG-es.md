@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KRR7NtZjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VS5XXGG-es'
+slug: 'B07VS5XXGG-es Lurrose - 5 Bolsas de jabón de Malla de Espuma de Burbujas...'
+tags: 'jabón'
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

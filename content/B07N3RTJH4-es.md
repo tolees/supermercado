@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311TM5ZbTGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3RTJH4-es'
+slug: 'B07N3RTJH4-es Diadermine - Loción Micelar Calmante para Pieles...'
+tags: 'diadermine'
 actualPrice: 4.13 EUR
 currency: EUR
 price: 4.13

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z5OGCnAlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EHSNR3C-es'
+slug: 'B01EHSNR3C-es Cumlaude Gineseda - Complemento Alimenticio para Aliviar...'
+tags: 'soja'
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

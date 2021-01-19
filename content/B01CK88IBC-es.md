@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pBeS50qiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CK88IBC-es'
+slug: 'B01CK88IBC-es Redken Curvaceous Unisex Champú 300 ml - Champues Unisex...'
+tags: 'champú'
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

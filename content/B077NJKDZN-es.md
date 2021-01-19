@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21yGRta943L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NJKDZN-es'
+slug: 'B077NJKDZN-es L Oréal Paris - Brow Artist Micro Tattoo Perfilador de...'
+tags: 'oréal'
 actualPrice: 10 EUR
 currency: EUR
 price: 10

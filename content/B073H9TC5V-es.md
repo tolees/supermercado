@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DLqBH7X9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073H9TC5V-es'
+slug: 'B073H9TC5V-es Maybelline New York - Superstay Matte Ink Barra de Labios...'
+tags: 'maybelline'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

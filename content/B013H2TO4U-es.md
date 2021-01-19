@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yAO1tqbRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013H2TO4U-es'
+slug: 'B013H2TO4U-es Chivas Regal Extra Whisky Escocés de Mezcla - 700 ml'
+tags: 'whisky'
 actualPrice: 30.5 EUR
 currency: EUR
 price: 30.5

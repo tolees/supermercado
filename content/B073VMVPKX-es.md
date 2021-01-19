@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OOFlg4wzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073VMVPKX-es'
+slug: 'B073VMVPKX-es Maybelline New York - Lash Sensational Primer de Pestañas'
+tags: 'maybelline'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

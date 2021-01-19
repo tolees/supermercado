@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p3GypKtcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3ZQPLC-es'
+slug: 'B07B3ZQPLC-es Pato - WC Power Lejía fragancia Marine Limpiador...'
+tags: 'lejía'
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

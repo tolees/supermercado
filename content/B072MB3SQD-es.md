@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51JftzMfBhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MB3SQD-es'
+slug: 'B072MB3SQD-es Colgate Max White Expert Complete Dentífrico 75 ml paquete...'
+tags: 'colgate, dentífrico'
 actualPrice: 19.4 EUR
 currency: EUR
 price: 19.4

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51AiAuzNvmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FX2G5YZ-es'
+slug: 'B07FX2G5YZ-es Gladium Viñas Viejas Vino tinto Crianza - Paquete de 6 x...'
+tags: 'vino tinto'
 actualPrice: 32.52 EUR
 currency: EUR
 price: 32.52

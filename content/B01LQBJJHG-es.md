@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xihrhMGnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LQBJJHG-es'
+slug: 'B01LQBJJHG-es Maybelline New York - Master Strobing Liquido Iluminador...'
+tags: 'maybelline'
 actualPrice: 7.34 EUR
 currency: EUR
 price: 7.34

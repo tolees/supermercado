@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oRXd+9b9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KGSK5HS-es'
+slug: 'B01KGSK5HS-es Prada Linea Rossa - Desodorante spray l homme prada'
+tags: 'desodorante'
 actualPrice: 37.91 EUR
 currency: EUR
 price: 37.91

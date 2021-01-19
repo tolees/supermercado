@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318QVZPD4ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3QB29H-es'
+slug: 'B08D3QB29H-es CORNERIA Exprimidor de tubo con ruedas de 2 piezas-...'
+tags: 'pasta de dientes'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

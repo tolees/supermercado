@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416CAYamgML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F5OPRG2-es'
+slug: 'B01F5OPRG2-es Muévete | Potente antiinflamatorio con acción analgésica |...'
+tags: 'cúrcuma'
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

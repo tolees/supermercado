@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UN6HziVUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYDRGL7-es'
+slug: 'B06XYDRGL7-es Diadermine - Pack Expert Rejuvenecedor Crema Día +...'
+tags: 'diadermine'
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

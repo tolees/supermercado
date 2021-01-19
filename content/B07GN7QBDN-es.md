@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SZygTXIOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GN7QBDN-es'
+slug: 'B07GN7QBDN-es Automático Dispensador de Pasta de Dientes y Conjunto de...'
+tags: 'pasta de dientes'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

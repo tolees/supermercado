@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51y7CWeU3aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H4AAJS2-es'
+slug: 'B00H4AAJS2-es Instituto Español - Desodorante Roll-On Piel Atópica 75 ml'
+tags: 'desodorante, instituto español'
 actualPrice: 2.62 EUR
 currency: EUR
 price: 2.62

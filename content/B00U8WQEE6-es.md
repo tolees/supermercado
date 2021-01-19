@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dBOPEox0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U8WQEE6-es'
+slug: 'B00U8WQEE6-es Sesderma - Crema hidratante rejuvenecedora facial para...'
+tags: 'sesderma, crema hidratante'
 actualPrice: 31.96 EUR
 currency: EUR
 price: 31.96

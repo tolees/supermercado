@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pEUEvLAiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXSWNWD-es'
+slug: 'B01MXSWNWD-es Vermouth La Copa Rojo - D.O. Jerez - 6 x 750 ml - Total:...'
+tags: 'vermouth'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

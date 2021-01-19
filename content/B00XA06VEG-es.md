@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51BfhyT4vPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XA06VEG-es'
+slug: 'B00XA06VEG-es Scottex - Papel de cocina - Súper absorbente - 2 rollos'
+tags: 'scottex, papel de cocina'
 actualPrice: 1.18 EUR
 currency: EUR
 price: 1.18

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OmilmCaQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005JZ8XJG-es'
+slug: 'B005JZ8XJG-es Listerine Zero 0% Alcohol Enjuague Bucal - 500 ml'
+tags: 'listerine'
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

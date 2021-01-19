@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51q4ND7qBoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M8QG3O1-es'
+slug: 'B01M8QG3O1-es Toscaf Café Molido Mezcla Selección - 250 gr'
+tags: 'café'
 actualPrice: 1.59 EUR
 currency: EUR
 price: 1.59

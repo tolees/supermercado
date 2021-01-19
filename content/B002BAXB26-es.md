@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51H4xwpX1iL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B002BAXB26-es'
+slug: 'B002BAXB26-es Weider Thermo Caps- 120 Capsulas. Disminuye el apetito....'
+tags: 'cúrcuma'
 actualPrice: 14.32 EUR
 currency: EUR
 price: 14.32

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pKCrb29qL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYN4FKC-es'
+slug: 'B01MYN4FKC-es Hero Baby Trocitos Tarrito de Puré de Espaguetis con...'
+tags: 'jamón, hero baby'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ro6d53HXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q43NCLY-es'
+slug: 'B07Q43NCLY-es Vestimenta Casual de Playa para Mujer Vestidos de Verano...'
+tags: 'espagueti'
 actualPrice: None None
 currency: None
 price: None

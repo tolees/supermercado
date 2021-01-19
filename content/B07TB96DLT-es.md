@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Z2VfUjrpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TB96DLT-es'
+slug: 'B07TB96DLT-es President Leche Desnatada 1 5L x 6 = 9L'
+tags: 'president'
 actualPrice: None None
 currency: None
 price: None

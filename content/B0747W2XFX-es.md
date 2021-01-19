@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lwlUT7sHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0747W2XFX-es'
+slug: 'B0747W2XFX-es Philips Sonicare DiamondClean Smart HX9924/03 - Cepillo de...'
+tags: 'cepillo de dientes'
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

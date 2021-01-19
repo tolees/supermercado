@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4110KtgCI7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JFDKK9Y-es'
+slug: 'B07JFDKK9Y-es Wipp Express Detergente Líquido Azul - 64 Lavados'
+tags: 'detergente'
 actualPrice: 12.17 EUR
 currency: EUR
 price: 12.17

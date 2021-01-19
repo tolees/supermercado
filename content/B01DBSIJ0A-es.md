@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518gG0MsDsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DBSIJ0A-es'
+slug: 'B01DBSIJ0A-es Jack Daniels Single Barrel 100 Proof Whisky - 1 x 0.7 l'
+tags: 'whisky'
 actualPrice: 42.39 EUR
 currency: EUR
 price: 42.39

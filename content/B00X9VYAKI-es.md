@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yxNk-CkxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9VYAKI-es'
+slug: 'B00X9VYAKI-es L Oréal Paris Excellence Coloración Crème Triple...'
+tags: 'oréal'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

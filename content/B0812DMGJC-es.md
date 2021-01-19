@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31I1K-H3jnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0812DMGJC-es'
+slug: 'B0812DMGJC-es L Oréal Infalible 24 H Matte Cover Base De Maquillaje Alta...'
+tags: 'oréal'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

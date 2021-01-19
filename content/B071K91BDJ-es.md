@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51En88dUvjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071K91BDJ-es'
+slug: 'B071K91BDJ-es Finish Limpiamáquinas Líquido para lavavajillas - 2 unidades'
+tags: 'finish'
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

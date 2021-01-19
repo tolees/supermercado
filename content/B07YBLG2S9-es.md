@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iP2uzOWPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBLG2S9-es'
+slug: 'B07YBLG2S9-es Font Vella Levité Limón Zero - pack de 6 x 1 25L'
+tags: 'font vella'
 actualPrice: 6.84 EUR
 currency: EUR
 price: 6.84

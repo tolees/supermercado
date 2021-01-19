@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nH37JkeNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HPZ9FB5-es'
+slug: 'B07HPZ9FB5-es Neutrogena Radiance Boost Mascarilla Iluminadora - 4...'
+tags: 'neutrogena'
 actualPrice: 6.87 EUR
 currency: EUR
 price: 6.87

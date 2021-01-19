@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sUnmFCXBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QR85HG-es'
+slug: 'B073QR85HG-es Mimosín Concentrado Suavizante Aloe Vera 66lav x 8botellas'
+tags: 'suavizante'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

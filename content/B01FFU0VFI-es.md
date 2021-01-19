@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nndqhJi2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFU0VFI-es'
+slug: 'B01FFU0VFI-es True Instinct Original Medium-Maxi Junior - Pienso para...'
+tags: 'arroz, arroz integral'
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

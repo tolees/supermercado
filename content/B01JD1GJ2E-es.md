@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31p5Qdlk-IL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JD1GJ2E-es'
+slug: 'B01JD1GJ2E-es HOMBRE SIN CIERRES ELEGANTE Formal Zapatos - Café 44'
+tags: 'café'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

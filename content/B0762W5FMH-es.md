@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z3n-IF76L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0762W5FMH-es'
+slug: 'B0762W5FMH-es CERVEZA ESTRELLA DE GALICIA ESPECIAL LAGER PACK 24 LATAS 33CL'
+tags: 'cerveza'
 actualPrice: 18.06 EUR
 currency: EUR
 price: 18.06

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5180W9+yo5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXLFNEG-es'
+slug: 'B01LXLFNEG-es President Leche Semidesnatada - 6 x 1 L'
+tags: 'president'
 actualPrice: None None
 currency: None
 price: None

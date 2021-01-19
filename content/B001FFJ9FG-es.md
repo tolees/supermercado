@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51A5b68hczL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001FFJ9FG-es'
+slug: 'B001FFJ9FG-es VICTORY ENDURANCE Total Recovery Chocolate 750 g'
+tags: 'chocolate'
 actualPrice: 20.6 EUR
 currency: EUR
 price: 20.6

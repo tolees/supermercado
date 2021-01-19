@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OVJxAPJKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CR3UBLK-es'
+slug: 'B01CR3UBLK-es Café FORTALEZA - Café en Grano Mezcla 50/50 - 1 kg'
+tags: 'café, fortaleza'
 actualPrice: 10.34 EUR
 currency: EUR
 price: 10.34

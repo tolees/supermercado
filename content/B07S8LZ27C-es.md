@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RiWc3frAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8LZ27C-es'
+slug: 'B07S8LZ27C-es AXE gel de ducha gold bote 400 ml'
+tags: 'axe, gel de ducha'
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

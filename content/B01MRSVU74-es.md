@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ykBEki50L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRSVU74-es'
+slug: 'B01MRSVU74-es Braun MGK3060 Corta Barbas Hombre 8En1 Recortadora Barba y...'
+tags: 'gillette'
 actualPrice: 38.92 EUR
 currency: EUR
 price: 38.92

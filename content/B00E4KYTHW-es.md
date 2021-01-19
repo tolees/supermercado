@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tvoclQbBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E4KYTHW-es'
+slug: 'B00E4KYTHW-es Neutro Roberts - Jabón líquido antibacteriano'
+tags: 'jabón'
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

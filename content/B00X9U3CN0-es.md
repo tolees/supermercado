@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jRZD-tl9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9U3CN0-es'
+slug: 'B00X9U3CN0-es Garnier Nutrisse Creme Coloración permanente con...'
+tags: 'garnier'
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

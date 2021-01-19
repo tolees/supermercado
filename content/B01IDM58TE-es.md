@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pJTDYL90L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IDM58TE-es'
+slug: 'B01IDM58TE-es Cuca Berberecho Grande - 63 gr'
+tags: 'cuca'
 actualPrice: 6.03 EUR
 currency: EUR
 price: 6.03

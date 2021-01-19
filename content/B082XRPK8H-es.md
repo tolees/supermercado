@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31idoD02ADL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XRPK8H-es'
+slug: 'B082XRPK8H-es Maybelline New York Brow Extensions Stick de Cejas Tono 06...'
+tags: 'maybelline'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

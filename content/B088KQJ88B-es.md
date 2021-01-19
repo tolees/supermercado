@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417XZzLk7hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088KQJ88B-es'
+slug: 'B088KQJ88B-es Vino Blanco LAN D.O.Ca.Rioja - 6 botellas de 750 ml -...'
+tags: 'vino blanco'
 actualPrice: 25.16 EUR
 currency: EUR
 price: 25.16

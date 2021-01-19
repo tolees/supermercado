@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TaOUrkg2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WD3WPYS-es'
+slug: 'B06WD3WPYS-es Purina ONE Bifensis Pienso para gatos Esterilizados Salmón...'
+tags: 'purina, trigo'
 actualPrice: 1.64 EUR
 currency: EUR
 price: 1.64

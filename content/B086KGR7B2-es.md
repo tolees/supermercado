@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bTN1JDr0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086KGR7B2-es'
+slug: 'B086KGR7B2-es Ariel Allin1 Pods Original - Detergente en cápsulas para...'
+tags: 'detergente'
 actualPrice: 28.29 EUR
 currency: EUR
 price: 28.29

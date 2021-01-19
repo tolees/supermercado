@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mfLHja2EL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDB7TT8-es'
+slug: 'B07FDB7TT8-es Skip Ultimate Triple Poder Cuidado del Color Detergente...'
+tags: 'detergente'
 actualPrice: 25.37 EUR
 currency: EUR
 price: 25.37

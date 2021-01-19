@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414ex-PQRvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PXFV21-es'
+slug: 'B077PXFV21-es Sanytol - Ambientador Desinfectante de Tejidos en Spray...'
+tags: 'sanytol'
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

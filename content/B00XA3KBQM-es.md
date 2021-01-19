@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51zUnyW6sTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XA3KBQM-es'
+slug: 'B00XA3KBQM-es La Fallera - Arroz Extra - 5 kg'
+tags: 'arroz'
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

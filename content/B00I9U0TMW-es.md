@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XtvCCcNaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I9U0TMW-es'
+slug: 'B00I9U0TMW-es Philips Sonicare For Kids HX6032 - Set de 2 cabezales mini...'
+tags: 'cepillo de dientes'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

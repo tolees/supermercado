@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419aMnpDN-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004EFXO28-es'
+slug: 'B004EFXO28-es Oral-B Advance Power - Cepillo de dientes con pilas'
+tags: 'cepillo de dientes'
 actualPrice: 8.87 EUR
 currency: EUR
 price: 8.87

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ELX3yL2qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D3LC1J9-es'
+slug: 'B07D3LC1J9-es Sonew Base de jabón Natural Materias primas para jabón...'
+tags: 'jabón'
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

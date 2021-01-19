@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ttJOUUZtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DWHHJFW-es'
+slug: 'B00DWHHJFW-es Santa Digna Chardonnay Vino Blanco 6 botellas de 75 cl -...'
+tags: 'vino blanco'
 actualPrice: 33.94 EUR
 currency: EUR
 price: 33.94

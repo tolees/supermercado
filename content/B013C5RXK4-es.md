@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zM2LkX6dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013C5RXK4-es'
+slug: 'B013C5RXK4-es Bolero Bebida Instantánea sin Azúcar Sabor Limón - Paquete...'
+tags: 'azúcar'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

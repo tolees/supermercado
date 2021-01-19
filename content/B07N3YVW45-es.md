@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CcwRLz2zL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3YVW45-es'
+slug: 'B07N3YVW45-es NIVEA MEN Active Age Bálsamo Anti-edad 2en1 en pack de 3 3...'
+tags: 'nivea'
 actualPrice: 13.26 EUR
 currency: EUR
 price: 13.26

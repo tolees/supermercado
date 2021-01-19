@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+kh9YbBKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V6AY4DM-es'
+slug: 'B00V6AY4DM-es Solaray Sex Up | Libido saludable vitalidad resistencia y...'
+tags: 'sin gluten'
 actualPrice: 20.52 EUR
 currency: EUR
 price: 20.52

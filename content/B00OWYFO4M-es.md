@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516QzboQ9NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OWYFO4M-es'
+slug: 'B00OWYFO4M-es Purina Friskies en Salsa comida para gato Adulto con...'
+tags: 'atún, friskies, purina'
 actualPrice: 22.8 EUR
 currency: EUR
 price: 22.8

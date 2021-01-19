@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WLH+qb5rL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0786NLZ1H-es'
+slug: 'B0786NLZ1H-es Aceite de hígado de bacalao – 2000 mg de omega 3 con...'
+tags: 'bacalao'
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

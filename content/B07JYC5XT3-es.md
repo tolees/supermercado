@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cLCo0CRjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYC5XT3-es'
+slug: 'B07JYC5XT3-es Chupa Chups Original Caramelo con Palo de Sabores Variados...'
+tags: 'chupa chups'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

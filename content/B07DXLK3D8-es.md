@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4170FISTIHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DXLK3D8-es'
+slug: 'B07DXLK3D8-es Abridor de tarros 4 en 1 manual 5 en 1 abrebotellas de...'
+tags: 'cerveza'
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

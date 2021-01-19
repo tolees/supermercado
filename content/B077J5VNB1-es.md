@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-9+3gYTzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077J5VNB1-es'
+slug: 'B077J5VNB1-es Novex Queratina Brasileña Mascarilla Capilar - 400 gr.'
+tags: 'mascarilla capilar'
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31X302aNgIL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07772FGWF-es'
+slug: 'B07772FGWF-es 2 X Nu Skin Ap-24 Blanqueamiento Pasta De Dientes Con...'
+tags: 'pasta de dientes'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

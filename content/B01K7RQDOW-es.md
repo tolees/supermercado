@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411zCLDR9eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7RQDOW-es'
+slug: 'B01K7RQDOW-es Sensodyne Protección Diaria - Pasta de dientes con flúor...'
+tags: 'sensodyne, pasta de dientes'
 actualPrice: 2.78 EUR
 currency: EUR
 price: 2.78

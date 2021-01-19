@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mqMlQDGnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KLSZG7L-es'
+slug: 'B07KLSZG7L-es Crema hidratante antiarrugas con ácido hialurónico...'
+tags: 'crema hidratante'
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

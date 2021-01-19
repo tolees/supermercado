@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mw9XcHjkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY1CP38-es'
+slug: 'B01LY1CP38-es Nestlé Purés Pijama Tarrito de puré de verduras y carne...'
+tags: 'nestlé'
 actualPrice: None None
 currency: None
 price: None

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vCRe7rArL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LTIOUIE-es'
+slug: 'B01LTIOUIE-es TASSIMO L Or Café Splendente - 5 paquetes de 16 cápsulas:...'
+tags: 'café'
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

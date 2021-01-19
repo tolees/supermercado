@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/319l410DyyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZU5H9AY-es'
+slug: 'B00ZU5H9AY-es Axe Blacknight - Set de 6 geles de ducha 6 x 250 ml'
+tags: 'axe'
 actualPrice: 10.76 EUR
 currency: EUR
 price: 10.76

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41oFpzOPglL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZXGL3B-es'
+slug: 'B083ZXGL3B-es Mumiumius Babydoll de lencería Sexy con Tirantes y Correa...'
+tags: 'espagueti'
 actualPrice: 29.96 EUR
 currency: EUR
 price: 29.96

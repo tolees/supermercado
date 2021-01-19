@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K3s8w5l+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCRPFJ4-es'
+slug: 'B01NCRPFJ4-es Carbón Activado Premium – Polvo 100 % orgánico – Sin...'
+tags: 'pasta de dientes'
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

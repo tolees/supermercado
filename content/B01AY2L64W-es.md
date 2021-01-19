@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51rdYHl1q6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AY2L64W-es'
+slug: 'B01AY2L64W-es Cadbury Huevo de chocolate - 22 de 89 gr. Total 1958 gr.'
+tags: 'chocolate'
 actualPrice: 7.76 EUR
 currency: EUR
 price: 7.76

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FSugr4jJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OCHAS9U-es'
+slug: 'B00OCHAS9U-es Sónica cepillo de dientes portátil con pilas 2 cepillos de...'
+tags: 'cepillo de dientes'
 actualPrice: 21.87 EUR
 currency: EUR
 price: 21.87

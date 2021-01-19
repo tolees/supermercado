@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DhaOG-kAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VXKXX5-es'
+slug: 'B079VXKXX5-es Powerbar Barritas Proteinas con Bajo Nivel de Azucar Sabor...'
+tags: 'chocolate'
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HPByItTlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FHSV20G-es'
+slug: 'B01FHSV20G-es NaturGreen ARROZ CHOCO CALCIUM 200 ml'
+tags: 'arroz'
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

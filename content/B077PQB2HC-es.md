@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31M8RgFbzNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PQB2HC-es'
+slug: 'B077PQB2HC-es Masajeador Cuero Cabelludo FReatech [Mojado & Seco]...'
+tags: 'champú'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

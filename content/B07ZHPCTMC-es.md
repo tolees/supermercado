@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y1YDf0vbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHPCTMC-es'
+slug: 'B07ZHPCTMC-es Nivea Men Pack Active Age Caja de Regalo Fluido Hidratante...'
+tags: 'nivea'
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

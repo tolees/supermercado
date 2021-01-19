@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KNgRfHtmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU2ZEVO-es'
+slug: 'B01MU2ZEVO-es Calvé Salsa Cocktail - 225 ml'
+tags: 'calvé'
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

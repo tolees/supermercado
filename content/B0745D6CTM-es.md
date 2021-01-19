@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TCnhRZW-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0745D6CTM-es'
+slug: 'B0745D6CTM-es Artero Champú Baby 250ml. para Cachorros'
+tags: 'champú'
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

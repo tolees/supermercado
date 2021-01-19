@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tJy0MvkAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078JKMW2C-es'
+slug: 'B078JKMW2C-es Urterkam Champú - 500 ml.'
+tags: 'champú'
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

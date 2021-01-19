@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311a1xb2eSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P56MRYP-es'
+slug: 'B07P56MRYP-es Max Factor Maquillaje corrector Tono: 305 Sand Pieles...'
+tags: 'max factor'
 actualPrice: 3.3 EUR
 currency: EUR
 price: 3.3

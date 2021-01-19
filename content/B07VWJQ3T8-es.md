@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319rrKn2CKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWJQ3T8-es'
+slug: 'B07VWJQ3T8-es LOCCO - Gotas dulces con gusto a chocolate sin azúcar...'
+tags: 'azúcar, chocolate'
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CvJblqELL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MUS3ED8-es'
+slug: 'B01MUS3ED8-es Gliss - Acondicionador Express Fiber Therapy - Sin...'
+tags: 'acondicionador, schwarzkopf'
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

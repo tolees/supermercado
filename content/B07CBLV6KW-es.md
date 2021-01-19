@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311yl9DLNmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CBLV6KW-es'
+slug: 'B07CBLV6KW-es Alfaparf Acondicionador "Leave-In" Nutritivo de Pelo - 200 ml'
+tags: 'acondicionador'
 actualPrice: 12.43 EUR
 currency: EUR
 price: 12.43

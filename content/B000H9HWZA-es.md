@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41awBYUj51L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000H9HWZA-es'
+slug: 'B000H9HWZA-es Korres Champú Anticaspa'
+tags: 'champú'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

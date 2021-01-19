@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411RtvWucCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8GQP6V-es'
+slug: 'B07H8GQP6V-es Edgard & Cooper | Pollo de Granja con Mango arándanos...'
+tags: 'manzana, sin gluten'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

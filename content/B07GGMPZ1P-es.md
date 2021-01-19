@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51vLSPQzxrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GGMPZ1P-es'
+slug: 'B07GGMPZ1P-es Fairy Tail: Dragon Cry Movie 2 - Limited Steelcase Edition...'
+tags: 'fairy'
 actualPrice: 41.71 EUR
 currency: EUR
 price: 41.71

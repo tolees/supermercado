@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BI9fcLpGL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XS4MKZD-es'
+slug: 'B07XS4MKZD-es Rialto Picatostes Picagrill Queso Y Sésamo 75 g Pack de 24'
+tags: 'queso, sésamo'
 actualPrice: 22.6 EUR
 currency: EUR
 price: 22.6

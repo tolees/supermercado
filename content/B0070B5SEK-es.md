@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419jMo6ESrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0070B5SEK-es'
+slug: 'B0070B5SEK-es Wella SP Men - Set de espuma de pigmento negro Gradual...'
+tags: 'wella, champú'
 actualPrice: 16.23 EUR
 currency: EUR
 price: 16.23

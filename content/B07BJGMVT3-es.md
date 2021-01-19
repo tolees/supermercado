@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Nq7Mc6siL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJGMVT3-es'
+slug: 'B07BJGMVT3-es Dove Desodorante 0% Pepino Ahorro - 2 Paquetes de 2 x 150...'
+tags: 'desodorante, dove'
 actualPrice: 7.63 EUR
 currency: EUR
 price: 7.63

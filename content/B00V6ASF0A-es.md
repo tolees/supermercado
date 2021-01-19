@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gyBZzVT4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V6ASF0A-es'
+slug: 'B00V6ASF0A-es Drasanvi Jabón Árbol del Té - 100 gr'
+tags: 'jabón'
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5
@@ -25,10 +26,10 @@ Tienes [Drasanvi Jabón Árbol del Té - 100 gr](https://www.amazon.es/dp/B00V6A
 
 ℹ️:
 
-- Con propiedades bactericidas y fungicidas, está especialmente indicado para pieles que presentan algún tipo de infección
-- Jabón elaborado de forma natural
 - En su composición incluye aceite del árbol del té
 - Libre de grasa animal o industrial
+- Jabón elaborado de forma natural
 - Uso diario
+- Con propiedades bactericidas y fungicidas, está especialmente indicado para pieles que presentan algún tipo de infección
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00V6ASF0A/?tag=tolees-21)

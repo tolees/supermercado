@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G8O8JRwSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1WXDDR-es'
+slug: 'B07X1WXDDR-es Dightyoho Boda varita Pompas de jabón Tubo de la Burbuja...'
+tags: 'jabón'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

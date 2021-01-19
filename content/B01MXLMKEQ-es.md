@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Xd-Td0L5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXLMKEQ-es'
+slug: 'B01MXLMKEQ-es Lavazza Café Molido Espresso Club 100% Arábica Paquete de...'
+tags: 'café, lavazza'
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

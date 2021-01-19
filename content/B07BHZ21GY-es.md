@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414mrt7OpYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHZ21GY-es'
+slug: 'B07BHZ21GY-es BULL DOG champú para barba 2 en 1 dosificador 200 ml'
+tags: 'champú'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IVKdAFaUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRTDSGL-es'
+slug: 'B07NRTDSGL-es Gliss - Million Gloss Champú para Cabello Apagado y Sin...'
+tags: 'schwarzkopf, champú'
 actualPrice: 5.37 EUR
 currency: EUR
 price: 5.37

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VRT1yL38L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GSKQNX9-es'
+slug: 'B08GSKQNX9-es SO-buts Dispensadores De Desinfectante De Manos para...'
+tags: 'jabón'
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

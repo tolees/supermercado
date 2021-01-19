@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416wE4yYnHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAENE9C-es'
+slug: 'B00XAENE9C-es Air Wick Aerosol'
+tags: 'air wick'
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

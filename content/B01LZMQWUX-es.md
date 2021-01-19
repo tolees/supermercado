@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bQERHX-IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZMQWUX-es'
+slug: 'B01LZMQWUX-es Fairy Original - Cápsulas Todo en 1 para Lavavajillas - 44...'
+tags: 'fairy'
 actualPrice: 9.65 EUR
 currency: EUR
 price: 9.65

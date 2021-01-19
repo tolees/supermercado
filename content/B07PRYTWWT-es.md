@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m0afO1AHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRYTWWT-es'
+slug: 'B07PRYTWWT-es L OR Espresso Café paquete favorito - Nespresso® *...'
+tags: 'café, cápsulas de café'
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

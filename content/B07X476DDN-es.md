@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51d-D7ZRShL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X476DDN-es'
+slug: 'B07X476DDN-es Smint Tin Frutos Rojos Caramelo Comprimido Sin Azúcar - 2...'
+tags: 'azúcar, smint'
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

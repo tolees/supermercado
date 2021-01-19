@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41NR%2BehkBYL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SM9T7JF-es'
+slug: 'B07SM9T7JF-es Cola Cao Original Chocolate en Polvo - 770 gr'
+tags: 'chocolate'
 actualPrice: 2.11 EUR
 currency: EUR
 price: 2.11

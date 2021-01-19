@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61i6pBrRvsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895Y7NLY-es'
+slug: 'B0895Y7NLY-es GREAT ART set de 2 posters XXL – Nueva York Graffiti -...'
+tags: 'manzana'
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

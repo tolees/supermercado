@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zwa4jq6JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFG2V66-es'
+slug: 'B07KFG2V66-es GluteoStop® - ayuda a descomponer el gluten - 30 mini...'
+tags: 'sin gluten'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

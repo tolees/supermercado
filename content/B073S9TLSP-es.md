@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OMhYNfLgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073S9TLSP-es'
+slug: 'B073S9TLSP-es Revlon Flex 2 Fases Princess Look Acondicionador - 400 ml'
+tags: 'acondicionador, revlon'
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

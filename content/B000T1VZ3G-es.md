@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/517dj24AtpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000T1VZ3G-es'
+slug: 'B000T1VZ3G-es L Oréal Men Expert Gel Hidratante Antifatiga - 50 ml'
+tags: 'oréal'
 actualPrice: 7.66 EUR
 currency: EUR
 price: 7.66

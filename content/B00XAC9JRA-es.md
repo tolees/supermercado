@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21PCajPa3gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAC9JRA-es'
+slug: 'B00XAC9JRA-es Dove Desodorante Original Roll On 50 Ml'
+tags: 'desodorante, dove'
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

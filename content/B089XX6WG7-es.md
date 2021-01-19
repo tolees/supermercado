@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51M4G6d0MSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089XX6WG7-es'
+slug: 'B089XX6WG7-es Opret Cubiteras para Hielo Silicona 2 pcs Cubitos de Hielo...'
+tags: 'whisky'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

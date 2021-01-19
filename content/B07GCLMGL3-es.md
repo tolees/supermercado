@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wZjDhpS9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCLMGL3-es'
+slug: 'B07GCLMGL3-es MVPOWER Bolsas de Basura de Jardín Set de 3pcs x 300L Gran...'
+tags: 'bolsas de basura'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

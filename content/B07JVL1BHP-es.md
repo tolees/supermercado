@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CtIloSFLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVL1BHP-es'
+slug: 'B07JVL1BHP-es Diadermine - Gel Micelar Whashing me Softly para Pieles...'
+tags: 'diadermine'
 actualPrice: 10.25 EUR
 currency: EUR
 price: 10.25

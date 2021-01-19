@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51e7IeXVSUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QFS2UQI-es'
+slug: 'B00QFS2UQI-es Earth Rated Tierra Nominal dispensador con biodegradables...'
+tags: 'bolsas de basura'
 actualPrice: 31.46 EUR
 currency: EUR
 price: 31.46

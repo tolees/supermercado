@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mu4z6wzML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRFGFTY-es'
+slug: 'B07NRFGFTY-es Fa - Desodorante Roll-On Sport - Anti Transpirable y...'
+tags: 'desodorante'
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

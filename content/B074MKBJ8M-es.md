@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-%2BRvQN7tL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B074MKBJ8M-es'
+slug: 'B074MKBJ8M-es La Silla Española Ribadeo Oficina sin Reposacabezas...'
+tags: 'la española'
 actualPrice: 52.54 EUR
 currency: EUR
 price: 52.54

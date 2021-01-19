@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xQ2WMkjyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5HLNB8-es'
+slug: 'B01N5HLNB8-es Elizabeth Arden Advanced Ceramide Capsulas Monodosis para...'
+tags: 'elizabeth arden'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

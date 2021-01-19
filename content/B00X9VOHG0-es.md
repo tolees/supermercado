@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41canGCTMKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9VOHG0-es'
+slug: 'B00X9VOHG0-es La Toja - Espuma Afeitado Sensible con Aloe Vera y Sales...'
+tags: 'la toja'
 actualPrice: 2.3 EUR
 currency: EUR
 price: 2.3

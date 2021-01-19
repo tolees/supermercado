@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lgXePQdtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088CRY3KK-es'
+slug: 'B088CRY3KK-es Mafiti Dispensador de Jabón Automático Dosificador Cocina...'
+tags: 'jabón'
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31MuByfdrHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0012QEDUY-es'
+slug: 'B0012QEDUY-es Gloria Vanderbilt Gel y jabón Mujer - 150 ml.'
+tags: 'jabón'
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HVOtdTqYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDK9MLF-es'
+slug: 'B07FDK9MLF-es Mimosin Intense Explosión de Frescor Perlas de fragancia...'
+tags: 'mimosin'
 actualPrice: 17.8 EUR
 currency: EUR
 price: 17.8

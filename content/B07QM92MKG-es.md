@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41R5BOv%2BTyL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QM92MKG-es'
+slug: 'B07QM92MKG-es Mimosín Collection Parfum Suavizante Fleur Rouge - 6...'
+tags: 'suavizante'
 actualPrice: 25.44 EUR
 currency: EUR
 price: 25.44

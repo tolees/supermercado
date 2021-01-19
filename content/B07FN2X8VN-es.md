@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FN2X8VN-es'
+slug: 'B07FN2X8VN-es Café FORTALEZA - Surtido de Cápsulas de Café Orígenes...'
+tags: 'café, fortaleza, cápsulas de café'
 actualPrice: 33.91 EUR
 currency: EUR
 price: 33.91

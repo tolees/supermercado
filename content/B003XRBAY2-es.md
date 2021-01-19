@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31w2Hol5b6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003XRBAY2-es'
+slug: 'B003XRBAY2-es Babaria Veneno Serpiente Contorno Ojos 12 ml'
+tags: 'babaria'
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

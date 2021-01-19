@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ha0rC-N1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EA88JMS-es'
+slug: 'B01EA88JMS-es Levadura Nutricional 125 Gr de Salud Viva'
+tags: 'levadura'
 actualPrice: 8.14 EUR
 currency: EUR
 price: 8.14

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5146bdl4fBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVNJPH3-es'
+slug: 'B07GVNJPH3-es Original Source Mint Gel de ducha 500 ml 6 unidades'
+tags: 'gel de ducha'
 actualPrice: 22.17 EUR
 currency: EUR
 price: 22.17

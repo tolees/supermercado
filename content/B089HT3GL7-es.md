@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415hMNJcGrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089HT3GL7-es'
+slug: 'B089HT3GL7-es TRESemmé Acondicionador Repara Fortalece 685 ml x 6'
+tags: 'acondicionador, tresemmé'
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

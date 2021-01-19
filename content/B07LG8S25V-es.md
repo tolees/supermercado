@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vt8GsJQoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG8S25V-es'
+slug: 'B07LG8S25V-es Clynelish Reserva – Whisky escocés puro de malta – Edición...'
+tags: 'whisky'
 actualPrice: 43.94 EUR
 currency: EUR
 price: 43.94

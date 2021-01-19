@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41u9L10RJcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WR3R5MF-es'
+slug: 'B07WR3R5MF-es 3 pcs/set del hombre de afeitar kit de afeitado Espuma...'
+tags: 'jabón'
 actualPrice: 11.81 EUR
 currency: EUR
 price: 11.81

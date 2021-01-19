@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vZoud9udL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WXLX9T8-es'
+slug: 'B07WXLX9T8-es Marca Amazon - Happy Belly Espresso Decaffeinato- Café UTZ...'
+tags: 'café, descafeinado, happy belly'
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

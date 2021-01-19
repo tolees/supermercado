@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51G1sH1ANwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XADGT8G-es'
+slug: 'B00XADGT8G-es Colon Detergente polvo azul 44 lavados - 3212 gr'
+tags: 'detergente'
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

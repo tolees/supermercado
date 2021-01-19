@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JGkxGKPmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZZJRPK-es'
+slug: 'B07WZZJRPK-es Ariete 615 - Máquina para hacer queso y yogur 2 litros 6...'
+tags: 'queso, yogur'
 actualPrice: 65.23 EUR
 currency: EUR
 price: 65.23

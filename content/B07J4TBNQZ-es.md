@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MabBcQCWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J4TBNQZ-es'
+slug: 'B07J4TBNQZ-es The Glenrothes 10 Años Single Malt Whisky Escoces 40% -...'
+tags: 'whisky'
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

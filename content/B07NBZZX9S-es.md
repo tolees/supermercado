@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mdQfoa0oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NBZZX9S-es'
+slug: 'B07NBZZX9S-es AXE You - Desodorante Bodyspray para hombre 48 horas de...'
+tags: 'axe, desodorante'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

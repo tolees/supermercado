@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SwLf2k+ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QRGKM5-es'
+slug: 'B073QRGKM5-es Mimosin Concentrado Suavizante Azul Vital 89lav x 8botellas'
+tags: 'mimosin, suavizante'
 actualPrice: 26.32 EUR
 currency: EUR
 price: 26.32

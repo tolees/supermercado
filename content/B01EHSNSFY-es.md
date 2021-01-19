@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/612O5PW0TgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EHSNSFY-es'
+slug: 'B01EHSNSFY-es Ausonia Discreet Normal M - Braguitas-Pants paquete de 9...'
+tags: 'ausonia'
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/514kocUCOaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZW6FD9P-es'
+slug: 'B07ZW6FD9P-es Jardín Bio Muesli Bio al Chocolate y Semillas de Lino -...'
+tags: 'muesli, chocolate'
 actualPrice: 1.65 EUR
 currency: EUR
 price: 1.65

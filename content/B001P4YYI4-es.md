@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e5upif9GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001P4YYI4-es'
+slug: 'B001P4YYI4-es MONKEY SHOULDER Blended Whisky 70cl Bottle'
+tags: 'whisky'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

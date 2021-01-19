@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EAps8xpdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089HJ4SQ5-es'
+slug: 'B089HJ4SQ5-es TRESemmé Champú Liso y Sedoso 6 x 855 ML'
+tags: 'champú, tresemmé'
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

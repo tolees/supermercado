@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Of3PkOiZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSBVJ24-es'
+slug: 'B07GSBVJ24-es NIVEA Bajo la Ducha Body Milk Nutritivo en pack de 6 6 x...'
+tags: 'acondicionador, nivea'
 actualPrice: 20.63 EUR
 currency: EUR
 price: 20.63

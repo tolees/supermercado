@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u0k7FV58L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C1RLK9L-es'
+slug: 'B07C1RLK9L-es Cesar Multipack de 8 tarrinas para perro de 150g selección...'
+tags: 'paté'
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

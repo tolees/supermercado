@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410UAag3a4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPTJLLF-es'
+slug: 'B07FPTJLLF-es Café FORTALEZA - Cápsulas de Café Descafeinado Forte...'
+tags: 'café, descafeinado, fortaleza, cápsulas de café'
 actualPrice: 19.11 EUR
 currency: EUR
 price: 19.11

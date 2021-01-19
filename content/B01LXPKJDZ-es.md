@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QqBHpan-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXPKJDZ-es'
+slug: 'B01LXPKJDZ-es Garnier Skin Active Pure Active Gel 3 en 1 para Pieles...'
+tags: 'garnier'
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

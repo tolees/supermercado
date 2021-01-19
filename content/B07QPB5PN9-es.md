@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VHj+NIfXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPB5PN9-es'
+slug: 'B07QPB5PN9-es Love Beauty and Planet Desodorante Roll-on Love Aceite de...'
+tags: 'desodorante'
 actualPrice: 12.34 EUR
 currency: EUR
 price: 12.34

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e4qee-nzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9WUP88-es'
+slug: 'B00X9WUP88-es L Oréal Paris Excellence Intense Coloración Tono: 6 66...'
+tags: 'oréal'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

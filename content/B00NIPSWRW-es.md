@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51++bR8y0jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NIPSWRW-es'
+slug: 'B00NIPSWRW-es Oral-B PRO 600 CrossAction Cepillo de dientes eléctrico...'
+tags: 'cepillo de dientes'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

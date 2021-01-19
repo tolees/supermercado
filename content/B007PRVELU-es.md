@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Nn2E3H2uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007PRVELU-es'
+slug: 'B007PRVELU-es Cafe Dolce gusto CAFE CON LECHE | NESTLE Pack 3 cajas de...'
+tags: 'dolce gusto'
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

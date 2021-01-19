@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u8GOXNm6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088PJLV95-es'
+slug: 'B088PJLV95-es Puleva Max Leche Crecimiento y Desarrollo con Cacao y...'
+tags: 'puleva'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

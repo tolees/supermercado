@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rpg-SmXjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N21BC1A-es'
+slug: 'B01N21BC1A-es Mineradora manual de la carne con hojas de acero fundido...'
+tags: 'salchichas'
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

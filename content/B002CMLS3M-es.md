@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FGTiEtdlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002CMLS3M-es'
+slug: 'B002CMLS3M-es Aveda 50397 - Acondicionador 200 ml'
+tags: 'acondicionador'
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

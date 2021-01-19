@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31b11k6zt2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H5VOPES-es'
+slug: 'B01H5VOPES-es Revlon Pro You Color Champú - 1000 ml'
+tags: 'revlon, champú'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ko3fn0ffL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BEWMJUG-es'
+slug: 'B01BEWMJUG-es Fisherman s Friend Original Caramelo Comprimido Con Azúcar...'
+tags: 'azúcar'
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51k-c1wj%2BwL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3TS9DP-es'
+slug: 'B07F3TS9DP-es Bonsenkitchen Cortador de Verduras en Espiral...'
+tags: 'spaghetti'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

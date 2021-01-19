@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S2ofDWbNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LPLJ0GI-es'
+slug: 'B00LPLJ0GI-es Instituto Español Desodorante Roll On de Aloe Vera - 75 ml'
+tags: 'desodorante, instituto español'
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

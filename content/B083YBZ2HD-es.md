@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hpPO+0f8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083YBZ2HD-es'
+slug: 'B083YBZ2HD-es TRESemmé Champú Cuidado Clásico 900ml - Pack de 6'
+tags: 'champú, tresemmé'
 actualPrice: 22.69 EUR
 currency: EUR
 price: 22.69

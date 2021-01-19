@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uUxKVqQdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSCPW3C-es'
+slug: 'B07TSCPW3C-es Batidora Portátil de Frutas Recargable Con USB Mini...'
+tags: 'zumo de'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

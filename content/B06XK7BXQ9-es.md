@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TPIaVY36L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XK7BXQ9-es'
+slug: 'B06XK7BXQ9-es OGX Acondicionador Aceite de Argán Extra Fuerte Hidrata y...'
+tags: 'acondicionador'
 actualPrice: 7.56 EUR
 currency: EUR
 price: 7.56

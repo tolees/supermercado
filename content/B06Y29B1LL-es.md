@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p6WDNuWWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y29B1LL-es'
+slug: 'B06Y29B1LL-es Puleva Leche Desnatada - 6 x 1 L'
+tags: 'puleva'
 actualPrice: None None
 currency: None
 price: None

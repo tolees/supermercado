@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ubbdE-xaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VSYK2T-es'
+slug: 'B082VSYK2T-es Schwarzkopf Palette Intense Coloración Permanente Tono 3...'
+tags: 'schwarzkopf'
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

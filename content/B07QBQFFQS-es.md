@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TCLZpE17L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QBQFFQS-es'
+slug: 'B07QBQFFQS-es Valor Chocolate con leche almendras y avellanas 45% cacao...'
+tags: 'chocolate'
 actualPrice: 2.18 EUR
 currency: EUR
 price: 2.18

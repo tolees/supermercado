@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FHwpOxY8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AHV6FYM-es'
+slug: 'B00AHV6FYM-es Laboratorios Babé - Crema Urea 10% Loción Reparadora 500...'
+tags: 'soja'
 actualPrice: 14.45 EUR
 currency: EUR
 price: 14.45

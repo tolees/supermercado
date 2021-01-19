@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ggog49K0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081F8YZP6-es'
+slug: 'B081F8YZP6-es The Glenrothes 18 años Single Malt Scotch Whisky 43% +...'
+tags: 'whisky'
 actualPrice: 77.11 EUR
 currency: EUR
 price: 77.11

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IoGrP9AfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRQ94X4-es'
+slug: 'B07XRQ94X4-es Berberechos al natural elaborados en fresco 25/35 piezas...'
+tags: 'berberechos'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

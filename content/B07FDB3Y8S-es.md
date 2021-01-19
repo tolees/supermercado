@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Mg0LsMWiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDB3Y8S-es'
+slug: 'B07FDB3Y8S-es Skip Ultimate Triple Poder Pieles Sensibles Detergente...'
+tags: 'detergente'
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

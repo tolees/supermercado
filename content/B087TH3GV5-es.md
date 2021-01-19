@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4137pxrp2FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087TH3GV5-es'
+slug: 'B087TH3GV5-es Cocoda Dispensador de Desinfectante Manos 350ml...'
+tags: 'jabon'
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

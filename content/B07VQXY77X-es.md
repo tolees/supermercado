@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FKDkR2ukL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQXY77X-es'
+slug: 'B07VQXY77X-es Tibek - Máquina de palomitas por aire caliente sin aceite...'
+tags: 'chocolate'
 actualPrice: 34.26 EUR
 currency: EUR
 price: 34.26

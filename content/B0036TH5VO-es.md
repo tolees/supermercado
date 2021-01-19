@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sRJOTnT3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0036TH5VO-es'
+slug: 'B0036TH5VO-es Oral-B Advance Power - Cepillo de dientes eléctrico a...'
+tags: 'cepillo de dientes'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

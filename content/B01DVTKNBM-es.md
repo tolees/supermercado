@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xkQBYU4tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DVTKNBM-es'
+slug: 'B01DVTKNBM-es Weider Protein Pancake Mix Vainilla. Tortitas de harina de...'
+tags: 'harina'
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

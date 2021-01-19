@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RVp89DjXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CYYXXD0-es'
+slug: 'B01CYYXXD0-es Lea Champú para Barba Purificante y Suavizante - 100 ml'
+tags: 'suavizante, champú'
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fH3syHe7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D3LKVDQ-es'
+slug: 'B07D3LKVDQ-es Buluri 84 Piezas Fondant Cortadores - Bricolaje Fondant...'
+tags: 'azúcar'
 actualPrice: 14.77 EUR
 currency: EUR
 price: 14.77

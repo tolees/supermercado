@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21l4C8SuNcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015ZGYMBQ-es'
+slug: 'B015ZGYMBQ-es L Oréal Paris Make-up designer Brocha para Contouring'
+tags: 'oréal'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

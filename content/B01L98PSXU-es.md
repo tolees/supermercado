@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vAx+0-UWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L98PSXU-es'
+slug: 'B01L98PSXU-es Mustela - Gel dermolimpiador lavante sin jabón cabello y...'
+tags: 'jabón'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

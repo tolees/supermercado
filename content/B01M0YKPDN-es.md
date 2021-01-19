@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514Vmlo6LRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0YKPDN-es'
+slug: 'B01M0YKPDN-es Mical Papel de cocina con 2 Capas - 4 Rollos'
+tags: 'papel de cocina'
 actualPrice: None None
 currency: None
 price: None

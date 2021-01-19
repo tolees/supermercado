@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KaLBTYTmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UCC2O7I-es'
+slug: 'B00UCC2O7I-es Finish Powerball All in 1 Max - Pastillas para el...'
+tags: 'finish'
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

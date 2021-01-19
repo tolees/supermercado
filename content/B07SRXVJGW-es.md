@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51g3z3DG6IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRXVJGW-es'
+slug: 'B07SRXVJGW-es Discos Desmaquillantes Reutilizables | Almohadillas...'
+tags: 'discos desmaquillantes'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

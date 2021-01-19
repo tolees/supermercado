@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61JwHNzeFxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5QLSHJ-es'
+slug: 'B07S5QLSHJ-es Ambientador Natural y Purificación de Aire 3 Pack Bambú...'
+tags: 'desodorante'
 actualPrice: 14.22 EUR
 currency: EUR
 price: 14.22

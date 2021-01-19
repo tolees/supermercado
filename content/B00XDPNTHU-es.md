@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61I2p-Ym-rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XDPNTHU-es'
+slug: 'B00XDPNTHU-es Foxy Asso Ultra Papel de Cocina - 2 rollos'
+tags: 'foxy, papel de cocina'
 actualPrice: 2.37 EUR
 currency: EUR
 price: 2.37

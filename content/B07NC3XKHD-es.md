@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PEEFHe1KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC3XKHD-es'
+slug: 'B07NC3XKHD-es AXE Excite - Desodorante Bodyspray para hombre 48 horas de...'
+tags: 'axe, desodorante'
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

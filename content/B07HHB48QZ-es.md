@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410+av0pdIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHB48QZ-es'
+slug: 'B07HHB48QZ-es Cúrcuma 6000 mg Extracto al 95% con Pimienta Negra | 120...'
+tags: 'cúrcuma'
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

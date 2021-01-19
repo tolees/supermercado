@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GcV2fD-tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083G2ZZYP-es'
+slug: 'B083G2ZZYP-es Scholl Desodorante calzado Fresh Step Antitranspirante -...'
+tags: 'desodorante'
 actualPrice: 22.61 EUR
 currency: EUR
 price: 22.61

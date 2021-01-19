@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41rfBilB89L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0831DFJYF-es'
+slug: 'B0831DFJYF-es Zuionk Creative Squeezing Automatic Dientes Herramienta de...'
+tags: 'cepillo de dientes, pasta de dientes'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

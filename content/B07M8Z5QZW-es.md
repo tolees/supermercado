@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61X1NGph2-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8Z5QZW-es'
+slug: 'B07M8Z5QZW-es WERNNSAI Juego Tema Decoración de Fiesta - Set de Party...'
+tags: 'servilletas'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

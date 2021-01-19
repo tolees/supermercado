@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JnOaCEqGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1Y2VR8-es'
+slug: 'B07N1Y2VR8-es Auténtica Miel Ecológica con Ajo Negro ecológico |...'
+tags: 'azúcar'
 actualPrice: 11.61 EUR
 currency: EUR
 price: 11.61

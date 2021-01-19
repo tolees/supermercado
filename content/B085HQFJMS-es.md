@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QW5Qtj4lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085HQFJMS-es'
+slug: 'B085HQFJMS-es GLUTEN FREE: JAMÁS TE SERÁ MÁS FÁCIL COCINAR Y COMER SIN...'
+tags: 'sin gluten'
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qd6Q9caVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NGZNFNX-es'
+slug: 'B01NGZNFNX-es Maybelline New York - Superstay 7Days 887 All Day Plum...'
+tags: 'maybelline'
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

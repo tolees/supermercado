@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z5TnMTCLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073VN2WG8-es'
+slug: 'B073VN2WG8-es Mimosín - Intense Estallido de Pasión Suavizante...'
+tags: 'suavizante'
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

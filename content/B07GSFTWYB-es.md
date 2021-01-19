@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tIAkDiaHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSFTWYB-es'
+slug: 'B07GSFTWYB-es Estirpe - Aceite de Oliva Virgen Extra 1 Garrafa de 5 Litros'
+tags: 'aceite de oliva, virgen extra'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/215h18pI-JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FJWXTJS-es'
+slug: 'B00FJWXTJS-es Maybelline New York - Superstay 24H Polvos Compactos de...'
+tags: 'maybelline'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

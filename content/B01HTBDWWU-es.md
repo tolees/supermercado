@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41835nu61ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HTBDWWU-es'
+slug: 'B01HTBDWWU-es RAM Chocolate Líquido a la Taza - 6 x 1 L - Total: 6 L'
+tags: 'chocolate'
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

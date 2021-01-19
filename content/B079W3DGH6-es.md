@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HK4nwxcNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079W3DGH6-es'
+slug: 'B079W3DGH6-es Garnier Olia - Coloración Permanente sin Amoniaco con...'
+tags: 'garnier'
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

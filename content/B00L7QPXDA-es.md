@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nNd79kfgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L7QPXDA-es'
+slug: 'B00L7QPXDA-es Neutrogena - Cuerpo Hidratación Bálsamo Hidratación...'
+tags: 'neutrogena'
 actualPrice: 11.35 EUR
 currency: EUR
 price: 11.35

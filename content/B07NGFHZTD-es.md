@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41II8C2kgeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGFHZTD-es'
+slug: 'B07NGFHZTD-es Marca Amazon - Solimo Champú y acondicionador anticaspa 2...'
+tags: 'acondicionador, solimo, champú'
 actualPrice: 7.37 EUR
 currency: EUR
 price: 7.37

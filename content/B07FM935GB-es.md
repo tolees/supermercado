@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nPLhq+s9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FM935GB-es'
+slug: 'B07FM935GB-es Dymatize ISO100 chocolate y coco 2200 G'
+tags: 'chocolate'
 actualPrice: 46.86 EUR
 currency: EUR
 price: 46.86

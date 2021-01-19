@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FWKNKhWkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX23TW7-es'
+slug: 'B01LX23TW7-es Air Wick Ambientador Freshmatic Recambio - Fragancia...'
+tags: 'air wick'
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

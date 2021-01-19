@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/512ShwZr3uL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6DXM6F-es'
+slug: 'B01N6DXM6F-es Spontex Universale - Set de 3 estropajos salvauñas con...'
+tags: 'spontex, salvauñas'
 actualPrice: 8 EUR
 currency: EUR
 price: 8

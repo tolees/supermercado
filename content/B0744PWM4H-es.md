@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51r0cB04yhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0744PWM4H-es'
+slug: 'B0744PWM4H-es Holle Papilla de Copos de Avena +4 meses - Paquete de 6 x...'
+tags: 'copos de avena'
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

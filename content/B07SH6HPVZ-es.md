@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZnHWHsheL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SH6HPVZ-es'
+slug: 'B07SH6HPVZ-es Chicco Pantaloni Lunghi Jeans Denim Stretch Bimbo Bebés'
+tags: 'bimbo'
 actualPrice: None None
 currency: None
 price: None

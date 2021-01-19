@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ILkeaiJiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7Z9IG9-es'
+slug: 'B01N7Z9IG9-es Harry Potter Caja De Selección De Dulces Y Chocolates...'
+tags: 'chocolate'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

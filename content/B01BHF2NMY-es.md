@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q+B+HAEuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BHF2NMY-es'
+slug: 'B01BHF2NMY-es Tigi Catwalk Oatmeal & Honey Nourishing Acondicionador -...'
+tags: 'acondicionador, oatmeal'
 actualPrice: 11.74 EUR
 currency: EUR
 price: 11.74

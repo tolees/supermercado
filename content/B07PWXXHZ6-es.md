@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51KUWdZ7aNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWXXHZ6-es'
+slug: 'B07PWXXHZ6-es FS L Teanina Pura [300 mg] Sin Rellenos o Aglutinantes |...'
+tags: 'sin gluten'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

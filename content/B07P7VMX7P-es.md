@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51GzWKq7etL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7VMX7P-es'
+slug: 'B07P7VMX7P-es AXE Desodorante Antitraspirante Gold Blanco Duplo Ahorro -...'
+tags: 'axe, desodorante'
 actualPrice: 13.24 EUR
 currency: EUR
 price: 13.24

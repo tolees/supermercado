@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uzhxqt0yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E7ABOJK-es'
+slug: 'B00E7ABOJK-es Whisky Blended Scotch Passport 70 cl'
+tags: 'whisky'
 actualPrice: 8.54 EUR
 currency: EUR
 price: 8.54

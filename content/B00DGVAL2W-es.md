@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IfOSktCwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DGVAL2W-es'
+slug: 'B00DGVAL2W-es Cardhu 15 Años Whisky Escocés - 700 ml'
+tags: 'cardhu, whisky'
 actualPrice: 38.74 EUR
 currency: EUR
 price: 38.74

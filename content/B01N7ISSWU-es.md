@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lGxWt1qWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7ISSWU-es'
+slug: 'B01N7ISSWU-es Yoffee - Gel de Ducha Antibacteriano y antiséptico para...'
+tags: 'jabón, gel de ducha'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

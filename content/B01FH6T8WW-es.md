@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410uIs0fRhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FH6T8WW-es'
+slug: 'B01FH6T8WW-es Chicco Natural Sensation - Champú sin lágrimas 300 ml'
+tags: 'champú'
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

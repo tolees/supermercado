@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HOMincHwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0068DFDH8-es'
+slug: 'B0068DFDH8-es Oral-B - Cepillo de dientes eléctrico funciona con pilas...'
+tags: 'cepillo de dientes'
 actualPrice: 11.92 EUR
 currency: EUR
 price: 11.92

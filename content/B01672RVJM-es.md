@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51i1O6kfSqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01672RVJM-es'
+slug: 'B01672RVJM-es Alternativa 3 - Azúcar Panela Bio Alternativa 5kg'
+tags: 'azúcar'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

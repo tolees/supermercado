@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wA1XeHtrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015CVNY9K-es'
+slug: 'B015CVNY9K-es Balvi Bandeja Caramel Color Amarillo bandejas...'
+tags: 'chocolate'
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

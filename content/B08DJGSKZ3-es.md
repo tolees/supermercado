@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EnHMJxaHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJGSKZ3-es'
+slug: 'B08DJGSKZ3-es Flor - Suavizante para la ropa concentrado aroma Oceánico...'
+tags: 'suavizante'
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

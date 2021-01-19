@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518PsQBeZ0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGL8MFB-es'
+slug: 'B07LGL8MFB-es Oral-B Complete Plus Frescor Total Pasta Dentífrica 75 ml'
+tags: 'dentífrica'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

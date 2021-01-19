@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q6vaNV+tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NX14WX3-es'
+slug: 'B07NX14WX3-es Axe - Apollo - Desodorante Bodyspray para hombre 48 horas...'
+tags: 'axe, desodorante'
 actualPrice: None None
 currency: None
 price: None

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/515TnDv8mgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DWFIUDS-es'
+slug: 'B01DWFIUDS-es Colgate Plax Rojo Enjuague - Pack de 4 x 500 ml'
+tags: 'colgate'
 actualPrice: 7.73 EUR
 currency: EUR
 price: 7.73

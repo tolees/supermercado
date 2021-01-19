@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41S3oqbWVDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVFF82C-es'
+slug: 'B07CVFF82C-es Marca Amazon - Happy Belly Café molido "COLOMBIA" 4 x 250g'
+tags: 'café, happy belly'
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

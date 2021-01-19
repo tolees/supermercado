@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41q8bZrHb1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VRAJYNG-es'
+slug: 'B00VRAJYNG-es Revlon Sombra de ojos - 6.6 gr.'
+tags: 'revlon'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

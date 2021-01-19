@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CRpbFOwkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B46FKNM-es'
+slug: 'B07B46FKNM-es Bourjois Rouge Edition Velvet Barra de Labios Líquida Tono...'
+tags: 'café'
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

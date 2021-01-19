@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-E9i5nwFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GE3JO4-es'
+slug: 'B000GE3JO4-es Gillette Fusion Power - Recambios de maquinilla de afeitar...'
+tags: 'gillette'
 actualPrice: 14.11 EUR
 currency: EUR
 price: 14.11

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ogOItv3ZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B002ZNQY6E-es'
+slug: 'B002ZNQY6E-es Maybelline Roller Color Loose Powder Eye Shadow Plata'
+tags: 'maybelline'
 actualPrice: 1.09 EUR
 currency: EUR
 price: 1.09

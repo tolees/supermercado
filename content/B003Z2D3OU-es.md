@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zubnz9RbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003Z2D3OU-es'
+slug: 'B003Z2D3OU-es Sebastian Sebastian Penetraitt Acondicionador 250 ml'
+tags: 'acondicionador'
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

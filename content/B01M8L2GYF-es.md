@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51d8xq7Ix7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M8L2GYF-es'
+slug: 'B01M8L2GYF-es Gourmet - Café soluble - Tueste natural - 200 g - [Pack de 3]'
+tags: 'café'
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

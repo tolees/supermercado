@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LDrMbTo8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072FN1JRN-es'
+slug: 'B072FN1JRN-es INJUICY Loft Vintage Retro Industria LED AJ Lámpara de...'
+tags: 'café'
 actualPrice: None None
 currency: None
 price: None

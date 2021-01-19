@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4130ducCZmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TTWZ636-es'
+slug: 'B00TTWZ636-es LACTACYD Íntimo Toallitas - Higiene Íntima - Ideal para...'
+tags: 'lactacyd'
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31G3R8GZHeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JVEZMGW-es'
+slug: 'B01JVEZMGW-es Glenmorangie Whisky - 700 ml'
+tags: 'whisky'
 actualPrice: 34.47 EUR
 currency: EUR
 price: 34.47

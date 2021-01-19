@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413irIbflmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N05GU3G-es'
+slug: 'B01N05GU3G-es OGX Champú Aceite de Argán Extra Fuerte Hidrata y...'
+tags: 'champú'
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

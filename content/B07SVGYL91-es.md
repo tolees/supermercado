@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tyLpw5PdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVGYL91-es'
+slug: 'B07SVGYL91-es Fairy Taill & Glitter Fee 100 Unidades Mezcla Cristal...'
+tags: 'fairy'
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

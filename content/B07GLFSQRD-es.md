@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51l3eHovuHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GLFSQRD-es'
+slug: 'B07GLFSQRD-es Té de Yunnan Rose Puerh 100g 0.22LB conservas de Rose Puer...'
+tags: 'conservas'
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

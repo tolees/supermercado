@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XwNW6-UaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A3EXGX6-es'
+slug: 'B00A3EXGX6-es Santa Rita Harina para Croquetas y Bechamel - 430 gr'
+tags: 'bechamel, croquetas, harina'
 actualPrice: 1.93 EUR
 currency: EUR
 price: 1.93

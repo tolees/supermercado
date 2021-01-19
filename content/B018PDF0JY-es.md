@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413VO0AQQQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B018PDF0JY-es'
+slug: 'B018PDF0JY-es Olay Regenerist 3 Punto Antienvejecimiento Noche Crema...'
+tags: 'crema hidratante'
 actualPrice: 28.5 EUR
 currency: EUR
 price: 28.5

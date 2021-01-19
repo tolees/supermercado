@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eSnW8df1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XDNYFZM-es'
+slug: 'B00XDNYFZM-es Lindt Lindor Tableta de Chocolate Blanco 100 g'
+tags: 'lindt, chocolate'
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

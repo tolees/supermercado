@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419wZQh+l4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DK4J5GM-es'
+slug: 'B08DK4J5GM-es MOSUO Dispensador de Jabón Automático 350ml Dispensador...'
+tags: 'jabón'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JxCWdj2cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HBG3MV-es'
+slug: 'B078HBG3MV-es Ecover Suavizante Manzana Almendra 5 Lt Ecover 1 Unidad...'
+tags: 'manzana, suavizante'
 actualPrice: 19.35 EUR
 currency: EUR
 price: 19.35

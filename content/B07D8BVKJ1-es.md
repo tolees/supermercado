@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TGimMXUzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D8BVKJ1-es'
+slug: 'B07D8BVKJ1-es Dove Loción Corporal de Aceite de Aguacate y Extracto de...'
+tags: 'dove'
 actualPrice: 27.18 EUR
 currency: EUR
 price: 27.18

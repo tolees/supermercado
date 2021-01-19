@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bdyJ1Io2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GIPJ0M-es'
+slug: 'B000GIPJ0M-es Optimum Nutrition ON Serious Mass proteina en polvo mass...'
+tags: 'chocolate'
 actualPrice: 42.7 EUR
 currency: EUR
 price: 42.7

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41skqrarOnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFKTGNX-es'
+slug: 'B07ZFKTGNX-es ZXYAN Biberón de Silicona Blanca Alimentador de Cuchara...'
+tags: 'arroz'
 actualPrice: 5.03 EUR
 currency: EUR
 price: 5.03

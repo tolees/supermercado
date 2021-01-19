@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ha5wSSK2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VD5PR2-es'
+slug: 'B071VD5PR2-es Listerine Enjuague Bucal Cuidado Total Zero - 500 ml -...'
+tags: 'listerine'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

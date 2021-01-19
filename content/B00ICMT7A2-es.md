@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sicbXqIVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ICMT7A2-es'
+slug: 'B00ICMT7A2-es Babaria Gel de Rápida Absorción para Después del Afeitado...'
+tags: 'babaria'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zuo18z-IL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LTIQMFI-es'
+slug: 'B01LTIQMFI-es MIXA - Sensitive Confort Desodorante de bola para pieles...'
+tags: 'desodorante'
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

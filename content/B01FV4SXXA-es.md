@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ESqz4o9-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FV4SXXA-es'
+slug: 'B01FV4SXXA-es Anne Moller Pour Homme Control Triple Action Desodorante -...'
+tags: 'desodorante'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

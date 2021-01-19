@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51g0h4KcOFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1XSGBK-es'
+slug: 'B07K1XSGBK-es CÚRCUMA + MATCHA Té Verde En Polvo - MEJORES MEZCLAS DE...'
+tags: 'cúrcuma'
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

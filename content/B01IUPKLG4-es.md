@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nOru+ricL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IUPKLG4-es'
+slug: 'B01IUPKLG4-es Bimbo Rebanada Estilo Artesano Pan blanco con corteza 550g...'
+tags: 'bimbo'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

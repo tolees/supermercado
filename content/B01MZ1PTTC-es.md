@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xpeNosRcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZ1PTTC-es'
+slug: 'B01MZ1PTTC-es Babaria Men Vital Skin Stop Arrugas Lote Crema Antiarrugas...'
+tags: 'babaria'
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

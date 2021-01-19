@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hcCOEglHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MF9YDQN-es'
+slug: 'B01MF9YDQN-es Neutrogena Crema Facial – Gel de agua Hydro Boost...'
+tags: 'neutrogena'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

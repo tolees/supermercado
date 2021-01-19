@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+sSEjFSgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MDLUKJ3-es'
+slug: 'B01MDLUKJ3-es Heineken Cerveza - Paquete de 12 x 330 ml - Total: 3960 ml'
+tags: 'cerveza, heineken'
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

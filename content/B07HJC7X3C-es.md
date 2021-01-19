@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qTmJeN0bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJC7X3C-es'
+slug: 'B07HJC7X3C-es Suavizante supreme glamour vernel 600ml.'
+tags: 'suavizante, vernel'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

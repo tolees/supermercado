@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NMq17Z8mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PROCS90-es'
+slug: 'B00PROCS90-es ENATE Reserva Especial 2006 Cabernet Sauvignon y Merlot...'
+tags: 'vino tinto'
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

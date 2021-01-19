@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t35BJFU3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CRL9X78-es'
+slug: 'B07CRL9X78-es Dove Crema de ducha exfoliante de Granada & sheabu tter 4...'
+tags: 'dove'
 actualPrice: 18.15 EUR
 currency: EUR
 price: 18.15

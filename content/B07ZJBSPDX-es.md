@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311cEn55n-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZJBSPDX-es'
+slug: 'B07ZJBSPDX-es Cepillo de Dientes Eléctrico Cepillo de Dientes Sonico con...'
+tags: 'cepillo de dientes'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

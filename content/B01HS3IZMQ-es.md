@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51By9+eGJCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HS3IZMQ-es'
+slug: 'B01HS3IZMQ-es Cafés Granell - Exotic Collection - Sulawesi Café en Grano...'
+tags: 'café'
 actualPrice: 14.12 EUR
 currency: EUR
 price: 14.12

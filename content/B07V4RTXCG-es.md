@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YJrwW58RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4RTXCG-es'
+slug: 'B07V4RTXCG-es Tommy Hilfiger - Soft Turnlock Lrg Za Carteras Mujer Gris...'
+tags: 'oatmeal'
 actualPrice: 37.58 EUR
 currency: EUR
 price: 37.58

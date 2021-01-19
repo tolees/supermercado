@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31L3%2BoYkCEL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFST0TI-es'
+slug: 'B01FFST0TI-es Nosa Healthcare Champú - 250 ml'
+tags: 'champú'
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

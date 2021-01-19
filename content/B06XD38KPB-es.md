@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QIWXO6YUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XD38KPB-es'
+slug: 'B06XD38KPB-es Garnier Delial Sensitive Advanced - Bruma Facial...'
+tags: 'garnier'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

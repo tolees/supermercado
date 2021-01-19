@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412N-MYD74L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1XZW3L-es'
+slug: 'B07K1XZW3L-es Skip Ultimate Triple Poder Máxima Eficacia Detergente...'
+tags: 'detergente'
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41dk1yBByxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NL7YML4-es'
+slug: 'B07NL7YML4-es Xiton Pintalabios natural del Aloe Vera Jalea 1 pieza...'
+tags: 'crema hidratante'
 actualPrice: 0.92 EUR
 currency: EUR
 price: 0.92

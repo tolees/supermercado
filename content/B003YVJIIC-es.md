@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ad67fj1FL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B003YVJIIC-es'
+slug: 'B003YVJIIC-es NESCAFÉ Dolce Gusto Café Latte Macchiato Vainilla Pack de...'
+tags: 'café, nescafé, cápsulas de café, dolce gusto'
 actualPrice: 13.7 EUR
 currency: EUR
 price: 13.7

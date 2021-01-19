@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Mu0jUK5hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG9ZGQC-es'
+slug: 'B07LG9ZGQC-es Singleton Glendullan - Whisky escocés puro de malta -...'
+tags: 'whisky'
 actualPrice: 35.7 EUR
 currency: EUR
 price: 35.7

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518VdtqDx2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IUW3O84-es'
+slug: 'B01IUW3O84-es Lay s - Patatas Fritas al punto de sal 170 gr'
+tags: 'patatas fritas'
 actualPrice: 1.22 EUR
 currency: EUR
 price: 1.22

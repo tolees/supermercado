@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+XkWaxVaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N25BAJD-es'
+slug: 'B01N25BAJD-es L Oréal Paris Colorete en Stick Infalible Chubby Pinkabilly'
+tags: 'oréal'
 actualPrice: 6.58 EUR
 currency: EUR
 price: 6.58

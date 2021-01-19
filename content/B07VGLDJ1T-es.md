@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vwIrdQ00L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGLDJ1T-es'
+slug: 'B07VGLDJ1T-es Hztyyier Taza del Vino del Estilo Europeo del Vintage...'
+tags: 'café'
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

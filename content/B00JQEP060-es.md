@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31UOQQ-MubL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JQEP060-es'
+slug: 'B00JQEP060-es Revlon Super Lustrous Lipstick Pearl Ipanema Beach 210'
+tags: 'revlon'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

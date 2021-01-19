@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ia5YeDWqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZ74CQU-es'
+slug: 'B01MZ74CQU-es Nuk Detergente de superfícies para bebés'
+tags: 'detergente'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

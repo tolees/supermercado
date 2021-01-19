@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5168oAHXJpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LCTD4TG-es'
+slug: 'B01LCTD4TG-es Mahou 5 Estrellas Cerveza Dorada Lager 5.5% de Volumen de...'
+tags: 'cerveza'
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

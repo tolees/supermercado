@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zuPWLjOaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VV95HN-es'
+slug: 'B082VV95HN-es Gliss - Mascarilla Ultimate Repair para Cabellos Muy...'
+tags: 'schwarzkopf'
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

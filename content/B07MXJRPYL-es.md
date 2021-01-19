@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41W-MSGjY8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXJRPYL-es'
+slug: 'B07MXJRPYL-es dixan detergente Líquido - 2 paquetes de 2781 gr'
+tags: 'detergente, dixan'
 actualPrice: 15.34 EUR
 currency: EUR
 price: 15.34

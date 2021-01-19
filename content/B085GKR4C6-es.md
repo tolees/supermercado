@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AxiQOozuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085GKR4C6-es'
+slug: 'B085GKR4C6-es Pack de 6 Botellas de 1L gel hidroalcohólico higienizante...'
+tags: 'hidroalcohólico'
 actualPrice: 45.6 EUR
 currency: EUR
 price: 45.6

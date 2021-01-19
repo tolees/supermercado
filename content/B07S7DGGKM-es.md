@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kR+sI-sEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7DGGKM-es'
+slug: 'B07S7DGGKM-es Oral-B Genius X 20000N - Cepillo de Dientes Eléctrico con...'
+tags: 'cepillo de dientes'
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

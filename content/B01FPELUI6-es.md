@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/616J14cKY9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FPELUI6-es'
+slug: 'B01FPELUI6-es "6 Especialidades de Cerveza Alemana" Colección de la...'
+tags: 'cerveza'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

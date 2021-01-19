@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NhY6EZgPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y2YY8WM-es'
+slug: 'B07Y2YY8WM-es Flauno Dispensador de Jabón Automático en Espuma sin...'
+tags: 'jabón'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uGj9xKlKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LTIQMQ2-es'
+slug: 'B01LTIQMQ2-es Pantene Pro-V champú Suave y Liso para cabellos...'
+tags: 'pantene, champú'
 actualPrice: 3.93 EUR
 currency: EUR
 price: 3.93

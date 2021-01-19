@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51l6RGhM13L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RW2PXJ5-es'
+slug: 'B07RW2PXJ5-es Kit Cuidado Barba Hombre ATMOKO 9PCS Barba Peine Barba...'
+tags: 'champú'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

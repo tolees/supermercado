@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YuEdObYpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086C4C2NR-es'
+slug: 'B086C4C2NR-es Dispensador de Jabón Automático con Sensor de Movimiento...'
+tags: 'jabón'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

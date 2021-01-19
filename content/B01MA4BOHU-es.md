@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518PI1mu3QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MA4BOHU-es'
+slug: 'B01MA4BOHU-es Air Wick Freshmatic Life Ambientador Scents Oasis Color...'
+tags: 'air wick'
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

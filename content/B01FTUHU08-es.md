@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c0uQzmGnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FTUHU08-es'
+slug: 'B01FTUHU08-es BSN Suplemento Dietético en Polvo "NO Xplode XE Edge Pre-...'
+tags: 'manzana'
 actualPrice: 20.03 EUR
 currency: EUR
 price: 20.03

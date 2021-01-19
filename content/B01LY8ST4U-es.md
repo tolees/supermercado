@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fgyDDoX0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY8ST4U-es'
+slug: 'B01LY8ST4U-es Fanta Naranja Lata - 330 ml Pack de 9'
+tags: 'fanta'
 actualPrice: 4.01 EUR
 currency: EUR
 price: 4.01

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tpy83s8KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYEYPYL-es'
+slug: 'B01LYEYPYL-es Knorr - Sopa Deshidratada Rabo De Buey 71g'
+tags: 'knorr'
 actualPrice: None None
 currency: None
 price: None

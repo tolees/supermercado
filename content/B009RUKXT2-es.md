@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413hA1XeLUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009RUKXT2-es'
+slug: 'B009RUKXT2-es Johnnie Walker Blue Whisky Escocés - 700 ml'
+tags: 'whisky'
 actualPrice: 137.35 EUR
 currency: EUR
 price: 137.35

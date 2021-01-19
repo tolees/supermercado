@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QPOHVznrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W21TGVB-es'
+slug: 'B07W21TGVB-es Familybox Aceitera Botella Antigoteo 400ML Vinagre Botella...'
+tags: 'aceite de oliva'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

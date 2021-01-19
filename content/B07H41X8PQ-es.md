@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HNko7oNIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H41X8PQ-es'
+slug: 'B07H41X8PQ-es Gillette Fusion5 - Maquinilla de Afeitar con 6 Recambios...'
+tags: 'gillette'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

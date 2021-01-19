@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j-+3xc7IL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07486JBPF-es'
+slug: 'B07486JBPF-es Prozis 100% Real Whey Protein Suplemento Puro en Polvo con...'
+tags: 'chocolate'
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

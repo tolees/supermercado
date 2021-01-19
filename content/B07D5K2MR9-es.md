@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31TaumvvneL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5K2MR9-es'
+slug: 'B07D5K2MR9-es Revlon Cuidado del pelo y del cuero cabelludo - 300 ml.'
+tags: 'revlon'
 actualPrice: 6.51 EUR
 currency: EUR
 price: 6.51

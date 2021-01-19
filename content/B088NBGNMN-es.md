@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eFz0fZv3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088NBGNMN-es'
+slug: 'B088NBGNMN-es WEWAK Actualizado Dispensador Automático de Jabón Espuma...'
+tags: 'jabón'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

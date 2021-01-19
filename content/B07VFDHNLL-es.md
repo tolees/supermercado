@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rMB1Tn7OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFDHNLL-es'
+slug: 'B07VFDHNLL-es Air Wick - Ambientador aerosol esencia para casa con aroma...'
+tags: 'air wick'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

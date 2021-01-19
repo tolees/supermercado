@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51n1v9UiQEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4B1FYN-es'
+slug: 'B01N4B1FYN-es Café Fortaleza Café Grano Descafeinado - 250 gr - [Pack de 3]'
+tags: 'café, descafeinado, fortaleza'
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

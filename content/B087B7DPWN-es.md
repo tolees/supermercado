@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51djNhQaaiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087B7DPWN-es'
+slug: 'B087B7DPWN-es Dispensador automático de jabón SEAAN-1000ML Rociador de...'
+tags: 'jabón'
 actualPrice: 38.9 EUR
 currency: EUR
 price: 38.9

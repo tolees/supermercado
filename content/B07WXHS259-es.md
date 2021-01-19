@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WsoqVFY9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WXHS259-es'
+slug: 'B07WXHS259-es Tassimo Coffee L OR Espresso Bundle Cápsulas de Café - L...'
+tags: 'café, cápsulas de café'
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

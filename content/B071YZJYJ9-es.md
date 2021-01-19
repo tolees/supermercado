@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51o6FtweXOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071YZJYJ9-es'
+slug: 'B071YZJYJ9-es Purina Gourmet Diamant Delicias en Gelatina comida para...'
+tags: 'purina'
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

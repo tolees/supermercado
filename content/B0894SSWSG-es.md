@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c52aEUT9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894SSWSG-es'
+slug: 'B0894SSWSG-es SLANWIN Dispensador de Jabón Automático 300ml Ipx4...'
+tags: 'jabón'
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

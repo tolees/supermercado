@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4159PRJ%2BN5L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQ6N2S9-es'
+slug: 'B07CQ6N2S9-es Brillante Arroz Largo - Pack de 16 vasitos X 200 Gr -...'
+tags: 'arroz'
 actualPrice: 16.4 EUR
 currency: EUR
 price: 16.4

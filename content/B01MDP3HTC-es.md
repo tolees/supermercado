@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MDP3HTC-es'
+slug: 'B01MDP3HTC-es Okey - Batido Chocolate Botella 750 ml - Pack de 6'
+tags: 'chocolate'
 actualPrice: 6 EUR
 currency: EUR
 price: 6

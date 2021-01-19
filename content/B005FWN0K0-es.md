@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21VLxm2Z5mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005FWN0K0-es'
+slug: 'B005FWN0K0-es Tork 561500 Dispensador para Jabón en Espuma / Dosificador...'
+tags: 'jabón'
 actualPrice: 27.27 EUR
 currency: EUR
 price: 27.27

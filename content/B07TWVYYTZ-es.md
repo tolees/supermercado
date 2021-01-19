@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pg2Lg9xpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWVYYTZ-es'
+slug: 'B07TWVYYTZ-es Air Wick VIPoo Spray para el WC Limón - 55 ml'
+tags: 'air wick'
 actualPrice: 3.48 EUR
 currency: EUR
 price: 3.48

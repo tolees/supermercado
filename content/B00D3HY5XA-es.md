@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RI8yNVxKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D3HY5XA-es'
+slug: 'B00D3HY5XA-es ISDIN Fotoprotector Gel Cream SPF 50+ 250 ml Crema Solar...'
+tags: 'crema solar'
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

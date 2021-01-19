@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uSQRTiO2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OKSKP4Y-es'
+slug: 'B00OKSKP4Y-es Wella Elements Renewing Mascarilla - 500 ml'
+tags: 'wella'
 actualPrice: 22.82 EUR
 currency: EUR
 price: 22.82

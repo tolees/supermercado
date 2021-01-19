@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51vV2V%2B0s2L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B072R2H8DV-es'
+slug: 'B072R2H8DV-es Finish Quantum Regular Pastillas para Lavavajillas - 39...'
+tags: 'finish'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

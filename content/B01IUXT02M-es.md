@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JsvCiUXaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IUXT02M-es'
+slug: 'B01IUXT02M-es Valor Chocolate Negro Con Almendras - 250 gr'
+tags: 'chocolate'
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RvaA80yEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ITE56DE-es'
+slug: 'B01ITE56DE-es NESTLÉ NIDINA 2 Premium [PACK AHORRO] - A partir de los 6...'
+tags: 'nestlé'
 actualPrice: 13.36 EUR
 currency: EUR
 price: 13.36

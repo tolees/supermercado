@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rfJD1X4FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGBX66N-es'
+slug: 'B07LGBX66N-es Dalwhinnie Winter s Frost – Whisky escocés puro de malta –...'
+tags: 'whisky'
 actualPrice: 44.2 EUR
 currency: EUR
 price: 44.2

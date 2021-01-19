@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FKZ9S0loL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HU7T1JW-es'
+slug: 'B00HU7T1JW-es Kinder Chocolate - Barritas de Chocolate con Leche - 8...'
+tags: 'chocolate'
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

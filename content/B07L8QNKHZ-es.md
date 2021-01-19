@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qwuKjBHZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8QNKHZ-es'
+slug: 'B07L8QNKHZ-es Bone Broth Caldo concentrado de hueso bovino con cúrcuma -...'
+tags: 'cúrcuma'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

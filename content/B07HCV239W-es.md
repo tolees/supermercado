@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21Hx5dOQYpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCV239W-es'
+slug: 'B07HCV239W-es Maybelline Lápiz de Ojos Efecto Tatuaje Tattoo Liner 940...'
+tags: 'maybelline'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

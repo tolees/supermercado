@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ie1LW75yL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NYRKSZS-es'
+slug: 'B00NYRKSZS-es Detergente sensible Dettol para lavado de prendas 1 unidad...'
+tags: 'detergente'
 actualPrice: 11.08 EUR
 currency: EUR
 price: 11.08

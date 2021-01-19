@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DTH4kV6oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DSBJF9F-es'
+slug: 'B07DSBJF9F-es L Oréal Paris Make-up designer Infalible 24H Fresh Wear...'
+tags: 'oréal'
 actualPrice: 9.31 EUR
 currency: EUR
 price: 9.31

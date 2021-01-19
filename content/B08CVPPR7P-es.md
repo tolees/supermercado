@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OLmXJgDsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVPPR7P-es'
+slug: 'B08CVPPR7P-es feihao Cepillo De Dientes para Perros Cepillos de Dientes...'
+tags: 'cepillo de dientes'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

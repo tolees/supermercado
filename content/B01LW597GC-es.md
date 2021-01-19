@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sbjYFR4bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LW597GC-es'
+slug: 'B01LW597GC-es L Oréal Paris Barra De Labios Color Riche 343 Rouge Sauvage'
+tags: 'oréal'
 actualPrice: 2.72 EUR
 currency: EUR
 price: 2.72

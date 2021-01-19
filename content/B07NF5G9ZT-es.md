@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WdCzVT2VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NF5G9ZT-es'
+slug: 'B07NF5G9ZT-es Barritas Proteicas 100% Naturales de Avicenna | Sin Soja |...'
+tags: 'soja, chocolate, sin gluten'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

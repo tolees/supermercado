@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pb7rSDVqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CP33G5V-es'
+slug: 'B08CP33G5V-es NUK Detergente para Biberones'
+tags: 'detergente'
 actualPrice: None None
 currency: None
 price: None

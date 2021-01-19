@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S3H1+04XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9VEN5A-es'
+slug: 'B00X9VEN5A-es Vernel Suavizante Concentrado Delicado - 76 lavados 1.748 l'
+tags: 'suavizante, vernel'
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

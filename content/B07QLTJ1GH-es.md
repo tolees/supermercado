@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/317WhxDlerL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLTJ1GH-es'
+slug: 'B07QLTJ1GH-es Beito 4 UNIDS Cabeza de cepillo de dientes eléctrico...'
+tags: 'cepillo de dientes'
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

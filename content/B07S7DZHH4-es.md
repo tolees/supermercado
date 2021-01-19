@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lCrCiWPoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7DZHH4-es'
+slug: 'B07S7DZHH4-es Chicco Maglioncino In Tricot Bimbo Jersey para Bebés'
+tags: 'bimbo'
 actualPrice: None None
 currency: None
 price: None

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21R-SE9qv6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004GX9P2Q-es'
+slug: 'B004GX9P2Q-es Maybelline New York - Superstay 24H Pintalabios Mate de...'
+tags: 'maybelline'
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

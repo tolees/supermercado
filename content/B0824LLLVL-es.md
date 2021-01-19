@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kWOsLi0GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0824LLLVL-es'
+slug: 'B0824LLLVL-es Velas Aromaticas Cera de Soja Natural Velas Perfumadas...'
+tags: 'soja'
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mbiGZatgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081C5FG8F-es'
+slug: 'B081C5FG8F-es JASHEN Fregona electrica sin Cable Mopa Electrica con...'
+tags: 'fregona'
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41o34HX9WQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B002EP7WKU-es'
+slug: 'B002EP7WKU-es Bowmore 15Y Whisky Darkest Malt - 700ml'
+tags: 'whisky'
 actualPrice: 42.1 EUR
 currency: EUR
 price: 42.1

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xIuLPTSnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B95H9NT-es'
+slug: 'B07B95H9NT-es Purina Gourmet Gold Bocaditos en Salsa comida para gatos...'
+tags: 'purina'
 actualPrice: 41.92 EUR
 currency: EUR
 price: 41.92

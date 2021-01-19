@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416gUzoaXhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G39L1CK-es'
+slug: 'B07G39L1CK-es L Oréal Magic Retouch Precision Rubio'
+tags: 'oréal'
 actualPrice: 3.67 EUR
 currency: EUR
 price: 3.67

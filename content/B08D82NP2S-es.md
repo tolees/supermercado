@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HGAEChm0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D82NP2S-es'
+slug: 'B08D82NP2S-es 2 Dispenser Jabón Cristal Ambar 500ml Dosificador Botella...'
+tags: 'jabón'
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xcehble6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HSF2PKC-es'
+slug: 'B07HSF2PKC-es Parodontax Extra Fresh - Pasta de dientes con flúor 75 ml...'
+tags: 'parodontax, pasta de dientes'
 actualPrice: 13.02 EUR
 currency: EUR
 price: 13.02

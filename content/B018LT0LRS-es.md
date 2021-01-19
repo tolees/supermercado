@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410EsVLEjmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B018LT0LRS-es'
+slug: 'B018LT0LRS-es Oral-B 3D White 3+1 Cabezas de cepillo de dientes'
+tags: 'cepillo de dientes'
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

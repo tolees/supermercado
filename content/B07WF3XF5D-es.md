@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LindrRfUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WF3XF5D-es'
+slug: 'B07WF3XF5D-es Chop Cortador de verduras y picadora de carne manual con...'
+tags: 'cebolla'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

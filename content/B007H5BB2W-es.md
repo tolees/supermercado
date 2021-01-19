@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r+VAg+rdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007H5BB2W-es'
+slug: 'B007H5BB2W-es Ibili Bolsa para legumbres nailon 37 x 5 cm'
+tags: 'legumbres'
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

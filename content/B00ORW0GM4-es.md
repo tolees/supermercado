@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eoaaub9rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ORW0GM4-es'
+slug: 'B00ORW0GM4-es Osborne Magno Solera Reserva Brandy - 1000 ml'
+tags: 'brandy'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

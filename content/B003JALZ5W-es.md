@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51144Ct1-wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003JALZ5W-es'
+slug: 'B003JALZ5W-es PowerBar Ride Energy Chocolate Caramel 18x55g - Barra de...'
+tags: 'chocolate'
 actualPrice: 20.16 EUR
 currency: EUR
 price: 20.16

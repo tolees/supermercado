@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YCSp7102L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AD6D4NK-es'
+slug: 'B01AD6D4NK-es GANADOR 2020* ● Aceite para barba "ORIGINAL" de Camden...'
+tags: 'suavizante'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

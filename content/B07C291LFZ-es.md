@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5124S7Iu+lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C291LFZ-es'
+slug: 'B07C291LFZ-es 900 g Miel de bosque flores silvestres y hierbas...'
+tags: 'azúcar'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

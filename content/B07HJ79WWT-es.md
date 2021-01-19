@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-XJzemvrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJ79WWT-es'
+slug: 'B07HJ79WWT-es Home Treats - Juego de 3 tablas de cortar de bambú | 3...'
+tags: 'queso'
 actualPrice: None None
 currency: None
 price: None

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HvclZUxzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082V9KHHW-es'
+slug: 'B082V9KHHW-es TRESemmé Rubio & Platino Acondicionador'
+tags: 'acondicionador, tresemmé'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

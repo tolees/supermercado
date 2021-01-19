@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512EKH3b5yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHGQPL5-es'
+slug: 'B07BHGQPL5-es Padró & Co Vermouth en Caja de Madera - Paquete de 4 x 750...'
+tags: 'vermouth'
 actualPrice: 49.3 EUR
 currency: EUR
 price: 49.3

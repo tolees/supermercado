@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x93xjWmPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRXS2RJ-es'
+slug: 'B07DRXS2RJ-es Premier Protein Protein Bar Double Chocolate 24x40g -...'
+tags: 'azúcar, chocolate'
 actualPrice: 22.02 EUR
 currency: EUR
 price: 22.02

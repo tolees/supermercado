@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YGvOhlQUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWBJNJQ-es'
+slug: 'B07VWBJNJQ-es Recambios Cepillo Compatible Aiemok 16 Cabezales de...'
+tags: 'cepillo de dientes'
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

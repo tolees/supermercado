@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hQEX8h3sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NMFV6HC-es'
+slug: 'B07NMFV6HC-es Pigmentos para Resina Epoxi DEWEL 10g*15 Colores Pigmentos...'
+tags: 'jabon'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

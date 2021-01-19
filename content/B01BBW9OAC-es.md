@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WOJYYjG0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BBW9OAC-es'
+slug: 'B01BBW9OAC-es Caffè Borbone Cápsulas de café - 100 Cápsulas'
+tags: 'café, cápsulas de café'
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

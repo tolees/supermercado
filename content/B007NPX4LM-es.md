@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+s92dpQ6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007NPX4LM-es'
+slug: 'B007NPX4LM-es CND Solaroil Acondicionador de cutículas y uñas 15 ml'
+tags: 'acondicionador'
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

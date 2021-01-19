@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tNUnws8OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010Y4YGI8-es'
+slug: 'B010Y4YGI8-es Cúrcuma orgánica 745mg + Jengibre + Pimienta negra....'
+tags: 'cúrcuma, jengibre, sin gluten'
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

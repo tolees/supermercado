@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51600Er4-CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007Z9P1XU-es'
+slug: 'B007Z9P1XU-es Lavazza A Modo Mio Passionale antes Appassionatamente...'
+tags: 'café, lavazza, cápsulas de café'
 actualPrice: 27.4 EUR
 currency: EUR
 price: 27.4

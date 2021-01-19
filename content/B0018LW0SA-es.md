@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fg4E-teGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0018LW0SA-es'
+slug: 'B0018LW0SA-es Elizabeth Arden 5th Avenue Agua de Perfume - 75 ml'
+tags: 'elizabeth arden'
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

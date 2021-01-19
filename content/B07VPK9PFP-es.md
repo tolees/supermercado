@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jQ3BSaZtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPK9PFP-es'
+slug: 'B07VPK9PFP-es Ruavieja Licor de Hierbas - 1000 ml'
+tags: 'ruavieja'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

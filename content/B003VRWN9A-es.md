@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Urt4wqjJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B003VRWN9A-es'
+slug: 'B003VRWN9A-es L Oréal Double Extension Máscara de Pestañas Color Extra...'
+tags: 'oréal'
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

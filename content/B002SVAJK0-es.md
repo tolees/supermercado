@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41St7029s9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B002SVAJK0-es'
+slug: 'B002SVAJK0-es Original Sprout Sulfato Champú Natural 975ml'
+tags: 'champú'
 actualPrice: 28.74 EUR
 currency: EUR
 price: 28.74

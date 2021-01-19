@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31zZybhiHdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WR4HAFU-es'
+slug: 'B00WR4HAFU-es L Oréal Paris 24H Mate Base Maquillaje Matificante Larga...'
+tags: 'oréal'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

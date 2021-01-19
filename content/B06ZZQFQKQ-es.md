@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zXKlQrAyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZQFQKQ-es'
+slug: 'B06ZZQFQKQ-es Instituto Español Piel Sana Crema Corporal Hidratante -...'
+tags: 'instituto español'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

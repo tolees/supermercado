@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dqQV8VDOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HN8P94D-es'
+slug: 'B07HN8P94D-es La Toja - Gel Crema de Ducha Hidrotermal - Piel suave y...'
+tags: 'la toja'
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

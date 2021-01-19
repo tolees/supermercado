@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kN5RkWqJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XTCTST6-es'
+slug: 'B06XTCTST6-es Neutrogena Loción Corporal Elasticidad Intensa - 2...'
+tags: 'neutrogena'
 actualPrice: 25.41 EUR
 currency: EUR
 price: 25.41

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s9n5uT-AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CRT5WZN-es'
+slug: 'B07CRT5WZN-es Philips Sonicare ProtectiveClean HX6801/08 - Cepillo de...'
+tags: 'cepillo de dientes'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

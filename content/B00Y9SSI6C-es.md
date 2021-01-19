@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413-jebh-NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Y9SSI6C-es'
+slug: 'B00Y9SSI6C-es Purina ProPlan Medium Puppy Start pienso para perro...'
+tags: 'purina'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

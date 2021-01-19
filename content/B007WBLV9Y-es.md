@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WpPuJH0JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007WBLV9Y-es'
+slug: 'B007WBLV9Y-es NATURGREEN SOJA CALCIUM BIO 1 litro'
+tags: 'soja'
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

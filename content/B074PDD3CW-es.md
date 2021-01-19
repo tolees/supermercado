@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21hETxb9dDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PDD3CW-es'
+slug: 'B074PDD3CW-es Grohe 27473001 Euphoria 260 - Sistema de ducha con grifo...'
+tags: 'alcachofa'
 actualPrice: 320.99 EUR
 currency: EUR
 price: 320.99

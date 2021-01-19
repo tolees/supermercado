@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512244dfcOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7QBTH4-es'
+slug: 'B01K7QBTH4-es Azucarera Azúcar Blanco - 1000 g'
+tags: 'azúcar'
 actualPrice: None None
 currency: None
 price: None

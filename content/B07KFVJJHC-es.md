@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BUVL1iyML._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFVJJHC-es'
+slug: 'B07KFVJJHC-es Kit Cuidado de Barba Fixget Recorte - Champú Barba Aceite...'
+tags: 'champú'
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

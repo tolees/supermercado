@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61TSby0XoVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0748GDLLZ-es'
+slug: 'B0748GDLLZ-es Haribo Dragibus - 2000 gr'
+tags: 'haribo'
 actualPrice: 5.82 EUR
 currency: EUR
 price: 5.82

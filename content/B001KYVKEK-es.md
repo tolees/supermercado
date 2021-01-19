@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/315HSDkZ5LL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B001KYVKEK-es'
+slug: 'B001KYVKEK-es Revlon ColorStay Overtime Pintalabios Larga Duración...'
+tags: 'revlon'
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

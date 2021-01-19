@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FJLS1OV2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZG3SC1S-es'
+slug: 'B07ZG3SC1S-es Moussel Neceser Gel de Ducha Clásico'
+tags: 'moussel, gel de ducha'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

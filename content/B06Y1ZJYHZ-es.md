@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nFNDQV9sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y1ZJYHZ-es'
+slug: 'B06Y1ZJYHZ-es Nescafé Dolce Gusto Café con leche descafeinado - 16...'
+tags: 'café, descafeinado, nescafé, cápsulas de café, dolce gusto'
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

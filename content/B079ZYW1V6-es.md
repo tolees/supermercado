@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41SnnTM3%2BDL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZYW1V6-es'
+slug: 'B079ZYW1V6-es Nestlé Purés Tarrito de puré de verduras y carne variedad...'
+tags: 'nestlé'
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

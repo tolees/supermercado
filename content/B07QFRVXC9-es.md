@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21uQ6bCuqTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFRVXC9-es'
+slug: 'B07QFRVXC9-es Celeste Roble Vino Tinto 75 cl - 750 ml'
+tags: 'vino tinto'
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

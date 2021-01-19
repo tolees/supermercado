@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61NOoawCk5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FPELV6C-es'
+slug: 'B01FPELV6C-es "Biere del Mundo regalo + + Información de cerveza + +...'
+tags: 'cerveza'
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

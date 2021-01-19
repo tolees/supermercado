@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-jbKeQ5kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GTV2IP4-es'
+slug: 'B00GTV2IP4-es AUSONIA - 31110 Tijeras DE PODA Profesionales para HUERTOS...'
+tags: 'ausonia'
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

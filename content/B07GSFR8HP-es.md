@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31-Fkl38HeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSFR8HP-es'
+slug: 'B07GSFR8HP-es NIVEA MEN Protege & Cuida After Shave Bálsamo Hidratante...'
+tags: 'nivea'
 actualPrice: 22.14 EUR
 currency: EUR
 price: 22.14

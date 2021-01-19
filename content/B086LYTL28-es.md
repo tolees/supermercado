@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iDQ-EGzoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086LYTL28-es'
+slug: 'B086LYTL28-es 22 Pies Vino Tinto - 3 botellas de 75 cl Total: 2250 ml'
+tags: 'vino tinto'
 actualPrice: 16.65 EUR
 currency: EUR
 price: 16.65

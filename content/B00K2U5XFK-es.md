@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H-9nBKVJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K2U5XFK-es'
+slug: 'B00K2U5XFK-es Braun Oral-B PRO 2000/ PRO 2 - 2000N CrossAction 2-Mode...'
+tags: 'cepillo de dientes'
 actualPrice: 29.66 EUR
 currency: EUR
 price: 29.66

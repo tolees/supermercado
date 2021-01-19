@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZhNqFZLtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G59GQBS-es'
+slug: 'B07G59GQBS-es Baby Dove - Gel de Baño Hidratación Profunda para Bebés -...'
+tags: 'dove'
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

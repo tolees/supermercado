@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fdmZ0wxcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNQ5JND-es'
+slug: 'B07GNQ5JND-es NIVEA Q10 3en1 Cushion Tono Oscuro 1 x 15 ml...'
+tags: 'nivea'
 actualPrice: 13.94 EUR
 currency: EUR
 price: 13.94

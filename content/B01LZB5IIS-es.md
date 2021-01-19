@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PvkRyGqML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZB5IIS-es'
+slug: 'B01LZB5IIS-es Apis Tomate Triturado - 800 g'
+tags: 'apis'
 actualPrice: None None
 currency: None
 price: None

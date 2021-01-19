@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31BpYgot6WL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P4F2VKD-es'
+slug: 'B07P4F2VKD-es Handheld eléctrico Café Leche batidor de huevo Batir...'
+tags: 'café'
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

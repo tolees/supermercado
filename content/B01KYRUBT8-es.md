@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31B6gFz4YvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KYRUBT8-es'
+slug: 'B01KYRUBT8-es CHOCOLATE ALMIZCLE PERFUME árabe Spray - 50ml Por Al Rehab'
+tags: 'chocolate'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

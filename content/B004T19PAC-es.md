@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418MB+K6vrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004T19PAC-es'
+slug: 'B004T19PAC-es Bed Head by TIGI Champú Resurrection Urban Antidotes 750 ml'
+tags: 'champú'
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

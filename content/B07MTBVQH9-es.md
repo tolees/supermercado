@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xfdm4t7tL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTBVQH9-es'
+slug: 'B07MTBVQH9-es iMucci - Juego de Accesorios de baño con dispensador de...'
+tags: 'jabón, cepillo de dientes'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

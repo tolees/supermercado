@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bsIQdxVSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGN9B5D-es'
+slug: 'B07LGN9B5D-es Fairy Limpieza&Cuidado Rosa y Satén Protege Dermis Líquido...'
+tags: 'fairy'
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

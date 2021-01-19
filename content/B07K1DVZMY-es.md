@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H5JR19FhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1DVZMY-es'
+slug: 'B07K1DVZMY-es La Toja Selection - Pack Regalo Mujer - Gel de Baño...'
+tags: 'gel de ducha, la toja'
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

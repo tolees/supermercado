@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V8hA8HrYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9P3HQD-es'
+slug: 'B07Y9P3HQD-es Haofy Calentador de Taza para Té Café Leche Calentador de...'
+tags: 'café'
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

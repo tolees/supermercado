@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KuvsPgWbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HH45K8F-es'
+slug: 'B07HH45K8F-es Milka Barrita grande de chocolate - 12 de 300 gr. Total...'
+tags: 'milka, chocolate'
 actualPrice: 17.07 EUR
 currency: EUR
 price: 17.07

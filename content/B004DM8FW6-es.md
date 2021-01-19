@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TCYEZuBQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004DM8FW6-es'
+slug: 'B004DM8FW6-es Gillette Fusion ProGlide Cuchillas de recambio para...'
+tags: 'gillette'
 actualPrice: 26.53 EUR
 currency: EUR
 price: 26.53

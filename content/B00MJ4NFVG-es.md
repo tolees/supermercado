@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IU5bJL8CL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MJ4NFVG-es'
+slug: 'B00MJ4NFVG-es Klarstein Volcano - máquina de Palomitas de maíz Retro...'
+tags: 'maíz'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

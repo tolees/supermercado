@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QsovSv0dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFY23M3-es'
+slug: 'B07GFY23M3-es Marca Amazon - Solimo - Alimento seco completo para perro...'
+tags: 'guisantes, solimo'
 actualPrice: 6 EUR
 currency: EUR
 price: 6

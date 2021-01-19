@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SAtdv-lLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DN9LHUM-es'
+slug: 'B00DN9LHUM-es Solaray Vitamin C 1000mg | con Escaramujo y Acerola |...'
+tags: 'sin gluten'
 actualPrice: 15.25 EUR
 currency: EUR
 price: 15.25

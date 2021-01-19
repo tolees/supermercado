@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uItnLnleL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZMYKQY-es'
+slug: 'B01LZMYKQY-es LITORAL Hoy Legumbres Lentejas con su sofrito Plato...'
+tags: 'legumbres, lentejas, litoral, plato preparado, sin gluten'
 actualPrice: 1.08 EUR
 currency: EUR
 price: 1.08

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ltOq1q68L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZQ99DDW-es'
+slug: 'B07ZQ99DDW-es Kit de fabricación de sushi de bambú 9 piezas alfombrilla...'
+tags: 'arroz'
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

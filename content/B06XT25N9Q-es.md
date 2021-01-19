@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61LAa4X4GyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XT25N9Q-es'
+slug: 'B06XT25N9Q-es Purina Dentalife Golosina Dental para Perro Pequeño 345 g'
+tags: 'purina'
 actualPrice: 4.32 EUR
 currency: EUR
 price: 4.32

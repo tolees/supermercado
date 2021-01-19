@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UIRvjj8NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007Y5S4VG-es'
+slug: 'B007Y5S4VG-es NESCAFÉ Dolce Gusto Espresso Bonka | Cápsulas de Café - 16...'
+tags: 'café, nescafé, cápsulas de café, dolce gusto'
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413C93Ht87L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XG4JQH2-es'
+slug: 'B07XG4JQH2-es Diadermine Lift + Sérum Super Rellenador 40ml Pack de 1'
+tags: 'diadermine'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

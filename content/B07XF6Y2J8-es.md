@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eY9bEJo-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XF6Y2J8-es'
+slug: 'B07XF6Y2J8-es Mom Ginebra Premium - 1000 ml'
+tags: 'ginebra'
 actualPrice: 20.62 EUR
 currency: EUR
 price: 20.62

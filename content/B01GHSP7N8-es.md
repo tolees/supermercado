@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QuBklxMIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GHSP7N8-es'
+slug: 'B01GHSP7N8-es Vitamaze® Cápsulas de cúrcuma + curcumina piperina...'
+tags: 'cúrcuma'
 actualPrice: 13.57 EUR
 currency: EUR
 price: 13.57

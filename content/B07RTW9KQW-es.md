@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OVcOXXsvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTW9KQW-es'
+slug: 'B07RTW9KQW-es DAYNEW Dispensador De Aceite De Oliva y Vinagre con...'
+tags: 'aceite de oliva'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p07TB79DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087P79MJW-es'
+slug: 'B087P79MJW-es Gel de Aloe Vera con Manzanilla 100% Natural Aloe Vera...'
+tags: 'manzanilla'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
