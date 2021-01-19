@@ -27,12 +27,12 @@ En este momento está [Cuatro Rayas Vino Blanco Verdejo 1935 D.O. Rueda - Pack d
 🔎:
 
 - Maridaje: Carnes blancas ensaladas y atún.
-- En boca es graso y largo con mucha estructura y gran persistencia. Resulta muy meloso a la entrada.
 - D.O. Rueda
-- Alérgenos: Contiene sulfitos
-- Temperatura de servicio: 6 – 8ºC.
 - De color amarillo pálido alimonado con tonos verdosos y en nariz
+- En boca es graso y largo con mucha estructura y gran persistencia. Resulta muy meloso a la entrada.
 - En nariz es intenso y limpio con un fuerte aroma a los verdejos tradicionales, hinojo y frutas blancas. Muy bien armonizado.
+- Alérgenos: Contiene sulfitos
 - Elaborado con uvas procedentes de viñas viejas. Maceración en frío durante 5 horas. Desfangado estático durante 36 horas a 10ºC. Fermentación a 15ºC con levaduras seleccionadas.
+- Temperatura de servicio: 6 – 8ºC.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07S3W3BLH/?tag=tolees-21)
