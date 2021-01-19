@@ -25,8 +25,8 @@ Tienes [Gallo - Harina de trigo especial reposteria - 1 kg](https://www.amazon.e
 
 🔎:
 
-- Harina de trigo
-- Especial Pan, pasteles, tartas, repostería
 - Múltiples usos
+- Especial Pan, pasteles, tartas, repostería
+- Harina de trigo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00G59XD9K/?tag=tolees-21)

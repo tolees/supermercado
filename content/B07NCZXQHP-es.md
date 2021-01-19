@@ -25,10 +25,10 @@ Ahora mismo tienes [Fa - Gel de Ducha Leche de Coco - Con extracto de coco - 550
 
 🔎:
 
-- PH neutro para la piel y dermatológicamente probado
-- Sin aceites minerales
-- Tipo de piel: todas
 - Fórmula suave y cremosa - fragancia inspiradora
+- Sin aceites minerales
 - Aroma a leche de coco
+- PH neutro para la piel y dermatológicamente probado
+- Tipo de piel: todas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NCZXQHP/?tag=tolees-21)
