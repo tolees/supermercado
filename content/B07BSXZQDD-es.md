@@ -25,10 +25,10 @@ Ahora mismo tienes [Daniel s Blend Cápsulas de café compatibles con máquinas 
 
 🔎:
 
-- Contiene: Ristretto (intensidad 11), Intenso (intensidad 12), Lungo (intensidad 10) y Fortissimo (intensidad 14).
-- Cápsulas compatibles con máquinas Nespresso
 - La combinación perfecta entre aroma y sabor en cada taza
-- INGREDIENTES: 100% café molido de tueste natural. 100 Cápsulas
+- Cápsulas compatibles con máquinas Nespresso
 - Envasado en atmósfera protectora. Sin conservantes, sin azúcares ni aromatizantes añadidos.
+- INGREDIENTES: 100% café molido de tueste natural. 100 Cápsulas
+- Contiene: Ristretto (intensidad 11), Intenso (intensidad 12), Lungo (intensidad 10) y Fortissimo (intensidad 14).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BSXZQDD/?tag=tolees-21)

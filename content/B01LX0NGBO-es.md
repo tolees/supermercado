@@ -25,10 +25,10 @@ Tienes [Daniel s Blend Cápsulas de café compatibles con máquinas Nespresso In
 
 ℹ️:
 
-- Intensidad 12
 - La combinación perfecta entre aroma y sabor en cada taza
-- Envasado en atmósfera protectora. Sin conservantes, sin azúcares ni aromatizantes añadidos.
 - Cápsulas compatibles con máquinas Nespresso
+- Envasado en atmósfera protectora. Sin conservantes, sin azúcares ni aromatizantes añadidos.
 - INGREDIENTES: 100% café molido de tueste natural. 100 Cápsulas
+- Intensidad 12
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LX0NGBO/?tag=tolees-21)
