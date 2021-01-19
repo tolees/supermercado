@@ -26,9 +26,9 @@ Ahora mismo tienes [Harimsa Harina De Fuerza 1000 g](https://www.amazon.es/dp/B0
 🔎:
 
 - Fuente de proteínas
-- Alérgenos: Contiene gluten procedente del trigo usado para la obtención de la harina
-- Harina Fuerza W > 300
 - Ingredientes: Harina de trigo, agente de tratamiento de harinas (ácido ascórbico) y enzimas
 - Harina de trigo de fuerza, especialmente indicada para cualquier receta de masa que precise un gran desarrollo en el horno: Panes especiales (pasas, semillas, fibra integral), plum cake, roscón de reyes, hojaldre, churros rizados, ensaimadas, panettone, bollos suizos, etc
+- Alérgenos: Contiene gluten procedente del trigo usado para la obtención de la harina
+- Harina Fuerza W > 300
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077PXCP32/?tag=tolees-21)
