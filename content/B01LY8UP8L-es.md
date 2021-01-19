@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Conservas Dantza Melocotón - 420 gr con un 0.00 % de descuento'
-date: 2021-01-18 05:49:51
+date: 2021-01-19 05:52:30
 image: 'https://m.media-amazon.com/images/I/41Ftit9a1nL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ En este momento está [Conservas Dantza Melocotón - 420 gr](https://www.amazon.
 
 🔎:
 
-- Melocotón en almíbar ligero
 - 420 gr
-- facil de usar
 - Abrir y consumir
+- Melocotón en almíbar ligero
+- facil de usar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LY8UP8L/?tag=tolees-21)
