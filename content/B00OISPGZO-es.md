@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OISPGZO-es Sangre de Toro Reserva Vino Tinto - 3 botellas de 75 cl...'
-tags: 'vino tinto'
+tags: vino, tinto
 actualPrice: 38.05 EUR
 currency: EUR
 price: 38.05

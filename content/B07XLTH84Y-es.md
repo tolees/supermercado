@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLTH84Y-es Old Spice Citron Antitranspirante y Desodorante en Barra...'
-tags: 'desodorante'
+tags: desodorante
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

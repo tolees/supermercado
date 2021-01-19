@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QK11Q6P-es Catunambú Cápsulas de café Descafeinado con leche 144 gr'
-tags: 'café, descafeinado, cápsulas de café'
+tags: café, descafeinado, cápsulas, de, café
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQQJV2B-es Ausonia Discreet Compresas Para Pérdidas De Orina Plus...'
-tags: 'ausonia'
+tags: ausonia
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

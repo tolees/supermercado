@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PBLG2B-es Gliss - Champú Seco Anti-Grasa Mini - Para llevar de viaje...'
-tags: 'schwarzkopf, champú'
+tags: schwarzkopf, champú
 actualPrice: 2.15 EUR
 currency: EUR
 price: 2.15

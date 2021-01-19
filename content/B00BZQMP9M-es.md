@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BZQMP9M-es L Oréal Volumetry Anti Gravity Effect Champú - 1500 ml'
-tags: 'champú, oréal'
+tags: champú, oréal
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

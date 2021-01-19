@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C61LBH1-es Smileat Smileat Pouch Yogur Y Frambuesa Eco Envase...'
-tags: 'yogur'
+tags: yogur
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

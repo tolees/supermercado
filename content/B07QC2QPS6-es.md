@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QC2QPS6-es Cycluck 60 Bolsas 30L Bolsa de Basura ecológica 100%...'
-tags: 'maíz'
+tags: maíz
 actualPrice: None None
 currency: None
 price: None

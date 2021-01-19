@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0014ISWD4-es Chloe 22811 - Gel de ducha 200 ml'
-tags: 'gel de ducha'
+tags: gel, de, ducha
 actualPrice: 15.1 EUR
 currency: EUR
 price: 15.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMC2P94-es NIVEA SUN Protege & Broncea Spray Solar FP30 1 x 300 ml...'
-tags: 'nivea'
+tags: nivea
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

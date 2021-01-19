@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5QD74P-es NIVEA Q10PlusC Mascarilla de Tejido Antiedad + Energizante...'
-tags: 'nivea'
+tags: nivea
 actualPrice: 2.89 EUR
 currency: EUR
 price: 2.89

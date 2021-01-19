@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNTRRJ3-es Biolage Champú y Acondicionador - 30 ml.'
-tags: 'acondicionador, champú'
+tags: acondicionador, champú
 actualPrice: 19.29 EUR
 currency: EUR
 price: 19.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O15SE8A-es Kelual Champú - 100 ml'
-tags: 'champú'
+tags: champú
 actualPrice: 12.31 EUR
 currency: EUR
 price: 12.31

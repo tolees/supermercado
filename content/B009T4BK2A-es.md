@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009T4BK2A-es One Key Ginebra - 700 ml'
-tags: 'ginebra'
+tags: ginebra
 actualPrice: 31.13 EUR
 currency: EUR
 price: 31.13

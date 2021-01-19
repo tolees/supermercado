@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TPM4PZK-es L Oréal Paris Excellence Coloración Excellence Crème...'
-tags: 'oréal'
+tags: oréal
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

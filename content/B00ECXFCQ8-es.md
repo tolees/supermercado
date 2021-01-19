@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ECXFCQ8-es L Oréal Máscara - 7 ml.'
-tags: 'oréal'
+tags: oréal
 actualPrice: 10.07 EUR
 currency: EUR
 price: 10.07

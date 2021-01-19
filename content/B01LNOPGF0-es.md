@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LNOPGF0-es L Óreal Paris Elvive Nutri Gloss Champú - 370ml'
-tags: 'champú'
+tags: champú
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSBC477-es La Masia - Aceite de aguacate 250 ml - Lot de 4'
-tags: 'la masia'
+tags: la, masia
 actualPrice: 22.17 EUR
 currency: EUR
 price: 22.17

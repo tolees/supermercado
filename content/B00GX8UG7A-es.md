@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GX8UG7A-es Clarifex Gel y jabón - 50 ml'
-tags: 'jabón'
+tags: jabón
 actualPrice: 23.06 EUR
 currency: EUR
 price: 23.06

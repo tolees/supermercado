@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GP0NYM-es BSN True Mass Ganador en Polvo Chocolate - 2640 g'
-tags: 'chocolate'
+tags: chocolate
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

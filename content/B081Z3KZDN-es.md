@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Z3KZDN-es JICHUI Clásico Tomate máquina de Cortar de plástico...'
-tags: 'cebolla'
+tags: cebolla
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

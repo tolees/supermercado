@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGB1HCQ-es Lagavulin - Whisky Scotch Islay Single Malt Edición...'
-tags: 'whisky'
+tags: whisky
 actualPrice: 60.91 EUR
 currency: EUR
 price: 60.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XABWX7Y-es Dove Gel de Ducha - 600 ml'
-tags: 'dove, gel de ducha'
+tags: dove, gel, de, ducha
 actualPrice: 3.4 EUR
 currency: EUR
 price: 3.4

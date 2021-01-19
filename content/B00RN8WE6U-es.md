@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RN8WE6U-es Revlon Professional UniqOne Coco Champú Acondicionador 300 ml'
-tags: 'acondicionador, revlon, champú'
+tags: acondicionador, revlon, champú
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

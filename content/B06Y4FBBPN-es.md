@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y4FBBPN-es L Oreal Expert Champú Reforzador - 500 ml'
-tags: 'champú'
+tags: champú
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

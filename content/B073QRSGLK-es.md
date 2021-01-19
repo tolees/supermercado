@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QRSGLK-es Mimosín Creaciones Flor de Lirio y Lima Suavizante...'
-tags: 'suavizante'
+tags: suavizante
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

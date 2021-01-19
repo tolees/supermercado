@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TW4THGK-es Wifehelper - Dispensador de jabón automático de 300 ml...'
-tags: 'jabón'
+tags: jabón
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

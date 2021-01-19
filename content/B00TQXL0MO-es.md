@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TQXL0MO-es Philips Sonicare Serie 2 HX6231/01 - Cepillo de dientes...'
-tags: 'cepillo de dientes'
+tags: cepillo, de, dientes
 actualPrice: 37.88 EUR
 currency: EUR
 price: 37.88

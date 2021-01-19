@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073WWYVVW-es AIFUDA - Moldes de silicona para dulces de chocolate...'
-tags: 'chocolate'
+tags: chocolate
 actualPrice: 9.15 EUR
 currency: EUR
 price: 9.15

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7R8VQK-es Hero Baby Verduritas de La Huerta Pollo y Ternera - 235 g'
-tags: 'hero baby'
+tags: hero, baby
 actualPrice: None None
 currency: None
 price: None

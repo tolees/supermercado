@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006K6WEOI-es Dewar s Whisky White Label 1750 ml'
-tags: 'whisky'
+tags: whisky
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

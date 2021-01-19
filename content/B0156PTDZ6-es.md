@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0156PTDZ6-es Reishunger Hervidor de arroz/arrocera 1 2l/500W/220V...'
-tags: 'arroz'
+tags: arroz
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

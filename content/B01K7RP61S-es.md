@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7RP61S-es Hero Platos Caseros Albóndigas en Salsa con Guisantes...'
-tags: 'guisantes, plato preparado'
+tags: guisantes, plato, preparado
 actualPrice: None None
 currency: None
 price: None
@@ -26,10 +26,10 @@ Está [Hero Platos Caseros Albóndigas en Salsa con Guisantes Plato Preparado 43
 
 ℹ️:
 
+- Sin colorantes ni conservantes
 - Listo en tan solo 2 minutos. Una vez abierto se debe conservar en el frigorifico
 - Mantiene el sabor natural gracias al interior de su recipiente porcelánico
-- Sin colorantes ni conservantes
-- Formato para 2 raciones
 - Se puede preparar al baño maría, en microondas o a fuego lento
+- Formato para 2 raciones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01K7RP61S/?tag=tolees-21)

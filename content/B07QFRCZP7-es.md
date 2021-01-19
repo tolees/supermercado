@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFRCZP7-es Dulcesol Hazelnut Cake Bizcocho de Avellana - 5 unidades.'
-tags: 'bizcocho, dulcesol'
+tags: bizcocho, dulcesol
 actualPrice: 1.65 EUR
 currency: EUR
 price: 1.65
@@ -26,8 +26,8 @@ Ahora mismo tienes [Dulcesol  Hazelnut Cake  Bizcocho de Avellana  - 5 unidades.
 
 🔎:
 
-- Marca Dulcesol
 - Pastelito relleno sabor avellana
 - Producto de pastelería y repostería
+- Marca Dulcesol
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21)

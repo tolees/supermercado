@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YQD72K4-es Palette Schwarzkopf Intense Coloración Permanente Tono 6.1...'
-tags: 'schwarzkopf'
+tags: schwarzkopf
 actualPrice: 2.73 EUR
 currency: EUR
 price: 2.73

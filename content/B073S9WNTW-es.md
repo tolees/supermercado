@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073S9WNTW-es Revlon Flex 2 Fases Nutritivo Acondicionador - 400 ml'
-tags: 'acondicionador, revlon'
+tags: acondicionador, revlon
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

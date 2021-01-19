@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G1WINB8-es Ruffles Jamon patatas fritas onduladas 312g'
-tags: 'ruffles, patatas fritas'
+tags: ruffles, patatas, fritas
 actualPrice: 2 EUR
 currency: EUR
 price: 2

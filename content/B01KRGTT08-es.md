@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KRGTT08-es Nivea Cellular aufpolsternde Cuidado perlas 1er Pack 1 x...'
-tags: 'nivea'
+tags: nivea
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7RDE2G-es Casa Tarradellas Paté Finas Hierbas - 125 g'
-tags: 'paté'
+tags: paté
 actualPrice: 0.86 EUR
 currency: EUR
 price: 0.86

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DWB5FV2-es Ausonia Discreet Maxi Noche Compresas Para Pérdidas De...'
-tags: 'ausonia'
+tags: ausonia
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

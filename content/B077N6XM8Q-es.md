@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077N6XM8Q-es Maybelline Superstay de diafragma de 55 mate cartucho de...'
-tags: 'maybelline'
+tags: maybelline
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

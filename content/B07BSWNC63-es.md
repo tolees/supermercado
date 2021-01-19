@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSWNC63-es VIAGGIO ESPRESSO - 60 Cápsulas de Café Compatibles con...'
-tags: 'café, cápsulas de café'
+tags: café, cápsulas, de, café
 actualPrice: 12.78 EUR
 currency: EUR
 price: 12.78

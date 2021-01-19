@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MGOOJWS-es Philips Sonicare DiamondClean HX9352/04 - Cepillo de...'
-tags: 'cepillo de dientes'
+tags: cepillo, de, dientes
 actualPrice: 170.0 EUR
 currency: EUR
 price: 170.0

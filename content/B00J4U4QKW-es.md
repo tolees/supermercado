@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J4U4QKW-es Antipodes aguacate pera Nutritiva Crema de Noche 60 ml'
-tags: 'pera'
+tags: pera
 actualPrice: 33.05 EUR
 currency: EUR
 price: 33.05

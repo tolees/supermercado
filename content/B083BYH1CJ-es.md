@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BYH1CJ-es pikins Dispensador de jabón de Sensor automático doméstico...'
-tags: 'jabón'
+tags: jabón
 actualPrice: 33.3 EUR
 currency: EUR
 price: 33.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7QR6Y4-es Gullón Digestive Avena Galleta Integral con Avena Trigo y...'
-tags: 'gullón, trigo, chocolate'
+tags: gullón, trigo, chocolate
 actualPrice: 1.15 EUR
 currency: EUR
 price: 1.15

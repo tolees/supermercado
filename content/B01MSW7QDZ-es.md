@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSW7QDZ-es Vileda - Salvauñas Vitroceramica Duplo - [Pack de 4]'
-tags: 'salvauñas'
+tags: salvauñas
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

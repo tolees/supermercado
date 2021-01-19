@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QS56PYT-es NIVEA SUN Sensitive Protección Inmediata Antialergias...'
-tags: 'nivea'
+tags: nivea
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

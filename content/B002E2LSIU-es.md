@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002E2LSIU-es Licor whisky drambuie t.r. 40º 700 ml'
-tags: 'whisky'
+tags: whisky
 actualPrice: 18.15 EUR
 currency: EUR
 price: 18.15

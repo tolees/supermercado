@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M19HVS6-es Handy Bag Bolsas de Basura 10 L Baño Extra Resistentes...'
-tags: 'bolsas de basura'
+tags: bolsas, de, basura
 actualPrice: None None
 currency: None
 price: None

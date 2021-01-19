@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LAXHUV8-es Brabantia 363641 - Cuchara de Espagueti Acero y Nylon...'
-tags: 'espagueti'
+tags: espagueti
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085GKZ3L9-es Garrafa 5L gel hidroalcohólico higienizante PURLINE...'
-tags: 'hidroalcohólico'
+tags: hidroalcohólico
 actualPrice: 42.95 EUR
 currency: EUR
 price: 42.95

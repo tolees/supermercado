@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PKRXNG-es Gifort Maquina Burbujas para niños soplador de Burbujas...'
-tags: 'jabón'
+tags: jabón
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

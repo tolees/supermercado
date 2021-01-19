@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017B4RAPA-es Revlon Ultra HD Pintalabios Mate Love'
-tags: 'revlon'
+tags: revlon
 actualPrice: 4.07 EUR
 currency: EUR
 price: 4.07

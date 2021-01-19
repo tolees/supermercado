@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XW6L9T-es Hoomtaook Estanteria Ducha Estanteria Baño Para de Baño...'
-tags: 'jabón'
+tags: jabón
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

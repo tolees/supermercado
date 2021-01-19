@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K277BSD-es Fdit Secador de Zapatos Esterilización y Calefacción...'
-tags: 'desodorante'
+tags: desodorante
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

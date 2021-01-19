@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHMTP7W-es NIVEA mascarilla facial minimiza los poros urban detox...'
-tags: 'nivea'
+tags: nivea
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

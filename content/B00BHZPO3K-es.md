@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BHZPO3K-es Arcos Universal - Cuchillo para queso 145 mm hoja'
-tags: 'queso'
+tags: queso
 actualPrice: 21.13 EUR
 currency: EUR
 price: 21.13

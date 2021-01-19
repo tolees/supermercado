@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ6J3RN-es KLARSTEIN GrowIt Seeds Lote de Semillas - 9 paquetitos...'
-tags: 'cilantro'
+tags: cilantro
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

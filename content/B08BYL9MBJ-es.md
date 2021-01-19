@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BYL9MBJ-es Dispensador de jabón automático 200ML Dispensador de Jabón...'
-tags: 'jabón'
+tags: jabón
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

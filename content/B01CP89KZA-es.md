@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CP89KZA-es Mentos Chicle Frutas Silvestres Sin Azúcar - 10 unidades...'
-tags: 'azúcar, mentos'
+tags: azúcar, mentos
 actualPrice: 11.54 EUR
 currency: EUR
 price: 11.54

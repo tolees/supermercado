@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R1BTTB4-es Marca Amazon - Happy Belly Coco desecado 200gr x 5'
-tags: 'happy belly'
+tags: happy, belly
 actualPrice: 6.88 EUR
 currency: EUR
 price: 6.88

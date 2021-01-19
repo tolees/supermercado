@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRXFHPF-es Oclean Air Smart Sonic - Cepillo de dientes eléctrico...'
-tags: 'cepillo de dientes'
+tags: cepillo, de, dientes
 actualPrice: None None
 currency: None
 price: None

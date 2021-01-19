@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZFQJT5-es Herbal Essences Bío: Renew Volumen Acondicionador - 6...'
-tags: 'acondicionador'
+tags: acondicionador
 actualPrice: 10.26 EUR
 currency: EUR
 price: 10.26

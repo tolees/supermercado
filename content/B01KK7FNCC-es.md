@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KK7FNCC-es NIVEA Hyaluron Cellular Filler + Volumen y Contorno Serum...'
-tags: 'nivea'
+tags: nivea
 actualPrice: 11.41 EUR
 currency: EUR
 price: 11.41

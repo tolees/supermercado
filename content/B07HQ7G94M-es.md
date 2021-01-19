@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQ7G94M-es Neutrogena Hydrogel Mascarilla Purificante 3 Recipientes...'
-tags: 'neutrogena'
+tags: neutrogena
 actualPrice: 13.71 EUR
 currency: EUR
 price: 13.71

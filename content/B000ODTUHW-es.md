@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000ODTUHW-es Nestle - Cafe Capuccino Dolce Gusto 3 x 16 Capsulas.'
-tags: 'dolce gusto'
+tags: dolce, gusto
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

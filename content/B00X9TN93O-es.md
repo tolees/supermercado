@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9TN93O-es Garnier Delial After Sun Leche Hidratante Calmante con...'
-tags: 'garnier'
+tags: garnier
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

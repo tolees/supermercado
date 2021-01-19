@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B117BGS-es Nestlé Nesquik Cacao Soluble Instantáneo - Estuche 4x3kg'
-tags: 'nesquik, nestlé'
+tags: nesquik, nestlé
 actualPrice: 49.6 EUR
 currency: EUR
 price: 49.6

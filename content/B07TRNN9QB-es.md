@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRNN9QB-es Vernel Aromaterapia Suavizante Concentrado Té y Peonía 57...'
-tags: 'suavizante, vernel'
+tags: suavizante, vernel
 actualPrice: 2.18 EUR
 currency: EUR
 price: 2.18

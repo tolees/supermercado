@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RI9OZW-es Revlon Super Lustrous Lipstick 225 Rose Wine Pomadka do ust'
-tags: 'revlon'
+tags: revlon
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

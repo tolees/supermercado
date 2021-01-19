@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJGM47S-es Dove Original Desodorante Antitranspirante en Aerosol 48h...'
-tags: 'desodorante, dove, crema hidratante'
+tags: desodorante, dove, crema, hidratante
 actualPrice: 9.58 EUR
 currency: EUR
 price: 9.58

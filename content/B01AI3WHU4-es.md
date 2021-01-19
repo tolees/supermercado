@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AI3WHU4-es Elizabeth Arden Eight Hour Cream All-Over Miracle Oil 100 ml'
-tags: 'elizabeth arden'
+tags: elizabeth, arden
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

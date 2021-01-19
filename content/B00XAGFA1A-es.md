@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAGFA1A-es Oral-B Complete Limpieza Refrescante Pasta Dentífrica +...'
-tags: 'dentífrica'
+tags: dentífrica
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

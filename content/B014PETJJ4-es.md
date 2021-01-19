@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014PETJJ4-es L Oréal Expert Pro Fiber Rectify Leave-In-Rectify -...'
-tags: 'cuidado capilar, oréal'
+tags: cuidado, capilar, oréal
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

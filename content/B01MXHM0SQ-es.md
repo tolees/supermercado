@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXHM0SQ-es Oral-B Genius 8900 – Cepillo de dientes eléctrico con 2ª...'
-tags: 'cepillo de dientes'
+tags: cepillo, de, dientes
 actualPrice: 143.82 EUR
 currency: EUR
 price: 143.82

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UCC6D02-es Spontex - Estropajo de Cocina 2 Unidades'
-tags: 'spontex, estropajo'
+tags: spontex, estropajo
 actualPrice: 2.18 EUR
 currency: EUR
 price: 2.18

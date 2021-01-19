@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086YMJNK8-es Dispensador jabon automático Dispensador de Desinfectante...'
-tags: 'jabon, jabón'
+tags: jabon, jabón
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

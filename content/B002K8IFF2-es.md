@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002K8IFF2-es Carmencita Caldo Deshidratado para Fideuá - 15 sobres'
-tags: 'carmencita'
+tags: carmencita
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

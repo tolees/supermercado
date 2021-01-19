@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QK31VZM-es Dulcesol Bizcocho Red Velvet - 175 gr.'
-tags: 'bizcocho, dulcesol'
+tags: bizcocho, dulcesol
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5
@@ -26,8 +26,8 @@ Está [Dulcesol  Bizcocho Red Velvet - 175 gr.](https://www.amazon.es/dp/B07QK31
 
 ℹ️:
 
+- Bizcocho Red Velvet
 - Producto de pastelería y repostería
 - Marca Dulcesol
-- Bizcocho Red Velvet
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QK31VZM/?tag=tolees-21)

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WEJ0U3C-es Neutrogena Crema de Manos Elasticidad Intensa SPF 20 75 ml'
-tags: 'neutrogena'
+tags: neutrogena
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

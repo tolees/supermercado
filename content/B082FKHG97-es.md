@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082FKHG97-es Nuevos Hombres Mujeres Cabello Champú Cuero cabelludo...'
-tags: 'champú'
+tags: champú
 actualPrice: 1.54 EUR
 currency: EUR
 price: 1.54

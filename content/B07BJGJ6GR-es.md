@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJGJ6GR-es Dove Desodorante Original - Pack de 3 x 150 ml Total: 450 ml'
-tags: 'desodorante, dove'
+tags: desodorante, dove
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

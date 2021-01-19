@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q8LYIEO-es Gölles Alte Zwetschge Brandy - 350 ml'
-tags: 'brandy'
+tags: brandy
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

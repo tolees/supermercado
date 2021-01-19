@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRXVJGW-es Discos Desmaquillantes Reutilizables | Almohadillas...'
-tags: 'discos desmaquillantes'
+tags: discos, desmaquillantes
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

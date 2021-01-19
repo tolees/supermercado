@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9ZE72A-es NIVEA SUN Protege & Hidrata Spray Solar FP30 1 x 300 ml...'
-tags: 'nivea'
+tags: nivea
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

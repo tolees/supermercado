@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088QWWFBR-es Taiso Dispensador de jabón automático dispensadores de...'
-tags: 'jabón'
+tags: jabón
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

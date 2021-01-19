@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0851LBTVM-es Dr Tree Uso Frecuente 2 en 1 - Champú Sólido +...'
-tags: 'acondicionador, champú'
+tags: acondicionador, champú
 actualPrice: 8.72 EUR
 currency: EUR
 price: 8.72

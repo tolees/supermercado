@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078CR8HKZ-es L Oréal Paris Infallible Stick de Maquillaje 24h Tono 140...'
-tags: 'oréal'
+tags: oréal
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

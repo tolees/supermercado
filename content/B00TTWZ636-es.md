@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTWZ636-es LACTACYD Íntimo Toallitas - Higiene Íntima - Ideal para...'
-tags: 'lactacyd'
+tags: lactacyd
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

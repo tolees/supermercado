@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084RHT51M-es MAHALO HYDROGEL MIX BOX. 18 Sticks x 45 ml. Pack de 18...'
-tags: 'manzana'
+tags: manzana
 actualPrice: 30.74 EUR
 currency: EUR
 price: 30.74

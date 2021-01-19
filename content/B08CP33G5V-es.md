@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CP33G5V-es NUK Detergente para Biberones'
-tags: 'detergente'
+tags: detergente
 actualPrice: None None
 currency: None
 price: None

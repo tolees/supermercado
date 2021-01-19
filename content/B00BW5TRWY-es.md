@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BW5TRWY-es Schwarzkopf Professional Igora Royal 8-00 Tinte - 60 ml'
-tags: 'schwarzkopf'
+tags: schwarzkopf
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013WW8A0E-es Elizabeth Arden Superstart Serum Facial 30 ml'
-tags: 'elizabeth arden'
+tags: elizabeth, arden
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

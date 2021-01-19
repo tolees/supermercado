@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7R48US-es Bonka Café molido de tueste natural y cultivo sostenible -...'
-tags: 'café'
+tags: café
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

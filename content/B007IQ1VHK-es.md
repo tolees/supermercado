@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007IQ1VHK-es Nestlé Chocolate con leche con cereales tostados - 100 gr'
-tags: 'nestlé, chocolate'
+tags: nestlé, chocolate
 actualPrice: 0.92 EUR
 currency: EUR
 price: 0.92

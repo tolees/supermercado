@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4NEE9G-es WeddingTree 48 Pompas de Jabon Boda Rosa - Pomperos Boda -...'
-tags: 'jabon'
+tags: jabon
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLQLC2P-es GERUIKE Portarrollos De Cocina con Estante Portarrollos de...'
-tags: 'papel de cocina'
+tags: papel, de, cocina
 actualPrice: 19.88 EUR
 currency: EUR
 price: 19.88

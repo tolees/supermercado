@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LTHLDAI-es Revlon ColorSilk Tinte de Cabello Permanente Tono #55...'
-tags: 'revlon'
+tags: revlon
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

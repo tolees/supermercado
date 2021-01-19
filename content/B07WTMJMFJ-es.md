@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTMJMFJ-es VicTsing 150ml Difusor de Aromas Ultra Silencioso 21dB...'
-tags: 'cúrcuma'
+tags: cúrcuma
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

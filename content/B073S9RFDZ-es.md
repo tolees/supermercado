@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073S9RFDZ-es Hawaiian Tropic Sensitive Skin Face - Crema Solar para la...'
-tags: 'crema solar'
+tags: crema, solar
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

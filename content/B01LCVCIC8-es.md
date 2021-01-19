@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LCVCIC8-es Germanor Arbequina Aceite de Oliva Virgen Extra - 5 l'
-tags: 'arbequina, aceite de oliva, virgen extra'
+tags: arbequina, aceite, de, oliva, virgen, extra
 actualPrice: None None
 currency: None
 price: None

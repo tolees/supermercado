@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089SNTGZ5-es VEEAPE Dispensador de jabón automático 350ml Sensor...'
-tags: 'jabón'
+tags: jabón
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9TXURY-es GARNIER DELIAL Sensitive Advanced - Crema Facial...'
-tags: 'garnier'
+tags: garnier
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15
