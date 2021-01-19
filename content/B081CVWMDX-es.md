@@ -25,10 +25,10 @@ Está [Botanical Origin Detergente para lavadora ecológico apto para pieles sen
 
 ℹ️:
 
-- Detergente para la lavadora ecológico líquido con ingredientes de origen botánico tan efectivo como los productos convencionales
-- Apto para pieles sensibles; no deja químicos abrasivos en la ropa que puedan causar una reacción adversa en pieles sensibles; dermatológicamente testado
-- Fragancia con aceites esenciales con aroma a jazmín fresco y lavanda silvestre
-- Envases respetuosos con el medio ambiente; pack 100 % reciclable y fabricado con hasta un 50 % de material reciclado
 - Formulado con ingredientes de origen natural, 0 % colorantes o abrillantadores artificiales; con certificado Ecolabel
+- Detergente para la lavadora ecológico líquido con ingredientes de origen botánico tan efectivo como los productos convencionales
+- Envases respetuosos con el medio ambiente; pack 100 % reciclable y fabricado con hasta un 50 % de material reciclado
+- Fragancia con aceites esenciales con aroma a jazmín fresco y lavanda silvestre
+- Apto para pieles sensibles; no deja químicos abrasivos en la ropa que puedan causar una reacción adversa en pieles sensibles; dermatológicamente testado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081CVWMDX/?tag=tolees-21)

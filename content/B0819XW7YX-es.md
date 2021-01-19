@@ -27,8 +27,8 @@ Ahora mismo tienes [Cesta de Navidad con Jamón Reserva Gran Selección Navidul 
 
 - 1 Botella de Vino Rioja D.O. Joven Marqués de Treviño.
 - 1 Lata aceite de oliva virgen extra 500ml La Chinata, Surtido Tradicional E.Moreno 200 gr y 1 Cuchillo Jamonero y Cubre Jamón Color Negro
-- Caja decorada Navidul con ruedas y asa para llevarlo fácilmente.
 - 1 Jamón Navidul Gran Reserva +7,5 kg.
 - Lote compuesto por:
+- Caja decorada Navidul con ruedas y asa para llevarlo fácilmente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0819XW7YX/?tag=tolees-21)

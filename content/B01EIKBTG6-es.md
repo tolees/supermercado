@@ -25,8 +25,8 @@ Está [Junta Goma para Tarro Cristal DE CONSERVAS 92 X 70 MM  10 Unidades ](http
 
 ℹ️:
 
+- Medidas junta 70 x 92 x 2,5 mm
 - Modelo Universal
 - Ideal para Tarros de Cristal
-- Medidas junta 70 x 92 x 2,5 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01EIKBTG6/?tag=tolees-21)
