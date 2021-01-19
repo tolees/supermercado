@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Junta Goma para Tarro Cristal DE CONSERV al 0.00 % de descuento'
-date: 2021-01-17 17:36:20
+date: 2021-01-19 06:27:14
 image: 'https://m.media-amazon.com/images/I/31OahPf4cuL._SL200_.jpg'
 comments: true
 category: ofertas
