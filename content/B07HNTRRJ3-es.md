@@ -26,9 +26,9 @@ En este momento está [Biolage  Champú y Acondicionador - 30 ml.](https://www.a
 
 🔎:
 
-- Productos para tu salud y cuidado personal
-- Producto de alta calidad
 - Tipo de cabello: seco
+- Producto de alta calidad
 - R.A.A; rebalance scalp oil 30 ml
+- Productos para tu salud y cuidado personal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HNTRRJ3/?tag=tolees-21)
