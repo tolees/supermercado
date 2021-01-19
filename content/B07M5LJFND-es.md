@@ -27,8 +27,8 @@ Tienes [BERLS Cargador de Cepillo de Dientes Eléctrico para Oral-B  Cargador de
 ℹ️:
 
 - Fácil de transportar: el cargador es ligero, pequeño y fácil de transportar. Es el compañero ideal para viajes de negocios y viajes de negocios.
+- Impermeable: el cargador de cepillo de dientes Berls está fabricado en un material ABS aislado y ecológico, con una alfombrilla antideslizante, de seguridad y sin deslizamiento. Se puede utilizar en el cuarto de baño, en la cocina y en cualquier lugar donde pueda entrar en contacto con el agua.
 - Enchufe europeo: está diseñado para la norma europea (enchufe europeo de 2 pines), voltaje de entrada para la mayoría de las zonas (220-240 V). Funciona bien con su cepillo de dientes eléctrico Oral-B
 - Compatible con: Braun Oral-B Pro Series: 600/670/690/700/750/760/770/790/900/1000/2000/2000/2000+/2000S/2500/2700/3000. / 5000 Oral-B PRO 2 2500, PRO 2 2950, Pro 2 2700, Pro 2 2000s y Oral-B Stages Cepillo de dientes eléctrico para niños
-- Impermeable: el cargador de cepillo de dientes Berls está fabricado en un material ABS aislado y ecológico, con una alfombrilla antideslizante, de seguridad y sin deslizamiento. Se puede utilizar en el cuarto de baño, en la cocina y en cualquier lugar donde pueda entrar en contacto con el agua.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07M5LJFND/?tag=tolees-21)

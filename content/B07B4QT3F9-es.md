@@ -26,9 +26,9 @@ Tienes [Lay s Gourmet Patatas Fritas - Paquete de 9 x 180 gr - Total: 1620 gr](h
 
 🔎:
 
-- País de origen: España
 - No contiene alérgenos de obligada declaración
-- Mantener en un lugar fresco y seco
+- País de origen: España
 - Envasado en atmósfera protectora
+- Mantener en un lugar fresco y seco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B4QT3F9/?tag=tolees-21)
