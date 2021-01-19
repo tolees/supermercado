@@ -27,8 +27,8 @@ Ahora mismo tienes [La Chinata Aceite Oliva Virgen Extra Guindilla - 250 ml](htt
 
 - Atrayente aroma y sabor
 - Un aceite que, además de exquisito al paladar, resulta muy saludable.
-- Da un toque exclusivo y diferente a nuestras recetas favoritas.
-- El aceite con más sabor...
 - Aceite artesanal
+- El aceite con más sabor...
+- Da un toque exclusivo y diferente a nuestras recetas favoritas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003TRU57E/?tag=tolees-21)

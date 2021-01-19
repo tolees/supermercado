@@ -25,10 +25,10 @@ Está [JOFLY Dispensador de Desinfectante Manos Automático 400 ml  Dispensador 
 
 ℹ️:
 
-- ✔2 MODOS: Modo 1 - spray de 2 segundos para una limpieza regular. Modo 2: rociado continuo de 5 minutos para una limpieza a gran escala.
 - ✔ APTO PARA MÚLTIPLES LUGARES: SOLO se puede usar líquido no pegajoso en el dispensador de jabón baño en aerosol. Se puede instalar en cocinas, oficinas, aeropuertos, escuelas, hoteles, hospitales, restaurantes, etc.
 - ✔ LO QUE OBTIENE: JOFLY se compromete a proporcionar a nuestros clientes un dispensador de jabón de alta calidad y el mejor servicio.
-- ✔ SIN TOCAR: con tecnología de detección de movimiento incorporada, el dosificador de manos le sirve en 0,3 segundos cuando se encuentra a menos de 7 cm debajo del pico. Totalmente sin contacto, automático, rápido e higiénico.
 - ✔ MEDIOAMBIENTAL Y USB RECARGABLE: El dispensador automático de jabón está hecho de material ambiental ABS / PE y cuenta con una batería de litio recargable de 2000 mAh. Es a prueba de agua y a prueba de fugas.
+- ✔ SIN TOCAR: con tecnología de detección de movimiento incorporada, el dosificador de manos le sirve en 0,3 segundos cuando se encuentra a menos de 7 cm debajo del pico. Totalmente sin contacto, automático, rápido e higiénico.
+- ✔2 MODOS: Modo 1 - spray de 2 segundos para una limpieza regular. Modo 2: rociado continuo de 5 minutos para una limpieza a gran escala.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08J6KBPKR/?tag=tolees-21)
