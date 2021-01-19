@@ -25,10 +25,10 @@ Tienes [Gigaset A170 - Teléfono Inalámbrico  Pantalla Iluminada  Agenda de 50 
 
 🔎:
 
-- Agenda de 50 contactos
-- Pantalla grafica iluminada con identificación de llamada
-- Conéctate y habla rápida y fácil instalación
-- Fecha y hora en pantalla
 - Gran autonomía hasta 18 h de conversación y 200 h en reposo
+- Agenda de 50 contactos
+- Fecha y hora en pantalla
+- Conéctate y habla rápida y fácil instalación
+- Pantalla grafica iluminada con identificación de llamada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F9JWZ9M/?tag=tolees-21)
