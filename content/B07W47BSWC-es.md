@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W47BSWC-es Gliss - Spray Acondicionador Express Ultimate Repair -...'
-tags: [ 'tole.es','acondicionador','schwarzkopf', ]
+tags: [ 'acondicionador','schwarzkopf', ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

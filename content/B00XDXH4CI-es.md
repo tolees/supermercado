@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XDXH4CI-es Foxy - Pañuelos hipoalergénicos - 10 paquetes x 9 unidades'
-tags: [ 'tole.es','foxy', ]
+tags: [ 'foxy', ]
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

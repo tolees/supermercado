@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZYBJQC-es Elvive Acondicionador con Arcilla Extraordinaria - 300 ml'
-tags: [ 'tole.es','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

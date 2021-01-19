@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GG0NT6-es American Crew Classic Champú Hidratante Diario 1000 ml'
-tags: [ 'tole.es','american','crew','champú', ]
+tags: [ 'american','crew','champú', ]
 actualPrice: 14.83 EUR
 currency: EUR
 price: 14.83

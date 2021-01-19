@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC1Q1RZ-es Slendier Pasta Konjac Noodle sin Gluten Bio 400g Caja 6...'
-tags: [ 'tole.es','sin','gluten', ]
+tags: [ 'sin','gluten', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

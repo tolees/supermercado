@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHV353C-es Skip Ultimate Triple Poder Detergente Capsulas Maxima...'
-tags: [ 'tole.es','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 8.65 EUR
 currency: EUR
 price: 8.65

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071YZKF5S-es Purina Gourmet Gold Doble Placer - Comida para Gatos...'
-tags: [ 'tole.es','purina', ]
+tags: [ 'purina', ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

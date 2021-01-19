@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNPJCTW-es Wipp Express Detergente Líquido Azul Formato Ahorro 100...'
-tags: [ 'tole.es','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

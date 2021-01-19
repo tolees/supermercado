@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079W3DGH6-es Garnier Olia - Coloración Permanente sin Amoniaco con...'
-tags: [ 'tole.es','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

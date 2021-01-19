@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7ER7LE-es Maybelline New York - Color Sensational Lápiz de Labios...'
-tags: [ 'tole.es','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

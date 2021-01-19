@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9YVT8B-es RED BULL Coconut Edition Bebida energética sabor coco y...'
-tags: [ 'tole.es','bebida','energética','red','bull', ]
+tags: [ 'bebida','energética','red','bull', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

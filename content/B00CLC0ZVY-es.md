@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CLC0ZVY-es Elizabeth Arden 5th Avenue NYC - Agua de perfume'
-tags: [ 'tole.es','elizabeth','arden', ]
+tags: [ 'elizabeth','arden', ]
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

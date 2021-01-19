@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2F3DMC-es L Oréal Paris - Les Macarons Pintalabios Mate Permanente...'
-tags: [ 'tole.es','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

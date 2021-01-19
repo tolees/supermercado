@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GY5QZF2-es Wristband Dispenser Portátil Sillicone Jabón Pulsera...'
-tags: [ 'tole.es','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

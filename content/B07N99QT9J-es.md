@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N99QT9J-es Max Factor Polvos Miracle Veil Polvos sueltos - 4 gr.'
-tags: [ 'tole.es','max','factor', ]
+tags: [ 'max','factor', ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

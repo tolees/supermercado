@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076KD6DDV-es Acondicionador de queratina para reparación de cuidado de...'
-tags: [ 'tole.es','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

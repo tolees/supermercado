@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CQXGQEW-es NIVEA Cellular Perfect Skin Cuidado de Día FP15 1 x 50 ml...'
-tags: [ 'tole.es','nivea','crema','hidratante', ]
+tags: [ 'nivea','crema','hidratante', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

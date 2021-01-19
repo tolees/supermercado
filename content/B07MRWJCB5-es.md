@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MRWJCB5-es Nenuco Pack Cuidado Classic con 2 geles de ducha 1 colonia...'
-tags: [ 'tole.es','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 9.91 EUR
 currency: EUR
 price: 9.91

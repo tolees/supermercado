@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000D8BGF-es Colgate Actibrush Brush HEAD 2 Cabezal para cepillo de...'
-tags: [ 'tole.es','colgate','cepillo','de','dientes', ]
+tags: [ 'colgate','cepillo','de','dientes', ]
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

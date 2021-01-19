@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GTJ7ICI-es AUSONIA - 34744 SIERRA DE COMPÁS AJUSTABLE DE 30 CM DE...'
-tags: [ 'tole.es','ausonia', ]
+tags: [ 'ausonia', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

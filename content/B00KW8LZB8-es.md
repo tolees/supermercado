@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KW8LZB8-es Renova Rollos de cocina Maxiabsorption Blanco Triple - 1...'
-tags: [ 'tole.es','renova', ]
+tags: [ 'renova', ]
 actualPrice: 1.14 EUR
 currency: EUR
 price: 1.14
@@ -26,9 +26,9 @@ En este momento está [Renova Rollos de cocina Maxiabsorption Blanco Triple - 1 
 
 🔎:
 
-- 2 capas
 - 1 rollo
 - Rollo de cocina blanco
+- 2 capas
 - Ideal para todo tipo de utilización doméstica
 - Tamaño extra XXL
 

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTC0HP8-es L Oréal Paris Colorete en Stick Infalible Chubby Fuchsia Fame'
-tags: [ 'tole.es','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2B5XT2-es Cidacos Extra Alubias Enlatadas - 570 g'
-tags: [ 'tole.es','cidacos', ]
+tags: [ 'cidacos', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

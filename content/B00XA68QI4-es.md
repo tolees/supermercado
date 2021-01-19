@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA68QI4-es Ariel Original Detergente en polvo 70 lavados 4.550 kg'
-tags: [ 'tole.es','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

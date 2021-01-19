@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004DMAJMA-es Gillette Fusion ProGlide Power - Cuchillas de recambio...'
-tags: [ 'tole.es','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

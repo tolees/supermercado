@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA7INU4-es Campos Conserva de Bonito del norte en escabeche...'
-tags: [ 'tole.es','conserva','escabeche', ]
+tags: [ 'conserva','escabeche', ]
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

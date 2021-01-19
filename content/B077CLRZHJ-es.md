@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077CLRZHJ-es Bosch TAS6004 Tassimo My Way color blanco + Pack café 5...'
-tags: [ 'tole.es','café', ]
+tags: [ 'café', ]
 actualPrice: 132.63 EUR
 currency: EUR
 price: 132.63

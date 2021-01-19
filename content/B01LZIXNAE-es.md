@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZIXNAE-es Dr. Oetker Molde Desmontable Back-Harmonie Acero marrón 28 cm'
-tags: [ 'tole.es','dr.','oetker', ]
+tags: [ 'dr.','oetker', ]
 actualPrice: 39.51 EUR
 currency: EUR
 price: 39.51

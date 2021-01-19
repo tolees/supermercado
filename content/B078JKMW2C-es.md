@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078JKMW2C-es Urterkam Champú - 500 ml.'
-tags: [ 'tole.es','champú', ]
+tags: [ 'champú', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

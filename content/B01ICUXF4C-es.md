@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ICUXF4C-es Elifexir Esenciall | Piel Canela | 40 Cápsulas para un...'
-tags: [ 'tole.es','canela', ]
+tags: [ 'canela', ]
 actualPrice: 14.56 EUR
 currency: EUR
 price: 14.56

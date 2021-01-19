@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PROCS90-es ENATE Reserva Especial 2006 Cabernet Sauvignon y Merlot...'
-tags: [ 'tole.es','vino','tinto', ]
+tags: [ 'vino','tinto', ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

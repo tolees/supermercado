@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXPKOF3-es Albo Sardinas en Aceite de Oliva - 85 g'
-tags: [ 'tole.es','aceite','de','oliva', ]
+tags: [ 'aceite','de','oliva', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

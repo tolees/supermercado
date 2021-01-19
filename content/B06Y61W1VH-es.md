@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y61W1VH-es Lagarto - Jabón natural - 400 g - [paquete de 8 unidades]'
-tags: [ 'tole.es','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 10.32 EUR
 currency: EUR
 price: 10.32

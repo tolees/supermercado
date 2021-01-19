@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JLMT0OO-es L Oréal Paris Color Riche Barra De Labios Gold Obsession...'
-tags: [ 'tole.es','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

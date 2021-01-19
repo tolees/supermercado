@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A52XVAI-es L Oréal Paris Base de Maquillaje Fluida Cushion Rose Beige 6'
-tags: [ 'tole.es','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 6 EUR
 currency: EUR
 price: 6

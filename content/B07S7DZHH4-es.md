@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7DZHH4-es Chicco Maglioncino In Tricot Bimbo Jersey para Bebés'
-tags: [ 'tole.es','bimbo', ]
+tags: [ 'bimbo', ]
 actualPrice: None None
 currency: None
 price: None

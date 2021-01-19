@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0018LW0SA-es Elizabeth Arden 5th Avenue Agua de Perfume - 75 ml'
-tags: [ 'tole.es','elizabeth','arden', ]
+tags: [ 'elizabeth','arden', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

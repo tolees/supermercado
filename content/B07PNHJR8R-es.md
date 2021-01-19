@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNHJR8R-es Champú reestructurante para cabello rizado con aceite de...'
-tags: [ 'tole.es','champú', ]
+tags: [ 'champú', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

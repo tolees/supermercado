@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JCDJ91C-es Syoss Champú Color Tech - con Tecnología selladora del...'
-tags: [ 'tole.es','champú', ]
+tags: [ 'champú', ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

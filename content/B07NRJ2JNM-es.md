@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRJ2JNM-es SYOSS - Acondicionador Salon Plex - Tratamiento de...'
-tags: [ 'tole.es','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

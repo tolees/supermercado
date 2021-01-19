@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TL6Q1Q-es Fansport 22 Pcs Maquina de Burbujas Burbujas de Jabón...'
-tags: [ 'tole.es','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

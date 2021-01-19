@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N21BC1A-es Mineradora manual de la carne con hojas de acero fundido...'
-tags: [ 'tole.es','salchichas', ]
+tags: [ 'salchichas', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

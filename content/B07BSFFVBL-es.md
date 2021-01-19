@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSFFVBL-es 82 Piezas-Vajilla Diseño de Unicornio Desechable-Accesorio...'
-tags: [ 'tole.es','servilletas', ]
+tags: [ 'servilletas', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

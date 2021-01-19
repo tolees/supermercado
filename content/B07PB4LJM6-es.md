@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PB4LJM6-es Axe Desodorante Black Pack Duplo Ahorro - 2 Paquetes de 2...'
-tags: [ 'tole.es','axe','desodorante', ]
+tags: [ 'axe','desodorante', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

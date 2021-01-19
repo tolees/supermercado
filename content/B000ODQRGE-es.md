@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000ODQRGE-es NESCAFÉ Dolce Gusto | Capsulas de Café Cappuccino Ice |...'
-tags: [ 'tole.es','café','nescafé','dolce','gusto', ]
+tags: [ 'café','nescafé','dolce','gusto', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

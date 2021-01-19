@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAENE9C-es Air Wick Aerosol'
-tags: [ 'tole.es','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

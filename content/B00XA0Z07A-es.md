@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA0Z07A-es Milka - Tableta De Chocolate con Galleta Lu - 87 g'
-tags: [ 'tole.es','milka','chocolate', ]
+tags: [ 'milka','chocolate', ]
 actualPrice: 0.86 EUR
 currency: EUR
 price: 0.86

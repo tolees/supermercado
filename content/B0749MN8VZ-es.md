@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0749MN8VZ-es Gel hidroalcohólico antiséptico para piel sana S nonas....'
-tags: [ 'tole.es','hidroalcohólico', ]
+tags: [ 'hidroalcohólico', ]
 actualPrice: 4.27 EUR
 currency: EUR
 price: 4.27

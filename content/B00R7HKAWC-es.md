@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R7HKAWC-es Melitta Molinillo de café eléctrico Molino Disco plano...'
-tags: [ 'tole.es','café', ]
+tags: [ 'café', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

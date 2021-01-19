@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DM4PAL4-es Pack 3 recargas de materias primas para elaborar cerveza...'
-tags: [ 'tole.es','cerveza','trigo', ]
+tags: [ 'cerveza','trigo', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

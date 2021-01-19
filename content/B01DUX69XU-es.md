@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DUX69XU-es ultima Cat - Junior 2-12 Pollo & Arroz 400 gr'
-tags: [ 'tole.es','arroz', ]
+tags: [ 'arroz', ]
 actualPrice: None None
 currency: None
 price: None

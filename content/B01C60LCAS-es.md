@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C60LCAS-es NIVEA MEN Protege & Cuida Spray desodorante para hombre...'
-tags: [ 'tole.es','desodorante','nivea', ]
+tags: [ 'desodorante','nivea', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

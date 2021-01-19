@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9NN5ZV-es Viaggio Espresso Cápsulas de café compatibles con máquinas...'
-tags: [ 'tole.es','café','cápsulas','de','café', ]
+tags: [ 'café','cápsulas','de','café', ]
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

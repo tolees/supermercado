@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B6NFP47-es Nestlé Naturnes Bio Bolsitas Bebida Agua Y Fruta Tropical...'
-tags: [ 'tole.es','nestlé', ]
+tags: [ 'nestlé', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

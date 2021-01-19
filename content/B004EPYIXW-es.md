@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EPYIXW-es Scitec Whey Protein Professional Mezcla de Proteína de...'
-tags: [ 'tole.es','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 42.9 EUR
 currency: EUR
 price: 42.9

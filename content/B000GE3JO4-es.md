@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GE3JO4-es Gillette Fusion Power - Recambios de maquinilla de afeitar...'
-tags: [ 'tole.es','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 14.11 EUR
 currency: EUR
 price: 14.11

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08695NWYS-es AXE Leather&Cookies- Desodorante Pack Duplo Ahorro 2x 150 ml'
-tags: [ 'tole.es','axe','desodorante', ]
+tags: [ 'axe','desodorante', ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75
@@ -26,10 +26,10 @@ Tienes [AXE Leather&Cookies- Desodorante Pack Duplo Ahorro 2x 150 ml](https://ww
 
 ℹ️:
 
-- Una mezcla inesperada de cuero y cookies, con toques de mandarina, cardamomo y cuero nuevo
 - Cuero y cookies: dos ingredientes que chocan y que parece que no funcionen, pero que crean una fragancia alucinante
-- AXE Desodorante Bodyspray Leather & Cookies pack ahorro 2x150ml
 - Axe Leather & Cookies, no debería funcionar pero funciona
+- AXE Desodorante Bodyspray Leather & Cookies pack ahorro 2x150ml
 - Mantente fresco durante el dia
+- Una mezcla inesperada de cuero y cookies, con toques de mandarina, cardamomo y cuero nuevo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08695NWYS/?tag=tolees-21)

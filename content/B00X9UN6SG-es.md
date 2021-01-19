@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9UN6SG-es Licor del Polo - Pasta de Dientes 2 en 1 Menta Fresca - 75 ml'
-tags: [ 'tole.es','pasta','de','dientes', ]
+tags: [ 'pasta','de','dientes', ]
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45
@@ -26,9 +26,9 @@ Está [Licor del Polo - Pasta de Dientes 2 en 1 Menta Fresca - 75 ml](https://ww
 
 ℹ️:
 
-- Para unos dientes y encías sanas, una higiene bucal profunda y un aliento fresco
-- Actúa contra la placa y proporciona una limpieza eficaz
-- Fórmula probada científicamente
 - Su fórmula con esencia de menta proporciona una acción de limpieza eficaz y un frescor en toda la boca
+- Fórmula probada científicamente
+- Actúa contra la placa y proporciona una limpieza eficaz
+- Para unos dientes y encías sanas, una higiene bucal profunda y un aliento fresco
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00X9UN6SG/?tag=tolees-21)

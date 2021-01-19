@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GS1CJ1W-es Shandy Cruzcampo Limón Cerveza - Caja de 24 Latas x 330 ml...'
-tags: [ 'tole.es','cerveza','cruzcampo', ]
+tags: [ 'cerveza','cruzcampo', ]
 actualPrice: 13.2 EUR
 currency: EUR
 price: 13.2

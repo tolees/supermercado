@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JF2NQXV-es Schwarzkopf Champú - 2 de 1 unidad'
-tags: [ 'tole.es','schwarzkopf','champú', ]
+tags: [ 'schwarzkopf','champú', ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

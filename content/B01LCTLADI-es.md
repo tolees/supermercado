@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LCTLADI-es Lay s Gourmet Patatas Fritas con Sal - 180 g'
-tags: [ 'tole.es','patatas','fritas', ]
+tags: [ 'patatas','fritas', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

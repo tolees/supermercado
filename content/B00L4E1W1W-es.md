@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L4E1W1W-es Aislado de Proteína de Soja en Polvo | 100% A Base de...'
-tags: [ 'tole.es','azúcar','soja','sin','gluten', ]
+tags: [ 'azúcar','soja','sin','gluten', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

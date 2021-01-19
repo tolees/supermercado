@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSV2LK1-es Love Beauty and Planet Mascarilla Capilar para Cabello...'
-tags: [ 'tole.es','mascarilla','capilar', ]
+tags: [ 'mascarilla','capilar', ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

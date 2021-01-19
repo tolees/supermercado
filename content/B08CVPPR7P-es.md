@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVPPR7P-es feihao Cepillo De Dientes para Perros Cepillos de Dientes...'
-tags: [ 'tole.es','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

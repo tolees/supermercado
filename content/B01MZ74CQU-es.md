@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ74CQU-es Nuk Detergente de superfícies para bebés'
-tags: [ 'tole.es','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KTGY7IG-es Gillette Venus Oceana Maquinillas Desechables Para Mujer -...'
-tags: [ 'tole.es','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

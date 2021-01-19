@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E7ABOJK-es Whisky Blended Scotch Passport 70 cl'
-tags: [ 'tole.es','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 8.54 EUR
 currency: EUR
 price: 8.54

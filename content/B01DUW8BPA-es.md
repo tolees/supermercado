@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DUW8BPA-es Leche Pascual - Clásica Leche Entera - 1 L Paquete de 6'
-tags: [ 'tole.es','leche','entera', ]
+tags: [ 'leche','entera', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98
@@ -26,8 +26,8 @@ En este momento está [Leche Pascual - Clásica Leche Entera - 1 L  Paquete de 6
 
 🔎:
 
-- Se debe conservar en un lugar fresco y seco
 - Advertencia alergénica: contiene leche
 - Una vez abierto conservar el envase cerrado en nevera y consumir antes de 3 días
+- Se debe conservar en un lugar fresco y seco
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01DUW8BPA/?tag=tolees-21)

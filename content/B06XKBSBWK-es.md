@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XKBSBWK-es Roe & Co Whisky Irlandés - 700 ml'
-tags: [ 'tole.es','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 21.62 EUR
 currency: EUR
 price: 21.62

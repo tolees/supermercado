@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LY1CP38-es Nestlé Purés Pijama Tarrito de puré de verduras y carne...'
-tags: [ 'tole.es','nestlé', ]
+tags: [ 'nestlé', ]
 actualPrice: None None
 currency: None
 price: None

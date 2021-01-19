@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLN78Y6-es Diadermine - Lift+ Hidratante crema de día - 50ml y Lift+...'
-tags: [ 'tole.es','diadermine', ]
+tags: [ 'diadermine', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

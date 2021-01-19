@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086KGR7B2-es Ariel Allin1 Pods Original - Detergente en cápsulas para...'
-tags: [ 'tole.es','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 28.29 EUR
 currency: EUR
 price: 28.29

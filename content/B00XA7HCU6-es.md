@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA7HCU6-es Marcilla Gran Aroma Café Molido Descafeinado Natural - 200 gr'
-tags: [ 'tole.es','café','descafeinado','marcilla', ]
+tags: [ 'café','descafeinado','marcilla', ]
 actualPrice: 2.33 EUR
 currency: EUR
 price: 2.33

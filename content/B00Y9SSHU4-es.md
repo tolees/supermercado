@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y9SSHU4-es Purina ProPlan Medium Puppy Start pienso para perro...'
-tags: [ 'tole.es','purina', ]
+tags: [ 'purina', ]
 actualPrice: 16.3 EUR
 currency: EUR
 price: 16.3

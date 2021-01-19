@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003XRBAY2-es Babaria Veneno Serpiente Contorno Ojos 12 ml'
-tags: [ 'tole.es','babaria', ]
+tags: [ 'babaria', ]
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

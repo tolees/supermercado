@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPXXK91-es Somat Detergente Gel Lavavajillas Frescor Antiolor - 2 x...'
-tags: [ 'tole.es','detergente','somat', ]
+tags: [ 'detergente','somat', ]
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

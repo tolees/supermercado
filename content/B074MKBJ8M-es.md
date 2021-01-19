@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074MKBJ8M-es La Silla Española Ribadeo Oficina sin Reposacabezas...'
-tags: [ 'tole.es','la','española', ]
+tags: [ 'la','española', ]
 actualPrice: 52.54 EUR
 currency: EUR
 price: 52.54

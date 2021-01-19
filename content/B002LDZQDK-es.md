@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002LDZQDK-es KLORANE Champú al Extracto de Peonía 400 ml'
-tags: [ 'tole.es','champú', ]
+tags: [ 'champú', ]
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25

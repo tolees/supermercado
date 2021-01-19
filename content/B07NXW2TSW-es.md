@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXW2TSW-es La Parroquia de Veracruz - Bolsa Café Molido Tradicional...'
-tags: [ 'tole.es','café','chocolate', ]
+tags: [ 'café','chocolate', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

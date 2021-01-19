@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9U8C6C-es Garnier Delial Sensitive Advanced - Bruma Seca Protector...'
-tags: [ 'tole.es','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

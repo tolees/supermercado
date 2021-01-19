@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0VJ05X-es Air Wick Ambientador Freshmatic Completo Delicias de...'
-tags: [ 'tole.es','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G6TZ6LQ-es FRHOME - Nescafè Dolce Gusto 96 Càpsulas compatibles - Il...'
-tags: [ 'tole.es','dolce','gusto', ]
+tags: [ 'dolce','gusto', ]
 actualPrice: 18.4 EUR
 currency: EUR
 price: 18.4

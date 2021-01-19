@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CR3UBLK-es Café FORTALEZA - Café en Grano Mezcla 50/50 - 1 kg'
-tags: [ 'tole.es','café','fortaleza', ]
+tags: [ 'café','fortaleza', ]
 actualPrice: 10.34 EUR
 currency: EUR
 price: 10.34

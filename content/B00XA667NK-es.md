@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA667NK-es Detergente Ariel Basico Líquido 110d Caja con 2 botellas'
-tags: [ 'tole.es','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 15.24 EUR
 currency: EUR
 price: 15.24

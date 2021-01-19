@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZWPV8LV-es ALDOUS BIO - Eritritol Ecológico Premium - 100 % Natural -...'
-tags: [ 'tole.es','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 14.31 EUR
 currency: EUR
 price: 14.31

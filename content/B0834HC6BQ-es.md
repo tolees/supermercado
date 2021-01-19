@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0834HC6BQ-es Planetacase Taza Padrino - Aquí Bebe Un Super Padrino -...'
-tags: [ 'tole.es','café', ]
+tags: [ 'café', ]
 actualPrice: None None
 currency: None
 price: None

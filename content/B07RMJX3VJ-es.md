@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMJX3VJ-es G-Vine Ginebra G-Vine Peach - 700 ml'
-tags: [ 'tole.es','ginebra', ]
+tags: [ 'ginebra', ]
 actualPrice: 32.09 EUR
 currency: EUR
 price: 32.09

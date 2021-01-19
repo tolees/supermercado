@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DK4J5GM-es MOSUO Dispensador de Jabón Automático 350ml Dispensador...'
-tags: [ 'tole.es','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

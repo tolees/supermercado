@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1XK8WD-es Mascarilla de Pelo Morado-Matizador para Cabello Rubio y...'
-tags: [ 'tole.es','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

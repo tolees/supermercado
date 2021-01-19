@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXSZ2J4-es L Oréal Paris Make-up designer Isabel Marant Iluminador Shine'
-tags: [ 'tole.es','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

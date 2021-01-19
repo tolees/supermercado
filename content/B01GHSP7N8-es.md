@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GHSP7N8-es Vitamaze® Cápsulas de cúrcuma + curcumina piperina...'
-tags: [ 'tole.es','cúrcuma', ]
+tags: [ 'cúrcuma', ]
 actualPrice: 13.57 EUR
 currency: EUR
 price: 13.57

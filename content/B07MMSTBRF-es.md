@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMSTBRF-es WERNNSAI Conjunto de Suministros para la Fiesta Juego -...'
-tags: [ 'tole.es','servilletas', ]
+tags: [ 'servilletas', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

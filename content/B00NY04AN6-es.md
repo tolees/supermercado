@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NY04AN6-es Gillette ProGlide Power blades - Hoja - Pack de 4'
-tags: [ 'tole.es','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EA88JMS-es Levadura Nutricional 125 Gr de Salud Viva'
-tags: [ 'tole.es','levadura', ]
+tags: [ 'levadura', ]
 actualPrice: 8.14 EUR
 currency: EUR
 price: 8.14

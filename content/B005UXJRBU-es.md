@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005UXJRBU-es Brokers Ginebra - 700 ml'
-tags: [ 'tole.es','ginebra', ]
+tags: [ 'ginebra', ]
 actualPrice: 13.85 EUR
 currency: EUR
 price: 13.85

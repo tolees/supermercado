@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TFB0YX8-es Optimum Nutrition Gold Standard Pre Workout en Polvo...'
-tags: [ 'tole.es','bebida','energética', ]
+tags: [ 'bebida','energética', ]
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

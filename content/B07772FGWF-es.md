@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07772FGWF-es 2 X Nu Skin Ap-24 Blanqueamiento Pasta De Dientes Con...'
-tags: [ 'tole.es','pasta','de','dientes', ]
+tags: [ 'pasta','de','dientes', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

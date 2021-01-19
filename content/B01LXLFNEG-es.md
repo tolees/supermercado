@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXLFNEG-es President Leche Semidesnatada - 6 x 1 L'
-tags: [ 'tole.es','president', ]
+tags: [ 'president', ]
 actualPrice: None None
 currency: None
 price: None

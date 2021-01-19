@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQYKLG9-es AICOK Máquina de algodón de azúcar Usar Azúcar Regular de...'
-tags: [ 'tole.es','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

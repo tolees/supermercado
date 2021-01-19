@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8NKW5V-es Weider Green Flex PROTECTOR Articular 100% Vegano Con...'
-tags: [ 'tole.es','cúrcuma','sin','gluten', ]
+tags: [ 'cúrcuma','sin','gluten', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001GNBW0W-es Max Factor 2000 Calorie Dramatic Máscara de Pestañas Tono...'
-tags: [ 'tole.es','max','factor', ]
+tags: [ 'max','factor', ]
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

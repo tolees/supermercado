@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FY31V8F-es Campos frasco de Bonito del Norte de pesca sostenible MSC...'
-tags: [ 'tole.es','aceite','de','oliva', ]
+tags: [ 'aceite','de','oliva', ]
 actualPrice: None None
 currency: None
 price: None
@@ -27,9 +27,9 @@ En este momento está [Campos  frasco de Bonito del Norte de pesca sostenible MS
 🔎:
 
 - Se trata de un frasco de cristal de 315 g que le permite apreciar las piezas seleccionadas del Bonito del Norte
+- Tradicional Bonito del norte seleccionado en aceite de oliva elaborado con el buen hacer y la tradición acumulada en Bermeo desde 1921
+- Frasco de cristal Ideal para 3/4 personas, permite ver los lomos grandes de bonito
 - País de origen: España, producto natural sin conservantes ni colorantes
 - Pescado con caña y anzuelo, de pesca certificada MSC. Ver zona de pesca en la lata
-- Frasco de cristal Ideal para 3/4 personas, permite ver los lomos grandes de bonito
-- Tradicional Bonito del norte seleccionado en aceite de oliva elaborado con el buen hacer y la tradición acumulada en Bermeo desde 1921
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FY31V8F/?tag=tolees-21)

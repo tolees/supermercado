@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7QMEDW-es La Estrella Café Molido de tueste natural 50% y torrefacto...'
-tags: [ 'tole.es','café', ]
+tags: [ 'café', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

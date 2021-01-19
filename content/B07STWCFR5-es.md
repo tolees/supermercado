@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STWCFR5-es Max Factor Coverstick Concealer. Corrector; Tono 001 - 4.5 gr'
-tags: [ 'tole.es','max','factor', ]
+tags: [ 'max','factor', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95
@@ -27,8 +27,8 @@ Tienes [Max Factor Coverstick Concealer. Corrector; Tono 001 - 4.5 gr](https://w
 ℹ️:
 
 - Neutraliza y camufla las imperfecciones
-- Ideal para todo tipo de pieles
 - No obstruye los poros
+- Ideal para todo tipo de pieles
 - Un corrector mate que combina con tu piel a la perfección
 - Cobertura total con acabado mate
 

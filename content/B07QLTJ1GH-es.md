@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLTJ1GH-es Beito 4 UNIDS Cabeza de cepillo de dientes eléctrico...'
-tags: [ 'tole.es','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

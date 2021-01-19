@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPZCKDW-es Ariel Active - Detergente líquido para la lavadora...'
-tags: [ 'tole.es','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

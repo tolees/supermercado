@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8HHPD2-es Aceite de oliva de autor | Virgen extra ecológico...'
-tags: [ 'tole.es','arbequina','aceite','de','oliva','virgen','extra', ]
+tags: [ 'arbequina','aceite','de','oliva','virgen','extra', ]
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

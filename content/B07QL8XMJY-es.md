@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QL8XMJY-es Love Beauty and Planet Acondicionador para Cabello dañado...'
-tags: [ 'tole.es','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

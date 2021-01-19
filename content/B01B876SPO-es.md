@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B876SPO-es Gillette Mach3 Turbo Maquinilla de Afeitar'
-tags: [ 'tole.es','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

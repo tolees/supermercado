@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000TGS1CO-es Amor en conserva [DVD]'
-tags: [ 'tole.es','conserva', ]
+tags: [ 'conserva', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

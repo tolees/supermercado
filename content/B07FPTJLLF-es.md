@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPTJLLF-es Café FORTALEZA - Cápsulas de Café Descafeinado Forte...'
-tags: [ 'tole.es','café','descafeinado','fortaleza','cápsulas','de','café', ]
+tags: [ 'café','descafeinado','fortaleza','cápsulas','de','café', ]
 actualPrice: 19.11 EUR
 currency: EUR
 price: 19.11

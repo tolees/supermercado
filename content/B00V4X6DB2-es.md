@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V4X6DB2-es Jim Beam Apple Bourbon Whisky con Licor de Manzana 35% -...'
-tags: [ 'tole.es','manzana','whisky', ]
+tags: [ 'manzana','whisky', ]
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

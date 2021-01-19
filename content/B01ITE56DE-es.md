@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ITE56DE-es NESTLÉ NIDINA 2 Premium [PACK AHORRO] - A partir de los 6...'
-tags: [ 'tole.es','nestlé', ]
+tags: [ 'nestlé', ]
 actualPrice: 13.36 EUR
 currency: EUR
 price: 13.36

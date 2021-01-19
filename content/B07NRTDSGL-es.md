@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRTDSGL-es Gliss - Million Gloss Champú para Cabello Apagado y Sin...'
-tags: [ 'tole.es','schwarzkopf','champú', ]
+tags: [ 'schwarzkopf','champú', ]
 actualPrice: 5.37 EUR
 currency: EUR
 price: 5.37

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BYWK3CP-es Garnier Original Remedies Elixir de Argán Mascarilla...'
-tags: [ 'tole.es','garnier','mascarilla','capilar', ]
+tags: [ 'garnier','mascarilla','capilar', ]
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

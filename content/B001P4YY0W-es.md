@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001P4YY0W-es Tía María - Licor De Café Botella 700 ml'
-tags: [ 'tole.es','café', ]
+tags: [ 'café', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

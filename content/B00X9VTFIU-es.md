@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9VTFIU-es Scottex Acolchado Papel Higiénico - 9 rollos'
-tags: [ 'tole.es','scottex', ]
+tags: [ 'scottex', ]
 actualPrice: None None
 currency: None
 price: None

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077N7T4SW-es CEREX- Pack Degustación de 10 Cervezas Artesanas - Cerveza...'
-tags: [ 'tole.es','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 24.3 EUR
 currency: EUR
 price: 24.3

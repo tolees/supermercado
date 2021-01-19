@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DBSNVLC-es Old El Paso - Barquitas 8 unidades 193g'
-tags: [ 'tole.es','old','el','paso', ]
+tags: [ 'old','el','paso', ]
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

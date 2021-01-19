@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4MWVMB-es Ubitree DIY Varita de Burbujas Gigante Pompas de jabón...'
-tags: [ 'tole.es','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

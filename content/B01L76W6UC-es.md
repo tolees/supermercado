@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L76W6UC-es Conguitos Cacahuete con Chocolate - 450 gr'
-tags: [ 'tole.es','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CSCFKRL-es Chytaii Delantal cocina Delantal vaquero para mujer y...'
-tags: [ 'tole.es','café', ]
+tags: [ 'café', ]
 actualPrice: 3.11 EUR
 currency: EUR
 price: 3.11

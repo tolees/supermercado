@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001GLID4M-es Jack Daniels Single Barrel Whisky - 700 ml'
-tags: [ 'tole.es','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 31.35 EUR
 currency: EUR
 price: 31.35

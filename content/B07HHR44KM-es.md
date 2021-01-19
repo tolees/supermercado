@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHR44KM-es Maeloc Sidra Seca - Pack de 4 x 200 ml'
-tags: [ 'tole.es','maeloc', ]
+tags: [ 'maeloc', ]
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28
