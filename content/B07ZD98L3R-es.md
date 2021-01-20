@@ -26,11 +26,11 @@ En este momento está [Marca Amazon - Solimo - Loción corporal calmante con ext
 
 🔎:
 
-- Enriquecida con extracto de avena. Dermatológicamente testado
-- Su textura proporciona una rápida absorción
 - Envase: 4 x 500 ml
-- Esta loción ha sido especialmente diseñada para calmar la piel seca
+- Enriquecida con extracto de avena. Dermatológicamente testado
 - La piel se siente increíblemente suave y se mantiene la sensación de protección día tras día
 - Aplicar diariamente después de la ducha o el baño con un suave masaje hasta su completa absorción
+- Esta loción ha sido especialmente diseñada para calmar la piel seca
+- Su textura proporciona una rápida absorción
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZD98L3R/?tag=tolees-21)
