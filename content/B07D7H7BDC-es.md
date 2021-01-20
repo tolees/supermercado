@@ -26,8 +26,8 @@ Ahora mismo tienes [Orlando - Tomate Frito Clásico  Brik 350 g - [pack de 24]](
 
 🔎:
 
-- Producto que no contiene gluten
 - Tomate Frito Orlando 350 gr. x 24 unidades
+- Producto que no contiene gluten
 - Sin conservantes ni colorantes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D7H7BDC/?tag=tolees-21)
