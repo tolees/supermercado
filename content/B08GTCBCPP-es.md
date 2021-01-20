@@ -26,8 +26,8 @@ En este momento está [Nescafé DOLCE GUSTO Variety Pack - 3 Estuches Espresso I
 
 🔎:
 
-- Pack de 96 cápsulas de Nescafé Dolce Gusto: con 48 cápsulas de café con leche y 48 cápsulas de espresso intenso
-- Café gourmet seleccionando los orígenes de calidad con el sabor Nescafé Dolce Gusto
 - Cápsulas inteligentes: su sellado hermético mantiene el café fresco conservando todos sus aromas
+- Café gourmet seleccionando los orígenes de calidad con el sabor Nescafé Dolce Gusto
+- Pack de 96 cápsulas de Nescafé Dolce Gusto: con 48 cápsulas de café con leche y 48 cápsulas de espresso intenso
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GTCBCPP/?tag=tolees-21)
