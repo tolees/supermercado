@@ -26,9 +26,9 @@ Ahora mismo tienes [Bifrutas Tropical Bebida Refrescante con Leche y Zumo de Fru
 
 🔎:
 
-- Con vitaminas A, C y E
+- Mix de sabores frutas (piña mango)
 - Sin grasa
 - Una vez abierto, conservar en el frigorífico y consumir en el mismo día de apertura
-- Mix de sabores frutas (piña mango)
+- Con vitaminas A, C y E
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XFMQAM2/?tag=tolees-21)
