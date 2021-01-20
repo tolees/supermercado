@@ -27,7 +27,7 @@ Ahora mismo tienes [Caffè Borbone  Cápsulas de café  Respresso Mezcla Blue  -
 🔎:
 
 - Contiene cafeína
-- Compatible con todas las cafeteras, con la excepción de De Longhi Lattissima Premium
 - Italy
+- Compatible con todas las cafeteras, con la excepción de De Longhi Lattissima Premium
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LQQQWG2/?tag=tolees-21)
