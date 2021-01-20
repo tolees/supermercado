@@ -26,8 +26,8 @@ Tienes [Renova Rollo de Cocina Gigaroll Déco - Paquete de 6 Gigarolls](https://
 
 🔎:
 
-- Decorado
 - Gigarrollo
+- Decorado
 - Rollo Cocina
 - Paquete con 6 Gigarrollos
 
