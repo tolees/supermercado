@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Cesta de Navidad con Jamón Reserva Gran  al 0.00 % de descuento'
-date: 2021-01-19 06:45:50
+date: 2021-01-20 13:20:16
 image: 'https://m.media-amazon.com/images/I/51EcJc-nDYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0819XW7YX-es'
+slug: 'B0819XW7YX-es Cesta de Navidad con Jamón Reserva Gran Selección Navidul...'
+tags: [ 'jamón','navidul','aceite','de','oliva','cesta','de','navidad','virgen','extra', ]
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0
@@ -25,10 +26,10 @@ Ahora mismo tienes [Cesta de Navidad con Jamón Reserva Gran Selección Navidul 
 
 🔎:
 
+- Caja decorada Navidul con ruedas y asa para llevarlo fácilmente.
+- Lote compuesto por:
 - 1 Botella de Vino Rioja D.O. Joven Marqués de Treviño.
 - 1 Lata aceite de oliva virgen extra 500ml La Chinata, Surtido Tradicional E.Moreno 200 gr y 1 Cuchillo Jamonero y Cubre Jamón Color Negro
 - 1 Jamón Navidul Gran Reserva +7,5 kg.
-- Lote compuesto por:
-- Caja decorada Navidul con ruedas y asa para llevarlo fácilmente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0819XW7YX/?tag=tolees-21)

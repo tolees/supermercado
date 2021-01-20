@@ -26,9 +26,9 @@ Ahora mismo tienes [Aldelís Conserva Pollo Hebras Curry Pack 150 Gr 1 Unidad 15
 
 🔎:
 
+- Mantener en un lugar fresco y seco
 - Granjas propias y de proximidad
 - Sin gluten
-- Mantener en un lugar fresco y seco
 - España
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YQYXFHM/?tag=tolees-21)

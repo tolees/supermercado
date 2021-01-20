@@ -26,14 +26,14 @@ En este momento está [Saeco 10004476 Espresso/cafetera automática para café 
 
 🔎:
 
-- Café tipo de entrada: Granos de café
-- Preparación de café y espresso
 - Número de surtidores: 2
-- Capacidad de reservorio de agua: 2,5 L
 - Capacidad de granos de café: 500 g
+- Potencia: 1850 W
 - Temperatura ajustable
 - Pantalla incorporada
 - Dimensiones: 215 mm x 381 mm x 430 mm
-- Potencia: 1850 W
+- Capacidad de reservorio de agua: 2,5 L
+- Café tipo de entrada: Granos de café
+- Preparación de café y espresso
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00EATLZS8/?tag=tolees-21)
