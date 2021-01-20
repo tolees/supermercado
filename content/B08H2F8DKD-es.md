@@ -26,7 +26,7 @@ En este momento está [Jack & Jones – Jersey de punto con cuello en V Beige  O
 
 🔎:
 
-- Un clásico que se adapta a todos los días
 - Parte de punto de corte regular para hombre.
+- Un clásico que se adapta a todos los días
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08H2F8DKD/?tag=tolees-21)

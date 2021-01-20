@@ -26,10 +26,10 @@ Tienes [Note D Espresso - Cápsulas de café de Colombia Exclusivamente Compatib
 
 ℹ️:
 
-- Exclusivamente Compatibles con cafeteras de cápsulas Nescafé* y Dolce Gusto* (* No registrado en Amazon EU S.a.r.l.)
+- The delicious flavour and aroma of coffee in a convenient 7 gram capsule
 - Un café 100 % natural tostado en Italia
+- Exclusivamente Compatibles con cafeteras de cápsulas Nescafé* y Dolce Gusto* (* No registrado en Amazon EU S.a.r.l.)
 - Practical pack of 48 capsules
 - Dosis recomendada de agua 40 ml
-- The delicious flavour and aroma of coffee in a convenient 7 gram capsule
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07X25WPMB/?tag=tolees-21)
