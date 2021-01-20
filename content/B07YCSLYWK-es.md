@@ -26,8 +26,8 @@ Ahora mismo tienes [Liberty Caffè - Café molido  100 % arábica  12 x 250 g ](
 
 🔎:
 
-- Café estilo Espresso
 - Tostado 100 % sin gluten
+- Café estilo Espresso
 - Sin lactosa
 - Pack de 12 x 250 g
 - Mezcla 100 % arábica

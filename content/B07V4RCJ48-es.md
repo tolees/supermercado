@@ -26,8 +26,8 @@ En este momento está [Mopec Napolitana Chocolate Leche Topos Rosa 150 Unidades 
 
 🔎:
 
-- Apto para celíacos
 - Peso neto de cada chocolate 5g
 - Chocolate con leche
+- Apto para celíacos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07V4RCJ48/?tag=tolees-21)

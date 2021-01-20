@@ -26,8 +26,8 @@ Está [LANCASTER Eau de Lancaster Regular desodorante en crema 125ml](https://ww
 
 ℹ️:
 
+- Este producto está indicado para mujeres.
 - Contiene 125 ml.
 - De la marca Lancaster.
-- Este producto está indicado para mujeres.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001KYYFLK/?tag=tolees-21)
