@@ -26,10 +26,10 @@ En este momento está [Sanytol Ambientador Desinfectante de Tejidos en Spray 240
 
 🔎:
 
-- Aerosol desodorizante de ambiente y desinfectante de textiles y superficies que asegura una higiene perfecta.
 - Su triple acción asegura la eliminación de bacterias, hongos y virus, a la vez que perfuma el ambiente de manera agradable.
+- Aerosol desodorizante de ambiente y desinfectante de textiles y superficies que asegura una higiene perfecta.
+- Desinfecta y desodoriza tejidos no lavables como alfombras, sofás, cortinas, cojines, colchones, almohadas, tapicerías de coche, mochilas, zapatos
 - Especialmente eficaz para los malos olores de humedad, sudor corporal, olor a mascota, orina o vómito.
 - Es ideal para ambientes cerrados,baños, desagües, olor a tabaco, cocina, armarios, tapicerías de coche
-- Desinfecta y desodoriza tejidos no lavables como alfombras, sofás, cortinas, cojines, colchones, almohadas, tapicerías de coche, mochilas, zapatos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KYMGCMN/?tag=tolees-21)
