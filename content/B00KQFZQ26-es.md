@@ -26,9 +26,9 @@ Está [Sensodyne Repair & Protect - Pasta de dientes con flúor  alivia la sensi
 
 ℹ️:
 
-- Ayuda a repara las zonas vulnerables de los dientes
 - Cepillese dos veces al día para una protección duradera
-- Forma una capa protectora sobre las zonas sensibles de los dientes
 - Alivio clínicamente probado y protección diaria para los dientes sensibles
+- Ayuda a repara las zonas vulnerables de los dientes
+- Forma una capa protectora sobre las zonas sensibles de los dientes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00KQFZQ26/?tag=tolees-21)
