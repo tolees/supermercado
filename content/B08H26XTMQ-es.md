@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Usisa - Conserva de Pescado | Caballa al al 0.00 % de descuento'
-date: 2021-01-18 05:35:59
+date: 2021-01-20 00:19:21
 image: 'https://m.media-amazon.com/images/I/41U+yfYH0YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H26XTMQ-es'
+slug: 'B08H26XTMQ-es Usisa - Conserva de Pescado | Caballa al Vapor - 6 Latas x...'
+tags: [ 'caballa','conserva', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9
@@ -25,9 +26,9 @@ Está [Usisa - Conserva de Pescado | Caballa al Vapor - 6 Latas x 400 g](https:/
 
 ℹ️:
 
+- Caballa al Natural de Andalucía cocida al vapor con todo el sabor del sur de España
 - Pack de 6 latas de caballas al natural con el mejor sabor de Andalucía
 - En Tejero la producción continúa siendo artesanal, siendo fieles a una tradición centenaria
-- Caballa al Natural de Andalucía cocida al vapor con todo el sabor del sur de España
 - Conservas de pescado natural producida en España, sin ningún tipo de conservantes ni aditivos
 - Cada lata se elabora de forma artesanal y solo contiene caballas, agua y sal
 

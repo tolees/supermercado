@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Cestas de Navidad - Lotes de Navidad - L con un 0.00 % de descuento'
-date: 2021-01-18 23:56:10
+date: 2021-01-20 00:31:51
 image: 'https://m.media-amazon.com/images/I/51o8Fi1xM-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JFLJH83-es'
+slug: 'B07JFLJH83-es Cestas de Navidad - Lotes de Navidad - Lote de Embutidos y...'
+tags: [ 'queso', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95
