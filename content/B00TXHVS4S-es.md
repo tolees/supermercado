@@ -27,8 +27,8 @@ Tienes [Catunambú Café Molido 250 g](https://www.amazon.es/dp/B00TXHVS4S/?tag=
 🔎:
 
 - País de origen: España
-- Alérgenos: No posee
-- Una vez abierto, conservar en lugar fresco y seco
 - Ingredientes: café
+- Una vez abierto, conservar en lugar fresco y seco
+- Alérgenos: No posee
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00TXHVS4S/?tag=tolees-21)

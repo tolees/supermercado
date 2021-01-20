@@ -26,11 +26,11 @@ Ahora mismo tienes [Ballantine s Finest Whisky Escocés de Mezcla - 1500 ml](htt
 
 🔎:
 
-- Tiene un sabor especial con notas de chocolate, manzana roja y vainilla, y su final sofisticado deja una sensación equilibrada y una textura floral
-- El color dorado claro y el sabor inconfundible de este whiskey blended escocés provienen de la mezcla de whiskies de malta y cereales cuidadosamente seleccionados
-- Todos los ingredientes son añejados durante varios años en barricas de gran calidad
-- Es elevado para preparar un Ballantines & Ginger Ale Se sirve en una copa de balón con hielo, se añaden 5-6cl de este whiskey escocés, 20-25cl de Ginger Ale, y se aromatiza con un poco de menta y un twist de lima También es un whisky adecuado para servir solo o con hielo en un vaso ancho de cristal
 - Es un whiskey con un aroma característico de brezo y un toque de especial
+- Es elevado para preparar un Ballantines & Ginger Ale Se sirve en una copa de balón con hielo, se añaden 5-6cl de este whiskey escocés, 20-25cl de Ginger Ale, y se aromatiza con un poco de menta y un twist de lima También es un whisky adecuado para servir solo o con hielo en un vaso ancho de cristal
+- Tiene un sabor especial con notas de chocolate, manzana roja y vainilla, y su final sofisticado deja una sensación equilibrada y una textura floral
+- Todos los ingredientes son añejados durante varios años en barricas de gran calidad
+- El color dorado claro y el sabor inconfundible de este whiskey blended escocés provienen de la mezcla de whiskies de malta y cereales cuidadosamente seleccionados
 - Ballantine’s Finest es un whisky escocés de mezcla, refinado y elegante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079YYF57N/?tag=tolees-21)

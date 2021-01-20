@@ -26,8 +26,8 @@ En este momento está [Central Lechera Asturiana - Nata Montada Azucarada para M
 
 🔎:
 
-- Nata (leche), azúcar (8,5%), emulgente (E-472b), corrector de acidez (E-339), estabilizante (E-407), gas propelente (N2O)
 - Agitar fuertemente antes de usar , 2 o 3 segundos.
+- Nata (leche), azúcar (8,5%), emulgente (E-472b), corrector de acidez (E-339), estabilizante (E-407), gas propelente (N2O)
 - Leche UHT
 - España
 

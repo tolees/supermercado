@@ -28,7 +28,7 @@ Ahora mismo tienes [Elizabeth Arden Green Tea Honey Drops Crema Corporal 500 ml]
 
 - Ayuda a calmar y acondicionar la piel seca
 - Energizante, refrescante y vivificante
-- De alta calidad
 - Con una infusión de una mezcla de miel real y extracto de té verde fragante
+- De alta calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002SSDHUW/?tag=tolees-21)
