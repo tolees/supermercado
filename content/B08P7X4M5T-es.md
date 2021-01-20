@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Descuento del 9.20 % en CESTA DE NAVIDAD - LOTE 335-9'
-date: 2021-01-19 00:24:09
+date: 2021-01-20 01:15:05
 image: 'https://m.media-amazon.com/images/I/61GxTep6ZgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08P7X4M5T-es'
+slug: 'B08P7X4M5T-es CESTA DE NAVIDAD - LOTE 335-9'
+tags: [ 'cesta','de','navidad', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0
@@ -16,7 +17,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08P7X4M5T/?tag=tolees-21'
 descuento: '9.20'
-average: '84.58490566037734'
+average: '84.38181818181816'
 ---
 
 Tienes [CESTA DE NAVIDAD - LOTE 335-9](https://www.amazon.es/dp/B08P7X4M5T/?tag=tolees-21) con un 9.20 % de descuento con precio de oferta de 79.0 EUR (original: 87.0 EUR) en el siguiente enlace!

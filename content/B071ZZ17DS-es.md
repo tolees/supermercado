@@ -26,9 +26,9 @@ Ahora mismo tienes [Jabón para manos Baylis & Harding  Antibacteriano  de Jazm�
 
 🔎:
 
-- Dermatológicamente probado
-- Un aroma limpio y refrescante
 - Contiene un elimina olores fragancia
 - Elimina el 99,9% de las bacterias
+- Dermatológicamente probado
+- Un aroma limpio y refrescante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071ZZ17DS/?tag=tolees-21)

@@ -26,10 +26,10 @@ En este momento está [SOTYA Batido Sabor Chocolate Blanco 700 gr](https://www.a
 
 🔎:
 
+- Ayudan a regular el sistema nervioso eliminando la ansiedad
+- Aporte adicional de nutrientes en estados carenciales
 - Diurético y depurativo
 - De la marca Sotya
 - Alimento complementario recomendado en dietas de adelgazamiento
-- Aporte adicional de nutrientes en estados carenciales
-- Ayudan a regular el sistema nervioso eliminando la ansiedad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00PYACF68/?tag=tolees-21)
