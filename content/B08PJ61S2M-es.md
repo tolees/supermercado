@@ -26,10 +26,10 @@ Ahora mismo tienes [Cervezas Alemanas  Pack 12 variedades  - Pack Cerveza Aleman
 
 🔎:
 
-- 📃 FOLLETO DESCRIPTIVO: como complemento a esta maravillosa selección de cervezas Belgas, incluimos un folleto en el que podrás consultar las características, notas de cata y maridajes de cada una de las variedades que componen esta gran selección.
+- 🥇 CALIDAD PREMIUM: nuestras variedades son seleccionadas con la mayor exigencia y delicadeza con el objetivo de ofrecer la mejor degustación en el paladar de cualquier amante cervecero. Con este exclusivo Pack tendrás la mejor selección y variedades de Alemania.
+- 🍻 COMPOSICIÓN DEL PACK: Krombacher Weizen (5.3%) - Schneider Weisse Aventinus (8.2%) - Früh Kölsch (4.8%) - Spaten Bock (5,2%) - Eku 28 (11%) - Andechs Weissbier Hell (5.5%) - Andechs Bergbock Hell (6.9%) - Ayinger Celebrator (6,7%) - Schneider Weisse Original (5.4%) - Köstritzer Schwarzbier (4.9%) - König Pilsener (4.9%) - Schlenkerla Rauchbier Märzen (5.1%)
 - 🎁 IDEAL PARA EVENTOS Y REGALOS: estás buscando regalos cerveceros? Este es sin duda el regalo perfecto para los amantes de la cerveza! Este Pack es ideal para disfrutar en eventos con amigos, terrazas, fiestas y escapadas de fin de semana. Acertarás seguro!
 - 🏆 SELECCIÓN PREMIUM: te ofrecemos la mejor Selección de Cervezas Alemanas confeccionada por nuestros Maestros Cerveceros. Compuesta por 12 variedades, esta extraordinaria colección no dejará a nadie indiferente, ni a los cerveceros más exigentes!
-- 🍻 COMPOSICIÓN DEL PACK: Krombacher Weizen (5.3%) - Schneider Weisse Aventinus (8.2%) - Früh Kölsch (4.8%) - Spaten Bock (5,2%) - Eku 28 (11%) - Andechs Weissbier Hell (5.5%) - Andechs Bergbock Hell (6.9%) - Ayinger Celebrator (6,7%) - Schneider Weisse Original (5.4%) - Köstritzer Schwarzbier (4.9%) - König Pilsener (4.9%) - Schlenkerla Rauchbier Märzen (5.1%)
-- 🥇 CALIDAD PREMIUM: nuestras variedades son seleccionadas con la mayor exigencia y delicadeza con el objetivo de ofrecer la mejor degustación en el paladar de cualquier amante cervecero. Con este exclusivo Pack tendrás la mejor selección y variedades de Alemania.
+- 📃 FOLLETO DESCRIPTIVO: como complemento a esta maravillosa selección de cervezas Belgas, incluimos un folleto en el que podrás consultar las características, notas de cata y maridajes de cada una de las variedades que componen esta gran selección.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PJ61S2M/?tag=tolees-21)

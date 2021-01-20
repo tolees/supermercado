@@ -26,9 +26,9 @@ Tienes [Buchanan s Deluxe Whisky Escocés - 1000 ml](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Tiene un contenido de alcohol de 40% y capacidad de 1 litro
 - Su final es ligero y floral con un cosquilleo de humo
 - Un whisky de 12 años de añejamiento que se ha convertido en la referencia del whisky
+- Tiene un contenido de alcohol de 40% y capacidad de 1 litro
 - Su aroma cuenta con esencias de frutas cítricas y miel
 - Un whisky que da como resultado una mezcla única con notas refinadas y gentiles
 

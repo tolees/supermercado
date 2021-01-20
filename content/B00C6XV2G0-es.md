@@ -26,8 +26,8 @@ Tienes [Elizabeth Arden Eight Hour Crema protectora para la piel Ligeramente per
 
 ℹ️:
 
+- Ayuda a proteger, calmar e hidratar la piel
 - Suaviza la piel reseca
 - Suaviza la piel y alivia el daño causado por quemaduras leves provocadas por las agresiones del clima, así como rasguños y rozaduras
-- Ayuda a proteger, calmar e hidratar la piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00C6XV2G0/?tag=tolees-21)

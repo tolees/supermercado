@@ -29,7 +29,7 @@ Ahora mismo tienes [Campos  Conserva de atún en aceite de girasol - pack de 3 l
 - Lata ideal para consumo individual
 - Conserva de atún en aceite de girasol
 - Pack de 3 latas individuales, con tapa fácil apertura
-- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - País de origen: españa, producto natural sin conservantes ni colorantes
+- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NRQ6J12/?tag=tolees-21)
