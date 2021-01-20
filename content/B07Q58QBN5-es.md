@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q58QBN5-es Colgate ProClinical 150 Cepillo de Dientes Suave de...'
+sku: 'B07Q58QBN5-es'
 tags: [ 'colgate','cepillo','de','dientes', ]
 actualPrice: 8.79 EUR
 currency: EUR

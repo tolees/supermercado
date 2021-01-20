@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFF7V4Y-es 100 Unidades. Coffee To Go – Vasos Desechables para café...'
+sku: 'B07BFF7V4Y-es'
 tags: [ 'café', ]
 actualPrice: 10.41 EUR
 currency: EUR

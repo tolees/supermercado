@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O276UQK-es Creaciones Arppe. S. A. 2910019100 Champú Insectifugo 1 L'
+sku: 'B00O276UQK-es'
 tags: [ 'champú', ]
 actualPrice: 7.74 EUR
 currency: EUR

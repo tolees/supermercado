@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFU04QY-es True Instinct Original - Pienso para Gato Adulto con Pollo...'
+sku: 'B01FFU04QY-es'
 tags: [ 'arroz','arroz','integral', ]
 actualPrice: 7.84 EUR
 currency: EUR

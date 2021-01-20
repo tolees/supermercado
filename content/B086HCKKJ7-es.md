@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086HCKKJ7-es Ausonia Discreet Boutique Braguitas Para Pérdidas De Orina...'
+sku: 'B086HCKKJ7-es'
 tags: [ 'ausonia', ]
 actualPrice: 18.59 EUR
 currency: EUR

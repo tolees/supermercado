@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XANGBVG-es Signal Action Gel Fresco Dentífrico - 75 ml'
+sku: 'B00XANGBVG-es'
 tags: [ 'dentífrico', ]
 actualPrice: 1.18 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJ6YDRX-es Scottex Sensitive Aloe Vera Papel Higiénico Húmedo - 12...'
+sku: 'B07PJ6YDRX-es'
 tags: [ 'scottex', ]
 actualPrice: 15.9 EUR
 currency: EUR

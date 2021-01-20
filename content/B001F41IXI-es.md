@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001F41IXI-es Salt Of The Earth Desodorante - 1 unidad'
+sku: 'B001F41IXI-es'
 tags: [ 'desodorante', ]
 actualPrice: 6.4 EUR
 currency: EUR

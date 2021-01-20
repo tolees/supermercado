@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NU4LW00-es L Oréal Serioxyl Serum Densificador Cabello 90 ml'
+sku: 'B00NU4LW00-es'
 tags: [ 'oréal', ]
 actualPrice: 23.2 EUR
 currency: EUR

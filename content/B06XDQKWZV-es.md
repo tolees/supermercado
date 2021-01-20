@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDQKWZV-es Garnier Fructis Champú Anticaspa - 700 ml'
+sku: 'B06XDQKWZV-es'
 tags: [ 'garnier','champú', ]
 actualPrice: 3.75 EUR
 currency: EUR

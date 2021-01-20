@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3RTJH4-es Diadermine - Loción Micelar Calmante para Pieles...'
+sku: 'B07N3RTJH4-es'
 tags: [ 'diadermine', ]
 actualPrice: 4.13 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0043A4IVU-es No. 3 London Dry Gin Ginebra - 700 ml'
+sku: 'B0043A4IVU-es'
 tags: [ 'ginebra', ]
 actualPrice: 30.15 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZYW1V6-es Nestlé Purés Tarrito de puré de verduras y carne variedad...'
+sku: 'B079ZYW1V6-es'
 tags: [ 'nestlé', ]
 actualPrice: 5.94 EUR
 currency: EUR

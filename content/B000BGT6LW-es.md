@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000BGT6LW-es Barrio Sésamo - Peluche de Epi 28 cm [Versión en inglés]'
+sku: 'B000BGT6LW-es'
 tags: [ 'sésamo', ]
 actualPrice: 14.44 EUR
 currency: EUR

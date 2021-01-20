@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTGCF0K-es Valor 101047 Chocolate Negro 70% Con Pepitas De Chocolate...'
+sku: 'B01MTGCF0K-es'
 tags: [ 'chocolate', ]
 actualPrice: 1.93 EUR
 currency: EUR

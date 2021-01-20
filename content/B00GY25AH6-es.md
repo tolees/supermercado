@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GY25AH6-es Isdin Zincation Champú Anticaspa Uso frecuente - 1 x 400ml'
+sku: 'B00GY25AH6-es'
 tags: [ 'champú', ]
 actualPrice: 11.95 EUR
 currency: EUR

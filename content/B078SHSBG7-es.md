@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SHSBG7-es Vieira Galletas Chocolate - Paquete de 12 x 150 gr -...'
+sku: 'B078SHSBG7-es'
 tags: [ 'chocolate', ]
 actualPrice: 7.61 EUR
 currency: EUR

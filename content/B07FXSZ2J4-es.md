@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXSZ2J4-es L Oréal Paris Make-up designer Isabel Marant Iluminador Shine'
+sku: 'B07FXSZ2J4-es'
 tags: [ 'oréal', ]
 actualPrice: 15.95 EUR
 currency: EUR

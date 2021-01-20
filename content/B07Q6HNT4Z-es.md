@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q6HNT4Z-es Gliss - Ultimate Repair Champú para cabello muy dañado - 4...'
+sku: 'B07Q6HNT4Z-es'
 tags: [ 'schwarzkopf','champú', ]
 actualPrice: 9.0 EUR
 currency: EUR

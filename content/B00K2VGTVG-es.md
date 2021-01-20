@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K2VGTVG-es Urtekram Champú de Ortiga BIO anti-caspa 500 ml'
+sku: 'B00K2VGTVG-es'
 tags: [ 'champú', ]
 actualPrice: 10.58 EUR
 currency: EUR

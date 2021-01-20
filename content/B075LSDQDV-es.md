@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075LSDQDV-es Lavazza Cápsulas de Café Compatibles Nespresso Espresso...'
+sku: 'B075LSDQDV-es'
 tags: [ 'café','lavazza','cápsulas','de','café', ]
 actualPrice: 24.39 EUR
 currency: EUR

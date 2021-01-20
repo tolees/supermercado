@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPHD8L8-es Breville Mini VCF125X - Barista máquina de café expreso...'
+sku: 'B07VPHD8L8-es'
 tags: [ 'café', ]
 actualPrice: 147.93 EUR
 currency: EUR

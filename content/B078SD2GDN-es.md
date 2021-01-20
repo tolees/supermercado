@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SD2GDN-es Parejas Juego de 2 Tazas de Desayuno Café o Te - Accesorio...'
+sku: 'B078SD2GDN-es'
 tags: [ 'café', ]
 actualPrice: 24.95 EUR
 currency: EUR

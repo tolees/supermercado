@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0743CZWCP-es BOLD UNIQ by B Uniq - Champú matizador con pigmentos...'
+sku: 'B0743CZWCP-es'
 tags: [ 'champú', ]
 actualPrice: 16.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDR65DX-es L Oreal Paris Elvive Arcilla Extraordinaria Champú Cuidado...'
+sku: 'B07QDR65DX-es'
 tags: [ 'champú', ]
 actualPrice: 10.73 EUR
 currency: EUR

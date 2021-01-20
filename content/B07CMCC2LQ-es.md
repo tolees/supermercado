@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMCC2LQ-es NIVEA SUN Protección Facial UV Anti-edad & Anti-manchas...'
+sku: 'B07CMCC2LQ-es'
 tags: [ 'nivea','crema','hidratante', ]
 actualPrice: 8.75 EUR
 currency: EUR

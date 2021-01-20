@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I2Y4UXS-es Taky Depilación Banda Facial Chocolate'
+sku: 'B01I2Y4UXS-es'
 tags: [ 'chocolate', ]
 actualPrice: 1.95 EUR
 currency: EUR

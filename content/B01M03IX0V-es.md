@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M03IX0V-es Flor Azul Profesional Suavizante Concentrado - 5 kg 2...'
+sku: 'B01M03IX0V-es'
 tags: [ 'suavizante', ]
 actualPrice: 20.9 EUR
 currency: EUR

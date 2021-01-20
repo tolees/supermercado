@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ZINBLE-es Maker S Mark Kentucky Bourbon Whisky 45% 700 ml'
+sku: 'B003ZINBLE-es'
 tags: [ 'whisky', ]
 actualPrice: 27.89 EUR
 currency: EUR

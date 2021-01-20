@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GSKQNX9-es SO-buts Dispensadores De Desinfectante De Manos para...'
+sku: 'B08GSKQNX9-es'
 tags: [ 'jabón', ]
 actualPrice: 5.8 EUR
 currency: EUR

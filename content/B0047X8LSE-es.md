@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0047X8LSE-es Rimmel London Lasting Finish Foundation 25H Base de...'
+sku: 'B0047X8LSE-es'
 tags: [ 'finish', ]
 actualPrice: 6.25 EUR
 currency: EUR

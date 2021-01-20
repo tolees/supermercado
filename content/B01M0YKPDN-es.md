@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0YKPDN-es Mical Papel de cocina con 2 Capas - 4 Rollos'
+sku: 'B01M0YKPDN-es'
 tags: [ 'papel','de','cocina', ]
 actualPrice: None None
 currency: None

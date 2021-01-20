@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000CNKC76-es Davidoff Cool Water Desodorante Spray Mild 1 x 75ml'
+sku: 'B000CNKC76-es'
 tags: [ 'desodorante', ]
 actualPrice: 13.6 EUR
 currency: EUR

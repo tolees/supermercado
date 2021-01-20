@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY8SLKW-es Campos Conserva de atún claro en aceite de girasol - pack...'
+sku: 'B07PY8SLKW-es'
 tags: [ 'atún','conserva','atún','claro','conserva','de','atún', ]
 actualPrice: 2.24 EUR
 currency: EUR

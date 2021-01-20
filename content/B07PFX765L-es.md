@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFX765L-es Spontex Catch&Clean - Set de Escoba y Recogedor'
+sku: 'B07PFX765L-es'
 tags: [ 'spontex', ]
 actualPrice: 12.5 EUR
 currency: EUR

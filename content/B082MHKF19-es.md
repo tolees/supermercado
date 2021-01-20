@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MHKF19-es Complot Cerveza IPA - Botella 33cl'
+sku: 'B082MHKF19-es'
 tags: [ 'cerveza', ]
 actualPrice: 1.75 EUR
 currency: EUR

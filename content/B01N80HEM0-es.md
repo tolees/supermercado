@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N80HEM0-es Gliss - Mascarilla Liso Asiático - 300ml - Schwarzkopf'
+sku: 'B01N80HEM0-es'
 tags: [ 'schwarzkopf', ]
 actualPrice: 3.85 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075HLTMJR-es Instituto Español Bebe Champú Extra Suave - 300 ml'
+sku: 'B075HLTMJR-es'
 tags: [ 'champú','instituto','español', ]
 actualPrice: 3.99 EUR
 currency: EUR

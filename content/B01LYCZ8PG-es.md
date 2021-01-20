@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYCZ8PG-es Orlando Tomate Natural Triturado - 800 g'
+sku: 'B01LYCZ8PG-es'
 tags: [ 'orlando', ]
 actualPrice: 0.92 EUR
 currency: EUR

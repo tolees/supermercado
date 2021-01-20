@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A8JFXKO-es OGX - Acondicionador Agua de Coco 385 ml'
+sku: 'B01A8JFXKO-es'
 tags: [ 'acondicionador', ]
 actualPrice: 6.7 EUR
 currency: EUR

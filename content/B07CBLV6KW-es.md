@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBLV6KW-es Alfaparf Acondicionador "Leave-In" Nutritivo de Pelo - 200 ml'
+sku: 'B07CBLV6KW-es'
 tags: [ 'acondicionador', ]
 actualPrice: 12.43 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSSYRYF-es Gifort Bandeja de Hielo Bandejas para Hielo Silicona con...'
+sku: 'B07BSSYRYF-es'
 tags: [ 'whisky', ]
 actualPrice: 9.99 EUR
 currency: EUR

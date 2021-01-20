@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CK88IBC-es Redken Curvaceous Unisex Champú 300 ml - Champues Unisex...'
+sku: 'B01CK88IBC-es'
 tags: [ 'champú', ]
 actualPrice: 11.29 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9D2QSZ-es Elizabeth Arden 5Th Avenue Royale Edp Vapo 125 Ml 5Th...'
+sku: 'B06X9D2QSZ-es'
 tags: [ 'elizabeth','arden', ]
 actualPrice: 32.66 EUR
 currency: EUR

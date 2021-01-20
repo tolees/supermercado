@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016BVRXN8-es Lagunilla Reserva Vino Tinto Reserva D.O Rioja - 3...'
+sku: 'B016BVRXN8-es'
 tags: [ 'vino','tinto', ]
 actualPrice: 17.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4LWUBH-es VERNEL Suavizante Concentrado Azul Botella 57 lavados...'
+sku: 'B01M4LWUBH-es'
 tags: [ 'suavizante','vernel', ]
 actualPrice: 12.8 EUR
 currency: EUR

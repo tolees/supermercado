@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003XUM5GQ-es ColaCao 0% Azúcares añadidos - 300g'
+sku: 'B003XUM5GQ-es'
 tags: [ 'colacao', ]
 actualPrice: 2.99 EUR
 currency: EUR

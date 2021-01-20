@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7S96TU-es Air Wick Ambientador Nenuco Freshmatic Max'
+sku: 'B01K7S96TU-es'
 tags: [ 'air','wick', ]
 actualPrice: 6.85 EUR
 currency: EUR

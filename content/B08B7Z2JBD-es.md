@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B7Z2JBD-es RZKJ-SHOP Abridor de Botellas de Vino Profesional Manual...'
+sku: 'B08B7Z2JBD-es'
 tags: [ 'cerveza', ]
 actualPrice: 11.49 EUR
 currency: EUR

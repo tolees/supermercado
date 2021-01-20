@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S86GTTT-es Braun Oral-B Genius PRO9000 Cepillo de Dientes Color Negro'
+sku: 'B07S86GTTT-es'
 tags: [ 'cepillo','de','dientes', ]
 actualPrice: None None
 currency: None

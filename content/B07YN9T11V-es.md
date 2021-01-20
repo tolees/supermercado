@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YN9T11V-es Weider Yippie Cookies. Galletas con Proteína y Chocolate...'
+sku: 'B07YN9T11V-es'
 tags: [ 'chocolate', ]
 actualPrice: 9.1 EUR
 currency: EUR

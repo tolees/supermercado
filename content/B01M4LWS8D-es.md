@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4LWS8D-es Gourmet - Aceitunas rellenas de anchoa - Verdes manzanilla...'
+sku: 'B01M4LWS8D-es'
 tags: [ 'aceitunas','anchoa','manzanilla','aceitunas','rellenas', ]
 actualPrice: 6.72 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZYBJQC-es Elvive Acondicionador con Arcilla Extraordinaria - 300 ml'
+sku: 'B07GZYBJQC-es'
 tags: [ 'acondicionador', ]
 actualPrice: 3.25 EUR
 currency: EUR

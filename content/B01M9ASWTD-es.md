@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9ASWTD-es Knorr - Crema Verduras Mediterráneas - 500 ml'
+sku: 'B01M9ASWTD-es'
 tags: [ 'knorr', ]
 actualPrice: 1.59 EUR
 currency: EUR

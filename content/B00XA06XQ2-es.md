@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA06XQ2-es Scottex Sensitive Papel Higiénico 6 Rollos'
+sku: 'B00XA06XQ2-es'
 tags: [ 'scottex', ]
 actualPrice: 2.39 EUR
 currency: EUR

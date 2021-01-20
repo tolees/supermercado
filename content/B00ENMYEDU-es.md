@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ENMYEDU-es Ruavieja Licor de Hierbas - 700 ml'
+sku: 'B00ENMYEDU-es'
 tags: [ 'ruavieja', ]
 actualPrice: 7.99 EUR
 currency: EUR

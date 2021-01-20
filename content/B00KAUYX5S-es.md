@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KAUYX5S-es Krups The Sub Heineken VB650E10 - Tirador de cerveza 2 l...'
+sku: 'B00KAUYX5S-es'
 tags: [ 'cerveza','heineken', ]
 actualPrice: None None
 currency: None

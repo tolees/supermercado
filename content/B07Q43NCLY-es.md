@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q43NCLY-es Vestimenta Casual de Playa para Mujer Vestidos de Verano...'
+sku: 'B07Q43NCLY-es'
 tags: [ 'espagueti', ]
 actualPrice: None None
 currency: None

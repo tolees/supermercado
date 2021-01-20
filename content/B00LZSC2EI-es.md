@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LZSC2EI-es adidas Cool & Care 6 En 1 - Desodorante roll-on 50 ml'
+sku: 'B00LZSC2EI-es'
 tags: [ 'desodorante', ]
 actualPrice: 1.95 EUR
 currency: EUR

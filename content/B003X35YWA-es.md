@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003X35YWA-es Uhlsport Team Pro Essential Medias de Equipaciones Sin...'
+sku: 'B003X35YWA-es'
 tags: [ 'maíz', ]
 actualPrice: 4.99 EUR
 currency: EUR

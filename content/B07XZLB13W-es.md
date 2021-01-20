@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZLB13W-es FIND - Mascarilla hidrogel sin goteo antienvejecimiento...'
+sku: 'B07XZLB13W-es'
 tags: [ 'zumo','de', ]
 actualPrice: 8.99 EUR
 currency: EUR

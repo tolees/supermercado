@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XJP70R4-es NIVEA - Tónico facial suave piel seca y sensible cara y...'
+sku: 'B00XJP70R4-es'
 tags: [ 'nivea', ]
 actualPrice: 4.99 EUR
 currency: EUR

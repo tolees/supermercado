@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W21TGVB-es Familybox Aceitera Botella Antigoteo 400ML Vinagre Botella...'
+sku: 'B07W21TGVB-es'
 tags: [ 'aceite','de','oliva', ]
 actualPrice: 12.99 EUR
 currency: EUR

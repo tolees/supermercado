@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ANRAHVQ-es Martini Reserva Especial Ambrato Vermut - 750 ml'
+sku: 'B01ANRAHVQ-es'
 tags: [ 'martini','vermut', ]
 actualPrice: 7.99 EUR
 currency: EUR

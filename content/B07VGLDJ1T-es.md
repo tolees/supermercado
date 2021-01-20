@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGLDJ1T-es Hztyyier Taza del Vino del Estilo Europeo del Vintage...'
+sku: 'B07VGLDJ1T-es'
 tags: [ 'café', ]
 actualPrice: 3.89 EUR
 currency: EUR

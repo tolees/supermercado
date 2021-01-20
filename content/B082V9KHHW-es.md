@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082V9KHHW-es TRESemmé Rubio & Platino Acondicionador'
+sku: 'B082V9KHHW-es'
 tags: [ 'acondicionador','tresemmé', ]
 actualPrice: 1.0 EUR
 currency: EUR

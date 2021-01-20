@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0035FZIBI-es Spontex 0099-8 guantes desechables tamaño Vinilo 8-8'
+sku: 'B0035FZIBI-es'
 tags: [ 'spontex', ]
 actualPrice: 10.04 EUR
 currency: EUR

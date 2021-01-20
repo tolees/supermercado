@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VTW3QB-es Café FORTALEZA - Cápsulas de Café Etiopia Compatibles con...'
+sku: 'B082VTW3QB-es'
 tags: [ 'café','fortaleza','cápsulas','de','café','dolce','gusto', ]
 actualPrice: 2.99 EUR
 currency: EUR

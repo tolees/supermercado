@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQRQRP1-es Jacobs Aluminum Nespresso® * Vainas de café compatibles -...'
+sku: 'B07HQRQRP1-es'
 tags: [ 'café', ]
 actualPrice: 20.72 EUR
 currency: EUR

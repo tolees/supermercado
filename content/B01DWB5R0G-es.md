@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DWB5R0G-es Listerine - Mentol 1000 ml Duplo'
+sku: 'B01DWB5R0G-es'
 tags: [ 'listerine', ]
 actualPrice: 13.65 EUR
 currency: EUR

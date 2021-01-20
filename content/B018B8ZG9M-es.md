@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018B8ZG9M-es AXE colonia daily signature oud wood & dark vanilla spray...'
+sku: 'B018B8ZG9M-es'
 tags: [ 'axe', ]
 actualPrice: 4.53 EUR
 currency: EUR

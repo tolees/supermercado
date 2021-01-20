@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086DSBHJC-es 10 Estuches Desinfectantes de Mano Silicona Dibujos...'
+sku: 'B086DSBHJC-es'
 tags: [ 'jabón', ]
 actualPrice: 13.99 EUR
 currency: EUR

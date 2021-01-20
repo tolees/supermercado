@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013P2VKXK-es TENTACION INCIENSO EROTICO CON FEROMONAS CHOCOLATE'
+sku: 'B013P2VKXK-es'
 tags: [ 'chocolate', ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQ39VLL-es Xiaomi – 6970244529329 – Mi cepillo de dientes...'
+sku: 'B07CQ39VLL-es'
 tags: [ 'cepillo','de','dientes', ]
 actualPrice: 25.95 EUR
 currency: EUR

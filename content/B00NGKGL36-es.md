@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NGKGL36-es Lactacyd Pharma Hidratante 250 ml'
+sku: 'B00NGKGL36-es'
 tags: [ 'lactacyd', ]
 actualPrice: 10.43 EUR
 currency: EUR

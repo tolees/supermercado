@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009OAI4U-es Elizabeth Arden 5th Avenue Eau de parfum 75 ml'
+sku: 'B0009OAI4U-es'
 tags: [ 'elizabeth','arden', ]
 actualPrice: 14.96 EUR
 currency: EUR

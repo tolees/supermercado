@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IUPKLG4-es Bimbo Rebanada Estilo Artesano Pan blanco con corteza 550g...'
+sku: 'B01IUPKLG4-es'
 tags: [ 'bimbo', ]
 actualPrice: 1.99 EUR
 currency: EUR

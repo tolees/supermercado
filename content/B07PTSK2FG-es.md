@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTSK2FG-es ColaCao Noir: Intenso sabor y 0% azúcares añadidos - 300g'
+sku: 'B07PTSK2FG-es'
 tags: [ 'colacao', ]
 actualPrice: 2.87 EUR
 currency: EUR

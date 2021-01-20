@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0MNAG0-es SOLIS Tomate Frito Frasco Cristal - Tomate sin gluten -...'
+sku: 'B01M0MNAG0-es'
 tags: [ 'solis','sin','gluten', ]
 actualPrice: None None
 currency: None

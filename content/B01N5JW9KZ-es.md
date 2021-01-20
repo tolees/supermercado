@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5JW9KZ-es Relaxdays Dispensador Jabón Cuadrado Bambú Marrón 18 x 6 5...'
+sku: 'B01N5JW9KZ-es'
 tags: [ 'jabón', ]
 actualPrice: 14.04 EUR
 currency: EUR

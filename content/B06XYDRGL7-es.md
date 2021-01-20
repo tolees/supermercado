@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYDRGL7-es Diadermine - Pack Expert Rejuvenecedor Crema Día +...'
+sku: 'B06XYDRGL7-es'
 tags: [ 'diadermine', ]
 actualPrice: 11.5 EUR
 currency: EUR

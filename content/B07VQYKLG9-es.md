@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQYKLG9-es AICOK Máquina de algodón de azúcar Usar Azúcar Regular de...'
+sku: 'B07VQYKLG9-es'
 tags: [ 'azúcar', ]
 actualPrice: 37.99 EUR
 currency: EUR

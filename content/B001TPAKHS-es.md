@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001TPAKHS-es Johnnie Walker Black Whisky Escocés - 700 ml'
+sku: 'B001TPAKHS-es'
 tags: [ 'whisky', ]
 actualPrice: 21.95 EUR
 currency: EUR

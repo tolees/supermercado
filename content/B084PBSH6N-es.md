@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084PBSH6N-es 4 Unids/set Mesa de seguridad para niños Cubierta de...'
+sku: 'B084PBSH6N-es'
 tags: [ 'café', ]
 actualPrice: 1.36 EUR
 currency: EUR

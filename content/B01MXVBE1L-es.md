@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXVBE1L-es Helios Mermelada Extra Naranja Amarga - 340 gr - Pack de 6'
+sku: 'B01MXVBE1L-es'
 tags: [ 'mermelada', ]
 actualPrice: 6.9 EUR
 currency: EUR

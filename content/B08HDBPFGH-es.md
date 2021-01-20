@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HDBPFGH-es PINZAS PARA JAMÓN EMBUTIDOS PESCADOS. IDEAL PARA FINAS...'
+sku: 'B08HDBPFGH-es'
 tags: [ 'chorizo','jamón', ]
 actualPrice: 11.96 EUR
 currency: EUR

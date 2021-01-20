@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXW2TSW-es La Parroquia de Veracruz - Bolsa Café Molido Tradicional...'
+sku: 'B07NXW2TSW-es'
 tags: [ 'café','chocolate', ]
 actualPrice: 13.99 EUR
 currency: EUR

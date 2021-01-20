@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMEJG82-es Pavo 8047222 Caja para llaves de alta seguridad capacidad...'
+sku: 'B00JMEJG82-es'
 tags: [ 'pavo', ]
 actualPrice: 58.23 EUR
 currency: EUR

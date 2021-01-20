@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SH6HPVZ-es Chicco Pantaloni Lunghi Jeans Denim Stretch Bimbo Bebés'
+sku: 'B07SH6HPVZ-es'
 tags: [ 'bimbo', ]
 actualPrice: None None
 currency: None

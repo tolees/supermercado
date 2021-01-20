@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VOLAUY-es Giorgio Armani Aqua Di Gio Desodorante Stick 75 ml'
+sku: 'B000VOLAUY-es'
 tags: [ 'desodorante', ]
 actualPrice: 22.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QFS2UQI-es Earth Rated Tierra Nominal dispensador con biodegradables...'
+sku: 'B00QFS2UQI-es'
 tags: [ 'bolsas','de','basura', ]
 actualPrice: 31.46 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSY462J-es Karl Lagerfeld x L Oréal Paris Eyeliner Chic Rose Silver...'
+sku: 'B07WSY462J-es'
 tags: [ 'oréal', ]
 actualPrice: 12.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08MW5BXWS-es SUAVINEX Suavinex Detergente para Biberones y Tetinas'
+sku: 'B08MW5BXWS-es'
 tags: [ 'detergente', ]
 actualPrice: None None
 currency: None

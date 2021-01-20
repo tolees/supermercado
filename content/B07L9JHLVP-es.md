@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9JHLVP-es Caja de Paternina Reserva D.O. Rioja Vino tinto - 6...'
+sku: 'B07L9JHLVP-es'
 tags: [ 'vino','tinto', ]
 actualPrice: 31.82 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FFJ9FG-es VICTORY ENDURANCE Total Recovery Chocolate 750 g'
+sku: 'B001FFJ9FG-es'
 tags: [ 'chocolate', ]
 actualPrice: 20.6 EUR
 currency: EUR

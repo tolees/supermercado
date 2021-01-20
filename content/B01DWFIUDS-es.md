@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DWFIUDS-es Colgate Plax Rojo Enjuague - Pack de 4 x 500 ml'
+sku: 'B01DWFIUDS-es'
 tags: [ 'colgate', ]
 actualPrice: 7.73 EUR
 currency: EUR

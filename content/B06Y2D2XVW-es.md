@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2D2XVW-es Wella - Mascarilla Reparadora Intensa Fusion 500'
+sku: 'B06Y2D2XVW-es'
 tags: [ 'wella', ]
 actualPrice: 20.47 EUR
 currency: EUR

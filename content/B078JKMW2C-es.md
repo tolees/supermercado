@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078JKMW2C-es Urterkam Champú - 500 ml.'
+sku: 'B078JKMW2C-es'
 tags: [ 'champú', ]
 actualPrice: 11.5 EUR
 currency: EUR

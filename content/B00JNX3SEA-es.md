@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JNX3SEA-es L Oreal Paris - Age Perfect crema hidratante de ojos...'
+sku: 'B00JNX3SEA-es'
 tags: [ 'crema','hidratante', ]
 actualPrice: 8.99 EUR
 currency: EUR

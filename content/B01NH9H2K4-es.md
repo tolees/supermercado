@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NH9H2K4-es Mical Bolsas de basura 55 x 60 cm color azul - 15 Unidades'
+sku: 'B01NH9H2K4-es'
 tags: [ 'bolsas','de','basura', ]
 actualPrice: 0.69 EUR
 currency: EUR

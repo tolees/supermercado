@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QN7F5BX-es Love Beauty and Planet Desodorante Roll-on Manteca de...'
+sku: 'B07QN7F5BX-es'
 tags: [ 'desodorante', ]
 actualPrice: 11.97 EUR
 currency: EUR

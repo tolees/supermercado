@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EXSAJ56-es Neutrogena Blackhead Eliminating Tónico Limpiador - 200 ml'
+sku: 'B00EXSAJ56-es'
 tags: [ 'neutrogena', ]
 actualPrice: 13.1 EUR
 currency: EUR

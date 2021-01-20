@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V4X6DB2-es Jim Beam Apple Bourbon Whisky con Licor de Manzana 35% -...'
+sku: 'B00V4X6DB2-es'
 tags: [ 'manzana','whisky', ]
 actualPrice: 11.75 EUR
 currency: EUR

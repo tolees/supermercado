@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9XZ7Z4-es Elizabeth Arden White Tea Gel de Ducha 400 ml'
+sku: 'B01N9XZ7Z4-es'
 tags: [ 'elizabeth','arden','gel','de','ducha', ]
 actualPrice: 13.6 EUR
 currency: EUR

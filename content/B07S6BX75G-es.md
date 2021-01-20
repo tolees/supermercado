@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6BX75G-es Chicco Tutina Bimbo con Apertura Entrogamba Mono Corto...'
+sku: 'B07S6BX75G-es'
 tags: [ 'bimbo', ]
 actualPrice: None None
 currency: None

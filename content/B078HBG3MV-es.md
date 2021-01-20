@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HBG3MV-es Ecover Suavizante Manzana Almendra 5 Lt Ecover 1 Unidad...'
+sku: 'B078HBG3MV-es'
 tags: [ 'manzana','suavizante', ]
 actualPrice: 19.35 EUR
 currency: EUR

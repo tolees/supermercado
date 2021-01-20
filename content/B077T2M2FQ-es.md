@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077T2M2FQ-es Maeloc Sidra Dulce Ecológica - Pack de 4 x 200 ml'
+sku: 'B077T2M2FQ-es'
 tags: [ 'maeloc', ]
 actualPrice: 2.28 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y29B1LL-es Puleva Leche Desnatada - 6 x 1 L'
+sku: 'B06Y29B1LL-es'
 tags: [ 'puleva', ]
 actualPrice: None None
 currency: None

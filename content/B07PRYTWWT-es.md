@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRYTWWT-es L OR Espresso Café paquete favorito - Nespresso® *...'
+sku: 'B07PRYTWWT-es'
 tags: [ 'café','cápsulas','de','café', ]
 actualPrice: 16.87 EUR
 currency: EUR

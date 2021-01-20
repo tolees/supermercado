@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074P4HGCC-es Gliss - 2 Champús 400 ml + 1 Mascarilla Reparación Total...'
+sku: 'B074P4HGCC-es'
 tags: [ 'schwarzkopf', ]
 actualPrice: 6.66 EUR
 currency: EUR

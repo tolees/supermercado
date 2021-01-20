@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2TYBWX-es Dove Beauty Finish Desodorante Antitranspirante Aerosol...'
+sku: 'B06Y2TYBWX-es'
 tags: [ 'desodorante','dove','finish', ]
 actualPrice: 8.33 EUR
 currency: EUR

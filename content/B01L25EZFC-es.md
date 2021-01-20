@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L25EZFC-es Muñeco blanco - Corazón de Marsella Detergente delicada...'
+sku: 'B01L25EZFC-es'
 tags: [ 'detergente', ]
 actualPrice: 10.88 EUR
 currency: EUR

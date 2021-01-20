@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVL1BHP-es Diadermine - Gel Micelar Whashing me Softly para Pieles...'
+sku: 'B07JVL1BHP-es'
 tags: [ 'diadermine', ]
 actualPrice: 10.25 EUR
 currency: EUR

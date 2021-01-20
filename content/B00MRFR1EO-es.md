@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MRFR1EO-es Refrigerador botellero puerta de Cristal color rojo con...'
+sku: 'B00MRFR1EO-es'
 tags: [ 'coca','cola', ]
 actualPrice: 199.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LAYIMOA-es Maybelline Master Strobing Stick Iluminador Tono 300 Dark...'
+sku: 'B01LAYIMOA-es'
 tags: [ 'maybelline', ]
 actualPrice: 6.97 EUR
 currency: EUR

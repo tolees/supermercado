@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAENE9C-es Air Wick Aerosol'
+sku: 'B00XAENE9C-es'
 tags: [ 'air','wick', ]
 actualPrice: 3.94 EUR
 currency: EUR

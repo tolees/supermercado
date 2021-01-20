@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9X5LQP-es Yosoy - Bebida Vegetal Ecológica de Avena Caja de 6 x 1L'
+sku: 'B07F9X5LQP-es'
 tags: [ 'yosoy', ]
 actualPrice: 8.4 EUR
 currency: EUR

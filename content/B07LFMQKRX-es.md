@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFMQKRX-es SYOSS - Pack de Regalo SalonPlex - Champú 500ml +...'
+sku: 'B07LFMQKRX-es'
 tags: [ 'acondicionador','champú', ]
 actualPrice: 10.95 EUR
 currency: EUR

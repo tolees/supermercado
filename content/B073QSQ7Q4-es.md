@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QSQ7Q4-es Mimosín Narciso Suavizante Concentrado para 58 lavados - 8...'
+sku: 'B073QSQ7Q4-es'
 tags: [ 'suavizante', ]
 actualPrice: 16.99 EUR
 currency: EUR

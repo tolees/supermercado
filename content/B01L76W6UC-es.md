@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L76W6UC-es Conguitos Cacahuete con Chocolate - 450 gr'
+sku: 'B01L76W6UC-es'
 tags: [ 'chocolate', ]
 actualPrice: 4.5 EUR
 currency: EUR

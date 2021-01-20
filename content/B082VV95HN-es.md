@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VV95HN-es Gliss - Mascarilla Ultimate Repair para Cabellos Muy...'
+sku: 'B082VV95HN-es'
 tags: [ 'schwarzkopf', ]
 actualPrice: 4.6 EUR
 currency: EUR

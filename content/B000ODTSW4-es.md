@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000ODTSW4-es Nescaf Dolce Gusto - Lungo - 3 Paquetes de 16 Cpsulas -...'
+sku: 'B000ODTSW4-es'
 tags: [ 'dolce','gusto', ]
 actualPrice: 14.0 EUR
 currency: EUR

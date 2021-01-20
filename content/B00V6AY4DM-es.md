@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V6AY4DM-es Solaray Sex Up | Libido saludable vitalidad resistencia y...'
+sku: 'B00V6AY4DM-es'
 tags: [ 'sin','gluten', ]
 actualPrice: 20.52 EUR
 currency: EUR

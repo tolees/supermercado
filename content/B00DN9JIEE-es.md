@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DN9JIEE-es Meritene® FUERZA Y VITALIDAD - Suplementa tu nutrición y...'
+sku: 'B00DN9JIEE-es'
 tags: [ 'chocolate', ]
 actualPrice: 18.95 EUR
 currency: EUR

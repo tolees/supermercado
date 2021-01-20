@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTSMXLM-es Marca Amazon- Amfit Nutrition Barrita de proteínas sabor a...'
+sku: 'B07QTSMXLM-es'
 tags: [ 'chocolate', ]
 actualPrice: 17.55 EUR
 currency: EUR

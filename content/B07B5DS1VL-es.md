@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B5DS1VL-es Guinness Cerveza Negra Drau. Botella 4.2º - Paquete de 24...'
+sku: 'B07B5DS1VL-es'
 tags: [ 'cerveza', ]
 actualPrice: 29.79 EUR
 currency: EUR
@@ -26,8 +27,8 @@ Está [Guinness Cerveza Negra Drau. Botella 4.2º - Paquete de 24 botellas de 33
 
 ℹ️:
 
+- Cerveza negra
 - Producto de Heineken España
 - Graduación: 4.2º
-- Cerveza negra
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B5DS1VL/?tag=tolees-21)

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HQFJMS-es GLUTEN FREE: JAMÁS TE SERÁ MÁS FÁCIL COCINAR Y COMER SIN...'
+sku: 'B085HQFJMS-es'
 tags: [ 'sin','gluten', ]
 actualPrice: 16.89 EUR
 currency: EUR

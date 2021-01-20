@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXPKJDZ-es Garnier Skin Active Pure Active Gel 3 en 1 para Pieles...'
+sku: 'B01LXPKJDZ-es'
 tags: [ 'garnier', ]
 actualPrice: 4.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2B5XT2-es Cidacos Extra Alubias Enlatadas - 570 g'
+sku: 'B06Y2B5XT2-es'
 tags: [ 'cidacos', ]
 actualPrice: 1.0 EUR
 currency: EUR

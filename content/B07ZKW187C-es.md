@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKW187C-es Heallily lubricante anal lubricante personal a base de...'
+sku: 'B07ZKW187C-es'
 tags: [ 'melocotón', ]
 actualPrice: 5.81 EUR
 currency: EUR

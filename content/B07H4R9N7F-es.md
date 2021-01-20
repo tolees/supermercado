@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4R9N7F-es Estrella de Levante Cerveza - Pack de 6 Botellas 1L'
+sku: 'B07H4R9N7F-es'
 tags: [ 'cerveza', ]
 actualPrice: 8.28 EUR
 currency: EUR

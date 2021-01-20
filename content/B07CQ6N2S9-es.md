@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQ6N2S9-es Brillante Arroz Largo - Pack de 16 vasitos X 200 Gr -...'
+sku: 'B07CQ6N2S9-es'
 tags: [ 'arroz', ]
 actualPrice: 16.4 EUR
 currency: EUR

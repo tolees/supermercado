@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LTHWTII-es Scottex - Pañuelos Suaves y Resistentes 4 Capas 6 Paquetes...'
+sku: 'B01LTHWTII-es'
 tags: [ 'scottex', ]
 actualPrice: 8.81 EUR
 currency: EUR

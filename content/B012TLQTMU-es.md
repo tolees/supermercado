@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012TLQTMU-es Sukin Super Greens Crema hidratante facial 125 ml'
+sku: 'B012TLQTMU-es'
 tags: [ 'crema','hidratante', ]
 actualPrice: 11.95 EUR
 currency: EUR

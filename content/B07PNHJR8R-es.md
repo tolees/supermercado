@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNHJR8R-es Champú reestructurante para cabello rizado con aceite de...'
+sku: 'B07PNHJR8R-es'
 tags: [ 'champú', ]
 actualPrice: 9.97 EUR
 currency: EUR

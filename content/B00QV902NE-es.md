@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QV902NE-es Prozis Cafeína Estimular la Concentración los Niveles de...'
+sku: 'B00QV902NE-es'
 tags: [ 'azúcar', ]
 actualPrice: 7.99 EUR
 currency: EUR

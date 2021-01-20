@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N8RO72R-es Ariete 2962 Chocolate Fountain Party Time Fuente Rojo'
+sku: 'B01N8RO72R-es'
 tags: [ 'chocolate', ]
 actualPrice: 40.85 EUR
 currency: EUR

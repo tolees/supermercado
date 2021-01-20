@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BF4LROW-es Disfraz de Foxy de Five Nights at Freddy s'
+sku: 'B01BF4LROW-es'
 tags: [ 'foxy', ]
 actualPrice: 25.65 EUR
 currency: EUR

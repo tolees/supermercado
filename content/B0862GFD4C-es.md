@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0862GFD4C-es Garnier Delial Sensitive Advanced - Crema Facial Super UV...'
+sku: 'B0862GFD4C-es'
 tags: [ 'garnier', ]
 actualPrice: 10.5 EUR
 currency: EUR

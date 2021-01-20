@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003HLMP4I-es Revlon Colorstay Delineador Líquido Tono 251 Blackest...'
+sku: 'B003HLMP4I-es'
 tags: [ 'revlon', ]
 actualPrice: 7.03 EUR
 currency: EUR

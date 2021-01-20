@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AI5NZDG-es WELEDA Gel Dentífrico para Niños 1x 50 ml'
+sku: 'B00AI5NZDG-es'
 tags: [ 'dentífrico', ]
 actualPrice: 4.75 EUR
 currency: EUR

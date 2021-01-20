@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y4B1MQK-es Happers Puff Pera Estampado para niño Camuflaje Verde...'
+sku: 'B06Y4B1MQK-es'
 tags: [ 'pera', ]
 actualPrice: 67.43 EUR
 currency: EUR

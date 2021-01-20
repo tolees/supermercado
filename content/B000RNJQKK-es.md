@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RNJQKK-es Hugo Boss 58000223 desodorante Hombres Desodorante en...'
+sku: 'B000RNJQKK-es'
 tags: [ 'desodorante','desodorantes', ]
 actualPrice: 22.69 EUR
 currency: EUR

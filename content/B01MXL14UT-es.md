@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXL14UT-es Brandy de Jerez Solera Gran Reserva Carlos I Imperial XO -...'
+sku: 'B01MXL14UT-es'
 tags: [ 'brandy', ]
 actualPrice: 36.4 EUR
 currency: EUR

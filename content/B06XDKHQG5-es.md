@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDKHQG5-es Garnier Fructis Nutri Repair 3 Mascarilla Fortificante que...'
+sku: 'B06XDKHQG5-es'
 tags: [ 'garnier', ]
 actualPrice: 3.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFPM3PN-es Concentrado de Proteína de Suero Evowhey Protein 2.0 de...'
+sku: 'B07GFPM3PN-es'
 tags: [ 'soja','sin','gluten', ]
 actualPrice: 19.41 EUR
 currency: EUR

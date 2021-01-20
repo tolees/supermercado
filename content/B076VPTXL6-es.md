@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076VPTXL6-es Neutrogena Crema de Manos Sin Perfume - 50 ml.'
+sku: 'B076VPTXL6-es'
 tags: [ 'neutrogena', ]
 actualPrice: 2.99 EUR
 currency: EUR

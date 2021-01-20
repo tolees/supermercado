@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LZQWXN-es Gillette Blue3 Maquinillas de Afeitar Desechables 48...'
+sku: 'B085LZQWXN-es'
 tags: [ 'gillette', ]
 actualPrice: 23.15 EUR
 currency: EUR

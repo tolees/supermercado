@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJFKTFM-es Un Air d’Antan® Caja Belleza Douce Mujer 1 Jabon 100g 1...'
+sku: 'B07HJFKTFM-es'
 tags: [ 'jabon', ]
 actualPrice: 31.2 EUR
 currency: EUR

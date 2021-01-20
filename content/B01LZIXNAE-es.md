@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZIXNAE-es Dr. Oetker Molde Desmontable Back-Harmonie Acero marrón 28 cm'
+sku: 'B01LZIXNAE-es'
 tags: [ 'dr.','oetker', ]
 actualPrice: 39.51 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMJX3VJ-es G-Vine Ginebra G-Vine Peach - 700 ml'
+sku: 'B07RMJX3VJ-es'
 tags: [ 'ginebra', ]
 actualPrice: 32.09 EUR
 currency: EUR

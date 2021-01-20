@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086KGR7B2-es Ariel Allin1 Pods Original - Detergente en cápsulas para...'
+sku: 'B086KGR7B2-es'
 tags: [ 'detergente', ]
 actualPrice: 28.29 EUR
 currency: EUR

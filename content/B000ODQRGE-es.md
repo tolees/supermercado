@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000ODQRGE-es NESCAFÉ Dolce Gusto | Capsulas de Café Cappuccino Ice |...'
+sku: 'B000ODQRGE-es'
 tags: [ 'café','nescafé','dolce','gusto', ]
 actualPrice: 12.75 EUR
 currency: EUR

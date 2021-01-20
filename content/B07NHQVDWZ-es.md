@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHQVDWZ-es Schmidt s - Gel de ducha sólido charcoal y magnesium - 142 gr'
+sku: 'B07NHQVDWZ-es'
 tags: [ 'gel','de','ducha', ]
 actualPrice: 5.5 EUR
 currency: EUR

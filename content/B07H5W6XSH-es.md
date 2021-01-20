@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5W6XSH-es L Or Espresso Café Ristretto Decaffeinato Intensidad 9 -...'
+sku: 'B07H5W6XSH-es'
 tags: [ 'café', ]
 actualPrice: 9.16 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DGVAL2W-es Cardhu 15 Años Whisky Escocés - 700 ml'
+sku: 'B00DGVAL2W-es'
 tags: [ 'cardhu','whisky', ]
 actualPrice: 38.74 EUR
 currency: EUR

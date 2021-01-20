@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ABY8FCU-es OB Cepillo Shiny Clean Medium Robin Hood 4 uds'
+sku: 'B00ABY8FCU-es'
 tags: [ 'ob','cepillo', ]
 actualPrice: 3.47 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2VVVR1-es Jim Beam Single Barrel Kentacky Bourbon Whisky 47.5% - 700 ml'
+sku: 'B07F2VVVR1-es'
 tags: [ 'whisky', ]
 actualPrice: 22.8 EUR
 currency: EUR

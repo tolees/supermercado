@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J5G2H7Y-es BIMANAN - BIMANAN Sustitutive Barrita Yogur unidad'
+sku: 'B00J5G2H7Y-es'
 tags: [ 'yogur', ]
 actualPrice: 1.46 EUR
 currency: EUR

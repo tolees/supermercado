@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073FGVP73-es Bionsan Garbanzos Cocidos Ecológicos - 4 Botes de 400 g -...'
+sku: 'B073FGVP73-es'
 tags: [ 'garbanzos', ]
 actualPrice: 10.6 EUR
 currency: EUR

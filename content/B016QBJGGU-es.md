@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016QBJGGU-es Vino Tinto Mencía D.O. Bierzo 750ml'
+sku: 'B016QBJGGU-es'
 tags: [ 'vino','tinto', ]
 actualPrice: 5.95 EUR
 currency: EUR

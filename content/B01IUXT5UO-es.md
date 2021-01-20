@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IUXT5UO-es Chocolates Valor - Chocolate 70% Cacao con Mousse de...'
+sku: 'B01IUXT5UO-es'
 tags: [ 'azúcar','chocolate', ]
 actualPrice: 1.33 EUR
 currency: EUR

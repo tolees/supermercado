@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJBSPDX-es Cepillo de Dientes Eléctrico Cepillo de Dientes Sonico con...'
+sku: 'B07ZJBSPDX-es'
 tags: [ 'cepillo','de','dientes', ]
 actualPrice: 36.99 EUR
 currency: EUR

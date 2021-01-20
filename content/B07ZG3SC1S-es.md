@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZG3SC1S-es Moussel Neceser Gel de Ducha Clásico'
+sku: 'B07ZG3SC1S-es'
 tags: [ 'moussel','gel','de','ducha', ]
 actualPrice: 7.95 EUR
 currency: EUR

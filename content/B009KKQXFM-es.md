@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009KKQXFM-es La masía - Aceite de oliva suave - 1 L'
+sku: 'B009KKQXFM-es'
 tags: [ 'aceite','de','oliva', ]
 actualPrice: 2.27 EUR
 currency: EUR

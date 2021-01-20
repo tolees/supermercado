@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019WBKMQ4-es L Oréal Paris Barra De Labios Color Infalible 24H 122-1...'
+sku: 'B019WBKMQ4-es'
 tags: [ 'oréal', ]
 actualPrice: 5.97 EUR
 currency: EUR

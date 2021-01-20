@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKHM1VR-es Trapa Intenso - Chocolate Blanco con Almendras Enteras 175 g'
+sku: 'B07SKHM1VR-es'
 tags: [ 'chocolate', ]
 actualPrice: 1.6 EUR
 currency: EUR

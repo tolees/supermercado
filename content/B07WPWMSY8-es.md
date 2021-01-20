@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WPWMSY8-es Bolsa impermeable y reutilizable para la merienda comida...'
+sku: 'B07WPWMSY8-es'
 tags: [ 'frutos','secos', ]
 actualPrice: 15 EUR
 currency: EUR

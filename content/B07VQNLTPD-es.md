@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQNLTPD-es HJ Colgador de Escobas Soporte de Pared para Colgar...'
+sku: 'B07VQNLTPD-es'
 tags: [ 'fregona', ]
 actualPrice: 11.99 EUR
 currency: EUR

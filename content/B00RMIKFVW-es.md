@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RMIKFVW-es Gillette Fusion5 ProGlide Power - Recambio de Maquinilla...'
+sku: 'B00RMIKFVW-es'
 tags: [ 'gillette', ]
 actualPrice: 29.95 EUR
 currency: EUR

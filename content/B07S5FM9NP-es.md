@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5FM9NP-es Old Spice Citron - Desodorante Stick Pack de 6 x 50 ml'
+sku: 'B07S5FM9NP-es'
 tags: [ 'desodorante', ]
 actualPrice: 15.15 EUR
 currency: EUR

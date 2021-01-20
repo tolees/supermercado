@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BKKDCHG-es Krups MS-623241 - Recipiente para cápsulas de café Dolce...'
+sku: 'B01BKKDCHG-es'
 tags: [ 'café','cápsulas','de','café','dolce','gusto', ]
 actualPrice: 12.49 EUR
 currency: EUR

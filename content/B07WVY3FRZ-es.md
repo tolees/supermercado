@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVY3FRZ-es Revium - Limpiador facial antirrojeces para pieles...'
+sku: 'B07WVY3FRZ-es'
 tags: [ 'jabón', ]
 actualPrice: 11.86 EUR
 currency: EUR

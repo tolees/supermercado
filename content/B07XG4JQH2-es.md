@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XG4JQH2-es Diadermine Lift + Sérum Super Rellenador 40ml Pack de 1'
+sku: 'B07XG4JQH2-es'
 tags: [ 'diadermine', ]
 actualPrice: 7.99 EUR
 currency: EUR

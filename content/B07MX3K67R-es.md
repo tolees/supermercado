@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MX3K67R-es KUNSE Mezclador Eléctrico Auto Portátil De La Proteína...'
+sku: 'B07MX3K67R-es'
 tags: [ 'café', ]
 actualPrice: 22.64 EUR
 currency: EUR

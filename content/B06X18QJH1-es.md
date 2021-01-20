@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X18QJH1-es The Chita Suntory Single Grain Japanese Whisky 43% - 700 ml'
+sku: 'B06X18QJH1-es'
 tags: [ 'whisky', ]
 actualPrice: 48.3 EUR
 currency: EUR

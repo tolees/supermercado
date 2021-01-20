@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HW0L3Z2-es Vileda 143587 Bayeta Pva Micro Amarillo [5-PACK]'
+sku: 'B00HW0L3Z2-es'
 tags: [ 'bayeta', ]
 actualPrice: 15.81 EUR
 currency: EUR

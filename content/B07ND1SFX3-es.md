@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ND1SFX3-es Bimbo Dulce de chocolate - 188 g'
+sku: 'B07ND1SFX3-es'
 tags: [ 'bimbo','chocolate', ]
 actualPrice: 1.87 EUR
 currency: EUR

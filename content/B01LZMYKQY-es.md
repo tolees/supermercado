@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZMYKQY-es LITORAL Hoy Legumbres Lentejas con su sofrito Plato...'
+sku: 'B01LZMYKQY-es'
 tags: [ 'legumbres','lentejas','litoral','plato','preparado','sin','gluten', ]
 actualPrice: 1.08 EUR
 currency: EUR

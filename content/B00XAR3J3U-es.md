@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAR3J3U-es Haribo - Melón - Caramelos de goma - 1 kg'
+sku: 'B00XAR3J3U-es'
 tags: [ 'haribo', ]
 actualPrice: 4.72 EUR
 currency: EUR

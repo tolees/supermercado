@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ6VK22-es Mimosín Suavizante Dulces Sueños 66lav x 8botellas'
+sku: 'B07NQ6VK22-es'
 tags: [ 'suavizante', ]
 actualPrice: 16.99 EUR
 currency: EUR

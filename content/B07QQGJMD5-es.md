@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QQGJMD5-es Mimosín Collection Parfum Suavizante Fleur D Or - 6...'
+sku: 'B07QQGJMD5-es'
 tags: [ 'suavizante', ]
 actualPrice: 22.5 EUR
 currency: EUR

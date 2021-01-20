@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQ46CNV-es Sundari Arroz Basmati 1 Kg - [Pack De 10] - Total 10 Kg'
+sku: 'B07CQ46CNV-es'
 tags: [ 'arroz', ]
 actualPrice: 29.5 EUR
 currency: EUR

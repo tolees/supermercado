@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001LFKSV4-es Klorane APF-129 Champú con pulpa de cítricos 400 ml'
+sku: 'B001LFKSV4-es'
 tags: [ 'champú', ]
 actualPrice: 12.6 EUR
 currency: EUR

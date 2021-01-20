@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00S4QYDRI-es TASSIMO L Or Café Long Délicat - 5 paquetes de 16...'
+sku: 'B00S4QYDRI-es'
 tags: [ 'café', ]
 actualPrice: 23.7 EUR
 currency: EUR

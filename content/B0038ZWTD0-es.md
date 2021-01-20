@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0038ZWTD0-es Elizabeth Arden 5th Avenue Style Agua de perfume para...'
+sku: 'B0038ZWTD0-es'
 tags: [ 'elizabeth','arden', ]
 actualPrice: 20.77 EUR
 currency: EUR

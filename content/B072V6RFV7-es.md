@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072V6RFV7-es Pandoo Taza de café para Llevar Bambú Negro 450 ml'
+sku: 'B072V6RFV7-es'
 tags: [ 'café', ]
 actualPrice: 10.99 EUR
 currency: EUR

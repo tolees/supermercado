@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY8WP22-es L Oréal Paris Rouge Signature 203 I Magnetize Pintalabios...'
+sku: 'B07TY8WP22-es'
 tags: [ 'oréal', ]
 actualPrice: 7.35 EUR
 currency: EUR

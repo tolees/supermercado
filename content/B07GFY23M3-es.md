@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFY23M3-es Marca Amazon - Solimo - Alimento seco completo para perro...'
+sku: 'B07GFY23M3-es'
 tags: [ 'guisantes','solimo', ]
 actualPrice: 6 EUR
 currency: EUR

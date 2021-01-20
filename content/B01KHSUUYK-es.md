@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KHSUUYK-es Revlon Ultra HD Gel Pintalabios Tropical'
+sku: 'B01KHSUUYK-es'
 tags: [ 'revlon', ]
 actualPrice: 2.73 EUR
 currency: EUR

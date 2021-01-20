@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XDODLZG-es Carmencita Orégano Especias - 45 gr'
+sku: 'B00XDODLZG-es'
 tags: [ 'carmencita', ]
 actualPrice: 2.85 EUR
 currency: EUR

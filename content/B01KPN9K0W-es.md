@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KPN9K0W-es De Longhi KG 520.M Molinillo de café eléctrico con con...'
+sku: 'B01KPN9K0W-es'
 tags: [ 'café', ]
 actualPrice: 152.66 EUR
 currency: EUR

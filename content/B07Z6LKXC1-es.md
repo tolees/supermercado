@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6LKXC1-es Timely - Vitamin Your Dog champú regenerante intenso para...'
+sku: 'B07Z6LKXC1-es'
 tags: [ 'champú', ]
 actualPrice: 11.03 EUR
 currency: EUR

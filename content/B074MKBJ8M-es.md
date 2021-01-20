@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074MKBJ8M-es La Silla Española Ribadeo Oficina sin Reposacabezas...'
+sku: 'B074MKBJ8M-es'
 tags: [ 'la','española', ]
 actualPrice: 52.54 EUR
 currency: EUR

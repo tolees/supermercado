@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001GNBVSA-es Max Factor Base de maquillaje - 1 unidad'
+sku: 'B001GNBVSA-es'
 tags: [ 'max','factor', ]
 actualPrice: 4.7 EUR
 currency: EUR

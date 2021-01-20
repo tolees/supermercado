@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ74CQU-es Nuk Detergente de superfícies para bebés'
+sku: 'B01MZ74CQU-es'
 tags: [ 'detergente', ]
 actualPrice: 3.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083Q32HRR-es Desodorante desodorante natural Perfume sólido...'
+sku: 'B083Q32HRR-es'
 tags: [ 'desodorante', ]
 actualPrice: 9.99 EUR
 currency: EUR

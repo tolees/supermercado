@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7S92TE-es Colgate Pasta de dientes AntiSarro + Blanqueador - 75 ml'
+sku: 'B01K7S92TE-es'
 tags: [ 'colgate','pasta','de','dientes', ]
 actualPrice: 1.57 EUR
 currency: EUR

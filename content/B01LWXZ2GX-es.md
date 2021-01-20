@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWXZ2GX-es Dani Berberechos al Natural 40-50 - 63 g'
+sku: 'B01LWXZ2GX-es'
 tags: [ 'berberechos', ]
 actualPrice: 3.6 EUR
 currency: EUR

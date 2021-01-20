@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VBUP2G-es Max Factor Colour Adapt 050 Porcelain Base de maquillaje...'
+sku: 'B000VBUP2G-es'
 tags: [ 'max','factor', ]
 actualPrice: 5.93 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083W6FQKN-es SUPERSUN 8 Velas de Citronela Antimosquitos Exterior Velas...'
+sku: 'B083W6FQKN-es'
 tags: [ 'soja', ]
 actualPrice: 16.99 EUR
 currency: EUR

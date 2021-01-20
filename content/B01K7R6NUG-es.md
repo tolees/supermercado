@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7R6NUG-es Granini Zumo Naranja - 1 l'
+sku: 'B01K7R6NUG-es'
 tags: [ 'granini', ]
 actualPrice: 1.0 EUR
 currency: EUR

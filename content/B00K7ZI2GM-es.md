@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K7ZI2GM-es L Oréal Paris Accord Parfait La Poudre D7 Rubor en Polvo -...'
+sku: 'B00K7ZI2GM-es'
 tags: [ 'oréal', ]
 actualPrice: 9.76 EUR
 currency: EUR

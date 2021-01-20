@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZW6FD9P-es Jardín Bio Muesli Bio al Chocolate y Semillas de Lino -...'
+sku: 'B07ZW6FD9P-es'
 tags: [ 'muesli','chocolate', ]
 actualPrice: 1.65 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005UXJRBU-es Brokers Ginebra - 700 ml'
+sku: 'B005UXJRBU-es'
 tags: [ 'ginebra', ]
 actualPrice: 13.85 EUR
 currency: EUR

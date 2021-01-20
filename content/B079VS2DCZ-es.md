@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VS2DCZ-es Head & Shoulders Men Ultra Frescor Instantáneo Champú...'
+sku: 'B079VS2DCZ-es'
 tags: [ 'champú', ]
 actualPrice: 5.32 EUR
 currency: EUR

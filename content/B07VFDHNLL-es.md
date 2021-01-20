@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFDHNLL-es Air Wick - Ambientador aerosol esencia para casa con aroma...'
+sku: 'B07VFDHNLL-es'
 tags: [ 'air','wick', ]
 actualPrice: 17.99 EUR
 currency: EUR

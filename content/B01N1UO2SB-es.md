@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1UO2SB-es Knorr Sopa China de Sichuan - 69 g'
+sku: 'B01N1UO2SB-es'
 tags: [ 'knorr', ]
 actualPrice: 1.0 EUR
 currency: EUR

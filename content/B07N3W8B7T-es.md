@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3W8B7T-es La Toja Selection - Bálsamo After Shave con sales...'
+sku: 'B07N3W8B7T-es'
 tags: [ 'la','toja', ]
 actualPrice: 9.5 EUR
 currency: EUR

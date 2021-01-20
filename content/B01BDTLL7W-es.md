@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BDTLL7W-es Eritritol 100 % natural 1 kg | Sustituto del azúcar con...'
+sku: 'B01BDTLL7W-es'
 tags: [ 'azúcar', ]
 actualPrice: 9.99 EUR
 currency: EUR

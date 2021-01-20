@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008OV0E5I-es L Oréal Paris Excellence Coloración Crème Triple...'
+sku: 'B008OV0E5I-es'
 tags: [ 'oréal', ]
 actualPrice: 6.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJ9S8J7-es NIVEA Cellular Ampolla Ácido Hialurónico Concentrado:...'
+sku: 'B07MJ9S8J7-es'
 tags: [ 'nivea', ]
 actualPrice: 17.83 EUR
 currency: EUR

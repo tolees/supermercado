@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AO9C8BU-es Jabón potásico 750 ml. listo para usar'
+sku: 'B01AO9C8BU-es'
 tags: [ 'jabón', ]
 actualPrice: 9.45 EUR
 currency: EUR

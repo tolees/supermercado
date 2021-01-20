@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JZCRZPM-es OGX - Champú Aceite de Keratina 385 ml'
+sku: 'B00JZCRZPM-es'
 tags: [ 'champú', ]
 actualPrice: 6.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076KD6DDV-es Acondicionador de queratina para reparación de cuidado de...'
+sku: 'B076KD6DDV-es'
 tags: [ 'acondicionador', ]
 actualPrice: 14.92 EUR
 currency: EUR

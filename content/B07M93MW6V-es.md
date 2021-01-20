@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M93MW6V-es NIVEA Hyaluron Cellular Filler + Elasticidad &...'
+sku: 'B07M93MW6V-es'
 tags: [ 'nivea', ]
 actualPrice: 12.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073VRDS24-es Prozis 100% Real Whey Isolate Proteína para Pérdida de...'
+sku: 'B073VRDS24-es'
 tags: [ 'chocolate', ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9AR8FB-es Scottex Fresh Duo Papel Higiénico Húmedo - pack de 2'
+sku: 'B01M9AR8FB-es'
 tags: [ 'scottex', ]
 actualPrice: 3.87 EUR
 currency: EUR

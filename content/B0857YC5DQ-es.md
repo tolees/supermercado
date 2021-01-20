@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0857YC5DQ-es Garnier Skin Active - BB Cream'
+sku: 'B0857YC5DQ-es'
 tags: [ 'garnier', ]
 actualPrice: None None
 currency: None

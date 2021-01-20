@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7WJPDW-es AUTOPkio 200 piezas Bolsas para helados de paletas de...'
+sku: 'B07D7WJPDW-es'
 tags: [ 'yogur', ]
 actualPrice: 14.39 EUR
 currency: EUR

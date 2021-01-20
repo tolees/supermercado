@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBBDXK4-es Aranmei Pijamas Mujer Invierno de Algodón Conjunto de...'
+sku: 'B07YBBDXK4-es'
 tags: [ 'vino','tinto', ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UNBL7DK-es Gillette Mach 3 Cargador Recambios Maquinilla - 8 Piezas'
+sku: 'B00UNBL7DK-es'
 tags: [ 'gillette', ]
 actualPrice: 16.99 EUR
 currency: EUR

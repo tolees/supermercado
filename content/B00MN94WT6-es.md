@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MN94WT6-es Max Factor Base de maquillaje 50 Natural - 62 gr.'
+sku: 'B00MN94WT6-es'
 tags: [ 'max','factor', ]
 actualPrice: 10.39 EUR
 currency: EUR

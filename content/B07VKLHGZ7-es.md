@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKLHGZ7-es ToullGo Calentador de Café Calentador de Bebidas Portátil...'
+sku: 'B07VKLHGZ7-es'
 tags: [ 'café', ]
 actualPrice: 23.21 EUR
 currency: EUR

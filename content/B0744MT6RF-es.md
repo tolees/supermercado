@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0744MT6RF-es Holle Potito de Manzana y Pera +4 meses - Paquete de 6 x...'
+sku: 'B0744MT6RF-es'
 tags: [ 'manzana','pera', ]
 actualPrice: 9.78 EUR
 currency: EUR

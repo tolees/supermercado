@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XDO530W-es Ballantine s Finest Whisky Escocés de Mezcla - 1 L'
+sku: 'B00XDO530W-es'
 tags: [ 'whisky', ]
 actualPrice: 13.5 EUR
 currency: EUR

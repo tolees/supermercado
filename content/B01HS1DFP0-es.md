@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HS1DFP0-es Instituto Español Poseidon Hombre Edición Indómito - Eau...'
+sku: 'B01HS1DFP0-es'
 tags: [ 'instituto','español', ]
 actualPrice: 10.95 EUR
 currency: EUR

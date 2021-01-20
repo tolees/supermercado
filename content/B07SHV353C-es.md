@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHV353C-es Skip Ultimate Triple Poder Detergente Capsulas Maxima...'
+sku: 'B07SHV353C-es'
 tags: [ 'detergente', ]
 actualPrice: 8.65 EUR
 currency: EUR

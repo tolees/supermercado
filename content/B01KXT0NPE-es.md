@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KXT0NPE-es Watermans Rápido Hair Growth champú + acondicionador de...'
+sku: 'B01KXT0NPE-es'
 tags: [ 'acondicionador','champú', ]
 actualPrice: 28.0 EUR
 currency: EUR

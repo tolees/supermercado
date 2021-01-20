@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPPNHPK-es L OR Espresso Café Espresso paquete de amante - Nespresso®...'
+sku: 'B07PPPNHPK-es'
 tags: [ 'café','cápsulas','de','café', ]
 actualPrice: 32.71 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0070B5SEK-es Wella SP Men - Set de espuma de pigmento negro Gradual...'
+sku: 'B0070B5SEK-es'
 tags: [ 'wella','champú', ]
 actualPrice: 16.23 EUR
 currency: EUR

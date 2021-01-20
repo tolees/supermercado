@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q6FM6GY-es VAHDAM Hojas de Té Chai Masala de la India 100 Tazas |...'
+sku: 'B00Q6FM6GY-es'
 tags: [ 'canela', ]
 actualPrice: 13.99 EUR
 currency: EUR

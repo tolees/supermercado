@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZJTJTC-es Mo Salinas Vino Tinto - Paquete de 6 x 750 ml - Total: 4500ml'
+sku: 'B07VZJTJTC-es'
 tags: [ 'vino','tinto', ]
 actualPrice: 26.85 EUR
 currency: EUR

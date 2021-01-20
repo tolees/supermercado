@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZXRRZS-es Mumiumius Exprimidor automático de Pasta de Dientes Baño...'
+sku: 'B083ZXRRZS-es'
 tags: [ 'pasta','de','dientes', ]
 actualPrice: 19.96 EUR
 currency: EUR

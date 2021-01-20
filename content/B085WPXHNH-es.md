@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085WPXHNH-es Dispensador de jabón Triency dispensador de líquidos 350...'
+sku: 'B085WPXHNH-es'
 tags: [ 'jabón', ]
 actualPrice: 14.89 EUR
 currency: EUR

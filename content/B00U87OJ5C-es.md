@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U87OJ5C-es Einhell - Hidrolimpiadora a alta presión TC-HP 1538 PC...'
+sku: 'B00U87OJ5C-es'
 tags: [ 'detergente', ]
 actualPrice: 117.92 EUR
 currency: EUR

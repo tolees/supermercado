@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXVR7QT-es Maybelline New York Pack de 2 Barras de Labios Superstay...'
+sku: 'B07MXVR7QT-es'
 tags: [ 'maybelline', ]
 actualPrice: 10.5 EUR
 currency: EUR

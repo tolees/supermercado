@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTYTFJJ-es Martini Vermouth Rosso - 1000 ml'
+sku: 'B01MTYTFJJ-es'
 tags: [ 'martini','vermouth', ]
 actualPrice: 7.78 EUR
 currency: EUR

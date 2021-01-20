@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9X1WFC-es L Oréal Paris Studio Line Gel Pure Wet'
+sku: 'B00X9X1WFC-es'
 tags: [ 'oréal', ]
 actualPrice: 3.99 EUR
 currency: EUR

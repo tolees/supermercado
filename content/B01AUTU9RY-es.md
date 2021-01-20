@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AUTU9RY-es L Oréal Paris Base de Maquillaje Fluida Infalible Sculpt 03'
+sku: 'B01AUTU9RY-es'
 tags: [ 'oréal', ]
 actualPrice: 5.96 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0001VV5HK-es SOLARAY® B complex 50. 50 VegCaps. Las Vitaminas B...'
+sku: 'B0001VV5HK-es'
 tags: [ 'sin','gluten', ]
 actualPrice: 12.15 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1HQ7CL-es VETOMILE Dispensador automático de jabón espumoso Espuma...'
+sku: 'B07T1HQ7CL-es'
 tags: [ 'jabón','champú', ]
 actualPrice: 21.99 EUR
 currency: EUR

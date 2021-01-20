@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXJACE4-es Sardinillas en aceite de oliva cuca rr - 90 est. af 90 gr...'
+sku: 'B01LXJACE4-es'
 tags: [ 'cuca','aceite','de','oliva', ]
 actualPrice: 9.3 EUR
 currency: EUR

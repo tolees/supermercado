@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GFPM86M-es Claire Evangeline: Conserva con valor los valores ancla'
+sku: 'B08GFPM86M-es'
 tags: [ 'conserva', ]
 actualPrice: 11.5 EUR
 currency: EUR

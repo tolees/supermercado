@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VJXZZM-es EUKANUBA Edad avanzada Próspero Raza Grande rico en pollo...'
+sku: 'B000VJXZZM-es'
 tags: [ 'eukanuba', ]
 actualPrice: 39.99 EUR
 currency: EUR

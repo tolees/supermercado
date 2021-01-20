@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BXFHP2W-es Guinot Hydrazone Toutes Peaux Crema hidratante - 50 ml'
+sku: 'B00BXFHP2W-es'
 tags: [ 'crema','hidratante', ]
 actualPrice: 31.56 EUR
 currency: EUR

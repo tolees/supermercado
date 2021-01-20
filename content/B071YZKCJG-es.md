@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071YZKCJG-es Purina Gourmet Mon Petit comida para gatos Carnes 8 x [6 x...'
+sku: 'B071YZKCJG-es'
 tags: [ 'purina', ]
 actualPrice: 14.65 EUR
 currency: EUR

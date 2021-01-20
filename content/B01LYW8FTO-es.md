@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYW8FTO-es Coca-Cola Light Lata - 330 ml Pack de 24'
+sku: 'B01LYW8FTO-es'
 tags: [ 'coca-cola', ]
 actualPrice: 11.91 EUR
 currency: EUR

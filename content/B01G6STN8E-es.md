@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G6STN8E-es Lote de Conservas Gourmet'
+sku: 'B01G6STN8E-es'
 tags: [ 'conservas', ]
 actualPrice: 31.4 EUR
 currency: EUR

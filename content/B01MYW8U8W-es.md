@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYW8U8W-es L Oréal Paris Total Cover Base Maquillaje Cobertura Total...'
+sku: 'B01MYW8U8W-es'
 tags: [ 'oréal', ]
 actualPrice: 10.41 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075YSMXN9-es Cúrcuma 4600mg Extracto Certificado 120 cápsulas con...'
+sku: 'B075YSMXN9-es'
 tags: [ 'cúrcuma', ]
 actualPrice: 13.58 EUR
 currency: EUR

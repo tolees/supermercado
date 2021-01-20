@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MROZ6ZB-es L Oréal Paris Paleta de Coloretes Infalible Pinks'
+sku: 'B01MROZ6ZB-es'
 tags: [ 'oréal', ]
 actualPrice: 5.99 EUR
 currency: EUR

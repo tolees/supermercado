@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPTGKWR-es Café FORTALEZA - Cápsulas de Café Intenssísimo Compatibles...'
+sku: 'B07FPTGKWR-es'
 tags: [ 'café','fortaleza','cápsulas','de','café','dolce','gusto', ]
 actualPrice: 8.97 EUR
 currency: EUR

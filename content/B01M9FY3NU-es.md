@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9FY3NU-es Sotya Café - 100 gr'
+sku: 'B01M9FY3NU-es'
 tags: [ 'café', ]
 actualPrice: 4.66 EUR
 currency: EUR

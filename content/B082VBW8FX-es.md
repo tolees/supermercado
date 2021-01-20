@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VBW8FX-es Kloius Dispensador de Jabón Automático 200ml Dispensador...'
+sku: 'B082VBW8FX-es'
 tags: [ 'jabón', ]
 actualPrice: 37.99 EUR
 currency: EUR

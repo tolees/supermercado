@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M6OMP1K-es Antaño Vino Tinto D.O Rioja - Pack de 6 Botellas x 750 ml'
+sku: 'B00M6OMP1K-es'
 tags: [ 'vino','tinto', ]
 actualPrice: 24.0 EUR
 currency: EUR

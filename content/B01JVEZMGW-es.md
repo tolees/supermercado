@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JVEZMGW-es Glenmorangie Whisky - 700 ml'
+sku: 'B01JVEZMGW-es'
 tags: [ 'whisky', ]
 actualPrice: 34.47 EUR
 currency: EUR

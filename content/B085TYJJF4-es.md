@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085TYJJF4-es Embutidos Ezequiel Chorizo Extra Picante 425 g'
+sku: 'B085TYJJF4-es'
 tags: [ 'chorizo', ]
 actualPrice: 5.06 EUR
 currency: EUR

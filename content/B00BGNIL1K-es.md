@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BGNIL1K-es Lancaster Gel y jabón - 250 gr.'
+sku: 'B00BGNIL1K-es'
 tags: [ 'jabón', ]
 actualPrice: 2.98 EUR
 currency: EUR

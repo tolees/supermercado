@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA02RKS-es Ballantine s Finest Whisky Escocés de Mezcla - 700 ml'
+sku: 'B00XA02RKS-es'
 tags: [ 'whisky', ]
 actualPrice: 10.66 EUR
 currency: EUR

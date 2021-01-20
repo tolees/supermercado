@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002C67IBO-es Tork 560008 - Dispensador de jabón líquido 1 l color negro'
+sku: 'B002C67IBO-es'
 tags: [ 'jabón', ]
 actualPrice: 27.99 EUR
 currency: EUR

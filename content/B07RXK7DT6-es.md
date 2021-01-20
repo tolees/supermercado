@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXK7DT6-es Johnson s Baby Champú Familiar Clásico 750 ml - Lot de 3'
+sku: 'B07RXK7DT6-es'
 tags: [ 'champú', ]
 actualPrice: 9.87 EUR
 currency: EUR

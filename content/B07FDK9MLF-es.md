@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDK9MLF-es Mimosin Intense Explosión de Frescor Perlas de fragancia...'
+sku: 'B07FDK9MLF-es'
 tags: [ 'mimosin', ]
 actualPrice: 17.8 EUR
 currency: EUR

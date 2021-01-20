@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CP9IXSE-es Haribo Relleno Cola Geles Dulces - 1500 gr'
+sku: 'B01CP9IXSE-es'
 tags: [ 'haribo', ]
 actualPrice: 7.67 EUR
 currency: EUR

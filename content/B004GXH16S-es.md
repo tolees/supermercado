@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004GXH16S-es Maybelline Superstay 24h 150 Delicious Pink - barras de...'
+sku: 'B004GXH16S-es'
 tags: [ 'maybelline', ]
 actualPrice: 6.75 EUR
 currency: EUR

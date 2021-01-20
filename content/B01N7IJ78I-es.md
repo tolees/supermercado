@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7IJ78I-es Air Wick Ambientador Eléctrico Recambio Duplo Delicias de...'
+sku: 'B01N7IJ78I-es'
 tags: [ 'air','wick', ]
 actualPrice: None None
 currency: None

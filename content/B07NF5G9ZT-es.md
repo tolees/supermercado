@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NF5G9ZT-es Barritas Proteicas 100% Naturales de Avicenna | Sin Soja |...'
+sku: 'B07NF5G9ZT-es'
 tags: [ 'soja','chocolate','sin','gluten', ]
 actualPrice: 18.99 EUR
 currency: EUR

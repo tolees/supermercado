@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4F2VKD-es Handheld eléctrico Café Leche batidor de huevo Batir...'
+sku: 'B07P4F2VKD-es'
 tags: [ 'café', ]
 actualPrice: 2.7 EUR
 currency: EUR

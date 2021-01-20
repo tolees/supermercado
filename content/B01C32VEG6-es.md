@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C32VEG6-es Gillette Sensor Excel - Recambio De Maquinilla De Afeitar...'
+sku: 'B01C32VEG6-es'
 tags: [ 'gillette', ]
 actualPrice: 7.95 EUR
 currency: EUR

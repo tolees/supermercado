@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCQVFXY-es Dove Men + Care Desodorante Spray Invisible Dry –...'
+sku: 'B07VCQVFXY-es'
 tags: [ 'desodorante','dove', ]
 actualPrice: 7.43 EUR
 currency: EUR

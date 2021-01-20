@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EPYJ0Y-es Scitec Nutrition 100% Whey Protein Professional Proteína...'
+sku: 'B004EPYJ0Y-es'
 tags: [ 'chocolate', ]
 actualPrice: 66.98 EUR
 currency: EUR

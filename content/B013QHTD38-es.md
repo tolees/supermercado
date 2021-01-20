@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013QHTD38-es Lámpara de techo de SUNSBELL®. Diseño Industrial estilo...'
+sku: 'B013QHTD38-es'
 tags: [ 'café', ]
 actualPrice: 22.99 EUR
 currency: EUR

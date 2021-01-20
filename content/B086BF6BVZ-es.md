@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BF6BVZ-es Bilisder Dispensador Jabon de Espuma Automático Eléctrico...'
+sku: 'B086BF6BVZ-es'
 tags: [ 'jabon','jabón', ]
 actualPrice: 16.99 EUR
 currency: EUR

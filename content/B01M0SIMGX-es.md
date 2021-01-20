@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0SIMGX-es Coca-Cola Sabor Original Lata - 330 ml Pack de 24'
+sku: 'B01M0SIMGX-es'
 tags: [ 'coca-cola', ]
 actualPrice: 13.44 EUR
 currency: EUR

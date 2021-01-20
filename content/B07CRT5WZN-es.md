@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CRT5WZN-es Philips Sonicare ProtectiveClean HX6801/08 - Cepillo de...'
+sku: 'B07CRT5WZN-es'
 tags: [ 'cepillo','de','dientes', ]
 actualPrice: 59.0 EUR
 currency: EUR

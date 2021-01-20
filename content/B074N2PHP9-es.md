@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074N2PHP9-es L Oréal Paris Accord Parfait Base de maquillaje acabado...'
+sku: 'B074N2PHP9-es'
 tags: [ 'oréal', ]
 actualPrice: 6.76 EUR
 currency: EUR

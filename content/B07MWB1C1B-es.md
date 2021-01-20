@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MWB1C1B-es TAHE BLUMIN CHAMPU JENGIBRE Y LIMON 1000ML'
+sku: 'B07MWB1C1B-es'
 tags: [ 'champu','jengibre', ]
 actualPrice: 10.62 EUR
 currency: EUR

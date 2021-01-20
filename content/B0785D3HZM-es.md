@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0785D3HZM-es Tasty Bone Bovino para Asar y Vino Tinto pequeño'
+sku: 'B0785D3HZM-es'
 tags: [ 'vino','tinto', ]
 actualPrice: 7.09 EUR
 currency: EUR

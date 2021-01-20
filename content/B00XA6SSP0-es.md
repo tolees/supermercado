@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA6SSP0-es WiPP Express Detergente en Polvo - 80 Lavados 5 2 Kg'
+sku: 'B00XA6SSP0-es'
 tags: [ 'detergente', ]
 actualPrice: 12.12 EUR
 currency: EUR

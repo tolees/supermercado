@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RYL67T-es Ensaimadas Mallorquinas Rellenas - Pack 3 Unidades -...'
+sku: 'B081RYL67T-es'
 tags: [ 'sobrasada','chocolate', ]
 actualPrice: 34.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007Y5S4VG-es NESCAFÉ Dolce Gusto Espresso Bonka | Cápsulas de Café - 16...'
+sku: 'B007Y5S4VG-es'
 tags: [ 'café','nescafé','cápsulas','de','café','dolce','gusto', ]
 actualPrice: 5.15 EUR
 currency: EUR

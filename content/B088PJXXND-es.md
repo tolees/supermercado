@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088PJXXND-es Puleva Max Leche Blanca de Crecimiento Y Desarrollo - 10...'
+sku: 'B088PJXXND-es'
 tags: [ 'puleva', ]
 actualPrice: 12.5 EUR
 currency: EUR

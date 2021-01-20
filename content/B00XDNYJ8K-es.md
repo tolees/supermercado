@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XDNYJ8K-es Lindt - Lindor Leche Singles 100 g'
+sku: 'B00XDNYJ8K-es'
 tags: [ 'lindt', ]
 actualPrice: 1.79 EUR
 currency: EUR

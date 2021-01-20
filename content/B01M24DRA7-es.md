@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M24DRA7-es Fairy Ultra - Líquido lavavajillas 1015 ml'
+sku: 'B01M24DRA7-es'
 tags: [ 'fairy', ]
 actualPrice: 3.18 EUR
 currency: EUR

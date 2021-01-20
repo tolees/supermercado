@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078ZZRGK7-es TRESemmé Champú Botanique Macadamia - Paquete de 3 x 700...'
+sku: 'B078ZZRGK7-es'
 tags: [ 'champú','tresemmé', ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8LWDJ8-es Skip Cápsulas Ultimate Poder KH7 22 +2 lavados gratis'
+sku: 'B07S8LWDJ8-es'
 tags: [ 'kh7', ]
 actualPrice: 6.25 EUR
 currency: EUR

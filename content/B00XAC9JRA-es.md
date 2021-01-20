@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAC9JRA-es Dove Desodorante Original Roll On 50 Ml'
+sku: 'B00XAC9JRA-es'
 tags: [ 'desodorante','dove', ]
 actualPrice: 1.75 EUR
 currency: EUR

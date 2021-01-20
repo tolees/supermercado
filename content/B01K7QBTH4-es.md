@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7QBTH4-es Azucarera Azúcar Blanco - 1000 g'
+sku: 'B01K7QBTH4-es'
 tags: [ 'azúcar', ]
 actualPrice: None None
 currency: None

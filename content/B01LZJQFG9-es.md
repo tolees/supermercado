@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZJQFG9-es Colgate Max White One Pasta Dentífrica - 75 ml'
+sku: 'B01LZJQFG9-es'
 tags: [ 'colgate','dentífrica', ]
 actualPrice: 1.49 EUR
 currency: EUR

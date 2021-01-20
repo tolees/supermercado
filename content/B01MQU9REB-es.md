@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQU9REB-es Chorizo Herradura No Picante Embutidos Ezequiel 500 gramos'
+sku: 'B01MQU9REB-es'
 tags: [ 'chorizo', ]
 actualPrice: 5.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJRYSTF-es LUCIFER S ROAST Espresso de KIQO de Italia - 1kg café...'
+sku: 'B07HJRYSTF-es'
 tags: [ 'café', ]
 actualPrice: 15.96 EUR
 currency: EUR

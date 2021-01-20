@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA1RJWI-es Café FORTALEZA - Café en Grano Natural - 1 kg'
+sku: 'B00XA1RJWI-es'
 tags: [ 'café','fortaleza', ]
 actualPrice: 9.99 EUR
 currency: EUR

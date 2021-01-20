@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM5Z67L-es Oral-B Dentífrico Pro Expert Blancura Saludable - 75 ml'
+sku: 'B07MM5Z67L-es'
 tags: [ 'dentífrico', ]
 actualPrice: 2.92 EUR
 currency: EUR

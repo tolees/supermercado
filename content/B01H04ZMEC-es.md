@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H04ZMEC-es Vegetalia Canela en Rama - 80 gr'
+sku: 'B01H04ZMEC-es'
 tags: [ 'canela', ]
 actualPrice: 3.26 EUR
 currency: EUR

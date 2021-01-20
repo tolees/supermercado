@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BBW9OAC-es Caffè Borbone Cápsulas de café - 100 Cápsulas'
+sku: 'B01BBW9OAC-es'
 tags: [ 'café','cápsulas','de','café', ]
 actualPrice: 16.0 EUR
 currency: EUR

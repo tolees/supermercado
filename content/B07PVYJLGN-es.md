@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVYJLGN-es Maybelline New York - Superstay Matte Ink Pintalabios Mate...'
+sku: 'B07PVYJLGN-es'
 tags: [ 'maybelline', ]
 actualPrice: 7.95 EUR
 currency: EUR

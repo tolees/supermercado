@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001GLID4M-es Jack Daniels Single Barrel Whisky - 700 ml'
+sku: 'B001GLID4M-es'
 tags: [ 'whisky', ]
 actualPrice: 31.35 EUR
 currency: EUR

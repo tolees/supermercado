@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008BH9DMU-es Gillette Mach 3 - Cuchillas de recambio para maquinilla de...'
+sku: 'B008BH9DMU-es'
 tags: [ 'gillette', ]
 actualPrice: 12.92 EUR
 currency: EUR

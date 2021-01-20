@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085VLNJ2Y-es LA BELLEFÉE Velas de citronela 100% Cera de Soja Velas de...'
+sku: 'B085VLNJ2Y-es'
 tags: [ 'soja', ]
 actualPrice: 18.99 EUR
 currency: EUR

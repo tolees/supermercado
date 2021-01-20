@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB4XRSC-es Flor Revive Floral - Suavizante para la Ropa 8 x 1.2L'
+sku: 'B07VB4XRSC-es'
 tags: [ 'suavizante', ]
 actualPrice: 22.99 EUR
 currency: EUR

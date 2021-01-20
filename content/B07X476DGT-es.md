@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X476DGT-es Mentos Chicle Sin Azúcar Full Fruit Bote con Sabor a...'
+sku: 'B07X476DGT-es'
 tags: [ 'azúcar','mentos', ]
 actualPrice: 1.0 EUR
 currency: EUR

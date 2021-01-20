@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LF75KM-es Purina Gourmet Gold Mousse comida para gatos Surtido 12 x...'
+sku: 'B072LF75KM-es'
 tags: [ 'purina', ]
 actualPrice: 36.14 EUR
 currency: EUR

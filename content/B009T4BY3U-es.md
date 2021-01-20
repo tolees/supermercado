@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009T4BY3U-es Master s - Ginebra - 700 ml'
+sku: 'B009T4BY3U-es'
 tags: [ 'ginebra', ]
 actualPrice: 12.6 EUR
 currency: EUR

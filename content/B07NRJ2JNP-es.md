@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRJ2JNP-es Gliss - Acondicionador Express Fiber Therapy - Sin...'
+sku: 'B07NRJ2JNP-es'
 tags: [ 'acondicionador','schwarzkopf', ]
 actualPrice: 5.96 EUR
 currency: EUR

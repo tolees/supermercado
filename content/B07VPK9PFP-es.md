@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPK9PFP-es Ruavieja Licor de Hierbas - 1000 ml'
+sku: 'B07VPK9PFP-es'
 tags: [ 'ruavieja', ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ET9UNZO-es Señorio de los Llanos Gran Reserva - Vino Tinto D.O...'
+sku: 'B01ET9UNZO-es'
 tags: [ 'vino','tinto', ]
 actualPrice: 16.5 EUR
 currency: EUR

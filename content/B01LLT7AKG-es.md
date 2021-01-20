@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LLT7AKG-es NYK1 Champu Sin Sulfatos Y Acondicionador - Champu Sin...'
+sku: 'B01LLT7AKG-es'
 tags: [ 'acondicionador','champu', ]
 actualPrice: 29.96 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ZAB5XS-es Shunga Pintura Corporal Aroma de Chocolate Blanco y...'
+sku: 'B003ZAB5XS-es'
 tags: [ 'chocolate', ]
 actualPrice: 11.51 EUR
 currency: EUR

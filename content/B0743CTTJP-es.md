@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0743CTTJP-es Iberitos - 18 Monodosis de Queso Crema - 22 Gramos'
+sku: 'B0743CTTJP-es'
 tags: [ 'queso', ]
 actualPrice: 5.04 EUR
 currency: EUR

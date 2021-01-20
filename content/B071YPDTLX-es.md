@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071YPDTLX-es Ultrawhite Miele Detergente Lavadora para blancos Cod...'
+sku: 'B071YPDTLX-es'
 tags: [ 'detergente', ]
 actualPrice: 19 EUR
 currency: EUR

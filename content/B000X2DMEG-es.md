@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000X2DMEG-es American Crew Pomada de fijación fijación media / brillo...'
+sku: 'B000X2DMEG-es'
 tags: [ 'american','crew', ]
 actualPrice: 10.9 EUR
 currency: EUR

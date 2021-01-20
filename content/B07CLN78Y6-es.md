@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLN78Y6-es Diadermine - Lift+ Hidratante crema de día - 50ml y Lift+...'
+sku: 'B07CLN78Y6-es'
 tags: [ 'diadermine', ]
 actualPrice: 9.99 EUR
 currency: EUR

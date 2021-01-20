@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007Z9P1XU-es Lavazza A Modo Mio Passionale antes Appassionatamente...'
+sku: 'B007Z9P1XU-es'
 tags: [ 'café','lavazza','cápsulas','de','café', ]
 actualPrice: 27.4 EUR
 currency: EUR

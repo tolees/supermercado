@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXLMKEQ-es Lavazza Café Molido Espresso Club 100% Arábica Paquete de...'
+sku: 'B01MXLMKEQ-es'
 tags: [ 'café','lavazza', ]
 actualPrice: 12.3 EUR
 currency: EUR

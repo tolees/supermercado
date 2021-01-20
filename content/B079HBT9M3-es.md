@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079HBT9M3-es Philips Cepillo dental eléctrico sónico HX6870/47 -...'
+sku: 'B079HBT9M3-es'
 tags: [ 'cepillo','de','dientes', ]
 actualPrice: 111.75 EUR
 currency: EUR

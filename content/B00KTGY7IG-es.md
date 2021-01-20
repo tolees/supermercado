@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KTGY7IG-es Gillette Venus Oceana Maquinillas Desechables Para Mujer -...'
+sku: 'B00KTGY7IG-es'
 tags: [ 'gillette', ]
 actualPrice: 6.0 EUR
 currency: EUR

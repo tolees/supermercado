@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TOAEXXC-es PAVO 8056019 Llaves/Armario/Caja Fuerte AES con Seguridad...'
+sku: 'B00TOAEXXC-es'
 tags: [ 'pavo', ]
 actualPrice: 110.89 EUR
 currency: EUR

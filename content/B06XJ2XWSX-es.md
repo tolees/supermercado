@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XJ2XWSX-es FabQuality Cortador de Verduras Cortador + Pincel + Peeler...'
+sku: 'B06XJ2XWSX-es'
 tags: [ 'zanahorias', ]
 actualPrice: 8.99 EUR
 currency: EUR

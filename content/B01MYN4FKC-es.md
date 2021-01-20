@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYN4FKC-es Hero Baby Trocitos Tarrito de Puré de Espaguetis con...'
+sku: 'B01MYN4FKC-es'
 tags: [ 'jamón','hero','baby', ]
 actualPrice: 6.0 EUR
 currency: EUR

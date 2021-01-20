@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BK4FFHZ-es Automático Touchless Dispensador De Jabón Con Sensor...'
+sku: 'B08BK4FFHZ-es'
 tags: [ 'jabón', ]
 actualPrice: 33.99 EUR
 currency: EUR

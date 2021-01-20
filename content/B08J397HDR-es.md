@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J397HDR-es BNKR BEER Brew&Share | Kit para Hacer Cerveza Red Ale | Tu...'
+sku: 'B08J397HDR-es'
 tags: [ 'cerveza', ]
 actualPrice: 34.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GE3JO4-es Gillette Fusion Power - Recambios de maquinilla de afeitar...'
+sku: 'B000GE3JO4-es'
 tags: [ 'gillette', ]
 actualPrice: 14.11 EUR
 currency: EUR

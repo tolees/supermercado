@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0049O2GAA-es Cragganmore Whisky Escocés - 700 ml'
+sku: 'B0049O2GAA-es'
 tags: [ 'whisky', ]
 actualPrice: 34.99 EUR
 currency: EUR

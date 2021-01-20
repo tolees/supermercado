@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VX6U9DI-es Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15...'
+sku: 'B00VX6U9DI-es'
 tags: [ 'revlon', ]
 actualPrice: 9.87 EUR
 currency: EUR

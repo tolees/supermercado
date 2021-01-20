@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LPLDERE-es L Oréal Paris - Infallible 24H Maquillaje en Polvo...'
+sku: 'B00LPLDERE-es'
 tags: [ 'oréal', ]
 actualPrice: 7.99 EUR
 currency: EUR

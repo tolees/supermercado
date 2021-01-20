@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WR4H2TE-es L Oréal Paris Barra de Labios Color Riche 335'
+sku: 'B00WR4H2TE-es'
 tags: [ 'oréal', ]
 actualPrice: 4.1 EUR
 currency: EUR

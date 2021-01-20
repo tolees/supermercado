@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2DH99G-es Puleva Max Leche Crecimiento y Desarrollo - 3 x 200 ml'
+sku: 'B06Y2DH99G-es'
 tags: [ 'puleva', ]
 actualPrice: 1.0 EUR
 currency: EUR

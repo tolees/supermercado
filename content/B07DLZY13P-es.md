@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLZY13P-es L Oréal Infalible 24 H Matte Cover Base De Maquillaje Alta...'
+sku: 'B07DLZY13P-es'
 tags: [ 'oréal', ]
 actualPrice: 6.95 EUR
 currency: EUR

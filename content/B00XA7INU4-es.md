@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA7INU4-es Campos Conserva de Bonito del norte en escabeche...'
+sku: 'B00XA7INU4-es'
 tags: [ 'conserva','escabeche', ]
 actualPrice: 5.39 EUR
 currency: EUR

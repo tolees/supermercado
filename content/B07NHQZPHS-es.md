@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHQZPHS-es Schmidt s Gel de ducha sólido de bergamota y lima - 142 gr'
+sku: 'B07NHQZPHS-es'
 tags: [ 'gel','de','ducha', ]
 actualPrice: 7.2 EUR
 currency: EUR

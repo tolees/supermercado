@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJDXVJ5-es Un Air d’Antan® Caja Belleza Provence Mujer 1 Jabon 100g 1...'
+sku: 'B07HJDXVJ5-es'
 tags: [ 'jabon', ]
 actualPrice: 31.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003R7K5DK-es Smint Tabs Menta Caramelo Comprimido sin Azúcar - 12...'
+sku: 'B003R7K5DK-es'
 tags: [ 'azúcar','smint', ]
 actualPrice: 14.65 EUR
 currency: EUR

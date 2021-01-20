@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D08SVV4-es Sanytol Spray Limpiador Desinfectante Multiusos Todas las...'
+sku: 'B00D08SVV4-es'
 tags: [ 'sanytol', ]
 actualPrice: 2.34 EUR
 currency: EUR
@@ -26,10 +27,10 @@ Tienes [Sanytol Spray Limpiador Desinfectante Multiusos  Todas las Superficies -
 
 🔎:
 
-- Ideal para desinfectar incluso las zonas de bebés o mascotas.
-- Eficaz contra bacterias y hongos, responsables de la formación del moho. Elimina sin esfuerzo la cal y la suciedad.
-- Elimina el 99,9% de los gérmenes, neutralizando los alérgenos más comunes del hogar como los ácaros del polvo, los gatos, esporas de moho y el polen.
 - Limpia y desinfecta SIN LEJÍA y de una sola pasada todo tipo de superficies.
+- Elimina el 99,9% de los gérmenes, neutralizando los alérgenos más comunes del hogar como los ácaros del polvo, los gatos, esporas de moho y el polen.
+- Eficaz contra bacterias y hongos, responsables de la formación del moho. Elimina sin esfuerzo la cal y la suciedad.
+- Ideal para desinfectar incluso las zonas de bebés o mascotas.
 - Deja un agradable perfume a limpio.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00D08SVV4/?tag=tolees-21)

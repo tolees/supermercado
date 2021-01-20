@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M6WIOF5-es Renova Rollo de Cocina - 3 Rollos'
+sku: 'B01M6WIOF5-es'
 tags: [ 'renova', ]
 actualPrice: 2.29 EUR
 currency: EUR

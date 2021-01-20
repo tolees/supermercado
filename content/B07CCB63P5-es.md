@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CCB63P5-es Aicook Espumador de Leche Eléctrico Batidor de Leche...'
+sku: 'B07CCB63P5-es'
 tags: [ 'café', ]
 actualPrice: 45.99 EUR
 currency: EUR

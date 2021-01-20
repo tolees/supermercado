@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZG43FGR-es Fairy Profesional Lavavajillas Líquido Fast Clean - 10L...'
+sku: 'B07ZG43FGR-es'
 tags: [ 'fairy', ]
 actualPrice: 23.98 EUR
 currency: EUR

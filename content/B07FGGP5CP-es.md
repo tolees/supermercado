@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FGGP5CP-es Diadermine Expert Rejuvenecedor crema de día crema de...'
+sku: 'B07FGGP5CP-es'
 tags: [ 'diadermine', ]
 actualPrice: 16.17 EUR
 currency: EUR

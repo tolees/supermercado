@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JCD17QN-es Syoss Champú para Volumen 0% Siliconas - 500ml'
+sku: 'B07JCD17QN-es'
 tags: [ 'champú', ]
 actualPrice: 2.0 EUR
 currency: EUR

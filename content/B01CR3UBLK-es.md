@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CR3UBLK-es Café FORTALEZA - Café en Grano Mezcla 50/50 - 1 kg'
+sku: 'B01CR3UBLK-es'
 tags: [ 'café','fortaleza', ]
 actualPrice: 10.34 EUR
 currency: EUR

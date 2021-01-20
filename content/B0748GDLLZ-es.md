@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748GDLLZ-es Haribo Dragibus - 2000 gr'
+sku: 'B0748GDLLZ-es'
 tags: [ 'haribo', ]
 actualPrice: 5.82 EUR
 currency: EUR

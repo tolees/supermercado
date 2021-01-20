@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081SGSCG9-es GoMaihe Tarro de Vidrio de Almacenamiento 3Pcs Tarros de...'
+sku: 'B081SGSCG9-es'
 tags: [ 'café','conservas', ]
 actualPrice: 23.69 EUR
 currency: EUR

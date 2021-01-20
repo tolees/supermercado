@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L98PSXU-es Mustela - Gel dermolimpiador lavante sin jabón cabello y...'
+sku: 'B01L98PSXU-es'
 tags: [ 'jabón', ]
 actualPrice: 9.9 EUR
 currency: EUR
