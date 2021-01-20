@@ -26,9 +26,9 @@ Tienes [Elizabeth Arden True Love Colonia - 100 ml](https://www.amazon.es/dp/B00
 
 🔎:
 
-- Notas de fondo: sándalo, ámbar, vainilla y cedro
-- Notas de corazón: iris, raíz de lirio, jazmín, heliotropo, lirio de los valles y rosa
 - Es una fragancia de la familia olfativa Oriental Floral para mujeres
+- Notas de fondo: sándalo, ámbar, vainilla y cedro
 - Notas de salida: chabacano, notas verdes, fresia y durazno
+- Notas de corazón: iris, raíz de lirio, jazmín, heliotropo, lirio de los valles y rosa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0009OAISQ/?tag=tolees-21)

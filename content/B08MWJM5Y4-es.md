@@ -26,10 +26,10 @@ Tienes [San Jamón - Cesta Regalo Gourmet Ibérica  Dueñas. Chorizo y Salchich�
 
 🔎:
 
-- Una deliciosa selección de productos gourmet ibéricos
-- Chorizo y Salchichón Ibéricos
-- Cesta de Productos Gourmet
 - El regalo perfecto para esta Navidad
+- Cesta de Productos Gourmet
+- Chorizo y Salchichón Ibéricos
 - Disfruta de los mejores jamones y embutidos ibéricos de San Jamón
+- Una deliciosa selección de productos gourmet ibéricos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MWJM5Y4/?tag=tolees-21)
