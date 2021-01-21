@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Cesta navidad con vino Habla de la Tierr al 0.00 % de rebaja'
-date: 2021-01-19 06:06:15
+date: 2021-01-21 06:32:46
 image: 'https://m.media-amazon.com/images/I/51sGa718ujL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077DGPM9R-es'
+slug: 'B077DGPM9R-es Cesta navidad con vino Habla de la Tierra paté al Pedro...'
+sku: 'B077DGPM9R-es'
+tags: [ 'mermelada','paté', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95
@@ -25,10 +27,10 @@ Tienes [Cesta navidad con vino Habla de la Tierra  paté al Pedro Ximenez  paté
 
 🔎:
 
-- 1 mermelada extra de tomate sin azúcar de 280 g.
+- 1 funda con asa (anchura: 9 x longitud: 29 x 33 cm).
 - 1 botella de vino tinto envejecido Habla de la Tierra 75 cl.
 - 1 x Cachueka Estremadura iberitos 250 g; 1 x Pasta de perdrix del monte iberitos.
+- 1 mermelada extra de tomate sin azúcar de 280 g.
 - 1 paté de ciervo de pedro Ximenez La chinata 120 gr; 1 paté de langosta de la Chinata de 120 g.
-- 1 funda con asa (anchura: 9 x longitud: 29 x 33 cm).
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077DGPM9R/?tag=tolees-21)

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Conservas Dantza Melocotón - 840 gr al 0.00 % de rebaja'
-date: 2021-01-20 06:21:19
+date: 2021-01-21 06:35:15
 image: 'https://m.media-amazon.com/images/I/51bf1dTDuUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01LYW9VFF-es Conservas Dantza Melocotón - 840 gr'
+sku: 'B01LYW9VFF-es'
 tags: [ 'conservas','melocotón', ]
 actualPrice: 1.99 EUR
 currency: EUR
