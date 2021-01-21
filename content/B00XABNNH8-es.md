@@ -27,11 +27,11 @@ En este momento está [FOXY COCINA MAXI L-2 AMARILLO](https://www.amazon.es/dp/B
 
 🔎:
 
-- Resistencia y Absorción
-- 1 ud. tiene 2 rollos de cocina
 - Papel Cocina 2 capas
 - Cartapaglia
-- Recomendado para fritos
 - Decorado
+- 1 ud. tiene 2 rollos de cocina
+- Resistencia y Absorción
+- Recomendado para fritos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XABNNH8/?tag=tolees-21)

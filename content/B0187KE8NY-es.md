@@ -27,10 +27,10 @@ En este momento está [Revlon Volume+Length Magnified Máscara de Pestañas  #30
 
 🔎:
 
-- Cepillo de cerdas escalonadas diseñadas para definir y separar cada pestaña
-- Tecnología Revlon Lash Separator Brush
-- Para más volumen, agregue una segunda capa
 - Cantidad por paquete: 1 pieza
+- Tecnología Revlon Lash Separator Brush
 - Producto con fórmula suave y ligera
+- Para más volumen, agregue una segunda capa
+- Cepillo de cerdas escalonadas diseñadas para definir y separar cada pestaña
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0187KE8NY/?tag=tolees-21)

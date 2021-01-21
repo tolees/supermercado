@@ -27,11 +27,11 @@ Tienes [Bonka - Café Molido  250 g](https://www.amazon.es/dp/B08GGX5D4N/?tag=to
 
 🔎:
 
-- BONKA es un café cumple con todos los estándares de sostenibilidad definidos en el Código de Conducta 4C
-- Allí crecen los mejores granos de Robusta, más estimulantes, y con fuerza, y de Arábica, más delicados y suaves
-- En BONKA, buscamos y seleccionamos el café en el lugar donde confluyen las condiciones idóneas para su cultivo, y ese lugar es el TRÓPICO Allí crecen los mejores granos de Robusta, más estimulantes y con fuerza, y de Arábica, más delicados y suaves
-- BONKA es el café óptimo para cualquier momento del día: desayuno, sobremesa o una pausa
 - Café recomendado para cafetera italiana, de filtro y express
+- Allí crecen los mejores granos de Robusta, más estimulantes, y con fuerza, y de Arábica, más delicados y suaves
+- BONKA es un café cumple con todos los estándares de sostenibilidad definidos en el Código de Conducta 4C
+- BONKA es el café óptimo para cualquier momento del día: desayuno, sobremesa o una pausa
+- En BONKA, buscamos y seleccionamos el café en el lugar donde confluyen las condiciones idóneas para su cultivo, y ese lugar es el TRÓPICO Allí crecen los mejores granos de Robusta, más estimulantes y con fuerza, y de Arábica, más delicados y suaves
 - Con BONKA, no renuncias a disfrutar del auténtico carácter del café, la intensidad y el aroma que el trópico aporta a cada taza
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GGX5D4N/?tag=tolees-21)

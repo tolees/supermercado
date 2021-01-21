@@ -27,7 +27,7 @@ Está [ADIDAS desodorante fresh roll on 50 ml](https://www.amazon.es/dp/B00G046H
 
 ℹ️:
 
-- Hasta 48 h de protección contra la humedad y el olor
 - Con una fórmula Cool & Dry desarrollada con atletas para proporcionar una sensación inmediata de frescura en cada aplicación.
+- Hasta 48 h de protección contra la humedad y el olor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00G046HIY/?tag=tolees-21)
