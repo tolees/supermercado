@@ -27,10 +27,10 @@ En este momento está [REVLON Super Lustrous - Pintalabios](https://www.amazon.e
 
 🔎:
 
+- Se desliza fácilmente sobre los labios para ofrecer un acabado mate, aplicación de color uniforme para una apariencia distintiva y luminosa duradera
 - Color y cobertura perfecta, excelente hidratación y comodidad, protege contra las agresiones externas
 - Su fórmula protectora hidrata continuamente, proporcionando un confort absoluto todo el día sin secar la delicada epidermis de los labios
-- Se desliza fácilmente sobre los labios para ofrecer un acabado mate, aplicación de color uniforme para una apariencia distintiva y luminosa duradera
-- Su sedosa textura ultra cubriente es una maravilla de suavidad a la aplicación
 - Enriquecido con vitaminas A y E, proporciona una hidratación continua para labios suaves y aterciopelados
+- Su sedosa textura ultra cubriente es una maravilla de suavidad a la aplicación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003HLMXOA/?tag=tolees-21)
