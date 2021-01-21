@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bimbo  Dulce de chocolate - 188 g con un 6.03 % de descuento'
-date: 2020-10-09 12:24:03
+date: 2021-01-21 00:40:42
 image: 'https://m.media-amazon.com/images/I/51Qdtz-9vdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,5 +27,8 @@ En este momento está [Bimbo  Dulce de chocolate - 188 g](https://www.amazon.es/
 
 🔎:
 
+- Bimbo Little Bites Pepitas de Chocolate
+- Mantener en lugar fresco y seco
+- Su formato es ideal para llevar a donde tú quieras
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ND1SFX3/?tag=tolees-21)

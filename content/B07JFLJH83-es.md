@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Cestas de Navidad - Lotes de Navidad - L con un 0.00 % de descuento'
-date: 2021-01-20 00:31:51
+date: 2021-01-21 00:59:47
 image: 'https://m.media-amazon.com/images/I/51o8Fi1xM-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07JFLJH83-es Cestas de Navidad - Lotes de Navidad - Lote de Embutidos y...'
+sku: 'B07JFLJH83-es'
 tags: [ 'queso', ]
 actualPrice: 34.95 EUR
 currency: EUR
@@ -26,7 +27,7 @@ En este momento está [Cestas de Navidad - Lotes de Navidad - Lote de Embutidos 
 
 🔎:
 
-- Pueblo
 - Artesano
+- Pueblo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JFLJH83/?tag=tolees-21)

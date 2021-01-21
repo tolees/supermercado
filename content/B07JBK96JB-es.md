@@ -27,8 +27,8 @@ Está [iWhite Instant Teeth Whitening Charcoal Infused - Repuesto de cabezas de 
 
 ℹ️:
 
-- BRISTAS DE CARBÓN ÚNICAS - Trabaje como un imán, atrapando y eliminando manchas en los dientes para darle una hermosa sonrisa blanca.
 - COMPRAR CON CONFIANZA: iWhite es una marca bien establecida, con la confianza de clientes de todo el mundo. Ofrecemos una garantía de reembolso.
+- BRISTAS DE CARBÓN ÚNICAS - Trabaje como un imán, atrapando y eliminando manchas en los dientes para darle una hermosa sonrisa blanca.
 - CABEZAS DE REPUESTO: cabezas de repuesto electrónicas para cepillos de dientes Diseñadas para ser utilizadas con el cepillo de dientes iWhite Sonic.
 - INGREDIENTES CLÍNICAMENTE PROBADOS - Formulados por líderes del mercado en innovación para el cuidado dental. Creado por uno de los principales fabricantes de Europa.
 - 40,000 VIBRACIONES POR MINUTO: diseñado para vibrar a 40,000 vibraciones por minuto, cuando se usa con el cepillo de dientes iWhite Sonic como cabezas de repuesto.

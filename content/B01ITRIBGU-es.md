@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana - Leche Semide al 0.00 % de descuento'
-date: 2021-01-20 00:13:58
+date: 2021-01-21 00:52:24
 image: 'https://m.media-amazon.com/images/I/51xMCCPQLcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01ITRIBGU-es Central Lechera Asturiana - Leche Semidesnatada Brik 1L...'
+sku: 'B01ITRIBGU-es'
 tags: [ 'central','lechera', ]
 actualPrice: 11.83 EUR
 currency: EUR
@@ -17,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ITRIBGU/?tag=tolees-21'
 descuento: '0.00'
-average: '11.710561797752803'
+average: '11.711888888888883'
 ---
 
 Está [Central Lechera Asturiana - Leche Semidesnatada Brik 1L  Pack 6 ](https://www.amazon.es/dp/B01ITRIBGU/?tag=tolees-21) con 0.00 de descuento por 11.83 EUR (original:  EUR) en el siguiente enlace!
@@ -26,8 +27,8 @@ Está [Central Lechera Asturiana - Leche Semidesnatada Brik 1L  Pack 6 ](https:/
 
 ℹ️:
 
-- Leche UHT
 - Tradicional
 - Semidesnatada
+- Leche UHT
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ITRIBGU/?tag=tolees-21)
