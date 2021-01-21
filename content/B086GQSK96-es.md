@@ -27,10 +27,10 @@ Está [Pasticceria Passerini dal 1919 Conserva de berenjenas en Aceite con Menta
 
 ℹ️:
 
-- Deliciosas tiras de berenjenas sumergidas en aceite de oliva con un toque de guindilla y menta 🌿🌶️
-- 1,7 kg ❗Origen: Treviso (Italia)
-- Producción artesanal certificada "Biodiversity Friend" ♻️
-- Sírvelas como aperitivo, para acompañar platos de carne y pescado e incluso para aderezar sándwiches
 - Valor nutricional por 100 gr: 65 kcal, 3,8 gr carbohidratos, de los cuales 3,8 gr son azúcares
+- Producción artesanal certificada "Biodiversity Friend" ♻️
+- 1,7 kg ❗Origen: Treviso (Italia)
+- Sírvelas como aperitivo, para acompañar platos de carne y pescado e incluso para aderezar sándwiches
+- Deliciosas tiras de berenjenas sumergidas en aceite de oliva con un toque de guindilla y menta 🌿🌶️
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086GQSK96/?tag=tolees-21)

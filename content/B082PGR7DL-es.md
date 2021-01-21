@@ -28,9 +28,9 @@ Ahora mismo tienes [Neutrex Lejía Frescor Verde - 1800 ml](https://www.amazon.e
 🔎:
 
 - Su perfume fresco consigue suavizar el olor para una aplicación más agradable
+- Garantiza la higiene perfecta de toda la colada y del hogar
 - Actúa directamente sobre las manchas y las elimina con facilidad
 - Su fórmula con fibroprotectores protege tus tejidos para que tu ropa dure más
 - Devuelve en cada lavado la blancura del primer día.
-- Garantiza la higiene perfecta de toda la colada y del hogar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082PGR7DL/?tag=tolees-21)
