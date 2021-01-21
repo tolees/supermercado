@@ -27,10 +27,10 @@ Tienes [Catunambú Café Frío Latte  x 12 ud](https://www.amazon.es/dp/B08CLJ7X
 
 🔎:
 
+- Ingredientes: bebida láctea de café
+- País de origen: España
 - Alérgenos: Leche
 - se puede conservar en ambiente
 - consumir muy frío
-- Ingredientes: bebida láctea de café
-- País de origen: España
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CLJ7X29/?tag=tolees-21)

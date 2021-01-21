@@ -27,9 +27,9 @@ Tienes [Aldem Gel Hidroalcohólico Arbasy 500 ml  L3-60 ](https://www.amazon.es/
 
 🔎:
 
-- Fabricado por laboratorio con amplia experiencia en el desarrollo de productos en el campo de la cosmética e higiene personal
-- Diseño funcional
 - Su uso asegura una limpieza e higiene en profundidad sin necesidad de agua ni secado
+- Diseño funcional
 - Eficaz para la desinfección de manos de forma cómoda
+- Fabricado por laboratorio con amplia experiencia en el desarrollo de productos en el campo de la cosmética e higiene personal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0859MWQCT/?tag=tolees-21)

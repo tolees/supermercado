@@ -27,10 +27,10 @@ Está [Garnier Fructis Tratamiento Liso y Brillo 10 en 1 Crema Sin Aclarado  ind
 
 ℹ️:
 
-- El Tratamiento Liso y Brillo 10 en 1 Alisa, hidrata, aporta brillo, suaviza el pelo al instante y protege la fibra capilar para un liso duradero sin encrespamiento
-- Aplicar una nuez del producto sobre el cabello húmedo o seco, sin aclarar, antes de aplicar la plancha o el secador
 - El compromiso Fructis: fórmulas testadas bajo control dermatológico, envases con un 25% de plástico reciclado, reciclables y producidos en fábricas comprometidas con el desarrollo sostenible
+- Aplicar una nuez del producto sobre el cabello húmedo o seco, sin aclarar, antes de aplicar la plancha o el secador
 - El pack incluye 3 unidades
 - Anti-humedad y anti-encrespamiento sin apelmazar durante 72 horas incluso con un 80% de humedad
+- El Tratamiento Liso y Brillo 10 en 1 Alisa, hidrata, aporta brillo, suaviza el pelo al instante y protege la fibra capilar para un liso duradero sin encrespamiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HZZPJ86/?tag=tolees-21)
