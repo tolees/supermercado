@@ -27,9 +27,9 @@ En este momento está [Gallo - Spaghetti No.3 - 500 grs](https://www.amazon.es/d
 
 🔎:
 
+- La pasta no se pega
 - Advertencia alergénica: contiene trigo, huevo
 - Puede contener trazas de huevo
-- La pasta no se pega
 - Tiempos de cocciónn: 8 minutos al punto, 10 minutos suave
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00LN3CD58/?tag=tolees-21)
