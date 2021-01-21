@@ -27,10 +27,10 @@ Tienes [Dewar s Whisky Escocés 12 años - 700 ml](https://www.amazon.es/dp/B017
 
 🔎:
 
+- Dewars es titular de una Royal Warrant como proveedor oficial de whisky de la Casa Real británica desde 1893, más tiempo que ninguna otra marca de whiskies
 - Con más de 500 medallas en su haber más que ninguna otra destilería de whisky, Dewars es el blended Scotch Whisky más premiado del mundo
 - El blended Scotch Whisky Dewars es conocido por su compromiso con las declaraciones de año de la gama prémium
-- El blended Scotch Whisky Dewars 12 años se somete a un doble envejecimiento que le aporta una suavidad adicional, un proceso iniciado por Dewars
-- Dewars es titular de una Royal Warrant como proveedor oficial de whisky de la Casa Real británica desde 1893, más tiempo que ninguna otra marca de whiskies
 - Blended Scotch Whisky Dewars 12 años “The Ancestor”, presentado en 1954 en honor al fundador John Dewar
+- El blended Scotch Whisky Dewars 12 años se somete a un doble envejecimiento que le aporta una suavidad adicional, un proceso iniciado por Dewars
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B017UTAK4O/?tag=tolees-21)
