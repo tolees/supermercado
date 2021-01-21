@@ -27,9 +27,9 @@ Tienes [Fa - Desodorante Roll-On Fiji Dream - Fragancia de Sandia e ylang ylang 
 
 🔎:
 
-- Deodorant with 48h protection against perspiration
-- Fragrance of Watermelon and Ylang Ylang
-- Fresh tropical scent
 - Ensures up to 24 hours of protection
+- Fresh tropical scent
+- Fragrance of Watermelon and Ylang Ylang
+- Deodorant with 48h protection against perspiration
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Q13HC4G/?tag=tolees-21)
