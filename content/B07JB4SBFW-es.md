@@ -29,7 +29,7 @@ Tienes [Tejero - Conserva de Pescado | Filetes de Caballa en Aceite de Oliva - 5
 
 - España
 - Caballa, aceite de oliva y sal
-- Mantener a temperatura ambiente
 - Pescado
+- Mantener a temperatura ambiente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JB4SBFW/?tag=tolees-21)
