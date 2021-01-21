@@ -27,10 +27,10 @@ Tienes [Mastro Lindo - Detergente multiusos Candegina  Maxi formato 6 unidades d
 
 🔎:
 
-- Perfume fresco de eucalipto.
-- Mastro Lindo - Limpiador 3 en 1 con lejía
-- Limpiador multiusos con lejía.
-- Higiene.
 - Elimina las manchas más difíciles.
+- Perfume fresco de eucalipto.
+- Higiene.
+- Limpiador multiusos con lejía.
+- Mastro Lindo - Limpiador 3 en 1 con lejía
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084PSFFBT/?tag=tolees-21)
