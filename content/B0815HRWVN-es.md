@@ -27,8 +27,8 @@ Tienes [Maxies Galletas Choco Chips Con Pepitas De Chocolate 12 Unidades 100 g](
 
 ℹ️:
 
-- Fabricado en españa
 - Qr para acceder a las láminas con todos los adhesivos existentes.
+- Fabricado en españa
 - Ideales para llevar contigo y consumir en cualquier momento del día.
 - Premium: 1 adhesivo de regalo. Hay 51 diferentes.
 - Galletas choco chips superzings serie 4 con pepitas de chocolate. Sin aceite de palma.
