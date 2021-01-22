@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Cesta de productos gourmet para Navidad '
-date: 2021-01-20 12:29:19
+date: 2021-01-22 05:45:51
 image: 'https://m.media-amazon.com/images/I/51gYRwVqITL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07JFSRRJ5-es Cesta de productos gourmet para Navidad con aceite de...'
+sku: 'B07JFSRRJ5-es'
 tags: [ 'mermelada','queso','aceite','de','oliva','paté','virgen','extra', ]
 actualPrice: 14.95 EUR
 currency: EUR
@@ -28,8 +29,8 @@ Tienes [Cesta de productos gourmet para Navidad con aceite de oliva virgen extra
 
 - pasto decorativo y caja con frase
 - 1 x Aceite de oliva virgen extra La Chinata 250 ml (cristal)
-- 1 x Mermelada 120 g Deliex. (Cristal)
 - 1 x Crema de queso de 110 g (Cristal)
+- 1 x Mermelada 120 g Deliex. (Cristal)
 - 1 x paté ibérico de 30 g formato mini
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07JFSRRJ5/?tag=tolees-21)
