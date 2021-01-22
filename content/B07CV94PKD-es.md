@@ -30,7 +30,7 @@ Tienes [Eukanuba Comida seca para perros viejos de razas grandes con pollo 3 kg]
 - Glucosamina y condroitina para ayudar a mantener las articulaciones sanas y la movilidad. Calcio para ayudar a mantener sus huesos fuertes
 - Vitaminas E y C antioxidantes para ayudar al sistema inmune
 - Prebióticos FOS y pulpa de remolacha para favorecer una digestión saludable
-- Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos
 - L-carnitina para controlar el peso; Sin sabores artificiales, sin colorantes, sin OGM
+- Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CV94PKD/?tag=tolees-21)

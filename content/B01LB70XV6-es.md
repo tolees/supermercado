@@ -27,9 +27,9 @@ Está [Holle Papilla de Muesli Multicereales con Maíz  +10 meses  - Paquete de 
 
 ℹ️:
 
-- Envasado en atmosfera protectora
 - Alérgenos: gluten
 - Mantener en un lugar fresco y seco
 - Fabricado en Alemania con ingredientes de la UE
+- Envasado en atmosfera protectora
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LB70XV6/?tag=tolees-21)

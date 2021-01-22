@@ -27,9 +27,9 @@ Tienes [Micolor Detergente Gel Adiós al Separar 30 Lavados - Pack de 4  Total 1
 
 🔎:
 
+- Elimina la suciedad
 - Protege los colores
 - Experto en color
-- Elimina la suciedad
 - Evita la transferencias de color de una prenda a otra
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083P9KVLD/?tag=tolees-21)
