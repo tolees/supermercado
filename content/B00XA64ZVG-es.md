@@ -27,11 +27,11 @@ Tienes [Dixan Detergente Lavadora Líquido Total - 75 Lavados  3.75 L ](https://
 
 🔎:
 
-- Luminosidad para todo tipo de ropa: Blancos y Colores
-- Mantener en un lugar fresco y seco
-- Ayuda a prevenir la transferencia de colores
 - Eliminación de manchas: elimina las manchas de la ropa
 - Su fórmula permite lavar toda la ropa de color sin separar
 - Olor fresco y duradero: tecnología que mantiene la ropa fresca incluso tras 12h dentro de la lavadora
+- Luminosidad para todo tipo de ropa: Blancos y Colores
+- Mantener en un lugar fresco y seco
+- Ayuda a prevenir la transferencia de colores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XA64ZVG/?tag=tolees-21)

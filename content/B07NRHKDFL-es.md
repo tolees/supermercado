@@ -27,9 +27,9 @@ Ahora mismo tienes [Licor del Polo - Dentífrico Junior 1-6 años - Protege y fo
 
 🔎:
 
-- Adecuado para cepillar los dientes 2 veces al día durante 2-3 minutos
 - Contiene la cantidad de flúor de 500 ppm recomendada por dentistas
 - La formula con calcio+ ayuda a proteger y fortalecer los dientes de leche y crear la base para unos dientes sanos
 - Edad recomendada de 1 a 6 años
+- Adecuado para cepillar los dientes 2 veces al día durante 2-3 minutos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NRHKDFL/?tag=tolees-21)
