@@ -27,9 +27,9 @@ Está [Puleva Peques Leche De Crecimiento Tipo 3 con Frutas y Cereales - 10 pack
 
 ℹ️:
 
-- Puleva: bienestar para disfrutar de la vida
-- Única fórmula con Omega 3 DHA + Hierro, nutrientes esenciales para el desarrollo físico, visual e intelectual
-- Conservar en lugar fresco y seco; una vez abierto el envase debe conservarse en frío, siendo aconsejable su consumo en los dos ó tres días siguientes
 - País de Origen: España
+- Única fórmula con Omega 3 DHA + Hierro, nutrientes esenciales para el desarrollo físico, visual e intelectual
+- Puleva: bienestar para disfrutar de la vida
+- Conservar en lugar fresco y seco; una vez abierto el envase debe conservarse en frío, siendo aconsejable su consumo en los dos ó tres días siguientes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088PJLV96/?tag=tolees-21)

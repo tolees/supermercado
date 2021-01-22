@@ -28,9 +28,9 @@ Ahora mismo tienes [Post diseño de los 033805190935"de Letra e de café Juego d
 🔎:
 
 - En caja para regalo
-- Diseñado por BIA
 - Fabricado con porcelana
-- La taza para expresso y taza grande de este juego de Post Script se caracterizan por su diseño clásico, tamaño generoso y por ser cómodas de agarrar.
 - Esmalte de gran calidad para lograr un acabado fantástico
+- La taza para expresso y taza grande de este juego de Post Script se caracterizan por su diseño clásico, tamaño generoso y por ser cómodas de agarrar.
+- Diseñado por BIA
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00ZISZMF2/?tag=tolees-21)
