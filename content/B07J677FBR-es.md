@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Air Wick Eléctrico - Recambios de ambien al 17.71 % de descuento'
-date: 2021-01-19 09:43:01
+date: 2021-01-22 15:28:15
 image: 'https://m.media-amazon.com/images/I/51opDIxvU+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J677FBR-es'
+slug: 'B07J677FBR-es Air Wick Eléctrico - Recambios de ambientador esencia para...'
+sku: 'B07J677FBR-es'
+tags: [ 'air','wick', ]
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45
@@ -16,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J677FBR/?tag=tolees-21'
 descuento: '17.71'
-average: '18.3375'
+average: '17.959999999999997'
 ---
 
 Ahora mismo tienes [Air Wick Eléctrico - Recambios de ambientador  esencia para casa con aroma a nenuco  pack de 6 uinidades](https://www.amazon.es/dp/B07J677FBR/?tag=tolees-21) a 16.45 EUR (original: 19.99 EUR) (17.71 %  de descuento) en el siguiente enlace!
@@ -26,9 +28,9 @@ Ahora mismo tienes [Air Wick Eléctrico - Recambios de ambientador  esencia para
 🔎:
 
 - Disfruta de un aroma duradero y consistente para tu hogar
+- Pack de recambios para ambientadores eléctricos Air Wick
 - Fragancia Nenuco, una fragancia fresca y ligera que te transportará al tierno mundo de los bebés, llenando tu hogar con el fresco y suave aroma de la Colonia Nenuco
 - Descubre el resto de fragancias Air Wick Eléctrico
-- Pack de recambios para ambientadores eléctricos Air Wick
 - Elije entre los diferentes niveles de intensidad para conseguir tu nivel de fragancia óptima
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07J677FBR/?tag=tolees-21)

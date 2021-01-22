@@ -27,9 +27,9 @@ En este momento está [Moussel Gel y jabón Aloe Vera - Pack de 8 x 600 ml - Tot
 
 🔎:
 
-- Con ingredientes hidratantes y Aloe Vera 100% natural
 - Dermatológicamente comprobado
-- Purifica la piel dejándola suave y calmada
 - Apto para el uso diario
+- Con ingredientes hidratantes y Aloe Vera 100% natural
+- Purifica la piel dejándola suave y calmada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07J53RKDL/?tag=tolees-21)
