@@ -27,10 +27,10 @@ Ahora mismo tienes [Dalwhinnie Whisky Escocés - 700 ml](https://www.amazon.es/d
 
 🔎:
 
-- Envejecido en la destilería escocesa más fría y situada a más altitud para liberar su carácter meloso y sus suaves notas de brezo
-- Dalwhinnie 15 Year Old es un whisky puro de malta de las Tierras Altas que procede de la destilería escocesa más fría y situada a más altitud
-- El sabor limpio del brezo es adecuado para disfrutarlo solo o con un poco de agua sin gas
 - El regalo ideal para iniciarse en el mundo de Dalwhinnie y los whiskies puros de malta
+- Envejecido en la destilería escocesa más fría y situada a más altitud para liberar su carácter meloso y sus suaves notas de brezo
 - Ganador de la medalla de oro en la San Francisco World Spirits Competition de 2016
+- El sabor limpio del brezo es adecuado para disfrutarlo solo o con un poco de agua sin gas
+- Dalwhinnie 15 Year Old es un whisky puro de malta de las Tierras Altas que procede de la destilería escocesa más fría y situada a más altitud
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00CEZ2HDC/?tag=tolees-21)
