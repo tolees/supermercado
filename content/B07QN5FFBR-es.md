@@ -27,8 +27,8 @@ Tienes [L Oréal Paris Men Expert Hydra Energetic  Mascarilla de Tejido Energiza
 
 ℹ️:
 
-- Diseñada con un tamaño XL para adaptarse a la cara del hombre
 - Fórmula enriquecida con taurina para energizar e hidratar intensamente la piel
+- Diseñada con un tamaño XL para adaptarse a la cara del hombre
 - Tejido empapado de activos hidratantes y energizantes que se adhiere cómodamente a la piel
 - Mascarilla energizante, especialmente indicada para hombres con pieles deshidratadas o fatigadas
 - Tras 5 minutos, la piel comienza a recuperarse de la deshidratación y de la fatiga

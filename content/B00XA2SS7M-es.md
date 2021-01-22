@@ -27,10 +27,10 @@ Ahora mismo tienes [ColaCao Original: con Cacao Natural - Formato Ahorro - 5 7kg
 
 🔎:
 
-- Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos.
-- El ColaCao de siempre, eso tan tuyo. Con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos. Ideal para cualquier momento: desayuno, merienda, cena o como snack.
-- Alérgenos: contiene trigo y cebada. Mantener en lugar fresco y seco.
-- 407 raciones en su estuche de 5,7kg (contiene 3 bolsas).
 - Con cacao certificado UTZ. Al comprar cacao UTZ, ColaCao apoya el cultivo sostenible de cacao. Los agricultores certificados por UTZ implementan mejores prácticas agrícolas, con respeto a la gente y al planeta.
+- El ColaCao de siempre, eso tan tuyo. Con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos. Ideal para cualquier momento: desayuno, merienda, cena o como snack.
+- Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos.
+- 407 raciones en su estuche de 5,7kg (contiene 3 bolsas).
+- Alérgenos: contiene trigo y cebada. Mantener en lugar fresco y seco.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XA2SS7M/?tag=tolees-21)
