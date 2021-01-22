@@ -27,7 +27,7 @@ En este momento está [Cestas de Navidad - Lotes de Navidad - Lote de Embutidos 
 
 🔎:
 
-- Pueblo
 - Artesano
+- Pueblo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JFLJH83/?tag=tolees-21)

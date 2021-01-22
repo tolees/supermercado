@@ -27,8 +27,8 @@ En este momento está [RAMON PEÑA - mejillones en escabeche 8/12 OL120 pack 3 u
 
 🔎:
 
-- Mejillones de Galicia estrictamente seleccionados por tamaños y elaborados en fresco. El biso (las barbas con que se sujeta el mejillón a la roca) se retira a mano pieza por pieza
 - Cervezas y cervezas artesanas aumentan la sensación refrescamte del vinagre que lleva el escabeche
 - Nuestros mejillones se fríen en aceite de oliva. Una práctica que reduce su peso pero mejora considerablemente su textura y sabor. Se empacan a mano.
+- Mejillones de Galicia estrictamente seleccionados por tamaños y elaborados en fresco. El biso (las barbas con que se sujeta el mejillón a la roca) se retira a mano pieza por pieza
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071DFW58L/?tag=tolees-21)

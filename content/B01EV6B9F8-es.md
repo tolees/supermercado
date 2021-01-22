@@ -27,10 +27,10 @@ En este momento está [CLARO Classic XXL - 100 Pastillas Ecológicas Sin Fosfato
 
 🔎:
 
-- PAQUETE DE AHORRO DE CANTIDAD 100: En cada compra recibes 100 tabletas de lavavajillas claro Classic! Para una mejor limpieza recomendamos que este producto sea usado con el abrillantador claro y la sal alpina.
 - EL MUNDO DE CLARO: ¡Experimente todo lo que claro tiene para ofrecer en su línea de productos ecológicos en Amazon! Pestañas clásicas: B01EV6B9F8, Pestañas múltiples: B014170TFS, Abrillantador: B01N4TQ6JH, Sal alpina: B01N672EXE, Limpiador de lavavajillas: B01H1SHJNO
-- HECHO EN AUSTRIA: Todos los productos de claro están hechos en Austria en el pintoresco Mondsee y con los más altos estándares: sin fosfatos, sin aceite de palma, sin cloro, vegetarianos y sin pruebas con animales.
-- EXCELENCIA: nuestras pestañas para lavavajillas están garantizadas con el medio ambiente y han sido galardonadas con la etiqueta ecológica Austria y la etiqueta ecológica de la EU
 - SIN PLÁSTICOS / MICROPLÁSTICOS: Nuestras pastillas para el lavavajillas están empaquetadas en un envoltorio patentado biodegradable y soluble en agua de PVA que no debe ser retirado antes del lavado.
+- PAQUETE DE AHORRO DE CANTIDAD 100: En cada compra recibes 100 tabletas de lavavajillas claro Classic! Para una mejor limpieza recomendamos que este producto sea usado con el abrillantador claro y la sal alpina.
+- EXCELENCIA: nuestras pestañas para lavavajillas están garantizadas con el medio ambiente y han sido galardonadas con la etiqueta ecológica Austria y la etiqueta ecológica de la EU
+- HECHO EN AUSTRIA: Todos los productos de claro están hechos en Austria en el pintoresco Mondsee y con los más altos estándares: sin fosfatos, sin aceite de palma, sin cloro, vegetarianos y sin pruebas con animales.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01EV6B9F8/?tag=tolees-21)
