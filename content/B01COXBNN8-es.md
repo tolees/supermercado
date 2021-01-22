@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gallo - Pasta mariscos - 500 grs con un 9.18 % de descuento'
-date: 2021-01-21 06:47:55
+date: 2021-01-22 11:03:45
 image: 'https://m.media-amazon.com/images/I/51y2+4LHWOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01COXBNN8/?tag=tolees-21'
 descuento: '9.18'
-average: '0.8782178217821782'
+average: '0.8783333333333334'
 ---
 
 En este momento está [Gallo - Pasta mariscos - 500 grs](https://www.amazon.es/dp/B01COXBNN8/?tag=tolees-21) a 0.89 EUR (original: 0.98 EUR) (9.18 %  de descuento) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [Gallo - Pasta mariscos - 500 grs](https://www.amazon.es/d
 🔎:
 
 - Sémola de trigo duro; puede contener trazas de huevo
-- Instrucciones para su uso adecuado: Todos los públicos
-- Información de alérgenos: Wheat
-- País de origen España
-- Procedencia: ESPAÑA
-- Alérgenos: contiene trigo, puede contener trazas de huevoal9al9: ap9
-- Mantener en lugar fresco y seco
 - Sémola de trigo duro; pasta clásica; no se pasa, no se pega
+- Instrucciones para su uso adecuado: Todos los públicos
+- Mantener en lugar fresco y seco
+- Alérgenos: contiene trigo, puede contener trazas de huevoal9al9: ap9
+- Procedencia: ESPAÑA
+- País de origen España
+- Información de alérgenos: Wheat
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01COXBNN8/?tag=tolees-21)

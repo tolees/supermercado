@@ -27,11 +27,11 @@ En este momento está [Navidul Maletín de Paleta de Cebo Ibérica  50% raza ib�
 
 🔎:
 
-- Advertencia de seguridad: Conservar en lugar fresco y seco a menos de 22ºC
-- Envase con eurohole
 - Instrucciones para su uso adecuado: Apto para todos; ideal para tentempiés, comidas y cenas
-- Las lonchas van solapadas en dos filas de forma que ocupen la totalidad de la superficie del sobre
+- Advertencia de seguridad: Conservar en lugar fresco y seco a menos de 22ºC
 - En caja de cartón con ventana y asa
+- Envase con eurohole
+- Las lonchas van solapadas en dos filas de forma que ocupen la totalidad de la superficie del sobre
 - Envasadas al vacío en sobres de material plástico transparente, con film superior impreso específico y etiqueta superior específica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L88MWMK/?tag=tolees-21)
