@@ -27,10 +27,10 @@ Está [Pack Boligrafos de Colores Dispensadores de Gel Hidroalcohólico Desinfec
 
 ℹ️:
 
-- Ideales para los mas pequeños, podran usarlo en el colegio
-- 5 Boligrafos retractiles con deposito para liquido hidroalcoholico lo perfume
 - Rellenalo tantas veces como quieras. Se envian vacios
 - Una buena forma de tener siempre a mano desinfectante o perfume
 - 5 colores diferentes, alternalos o regalalos
+- Ideales para los mas pequeños, podran usarlo en el colegio
+- 5 Boligrafos retractiles con deposito para liquido hidroalcoholico lo perfume
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08QDQM1VN/?tag=tolees-21)

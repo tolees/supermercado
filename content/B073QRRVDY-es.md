@@ -29,8 +29,8 @@ En este momento está [Mimosin Azul Vital - Concentrado Suavizante  66lav x 8bot
 
 - Protege de los malos olores
 - 100% fragancia larga duración
-- Suavidad estupenda
 - Mantiene el color y el brillo
+- Suavidad estupenda
 - Promueve el secado rápido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073QRRVDY/?tag=tolees-21)
