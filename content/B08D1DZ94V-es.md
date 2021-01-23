@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Norit Diario - Detergente Líquido para T al 9.84 % de rebaja'
-date: 2021-01-22 11:34:25
+date: 2021-01-23 17:57:46
 image: 'https://m.media-amazon.com/images/I/41s9+Hy2SDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08D1DZ94V/?tag=tolees-21'
 descuento: '9.84'
-average: '17.304545454545455'
+average: '17.2888235294118'
 ---
 
 Tienes [Norit Diario - Detergente Líquido para Todos los Tejidos y Colores - Pack de 3 Unidades de 2120 ml: 6.360 ml](https://www.amazon.es/dp/B08D1DZ94V/?tag=tolees-21) con precio final de  16.77 EUR (original: 18.6 EUR) (9.84 %  de rebaja) aqui!
