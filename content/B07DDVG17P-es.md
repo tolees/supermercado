@@ -28,8 +28,8 @@ Ahora mismo tienes [Conservas de Sufli  Conserva de pimiento  Carbón y tomate  
 🔎:
 
 - Elaboración artesanal
-- Sin gluten
-- España
 - Ingredientes: Pimiento, tomate, cayena y sal
+- España
+- Sin gluten
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DDVG17P/?tag=tolees-21)

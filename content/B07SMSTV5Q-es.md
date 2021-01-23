@@ -29,7 +29,7 @@ Tienes [Purina Felix Le Ghiottonerie - Comida para Gatos con Ternera  Pollo  Bac
 
 - Rico en vitamina E y D, Omega 6 y minerales.
 - Enriquecido con una deliciosa gelatina que hace que el alimento sea delicioso y apetecible.
-- Fabricado con carne de calidad.
 - Alimento completo, excelente para la alimentación diaria de tu gato.
+- Fabricado con carne de calidad.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SMSTV5Q/?tag=tolees-21)

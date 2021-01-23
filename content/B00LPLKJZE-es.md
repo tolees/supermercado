@@ -27,10 +27,10 @@ Tienes [BELLA AURORA Serenité Jabón Desmaquillador Facial de Belleza Limpia a 
 
 ℹ️:
 
+- Formulado con aceites naturales de Coco y Glicerina
+- Emulsionar con agua y limpiar la piel del rostro, día y noche, antes del tratamiento
 - Prepara el cutis para una mejor absorción de los principios activos del tratamiento
 - Limpia en profundidad la piel respetando el manto hidrolipídico
-- Formulado con aceites naturales de Coco y Glicerina
 - También se puede aplicar en manos y cuerpo
-- Emulsionar con agua y limpiar la piel del rostro, día y noche, antes del tratamiento
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LPLKJZE/?tag=tolees-21)
