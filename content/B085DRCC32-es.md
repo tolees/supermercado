@@ -27,10 +27,10 @@ Ahora mismo tienes [Avento Malvasía Moscatel Vino Blanco Afrutado 6 Botellas - 
 
 🔎:
 
-- Suave, afrutado y elegante
-- Un vino blanco afrutado
-- Fresco, expresivo y lleno de matices
-- Elaborado con dos de las variedades blancas con más historia del Mediterráneo
 - Amarillo brillante, limpio con matices grises
+- Elaborado con dos de las variedades blancas con más historia del Mediterráneo
+- Un vino blanco afrutado
+- Suave, afrutado y elegante
+- Fresco, expresivo y lleno de matices
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085DRCC32/?tag=tolees-21)
