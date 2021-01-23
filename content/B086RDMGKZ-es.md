@@ -27,10 +27,10 @@ Está [Vino Blanco D.O. Rioja Montecillo fermentado en barrica - 3 botellas de 7
 
 ℹ️:
 
-- Limpio y brillante, llamativo color amarillo pálido con reflejos limón
-- Perfecto para acompañar pescados ahumados, carnes blancas, foie, carnes a la plancha, quesos maduros, arroces y platos de la cocina asiática
-- En boca es untuoso, elegante y fresco. Acidez armónica, destellos de fruta blanca con notas de pastelería. Final largo y glicérico con una madera protagonista
-- Composición: 35% viura 30% sauvignon blanc 35% tempranillo blanco
 - Noble y elegante, con notas marcadas de flores blancas, dulces notas balsámicas y a pan tostado
+- Perfecto para acompañar pescados ahumados, carnes blancas, foie, carnes a la plancha, quesos maduros, arroces y platos de la cocina asiática
+- Limpio y brillante, llamativo color amarillo pálido con reflejos limón
+- Composición: 35% viura 30% sauvignon blanc 35% tempranillo blanco
+- En boca es untuoso, elegante y fresco. Acidez armónica, destellos de fruta blanca con notas de pastelería. Final largo y glicérico con una madera protagonista
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086RDMGKZ/?tag=tolees-21)
