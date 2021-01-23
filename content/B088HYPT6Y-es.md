@@ -28,10 +28,10 @@ Está [Ariel Pods Allin1 Detergente en Cápsulas para Lavadora con Lenor Unstopp
 ℹ️:
 
 - Resultados increíbles en una sola cápsula (detergente concentrado)
-- Fragancia intensa y duradera de Lenor Unstoppables
-- Iluminador
 - Quitamanchas
-- Limpieza profunda e higiene
+- Fragancia intensa y duradera de Lenor Unstoppables
 - Eficaz en frío (incluso a 30ºC)
+- Iluminador
+- Limpieza profunda e higiene
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088HYPT6Y/?tag=tolees-21)
