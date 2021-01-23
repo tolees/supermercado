@@ -27,8 +27,8 @@ Tienes [Dani - Pulpo en aceite de oliva - 6 x 106 gr.](https://www.amazon.es/dp/
 
 🔎:
 
+- Pulpo en aceite de oliva en conserva con abrefácil. Pack 6 latas de 106 gr.
 - Alérgenos: contiene moluscos.
 - Para tomar por sí solos, aliñados con pimentón (receta gallega) o en elaboraciones.
-- Pulpo en aceite de oliva en conserva con abrefácil. Pack 6 latas de 106 gr.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B087QNGQ39/?tag=tolees-21)
