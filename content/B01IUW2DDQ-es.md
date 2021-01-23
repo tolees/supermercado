@@ -27,8 +27,8 @@ Ahora mismo tienes [Doritos Tex Mex - Sabor a Queso  280 gr](https://www.amazon.
 
 🔎:
 
-- 280 gr
 - Contiene lactosa
+- 280 gr
 - Contiene gluten
 - Conservar en lugar fresco y seco
 
