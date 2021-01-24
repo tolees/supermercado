@@ -28,9 +28,9 @@ En este momento está [KATIVA Coconut Champu - 500 ml](https://www.amazon.es/dp/
 🔎:
 
 - Recupera la hidratación. Champu de uso frecuente.
-- Limpia profundamente sin resecar el cabello
-- Protege, hidrata y nutre
-- Aporta brillo y suavidad
 - Libre de sal, sulfatos, parabenos y gluten.
+- Limpia profundamente sin resecar el cabello
+- Aporta brillo y suavidad
+- Protege, hidrata y nutre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078NWS2M8/?tag=tolees-21)
