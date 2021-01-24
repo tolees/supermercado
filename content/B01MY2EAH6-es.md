@@ -27,9 +27,9 @@ Está [Lavazza A Modo Mio Espresso Divino Cápsulas Monodosis de Café Molido  C
 
 ℹ️:
 
-- ASPECTO: espuma ámbar y color oscuro - AROMA: notas de cacao y frutas exóticas - SABOR: refinado y duradero
-- CALIDAD LAVAZZA: un preciado espresso, adecuado para preparaciones con leche
 - AROMÁTICO: un blend de Robusta y Arábica prémium, para un espresso aterciopelado con notas de chocolate y licor acompañado de toques de frutos secos
+- CALIDAD LAVAZZA: un preciado espresso, adecuado para preparaciones con leche
+- ASPECTO: espuma ámbar y color oscuro - AROMA: notas de cacao y frutas exóticas - SABOR: refinado y duradero
 - MEZCLA: Arábica y Robusta - Tueste: oscuro - Intensidad: 11 muy intenso
 - ENVASE: 5 paquetes de 12 cápsulas de café. Total 60 cápsulas. La experiencia Lavazza en una cápsula de café
 
