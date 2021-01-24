@@ -27,9 +27,9 @@ Tienes [Babaria Rosa Mosqueta Serum Contorno de Ojos - 15 ml](https://www.amazon
 
 🔎:
 
-- Tipo de Piel: Todo Tipo de Pieles
-- 13,6 g
-- facil de usar
 - Tratamiento: Noche y Día
+- facil de usar
+- 13,6 g
+- Tipo de Piel: Todo Tipo de Pieles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001L9ARMK/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Elizabeth Arden 5th Avenue Eau de Parfum con un 2.74 % de descuento'
-date: 2021-01-23 11:17:25
+title: 'Elizabeth Arden 5th Avenue Eau de Parfum con un 0.00 % de descuento'
+date: 2021-01-24 11:26:53
 image: 'https://m.media-amazon.com/images/I/41Ogx-S7Z5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,24 +12,24 @@ tags: [ 'elizabeth','arden', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0
-comparePrice: 16.45 EUR
+comparePrice:  EUR
 prodname: 'Elizabeth Arden 5th Avenue Eau de Parfum 125 ml'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0010MG8NU/?tag=tolees-21'
-descuento: '2.74'
-average: '17.5756962025316'
+descuento: '0.00'
+average: '17.556'
 ---
 
-En este momento está [Elizabeth Arden 5th Avenue Eau de Parfum 125 ml](https://www.amazon.es/dp/B0010MG8NU/?tag=tolees-21) a 16.0 EUR (original: 16.45 EUR) (2.74 %  de descuento) en el siguiente enlace!
+En este momento está [Elizabeth Arden 5th Avenue Eau de Parfum 125 ml](https://www.amazon.es/dp/B0010MG8NU/?tag=tolees-21) a 16.0 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
 
 [![Elizabeth Arden 5th Avenue Eau de Parfum](https://m.media-amazon.com/images/I/41Ogx-S7Z5L._SL200_.jpg)](https://www.amazon.es/dp/B0010MG8NU/?tag=tolees-21)
 
 🔎:
 
 - Notas de salida: lila, brotes de tilo, magnolia matutina, lirio de los valles, mandarina exótica y bergamota
-- Notas de corazón: rosa damascena, violeta, ylang-ylang, jazmín, nardo, melocotón, clavo y nuez moscada
-- Notas de fondo: ámbar, almizcle tibetano, sándalo, iris y vainilla
 - Tipo de producto: chispeante y ligero perfume floral de sutil calidez y riqueza
+- Notas de fondo: ámbar, almizcle tibetano, sándalo, iris y vainilla
+- Notas de corazón: rosa damascena, violeta, ylang-ylang, jazmín, nardo, melocotón, clavo y nuez moscada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0010MG8NU/?tag=tolees-21)
