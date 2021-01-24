@@ -27,10 +27,10 @@ Ahora mismo tienes [O NATURALS - 6 Pastillas de Jabón Natural Orgánico Facial 
 
 🔎:
 
-- REFORZANTE: La colección de Barras de Jabón Cítrico O Naturals se ha creado para revitalizar y dar energía. Con aromas cítricas frescas y naturales para rejuvenecer y reforzar.
-- VITAMINA C Y VITAMINA E: La Vitamina C se ha añadido para impulsar la producción natural de colágeno de su piel, aumentando la elasticidad y firmeza. La Vitamina E se usa para pieles secas y dañadas.
-- CÍTRICO FRESCO: 6 variedades de aromas: Mandarina, Naranja Salvaje, Pomelo, Petitgrain, Bergamota y Limón. El aroma natural de cítricos le dejará con energía y revitalizado.
-- Estamos siempre detrás de nuestros productos y le aseguramos que quedará encantado. Ofrecemos Garantía de Satisfacción del Cliente al 100%. La felicidad de nuestro cliente es nuestra máxima prioridad.
 - VEGANO: Hecho de Aceite de Oliva Orgánico, 100% Natural, Sin Parabeno, Sin Sulfato, Válido para cualquier piel, No testeado en animales.
+- CÍTRICO FRESCO: 6 variedades de aromas: Mandarina, Naranja Salvaje, Pomelo, Petitgrain, Bergamota y Limón. El aroma natural de cítricos le dejará con energía y revitalizado.
+- VITAMINA C Y VITAMINA E: La Vitamina C se ha añadido para impulsar la producción natural de colágeno de su piel, aumentando la elasticidad y firmeza. La Vitamina E se usa para pieles secas y dañadas.
+- Estamos siempre detrás de nuestros productos y le aseguramos que quedará encantado. Ofrecemos Garantía de Satisfacción del Cliente al 100%. La felicidad de nuestro cliente es nuestra máxima prioridad.
+- REFORZANTE: La colección de Barras de Jabón Cítrico O Naturals se ha creado para revitalizar y dar energía. Con aromas cítricas frescas y naturales para rejuvenecer y reforzar.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FF7KS17/?tag=tolees-21)

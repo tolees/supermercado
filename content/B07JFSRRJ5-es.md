@@ -27,9 +27,9 @@ Tienes [Deliex delicias de Extremadura - Cesta de productos gourmet para Navidad
 
 ℹ️:
 
+- pasto decorativo y caja con frase
 - 1 x paté ibérico de 30 g formato mini
 - 1 x Crema de queso de 110 g (Cristal)
-- pasto decorativo y caja con frase
 - 1 x Aceite de oliva virgen extra La Chinata 250 ml (cristal)
 - 1 x Mermelada 120 g Deliex. (Cristal)
 

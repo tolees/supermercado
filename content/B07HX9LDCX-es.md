@@ -27,11 +27,11 @@ Tienes [Oral-B Kids Disney  Frozen/Cars  Pasta Dentífrica  3+ Años  75 ml  1 
 
 🔎:
 
-- Pasta dentífrica sin azúcar
-- Pasta dentífrica con flúor
-- Protege los dientes frente a los ácidos de los azúcares presentes en la comida
 - Sabor suave
+- Pasta dentífrica con flúor
 - La pasta dentífrica Oral-B Kids con personajes de Disney (Frozen/Cars)
+- Pasta dentífrica sin azúcar
+- Protege los dientes frente a los ácidos de los azúcares presentes en la comida
 - Adecuado para niños a partir de 3 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HX9LDCX/?tag=tolees-21)
