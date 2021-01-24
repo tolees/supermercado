@@ -28,9 +28,9 @@ Está [Martini Rosso Vermouth - 1500 ml](https://www.amazon.es/dp/B0058HU6LS/?ta
 ℹ️:
 
 - Las notas herbales y aromáticas de MARTINI Rosso & Tonic maridan a la perfección con aperitivos salados, como el queso Parmesano
+- Servir corto con hielo y una rodaja de naranja. O combinado con Tónica (mitad/mitad)
 - Rosso se expresa con una mezcla secreta de botánicos de tierras nativas y lejanas. La artemisa es un ingrediente crucial y continúa cultivándose y recolectándose a pocos kilómetros de nuestro hogar en Pessione
 - El MARTINI original nació del privilegiado olfato de Luigi Rossi. Desde los luminosos días de 1863, su esencia se compone de una selección de hierbas regionales y de un toque de caramelo natural que le otorga su tono escarlata. Todo un icono italiano
 - Carácter especiado y naturaleza dulcemente perfumada. Gusto agridulce pronunciado pero perfectamente equilibrado
-- Servir corto con hielo y una rodaja de naranja. O combinado con Tónica (mitad/mitad)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0058HU6LS/?tag=tolees-21)
