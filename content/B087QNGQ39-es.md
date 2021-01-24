@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dani - Pulpo en aceite de oliva - 6 x 10 al 0.00 % de rebaja'
-date: 2021-01-23 06:27:44
+date: 2021-01-24 18:54:47
 image: 'https://m.media-amazon.com/images/I/413Z5pQZGDL._SL200_.jpg'
 comments: true
 category: ofertas

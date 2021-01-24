@@ -1,25 +1,27 @@
 ---
 layout: post
-title: 'Descuento del 3.86 % en Amor en conserva [Blu-ray]'
-date: 2021-01-17 10:52:57
+title: 'Descuento del 0.00 % en Amor en conserva [Blu-ray]'
+date: 2021-01-24 17:50:15
 image: 'https://m.media-amazon.com/images/I/51AjuoSJ0iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MEC0MVY-es'
+slug: 'B00MEC0MVY-es Amor en conserva [Blu-ray]'
+sku: 'B00MEC0MVY-es'
+tags: [ 'conserva', ]
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45
-comparePrice: 12.95 EUR
+comparePrice:  EUR
 prodname: 'Amor en conserva [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MEC0MVY/?tag=tolees-21'
-descuento: '3.86'
-average: '12.393333333333333'
+descuento: '0.00'
+average: '12.3941791044776'
 ---
 
-Tienes [Amor en conserva [Blu-ray]](https://www.amazon.es/dp/B00MEC0MVY/?tag=tolees-21) con un 3.86 % de descuento con precio de oferta de 12.45 EUR (original: 12.95 EUR) en el siguiente enlace!
+Tienes [Amor en conserva [Blu-ray]](https://www.amazon.es/dp/B00MEC0MVY/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 12.45 EUR (original:  EUR) en el siguiente enlace!
 
 [![Amor en conserva [Blu-ray]](https://m.media-amazon.com/images/I/51AjuoSJ0iL._SL200_.jpg)](https://www.amazon.es/dp/B00MEC0MVY/?tag=tolees-21)
 

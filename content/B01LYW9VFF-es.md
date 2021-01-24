@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Conservas Dantza Melocotón - 840 gr al 0.00 % de rebaja'
-date: 2021-01-23 17:28:45
+date: 2021-01-24 17:35:54
 image: 'https://m.media-amazon.com/images/I/51bf1dTDuUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ Tienes [Conservas Dantza Melocotón - 840 gr](https://www.amazon.es/dp/B01LYW9VF
 
 🔎:
 
-- Categoría extra
-- Abrir y consumir
 - Melocotón en almíbar ligero
+- Abrir y consumir
+- Categoría extra
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LYW9VFF/?tag=tolees-21)
