@@ -1,17 +1,19 @@
 ---
 layout: post
-title: 'Junta Goma para Tarro Cristal DE CONSERV al 0.00 % de descuento'
-date: 2021-01-19 06:27:14
+title: 'MONTSERRAT - Junta Goma para Tarro Crist al 0.00 % de descuento'
+date: 2021-01-23 23:46:35
 image: 'https://m.media-amazon.com/images/I/31OahPf4cuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EIKBTG6-es'
+slug: 'B01EIKBTG6-es MONTSERRAT - Junta Goma para Tarro Cristal DE CONSERVAS 92...'
+sku: 'B01EIKBTG6-es'
+tags: [ 'conservas', ]
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7
 comparePrice:  EUR
-prodname: 'Junta Goma para Tarro Cristal DE CONSERVAS 92 X 70 MM  10 Unidades '
+prodname: 'MONTSERRAT - Junta Goma para Tarro Cristal DE CONSERVAS 92 X 70 MM  10 Unidades '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EIKBTG6/?tag=tolees-21'
@@ -19,9 +21,9 @@ descuento: '0.00'
 average: '8.7'
 ---
 
-Está [Junta Goma para Tarro Cristal DE CONSERVAS 92 X 70 MM  10 Unidades ](https://www.amazon.es/dp/B01EIKBTG6/?tag=tolees-21) con 0.00 de descuento por 8.7 EUR (original:  EUR) en el siguiente enlace!
+Está [MONTSERRAT - Junta Goma para Tarro Cristal DE CONSERVAS 92 X 70 MM  10 Unidades ](https://www.amazon.es/dp/B01EIKBTG6/?tag=tolees-21) con 0.00 de descuento por 8.7 EUR (original:  EUR) en el siguiente enlace!
 
-[![Junta Goma para Tarro Cristal DE CONSERV](https://m.media-amazon.com/images/I/31OahPf4cuL._SL200_.jpg)](https://www.amazon.es/dp/B01EIKBTG6/?tag=tolees-21)
+[![MONTSERRAT - Junta Goma para Tarro Crist](https://m.media-amazon.com/images/I/31OahPf4cuL._SL200_.jpg)](https://www.amazon.es/dp/B01EIKBTG6/?tag=tolees-21)
 
 ℹ️:
 

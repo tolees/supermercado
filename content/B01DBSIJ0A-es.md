@@ -27,8 +27,8 @@ Tienes [Jack Daniel s - Jack Daniels Single Barrel 100 Proof Whisky - 1 x 0.7 l]
 
 ℹ️:
 
-- Jack Daniels Sbarrel 100 Proof 50º
 - Capacidad: 70CL
+- Jack Daniels Sbarrel 100 Proof 50º
 - Graduación: 50º
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DBSIJ0A/?tag=tolees-21)
