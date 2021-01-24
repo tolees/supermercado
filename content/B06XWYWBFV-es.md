@@ -27,9 +27,9 @@ Está [Maybelline New York - Polvos Fijadores Translúcidos Master Fix 01 Transl
 
 ℹ️:
 
-- Polvos translúcidos matificantes fijadores de maquillaje
 - Aportan una fijación duradera
 - Difumina y suaviza para obtener un acabado de velo sedoso indetectable
+- Polvos translúcidos matificantes fijadores de maquillaje
 - Sin sensación de talco o aspereza en la piel
 - Su aplicación es muy cómoda gracias a su fórmula microfina
 
