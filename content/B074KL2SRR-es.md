@@ -28,11 +28,11 @@ Ahora mismo tienes [Ariel Pods Allin1 Detergente en Cápsulas para Lavadora  Col
 🔎:
 
 - Eficaz en frío (incluso a 30ºC)
-- Fragancia intensa
-- Iluminador
-- Resultados increíbles en una sola cápsula (detergente concentrado)
 - Limpieza profunda e higiene
-- Quitamanchas
+- Resultados increíbles en una sola cápsula (detergente concentrado)
+- Iluminador
+- Fragancia intensa
 - Mantiene vivo el color de tu ropa
+- Quitamanchas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074KL2SRR/?tag=tolees-21)
