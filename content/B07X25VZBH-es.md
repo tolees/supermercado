@@ -29,7 +29,7 @@ Tienes [Note D Espresso - Café Clásico en Grano  1 kg  Caja con 2 Paquetes ](
 
 - Un café 100 % natural tostado en Italia
 - Expreso de calidad profesional en tu propia casa
-- Hechos en Italia
 - 2 paquetes de 1 kilo
+- Hechos en Italia
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07X25VZBH/?tag=tolees-21)

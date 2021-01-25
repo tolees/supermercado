@@ -27,10 +27,10 @@ Ahora mismo tienes [Consuelo - cápsulas de café compatibles con Nespresso* - I
 
 🔎:
 
-- Una mezcla con un sabor rico y pleno, con notas de chocolate y frutos secos.
+- Intensity 10
 - Envase de 100 cápsulas (10 cajas de 10 cápsulas)
+- Una mezcla con un sabor rico y pleno, con notas de chocolate y frutos secos.
 - Tostado y envasado en Italia
 - Composición: alto porcentaje de Robusta asiático
-- Intensity 10
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KSQCBBF/?tag=tolees-21)
