@@ -27,9 +27,9 @@ Está [Lavazza A Modo Mio Lungo Dolce  Cápsulas Monodosis de Café Molido  100%
 
 ℹ️:
 
-- Mantener en un lugar fresco y seco
 - 36 cápsula
-- País de origen: Italia
 - facil de usar
+- Mantener en un lugar fresco y seco
+- País de origen: Italia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00KZERW6G/?tag=tolees-21)

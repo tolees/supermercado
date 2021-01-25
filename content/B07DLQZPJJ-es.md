@@ -29,8 +29,8 @@ Ahora mismo tienes [Vitamina D3 4000 UI  365 Perlas | Vitamina D Natural  Coleca
 
 - Vitamina D3 4000 UI con Aceite de Oliva Virgen Extra, favorece una buena salud de los huesos, los músculos y el sistema inmunológico, ayudando a absorber el calcio.
 - MÁXIMA CALIDAD. Usamos ingredientes No GMO, sin conservantes ni colorantes. Sin excipientes, sin gluten, libre de productos lácteos, sin soja, levadura, edulcorantes ni sabores artificiales. Seguimos el estricto protocolo de buenas prácticas de fabricación (GMP en inglés).
-- VITAMINA D3, 365 PERLAS por envase x 4000 UI por perla, más que la competencia!
 - 100% SATISFACCIÓN GARANTIZADA: ¡Si no quedas completamente satisfecho, te devolvemos tu dinero!
+- VITAMINA D3, 365 PERLAS por envase x 4000 UI por perla, más que la competencia!
 - Fabricado en España bajo los más altos estándares de calidad. Empresa Registrada Nº RGSEAA: 26.019011/B.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DLQZPJJ/?tag=tolees-21)

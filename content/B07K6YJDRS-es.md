@@ -27,9 +27,9 @@ Está [Babaria - Barbaria - Ácido Hialurónico   30 ml](https://www.amazon.es/d
 
 ℹ️:
 
-- Babaria- Ácido Hialurónico, 30 ml
-- Formato: 30ml
-- Para todo tipo de piel
 - Aporta relleno, volumen y cohesión a la piel Textura suave y ligera
+- Formato: 30ml
+- Babaria- Ácido Hialurónico, 30 ml
+- Para todo tipo de piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K6YJDRS/?tag=tolees-21)
