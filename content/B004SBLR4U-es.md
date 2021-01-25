@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vichy Dercos Estimulante Champú Compleme al 0.00 % de rebaja'
-date: 2021-01-24 11:28:03
+date: 2021-01-25 11:56:30
 image: 'https://m.media-amazon.com/images/I/31cRUMsiBCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004SBLR4U/?tag=tolees-21'
 descuento: '0.00'
-average: '13.81'
+average: '13.628'
 ---
 
 Tienes [Vichy Dercos Estimulante Champú Complemento Anticaída  400 ml](https://www.amazon.es/dp/B004SBLR4U/?tag=tolees-21) con precio final de  12.9 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
