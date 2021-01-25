@@ -27,10 +27,10 @@ Ahora mismo tienes [Vernel Suavizante Delicado - Pack de 8 x 57  Total : 456 l
 
 🔎:
 
-- Para pieles sensibles y alérgicas, sin colorantes, recomendado por ECARF
-- Vernel Delicado no contiene colorantes ni conservantes
-- Pack eco-sostenible que facilita el reciclaje -botella hecha con 100% plástico reciclado
 - Déjate acariciar por Vernel Delicado, el suavizante que deja tu colada increíblemente suave gracias al tratamiento delicado y la especial fragancia hipoalergénica.
 - Recomendado por la Fundación Europea para la Investigación de Alergias (ECARF) y dermatológicamente testado
+- Vernel Delicado no contiene colorantes ni conservantes
+- Para pieles sensibles y alérgicas, sin colorantes, recomendado por ECARF
+- Pack eco-sostenible que facilita el reciclaje -botella hecha con 100% plástico reciclado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07L3F6X7N/?tag=tolees-21)

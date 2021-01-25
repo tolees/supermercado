@@ -27,9 +27,9 @@ Ahora mismo tienes [Avena Kinesia - Jabón para manos y cara  1 unidad  100 g](h
 
 🔎:
 
-- Con serum de avena 100 % natural
-- Número de modelo del producto: 814-59814
 - Contiene vitaminas A, E, D, B1, B2 y PP
 - Ofrece suavidad e hidratación
+- Número de modelo del producto: 814-59814
+- Con serum de avena 100 % natural
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0044HDA7U/?tag=tolees-21)

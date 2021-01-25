@@ -28,9 +28,9 @@ Tienes [Hacienda Ortigosa Aceite de Oliva Virgen Extra  Garrafa - 5000 ml](https
 🔎:
 
 - Extracción en frío
-- 100% Zumo de fruta
 - Tiene un sabor almendrado, muy dulce y agradable
 - 100% variedad arbequina
+- 100% Zumo de fruta
 - Producción propia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01DDB4VPM/?tag=tolees-21)
