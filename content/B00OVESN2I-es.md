@@ -27,8 +27,8 @@ Ahora mismo tienes [Dr. Oetker "tradición Cacerola  Acero  Negro  36 5 x 27 x
 
 🔎:
 
-- Material: Acero Inoxidable
-- Revestimiento antiadherente de alta calidad
 - Tamaño: ca. 36,5 x 27 x 6 cm
+- Revestimiento antiadherente de alta calidad
+- Material: Acero Inoxidable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00OVESN2I/?tag=tolees-21)
