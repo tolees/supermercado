@@ -28,9 +28,9 @@ En este momento está [Hadas BFF - Muñecas con luces mágicas Bright Fairy Frie
 🔎:
 
 - Hay 12 hadas sorpresa distintas para coleccionar.
-- Preciosas muñecas Hadas BFF - Bright Fairy Friends
 - Tienen un collar mágico que al apretarlo ilumina las alas del hada de luces multicolores.
-- Cada hada viene en un tarrito que se ilumina también mágicamente al detectar movimiento y que, además de ser el hogar de tu hada, será también tu luz nocturna.
 - Todas tienen el pelo larguísimo y traen 3 sorpresas: polvo mágico, prendedor corazón BFF y cepillo del pelo.
+- Cada hada viene en un tarrito que se ilumina también mágicamente al detectar movimiento y que, además de ser el hogar de tu hada, será también tu luz nocturna.
+- Preciosas muñecas Hadas BFF - Bright Fairy Friends
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08C9JVVT3/?tag=tolees-21)
