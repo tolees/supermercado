@@ -27,9 +27,9 @@ Ahora mismo tienes [Puleva Mañanas Ligeras Leche Sin Lactosa Semidesnatada 6 x 
 
 🔎:
 
-- Mezcla de cafés arábica y robusta
 - Despertarse nunca fue tan fácil
-- Pruébalo frío o caliente
 - Café con leche listo para tomar
+- Pruébalo frío o caliente
+- Mezcla de cafés arábica y robusta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01HTBCS2U/?tag=tolees-21)
