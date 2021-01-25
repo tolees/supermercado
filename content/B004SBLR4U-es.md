@@ -27,8 +27,8 @@ Tienes [Vichy Dercos Estimulante Champú Complemento Anticaída  400 ml](https:/
 
 🔎:
 
-- 400 ml
-- Productos de higiene para tu día a día
 - Cuidarse y sentirse bien nunca había sido tan fácil
+- Productos de higiene para tu día a día
+- 400 ml
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004SBLR4U/?tag=tolees-21)
