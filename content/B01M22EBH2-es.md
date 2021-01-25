@@ -28,8 +28,8 @@ Ahora mismo tienes [Pompadour - Poleo menta té - pack de 2  total: 20 cápsulas
 🔎:
 
 - Cápsulas 100% ingeniería de placer: exclusivo sistema de 3 toberas para una infusión superior
-- Infusión de pura menta, ahora en cápsulas
 - 10 Cápsulas compatibles con máquinas Nespresso
 - Refrescantes y matizadas hojas de vital verdor
+- Infusión de pura menta, ahora en cápsulas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M22EBH2/?tag=tolees-21)
