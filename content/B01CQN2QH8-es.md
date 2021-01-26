@@ -27,8 +27,8 @@ En este momento está [Spontex - Bayeta Microfibra economic 1+1](https://www.ama
 
 🔎:
 
-- Tamaño: XXL
 - Microfibra de alta calidad
+- Tamaño: XXL
 - Súper absorbentes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01CQN2QH8/?tag=tolees-21)

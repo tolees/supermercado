@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Starbucks Single Origin Sumatra De Nespr al 11.84 % de descuento'
-date: 2021-01-18 08:17:00
+date: 2021-01-26 16:59:24
 image: 'https://m.media-amazon.com/images/I/51Vm+9ocEXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2YMHQ6-es'
+slug: 'B07X2YMHQ6-es Starbucks Single Origin Sumatra De Nespresso Cápsulas De...'
+sku: 'B07X2YMHQ6-es'
+tags: [ 'café','starbucks','cápsulas','de','café', ]
 actualPrice: 26.8 EUR
 currency: EUR
 price: 26.8
@@ -25,10 +27,10 @@ Está [Starbucks Single Origin Sumatra De Nespresso Cápsulas De Café De Tostad
 
 ℹ️:
 
-- Cápsulas de café de STARBUCKS de NESPRESSO con un toque herbal y terroso
-- Café intenso y especiado, con un suave sabor en boca
-- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
+- Cápsulas de café de STARBUCKS de NESPRESSO con un toque herbal y terroso
+- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
+- Café intenso y especiado, con un suave sabor en boca
 - Un sabor duradero a hierbas secas y tierra fresca y una acidez apenas apreciable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X2YMHQ6/?tag=tolees-21)

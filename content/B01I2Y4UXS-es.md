@@ -1,31 +1,36 @@
 ---
 layout: post
-title: 'Taky Depilación Banda Facial Chocolate al 24.71 % de rebaja'
-date: 2020-02-13 18:32:02
-image: 'https://m.media-amazon.com/images/I/516rUFDOpPL._AC_._SL200_.jpg'
+title: 'Taky Depilación Banda Facial Chocolate   al 0.00 % de rebaja'
+date: 2021-01-26 17:42:10
+image: 'https://m.media-amazon.com/images/I/41iRpE35aRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I2Y4UXS-es Taky Depilación Banda Facial Chocolate'
+slug: 'B01I2Y4UXS-es Taky Depilación Banda Facial Chocolate 20 unidades'
 sku: 'B01I2Y4UXS-es'
 tags: [ 'chocolate', ]
-actualPrice: 1.95 EUR
+actualPrice: 1.85 EUR
 currency: EUR
-price: 1.95
-comparePrice: 2.59 EUR
-prodname: 'Taky Depilación Banda Facial Chocolate'
+price: 1.85
+comparePrice:  EUR
+prodname: 'Taky Depilación Banda Facial Chocolate  20 unidades'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01I2Y4UXS/?tag=tolees-21'
-descuento: '24.71'
-average: '1.95'
+descuento: '0.00'
+average: '1.88333333333333'
 ---
 
-Tienes [Taky Depilación Banda Facial Chocolate](https://www.amazon.es/dp/B01I2Y4UXS/?tag=tolees-21) con precio final de  1.95 EUR (original: 2.59 EUR) (24.71 %  de rebaja) aqui!
+Tienes [Taky Depilación Banda Facial Chocolate  20 unidades](https://www.amazon.es/dp/B01I2Y4UXS/?tag=tolees-21) con precio final de  1.85 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
 
-[![Taky Depilación Banda Facial Chocolate](https://m.media-amazon.com/images/I/516rUFDOpPL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01I2Y4UXS/?tag=tolees-21)
+[![Taky Depilación Banda Facial Chocolate  ](https://m.media-amazon.com/images/I/41iRpE35aRL._SL200_.jpg)](https://www.amazon.es/dp/B01I2Y4UXS/?tag=tolees-21)
 
 🔎:
 
+- Limpia y enriquece
+- Para todos los tipos de piel
+- Para la mujer seductora
+- Suaviza y perfuma la piel
+- Resfrescante fragancia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01I2Y4UXS/?tag=tolees-21)

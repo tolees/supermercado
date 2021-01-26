@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Ruffles -Original - Patatas Fritas con S con un 24.24 % de descuento'
-date: 2021-01-09 21:02:48
+date: 2021-01-26 16:10:48
 image: 'https://m.media-amazon.com/images/I/512h8x7mXTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XDQW3Z8-es'
+slug: 'B00XDQW3Z8-es Ruffles -Original - Patatas Fritas con Sal - 160 g'
+sku: 'B00XDQW3Z8-es'
+tags: [ 'ruffles','patatas','fritas', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0
@@ -25,8 +27,8 @@ En este momento está [Ruffles -Original - Patatas Fritas con Sal - 160 g](https
 
 🔎:
 
-- Envasado en atmósfera protectora
 - Producto sin gluten. Apto para celiacos
+- Envasado en atmósfera protectora
 - Conservar en lugar fresco y seco
 
-[Aquí!!!](https://www.amazon.es/dp/B00XDQW3Z8/?tag=tolees-21)
+[🛒 Aquí!!!](https://www.amazon.es/dp/B00XDQW3Z8/?tag=tolees-21)
