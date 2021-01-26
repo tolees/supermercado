@@ -28,7 +28,7 @@ En este momento está [Samlip Harina Panko 1000 g](https://www.amazon.es/dp/B07Q
 🔎:
 
 - Pan rallado coreano
-- Super crujiente
 - Perfecta para rebozar carnes , pescados y mariscos
+- Super crujiente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QNF3ZTW/?tag=tolees-21)

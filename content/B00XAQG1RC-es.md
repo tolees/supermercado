@@ -27,8 +27,8 @@ Está [Dulcesol Lunas al Cacao - 8 uds - 176 g](https://www.amazon.es/dp/B00XAQG
 
 ℹ️:
 
-- 8 unidades envasadas en paquetes de 2 en 2
 - Elaboradas con huevos frescos de nuestra propia granja
+- 8 unidades envasadas en paquetes de 2 en 2
 - Lunas con cobertura de cacao
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XAQG1RC/?tag=tolees-21)
