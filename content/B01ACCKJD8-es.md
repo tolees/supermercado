@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tarrago | Jabón Para Cuero Saddlery 100m con un 0.00 % de descuento'
-date: 2021-01-25 00:40:33
+date: 2021-01-26 06:41:34
 image: 'https://m.media-amazon.com/images/I/414pQPNdY-L._SL200_.jpg'
 comments: true
 category: ofertas
