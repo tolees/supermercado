@@ -27,10 +27,10 @@ Tienes [Lázaro Cañas De Chocolate Artesanas Envase 300 g  3 unidades . Rellena
 
 🔎:
 
+- Cañas de chocolate de elaboración Artesanal Rellenas de deliciosa Crema de chocolate y Avellanas.
+- Rellenas de crema de Chocolate y Avellanas.
+- Tres cañas grandes en envase de 300g
 - Envase Seguro100% Reciclable.
 - Mantener en lugar fresco y seco. No refrigerar.
-- Tres cañas grandes en envase de 300g
-- Rellenas de crema de Chocolate y Avellanas.
-- Cañas de chocolate de elaboración Artesanal Rellenas de deliciosa Crema de chocolate y Avellanas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MX2W9RS/?tag=tolees-21)
