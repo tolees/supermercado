@@ -27,9 +27,9 @@ Tienes [HARIBO Mega Torcidas Regaliz  1 x 175 g](https://www.amazon.es/dp/B08KFF
 
 🔎:
 
-- Piezas en forma de stick largos de regaliz negro; con un 3% de extracto de regaliz
-- De la marca Haribo
 - Dulces de regaliz
 - Apto para vegetarianos
+- Piezas en forma de stick largos de regaliz negro; con un 3% de extracto de regaliz
+- De la marca Haribo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KFFV34X/?tag=tolees-21)

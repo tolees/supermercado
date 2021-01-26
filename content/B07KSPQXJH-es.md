@@ -27,10 +27,10 @@ Ahora mismo tienes [Consuelo - cápsulas de café compatibles con Nespresso* - F
 
 🔎:
 
-- Intensity 12
-- Un café de sabor intenso, con notas de chocolate.
 - Tostado y envasado en Italia
+- Un café de sabor intenso, con notas de chocolate.
 - Composición: alto porcentaje de Robusta de calidad
+- Intensity 12
 - Envase de 100 cápsulas (10 cajas de 10 cápsulas)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KSPQXJH/?tag=tolees-21)
