@@ -29,8 +29,8 @@ En este momento está [Sanytol - Gel de Manos Desinfectante Hidroalcohólico  Si
 
 - Elimina el 99,9% de bacterias, hongos y virus; Nº1 en desinfección respetuosa; Autorizado desde 2010 por la AEMPS
 - Su fórmula hidratante e hipoalergénica lo hace adecuado incluso para las pieles más sensibles; Dermatológica y clinicamente probado
+- Práctico, sin necesidad de enjuague, ideal para utilizar en cualquier lugar
 - Deja las manos limpias, sanas, suaves y con un delicado perfume a té verde
 - Gel de manos hidroalcohólico sin enjuague
-- Práctico, sin necesidad de enjuague, ideal para utilizar en cualquier lugar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004TQNUU8/?tag=tolees-21)

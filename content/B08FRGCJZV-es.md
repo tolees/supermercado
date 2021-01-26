@@ -28,8 +28,8 @@ En este momento está [Crema hidratante facial Mujer | Concentrado Facial con Á
 🔎:
 
 - APORTA FIRMEZA Y ELASTICIDAD DE LA PIEL – Esta crema ultra hidratante proporciona Firmeza y Elasticidad a tu piel. Apoyada con una solución Antienvejecimiento reafirmante con extracto de Jojoba, creando una capa protectora NO GRASA. Solución líquida fácil de aplicar.
-- PIEL HIDRATADA Y DE ASPECTO MÁS JOVEN – Gracias a su efecto 24 h, se mimetiza en nuestra piel causando una absorción de la misma por completo, las pequeñas arrugas se suavizarán y la piel quedará lisa, tersa,firme e hidratada.
 - CREMA REALIZADA CON INGREDIENTES DERIVADOS DE AGRICULTURA ECOLÓGICA- su fórmula hidratante enriquecida con vitamina E, aceite de jojoba y áloe vera penetra profundamente en las capas subcutáneas de su piel, proporcionando una hidratación instantánea gracias a sus extractos. Estimula la producción natural del colágeno.
+- PIEL HIDRATADA Y DE ASPECTO MÁS JOVEN – Gracias a su efecto 24 h, se mimetiza en nuestra piel causando una absorción de la misma por completo, las pequeñas arrugas se suavizarán y la piel quedará lisa, tersa,firme e hidratada.
 - CREMA FACIAL ULTRA HIDRATANTE CON ÁCIDO HIALURÓNICO + VITAMINA C : Esta combinación de ácido hialurónico y vitaminas actúan contra los signos del envejecimiento de la piel proporcionando múltiples beneficios como : Alisamiento instantáneo de las arrugas superficiales, Mejora la piel, luciendo así una piel más bella y joven, Beneficios de larga duración en la reparación total de la edad y piel seca.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FRGCJZV/?tag=tolees-21)

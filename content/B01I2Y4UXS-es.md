@@ -27,10 +27,10 @@ Tienes [Taky Depilación Banda Facial Chocolate  20 unidades](https://www.amazon
 
 🔎:
 
-- Limpia y enriquece
 - Para todos los tipos de piel
-- Para la mujer seductora
+- Limpia y enriquece
 - Suaviza y perfuma la piel
 - Resfrescante fragancia
+- Para la mujer seductora
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01I2Y4UXS/?tag=tolees-21)

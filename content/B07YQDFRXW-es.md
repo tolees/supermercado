@@ -27,9 +27,9 @@ Ahora mismo tienes [Café FORTALEZA - Cápsulas de Café Cortado Compatibles con
 
 🔎:
 
+- País de origen: españa
 - Recomendamos guardar estas cápsulas de café en un lugar fresco, seco y protegido del sol
 - Café soluble en cápsulas
-- País de origen: españa
 - Cápsulas de café compatibles con el sistema dolce gusto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YQDFRXW/?tag=tolees-21)

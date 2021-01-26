@@ -28,8 +28,8 @@ Está [Cidacos - Tomate Triturado Extra  400 g](https://www.amazon.es/dp/B082VTD
 ℹ️:
 
 - fácil de usar
+- Sin Gluten
 - 400 g
 - producto de calidad
-- Sin Gluten
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082VTDDS1/?tag=tolees-21)

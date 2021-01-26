@@ -27,15 +27,15 @@ Tienes [Marca Amazon - Happy Belly Espresso Café molido de tueste natural en c�
 
 🔎:
 
-- Espresso intenso con acidez equilibrada, y notas de tierra y avellana
-- Gracias al aluminio, nuestras cápsulas resultan perfectamente herméticas y garantizan una óptima conservación del aroma y sabor del café
-- El café en este producto proviene de fincas certificadas Rainforest Alliance
-- Café de fuera de la UE. Tostado y envasado en Bélgica
-- Envasado en atmósfera protectora para mantener su frescura.. Conservar en un lugar fresco y seco
 - Cápsulas Espresso. El envase contiene 6 x 20 (120) porciones
-- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
 - Nespresso es una marca registrada por Nestlé Nespresso S.A
+- Gracias al aluminio, nuestras cápsulas resultan perfectamente herméticas y garantizan una óptima conservación del aroma y sabor del café
+- Café de fuera de la UE. Tostado y envasado en Bélgica
+- El café en este producto proviene de fincas certificadas Rainforest Alliance
+- Espresso intenso con acidez equilibrada, y notas de tierra y avellana
 - 100% Arabica. Intensidad: 4/5
+- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
 - Apto para dietas vegetarianas y veganas
+- Envasado en atmósfera protectora para mantener su frescura.. Conservar en un lugar fresco y seco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08G8Z9JFM/?tag=tolees-21)
