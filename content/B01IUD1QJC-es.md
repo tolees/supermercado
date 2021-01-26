@@ -27,8 +27,8 @@ Está [Conservas Dantza Pimiento del piquillo - 390 gr](https://www.amazon.es/dp
 
 ℹ️:
 
-- Ingredientes: Pimiento del Piquillo, sal y acidulante
 - Entero
+- Ingredientes: Pimiento del Piquillo, sal y acidulante
 - Abrir, verter y condimentar al gusto
 - Rojo uniforme propio del producto maduro. Sin partes amarillas
 

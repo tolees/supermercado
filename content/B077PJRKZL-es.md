@@ -27,10 +27,10 @@ Ahora mismo tienes [com-four® 12x Tarros de Cristal para Conservas con Tapa de 
 
 🔎:
 
-- VOLUMEN DE ENTREGA: 12x tarro para conservas (6x cada color) // Material: vidrio, metal // Color: rosa, verde // Medida exterior: Ø 85 x 59,25 mm
-- DISEÑO BONITO: ¡Hermosos tarros para conservas con tapa en 2 colores diferentes y con diseño "Made with love"!
-- CANTIDAD DE LLENADO ÓPTIMA: Cantidad de llenado hasta el borde del tarro: 250 ml // Nuestra recomendación es la cantidad 200 ml hasta la rosca // Tamaño de la tapa: TO 82 mm
 - PERFECTO COMO REGALO: ¡Los botes de conserva pueden ser rellenados y de esta manera son un regalo ideal para familia y amigos!
 - USO VERSÁTIL: ¡Los frascos de mermelada son aptos tanto para envasar frutas, mermelada, jalea y chutney, como para yogur y porridge!
+- DISEÑO BONITO: ¡Hermosos tarros para conservas con tapa en 2 colores diferentes y con diseño "Made with love"!
+- CANTIDAD DE LLENADO ÓPTIMA: Cantidad de llenado hasta el borde del tarro: 250 ml // Nuestra recomendación es la cantidad 200 ml hasta la rosca // Tamaño de la tapa: TO 82 mm
+- VOLUMEN DE ENTREGA: 12x tarro para conservas (6x cada color) // Material: vidrio, metal // Color: rosa, verde // Medida exterior: Ø 85 x 59,25 mm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077PJRKZL/?tag=tolees-21)
