@@ -27,13 +27,13 @@ En este momento está [Ariel Detergente Líquido para Lavadora  Original  150 La
 
 🔎:
 
-- Fragancia intensa
 - Por razones medioambientales, las botellas no cuentan con un tapón medidor pero puedes pedirlo de forma gratuita en el sitio web ariel
-- Iluminador
-- Eficaz en frío (incluso a 30ºC)
-- Botella 100% reciclable
 - Limpieza profunda e higiene
+- Botella 100% reciclable
 - Resultados óptimos desde el primer lavado
+- Fragancia intensa
+- Eficaz en frío (incluso a 30ºC)
+- Iluminador
 - Quitamanchas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B23XTFK/?tag=tolees-21)

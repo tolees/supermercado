@@ -27,9 +27,9 @@ Ahora mismo tienes [Somat Oro Gel Detergente Lavavajillas Limón - 100 Lavados  
 
 🔎:
 
-- Extra-action: La fórmula multifunción del detergente lavavajillas Somat Oro Gel Limón ofrece un poder limpiador completo gracias a sus 12 acciones: detergente, abrillantador, protector de vasos, etc.
 - Disfruta de la fórmula con Deep Clean Technology del Lavavajillas Somat Oro Gel Limón para que tu vajilla quede impecable, incluso en ciclos cortos.
 - Somat Oro Gel Lavavajillas Limón con desengrasante activo penetra en los residuos de suciedad rebelde y también elimina la suciedad incrustada o quemada.
+- Extra-action: La fórmula multifunción del detergente lavavajillas Somat Oro Gel Limón ofrece un poder limpiador completo gracias a sus 12 acciones: detergente, abrillantador, protector de vasos, etc.
 - Rápido y eficaz: El detergente Somat Oro Gel Lavavajillas Limón para platos en fórmula en gel es eficaz incluso en ciclos de lavado cortos y se disuelve por completo sin dejar residuos en la vajilla.
 - Nuevo formato: El Lavavajillas Somat Oro Gel Limón contiene un frasco exclusivo de doble cámara que permite la combinación de dos fórmulas que garantizan una fuerte acción desengrasante.
 
