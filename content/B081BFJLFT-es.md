@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JamonOnline - Cesta Navidad con Jamón Se al 0.00 % de descuento'
-date: 2021-01-24 18:04:29
+date: 2021-01-26 00:43:43
 image: 'https://m.media-amazon.com/images/I/41BCSJbvkQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B081BFJLFT/?tag=tolees-21'
 descuento: '0.00'
-average: '31.8095238095239'
+average: '31.8139534883721'
 ---
 
 Está [JamonOnline - Cesta Navidad con Jamón Serrano  Fuet Casero  Chorizo Salamanca  Queso Semicurado  Vino Tinto y Picos de Pan.](https://www.amazon.es/dp/B081BFJLFT/?tag=tolees-21) con 0.00 de descuento por 32.0 EUR (original:  EUR) en el siguiente enlace!
