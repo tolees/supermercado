@@ -27,9 +27,9 @@ Tienes [Knorr Caldo Eco con Carne - 60 gr](https://www.amazon.es/dp/B0774WGGLX/?
 
 🔎:
 
+- Peso: 60 gr
+- 1 Pack de 6 unidades
 - Pastilla Ecológico Carne
 - Almacenar en un sitio seco y oscuro
-- 1 Pack de 6 unidades
-- Peso: 60 gr
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0774WGGLX/?tag=tolees-21)
