@@ -27,9 +27,9 @@ Tienes [Only ONLSEDONA Light Coat OTW Noos Abrigo  Chocolate Fondant/Detail:Mela
 
 ℹ️:
 
-- Abrigo con capucha drapeada.
-- 2 bolsillos delanteros ribeteados.
-- Cierre frontal oculto.
 - Composición del material: Material exterior: 85 % poliéster, 15 % algodón. Forro: 100 % poliéster.
+- 2 bolsillos delanteros ribeteados.
+- Abrigo con capucha drapeada.
+- Cierre frontal oculto.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08B61V5HR/?tag=tolees-21)

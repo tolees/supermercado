@@ -27,9 +27,9 @@ Está [B Blesiya - 2 Pcs Cucharas de Café de Flor Cucharillas de Postre con Man
 
 ℹ️:
 
+- * Cucharas de café pequeñas de 2 piezas
 - * Estilo lindo, portátil, textura delicada, bordes lisos.
 - * Material: acero inoxidable 304
-- * Cucharas de café pequeñas de 2 piezas
 - * 2 cucharadas de helado, cuchara mezcladora de café.
 - * Cuchara de café para flores Cuchara de té Cuchara de té Cuchara para cucharas Vajilla de acero inoxidable Agitación / Azúcar / Mezcla / Barra / Mezcla / Cuchara de helado para cocina Comedor, condimento o especias
 
