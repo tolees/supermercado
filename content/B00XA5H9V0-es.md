@@ -27,10 +27,10 @@ Tienes [Gallina Blanca - Sopa De Ave Con Fideos  76 g](https://www.amazon.es/dp/
 
 ℹ️:
 
-- No contiene conservantes
-- Suficiente para preparar 4 raciones
-- Con menos sal
 - Advertencia alergénica: contiene trigo, leche, soja, huevo
+- Con menos sal
+- Suficiente para preparar 4 raciones
 - Se debe conservar en un lugar fresco y seco
+- No contiene conservantes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XA5H9V0/?tag=tolees-21)

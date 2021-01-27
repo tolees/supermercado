@@ -29,7 +29,7 @@ Tienes [Elizabeth Arden  Green Tea Cherry Blossom  Agua de colonia para mujeres 
 
 - Este perfume crea alrededor de la persona que lo lleva un aire de sensualidad
 - Notas de corazón: té, flor del cerezo, ciruela, chabacano y peonía
-- Notas de salida: bergamota, limón (lima ácida), naranja tangerina, petit grain, té verde y almendras dulces
 - Notas de fondo: abedul, musgo de roble, almizcle, heliotropo y azucena blanca
+- Notas de salida: bergamota, limón (lima ácida), naranja tangerina, petit grain, té verde y almendras dulces
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B007L0NORI/?tag=tolees-21)

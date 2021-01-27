@@ -27,9 +27,9 @@ Ahora mismo tienes [L Oreal Paris Elvive - L Oréal Paris Elvive Aceite Extraord
 
 🔎:
 
-- Regenera y nutre el cabello
-- Proporciona una suavidad duradera
 - Deja el cabello brillante y lleno de vitalidad
+- Proporciona una suavidad duradera
+- Regenera y nutre el cabello
 - Fortalece las fibras capilares
 - Crema fina de nutrición sin aclarado para cabello normal y seco
 

@@ -27,9 +27,9 @@ Ahora mismo tienes [Bifrutas Bebida Refrescante con Leche y Zumo de Frutas zero 
 
 🔎:
 
-- Sin grasa
 - Con vitaminas A, C y E
-- Mix de sabores frutas
+- Sin grasa
 - Mix E
+- Mix de sabores frutas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XFMQD2O/?tag=tolees-21)

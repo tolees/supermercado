@@ -28,7 +28,7 @@ Tienes [Calvé Salsa Rosa - 225 ml](https://www.amazon.es/dp/B01N7VT0VV/?tag=tol
 ℹ️:
 
 - Peso neto de 225 ml
-- Gran sabor y calidad
 - Calve Salsa Rosa
+- Gran sabor y calidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N7VT0VV/?tag=tolees-21)
