@@ -28,7 +28,7 @@ Tienes [Viña Cumbrero Crianza - Vino Tinto D.O.C. Rioja. 100% Tempranillo](http
 ℹ️:
 
 - International Wine Challenge - Medalla de Bronce
-- Wine Spectator BEST VALUE (Añada 2010).
 - 88 PUNTOS Guía Peñin (Añada 2009).
+- Wine Spectator BEST VALUE (Añada 2010).
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M0MAWYM/?tag=tolees-21)

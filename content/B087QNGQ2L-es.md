@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dani - Hígado de bacalao ahumado - Pack  al 0.00 % de descuento'
-date: 2021-01-26 12:15:13
+date: 2021-01-27 12:40:21
 image: 'https://m.media-amazon.com/images/I/41uIsKfZ4uL._SL200_.jpg'
 comments: true
 category: ofertas
