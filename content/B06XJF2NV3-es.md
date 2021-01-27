@@ -27,10 +27,10 @@ En este momento está [Jabón líquido de manos Sagrotan  3 unidades  250 ml ](h
 
 🔎:
 
-- Suave con la piel y dermatológicamente probado.
 - Jabón líquido de aroma frutal.
-- Suave con la piel, fuerte contra las bacterias.
 - Limpia de forma higiénica.
+- Suave con la piel, fuerte contra las bacterias.
+- Suave con la piel y dermatológicamente probado.
 - Sin siliconas, aceites minerales ni parabenos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XJF2NV3/?tag=tolees-21)

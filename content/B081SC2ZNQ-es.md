@@ -27,11 +27,11 @@ Ahora mismo tienes [Marca Amazon - Happy Belly - Galletas María sin azúcares a
 
 🔎:
 
-- Paquete de 6
 - Disfrútalas como parte de una dieta equilibrada y de un estilo de vida saludable
+- Estas galletas María contienen azúcares naturales
 - Aptas para dietas vegetarianas
 - Sin azúcares añadidos
-- Estas galletas María contienen azúcares naturales
 - Deliciosas galletas María sin azúcares añadidos, fabricadas en España
+- Paquete de 6
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081SC2ZNQ/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOUSSEL Jabón De Manos Higienizante 300  al 5.53 % de descuento'
-date: 2021-01-25 00:48:49
+date: 2021-01-27 19:13:08
 image: 'https://m.media-amazon.com/images/I/41LBRmicZXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,11 +27,11 @@ Está [MOUSSEL Jabón De Manos Higienizante 300 ml](https://www.amazon.es/dp/B08
 
 ℹ️:
 
-- Su fórmula elimina hasta el 99,9% de las bacterias
 - Abundante espuma para una limpieza eficaz
-- Con aceites esenciales y extractos vegetales
-- Con ingrediente antibacteriano (ácido láctico)
 - Tipo de piel: Normal
+- Con aceites esenciales y extractos vegetales
+- Su fórmula elimina hasta el 99,9% de las bacterias
 - Para el cabello: Natural
+- Con ingrediente antibacteriano (ácido láctico)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FY1ZJVB/?tag=tolees-21)

@@ -27,9 +27,9 @@ Tienes [Lactacyd Pharma Balsámico - Con extractos naturales que ayudan a alivia
 
 ℹ️:
 
-- Descripción detallada más abajo.
+- Formato 250ml
 - Formulado con Ácido L-Láctico biológico (pH=3.5). Enriquecido con extracto de Margarita azul/bisabolol. Sin jabón. Dermatológicamente testado
 - 92% reducción molestias íntimas
-- Formato 250ml
+- Descripción detallada más abajo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NGKGMHG/?tag=tolees-21)

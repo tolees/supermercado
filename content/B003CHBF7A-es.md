@@ -27,10 +27,10 @@ Ahora mismo tienes [Solis 967.68 - Accesorio ondulador de pelo  color negro](htt
 
 🔎:
 
-- Regulación de la salida del aire gracias disco giratorio
-- Adecuado para casi todos los secadores (Diámetro: 6 cm), Protección contra los arañazos gracias a las bandas de goma
-- Estructura sólida para un uso profesional
-- Contenido: 1 difusor Solis Softstyler Superflex, Regulación del flujo de aire, Apto para casi todos los secadores de pelo, Diámetro: 15 cm, Negro
 - De ondas ligeras a cabellos rizados: Difusor para secador
+- Contenido: 1 difusor Solis Softstyler Superflex, Regulación del flujo de aire, Apto para casi todos los secadores de pelo, Diámetro: 15 cm, Negro
+- Estructura sólida para un uso profesional
+- Adecuado para casi todos los secadores (Diámetro: 6 cm), Protección contra los arañazos gracias a las bandas de goma
+- Regulación de la salida del aire gracias disco giratorio
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003CHBF7A/?tag=tolees-21)

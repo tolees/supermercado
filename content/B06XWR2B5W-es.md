@@ -27,8 +27,8 @@ Tienes [Dove - Gel de Ducha Secretos Hidratantes Ritual Restaurador con Aceite d
 
 ℹ️:
 
-- Gel de ducha inspirado en los rituales de belleza de las mujeres de la India
 - Deja tu piel suave y cuidada en sólo una ducha
+- Gel de ducha inspirado en los rituales de belleza de las mujeres de la India
 - El gel de ducha Dove Ritual Restaurador contiene aceite de coco y leche de almendras
 - Hidrata la piel no solo en la superficie, pero también la nutre en profundidad
 

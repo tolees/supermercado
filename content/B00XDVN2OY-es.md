@@ -28,8 +28,8 @@ Ahora mismo tienes [Pantene Pro-V Suave & Liso Mascarilla capilar de queratina p
 🔎:
 
 - Mascarilla capilar para pelo apagado y encrespado
-- Cura intensiva para controlar el encrespamiento y lucir un pelo suave y sedoso
 - Hasta 72 horas de brillo y suavidad en el pelo con un solo uso
+- Cura intensiva para controlar el encrespamiento y lucir un pelo suave y sedoso
 - Testada por el Swiss Vitamin Institute
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XDVN2OY/?tag=tolees-21)
