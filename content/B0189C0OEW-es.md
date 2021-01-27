@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 17.50 % en Cheetos - Pelotazos 130 g'
-date: 2021-01-25 11:52:49
+date: 2021-01-27 20:41:03
 image: 'https://m.media-amazon.com/images/I/51L0nBPtFIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0189C0OEW/?tag=tolees-21'
 descuento: '17.50'
-average: '0.996666666666667'
+average: '0.995'
 ---
 
 Tienes [Cheetos - Pelotazos 130 g](https://www.amazon.es/dp/B0189C0OEW/?tag=tolees-21) con un 17.50 % de descuento con precio de oferta de 0.99 EUR (original: 1.2 EUR) en el siguiente enlace!
@@ -27,8 +27,8 @@ Tienes [Cheetos - Pelotazos 130 g](https://www.amazon.es/dp/B0189C0OEW/?tag=tole
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
 - Contiene lactosa
 - Producto sin gluten
+- Conservar en lugar fresco y seco
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0189C0OEW/?tag=tolees-21)

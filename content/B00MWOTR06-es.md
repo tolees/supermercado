@@ -27,10 +27,10 @@ Está [Maybelline New York Máscara de Cejas Brow Drama  Transparente](https://w
 
 ℹ️:
 
+- Acabado natural
+- Su fórmula gel no deja residuos ni pegotes y notarás una fijación flexible que se adapta a los movimientos faciales
 - Fija; su cepillo de punta redondeada peina la ceja de manera fácil
 - El resultado: ceja peinada, rellena y con color natural
-- Acabado natural
 - Matiza y rellena
-- Su fórmula gel no deja residuos ni pegotes y notarás una fijación flexible que se adapta a los movimientos faciales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00MWOTR06/?tag=tolees-21)

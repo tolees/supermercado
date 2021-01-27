@@ -27,11 +27,11 @@ Está [MOUSSEL Jabón De Manos Higienizante 300 ml](https://www.amazon.es/dp/B08
 
 ℹ️:
 
-- Abundante espuma para una limpieza eficaz
+- Con ingrediente antibacteriano (ácido láctico)
 - Tipo de piel: Normal
 - Con aceites esenciales y extractos vegetales
-- Su fórmula elimina hasta el 99,9% de las bacterias
+- Abundante espuma para una limpieza eficaz
 - Para el cabello: Natural
-- Con ingrediente antibacteriano (ácido láctico)
+- Su fórmula elimina hasta el 99,9% de las bacterias
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FY1ZJVB/?tag=tolees-21)

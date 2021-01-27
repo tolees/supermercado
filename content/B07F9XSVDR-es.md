@@ -27,10 +27,10 @@ Tienes [YOSOY - Bebida de Chocoavena - Caja de 8 packs de 3x250ml](https://www.a
 
 🔎:
 
-- Muy bajo contenido de sal que ayuda a mantener la tensión arterial normal
-- Directamente de la nevera para refrescarse e hidratarse, su consumo ayuda a alcanzar la ingesta mínima diaria de 2 l de agua
-- Bajo contenido en grasas
 - Ingredientes: agua del montseny, avena (22%) ,cacao (1,3%), avellana tostada (0,7%), carbonato cálcico, alga chondrus crispus, vitamina d; de agricultura ecológica
+- Directamente de la nevera para refrescarse e hidratarse, su consumo ayuda a alcanzar la ingesta mínima diaria de 2 l de agua
+- Muy bajo contenido de sal que ayuda a mantener la tensión arterial normal
+- Bajo contenido en grasas
 - Bebida 100% vegetal, sin lactosa, sin azúcares añadidos y sin aditivos, hecha con agua del parque natural del montseny
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F9XSVDR/?tag=tolees-21)
