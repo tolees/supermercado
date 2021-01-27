@@ -27,10 +27,10 @@ Tienes [RITZENHOFF Weizen Copa de cerveza  645 milliliters  Vidrio](https://www.
 
 🔎:
 
-- Decorado con motivos excepcionales de diseñadores internacionales nombrados.
 - Ideal para amantes del diseño y coleccionistas.
 - Se entrega en un exclusivo paquete de regalo, incluye 5 tapas de cerveza decoradas a juego.
-- Vaso de cerveza de trigo con motivos coloridos para una sensación bávara.
 - Dimensiones: altura: 23 cm. Diámetro: 8,5 cm. Volumen: 500 ml.
+- Vaso de cerveza de trigo con motivos coloridos para una sensación bávara.
+- Decorado con motivos excepcionales de diseñadores internacionales nombrados.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WRLL4ZP/?tag=tolees-21)
