@@ -27,10 +27,10 @@ En este momento está [ROCEDECOR - SET 3 Bandejas Madera Rectangular de Bambu pa
 
 🔎:
 
-- DISEÑO BANDEJAS DE MADERA: Hemos diseñado las bandejas con los bordes más altos para asegurar que la comida no se caiga en el sofa o la cama.
 - FABRICADAS EN BAMBÚ: Diseñadas por Rocedecor y hechas en bambu, estas bandejas de desayuno son el complemento perfecto para tu casa.
-- TAMAÑO: Las dimensiones de la bandeja grande es de 38*25*5 cm - La bandeja mediana 35*22*5 cm - l La bandeja pequeña 30*20*4 cm y la bandeja de regalo mide 18*9,6*1 cm
+- DISEÑO BANDEJAS DE MADERA: Hemos diseñado las bandejas con los bordes más altos para asegurar que la comida no se caiga en el sofa o la cama.
 - ATENCIÓN AL CLIENTE: En Rocedecor estamos siempre a tu disposición para ofrecerte un servicio de atención al cliente profesional. Si decide que las bandejas no son adecuadas recibirá un reembolso completo dentro de los primeros 30 días.
 - 3 BANDEJAS PARA SERVIR COMIDA + 1 DE REGALO: El set de bandejas de bambú se compone de 4 tamaños distintos para que elijas el que más se acople a tus necesidades. La bandeja madera más pequeña se utiliza para cortar queso.
+- TAMAÑO: Las dimensiones de la bandeja grande es de 38*25*5 cm - La bandeja mediana 35*22*5 cm - l La bandeja pequeña 30*20*4 cm y la bandeja de regalo mide 18*9,6*1 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QD3HLWD/?tag=tolees-21)
