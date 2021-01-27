@@ -30,7 +30,7 @@ Tienes [Moussel Gel Líquido Classique con Aceites Esenciales Naturales - Paquet
 - Tiene una textura cremosa
 - Tiene textura cremosa
 - Aporta frescor y bienestar
-- Mantiene la textura e hidratación natural
 - Gel de ducha Moussel Clasico
+- Mantiene la textura e hidratación natural
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B077HZW65P/?tag=tolees-21)

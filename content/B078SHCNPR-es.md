@@ -27,10 +27,10 @@ En este momento está [H&H Vhera - Juego de 6 tazas de café  90 ml   color blan
 
 🔎:
 
-- Material: Stoneware
 - Apto para lavavajillas
-- Se puede meter en el microondas
 - Decoración con juegos geométricos y flores estilizadas
+- Material: Stoneware
 - El paquete contiene 6 tazas de café
+- Se puede meter en el microondas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078SHCNPR/?tag=tolees-21)

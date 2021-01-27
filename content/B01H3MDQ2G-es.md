@@ -27,8 +27,8 @@ Ahora mismo tienes [Amandin 400074 Bechamel de Arroz - Paquete de 24 x 200 gr - 
 
 🔎:
 
-- Producto ecológico
 - Sin lactosa
+- Producto ecológico
 - Bajo en grasas saturadas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01H3MDQ2G/?tag=tolees-21)
