@@ -27,8 +27,8 @@ Tienes [Champs Elysees - Lindt – Tableta de chocolate con leche  125 g](https:
 
 ℹ️:
 
-- Una gran sorpresa en cualquier momento
 - Chocolate con leche extrafino
 - Cacao 30% mínimo
+- Una gran sorpresa en cualquier momento
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M0SB0VT/?tag=tolees-21)
