@@ -27,10 +27,10 @@ Tienes [Torres - Coronas Crianza  Vino Tinto - 6 botellas de 75 cl  Total: 4500 
 
 🔎:
 
-- Origen: DO Catalunya
-- Intensos aromas de frutas negras y del bosque, con sutiles notas vegetales y especiadas.
 - Graduación: 13,5% vol.
 - Ideal para acompañar carnes asadas, platos con base de salsa de tomate o con la tradicional paella.
+- Intensos aromas de frutas negras y del bosque, con sutiles notas vegetales y especiadas.
+- Origen: DO Catalunya
 - Puede disfrutarlo desde ahora, bien conservado aguantará 5-8 años.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00BJ4E3U4/?tag=tolees-21)

@@ -28,7 +28,7 @@ En este momento está [HARIBO Favoritos Classic  1 x 1.00 kg](https://www.amazon
 🔎:
 
 - Delicioso mix de diferentes piezas.
-- Surtido de golosinas.
 - Irresistible mix de sabores.
+- Surtido de golosinas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07R3W23XR/?tag=tolees-21)
