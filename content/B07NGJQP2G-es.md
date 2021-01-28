@@ -27,15 +27,15 @@ Ahora mismo tienes [Marca Amazon - Solimo Recambio de jabón líquido para manos
 
 🔎:
 
-- Fórmula hidratante de oliva
-- Únicamente para uso externo
-- Destapar con cuidado y usar para rellenar el dispensador. Asegúrese de volver a cerrarlo firmemente y guardarlo fuera del alcance de los niños
-- Aplicar en las manos húmedas, jabonar y enjuagar bien
-- 1 recambio = 2 botellas de jabón líquido Solimo
 - En caso de contacto con los ojos, lavar bien con agua
-- Dermatológicamente probad
 - Protege la piel contra la sequedad excesiva, dejando las manos nutridas y suaves
+- Dermatológicamente probad
+- Fórmula hidratante de oliva
+- Destapar con cuidado y usar para rellenar el dispensador. Asegúrese de volver a cerrarlo firmemente y guardarlo fuera del alcance de los niños
 - Con pantenol, extracto de hoja de olivo y complejo vitamínico
+- 1 recambio = 2 botellas de jabón líquido Solimo
+- Únicamente para uso externo
 - 2 recargas x 1000ml
+- Aplicar en las manos húmedas, jabonar y enjuagar bien
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NGJQP2G/?tag=tolees-21)

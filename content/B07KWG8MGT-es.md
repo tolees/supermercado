@@ -27,10 +27,10 @@ En este momento está [The Macallan - Macallan Classic Cut Single Malt Whisky Es
 
 🔎:
 
-- AROMA: ralladura de naranja con jengibre y nuez moscada equilibrada con sultana y un toque de avellana.
+- PALADAR: Jengibre dulce y ralladura de naranja con una suave especia de roble.
 - Para apreciar realmente las complejas dimensiones del sabor, vierta y permita que respire durante 10-15 minutos para una experiencia intensificada.
 - ACABADO: Medio dulce con una persistente nota de miel.
+- AROMA: ralladura de naranja con jengibre y nuez moscada equilibrada con sultana y un toque de avellana.
 - COLOR: oro antiguo
-- PALADAR: Jengibre dulce y ralladura de naranja con una suave especia de roble.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KWG8MGT/?tag=tolees-21)
