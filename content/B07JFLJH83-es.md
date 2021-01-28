@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cestas de Navidad - Lotes de Navidad - L con un 0.00 % de descuento'
-date: 2021-01-27 12:24:16
+date: 2021-01-28 12:46:36
 image: 'https://m.media-amazon.com/images/I/51o8Fi1xM-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,7 +27,7 @@ En este momento está [Cestas de Navidad - Lotes de Navidad - Lote de Embutidos 
 
 🔎:
 
-- Artesano
 - Pueblo
+- Artesano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JFLJH83/?tag=tolees-21)
