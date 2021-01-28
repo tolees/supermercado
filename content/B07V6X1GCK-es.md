@@ -28,9 +28,9 @@ Está [LAPASION - Plum Cake integral con fructosa. Bizcocho con frutas y pasas 2
 ℹ️:
 
 - Caja 2.5 Kg. Envuelto individualmente.
-- Caducidad 4 meses desde su envasado.
-- NO contiene aceite de PALMA
-- Plum Cake integral con fructosa, bizcocho con frutas y pasas en su interior.
 - Jugoso bizcocho integral con fructosa.
+- NO contiene aceite de PALMA
+- Caducidad 4 meses desde su envasado.
+- Plum Cake integral con fructosa, bizcocho con frutas y pasas en su interior.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V6X1GCK/?tag=tolees-21)
