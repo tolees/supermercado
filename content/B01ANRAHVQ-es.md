@@ -27,10 +27,10 @@ Está [Martini Reserva Especial Ambrato Vermut - 750 ml](https://www.amazon.es/d
 
 ℹ️:
 
+- Disfruta los sabores de Ambrato con una sencilla mezcla con tónica (mitad/mitad). Áñadele hielo y piel de limón
 - Más de 150 años de experiencia. Un nuevo Vermouth di Torino, que nos remonta a los tiempos de la artesanía local con su sabia combinación de hierbas aromáticas y especias
+- En los bellos campos de Pancalieri, los maestros herbolarios recolectan la manzanilla romana necesaria para crear el equilibrio entre dulce y amargo
 - Color ámbar
 - Ambrato, es un estilo de vermú di Torino que tiene un cuerpo suave pero consistente, ligeramente amargo y floral, que te deja un último sabor a miel
-- En los bellos campos de Pancalieri, los maestros herbolarios recolectan la manzanilla romana necesaria para crear el equilibrio entre dulce y amargo
-- Disfruta los sabores de Ambrato con una sencilla mezcla con tónica (mitad/mitad). Áñadele hielo y piel de limón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ANRAHVQ/?tag=tolees-21)
