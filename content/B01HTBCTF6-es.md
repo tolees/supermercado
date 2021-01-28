@@ -27,8 +27,8 @@ Está [Puleva Leche Mañanas Ligeras Desnatada Sin lactosa - Pack 6 x 1 L - Tota
 
 ℹ️:
 
-- Mas fácil de coger, abrir y servir
 - Apta para niños y adultos intolerantes a la lactosa
+- Mas fácil de coger, abrir y servir
 - Leche sin lactosa facil de digerir desnatada
 - Unica Sin Lactosa en botella de 1L con tapón de rosca
 
