@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Martini Reserva Especial Ambrato Vermut  al 15.89 % de descuento'
-date: 2020-09-10 16:55:52
+date: 2021-01-28 10:09:06
 image: 'https://m.media-amazon.com/images/I/31U82+HlSkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ANRAHVQ/?tag=tolees-21'
 descuento: '15.89'
-average: '8.565000000000001'
+average: '8.42125'
 ---
 
 Está [Martini Reserva Especial Ambrato Vermut - 750 ml](https://www.amazon.es/dp/B01ANRAHVQ/?tag=tolees-21) con 15.89 de descuento por 7.99 EUR (original: 9.5 EUR) en el siguiente enlace!
@@ -27,5 +27,10 @@ Está [Martini Reserva Especial Ambrato Vermut - 750 ml](https://www.amazon.es/d
 
 ℹ️:
 
+- Más de 150 años de experiencia. Un nuevo Vermouth di Torino, que nos remonta a los tiempos de la artesanía local con su sabia combinación de hierbas aromáticas y especias
+- Color ámbar
+- Ambrato, es un estilo de vermú di Torino que tiene un cuerpo suave pero consistente, ligeramente amargo y floral, que te deja un último sabor a miel
+- En los bellos campos de Pancalieri, los maestros herbolarios recolectan la manzanilla romana necesaria para crear el equilibrio entre dulce y amargo
+- Disfruta los sabores de Ambrato con una sencilla mezcla con tónica (mitad/mitad). Áñadele hielo y piel de limón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ANRAHVQ/?tag=tolees-21)

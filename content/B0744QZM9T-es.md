@@ -27,8 +27,8 @@ Tienes [Holle Barritas Manzana & Pera - 35 Barritas](https://www.amazon.es/dp/B0
 
 🔎:
 
+- Fabricado en Alemania
 - Alérgenos: Trazas frutos secos (sin cacahuetes), soja, leche y sésamo
 - Perfecta para comer entre horas y para masticar
-- Fabricado en Alemania
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0744QZM9T/?tag=tolees-21)

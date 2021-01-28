@@ -27,10 +27,10 @@ En este momento está [Head & Shoulders - H&S Champú Classic Anticaspa Champú 
 
 🔎:
 
-- Mantiene la belleza del cabello y lo deja 100 % libre de caspa (con un uso regular)
-- Fórmula Derma&Pure que combate con eficacia el cuero cabelludo seco, graso y con picor para detener la caspa antes de que aparezca
-- El champú anticaspa Classic limpia el cabello y lo mantiene fresco, hidratado y bonito
 - Probado dermatológicamente, pH equilibrado y mejorado con antioxidantes para tratar con suavidad el cabello y el cuero cabelludo
 - Fórmula sin ingredientes no deseados: 0 % de parabenos, fosfatos, parafinas y tintes
+- Mantiene la belleza del cabello y lo deja 100 % libre de caspa (con un uso regular)
+- El champú anticaspa Classic limpia el cabello y lo mantiene fresco, hidratado y bonito
+- Fórmula Derma&Pure que combate con eficacia el cuero cabelludo seco, graso y con picor para detener la caspa antes de que aparezca
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08D78ZQTF/?tag=tolees-21)
