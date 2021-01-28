@@ -27,9 +27,9 @@ Tienes [Purina Felix Fantastic Duo Delice - Comida para Gatos en Sobres  Varieda
 
 ℹ️:
 
-- Elaborado con ingredientes de calidad
-- Alimentación 100% completa y equilibrada, Vitaminas D&E, Minerales Equilibrados, Fuente de Omega 6, Tiernos y jugosos trocitos en gelatina.
-- preparados con tiernos y carnosos trocitos en una suculenta gelatina
 - Con proteínas, Vitaminas y Ácidos grasos Omega 6
+- Alimentación 100% completa y equilibrada, Vitaminas D&E, Minerales Equilibrados, Fuente de Omega 6, Tiernos y jugosos trocitos en gelatina.
+- Elaborado con ingredientes de calidad
+- preparados con tiernos y carnosos trocitos en una suculenta gelatina
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07S625XMV/?tag=tolees-21)

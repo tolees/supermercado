@@ -27,8 +27,8 @@ En este momento está [Alvarez Gomez - Álvarez Gómez- Jabón Líquido - 300 ml
 
 🔎:
 
-- De textura untuosa y muy cremosa, limpia tu piel a la vez que la deja muy suave y protegida.
 - Elaborado con Glicerina, de efectos calmantes, y Aloe Vera, Avena y Aceite de oliva, que proporcionan cuidado y protección.
+- De textura untuosa y muy cremosa, limpia tu piel a la vez que la deja muy suave y protegida.
 - Jabón líquido de uso diario con dosificador y el aroma clásico de Álvarez Gómez.
 - Con un PH Neutro, está fabricado específicamente para evitar irritaciones y cuidar de la piel de toda la familia.
 - Dermatologicamente testado para todo tipo de pieles, edades y de uso diario.
