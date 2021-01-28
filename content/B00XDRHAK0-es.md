@@ -28,7 +28,7 @@ Tienes [Sanex 1164-74668  Dermo Sensitive  Desodorante Spray  2x200ml](https://w
 ℹ️:
 
 - Género: Mujer
-- Tipo de producto: Desodorante vaporizador
 - Marca: Sanex
+- Tipo de producto: Desodorante vaporizador
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDRHAK0/?tag=tolees-21)
