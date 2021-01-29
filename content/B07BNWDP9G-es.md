@@ -27,10 +27,10 @@ Tienes [Marca Amazon - Happy Belly Anacardos enteros  7 x 200gr](https://www.ama
 
 🔎:
 
-- Natural y sin sal
 - Estos anacardos enteros son de calidad suprema
-- IMPORTANTE: El embalaje del producto puede variar en color
-- Advertencia: puede contener traza de cáscara de fruto seco
+- Natural y sin sal
 - Los anacardos enteros de Happy Belly tienen un delicado aroma y una firme textura que les dan un sabor de gran riqueza
+- Advertencia: puede contener traza de cáscara de fruto seco
+- IMPORTANTE: El embalaje del producto puede variar en color
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BNWDP9G/?tag=tolees-21)

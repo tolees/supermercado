@@ -27,9 +27,9 @@ Ahora mismo tienes [TRESemmé Acondicionador Repara Fortalece  685 ml x 6](https
 
 🔎:
 
-- TRESemmé es un nombre de marca reconocido
-- Fórmula con biotina y pro bond complex
 - Repara visiblemente el cabello externa e internamente, protegiéndolo contra 7 tipos de daños secado, alisado, coloración, rizado, decoloración, cepillado y trenzado
 - Repara cada fibra capilar desde el interior, dejando una melena a prueba de daños
+- TRESemmé es un nombre de marca reconocido
+- Fórmula con biotina y pro bond complex
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089HT3GL7/?tag=tolees-21)
