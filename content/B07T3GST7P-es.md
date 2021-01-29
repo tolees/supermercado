@@ -27,9 +27,9 @@ Ahora mismo tienes [Loción Hidratante Urea + Pantenol - Instituto Español - Do
 
 🔎:
 
-- Calma la irritación y picazón.
-- Con Pantenol, potente vitamina regeneradora.
 - Indicado para pieles sensibles.
+- Con Pantenol, potente vitamina regeneradora.
+- Calma la irritación y picazón.
 - Perfecto para después del sol.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07T3GST7P/?tag=tolees-21)
