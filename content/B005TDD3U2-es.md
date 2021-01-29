@@ -28,8 +28,8 @@ Ahora mismo tienes [Gullón - Galleta Fibra sin azúcar Diet Nature 170g](https:
 🔎:
 
 - Diabetic Friendly
-- sugarfree
-- Diet Nature
 - Biscuit
+- Diet Nature
+- sugarfree
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005TDD3U2/?tag=tolees-21)
