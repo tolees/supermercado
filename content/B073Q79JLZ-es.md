@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ejove EJ048 Jabón de Rosa Mosqueta 125 g al 0.00 % de rebaja'
-date: 2021-01-28 01:02:25
+date: 2021-01-29 01:37:30
 image: 'https://m.media-amazon.com/images/I/51Lv0DzCy3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073Q79JLZ/?tag=tolees-21'
 descuento: '0.00'
-average: '2.565'
+average: '2.56978021978022'
 ---
 
 Tienes [Ejove EJ048 Jabón de Rosa Mosqueta 125 gr](https://www.amazon.es/dp/B073Q79JLZ/?tag=tolees-21) con precio final de  3.0 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
