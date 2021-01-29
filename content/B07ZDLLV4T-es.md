@@ -27,11 +27,11 @@ Tienes [Gaggia Cadorna Style RI9600/01 - Máquina de café automática para expr
 
 🔎:
 
-- Producto para uso doméstico.
-- 6 bebidas disponibles y personalizables: espresso, expreso largo, café, americano, estrecho, agua caliente.
-- Molinillos 100% cerámicos, ajustables en 10 niveles para un sabor a medida, desde un molido fino para un café intenso (nivel 1) hasta un molido grueso para un café ligero (nivel 10)
-- Cafetera automática, 100% diseñada y fabricada en Italia.
-- 4 perfiles de usuario para almacenar tus bebidas favoritas y encontrarlas en cada uso.
 - Entre las opciones personalizables: la intensidad del aroma, la cantidad de café, la cantidad de agua, el suministro de una o dos tazas al mismo tiempo, la opción de café premolido.
+- 4 perfiles de usuario para almacenar tus bebidas favoritas y encontrarlas en cada uso.
+- Molinillos 100% cerámicos, ajustables en 10 niveles para un sabor a medida, desde un molido fino para un café intenso (nivel 1) hasta un molido grueso para un café ligero (nivel 10)
+- 6 bebidas disponibles y personalizables: espresso, expreso largo, café, americano, estrecho, agua caliente.
+- Producto para uso doméstico.
+- Cafetera automática, 100% diseñada y fabricada en Italia.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZDLLV4T/?tag=tolees-21)
