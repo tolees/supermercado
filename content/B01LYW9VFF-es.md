@@ -27,8 +27,8 @@ Tienes [Conservas Dantza Melocotón - 840 gr](https://www.amazon.es/dp/B01LYW9VF
 
 🔎:
 
+- Abrir y consumir
 - Melocotón en almíbar ligero
 - Categoría extra
-- Abrir y consumir
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LYW9VFF/?tag=tolees-21)

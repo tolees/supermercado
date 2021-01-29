@@ -28,8 +28,8 @@ Tienes [Tejero - Conserva de pescado | Melva de Almadraba en Aceite de Oliva - 5
 ℹ️:
 
 - Melva, aceite de oliva y sal
-- Pescado
-- España
 - Mantener a temperatura ambiente
+- España
+- Pescado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07J9VPZ5F/?tag=tolees-21)
