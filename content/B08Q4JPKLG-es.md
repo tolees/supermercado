@@ -27,9 +27,9 @@ Tienes [Cidacos Conservas Vegetales 640 g](https://www.amazon.es/dp/B08Q4JPKLG/?
 
 🔎:
 
-- Maíz dulce
 - Origen España
 - Calidad Extra
+- Maíz dulce
 - Mantener en un lugar fresco y seco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08Q4JPKLG/?tag=tolees-21)
