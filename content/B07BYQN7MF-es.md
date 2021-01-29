@@ -27,11 +27,11 @@ Ahora mismo tienes [H&S/HEAD&SHOULDER - HS champú anticaspa citrus fresh cabell
 
 🔎:
 
-- El champú anticaspa Citrus Fresh limpia el cabello y el cuero cabelludo grasos con un aroma a cítricos duradero
-- Fórmula Derma&Pure que combate con eficacia el cuero cabelludo seco, graso y con picor para detener la caspa antes de que aparezca
-- Mantiene la belleza del cabello y lo deja 100 % libre de caspa (con un uso regular)
-- Fórmula sin ingredientes no deseados: 0 % de parabenos, fosfatos y parafinas
 - Marca de champú número 1 del mundo
 - Probado dermatológicamente, pH equilibrado y mejorado con antioxidantes para tratar con suavidad el cabello y el cuero cabelludo
+- El champú anticaspa Citrus Fresh limpia el cabello y el cuero cabelludo grasos con un aroma a cítricos duradero
+- Fórmula sin ingredientes no deseados: 0 % de parabenos, fosfatos y parafinas
+- Fórmula Derma&Pure que combate con eficacia el cuero cabelludo seco, graso y con picor para detener la caspa antes de que aparezca
+- Mantiene la belleza del cabello y lo deja 100 % libre de caspa (con un uso regular)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BYQN7MF/?tag=tolees-21)

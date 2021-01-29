@@ -27,10 +27,10 @@ Tienes [Flota Detergente Líquido Marsella - 90 Lavados](https://www.amazon.es/d
 
 ℹ️:
 
+- Garrafa de 90 lavados (4,95 L.)
+- Indicado para todo tipo de ropa (Blanca y Color)
+- Formato familiar Ahorro
 - Perfume tradicional duradero
 - Limpieza eficaz contra las manchas
-- Garrafa de 90 lavados (4,95 L.)
-- Formato familiar Ahorro
-- Indicado para todo tipo de ropa (Blanca y Color)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07HR5MQFL/?tag=tolees-21)

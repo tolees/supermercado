@@ -27,9 +27,9 @@ Está [Bifemme Jabón árbol del té - 100 gr](https://www.amazon.es/dp/B07YQF6X
 
 ℹ️:
 
-- "Sin conservantes"
+- 100% Biodegradable
 - Elaborado en frío con aceites vegetales (oliva, coco y arroz) ricos en ácidos grasos esenciales, miel y esencias de plantas
 - Jabón árbol del té
-- 100% Biodegradable
+- "Sin conservantes"
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YQF6XTC/?tag=tolees-21)

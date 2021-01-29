@@ -27,10 +27,10 @@ Está [J&B - JB Reserva - Blended Scotch Whisky -700 ml](https://www.amazon.es/d
 
 ℹ️:
 
+- El equilibrio de la elegante, compleja y singular mezcla de whiskies puros de malta y grano hace de J&B Rare el mejor whisky para combinar
+- Creado para satisfacer a los estadounidenses que reclamaban un whisky escocés suave y de calidad
 - Suave, con un persistente toque amaderado dulce y un delicado ahumado
 - J&B Rare contiene los mejores whiskies de malta de Speyside, confiriendo una extraordinaria suavidad a la mezcla
 - El Rey Jorge III concedió a J&B su primera Autorización Real, costumbre que han mantenido los sucesivos monarcas
-- Creado para satisfacer a los estadounidenses que reclamaban un whisky escocés suave y de calidad
-- El equilibrio de la elegante, compleja y singular mezcla de whiskies puros de malta y grano hace de J&B Rare el mejor whisky para combinar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00MTFL71A/?tag=tolees-21)

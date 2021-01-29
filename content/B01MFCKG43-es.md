@@ -27,12 +27,12 @@ En este momento está [American Crew Pomada de Fijacion  Fijacion Extrema/ Brill
 
 🔎:
 
-- Fijación extrema con brillo intenso
 - Una combinación de tensioactivos permite una fácil extracción
-- Proporciona una aplicación suave y fácil
-- Proporciona fijación y estilo duraderos
-- Para conseguir el look y definición deseado
+- Fijación extrema con brillo intenso
 - Sin dañar el cabello
+- Para conseguir el look y definición deseado
 - La fragancia le da el toque masculino
+- Proporciona fijación y estilo duraderos
+- Proporciona una aplicación suave y fácil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MFCKG43/?tag=tolees-21)
