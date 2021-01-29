@@ -27,10 +27,10 @@ Está [L Oreal Paris - L Oréal Paris Elvive Total Repair 5 Rapid Reviver  Masca
 
 ℹ️:
 
-- Especial cabellos dañados
 - Mascarillas instantáneas que reviven tu pelo en 1 segundo
-- Pack de 180 ml
 - Enriquecido con aminoácido y vitamina e derivado de vitamina e
+- Especial cabellos dañados
+- Pack de 180 ml
 - Aplicar en pelo húmedo de medios a puntas después del champú, luego aclarar inmediatamente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YQDD941/?tag=tolees-21)

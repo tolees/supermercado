@@ -27,8 +27,8 @@ Está [Bifrutas Zumo Leche TROPICAL ZERO - Paquete de 8 x 1000 ml - Total: 8000 
 
 ℹ️:
 
-- Leche y zumo de frutas sabor Tropical ZERO
-- Zero materia grasa. Con vitaminas A, C y E, sin azúcares añadidos
 - Agitar antes de servir
+- Zero materia grasa. Con vitaminas A, C y E, sin azúcares añadidos
+- Leche y zumo de frutas sabor Tropical ZERO
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ITUYOOU/?tag=tolees-21)
