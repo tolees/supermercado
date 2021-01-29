@@ -28,9 +28,9 @@ En este momento está [Gullón - Galleta Digestive chocolate  sin azúcar  Diet 
 🔎:
 
 - Sin azúcar y con un alto contenido en fibra, la combinación perfecta para disfrutar.
-- Fabricado por Galletas Gullón.
-- Galletas digestive con cobertura de chocolate negro.
 - Las galletas perfectas para darte un capricho entre horas.
+- Galletas digestive con cobertura de chocolate negro.
+- Fabricado por Galletas Gullón.
 - Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00AURSA3M/?tag=tolees-21)
