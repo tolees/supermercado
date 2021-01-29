@@ -27,8 +27,8 @@ Está [Bright Starts  Barrio Sésamo bola sonajero Elmo](https://www.amazon.es/d
 
 ℹ️:
 
+- Pelota sonajero y anillos llenos de colores
 - Fácil de coger y manejar para el bebé gracias a los agujeros característicos de oball
 - Al bebé le encantará explorar el mundo de elmo y barrio sésamo
-- Pelota sonajero y anillos llenos de colores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VVR8FZ1/?tag=tolees-21)

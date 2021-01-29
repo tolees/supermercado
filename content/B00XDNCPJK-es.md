@@ -27,8 +27,8 @@ Tienes [ISABEL atún en escabeche lata 600 gr](https://www.amazon.es/dp/B00XDNCP
 
 ℹ️:
 
-- Solo atún y escabeche fuente de omega 3
 - Con abre fácil y tapa
+- Solo atún y escabeche fuente de omega 3
 - 600g
 - Taco grande atún en escabeche
 
