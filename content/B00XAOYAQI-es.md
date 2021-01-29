@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 22.67 % en Mentolín Caramelo Balsámico sin Azúcar -'
-date: 2021-01-25 12:44:36
+date: 2021-01-29 19:55:30
 image: 'https://m.media-amazon.com/images/I/51sgUlj+RvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ Tienes [Mentolín Caramelo Balsámico sin Azúcar - 1000 gr](https://www.amazon.
 
 ℹ️:
 
+- Suave efecto balsámico
 - Perfecto para inspirar y respirar
 - Caramelo duro sin azúcar de eucaliptus
-- Suave efecto balsámico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAOYAQI/?tag=tolees-21)

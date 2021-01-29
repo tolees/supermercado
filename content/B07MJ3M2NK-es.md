@@ -28,9 +28,9 @@ Ahora mismo tienes [Tirma  Ambrosía Zero 70% Cacao  Sin Azúcares Añadidos  3 
 🔎:
 
 - Saborea el paraíso con este producto hecho en Gran Canaria y entregado a la comodidad de tu puerta
-- Crujiente ambrosía rellena de crema y bañada con una suave, rica y cremosa capa de chocolate negro 70% - sin azúcares añadidos.
 - Un snack ideal para cualquier momento del día - sea donde sea ¡Estas chocolatinas están para compartir!
 - 100% vegetariano y 100% sabroso
+- Crujiente ambrosía rellena de crema y bañada con una suave, rica y cremosa capa de chocolate negro 70% - sin azúcares añadidos.
 - Su sabor único e inconfundible la convierte en una de las referencias en el mundo de las chocolatinas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MJ3M2NK/?tag=tolees-21)

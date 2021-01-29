@@ -27,8 +27,8 @@ Tienes [Spontex 61590001 Estropajos con Esponja de Poliuretano  5 Unidades](http
 
 ℹ️:
 
-- Gran absorción
 - Con esponja de poliuretano de distintos colores
 - Estropajos de fibra verde
+- Gran absorción
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B008L05XTO/?tag=tolees-21)
