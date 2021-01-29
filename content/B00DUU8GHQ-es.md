@@ -27,9 +27,9 @@ En este momento está [Elizabeth Arden Eight Hour Bálsamo Nutritivo Lip SPF20 -
 
 🔎:
 
-- Hace que los labios sean suaves, lisos y saludables
-- Dermatológica y clínicamente probado
 - Tiene factor de protección SPF 20
+- Dermatológica y clínicamente probado
 - Contiene 8 minerales y vitaminas esenciales
+- Hace que los labios sean suaves, lisos y saludables
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00DUU8GHQ/?tag=tolees-21)
