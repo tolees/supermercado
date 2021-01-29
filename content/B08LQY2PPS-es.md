@@ -27,9 +27,9 @@ Ahora mismo tienes [Nacional Desde 1849  Cornflakes Zero 380 G  Maíz](https://w
 
 🔎:
 
-- Información de alérgenos: cereals containing gluten
-- País de origen: Portugal
 - Contiene vitaminas
+- Información de alérgenos: cereals containing gluten
 - Flocos de maíz sin azúcar
+- País de origen: Portugal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08LQY2PPS/?tag=tolees-21)
