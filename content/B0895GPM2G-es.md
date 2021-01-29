@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WIFORT Dispensador de Jabón Automático   al 0.00 % de descuento'
-date: 2021-01-28 10:47:33
+date: 2021-01-29 14:12:17
 image: 'https://m.media-amazon.com/images/I/31KJWYDw0zL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,10 +27,10 @@ Ahora mismo tienes [WIFORT Dispensador de Jabón Automático  400ML Dispensador 
 
 🔎:
 
-- 【Dispensador Automático de Jabón】Dispensador automático de jabón sin contacto, con tecnología detección de sensor inteligente por infrarrojos, puede liberar automáticamente la loción y jabón sin tocar la bomba, puede detectar su mano dentro de los 6 cm. Mantenga presionado el botón de encendido durante aproximadamente 3 segundos para comenzar a usarlo.
-- 【Material Duradero de Alta Calidad】El dispensador de jabón está hecho de ABS y silicona, seguro y resistente a la corrosión. El dispensador de jabón montado de pared / encimera es adecuado perfecto para hotel, hospital, escuela, oficina, etc. Inserte 4 * pilas AA de acuerdo con la imagen (no incluidas).
-- 【Antigoteo e Impermeable】Resistente al agua IPX7, que puede evitar que el jabón o el agua corroan la placa de circuito. Sin goteo reduce el desperdicio. Con base impermeable y sellos de goma para evitar que entre agua en la caja de la batería, evitar la corrosión y ayudar a extender la vida útil del dispensador.
-- 【Gran Capacidad / Interruptor Ajustable】Con una capacidad de 400 ml, transparente y visible. Hay dos interruptores de dispensación variable, presione el botón +/- para ajustar el volumen de líquido del dispensador de jabón a sus necesidades, compatible con la mayoría de los tipos de loción líquida.
-- 【Garantía de WIFORT】Devolución gratuita en 30 días y garantía gratuita de por vida, póngase en contacto con nosotros inmediatamente si hay cualquier problema.
+- 【6 Modes Adjustable】: Large 400ml / 13.5oz automatic hand sanitizer dispenser has 6 level of dispersing, from 0.3ml to 2 ml, no waste and no leakage, meets your different needs of cleaning.
+- 【Automatic Sensor Soap Dispenser】: WIFORT soap dispenser has built-in 2 infrared sensors, fully automatic non-touch operation. Just place your hand under the sensor to start the soap dispenser, without touching the dispenser, you can effectively avoid cross-infection, providing an excellent hand hygiene solution for adults and children in any place.
+- 【Multifunctional Hand Sanitizer Dispenser】: The washing up liquid dispenser can hold 400ml of liquid soap; hand sanitizer; dish soap; body lotion; shampoo; shower gel; lotion. suitable for home, hospital, market, restaurant, station, airport and hotel.
+- 【IPX7 Waterproof Dispenser】: The latest design of waterproof base prevents dispenser and battery case from water corrosion. There is a screw hole on the back of dispenser, design for wall-hanging on kitchen and bathroom.
+- 【Safe Purchase in WIFORT】: FREE 30 DAYS RETURN REFUND POLICY. WIFORT offers free lifetime guarantee, CONTACT WIFORT friendly customer service to get a replacement if the one you received failed to work.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0895GPM2G/?tag=tolees-21)
