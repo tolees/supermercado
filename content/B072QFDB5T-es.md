@@ -28,7 +28,7 @@ Tienes [Gvtarra Menestra Navarra - Paquete de 6 x 425 gr](https://www.amazon.es/
 ℹ️:
 
 - País de origen: españa
-- Las verduras no contienen gluten; alto contenido en fibra; sin grasas. 0% azúcares
 - No contiene alérgenos
+- Las verduras no contienen gluten; alto contenido en fibra; sin grasas. 0% azúcares
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B072QFDB5T/?tag=tolees-21)
