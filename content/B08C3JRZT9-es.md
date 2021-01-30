@@ -29,9 +29,9 @@ Tienes [Ginebra Premium nacional Nordés - Estuche 1 botella de ginebra Nordés 
 🔎:
 
 - Nordés es una ginebra gallega qué, como el viento que inspira su nombre, viene a refrescar el mundo de las ginebras Premium
-- Una ginebra Premium perfecta para regalo, para celebraciones es, o para disfrutar de una copa agradable en buena compañía
 - Su receta única, utiliza además 11 botánicos naturales , 6 de ellos gallegos, que le otorgan su carácter fresco y equilibrad
-- Uno de los secretos de Nordés reside en la uva Albariño, corazón y alma de su destilado.
 - Nordés gin tiene un sabor único y diferente que impacta los sentidos. Su característico sabor combina matices afrutados con ligeros toques balsámicos
+- Una ginebra Premium perfecta para regalo, para celebraciones es, o para disfrutar de una copa agradable en buena compañía
+- Uno de los secretos de Nordés reside en la uva Albariño, corazón y alma de su destilado.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08C3JRZT9/?tag=tolees-21)

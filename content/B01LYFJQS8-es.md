@@ -28,9 +28,9 @@ En este momento está [Cojon de Gato Vino Tinto - 750 ml](https://www.amazon.es/
 
 🔎:
 
-- Vendimia manual nocturna
-- Tapas y aperitivos
-- Capacidad: 75CL
 - 13,5º
+- Tapas y aperitivos
+- Vendimia manual nocturna
+- Capacidad: 75CL
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LYFJQS8/?tag=tolees-21)

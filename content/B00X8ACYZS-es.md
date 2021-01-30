@@ -28,8 +28,8 @@ En este momento está [FIESTAS GUIRCA Hombre superhéroe Traje Beerman Cerveza](
 
 🔎:
 
-- Talla 52-54
 - Incluye mono, capa y cinturón de cervezas
 - Perfecto para despedidas de soltero y disfraces
+- Talla 52-54
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00X8ACYZS/?tag=tolees-21)

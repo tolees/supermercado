@@ -29,8 +29,8 @@ En este momento está [XLS Medical Nutrition Vainilla + Shaker de regalo - Batid
 🔎:
 
 - Batido sustitutivo para perder peso con ingredientes de origen natural.
-- Sin gluten. Puede contener trazas de huevo. Te recomendamos que bebas suficiente líquido durante el tratamiento (2 litros al día). Puede contener trazas de huevo.
 - Contiene TODAS las vitaminas del grupo B. En concreto, las vitaminas B5 y B12 contribuyen al metabolismo energético normal.
+- Sin gluten. Puede contener trazas de huevo. Te recomendamos que bebas suficiente líquido durante el tratamiento (2 litros al día). Puede contener trazas de huevo.
 - Estos batidos sustitutivos de comida para adelgazar contienen 31 gramos (por porción) de proteínas de alta calidad que contribuyen al mantenimiento y aumento de la masa muscular
 - Sabor vainilla
 
