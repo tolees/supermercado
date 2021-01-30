@@ -27,9 +27,9 @@ Tienes [Whisky Blended Scotch Passport 1L](https://www.amazon.es/dp/B009UXI9CE/?
 
 🔎:
 
-- Calidad adecuada de la bebida garantizada por el fabricante
-- Formato de litro más económico
 - Su cuerpo medio deja sugerencias de nuez sutil y notas ahumadas
+- Calidad adecuada de la bebida garantizada por el fabricante
 - Dulce y aromático que tiene un sabor afrutado suave y cremoso
+- Formato de litro más económico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009UXI9CE/?tag=tolees-21)
