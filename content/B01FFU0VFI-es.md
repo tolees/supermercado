@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'True Instinct Original Medium-Maxi Junior - Pienso para Cachorros de Razas Medianas y Grandes con Pollo y arroz Integral - 2 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FFU0VFI/?tag=tolees-21'
 descuento: '20.02'
 average: '10.39'

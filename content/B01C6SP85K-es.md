@@ -16,6 +16,7 @@ comparePrice: 6.22 EUR
 prodname: 'L Oréal Paris Polvo Bronceador Glam Bronze La Terra Medium Speran'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C6SP85K/?tag=tolees-21'
 descuento: '4.66'
 average: '5.93'

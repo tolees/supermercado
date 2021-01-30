@@ -16,6 +16,7 @@ comparePrice: 7.37 EUR
 prodname: 'Marca Amazon -  Solimo Champú y acondicionador anticaspa 2 en 1  con mentol refrescante- Paquete de 6  6 Botellas x 400 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGFHZTD/?tag=tolees-21'
 descuento: '0.00'
 average: '8.88'

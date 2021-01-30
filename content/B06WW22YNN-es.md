@@ -16,6 +16,7 @@ comparePrice: 11.29 EUR
 prodname: 'Adonis Low Sugar - Barritas de Pacanas Crujiente Sabor de Cocoa | 100% Natural  Baja en Carbohidratos  Sin Gluten  Vegano  Paleo  5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WW22YNN/?tag=tolees-21'
 descuento: '0.00'
 average: '11.29'

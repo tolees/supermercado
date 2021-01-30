@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Powerbar Barritas Proteinas con Bajo Nivel de Azucar Sabor Chocolate Con Leche Maní - 18 Barras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VXKXX5/?tag=tolees-21'
 descuento: '24.89'
 average: '18.56'

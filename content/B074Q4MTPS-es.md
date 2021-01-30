@@ -16,6 +16,7 @@ comparePrice: 11.7 EUR
 prodname: 'Licor del Polo - Pasta de dientes 2 en 1 Non Stop Fresh - 6 uds de 75ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074Q4MTPS/?tag=tolees-21'
 descuento: '23.08'
 average: '6.997999999999999'

@@ -16,6 +16,7 @@ comparePrice: 6.8 EUR
 prodname: 'Nivea Nivea Desod Spray 150 Ml.Woman 0% Alumin. X.B 12U  Ahorr19 6% - 15 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9MBHP4/?tag=tolees-21'
 descuento: '0.00'
 average: '9.805'

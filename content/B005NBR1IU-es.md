@@ -16,6 +16,7 @@ comparePrice: 5.7 EUR
 prodname: 'Schwarzkopf Professional Essensity Permanent Color Ammonia Free 1-0 - 60 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005NBR1IU/?tag=tolees-21'
 descuento: '20.53'
 average: '4.53'

@@ -16,6 +16,7 @@ comparePrice: 23.4 EUR
 prodname: 'Solaray Sex Up | Libido saludable  vitalidad  resistencia y rendimiento para hombres y mujeres | Sin Gluten | Apto Para Veganos | 60 VegCaps'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V6AY4DM/?tag=tolees-21'
 descuento: '12.31'
 average: '20.52'

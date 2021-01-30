@@ -16,6 +16,7 @@ comparePrice: 14.42 EUR
 prodname: 'Mentos Chicle Frutas Silvestres  Sin Azúcar - 10 unidades de 30 gr/ud'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CP89KZA/?tag=tolees-21'
 descuento: '19.97'
 average: '11.54'

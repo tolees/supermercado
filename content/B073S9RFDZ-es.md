@@ -16,6 +16,7 @@ comparePrice: 11.11 EUR
 prodname: 'Hawaiian Tropic Sensitive Skin Face - Crema Solar para la Cara de Piel Sensible  SPF 50  60ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073S9RFDZ/?tag=tolees-21'
 descuento: '19.44'
 average: '8.95'

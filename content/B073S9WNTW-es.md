@@ -16,6 +16,7 @@ comparePrice: 3.5 EUR
 prodname: 'Revlon Flex 2 Fases Nutritivo Acondicionador - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073S9WNTW/?tag=tolees-21'
 descuento: '11.71'
 average: '3.09'

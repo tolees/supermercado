@@ -16,6 +16,7 @@ comparePrice: 23.95 EUR
 prodname: 'Aceite de virgen carbonell 5l pet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UJV4SS0/?tag=tolees-21'
 descuento: '11.27'
 average: '21.25'

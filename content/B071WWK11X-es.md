@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Fanola No Orange Champú Antirreflectante  350 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WWK11X/?tag=tolees-21'
 descuento: '4.32'
 average: '9.09'

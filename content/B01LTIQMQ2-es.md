@@ -16,6 +16,7 @@ comparePrice: 3.93 EUR
 prodname: 'Pantene Pro-V champú Suave y Liso para cabellos encrespados y ondulados 270 ml - Lote de 3.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LTIQMQ2/?tag=tolees-21'
 descuento: '0.00'
 average: '3.93'

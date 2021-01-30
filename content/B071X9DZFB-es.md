@@ -16,6 +16,7 @@ comparePrice: 11.97 EUR
 prodname: 'Schwarzkopf Root Retoucher -  Coloración del Cabello Castaño Oscuro  pack de 3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071X9DZFB/?tag=tolees-21'
 descuento: '0.00'
 average: '11.97'

@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Nobleza - 100 x Empapadores Perros Alfombrilla higiénica de Entrenamiento para Perros. Ultraabsorbente 60cm*60cm.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W55CGGQ/?tag=tolees-21'
 descuento: '12.36'
 average: '29.79'

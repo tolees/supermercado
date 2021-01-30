@@ -16,6 +16,7 @@ comparePrice: 4.15 EUR
 prodname: 'Garnier Original Remedies Elixir de Argán Mascarilla capilar nutritiva cremosa sin silicona para un pelo muy seco y sin brillo - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BYWK3CP/?tag=tolees-21'
 descuento: '19.28'
 average: '3.35'

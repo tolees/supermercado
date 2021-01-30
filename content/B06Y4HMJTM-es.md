@@ -16,6 +16,7 @@ comparePrice: 15 EUR
 prodname: 'L Oreal Vitamino Color - Champú Capilar - 1500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y4HMJTM/?tag=tolees-21'
 descuento: '0.00'
 average: '15'

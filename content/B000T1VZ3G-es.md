@@ -16,6 +16,7 @@ comparePrice: 7.66 EUR
 prodname: 'L Oréal Men Expert Gel Hidratante Antifatiga - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000T1VZ3G/?tag=tolees-21'
 descuento: '0.00'
 average: '7.66'

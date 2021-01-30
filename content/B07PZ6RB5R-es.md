@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Edición Limitada Ashley Longshore  Tono 120 Artist  Color Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZ6RB5R/?tag=tolees-21'
 descuento: '21.52'
 average: '7.84'

@@ -16,6 +16,7 @@ comparePrice: 12.43 EUR
 prodname: 'Calvin Klein 16407 - Desodorante  150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000XUUTOE/?tag=tolees-21'
 descuento: '18.26'
 average: '11.433333333333334'

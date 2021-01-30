@@ -16,6 +16,7 @@ comparePrice: 9.35 EUR
 prodname: 'Maybelline  Barra de labios Superstay Matte Ink  tono 25 Héroine '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074MBWQV1/?tag=tolees-21'
 descuento: '5.67'
 average: '8.905000000000001'

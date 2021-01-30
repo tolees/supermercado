@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Chicco Maglioncino In Tricot Bimbo Jersey para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7DZHH4/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

@@ -16,6 +16,7 @@ comparePrice: 13.6 EUR
 prodname: 'Elizabeth Arden White Tea Gel de Ducha 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9XZ7Z4/?tag=tolees-21'
 descuento: '0.00'
 average: '13.6'

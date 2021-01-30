@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Chorizo Herradura No Picante  Embutidos Ezequiel  500 gramos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQU9REB/?tag=tolees-21'
 descuento: '0.00'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Alternativa 3 - Azúcar Panela Bio Alternativa  5kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01672RVJM/?tag=tolees-21'
 descuento: '13.26'
 average: '19.95'

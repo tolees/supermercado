@@ -16,6 +16,7 @@ comparePrice: 21.52 EUR
 prodname: 'Mimosín Suavizante Dulces Sueños 66lav x 8botellas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQ6VK22/?tag=tolees-21'
 descuento: '21.05'
 average: '17.754545454545454'

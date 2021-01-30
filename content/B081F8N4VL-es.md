@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Roku Ginebra + Tónica y Vaso  70 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081F8N4VL/?tag=tolees-21'
 descuento: '4.56'
 average: '19.36666666666667'

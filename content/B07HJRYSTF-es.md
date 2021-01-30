@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'LUCIFER S ROAST Espresso de KIQO de Italia - 1kg café extremadamente fuerte - bajo en ácido - 100% Robusta - tostado a mano en lotes pequeños  grano de café  1000g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJRYSTF/?tag=tolees-21'
 descuento: '20.00'
 average: '17.29'

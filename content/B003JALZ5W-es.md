@@ -16,6 +16,7 @@ comparePrice: 26.32 EUR
 prodname: 'PowerBar Ride Energy Chocolate Caramel 18x55g - Barra de Proteínas de Carbohidratos + Magnesio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003JALZ5W/?tag=tolees-21'
 descuento: '23.40'
 average: '20.52'

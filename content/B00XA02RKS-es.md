@@ -16,6 +16,7 @@ comparePrice: 12.45 EUR
 prodname: 'Ballantine s Finest Whisky Escocés de Mezcla - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA02RKS/?tag=tolees-21'
 descuento: '14.38'
 average: '11.005'

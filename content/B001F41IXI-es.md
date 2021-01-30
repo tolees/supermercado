@@ -16,6 +16,7 @@ comparePrice: 8.06 EUR
 prodname: 'Salt Of The Earth  Desodorante - 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001F41IXI/?tag=tolees-21'
 descuento: '20.60'
 average: '6.4'

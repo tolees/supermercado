@@ -16,6 +16,7 @@ comparePrice: 17.16 EUR
 prodname: 'Oral B 68341 - Cabezales para cepillo de dientes eléctrico de rotación  color multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GGGL3XA/?tag=tolees-21'
 descuento: '0.00'
 average: '17.16'

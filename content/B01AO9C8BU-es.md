@@ -16,6 +16,7 @@ comparePrice: 12.3 EUR
 prodname: 'Jabón potásico 750 ml. listo para usar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AO9C8BU/?tag=tolees-21'
 descuento: '23.17'
 average: '9.45'

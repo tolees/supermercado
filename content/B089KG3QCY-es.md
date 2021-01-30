@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Sanytol - Jabón de Manos Nutritivo Antibacteriano  con Almendras y Miel - Dosificador de 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Sanytol'
 buyurl: 'https://www.amazon.es/dp/B089KG3QCY/?tag=tolees-21'
 descuento: '0.00'
 average: '2.61788732394366'
@@ -27,10 +28,10 @@ En este momento está [Sanytol - Jabón de Manos Nutritivo Antibacteriano  con A
 
 🔎:
 
-- Deja las manos limpias, suaves, nutridas y delicadamente perfumadas
-- Jabón de manos con protección contra las bacterias a base de extractos naturales de almendras y jalea real
+- Preserva la hidratación natural de la piel gracias a un rico complejo lipídico similar al que conforma la estructura de nuestra epidermis; Fórmula probada dermatológica y clínicamente
 - Complejo dermo reparador con ingredientes de origen natural, entre ellos almendras y jalea real, con propiedades nutritivas y reparadoras
 - Jabón de manos nutritivo antibacteriano
-- Preserva la hidratación natural de la piel gracias a un rico complejo lipídico similar al que conforma la estructura de nuestra epidermis; Fórmula probada dermatológica y clínicamente
+- Jabón de manos con protección contra las bacterias a base de extractos naturales de almendras y jalea real
+- Deja las manos limpias, suaves, nutridas y delicadamente perfumadas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089KG3QCY/?tag=tolees-21)

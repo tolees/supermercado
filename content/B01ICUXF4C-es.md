@@ -16,6 +16,7 @@ comparePrice: 18.2 EUR
 prodname: 'Elifexir Esenciall | Piel Canela | 40 Cápsulas para un Bronceado Duradero y Proteger Piel y Ojos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ICUXF4C/?tag=tolees-21'
 descuento: '20.00'
 average: '14.56'

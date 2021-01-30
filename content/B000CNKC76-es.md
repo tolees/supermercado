@@ -16,6 +16,7 @@ comparePrice: 13.6 EUR
 prodname: 'Davidoff Cool Water Desodorante Spray Mild  1 x 75ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000CNKC76/?tag=tolees-21'
 descuento: '0.00'
 average: '13.5'

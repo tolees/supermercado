@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Red Bull  Bebida Energética  Acai  Sin Azúcar - 12 latas de 250 ml - Total: 3000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Red Bull'
 buyurl: 'https://www.amazon.es/dp/B07BMV97LH/?tag=tolees-21'
 descuento: '20.00'
 average: '12.0'
@@ -29,7 +30,7 @@ Ahora mismo tienes [Red Bull  Bebida Energética  Acai  Sin Azúcar - 12 latas d
 
 - Red Bull Energy Drink es una bebida funcional que da alas cuando las necesitas
 - Red Bull te da alas
-- Red Bull Açai Edition contiene una combinación de ingredientes de alta calidad: Cafeína, Taurina, Vitaminas del grupo B, Sacarosa, Glucosa y Agua del manantial de los Alpes
 - Revitaliza Cuerpo y Mente
+- Red Bull Açai Edition contiene una combinación de ingredientes de alta calidad: Cafeína, Taurina, Vitaminas del grupo B, Sacarosa, Glucosa y Agua del manantial de los Alpes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BMV97LH/?tag=tolees-21)

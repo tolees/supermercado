@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Maybelline New York Maybelline Lápiz de Ojos Efecto Tatuaje Tattoo Liner 920 Striking Navy 1 Unidad 65  g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCTQFMJ/?tag=tolees-21'
 descuento: '0.00'
 average: '5.99'

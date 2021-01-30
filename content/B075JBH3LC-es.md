@@ -16,6 +16,7 @@ comparePrice: 20.55 EUR
 prodname: 'Elizabeth Arden Fifth Avenue NYC Uptown Eau de Parfum 125ml Spray'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075JBH3LC/?tag=tolees-21'
 descuento: '0.00'
 average: '25.28'

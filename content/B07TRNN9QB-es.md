@@ -16,6 +16,7 @@ comparePrice: 2.86 EUR
 prodname: 'Vernel Aromaterapia Suavizante Concentrado Té y Peonía 57 Lavados  1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TRNN9QB/?tag=tolees-21'
 descuento: '23.78'
 average: '2.18'

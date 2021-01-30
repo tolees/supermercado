@@ -16,6 +16,7 @@ comparePrice: 8.81 EUR
 prodname: 'Scottex - Pañuelos Suaves y Resistentes  4 Capas  6 Paquetes de 10 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LTHWTII/?tag=tolees-21'
 descuento: '0.00'
 average: '8.81'

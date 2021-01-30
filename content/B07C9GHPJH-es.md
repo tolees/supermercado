@@ -16,6 +16,7 @@ comparePrice: 5.89 EUR
 prodname: 'Celorrio 20 - 20018 Piña En Almibar Rodajas 50-60 Lata A-10 - 3 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C9GHPJH/?tag=tolees-21'
 descuento: '0.00'
 average: '5.89'

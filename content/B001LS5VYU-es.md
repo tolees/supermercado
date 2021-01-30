@@ -16,6 +16,7 @@ comparePrice: 2.29 EUR
 prodname: 'Versele-laga A-17680 Crispy Muesli Hámster - 1 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001LS5VYU/?tag=tolees-21'
 descuento: '9.17'
 average: '2.08'

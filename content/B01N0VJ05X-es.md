@@ -16,6 +16,7 @@ comparePrice: 8.26 EUR
 prodname: 'Air Wick Ambientador Freshmatic Completo Delicias de Verano Aparato'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0VJ05X/?tag=tolees-21'
 descuento: '3.15'
 average: '7.137500000000001'

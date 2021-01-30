@@ -16,6 +16,7 @@ comparePrice: 3.03 EUR
 prodname: 'Pascual Batido Chocolate - Paquete de 9 x 20 cl - Total: 1800 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7PHDHI/?tag=tolees-21'
 descuento: '4.62'
 average: '2.89'

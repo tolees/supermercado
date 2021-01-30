@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oréal Paris Excellence Coloración Excellence Crème Triple Protección 6 Rubio Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TPM4PZK/?tag=tolees-21'
 descuento: '12.58'
 average: '6.95'

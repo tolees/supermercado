@@ -16,6 +16,7 @@ comparePrice: 8.79 EUR
 prodname: 'Bebida espirituosa elaborada a base de Brandy Veterano 30º - 1 botella de 1 l  100 cl '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AEMSUB0/?tag=tolees-21'
 descuento: '6.83'
 average: '8.19'

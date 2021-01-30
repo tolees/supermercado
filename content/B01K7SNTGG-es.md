@@ -16,6 +16,7 @@ comparePrice: 2.75 EUR
 prodname: 'Free Damm Cerveza Sin Alcohol - Pack de 6 Botellas 25cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7SNTGG/?tag=tolees-21'
 descuento: '9.82'
 average: '2.48'

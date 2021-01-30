@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Gillette ProGlide Power blades - Hoja - Pack de 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NY04AN6/?tag=tolees-21'
 descuento: '0.00'
 average: '13.95'

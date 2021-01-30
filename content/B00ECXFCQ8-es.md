@@ -16,6 +16,7 @@ comparePrice: 12.04 EUR
 prodname: 'L Oréal  Máscara - 7 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ECXFCQ8/?tag=tolees-21'
 descuento: '16.36'
 average: '10.07'

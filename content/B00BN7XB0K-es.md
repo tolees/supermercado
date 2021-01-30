@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'NIVEA MEN Active Energy Bálsamo 2en1 Revitalizante  1 x 100 ml   bálsamo after shave para el cuidado facial  bálsamo hidratante energizante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN7XB0K/?tag=tolees-21'
 descuento: '5.68'
 average: '5.65'

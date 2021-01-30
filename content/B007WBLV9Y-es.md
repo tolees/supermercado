@@ -16,6 +16,7 @@ comparePrice: 2.15 EUR
 prodname: 'NATURGREEN SOJA CALCIUM BIO 1 litro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007WBLV9Y/?tag=tolees-21'
 descuento: '16.74'
 average: '1.8044000000000002'

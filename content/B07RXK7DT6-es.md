@@ -16,6 +16,7 @@ comparePrice: 11.97 EUR
 prodname: 'Johnson s Baby Champú Familiar Clásico  750 ml - Lot de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXK7DT6/?tag=tolees-21'
 descuento: '17.54'
 average: '9.87'

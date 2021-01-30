@@ -16,6 +16,7 @@ comparePrice: 2.49 EUR
 prodname: 'Iberia Tinte Textil Color Chocolate - 70 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAJOIWO/?tag=tolees-21'
 descuento: '11.65'
 average: '2.2'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Ausonia Discreet Normal M - Braguitas-Pants  paquete de 9 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EHSNSFY/?tag=tolees-21'
 descuento: '16.52'
 average: '8.34'

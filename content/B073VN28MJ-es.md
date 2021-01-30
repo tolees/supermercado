@@ -16,6 +16,7 @@ comparePrice: 9.1 EUR
 prodname: 'Maybelline New York Corrector Imperfecciones Master Camo Pens  Rojeces   Tono 10 Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073VN28MJ/?tag=tolees-21'
 descuento: '15.60'
 average: '7.635'

@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'L Oreal Paris - Age Perfect  crema hidratante de ojos  pieles maduras  15ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JNX3SEA/?tag=tolees-21'
 descuento: '9.19'
 average: '8.426'

@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'FIND - Mascarilla hidrogel  sin goteo  antienvejecimiento para el contorno de ojos con zumo de naranja y mango  pack de 5 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XZLB13W/?tag=tolees-21'
 descuento: '18.27'
 average: '8.99'

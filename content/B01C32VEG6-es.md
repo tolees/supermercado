@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Gillette Sensor Excel - Recambio De Maquinilla De Afeitar Para Hombre - 5 Recambios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C32VEG6/?tag=tolees-21'
 descuento: '0.00'
 average: '7.95'

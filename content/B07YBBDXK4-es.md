@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Aranmei Pijamas Mujer Invierno de Algodón Conjunto de Pijama a Rayas 2 Piezas Manga Larga Ropa de Dormir con Bolsillo  Vino Tinto  X-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBBDXK4/?tag=tolees-21'
 descuento: '0.00'
 average: '29.99'

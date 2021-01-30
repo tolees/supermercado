@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Vanish Quitamanchas Polvo  Elimina Olores  Sin Lejía - 420 Gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVTH3GS/?tag=tolees-21'
 descuento: '16.69'
 average: '4.99'

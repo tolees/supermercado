@@ -16,6 +16,7 @@ comparePrice: 8.85 EUR
 prodname: 'Gliss - Spray Acondicionador Express Ultimate Repair - Para cabello muy dañado - 200 ml - Schwarzkopf : Pack de 3 = 600ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W47BSWC/?tag=tolees-21'
 descuento: '23.73'
 average: '6.2299999999999995'

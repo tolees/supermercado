@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'TAC - Juego de 2 paños de cocina  absorbentes  100% algodón  toallitas secas  toallas  diseño multicolor  calidad  rosa  magdalena   color rojo y blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPRM926/?tag=tolees-21'
 descuento: '13.42'
 average: '12.9'

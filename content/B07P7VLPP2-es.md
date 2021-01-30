@@ -16,6 +16,7 @@ comparePrice: 17.94 EUR
 prodname: 'Dove Dermaspa Crema Tratamiento Manos Night - Pack de 6 x 75 ml  Total: 450 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7VLPP2/?tag=tolees-21'
 descuento: '15.27'
 average: '14.357999999999999'

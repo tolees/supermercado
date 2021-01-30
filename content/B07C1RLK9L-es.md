@@ -16,6 +16,7 @@ comparePrice: 20.25 EUR
 prodname: 'Cesar Multipack de 8 tarrinas para perro de 150g selección de clásicos en paté  Pack de 3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C1RLK9L/?tag=tolees-21'
 descuento: '16.64'
 average: '15.684999999999999'

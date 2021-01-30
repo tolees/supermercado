@@ -16,6 +16,7 @@ comparePrice: 9.3 EUR
 prodname: 'Yosoy - Bebida Vegetal Ecológica de Avena  Caja de 6 x 1L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9X5LQP/?tag=tolees-21'
 descuento: '9.68'
 average: '9.54406779661017'

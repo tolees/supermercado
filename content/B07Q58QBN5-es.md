@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Colgate ProClinical 150  Cepillo de Dientes Suave de Batería - 1 ud.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q58QBN5/?tag=tolees-21'
 descuento: '20.02'
 average: '8.79'

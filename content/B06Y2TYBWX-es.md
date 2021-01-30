@@ -16,6 +16,7 @@ comparePrice: 10.47 EUR
 prodname: 'Dove Beauty Finish Desodorante Antitranspirante Aerosol para Piel Sensible 0% Alcohol - 250 ml  Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2TYBWX/?tag=tolees-21'
 descuento: '20.44'
 average: '8.33'

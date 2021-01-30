@@ -16,6 +16,7 @@ comparePrice: 29.86 EUR
 prodname: 'MONKEY SHOULDER Blended Whisky 70cl Bottle'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001P4YYI4/?tag=tolees-21'
 descuento: '19.66'
 average: '23.36'

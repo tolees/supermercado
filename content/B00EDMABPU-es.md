@@ -16,6 +16,7 @@ comparePrice: 13.53 EUR
 prodname: 'Eco Bag Ecobag – Bolsas de Basura  50 Unidades  Resistentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EDMABPU/?tag=tolees-21'
 descuento: '7.69'
 average: '12.49'

@@ -16,6 +16,7 @@ comparePrice: 7.68 EUR
 prodname: 'Puleva Leche Ecológica Semidesnatada - Paquete de 6 x 1000 ml - Total 6000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077TPRRDW/?tag=tolees-21'
 descuento: '21.88'
 average: '6.0'

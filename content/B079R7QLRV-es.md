@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'PEKITAS Muselinas Pack de 3 | Mantas de Muselina 100% Algodón | Paños de Muselina para Bebés Calidad 75 x 75 cm Color Café y blancos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079R7QLRV/?tag=tolees-21'
 descuento: '0.00'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Mical Papel de cocina con 2 Capas - 4 Rollos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0YKPDN/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

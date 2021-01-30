@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'INJUICY Loft Vintage Retro Industria LED AJ Lámpara de Pared Luz Metal Apliques Café Hierro Lámpara de Pared Restaurante Pasillo Cabecera Cocina Comedor Lounge Bar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072FN1JRN/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

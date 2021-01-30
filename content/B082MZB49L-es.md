@@ -16,6 +16,7 @@ comparePrice: 31.95 EUR
 prodname: 'Junio1 Hermosa Caja de Regalo de Flor de jabón de Caja de Madera Hexagonal/corazón romántico Flores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MZB49L/?tag=tolees-21'
 descuento: '0.00'
 average: '31.95'

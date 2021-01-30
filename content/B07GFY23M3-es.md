@@ -16,6 +16,7 @@ comparePrice: 6 EUR
 prodname: 'Marca Amazon - Solimo - Alimento seco completo para perro adulto rico en pollo con guisantes  1 Pack de 5 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GFY23M3/?tag=tolees-21'
 descuento: '0.00'
 average: '5.995'

@@ -16,6 +16,7 @@ comparePrice: 2.49 EUR
 prodname: 'Foxy Asso Ultra Papel de Cocina - 2 rollos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDPNTHU/?tag=tolees-21'
 descuento: '4.82'
 average: '2.39875'

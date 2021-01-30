@@ -16,6 +16,7 @@ comparePrice: 9.2 EUR
 prodname: 'Garnier Delial Sensitive Advanced - Bruma Facial Hidratante Protector Solar IP50+  - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XD38KPB/?tag=tolees-21'
 descuento: '24.46'
 average: '7.508000000000001'

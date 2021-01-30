@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Skip Ultimate Triple Poder Máxima Eficacia Detergente Líquido para Lavadora - 33 lavados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1XZW3L/?tag=tolees-21'
 descuento: '5.01'
 average: '6.595'

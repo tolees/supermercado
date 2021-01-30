@@ -16,6 +16,7 @@ comparePrice: 37.38 EUR
 prodname: 'Vermouth La Copa Extra Seco  - 3 botellas x 750 ml - Total: 2250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNCBPVF/?tag=tolees-21'
 descuento: '7.95'
 average: '23.324999999999996'

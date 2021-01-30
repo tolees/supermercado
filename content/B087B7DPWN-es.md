@@ -16,6 +16,7 @@ comparePrice: 43.9 EUR
 prodname: 'Dispensador automático de jabón SEAAN-1000ML Rociador de Alcohol sin Contacto montado en la Pared  rociador automático de desinfección por inducción  Traje para público  baño  Cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087B7DPWN/?tag=tolees-21'
 descuento: '11.39'
 average: '38.9'

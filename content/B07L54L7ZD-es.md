@@ -16,6 +16,7 @@ comparePrice: 9.49 EUR
 prodname: 'Consuelo - cápsulas de café compatibles con Nespresso* - Supremo  50 cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L54L7ZD/?tag=tolees-21'
 descuento: '0.00'
 average: '9.49'

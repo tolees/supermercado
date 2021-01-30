@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Bonsenkitchen Cortador de Verduras en Espiral  Espiralizador de Verduras  Vegetable Spiralizer Slicer  5 Cuchillas Spiral Cutter Slicer para Veggie Spaghetti Pasta  VS8831 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3TS9DP/?tag=tolees-21'
 descuento: '0.00'
 average: '15.99'

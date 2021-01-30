@@ -16,6 +16,7 @@ comparePrice: 16.65 EUR
 prodname: 'Parodontax Extra Fresh - Pasta de dientes con flúor 75 ml  paquete de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HSF2PKC/?tag=tolees-21'
 descuento: '21.80'
 average: '13.02'

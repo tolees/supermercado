@@ -16,6 +16,7 @@ comparePrice: 13.25 EUR
 prodname: 'KLORANE Champú al Extracto de Peonía 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002LDZQDK/?tag=tolees-21'
 descuento: '0.00'
 average: '13.25'

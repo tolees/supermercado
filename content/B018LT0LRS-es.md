@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Oral-B 3D White 3+1 Cabezas de cepillo de dientes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018LT0LRS/?tag=tolees-21'
 descuento: '0.00'
 average: '13.95'

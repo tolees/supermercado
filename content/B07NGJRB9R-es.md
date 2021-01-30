@@ -16,6 +16,7 @@ comparePrice: 9.74 EUR
 prodname: 'Marca Amazon - Solimo Gel de ducha para hombre revitalizante- Paquete de 6  6 Botellas x 400 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGJRB9R/?tag=tolees-21'
 descuento: '0.00'
 average: '11.365'

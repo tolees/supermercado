@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Ausonia Discreet Boutique Braguitas Para Pérdidas De Orina M Color Salmón  Bloquean El Olor y La Humedad Y Evitan Fugas x 18'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086HCKKJ7/?tag=tolees-21'
 descuento: '7.00'
 average: '18.59'

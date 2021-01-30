@@ -16,6 +16,7 @@ comparePrice: 2.22 EUR
 prodname: 'Cuétara - Napolitanas - Con un toque de deliciosa canela 500 gr - Pack de 2  Total 1000 grams '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0S5HJY/?tag=tolees-21'
 descuento: '0.00'
 average: '2.22'

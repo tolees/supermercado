@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'NIVEA Hyaluron Cellular Filler  pack tratamiento antimanchas con ácido hialurónico  caja de regalo con crema de día con FP30  1 x 50 ml  y sérum facial  1 x 30 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHNMK9B/?tag=tolees-21'
 descuento: '9.11'
 average: '19.95'

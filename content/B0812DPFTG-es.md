@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'L Oréal Infalible 24 H Matte Cover Base De Maquillaje Alta Cobertura Mate Piel Clara Subtono Rosado 110 Vanille Rosé 40 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0812DPFTG/?tag=tolees-21'
 descuento: '11.20'
 average: '10.362499999999999'

@@ -16,6 +16,7 @@ comparePrice: 5.13 EUR
 prodname: 'Blevit Plus Papilla Multicereales Quinoa Bio 1 Unidad 250 g   100% ecológicas. A partir de los 5 meses.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZH9ZSVF/?tag=tolees-21'
 descuento: '15.20'
 average: '4.35'

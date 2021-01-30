@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Einhell - Hidrolimpiadora a alta presión  TC-HP 1538 PC   1500 W  110 bar  380 l/h  depósito de detergente de 0 45 litros  temperatura máxima agua: 60°C '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U87OJ5C/?tag=tolees-21'
 descuento: '9.26'
 average: '111.94'

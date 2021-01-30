@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'CHOCOLATE ALMIZCLE PERFUME árabe Spray - 50ml Por Al Rehab'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KYRUBT8/?tag=tolees-21'
 descuento: '0.00'
 average: '11.95'

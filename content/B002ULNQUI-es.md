@@ -16,6 +16,7 @@ comparePrice: 6.32 EUR
 prodname: 'Borotalco Original Desodorante de Roll-On - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002ULNQUI/?tag=tolees-21'
 descuento: '9.02'
 average: '5.75'

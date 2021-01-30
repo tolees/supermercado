@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Home Treats - Juego de 3 tablas de cortar de bambú | 3 tablas de cortar orgánicas para carne  verduras y queso | Bandeja para servir alimentos.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJ79WWT/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

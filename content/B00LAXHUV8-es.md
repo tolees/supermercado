@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Brabantia 363641 - Cuchara de Espagueti  Acero y Nylon  Color Gris y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LAXHUV8/?tag=tolees-21'
 descuento: '20.13'
 average: '5.99'

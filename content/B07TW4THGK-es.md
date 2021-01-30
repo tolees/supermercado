@@ -16,6 +16,7 @@ comparePrice: 11.89 EUR
 prodname: 'Wifehelper - Dispensador de jabón automático de 300 ml  dispensador de jabón Manual con Sensor automático y Volumen de dispensación Ajustable para Cocina y baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TW4THGK/?tag=tolees-21'
 descuento: '9.25'
 average: '10.79'

@@ -16,6 +16,7 @@ comparePrice: 7.74 EUR
 prodname: 'Font Vella Levité Limón Zero - pack de 6 x 1 25L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBLG2S9/?tag=tolees-21'
 descuento: '11.63'
 average: '6.84'

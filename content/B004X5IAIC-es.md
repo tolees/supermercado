@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Vileda 141084 Easy Wring & Clean Juego de Fregona con Palo Telescópico y Cubo Escurridor Giratorio  Negro/Rojo  48cm x 28cm x 28cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004X5IAIC/?tag=tolees-21'
 descuento: '8.66'
 average: '32.78'

@@ -16,6 +16,7 @@ comparePrice: 17.83 EUR
 prodname: 'NIVEA Cellular Ampolla Ácido Hialurónico Concentrado: Paquete de 8 x 5 ml - Total: 40 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJ9S8J7/?tag=tolees-21'
 descuento: '0.00'
 average: '17.83'

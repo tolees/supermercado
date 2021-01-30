@@ -16,6 +16,7 @@ comparePrice: 23.11 EUR
 prodname: 'Ecover Suavizante Manzana Almendra 5 Lt Ecover 1 Unidad 5000 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HBG3MV/?tag=tolees-21'
 descuento: '16.27'
 average: '19.35'

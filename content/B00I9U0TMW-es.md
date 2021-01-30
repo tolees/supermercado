@@ -16,6 +16,7 @@ comparePrice: 15.5 EUR
 prodname: 'Philips Sonicare For Kids HX6032 - Set de 2 cabezales mini para cepillo de dientes  a partir de los 4 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I9U0TMW/?tag=tolees-21'
 descuento: '22.65'
 average: '11.99'

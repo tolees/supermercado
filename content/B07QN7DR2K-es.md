@@ -16,6 +16,7 @@ comparePrice: 14.82 EUR
 prodname: 'Love Beauty and Planet Gel de Ducha refrescante  Agua de Coco y Flor de Mimosa Vegano - Pack de 3 x 500 ml  Total: 1500 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QN7DR2K/?tag=tolees-21'
 descuento: '0.00'
 average: '14.82'

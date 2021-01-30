@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: '2 Dispenser Jabón Cristal Ambar 500ml Dosificador Botella Estilo Vintage con Pegatinas Impermeables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D82NP2S/?tag=tolees-21'
 descuento: '10.05'
 average: '17.9'

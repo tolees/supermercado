@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Tamnavulin Sherry Cask Whisky De Malta Escocés - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPJ24FR/?tag=tolees-21'
 descuento: '13.07'
 average: '21.45'

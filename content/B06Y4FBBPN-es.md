@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'L Oreal Expert Champú Reforzador - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y4FBBPN/?tag=tolees-21'
 descuento: '19.92'
 average: '11.969999999999999'

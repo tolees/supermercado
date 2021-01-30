@@ -16,6 +16,7 @@ comparePrice: 5.3 EUR
 prodname: 'Embutidos Ezequiel Chorizo Extra Picante 425 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085TYJJF4/?tag=tolees-21'
 descuento: '4.53'
 average: '4.982857142857143'

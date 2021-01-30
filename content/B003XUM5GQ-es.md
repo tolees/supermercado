@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'ColaCao 0% Azúcares añadidos - 300g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003XUM5GQ/?tag=tolees-21'
 descuento: '14.33'
 average: '2.99'

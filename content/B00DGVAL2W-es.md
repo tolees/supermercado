@@ -16,6 +16,7 @@ comparePrice: 45.39 EUR
 prodname: 'Cardhu 15 Años Whisky Escocés - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DGVAL2W/?tag=tolees-21'
 descuento: '14.65'
 average: '38.37'

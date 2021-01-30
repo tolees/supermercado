@@ -16,6 +16,7 @@ comparePrice: 4.32 EUR
 prodname: 'Air Wick VIPoo Spray para el WC  Limón - 55 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWVYYTZ/?tag=tolees-21'
 descuento: '19.44'
 average: '3.48'

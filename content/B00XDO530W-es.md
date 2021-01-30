@@ -16,6 +16,7 @@ comparePrice: 17.18 EUR
 prodname: 'Ballantine s Finest Whisky Escocés de Mezcla - 1 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDO530W/?tag=tolees-21'
 descuento: '21.42'
 average: '13.706666666666667'

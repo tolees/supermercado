@@ -16,6 +16,7 @@ comparePrice: 9.43 EUR
 prodname: 'Haribo Relleno Cola Geles Dulces - 1500 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CP9IXSE/?tag=tolees-21'
 descuento: '18.66'
 average: '7.513333333333334'

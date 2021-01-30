@@ -16,6 +16,7 @@ comparePrice: 27.29 EUR
 prodname: 'Auchentoshan 12 Años Single Malt Whisky Escoces  40% - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0036POGEW/?tag=tolees-21'
 descuento: '11.98'
 average: '25.021250000000002'

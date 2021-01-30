@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Vivaldi Deciso | 110 cápsulas de café compatibles con Nespresso® *'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085B2NRLM/?tag=tolees-21'
 descuento: '13.64'
 average: '18.99'

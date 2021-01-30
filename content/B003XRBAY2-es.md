@@ -16,6 +16,7 @@ comparePrice: 7.79 EUR
 prodname: 'Babaria Veneno Serpiente Contorno Ojos 12 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003XRBAY2/?tag=tolees-21'
 descuento: '17.20'
 average: '6.45'

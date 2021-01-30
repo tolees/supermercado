@@ -16,6 +16,7 @@ comparePrice: 13.65 EUR
 prodname: 'Purina Friskies Pienso para Perro Adulto Aves y Verduras 10 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDPNZMO/?tag=tolees-21'
 descuento: '13.48'
 average: '12.325'

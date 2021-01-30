@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Axe Necesser Dark Temptation Bodyspray 150 ml + Gel de Ducha 250 ml + Aftershave 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZG3LYN2/?tag=tolees-21'
 descuento: '10.41'
 average: '8.976666666666667'

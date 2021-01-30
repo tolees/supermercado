@@ -16,6 +16,7 @@ comparePrice: 14.64 EUR
 prodname: 'Shandy Cruzcampo Limón Cerveza - Caja de 24 Latas x 330 ml - Total: 7.92 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GS1CJ1W/?tag=tolees-21'
 descuento: '9.84'
 average: '12.0'

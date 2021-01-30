@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: '9 Cervezas de las especialidades  de mundo a las mejores cervezas delmundo dan awaywith caja de regalo  no cerveza barata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CBFOOA8/?tag=tolees-21'
 descuento: '17.54'
 average: '32.9'

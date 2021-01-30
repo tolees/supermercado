@@ -16,6 +16,7 @@ comparePrice: 42.3 EUR
 prodname: 'Sangre de Toro Reserva  Vino Tinto - 3 botellas de 75 cl  Total: 2250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OISPGZO/?tag=tolees-21'
 descuento: '10.05'
 average: '38.05'

@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Bionsan Garbanzos Cocidos Ecológicos - 4 Botes de 400 g - Total: 1600 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073FGVP73/?tag=tolees-21'
 descuento: '11.30'
 average: '11.705384615384617'

@@ -16,6 +16,7 @@ comparePrice: 14.79 EUR
 prodname: 'Revium - Limpiador facial antirrojeces para pieles sensibles propensas al eritema  rosácea y cuperosis; molécula 1-metilnicotinamida  extracto de alga verde Chlorella vulgaris y acerola  sin jabón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVY3FRZ/?tag=tolees-21'
 descuento: '19.81'
 average: '11.86'

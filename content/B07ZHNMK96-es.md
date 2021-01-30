@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'NIVEA Q10 Power Día FP30 1 x 50 ml y Serum Pearls 1 x 40 ml  tratamiento antiarrugas con protección FP30  caja de regalo con crema antiedad y sérum facial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHNMK96/?tag=tolees-21'
 descuento: '6.25'
 average: '14.969999999999999'

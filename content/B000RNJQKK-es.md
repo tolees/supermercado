@@ -16,6 +16,7 @@ comparePrice: 22.69 EUR
 prodname: 'Hugo Boss 58000223 desodorante Hombres Desodorante en barra 75 ml - Desodorantes  Hombres  Desodorante  Desodorante en barra  De U  75 ml  1 pieza s  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000RNJQKK/?tag=tolees-21'
 descuento: '0.00'
 average: '22.69'

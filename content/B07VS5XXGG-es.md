@@ -16,6 +16,7 @@ comparePrice: 7.54 EUR
 prodname: 'Lurrose - 5 Bolsas de jabón de Malla de Espuma de Burbujas  Herramienta de Limpieza Facial  Color Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VS5XXGG/?tag=tolees-21'
 descuento: '9.81'
 average: '6.8'

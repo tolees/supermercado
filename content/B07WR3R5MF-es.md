@@ -16,6 +16,7 @@ comparePrice: 11.81 EUR
 prodname: '3 pcs/set del hombre de afeitar kit de afeitado Espuma Cepillo de la vendimia Taza de madera del afeitado de la barba jabón de afeitar Crema de afeitar Accesorios Tazón de contenedores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WR3R5MF/?tag=tolees-21'
 descuento: '0.00'
 average: '11.81'

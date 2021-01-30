@@ -16,6 +16,7 @@ comparePrice: 34.15 EUR
 prodname: 'The Glenrothes 10 Años Single Malt Whisky Escoces  40% - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J4TBNQZ/?tag=tolees-21'
 descuento: '15.37'
 average: '27.325'

@@ -16,6 +16,7 @@ comparePrice: 3.68 EUR
 prodname: 'Dani Berberechos al Natural 40-50 - 63 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWXZ2GX/?tag=tolees-21'
 descuento: '2.17'
 average: '3.6'

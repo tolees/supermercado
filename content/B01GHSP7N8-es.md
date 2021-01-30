@@ -16,6 +16,7 @@ comparePrice: 16.97 EUR
 prodname: 'Vitamaze® Cápsulas de cúrcuma + curcumina piperina altamente concentrada + vitamina C  120 cápsulas veganas  producto alemán de calidad  paquete individual  1 x 105 6 g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GHSP7N8/?tag=tolees-21'
 descuento: '20.04'
 average: '13.57'

@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Aceite de oliva de autor | Virgen extra ecológico biodinámico | Pack de 3: Arbequina  Picual  Coupage | Certificado por Demeter.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8HHPD2/?tag=tolees-21'
 descuento: '20.03'
 average: '47.9'

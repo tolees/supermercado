@@ -16,6 +16,7 @@ comparePrice: 6.96 EUR
 prodname: 'L Oréal Paris 24H Mate  Base Maquillaje Matificante Larga Duración  Tono de Piel Claro 12 Naturel Rosé - 35 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XFO0KGW/?tag=tolees-21'
 descuento: '0.00'
 average: '6.8'

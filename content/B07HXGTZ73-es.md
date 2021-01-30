@@ -16,6 +16,7 @@ comparePrice: 10.52 EUR
 prodname: 'Marca Amazon - Lifelong Complete- Alimento seco completo para gatos adultos rico en pollo y arroz  1 x 3 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HXGTZ73/?tag=tolees-21'
 descuento: '7.51'
 average: '11.36'

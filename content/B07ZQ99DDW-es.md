@@ -16,6 +16,7 @@ comparePrice: 17.89 EUR
 prodname: 'Kit de fabricación de sushi de bambú  9 piezas  alfombrilla de bambú para sushi  incluye 2 alfombrillas de bambú para rodar  5 pares de palillos de picar  1 pala de arroz  1 separador de arroz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQ99DDW/?tag=tolees-21'
 descuento: '16.77'
 average: '14.89'

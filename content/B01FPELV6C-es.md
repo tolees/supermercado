@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: ' "Biere del Mundo regalo + + Información de cerveza + + Catas de instrucciones + + cerveza Tapa. Hombres de cumpleaños/Navidad/día del padre. El regalo inusual y especiales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FPELV6C/?tag=tolees-21'
 descuento: '11.14'
 average: '39.9'

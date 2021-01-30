@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Ariel Pods Allin1 Detergente en Cápsulas para Lavadora  Original  123 Lavados  3 x 41 '
 country: 'es'
 flag: '🇪🇸'
+brand: 'Ariel'
 buyurl: 'https://www.amazon.es/dp/B086KGR7B2/?tag=tolees-21'
 descuento: '14.23'
 average: '29.6230769230769'
@@ -27,11 +28,11 @@ Ahora mismo tienes [Ariel Pods Allin1 Detergente en Cápsulas para Lavadora  Ori
 
 🔎:
 
-- Quitamanchas
 - Fragancia intensa
 - Eficaz en frío (incluso a 30ºC)
-- Resultados increíbles en una sola cápsula (detergente concentrado)
-- Iluminador
+- Quitamanchas
 - Limpieza profunda e higiene
+- Iluminador
+- Resultados increíbles en una sola cápsula (detergente concentrado)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086KGR7B2/?tag=tolees-21)

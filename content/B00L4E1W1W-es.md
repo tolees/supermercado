@@ -16,6 +16,7 @@ comparePrice: 29.49 EUR
 prodname: 'Aislado de Proteína de Soja en Polvo | 100% A Base de Plantas | Bajo en Grasa | Sin Azúcar Añadido | Sin Gluten | THE PROTEIN WORKS | Sin Sabor | 2kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L4E1W1W/?tag=tolees-21'
 descuento: '22.35'
 average: '22.153333333333336'

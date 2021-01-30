@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Nuk Detergente de superfícies para bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZ74CQU/?tag=tolees-21'
 descuento: '20.04'
 average: '3.99'

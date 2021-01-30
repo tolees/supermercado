@@ -16,6 +16,7 @@ comparePrice: 8.59 EUR
 prodname: 'Marca Amazon - Happy Belly Café molido "COLOMBIA"  4 x 250g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVFF82C/?tag=tolees-21'
 descuento: '0.00'
 average: '10.94'

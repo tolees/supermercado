@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Baby Dove - Gel de Baño Hidratación Profunda para Bebés - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G59GQBS/?tag=tolees-21'
 descuento: '8.03'
 average: '2.83'

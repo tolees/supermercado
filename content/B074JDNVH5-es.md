@@ -16,6 +16,7 @@ comparePrice: 1.1 EUR
 prodname: 'Gullón Vitalday Tortitas Maíz Chocolate Gullón - 100 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074JDNVH5/?tag=tolees-21'
 descuento: '13.64'
 average: '0.95'

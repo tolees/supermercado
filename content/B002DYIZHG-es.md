@@ -16,6 +16,7 @@ comparePrice: 29.36 EUR
 prodname: 'Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos  Glutamina y Aminoacidos  BCAA  Extremo Chocolate  Leche  28 Porciones  900 g  Embalaje Puede Variar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002DYIZHG/?tag=tolees-21'
 descuento: '11.96'
 average: '24.483333333333334'

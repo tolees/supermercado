@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Elizabeth Arden Green Tea Eau de parfum 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VOPG54/?tag=tolees-21'
 descuento: '10.05'
 average: '10.273333333333332'

@@ -16,6 +16,7 @@ comparePrice: 16.89 EUR
 prodname: 'DingGreat Kit Accesorios de Recambio para Cecotec Robot Aspirador Conga Serie 1090 Repuestos Paquete de 4 filtros  6 cepillos Laterales  2 Trapos de fregona'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z1XKQCS/?tag=tolees-21'
 descuento: '0.00'
 average: '16.89'

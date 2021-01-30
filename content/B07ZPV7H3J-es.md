@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'GLUBEE dispensadores de jabón rellenables - de cristal transparente para fregaderos de cocina  baño  dispensador de jabón de manos de vidrio líquido con bomba de níquel cepillado  500 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZPV7H3J/?tag=tolees-21'
 descuento: '18.76'
 average: '12.99'

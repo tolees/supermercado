@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'L Oréal Paris - Age Perfect Nutrición Intensa  Sérum Reparador Extraordinario para Pieles Maduras y Secas - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QK5RLGT/?tag=tolees-21'
 descuento: '13.78'
 average: '11.946000000000002'

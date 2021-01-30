@@ -16,6 +16,7 @@ comparePrice: 11.97 EUR
 prodname: 'Knorr - Sopa Pollo Fideos 63 g - [Pack de 19]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MF9YO7A/?tag=tolees-21'
 descuento: '4.76'
 average: '11.4'

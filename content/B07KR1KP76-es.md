@@ -16,6 +16,7 @@ comparePrice: 1.69 EUR
 prodname: 'VVVVANKER DIY Resina Helado Sundae Taza de café Miniatura Mini Ornamentos Paisaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KR1KP76/?tag=tolees-21'
 descuento: '0.00'
 average: '1.69'

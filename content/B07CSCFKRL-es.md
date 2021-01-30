@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Chytaii Delantal cocina Delantal vaquero para mujer y hombre Denim Delantal de trabajo Delantal de chef profesional de cocina Delantal de café barbacoa Delantal del camarero ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CSCFKRL/?tag=tolees-21'
 descuento: '22.06'
 average: '3.11'

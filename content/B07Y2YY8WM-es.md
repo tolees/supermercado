@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Flauno Dispensador de Jabón Automático en Espuma sin Contacto con Sensor de Movimiento Infrarrojo  Impermeable IPX4  Ideal para Baño y Cocina  300ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y2YY8WM/?tag=tolees-21'
 descuento: '16.67'
 average: '21.656666666666666'

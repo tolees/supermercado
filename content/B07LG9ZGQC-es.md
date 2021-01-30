@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'Singleton Glendullan - Whisky escocés puro de malta - Edición limitada Juego de Tronos: Casa Tully  700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG9ZGQC/?tag=tolees-21'
 descuento: '15.00'
 average: '35.7'

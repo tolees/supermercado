@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'Sanytol - Ambientador Desinfectante de Tejidos en Spray  300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PXFV21/?tag=tolees-21'
 descuento: '4.01'
 average: '3.254'

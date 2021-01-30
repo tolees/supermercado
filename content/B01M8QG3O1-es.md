@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Toscaf Café Molido Mezcla Selección - 250 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M8QG3O1/?tag=tolees-21'
 descuento: '20.10'
 average: '1.59'

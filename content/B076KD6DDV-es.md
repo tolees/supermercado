@@ -16,6 +16,7 @@ comparePrice: 17.82 EUR
 prodname: 'Acondicionador de queratina para reparación de cuidado de Indola Innova  número 2  300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076KD6DDV/?tag=tolees-21'
 descuento: '16.27'
 average: '14.92'

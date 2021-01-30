@@ -16,6 +16,7 @@ comparePrice: 5.29 EUR
 prodname: 'Lavazza Café Molido Espresso Dek Classico  Descafeinado 250 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001QGOA58/?tag=tolees-21'
 descuento: '5.67'
 average: '4.99'

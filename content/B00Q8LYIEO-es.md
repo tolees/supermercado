@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'Gölles Alte Zwetschge Brandy - 350 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q8LYIEO/?tag=tolees-21'
 descuento: '0.00'
 average: '13.5'

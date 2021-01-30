@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'HOMFA Mesitas de café Mesitas de centro Mesas Nórdicos Blanco  50×50×50 cm y 40×40×40 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079CHGT9H/?tag=tolees-21'
 descuento: '0.00'
 average: '46.99'

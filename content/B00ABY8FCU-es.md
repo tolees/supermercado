@@ -16,6 +16,7 @@ comparePrice: 3.95 EUR
 prodname: 'OB Cepillo Shiny Clean  Medium Robin Hood 4 uds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ABY8FCU/?tag=tolees-21'
 descuento: '12.15'
 average: '3.352857142857143'

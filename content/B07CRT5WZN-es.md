@@ -16,6 +16,7 @@ comparePrice: 72.99 EUR
 prodname: 'Philips Sonicare ProtectiveClean HX6801/08 - Cepillo de dientes eléctrico con sensor de presión  tecnología BrushSync  2 intensidades y 2 cabezales incluidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CRT5WZN/?tag=tolees-21'
 descuento: '19.17'
 average: '58.875'

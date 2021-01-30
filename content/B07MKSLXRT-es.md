@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Beeswax Wraps - Juego de 6 envoltorios de cera de abeja para almacenamiento de alimentos natural | Sin residuos de queso y sándwiches | Cubiertas lavables para cuenco Beige  patrón de cereza .'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKSLXRT/?tag=tolees-21'
 descuento: '0.00'
 average: '16.95'

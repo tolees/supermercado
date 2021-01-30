@@ -16,6 +16,7 @@ comparePrice: 10.89 EUR
 prodname: 'Colon Detergente polvo azul  44 lavados - 3212 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XADGT8G/?tag=tolees-21'
 descuento: '6.43'
 average: '8.59'

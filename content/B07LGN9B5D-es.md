@@ -16,6 +16,7 @@ comparePrice: 3.08 EUR
 prodname: 'Fairy Limpieza&Cuidado Rosa y Satén Protege Dermis Líquido - 650ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGN9B5D/?tag=tolees-21'
 descuento: '10.71'
 average: '2.75'

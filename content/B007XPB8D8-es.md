@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Advance Adult Sterilized - Pienso para Gatos Adultos esterilizados con Pavo y Cebada - 3 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007XPB8D8/?tag=tolees-21'
 descuento: '0.00'
 average: '17.99'

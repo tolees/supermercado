@@ -16,6 +16,7 @@ comparePrice: 67.43 EUR
 prodname: 'Happers Puff Pera Estampado para niño Camuflaje Verde Infantil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y4B1MQK/?tag=tolees-21'
 descuento: '0.00'
 average: '67.43'

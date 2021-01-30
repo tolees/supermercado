@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Chicco Tutina Bimbo con Apertura Entrogamba Mono Corto para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6BX75G/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

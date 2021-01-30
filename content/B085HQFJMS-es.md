@@ -16,6 +16,7 @@ comparePrice: 17.78 EUR
 prodname: 'GLUTEN FREE: JAMÁS TE SERÁ MÁS FÁCIL COCINAR Y COMER SIN GLUTEN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085HQFJMS/?tag=tolees-21'
 descuento: '5.01'
 average: '16.89'

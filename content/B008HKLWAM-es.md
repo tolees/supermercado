@@ -16,6 +16,7 @@ comparePrice: 16.15 EUR
 prodname: 'Seagram s Dry Ginebra Premium - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008HKLWAM/?tag=tolees-21'
 descuento: '21.36'
 average: '12.340624999999998'

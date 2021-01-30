@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'La Toja - Hidrotermal Espuma Afeitar Protect 7 - 300ml  pack de 6  Total: 1800 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721QGRJF/?tag=tolees-21'
 descuento: '9.43'
 average: '14.4'

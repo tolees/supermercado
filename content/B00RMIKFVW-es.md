@@ -16,6 +16,7 @@ comparePrice: 37.59 EUR
 prodname: 'Gillette Fusion5 ProGlide Power - Recambio de Maquinilla de afeitar  apto para El Buzón de Correos  paquete de 8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RMIKFVW/?tag=tolees-21'
 descuento: '20.32'
 average: '29.714'

@@ -16,6 +16,7 @@ comparePrice: 1.74 EUR
 prodname: 'Nestlé Láminas de Chocolate Negro - 135 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MWJ96K7/?tag=tolees-21'
 descuento: '18.39'
 average: '1.42'

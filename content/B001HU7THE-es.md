@@ -16,6 +16,7 @@ comparePrice: 35.4 EUR
 prodname: 'Caol Ila 12 Años Whisky Escocés Puro de Malta de la Isla de Islay - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001HU7THE/?tag=tolees-21'
 descuento: '20.93'
 average: '35.38'

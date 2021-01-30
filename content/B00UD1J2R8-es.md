@@ -16,6 +16,7 @@ comparePrice: 23.36 EUR
 prodname: 'Säntis Malt Appenzeller Single Edition Trinity Whisky - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UD1J2R8/?tag=tolees-21'
 descuento: '0.00'
 average: '23.36'

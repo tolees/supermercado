@@ -16,6 +16,7 @@ comparePrice: 1.26 EUR
 prodname: 'Knorr Sopa China de Sichuan - 69 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1UO2SB/?tag=tolees-21'
 descuento: '20.63'
 average: '1.0'

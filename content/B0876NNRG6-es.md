@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Marca Amazon - Solimo Jabón de manos líquido - Frambuesa & Menta - Pack de 6  300ml x 6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0876NNRG6/?tag=tolees-21'
 descuento: '24.83'
 average: '16.535'

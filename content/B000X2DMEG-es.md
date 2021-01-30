@@ -16,6 +16,7 @@ comparePrice: 14.17 EUR
 prodname: 'American Crew Pomada de fijación  fijación media / brillo alto   85 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000X2DMEG/?tag=tolees-21'
 descuento: '23.08'
 average: '9.365'

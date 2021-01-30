@@ -16,6 +16,7 @@ comparePrice: 21.54 EUR
 prodname: 'Aneto 100% Natural - Caldo de Pollo - caja de 6 unidades de 1 litro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078VPBQZJ/?tag=tolees-21'
 descuento: '24.98'
 average: '21.311063829787233'

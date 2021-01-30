@@ -16,6 +16,7 @@ comparePrice: 34.8 EUR
 prodname: 'VICTORY ENDURANCE NatureŽs Energy Bar Manzana 60g x 25 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Z6XVLK/?tag=tolees-21'
 descuento: '20.00'
 average: '27.84'

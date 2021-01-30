@@ -16,6 +16,7 @@ comparePrice: 4.1 EUR
 prodname: 'La Fallera - Arroz Extra - 5 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA3KBQM/?tag=tolees-21'
 descuento: '0.00'
 average: '5.935'

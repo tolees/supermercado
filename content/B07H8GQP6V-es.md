@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Edgard & Cooper | Pollo de Granja con Mango  arándanos Negros  Manzana y Zanahoria Frescos | Comida Seca para Perros Adultos | Sin Cereales | Hipoalergénico | Sin Gluten  12 kg '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H8GQP6V/?tag=tolees-21'
 descuento: '0.00'
 average: '69.95'

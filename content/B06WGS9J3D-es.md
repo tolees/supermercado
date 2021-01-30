@@ -16,6 +16,7 @@ comparePrice: 10.74 EUR
 prodname: 'LITORAL Cocido Madrileño - Plato Preparado Sin Gluten - Pack de6x440 g - Total: 2640g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WGS9J3D/?tag=tolees-21'
 descuento: '5.59'
 average: '10.623000000000001'

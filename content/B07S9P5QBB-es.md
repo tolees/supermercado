@@ -16,6 +16,7 @@ comparePrice: 2.45 EUR
 prodname: 'Lactovit - Gel de Ducha Hidratante  Vitalidad y Frescor Fruit Energy con Melocotón y Pomelo  para Piel Seca - 600 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9P5QBB/?tag=tolees-21'
 descuento: '18.78'
 average: '1.99'

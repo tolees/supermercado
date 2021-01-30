@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Parejas Juego de 2 Tazas de Desayuno Café o Te - Accesorio de Cerámica Besándose - Cuchara de Corazón de Amor - Caja de Regalos para día San Valentín con Frase de Love para novio y novia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SD2GDN/?tag=tolees-21'
 descuento: '0.00'
 average: '24.95'

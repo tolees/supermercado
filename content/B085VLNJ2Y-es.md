@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'LA BELLEFÉE Velas de citronela 100% Cera de Soja Velas de Exterior Repelente de Insectos Ideal para hogar  Cocina  Exteriores  Regalo  Dosis de Plata 8 / Set '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085VLNJ2Y/?tag=tolees-21'
 descuento: '24.01'
 average: '18.99'

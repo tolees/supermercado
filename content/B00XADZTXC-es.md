@@ -16,6 +16,7 @@ comparePrice: 11.62 EUR
 prodname: 'Finish Quantum Regular Pastillas para Lavavajillas  40 pastillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XADZTXC/?tag=tolees-21'
 descuento: '9.72'
 average: '10.49'

@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'L Oréal Paris Paleta de Coloretes Infalible Pinks'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MROZ6ZB/?tag=tolees-21'
 descuento: '13.19'
 average: '6.35'

@@ -16,6 +16,7 @@ comparePrice: 15.92 EUR
 prodname: 'Listerine - Mentol 1000 ml  Duplo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DWB5R0G/?tag=tolees-21'
 descuento: '14.26'
 average: '13.125'

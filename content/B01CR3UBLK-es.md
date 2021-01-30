@@ -16,6 +16,7 @@ comparePrice: 10.34 EUR
 prodname: 'Café FORTALEZA - Café en Grano   Mezcla 50/50   - 1 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CR3UBLK/?tag=tolees-21'
 descuento: '0.00'
 average: '10.34'

@@ -16,6 +16,7 @@ comparePrice: 16.29 EUR
 prodname: 'Brokers Ginebra - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005UXJRBU/?tag=tolees-21'
 descuento: '14.98'
 average: '13.883333333333333'

@@ -16,6 +16,7 @@ comparePrice: 2.55 EUR
 prodname: 'Gotas Frescas Colonia Concentrada - Instituto Español 80 ML  14912 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAIT3VG/?tag=tolees-21'
 descuento: '21.96'
 average: '2.14'

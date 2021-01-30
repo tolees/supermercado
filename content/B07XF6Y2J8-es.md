@@ -16,6 +16,7 @@ comparePrice: 25.75 EUR
 prodname: 'Mom Ginebra Premium - 1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XF6Y2J8/?tag=tolees-21'
 descuento: '19.92'
 average: '20.505'

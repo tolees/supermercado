@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Max Factor FaceFinity 3 en 1 All Day Flawless Base de Maquillaje Tono 055 Beige - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009S2IVMK/?tag=tolees-21'
 descuento: '10.05'
 average: '8.633333333333333'

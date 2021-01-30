@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Braun Oral-B Genius PRO9000 Cepillo de Dientes  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S86GTTT/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

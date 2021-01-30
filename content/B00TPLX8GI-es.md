@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oréal Paris Excellence Creme Tinte Tono 6.1 Rubio Oscuro Ceniza - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TPLX8GI/?tag=tolees-21'
 descuento: '12.58'
 average: '6.95'

@@ -16,6 +16,7 @@ comparePrice: 15.8 EUR
 prodname: 'Gliss - Champú Fiber Therapy para cabello sobreprocesado  Plancha y/o tinte  - 4 uds de 400 ml - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6NCXX6/?tag=tolees-21'
 descuento: '14.18'
 average: '10.865555555555556'

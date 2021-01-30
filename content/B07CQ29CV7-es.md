@@ -16,6 +16,7 @@ comparePrice: 4.6 EUR
 prodname: 'Monster - Green  Bebida energética  500 ml  Pack de 4   Lata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQ29CV7/?tag=tolees-21'
 descuento: '14.78'
 average: '3.5725000000000002'

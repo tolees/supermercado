@@ -16,6 +16,7 @@ comparePrice: 4.06 EUR
 prodname: 'Tampax Tampones Compak Regular - 22 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TTMKY2O/?tag=tolees-21'
 descuento: '20.44'
 average: '3.23'

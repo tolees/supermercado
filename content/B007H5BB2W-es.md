@@ -16,6 +16,7 @@ comparePrice: 4.5 EUR
 prodname: 'Ibili Bolsa para legumbres  nailon  37 x 5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007H5BB2W/?tag=tolees-21'
 descuento: '20.00'
 average: '3.6'

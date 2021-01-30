@@ -16,6 +16,7 @@ comparePrice: 19.96 EUR
 prodname: 'Mumiumius Exprimidor automático de Pasta de Dientes Baño Inicio dispensador de Pasta de Dientes Portacepillos de Dientes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZXRRZS/?tag=tolees-21'
 descuento: '0.00'
 average: '19.96'

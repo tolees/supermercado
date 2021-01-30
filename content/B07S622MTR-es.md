@@ -16,6 +16,7 @@ comparePrice: 249.55 EUR
 prodname: 'Silk n ToothWave  Blanco - Cepillo de dientes eléctrico  tecnología RF Dental'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S622MTR/?tag=tolees-21'
 descuento: '19.47'
 average: '200.96'

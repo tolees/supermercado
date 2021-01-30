@@ -16,6 +16,7 @@ comparePrice: 22.49 EUR
 prodname: 'Licor whisky drambuie t.r. 40º  700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002E2LSIU/?tag=tolees-21'
 descuento: '19.30'
 average: '18.15'

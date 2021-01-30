@@ -16,6 +16,7 @@ comparePrice: 14.97 EUR
 prodname: 'Leche entera UHT Dana de larga duración 250 ml x 12  3 5% materia graasa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJ81KP7/?tag=tolees-21'
 descuento: '13.36'
 average: '14.662307692307694'

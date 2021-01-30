@@ -16,6 +16,7 @@ comparePrice: 30.2 EUR
 prodname: 'Jim Beam Single Barrel Kentacky Bourbon Whisky  47.5% - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2VVVR1/?tag=tolees-21'
 descuento: '24.50'
 average: '24.42222222222222'

@@ -16,6 +16,7 @@ comparePrice: 8.97 EUR
 prodname: 'Dove Desodorante Original - Pack de 3 x 150 ml  Total: 450 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BJGJ6GR/?tag=tolees-21'
 descuento: '24.75'
 average: '6.413333333333333'

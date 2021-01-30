@@ -16,6 +16,7 @@ comparePrice: 147.93 EUR
 prodname: 'Breville Mini VCF125X - Barista máquina de café expreso  totalmente automática con espumador de leche al vapor y bomba italiana de 15 bares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPHD8L8/?tag=tolees-21'
 descuento: '0.00'
 average: '168.64000000000001'

@@ -16,6 +16,7 @@ comparePrice: 28.45 EUR
 prodname: 'Soporte para cepillo de dientes  soporte para cepillo de dientes montado en la pared para baño  soporte para pasta de dientes montado en la pared para baño  dispensador automático de pasta de dientes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0865X1PMV/?tag=tolees-21'
 descuento: '21.09'
 average: '22.45'

@@ -16,6 +16,7 @@ comparePrice: 11.32 EUR
 prodname: 'Garnier Delial UV Sport Bruma Protectora SPF50 - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9U8GM2/?tag=tolees-21'
 descuento: '22.44'
 average: '9.026666666666667'

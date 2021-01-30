@@ -16,6 +16,7 @@ comparePrice: 3.85 EUR
 prodname: 'Elvive Acondicionador con Arcilla Extraordinaria - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZYBJQC/?tag=tolees-21'
 descuento: '15.58'
 average: '3.25'

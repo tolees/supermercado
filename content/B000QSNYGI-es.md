@@ -16,6 +16,7 @@ comparePrice: 63.99 EUR
 prodname: 'Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos  Glutamina y Aminoacidos  BCAA  Double Rich Chocolate  73 Porciones  2.26kg  Embalaje Puede Variar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000QSNYGI/?tag=tolees-21'
 descuento: '15.77'
 average: '49.3875'

@@ -16,6 +16,7 @@ comparePrice: 13.4 EUR
 prodname: 'Dolce Gusto 32 - Soporte giratorio para cápsulas de café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GRVPKPW/?tag=tolees-21'
 descuento: '0.00'
 average: '13.4'

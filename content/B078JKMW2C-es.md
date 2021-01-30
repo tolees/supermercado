@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'Urterkam  Champú - 500 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078JKMW2C/?tag=tolees-21'
 descuento: '0.00'
 average: '11.5'

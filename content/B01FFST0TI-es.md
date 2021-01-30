@@ -16,6 +16,7 @@ comparePrice: 5.3 EUR
 prodname: 'Nosa Healthcare Champú - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FFST0TI/?tag=tolees-21'
 descuento: '0.00'
 average: '5.3'

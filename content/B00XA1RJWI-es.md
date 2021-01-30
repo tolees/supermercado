@@ -16,6 +16,7 @@ comparePrice: 11.19 EUR
 prodname: 'Café FORTALEZA - Café en Grano Natural - 1 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA1RJWI/?tag=tolees-21'
 descuento: '10.72'
 average: '9.99'

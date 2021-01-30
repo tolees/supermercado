@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Maeloc Sidra Dulce Ecológica - Pack de 4 x 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077T2M2FQ/?tag=tolees-21'
 descuento: '23.75'
 average: '2.28'

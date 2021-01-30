@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'HOMBRE SIN CIERRES ELEGANTE Formal Zapatos - Café  44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JD1GJ2E/?tag=tolees-21'
 descuento: '0.00'
 average: '22.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'FS L Teanina Pura [300 mg]  Sin Rellenos o Aglutinantes | 90 cápsulas Veganas Naturales | Nootrópico Calmante  Pastillas Para Dormir | Sin aditivos - Sin OGM  Sin Gluten y Sin Lácteos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWXXHZ6/?tag=tolees-21'
 descuento: '20.01'
 average: '15.99'

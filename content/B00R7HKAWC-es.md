@@ -16,6 +16,7 @@ comparePrice: 44.69 EUR
 prodname: 'Melitta Molinillo de café eléctrico  Molino  Disco plano  Negro/Rojo  1019-01'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00R7HKAWC/?tag=tolees-21'
 descuento: '19.47'
 average: '38.89'

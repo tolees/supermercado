@@ -16,6 +16,7 @@ comparePrice: 1.39 EUR
 prodname: 'Beito 4 UNIDS Cabeza de cepillo de dientes eléctrico cubierta protectora polvo y gérmenes cepillo libre cabezas para el cepillo de dientes Oral-B Gran conveniencia  transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLTJ1GH/?tag=tolees-21'
 descuento: '0.00'
 average: '1.39'

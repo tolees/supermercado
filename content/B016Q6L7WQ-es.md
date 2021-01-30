@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Naturseed - Aceite de coco Virgen Extra Orgánico - Para uso Estético  en Cocina y Masajes  500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016Q6L7WQ/?tag=tolees-21'
 descuento: '16.40'
 average: '9.991411764705884'

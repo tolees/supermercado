@@ -16,6 +16,7 @@ comparePrice: 21.52 EUR
 prodname: 'Mimosín Concentrado Suavizante Aloe Vera 66lav x 8botellas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QR85HG/?tag=tolees-21'
 descuento: '21.05'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 114.99 EUR
 prodname: 'FRETZ men Hull  Mocasines para Hombre  Gris  Dove 53   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074L3GJWG/?tag=tolees-21'
 descuento: '0.00'
 average: '114.99'

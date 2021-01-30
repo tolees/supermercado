@@ -16,6 +16,7 @@ comparePrice: 10.88 EUR
 prodname: 'Muñeco blanco - Corazón de Marsella  Detergente delicada para ropa - 3 unidades de 1 L [3 L]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L25EZFC/?tag=tolees-21'
 descuento: '0.00'
 average: '10.882'

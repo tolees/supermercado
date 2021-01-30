@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Garnier Delial Sensitive Advanced - Bruma Seca Protector Solar para Pieles Claras  Sensibles e Intolerantes al Sol IP50+  - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9U8C6C/?tag=tolees-21'
 descuento: '15.02'
 average: '9.076666666666668'

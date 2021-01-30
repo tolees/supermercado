@@ -16,6 +16,7 @@ comparePrice: 35.44 EUR
 prodname: 'Tomatin Single Malt Whisky 12 Años - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IXLA0GW/?tag=tolees-21'
 descuento: '18.34'
 average: '28.94'

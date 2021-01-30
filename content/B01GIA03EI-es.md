@@ -16,6 +16,7 @@ comparePrice: 3.89 EUR
 prodname: 'Lactovit  Loción corporal - 400 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GIA03EI/?tag=tolees-21'
 descuento: '9.00'
 average: '3.54'

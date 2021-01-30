@@ -16,6 +16,7 @@ comparePrice: 13.39 EUR
 prodname: 'Fireball Whisky - 1 x 0.7 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004CYZ7ZI/?tag=tolees-21'
 descuento: '20.39'
 average: '10.77'

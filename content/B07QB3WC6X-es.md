@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'Old Spice Citron Antitranspirante Y Desodorante En Barra Para Hombres 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB3WC6X/?tag=tolees-21'
 descuento: '9.74'
 average: '3.15'

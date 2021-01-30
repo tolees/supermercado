@@ -16,6 +16,7 @@ comparePrice: 26.94 EUR
 prodname: 'Mimosín Collection Parfum Suavizante Fleur Rouge - 6 Paquetes de 58 Lavados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QM92MKG/?tag=tolees-21'
 descuento: '5.57'
 average: '25.44'

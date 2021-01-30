@@ -16,6 +16,7 @@ comparePrice: 3.95 EUR
 prodname: 'Vileda - Fregona microfibras y algodón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0756GS3QJ/?tag=tolees-21'
 descuento: '1.52'
 average: '3.89'

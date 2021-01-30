@@ -16,6 +16,7 @@ comparePrice: 28.98 EUR
 prodname: 'KUNSE Mezclador Eléctrico Auto Portátil De La Proteína Shaker Leche Café Bebida Botella Evolution Vortex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MX3K67R/?tag=tolees-21'
 descuento: '21.88'
 average: '22.64'

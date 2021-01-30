@@ -16,6 +16,7 @@ comparePrice: 32.66 EUR
 prodname: 'Elizabeth Arden 5Th Avenue Royale Edp Vapo 125 Ml 5Th Avenue Royale Edp Vapo 125 Ml 1 unidad 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9D2QSZ/?tag=tolees-21'
 descuento: '0.00'
 average: '32.66'

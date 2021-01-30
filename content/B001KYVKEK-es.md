@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Revlon ColorStay Overtime Pintalabios Larga Duración  Forever Scarlet '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001KYVKEK/?tag=tolees-21'
 descuento: '13.61'
 average: '8.305'

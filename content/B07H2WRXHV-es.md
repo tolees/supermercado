@@ -16,6 +16,7 @@ comparePrice: 4.82 EUR
 prodname: 'Carbonell Aceite De Oliva Virgen Extra Monovarietal Regium En Vidrio - 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2WRXHV/?tag=tolees-21'
 descuento: '20.54'
 average: '3.42'

@@ -16,6 +16,7 @@ comparePrice: 3.42 EUR
 prodname: 'Air Wick - Vela de aceites esenciales  edición limitada  vainilla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCL3P8S/?tag=tolees-21'
 descuento: '0.00'
 average: '3.42'

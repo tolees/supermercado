@@ -16,6 +16,7 @@ comparePrice: 33.34 EUR
 prodname: 'Tork 561500 Dispensador para Jabón en Espuma / Dosificador Elevation compatible con el sistema S4 / Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005FWN0K0/?tag=tolees-21'
 descuento: '18.21'
 average: '27.27'

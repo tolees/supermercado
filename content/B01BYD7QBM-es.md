@@ -16,6 +16,7 @@ comparePrice: 127.68 EUR
 prodname: 'Oral-B Genius 8000N Cepillo de Dientes Eléctrico Tecnología Braun'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BYD7QBM/?tag=tolees-21'
 descuento: '0.00'
 average: '128.71333333333334'

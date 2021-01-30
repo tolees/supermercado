@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'MICHLEY Irrompible Copas de Vino Tinto  100% Tritan-plástico Copas Vino Cristal  425 ML BPA y EA Gratis Vaso de Vino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2DLWH1/?tag=tolees-21'
 descuento: '15.00'
 average: '28.79'

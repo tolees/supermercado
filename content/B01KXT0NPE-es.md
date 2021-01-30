@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Watermans Rápido Hair Growth champú + acondicionador  de Crecimiento Rápido del Cabello  Tratamiento del Cabello para Evitar la Caída del Pelo  lujo para Cuidado del Cabello'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KXT0NPE/?tag=tolees-21'
 descuento: '20.00'
 average: '28.0'

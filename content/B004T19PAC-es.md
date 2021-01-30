@@ -16,6 +16,7 @@ comparePrice: 8.8 EUR
 prodname: 'Bed Head by TIGI Champú Resurrection Urban Antidotes 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004T19PAC/?tag=tolees-21'
 descuento: '18.75'
 average: '7.11'

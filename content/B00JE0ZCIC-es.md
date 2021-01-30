@@ -16,6 +16,7 @@ comparePrice: 0.94 EUR
 prodname: 'HeroNeo - Juego de plantillas para decoración de café  16 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JE0ZCIC/?tag=tolees-21'
 descuento: '0.00'
 average: '0.94'

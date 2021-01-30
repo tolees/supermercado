@@ -16,6 +16,7 @@ comparePrice: 2.4 EUR
 prodname: 'Valor Chocolate con leche  almendras y avellanas  45% cacao  200 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QBQFFQS/?tag=tolees-21'
 descuento: '9.17'
 average: '2.18'

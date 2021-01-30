@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Celeste Roble  Vino Tinto  75 cl - 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFRVXC9/?tag=tolees-21'
 descuento: '14.71'
 average: '7.25'

@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'L Oréal Paris Sublime Mousse Coloración Permanente  Tono: 830 Rubio dorado radiante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9W7DYM/?tag=tolees-21'
 descuento: '20.59'
 average: '6.505'

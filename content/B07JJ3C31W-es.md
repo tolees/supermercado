@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'YING - Dispensador automático de pasta de dientes + caja de almacenamiento de cepillo de dientes  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJ3C31W/?tag=tolees-21'
 descuento: '20.36'
 average: '11.07'

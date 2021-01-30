@@ -16,6 +16,7 @@ comparePrice: 68.33 EUR
 prodname: 'Casals C63009000 Hidrolimpiadora 1400 W  105 bares de presión máxima  caudal de 300 l/h hasta 375 l/h  depósito para detergente incorporado  conectable al circuito de agua corriente   Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDJ9QL5/?tag=tolees-21'
 descuento: '4.89'
 average: '62.589999999999996'

@@ -16,6 +16,7 @@ comparePrice: 1.65 EUR
 prodname: 'Chocolates Valor - Chocolate 70% Cacao  con Mousse de Naranja  Sin Azúcar  150gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IUXT5UO/?tag=tolees-21'
 descuento: '19.39'
 average: '1.3800000000000001'

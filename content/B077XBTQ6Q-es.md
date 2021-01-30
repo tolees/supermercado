@@ -16,6 +16,7 @@ comparePrice: 5.88 EUR
 prodname: 'Neutrex Oxy Color Quitamanchas - 2620 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XBTQ6Q/?tag=tolees-21'
 descuento: '0.00'
 average: '5.88'

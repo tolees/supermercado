@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Krups The Sub Heineken VB650E10 - Tirador de cerveza  2 l frescos de la cerveza 15 días  hasta 2º  eficiencia energética A+  silencioso  indicador listo para servir  color gris acero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KAUYX5S/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Weider Green Flex PROTECTOR Articular 100% Vegano  Con cúrcuma  sin Gluten  ni lácteos 120 capsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8NKW5V/?tag=tolees-21'
 descuento: '15.57'
 average: '13.5'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Gillette Venus Snap Recambios para Maquinilla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y17N7XT/?tag=tolees-21'
 descuento: '12.57'
 average: '7.86'

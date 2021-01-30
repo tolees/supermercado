@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Hoomtaook Estanteria Baño para Esquinas de Baño Ducha No Drill Viene con una Caja de jabón 2 Niveles Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXM6NC5/?tag=tolees-21'
 descuento: '8.34'
 average: '21.99'

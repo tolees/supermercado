@@ -16,6 +16,7 @@ comparePrice: 13.18 EUR
 prodname: 'Vichy 48H Desodorante Antitranspirante Antimanchas - 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CYA0VLM/?tag=tolees-21'
 descuento: '16.92'
 average: '10.95'

@@ -16,6 +16,7 @@ comparePrice: 13.75 EUR
 prodname: ' 100 Unidades. Coffee To Go – Vasos Desechables para café  cartón Revestido  200 ml Coffee to go Taza  diseño de Granos de café. Vasos para Bebidas Calientes y frías'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFF7V4Y/?tag=tolees-21'
 descuento: '24.29'
 average: '10.41'

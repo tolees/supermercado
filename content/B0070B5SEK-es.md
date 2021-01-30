@@ -16,6 +16,7 @@ comparePrice: 19.81 EUR
 prodname: 'Wella SP Men - Set de espuma de pigmento negro Gradual Tone  60 ml  + champú  30 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0070B5SEK/?tag=tolees-21'
 descuento: '18.07'
 average: '16.23'

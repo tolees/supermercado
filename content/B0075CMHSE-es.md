@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'Salerm Cosmetics Dermocalm Champú - 250 ml  Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0075CMHSE/?tag=tolees-21'
 descuento: '17.83'
 average: '5.67'

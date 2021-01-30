@@ -16,6 +16,7 @@ comparePrice: 17.1 EUR
 prodname: 'Hero Baby Solo Bolsita de Manzana  Plátano y Zanahoria Puré de Frutas Ecológico para Llevar para Bebés a partir de 4 meses Pack 18x100 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076F3J5HV/?tag=tolees-21'
 descuento: '5.26'
 average: '16.2'

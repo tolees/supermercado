@@ -16,6 +16,7 @@ comparePrice: 7.62 EUR
 prodname: 'DESODORANTE POTASSIUM ALUM 60GR'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017JIF7EY/?tag=tolees-21'
 descuento: '6.04'
 average: '7.16'

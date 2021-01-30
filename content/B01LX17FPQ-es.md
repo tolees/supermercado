@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Gourmet Frutos Secos Pipas Mondadas Fritas con Sal - 125 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LX17FPQ/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

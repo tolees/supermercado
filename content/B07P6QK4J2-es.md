@@ -16,6 +16,7 @@ comparePrice: 10.47 EUR
 prodname: 'Dove Gel De Ducha Avena - Pack de 3 x 500 ml  Total: 1500 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6QK4J2/?tag=tolees-21'
 descuento: '17.19'
 average: '7.52'

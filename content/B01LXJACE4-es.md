@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Sardinillas en aceite de oliva cuca rr - 90 est. af 90 gr - Pack de 5  Total 450 grams '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXJACE4/?tag=tolees-21'
 descuento: '7.00'
 average: '8.566666666666666'

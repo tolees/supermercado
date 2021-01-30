@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Gvtarra Menestra Navarra - Paquete de 6 x 425 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Gvtarra'
 buyurl: 'https://www.amazon.es/dp/B072QFDB5T/?tag=tolees-21'
 descuento: '0.00'
 average: '32.0127272727272'
@@ -27,8 +28,8 @@ Tienes [Gvtarra Menestra Navarra - Paquete de 6 x 425 gr](https://www.amazon.es/
 
 ℹ️:
 
-- Las verduras no contienen gluten; alto contenido en fibra; sin grasas. 0% azúcares
 - País de origen: españa
+- Las verduras no contienen gluten; alto contenido en fibra; sin grasas. 0% azúcares
 - No contiene alérgenos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B072QFDB5T/?tag=tolees-21)

@@ -16,6 +16,7 @@ comparePrice: 2.95 EUR
 prodname: 'Gliss - Acondicionador Express Fiber Therapy - Sin Aclarado Para cabello Sobreprocesado  Plancha y/o Tinte  - 200 ml - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUS3ED8/?tag=tolees-21'
 descuento: '23.73'
 average: '2.25'

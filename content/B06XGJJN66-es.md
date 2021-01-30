@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'Maybelline New York Fit Me - Polvos Compactos Matificantes y Sin Brillos  Tono 120 Classic Ivory'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGJJN66/?tag=tolees-21'
 descuento: '23.23'
 average: '4.970000000000001'

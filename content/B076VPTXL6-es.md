@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Neutrogena Crema de Manos Sin Perfume - 50 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076VPTXL6/?tag=tolees-21'
 descuento: '0.00'
 average: '2.99'

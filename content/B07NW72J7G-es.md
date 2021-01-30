@@ -16,6 +16,7 @@ comparePrice: 14.67 EUR
 prodname: 'Vernel Suavizante Concentrado Romance – Pack de 3  Total 3.6 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW72J7G/?tag=tolees-21'
 descuento: '21.27'
 average: '11.746'

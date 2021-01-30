@@ -16,6 +16,7 @@ comparePrice: 31.19 EUR
 prodname: 'GOTOTO - Juego de fregona y fregona de Vapor Plana  Cubo Plegable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTSK2BB/?tag=tolees-21'
 descuento: '4.81'
 average: '29.69'

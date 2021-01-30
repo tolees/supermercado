@@ -16,6 +16,7 @@ comparePrice: 1.25 EUR
 prodname: 'Dr. Oetker - Mug Cake Vainilla Con Pepitas De Chocolate 65 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9ZPNI2/?tag=tolees-21'
 descuento: '11.20'
 average: '1.0366666666666666'

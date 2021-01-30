@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Mineradora manual de la carne con hojas de acero fundido para salchichas de carne Enema fideos y frutas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N21BC1A/?tag=tolees-21'
 descuento: '24.41'
 average: '18.89'

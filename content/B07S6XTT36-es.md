@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Vivesoy Frutos Secos sin Azúcar  pack de 6 x 1L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6XTT36/?tag=tolees-21'
 descuento: '15.92'
 average: '6.933333333333333'

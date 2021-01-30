@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Maybelline New York - Superstay Matte Ink  Barra de Labios Mate  Tono 35 Creator'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073H9TC5V/?tag=tolees-21'
 descuento: '20.42'
 average: '7.17'

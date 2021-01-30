@@ -16,6 +16,7 @@ comparePrice: 11.92 EUR
 prodname: 'Maybelline - Barra de Labios Superstay 24h con estuche  585 Borgoña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004GXDI4M/?tag=tolees-21'
 descuento: '24.92'
 average: '8.045'

@@ -16,6 +16,7 @@ comparePrice: 32.49 EUR
 prodname: 'MyProtein Impact Whey Isolate Proteína de Suero  Sabor Chocolate Blanco - 1000 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MNNG6CS/?tag=tolees-21'
 descuento: '21.21'
 average: '25.6'

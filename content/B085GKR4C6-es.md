@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'Pack de 6 Botellas de 1L gel hidroalcohólico higienizante PURLINE PACK6 HIDROGEL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085GKR4C6/?tag=tolees-21'
 descuento: '19.99'
 average: '60.39666666666667'

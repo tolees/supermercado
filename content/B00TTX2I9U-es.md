@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Listerine - Enjuague Bucal Menta Fresca  500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TTX2I9U/?tag=tolees-21'
 descuento: '19.84'
 average: '4.0'

@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Revlon Colorstay Delineador Líquido Tono 251 Blackest Black - 2.5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003HLMP4I/?tag=tolees-21'
 descuento: '11.57'
 average: '4.51'

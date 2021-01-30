@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Vermouth Padró & Co Rojo Clásico - 3 botellas de 75 cl  Total: 2250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088R1VQ5H/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'
@@ -27,9 +28,9 @@ Tienes [Vermouth Padró & Co Rojo Clásico - 3 botellas de 75 cl  Total: 2250 ml
 
 ℹ️:
 
-- Graduación: 18% vol.
 - Aromas de especias dulces de canela y clavo. Fondo de frutas pasificadas. Boca cremosa y fresca con final herbáceo.
 - Ideal acompañado con una rodaja de naranja.
+- Graduación: 18% vol.
 - Ideal para combinar con embutidos, quesos y snacks salados. Servir frío.
 - Origen: Zona/Región vinícola Tarragona
 

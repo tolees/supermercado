@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Pigmentos para Resina Epoxi DEWEL 10g*15 Colores Pigmentos en Polvo Mica en Polvos Para Hacer Slime Jabon Pintauñas Sombra de Ojos etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NMFV6HC/?tag=tolees-21'
 descuento: '10.01'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Elizabeth Arden Flawless Finish Everyday Perfection Base de Maquillaje  Warm Pecan  8 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074NG56HL/?tag=tolees-21'
 descuento: '12.54'
 average: '20.99'

@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Garnier Olia coloración permanente sin amoniaco para un olor agradable con aceites florales de origen natural - Tono 6.0 Rubio Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9TVHI8/?tag=tolees-21'
 descuento: '20.86'
 average: '5.5'

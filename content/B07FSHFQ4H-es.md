@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Gudotra Acerca de 100pcs Bolsa de Lino con Cordón para Joyería Regalos Arroz Boda Navidad Bolsitas de Tela Saco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSHFQ4H/?tag=tolees-21'
 descuento: '6.82'
 average: '20.49'

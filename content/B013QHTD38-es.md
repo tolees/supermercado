@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Lámpara de techo  de SUNSBELL®. Diseño Industrial  estilo retro  vintage. Bombilla edison E27  no incluida . Pará café  bar  etc. Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013QHTD38/?tag=tolees-21'
 descuento: '17.86'
 average: '22.99'

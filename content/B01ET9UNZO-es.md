@@ -16,6 +16,7 @@ comparePrice: 19.5 EUR
 prodname: 'Señorio de los Llanos Gran Reserva - Vino Tinto D.O Valdepeñas - Pack de 6 Botellas x 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ET9UNZO/?tag=tolees-21'
 descuento: '15.38'
 average: '17.099999999999998'

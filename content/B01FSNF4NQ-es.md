@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Elizabeth Arden Sunflowers Crema Corporal - 500 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FSNF4NQ/?tag=tolees-21'
 descuento: '0.00'
 average: '19.9'

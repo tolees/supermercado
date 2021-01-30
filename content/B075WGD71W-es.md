@@ -16,6 +16,7 @@ comparePrice: 17.71 EUR
 prodname: 'Hugo Boss Man Desodorante Spray  1er Pack  1 x 150 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075WGD71W/?tag=tolees-21'
 descuento: '0.00'
 average: '17.71'

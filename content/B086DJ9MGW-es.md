@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'TTAototech Sensor inteligente Dispensador de jabón- 1000 ml sin contacto Dispensador automático de desinfectante de manos  Líquido 1ml  Sin desperdicio Bomba de jabón para baños  cocinas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086DJ9MGW/?tag=tolees-21'
 descuento: '13.34'
 average: '33.92333333333333'

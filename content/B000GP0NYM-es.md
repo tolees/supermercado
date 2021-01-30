@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'BSN True Mass Ganador en Polvo  Chocolate - 2640 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GP0NYM/?tag=tolees-21'
 descuento: '0.00'
 average: '25.99'

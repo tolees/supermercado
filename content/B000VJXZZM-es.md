@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'EUKANUBA Edad avanzada Próspero Raza Grande rico en pollo fresco [15 kg]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VJXZZM/?tag=tolees-21'
 descuento: '4.76'
 average: '39.99'

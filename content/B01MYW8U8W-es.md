@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'L Oréal Paris Total Cover Base Maquillaje Cobertura Total  Tono de Piel Claro 13 Beige Rose - 35 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYW8U8W/?tag=tolees-21'
 descuento: '19.61'
 average: '10.41'

@@ -16,6 +16,7 @@ comparePrice: 19.76 EUR
 prodname: 'American Crew Classic Champú Hidratante Diario 1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GG0NT6/?tag=tolees-21'
 descuento: '24.95'
 average: '13.753333333333334'

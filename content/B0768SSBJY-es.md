@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'L Oréal Paris Men Expert - Barber Club Aceite hidratante para barba larga y rostro - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0768SSBJY/?tag=tolees-21'
 descuento: '22.45'
 average: '6.048'

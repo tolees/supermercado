@@ -16,6 +16,7 @@ comparePrice: 72.9 EUR
 prodname: 'textil-home Puf - Pera moldeable XL Puff - 80x80x130 cm- Color Rojo. Tejido Polipiel Alta Resistencia - Doble repunte -  Incluye Relleno Bolas Poliestireno .'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MPYCBM/?tag=tolees-21'
 descuento: '15.09'
 average: '61.9'

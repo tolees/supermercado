@@ -16,6 +16,7 @@ comparePrice: 9.25 EUR
 prodname: 'Voll-Damm Cerveza Doble Malta - Pack de 12 Latas 33cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0B4ZZ7/?tag=tolees-21'
 descuento: '7.46'
 average: '8.329166666666667'

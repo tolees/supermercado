@@ -16,6 +16,7 @@ comparePrice: 11.86 EUR
 prodname: 'Max Factor  Base de maquillaje  50 Natural  - 62 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MN94WT6/?tag=tolees-21'
 descuento: '12.39'
 average: '10.39'

@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Sensodyne Protección Diaria - Pasta de dientes con flúor  alivio para dientes sensibles - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7RQDOW/?tag=tolees-21'
 descuento: '7.02'
 average: '2.78'

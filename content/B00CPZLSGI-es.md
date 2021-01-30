@@ -16,6 +16,7 @@ comparePrice: 35.19 EUR
 prodname: 'Bulleit Rye Whisky - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CPZLSGI/?tag=tolees-21'
 descuento: '20.15'
 average: '26.086666666666666'

@@ -16,6 +16,7 @@ comparePrice: 14.19 EUR
 prodname: 'Tigi Catwalk Oatmeal & Honey Nourishing Acondicionador - 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BHF2NMY/?tag=tolees-21'
 descuento: '17.27'
 average: '11.74'

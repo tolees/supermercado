@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Un Air d’Antan® Caja Belleza Douce Mujer  1 Jabon 100g  1 Gel Ducha 250ml 1 Crema Corporal 200ml  1 Crema de Manos 25ml|Perfume Almendras Dulce  Higo|Navidad Regalo Mujer Originales Cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJFKTFM/?tag=tolees-21'
 descuento: '20.00'
 average: '31.2'

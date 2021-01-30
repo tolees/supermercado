@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'NIVEA Gel Limpiador Refrescante al Agua - 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XJP7FVA/?tag=tolees-21'
 descuento: '19.03'
 average: '4.85'

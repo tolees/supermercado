@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Revlon Super Lustrous Lipstick Pearl Ipanema Beach 210'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JQEP060/?tag=tolees-21'
 descuento: '0.00'
 average: '1.99'

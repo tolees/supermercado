@@ -16,6 +16,7 @@ comparePrice: 53.0 EUR
 prodname: 'Dalwhinnie Winter s Frost – Whisky escocés puro de malta – Edición limitada Juego de Tronos: Casa Stark – 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGBX66N/?tag=tolees-21'
 descuento: '16.60'
 average: '44.8575'

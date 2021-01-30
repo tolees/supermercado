@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Maybelline Lápiz de Ojos Efecto Tatuaje Tattoo Liner 940 Rich Amethyst Morado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCV239W/?tag=tolees-21'
 descuento: '16.69'
 average: '4.99'

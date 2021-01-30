@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Elizabeth Arden 5th Avenue Agua de Perfume - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0018LW0SA/?tag=tolees-21'
 descuento: '0.00'
 average: '18.45'

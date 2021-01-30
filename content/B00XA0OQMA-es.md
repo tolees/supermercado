@@ -16,6 +16,7 @@ comparePrice: 23.1 EUR
 prodname: 'Purina Friskies Vitafit Active Pienso para Perro Adulto Buey 15 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA0OQMA/?tag=tolees-21'
 descuento: '17.79'
 average: '18.99'

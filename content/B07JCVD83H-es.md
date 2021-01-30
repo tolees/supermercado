@@ -16,6 +16,7 @@ comparePrice: 12.13 EUR
 prodname: 'Cesar elección del Chef Ternera A La Rejilla con arroz Integral y Verduras - Paquete de 14 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCVD83H/?tag=tolees-21'
 descuento: '0.00'
 average: '12.13'

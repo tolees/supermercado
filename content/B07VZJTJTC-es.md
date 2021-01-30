@@ -16,6 +16,7 @@ comparePrice: 28.48 EUR
 prodname: 'Mo Salinas Vino Tinto - Paquete de 6 x 750 ml - Total: 4500ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZJTJTC/?tag=tolees-21'
 descuento: '5.72'
 average: '31.869999999999997'

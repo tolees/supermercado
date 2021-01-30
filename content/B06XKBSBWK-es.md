@@ -16,6 +16,7 @@ comparePrice: 28.28 EUR
 prodname: 'Roe & Co Whisky Irlandés - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XKBSBWK/?tag=tolees-21'
 descuento: '23.55'
 average: '22.686'

@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Sanytol - Jabón de Manos Hidratante Antibacteriano  con Aloe Vera y Té Verde - Dosificador de 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Sanytol'
 buyurl: 'https://www.amazon.es/dp/B089KKCQRQ/?tag=tolees-21'
 descuento: '0.00'
 average: '2.61440860215054'
@@ -28,9 +29,9 @@ Tienes [Sanytol - Jabón de Manos Hidratante Antibacteriano  con Aloe Vera y Té
 🔎:
 
 - Jabón de manos con protección contra las bacterias a base de extractos naturales de aloe vera y té verde
-- Jabón de manos hidratante antibacteriano
 - Formulado con ingredientes de origen natural, como extractos de aloe vera y té verde, con propiedades hidratantes
-- Preserva la hidratación natural de la piel gracias a un rico complejo lipídico similar al que conforma la estructura de nuestra epidermis; Fórmula probada dermatológica y clínicamente
 - Deja las manos limpias, suaves, hidratadas y delicadamente perfumadas
+- Jabón de manos hidratante antibacteriano
+- Preserva la hidratación natural de la piel gracias a un rico complejo lipídico similar al que conforma la estructura de nuestra epidermis; Fórmula probada dermatológica y clínicamente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089KKCQRQ/?tag=tolees-21)

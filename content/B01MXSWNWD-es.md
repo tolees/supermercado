@@ -16,6 +16,7 @@ comparePrice: 51.3 EUR
 prodname: 'Vermouth La Copa Rojo - D.O. Jerez - 6 x 750 ml - Total: 4500ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXSWNWD/?tag=tolees-21'
 descuento: '12.30'
 average: '44.99'

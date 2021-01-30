@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Uhlsport Team Pro Essential Medias de Equipaciones  Sin género  Amarillo maíz  37-40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003X35YWA/?tag=tolees-21'
 descuento: '0.00'
 average: '4.99'

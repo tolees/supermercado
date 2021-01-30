@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Skip Ultimate Triple Poder Detergente Capsulas Maxima Eficacia - 32 Lavados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHV353C/?tag=tolees-21'
 descuento: '13.41'
 average: '8.65'

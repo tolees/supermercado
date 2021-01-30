@@ -16,6 +16,7 @@ comparePrice: 16.4 EUR
 prodname: 'Brillante Arroz Redondo -  Pack de 16 vasitos X 200 Gr - Total 3200 Gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQ4VZ33/?tag=tolees-21'
 descuento: '4.88'
 average: '14.525714285714287'

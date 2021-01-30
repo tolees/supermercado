@@ -16,6 +16,7 @@ comparePrice: 8.85 EUR
 prodname: 'Maybelline Superstay 24h 150 Delicious Pink - barras de labios  Rosa  Delicious Pink  24h  1 7 cm  1 7 cm  13 2 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004GXH16S/?tag=tolees-21'
 descuento: '23.73'
 average: '8.196666666666667'

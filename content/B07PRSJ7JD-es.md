@@ -16,6 +16,7 @@ comparePrice: 40.04 EUR
 prodname: 'Tio Pepe Vermouth La Copa Reserva - 3 Botellas x 750 ml - Total: 2250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRSJ7JD/?tag=tolees-21'
 descuento: '0.00'
 average: '38.769999999999996'

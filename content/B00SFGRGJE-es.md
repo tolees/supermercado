@@ -16,6 +16,7 @@ comparePrice: 19.19 EUR
 prodname: 'iRobot Scooba 4416470 -  Detergente Líquido Concentrado para Limpieza  original'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SFGRGJE/?tag=tolees-21'
 descuento: '0.00'
 average: '19.19'

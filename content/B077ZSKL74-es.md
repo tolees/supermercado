@@ -16,6 +16,7 @@ comparePrice: 14.76 EUR
 prodname: 'Alargador de antena N Macho a SMA macho Enchufe 5 m RG58 Coaxial Cable Pigtail para CB aficionados Two-way radio 3 G 4 G LTE jamón ADS-B GPS Radio RF para antena'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZSKL74/?tag=tolees-21'
 descuento: '0.00'
 average: '14.76'

@@ -16,6 +16,7 @@ comparePrice: 16.56 EUR
 prodname: 'Purina Gourmet Gold Doble Placer - Comida para Gatos Adultos de Pescado del Oceano  85 g  Pack de 24 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071YZKF5S/?tag=tolees-21'
 descuento: '14.92'
 average: '13.515454545454547'

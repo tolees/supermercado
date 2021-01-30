@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Bone Broth Caldo concentrado de hueso bovino con cúrcuma - Rico en Colágeno para mejorar la salud del intestino  la firmeza de la piel y la salud del cabello -Alimentados con hierba  libre de hormonas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8QNKHZ/?tag=tolees-21'
 descuento: '22.33'
 average: '34.95'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: '10 Estuches Desinfectantes de Mano Silicona Dibujos Animados Funda Protectora de Botella Colorida 50 ml Caja Contenedor Viaje Portátil para Desinfectante 50 ml Soporte de Botella de Jabón Líquido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086DSBHJC/?tag=tolees-21'
 descuento: '6.67'
 average: '13.99'

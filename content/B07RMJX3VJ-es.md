@@ -16,6 +16,7 @@ comparePrice: 32.09 EUR
 prodname: 'G-Vine Ginebra G-Vine Peach - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMJX3VJ/?tag=tolees-21'
 descuento: '0.00'
 average: '32.09'

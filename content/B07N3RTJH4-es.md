@@ -16,6 +16,7 @@ comparePrice: 4.89 EUR
 prodname: 'Diadermine - Loción Micelar Calmante para Pieles Secas/Sensibles - 2 unidades de 400ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3RTJH4/?tag=tolees-21'
 descuento: '15.54'
 average: '4.6339999999999995'

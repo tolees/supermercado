@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Maybelline Stick Master Contour Tono: 03 Dark - 7 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KXPLBOU/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'
@@ -27,10 +28,10 @@ Está [Maybelline Stick Master Contour Tono: 03 Dark - 7 g](https://www.amazon.e
 
 ℹ️:
 
+- Dirigido a las mujeres
 - Número de colores: 03
+- Tipo de dispensador: lápiz
 - Nombre del color: Dark
 - Adecuado para los tipos de piel
-- Dirigido a las mujeres
-- Tipo de dispensador: lápiz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01KXPLBOU/?tag=tolees-21)

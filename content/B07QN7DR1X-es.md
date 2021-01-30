@@ -16,6 +16,7 @@ comparePrice: 11.97 EUR
 prodname: 'Rexona Desodorante Antitranspirante Invisible On White&Black Clothes - 6 x 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QN7DR1X/?tag=tolees-21'
 descuento: '0.00'
 average: '11.97'

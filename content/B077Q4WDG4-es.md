@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Oral-B Stages Star Wars Cabezales de cepillo de dientes eléctrico 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Q4WDG4/?tag=tolees-21'
 descuento: '0.00'
 average: '12.95'

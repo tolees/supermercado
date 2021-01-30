@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'LACTACYD Íntimo Toallitas - Higiene Íntima - Ideal para llevar contigo - Viaje o Playa - 10 uds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TTWZ636/?tag=tolees-21'
 descuento: '17.17'
 average: '4.1'

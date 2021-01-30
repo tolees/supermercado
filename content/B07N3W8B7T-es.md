@@ -16,6 +16,7 @@ comparePrice: 11.24 EUR
 prodname: 'La Toja Selection - Bálsamo After Shave con sales minerales y pro-vitamina B5 - 2 uds de 100ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3W8B7T/?tag=tolees-21'
 descuento: '15.48'
 average: '9.5'

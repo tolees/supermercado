@@ -16,6 +16,7 @@ comparePrice: 23.56 EUR
 prodname: 'Original Source Mint Gel de ducha  500 ml  6 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVNJPH3/?tag=tolees-21'
 descuento: '5.90'
 average: '22.526666666666667'

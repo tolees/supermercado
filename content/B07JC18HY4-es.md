@@ -16,6 +16,7 @@ comparePrice: 19.92 EUR
 prodname: 'Tejero  Atún Almadraba en aceite de oliva - 8ud de pack 3 latas   Total: 24 latas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JC18HY4/?tag=tolees-21'
 descuento: '4.72'
 average: '19.450000000000003'

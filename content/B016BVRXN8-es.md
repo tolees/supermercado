@@ -16,6 +16,7 @@ comparePrice: 20.97 EUR
 prodname: 'Lagunilla Reserva Vino Tinto Reserva D.O Rioja - 3 botellas x 750 ml - 2250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016BVRXN8/?tag=tolees-21'
 descuento: '14.31'
 average: '17.77'

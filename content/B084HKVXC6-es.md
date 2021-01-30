@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'SUPLEMENTO MENOPAUSIA - MENODEN + VITAMINA B6 Y ZINC –CONCENTRADO DE SOJA - AYUDA A REGULAR LA FUNCIÓN HORMONAL Y A RESTABLECER EL EQUILIBRIO NATURAL DEL CUERPO - 60 CAPSULAS - ZENTRUM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084HKVXC6/?tag=tolees-21'
 descuento: '20.02'
 average: '10.39'

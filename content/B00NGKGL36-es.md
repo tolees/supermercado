@@ -16,6 +16,7 @@ comparePrice: 11.45 EUR
 prodname: 'Lactacyd Pharma Hidratante 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NGKGL36/?tag=tolees-21'
 descuento: '8.91'
 average: '10.43'

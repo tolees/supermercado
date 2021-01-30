@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Maybelline New York Pack de 2 Barras de Labios Superstay Matte Ink  Tono 20 Pioneer + 40 Believer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXVR7QT/?tag=tolees-21'
 descuento: '24.95'
 average: '11.725'

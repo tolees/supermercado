@@ -16,6 +16,7 @@ comparePrice: 5.81 EUR
 prodname: 'Heallily lubricante anal lubricante personal a base de agua con sabor a fruta lubricante sexual de larga duración para hombres mujeres parejas  melocotón jugoso '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKW187C/?tag=tolees-21'
 descuento: '0.00'
 average: '5.81'

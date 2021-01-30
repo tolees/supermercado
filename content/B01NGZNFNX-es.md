@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Maybelline New York - Superstay 7Days 887 All Day Plum Pintauñas Larga Duración Efecto Gel  Azul Violáceo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NGZNFNX/?tag=tolees-21'
 descuento: '17.74'
 average: '5.75'

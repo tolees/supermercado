@@ -16,6 +16,7 @@ comparePrice: 7.4 EUR
 prodname: 'Air Wick Ambientador Nenuco Freshmatic Max'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7S96TU/?tag=tolees-21'
 descuento: '7.43'
 average: '6.85'

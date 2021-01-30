@@ -16,6 +16,7 @@ comparePrice: 1.29 EUR
 prodname: 'Knorr Caldo Líquido de la Abuela Pollo - 1L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZPF8J3Q/?tag=tolees-21'
 descuento: '22.48'
 average: '1.0'

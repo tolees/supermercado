@@ -16,6 +16,7 @@ comparePrice: 10.76 EUR
 prodname: 'Axe Blacknight - Set de 6 geles de ducha  6 x 250 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZU5H9AY/?tag=tolees-21'
 descuento: '0.00'
 average: '10.76'

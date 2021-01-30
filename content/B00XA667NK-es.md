@@ -16,6 +16,7 @@ comparePrice: 19.72 EUR
 prodname: 'Detergente Ariel Basico Líquido 110d  Caja con 2 botellas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA667NK/?tag=tolees-21'
 descuento: '22.72'
 average: '15.24'

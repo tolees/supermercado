@@ -16,6 +16,7 @@ comparePrice: 25.86 EUR
 prodname: 'Elizabeth Arden Mediterranean - Agua de perfume'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0012RXTBW/?tag=tolees-21'
 descuento: '0.00'
 average: '25.86'

@@ -16,6 +16,7 @@ comparePrice: 1.76 EUR
 prodname: 'BIMANAN - BIMANAN Sustitutive Barrita Yogur unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J5G2H7Y/?tag=tolees-21'
 descuento: '17.05'
 average: '1.46'

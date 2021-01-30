@@ -16,6 +16,7 @@ comparePrice: 4.9 EUR
 prodname: 'Garnier Skin Active Pure Active Gel 3 en 1 para Pieles Mixtas a Grasas Limpiador  Exfoliante y Mascarilla  150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXPKJDZ/?tag=tolees-21'
 descuento: '14.29'
 average: '4.2'

@@ -16,6 +16,7 @@ comparePrice: 7.9 EUR
 prodname: 'OGX - Champú Aceite de Keratina  385 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JZCRZPM/?tag=tolees-21'
 descuento: '15.19'
 average: '6.7'

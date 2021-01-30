@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Dewar s Whisky White Label  1750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006K6WEOI/?tag=tolees-21'
 descuento: '20.01'
 average: '21.59'

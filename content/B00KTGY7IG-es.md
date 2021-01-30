@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Gillette Venus Oceana Maquinillas Desechables Para Mujer - 4 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KTGY7IG/?tag=tolees-21'
 descuento: '14.16'
 average: '5.992857142857143'

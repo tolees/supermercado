@@ -16,6 +16,7 @@ comparePrice: 10.85 EUR
 prodname: 'Holle Potito de Manzana y Pera  +4 meses  - Paquete de 6 x 190 gr - Total: 1140 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0744MT6RF/?tag=tolees-21'
 descuento: '9.86'
 average: '9.78'

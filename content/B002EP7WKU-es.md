@@ -16,6 +16,7 @@ comparePrice: 55.95 EUR
 prodname: 'Bowmore 15Y Whisky Darkest Malt - 700ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002EP7WKU/?tag=tolees-21'
 descuento: '24.75'
 average: '49.025000000000006'

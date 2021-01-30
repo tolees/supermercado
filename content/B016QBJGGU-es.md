@@ -16,6 +16,7 @@ comparePrice: 7.9 EUR
 prodname: 'Vino Tinto Mencía D.O. Bierzo  750ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016QBJGGU/?tag=tolees-21'
 descuento: '24.68'
 average: '5.95'

@@ -16,6 +16,7 @@ comparePrice: 197.54 EUR
 prodname: 'De Longhi KG 520.M Molinillo de café eléctrico con con manejo manual  2 teclas de control  150 W  14 tazas  plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KPN9K0W/?tag=tolees-21'
 descuento: '22.72'
 average: '154.25'

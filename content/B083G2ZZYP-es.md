@@ -16,6 +16,7 @@ comparePrice: 26.6 EUR
 prodname: 'Scholl Desodorante calzado Fresh Step Antitranspirante - Elimina el Olor - Spray 150 ml x 5 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083G2ZZYP/?tag=tolees-21'
 descuento: '15.00'
 average: '22.61'

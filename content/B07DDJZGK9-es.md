@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'NICKS Favourite Mix  Barritas de chocolate surtidas  sin azúcar añadido  sin gluten  10 x 40g + 2 x 25g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDJZGK9/?tag=tolees-21'
 descuento: '6.29'
 average: '15.4'

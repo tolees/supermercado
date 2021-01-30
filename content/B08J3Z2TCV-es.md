@@ -16,6 +16,7 @@ comparePrice: 47.5 EUR
 prodname: 'BNKR BEER Brew&Share | Kit para Hacer Cerveza Blond Bio con Certificado Ecológico | Tu Cerveza en 2 semanas. Elaboración con maltas. Fermentación en Barril.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08J3Z2TCV/?tag=tolees-21'
 descuento: '20.00'
 average: '38.0'

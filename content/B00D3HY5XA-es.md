@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'ISDIN Fotoprotector Gel Cream SPF 50+ 250 ml Crema Solar Corporal refrescante e hidratante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D3HY5XA/?tag=tolees-21'
 descuento: '18.68'
 average: '21.490000000000002'

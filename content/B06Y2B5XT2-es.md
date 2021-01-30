@@ -16,6 +16,7 @@ comparePrice: 1.15 EUR
 prodname: 'Cidacos Extra Alubias Enlatadas - 570 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2B5XT2/?tag=tolees-21'
 descuento: '13.04'
 average: '1.0'

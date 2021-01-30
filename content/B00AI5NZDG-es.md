@@ -16,6 +16,7 @@ comparePrice: 5.7 EUR
 prodname: 'WELEDA Gel Dentífrico para Niños  1x 50 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AI5NZDG/?tag=tolees-21'
 descuento: '16.67'
 average: '4.75'

@@ -16,6 +16,7 @@ comparePrice: 19.85 EUR
 prodname: 'L OR Espresso Café paquete favorito - Nespresso® * Cápsulas de café de aluminio compatibles - 3 paquetes de 20 cápsulas  60 bebidas + 2 Tazas de Espresso '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRYTWWT/?tag=tolees-21'
 descuento: '15.01'
 average: '17.37'

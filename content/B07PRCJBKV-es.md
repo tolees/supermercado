@@ -16,6 +16,7 @@ comparePrice: 8.75 EUR
 prodname: 'PediaSure Complemento Alimenticio para Niños  Sabor Chocolate  con Proteínas  Vitaminas y Minerales - Pack de 4 Botellas x 220 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRCJBKV/?tag=tolees-21'
 descuento: '17.03'
 average: '7.3525'

@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'Lactacyd Gel Lubricante Íntimo - Favorece Tus Relaciones Sexuales Simulando Una Lubricación Natural - 50Ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081NK6DQ8/?tag=tolees-21'
 descuento: '9.27'
 average: '10.04'

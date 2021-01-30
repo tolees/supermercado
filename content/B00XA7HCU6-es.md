@@ -16,6 +16,7 @@ comparePrice: 2.45 EUR
 prodname: 'Marcilla Gran Aroma Café Molido Descafeinado Natural - 200 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA7HCU6/?tag=tolees-21'
 descuento: '4.90'
 average: '1.9700000000000002'

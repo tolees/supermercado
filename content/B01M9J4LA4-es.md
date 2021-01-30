@@ -16,6 +16,7 @@ comparePrice: 15.6 EUR
 prodname: 'Hero Maridaje del Chef Mermelada de Cebolla Caramelizada Pack de 8x215 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9J4LA4/?tag=tolees-21'
 descuento: '12.82'
 average: '13.6'

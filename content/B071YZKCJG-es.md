@@ -16,6 +16,7 @@ comparePrice: 14.65 EUR
 prodname: 'Purina Gourmet Mon Petit comida para gatos Carnes 8 x [6 x 50 g]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071YZKCJG/?tag=tolees-21'
 descuento: '0.00'
 average: '16.485'

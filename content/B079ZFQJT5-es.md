@@ -16,6 +16,7 @@ comparePrice: 12.65 EUR
 prodname: 'Herbal Essences Bío: Renew Volumen Acondicionador - 6 Recipientes de 400 ml - Total: 2400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZFQJT5/?tag=tolees-21'
 descuento: '18.89'
 average: '13.326153846153847'

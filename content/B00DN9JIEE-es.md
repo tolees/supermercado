@@ -16,6 +16,7 @@ comparePrice: 22.84 EUR
 prodname: 'Meritene® FUERZA Y VITALIDAD - Suplementa tu nutrición y mantén tu sistema inmune con vitaminas  minerales y proteínas - Batido de Chocolate - Estuche  15 sobres de 30g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DN9JIEE/?tag=tolees-21'
 descuento: '17.03'
 average: '18.95'

@@ -16,6 +16,7 @@ comparePrice: 12.89 EUR
 prodname: 'Dispensador de Pasta Dental de Niños Cepillo de Dientes Eléctrico Dientes Titular Cepillos by iLifeTech'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011N0IZ2K/?tag=tolees-21'
 descuento: '0.00'
 average: '12.89'

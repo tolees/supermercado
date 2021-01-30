@@ -16,6 +16,7 @@ comparePrice: 17.53 EUR
 prodname: 'Elizabeth Arden 5th Avenue NYC - Agua de perfume'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CLC0ZVY/?tag=tolees-21'
 descuento: '14.66'
 average: '18.7025'

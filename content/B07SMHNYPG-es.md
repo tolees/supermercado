@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Chicco Pantaloni Lunghi Bimbo Pantalones para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SMHNYPG/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

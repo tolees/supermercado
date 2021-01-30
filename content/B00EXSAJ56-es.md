@@ -16,6 +16,7 @@ comparePrice: 15.4 EUR
 prodname: 'Neutrogena Blackhead Eliminating Tónico Limpiador - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EXSAJ56/?tag=tolees-21'
 descuento: '14.94'
 average: '13.1'

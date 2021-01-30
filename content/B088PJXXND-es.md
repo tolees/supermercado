@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'Puleva Max Leche Blanca de Crecimiento Y Desarrollo - 10 packs de 3 minibriks de 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088PJXXND/?tag=tolees-21'
 descuento: '7.41'
 average: '12.5'

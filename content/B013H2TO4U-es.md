@@ -16,6 +16,7 @@ comparePrice: 34.49 EUR
 prodname: 'Chivas Regal Extra Whisky Escocés de Mezcla - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013H2TO4U/?tag=tolees-21'
 descuento: '11.57'
 average: '30.5'

@@ -16,6 +16,7 @@ comparePrice: 15.57 EUR
 prodname: 'TRESemmé Acondicionador Repara y Fortalece - Paquete de 3 x 700 ml - Total: 2100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZYN8PJ/?tag=tolees-21'
 descuento: '23.12'
 average: '13.56'

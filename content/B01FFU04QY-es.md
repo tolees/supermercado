@@ -16,6 +16,7 @@ comparePrice: 9.8 EUR
 prodname: 'True Instinct Original - Pienso para Gato Adulto con Pollo y arroz Integral - 1.25 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FFU04QY/?tag=tolees-21'
 descuento: '20.00'
 average: '7.84'

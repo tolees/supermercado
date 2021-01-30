@@ -16,6 +16,7 @@ comparePrice: 14.72 EUR
 prodname: 'Spontex Catch&Clean - Set de Escoba y Recogedor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFX765L/?tag=tolees-21'
 descuento: '15.08'
 average: '13.61'

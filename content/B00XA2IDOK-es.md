@@ -16,6 +16,7 @@ comparePrice: 11.65 EUR
 prodname: 'Maizena Harina Fina de Maíz Espesante Caja 2 5 kilogramos - Producto Sin Gluten'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA2IDOK/?tag=tolees-21'
 descuento: '11.50'
 average: '11.146666666666668'

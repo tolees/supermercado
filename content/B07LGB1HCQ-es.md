@@ -16,6 +16,7 @@ comparePrice: 72.0 EUR
 prodname: 'Lagavulin - Whisky Scotch Islay Single Malt  Edición Limitada Juego de Tronos: Casa Lannister  700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGB1HCQ/?tag=tolees-21'
 descuento: '15.40'
 average: '55.744285714285716'

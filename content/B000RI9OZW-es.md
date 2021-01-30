@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Revlon Super Lustrous Lipstick 225 Rose Wine Pomadka do ust'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000RI9OZW/?tag=tolees-21'
 descuento: '0.00'
 average: '1.99'

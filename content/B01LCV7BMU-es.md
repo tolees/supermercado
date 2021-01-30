@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Kellogg s Extra Chocolate belga y Avellanas Granolas- 375 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LCV7BMU/?tag=tolees-21'
 descuento: '14.38'
 average: '2.56'

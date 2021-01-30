@@ -16,6 +16,7 @@ comparePrice: 6.51 EUR
 prodname: 'Revlon  Cuidado del pelo y del cuero cabelludo - 300 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5K2MR9/?tag=tolees-21'
 descuento: '0.00'
 average: '6.51'

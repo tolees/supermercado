@@ -16,6 +16,7 @@ comparePrice: 10.49 EUR
 prodname: 'NIVEA SUN Protección Facial UV Control de Brillos FP50  1 x 50 ml   crema solar facial  crema matificante con protección solar alta  0% sensación pegajosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CM8YCZ5/?tag=tolees-21'
 descuento: '16.21'
 average: '8.19'

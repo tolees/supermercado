@@ -16,6 +16,7 @@ comparePrice: 38.42 EUR
 prodname: 'MAHALO HYDROGEL MIX BOX. 18 Sticks x 45 ml. Pack de 18 geles 12 PERFORMANCE HYDROGEL  Limón +Frutos Rojos+ Manzana  + 3 PERFORMANCE CAFFEINE HYDROGEL  cola + 3 PERFORMANCE BCAA HYDROGEL  naranja .'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084RHT51M/?tag=tolees-21'
 descuento: '19.99'
 average: '30.74'

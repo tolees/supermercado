@@ -16,6 +16,7 @@ comparePrice: 29.7 EUR
 prodname: 'TRESemmé Champú Liso y Sedoso 6 x 855 ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089HJ4SQ5/?tag=tolees-21'
 descuento: '20.54'
 average: '22.150000000000002'

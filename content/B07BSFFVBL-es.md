@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: '82 Piezas-Vajilla Diseño de Unicornio Desechable-Accesorio de Decoración de Fiesta de Cumpleaños-Apoyo para Celebración-Pancarta Platos  Vasos  Servilletas y Mantel Resistente-20 Invitados Color Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BSFFVBL/?tag=tolees-21'
 descuento: '0.00'
 average: '16.99'

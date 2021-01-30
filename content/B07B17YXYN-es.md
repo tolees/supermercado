@@ -16,6 +16,7 @@ comparePrice: 19.2 EUR
 prodname: 'Nestlé La Lechera Leche condensada entera - Lata de leche condensada entera abre fácil - Caja de 12 x 370g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B17YXYN/?tag=tolees-21'
 descuento: '9.38'
 average: '17.4'

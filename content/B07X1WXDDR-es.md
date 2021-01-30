@@ -16,6 +16,7 @@ comparePrice: 16.69 EUR
 prodname: 'Dightyoho Boda varita Pompas de jabón Tubo de la Burbuja Corazón Favor de la Boda Mesa Decoración Accesorios de Fiesta  24PCS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X1WXDDR/?tag=tolees-21'
 descuento: '22.17'
 average: '12.99'

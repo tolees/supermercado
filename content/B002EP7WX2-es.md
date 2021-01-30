@@ -16,6 +16,7 @@ comparePrice: 43.66 EUR
 prodname: 'The Dalmore Whisky 12Y - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002EP7WX2/?tag=tolees-21'
 descuento: '12.99'
 average: '37.02666666666667'

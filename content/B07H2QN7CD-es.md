@@ -16,6 +16,7 @@ comparePrice: 2.95 EUR
 prodname: 'Smint Caramelo Comprimido Sin Azúcar Tin Con Sabor A Fresa - 2 Unidades De 35gr  Total: 70 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2QN7CD/?tag=tolees-21'
 descuento: '12.20'
 average: '2.533333333333333'

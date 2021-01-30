@@ -16,6 +16,7 @@ comparePrice: 39.5 EUR
 prodname: 'La Toja - Gel de Afeitar Triple Acción Piel Sensible Exclusivo Complejo Tri-Activo: Precisión  Protección & Cuidado - 10 unidades de 200ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRKM3H1/?tag=tolees-21'
 descuento: '21.65'
 average: '26.296666666666667'

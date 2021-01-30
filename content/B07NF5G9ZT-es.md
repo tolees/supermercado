@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Barritas Proteicas 100% Naturales de Avicenna | Sin Soja | Sin Gluten | Sin Lácteos |  Sabor a Chocolate y Sal Marina  Pack de 12 × 52g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NF5G9ZT/?tag=tolees-21'
 descuento: '24.01'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 40.89 EUR
 prodname: 'Elizabeth Arden - Limpiador Anti-aging Treatment boosting cleanser Prevage'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FAA12G6/?tag=tolees-21'
 descuento: '24.04'
 average: '30.174999999999997'

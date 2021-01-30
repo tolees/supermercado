@@ -16,6 +16,7 @@ comparePrice: 4.49 EUR
 prodname: 'Air Wick Aerosol'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAENE9C/?tag=tolees-21'
 descuento: '12.25'
 average: '3.94'

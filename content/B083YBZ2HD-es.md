@@ -16,6 +16,7 @@ comparePrice: 29.1 EUR
 prodname: 'TRESemmé Champú Cuidado Clásico 900ml - Pack de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083YBZ2HD/?tag=tolees-21'
 descuento: '22.03'
 average: '26.915'

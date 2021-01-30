@@ -16,6 +16,7 @@ comparePrice: 26.13 EUR
 prodname: 'Elizabeth Arden Plush Up Gelato Pintalabios 4ml  Flirty Fuchsia '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0Y7UNH/?tag=tolees-21'
 descuento: '0.00'
 average: '26.13'

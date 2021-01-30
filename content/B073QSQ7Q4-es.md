@@ -16,6 +16,7 @@ comparePrice: 21.52 EUR
 prodname: 'Mimosín Narciso Suavizante Concentrado para 58 lavados - 8 Suavizantes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QSQ7Q4/?tag=tolees-21'
 descuento: '21.05'
 average: '16.99'

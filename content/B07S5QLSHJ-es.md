@@ -16,6 +16,7 @@ comparePrice: 15.8 EUR
 prodname: 'Ambientador Natural y Purificación de Aire 3 Pack Bambú Activado Carbón Desodorante Bolsa Deshumidificador Neutralizador de Olores Desodorante para Eliminar los Olores del Automóvil Armarios Zapatos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5QLSHJ/?tag=tolees-21'
 descuento: '10.00'
 average: '15.010000000000002'

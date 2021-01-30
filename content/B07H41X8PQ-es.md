@@ -16,6 +16,7 @@ comparePrice: 26.5 EUR
 prodname: 'Gillette Fusion5 - Maquinilla de Afeitar con 6 Recambios  Paquete Apto para el Buzón de Correos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H41X8PQ/?tag=tolees-21'
 descuento: '24.57'
 average: '20.252499999999998'

@@ -16,6 +16,7 @@ comparePrice: 7.2 EUR
 prodname: 'Amstel Radler Limón Cerveza - Pack de 12 Latas x 330 ml - Total: 3.96 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BB7K7YX/?tag=tolees-21'
 descuento: '11.53'
 average: '5.525'

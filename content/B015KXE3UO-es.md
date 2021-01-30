@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Balvenie 12 Años Whisky - 1 botella'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015KXE3UO/?tag=tolees-21'
 descuento: '12.36'
 average: '41.18'

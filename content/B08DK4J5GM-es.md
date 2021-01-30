@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'MOSUO Dispensador de Jabón Automático  350ml Dispensador Jabón con Sensor Infrarrojo Carga USB y IPX4 Impermeable Inteligente Dispensador Jabón para Baño Cocina Oficina Hotel Hospital'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DK4J5GM/?tag=tolees-21'
 descuento: '15.80'
 average: '17.490000000000002'

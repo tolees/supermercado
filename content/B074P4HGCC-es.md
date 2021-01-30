@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Gliss - 2 Champús 400 ml + 1 Mascarilla Reparación Total 300 ml - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074P4HGCC/?tag=tolees-21'
 descuento: '16.23'
 average: '6.94'

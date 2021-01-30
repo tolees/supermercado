@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Set Regalo Mujer Flor de Cerezo: 1 gel de ducha/bano de burbujas 250 ml  1 crema para manos 25 ml  1 jabón 100 g  1 loción corporal 200 ml/Libre de parabenos/Hecho en Francia/Regalo Original'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YY3KMD4/?tag=tolees-21'
 descuento: '20.00'
 average: '31.2'

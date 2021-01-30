@@ -16,6 +16,7 @@ comparePrice: 13.55 EUR
 prodname: 'Schwarzkopf Professional Osis Refresh Dust Bodyfying Dry Champú - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DAFX3V4/?tag=tolees-21'
 descuento: '6.05'
 average: '12.73'

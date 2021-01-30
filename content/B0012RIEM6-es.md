@@ -16,6 +16,7 @@ comparePrice: 10.71 EUR
 prodname: 'Finish Line Fiber Fibre Grip  Unisex Adulto  Blanco  50 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0012RIEM6/?tag=tolees-21'
 descuento: '8.50'
 average: '9.8'

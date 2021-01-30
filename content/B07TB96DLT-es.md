@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'President Leche Desnatada 1 5L x 6 = 9L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TB96DLT/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

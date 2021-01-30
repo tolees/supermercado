@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Love Beauty and Planet Mascarilla Capilar para Cabello dañado  Aceite de Coco e Ylang Ylang Vegana - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSV2LK1/?tag=tolees-21'
 descuento: '19.90'
 average: '6.4'

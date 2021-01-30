@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'L Oréal Paris Dermo Expertise Exfoliante Facial Purificante Azúcares Suaves - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4SPDP8/?tag=tolees-21'
 descuento: '17.58'
 average: '6.8275'

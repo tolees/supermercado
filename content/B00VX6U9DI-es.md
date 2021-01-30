@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15  #180 Sand Beige  - 30ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VX6U9DI/?tag=tolees-21'
 descuento: '23.78'
 average: '9.566666666666666'

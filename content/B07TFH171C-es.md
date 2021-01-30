@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: '[Nueva versión] LEDGLE Cortina Luces LED  Fairy String Luces Alimentado por USB Desmontable con Control Remoto  8 Modos  IP67 a Prueba de Agua  Blanco Cálido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFH171C/?tag=tolees-21'
 descuento: '20.02'
 average: '8.99'

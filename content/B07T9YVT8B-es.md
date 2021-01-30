@@ -16,6 +16,7 @@ comparePrice: 1.29 EUR
 prodname: 'RED BULL Coconut Edition  Bebida energética sabor coco y arándanos  lata 25 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9YVT8B/?tag=tolees-21'
 descuento: '22.48'
 average: '1.0'

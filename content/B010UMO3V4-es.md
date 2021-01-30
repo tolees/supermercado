@@ -16,6 +16,7 @@ comparePrice: 4.5 EUR
 prodname: 'Maybelline Barra de Labios Hidratante Mate Color Sensational  Tono 965 Siren in Scarlet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010UMO3V4/?tag=tolees-21'
 descuento: '10.00'
 average: '4.05'

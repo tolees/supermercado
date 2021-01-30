@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Babaria Crema Facial Regeneradora 9 Efectos Vital Skin Stop Arrugas - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WBH0L2M/?tag=tolees-21'
 descuento: '11.17'
 average: '7.95'

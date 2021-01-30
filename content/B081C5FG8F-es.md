@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'JASHEN Fregona electrica sin Cable  Mopa Electrica con Pulverizador  con la Estación de Almacenamiento Autolimpiante  Puede Usar Cualquiera Limpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081C5FG8F/?tag=tolees-21'
 descuento: '8.33'
 average: '109.99'

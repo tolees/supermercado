@@ -16,6 +16,7 @@ comparePrice: 1.35 EUR
 prodname: 'Orlando Tomate Frito Clásico - Pack de 3 x 210 g - Total : 630 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7QN5JE/?tag=tolees-21'
 descuento: '21.48'
 average: '1.06'

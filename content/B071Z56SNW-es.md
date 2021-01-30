@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Neutrogena - Hidratación profunda  spray corporal express  para pieles secas  aplicación rápida y absorción al instante  200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071Z56SNW/?tag=tolees-21'
 descuento: '18.16'
 average: '11.363333333333333'

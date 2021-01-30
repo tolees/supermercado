@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Garnier Skin Active - BB Cream'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0857YC5DQ/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

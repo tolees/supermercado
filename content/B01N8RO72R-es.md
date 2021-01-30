@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Ariete 2962 Chocolate Fountain Party Time Fuente  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N8RO72R/?tag=tolees-21'
 descuento: '18.14'
 average: '40.85'

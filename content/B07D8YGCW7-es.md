@@ -16,6 +16,7 @@ comparePrice: 14.84 EUR
 prodname: 'Marca Amazon -Solimo Cepillo de dientes con pilas + 1 capezal de cepillo Clean Plus  pack de 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D8YGCW7/?tag=tolees-21'
 descuento: '24.60'
 average: '11.746'

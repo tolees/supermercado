@@ -16,6 +16,7 @@ comparePrice: 27.33 EUR
 prodname: 'Sunburst Snacks Sunburst anacardos de miel y canela asadas  sin conservantes  saborizantes o aceites  1 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5SZ2FR/?tag=tolees-21'
 descuento: '10.03'
 average: '24.59'

@@ -16,6 +16,7 @@ comparePrice: 102.6 EUR
 prodname: 'Hibiki Suntory Whisky Japanese Harmony  43% - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012DC0OHQ/?tag=tolees-21'
 descuento: '7.65'
 average: '85.3'

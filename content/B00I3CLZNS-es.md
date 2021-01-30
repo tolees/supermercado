@@ -16,6 +16,7 @@ comparePrice: 34.75 EUR
 prodname: 'Gold Gin 999.9 Ginebra Premium de Cítricos - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I3CLZNS/?tag=tolees-21'
 descuento: '13.96'
 average: '29.9'

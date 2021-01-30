@@ -16,6 +16,7 @@ comparePrice: 27.92 EUR
 prodname: 'Mimosin Concentrado Suavizante Azul Vital 89lav x 8botellas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QRGKM5/?tag=tolees-21'
 descuento: '5.73'
 average: '24.12'

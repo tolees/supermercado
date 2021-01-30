@@ -16,6 +16,7 @@ comparePrice: 2.25 EUR
 prodname: 'La Toja - Gel Crema de Ducha Hidrotermal - Piel suave y cuidada - 550 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HN8P94D/?tag=tolees-21'
 descuento: '15.56'
 average: '1.9'

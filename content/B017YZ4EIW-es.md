@@ -16,6 +16,7 @@ comparePrice: 17.96 EUR
 prodname: 'Tassimo Hot Choco Bundle Cápsulas - Cadbury  Oreo  Milka  Suchard - 4 Paquetes  40 Porciones '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017YZ4EIW/?tag=tolees-21'
 descuento: '0.00'
 average: '17.475'

@@ -16,6 +16,7 @@ comparePrice: 15.34 EUR
 prodname: 'dixan detergente Líquido - 2 paquetes de 2781 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXJRPYL/?tag=tolees-21'
 descuento: '0.00'
 average: '15.34'

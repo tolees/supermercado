@@ -16,6 +16,7 @@ comparePrice: 0.63 EUR
 prodname: 'Knorr Sopa Cebolla - 50 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LY1CEOP/?tag=tolees-21'
 descuento: '1.59'
 average: '0.62'

@@ -16,6 +16,7 @@ comparePrice: 77.93 EUR
 prodname: 'Hackett London Tweed Trim Crew suéter  Beige  Oatmeal 8hw   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079QNLV6B/?tag=tolees-21'
 descuento: '0.00'
 average: '85.47333333333334'

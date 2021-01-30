@@ -16,6 +16,7 @@ comparePrice: 8.63 EUR
 prodname: 'Dove Men + Care Desodorante Spray Invisible Dry – transpirant  150 ml  Paquete de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCQVFXY/?tag=tolees-21'
 descuento: '13.90'
 average: '7.43'

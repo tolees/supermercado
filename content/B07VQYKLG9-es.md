@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'AICOK Máquina de algodón de azúcar Usar Azúcar Regular de Caramelo Duro Sin Azúcar | 500W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQYKLG9/?tag=tolees-21'
 descuento: '0.00'
 average: '37.99'

@@ -16,6 +16,7 @@ comparePrice: 1.49 EUR
 prodname: 'Foxy - Pañuelos hipoalergénicos - 10 paquetes x 9 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDXH4CI/?tag=tolees-21'
 descuento: '16.11'
 average: '1.37'

@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Edición Limitada Ashley Longshore  Tono 40 Believer  Color Morado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVYJLGN/?tag=tolees-21'
 descuento: '0.00'
 average: '7.95'

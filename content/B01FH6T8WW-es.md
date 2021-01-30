@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Chicco Natural Sensation - Champú sin lágrimas  300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FH6T8WW/?tag=tolees-21'
 descuento: '12.20'
 average: '6.98'

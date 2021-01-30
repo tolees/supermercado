@@ -16,6 +16,7 @@ comparePrice: 7.61 EUR
 prodname: 'Vieira Galletas Chocolate - Paquete de 12 x 150 gr - Total: 1800 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SHSBG7/?tag=tolees-21'
 descuento: '0.00'
 average: '7.61'

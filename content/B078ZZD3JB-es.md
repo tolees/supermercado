@@ -16,6 +16,7 @@ comparePrice: 17.25 EUR
 prodname: 'TRESemmé Champú en Seco Fresco y Limpio - Paquete de 3 x 250 ml - Total: 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZZD3JB/?tag=tolees-21'
 descuento: '9.74'
 average: '11.5425'

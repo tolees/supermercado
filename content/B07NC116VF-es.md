@@ -16,6 +16,7 @@ comparePrice: 10.8 EUR
 prodname: 'AXE Marine - Desodorante Bodyspray para hombre  48 horas de protección  150 ml  pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC116VF/?tag=tolees-21'
 descuento: '7.50'
 average: '8.97'

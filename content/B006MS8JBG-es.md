@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Havanna Alfajores de Chocolate - 330 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006MS8JBG/?tag=tolees-21'
 descuento: '15.08'
 average: '8.45'

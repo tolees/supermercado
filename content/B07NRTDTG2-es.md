@@ -16,6 +16,7 @@ comparePrice: 4.08 EUR
 prodname: 'Gliss - Acondicionador Reparación Total - 2 uds de 200ml - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRTDTG2/?tag=tolees-21'
 descuento: '0.00'
 average: '3.4'

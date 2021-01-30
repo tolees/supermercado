@@ -16,6 +16,7 @@ comparePrice: 45.82 EUR
 prodname: 'Laphroaig 10 Años Single Malt Escoces Peated Whisky Escoces  40% - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001GLG7C2/?tag=tolees-21'
 descuento: '16.52'
 average: '34.49888888888889'

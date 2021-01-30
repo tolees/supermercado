@@ -16,6 +16,7 @@ comparePrice: 29.7 EUR
 prodname: 'Vino Blanco LAN D.O.Ca.Rioja - 6 botellas de 750 ml - Total: 4500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088KQJ88B/?tag=tolees-21'
 descuento: '15.29'
 average: '25.16'

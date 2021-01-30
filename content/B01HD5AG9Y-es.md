@@ -16,6 +16,7 @@ comparePrice: 46.14 EUR
 prodname: 'Lagarto Jabón Natural - Paquete de 40 x 400 gr - Total: 16000 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HD5AG9Y/?tag=tolees-21'
 descuento: '17.60'
 average: '36.375'

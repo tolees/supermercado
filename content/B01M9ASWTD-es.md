@@ -16,6 +16,7 @@ comparePrice: 1.89 EUR
 prodname: 'Knorr - Crema Verduras Mediterráneas - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9ASWTD/?tag=tolees-21'
 descuento: '15.87'
 average: '1.74'

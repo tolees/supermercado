@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'TRESemmé Champú Botanique Macadamia - Paquete de 3 x 700 ml - Total: 2100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZZRGK7/?tag=tolees-21'
 descuento: '0.00'
 average: '12.45'

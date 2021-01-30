@@ -16,6 +16,7 @@ comparePrice: 13.7 EUR
 prodname: 'L Oréal Expert Champú Protector de Cabellos Teñidos - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071W8HDDW/?tag=tolees-21'
 descuento: '18.18'
 average: '11.21'

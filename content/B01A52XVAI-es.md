@@ -16,6 +16,7 @@ comparePrice: 6 EUR
 prodname: 'L Oréal Paris Base de Maquillaje Fluida Cushion Rose Beige 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A52XVAI/?tag=tolees-21'
 descuento: '0.00'
 average: '6.273333333333333'

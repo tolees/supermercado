@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Jack Daniels Single Barrel Whisky - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001GLID4M/?tag=tolees-21'
 descuento: '21.53'
 average: '32.699999999999996'

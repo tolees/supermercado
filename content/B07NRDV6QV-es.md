@@ -16,6 +16,7 @@ comparePrice: 11.25 EUR
 prodname: 'Syoss Champú para Volumen  0% Siliconas - Pack de 3 unidades x 500ml  Total: 1500 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRDV6QV/?tag=tolees-21'
 descuento: '20.27'
 average: '7.856666666666667'

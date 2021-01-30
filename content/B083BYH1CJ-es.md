@@ -16,6 +16,7 @@ comparePrice: 33.3 EUR
 prodname: 'pikins Dispensador de jabón de Sensor automático doméstico Tipo de batería Seca Dispensadores de loción y de jabón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083BYH1CJ/?tag=tolees-21'
 descuento: '0.00'
 average: '33.3'

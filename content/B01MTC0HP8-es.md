@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'L Oréal Paris Colorete en Stick Infalible Chubby Fuchsia Fame'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTC0HP8/?tag=tolees-21'
 descuento: '21.71'
 average: '6.245'

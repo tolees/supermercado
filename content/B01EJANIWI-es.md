@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Sesderma Kit Antibolsas - 30 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EJANIWI/?tag=tolees-21'
 descuento: '20.00'
 average: '23.96'

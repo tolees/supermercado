@@ -16,6 +16,7 @@ comparePrice: 5.82 EUR
 prodname: 'Haribo Gummy Beans Caramelos Grageados - 1 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0B7WFB/?tag=tolees-21'
 descuento: '23.54'
 average: '4.79'

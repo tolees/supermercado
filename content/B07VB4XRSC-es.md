@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Flor Revive Floral - Suavizante para la Ropa  8 x 1.2L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB4XRSC/?tag=tolees-21'
 descuento: '0.00'
 average: '22.99'

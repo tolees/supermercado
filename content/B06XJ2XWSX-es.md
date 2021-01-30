@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'FabQuality Cortador de Verduras Cortador + Pincel + Peeler  en espiral Rallador de Verduras Mano con 3 Cuchillas para Cortador de Pepinos Rallador de Zanahorias Rallador de Espiral'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XJ2XWSX/?tag=tolees-21'
 descuento: '10.01'
 average: '8.09'

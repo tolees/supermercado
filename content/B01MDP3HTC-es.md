@@ -16,6 +16,7 @@ comparePrice: 6 EUR
 prodname: 'Okey - Batido Chocolate Botella 750 ml -   Pack de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MDP3HTC/?tag=tolees-21'
 descuento: '0.00'
 average: '6'

@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Rimmel London Lasting Finish Foundation 25H Base de Maquillaje Tono 303 True Nude - 112 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0047X8LSE/?tag=tolees-21'
 descuento: '16.67'
 average: '5.375'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'SLANWIN Dispensador de Jabón Automático  300ml Ipx4 Dispensador de Jabón Eléctrico con Sensor de Infrarrojos  Dispensador de Jabón sin Contacto para Baño y Cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0894SSWSG/?tag=tolees-21'
 descuento: '12.40'
 average: '24.94'

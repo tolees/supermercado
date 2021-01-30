@@ -16,6 +16,7 @@ comparePrice: 34.86 EUR
 prodname: 'Glenfarclas 12 Year Old Highland Single Malt Whisky 43% 1 Litres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0058LQIZ2/?tag=tolees-21'
 descuento: '13.65'
 average: '30.1'

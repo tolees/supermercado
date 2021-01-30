@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'GoMaihe Tarro de Vidrio de Almacenamiento 3Pcs  Tarros de Cristal para Conservas Envases Cristal Alimentos  Tarro de Granos de Café Recipiente Hermetico Tarros de Cristal con Tapa  1500ml / 2100ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081SGSCG9/?tag=tolees-21'
 descuento: '21.01'
 average: '23.69'

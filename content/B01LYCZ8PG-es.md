@@ -16,6 +16,7 @@ comparePrice: 0.96 EUR
 prodname: 'Orlando Tomate Natural Triturado - 800 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYCZ8PG/?tag=tolees-21'
 descuento: '4.17'
 average: '0.92'

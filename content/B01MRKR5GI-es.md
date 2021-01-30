@@ -16,6 +16,7 @@ comparePrice: 52.15 EUR
 prodname: 'Yamazakura Whisky - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRKR5GI/?tag=tolees-21'
 descuento: '19.27'
 average: '42.1'

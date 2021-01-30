@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Purina Dentalife Perro Grande [5 packs x 12 sticks]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0722VTR2X/?tag=tolees-21'
 descuento: '17.50'
 average: '18.811999999999998'

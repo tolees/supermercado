@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Maybelline New York - Lash Sensational Primer de Pestañas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073VMVPKX/?tag=tolees-21'
 descuento: '20.02'
 average: '7.99'

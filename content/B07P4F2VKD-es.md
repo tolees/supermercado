@@ -16,6 +16,7 @@ comparePrice: 2.7 EUR
 prodname: 'Handheld eléctrico Café Leche batidor de huevo Batir Frother mezclador Cocinar herramienta de la cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4F2VKD/?tag=tolees-21'
 descuento: '0.00'
 average: '2.7'

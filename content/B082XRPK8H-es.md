@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Maybelline New York Brow Extensions Stick de Cejas Tono 06 Deep Brown'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082XRPK8H/?tag=tolees-21'
 descuento: '22.69'
 average: '6.95'

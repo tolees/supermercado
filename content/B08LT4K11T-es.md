@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Rc Ocio - Cesta Navidad de regalo Lote Riojano gourmet / Cestas de Navidad para regalar / Lotes originales de La Rioja de productos gourmet vino tinto Rioja verdejo conservas cava embutidos'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Rc Ocio'
 buyurl: 'https://www.amazon.es/dp/B08LT4K11T/?tag=tolees-21'
 descuento: '0.00'
 average: '69.95'
@@ -27,10 +28,10 @@ Está [Rc Ocio - Cesta Navidad de regalo Lote Riojano gourmet / Cestas de Navida
 
 ℹ️:
 
-- ➡️ LOTE NAVIDAD BARATOS Selección de productos autóctonos de la zona al alcance de todos los bolsillo, Ideales para regalar en fiestas de navidad a empresas y familiares.
 - ➡️ CESTA NAVIDAD GOURMET DE PRODUCTO DE LA RIOJA Y NORTE DE ESPAÑA: increible lote de navidad gourmet selección de productos riojanos, seleccionando los productos más típicos de cada zona. Cesta de navidad de calidad .
 - ➡️ LOTE GOURMET NAVIDAD : ¿QUÉ BEBIDAS INCLUYE? 2 x Vino tinto Rioja (Heredad Orcasol - Heredad Figu) , Vino blanco Verdejo, Cava Brut
 - ➡️ LOTE NAVIDAD: ¿QUÉ EMBUTIDOS INCLUYE? Sarta de Chorizo gourmet de la zona Riojana , totalmente artesanal. Sarta de Salchichón artesano de la Rioja, elaboración artesanal.
 - ➡️ LOTE GOURMET : ¿QUÉ CONSERVAS INCLUYE? Conservas riojanas artesanas: 2 x Espárragos, cardo, Txaka, Alcachofa extra, Preparado de tortilla casero, Melocotón 1k, Bonito, Tiras del piquillo, Tomate frito de la zona.
+- ➡️ LOTE NAVIDAD BARATOS Selección de productos autóctonos de la zona al alcance de todos los bolsillo, Ideales para regalar en fiestas de navidad a empresas y familiares.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LT4K11T/?tag=tolees-21)

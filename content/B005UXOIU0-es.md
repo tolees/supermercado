@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Tanqueray Rangpur Ginebra - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005UXOIU0/?tag=tolees-21'
 descuento: '12.01'
 average: '18.31266666666667'

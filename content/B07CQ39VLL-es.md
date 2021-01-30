@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Xiaomi – 6970244529329 – Mi cepillo de dientes eléctrico/conectada blanca con tecnología sónico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQ39VLL/?tag=tolees-21'
 descuento: '13.21'
 average: '26.146'

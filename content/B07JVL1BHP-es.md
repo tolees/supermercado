@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'Diadermine - Gel Micelar Whashing me Softly para Pieles Secas/Sensibles - 3 unidades de 150ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVL1BHP/?tag=tolees-21'
 descuento: '24.07'
 average: '9.875'

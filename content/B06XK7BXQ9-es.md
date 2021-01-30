@@ -16,6 +16,7 @@ comparePrice: 8.89 EUR
 prodname: 'OGX Acondicionador Aceite de Argán Extra Fuerte  Hidrata y Fortalece - 385 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XK7BXQ9/?tag=tolees-21'
 descuento: '14.96'
 average: '7.56'

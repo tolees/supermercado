@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'E-MANIS Fundas para Sillas de Comedor 4 Piezas  Sillas Asiento Elasticas Cubresillas Lavable Extraíble Muy fácil de Limpiar Duradera  Boda Moderna  Hotel  Decor Restaurante - Color café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQ9K7VQ/?tag=tolees-21'
 descuento: '19.26'
 average: '16.75'

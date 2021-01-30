@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Reishunger Hervidor de arroz/arrocera  1 2l/500W/220V   función de Mantenimiento del Calor  Olla Interior  Cuchara y Vaso medidor Arroz para hasta 6 Personas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0156PTDZ6/?tag=tolees-21'
 descuento: '16.67'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Knorr Dso Thai - 69 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5HQVBM/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

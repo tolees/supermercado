@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'L Oréal Paris Barra de Labios Color Riche 303'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000OVS8EA/?tag=tolees-21'
 descuento: '18.85'
 average: '9.895'

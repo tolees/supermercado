@@ -16,6 +16,7 @@ comparePrice: 4.28 EUR
 prodname: 'Hztyyier Taza del Vino del Estilo Europeo del Vintage Hermoso Durable Taza de Cobre Puro té del Agua café del Vino para el Uso de la Oficina en casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGLDJ1T/?tag=tolees-21'
 descuento: '9.11'
 average: '3.89'

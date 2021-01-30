@@ -16,6 +16,7 @@ comparePrice: 1.91 EUR
 prodname: 'Vileda Salvauñas Antibacterias Bayeta Super Absorbente - 3 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M04XQCD/?tag=tolees-21'
 descuento: '0.52'
 average: '1.9'

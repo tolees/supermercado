@@ -16,6 +16,7 @@ comparePrice: 6.27 EUR
 prodname: 'New Look Wide Foot Petal  Sandalias con Punta Abierta para Mujer  Beige  Oatmeal 14   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D2TBCM8/?tag=tolees-21'
 descuento: '0.00'
 average: '6.27'

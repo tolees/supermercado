@@ -16,6 +16,7 @@ comparePrice: 2.37 EUR
 prodname: 'Spontex - Estropajo de Cocina  2 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UCC6D02/?tag=tolees-21'
 descuento: '8.02'
 average: '2.105'

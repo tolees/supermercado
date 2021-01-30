@@ -16,6 +16,7 @@ comparePrice: 12.92 EUR
 prodname: 'Gillette Mach 3 - Cuchillas de recambio para maquinilla de afeitar  8 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008BH9DMU/?tag=tolees-21'
 descuento: '0.00'
 average: '12.92'

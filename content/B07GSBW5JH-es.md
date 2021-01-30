@@ -16,6 +16,7 @@ comparePrice: 12.6 EUR
 prodname: 'NIVEA MEN Cool Kick Roll-on en pack de 6  6 x 50 ml   desodorante de hombre con un golpe de frescor  desodorante antitranspirante para el cuidado masculino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSBW5JH/?tag=tolees-21'
 descuento: '11.90'
 average: '9.99'

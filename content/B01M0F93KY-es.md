@@ -16,6 +16,7 @@ comparePrice: 6.36 EUR
 prodname: 'Matutano - Cacahuetes Tostados Al Horno - 200 g - [pack de 4]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0F93KY/?tag=tolees-21'
 descuento: '6.13'
 average: '5.97'

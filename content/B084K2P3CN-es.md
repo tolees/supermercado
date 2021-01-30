@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'Garnier Fructis Hair Food Champú de Aloe Vera Hidratante para Pelo Normal - 350 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084K2P3CN/?tag=tolees-21'
 descuento: '9.29'
 average: '4.49'

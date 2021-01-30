@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'ECOSUSI Maletín para Bolso Portatil Mujer Mujer Mochila para Portátil de 14 Pulgadas Bolsa de Hombro Bolsa para Computadora Arco Desmontable Café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BPYCD95/?tag=tolees-21'
 descuento: '0.00'
 average: '52.99'

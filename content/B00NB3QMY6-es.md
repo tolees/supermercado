@@ -16,6 +16,7 @@ comparePrice: 33.84 EUR
 prodname: 'Silicium España Laboratorios Rosa Mosqueta Crema Hidratante  Antiarrugas y Antiedad - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NB3QMY6/?tag=tolees-21'
 descuento: '13.65'
 average: '29.22'

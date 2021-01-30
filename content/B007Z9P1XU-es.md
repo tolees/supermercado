@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Lavazza A Modo Mio Passionale antes Appassionatamente  Cápsulas de Café  80 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007Z9P1XU/?tag=tolees-21'
 descuento: '8.64'
 average: '27.4'

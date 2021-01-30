@@ -16,6 +16,7 @@ comparePrice: 22.17 EUR
 prodname: '22 Pies  Vino Tinto - 3 botellas de 75 cl  Total: 2250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086LYTL28/?tag=tolees-21'
 descuento: '24.90'
 average: '16.65'

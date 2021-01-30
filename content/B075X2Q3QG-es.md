@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'La Albufera - Aceite puro  natural  vegano  prensado en frió  hidratante para la piel sin OGM-aceite de germen de arroz 50ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075X2Q3QG/?tag=tolees-21'
 descuento: '5.56'
 average: '16.99'

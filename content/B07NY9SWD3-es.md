@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Control Lub Aloe - Gel lubricante de aloe y aroma a jazmín - 75 mililitros - sin azúcar ni parabenos - no mancha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY9SWD3/?tag=tolees-21'
 descuento: '23.46'
 average: '6.85'

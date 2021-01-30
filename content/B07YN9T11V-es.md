@@ -16,6 +16,7 @@ comparePrice: 10.14 EUR
 prodname: 'Weider Yippie Cookies. Galletas con Proteína y Chocolate Puro. Sin aceite de palma  6x 50 g . 15 g de proteínas por bolsita. Bajas en azúcar.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YN9T11V/?tag=tolees-21'
 descuento: '10.26'
 average: '9.1'

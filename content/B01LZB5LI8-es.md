@@ -16,6 +16,7 @@ comparePrice: 1.31 EUR
 prodname: 'Ligeresa Salsa Fina - 225 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZB5LI8/?tag=tolees-21'
 descuento: '24.43'
 average: '0.9233333333333333'

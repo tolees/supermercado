@@ -16,6 +16,7 @@ comparePrice: 53.0 EUR
 prodname: 'Clynelish Reserva – Whisky escocés puro de malta – Edición limitada Juego de Tronos: CasaTyrell – 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG8S25V/?tag=tolees-21'
 descuento: '17.09'
 average: '43.94'

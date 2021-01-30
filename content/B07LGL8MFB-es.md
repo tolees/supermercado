@@ -16,6 +16,7 @@ comparePrice: 2.55 EUR
 prodname: 'Oral-B Complete Plus Frescor Total Pasta Dentífrica 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGL8MFB/?tag=tolees-21'
 descuento: '21.96'
 average: '1.99'

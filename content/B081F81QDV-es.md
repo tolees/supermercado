@@ -16,6 +16,7 @@ comparePrice: 25.5 EUR
 prodname: 'Jim Beam Doble Cask Whisky + Estuche 2 Vasos Digital - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081F81QDV/?tag=tolees-21'
 descuento: '21.76'
 average: '19.95'

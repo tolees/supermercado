@@ -16,6 +16,7 @@ comparePrice: 6.92 EUR
 prodname: 'Sonew Base de jabón Natural Materias primas para jabón Hecho a Mano de Bricolaje con Suministros de Base de jabón de aceites Vegetales orgánicos Transparent '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D3LC1J9/?tag=tolees-21'
 descuento: '9.10'
 average: '8.34'

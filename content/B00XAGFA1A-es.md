@@ -16,6 +16,7 @@ comparePrice: 2.55 EUR
 prodname: 'Oral-B Complete Limpieza Refrescante Pasta Dentífrica + Enjuague Bucal - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAGFA1A/?tag=tolees-21'
 descuento: '13.73'
 average: '2.2'

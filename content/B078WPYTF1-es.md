@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Homelody Ducha de Mano 5 Funciones con Botón de Pausa Alcachofa de Mano Universal G1/2 Plateada Cromada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WPYTF1/?tag=tolees-21'
 descuento: '0.00'
 average: '20.99'

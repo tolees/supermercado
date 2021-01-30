@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Maybelline New York - Color Sensational  Lápiz de Labios  Tono 10  Nude Whisper'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7ER7LE/?tag=tolees-21'
 descuento: '20.64'
 average: '3.96'

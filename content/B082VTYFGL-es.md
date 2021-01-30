@@ -16,6 +16,7 @@ comparePrice: 1.59 EUR
 prodname: 'Vivesoy - Bebida de Soja sabor Vainilla - 1 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VTYFGL/?tag=tolees-21'
 descuento: '5.66'
 average: '1.5'

@@ -16,6 +16,7 @@ comparePrice: 4.03 EUR
 prodname: 'Scotch-Brite Spray Limpiador para Vitrocerámica  500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U2TXCTU/?tag=tolees-21'
 descuento: '21.84'
 average: '3.15'

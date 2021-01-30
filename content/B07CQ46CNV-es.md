@@ -16,6 +16,7 @@ comparePrice: 31.0 EUR
 prodname: 'Sundari Arroz Basmati 1 Kg - [Pack De 10] - Total 10 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQ46CNV/?tag=tolees-21'
 descuento: '4.84'
 average: '29.5'

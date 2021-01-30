@@ -16,6 +16,7 @@ comparePrice: 14.44 EUR
 prodname: 'Osborne Magno Solera Reserva Brandy - 1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ORW0GM4/?tag=tolees-21'
 descuento: '17.24'
 average: '11.95'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Maybelline Master Strobing Stick Iluminador  Tono 300 Dark pieles morenas. - 9GR'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LAYIMOA/?tag=tolees-21'
 descuento: '22.47'
 average: '6.97'

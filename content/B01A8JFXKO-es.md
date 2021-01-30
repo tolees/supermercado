@@ -16,6 +16,7 @@ comparePrice: 7.9 EUR
 prodname: 'OGX -  Acondicionador Agua de Coco  385 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A8JFXKO/?tag=tolees-21'
 descuento: '15.19'
 average: '6.558000000000001'

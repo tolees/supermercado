@@ -16,6 +16,7 @@ comparePrice: 5.22 EUR
 prodname: 'Air Wick Essential Mist Recambio Ambientador Lavanda - 1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H44QZ4V/?tag=tolees-21'
 descuento: '12.64'
 average: '4.56'

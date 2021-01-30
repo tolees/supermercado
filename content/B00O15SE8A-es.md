@@ -16,6 +16,7 @@ comparePrice: 14.32 EUR
 prodname: 'Kelual Champú - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O15SE8A/?tag=tolees-21'
 descuento: '14.04'
 average: '12.31'

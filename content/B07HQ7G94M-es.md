@@ -16,6 +16,7 @@ comparePrice: 17.97 EUR
 prodname: 'Neutrogena Hydrogel Mascarilla Purificante  3 Recipientes De 30 ml. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HQ7G94M/?tag=tolees-21'
 descuento: '23.71'
 average: '13.066666666666668'

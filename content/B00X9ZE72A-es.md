@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'NIVEA SUN Protege & Hidrata Spray Solar FP30  1 x 300 ml   protector hidratante y resistente al agua con protección UVA/UVB  protección solar alta en formato pistola'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9ZE72A/?tag=tolees-21'
 descuento: '21.44'
 average: '10.99'

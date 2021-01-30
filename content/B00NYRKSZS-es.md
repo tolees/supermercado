@@ -16,6 +16,7 @@ comparePrice: 11.08 EUR
 prodname: 'Detergente sensible Dettol para lavado de prendas  1 unidad de 1 5 litros '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NYRKSZS/?tag=tolees-21'
 descuento: '0.00'
 average: '12.538571428571428'

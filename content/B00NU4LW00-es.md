@@ -16,6 +16,7 @@ comparePrice: 27.17 EUR
 prodname: 'L Oréal Serioxyl  Serum Densificador Cabello  90 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NU4LW00/?tag=tolees-21'
 descuento: '14.61'
 average: '23.35'

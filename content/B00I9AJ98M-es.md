@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: '414/21"O" Coca-Cola Glass  Estuche 2 Copas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I9AJ98M/?tag=tolees-21'
 descuento: '17.35'
 average: '19.01'

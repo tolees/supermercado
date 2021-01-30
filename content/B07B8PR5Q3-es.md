@@ -16,6 +16,7 @@ comparePrice: 66.14 EUR
 prodname: 'Purina Beyond Pienso Natural para Perro Adulto Pollo y Cebada Integral 14 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8PR5Q3/?tag=tolees-21'
 descuento: '8.00'
 average: '53.28064516129032'

@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Un Air d’Antan® Caja Belleza Provence Mujer  1 Jabon 100g  1 Gel Ducha 250ml 1 Crema Corporal 200ml 1 Crema de Manos 25ml |Perfume Verbena  Bergamota|Navidad Regalo Mujer Originales Cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJDXVJ5/?tag=tolees-21'
 descuento: '20.00'
 average: '31.2'

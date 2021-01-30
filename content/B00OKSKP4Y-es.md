@@ -16,6 +16,7 @@ comparePrice: 28.8 EUR
 prodname: 'Wella Elements Renewing Mascarilla - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OKSKP4Y/?tag=tolees-21'
 descuento: '20.76'
 average: '22.82'

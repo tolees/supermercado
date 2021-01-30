@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'IGLESIAS - Lote De Paleta Serrana Reserva de 4 5 a 5kg + Dúo De Chorizo Y Salchichón De 400G. Peso total de 5 15 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YVF82MJ/?tag=tolees-21'
 descuento: '9.84'
 average: '56.83'

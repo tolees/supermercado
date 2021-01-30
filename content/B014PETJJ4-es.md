@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'L Oréal Expert Pro Fiber Rectify Leave-In-Rectify - Cuidado capilar  75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014PETJJ4/?tag=tolees-21'
 descuento: '20.40'
 average: '11.225'

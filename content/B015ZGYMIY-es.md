@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'L Oréal Paris - Brocha de Maquillaje Dúo para Bases Fluidas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015ZGYMIY/?tag=tolees-21'
 descuento: '15.60'
 average: '8.425'

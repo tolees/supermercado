@@ -16,6 +16,7 @@ comparePrice: 29.85 EUR
 prodname: 'Ginebra - Gin Citadelle 1L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005CJVBY8/?tag=tolees-21'
 descuento: '20.27'
 average: '23.8'

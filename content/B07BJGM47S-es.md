@@ -16,6 +16,7 @@ comparePrice: 11.72 EUR
 prodname: 'Dove Original Desodorante Antitranspirante en Aerosol 48h de Protección con ¼ de Crema Hidratante - Pack de 4 x 200 ml - Total: 800 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BJGM47S/?tag=tolees-21'
 descuento: '18.26'
 average: '9.58'

@@ -16,6 +16,7 @@ comparePrice: 14.25 EUR
 prodname: 'Master s - Ginebra -  700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009T4BY3U/?tag=tolees-21'
 descuento: '11.58'
 average: '12.795'

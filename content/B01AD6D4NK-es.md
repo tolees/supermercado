@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'GANADOR 2020* ● Aceite para barba "ORIGINAL" de Camden Barbershop Company ● cuidado de la barba completamente natural ● refrescante y suavizante ● 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AD6D4NK/?tag=tolees-21'
 descuento: '11.83'
 average: '14.9'

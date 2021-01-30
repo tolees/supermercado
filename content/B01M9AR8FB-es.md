@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Scottex Fresh Duo Papel Higiénico Húmedo - pack de 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9AR8FB/?tag=tolees-21'
 descuento: '22.44'
 average: '3.8275'

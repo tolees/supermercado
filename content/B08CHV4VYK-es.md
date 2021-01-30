@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Lagarto Suavizante Azul Concentrado 70 Lavados 1 5l- Paquete 6 Unidades 5900 ml  18410761801287 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CHV4VYK/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'
@@ -27,9 +28,9 @@ Tienes [Lagarto Suavizante Azul Concentrado 70 Lavados 1 5l- Paquete 6 Unidades 
 
 🔎:
 
+- Aporte extra de suavidad
 - Aroma fresco
 - De la marca Lagarto
-- Aporte extra de suavidad
 - Complementa el lavado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CHV4VYK/?tag=tolees-21)

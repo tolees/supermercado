@@ -16,6 +16,7 @@ comparePrice: 18.54 EUR
 prodname: 'Caffè Borbone Cápsulas de café - 100 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BBW9OAC/?tag=tolees-21'
 descuento: '13.70'
 average: '16.0'

@@ -16,6 +16,7 @@ comparePrice: 27.61 EUR
 prodname: 'Oral-B PRO 600 CrossAction  Cepillo de dientes eléctrico recargable con tecnología Braun  edición naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NIPSWRW/?tag=tolees-21'
 descuento: '9.49'
 average: '26.585'

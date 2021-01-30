@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'LOCCO - Gotas dulces con gusto a chocolate sin azúcar bajas en calorías'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWJQ3T8/?tag=tolees-21'
 descuento: '20.03'
 average: '5.59'

@@ -16,6 +16,7 @@ comparePrice: 27.9 EUR
 prodname: 'Sangre de Toro  Vino Tinto - 6 botellas de 75 cl  Total: 4500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GFL8CKS/?tag=tolees-21'
 descuento: '14.19'
 average: '24.038333333333334'

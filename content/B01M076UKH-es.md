@@ -16,6 +16,7 @@ comparePrice: 4.32 EUR
 prodname: 'President Leche Entera - 6 x 1 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M076UKH/?tag=tolees-21'
 descuento: '2.78'
 average: '4.035'

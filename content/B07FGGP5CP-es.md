@@ -16,6 +16,7 @@ comparePrice: 17.87 EUR
 prodname: 'Diadermine Expert Rejuvenecedor crema de día  crema de noche y corrector anti-manchas - 1 Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FGGP5CP/?tag=tolees-21'
 descuento: '9.51'
 average: '17.385'

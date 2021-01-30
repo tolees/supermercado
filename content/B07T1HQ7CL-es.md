@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'VETOMILE Dispensador automático de jabón espumoso Espuma IPX4 Resistente al Agua 280ML  para jabones líquidos champú desinfectante Cocina baño Inodoro etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1HQ7CL/?tag=tolees-21'
 descuento: '24.15'
 average: '23.99'

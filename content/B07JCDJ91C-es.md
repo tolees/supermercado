@@ -16,6 +16,7 @@ comparePrice: 3.75 EUR
 prodname: 'Syoss  Champú Color Tech - con Tecnología selladora del Color - 500ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCDJ91C/?tag=tolees-21'
 descuento: '21.33'
 average: '2.95'

@@ -16,6 +16,7 @@ comparePrice: 3.79 EUR
 prodname: 'Valor Chocolate Negro Con Almendras - 250 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IUXT02M/?tag=tolees-21'
 descuento: '15.57'
 average: '3.2'

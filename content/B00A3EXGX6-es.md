@@ -16,6 +16,7 @@ comparePrice: 2.5 EUR
 prodname: 'Santa Rita Harina para Croquetas y Bechamel - 430 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A3EXGX6/?tag=tolees-21'
 descuento: '22.80'
 average: '2.04'

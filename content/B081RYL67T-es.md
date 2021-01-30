@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Ensaimadas Mallorquinas Rellenas - Pack 3 Unidades - Bollería Para Desayunos  Fiestas o Eventos Especiales - De Chocolate  Cabello Ángel  Sobrasada  Crema  Sin Relleno  Sin Relleno '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081RYL67T/?tag=tolees-21'
 descuento: '0.00'
 average: '34.99'

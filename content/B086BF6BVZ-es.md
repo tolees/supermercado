@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Bilisder Dispensador Jabon de Espuma Automático Eléctrico 350ml Sensor de Movimiento Infrarrojo Dispensador de jabón USB Recargable para baño Cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086BF6BVZ/?tag=tolees-21'
 descuento: '15.01'
 average: '16.99'

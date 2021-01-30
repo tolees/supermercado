@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'Gliss - Mascarilla Liso Asiático - 300ml - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N80HEM0/?tag=tolees-21'
 descuento: '22.22'
 average: '3.85'

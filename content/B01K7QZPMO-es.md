@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'La Masía Aceite de Oliva Sumum - 1 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7QZPMO/?tag=tolees-21'
 descuento: '10.03'
 average: '2.41'

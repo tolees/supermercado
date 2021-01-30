@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Purina ProPlan Medium Puppy Start pienso para perro cachorro Pollo 3 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Y9SSHU4/?tag=tolees-21'
 descuento: '18.50'
 average: '16.166666666666668'

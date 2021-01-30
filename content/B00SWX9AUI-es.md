@@ -16,6 +16,7 @@ comparePrice: 66.9 EUR
 prodname: 'Leifheit Set de fregona rotatoria Clean Twist Disc Mop  fregona giratoria y cubo con ruedas  set de limpieza con sistema de regulación de la humedad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SWX9AUI/?tag=tolees-21'
 descuento: '0.00'
 average: '51.44500000000001'

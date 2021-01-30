@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Chicco Pantaloni Lunghi Jeans Denim Stretch Bimbo Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SH6HPVZ/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

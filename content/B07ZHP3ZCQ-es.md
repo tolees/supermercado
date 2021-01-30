@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'NIVEA Neceser Body Cuidado Completo con body milk 1 x 400 ml  crema de manos 1 x 100 ml  desodorante roll on 1 x 50 ml  gel de ducha 1 x 250 ml y bálsamo labial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHP3ZCQ/?tag=tolees-21'
 descuento: '4.52'
 average: '9.5'

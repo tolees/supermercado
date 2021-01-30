@@ -16,6 +16,7 @@ comparePrice: 9.97 EUR
 prodname: 'Schwarzkopf Professional Igora Royal 8-00 Tinte - 60 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BW5TRWY/?tag=tolees-21'
 descuento: '13.34'
 average: '8.64'

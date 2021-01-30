@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Mumiumius Taza de Dientes/Taza de Cepillo de Dientes  titulares de cepillos de Dientes de Estilo de Dibujos Animados Baño Animal Print Agua Café Leche Jugo Tazas Inicio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083THVVWB/?tag=tolees-21'
 descuento: '0.00'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 51.9 EUR
 prodname: 'Scitec Whey Protein Professional Mezcla de Proteína de Suero  chocolate con avellana- 2350 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004EPYIXW/?tag=tolees-21'
 descuento: '17.34'
 average: '41.42875'

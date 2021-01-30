@@ -16,6 +16,7 @@ comparePrice: 28.2 EUR
 prodname: 'Caffè Borbone DGBBLU6X15N  Cápsulas de café - 90 cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJTXDLR/?tag=tolees-21'
 descuento: '21.67'
 average: '22.09'

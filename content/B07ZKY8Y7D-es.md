@@ -16,6 +16,7 @@ comparePrice: 14.6 EUR
 prodname: 'L´Oréal Men Expert Hydra Energetic Pack con Gel de Ducha Hydra Sensitive Calmante para Hombres de 300 ml y Crema Hidratante Vitalift de 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKY8Y7D/?tag=tolees-21'
 descuento: '11.30'
 average: '14.5'

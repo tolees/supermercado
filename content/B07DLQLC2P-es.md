@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'GERUIKE Portarrollos De Cocina con Estante Portarrollos de Papel de Cocina con Estante Adhesivo Portarrollos de Papel higiénico Aluminio Inoxidable Montaje en Pared sin Taladro Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLQLC2P/?tag=tolees-21'
 descuento: '9.60'
 average: '19.88'

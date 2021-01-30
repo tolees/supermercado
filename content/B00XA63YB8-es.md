@@ -16,6 +16,7 @@ comparePrice: 9.3 EUR
 prodname: 'Dixan Detergente en Polvo - 55 lavados  3 25 Kg '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA63YB8/?tag=tolees-21'
 descuento: '0.00'
 average: '9.3'

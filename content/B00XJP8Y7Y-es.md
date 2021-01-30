@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'NIVEA Hyaluron Cellular Filler Cuidado de Noche  Crema de Noche Antiarrugas con ácido hialurónico y creatina  1 x 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XJP8Y7Y/?tag=tolees-21'
 descuento: '20.28'
 average: '11.95'

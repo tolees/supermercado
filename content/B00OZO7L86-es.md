@@ -16,6 +16,7 @@ comparePrice: 1.59 EUR
 prodname: 'Sam Mills Pasta de Maíz Sin Gluten - 300 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OZO7L86/?tag=tolees-21'
 descuento: '6.92'
 average: '1.48'

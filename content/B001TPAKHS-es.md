@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Johnnie Walker Black Whisky Escocés - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001TPAKHS/?tag=tolees-21'
 descuento: '8.50'
 average: '20.796666666666667'

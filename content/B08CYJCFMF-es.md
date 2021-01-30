@@ -16,6 +16,7 @@ comparePrice: 26.94 EUR
 prodname: 'Mimosín Collection Parfum Suavizante Nº 3  52 Lavados 870 ml - Pack de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CYJCFMF/?tag=tolees-21'
 descuento: '16.85'
 average: '22.4'

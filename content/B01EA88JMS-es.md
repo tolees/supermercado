@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Levadura Nutricional 125 Gr de Salud Viva'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EA88JMS/?tag=tolees-21'
 descuento: '9.45'
 average: '8.14'

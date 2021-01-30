@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Scottex Sensitive Aloe Vera Papel Higiénico Húmedo - 12 Paquetes de 40 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJ6YDRX/?tag=tolees-21'
 descuento: '11.62'
 average: '15.9'

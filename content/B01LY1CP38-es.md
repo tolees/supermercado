@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Nestlé Purés Pijama Tarrito de puré de verduras y carne  variedad Verduritas selectas con Merluza  para bebés a partir de 8 meses - 2 Tarritos de 200 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LY1CP38/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

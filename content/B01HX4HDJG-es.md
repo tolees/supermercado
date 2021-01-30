@@ -16,6 +16,7 @@ comparePrice: 141.93 EUR
 prodname: 'OREWORK 386770 Molino Maíz eléctrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HX4HDJG/?tag=tolees-21'
 descuento: '0.00'
 average: '146.16500000000002'

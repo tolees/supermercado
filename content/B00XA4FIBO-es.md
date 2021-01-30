@@ -16,6 +16,7 @@ comparePrice: 1.72 EUR
 prodname: 'Maizena - Levadura Panadería  27.5 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA4FIBO/?tag=tolees-21'
 descuento: '7.56'
 average: '1.59'

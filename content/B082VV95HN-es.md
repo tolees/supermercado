@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'Gliss - Mascarilla Ultimate Repair para Cabellos Muy Dañados - 300ml - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VV95HN/?tag=tolees-21'
 descuento: '7.07'
 average: '4.6'

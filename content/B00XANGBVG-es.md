@@ -16,6 +16,7 @@ comparePrice: 1.25 EUR
 prodname: 'Signal Action Gel Fresco Dentífrico - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XANGBVG/?tag=tolees-21'
 descuento: '5.60'
 average: '1.305'

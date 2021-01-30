@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Antaño Vino Tinto D.O Rioja - Pack de 6 Botellas x 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M6OMP1K/?tag=tolees-21'
 descuento: '20.00'
 average: '18.83897435897436'

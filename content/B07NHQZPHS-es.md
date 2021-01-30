@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Schmidt s Gel de ducha sólido de bergamota y lima - 142 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHQZPHS/?tag=tolees-21'
 descuento: '19.91'
 average: '7.0'

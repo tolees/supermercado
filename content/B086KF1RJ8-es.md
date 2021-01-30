@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Ariel Pods Allin1 Detergente en Cápsulas para Lavadora  Active Odour Control  90 Lavados  6 x 15 '
 country: 'es'
 flag: '🇪🇸'
+brand: 'Ariel'
 buyurl: 'https://www.amazon.es/dp/B086KF1RJ8/?tag=tolees-21'
 descuento: '0.00'
 average: '31.8566666666667'
@@ -28,11 +29,11 @@ En este momento está [Ariel Pods Allin1 Detergente en Cápsulas para Lavadora  
 🔎:
 
 - Iluminador
-- Eficaz en eliminar los malos olores
-- Limpieza profunda e higiene
+- Resultados increíbles en una sola cápsula (detergente concentrado)
 - Eficaz en frío (incluso a 30ºC)
 - Quitamanchas
+- Eficaz en eliminar los malos olores
 - Fragancia intensa
-- Resultados increíbles en una sola cápsula (detergente concentrado)
+- Limpieza profunda e higiene
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086KF1RJ8/?tag=tolees-21)

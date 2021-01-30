@@ -16,6 +16,7 @@ comparePrice: 14.32 EUR
 prodname: 'Weider Thermo Caps- 120 Capsulas. Disminuye el apetito. Potente fórmula termogénica con cafeína. Enriquecido con Cromo  Cúrcuma  l-Carnitina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002BAXB26/?tag=tolees-21'
 descuento: '0.00'
 average: '14.32'

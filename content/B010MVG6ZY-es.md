@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Pogi s Grooming Wipes - Toallitas húmedas - 100 toallitas desodorantes para Perros - No perfumadas  Naturales  Extra Grandes  biodegradables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010MVG6ZY/?tag=tolees-21'
 descuento: '20.01'
 average: '11.99'

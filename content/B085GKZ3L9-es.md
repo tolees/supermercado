@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Garrafa 5L gel hidroalcohólico higienizante PURLINE HIDROGEL 5L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085GKZ3L9/?tag=tolees-21'
 descuento: '14.01'
 average: '42.95'

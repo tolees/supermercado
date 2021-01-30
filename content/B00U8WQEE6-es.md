@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Sesderma - Crema hidratante rejuvenecedora facial para todo tipo de piel  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U8WQEE6/?tag=tolees-21'
 descuento: '20.00'
 average: '31.96'

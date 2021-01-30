@@ -16,6 +16,7 @@ comparePrice: 45.5 EUR
 prodname: 'Brandy de Jerez Solera Gran Reserva Carlos I Imperial XO - 1 botella de 70 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXL14UT/?tag=tolees-21'
 descuento: '20.00'
 average: '34.769999999999996'

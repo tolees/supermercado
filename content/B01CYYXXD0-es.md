@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Lea Champú para Barba Purificante y Suavizante - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CYYXXD0/?tag=tolees-21'
 descuento: '21.26'
 average: '6.33'

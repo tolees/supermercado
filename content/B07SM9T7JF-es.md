@@ -16,6 +16,7 @@ comparePrice: 2.11 EUR
 prodname: 'Cola Cao Original Chocolate en Polvo - 770 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SM9T7JF/?tag=tolees-21'
 descuento: '0.00'
 average: '2.11'

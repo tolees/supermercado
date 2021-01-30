@@ -16,6 +16,7 @@ comparePrice: 15.65 EUR
 prodname: 'Cumlaude Gineseda - Complemento Alimenticio para Aliviar los Síntomas de la Menopausia - con Isoflavonas de Soja - 30 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EHSNR3C/?tag=tolees-21'
 descuento: '13.74'
 average: '13.464285714285714'

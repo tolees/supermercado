@@ -16,6 +16,7 @@ comparePrice: 13.65 EUR
 prodname: 'Love Beauty and Planet Acondicionador para Cabello dañado  Aceite de Coco e Ylang Ylang Vegano - Pack de 3 x 400 ml  Total: 1200 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QL8XMJY/?tag=tolees-21'
 descuento: '0.00'
 average: '13.65'

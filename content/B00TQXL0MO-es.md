@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Philips Sonicare Serie 2 HX6231/01 - Cepillo de dientes electrico  1 cabezal  cargador  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TQXL0MO/?tag=tolees-21'
 descuento: '24.22'
 average: '32.52642857142857'

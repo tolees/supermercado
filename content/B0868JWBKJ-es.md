@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Dispensador Jabón Automático  Dosificador Gel Hidroalcohólico Automatico  Sensor de Movimiento por Infrarrojos  Base Impermeable  Baño Apropiado  Cocinas  Hotel  Restaurante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0868JWBKJ/?tag=tolees-21'
 descuento: '3.85'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 9.49 EUR
 prodname: 'Somat Oro Gel Lavavajillas Higiene 50 Dosis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IVI21YA/?tag=tolees-21'
 descuento: '5.69'
 average: '8.229999999999999'

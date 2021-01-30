@@ -16,6 +16,7 @@ comparePrice: 50.2 EUR
 prodname: 'Sancarlos Relleno Nórdico Mistral  con Microgel  Tacto Piel de Melocotón  Antialérgico  Densidad 350 gr  240 x 220 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OY3S36M/?tag=tolees-21'
 descuento: '21.55'
 average: '39.483333333333334'

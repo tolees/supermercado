@@ -16,6 +16,7 @@ comparePrice: 18.75 EUR
 prodname: 'NIVEA Pure Invisible Desodorante de ataques  6 paquetes de 50 ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JB4TT46/?tag=tolees-21'
 descuento: '0.00'
 average: '14.32'

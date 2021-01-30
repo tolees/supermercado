@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'VAHDAM  Hojas de Té Chai Masala de la India  100 Tazas  | INGREDIENTES 100% NATURALES: Té Negro  Canela  Cardamomo  Clavo  Pimienta Negra | Sirve de TÉ FRÍO o Infusión de Chai Latte Caliente | 200g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q6FM6GY/?tag=tolees-21'
 descuento: '22.23'
 average: '14.49'

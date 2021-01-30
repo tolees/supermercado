@@ -16,6 +16,7 @@ comparePrice: 25.2 EUR
 prodname: 'Purina Friskies en Salsa comida para gato Adulto con Salmón y Atún 24 x 400 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OWYFO4M/?tag=tolees-21'
 descuento: '9.52'
 average: '22.684'

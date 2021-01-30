@@ -16,6 +16,7 @@ comparePrice: 11.92 EUR
 prodname: 'Oral-B - Cepillo de dientes eléctrico  funciona con pilas   diseño de princesas Disney'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0068DFDH8/?tag=tolees-21'
 descuento: '0.00'
 average: '12.71'

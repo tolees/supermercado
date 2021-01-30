@@ -16,6 +16,7 @@ comparePrice: 207.99 EUR
 prodname: 'Philips Sonicare DiamondClean HX9352/04 -  Cepillo de dientes eléctrico Recargable  5 Modos  2 Cabezales  Vaso Cargador y Estuche USB  Color Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MGOOJWS/?tag=tolees-21'
 descuento: '18.27'
 average: '170.0'

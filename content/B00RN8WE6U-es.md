@@ -16,6 +16,7 @@ comparePrice: 11.29 EUR
 prodname: 'Revlon Professional UniqOne Coco Champú Acondicionador 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RN8WE6U/?tag=tolees-21'
 descuento: '24.89'
 average: '9.323333333333334'

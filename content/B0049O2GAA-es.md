@@ -16,6 +16,7 @@ comparePrice: 45.75 EUR
 prodname: 'Cragganmore Whisky Escocés - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0049O2GAA/?tag=tolees-21'
 descuento: '23.52'
 average: '31.86692307692308'

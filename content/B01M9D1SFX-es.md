@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Matcha Green Tea | Té Matcha Vegano | Polvo de Té Natural | Dieta Detox Para Adelgazar | Con Vitamina A  K y E | Para la bebida o la comida | Sin gluten y sin Lactosa | WeightWorld'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9D1SFX/?tag=tolees-21'
 descuento: '10.01'
 average: '8.99'

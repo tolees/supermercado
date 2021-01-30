@@ -16,6 +16,7 @@ comparePrice: 8.15 EUR
 prodname: 'Neutrogena Crema De Manos Y Uñas - 75 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D3HWRCQ/?tag=tolees-21'
 descuento: '14.23'
 average: '6.026'

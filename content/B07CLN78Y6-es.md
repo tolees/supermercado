@@ -16,6 +16,7 @@ comparePrice: 12.45 EUR
 prodname: 'Diadermine - Lift+ Hidratante crema de día - 50ml y Lift+ Booster Anti-Arrugas - 15ml  1 Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CLN78Y6/?tag=tolees-21'
 descuento: '19.76'
 average: '11.605'

@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'GluteoStop® - ayuda a descomponer el gluten - 30 mini tabletas - sensibilidad al gluten - dieta sin gluten - enzima gluten'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFG2V66/?tag=tolees-21'
 descuento: '17.15'
 average: '9.9'

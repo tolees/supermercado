@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'ITECHNIK Cabezal de Recambio Para oral-b cepillo de dientes eléctrico recargable  Recambios Para Cepillo de Dientes Cross EB50  Set de 12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZWMXV3/?tag=tolees-21'
 descuento: '16.44'
 average: '12.947142857142858'

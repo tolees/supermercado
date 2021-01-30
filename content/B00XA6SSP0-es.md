@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'WiPP Express Detergente en Polvo - 80 Lavados  5 2 Kg '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA6SSP0/?tag=tolees-21'
 descuento: '24.16'
 average: '12.12'

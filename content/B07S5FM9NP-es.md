@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Old Spice Citron - Desodorante Stick  Pack de 6 x 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5FM9NP/?tag=tolees-21'
 descuento: '20.22'
 average: '15.540000000000001'

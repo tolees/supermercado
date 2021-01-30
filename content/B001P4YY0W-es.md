@@ -16,6 +16,7 @@ comparePrice: 16.19 EUR
 prodname: 'Tía María - Licor De Café  Botella 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001P4YY0W/?tag=tolees-21'
 descuento: '20.01'
 average: '12.463333333333333'

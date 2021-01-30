@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Moussel Neceser Gel de Ducha Clásico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZG3SC1S/?tag=tolees-21'
 descuento: '11.57'
 average: '7.95'

@@ -16,6 +16,7 @@ comparePrice: 8.4 EUR
 prodname: 'Schwarzkopf  Champú - 2 de 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JF2NQXV/?tag=tolees-21'
 descuento: '0.00'
 average: '8.4'

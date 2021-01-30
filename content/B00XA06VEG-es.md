@@ -16,6 +16,7 @@ comparePrice: 1.18 EUR
 prodname: 'Scottex - Papel de cocina - Súper absorbente - 2 rollos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA06VEG/?tag=tolees-21'
 descuento: '0.00'
 average: '1.18'

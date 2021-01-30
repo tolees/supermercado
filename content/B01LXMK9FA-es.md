@@ -16,6 +16,7 @@ comparePrice: 4.14 EUR
 prodname: 'Solán De Cabras Agua Mineral Natural - Pack de 6 x 1 5 l - Total: 9000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXMK9FA/?tag=tolees-21'
 descuento: '4.59'
 average: '3.95'

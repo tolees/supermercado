@@ -16,6 +16,7 @@ comparePrice: 8.2 EUR
 prodname: 'Vileda - Salvauñas Vitroceramica Duplo - [Pack de 4]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSW7QDZ/?tag=tolees-21'
 descuento: '19.51'
 average: '6.6'

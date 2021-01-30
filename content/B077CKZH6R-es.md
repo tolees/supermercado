@@ -16,6 +16,7 @@ comparePrice: 130.13 EUR
 prodname: 'Bosch TAS6004 Tassimo My Way  color blanco  + Pack café 5 paquetes  80 cápsulas  Tassimo Marcilla Café con Leche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077CKZH6R/?tag=tolees-21'
 descuento: '0.00'
 average: '130.13'

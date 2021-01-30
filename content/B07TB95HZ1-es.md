@@ -16,6 +16,7 @@ comparePrice: 3.96 EUR
 prodname: 'Puleva Nata Líquida Para Montar 1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TB95HZ1/?tag=tolees-21'
 descuento: '0.00'
 average: '3.96'

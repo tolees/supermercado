@@ -16,6 +16,7 @@ comparePrice: 27.89 EUR
 prodname: 'Purina Gourmet Diamant Delicias en Gelatina comida para gatos con Atun 24 x 85 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071YZJYJ9/?tag=tolees-21'
 descuento: '16.82'
 average: '23.2'

@@ -16,6 +16,7 @@ comparePrice: 13.68 EUR
 prodname: 'AXE Desodorante Antitraspirante Gold Blanco Duplo Ahorro - 2 Paquetes de 2 x 150 ml: Total: 600 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7VMX7P/?tag=tolees-21'
 descuento: '3.22'
 average: '11.57'

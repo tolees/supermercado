@@ -16,6 +16,7 @@ comparePrice: 6.09 EUR
 prodname: 'Colgate Actibrush Brush HEAD 2 Cabezal para cepillo de dientes  1 Pack de 2 cabezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0000D8BGF/?tag=tolees-21'
 descuento: '0.00'
 average: '6.09'

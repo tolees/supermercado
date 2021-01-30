@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Premier Protein Protein Bar Double Chocolate 24x40g - Barras de Proteína con Bajo Contenido de Azúcar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRXS2RJ/?tag=tolees-21'
 descuento: '11.74'
 average: '24.306666666666665'

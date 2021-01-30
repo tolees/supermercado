@@ -16,6 +16,7 @@ comparePrice: 4.15 EUR
 prodname: 'Max Factor  Maquillaje corrector  Tono: 305 Sand  Pieles Claras  - 12 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P56MRYP/?tag=tolees-21'
 descuento: '20.48'
 average: '3.3'

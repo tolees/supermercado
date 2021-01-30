@@ -16,6 +16,7 @@ comparePrice: 7.55 EUR
 prodname: 'Heineken Cerveza - Paquete de 12 x 330 ml - Total: 3960 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MDLUKJ3/?tag=tolees-21'
 descuento: '12.58'
 average: '6.225'

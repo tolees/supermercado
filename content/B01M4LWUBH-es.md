@@ -16,6 +16,7 @@ comparePrice: 12.8 EUR
 prodname: 'VERNEL Suavizante Concentrado Azul Botella 57 lavados [Pack de 4]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4LWUBH/?tag=tolees-21'
 descuento: '0.00'
 average: '11.58'

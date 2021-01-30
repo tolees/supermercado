@@ -16,6 +16,7 @@ comparePrice: 2.93 EUR
 prodname: 'Alhambra Especial Cerveza Dorada Lager  5.4% Volumen de Alcohol - Pack de 6 x 25 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y2HHDD/?tag=tolees-21'
 descuento: '7.17'
 average: '2.765'

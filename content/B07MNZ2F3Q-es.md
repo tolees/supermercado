@@ -16,6 +16,7 @@ comparePrice: 23.1 EUR
 prodname: 'iBazal 22mm Correas Cuero Piel Pulseras Bandas Compatible con Samsung Galaxy Watch 46mm Gear S3 Frontier Classic Huawei GT/2 Classic/Honor Magic Ticwatch Pro Hombres Band  Reloj No Incluido  - Café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNZ2F3Q/?tag=tolees-21'
 descuento: '0.00'
 average: '23.1'

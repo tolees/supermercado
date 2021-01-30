@@ -16,6 +16,7 @@ comparePrice: 11.23 EUR
 prodname: 'Pustefix- Juego para Hacer pompas de jabón  70 ml  Multicolor  869460 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002HYBXI/?tag=tolees-21'
 descuento: '19.95'
 average: '8.99'

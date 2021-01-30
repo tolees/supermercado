@@ -16,6 +16,7 @@ comparePrice: 9.15 EUR
 prodname: 'Café Fortaleza Café Grano Descafeinado - 250 gr - [Pack de 3]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4B1FYN/?tag=tolees-21'
 descuento: '6.56'
 average: '8.55'

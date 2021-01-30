@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Ultimate - Juego de 40 bolsas de basura con cordón  50 unidades  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CD5BZ5S/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'
@@ -27,10 +28,10 @@ Tienes [Ultimate - Juego de 40 bolsas de basura con cordón  50 unidades  color 
 
 ℹ️:
 
-- Práctico cierre de cordón.
-- Capacidad: 50 litros
 - Bolsas de basura ultra resistentes
 - Color: blanco.
 - Hecho de plástico multicapa para alta resistencia y resistencia al desgarro.
+- Práctico cierre de cordón.
+- Capacidad: 50 litros
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01CD5BZ5S/?tag=tolees-21)

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'NIVEA Q10 3en1 Cushion Tono Oscuro  1 x 15 ml   perfeccionador facial  cuidado facial hidratante y antiedad con protector facial 15 para una piel uniforme y natural'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNQ5JND/?tag=tolees-21'
 descuento: '17.95'
 average: '10.313333333333333'

@@ -16,6 +16,7 @@ comparePrice: 11.4 EUR
 prodname: 'Martín Códax - Vino Blanco 75 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003RK9YUM/?tag=tolees-21'
 descuento: '11.75'
 average: '9.879999999999999'

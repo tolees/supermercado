@@ -16,6 +16,7 @@ comparePrice: 85.9 EUR
 prodname: 'Scitec Nutrition 100% Whey Protein Professional Proteína Chocolate – Mantequilla de cacahuate - 5000 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004EPYJ0Y/?tag=tolees-21'
 descuento: '22.03'
 average: '64.485'

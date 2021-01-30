@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Hero Baby Verduritas de La Huerta Pollo y Ternera - 235 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7R8VQK/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

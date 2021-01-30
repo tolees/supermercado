@@ -16,6 +16,7 @@ comparePrice: 36.72 EUR
 prodname: 'One Key Ginebra - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009T4BK2A/?tag=tolees-21'
 descuento: '15.22'
 average: '33.72333333333333'

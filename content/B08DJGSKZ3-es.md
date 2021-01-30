@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Flor - Suavizante para la ropa concentrado  aroma Oceánico - Pack de 10  hasta 530 dosis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DJGSKZ3/?tag=tolees-21'
 descuento: '15.00'
 average: '20.4'

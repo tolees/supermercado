@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'L Oréal Paris Barra de Labios Color Riche Accords Naturels 265'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0086MEEII/?tag=tolees-21'
 descuento: '15.77'
 average: '10.355'

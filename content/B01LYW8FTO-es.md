@@ -16,6 +16,7 @@ comparePrice: 14.4 EUR
 prodname: 'Coca-Cola Light Lata - 330 ml  Pack de 24 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYW8FTO/?tag=tolees-21'
 descuento: '17.29'
 average: '11.91'

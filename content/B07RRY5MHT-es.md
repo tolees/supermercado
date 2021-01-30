@@ -16,6 +16,7 @@ comparePrice: 15.48 EUR
 prodname: 'Red Bull Bebida Energética  Coco y Arándanos - 12 latas de 250 ml - Total: 3000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRY5MHT/?tag=tolees-21'
 descuento: '23.26'
 average: '13.439999999999998'

@@ -16,6 +16,7 @@ comparePrice: 38.51 EUR
 prodname: 'Antipodes aguacate pera Nutritiva Crema de Noche 60 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J4U4QKW/?tag=tolees-21'
 descuento: '14.18'
 average: '33.05'

@@ -16,6 +16,7 @@ comparePrice: 1.0 EUR
 prodname: 'Vileda 139460 Salvauñas - 2 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDCQ682/?tag=tolees-21'
 descuento: '1.00'
 average: '0.9916666666666667'

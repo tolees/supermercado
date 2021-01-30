@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Pandoo Taza de café para Llevar  Bambú  Negro  450 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072V6RFV7/?tag=tolees-21'
 descuento: '8.34'
 average: '10.99'

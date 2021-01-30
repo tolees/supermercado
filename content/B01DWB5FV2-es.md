@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Ausonia Discreet Maxi Noche Compresas Para Pérdidas De Orina x 12 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DWB5FV2/?tag=tolees-21'
 descuento: '20.13'
 average: '5.99'

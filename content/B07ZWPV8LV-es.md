@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'ALDOUS BIO - Eritritol Ecológico Premium - 100 % Natural - 1 Kg Granulado - Sustituto del Azúcar Con Cero Calorías - 0 Kcal - Apto Para Todas Las Dietas - Cuida Tus Dientes - Certificación Bio Oficial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZWPV8LV/?tag=tolees-21'
 descuento: '10.00'
 average: '14.31'

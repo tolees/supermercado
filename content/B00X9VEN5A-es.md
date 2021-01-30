@@ -16,6 +16,7 @@ comparePrice: 3.85 EUR
 prodname: 'Vernel Suavizante Concentrado Delicado - 76 lavados  1.748 l '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9VEN5A/?tag=tolees-21'
 descuento: '19.48'
 average: '2.8'

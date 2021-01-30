@@ -16,6 +16,7 @@ comparePrice: 12.66 EUR
 prodname: 'L oréal paris - Volume million lashes extra black  máscara de pestañas  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K67BNF8/?tag=tolees-21'
 descuento: '19.91'
 average: '10.14'

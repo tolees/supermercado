@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Neutrogena Hydro Boost Aqua Gel  Piel Normal Y Mixta  - 50 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y657SBZ/?tag=tolees-21'
 descuento: '0.00'
 average: '12.156666666666666'

@@ -16,6 +16,7 @@ comparePrice: 17.25 EUR
 prodname: 'TRESemmé Champú Repara y Fortalece - Paquete de 3 x 700 ml - Total: 2100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZZNDB6/?tag=tolees-21'
 descuento: '14.61'
 average: '12.696666666666667'

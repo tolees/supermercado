@@ -16,6 +16,7 @@ comparePrice: 6.49 EUR
 prodname: 'Max Factor  Maquillaje en polvo - 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001IZYQC4/?tag=tolees-21'
 descuento: '9.24'
 average: '5.89'

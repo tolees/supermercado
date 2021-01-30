@@ -16,6 +16,7 @@ comparePrice: 41.73 EUR
 prodname: 'Gin Mare Mediterranean Colección de Autor Ginebra - 1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MT1AH1W/?tag=tolees-21'
 descuento: '10.98'
 average: '41.685'

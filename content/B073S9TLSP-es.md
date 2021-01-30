@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Revlon Flex 2 Fases Princess Look Acondicionador - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073S9TLSP/?tag=tolees-21'
 descuento: '12.28'
 average: '3.5'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Wristband Dispenser  Portátil Sillicone Jabón Pulsera Pulsera Dispensador De Mano Banda  Jabón Recargable Portátil Dispensador De Gel De Lavado De Manos LíQuido para Viajes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GY5QZF2/?tag=tolees-21'
 descuento: '8.08'
 average: '11.94'

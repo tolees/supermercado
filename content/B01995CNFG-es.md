@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Forbury Direct - Base Jabón de glicerina transparente sin SLS  1kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01995CNFG/?tag=tolees-21'
 descuento: '0.00'
 average: '9.99'

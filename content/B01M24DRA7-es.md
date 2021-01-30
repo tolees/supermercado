@@ -16,6 +16,7 @@ comparePrice: 3.97 EUR
 prodname: 'Fairy Ultra - Líquido lavavajillas  1015 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M24DRA7/?tag=tolees-21'
 descuento: '19.90'
 average: '3.296666666666667'

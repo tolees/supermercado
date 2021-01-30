@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oréal Paris Excellence Coloración Crème Triple Protección  Tono 02 Rubio Ultra Claro Dorado -50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008OV0E5I/?tag=tolees-21'
 descuento: '12.58'
 average: '6.95'

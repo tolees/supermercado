@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Mengshen Bascula Cuchara Digital para Cocina Alimentos Escala pequeña de Alta precisión con función de Tara Pesando y midiendo Medicina harina 1.1 LB / 500 g  0.1 g  Escala de miligramo Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GQYKBT4/?tag=tolees-21'
 descuento: '8.34'
 average: '10.99'

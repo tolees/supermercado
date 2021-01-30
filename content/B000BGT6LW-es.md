@@ -16,6 +16,7 @@ comparePrice: 14.44 EUR
 prodname: 'Barrio Sésamo - Peluche de Epi  28 cm [Versión en inglés]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000BGT6LW/?tag=tolees-21'
 descuento: '0.00'
 average: '14.44'

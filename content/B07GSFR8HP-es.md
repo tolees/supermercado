@@ -16,6 +16,7 @@ comparePrice: 22.14 EUR
 prodname: 'NIVEA MEN Protege & Cuida After Shave Bálsamo Hidratante en pack de 6  6 x 100 ml   con aloe vera y provitamina B5  para el cuidado de la piel después del afeitado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSFR8HP/?tag=tolees-21'
 descuento: '0.00'
 average: '22.14'

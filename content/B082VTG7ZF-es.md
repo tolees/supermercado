@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'Dove  Gel de ducha  Agua Micelar Anti-Estrés Ambiental - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VTG7ZF/?tag=tolees-21'
 descuento: '14.33'
 average: '2.99'

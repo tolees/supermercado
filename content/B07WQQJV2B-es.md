@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Ausonia Discreet Compresas Para Pérdidas De Orina Plus Maxi Noche Para Vejigas Hiperactivas x 48'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WQQJV2B/?tag=tolees-21'
 descuento: '20.84'
 average: '18.99'

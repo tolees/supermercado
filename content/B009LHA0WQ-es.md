@@ -16,6 +16,7 @@ comparePrice: 9.4 EUR
 prodname: 'Max Factor Translucent Professional  Maquillaje en polvo  tono de piel medio '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009LHA0WQ/?tag=tolees-21'
 descuento: '19.15'
 average: '7.34'

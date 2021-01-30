@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Prozis 100% Real Whey Isolate Proteína para Pérdida de Peso  Recuperación Muscular y Culturismo  Contenido Mínimo de Grasa  Chocolate - 1000g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073VRDS24/?tag=tolees-21'
 descuento: '22.74'
 average: '16.99'

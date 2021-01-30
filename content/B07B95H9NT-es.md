@@ -16,6 +16,7 @@ comparePrice: 51.6 EUR
 prodname: 'Purina Gourmet Gold Bocaditos en Salsa comida para gatos en latas 8 x [12 x 85 g]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B95H9NT/?tag=tolees-21'
 descuento: '18.76'
 average: '47.16'

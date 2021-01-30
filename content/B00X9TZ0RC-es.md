@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'Garnier Delial Sensitive Advanced - Leche Solar para Pieles Claras  Sensibles e Intolerantes al Sol  IP50+  - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9TZ0RC/?tag=tolees-21'
 descuento: '20.00'
 average: '9.60375'

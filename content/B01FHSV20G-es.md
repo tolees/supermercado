@@ -16,6 +16,7 @@ comparePrice: 1.1 EUR
 prodname: 'NaturGreen ARROZ CHOCO CALCIUM 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FHSV20G/?tag=tolees-21'
 descuento: '10.00'
 average: '0.99'

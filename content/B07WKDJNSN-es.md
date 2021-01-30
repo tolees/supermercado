@@ -16,6 +16,7 @@ comparePrice: 16.61 EUR
 prodname: 'Etolab - Champú para barba. Fórmula delicada  elimina impurezas y olores  2x250 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WKDJNSN/?tag=tolees-21'
 descuento: '21.13'
 average: '13.1'

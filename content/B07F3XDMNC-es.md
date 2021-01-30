@@ -16,6 +16,7 @@ comparePrice: 10.92 EUR
 prodname: 'MENFORSAN Desenredante y Acondicionador Perros - 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3XDMNC/?tag=tolees-21'
 descuento: '14.84'
 average: '9.3'

@@ -16,6 +16,7 @@ comparePrice: 1.44 EUR
 prodname: 'Ruffles - Patatas Fritas con Sabor a Jamón y Queso - 170 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IUW3DEO/?tag=tolees-21'
 descuento: '14.58'
 average: '1.23'

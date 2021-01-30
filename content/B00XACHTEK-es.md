@@ -16,6 +16,7 @@ comparePrice: 19.24 EUR
 prodname: 'Nestlé NESQUIK Cacao Soluble Instantáneo - Estuche 5+1kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XACHTEK/?tag=tolees-21'
 descuento: '5.98'
 average: '18.49804347826087'

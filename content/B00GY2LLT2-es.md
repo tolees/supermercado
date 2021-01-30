@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Listerine - Enjuague Bucal Mentol  500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GY2LLT2/?tag=tolees-21'
 descuento: '9.42'
 average: '4.52'

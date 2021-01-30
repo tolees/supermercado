@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Marca Amazon - Happy Belly  Avellanas tostadas sin sal añadida  4x500g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R98QGGT/?tag=tolees-21'
 descuento: '15.41'
 average: '16.91'

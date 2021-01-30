@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'Mimosín - Intense Estallido de Pasión Suavizante Concentrado - 58 lavados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073VN2WG8/?tag=tolees-21'
 descuento: '5.73'
 average: '3.0566666666666666'

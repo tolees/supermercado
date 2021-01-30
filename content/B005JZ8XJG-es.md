@@ -16,6 +16,7 @@ comparePrice: 5.65 EUR
 prodname: 'Listerine Zero 0% Alcohol Enjuague Bucal - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005JZ8XJG/?tag=tolees-21'
 descuento: '15.04'
 average: '4.046666666666667'

@@ -16,6 +16,7 @@ comparePrice: 2.12 EUR
 prodname: 'Lindt Lindor Tableta de Chocolate Blanco  100 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDNYFZM/?tag=tolees-21'
 descuento: '15.57'
 average: '1.722'

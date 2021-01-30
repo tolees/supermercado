@@ -16,6 +16,7 @@ comparePrice: 23.78 EUR
 prodname: 'Elizabeth Arden Green Tea Honey Drops Body Crema - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IMJ5JAW/?tag=tolees-21'
 descuento: '0.00'
 average: '20.130000000000003'

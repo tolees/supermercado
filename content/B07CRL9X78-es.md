@@ -16,6 +16,7 @@ comparePrice: 22.04 EUR
 prodname: 'Dove Crema de ducha exfoliante de Granada & sheabu tter  4 unidades  4 x 259 g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CRL9X78/?tag=tolees-21'
 descuento: '17.65'
 average: '18.15'

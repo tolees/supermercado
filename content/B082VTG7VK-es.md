@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'Johnson s Baby - Acondicionador No Más Tirones para Niños  500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VTG7VK/?tag=tolees-21'
 descuento: '20.06'
 average: '2.79'

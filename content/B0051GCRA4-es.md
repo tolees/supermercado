@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Lotus Biscoff Surtido de galleta caramelizada  300 galletas individuales  - 1875 gr.  23628 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0051GCRA4/?tag=tolees-21'
 descuento: '6.67'
 average: '14.115'

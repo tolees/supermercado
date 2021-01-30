@@ -16,6 +16,7 @@ comparePrice: 18.3 EUR
 prodname: 'Laboratorios Babé - Crema Urea 10% Loción Reparadora 500 ml  Hidratante  Con Omega 3  6 y 9  Con Aceite de Soja  Nutritiva  Piel Seca  Rugosa y Descamada  Suavidad Inmediata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AHV6FYM/?tag=tolees-21'
 descuento: '21.04'
 average: '14.45'

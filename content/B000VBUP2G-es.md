@@ -16,6 +16,7 @@ comparePrice: 7.18 EUR
 prodname: 'Max Factor Colour Adapt 050 Porcelain Base de maquillaje 050  Porcelana  - 34 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VBUP2G/?tag=tolees-21'
 descuento: '17.41'
 average: '5.93'

@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'Fontactiv Forte Chocolate - 14 Sobres de 30gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TTX2F7U/?tag=tolees-21'
 descuento: '16.00'
 average: '10.92'

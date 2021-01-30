@@ -16,6 +16,7 @@ comparePrice: 19.89 EUR
 prodname: '500 g de Gran Actividad instantánea de polvo seco de levadura para hornear bollos al vapor Ingrediente en Inicio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086KY6HR8/?tag=tolees-21'
 descuento: '9.55'
 average: '17.99'

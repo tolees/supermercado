@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'JamonOnline - Cesta Navidad con Jamón Serrano  Fuet Casero  Chorizo Salamanca  Queso Semicurado  Vino Tinto y Picos de Pan.'
 country: 'es'
 flag: '🇪🇸'
+brand: 'JamonOnline'
 buyurl: 'https://www.amazon.es/dp/B081BFJLFT/?tag=tolees-21'
 descuento: '0.00'
 average: '31.8297872340425'
@@ -27,8 +28,8 @@ Está [JamonOnline - Cesta Navidad con Jamón Serrano  Fuet Casero  Chorizo Sala
 
 ℹ️:
 
-- 1 Paq. Jamón Serrano en Lonchas, 1 Fuet Casero, 1 Chorizo Salamanca, 1 Cuña Queso Semicurado, 1 Botella 3/8 Vino Tinto y 1 Bolsa de Picos de Pan.
-- Cesta Regalo de Navidad:
 - Ideal para Regalar.
+- Cesta Regalo de Navidad:
+- 1 Paq. Jamón Serrano en Lonchas, 1 Fuet Casero, 1 Chorizo Salamanca, 1 Cuña Queso Semicurado, 1 Botella 3/8 Vino Tinto y 1 Bolsa de Picos de Pan.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081BFJLFT/?tag=tolees-21)

@@ -16,6 +16,7 @@ comparePrice: 13.26 EUR
 prodname: 'NIVEA MEN Active Age Bálsamo Anti-edad 2en1 en pack de 3  3 x 75 ml   bálsamo after shave para calmar la irritación  hidratante facial antiedad para piel madura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3YVW45/?tag=tolees-21'
 descuento: '0.00'
 average: '13.26'

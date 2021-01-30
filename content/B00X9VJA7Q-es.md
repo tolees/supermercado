@@ -16,6 +16,7 @@ comparePrice: 9.69 EUR
 prodname: 'Micolor Detergente Líquido Colores Vivos - 40 Lavados  2 L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9VJA7Q/?tag=tolees-21'
 descuento: '22.70'
 average: '7.645'

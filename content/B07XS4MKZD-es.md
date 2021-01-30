@@ -16,6 +16,7 @@ comparePrice: 22.6 EUR
 prodname: 'Rialto Picatostes Picagrill Queso Y Sésamo 75 g Pack de 24'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XS4MKZD/?tag=tolees-21'
 descuento: '0.00'
 average: '22.6'

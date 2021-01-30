@@ -16,6 +16,7 @@ comparePrice: 10.7 EUR
 prodname: 'Bolero Bebida Instantánea sin Azúcar  Sabor Papaya - Paquete de 24 x 9 gr - Total: 216 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LSS10OI/?tag=tolees-21'
 descuento: '16.36'
 average: '8.95'

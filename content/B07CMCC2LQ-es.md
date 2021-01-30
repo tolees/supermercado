@@ -16,6 +16,7 @@ comparePrice: 10.49 EUR
 prodname: 'NIVEA SUN Protección Facial UV Anti-edad & Anti-manchas FP50  1 x 50 ml   protector solar facial  crema antiedad 0% residuos blancos  crema hidratante facial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CMCC2LQ/?tag=tolees-21'
 descuento: '16.59'
 average: '8.125'

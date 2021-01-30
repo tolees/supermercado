@@ -16,6 +16,7 @@ comparePrice: 12.39 EUR
 prodname: 'Nenuco Pack Cuidado Classic con 2 geles de ducha  1 colonia y 1 jabón de manos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MRWJCB5/?tag=tolees-21'
 descuento: '20.02'
 average: '10.587333333333333'

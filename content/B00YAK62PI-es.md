@@ -16,6 +16,7 @@ comparePrice: 17.7 EUR
 prodname: 'VIAGGIO ESPRESSO - 60 Cápsulas de Café Compatibles con Máquinas Nespresso.  ESPRESSO '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YAK62PI/?tag=tolees-21'
 descuento: '0.00'
 average: '15.6'

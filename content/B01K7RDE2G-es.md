@@ -16,6 +16,7 @@ comparePrice: 0.99 EUR
 prodname: 'Casa Tarradellas Paté Finas Hierbas - 125 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7RDE2G/?tag=tolees-21'
 descuento: '13.13'
 average: '0.86'

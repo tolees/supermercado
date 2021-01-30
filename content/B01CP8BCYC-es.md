@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Mentos Chicle Menta  Sin Azúcar - 10 unidades de 30 gr.  Total 300 gr. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CP8BCYC/?tag=tolees-21'
 descuento: '13.26'
 average: '10.97'

@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Invero® - Juego de 6 tazas altas transparentes de 240 ml  perfectas para té  café  moca  chocolate caliente  capuchino  expreso y otras bebidas calientes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LD0BLDA/?tag=tolees-21'
 descuento: '23.36'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'NERTHUS FIH 167 - La croquetera  ideal para albóndigas  croquetas u otros alimentos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0AZFAL/?tag=tolees-21'
 descuento: '19.17'
 average: '9.7'

@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Gourmet Aceitunas Rellenas de Anchoa Verdes Manzanilla  Pack de 3 x 50 g  Total: 150 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXCYZFA/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

@@ -16,6 +16,7 @@ comparePrice: 15.24 EUR
 prodname: 'Nestlé Fitness - Cereales con Chocolate Negro - 4 Paquetes de 600 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ4C3XK/?tag=tolees-21'
 descuento: '19.42'
 average: '11.96'

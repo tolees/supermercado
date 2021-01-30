@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Zuionk Creative Squeezing Automatic Dientes Herramienta de Pasta de Dientes Cepillo de Dientes de Lavado Set de Lavado Portacepillos de Dientes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0831DFJYF/?tag=tolees-21'
 descuento: '0.00'
 average: '15.99'

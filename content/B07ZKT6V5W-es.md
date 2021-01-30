@@ -16,6 +16,7 @@ comparePrice: 10.39 EUR
 prodname: 'AGAKY Discos Desmaquillantes Reutilizables 12 Almohadillas Desmaquillantes Ecológicas Hechos en Fibra de Bambú Algodón Toallitas Desmaquillantes Faciales Lavable con Bolsa de Lavado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKT6V5W/?tag=tolees-21'
 descuento: '16.94'
 average: '8.63'

@@ -16,6 +16,7 @@ comparePrice: 32.52 EUR
 prodname: 'Gladium Viñas Viejas Vino tinto Crianza - Paquete de 6 x 750 ml - Total: 4500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FX2G5YZ/?tag=tolees-21'
 descuento: '0.00'
 average: '32.52'

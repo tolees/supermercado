@@ -16,6 +16,7 @@ comparePrice: 8.89 EUR
 prodname: 'Abridor de tarros 4 en 1  manual 5 en 1 abrebotellas de silicona jarra Gripper 3 paquetes  Antideslizante botella cerveza tarro abridor cocina camping gadgets para manos débiles  mayores artritis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DXLK3D8/?tag=tolees-21'
 descuento: '11.25'
 average: '7.89'

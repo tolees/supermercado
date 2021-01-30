@@ -16,6 +16,7 @@ comparePrice: 9.69 EUR
 prodname: 'Marca Amazon- Solimo Cápsulas Classic   compatibles con Senseo*- café certificado UTZ  90 cápsulas  5x18 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C6T1WPP/?tag=tolees-21'
 descuento: '0.00'
 average: '9.69'

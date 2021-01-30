@@ -16,6 +16,7 @@ comparePrice: 14.81 EUR
 prodname: 'Love Beauty and Planet Desodorante Roll-on Love  Aceite de Coco e Ylang Ylang Vegano - Pack de 3 x 50 ml  Total: 150 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPB5PN9/?tag=tolees-21'
 descuento: '16.68'
 average: '12.34'

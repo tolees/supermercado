@@ -16,6 +16,7 @@ comparePrice: 114.03 EUR
 prodname: 'PAVO 8056019 Llaves/Armario/Caja Fuerte  AES con Seguridad eléctrica  100 Ganchos Clave la Ranura Lateral  Gris Oscuro  Acero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TOAEXXC/?tag=tolees-21'
 descuento: '2.75'
 average: '113.63499999999999'

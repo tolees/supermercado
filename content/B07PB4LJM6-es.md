@@ -16,6 +16,7 @@ comparePrice: 13.68 EUR
 prodname: 'Axe Desodorante Black Pack Duplo Ahorro - 2 Paquetes de 2 x 150 ml  Total: 600 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PB4LJM6/?tag=tolees-21'
 descuento: '12.65'
 average: '11.95'

@@ -16,6 +16,7 @@ comparePrice: 2.79 EUR
 prodname: 'Campos  Conserva de atún claro en aceite de girasol - pack de 3 latas de 80 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PY8SLKW/?tag=tolees-21'
 descuento: '19.71'
 average: '2.24'

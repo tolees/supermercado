@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Mafiti Dispensador de Jabón Automático Dosificador Cocina Dispensador de Jabón 280ML Dispensador de Jabón Sensor de Movimiento Inteligente para Baño  Cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088CRY3KK/?tag=tolees-21'
 descuento: '15.01'
 average: '15.290000000000001'

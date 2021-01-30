@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Bandeja de Té de Madera Rectangular para Café  Plato de Frutas  Plato de Ensalada 30*20*2cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F6D6ZCM/?tag=tolees-21'
 descuento: '0.00'
 average: '13.99'

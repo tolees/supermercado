@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Schmidt s - Gel de ducha sólido charcoal y magnesium - 142 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHQVDWZ/?tag=tolees-21'
 descuento: '21.32'
 average: '5.5'

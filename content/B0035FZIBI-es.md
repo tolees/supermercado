@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'Spontex 0099-8 guantes desechables tamaño Vinilo 8-8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0035FZIBI/?tag=tolees-21'
 descuento: '7.89'
 average: '12.206666666666665'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Finish Limpiamáquinas Líquido para lavavajillas - 2 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071K91BDJ/?tag=tolees-21'
 descuento: '9.16'
 average: '6.2124999999999995'

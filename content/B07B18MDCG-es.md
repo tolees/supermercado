@@ -16,6 +16,7 @@ comparePrice: 22.8 EUR
 prodname: 'Ladrón de Manzanas Cider Manzana - 4 Packs de 6 Botellas x 250 ml - Total: 6 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B18MDCG/?tag=tolees-21'
 descuento: '15.79'
 average: '19.04'

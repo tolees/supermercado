@@ -16,6 +16,7 @@ comparePrice: 52.07 EUR
 prodname: 'Dymatize ISO100  chocolate y coco  2200 G '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FM935GB/?tag=tolees-21'
 descuento: '10.01'
 average: '46.86'

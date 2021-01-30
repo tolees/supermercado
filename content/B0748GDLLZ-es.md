@@ -16,6 +16,7 @@ comparePrice: 5.82 EUR
 prodname: 'Haribo Dragibus - 2000 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0748GDLLZ/?tag=tolees-21'
 descuento: '0.00'
 average: '5.82'

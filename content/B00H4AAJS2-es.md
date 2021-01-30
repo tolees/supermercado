@@ -16,6 +16,7 @@ comparePrice: 2.83 EUR
 prodname: 'Instituto Español - Desodorante Roll-On Piel Atópica  75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H4AAJS2/?tag=tolees-21'
 descuento: '7.42'
 average: '2.626666666666667'

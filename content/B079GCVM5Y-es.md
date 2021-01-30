@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Lavazza  Cápsulas de café Leggero - 10 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079GCVM5Y/?tag=tolees-21'
 descuento: '8.03'
 average: '2.75'

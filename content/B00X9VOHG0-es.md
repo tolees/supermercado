@@ -16,6 +16,7 @@ comparePrice: 2.75 EUR
 prodname: 'La Toja - Espuma Afeitado Sensible con Aloe Vera y Sales Minerales - 300ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9VOHG0/?tag=tolees-21'
 descuento: '16.36'
 average: '2.316666666666667'

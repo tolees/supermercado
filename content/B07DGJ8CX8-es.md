@@ -16,6 +16,7 @@ comparePrice: 29.07 EUR
 prodname: 'Oral-B Pro 610 - Cepillo de dientes eléctrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGJ8CX8/?tag=tolees-21'
 descuento: '7.46'
 average: '24.205000000000002'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'L Oréal Paris Men Expert Todo en 1 After-Shave + Hidratante Hydra Sensitive para Hombres con Piel Sensible - 75ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9WS7Z6/?tag=tolees-21'
 descuento: '24.89'
 average: '5.475555555555557'

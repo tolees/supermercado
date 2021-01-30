@@ -16,6 +16,7 @@ comparePrice: 1.19 EUR
 prodname: 'LITORAL Hoy Legumbres Lentejas con su sofrito  Plato Preparado de Legumbres Lentejas Sin Gluten - 435 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZMYKQY/?tag=tolees-21'
 descuento: '9.24'
 average: '1.0314285714285716'

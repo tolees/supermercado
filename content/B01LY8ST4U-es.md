@@ -16,6 +16,7 @@ comparePrice: 4.14 EUR
 prodname: 'Fanta Naranja Lata - 330 ml  Pack de 9 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LY8ST4U/?tag=tolees-21'
 descuento: '3.14'
 average: '3.59'

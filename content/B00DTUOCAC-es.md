@@ -16,6 +16,7 @@ comparePrice: 18.47 EUR
 prodname: 'Oro de Cánava  Aceite de Oliva Virgen Extra Premium de Jaén  Denominación de Origen Sierra Mágina  Variedad Picual  Cosecha Temprana  Botella Cristal 500 ml con Estuche  Ideal para Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DTUOCAC/?tag=tolees-21'
 descuento: '19.98'
 average: '14.78'

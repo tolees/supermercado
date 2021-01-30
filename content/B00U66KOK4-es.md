@@ -16,6 +16,7 @@ comparePrice: 3.5 EUR
 prodname: 'AXE Black Dry Desodorante Roll-On - 2 Paquetes de 1 x 50 ml - Total: 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U66KOK4/?tag=tolees-21'
 descuento: '0.00'
 average: '3.5'

@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'SUAVINEX Suavinex Detergente para Biberones y Tetinas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08MW5BXWS/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

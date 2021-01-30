@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'NIVEA Q10PlusC Mascarilla de Tejido Antiedad + Energizante  1 ud   mascarilla antiarrugas con 3 efectos instantáneos  mascarilla facial con coenzima Q10 y vitamina C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5QD74P/?tag=tolees-21'
 descuento: '3.34'
 average: '2.89'

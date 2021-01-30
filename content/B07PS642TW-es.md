@@ -16,6 +16,7 @@ comparePrice: 12.75 EUR
 prodname: 'Croc Odor Desodorante Frigorifico Grande XL 140g Pack de 3  Total: 420 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PS642TW/?tag=tolees-21'
 descuento: '20.00'
 average: '10.2'

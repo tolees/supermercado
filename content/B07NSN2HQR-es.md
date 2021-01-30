@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'L Oréal Men Expert - Kit de Regalo para Hombre  Incluye Champú para Barba  Cabello y Rostro  Aceite para Barba Larga y Neceser de Regalo - Champú 200 ml  Aceite 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSN2HQR/?tag=tolees-21'
 descuento: '18.59'
 average: '10.663333333333334'

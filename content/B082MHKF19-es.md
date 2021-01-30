@@ -16,6 +16,7 @@ comparePrice: 1.9 EUR
 prodname: 'Complot Cerveza IPA - Botella 33cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MHKF19/?tag=tolees-21'
 descuento: '7.89'
 average: '1.408888888888889'

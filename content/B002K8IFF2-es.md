@@ -16,6 +16,7 @@ comparePrice: 32.25 EUR
 prodname: 'Carmencita Caldo Deshidratado para Fideuá - 15 sobres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002K8IFF2/?tag=tolees-21'
 descuento: '14.42'
 average: '27.6'

@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Vestimenta Casual de Playa para Mujer Vestidos de Verano de algodón sólido Adaptable A-Line Correa de Espagueti con Botones Abajo Negro L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q43NCLY/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

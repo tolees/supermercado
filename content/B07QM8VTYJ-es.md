@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Love Beauty and Planet Champú para Cabello teñido  Manteca de Murumuru y Rosa Vegano - Pack de 3 x 400 ml  Total: 1200 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QM8VTYJ/?tag=tolees-21'
 descuento: '0.00'
 average: '16.365000000000002'

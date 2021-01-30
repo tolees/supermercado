@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Premier Protein Protein Bar Chocolate Caramel 24x40g - Barras de Proteína con Bajo Contenido de Azúcar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRSZ841/?tag=tolees-21'
 descuento: '11.38'
 average: '22.301818181818184'

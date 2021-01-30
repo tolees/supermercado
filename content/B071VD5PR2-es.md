@@ -16,6 +16,7 @@ comparePrice: 22.36 EUR
 prodname: 'Listerine Enjuague Bucal Cuidado Total Zero - 500 ml - [paquete de 4]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VD5PR2/?tag=tolees-21'
 descuento: '24.02'
 average: '15.989999999999998'

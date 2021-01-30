@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Elizabeth Arden Flawless Start Base de Maquillaje 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AGYUM0W/?tag=tolees-21'
 descuento: '20.03'
 average: '23.99'

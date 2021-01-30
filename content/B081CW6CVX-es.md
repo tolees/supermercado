@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Botanical Origin Suavizante para Ropa Ecológico Apto para Pieles Sensibles  Fragancia Jazmín Fresco y Lavanda Silvestre  -  270 Lavados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CW6CVX/?tag=tolees-21'
 descuento: '10.40'
 average: '21.69222222222222'

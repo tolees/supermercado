@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Novohogar Sillón Reclinable Praga con Muelle Ensacado  Respaldo Reclinable y Reposapiés Extensible Chocolate '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXSVF2N/?tag=tolees-21'
 descuento: '13.70'
 average: '189.0'

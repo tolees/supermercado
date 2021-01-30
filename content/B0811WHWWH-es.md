@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Gobesty Juego de servilletas de Tela 10 Unidades  Suaves  absorbentes  pequeñas servilletas de Tela de algodón  Reutilizables  para Banquetes  Bodas  restaurantes  decoración de Mesa  43 x 43 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0811WHWWH/?tag=tolees-21'
 descuento: '8.34'
 average: '10.99'

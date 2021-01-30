@@ -16,6 +16,7 @@ comparePrice: 37.38 EUR
 prodname: 'L Oréal Powermix Liss Prokeratin Tratamiento Capilar - 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0725XSBF3/?tag=tolees-21'
 descuento: '0.00'
 average: '37.38'

@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Aceite de hígado de bacalao – 2000 mg de omega 3 con vitaminas A y D para ayudar a controlar el sistema cardiovascular  el sistema nervioso y el aparato respiratorio - 120 cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0786NLZ1H/?tag=tolees-21'
 descuento: '20.06'
 average: '14.35'

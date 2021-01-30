@@ -16,6 +16,7 @@ comparePrice: 0.92 EUR
 prodname: 'Xiton Pintalabios natural del Aloe Vera Jalea 1 pieza magia cambio de color Crema hidratante bálsamo de labios de larga duración nutritiva Crema de cacao ingredientes seguros de maquillaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NL7YML4/?tag=tolees-21'
 descuento: '0.00'
 average: '0.92'

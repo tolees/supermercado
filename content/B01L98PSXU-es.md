@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Mustela - Gel dermolimpiador lavante sin jabón cabello y cuerpo  750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L98PSXU/?tag=tolees-21'
 descuento: '17.15'
 average: '11.51'

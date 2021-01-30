@@ -16,6 +16,7 @@ comparePrice: 1.25 EUR
 prodname: 'Puleva Max Leche Crecimiento y Desarrollo - 3 x 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2DH99G/?tag=tolees-21'
 descuento: '20.00'
 average: '1.0833333333333335'

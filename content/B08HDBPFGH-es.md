@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'PINZAS PARA JAMÓN  EMBUTIDOS  PESCADOS. IDEAL PARA FINAS LONCHAS DE JAMÓN  SERRANO  COCIDO   EMBUTIDOS  SALCHICHÓN  CHORIZO  LOMO  FUET   PESCADOS  SALMÓN Y SHASHIMI   USO DOMÉSTICO Y PROFESIONAL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HDBPFGH/?tag=tolees-21'
 descuento: '20.00'
 average: '11.96'

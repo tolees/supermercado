@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Dispensador jabon automático  Dispensador de Desinfectante Manos 350 ml con sensor infrarrojo  dispensador de jabón sin contacto para baño y cocina  2 botellas de spray portátiles extra '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086YMJNK8/?tag=tolees-21'
 descuento: '15.39'
 average: '24.495555555555555'

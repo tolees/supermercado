@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Air Wick - Ambientador aerosol  esencia para casa con aroma a Flor - pack de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFDHNLL/?tag=tolees-21'
 descuento: '10.01'
 average: '19.52111111111111'

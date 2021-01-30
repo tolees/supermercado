@@ -16,6 +16,7 @@ comparePrice: 1.16 EUR
 prodname: 'Gullón Digestive Avena Galleta Integral con Avena  Trigo y Gotas de Chocolate Negro - 425 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7QR6Y4/?tag=tolees-21'
 descuento: '0.86'
 average: '1.16'

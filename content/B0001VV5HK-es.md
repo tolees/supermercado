@@ -16,6 +16,7 @@ comparePrice: 14.29 EUR
 prodname: 'SOLARAY® B complex 50. 50 VegCaps.  Las Vitaminas B contribuyen al normal funcionamiento del sistema nervioso. Sin gluten. Apto para veganos.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0001VV5HK/?tag=tolees-21'
 descuento: '14.98'
 average: '12.15'

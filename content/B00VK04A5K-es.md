@@ -16,6 +16,7 @@ comparePrice: 1.79 EUR
 prodname: 'L Oréal Paris Mega Gloss Infalible 505 Never Let Me Go'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VK04A5K/?tag=tolees-21'
 descuento: '0.00'
 average: '5.09'

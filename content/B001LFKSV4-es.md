@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Klorane APF-129  Champú con pulpa de cítricos  400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001LFKSV4/?tag=tolees-21'
 descuento: '20.75'
 average: '11.425'

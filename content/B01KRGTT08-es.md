@@ -16,6 +16,7 @@ comparePrice: 6.97 EUR
 prodname: 'Nivea Cellular aufpolsternde Cuidado perlas  1er Pack  1 x 30 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KRGTT08/?tag=tolees-21'
 descuento: '5.74'
 average: '6.8260000000000005'

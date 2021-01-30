@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Colon Total Power Gel Caps Vanish - Detergente para Lavadora con agentes quitamanchas  Formato Cápsulas - 12 dosis'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Colon'
 buyurl: 'https://www.amazon.es/dp/B082VTX3VF/?tag=tolees-21'
 descuento: '0.00'
 average: '2.57773333333333'
@@ -29,8 +30,8 @@ En este momento está [Colon Total Power Gel Caps Vanish - Detergente para Lavad
 
 - Descubre el resto de productos de la marca Colon para una colada óptima
 - Detergente para la lavadora en formato cápsulas apto para ropa blanca y de color
-- Cápsulas monodosis fáciles de utilizar y de rápida disolución
 - Limpieza activa para una ropa limpia, sin manchas y con frescor extra
+- Cápsulas monodosis fáciles de utilizar y de rápida disolución
 - Con el poder quitamanchas de Vanish para una limpieza profunda que elimina las manchas de tu ropa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082VTX3VF/?tag=tolees-21)

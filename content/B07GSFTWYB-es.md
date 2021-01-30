@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Estirpe - Aceite de Oliva Virgen Extra  1 Garrafa de 5 Litros '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSFTWYB/?tag=tolees-21'
 descuento: '14.19'
 average: '33.41909090909091'

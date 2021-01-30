@@ -16,6 +16,7 @@ comparePrice: 12.59 EUR
 prodname: 'Fairy Original - Cápsulas Todo en 1 para Lavavajillas - 44 cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZMQWUX/?tag=tolees-21'
 descuento: '23.35'
 average: '9.636666666666665'

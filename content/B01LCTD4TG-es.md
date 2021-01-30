@@ -16,6 +16,7 @@ comparePrice: 7.85 EUR
 prodname: 'Mahou 5 Estrellas Cerveza Dorada Lager  5.5% de Volumen de Alcohol - Pack de 12 x 33 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LCTD4TG/?tag=tolees-21'
 descuento: '14.65'
 average: '6.7'

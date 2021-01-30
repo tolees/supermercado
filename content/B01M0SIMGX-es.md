@@ -16,6 +16,7 @@ comparePrice: 15.6 EUR
 prodname: 'Coca-Cola Sabor Original Lata - 330 ml  Pack de 24 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0SIMGX/?tag=tolees-21'
 descuento: '13.85'
 average: '13.186363636363637'

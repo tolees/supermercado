@@ -16,6 +16,7 @@ comparePrice: 15 EUR
 prodname: 'Bolsa impermeable y reutilizable para la merienda  comida  fruta  frutos secos  bocadillo. Bolsa eco  cero residuo  sostenible. Estampado peces'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WPWMSY8/?tag=tolees-21'
 descuento: '0.00'
 average: '15'

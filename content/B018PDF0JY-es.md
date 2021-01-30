@@ -16,6 +16,7 @@ comparePrice: 28.5 EUR
 prodname: 'Olay Regenerist 3 Punto Antienvejecimiento Noche Crema hidratante  50ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018PDF0JY/?tag=tolees-21'
 descuento: '0.00'
 average: '28.5'

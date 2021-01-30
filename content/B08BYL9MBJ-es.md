@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Dispensador de jabón automático  200ML Dispensador de Jabón sin contacto  Dispensador de Jabón espuma eléctrico  Dispensador de Jabón sensor de movimiento inteligente para Baño Cocina Oficina Hotel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BYL9MBJ/?tag=tolees-21'
 descuento: '5.27'
 average: '19.99'

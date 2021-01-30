@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Klarstein Volcano - máquina de Palomitas de maíz  Retro  palomitero  300 W  extraíble  iluminación Interior  Aprox. 60 l/h  Puerta con Cerradura magnética  Cuchara dosificadora  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MJ4NFVG/?tag=tolees-21'
 descuento: '18.18'
 average: '89.99'

@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Deliex delicias de Extremadura - Cesta de productos gourmet para Navidad con aceite de oliva virgen extra 250 ml en vidrio  crema de queso de oveja natural 110 g  paté ibérico DELIEX en formato de 30 g y mermelada'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Deliex delicias de Extremadura'
 buyurl: 'https://www.amazon.es/dp/B07JFSRRJ5/?tag=tolees-21'
 descuento: '0.00'
 average: '14.95'
@@ -27,10 +28,10 @@ Tienes [Deliex delicias de Extremadura - Cesta de productos gourmet para Navidad
 
 ℹ️:
 
-- pasto decorativo y caja con frase
+- 1 x Aceite de oliva virgen extra La Chinata 250 ml (cristal)
 - 1 x paté ibérico de 30 g formato mini
 - 1 x Crema de queso de 110 g (Cristal)
+- pasto decorativo y caja con frase
 - 1 x Mermelada 120 g Deliex. (Cristal)
-- 1 x Aceite de oliva virgen extra La Chinata 250 ml (cristal)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07JFSRRJ5/?tag=tolees-21)

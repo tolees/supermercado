@@ -16,6 +16,7 @@ comparePrice: 2.81 EUR
 prodname: 'Borges Natura - Cocktail Frutos Secos de nueces de california  almendras  avellanas y nueces pecanas - 130 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CNTZF1O/?tag=tolees-21'
 descuento: '13.88'
 average: '2.68'

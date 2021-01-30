@@ -16,6 +16,7 @@ comparePrice: 12.11 EUR
 prodname: 'Claire Evangeline: Conserva con valor los valores ancla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GFPM86M/?tag=tolees-21'
 descuento: '5.04'
 average: '11.5'

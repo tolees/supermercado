@@ -16,6 +16,7 @@ comparePrice: 4.27 EUR
 prodname: 'Gel hidroalcohólico antiséptico para piel sana S nonas. Botella 500 ml con dosificador.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0749MN8VZ/?tag=tolees-21'
 descuento: '0.00'
 average: '4.27'

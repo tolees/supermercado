@@ -16,6 +16,7 @@ comparePrice: 132.63 EUR
 prodname: 'Bosch TAS6004 Tassimo My Way  color blanco  + Pack café 5 paquetes  80 cápsulas  Tassimo L OR Espresso Fortissimo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077CLRZHJ/?tag=tolees-21'
 descuento: '0.00'
 average: '122.49'

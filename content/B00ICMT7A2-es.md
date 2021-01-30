@@ -16,6 +16,7 @@ comparePrice: 2.5 EUR
 prodname: 'Babaria Gel de Rápida Absorción para Después del Afeitado - 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ICMT7A2/?tag=tolees-21'
 descuento: '20.40'
 average: '1.99'

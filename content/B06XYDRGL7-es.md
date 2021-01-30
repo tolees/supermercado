@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Diadermine - Pack Expert Rejuvenecedor  Crema Día + Contorno de Ojos  Pieles Maduras  65 ml  50 ml +15 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYDRGL7/?tag=tolees-21'
 descuento: '23.28'
 average: '12.141428571428571'

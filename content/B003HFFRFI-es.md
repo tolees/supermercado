@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Elizabeth Arden Green Tea Lavender EDT Spray 100 ml  1-pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003HFFRFI/?tag=tolees-21'
 descuento: '0.00'
 average: '13.629999999999999'

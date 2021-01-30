@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'NIVEA Hyaluron Cellular Filler Serum Facial Renovador Antiedad  Reafirmante  Antiarrugas para Activar la Regeneración Celular - 1 x 40 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SG9CL4A/?tag=tolees-21'
 descuento: '20.28'
 average: '11.95'

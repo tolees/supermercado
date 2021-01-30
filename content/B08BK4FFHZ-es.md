@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Automático Touchless Dispensador De Jabón Con Sensor Montaje En Pared MANOS LIBRES Dispensador De Jabón Eléctrico Inteligente Dispensadores De Loción Impermeable Para La Cocina Baño Negro 190ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BK4FFHZ/?tag=tolees-21'
 descuento: '24.45'
 average: '33.99'

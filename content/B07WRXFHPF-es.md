@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Oclean Air Smart Sonic - Cepillo de dientes eléctrico  protección de frecuencia AI Down  interruptor táctil OTouch Push Sensing  aplicación Custom SPA   color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRXFHPF/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

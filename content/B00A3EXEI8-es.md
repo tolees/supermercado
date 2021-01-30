@@ -16,6 +16,7 @@ comparePrice: 3.77 EUR
 prodname: 'Nomen - Fideuada 840 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A3EXEI8/?tag=tolees-21'
 descuento: '7.43'
 average: '3.6000000000000005'

@@ -16,6 +16,7 @@ comparePrice: 15.4 EUR
 prodname: 'NESTLÉ NIDINA 2 Premium [PACK AHORRO] - A partir de los 6 meses - Leche de continuación en polvo - Fórmula para bebés - 1Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ITE56DE/?tag=tolees-21'
 descuento: '13.25'
 average: '13.383333333333333'

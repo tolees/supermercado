@@ -16,6 +16,7 @@ comparePrice: 14.35 EUR
 prodname: 'Neutrogena - Cuerpo  Hidratación Bálsamo Hidratación Profunda Cara y Cuerpo - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L7QPXDA/?tag=tolees-21'
 descuento: '20.91'
 average: '11.35'

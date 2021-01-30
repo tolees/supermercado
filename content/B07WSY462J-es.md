@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Karl Lagerfeld x L Oréal Paris Eyeliner Chic Rose Silver  Tono Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSY462J/?tag=tolees-21'
 descuento: '18.81'
 average: '12.95'

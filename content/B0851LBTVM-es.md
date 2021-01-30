@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Dr Tree Uso Frecuente 2 en 1 - Champú Sólido + Acondicionador Ecológico | Hidrata y Rejuvenece | Todo tipo de Cabellos | Champú sin SLS | 1 Pastilla = 900ml | 99% Ingredientes Naturales ECOCERT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0851LBTVM/?tag=tolees-21'
 descuento: '20.37'
 average: '8.72'

@@ -16,6 +16,7 @@ comparePrice: 41.71 EUR
 prodname: 'Fairy Tail: Dragon Cry  Movie 2  - Limited Steelcase Edition mit Plüschtier Plue [Alemania] [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GGMPZ1P/?tag=tolees-21'
 descuento: '0.00'
 average: '41.71'

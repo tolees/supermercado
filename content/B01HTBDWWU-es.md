@@ -16,6 +16,7 @@ comparePrice: 11.7 EUR
 prodname: 'RAM Chocolate Líquido a la Taza - 6 x 1 L - Total: 6 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HTBDWWU/?tag=tolees-21'
 descuento: '6.15'
 average: '9.82'

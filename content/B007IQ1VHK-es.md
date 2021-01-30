@@ -16,6 +16,7 @@ comparePrice: 1.15 EUR
 prodname: 'Nestlé Chocolate con leche con cereales tostados - 100 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007IQ1VHK/?tag=tolees-21'
 descuento: '20.00'
 average: '0.92'

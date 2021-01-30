@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'ISDIN Deo Germisdin Ultra 72h Desodorante - Controla la sudoración excesiva y el mal olor - 40 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J5FTF84/?tag=tolees-21'
 descuento: '9.27'
 average: '11.75'

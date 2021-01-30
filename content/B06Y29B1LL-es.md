@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Puleva Leche Desnatada - 6 x 1 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y29B1LL/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

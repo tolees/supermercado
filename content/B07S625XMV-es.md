@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Purina Felix Fantastic Duo Delice - Comida para Gatos en Sobres  Variedad de Pescados  10 x  4 x 100 g '
 country: 'es'
 flag: '🇪🇸'
+brand: 'Purina Felix'
 buyurl: 'https://www.amazon.es/dp/B07S625XMV/?tag=tolees-21'
 descuento: '0.00'
 average: '20.0'
@@ -27,9 +28,9 @@ Tienes [Purina Felix Fantastic Duo Delice - Comida para Gatos en Sobres  Varieda
 
 ℹ️:
 
-- Elaborado con ingredientes de calidad
 - Con proteínas, Vitaminas y Ácidos grasos Omega 6
-- preparados con tiernos y carnosos trocitos en una suculenta gelatina
 - Alimentación 100% completa y equilibrada, Vitaminas D&E, Minerales Equilibrados, Fuente de Omega 6, Tiernos y jugosos trocitos en gelatina.
+- preparados con tiernos y carnosos trocitos en una suculenta gelatina
+- Elaborado con ingredientes de calidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07S625XMV/?tag=tolees-21)

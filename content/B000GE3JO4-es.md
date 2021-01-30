@@ -16,6 +16,7 @@ comparePrice: 17.79 EUR
 prodname: 'Gillette Fusion Power - Recambios de maquinilla de afeitar para hombre - 4 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GE3JO4/?tag=tolees-21'
 descuento: '20.69'
 average: '14.11'

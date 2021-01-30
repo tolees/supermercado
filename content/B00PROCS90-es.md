@@ -16,6 +16,7 @@ comparePrice: 27.22 EUR
 prodname: 'ENATE Reserva Especial 2006  Cabernet Sauvignon y Merlot  Vino Tinto  DO Somontano  Crianza 19 Meses  Botella 75cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PROCS90/?tag=tolees-21'
 descuento: '11.94'
 average: '23.97'

@@ -16,6 +16,7 @@ comparePrice: 11.35 EUR
 prodname: 'TAHE BLUMIN CHAMPU JENGIBRE Y LIMON 1000ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MWB1C1B/?tag=tolees-21'
 descuento: '6.43'
 average: '10.62'

@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'AXE colonia daily signature oud wood & dark vanilla spray 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018B8ZG9M/?tag=tolees-21'
 descuento: '24.37'
 average: '4.53'

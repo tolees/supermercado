@@ -16,6 +16,7 @@ comparePrice: 111.75 EUR
 prodname: 'Philips Cepillo dental eléctrico sónico HX6870/47 - Cepillo de dientes eléctrico  Batería  Integrado  Ión de litio  110-220 V  1 pieza s   2 pieza s  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079HBT9M3/?tag=tolees-21'
 descuento: '0.00'
 average: '111.75'

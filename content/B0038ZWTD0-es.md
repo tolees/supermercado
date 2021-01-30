@@ -16,6 +16,7 @@ comparePrice: 20.77 EUR
 prodname: 'Elizabeth Arden 5th Avenue Style  Agua de perfume para mujeres - 125 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0038ZWTD0/?tag=tolees-21'
 descuento: '0.00'
 average: '20.77'

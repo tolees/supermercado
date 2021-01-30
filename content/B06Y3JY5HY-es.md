@@ -16,6 +16,7 @@ comparePrice: 17.5 EUR
 prodname: 'L Oréal Professionnel 3474636481729 Champú  500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y3JY5HY/?tag=tolees-21'
 descuento: '6.80'
 average: '16.905'

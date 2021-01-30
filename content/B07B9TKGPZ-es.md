@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'ICA CHPM20 Champú Antiparásitos con Aloe Vera para Perros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9TKGPZ/?tag=tolees-21'
 descuento: '12.08'
 average: '6.99'

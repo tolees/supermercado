@@ -16,6 +16,7 @@ comparePrice: 17.55 EUR
 prodname: 'Marca Amazon- Amfit Nutrition Barrita de proteínas sabor a chocolate y naranja  pack de 12  12x60g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTSMXLM/?tag=tolees-21'
 descuento: '0.00'
 average: '12.87'

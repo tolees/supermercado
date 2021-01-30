@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'MovilCom® - Cortador de Verduras | Picadora Manual de Alimentos | trituradora de Alimentos para Verduras  Carne  Hierbas  Cebolla  ajo  Ensalada | Picadora Manual con Cuerda | 650ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086RT3STW/?tag=tolees-21'
 descuento: '13.94'
 average: '12.9'

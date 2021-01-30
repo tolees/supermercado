@@ -16,6 +16,7 @@ comparePrice: 11.52 EUR
 prodname: 'Gliss - Ultimate Repair Champú para cabello muy dañado - 4 uds de 400ml - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q6HNT4Z/?tag=tolees-21'
 descuento: '21.88'
 average: '8.5875'

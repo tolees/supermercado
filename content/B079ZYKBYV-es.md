@@ -16,6 +16,7 @@ comparePrice: 15.84 EUR
 prodname: 'Nestlé Bolsita de puré de frutas  variedad Manzana Zanahoria y Mango - Para bebés a partir de 6 meses - Paquete de 16 bolsitasx90g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZYKBYV/?tag=tolees-21'
 descuento: '19.51'
 average: '12.75'

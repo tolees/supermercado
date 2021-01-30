@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'SUPLEMENTO PARA MANTENER LA SALUD DEL TRACTO URINARIO- DIUREPLAN + VITAMINA C – MEJORA TÚ SALUD DIGESTIVA - 1 CÁPSULA AL DÍA | APTO PARA VEGANOS | SIN GLUTEN | 30 COMPRIMIDOS | 100% NATURAL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084HQV1N9/?tag=tolees-21'
 descuento: '20.01'
 average: '12.79'

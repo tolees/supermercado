@@ -16,6 +16,7 @@ comparePrice: 29.07 EUR
 prodname: 'Bowmore No.1 Single Malt Whisky Escoces  40% - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XS1CWFD/?tag=tolees-21'
 descuento: '19.85'
 average: '23.270909090909093'

@@ -16,6 +16,7 @@ comparePrice: 7.03 EUR
 prodname: 'Marca Amazon - Happy Belly Coco desecado 200gr x 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R1BTTB4/?tag=tolees-21'
 descuento: '2.13'
 average: '6.88'

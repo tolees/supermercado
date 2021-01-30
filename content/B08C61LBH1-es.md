@@ -16,6 +16,7 @@ comparePrice: 1.29 EUR
 prodname: 'Smileat Smileat Pouch Yogur Y Frambuesa Eco Envase Sostenible 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C61LBH1/?tag=tolees-21'
 descuento: '24.81'
 average: '0.97'

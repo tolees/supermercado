@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Refrigerador botellero puerta de Cristal  color rojo con logotipo en la puerta de coca cola Rango de temperatura de 4º a 12º Marca Scandomestic modelo HUS CC165 SCN A+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MRFR1EO/?tag=tolees-21'
 descuento: '20.08'
 average: '199.0'

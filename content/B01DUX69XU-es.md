@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'ultima Cat - Junior 2-12 Pollo & Arroz 400 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DUX69XU/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

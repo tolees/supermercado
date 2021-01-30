@@ -16,6 +16,7 @@ comparePrice: 30.25 EUR
 prodname: 'Neutrogena Loción Corporal Elasticidad Intensa - 2 Unidades x 750 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XTCTST6/?tag=tolees-21'
 descuento: '16.00'
 average: '25.41'

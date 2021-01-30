@@ -16,6 +16,7 @@ comparePrice: 29.7 EUR
 prodname: 'San Valentín  Vino Blanco - 6 botellas de 75 cl  Total: 4500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BMHF25C/?tag=tolees-21'
 descuento: '22.42'
 average: '23.04'

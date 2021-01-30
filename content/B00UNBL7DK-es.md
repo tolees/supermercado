@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Gillette Mach 3 Cargador Recambios Maquinilla - 8 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UNBL7DK/?tag=tolees-21'
 descuento: '0.00'
 average: '14.469999999999999'

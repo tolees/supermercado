@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'Oral-B Dentífrico Pro Expert Blancura Saludable - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MM5Z67L/?tag=tolees-21'
 descuento: '16.33'
 average: '2.92'

@@ -16,6 +16,7 @@ comparePrice: 4.28 EUR
 prodname: 'Vegetalia  Canela en Rama  - 80 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H04ZMEC/?tag=tolees-21'
 descuento: '23.83'
 average: '3.26'

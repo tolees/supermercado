@@ -16,6 +16,7 @@ comparePrice: 15.89 EUR
 prodname: 'Fansport 22 Pcs Maquina de Burbujas Burbujas de Jabón Kit，Burbuja Varitas para Niños para Juego de Fiesta Al Aire Libre Boda Baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TL6Q1Q/?tag=tolees-21'
 descuento: '6.29'
 average: '14.89'

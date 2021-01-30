@@ -16,6 +16,7 @@ comparePrice: 13.85 EUR
 prodname: 'Timely - Vitamin Your Dog  champú regenerante intenso para perros con el pelo dañado  pack de 4 x  250 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6LKXC1/?tag=tolees-21'
 descuento: '20.36'
 average: '11.03'

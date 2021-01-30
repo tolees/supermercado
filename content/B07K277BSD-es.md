@@ -16,6 +16,7 @@ comparePrice: 5.05 EUR
 prodname: 'Fdit Secador de Zapatos Esterilización y Calefacción Secador Multifunción para Desodorante de Zapatos y Deshumidificación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K277BSD/?tag=tolees-21'
 descuento: '9.11'
 average: '4.59'

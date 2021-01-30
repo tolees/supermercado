@@ -16,6 +16,7 @@ comparePrice: 37.49 EUR
 prodname: 'Gillette Fusion5 - Cuchillas de Afeitar  Pack Ahorro Champions League con 11 Recambios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XL9T3NL/?tag=tolees-21'
 descuento: '20.01'
 average: '29.99'

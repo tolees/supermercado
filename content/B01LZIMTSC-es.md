@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Central Lechera Asturiana - Leche Entera Brik 6L  Pack 6 x 1L '
 country: 'es'
 flag: '🇪🇸'
+brand: 'Central Lechera Asturiana'
 buyurl: 'https://www.amazon.es/dp/B01LZIMTSC/?tag=tolees-21'
 descuento: '0.00'
 average: '13.3633766233765'
@@ -27,9 +28,9 @@ Está [Central Lechera Asturiana - Leche Entera Brik 6L  Pack 6 x 1L ](https://w
 
 ℹ️:
 
-- Peso neto de 1 L
-- Una vez abierto conservar en el frigorifico
-- origen: España
 - Contiene leche o derivados de la leche (lactosa)
+- Una vez abierto conservar en el frigorifico
+- Peso neto de 1 L
+- origen: España
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LZIMTSC/?tag=tolees-21)

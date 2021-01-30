@@ -16,6 +16,7 @@ comparePrice: 37.59 EUR
 prodname: 'Gillette Fusion ProGlide Power - Cuchillas de recambio para maquinilla de afeitar  8 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004DMAJMA/?tag=tolees-21'
 descuento: '20.32'
 average: '29.95'

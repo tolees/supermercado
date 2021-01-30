@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'Nivea Men Pack Active Age  Caja de Regalo  Fluido Hidratante Facial de Día 1 x 50 ml y Crema Regeneradora de Noche 1 x 50 ml  Kit para Hombres con Cremas Antiedad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHPCTMC/?tag=tolees-21'
 descuento: '11.03'
 average: '12.9'

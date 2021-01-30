@@ -16,6 +16,7 @@ comparePrice: 69.49 EUR
 prodname: 'Pavo 8047222 Caja para llaves de alta seguridad  capacidad para hasta 100 unidades  gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JMEJG82/?tag=tolees-21'
 descuento: '16.20'
 average: '58.23'

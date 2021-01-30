@@ -16,6 +16,7 @@ comparePrice: 3.79 EUR
 prodname: 'MIXA - Sensitive Confort  Desodorante de bola para pieles sensibles   sin sales de Aluminio eficaz durante 48 h  50 ml  Paquete de 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LTIQMFI/?tag=tolees-21'
 descuento: '0.00'
 average: '3.79'

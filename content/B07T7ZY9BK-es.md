@@ -16,6 +16,7 @@ comparePrice: 11.97 EUR
 prodname: 'Marcilla Espresso Intenso Cápsulas de café - 3 paquetes x 14 cápsulas - Total: 42 cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T7ZY9BK/?tag=tolees-21'
 descuento: '8.27'
 average: '10.98'

@@ -16,6 +16,7 @@ comparePrice: 28.74 EUR
 prodname: 'Original Sprout Sulfato Champú Natural 975ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002SVAJK0/?tag=tolees-21'
 descuento: '0.00'
 average: '28.74'

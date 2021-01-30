@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Skip Ultimate Triple Poder Pieles Sensibles Detergente Líquido para Lavadora - Paquete de 5 x 33 lavados - Total: 165 lavados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDB3Y8S/?tag=tolees-21'
 descuento: '15.02'
 average: '33.95'

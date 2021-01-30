@@ -16,6 +16,7 @@ comparePrice: 58.0 EUR
 prodname: '226ERS Isolate Protein Drink  Proteina de Aislado de Suero de Leche Ultrafiltrado  Chocolate - 1000 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077B9ZKLX/?tag=tolees-21'
 descuento: '20.00'
 average: '46.4'

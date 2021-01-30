@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Cocoda Dispensador de Desinfectante Manos  350ml Dispensador Jabon Automático Sensor Sin Contacto con 2 Interruptor Ajustable & Impermeable IPX4  Recargable Dosificador Jabon Espuma para Cocina Baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087TH3GV5/?tag=tolees-21'
 descuento: '18.58'
 average: '26.689999999999998'

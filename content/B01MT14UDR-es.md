@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'L Oréal Paris Men Expert After Shave Reparador Hydraenergetic  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MT14UDR/?tag=tolees-21'
 descuento: '17.53'
 average: '4.674'

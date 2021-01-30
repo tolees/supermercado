@@ -16,6 +16,7 @@ comparePrice: 8.11 EUR
 prodname: 'Gourmet - Aceitunas rellenas de anchoa - Verdes manzanilla extra - 150 g - [Pack de 8]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4LWS8D/?tag=tolees-21'
 descuento: '17.14'
 average: '6.72'

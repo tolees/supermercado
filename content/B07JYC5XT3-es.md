@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Chupa Chups Original  Caramelo con Palo de Sabores Variados  Bolsa de 120 unidades de 12 gr.  Total 1.440 gr. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYC5XT3/?tag=tolees-21'
 descuento: '9.95'
 average: '18.0'

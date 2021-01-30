@@ -16,6 +16,7 @@ comparePrice: None EUR
 prodname: 'Flor Azul Profesional Suavizante Concentrado - 5 kg  2 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M03IX0V/?tag=tolees-21'
 descuento: '0.00'
 average: '20.9'

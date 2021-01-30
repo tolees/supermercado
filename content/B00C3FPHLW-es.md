@@ -16,6 +16,7 @@ comparePrice: 22.25 EUR
 prodname: 'Rives Ginebra Especial Negra - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C3FPHLW/?tag=tolees-21'
 descuento: '23.60'
 average: '17.0'

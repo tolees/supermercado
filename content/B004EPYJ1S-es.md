@@ -16,6 +16,7 @@ comparePrice: 74.79 EUR
 prodname: 'Scitec Nutrition Whey Protein Professional Proteína Fresa  Chocolate Blanco - 5000 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004EPYJ1S/?tag=tolees-21'
 descuento: '11.08'
 average: '66.5'

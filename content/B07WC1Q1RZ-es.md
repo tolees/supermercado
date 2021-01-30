@@ -16,6 +16,7 @@ comparePrice: 21.6 EUR
 prodname: 'Slendier Pasta Konjac Noodle sin Gluten Bio  400g   Caja 6 Unidades   Total 2400g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC1Q1RZ/?tag=tolees-21'
 descuento: '9.72'
 average: '19.5'

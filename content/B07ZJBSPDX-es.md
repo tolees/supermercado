@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Cepillo de Dientes Eléctrico  Cepillo de Dientes Sonico con 4 Modos de Cepillado  IPX7 Impermeable  Temporizador Inteligente  Carga 4 Horas por 30 Días  2 Recambio Cabezales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJBSPDX/?tag=tolees-21'
 descuento: '11.91'
 average: '35.99'

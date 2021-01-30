@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Dispensador de jabón Triency  dispensador de líquidos  350 ml  manual montado en la pared  para cuarto de baño  cocina  hotel  bonus use sanitizador de manos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085WPXHNH/?tag=tolees-21'
 descuento: '17.23'
 average: '14.89'

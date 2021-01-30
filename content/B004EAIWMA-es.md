@@ -16,6 +16,7 @@ comparePrice: 34.76 EUR
 prodname: 'Sipsmith London Dry Gin Ginebra  41.6% -700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004EAIWMA/?tag=tolees-21'
 descuento: '16.08'
 average: '29.69666666666667'

@@ -16,6 +16,7 @@ comparePrice: 20.39 EUR
 prodname: 'Concentrado de Proteína de Suero Evowhey Protein 2.0 de HSN | Whey Protein Concentrate| Batido de Proteínas en Polvo | Vegetariano  Sin Gluten  Sin Soja  Sabor Piña  2Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GFPM3PN/?tag=tolees-21'
 descuento: '4.81'
 average: '19.41'

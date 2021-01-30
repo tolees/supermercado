@@ -16,6 +16,7 @@ comparePrice: 14.4 EUR
 prodname: 'Shunga Pintura Corporal  Aroma de Chocolate Blanco y Vainilla  Color Blanco - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ZAB5XS/?tag=tolees-21'
 descuento: '20.07'
 average: '11.51'

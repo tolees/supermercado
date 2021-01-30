@@ -16,6 +16,7 @@ comparePrice: 46.81 EUR
 prodname: 'Armani Exchange Different Logo Mood suéter   Martini 1107   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KN1WVVQ/?tag=tolees-21'
 descuento: '0.00'
 average: '55.9775'

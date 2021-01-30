@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Tesoky luz ultravioleta esterilizador UV de Teléfono Celular Caja de desinfectante  Smartphone Cargador inalámbrico con de Función de Aromaterapia para cepillo de dientes joyería chupete reloj'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085XZPLVS/?tag=tolees-21'
 descuento: '13.05'
 average: '39.99'

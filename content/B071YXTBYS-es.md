@@ -16,6 +16,7 @@ comparePrice: 27.2 EUR
 prodname: 'Purina Gourmet Crystal Soup comida para gatos con Pollo Natural y Verduras 32 x 40 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071YXTBYS/?tag=tolees-21'
 descuento: '15.29'
 average: '25.92'

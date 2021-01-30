@@ -16,6 +16,7 @@ comparePrice: 0.89 EUR
 prodname: 'Mical Bolsas de basura  55 x 60 cm  color azul - 15 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NH9H2K4/?tag=tolees-21'
 descuento: '22.47'
 average: '0.69'

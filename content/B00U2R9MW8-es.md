@@ -16,6 +16,7 @@ comparePrice: 4.8 EUR
 prodname: 'FINISH - Detergente Maquina Vajillas Finish 30 Past'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U2R9MW8/?tag=tolees-21'
 descuento: '0.00'
 average: '4.8'

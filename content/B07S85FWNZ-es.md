@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Café en Grano Natural 100% 1kg - Para Estar Despierto - Espresso - Comercio Justo - Sabor Suave y Aroma Intenso - Cremoso.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S85FWNZ/?tag=tolees-21'
 descuento: '0.00'
 average: '16.9'

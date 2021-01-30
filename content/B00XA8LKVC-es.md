@@ -16,6 +16,7 @@ comparePrice: 4.79 EUR
 prodname: 'Aceite de oliva virgen extra carbonell gran selección 0 75 litro en vidrio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA8LKVC/?tag=tolees-21'
 descuento: '10.44'
 average: '4.156666666666666'

@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'SOLIS Tomate Frito Frasco Cristal - Tomate sin gluten - Pack 3x360 g - Total: 1080g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0MNAG0/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

@@ -16,6 +16,7 @@ comparePrice: 13.25 EUR
 prodname: 'Jim Beam Honey Bourbon Whisky Con Miel  35% - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DI6HG1O/?tag=tolees-21'
 descuento: '4.98'
 average: '11.693333333333333'

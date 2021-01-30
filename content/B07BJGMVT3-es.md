@@ -16,6 +16,7 @@ comparePrice: 8.98 EUR
 prodname: 'Dove Desodorante 0% Pepino Ahorro - 2 Paquetes de 2 x 150 ml: Total - 600 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BJGMVT3/?tag=tolees-21'
 descuento: '15.03'
 average: '7.63'

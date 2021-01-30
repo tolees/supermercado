@@ -16,6 +16,7 @@ comparePrice: 4.77 EUR
 prodname: 'NR11800070008 Hi-SPEED MEMORIA USB STICK 8GB FLASH CHOCOLATE MARRÓN FIGURA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F87BBJ4/?tag=tolees-21'
 descuento: '0.00'
 average: '4.77'

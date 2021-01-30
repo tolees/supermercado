@@ -16,6 +16,7 @@ comparePrice: 7.73 EUR
 prodname: 'Colgate Plax Rojo Enjuague - Pack de 4 x 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DWFIUDS/?tag=tolees-21'
 descuento: '0.00'
 average: '7.73'

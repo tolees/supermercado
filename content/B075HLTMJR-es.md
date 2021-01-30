@@ -16,6 +16,7 @@ comparePrice: 5.25 EUR
 prodname: 'Instituto Español Bebe Champú Extra Suave - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075HLTMJR/?tag=tolees-21'
 descuento: '24.00'
 average: '3.99'

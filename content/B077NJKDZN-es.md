@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'L Oréal Paris - Brow Artist Micro Tattoo  Perfilador de Cejas  Tono 103 Dark Blond'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077NJKDZN/?tag=tolees-21'
 descuento: '16.32'
 average: '10'

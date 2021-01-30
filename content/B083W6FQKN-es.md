@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'SUPERSUN 8 Velas de Citronela Antimosquitos Exterior  Velas Aromaticas Perfumadas de Soja 80-120 Horas Ardientes  Velas Repelentes de Insecto Mosquitos para Exteriores  Camping  Jardín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083W6FQKN/?tag=tolees-21'
 descuento: '10.53'
 average: '17.656666666666666'

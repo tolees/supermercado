@@ -16,6 +16,7 @@ comparePrice: 31.92 EUR
 prodname: 'Domus Finca La Trastada Aceite de Oliva Virgen Extra Picual - 5000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BLCL6L2/?tag=tolees-21'
 descuento: '16.89'
 average: '27.528947368421058'

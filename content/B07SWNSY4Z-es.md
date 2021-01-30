@@ -16,6 +16,7 @@ comparePrice: 1.05 EUR
 prodname: 'Grefusa 109996 Mezcla de Productos de Aperitivos Horneados y Fritos con Sabor a Queso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWNSY4Z/?tag=tolees-21'
 descuento: '4.76'
 average: '1.0333333333333334'

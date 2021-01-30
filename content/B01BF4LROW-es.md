@@ -16,6 +16,7 @@ comparePrice: 27.51 EUR
 prodname: 'Disfraz de Foxy de Five Nights at Freddy s'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BF4LROW/?tag=tolees-21'
 descuento: '6.76'
 average: '26.986666666666668'

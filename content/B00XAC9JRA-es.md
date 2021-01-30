@@ -16,6 +16,7 @@ comparePrice: 1.95 EUR
 prodname: 'Dove Desodorante Original Roll On 50 Ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAC9JRA/?tag=tolees-21'
 descuento: '10.26'
 average: '1.75'

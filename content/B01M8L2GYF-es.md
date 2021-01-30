@@ -16,6 +16,7 @@ comparePrice: 11.72 EUR
 prodname: 'Gourmet - Café soluble - Tueste natural - 200 g - [Pack de 3]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M8L2GYF/?tag=tolees-21'
 descuento: '0.00'
 average: '11.72'

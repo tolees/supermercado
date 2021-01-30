@@ -16,6 +16,7 @@ comparePrice: 25.36 EUR
 prodname: 'ToullGo Calentador de Café Calentador de Bebidas Portátil Calentador de Bebidas Eléctrico con Calentador Inteligente para Café  Leche  té y Otras Bebidas para Uso Doméstico y de Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKLHGZ7/?tag=tolees-21'
 descuento: '8.48'
 average: '17.580909090909092'

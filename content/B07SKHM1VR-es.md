@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Trapa Intenso - Chocolate Blanco con Almendras Enteras  175 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SKHM1VR/?tag=tolees-21'
 descuento: '19.60'
 average: '1.6'

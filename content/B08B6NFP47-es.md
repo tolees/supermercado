@@ -16,6 +16,7 @@ comparePrice: 1.29 EUR
 prodname: 'Nestlé Naturnes Bio Bolsitas Bebida Agua Y Fruta Tropical 120 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B6NFP47/?tag=tolees-21'
 descuento: '22.48'
 average: '1.0'

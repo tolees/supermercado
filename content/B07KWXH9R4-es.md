@@ -16,6 +16,7 @@ comparePrice: 108.97 EUR
 prodname: 'MONJE DEL CLUNY Vino blanco – Albariño Rias Baixas – Criado sobre lías - Producto Gourmet – Vino Colección - Vino bueno para regalo – caja de vino - vino Premium - 6 botellas x 75cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWXH9R4/?tag=tolees-21'
 descuento: '17.44'
 average: '89.97'

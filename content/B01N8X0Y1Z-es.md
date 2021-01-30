@@ -16,6 +16,7 @@ comparePrice: 18.82 EUR
 prodname: 'Le Petit Marseillais Champú refrescante Detox Infusion de Hierba Luisa 250 ml&nbsp  nbsp;Lote de 4 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N8X0Y1Z/?tag=tolees-21'
 descuento: '20.09'
 average: '15.04'

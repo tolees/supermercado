@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Polvo de Dientes  Magicfun Polvo Blanqueamiento Dental Carbón Activado para Blanqueamiento Dental con Sabor a Menta Natural Elimina Manchas Dentales  Manchas Café Manchas Té'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SG4MJBJ/?tag=tolees-21'
 descuento: '12.51'
 average: '13.99'

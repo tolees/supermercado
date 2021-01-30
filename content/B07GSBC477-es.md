@@ -16,6 +16,7 @@ comparePrice: 23.84 EUR
 prodname: 'La Masia - Aceite de aguacate  250 ml - Lot de 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSBC477/?tag=tolees-21'
 descuento: '7.01'
 average: '18.703333333333333'

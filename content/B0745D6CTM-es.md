@@ -16,6 +16,7 @@ comparePrice: 12.32 EUR
 prodname: 'Artero Champú Baby 250ml. para Cachorros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0745D6CTM/?tag=tolees-21'
 descuento: '16.31'
 average: '11.379999999999999'

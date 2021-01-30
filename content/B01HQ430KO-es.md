@@ -16,6 +16,7 @@ comparePrice: 10.7 EUR
 prodname: 'Bolero Bebida Instantánea sin Azúcar  Sabor Mandarina - Paquete de 24 x 9 gr - Total: 216 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HQ430KO/?tag=tolees-21'
 descuento: '6.64'
 average: '8.24'

@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Azucarera Azúcar Blanco - 1000 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7QBTH4/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

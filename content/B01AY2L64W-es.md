@@ -16,6 +16,7 @@ comparePrice: 7.76 EUR
 prodname: 'Cadbury  Huevo de chocolate - 22 de 89 gr.  Total 1958 gr. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AY2L64W/?tag=tolees-21'
 descuento: '0.00'
 average: '7.76'

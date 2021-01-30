@@ -16,6 +16,7 @@ comparePrice: 27.5 EUR
 prodname: 'Larios Citrus + Rosé Ginebra Mediterránea + Regalo 2 Copas  37.5%  2 X 700 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMFR93D/?tag=tolees-21'
 descuento: '19.05'
 average: '22.01'

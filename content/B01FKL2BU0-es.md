@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Revlon Ultra HD Pintalabios Mate  Intensity '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FKL2BU0/?tag=tolees-21'
 descuento: '0.00'
 average: '8.95'

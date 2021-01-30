@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Chupa Chups Meals  Golosinas de Formas y Sabores Variados  Candy Burger de 130 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWV3K6W/?tag=tolees-21'
 descuento: '23.41'
 average: '2.212'

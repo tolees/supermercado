@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Relaxdays Dispensador Jabón Cuadrado  Bambú  Marrón  18 x 6 5 x 8 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5JW9KZ/?tag=tolees-21'
 descuento: '17.36'
 average: '14.04'

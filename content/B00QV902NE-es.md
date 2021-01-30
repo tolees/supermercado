@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Prozis Cafeína Estimular la Concentración  los Niveles de Energía y la Quema de Grasa  sin Azúcar ni Calorías  Neutro- 200 mg - 90 cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QV902NE/?tag=tolees-21'
 descuento: '20.02'
 average: '7.656666666666666'

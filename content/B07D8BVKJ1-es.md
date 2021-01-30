@@ -16,6 +16,7 @@ comparePrice: 35.94 EUR
 prodname: 'Dove Loción Corporal de Aceite de Aguacate y Extracto de caléndula en formato spray  para todo tipo de pieles - Pack de 6 x 190ml  Total: 1140 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D8BVKJ1/?tag=tolees-21'
 descuento: '24.37'
 average: '27.18'

@@ -16,6 +16,7 @@ comparePrice: 18.55 EUR
 prodname: 'Beefeater London Dry Ginebra - 1L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ND4RGC0/?tag=tolees-21'
 descuento: '14.29'
 average: '15.9'

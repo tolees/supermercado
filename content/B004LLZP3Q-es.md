@@ -16,6 +16,7 @@ comparePrice: 34.1 EUR
 prodname: 'Hendrick s - Ginebra  Botella 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004LLZP3Q/?tag=tolees-21'
 descuento: '12.76'
 average: '29.12076923076923'

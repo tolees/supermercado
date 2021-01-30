@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Conguitos Cacahuete con Chocolate - 450 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L76W6UC/?tag=tolees-21'
 descuento: '24.37'
 average: '4.5'

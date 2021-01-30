@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: '900 g Miel de bosque flores silvestres y hierbas  Certificado sin antibióticos  sin azúcar  sin calentar  sin pasteurizar  crudo  miel real BulgarianBee®'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C291LFZ/?tag=tolees-21'
 descuento: '7.70'
 average: '11.99'

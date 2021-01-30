@@ -16,6 +16,7 @@ comparePrice: 15.49 EUR
 prodname: 'NIVEA SUN Sensitive Protección Inmediata Antialergias Solares Spray Pistola Solar FP 50+  spray solar resistente al agua  protector solar para piel sensible - 1 x 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QS56PYT/?tag=tolees-21'
 descuento: '22.60'
 average: '11.99'

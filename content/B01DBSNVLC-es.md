@@ -16,6 +16,7 @@ comparePrice: 2.45 EUR
 prodname: 'Old El Paso - Barquitas 8 unidades  193g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DBSNVLC/?tag=tolees-21'
 descuento: '6.53'
 average: '2.29'

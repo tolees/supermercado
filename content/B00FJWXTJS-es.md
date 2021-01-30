@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Maybelline New York - Superstay 24H  Polvos Compactos de Larga Duración  Tono 30 Sand'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FJWXTJS/?tag=tolees-21'
 descuento: '23.25'
 average: '6.547499999999999'

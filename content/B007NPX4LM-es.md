@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'CND Solaroil Acondicionador de cutículas y uñas 15 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007NPX4LM/?tag=tolees-21'
 descuento: '12.12'
 average: '7.9'

@@ -16,6 +16,7 @@ comparePrice: 1.09 EUR
 prodname: 'Maybelline Roller Color Loose Powder Eye Shadow Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002ZNQY6E/?tag=tolees-21'
 descuento: '0.00'
 average: '5.43'

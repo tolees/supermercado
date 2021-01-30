@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Revlon ColorStay 16H Sombra de Ojos  #505 Decadent '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006PANUI8/?tag=tolees-21'
 descuento: '24.62'
 average: '7.5'

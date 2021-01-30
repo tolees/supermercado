@@ -16,6 +16,7 @@ comparePrice: 22.21 EUR
 prodname: 'Haofy Calentador de Taza para Té Café Leche  Calentador de Bebida USB Calentador de Taza Eléctrica para Oficina Hogar Tienda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9P3HQD/?tag=tolees-21'
 descuento: '9.10'
 average: '18.79'

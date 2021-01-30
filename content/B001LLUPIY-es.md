@@ -16,6 +16,7 @@ comparePrice: 40.55 EUR
 prodname: 'Auchentoshan Three Wood Single Malt Whisky Escoces  43% - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001LLUPIY/?tag=tolees-21'
 descuento: '19.98'
 average: '33.32166666666667'

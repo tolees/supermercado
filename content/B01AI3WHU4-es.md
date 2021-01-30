@@ -16,6 +16,7 @@ comparePrice: 21.98 EUR
 prodname: 'Elizabeth Arden Eight Hour Cream All-Over Miracle Oil 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AI3WHU4/?tag=tolees-21'
 descuento: '1.73'
 average: '20.295'

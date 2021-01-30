@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'La Parroquia de Veracruz - Bolsa Café Molido Tradicional  780 gramos | Café Tostado y Molido Aromatizado Intenso de Chocolate y Caramelos Frutales | Gourmet de Altura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXW2TSW/?tag=tolees-21'
 descuento: '0.00'
 average: '13.99'

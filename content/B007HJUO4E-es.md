@@ -16,6 +16,7 @@ comparePrice: 32.18 EUR
 prodname: 'G-Vine Nouaison Ginebra - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007HJUO4E/?tag=tolees-21'
 descuento: '8.33'
 average: '29.5'

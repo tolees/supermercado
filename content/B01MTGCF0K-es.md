@@ -16,6 +16,7 @@ comparePrice: 2.25 EUR
 prodname: 'Valor 101047 Chocolate Negro 70% Con Pepitas De Chocolate Tableta 170 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTGCF0K/?tag=tolees-21'
 descuento: '14.22'
 average: '2.0011111111111113'

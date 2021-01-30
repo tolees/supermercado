@@ -16,6 +16,7 @@ comparePrice: 13.25 EUR
 prodname: 'Jim Beam Apple Bourbon Whisky con Licor de Manzana  35% - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V4X6DB2/?tag=tolees-21'
 descuento: '11.32'
 average: '11.75'

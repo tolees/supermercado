@@ -16,6 +16,7 @@ comparePrice: 29.96 EUR
 prodname: 'Mumiumius Babydoll de lencería Sexy con Tirantes y Correa de Espagueti para Mujer Ropa erótica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZXGL3B/?tag=tolees-21'
 descuento: '0.00'
 average: '29.96'

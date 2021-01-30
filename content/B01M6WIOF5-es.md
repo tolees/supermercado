@@ -16,6 +16,7 @@ comparePrice: 2.5 EUR
 prodname: 'Renova Rollo de Cocina - 3 Rollos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M6WIOF5/?tag=tolees-21'
 descuento: '8.40'
 average: '2.271818181818182'

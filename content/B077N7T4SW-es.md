@@ -16,6 +16,7 @@ comparePrice: 27 EUR
 prodname: 'CEREX- Pack Degustación de 10 Cervezas Artesanas - Cerveza de Castaña  Ibérica de Bellota  Cereza  Pilsen y Andares - Mejor Cerveza Artesanal de España Premios "World Beer Awards 2017"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077N7T4SW/?tag=tolees-21'
 descuento: '10.00'
 average: '24.3'

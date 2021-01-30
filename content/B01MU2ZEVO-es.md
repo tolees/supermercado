@@ -16,6 +16,7 @@ comparePrice: 1.05 EUR
 prodname: 'Calvé Salsa Cocktail - 225 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU2ZEVO/?tag=tolees-21'
 descuento: '9.52'
 average: '0.95'

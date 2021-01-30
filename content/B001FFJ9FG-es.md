@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'VICTORY ENDURANCE Total Recovery Chocolate 750 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001FFJ9FG/?tag=tolees-21'
 descuento: '20.46'
 average: '20.6'

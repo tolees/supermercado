@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'L Oréal Paris Make-up designer Isabel Marant Iluminador Shine'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXSZ2J4/?tag=tolees-21'
 descuento: '20.05'
 average: '15.95'

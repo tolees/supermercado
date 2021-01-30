@@ -16,6 +16,7 @@ comparePrice: 38.47 EUR
 prodname: 'Earth Rated Tierra Nominal dispensador con biodegradables Bolsas de Basura para Perro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QFS2UQI/?tag=tolees-21'
 descuento: '18.22'
 average: '31.46'

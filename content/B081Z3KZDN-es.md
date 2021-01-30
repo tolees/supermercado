@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'JICHUI Clásico Tomate máquina de Cortar de plástico Perfectamente Tomates en rodajas Cortador de la Fruta Vegetal de la Patata Cebolla Cortador Holder'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081Z3KZDN/?tag=tolees-21'
 descuento: '0.00'
 average: '2.99'

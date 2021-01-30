@@ -16,6 +16,7 @@ comparePrice: 4.8 EUR
 prodname: 'Purina Dentalife  Golosina Dental para Perro Pequeño  345 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XT25N9Q/?tag=tolees-21'
 descuento: '10.00'
 average: '4.32'

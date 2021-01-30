@@ -16,6 +16,7 @@ comparePrice: 15.8 EUR
 prodname: 'Maquinilla de afeitar Sensor Excel de Gillette'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000HCZ34E/?tag=tolees-21'
 descuento: '0.00'
 average: '15.8'

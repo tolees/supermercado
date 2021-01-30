@@ -16,6 +16,7 @@ comparePrice: 26.94 EUR
 prodname: 'Mimosín Collection Parfum Suavizante Fleur D Or - 6 Paquetes de 58 Lavados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQGJMD5/?tag=tolees-21'
 descuento: '16.48'
 average: '32.938'

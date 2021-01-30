@@ -16,6 +16,7 @@ comparePrice: 3.3 EUR
 prodname: 'Friskies - Shapes Snack Perro  800 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KEUR8HE/?tag=tolees-21'
 descuento: '11.82'
 average: '2.9299999999999997'

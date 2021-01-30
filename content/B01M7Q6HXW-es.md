@@ -16,6 +16,7 @@ comparePrice: 4.33 EUR
 prodname: 'Dove Jabón De Manos Original Con Un 1/4 De Crema Hidratante  250 ml + Recambio 250 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7Q6HXW/?tag=tolees-21'
 descuento: '13.63'
 average: '3.4085714285714284'

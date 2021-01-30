@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'Jacobs Aluminum Nespresso® * Vainas de café compatibles - Paquete de 10  100 porciones '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HQRQRP1/?tag=tolees-21'
 descuento: '20.00'
 average: '20.72'

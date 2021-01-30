@@ -16,6 +16,7 @@ comparePrice: 6.25 EUR
 prodname: 'Skip Cápsulas Ultimate Poder KH7 22 +2 lavados gratis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8LWDJ8/?tag=tolees-21'
 descuento: '0.00'
 average: '6.335'

@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Gillette Blue3 Maquinillas de Afeitar Desechables  48 Cuchillas de Afeitar  3x16 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085LZQWXN/?tag=tolees-21'
 descuento: '20.14'
 average: '23.15'

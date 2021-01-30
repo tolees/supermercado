@@ -16,6 +16,7 @@ comparePrice: 30.2 EUR
 prodname: 'Maker S Mark Kentucky Bourbon Whisky  45%  700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ZINBLE/?tag=tolees-21'
 descuento: '7.65'
 average: '26.848888888888887'

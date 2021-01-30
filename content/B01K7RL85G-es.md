@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Nestlé Purés Tarrito de puré de verduras y carne  variedad Jardinera de la huerta con Ternera  para bebés a partir de 6 meses - Tarrito 250 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7RL85G/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

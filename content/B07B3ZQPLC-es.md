@@ -16,6 +16,7 @@ comparePrice: 2.67 EUR
 prodname: 'Pato - WC Power Lejía fragancia Marine  Limpiador Quitamanchas para Inodoro  750 ml [Todos los aromas]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B3ZQPLC/?tag=tolees-21'
 descuento: '17.60'
 average: '1.8741176470588234'

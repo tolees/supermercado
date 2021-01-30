@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Botanical Origin Detergente para lavadora ecológico apto para pieles sensibles  Fragancia Jazmín Fresco y Lavanda Silvestre - 70 lavados'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Botanical Origin'
 buyurl: 'https://www.amazon.es/dp/B081CVWMDX/?tag=tolees-21'
 descuento: '0.00'
 average: '17.6817647058823'
@@ -28,9 +29,9 @@ Está [Botanical Origin Detergente para lavadora ecológico apto para pieles sen
 ℹ️:
 
 - Fragancia con aceites esenciales con aroma a jazmín fresco y lavanda silvestre
-- Apto para pieles sensibles; no deja químicos abrasivos en la ropa que puedan causar una reacción adversa en pieles sensibles; dermatológicamente testado
-- Envases respetuosos con el medio ambiente; pack 100 % reciclable y fabricado con hasta un 50 % de material reciclado
-- Formulado con ingredientes de origen natural, 0 % colorantes o abrillantadores artificiales; con certificado Ecolabel
 - Detergente para la lavadora ecológico líquido con ingredientes de origen botánico tan efectivo como los productos convencionales
+- Formulado con ingredientes de origen natural, 0 % colorantes o abrillantadores artificiales; con certificado Ecolabel
+- Envases respetuosos con el medio ambiente; pack 100 % reciclable y fabricado con hasta un 50 % de material reciclado
+- Apto para pieles sensibles; no deja químicos abrasivos en la ropa que puedan causar una reacción adversa en pieles sensibles; dermatológicamente testado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081CVWMDX/?tag=tolees-21)

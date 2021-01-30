@@ -16,6 +16,7 @@ comparePrice: 36.29 EUR
 prodname: 'Tork 560008 - Dispensador de jabón líquido  1 l  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002C67IBO/?tag=tolees-21'
 descuento: '22.87'
 average: '27.99'

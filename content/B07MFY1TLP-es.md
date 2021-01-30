@@ -16,6 +16,7 @@ comparePrice: 13.45 EUR
 prodname: 'Fairy Platinum Plus Cápsulas para Lavavajillas  Elimina Restos Difíciles  Limón  37 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFY1TLP/?tag=tolees-21'
 descuento: '10.86'
 average: '11.379999999999999'

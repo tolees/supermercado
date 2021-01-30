@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Carmencita Orégano Especias - 45 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDODLZG/?tag=tolees-21'
 descuento: '4.68'
 average: '2.85'

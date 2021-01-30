@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Mentos Mix Frutos Rojos  Caramelo Masticable con Zumo de Frutas - 7 bolsas de 160 gr.  Total 1.120 gr. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JXR2ZN/?tag=tolees-21'
 descuento: '20.71'
 average: '10.3'

@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'OGX Champú Aceite de Argán Extra Fuerte  Hidrata y fortalece - 385 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N05GU3G/?tag=tolees-21'
 descuento: '11.24'
 average: '7.9'

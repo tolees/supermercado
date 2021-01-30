@@ -16,6 +16,7 @@ comparePrice: 16.4 EUR
 prodname: 'Brillante Arroz Largo -  Pack de 16 vasitos X 200 Gr - Total 3200 Gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQ6N2S9/?tag=tolees-21'
 descuento: '0.00'
 average: '16.4'

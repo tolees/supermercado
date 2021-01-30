@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Philips CA6903/10 Filtro de Agua Aquaclean para Máquinas de Café Espresso Automáticas  Verde  6x9.5x14.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074M9DZ4N/?tag=tolees-21'
 descuento: '6.19'
 average: '13.5'

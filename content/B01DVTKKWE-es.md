@@ -16,6 +16,7 @@ comparePrice: 15.44 EUR
 prodname: 'Weider Protein Pancake Mix Coco y Chocolate Blanco - 600 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DVTKKWE/?tag=tolees-21'
 descuento: '0.00'
 average: '15.44'

@@ -16,6 +16,7 @@ comparePrice: 14.77 EUR
 prodname: 'Sukin Super Greens  Crema hidratante facial  125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012TLQTMU/?tag=tolees-21'
 descuento: '19.09'
 average: '11.95'

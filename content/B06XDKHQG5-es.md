@@ -16,6 +16,7 @@ comparePrice: 4.2 EUR
 prodname: 'Garnier Fructis Nutri Repair 3 Mascarilla Fortificante que Nutre y Suaviza  con 3-Glyceride y Aceites de Oliva  Aguacate y Karité - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDKHQG5/?tag=tolees-21'
 descuento: '7.14'
 average: '3.9'

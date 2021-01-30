@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'WeddingTree 48 Pompas de Jabon Boda Rosa - Pomperos Boda - con Mango en Forma de Corazón para Bodas  Bautizos  Cumpleaños  San Valentín u Otras Celebraciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4NEE9G/?tag=tolees-21'
 descuento: '22.23'
 average: '13.99'

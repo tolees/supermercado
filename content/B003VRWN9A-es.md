@@ -16,6 +16,7 @@ comparePrice: 9.19 EUR
 prodname: 'L Oréal Double Extension Máscara de Pestañas Color Extra Black - 12 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003VRWN9A/?tag=tolees-21'
 descuento: '0.00'
 average: '9.19'

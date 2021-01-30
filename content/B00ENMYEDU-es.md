@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Ruavieja Licor de Hierbas - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ENMYEDU/?tag=tolees-21'
 descuento: '11.12'
 average: '8.186'

@@ -16,6 +16,7 @@ comparePrice: 46.9 EUR
 prodname: 'Kerastase U-HC-5074 Specifique Champú  cabello sensible  1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001TANDZ4/?tag=tolees-21'
 descuento: '24.41'
 average: '35.45'

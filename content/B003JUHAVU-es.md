@@ -16,6 +16,7 @@ comparePrice: 4.55 EUR
 prodname: 'L  Oréal Paris elnett de Luxe - haarspray dauerhaftes Volumen  3 unidades x 75 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003JUHAVU/?tag=tolees-21'
 descuento: '0.00'
 average: '4.55'

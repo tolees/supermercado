@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'Helios Mermelada Extra Naranja Amarga - 340 gr -   Pack de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXVBE1L/?tag=tolees-21'
 descuento: '0.00'
 average: '7.050000000000001'

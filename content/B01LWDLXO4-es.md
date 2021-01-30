@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Revlon Be Fabulous Hair Recovery Serum Reparador de Puntas para Cabello Dañado 80 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWDLXO4/?tag=tolees-21'
 descuento: '7.27'
 average: '10.2'

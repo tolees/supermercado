@@ -16,6 +16,7 @@ comparePrice: 14.11 EUR
 prodname: 'Isdin Zincation Champú Anticaspa Uso frecuente - 1 x 400ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GY25AH6/?tag=tolees-21'
 descuento: '15.31'
 average: '11.95'

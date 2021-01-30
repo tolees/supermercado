@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'Urtekram Champú de Ortiga BIO  anti-caspa  500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K2VGTVG/?tag=tolees-21'
 descuento: '8.00'
 average: '10.58'

@@ -16,6 +16,7 @@ comparePrice: 7.71 EUR
 prodname: 'SO-buts Dispensadores De Desinfectante De Manos para Muñequeras  para Niños Adultos  Pulsera De Silicona  Portátil  Rellenable  Jabón Líquido  para Viajes  Escuela  Acampada Al Aire Libre  7 PCS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GSKQNX9/?tag=tolees-21'
 descuento: '24.77'
 average: '5.8'

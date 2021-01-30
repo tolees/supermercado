@@ -16,6 +16,7 @@ comparePrice: 5.75 EUR
 prodname: 'La Toja Balsamo Hidrotermal - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015DTSPWM/?tag=tolees-21'
 descuento: '13.22'
 average: '4.99'

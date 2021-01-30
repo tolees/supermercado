@@ -16,6 +16,7 @@ comparePrice: 38.48 EUR
 prodname: 'L OR Espresso Café Espresso paquete de amante - Nespresso® * Cápsulas de café de aluminio compatibles - 12 paquetes de 10 cápsulas  120 bebidas + 2 Tazas de Espresso '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPPNHPK/?tag=tolees-21'
 descuento: '14.99'
 average: '32.71'

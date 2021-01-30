@@ -16,6 +16,7 @@ comparePrice: 13.28 EUR
 prodname: 'Forticoll Colágeno Péptidos bioactivos en polvo sin gluten o lactosa  sabor Original  300 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UMZH4J8/?tag=tolees-21'
 descuento: '5.50'
 average: '11.156666666666665'

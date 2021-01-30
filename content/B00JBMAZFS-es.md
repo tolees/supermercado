@@ -16,6 +16,7 @@ comparePrice: 51.9 EUR
 prodname: 'Scitec Nutrition 100% Whey Protein Professional Chocolate 2350 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JBMAZFS/?tag=tolees-21'
 descuento: '17.36'
 average: '42.854'

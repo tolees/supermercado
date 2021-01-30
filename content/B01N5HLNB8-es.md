@@ -16,6 +16,7 @@ comparePrice: 74.0 EUR
 prodname: 'Elizabeth Arden Advanced Ceramide Capsulas Monodosis para Rostro  Cuello y Escote 90 capsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5HLNB8/?tag=tolees-21'
 descuento: '18.93'
 average: '62.489999999999995'

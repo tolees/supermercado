@@ -16,6 +16,7 @@ comparePrice: 19.12 EUR
 prodname: 'Glen Grant The Major s Reserve Whisky Single Malt  70 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004WI1MJE/?tag=tolees-21'
 descuento: '23.17'
 average: '14.69'

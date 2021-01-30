@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Hoomtaook Estanteria Ducha Estanteria Baño Para de Baño Ducha con una caja de jabón 1 Niveles Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082XW6L9T/?tag=tolees-21'
 descuento: '21.06'
 average: '15.49'

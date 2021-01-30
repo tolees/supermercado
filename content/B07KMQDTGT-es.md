@@ -16,6 +16,7 @@ comparePrice: 9.1 EUR
 prodname: 'L Oréal Paris Rouge Signature 113 I Don t Pintalabios Mate Permanente Rojo - 7 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMQDTGT/?tag=tolees-21'
 descuento: '14.84'
 average: '7.25'

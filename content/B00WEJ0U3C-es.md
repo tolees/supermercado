@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Neutrogena Crema de Manos Elasticidad Intensa SPF 20  75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WEJ0U3C/?tag=tolees-21'
 descuento: '22.22'
 average: '7.0'

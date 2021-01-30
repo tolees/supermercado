@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'President Leche Semidesnatada - 6 x 1 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXLFNEG/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

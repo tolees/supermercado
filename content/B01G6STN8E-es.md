@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Lote de Conservas Gourmet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G6STN8E/?tag=tolees-21'
 descuento: '10.29'
 average: '31.4'

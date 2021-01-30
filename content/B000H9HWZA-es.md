@@ -16,6 +16,7 @@ comparePrice: 10.25 EUR
 prodname: 'Korres Champú Anticaspa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000H9HWZA/?tag=tolees-21'
 descuento: '22.44'
 average: '7.965'

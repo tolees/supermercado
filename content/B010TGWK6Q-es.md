@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Wella Eimi Moisture Me Rich - Pasta mate  150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010TGWK6Q/?tag=tolees-21'
 descuento: '16.74'
 average: '7.91'

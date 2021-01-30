@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Pack 3 recargas de materias primas para elaborar cerveza en casa. #Cervezanía IPA  Weissbier Trigo & Albero Gastronómica Pale Ale'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DM4PAL4/?tag=tolees-21'
 descuento: '16.68'
 average: '49.95'

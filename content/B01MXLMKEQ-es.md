@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Lavazza Café Molido Espresso Club  100% Arábica  Paquete de 3 Latas x 250 g  Total 0 75 kg '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXLMKEQ/?tag=tolees-21'
 descuento: '11.83'
 average: '12.3'

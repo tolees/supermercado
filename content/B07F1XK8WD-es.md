@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Mascarilla de Pelo Morado-Matizador para Cabello Rubio y Gris - para Tintes Color Platino  Blanco y Gris - Acondicionador y Reparación de Cabello Seco  Dañado y Decolorado - Sin Sulfatos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1XK8WD/?tag=tolees-21'
 descuento: '20.00'
 average: '17.524285714285714'

@@ -16,6 +16,7 @@ comparePrice: 6.35 EUR
 prodname: 'Garnier Delial After Sun Leche Hidratante Calmante con Aloe Vera Natural - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9TN93O/?tag=tolees-21'
 descuento: '9.45'
 average: '6.15'

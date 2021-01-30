@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Decantador de Vino y Aireador para Botella - Vertedor Rapido Profesional de Calidad | Oxidante de Vino Tinto  Decantadores Pourer | Accesorios Bar  Tapón  Regalo Mujer Hombre Cumpleaños Fiesta Amigo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017JD8QSS/?tag=tolees-21'
 descuento: '20.02'
 average: '11.69'

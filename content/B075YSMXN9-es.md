@@ -16,6 +16,7 @@ comparePrice: 16.97 EUR
 prodname: 'Cúrcuma 4600mg Extracto Certificado  120 cápsulas  con Pimienta Negra. Potente antioxidante  para la salud de las articulaciones. Máxima concentración. 100% Natural'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075YSMXN9/?tag=tolees-21'
 descuento: '19.98'
 average: '13.58'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Botellas de cerveza Chef s Star de tapón fácil de abrir. Paquete de 6 botellas de 473 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011SGS8U8/?tag=tolees-21'
 descuento: '0.00'
 average: '21.99'

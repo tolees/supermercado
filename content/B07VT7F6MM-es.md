@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Magic Gel  2 Paquetes Uñas De Gel Mágico  Removedor De Pegamento para Esmalte De Uñas  Tratamiento Fortalecedor Y Acondicionador Mágico De Uñas 15ml  Remojo del Arte De Uñas  Pincel Acrílico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VT7F6MM/?tag=tolees-21'
 descuento: '16.68'
 average: '10.99'

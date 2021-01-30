@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Garnier Skin Active - Pure Active Sensitive  Limpiador de Poros sin Jabón  con Zinc y Extracto de Hamamelis  para Pieles Sensibles  150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDGYSWP/?tag=tolees-21'
 descuento: '18.49'
 average: '4.318'

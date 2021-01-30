@@ -16,6 +16,7 @@ comparePrice: 9.45 EUR
 prodname: 'Revlon Professional Equave Kids Acondicionador Desenredante Instantáneo Princess Look 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L2FIUO4/?tag=tolees-21'
 descuento: '24.34'
 average: '6.763333333333334'

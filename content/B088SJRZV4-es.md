@@ -16,6 +16,7 @@ comparePrice: 20.51 EUR
 prodname: 'NUK 2 botellas de detergente  1 cepillo Twist para biberón y tetina 500 ml  adecuado para limpiar los biberones  las tetinas y los accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088SJRZV4/?tag=tolees-21'
 descuento: '15.02'
 average: '17.43'

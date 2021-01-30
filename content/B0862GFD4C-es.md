@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Garnier Delial Sensitive Advanced - Crema Facial Super UV Fluid con Ácido Hialurónico  IP50+ - 40 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0862GFD4C/?tag=tolees-21'
 descuento: '16.00'
 average: '10.5'

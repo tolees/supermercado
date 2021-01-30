@@ -16,6 +16,7 @@ comparePrice: 16.17 EUR
 prodname: 'L  Oréal Men expert Hydra Humedad Cuidado 24h Anti de Cansancio  2 unidades  2 x 50 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHGK61J/?tag=tolees-21'
 descuento: '0.00'
 average: '16.17'

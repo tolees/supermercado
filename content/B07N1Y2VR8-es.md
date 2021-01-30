@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'Auténtica Miel Ecológica con Ajo Negro ecológico | Producto Gourmet de Calidad Premium | 100% Natural y Artesanal | Sin Azúcar Añadido | Producida en España | Certificación ecológica oficial | 240g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1Y2VR8/?tag=tolees-21'
 descuento: '16.47'
 average: '11.61'

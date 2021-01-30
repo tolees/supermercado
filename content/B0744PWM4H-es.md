@@ -16,6 +16,7 @@ comparePrice: 25.5 EUR
 prodname: 'Holle Papilla de Copos de Avena  +4 meses  - Paquete de 6 x 250 gr - Total: 1500 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0744PWM4H/?tag=tolees-21'
 descuento: '22.35'
 average: '19.8'

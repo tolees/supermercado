@@ -16,6 +16,7 @@ comparePrice: 35.1 EUR
 prodname: 'Purina Felix Sensations Gelatinas comida para gatos Selección Surtido de Carnes 6 x [12 x 100 g]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071YZJYJ3/?tag=tolees-21'
 descuento: '14.99'
 average: '29.84'

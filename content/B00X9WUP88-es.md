@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oréal Paris Excellence Intense Coloración  Tono: 6 66 Rojo Escarlata Intenso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9WUP88/?tag=tolees-21'
 descuento: '12.58'
 average: '6.95'

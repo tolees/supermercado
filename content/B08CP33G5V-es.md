@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'NUK Detergente para Biberones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CP33G5V/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

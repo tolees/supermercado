@@ -16,6 +16,7 @@ comparePrice: 34.5 EUR
 prodname: 'No. 3 London Dry Gin Ginebra - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0043A4IVU/?tag=tolees-21'
 descuento: '12.61'
 average: '28.281999999999996'

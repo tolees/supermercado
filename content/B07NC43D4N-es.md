@@ -16,6 +16,7 @@ comparePrice: 10.8 EUR
 prodname: 'AXE Desodorante Bodyspray Dark Temptation - Pack de 3 x 150 ml  Total: 450 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC43D4N/?tag=tolees-21'
 descuento: '20.65'
 average: '8.80125'

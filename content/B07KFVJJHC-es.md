@@ -16,6 +16,7 @@ comparePrice: 17.97 EUR
 prodname: 'Kit Cuidado de Barba Fixget Recorte - Champú Barba  Aceite Barba  Cepillo Barba  Peine Barba  Cera Bálsamo Barba  Tijeras Barba  Mejor Regalo Perfecto Originales para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFVJJHC/?tag=tolees-21'
 descuento: '0.00'
 average: '17.97'

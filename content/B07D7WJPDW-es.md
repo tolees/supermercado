@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'AUTOPkio 200 piezas Bolsas para helados de paletas de hielo con 1 pz De embudo y 5 piezas Mangas para helados de yogur  hielo o paletas congeladas  22 x 6cm BPA Freezer Zip-Top'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7WJPDW/?tag=tolees-21'
 descuento: '20.01'
 average: '15.256666666666666'

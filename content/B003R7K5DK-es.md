@@ -16,6 +16,7 @@ comparePrice: 17.87 EUR
 prodname: 'Smint Tabs Menta  Caramelo Comprimido sin Azúcar - 12 Unidades de 8 gr/Ud'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003R7K5DK/?tag=tolees-21'
 descuento: '18.02'
 average: '14.65'

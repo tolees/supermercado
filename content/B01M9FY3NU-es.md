@@ -16,6 +16,7 @@ comparePrice: 6.13 EUR
 prodname: 'Sotya Café - 100 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9FY3NU/?tag=tolees-21'
 descuento: '23.98'
 average: '4.66'

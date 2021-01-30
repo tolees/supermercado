@@ -16,6 +16,7 @@ comparePrice: 22.51 EUR
 prodname: 'Wipp Express Detergente Líquido Azul  Formato Ahorro 100 Lavados - Total: 5 Litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNPJCTW/?tag=tolees-21'
 descuento: '11.37'
 average: '17.8875'

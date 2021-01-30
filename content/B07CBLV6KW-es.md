@@ -16,6 +16,7 @@ comparePrice: 15.13 EUR
 prodname: 'Alfaparf Acondicionador "Leave-In" Nutritivo de Pelo - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CBLV6KW/?tag=tolees-21'
 descuento: '17.85'
 average: '12.43'

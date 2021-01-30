@@ -16,6 +16,7 @@ comparePrice: 19.96 EUR
 prodname: 'Mimosin Intense Explosión de Frescor Perlas de fragancia  275 g - pack de 4 - Total: 1100 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDK9MLF/?tag=tolees-21'
 descuento: '10.82'
 average: '17.8'

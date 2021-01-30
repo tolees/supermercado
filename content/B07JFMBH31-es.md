@@ -16,6 +16,7 @@ comparePrice: 17.77 EUR
 prodname: 'Levadura de Arroz Rojo con 10 mg de Monacolina K y 5 mg de Coenzima Q10 | 180 cápsulas vegetales | Suministro para 6 meses | Regula los niveles de colesterol sanguíneo | Libre de Citrininas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JFMBH31/?tag=tolees-21'
 descuento: '22.23'
 average: '13.82'

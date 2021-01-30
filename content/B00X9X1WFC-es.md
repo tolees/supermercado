@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'L Oréal Paris Studio Line Gel Pure Wet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9X1WFC/?tag=tolees-21'
 descuento: '19.39'
 average: '3.99'

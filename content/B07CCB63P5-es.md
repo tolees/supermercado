@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Aicook Espumador de Leche Eléctrico  Batidor de Leche Espuma Frío y Caliente  150ml/300ml  Función de Apagado Automático  Calentador y Espumado para café  Perfecto para Cappuccino  Latte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CCB63P5/?tag=tolees-21'
 descuento: '0.00'
 average: '42.656666666666666'

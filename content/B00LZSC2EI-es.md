@@ -16,6 +16,7 @@ comparePrice: 2.19 EUR
 prodname: 'adidas Cool & Care 6 En 1 - Desodorante roll-on  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LZSC2EI/?tag=tolees-21'
 descuento: '10.96'
 average: '1.95'

@@ -16,6 +16,7 @@ comparePrice: 0.99 EUR
 prodname: 'Milka - Tableta De Chocolate con Galleta Lu - 87 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA0Z07A/?tag=tolees-21'
 descuento: '13.13'
 average: '0.86'

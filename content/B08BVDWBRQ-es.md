@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Vanish Vanish Oxi Advance - Quitamanchas Para La Ropa  Elimina Olores Y Revive Colores  En Polvo  Sin Lejía 800 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BVDWBRQ/?tag=tolees-21'
 descuento: '15.38'
 average: '9.3'

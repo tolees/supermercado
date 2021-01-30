@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Planetacase Taza Padrino - Aquí Bebe Un Super Padrino - Regalo Original Padrinos Superpadrino Familia Taza Desayuno Café Ceramica 330 mL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0834HC6BQ/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

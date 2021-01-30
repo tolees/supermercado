@@ -16,6 +16,7 @@ comparePrice: None None
 prodname: 'Rockport Perth Boat Shoe  Náuticos Hombre  Beige Arena Amargo Chocolate SDE 002  40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJ5QB6J/?tag=tolees-21'
 descuento: '0.00'
 average: 'None'

@@ -16,6 +16,7 @@ comparePrice: 150.56 EUR
 prodname: 'Victrola Park Avenue Sistema De Sonido Tocadiscos 5-1 Bluetooth  Café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5YD6FS/?tag=tolees-21'
 descuento: '0.00'
 average: '158.675'

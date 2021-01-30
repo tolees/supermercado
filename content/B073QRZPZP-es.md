@@ -16,6 +16,7 @@ comparePrice: 20.94 EUR
 prodname: 'Mimosin Intense Explosión de Frescor Suavizante - 58 lavados - pack de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QRZPZP/?tag=tolees-21'
 descuento: '5.73'
 average: '18.269166666666667'

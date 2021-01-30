@@ -16,6 +16,7 @@ comparePrice: 5.3 EUR
 prodname: 'Gloria Vanderbilt  Gel y jabón  Mujer  - 150 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0012QEDUY/?tag=tolees-21'
 descuento: '0.00'
 average: '5.949999999999999'

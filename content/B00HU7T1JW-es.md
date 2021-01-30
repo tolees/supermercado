@@ -16,6 +16,7 @@ comparePrice: 1.4 EUR
 prodname: 'Kinder Chocolate - Barritas de Chocolate con Leche - 8 unidades x 12.5 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HU7T1JW/?tag=tolees-21'
 descuento: '15.00'
 average: '1.102'

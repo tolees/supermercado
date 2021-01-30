@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Gaoyong Velas Aromaticas 4 Piezas Velas Perfumadas de Regalo Vela Perfumada Cera de Soja Velas Aromaticas Regalo Velas para Regalar Rosa Lavanda limón Coco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CV1BXTC/?tag=tolees-21'
 descuento: '23.82'
 average: '15.99'

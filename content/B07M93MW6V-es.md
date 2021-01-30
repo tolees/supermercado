@@ -16,6 +16,7 @@ comparePrice: 15.49 EUR
 prodname: 'NIVEA Hyaluron Cellular Filler + Elasticidad & Antigravedad Cuidado de Noche  1 x 50 ml   crema facial de noche  crema antiarrugas con ácido hialurónico  crema antiedad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M93MW6V/?tag=tolees-21'
 descuento: '17.43'
 average: '12.79'

@@ -16,6 +16,7 @@ comparePrice: 12.22 EUR
 prodname: 'Garnier Skin Active Gelatina Hidratante para el Rostro Aloe Jelly - 3 Paquetes de 150 ml - Total: 450 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CXCJ63M/?tag=tolees-21'
 descuento: '0.00'
 average: '12.22'

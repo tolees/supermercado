@@ -16,6 +16,7 @@ comparePrice: 5.12 EUR
 prodname: 'Max Factor Pan Stick Base de maquillaje  Tono 96 Bisque Ivory - 29 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EC9P9PG/?tag=tolees-21'
 descuento: '22.66'
 average: '4.29'

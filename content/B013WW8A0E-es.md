@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Elizabeth Arden Superstart Serum Facial 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013WW8A0E/?tag=tolees-21'
 descuento: '23.08'
 average: '33.3'

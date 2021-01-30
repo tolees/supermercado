@@ -16,6 +16,7 @@ comparePrice: 3.85 EUR
 prodname: 'L Oreal Paris Elvive Fibralogy Champú Creador de Densidad para Pelo con Poca Densidad - 370 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LNQ5B3U/?tag=tolees-21'
 descuento: '22.34'
 average: '2.99'

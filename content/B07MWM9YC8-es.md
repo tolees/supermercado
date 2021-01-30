@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Exquisite Gaming MMFTMR300024 Meta Merch - Taza de café  diseño de dolamita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MWM9YC8/?tag=tolees-21'
 descuento: '14.46'
 average: '8.34'

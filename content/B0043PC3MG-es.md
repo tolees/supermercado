@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Vino Tinto D.O. Rioja Montecillo Crianza - 1 botella de 75 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0043PC3MG/?tag=tolees-21'
 descuento: '5.66'
 average: '7.5'

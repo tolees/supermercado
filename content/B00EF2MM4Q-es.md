@@ -16,6 +16,7 @@ comparePrice: 71.69 EUR
 prodname: 'Beefeater Burrough s Reserve Ginebra - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EF2MM4Q/?tag=tolees-21'
 descuento: '16.45'
 average: '59.50066666666667'

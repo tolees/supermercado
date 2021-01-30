@@ -16,6 +16,7 @@ comparePrice: 24.35 EUR
 prodname: 'Aveda 50397 - Acondicionador  200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002CMLS3M/?tag=tolees-21'
 descuento: '10.72'
 average: '21.74'

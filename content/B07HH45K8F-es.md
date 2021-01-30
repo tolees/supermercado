@@ -16,6 +16,7 @@ comparePrice: 18.23 EUR
 prodname: 'Milka  Barrita grande de chocolate - 12 de 300 gr.  Total 3600 gr. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HH45K8F/?tag=tolees-21'
 descuento: '6.36'
 average: '17.07'

@@ -16,6 +16,7 @@ comparePrice: 36.14 EUR
 prodname: 'Purina Gourmet Gold Mousse comida para gatos Surtido 12 x [8 x 85 g]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072LF75KM/?tag=tolees-21'
 descuento: '0.00'
 average: '36.14'

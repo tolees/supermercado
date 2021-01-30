@@ -16,6 +16,7 @@ comparePrice: 34.6 EUR
 prodname: 'Glenmorangie Whisky - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JVEZMGW/?tag=tolees-21'
 descuento: '0.38'
 average: '34.47'

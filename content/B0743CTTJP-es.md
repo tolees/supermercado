@@ -16,6 +16,7 @@ comparePrice: 6.05 EUR
 prodname: 'Iberitos - 18 Monodosis de Queso Crema - 22 Gramos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0743CTTJP/?tag=tolees-21'
 descuento: '16.69'
 average: '5.04'

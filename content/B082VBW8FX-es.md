@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Kloius Dispensador de Jabón Automático 200ml Dispensador de Jabón Líquido Base Antideslizante Impermeable Dispensador Sensor de Jabón Baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VBW8FX/?tag=tolees-21'
 descuento: '0.00'
 average: '37.99'

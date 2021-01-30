@@ -16,6 +16,7 @@ comparePrice: 6.89 EUR
 prodname: 'Maybelline Superstay de diafragma de 55 mate cartucho de barra de labios  5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077N6XM8Q/?tag=tolees-21'
 descuento: '14.37'
 average: '5.9'

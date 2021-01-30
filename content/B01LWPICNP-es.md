@@ -16,6 +16,7 @@ comparePrice: 0.69 EUR
 prodname: 'Turia Märzen Cerveza Tostada - Lata 33cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWPICNP/?tag=tolees-21'
 descuento: '10.14'
 average: '0.62'

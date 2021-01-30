@@ -16,6 +16,7 @@ comparePrice: 1.64 EUR
 prodname: 'Orlando -  Salsa Deluxe Fusión - 245 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PGJ2ZMM/?tag=tolees-21'
 descuento: '21.34'
 average: '1.29'

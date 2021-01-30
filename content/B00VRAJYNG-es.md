@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Revlon  Sombra de ojos - 6.6 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VRAJYNG/?tag=tolees-21'
 descuento: '0.00'
 average: '1.99'

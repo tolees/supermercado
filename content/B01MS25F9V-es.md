@@ -16,6 +16,7 @@ comparePrice: 8.26 EUR
 prodname: 'Air Wick Freshmatic - Aparato y recambio de Ambientador Spray Automático  Esencia para Casa con Aroma a Flores de Cerezo de Asia   1 Aparato + 1 Recambio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MS25F9V/?tag=tolees-21'
 descuento: '15.86'
 average: '8.5875'

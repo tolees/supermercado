@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'HJ Colgador de Escobas  Soporte de Pared para Colgar Herramientas  Organizador para Fregona y Broom  para Cocinas o Garajes  5 Posiciones 6 Ganchos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQNLTPD/?tag=tolees-21'
 descuento: '20.01'
 average: '11.99'

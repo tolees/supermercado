@@ -16,6 +16,7 @@ comparePrice: 19 EUR
 prodname: 'Ultrawhite Miele Detergente Lavadora para blancos Cod 10199840'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071YPDTLX/?tag=tolees-21'
 descuento: '0.00'
 average: '19'

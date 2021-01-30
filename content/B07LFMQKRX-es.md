@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'SYOSS - Pack de Regalo SalonPlex - Champú 500ml + Acondicionador 500ml + Mascarilla 300ml + Cepillo de Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFMQKRX/?tag=tolees-21'
 descuento: '0.00'
 average: '12.1'

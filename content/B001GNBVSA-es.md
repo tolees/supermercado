@@ -16,6 +16,7 @@ comparePrice: 5.12 EUR
 prodname: 'Max Factor  Base de maquillaje - 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001GNBVSA/?tag=tolees-21'
 descuento: '8.20'
 average: '4.7'

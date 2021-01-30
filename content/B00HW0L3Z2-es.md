@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Vileda 143587 Bayeta Pva Micro Amarillo [5-PACK]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HW0L3Z2/?tag=tolees-21'
 descuento: '24.68'
 average: '15.81'

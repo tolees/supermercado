@@ -16,6 +16,7 @@ comparePrice: 15.93 EUR
 prodname: 'Nestlé nesquik cacao soluble instantáneo 3kg 2x1.5kg '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA0OEI6/?tag=tolees-21'
 descuento: '0.00'
 average: '15.93'

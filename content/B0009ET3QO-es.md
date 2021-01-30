@@ -16,6 +16,7 @@ comparePrice: 13.4 EUR
 prodname: 'American Crew Gel Spray  Fijación Media  250ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009ET3QO/?tag=tolees-21'
 descuento: '17.99'
 average: '11.16'

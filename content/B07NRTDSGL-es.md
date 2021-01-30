@@ -16,6 +16,7 @@ comparePrice: 6.87 EUR
 prodname: 'Gliss - Million Gloss Champú para Cabello Apagado y Sin Brillo - 3 uds de 250ml - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRTDSGL/?tag=tolees-21'
 descuento: '21.83'
 average: '5.37'

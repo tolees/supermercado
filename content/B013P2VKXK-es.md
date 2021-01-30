@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'TENTACION INCIENSO EROTICO CON FEROMONAS CHOCOLATE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013P2VKXK/?tag=tolees-21'
 descuento: '0.00'
 average: '8.99'

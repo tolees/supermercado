@@ -16,6 +16,7 @@ comparePrice: 2.29 EUR
 prodname: 'Bimbo Rebanada Estilo Artesano  Pan blanco con corteza 550g  14 rebanadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IUPKLG4/?tag=tolees-21'
 descuento: '13.10'
 average: '1.99'

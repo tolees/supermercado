@@ -16,6 +16,7 @@ comparePrice: 14.97 EUR
 prodname: 'Love Beauty and Planet Desodorante Roll-on  Manteca de Murumuru y Rosa Vegano - Pack de 3 x 50 ml  Total: 150 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QN7F5BX/?tag=tolees-21'
 descuento: '20.04'
 average: '12.755'

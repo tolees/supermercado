@@ -16,6 +16,7 @@ comparePrice: 1.65 EUR
 prodname: 'Jardín Bio Muesli Bio al Chocolate y Semillas de Lino - 375 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZW6FD9P/?tag=tolees-21'
 descuento: '0.00'
 average: '1.65'

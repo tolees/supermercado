@@ -16,6 +16,7 @@ comparePrice: 21.8 EUR
 prodname: 'Wella - Mascarilla Reparadora Intensa Fusion 500'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2D2XVW/?tag=tolees-21'
 descuento: '6.10'
 average: '20.475'

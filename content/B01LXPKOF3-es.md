@@ -16,6 +16,7 @@ comparePrice: 1.32 EUR
 prodname: 'Albo Sardinas en Aceite de Oliva - 85 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXPKOF3/?tag=tolees-21'
 descuento: '24.24'
 average: '1.0'

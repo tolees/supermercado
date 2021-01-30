@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'L Oréal Volumetry Anti Gravity Effect Champú - 1500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BZQMP9M/?tag=tolees-21'
 descuento: '0.00'
 average: '25.9'

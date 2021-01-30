@@ -16,6 +16,7 @@ comparePrice: 19.4 EUR
 prodname: 'Colgate Max White Expert Complete Dentífrico  75 ml  paquete de 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MB3SQD/?tag=tolees-21'
 descuento: '0.00'
 average: '19.4'

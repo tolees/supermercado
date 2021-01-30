@@ -16,6 +16,7 @@ comparePrice: 9.28 EUR
 prodname: 'Estrella de Levante Cerveza - Pack de 6 Botellas 1L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4R9N7F/?tag=tolees-21'
 descuento: '10.78'
 average: '8.28'

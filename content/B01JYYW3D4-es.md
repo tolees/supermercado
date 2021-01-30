@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Finish All in 1 Max Power Gel Limón Desengrasante  Detergente Gel para el Lavavajillas  50 dosis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JYYW3D4/?tag=tolees-21'
 descuento: '7.68'
 average: '7.7975'

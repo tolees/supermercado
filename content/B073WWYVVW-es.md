@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'AIFUDA - Moldes de silicona para dulces de chocolate  paquete de 4 moldes antiadherentes para hornear magdalenas o hacer cubitos de hielo  diseño de corazón  estrella y concha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073WWYVVW/?tag=tolees-21'
 descuento: '16.74'
 average: '9.15'

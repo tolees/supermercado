@@ -16,6 +16,7 @@ comparePrice: 11.25 EUR
 prodname: 'Brandy Solera Reserva Jerez Carlos III Osborne 36º - 1 botella de 70 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0091DK1II/?tag=tolees-21'
 descuento: '6.84'
 average: '10.366666666666667'

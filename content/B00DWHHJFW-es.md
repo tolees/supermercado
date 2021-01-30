@@ -16,6 +16,7 @@ comparePrice: 33.94 EUR
 prodname: 'Santa Digna Chardonnay  Vino Blanco  6 botellas de 75 cl - Total: 450 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DWHHJFW/?tag=tolees-21'
 descuento: '0.00'
 average: '33.94'

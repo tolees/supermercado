@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'NESCAFÉ 3 en 1 | Bolsa de Café |  Paquete de 10x18g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XABGDFC/?tag=tolees-21'
 descuento: '4.52'
 average: '1.9053846153846152'

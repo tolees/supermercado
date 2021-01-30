@@ -16,6 +16,7 @@ comparePrice: 1.28 EUR
 prodname: 'Lay s - Patatas Fritas al punto de sal 170 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IUW3O84/?tag=tolees-21'
 descuento: '4.69'
 average: '1.1800000000000002'

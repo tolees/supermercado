@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Garnier Olia - Coloración Permanente sin Amoniaco  con Aceites Florales de Origen Natural - Tono Bold Violeta Eléctrico 4.26 - pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079W3DGH6/?tag=tolees-21'
 descuento: '8.63'
 average: '6.35'

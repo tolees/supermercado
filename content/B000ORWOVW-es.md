@@ -16,6 +16,7 @@ comparePrice: 12.23 EUR
 prodname: 'WELEDA Desodorante Spray de Salvia  1x 100 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000ORWOVW/?tag=tolees-21'
 descuento: '11.53'
 average: '11.256666666666668'

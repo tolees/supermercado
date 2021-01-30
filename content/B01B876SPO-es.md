@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Gillette Mach3 Turbo Maquinilla de Afeitar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B876SPO/?tag=tolees-21'
 descuento: '15.02'
 average: '6.79'

@@ -16,6 +16,7 @@ comparePrice: 8.24 EUR
 prodname: 'Note D Espresso - Cápsulas de capuchino instantáneo compatibles con cafeteras Dolce Gusto  9 g  caja de 48 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WS7W6GQ/?tag=tolees-21'
 descuento: '0.00'
 average: '8.24'

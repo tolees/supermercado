@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Prozis 100% Real Whey Protein  Suplemento Puro en Polvo con un Perfil Completo de Aminoácidos y Rico en BCAA  Chocolate y caramelo - 1000 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07486JBPF/?tag=tolees-21'
 descuento: '11.01'
 average: '15.12'

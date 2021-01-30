@@ -16,6 +16,7 @@ comparePrice: 1.59 EUR
 prodname: 'Colgate Pasta de dientes AntiSarro + Blanqueador - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7S92TE/?tag=tolees-21'
 descuento: '1.26'
 average: '1.57'

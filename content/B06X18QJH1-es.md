@@ -16,6 +16,7 @@ comparePrice: 61.95 EUR
 prodname: 'The Chita Suntory Single Grain Japanese Whisky  43% - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X18QJH1/?tag=tolees-21'
 descuento: '22.03'
 average: '50.73375'

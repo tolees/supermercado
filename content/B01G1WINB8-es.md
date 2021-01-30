@@ -16,6 +16,7 @@ comparePrice: 2.53 EUR
 prodname: 'Ruffles Jamon patatas fritas onduladas 312g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G1WINB8/?tag=tolees-21'
 descuento: '20.95'
 average: '2'

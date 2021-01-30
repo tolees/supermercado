@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Fisherman s Friend Original  Caramelo Comprimido Con Azúcar - 12 unidades de 25 gr.  Total 300 gr. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BEWMJUG/?tag=tolees-21'
 descuento: '21.72'
 average: '14.416666666666666'

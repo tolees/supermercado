@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Chop Cortador de verduras y picadora de carne manual con cuerda  para cortar alimentos  cebolla  ajo  patatas  hielo  zanahoria… Cuchillas y cuerda reforzadas - 500ml Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WF3XF5D/?tag=tolees-21'
 descuento: '12.58'
 average: '13.9'

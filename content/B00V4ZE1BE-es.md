@@ -16,6 +16,7 @@ comparePrice: 20.25 EUR
 prodname: 'Neutrogena Bálsamo Corporal Reparación Intensa - 2 Unidades x 300 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V4ZE1BE/?tag=tolees-21'
 descuento: '21.04'
 average: '15.99'

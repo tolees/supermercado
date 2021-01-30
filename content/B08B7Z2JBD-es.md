@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'RZKJ-SHOP Abridor de Botellas de Vino Profesional Manual Sacacorchos de Camareros con Caja de Regalo Abrebotellas de Cerveza para Hogar Restaurante Bars  Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B7Z2JBD/?tag=tolees-21'
 descuento: '17.87'
 average: '11.49'

@@ -16,6 +16,7 @@ comparePrice: 37.2 EUR
 prodname: 'LITORAL Callos Madrileña - Plato Preparado Sin Gluten - Paquete de 12x380g - Total: 4.56kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZYKJ19/?tag=tolees-21'
 descuento: '8.06'
 average: '33.03142857142857'

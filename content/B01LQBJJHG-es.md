@@ -16,6 +16,7 @@ comparePrice: 9.2 EUR
 prodname: 'Maybelline New York - Master Strobing Liquido  Iluminador Líquido para Pieles Claras  Tono 100 Light Iridescent'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LQBJJHG/?tag=tolees-21'
 descuento: '20.22'
 average: '7.34'

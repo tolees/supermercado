@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'VicTsing 150ml Difusor de Aromas  Ultra Silencioso  21dB  Humidificador Aceites Esenciales  BPA-Free Difusor Aceites Esenciales  Difusor Aceites Esenciales Ultrasonico con LED de 8 Colores - Cúrcuma'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WTMJMFJ/?tag=tolees-21'
 descuento: '13.64'
 average: '20.275714285714283'

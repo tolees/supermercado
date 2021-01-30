@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: '2 X Nu Skin Ap-24 Blanqueamiento Pasta De Dientes Con Fluorida by Jeune et Belle'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07772FGWF/?tag=tolees-21'
 descuento: '6.06'
 average: '30.99'

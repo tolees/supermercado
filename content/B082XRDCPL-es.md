@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'L Oreal Paris Make-up Designer Maybelline New York Brow Extensions Stick de Cejas Tono 07 Black Brown  Marrón   3600531606541 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082XRDCPL/?tag=tolees-21'
 descuento: '22.69'
 average: '6.95'

@@ -16,6 +16,7 @@ comparePrice: 9.58 EUR
 prodname: 'NIVEA MEN DEEP Amazonia Spray  desodorante de hombre con protección 48 h  antitranspirante para el cuidado masculino - pack de 6 x 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SGS5YG7/?tag=tolees-21'
 descuento: '0.00'
 average: '9.58'

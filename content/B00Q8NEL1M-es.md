@@ -16,6 +16,7 @@ comparePrice: 25.75 EUR
 prodname: 'Cool Create - Kit de fabricación de Chocolate para niñas de 5 años y más  9021 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q8NEL1M/?tag=tolees-21'
 descuento: '18.37'
 average: '20.78'

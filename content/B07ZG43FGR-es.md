@@ -16,6 +16,7 @@ comparePrice: 28.88 EUR
 prodname: 'Fairy Profesional Lavavajillas Líquido Fast Clean - 10L  Pack 2 x 5L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZG43FGR/?tag=tolees-21'
 descuento: '16.97'
 average: '23.98'

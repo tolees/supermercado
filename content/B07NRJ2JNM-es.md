@@ -16,6 +16,7 @@ comparePrice: 11.25 EUR
 prodname: 'SYOSS - Acondicionador Salon Plex - Tratamiento de Reparación Intenso - 3uds de 500ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRJ2JNM/?tag=tolees-21'
 descuento: '21.33'
 average: '8.85'

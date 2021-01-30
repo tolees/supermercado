@@ -16,6 +16,7 @@ comparePrice: 22.34 EUR
 prodname: 'Sebastian Sebastian Penetraitt Acondicionador 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003Z2D3OU/?tag=tolees-21'
 descuento: '24.13'
 average: '16.95'

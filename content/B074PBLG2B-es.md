@@ -16,6 +16,7 @@ comparePrice: 2.15 EUR
 prodname: 'Gliss - Champú Seco Anti-Grasa Mini - Para llevar de viaje - 12 uds de 100ml - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PBLG2B/?tag=tolees-21'
 descuento: '0.00'
 average: '2.15'

@@ -16,6 +16,7 @@ comparePrice: 4.8 EUR
 prodname: 'Air Wick Vela Duplo Vainilla y Ébano de Madagascar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAEM01U/?tag=tolees-21'
 descuento: '22.29'
 average: '3.73'

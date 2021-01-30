@@ -16,6 +16,7 @@ comparePrice: 16.17 EUR
 prodname: 'Café Fortaleza Café Grano Natural - 500 gr - [Pack de 3]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXLMPRZ/?tag=tolees-21'
 descuento: '0.00'
 average: '16.17'

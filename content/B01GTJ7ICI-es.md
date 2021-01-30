@@ -16,6 +16,7 @@ comparePrice: 130.2 EUR
 prodname: 'AUSONIA - 34744 SIERRA DE COMPÁS AJUSTABLE DE 30 CM DE DIÁMETRO CON TAZA DE PLÁSTICO QUE PROTEGE DEL POLVO Y JUNTA HEXAGONAL DE 10 MM Y PUNTAS DE RECAMBIO. DIÁMETRO DE CORTE AJUSTABLE DE 40 A 200 MM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GTJ7ICI/?tag=tolees-21'
 descuento: '23.96'
 average: '99.0'

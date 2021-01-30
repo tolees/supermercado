@@ -16,6 +16,7 @@ comparePrice: 32.92 EUR
 prodname: 'Wella SP Luxe Oil Keratin Acondicionador en Crema - 1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UDCW1R0/?tag=tolees-21'
 descuento: '19.71'
 average: '26.43'

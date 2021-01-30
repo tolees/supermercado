@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Maeloc Sidra Seca - Pack de 4 x 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHR44KM/?tag=tolees-21'
 descuento: '23.75'
 average: '2.729'

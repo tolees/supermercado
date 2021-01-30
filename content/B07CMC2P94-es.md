@@ -16,6 +16,7 @@ comparePrice: 14.49 EUR
 prodname: 'NIVEA SUN Protege & Broncea Spray Solar FP30  1 x 300 ml   activador del bronceado  protección solar alta  protector solar hidratante y resistente al agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CMC2P94/?tag=tolees-21'
 descuento: '17.25'
 average: '11.99'

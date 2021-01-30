@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Elizabeth Arden  Crema corporal - 400 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4LCTIY/?tag=tolees-21'
 descuento: '0.00'
 average: '21.6'

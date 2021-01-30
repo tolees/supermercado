@@ -16,6 +16,7 @@ comparePrice: 34.62 EUR
 prodname: 'WiPP Express Detergente Liquido  31 Dosis  Paquete de 4  Total 124 Lavados '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L35MG3D/?tag=tolees-21'
 descuento: '15.86'
 average: '28.89333333333333'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Tibek - Máquina de palomitas por aire caliente  sin aceite ni grasa  1200 W  con olla antiadherente  medidor y boca ancha  incluye fuente de chocolate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQXY77X/?tag=tolees-21'
 descuento: '14.33'
 average: '38.844'

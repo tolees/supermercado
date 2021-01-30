@@ -16,6 +16,7 @@ comparePrice: 3.56 EUR
 prodname: 'Dr. Schar - Pan payés de trigo sarraceno SIN GLUTEN  - 240 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005IPEEZ4/?tag=tolees-21'
 descuento: '18.54'
 average: '2.9'

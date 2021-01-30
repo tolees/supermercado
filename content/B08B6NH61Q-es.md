@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Nestlé Naturnes Bio Nutri Puffs Snack De Cereales Con Tomate  A Partir De 10 Meses  - Pack de 5 envases x 35g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B6NH61Q/?tag=tolees-21'
 descuento: '23.50'
 average: '7.7700000000000005'

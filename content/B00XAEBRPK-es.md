@@ -16,6 +16,7 @@ comparePrice: 14.59 EUR
 prodname: 'Colon Detergente para Ropa en Polvo Formato Profesional - 135 lavados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAEBRPK/?tag=tolees-21'
 descuento: '0.00'
 average: '14.59'

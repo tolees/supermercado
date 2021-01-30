@@ -16,6 +16,7 @@ comparePrice: 56 EUR
 prodname: 'La Silla Española Ribadeo Oficina sin Reposacabezas  Poliéster y Rejilla  Rosa  61x58x89 cm  reposabrazos  con ruedas  altura ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074MKBJ8M/?tag=tolees-21'
 descuento: '6.18'
 average: '52.54'
