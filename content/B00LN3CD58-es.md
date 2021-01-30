@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gallo - Spaghetti No.3 - 500 grs con un 0.00 % de descuento'
-date: 2021-01-29 00:51:06
+date: 2021-01-30 01:16:56
 image: 'https://m.media-amazon.com/images/I/41aO5aH14BL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LN3CD58/?tag=tolees-21'
 descuento: '0.00'
-average: '0.861573604060913'
+average: '0.861959798994974'
 ---
 
 En este momento está [Gallo - Spaghetti No.3 - 500 grs](https://www.amazon.es/dp/B00LN3CD58/?tag=tolees-21) a 0.9 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Gallo - Spaghetti No.3 - 500 grs](https://www.amazon.es/d
 🔎:
 
 - Puede contener trazas de huevo
-- Advertencia alergénica: contiene trigo, huevo
 - La pasta no se pega
+- Advertencia alergénica: contiene trigo, huevo
 - Tiempos de cocciónn: 8 minutos al punto, 10 minutos suave
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00LN3CD58/?tag=tolees-21)

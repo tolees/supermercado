@@ -27,10 +27,10 @@ Está [Bolero Bebida Instantánea sin Azúcar  Sabor Maracuyá - Paquete de 24 x
 
 ℹ️:
 
-- Edulcorado con Stevia
+- Disolver cada sobre en 1.5 L de agua
 - Sin conservantes artificiales. Saborizantes y colorantes de origen natural
 - Bebida instantánea en polvo sin azúcar y con vitamina C. Baja en calorías y en carbohidratos
 - Alérgenos: sin gluten, sin lactosa, sin huevo, sin frutos secos
-- Disolver cada sobre en 1.5 L de agua
+- Edulcorado con Stevia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00LSS11MY/?tag=tolees-21)
