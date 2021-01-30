@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revitale Advanced Jabón para tratamiento al 0.00 % de descuento'
-date: 2021-01-29 13:50:45
+date: 2021-01-30 19:32:11
 image: 'https://m.media-amazon.com/images/I/31KRKBccuqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Revitale Advanced Jabón para tratamiento exfoliante con ácido salicílico y azufre'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Revitale'
 buyurl: 'https://www.amazon.es/dp/B07L37F1RT/?tag=tolees-21'
 descuento: '0.00'
 average: '8.49'
@@ -27,10 +28,10 @@ Está [Revitale Advanced Jabón para tratamiento exfoliante con ácido salicíli
 
 ℹ️:
 
+- Súper cargado con ingredientes potentes de azufre y ácido salicílico para una piel sana y renovada
+- Hecho en Inglaterra - Jabón 100% vegetal puro
 - Rebosante de partículas exfoliantes de cáscara de almendras y nueces para limpiar poros a fondo y ayudar a pulir y embellecer
 - Aprieta los poros, calma la inflamación y el enrojecimiento, unifica el tono de la piel y deja la piel reluciente y limpia.
-- Hecho en Inglaterra - Jabón 100% vegetal puro
 - Tratamiento eficaz para ayudar contra el acné, manchas, infecciones fúngicas, psoriasis, eccema, verrugas, callos, callosidades, pelos en crecimiento y rosácea
-- Súper cargado con ingredientes potentes de azufre y ácido salicílico para una piel sana y renovada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07L37F1RT/?tag=tolees-21)

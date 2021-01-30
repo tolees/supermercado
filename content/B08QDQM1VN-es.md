@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desconocido - Pack Boligrafos de Colores al 0.00 % de descuento'
-date: 2021-01-29 13:57:14
+date: 2021-01-30 19:59:49
 image: 'https://m.media-amazon.com/images/I/41U7IkCBmTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Desconocido - Pack Boligrafos de Colores Dispensadores de Gel Hidroalcohólico Desinfectante de Manos para Niños y Adultos - Material Escolar para la Vuelta al Cole'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Desconocido'
 buyurl: 'https://www.amazon.es/dp/B08QDQM1VN/?tag=tolees-21'
 descuento: '0.00'
 average: '12.9'
@@ -28,9 +29,9 @@ Está [Desconocido - Pack Boligrafos de Colores Dispensadores de Gel Hidroalcoh�
 ℹ️:
 
 - 5 colores diferentes, alternalos o regalalos
-- Una buena forma de tener siempre a mano desinfectante o perfume
-- 5 Boligrafos retractiles con deposito para liquido hidroalcoholico lo perfume
 - Ideales para los mas pequeños, podran usarlo en el colegio
 - Rellenalo tantas veces como quieras. Se envian vacios
+- 5 Boligrafos retractiles con deposito para liquido hidroalcoholico lo perfume
+- Una buena forma de tener siempre a mano desinfectante o perfume
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08QDQM1VN/?tag=tolees-21)
