@@ -28,9 +28,9 @@ Ahora mismo tienes [Scottex Acolchado Papel Higiénico - 63 rollos](https://www.
 
 🔎:
 
-- In addition, Scottex takes care of the environment using FSC certified fibers from responsible sources
-- Remember to include Scottex Wet Toilet Paper in your daily routine for perfect hygiene
-- It offers triple comfort and irresistible softness, being a daily mime for the most demanding
 - 63 Padded Rolls
+- In addition, Scottex takes care of the environment using FSC certified fibers from responsible sources
+- It offers triple comfort and irresistible softness, being a daily mime for the most demanding
+- Remember to include Scottex Wet Toilet Paper in your daily routine for perfect hygiene
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CCVMSKV/?tag=tolees-21)
