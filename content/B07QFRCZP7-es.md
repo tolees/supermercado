@@ -28,7 +28,7 @@ Ahora mismo tienes [Dulcesol  Hazelnut Cake  Bizcocho de Avellana  - 5 unidades.
 🔎:
 
 - Pastelito relleno sabor avellana
-- Marca Dulcesol
 - Producto de pastelería y repostería
+- Marca Dulcesol
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21)
