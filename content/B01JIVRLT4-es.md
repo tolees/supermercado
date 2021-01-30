@@ -28,10 +28,10 @@ Tienes [Sanytol - Quitamanchas Desinfectante de Tejidos  450 gr](https://www.ama
 
 🔎:
 
-- Quitamanchas desinfectante sin lejía que destruye el 99.9% de los gérmenes, bacterias y hongos.
-- Formato de 405 gr
-- Una correcta higiene en tus textiles es eliminar tanto la suciedad que ves como la que no ves.
 - Es efectivo desde los 20º C y puede utilizarse para cualquier tipo de ropa, blanca o de color.
+- Una correcta higiene en tus textiles es eliminar tanto la suciedad que ves como la que no ves.
+- Quitamanchas desinfectante sin lejía que destruye el 99.9% de los gérmenes, bacterias y hongos.
 - Elimina el mal olor de raiz dejando un agradable aroma,además de evitar la transmisión de enfermedades e irritaciones.
+- Formato de 405 gr
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01JIVRLT4/?tag=tolees-21)

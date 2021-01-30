@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Nivea - Jabón de manos con dispensador   al 0.00 % de rebaja'
-date: 2021-01-19 06:25:03
+date: 2021-01-30 13:16:37
 image: 'https://m.media-amazon.com/images/I/413BF7bwNvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UT9AUCU-es'
+slug: 'B00UT9AUCU-es Nivea - Jabón de manos con dispensador pack de 6 6x 250 ml'
+sku: 'B00UT9AUCU-es'
+tags: [ 'jabón','nivea', ]
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48
@@ -14,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Nivea - Jabón de manos con dispensador  pack de 6  6x 250 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: 'NIVEA'
 buyurl: 'https://www.amazon.es/dp/B00UT9AUCU/?tag=tolees-21'
 descuento: '0.00'
 average: '11.48'
@@ -25,8 +28,8 @@ Tienes [Nivea - Jabón de manos con dispensador  pack de 6  6x 250 ml ](https://
 
 🔎:
 
-- Compatibilidad cutánea dermatológicamente aprobada
 - PH equilibrado, compatible con la piel
+- Compatibilidad cutánea dermatológicamente aprobada
 - Contiene aceite de almendras y tiene un olor suave
 - Protege las manos contra la sequedad
 
