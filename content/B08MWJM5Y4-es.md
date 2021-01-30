@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'San Jamón - Cesta Regalo Gourmet Ibérica al 0.00 % de rebaja'
-date: 2021-01-29 10:30:05
+date: 2021-01-30 10:43:28
 image: 'https://m.media-amazon.com/images/I/411fuk4RUSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'San Jamón - Cesta Regalo Gourmet Ibérica  Dueñas. Chorizo y Salchichón Ibéricos  Queso Manchego  Bombones  Pastas  Mermelada y Té'
 country: 'es'
 flag: '🇪🇸'
+brand: 'SAN JAMÓN'
 buyurl: 'https://www.amazon.es/dp/B08MWJM5Y4/?tag=tolees-21'
 descuento: '0.00'
 average: '34.0'
@@ -27,10 +28,10 @@ Tienes [San Jamón - Cesta Regalo Gourmet Ibérica  Dueñas. Chorizo y Salchich�
 
 🔎:
 
-- Cesta de Productos Gourmet
 - Chorizo y Salchichón Ibéricos
-- Una deliciosa selección de productos gourmet ibéricos
+- Cesta de Productos Gourmet
 - El regalo perfecto para esta Navidad
 - Disfruta de los mejores jamones y embutidos ibéricos de San Jamón
+- Una deliciosa selección de productos gourmet ibéricos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MWJM5Y4/?tag=tolees-21)
