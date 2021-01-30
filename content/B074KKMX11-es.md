@@ -28,13 +28,13 @@ Está [FAIRY Platinum All in One - Cápsulas para lavavajillas  Pack de 125 cáp
 
 ℹ️:
 
-- Limpia incluso la grasa del filtro; contra la cal, utiliza limpia máquinas
-- Diseñadas y testadas para usar en los lavavajillas de las principales marcas
-- Pastillas lavavajillas listas para usar, sin necesidad de retirar el envoltorio
-- Incorpora sal y ayuda al aclarado, al igual que protege el cristal y la plata
-- Pastillas lavavajillas Fairy Platinum Todo en 1
-- Ayuda a prevenir la acumulación de grasa en el sistema de drenaje, en los filtros y en el brazo rociador
-- Fairy es la opción óptima de limpieza para eliminar la grasa más incrustada a la primera
 - Mantiene un aroma limpio y fresco en tu lavavajillas
+- Diseñadas y testadas para usar en los lavavajillas de las principales marcas
+- Incorpora sal y ayuda al aclarado, al igual que protege el cristal y la plata
+- Limpia incluso la grasa del filtro; contra la cal, utiliza limpia máquinas
+- Ayuda a prevenir la acumulación de grasa en el sistema de drenaje, en los filtros y en el brazo rociador
+- Pastillas lavavajillas Fairy Platinum Todo en 1
+- Fairy es la opción óptima de limpieza para eliminar la grasa más incrustada a la primera
+- Pastillas lavavajillas listas para usar, sin necesidad de retirar el envoltorio
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074KKMX11/?tag=tolees-21)
