@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Sanex 1164-74668  Dermo Sensitive  Desod'
-date: 2021-01-28 19:43:19
+date: 2021-01-30 18:12:49
 image: 'https://m.media-amazon.com/images/I/412Mql7kzCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice:  EUR
 prodname: 'Sanex 1164-74668  Dermo Sensitive  Desodorante Spray  2x200ml'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Sanex'
 buyurl: 'https://www.amazon.es/dp/B00XDRHAK0/?tag=tolees-21'
 descuento: '0.00'
-average: '3.515'
+average: '3.39'
 ---
 
 Tienes [Sanex 1164-74668  Dermo Sensitive  Desodorante Spray  2x200ml](https://www.amazon.es/dp/B00XDRHAK0/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 3.14 EUR (original:  EUR) en el siguiente enlace!
