@@ -28,9 +28,9 @@ Tienes [Ariel Baby Detergente Líquido para Lavadora  Poder Quitamanchas Incluso
 
 🔎:
 
-- Detergente líquido con un óptimo poder antimanchas desde el primer lavado, incluso a 30 °C
-- Botella 100 % reciclable
 - Suave con la piel sensible de tu bebé; dermatológicamente probado para pieles sensibles
+- Botella 100 % reciclable
+- Detergente líquido con un óptimo poder antimanchas desde el primer lavado, incluso a 30 °C
 - Óptimo para eliminar manchas de la ropa de tu bebé
 - Por razones medioambientales, las botellas no cuentan con un tapón medidor
 
