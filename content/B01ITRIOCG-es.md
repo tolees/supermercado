@@ -29,7 +29,7 @@ Está [Central Lechera Asturiana - Leche Entera Botella 1 5L  Pack 6 ](https://w
 ℹ️:
 
 - Leche UHT
-- Entera
 - Tradicional
+- Entera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ITRIOCG/?tag=tolees-21)
