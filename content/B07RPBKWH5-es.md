@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en quejara - LOTE- CESTA DE NAVIDAD BODEGA'
-date: 2021-01-29 14:00:53
+date: 2021-01-31 01:57:59
 image: 'https://m.media-amazon.com/images/I/51N3r29Bm+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'quejara - LOTE- CESTA DE NAVIDAD BODEGA'
 country: 'es'
 flag: '🇪🇸'
+brand: 'quejara'
 buyurl: 'https://www.amazon.es/dp/B07RPBKWH5/?tag=tolees-21'
 descuento: '0.00'
 average: '139.45'

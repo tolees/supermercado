@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dulcesol Croissants Cacao - 5 uds - 225  con un 0.00 % de descuento'
-date: 2021-01-30 02:14:24
+date: 2021-01-31 02:24:27
 image: 'https://m.media-amazon.com/images/I/41QevPj46QL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Dulcesol Croissants Cacao - 5 uds - 225 g'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Dulcesol'
 buyurl: 'https://www.amazon.es/dp/B077PSLTM8/?tag=tolees-21'
 descuento: '0.00'
 average: '1.0'
