@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Colon Nenuco - Detergente para lavadora '
-date: 2021-01-30 01:50:03
+date: 2021-01-31 07:41:47
 image: 'https://m.media-amazon.com/images/I/51MiYuXvaLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice:  EUR
 prodname: 'Colon Nenuco - Detergente para lavadora  adecuado para ropa blanca y de color  formato gel  1 612 l - pack de 5  hasta 155 dosis'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Colon'
 buyurl: 'https://www.amazon.es/dp/B07VFDH5NS/?tag=tolees-21'
 descuento: '0.00'
-average: '25.4406965174129'
+average: '25.4949753694581'
 ---
 
 Tienes [Colon Nenuco - Detergente para lavadora  adecuado para ropa blanca y de color  formato gel  1 612 l - pack de 5  hasta 155 dosis](https://www.amazon.es/dp/B07VFDH5NS/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 30.95 EUR (original:  EUR) en el siguiente enlace!
