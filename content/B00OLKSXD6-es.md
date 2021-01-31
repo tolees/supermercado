@@ -29,7 +29,7 @@ Está [Cuca - Almejas Al Natural 11/15 Piezas Rr-125](https://www.amazon.es/dp/B
 ℹ️:
 
 - Advertencia alergénica: contiene almejas
-- Se debe conservar en un lugar fresco y seco
 - No contiene gluten ni lactosa
+- Se debe conservar en un lugar fresco y seco
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00OLKSXD6/?tag=tolees-21)
