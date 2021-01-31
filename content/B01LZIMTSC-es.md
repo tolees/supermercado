@@ -30,7 +30,7 @@ Está [Central Lechera Asturiana - Leche Entera Brik 6L  Pack 6 x 1L ](https://w
 
 - Contiene leche o derivados de la leche (lactosa)
 - origen: España
-- Peso neto de 1 L
 - Una vez abierto conservar en el frigorifico
+- Peso neto de 1 L
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LZIMTSC/?tag=tolees-21)
