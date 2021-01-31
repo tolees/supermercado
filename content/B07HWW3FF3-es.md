@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LICOR DEL POLO Junior pasta dentífrica f con un 0.00 % de descuento'
-date: 2021-01-30 01:27:31
+date: 2021-01-31 13:48:18
 image: 'https://m.media-amazon.com/images/I/31jOnlWrE1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'LICOR DEL POLO Junior pasta dentífrica fresa +6 años tubo 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Licor del Polo'
 buyurl: 'https://www.amazon.es/dp/B07HWW3FF3/?tag=tolees-21'
 descuento: '0.00'
 average: '1.99'
@@ -27,8 +28,8 @@ En este momento está [LICOR DEL POLO Junior pasta dentífrica fresa +6 años tu
 
 🔎:
 
-- Para niños mayores de +6 años que ya tienen dientes permamentes.
 - Su dulce sabor a fresa, hará del cepillado una experiencia agradable y divertida para los niños.
+- Para niños mayores de +6 años que ya tienen dientes permamentes.
 - 12h de protección
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HWW3FF3/?tag=tolees-21)
