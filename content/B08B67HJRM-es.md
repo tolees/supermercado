@@ -28,10 +28,10 @@ Ahora mismo tienes [Sanytol - Jabón de Manos de Cocina Antibacteriano  Elimina 
 
 🔎:
 
-- Deja las manos limpias, suaves, nutridas y delicadamente perfumadas
-- Preserva la hidratación natural de la piel gracias a un rico complejo lipídico similar al que conforma la estructura de nuestra epidermis;Fórmula probada dermatológica y clínicamente
-- Jabón de manos de cocina antibacteriano
 - Complejo anti malos olores de la comida (ajo, cebolla, pescado…)
+- Deja las manos limpias, suaves, nutridas y delicadamente perfumadas
+- Jabón de manos de cocina antibacteriano
 - Jabón de manos con protección contra las bacterias a base de extractos naturales de pomelo y limón verde con propiedades que eliminan los malos olores de la comida de tus manos
+- Preserva la hidratación natural de la piel gracias a un rico complejo lipídico similar al que conforma la estructura de nuestra epidermis;Fórmula probada dermatológica y clínicamente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08B67HJRM/?tag=tolees-21)
