@@ -28,12 +28,12 @@ Ahora mismo tienes [Marca Amazon - Happy Belly - Surtido de caramelos con sabor 
 
 🔎:
 
-- Paquete de 3
-- Apto para dietas vegetarianas
+- Con aromas naturales
 - Un surtido de sus caramelos con sabor a menta preferidos
+- Paquete de 3
+- Fabricado en el Reino Unido
+- Apto para dietas vegetarianas
 - Este envase contiene 20 porciones
 - No recomendado para niños menores de 36 meses
-- Fabricado en el Reino Unido
-- Con aromas naturales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086N7MBGJ/?tag=tolees-21)
