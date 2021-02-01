@@ -28,9 +28,9 @@ Está [Dicora UrbanFit - Dicora Urban Fit® Jabón De Manos Vitamina C 500ml](ht
 
 ℹ️:
 
-- La vitamina C activa las defensas y ayuda a frenar el envejecimiento prematuro de la piel.
+- Aporta una hidratación fresh para una piel elástica y en forma.
 - Jabón de manos nutritivo con refrescante extracto de frutas cítricas y melocotón.
 - Extractos naturales: melocotón y pomelo
-- Aporta una hidratación fresh para una piel elástica y en forma.
+- La vitamina C activa las defensas y ayuda a frenar el envejecimiento prematuro de la piel.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GVQQ1RK/?tag=tolees-21)
