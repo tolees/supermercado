@@ -28,10 +28,10 @@ Tienes [ISDIN Deo Germisdin Ultra 72h Desodorante - Controla la sudoración exce
 
 🔎:
 
-- Ayuda a prevenir el riesgo de infecciones
-- Puede utilizarse a diario por su excelente tolerabilidad cutánea, gracias a la glicina
 - Reduce la sudoración excesiva y el mal olor Uso diario por su buena tolerancia cutánea
 - Normaliza la producción de sudor y evita el mal olor; especifico para exceso de sudoración
+- Ayuda a prevenir el riesgo de infecciones
+- Puede utilizarse a diario por su excelente tolerabilidad cutánea, gracias a la glicina
 - Puede recibir un emabalaje con variaciones ya que hay nuevas versiones en el pack de este producto que no afectan al producto (misma fórmula).
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00J5FTF84/?tag=tolees-21)

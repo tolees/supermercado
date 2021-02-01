@@ -29,10 +29,10 @@ Tienes [Nestlé Alimentos Infantiles - Nestlé NIDINA 4 Leche de crecimiento en 
 ℹ️:
 
 - Nestlé experto en nutrición infantil
-- Nota importante: La leche materna es la mejor para los bebés; antes de utilizar una fórmula infantil conviene consultar a tu profesional de la salud
-- Leche de crecimiento nidina, fórmula infantil para bebés a partir de los 2 años
-- Proceso exclusivo de calidad proteica
 - Fórmula infantil única que contiene protect plus con bífidus lactis, una bifidobacteria que forma parte de la flora intestinal (bifidobacterium animalis subsp. Lactis cncm i-3446)
+- Nota importante: La leche materna es la mejor para los bebés; antes de utilizar una fórmula infantil conviene consultar a tu profesional de la salud
 - Leche para bebés con inmunonutrientes protectores (hierro, zinc, vitaminas a, c y d) que contribuyen a la función normal del sistema inmunitario
+- Proceso exclusivo de calidad proteica
+- Leche de crecimiento nidina, fórmula infantil para bebés a partir de los 2 años
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00W5O85LK/?tag=tolees-21)
