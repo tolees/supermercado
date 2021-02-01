@@ -29,8 +29,8 @@ Tienes [Conservas Cabezón Lata de Carrilleras de Cerdo - 800 gr](https://www.am
 🔎:
 
 - fácil de usar
+- 800 gr
 - producto de calidad
 - origen: España
-- 800 gr
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01HZ64BHO/?tag=tolees-21)
