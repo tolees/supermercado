@@ -28,10 +28,10 @@ En este momento está [Dove - Loción Coporal Avena - 400 ml](https://www.amazon
 
 🔎:
 
-- su fórmula nutre y suaviza la piel en profundidad
-- Una fragancia cálida y cremosa que satisface tus sentidos
-- Loción corporal indulgente apta para todo tipo de pieles
 - Inspirada en los rituales de belleza de las mujeres nórdicas
+- su fórmula nutre y suaviza la piel en profundidad
+- Loción corporal indulgente apta para todo tipo de pieles
+- Una fragancia cálida y cremosa que satisface tus sentidos
 - Dove loción calmante con leche de avena y miel de acacia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PPGMG8Q/?tag=tolees-21)

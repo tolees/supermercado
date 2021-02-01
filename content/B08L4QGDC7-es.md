@@ -28,10 +28,10 @@ Ahora mismo tienes [L Oréal - L Oreal Paris Make-up Designer Infalible Prebase 
 
 🔎:
 
-- Ahora en pack doble para que no se te acabe
-- Polímeros suavizantes que alisan la piel y borran imperfecciones
 - Aplicar por todo el rostro en movimientos circulares para preparar y alisar la superficie de la piel, antes de aplicar el maquillaje
-- De la gama INFALIBLE conocida por su larga duración
+- Polímeros suavizantes que alisan la piel y borran imperfecciones
+- Ahora en pack doble para que no se te acabe
 - Prebase de maquillaje alisadora Infalible: prolonga la duración de tu maquillaje
+- De la gama INFALIBLE conocida por su larga duración
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L4QGDC7/?tag=tolees-21)
