@@ -28,10 +28,10 @@ Tienes [Gel Micelar Limpiador facial  Limpia y Reconforta la piel  Para Todo Tip
 
 🔎:
 
-- Enriquecido con extracto de uva y micelas, Apto para todo tipo de pieles, incluso las sensibles, Sin perfume
-- Desmaquilla, limpia y reconforta, Captura las impurezas y el maquillaje como un imán
-- Gel desmaquillante de uso diario con tecnología micelar, Idóneo también para la ducha
-- Contenido: 3 x Gel Micelar Todo en Uno Garnier Skin Active, 200 ml
 - Aplicar generosamente sobre el rostro, ojos y labios húmedos y masajear con la yema de los dedos, Aclarar con agua
+- Gel desmaquillante de uso diario con tecnología micelar, Idóneo también para la ducha
+- Desmaquilla, limpia y reconforta, Captura las impurezas y el maquillaje como un imán
+- Contenido: 3 x Gel Micelar Todo en Uno Garnier Skin Active, 200 ml
+- Enriquecido con extracto de uva y micelas, Apto para todo tipo de pieles, incluso las sensibles, Sin perfume
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L4NYTGK/?tag=tolees-21)
