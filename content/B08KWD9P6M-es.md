@@ -28,10 +28,10 @@ Está [shenguang Funny Humor Novelty Vintage Video Game Pac Pizza 11oz café Tea
 
 ℹ️:
 
-- Tamaño: Ancho: 3.14 pulgadas, Alto: 3.1224 pulgadas.
 - Ideal para café / té / bebidas y mucho más.
-- Taza de gres hermosa con pintura de acuarela intrincada.
 - Material: Cerámica
+- Tamaño: Ancho: 3.14 pulgadas, Alto: 3.1224 pulgadas.
+- Taza de gres hermosa con pintura de acuarela intrincada.
 - Si no sabe qué elegir como regalo, nuestra taza es una buena opción. Nuestras tazas son perfectas para uso doméstico y de oficina.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KWD9P6M/?tag=tolees-21)

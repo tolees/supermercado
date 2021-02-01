@@ -28,11 +28,11 @@ Ahora mismo tienes [Gaggia Besana RI8081 - Máquina de café automática para ca
 
 🔎:
 
-- Cafetera automática, 100 % fabricada en Italia.
-- Molinillos 100% cerámicos ajustables en 5 niveles para un resultado a medida.
-- Panel clásico que emite vapor para emulsionar leche o agua caliente para té y tisanas
-- Pomo central con botones para un uso fácil y óptimo
 - Recipientes de fácil acceso para un uso y mantenimiento sencillos.
 - Producto para uso doméstico.
+- Molinillos 100% cerámicos ajustables en 5 niveles para un resultado a medida.
+- Cafetera automática, 100 % fabricada en Italia.
+- Pomo central con botones para un uso fácil y óptimo
+- Panel clásico que emite vapor para emulsionar leche o agua caliente para té y tisanas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07T95KHH7/?tag=tolees-21)
