@@ -30,8 +30,8 @@ En este momento está [Listerine  Go. Tabs  64 Comprimidos Masticables Sin Azúc
 
 - Listerine te ofrece una alternativa al enjuague bucal con comprimidos sólidos Go. Tabs para que sientas tu boca limpia y fresca, donde y cuando quieras
 - Listerine Go. Tabs no contiene alcohol y es apto para su ingesta; actúa contra las bacterias causantes del mal aliento y el olor tras las comidas y bebidas a lo largo del día
-- Contenido de envío: Paquete Listerine Go. Tabs 64 comprimidos comprimidos para una boca limpia y fresca
 - Comprimido de Listerine con forma rectangular que crea suficiente líquido al mascarlo como para enjuagarte y conseguir una sensación de limpieza total
 - Lo puedes usar en cualquier lugar y en cualquier momento: en el avión, cuando viajas en coche, en una cita, después de cada comida; disfruta de hasta 4h de aliento fresco
+- Contenido de envío: Paquete Listerine Go. Tabs 64 comprimidos comprimidos para una boca limpia y fresca
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07S1NDFN8/?tag=tolees-21)
