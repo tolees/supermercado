@@ -28,9 +28,9 @@ En este momento está [Elizabeth Arden - Britney Spears Fantasy Intimate Eau de 
 
 🔎:
 
+- Notas de salida: lichi, limón italiano (lima italiana) y hojas de violeta
+- Notas de corazón: lirio de los valles (muguete), jazmín, gineta, notas ozónicas y azúcar moreno
 - La fragancia Midnight Fantasy es un giro sofisticado de la fragancia original Britney Spears Fantasy
 - Notas de fondo: vainilla, heliotropo, almizcle blanco y benjuí
-- Notas de corazón: lirio de los valles (muguete), jazmín, gineta, notas ozónicas y azúcar moreno
-- Notas de salida: lichi, limón italiano (lima italiana) y hojas de violeta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B014T3WAME/?tag=tolees-21)

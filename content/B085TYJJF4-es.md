@@ -28,11 +28,11 @@ Tienes [Embutidos Ezequiel Chorizo Extra Picante 425 g](https://www.amazon.es/dp
 
 🔎:
 
+- Alto contenido proteico
 - Mantener en un lugar fresco y seco
+- Sin gluten y sin lactosa
 - Receta original desde 1945
 - Ahumado con leña de roble
-- Alto contenido proteico
 - Nuestro despiece es manual para asegurarnos que los ingredientes cumplan los máximos estándares
-- Sin gluten y sin lactosa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085TYJJF4/?tag=tolees-21)
