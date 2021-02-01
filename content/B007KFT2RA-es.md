@@ -28,10 +28,10 @@ Ahora mismo tienes [Sanytol - Toallitas desinfectantes Multisuperficies - 24 uni
 
 🔎:
 
-- Ideal para la cocina, los baño, juguetes y artículos de bebé (tronas, juguetes, cambiador) y artículos de mascotas
+- Tejido 100% biodegradable
+- Agradable aroma a eucalipto
 - Testado dermatológicamente
 - Limpia y desinfecta rápidamente, de una pasada
-- Agradable aroma a eucalipto
-- Tejido 100% biodegradable
+- Ideal para la cocina, los baño, juguetes y artículos de bebé (tronas, juguetes, cambiador) y artículos de mascotas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007KFT2RA/?tag=tolees-21)
