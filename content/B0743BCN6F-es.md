@@ -28,10 +28,10 @@ Está [Fackelmann Bolsa  Malla legumbres y verduras  Ca. 2kg  resiste 180ºC  36
 
 ℹ️:
 
-- Práctico: es elástica, con capacidad para 2kg. y resistente hasta 180ºC
-- 1 x bolsa para legumbres - calidad Fackelmann
-- Dimensiones aprox: 36,5x7,5cm
-- Aplicación: ideal para cocer en su interior legumbres y verduras para que éstas no se mezclen con el caldo
 - Material: nylon -apto para lavavajillas
+- 1 x bolsa para legumbres - calidad Fackelmann
+- Aplicación: ideal para cocer en su interior legumbres y verduras para que éstas no se mezclen con el caldo
+- Práctico: es elástica, con capacidad para 2kg. y resistente hasta 180ºC
+- Dimensiones aprox: 36,5x7,5cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0743BCN6F/?tag=tolees-21)

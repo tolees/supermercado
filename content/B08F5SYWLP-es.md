@@ -29,9 +29,9 @@ Tienes [Syoss - Acondicionador Keratin - 6uds de 440Ml  2640ml ](https://www.ama
 ℹ️:
 
 - Repara en profundidad a la vez que recupera la keratina perdida
-- Suaviza y ayuda a alisar el cabello
-- Su fórmula con tecnología AMINO COMPLEX y FLOR DE LOTO controla el encrespamiento
 - Nueva gama Syoss para el cabello Encrespado y Seco
+- Suaviza y ayuda a alisar el cabello
 - Acondicionador para el cabello encrespado
+- Su fórmula con tecnología AMINO COMPLEX y FLOR DE LOTO controla el encrespamiento
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08F5SYWLP/?tag=tolees-21)

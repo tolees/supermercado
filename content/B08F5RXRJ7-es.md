@@ -28,10 +28,10 @@ Ahora mismo tienes [Syoss - Champú Keratin - 6uds de 440Ml  2640ml ](https://ww
 
 🔎:
 
-- Repara en profundidad a la vez que recupera la keratina perdida
 - Nueva gama Syoss para el cabello Encrespado y Seco.
 - Champú para un cabello como recién salido de la peluquería
-- Su fórmula con tecnología AMINO COMPLEX y FLOR DE LOTO controla el encrespamiento
 - Suaviza y ayuda a alisar el cabello
+- Su fórmula con tecnología AMINO COMPLEX y FLOR DE LOTO controla el encrespamiento
+- Repara en profundidad a la vez que recupera la keratina perdida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08F5RXRJ7/?tag=tolees-21)
