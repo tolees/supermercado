@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cidacos Conservas Vegetales 640 g al 0.00 % de rebaja'
-date: 2021-01-31 02:09:47
+date: 2021-02-01 20:54:08
 image: 'https://m.media-amazon.com/images/I/41d2beSc91L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Cidacos Conservas Vegetales 640 g](https://www.amazon.es/dp/B08Q4JPKLG/?
 
 🔎:
 
-- Mantener en un lugar fresco y seco
-- Origen España
 - Maíz dulce
+- Mantener en un lugar fresco y seco
 - Calidad Extra
+- Origen España
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08Q4JPKLG/?tag=tolees-21)
