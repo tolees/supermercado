@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en quejara - LOTE- CESTA DE NAVIDAD BODEGA'
-date: 2021-01-31 01:57:59
+date: 2021-02-01 08:27:06
 image: 'https://m.media-amazon.com/images/I/51N3r29Bm+L._SL200_.jpg'
 comments: true
 category: ofertas

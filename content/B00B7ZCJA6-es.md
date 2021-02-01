@@ -29,9 +29,9 @@ Está [Gothika Joseph Maeser 925340 Botes para conservas  Cristal  6 Unidades ](
 ℹ️:
 
 - conservar y preservar
-- lavavajillas adecuado
-- 1,00 l
-- preservar todo tipo de frutas y verduras
 - multifuncional durante el uso diario
+- preservar todo tipo de frutas y verduras
+- 1,00 l
+- lavavajillas adecuado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00B7ZCJA6/?tag=tolees-21)
