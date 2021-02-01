@@ -28,14 +28,14 @@ Ahora mismo tienes [Ariel Detergente Líquido para Lavadora  Active Odour Contro
 
 🔎:
 
-- Quitamanchas
-- Limpieza profunda e higiene
 - Eficaz en frío (incluso a 30ºC)
+- Botella 100% reciclable
+- Limpieza profunda e higiene
+- Resultados óptimos desde el primer lavado
+- Fragancia intensa
+- Quitamanchas
+- Iluminador
 - Por razones medioambientales, las botellas no cuentan con un tapón medidor pero puedes pedirlo de forma gratuita en el sitio web ariel
 - Elimina el mal olor
-- Botella 100% reciclable
-- Iluminador
-- Fragancia intensa
-- Resultados óptimos desde el primer lavado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RPZCKDW/?tag=tolees-21)
