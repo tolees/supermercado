@@ -28,8 +28,8 @@ En este momento está [Central Lechera Asturiana - Leche UHT Entera - 1 L](https
 
 🔎:
 
-- Una vez abierto conservar en el frigorifico
-- Contiene Leche o derivados de la leche (lactosa)
 - Peso neto de 1 L
+- Contiene Leche o derivados de la leche (lactosa)
+- Una vez abierto conservar en el frigorifico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008UDGYQ8/?tag=tolees-21)

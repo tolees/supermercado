@@ -29,9 +29,9 @@ Tienes [SIERRA PRIETA - Aceite de Oliva Virgen Extra 5 Litros Picual y Cornicabr
 🔎:
 
 - 🏡 NUESTRA ALMAZARA: Los métodos de elaboración con estrictos controles de calidad hacen que nuestros aceites sean diferentes, potenciando los aromas y disminuyendo las emulsiones, conservando todos los componentes causantes de los aromas y sabores frutados.
-- 🌿 CATA ORGANOLÉPTICA: Aceite de intensidad medio de frutado con combinación equilibrada de matices verdes-maduros, signo del momento óptimo de maduración. En nariz y boca marca su personalidad basado en un amargor y picante con carácter pero equilibrado.
-- 🌳 MARCA “SIERRA PRIETA”: Su nombre proviene de un paraje donde se encuentran olivos centenarios y de gran producción. Sierra Prieta es el resultado de muchos años de experiencia y pasión en el mundo del olivar, una larga y reconocida tradición desde 1970.
 - 💚 PROPIEDADES BENEFICIOSAS: Conocido como el Oro Líquido, el AOVE aporta múltiples beneficios para el organismo, entre los que destacan el control del colesterol, mejora de la circulación, ayuda en la pérdida de peso y prevención de la artritis y diabetes.
 - 🥇 ACEITE DE CATEGORÍA SUPERIOR: Aceite de Oliva Virgen Extra de color verde intenso, limpio y brillante. Se trata de un aceite elaborado con aceitunas en su punto óptimo de maduración, lo que hace que sea un aceite con un frutado excelente.
+- 🌳 MARCA “SIERRA PRIETA”: Su nombre proviene de un paraje donde se encuentran olivos centenarios y de gran producción. Sierra Prieta es el resultado de muchos años de experiencia y pasión en el mundo del olivar, una larga y reconocida tradición desde 1970.
+- 🌿 CATA ORGANOLÉPTICA: Aceite de intensidad medio de frutado con combinación equilibrada de matices verdes-maduros, signo del momento óptimo de maduración. En nariz y boca marca su personalidad basado en un amargor y picante con carácter pero equilibrado.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HDNVYK9/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Spontex Mopa Extra Plana con 2 Recambios Adicionales 1000 g 
 
 🔎:
 
-- EFICIENTE: 2 recargas de microfibra diferentes, elimina el 99% de las bacterias. La recarga blanca recoge todo tipo de suciedad y polvo, ideal para la limpieza en seco
-- PRÁCTICO: Fácil de manejar con su cabezal de trapeador plano giratorio y grande de 360 °
-- De la marca Spontex
 - USO MÚLTIPLE: Uso húmedo y seco, en todo tipo de superficies (baldosas, laminados .)
+- De la marca Spontex
+- PRÁCTICO: Fácil de manejar con su cabezal de trapeador plano giratorio y grande de 360 °
+- EFICIENTE: 2 recargas de microfibra diferentes, elimina el 99% de las bacterias. La recarga blanca recoge todo tipo de suciedad y polvo, ideal para la limpieza en seco
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084L8DHT2/?tag=tolees-21)
