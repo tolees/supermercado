@@ -28,9 +28,9 @@ Está [Lindt Excellence – Tableta de chocolate negro 85% cacao  100 g](https:/
 
 ℹ️:
 
-- Chocolates negros
 - En formato de 100 gramos y con 85% cacao
-- Tiene un aporte nutricional de  584 kcal
+- Chocolates negros
 - Puede contener granos de sésamo y otros frutos de cáscara
+- Tiene un aporte nutricional de  584 kcal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B005AW7WD6/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELPOZO jamÃ³n de pavo con trufa y boletu al 0.00 % de descuento'
-date: 2021-02-01 20:22:48
+date: 2021-02-02 20:58:00
 image: 'https://m.media-amazon.com/images/I/41tv4QjMYzL._SL200_.jpg'
 comments: true
 category: ofertas
