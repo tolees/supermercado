@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish Limpiamáquinas - Líquido para lav con un 23.53 % de descuento'
-date: 2021-02-01 13:35:40
+date: 2021-02-02 14:12:43
 image: 'https://m.media-amazon.com/images/I/41uQEK7R70L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Finish'
 buyurl: 'https://www.amazon.es/dp/B07QBQH8GD/?tag=tolees-21'
 descuento: '23.53'
-average: '12.5084615384615'
+average: '12.4903797468354'
 ---
 
 En este momento está [Finish Limpiamáquinas - Líquido para lavavajillas contra cal  grasa y mal olor - 4 Unidades](https://www.amazon.es/dp/B07QBQH8GD/?tag=tolees-21) a 11.08 EUR (original: 14.49 EUR) (23.53 %  de descuento) en el siguiente enlace!
