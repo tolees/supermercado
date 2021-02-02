@@ -28,8 +28,8 @@ Está [Lázaro Rosco De Chocolate Con Pepitas. 400g](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Rosco de Bizcocho artesano de chocolate con pepitas, en molde de papel, Hornada artesana. 400g
-- Hornada artesana y sabor tradicional, sin aceite de palma
 - Receta tradicional, sin colorantes ni aromas artificiales
+- Hornada artesana y sabor tradicional, sin aceite de palma
+- Rosco de Bizcocho artesano de chocolate con pepitas, en molde de papel, Hornada artesana. 400g
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086X2LDW6/?tag=tolees-21)
