@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Gvtarra Menestra Navarra - Paquete de 6 '
-date: 2021-01-30 07:14:48
+date: 2021-02-02 02:35:58
 image: 'https://m.media-amazon.com/images/I/51k5aTVRYcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gvtarra'
 buyurl: 'https://www.amazon.es/dp/B072QFDB5T/?tag=tolees-21'
 descuento: '0.00'
-average: '32.0127272727272'
+average: '31.8899999999999'
 ---
 
 Tienes [Gvtarra Menestra Navarra - Paquete de 6 x 425 gr](https://www.amazon.es/dp/B072QFDB5T/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 30.54 EUR (original:  EUR) en el siguiente enlace!

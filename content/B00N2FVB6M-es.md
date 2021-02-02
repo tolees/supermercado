@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana - Leche UHT Se al 0.00 % de descuento'
-date: 2021-01-17 17:34:24
+date: 2021-02-02 02:52:02
 image: 'https://m.media-amazon.com/images/I/41EEgTKdrTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N2FVB6M-es'
+slug: 'B00N2FVB6M-es Central Lechera Asturiana - Leche UHT Semidesnatada - 1 L'
+sku: 'B00N2FVB6M-es'
+tags: [ 'central','lechera', ]
 actualPrice: 2.45 EUR
 currency: EUR
 price: 2.45
@@ -14,9 +16,10 @@ comparePrice:  EUR
 prodname: 'Central Lechera Asturiana - Leche UHT Semidesnatada - 1 L'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Central Lechera Asturiana'
 buyurl: 'https://www.amazon.es/dp/B00N2FVB6M/?tag=tolees-21'
 descuento: '0.00'
-average: '2.382857142857143'
+average: '2.39777777777778'
 ---
 
 Está [Central Lechera Asturiana - Leche UHT Semidesnatada - 1 L](https://www.amazon.es/dp/B00N2FVB6M/?tag=tolees-21) con 0.00 de descuento por 2.45 EUR (original:  EUR) en el siguiente enlace!
@@ -25,8 +28,8 @@ Está [Central Lechera Asturiana - Leche UHT Semidesnatada - 1 L](https://www.am
 
 ℹ️:
 
-- Peso neto de 1 L
-- Contiene Leche o derivados de la leche (lactosa)
 - Una vez abierto conservar en el frigorifico
+- Contiene Leche o derivados de la leche (lactosa)
+- Peso neto de 1 L
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00N2FVB6M/?tag=tolees-21)
