@@ -28,8 +28,8 @@ En este momento está [Bimbo  Dulce de chocolate - 188 g](https://www.amazon.es/
 
 🔎:
 
+- Bimbo Little Bites Pepitas de Chocolate
 - Su formato es ideal para llevar a donde tú quieras
 - Mantener en lugar fresco y seco
-- Bimbo Little Bites Pepitas de Chocolate
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ND1SFX3/?tag=tolees-21)
