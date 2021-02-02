@@ -28,10 +28,10 @@ En este momento está [San Jamón - Cesta Regalo Gourmet Ibérica  Béjar. Chori
 
 🔎:
 
-- Cesta de Productos Gourmet
 - Chorizo, Lomo y Salchichón Ibéricos
-- Disfruta de los mejores jamones y embutidos ibéricos de San Jamón
 - Una deliciosa selección de productos gourmet ibéricos
 - El regalo perfecto para esta Navidad
+- Cesta de Productos Gourmet
+- Disfruta de los mejores jamones y embutidos ibéricos de San Jamón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MWPTQFN/?tag=tolees-21)
