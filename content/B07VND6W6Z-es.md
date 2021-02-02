@@ -28,11 +28,11 @@ Está [Cock Pasta de Curry Verde Cock  Muy Picante  Cocina Auténtica Tailandesa
 
 ℹ️:
 
-- Ingredientes: Chile verde fresco 33%, limoncillo, ajo, chalotes, sal, galanga, comino, semillas de cilantro
-- VARIADO: la pasta de curry tailandés también es ideal para condimentar platos con fideos, con arroz, o para marinar carnes
-- CURRY CREMOSO: la pasta de curry verde de COCK es la base ideal para un delicioso y auténtico curry tailandés, picante y aromático
 - Instrucciones para su uso adecuado: Agregar 50 g de pasta de curry con 2 cucharadillas de aceite vegetal en un wok y saltear durante unos minutos, añadir 400 ml de leche de coco y cocinar a fuego medio; agregar la carne y la verdura, condimentar, cocinar a fuego lento y servir con arroz
+- CURRY CREMOSO: la pasta de curry verde de COCK es la base ideal para un delicioso y auténtico curry tailandés, picante y aromático
 - AUTÉNTICO Y PURO: Las pastas de curry de COCK no contienen potenciadores de sabor, colorantes ni conservantes añadidos
 - PICANTE Y AROMÁTICO: la pasta de curry verde picante es elaborada con una receta auténtica tailandesa que contiene entre otros ingredientes naturales un 33 % de chiles
+- VARIADO: la pasta de curry tailandés también es ideal para condimentar platos con fideos, con arroz, o para marinar carnes
+- Ingredientes: Chile verde fresco 33%, limoncillo, ajo, chalotes, sal, galanga, comino, semillas de cilantro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VND6W6Z/?tag=tolees-21)
