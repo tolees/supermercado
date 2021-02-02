@@ -28,9 +28,9 @@ Tienes [Urban GoCo - Lámpara de noche Lina  3 piedras  color melocotón](https:
 
 ℹ️:
 
-- Esta lámpara es adecuada para bombillas de clase energética A++ a E en una escala de A++ (muy eficiente) a E (menos eficiente).
-- Lámpara para mesita de noche con base de cerámica con efecto piedra, compuesta por tres piedras ovaladas de diferentes tamaños y formas realistas, así como una pantalla redonda de tela.
 - Tamaño: 17,5 x 17,5 cm, 24,5 cm de alto.
+- Lámpara para mesita de noche con base de cerámica con efecto piedra, compuesta por tres piedras ovaladas de diferentes tamaños y formas realistas, así como una pantalla redonda de tela.
+- Esta lámpara es adecuada para bombillas de clase energética A++ a E en una escala de A++ (muy eficiente) a E (menos eficiente).
 - Color: melocotón, crema, marrón.
 - Casquillo/bombilla: 1 x E14 de máx. 40 W (bombilla no incluida) Adecuado para: bombillas LED, bombillas halógenas, bombillas de bajo consumo, bombillas convencionales.
 

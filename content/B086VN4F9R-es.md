@@ -28,8 +28,8 @@ Tienes [Garnier Bio - GARNIER  Bio Pack Antiedad Crema Antiedad Con Aceite Esenc
 
 🔎:
 
-- Tratamiento anti-edad para una piel más suave y firme
 - Crema anti-edad de Lavanda unifica las propiedades regeneradoras del Aceite Esencial de Lavanda ecológico con la eficacia que aportan el Aceite de Argán ecológico y la vitamina E antioxidante.  
 - BIO. Lo compre porque es natural me lo quede porque funicona
+- Tratamiento anti-edad para una piel más suave y firme
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086VN4F9R/?tag=tolees-21)
