@@ -28,8 +28,8 @@ Ahora mismo tienes [L Oréal Professionnel - L Oreal Vitamino Color Mascarilla C
 
 🔎:
 
+- Marca - LOREAL
 - Género - Unisex
 - Tipo de producto - Mascarilla capilar
-- Marca - LOREAL
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071KC97DY/?tag=tolees-21)
