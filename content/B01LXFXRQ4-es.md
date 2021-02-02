@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnnie Walker Doble Black Whisky Escocé al 0.00 % de rebaja'
-date: 2021-02-01 07:45:23
+date: 2021-02-02 08:14:43
 image: 'https://m.media-amazon.com/images/I/41KkmPzg7JL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Johnnie Walker Doble Black Whisky Escocés - 70 cl](https://www.amazon.e
 
 🔎:
 
+- Después de seleccionar los whiskies por sus características notas de carbón de leña y cenizas, la mezcla se introduce en barricas de roble
 - El sabor es ahumado, con notas de vainilla cremosa, madera y frutos secos dulces
 - Cantidad de 700 ml con 40% alcohol
 - Puede ser disfrutado sólo, con hielo o con un poco de agua
-- Después de seleccionar los whiskies por sus características notas de carbón de leña y cenizas, la mezcla se introduce en barricas de roble
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LXFXRQ4/?tag=tolees-21)
