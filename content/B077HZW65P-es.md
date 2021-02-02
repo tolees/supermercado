@@ -29,8 +29,8 @@ Tienes [Moussel Gel Líquido Classique con Aceites Esenciales Naturales - Paquet
 ℹ️:
 
 - Mantiene la textura e hidratación natural
-- Gel de ducha Moussel Clasico
 - Tiene textura cremosa
+- Gel de ducha Moussel Clasico
 - Aporta frescor y bienestar
 - Tiene una textura cremosa
 
