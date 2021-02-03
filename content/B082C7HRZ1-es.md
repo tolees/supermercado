@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CBROSEY Champu Antipulgas Gatos Champú A al 0.00 % de descuento'
-date: 2021-01-25 16:19:56
+date: 2021-02-03 11:11:08
 image: 'https://m.media-amazon.com/images/I/51hh9HOO31L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'CBROSEY Champu Antipulgas Gatos Champú Antipulgas para Perros Champú Antipulgas Anti-Itch Perro Champú Pieles Sensibles con Picazón En Perros y Cachorros'
 country: 'es'
 flag: '🇪🇸'
+brand: 'CBROSEY'
 buyurl: 'https://www.amazon.es/dp/B082C7HRZ1/?tag=tolees-21'
 descuento: '0.00'
 average: '15.99'
