@@ -28,8 +28,8 @@ Ahora mismo tienes [Boss Desodorante 1 unidad 105 g](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Desodorantes boss
 - Desodorante baño e higiene personal unisex adulto
+- Desodorantes boss
 - Boss bottled unlimited deo stick 75 gr (8005610340852)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M5B2NZW/?tag=tolees-21)

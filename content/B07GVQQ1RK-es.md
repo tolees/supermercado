@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dicora UrbanFit - Dicora Urban Fit® Jabó al 0.00 % de descuento'
-date: 2021-02-01 01:59:50
+date: 2021-02-03 20:41:17
 image: 'https://m.media-amazon.com/images/I/31Lm87FxPiL._SL200_.jpg'
 comments: true
 category: ofertas
