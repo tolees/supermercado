@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Descuento del 14.19 % en Connemara Peated Single Malt Whisky Irla'
+date: 2021-02-03 07:01:21
+image: 'https://m.media-amazon.com/images/I/51GaGh4rj0L._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B00BERLBG0-es Connemara Peated Single Malt Whisky Irlandes 40% - 700 ml'
+sku: 'B00BERLBG0-es'
+tags: [ 'whisky', ]
+actualPrice: 23.4 EUR
+currency: EUR
+price: 23.4
+comparePrice: 27.27 EUR
+prodname: 'Connemara Peated Single Malt Whisky Irlandes  40% - 700 ml'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Connemara'
+buyurl: 'https://www.amazon.es/dp/B00BERLBG0/?tag=tolees-21'
+descuento: '14.19'
+average: '23.0351851851852'
+---
+
+Tienes [Connemara Peated Single Malt Whisky Irlandes  40% - 700 ml](https://www.amazon.es/dp/B00BERLBG0/?tag=tolees-21) con un 14.19 % de descuento con precio de oferta de 23.4 EUR (original: 27.27 EUR) en el siguiente enlace!
+
+[![Connemara Peated Single Malt Whisky Irla](https://m.media-amazon.com/images/I/51GaGh4rj0L._SL200_.jpg)](https://www.amazon.es/dp/B00BERLBG0/?tag=tolees-21)
+
+ℹ️:
+
+- Aroma: cebada dulce con humo de turba, arenques y migajas de manzana bien horneadas
+- País de origen: Irlanda
+- Tiempo de envejecimiento en barril: 12 años
+- Sabor: miel, en lugar de humo de hollín con notas vegetales turbias, agua dulce de cebada, especias ligeras y roble de vainilla
+- Contenido de alcohol 40%
+
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BERLBG0/?tag=tolees-21)
