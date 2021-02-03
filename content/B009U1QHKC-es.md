@@ -28,9 +28,9 @@ Está [Dove Original  Crema de belleza en barra  1 x 100 g](https://www.amazon.e
 
 ℹ️:
 
+- Con los productos adecuados puedes experimentar esta sensación todos los días
+- Tipo de piel: seca
 - No hay nada como sentir tu piel suave y sedosa
 - Por eso, es importante utilizar productos que no resequen la piel
-- Tipo de piel: seca
-- Con los productos adecuados puedes experimentar esta sensación todos los días
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B009U1QHKC/?tag=tolees-21)
