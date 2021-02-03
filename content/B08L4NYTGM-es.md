@@ -28,10 +28,10 @@ Tienes [Agua Micelar Sensitive  Desmaquillante para Ojos  Labios y Rostro  Limpi
 
 🔎:
 
-- Limpiador facial que limpia, desmaquilla y alivia la piel en un solo gesto específicamente diseñado para pieles sensibles
-- Contenido: 3 x Agua Micelar Sensitive Garnier Skin Active, 400 ml
-- Elimina eficazmente sin esfuerzo el maquillaje, Limpia, alivia y relaja la piel sin resecar
 - Fórmula que combina la eficacia de las micelas con el aceite de aciano, Indicada para pieles y ojos muy sensibles, Apta para usuarios de lentillas, Testado dermatológicamente
 - Agitar hasta obtener un color homogéneo, Aplicar sobre el rostro, ojos y labios con un algodón, Sin aclarado
+- Elimina eficazmente sin esfuerzo el maquillaje, Limpia, alivia y relaja la piel sin resecar
+- Contenido: 3 x Agua Micelar Sensitive Garnier Skin Active, 400 ml
+- Limpiador facial que limpia, desmaquilla y alivia la piel en un solo gesto específicamente diseñado para pieles sensibles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L4NYTGM/?tag=tolees-21)

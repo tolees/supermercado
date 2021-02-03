@@ -28,9 +28,9 @@ Ahora mismo tienes [Garnier SkinActive Mask 5 tipos de mascarillas   8 unidades 
 
 🔎:
 
-- Dale un gustazo a tu piel
 - Producto que combina tradición e innovación
-- Disfruta de la mascarilla que se adapte a las necesidades de tu piel con esta mask box tissu; 8 x 5 mascarillas: energizante, calmante, matificante, iluminadora, reparadora, anti-fatiga y revitalizante
 - Elige entre 8 beneficios diferentes: energizante, calmante, matificante, detox, iluminadora, reparadora, anti-fatiga y revitalizante
+- Disfruta de la mascarilla que se adapte a las necesidades de tu piel con esta mask box tissu; 8 x 5 mascarillas: energizante, calmante, matificante, iluminadora, reparadora, anti-fatiga y revitalizante
+- Dale un gustazo a tu piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08G98FGS2/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Maybelline New York - Superstay 24H  Pintalabios Mate de Larga Duración 
 
 ℹ️:
 
-- Su fórmula Micro-flexible proporciona a tus labios 24 horas de color sin desvanecerse, a la vez que lo resiste todo: roces, calor, humedad
 - Paso 2: El bálsamo hidratante mantiene la humedad óptima de tus labios durante todo el día
-- Sigue tu ritmo frenético desde la mañana hasta la noche sin necesidad de retoques
-- SuperStay 24H es el primer pintalabios que desafía los límites de la larga duración, sin manchar ni agrietar tus labios
 - Paso 1: El aplicador mejorado imprime a tus labios un color intenso, de una sola pasada y de forma fácil
+- Su fórmula Micro-flexible proporciona a tus labios 24 horas de color sin desvanecerse, a la vez que lo resiste todo: roces, calor, humedad
+- SuperStay 24H es el primer pintalabios que desafía los límites de la larga duración, sin manchar ni agrietar tus labios
+- Sigue tu ritmo frenético desde la mañana hasta la noche sin necesidad de retoques
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078J4TGD1/?tag=tolees-21)
