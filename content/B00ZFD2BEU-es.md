@@ -28,8 +28,8 @@ Ahora mismo tienes [MSV 141601 - poliresina Luanda dispensador de jabón  Color 
 
 🔎:
 
-- Dimensiones: 8,6 x 6 x 18,5 cm
 - Color: negro
 - Dispensador de jabón independiente para baño y WC
+- Dimensiones: 8,6 x 6 x 18,5 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00ZFD2BEU/?tag=tolees-21)

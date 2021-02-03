@@ -29,12 +29,12 @@ Está [Diadermine - Expert Rejuvenecedor Crema de Noche - Piel más firme y rede
 ℹ️:
 
 - La producción natural de colágeno se ve potenciada y re-densifica la piel suavizando las arrugas
+- Unidad de medida: mililitro
+- Número de items: 1
+- Unidades: 50.0
+- Tecnología ganadora del premio novel
 - Tipo de piel: sensible
 - Piel intensamente nutrida y suave desde la primera aplicación
 - Repara activamente los daños existentes al adn para un rejuvenecimiento en profundidad de las células
-- Unidades: 50.0
-- Tecnología ganadora del premio novel
-- Número de items: 1
-- Unidad de medida: mililitro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XC7VK16/?tag=tolees-21)

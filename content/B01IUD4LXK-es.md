@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Conservas Dantza Alcachofa - 660 gr al 0.00 % de rebaja'
-date: 2021-02-01 08:36:14
+date: 2021-02-03 08:59:56
 image: 'https://m.media-amazon.com/images/I/41OjcXX6jvL._SL200_.jpg'
 comments: true
 category: ofertas
