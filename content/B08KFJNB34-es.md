@@ -28,12 +28,12 @@ Tienes [HARIBO Balla Stixx Fresa   1 x 175 g](https://www.amazon.es/dp/B08KFJNB3
 
 🔎:
 
-- Piezas en forma de sticks largos de regaliz rojo rellenos.
-- Información de alérgenos: wheat
-- Sabor fresa y nata.
+- Unidad de medida: gramo
 - Instrucciones para su uso adecuado: para todas las edades.
 - Geles dulces sabor fresa.
 - Unidades: 175.0
-- Unidad de medida: gramo
+- Información de alérgenos: wheat
+- Sabor fresa y nata.
+- Piezas en forma de sticks largos de regaliz rojo rellenos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KFJNB34/?tag=tolees-21)

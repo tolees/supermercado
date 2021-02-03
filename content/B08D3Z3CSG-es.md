@@ -28,10 +28,10 @@ En este momento está [KOFFIE CUP EST. 2020 - KoffieCup Decaffeinated 40 Cápsul
 
 🔎:
 
-- Nuestras cápsulas son 100% compostables a partir de recursos naturales, las puedes depositar en tu contenedor de residuos alimentarios y otros desechos
-- Cápsulas compatibles para máquinas Nespresso*, marca registrada de Société des Produits Nestlé S.A. No compatibles con máquinas LOr
+- Pack de 4 estuches de 10 cápsulas. Total de 40 cápsulas de 5g/ cápsula
 - Receta Decaffeinated intensidad 10- café descafeinado con todo el sabor del café puro
 - Es un café descafeinado con todo el sabor del café puro. Aroma a madera, notas especiadas y frutos secos. Elaborado con todos los ingredientes que la tierra nos da. Recuerdos de lo artesanal y lo autóctono. Con una suave acidez y textura cremosa que deleitará tu paladar
-- Pack de 4 estuches de 10 cápsulas. Total de 40 cápsulas de 5g/ cápsula
+- Nuestras cápsulas son 100% compostables a partir de recursos naturales, las puedes depositar en tu contenedor de residuos alimentarios y otros desechos
+- Cápsulas compatibles para máquinas Nespresso*, marca registrada de Société des Produits Nestlé S.A. No compatibles con máquinas LOr
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08D3Z3CSG/?tag=tolees-21)
