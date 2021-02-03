@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LAPASION - Plum Cake integral con fructo al 0.00 % de descuento'
-date: 2021-02-02 14:14:33
+date: 2021-02-03 14:45:55
 image: 'https://m.media-amazon.com/images/I/51+jtVhbHJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [LAPASION - Plum Cake integral con fructosa. Bizcocho con frutas y pasas 2
 
 ℹ️:
 
-- NO contiene aceite de PALMA
-- Caja 2.5 Kg. Envuelto individualmente.
-- Jugoso bizcocho integral con fructosa.
 - Caducidad 4 meses desde su envasado.
 - Plum Cake integral con fructosa, bizcocho con frutas y pasas en su interior.
+- Jugoso bizcocho integral con fructosa.
+- NO contiene aceite de PALMA
+- Caja 2.5 Kg. Envuelto individualmente.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V6X1GCK/?tag=tolees-21)

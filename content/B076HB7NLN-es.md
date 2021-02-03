@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Deliex delicias de Extremadura - cesta d al 0.00 % de descuento'
-date: 2021-02-02 14:08:05
+date: 2021-02-03 14:35:26
 image: 'https://m.media-amazon.com/images/I/51u43itfIdL._SL200_.jpg'
 comments: true
 category: ofertas

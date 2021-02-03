@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lindt Lindor Lata Corazón de San Valentí al 0.00 % de descuento'
-date: 2021-01-30 09:39:33
+date: 2021-02-03 14:55:26
 image: 'https://m.media-amazon.com/images/I/41tMiIfdYHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [Lindt Lindor Lata Corazón de San Valentín - Bombones de chocolate con l
 ℹ️:
 
 - Puede contener avellanas y otros frutos de cáscara
-- Fabricado en Italia
 - Lata con forma de corazón que contiene los exquisitos bombones Lindor de chocolate con leche
-- El mejor regalo para San Valentín
 - El envase contiene: 20 bombones Lindor Leche
+- Fabricado en Italia
+- El mejor regalo para San Valentín
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IURTYFQ/?tag=tolees-21)

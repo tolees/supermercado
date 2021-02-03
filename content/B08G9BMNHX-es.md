@@ -28,8 +28,8 @@ Tienes [Garnier Skin Active Nutri Bomb Milky Mask Tissu Iluminadora x5 unidades 
 
 🔎:
 
+- Dale un gustazo a tu piel  
 - Dale un gustazo a tu piel con la primera mascarilla de tejido de Garnier impregnada en leche hidratante para nutrir y reparar tu piel en 15 minutos 
 - Al desplegarla sobre el rostro, su increíble formula descarga toda la eficacia de su leche de coco para saciar y refrescar la piel instante, otorgándote un momento de bienestar
-- Dale un gustazo a tu piel  
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08G9BMNHX/?tag=tolees-21)

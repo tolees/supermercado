@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Ensalada marinera con mejillones calvo 1'
-date: 2021-02-02 08:59:59
+date: 2021-02-03 14:38:54
 image: 'https://m.media-amazon.com/images/I/411NeEaFp8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Ensalada marinera con mejillones calvo 150g](https://www.amazon.es/dp/B0
 
 ℹ️:
 
+- una vez abierto, consevar en el frigorifico y consumir en 24 horas
+- Fabricado en Galicia
 - Ingredientes: Mezcla vegetal, mejillon, aceite e girasol, vinagre de vino y sal
 - Alergenos: moluscos
-- Fabricado en Galicia
-- una vez abierto, consevar en el frigorifico y consumir en 24 horas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00MTEWOPE/?tag=tolees-21)
