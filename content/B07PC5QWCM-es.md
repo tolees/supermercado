@@ -28,8 +28,8 @@ Tienes [RITUALS The Ritual of Sakura Jabón de Manos  300 ml](https://www.amazon
 
 ℹ️:
 
-- Una o dos dosis serán suficientes para lavarte las manos
-- Jabón líquido para manos hecho con leche de arroz y flor de cerezo
 - Cuida las manos al lavarlas gracias a la fórmula sin jabón y con ingredientes hidratantes
+- Jabón líquido para manos hecho con leche de arroz y flor de cerezo
+- Una o dos dosis serán suficientes para lavarte las manos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07PC5QWCM/?tag=tolees-21)
