@@ -28,8 +28,8 @@ Ahora mismo tienes [Central Lechera Asturiana - Leche UHT Semidesnatada - Botell
 
 🔎:
 
-- Peso neto de 1.5 L
 - Una vez abierto conservar en el frigorifico
 - Contiene Leche o derivados de la leche (lactosa)
+- Peso neto de 1.5 L
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01DUVR7YM/?tag=tolees-21)

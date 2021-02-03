@@ -29,8 +29,8 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Mezcla de frutas y frutos secos c
 🔎:
 
 - Contiene anacardos, almendras blaqueadas, pasas, arándanos deshidratados y azucarados (arándanos, azúcar, aceite de girasol), Physalis deshidratados, cerezas deshidratadas y azucaradas (cerezas, azúcar, aceite de girasol)
+- Sin sal añadida
 - Rico en fibra
 - Apto para dietas vegetarianas y veganas
-- Sin sal añadida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BNSKLTK/?tag=tolees-21)
