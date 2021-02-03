@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nivea - Jabón de manos con dispensador   al 0.00 % de rebaja'
-date: 2021-02-02 02:21:26
+date: 2021-02-03 15:14:47
 image: 'https://m.media-amazon.com/images/I/413BF7bwNvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Nivea - Jabón de manos con dispensador  pack de 6  6x 250 ml ](https://
 
 🔎:
 
-- PH equilibrado, compatible con la piel
-- Contiene aceite de almendras y tiene un olor suave
 - Compatibilidad cutánea dermatológicamente aprobada
+- Contiene aceite de almendras y tiene un olor suave
+- PH equilibrado, compatible con la piel
 - Protege las manos contra la sequedad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00UT9AUCU/?tag=tolees-21)
