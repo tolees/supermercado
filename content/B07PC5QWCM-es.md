@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en RITUALS The Ritual of Sakura Jabón de Ma'
-date: 2021-02-01 13:52:25
+date: 2021-02-03 02:25:30
 image: 'https://m.media-amazon.com/images/I/31EHUDLP3EL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [RITUALS The Ritual of Sakura Jabón de Manos  300 ml](https://www.amazon
 
 ℹ️:
 
+- Cuida las manos al lavarlas gracias a la fórmula sin jabón y con ingredientes hidratantes
 - Una o dos dosis serán suficientes para lavarte las manos
 - Jabón líquido para manos hecho con leche de arroz y flor de cerezo
-- Cuida las manos al lavarlas gracias a la fórmula sin jabón y con ingredientes hidratantes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07PC5QWCM/?tag=tolees-21)
