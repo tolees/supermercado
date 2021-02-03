@@ -29,9 +29,9 @@ En este momento está [Conservas Dantza Quinoa con Verduras y Alga Wakame Dantza
 🔎:
 
 - Ingredientes: Quinoa cocida, zanahoria en rodajas, calabacín en rodajas, maíz dulce, pimiento rojo, pimiento verde y cebolla cubiteados con alga wakame
-- Plato Preparados con Sabor Ricos y Sanos
 - Mantener en un lugar fresco y seco
-- Alérgenos: Puede contener trazas de gluten, crustáceos, moluscos, pescado, sésamo, avellana, apio y mostaza. (Como contaminación cruzada).
 - Pais de origen: España
+- Plato Preparados con Sabor Ricos y Sanos
+- Alérgenos: Puede contener trazas de gluten, crustáceos, moluscos, pescado, sésamo, avellana, apio y mostaza. (Como contaminación cruzada).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PWN8WBN/?tag=tolees-21)

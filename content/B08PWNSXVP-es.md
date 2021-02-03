@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Conservas Dantza Ensalada de Fusilli con con un 0.00 % de descuento'
-date: 2021-02-02 02:50:05
+date: 2021-02-03 09:00:09
 image: 'https://m.media-amazon.com/images/I/51Y2Z8w+D0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Conservas Dantza Ensalada de Fusilli con Tomate y Albahac
 
 🔎:
 
-- Pais de origen: España
-- Plato Preparados con Sabor Ricos y Sanos
-- Ingredientes: Pasta 80% (1), Tomate seco 4% (2), mostaza (3) y albahaca.
-- Alérgenos: Puede contener trazas de gluten, mostaza. (Como contaminación cruzada).
 - Mantener en un lugar fresco y seco
+- Ingredientes: Pasta 80% (1), Tomate seco 4% (2), mostaza (3) y albahaca.
+- Plato Preparados con Sabor Ricos y Sanos
+- Pais de origen: España
+- Alérgenos: Puede contener trazas de gluten, mostaza. (Como contaminación cruzada).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PWNSXVP/?tag=tolees-21)
