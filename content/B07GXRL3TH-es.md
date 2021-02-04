@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skip - Ultimate Triple Poder Fragancia M con un 0.00 % de descuento'
-date: 2021-02-02 02:24:14
+date: 2021-02-04 15:11:08
 image: 'https://m.media-amazon.com/images/I/41myFyEekLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skip'
 buyurl: 'https://www.amazon.es/dp/B07GXRL3TH/?tag=tolees-21'
 descuento: '0.00'
-average: '7.91000000000001'
+average: '7.91941176470589'
 ---
 
 En este momento está [Skip - Ultimate Triple Poder Fragancia Mimosín - Detergente Líquido para Lavadora - 33 lavados](https://www.amazon.es/dp/B07GXRL3TH/?tag=tolees-21) a 7.99 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!

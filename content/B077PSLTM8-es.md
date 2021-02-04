@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dulcesol Croissants Cacao - 5 uds - 225  con un 0.00 % de descuento'
-date: 2021-02-03 15:28:07
+date: 2021-02-04 15:30:47
 image: 'https://m.media-amazon.com/images/I/41QevPj46QL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [Dulcesol Croissants Cacao - 5 uds - 225 g](https://www.am
 
 🔎:
 
-- Croissants rellenos de cacao, elaborados con huevos frescos de nuestra propia granja
 - 5 unidades envasadas individualmente
+- Croissants rellenos de cacao, elaborados con huevos frescos de nuestra propia granja
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077PSLTM8/?tag=tolees-21)
