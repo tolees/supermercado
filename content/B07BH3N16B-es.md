@@ -28,10 +28,10 @@ Está [Vermouth Padró & Co Dorado Amargo Suave - 75 cl](https://www.amazon.es/d
 
 ℹ️:
 
+- Boca balsámica, refrescante y limpia.
+- Equilibrio muy medido entre la sensación dulce y la amarga.
+- Sutil toque mineral.
 - Mezcla de aromas de hierbas silvestres secas y de sotobosque.
 - Elaborado a partir de una exclusiva infusión de hierbas aromáticas y envejecido en toneles. Embotellado en la propiedad.
-- Boca balsámica, refrescante y limpia.
-- Sutil toque mineral.
-- Equilibrio muy medido entre la sensación dulce y la amarga.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BH3N16B/?tag=tolees-21)

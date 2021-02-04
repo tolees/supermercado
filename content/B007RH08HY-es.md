@@ -29,9 +29,9 @@ En este momento está [Marcato RT-RSO - Molde para ravioli  aluminio   color roj
 🔎:
 
 - El material garantiza que no deja residuos metálicos en la masa de la pasta
-- Con la herramienta de enrollado, la masa se presiona uniformemente sobre la tableta y los bordes se corta a continuación, la masa
+- El molde se compone de una aleación de aluminio anodizado en color rojo
 - Se pueden cortar a la vez con la tableta 10 raviolis
 - Los raviolis se pueden quitar fácilmente del molde
-- El molde se compone de una aleación de aluminio anodizado en color rojo
+- Con la herramienta de enrollado, la masa se presiona uniformemente sobre la tableta y los bordes se corta a continuación, la masa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B007RH08HY/?tag=tolees-21)
