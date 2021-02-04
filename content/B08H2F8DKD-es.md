@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones – Jersey de punto con cuell con un 0.00 % de descuento'
-date: 2021-02-03 05:16:22
+date: 2021-02-04 11:59:37
 image: 'https://m.media-amazon.com/images/I/41MverFVBuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B08H2F8DKD/?tag=tolees-21'
 descuento: '0.00'
-average: '25.5650769230768'
+average: '25.560447761194'
 ---
 
 En este momento está [Jack & Jones – Jersey de punto con cuello en V Beige  Oatmeal  XS](https://www.amazon.es/dp/B08H2F8DKD/?tag=tolees-21) a 25.41 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!

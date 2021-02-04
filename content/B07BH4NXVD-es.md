@@ -28,10 +28,10 @@ Tienes [Vermouth Padró & Co Blanco Reserva - 75 cl](https://www.amazon.es/dp/B0
 
 🔎:
 
-- En boca es elegante, untuoso, fino y redondo.
 - Embotellado en la propiedad.
-- Se percibe una leve dulzura y amargura con un toque final cítrico refinado que le aporta frescura y un post gusto espléndido que lo convierte en muy goloso.
-- 18% ALC. / VOL. 750ML
 - Elaborado a partir de una exclusiva infusión de hierbas aromáticas y envejecido en toneles.
+- En boca es elegante, untuoso, fino y redondo.
+- 18% ALC. / VOL. 750ML
+- Se percibe una leve dulzura y amargura con un toque final cítrico refinado que le aporta frescura y un post gusto espléndido que lo convierte en muy goloso.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BH4NXVD/?tag=tolees-21)
