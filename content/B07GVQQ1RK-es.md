@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dicora UrbanFit - Dicora Urban Fit® Jabó al 0.00 % de descuento'
-date: 2021-02-03 20:41:17
+date: 2021-02-04 21:06:22
 image: 'https://m.media-amazon.com/images/I/31Lm87FxPiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Dicora UrbanFit - Dicora Urban Fit® Jabón De Manos Vitamina C 500ml](ht
 
 ℹ️:
 
-- La vitamina C activa las defensas y ayuda a frenar el envejecimiento prematuro de la piel.
-- Extractos naturales: melocotón y pomelo
-- Aporta una hidratación fresh para una piel elástica y en forma.
 - Jabón de manos nutritivo con refrescante extracto de frutas cítricas y melocotón.
+- Extractos naturales: melocotón y pomelo
+- La vitamina C activa las defensas y ayuda a frenar el envejecimiento prematuro de la piel.
+- Aporta una hidratación fresh para una piel elástica y en forma.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GVQQ1RK/?tag=tolees-21)

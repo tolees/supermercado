@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amor en conserva [DVD] al 0.00 % de descuento'
-date: 2021-02-03 14:37:57
+date: 2021-02-04 21:03:07
 image: 'https://m.media-amazon.com/images/I/51kGHEG2GpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000TGS1CO/?tag=tolees-21'
 descuento: '0.00'
-average: '12.1722222222223'
+average: '12.15'
 ---
 
 Está [Amor en conserva [DVD]](https://www.amazon.es/dp/B000TGS1CO/?tag=tolees-21) con 0.00 de descuento por 11.95 EUR (original:  EUR) en el siguiente enlace!
