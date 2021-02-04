@@ -28,10 +28,10 @@ Está [L Or Espresso Café Ristretto Intensidad 11 - 100 cápsulas de aluminio c
 
 ℹ️:
 
+- 100 cápsulas repartidas en 10 paquetes de 10 cápsulas cada uno. Peso neto de 1 paquete: 52 g. Total 10 paquetes = 520 gr
 - *Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
 - Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso*(R)
-- 100 cápsulas repartidas en 10 paquetes de 10 cápsulas cada uno. Peso neto de 1 paquete: 52 g. Total 10 paquetes = 520 gr
-- Ristretto deslumbra los sentidos con su personalidad vivaz y fresca con un potente aroma especiado; Una mezcla ideal que, en busca de la perfección del espresso, te llevará a un viaje intensamente inolvidable
 - Sabor Potente - Con Carácter - Redondo
+- Ristretto deslumbra los sentidos con su personalidad vivaz y fresca con un potente aroma especiado; Una mezcla ideal que, en busca de la perfección del espresso, te llevará a un viaje intensamente inolvidable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00IHYCT1Y/?tag=tolees-21)
