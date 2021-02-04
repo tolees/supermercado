@@ -29,8 +29,8 @@ Tienes [L Or Espresso Café Ristretto Decaffeinato Intensidad 9 - 200 cápsulas 
 🔎:
 
 - Una mezcla que captura ligeros aromas a madera junto con notas de almendras tostadas
-- Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
 - Sabor Agradable - Afrutado - Distinguido
+- Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
 - Intensidad 9
 - Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso
 

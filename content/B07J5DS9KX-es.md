@@ -28,9 +28,9 @@ Tienes [Rexona Desodorante Antitranspirante Football Edition Laliga 200ml - Pack
 
 🔎:
 
-- Apto para el uso diario
-- El desodorante aporta hasta 48 horas de protección
-- Desodorante Rexona edición especial La Liga football edition
 - Dermatológicamente comprobado
+- Desodorante Rexona edición especial La Liga football edition
+- El desodorante aporta hasta 48 horas de protección
+- Apto para el uso diario
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07J5DS9KX/?tag=tolees-21)

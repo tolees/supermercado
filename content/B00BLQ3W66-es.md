@@ -28,10 +28,10 @@ Está [Electrolux - AEG EZ 5623 - Cepillo de dientes eléctrico de rotación  re
 
 ℹ️:
 
-- Accesorios: 4 cabezales
-- Cepillo con filamentos de calidad redondeados Tynex DuPont, para un cepillado suave de los dientes y las encías
-- Carga por inducción sin contacto de la batería, protegido contra agua salpicante
-- Cabezal de cepillo de rápida oscilación, (bidirecional) para una eliminación suave y efectiva de la placa y las manchas
 - Base con una práctica caja para guardar varios cabezales (también se apropia para el montaje en la pared, incluye material de montaje)
+- Cepillo con filamentos de calidad redondeados Tynex DuPont, para un cepillado suave de los dientes y las encías
+- Accesorios: 4 cabezales
+- Cabezal de cepillo de rápida oscilación, (bidirecional) para una eliminación suave y efectiva de la placa y las manchas
+- Carga por inducción sin contacto de la batería, protegido contra agua salpicante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BLQ3W66/?tag=tolees-21)
