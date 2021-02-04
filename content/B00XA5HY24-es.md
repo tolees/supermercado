@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Gallina Blanca - Sopa De Pollo Con Marav al 0.00 % de rebaja'
-date: 2021-01-18 01:06:50
+date: 2021-02-04 18:18:43
 image: 'https://m.media-amazon.com/images/I/51FYzwIXlfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XA5HY24-es'
+slug: 'B00XA5HY24-es Gallina Blanca - Sopa De Pollo Con Maravilla'
+sku: 'B00XA5HY24-es'
+tags: [ 'gallina','blanca', ]
 actualPrice: 0.53 EUR
 currency: EUR
 price: 0.53
@@ -14,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Gallina Blanca - Sopa De Pollo Con Maravilla'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Gallina Blanca'
 buyurl: 'https://www.amazon.es/dp/B00XA5HY24/?tag=tolees-21'
 descuento: '0.00'
 average: '0.53'
