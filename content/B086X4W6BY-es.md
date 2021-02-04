@@ -29,7 +29,7 @@ Está [Kewpie Mayonesa Japonesa 337 g](https://www.amazon.es/dp/B086X4W6BY/?tag=
 ℹ️:
 
 - Ideal para la elaboración de Sushi o para utilizar como aderezo
-- También se puede utilizar para acompañar platos con pescado, carnes y para como condimento para ensaladas
 - Botella flexible con dosificador, contenido 355 ml
+- También se puede utilizar para acompañar platos con pescado, carnes y para como condimento para ensaladas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086X4W6BY/?tag=tolees-21)
