@@ -29,7 +29,7 @@ Tienes [Mentolín Caramelo Balsámico sin Azúcar - 1000 gr](https://www.amazon.
 ℹ️:
 
 - Suave efecto balsámico
-- Perfecto para inspirar y respirar
 - Caramelo duro sin azúcar de eucaliptus
+- Perfecto para inspirar y respirar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAOYAQI/?tag=tolees-21)

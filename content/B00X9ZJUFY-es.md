@@ -28,9 +28,9 @@ Tienes [Orbit - Chicle Sin Azúcar con Sabor a Menta  60 grágeas](https://www.a
 
 🔎:
 
-- Sin Azúcar
-- 60 grágeas
 - sabor a menta
+- Sin Azúcar
 - Peso: 86,2 g
+- 60 grágeas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00X9ZJUFY/?tag=tolees-21)

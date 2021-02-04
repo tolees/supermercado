@@ -28,8 +28,8 @@ Está [Central Lechera Asturiana - Leche UHT Semidesnatada - 1 L](https://www.am
 
 ℹ️:
 
-- Una vez abierto conservar en el frigorifico
 - Contiene Leche o derivados de la leche (lactosa)
+- Una vez abierto conservar en el frigorifico
 - Peso neto de 1 L
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00N2FVB6M/?tag=tolees-21)
