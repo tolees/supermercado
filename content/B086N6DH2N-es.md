@@ -28,13 +28,13 @@ Ahora mismo tienes [Marca Amazon - Happy Belly - Caramelos con sabor a fruta  3x
 
 🔎:
 
-- Caramelos duros con sabor a fresa, grosella negra, naranja, limón y lima
-- No recomendado para niños menores de 36 meses
-- Paquete de 3
+- Caramelos duros brillantes y coloridos, con intensos sabores a frutas
 - Apto para dietas vegetarianas
 - Este envase contiene 20 porciones
+- Caramelos duros con sabor a fresa, grosella negra, naranja, limón y lima
+- No recomendado para niños menores de 36 meses
 - Con aromas naturales
-- Caramelos duros brillantes y coloridos, con intensos sabores a frutas
+- Paquete de 3
 - Fabricado en el Reino Unido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086N6DH2N/?tag=tolees-21)
