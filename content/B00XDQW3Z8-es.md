@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ruffles -Original - Patatas Fritas con S con un 24.24 % de descuento'
-date: 2021-02-04 12:49:36
+date: 2021-02-05 20:45:28
 image: 'https://m.media-amazon.com/images/I/512h8x7mXTL._SL200_.jpg'
 comments: true
 category: ofertas
