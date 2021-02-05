@@ -28,10 +28,10 @@ Ahora mismo tienes [Schwarzkopf Gliss Champú Seco Volumen - 6uds de 200ml  1.20
 
 🔎:
 
-- Champú seco con 24 H de EFECTO VOLUMEN visible, sin apelmazar
-- 1200 ml
 - 1 día EXTRA de FRESCOR sin lavar el cabello
-- Aporta cuerpo y volumen al instante
+- Champú seco con 24 H de EFECTO VOLUMEN visible, sin apelmazar
 - NO deja RESIDUOS visibles después del cepillado
+- Aporta cuerpo y volumen al instante
+- 1200 ml
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071LMVTP2/?tag=tolees-21)
