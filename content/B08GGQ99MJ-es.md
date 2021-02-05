@@ -28,10 +28,10 @@ Tienes [Iberitos - 18 Monodosis de Crema de Pavo - 23 gr](https://www.amazon.es/
 
 🔎:
 
-- Producto elaborado de forma artesanal y listo para consumir
-- No contiene gluten | No contiene OGM | Alérgenos: derivados de leche y soja, huevo y apio
-- Monodosis de crema de untar de pavo para poder preparar unos ricos snacks o de picoteo para antes de comidas o cenas
-- Formato - monodosis
 - Pate de pavo de iberitos fabricado en españa
+- Formato - monodosis
+- Producto elaborado de forma artesanal y listo para consumir
+- Monodosis de crema de untar de pavo para poder preparar unos ricos snacks o de picoteo para antes de comidas o cenas
+- No contiene gluten | No contiene OGM | Alérgenos: derivados de leche y soja, huevo y apio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GGQ99MJ/?tag=tolees-21)
