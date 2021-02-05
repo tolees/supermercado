@@ -30,8 +30,8 @@ Está [Cycluck 60 Bolsas 30L Bolsa de Basura ecológica 100% Biodegradable y Com
 
 - Condiciones de almacenamiento: en la bolsa de basura ecológica ecológica se puede almacenar en un lugar seco.
 - Nuestras bolsas para residuos de alimentos son 100% compostables y biodegradables.
-- Nuestras bolsas con la norma europea de certificación EN13432, también lleva los logotipos de Seedling.
 - Contenido: 60 bolsas, Tamaño de la bolsa: 55 * 72 CM (21.6 * 28.4 inch), 30 litros - Aprox.
 - Aprobado para el reciclaje de residuos de alimentos con la mayoría de los consejos.
+- Nuestras bolsas con la norma europea de certificación EN13432, también lleva los logotipos de Seedling.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QC2QPS6/?tag=tolees-21)
