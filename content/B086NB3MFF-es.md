@@ -28,11 +28,11 @@ En este momento está [Marca Amazon - Happy Belly - Twists de regaliz  3x500g](h
 
 🔎:
 
-- Con aromas naturales
-- Deliciosos dulces de regaliz elaborados con un intenso sabor anisado
-- Paquete de 3
-- Este envase contiene 20 porciones
-- Fabricado en el Reino Unido
 - No recomendado para niños menores de 36 meses
+- Fabricado en el Reino Unido
+- Deliciosos dulces de regaliz elaborados con un intenso sabor anisado
+- Este envase contiene 20 porciones
+- Con aromas naturales
+- Paquete de 3
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086NB3MFF/?tag=tolees-21)
