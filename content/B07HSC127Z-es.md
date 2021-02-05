@@ -28,13 +28,13 @@ Ahora mismo tienes [Jata CL819 Calienta para Leche y Chocolate con Interior Anti
 
 🔎:
 
+- Características: el calienta leche cl819 es ideal para calentar leche y preparar chocolate a la taza; además, mantiene la temperatura de la leche a 80 grados centígrados
+- Potencía : la potencía es de 400 w
+- Cuerpo: su cuerpo exterior es de color blanco y es de toque frío, es decir, se puede tocar con tranquilidad ya que no quema
+- Limpieza: la resistencia está oculta lo que permite una fácil limpieza
+- Indicador luminoso: en todo momento sabremos si está encendido ya que lleva un indicador luminoso en su parte inferior delantera
 - Garantía: todos los productos jata cuentan con tres años de garantía
 - Capacidad: la capacidad es de 1 litro y su interior cuenta con recubrimiento antiadherente que está libre de pfoa
-- Potencía : la potencía es de 400 w
-- Limpieza: la resistencia está oculta lo que permite una fácil limpieza
-- Cuerpo: su cuerpo exterior es de color blanco y es de toque frío, es decir, se puede tocar con tranquilidad ya que no quema
-- Características: el calienta leche cl819 es ideal para calentar leche y preparar chocolate a la taza; además, mantiene la temperatura de la leche a 80 grados centígrados
 - Cable: se conecta a la red mediante un cable
-- Indicador luminoso: en todo momento sabremos si está encendido ya que lleva un indicador luminoso en su parte inferior delantera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HSC127Z/?tag=tolees-21)
