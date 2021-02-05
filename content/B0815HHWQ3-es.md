@@ -28,11 +28,11 @@ En este momento está [Ekolo  Zumo De Uva Ecológico  100% Exprimido  6 Botellas
 
 🔎:
 
-- No procede de concentrado. Sin Agua ni Azúcar añadido.
 - Producto que no pasa por cámaras y que proviene directamente del campo
 - Sabías que....la uva contiene resveratrol, sustancia que según algunos estudios puede tener efectos preventivos beneficiosos frente a algunos tipos de cáncer, así como otros beneficios cardiovasculares asociados.
-- Alguna de las propiedades de la uva: En el zumo de uva hay una importante presencia de taninos, sustancias que, además de propiedades astringentes y anti-inflamatorias, destacan por ser reforzadoras del sistema inmunológico.
 - Zumo de fruta 100% fruta fresca exprimida
+- No procede de concentrado. Sin Agua ni Azúcar añadido.
 - Conoce la gama completa de Zumos Ecológicos 100% exprimidos de Ékolo.
+- Alguna de las propiedades de la uva: En el zumo de uva hay una importante presencia de taninos, sustancias que, además de propiedades astringentes y anti-inflamatorias, destacan por ser reforzadoras del sistema inmunológico.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0815HHWQ3/?tag=tolees-21)
