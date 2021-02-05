@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 19.00 % en ISABEL atún en escabeche lata 600 gr'
-date: 2021-02-04 02:35:25
+date: 2021-02-05 02:57:29
 image: 'https://m.media-amazon.com/images/I/51Oarhi-gcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Tienes [ISABEL atún en escabeche lata 600 gr](https://www.amazon.es/dp/B00XDNCP
 ℹ️:
 
 - Solo atún y escabeche fuente de omega 3
-- Con abre fácil y tapa
 - Taco grande atún en escabeche
 - 600g
+- Con abre fácil y tapa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDNCPJK/?tag=tolees-21)
