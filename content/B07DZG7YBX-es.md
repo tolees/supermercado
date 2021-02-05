@@ -29,9 +29,9 @@ Ahora mismo tienes [LA BELLEFÉE - Set de Velas de Cera de Soja con Aroma a voti
 🔎:
 
 - 💎Aliviado y romántico: Cada vela perfumada tiene 11 horas de tiempo de combustión, brindando alivio y atmósferas románticas, lo que lo ayuda a disfrutar de la vida.
-- 💎3 fragancias Aromas: set de regalo con 3 velas perfumadas, que incluye 3 fragancias: pera y fresia, naranja sanguina, campanilla azul. Cada vela es de 135 g, el peso neto es de 50 g. Tamaño: diámetro 5 x 5.7cm .
 - 💎Estupendo set de regalos: estas velas son un buen regalo para amigos, familias en cumpleaños, Navidad, aniversarios u otros días festivos.
-- 💎Estas velas están hechas con cera de soja 100% natural. No generará humo acre, inofensivo para los humanos y sin contaminación.
 - 💎Garantizamos 100% Satisfacción: Orden con confianza. Proporcionamos reembolsos completos y devoluciones si hay algún problema después de recibir los productos. Simplemente contáctanos y nosotros nos encargaremos de ello.
+- 💎3 fragancias Aromas: set de regalo con 3 velas perfumadas, que incluye 3 fragancias: pera y fresia, naranja sanguina, campanilla azul. Cada vela es de 135 g, el peso neto es de 50 g. Tamaño: diámetro 5 x 5.7cm .
+- 💎Estas velas están hechas con cera de soja 100% natural. No generará humo acre, inofensivo para los humanos y sin contaminación.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DZG7YBX/?tag=tolees-21)

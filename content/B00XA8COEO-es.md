@@ -28,8 +28,8 @@ En este momento está [Knorr Tortellini Pasta Rellena De Carne - 250 g](https://
 
 🔎:
 
-- Contenido de 250 g, para 3-4 raciones
-- Conservar en un lugar fresco y seco
 - Tortellini rellenos con carne
+- Conservar en un lugar fresco y seco
+- Contenido de 250 g, para 3-4 raciones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XA8COEO/?tag=tolees-21)

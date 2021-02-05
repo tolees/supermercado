@@ -28,9 +28,9 @@ En este momento está [Conservas Dantza Ensalada de Fusilli con Tomate y Albahac
 
 🔎:
 
+- Plato Preparados con Sabor Ricos y Sanos
 - Alérgenos: Puede contener trazas de gluten, mostaza. (Como contaminación cruzada).
 - Ingredientes: Pasta 80% (1), Tomate seco 4% (2), mostaza (3) y albahaca.
-- Plato Preparados con Sabor Ricos y Sanos
 - Pais de origen: España
 - Mantener en un lugar fresco y seco
 
