@@ -28,10 +28,10 @@ Tienes [Hellmann s Mayonesa Tarro 450 ml  pack de 4 ](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Apta para vegetarianos
-- Gran Mayonesa Hellmanns 450 ml
 - Receta única, sabor inconfundible
 - Elaborada con ingredientes de calidad
+- Apta para vegetarianos
 - Sin gluten
+- Gran Mayonesa Hellmanns 450 ml
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001FCKC5U/?tag=tolees-21)

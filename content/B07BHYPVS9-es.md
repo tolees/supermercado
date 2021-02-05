@@ -28,10 +28,10 @@ Tienes [Lindt Lindor Bolsa 1Kg Bombones de Chocolate Blanco](https://www.amazon.
 
 🔎:
 
-- Fúndete de placer con nuestros emblemáticos bombones surtidos LINDOR.
-- Elaborado con ingredientes cuidadosamente seleccionados, como las habas de cacao puro procedentes de fuentes sostenibles.
 - Lindt LINDOR - cremosos bombones de chocolate blanco. Bolsa de 1kg - aprox. 80 bombones.
-- Los maestros chocolateros suizos consiguen cuidar hasta el mínimo detalle de sus creaciones gracias a sus años de experiencia.
 - Desde 1845, lindt ha enamorado a sus consumidores con sus chocolates de alta calidad.
+- Elaborado con ingredientes cuidadosamente seleccionados, como las habas de cacao puro procedentes de fuentes sostenibles.
+- Fúndete de placer con nuestros emblemáticos bombones surtidos LINDOR.
+- Los maestros chocolateros suizos consiguen cuidar hasta el mínimo detalle de sus creaciones gracias a sus años de experiencia.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BHYPVS9/?tag=tolees-21)

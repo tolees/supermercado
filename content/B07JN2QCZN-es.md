@@ -28,9 +28,9 @@ Ahora mismo tienes [Iberitos Crema de Jamón curado - Bandeja 18 x 25 gr](https:
 
 🔎:
 
-- No necesita frío.
-- Fabricado en España
-- Alérgenos: leche y soja.
 - Ingredientes: Carne de cerdo, jamón curado 15%, leche, proteína de soja.
+- Alérgenos: leche y soja.
+- Fabricado en España
+- No necesita frío.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JN2QCZN/?tag=tolees-21)

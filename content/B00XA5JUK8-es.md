@@ -28,7 +28,7 @@ En este momento está [Gallina Blanca - Caldo casero de cocido - 100% Natural - 
 
 🔎:
 
-- Sin conservantes
 - Bajo en grasa
+- Sin conservantes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XA5JUK8/?tag=tolees-21)
