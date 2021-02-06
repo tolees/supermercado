@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skip Ultimate Máxima Eficacia Triple Pod con un 15.01 % de descuento'
-date: 2021-02-05 03:08:05
+date: 2021-02-06 03:37:34
 image: 'https://m.media-amazon.com/images/I/41xWmCRp-3L._SL200_.jpg'
 comments: true
 category: ofertas

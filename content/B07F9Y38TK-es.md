@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Junior Star Wars Pasta Dentífrica con un 0.00 % de descuento'
-date: 2021-02-05 03:00:49
+date: 2021-02-06 03:27:46
 image: 'https://m.media-amazon.com/images/I/41b5NFeOUnL._SL200_.jpg'
 comments: true
 category: ofertas
