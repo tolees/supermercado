@@ -28,10 +28,10 @@ Tienes [Redken - Champú Extreme para Cabello Dañado  300 ml](https://www.amazo
 
 🔎:
 
-- Aplica de forma diaria una pequeña cantidad con el pelo húmedo y realizando un suave masaje hasta crear espuma, aclara con abundante agua
-- Formulado con ceramidas y proteínas que reparan la fibra capilar desde el interior, ayuda a prevenir puntas abiertas y posibles daños
-- En pocos días, el cabello recupera visiblemente fuerza y elasticidad; Es un producto unisex que forma parte de la familia de cuidado Inteligente de Redken
-- Redken, la gama de productos de peluquería de referencia gracias a su tecnología, el PH ácido de sus productos y la recomendación de cosmetólogos tiulados
 - Champú para pelo dañado que penetra en el interior del cabello para reparar y ofrecer mayor resistencia
+- Aplica de forma diaria una pequeña cantidad con el pelo húmedo y realizando un suave masaje hasta crear espuma, aclara con abundante agua
+- En pocos días, el cabello recupera visiblemente fuerza y elasticidad; Es un producto unisex que forma parte de la familia de cuidado Inteligente de Redken
+- Formulado con ceramidas y proteínas que reparan la fibra capilar desde el interior, ayuda a prevenir puntas abiertas y posibles daños
+- Redken, la gama de productos de peluquería de referencia gracias a su tecnología, el PH ácido de sus productos y la recomendación de cosmetólogos tiulados
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00U7M4Q9W/?tag=tolees-21)

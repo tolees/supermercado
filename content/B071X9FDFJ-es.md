@@ -31,7 +31,7 @@ Tienes [Schwarzkopf Palette Intensive Creme Color – Tono 8.1 cabello Rubio Cla
 - Coloración permanente enriquecida con aceites naturales: el tratamiento de cuidado con Aceite Natural de Marula suaviza la superficie del cabello y proporciona un brillo sensacional
 - La crema colorante con pigmentos de color altamente eficaces proporciona un color vivo, radiante y duradero hasta 8 semanas
 - Penetra profundamente en el núcleo del cabello sellando los altamente eficaces pigmentos de color
-- Tono 8.1 - Rubio Claro Ceniza
 - Descubre la coloración permanente de cuidado Palette Intensive Creme Color con perfecta cobertura de canas para un color duradero y un brillo sensacional en tu cabello
+- Tono 8.1 - Rubio Claro Ceniza
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071X9FDFJ/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Diadermine - Crema de dia Antiarrugas - Cuidado Esencial - 50 ml](https:
 
 🔎:
 
-- Combate colágeno
-- Efecto lifting
-- Activador 5 colágenos que redensifica la red fibras se han roto estimula células para producción nuevo colágeno
-- Tipo de piel: madura
 - Combate las líneas de expresión y primeras arrugas
+- Activador 5 colágenos que redensifica la red fibras se han roto estimula células para producción nuevo colágeno
+- Efecto lifting
+- Tipo de piel: madura
+- Combate colágeno
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00X9UUMYM/?tag=tolees-21)
