@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Descuento del 4.76 % en EUKANUBA Edad avanzada Próspero Raza Gra'
-date: 2020-02-16 18:07:43
-image: 'https://m.media-amazon.com/images/I/41Ni1OZTmrL._AC_._SL200_.jpg'
+title: 'Descuento del 41.76 % en Eukanuba Comida seca para perros mayores'
+date: 2021-02-06 08:15:50
+image: 'https://m.media-amazon.com/images/I/517zMJsr8dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VJXZZM-es EUKANUBA Edad avanzada Próspero Raza Grande rico en pollo...'
+slug: 'B000VJXZZM-es Eukanuba Comida seca para perros mayores de razas grandes...'
 sku: 'B000VJXZZM-es'
 tags: [ 'eukanuba', ]
-actualPrice: 39.99 EUR
+actualPrice: 37.49 EUR
 currency: EUR
-price: 39.99
-comparePrice: 41.99 EUR
-prodname: 'EUKANUBA Edad avanzada Próspero Raza Grande rico en pollo fresco [15 kg]'
+price: 37.49
+comparePrice: 64.37 EUR
+prodname: 'Eukanuba Comida seca para perros mayores de razas grandes con pollo 15 kg'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'EUKANUBA'
 buyurl: 'https://www.amazon.es/dp/B000VJXZZM/?tag=tolees-21'
-descuento: '4.76'
-average: '39.99'
+descuento: '41.76'
+average: '38.3233333333333'
 ---
 
-Tienes [EUKANUBA Edad avanzada Próspero Raza Grande rico en pollo fresco [15 kg]](https://www.amazon.es/dp/B000VJXZZM/?tag=tolees-21) con un 4.76 % de descuento con precio de oferta de 39.99 EUR (original: 41.99 EUR) en el siguiente enlace!
+Tienes [Eukanuba Comida seca para perros mayores de razas grandes con pollo 15 kg](https://www.amazon.es/dp/B000VJXZZM/?tag=tolees-21) con un 41.76 % de descuento con precio de oferta de 37.49 EUR (original: 64.37 EUR) en el siguiente enlace!
 
-[![EUKANUBA Edad avanzada Próspero Raza Gra](https://m.media-amazon.com/images/I/41Ni1OZTmrL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000VJXZZM/?tag=tolees-21)
+[![Eukanuba Comida seca para perros mayores](https://m.media-amazon.com/images/I/517zMJsr8dL._SL200_.jpg)](https://www.amazon.es/dp/B000VJXZZM/?tag=tolees-21)
 
 ℹ️:
 
+- El pollo constituye la principal fuente de proteínas para desarrollar y mantener una musculatura compacta y un estado físico óptimo
+- Huesos: clínicamente probado para favorecer unos huesos fuertes, con calcio
+- Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos
+- Alimento seco para las razas grandes maduras / Agilidad: proteínas y grasas adaptadas para reducir la tensión en las articulaciones de perros de edad avanzada y ancianos de raza grande
+- Vitalidad: ayuda a reforzar las defensas naturales de los perros es con niveles óptimos de betacaroteno y vitamina E
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000VJXZZM/?tag=tolees-21)
