@@ -28,8 +28,8 @@ Está [Max Factor  Maquillaje corrector  Tono: 004 Deep  Pieles Oscuras  - 7 ml]
 
 ℹ️:
 
-- Corrector Radiant Lift de Max Factor de larga duración y acabado luminoso
 - Oculta los signos de fatiga y minimiza las líneas finas de expresión con acción anti-edad
+- Corrector Radiant Lift de Max Factor de larga duración y acabado luminoso
 - Cuida tu piel con vitaminas C y e
 - Textura ligera y cómoda en la piel
 - Crea tu look de rostro perfecto con la base de maquillaje Radiant Lift
