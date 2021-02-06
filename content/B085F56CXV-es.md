@@ -29,9 +29,9 @@ Está [Ariel Pods Allin1 Detergente en Cápsulas para Lavadora  Color y Brillo  
 ℹ️:
 
 - The innovative film of Ariel pods dissolves completely in contact with water
+- Outstanding cleaning even at 20°C
 - Keep your coloured clothes vibrant and give them a fresh look with these All-in-1 laundry detergent from Ariel
 - Place the pod directly into the empty drum before your laundry
-- Outstanding cleaning even at 20°C
 - Extraordinary cleaning in one washing capsule
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085F56CXV/?tag=tolees-21)

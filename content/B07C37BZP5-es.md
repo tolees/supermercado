@@ -28,8 +28,8 @@ Tienes [Hygiene VOS Jabón Líquido de Manos pH Neutro de Uso Diario. Fórmula E
 
 ℹ️:
 
-- Con un agradable aroma que deja tus manos frescas durante horas
 - Envase económico de 10L apto para rellenar cualquier tipo de dispensador de presión, para uso professional o para el hogar
+- Con un agradable aroma que deja tus manos frescas durante horas
 - Elaborado con ingredientes naturales de origen vegetal, que cuidan el Medio Ambienete a la vez que tu piel
 - Gracias a su pH neutro es adecuado para todo tipo de pieles, incluso pieles sensibles
 - Su fórmula extra suave limpia, refresaca y protege tus manos, dejándolas suaves y tersas
