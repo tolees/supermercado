@@ -28,9 +28,9 @@ Tienes [Conservas Dantza Alcachofa - 660 gr](https://www.amazon.es/dp/B01IUD4LXK
 
 🔎:
 
-- Sin conservantes ni antioxidantes
 - Navarra. IGP Tudela
 - Serie Oro
+- Sin conservantes ni antioxidantes
 - Abrir, verter y cocinar. Dada la delicadeza del producto se recomienda cocinar y consumir inmediatamente despues de abierto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01IUD4LXK/?tag=tolees-21)

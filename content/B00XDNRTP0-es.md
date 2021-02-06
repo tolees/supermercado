@@ -28,8 +28,8 @@ Tienes [Kellogg s All-Bran Choco Cereales - 375 g](https://www.amazon.es/dp/B00X
 
 ℹ️:
 
-- Rico en fibra
 - Con cereales integrales
+- Rico en fibra
 - Contiene Leche o derivados de la leche (lactosa)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDNRTP0/?tag=tolees-21)
