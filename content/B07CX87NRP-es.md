@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chocolate Amatller - Chocolates variados al 15.00 % de descuento'
-date: 2021-02-05 21:24:45
+date: 2021-02-06 21:49:42
 image: 'https://m.media-amazon.com/images/I/51awn0n-I+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Chocolate Amatller'
 buyurl: 'https://www.amazon.es/dp/B07CX87NRP/?tag=tolees-21'
 descuento: '15.00'
-average: '11.572727272727'
+average: '11.5589999999998'
 ---
 
 Ahora mismo tienes [Chocolate Amatller - Chocolates variados en Cesta Regalo Orígenes 211g](https://www.amazon.es/dp/B07CX87NRP/?tag=tolees-21) a 10.2 EUR (original: 12.0 EUR) (15.00 %  de descuento) en el siguiente enlace!

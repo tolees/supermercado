@@ -28,8 +28,8 @@ Está [Nestlé Milkybar Tableta Chocolate Blanco - 100 g](https://www.amazon.es/
 
 ℹ️:
 
-- Tableta de chocolate blanco milkybar de chocolates nestlé
-- Cantidad 100 gr
 - Sabor y textura ideal del chocolate blanco en tableta
+- Cantidad 100 gr
+- Tableta de chocolate blanco milkybar de chocolates nestlé
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B41K1SG/?tag=tolees-21)
