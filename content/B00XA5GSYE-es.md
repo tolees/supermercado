@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Central Lechera Asturiana - Bebida De So'
-date: 2021-02-03 15:18:21
+date: 2021-02-07 12:53:09
 image: 'https://m.media-amazon.com/images/I/415d3VBKcRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Alpro'
 buyurl: 'https://www.amazon.es/dp/B00XA5GSYE/?tag=tolees-21'
 descuento: '0.00'
-average: '1.30857142857143'
+average: '1.24'
 ---
 
 Tienes [Central Lechera Asturiana - Bebida De Soja Calcio Alpro Brik 1 L](https://www.amazon.es/dp/B00XA5GSYE/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 1.0 EUR (original:  EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [Central Lechera Asturiana - Bebida De Soja Calcio Alpro Brik 1 L](https:
 ℹ️:
 
 - 100% vegetal. Naturalmente sin lactosa o gluten. colorantes conservantes. Fuente proteinas que contribuye al mantenimiento adecuado los huesos
+- Proteinas: ayudan huesos, saturadas: ayuda mantener niveles colesterol
 - Contiene Soja y/o productos a base de soja
 - Fuente proteinas, calcio y vit. B2,B12,D, Baja en grasas saturadas
-- Proteinas: ayudan huesos, saturadas: ayuda mantener niveles colesterol
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XA5GSYE/?tag=tolees-21)
