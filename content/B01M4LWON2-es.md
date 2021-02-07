@@ -28,8 +28,8 @@ Ahora mismo tienes [Gallina Blanca - Yatekomo Curry - Fideos orientales - 61 g -
 
 🔎:
 
-- Listo en 3 minutos
 - Puede contener trazas de apio, huevo, leche, crustáceos, pescado, mostaza, sésamo y moluscos
 - Conservar en lugar fresco y seco
+- Listo en 3 minutos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M4LWON2/?tag=tolees-21)

@@ -29,9 +29,9 @@ En este momento está [FETEAM - Regalos de tazas de café para la esposa. To My 
 🔎:
 
 - 🎁Taza de té de cerámica de alta calidad, entrega estándar: 20-25 días.
-- 🎁Talla única: 8 cm X 9,5 cm, 330 ml / 11 oz.
 - 🎁Acabado de alto brillo, sin plomo. Se puede usar para el hogar, la cafetería y la oficina, el método de lavado no se ajusta al lavavajillas ni al microondas.
 - 🎁Diseño impreso en el lado completo, colores vibrantes y duraderos.Gran regalo para alguien especial o artículo novedoso para el uso diario.
 - 🎁Fácil agarre con asa, diseñado para manejar bebidas frías y calientes. Una opción increíble para café, sopa, té, leche, café con leche, líquido caliente y más.
+- 🎁Talla única: 8 cm X 9,5 cm, 330 ml / 11 oz.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VRJBVQD/?tag=tolees-21)

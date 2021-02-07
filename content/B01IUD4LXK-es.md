@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Conservas Dantza Alcachofa - 660 gr al 0.00 % de rebaja'
-date: 2021-02-06 15:35:25
+date: 2021-02-07 16:33:20
 image: 'https://m.media-amazon.com/images/I/41OjcXX6jvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Conservas Dantza Alcachofa - 660 gr](https://www.amazon.es/dp/B01IUD4LXK
 
 🔎:
 
-- Navarra. IGP Tudela
 - Serie Oro
-- Sin conservantes ni antioxidantes
 - Abrir, verter y cocinar. Dada la delicadeza del producto se recomienda cocinar y consumir inmediatamente despues de abierto
+- Sin conservantes ni antioxidantes
+- Navarra. IGP Tudela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01IUD4LXK/?tag=tolees-21)
