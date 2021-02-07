@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eudermin Pies Crema Reparadora 75 ml al 15.38 % de descuento'
-date: 2021-01-23 21:19:33
+date: 2021-02-07 20:15:30
 image: 'https://m.media-amazon.com/images/I/3162cGlMPgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 2.6 EUR
 prodname: 'Eudermin Pies Crema Reparadora 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Eudermin'
 buyurl: 'https://www.amazon.es/dp/B00YTS8LX2/?tag=tolees-21'
 descuento: '15.38'
-average: '2.20176470588235'
+average: '2.20157894736841'
 ---
 
 Ahora mismo tienes [Eudermin Pies Crema Reparadora 75 ml](https://www.amazon.es/dp/B00YTS8LX2/?tag=tolees-21) a 2.2 EUR (original: 2.6 EUR) (15.38 %  de descuento) en el siguiente enlace!
