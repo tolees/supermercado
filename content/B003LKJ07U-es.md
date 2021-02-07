@@ -28,10 +28,10 @@ Ahora mismo tienes [Tea Forte - Taza para Té y Café de Porcelana con Tapa de T
 
 🔎:
 
-- TAZA DE TÉ DE PORCELANA diseñada y hecha para convertir una taza de té en una experiencia para todos los sentidos
-- TAPA A MEDIDA que tiene un pequeño orificio por el que se ve la hoja de nuestro infusor con forma de pirámide - después de remojarla, retira la tapa para disfrutar de una taza de té aromática y caliente
-- Nuestra DELICADA, ELEGANTE y muy duradera taza de té es capaz de preparar 235ml de tu mezcla de té favorita que brinda una presentación increíble y dará de que hablar
 - UN EXTRA DE ELEGANCIA para tu ritual de preparación de té, usa nuestros infusores de seda con forma de pirámide hechos a mano para una experiencia increíble cada vez que usas tu taza de té favorita
+- TAPA A MEDIDA que tiene un pequeño orificio por el que se ve la hoja de nuestro infusor con forma de pirámide - después de remojarla, retira la tapa para disfrutar de una taza de té aromática y caliente
 - UN REGALO MUY APRECIDO por cualquier amante del té que va genial con nuestras bandejas de té de cerámica y cualquiera de nuestras cajas de presentación con infusores artesanales en forma de pirámides
+- TAZA DE TÉ DE PORCELANA diseñada y hecha para convertir una taza de té en una experiencia para todos los sentidos
+- Nuestra DELICADA, ELEGANTE y muy duradera taza de té es capaz de preparar 235ml de tu mezcla de té favorita que brinda una presentación increíble y dará de que hablar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003LKJ07U/?tag=tolees-21)

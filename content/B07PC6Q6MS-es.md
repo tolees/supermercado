@@ -28,9 +28,9 @@ Está [Moussel Gel Ducha Lima - Pack de 4 x 600 ml - Total: 2400 ml](https://www
 
 ℹ️:
 
+- Con aceites esenciales naturales
 - Ayuda a mantener la tersura natural de tu piel
 - Apto para el uso diario
-- Con aceites esenciales naturales
 - Dermatológicamente comprobado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PC6Q6MS/?tag=tolees-21)

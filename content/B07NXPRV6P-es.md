@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KOEI TECMO - Atelier Ryza 2: Lost Legend al 0.00 % de descuento'
-date: 2021-02-06 04:17:46
+date: 2021-02-07 10:26:43
 image: 'https://m.media-amazon.com/images/I/51ytfi5L-PL._SL200_.jpg'
 comments: true
 category: ofertas
