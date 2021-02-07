@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00763ABGC-es Rexona Desodorante Antitranspirante Crema Confidence 45Ml'
 sku: 'B00763ABGC-es'
-tags: [ 'desodorante', ]
+tags: [ 'desodorante','rexona', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

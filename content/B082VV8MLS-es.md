@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B082VV8MLS-es Rexona Desodorante Antitranspirante Invisible On...'
 sku: 'B082VV8MLS-es'
-tags: [ 'desodorante', ]
+tags: [ 'desodorante','rexona', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99
