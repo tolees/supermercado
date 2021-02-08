@@ -28,10 +28,10 @@ Ahora mismo tienes [Maybelline New York Cofre Colossal Edición Limitada Eyes Ca
 
 🔎:
 
-- Maybelline New York - Cofre Edición Limitada Eyes Can Talk - Máscara Colossal + Eyeliner Tattoo Liner + Mini Eyeliner Hyper Precise 
-- Tu look de ojos con tus productos de Maybelline New York
-- Aplica la máscara Colossal desde la raíz para elevar tus pestañas
 - Gira el cepillo en diagonal para alargar los extremos con facilidad
+- Tu look de ojos con tus productos de Maybelline New York
 - Consigue un eyeliner de larga duración y unas pestañas con volumen Colossal
+- Maybelline New York - Cofre Edición Limitada Eyes Can Talk - Máscara Colossal + Eyeliner Tattoo Liner + Mini Eyeliner Hyper Precise 
+- Aplica la máscara Colossal desde la raíz para elevar tus pestañas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08MBXFD12/?tag=tolees-21)
