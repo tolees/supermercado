@@ -29,11 +29,11 @@ Está [Staropramen Premium Non Alcoholic. Cerveza Sin Alcohol. 0 49% Vol. Caja c
 ℹ️:
 
 - Como servir: Servir entre 3 y 6
-- Procedencia: Czech Republic
-- No la llames "sin alcohol"; ha recibido numerosos y prestigiosos premios en la república checa, incluyendo un gold beer seal y la pivex gold cup en 2011
 - Contenido de alcohol (alc/vol): 0.49 percent_by_volume
-- Cerveza refrescante, llena de sabor y aroma, con una espuma sólida y un sabor agradable
 - Alc. 0,48% vol
+- Procedencia: Czech Republic
+- Cerveza refrescante, llena de sabor y aroma, con una espuma sólida y un sabor agradable
+- No la llames "sin alcohol"; ha recibido numerosos y prestigiosos premios en la república checa, incluyendo un gold beer seal y la pivex gold cup en 2011
 - Tipo de alcohol: Malt Beers
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08P4G46GQ/?tag=tolees-21)

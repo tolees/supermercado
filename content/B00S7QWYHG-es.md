@@ -28,10 +28,10 @@ Ahora mismo tienes [Terra Pura Perros Forro Caballos Comida sin Gluten](https://
 
 🔎:
 
+- Acabado fresco
 - La carne de caballo no es orgánica, pero para animales sensibles
 - Pienso único para perros
-- Con ingredientes orgánicos
 - Sin gluten
-- Acabado fresco
+- Con ingredientes orgánicos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00S7QWYHG/?tag=tolees-21)

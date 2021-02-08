@@ -28,10 +28,10 @@ Ahora mismo tienes [LAPASION - Lazos hojaldre rayado con chocolate | 2.5 Kg](htt
 
 🔎:
 
-- 🍫 INGREDIENTES | Harina de trigo, margarina sin aceites ni grasas hidrogenadas [grasa vegetal (palma), agua, aceite vegetal (girasol), sal, emulgente, aromas y corrector de acidez], azúcar, agua, jarabe de glucosa y fructosa, cobertura especial al cacao 10,5% [azúcar, grasa vegetal (palmiste), suero de leche en polvo, cacao desgrasado en polvo 13%, leche entera, emulgentes, y aroma], miel, mantequilla, leche entera, sal, corrector de acidez, espesante, estabilizante y aromas.
 - 🇪🇸 PRODUCIDOS EN ESPAÑA | Estos dulces han sido producidos en España.
 - ✔️ CALIDAD SUPREMA | Repostería de calidad. Ideal para desayunos, almuerzo y meriendas. Se sirve en cajas de 2,5 Kg.
-- 🥨 Deliciosos lazos de hojaldre bañados en miel y decorados con chocolate por encima.
+- 🍫 INGREDIENTES | Harina de trigo, margarina sin aceites ni grasas hidrogenadas [grasa vegetal (palma), agua, aceite vegetal (girasol), sal, emulgente, aromas y corrector de acidez], azúcar, agua, jarabe de glucosa y fructosa, cobertura especial al cacao 10,5% [azúcar, grasa vegetal (palmiste), suero de leche en polvo, cacao desgrasado en polvo 13%, leche entera, emulgentes, y aroma], miel, mantequilla, leche entera, sal, corrector de acidez, espesante, estabilizante y aromas.
 - 📅 FECHA DE CONSUMO PREFERENTE y condiciones de CONSERVACIÓN | 6 meses desde su fabricación. Almacenar bien cerrado en lugar fresco, seco y alejado de los rayos directos del sol y otras fuentes de calor.
+- 🥨 Deliciosos lazos de hojaldre bañados en miel y decorados con chocolate por encima.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NJBQKD7/?tag=tolees-21)
