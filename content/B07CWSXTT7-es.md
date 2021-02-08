@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chocolate Amatller - Chocolates variados al 14.96 % de descuento'
-date: 2021-02-07 04:11:36
+date: 2021-02-08 04:22:35
 image: 'https://m.media-amazon.com/images/I/51SiMfCZoHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Chocolate Amatller'
 buyurl: 'https://www.amazon.es/dp/B07CWSXTT7/?tag=tolees-21'
 descuento: '14.96'
-average: '13.1464999999999'
+average: '13.1191803278688'
 ---
 
 Ahora mismo tienes [Chocolate Amatller - Chocolates variados en Cesta Regalo 230g](https://www.amazon.es/dp/B07CWSXTT7/?tag=tolees-21) a 11.48 EUR (original: 13.5 EUR) (14.96 %  de descuento) en el siguiente enlace!
