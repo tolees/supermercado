@@ -30,7 +30,7 @@ Tienes [Ariel Detergente en Polvo para Lavadora  Original  4.5 Kg  70 Lavados](h
 
 - Elimina las manchas a 30 °C
 - Blancos brillantes
-- El polvo se disuelve rápidamente y no deja residuos en las prendas
 - Ayuda a despegar las manchas resecas
+- El polvo se disuelve rápidamente y no deja residuos en las prendas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XA68QI4/?tag=tolees-21)

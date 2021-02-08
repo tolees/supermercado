@@ -28,10 +28,10 @@ Tienes [Lavazza Café Molido Caffè Espresso  100% Arábica  Paquete de 4 x 250 
 
 🔎:
 
-- 100% Arábica, tostado medio, delicada intensidad (5)
 - Elaborado 100 % a partir de granos de Arábica especialmente seleccionados, este blend produce un sabor oscuro, intensamente aromático
-- El café espresso definitivo para disfrutar a cualquier hora del día
-- MIRAR Espuma dorada y color cálido - AROMA Notas de caramelo y chocolate - SABOR Suave y rico
+- 100% Arábica, tostado medio, delicada intensidad (5)
 - Lavazza café molido para cafetera Caffè Espresso, paquete de 4 x 250 g (total: 1 kg)
+- MIRAR Espuma dorada y color cálido - AROMA Notas de caramelo y chocolate - SABOR Suave y rico
+- El café espresso definitivo para disfrutar a cualquier hora del día
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01NBP4VLT/?tag=tolees-21)

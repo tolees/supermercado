@@ -29,8 +29,8 @@ Está [Palmolive - Aceite de oliva Leche Jabón líquido  300 ml](https://www.am
 ℹ️:
 
 - Jabón líquido
+- Volum: 300 ml
 - Producto con Aceite de oliva y leche
 - Dimensiones: 145 mm x 94 mm
-- Volum: 300 ml
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZW6WD36/?tag=tolees-21)
