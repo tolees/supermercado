@@ -28,10 +28,10 @@ Ahora mismo tienes [Garnier Original Remedies  Champú Sólido  Jengibre Vital p
 
 🔎:
 
-- Contenido del pack: 2 x Champús Sólidos Jengibre Vital Garnier Original Remedies, 60 g
-- Pack de 2 champús sólidos con jengibre y aceite de almendra ecológico, Nutre y revitaliza el cabello débil y sin brillo, Hasta 48 usos
 - Cómo se usa: Moja tu pelo y el champú sólido para que haga espuma, Enjabona el pelo de raíces a puntas, Masajea el cuero cabelludo y después aclara
 - Fórmula 97% biodegradable, 94% origen vegetal, Envase cero plástico
+- Contenido del pack: 2 x Champús Sólidos Jengibre Vital Garnier Original Remedies, 60 g
+- Pack de 2 champús sólidos con jengibre y aceite de almendra ecológico, Nutre y revitaliza el cabello débil y sin brillo, Hasta 48 usos
 - Cabello nutrido y revitalizado, Fácil de desenredar y sin efecto áspero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L4R7TRS/?tag=tolees-21)
