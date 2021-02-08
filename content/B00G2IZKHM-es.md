@@ -28,10 +28,10 @@ Ahora mismo tienes [Trixie Natural-Oil Champú para Perros  1 litro](https://ww
 
 🔎:
 
-- Alternativa al aceite de visón
 - Suave y respetuoso con la piel.
+- Alternativa al aceite de visón
 - Una visualización Champú para perros
-- Da el pelo un luxuriant y sedoso brillo
 - Elaborado con ingredientes de alta calidad
+- Da el pelo un luxuriant y sedoso brillo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00G2IZKHM/?tag=tolees-21)
