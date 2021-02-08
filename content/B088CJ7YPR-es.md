@@ -28,10 +28,10 @@ Ahora mismo tienes [G-STAR RAW Skinny Pantalones Informales  Wild Olive C106-c02
 
 🔎:
 
+- Bolsillos insertados, bolsillo para monedas en la costura de la cinturilla
+- Perneras ajustadas
+- Talle medio
 - Bolsillos traseros con ribete sencillo y un botón, bolsillo para el móvil debajo
 - Costuras con forma en la cadera y en la parte superior trasera
-- Talle medio
-- Perneras ajustadas
-- Bolsillos insertados, bolsillo para monedas en la costura de la cinturilla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088CJ7YPR/?tag=tolees-21)
