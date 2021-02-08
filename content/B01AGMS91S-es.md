@@ -30,8 +30,8 @@ Está [Hero Baby - Natur Papilla 8 Cereales Miel 820 g](https://www.amazon.es/dp
 
 - Contiene solo azúcares naturalmente presentes
 - Sabor auténtico y natural
-- Sin conservantes ni colorantes
 - Formato 820 g
+- Sin conservantes ni colorantes
 - Cereales menos procesados con un 31% de grano completo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AGMS91S/?tag=tolees-21)

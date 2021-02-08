@@ -28,9 +28,9 @@ Está [Catunambú  Cápsulas de café  Descafeinado con leche    144 gr](https:/
 
 ℹ️:
 
-- Una vez abierto, conservar en lugar fresco y seco
 - País de origen: España
-- Alérgenos: Leche
+- Una vez abierto, conservar en lugar fresco y seco
 - Ingredientes: café
+- Alérgenos: Leche
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QK11Q6P/?tag=tolees-21)
