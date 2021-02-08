@@ -28,10 +28,10 @@ Tienes [ADVANCE Adult - Pienso para Gatos Adultos con Pollo Y Arroz - Pack De 3 
 
 ℹ️:
 
-- SALUD DENTAL: Con minerales es (pirofosfatos) que ayudan a prevenir la formación de sarro y favorecen el buen aliento.
-- CUIDADO URINARIO: combinación de minerales e ingredientes específicos para un pH óptimo de la orina.
 - CUIDADO DE LA PIEL Y EL PELO: Omega 3 y 6 y vitaminas que favorecen una piel sana y un pelo brillante.
-- ADVANCE Adult es un alimento de alta gama mente formulado para gatos adultos de 1 a 10 años que tiene como ingredientes principales el pollo y el arroz.
+- SALUD DENTAL: Con minerales es (pirofosfatos) que ayudan a prevenir la formación de sarro y favorecen el buen aliento.
 - FÁCIL DIGESTIÓN: pollo y arroz de fáciles de digerir e inmunoglobulinas que ayudan a mantener la salud intestinal.
+- CUIDADO URINARIO: combinación de minerales e ingredientes específicos para un pH óptimo de la orina.
+- ADVANCE Adult es un alimento de alta gama mente formulado para gatos adultos de 1 a 10 años que tiene como ingredientes principales el pollo y el arroz.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085JFKNVX/?tag=tolees-21)

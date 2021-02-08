@@ -28,11 +28,11 @@ Ahora mismo tienes [OGX  Champú Aceite de Argán de Marruecos  Cabellos Secos y
 
 🔎:
 
-- Moisturising shampoo infused with argan oil
-- Hair shampoo with argan oil of Morocco
+- Leaves hair strong, soft and shiny
 - Sulfate free hair shampoo
 - For best results use the entire argan oil of Morocco collection: shampoo, conditioner, hair oil and heat protect spray
+- Hair shampoo with argan oil of Morocco
+- Moisturising shampoo infused with argan oil
 - Helps to restore and strengthen all hair types
-- Leaves hair strong, soft and shiny
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0097FVTW2/?tag=tolees-21)
