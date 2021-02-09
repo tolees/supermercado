@@ -28,9 +28,9 @@ En este momento está [Instituto Español Argán Aceite Corporal - 400 ml](https
 
 🔎:
 
-- Género: Mujer
-- Tipo de piel: seca
 - Marca: Instituto Español
+- Tipo de piel: seca
 - Tipo de producto: Aceite corporal
+- Género: Mujer
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XAIQJQ8/?tag=tolees-21)
