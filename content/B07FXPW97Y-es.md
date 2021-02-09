@@ -30,8 +30,8 @@ Ahora mismo tienes [Bioterra  almendra entera con chocolate con leche y canela b
 
 - País de origen: España
 - Ecológico, vegano. No GMO
-- Conservar en lugar fresco y seco, temperatura recomendada entre 15 y 20 º C, y protegido de la luz del sol.
 - Alérgenos: puede contener trazas de otros FRUTOS DE CÁSCARA.
 - Envasado en atmósfera protectora, una vez abierto, para apreciar todas sus cualidades, se debe mantener en envase cerrado y en las condiciones de conservación recomendadas.
+- Conservar en lugar fresco y seco, temperatura recomendada entre 15 y 20 º C, y protegido de la luz del sol.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FXPW97Y/?tag=tolees-21)

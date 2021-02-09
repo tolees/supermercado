@@ -28,11 +28,11 @@ En este momento está [Seagram`s - Seagram s Dry Ginebra Premium - 700 ml](https
 
 🔎:
 
-- Entre sus botánicos destacan: enebro de Italia, cilantro de la República Checa, raíz de angélica, nuez moscada, canela, cacao, piel de naranjas españolas dulces y amargas, cardamomo de Sri Lanka y varios aceites esenciales
 - Seagrams Dry Gin nace de la mezcla y la doble destilación en frío de finos y exóticos botánicos, junto a los alcoholes más neutros en alambiques centenarios
 - Mantiene un sabor clásico que combina notas de enebro con toques herbáceos
+- Es un gin con un ligero color oro, y un aroma suave a cítricos, botánicos y hierbas de tocador
+- Entre sus botánicos destacan: enebro de Italia, cilantro de la República Checa, raíz de angélica, nuez moscada, canela, cacao, piel de naranjas españolas dulces y amargas, cardamomo de Sri Lanka y varios aceites esenciales
 - Es una ginebra premium obtenida a través de la destilación de grano 100% americano
 - Para saborear al máximo este gin especial, se recomienda servir con hielo, tónica y un twist de limón
-- Es un gin con un ligero color oro, y un aroma suave a cítricos, botánicos y hierbas de tocador
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008HKLWAM/?tag=tolees-21)
