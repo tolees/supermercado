@@ -28,10 +28,10 @@ Ahora mismo tienes [L Oreal Paris Men Expert - L Oréal Paris Men Expert - Barbe
 
 🔎:
 
-- Puede aplicarse tanto en seco como en mojado dependiendo del efecto deseado
 - Enriquecido con aceite esencial de madera de cedro
-- Crema definidora para aplicar sobre la barba y sobre el cabello
-- Aplica la crema definidora sobre la palma de la mano y frota la barba y cabello, en seco o mojado, y utiliza un peine para conseguir un acabado óptimo
 - Como resultado: una barba controlada y un peinado definido durante más tiempo
+- Aplica la crema definidora sobre la palma de la mano y frota la barba y cabello, en seco o mojado, y utiliza un peine para conseguir un acabado óptimo
+- Crema definidora para aplicar sobre la barba y sobre el cabello
+- Puede aplicarse tanto en seco como en mojado dependiendo del efecto deseado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CXBLSBB/?tag=tolees-21)
