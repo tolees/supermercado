@@ -1,32 +1,41 @@
 ---
 layout: post
-title: 'Descuento del 11.12 % en Ruavieja Licor de Hierbas - 700 ml'
-date: 2020-08-02 08:10:11
-image: 'https://m.media-amazon.com/images/I/3149hCI+ZEL._SL200_.jpg'
+title: 'Descuento del 12.24 % en Ruavieja Ruavieja Licor De Hierbas 30% V'
+date: 2021-02-09 13:34:06
+image: 'https://m.media-amazon.com/images/I/31gUBIQMvwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ENMYEDU-es Ruavieja Licor de Hierbas - 700 ml'
+slug: 'B00ENMYEDU-es Ruavieja Ruavieja Licor De Hierbas 30% Vol. 0 7L - 700 ml'
 sku: 'B00ENMYEDU-es'
 tags: [ 'ruavieja', ]
-actualPrice: 7.99 EUR
+actualPrice: 7.1 EUR
 currency: EUR
-price: 7.99
-comparePrice: 8.99 EUR
-prodname: 'Ruavieja Licor de Hierbas - 700 ml'
+price: 7.1
+comparePrice: 8.09 EUR
+prodname: 'Ruavieja Ruavieja Licor De Hierbas 30% Vol. 0 7L - 700 ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Ruavieja'
 buyurl: 'https://www.amazon.es/dp/B00ENMYEDU/?tag=tolees-21'
-descuento: '11.12'
-average: '8.186'
+descuento: '12.24'
+average: '8.005'
 ---
 
-Tienes [Ruavieja Licor de Hierbas - 700 ml](https://www.amazon.es/dp/B00ENMYEDU/?tag=tolees-21) con un 11.12 % de descuento con precio de oferta de 7.99 EUR (original: 8.99 EUR) en el siguiente enlace!
+Tienes [Ruavieja Ruavieja Licor De Hierbas 30% Vol. 0 7L - 700 ml](https://www.amazon.es/dp/B00ENMYEDU/?tag=tolees-21) con un 12.24 % de descuento con precio de oferta de 7.1 EUR (original: 8.09 EUR) en el siguiente enlace!
 
-[![Ruavieja Licor de Hierbas - 700 ml](https://m.media-amazon.com/images/I/3149hCI+ZEL._SL200_.jpg)](https://www.amazon.es/dp/B00ENMYEDU/?tag=tolees-21)
+[![Ruavieja Ruavieja Licor De Hierbas 30% V](https://m.media-amazon.com/images/I/31gUBIQMvwL._SL200_.jpg)](https://www.amazon.es/dp/B00ENMYEDU/?tag=tolees-21)
 
 ℹ️:
 
+- Se disfruta mejor puro y bien refrigerado
+- Nariz: hierbas, hojas secas, pinos, toques de mazapán
+- Tipo de alcohol: Liquors
+- Como servir: Serve at room temperature
+- Procedencia: Spain
+- Acabado: larga duración
+- Sabor: menta, canela, manzanilla
+- Contenido de alcohol (alc/vol): 30.0 percent by volume
+- Color: claro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ENMYEDU/?tag=tolees-21)
