@@ -28,10 +28,10 @@ Ahora mismo tienes [REVLON Super Lustrous Pintalabios  Certainly Red ](https://w
 
 🔎:
 
-- Extra sedoso e hidratante
-- La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
 - Acabado satinado
-- Sin fragancia
+- La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
 - Enriquecido con Aloe, Vitaminas A, C y E
+- Sin fragancia
+- Extra sedoso e hidratante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001P2IDCO/?tag=tolees-21)

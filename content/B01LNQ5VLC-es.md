@@ -28,9 +28,9 @@ Tienes [L Oréal Paris Elvive Total Repair 5 Champú Reparador para Pelo Dañado
 
 ℹ️:
 
+- Consigue un pelo hasta 100% reparado en sólo 5 días; RETO5DÍAS
 - Pelo frágil, Enredado, Deshidratado, Se te rompe, Puntas abiertas: 5 PROBLEMAS, 1 SOLUCIÓN
 - Nuestro Champú Reparador, potenciado con un 2% de concentrado reparador con Keratina XS, revive instantáneamente el pelo dañado
 - Nuestros envases están producidos con plástico 100% reciclado y son 100% reciclables
-- Consigue un pelo hasta 100% reparado en sólo 5 días; RETO5DÍAS
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LNQ5VLC/?tag=tolees-21)
