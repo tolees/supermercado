@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beoxy Jabon Arcilla Verde 100 g al 0.00 % de descuento'
-date: 2021-02-07 22:15:35
+date: 2021-02-09 05:02:17
 image: 'https://m.media-amazon.com/images/I/41vzYwH-T6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Beoxy Jabon Arcilla Verde 100 g](https://www.amazon.es/dp/B084J1QVMC/?tag
 
 ℹ️:
 
-- Activos naturales
 - Jabón artesanal limpiador, hidrata y suaviza la piel
 - Libera a la piel de partículas de polución
+- Activos naturales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084J1QVMC/?tag=tolees-21)
