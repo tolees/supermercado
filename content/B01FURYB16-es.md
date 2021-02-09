@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español Avena Crema Hidratante al 0.00 % de descuento'
-date: 2021-01-24 19:37:24
+date: 2021-02-09 20:50:57
 image: 'https://m.media-amazon.com/images/I/31X5D5Dwu7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice:  EUR
 prodname: 'Instituto Español Avena Crema Hidratante Corporal - 50 ML'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B01FURYB16/?tag=tolees-21'
 descuento: '0.00'
 average: '1.0'
@@ -29,7 +30,7 @@ Está [Instituto Español Avena Crema Hidratante Corporal - 50 ML](https://www.a
 
 - Para Cuerpo y Manos
 - En Formato Bolsillo
-- Elasticidad, Suavidad y Humectación
 - Avena 100% Natural
+- Elasticidad, Suavidad y Humectación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01FURYB16/?tag=tolees-21)

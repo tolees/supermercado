@@ -28,10 +28,10 @@ En este momento está [Estrella Limpiahogar con Lejía y Detergente Limón - 1.3
 
 🔎:
 
-- Ensures maximum disinfection and cleans in depth leaving your home impeccable
-- 2-in-1 Product: Contains both bleach and detergent offering optimal results
-- Disinfection and cleaning: Product against viruses, fungi and bacteria
 - Combat bad smells leaving a fresh fragrance for your home
+- 2-in-1 Product: Contains both bleach and detergent offering optimal results
+- Ensures maximum disinfection and cleans in depth leaving your home impeccable
 - Ensures optimal hygiene throughout the home
+- Disinfection and cleaning: Product against viruses, fungi and bacteria
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082PGN3C3/?tag=tolees-21)
