@@ -30,7 +30,7 @@ Tienes [Nivea - Jabón de manos con dispensador  pack de 6  6x 250 ml ](https://
 
 - Compatibilidad cutánea dermatológicamente aprobada
 - PH equilibrado, compatible con la piel
-- Contiene aceite de almendras y tiene un olor suave
 - Protege las manos contra la sequedad
+- Contiene aceite de almendras y tiene un olor suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00UT9AUCU/?tag=tolees-21)

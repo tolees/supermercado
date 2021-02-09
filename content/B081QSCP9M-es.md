@@ -30,8 +30,8 @@ Tienes [Pasta de Datiles BIO cultivo Ecológica | Pasta Fruto Seco | Soft Date P
 
 - ✅✔Durante Verano, Conservar EN NEVERA.
 - ✅✔Nueva calidad y packaging Invierno 2020 Requisito, Suave y Dulce! 100% FRUTA NATURAL
-- ✅✔El Dulce mas sano de la Naturaleza/Natures healthiest sweetner.
 - ✅✔Para hacer tartas, barritas, cereales, muesli y desayunos y endulzar cual quiera receta en forma sano.
+- ✅✔El Dulce mas sano de la Naturaleza/Natures healthiest sweetner.
 - ✅✔El carbohydrato favorito de personas activas/deportistas/sana!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081QSCP9M/?tag=tolees-21)
