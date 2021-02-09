@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.26 % en Kellogg s All-Bran Choco Cereales - 375 '
-date: 2021-02-06 16:20:59
+date: 2021-02-09 19:27:18
 image: 'https://m.media-amazon.com/images/I/41JdQkZpIEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'All-Bran'
 buyurl: 'https://www.amazon.es/dp/B00XDNRTP0/?tag=tolees-21'
 descuento: '15.26'
-average: '2.38866666666667'
+average: '2.35588235294118'
 ---
 
 Tienes [Kellogg s All-Bran Choco Cereales - 375 g](https://www.amazon.es/dp/B00XDNRTP0/?tag=tolees-21) con un 15.26 % de descuento con precio de oferta de 2.11 EUR (original: 2.49 EUR) en el siguiente enlace!
