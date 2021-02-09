@@ -28,10 +28,10 @@ Ahora mismo tienes [Cola Cao - ColaCao Noir: Intenso sabor y 0% azúcares añadi
 
 🔎:
 
+- Tómatelo como y donde quieras, a tu manera tanto frío como caliente, y disfruta de una experiencia diferente.
 - Alérgenos: contiene trigo y soja. Mantener en lugar fresco y seco.
+- 20 raciones en su envase de 300 gramos.
 - Con cacao certificado UTZ. Al comprar cacao UTZ, ColaCao apoya el cultivo sostenible de cacao. Los agricultores certificados por UTZ implementan mejores prácticas agrícolas, con respeto a la gente y al planeta.
 - Disfruta de un ColaCao más intenso y de su delicioso sabor gracias a la combinación perfectamente equilibrada de 4 variedades diferentes de cacao.
-- 20 raciones en su envase de 300 gramos.
-- Tómatelo como y donde quieras, a tu manera tanto frío como caliente, y disfruta de una experiencia diferente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PTSK2FG/?tag=tolees-21)

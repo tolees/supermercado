@@ -28,9 +28,9 @@ Tienes [TRESemmé Acondicionador Liso Keratina 6 x 685 ML](https://www.amazon.es
 
 🔎:
 
-- Combina el aceite de Marula y la Keratina en 1 sistema con 5 beneficios
 - Desenredo fácil, Nutrición, Suavidad, Brillo deslumbrante
 - Alisado de peluquería
 - Este sistema controla el encrespamiento hasta 72 horas para un cabello suave, apropiado y nutrido
+- Combina el aceite de Marula y la Keratina en 1 sistema con 5 beneficios
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089HNKVYB/?tag=tolees-21)

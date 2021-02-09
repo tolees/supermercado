@@ -28,9 +28,9 @@ En este momento está [Soberano - Bebida Espirituosa de Jerez - 1000 ml](https:/
 
 🔎:
 
-- Tiene una cantidad de 1000 ml
-- Marca del producto: Soberano
-- Contenido de alcohol: 30%
 - Tipo de producto: bebida espirituosa
+- Contenido de alcohol: 30%
+- Marca del producto: Soberano
+- Tiene una cantidad de 1000 ml
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00AATCX8S/?tag=tolees-21)
