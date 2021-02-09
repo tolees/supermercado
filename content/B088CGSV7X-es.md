@@ -29,7 +29,7 @@ Ahora mismo tienes [Dove Pastilla Micelar Sensitive - Pack de 48](https://www.am
 🔎:
 
 - Es una pastilla limpiadora para rostro y manos
-- Las partículas micelares limpian tu piel de los agresores ambientales diarios como la polución e impurezas dejando que tu piel sensible esté suave y cuidada
 - Dove no es un jabón
+- Las partículas micelares limpian tu piel de los agresores ambientales diarios como la polución e impurezas dejando que tu piel sensible esté suave y cuidada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088CGSV7X/?tag=tolees-21)
