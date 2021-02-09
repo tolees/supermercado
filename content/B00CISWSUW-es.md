@@ -28,10 +28,10 @@ Tienes [Rexona - Cotton dry algodón  desodorante en barra para mujer  pack de 6
 
 ℹ️:
 
-- Con tecnología Motionsense
-- Formato stick giratorio
 - Con una fragancia fresca y ligera
+- Formato stick giratorio
 - Apto para todos tipos de piel
 - Protección para 48 horas
+- Con tecnología Motionsense
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CISWSUW/?tag=tolees-21)
