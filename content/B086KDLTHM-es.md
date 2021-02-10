@@ -30,7 +30,7 @@ Está [Listerine - Enjuague Bucal Mentol Sabor Suave  2 x 1000 ml 2 Unidades 206
 
 - Proporciona la tranquilidad de un aliento fresco duradero
 - Elimina los gérmenes que causan la placa y la gingivitis
-- Fórmula basada en aceites con flúor y sin alcohol
 - Proporciona 24 horas de protección contra la placa
+- Fórmula basada en aceites con flúor y sin alcohol
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086KDLTHM/?tag=tolees-21)
