@@ -28,9 +28,9 @@ Ahora mismo tienes [Lavazza Cápsulas de café Armonico - Paquete de 10 cápsula
 
 🔎:
 
-- Proviene 100 % de la mezcla de orígenes de granos de café Arábica de Sudamérica
-- Café Lavazza en cápsulas compatibles con máquinas Nespresso
 - Envasadas en atmósfera protegida
 - Un café con un sabor de gran cuerpo y notas envolventes de cereales tostados y caramelo
+- Café Lavazza en cápsulas compatibles con máquinas Nespresso
+- Proviene 100 % de la mezcla de orígenes de granos de café Arábica de Sudamérica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076MT7TTQ/?tag=tolees-21)

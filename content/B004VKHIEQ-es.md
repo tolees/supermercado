@@ -28,8 +28,8 @@ Tienes [Kesper 38202-Caja con Ventana para Café Metal  Redondo  26 x 18 x 15 cm
 
 🔎:
 
-- Una práctica solución para guardar tus especias, café, té, etc. durante más tiempo.
-- Tamaño: 19 cm. hoche
 - Material: metal.
+- Tamaño: 19 cm. hoche
+- Una práctica solución para guardar tus especias, café, té, etc. durante más tiempo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004VKHIEQ/?tag=tolees-21)
