@@ -28,8 +28,8 @@ Ahora mismo tienes [Garnier - Crema Hidratante 24H Hydra-Adapt para pieles mixta
 
 🔎:
 
+- Género - Mujer
 - Marca - Garnier
 - Tipo de producto - Crema matificante hidratante
-- Género - Mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00E7VCHPO/?tag=tolees-21)
