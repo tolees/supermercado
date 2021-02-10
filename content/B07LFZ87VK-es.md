@@ -28,10 +28,10 @@ Ahora mismo tienes [Waterpik Complete Care 9.0 - Cepillo de dientes eléctrico s
 
 🔎:
 
-- Cuide su higiene bucal con el cepillo de dientes eléctrico sónico + irrigador bucal Complete Care 9.0
-- Está clínicamente probado que elimina hasta el 99, 9 % de la placa de las zonas tratadas: ayuda a prevenir la caries dental y futuros tratamientos dentales
 - Disfrute del cepillado y la limpieza con seda dental en un diseño ultra compacto y cómodo, que ocupa menos espacio y menos tomas de corriente
 - Cuenta con el cepillo de dientes recargable con 3 modos: limpiar, blanquear y masajear. Está clínicamente probado que el modo de blanquear elimina hasta 9 veces más manchas que un cepillo normal
+- Cuide su higiene bucal con el cepillo de dientes eléctrico sónico + irrigador bucal Complete Care 9.0
+- Está clínicamente probado que elimina hasta el 99, 9 % de la placa de las zonas tratadas: ayuda a prevenir la caries dental y futuros tratamientos dentales
 - Incluye 5 boquillas accesorios, 2 cabezales del cepillo, estuche de viaje para el cepillo de dientes, estuche de almacenamiento de las boquillas, dos años de garantía
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LFZ87VK/?tag=tolees-21)

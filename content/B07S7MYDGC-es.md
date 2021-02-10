@@ -28,9 +28,9 @@ Ahora mismo tienes [Johnson s Baby Gotas de Brillo Champú para Niños  Cabellos
 
 🔎:
 
-- Champú para niños que realza el brillo natural y deja un cabello suave
-- Champú enriquecido con aceite de argán y proteínas de seda
 - Champú sin sulfatos, ftalatos, alcohol, colorantes ni jabón
+- Champú enriquecido con aceite de argán y proteínas de seda
+- Champú para niños que realza el brillo natural y deja un cabello suave
 - Hipoalergénico y con pH equilibrado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S7MYDGC/?tag=tolees-21)
