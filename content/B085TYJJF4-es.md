@@ -28,11 +28,11 @@ Tienes [Embutidos Ezequiel Chorizo Extra Picante 425 g](https://www.amazon.es/dp
 
 🔎:
 
-- Ahumado con leña de roble
-- Alto contenido proteico
-- Receta original desde 1945
 - Mantener en un lugar fresco y seco
+- Receta original desde 1945
 - Nuestro despiece es manual para asegurarnos que los ingredientes cumplan los máximos estándares
+- Alto contenido proteico
 - Sin gluten y sin lactosa
+- Ahumado con leña de roble
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085TYJJF4/?tag=tolees-21)

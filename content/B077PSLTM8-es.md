@@ -28,7 +28,7 @@ En este momento está [Dulcesol Croissants Cacao - 5 uds - 225 g](https://www.am
 
 🔎:
 
-- Croissants rellenos de cacao, elaborados con huevos frescos de nuestra propia granja
 - 5 unidades envasadas individualmente
+- Croissants rellenos de cacao, elaborados con huevos frescos de nuestra propia granja
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077PSLTM8/?tag=tolees-21)

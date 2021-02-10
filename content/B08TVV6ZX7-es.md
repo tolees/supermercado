@@ -28,10 +28,10 @@ Ahora mismo tienes [Ribnican Kitchen - Tabla de cortar de cocina de madera antib
 
 🔎:
 
+- Función: la tabla de cortar se puede utilizar como tabla de cortar para la cocina, para el desayuno, para cortar el pan, para servir, etc. o para guardar queso, embutidos, pan, dulces, etc.
 - Conservación: la tabla de cortar solo es adecuada para conservar los alimentos en el frigorífico durante un período de tiempo corto (máx. 24 horas), porque el frío extrae la humedad de la tabla de cortar. Por lo tanto, la tabla de cortar puede deformarse o romperse. Se recomienda guardar el producto en la habitación más fresca de tu apartamento/vivienda (por ejemplo, despensa, sótano...
+- Calidad de madera de haya: tabla de cortar de alta calidad con canal de drenaje. Contenido del paquete: 1 tabla de cortar con cubierta (dimensiones: diámetro de 24 cm; altura entre la mesa y la tapa: 8 cm).
 - Instrucciones de limpieza: limpiar la tabla solo a mano. La tabla de cortar no es apta para lavavajillas. La forma más rápida y fácil es limpiar con agua, luego secar con un paño y luego dejar secar al aire. Nunca dejes la tabla de madera en el agua, ya que puede deformarse y romperse.
 - Protección: la tabla de cortar está tratada con aceite para el mantenimiento (Belinka Oil Food Contact). La impregnación se absorbe profundamente en la madera y hace que la superficie sea repelente al agua. El aceite de Belinka se compone de ingredientes naturales y es inofensivo para la salud y el medio ambiente. Para mantener y cuidar la madera, la tabla de cortar debe ser aceitada según sea necesario.
-- Función: la tabla de cortar se puede utilizar como tabla de cortar para la cocina, para el desayuno, para cortar el pan, para servir, etc. o para guardar queso, embutidos, pan, dulces, etc.
-- Calidad de madera de haya: tabla de cortar de alta calidad con canal de drenaje. Contenido del paquete: 1 tabla de cortar con cubierta (dimensiones: diámetro de 24 cm; altura entre la mesa y la tapa: 8 cm).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TVV6ZX7/?tag=tolees-21)
