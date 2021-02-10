@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza Máquina de Café Jolie Plus  1250 al 0.00 % de descuento'
-date: 2021-01-30 09:30:16
+date: 2021-02-10 07:54:34
 image: 'https://m.media-amazon.com/images/I/417CwDfYbWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Lavazza Máquina de Café Jolie Plus  1250W  gris metálico  Gun Metal Gr
 
 ℹ️:
 
-- Doble botón de distribución (2 selecciones de café).
-- Control de la temperatura: capacidad del depósito: 0,6 L.
-- Rejilla ajustable en dos alturas pequeño y grande (Small/Large) para preparar un expreso clásico o un café largo.
 - Indicador de lleno del cajón de cápsulas usadas y de depósito agua vacío.
+- Rejilla ajustable en dos alturas pequeño y grande (Small/Large) para preparar un expreso clásico o un café largo.
+- Control de la temperatura: capacidad del depósito: 0,6 L.
 - Elegante acabado cromado.
+- Doble botón de distribución (2 selecciones de café).
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071FGZMGN/?tag=tolees-21)
