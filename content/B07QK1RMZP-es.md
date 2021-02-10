@@ -28,10 +28,10 @@ Está [Catunambú Ristretto  Cápsulas de café - 112 gr.](https://www.amazon.es
 
 ℹ️:
 
-- Ingredientes: café
-- País de origen: España
-- Para adultos
-- Alérgenos: No posee
 - Una vez abierto, conservar en lugar fresco y seco
+- País de origen: España
+- Ingredientes: café
+- Alérgenos: No posee
+- Para adultos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QK1RMZP/?tag=tolees-21)

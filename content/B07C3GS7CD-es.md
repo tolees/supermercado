@@ -28,10 +28,10 @@ Ahora mismo tienes [Garnier Ultra Doux ducha cuidado leche de almendra nourricie
 
 🔎:
 
-- Base lavante de origen vegetal, sin parabenos, frasco 100% reciclable y fabricado a partir de 30% de plástico reciclado.
-- 1 dosis para un momento de nutrición bajo la ducha.
 - En caso de contacto con los ojos, enjuágalos inmediatamente. No ingerir. No dejar al alcance de los niños pequeños sin supervisión.
-- Déjate envolver por su textura cremosa, enriquecida con 1/3 de loción hidratante, para adaptarse a todas tus necesidades.
 - 3 dosis para sumergirse en un delicioso baño de leche.
+- 1 dosis para un momento de nutrición bajo la ducha.
+- Déjate envolver por su textura cremosa, enriquecida con 1/3 de loción hidratante, para adaptarse a todas tus necesidades.
+- Base lavante de origen vegetal, sin parabenos, frasco 100% reciclable y fabricado a partir de 30% de plástico reciclado.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C3GS7CD/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Spontex Guante Essential 200 160 g](https://www.amazon.es/dp
 
 🔎:
 
-- Hechos de pllietileno
 - Ideales para tareas puntuales
 - Con relieves antideslizantes
+- Hechos de pllietileno
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0083FNA7E/?tag=tolees-21)

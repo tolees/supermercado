@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Neutrogena Blackhead Eliminating Tónico  al 14.94 % de descuento'
-date: 2020-06-11 15:08:24
-image: 'https://m.media-amazon.com/images/I/313etbc042L._SL200_.jpg'
+title: 'Neutrogena Blackhead Eliminating Tónico  al 25.32 % de descuento'
+date: 2021-02-10 15:13:25
+image: 'https://m.media-amazon.com/images/I/41W4xzsYf9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EXSAJ56-es Neutrogena Blackhead Eliminating Tónico Limpiador - 200 ml'
+slug: 'B00EXSAJ56-es Neutrogena Blackhead Eliminating Tónico Limpiador con...'
 sku: 'B00EXSAJ56-es'
 tags: [ 'neutrogena', ]
-actualPrice: 13.1 EUR
+actualPrice: 11.5 EUR
 currency: EUR
-price: 13.1
+price: 11.5
 comparePrice: 15.4 EUR
-prodname: 'Neutrogena Blackhead Eliminating Tónico Limpiador - 200 ml'
+prodname: 'Neutrogena Blackhead Eliminating Tónico Limpiador con Ácido Salicílico Purificante  Pieles con Puntos Negros  200 ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Neutrogena'
 buyurl: 'https://www.amazon.es/dp/B00EXSAJ56/?tag=tolees-21'
-descuento: '14.94'
-average: '13.1'
+descuento: '25.32'
+average: '12.3'
 ---
 
-Está [Neutrogena Blackhead Eliminating Tónico Limpiador - 200 ml](https://www.amazon.es/dp/B00EXSAJ56/?tag=tolees-21) con 14.94 de descuento por 13.1 EUR (original: 15.4 EUR) en el siguiente enlace!
+Está [Neutrogena Blackhead Eliminating Tónico Limpiador con Ácido Salicílico Purificante  Pieles con Puntos Negros  200 ml](https://www.amazon.es/dp/B00EXSAJ56/?tag=tolees-21) con 25.32 de descuento por 11.5 EUR (original: 15.4 EUR) en el siguiente enlace!
 
-[![Neutrogena Blackhead Eliminating Tónico ](https://m.media-amazon.com/images/I/313etbc042L._SL200_.jpg)](https://www.amazon.es/dp/B00EXSAJ56/?tag=tolees-21)
+[![Neutrogena Blackhead Eliminating Tónico ](https://m.media-amazon.com/images/I/41W4xzsYf9L._SL200_.jpg)](https://www.amazon.es/dp/B00EXSAJ56/?tag=tolees-21)
 
 ℹ️:
 
+- Además, este exfoliante contiene ácido salicílico, el cual purifica la piel para conseguir un rostro suave y sin imperfecciones
+- Sus partículas exfoliantes de celulosa natural actúan sobre la piel desobstruyendo los poros, eliminando la suciedad y el sebo atascado para limpiar y reducir la apariencia de los poros
+- El Exfoliante Facial Blackhead Eliminating de Neutrogena elimina y ayuda a prevenir los puntos negros, reduciendo los poros visiblemente desde el primer día
+- Este exfoliante es ideal para mantener una piel bonita, sana y limpia en profundidad; ideal para pieles con puntos negros
+- Contiene una fórmula no comedogénica y no grasa que ha sido comprobada por dermatólogos; es ideal para utilizarse diario
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00EXSAJ56/?tag=tolees-21)
