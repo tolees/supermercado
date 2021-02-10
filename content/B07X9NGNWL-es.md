@@ -29,7 +29,7 @@ Tienes [Binaca Pasta de Dientes Blanqueante Profesional 100 g](https://www.amazo
 🔎:
 
 - Matiene tus dientes sanos
-- Cuidado bucal
 - Fortalece el esmalte y conseguirás una triple protección en caries, encías y sarro
+- Cuidado bucal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07X9NGNWL/?tag=tolees-21)

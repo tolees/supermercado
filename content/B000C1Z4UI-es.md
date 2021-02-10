@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elizabeth Arden Provocative Eau de Parfu al 13.50 % de rebaja'
-date: 2021-02-09 09:53:56
+date: 2021-02-10 10:05:50
 image: 'https://m.media-amazon.com/images/I/41C1B1orJhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Elizabeth Arden'
 buyurl: 'https://www.amazon.es/dp/B000C1Z4UI/?tag=tolees-21'
 descuento: '13.50'
-average: '17.0327433628318'
+average: '17.0373913043478'
 ---
 
 Tienes [Elizabeth Arden Provocative Eau de Parfum 100 ml](https://www.amazon.es/dp/B000C1Z4UI/?tag=tolees-21) con precio final de  17.3 EUR (original: 20.0 EUR) (13.50 %  de rebaja) aqui!

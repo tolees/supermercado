@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en quejara - LOTE- CESTA DE NAVIDAD BODEGA'
-date: 2021-02-01 08:27:06
+date: 2021-02-10 10:25:51
 image: 'https://m.media-amazon.com/images/I/51N3r29Bm+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,9 +9,9 @@ author: ring
 slug: 'B07RPBKWH5-es quejara - LOTE- CESTA DE NAVIDAD BODEGA'
 sku: 'B07RPBKWH5-es'
 tags: [ 'cesta','de','navidad', ]
-actualPrice: 139.45 EUR
+actualPrice: 139.15 EUR
 currency: EUR
-price: 139.45
+price: 139.15
 comparePrice:  EUR
 prodname: 'quejara - LOTE- CESTA DE NAVIDAD BODEGA'
 country: 'es'
@@ -19,14 +19,15 @@ flag: '🇪🇸'
 brand: 'quejara'
 buyurl: 'https://www.amazon.es/dp/B07RPBKWH5/?tag=tolees-21'
 descuento: '0.00'
-average: '139.45'
+average: '139.403846153846'
 ---
 
-Tienes [quejara - LOTE- CESTA DE NAVIDAD BODEGA](https://www.amazon.es/dp/B07RPBKWH5/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 139.45 EUR (original:  EUR) en el siguiente enlace!
+Tienes [quejara - LOTE- CESTA DE NAVIDAD BODEGA](https://www.amazon.es/dp/B07RPBKWH5/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 139.15 EUR (original:  EUR) en el siguiente enlace!
 
 [![quejara - LOTE- CESTA DE NAVIDAD BODEGA](https://m.media-amazon.com/images/I/51N3r29Bm+L._SL200_.jpg)](https://www.amazon.es/dp/B07RPBKWH5/?tag=tolees-21)
 
 ℹ️:
 
+- LOTE BODEGA. Contiene: -Jamón Reserva Duroc de 8 kg aprox. -Salchichón vela ibérica de bellota de 600 gr aprox. -Chorizo Rosario Casero. -Morcilla rondeña.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07RPBKWH5/?tag=tolees-21)

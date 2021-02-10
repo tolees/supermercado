@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cómo hacer jabones: Aprende a formular r al 0.00 % de descuento'
-date: 2021-02-08 22:16:36
+date: 2021-02-10 10:10:39
 image: 'https://m.media-amazon.com/images/I/51sRqmXh1iL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DR33I7S/?tag=tolees-21'
 descuento: '0.00'
-average: '7.67750000000002'
+average: '7.67484848484851'
 ---
 
 Ahora mismo tienes [Cómo hacer jabones: Aprende a formular recetas de jabón por saponificación](https://www.amazon.es/dp/B01DR33I7S/?tag=tolees-21) a 7.59 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!

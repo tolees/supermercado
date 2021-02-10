@@ -28,8 +28,8 @@ Tienes [Sanytol  Producto de limpieza multiusos para el hogar - 1000 ml.](https:
 
 🔎:
 
-- Excepcional Producto de limpieza multiusos para el hogar con caracteristicas renovadoras
-- Este nuevo producto de  SANYTOL  es un item ideal para regalo en ocasiones especiales
 - Te hara ver bien, mejorando tu autoestima y humor, ayudando a relajarte
+- Este nuevo producto de  SANYTOL  es un item ideal para regalo en ocasiones especiales
+- Excepcional Producto de limpieza multiusos para el hogar con caracteristicas renovadoras
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MZNXR29/?tag=tolees-21)
