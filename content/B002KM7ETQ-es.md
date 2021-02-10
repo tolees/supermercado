@@ -28,9 +28,9 @@ Ahora mismo tienes [Catunambú Catunambú Café Molido Mezcla 250 Gr 1 Unidad 25
 
 🔎:
 
+- Posee azúcar
 - Ingredientes: café
 - Información de alérgenos: gluten_free
-- Posee azúcar
 - Ingredientes: café
 - Una vez abierto, conservar en lugar fresco y seco
 
