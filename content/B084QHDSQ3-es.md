@@ -28,10 +28,10 @@ En este momento está [Juego de regalo de vela perfumada YMing  cera de soja nat
 
 🔎:
 
-- Una buena idea de regalo, adecuada para varias ocasiones, como el día de la madre, cumpleaños, acción de gracias, aniversario, día de San Valentín, etc.
 - Materiales puros y seguros, estas velas perfumadas están hechas con cera de soja naturalmente pura y aceites de aromaterapia natural, mechas sin plomo en tela 100% algodón que pueden proporcionar un tiempo de combustión más limpio y más prolongado, logrando un 100% orgánico y ecológico.
+- Tiempo de combustión prolongado, 4.4 oz y cada vela y tiempo de combustión: 25 a 30 horas, combustión total durante 120 horas. Disfrute plenamente del relajante mundo de la aromaterapia.
 - Juego de regalo ideal, cada vela de hojalata tiene un patrón exquisito, que se puede decorar en casa y en la cocina o la habitación. No solo son hermosas velas, sino que también tienen funciones, como calmar tus nervios, darte un dulce sueño y limpiar el aire. No es solo una caja de viaje portátil, sino también una aromaterapia de yoga para el baño. Adecuado para esposa, día de la madre, aniversarios.
 - Juego de 4 velas perfumadas, juego de regalo de velas aromáticas que incluye higos mediterráneos, limón, primavera y lavanda, que ayudan a relajar el cuerpo y limpiar el aire.
-- Tiempo de combustión prolongado, 4.4 oz y cada vela y tiempo de combustión: 25 a 30 horas, combustión total durante 120 horas. Disfrute plenamente del relajante mundo de la aromaterapia.
+- Una buena idea de regalo, adecuada para varias ocasiones, como el día de la madre, cumpleaños, acción de gracias, aniversario, día de San Valentín, etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084QHDSQ3/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [YMing Tealight  velas de cera  velas perfumadas  paquete 
 
 🔎:
 
-- Si tiene alguna pregunta sobre nuestros productos, no dude en contactarnos, le responderemos a tiempo.
 - Adecuado para muchas ocasiones, las velas TeaLight son perfectas para eventos en interiores y exteriores. Puede usarlos en spa, baño, sala de yoga, dormitorio. También encajan perfectamente en portavasos de vidrio.
-- Juego de 4 velas perfumadas, el juego de regalo de velas aromáticas incluye higos mediterráneos, limón, primavera y lavanda, que ayudan a relajar el cuerpo y limpiar el aire.
-- Tiempo de combustión prolongado, cada vela perfumada de candelitas tiene 4 horas de combustión, suficiente para la mayoría de las cenas, bodas u ocasiones especiales, para realzar la decoración.
 - Material seguro natural puro, velas perfumadas Tea Light están hechas con cera de soja natural, hilo de algodón puro y aceite esencial. Una fragancia rica y duradera te hace sentir cómodo. Puede disfrutar del calor de las velas de té de larga duración libres de humo.
+- Si tiene alguna pregunta sobre nuestros productos, no dude en contactarnos, le responderemos a tiempo.
+- Tiempo de combustión prolongado, cada vela perfumada de candelitas tiene 4 horas de combustión, suficiente para la mayoría de las cenas, bodas u ocasiones especiales, para realzar la decoración.
+- Juego de 4 velas perfumadas, el juego de regalo de velas aromáticas incluye higos mediterráneos, limón, primavera y lavanda, que ayudan a relajar el cuerpo y limpiar el aire.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B085KX43TW/?tag=tolees-21)
