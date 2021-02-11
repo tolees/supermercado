@@ -29,8 +29,8 @@ Tienes [Bitter KAS - Kas Refresco de Zumo de Limón - Paquete de 24 x 330 ml - T
 🔎:
 
 - No congelar
-- Proteger de la luz solar y de olores agresivos
-- Conservar en lugar limpio, fresco y seco
 - Evitar el contacto directo con el suelo
+- Conservar en lugar limpio, fresco y seco
+- Proteger de la luz solar y de olores agresivos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089BJD2D4/?tag=tolees-21)

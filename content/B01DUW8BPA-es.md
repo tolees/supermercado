@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Leche Pascual - Clásica Leche Entera - 1 con un 0.00 % de descuento'
-date: 2021-02-10 22:37:30
+date: 2021-02-11 22:47:17
 image: 'https://m.media-amazon.com/images/I/41MoBqEfUcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pascual'
 buyurl: 'https://www.amazon.es/dp/B01DUW8BPA/?tag=tolees-21'
 descuento: '0.00'
-average: '11.8840625000002'
+average: '11.8610309278352'
 ---
 
 En este momento está [Leche Pascual - Clásica Leche Entera - 1 L  Paquete de 6 ](https://www.amazon.es/dp/B01DUW8BPA/?tag=tolees-21) a 9.65 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Leche Pascual - Clásica Leche Entera - 1 L  Paquete de 6
 
 🔎:
 
+- Se debe conservar en un lugar fresco y seco
 - Una vez abierto conservar el envase cerrado en nevera y consumir antes de 3 días
 - Advertencia alergénica: contiene leche
-- Se debe conservar en un lugar fresco y seco
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01DUW8BPA/?tag=tolees-21)
