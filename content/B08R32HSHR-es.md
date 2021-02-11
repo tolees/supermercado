@@ -28,13 +28,13 @@ Ahora mismo tienes [Pack de cervezas degustación BEER 501 - Caja Cerveza Premiu
 
 🔎:
 
-- ➡️ 1906 33cl: Elaborada a partir de un mosto específicos, en la fábrica de Hijos de Rivera, en A Coruña. La cerveza 1906 Reserva Especial cuenta con uno de los períodos de maduración más largos entre las cervezas lager nacionales. La gran ganadora de premios internacionales !
 - ➡️ ALHAMBRA 1925 33cl: Los sabores de cereal y lúpulo se mantienen equilibrados con un contrapunto de amargor medio en boca.
-- ➡️ MAHOU MAESTRA 33cl: Un homenaje a los maestros cerveceros. Cerveza tostada, de doble lúpulo, gran cuerpo y sabor intenso.
 - ➡️ INEDIT 33cl: Creada por Ferran Adrià, el chef más premiado del mundo. Espléndida con entrantes, ensaladas y pescados de textura grasa, su versatilidad permite también combinarla con agridulces y sensaciones picantes.
-- ➡️ LA VIRGEN JAMONERA 33cl: Nombrada en 2019 como la mejor Amber Ale de España por los World Beer Awards. Elaborada con maltas tostadas y caramelizadas que le aportan sus característicos aromas frutales.
-- ➡️ MAHOU BARRICA 33cl: Te presentamos Barrica de Mahou. Una nueva cerveza lager envejecida en auténtica barrica de roble con un sabor único. Porque la cerveza no solo se elabora en tanques, y esto es una demostración de que una nueva forma de hacer cerveza es posible…, y ¡Qué pedazo de cerveza!
-- ➡️ LA SAGRA CASTIZA 33cl: Las mejores maltas seleccionadas procedentes de España se combinan con selecto lúpulo americano, dando lugar a una cerveza con un cuerpo y aroma extraordinarios.
 - ➡️ AMBAR EXPORT 33cl: Tres maltas, doble período de fermentación y lenta maduración en bodega. Así es Ambar Export, una cerveza hecha sin prisas. Con 7 grados de alcohol, Ambar Export es una cerveza tostada excepcional, rojiza, rica en matices aromáticos y con una espuma densa cremosa. Más cuerpo, más sabor y más carácter para una cerveza que se disfruta igual que como se elabora, con calma.
+- ➡️ MAHOU BARRICA 33cl: Te presentamos Barrica de Mahou. Una nueva cerveza lager envejecida en auténtica barrica de roble con un sabor único. Porque la cerveza no solo se elabora en tanques, y esto es una demostración de que una nueva forma de hacer cerveza es posible…, y ¡Qué pedazo de cerveza!
+- ➡️ 1906 33cl: Elaborada a partir de un mosto específicos, en la fábrica de Hijos de Rivera, en A Coruña. La cerveza 1906 Reserva Especial cuenta con uno de los períodos de maduración más largos entre las cervezas lager nacionales. La gran ganadora de premios internacionales !
+- ➡️ MAHOU MAESTRA 33cl: Un homenaje a los maestros cerveceros. Cerveza tostada, de doble lúpulo, gran cuerpo y sabor intenso.
+- ➡️ LA SAGRA CASTIZA 33cl: Las mejores maltas seleccionadas procedentes de España se combinan con selecto lúpulo americano, dando lugar a una cerveza con un cuerpo y aroma extraordinarios.
+- ➡️ LA VIRGEN JAMONERA 33cl: Nombrada en 2019 como la mejor Amber Ale de España por los World Beer Awards. Elaborada con maltas tostadas y caramelizadas que le aportan sus característicos aromas frutales.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08R32HSHR/?tag=tolees-21)
