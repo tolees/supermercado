@@ -28,9 +28,9 @@ En este momento está [L Oreal Paris Make-up Designer - L Oréal Paris Make-up d
 
 🔎:
 
-- Weightless feel, freshwear liquid foundation
 - Longwear formula lasts up to 24HR, Ultra-stretchable gel formula
-- Transfer-proof, life-proof, party-proof and waterproof
 - Available in 26 shades
+- Weightless feel, freshwear liquid foundation
+- Transfer-proof, life-proof, party-proof and waterproof
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DSH733Z/?tag=tolees-21)
