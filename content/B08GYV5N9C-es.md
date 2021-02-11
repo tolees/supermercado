@@ -28,9 +28,9 @@ Tienes [Puleva Leche con Vitadefensas 6000 ml](https://www.amazon.es/dp/B08GYV5N
 
 🔎:
 
+- Inmunitas es una combinación de Selenio, Zinc, y vitaminas A, B6, B9, B12, C y D
+- Dirigida a toda la familia
 - La primera leche de consumo diario que contribuye al mantenimiento de la función del sistema inmunitario
 - La manera más fácil de ayudar al sistema inmunitario
-- Dirigida a toda la familia
-- Inmunitas es una combinación de Selenio, Zinc, y vitaminas A, B6, B9, B12, C y D
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GYV5N9C/?tag=tolees-21)

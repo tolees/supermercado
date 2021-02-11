@@ -28,10 +28,10 @@ Tienes [Conservas Dantza Acelga S/Sal Dantza V-720 Tr 1ª 660 g](https://www.ama
 
 🔎:
 
-- Ingredientes: Acelga y agua
+- Mantener en un lugar fresco y seco
 - Pais de origen: España
+- Ingredientes: Acelga y agua
 - Verdura Navarra lista para condimentar al gusto.
 - Libre de alergenos
-- Mantener en un lugar fresco y seco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PWM9RKH/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Campos  Conserva de atún claro en aceite de oliva virgen
 
 🔎:
 
-- Pack de 4 latas individuales de 80 g, con tapa fácil apertura
-- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
+- Conserva de atún claro en aceite de oliva virgen extra
 - País de origen: España, producto natural sin conservantes ni colorantes
 - Lata ideal para consumo individual
-- Conserva de atún claro en aceite de oliva virgen extra
+- Pack de 4 latas individuales de 80 g, con tapa fácil apertura
+- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NRQ6MQ8/?tag=tolees-21)
