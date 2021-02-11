@@ -29,9 +29,9 @@ Ahora mismo tienes [Lavazza Café en Grano Caffè Espresso  Paquete de 1 Kg](htt
 🔎:
 
 - CALIDAD LAVAZZA: Elaborado al 100 % a partir de granos de Arábica especialmente seleccionados, este blend produce un sabor oscuro, intensamente aromático
-- El café espresso definitivo para disfrutar a cualquier hora del día
 - ASPECTO: Espuma dorada y color cálido - AROMA: Notas de frutas y flores - SABOR Suave y rico
 - ENVASE: Lavazza café en grano para cafetera Caffè Espresso, paquete de 1 kg
+- El café espresso definitivo para disfrutar a cualquier hora del día
 - MEZCLA: 100% Arábica - Tueste: Medio - Intensidad: 5 Delicado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01KLSXBJ2/?tag=tolees-21)

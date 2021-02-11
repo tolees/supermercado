@@ -28,15 +28,15 @@ Está [Sadival Cesta de Navidad con Jamón De Jabugo  ibéricos y gran variedad 
 
 ℹ️:
 
-- 1 Pieza Salchichón Sarta Ibérico Bellota Sierra de las Bellotas 150 Grs.
-- 1 Botella Cava Brut Jaume Serra 75 Cl.
-- 1 Estuche Pasas Sultanas Casa Barberá 90 Grs.
-- 1 Pieza Jamón Pata Piel Los Romeros de Jabugo 6-6.5 Kg.
 - 1 Botella Vino Blanco Gallego Viña Meiga 75 Cl.
 - 1 Pieza Chorizo Sarta Ibérico Bellota Sierra de las Bellotas 150 Grs.
+- 5 Estuches de Turrones y Dulces
+- 1 Botella Cava Brut Jaume Serra 75 Cl.
+- 2 Botellas Vino Tinto Joven Galecu 75 Cl.
 - 1 Botella Vino Rosado Oblisco 75 Cl.
 - 1 Pieza Morcilla Ibérica Montehonfría 150 Grs
-- 5 Estuches de Turrones y Dulces
-- 2 Botellas Vino Tinto Joven Galecu 75 Cl.
+- 1 Pieza Salchichón Sarta Ibérico Bellota Sierra de las Bellotas 150 Grs.
+- 1 Estuche Pasas Sultanas Casa Barberá 90 Grs.
+- 1 Pieza Jamón Pata Piel Los Romeros de Jabugo 6-6.5 Kg.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08K42TSZ6/?tag=tolees-21)
