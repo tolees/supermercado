@@ -28,8 +28,8 @@ Está [iTimo - Cucharón de Cocina con Mango Largo y Pajita de Trigo respetuosa 
 
 ℹ️:
 
-- Salud ambiental material
 - Material: polipropileno de grado alimenticio + pajita de trigo.
+- Salud ambiental material
 - El gancho está diseñado para un fácil almacenamiento.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K1YKXGJ/?tag=tolees-21)

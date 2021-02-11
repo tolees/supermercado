@@ -28,12 +28,12 @@ Tienes [Albal Papel vegetal para horno  antiadherente  impermeable  100 m](https
 
 ℹ️:
 
-- papel especial blanqueado sin cloro, fabricado con pulpa proveniente de bosques de cultivo responsable, estuche de cartón con sierra de corte, sujeción del rollo al estuche en los laterales
-- rollo de papel vegetal para preparar alimentos en el horno, óptimo para preparar elaboraciones dulces o saladas sin que se peguen y sin necesidad de añadir aceite o grasa
-- área de contacto reducida entre los alimentos y el papel gracias a la superficie con doble revestimiento de silicona y estructura antiadherente, utilizable por ambas caras
-- Unidades: 100.0
 - Unidad de medida: metro
 - contenido: 1 x rollo de papel vegetal de horno albal, largo: 100 m, ancho: 38 cm
+- rollo de papel vegetal para preparar alimentos en el horno, óptimo para preparar elaboraciones dulces o saladas sin que se peguen y sin necesidad de añadir aceite o grasa
 - doble revestimiento de silicona para un desmoldado fácil y rápido, absorción de grasas, mantiene el horno limpio
+- papel especial blanqueado sin cloro, fabricado con pulpa proveniente de bosques de cultivo responsable, estuche de cartón con sierra de corte, sujeción del rollo al estuche en los laterales
+- Unidades: 100.0
+- área de contacto reducida entre los alimentos y el papel gracias a la superficie con doble revestimiento de silicona y estructura antiadherente, utilizable por ambas caras
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDO14F0/?tag=tolees-21)
