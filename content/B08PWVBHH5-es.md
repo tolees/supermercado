@@ -28,10 +28,10 @@ Tienes [Practicosa - Gel Hidroalcohólico 60ML 70% Alcohol  6 Aromas Mixtos  9 U
 
 ℹ️:
 
-- Cuidado y protección con el mejor aroma.
-- Aromas: Fresa, Coco, Vainilla, Manzana, SPA y Lavanda.
 - Fabricado en España.
+- Aromas: Fresa, Coco, Vainilla, Manzana, SPA y Lavanda.
 - No pegajoso.
+- Cuidado y protección con el mejor aroma.
 - Alto contenido en alcohol 70%.
 - Rápido secado.
 
