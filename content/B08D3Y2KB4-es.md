@@ -28,10 +28,10 @@ Tienes [KOFFIE CUP EST. 2020 - KoffieCup Intense 40 cápsulas compostables de ca
 
 🔎:
 
-- De cuerpo intenso como su nombre y sabor profundo. Notas tostadas y aromas a cacao y chocolate negro para crear un café con mucho carácter. Una experiencia cautivadora condensada en una cápsula.
-- Pack de 4 estuches de 10 cápsulas. Total de 40 cápsulas de 5g/ cápsula
-- Nuestras cápsulas son 100% compostables a partir de recursos naturales, las puedes depositar en tu contenedor de residuos orgánicos
 - Receta Intense intensidad 12- café con personalidad propia. De cuerpo intenso como su nombre y sabor profundo
 - Cápsulas compatibles para máquinas Nespresso*, marca registrada de Société des Produits Nestlé S.A. No compatibles con máquinas LOr
+- Nuestras cápsulas son 100% compostables a partir de recursos naturales, las puedes depositar en tu contenedor de residuos orgánicos
+- Pack de 4 estuches de 10 cápsulas. Total de 40 cápsulas de 5g/ cápsula
+- De cuerpo intenso como su nombre y sabor profundo. Notas tostadas y aromas a cacao y chocolate negro para crear un café con mucho carácter. Una experiencia cautivadora condensada en una cápsula.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D3Y2KB4/?tag=tolees-21)
