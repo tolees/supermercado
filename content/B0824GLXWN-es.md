@@ -28,10 +28,10 @@ Tienes [Vernel Suavizante Lavadora Concentrado Aromaterapia Agua de Coco & Miner
 
 🔎:
 
-- Disfruta de una experiencia aromática que dura hasta 200 días (en ropa guardada en el armario) y le da a tu ropa la sensación de perfume como recién lavado
-- La fórmula especialmente desarrollada contiene cápsulas de perfume Duo-Cap únicas que se activan con cada movimiento y liberan un aroma adicional incluso días después del lavado
-- La cremosa fórmula con Vitamina E y aceites esenciales naturales garantiza una suavidad increíble para tu ropa, protege las fibras y facilita el planchado
-- Vernel Aromaterapia+ está dermatológicamente aprobado
 - Pack eco-sostenible que facilita el reciclaje -botella hecha con 100% plástico reciclado
+- La fórmula especialmente desarrollada contiene cápsulas de perfume Duo-Cap únicas que se activan con cada movimiento y liberan un aroma adicional incluso días después del lavado
+- Vernel Aromaterapia+ está dermatológicamente aprobado
+- Disfruta de una experiencia aromática que dura hasta 200 días (en ropa guardada en el armario) y le da a tu ropa la sensación de perfume como recién lavado
+- La cremosa fórmula con Vitamina E y aceites esenciales naturales garantiza una suavidad increíble para tu ropa, protege las fibras y facilita el planchado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0824GLXWN/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Grefusa 109849 - MisterCorn América | Co al 13.33 % de descuento'
-date: 2021-01-27 13:51:16
+title: 'Grefusa 109849 - MisterCorn América | Co al 24.10 % de descuento'
+date: 2021-02-11 13:37:16
 image: 'https://m.media-amazon.com/images/I/51fuzTxRunL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,29 @@ author: ring
 slug: 'B07HHF2GDT-es Grefusa 109849 - MisterCorn América | Cocktail de Frutos...'
 sku: 'B07HHF2GDT-es'
 tags: [ 'grefusa','frutos','secos', ]
-actualPrice: 1.69 EUR
+actualPrice: 1.48 EUR
 currency: EUR
-price: 1.69
+price: 1.48
 comparePrice: 1.95 EUR
 prodname: 'Grefusa 109849 - MisterCorn América | Cocktail de Frutos Secos con Sabor a Salsa Sweet Carolina - 180 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Grefusa'
 buyurl: 'https://www.amazon.es/dp/B07HHF2GDT/?tag=tolees-21'
-descuento: '13.33'
-average: '1.67088888888889'
+descuento: '24.10'
+average: '1.66276595744681'
 ---
 
-Ahora mismo tienes [Grefusa 109849 - MisterCorn América | Cocktail de Frutos Secos con Sabor a Salsa Sweet Carolina - 180 gr](https://www.amazon.es/dp/B07HHF2GDT/?tag=tolees-21) a 1.69 EUR (original: 1.95 EUR) (13.33 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Grefusa 109849 - MisterCorn América | Cocktail de Frutos Secos con Sabor a Salsa Sweet Carolina - 180 gr](https://www.amazon.es/dp/B07HHF2GDT/?tag=tolees-21) a 1.48 EUR (original: 1.95 EUR) (24.10 %  de descuento) en el siguiente enlace!
 
 [![Grefusa 109849 - MisterCorn América | Co](https://m.media-amazon.com/images/I/51fuzTxRunL._SL200_.jpg)](https://www.amazon.es/dp/B07HHF2GDT/?tag=tolees-21)
 
 🔎:
 
-- Tentempie idóneo para descubrir los tesoros de América - Sabroso surtido MisterCorn con cacahuetes, miel y el Auténtico sabor a salsa Sweet Carolina
-- Snacks fritos | Fuente de fibra sin conservantes ni colorantes artificiales
 - Snack sin aceite de palma
+- Snacks fritos | Fuente de fibra sin conservantes ni colorantes artificiales
 - Bolsa de frutos secos mezclados de 180 gramos
+- Tentempie idóneo para descubrir los tesoros de América - Sabroso surtido MisterCorn con cacahuetes, miel y el Auténtico sabor a salsa Sweet Carolina
 - Surtido de frutos secos - Una mezcla perfecta durante el aperitivo o como picoteo sabor a salsa Sweet Carolina
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HHF2GDT/?tag=tolees-21)
