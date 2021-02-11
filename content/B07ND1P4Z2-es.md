@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELPOZO LEGADO Jamón de pavo con trufa y  al 0.00 % de descuento'
-date: 2021-02-09 16:51:47
+date: 2021-02-10 22:46:41
 image: 'https://m.media-amazon.com/images/I/41tv4QjMYzL._SL200_.jpg'
 comments: true
 category: ofertas
