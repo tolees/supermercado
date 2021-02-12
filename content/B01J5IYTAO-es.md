@@ -29,8 +29,8 @@ Tienes [Calvo Sardinas en aceite de Oliva  Baja en Sal - Paquete de 12 x 120 gr-
 ℹ️:
 
 - Sardinas en aceite de oliva, baja en sal
-- País de origen: España
 - Alérgenos: pescado
+- País de origen: España
 - Diseño funcional
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01J5IYTAO/?tag=tolees-21)
