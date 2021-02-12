@@ -28,9 +28,9 @@ Tienes [Lavazza Café en Grano Caffè Espresso  Paquete de 500 g](https://www.am
 
 🔎:
 
-- Lavazza mezcla de granos de café Caffè Espresso, paquete de 500 g
-- Elaborado al 100 % a partir de granos de Arábica especialmente seleccionados, este blend produce un sabor oscuro, intensamente aromático
 - El café espresso definitivo para disfrutar a cualquier hora del día
+- Elaborado al 100 % a partir de granos de Arábica especialmente seleccionados, este blend produce un sabor oscuro, intensamente aromático
+- Lavazza mezcla de granos de café Caffè Espresso, paquete de 500 g
 - MIRAR Espuma dorada y color cálido - AROMA Notas de frutas y flores - SABOR Suave y rico
 - 100% Arábica, tostado medio, delicada intensidad (5)
 

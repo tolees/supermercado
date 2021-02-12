@@ -29,8 +29,8 @@ En este momento está [HOMBRES champú Schwarzkopf zinc anticaspa  250 ml](https
 🔎:
 
 - Elimina la caspa con efecto anti-recaída
-- Calma el cuero cabelludo y activa las raíces del pelo
 - Con un efecto anti-picazón
+- Calma el cuero cabelludo y activa las raíces del pelo
 - Limpia el cabello profundamente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B012T7OF3E/?tag=tolees-21)
