@@ -28,8 +28,8 @@ Tienes [Vileda Style - Recambio para fregona](https://www.amazon.es/dp/B00AW0ORX
 
 🔎:
 
-- Diseño moderno y atrevido
 - Óptima limpieza y absorción
+- Diseño moderno y atrevido
 - Cabezal ovalado para una limpieza fácil de los rincones
 - El Cabezal Universal es adaptable a los palos Vileda y a los palos de rosca de otras marcas.
 
