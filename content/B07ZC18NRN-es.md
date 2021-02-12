@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cola Cao - ColaCao Puro:100% Cacao Natur con un 14.33 % de descuento'
-date: 2021-01-27 17:08:08
+date: 2021-02-12 18:30:02
 image: 'https://m.media-amazon.com/images/I/41zzGXrpPoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 3.49 EUR
 prodname: 'Cola Cao - ColaCao Puro:100% Cacao Natural y Sin Aditivos - 250g'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Cola Cao'
 buyurl: 'https://www.amazon.es/dp/B07ZC18NRN/?tag=tolees-21'
 descuento: '14.33'
-average: '2.97291666666667'
+average: '2.97337837837838'
 ---
 
 En este momento está [Cola Cao - ColaCao Puro:100% Cacao Natural y Sin Aditivos - 250g](https://www.amazon.es/dp/B07ZC18NRN/?tag=tolees-21) a 2.99 EUR (original: 3.49 EUR) (14.33 %  de descuento) en el siguiente enlace!
@@ -27,10 +28,10 @@ En este momento está [Cola Cao - ColaCao Puro:100% Cacao Natural y Sin Aditivos
 
 🔎:
 
-- Sin Azúcares Añadidos, Sin Aditivos ni Tratamientos Químicos.Envase autocierre zip de 250 gramos
-- Muy recomendado para elaborar deliciosos postres, como tartas, pasteles, batidos… ideal para repostería y hostelería. ¡Espolvoréalo en tu yogur o en el café
+- Con cacao certificado UTZ; al comprar cacao UTZ, ColaCao apoya el cultivo sostenible de cacao; los agricultores certificados por UTZ implementan mejores prácticas agrícolas, con respeto a la gente y al planeta
 - Gracias a esta elaboración natural mantiene sus propiedades, sus matices ácidos de sabor y el color original del cacao
 - Sin gluten; mantener en lugar fresco y seco
-- Con cacao certificado UTZ; al comprar cacao UTZ, ColaCao apoya el cultivo sostenible de cacao; los agricultores certificados por UTZ implementan mejores prácticas agrícolas, con respeto a la gente y al planeta
+- Sin Azúcares Añadidos, Sin Aditivos ni Tratamientos Químicos.Envase autocierre zip de 250 gramos
+- Muy recomendado para elaborar deliciosos postres, como tartas, pasteles, batidos… ideal para repostería y hostelería. ¡Espolvoréalo en tu yogur o en el café
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZC18NRN/?tag=tolees-21)

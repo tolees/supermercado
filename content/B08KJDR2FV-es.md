@@ -28,9 +28,9 @@ Ahora mismo tienes [Isdin Bexident Encías  Uso Diario  Pasta Dentífrica  125 M
 
 🔎:
 
-- Triple acción antiplaca, remineraliza y protege el esmalte gracias a su contenido en flúor
 - Con acción antiséptica reduce la colonización de bacterias e inhibe la fomación de biofilm oral
-- Eficacia clinicamente probada; sin alcohol; sin gluten
 - Pasta de dientes de uso diario, que previene el sangrado y la inflamación de las encías por gingivitis
+- Eficacia clinicamente probada; sin alcohol; sin gluten
+- Triple acción antiplaca, remineraliza y protege el esmalte gracias a su contenido en flúor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KJDR2FV/?tag=tolees-21)

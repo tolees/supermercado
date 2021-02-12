@@ -28,8 +28,8 @@ En este momento está [Ruffles -Original - Patatas Fritas con Sal - 160 g](https
 
 🔎:
 
-- Producto sin gluten. Apto para celiacos
 - Conservar en lugar fresco y seco
 - Envasado en atmósfera protectora
+- Producto sin gluten. Apto para celiacos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XDQW3Z8/?tag=tolees-21)
