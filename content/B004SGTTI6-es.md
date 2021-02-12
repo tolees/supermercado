@@ -28,8 +28,8 @@ Está [Kikkoman Salsa de Soja Menos Sal - 1000 ml](https://www.amazon.es/dp/B004
 
 ℹ️:
 
+- Naturally brewed less salt soy sauce.
 - How about a little less salt?
 - If you prefer a low salt diet,
-- Naturally brewed less salt soy sauce.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004SGTTI6/?tag=tolees-21)

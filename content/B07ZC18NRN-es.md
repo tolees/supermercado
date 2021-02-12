@@ -28,10 +28,10 @@ En este momento está [Cola Cao - ColaCao Puro:100% Cacao Natural y Sin Aditivos
 
 🔎:
 
+- Sin gluten; mantener en lugar fresco y seco
+- Muy recomendado para elaborar deliciosos postres, como tartas, pasteles, batidos… ideal para repostería y hostelería. ¡Espolvoréalo en tu yogur o en el café
 - Con cacao certificado UTZ; al comprar cacao UTZ, ColaCao apoya el cultivo sostenible de cacao; los agricultores certificados por UTZ implementan mejores prácticas agrícolas, con respeto a la gente y al planeta
 - Gracias a esta elaboración natural mantiene sus propiedades, sus matices ácidos de sabor y el color original del cacao
-- Sin gluten; mantener en lugar fresco y seco
 - Sin Azúcares Añadidos, Sin Aditivos ni Tratamientos Químicos.Envase autocierre zip de 250 gramos
-- Muy recomendado para elaborar deliciosos postres, como tartas, pasteles, batidos… ideal para repostería y hostelería. ¡Espolvoréalo en tu yogur o en el café
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZC18NRN/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Axe Dark Temptation Neceser Duo - 150+100ml](https://www.
 
 🔎:
 
-- Pack de 2 unidades Axe Duo Dark Temptation
 - Adecuado para viajar y almacenar productos de aseo personal
-- Este kit incluye un spray corporal y un perfume
 - Dermatológicamente comprobado
+- Pack de 2 unidades Axe Duo Dark Temptation
+- Este kit incluye un spray corporal y un perfume
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G7CD8SL/?tag=tolees-21)
