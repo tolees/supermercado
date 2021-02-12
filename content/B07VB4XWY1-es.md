@@ -28,9 +28,9 @@ Está [Colon Gel Activo - Detergente para lavadora  adecuado para ropa blanca y 
 
 ℹ️:
 
-- Detergente para la lavadora formato gel
 - Descubre el resto de detergentes y limpialavadoras de Colon
 - Extra luminosidad en tus prendas blancas y de color
+- Detergente para la lavadora formato gel
 - Profundo poder quitamanchas, eliminando las manchas de tu ropa incluso en agua fría
 - Ropa sin manchas, limpia y con un plus de luminosidad
 

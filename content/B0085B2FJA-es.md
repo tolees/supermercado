@@ -28,8 +28,8 @@ Ahora mismo tienes [HENO DE PRAVIA - Jabón natural  lote de 3 piezas  3X115 g](
 
 🔎:
 
-- Tipo de producto - Lote 3 pizas
-- Marca - Heno de Pravia
 - Género - Unisex
+- Marca - Heno de Pravia
+- Tipo de producto - Lote 3 pizas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0085B2FJA/?tag=tolees-21)
