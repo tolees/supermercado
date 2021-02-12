@@ -28,10 +28,10 @@ En este momento está [Dudu Osun Tropical Jabón negro africano puro  pack de 6�
 
 🔎:
 
-- Dudu Osun restaura la piel dañada y es útil para el eczema crónico, acné, pecas y puntos negros.
 - Perfumado con osun (extracto de sándalo africano), cítricos, y miel nativa.
-- El mejor jabón negro africano. Especialmente formulado solo con ingredientes naturales y hierbas.
 - Incluye aloe vera y vitaminas naturales. Una solución tradicional africana para una piel sana.
 - Retrasa la aparición de líneas de expresión y arrugas, ideal para cualquier tipo de piel.
+- El mejor jabón negro africano. Especialmente formulado solo con ingredientes naturales y hierbas.
+- Dudu Osun restaura la piel dañada y es útil para el eczema crónico, acné, pecas y puntos negros.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N78IU8L/?tag=tolees-21)

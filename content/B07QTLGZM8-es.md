@@ -29,9 +29,9 @@ En este momento está [Pernigotti Crunchy - Crema de Cacao con trocitos de Avell
 🔎:
 
 - Sin Aceite de Palma.
-- Contiene frutos secos (avellanas)
+- País de origen: Italia
 - Materia láctea: 12,7 % (incluye las proteínas lácteas y la lactosa)
 - Solo aromas naturales (sin vainillina, ni otros aromas artificiales) . Solo grasas vegetales seleccionadas (principalmente de coco y nueces). Nunca hidrogenadas ni refinadas.
-- País de origen: Italia
+- Contiene frutos secos (avellanas)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QTLGZM8/?tag=tolees-21)
