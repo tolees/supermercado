@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Funky Mix  Maxibox 1 x 600 g al 20.54 % de descuento'
-date: 2021-02-10 20:49:17
+date: 2021-02-12 08:32:21
 image: 'https://m.media-amazon.com/images/I/51kV+4r2xPL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B01ER532DU/?tag=tolees-21'
 descuento: '20.54'
-average: '3.926'
+average: '3.89857142857143'
 ---
 
 Ahora mismo tienes [HARIBO Funky Mix  Maxibox 1 x 600 g](https://www.amazon.es/dp/B01ER532DU/?tag=tolees-21) a 3.83 EUR (original: 4.82 EUR) (20.54 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [HARIBO Funky Mix  Maxibox 1 x 600 g](https://www.amazon.es/d
 
 🔎:
 
-- Incluye: ositos de oro, huevo, fresones, balla-balla duo y balla-balla fresa.
 - Mix de caramelos de goma
 - Combinación de piezas de diferentes texturas y sabores.
+- Incluye: ositos de oro, huevo, fresones, balla-balla duo y balla-balla fresa.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ER532DU/?tag=tolees-21)
