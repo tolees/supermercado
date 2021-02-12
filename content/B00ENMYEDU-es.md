@@ -28,14 +28,14 @@ Tienes [Ruavieja Ruavieja Licor De Hierbas 30% Vol. 0 7L - 700 ml](https://www.a
 
 ℹ️:
 
-- Acabado: larga duración
-- Se disfruta mejor puro y bien refrigerado
-- Color: claro
 - Tipo de alcohol: Liquors
-- Como servir: Serve at room temperature
-- Sabor: menta, canela, manzanilla
-- Nariz: hierbas, hojas secas, pinos, toques de mazapán
 - Procedencia: Spain
+- Color: claro
+- Acabado: larga duración
+- Como servir: Serve at room temperature
+- Se disfruta mejor puro y bien refrigerado
 - Contenido de alcohol (alc/vol): 30.0 percent by volume
+- Nariz: hierbas, hojas secas, pinos, toques de mazapán
+- Sabor: menta, canela, manzanilla
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ENMYEDU/?tag=tolees-21)
