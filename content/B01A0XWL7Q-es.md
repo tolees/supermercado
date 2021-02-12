@@ -28,9 +28,9 @@ Ahora mismo tienes [Soleil d ocre Lote de 3 servilletas de algodón Carreaux NOR
 
 🔎:
 
-- Material: algodón
 - Dimensiones: 45 x 45 cm
 - 1 Paquete con 3 unidades
 - Color: Multicolor
+- Material: algodón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01A0XWL7Q/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [El Lagar del Soto Aceite de Oliva  Virgen Extra Ecológico - 5 litros](h
 
 🔎:
 
-- Color: Color oro con reflejos verdes. Franco.
-- Sabor: En boca, dulce de intensidad media, ligeramente picante y ligeramente amargo. Equilibrado
 - Elaboración: Elaborado en frío, de la primera extracción.
-- Acidez: Contenido máximo de acidez 0,3º.
 - Aroma: En nariz, frutado medio de aceitunas verdes y maduras, frutado de macedonia, manzana, verde hierba, hoja de olivo, almendra verde, tomate, madera verde, plátano, ortiga.
+- Sabor: En boca, dulce de intensidad media, ligeramente picante y ligeramente amargo. Equilibrado
+- Acidez: Contenido máximo de acidez 0,3º.
+- Color: Color oro con reflejos verdes. Franco.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005UO9SXQ/?tag=tolees-21)
