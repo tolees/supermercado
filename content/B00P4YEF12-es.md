@@ -28,9 +28,9 @@ Ahora mismo tienes [Helios Mermelada Dieta Frutas del Bosque - 280 gr](https://w
 
 🔎:
 
-- Sin gluten. Apto para celíacos
 - Con un 60% de fruta
-- Sin conservantes
 - Sin lactosa
+- Sin conservantes
+- Sin gluten. Apto para celíacos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00P4YEF12/?tag=tolees-21)
