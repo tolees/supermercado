@@ -29,7 +29,7 @@ Tienes [Dulcesol Cheese Cake - 5 uds - 225 g](https://www.amazon.es/dp/B07KW5GRB
 ℹ️:
 
 - Deliciosa tarta con relleno de queso y arándanos
-- 5 unidades envasadas individualmente
 - Gama Black, nuestra gama más premium para los paladares más exigentes
+- 5 unidades envasadas individualmente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KW5GRBY/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Norit Diario Toda la Ropa Detergente Líquido - 2120 ml](https://www.ama
 
 ℹ️:
 
-- Detergente para toda la ropa del día a día, todos los tejidos y colores
 - Con Norit Diario, ¡despreocúpate!
+- Detergente para toda la ropa del día a día, todos los tejidos y colores
 - Lava en profundidad y mantiene el aspecto, el color y la forma original lavado tras lavado
 - Deja la ropa más que limpia, ¡impecable!
 - Cuida tu ropa para mantenerla como nueva durante más tiempo

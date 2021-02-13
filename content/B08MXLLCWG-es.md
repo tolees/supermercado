@@ -28,10 +28,10 @@ En este momento está [Cannavacciuolo Cesta De Navidad Gourmet con Panettone Al 
 
 🔎:
 
-- ✔️ 1 Botella de vino Prosecco DOC Brut 🥂 (uva Glera 100%) ✔️ 1 Delantal de cocinero negro
-- ✔️1 Panettone receta clásica ✔️1 Panettone con crema de Limoncello 🥃🍋
-- Cesta de Navidad con productos del chef italiano Antonino Cannavacciuolo 🎁
-- ✔️ 1 Botella de vino Spumante millesimato Extra Brut 2013 (uvas Pinot Noir y Chardonnay) de 75 cl 🍾
 - Viene en una preciosa cesta de mimbre que podrás reutilizar en otras ocasiones! (60 x 40 x 35 cm)
+- ✔️ 1 Botella de vino Prosecco DOC Brut 🥂 (uva Glera 100%) ✔️ 1 Delantal de cocinero negro
+- ✔️ 1 Botella de vino Spumante millesimato Extra Brut 2013 (uvas Pinot Noir y Chardonnay) de 75 cl 🍾
+- Cesta de Navidad con productos del chef italiano Antonino Cannavacciuolo 🎁
+- ✔️1 Panettone receta clásica ✔️1 Panettone con crema de Limoncello 🥃🍋
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MXLLCWG/?tag=tolees-21)
