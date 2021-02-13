@@ -28,10 +28,10 @@ En este momento está [Aquarius 6948 Dispensador de Jabón para el Lavado de Man
 
 🔎:
 
-- Compatible con una amplia gama de jabón líquido y gel hidroalcohólico (6330, 6331, 6332, 6333, 6336, 6340, 6342, 6348, 6352, 6373, 6382, 6385, 6386, 6387) para un lavado de manos excepcional
-- Recarga simplificada gracias a la abertura para recargar desde abajo con o sin llave, Ventana de control para ver el nivel de llenado disponible para un fácil mantenimiento
-- Parte superior inclinada antipolvo y bordes redondeados para facilitar la limpieza, Dispensador de acabado brillante y contemporáneo para unos aseos elegantes y de aspecto profesional
-- Contenido: 1 Dispensador Aquarius Kimberly-Clark Professional 6948, Repuesto no incluido, Incluye: tacos, tornillos, tiras adhesivas, Dimensiones en cm (L x An x Al): 23,5 x 11,6 x 11, Peso: 0,39 kg, Color: Blanco, Art: 06948010
 - 1 Dispensador Aquarius de jabón o espuma para montaje en la pared , Tacos, tornillos y tiras adhesivas incluidas, Gran capacidad de 1 L , Cartuchos no incluidos, óptimo para lugares de gran tráfico
+- Contenido: 1 Dispensador Aquarius Kimberly-Clark Professional 6948, Repuesto no incluido, Incluye: tacos, tornillos, tiras adhesivas, Dimensiones en cm (L x An x Al): 23,5 x 11,6 x 11, Peso: 0,39 kg, Color: Blanco, Art: 06948010
+- Compatible con una amplia gama de jabón líquido y gel hidroalcohólico (6330, 6331, 6332, 6333, 6336, 6340, 6342, 6348, 6352, 6373, 6382, 6385, 6386, 6387) para un lavado de manos excepcional
+- Parte superior inclinada antipolvo y bordes redondeados para facilitar la limpieza, Dispensador de acabado brillante y contemporáneo para unos aseos elegantes y de aspecto profesional
+- Recarga simplificada gracias a la abertura para recargar desde abajo con o sin llave, Ventana de control para ver el nivel de llenado disponible para un fácil mantenimiento
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00BD8BLX8/?tag=tolees-21)
