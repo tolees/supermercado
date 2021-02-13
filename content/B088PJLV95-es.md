@@ -28,10 +28,10 @@ Tienes [Puleva Max Leche Crecimiento y Desarrollo con Cacao y Cerales - 10 packs
 
 ℹ️:
 
-- Contiene: Omega 3 DHA y hierro para favorecer el correcto desarrollo cognitivo, calcio para favorecer el correcto desarrollo físico y 12 vitaminas para reforzar sus defensas.
-- País de Origen: España
-- Puleva: bienestar para disfrutar de la vida.
-- Un vaso de Puleva Max aporta el 44% de las cantidades diarias recomendadas de calcio y el 75% de las cantidades diarias recomendadas de vitamina D.
 - Está adaptada nutricionalmente para niños a partir de 3 años.
+- País de Origen: España
+- Contiene: Omega 3 DHA y hierro para favorecer el correcto desarrollo cognitivo, calcio para favorecer el correcto desarrollo físico y 12 vitaminas para reforzar sus defensas.
+- Un vaso de Puleva Max aporta el 44% de las cantidades diarias recomendadas de calcio y el 75% de las cantidades diarias recomendadas de vitamina D.
+- Puleva: bienestar para disfrutar de la vida.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B088PJLV95/?tag=tolees-21)

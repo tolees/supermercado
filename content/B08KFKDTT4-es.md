@@ -28,8 +28,8 @@ Tienes [HARIBO Starmix   1 x 1.00 kg](https://www.amazon.es/dp/B08KFKDTT4/?tag=t
 
 🔎:
 
-- Combinación de piezas de diferentes texturas y sabores.
 - Mix de caramelos de goma.
+- Combinación de piezas de diferentes texturas y sabores.
 - Incluye: Ositos de Oro, Huevo, Happy Cola, Anillos y Mini Corazones.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KFKDTT4/?tag=tolees-21)
