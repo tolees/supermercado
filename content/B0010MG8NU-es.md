@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elizabeth Arden 5th Avenue Eau de Parfum con un 0.00 % de descuento'
-date: 2021-02-12 22:47:28
+date: 2021-02-13 22:59:46
 image: 'https://m.media-amazon.com/images/I/31s3I8WVfgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Elizabeth Arden'
 buyurl: 'https://www.amazon.es/dp/B0010MG8NU/?tag=tolees-21'
 descuento: '0.00'
-average: '17.3679120879122'
+average: '17.353043478261'
 ---
 
 En este momento está [Elizabeth Arden 5th Avenue Eau de Parfum 125 ml](https://www.amazon.es/dp/B0010MG8NU/?tag=tolees-21) a 16.0 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
