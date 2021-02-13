@@ -28,10 +28,10 @@ Ahora mismo tienes [Lindt Lindor Bolsa 1Kg Bombones de Chocolate Negro 70% Cacao
 
 🔎:
 
-- Elaborado con ingredientes cuidadosamente seleccionados, como las habas de cacao puro procedentes de fuentes sostenibles.
-- Desde 1845, lindt ha enamorado a sus consumidores con sus chocolates de alta calidad.
-- Fúndete de placer con nuestros emblemáticos bombones surtidos LINDOR.
 - Los maestros chocolateros suizos consiguen cuidar hasta el mínimo detalle de sus creaciones gracias a sus años de experiencia.
 - Lindt LINDOR - cremosos bombones de chocolate negro 70% cacao. Bolsa de 1kg - aprox. 80 bombones.
+- Fúndete de placer con nuestros emblemáticos bombones surtidos LINDOR.
+- Desde 1845, lindt ha enamorado a sus consumidores con sus chocolates de alta calidad.
+- Elaborado con ingredientes cuidadosamente seleccionados, como las habas de cacao puro procedentes de fuentes sostenibles.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BHYLYBF/?tag=tolees-21)
