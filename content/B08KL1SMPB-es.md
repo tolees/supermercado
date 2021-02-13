@@ -28,10 +28,10 @@ Está [Pasticceria Passerini dal 1919 Cesta de Navidad de Mimbre con 4 Panettone
 
 ℹ️:
 
-- La cesta de mimbre que custodia el lote de productos mide 58x27,5x36 cm y está incluida en el precio
 - Si hay un regalo infalible, que siempre hace ilusión, es una cesta de productos gastronómicos 🎁
 - ✔️ 1 Panettone clásico ✔️1 Panettone pera+chocolate ✔️1 Pandoro ✔️1 Panettone SIN fruta ni pasas
-- En esta ocasión os proponemos una cesta muy dulce, formada por un surtido de panettones italianos
+- La cesta de mimbre que custodia el lote de productos mide 58x27,5x36 cm y está incluida en el precio
 - Podrás utilizarla como baúl para guardar manteles y servilletas e incluso como cesta de picnic 🌿
+- En esta ocasión os proponemos una cesta muy dulce, formada por un surtido de panettones italianos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KL1SMPB/?tag=tolees-21)

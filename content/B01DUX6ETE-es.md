@@ -28,7 +28,7 @@ Está [Nomen - Arroz Redondo Extra  500 gr](https://www.amazon.es/dp/B01DUX6ETE/
 
 ℹ️:
 
-- Producido en España
 - Conservar en ambiente fresco y seco
+- Producido en España
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DUX6ETE/?tag=tolees-21)
