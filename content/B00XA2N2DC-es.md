@@ -28,9 +28,9 @@ Ahora mismo tienes [Cuétara - Tosta Rica Choco Guay - Galletas Sándwich Rellen
 
 🔎:
 
-- Con dibujos de los personajes favoritos de los niños
-- El paquete puede ser diferente
-- Crujiente galleta rellena de deliciosa crema de leche y cacao
 - Lleva vitaminas A, B (B1, B2, B3, B6) calcio, hierro y cereales
+- Crujiente galleta rellena de deliciosa crema de leche y cacao
+- El paquete puede ser diferente
+- Con dibujos de los personajes favoritos de los niños
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XA2N2DC/?tag=tolees-21)
