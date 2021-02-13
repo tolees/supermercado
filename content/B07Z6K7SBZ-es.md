@@ -28,9 +28,9 @@ Ahora mismo tienes [Dicora UrbanFit - Dicora Urban Fit® Champú Cabellos dañad
 
 🔎:
 
-- Extractos naturales: aceite de macadamia, extracto de moringa, 0% siliconas y keratina vegetal
 - Nutre, repara y protege tu cabello para un resultado "WOW"
 - La macadamia es un extra de hidratación que previene, cuida y repara el cabello.
+- Extractos naturales: aceite de macadamia, extracto de moringa, 0% siliconas y keratina vegetal
 - Con aceite de macadamia.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Z6K7SBZ/?tag=tolees-21)
