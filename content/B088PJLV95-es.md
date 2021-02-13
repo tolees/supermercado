@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 11.97 % en Puleva Max Leche Crecimiento y Desarroll'
-date: 2020-08-15 23:12:40
+title: 'Descuento del 17.50 % en Puleva Max Leche Crecimiento y Desarroll'
+date: 2021-02-13 14:53:12
 image: 'https://m.media-amazon.com/images/I/41u8GOXNm6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,29 @@ author: ring
 slug: 'B088PJLV95-es Puleva Max Leche Crecimiento y Desarrollo con Cacao y...'
 sku: 'B088PJLV95-es'
 tags: [ 'puleva', ]
-actualPrice: 12.5 EUR
+actualPrice: 9.9 EUR
 currency: EUR
-price: 12.5
-comparePrice: 14.2 EUR
+price: 9.9
+comparePrice: 12.0 EUR
 prodname: 'Puleva Max Leche Crecimiento y Desarrollo con Cacao y Cerales - 10 packs de 3 minibriks de 200 ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Puleva'
 buyurl: 'https://www.amazon.es/dp/B088PJLV95/?tag=tolees-21'
-descuento: '11.97'
-average: '13.066666666666666'
+descuento: '17.50'
+average: '12.275'
 ---
 
-Tienes [Puleva Max Leche Crecimiento y Desarrollo con Cacao y Cerales - 10 packs de 3 minibriks de 200 ml](https://www.amazon.es/dp/B088PJLV95/?tag=tolees-21) con un 11.97 % de descuento con precio de oferta de 12.5 EUR (original: 14.2 EUR) en el siguiente enlace!
+Tienes [Puleva Max Leche Crecimiento y Desarrollo con Cacao y Cerales - 10 packs de 3 minibriks de 200 ml](https://www.amazon.es/dp/B088PJLV95/?tag=tolees-21) con un 17.50 % de descuento con precio de oferta de 9.9 EUR (original: 12.0 EUR) en el siguiente enlace!
 
 [![Puleva Max Leche Crecimiento y Desarroll](https://m.media-amazon.com/images/I/41u8GOXNm6L._SL200_.jpg)](https://www.amazon.es/dp/B088PJLV95/?tag=tolees-21)
 
 ℹ️:
 
+- Contiene: Omega 3 DHA y hierro para favorecer el correcto desarrollo cognitivo, calcio para favorecer el correcto desarrollo físico y 12 vitaminas para reforzar sus defensas.
+- País de Origen: España
+- Puleva: bienestar para disfrutar de la vida.
+- Un vaso de Puleva Max aporta el 44% de las cantidades diarias recomendadas de calcio y el 75% de las cantidades diarias recomendadas de vitamina D.
+- Está adaptada nutricionalmente para niños a partir de 3 años.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B088PJLV95/?tag=tolees-21)
