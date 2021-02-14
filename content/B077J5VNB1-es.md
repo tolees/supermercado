@@ -28,8 +28,8 @@ Está [Novex Queratina Brasileña  Mascarilla Capilar - 400 gr.](https://www.ama
 
 ℹ️:
 
-- La queratina brasileña proporciona una rápida absorción, garantizando cabellos sanos y resistentes
-- Se recomienda su uso para el cabello dañado y quebradizo
 - Aplicar la mascarilla novex queratina brasileña dejar actuar durante 10 minutos; enjuagar
+- Se recomienda su uso para el cabello dañado y quebradizo
+- La queratina brasileña proporciona una rápida absorción, garantizando cabellos sanos y resistentes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077J5VNB1/?tag=tolees-21)
