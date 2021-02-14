@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alpro Central Lechera Asturiana Bebida d al 0.00 % de rebaja'
-date: 2021-02-13 17:04:23
+date: 2021-02-14 17:13:50
 image: 'https://m.media-amazon.com/images/I/41I2xYwx-HL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Alpro Central Lechera Asturiana'
 buyurl: 'https://www.amazon.es/dp/B01MY79LJC/?tag=tolees-21'
 descuento: '0.00'
-average: '14.1856000000001'
+average: '14.1835028248589'
 ---
 
 Tienes [Alpro Central Lechera Asturiana Bebida de Almendra Sin Azúcar - Paquete de 8 x 1000 ml - Total: 8000 ml](https://www.amazon.es/dp/B01MY79LJC/?tag=tolees-21) con precio final de  14.0 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
