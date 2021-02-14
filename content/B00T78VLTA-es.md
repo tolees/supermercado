@@ -28,10 +28,10 @@ En este momento está [Adidas After Sport Gel de ducha para Hombre - 400 ml.](ht
 
 🔎:
 
-- Fórmula 3 en 1 multibeneficio: hidrata tu cuerpo, limpia tu rostro y acondiciona tu cabello
-- Testada dermatológicamente con una equilibrada fórmula de pH.
-- Gel de ducha 400 ml formulado con proteínas para equilibrar el nivel de hidratación natural de la piel
-- Adecuado para uso diario
 - Fragancia cítrica realzada con notas de manzana verde y un toque de almizcle
+- Gel de ducha 400 ml formulado con proteínas para equilibrar el nivel de hidratación natural de la piel
+- Testada dermatológicamente con una equilibrada fórmula de pH.
+- Adecuado para uso diario
+- Fórmula 3 en 1 multibeneficio: hidrata tu cuerpo, limpia tu rostro y acondiciona tu cabello
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00T78VLTA/?tag=tolees-21)

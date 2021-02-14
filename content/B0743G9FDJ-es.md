@@ -28,10 +28,10 @@ Tienes [Iberitos - Monodosis de paté ibérico  6 bandejas de 18 unidades x 23 g
 
 🔎:
 
+- Producto elaborado de forma artesanal y listo para consumir
 - Alérgenos: derivados de leche y soja
 - Crema de Iberico fácil de untar
 - Monodosis de paté ibérico para poder preparar un buen desayuno, unos ricos snacks o de picoteo para antes de comidas o cenas
 - No contiene gluten, OGM
-- Producto elaborado de forma artesanal y listo para consumir
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0743G9FDJ/?tag=tolees-21)
