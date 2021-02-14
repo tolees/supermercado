@@ -28,8 +28,8 @@ Está [Litoral - Garbanzos de la Abuela - Pack de 15 x 440 g](https://www.amazon
 
 ℹ️:
 
-- Desde hace más de 60 años, disfruta con Litoral de nuestra cocina tradicional
-- Nunca perdamos nuestras buenas costumbres
 - Garbanzos cocinados con un sofrito de ingredientes naturales
+- Nunca perdamos nuestras buenas costumbres
+- Desde hace más de 60 años, disfruta con Litoral de nuestra cocina tradicional
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MA6LZTN/?tag=tolees-21)
