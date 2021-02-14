@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Flota Detergente Líquido Marsella - 90 L'
-date: 2021-02-12 23:44:54
+date: 2021-02-14 06:01:05
 image: 'https://m.media-amazon.com/images/I/41+krZDs2QL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Flota Detergente Líquido Marsella - 90 Lavados](https://www.amazon.es/d
 
 ℹ️:
 
+- Indicado para todo tipo de ropa (Blanca y Color)
 - Limpieza eficaz contra las manchas
+- Garrafa de 90 lavados (4,95 L.)
 - Formato familiar Ahorro
 - Perfume tradicional duradero
-- Indicado para todo tipo de ropa (Blanca y Color)
-- Garrafa de 90 lavados (4,95 L.)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07HR5MQFL/?tag=tolees-21)
