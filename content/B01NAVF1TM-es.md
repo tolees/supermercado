@@ -29,8 +29,8 @@ Está [Spontex salvauas frotamax  1+1 ](https://www.amazon.es/dp/B01NAVF1TM/?tag
 ℹ️:
 
 - Lavable a mquina, hasta 60C
-- Repele la grasa y la suciedad impidiendo que penetren en la fibra
-- El estropajo permanece limpio durante ms tiempo y limpia eficazmente la suciedad ms difcil
 - Forma ergonmica salvauas para darte el mximo confort y proteccin mientras limpias
+- El estropajo permanece limpio durante ms tiempo y limpia eficazmente la suciedad ms difcil
+- Repele la grasa y la suciedad impidiendo que penetren en la fibra
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NAVF1TM/?tag=tolees-21)
