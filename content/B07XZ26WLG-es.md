@@ -29,10 +29,10 @@ Está [Chupa Chups Party Mix  Golosinas y Caramelos de Sabores Variados  Bolsa d
 ℹ️:
 
 - Formato práctico e higiénico. Lo puedes llevar en el bolsillo, en la mochila, en el bolso. ¡Diviértete y disfrútalo!
-- Bolsa con surtido variado de caramelos y golosinas: Chupa Chups XXL, Chupa Chups Mini, Fruittella Mini y muchos más. El producto contiene 34 unidades de los bestsellers.
-- En Chupa Chups pensamos en ti. Trabajamos cada día para ofrecerte caramelos y golosinas más saludables. ¡Que nada te quite la oportunidad de divertirte! Este producto está hecho con zumo de frutas. No es apto para intolerantes al GLUTEN.
 - Descubre más sobre este y otros productos de Chupa Chups más abajo.
 - Con más de 60 años a las espaldas, Chupa Chups es el caramelo favorito de todas las generaciones. Y siempre con los ingredientes de la mejor calidad. ¡Simplemente imprescindibles!
 - Ideal para cualquier ocasión y evento: en clase, en el parque, en la oficina, en casa, en fiestas y entre horas. Para compartir, regalar y disfrutar solo o en compañía.
+- Bolsa con surtido variado de caramelos y golosinas: Chupa Chups XXL, Chupa Chups Mini, Fruittella Mini y muchos más. El producto contiene 34 unidades de los bestsellers.
+- En Chupa Chups pensamos en ti. Trabajamos cada día para ofrecerte caramelos y golosinas más saludables. ¡Que nada te quite la oportunidad de divertirte! Este producto está hecho con zumo de frutas. No es apto para intolerantes al GLUTEN.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XZ26WLG/?tag=tolees-21)

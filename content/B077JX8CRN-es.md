@@ -28,10 +28,10 @@ En este momento está [Whisky Blended Scotch 100 Pipers - 1 botella de 1L](https
 
 🔎:
 
-- 101 Pipers Whisky Blended Escocés tiene un sabor suave y cremoso, acompañado por ligeros toques de vainilla y frutos secos
-- Tiene un color dorado intenso, en nariz presenta una sutil fragancia a roble, con notas a caramelo y en boca es de sabor complejo, armónico con cuerpo medio suave
+- 101 Pipers Whisky Blended Escocés es capaz de enamorar el paladar de cualquier consumidor del buen whisky
 - Cada sorbo de 100 Pipers Whisky Blended Escocés una sensación de amable calidez que, poco a poco, se torna ligeramente picante
 - La mezcla de 100 Pipers Whisky Blended Escocés se compone de una selección de más de 30 whiskies de mayor añejamiento y con distintos perfiles de sabor
-- 101 Pipers Whisky Blended Escocés es capaz de enamorar el paladar de cualquier consumidor del buen whisky
+- Tiene un color dorado intenso, en nariz presenta una sutil fragancia a roble, con notas a caramelo y en boca es de sabor complejo, armónico con cuerpo medio suave
+- 101 Pipers Whisky Blended Escocés tiene un sabor suave y cremoso, acompañado por ligeros toques de vainilla y frutos secos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077JX8CRN/?tag=tolees-21)

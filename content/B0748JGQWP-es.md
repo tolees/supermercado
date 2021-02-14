@@ -28,9 +28,9 @@ En este momento está [Puleva Café con Leche Clásico - Pack 6 x 1Lt  116700 ](
 
 🔎:
 
-- Café con leche listo para tomar
-- Mezcla de cafés arábica y robusta
 - Despertarse nunca fue tan fácil
 - Pruébalo frío o caliente
+- Mezcla de cafés arábica y robusta
+- Café con leche listo para tomar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0748JGQWP/?tag=tolees-21)
