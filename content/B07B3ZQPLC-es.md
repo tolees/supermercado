@@ -28,10 +28,10 @@ En este momento está [Pato - WC Power Lejía fragancia Marine  Limpiador Quitam
 
 🔎:
 
-- Con lejía y espuma limpiadora
 - Limpia, desinfecta, neutralizar el mal olor y dejar una agradable fragancia en su inodoro
-- Perfuma con una agradable fragancia: marine
-- Formato 750 ml
+- Con lejía y espuma limpiadora
 - Con la garantía de SC Johnson y PATO
+- Formato 750 ml
+- Perfuma con una agradable fragancia: marine
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07B3ZQPLC/?tag=tolees-21)
