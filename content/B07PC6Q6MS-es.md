@@ -28,9 +28,9 @@ Está [Moussel Gel de Ducha  Lima y Menta - Pack de 4 x 600 ml  Total: 2400 ml](
 
 ℹ️:
 
-- Con aceites esenciales naturales
-- Ayuda a mantener la tersura natural de tu piel
-- Apto para el uso diario
 - Dermatológicamente comprobado
+- Con aceites esenciales naturales
+- Apto para el uso diario
+- Ayuda a mantener la tersura natural de tu piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PC6Q6MS/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Hacienda Ortigosa  Aceite de oliva  Virgen extra  - 3l.](https://www.ama
 
 ℹ️:
 
-- 100% Zumo de fruta
 - Producción propia
 - Extracción en frío
 - 100% variedad arbequina
+- 100% Zumo de fruta
 - Tiene un sabor almendrado, muy dulce y agradable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DDB4V5C/?tag=tolees-21)

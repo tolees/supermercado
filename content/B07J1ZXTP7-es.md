@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cestas y Lotes Gourmet - Lotes de Regalo al 0.00 % de descuento'
-date: 2021-02-14 06:13:37
+date: 2021-02-15 11:19:45
 image: 'https://m.media-amazon.com/images/I/418NSnKhKGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Ahora mismo tienes [Cestas y Lotes Gourmet - Lotes de Regalo - Lotes de Navidad 
 
 🔎:
 
-- Gourmet
 - Barato
+- Gourmet
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07J1ZXTP7/?tag=tolees-21)

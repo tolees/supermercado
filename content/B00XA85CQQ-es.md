@@ -28,8 +28,8 @@ Tienes [Puleva - Leche Calcio Desnatada  1 L](https://www.amazon.es/dp/B00XA85CQ
 
 ℹ️:
 
-- Huesos siempre fuertes
-- Contiene Leche o derivados de la leche (lactosa)
 - Ninguna lo fija mejor con vit. D y K
+- Contiene Leche o derivados de la leche (lactosa)
+- Huesos siempre fuertes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XA85CQQ/?tag=tolees-21)
