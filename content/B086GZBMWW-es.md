@@ -28,8 +28,8 @@ Está [Dicora UrbanFit Jabón De Manos Vitamina e Mango Avocado 500 ml  84102629
 
 ℹ️:
 
-- Jabón de manos nutritivo con apetitoso extracto de mango y aceite de aguacate.
 - Hidratación sublime y cuidado extra suave para una piel en forma.
+- Jabón de manos nutritivo con apetitoso extracto de mango y aceite de aguacate.
 - La vitamina E es un antioxidante natural que ayuda a mantener la piel más fuerte y joven.
 - Extracto naturales: aguacate, mango, fruta de la pasión
 

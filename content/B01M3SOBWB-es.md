@@ -28,8 +28,8 @@ En este momento está [Nestlé La Lechera - Nestlé Dulce de Leche - 3 Paquetes 
 
 🔎:
 
-- Recogida diaria de leche fresca de Galicia
-- Disfrutar tus desayunos especial para untar
 - Dulce de leche elaborado a través del proceso tradicional al baño maría
+- Disfrutar tus desayunos especial para untar
+- Recogida diaria de leche fresca de Galicia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M3SOBWB/?tag=tolees-21)
