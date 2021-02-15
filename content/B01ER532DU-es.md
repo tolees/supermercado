@@ -28,8 +28,8 @@ Ahora mismo tienes [HARIBO Funky Mix  Maxibox 1 x 600 g](https://www.amazon.es/d
 
 🔎:
 
+- Combinación de piezas de diferentes texturas y sabores.
 - Incluye: ositos de oro, huevo, fresones, balla-balla duo y balla-balla fresa.
 - Mix de caramelos de goma
-- Combinación de piezas de diferentes texturas y sabores.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ER532DU/?tag=tolees-21)

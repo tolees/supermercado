@@ -28,8 +28,8 @@ Está [Central Lechera Asturiana - Leche Semidesnatada Brik 1L  Pack 6 ](https:/
 
 ℹ️:
 
-- Tradicional
 - Semidesnatada
 - Leche UHT
+- Tradicional
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ITRIBGU/?tag=tolees-21)
