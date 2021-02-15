@@ -28,10 +28,10 @@ En este momento está [Sanytol - Desinfectante Textil - 4 unidades de 1200ml](ht
 
 🔎:
 
-- Funciona a cualquier temperatura y es apto para todo tipo de ropa
-- Deja un perfume muy agradable y duradero
 - Ideal para ropa interior; ropa de deporte; ropa de bebe y niños; ropa del hogar y textiles lavables en contacto con mascotas
+- Deja un perfume muy agradable y duradero
 - Formato ahorro de 1200 ml
 - La solución más eficaz parar eliminar el mal olor de la ropa o los textiles de raíz, ya que elimina los gérmenes que los provocan
+- Funciona a cualquier temperatura y es apto para todo tipo de ropa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0828BDWPP/?tag=tolees-21)
