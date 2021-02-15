@@ -30,8 +30,8 @@ Está [Venus - Gillette Satin Care Gel de Depilación Para Mujer Piel Sensible -
 
 - Para una piel suave y tersa
 - con aloe vera
-- Un deslizamiento perfecto para protegerte de los arañazos y cortes
 - Ligeramente perfumada
 - Gel de depilación para mujer especialmente diseñado para piel sensible
+- Un deslizamiento perfecto para protegerte de los arañazos y cortes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B005DZQ6IW/?tag=tolees-21)

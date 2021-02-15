@@ -28,8 +28,8 @@ Tienes [Colgate 360 Expert White  Cepillo de Dientes Medio - 1 ud](https://www.a
 
 🔎:
 
+- Exclusivos filamentos en espiral , con limpiador de lengua y mejillas
 - Para una sonrisa más blanca y natural, y una boca más limpia y sana
 - Eliminación de manchas de doble acción
-- Exclusivos filamentos en espiral , con limpiador de lengua y mejillas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074BNSGXL/?tag=tolees-21)

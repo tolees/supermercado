@@ -28,13 +28,13 @@ Tienes [Gillette Fusion ProGlide Sensitive 2 En 1 Active Sport Gel De Afeitado 1
 
 🔎:
 
-- Tres eficaces lubricantes mejoran el deslizamiento de la maquinilla para lograr un afeitado suave y cómodo
-- El tapón se bloquea para impedir que el exceso de gel salga del bote
-- Con fragancia Active Sport
-- El bote no se oxida ni deja marcas al posarse
-- Fórmula 2 en 1 que combina el mejor gel de afeitado de Gillette con un intenso cuidado de la piel
-- Incluye un indicador de gel para saber exactamente cuánto queda
 - Deja la piel sensible suave y fresca
+- Fórmula 2 en 1 que combina el mejor gel de afeitado de Gillette con un intenso cuidado de la piel
+- Tres eficaces lubricantes mejoran el deslizamiento de la maquinilla para lograr un afeitado suave y cómodo
+- Incluye un indicador de gel para saber exactamente cuánto queda
+- El tapón se bloquea para impedir que el exceso de gel salga del bote
+- El bote no se oxida ni deja marcas al posarse
+- Con fragancia Active Sport
 - Protege la piel contra los arañazos, el enrojecimiento y la tirantez
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XI4POR4/?tag=tolees-21)
