@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Un Air d Antan - Un Air d’Antan® Caja Re al 0.00 % de rebaja'
-date: 2021-02-14 05:12:03
+date: 2021-02-15 05:28:16
 image: 'https://m.media-amazon.com/images/I/51gcsu9W-WL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Un Air dAntan'
 buyurl: 'https://www.amazon.es/dp/B07P7Q64DM/?tag=tolees-21'
 descuento: '0.00'
-average: '27.2764285714285'
+average: '27.3213333333332'
 ---
 
 Tienes [Un Air d Antan - Un Air d’Antan® Caja Regalo Mujer 4 Jabones Manteca de Karite Organico  Aceite de Argan|4 Perfumes Verbena  Rosa  Lirio de los Valles  Almendras Jabon 4x100g Navidad Regalo Mujer Originales Cumpleaños](https://www.amazon.es/dp/B07P7Q64DM/?tag=tolees-21) con precio final de  27.95 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
