@@ -28,8 +28,8 @@ Tienes [OFISTRADE 3 Lavazza Crema E Gusto 750g + Kölln Copos De Avena Suaves 50
 
 ℹ️:
 
-- Adultos
 - País origen: Italia
 - Crema e Gusto: Café molido, variedad Arábica y Robusta. Kölln Copos Suaves: 100% copos de AVENA integrales.
+- Adultos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08LB5WCRD/?tag=tolees-21)
