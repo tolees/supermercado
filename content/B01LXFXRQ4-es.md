@@ -28,9 +28,9 @@ Tienes [Johnnie Walker Doble Black Whisky Escocés - 70 cl](https://www.amazon.e
 
 🔎:
 
-- Puede ser disfrutado sólo, con hielo o con un poco de agua
 - El sabor es ahumado, con notas de vainilla cremosa, madera y frutos secos dulces
 - Cantidad de 700 ml con 40% alcohol
+- Puede ser disfrutado sólo, con hielo o con un poco de agua
 - Después de seleccionar los whiskies por sus características notas de carbón de leña y cenizas, la mezcla se introduce en barricas de roble
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LXFXRQ4/?tag=tolees-21)
