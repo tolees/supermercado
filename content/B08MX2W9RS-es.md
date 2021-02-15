@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lázaro Cañas De Chocolate Artesanas Enva al 9.12 % de rebaja'
-date: 2021-01-26 09:10:40
+date: 2021-02-15 10:05:38
 image: 'https://m.media-amazon.com/images/I/51Q0B3roqFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 2.74 EUR
 prodname: 'Lázaro Cañas De Chocolate Artesanas Envase 300 g  3 unidades . Rellenas de Crema de chocolate y Avellanas.'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Lázaro'
 buyurl: 'https://www.amazon.es/dp/B08MX2W9RS/?tag=tolees-21'
 descuento: '9.12'
 average: '2.49'
@@ -27,10 +28,10 @@ Tienes [Lázaro Cañas De Chocolate Artesanas Envase 300 g  3 unidades . Rellena
 
 🔎:
 
+- Tres cañas grandes en envase de 300g
+- Mantener en lugar fresco y seco. No refrigerar.
+- Envase Seguro100% Reciclable.
 - Cañas de chocolate de elaboración Artesanal Rellenas de deliciosa Crema de chocolate y Avellanas.
 - Rellenas de crema de Chocolate y Avellanas.
-- Tres cañas grandes en envase de 300g
-- Envase Seguro100% Reciclable.
-- Mantener en lugar fresco y seco. No refrigerar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MX2W9RS/?tag=tolees-21)
