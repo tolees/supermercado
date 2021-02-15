@@ -29,9 +29,9 @@ Tienes [SOS Arroz Redondo - 1 kg](https://www.amazon.es/dp/B00BL4IK5Q/?tag=tolee
 ℹ️:
 
 - Siguiendo nuestro compromiso con la salud y el planeta, desde SOS hemos realizado el primer cálculo certificado de huella ambiental sobre productos de arroz
-- Arroz redondo con el que aprendimos a cocinar, el arroz de nuestras madres
+- Envase 100% papel, garantía de frescura
 - Sin gluten
 - No tienes que ser tu madre para comer un buen arroz, solo tienes que utilizar su mismo arroz
-- Envase 100% papel, garantía de frescura
+- Arroz redondo con el que aprendimos a cocinar, el arroz de nuestras madres
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BL4IK5Q/?tag=tolees-21)
