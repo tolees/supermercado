@@ -29,10 +29,10 @@ Tienes [Oban 14 - Oban Whisky Escocés - 700 ml](https://www.amazon.es/dp/B009US
 🔎:
 
 - Una combinación de dulzor intenso, sequedad ahumada y deliciosas especias
+- Oro en la San Francisco World Spirits Competition de 2016
 - Destilación lenta en alambiques pequeños, enfriado en serpentines y maduración durante 14 años
 - Un regalo adecuado para quienes deseen disfrutar de whiskies puros de malta sabrosos y aromáticos
-- Servir en un vaso de whisky, solo o con un poco de agua sin gas
 - Un whisky puro de malta procedente de una de las destilerías más antiguas y humildes
-- Oro en la San Francisco World Spirits Competition de 2016
+- Servir en un vaso de whisky, solo o con un poco de agua sin gas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009USMYLG/?tag=tolees-21)
