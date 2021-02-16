@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Glenfiddich Whisky escocés de malta 12 a al 22.51 % de rebaja'
-date: 2021-02-15 13:42:15
+date: 2021-02-16 14:00:42
 image: 'https://m.media-amazon.com/images/I/41BMCS6tukL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Glenfiddich'
 buyurl: 'https://www.amazon.es/dp/B08H6GPQ9Y/?tag=tolees-21'
 descuento: '22.51'
-average: '32.4966666666667'
+average: '32.12'
 ---
 
 Tienes [Glenfiddich Whisky escocés de malta 12 años  estuche regalo edición limitada botella 700 ml](https://www.amazon.es/dp/B08H6GPQ9Y/?tag=tolees-21) con precio final de  30.99 EUR (original: 39.99 EUR) (22.51 %  de rebaja) aqui!
