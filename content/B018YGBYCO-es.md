@@ -28,8 +28,8 @@ En este momento está [Babaria Champú Nutritivo Aloe Vera - 400 ml](https://www
 
 🔎:
 
-- Activos: Aloe Vera (10%) y Aceite de Argán
 - Fortaleza y Brillo; nutre y repara el cabello deteriorado; el Aloe Vera da al cabello brillo y fortaleza
+- Activos: Aloe Vera (10%) y Aceite de Argán
 - Se puede usar a diario; testado Desmatológicamente; no testado en animales; vegano
 - Y en combinación con el Aceite de Argán mejoran la calidad del cabello y lo protegen frente a las agresiones ambientales
 
