@@ -28,9 +28,9 @@ Tienes [Orbit chicle sin azúcar sabor hierbabuena 10 grageas](https://www.amazo
 
 🔎:
 
-- Chicle sin azúcar que beneficia la salud dental
-- Ayuda a neutralizar los ácidos de la placa
 - El producto contiene 10 grageas
 - Un consumo excesivo puede tener efectos laxantes
+- Ayuda a neutralizar los ácidos de la placa
+- Chicle sin azúcar que beneficia la salud dental
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082VT6X4Q/?tag=tolees-21)
