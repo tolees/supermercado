@@ -28,11 +28,11 @@ Ahora mismo tienes [Love Beauty and Planet Acondicionador para Cabello dañado  
 
 🔎:
 
-- Estamos comprometidos con realizar pequeños actos de amor para haceros todavía más bellos a ti y al planeta, todos los días
 - SÍ: vegano, SÍ: sin parabenos, SÍ: sin siliconas, SÍ: con agentes limpiadores a base de plantas, SÍ: ingredientes naturales, SÍ: envase de plástico reciclado
+- Proporciona a tu cabello la luminosidad y previene las puntas abiertas para que tengas el cabello sano y sedoso
+- El acondicionador para cabello dañado Love Beauty and Planet Aceite de Coco e Ylang Ylang repara tu cabello
+- Estamos comprometidos con realizar pequeños actos de amor para haceros todavía más bellos a ti y al planeta, todos los días
 - Deja que tu cabello disfrute de la frescura matutina del aceite de la flor de ylang ylang deleite y de sus tonos vivos y alegres
 - Hidrata, nutre y suaviza tu cabello gracias a la magia del aceite de coco que sustituye a las siliconas
-- El acondicionador para cabello dañado Love Beauty and Planet Aceite de Coco e Ylang Ylang repara tu cabello
-- Proporciona a tu cabello la luminosidad y previene las puntas abiertas para que tengas el cabello sano y sedoso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QQGCQ7Q/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Dulcesol Macarons Frambuesa - 4 uds - 80 g](https://www.amazon.es/dp/B07
 
 🔎:
 
-- Exquisitos Macarons sabor frambuesa, basados en el tradicional y emblemático postre francés
 - Gama Black, nuestra gama más premium para los paladares más exigentes
 - Ideal para mesas dulces y ocasiones especiales
 - Contiene 4 unidades
 - Crujiente cobertura y tierno relleno sabor frambuesa
+- Exquisitos Macarons sabor frambuesa, basados en el tradicional y emblemático postre francés
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0784WVPNW/?tag=tolees-21)

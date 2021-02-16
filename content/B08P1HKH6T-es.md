@@ -28,10 +28,10 @@ Está [Cosumy - Set de 6 Tazas de Capuchino con Platos - 180ml - Ceramica de Col
 
 ℹ️:
 
-- DISEÑO DE COLORES: Tazas de capuccino con diseño moderno de colores que enseguida te pondrán de buen humor. Para casa, oficina, cafeteria, hotel... Regalo ideal para Navidad, cumpleaños, etc.
-- JUEGO DE TAZAS DE CAPPUCCINO: 6 originales tazas de capuchino de cerámica de colores con asa y capacidad de 180 ml, con 6 platos (diámetro 15 cm). Medidas taza: 9 cm de diámetro y 6 cm de altura.
-- APILABLES: Las pequeñas tazas de café pueden guardarse apiladas en el armario para ahorrar espacio. El juego de tazas es resistente al calor, apto para el lavavajillas y para uso en microondas.
 - CONTENIDO DEL ENVÍO: Tazas de capuchino, juego de 12 piezas (6x taza y 6x platillo) con caja de regalo. | Consejo: Precalienta las tazas para mantener el café caliente durante más tiempo.
+- JUEGO DE TAZAS DE CAPPUCCINO: 6 originales tazas de capuchino de cerámica de colores con asa y capacidad de 180 ml, con 6 platos (diámetro 15 cm). Medidas taza: 9 cm de diámetro y 6 cm de altura.
+- DISEÑO DE COLORES: Tazas de capuccino con diseño moderno de colores que enseguida te pondrán de buen humor. Para casa, oficina, cafeteria, hotel... Regalo ideal para Navidad, cumpleaños, etc.
+- APILABLES: Las pequeñas tazas de café pueden guardarse apiladas en el armario para ahorrar espacio. El juego de tazas es resistente al calor, apto para el lavavajillas y para uso en microondas.
 - CAFÉ CALIENTE: Las tazas de capuchino de cerámica tienen una buena capacidad de retención de calor. Mantienen el café caliente por más tiempo, y potencian el aroma y la difusión de la fragancia.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08P1HKH6T/?tag=tolees-21)
