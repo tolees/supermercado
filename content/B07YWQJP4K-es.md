@@ -29,9 +29,9 @@ Tienes [Hero Baby Buenas Noches Guisantes Tiernos con Jamón Cocido Tarrito de P
 🔎:
 
 - Hero Baby Buenas noches es una gama de tarritos especiales que facilitan la digestión y aseguran el buen sueño de tu bebé. Ideales para la cena
-- Alimento infantil elaborado de forma natural en la huerta de Murcia. El secreto de Hero Baby: al baño maría y con cierre al vacío. Sin conservantes ni colorantes
-- Formato: pack 190 g. Para bebés a partir de 6 meses
 - Ingredientes: agua de cocción, guisantes (18%), leche, patatas, carne de jamón (10%), cebolla, almidón de maíz, aceite de oliva virgen y sal.
 - Sin aceite de palma, sin aditivos y sin gluten porque sabemos que los bebés necesitan alimentos naturales y saludables para su correcto desarrollo
+- Alimento infantil elaborado de forma natural en la huerta de Murcia. El secreto de Hero Baby: al baño maría y con cierre al vacío. Sin conservantes ni colorantes
+- Formato: pack 190 g. Para bebés a partir de 6 meses
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YWQJP4K/?tag=tolees-21)

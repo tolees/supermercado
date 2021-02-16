@@ -28,11 +28,11 @@ En este momento está [Syoss - Acondicionador Hidratación+ - 6uds de 440Ml  2.6
 
 🔎:
 
-- Proporciona suavidad, movimiento y brillo natural para un aspecto saludable; además, tiene efecto anti-electricidad estática
-- Cabello como recién salido de la peluquería
-- El acondicionador hidratación+ de Syoss es adecuado para cabello normal o seco
-- 48h de hidratación; suavidad y brillo óptimos
-- Desenreda y suaviza el cabello para una mejor peinabilidad y restaura el nivel óptimo de hidratación del cabello, lavado tras lavado sin apelmazar
 - Modo de empleo: aplicar sobre el cabello mojado y aclarar con abundante agua
+- 48h de hidratación; suavidad y brillo óptimos
+- El acondicionador hidratación+ de Syoss es adecuado para cabello normal o seco
+- Proporciona suavidad, movimiento y brillo natural para un aspecto saludable; además, tiene efecto anti-electricidad estática
+- Desenreda y suaviza el cabello para una mejor peinabilidad y restaura el nivel óptimo de hidratación del cabello, lavado tras lavado sin apelmazar
+- Cabello como recién salido de la peluquería
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08F5SLP8M/?tag=tolees-21)

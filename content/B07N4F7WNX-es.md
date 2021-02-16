@@ -28,15 +28,15 @@ Ahora mismo tienes [Suavinex Detergente para Biberones y Tetinas con 82% de Ingr
 
 🔎:
 
-- Limpia en profundidad los restos de leche, papilla y zumo, así como los restos de comida de la vajilla infantil. Indicado también para el lavado profundo de extractores de leche y otros accesorios como chupetes, mordedores o sonajeros.
 - Sin perfumes. Sin fosfatos. Sin colorantes. Sin glicoles. Sin trietanolamina.
-- Ingredientes: Tensioactivos aniónicos menos del 5%, Tensioactivos no iónicos menos del 5%. Contiene: Enzimas, Potassium Sorbate (Sorbato potásico), Formic Acid (Ácido fórmico). *% incorporando el agua.
 - Formulado con 82% de ingredientes de origen naturales. Testado deratológicamente.
-- Dermatológicamente testado, presenta muy buena compatibilidad cutánea.
+- Pack de 3 botellas de detergentes de 500ml para biberones y tetinas
 - Formato de cada botella 500ml
+- Ingredientes: Tensioactivos aniónicos menos del 5%, Tensioactivos no iónicos menos del 5%. Contiene: Enzimas, Potassium Sorbate (Sorbato potásico), Formic Acid (Ácido fórmico). *% incorporando el agua.
+- Limpia en profundidad los restos de leche, papilla y zumo, así como los restos de comida de la vajilla infantil. Indicado también para el lavado profundo de extractores de leche y otros accesorios como chupetes, mordedores o sonajeros.
+- Dermatológicamente testado, presenta muy buena compatibilidad cutánea.
 - Se aclara con facilidad, por lo que no deja residuos.
 - Con enzimas que eliminan las proteínas de la leche.
 - Textura gel que mejora la dosificación sin desperdiciar producto.
-- Pack de 3 botellas de detergentes de 500ml para biberones y tetinas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07N4F7WNX/?tag=tolees-21)

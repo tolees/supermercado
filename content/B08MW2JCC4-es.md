@@ -29,10 +29,10 @@ Tienes [Chupa Chups Mix Of Minis Chupa Chups  Mentos Y Fruittella  Caramelos Con
 🔎:
 
 - Cada pedido viene con 1 cubo mix of minis chupa chups, mentos y fruittella
-- Ideal para compartir con familia y amigos, regalar en fiestas de cumpleaños, y disfrutar en casa, en el colegio, en la oficina o donde tú quieras
-- Sabores: chupa chups mini con sabores a fresa, cola, cereza, naranja y manzana; mentos con sabores a fresa, cola, naranja y limón; fruittella con sabores a fresa y frambuesa; (total: 600 g)
 - Cuidamos cada detalle para ofrecerte los mejores productos con la máxima calidad
-- Instrucciones para su uso adecuado: Listo para el consumo
 - Todos los productos están envasados individualmente para garantizar la máxima seguridad y frescura; disfruta de poder compartir los caramelos más sabrosos con la máxima seguridad alimenticia
+- Sabores: chupa chups mini con sabores a fresa, cola, cereza, naranja y manzana; mentos con sabores a fresa, cola, naranja y limón; fruittella con sabores a fresa y frambuesa; (total: 600 g)
+- Ideal para compartir con familia y amigos, regalar en fiestas de cumpleaños, y disfrutar en casa, en el colegio, en la oficina o donde tú quieras
+- Instrucciones para su uso adecuado: Listo para el consumo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MW2JCC4/?tag=tolees-21)
