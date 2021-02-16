@@ -28,8 +28,8 @@ Ahora mismo tienes [Ejove EJ050 Jabón Puro de Aloe Vera  125 gr](https://www.am
 
 🔎:
 
-- Su espuma fina y cremosa penetra en su piel dejando la caricia perfumada del olor a las esencias naturales
 - El jabón de 100% Aloe Vera por sus componentes 100% naturales, hidrata, protege y suaviza su cuerpo
+- Su espuma fina y cremosa penetra en su piel dejando la caricia perfumada del olor a las esencias naturales
 - Devuelva a su piel el frescor y la elasticidad juvenil
 - Ideal para pieles secas y deshidratadas
 
