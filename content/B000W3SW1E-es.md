@@ -28,10 +28,10 @@ Está [Max Factor Lasting Performance Base de Maquillaje Líquida Tono 102 Paste
 
 ℹ️:
 
-- Easy application; does not clog pores
-- Long-lasting liquid foundation with high coverage
 - Oil free, touch-proof formula that doesnt transfer or smudge
-- Fragrance-free and suitable for sensitive skin
+- Long-lasting liquid foundation with high coverage
 - Provides a natural, long-lasting look for up to 8 hours
+- Fragrance-free and suitable for sensitive skin
+- Easy application; does not clog pores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000W3SW1E/?tag=tolees-21)

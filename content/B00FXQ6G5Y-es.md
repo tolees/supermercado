@@ -28,9 +28,9 @@ Tienes [Eucerin Atopicontrol Loción Corporal 12% Omega  Blanco - 400 ml](https:
 
 ℹ️:
 
-- Textura: Loción
 - Número de modelo del producto: 08454700
-- Tipo de piel: Piel seca
 - Género: Unisex, Infantil
+- Tipo de piel: Piel seca
+- Textura: Loción
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FXQ6G5Y/?tag=tolees-21)
