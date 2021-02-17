@@ -29,8 +29,8 @@ En este momento está [Scottex Original Papel Higiénico - 96 Rollos](https://ww
 🔎:
 
 - The perfect balance in softness and strength
-- 96 rolls
 - Scottex are environmentally friendly, many of which are produced in certified forests
 - Number 1 in softness
+- 96 rolls
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L3DG8DK/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Hero Porciones de Confitura Miel - Paquete de 8 x 25 gr - Total: 200 gr 
 
 🔎:
 
-- Sin conservantes ni colorantes
 - Porciones de miel de flores
+- Sin conservantes ni colorantes
 - Porciones individuales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MRKSI9C/?tag=tolees-21)
