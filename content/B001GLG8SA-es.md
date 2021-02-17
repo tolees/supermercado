@@ -28,11 +28,11 @@ En este momento está [Laphroaig Quarter Cask Single Malt Whisky Escoces Ahumado
 
 🔎:
 
-- Laphroaig logra revivir una tradición que había llegado casi a desaparecer: la utilización de barricas más pequeñas
-- Laphroaig se destila junto al Atlántico en la remota isla de Islay, por ello es "El whisky que viene del mar"
-- La madera junto con el ahumado habitual de Laphroaig logra un whisky single malt complejo, redondo, intenso y con una profundidad de matices
-- 2019 San Francisco World Spirits Awards Gold, 2019 SIP Awards Gold
-- Madurado en barricas mucho más pequeñas donde el whisky está en contacto con la madera un 30% más
 - Laphroaig Quarter Cask tiene una graduación de 48%
+- Madurado en barricas mucho más pequeñas donde el whisky está en contacto con la madera un 30% más
+- La madera junto con el ahumado habitual de Laphroaig logra un whisky single malt complejo, redondo, intenso y con una profundidad de matices
+- Laphroaig logra revivir una tradición que había llegado casi a desaparecer: la utilización de barricas más pequeñas
+- 2019 San Francisco World Spirits Awards Gold, 2019 SIP Awards Gold
+- Laphroaig se destila junto al Atlántico en la remota isla de Islay, por ello es "El whisky que viene del mar"
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B001GLG8SA/?tag=tolees-21)
