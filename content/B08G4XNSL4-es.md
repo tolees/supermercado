@@ -29,8 +29,8 @@ Tienes [BABARIA COTTON GEL DE MANOS HIGIENIZANTE SPRAY 70% ALCOHOL 500ML](https:
 🔎:
 
 - Producto de alta calidad
-- Para una sensación de bienestar
 - Babaria cotton gel de manos higienizante spray 70% alcohol 500 ml
+- Para una sensación de bienestar
 - Elección cuidadosa para las necesidades diarias
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08G4XNSL4/?tag=tolees-21)
