@@ -28,10 +28,10 @@ Tienes [Lázaro Mini Rosquillas Integral  Sin Azúcar Añadidos  Con Maltitol - 
 
 🔎:
 
-- Rosquillas sin azúcares añadidos ( Con maltitol). Receta tradicional.
+- Envase de aluminio y PET 100% reciclable.
 - Tamaño Mini, sabor tradicional.
 - Textura tierna y esponjosa.
 - SIN ACEITE DE PALMA
-- Envase de aluminio y PET 100% reciclable.
+- Rosquillas sin azúcares añadidos ( Con maltitol). Receta tradicional.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089WTL8W4/?tag=tolees-21)
