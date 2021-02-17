@@ -28,8 +28,8 @@ Está [Wella Color Touch Instamatic - Tinte para el cabello  60 ml   color malva
 
 ℹ️:
 
-- Crea el look de moda rápida y fácilmente
 - Tintado
+- Crea el look de moda rápida y fácilmente
 - Para un moderno acabado de color mate
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00QMCH81Y/?tag=tolees-21)

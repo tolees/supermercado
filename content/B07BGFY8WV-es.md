@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Productos San Diego Palmeritas de Chocol con un 0.00 % de descuento'
-date: 2021-02-16 00:15:33
+date: 2021-02-17 00:38:19
 image: 'https://m.media-amazon.com/images/I/51qd7hWg+WL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [Productos San Diego Palmeritas de Chocolate - 1500 gr](ht
 
 🔎:
 
-- Bollería tradicional
+- Palmeritas de chocolate
 - Mantener en lugar fresco y seco
 - Palmeritas de hojaldre cubiertas de una deliciosa capa de chocolate.
-- Palmeritas de chocolate
+- Bollería tradicional
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BGFY8WV/?tag=tolees-21)

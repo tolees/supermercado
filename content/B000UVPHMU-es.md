@@ -30,8 +30,8 @@ Tienes [Hojiblanca - Aceite de oliva virgen extra - 1L](https://www.amazon.es/dp
 
 - Capaz de envolver con su presencia los aromas convirtiendo cada plato en unico.
 - Sus virtudes son reforzadas por su sabor, el de siempre, el nuestro
-- Maestros de Hojiblanca
 - De procedencia puramente española,
+- Maestros de Hojiblanca
 - Lleno de matices que destacan por su equilibrio y armonia
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000UVPHMU/?tag=tolees-21)
