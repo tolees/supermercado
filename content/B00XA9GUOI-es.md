@@ -29,8 +29,8 @@ Tienes [Gourmet - Gominolas - Surtido frutas azúcar - 150 g](https://www.amazon
 🔎:
 
 - Tipo de producto: caramelos de goma
+- Una vez abierto, se debe conservar en un lugar fresco y seco
 - El paquete incluye 1 unidad de 150 gramos
 - Los caramelos vienen en forma de frutas con azúcar
-- Una vez abierto, se debe conservar en un lugar fresco y seco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XA9GUOI/?tag=tolees-21)
