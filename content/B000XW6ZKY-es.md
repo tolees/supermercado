@@ -29,8 +29,8 @@ Está [WMF Boston – Cucharillas de café  6 Piezas](https://www.amazon.es/dp
 ℹ️:
 
 - Modelo descargado
-- Apto para lavavajillas
-- Colección: Boston
 - Material: Cromargan: acero inoxidable 18/10
+- Colección: Boston
+- Apto para lavavajillas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000XW6ZKY/?tag=tolees-21)

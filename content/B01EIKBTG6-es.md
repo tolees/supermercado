@@ -28,8 +28,8 @@ Está [MONTSERRAT - Junta Goma para Tarro Cristal DE CONSERVAS 92 X 70 MM  10 Un
 
 ℹ️:
 
-- Caja acero inox. aisi 304.
-- Rosca 1/4" m. gas
 - Tubo bourdon y racor laton une-en 12165.
+- Rosca 1/4" m. gas
+- Caja acero inox. aisi 304.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01EIKBTG6/?tag=tolees-21)
