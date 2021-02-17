@@ -28,10 +28,10 @@ Tienes [Jacobs Espresso Ristretto - Nespresso®* Cápsulas de café de aluminio 
 
 🔎:
 
-- Compatible con la cafetera Nespresso *
-- Tamaño Pequeño (S)
-- País de origen: Fabricado en Alemania
 - Marca: Tassimo
+- País de origen: Fabricado en Alemania
+- Tamaño Pequeño (S)
 - Paquete de 10, 100 porciones en total
+- Compatible con la cafetera Nespresso *
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0714HXNXR/?tag=tolees-21)
