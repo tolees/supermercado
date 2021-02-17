@@ -28,10 +28,10 @@ En este momento está [Cúrcuma orgánica Turmeric  650mg  con Jengibre 50mg  y 
 
 🔎:
 
+- FÓRMULA REFORZADA POR LOS BENEFICIOS DEL JENGIBRE Y DE LA PIMIENTA NEGRA: completamos nuestra fórmula con pimienta negra concentrada con piperina, que es esencial para potenciar los beneficios de la cúrcuma. El jengibre es ideal para detoxificar y estimular el metabolismo.
+- CURCUMINA: cada cápsula de Curcuma Complex lleva 650mg de curcuma compuesto de curcumina, haciendo que se convierta en un producto estrella en el mercado. Nuestra fórmula es una fuente de beneficios antiinflamatorios y antioxidantes y conviene tanto a deportistas como a personas sufriendo de dolores articulares o digestivo
+- ORGÁNICO Y NATURAL: nuestras cápsulas son 100% orgánicas y vegetales aptas para veganos. Cúrcuma complex está formulada con ingredientes de máxima calidad, naturales y orgánicos. Todo el proceso de elaboración de Curcuma complex ha sido controlada y certificado bajo los más estrictos protocolos de calidad.
 - MÁXIMA EFECTIVIDAD: la fórmula de Cúrcuma complex contiene extracto puro de la mejor cúrcuma, que juntamente con el jengibre y la pimienta negra luchan contra el envejecimiento celular y pueden ayudar a tener la piel y el pelo más saludable.
 - ANTIOXIDANTE Y ANTIINFLAMATORIO: la cúrcuma es una de las especias con más propiedades beneficiosas para la salud. Ayuda a combatir la inflamación aliviando los dolores articulares, es un potente antioxidante y ayuda a mejorar nuestras digestiones.
-- FÓRMULA REFORZADA POR LOS BENEFICIOS DEL JENGIBRE Y DE LA PIMIENTA NEGRA: completamos nuestra fórmula con pimienta negra concentrada con piperina, que es esencial para potenciar los beneficios de la cúrcuma. El jengibre es ideal para detoxificar y estimular el metabolismo.
-- ORGÁNICO Y NATURAL: nuestras cápsulas son 100% orgánicas y vegetales aptas para veganos. Cúrcuma complex está formulada con ingredientes de máxima calidad, naturales y orgánicos. Todo el proceso de elaboración de Curcuma complex ha sido controlada y certificado bajo los más estrictos protocolos de calidad.
-- CURCUMINA: cada cápsula de Curcuma Complex lleva 650mg de curcuma compuesto de curcumina, haciendo que se convierta en un producto estrella en el mercado. Nuestra fórmula es una fuente de beneficios antiinflamatorios y antioxidantes y conviene tanto a deportistas como a personas sufriendo de dolores articulares o digestivo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HNML23T/?tag=tolees-21)
