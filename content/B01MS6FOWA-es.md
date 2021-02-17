@@ -28,8 +28,8 @@ Está [Alpro Central Lechera Asturiana Bebida de Avellana - Paquete de 8 x 1000 
 
 ℹ️:
 
-- Bebida de avellanas UHT
-- Enriquecida con calcio y vitaminas B2,B12,E y D
 - Sabor suave y cremoso
+- Enriquecida con calcio y vitaminas B2,B12,E y D
+- Bebida de avellanas UHT
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MS6FOWA/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [CAMPOS Conserva De Bonito Del Norte De Pesca Certificada Msc En Aceite D
 
 🔎:
 
-- Pescado con caña y anzuelo. Ver zona de pesca en la lata
-- Bonito del norte proveniente de pesca sostenible MSC certificado por el Marine Stewarship Council
-- Tradicional Bonito del norte en aceite de oliva elaborado con el buen hacer y la tradición acumulada en Bermeo desde 1921
 - País de origen: España, producto natural sin conservantes ni colorantes
+- Tradicional Bonito del norte en aceite de oliva elaborado con el buen hacer y la tradición acumulada en Bermeo desde 1921
+- Bonito del norte proveniente de pesca sostenible MSC certificado por el Marine Stewarship Council
+- Pescado con caña y anzuelo. Ver zona de pesca en la lata
 - Práctica lata individual de 80 g peso neto con tapa fácil apertura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S1C4ZJJ/?tag=tolees-21)
