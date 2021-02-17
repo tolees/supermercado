@@ -28,9 +28,9 @@ Tienes [Ensalada marinera con mejillones calvo 150g](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- una vez abierto, consevar en el frigorifico y consumir en 24 horas
-- Alergenos: moluscos
 - Ingredientes: Mezcla vegetal, mejillon, aceite e girasol, vinagre de vino y sal
+- Alergenos: moluscos
+- una vez abierto, consevar en el frigorifico y consumir en 24 horas
 - Fabricado en Galicia
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00MTEWOPE/?tag=tolees-21)
