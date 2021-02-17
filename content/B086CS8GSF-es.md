@@ -28,10 +28,10 @@ En este momento está [Puleva Puleva Leche Entera 6 Botellas De 1 5Lt 9800 g](ht
 
 🔎:
 
-- Alimentacion
 - Lacteo
-- Caja de Leche
 - Proteina
+- Alimentacion
+- Caja de Leche
 - Nutrientes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086CS8GSF/?tag=tolees-21)
