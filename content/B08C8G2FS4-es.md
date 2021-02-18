@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Cola Cao Original: Con Cacao Natural  po al 14.98 % de rebaja'
-date: 2021-02-17 00:44:35
+title: 'Cola Cao - ColaCao Original: con Cacao N al 17.56 % de rebaja'
+date: 2021-02-18 18:30:17
 image: 'https://m.media-amazon.com/images/I/51aJqS91NTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C8G2FS4-es Cola Cao Original: Con Cacao Natural power Bank Chocolate...'
+slug: 'B08C8G2FS4-es Cola Cao - ColaCao Original: con Cacao Natural-2 7kg Power...'
 sku: 'B08C8G2FS4-es'
-tags: [ 'chocolate', ]
-actualPrice: 11.86 EUR
+tags: [ 'colacao', ]
+actualPrice: 11.5 EUR
 currency: EUR
-price: 11.86
+price: 11.5
 comparePrice: 13.95 EUR
-prodname: 'Cola Cao Original: Con Cacao Natural  power Bank   Chocolate  2700 Gramo'
+prodname: 'Cola Cao - ColaCao Original: con Cacao Natural-2 7kg  Power Bank '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Cola Cao'
 buyurl: 'https://www.amazon.es/dp/B08C8G2FS4/?tag=tolees-21'
-descuento: '14.98'
-average: '11.8799999999999'
+descuento: '17.56'
+average: '11.8324999999999'
 ---
 
-Tienes [Cola Cao Original: Con Cacao Natural  power Bank   Chocolate  2700 Gramo](https://www.amazon.es/dp/B08C8G2FS4/?tag=tolees-21) con precio final de  11.86 EUR (original: 13.95 EUR) (14.98 %  de rebaja) aqui!
+Tienes [Cola Cao - ColaCao Original: con Cacao Natural-2 7kg  Power Bank ](https://www.amazon.es/dp/B08C8G2FS4/?tag=tolees-21) con precio final de  11.5 EUR (original: 13.95 EUR) (17.56 %  de rebaja) aqui!
 
-[![Cola Cao Original: Con Cacao Natural  po](https://m.media-amazon.com/images/I/51aJqS91NTL._SL200_.jpg)](https://www.amazon.es/dp/B08C8G2FS4/?tag=tolees-21)
+[![Cola Cao - ColaCao Original: con Cacao N](https://m.media-amazon.com/images/I/51aJqS91NTL._SL200_.jpg)](https://www.amazon.es/dp/B08C8G2FS4/?tag=tolees-21)
 
 🔎:
 
 - 192 raciones en su formato ahorro de 2,7Kg (Contiene 2 bolsas en su interior)
-- Gratis el Power Bank de ColaCao. Recarga tu batería donde y cuando quieras! Con 2.500 mAh de capacidad. Con indicador LED de carga. Incluye cable Micro USB, en caso que tu dispositivo tenga una entrada diferente, usa tu propio cable de carga.
 - Con cacao certificado UTZ. ColaCao apoya el cultivo sostenible de cacao. Los agricultores certificados implementan mejores prácticas agrícolas, con respeto a la gente y al planeta.
-- El ColaCao de siempre, eso tan tuyo. Con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos. Sus grumitos se deben al cacao natural y porque no contiene aditivos.
 - Alérgenos: contiene trigo y cebada. Mantener en lugar fresco y seco.
+- Gratis el Power Bank de ColaCao. Recarga tu batería donde y cuando quieras! Con 2.500 mAh de capacidad. Con indicador LED de carga. Incluye cable Micro USB, en caso que tu dispositivo tenga una entrada diferente, usa tu propio cable de carga.
+- El ColaCao de siempre, eso tan tuyo. Con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos. Sus grumitos se deben al cacao natural y porque no contiene aditivos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08C8G2FS4/?tag=tolees-21)
