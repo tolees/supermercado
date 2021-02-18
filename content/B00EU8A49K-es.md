@@ -28,9 +28,9 @@ Tienes [Elizabeth Arden Eight hour Intensive Bálsamo Reparador de Labios - 11 6
 
 🔎:
 
-- Aceite de Árnica: repara los labios secos y cortados y crea una película protectora para evitar los daños futuros
-- Ayuda a curar los labios secos
-- Ayuda a retener la hidratación al tiempo que proporciona suavidad y alivio a los labios
 - Vitamina E, vitamina A, extracto de miel y extracto de berro: aportan nutrientes esenciales
+- Aceite de Árnica: repara los labios secos y cortados y crea una película protectora para evitar los daños futuros
+- Ayuda a retener la hidratación al tiempo que proporciona suavidad y alivio a los labios
+- Ayuda a curar los labios secos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00EU8A49K/?tag=tolees-21)

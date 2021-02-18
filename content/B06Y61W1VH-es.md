@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lagarto - Jabón natural - 400 g - [paque al 5.84 % de descuento'
-date: 2021-02-17 00:03:43
+title: 'Lagarto - Jabón natural - 400 g - [paque al 0.00 % de descuento'
+date: 2021-02-18 11:53:56
 image: 'https://m.media-amazon.com/images/I/412ZvU519DL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'jabón', ]
 actualPrice: 10.32 EUR
 currency: EUR
 price: 10.32
-comparePrice: 10.96 EUR
+comparePrice:  EUR
 prodname: 'Lagarto - Jabón natural - 400 g - [paquete de 8 unidades]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Lagarto'
 buyurl: 'https://www.amazon.es/dp/B06Y61W1VH/?tag=tolees-21'
-descuento: '5.84'
-average: '10.5305263157892'
+descuento: '0.00'
+average: '10.5286956521737'
 ---
 
-Está [Lagarto - Jabón natural - 400 g - [paquete de 8 unidades]](https://www.amazon.es/dp/B06Y61W1VH/?tag=tolees-21) con 5.84 de descuento por 10.32 EUR (original: 10.96 EUR) en el siguiente enlace!
+Está [Lagarto - Jabón natural - 400 g - [paquete de 8 unidades]](https://www.amazon.es/dp/B06Y61W1VH/?tag=tolees-21) con 0.00 de descuento por 10.32 EUR (original:  EUR) en el siguiente enlace!
 
 [![Lagarto - Jabón natural - 400 g - [paque](https://m.media-amazon.com/images/I/412ZvU519DL._SL200_.jpg)](https://www.amazon.es/dp/B06Y61W1VH/?tag=tolees-21)
 

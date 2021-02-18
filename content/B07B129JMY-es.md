@@ -28,11 +28,11 @@ Tienes [Kit Kat - Nestlé KitKat Mini Chocolate con Leche - Barritas de chocolat
 
 🔎:
 
-- 100% aromas naturales
+- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
+- Tómate un respiro y recarga pilas con KIT KAT, donde y cuando quieras
+- Nestlé KitKat chocolate con leche, la mejor excusa para tomarse un RESPIRO
 - Contiene 24 packs de bolsas de KITKAT (12 x 200 g)
 - 4 deliciosas barritas de crujiente galleta recubierta de suave chocolate con leche
-- Tómate un respiro y recarga pilas con KIT KAT, donde y cuando quieras
-- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
-- Nestlé KitKat chocolate con leche, la mejor excusa para tomarse un RESPIRO
+- 100% aromas naturales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B129JMY/?tag=tolees-21)
