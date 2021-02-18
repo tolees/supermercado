@@ -28,12 +28,12 @@ Está [Marca Amazon - Happy Belly - Caramelos a la mantequilla y menta  3x500g](
 
 ℹ️:
 
+- Con aromas naturales
 - Fabricado en el Reino Unido
 - Caramelos duros con sabor a mantequilla y un toque de menta
-- Con aromas naturales
+- Paquete de 3
+- Este envase contiene 20 porciones
 - No recomendado para niños menores de 36 meses
 - Apto para dietas vegetarianas
-- Este envase contiene 20 porciones
-- Paquete de 3
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086N6NKMB/?tag=tolees-21)
