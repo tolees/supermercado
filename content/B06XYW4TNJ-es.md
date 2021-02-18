@@ -28,8 +28,8 @@ Tienes [Instituto EspaÃ±ol - Instituto Español L Oreal Expert Professionnel D
 
 🔎:
 
+- Resistente y con diseño funcional
 - Producto de alta calidad
 - Marca: Instituto Español
-- Resistente y con diseño funcional
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XYW4TNJ/?tag=tolees-21)

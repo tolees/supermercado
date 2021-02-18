@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Central Lechera Asturiana Bebida de Aven'
-date: 2021-02-13 10:14:50
+date: 2021-02-17 23:33:38
 image: 'https://m.media-amazon.com/images/I/41kPifxCtVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Central Lechera Asturiana Bebida de Avena - Paquete de 6 x 1000 ml - Tot
 
 ℹ️:
 
+- Bebida de avena UHT
 - Sabor suave
 - Enriquecida con calcio y vitamina D
-- Bebida de avena UHT
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01IVO4JN0/?tag=tolees-21)
