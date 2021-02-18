@@ -30,8 +30,8 @@ Ahora mismo tienes [VIEWALL Tarros de conservas con tapa y cintas  tarros de con
 
 - Se recomienda lavar a mano. Fácil de limpiar con cepillo de limpieza
 - Regalo: es un gran regalo
-- Tarro normal para conservar, beber, almacenar artículos de manualidades y otras cosas
-- Cada tarro viene con 3 tapas para satisfacer tus diferentes necesidades
 - Excelente a prueba de fugas, mantiene tu comida fresca y deliciosa
+- Cada tarro viene con 3 tapas para satisfacer tus diferentes necesidades
+- Tarro normal para conservar, beber, almacenar artículos de manualidades y otras cosas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PCYZP2K/?tag=tolees-21)
