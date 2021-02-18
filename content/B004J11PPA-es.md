@@ -28,12 +28,12 @@ Está [Alvarez Gomez - Álvarez Gómez - Jabón en Pastilla con Aroma Colonia Cl
 
 ℹ️:
 
-- Tipo de piel: Normal
 - Elaborado con Glicerina, de efectos calmantes, y Aloe Vera, Avena y Aceite de oliva, que proporcionan cuidado y protección
 - Dermatologicamente testado para todo tipo de pieles, edades y de uso diario
-- De textura ultra cremosa, muy agradable y con un perfume muy fresco, limpia a la vez que protege tu epidermis
-- Nombre de la fragancia: acuática
-- Con un PH Neutro, está fabricado específicamente para evitar irritaciones y cuidar de la piel de toda la familia
 - Un jabón en pastilla suave que deja la piel limpia, sedosa y perfumada con el aroma clásico de Álvarez Gómez
+- De textura ultra cremosa, muy agradable y con un perfume muy fresco, limpia a la vez que protege tu epidermis
+- Con un PH Neutro, está fabricado específicamente para evitar irritaciones y cuidar de la piel de toda la familia
+- Nombre de la fragancia: acuática
+- Tipo de piel: Normal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004J11PPA/?tag=tolees-21)
