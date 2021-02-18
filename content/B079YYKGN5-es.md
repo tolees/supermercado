@@ -28,8 +28,8 @@ Tienes [Chocolates Simón Coll Chocolate con Leche sin Azúcares Añadidos - 16 
 
 ℹ️:
 
+- Sin Gluten
 - Ingredientes: Edulcorante (Maltitol 41,5%), Manteca de cacao, LECHE en polvo, Pasta de cacao, Emulgente (lecitina de SOJA), aroma (Vainillina).Cacao: 34% mínimo. Contiene azúcares naturalmente presentes
 - País de origen: España
-- Sin Gluten
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079YYKGN5/?tag=tolees-21)
