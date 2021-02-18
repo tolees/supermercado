@@ -28,9 +28,9 @@ Tienes [Lékué - Molde bizcocho Savarín Hondo/Bundt 22 cm](https://www.amazon.
 
 🔎:
 
-- diameter of 22 cm and capacity 2400 ml.
-- Platinum silicone 100%
 - Reinforced interior structure so, in spite of their flexibility, they are very stable, making them easier to carry
 - Light, flexible, non-stick and easy to unmold.
+- Platinum silicone 100%
+- diameter of 22 cm and capacity 2400 ml.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00CK4QNIW/?tag=tolees-21)

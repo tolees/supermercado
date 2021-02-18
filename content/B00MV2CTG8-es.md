@@ -29,9 +29,9 @@ En este momento está [MENFORSAN champú para perros pelo blanco bote 300 ml](ht
 🔎:
 
 - Apto para uso frecuente.
-- El colágeno de su fórmula revitaliza, hidrata y recupera el aspecto sano y natural del pelaje.
-- Quita las antiestéticas manchas grises y amarillas de los pelajes blancos intensificando y realzando el brillo y el color de manera natural.
 - Champú de máxima calidad para perros de colores blancos y tonos claros (Caniche, West Highland terrier, Sky Terrier).
 - PH adaptado.
+- El colágeno de su fórmula revitaliza, hidrata y recupera el aspecto sano y natural del pelaje.
+- Quita las antiestéticas manchas grises y amarillas de los pelajes blancos intensificando y realzando el brillo y el color de manera natural.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00MV2CTG8/?tag=tolees-21)

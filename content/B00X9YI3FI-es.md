@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Purina Friskies Comida para Gato  400gr con un 0.00 % de descuento'
-date: 2021-01-30 13:40:42
+date: 2021-02-18 10:49:55
 image: 'https://m.media-amazon.com/images/I/41UBW85V2zL._SL200_.jpg'
 comments: true
 category: ofertas
