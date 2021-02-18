@@ -28,9 +28,9 @@ Tienes [Lékué Spanish Omelette - Molde para tortilla española  color rojo](ht
 
 ℹ️:
 
+- SpanishOmelette es un molde para realizar de una forma fácil y cómoda, elaboraciones redondas que necesiten de una cocción a doble cara
 - Capacidad: 800 ml
 - Ideal para cocinar deliciosas tortillas de patatas, frittatas y mucho más
-- SpanishOmelette es un molde para realizar de una forma fácil y cómoda, elaboraciones redondas que necesiten de una cocción a doble cara
 - Para uso en microondas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FDRFS20/?tag=tolees-21)

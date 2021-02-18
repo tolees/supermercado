@@ -30,7 +30,7 @@ Tienes [Gliss - Mascarilla Ultimate Repair para Cabellos Muy Dañados - 300ml - 
 
 - Devuelve al cabello la keratina perdida, reconstruyendo la estructura del cabello
 - Mascarilla reparación total de textura cremosa
-- Consigue hasta un 95% más de resistencia y brillo en el cabello con un uso regular
 - Su fórmula con triple concentración de keratina líquida repara de forma precisa los daños del cabello
+- Consigue hasta un 95% más de resistencia y brillo en el cabello con un uso regular
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B082VV95HN/?tag=tolees-21)
