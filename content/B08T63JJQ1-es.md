@@ -28,9 +28,9 @@ Está [Auralum Columna Ducha Negra Termostatico Conjunto Ducha Cuadrado de Baño
 
 ℹ️:
 
-- DUCHA TODO EN UNO: La columna combina un cabezal de ducha fijo de 27cm * 18cm, el cabezal de ducha, utiliza nueva tecnología, el agua más comodidad. Sólo un interruptor para cambiar la función. El color blanco y negro da a la ducha otra sensación.
-- PARA PEQUEÑOS Y GRANDES: La ducha se puede ajustar hacia arriba y hacia abajo en una altura total de 78cm-121cm que es adecuada para personas de diferentes alturas. La altura recomendada para el suministro de agua caliente y fría es de 100cm. Es posible que tenga que comprobar si es adecuado para su bañera.
 - ANTI ESCAMAS Y FÁCIL DE LIMPIAR. La alcachofa de la ducha de lluvia y la teleducha han utilizado una pieza especial que permite eliminar la cal en un segundo. Simplemente empuje el cabezal de la ducha hacia arriba, o empuje el botón de la parte posterior de la ducha de mano.
+- PARA PEQUEÑOS Y GRANDES: La ducha se puede ajustar hacia arriba y hacia abajo en una altura total de 78cm-121cm que es adecuada para personas de diferentes alturas. La altura recomendada para el suministro de agua caliente y fría es de 100cm. Es posible que tenga que comprobar si es adecuado para su bañera.
+- DUCHA TODO EN UNO: La columna combina un cabezal de ducha fijo de 27cm * 18cm, el cabezal de ducha, utiliza nueva tecnología, el agua más comodidad. Sólo un interruptor para cambiar la función. El color blanco y negro da a la ducha otra sensación.
 - MÁS SEGURO PARA LA FAMILIA: Este juego de ducha está equipado con una válvula de termostato, que mantiene el agua de la ducha a una temperatura constante después de que la configure. Preste atención a que si quiere una temperatura más alta, tiene que pulsar el bloqueo de seguridad mientras gira la manivela.
 - FÁCIL INSTALACIÓN: Conexión estándar de 1/2 pulgada. Una guía clara ayuda en caso de cualquier duda. No atornillar el grifo directamente con la llave, poner una toalla alrededor para no dañar el acabado negro.
 

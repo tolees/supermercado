@@ -29,7 +29,7 @@ Tienes [Central Lechera Asturiana Bebida de Avena - Paquete de 6 x 1000 ml - Tot
 ℹ️:
 
 - Sabor suave
-- Enriquecida con calcio y vitamina D
 - Bebida de avena UHT
+- Enriquecida con calcio y vitamina D
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01IVO4JN0/?tag=tolees-21)
