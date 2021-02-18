@@ -29,7 +29,7 @@ En este momento está [Leche Pascual - Clásica Leche Entera - 1 L  Paquete de 6
 🔎:
 
 - Se debe conservar en un lugar fresco y seco
-- Advertencia alergénica: contiene leche
 - Una vez abierto conservar el envase cerrado en nevera y consumir antes de 3 días
+- Advertencia alergénica: contiene leche
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01DUW8BPA/?tag=tolees-21)
