@@ -28,8 +28,8 @@ Está [FOXY Cream pañuelos con crema hidratante paquete 10 uds](https://www.ama
 
 ℹ️:
 
-- Con crema hidratante
 - 4 capas
+- Con crema hidratante
 - Clínicamente testado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01FURXUWM/?tag=tolees-21)
