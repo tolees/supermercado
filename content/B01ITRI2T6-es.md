@@ -28,8 +28,8 @@ Está [Central Lechera Asturiana Leche Sin Lactosa Semidesnatada - Paquete de 6 
 
 ℹ️:
 
-- Semidesnatada
-- Sin Lactosa
 - Leche UHT
+- Sin Lactosa
+- Semidesnatada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ITRI2T6/?tag=tolees-21)
