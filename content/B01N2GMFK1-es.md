@@ -28,8 +28,8 @@ Está [Puleva Batido de Chocolate - Pack de 6 x 1 L - Total: 6 L](https://www.am
 
 ℹ️:
 
+- Batidos Puleva Cacao con 90% leche
 - Disfruta todo el sabor de la receta original
 - Con una cuidada selección de los mejores cacaos
-- Batidos Puleva Cacao con 90% leche
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N2GMFK1/?tag=tolees-21)
