@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bicentury - Tortitas De Maíz con sal  13 al 0.00 % de descuento'
-date: 2021-02-09 21:04:56
+date: 2021-02-19 19:08:35
 image: 'https://m.media-amazon.com/images/I/41-Il+ZyA1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BICENTURY'
 buyurl: 'https://www.amazon.es/dp/B00DHO4TH6/?tag=tolees-21'
 descuento: '0.00'
-average: '1.06413333333334'
+average: '1.06246753246754'
 ---
 
 Está [Bicentury - Tortitas De Maíz con sal  130 g](https://www.amazon.es/dp/B00DHO4TH6/?tag=tolees-21) con 0.00 de descuento por 1.0 EUR (original:  EUR) en el siguiente enlace!
@@ -30,8 +30,8 @@ Está [Bicentury - Tortitas De Maíz con sal  130 g](https://www.amazon.es/dp/B0
 
 - Es importante seguir un dieta variada y equilibrada estilo de vida saludable, se recomienda beber 2 L agua al día
 - Tiene 30 kcal por tortita
-- Sin colorantes ni conservantes
 - Bajo contenido en grasas
+- Sin colorantes ni conservantes
 - Bajo grasas saturadas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00DHO4TH6/?tag=tolees-21)

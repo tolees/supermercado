@@ -28,8 +28,8 @@ Ahora mismo tienes [BOSS - Baldessarini Set de Regalo - Eau de Cologne Spray + G
 
 🔎:
 
+- Elegante regalo para caballero.
 - Set contiene: Eau de Toilette 75 ml + Gel de ducha 200 ml.
 - Contiene 2 productos.
-- Elegante regalo para caballero.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00IKDD9Z2/?tag=tolees-21)
