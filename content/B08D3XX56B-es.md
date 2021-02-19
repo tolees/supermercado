@@ -28,10 +28,10 @@ Está [KOFFIE CUP EST. 2020 - KoffieCup Ristretto 40 cápsulas compostables de c
 
 ℹ️:
 
-- Pack de 4 estuches de 10 cápsulas. Total de 40 cápsulas de 5g/ cápsula
 - Ristretto es un deleite para los sentidos. De aroma dulce y un toque de acidez cítrica, tiene un cuerpo de textura cremosa con sabor a chocolate, caramelo y naranja. Elaborado con ingredientes naturales exclusivamente seleccionados para ti.
 - Cápsulas compatibles para máquinas Nespresso*, marca registrada de Société des Produits Nestlé S.A. No compatibles con máquinas LOr
 - Nuestras cápsulas son 100% compostables a partir de recursos naturales, las puedes depositar en tu contenedor de residuos orgánicos
+- Pack de 4 estuches de 10 cápsulas. Total de 40 cápsulas de 5g/ cápsula
 - Receta Ristretto intensidad 10- café con personalidad propia. De aroma dulce y un toque de acidez cítrica, tiene un cuerpo de textura cremosa con sabor a chocolate, caramelo y naranja
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08D3XX56B/?tag=tolees-21)
