@@ -28,8 +28,8 @@ Tienes [Gallina Blanca - Sopa De Verduras - 51 g](https://www.amazon.es/dp/B00XA
 
 ℹ️:
 
-- Se pueden preparar 4 raciones
 - Sin conservantes
 - Contiene Leche o derivados de la leche (lactosa)
+- Se pueden preparar 4 raciones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XA5HTJC/?tag=tolees-21)
