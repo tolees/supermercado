@@ -30,8 +30,8 @@ Tienes [Damilo - 3 cajas de conservación  apilables  en color amarillo  adecuad
 
 - Gracias a una regulación de la humedad, los recipientes mantienen los alimentos durante más tiempo
 - 3 recipientes para conservar alimentos como embutidos y queso, color amarillo, con bandeja de servicio integrada
+- Las cajas son aptas para congelador, microondas y lavavajillas y soportan temperaturas de -40 hasta 100 °C
 - El plástico de las cajas de alimentos es de plástico alimentario libre de BPA
 - Cierre extraíble y bien cerrado que ahorra espacio porque se puede apilar. Dimensiones: 25 cm de largo, 17 cm de ancho y 3,3 cm de alto. Tapa extraíble
-- Las cajas son aptas para congelador, microondas y lavavajillas y soportan temperaturas de -40 hasta 100 °C
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08RC6V9V9/?tag=tolees-21)
