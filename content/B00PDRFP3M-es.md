@@ -28,9 +28,9 @@ En este momento está [PATO Limp. WC Power Lejia Fresh 750ML](https://www.amazon
 
 🔎:
 
-- Producto de alta calidad
-- Ayuda a romper las heces y descomponer el papel higiénico
 - Producto útil y práctico
 - Líquido sanitario para el tanque de aguas residuales
+- Producto de alta calidad
+- Ayuda a romper las heces y descomponer el papel higiénico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00PDRFP3M/?tag=tolees-21)
