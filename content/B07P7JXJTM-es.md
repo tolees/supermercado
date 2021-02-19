@@ -28,8 +28,8 @@ Ahora mismo tienes [L Oreal Paris Men Expert - L Oréal Men Expert - Hydra Energ
 
 🔎:
 
-- Gel energizante para hombres con piel de aspecto cansado
 - Textural gel ultra ligera y fresca que penetra en la piel al instante, no grasa ni pegajosa
+- Gel energizante para hombres con piel de aspecto cansado
 - Contiene guaraná y vitamina Cg
 - Aplicar diariamente el producto sobre el rostro húmedo, masajear suavemente y aclarar con agua
 - Limpia intensamente, purifica la piel y la deja confortable
