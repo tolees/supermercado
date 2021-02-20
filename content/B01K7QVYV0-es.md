@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en La Masía Aceite de Oliva Suave - 1 l'
-date: 2021-02-19 06:38:30
+date: 2021-02-20 12:21:49
 image: 'https://m.media-amazon.com/images/I/412NkZUvtNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LA'
 buyurl: 'https://www.amazon.es/dp/B01K7QVYV0/?tag=tolees-21'
 descuento: '0.00'
-average: '5.15533333333334'
+average: '6.19470588235295'
 ---
 
 Tienes [La Masía Aceite de Oliva Suave - 1 l](https://www.amazon.es/dp/B01K7QVYV0/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 13.99 EUR (original:  EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [La Masía Aceite de Oliva Suave - 1 l](https://www.amazon.es/dp/B01K7QVY
 
 ℹ️:
 
-- Botella de 1 l
 - Aceite que contiene exclusivamente aceites de oliva
+- Botella de 1 l
 - De aceites obtenidos directamente de aceitunas
 - Se haya sometido a un tratamiento de refinado
 
