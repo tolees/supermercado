@@ -28,13 +28,13 @@ Tienes [Pernigotti Tableta De Chocolate Con Leche Y Pistacho 100 g](https://www.
 
 ℹ️:
 
-- Alérgenos: leche y productos derivados (incluida la lactosa) frutos con cásccara
-- Conservar en lugar fresco y seco, preferiblemente entre 18ºc y 20ºc y alejado de olores
-- Pernigotti - tableta de chocolate con leche y trocitos de pistacho: tableta de chocolate con leche de 100 g, 37% mínimo de cacao y 15% de pistacho
-- Ingredientes: Ingredientes: Azúcar, manteca de cacao, LECHE entera en polvo, trozos de PISTACHO, pasta de cacao, LECHE desnatada en polvo, emulsionante: lecitina de girasol, aroma natural; puede contener OTROS FRUTOS SECOS; sin glúten; sÓLIDOS DE LECHE TOTAL: 19% min
 - Sin aceite de palma
-- Información de alérgenos: gluten free
 - País de origen: turquía
+- Ingredientes: Ingredientes: Azúcar, manteca de cacao, LECHE entera en polvo, trozos de PISTACHO, pasta de cacao, LECHE desnatada en polvo, emulsionante: lecitina de girasol, aroma natural; puede contener OTROS FRUTOS SECOS; sin glúten; sÓLIDOS DE LECHE TOTAL: 19% min
+- Alérgenos: leche y productos derivados (incluida la lactosa) frutos con cásccara
+- Pernigotti - tableta de chocolate con leche y trocitos de pistacho: tableta de chocolate con leche de 100 g, 37% mínimo de cacao y 15% de pistacho
 - Advertencia de seguridad: Producido en una fábrica que también utiliza frutos secos (avellanas, almendras y pistacho)
+- Conservar en lugar fresco y seco, preferiblemente entre 18ºc y 20ºc y alejado de olores
+- Información de alérgenos: gluten free
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08PR675HJ/?tag=tolees-21)
