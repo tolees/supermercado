@@ -28,9 +28,9 @@ Está [Axe - Gold Desodorante -Pack 2 x 150 ml](https://www.amazon.es/dp/B07YQF6
 
 ℹ️:
 
-- Una fragancia ligera y masculina para tener una experiencia de frescor todo el día
-- Dermatológicamente comprobado
 - Axe Desodorante Gold
+- Una fragancia ligera y masculina para tener una experiencia de frescor todo el día
 - Mantente fresco por más tiempo
+- Dermatológicamente comprobado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YQF6XVG/?tag=tolees-21)
