@@ -29,7 +29,7 @@ Tienes [Semillas Batlle - Semillas Hortícolas - Pimiento Guindilla de Cayenne r
 🔎:
 
 - Variedad de pimiento picante ampliamente cultivada. Planta de unos 65-70 cm. de altura, con hojas pequeñas y estrechas. Frutos largos de unos 15-20 cm. Terminados en punta y superficie lisa
-- Cultivo: Se siembran de Enero a Mayo en semillero, en cama caliente o en bandejas para su posterior trasplante
 - Se trasplanta cuando las plantas tengan 15 cm. de altura, al marco de 70X40 cm
+- Cultivo: Se siembran de Enero a Mayo en semillero, en cama caliente o en bandejas para su posterior trasplante
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ID4TU24/?tag=tolees-21)

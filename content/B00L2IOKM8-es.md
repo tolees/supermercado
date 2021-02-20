@@ -29,9 +29,9 @@ En este momento está [Semillas Batlle - Semillas Hortícolas - Cebolla Grande t
 🔎:
 
 - Preparar bien el suelo y con una capa superficial fina (2 cm)
-- Grande, globosa y color blanco plateado. Tierna. Buscar las fincas más fértiles y que no sean arcillosas
-- Forma de cultivo: en semillero hasta que la planta tenga cierto grosor. Después trasplantar a un marco de 40x10 cm
 - Cosecha: a partir de 150 Días
+- Forma de cultivo: en semillero hasta que la planta tenga cierto grosor. Después trasplantar a un marco de 40x10 cm
 - Siembra: de Septiembre a Febrero
+- Grande, globosa y color blanco plateado. Tierna. Buscar las fincas más fértiles y que no sean arcillosas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00L2IOKM8/?tag=tolees-21)
