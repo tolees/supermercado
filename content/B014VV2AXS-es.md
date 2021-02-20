@@ -28,10 +28,10 @@ Ahora mismo tienes [Bolero Bebida Instantánea sin Azúcar  Sabor Bayas - Paquet
 
 🔎:
 
-- Disolver cada sobre en 1.5 L de agua
 - Edulcorado con Stevia
-- Bebida instantánea en polvo sin azúcar y con vitamina C. Baja en calorías y en carbohidratos
 - Alérgenos: sin gluten, sin lactosa, sin huevo, sin frutos secos
+- Bebida instantánea en polvo sin azúcar y con vitamina C. Baja en calorías y en carbohidratos
 - Sin conservantes artificiales. Saborizantes y colorantes de origen natural
+- Disolver cada sobre en 1.5 L de agua
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B014VV2AXS/?tag=tolees-21)
