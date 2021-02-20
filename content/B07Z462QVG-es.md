@@ -28,10 +28,10 @@ Ahora mismo tienes [Knorr - Thai Curry 69 gr](https://www.amazon.es/dp/B07Z462QV
 
 🔎:
 
-- Deliciosa sopa de thai lista en 5 minutos.
 - Cena equilibrada y deliciosa lista en 5 minutos.
-- Sin glutamato
-- Knorr thai curry 69g.
 - Sin conservantes
+- Knorr thai curry 69g.
+- Sin glutamato
+- Deliciosa sopa de thai lista en 5 minutos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Z462QVG/?tag=tolees-21)
