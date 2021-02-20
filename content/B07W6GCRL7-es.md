@@ -29,9 +29,9 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Select Té helado de mango y piñ
 🔎:
 
 - Sin colorantes ni conservantes artificiales
-- Paquete de 12 botellas de 500 ml
-- Apto para vegetarianos y veganos
-- Elaborado con té recién hecho para un sabor más intenso
 - Con té cultivado por agricultores con certificado UTZ
+- Apto para vegetarianos y veganos
+- Paquete de 12 botellas de 500 ml
+- Elaborado con té recién hecho para un sabor más intenso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W6GCRL7/?tag=tolees-21)

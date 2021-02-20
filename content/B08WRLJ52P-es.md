@@ -31,7 +31,7 @@ Ahora mismo tienes [IMPERIAL COAST - Caja regalo de bombones y chocolates - Nute
 - 🍫 NUTELLA 200gr: La mejor crema de cacao y avellana del mundo, ¡No hay otra igual!
 - 🍫 SNICKERS (3 unidades): Barritas de chocolate con crujientes cacahuetes.
 - 🍫 KIT KAT ( 5 unidades chocolate negro): Tomate un respiro 😋
-- 🍫 HAPPY HIPPO (Caja 5 unidades): la galleta divertida y con forma de hipopótamo ideal para los más pequeños. Escoge entre la dos variedades que rellenan su barquillo: leche y avellanas o leche y cacao.
 - 🍫 MILKA CHOCOLATE BLANCO: Suave y delicioso chocolate blanco con toda la ternura de Milka.
+- 🍫 HAPPY HIPPO (Caja 5 unidades): la galleta divertida y con forma de hipopótamo ideal para los más pequeños. Escoge entre la dos variedades que rellenan su barquillo: leche y avellanas o leche y cacao.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08WRLJ52P/?tag=tolees-21)
