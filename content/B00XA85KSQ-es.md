@@ -28,9 +28,9 @@ Tienes [Puleva Omega 3 Leche con Omega 3 y Nueces 1L](https://www.amazon.es/dp/B
 
 ℹ️:
 
+- 2 vaso te aporta el 50% de la CDR de Omega 3
 - Los ácidos grasos Omega 3 ayudan a tener un corazón sano
 - Regula el colesterol
-- 2 vaso te aporta el 50% de la CDR de Omega 3
 - Puleva Omega 3 de siempre con Nueces. Haz que tus desayunos sean más sabrosos
 - Único lácteo con Omega 3, que incorpora ácido oleico
 
