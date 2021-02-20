@@ -28,10 +28,10 @@ Ahora mismo tienes [Bolero Bebida Instantánea sin Azúcar  Sabor Grosellas - Pa
 
 🔎:
 
-- Bebida instantánea en polvo sin azúcar y con vitamina C. Baja en calorías y en carbohidratos
-- Disolver cada sobre en 1.5 L de agua
-- Alérgenos: sin gluten, sin lactosa, sin huevo, sin frutos secos
-- Sin conservantes artificiales. Saborizantes y colorantes de origen natural
 - Edulcorado con Stevia
+- Disolver cada sobre en 1.5 L de agua
+- Bebida instantánea en polvo sin azúcar y con vitamina C. Baja en calorías y en carbohidratos
+- Sin conservantes artificiales. Saborizantes y colorantes de origen natural
+- Alérgenos: sin gluten, sin lactosa, sin huevo, sin frutos secos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00LSS12UU/?tag=tolees-21)
