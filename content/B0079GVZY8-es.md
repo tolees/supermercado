@@ -28,10 +28,10 @@ En este momento está [Villeroy & Boch NewWave Juego de café expreso  3 pz  Por
 
 🔎:
 
-- Moderno set para espresso con taza, plato y práctica cuchara para degustar el verdadero café italiano con estilo
 - Plato con espacio para una pasta pequeña, Cuchara de acero inoxidable con curvatura para el borde de la taza, Mango NewWave que se adapta óptimamente a la mano
-- Contenido: 1x Villeroy & Boch NewWave Set para Espresso: Taza con plato, Material: Porcelana Premium, Incluye 1 cuchara de café, Acero inoxidable
 - Forma manejable, bordes resistentes a los golpes, dureza excepcional y resistencia a los arañazos hacen que la taza sea adecuado para la vida diaria y la restauración
+- Contenido: 1x Villeroy & Boch NewWave Set para Espresso: Taza con plato, Material: Porcelana Premium, Incluye 1 cuchara de café, Acero inoxidable
+- Moderno set para espresso con taza, plato y práctica cuchara para degustar el verdadero café italiano con estilo
 - Apta para lavavajillas y microondas, alta calidad: Porcelana Premium Made in Germany, Acero inoxidable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0079GVZY8/?tag=tolees-21)
