@@ -28,8 +28,8 @@ Ahora mismo tienes [Mom Rocks Ginebra Premium - 700 ml](https://www.amazon.es/dp
 
 🔎:
 
-- Ginebra muy fragante en la que destacan, entre otras cosas, notas aromáticas de enebro y coriandro
 - Recomendamos servir como Gin & Tonic en copa de balón muy fría, con twist de lima y un toque de pimienta negra
+- Ginebra muy fragante en la que destacan, entre otras cosas, notas aromáticas de enebro y coriandro
 - El Cítrico aromatica la copa, un buen preludio para disfrutar de una ginebra a la vez clásica y atrevida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082VSRFXC/?tag=tolees-21)

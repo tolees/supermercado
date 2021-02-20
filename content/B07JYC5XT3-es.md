@@ -28,11 +28,11 @@ En este momento está [Chupa Chups Original  Caramelo con Palo de Sabores Variad
 
 🔎:
 
-- Con más de 60 años a las espaldas, Chupa Chups es el caramelo favorito de todas las generaciones. Y siempre con los ingredientes de la mejor calidad. ¡Simplemente imprescindibles!
 - Descubre más sobre este y otros productos de Chupa Chups más abajo.
 - En Chupa Chups pensamos en ti. Trabajamos cada día para ofrecerte caramelos y golosinas más saludables. ¡Que nada te quite la oportunidad de divertirte! Este producto es SIN GLUTEN.
 - Bolsa de caramelos con palo Chupa Chups de sabores surtidos: fresa, naranja, cereza, frambuesa, cola, fresa-nata y vainilla. El producto contiene 120x12 gr. de caramelos con palo.
 - Ideal para cualquier ocasión y evento: en clase, en el parque, en la oficina, en casa, en fiestas y entre horas. Para compartir, regalar y disfrutar solo o en compañía.
+- Con más de 60 años a las espaldas, Chupa Chups es el caramelo favorito de todas las generaciones. Y siempre con los ingredientes de la mejor calidad. ¡Simplemente imprescindibles!
 - Nuestro caramelo con palo Chupa Chups es práctico e higiénico. Lo puedes llevar en el bolsillo, en la mochila, en el bolso. ¡Diviértete y disfrútalo!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JYC5XT3/?tag=tolees-21)
