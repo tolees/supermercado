@@ -29,9 +29,9 @@ Tienes [Ufesa Molinillo de Café MC0470  cuchilla y recipiente en Inox](https://
 ℹ️:
 
 - Cuchilla y recipiente de inox
-- Tapa transparente y cable extraíble
-- Cuerpo en acero inoxidable
-- Micro interruptor presione la tapa para poner en marcha el molinillo
 - Potencía de 200w con capacidad de café de 70g
+- Micro interruptor presione la tapa para poner en marcha el molinillo
+- Cuerpo en acero inoxidable
+- Tapa transparente y cable extraíble
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000O30SBO/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Heineken Cerveza Barril - Paquete de 2 x 5L](https://www.ama
 
 🔎:
 
+- Cerveza tipo y estilo lager, con 5% de alcohol en volumen
+- Reposa en tanques horizontales durante 28 días para proporcionar la presión a la levadura
 - Consumirla entre 0° y 3°C para obtener sus cualidades
 - Ingredientes naturales: agua, malta de cebada, lúpulo y la levadura tipo a de heineken
 - De color amarillo brillante y espuma blanca intensa, con aroma frutal, con ligero sabor dulce y amargor suave
-- Cerveza tipo y estilo lager, con 5% de alcohol en volumen
-- Reposa en tanques horizontales durante 28 días para proporcionar la presión a la levadura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00OM57YSK/?tag=tolees-21)
