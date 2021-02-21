@@ -28,8 +28,8 @@ Ahora mismo tienes [DR. OETKER preparado para mousse sabor chocolate caja 73 gr]
 
 🔎:
 
-- Preparación muy rápida
 - solo batir con leche y dejar enfriar en la nevera
 - Intenso sabor a chocolate
+- Preparación muy rápida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ND1L2TS/?tag=tolees-21)
