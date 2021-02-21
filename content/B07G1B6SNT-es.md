@@ -29,9 +29,9 @@ Está [PSH Perfume Melocotón - 80 ml](https://www.amazon.es/dp/B07G1B6SNT/?tag=
 ℹ️:
 
 - Perfume natural con suave olor a Melocotón.
+- Notas frescas y frutales tanto para machos como para hembras.
 - Libre de Siliconas y Parabenos.
 - No irrita ni reseca.
-- Notas frescas y frutales tanto para machos como para hembras.
 - 100% Natural y Vegano.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07G1B6SNT/?tag=tolees-21)
