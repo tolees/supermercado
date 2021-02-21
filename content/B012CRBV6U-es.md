@@ -28,10 +28,10 @@ Está [Kaps Acondicionador de zapatos para nobuck y ante  con aplicador de espon
 
 ℹ️:
 
-- ACONDICIONA: Hace que el nobuck y el ante sean flexibles, nutre la superficie y restaure su estructura.
 - CUIDADO DE CALIDAD: Revive y acondiciona calzado, guantes, bolsos y otros accesorios hechos de nobuck y ante
-- RESTAURACIÓN DEL COLOR: recupera el color, lo revive para que no se vea descolorido.
 - BOTE CON APLICADOR: Viene en un práctico bote de 75 ml con aplicador de esponja unido a la parte superior. Consulta la descripción del producto para saber cómo usarla.
+- RESTAURACIÓN DEL COLOR: recupera el color, lo revive para que no se vea descolorido.
+- ACONDICIONA: Hace que el nobuck y el ante sean flexibles, nutre la superficie y restaure su estructura.
 - ELIGE TU COLOR: hay varios colores disponibles. Elige el que te ofrezca la mejor combinación. El transparente va bien para todos los colores.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B012CRBV6U/?tag=tolees-21)
