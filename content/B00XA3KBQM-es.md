@@ -2,7 +2,7 @@
 layout: post
 title: 'La Fallera - Arroz Extra - 5 kg con un 0.00 % de descuento'
 date: 2020-01-03 09:57:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51zUnyW6sTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zUnyW6sTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.935'
 
 En este momento está [La Fallera - Arroz Extra - 5 kg](https://www.amazon.es/dp/B00XA3KBQM/?tag=tolees-21) a 4.1 EUR (original: 4.1 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![La Fallera - Arroz Extra - 5 kg](https://images-eu.ssl-images-amazon.com/images/I/51zUnyW6sTL._SL200_.jpg)](https://www.amazon.es/dp/B00XA3KBQM/?tag=tolees-21)
+[![La Fallera - Arroz Extra - 5 kg](https://images-eu.ssl-images-amazon.com/images/I/51zUnyW6sTL._SL400_.jpg)](https://www.amazon.es/dp/B00XA3KBQM/?tag=tolees-21)
 
 🔎:
 

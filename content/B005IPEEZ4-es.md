@@ -2,7 +2,7 @@
 layout: post
 title: 'Dr. Schar - Pan payés de trigo sarraceno al 18.54 % de rebaja'
 date: 2020-05-30 06:35:50
-image: 'https://m.media-amazon.com/images/I/51zRXIPdq+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zRXIPdq+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.9'
 
 Tienes [Dr. Schar - Pan payés de trigo sarraceno SIN GLUTEN  - 240 gr](https://www.amazon.es/dp/B005IPEEZ4/?tag=tolees-21) con precio final de  2.9 EUR (original: 3.56 EUR) (18.54 %  de rebaja) aqui!
 
-[![Dr. Schar - Pan payés de trigo sarraceno](https://m.media-amazon.com/images/I/51zRXIPdq+L._SL200_.jpg)](https://www.amazon.es/dp/B005IPEEZ4/?tag=tolees-21)
+[![Dr. Schar - Pan payés de trigo sarraceno](https://m.media-amazon.com/images/I/51zRXIPdq+L._SL400_.jpg)](https://www.amazon.es/dp/B005IPEEZ4/?tag=tolees-21)
 
 🔎:
 

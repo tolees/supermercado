@@ -2,7 +2,7 @@
 layout: post
 title: 'Relaxdays Dispensador Jabón Cuadrado  Ba al 17.36 % de rebaja'
 date: 2020-10-06 14:40:56
-image: 'https://m.media-amazon.com/images/I/312l96upslL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312l96upslL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.04'
 
 Tienes [Relaxdays Dispensador Jabón Cuadrado  Bambú  Marrón  18 x 6 5 x 8 cm](https://www.amazon.es/dp/B01N5JW9KZ/?tag=tolees-21) con precio final de  14.04 EUR (original: 16.99 EUR) (17.36 %  de rebaja) aqui!
 
-[![Relaxdays Dispensador Jabón Cuadrado  Ba](https://m.media-amazon.com/images/I/312l96upslL._SL200_.jpg)](https://www.amazon.es/dp/B01N5JW9KZ/?tag=tolees-21)
+[![Relaxdays Dispensador Jabón Cuadrado  Ba](https://m.media-amazon.com/images/I/312l96upslL._SL400_.jpg)](https://www.amazon.es/dp/B01N5JW9KZ/?tag=tolees-21)
 
 🔎:
 

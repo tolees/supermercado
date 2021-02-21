@@ -2,7 +2,7 @@
 layout: post
 title: 'Gillette Fusion ProGlide Cuchillas de Re al 21.47 % de descuento'
 date: 2020-02-26 10:04:41
-image: 'https://m.media-amazon.com/images/I/51sVnyluhyL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sVnyluhyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.025'
 
 Ahora mismo tienes [Gillette Fusion ProGlide Cuchillas de Recambio para Maquinilla de Afeitar - 4 Unidades](https://www.amazon.es/dp/B004ASORA2/?tag=tolees-21) a 13.97 EUR (original: 17.79 EUR) (21.47 %  de descuento) en el siguiente enlace!
 
-[![Gillette Fusion ProGlide Cuchillas de Re](https://m.media-amazon.com/images/I/51sVnyluhyL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B004ASORA2/?tag=tolees-21)
+[![Gillette Fusion ProGlide Cuchillas de Re](https://m.media-amazon.com/images/I/51sVnyluhyL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B004ASORA2/?tag=tolees-21)
 
 🔎:
 

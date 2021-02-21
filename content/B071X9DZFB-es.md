@@ -2,7 +2,7 @@
 layout: post
 title: 'Schwarzkopf Root Retoucher -  Coloración al 0.00 % de rebaja'
 date: 2020-01-16 20:11:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XR9UFUCnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XR9UFUCnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.97'
 
 Tienes [Schwarzkopf Root Retoucher -  Coloración del Cabello Castaño Oscuro  pack de 3 ](https://www.amazon.es/dp/B071X9DZFB/?tag=tolees-21) con precio final de  11.97 EUR (original: 11.97 EUR) (0.00 %  de rebaja) aqui!
 
-[![Schwarzkopf Root Retoucher -  Coloración](https://images-eu.ssl-images-amazon.com/images/I/41XR9UFUCnL._SL200_.jpg)](https://www.amazon.es/dp/B071X9DZFB/?tag=tolees-21)
+[![Schwarzkopf Root Retoucher -  Coloración](https://images-eu.ssl-images-amazon.com/images/I/41XR9UFUCnL._SL400_.jpg)](https://www.amazon.es/dp/B071X9DZFB/?tag=tolees-21)
 
 🔎:
 

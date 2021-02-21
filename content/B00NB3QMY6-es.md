@@ -2,7 +2,7 @@
 layout: post
 title: 'Silicium España Laboratorios Rosa Mosque al 13.65 % de descuento'
 date: 2020-02-24 20:43:46
-image: 'https://m.media-amazon.com/images/I/31gwToDvydL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gwToDvydL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.22'
 
 Está [Silicium España Laboratorios Rosa Mosqueta Crema Hidratante  Antiarrugas y Antiedad - 50 ml](https://www.amazon.es/dp/B00NB3QMY6/?tag=tolees-21) con 13.65 de descuento por 29.22 EUR (original: 33.84 EUR) en el siguiente enlace!
 
-[![Silicium España Laboratorios Rosa Mosque](https://m.media-amazon.com/images/I/31gwToDvydL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00NB3QMY6/?tag=tolees-21)
+[![Silicium España Laboratorios Rosa Mosque](https://m.media-amazon.com/images/I/31gwToDvydL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00NB3QMY6/?tag=tolees-21)
 
 ℹ️:
 

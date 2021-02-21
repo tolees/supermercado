@@ -2,7 +2,7 @@
 layout: post
 title: 'SYOSS - Acondicionador Salon Plex - Trat al 21.33 % de descuento'
 date: 2020-06-30 14:04:25
-image: 'https://m.media-amazon.com/images/I/311PWt6KQuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311PWt6KQuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.85'
 
 Ahora mismo tienes [SYOSS - Acondicionador Salon Plex - Tratamiento de Reparación Intenso - 3uds de 500ml](https://www.amazon.es/dp/B07NRJ2JNM/?tag=tolees-21) a 8.85 EUR (original: 11.25 EUR) (21.33 %  de descuento) en el siguiente enlace!
 
-[![SYOSS - Acondicionador Salon Plex - Trat](https://m.media-amazon.com/images/I/311PWt6KQuL._SL200_.jpg)](https://www.amazon.es/dp/B07NRJ2JNM/?tag=tolees-21)
+[![SYOSS - Acondicionador Salon Plex - Trat](https://m.media-amazon.com/images/I/311PWt6KQuL._SL400_.jpg)](https://www.amazon.es/dp/B07NRJ2JNM/?tag=tolees-21)
 
 🔎:
 

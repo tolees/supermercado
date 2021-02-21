@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 0.00 % en Muñeco blanco - Corazón de Marsella  Det'
 date: 2020-01-21 14:13:30
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xnt6cxCNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xnt6cxCNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.882'
 
 Tienes [Muñeco blanco - Corazón de Marsella  Detergente delicada para ropa - 3 unidades de 1 L [3 L]](https://www.amazon.es/dp/B01L25EZFC/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 10.88 EUR (original: 10.88 EUR) en el siguiente enlace!
 
-[![Muñeco blanco - Corazón de Marsella  Det](https://images-eu.ssl-images-amazon.com/images/I/41Xnt6cxCNL._SL200_.jpg)](https://www.amazon.es/dp/B01L25EZFC/?tag=tolees-21)
+[![Muñeco blanco - Corazón de Marsella  Det](https://images-eu.ssl-images-amazon.com/images/I/41Xnt6cxCNL._SL400_.jpg)](https://www.amazon.es/dp/B01L25EZFC/?tag=tolees-21)
 
 ℹ️:
 

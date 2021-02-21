@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 0.00 % en Original Sprout Sulfato Champú Natural 9'
 date: 2020-01-03 19:35:59
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41St7029s9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41St7029s9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.74'
 
 Tienes [Original Sprout Sulfato Champú Natural 975ml](https://www.amazon.es/dp/B002SVAJK0/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 28.74 EUR (original: 28.74 EUR) en el siguiente enlace!
 
-[![Original Sprout Sulfato Champú Natural 9](https://images-eu.ssl-images-amazon.com/images/I/41St7029s9L._SL200_.jpg)](https://www.amazon.es/dp/B002SVAJK0/?tag=tolees-21)
+[![Original Sprout Sulfato Champú Natural 9](https://images-eu.ssl-images-amazon.com/images/I/41St7029s9L._SL400_.jpg)](https://www.amazon.es/dp/B002SVAJK0/?tag=tolees-21)
 
 ℹ️:
 

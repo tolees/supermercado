@@ -2,7 +2,7 @@
 layout: post
 title: 'Forticoll Colágeno Péptidos bioactivos e con un 5.50 % de descuento'
 date: 2020-10-12 15:16:16
-image: 'https://m.media-amazon.com/images/I/41GU7tLxzZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GU7tLxzZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.156666666666665'
 
 En este momento está [Forticoll Colágeno Péptidos bioactivos en polvo sin gluten o lactosa  sabor Original  300 gr](https://www.amazon.es/dp/B00UMZH4J8/?tag=tolees-21) a 12.55 EUR (original: 13.28 EUR) (5.50 %  de descuento) en el siguiente enlace!
 
-[![Forticoll Colágeno Péptidos bioactivos e](https://m.media-amazon.com/images/I/41GU7tLxzZL._SL200_.jpg)](https://www.amazon.es/dp/B00UMZH4J8/?tag=tolees-21)
+[![Forticoll Colágeno Péptidos bioactivos e](https://m.media-amazon.com/images/I/41GU7tLxzZL._SL400_.jpg)](https://www.amazon.es/dp/B00UMZH4J8/?tag=tolees-21)
 
 🔎:
 

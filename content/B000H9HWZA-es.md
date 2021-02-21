@@ -2,7 +2,7 @@
 layout: post
 title: 'Korres Champú Anticaspa al 22.44 % de rebaja'
 date: 2020-03-19 13:39:54
-image: 'https://m.media-amazon.com/images/I/41awBYUj51L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41awBYUj51L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.965'
 
 Tienes [Korres Champú Anticaspa](https://www.amazon.es/dp/B000H9HWZA/?tag=tolees-21) con precio final de  7.95 EUR (original: 10.25 EUR) (22.44 %  de rebaja) aqui!
 
-[![Korres Champú Anticaspa](https://m.media-amazon.com/images/I/41awBYUj51L._SL200_.jpg)](https://www.amazon.es/dp/B000H9HWZA/?tag=tolees-21)
+[![Korres Champú Anticaspa](https://m.media-amazon.com/images/I/41awBYUj51L._SL400_.jpg)](https://www.amazon.es/dp/B000H9HWZA/?tag=tolees-21)
 
 🔎:
 

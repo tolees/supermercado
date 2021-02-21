@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Double Extension Máscara de Pest al 0.00 % de rebaja'
 date: 2020-01-11 18:55:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Urt4wqjJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Urt4wqjJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.19'
 
 Tienes [L Oréal Double Extension Máscara de Pestañas Color Extra Black - 12 ml](https://www.amazon.es/dp/B003VRWN9A/?tag=tolees-21) con precio final de  9.19 EUR (original: 9.19 EUR) (0.00 %  de rebaja) aqui!
 
-[![L Oréal Double Extension Máscara de Pest](https://images-eu.ssl-images-amazon.com/images/I/31Urt4wqjJL._SL200_.jpg)](https://www.amazon.es/dp/B003VRWN9A/?tag=tolees-21)
+[![L Oréal Double Extension Máscara de Pest](https://images-eu.ssl-images-amazon.com/images/I/31Urt4wqjJL._SL400_.jpg)](https://www.amazon.es/dp/B003VRWN9A/?tag=tolees-21)
 
 🔎:
 

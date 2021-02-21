@@ -2,7 +2,7 @@
 layout: post
 title: 'Santa Rita Harina para Croquetas y Becha al 22.80 % de descuento'
 date: 2020-07-03 11:40:24
-image: 'https://m.media-amazon.com/images/I/51XwNW6-UaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XwNW6-UaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.04'
 
 Está [Santa Rita Harina para Croquetas y Bechamel - 430 gr](https://www.amazon.es/dp/B00A3EXGX6/?tag=tolees-21) con 22.80 de descuento por 1.93 EUR (original: 2.5 EUR) en el siguiente enlace!
 
-[![Santa Rita Harina para Croquetas y Becha](https://m.media-amazon.com/images/I/51XwNW6-UaL._SL200_.jpg)](https://www.amazon.es/dp/B00A3EXGX6/?tag=tolees-21)
+[![Santa Rita Harina para Croquetas y Becha](https://m.media-amazon.com/images/I/51XwNW6-UaL._SL400_.jpg)](https://www.amazon.es/dp/B00A3EXGX6/?tag=tolees-21)
 
 ℹ️:
 

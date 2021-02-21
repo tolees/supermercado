@@ -2,7 +2,7 @@
 layout: post
 title: 'Consuelo - cápsulas de café compatibles  al 0.00 % de descuento'
 date: 2020-05-05 16:48:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Y5HhAuYZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Y5HhAuYZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.49'
 
 Ahora mismo tienes [Consuelo - cápsulas de café compatibles con Nespresso* - Supremo  50 cápsulas](https://www.amazon.es/dp/B07L54L7ZD/?tag=tolees-21) a 9.49 EUR (original: 9.49 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Consuelo - cápsulas de café compatibles ](https://images-eu.ssl-images-amazon.com/images/I/51Y5HhAuYZL._SL200_.jpg)](https://www.amazon.es/dp/B07L54L7ZD/?tag=tolees-21)
+[![Consuelo - cápsulas de café compatibles ](https://images-eu.ssl-images-amazon.com/images/I/51Y5HhAuYZL._SL400_.jpg)](https://www.amazon.es/dp/B07L54L7ZD/?tag=tolees-21)
 
 🔎:
 

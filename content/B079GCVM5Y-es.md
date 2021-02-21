@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 8.03 % en Lavazza  Cápsulas de café Leggero - 10 C'
 date: 2020-06-12 14:40:36
-image: 'https://m.media-amazon.com/images/I/41XbLIqFKwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XbLIqFKwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.75'
 
 Tienes [Lavazza  Cápsulas de café Leggero - 10 Cápsulas](https://www.amazon.es/dp/B079GCVM5Y/?tag=tolees-21) con un 8.03 % de descuento con precio de oferta de 2.75 EUR (original: 2.99 EUR) en el siguiente enlace!
 
-[![Lavazza  Cápsulas de café Leggero - 10 C](https://m.media-amazon.com/images/I/41XbLIqFKwL._SL200_.jpg)](https://www.amazon.es/dp/B079GCVM5Y/?tag=tolees-21)
+[![Lavazza  Cápsulas de café Leggero - 10 C](https://m.media-amazon.com/images/I/41XbLIqFKwL._SL400_.jpg)](https://www.amazon.es/dp/B079GCVM5Y/?tag=tolees-21)
 
 ℹ️:
 

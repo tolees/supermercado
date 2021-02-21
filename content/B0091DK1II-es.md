@@ -2,7 +2,7 @@
 layout: post
 title: 'Brandy Solera Reserva Jerez Carlos III O al 6.84 % de descuento'
 date: 2020-10-03 07:10:18
-image: 'https://m.media-amazon.com/images/I/31TdqAPTchL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31TdqAPTchL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.366666666666667'
 
 Está [Brandy Solera Reserva Jerez Carlos III Osborne 36º - 1 botella de 70 cl](https://www.amazon.es/dp/B0091DK1II/?tag=tolees-21) con 6.84 de descuento por 10.48 EUR (original: 11.25 EUR) en el siguiente enlace!
 
-[![Brandy Solera Reserva Jerez Carlos III O](https://m.media-amazon.com/images/I/31TdqAPTchL._SL200_.jpg)](https://www.amazon.es/dp/B0091DK1II/?tag=tolees-21)
+[![Brandy Solera Reserva Jerez Carlos III O](https://m.media-amazon.com/images/I/31TdqAPTchL._SL400_.jpg)](https://www.amazon.es/dp/B0091DK1II/?tag=tolees-21)
 
 ℹ️:
 

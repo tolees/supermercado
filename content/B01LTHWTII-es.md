@@ -2,7 +2,7 @@
 layout: post
 title: 'Scottex - Pañuelos Suaves y Resistentes  al 0.00 % de descuento'
 date: 2020-01-23 14:38:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/412tHRJ81qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412tHRJ81qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.81'
 
 Está [Scottex - Pañuelos Suaves y Resistentes  4 Capas  6 Paquetes de 10 Unidades](https://www.amazon.es/dp/B01LTHWTII/?tag=tolees-21) con 0.00 de descuento por 8.81 EUR (original: 8.81 EUR) en el siguiente enlace!
 
-[![Scottex - Pañuelos Suaves y Resistentes ](https://images-eu.ssl-images-amazon.com/images/I/412tHRJ81qL._SL200_.jpg)](https://www.amazon.es/dp/B01LTHWTII/?tag=tolees-21)
+[![Scottex - Pañuelos Suaves y Resistentes ](https://images-eu.ssl-images-amazon.com/images/I/412tHRJ81qL._SL400_.jpg)](https://www.amazon.es/dp/B01LTHWTII/?tag=tolees-21)
 
 ℹ️:
 

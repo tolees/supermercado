@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 5.01 % en GLUTEN FREE: JAMÁS TE SERÁ MÁS FÁCIL COC'
 date: 2020-03-21 09:57:40
-image: 'https://m.media-amazon.com/images/I/51QW5Qtj4lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QW5Qtj4lL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.89'
 
 Tienes [GLUTEN FREE: JAMÁS TE SERÁ MÁS FÁCIL COCINAR Y COMER SIN GLUTEN](https://www.amazon.es/dp/B085HQFJMS/?tag=tolees-21) con un 5.01 % de descuento con precio de oferta de 16.89 EUR (original: 17.78 EUR) en el siguiente enlace!
 
-[![GLUTEN FREE: JAMÁS TE SERÁ MÁS FÁCIL COC](https://m.media-amazon.com/images/I/51QW5Qtj4lL._SL200_.jpg)](https://www.amazon.es/dp/B085HQFJMS/?tag=tolees-21)
+[![GLUTEN FREE: JAMÁS TE SERÁ MÁS FÁCIL COC](https://m.media-amazon.com/images/I/51QW5Qtj4lL._SL400_.jpg)](https://www.amazon.es/dp/B085HQFJMS/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'OGX Acondicionador Aceite de Argán Extra al 14.96 % de rebaja'
 date: 2020-06-08 14:22:15
-image: 'https://m.media-amazon.com/images/I/41TPIaVY36L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TPIaVY36L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.56'
 
 Tienes [OGX Acondicionador Aceite de Argán Extra Fuerte  Hidrata y Fortalece - 385 ml](https://www.amazon.es/dp/B06XK7BXQ9/?tag=tolees-21) con precio final de  7.56 EUR (original: 8.89 EUR) (14.96 %  de rebaja) aqui!
 
-[![OGX Acondicionador Aceite de Argán Extra](https://m.media-amazon.com/images/I/41TPIaVY36L._SL200_.jpg)](https://www.amazon.es/dp/B06XK7BXQ9/?tag=tolees-21)
+[![OGX Acondicionador Aceite de Argán Extra](https://m.media-amazon.com/images/I/41TPIaVY36L._SL400_.jpg)](https://www.amazon.es/dp/B06XK7BXQ9/?tag=tolees-21)
 
 🔎:
 

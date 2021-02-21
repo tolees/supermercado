@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - Happy Belly  Avellanas to con un 15.41 % de descuento'
 date: 2020-01-01 20:27:13
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41RSrGRj4qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RSrGRj4qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.91'
 
 En este momento está [Marca Amazon - Happy Belly  Avellanas tostadas sin sal añadida  4x500g](https://www.amazon.es/dp/B07R98QGGT/?tag=tolees-21) a 16.91 EUR (original: 19.99 EUR) (15.41 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - Happy Belly  Avellanas to](https://images-eu.ssl-images-amazon.com/images/I/41RSrGRj4qL._SL200_.jpg)](https://www.amazon.es/dp/B07R98QGGT/?tag=tolees-21)
+[![Marca Amazon - Happy Belly  Avellanas to](https://images-eu.ssl-images-amazon.com/images/I/41RSrGRj4qL._SL400_.jpg)](https://www.amazon.es/dp/B07R98QGGT/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Vermouth La Copa Extra Seco  - 3 botella al 7.95 % de descuento'
 date: 2020-01-02 14:48:53
-image: 'None._SL200_'
+image: 'None._SL400_'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.324999999999996'
 
 Ahora mismo tienes [Vermouth La Copa Extra Seco  - 3 botellas x 750 ml - Total: 2250 ml](https://www.amazon.es/dp/B07PNCBPVF/?tag=tolees-21) a 34.41 EUR (original: 37.38 EUR) (7.95 %  de descuento) en el siguiente enlace!
 
-[![Vermouth La Copa Extra Seco  - 3 botella](None._SL200_)](https://www.amazon.es/dp/B07PNCBPVF/?tag=tolees-21)
+[![Vermouth La Copa Extra Seco  - 3 botella](None._SL400_)](https://www.amazon.es/dp/B07PNCBPVF/?tag=tolees-21)
 
 🔎:
 

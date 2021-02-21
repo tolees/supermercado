@@ -2,7 +2,7 @@
 layout: post
 title: 'Disfraz de Foxy de Five Nights at Freddy al 6.76 % de rebaja'
 date: 2020-09-03 07:48:54
-image: 'https://m.media-amazon.com/images/I/41lALhJHK-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lALhJHK-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.986666666666668'
 
 Tienes [Disfraz de Foxy de Five Nights at Freddy s](https://www.amazon.es/dp/B01BF4LROW/?tag=tolees-21) con precio final de  25.65 EUR (original: 27.51 EUR) (6.76 %  de rebaja) aqui!
 
-[![Disfraz de Foxy de Five Nights at Freddy](https://m.media-amazon.com/images/I/41lALhJHK-L._SL200_.jpg)](https://www.amazon.es/dp/B01BF4LROW/?tag=tolees-21)
+[![Disfraz de Foxy de Five Nights at Freddy](https://m.media-amazon.com/images/I/41lALhJHK-L._SL400_.jpg)](https://www.amazon.es/dp/B01BF4LROW/?tag=tolees-21)
 
 🔎:
 

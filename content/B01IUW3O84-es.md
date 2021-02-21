@@ -2,7 +2,7 @@
 layout: post
 title: 'Lay s - Patatas Fritas al punto de sal 1 al 4.69 % de rebaja'
 date: 2020-09-11 14:59:20
-image: 'https://m.media-amazon.com/images/I/518VdtqDx2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518VdtqDx2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.1800000000000002'
 
 Tienes [Lay s - Patatas Fritas al punto de sal 170 gr](https://www.amazon.es/dp/B01IUW3O84/?tag=tolees-21) con precio final de  1.22 EUR (original: 1.28 EUR) (4.69 %  de rebaja) aqui!
 
-[![Lay s - Patatas Fritas al punto de sal 1](https://m.media-amazon.com/images/I/518VdtqDx2L._SL200_.jpg)](https://www.amazon.es/dp/B01IUW3O84/?tag=tolees-21)
+[![Lay s - Patatas Fritas al punto de sal 1](https://m.media-amazon.com/images/I/518VdtqDx2L._SL400_.jpg)](https://www.amazon.es/dp/B01IUW3O84/?tag=tolees-21)
 
 🔎:
 

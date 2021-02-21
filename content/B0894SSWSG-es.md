@@ -2,7 +2,7 @@
 layout: post
 title: 'SLANWIN Dispensador de Jabón Automático  al 12.40 % de rebaja'
 date: 2020-07-23 21:36:10
-image: 'https://m.media-amazon.com/images/I/41c52aEUT9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41c52aEUT9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.94'
 
 Tienes [SLANWIN Dispensador de Jabón Automático  300ml Ipx4 Dispensador de Jabón Eléctrico con Sensor de Infrarrojos  Dispensador de Jabón sin Contacto para Baño y Cocina](https://www.amazon.es/dp/B0894SSWSG/?tag=tolees-21) con precio final de  21.89 EUR (original: 24.99 EUR) (12.40 %  de rebaja) aqui!
 
-[![SLANWIN Dispensador de Jabón Automático ](https://m.media-amazon.com/images/I/41c52aEUT9L._SL200_.jpg)](https://www.amazon.es/dp/B0894SSWSG/?tag=tolees-21)
+[![SLANWIN Dispensador de Jabón Automático ](https://m.media-amazon.com/images/I/41c52aEUT9L._SL400_.jpg)](https://www.amazon.es/dp/B0894SSWSG/?tag=tolees-21)
 
 🔎:
 

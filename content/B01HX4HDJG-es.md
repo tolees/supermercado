@@ -2,7 +2,7 @@
 layout: post
 title: 'OREWORK 386770 Molino Maíz eléctrico al 0.00 % de rebaja'
 date: 2020-01-21 16:15:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41qgm9qk%2BqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qgm9qk%2BqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '146.16500000000002'
 
 Tienes [OREWORK 386770 Molino Maíz eléctrico](https://www.amazon.es/dp/B01HX4HDJG/?tag=tolees-21) con precio final de  141.93 EUR (original: 141.93 EUR) (0.00 %  de rebaja) aqui!
 
-[![OREWORK 386770 Molino Maíz eléctrico](https://images-eu.ssl-images-amazon.com/images/I/41qgm9qk%2BqL._SL200_.jpg)](https://www.amazon.es/dp/B01HX4HDJG/?tag=tolees-21)
+[![OREWORK 386770 Molino Maíz eléctrico](https://images-eu.ssl-images-amazon.com/images/I/41qgm9qk%2BqL._SL400_.jpg)](https://www.amazon.es/dp/B01HX4HDJG/?tag=tolees-21)
 
 🔎:
 

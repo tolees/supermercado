@@ -2,7 +2,7 @@
 layout: post
 title: 'VVVVANKER DIY Resina Helado Sundae Taza  al 0.00 % de descuento'
 date: 2020-01-06 13:03:10
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-wJajI7gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-wJajI7gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.69'
 
 Está [VVVVANKER DIY Resina Helado Sundae Taza de café Miniatura Mini Ornamentos Paisaje](https://www.amazon.es/dp/B07KR1KP76/?tag=tolees-21) con 0.00 de descuento por 1.69 EUR (original: 1.69 EUR) en el siguiente enlace!
 
-[![VVVVANKER DIY Resina Helado Sundae Taza ](https://images-eu.ssl-images-amazon.com/images/I/41-wJajI7gL._SL200_.jpg)](https://www.amazon.es/dp/B07KR1KP76/?tag=tolees-21)
+[![VVVVANKER DIY Resina Helado Sundae Taza ](https://images-eu.ssl-images-amazon.com/images/I/41-wJajI7gL._SL400_.jpg)](https://www.amazon.es/dp/B07KR1KP76/?tag=tolees-21)
 
 ℹ️:
 

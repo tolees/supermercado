@@ -2,7 +2,7 @@
 layout: post
 title: 'Cidacos Extra Alubias Enlatadas - 570 g al 13.04 % de descuento'
 date: 2020-06-08 16:46:54
-image: 'https://m.media-amazon.com/images/I/41G4eUBU-HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41G4eUBU-HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Ahora mismo tienes [Cidacos Extra Alubias Enlatadas - 570 g](https://www.amazon.es/dp/B06Y2B5XT2/?tag=tolees-21) a 1.0 EUR (original: 1.15 EUR) (13.04 %  de descuento) en el siguiente enlace!
 
-[![Cidacos Extra Alubias Enlatadas - 570 g](https://m.media-amazon.com/images/I/41G4eUBU-HL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2B5XT2/?tag=tolees-21)
+[![Cidacos Extra Alubias Enlatadas - 570 g](https://m.media-amazon.com/images/I/41G4eUBU-HL._SL400_.jpg)](https://www.amazon.es/dp/B06Y2B5XT2/?tag=tolees-21)
 
 🔎:
 

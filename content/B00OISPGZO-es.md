@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 10.05 % en Sangre de Toro Reserva  Vino Tinto - 3 b'
 date: 2020-04-05 17:44:18
-image: 'https://m.media-amazon.com/images/I/41Rg+FszesL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Rg+FszesL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.05'
 
 Tienes [Sangre de Toro Reserva  Vino Tinto - 3 botellas de 75 cl  Total: 2250 ml](https://www.amazon.es/dp/B00OISPGZO/?tag=tolees-21) con un 10.05 % de descuento con precio de oferta de 38.05 EUR (original: 42.3 EUR) en el siguiente enlace!
 
-[![Sangre de Toro Reserva  Vino Tinto - 3 b](https://m.media-amazon.com/images/I/41Rg+FszesL._SL200_.jpg)](https://www.amazon.es/dp/B00OISPGZO/?tag=tolees-21)
+[![Sangre de Toro Reserva  Vino Tinto - 3 b](https://m.media-amazon.com/images/I/41Rg+FszesL._SL400_.jpg)](https://www.amazon.es/dp/B00OISPGZO/?tag=tolees-21)
 
 ℹ️:
 

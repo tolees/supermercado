@@ -2,7 +2,7 @@
 layout: post
 title: 'Advance Adult Sterilized - Pienso para G con un 0.00 % de descuento'
 date: 2020-01-11 15:02:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41570LSojvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41570LSojvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 En este momento está [Advance Adult Sterilized - Pienso para Gatos Adultos esterilizados con Pavo y Cebada - 3 kg](https://www.amazon.es/dp/B007XPB8D8/?tag=tolees-21) a 17.99 EUR (original: 17.99 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Advance Adult Sterilized - Pienso para G](https://images-eu.ssl-images-amazon.com/images/I/41570LSojvL._SL200_.jpg)](https://www.amazon.es/dp/B007XPB8D8/?tag=tolees-21)
+[![Advance Adult Sterilized - Pienso para G](https://images-eu.ssl-images-amazon.com/images/I/41570LSojvL._SL400_.jpg)](https://www.amazon.es/dp/B007XPB8D8/?tag=tolees-21)
 
 🔎:
 

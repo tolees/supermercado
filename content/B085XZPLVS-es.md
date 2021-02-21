@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 13.05 % en Tesoky luz ultravioleta esterilizador UV'
 date: 2020-05-07 23:16:18
-image: 'https://m.media-amazon.com/images/I/516N+e5UPoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516N+e5UPoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.99'
 
 Tienes [Tesoky luz ultravioleta esterilizador UV de Teléfono Celular Caja de desinfectante  Smartphone Cargador inalámbrico con de Función de Aromaterapia para cepillo de dientes joyería chupete reloj](https://www.amazon.es/dp/B085XZPLVS/?tag=tolees-21) con un 13.05 % de descuento con precio de oferta de 39.99 EUR (original: 45.99 EUR) en el siguiente enlace!
 
-[![Tesoky luz ultravioleta esterilizador UV](https://m.media-amazon.com/images/I/516N+e5UPoL._SL200_.jpg)](https://www.amazon.es/dp/B085XZPLVS/?tag=tolees-21)
+[![Tesoky luz ultravioleta esterilizador UV](https://m.media-amazon.com/images/I/516N+e5UPoL._SL400_.jpg)](https://www.amazon.es/dp/B085XZPLVS/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Expert Pro Fiber Rectify Leave-I al 20.40 % de rebaja'
 date: 2020-03-26 09:43:19
-image: 'https://m.media-amazon.com/images/I/41-P930NbsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-P930NbsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.225'
 
 Tienes [L Oréal Expert Pro Fiber Rectify Leave-In-Rectify - Cuidado capilar  75 ml](https://www.amazon.es/dp/B014PETJJ4/?tag=tolees-21) con precio final de  9.95 EUR (original: 12.5 EUR) (20.40 %  de rebaja) aqui!
 
-[![L Oréal Expert Pro Fiber Rectify Leave-I](https://m.media-amazon.com/images/I/41-P930NbsL._SL200_.jpg)](https://www.amazon.es/dp/B014PETJJ4/?tag=tolees-21)
+[![L Oréal Expert Pro Fiber Rectify Leave-I](https://m.media-amazon.com/images/I/41-P930NbsL._SL400_.jpg)](https://www.amazon.es/dp/B014PETJJ4/?tag=tolees-21)
 
 🔎:
 

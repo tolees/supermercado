@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 20.03 % en Elizabeth Arden Flawless Start Base de M'
 date: 2020-08-20 09:18:46
-image: 'https://m.media-amazon.com/images/I/31ZbQ2yRozL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZbQ2yRozL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 Tienes [Elizabeth Arden Flawless Start Base de Maquillaje 30 ml](https://www.amazon.es/dp/B01AGYUM0W/?tag=tolees-21) con un 20.03 % de descuento con precio de oferta de 23.99 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![Elizabeth Arden Flawless Start Base de M](https://m.media-amazon.com/images/I/31ZbQ2yRozL._SL200_.jpg)](https://www.amazon.es/dp/B01AGYUM0W/?tag=tolees-21)
+[![Elizabeth Arden Flawless Start Base de M](https://m.media-amazon.com/images/I/31ZbQ2yRozL._SL400_.jpg)](https://www.amazon.es/dp/B01AGYUM0W/?tag=tolees-21)
 
 ℹ️:
 

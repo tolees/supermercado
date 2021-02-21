@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 21.52 % en Maybelline New York - Superstay Matte In'
 date: 2020-02-12 11:56:10
-image: 'https://m.media-amazon.com/images/I/41C7MOStXIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41C7MOStXIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.84'
 
 Tienes [Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Edición Limitada Ashley Longshore  Tono 120 Artist  Color Rosa](https://www.amazon.es/dp/B07PZ6RB5R/?tag=tolees-21) con un 21.52 % de descuento con precio de oferta de 7.84 EUR (original: 9.99 EUR) en el siguiente enlace!
 
-[![Maybelline New York - Superstay Matte In](https://m.media-amazon.com/images/I/41C7MOStXIL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07PZ6RB5R/?tag=tolees-21)
+[![Maybelline New York - Superstay Matte In](https://m.media-amazon.com/images/I/41C7MOStXIL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07PZ6RB5R/?tag=tolees-21)
 
 ℹ️:
 

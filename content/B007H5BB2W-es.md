@@ -2,7 +2,7 @@
 layout: post
 title: 'Ibili Bolsa para legumbres  nailon  37 x al 20.00 % de descuento'
 date: 2020-07-06 23:52:36
-image: 'https://m.media-amazon.com/images/I/41r+VAg+rdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r+VAg+rdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.6'
 
 Ahora mismo tienes [Ibili Bolsa para legumbres  nailon  37 x 5 cm](https://www.amazon.es/dp/B007H5BB2W/?tag=tolees-21) a 3.6 EUR (original: 4.5 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![Ibili Bolsa para legumbres  nailon  37 x](https://m.media-amazon.com/images/I/41r+VAg+rdL._SL200_.jpg)](https://www.amazon.es/dp/B007H5BB2W/?tag=tolees-21)
+[![Ibili Bolsa para legumbres  nailon  37 x](https://m.media-amazon.com/images/I/41r+VAg+rdL._SL400_.jpg)](https://www.amazon.es/dp/B007H5BB2W/?tag=tolees-21)
 
 🔎:
 

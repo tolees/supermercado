@@ -2,7 +2,7 @@
 layout: post
 title: 'Levadura Nutricional 125 Gr de Salud Viv con un 9.45 % de descuento'
 date: 2020-05-29 16:39:14
-image: 'https://m.media-amazon.com/images/I/31ha0rC-N1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ha0rC-N1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.14'
 
 En este momento está [Levadura Nutricional 125 Gr de Salud Viva](https://www.amazon.es/dp/B01EA88JMS/?tag=tolees-21) a 8.14 EUR (original: 8.99 EUR) (9.45 %  de descuento) en el siguiente enlace!
 
-[![Levadura Nutricional 125 Gr de Salud Viv](https://m.media-amazon.com/images/I/31ha0rC-N1L._SL200_.jpg)](https://www.amazon.es/dp/B01EA88JMS/?tag=tolees-21)
+[![Levadura Nutricional 125 Gr de Salud Viv](https://m.media-amazon.com/images/I/31ha0rC-N1L._SL400_.jpg)](https://www.amazon.es/dp/B01EA88JMS/?tag=tolees-21)
 
 🔎:
 

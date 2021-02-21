@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Paris Paleta de Coloretes Infali al 13.19 % de descuento'
 date: 2020-01-28 08:26:04
-image: 'https://m.media-amazon.com/images/I/415qZ1+jkRL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415qZ1+jkRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.35'
 
 Está [L Oréal Paris Paleta de Coloretes Infalible Pinks](https://www.amazon.es/dp/B01MROZ6ZB/?tag=tolees-21) con 13.19 de descuento por 5.99 EUR (original: 6.9 EUR) en el siguiente enlace!
 
-[![L Oréal Paris Paleta de Coloretes Infali](https://m.media-amazon.com/images/I/415qZ1+jkRL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01MROZ6ZB/?tag=tolees-21)
+[![L Oréal Paris Paleta de Coloretes Infali](https://m.media-amazon.com/images/I/415qZ1+jkRL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01MROZ6ZB/?tag=tolees-21)
 
 ℹ️:
 

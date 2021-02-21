@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 9.81 % en Lurrose - 5 Bolsas de jabón de Malla de '
 date: 2020-05-19 12:32:10
-image: 'https://m.media-amazon.com/images/I/31KRR7NtZjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KRR7NtZjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.8'
 
 Tienes [Lurrose - 5 Bolsas de jabón de Malla de Espuma de Burbujas  Herramienta de Limpieza Facial  Color Blanco ](https://www.amazon.es/dp/B07VS5XXGG/?tag=tolees-21) con un 9.81 % de descuento con precio de oferta de 6.8 EUR (original: 7.54 EUR) en el siguiente enlace!
 
-[![Lurrose - 5 Bolsas de jabón de Malla de ](https://m.media-amazon.com/images/I/31KRR7NtZjL._SL200_.jpg)](https://www.amazon.es/dp/B07VS5XXGG/?tag=tolees-21)
+[![Lurrose - 5 Bolsas de jabón de Malla de ](https://m.media-amazon.com/images/I/31KRR7NtZjL._SL400_.jpg)](https://www.amazon.es/dp/B07VS5XXGG/?tag=tolees-21)
 
 ℹ️:
 

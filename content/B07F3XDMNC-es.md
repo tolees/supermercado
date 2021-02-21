@@ -2,7 +2,7 @@
 layout: post
 title: 'MENFORSAN Desenredante y Acondicionador  con un 14.84 % de descuento'
 date: 2020-09-01 18:10:06
-image: 'https://m.media-amazon.com/images/I/31VnJ0wrwsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VnJ0wrwsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.3'
 
 En este momento está [MENFORSAN Desenredante y Acondicionador Perros - 125 ml](https://www.amazon.es/dp/B07F3XDMNC/?tag=tolees-21) a 9.3 EUR (original: 10.92 EUR) (14.84 %  de descuento) en el siguiente enlace!
 
-[![MENFORSAN Desenredante y Acondicionador ](https://m.media-amazon.com/images/I/31VnJ0wrwsL._SL200_.jpg)](https://www.amazon.es/dp/B07F3XDMNC/?tag=tolees-21)
+[![MENFORSAN Desenredante y Acondicionador ](https://m.media-amazon.com/images/I/31VnJ0wrwsL._SL400_.jpg)](https://www.amazon.es/dp/B07F3XDMNC/?tag=tolees-21)
 
 🔎:
 

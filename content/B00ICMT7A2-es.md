@@ -2,7 +2,7 @@
 layout: post
 title: 'Babaria Gel de Rápida Absorción para Des al 20.40 % de descuento'
 date: 2020-08-19 14:35:40
-image: 'https://m.media-amazon.com/images/I/41sicbXqIVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sicbXqIVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.99'
 
 Ahora mismo tienes [Babaria Gel de Rápida Absorción para Después del Afeitado - 150 ml](https://www.amazon.es/dp/B00ICMT7A2/?tag=tolees-21) a 1.99 EUR (original: 2.5 EUR) (20.40 %  de descuento) en el siguiente enlace!
 
-[![Babaria Gel de Rápida Absorción para Des](https://m.media-amazon.com/images/I/41sicbXqIVL._SL200_.jpg)](https://www.amazon.es/dp/B00ICMT7A2/?tag=tolees-21)
+[![Babaria Gel de Rápida Absorción para Des](https://m.media-amazon.com/images/I/41sicbXqIVL._SL400_.jpg)](https://www.amazon.es/dp/B00ICMT7A2/?tag=tolees-21)
 
 🔎:
 

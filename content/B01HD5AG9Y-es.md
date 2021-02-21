@@ -2,7 +2,7 @@
 layout: post
 title: 'Lagarto Jabón Natural - Paquete de 40 x  al 17.60 % de rebaja'
 date: 2020-01-16 06:40:27
-image: 'https://images-eu.ssl-images-amazon.com/images/I/412ZvU519DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412ZvU519DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.375'
 
 Tienes [Lagarto Jabón Natural - Paquete de 40 x 400 gr - Total: 16000 gr](https://www.amazon.es/dp/B01HD5AG9Y/?tag=tolees-21) con precio final de  38.02 EUR (original: 46.14 EUR) (17.60 %  de rebaja) aqui!
 
-[![Lagarto Jabón Natural - Paquete de 40 x ](https://images-eu.ssl-images-amazon.com/images/I/412ZvU519DL._SL200_.jpg)](https://www.amazon.es/dp/B01HD5AG9Y/?tag=tolees-21)
+[![Lagarto Jabón Natural - Paquete de 40 x ](https://images-eu.ssl-images-amazon.com/images/I/412ZvU519DL._SL400_.jpg)](https://www.amazon.es/dp/B01HD5AG9Y/?tag=tolees-21)
 
 🔎:
 

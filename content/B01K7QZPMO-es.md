@@ -2,7 +2,7 @@
 layout: post
 title: 'La Masía Aceite de Oliva Sumum - 1 l al 10.03 % de descuento'
 date: 2020-01-09 22:31:17
-image: 'None._SL200_'
+image: 'None._SL400_'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.41'
 
 Ahora mismo tienes [La Masía Aceite de Oliva Sumum - 1 l](https://www.amazon.es/dp/B01K7QZPMO/?tag=tolees-21) a 2.69 EUR (original: 2.99 EUR) (10.03 %  de descuento) en el siguiente enlace!
 
-[![La Masía Aceite de Oliva Sumum - 1 l](None._SL200_)](https://www.amazon.es/dp/B01K7QZPMO/?tag=tolees-21)
+[![La Masía Aceite de Oliva Sumum - 1 l](None._SL400_)](https://www.amazon.es/dp/B01K7QZPMO/?tag=tolees-21)
 
 🔎:
 

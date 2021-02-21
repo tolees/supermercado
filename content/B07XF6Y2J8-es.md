@@ -2,7 +2,7 @@
 layout: post
 title: 'Mom Ginebra Premium - 1000 ml con un 19.92 % de descuento'
 date: 2020-05-26 18:42:59
-image: 'https://m.media-amazon.com/images/I/41eY9bEJo-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eY9bEJo-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.505'
 
 En este momento está [Mom Ginebra Premium - 1000 ml](https://www.amazon.es/dp/B07XF6Y2J8/?tag=tolees-21) a 20.62 EUR (original: 25.75 EUR) (19.92 %  de descuento) en el siguiente enlace!
 
-[![Mom Ginebra Premium - 1000 ml](https://m.media-amazon.com/images/I/41eY9bEJo-L._SL200_.jpg)](https://www.amazon.es/dp/B07XF6Y2J8/?tag=tolees-21)
+[![Mom Ginebra Premium - 1000 ml](https://m.media-amazon.com/images/I/41eY9bEJo-L._SL400_.jpg)](https://www.amazon.es/dp/B07XF6Y2J8/?tag=tolees-21)
 
 🔎:
 

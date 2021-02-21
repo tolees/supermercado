@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 6.29 % en AXE Bodyspray Desodorante Leather and Co'
 date: 2021-01-28 18:54:54
-image: 'https://m.media-amazon.com/images/I/51SpSQI9u7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SpSQI9u7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,12 +24,12 @@ average: '25.02'
 
 Tienes [AXE Bodyspray Desodorante Leather and Cookies 200 ml - Pack de 6](https://www.amazon.es/dp/B084N4FSL5/?tag=tolees-21) con un 6.29 % de descuento con precio de oferta de 25.02 EUR (original: 26.7 EUR) en el siguiente enlace!
 
-[![AXE Bodyspray Desodorante Leather and Co](https://m.media-amazon.com/images/I/51SpSQI9u7L._SL200_.jpg)](https://www.amazon.es/dp/B084N4FSL5/?tag=tolees-21)
+[![AXE Bodyspray Desodorante Leather and Co](https://m.media-amazon.com/images/I/51SpSQI9u7L._SL400_.jpg)](https://www.amazon.es/dp/B084N4FSL5/?tag=tolees-21)
 
 ℹ️:
 
-- Axe Leather & Cookies, no debería funcionar pero funciona
 - Una mezcla inesperada de cuero y cookies, con toques de mandarina, cardamomo y cuero
+- Axe Leather & Cookies, no debería funcionar pero funciona
 - Mantente fresco por más tiempo
 - Cuero y cookies: dos ingredientes que chocan y que parece que no funcionen, pero que crean una fragancia
 - AXE Desodorante Bodyspray Leather & Cookies 200ml

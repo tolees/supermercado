@@ -2,7 +2,7 @@
 layout: post
 title: 'Fanta Naranja Lata - 330 ml  Pack de 9  al 3.14 % de rebaja'
 date: 2020-06-22 11:49:01
-image: 'https://m.media-amazon.com/images/I/41fgyDDoX0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fgyDDoX0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.59'
 
 Tienes [Fanta Naranja Lata - 330 ml  Pack de 9 ](https://www.amazon.es/dp/B01LY8ST4U/?tag=tolees-21) con precio final de  4.01 EUR (original: 4.14 EUR) (3.14 %  de rebaja) aqui!
 
-[![Fanta Naranja Lata - 330 ml  Pack de 9 ](https://m.media-amazon.com/images/I/41fgyDDoX0L._SL200_.jpg)](https://www.amazon.es/dp/B01LY8ST4U/?tag=tolees-21)
+[![Fanta Naranja Lata - 330 ml  Pack de 9 ](https://m.media-amazon.com/images/I/41fgyDDoX0L._SL400_.jpg)](https://www.amazon.es/dp/B01LY8ST4U/?tag=tolees-21)
 
 🔎:
 

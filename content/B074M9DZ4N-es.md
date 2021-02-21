@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips CA6903/10 Filtro de Agua Aquacle al 6.19 % de rebaja'
 date: 2020-06-22 03:36:59
-image: 'https://m.media-amazon.com/images/I/41vBiVXC+5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vBiVXC+5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.5'
 
 Tienes [Philips CA6903/10 Filtro de Agua Aquaclean para Máquinas de Café Espresso Automáticas  Verde  6x9.5x14.5 cm](https://www.amazon.es/dp/B074M9DZ4N/?tag=tolees-21) con precio final de  15.0 EUR (original: 15.99 EUR) (6.19 %  de rebaja) aqui!
 
-[![Philips CA6903/10 Filtro de Agua Aquacle](https://m.media-amazon.com/images/I/41vBiVXC+5L._SL200_.jpg)](https://www.amazon.es/dp/B074M9DZ4N/?tag=tolees-21)
+[![Philips CA6903/10 Filtro de Agua Aquacle](https://m.media-amazon.com/images/I/41vBiVXC+5L._SL400_.jpg)](https://www.amazon.es/dp/B074M9DZ4N/?tag=tolees-21)
 
 🔎:
 

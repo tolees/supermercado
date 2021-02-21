@@ -2,7 +2,7 @@
 layout: post
 title: 'Amstel Radler Limón Cerveza - Pack de 12 al 11.53 % de descuento'
 date: 2020-02-06 13:40:24
-image: 'https://m.media-amazon.com/images/I/51HxFeKVpLL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HxFeKVpLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.525'
 
 Ahora mismo tienes [Amstel Radler Limón Cerveza - Pack de 12 Latas x 330 ml - Total: 3.96 L](https://www.amazon.es/dp/B07BB7K7YX/?tag=tolees-21) a 6.37 EUR (original: 7.2 EUR) (11.53 %  de descuento) en el siguiente enlace!
 
-[![Amstel Radler Limón Cerveza - Pack de 12](https://m.media-amazon.com/images/I/51HxFeKVpLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07BB7K7YX/?tag=tolees-21)
+[![Amstel Radler Limón Cerveza - Pack de 12](https://m.media-amazon.com/images/I/51HxFeKVpLL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07BB7K7YX/?tag=tolees-21)
 
 🔎:
 

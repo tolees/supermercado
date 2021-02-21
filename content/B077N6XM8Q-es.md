@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline Superstay de diafragma de 55  con un 14.37 % de descuento'
 date: 2020-03-07 13:32:10
-image: 'https://m.media-amazon.com/images/I/31a8a4B2F3L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31a8a4B2F3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.9'
 
 En este momento está [Maybelline Superstay de diafragma de 55 mate cartucho de barra de labios  5 ml](https://www.amazon.es/dp/B077N6XM8Q/?tag=tolees-21) a 5.9 EUR (original: 6.89 EUR) (14.37 %  de descuento) en el siguiente enlace!
 
-[![Maybelline Superstay de diafragma de 55 ](https://m.media-amazon.com/images/I/31a8a4B2F3L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B077N6XM8Q/?tag=tolees-21)
+[![Maybelline Superstay de diafragma de 55 ](https://m.media-amazon.com/images/I/31a8a4B2F3L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B077N6XM8Q/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Campos  Conserva de Bonito del norte en  al 13.76 % de rebaja'
 date: 2020-04-18 01:57:05
-image: 'https://m.media-amazon.com/images/I/51rs-vHPBcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rs-vHPBcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.39'
 
 Tienes [Campos  Conserva de Bonito del norte en escabeche tradicional  - lata de 266 gr.](https://www.amazon.es/dp/B00XA7INU4/?tag=tolees-21) con precio final de  5.39 EUR (original: 6.25 EUR) (13.76 %  de rebaja) aqui!
 
-[![Campos  Conserva de Bonito del norte en ](https://m.media-amazon.com/images/I/51rs-vHPBcL._SL200_.jpg)](https://www.amazon.es/dp/B00XA7INU4/?tag=tolees-21)
+[![Campos  Conserva de Bonito del norte en ](https://m.media-amazon.com/images/I/51rs-vHPBcL._SL400_.jpg)](https://www.amazon.es/dp/B00XA7INU4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline Master Strobing Stick Ilumina al 22.47 % de descuento'
 date: 2020-01-03 13:44:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31g5zWlwKRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31g5zWlwKRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.97'
 
 Está [Maybelline Master Strobing Stick Iluminador  Tono 300 Dark pieles morenas. - 9GR](https://www.amazon.es/dp/B01LAYIMOA/?tag=tolees-21) con 22.47 de descuento por 6.97 EUR (original: 8.99 EUR) en el siguiente enlace!
 
-[![Maybelline Master Strobing Stick Ilumina](https://images-eu.ssl-images-amazon.com/images/I/31g5zWlwKRL._SL200_.jpg)](https://www.amazon.es/dp/B01LAYIMOA/?tag=tolees-21)
+[![Maybelline Master Strobing Stick Ilumina](https://images-eu.ssl-images-amazon.com/images/I/31g5zWlwKRL._SL400_.jpg)](https://www.amazon.es/dp/B01LAYIMOA/?tag=tolees-21)
 
 ℹ️:
 

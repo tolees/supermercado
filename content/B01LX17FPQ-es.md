@@ -2,7 +2,7 @@
 layout: post
 title: 'Gourmet Frutos Secos Pipas Mondadas Frit al 0.00 % de descuento'
 date: 2021-01-12 20:43:35
-image: 'https://m.media-amazon.com/images/I/513cOdRs4vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513cOdRs4vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: 'None'
 
 Ahora mismo tienes [Gourmet Frutos Secos Pipas Mondadas Fritas con Sal - 125 g](https://www.amazon.es/dp/B01LX17FPQ/?tag=tolees-21) a None None (original: None None) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Gourmet Frutos Secos Pipas Mondadas Frit](https://m.media-amazon.com/images/I/513cOdRs4vL._SL200_.jpg)](https://www.amazon.es/dp/B01LX17FPQ/?tag=tolees-21)
+[![Gourmet Frutos Secos Pipas Mondadas Frit](https://m.media-amazon.com/images/I/513cOdRs4vL._SL400_.jpg)](https://www.amazon.es/dp/B01LX17FPQ/?tag=tolees-21)
 
 🔎:
 

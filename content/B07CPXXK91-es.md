@@ -2,7 +2,7 @@
 layout: post
 title: 'Somat Detergente Gel Lavavajillas Fresco al 18.68 % de descuento'
 date: 2020-04-05 08:38:39
-image: 'https://m.media-amazon.com/images/I/51dXiZYEEHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dXiZYEEHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.28'
 
 Está [Somat Detergente Gel Lavavajillas Frescor Antiolor - 2 x 35 Lavados](https://www.amazon.es/dp/B07CPXXK91/?tag=tolees-21) con 18.68 de descuento por 9.75 EUR (original: 11.99 EUR) en el siguiente enlace!
 
-[![Somat Detergente Gel Lavavajillas Fresco](https://m.media-amazon.com/images/I/51dXiZYEEHL._SL200_.jpg)](https://www.amazon.es/dp/B07CPXXK91/?tag=tolees-21)
+[![Somat Detergente Gel Lavavajillas Fresco](https://m.media-amazon.com/images/I/51dXiZYEEHL._SL400_.jpg)](https://www.amazon.es/dp/B07CPXXK91/?tag=tolees-21)
 
 ℹ️:
 

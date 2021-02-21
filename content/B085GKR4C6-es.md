@@ -2,7 +2,7 @@
 layout: post
 title: 'Pack de 6 Botellas de 1L gel hidroalcohó al 19.99 % de descuento'
 date: 2020-07-22 14:11:45
-image: 'https://m.media-amazon.com/images/I/31AxiQOozuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AxiQOozuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.39666666666667'
 
 Está [Pack de 6 Botellas de 1L gel hidroalcohólico higienizante PURLINE PACK6 HIDROGEL](https://www.amazon.es/dp/B085GKR4C6/?tag=tolees-21) con 19.99 de descuento por 45.6 EUR (original: 56.99 EUR) en el siguiente enlace!
 
-[![Pack de 6 Botellas de 1L gel hidroalcohó](https://m.media-amazon.com/images/I/31AxiQOozuL._SL200_.jpg)](https://www.amazon.es/dp/B085GKR4C6/?tag=tolees-21)
+[![Pack de 6 Botellas de 1L gel hidroalcohó](https://m.media-amazon.com/images/I/31AxiQOozuL._SL400_.jpg)](https://www.amazon.es/dp/B085GKR4C6/?tag=tolees-21)
 
 ℹ️:
 

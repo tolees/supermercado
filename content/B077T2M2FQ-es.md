@@ -2,7 +2,7 @@
 layout: post
 title: 'Maeloc Sidra Dulce Ecológica - Pack de 4 al 23.75 % de descuento'
 date: 2020-10-03 13:13:17
-image: 'https://m.media-amazon.com/images/I/51yZO4JSBAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51yZO4JSBAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.28'
 
 Ahora mismo tienes [Maeloc Sidra Dulce Ecológica - Pack de 4 x 200 ml](https://www.amazon.es/dp/B077T2M2FQ/?tag=tolees-21) a 2.28 EUR (original: 2.99 EUR) (23.75 %  de descuento) en el siguiente enlace!
 
-[![Maeloc Sidra Dulce Ecológica - Pack de 4](https://m.media-amazon.com/images/I/51yZO4JSBAL._SL200_.jpg)](https://www.amazon.es/dp/B077T2M2FQ/?tag=tolees-21)
+[![Maeloc Sidra Dulce Ecológica - Pack de 4](https://m.media-amazon.com/images/I/51yZO4JSBAL._SL400_.jpg)](https://www.amazon.es/dp/B077T2M2FQ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'RED BULL Coconut Edition  Bebida energét con un 22.48 % de descuento'
 date: 2020-02-21 16:25:05
-image: 'https://m.media-amazon.com/images/I/41bHPhDoO1L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bHPhDoO1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 En este momento está [RED BULL Coconut Edition  Bebida energética sabor coco y arándanos  lata 25 cl](https://www.amazon.es/dp/B07T9YVT8B/?tag=tolees-21) a 1.0 EUR (original: 1.29 EUR) (22.48 %  de descuento) en el siguiente enlace!
 
-[![RED BULL Coconut Edition  Bebida energét](https://m.media-amazon.com/images/I/41bHPhDoO1L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07T9YVT8B/?tag=tolees-21)
+[![RED BULL Coconut Edition  Bebida energét](https://m.media-amazon.com/images/I/41bHPhDoO1L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07T9YVT8B/?tag=tolees-21)
 
 🔎:
 

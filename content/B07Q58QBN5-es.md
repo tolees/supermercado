@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 20.02 % en Colgate ProClinical 150  Cepillo de Dien'
 date: 2020-09-07 15:37:17
-image: 'https://m.media-amazon.com/images/I/31ph7bsoRdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ph7bsoRdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.79'
 
 Tienes [Colgate ProClinical 150  Cepillo de Dientes Suave de Batería - 1 ud.](https://www.amazon.es/dp/B07Q58QBN5/?tag=tolees-21) con un 20.02 % de descuento con precio de oferta de 8.79 EUR (original: 10.99 EUR) en el siguiente enlace!
 
-[![Colgate ProClinical 150  Cepillo de Dien](https://m.media-amazon.com/images/I/31ph7bsoRdL._SL200_.jpg)](https://www.amazon.es/dp/B07Q58QBN5/?tag=tolees-21)
+[![Colgate ProClinical 150  Cepillo de Dien](https://m.media-amazon.com/images/I/31ph7bsoRdL._SL400_.jpg)](https://www.amazon.es/dp/B07Q58QBN5/?tag=tolees-21)
 
 ℹ️:
 

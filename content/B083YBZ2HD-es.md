@@ -2,7 +2,7 @@
 layout: post
 title: 'TRESemmé Champú Cuidado Clásico 900ml -  al 22.03 % de descuento'
 date: 2020-07-15 22:18:57
-image: 'https://m.media-amazon.com/images/I/51hpPO+0f8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hpPO+0f8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.915'
 
 Ahora mismo tienes [TRESemmé Champú Cuidado Clásico 900ml - Pack de 6](https://www.amazon.es/dp/B083YBZ2HD/?tag=tolees-21) a 22.69 EUR (original: 29.1 EUR) (22.03 %  de descuento) en el siguiente enlace!
 
-[![TRESemmé Champú Cuidado Clásico 900ml - ](https://m.media-amazon.com/images/I/51hpPO+0f8L._SL200_.jpg)](https://www.amazon.es/dp/B083YBZ2HD/?tag=tolees-21)
+[![TRESemmé Champú Cuidado Clásico 900ml - ](https://m.media-amazon.com/images/I/51hpPO+0f8L._SL400_.jpg)](https://www.amazon.es/dp/B083YBZ2HD/?tag=tolees-21)
 
 🔎:
 

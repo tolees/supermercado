@@ -2,7 +2,7 @@
 layout: post
 title: 'Marcilla Espresso Intenso Cápsulas de ca al 8.27 % de rebaja'
 date: 2020-01-07 15:52:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51A0xJh8HfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51A0xJh8HfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.98'
 
 Tienes [Marcilla Espresso Intenso Cápsulas de café - 3 paquetes x 14 cápsulas - Total: 42 cápsulas](https://www.amazon.es/dp/B07T7ZY9BK/?tag=tolees-21) con precio final de  10.98 EUR (original: 11.97 EUR) (8.27 %  de rebaja) aqui!
 
-[![Marcilla Espresso Intenso Cápsulas de ca](https://images-eu.ssl-images-amazon.com/images/I/51A0xJh8HfL._SL200_.jpg)](https://www.amazon.es/dp/B07T7ZY9BK/?tag=tolees-21)
+[![Marcilla Espresso Intenso Cápsulas de ca](https://images-eu.ssl-images-amazon.com/images/I/51A0xJh8HfL._SL400_.jpg)](https://www.amazon.es/dp/B07T7ZY9BK/?tag=tolees-21)
 
 🔎:
 

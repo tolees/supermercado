@@ -2,7 +2,7 @@
 layout: post
 title: 'FIND - Mascarilla hidrogel  sin goteo  a con un 18.27 % de descuento'
 date: 2020-06-07 16:50:40
-image: 'https://m.media-amazon.com/images/I/41BYOr0DfHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BYOr0DfHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 En este momento está [FIND - Mascarilla hidrogel  sin goteo  antienvejecimiento para el contorno de ojos con zumo de naranja y mango  pack de 5 unidades](https://www.amazon.es/dp/B07XZLB13W/?tag=tolees-21) a 8.99 EUR (original: 11.0 EUR) (18.27 %  de descuento) en el siguiente enlace!
 
-[![FIND - Mascarilla hidrogel  sin goteo  a](https://m.media-amazon.com/images/I/41BYOr0DfHL._SL200_.jpg)](https://www.amazon.es/dp/B07XZLB13W/?tag=tolees-21)
+[![FIND - Mascarilla hidrogel  sin goteo  a](https://m.media-amazon.com/images/I/41BYOr0DfHL._SL400_.jpg)](https://www.amazon.es/dp/B07XZLB13W/?tag=tolees-21)
 
 🔎:
 

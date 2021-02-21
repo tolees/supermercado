@@ -2,7 +2,7 @@
 layout: post
 title: 'Carbonell Aceite De Oliva Virgen Extra M al 20.54 % de descuento'
 date: 2020-03-05 18:41:40
-image: 'https://m.media-amazon.com/images/I/31aLYARBKNL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aLYARBKNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.42'
 
 Ahora mismo tienes [Carbonell Aceite De Oliva Virgen Extra Monovarietal Regium En Vidrio - 750 ml](https://www.amazon.es/dp/B07H2WRXHV/?tag=tolees-21) a 3.83 EUR (original: 4.82 EUR) (20.54 %  de descuento) en el siguiente enlace!
 
-[![Carbonell Aceite De Oliva Virgen Extra M](https://m.media-amazon.com/images/I/31aLYARBKNL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07H2WRXHV/?tag=tolees-21)
+[![Carbonell Aceite De Oliva Virgen Extra M](https://m.media-amazon.com/images/I/31aLYARBKNL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07H2WRXHV/?tag=tolees-21)
 
 🔎:
 

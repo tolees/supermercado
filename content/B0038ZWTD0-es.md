@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 0.00 % en Elizabeth Arden 5th Avenue Style  Agua d'
 date: 2020-01-03 17:36:30
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31muFjam5DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31muFjam5DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.77'
 
 Tienes [Elizabeth Arden 5th Avenue Style  Agua de perfume para mujeres - 125 ml.](https://www.amazon.es/dp/B0038ZWTD0/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 20.77 EUR (original: 20.77 EUR) en el siguiente enlace!
 
-[![Elizabeth Arden 5th Avenue Style  Agua d](https://images-eu.ssl-images-amazon.com/images/I/31muFjam5DL._SL200_.jpg)](https://www.amazon.es/dp/B0038ZWTD0/?tag=tolees-21)
+[![Elizabeth Arden 5th Avenue Style  Agua d](https://images-eu.ssl-images-amazon.com/images/I/31muFjam5DL._SL400_.jpg)](https://www.amazon.es/dp/B0038ZWTD0/?tag=tolees-21)
 
 ℹ️:
 

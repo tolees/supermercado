@@ -2,7 +2,7 @@
 layout: post
 title: 'Nestlé La Lechera Leche condensada enter al 9.38 % de descuento'
 date: 2020-08-01 13:38:27
-image: 'https://m.media-amazon.com/images/I/517dmWqfF5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517dmWqfF5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.4'
 
 Ahora mismo tienes [Nestlé La Lechera Leche condensada entera - Lata de leche condensada entera abre fácil - Caja de 12 x 370g](https://www.amazon.es/dp/B07B17YXYN/?tag=tolees-21) a 17.4 EUR (original: 19.2 EUR) (9.38 %  de descuento) en el siguiente enlace!
 
-[![Nestlé La Lechera Leche condensada enter](https://m.media-amazon.com/images/I/517dmWqfF5L._SL200_.jpg)](https://www.amazon.es/dp/B07B17YXYN/?tag=tolees-21)
+[![Nestlé La Lechera Leche condensada enter](https://m.media-amazon.com/images/I/517dmWqfF5L._SL400_.jpg)](https://www.amazon.es/dp/B07B17YXYN/?tag=tolees-21)
 
 🔎:
 

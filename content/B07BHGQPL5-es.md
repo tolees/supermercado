@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 15.00 % en Padró & Co Vermouth en Caja de Madera - '
 date: 2020-09-17 10:30:40
-image: 'https://m.media-amazon.com/images/I/512EKH3b5yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512EKH3b5yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.3'
 
 Tienes [Padró & Co Vermouth en Caja de Madera - Paquete de 4 x 750 ml - Total: 3000 ml](https://www.amazon.es/dp/B07BHGQPL5/?tag=tolees-21) con un 15.00 % de descuento con precio de oferta de 49.3 EUR (original: 58.0 EUR) en el siguiente enlace!
 
-[![Padró & Co Vermouth en Caja de Madera - ](https://m.media-amazon.com/images/I/512EKH3b5yL._SL200_.jpg)](https://www.amazon.es/dp/B07BHGQPL5/?tag=tolees-21)
+[![Padró & Co Vermouth en Caja de Madera - ](https://m.media-amazon.com/images/I/512EKH3b5yL._SL400_.jpg)](https://www.amazon.es/dp/B07BHGQPL5/?tag=tolees-21)
 
 ℹ️:
 

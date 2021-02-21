@@ -2,7 +2,7 @@
 layout: post
 title: 'Croc Odor Desodorante Frigorifico Grande al 20.00 % de descuento'
 date: 2020-05-30 11:35:13
-image: 'https://m.media-amazon.com/images/I/41sCuhHz9iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sCuhHz9iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.2'
 
 Ahora mismo tienes [Croc Odor Desodorante Frigorifico Grande XL 140g Pack de 3  Total: 420 g](https://www.amazon.es/dp/B07PS642TW/?tag=tolees-21) a 10.2 EUR (original: 12.75 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![Croc Odor Desodorante Frigorifico Grande](https://m.media-amazon.com/images/I/41sCuhHz9iL._SL200_.jpg)](https://www.amazon.es/dp/B07PS642TW/?tag=tolees-21)
+[![Croc Odor Desodorante Frigorifico Grande](https://m.media-amazon.com/images/I/41sCuhHz9iL._SL400_.jpg)](https://www.amazon.es/dp/B07PS642TW/?tag=tolees-21)
 
 🔎:
 

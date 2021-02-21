@@ -2,7 +2,7 @@
 layout: post
 title: 'Sesderma - Crema hidratante rejuvenecedo al 20.00 % de descuento'
 date: 2020-02-01 04:04:31
-image: 'https://m.media-amazon.com/images/I/31dBOPEox0L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dBOPEox0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.96'
 
 Está [Sesderma - Crema hidratante rejuvenecedora facial para todo tipo de piel  50 ml](https://www.amazon.es/dp/B00U8WQEE6/?tag=tolees-21) con 20.00 de descuento por 31.96 EUR (original: 39.95 EUR) en el siguiente enlace!
 
-[![Sesderma - Crema hidratante rejuvenecedo](https://m.media-amazon.com/images/I/31dBOPEox0L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00U8WQEE6/?tag=tolees-21)
+[![Sesderma - Crema hidratante rejuvenecedo](https://m.media-amazon.com/images/I/31dBOPEox0L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00U8WQEE6/?tag=tolees-21)
 
 ℹ️:
 

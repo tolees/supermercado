@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 20.02 % en True Instinct Original Medium-Maxi Junio'
 date: 2020-02-28 16:49:53
-image: 'https://m.media-amazon.com/images/I/41nndqhJi2L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nndqhJi2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.39'
 
 Tienes [True Instinct Original Medium-Maxi Junior - Pienso para Cachorros de Razas Medianas y Grandes con Pollo y arroz Integral - 2 kg](https://www.amazon.es/dp/B01FFU0VFI/?tag=tolees-21) con un 20.02 % de descuento con precio de oferta de 10.39 EUR (original: 12.99 EUR) en el siguiente enlace!
 
-[![True Instinct Original Medium-Maxi Junio](https://m.media-amazon.com/images/I/41nndqhJi2L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01FFU0VFI/?tag=tolees-21)
+[![True Instinct Original Medium-Maxi Junio](https://m.media-amazon.com/images/I/41nndqhJi2L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01FFU0VFI/?tag=tolees-21)
 
 ℹ️:
 

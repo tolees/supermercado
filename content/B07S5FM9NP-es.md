@@ -2,7 +2,7 @@
 layout: post
 title: 'Old Spice Citron - Desodorante Stick  Pa al 20.22 % de rebaja'
 date: 2020-10-12 18:28:36
-image: 'https://m.media-amazon.com/images/I/41PpgbLHBvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PpgbLHBvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.540000000000001'
 
 Tienes [Old Spice Citron - Desodorante Stick  Pack de 6 x 50 ml](https://www.amazon.es/dp/B07S5FM9NP/?tag=tolees-21) con precio final de  15.15 EUR (original: 18.99 EUR) (20.22 %  de rebaja) aqui!
 
-[![Old Spice Citron - Desodorante Stick  Pa](https://m.media-amazon.com/images/I/41PpgbLHBvL._SL200_.jpg)](https://www.amazon.es/dp/B07S5FM9NP/?tag=tolees-21)
+[![Old Spice Citron - Desodorante Stick  Pa](https://m.media-amazon.com/images/I/41PpgbLHBvL._SL400_.jpg)](https://www.amazon.es/dp/B07S5FM9NP/?tag=tolees-21)
 
 🔎:
 

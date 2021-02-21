@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 0.00 % en Santa Digna Chardonnay  Vino Blanco  6 b'
 date: 2020-01-15 18:10:05
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ttJOUUZtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ttJOUUZtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.94'
 
 Tienes [Santa Digna Chardonnay  Vino Blanco  6 botellas de 75 cl - Total: 450 cl](https://www.amazon.es/dp/B00DWHHJFW/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 33.94 EUR (original: 33.94 EUR) en el siguiente enlace!
 
-[![Santa Digna Chardonnay  Vino Blanco  6 b](https://images-eu.ssl-images-amazon.com/images/I/31ttJOUUZtL._SL200_.jpg)](https://www.amazon.es/dp/B00DWHHJFW/?tag=tolees-21)
+[![Santa Digna Chardonnay  Vino Blanco  6 b](https://images-eu.ssl-images-amazon.com/images/I/31ttJOUUZtL._SL400_.jpg)](https://www.amazon.es/dp/B00DWHHJFW/?tag=tolees-21)
 
 ℹ️:
 

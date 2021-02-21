@@ -2,7 +2,7 @@
 layout: post
 title: 'Estrella de Levante Cerveza - Pack de 6  al 10.78 % de descuento'
 date: 2020-03-04 16:22:45
-image: 'https://m.media-amazon.com/images/I/51IDMJ5hFSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IDMJ5hFSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.28'
 
 Ahora mismo tienes [Estrella de Levante Cerveza - Pack de 6 Botellas 1L](https://www.amazon.es/dp/B07H4R9N7F/?tag=tolees-21) a 8.28 EUR (original: 9.28 EUR) (10.78 %  de descuento) en el siguiente enlace!
 
-[![Estrella de Levante Cerveza - Pack de 6 ](https://m.media-amazon.com/images/I/51IDMJ5hFSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07H4R9N7F/?tag=tolees-21)
+[![Estrella de Levante Cerveza - Pack de 6 ](https://m.media-amazon.com/images/I/51IDMJ5hFSL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07H4R9N7F/?tag=tolees-21)
 
 🔎:
 

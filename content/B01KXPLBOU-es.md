@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline Stick Master Contour Tono: 03 al 0.00 % de descuento'
 date: 2020-12-21 13:09:55
-image: 'https://m.media-amazon.com/images/I/31XzBYJmkcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XzBYJmkcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,14 +24,14 @@ average: 'None'
 
 Está [Maybelline Stick Master Contour Tono: 03 Dark - 7 g](https://www.amazon.es/dp/B01KXPLBOU/?tag=tolees-21) con 0.00 de descuento por None None (original: None None) en el siguiente enlace!
 
-[![Maybelline Stick Master Contour Tono: 03](https://m.media-amazon.com/images/I/31XzBYJmkcL._SL200_.jpg)](https://www.amazon.es/dp/B01KXPLBOU/?tag=tolees-21)
+[![Maybelline Stick Master Contour Tono: 03](https://m.media-amazon.com/images/I/31XzBYJmkcL._SL400_.jpg)](https://www.amazon.es/dp/B01KXPLBOU/?tag=tolees-21)
 
 ℹ️:
 
 - Tipo de dispensador: lápiz
 - Adecuado para los tipos de piel
-- Número de colores: 03
 - Nombre del color: Dark
 - Dirigido a las mujeres
+- Número de colores: 03
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01KXPLBOU/?tag=tolees-21)

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 14.26 % en Listerine - Mentol 1000 ml  Duplo '
 date: 2020-08-14 02:16:04
-image: 'https://m.media-amazon.com/images/I/41ldnnGu94L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ldnnGu94L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.125'
 
 Tienes [Listerine - Mentol 1000 ml  Duplo ](https://www.amazon.es/dp/B01DWB5R0G/?tag=tolees-21) con un 14.26 % de descuento con precio de oferta de 13.65 EUR (original: 15.92 EUR) en el siguiente enlace!
 
-[![Listerine - Mentol 1000 ml  Duplo ](https://m.media-amazon.com/images/I/41ldnnGu94L._SL200_.jpg)](https://www.amazon.es/dp/B01DWB5R0G/?tag=tolees-21)
+[![Listerine - Mentol 1000 ml  Duplo ](https://m.media-amazon.com/images/I/41ldnnGu94L._SL400_.jpg)](https://www.amazon.es/dp/B01DWB5R0G/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Revlon  Cuidado del pelo y del cuero cab al 13.10 % de descuento'
 date: 2020-04-26 10:08:17
-image: 'https://m.media-amazon.com/images/I/51RBbn3M-wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RBbn3M-wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.78'
 
 Ahora mismo tienes [Revlon  Cuidado del pelo y del cuero cabelludo - 100 ml.](https://www.amazon.es/dp/B005NXA2SY/?tag=tolees-21) a 3.78 EUR (original: 4.35 EUR) (13.10 %  de descuento) en el siguiente enlace!
 
-[![Revlon  Cuidado del pelo y del cuero cab](https://m.media-amazon.com/images/I/51RBbn3M-wL._SL200_.jpg)](https://www.amazon.es/dp/B005NXA2SY/?tag=tolees-21)
+[![Revlon  Cuidado del pelo y del cuero cab](https://m.media-amazon.com/images/I/51RBbn3M-wL._SL400_.jpg)](https://www.amazon.es/dp/B005NXA2SY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Neutrogena Bálsamo Corporal Reparación I al 21.04 % de descuento'
 date: 2020-09-09 17:09:21
-image: 'https://m.media-amazon.com/images/I/31HSBoJp0kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HSBoJp0kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Está [Neutrogena Bálsamo Corporal Reparación Intensa - 2 Unidades x 300 ml.](https://www.amazon.es/dp/B00V4ZE1BE/?tag=tolees-21) con 21.04 de descuento por 15.99 EUR (original: 20.25 EUR) en el siguiente enlace!
 
-[![Neutrogena Bálsamo Corporal Reparación I](https://m.media-amazon.com/images/I/31HSBoJp0kL._SL200_.jpg)](https://www.amazon.es/dp/B00V4ZE1BE/?tag=tolees-21)
+[![Neutrogena Bálsamo Corporal Reparación I](https://m.media-amazon.com/images/I/31HSBoJp0kL._SL400_.jpg)](https://www.amazon.es/dp/B00V4ZE1BE/?tag=tolees-21)
 
 ℹ️:
 

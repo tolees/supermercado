@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Paris Barra de Labios Color Rich con un 18.85 % de descuento'
 date: 2020-02-26 06:10:32
-image: 'https://m.media-amazon.com/images/I/31Ww1TdeMUL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Ww1TdeMUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.895'
 
 En este momento está [L Oréal Paris Barra de Labios Color Riche 303](https://www.amazon.es/dp/B000OVS8EA/?tag=tolees-21) a 10.55 EUR (original: 13.0 EUR) (18.85 %  de descuento) en el siguiente enlace!
 
-[![L Oréal Paris Barra de Labios Color Rich](https://m.media-amazon.com/images/I/31Ww1TdeMUL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000OVS8EA/?tag=tolees-21)
+[![L Oréal Paris Barra de Labios Color Rich](https://m.media-amazon.com/images/I/31Ww1TdeMUL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000OVS8EA/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mafiti Dispensador de Jabón Automático D con un 15.01 % de descuento'
 date: 2020-09-11 16:15:54
-image: 'https://m.media-amazon.com/images/I/31lgXePQdtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lgXePQdtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.290000000000001'
 
 En este momento está [Mafiti Dispensador de Jabón Automático Dosificador Cocina Dispensador de Jabón 280ML Dispensador de Jabón Sensor de Movimiento Inteligente para Baño  Cocina](https://www.amazon.es/dp/B088CRY3KK/?tag=tolees-21) a 14.44 EUR (original: 16.99 EUR) (15.01 %  de descuento) en el siguiente enlace!
 
-[![Mafiti Dispensador de Jabón Automático D](https://m.media-amazon.com/images/I/31lgXePQdtL._SL200_.jpg)](https://www.amazon.es/dp/B088CRY3KK/?tag=tolees-21)
+[![Mafiti Dispensador de Jabón Automático D](https://m.media-amazon.com/images/I/31lgXePQdtL._SL400_.jpg)](https://www.amazon.es/dp/B088CRY3KK/?tag=tolees-21)
 
 🔎:
 

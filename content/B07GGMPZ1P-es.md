@@ -2,7 +2,7 @@
 layout: post
 title: 'Fairy Tail: Dragon Cry  Movie 2  - Limit al 0.00 % de descuento'
 date: 2019-12-31 17:09:21
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51vLSPQzxrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vLSPQzxrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.71'
 
 Está [Fairy Tail: Dragon Cry  Movie 2  - Limited Steelcase Edition mit Plüschtier Plue [Alemania] [DVD]](https://www.amazon.es/dp/B07GGMPZ1P/?tag=tolees-21) con 0.00 de descuento por 41.71 EUR (original: 41.71 EUR) en el siguiente enlace!
 
-[![Fairy Tail: Dragon Cry  Movie 2  - Limit](https://images-eu.ssl-images-amazon.com/images/I/51vLSPQzxrL._SL200_.jpg)](https://www.amazon.es/dp/B07GGMPZ1P/?tag=tolees-21)
+[![Fairy Tail: Dragon Cry  Movie 2  - Limit](https://images-eu.ssl-images-amazon.com/images/I/51vLSPQzxrL._SL400_.jpg)](https://www.amazon.es/dp/B07GGMPZ1P/?tag=tolees-21)
 
 ℹ️:
 

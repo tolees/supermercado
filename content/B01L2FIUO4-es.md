@@ -2,7 +2,7 @@
 layout: post
 title: 'Revlon Professional Equave Kids Acondici al 24.34 % de rebaja'
 date: 2020-05-29 07:43:11
-image: 'https://m.media-amazon.com/images/I/41oiUHuZH9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oiUHuZH9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.763333333333334'
 
 Tienes [Revlon Professional Equave Kids Acondicionador Desenredante Instantáneo Princess Look 200 ml](https://www.amazon.es/dp/B01L2FIUO4/?tag=tolees-21) con precio final de  7.15 EUR (original: 9.45 EUR) (24.34 %  de rebaja) aqui!
 
-[![Revlon Professional Equave Kids Acondici](https://m.media-amazon.com/images/I/41oiUHuZH9L._SL200_.jpg)](https://www.amazon.es/dp/B01L2FIUO4/?tag=tolees-21)
+[![Revlon Professional Equave Kids Acondici](https://m.media-amazon.com/images/I/41oiUHuZH9L._SL400_.jpg)](https://www.amazon.es/dp/B01L2FIUO4/?tag=tolees-21)
 
 🔎:
 

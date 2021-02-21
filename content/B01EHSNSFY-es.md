@@ -2,7 +2,7 @@
 layout: post
 title: 'Ausonia Discreet Normal M - Braguitas-Pa al 16.52 % de descuento'
 date: 2020-02-27 01:09:39
-image: 'https://m.media-amazon.com/images/I/612O5PW0TgL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/612O5PW0TgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.34'
 
 Está [Ausonia Discreet Normal M - Braguitas-Pants  paquete de 9 unidades](https://www.amazon.es/dp/B01EHSNSFY/?tag=tolees-21) con 16.52 de descuento por 8.34 EUR (original: 9.99 EUR) en el siguiente enlace!
 
-[![Ausonia Discreet Normal M - Braguitas-Pa](https://m.media-amazon.com/images/I/612O5PW0TgL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01EHSNSFY/?tag=tolees-21)
+[![Ausonia Discreet Normal M - Braguitas-Pa](https://m.media-amazon.com/images/I/612O5PW0TgL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01EHSNSFY/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Dove Dermaspa Crema Tratamiento Manos Ni al 15.27 % de descuento'
 date: 2020-06-11 05:48:18
-image: 'https://m.media-amazon.com/images/I/41Adneh7FHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Adneh7FHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.357999999999999'
 
 Ahora mismo tienes [Dove Dermaspa Crema Tratamiento Manos Night - Pack de 6 x 75 ml  Total: 450 ml ](https://www.amazon.es/dp/B07P7VLPP2/?tag=tolees-21) a 15.2 EUR (original: 17.94 EUR) (15.27 %  de descuento) en el siguiente enlace!
 
-[![Dove Dermaspa Crema Tratamiento Manos Ni](https://m.media-amazon.com/images/I/41Adneh7FHL._SL200_.jpg)](https://www.amazon.es/dp/B07P7VLPP2/?tag=tolees-21)
+[![Dove Dermaspa Crema Tratamiento Manos Ni](https://m.media-amazon.com/images/I/41Adneh7FHL._SL400_.jpg)](https://www.amazon.es/dp/B07P7VLPP2/?tag=tolees-21)
 
 🔎:
 

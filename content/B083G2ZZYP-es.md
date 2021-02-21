@@ -2,7 +2,7 @@
 layout: post
 title: 'Scholl Desodorante calzado Fresh Step An al 15.00 % de descuento'
 date: 2020-07-07 13:25:04
-image: 'https://m.media-amazon.com/images/I/51GcV2fD-tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GcV2fD-tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.61'
 
 Ahora mismo tienes [Scholl Desodorante calzado Fresh Step Antitranspirante - Elimina el Olor - Spray 150 ml x 5 unidades](https://www.amazon.es/dp/B083G2ZZYP/?tag=tolees-21) a 22.61 EUR (original: 26.6 EUR) (15.00 %  de descuento) en el siguiente enlace!
 
-[![Scholl Desodorante calzado Fresh Step An](https://m.media-amazon.com/images/I/51GcV2fD-tL._SL200_.jpg)](https://www.amazon.es/dp/B083G2ZZYP/?tag=tolees-21)
+[![Scholl Desodorante calzado Fresh Step An](https://m.media-amazon.com/images/I/51GcV2fD-tL._SL400_.jpg)](https://www.amazon.es/dp/B083G2ZZYP/?tag=tolees-21)
 
 🔎:
 

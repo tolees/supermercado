@@ -2,7 +2,7 @@
 layout: post
 title: 'Hackett London Tweed Trim Crew suéter  B al 0.00 % de descuento'
 date: 2020-01-15 20:56:44
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41OxmpHQhyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OxmpHQhyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.47333333333334'
 
 Está [Hackett London Tweed Trim Crew suéter  Beige  Oatmeal 8hw   XL para Hombre](https://www.amazon.es/dp/B079QNLV6B/?tag=tolees-21) con 0.00 de descuento por 77.93 EUR (original: 77.93 EUR) en el siguiente enlace!
 
-[![Hackett London Tweed Trim Crew suéter  B](https://images-eu.ssl-images-amazon.com/images/I/41OxmpHQhyL._SL200_.jpg)](https://www.amazon.es/dp/B079QNLV6B/?tag=tolees-21)
+[![Hackett London Tweed Trim Crew suéter  B](https://images-eu.ssl-images-amazon.com/images/I/41OxmpHQhyL._SL400_.jpg)](https://www.amazon.es/dp/B079QNLV6B/?tag=tolees-21)
 
 ℹ️:
 

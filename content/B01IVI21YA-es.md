@@ -2,7 +2,7 @@
 layout: post
 title: 'Somat Oro Gel Lavavajillas Higiene 50 Do al 5.69 % de descuento'
 date: 2020-06-06 19:56:22
-image: 'https://m.media-amazon.com/images/I/41clg7wk4wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41clg7wk4wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.229999999999999'
 
 Está [Somat Oro Gel Lavavajillas Higiene 50 Dosis](https://www.amazon.es/dp/B01IVI21YA/?tag=tolees-21) con 5.69 de descuento por 8.95 EUR (original: 9.49 EUR) en el siguiente enlace!
 
-[![Somat Oro Gel Lavavajillas Higiene 50 Do](https://m.media-amazon.com/images/I/41clg7wk4wL._SL200_.jpg)](https://www.amazon.es/dp/B01IVI21YA/?tag=tolees-21)
+[![Somat Oro Gel Lavavajillas Higiene 50 Do](https://m.media-amazon.com/images/I/41clg7wk4wL._SL400_.jpg)](https://www.amazon.es/dp/B01IVI21YA/?tag=tolees-21)
 
 ℹ️:
 

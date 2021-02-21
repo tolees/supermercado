@@ -2,7 +2,7 @@
 layout: post
 title: 'La Silla Española Ribadeo Oficina sin Re con un 6.18 % de descuento'
 date: 2020-01-18 17:35:03
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-%2BRvQN7tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-%2BRvQN7tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.54'
 
 En este momento está [La Silla Española Ribadeo Oficina sin Reposacabezas  Poliéster y Rejilla  Rosa  61x58x89 cm  reposabrazos  con ruedas  altura ajustable](https://www.amazon.es/dp/B074MKBJ8M/?tag=tolees-21) a 52.54 EUR (original: 56 EUR) (6.18 %  de descuento) en el siguiente enlace!
 
-[![La Silla Española Ribadeo Oficina sin Re](https://images-eu.ssl-images-amazon.com/images/I/41-%2BRvQN7tL._SL200_.jpg)](https://www.amazon.es/dp/B074MKBJ8M/?tag=tolees-21)
+[![La Silla Española Ribadeo Oficina sin Re](https://images-eu.ssl-images-amazon.com/images/I/41-%2BRvQN7tL._SL400_.jpg)](https://www.amazon.es/dp/B074MKBJ8M/?tag=tolees-21)
 
 🔎:
 

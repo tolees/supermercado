@@ -2,7 +2,7 @@
 layout: post
 title: 'Fontactiv Forte Chocolate - 14 Sobres de al 16.00 % de descuento'
 date: 2020-02-11 11:41:32
-image: 'https://m.media-amazon.com/images/I/61MINExXtXL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61MINExXtXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.92'
 
 Ahora mismo tienes [Fontactiv Forte Chocolate - 14 Sobres de 30gr](https://www.amazon.es/dp/B00TTX2F7U/?tag=tolees-21) a 10.92 EUR (original: 13.0 EUR) (16.00 %  de descuento) en el siguiente enlace!
 
-[![Fontactiv Forte Chocolate - 14 Sobres de](https://m.media-amazon.com/images/I/61MINExXtXL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00TTX2F7U/?tag=tolees-21)
+[![Fontactiv Forte Chocolate - 14 Sobres de](https://m.media-amazon.com/images/I/61MINExXtXL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00TTX2F7U/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Trapa Intenso - Chocolate Blanco con Alm al 19.60 % de descuento'
 date: 2020-04-29 13:10:15
-image: 'https://m.media-amazon.com/images/I/41Fdq8AS37L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Fdq8AS37L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.6'
 
 Está [Trapa Intenso - Chocolate Blanco con Almendras Enteras  175 g](https://www.amazon.es/dp/B07SKHM1VR/?tag=tolees-21) con 19.60 de descuento por 1.6 EUR (original: 1.99 EUR) en el siguiente enlace!
 
-[![Trapa Intenso - Chocolate Blanco con Alm](https://m.media-amazon.com/images/I/41Fdq8AS37L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07SKHM1VR/?tag=tolees-21)
+[![Trapa Intenso - Chocolate Blanco con Alm](https://m.media-amazon.com/images/I/41Fdq8AS37L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07SKHM1VR/?tag=tolees-21)
 
 ℹ️:
 

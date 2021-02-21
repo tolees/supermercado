@@ -2,7 +2,7 @@
 layout: post
 title: 'Font Vella Levité Limón Zero - pack de 6 al 11.63 % de rebaja'
 date: 2020-06-05 12:51:34
-image: 'https://m.media-amazon.com/images/I/51iP2uzOWPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51iP2uzOWPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.84'
 
 Tienes [Font Vella Levité Limón Zero - pack de 6 x 1 25L](https://www.amazon.es/dp/B07YBLG2S9/?tag=tolees-21) con precio final de  6.84 EUR (original: 7.74 EUR) (11.63 %  de rebaja) aqui!
 
-[![Font Vella Levité Limón Zero - pack de 6](https://m.media-amazon.com/images/I/51iP2uzOWPL._SL200_.jpg)](https://www.amazon.es/dp/B07YBLG2S9/?tag=tolees-21)
+[![Font Vella Levité Limón Zero - pack de 6](https://m.media-amazon.com/images/I/51iP2uzOWPL._SL400_.jpg)](https://www.amazon.es/dp/B07YBLG2S9/?tag=tolees-21)
 
 🔎:
 

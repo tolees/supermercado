@@ -2,7 +2,7 @@
 layout: post
 title: 'Foxy - Pañuelos hipoalergénicos - 10 paq al 16.11 % de rebaja'
 date: 2020-02-12 11:56:17
-image: 'https://m.media-amazon.com/images/I/41QYpO2V6SL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QYpO2V6SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.37'
 
 Tienes [Foxy - Pañuelos hipoalergénicos - 10 paquetes x 9 unidades](https://www.amazon.es/dp/B00XDXH4CI/?tag=tolees-21) con precio final de  1.25 EUR (original: 1.49 EUR) (16.11 %  de rebaja) aqui!
 
-[![Foxy - Pañuelos hipoalergénicos - 10 paq](https://m.media-amazon.com/images/I/41QYpO2V6SL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00XDXH4CI/?tag=tolees-21)
+[![Foxy - Pañuelos hipoalergénicos - 10 paq](https://m.media-amazon.com/images/I/41QYpO2V6SL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00XDXH4CI/?tag=tolees-21)
 
 🔎:
 

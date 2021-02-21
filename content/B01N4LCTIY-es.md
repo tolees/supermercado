@@ -2,7 +2,7 @@
 layout: post
 title: 'Elizabeth Arden  Crema corporal - 400 ml al 0.00 % de rebaja'
 date: 2020-01-02 20:03:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Woq6nDD4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Woq6nDD4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.6'
 
 Tienes [Elizabeth Arden  Crema corporal - 400 ml.](https://www.amazon.es/dp/B01N4LCTIY/?tag=tolees-21) con precio final de  19.95 EUR (original: 19.95 EUR) (0.00 %  de rebaja) aqui!
 
-[![Elizabeth Arden  Crema corporal - 400 ml](https://images-eu.ssl-images-amazon.com/images/I/31Woq6nDD4L._SL200_.jpg)](https://www.amazon.es/dp/B01N4LCTIY/?tag=tolees-21)
+[![Elizabeth Arden  Crema corporal - 400 ml](https://images-eu.ssl-images-amazon.com/images/I/31Woq6nDD4L._SL400_.jpg)](https://www.amazon.es/dp/B01N4LCTIY/?tag=tolees-21)
 
 🔎:
 

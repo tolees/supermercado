@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline Superstay 24h 150 Delicious P al 23.73 % de descuento'
 date: 2020-03-03 08:46:29
-image: 'https://m.media-amazon.com/images/I/21bYd0dA5+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21bYd0dA5+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.196666666666667'
 
 Está [Maybelline Superstay 24h 150 Delicious Pink - barras de labios  Rosa  Delicious Pink  24h  1 7 cm  1 7 cm  13 2 cm ](https://www.amazon.es/dp/B004GXH16S/?tag=tolees-21) con 23.73 de descuento por 6.75 EUR (original: 8.85 EUR) en el siguiente enlace!
 
-[![Maybelline Superstay 24h 150 Delicious P](https://m.media-amazon.com/images/I/21bYd0dA5+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B004GXH16S/?tag=tolees-21)
+[![Maybelline Superstay 24h 150 Delicious P](https://m.media-amazon.com/images/I/21bYd0dA5+L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B004GXH16S/?tag=tolees-21)
 
 ℹ️:
 

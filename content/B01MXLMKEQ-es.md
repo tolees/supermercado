@@ -2,7 +2,7 @@
 layout: post
 title: 'Lavazza Café Molido Espresso Club  100%  al 11.83 % de descuento'
 date: 2020-08-01 12:16:20
-image: 'https://m.media-amazon.com/images/I/31Xd-Td0L5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Xd-Td0L5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.3'
 
 Está [Lavazza Café Molido Espresso Club  100% Arábica  Paquete de 3 Latas x 250 g  Total 0 75 kg ](https://www.amazon.es/dp/B01MXLMKEQ/?tag=tolees-21) con 11.83 de descuento por 12.3 EUR (original: 13.95 EUR) en el siguiente enlace!
 
-[![Lavazza Café Molido Espresso Club  100% ](https://m.media-amazon.com/images/I/31Xd-Td0L5L._SL200_.jpg)](https://www.amazon.es/dp/B01MXLMKEQ/?tag=tolees-21)
+[![Lavazza Café Molido Espresso Club  100% ](https://m.media-amazon.com/images/I/31Xd-Td0L5L._SL400_.jpg)](https://www.amazon.es/dp/B01MXLMKEQ/?tag=tolees-21)
 
 ℹ️:
 

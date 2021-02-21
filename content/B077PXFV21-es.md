@@ -2,7 +2,7 @@
 layout: post
 title: 'Sanytol - Ambientador Desinfectante de T al 4.01 % de descuento'
 date: 2020-07-21 18:35:28
-image: 'https://m.media-amazon.com/images/I/414ex-PQRvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414ex-PQRvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.254'
 
 Está [Sanytol - Ambientador Desinfectante de Tejidos en Spray  300 ml](https://www.amazon.es/dp/B077PXFV21/?tag=tolees-21) con 4.01 de descuento por 3.35 EUR (original: 3.49 EUR) en el siguiente enlace!
 
-[![Sanytol - Ambientador Desinfectante de T](https://m.media-amazon.com/images/I/414ex-PQRvL._SL200_.jpg)](https://www.amazon.es/dp/B077PXFV21/?tag=tolees-21)
+[![Sanytol - Ambientador Desinfectante de T](https://m.media-amazon.com/images/I/414ex-PQRvL._SL400_.jpg)](https://www.amazon.es/dp/B077PXFV21/?tag=tolees-21)
 
 ℹ️:
 

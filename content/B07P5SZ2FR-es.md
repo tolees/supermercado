@@ -2,7 +2,7 @@
 layout: post
 title: 'Sunburst Snacks Sunburst anacardos de mi al 10.03 % de descuento'
 date: 2020-04-17 00:32:49
-image: 'https://m.media-amazon.com/images/I/51sSm7XzuiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sSm7XzuiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.59'
 
 Ahora mismo tienes [Sunburst Snacks Sunburst anacardos de miel y canela asadas  sin conservantes  saborizantes o aceites  1 Kg](https://www.amazon.es/dp/B07P5SZ2FR/?tag=tolees-21) a 24.59 EUR (original: 27.33 EUR) (10.03 %  de descuento) en el siguiente enlace!
 
-[![Sunburst Snacks Sunburst anacardos de mi](https://m.media-amazon.com/images/I/51sSm7XzuiL._SL200_.jpg)](https://www.amazon.es/dp/B07P5SZ2FR/?tag=tolees-21)
+[![Sunburst Snacks Sunburst anacardos de mi](https://m.media-amazon.com/images/I/51sSm7XzuiL._SL400_.jpg)](https://www.amazon.es/dp/B07P5SZ2FR/?tag=tolees-21)
 
 🔎:
 

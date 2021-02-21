@@ -2,7 +2,7 @@
 layout: post
 title: 'Mimosín Collection Parfum Suavizante Fle al 5.57 % de descuento'
 date: 2020-01-07 16:22:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41R5BOv%2BTyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R5BOv%2BTyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.44'
 
 Ahora mismo tienes [Mimosín Collection Parfum Suavizante Fleur Rouge - 6 Paquetes de 58 Lavados](https://www.amazon.es/dp/B07QM92MKG/?tag=tolees-21) a 25.44 EUR (original: 26.94 EUR) (5.57 %  de descuento) en el siguiente enlace!
 
-[![Mimosín Collection Parfum Suavizante Fle](https://images-eu.ssl-images-amazon.com/images/I/41R5BOv%2BTyL._SL200_.jpg)](https://www.amazon.es/dp/B07QM92MKG/?tag=tolees-21)
+[![Mimosín Collection Parfum Suavizante Fle](https://images-eu.ssl-images-amazon.com/images/I/41R5BOv%2BTyL._SL400_.jpg)](https://www.amazon.es/dp/B07QM92MKG/?tag=tolees-21)
 
 🔎:
 

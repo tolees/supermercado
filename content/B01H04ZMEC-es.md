@@ -2,7 +2,7 @@
 layout: post
 title: 'Vegetalia  Canela en Rama  - 80 gr al 23.83 % de rebaja'
 date: 2020-02-19 06:33:05
-image: 'https://m.media-amazon.com/images/I/41vWV3cr7wL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vWV3cr7wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.26'
 
 Tienes [Vegetalia  Canela en Rama  - 80 gr](https://www.amazon.es/dp/B01H04ZMEC/?tag=tolees-21) con precio final de  3.26 EUR (original: 4.28 EUR) (23.83 %  de rebaja) aqui!
 
-[![Vegetalia  Canela en Rama  - 80 gr](https://m.media-amazon.com/images/I/41vWV3cr7wL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01H04ZMEC/?tag=tolees-21)
+[![Vegetalia  Canela en Rama  - 80 gr](https://m.media-amazon.com/images/I/41vWV3cr7wL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01H04ZMEC/?tag=tolees-21)
 
 🔎:
 

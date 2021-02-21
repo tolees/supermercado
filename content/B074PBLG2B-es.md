@@ -2,7 +2,7 @@
 layout: post
 title: 'Gliss - Champú Seco Anti-Grasa Mini - Pa al 0.00 % de descuento'
 date: 2020-05-05 09:02:56
-image: 'https://images-eu.ssl-images-amazon.com/images/I/311gZ8ilfZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311gZ8ilfZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.15'
 
 Ahora mismo tienes [Gliss - Champú Seco Anti-Grasa Mini - Para llevar de viaje - 12 uds de 100ml - Schwarzkopf](https://www.amazon.es/dp/B074PBLG2B/?tag=tolees-21) a 2.15 EUR (original: 2.15 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Gliss - Champú Seco Anti-Grasa Mini - Pa](https://images-eu.ssl-images-amazon.com/images/I/311gZ8ilfZL._SL200_.jpg)](https://www.amazon.es/dp/B074PBLG2B/?tag=tolees-21)
+[![Gliss - Champú Seco Anti-Grasa Mini - Pa](https://images-eu.ssl-images-amazon.com/images/I/311gZ8ilfZL._SL400_.jpg)](https://www.amazon.es/dp/B074PBLG2B/?tag=tolees-21)
 
 🔎:
 

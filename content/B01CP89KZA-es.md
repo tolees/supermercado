@@ -2,7 +2,7 @@
 layout: post
 title: 'Mentos Chicle Frutas Silvestres  Sin Azú al 19.97 % de rebaja'
 date: 2020-03-07 17:16:11
-image: 'https://m.media-amazon.com/images/I/51LheUgPHVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LheUgPHVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.54'
 
 Tienes [Mentos Chicle Frutas Silvestres  Sin Azúcar - 10 unidades de 30 gr/ud](https://www.amazon.es/dp/B01CP89KZA/?tag=tolees-21) con precio final de  11.54 EUR (original: 14.42 EUR) (19.97 %  de rebaja) aqui!
 
-[![Mentos Chicle Frutas Silvestres  Sin Azú](https://m.media-amazon.com/images/I/51LheUgPHVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01CP89KZA/?tag=tolees-21)
+[![Mentos Chicle Frutas Silvestres  Sin Azú](https://m.media-amazon.com/images/I/51LheUgPHVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01CP89KZA/?tag=tolees-21)
 
 🔎:
 

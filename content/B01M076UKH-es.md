@@ -2,7 +2,7 @@
 layout: post
 title: 'President Leche Entera - 6 x 1 L al 2.78 % de descuento'
 date: 2020-06-29 06:39:24
-image: 'https://m.media-amazon.com/images/I/51o2XTA9CNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51o2XTA9CNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.035'
 
 Está [President Leche Entera - 6 x 1 L](https://www.amazon.es/dp/B01M076UKH/?tag=tolees-21) con 2.78 de descuento por 4.2 EUR (original: 4.32 EUR) en el siguiente enlace!
 
-[![President Leche Entera - 6 x 1 L](https://m.media-amazon.com/images/I/51o2XTA9CNL._SL200_.jpg)](https://www.amazon.es/dp/B01M076UKH/?tag=tolees-21)
+[![President Leche Entera - 6 x 1 L](https://m.media-amazon.com/images/I/51o2XTA9CNL._SL400_.jpg)](https://www.amazon.es/dp/B01M076UKH/?tag=tolees-21)
 
 ℹ️:
 

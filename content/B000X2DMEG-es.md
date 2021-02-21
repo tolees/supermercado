@@ -2,7 +2,7 @@
 layout: post
 title: 'American Crew Pomada de fijación  fijaci al 23.08 % de descuento'
 date: 2020-03-27 23:50:33
-image: 'https://m.media-amazon.com/images/I/41IBzTem+eL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IBzTem+eL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.365'
 
 Ahora mismo tienes [American Crew Pomada de fijación  fijación media / brillo alto   85 g](https://www.amazon.es/dp/B000X2DMEG/?tag=tolees-21) a 10.9 EUR (original: 14.17 EUR) (23.08 %  de descuento) en el siguiente enlace!
 
-[![American Crew Pomada de fijación  fijaci](https://m.media-amazon.com/images/I/41IBzTem+eL._SL200_.jpg)](https://www.amazon.es/dp/B000X2DMEG/?tag=tolees-21)
+[![American Crew Pomada de fijación  fijaci](https://m.media-amazon.com/images/I/41IBzTem+eL._SL400_.jpg)](https://www.amazon.es/dp/B000X2DMEG/?tag=tolees-21)
 
 🔎:
 

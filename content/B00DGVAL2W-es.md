@@ -2,7 +2,7 @@
 layout: post
 title: 'Cardhu 15 Años Whisky Escocés - 700 ml al 14.65 % de descuento'
 date: 2020-05-22 15:15:58
-image: 'https://m.media-amazon.com/images/I/51IfOSktCwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IfOSktCwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.37'
 
 Ahora mismo tienes [Cardhu 15 Años Whisky Escocés - 700 ml](https://www.amazon.es/dp/B00DGVAL2W/?tag=tolees-21) a 38.74 EUR (original: 45.39 EUR) (14.65 %  de descuento) en el siguiente enlace!
 
-[![Cardhu 15 Años Whisky Escocés - 700 ml](https://m.media-amazon.com/images/I/51IfOSktCwL._SL200_.jpg)](https://www.amazon.es/dp/B00DGVAL2W/?tag=tolees-21)
+[![Cardhu 15 Años Whisky Escocés - 700 ml](https://m.media-amazon.com/images/I/51IfOSktCwL._SL400_.jpg)](https://www.amazon.es/dp/B00DGVAL2W/?tag=tolees-21)
 
 🔎:
 

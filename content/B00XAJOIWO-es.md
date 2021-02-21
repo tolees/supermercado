@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 11.65 % en Iberia Tinte Textil Color Chocolate - 70'
 date: 2020-05-25 10:40:32
-image: 'https://m.media-amazon.com/images/I/41461FFbZOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41461FFbZOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.2'
 
 Tienes [Iberia Tinte Textil Color Chocolate - 70 gr](https://www.amazon.es/dp/B00XAJOIWO/?tag=tolees-21) con un 11.65 % de descuento con precio de oferta de 2.2 EUR (original: 2.49 EUR) en el siguiente enlace!
 
-[![Iberia Tinte Textil Color Chocolate - 70](https://m.media-amazon.com/images/I/41461FFbZOL._SL200_.jpg)](https://www.amazon.es/dp/B00XAJOIWO/?tag=tolees-21)
+[![Iberia Tinte Textil Color Chocolate - 70](https://m.media-amazon.com/images/I/41461FFbZOL._SL400_.jpg)](https://www.amazon.es/dp/B00XAJOIWO/?tag=tolees-21)
 
 ℹ️:
 

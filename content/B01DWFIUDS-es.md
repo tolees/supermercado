@@ -2,7 +2,7 @@
 layout: post
 title: 'Colgate Plax Rojo Enjuague - Pack de 4 x al 0.00 % de descuento'
 date: 2020-01-17 01:33:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/515TnDv8mgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515TnDv8mgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.73'
 
 Está [Colgate Plax Rojo Enjuague - Pack de 4 x 500 ml](https://www.amazon.es/dp/B01DWFIUDS/?tag=tolees-21) con 0.00 de descuento por 7.73 EUR (original: 7.73 EUR) en el siguiente enlace!
 
-[![Colgate Plax Rojo Enjuague - Pack de 4 x](https://images-eu.ssl-images-amazon.com/images/I/515TnDv8mgL._SL200_.jpg)](https://www.amazon.es/dp/B01DWFIUDS/?tag=tolees-21)
+[![Colgate Plax Rojo Enjuague - Pack de 4 x](https://images-eu.ssl-images-amazon.com/images/I/515TnDv8mgL._SL400_.jpg)](https://www.amazon.es/dp/B01DWFIUDS/?tag=tolees-21)
 
 ℹ️:
 

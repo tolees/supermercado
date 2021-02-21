@@ -2,7 +2,7 @@
 layout: post
 title: 'Braun Oral-B Genius PRO9000 Cepillo de D al 0.00 % de descuento'
 date: 2020-12-23 13:02:06
-image: 'https://m.media-amazon.com/images/I/318uut5KOlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318uut5KOlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: 'None'
 
 Está [Braun Oral-B Genius PRO9000 Cepillo de Dientes  Color Negro](https://www.amazon.es/dp/B07S86GTTT/?tag=tolees-21) con 0.00 de descuento por None None (original: None None) en el siguiente enlace!
 
-[![Braun Oral-B Genius PRO9000 Cepillo de D](https://m.media-amazon.com/images/I/318uut5KOlL._SL200_.jpg)](https://www.amazon.es/dp/B07S86GTTT/?tag=tolees-21)
+[![Braun Oral-B Genius PRO9000 Cepillo de D](https://m.media-amazon.com/images/I/318uut5KOlL._SL400_.jpg)](https://www.amazon.es/dp/B07S86GTTT/?tag=tolees-21)
 
 ℹ️:
 

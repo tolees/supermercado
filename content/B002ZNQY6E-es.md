@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline Roller Color Loose Powder Eye al 0.00 % de descuento'
 date: 2020-01-10 19:06:27
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ogOItv3ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ogOItv3ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.43'
 
 Está [Maybelline Roller Color Loose Powder Eye Shadow Plata](https://www.amazon.es/dp/B002ZNQY6E/?tag=tolees-21) con 0.00 de descuento por 1.09 EUR (original: 1.09 EUR) en el siguiente enlace!
 
-[![Maybelline Roller Color Loose Powder Eye](https://images-eu.ssl-images-amazon.com/images/I/31ogOItv3ZL._SL200_.jpg)](https://www.amazon.es/dp/B002ZNQY6E/?tag=tolees-21)
+[![Maybelline Roller Color Loose Powder Eye](https://images-eu.ssl-images-amazon.com/images/I/31ogOItv3ZL._SL400_.jpg)](https://www.amazon.es/dp/B002ZNQY6E/?tag=tolees-21)
 
 ℹ️:
 

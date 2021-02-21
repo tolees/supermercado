@@ -2,7 +2,7 @@
 layout: post
 title: 'Roku Ginebra + Tónica y Vaso  70 cl al 4.56 % de rebaja'
 date: 2020-07-06 16:41:52
-image: 'https://m.media-amazon.com/images/I/51pa-RtjVHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pa-RtjVHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.36666666666667'
 
 Tienes [Roku Ginebra + Tónica y Vaso  70 cl](https://www.amazon.es/dp/B081F8N4VL/?tag=tolees-21) con precio final de  20.95 EUR (original: 21.95 EUR) (4.56 %  de rebaja) aqui!
 
-[![Roku Ginebra + Tónica y Vaso  70 cl](https://m.media-amazon.com/images/I/51pa-RtjVHL._SL200_.jpg)](https://www.amazon.es/dp/B081F8N4VL/?tag=tolees-21)
+[![Roku Ginebra + Tónica y Vaso  70 cl](https://m.media-amazon.com/images/I/51pa-RtjVHL._SL400_.jpg)](https://www.amazon.es/dp/B081F8N4VL/?tag=tolees-21)
 
 🔎:
 

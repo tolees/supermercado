@@ -2,7 +2,7 @@
 layout: post
 title: 'Colgate Max White Expert Complete Dentíf con un 0.00 % de descuento'
 date: 2020-01-19 20:40:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51JftzMfBhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JftzMfBhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.4'
 
 En este momento está [Colgate Max White Expert Complete Dentífrico  75 ml  paquete de 4](https://www.amazon.es/dp/B072MB3SQD/?tag=tolees-21) a 19.4 EUR (original: 19.4 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Colgate Max White Expert Complete Dentíf](https://images-eu.ssl-images-amazon.com/images/I/51JftzMfBhL._SL200_.jpg)](https://www.amazon.es/dp/B072MB3SQD/?tag=tolees-21)
+[![Colgate Max White Expert Complete Dentíf](https://images-eu.ssl-images-amazon.com/images/I/51JftzMfBhL._SL400_.jpg)](https://www.amazon.es/dp/B072MB3SQD/?tag=tolees-21)
 
 🔎:
 

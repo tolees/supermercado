@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 0.00 % en NUK Detergente para Biberones'
 date: 2021-01-15 22:12:48
-image: 'https://m.media-amazon.com/images/I/41pb7rSDVqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pb7rSDVqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: 'None'
 
 Tienes [NUK Detergente para Biberones](https://www.amazon.es/dp/B08CP33G5V/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de None None (original: None None) en el siguiente enlace!
 
-[![NUK Detergente para Biberones](https://m.media-amazon.com/images/I/41pb7rSDVqL._SL200_.jpg)](https://www.amazon.es/dp/B08CP33G5V/?tag=tolees-21)
+[![NUK Detergente para Biberones](https://m.media-amazon.com/images/I/41pb7rSDVqL._SL400_.jpg)](https://www.amazon.es/dp/B08CP33G5V/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Café Fortaleza Café Grano Natural - 500  al 0.00 % de descuento'
 date: 2020-01-20 20:33:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41gJDyrcqOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gJDyrcqOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.17'
 
 Está [Café Fortaleza Café Grano Natural - 500 gr - [Pack de 3]](https://www.amazon.es/dp/B01MXLMPRZ/?tag=tolees-21) con 0.00 de descuento por 16.17 EUR (original: 16.17 EUR) en el siguiente enlace!
 
-[![Café Fortaleza Café Grano Natural - 500 ](https://images-eu.ssl-images-amazon.com/images/I/41gJDyrcqOL._SL200_.jpg)](https://www.amazon.es/dp/B01MXLMPRZ/?tag=tolees-21)
+[![Café Fortaleza Café Grano Natural - 500 ](https://images-eu.ssl-images-amazon.com/images/I/41gJDyrcqOL._SL400_.jpg)](https://www.amazon.es/dp/B01MXLMPRZ/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Schwarzkopf  Champú - 2 de 1 unidad al 0.00 % de descuento'
 date: 2020-01-13 20:36:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31R3LmXJRnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31R3LmXJRnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.4'
 
 Ahora mismo tienes [Schwarzkopf  Champú - 2 de 1 unidad](https://www.amazon.es/dp/B07JF2NQXV/?tag=tolees-21) a 8.4 EUR (original: 8.4 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Schwarzkopf  Champú - 2 de 1 unidad](https://images-eu.ssl-images-amazon.com/images/I/31R3LmXJRnL._SL200_.jpg)](https://www.amazon.es/dp/B07JF2NQXV/?tag=tolees-21)
+[![Schwarzkopf  Champú - 2 de 1 unidad](https://images-eu.ssl-images-amazon.com/images/I/31R3LmXJRnL._SL400_.jpg)](https://www.amazon.es/dp/B07JF2NQXV/?tag=tolees-21)
 
 🔎:
 

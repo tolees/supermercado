@@ -2,7 +2,7 @@
 layout: post
 title: 'Alhambra Especial Cerveza Dorada Lager   al 7.17 % de descuento'
 date: 2020-03-22 17:35:32
-image: 'https://m.media-amazon.com/images/I/41nHH5z4RCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nHH5z4RCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.765'
 
 Ahora mismo tienes [Alhambra Especial Cerveza Dorada Lager  5.4% Volumen de Alcohol - Pack de 6 x 25 cl](https://www.amazon.es/dp/B077Y2HHDD/?tag=tolees-21) a 2.72 EUR (original: 2.93 EUR) (7.17 %  de descuento) en el siguiente enlace!
 
-[![Alhambra Especial Cerveza Dorada Lager  ](https://m.media-amazon.com/images/I/41nHH5z4RCL._SL200_.jpg)](https://www.amazon.es/dp/B077Y2HHDD/?tag=tolees-21)
+[![Alhambra Especial Cerveza Dorada Lager  ](https://m.media-amazon.com/images/I/41nHH5z4RCL._SL400_.jpg)](https://www.amazon.es/dp/B077Y2HHDD/?tag=tolees-21)
 
 🔎:
 

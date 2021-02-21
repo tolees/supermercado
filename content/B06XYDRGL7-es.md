@@ -2,7 +2,7 @@
 layout: post
 title: 'Diadermine - Pack Expert Rejuvenecedor   al 23.28 % de descuento'
 date: 2020-06-18 08:47:54
-image: 'https://m.media-amazon.com/images/I/51UN6HziVUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UN6HziVUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.141428571428571'
 
 Ahora mismo tienes [Diadermine - Pack Expert Rejuvenecedor  Crema Día + Contorno de Ojos  Pieles Maduras  65 ml  50 ml +15 ml ](https://www.amazon.es/dp/B06XYDRGL7/?tag=tolees-21) a 11.5 EUR (original: 14.99 EUR) (23.28 %  de descuento) en el siguiente enlace!
 
-[![Diadermine - Pack Expert Rejuvenecedor  ](https://m.media-amazon.com/images/I/51UN6HziVUL._SL200_.jpg)](https://www.amazon.es/dp/B06XYDRGL7/?tag=tolees-21)
+[![Diadermine - Pack Expert Rejuvenecedor  ](https://m.media-amazon.com/images/I/51UN6HziVUL._SL400_.jpg)](https://www.amazon.es/dp/B06XYDRGL7/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Oral-B Dentífrico Pro Expert Blancura Sa al 16.33 % de descuento'
 date: 2020-02-14 11:48:38
-image: 'https://m.media-amazon.com/images/I/41o9VfkssZL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41o9VfkssZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.92'
 
 Ahora mismo tienes [Oral-B Dentífrico Pro Expert Blancura Saludable - 75 ml](https://www.amazon.es/dp/B07MM5Z67L/?tag=tolees-21) a 2.92 EUR (original: 3.49 EUR) (16.33 %  de descuento) en el siguiente enlace!
 
-[![Oral-B Dentífrico Pro Expert Blancura Sa](https://m.media-amazon.com/images/I/41o9VfkssZL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MM5Z67L/?tag=tolees-21)
+[![Oral-B Dentífrico Pro Expert Blancura Sa](https://m.media-amazon.com/images/I/41o9VfkssZL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MM5Z67L/?tag=tolees-21)
 
 🔎:
 

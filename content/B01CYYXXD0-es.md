@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 21.26 % en Lea Champú para Barba Purificante y Suav'
 date: 2020-03-10 13:39:57
-image: 'https://m.media-amazon.com/images/I/41RVp89DjXL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RVp89DjXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.33'
 
 Tienes [Lea Champú para Barba Purificante y Suavizante - 100 ml](https://www.amazon.es/dp/B01CYYXXD0/?tag=tolees-21) con un 21.26 % de descuento con precio de oferta de 6.26 EUR (original: 7.95 EUR) en el siguiente enlace!
 
-[![Lea Champú para Barba Purificante y Suav](https://m.media-amazon.com/images/I/41RVp89DjXL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01CYYXXD0/?tag=tolees-21)
+[![Lea Champú para Barba Purificante y Suav](https://m.media-amazon.com/images/I/41RVp89DjXL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01CYYXXD0/?tag=tolees-21)
 
 ℹ️:
 

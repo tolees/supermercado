@@ -2,7 +2,7 @@
 layout: post
 title: 'Johnson s Baby - Acondicionador No Más T al 20.06 % de descuento'
 date: 2020-09-12 14:58:59
-image: 'https://m.media-amazon.com/images/I/31xhHoPL-+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xhHoPL-+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.79'
 
 Ahora mismo tienes [Johnson s Baby - Acondicionador No Más Tirones para Niños  500 ml](https://www.amazon.es/dp/B082VTG7VK/?tag=tolees-21) a 2.79 EUR (original: 3.49 EUR) (20.06 %  de descuento) en el siguiente enlace!
 
-[![Johnson s Baby - Acondicionador No Más T](https://m.media-amazon.com/images/I/31xhHoPL-+L._SL200_.jpg)](https://www.amazon.es/dp/B082VTG7VK/?tag=tolees-21)
+[![Johnson s Baby - Acondicionador No Más T](https://m.media-amazon.com/images/I/31xhHoPL-+L._SL400_.jpg)](https://www.amazon.es/dp/B082VTG7VK/?tag=tolees-21)
 
 🔎:
 

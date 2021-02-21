@@ -2,7 +2,7 @@
 layout: post
 title: 'Helios Mermelada Extra Naranja Amarga -  al 0.00 % de descuento'
 date: 2020-01-16 20:58:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51s69q9XT5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51s69q9XT5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.050000000000001'
 
 Está [Helios Mermelada Extra Naranja Amarga - 340 gr -   Pack de 6](https://www.amazon.es/dp/B01MXVBE1L/?tag=tolees-21) con 0.00 de descuento por 6.9 EUR (original: 6.9 EUR) en el siguiente enlace!
 
-[![Helios Mermelada Extra Naranja Amarga - ](https://images-eu.ssl-images-amazon.com/images/I/51s69q9XT5L._SL200_.jpg)](https://www.amazon.es/dp/B01MXVBE1L/?tag=tolees-21)
+[![Helios Mermelada Extra Naranja Amarga - ](https://images-eu.ssl-images-amazon.com/images/I/51s69q9XT5L._SL400_.jpg)](https://www.amazon.es/dp/B01MXVBE1L/?tag=tolees-21)
 
 ℹ️:
 

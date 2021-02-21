@@ -2,7 +2,7 @@
 layout: post
 title: 'Baby Dove - Gel de Baño Hidratación Prof al 8.03 % de rebaja'
 date: 2020-09-29 18:40:32
-image: 'https://m.media-amazon.com/images/I/31ZhNqFZLtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZhNqFZLtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.83'
 
 Tienes [Baby Dove - Gel de Baño Hidratación Profunda para Bebés - 400 ml](https://www.amazon.es/dp/B07G59GQBS/?tag=tolees-21) con precio final de  2.75 EUR (original: 2.99 EUR) (8.03 %  de rebaja) aqui!
 
-[![Baby Dove - Gel de Baño Hidratación Prof](https://m.media-amazon.com/images/I/31ZhNqFZLtL._SL200_.jpg)](https://www.amazon.es/dp/B07G59GQBS/?tag=tolees-21)
+[![Baby Dove - Gel de Baño Hidratación Prof](https://m.media-amazon.com/images/I/31ZhNqFZLtL._SL400_.jpg)](https://www.amazon.es/dp/B07G59GQBS/?tag=tolees-21)
 
 🔎:
 

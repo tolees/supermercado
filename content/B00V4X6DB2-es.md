@@ -2,7 +2,7 @@
 layout: post
 title: 'Jim Beam Apple Bourbon Whisky con Licor  al 11.32 % de descuento'
 date: 2020-05-19 17:36:51
-image: 'https://m.media-amazon.com/images/I/41lDE85IA0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lDE85IA0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.75'
 
 Ahora mismo tienes [Jim Beam Apple Bourbon Whisky con Licor de Manzana  35% - 700 ml](https://www.amazon.es/dp/B00V4X6DB2/?tag=tolees-21) a 11.75 EUR (original: 13.25 EUR) (11.32 %  de descuento) en el siguiente enlace!
 
-[![Jim Beam Apple Bourbon Whisky con Licor ](https://m.media-amazon.com/images/I/41lDE85IA0L._SL200_.jpg)](https://www.amazon.es/dp/B00V4X6DB2/?tag=tolees-21)
+[![Jim Beam Apple Bourbon Whisky con Licor ](https://m.media-amazon.com/images/I/41lDE85IA0L._SL400_.jpg)](https://www.amazon.es/dp/B00V4X6DB2/?tag=tolees-21)
 
 🔎:
 

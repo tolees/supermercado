@@ -2,7 +2,7 @@
 layout: post
 title: 'Singleton Glendullan - Whisky escocés pu al 15.00 % de rebaja'
 date: 2020-09-03 16:43:30
-image: 'https://m.media-amazon.com/images/I/51Mu0jUK5hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Mu0jUK5hL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.7'
 
 Tienes [Singleton Glendullan - Whisky escocés puro de malta - Edición limitada Juego de Tronos: Casa Tully  700 ml](https://www.amazon.es/dp/B07LG9ZGQC/?tag=tolees-21) con precio final de  35.7 EUR (original: 42.0 EUR) (15.00 %  de rebaja) aqui!
 
-[![Singleton Glendullan - Whisky escocés pu](https://m.media-amazon.com/images/I/51Mu0jUK5hL._SL200_.jpg)](https://www.amazon.es/dp/B07LG9ZGQC/?tag=tolees-21)
+[![Singleton Glendullan - Whisky escocés pu](https://m.media-amazon.com/images/I/51Mu0jUK5hL._SL400_.jpg)](https://www.amazon.es/dp/B07LG9ZGQC/?tag=tolees-21)
 
 🔎:
 

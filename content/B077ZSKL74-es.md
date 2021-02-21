@@ -2,7 +2,7 @@
 layout: post
 title: 'Alargador de antena N Macho a SMA macho  al 0.00 % de rebaja'
 date: 2020-01-15 08:39:36
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41UtiDZnZNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UtiDZnZNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.76'
 
 Tienes [Alargador de antena N Macho a SMA macho Enchufe 5 m RG58 Coaxial Cable Pigtail para CB aficionados Two-way radio 3 G 4 G LTE jamón ADS-B GPS Radio RF para antena](https://www.amazon.es/dp/B077ZSKL74/?tag=tolees-21) con precio final de  14.76 EUR (original: 14.76 EUR) (0.00 %  de rebaja) aqui!
 
-[![Alargador de antena N Macho a SMA macho ](https://images-eu.ssl-images-amazon.com/images/I/41UtiDZnZNL._SL200_.jpg)](https://www.amazon.es/dp/B077ZSKL74/?tag=tolees-21)
+[![Alargador de antena N Macho a SMA macho ](https://images-eu.ssl-images-amazon.com/images/I/41UtiDZnZNL._SL400_.jpg)](https://www.amazon.es/dp/B077ZSKL74/?tag=tolees-21)
 
 🔎:
 

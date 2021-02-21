@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 0.00 % en Cuétara - Napolitanas - Con un toque de '
 date: 2020-01-05 11:04:20
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BifOHvT2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BifOHvT2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.22'
 
 Tienes [Cuétara - Napolitanas - Con un toque de deliciosa canela 500 gr - Pack de 2  Total 1000 grams ](https://www.amazon.es/dp/B01M0S5HJY/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 2.22 EUR (original: 2.22 EUR) en el siguiente enlace!
 
-[![Cuétara - Napolitanas - Con un toque de ](https://images-eu.ssl-images-amazon.com/images/I/51%2BifOHvT2L._SL200_.jpg)](https://www.amazon.es/dp/B01M0S5HJY/?tag=tolees-21)
+[![Cuétara - Napolitanas - Con un toque de ](https://images-eu.ssl-images-amazon.com/images/I/51%2BifOHvT2L._SL400_.jpg)](https://www.amazon.es/dp/B01M0S5HJY/?tag=tolees-21)
 
 ℹ️:
 

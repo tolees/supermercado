@@ -2,7 +2,7 @@
 layout: post
 title: 'Garnier Delial After Sun Leche Hidratant con un 9.45 % de descuento'
 date: 2020-07-12 11:43:30
-image: 'https://m.media-amazon.com/images/I/41eIapU60GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eIapU60GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.15'
 
 En este momento está [Garnier Delial After Sun Leche Hidratante Calmante con Aloe Vera Natural - 400 ml](https://www.amazon.es/dp/B00X9TN93O/?tag=tolees-21) a 5.75 EUR (original: 6.35 EUR) (9.45 %  de descuento) en el siguiente enlace!
 
-[![Garnier Delial After Sun Leche Hidratant](https://m.media-amazon.com/images/I/41eIapU60GL._SL200_.jpg)](https://www.amazon.es/dp/B00X9TN93O/?tag=tolees-21)
+[![Garnier Delial After Sun Leche Hidratant](https://m.media-amazon.com/images/I/41eIapU60GL._SL400_.jpg)](https://www.amazon.es/dp/B00X9TN93O/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'KUNSE Mezclador Eléctrico Auto Portátil  al 21.88 % de descuento'
 date: 2020-03-31 10:53:11
-image: 'https://m.media-amazon.com/images/I/41rdBDRGIdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rdBDRGIdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.64'
 
 Ahora mismo tienes [KUNSE Mezclador Eléctrico Auto Portátil De La Proteína Shaker Leche Café Bebida Botella Evolution Vortex](https://www.amazon.es/dp/B07MX3K67R/?tag=tolees-21) a 22.64 EUR (original: 28.98 EUR) (21.88 %  de descuento) en el siguiente enlace!
 
-[![KUNSE Mezclador Eléctrico Auto Portátil ](https://m.media-amazon.com/images/I/41rdBDRGIdL._SL200_.jpg)](https://www.amazon.es/dp/B07MX3K67R/?tag=tolees-21)
+[![KUNSE Mezclador Eléctrico Auto Portátil ](https://m.media-amazon.com/images/I/41rdBDRGIdL._SL400_.jpg)](https://www.amazon.es/dp/B07MX3K67R/?tag=tolees-21)
 
 🔎:
 

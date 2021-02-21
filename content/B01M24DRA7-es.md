@@ -2,7 +2,7 @@
 layout: post
 title: 'Fairy Ultra - Líquido lavavajillas  1015 al 19.90 % de descuento'
 date: 2020-06-11 12:50:34
-image: 'https://m.media-amazon.com/images/I/41KVMKnKXZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KVMKnKXZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.296666666666667'
 
 Ahora mismo tienes [Fairy Ultra - Líquido lavavajillas  1015 ml](https://www.amazon.es/dp/B01M24DRA7/?tag=tolees-21) a 3.18 EUR (original: 3.97 EUR) (19.90 %  de descuento) en el siguiente enlace!
 
-[![Fairy Ultra - Líquido lavavajillas  1015](https://m.media-amazon.com/images/I/41KVMKnKXZL._SL200_.jpg)](https://www.amazon.es/dp/B01M24DRA7/?tag=tolees-21)
+[![Fairy Ultra - Líquido lavavajillas  1015](https://m.media-amazon.com/images/I/41KVMKnKXZL._SL400_.jpg)](https://www.amazon.es/dp/B01M24DRA7/?tag=tolees-21)
 
 🔎:
 

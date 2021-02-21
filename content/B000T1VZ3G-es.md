@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Men Expert Gel Hidratante Antifa con un 0.00 % de descuento'
 date: 2020-01-16 18:05:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/517dj24AtpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517dj24AtpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.66'
 
 En este momento está [L Oréal Men Expert Gel Hidratante Antifatiga - 50 ml](https://www.amazon.es/dp/B000T1VZ3G/?tag=tolees-21) a 7.66 EUR (original: 7.66 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![L Oréal Men Expert Gel Hidratante Antifa](https://images-eu.ssl-images-amazon.com/images/I/517dj24AtpL._SL200_.jpg)](https://www.amazon.es/dp/B000T1VZ3G/?tag=tolees-21)
+[![L Oréal Men Expert Gel Hidratante Antifa](https://images-eu.ssl-images-amazon.com/images/I/517dj24AtpL._SL400_.jpg)](https://www.amazon.es/dp/B000T1VZ3G/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mical Bolsas de basura  55 x 60 cm  colo al 22.47 % de rebaja'
 date: 2020-06-06 18:56:45
-image: 'https://m.media-amazon.com/images/I/41Vy7IqpZVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Vy7IqpZVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.69'
 
 Tienes [Mical Bolsas de basura  55 x 60 cm  color azul - 15 Unidades](https://www.amazon.es/dp/B01NH9H2K4/?tag=tolees-21) con precio final de  0.69 EUR (original: 0.89 EUR) (22.47 %  de rebaja) aqui!
 
-[![Mical Bolsas de basura  55 x 60 cm  colo](https://m.media-amazon.com/images/I/41Vy7IqpZVL._SL200_.jpg)](https://www.amazon.es/dp/B01NH9H2K4/?tag=tolees-21)
+[![Mical Bolsas de basura  55 x 60 cm  colo](https://m.media-amazon.com/images/I/41Vy7IqpZVL._SL400_.jpg)](https://www.amazon.es/dp/B01NH9H2K4/?tag=tolees-21)
 
 🔎:
 

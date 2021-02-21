@@ -2,7 +2,7 @@
 layout: post
 title: 'Royal Lochnagar - Whisky escocés puro de al 15.00 % de descuento'
 date: 2020-08-31 13:23:47
-image: 'https://m.media-amazon.com/images/I/41QF7FqFocL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QF7FqFocL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.7'
 
 Está [Royal Lochnagar - Whisky escocés puro de malta  Edición limitada Juego de Tronos: Casa Baratheon  700 ml](https://www.amazon.es/dp/B07LGB1HCG/?tag=tolees-21) con 15.00 de descuento por 35.7 EUR (original: 42.0 EUR) en el siguiente enlace!
 
-[![Royal Lochnagar - Whisky escocés puro de](https://m.media-amazon.com/images/I/41QF7FqFocL._SL200_.jpg)](https://www.amazon.es/dp/B07LGB1HCG/?tag=tolees-21)
+[![Royal Lochnagar - Whisky escocés puro de](https://m.media-amazon.com/images/I/41QF7FqFocL._SL400_.jpg)](https://www.amazon.es/dp/B07LGB1HCG/?tag=tolees-21)
 
 ℹ️:
 

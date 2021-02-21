@@ -2,7 +2,7 @@
 layout: post
 title: 'Revlon Professional UniqOne Coco Champú  al 24.89 % de descuento'
 date: 2020-02-11 08:39:00
-image: 'https://m.media-amazon.com/images/I/41TmAOfHZfL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TmAOfHZfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.323333333333334'
 
 Está [Revlon Professional UniqOne Coco Champú Acondicionador 300 ml](https://www.amazon.es/dp/B00RN8WE6U/?tag=tolees-21) con 24.89 de descuento por 8.48 EUR (original: 11.29 EUR) en el siguiente enlace!
 
-[![Revlon Professional UniqOne Coco Champú ](https://m.media-amazon.com/images/I/41TmAOfHZfL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00RN8WE6U/?tag=tolees-21)
+[![Revlon Professional UniqOne Coco Champú ](https://m.media-amazon.com/images/I/41TmAOfHZfL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00RN8WE6U/?tag=tolees-21)
 
 ℹ️:
 

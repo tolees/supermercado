@@ -2,7 +2,7 @@
 layout: post
 title: 'Chorizo Herradura No Picante  Embutidos  al 0.00 % de rebaja'
 date: 2020-01-15 12:04:14
-image: 'https://images-eu.ssl-images-amazon.com/images/I/413FJ3v9i7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413FJ3v9i7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Tienes [Chorizo Herradura No Picante  Embutidos Ezequiel  500 gramos](https://www.amazon.es/dp/B01MQU9REB/?tag=tolees-21) con precio final de  5.99 EUR (original: 5.99 EUR) (0.00 %  de rebaja) aqui!
 
-[![Chorizo Herradura No Picante  Embutidos ](https://images-eu.ssl-images-amazon.com/images/I/413FJ3v9i7L._SL200_.jpg)](https://www.amazon.es/dp/B01MQU9REB/?tag=tolees-21)
+[![Chorizo Herradura No Picante  Embutidos ](https://images-eu.ssl-images-amazon.com/images/I/413FJ3v9i7L._SL400_.jpg)](https://www.amazon.es/dp/B01MQU9REB/?tag=tolees-21)
 
 🔎:
 

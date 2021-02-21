@@ -2,7 +2,7 @@
 layout: post
 title: 'True Instinct Original - Pienso para Gat al 20.00 % de rebaja'
 date: 2020-02-28 16:48:55
-image: 'https://m.media-amazon.com/images/I/41XW5WvNiuL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XW5WvNiuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.84'
 
 Tienes [True Instinct Original - Pienso para Gato Adulto con Pollo y arroz Integral - 1.25 kg](https://www.amazon.es/dp/B01FFU04QY/?tag=tolees-21) con precio final de  7.84 EUR (original: 9.8 EUR) (20.00 %  de rebaja) aqui!
 
-[![True Instinct Original - Pienso para Gat](https://m.media-amazon.com/images/I/41XW5WvNiuL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01FFU04QY/?tag=tolees-21)
+[![True Instinct Original - Pienso para Gat](https://m.media-amazon.com/images/I/41XW5WvNiuL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01FFU04QY/?tag=tolees-21)
 
 🔎:
 

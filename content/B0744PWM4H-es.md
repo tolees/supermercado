@@ -2,7 +2,7 @@
 layout: post
 title: 'Holle Papilla de Copos de Avena  +4 mese al 22.35 % de rebaja'
 date: 2020-06-12 19:40:14
-image: 'https://m.media-amazon.com/images/I/51r0cB04yhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51r0cB04yhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.8'
 
 Tienes [Holle Papilla de Copos de Avena  +4 meses  - Paquete de 6 x 250 gr - Total: 1500 gr](https://www.amazon.es/dp/B0744PWM4H/?tag=tolees-21) con precio final de  19.8 EUR (original: 25.5 EUR) (22.35 %  de rebaja) aqui!
 
-[![Holle Papilla de Copos de Avena  +4 mese](https://m.media-amazon.com/images/I/51r0cB04yhL._SL200_.jpg)](https://www.amazon.es/dp/B0744PWM4H/?tag=tolees-21)
+[![Holle Papilla de Copos de Avena  +4 mese](https://m.media-amazon.com/images/I/51r0cB04yhL._SL400_.jpg)](https://www.amazon.es/dp/B0744PWM4H/?tag=tolees-21)
 
 🔎:
 

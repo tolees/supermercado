@@ -2,7 +2,7 @@
 layout: post
 title: 'Gillette Venus Snap Recambios para Maqui al 12.57 % de descuento'
 date: 2020-08-14 20:03:40
-image: 'https://m.media-amazon.com/images/I/61EnHgvAPuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61EnHgvAPuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.86'
 
 Ahora mismo tienes [Gillette Venus Snap Recambios para Maquinilla](https://www.amazon.es/dp/B06Y17N7XT/?tag=tolees-21) a 7.86 EUR (original: 8.99 EUR) (12.57 %  de descuento) en el siguiente enlace!
 
-[![Gillette Venus Snap Recambios para Maqui](https://m.media-amazon.com/images/I/61EnHgvAPuL._SL200_.jpg)](https://www.amazon.es/dp/B06Y17N7XT/?tag=tolees-21)
+[![Gillette Venus Snap Recambios para Maqui](https://m.media-amazon.com/images/I/61EnHgvAPuL._SL400_.jpg)](https://www.amazon.es/dp/B06Y17N7XT/?tag=tolees-21)
 
 🔎:
 

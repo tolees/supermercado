@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Paris Excellence Coloración Crèm con un 12.58 % de descuento'
 date: 2020-09-15 23:21:26
-image: 'https://m.media-amazon.com/images/I/41aVgOc4hNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aVgOc4hNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 En este momento está [L Oréal Paris Excellence Coloración Crème Triple Protección  Tono: 6.41](https://www.amazon.es/dp/B00X9W3AAS/?tag=tolees-21) a 6.95 EUR (original: 7.95 EUR) (12.58 %  de descuento) en el siguiente enlace!
 
-[![L Oréal Paris Excellence Coloración Crèm](https://m.media-amazon.com/images/I/41aVgOc4hNL._SL200_.jpg)](https://www.amazon.es/dp/B00X9W3AAS/?tag=tolees-21)
+[![L Oréal Paris Excellence Coloración Crèm](https://m.media-amazon.com/images/I/41aVgOc4hNL._SL400_.jpg)](https://www.amazon.es/dp/B00X9W3AAS/?tag=tolees-21)
 
 🔎:
 

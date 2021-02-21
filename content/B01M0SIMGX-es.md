@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 13.85 % en Coca-Cola Sabor Original Lata - 330 ml  '
 date: 2020-06-11 10:40:15
-image: 'https://m.media-amazon.com/images/I/41UNMOwoV3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UNMOwoV3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.186363636363637'
 
 Tienes [Coca-Cola Sabor Original Lata - 330 ml  Pack de 24 ](https://www.amazon.es/dp/B01M0SIMGX/?tag=tolees-21) con un 13.85 % de descuento con precio de oferta de 13.44 EUR (original: 15.6 EUR) en el siguiente enlace!
 
-[![Coca-Cola Sabor Original Lata - 330 ml  ](https://m.media-amazon.com/images/I/41UNMOwoV3L._SL200_.jpg)](https://www.amazon.es/dp/B01M0SIMGX/?tag=tolees-21)
+[![Coca-Cola Sabor Original Lata - 330 ml  ](https://m.media-amazon.com/images/I/41UNMOwoV3L._SL400_.jpg)](https://www.amazon.es/dp/B01M0SIMGX/?tag=tolees-21)
 
 ℹ️:
 

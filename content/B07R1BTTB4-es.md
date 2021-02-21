@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - Happy Belly Coco desecado al 2.13 % de rebaja'
 date: 2020-01-20 07:54:13
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41tuhJBfL5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tuhJBfL5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.88'
 
 Tienes [Marca Amazon - Happy Belly Coco desecado 200gr x 5](https://www.amazon.es/dp/B07R1BTTB4/?tag=tolees-21) con precio final de  6.88 EUR (original: 7.03 EUR) (2.13 %  de rebaja) aqui!
 
-[![Marca Amazon - Happy Belly Coco desecado](https://images-eu.ssl-images-amazon.com/images/I/41tuhJBfL5L._SL200_.jpg)](https://www.amazon.es/dp/B07R1BTTB4/?tag=tolees-21)
+[![Marca Amazon - Happy Belly Coco desecado](https://images-eu.ssl-images-amazon.com/images/I/41tuhJBfL5L._SL400_.jpg)](https://www.amazon.es/dp/B07R1BTTB4/?tag=tolees-21)
 
 🔎:
 

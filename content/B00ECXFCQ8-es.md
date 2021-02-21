@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal  Máscara - 7 ml. con un 16.36 % de descuento'
 date: 2020-01-09 01:20:38
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31olBUPpbGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31olBUPpbGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.07'
 
 En este momento está [L Oréal  Máscara - 7 ml.](https://www.amazon.es/dp/B00ECXFCQ8/?tag=tolees-21) a 10.07 EUR (original: 12.04 EUR) (16.36 %  de descuento) en el siguiente enlace!
 
-[![L Oréal  Máscara - 7 ml.](https://images-eu.ssl-images-amazon.com/images/I/31olBUPpbGL._SL200_.jpg)](https://www.amazon.es/dp/B00ECXFCQ8/?tag=tolees-21)
+[![L Oréal  Máscara - 7 ml.](https://images-eu.ssl-images-amazon.com/images/I/31olBUPpbGL._SL400_.jpg)](https://www.amazon.es/dp/B00ECXFCQ8/?tag=tolees-21)
 
 🔎:
 

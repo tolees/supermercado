@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 18.26 % en Calvin Klein 16407 - Desodorante  150 ml'
 date: 2020-06-08 09:18:01
-image: 'https://m.media-amazon.com/images/I/31OTax6WQ0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OTax6WQ0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.433333333333334'
 
 Tienes [Calvin Klein 16407 - Desodorante  150 ml](https://www.amazon.es/dp/B000XUUTOE/?tag=tolees-21) con un 18.26 % de descuento con precio de oferta de 10.16 EUR (original: 12.43 EUR) en el siguiente enlace!
 
-[![Calvin Klein 16407 - Desodorante  150 ml](https://m.media-amazon.com/images/I/31OTax6WQ0L._SL200_.jpg)](https://www.amazon.es/dp/B000XUUTOE/?tag=tolees-21)
+[![Calvin Klein 16407 - Desodorante  150 ml](https://m.media-amazon.com/images/I/31OTax6WQ0L._SL400_.jpg)](https://www.amazon.es/dp/B000XUUTOE/?tag=tolees-21)
 
 ℹ️:
 

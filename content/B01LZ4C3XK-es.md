@@ -2,7 +2,7 @@
 layout: post
 title: 'Nestlé Fitness - Cereales con Chocolate  con un 19.42 % de descuento'
 date: 2020-01-22 06:23:13
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51xd1hISL3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xd1hISL3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.96'
 
 En este momento está [Nestlé Fitness - Cereales con Chocolate Negro - 4 Paquetes de 600 g](https://www.amazon.es/dp/B01LZ4C3XK/?tag=tolees-21) a 12.28 EUR (original: 15.24 EUR) (19.42 %  de descuento) en el siguiente enlace!
 
-[![Nestlé Fitness - Cereales con Chocolate ](https://images-eu.ssl-images-amazon.com/images/I/51xd1hISL3L._SL200_.jpg)](https://www.amazon.es/dp/B01LZ4C3XK/?tag=tolees-21)
+[![Nestlé Fitness - Cereales con Chocolate ](https://images-eu.ssl-images-amazon.com/images/I/51xd1hISL3L._SL400_.jpg)](https://www.amazon.es/dp/B01LZ4C3XK/?tag=tolees-21)
 
 🔎:
 

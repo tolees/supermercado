@@ -2,7 +2,7 @@
 layout: post
 title: 'Gel hidroalcohólico antiséptico para pie con un 0.00 % de descuento'
 date: 2020-03-06 18:57:53
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41rdU3cXswL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rdU3cXswL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.27'
 
 En este momento está [Gel hidroalcohólico antiséptico para piel sana S nonas. Botella 500 ml con dosificador.](https://www.amazon.es/dp/B0749MN8VZ/?tag=tolees-21) a 4.27 EUR (original: 4.27 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Gel hidroalcohólico antiséptico para pie](https://images-eu.ssl-images-amazon.com/images/I/41rdU3cXswL._SL200_.jpg)](https://www.amazon.es/dp/B0749MN8VZ/?tag=tolees-21)
+[![Gel hidroalcohólico antiséptico para pie](https://images-eu.ssl-images-amazon.com/images/I/41rdU3cXswL._SL400_.jpg)](https://www.amazon.es/dp/B0749MN8VZ/?tag=tolees-21)
 
 🔎:
 

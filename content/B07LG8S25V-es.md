@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 17.09 % en Clynelish Reserva – Whisky escocés puro '
 date: 2020-03-16 21:10:43
-image: 'https://m.media-amazon.com/images/I/51vt8GsJQoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vt8GsJQoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.94'
 
 Tienes [Clynelish Reserva – Whisky escocés puro de malta – Edición limitada Juego de Tronos: CasaTyrell – 700 ml](https://www.amazon.es/dp/B07LG8S25V/?tag=tolees-21) con un 17.09 % de descuento con precio de oferta de 43.94 EUR (original: 53.0 EUR) en el siguiente enlace!
 
-[![Clynelish Reserva – Whisky escocés puro ](https://m.media-amazon.com/images/I/51vt8GsJQoL._SL200_.jpg)](https://www.amazon.es/dp/B07LG8S25V/?tag=tolees-21)
+[![Clynelish Reserva – Whisky escocés puro ](https://m.media-amazon.com/images/I/51vt8GsJQoL._SL400_.jpg)](https://www.amazon.es/dp/B07LG8S25V/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Ruffles Jamon patatas fritas onduladas 3 con un 20.95 % de descuento'
 date: 2020-01-15 22:57:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51-Tkb85R5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-Tkb85R5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2'
 
 En este momento está [Ruffles Jamon patatas fritas onduladas 312g](https://www.amazon.es/dp/B01G1WINB8/?tag=tolees-21) a 2 EUR (original: 2.53 EUR) (20.95 %  de descuento) en el siguiente enlace!
 
-[![Ruffles Jamon patatas fritas onduladas 3](https://images-eu.ssl-images-amazon.com/images/I/51-Tkb85R5L._SL200_.jpg)](https://www.amazon.es/dp/B01G1WINB8/?tag=tolees-21)
+[![Ruffles Jamon patatas fritas onduladas 3](https://images-eu.ssl-images-amazon.com/images/I/51-Tkb85R5L._SL400_.jpg)](https://www.amazon.es/dp/B01G1WINB8/?tag=tolees-21)
 
 🔎:
 

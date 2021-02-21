@@ -2,7 +2,7 @@
 layout: post
 title: 'Garnier Skin Active Pure Active Gel 3 en al 14.29 % de descuento'
 date: 2020-10-05 23:36:18
-image: 'https://m.media-amazon.com/images/I/41QqBHpan-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QqBHpan-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.2'
 
 Está [Garnier Skin Active Pure Active Gel 3 en 1 para Pieles Mixtas a Grasas Limpiador  Exfoliante y Mascarilla  150 ml](https://www.amazon.es/dp/B01LXPKJDZ/?tag=tolees-21) con 14.29 de descuento por 4.2 EUR (original: 4.9 EUR) en el siguiente enlace!
 
-[![Garnier Skin Active Pure Active Gel 3 en](https://m.media-amazon.com/images/I/41QqBHpan-L._SL200_.jpg)](https://www.amazon.es/dp/B01LXPKJDZ/?tag=tolees-21)
+[![Garnier Skin Active Pure Active Gel 3 en](https://m.media-amazon.com/images/I/41QqBHpan-L._SL400_.jpg)](https://www.amazon.es/dp/B01LXPKJDZ/?tag=tolees-21)
 
 ℹ️:
 

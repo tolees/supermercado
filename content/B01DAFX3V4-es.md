@@ -2,7 +2,7 @@
 layout: post
 title: 'Schwarzkopf Professional Osis Refresh Du al 6.05 % de rebaja'
 date: 2020-02-01 14:05:59
-image: 'https://m.media-amazon.com/images/I/31iOP6Y7d6L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iOP6Y7d6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.73'
 
 Tienes [Schwarzkopf Professional Osis Refresh Dust Bodyfying Dry Champú - 300 ml](https://www.amazon.es/dp/B01DAFX3V4/?tag=tolees-21) con precio final de  12.73 EUR (original: 13.55 EUR) (6.05 %  de rebaja) aqui!
 
-[![Schwarzkopf Professional Osis Refresh Du](https://m.media-amazon.com/images/I/31iOP6Y7d6L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01DAFX3V4/?tag=tolees-21)
+[![Schwarzkopf Professional Osis Refresh Du](https://m.media-amazon.com/images/I/31iOP6Y7d6L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01DAFX3V4/?tag=tolees-21)
 
 🔎:
 

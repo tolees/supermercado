@@ -2,7 +2,7 @@
 layout: post
 title: 'Bed Head by TIGI Champú Resurrection Urb al 18.75 % de rebaja'
 date: 2020-06-02 10:04:04
-image: 'https://m.media-amazon.com/images/I/418MB+K6vrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418MB+K6vrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.11'
 
 Tienes [Bed Head by TIGI Champú Resurrection Urban Antidotes 750 ml](https://www.amazon.es/dp/B004T19PAC/?tag=tolees-21) con precio final de  7.15 EUR (original: 8.8 EUR) (18.75 %  de rebaja) aqui!
 
-[![Bed Head by TIGI Champú Resurrection Urb](https://m.media-amazon.com/images/I/418MB+K6vrL._SL200_.jpg)](https://www.amazon.es/dp/B004T19PAC/?tag=tolees-21)
+[![Bed Head by TIGI Champú Resurrection Urb](https://m.media-amazon.com/images/I/418MB+K6vrL._SL400_.jpg)](https://www.amazon.es/dp/B004T19PAC/?tag=tolees-21)
 
 🔎:
 

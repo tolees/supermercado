@@ -2,7 +2,7 @@
 layout: post
 title: 'AXE Desodorante Antitraspirante Gold Bla al 3.22 % de descuento'
 date: 2020-02-01 09:22:13
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51GzWKq7etL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GzWKq7etL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.57'
 
 Ahora mismo tienes [AXE Desodorante Antitraspirante Gold Blanco Duplo Ahorro - 2 Paquetes de 2 x 150 ml: Total: 600 ml](https://www.amazon.es/dp/B07P7VMX7P/?tag=tolees-21) a 13.24 EUR (original: 13.68 EUR) (3.22 %  de descuento) en el siguiente enlace!
 
-[![AXE Desodorante Antitraspirante Gold Bla](https://images-eu.ssl-images-amazon.com/images/I/51GzWKq7etL._SL200_.jpg)](https://www.amazon.es/dp/B07P7VMX7P/?tag=tolees-21)
+[![AXE Desodorante Antitraspirante Gold Bla](https://images-eu.ssl-images-amazon.com/images/I/51GzWKq7etL._SL400_.jpg)](https://www.amazon.es/dp/B07P7VMX7P/?tag=tolees-21)
 
 🔎:
 

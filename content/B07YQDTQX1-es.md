@@ -2,7 +2,7 @@
 layout: post
 title: 'Hero Baby Solo Bolsita de Manzana  Pláta al 6.32 % de descuento'
 date: 2020-09-17 13:35:41
-image: 'https://m.media-amazon.com/images/I/41dZQNQj-yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dZQNQj-yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.8919999999999999'
 
 Está [Hero Baby Solo Bolsita de Manzana  Plátano y Zanahoria Puré de Frutas Ecológico para Llevar para Bebés a partir de 4 meses  100 g](https://www.amazon.es/dp/B07YQDTQX1/?tag=tolees-21) con 6.32 de descuento por 0.89 EUR (original: 0.95 EUR) en el siguiente enlace!
 
-[![Hero Baby Solo Bolsita de Manzana  Pláta](https://m.media-amazon.com/images/I/41dZQNQj-yL._SL200_.jpg)](https://www.amazon.es/dp/B07YQDTQX1/?tag=tolees-21)
+[![Hero Baby Solo Bolsita de Manzana  Pláta](https://m.media-amazon.com/images/I/41dZQNQj-yL._SL400_.jpg)](https://www.amazon.es/dp/B07YQDTQX1/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Puleva Nata Líquida Para Montar 1000 ml al 0.00 % de descuento'
 date: 2020-01-20 17:28:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41VXctDYKPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VXctDYKPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.96'
 
 Está [Puleva Nata Líquida Para Montar 1000 ml](https://www.amazon.es/dp/B07TB95HZ1/?tag=tolees-21) con 0.00 de descuento por 3.96 EUR (original: 3.96 EUR) en el siguiente enlace!
 
-[![Puleva Nata Líquida Para Montar 1000 ml](https://images-eu.ssl-images-amazon.com/images/I/41VXctDYKPL._SL200_.jpg)](https://www.amazon.es/dp/B07TB95HZ1/?tag=tolees-21)
+[![Puleva Nata Líquida Para Montar 1000 ml](https://images-eu.ssl-images-amazon.com/images/I/41VXctDYKPL._SL400_.jpg)](https://www.amazon.es/dp/B07TB95HZ1/?tag=tolees-21)
 
 ℹ️:
 

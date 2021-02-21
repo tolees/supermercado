@@ -2,7 +2,7 @@
 layout: post
 title: 'Jabón potásico 750 ml. listo para usar con un 23.17 % de descuento'
 date: 2020-05-23 13:08:49
-image: 'https://m.media-amazon.com/images/I/313ZeNlFFcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313ZeNlFFcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.45'
 
 En este momento está [Jabón potásico 750 ml. listo para usar](https://www.amazon.es/dp/B01AO9C8BU/?tag=tolees-21) a 9.45 EUR (original: 12.3 EUR) (23.17 %  de descuento) en el siguiente enlace!
 
-[![Jabón potásico 750 ml. listo para usar](https://m.media-amazon.com/images/I/313ZeNlFFcL._SL200_.jpg)](https://www.amazon.es/dp/B01AO9C8BU/?tag=tolees-21)
+[![Jabón potásico 750 ml. listo para usar](https://m.media-amazon.com/images/I/313ZeNlFFcL._SL400_.jpg)](https://www.amazon.es/dp/B01AO9C8BU/?tag=tolees-21)
 
 🔎:
 

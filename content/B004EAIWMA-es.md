@@ -2,7 +2,7 @@
 layout: post
 title: 'Sipsmith London Dry Gin Ginebra  41.6% - al 16.08 % de rebaja'
 date: 2020-05-06 15:39:43
-image: 'https://m.media-amazon.com/images/I/41XAZ7ScrGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XAZ7ScrGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.69666666666667'
 
 Tienes [Sipsmith London Dry Gin Ginebra  41.6% -700 ml](https://www.amazon.es/dp/B004EAIWMA/?tag=tolees-21) con precio final de  29.17 EUR (original: 34.76 EUR) (16.08 %  de rebaja) aqui!
 
-[![Sipsmith London Dry Gin Ginebra  41.6% -](https://m.media-amazon.com/images/I/41XAZ7ScrGL._SL200_.jpg)](https://www.amazon.es/dp/B004EAIWMA/?tag=tolees-21)
+[![Sipsmith London Dry Gin Ginebra  41.6% -](https://m.media-amazon.com/images/I/41XAZ7ScrGL._SL400_.jpg)](https://www.amazon.es/dp/B004EAIWMA/?tag=tolees-21)
 
 🔎:
 

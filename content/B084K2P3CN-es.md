@@ -2,7 +2,7 @@
 layout: post
 title: 'Garnier Fructis Hair Food Champú de Aloe con un 9.29 % de descuento'
 date: 2020-04-16 08:20:29
-image: 'https://m.media-amazon.com/images/I/411guAc9XsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411guAc9XsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.49'
 
 En este momento está [Garnier Fructis Hair Food Champú de Aloe Vera Hidratante para Pelo Normal - 350 ml](https://www.amazon.es/dp/B084K2P3CN/?tag=tolees-21) a 4.49 EUR (original: 4.95 EUR) (9.29 %  de descuento) en el siguiente enlace!
 
-[![Garnier Fructis Hair Food Champú de Aloe](https://m.media-amazon.com/images/I/411guAc9XsL._SL200_.jpg)](https://www.amazon.es/dp/B084K2P3CN/?tag=tolees-21)
+[![Garnier Fructis Hair Food Champú de Aloe](https://m.media-amazon.com/images/I/411guAc9XsL._SL400_.jpg)](https://www.amazon.es/dp/B084K2P3CN/?tag=tolees-21)
 
 🔎:
 

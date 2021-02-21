@@ -2,7 +2,7 @@
 layout: post
 title: 'AXE You - Desodorante Bodyspray para hom al 7.50 % de rebaja'
 date: 2020-07-21 08:32:10
-image: 'https://m.media-amazon.com/images/I/41mdQfoa0oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mdQfoa0oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.50625'
 
 Tienes [AXE You - Desodorante Bodyspray para hombre  48 horas de protección  150 ml  pack de 3](https://www.amazon.es/dp/B07NBZZX9S/?tag=tolees-21) con precio final de  9.99 EUR (original: 10.8 EUR) (7.50 %  de rebaja) aqui!
 
-[![AXE You - Desodorante Bodyspray para hom](https://m.media-amazon.com/images/I/41mdQfoa0oL._SL200_.jpg)](https://www.amazon.es/dp/B07NBZZX9S/?tag=tolees-21)
+[![AXE You - Desodorante Bodyspray para hom](https://m.media-amazon.com/images/I/41mdQfoa0oL._SL400_.jpg)](https://www.amazon.es/dp/B07NBZZX9S/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Elizabeth Arden Mediterranean - Agua de  al 0.00 % de descuento'
 date: 2020-01-04 18:04:18
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IBzd4wsHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IBzd4wsHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.86'
 
 Ahora mismo tienes [Elizabeth Arden Mediterranean - Agua de perfume](https://www.amazon.es/dp/B0012RXTBW/?tag=tolees-21) a 25.86 EUR (original: 25.86 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Elizabeth Arden Mediterranean - Agua de ](https://images-eu.ssl-images-amazon.com/images/I/41IBzd4wsHL._SL200_.jpg)](https://www.amazon.es/dp/B0012RXTBW/?tag=tolees-21)
+[![Elizabeth Arden Mediterranean - Agua de ](https://images-eu.ssl-images-amazon.com/images/I/41IBzd4wsHL._SL400_.jpg)](https://www.amazon.es/dp/B0012RXTBW/?tag=tolees-21)
 
 🔎:
 

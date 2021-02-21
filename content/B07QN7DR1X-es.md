@@ -2,7 +2,7 @@
 layout: post
 title: 'Rexona Desodorante Antitranspirante Invi al 0.00 % de descuento'
 date: 2020-01-16 14:06:19
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51IUKea2UXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IUKea2UXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.97'
 
 Está [Rexona Desodorante Antitranspirante Invisible On White&Black Clothes - 6 x 200 ml](https://www.amazon.es/dp/B07QN7DR1X/?tag=tolees-21) con 0.00 de descuento por 11.97 EUR (original: 11.97 EUR) en el siguiente enlace!
 
-[![Rexona Desodorante Antitranspirante Invi](https://images-eu.ssl-images-amazon.com/images/I/51IUKea2UXL._SL200_.jpg)](https://www.amazon.es/dp/B07QN7DR1X/?tag=tolees-21)
+[![Rexona Desodorante Antitranspirante Invi](https://images-eu.ssl-images-amazon.com/images/I/51IUKea2UXL._SL400_.jpg)](https://www.amazon.es/dp/B07QN7DR1X/?tag=tolees-21)
 
 ℹ️:
 

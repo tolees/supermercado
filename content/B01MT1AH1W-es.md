@@ -2,7 +2,7 @@
 layout: post
 title: 'Gin Mare Mediterranean Colección de Auto al 10.98 % de descuento'
 date: 2020-04-12 18:16:58
-image: 'https://m.media-amazon.com/images/I/31B1Rw0CpWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31B1Rw0CpWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.685'
 
 Está [Gin Mare Mediterranean Colección de Autor Ginebra - 1000 ml](https://www.amazon.es/dp/B01MT1AH1W/?tag=tolees-21) con 10.98 de descuento por 37.15 EUR (original: 41.73 EUR) en el siguiente enlace!
 
-[![Gin Mare Mediterranean Colección de Auto](https://m.media-amazon.com/images/I/31B1Rw0CpWL._SL200_.jpg)](https://www.amazon.es/dp/B01MT1AH1W/?tag=tolees-21)
+[![Gin Mare Mediterranean Colección de Auto](https://m.media-amazon.com/images/I/31B1Rw0CpWL._SL400_.jpg)](https://www.amazon.es/dp/B01MT1AH1W/?tag=tolees-21)
 
 ℹ️:
 

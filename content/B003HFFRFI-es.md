@@ -2,7 +2,7 @@
 layout: post
 title: 'Elizabeth Arden Green Tea Lavender EDT S con un 0.00 % de descuento'
 date: 2020-01-19 18:04:59
-image: 'https://images-eu.ssl-images-amazon.com/images/I/21scrFtMeWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21scrFtMeWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.629999999999999'
 
 En este momento está [Elizabeth Arden Green Tea Lavender EDT Spray 100 ml  1-pack](https://www.amazon.es/dp/B003HFFRFI/?tag=tolees-21) a 17.99 EUR (original: 17.99 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Elizabeth Arden Green Tea Lavender EDT S](https://images-eu.ssl-images-amazon.com/images/I/21scrFtMeWL._SL200_.jpg)](https://www.amazon.es/dp/B003HFFRFI/?tag=tolees-21)
+[![Elizabeth Arden Green Tea Lavender EDT S](https://images-eu.ssl-images-amazon.com/images/I/21scrFtMeWL._SL400_.jpg)](https://www.amazon.es/dp/B003HFFRFI/?tag=tolees-21)
 
 🔎:
 

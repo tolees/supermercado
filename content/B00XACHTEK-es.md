@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 5.98 % en Nestlé NESQUIK Cacao Soluble Instantáneo'
 date: 2020-10-02 10:58:15
-image: 'https://m.media-amazon.com/images/I/51DjDXyVIdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DjDXyVIdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.49804347826087'
 
 Tienes [Nestlé NESQUIK Cacao Soluble Instantáneo - Estuche 5+1kg](https://www.amazon.es/dp/B00XACHTEK/?tag=tolees-21) con un 5.98 % de descuento con precio de oferta de 18.09 EUR (original: 19.24 EUR) en el siguiente enlace!
 
-[![Nestlé NESQUIK Cacao Soluble Instantáneo](https://m.media-amazon.com/images/I/51DjDXyVIdL._SL200_.jpg)](https://www.amazon.es/dp/B00XACHTEK/?tag=tolees-21)
+[![Nestlé NESQUIK Cacao Soluble Instantáneo](https://m.media-amazon.com/images/I/51DjDXyVIdL._SL400_.jpg)](https://www.amazon.es/dp/B00XACHTEK/?tag=tolees-21)
 
 ℹ️:
 

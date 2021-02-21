@@ -2,7 +2,7 @@
 layout: post
 title: 'Ultrawhite Miele Detergente Lavadora par al 0.00 % de descuento'
 date: 2020-09-21 13:07:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31aCC5H6wtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31aCC5H6wtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19'
 
 Está [Ultrawhite Miele Detergente Lavadora para blancos Cod 10199840](https://www.amazon.es/dp/B071YPDTLX/?tag=tolees-21) con 0.00 de descuento por 19 EUR (original: 19 EUR) en el siguiente enlace!
 
-[![Ultrawhite Miele Detergente Lavadora par](https://images-eu.ssl-images-amazon.com/images/I/31aCC5H6wtL._SL200_.jpg)](https://www.amazon.es/dp/B071YPDTLX/?tag=tolees-21)
+[![Ultrawhite Miele Detergente Lavadora par](https://images-eu.ssl-images-amazon.com/images/I/31aCC5H6wtL._SL400_.jpg)](https://www.amazon.es/dp/B071YPDTLX/?tag=tolees-21)
 
 ℹ️:
 

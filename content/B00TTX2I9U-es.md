@@ -2,7 +2,7 @@
 layout: post
 title: 'Listerine - Enjuague Bucal Menta Fresca  al 19.84 % de rebaja'
 date: 2020-05-08 16:43:12
-image: 'https://m.media-amazon.com/images/I/31d10jtmVuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31d10jtmVuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.0'
 
 Tienes [Listerine - Enjuague Bucal Menta Fresca  500 ml](https://www.amazon.es/dp/B00TTX2I9U/?tag=tolees-21) con precio final de  4.0 EUR (original: 4.99 EUR) (19.84 %  de rebaja) aqui!
 
-[![Listerine - Enjuague Bucal Menta Fresca ](https://m.media-amazon.com/images/I/31d10jtmVuL._SL200_.jpg)](https://www.amazon.es/dp/B00TTX2I9U/?tag=tolees-21)
+[![Listerine - Enjuague Bucal Menta Fresca ](https://m.media-amazon.com/images/I/31d10jtmVuL._SL400_.jpg)](https://www.amazon.es/dp/B00TTX2I9U/?tag=tolees-21)
 
 🔎:
 

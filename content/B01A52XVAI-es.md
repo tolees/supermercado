@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Paris Base de Maquillaje Fluida  al 0.00 % de descuento'
 date: 2020-01-16 11:39:35
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IIAf-8PcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IIAf-8PcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.273333333333333'
 
 Ahora mismo tienes [L Oréal Paris Base de Maquillaje Fluida Cushion Rose Beige 6](https://www.amazon.es/dp/B01A52XVAI/?tag=tolees-21) a 6 EUR (original: 6 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![L Oréal Paris Base de Maquillaje Fluida ](https://images-eu.ssl-images-amazon.com/images/I/41IIAf-8PcL._SL200_.jpg)](https://www.amazon.es/dp/B01A52XVAI/?tag=tolees-21)
+[![L Oréal Paris Base de Maquillaje Fluida ](https://images-eu.ssl-images-amazon.com/images/I/41IIAf-8PcL._SL400_.jpg)](https://www.amazon.es/dp/B01A52XVAI/?tag=tolees-21)
 
 🔎:
 

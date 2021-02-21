@@ -2,7 +2,7 @@
 layout: post
 title: 'Rimmel London Lasting Finish Foundation  con un 16.67 % de descuento'
 date: 2020-10-09 13:03:28
-image: 'https://m.media-amazon.com/images/I/31p2zPTsq-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31p2zPTsq-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.375'
 
 En este momento está [Rimmel London Lasting Finish Foundation 25H Base de Maquillaje Tono 303 True Nude - 112 gr](https://www.amazon.es/dp/B0047X8LSE/?tag=tolees-21) a 6.25 EUR (original: 7.5 EUR) (16.67 %  de descuento) en el siguiente enlace!
 
-[![Rimmel London Lasting Finish Foundation ](https://m.media-amazon.com/images/I/31p2zPTsq-L._SL200_.jpg)](https://www.amazon.es/dp/B0047X8LSE/?tag=tolees-21)
+[![Rimmel London Lasting Finish Foundation ](https://m.media-amazon.com/images/I/31p2zPTsq-L._SL400_.jpg)](https://www.amazon.es/dp/B0047X8LSE/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'L OR Espresso Café paquete favorito - Ne al 15.01 % de descuento'
 date: 2020-02-25 16:15:04
-image: 'https://m.media-amazon.com/images/I/41m0afO1AHL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41m0afO1AHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.37'
 
 Ahora mismo tienes [L OR Espresso Café paquete favorito - Nespresso® * Cápsulas de café de aluminio compatibles - 3 paquetes de 20 cápsulas  60 bebidas + 2 Tazas de Espresso ](https://www.amazon.es/dp/B07PRYTWWT/?tag=tolees-21) a 16.87 EUR (original: 19.85 EUR) (15.01 %  de descuento) en el siguiente enlace!
 
-[![L OR Espresso Café paquete favorito - Ne](https://m.media-amazon.com/images/I/41m0afO1AHL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07PRYTWWT/?tag=tolees-21)
+[![L OR Espresso Café paquete favorito - Ne](https://m.media-amazon.com/images/I/41m0afO1AHL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07PRYTWWT/?tag=tolees-21)
 
 🔎:
 

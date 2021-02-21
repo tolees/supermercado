@@ -2,7 +2,7 @@
 layout: post
 title: 'Max Factor  Base de maquillaje  50 Natur al 12.39 % de descuento'
 date: 2020-01-29 13:53:04
-image: 'https://m.media-amazon.com/images/I/41wletvBVdL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wletvBVdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.39'
 
 Está [Max Factor  Base de maquillaje  50 Natural  - 62 gr.](https://www.amazon.es/dp/B00MN94WT6/?tag=tolees-21) con 12.39 de descuento por 10.39 EUR (original: 11.86 EUR) en el siguiente enlace!
 
-[![Max Factor  Base de maquillaje  50 Natur](https://m.media-amazon.com/images/I/41wletvBVdL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00MN94WT6/?tag=tolees-21)
+[![Max Factor  Base de maquillaje  50 Natur](https://m.media-amazon.com/images/I/41wletvBVdL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00MN94WT6/?tag=tolees-21)
 
 ℹ️:
 

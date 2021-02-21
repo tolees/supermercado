@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon- Amfit Nutrition Barrita de al 0.00 % de descuento'
 date: 2020-01-17 18:02:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Kh1CuGCXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Kh1CuGCXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.87'
 
 Ahora mismo tienes [Marca Amazon- Amfit Nutrition Barrita de proteínas sabor a chocolate y naranja  pack de 12  12x60g ](https://www.amazon.es/dp/B07QTSMXLM/?tag=tolees-21) a 17.55 EUR (original: 17.55 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon- Amfit Nutrition Barrita de](https://images-eu.ssl-images-amazon.com/images/I/51Kh1CuGCXL._SL200_.jpg)](https://www.amazon.es/dp/B07QTSMXLM/?tag=tolees-21)
+[![Marca Amazon- Amfit Nutrition Barrita de](https://images-eu.ssl-images-amazon.com/images/I/51Kh1CuGCXL._SL400_.jpg)](https://www.amazon.es/dp/B07QTSMXLM/?tag=tolees-21)
 
 🔎:
 

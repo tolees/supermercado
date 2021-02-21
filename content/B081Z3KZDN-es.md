@@ -2,7 +2,7 @@
 layout: post
 title: 'JICHUI Clásico Tomate máquina de Cortar  con un 0.00 % de descuento'
 date: 2020-01-23 13:21:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41MHuFkLhQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MHuFkLhQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.99'
 
 En este momento está [JICHUI Clásico Tomate máquina de Cortar de plástico Perfectamente Tomates en rodajas Cortador de la Fruta Vegetal de la Patata Cebolla Cortador Holder](https://www.amazon.es/dp/B081Z3KZDN/?tag=tolees-21) a 2.99 EUR (original: 2.99 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![JICHUI Clásico Tomate máquina de Cortar ](https://images-eu.ssl-images-amazon.com/images/I/41MHuFkLhQL._SL200_.jpg)](https://www.amazon.es/dp/B081Z3KZDN/?tag=tolees-21)
+[![JICHUI Clásico Tomate máquina de Cortar ](https://images-eu.ssl-images-amazon.com/images/I/41MHuFkLhQL._SL400_.jpg)](https://www.amazon.es/dp/B081Z3KZDN/?tag=tolees-21)
 
 🔎:
 

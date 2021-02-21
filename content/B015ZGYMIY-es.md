@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 15.60 % en L Oréal Paris - Brocha de Maquillaje Dúo'
 date: 2020-03-08 22:20:34
-image: 'https://m.media-amazon.com/images/I/31S6CagHkeL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31S6CagHkeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.425'
 
 Tienes [L Oréal Paris - Brocha de Maquillaje Dúo para Bases Fluidas](https://www.amazon.es/dp/B015ZGYMIY/?tag=tolees-21) con un 15.60 % de descuento con precio de oferta de 10.93 EUR (original: 12.95 EUR) en el siguiente enlace!
 
-[![L Oréal Paris - Brocha de Maquillaje Dúo](https://m.media-amazon.com/images/I/31S6CagHkeL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B015ZGYMIY/?tag=tolees-21)
+[![L Oréal Paris - Brocha de Maquillaje Dúo](https://m.media-amazon.com/images/I/31S6CagHkeL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B015ZGYMIY/?tag=tolees-21)
 
 ℹ️:
 

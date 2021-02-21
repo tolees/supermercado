@@ -2,7 +2,7 @@
 layout: post
 title: 'Pavo 8047222 Caja para llaves de alta se al 16.20 % de descuento'
 date: 2020-10-04 17:46:03
-image: 'https://m.media-amazon.com/images/I/51ppp-Bk31L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ppp-Bk31L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.23'
 
 Ahora mismo tienes [Pavo 8047222 Caja para llaves de alta seguridad  capacidad para hasta 100 unidades  gris](https://www.amazon.es/dp/B00JMEJG82/?tag=tolees-21) a 58.23 EUR (original: 69.49 EUR) (16.20 %  de descuento) en el siguiente enlace!
 
-[![Pavo 8047222 Caja para llaves de alta se](https://m.media-amazon.com/images/I/51ppp-Bk31L._SL200_.jpg)](https://www.amazon.es/dp/B00JMEJG82/?tag=tolees-21)
+[![Pavo 8047222 Caja para llaves de alta se](https://m.media-amazon.com/images/I/51ppp-Bk31L._SL400_.jpg)](https://www.amazon.es/dp/B00JMEJG82/?tag=tolees-21)
 
 🔎:
 

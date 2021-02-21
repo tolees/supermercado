@@ -2,7 +2,7 @@
 layout: post
 title: 'Gölles Alte Zwetschge Brandy - 350 ml con un 0.00 % de descuento'
 date: 2020-01-19 16:29:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31zzmnPirDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zzmnPirDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.5'
 
 En este momento está [Gölles Alte Zwetschge Brandy - 350 ml](https://www.amazon.es/dp/B00Q8LYIEO/?tag=tolees-21) a 13.5 EUR (original: 13.5 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Gölles Alte Zwetschge Brandy - 350 ml](https://images-eu.ssl-images-amazon.com/images/I/31zzmnPirDL._SL200_.jpg)](https://www.amazon.es/dp/B00Q8LYIEO/?tag=tolees-21)
+[![Gölles Alte Zwetschge Brandy - 350 ml](https://images-eu.ssl-images-amazon.com/images/I/31zzmnPirDL._SL400_.jpg)](https://www.amazon.es/dp/B00Q8LYIEO/?tag=tolees-21)
 
 🔎:
 

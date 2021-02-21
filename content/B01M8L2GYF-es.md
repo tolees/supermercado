@@ -2,7 +2,7 @@
 layout: post
 title: 'Gourmet - Café soluble - Tueste natural  al 0.00 % de descuento'
 date: 2020-01-18 09:06:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51d8xq7Ix7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51d8xq7Ix7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.72'
 
 Ahora mismo tienes [Gourmet - Café soluble - Tueste natural - 200 g - [Pack de 3]](https://www.amazon.es/dp/B01M8L2GYF/?tag=tolees-21) a 11.72 EUR (original: 11.72 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Gourmet - Café soluble - Tueste natural ](https://images-eu.ssl-images-amazon.com/images/I/51d8xq7Ix7L._SL200_.jpg)](https://www.amazon.es/dp/B01M8L2GYF/?tag=tolees-21)
+[![Gourmet - Café soluble - Tueste natural ](https://images-eu.ssl-images-amazon.com/images/I/51d8xq7Ix7L._SL400_.jpg)](https://www.amazon.es/dp/B01M8L2GYF/?tag=tolees-21)
 
 🔎:
 

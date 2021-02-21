@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 0.00 % en Forbury Direct - Base Jabón de glicerina'
 date: 2020-05-03 17:13:36
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41iNkeQb3VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iNkeQb3VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Tienes [Forbury Direct - Base Jabón de glicerina transparente sin SLS  1kg](https://www.amazon.es/dp/B01995CNFG/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 9.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
-[![Forbury Direct - Base Jabón de glicerina](https://images-eu.ssl-images-amazon.com/images/I/41iNkeQb3VL._SL200_.jpg)](https://www.amazon.es/dp/B01995CNFG/?tag=tolees-21)
+[![Forbury Direct - Base Jabón de glicerina](https://images-eu.ssl-images-amazon.com/images/I/41iNkeQb3VL._SL400_.jpg)](https://www.amazon.es/dp/B01995CNFG/?tag=tolees-21)
 
 ℹ️:
 

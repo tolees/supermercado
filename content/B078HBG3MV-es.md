@@ -2,7 +2,7 @@
 layout: post
 title: 'Ecover Suavizante Manzana Almendra 5 Lt  con un 16.27 % de descuento'
 date: 2020-09-02 13:31:01
-image: 'https://m.media-amazon.com/images/I/41JxCWdj2cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JxCWdj2cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.35'
 
 En este momento está [Ecover Suavizante Manzana Almendra 5 Lt Ecover 1 Unidad 5000 g](https://www.amazon.es/dp/B078HBG3MV/?tag=tolees-21) a 19.35 EUR (original: 23.11 EUR) (16.27 %  de descuento) en el siguiente enlace!
 
-[![Ecover Suavizante Manzana Almendra 5 Lt ](https://m.media-amazon.com/images/I/41JxCWdj2cL._SL200_.jpg)](https://www.amazon.es/dp/B078HBG3MV/?tag=tolees-21)
+[![Ecover Suavizante Manzana Almendra 5 Lt ](https://m.media-amazon.com/images/I/41JxCWdj2cL._SL400_.jpg)](https://www.amazon.es/dp/B078HBG3MV/?tag=tolees-21)
 
 🔎:
 

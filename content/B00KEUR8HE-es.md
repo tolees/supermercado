@@ -2,7 +2,7 @@
 layout: post
 title: 'Friskies - Shapes Snack Perro  800 g con un 11.82 % de descuento'
 date: 2020-09-15 15:27:20
-image: 'https://m.media-amazon.com/images/I/41fN+XGJ8nL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fN+XGJ8nL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.9299999999999997'
 
 En este momento está [Friskies - Shapes Snack Perro  800 g](https://www.amazon.es/dp/B00KEUR8HE/?tag=tolees-21) a 2.91 EUR (original: 3.3 EUR) (11.82 %  de descuento) en el siguiente enlace!
 
-[![Friskies - Shapes Snack Perro  800 g](https://m.media-amazon.com/images/I/41fN+XGJ8nL._SL200_.jpg)](https://www.amazon.es/dp/B00KEUR8HE/?tag=tolees-21)
+[![Friskies - Shapes Snack Perro  800 g](https://m.media-amazon.com/images/I/41fN+XGJ8nL._SL400_.jpg)](https://www.amazon.es/dp/B00KEUR8HE/?tag=tolees-21)
 
 🔎:
 

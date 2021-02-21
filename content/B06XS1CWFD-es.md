@@ -2,7 +2,7 @@
 layout: post
 title: 'Bowmore No.1 Single Malt Whisky Escoces  al 19.85 % de descuento'
 date: 2020-09-01 09:01:54
-image: 'https://m.media-amazon.com/images/I/41AB5BIXJYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AB5BIXJYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.270909090909093'
 
 Está [Bowmore No.1 Single Malt Whisky Escoces  40% - 700 ml](https://www.amazon.es/dp/B06XS1CWFD/?tag=tolees-21) con 19.85 de descuento por 23.3 EUR (original: 29.07 EUR) en el siguiente enlace!
 
-[![Bowmore No.1 Single Malt Whisky Escoces ](https://m.media-amazon.com/images/I/41AB5BIXJYL._SL200_.jpg)](https://www.amazon.es/dp/B06XS1CWFD/?tag=tolees-21)
+[![Bowmore No.1 Single Malt Whisky Escoces ](https://m.media-amazon.com/images/I/41AB5BIXJYL._SL400_.jpg)](https://www.amazon.es/dp/B06XS1CWFD/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Breville Mini VCF125X - Barista máquina  con un 0.00 % de descuento'
 date: 2020-01-17 09:14:13
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41U8MEq2QQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U8MEq2QQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '168.64000000000001'
 
 En este momento está [Breville Mini VCF125X - Barista máquina de café expreso  totalmente automática con espumador de leche al vapor y bomba italiana de 15 bares](https://www.amazon.es/dp/B07VPHD8L8/?tag=tolees-21) a 147.93 EUR (original: 147.93 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Breville Mini VCF125X - Barista máquina ](https://images-eu.ssl-images-amazon.com/images/I/41U8MEq2QQL._SL200_.jpg)](https://www.amazon.es/dp/B07VPHD8L8/?tag=tolees-21)
+[![Breville Mini VCF125X - Barista máquina ](https://images-eu.ssl-images-amazon.com/images/I/41U8MEq2QQL._SL400_.jpg)](https://www.amazon.es/dp/B07VPHD8L8/?tag=tolees-21)
 
 🔎:
 

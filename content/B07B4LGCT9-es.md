@@ -2,7 +2,7 @@
 layout: post
 title: 'So Bath Bomb - Bomba de jabón  Canal Toy al 19.80 % de rebaja'
 date: 2020-01-27 15:51:43
-image: 'https://m.media-amazon.com/images/I/51lJvazOMrL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lJvazOMrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Tienes [So Bath Bomb - Bomba de jabón  Canal Toys BBD003   surtido: colores aleatorios](https://www.amazon.es/dp/B07B4LGCT9/?tag=tolees-21) con precio final de  11.99 EUR (original: 14.95 EUR) (19.80 %  de rebaja) aqui!
 
-[![So Bath Bomb - Bomba de jabón  Canal Toy](https://m.media-amazon.com/images/I/51lJvazOMrL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07B4LGCT9/?tag=tolees-21)
+[![So Bath Bomb - Bomba de jabón  Canal Toy](https://m.media-amazon.com/images/I/51lJvazOMrL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07B4LGCT9/?tag=tolees-21)
 
 🔎:
 

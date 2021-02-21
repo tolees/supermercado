@@ -2,7 +2,7 @@
 layout: post
 title: 'Neutrogena Hydro Boost Aqua Gel  Piel No al 0.00 % de descuento'
 date: 2020-01-24 19:39:29
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31S5c%2BCASbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31S5c%2BCASbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.156666666666666'
 
 Ahora mismo tienes [Neutrogena Hydro Boost Aqua Gel  Piel Normal Y Mixta  - 50 ml.](https://www.amazon.es/dp/B06Y657SBZ/?tag=tolees-21) a 11.95 EUR (original: 11.95 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Neutrogena Hydro Boost Aqua Gel  Piel No](https://images-eu.ssl-images-amazon.com/images/I/31S5c%2BCASbL._SL200_.jpg)](https://www.amazon.es/dp/B06Y657SBZ/?tag=tolees-21)
+[![Neutrogena Hydro Boost Aqua Gel  Piel No](https://images-eu.ssl-images-amazon.com/images/I/31S5c%2BCASbL._SL400_.jpg)](https://www.amazon.es/dp/B06Y657SBZ/?tag=tolees-21)
 
 🔎:
 

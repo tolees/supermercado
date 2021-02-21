@@ -2,7 +2,7 @@
 layout: post
 title: 'Puleva Leche Desnatada - 6 x 1 L al 0.00 % de descuento'
 date: 2021-01-13 13:38:56
-image: 'https://m.media-amazon.com/images/I/41p6WDNuWWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41p6WDNuWWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: 'None'
 
 Está [Puleva Leche Desnatada - 6 x 1 L](https://www.amazon.es/dp/B06Y29B1LL/?tag=tolees-21) con 0.00 de descuento por None None (original: None None) en el siguiente enlace!
 
-[![Puleva Leche Desnatada - 6 x 1 L](https://m.media-amazon.com/images/I/41p6WDNuWWL._SL200_.jpg)](https://www.amazon.es/dp/B06Y29B1LL/?tag=tolees-21)
+[![Puleva Leche Desnatada - 6 x 1 L](https://m.media-amazon.com/images/I/41p6WDNuWWL._SL400_.jpg)](https://www.amazon.es/dp/B06Y29B1LL/?tag=tolees-21)
 
 ℹ️:
 

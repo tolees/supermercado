@@ -2,7 +2,7 @@
 layout: post
 title: 'Pigmentos para Resina Epoxi DEWEL 10g*15 al 10.01 % de descuento'
 date: 2020-06-24 14:24:13
-image: 'https://m.media-amazon.com/images/I/41hQEX8h3sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hQEX8h3sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Está [Pigmentos para Resina Epoxi DEWEL 10g*15 Colores Pigmentos en Polvo Mica en Polvos Para Hacer Slime Jabon Pintauñas Sombra de Ojos etc](https://www.amazon.es/dp/B07NMFV6HC/?tag=tolees-21) con 10.01 de descuento por 17.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Pigmentos para Resina Epoxi DEWEL 10g*15](https://m.media-amazon.com/images/I/41hQEX8h3sL._SL200_.jpg)](https://www.amazon.es/dp/B07NMFV6HC/?tag=tolees-21)
+[![Pigmentos para Resina Epoxi DEWEL 10g*15](https://m.media-amazon.com/images/I/41hQEX8h3sL._SL400_.jpg)](https://www.amazon.es/dp/B07NMFV6HC/?tag=tolees-21)
 
 ℹ️:
 

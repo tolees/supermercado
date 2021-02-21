@@ -2,7 +2,7 @@
 layout: post
 title: 'Hawaiian Tropic Sensitive Skin Face - Cr al 19.44 % de rebaja'
 date: 2020-07-09 22:46:51
-image: 'https://m.media-amazon.com/images/I/510RBIKlerL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510RBIKlerL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.95'
 
 Tienes [Hawaiian Tropic Sensitive Skin Face - Crema Solar para la Cara de Piel Sensible  SPF 50  60ml](https://www.amazon.es/dp/B073S9RFDZ/?tag=tolees-21) con precio final de  8.95 EUR (original: 11.11 EUR) (19.44 %  de rebaja) aqui!
 
-[![Hawaiian Tropic Sensitive Skin Face - Cr](https://m.media-amazon.com/images/I/510RBIKlerL._SL200_.jpg)](https://www.amazon.es/dp/B073S9RFDZ/?tag=tolees-21)
+[![Hawaiian Tropic Sensitive Skin Face - Cr](https://m.media-amazon.com/images/I/510RBIKlerL._SL400_.jpg)](https://www.amazon.es/dp/B073S9RFDZ/?tag=tolees-21)
 
 🔎:
 

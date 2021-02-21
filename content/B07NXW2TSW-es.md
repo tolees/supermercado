@@ -2,7 +2,7 @@
 layout: post
 title: 'La Parroquia de Veracruz - Bolsa Café Mo al 0.00 % de descuento'
 date: 2020-01-04 17:57:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41v2x7ZslWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v2x7ZslWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Ahora mismo tienes [La Parroquia de Veracruz - Bolsa Café Molido Tradicional  780 gramos | Café Tostado y Molido Aromatizado Intenso de Chocolate y Caramelos Frutales | Gourmet de Altura](https://www.amazon.es/dp/B07NXW2TSW/?tag=tolees-21) a 13.99 EUR (original: 13.99 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![La Parroquia de Veracruz - Bolsa Café Mo](https://images-eu.ssl-images-amazon.com/images/I/41v2x7ZslWL._SL200_.jpg)](https://www.amazon.es/dp/B07NXW2TSW/?tag=tolees-21)
+[![La Parroquia de Veracruz - Bolsa Café Mo](https://images-eu.ssl-images-amazon.com/images/I/41v2x7ZslWL._SL400_.jpg)](https://www.amazon.es/dp/B07NXW2TSW/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mimosín - Intense Estallido de Pasión Su con un 5.73 % de descuento'
 date: 2020-06-25 22:19:57
-image: 'https://m.media-amazon.com/images/I/41Z5TnMTCLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Z5TnMTCLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.0566666666666666'
 
 En este momento está [Mimosín - Intense Estallido de Pasión Suavizante Concentrado - 58 lavados](https://www.amazon.es/dp/B073VN2WG8/?tag=tolees-21) a 3.29 EUR (original: 3.49 EUR) (5.73 %  de descuento) en el siguiente enlace!
 
-[![Mimosín - Intense Estallido de Pasión Su](https://m.media-amazon.com/images/I/41Z5TnMTCLL._SL200_.jpg)](https://www.amazon.es/dp/B073VN2WG8/?tag=tolees-21)
+[![Mimosín - Intense Estallido de Pasión Su](https://m.media-amazon.com/images/I/41Z5TnMTCLL._SL400_.jpg)](https://www.amazon.es/dp/B073VN2WG8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'TAHE BLUMIN CHAMPU JENGIBRE Y LIMON 1000 al 6.43 % de descuento'
 date: 2020-02-13 16:35:51
-image: 'https://m.media-amazon.com/images/I/316wUx-giSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316wUx-giSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.62'
 
 Está [TAHE BLUMIN CHAMPU JENGIBRE Y LIMON 1000ML](https://www.amazon.es/dp/B07MWB1C1B/?tag=tolees-21) con 6.43 de descuento por 10.62 EUR (original: 11.35 EUR) en el siguiente enlace!
 
-[![TAHE BLUMIN CHAMPU JENGIBRE Y LIMON 1000](https://m.media-amazon.com/images/I/316wUx-giSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MWB1C1B/?tag=tolees-21)
+[![TAHE BLUMIN CHAMPU JENGIBRE Y LIMON 1000](https://m.media-amazon.com/images/I/316wUx-giSL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MWB1C1B/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 4.82 % en Foxy Asso Ultra Papel de Cocina - 2 roll'
 date: 2020-08-08 22:03:51
-image: 'https://m.media-amazon.com/images/I/61I2p-Ym-rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61I2p-Ym-rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.39875'
 
 Tienes [Foxy Asso Ultra Papel de Cocina - 2 rollos](https://www.amazon.es/dp/B00XDPNTHU/?tag=tolees-21) con un 4.82 % de descuento con precio de oferta de 2.37 EUR (original: 2.49 EUR) en el siguiente enlace!
 
-[![Foxy Asso Ultra Papel de Cocina - 2 roll](https://m.media-amazon.com/images/I/61I2p-Ym-rL._SL200_.jpg)](https://www.amazon.es/dp/B00XDPNTHU/?tag=tolees-21)
+[![Foxy Asso Ultra Papel de Cocina - 2 roll](https://m.media-amazon.com/images/I/61I2p-Ym-rL._SL400_.jpg)](https://www.amazon.es/dp/B00XDPNTHU/?tag=tolees-21)
 
 ℹ️:
 

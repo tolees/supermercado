@@ -2,7 +2,7 @@
 layout: post
 title: 'Milka  Barrita grande de chocolate - 12  con un 6.36 % de descuento'
 date: 2020-02-21 00:47:08
-image: 'https://m.media-amazon.com/images/I/41KuvsPgWbL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KuvsPgWbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.07'
 
 En este momento está [Milka  Barrita grande de chocolate - 12 de 300 gr.  Total 3600 gr. ](https://www.amazon.es/dp/B07HH45K8F/?tag=tolees-21) a 17.07 EUR (original: 18.23 EUR) (6.36 %  de descuento) en el siguiente enlace!
 
-[![Milka  Barrita grande de chocolate - 12 ](https://m.media-amazon.com/images/I/41KuvsPgWbL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07HH45K8F/?tag=tolees-21)
+[![Milka  Barrita grande de chocolate - 12 ](https://m.media-amazon.com/images/I/41KuvsPgWbL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07HH45K8F/?tag=tolees-21)
 
 🔎:
 

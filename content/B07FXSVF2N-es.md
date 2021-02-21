@@ -2,7 +2,7 @@
 layout: post
 title: 'Novohogar Sillón Reclinable Praga con Mu al 13.70 % de descuento'
 date: 2020-02-14 19:31:05
-image: 'https://m.media-amazon.com/images/I/41fip9uCsJL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fip9uCsJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '189.0'
 
 Ahora mismo tienes [Novohogar Sillón Reclinable Praga con Muelle Ensacado  Respaldo Reclinable y Reposapiés Extensible Chocolate ](https://www.amazon.es/dp/B07FXSVF2N/?tag=tolees-21) a 189.0 EUR (original: 219.0 EUR) (13.70 %  de descuento) en el siguiente enlace!
 
-[![Novohogar Sillón Reclinable Praga con Mu](https://m.media-amazon.com/images/I/41fip9uCsJL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FXSVF2N/?tag=tolees-21)
+[![Novohogar Sillón Reclinable Praga con Mu](https://m.media-amazon.com/images/I/41fip9uCsJL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FXSVF2N/?tag=tolees-21)
 
 🔎:
 

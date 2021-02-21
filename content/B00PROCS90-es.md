@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 11.94 % en ENATE Reserva Especial 2006  Cabernet Sa'
 date: 2020-02-07 11:21:33
-image: 'https://m.media-amazon.com/images/I/31NMq17Z8mL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NMq17Z8mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.97'
 
 Tienes [ENATE Reserva Especial 2006  Cabernet Sauvignon y Merlot  Vino Tinto  DO Somontano  Crianza 19 Meses  Botella 75cl](https://www.amazon.es/dp/B00PROCS90/?tag=tolees-21) con un 11.94 % de descuento con precio de oferta de 23.97 EUR (original: 27.22 EUR) en el siguiente enlace!
 
-[![ENATE Reserva Especial 2006  Cabernet Sa](https://m.media-amazon.com/images/I/31NMq17Z8mL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00PROCS90/?tag=tolees-21)
+[![ENATE Reserva Especial 2006  Cabernet Sa](https://m.media-amazon.com/images/I/31NMq17Z8mL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00PROCS90/?tag=tolees-21)
 
 ℹ️:
 

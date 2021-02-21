@@ -2,7 +2,7 @@
 layout: post
 title: 'Scottex Sensitive Papel Higiénico  6 Rol al 20.07 % de descuento'
 date: 2020-10-02 10:34:10
-image: 'https://m.media-amazon.com/images/I/41z3WCDriiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41z3WCDriiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.39'
 
 Ahora mismo tienes [Scottex Sensitive Papel Higiénico  6 Rollos](https://www.amazon.es/dp/B00XA06XQ2/?tag=tolees-21) a 2.39 EUR (original: 2.99 EUR) (20.07 %  de descuento) en el siguiente enlace!
 
-[![Scottex Sensitive Papel Higiénico  6 Rol](https://m.media-amazon.com/images/I/41z3WCDriiL._SL200_.jpg)](https://www.amazon.es/dp/B00XA06XQ2/?tag=tolees-21)
+[![Scottex Sensitive Papel Higiénico  6 Rol](https://m.media-amazon.com/images/I/41z3WCDriiL._SL400_.jpg)](https://www.amazon.es/dp/B00XA06XQ2/?tag=tolees-21)
 
 🔎:
 

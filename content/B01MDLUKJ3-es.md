@@ -2,7 +2,7 @@
 layout: post
 title: 'Heineken Cerveza - Paquete de 12 x 330 m con un 12.58 % de descuento'
 date: 2020-02-06 16:07:15
-image: 'https://m.media-amazon.com/images/I/41+sSEjFSgL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+sSEjFSgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.225'
 
 En este momento está [Heineken Cerveza - Paquete de 12 x 330 ml - Total: 3960 ml](https://www.amazon.es/dp/B01MDLUKJ3/?tag=tolees-21) a 6.6 EUR (original: 7.55 EUR) (12.58 %  de descuento) en el siguiente enlace!
 
-[![Heineken Cerveza - Paquete de 12 x 330 m](https://m.media-amazon.com/images/I/41+sSEjFSgL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01MDLUKJ3/?tag=tolees-21)
+[![Heineken Cerveza - Paquete de 12 x 330 m](https://m.media-amazon.com/images/I/41+sSEjFSgL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01MDLUKJ3/?tag=tolees-21)
 
 🔎:
 

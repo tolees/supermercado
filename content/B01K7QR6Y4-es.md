@@ -2,7 +2,7 @@
 layout: post
 title: 'Gullón Digestive Avena Galleta Integral  al 0.86 % de rebaja'
 date: 2020-06-04 21:36:02
-image: 'https://m.media-amazon.com/images/I/51x+Zd2o9vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51x+Zd2o9vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.16'
 
 Tienes [Gullón Digestive Avena Galleta Integral con Avena  Trigo y Gotas de Chocolate Negro - 425 g](https://www.amazon.es/dp/B01K7QR6Y4/?tag=tolees-21) con precio final de  1.15 EUR (original: 1.16 EUR) (0.86 %  de rebaja) aqui!
 
-[![Gullón Digestive Avena Galleta Integral ](https://m.media-amazon.com/images/I/51x+Zd2o9vL._SL200_.jpg)](https://www.amazon.es/dp/B01K7QR6Y4/?tag=tolees-21)
+[![Gullón Digestive Avena Galleta Integral ](https://m.media-amazon.com/images/I/51x+Zd2o9vL._SL400_.jpg)](https://www.amazon.es/dp/B01K7QR6Y4/?tag=tolees-21)
 
 🔎:
 

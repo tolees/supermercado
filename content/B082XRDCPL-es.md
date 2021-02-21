@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oreal Paris Make-up Designer Maybellin al 22.69 % de descuento'
 date: 2020-09-30 10:22:49
-image: 'https://m.media-amazon.com/images/I/31+qepyvTnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+qepyvTnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 Ahora mismo tienes [L Oreal Paris Make-up Designer Maybelline New York Brow Extensions Stick de Cejas Tono 07 Black Brown  Marrón   3600531606541 ](https://www.amazon.es/dp/B082XRDCPL/?tag=tolees-21) a 6.95 EUR (original: 8.99 EUR) (22.69 %  de descuento) en el siguiente enlace!
 
-[![L Oreal Paris Make-up Designer Maybellin](https://m.media-amazon.com/images/I/31+qepyvTnL._SL200_.jpg)](https://www.amazon.es/dp/B082XRDCPL/?tag=tolees-21)
+[![L Oreal Paris Make-up Designer Maybellin](https://m.media-amazon.com/images/I/31+qepyvTnL._SL400_.jpg)](https://www.amazon.es/dp/B082XRDCPL/?tag=tolees-21)
 
 🔎:
 

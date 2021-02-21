@@ -2,7 +2,7 @@
 layout: post
 title: 'Purina Dentalife  Golosina Dental para P al 10.00 % de rebaja'
 date: 2020-04-08 07:45:10
-image: 'https://m.media-amazon.com/images/I/61LAa4X4GyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61LAa4X4GyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.32'
 
 Tienes [Purina Dentalife  Golosina Dental para Perro Pequeño  345 g](https://www.amazon.es/dp/B06XT25N9Q/?tag=tolees-21) con precio final de  4.32 EUR (original: 4.8 EUR) (10.00 %  de rebaja) aqui!
 
-[![Purina Dentalife  Golosina Dental para P](https://m.media-amazon.com/images/I/61LAa4X4GyL._SL200_.jpg)](https://www.amazon.es/dp/B06XT25N9Q/?tag=tolees-21)
+[![Purina Dentalife  Golosina Dental para P](https://m.media-amazon.com/images/I/61LAa4X4GyL._SL400_.jpg)](https://www.amazon.es/dp/B06XT25N9Q/?tag=tolees-21)
 
 🔎:
 

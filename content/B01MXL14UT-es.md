@@ -2,7 +2,7 @@
 layout: post
 title: 'Brandy de Jerez Solera Gran Reserva Carl al 20.00 % de rebaja'
 date: 2020-09-21 07:20:54
-image: 'https://m.media-amazon.com/images/I/51NahmCvgbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NahmCvgbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.769999999999996'
 
 Tienes [Brandy de Jerez Solera Gran Reserva Carlos I Imperial XO - 1 botella de 70 cl](https://www.amazon.es/dp/B01MXL14UT/?tag=tolees-21) con precio final de  36.4 EUR (original: 45.5 EUR) (20.00 %  de rebaja) aqui!
 
-[![Brandy de Jerez Solera Gran Reserva Carl](https://m.media-amazon.com/images/I/51NahmCvgbL._SL200_.jpg)](https://www.amazon.es/dp/B01MXL14UT/?tag=tolees-21)
+[![Brandy de Jerez Solera Gran Reserva Carl](https://m.media-amazon.com/images/I/51NahmCvgbL._SL400_.jpg)](https://www.amazon.es/dp/B01MXL14UT/?tag=tolees-21)
 
 🔎:
 

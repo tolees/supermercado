@@ -2,7 +2,7 @@
 layout: post
 title: 'Revlon ColorStay Overtime Pintalabios La al 13.61 % de descuento'
 date: 2020-01-14 17:14:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/315HSDkZ5LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315HSDkZ5LL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.305'
 
 Está [Revlon ColorStay Overtime Pintalabios Larga Duración  Forever Scarlet ](https://www.amazon.es/dp/B001KYVKEK/?tag=tolees-21) con 13.61 de descuento por 9.46 EUR (original: 10.95 EUR) en el siguiente enlace!
 
-[![Revlon ColorStay Overtime Pintalabios La](https://images-eu.ssl-images-amazon.com/images/I/315HSDkZ5LL._SL200_.jpg)](https://www.amazon.es/dp/B001KYVKEK/?tag=tolees-21)
+[![Revlon ColorStay Overtime Pintalabios La](https://images-eu.ssl-images-amazon.com/images/I/315HSDkZ5LL._SL400_.jpg)](https://www.amazon.es/dp/B001KYVKEK/?tag=tolees-21)
 
 ℹ️:
 

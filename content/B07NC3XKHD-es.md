@@ -2,7 +2,7 @@
 layout: post
 title: 'AXE Excite - Desodorante Bodyspray para  con un 12.50 % de descuento'
 date: 2020-06-25 16:31:47
-image: 'https://m.media-amazon.com/images/I/41PEEFHe1KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PEEFHe1KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.670909090909092'
 
 En este momento está [AXE Excite - Desodorante Bodyspray para hombre  48 horas de protección  150 ml  pack de 3](https://www.amazon.es/dp/B07NC3XKHD/?tag=tolees-21) a 9.45 EUR (original: 10.8 EUR) (12.50 %  de descuento) en el siguiente enlace!
 
-[![AXE Excite - Desodorante Bodyspray para ](https://m.media-amazon.com/images/I/41PEEFHe1KL._SL200_.jpg)](https://www.amazon.es/dp/B07NC3XKHD/?tag=tolees-21)
+[![AXE Excite - Desodorante Bodyspray para ](https://m.media-amazon.com/images/I/41PEEFHe1KL._SL400_.jpg)](https://www.amazon.es/dp/B07NC3XKHD/?tag=tolees-21)
 
 🔎:
 

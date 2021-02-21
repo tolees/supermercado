@@ -2,7 +2,7 @@
 layout: post
 title: 'Vino Tinto D.O. Rioja Montecillo Crianza con un 5.66 % de descuento'
 date: 2020-07-11 00:11:52
-image: 'https://m.media-amazon.com/images/I/31y+jR34wML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31y+jR34wML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.5'
 
 En este momento está [Vino Tinto D.O. Rioja Montecillo Crianza - 1 botella de 75 cl](https://www.amazon.es/dp/B0043PC3MG/?tag=tolees-21) a 7.5 EUR (original: 7.95 EUR) (5.66 %  de descuento) en el siguiente enlace!
 
-[![Vino Tinto D.O. Rioja Montecillo Crianza](https://m.media-amazon.com/images/I/31y+jR34wML._SL200_.jpg)](https://www.amazon.es/dp/B0043PC3MG/?tag=tolees-21)
+[![Vino Tinto D.O. Rioja Montecillo Crianza](https://m.media-amazon.com/images/I/31y+jR34wML._SL400_.jpg)](https://www.amazon.es/dp/B0043PC3MG/?tag=tolees-21)
 
 🔎:
 

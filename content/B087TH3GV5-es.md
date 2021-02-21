@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 18.58 % en Cocoda Dispensador de Desinfectante Mano'
 date: 2020-08-22 03:20:39
-image: 'https://m.media-amazon.com/images/I/4137pxrp2FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4137pxrp2FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.689999999999998'
 
 Tienes [Cocoda Dispensador de Desinfectante Manos  350ml Dispensador Jabon Automático Sensor Sin Contacto con 2 Interruptor Ajustable & Impermeable IPX4  Recargable Dosificador Jabon Espuma para Cocina Baño](https://www.amazon.es/dp/B087TH3GV5/?tag=tolees-21) con un 18.58 % de descuento con precio de oferta de 22.79 EUR (original: 27.99 EUR) en el siguiente enlace!
 
-[![Cocoda Dispensador de Desinfectante Mano](https://m.media-amazon.com/images/I/4137pxrp2FL._SL200_.jpg)](https://www.amazon.es/dp/B087TH3GV5/?tag=tolees-21)
+[![Cocoda Dispensador de Desinfectante Mano](https://m.media-amazon.com/images/I/4137pxrp2FL._SL400_.jpg)](https://www.amazon.es/dp/B087TH3GV5/?tag=tolees-21)
 
 ℹ️:
 

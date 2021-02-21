@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 21.48 % en Orlando Tomate Frito Clásico - Pack de 3'
 date: 2020-07-23 23:04:54
-image: 'https://m.media-amazon.com/images/I/51RpJkcDvVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RpJkcDvVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.06'
 
 Tienes [Orlando Tomate Frito Clásico - Pack de 3 x 210 g - Total : 630 g](https://www.amazon.es/dp/B01K7QN5JE/?tag=tolees-21) con un 21.48 % de descuento con precio de oferta de 1.06 EUR (original: 1.35 EUR) en el siguiente enlace!
 
-[![Orlando Tomate Frito Clásico - Pack de 3](https://m.media-amazon.com/images/I/51RpJkcDvVL._SL200_.jpg)](https://www.amazon.es/dp/B01K7QN5JE/?tag=tolees-21)
+[![Orlando Tomate Frito Clásico - Pack de 3](https://m.media-amazon.com/images/I/51RpJkcDvVL._SL400_.jpg)](https://www.amazon.es/dp/B01K7QN5JE/?tag=tolees-21)
 
 ℹ️:
 

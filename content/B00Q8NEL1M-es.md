@@ -2,7 +2,7 @@
 layout: post
 title: 'Cool Create - Kit de fabricación de Choc al 18.37 % de descuento'
 date: 2020-06-07 00:41:53
-image: 'https://m.media-amazon.com/images/I/51eHvAgsgwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51eHvAgsgwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.78'
 
 Está [Cool Create - Kit de fabricación de Chocolate para niñas de 5 años y más  9021 ](https://www.amazon.es/dp/B00Q8NEL1M/?tag=tolees-21) con 18.37 de descuento por 21.02 EUR (original: 25.75 EUR) en el siguiente enlace!
 
-[![Cool Create - Kit de fabricación de Choc](https://m.media-amazon.com/images/I/51eHvAgsgwL._SL200_.jpg)](https://www.amazon.es/dp/B00Q8NEL1M/?tag=tolees-21)
+[![Cool Create - Kit de fabricación de Choc](https://m.media-amazon.com/images/I/51eHvAgsgwL._SL400_.jpg)](https://www.amazon.es/dp/B00Q8NEL1M/?tag=tolees-21)
 
 ℹ️:
 

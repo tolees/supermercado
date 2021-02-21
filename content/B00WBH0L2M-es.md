@@ -2,7 +2,7 @@
 layout: post
 title: 'Babaria Crema Facial Regeneradora 9 Efec al 11.17 % de descuento'
 date: 2020-01-21 15:16:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51PHXFjYMsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51PHXFjYMsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.95'
 
 Ahora mismo tienes [Babaria Crema Facial Regeneradora 9 Efectos Vital Skin Stop Arrugas - 50 ml](https://www.amazon.es/dp/B00WBH0L2M/?tag=tolees-21) a 7.95 EUR (original: 8.95 EUR) (11.17 %  de descuento) en el siguiente enlace!
 
-[![Babaria Crema Facial Regeneradora 9 Efec](https://images-eu.ssl-images-amazon.com/images/I/51PHXFjYMsL._SL200_.jpg)](https://www.amazon.es/dp/B00WBH0L2M/?tag=tolees-21)
+[![Babaria Crema Facial Regeneradora 9 Efec](https://images-eu.ssl-images-amazon.com/images/I/51PHXFjYMsL._SL400_.jpg)](https://www.amazon.es/dp/B00WBH0L2M/?tag=tolees-21)
 
 🔎:
 

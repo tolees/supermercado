@@ -2,7 +2,7 @@
 layout: post
 title: 'Oral B 68341 - Cabezales para cepillo de con un 0.00 % de descuento'
 date: 2020-01-22 12:13:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51GbCS62JwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GbCS62JwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.16'
 
 En este momento está [Oral B 68341 - Cabezales para cepillo de dientes eléctrico de rotación  color multicolor](https://www.amazon.es/dp/B00GGGL3XA/?tag=tolees-21) a 17.16 EUR (original: 17.16 EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Oral B 68341 - Cabezales para cepillo de](https://images-eu.ssl-images-amazon.com/images/I/51GbCS62JwL._SL200_.jpg)](https://www.amazon.es/dp/B00GGGL3XA/?tag=tolees-21)
+[![Oral B 68341 - Cabezales para cepillo de](https://images-eu.ssl-images-amazon.com/images/I/51GbCS62JwL._SL400_.jpg)](https://www.amazon.es/dp/B00GGGL3XA/?tag=tolees-21)
 
 🔎:
 

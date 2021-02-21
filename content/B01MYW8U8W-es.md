@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Paris Total Cover Base Maquillaj con un 19.61 % de descuento'
 date: 2020-01-17 06:03:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/311JU9YmPEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311JU9YmPEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.41'
 
 En este momento está [L Oréal Paris Total Cover Base Maquillaje Cobertura Total  Tono de Piel Claro 13 Beige Rose - 35 gr](https://www.amazon.es/dp/B01MYW8U8W/?tag=tolees-21) a 10.41 EUR (original: 12.95 EUR) (19.61 %  de descuento) en el siguiente enlace!
 
-[![L Oréal Paris Total Cover Base Maquillaj](https://images-eu.ssl-images-amazon.com/images/I/311JU9YmPEL._SL200_.jpg)](https://www.amazon.es/dp/B01MYW8U8W/?tag=tolees-21)
+[![L Oréal Paris Total Cover Base Maquillaj](https://images-eu.ssl-images-amazon.com/images/I/311JU9YmPEL._SL400_.jpg)](https://www.amazon.es/dp/B01MYW8U8W/?tag=tolees-21)
 
 🔎:
 

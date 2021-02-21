@@ -2,7 +2,7 @@
 layout: post
 title: 'Shandy Cruzcampo Limón Cerveza - Caja de al 9.84 % de descuento'
 date: 2020-04-03 14:49:19
-image: 'None._SL200_'
+image: 'None._SL400_'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.0'
 
 Está [Shandy Cruzcampo Limón Cerveza - Caja de 24 Latas x 330 ml - Total: 7.92 L](https://www.amazon.es/dp/B01GS1CJ1W/?tag=tolees-21) con 9.84 de descuento por 13.2 EUR (original: 14.64 EUR) en el siguiente enlace!
 
-[![Shandy Cruzcampo Limón Cerveza - Caja de](None._SL200_)](https://www.amazon.es/dp/B01GS1CJ1W/?tag=tolees-21)
+[![Shandy Cruzcampo Limón Cerveza - Caja de](None._SL400_)](https://www.amazon.es/dp/B01GS1CJ1W/?tag=tolees-21)
 
 ℹ️:
 

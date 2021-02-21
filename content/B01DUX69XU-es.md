@@ -2,7 +2,7 @@
 layout: post
 title: 'ultima Cat - Junior 2-12 Pollo & Arroz 4 al 0.00 % de rebaja'
 date: 2020-11-19 20:49:52
-image: 'https://m.media-amazon.com/images/I/51DM-AfvvSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DM-AfvvSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: 'None'
 
 Tienes [ultima Cat - Junior 2-12 Pollo & Arroz 400 gr](https://www.amazon.es/dp/B01DUX69XU/?tag=tolees-21) con precio final de  None None (original: None None) (0.00 %  de rebaja) aqui!
 
-[![ultima Cat - Junior 2-12 Pollo & Arroz 4](https://m.media-amazon.com/images/I/51DM-AfvvSL._SL200_.jpg)](https://www.amazon.es/dp/B01DUX69XU/?tag=tolees-21)
+[![ultima Cat - Junior 2-12 Pollo & Arroz 4](https://m.media-amazon.com/images/I/51DM-AfvvSL._SL400_.jpg)](https://www.amazon.es/dp/B01DUX69XU/?tag=tolees-21)
 
 🔎:
 

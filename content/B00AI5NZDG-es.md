@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 16.67 % en WELEDA Gel Dentífrico para Niños  1x 50 '
 date: 2020-05-17 10:24:00
-image: 'https://m.media-amazon.com/images/I/31S-KtMyL8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31S-KtMyL8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.75'
 
 Tienes [WELEDA Gel Dentífrico para Niños  1x 50 ml ](https://www.amazon.es/dp/B00AI5NZDG/?tag=tolees-21) con un 16.67 % de descuento con precio de oferta de 4.75 EUR (original: 5.7 EUR) en el siguiente enlace!
 
-[![WELEDA Gel Dentífrico para Niños  1x 50 ](https://m.media-amazon.com/images/I/31S-KtMyL8L._SL200_.jpg)](https://www.amazon.es/dp/B00AI5NZDG/?tag=tolees-21)
+[![WELEDA Gel Dentífrico para Niños  1x 50 ](https://m.media-amazon.com/images/I/31S-KtMyL8L._SL400_.jpg)](https://www.amazon.es/dp/B00AI5NZDG/?tag=tolees-21)
 
 ℹ️:
 

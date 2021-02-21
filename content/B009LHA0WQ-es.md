@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 19.15 % en Max Factor Translucent Professional  Maq'
 date: 2020-02-23 12:08:48
-image: 'https://m.media-amazon.com/images/I/4137alBsM6L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4137alBsM6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.34'
 
 Tienes [Max Factor Translucent Professional  Maquillaje en polvo  tono de piel medio ](https://www.amazon.es/dp/B009LHA0WQ/?tag=tolees-21) con un 19.15 % de descuento con precio de oferta de 7.6 EUR (original: 9.4 EUR) en el siguiente enlace!
 
-[![Max Factor Translucent Professional  Maq](https://m.media-amazon.com/images/I/4137alBsM6L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B009LHA0WQ/?tag=tolees-21)
+[![Max Factor Translucent Professional  Maq](https://m.media-amazon.com/images/I/4137alBsM6L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B009LHA0WQ/?tag=tolees-21)
 
 ℹ️:
 

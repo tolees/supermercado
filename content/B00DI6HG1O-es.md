@@ -2,7 +2,7 @@
 layout: post
 title: 'Jim Beam Honey Bourbon Whisky Con Miel   al 4.98 % de descuento'
 date: 2020-06-24 14:31:14
-image: 'https://m.media-amazon.com/images/I/41-gVvXog2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-gVvXog2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.693333333333333'
 
 Está [Jim Beam Honey Bourbon Whisky Con Miel  35% - 700 ml](https://www.amazon.es/dp/B00DI6HG1O/?tag=tolees-21) con 4.98 de descuento por 12.59 EUR (original: 13.25 EUR) en el siguiente enlace!
 
-[![Jim Beam Honey Bourbon Whisky Con Miel  ](https://m.media-amazon.com/images/I/41-gVvXog2L._SL200_.jpg)](https://www.amazon.es/dp/B00DI6HG1O/?tag=tolees-21)
+[![Jim Beam Honey Bourbon Whisky Con Miel  ](https://m.media-amazon.com/images/I/41-gVvXog2L._SL400_.jpg)](https://www.amazon.es/dp/B00DI6HG1O/?tag=tolees-21)
 
 ℹ️:
 

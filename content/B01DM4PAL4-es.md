@@ -2,7 +2,7 @@
 layout: post
 title: 'Pack 3 recargas de materias primas para  al 16.68 % de rebaja'
 date: 2020-04-06 09:05:10
-image: 'https://m.media-amazon.com/images/I/41jSjcywL2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jSjcywL2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.95'
 
 Tienes [Pack 3 recargas de materias primas para elaborar cerveza en casa. #Cervezanía IPA  Weissbier Trigo & Albero Gastronómica Pale Ale](https://www.amazon.es/dp/B01DM4PAL4/?tag=tolees-21) con precio final de  49.95 EUR (original: 59.95 EUR) (16.68 %  de rebaja) aqui!
 
-[![Pack 3 recargas de materias primas para ](https://m.media-amazon.com/images/I/41jSjcywL2L._SL200_.jpg)](https://www.amazon.es/dp/B01DM4PAL4/?tag=tolees-21)
+[![Pack 3 recargas de materias primas para ](https://m.media-amazon.com/images/I/41jSjcywL2L._SL400_.jpg)](https://www.amazon.es/dp/B01DM4PAL4/?tag=tolees-21)
 
 🔎:
 

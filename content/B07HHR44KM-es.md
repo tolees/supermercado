@@ -2,7 +2,7 @@
 layout: post
 title: 'Maeloc Sidra Seca - Pack de 4 x 200 ml al 23.75 % de rebaja'
 date: 2020-10-03 13:13:10
-image: 'https://m.media-amazon.com/images/I/51TVJ9AkxLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TVJ9AkxLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.729'
 
 Tienes [Maeloc Sidra Seca - Pack de 4 x 200 ml](https://www.amazon.es/dp/B07HHR44KM/?tag=tolees-21) con precio final de  2.28 EUR (original: 2.99 EUR) (23.75 %  de rebaja) aqui!
 
-[![Maeloc Sidra Seca - Pack de 4 x 200 ml](https://m.media-amazon.com/images/I/51TVJ9AkxLL._SL200_.jpg)](https://www.amazon.es/dp/B07HHR44KM/?tag=tolees-21)
+[![Maeloc Sidra Seca - Pack de 4 x 200 ml](https://m.media-amazon.com/images/I/51TVJ9AkxLL._SL400_.jpg)](https://www.amazon.es/dp/B07HHR44KM/?tag=tolees-21)
 
 🔎:
 

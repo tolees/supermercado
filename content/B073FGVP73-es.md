@@ -2,7 +2,7 @@
 layout: post
 title: 'Bionsan Garbanzos Cocidos Ecológicos - 4 con un 11.30 % de descuento'
 date: 2020-09-26 00:47:50
-image: 'https://m.media-amazon.com/images/I/41NBLd5LyVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NBLd5LyVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.705384615384617'
 
 En este momento está [Bionsan Garbanzos Cocidos Ecológicos - 4 Botes de 400 g - Total: 1600 gr.](https://www.amazon.es/dp/B073FGVP73/?tag=tolees-21) a 10.6 EUR (original: 11.95 EUR) (11.30 %  de descuento) en el siguiente enlace!
 
-[![Bionsan Garbanzos Cocidos Ecológicos - 4](https://m.media-amazon.com/images/I/41NBLd5LyVL._SL200_.jpg)](https://www.amazon.es/dp/B073FGVP73/?tag=tolees-21)
+[![Bionsan Garbanzos Cocidos Ecológicos - 4](https://m.media-amazon.com/images/I/41NBLd5LyVL._SL400_.jpg)](https://www.amazon.es/dp/B073FGVP73/?tag=tolees-21)
 
 🔎:
 

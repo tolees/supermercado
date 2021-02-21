@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 21.05 % en Mimosín Concentrado Suavizante Aloe Vera'
 date: 2020-07-10 18:49:58
-image: 'https://m.media-amazon.com/images/I/51sUnmFCXBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sUnmFCXBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Tienes [Mimosín Concentrado Suavizante Aloe Vera 66lav x 8botellas](https://www.amazon.es/dp/B073QR85HG/?tag=tolees-21) con un 21.05 % de descuento con precio de oferta de 16.99 EUR (original: 21.52 EUR) en el siguiente enlace!
 
-[![Mimosín Concentrado Suavizante Aloe Vera](https://m.media-amazon.com/images/I/51sUnmFCXBL._SL200_.jpg)](https://www.amazon.es/dp/B073QR85HG/?tag=tolees-21)
+[![Mimosín Concentrado Suavizante Aloe Vera](https://m.media-amazon.com/images/I/51sUnmFCXBL._SL400_.jpg)](https://www.amazon.es/dp/B073QR85HG/?tag=tolees-21)
 
 ℹ️:
 

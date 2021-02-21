@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline New York - Superstay 7Days 88 al 17.74 % de descuento'
 date: 2020-01-24 10:57:47
-image: 'https://m.media-amazon.com/images/I/41qd6Q9caVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qd6Q9caVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.75'
 
 Está [Maybelline New York - Superstay 7Days 887 All Day Plum Pintauñas Larga Duración Efecto Gel  Azul Violáceo](https://www.amazon.es/dp/B01NGZNFNX/?tag=tolees-21) con 17.74 de descuento por 5.75 EUR (original: 6.99 EUR) en el siguiente enlace!
 
-[![Maybelline New York - Superstay 7Days 88](https://m.media-amazon.com/images/I/41qd6Q9caVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01NGZNFNX/?tag=tolees-21)
+[![Maybelline New York - Superstay 7Days 88](https://m.media-amazon.com/images/I/41qd6Q9caVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01NGZNFNX/?tag=tolees-21)
 
 ℹ️:
 

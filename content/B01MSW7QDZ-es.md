@@ -2,7 +2,7 @@
 layout: post
 title: 'Vileda - Salvauñas Vitroceramica Duplo - al 19.51 % de descuento'
 date: 2020-05-14 16:16:51
-image: 'https://m.media-amazon.com/images/I/51aSjrPNBWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51aSjrPNBWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.6'
 
 Ahora mismo tienes [Vileda - Salvauñas Vitroceramica Duplo - [Pack de 4]](https://www.amazon.es/dp/B01MSW7QDZ/?tag=tolees-21) a 6.6 EUR (original: 8.2 EUR) (19.51 %  de descuento) en el siguiente enlace!
 
-[![Vileda - Salvauñas Vitroceramica Duplo -](https://m.media-amazon.com/images/I/51aSjrPNBWL._SL200_.jpg)](https://www.amazon.es/dp/B01MSW7QDZ/?tag=tolees-21)
+[![Vileda - Salvauñas Vitroceramica Duplo -](https://m.media-amazon.com/images/I/51aSjrPNBWL._SL400_.jpg)](https://www.amazon.es/dp/B01MSW7QDZ/?tag=tolees-21)
 
 🔎:
 

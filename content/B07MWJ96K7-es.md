@@ -2,7 +2,7 @@
 layout: post
 title: 'Nestlé Láminas de Chocolate Negro - 135  al 18.39 % de descuento'
 date: 2020-02-10 15:06:11
-image: 'https://m.media-amazon.com/images/I/41S+Z8zLvAL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41S+Z8zLvAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.42'
 
 Ahora mismo tienes [Nestlé Láminas de Chocolate Negro - 135 g](https://www.amazon.es/dp/B07MWJ96K7/?tag=tolees-21) a 1.42 EUR (original: 1.74 EUR) (18.39 %  de descuento) en el siguiente enlace!
 
-[![Nestlé Láminas de Chocolate Negro - 135 ](https://m.media-amazon.com/images/I/41S+Z8zLvAL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MWJ96K7/?tag=tolees-21)
+[![Nestlé Láminas de Chocolate Negro - 135 ](https://m.media-amazon.com/images/I/41S+Z8zLvAL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MWJ96K7/?tag=tolees-21)
 
 🔎:
 

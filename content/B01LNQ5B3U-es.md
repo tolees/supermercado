@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oreal Paris Elvive Fibralogy Champú Cr con un 22.34 % de descuento'
 date: 2020-10-09 14:14:14
-image: 'https://m.media-amazon.com/images/I/41ZHxC-4kFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZHxC-4kFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.99'
 
 En este momento está [L Oreal Paris Elvive Fibralogy Champú Creador de Densidad para Pelo con Poca Densidad - 370 ml](https://www.amazon.es/dp/B01LNQ5B3U/?tag=tolees-21) a 2.99 EUR (original: 3.85 EUR) (22.34 %  de descuento) en el siguiente enlace!
 
-[![L Oreal Paris Elvive Fibralogy Champú Cr](https://m.media-amazon.com/images/I/41ZHxC-4kFL._SL200_.jpg)](https://www.amazon.es/dp/B01LNQ5B3U/?tag=tolees-21)
+[![L Oreal Paris Elvive Fibralogy Champú Cr](https://m.media-amazon.com/images/I/41ZHxC-4kFL._SL400_.jpg)](https://www.amazon.es/dp/B01LNQ5B3U/?tag=tolees-21)
 
 🔎:
 

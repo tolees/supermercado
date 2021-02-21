@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 14.66 % en Elizabeth Arden 5th Avenue NYC - Agua de'
 date: 2020-03-12 15:33:40
-image: 'https://m.media-amazon.com/images/I/31qFOclO1DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qFOclO1DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.7025'
 
 Tienes [Elizabeth Arden 5th Avenue NYC - Agua de perfume](https://www.amazon.es/dp/B00CLC0ZVY/?tag=tolees-21) con un 14.66 % de descuento con precio de oferta de 14.96 EUR (original: 17.53 EUR) en el siguiente enlace!
 
-[![Elizabeth Arden 5th Avenue NYC - Agua de](https://m.media-amazon.com/images/I/31qFOclO1DL._SL200_.jpg)](https://www.amazon.es/dp/B00CLC0ZVY/?tag=tolees-21)
+[![Elizabeth Arden 5th Avenue NYC - Agua de](https://m.media-amazon.com/images/I/31qFOclO1DL._SL400_.jpg)](https://www.amazon.es/dp/B00CLC0ZVY/?tag=tolees-21)
 
 ℹ️:
 

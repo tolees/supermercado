@@ -2,7 +2,7 @@
 layout: post
 title: 'Air Wick - Ambientador aerosol  esencia  al 10.01 % de descuento'
 date: 2020-09-21 15:34:26
-image: 'https://m.media-amazon.com/images/I/51rMB1Tn7OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rMB1Tn7OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.52111111111111'
 
 Ahora mismo tienes [Air Wick - Ambientador aerosol  esencia para casa con aroma a Flor - pack de 6](https://www.amazon.es/dp/B07VFDHNLL/?tag=tolees-21) a 17.99 EUR (original: 19.99 EUR) (10.01 %  de descuento) en el siguiente enlace!
 
-[![Air Wick - Ambientador aerosol  esencia ](https://m.media-amazon.com/images/I/51rMB1Tn7OL._SL200_.jpg)](https://www.amazon.es/dp/B07VFDHNLL/?tag=tolees-21)
+[![Air Wick - Ambientador aerosol  esencia ](https://m.media-amazon.com/images/I/51rMB1Tn7OL._SL400_.jpg)](https://www.amazon.es/dp/B07VFDHNLL/?tag=tolees-21)
 
 🔎:
 

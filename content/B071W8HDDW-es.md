@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Expert Champú Protector de Cabel con un 18.18 % de descuento'
 date: 2020-03-16 15:33:22
-image: 'https://m.media-amazon.com/images/I/31lPoj4NiGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lPoj4NiGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.21'
 
 En este momento está [L Oréal Expert Champú Protector de Cabellos Teñidos - 500 ml](https://www.amazon.es/dp/B071W8HDDW/?tag=tolees-21) a 11.21 EUR (original: 13.7 EUR) (18.18 %  de descuento) en el siguiente enlace!
 
-[![L Oréal Expert Champú Protector de Cabel](https://m.media-amazon.com/images/I/31lPoj4NiGL._SL200_.jpg)](https://www.amazon.es/dp/B071W8HDDW/?tag=tolees-21)
+[![L Oréal Expert Champú Protector de Cabel](https://m.media-amazon.com/images/I/31lPoj4NiGL._SL400_.jpg)](https://www.amazon.es/dp/B071W8HDDW/?tag=tolees-21)
 
 🔎:
 

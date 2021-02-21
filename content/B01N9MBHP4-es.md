@@ -2,7 +2,7 @@
 layout: post
 title: 'Nivea Nivea Desod Spray 150 Ml.Woman 0%  al 0.00 % de rebaja'
 date: 2020-01-02 09:33:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31LefE-4cOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LefE-4cOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.805'
 
 Tienes [Nivea Nivea Desod Spray 150 Ml.Woman 0% Alumin. X.B 12U  Ahorr19 6% - 15 ml](https://www.amazon.es/dp/B01N9MBHP4/?tag=tolees-21) con precio final de  6.8 EUR (original: 6.8 EUR) (0.00 %  de rebaja) aqui!
 
-[![Nivea Nivea Desod Spray 150 Ml.Woman 0% ](https://images-eu.ssl-images-amazon.com/images/I/31LefE-4cOL._SL200_.jpg)](https://www.amazon.es/dp/B01N9MBHP4/?tag=tolees-21)
+[![Nivea Nivea Desod Spray 150 Ml.Woman 0% ](https://images-eu.ssl-images-amazon.com/images/I/31LefE-4cOL._SL400_.jpg)](https://www.amazon.es/dp/B01N9MBHP4/?tag=tolees-21)
 
 🔎:
 

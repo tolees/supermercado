@@ -2,7 +2,7 @@
 layout: post
 title: 'Matcha Green Tea | Té Matcha Vegano | Po al 10.01 % de descuento'
 date: 2020-07-23 11:03:04
-image: 'https://m.media-amazon.com/images/I/410TMAtQH1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410TMAtQH1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Está [Matcha Green Tea | Té Matcha Vegano | Polvo de Té Natural | Dieta Detox Para Adelgazar | Con Vitamina A  K y E | Para la bebida o la comida | Sin gluten y sin Lactosa | WeightWorld](https://www.amazon.es/dp/B01M9D1SFX/?tag=tolees-21) con 10.01 de descuento por 8.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
-[![Matcha Green Tea | Té Matcha Vegano | Po](https://m.media-amazon.com/images/I/410TMAtQH1L._SL200_.jpg)](https://www.amazon.es/dp/B01M9D1SFX/?tag=tolees-21)
+[![Matcha Green Tea | Té Matcha Vegano | Po](https://m.media-amazon.com/images/I/410TMAtQH1L._SL400_.jpg)](https://www.amazon.es/dp/B01M9D1SFX/?tag=tolees-21)
 
 ℹ️:
 

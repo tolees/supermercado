@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Paris Men Expert Todo en 1 After al 24.89 % de descuento'
 date: 2020-10-08 17:12:49
-image: 'https://m.media-amazon.com/images/I/41dhkOKAr1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dhkOKAr1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.475555555555557'
 
 Está [L Oréal Paris Men Expert Todo en 1 After-Shave + Hidratante Hydra Sensitive para Hombres con Piel Sensible - 75ml](https://www.amazon.es/dp/B00X9WS7Z6/?tag=tolees-21) con 24.89 de descuento por 5.25 EUR (original: 6.99 EUR) en el siguiente enlace!
 
-[![L Oréal Paris Men Expert Todo en 1 After](https://m.media-amazon.com/images/I/41dhkOKAr1L._SL200_.jpg)](https://www.amazon.es/dp/B00X9WS7Z6/?tag=tolees-21)
+[![L Oréal Paris Men Expert Todo en 1 After](https://m.media-amazon.com/images/I/41dhkOKAr1L._SL400_.jpg)](https://www.amazon.es/dp/B00X9WS7Z6/?tag=tolees-21)
 
 ℹ️:
 
