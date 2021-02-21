@@ -28,10 +28,10 @@ Ahora mismo tienes [Philips Avance Collection HR2382/10 máquina de pasta y ravi
 
 🔎:
 
-- Amasa, bate y hecho de tus masas todo solo
 - Haz hasta 500 gr de masas
-- Personalice el Gout añadiendo los ingredientes de su elección (especias, épinard, jugo de zanahoria) para las masas de colores
 - Espagueti, Penne, lasaña, lasaña... 8 unidades para satisfacer los gustos de los más alta potencia
+- Personalice el Gout añadiendo los ingredientes de su elección (especias, épinard, jugo de zanahoria) para las masas de colores
+- Amasa, bate y hecho de tus masas todo solo
 - Un libro de recetas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GJWCCM7/?tag=tolees-21)
