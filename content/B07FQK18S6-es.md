@@ -28,8 +28,8 @@ Está [Tong-Il 001200254 Complemento Alimenticio Cúrcuma  10.000 mg  80 Cápsul
 
 ℹ️:
 
-- Curcuma 80Cap Estado Puro De 150
-- CURCUMA 80cap ESTADO PURO
 - Los mejores productos para tu cuidado personal, para tu dieta, para tu salud y para la higiene personal.
+- CURCUMA 80cap ESTADO PURO
+- Curcuma 80Cap Estado Puro De 150
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FQK18S6/?tag=tolees-21)
