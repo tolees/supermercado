@@ -29,9 +29,9 @@ Está [Aceite puro de coco virgen extra orgánico Mituso 1000 ml](https://www.am
 ℹ️:
 
 - Producido a partir de carne de coco fresca cruda
-- Nuestro aceite de coco es trabajado en frío y no modificados genéticamente
 - Aceite de coco virgen extra de la mejor calidad
-- Maravilloso aroma y el sabor de coco ligera
 - Apto para veganos, vegetarianos, sin gluten, sin lácteos y dietas Paleo
+- Nuestro aceite de coco es trabajado en frío y no modificados genéticamente
+- Maravilloso aroma y el sabor de coco ligera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B013JOSM1C/?tag=tolees-21)
