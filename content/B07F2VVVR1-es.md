@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Jim Beam Single Barrel Kentacky Bourbon  al 24.50 % de descuento'
-date: 2020-09-03 12:43:20
+title: 'Jim Beam Single Barrel Kentacky Bourbon  al 14.04 % de descuento'
+date: 2021-02-22 18:49:17
 image: 'https://m.media-amazon.com/images/I/31t9wqZ9fsL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,29 @@ author: ring
 slug: 'B07F2VVVR1-es Jim Beam Single Barrel Kentacky Bourbon Whisky 47.5% - 700 ml'
 sku: 'B07F2VVVR1-es'
 tags: [ 'whisky', ]
-actualPrice: 22.8 EUR
+actualPrice: 24.5 EUR
 currency: EUR
-price: 22.8
-comparePrice: 30.2 EUR
+price: 24.5
+comparePrice: 28.5 EUR
 prodname: 'Jim Beam Single Barrel Kentacky Bourbon Whisky  47.5% - 700 ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Jim Beam'
 buyurl: 'https://www.amazon.es/dp/B07F2VVVR1/?tag=tolees-21'
-descuento: '24.50'
-average: '24.42222222222222'
+descuento: '14.04'
+average: '24.4363636363636'
 ---
 
-Está [Jim Beam Single Barrel Kentacky Bourbon Whisky  47.5% - 700 ml](https://www.amazon.es/dp/B07F2VVVR1/?tag=tolees-21) con 24.50 de descuento por 22.8 EUR (original: 30.2 EUR) en el siguiente enlace!
+Está [Jim Beam Single Barrel Kentacky Bourbon Whisky  47.5% - 700 ml](https://www.amazon.es/dp/B07F2VVVR1/?tag=tolees-21) con 14.04 de descuento por 24.5 EUR (original: 28.5 EUR) en el siguiente enlace!
 
 [![Jim Beam Single Barrel Kentacky Bourbon ](https://m.media-amazon.com/images/I/31t9wqZ9fsL._SL400_.jpg)](https://www.amazon.es/dp/B07F2VVVR1/?tag=tolees-21)
 
 ℹ️:
 
+- Nariz: Rica, vainilla, caramelo.
+- Color: Ámbar.
+- Acabado: Larga duración, especia ligera.
+- Sabor: Equilibrado, con cuerpo, roble, caramelo, vainilla.
+- Disfruta del Jim Beam puro, en las rocas o en un cóctel.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F2VVVR1/?tag=tolees-21)

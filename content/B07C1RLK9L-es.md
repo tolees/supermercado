@@ -28,9 +28,9 @@ Tienes [Cesar Multipack de Tarrinas de Comida Húmeda para Perros en Paté  sele
 
 🔎:
 
-- Clásicos es una línea de recetas clásicas y auténticas de la mejor comida para perros, elaboradas con amor desde hace más de 25 años
-- Elaboradas con amor para que tengan un sabor delicioso y sean comidas equilibradas para disfrutarlas a diario
-- En CESAR sabemos que lo que compartes con tu perro refuerza los vínculos, por eso hemos creado esta línea de comida para perros
 - Sin azúcar añadido, ni colorantes ni saborizantes artificiales; solamente comida natural para perros
+- En CESAR sabemos que lo que compartes con tu perro refuerza los vínculos, por eso hemos creado esta línea de comida para perros
+- Elaboradas con amor para que tengan un sabor delicioso y sean comidas equilibradas para disfrutarlas a diario
+- Clásicos es una línea de recetas clásicas y auténticas de la mejor comida para perros, elaboradas con amor desde hace más de 25 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07C1RLK9L/?tag=tolees-21)
