@@ -28,9 +28,9 @@ Ahora mismo tienes [Lysol Spray Desinfectante y Limpiador Antical de Baños  Mat
 
 🔎:
 
-- En Lysol llevamos más de 130 años desinfectando los hogares de todo el mundo
 - Desinfecta: elimina el 99.9 % de bacterias como E; coli (diarrea),​ S; aureus,​ P; aeruginosa,​ E; hirae​ (Salmonella entérica), y virus como Rhinovirus (resfriado) Influenza A H1N1 (gripe)
 - Limpia tu baño sin lejía, elimina la suciedad y las manchas de cal y jabón dejando una agradable fragancia marina y un acabado antiadherente que previene que las manchas se incrusten
+- En Lysol llevamos más de 130 años desinfectando los hogares de todo el mundo
 - Sin lejía, fosfatos ni colorantes, no deja químicos abrasivos en la superficie y es apto para duchas, mamparas, inodoros, grifos y picas
 - Spray desinfectante indicado para la limpieza y desinfección del baño, con un agradable aroma marino
 

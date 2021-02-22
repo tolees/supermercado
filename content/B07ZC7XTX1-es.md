@@ -28,10 +28,10 @@ Está [CupCup - 140 Vasos Carton Desechables para Café Espresso 110 ml con Agit
 
 ℹ️:
 
-- ECOLÓGICO – juego de vasos para café 100% reciclable, sin metales pesados y sustancias peligrosas
-- FÁCIL DE USAR – vasos para café espresso se suministran con un manojo de agitadores de madera que pueden ser usados para remover el azúcar o la crema a su opción
-- ALTA CALIDAD – usamos el cartón fabricado por la cartonería Umka d.o.o. para nuestros vasos de café desechables
 - COMPATIBLE con muchas cafeteras de una porción conocidas – Nespresso compatible, Tassimo compatible, Dolce Gusto compatible, illy Iperespresso compatible, Lavazza Mio compatible etc.
+- ALTA CALIDAD – usamos el cartón fabricado por la cartonería Umka d.o.o. para nuestros vasos de café desechables
+- FÁCIL DE USAR – vasos para café espresso se suministran con un manojo de agitadores de madera que pueden ser usados para remover el azúcar o la crema a su opción
+- ECOLÓGICO – juego de vasos para café 100% reciclable, sin metales pesados y sustancias peligrosas
 - TAMAÑOS DE ESPRESSO A LUNGO – con los vasos de papel de 4 onzas (110 ml) puede servir el café espresso simple o doble o el café espresso lungo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZC7XTX1/?tag=tolees-21)
