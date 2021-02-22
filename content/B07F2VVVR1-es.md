@@ -28,10 +28,10 @@ Está [Jim Beam Single Barrel Kentacky Bourbon Whisky  47.5% - 700 ml](https://w
 
 ℹ️:
 
-- Sabor: Equilibrado, con cuerpo, roble, caramelo, vainilla.
-- Acabado: Larga duración, especia ligera.
-- Disfruta del Jim Beam puro, en las rocas o en un cóctel.
-- Nariz: Rica, vainilla, caramelo.
 - Color: Ámbar.
+- Nariz: Rica, vainilla, caramelo.
+- Sabor: Equilibrado, con cuerpo, roble, caramelo, vainilla.
+- Disfruta del Jim Beam puro, en las rocas o en un cóctel.
+- Acabado: Larga duración, especia ligera.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F2VVVR1/?tag=tolees-21)

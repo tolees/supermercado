@@ -28,10 +28,10 @@ En este momento está [Maker s Mark Kentucky Bourbon Whisky  45% - 700 ml](https
 
 🔎:
 
-- Acabado más suave en la parte delantera de la lengua y envejecido para asegurar la consistencia y suavidad
-- Con una graduación de 45º, este bourbon Premium resulta suave, dulce y aromático
-- Se sumergen a mano en cera roja para sellarla y crear la marca roja característica de Maker´s Mark
 - Hechado de al menos 51% de maiz y envejecido en barricas nuevas de roble blanco chamuscado
+- Con una graduación de 45º, este bourbon Premium resulta suave, dulce y aromático
+- Acabado más suave en la parte delantera de la lengua y envejecido para asegurar la consistencia y suavidad
+- Se sumergen a mano en cera roja para sellarla y crear la marca roja característica de Maker´s Mark
 - Sabor dulce y equilibrado con caramelo, vainilla y esencia de frutas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003ZINBLE/?tag=tolees-21)
