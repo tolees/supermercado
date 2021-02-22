@@ -28,10 +28,10 @@ Tienes [Note D Espresso - Cápsulas de café "Oro di Napoli" Exclusivamente Comp
 
 🔎:
 
-- Práctica caja de 96 unidades
+- Exclusivamente Compatibles con cafeteras de cápsulas Nescafé* y Dolce Gusto* (* No registrado en Amazon EU S.a.r.l.)
 - Dosis recomendada de agua 40 ml
 - Un café 100 % natural tostado y molido en Italia
 - Un expreso italiano tradicional en una pequeña cápsula de 7 gramos
-- Exclusivamente Compatibles con cafeteras de cápsulas Nescafé* y Dolce Gusto* (* No registrado en Amazon EU S.a.r.l.)
+- Práctica caja de 96 unidades
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WXLJT4V/?tag=tolees-21)
