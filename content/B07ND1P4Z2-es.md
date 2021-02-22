@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'ELPOZO LEGADO Jamón de pavo con trufa y  al 0.00 % de descuento'
-date: 2021-02-21 10:08:09
-image: 'https://m.media-amazon.com/images/I/41tv4QjMYzL._SL200_.jpg'
+date: 2021-02-22 10:12:33
+image: 'https://m.media-amazon.com/images/I/41tv4QjMYzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.0'
 
 Ahora mismo tienes [ELPOZO LEGADO Jamón de pavo con trufa y boletus  cortado en lonchas  170 g](https://www.amazon.es/dp/B07ND1P4Z2/?tag=tolees-21) a 2.0 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![ELPOZO LEGADO Jamón de pavo con trufa y ](https://m.media-amazon.com/images/I/41tv4QjMYzL._SL200_.jpg)](https://www.amazon.es/dp/B07ND1P4Z2/?tag=tolees-21)
+[![ELPOZO LEGADO Jamón de pavo con trufa y ](https://m.media-amazon.com/images/I/41tv4QjMYzL._SL400_.jpg)](https://www.amazon.es/dp/B07ND1P4Z2/?tag=tolees-21)
 
 🔎:
 
