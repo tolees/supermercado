@@ -28,9 +28,9 @@ Ahora mismo tienes [Nestlé Ideal - Leche evaporada semidesnatada en porciones -
 
 🔎:
 
+- Sorprende a tus invitados en el momento del café, en casa o en la oficina
 - En prácticas porciones individuales para cada café
 - Hecha con leche fresca recogida de Galicia
-- Sorprende a tus invitados en el momento del café, en casa o en la oficina
 - Leche evaporada Nestlé Ideal en monodosis la mejor opción para tu café
 - Prepara tu café con más cremosidad con la Leche Evaporada Nestlé óptimo
 - 100% leche, sin azúcares añadidos

@@ -29,9 +29,9 @@ Tienes [Rc Ocio - Cesta Navidad de regalo Lote Riojano gourmet / Cestas de Navid
 🔎:
 
 - ➡️ LOTE GOURMET : ¿QUÉ CONSERVAS INCLUYE? Aceite de Oliva Virgen extra, Tarro Bonito, Tarro Boletus,Tarro pimiento Jajerano ,Tarro puerro extra, Menestra de verduras ,Tarro atún en aceite de Oliva, Tarro de Gulas, lata Pate gloria, Conserva Cardo, Alcachofa  Tarro yema de Esparragos ,Tarro pimiento piquillo
-- ➡️ LOTE GOURMET NAVIDAD : ¿QUÉ BEBIDAS INCLUYE? Vino tinto joven Dorioja, Vino Claro Señorio Riojano, Vino tinto Rioja crianza, Vino Blanco Verdejo, Cava Brut, Vermouth y -Botella moscato Veronica.
 - ➡️ LOTE NAVIDAD: ¿QUÉ EMBUTIDOS INCLUYE? Sarta de Chorizo gourmet de la zona Riojana , totalmente artesanal. Sarta Salchichón gourmet casero Riojano.Bandeja Jamon 200 gramos Sarta embutido de caza
-- ➡️ CESTA NAVIDAD GOURMET DE PRODUCTO DE LA RIOJA Y NORTE DE ESPAÑA: increible lote de navidad gourmet selección de productos riojanos, seleccionando los productos más típicos de cada zona. Cesta de navidad de calidad .
 - ➡️ LOTE NAVIDAD BARATOS Selección de productos autóctonos de la zona al alcance de todos los bolsillo, Ideales para regalar en fiestas de navidad a empresas y familiares.
+- ➡️ CESTA NAVIDAD GOURMET DE PRODUCTO DE LA RIOJA Y NORTE DE ESPAÑA: increible lote de navidad gourmet selección de productos riojanos, seleccionando los productos más típicos de cada zona. Cesta de navidad de calidad .
+- ➡️ LOTE GOURMET NAVIDAD : ¿QUÉ BEBIDAS INCLUYE? Vino tinto joven Dorioja, Vino Claro Señorio Riojano, Vino tinto Rioja crianza, Vino Blanco Verdejo, Cava Brut, Vermouth y -Botella moscato Veronica.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08LT54VLL/?tag=tolees-21)
