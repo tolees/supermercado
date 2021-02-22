@@ -28,9 +28,9 @@ Está [Seifenprofis - Jabón de glicerina con base de jabón y aloe vera  transp
 
 ℹ️:
 
-- ★ Ingredientes: agua, glicerina, estearato de sodio, laurato de sodio, sulfato de lauril de sodio, miristato de sodio, sorbitol, propilenglicol, juicio de hoja de aloe barbadensis, cloruro de sodio, tiosulfato de sodio, ácido Etidronico.
 - ★ Jabón crudo de alta calidad para la fabricación de jabón y para jabón con aloe vera – fácil de derretir, transparente, casi inodoro.
 - ★Cantidad: 1 kg 2 kg 4 kg – transparente en prácticos bloques de 1 kg, alta calidad.
+- ★ Ingredientes: agua, glicerina, estearato de sodio, laurato de sodio, sulfato de lauril de sodio, miristato de sodio, sorbitol, propilenglicol, juicio de hoja de aloe barbadensis, cloruro de sodio, tiosulfato de sodio, ácido Etidronico.
 - ★ Vegano, libre de ensayos en animales y sin aceite de palma, libre de SLS (SLS = lauril sulfato de sodio) || Contiene SLES (Sodium Laureth Sulfate).
 - ★ Jabón crudo en el microondas, derretir y volver a procesar
 
