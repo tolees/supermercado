@@ -28,8 +28,8 @@ Está [Wella Champú Fusion - 1000 ml](https://www.amazon.es/dp/B06Y1YBBMV/?tag=
 
 ℹ️:
 
+- Marca - Wella
 - Género - Mujer
 - Tipo de producto - Champú
-- Marca - Wella
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06Y1YBBMV/?tag=tolees-21)

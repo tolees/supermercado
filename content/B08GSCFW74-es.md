@@ -28,10 +28,10 @@ Tienes [Home Linge Passion - Home Passion | Funda de edredón – 3 Piezas | 100
 
 🔎:
 
-- Cómodo y resistente.
 - Fácil cuidado: lavable a máquina a 40 °C y apto para secadora. Con sello de calidad Öko-Tex
-- Contiene 3 piezas: 1 funda nórdica de 220 x 240 cm y 2 fundas de almohada (acabado Oxford) de 63 x 63 cm.
+- Cómodo y resistente.
 - 100% algodón de 57 hilos/cm2 en tejido apretado para una calidad superior.
+- Contiene 3 piezas: 1 funda nórdica de 220 x 240 cm y 2 fundas de almohada (acabado Oxford) de 63 x 63 cm.
 - 1 funda nórdica y 2 fundas de almohada con cierre de solapa (acabado Oxford).
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GSCFW74/?tag=tolees-21)
