@@ -31,7 +31,7 @@ Tienes [Oral-B 3DWhite Luxe Perfección Pasta de Dientes Blanqueante  Pack de 12
 - Blanquea eliminando las manchas superficiales
 - Sabor a menta fresca con un frescor adicional de mayor duración
 - Elimina hasta el 100 % de las manchas superficiales* en 3 días y ayuda a prevenir futuras manchas
-- Protege contra nuevas manchas
 - Pasta dentífrica que protege el esmalte
+- Protege contra nuevas manchas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CHTV4RP/?tag=tolees-21)
