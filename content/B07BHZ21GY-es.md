@@ -30,8 +30,8 @@ Está [BULLDOG SECURITY - BULL DOG champú para barba 2 en 1 dosificador 200 ml]
 
 - Champú y Acondicionador para Barba 2 en 1
 - Limpia, suaviza y desenreda el vello facial e hidrata la piel debajo de este
-- Especialmente formulado para limpiar tu barba dejándola suave, fresca, nutrida y acondicionada
 - Todos nuestros productos están certificados por Cruelty Free International y son ideales para vegetarianos y veganos
+- Especialmente formulado para limpiar tu barba dejándola suave, fresca, nutrida y acondicionada
 - Fórmula Original con Aloe Vera, aceite de Camelia y Té Verde
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BHZ21GY/?tag=tolees-21)

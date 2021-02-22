@@ -28,15 +28,15 @@ Ahora mismo tienes [Bulldog Cuidado Facial para Hombres - Bulldog Skicare - Kit 
 
 🔎:
 
-- Con la garantía de calidad de Bulldog Cuidado Facial para Hombres
 - Crema Hidratante Original: Lleno de 8 aceites esenciales de té verde, alga verde, konjac manano y la vitamina E para ayudar a rehidratar la piel, el hidratante Bulldog Natural Skincare es un esencial cotidiano que sacia la piel con hidratación después de limpiar o afeitar.
-- Bálsamo Labial: Contiene menta, cera de candelilla, aceite de ricino y manteca de karate para hidratar los labios secos
-- Edición especial para el verano
-- Ingredientes Naturales: Aloe vera, aceite de camelia y té verde
-- No contiene parabenos, SLS, colores artificiales o fragancias sintéticas
-- Gorra de Bulldog: Ideal para protegerte del sol mientras luces con orgullo tu amor por nuestro amigo ;)
 - Todos nuestros productos están certificados por Cruelty Free Internacional y son ideales para vegetarianos y veganos
-- Pack con Crema Hidratante Original 100 ml + Bálsamo Labial + Gorra de Regalo
 - Fragancia Original: Nuestra combinación única de 8 aceites esenciales le da un aroma masculino, ligero y fresco; las notas cítricas de bergamota, limón y lima se superponen sobre el geranio y pachulí con notas de base de madera de cedro, artemisia vulgares y vetiver
+- No contiene parabenos, SLS, colores artificiales o fragancias sintéticas
+- Bálsamo Labial: Contiene menta, cera de candelilla, aceite de ricino y manteca de karate para hidratar los labios secos
+- Ingredientes Naturales: Aloe vera, aceite de camelia y té verde
+- Con la garantía de calidad de Bulldog Cuidado Facial para Hombres
+- Gorra de Bulldog: Ideal para protegerte del sol mientras luces con orgullo tu amor por nuestro amigo ;)
+- Pack con Crema Hidratante Original 100 ml + Bálsamo Labial + Gorra de Regalo
+- Edición especial para el verano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SRCTNYL/?tag=tolees-21)

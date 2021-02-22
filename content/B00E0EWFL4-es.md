@@ -29,8 +29,8 @@ Tienes [Highland Park Viking Honour Single Malt Scotch Whisky - Whisky Escoces d
 🔎:
 
 - Elaborado con cebada malteada con turba y madurado en barricas de Jerez; este proceso contribuye a conseguir sus notas dulces y especiadas con un sutil toque ahumado
-- En paladar es redondo, dulce con notas ahumadas y malta con cuerpo; tiene un final sugerente, con notas de brezo y un sutil tono ahumado
 - Whisky Escocés de color ámbar y aspecto reluciente, con carácter fresco e intenso
+- En paladar es redondo, dulce con notas ahumadas y malta con cuerpo; tiene un final sugerente, con notas de brezo y un sutil tono ahumado
 - Para disfrutar de todas sus cualidades sin adulterar, recomendamos consumir solo o con hielo
 - En nariz podemos apreciar un perfil aromático dulce, con matices de brezo y miel, todo ello ahumado con notas de turba
 
