@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Tejero  Atún Almadraba en aceite de oliv al 4.72 % de rebaja'
-date: 2020-06-04 21:09:05
+title: 'Tejero - Conserva de Pescado | Atún de A al 0.00 % de rebaja'
+date: 2021-02-22 04:32:32
 image: 'https://m.media-amazon.com/images/I/41nkrhsE+RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC18HY4-es Tejero Atún Almadraba en aceite de oliva - 8ud de pack 3...'
+slug: 'B07JC18HY4-es Tejero - Conserva de Pescado | Atún de Almadraba en Aceite...'
 sku: 'B07JC18HY4-es'
-tags: [ 'atún','aceite','de','oliva', ]
-actualPrice: 18.98 EUR
+tags: [ 'atún','conserva','aceite','de','oliva', ]
+actualPrice: 19.92 EUR
 currency: EUR
-price: 18.98
-comparePrice: 19.92 EUR
-prodname: 'Tejero  Atún Almadraba en aceite de oliva - 8ud de pack 3 latas   Total: 24 latas '
+price: 19.92
+comparePrice:  EUR
+prodname: 'Tejero - Conserva de Pescado | Atún de Almadraba en Aceite de Oliva - 8 Unidades  3 x 52 g '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'TEJERO'
 buyurl: 'https://www.amazon.es/dp/B07JC18HY4/?tag=tolees-21'
-descuento: '4.72'
-average: '19.450000000000003'
+descuento: '0.00'
+average: '19.6066666666667'
 ---
 
-Tienes [Tejero  Atún Almadraba en aceite de oliva - 8ud de pack 3 latas   Total: 24 latas ](https://www.amazon.es/dp/B07JC18HY4/?tag=tolees-21) con precio final de  18.98 EUR (original: 19.92 EUR) (4.72 %  de rebaja) aqui!
+Tienes [Tejero - Conserva de Pescado | Atún de Almadraba en Aceite de Oliva - 8 Unidades  3 x 52 g ](https://www.amazon.es/dp/B07JC18HY4/?tag=tolees-21) con precio final de  19.92 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
 
-[![Tejero  Atún Almadraba en aceite de oliv](https://m.media-amazon.com/images/I/41nkrhsE+RL._SL400_.jpg)](https://www.amazon.es/dp/B07JC18HY4/?tag=tolees-21)
+[![Tejero - Conserva de Pescado | Atún de A](https://m.media-amazon.com/images/I/41nkrhsE+RL._SL400_.jpg)](https://www.amazon.es/dp/B07JC18HY4/?tag=tolees-21)
 
 🔎:
 
+- Pescado
+- Mantener a temperatura ambiente
+- Ingredientes : Atún Aceite y Sal
+- España
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JC18HY4/?tag=tolees-21)
