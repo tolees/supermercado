@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Egan PWM02I/6XY - Juego de 6 tazas de ca al 0.00 % de rebaja'
-date: 2021-02-22 03:57:34
+date: 2021-02-23 10:43:40
 image: 'https://m.media-amazon.com/images/I/41-2c+tWOuL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Egan PWM02I/6XY - Juego de 6 tazas de café inpilables In The City + Met
 
 🔎:
 
-- Pack de 6 tazas de café
-- Diseño fabricado en Italia
-- Material: porcelana
 - Decorado a mano
 - Apto para lavavajillas y microondas
+- Diseño fabricado en Italia
+- Material: porcelana
+- Pack de 6 tazas de café
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LEU5AK4/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tong-Il 001200254 Complemento Alimentici al 0.00 % de descuento'
-date: 2021-02-22 10:08:24
+date: 2021-02-23 10:14:04
 image: 'https://m.media-amazon.com/images/I/41T-slDuX8L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TONG-IL'
 buyurl: 'https://www.amazon.es/dp/B07FQK18S6/?tag=tolees-21'
 descuento: '0.00'
-average: '29.0565957446808'
+average: '29.1039583333333'
 ---
 
 Está [Tong-Il 001200254 Complemento Alimenticio Cúrcuma  10.000 mg  80 Cápsulas](https://www.amazon.es/dp/B07FQK18S6/?tag=tolees-21) con 0.00 de descuento por 31.33 EUR (original:  EUR) en el siguiente enlace!
