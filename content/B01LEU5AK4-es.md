@@ -28,10 +28,10 @@ Tienes [Egan PWM02I/6XY - Juego de 6 tazas de café inpilables In The City + Met
 
 🔎:
 
-- Decorado a mano
-- Apto para lavavajillas y microondas
-- Diseño fabricado en Italia
 - Material: porcelana
+- Diseño fabricado en Italia
 - Pack de 6 tazas de café
+- Apto para lavavajillas y microondas
+- Decorado a mano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LEU5AK4/?tag=tolees-21)

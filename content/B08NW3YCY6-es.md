@@ -28,9 +28,9 @@ Está [ITALIA REGINA - Pasta de leguminosas - 6 paquetes - Garbanzos  guisantes 
 
 ℹ️:
 
-- Pasta 100% italiana
-- 250 gramos por paquete
 - hecho con harina de legumbres
 - 2 paquetes de garbanzos, 2 paquetes de guisantes verdes, 2 paquetes de lentejas rojas
+- 250 gramos por paquete
+- Pasta 100% italiana
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08NW3YCY6/?tag=tolees-21)
