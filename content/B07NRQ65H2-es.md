@@ -28,10 +28,10 @@ Ahora mismo tienes [Campos  Conserva de Bonito del norte en escabeche tradiciona
 
 🔎:
 
-- Lata de 1900 g para un consumo de volumen, especial hostelería
-- Rodajas grandes de bonito ideal para uso en taco manteniendo la forma del producto
+- Tradicional bonito del norte sin sangacho y en escabeche típico de Campos elaborado manualmente con el buen hacer y la tradición acumulada en bermeo desde 1922
 - Pescado con caña y anzuelo. Ver zona de pesca en la lata
 - País de origen: España, producto natural sin conservantes ni colorantes
-- Tradicional bonito del norte sin sangacho y en escabeche típico de Campos elaborado manualmente con el buen hacer y la tradición acumulada en bermeo desde 1922
+- Rodajas grandes de bonito ideal para uso en taco manteniendo la forma del producto
+- Lata de 1900 g para un consumo de volumen, especial hostelería
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NRQ65H2/?tag=tolees-21)
