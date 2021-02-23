@@ -28,15 +28,15 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Espresso Decaffeinato- Café moli
 
 🔎:
 
-- Envasado en atmósfera protectora para mantener su frescura.. Conservar en un lugar fresco y seco
+- 75% Arabica- 25% Robusta. Intensidad: 3/5
 - Nespresso es una marca registrada por Nestlé Nespresso S.A
 - El café en este producto proviene de fincas certificadas Rainforest Alliance
+- Envasado en atmósfera protectora para mantener su frescura.. Conservar en un lugar fresco y seco
 - Café de fuera de la UE. Tostado y envasado en Bélgica
-- Apto para dietas vegetarianas y veganas
-- 75% Arabica- 25% Robusta. Intensidad: 3/5
 - Espresso equilibrado, con notas de madera, cereales y especias, acidez sutil
-- Cápsulas espresso descafeinado. El envase contiene 6 x 20 (120) porciones
 - Gracias al aluminio, nuestras cápsulas resultan perfectamente herméticas y garantizan una óptima conservación del aroma y sabor del café
 - Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
+- Cápsulas espresso descafeinado. El envase contiene 6 x 20 (120) porciones
+- Apto para dietas vegetarianas y veganas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08G8Z9JG2/?tag=tolees-21)

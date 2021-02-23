@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B000V9GDL0-es Trixie Champú Neutro Todas Las Razas Suave 1 LTR.'
 sku: 'B000V9GDL0-es'
-tags: [ 'trixie','champú', ]
+tags: [ 'champú', ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

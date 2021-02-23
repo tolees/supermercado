@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'COM-FOUR® 6x Vaso de té - Vaso con asa p al 0.00 % de descuento'
-date: 2021-02-18 06:09:06
-image: 'https://m.media-amazon.com/images/I/41LD-J15f0L._SL200_.jpg'
+date: 2021-02-23 16:41:32
+image: 'https://m.media-amazon.com/images/I/41LD-J15f0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Ahora mismo tienes [COM-FOUR® 6x Vaso de té - Vaso con asa para té y café - Ideal para bebidas calientes  cacao  latte macchiato y cappuccino  06 piezas - 240ml ](https://www.amazon.es/dp/B08RDYG2QS/?tag=tolees-21) a 13.99 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![COM-FOUR® 6x Vaso de té - Vaso con asa p](https://m.media-amazon.com/images/I/41LD-J15f0L._SL200_.jpg)](https://www.amazon.es/dp/B08RDYG2QS/?tag=tolees-21)
+[![COM-FOUR® 6x Vaso de té - Vaso con asa p](https://m.media-amazon.com/images/I/41LD-J15f0L._SL400_.jpg)](https://www.amazon.es/dp/B08RDYG2QS/?tag=tolees-21)
 
 🔎:
 
