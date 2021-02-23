@@ -28,10 +28,10 @@ Está [Garnier Fructis Hair Food Goji Mascarilla Reaviva el Brillo 3 en 1 - 390 
 
 ℹ️:
 
-- Con 98 % ingredientes de origen natural
 - Testadas dermatológicamente
-- Sin parabenos
-- Para cabello teñido
 - Puedes usarlo como tratamiento sin aclarado, como mascarilla o como acondicionador
+- Para cabello teñido
+- Con 98 % ingredientes de origen natural
+- Sin parabenos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BRYW61K/?tag=tolees-21)
