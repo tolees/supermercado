@@ -28,8 +28,8 @@ En este momento está [Note D Espresso Cápsulas de Chocolate - 100 x 7 g  Total
 
 🔎:
 
-- Exclusivamente Compatible con cafeteras Nespresso* (* No registrado en Amazon EU S.a.r.l.)
 - Dosis recomendada de agua 80 ml
+- Exclusivamente Compatible con cafeteras Nespresso* (* No registrado en Amazon EU S.a.r.l.)
 - Práctica caja de 100 Cápsulas de nueva generación totalmente certificadas con barrera de oxígeno (no es necesario guardarlas en bolsas, pueden permanecer afuera en la cocina sin ningún problema)
 - El delicioso sabor y aroma del chocolate en una pequeña cápsula de 7 gramos
 - Hechos en Italia
