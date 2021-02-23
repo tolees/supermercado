@@ -28,8 +28,8 @@ Está [EL PALADAR JAMONERIA & DELICATESSEN - CESTA DE NAVIDAD - LOTE 315-9](http
 
 ℹ️:
 
-- ⭐️ Características Lote Navideño:
 - Vino B. Adhuc Tempus Verdejo 75 cl. Surtido 3 Quesos de Subaida (Curado, Semi y Añejo) Membrillo Valliser 350g. Mini Gofres Espiga Blanca 150g. Galletas Frambuesa y Macadamia 100 g. Bombones Frambuesa Unics 72 g. Amatller Turrón Blando 80 g. Turrón Duro Almendra Choco 80 g. Turrón Yema Quemada 80 g. Bandeja Madera 42x35 “Cafe de la Rue”
+- ⭐️ Características Lote Navideño:
 - Lote gourmet con caja de madera con ansa de color blanco, excelente regalo para estas navidades. Sorprende a los tuyos con nuestra nueva selección de productos de primera calidad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08P7QCT1F/?tag=tolees-21)

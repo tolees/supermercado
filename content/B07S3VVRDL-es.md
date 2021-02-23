@@ -28,9 +28,9 @@ En este momento está [The Primal Pantry Barritas Energeticas  48 x 30g  - sin a
 
 🔎:
 
-- ✔️ COMIDA 100% REAL
-- ✔️ Handmade in the UK
 - ✔️ SIN AZÚCAR AGREGADO
 - ✔️ Sin Gluten, Sin Lácteos, Vegano, Paleo, Sin Aceite de Palma,
+- ✔️ Handmade in the UK
+- ✔️ COMIDA 100% REAL
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07S3VVRDL/?tag=tolees-21)
