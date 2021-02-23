@@ -28,9 +28,9 @@ Ahora mismo tienes [Enjuague bucal COLGATE Total 12H Protection  boca más sana 
 
 🔎:
 
-- Se ocupa de los problemas de las encías
-- Remineraliza el esmalte
 - Proporciona 12h protección contra la placa incluso después de comer o beber
+- Remineraliza el esmalte
+- Se ocupa de los problemas de las encías
 - Frescura duradera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XJP4F7M/?tag=tolees-21)
