@@ -28,10 +28,10 @@ Está [Anjou – Juego de 4 velas perfumadas con aroma a lavanda  jazmín  vaini
 
 ℹ️:
 
-- Idea de regalo perfecto: sorprende a tus seres queridos en cumpleaños, Navidad, Día de la Madre y del Padre, o incluso de vacaciones, con un bonito embalaje que gustará a cualquier edad
-- Sin humo negro: fabricadas con mechas de algodón sin plomo y aceites perfumados de primera calidad, se consumen limpiamente y no emiten humo negro. Seguro para los seres humanos, las mascotas y el medio ambiente
 - 100 % natural y: estas velas ecológicas y sin malos tratos animales están fabricadas con cera de soja natural para durar hasta 20 horas
 - 4 aromas agradables y diferentes: lavanda, jazmín, vainilla y rosa, enciende la llama para liberar un turbón de serenidad alrededor de ti
+- Idea de regalo perfecto: sorprende a tus seres queridos en cumpleaños, Navidad, Día de la Madre y del Padre, o incluso de vacaciones, con un bonito embalaje que gustará a cualquier edad
+- Sin humo negro: fabricadas con mechas de algodón sin plomo y aceites perfumados de primera calidad, se consumen limpiamente y no emiten humo negro. Seguro para los seres humanos, las mascotas y el medio ambiente
 - Platos de velas portátiles: las velas compactas de 65 x 50 x 60 mm son perfectamente tamaño para llevar contigo a cualquier parte, disfrutar de un aroma de lujo para meditación, yoga, lectura, etc.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HN66K6S/?tag=tolees-21)

@@ -29,9 +29,9 @@ En este momento está [iMPERIAL COAST - Caja regalo de bombones y chocolates - K
 🔎:
 
 - 🍫 TWIX (3 unidades): Chocolate con una deliciosa combinación de dulce chocolate con leche, galleta y su característico caramelo.
-- 🍫 TOBLERONE (3 unidades): Chocolate con leche de forma triangular con miel y turrón de almendras, con avellanas y nueces, ¡Todo un manjar!
-- 🍫 LACASITOS: Hablar de Lacasitos es hablar de diversión, delicioso chocolate con leche.
-- 🍫 KINDER BUENO (3 unidades): Barritas con relleno de crema de avellanas, crujiente barquillo y recubiertas de una fina capa de delicioso chocolate con leche. Perfectas para disfrutar en cualquier momento de día. 🍫 KINDER CHOCOLATE ( 8 unidades): Su corazón de leche, su delicioso chocolate y sus prácticas porciones gustan a toda la familia y lo hacen perfecto para tus hijos. SIN GLÚTEN
 - 🍬Lindt Lindor Fresa y Crema (3 unidades) 🍬Lindt Lindor Stracciatella (3 unidades)
+- 🍫 KINDER BUENO (3 unidades): Barritas con relleno de crema de avellanas, crujiente barquillo y recubiertas de una fina capa de delicioso chocolate con leche. Perfectas para disfrutar en cualquier momento de día. 🍫 KINDER CHOCOLATE ( 8 unidades): Su corazón de leche, su delicioso chocolate y sus prácticas porciones gustan a toda la familia y lo hacen perfecto para tus hijos. SIN GLÚTEN
+- 🍫 LACASITOS: Hablar de Lacasitos es hablar de diversión, delicioso chocolate con leche.
+- 🍫 TOBLERONE (3 unidades): Chocolate con leche de forma triangular con miel y turrón de almendras, con avellanas y nueces, ¡Todo un manjar!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WRVRYPK/?tag=tolees-21)
