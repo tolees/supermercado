@@ -28,9 +28,9 @@ Está [Norit Sensible- Detergente Líquido para Pieles Sensibles y Atópicas  Hi
 
 ℹ️:
 
-- Eficaz en manchas de bebé y niños: papillas, leche, barro
 - Fórmula 0% sin alérgenos, perfumes ni conservantes sensibilizantes
 - Detergente hipoalergénico ideal para lavar toda la ropa de adultos, niños y bebés con piel frágil o atópica
+- Eficaz en manchas de bebé y niños: papillas, leche, barro
 - Pack de 3 botellas de 2120ml cada una = 6360ml
 - Recomendado por dermatólogos en base a estudios clínicos
 
