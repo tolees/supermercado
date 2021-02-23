@@ -28,10 +28,10 @@ Está [Anmossi Bombilla LED E14 Blanco Cálido 3000K 1200Lm 12W E14 Maíz Bombil
 
 ℹ️:
 
-- Materiales de Protección Ambiental: Bombillas LED tipo maíz E14 hechas de aluminio de aviación y plástico para PC, con buena disipación de calor, sin plomo ni mercurio dañinos, sin rayos UV, IR u otras radiaciones nocivas.
-- Bombilla LED E14 de Ahorro de Energía: el brillo de la bombilla LED tipo maíz E14 de 12 W es equivalente al de una lámpara incandescente de 100W y es un reemplazo ideal para las lámparas incandescentes, ahorrando más del 85% en costos de electricidad.
-- Ampliamente Utilizado: Contiene 4 bombillas LED E14, es adecuado para dormitorio, sala de estar, cocina, candelabros, cafés, bares, exposiciones, comedores, museos, etc., creando un ambiente cómodo y suave, ideal para la decoración de interiores.
 - Larga Vida útil: Las bombillas LED tienen una vida útil de más de 30,000 horas, 80 perlas de lámpara con alto brillo, bajo consumo de energía, AC100-240V, 1200Lm, blanco cálido 3000K, no regulable, ángulo de haz de 360 °, CRI> 80 y no parpadeo, puede proteger mejor los ojos.
 - Garantía sin preocupaciones: Nos dedicamos a brindar la mejor experiencia de usuario, nuestra lámpara LED E14 está certificada por CE y RoHS y tiene una garantía de servicio al cliente de 12 meses.Si tiene alguna pregunta, el equipo de servicio al cliente de Anmossi hará todo lo posible para resolver el problema. en 24 horas.
+- Bombilla LED E14 de Ahorro de Energía: el brillo de la bombilla LED tipo maíz E14 de 12 W es equivalente al de una lámpara incandescente de 100W y es un reemplazo ideal para las lámparas incandescentes, ahorrando más del 85% en costos de electricidad.
+- Materiales de Protección Ambiental: Bombillas LED tipo maíz E14 hechas de aluminio de aviación y plástico para PC, con buena disipación de calor, sin plomo ni mercurio dañinos, sin rayos UV, IR u otras radiaciones nocivas.
+- Ampliamente Utilizado: Contiene 4 bombillas LED E14, es adecuado para dormitorio, sala de estar, cocina, candelabros, cafés, bares, exposiciones, comedores, museos, etc., creando un ambiente cómodo y suave, ideal para la decoración de interiores.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08L51HPCH/?tag=tolees-21)
