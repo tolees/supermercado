@@ -29,7 +29,7 @@ Tienes [Nestlé Nativa 1- Leche Para Lactantes En Polvo- Fórmula Para Bebés- D
 🔎:
 
 - Proceso de calidad proteica
-- Leche para lactantes NATIVA, fórmula infantil desde el primer día
 - Fórmula infantil con nucleótidos y lactosa
+- Leche para lactantes NATIVA, fórmula infantil desde el primer día
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088PKHC4W/?tag=tolees-21)
