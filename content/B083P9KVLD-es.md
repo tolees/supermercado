@@ -28,9 +28,9 @@ Tienes [Micolor Detergente Gel Adiós al Separar 30 Lavados - Pack de 4  Total 1
 
 🔎:
 
-- Limpieza: Micolor Detergente Gel Adiós al Separar es especializado en mantener y eliminar la suciedad de la ropa
 - Revive y Protege: Micolor Detergente Gel Adiós al Separar limpia en profundidad y protege los colores
 - Evita las transferencias: Micolor Detergente Gel Adiós al Separar previene que las partículas de color sueltas en el agua se impregnen en la ropa decolorándola
+- Limpieza: Micolor Detergente Gel Adiós al Separar es especializado en mantener y eliminar la suciedad de la ropa
 - Recupera los Colores: Micolor Detergente Gel Adiós al Separar alisa las fibras de modo que los colores vuelven a brillar
 - Micolor Detergente Gel Adiós al Separar no lleva colorantes añadidos
 

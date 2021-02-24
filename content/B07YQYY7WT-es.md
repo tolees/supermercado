@@ -28,10 +28,10 @@ Ahora mismo tienes [Casa Matachín - Aldelís Conserva Pechuga de Pollo al Natur
 
 🔎:
 
+- España
 - Sin gluten
 - Producto listo para su consumo
 - Mantener en un lugar fresco y seco
 - Granjas propias y de proximidad
-- España
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YQYY7WT/?tag=tolees-21)
