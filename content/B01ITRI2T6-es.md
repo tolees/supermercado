@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana Leche Sin Lact al 0.00 % de descuento'
-date: 2021-02-23 15:56:56
+date: 2021-02-24 16:22:18
 image: 'https://m.media-amazon.com/images/I/51MdmGVxjRL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Central Lechera Asturiana'
 buyurl: 'https://www.amazon.es/dp/B01ITRI2T6/?tag=tolees-21'
 descuento: '0.00'
-average: '9.74857142857142'
+average: '9.744'
 ---
 
 Está [Central Lechera Asturiana Leche Sin Lactosa Semidesnatada - Paquete de 6 x 1000 ml - Total: 6000 ml](https://www.amazon.es/dp/B01ITRI2T6/?tag=tolees-21) con 0.00 de descuento por 9.68 EUR (original:  EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Central Lechera Asturiana Leche Sin Lactosa Semidesnatada - Paquete de 6 
 
 ℹ️:
 
-- Semidesnatada
-- Leche UHT
 - Sin Lactosa
+- Leche UHT
+- Semidesnatada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ITRI2T6/?tag=tolees-21)
