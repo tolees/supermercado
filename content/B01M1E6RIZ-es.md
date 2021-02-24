@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fackelmann Food&More - Embudo conservas  al 0.00 % de descuento'
-date: 2021-02-23 09:56:53
+date: 2021-02-24 10:15:29
 image: 'https://m.media-amazon.com/images/I/31yTCqw+rxL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [Fackelmann Food&More - Embudo conservas  polipropileno  Ø4 6-5 2x3 5cm. 
 ℹ️:
 
 - Práctico: excelente para pasar alimentos solidos de un recipiente a otro; ideal para conservas
-- Material: polipropileno
-- Incluye: 1 x embudo conservas calidad fackelmann
 - Aplicación: sus diferentes diámetros de 5 y 5,5cm; fácil itan la adaptación a recipientes varios
+- Incluye: 1 x embudo conservas calidad fackelmann
+- Material: polipropileno
 - Dimensiones: 13,5x8 cm; apto para lavavajillas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M1E6RIZ/?tag=tolees-21)

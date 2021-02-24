@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puleva Leche Mañanas Ligeras Desnatada S al 0.00 % de descuento'
-date: 2021-02-23 09:55:50
+date: 2021-02-24 10:16:42
 image: 'https://m.media-amazon.com/images/I/51xosp5KhiL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Puleva'
 buyurl: 'https://www.amazon.es/dp/B01HTBCTF6/?tag=tolees-21'
 descuento: '0.00'
-average: '6.84731428571431'
+average: '6.88164772727275'
 ---
 
 Está [Puleva Leche Mañanas Ligeras Desnatada Sin lactosa - Pack 6 x 1 L - Total: 6 L](https://www.amazon.es/dp/B01HTBCTF6/?tag=tolees-21) con 0.00 de descuento por 12.89 EUR (original:  EUR) en el siguiente enlace!
