@@ -28,8 +28,8 @@ Tienes [keranove - Kéranove Champú Aclarante a la Camomila - 250 ml](https://w
 
 ℹ️:
 
-- Género: hombre
 - Tipo de producto: champú
+- Género: hombre
 - Champú con camomila
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDVWRY0/?tag=tolees-21)
