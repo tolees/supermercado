@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Note D Espresso - Cápsulas de café de Ni al 16.11 % de descuento'
-date: 2021-02-22 09:57:52
+date: 2021-02-24 19:26:36
 image: 'https://m.media-amazon.com/images/I/51CIpRKdwjL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Note D Espresso - Cápsulas de café de Nicaragua exclusivamente compatib
 
 ℹ️:
 
+- Un café 100 % natural tostado en Italia
+- El delicioso sabor y aroma del café recién hecho en una pequeña cápsula de 5,6 gramos
+- Exclusivamente Compatible con cafeteras Nespresso* (* No registrado en Amazon EU S.a.r.l.)
 - Práctica caja de 100 Cápsulas de nueva generación totalmente certificadas con barrera de oxígeno (no es necesario guardarlas en bolsas, pueden permanecer afuera en la cocina sin ningún problema)
 - Dosis recomendada de agua 25 ml - 40 ml
-- Exclusivamente Compatible con cafeteras Nespresso* (* No registrado en Amazon EU S.a.r.l.)
-- El delicioso sabor y aroma del café recién hecho en una pequeña cápsula de 5,6 gramos
-- Un café 100 % natural tostado en Italia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WWH6W56/?tag=tolees-21)

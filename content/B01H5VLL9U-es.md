@@ -28,15 +28,15 @@ Tienes [Babaria Crema Facial Anti-Arrugas Almendras  2X1 ](https://www.amazon.es
 
 🔎:
 
-- Ingredientes agua
-- Proteccion solar: 10 sunprotectionfactor
 - Tipo de producto tratamiento facial
-- Proteccion solar 10 sun protection factor
-- Unidad de medida: gramo
-- Marca babaria
-- Género unisex adultos
-- Unidades: 218.0
-- Tipo de piel seca
 - Proteccion solar: 10 sunprotectionfactor
+- Unidad de medida: gramo
+- Unidades: 218.0
+- Ingredientes agua
+- Tipo de piel seca
+- Género unisex adultos
+- Proteccion solar 10 sun protection factor
+- Proteccion solar: 10 sunprotectionfactor
+- Marca babaria
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01H5VLL9U/?tag=tolees-21)

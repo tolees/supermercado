@@ -31,7 +31,7 @@ Está [Io Planet Jabón de Manos Higienizante 500 ml](https://www.amazon.es/dp/B
 - Respeta el equilibrio natural de la piel.
 - Perfume exótico tropical.
 - Para todo tipo de pieles.
-- Textura ligera.
 - Respeta el pH fisiológico de la piel.
+- Textura ligera.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KV4R1LG/?tag=tolees-21)

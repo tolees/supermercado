@@ -29,7 +29,7 @@ Ahora mismo tienes [Tassimo Milka Chocolate - Chocolate Caliente de Milka 5 paqu
 🔎:
 
 - Peso neto 1 paquete: 240 g (Peso 5 paquetes: 1200 g)
-- Chocolate caliente de Milka
 - Cápsulas compatibles con cafeteras Tassimo Bosch
+- Chocolate caliente de Milka
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00NGC2CUA/?tag=tolees-21)

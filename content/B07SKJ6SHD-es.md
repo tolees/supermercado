@@ -29,7 +29,7 @@ Está [L Oréal Professionnel - Mascarilla Absolut Repair con Quinoa Dorada y Pr
 ℹ️:
 
 - Repara y nutre intensamente las partes debilitadas de la fibra capilar, fortaleciendo el pelo, aportando suavidad y brillo, además de facilitar el styling
-- Mascarilla reconstructora formulada con lipidium complex, que actúa eficazmente en las partes debilitadas de la fibra capilar
 - Aplicar sobre el cabello lavado y secado con toalla; dejar actuar de 3 a 5 minutos; aclarar en profundidad; utilizar 1 o 2 veces por semana
+- Mascarilla reconstructora formulada con lipidium complex, que actúa eficazmente en las partes debilitadas de la fibra capilar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SKJ6SHD/?tag=tolees-21)

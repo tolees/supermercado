@@ -28,10 +28,10 @@ Tienes [Pasta Konjac Espaguetis sin gluten - pasta hipocalórica - Slendier - 40
 
 ℹ️:
 
-- Pasta hipocalórica, baja en grasas
-- 100% vegetal
 - Proveniente de agricultura ecológica
 - Alto contenido en fibra
 - Certificado sin gluten
+- Pasta hipocalórica, baja en grasas
+- 100% vegetal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07W6QWC5K/?tag=tolees-21)
