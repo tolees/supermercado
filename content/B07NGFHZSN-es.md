@@ -28,15 +28,15 @@ Ahora mismo tienes [Marca Amazon - Solimo Jabón líquido para manos. Fórmula h
 
 🔎:
 
-- Fórmula hidratante de oliva
-- Aplicar en las manos húmedas, jabonar y enjuagar bien
-- En caso de contacto con los ojos, lavar bien con agua
-- Dermatológicamente probad
-- Con pantenol, extracto de hoja de olivo y complejo vitamínico
-- Únicamente para uso externo
 - Protege la piel contra la sequedad excesiva, dejando las manos nutridas y suaves
-- Jabón líquido para manos
+- Con pantenol, extracto de hoja de olivo y complejo vitamínico
+- Dermatológicamente probad
+- Aplicar en las manos húmedas, jabonar y enjuagar bien
 - Por alta demanda, puede haber variaciones de formato: 4 envases con dispensador o 2 envases con dispensador y 2 envases de repuesto. Trabajamos para volver al formato original lo antes posible
+- Únicamente para uso externo
 - 4 Botellas x 500ml
+- En caso de contacto con los ojos, lavar bien con agua
+- Jabón líquido para manos
+- Fórmula hidratante de oliva
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NGFHZSN/?tag=tolees-21)

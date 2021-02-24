@@ -28,14 +28,14 @@ Está [DYC 8 Años Whisky Nacional  40% - 700 ml](https://www.amazon.es/dp/B00FF
 
 ℹ️:
 
-- Nariz: ligera, dulce, notas de vainilla, toques de miel
 - Procedencia: Spain
+- Perfecto como un regalo
 - Tipo de alcohol: Whiskey
 - Color: oro
-- Sabor: robusto, dulce, notas de caramelo, vainilla, toques de miel
-- Contenido de alcohol (alc/vol): 40.0 percent by volume
-- Perfecto como un regalo
+- Nariz: ligera, dulce, notas de vainilla, toques de miel
 - Como servir: Serve at room temperature
 - Acabado: larga duración
+- Contenido de alcohol (alc/vol): 40.0 percent by volume
+- Sabor: robusto, dulce, notas de caramelo, vainilla, toques de miel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00FF8FI1S/?tag=tolees-21)
