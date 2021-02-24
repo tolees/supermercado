@@ -28,8 +28,8 @@ Tienes [Batiste Blush Floral & Flirty Dry Shampoo Champú - 200 ml](https://www.
 
 🔎:
 
-- Marca: Batiste
 - Género: Mujer
+- Marca: Batiste
 - Tipo de producto: Champú
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00MAJQH24/?tag=tolees-21)
