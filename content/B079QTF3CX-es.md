@@ -28,10 +28,10 @@ En este momento está [Saimaza Café Descafeinado Espresso 6 - 200 cápsulas de 
 
 🔎:
 
-- Un café espresso intenso pero descafeinado, para disfrutar en cualquier momento del día
-- Las cápsulas Saimaza de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso*(R)
 - *Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
+- Un café espresso intenso pero descafeinado, para disfrutar en cualquier momento del día
 - Intensidad 6
+- Las cápsulas Saimaza de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso*(R)
 - 200 cápsulas repartidas en 10 paquetes de 20 cápsulas cada uno. Peso neto de 1 paquete: 104 g. Total 4 paquetes = 1040gr
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079QTF3CX/?tag=tolees-21)

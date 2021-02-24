@@ -28,9 +28,9 @@ Tienes [Lindt Lindor Bombones de Chocolate con Leche - Aprox. 26-27 bombones  33
 
 🔎:
 
-- Lindt Lindor – Cremosos Bombones de Chocolate con Leche, 337g
 - Fúndete de placer con nuestros emblemáticos Bombones de Chocolate con Leche Lindor
 - Desde 1845, Lindt ha enamorado a sus consumidores con sus chocolates de alta calidad
+- Lindt Lindor – Cremosos Bombones de Chocolate con Leche, 337g
 - Elaborado con ingredientes cuidadosamente seleccionados, como las habas de cacao puro procedentes de fuentes sostenibles
 - Desde 1845, Lindt ha enamorado a sus consumidores con sus chocolates de alta calidad
 
