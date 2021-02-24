@@ -28,10 +28,10 @@ Tienes [Schwarzkopf - Osis+ Polvo Matificador  Tono de Piel Medio - 10 gr](https
 
 ℹ️:
 
-- Polvo ultra ligero para texturizar el cabello con efecto máte
-- Este producto se aplica sobre cabello seco
 - Aporta control y separación ligera, fijación duradera con efecto natural
-- Permite conseguir muchas texturas
 - Adecuado para uso diario
+- Permite conseguir muchas texturas
+- Este producto se aplica sobre cabello seco
+- Polvo ultra ligero para texturizar el cabello con efecto máte
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00B5PFYGO/?tag=tolees-21)
