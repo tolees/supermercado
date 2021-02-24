@@ -30,7 +30,7 @@ Tienes [NIVEA crema de manos calmante alos vera tubo 100 ml](https://www.amazon.
 
 - NIVEA es un nombre de marca reconocido
 - Producto de alta calidad
-- NIVEA CREMA MANOS A.VERA 100 ml
 - Producto nuevo
+- NIVEA CREMA MANOS A.VERA 100 ml
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HQ9PJZY/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Garnier Fructis Hair Food Sandía Champú Revitalizante - 350 ml](https:/
 
 ℹ️:
 
-- Pelo intensamente revitalizado y sin apelmazar
 - Su espuma suave te ayuda a limpiar, revitalizar y no apelmazar tu cabello mientras lo dotas de vida y consigues un pelo saludable
+- Pelo intensamente revitalizado y sin apelmazar
 - Champú revitalizante con el poder revitalizador de la sandía, que aporta energía y limpia el pelo apagado sin apelmazar
 - 350 ml
 

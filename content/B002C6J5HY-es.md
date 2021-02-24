@@ -28,7 +28,7 @@ Tienes [Coca Cola light  Pack de 24 x 330 ml](https://www.amazon.es/dp/B002C6J5H
 
 ℹ️:
 
-- Coca Cola light
 - 0.33l Ds
+- Coca Cola light
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B002C6J5HY/?tag=tolees-21)
