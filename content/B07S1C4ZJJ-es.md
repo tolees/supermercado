@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAMPOS Conserva De Bonito Del Norte De P al 6.25 % de rebaja'
-date: 2021-02-23 22:15:09
+date: 2021-02-25 20:13:18
 image: 'https://m.media-amazon.com/images/I/41O2x4Btf+L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,11 @@ Tienes [CAMPOS Conserva De Bonito Del Norte De Pesca Certificada Msc En Aceite D
 
 🔎:
 
-- País de origen: España, producto natural sin conservantes ni colorantes
-- Pescado con caña y anzuelo. Ver zona de pesca en la lata
-- Tradicional Bonito del norte en aceite de oliva elaborado con el buen hacer y la tradición acumulada en Bermeo desde 1921
-- Práctica lata individual de 80 g peso neto con tapa fácil apertura
-- Bonito del norte proveniente de pesca sostenible MSC certificado por el Marine Stewarship Council
+- tradicional bonito del norte en aceite de oliva elaborado con el buen hacer y la tradición acumulada en bermeo desde 1921
+- país de origen: españa, producto natural sin conservantes ni colorantes
+- Información de alérgenos: fish
+- práctica lata individual de 80 g peso neto con tapa fácil apertura
+- bonito del norte proveniente de pesca sostenible msc certificado por el marine stewarship council
+- pescado con caña y anzuelo. ver zona de pesca en la lata
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S1C4ZJJ/?tag=tolees-21)
