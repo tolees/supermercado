@@ -28,8 +28,8 @@ Tienes [Air Wick Freshmatic - Recambios de ambientador spray automático  esenci
 
 🔎:
 
-- Llena tu hogar de la fragancia Nenuco, tan fresca y ligera que te transportará al mundo de los bebés
 - Elimina olores y perfuma tu hogar de forma continua hasta 70 días con un diseño elegante y portable
+- Llena tu hogar de la fragancia Nenuco, tan fresca y ligera que te transportará al mundo de los bebés
 - Pack de 6 recambios para ambientador spray automático Air Wick Freshmatic
 - Descubre el resto de fragancias Air Wick Freshmatic ​
 - Elige entre tres niveles de intensidad para conseguir tu nivel de fragancia deseada
