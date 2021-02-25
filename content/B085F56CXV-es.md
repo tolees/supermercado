@@ -29,8 +29,8 @@ Está [Ariel Pods Allin1 Detergente en Cápsulas para Lavadora  Color y Brillo  
 ℹ️:
 
 - Resultados óptimos en una sola cápsula (detergente concentrado)
-- Fragancia intensa
 - Eficaz en frío (incluso a 30ºC)
+- Fragancia intensa
 - Quitamanchas
 - Limpieza profunda e higiene
 - Mantiene vivo el color de tu ropa
