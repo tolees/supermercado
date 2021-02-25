@@ -28,11 +28,11 @@ Tienes [Signal Kids Pasta de Dientes Infantil Crecimiento Sabor Frutal 50ml](htt
 
 ℹ️:
 
-- 2-6 años
-- Sabor a Fresa
 - Cuida encías y esmalte dental
+- Sabor a Fresa
 - Pasta dental
-- Pasta de dientes para niño
 - Dentifrico
+- Pasta de dientes para niño
+- 2-6 años
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDRPWOG/?tag=tolees-21)
