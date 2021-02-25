@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maker s Mark Kentucky Bourbon Whisky  45 con un 20.56 % de descuento'
-date: 2021-02-22 18:48:44
+date: 2021-02-25 17:32:19
 image: 'https://m.media-amazon.com/images/I/41ievhdNidL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Makers Mark'
 buyurl: 'https://www.amazon.es/dp/B003ZINBLE/?tag=tolees-21'
 descuento: '20.56'
-average: '26.3290909090909'
+average: '26.1341666666666'
 ---
 
 En este momento está [Maker s Mark Kentucky Bourbon Whisky  45% - 700 ml](https://www.amazon.es/dp/B003ZINBLE/?tag=tolees-21) a 23.99 EUR (original: 30.2 EUR) (20.56 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Maker s Mark Kentucky Bourbon Whisky  45% - 700 ml](https
 
 🔎:
 
-- Hechado de al menos 51% de maiz y envejecido en barricas nuevas de roble blanco chamuscado
 - Con una graduación de 45º, este bourbon Premium resulta suave, dulce y aromático
 - Acabado más suave en la parte delantera de la lengua y envejecido para asegurar la consistencia y suavidad
-- Se sumergen a mano en cera roja para sellarla y crear la marca roja característica de Maker´s Mark
 - Sabor dulce y equilibrado con caramelo, vainilla y esencia de frutas
+- Se sumergen a mano en cera roja para sellarla y crear la marca roja característica de Maker´s Mark
+- Hechado de al menos 51% de maiz y envejecido en barricas nuevas de roble blanco chamuscado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003ZINBLE/?tag=tolees-21)
