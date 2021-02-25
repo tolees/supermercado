@@ -28,10 +28,10 @@ Tienes [Elena Detergente para lavadora  frescor colonia  adecuado para ropa blan
 
 ℹ️:
 
-- Poder antimanchas testado en 101 manchas
-- Detergente para la lavadora en formato gel líquido
 - Elena, la eficacia que sorprende
-- Eficaz en agua fría y ciclos cortos
 - Apto para ropa blanca y de color
+- Detergente para la lavadora en formato gel líquido
+- Eficaz en agua fría y ciclos cortos
+- Poder antimanchas testado en 101 manchas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAEBVEC/?tag=tolees-21)

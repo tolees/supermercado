@@ -28,10 +28,10 @@ En este momento está [Melitta 218967 filtro Filtro de café de porcelana tama�
 
 🔎:
 
-- Fácil limpieza: Burbujas de sustancias amargas y kaffeeölen se pueden quitar fácilmente del filtro de porcelana.
-- Harmonia café: Si mogens fuerte o por la tarde Mild – el café sabor se puede según sabor influir
-- Contenido: 1 Melitta filtro permanente porcelana 218967 para filtros tamaño 102, color blanco
-- El filtro rápido de porcelana – desde 60 años en austero forma: bolsa de filtro, café en polvo llenar, agua caliente en el sentido de las agujas del reloj lentamente aufgießen.
 - Manual a mano para preparar – perfecto para preparar café un o también dos café.
+- Harmonia café: Si mogens fuerte o por la tarde Mild – el café sabor se puede según sabor influir
+- El filtro rápido de porcelana – desde 60 años en austero forma: bolsa de filtro, café en polvo llenar, agua caliente en el sentido de las agujas del reloj lentamente aufgießen.
+- Contenido: 1 Melitta filtro permanente porcelana 218967 para filtros tamaño 102, color blanco
+- Fácil limpieza: Burbujas de sustancias amargas y kaffeeölen se pueden quitar fácilmente del filtro de porcelana.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HR6R8XV/?tag=tolees-21)
