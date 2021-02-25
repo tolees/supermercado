@@ -28,10 +28,10 @@ En este momento está [KOFFIE CUP EST. 2020 - Koffie Cup Brazil 40 Cápsulas com
 
 🔎:
 
+- Pack de 4 estuches de 10 cápsulas. Total de 40 cápsulas de 5g/ cápsula
+- Receta Brazil intensidad 4- es un café tradicional y con sabor exótico, proveniente de cafetales brasileños
+- Cápsulas compatibles para máquinas Nespresso*, marca registrada de Société des Produits Nestlé S.A. No compatibles con máquinas LOr
 - Es un café delicado, dulce y cremoso, con una acidez que persiste en el tiempo. Sus toques de sabor a cacao, caramelo, cereales y frutos secos te trasportan a tierras caribeñas
 - Nuestras cápsulas son 100% compostables a partir de recursos naturales, las puedes depositar en tu contenedor de residuos orgánicos
-- Receta Brazil intensidad 4- es un café tradicional y con sabor exótico, proveniente de cafetales brasileños
-- Pack de 4 estuches de 10 cápsulas. Total de 40 cápsulas de 5g/ cápsula
-- Cápsulas compatibles para máquinas Nespresso*, marca registrada de Société des Produits Nestlé S.A. No compatibles con máquinas LOr
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08D3XYYGK/?tag=tolees-21)
