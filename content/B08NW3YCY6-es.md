@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ITALIA REGINA - Pasta de leguminosas - 6 al 0.00 % de descuento'
-date: 2021-02-23 10:29:29
+date: 2021-02-25 10:24:14
 image: 'https://m.media-amazon.com/images/I/51mCe7I2ANL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [ITALIA REGINA - Pasta de leguminosas - 6 paquetes - Garbanzos  guisantes 
 
 ℹ️:
 
-- hecho con harina de legumbres
 - 2 paquetes de garbanzos, 2 paquetes de guisantes verdes, 2 paquetes de lentejas rojas
-- 250 gramos por paquete
+- hecho con harina de legumbres
 - Pasta 100% italiana
+- 250 gramos por paquete
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08NW3YCY6/?tag=tolees-21)
