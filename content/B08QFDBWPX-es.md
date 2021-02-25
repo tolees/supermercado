@@ -28,10 +28,10 @@ En este momento está [Garlincao - Joya Cristal Amatista Piedra Cuarzo Naturalez
 
 🔎:
 
-- La taza de cerámica le brinda el agarre más cómodo, una base estable y un uso seguro.
-- Fácil de limpiar. Simplemente limpie la taza de café de cerámica a mano o colóquela en el lavavajillas.
-- Perfecto para que disfrutes de café, té, cacao, chocolate caliente u otras bebidas frías y calientes.
-- Gran regalo para cumpleaños, Navidad, Año Nuevo, aniversario, boda, jubilación, compromiso, graduación, inauguración de la casa u otras vacaciones.
 - Tazas de cerámica de alta calidad elaboradas por los mejores artesanos y maestros.
+- Gran regalo para cumpleaños, Navidad, Año Nuevo, aniversario, boda, jubilación, compromiso, graduación, inauguración de la casa u otras vacaciones.
+- Fácil de limpiar. Simplemente limpie la taza de café de cerámica a mano o colóquela en el lavavajillas.
+- La taza de cerámica le brinda el agarre más cómodo, una base estable y un uso seguro.
+- Perfecto para que disfrutes de café, té, cacao, chocolate caliente u otras bebidas frías y calientes.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QFDBWPX/?tag=tolees-21)
