@@ -28,10 +28,10 @@ Ahora mismo tienes [Garnier Fructis Hair Food Champú Banana Nutritiva  indicado
 
 🔎:
 
-- Desde 1989 Garnier está comprometida con un mundo sin test en animales
-- El pack incluye 4 unidades. Fórmulas más de un 93% biodegradables, producidas en fábricas comprometidas con el desarrollo sostenible; 350 ml
 - Aplica sobre el cabello mojado, haz espuma y aclara bien
-- Su espuma suave te ayuda a limpiar, nutrir y no apelmazar tu cabello mientras lo hidratas intensamente y consigues un pelo saludable
 - Champú nutritivo con el poder hidratante de la Banana, que nutre intensamente y limpia el pelo seco sin apelmazar
+- Desde 1989 Garnier está comprometida con un mundo sin test en animales
+- Su espuma suave te ayuda a limpiar, nutrir y no apelmazar tu cabello mientras lo hidratas intensamente y consigues un pelo saludable
+- El pack incluye 4 unidades. Fórmulas más de un 93% biodegradables, producidas en fábricas comprometidas con el desarrollo sostenible; 350 ml
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HZZY2WH/?tag=tolees-21)

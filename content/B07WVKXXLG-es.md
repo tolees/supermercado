@@ -28,12 +28,12 @@ Ahora mismo tienes [Marca Amazon - Solimo RightFit5 12 recambios - compatible co
 
 🔎:
 
-- Para utilizar el recortador, voltear la parte superior naranja hacia atrás
-- Cabezal antiobstrucción para limpiar enjuagando con rapidez
-- 5 hojas con filo de triple recubrimiento para un afeitado apurado y cómodo
 - 3 dispensadores de 4 recambios cada uno
 - El cabezal pivotante se ajusta a los contornos de la cara
-- Recortador Premium para las zonas de difícil acceso
+- Cabezal antiobstrucción para limpiar enjuagando con rapidez
+- 5 hojas con filo de triple recubrimiento para un afeitado apurado y cómodo
 - El sistema de protección de la piel alisa la piel para ayudar a reducir la irritación
+- Para utilizar el recortador, voltear la parte superior naranja hacia atrás
+- Recortador Premium para las zonas de difícil acceso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WVKXXLG/?tag=tolees-21)

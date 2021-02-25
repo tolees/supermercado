@@ -28,10 +28,10 @@ Está [Campos Atún en Aceite de Girasol Lata de 650 g Peso escurrido - 750 g](h
 
 ℹ️:
 
-- País de origen: España, producto natural sin conservantes ni colorantes
-- Conserva de atún en aceite de girasol, gran corte de pescado
 - Lata de 650 g de peso escurrido/ 750 g peso neto para un consumo de volumen, hostelería
-- Tapa abre-ras, easy pil, tapa salva gustos de regalo
+- País de origen: España, producto natural sin conservantes ni colorantes
 - Método de pesca: cerco; ver especie y zona de pesca en la lata
+- Tapa abre-ras, easy pil, tapa salva gustos de regalo
+- Conserva de atún en aceite de girasol, gran corte de pescado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086X3DNN1/?tag=tolees-21)
