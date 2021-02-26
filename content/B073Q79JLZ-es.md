@@ -28,8 +28,8 @@ Tienes [Ejove EJ048 Jabón de Rosa Mosqueta 125 gr](https://www.amazon.es/dp/B07
 
 🔎:
 
-- Cantidad: 125 g
 - El aceite vegetal de rosa mosqueta que contiene este jabón natural y artesanal es un potente regenerador de células cutáneas
+- Cantidad: 125 g
 - Jabón Natural de Rosa Mosqueta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073Q79JLZ/?tag=tolees-21)

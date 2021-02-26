@@ -29,9 +29,9 @@ Tienes [Lysol - Spray desinfectante y limpiador quitagrasas cocinas  mata virus 
 ℹ️:
 
 - Limpia tu cocina: elimina la suciedad y las manchas de grasa
-- Spray desinfectante y desengrasante indicado para la limpieza y desinfección de la cocina, con un agradable aroma a limón
-- Sin lejía, fosfatos ni colorantes, no deja químicos abrasivos que pueda dañar las superficies y es apto para encimeras, tablas de cortas y otras superficies de la cocina
-- Desinfecta: elimina el 99.9 % de bacterias como E; coli (diarrea),​ S; aureus,​ P; aeruginosa,​ E; hirae​ (Salmonella entérica), y virus como Rhinovirus (resfriado) Influenza A H1N1 (gripe)
 - En Lysol llevamos más de 130 años desinfectando los hogares de todo el mundo
+- Sin lejía, fosfatos ni colorantes, no deja químicos abrasivos que pueda dañar las superficies y es apto para encimeras, tablas de cortas y otras superficies de la cocina
+- Spray desinfectante y desengrasante indicado para la limpieza y desinfección de la cocina, con un agradable aroma a limón
+- Desinfecta: elimina el 99.9 % de bacterias como E; coli (diarrea),​ S; aureus,​ P; aeruginosa,​ E; hirae​ (Salmonella entérica), y virus como Rhinovirus (resfriado) Influenza A H1N1 (gripe)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08KQSJ5GL/?tag=tolees-21)
