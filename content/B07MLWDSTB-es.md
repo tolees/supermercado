@@ -28,10 +28,10 @@ Ahora mismo tienes [RCruning-EU Empapadores Perros Toallitas de Entrenamiento pa
 
 🔎:
 
-- Each pad measures 33 * 45cm (100Pack),Great for training puppies, assisting aging dogs, or as an alternative to the outdoors for indoor dogs.
-- Dog and Puppy Training Pads are here to make house training your puppy and living with incontinent dogs easier. They are 100% more absorbent than our standard economy pads.
 - MATERIAL: non-woven fabric and bottom polyethylene film/Approx,Super clean and comfortable mat for your puppy/High quality soft non-woven fabric.
-- Pure pulp and water absorbent provide maximum absorption/Easy to dispose of,Non-woven fabric top layer for fast absorbency, which absorbs liquid instantly and prevent overflow.
 - 100% leak free with durable waterproof plastic layer to protect your floor or carpet from damages, making home clean up far easier.
+- Dog and Puppy Training Pads are here to make house training your puppy and living with incontinent dogs easier. They are 100% more absorbent than our standard economy pads.
+- Pure pulp and water absorbent provide maximum absorption/Easy to dispose of,Non-woven fabric top layer for fast absorbency, which absorbs liquid instantly and prevent overflow.
+- Each pad measures 33 * 45cm (100Pack),Great for training puppies, assisting aging dogs, or as an alternative to the outdoors for indoor dogs.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MLWDSTB/?tag=tolees-21)
