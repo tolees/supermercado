@@ -28,10 +28,10 @@ Tienes [Nike Loving Floral Woman Eau de Toilette Desodorante Spray 200ml - Pack 
 
 🔎:
 
+- Notas de corazón: jazmín, miel y flor de naranja.
 - Sutileza y sensualidad para la ciudad. La elegante salida floral y afrutada, fresca y sutil se combina lentamente con la miel y praliné, creando un aroma inconfundiblemente femenino y descarado. Su fondo suave confiere a este perfume un marcado carácter para afrontar el día en la ciudad con paso firme y decidido.
-- Notas de salida: naranja, bergamota y melón. Notas de corazón: jazmín, miel y flor de naranja. Notas de fondo: praliné, pachulí, vainilla y almizcle.
 - Notas de fondo: praliné, pachulí, vainilla y almizcle.
 - Notas de salida: naranja, bergamota y melón.
-- Notas de corazón: jazmín, miel y flor de naranja.
+- Notas de salida: naranja, bergamota y melón. Notas de corazón: jazmín, miel y flor de naranja. Notas de fondo: praliné, pachulí, vainilla y almizcle.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08NW9TP4Q/?tag=tolees-21)

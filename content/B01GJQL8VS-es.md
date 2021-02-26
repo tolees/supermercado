@@ -28,10 +28,10 @@ En este momento está [Domoclip DOP156 para Máquina para hacer Yogurt y Queso 
 
 🔎:
 
-- Tamaño: 306 x 250 x 124 mm.
-- 25 etiquetas para personalizar las macetas
 - 1 bandeja con escurridor para alcanzar los quesos blancos, los faisselles y los yogurts filtrados
-- Vasos y tapas compatibles lavavajillas
+- Tamaño: 306 x 250 x 124 mm.
 - 12 tarros de yogurt de cristal con tapa de rosca
+- 25 etiquetas para personalizar las macetas
+- Vasos y tapas compatibles lavavajillas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01GJQL8VS/?tag=tolees-21)
