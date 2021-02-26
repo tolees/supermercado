@@ -28,10 +28,10 @@ Ahora mismo tienes [Vino Tinto Casa Ferreirinha Vinha Grande  D.O.Douro  - 750 m
 
 🔎:
 
-- Intenso color rubí
-- Graduación: 14 % vol.
 - 40% Touriga Franca, 30% Touriga Nacional, 25% Tinta Roriz, 5% Tinta Barroca
-- Entrada suave en boca, acidez bien integrada, taninos vivos, redondos y de calidad, fruta roja viva, con un final muy largo y armonioso
+- Graduación: 14 % vol.
 - Aroma intenso y complejo, con notas florales, balsámicas, tabaco y hoja de eucalipto, frutos rojos frescos, con una madera discreta y bien integrada
+- Entrada suave en boca, acidez bien integrada, taninos vivos, redondos y de calidad, fruta roja viva, con un final muy largo y armonioso
+- Intenso color rubí
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B014XS7ZF2/?tag=tolees-21)
