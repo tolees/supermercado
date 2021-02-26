@@ -28,10 +28,10 @@ En este momento está [feixia Vela de aromaterapia de 12 Constelaciones  Juego d
 
 🔎:
 
-- 🍓[Tarro de viaje reutilizable] -El bonito tarro de vela con diseño de viaje en miniatura es más fácil de empacar. No hay necesidad de preocuparse por frascos rotos cuando viaja. Una vez que las velas se hayan agotado por completo, estos hermosos frascos se pueden reutilizar como contenedores de almacenamiento decorativos.
-- 🍓 [12 agradables aromas en diferentes paquetes] -El juego de velas contiene 12 ambientes relajantes como rosa, mástil, lavanda, limón, jazmín, bergamota, vainilla, etc., aptos para spa, relajación, yoga, masaje primaveral, sueño.
-- 🍓 【Quema de larga duración】 -Cada vela perfumada pesa 2.5 onzas y tiene un tiempo de combustión de 15-20 horas. Brindar un ambiente muy confortable con un delicioso aroma. Las velas de aromaterapia pueden proporcionar aromaterapia, aliviar la irritabilidad, el nerviosismo, la depresión y el estrés, y ayudarlo a conciliar el sueño y mantener un buen sueño.
 - 🍓 [Cera de soja natural] -Hecho de cera de soja aromática 100% natural, 5% de aceite esencial y núcleo de algodón orgánico sin plomo, se quema uniformemente, sin humo y tiene un aroma muy relajante.
+- 🍓 【Quema de larga duración】 -Cada vela perfumada pesa 2.5 onzas y tiene un tiempo de combustión de 15-20 horas. Brindar un ambiente muy confortable con un delicioso aroma. Las velas de aromaterapia pueden proporcionar aromaterapia, aliviar la irritabilidad, el nerviosismo, la depresión y el estrés, y ayudarlo a conciliar el sueño y mantener un buen sueño.
+- 🍓[Tarro de viaje reutilizable] -El bonito tarro de vela con diseño de viaje en miniatura es más fácil de empacar. No hay necesidad de preocuparse por frascos rotos cuando viaja. Una vez que las velas se hayan agotado por completo, estos hermosos frascos se pueden reutilizar como contenedores de almacenamiento decorativos.
 - 🍓 [Garantía]: ¡La satisfacción del cliente es el objetivo de nuestro servicio! Si no está satisfecho con nuestros productos, contáctenos, resolveremos el problema dentro de las 24 horas. ¡muchas gracias!
+- 🍓 [12 agradables aromas en diferentes paquetes] -El juego de velas contiene 12 ambientes relajantes como rosa, mástil, lavanda, limón, jazmín, bergamota, vainilla, etc., aptos para spa, relajación, yoga, masaje primaveral, sueño.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HXSPVTM/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Joseph Joseph Easy Puertas Gran Soporte para Cepillo de Dientes  plásti
 
 🔎:
 
+- Adecuado para cepillos de dientes eléctricos.
+- Con ventilación para secar rápidamente
 - Versátil almacenaje
 - Se puede desmontar para facilitar su limpieza
-- Con ventilación para secar rápidamente
-- Adecuado para cepillos de dientes eléctricos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0797KPX4J/?tag=tolees-21)

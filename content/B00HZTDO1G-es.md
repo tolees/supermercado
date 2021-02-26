@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Bionsan - Trigo Sarraceno  500 g al 0.00 % de descuento'
-date: 2021-02-06 13:03:56
-image: 'https://m.media-amazon.com/images/I/41QmMsNp1AL._SL200_.jpg'
+date: 2021-02-26 07:26:40
+image: 'https://m.media-amazon.com/images/I/41QmMsNp1AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,15 +24,15 @@ average: '1.26'
 
 Está [Bionsan - Trigo Sarraceno  500 g](https://www.amazon.es/dp/B00HZTDO1G/?tag=tolees-21) con 0.00 de descuento por 1.26 EUR (original:  EUR) en el siguiente enlace!
 
-[![Bionsan - Trigo Sarraceno  500 g](https://m.media-amazon.com/images/I/41QmMsNp1AL._SL200_.jpg)](https://www.amazon.es/dp/B00HZTDO1G/?tag=tolees-21)
+[![Bionsan - Trigo Sarraceno  500 g](https://m.media-amazon.com/images/I/41QmMsNp1AL._SL400_.jpg)](https://www.amazon.es/dp/B00HZTDO1G/?tag=tolees-21)
 
 ℹ️:
 
-- Alimento ecológico. No GMO. No irradiado.
-- Formato: bolsa de 500gr
 - INFORMACIÓN NUTRICIONAL (100gr): Energia: 1651KJ/391Kcal, Proteína: 13g., Grasa: 3.4g. De las cuales saturadas: 0.7g. Hidratos de carbono: 72g. De los cuales azúcares: 0g., Fibra: 10g., Sal: 0g.
+- Alimento ecológico. No GMO. No irradiado.
 - Puede contener trazas de gluten, soja, frutos secos, sésamo, leche, apio y mostaza.
-- Orígen: no UE
+- Formato: bolsa de 500gr
 - Apto para vegetarianos y veganos.
+- Orígen: no UE
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00HZTDO1G/?tag=tolees-21)
