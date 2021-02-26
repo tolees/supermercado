@@ -1,35 +1,36 @@
 ---
 layout: post
-title: 'LICOR DEL POLO Junior pasta dentífrica f con un 0.00 % de descuento'
-date: 2021-02-01 20:00:36
-image: 'https://m.media-amazon.com/images/I/31jOnlWrE1L._SL200_.jpg'
+title: 'LICOR DEL POLO Junior pasta dentífrica f con un 3.52 % de descuento'
+date: 2021-02-26 14:37:19
+image: 'https://m.media-amazon.com/images/I/41bmil9QmnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07HWW3FF3-es LICOR DEL POLO Junior pasta dentífrica fresa +6 años tubo...'
 sku: 'B07HWW3FF3-es'
 tags: [ 'dentífrica', ]
-actualPrice: 1.99 EUR
+actualPrice: 1.92 EUR
 currency: EUR
-price: 1.99
-comparePrice:  EUR
+price: 1.92
+comparePrice: 1.99 EUR
 prodname: 'LICOR DEL POLO Junior pasta dentífrica fresa +6 años tubo 75 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Licor del Polo'
 buyurl: 'https://www.amazon.es/dp/B07HWW3FF3/?tag=tolees-21'
-descuento: '0.00'
-average: '1.99'
+descuento: '3.52'
+average: '1.98222222222223'
 ---
 
-En este momento está [LICOR DEL POLO Junior pasta dentífrica fresa +6 años tubo 75 ml](https://www.amazon.es/dp/B07HWW3FF3/?tag=tolees-21) a 1.99 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
+En este momento está [LICOR DEL POLO Junior pasta dentífrica fresa +6 años tubo 75 ml](https://www.amazon.es/dp/B07HWW3FF3/?tag=tolees-21) a 1.92 EUR (original: 1.99 EUR) (3.52 %  de descuento) en el siguiente enlace!
 
-[![LICOR DEL POLO Junior pasta dentífrica f](https://m.media-amazon.com/images/I/31jOnlWrE1L._SL200_.jpg)](https://www.amazon.es/dp/B07HWW3FF3/?tag=tolees-21)
+[![LICOR DEL POLO Junior pasta dentífrica f](https://m.media-amazon.com/images/I/41bmil9QmnL._SL400_.jpg)](https://www.amazon.es/dp/B07HWW3FF3/?tag=tolees-21)
 
 🔎:
 
+- Producto de alto calidad
 - 12h de protección
-- Su dulce sabor a fresa, hará del cepillado una experiencia agradable y divertida para los niños.
 - Para niños mayores de +6 años que ya tienen dientes permamentes.
+- Su dulce sabor a fresa, hará del cepillado una experiencia agradable y divertida para los niños.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HWW3FF3/?tag=tolees-21)
