@@ -30,9 +30,9 @@ Tienes [Purina Friskies Vitafit Active Pienso para Perro Adulto Buey 15 Kg](http
 
 - Ayuda a mantener un pelaje brillante y piel saludable
 - Alimento completo para perros adultos
-- 20% más de vitaminas B y E que Friskies Complete, para ayudar a mantener los niveles de energía
-- Purina Friskies Vitafit ayuda a mantener tu perro saludable
-- Ojos brillantes signo de un buen estado de alerta
 - Heces compactas gracias a una digestión saludable
+- 20% más de vitaminas B y E que Friskies Complete, para ayudar a mantener los niveles de energía
+- Ojos brillantes signo de un buen estado de alerta
+- Purina Friskies Vitafit ayuda a mantener tu perro saludable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XA0OQMA/?tag=tolees-21)

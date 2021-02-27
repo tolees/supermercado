@@ -29,8 +29,8 @@ Tienes [L Oréal Paris - L Oreal Paris Make-Up Designer L Oréal París Infalibl
 🔎:
 
 - Polvos compactos de larga duración no comedogénicos
-- 24H de duración que lo resiste todo 
-- El polvo compacto Infalible de L’Oréal Paris es un fondo de maquillaje en polvo que te permite conseguir un acabado mate impecable que lo resiste todo durante 24H, sin efecto máscara 
 - Larga duración de cobertura medio alta
+- El polvo compacto Infalible de L’Oréal Paris es un fondo de maquillaje en polvo que te permite conseguir un acabado mate impecable que lo resiste todo durante 24H, sin efecto máscara 
+- 24H de duración que lo resiste todo 
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08LWNZ24R/?tag=tolees-21)

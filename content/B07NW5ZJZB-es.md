@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 23.81 % en Somat Oro Gel Lavavajillas Vinagre – Pac'
-date: 2021-02-27 03:59:52
+date: 2021-02-27 03:59:53
 image: 'https://m.media-amazon.com/images/I/411riWpT5jL._SL400_.jpg'
 comments: true
 category: ofertas
