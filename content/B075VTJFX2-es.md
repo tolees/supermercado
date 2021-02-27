@@ -28,9 +28,9 @@ Ahora mismo tienes [Wet  n  Wild - Wet n Wild - Silk Finish Lipstick - Barra de 
 
 🔎:
 
-- Diseño funcional
-- Salud, bienestar, cuidado, perfumes, lociones, gel wet n wild color de labios silk finish e507c blushing bali
-- Wet n wild color de labios silk finish e507c blushing bali
 - Los mejores productos para tu cuidado personal, para tu bienestar, y para la higiene personal
+- Diseño funcional
+- Wet n wild color de labios silk finish e507c blushing bali
+- Salud, bienestar, cuidado, perfumes, lociones, gel wet n wild color de labios silk finish e507c blushing bali
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075VTJFX2/?tag=tolees-21)

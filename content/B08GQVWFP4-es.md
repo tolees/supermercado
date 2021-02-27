@@ -28,13 +28,13 @@ Tienes [Dove Crema de manos cuida y protege 75 ml](https://www.amazon.es/dp/B08G
 
 🔎:
 
-- Protección ante bacterias
-- Limpia en profundidad
-- Crema de manos
-- Hidratación profunda
-- Ingredientes antibacterianos
 - Para nutrir y proteger las manos
+- Hidratación profunda
 - 1/4 de Crema hidratante
 - Suaviza y protege las manos
+- Crema de manos
+- Limpia en profundidad
+- Protección ante bacterias
+- Ingredientes antibacterianos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GQVWFP4/?tag=tolees-21)
