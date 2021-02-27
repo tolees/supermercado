@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gourmet Purina - Purina Gourmet Gold Boc al 0.00 % de descuento'
-date: 2021-02-25 20:23:28
+date: 2021-02-27 03:58:46
 image: 'https://m.media-amazon.com/images/I/41Qb8AGD6+L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gourmet Purina'
 buyurl: 'https://www.amazon.es/dp/B071RYNTWG/?tag=tolees-21'
 descuento: '0.00'
-average: '12.5726635514019'
+average: '12.6229166666667'
 ---
 
 Está [Gourmet Purina - Purina Gourmet Gold Bocaditos en Salsa comida para gatos con Pollo e Higado 24 x 85 g](https://www.amazon.es/dp/B071RYNTWG/?tag=tolees-21) con 0.00 de descuento por 18.0 EUR (original:  EUR) en el siguiente enlace!
