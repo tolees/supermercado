@@ -28,8 +28,8 @@ En este momento está [Air Wick Ambientador Eléctrico Recambio Duplo Delicias d
 
 🔎:
 
-- Formato de cada recambio: 19 ml, total ml del pack: 38 ml
 - Doble duración, hasta 150 días de frescor en
+- Formato de cada recambio: 19 ml, total ml del pack: 38 ml
 - Fragancia que cambia constantemente creando un ambiente más real y acogedor para tu hogar
 - Fragancia fresca y afrutada
 - Recambio doble para ambientador eléctrico

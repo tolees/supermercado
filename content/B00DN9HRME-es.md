@@ -28,10 +28,10 @@ Tienes [SoriaNatural - Soria Natural - MINCARTIL REFORZADO - Complemento aliment
 
 🔎:
 
+- INNOVACIÓN Y EVOLUCIÓN NATURAL Complemento alimenticio SIN GELATINA ANIMAL. Apto para veganos y diabéticos. Tiene una ASIMILACIÓN RÁPIDA Y COMPLETA de todos sus componentes, para aprovechar al máximo sus propiedades beneficiosas
 - REFORZADO CON CÚRCUMA: Potente antioxidante natural recomendado para reducir y aliviar los dolores de huesos y combatir la oxidación de los tejidos.
+- DOSIS RECOMENDADA: Tomar 1 cucharada sopera (10 g) al día, preferentemente repartida en 2 tomas, para una mejor biodisponibilidad. Dispersar en 1 vasito de agua, zumo de frutas o yogur, y tomar en las comidas.
 - HUESOS, CARTÍLAGOS, PIEL Y ARTICULACIONES: Mincartril es un percursor del colágeno, rico en glicina. Ejerce un efecto favorable sobre huesos, cartílago, piel y otros tejidos conectivos. Es una importante fuente de aminoácidos de origen vegetal, con minerales (calcio, magnesio, manganeso y silicio) y vitaminas (C, A, D y grupo B).
 - RECOMENDACIONES: Para niños en época de crecimiento, deportistas, para la prevención de la osteoporosis, artritis, hernias discales. Para fortalecer uñas y pelo. Para cualquier persona mayor de 40 años
-- INNOVACIÓN Y EVOLUCIÓN NATURAL Complemento alimenticio SIN GELATINA ANIMAL. Apto para veganos y diabéticos. Tiene una ASIMILACIÓN RÁPIDA Y COMPLETA de todos sus componentes, para aprovechar al máximo sus propiedades beneficiosas
-- DOSIS RECOMENDADA: Tomar 1 cucharada sopera (10 g) al día, preferentemente repartida en 2 tomas, para una mejor biodisponibilidad. Dispersar en 1 vasito de agua, zumo de frutas o yogur, y tomar en las comidas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00DN9HRME/?tag=tolees-21)
