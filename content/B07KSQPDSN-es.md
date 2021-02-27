@@ -28,9 +28,9 @@ Ahora mismo tienes [Galleta caramelizada Lotus Biscoff - 12 paquetes de 124 gr. 
 
 🔎:
 
+- Galleta caramelizada con sabor único y textura crujiente.
+- La original galleta speculoos belga
 - Ideal como acompañamiento de café o para comer a cualquier hora.
 - Sin lactosa, sin colorantes, sin aromas añadidos, apta para veganos. Contiene Glutén.
-- La original galleta speculoos belga
-- Galleta caramelizada con sabor único y textura crujiente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KSQPDSN/?tag=tolees-21)
