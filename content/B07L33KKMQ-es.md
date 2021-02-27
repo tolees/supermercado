@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dixan Detergente Líquido Adiós al Separa con un 0.00 % de descuento'
-date: 2021-02-26 14:42:58
+date: 2021-02-27 14:49:08
 image: 'https://m.media-amazon.com/images/I/41WHJ2oB7wL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dixan'
 buyurl: 'https://www.amazon.es/dp/B07L33KKMQ/?tag=tolees-21'
 descuento: '0.00'
-average: '20.8597101449274'
+average: '20.8612857142856'
 ---
 
 En este momento está [Dixan Detergente Líquido Adiós al Separar - Pack de 4  Total: 120 Lavados  6 L ](https://www.amazon.es/dp/B07L33KKMQ/?tag=tolees-21) a 20.97 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
