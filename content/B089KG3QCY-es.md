@@ -28,9 +28,9 @@ En este momento está [Sanytol - Jabón de Manos Nutritivo con Protección Total
 
 🔎:
 
-- Complejo dermo reparador con ingredientes de origen natural, entre ellos almendras y jalea real, con propiedades nutritivas y reparadoras
 - Jabón de manos nutritivo con protección total contra agentes externos
-- Preserva la hidratación natural de la piel gracias a un rico complejo lipídico similar al que conforma la estructura de nuestra epidermis; Fórmula probada dermatológica y clínicamente
+- Complejo dermo reparador con ingredientes de origen natural, entre ellos almendras y jalea real, con propiedades nutritivas y reparadoras
 - Deja las manos limpias, suaves, nutridas y delicadamente perfumadas
+- Preserva la hidratación natural de la piel gracias a un rico complejo lipídico similar al que conforma la estructura de nuestra epidermis; Fórmula probada dermatológica y clínicamente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089KG3QCY/?tag=tolees-21)
