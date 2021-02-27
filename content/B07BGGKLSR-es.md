@@ -28,8 +28,8 @@ Ahora mismo tienes [Productos San Diego Lazos Chocolate - 1750 gr](https://www.a
 
 🔎:
 
-- Lazos choco
-- Bollería tradicional
 - Mantener en lugar fresco y seco
+- Bollería tradicional
+- Lazos choco
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BGGKLSR/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Albo - Bonito del Norte en aceite de oliva - [Pack de 6 u
 
 🔎:
 
-- Pais de origen: España
 - No contiene gluten
+- Pais de origen: España
 - Bajo en Sal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VJDMHBD/?tag=tolees-21)
