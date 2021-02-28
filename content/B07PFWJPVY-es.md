@@ -28,8 +28,8 @@ Ahora mismo tienes [La Sagra Pack Degustación de Cerveza Artesanal 6 estilos - 
 
 🔎:
 
-- 2 botellas de 6 variedades de la Sagra
 - según disponibilidad, puede haber algún cambio de estilo cervecero por otro de igual o mayor precio, garantizando siempre 6 estilos diferentes
+- 2 botellas de 6 variedades de la Sagra
 - Fabricada en España
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PFWJPVY/?tag=tolees-21)

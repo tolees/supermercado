@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Productos San Diego Lazos Chocolate - 17 al 0.00 % de descuento'
-date: 2021-02-27 20:48:31
+date: 2021-02-28 21:24:42
 image: 'https://m.media-amazon.com/images/I/51HIv5z+sQL._SL400_.jpg'
 comments: true
 category: ofertas

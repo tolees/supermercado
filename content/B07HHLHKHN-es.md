@@ -29,7 +29,7 @@ Ahora mismo tienes [Johnson s - JOHNSON?S gel de ducha refrescante sandía y ros
 🔎:
 
 - Johnsons soft sandia y rosa gel de ducha 750ml
-- Los mejores productos para tu cuidado personal, para tu bienestar, y para la higiene personal.
 - Johnsons soft sandia y rosa gel de ducha 750mljohnsons
+- Los mejores productos para tu cuidado personal, para tu bienestar, y para la higiene personal.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HHLHKHN/?tag=tolees-21)

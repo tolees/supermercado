@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colon Gel Activo - Detergente para lavad al 0.00 % de descuento'
-date: 2021-02-27 21:19:46
+date: 2021-02-28 21:47:50
 image: 'https://m.media-amazon.com/images/I/519W0MbqvaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Colon'
 buyurl: 'https://www.amazon.es/dp/B07VB4XWY1/?tag=tolees-21'
 descuento: '0.00'
-average: '28.671504854369'
+average: '28.7078365384617'
 ---
 
 Está [Colon Gel Activo - Detergente para lavadora  adecuado para ropa blanca y de color  formato gel - pack de 5  hasta 170 dosis](https://www.amazon.es/dp/B07VB4XWY1/?tag=tolees-21) con 0.00 de descuento por 32.45 EUR (original:  EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Colon Gel Activo - Detergente para lavadora  adecuado para ropa blanca y 
 
 ℹ️:
 
-- Descubre el resto de detergentes y limpialavadoras de Colon
-- Detergente para la lavadora formato gel
-- Extra luminosidad en tus prendas blancas y de color
-- Ropa sin manchas, limpia y con un plus de luminosidad
 - Profundo poder quitamanchas, eliminando las manchas de tu ropa incluso en agua fría
+- Descubre el resto de detergentes y limpialavadoras de Colon
+- Extra luminosidad en tus prendas blancas y de color
+- Detergente para la lavadora formato gel
+- Ropa sin manchas, limpia y con un plus de luminosidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VB4XWY1/?tag=tolees-21)
