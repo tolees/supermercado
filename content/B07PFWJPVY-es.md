@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Sagra Pack Degustación de Cerveza Art al 15.17 % de descuento'
-date: 2021-02-26 13:05:16
+date: 2021-02-28 20:22:02
 image: 'https://m.media-amazon.com/images/I/51HKrN5IT7L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'La Sagra'
 buyurl: 'https://www.amazon.es/dp/B07PFWJPVY/?tag=tolees-21'
 descuento: '15.17'
-average: '17.71'
+average: '17.655'
 ---
 
 Ahora mismo tienes [La Sagra Pack Degustación de Cerveza Artesanal 6 estilos - 12 botellas x 330 ml - Total: 3960 ml](https://www.amazon.es/dp/B07PFWJPVY/?tag=tolees-21) a 16.5 EUR (original: 19.45 EUR) (15.17 %  de descuento) en el siguiente enlace!
