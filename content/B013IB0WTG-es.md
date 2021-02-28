@@ -28,8 +28,8 @@ Tienes [Norit Diario Toda la Ropa Detergente Líquido - 2120 ml](https://www.ama
 
 ℹ️:
 
-- Products by Norit
-- Beauty products
 - Powder Detergent
+- Beauty products
+- Products by Norit
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B013IB0WTG/?tag=tolees-21)

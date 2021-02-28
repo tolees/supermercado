@@ -28,8 +28,8 @@ Tienes [Scottex Fresh Papel Higiénico Húmedo - 2 paquetes de 74 servicios](htt
 
 🔎:
 
-- Enriquecido con vitamina E y PH neutro
-- Desechable por el WC
 - Complemento de tu Scottex seco para una higiene perfecta
+- Desechable por el WC
+- Enriquecido con vitamina E y PH neutro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00X9VSNCE/?tag=tolees-21)
