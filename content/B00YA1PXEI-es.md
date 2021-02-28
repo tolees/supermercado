@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Viaggio Espresso Cápsulas de café compat al 0.00 % de descuento'
-date: 2021-02-08 20:41:44
-image: 'https://m.media-amazon.com/images/I/515kCZXYIOL._SL200_.jpg'
+date: 2021-02-28 13:32:07
+image: 'https://m.media-amazon.com/images/I/515kCZXYIOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,14 +24,14 @@ average: '17.7'
 
 Está [Viaggio Espresso Cápsulas de café compatibles con máquinas Nespresso Selección clásica  60 Cápsulas ](https://www.amazon.es/dp/B00YA1PXEI/?tag=tolees-21) con 0.00 de descuento por 17.7 EUR (original:  EUR) en el siguiente enlace!
 
-[![Viaggio Espresso Cápsulas de café compat](https://m.media-amazon.com/images/I/515kCZXYIOL._SL200_.jpg)](https://www.amazon.es/dp/B00YA1PXEI/?tag=tolees-21)
+[![Viaggio Espresso Cápsulas de café compat](https://m.media-amazon.com/images/I/515kCZXYIOL._SL400_.jpg)](https://www.amazon.es/dp/B00YA1PXEI/?tag=tolees-21)
 
 ℹ️:
 
-- Incluye 6 variedades: Ristretto, Intenso, Arabica, Espresso, Decaffeinato y Lungo.
 - OU kosher / Sin gluten
 - Envasado en atmósfera protectora. Sin conservantes, sin azúcares ni aromatizantes añadidos.
-- INGREDIENTES: 100% café molido de tueste natural. 60 cápsulas
 - Cápsulas compatibles con máquinas Nespresso
+- Incluye 6 variedades: Ristretto, Intenso, Arabica, Espresso, Decaffeinato y Lungo.
+- INGREDIENTES: 100% café molido de tueste natural. 60 cápsulas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00YA1PXEI/?tag=tolees-21)
