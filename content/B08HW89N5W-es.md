@@ -28,9 +28,9 @@ Tienes [Gullón Galletas Sin Gluten Mini Dibus Sharkies 250G - [PACK 12 Uds] Tot
 
 ℹ️:
 
+- Fabricado por Galletas Gullón.
 - Estas deliciosas galletas son una fuente de fibra, el mejor desayuno para los más pequeños.
 - Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
-- Fabricado por Galletas Gullón.
 - No contienen lactosa ni proteínas de leche, tampoco huevo ni frutos secos.
 - Las mini galletas Dibus Sharkies de Gullón, con forma de tiburón y sabor a chocolate.
 

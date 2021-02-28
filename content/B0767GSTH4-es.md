@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Moussel - Jabón de manos  300 ml - [Pack al 0.00 % de rebaja'
-date: 2021-02-27 03:46:25
-image: 'https://m.media-amazon.com/images/I/41ngcBpg0PL._SL400_.jpg'
+date: 2021-02-28 09:26:32
+image: 'https://m.media-amazon.com/images/I/412iOzLrOwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,18 +19,18 @@ flag: '🇪🇸'
 brand: 'MOUSSEL'
 buyurl: 'https://www.amazon.es/dp/B0767GSTH4/?tag=tolees-21'
 descuento: '0.00'
-average: '9.67696969696972'
+average: '9.68460000000003'
 ---
 
 Tienes [Moussel - Jabón de manos  300 ml - [Pack de 6]](https://www.amazon.es/dp/B0767GSTH4/?tag=tolees-21) con precio final de  10.44 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
 
-[![Moussel - Jabón de manos  300 ml - [Pack](https://m.media-amazon.com/images/I/41ngcBpg0PL._SL400_.jpg)](https://www.amazon.es/dp/B0767GSTH4/?tag=tolees-21)
+[![Moussel - Jabón de manos  300 ml - [Pack](https://m.media-amazon.com/images/I/412iOzLrOwL._SL400_.jpg)](https://www.amazon.es/dp/B0767GSTH4/?tag=tolees-21)
 
 🔎:
 
 - Higiene de Manos
+- El aroma de tu infancia
 - Para una piel visiblemente suave y tersa cada día
 - pH compatible con la piel
-- El aroma de tu infancia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0767GSTH4/?tag=tolees-21)
