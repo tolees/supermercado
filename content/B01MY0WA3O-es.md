@@ -28,10 +28,10 @@ En este momento está [Instituto Español Gel Piel Sana Higiene Femenina Zona In
 
 🔎:
 
-- Sin parabenos, gluten ni colorantes
 - Minimiza el riesgo de reacciones alérgicas
-- Refresca y protege contra los olores
-- Restablece el equilibrio natural de la mucosa
 - Indicado para mujer adulta y joven pre-adolescente
+- Restablece el equilibrio natural de la mucosa
+- Refresca y protege contra los olores
+- Sin parabenos, gluten ni colorantes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MY0WA3O/?tag=tolees-21)
