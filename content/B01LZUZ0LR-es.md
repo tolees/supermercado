@@ -29,7 +29,7 @@ Tienes [Olympia Kiln - Olympia horno GP346 taza de café océano  230 ml  Pack
 ℹ️:
 
 - Calidad Premium
-- Se adapta a cualquier plato Olympia 140 mm de Hornos (gp331, gp347, gp363, gp479)
 - Acabado con un esmalte reactiva
+- Se adapta a cualquier plato Olympia 140 mm de Hornos (gp331, gp347, gp363, gp479)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LZUZ0LR/?tag=tolees-21)

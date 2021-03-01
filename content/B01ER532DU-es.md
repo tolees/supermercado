@@ -28,8 +28,8 @@ Ahora mismo tienes [HARIBO Funky Mix  Maxibox  Mezcla de Frutas  600 Gramos](htt
 
 🔎:
 
-- Mix de caramelos de goma
-- Incluye: ositos de oro, huevo, fresones, balla-balla duo y balla-balla fresa.
 - Combinación de piezas de diferentes texturas y sabores.
+- Incluye: ositos de oro, huevo, fresones, balla-balla duo y balla-balla fresa.
+- Mix de caramelos de goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ER532DU/?tag=tolees-21)

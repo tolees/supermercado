@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Encías & Esmalte Repair Blanquean al 27.07 % de descuento'
-date: 2021-02-28 15:41:35
+date: 2021-03-01 16:11:19
 image: 'https://m.media-amazon.com/images/I/51i2IoBZuML._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Oral-B'
 buyurl: 'https://www.amazon.es/dp/B07DHMZV67/?tag=tolees-21'
 descuento: '27.07'
-average: '2.75222222222223'
+average: '2.75487394957984'
 ---
 
 Ahora mismo tienes [Oral-B Encías & Esmalte Repair Blanqueante  Pasta Dentífrica  75 ml](https://www.amazon.es/dp/B07DHMZV67/?tag=tolees-21) a 2.91 EUR (original: 3.99 EUR) (27.07 %  de descuento) en el siguiente enlace!
