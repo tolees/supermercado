@@ -29,9 +29,9 @@ Ahora mismo tienes [Fenteer Filtro de Café Permanente Filtro de Silicona para S
 🔎:
 
 - * Cono de filtro de café Silicoe, está diseñado para hacer café usando el manual, vierte sobre la elaboración de café
-- * Fácil de limpiar y apto para lavavajillas
 - * Resistencia a altas temperaturas, resistencia al calor temperatura-40 ℃-120 ℃
 - * No se puede romper y es portátil; Perfecto como regalo de café para los amantes del café en casa o los amantes del café
 - * Fácil de usar y reutilizable
+- * Fácil de limpiar y apto para lavavajillas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08R7BZZNV/?tag=tolees-21)
