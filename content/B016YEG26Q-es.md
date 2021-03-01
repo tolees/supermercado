@@ -28,7 +28,7 @@ Está [Meidi Wanduhr - 3D Diseño Reloj pared Reloj cocina Reloj de baño Reloj 
 
 ℹ️:
 
-- Peso: 0,6 Kg
 - Material: plástico
+- Peso: 0,6 Kg
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016YEG26Q/?tag=tolees-21)
