@@ -28,12 +28,12 @@ Está [Ariel Pods Allin1 Detergente en Cápsulas para Lavadora  Fragancia Sensac
 
 ℹ️:
 
-- Eficaz en frío (incluso a 30ºC)
-- Resultados increíbles en una sola cápsula (detergente concentrado)
-- Limpieza profunda e higiene
-- Iluminador
-- Quitamanchas
-- Fragancia intensa
 - Agradable fragancia en tu ropa durante todo el día
+- Iluminador
+- Fragancia intensa
+- Quitamanchas
+- Limpieza profunda e higiene
+- Resultados increíbles en una sola cápsula (detergente concentrado)
+- Eficaz en frío (incluso a 30ºC)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086KF1RPK/?tag=tolees-21)

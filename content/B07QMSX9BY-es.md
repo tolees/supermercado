@@ -28,10 +28,10 @@ Tienes [Pernigotti - Crema de Cacao y Avellanas  350 g](https://www.amazon.es/dp
 
 🔎:
 
-- País de origen: Italia
-- Solo aromas naturales (sin vainillina, ni otros aromas artificiales) . Solo grasas vegetales seleccionadas (principalmente de coco y nueces). Nunca hidrogenadas ni refinadas.
-- Sin Aceite de Palma.
-- Contiene frutos secos (avellanas)
 - Materia láctea: 13,5 % (incluye las proteínas lácteas y la lactosa)
+- Solo aromas naturales (sin vainillina, ni otros aromas artificiales) . Solo grasas vegetales seleccionadas (principalmente de coco y nueces). Nunca hidrogenadas ni refinadas.
+- Contiene frutos secos (avellanas)
+- País de origen: Italia
+- Sin Aceite de Palma.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QMSX9BY/?tag=tolees-21)
