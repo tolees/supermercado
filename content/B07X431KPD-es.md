@@ -28,9 +28,9 @@ Está [Starbucks Blonde Espresso Roast De Nescafe Dolce Gusto Cápsulas De Café
 
 ℹ️:
 
+- Esta mezcla especial de granos de Latinoamérica se ha tostado cuidadosamente para obtener un resultado envolvente y vibrante
 - Cápsulas de café compatibles con cafeteras NESCAFE DOLCE GUSTO
 - Cápsulas de café de STARBUCKS de NESCAFE DOLCE GUSTO suave y envolvente
-- Esta mezcla especial de granos de Latinoamérica se ha tostado cuidadosamente para obtener un resultado envolvente y vibrante
 - Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Con un sabor suave y ligero, se trata de nuestro tostado de café más delicado
 

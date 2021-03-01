@@ -29,9 +29,9 @@ Está [Solis Rice Cooker Duo Programm Type 817 - Arrocera eléctrica con tempori
 ℹ️:
 
 - ANTIADHERENTE Y FÁCIL LIMPIEZA - Algunas partes se pueden lavar en el lavavajillas. La pieza de cocción extraíble se enjuaga a mano. Además, ningún ingrediente se pega al aparato gracias a la capa antiadherente
+- PARA TODOS LOS TIPOS DE ARROZ - Adecuado para cocinar arroz blanco y marrón como el sushi, el jazmín, el basmati, el arborio, el carnaroli y el arroz de quinoa
 - FUNCIÓN DE VAPOR - También es posible combinar la cocción de arroz y la cocción al vapor al mismo tiempo. No es necesario remover durante el proceso - las especias y el caldo pueden ser añadidos directamente
 - TEMPORIZADOR - Función de temporizador de 1 a 15 horas, conmutación directa para mantener la función de calentamiento, apagado automático después de 10 horas
 - COCCION RAPIDA Y EXPRESS - Cocción precisa de hasta 4 tazas de arroz con calidad de restaurante. No es necesario removerlo durante el proceso - las especias y el caldo pueden ser añadidos directamente
-- PARA TODOS LOS TIPOS DE ARROZ - Adecuado para cocinar arroz blanco y marrón como el sushi, el jazmín, el basmati, el arborio, el carnaroli y el arroz de quinoa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00P2N6CBQ/?tag=tolees-21)

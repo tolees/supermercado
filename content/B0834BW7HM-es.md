@@ -29,9 +29,9 @@ Ahora mismo tienes [Gullón Galletas Saladas Quinoa y Chía - 250 g](https://www
 🔎:
 
 - Deliciosas galletas saladas con semillas de quinoa y chia.
-- Fabricado por Galletas Gullón.
-- La perfecta combinación de semillas de chía, lino y quinoa.
 - Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
 - De picoteo, con amigos, siempre que quieras disfrutar de mordiscos de sabor.
+- La perfecta combinación de semillas de chía, lino y quinoa.
+- Fabricado por Galletas Gullón.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0834BW7HM/?tag=tolees-21)
