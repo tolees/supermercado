@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dulcesol  Bizcocho Red Velvet - 175 gr. al 0.00 % de descuento'
-date: 2021-02-28 15:18:28
+date: 2021-03-01 15:32:42
 image: 'https://m.media-amazon.com/images/I/41PEjDAmwGL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dulcesol'
 buyurl: 'https://www.amazon.es/dp/B07QK31VZM/?tag=tolees-21'
 descuento: '0.00'
-average: '1.52766304347828'
+average: '1.52751351351353'
 ---
 
 Está [Dulcesol  Bizcocho Red Velvet - 175 gr.](https://www.amazon.es/dp/B07QK31VZM/?tag=tolees-21) con 0.00 de descuento por 1.5 EUR (original:  EUR) en el siguiente enlace!
