@@ -30,8 +30,8 @@ En este momento está [Dixan Detergente Líquido Adiós al Separar - Pack de 4  
 
 - Luminosidad para toda la ropa: blancos y colores
 - Dixan, La manera inteligente de lavar
-- Olor fresco y duradero, gracias a su tecnología exclusiva que mantiene la ropa fresca incluso tras 12h dentro de la lavadora
 - Gran poder en eliminación de manchas
 - Ayuda a prevenir la transferencia de colores de una prenda a otra
+- Olor fresco y duradero, gracias a su tecnología exclusiva que mantiene la ropa fresca incluso tras 12h dentro de la lavadora
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L33KKMQ/?tag=tolees-21)
