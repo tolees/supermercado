@@ -28,13 +28,13 @@ Ahora mismo tienes [PATO® - WC Power Lejía Fragancia Océano  Limpiador Quitam
 
 🔎:
 
-- Perfuma con una agradable fragancia: Océano
-- Elimina y previene la cal que se foma en el inodoro
-- Pato WC es un limpiador líquido 5 en 1 capaz de limpiar, desinfectar, eliminar la cal, neutralizar el mal olor y dejar una agradable fragancia en su inodoro
-- Elimina los malos olores
-- Limpia y desinfecta higiénicamente el inodoro
 - Con la garantía de SCJohnson y PATO Contiene 6 Unidades
-- Limpia incluso debajo del borde
+- Perfuma con una agradable fragancia: Océano
 - Contiene 6 Unidades PATO Active Clean de 750ml
+- Pato WC es un limpiador líquido 5 en 1 capaz de limpiar, desinfectar, eliminar la cal, neutralizar el mal olor y dejar una agradable fragancia en su inodoro
+- Limpia y desinfecta higiénicamente el inodoro
+- Limpia incluso debajo del borde
+- Elimina y previene la cal que se foma en el inodoro
+- Elimina los malos olores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NSKVMVQ/?tag=tolees-21)
