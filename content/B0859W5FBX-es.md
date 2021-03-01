@@ -28,10 +28,10 @@ Tienes [Colgate Cepillo de bambú](https://www.amazon.es/dp/B0859W5FBX/?tag=tole
 
 ℹ️:
 
-- Mango: el mango está recubierto con cera de abeja natural para reducir al mínimo la absorción de agua
-- Información: los dentistas e higienistas recomiendan reemplazar el cepillo de dientes cada 3 meses
 - Instrucciones: este cepillo de dientes es de bambú, se recomienda secarlo después de su uso
-- Cepillo de dientes – Ofrece una limpieza interdental y ultra suave gracias a las cerdas de carbón
 - Ecológico: el cepillo de dientes está fabricado de forma sostenible con una caja de cartón reciclable y un mango de bambú 100% natural y biodegradable
+- Cepillo de dientes – Ofrece una limpieza interdental y ultra suave gracias a las cerdas de carbón
+- Información: los dentistas e higienistas recomiendan reemplazar el cepillo de dientes cada 3 meses
+- Mango: el mango está recubierto con cera de abeja natural para reducir al mínimo la absorción de agua
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0859W5FBX/?tag=tolees-21)

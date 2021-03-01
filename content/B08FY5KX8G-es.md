@@ -28,9 +28,9 @@ En este momento está [Renova Servilletas de papel Art de la Table Blanca Cockta
 
 🔎:
 
-- Suavidad
-- 22 x 22 cm
 - Doble capa
+- 22 x 22 cm
 - Servilletas blancas
+- Suavidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FY5KX8G/?tag=tolees-21)

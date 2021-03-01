@@ -28,10 +28,10 @@ Está [Lavazza Máquina de Café Jolie Plus  1250W  gris metálico  Gun Metal Gr
 
 ℹ️:
 
-- Rejilla ajustable en dos alturas pequeño y grande (Small/Large) para preparar un expreso clásico o un café largo.
-- Control de la temperatura: capacidad del depósito: 0,6 L.
-- Indicador de lleno del cajón de cápsulas usadas y de depósito agua vacío.
-- Elegante acabado cromado.
 - Doble botón de distribución (2 selecciones de café).
+- Elegante acabado cromado.
+- Indicador de lleno del cajón de cápsulas usadas y de depósito agua vacío.
+- Control de la temperatura: capacidad del depósito: 0,6 L.
+- Rejilla ajustable en dos alturas pequeño y grande (Small/Large) para preparar un expreso clásico o un café largo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071FGZMGN/?tag=tolees-21)

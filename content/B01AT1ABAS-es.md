@@ -28,10 +28,10 @@ Está [Listerine Advanced White  Enjuague bucal  Spear Mint  1 Litro](https://ww
 
 ℹ️:
 
-- Contiene flúor que aumenta la resistencia del esmalte y ayuda a la remineralización de los dientes
 - Su fórmula avanzada combate los gérmenes que causan el mal aliento
 - Reduce las manchas en los dientes proporcionando unos dientes más blancos
-- Forma un escudo protector que ayuda a prevenir la formación de nuevas manchas en la superficie de los dientes
 - Los aceites esenciales penetran y reducen las bacterias que forman la placa limpiando la superficie de los dientes
+- Contiene flúor que aumenta la resistencia del esmalte y ayuda a la remineralización de los dientes
+- Forma un escudo protector que ayuda a prevenir la formación de nuevas manchas en la superficie de los dientes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AT1ABAS/?tag=tolees-21)
