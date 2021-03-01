@@ -29,8 +29,8 @@ En este momento está [Chocolates Simón Coll - Simón Coll - Gotas de Chocolate
 🔎:
 
 - Elaboración con ingredientes de calidad y producción bean to bar, desde el haba de cacao.
-- Sin gluten. Sin aceite de palma.
 - Cobertura y decoración repostería
 - Expertos chocolateros desde 1840.
+- Sin gluten. Sin aceite de palma.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079Z8LL8T/?tag=tolees-21)

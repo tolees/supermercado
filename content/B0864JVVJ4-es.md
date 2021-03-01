@@ -28,10 +28,10 @@ Tienes [Cardhu 12 Años Whisky Escocés Puro de Malta Edición Limitada en Estuc
 
 🔎:
 
-- Whisky puro de malta escocés de la gama Cardhu con un sabor intenso y delicioso
 - Envejecido durante 12 años para liberar las notas afrutadas
-- Se disfruta mejor solo o con hielo
+- Whisky puro de malta escocés de la gama Cardhu con un sabor intenso y delicioso
 - Un whisky de malta dulce, limpio, fresco y con toques de roble
 - Ganador del oro en The Scotch Whisky Masters de 2014
+- Se disfruta mejor solo o con hielo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0864JVVJ4/?tag=tolees-21)

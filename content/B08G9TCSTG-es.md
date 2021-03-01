@@ -28,9 +28,9 @@ Tienes [RELEVO 100% Reciclado Bolsas de Basura  extra resistentes 20 L  60 bolsa
 
 🔎:
 
-- Reciclamos 857 Gramos de plástico para producir estas 15 bolsas
 - Los certificados Angel Azul & PEFC aseguran que las Bolsas de Basura Relevo tienen un impacto medioambiental mucho menor que las bolsas de plástico virgen
 - Contiene 3 rollos con un total de 45 bolsas. Cada bolsa mide 45 x 46 CM
+- Reciclamos 857 Gramos de plástico para producir estas 15 bolsas
 - Su sistema antigoteo permite arrojar desperdicios húmedos, evitando derrames
 - Estas bolsas ecológicas resisten hasta 15 kg y está libre de los inconvenientes de las bolsas biodegradables
 

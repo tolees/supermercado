@@ -29,8 +29,8 @@ Ahora mismo tienes [Haribo - Ositos - Caramelos de goma - 1 kg](https://www.amaz
 🔎:
 
 - 1 kg
-- Irresistible sabor a frutas
 - Deliciosas piezas en forma de ositos
 - Caramelos de goma
+- Irresistible sabor a frutas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082VT6X2H/?tag=tolees-21)
