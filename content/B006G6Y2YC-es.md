@@ -28,9 +28,9 @@ Ahora mismo tienes [Finish Sal para lavavajillas  función antical  mayor rendim
 
 🔎:
 
-- Aumenta el rendimiento de limpieza de tu detergente
 - Evita puntos y marcas de agua en la vajilla
 - Finish Sal para el lavavajillas evita la acumulación de cal en tu vajilla
+- Aumenta el rendimiento de limpieza de tu detergente
 - Finish es la marca recomendada por los principales fabricantes de lavavajillas
 - No contiene residuos, ayudando a conservar tu vajilla más tiempo
 

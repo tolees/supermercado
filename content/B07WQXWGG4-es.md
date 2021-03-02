@@ -28,9 +28,9 @@ Tienes [Simlug - Máquina de café en cápsulas  máquina de café espresso para
 
 🔎:
 
+- Con el botón de café Lungo y el botón de café Espresso, es fácil configurar el café que te gusta y controlar el volumen que necesitas
 - Ideal para café, lattes, espuma de leche fría y batir chocolate caliente, etc.
 - El soporte de taza ajustable es para facilitar la preparación de los cafés Espresso y Lungo
-- Con el botón de café Lungo y el botón de café Espresso, es fácil configurar el café que te gusta y controlar el volumen que necesitas
 - Ahorro de energía y seguridad: el modo de apagado automático está incorporado para apagarse después de nueve minutos sin uso
 - Se adapta perfectamente a cualquier cocina debido a su tamaño compacto y diseño elegante
 

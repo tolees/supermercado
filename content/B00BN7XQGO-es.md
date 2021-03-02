@@ -28,8 +28,8 @@ Ahora mismo tienes [Instituto Español Loción Corporal para Piel Atópica - Hip
 
 🔎:
 
-- Género: Unisex Adulto
 - Tipo de producto: Leche corporal
 - Marca: Instituto Español
+- Género: Unisex Adulto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BN7XQGO/?tag=tolees-21)

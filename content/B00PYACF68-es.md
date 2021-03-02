@@ -29,9 +29,9 @@ En este momento está [BESLAN SL - SOTYA Batido Sabor Chocolate Blanco 700 gr](h
 🔎:
 
 - De la marca Sotya
-- Alimento complementario recomendado en dietas de adelgazamiento
-- Ayudan a regular el sistema nervioso eliminando la ansiedad
 - Diurético y depurativo
+- Alimento complementario recomendado en dietas de adelgazamiento
 - Aporte adicional de nutrientes en estados carenciales
+- Ayudan a regular el sistema nervioso eliminando la ansiedad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00PYACF68/?tag=tolees-21)
