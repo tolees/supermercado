@@ -28,11 +28,11 @@ En este momento está [Head & Shoulders Men Ultra Anticaída Champú Anticaspa c
 
 🔎:
 
-- Elimina la grasa y la suciedad.
-- Protege el cuero cabelludo para dar un cabello 100 % libre de caspa.
-- Fórmula suave con pH equilibrado adecuada para el uso diario.
-- Champú anticaída de H&S con fórmula potenciada a la cafeína para cabellos fuertes
 - Para todo tipo de cabello.
 - Deja el cuero cabelludo profundamente limpio durante mucho tiempo.
+- Protege el cuero cabelludo para dar un cabello 100 % libre de caspa.
+- Champú anticaída de H&S con fórmula potenciada a la cafeína para cabellos fuertes
+- Fórmula suave con pH equilibrado adecuada para el uso diario.
+- Elimina la grasa y la suciedad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073XR7Y8W/?tag=tolees-21)

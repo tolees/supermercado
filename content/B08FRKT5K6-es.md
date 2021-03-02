@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seifenprofis - Jabón de glicerina con ba al 0.00 % de descuento'
-date: 2021-03-01 10:24:47
+date: 2021-03-02 15:29:09
 image: 'https://m.media-amazon.com/images/I/31mRtkAPnZL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Seifenprofis - Jabón de glicerina con base de jabón y aloe vera  transp
 
 ℹ️:
 
-- ★ Ingredientes: agua, glicerina, estearato de sodio, laurato de sodio, sulfato de lauril de sodio, miristato de sodio, sorbitol, propilenglicol, juicio de hoja de aloe barbadensis, cloruro de sodio, tiosulfato de sodio, ácido Etidronico.
+- ★ Jabón crudo de alta calidad para la fabricación de jabón y para jabón con aloe vera – fácil de derretir, transparente, casi inodoro.
 - ★Cantidad: 1 kg 2 kg 4 kg – transparente en prácticos bloques de 1 kg, alta calidad.
+- ★ Ingredientes: agua, glicerina, estearato de sodio, laurato de sodio, sulfato de lauril de sodio, miristato de sodio, sorbitol, propilenglicol, juicio de hoja de aloe barbadensis, cloruro de sodio, tiosulfato de sodio, ácido Etidronico.
 - ★ Jabón crudo en el microondas, derretir y volver a procesar
 - ★ Vegano, libre de ensayos en animales y sin aceite de palma, libre de SLS (SLS = lauril sulfato de sodio) || Contiene SLES (Sodium Laureth Sulfate).
-- ★ Jabón crudo de alta calidad para la fabricación de jabón y para jabón con aloe vera – fácil de derretir, transparente, casi inodoro.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FRKT5K6/?tag=tolees-21)
