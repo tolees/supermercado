@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana - Leche Entera al 0.00 % de descuento'
-date: 2021-02-28 09:25:46
+date: 2021-03-02 03:35:01
 image: 'https://m.media-amazon.com/images/I/41DcSB9HoiL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Central Lechera Asturiana'
 buyurl: 'https://www.amazon.es/dp/B01ITRIOCG/?tag=tolees-21'
 descuento: '0.00'
-average: '15.3151807228917'
+average: '15.2536470588237'
 ---
 
 Está [Central Lechera Asturiana - Leche Entera Botella 1 5L  Pack 6 ](https://www.amazon.es/dp/B01ITRIOCG/?tag=tolees-21) con 0.00 de descuento por 12.7 EUR (original:  EUR) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [Central Lechera Asturiana - Leche Entera Botella 1 5L  Pack 6 ](https://w
 ℹ️:
 
 - Entera
-- Tradicional
 - Leche UHT
+- Tradicional
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ITRIOCG/?tag=tolees-21)
