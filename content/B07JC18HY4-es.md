@@ -28,8 +28,8 @@ Tienes [Tejero - Conserva de Pescado | Atún de Almadraba en Aceite de Oliva - 8
 
 🔎:
 
-- Pescado
 - España
+- Pescado
 - Mantener a temperatura ambiente
 - Ingredientes : Atún Aceite y Sal
 
