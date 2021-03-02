@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.50 % en Desodorante spray Sanex Dermo Invisible '
-date: 2021-02-27 18:50:50
+date: 2021-03-02 12:51:58
 image: 'https://m.media-amazon.com/images/I/41MgXdpOE2L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Desodorante spray Sanex Dermo Invisible 24H protección antimanchas 2x20
 
 ℹ️:
 
-- Tipo de Piel: Todo Tipo de Pieles
 - Género: Mujer
+- Tipo de Piel: Todo Tipo de Pieles
 - Formato: Spray
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDRHDQQ/?tag=tolees-21)
