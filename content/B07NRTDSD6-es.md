@@ -28,10 +28,10 @@ Está [Diadermine - Desmaquillador de ojos  2 uds de 125ml  250ml   Elimina el m
 
 ℹ️:
 
-- Descubre los productos de Diadermine que limpian y protegen tu rostro usando las últimas tecnologías dermatológicas
-- Es oftalmológicamente probado
-- Elimina el maquillaje de manera eficaz sin irritar la piel
 - No deja un tacto graso; Protege y cuida las pestañas
 - Desarrollado bajo el control oftalmológico, el Desmaquillador de Ojos elimina eficazmente todo tipo de maquillaje respetando el pH de la piel; Compatible con el uso de lentillas
+- Es oftalmológicamente probado
+- Descubre los productos de Diadermine que limpian y protegen tu rostro usando las últimas tecnologías dermatológicas
+- Elimina el maquillaje de manera eficaz sin irritar la piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NRTDSD6/?tag=tolees-21)
