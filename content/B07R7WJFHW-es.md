@@ -28,8 +28,8 @@ Ahora mismo tienes [Café FORTALEZA Café molido Descafeinado - 400 gr](https://
 
 🔎:
 
-- Intensidad 5/10
-- Producto especial para cafeteras de émbolo, Melita o italiana
 - Sabor pleno a puro café
+- Producto especial para cafeteras de émbolo, Melita o italiana
+- Intensidad 5/10
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07R7WJFHW/?tag=tolees-21)

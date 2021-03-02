@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Gallo - Harina integral de trigo - 1kg al 15.65 % de descuento'
-date: 2021-02-09 20:48:20
-image: 'https://m.media-amazon.com/images/I/41pE30OnZGL._SL200_.jpg'
+date: 2021-03-02 13:28:38
+image: 'https://m.media-amazon.com/images/I/41pE30OnZGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,17 +19,17 @@ flag: '🇪🇸'
 brand: 'Gallo'
 buyurl: 'https://www.amazon.es/dp/B01COXD1GU/?tag=tolees-21'
 descuento: '15.65'
-average: '0.986250000000001'
+average: '0.984444444444446'
 ---
 
 Está [Gallo - Harina integral de trigo - 1kg](https://www.amazon.es/dp/B01COXD1GU/?tag=tolees-21) con 15.65 de descuento por 0.97 EUR (original: 1.15 EUR) en el siguiente enlace!
 
-[![Gallo - Harina integral de trigo - 1kg](https://m.media-amazon.com/images/I/41pE30OnZGL._SL200_.jpg)](https://www.amazon.es/dp/B01COXD1GU/?tag=tolees-21)
+[![Gallo - Harina integral de trigo - 1kg](https://m.media-amazon.com/images/I/41pE30OnZGL._SL400_.jpg)](https://www.amazon.es/dp/B01COXD1GU/?tag=tolees-21)
 
 ℹ️:
 
+- Fuente de fibra
 - Harina integral de trigo
 - Especial Bizcochos, pan, galletas
-- Fuente de fibra
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01COXD1GU/?tag=tolees-21)

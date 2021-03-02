@@ -28,9 +28,9 @@ Tienes [Central Lechera Asturiana - Bebida De Soja Calcio Alpro Brik 1 L](https:
 
 ℹ️:
 
-- Contiene Soja y/o productos a base de soja
 - Proteinas: ayudan huesos, saturadas: ayuda mantener niveles colesterol
-- Fuente proteinas, calcio y vit. B2,B12,D, Baja en grasas saturadas
+- Contiene Soja y/o productos a base de soja
 - 100% vegetal. Naturalmente sin lactosa o gluten. colorantes conservantes. Fuente proteinas que contribuye al mantenimiento adecuado los huesos
+- Fuente proteinas, calcio y vit. B2,B12,D, Baja en grasas saturadas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XA5GSYE/?tag=tolees-21)
