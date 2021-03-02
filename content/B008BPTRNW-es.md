@@ -29,7 +29,7 @@ En este momento está [Dove Desodorante Mini 8783464-1 unidad](https://www.amazo
 🔎:
 
 - Frescor
-- Protege e hidrata
 - Máxima eficacia para las axilas
+- Protege e hidrata
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008BPTRNW/?tag=tolees-21)
