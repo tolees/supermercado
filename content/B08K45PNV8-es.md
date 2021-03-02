@@ -28,11 +28,11 @@ En este momento está [Sadival - Lote Jamonero con Paleta Reserva  Ibéricos y v
 
 🔎:
 
-- 1 Pieza Morcilla Ibérica Montehonfría 150 Grs.
-- 1 Pieza Salchichón Vela Ibérico Bellota Sierra de las Bellotas 150 Grs.
-- 1 Pieza Chorizo Vela Ibérico Bellota Sierra de las Bellotas 150 Grs.
+- 1 Pieza Sobrasada Ibérica Montehonfría 150 Grs.
 - 3 Botellas Vino Tinto D.O. Ribera del Guadiana Palacio de Beltus 75 Cl
 - 1 Pieza Paleta Reserva Duroc Campodulce 4-4.5 Kgs
-- 1 Pieza Sobrasada Ibérica Montehonfría 150 Grs.
+- 1 Pieza Salchichón Vela Ibérico Bellota Sierra de las Bellotas 150 Grs.
+- 1 Pieza Chorizo Vela Ibérico Bellota Sierra de las Bellotas 150 Grs.
+- 1 Pieza Morcilla Ibérica Montehonfría 150 Grs.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08K45PNV8/?tag=tolees-21)

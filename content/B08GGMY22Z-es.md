@@ -28,10 +28,10 @@ Ahora mismo tienes [Nestlé Sveltesse - Leche desnatada en Polvo - 400 g](https:
 
 🔎:
 
-- Cada lata de 1 kg de leche en polvo Sveltesse equivale a 10 litros de leche
 - Hecha con Leche Fresca de Cantabria recogida diariamente
-- Leche en polvo Sveltesse la única del mercado sin grasa enriquecida con calcio y vitaminas
+- Cada lata de 1 kg de leche en polvo Sveltesse equivale a 10 litros de leche
 - La leche Sveltesse es rica en calcio y fuente de vitamina K
+- Leche en polvo Sveltesse la única del mercado sin grasa enriquecida con calcio y vitaminas
 - Enriquece todos tus platos con la leche en polvo de Sveltesse
 - la leche en polvo desnatada Sveltesse es la manera más práctica y cómoda de beber leche
 
