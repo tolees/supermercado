@@ -28,13 +28,13 @@ En este momento está [Gallo - Pasta mariscos  450 gr](https://www.amazon.es/dp/
 
 🔎:
 
-- Sémola de trigo duro; puede contener trazas de huevo
+- Alérgenos: contiene trigo, puede contener trazas de huevoal9al9: ap9
+- Sémola de trigo duro; pasta clásica; no se pasa, no se pega
 - País de origen España
 - Mantener en lugar fresco y seco
-- Alérgenos: contiene trigo, puede contener trazas de huevoal9al9: ap9
+- Sémola de trigo duro; puede contener trazas de huevo
 - Información de alérgenos: Wheat
 - Procedencia: ESPAÑA
 - Instrucciones para su uso adecuado: Todos los públicos
-- Sémola de trigo duro; pasta clásica; no se pasa, no se pega
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01COXBNN8/?tag=tolees-21)

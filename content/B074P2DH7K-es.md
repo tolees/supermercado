@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'O Naturals Pastilla Jabón Orgánico Ecoló al 0.00 % de descuento'
-date: 2021-02-28 21:18:37
+date: 2021-03-02 10:13:44
 image: 'https://m.media-amazon.com/images/I/51qd5rGTYSL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'O NATURALS'
 buyurl: 'https://www.amazon.es/dp/B074P2DH7K/?tag=tolees-21'
 descuento: '0.00'
-average: '18.53793814433'
+average: '18.5066666666668'
 ---
 
 Ahora mismo tienes [O Naturals Pastilla Jabón Orgánico Ecológico Natural Facial Cuerpo y Mano Hidratante con Aceites Esenciales Argana Vegano. Estuche Regalo Mujer Hombre 6 Jabones Aromáticos de 690 gr Total.Cruelty Free](https://www.amazon.es/dp/B074P2DH7K/?tag=tolees-21) a 16.99 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
