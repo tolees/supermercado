@@ -28,8 +28,8 @@ Está [Gallo - Harina integral de trigo - 1kg](https://www.amazon.es/dp/B01COXD1
 
 ℹ️:
 
-- Fuente de fibra
 - Harina integral de trigo
 - Especial Bizcochos, pan, galletas
+- Fuente de fibra
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01COXD1GU/?tag=tolees-21)

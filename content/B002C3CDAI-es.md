@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Gloss! - Gloss - caja de baño  caja de r con un 0.00 % de descuento'
-date: 2021-02-03 13:35:50
-image: 'https://m.media-amazon.com/images/I/51PbZitgE7L._SL200_.jpg'
+date: 2021-03-02 14:04:38
+image: 'https://m.media-amazon.com/images/I/51PbZitgE7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,17 +19,17 @@ flag: '🇪🇸'
 brand: 'Gloss!'
 buyurl: 'https://www.amazon.es/dp/B002C3CDAI/?tag=tolees-21'
 descuento: '0.00'
-average: '14.4192156862746'
+average: '14.4033962264151'
 ---
 
 En este momento está [Gloss! - Gloss - caja de baño  caja de regalo para mujeres - Bañera de Baño Regalo - Chocolate](https://www.amazon.es/dp/B002C3CDAI/?tag=tolees-21) a 14.0 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Gloss! - Gloss - caja de baño  caja de r](https://m.media-amazon.com/images/I/51PbZitgE7L._SL200_.jpg)](https://www.amazon.es/dp/B002C3CDAI/?tag=tolees-21)
+[![Gloss! - Gloss - caja de baño  caja de r](https://m.media-amazon.com/images/I/51PbZitgE7L._SL400_.jpg)](https://www.amazon.es/dp/B002C3CDAI/?tag=tolees-21)
 
 🔎:
 
-- Bañera de baño regalo
 - Con este regalo de frescura y bienestar, comparte un momento de placer delicadamente perfumado con Chocolate
 - Contenido: 270 ml gel de ducha, 270 ml loción corporal, 50 ml exfoliante corporal
+- Bañera de baño regalo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002C3CDAI/?tag=tolees-21)

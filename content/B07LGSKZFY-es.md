@@ -28,8 +28,8 @@ Ahora mismo tienes [Nocilla - Batido para beber - 200 ml](https://www.amazon.es/
 
 🔎:
 
-- Con la garantía de Calidad Pascual
 - Nocilla para beber
+- Con la garantía de Calidad Pascual
 - Bébetelo caliente o frío; se puede calentar en microondas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LGSKZFY/?tag=tolees-21)
