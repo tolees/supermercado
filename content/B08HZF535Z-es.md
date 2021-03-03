@@ -28,9 +28,9 @@ Tienes [Gel hidroalcohólico higienizante de manos 5L de Dassiel](https://www.am
 
 ℹ️:
 
-- Gel de manos hidroalcohólico indicado para una HIGIENE INMEDIATA Y EN PROFUNDIDAD sin precisar el uso de agua
-- Fabricado en España
 - Formulado con 0,1% de Cloruro de benzalconio y Eucalyptol para potenciar el efecto Sanitizante del alcohol
 - Contiene agentes emolientes, calmantes y refrescantes que ayudan a minimizar los efectos provocados por el alcohol en la piel
+- Fabricado en España
+- Gel de manos hidroalcohólico indicado para una HIGIENE INMEDIATA Y EN PROFUNDIDAD sin precisar el uso de agua
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08HZF535Z/?tag=tolees-21)

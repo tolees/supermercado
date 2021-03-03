@@ -29,8 +29,8 @@ Ahora mismo tienes [L Oreal Paris Colorista - L Oréal Paris Colorista Coloraci�
 🔎:
 
 - Coloración temporal en gel
-- Para cabellos rubios, con mechas o decolorados
 - Washout de Color Pastel
+- Para cabellos rubios, con mechas o decolorados
 - Dura 5 - 10 lavados, puede durar más tiempo según la porosidad del cabello
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01NB8QR7T/?tag=tolees-21)
