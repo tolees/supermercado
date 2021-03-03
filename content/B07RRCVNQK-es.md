@@ -28,9 +28,9 @@ Ahora mismo tienes [Trebol Verde Detergente Concentrado Sport  30 Lavados  1500 
 
 🔎:
 
+- Está formulado con materias primas respetuosas con las pieles sensibles y el medio ambiente
 - Elimina de forma eficaz tanto las manchas más difíciles como los malos olores de la ropa de deporte
 - En caso de contacto con los ojos aclarar cuidadosamente con agua durante varios minutos
 - Eficaz incluso con agua a baja temperatura
-- Está formulado con materias primas respetuosas con las pieles sensibles y el medio ambiente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RRCVNQK/?tag=tolees-21)
