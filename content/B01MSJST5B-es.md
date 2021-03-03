@@ -28,15 +28,15 @@ Tienes [CHOYA Vino De Arroz Japonés Choya Sake  Bebida Alcohólica  Junmai Sake
 
 ℹ️:
 
-- Procedencia: japan
-- Volumen paquete: 500.0 milliliters
-- Tipo de alcohol: sakes - na
-- Volumen: 0.5 liters
-- La bebida tradicional convence por sus aromas afrutados y su suave acidez, deliciosa como aperitivo o cóctel.
-- Choya sake: bebida alcohólica japonesa hecha de arroz - especialidad de vino de arroz de japón
 - Contenido de alcohol (alc/vol): 14.5 percent_by_volume
-- El vino de arroz de alta calidad de japón se puede disfrutar frío o a temperatura ambiente, en invierno también se sirve caliente.
-- Unidades: 1.0
 - Como servir: se puede disfrutar frio o a temperatura ambiente
+- Tipo de alcohol: sakes - na
+- Choya sake: bebida alcohólica japonesa hecha de arroz - especialidad de vino de arroz de japón
+- Procedencia: japan
+- Volumen: 0.5 liters
+- El vino de arroz de alta calidad de japón se puede disfrutar frío o a temperatura ambiente, en invierno también se sirve caliente.
+- La bebida tradicional convence por sus aromas afrutados y su suave acidez, deliciosa como aperitivo o cóctel.
+- Volumen paquete: 500.0 milliliters
+- Unidades: 1.0
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MSJST5B/?tag=tolees-21)
