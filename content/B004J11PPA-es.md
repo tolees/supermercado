@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alvarez Gomez - Álvarez Gómez - Jabón en al 0.00 % de descuento'
-date: 2021-03-02 09:23:37
+date: 2021-03-03 09:29:38
 image: 'https://m.media-amazon.com/images/I/51vZj3VGyIL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Está [Alvarez Gomez - Álvarez Gómez - Jabón en Pastilla con Aroma Colonia Cl
 
 ℹ️:
 
-- De textura ultra cremosa, muy agradable y con un perfume muy fresco, limpia a la vez que protege tu epidermis
-- Con un PH Neutro, está fabricado específicamente para evitar irritaciones y cuidar de la piel de toda la familia
-- Tipo de piel: Normal
-- Un jabón en pastilla suave que deja la piel limpia, sedosa y perfumada con el aroma clásico de Álvarez Gómez
-- Nombre de la fragancia: acuática
 - Elaborado con Glicerina, de efectos calmantes, y Aloe Vera, Avena y Aceite de oliva, que proporcionan cuidado y protección
 - Dermatologicamente testado para todo tipo de pieles, edades y de uso diario
+- Nombre de la fragancia: acuática
+- Tipo de piel: Normal
+- De textura ultra cremosa, muy agradable y con un perfume muy fresco, limpia a la vez que protege tu epidermis
+- Con un PH Neutro, está fabricado específicamente para evitar irritaciones y cuidar de la piel de toda la familia
+- Un jabón en pastilla suave que deja la piel limpia, sedosa y perfumada con el aroma clásico de Álvarez Gómez
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004J11PPA/?tag=tolees-21)
