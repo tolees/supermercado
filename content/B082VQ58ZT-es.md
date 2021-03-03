@@ -28,10 +28,10 @@ En este momento está [Tresemmé Clásico Pack Champú y Acondicionador](https:/
 
 🔎:
 
-- Fórmula multivitamínica
 - Elimina los residuos originados
+- Fórmula multivitamínica
 - Limpia en profundidad el cabello
-- Deja el cabello limpio y sin apelmazamientos
 - Proporciona sensación de frescor
+- Deja el cabello limpio y sin apelmazamientos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082VQ58ZT/?tag=tolees-21)
