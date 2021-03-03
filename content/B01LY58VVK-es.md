@@ -28,8 +28,8 @@ En este momento está [Nesquik Noche - Cacao Soluble Instantáneo - Pack de 2 x 
 
 🔎:
 
-- Contiene melisa, tila y manzanilla
 - Sin gluten
 - Instantáneo
+- Contiene melisa, tila y manzanilla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LY58VVK/?tag=tolees-21)

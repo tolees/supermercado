@@ -29,8 +29,8 @@ En este momento está [Pompadour Cofre Premium Selection Teekanne - 180 Bolsitas
 🔎:
 
 - Selección de 12 variedades de infusiones
-- Para disfrutar de momentos únicos de aroma
-- Bolsitas de té individuales, selladas
 - Paquete de 180 bolsitas con envueltas herméticas
+- Bolsitas de té individuales, selladas
+- Para disfrutar de momentos únicos de aroma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00QGR83AA/?tag=tolees-21)

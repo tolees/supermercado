@@ -29,8 +29,8 @@ En este momento está [Eucerin Higiene Intima Jabón Liquido para Piel Sensible 
 🔎:
 
 - Ayuda a calmar las irritaciones
-- Para las mujeres con cambios hormonales
-- Combate las infecciones urinarias
 - Mantiene inalterado el pH fisiológico de la mucosa genital
+- Combate las infecciones urinarias
+- Para las mujeres con cambios hormonales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003BSNBZO/?tag=tolees-21)

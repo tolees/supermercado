@@ -28,10 +28,10 @@ Tienes [a cas albert - Casalbert. Aceite de oliva virgen extra  aceite de oliva 
 
 🔎:
 
-- 🌿 For more than 50 years, Aceites Albert has been selecting and harvesting olives at their optimum stage of ripeness and subjecting them to the delicate process of extraction to create our Casalbert extra virgin olive oil
 - 🌿 Among his many qualities including tasting almond and apple in the mouth and a mild oil with soft and balanced taste in the mouth, leaving it clean and fresh whose fruity aroma varieties reflects its composition.
 - 🌿 Extra virgin olive oil elaborated with olives in their optimal moment of maturation. Developed by our experts and prepared for the best palates. Ideal for all your dishes.
 - 🌿 Casalbert Extra Virgin Olive Oil. 5 liters tin. The pleasure of the Mediterranean on your table. Oils elaborated following the Mediterranean tradition and the strictest norms of quality.
 - 🌿 Extra Virgin Olive Oil recommended to take cold or hot dishes, ideal for fish, salads, meats and raw foods
+- 🌿 For more than 50 years, Aceites Albert has been selecting and harvesting olives at their optimum stage of ripeness and subjecting them to the delicate process of extraction to create our Casalbert extra virgin olive oil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08T9SFFBV/?tag=tolees-21)

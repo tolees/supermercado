@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Gourmet Aceitunas Rellenas de anchoa - 1'
-date: 2021-03-02 15:32:46
+date: 2021-03-03 15:50:13
 image: 'https://m.media-amazon.com/images/I/51SZK9SCfcL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gourmet'
 buyurl: 'https://www.amazon.es/dp/B01LZB5Q0C/?tag=tolees-21'
 descuento: '0.00'
-average: '15.8613043478261'
+average: '15.85125'
 ---
 
 Tienes [Gourmet Aceitunas Rellenas de anchoa - 150 g](https://www.amazon.es/dp/B01LZB5Q0C/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 15.62 EUR (original:  EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [Gourmet Aceitunas Rellenas de anchoa - 150 g](https://www.amazon.es/dp/B
 ℹ️:
 
 - facil de usar
-- Tipo de producto: aceitunas rellenas de anchoa
-- El paquete incluye 1 unidad de 150 gr
 - El producto no contiene gluten
+- El paquete incluye 1 unidad de 150 gr
+- Tipo de producto: aceitunas rellenas de anchoa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LZB5Q0C/?tag=tolees-21)

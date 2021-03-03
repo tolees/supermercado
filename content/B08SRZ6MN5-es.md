@@ -29,9 +29,9 @@ Tienes [L Oréal Paris - L Oreal Paris Elvive Total Repair 5 Pack Reparación To
 ℹ️:
 
 - Consigue un pelo hasta 100% reparado en sólo 5 días; RETO5DÍAS
-- Nuestro Acondicionador Reparador, potenciado con un 9% de concentrado reparador con Keratina XS, revive instantáneamente el pelo dañado
 - Nuestra Mascarilla Reparadora intensiva potenciada con un 10% de concentrado reparador con Keratina XS, repara y refuerza el cabello para combatir los 5 signos del pelo muy dañado
 - Cofre Reparación Total Repair 5 con champú, acondicionador y mascarilla
 - Nuestro Champú Reparador, potenciado con un 2% de concentrado reparador con Keratina XS, revive instantáneamente el pelo dañado
+- Nuestro Acondicionador Reparador, potenciado con un 9% de concentrado reparador con Keratina XS, revive instantáneamente el pelo dañado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08SRZ6MN5/?tag=tolees-21)
