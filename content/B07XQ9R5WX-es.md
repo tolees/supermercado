@@ -28,10 +28,10 @@ Tienes [Somat Abrillantador Lavavajillas Limón 500ml](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Ayuda a un secado más rápido de tu vajilla y cristalería.
-- Garantiza un brillo radiante de la cristalería y vajilla.
-- Extra secado, mente en plásticos.
-- Protege contra la cal.
 - Previene marcas de agua.
+- Protege contra la cal.
+- Extra secado, mente en plásticos.
+- Garantiza un brillo radiante de la cristalería y vajilla.
+- Ayuda a un secado más rápido de tu vajilla y cristalería.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XQ9R5WX/?tag=tolees-21)
