@@ -1,35 +1,35 @@
 ---
 layout: post
-title: 'Dulcesol  Hazelnut Cake  Bizcocho de Ave al 0.00 % de descuento'
-date: 2021-03-01 21:47:02
+title: 'Dulcesol Hazelnut cake - 5 x 225 gr al 0.00 % de descuento'
+date: 2021-03-02 22:06:14
 image: 'https://m.media-amazon.com/images/I/41v81YDivzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFRCZP7-es Dulcesol Hazelnut Cake Bizcocho de Avellana - 5 unidades.'
+slug: 'B07QFRCZP7-es Dulcesol Hazelnut cake - 5 x 225 gr'
 sku: 'B07QFRCZP7-es'
-tags: [ 'bizcocho','dulcesol', ]
+tags: [ 'dulcesol', ]
 actualPrice: 1.65 EUR
 currency: EUR
 price: 1.65
 comparePrice:  EUR
-prodname: 'Dulcesol  Hazelnut Cake  Bizcocho de Avellana  - 5 unidades.'
+prodname: 'Dulcesol Hazelnut cake - 5 x 225 gr'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Dulcesol'
 buyurl: 'https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21'
 descuento: '0.00'
-average: '1.62787234042551'
+average: '1.62805907172993'
 ---
 
-Ahora mismo tienes [Dulcesol  Hazelnut Cake  Bizcocho de Avellana  - 5 unidades.](https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21) a 1.65 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Dulcesol Hazelnut cake - 5 x 225 gr](https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21) a 1.65 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Dulcesol  Hazelnut Cake  Bizcocho de Ave](https://m.media-amazon.com/images/I/41v81YDivzL._SL400_.jpg)](https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21)
+[![Dulcesol Hazelnut cake - 5 x 225 gr](https://m.media-amazon.com/images/I/41v81YDivzL._SL400_.jpg)](https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21)
 
 🔎:
 
-- Pastelito relleno sabor avellana
-- Marca Dulcesol
-- Producto de pastelería y repostería
+- Contiene 5 unidades envasadas individuamente
+- Delicioso y esponjoso pastel con relleno de crema de trufa
+- Gama Black, nuestra gama más premium para los paladares más exigentes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21)
