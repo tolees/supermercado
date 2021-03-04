@@ -28,7 +28,7 @@ Tienes [Pt   Present Time  Nespresso - Soporte para Taza de café  Metal  Chapad
 
 ℹ️:
 
-- Hecho de metal de alta calidad.
 - 48 cápsulas
+- Hecho de metal de alta calidad.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07BN5CHX5/?tag=tolees-21)
