@@ -28,8 +28,8 @@ Está [Maggi - Fideos Yakisoba Classic  120 g](https://www.amazon.es/dp/B01MDMTL
 
 ℹ️:
 
+- Elige el sabor que más te gusta classic, pollo, curry o chili
 - Unos deliciosos noodles salteados con verduras, especias y salsa soja hechos en tan solo 4 minutos
 - Para los amantes de la cocina japonesa
-- Elige el sabor que más te gusta classic, pollo, curry o chili
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MDMTLEV/?tag=tolees-21)
