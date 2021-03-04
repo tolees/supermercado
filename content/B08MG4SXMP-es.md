@@ -28,11 +28,11 @@ Tienes [Gullón - Tortitas Arroz Integral y Chocolate Vitalday  841 g  Pack de 8
 
 🔎:
 
-- Fabricado en españa por galletas gullón
 - Información de alérgenos: gluten_free
 - Ideales para tomar entre horas o tomar on-the-go
+- Sin aceite de palma; producto elaborado con aceite de girasol alto oleico
 - Sin gluten: aptas para celíacos o personas que desean disminuir la ingesta de gluten en su dieta
 - Sabor delicioso gracias a su cobertura de chocolate negro
-- Sin aceite de palma; producto elaborado con aceite de girasol alto oleico
+- Fabricado en españa por galletas gullón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MG4SXMP/?tag=tolees-21)

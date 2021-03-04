@@ -28,10 +28,10 @@ Tienes [Oral-B CrossAction Cabezales de recambio con tecnología CleanMaximiser 
 
 🔎:
 
+- Eliminación de la placa y encías más sanas hasta un 100 % más que con un cepillo de dientes manual normal
+- Número de cabezales de cepillo de dientes incluidos en este pack: 10
 - Compatible con todos los mangos Oral-B, excepto Pulsonic e iO
 - El mejor cepillo Oral-B para la limpieza de toda la boca; sin incluir Oral-B iO
-- Número de cabezales de cepillo de dientes incluidos en este pack: 10
-- Eliminación de la placa y encías más sanas hasta un 100 % más que con un cepillo de dientes manual normal
 - Ángulo perfecto de 16 grados para limpiar entre los dientes en profundidad y eliminar la placa
 - Gracias a la tecnología CleanMaximiser, los filamentos verdes se vuelven amarillas cuando llega el momento de reemplazar el cabezal
 
