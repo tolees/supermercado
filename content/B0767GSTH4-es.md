@@ -30,7 +30,7 @@ Tienes [Moussel - Jabón de manos  300 ml - [Pack de 6]](https://www.amazon.es/d
 
 - El aroma de tu infancia
 - pH compatible con la piel
-- Higiene de Manos
 - Para una piel visiblemente suave y tersa cada día
+- Higiene de Manos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0767GSTH4/?tag=tolees-21)
