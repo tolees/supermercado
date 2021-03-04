@@ -28,10 +28,10 @@ Ahora mismo tienes [Mroobest - Champu Anticaspa  Anti Dandruff Shampoo  Psoriasi
 
 🔎:
 
-- Champú anticaspa: equilibra el cuero cabelludo escamoso limpiándolo suavemente para eliminar la suciedad, el aceite y la piel seca que obstruyen los folículos para un crecimiento saludable del cabello y un alivio del picor en el cuero cabelludo.
-- Champú de aceite de lavanda - Champú anticaspa de aceite esencial natural para el cuero cabelludo seco que pica y escamoso - Limpiador hidratante sin sulfato - Previene los piojos y el cabello fino
-- Mejora la textura del cabello: Hidrata la humedad del cuero cabelludo y limpia los folículos capilares para favorecer la salud del cabello y la piel. Alivia el cuero cabelludo con picazón irritada y elimina los copos.
-- Todos los ingredientes naturales: todo el tratamiento natural del cuero cabelludo contiene aceite de lavanda para aliviar la picazón en escamas, escamas grasas y todos los niveles de caspa. Sin sulfatos.
 - Adecuado para todos los tipos de cabello: Mejore el cabello normal graso seco o tratado con color que sea delgado o grueso con nuestro tratamiento de cuero cabelludo con aceite de lavanda que puede ayudar a prevenir la rotura de las puntas abiertas y la caída del cabello y no irritará la piel.
+- Champú anticaspa: equilibra el cuero cabelludo escamoso limpiándolo suavemente para eliminar la suciedad, el aceite y la piel seca que obstruyen los folículos para un crecimiento saludable del cabello y un alivio del picor en el cuero cabelludo.
+- Todos los ingredientes naturales: todo el tratamiento natural del cuero cabelludo contiene aceite de lavanda para aliviar la picazón en escamas, escamas grasas y todos los niveles de caspa. Sin sulfatos.
+- Mejora la textura del cabello: Hidrata la humedad del cuero cabelludo y limpia los folículos capilares para favorecer la salud del cabello y la piel. Alivia el cuero cabelludo con picazón irritada y elimina los copos.
+- Champú de aceite de lavanda - Champú anticaspa de aceite esencial natural para el cuero cabelludo seco que pica y escamoso - Limpiador hidratante sin sulfato - Previene los piojos y el cabello fino
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081ZN2HP7/?tag=tolees-21)
