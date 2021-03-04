@@ -28,11 +28,11 @@ En este momento está [Edición Limitada - Gin Puerto de Indias Strawberry 70cl 
 
 🔎:
 
+- La especial propuesta de Puerto de Indias cuenta con el regalo de una cubitera de hielo “colgante” en forma de corazón
+- Edición limitada San Valentín
+- BOT. 0,70 L Gin PDI Strawb. 37,5%
 - Detalles para sorprender con el gin tonic más romántico del mundo en un día tan especial como el día de los enamorados
 - El objetivo de esta edición limitada es contagiar de color, amor y ganas de enamorarse un 14 de febrero inédito
-- Edición limitada San Valentín
 - La icónica botella de Puerto de Indias se tiñe de rojo para celebrar que el amor es la mejor manera de unirnos
-- La especial propuesta de Puerto de Indias cuenta con el regalo de una cubitera de hielo “colgante” en forma de corazón
-- BOT. 0,70 L Gin PDI Strawb. 37,5%
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TNX3FDN/?tag=tolees-21)
