@@ -28,10 +28,10 @@ En este momento está [OLIS BARGALLO - Aceite de Oliva Virgen Extra Ecológico 7
 
 🔎:
 
+- Aceite de Oliva Virgen Extra Coupage exclusivo de tono dorado con un toque verde oscuro, de sabor equilibrado y agradable
+- No contiene maíz, ni soja, ni cualquier otro organismo modificado genéticamente, ni derivados de éstos
 - Envase práctico y cómodo tanto para su uso en cocina como en mesa
 - Envasado en botella de de vidrio oscuro de 750ml que conserva mejor las propiedades organolépticas del producto
 - Aceite de Oliva Virgen Extra Ecológico certificado por CCPAE, organismo que certifica los productos agroalimentarios ecológicos
-- No contiene maíz, ni soja, ni cualquier otro organismo modificado genéticamente, ni derivados de éstos
-- Aceite de Oliva Virgen Extra Coupage exclusivo de tono dorado con un toque verde oscuro, de sabor equilibrado y agradable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KD1R98B/?tag=tolees-21)
