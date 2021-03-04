@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nutella - Chocolate para untar  825 g al 0.00 % de descuento'
-date: 2021-02-22 04:10:28
+date: 2021-03-04 08:20:37
 image: 'https://m.media-amazon.com/images/I/51hbDoRj1dL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nutella'
 buyurl: 'https://www.amazon.es/dp/B0072RSCGS/?tag=tolees-21'
 descuento: '0.00'
-average: '5.59425531914894'
+average: '5.59750000000001'
 ---
 
 Ahora mismo tienes [Nutella - Chocolate para untar  825 g](https://www.amazon.es/dp/B0072RSCGS/?tag=tolees-21) a 5.75 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Nutella - Chocolate para untar  825 g](https://www.amazon.es
 
 🔎:
 
-- Contiene lactosa
+- Conservar en un lugar fresco, seco y protegido del sol
 - Adecuada para untar sobre un pan
 - Mezcla que contiene aproximadamente 50 % de avellanas y 50 % de chocolate
-- Conservar en un lugar fresco, seco y protegido del sol
+- Contiene lactosa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0072RSCGS/?tag=tolees-21)
