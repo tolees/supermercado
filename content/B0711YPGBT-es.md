@@ -28,9 +28,9 @@ Está [Dibaq Salchichas perrynat higado y Buey - 1000 gr](https://www.amazon.es/
 
 ℹ️:
 
-- Sabrosa y deliciosas porciones para el paladar más exigente de los cachorros
 - Equilibrado en hierro y calcio, para conseguir unos huesos y musculos sanos y fuertes.
 - Receta original
+- Sabrosa y deliciosas porciones para el paladar más exigente de los cachorros
 - Hígado de buey, para una regeneración celular sanguinea idonea.
 - Vitamina a y e, combinación ideal para pelo y piel.
 
