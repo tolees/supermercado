@@ -28,10 +28,10 @@ Tienes [Revlon Flex Champu clasico - 650 ml](https://www.amazon.es/dp/B00XDNV29E
 
 🔎:
 
-- Producto para el cuidado personal
 - Para todo tipo de cabellos
 - Sistema de cuidado que protege el pelo
-- Cantidad por paquete: 1 pieza
 - Producto de la colección Revlon Flex
+- Cantidad por paquete: 1 pieza
+- Producto para el cuidado personal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XDNV29E/?tag=tolees-21)

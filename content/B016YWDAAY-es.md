@@ -29,8 +29,8 @@ Está [Weider Vegan Protein  Sabor Chocolate  Proteína 100% vegetal de guisante
 ℹ️:
 
 - Sin lactosa, sin gluten, sin colesterol y libre de disolventes químicos
-- Cada batido contiene hasta 23 g de proteína vegana
 - Con un plus de extractos vegetales y de cereales orgánicos
+- Cada batido contiene hasta 23 g de proteína vegana
 - Proteínas de guisante (Pisane C9) y arroz de alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016YWDAAY/?tag=tolees-21)
