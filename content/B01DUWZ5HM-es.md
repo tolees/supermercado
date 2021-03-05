@@ -28,10 +28,10 @@ Tienes [Cuca - Navajas al Natural - 4/8 Piezas - 120 g](https://www.amazon.es/dp
 
 ℹ️:
 
-- Seleccionadas en fresco
-- Producto mariscado, procesado y envasado sin interrupciones, para conservar la frescura el sabor
 - No contiene gluten ni lactosa
-- Seleccionadas sabor
+- Producto mariscado, procesado y envasado sin interrupciones, para conservar la frescura el sabor
+- Seleccionadas en fresco
 - Peso neto de 120 g, Peso escurrido 65 Capacidad 125 ml
+- Seleccionadas sabor
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DUWZ5HM/?tag=tolees-21)

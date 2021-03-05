@@ -28,8 +28,8 @@ Tienes [Moussel - Jabón de manos  300 ml - [Pack de 6]](https://www.amazon.es/d
 
 🔎:
 
-- El aroma de tu infancia
 - pH compatible con la piel
+- El aroma de tu infancia
 - Para una piel visiblemente suave y tersa cada día
 - Higiene de Manos
 
