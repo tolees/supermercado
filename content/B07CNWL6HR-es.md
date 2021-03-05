@@ -28,9 +28,9 @@ Está [Estrella Galicia Cerveza Sin Gluten - Pack de 24 botellas x 330 ml - Tota
 
 ℹ️:
 
-- Temperatura de servicio 6-8ºC
 - Mediante la aplicación de una enzima en el proceso de producción de Estrella Galicia Especial, se consigue degradar la parte de proteínas del gluten que producen intolerancia en las personas celíacas, dando lugar a nuestra cerveza Estrella Galicia sin Gluten.
 - Aroma: Gratos, refrescantes, donde destacan los tonos especiado
+- Temperatura de servicio 6-8ºC
 - La nueva cerveza de Hijos de Rivera sin gluten. Cuenta con el distintivo de la "espiga barrada", que acredita que el producto esta autorizado por la FACE (Federacion de Asociaciones de Celiacos de Espana). Esta cerveza de color dorado brillante se obtiene a traves de la aplicacion de una enzima que rompe la cadena de algunas proteinas durante el proceso productivo, entre ellas, el gluten.
 - Alcohol 5,5%
 
