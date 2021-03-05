@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gel de Ducha - Detox 1250 ML - Instituto al 13.78 % de descuento'
-date: 2021-03-01 08:16:33
+date: 2021-03-05 13:48:32
 image: 'https://m.media-amazon.com/images/I/31JvI3EhhxL._SL400_.jpg'
 comments: true
 category: ofertas

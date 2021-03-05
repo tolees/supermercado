@@ -28,8 +28,8 @@ En este momento está [Artiach - Filipinos - Galleta Bañada con Chocolate Blanc
 
 🔎:
 
-- Contiene Leche o derivados de la leche (lactosa)
-- Se puede conservar en un lugar fresco y seco
 - Con auténtico chocolate blanco
+- Se puede conservar en un lugar fresco y seco
+- Contiene Leche o derivados de la leche (lactosa)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M27AS8P/?tag=tolees-21)

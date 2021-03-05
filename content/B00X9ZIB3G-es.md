@@ -28,10 +28,10 @@ En este momento está [Sugus Caramelo Masticable a Base de Zumo de Frutas  1 bol
 
 🔎:
 
-- Un caramelo sin gluten ni colorantes artificiales; sugus es el caramelo masticable por excelencia, conocido alrededor del mundo por su calidad y afrutado sabor
 - Un familiar formato fácil de saborear y llevar contigo; adecuados para los niños al contar con una textura suave y extremadamente sabrosa
-- Su sabor nostálgico te transportará a la infancia
+- Un caramelo sin gluten ni colorantes artificiales; sugus es el caramelo masticable por excelencia, conocido alrededor del mundo por su calidad y afrutado sabor
 - Caramelos masticables creados con el mejor zumo de fruta concentrado, con un intenso sabor que te hará disfrutar con todos tus sentidos
+- Su sabor nostálgico te transportará a la infancia
 - Su tamaño es óptimo para compartir y disfrutar con los tuyos. Envueltos de manera individual, cada envoltorio es de un color característico según el sabor que contiene
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00X9ZIB3G/?tag=tolees-21)
