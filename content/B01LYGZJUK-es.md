@@ -28,10 +28,10 @@ Está [Flor Original - Suavizante concentrado para la ropa  aroma Original - Pac
 
 ℹ️:
 
-- Evita el efecto antiestático en la ropa
 - Agradable aroma Original, sensación natural de limpieza
-- Suavizante concentrado para la ropa fragancia Original
-- Frescor de recién lavado hasta 100 días con solo medio tapón gracias a sus microcápsulas de fragancia de liberación continuada
 - Descubre el resto de fragancias Flor, encuentra tu favorita
+- Frescor de recién lavado hasta 100 días con solo medio tapón gracias a sus microcápsulas de fragancia de liberación continuada
+- Evita el efecto antiestático en la ropa
+- Suavizante concentrado para la ropa fragancia Original
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LYGZJUK/?tag=tolees-21)
