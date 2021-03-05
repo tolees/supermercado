@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanytol - Jabón de Manos Hidratante con  al 0.00 % de rebaja'
-date: 2021-03-04 16:26:31
+date: 2021-03-05 18:01:48
 image: 'https://m.media-amazon.com/images/I/31UAnNHvV6L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sanytol'
 buyurl: 'https://www.amazon.es/dp/B089KKCQRQ/?tag=tolees-21'
 descuento: '0.00'
-average: '2.58169014084507'
+average: '2.58084112149533'
 ---
 
 Tienes [Sanytol - Jabón de Manos Hidratante con Protección Total Contra Agentes Externos - Dosificador de 250 ml](https://www.amazon.es/dp/B089KKCQRQ/?tag=tolees-21) con precio final de  2.4 EUR (original:  EUR) (0.00 %  de rebaja) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York  Base de Maquillaje  al 25.04 % de descuento'
-date: 2021-03-04 15:41:45
+date: 2021-03-05 17:01:25
 image: 'https://m.media-amazon.com/images/I/31rTfLNTuZL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MAYBELLINE'
 buyurl: 'https://www.amazon.es/dp/B01LW2S0B7/?tag=tolees-21'
 descuento: '25.04'
-average: '5.12104683195592'
+average: '5.12169863013698'
 ---
 
 Ahora mismo tienes [Maybelline New York  Base de Maquillaje que Calca a tu Tono Fit me! Mate y Afinaporos  Color: 120 Classic Ivory](https://www.amazon.es/dp/B01LW2S0B7/?tag=tolees-21) a 5.24 EUR (original: 6.99 EUR) (25.04 %  de descuento) en el siguiente enlace!
