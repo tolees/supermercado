@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en EL PALADAR JAMONERIA & DELICATESSEN - CE'
-date: 2021-03-04 03:57:35
+date: 2021-03-05 03:59:45
 image: 'https://m.media-amazon.com/images/I/61GxTep6ZgL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EL PALADAR JAMONERIA & DELICATESSEN'
 buyurl: 'https://www.amazon.es/dp/B08P7X4M5T/?tag=tolees-21'
 descuento: '0.00'
-average: '82.2527472527473'
+average: '82.1827956989248'
 ---
 
 Tienes [EL PALADAR JAMONERIA & DELICATESSEN - CESTA DE NAVIDAD - LOTE 335-9](https://www.amazon.es/dp/B08P7X4M5T/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 79.0 EUR (original:  EUR) en el siguiente enlace!
