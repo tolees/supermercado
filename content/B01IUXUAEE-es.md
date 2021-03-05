@@ -28,11 +28,11 @@ Está [Chocolates Valor - Chocolate 82% Cacao  170 gr](https://www.amazon.es/dp/
 
 ℹ️:
 
-- AÚTENTICO Chocolate Negro 82%
-- BLEND exclusivo de valor creado por nuestros maestros chocolateros de Valor
-- APTO sólo para amantes de los altos porcentajes de cacao
 - SIN GLUTEN. Apto para celíacos.
-- TRADICIONALES, gama de tradicionales es la icónica gama de Valor.
+- APTO sólo para amantes de los altos porcentajes de cacao
 - Creado con algunos de los MEJORES CACAOS del MUNDO
+- BLEND exclusivo de valor creado por nuestros maestros chocolateros de Valor
+- AÚTENTICO Chocolate Negro 82%
+- TRADICIONALES, gama de tradicionales es la icónica gama de Valor.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IUXUAEE/?tag=tolees-21)

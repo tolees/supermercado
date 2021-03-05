@@ -30,8 +30,8 @@ En este momento está [Pernigotti - Crema De Gianduia Negra  350 g](https://www.
 
 - Sin Aceite de Palma.
 - Materia láctea: 12,7 % (incluye las proteínas lácteas y la lactosa)
-- Solo aromas naturales (sin vainillina, ni otros aromas artificiales) . Solo grasas vegetales seleccionadas (principalmente de coco y nueces). Nunca hidrogenadas ni refinadas.
-- Contiene frutos secos (avellanas)
 - País de origen: Italia
+- Contiene frutos secos (avellanas)
+- Solo aromas naturales (sin vainillina, ni otros aromas artificiales) . Solo grasas vegetales seleccionadas (principalmente de coco y nueces). Nunca hidrogenadas ni refinadas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088HXVJ23/?tag=tolees-21)

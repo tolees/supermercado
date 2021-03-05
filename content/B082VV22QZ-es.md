@@ -28,9 +28,9 @@ Ahora mismo tienes [Mexifoods - Tortillas de trigo envasado  370 gr  1 paquete c
 
 🔎:
 
+- País de origen: España
 - Ingredientes: Harina de TRIGO (56%), agua, aceite vegetal (aceite girasol alto oleico)
 - Alérgenos: harina de trigo, cereales que contienen gluten
 - Mantener en un lugar fresco y seco
-- País de origen: España
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082VV22QZ/?tag=tolees-21)
