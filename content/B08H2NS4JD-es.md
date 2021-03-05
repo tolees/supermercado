@@ -28,10 +28,10 @@ Tienes [Fairy Ultra Poder Lavavajillas a Mano  4.5 L  10 x 450 ml   Óptimo Pode
 
 🔎:
 
+- Aroma limpio y fresco; Premio a la Innovación 2021*
+- Producto de limpieza con acción limpiadora que elimina la grasa al instante
 - Fairy lavavajillas líquido ultra concentrado
 - Nuestra fórmula respeta la piel por lo que no es necesario usar guantes
 - Espuma abundante con una sola gota y aclarado fácil que ayuda a ahorrar agua, tiempo y energía gracias a su gran rendimiento hasta en temperaturas frías
-- Aroma limpio y fresco; Premio a la Innovación 2021*
-- Producto de limpieza con acción limpiadora que elimina la grasa al instante
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08H2NS4JD/?tag=tolees-21)

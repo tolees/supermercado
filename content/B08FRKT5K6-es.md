@@ -28,10 +28,10 @@ Está [Seifenprofis  aloe vera  jabón de glicerina base  transparente  sin SLS 
 
 ℹ️:
 
-- Base de jabón para fundir en microondas y volver a utilizar.
-- Vegano, sin experimentación en animales y sin aceite de palma. Libre de SLS (lauril sulfato de sodio). Contiene SLES (eter sulfato de sodio).
-- Ingredientes: Agua, glicerina, estearato de sodio, laurato de sodio, miristato de sodio, sorbitol, propilenglicol, zumo de hoja de aloe barbadensis, cloruro de sodio, tiosulfato de sodio, ácido etidrónico.
 - Cantidad: 1 kg, 2 kg, 4 kg, transparente en prácticos bloques de 1 kg, alta calidad.
+- Ingredientes: Agua, glicerina, estearato de sodio, laurato de sodio, miristato de sodio, sorbitol, propilenglicol, zumo de hoja de aloe barbadensis, cloruro de sodio, tiosulfato de sodio, ácido etidrónico.
+- Base de jabón para fundir en microondas y volver a utilizar.
 - Jabón base de calidad para la elaboración de jabones con aloe vera, fácil de derretir, transparencia y casi inodoro.
+- Vegano, sin experimentación en animales y sin aceite de palma. Libre de SLS (lauril sulfato de sodio). Contiene SLES (eter sulfato de sodio).
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FRKT5K6/?tag=tolees-21)
