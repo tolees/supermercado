@@ -28,11 +28,11 @@ Ahora mismo tienes [Purina Felix Gelatina comida para gatos Selección Surtido d
 
 🔎:
 
-- Tu gato disfrutará de una irresistible comida cada día
-- Ingredientes con los que realmente te puedes sentir a gusto
-- Nutrición completa y sabrosa
 - Felix está elaborado con ingredientes de calidad, y envasado con jugosos trocitos en una suculenta gelatina para que tu gato disfrute de una irresistible comida para cada día
-- Elaborado con ingredientes seleccionados de calidad
+- Nutrición completa y sabrosa
 - Irresistible comida para cada día
+- Ingredientes con los que realmente te puedes sentir a gusto
+- Tu gato disfrutará de una irresistible comida cada día
+- Elaborado con ingredientes seleccionados de calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072PC7RXB/?tag=tolees-21)

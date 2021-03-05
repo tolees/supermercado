@@ -28,10 +28,10 @@ Está [Purina Felix Fantastic Gelatina comida para gatos Selecciones Favoritas 6
 
 ℹ️:
 
-- Servir a temperatura ambiente
-- Con jugosos trocitos en una suculenta gelatina
+- Contiene buey, pollo, salmón y atún
 - Alimento 100% completo y equilibrado
 - Con proteínas, vitaminas y ácidos grasos Omega 6
-- Contiene buey, pollo, salmón y atún
+- Con jugosos trocitos en una suculenta gelatina
+- Servir a temperatura ambiente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071NSGFGL/?tag=tolees-21)
