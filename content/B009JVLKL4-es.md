@@ -29,7 +29,7 @@ Tienes [Cuétara - Napolitanas - Con un toque de deliciosa canela - 500 g](https
 🔎:
 
 - Crujientes
-- Galleta para acompañar el café
 - Toque de canela y azúcar granulado
+- Galleta para acompañar el café
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009JVLKL4/?tag=tolees-21)
