@@ -28,15 +28,15 @@ Tienes [Nutribén Papillas  Desde Los 12 Meses  Trigo Y Frutas  Pack De 6 unidad
 
 🔎:
 
-- Nutribén ha desarrollado un proceso productivo Natural y sin procesos químicos
-- Es de fácil disolución y espesa antes, por tanto no hay que añadir más producto del recomendado evitando la sobrealimentación del bebé y posibles problemas de sobrepeso
-- Paquete de 6 x 600 gramos.
 - Libre de Transgénicos, alto valor nutritivo y suave textura.
-- Enriquecidas con 11 Vitaminas y Calcio - Sin aceite de palma
-- La papilla Nutribén Desayuno trigo y frutas está elaborada para alimentar a tu bebé a partir de los 12 meses, dentro de una dieta variada
-- Sin azúcares añadidos: no contiene azúcares añadidos, tal y como aconsejan los expertos en nutrición pediátrica.
-- No contiene aceite de palma.
-- Es una papilla instantánea ideal para el desayuno en niños de más de un año
 - Tratamiento exclusivo por calor que nos permite conservar el sabor original de los cereales.
+- Paquete de 6 x 600 gramos.
+- La papilla Nutribén Desayuno trigo y frutas está elaborada para alimentar a tu bebé a partir de los 12 meses, dentro de una dieta variada
+- Nutribén ha desarrollado un proceso productivo Natural y sin procesos químicos
+- Sin azúcares añadidos: no contiene azúcares añadidos, tal y como aconsejan los expertos en nutrición pediátrica.
+- Enriquecidas con 11 Vitaminas y Calcio - Sin aceite de palma
+- Es una papilla instantánea ideal para el desayuno en niños de más de un año
+- No contiene aceite de palma.
+- Es de fácil disolución y espesa antes, por tanto no hay que añadir más producto del recomendado evitando la sobrealimentación del bebé y posibles problemas de sobrepeso
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B47DFX4/?tag=tolees-21)

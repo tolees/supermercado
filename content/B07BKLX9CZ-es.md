@@ -29,7 +29,7 @@ Tienes [Marca Amazon - Goodthreads Lightweight Slub Polo  Canela  XS](https://ww
 🔎:
 
 - Este polo esencial en el armario de algodón ligero flameado cuenta con una solapa de tres botones y un bolsillo de parche en el pecho
-- La modelo mide 1,88 m y lleva una talla mediana
 - El algodón flameado es un hilo que varía en grosor: esto le da a la tela una ligera textura para un aspecto vintage lavado para un aspecto relajado e informal
+- La modelo mide 1,88 m y lleva una talla mediana
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BKLX9CZ/?tag=tolees-21)

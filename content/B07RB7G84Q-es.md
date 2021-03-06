@@ -31,7 +31,7 @@ Tienes [Lactovit - Mousse Crème Hidratante Lactourea para Cuerpo y Cara de 24H 
 - Desde el primer día, notarás una piel nutrida y elástica, además de disfrutar durante todo el día de su delicado perfume lácteo.
 - Compromiso Lactovit; activos 100% naturales de la leche y altamente biodegradables, mejorando la reciclabilidad de nuestros envases y cuidando del medio ambiente.
 - Formulado con PROTEIN CALCIUM, que refuerza y nutre la piel para mantenerla fuerte y joven. Piel más hidratada, elástica y firme. Una piel fuerte es el secreto de una piel joven.
-- Mousse crème nutritiva con protein calcium y textura mousse, para pieles normales y secas
 - Formulada con Protein Calcium que proporciona nutrivión e hidrtatación a la piel
+- Mousse crème nutritiva con protein calcium y textura mousse, para pieles normales y secas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RB7G84Q/?tag=tolees-21)
