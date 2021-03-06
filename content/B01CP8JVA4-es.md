@@ -28,11 +28,11 @@ Tienes [Fisherman s Friend Menta  Caramelo Comprimido Sin Azúcar - 12 unidades 
 
 🔎:
 
-- Reconocibles por su característica fuerza y sabor inconfundible, son el aliado perfecto para refrescarte en cualquier ocasión.
-- Los comprimidos Fishermans Friend no contienen colorantes ni aromas artificiales. Contribuyen al bienestar bucal y proporcionan un aliento fresco y agradable. Producto Halal y Kosher.
-- El envoltorio de Fishermans permite la máxima preservación del producto y además es muy práctico y cómodo para llevar encima, en el pantalón, bolso o bolsillo.
 - Los caramelos de menta Fishermans Friend son un producto con una larga tradición que se producen desde 1865 respetando la receta original.
-- Descubre más sobre este y otros productos de Fishermans Friend más abajo.
 - Caramelo comprimido Fishermans Friend sin azúcar con sabor a Menta Fresca. Sabor extrafuerte a base de regaliz, eucalipto y mentol. El producto contiene 12x25 gr. de caramelos comprimidos.
+- El envoltorio de Fishermans permite la máxima preservación del producto y además es muy práctico y cómodo para llevar encima, en el pantalón, bolso o bolsillo.
+- Los comprimidos Fishermans Friend no contienen colorantes ni aromas artificiales. Contribuyen al bienestar bucal y proporcionan un aliento fresco y agradable. Producto Halal y Kosher.
+- Reconocibles por su característica fuerza y sabor inconfundible, son el aliado perfecto para refrescarte en cualquier ocasión.
+- Descubre más sobre este y otros productos de Fishermans Friend más abajo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01CP8JVA4/?tag=tolees-21)
