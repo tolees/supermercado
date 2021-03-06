@@ -28,10 +28,10 @@ Ahora mismo tienes [L Oreal Paris Men Expert - L Oréal Men Expert - Hydra Energ
 
 🔎:
 
+- Contiene guaraná y vitamina Cg
 - Gel energizante para hombres con piel de aspecto cansado
+- Aplicar diariamente el producto sobre el rostro húmedo, masajear suavemente y aclarar con agua
 - Textural gel ultra ligera y fresca que penetra en la piel al instante, no grasa ni pegajosa
 - Limpia intensamente, purifica la piel y la deja confortable
-- Aplicar diariamente el producto sobre el rostro húmedo, masajear suavemente y aclarar con agua
-- Contiene guaraná y vitamina Cg
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P7JXJTM/?tag=tolees-21)

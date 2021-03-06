@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dulcesol Red Velvet - 5 x 175 gr al 0.00 % de descuento'
-date: 2021-03-04 22:15:03
+date: 2021-03-06 03:22:43
 image: 'https://m.media-amazon.com/images/I/41PEjDAmwGL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dulcesol'
 buyurl: 'https://www.amazon.es/dp/B07QK31VZM/?tag=tolees-21'
 descuento: '0.00'
-average: '1.52707446808513'
+average: '1.52693121693124'
 ---
 
 Está [Dulcesol Red Velvet - 5 x 175 gr](https://www.amazon.es/dp/B07QK31VZM/?tag=tolees-21) con 0.00 de descuento por 1.5 EUR (original:  EUR) en el siguiente enlace!
