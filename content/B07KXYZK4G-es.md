@@ -28,10 +28,10 @@ Tienes [Rianxeira  Conserva de sardina  sardinilla en aceite de oliva - 12 latas
 
 🔎:
 
-- Origen:España
-- Bajo en sal
-- Fuente natural de Omega 3 y rico en Calcio
 - Proteinas de alta digestibilidad
+- Fuente natural de Omega 3 y rico en Calcio
+- Origen:España
 - Ingredientes: Sardinas (Sardinillas), aceite de Oliva.
+- Bajo en sal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KXYZK4G/?tag=tolees-21)
