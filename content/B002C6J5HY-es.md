@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Coca Cola light  Pack de 24 x 330 ml'
-date: 2021-02-24 18:39:34
+date: 2021-03-06 10:04:29
 image: 'https://m.media-amazon.com/images/I/51h-j1TAE6L._SL400_.jpg'
 comments: true
 category: ofertas

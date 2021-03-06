@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Lavazza Café en Grano Tostado Crema e Gu'
-date: 2021-02-16 15:31:35
-image: 'https://m.media-amazon.com/images/I/41nyWyu7xaL._SL200_.jpg'
+date: 2021-03-06 11:08:24
+image: 'https://m.media-amazon.com/images/I/41nyWyu7xaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,20 +19,20 @@ flag: '🇪🇸'
 brand: 'Lavazza'
 buyurl: 'https://www.amazon.es/dp/B00EDHQQLI/?tag=tolees-21'
 descuento: '0.00'
-average: '10.07'
+average: '10.286'
 ---
 
 Tienes [Lavazza Café en Grano Tostado Crema e Gusto  Café Espresso Arábica y Robusta  Paquete de 1 Kg](https://www.amazon.es/dp/B00EDHQQLI/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 12.23 EUR (original:  EUR) en el siguiente enlace!
 
-[![Lavazza Café en Grano Tostado Crema e Gu](https://m.media-amazon.com/images/I/41nyWyu7xaL._SL200_.jpg)](https://www.amazon.es/dp/B00EDHQQLI/?tag=tolees-21)
+[![Lavazza Café en Grano Tostado Crema e Gu](https://m.media-amazon.com/images/I/41nyWyu7xaL._SL400_.jpg)](https://www.amazon.es/dp/B00EDHQQLI/?tag=tolees-21)
 
 ℹ️:
 
-- AROMÁTICO: sabor redondo y envolvente con notas aromáticas especiadas. El café ideal para cualquier hora del día
-- MEZCLA: Arábica y Robusta - Tueste: Oscuro - Intensidad: 8 Media intensa
-- CALIDAD LAVAZZA: una mezcla de café en grano suave y envolvente de la excelente variedad Arábica de Brasil y Robusta del Sudeste Asiático
-- ASPECTO: crema dorada y color cálido - AROMA: notas de chocolate - SABOR: persistente y equilibrado
-- ENVASE: Café Lavazza en grano Crema e Gusto, paquete de 1 kg
 - NATURAL: No Torrefacto. En el envase aparece la palabra en italiano “torrefatto” que en español significa “tostado”.
+- CALIDAD LAVAZZA: una mezcla de café en grano suave y envolvente de la excelente variedad Arábica de Brasil y Robusta del Sudeste Asiático
+- MEZCLA: Arábica y Robusta - Tueste: Oscuro - Intensidad: 8 Media intensa
+- ENVASE: Café Lavazza en grano Crema e Gusto, paquete de 1 kg
+- ASPECTO: crema dorada y color cálido - AROMA: notas de chocolate - SABOR: persistente y equilibrado
+- AROMÁTICO: sabor redondo y envolvente con notas aromáticas especiadas. El café ideal para cualquier hora del día
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00EDHQQLI/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lactacyd Gel Lubricante Íntimo - Favorec con un 9.27 % de descuento'
-date: 2020-07-30 21:43:00
+title: 'Lactacyd Gel Lubricante Íntimo - Favorec con un 21.00 % de descuento'
+date: 2021-03-06 10:32:00
 image: 'https://m.media-amazon.com/images/I/311fsfGtRFL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,28 @@ author: ring
 slug: 'B081NK6DQ8-es Lactacyd Gel Lubricante Íntimo - Favorece Tus Relaciones...'
 sku: 'B081NK6DQ8-es'
 tags: [ 'lactacyd', ]
-actualPrice: 9.89 EUR
+actualPrice: 7.56 EUR
 currency: EUR
-price: 9.89
-comparePrice: 10.9 EUR
+price: 7.56
+comparePrice: 9.57 EUR
 prodname: 'Lactacyd Gel Lubricante Íntimo - Favorece Tus Relaciones Sexuales Simulando Una Lubricación Natural - 50Ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'LACTACYD'
 buyurl: 'https://www.amazon.es/dp/B081NK6DQ8/?tag=tolees-21'
-descuento: '9.27'
-average: '10.04'
+descuento: '21.00'
+average: '9.48888888888889'
 ---
 
-En este momento está [Lactacyd Gel Lubricante Íntimo - Favorece Tus Relaciones Sexuales Simulando Una Lubricación Natural - 50Ml](https://www.amazon.es/dp/B081NK6DQ8/?tag=tolees-21) a 9.89 EUR (original: 10.9 EUR) (9.27 %  de descuento) en el siguiente enlace!
+En este momento está [Lactacyd Gel Lubricante Íntimo - Favorece Tus Relaciones Sexuales Simulando Una Lubricación Natural - 50Ml](https://www.amazon.es/dp/B081NK6DQ8/?tag=tolees-21) a 7.56 EUR (original: 9.57 EUR) (21.00 %  de descuento) en el siguiente enlace!
 
 [![Lactacyd Gel Lubricante Íntimo - Favorec](https://m.media-amazon.com/images/I/311fsfGtRFL._SL400_.jpg)](https://www.amazon.es/dp/B081NK6DQ8/?tag=tolees-21)
 
 🔎:
 
+- Lubricante íntimo que simula la lubricación natural
+- Ofrece hidratación y mantiene el pH natural de la zona íntima
+- Favorece las relaciones sexuales
+- Compatible con preservativos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081NK6DQ8/?tag=tolees-21)
