@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ginebra Puerto de Indias Classic Gin  70 al 7.20 % de descuento'
-date: 2021-03-05 16:16:32
+date: 2021-03-06 16:59:52
 image: 'https://m.media-amazon.com/images/I/41+7L-6dqfL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [Ginebra Puerto de Indias Classic Gin  70 cl](https://www.ama
 
 🔎:
 
-- Sabor con toque cítrico y fresco aportado por la lima, el pomelo, la cáscara de naranja y limón y cilantro
 - Ginebra Puerto de Indias Classic Gin, 70 cl
 - Capacidad de 70 cl
-- Ginebra Premium de carácter corpulento, intenso y cítrico, que aporta al paladar un toque muy fresco.
+- Sabor con toque cítrico y fresco aportado por la lima, el pomelo, la cáscara de naranja y limón y cilantro
 - Envase de vidrio
+- Ginebra Premium de carácter corpulento, intenso y cítrico, que aporta al paladar un toque muy fresco.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B014E7UHRU/?tag=tolees-21)
