@@ -28,9 +28,9 @@ Ahora mismo tienes [Hero Solo Tarrito Fruta Manzana Plátano Yogur ECO - 120 gr 
 
 🔎:
 
-- Con Yogur
 - Fruta 100% Eco
-- Desde los 6 meses
 - Sin gluten
+- Con Yogur
+- Desde los 6 meses
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BSQKHCY/?tag=tolees-21)
