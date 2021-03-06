@@ -28,10 +28,10 @@ Está [Johnson s Baby Acondicionador Familiar Clásico  500 ml  Pack de 3](https
 
 ℹ️:
 
-- Acondicionador probado por pediatras y dermatólogos
-- Ideal también para niños y adultos
 - Acondicionador sin colorantes, ftalatos, sulfatos, alcohol y jabón
 - Acondicionador hipoalergénica y con pH equilibrado, ¡ideal para el cabello del bebé!
 - Acondicionador para bebés que deja el pelo suave, brillante e hidratado
+- Acondicionador probado por pediatras y dermatólogos
+- Ideal también para niños y adultos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RXK7DT6/?tag=tolees-21)
