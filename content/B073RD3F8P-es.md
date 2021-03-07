@@ -28,9 +28,9 @@ En este momento está [Elizabeth Arden  Agua de perfume para mujeres - 100 ml.](
 
 🔎:
 
-- Notas de salida: bergamota, toronja, neroli, pimienta rosa y grosella roja
 - Es una fragancia de la familia olfativa Almizcle Floral Amaderado para mujeres
 - Notas de corazón: aceite de rosas, peonía, girasol y madreselva
+- Notas de salida: bergamota, toronja, neroli, pimienta rosa y grosella roja
 - Notas de fondo: cedro, vetiver y almizcle
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073RD3F8P/?tag=tolees-21)
