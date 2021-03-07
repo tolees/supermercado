@@ -28,15 +28,15 @@ En este momento está [Burro de Sancho Cerveza de Estilo Porter Ale - 24 Paquete
 
 🔎:
 
-- cerveza negra y ligera
-- sabor y aroma a café y chocolate
-- como servir: conservar a una temperatura de entre 5-20
-- ideal para maridar con carnes especiales, guisos y postres
-- ligero amargor torrefacto
-- tipo de alcohol: malt beers
-- contenido de alcohol (alc/vol): 5.0 percent_by_volume
-- cerveza de estilo porter ale
 - Volumen paquete: 7920.0 milliliters; Volumen: 7.92 liters
+- ligero amargor torrefacto
+- ideal para maridar con carnes especiales, guisos y postres
+- tipo de alcohol: malt beers
+- cerveza negra y ligera
 - procedencia: spain
+- sabor y aroma a café y chocolate
+- cerveza de estilo porter ale
+- como servir: conservar a una temperatura de entre 5-20
+- contenido de alcohol (alc/vol): 5.0 percent_by_volume
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PFWG8LB/?tag=tolees-21)
