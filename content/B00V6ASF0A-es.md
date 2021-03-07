@@ -28,10 +28,10 @@ Tienes [Drasanvi Jabón Árbol del Té - 100 gr](https://www.amazon.es/dp/B00V6A
 
 ℹ️:
 
-- Uso diario
-- En su composición incluye aceite del árbol del té
 - Libre de grasa animal o industrial
+- En su composición incluye aceite del árbol del té
 - Jabón elaborado de forma natural
 - Con propiedades bactericidas y fungicidas, está especialmente indicado para pieles que presentan algún tipo de infección
+- Uso diario
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00V6ASF0A/?tag=tolees-21)

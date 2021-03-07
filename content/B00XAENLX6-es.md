@@ -28,9 +28,9 @@ Está [Finish Limpiamáquinas Líquido para lavavajillas fragancia limón - 1 un
 
 ℹ️:
 
-- Finish es la marca recomendada por los principales fabricantes de lavavajillas
-- Finish Limpiamáquinas limpia tu lavavajillas para que brillen tus platos y elimina los malos olores
 - Neutraliza los malos olores
+- Finish Limpiamáquinas limpia tu lavavajillas para que brillen tus platos y elimina los malos olores
+- Finish es la marca recomendada por los principales fabricantes de lavavajillas
 - Elimina la suciedad y la cal escondida del lavavajillas
 - Se recomienda utilizar una vez al mes
 
