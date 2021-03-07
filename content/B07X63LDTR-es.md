@@ -28,11 +28,11 @@ En este momento está [Starbucks Variety Pack De Nespresso Cápsulas De Café 8 
 
 🔎:
 
+- Cápsulas de café STARBUCKS by NESPRESSO, con una variedad de diferentes tipos de tueste y blends de la familia STARBUCKS
 - Esta especial variedad de cápsulas ha sido seleccionada para que puedas degustar muestra completa gama de cafés
-- Disfruta de STARBUCKS en casa; tu café favorito sin salir de casa
-- 10 x cápsulas de Blonde Roast Espresso, Pike Place, House Blend, Single-Origin Colombia, Caffe Verona, Espresso Roast, Decaf Espresso Roast & Single Origin Sumatra
 - Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
 - Comprometidos con el abastecimiento ético de café al 100 % en colaboración con Conservation International
-- Cápsulas de café STARBUCKS by NESPRESSO, con una variedad de diferentes tipos de tueste y blends de la familia STARBUCKS
+- 10 x cápsulas de Blonde Roast Espresso, Pike Place, House Blend, Single-Origin Colombia, Caffe Verona, Espresso Roast, Decaf Espresso Roast & Single Origin Sumatra
+- Disfruta de STARBUCKS en casa; tu café favorito sin salir de casa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X63LDTR/?tag=tolees-21)
