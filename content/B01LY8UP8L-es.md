@@ -28,8 +28,8 @@ En este momento está [Conservas Dantza Melocotón - 420 gr](https://www.amazon.
 
 🔎:
 
-- facil de usar
 - Abrir y consumir
+- facil de usar
 - Melocotón en almíbar ligero
 - 420 gr
 

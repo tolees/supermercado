@@ -28,10 +28,10 @@ En este momento está [JE Make IT Simple Dispensador automático de jabón de 10
 
 🔎:
 
-- Detección automática: Sensor inteligente de infrarrojos incorporado, funcionamiento totalmente automático y sin contacto, sin contacto para evitar la segunda infección cruzada.
-- DispensadorJabon Automatico Pared: diseño de ventana transparente que puede ver claramente la cantidad de contenido, conveniente para el llenado oportuno.
-- CAPACIDAD SÚPER LAGRE: 1000ml.Función de protección de batería baja, conveniente y rápido. Ideal para lociones jabones líquidos o desinfectantes, etc.
-- Fácil de usar y seguro: dosificador jabon automatico es de alta calidad y duradero. La cubierta tiene una función de bloqueo, alimentada por 4 baterías AA (no incluidas).
 - Perfecto para usar: Baños, cocinas, jardines de infancia, oficinas, escuelas, hospitales, aeropuertos, hoteles y restaurantes.
+- CAPACIDAD SÚPER LAGRE: 1000ml.Función de protección de batería baja, conveniente y rápido. Ideal para lociones jabones líquidos o desinfectantes, etc.
+- DispensadorJabon Automatico Pared: diseño de ventana transparente que puede ver claramente la cantidad de contenido, conveniente para el llenado oportuno.
+- Fácil de usar y seguro: dosificador jabon automatico es de alta calidad y duradero. La cubierta tiene una función de bloqueo, alimentada por 4 baterías AA (no incluidas).
+- Detección automática: Sensor inteligente de infrarrojos incorporado, funcionamiento totalmente automático y sin contacto, sin contacto para evitar la segunda infección cruzada.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FXKZZRP/?tag=tolees-21)
