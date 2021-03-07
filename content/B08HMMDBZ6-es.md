@@ -28,10 +28,10 @@ Está [iClosam Camisetas Deporte Hombre Fitness Casual Seco RáPido T-Shirt Runn
 
 ℹ️:
 
+- Material: 100% poliéster,Su tejido elástico multidireccional otorga mayor movilidad.
 - Para obtener el tamaño mejor, por favor consulte nuestra tabla de tallas antes de comprar ,gracias por su comprensión.
-- Diseño: La calidad y diseño buenos ,queda muy cómodo y bien ajustado al cuerpo,lo que le dará una sensación más cómoda.
 - Ocasión: esta camiseta de manga corta para hombre es ideal para todos los deportes, playa, correr, fútbol, béisbol, ciclismo y gimnasio,entrenamiento o para usar en la casa.
 - Ligero y transpirable: camiseta de manga corta está diseñada para ser ultraligera y transpirable y elasticidad , Absorbe y distribuye muy bien la humedad del sudor ayudando a eliminarlo mejor, previene y evita en gran medida el olor corporal que.
-- Material: 100% poliéster,Su tejido elástico multidireccional otorga mayor movilidad.
+- Diseño: La calidad y diseño buenos ,queda muy cómodo y bien ajustado al cuerpo,lo que le dará una sensación más cómoda.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HMMDBZ6/?tag=tolees-21)

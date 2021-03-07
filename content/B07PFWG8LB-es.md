@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Burro de Sancho Cerveza de Estilo Porter con un 0.00 % de descuento'
-date: 2021-03-06 13:59:23
+date: 2021-03-07 18:39:44
 image: 'https://m.media-amazon.com/images/I/31EuHu3d-oL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,15 @@ En este momento está [Burro de Sancho Cerveza de Estilo Porter Ale - 24 Paquete
 
 🔎:
 
+- cerveza negra y ligera
+- sabor y aroma a café y chocolate
+- como servir: conservar a una temperatura de entre 5-20
 - ideal para maridar con carnes especiales, guisos y postres
+- ligero amargor torrefacto
+- tipo de alcohol: malt beers
+- contenido de alcohol (alc/vol): 5.0 percent_by_volume
+- cerveza de estilo porter ale
 - Volumen paquete: 7920.0 milliliters; Volumen: 7.92 liters
 - procedencia: spain
-- como servir: conservar a una temperatura de entre 5-20
-- cerveza de estilo porter ale
-- tipo de alcohol: malt beers
-- ligero amargor torrefacto
-- sabor y aroma a café y chocolate
-- cerveza negra y ligera
-- contenido de alcohol (alc/vol): 5.0 percent_by_volume
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PFWG8LB/?tag=tolees-21)
