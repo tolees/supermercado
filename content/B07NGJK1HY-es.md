@@ -28,14 +28,14 @@ Está [Marca Amazon - Solimo Acondicionador revitalizante protección para el ca
 
 ℹ️:
 
-- En caso de contacto con los ojos, lavar bien con agua
-- Protege contra factores externos
+- Aplicar el acondicionador en el cabello mojado desde la raíz a las puntas y enjuagar
 - Únicamente para uso externo
 - Facilita el peinado
-- Aplicar el acondicionador en el cabello mojado desde la raíz a las puntas y enjuagar
-- 4 Botellas x 250ml
-- Protección para el cabello teñido
 - Acondicionador revitalizante
+- Protección para el cabello teñido
+- 4 Botellas x 250ml
+- Protege contra factores externos
 - Dermatológicamente probad
+- En caso de contacto con los ojos, lavar bien con agua
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NGJK1HY/?tag=tolees-21)

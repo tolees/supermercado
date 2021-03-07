@@ -28,10 +28,10 @@ Ahora mismo tienes [Scitec Nutrition 100% Whey Protein Professional con aminoác
 
 🔎:
 
-- Mezclar una dosis (30 g) diaria con 250 ml de agua, leche o algún zumo de fruta. El mejor momento para tomarlo es después del ejercicio físico.
-- 100% Whey Protein Professional es una mezcla de proteína de suero de excelente calidad procedente de concentrado de suero y aislado de proteína de suero. Las proteínas dietéticas son fuentes de nitrógeno y de aminoácidos esenciales que el cuerpo necesita para el crecimiento y el mantenimiento de los tejidos.
 - 100% Whey Protein Professional tiene más componentes añadidos: una “matriz de aminoácidos” que proporciona aminoácidos adicionales, como L-leucina, L-glutamina y taurina. Nuestra fórmula también incluye una mezcla de dos enzimas digestivas: la papaína y la bromelaína.
-- La proteína de suero de leche es lo que se denomina una proteína completa porque proporciona al cuerpo todos los tipos de aminoácidos necesarios, incluyendo los 9 aminoácidos que el cuerpo no puede sintetizar y que se deben complementar con la dieta (es decir: histidina, isoleucina, leucina, lisina, metionina, fenilalanina, treonina, triptófano, valina).
+- 100% Whey Protein Professional es una mezcla de proteína de suero de excelente calidad procedente de concentrado de suero y aislado de proteína de suero. Las proteínas dietéticas son fuentes de nitrógeno y de aminoácidos esenciales que el cuerpo necesita para el crecimiento y el mantenimiento de los tejidos.
 - Amplia gama de sabores
+- La proteína de suero de leche es lo que se denomina una proteína completa porque proporciona al cuerpo todos los tipos de aminoácidos necesarios, incluyendo los 9 aminoácidos que el cuerpo no puede sintetizar y que se deben complementar con la dieta (es decir: histidina, isoleucina, leucina, lisina, metionina, fenilalanina, treonina, triptófano, valina).
+- Mezclar una dosis (30 g) diaria con 250 ml de agua, leche o algún zumo de fruta. El mejor momento para tomarlo es después del ejercicio físico.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077YDTVHS/?tag=tolees-21)
