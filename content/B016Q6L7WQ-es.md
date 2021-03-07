@@ -28,10 +28,10 @@ Ahora mismo tienes [Naturseed - Aceite de coco Virgen Extra Orgánico - Para uso
 
 🔎:
 
-- EBOOK GRATIS: te lo enviamos por email. Te explicamos sus usos, beneficios, trucos de belleza, recetas...Descubre este super producto
-- MÁXIMA CALIDAD CERTIFICADA: Nuestro Aceite puro de coco virgen extra orgánico pasa por todos los controles que lo certifican como un aceite puro sin refinar, orgánico y con todas las propiedades ya que se extrae por PRENSADO EN FRIO.
-- MAS TAMAÑOS,ENVASE DE CRISTAL PRECINTADO: máxima protección del aceite de coco, ya que no absorbe residuos que se podrían desprender en envases de plástico expuestos al sol.
 - ÚNICO ACEITE DE COCO PREMIADO: Nuestro Aceite de Coco a sido galardonado con 2 estrellas por el prestigioso Premio de iTQi.
+- MÁXIMA CALIDAD CERTIFICADA: Nuestro Aceite puro de coco virgen extra orgánico pasa por todos los controles que lo certifican como un aceite puro sin refinar, orgánico y con todas las propiedades ya que se extrae por PRENSADO EN FRIO.
+- EBOOK GRATIS: te lo enviamos por email. Te explicamos sus usos, beneficios, trucos de belleza, recetas...Descubre este super producto
 - MÚLTIPLES USOS: Sustituye la mantequilla, úsalo de crema hidratante, de mascarilla para el pelo, pasta de dientes, pérdida de peso, complemento para tus mascotas, y todo sin químicos, el aceite de coco más natural.
+- MAS TAMAÑOS,ENVASE DE CRISTAL PRECINTADO: máxima protección del aceite de coco, ya que no absorbe residuos que se podrían desprender en envases de plástico expuestos al sol.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B016Q6L7WQ/?tag=tolees-21)
