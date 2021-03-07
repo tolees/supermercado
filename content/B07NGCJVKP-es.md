@@ -28,15 +28,15 @@ Ahora mismo tienes [Marca Amazon - Solimo Jabón líquido para manos. Fórmula c
 
 🔎:
 
-- Fórmula cuidado hidratante a la leche y miel
-- Jabón líquido para manos
-- Protege la piel contra la sequedad excesiva, dejando las manos nutridas y suaves
-- Aplicar en las manos húmedas, jabonar y enjuagar bien
-- Por alta demanda, puede haber variaciones de formato: 4 envases con dispensador o 2 envases con dispensador y 2 envases de repuesto. Trabajamos para volver al formato original lo antes posible
 - Únicamente para uso externo
-- 4 Botellas x 500ml
-- En caso de contacto con los ojos, lavar bien con agua
-- Dermatológicamente probad
+- Por alta demanda, puede haber variaciones de formato: 4 envases con dispensador o 2 envases con dispensador y 2 envases de repuesto. Trabajamos para volver al formato original lo antes posible
+- Protege la piel contra la sequedad excesiva, dejando las manos nutridas y suaves
+- Jabón líquido para manos
+- Fórmula cuidado hidratante a la leche y miel
 - Con miel y proteínas de leche
+- 4 Botellas x 500ml
+- Dermatológicamente probad
+- Aplicar en las manos húmedas, jabonar y enjuagar bien
+- En caso de contacto con los ojos, lavar bien con agua
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NGCJVKP/?tag=tolees-21)

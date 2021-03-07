@@ -28,10 +28,10 @@ Ahora mismo tienes [NIVEA MEN Neceser Gimnasio Gympack  neceser de regalo con ge
 
 🔎:
 
-- Crema de hombre – La crema hidratante cuida la piel masculina del rostro, el cuerpo y las manos, evita que se reseque y deja una fragancia masculina
-- Desodorante invisible – Este lote de Navidad incluye un desodorante de hombre que protege la ropa de manchas y aporta una protección antitranspirante 48 horas
-- Champú reparador – El champú de hombre fortalece el cabello desde la raíz, le aporta volumen y le da más fuerza para que tenga un aspecto fuerte y sano
 - Gel de baño – El gel de hombre 2 en 1 de este set de regalo cuida la piel y el cabello, y tiene una fragancia a lima que aporta un frescor de larga duración
+- Champú reparador – El champú de hombre fortalece el cabello desde la raíz, le aporta volumen y le da más fuerza para que tenga un aspecto fuerte y sano
+- Crema de hombre – La crema hidratante cuida la piel masculina del rostro, el cuerpo y las manos, evita que se reseque y deja una fragancia masculina
 - Contenido del envío – NIVEA MEN Neceser Gimnasio Gympack para hombre con gel de ducha (1 x 250 ml), champú (1 x 250 ml), desodorante roll-on (1 x 50 ml) y NIVEA MEN Creme (1 x 75 ml), neceser
+- Desodorante invisible – Este lote de Navidad incluye un desodorante de hombre que protege la ropa de manchas y aporta una protección antitranspirante 48 horas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZFZG57X/?tag=tolees-21)
