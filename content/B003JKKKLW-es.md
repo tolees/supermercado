@@ -28,8 +28,8 @@ En este momento está [Umbra 330190-040 Dispensador de Jabón Penguin Negro](htt
 
 🔎:
 
+- Indicador de nivel de jabón
 - Dispensador de jabón penguin
 - Color negro
-- Indicador de nivel de jabón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003JKKKLW/?tag=tolees-21)
