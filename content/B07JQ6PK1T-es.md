@@ -28,10 +28,10 @@ Está [Mortlach 12 Whisky Escocés Single Malt - 700 ml](https://www.amazon.es/d
 
 ℹ️:
 
-- Acabado: Larga duración, seco.
 - Color: Ámbar.
-- Nariz: Intenso, poderoso, aromas de roble, notas tostadas, caramelo, bayas.
-- Sabor: Denso, dulce, picante, cereza, tabaco, caña de azúcar, vainilla, chocolate negro.
 - perfecto como un regalo
+- Sabor: Denso, dulce, picante, cereza, tabaco, caña de azúcar, vainilla, chocolate negro.
+- Nariz: Intenso, poderoso, aromas de roble, notas tostadas, caramelo, bayas.
+- Acabado: Larga duración, seco.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JQ6PK1T/?tag=tolees-21)
