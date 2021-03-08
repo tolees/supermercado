@@ -29,9 +29,9 @@ Ahora mismo tienes [#Cervezanía - Kit de elaboración de cerveza artesana Pilse
 🔎:
 
 - 🍺 8 sencillos pasos, sin conocimientos previos. Incluye un manual con todos los pasos a seguir, que deberás leer bien previamente.
-- 🍃 Con el Kit Cervezanía ECO podrás elaborar cerveza artesana Pilsen Ale, una rubia aromatizada con lúpulo Saaz, a partir de materias primas con certificado ecológico. Alcohol estimado 5,00% vol. El único kit con certificado ecológico del mundo.
-- ⚒️ Materiales reutilizables. Sigue elaborando cerveza artesana con las recargas de materias primas.
 - 🍺 El kit Cervezanía contiene todo lo necesario para la elaboración de cerveza artesana en casa, tal como lo harías en una fábrica profesional. Vas a necesitar además botellines, usando unos reciclados, o adquiriendo un pack de botellines y chapas. Recuerda esterilizarlos bien.
+- 🍃 Con el Kit Cervezanía ECO podrás elaborar cerveza artesana Pilsen Ale, una rubia aromatizada con lúpulo Saaz, a partir de materias primas con certificado ecológico. Alcohol estimado 5,00% vol. El único kit con certificado ecológico del mundo.
 - 🍃 ¿Qué diferencia el kit todo grano de otros? Vas a elaborar con la mejor malta del mundo, tal y como ya lo hacen muchos cerveceros nacionales e internacionales. Además, el lúpulo en pellet permite una mejor conservación. ¿Resultado? Elabora tal y como lo haría un profesional.
+- ⚒️ Materiales reutilizables. Sigue elaborando cerveza artesana con las recargas de materias primas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01DM47AKS/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Somat Oro Gel Lavavajillas Antigrasa - 7 al 0.00 % de rebaja'
-date: 2021-03-07 03:11:24
+date: 2021-03-08 03:46:19
 image: 'https://m.media-amazon.com/images/I/51VC7M8fP0L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Somat'
 buyurl: 'https://www.amazon.es/dp/B07CNL4XBR/?tag=tolees-21'
 descuento: '0.00'
-average: '10.483056994819'
+average: '10.4878461538465'
 ---
 
 Tienes [Somat Oro Gel Lavavajillas Antigrasa - 70 Lavados](https://www.amazon.es/dp/B07CNL4XBR/?tag=tolees-21) con precio final de  10.95 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
