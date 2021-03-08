@@ -28,9 +28,9 @@ En este momento está [Finish Powerball Quantum Max - Pastillas para el lavavaji
 
 🔎:
 
-- Finish es la marca recomendada por los principales fabricantes de lavavajillas
 - Finish Quantum, pastillas para el lavavajillas con potente limpieza y poder desengrasante
 - Elimina hasta las manchas más difíciles gracias a la doble acción del gel y el polvo
+- Finish es la marca recomendada por los principales fabricantes de lavavajillas
 - Actúa incluso en bajas temperaturas
 - Elimina hasta los restos de comida más incrustados de la vajilla
 

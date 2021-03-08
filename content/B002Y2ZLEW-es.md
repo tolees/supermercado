@@ -28,7 +28,7 @@ Ahora mismo tienes [Gaggia RI9305 / 01 - Máquina de café](https://www.amazon.e
 
 🔎:
 
-- Capacidad del depósito de agua (1.2)
 - Depósito de agua extraible
+- Capacidad del depósito de agua (1.2)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002Y2ZLEW/?tag=tolees-21)
