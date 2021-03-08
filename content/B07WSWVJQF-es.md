@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Ositos De Oro Azúcar  1 X G al 0.00 % de descuento'
-date: 2021-03-03 13:41:42
+date: 2021-03-08 08:47:26
 image: 'https://m.media-amazon.com/images/I/51QWRkwSFPL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [HARIBO Ositos De Oro Azúcar  1 X G](https://www.amazon.es/d
 
 🔎:
 
-- Caramelos de goma
 - Irresistible mix sabor a frutas
+- Caramelos de goma
 - Deliciosas piezas en forma de ositos, las originales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WSWVJQF/?tag=tolees-21)
