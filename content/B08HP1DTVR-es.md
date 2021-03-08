@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pescamar Mejillones En Salsa De Mojo Roj al 0.00 % de descuento'
-date: 2021-03-07 09:50:19
+date: 2021-03-08 09:53:56
 image: 'https://m.media-amazon.com/images/I/51dCx6vrisL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,10 +29,10 @@ Está [Pescamar Mejillones En Salsa De Mojo Rojo En Lata 111 G 111 g](https://ww
 ℹ️:
 
 - Usando métodos y preparaciones tradicionales
-- Instrucciones para su uso adecuado: Una vez abierto mantener refrigerado hasta 24 horas
 - Ideal para preparar ensaladas y otros platos
-- Ingredientes: MEJILLONES (Mytilus galloprovincialis) pimiento rojo, aceite de girasol, agua, vinagre, ajo, almidón, sal, cayena
 - Información de alérgenos: Molluscs
+- Ingredientes: MEJILLONES (Mytilus galloprovincialis) pimiento rojo, aceite de girasol, agua, vinagre, ajo, almidón, sal, cayena
+- Instrucciones para su uso adecuado: Una vez abierto mantener refrigerado hasta 24 horas
 - Muy delicioso y sabroso para comer
 - Advertencia de seguridad: No es apropiado para menores de 3 años
 - Fácil de digerir, delicioso, conveniente y un excelente refrigerio
