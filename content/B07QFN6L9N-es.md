@@ -28,10 +28,10 @@ Tienes [Everything For You - Jabón original Aleppo 2x200g 50% aceite de oliva 5
 
 🔎:
 
-- ✔ Mientras el jabón de Aleppo limpia tu piel, añade mucha humedad, la hace suave, fortalece la piel y la regenera. Se utiliza para el cuidado diario de la piel y del cabello y además para
-- ✔ 100 % iega, cliente satisfecho, EDENHEITION. Si el jabón Aleppo 100% natural no cumple con su piel, póngase en contacto con nosotros, para que podamos organizar la devolución y poder reembolsar todo el precio de compra. Sin riesgo.
 - ✔ Siicie WïRD de aceites naturales 100% producidos. El jabón con 50% de aceite de laurele y 50% de aceite de oliva es rico en vitamina A y E. Tiene una propiedad antioxidante. Nunca se ha utilizado en ensayos con animales. Mientras que el jabón limpia tu piel, la hidrata intensamente la hace suave, fortalece la piel y la regenera. Se utiliza para el cuidado diario de la piel y el cabello y también para
 - ✔ ALEPPO SEIILISEIFI, Eï al 100% natural producto que imita el sur de Turquía a través de un procedimiento convencional. La composición se compone solo de aceite de oliva puro, aceite de laurel de laurel, sova y agua pura. El valor de pH está entre 8 – 9, por lo que es muy para el cuidado general del cuerpo.
+- ✔ Mientras el jabón de Aleppo limpia tu piel, añade mucha humedad, la hace suave, fortalece la piel y la regenera. Se utiliza para el cuidado diario de la piel y del cabello y además para
 - ✔ imitis, casualidad de pelo natural. Porque tiene un alto porcentaje de aceite de laurel, evita la formación de caspa. Relaja las varicelas. El jabón Aleppo es el primer jabón del mundo. Los jabones se cortan a mano. Porque están hechos a mano, puede haber ligeras diferencias en tamaño y peso. Es muy duro y seco. Dependiendo del grado de neumático y de la sequedad pueden ser hasta +/-15.
+- ✔ 100 % iega, cliente satisfecho, EDENHEITION. Si el jabón Aleppo 100% natural no cumple con su piel, póngase en contacto con nosotros, para que podamos organizar la devolución y poder reembolsar todo el precio de compra. Sin riesgo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QFN6L9N/?tag=tolees-21)
