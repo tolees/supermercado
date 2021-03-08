@@ -28,10 +28,10 @@ En este momento está [Natural Athlete - NATRULY Crema de Avellanas BIO  100% Av
 
 🔎:
 
-- MANTEQUILLA DE AVELLANAS ORGÁNICA🌿: elaborada solo con avellanas procedentes de agricultura orgánica, sin pesticidas ni otros químicos y respetando su crecimiento natural. ¡Salvemos la naturaleza comiéndonosla!
+- SABOR Y TEXTURA REAL😋: solo utilizamos avellanas de la mejor calidad para conseguir un sabor 100% natural y una textura suave y cremosa que se deshace en la boca. Tómala con fruta, yogur, tortitas, granola, recetas saladas o añádele cacao
 - 0% ADITIVOS: Hungry for change? Nuestra mantequilla de avellana natural  es un buen comienzo. Sin azúcar, sin gluten 🚫🌾, sin lactosa🐄, sin aceite de palma ni aditivos artificiales. 100% Avellanas ligeramente tostadas y molidas
 - NATURALMENTE SANO: entre todos sus beneficios, la avellana aporta triptófano y vitamina B1 y B6, los cuales intervienen en la producción de serotonina🤗 para hacerte sentir más feliz, aumentar tus reflejos, controlar el apetito...
-- SABOR Y TEXTURA REAL😋: solo utilizamos avellanas de la mejor calidad para conseguir un sabor 100% natural y una textura suave y cremosa que se deshace en la boca. Tómala con fruta, yogur, tortitas, granola, recetas saladas o añádele cacao
+- MANTEQUILLA DE AVELLANAS ORGÁNICA🌿: elaborada solo con avellanas procedentes de agricultura orgánica, sin pesticidas ni otros químicos y respetando su crecimiento natural. ¡Salvemos la naturaleza comiéndonosla!
 - TARROS DE VIDRIO RECICLABLE🌳: únete a nuestro compromiso con la naturaleza y contribuye con la reducción de plásticos. Nuestra crema de avellanas sin azúcar en bote de cristal es tan deliciosa que no tardarás en darle una segunda vida a su frasco
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07S3XDHGD/?tag=tolees-21)

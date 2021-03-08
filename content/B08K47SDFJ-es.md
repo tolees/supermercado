@@ -30,8 +30,8 @@ Ahora mismo tienes [Smint Tin Best Sellers  Caramelo Comprimido Sin Azúcar  Sab
 
 - El producto contiene 12x35 gr de caramelos comprimidos en una lata moderna y práctica
 - Smint Tin Best Sellers; Caramelo comprimido Smint Tin sin azúcar y sin gluten
-- Si hay algo que caracteriza a Smint Tin es el golpe de frescor duradero de sus potentes caramelos comprimidos en formato triangular bicapa
 - Ideal para llevar siempre contigo y para cualquier ocasión: antes de una cita o reunión, después de una comida o un café, en el coche o en su escritorio
 - Sabores: Menta, Fresa, Limón y Eucalipto; El producto contiene 4 latas por sabor
+- Si hay algo que caracteriza a Smint Tin es el golpe de frescor duradero de sus potentes caramelos comprimidos en formato triangular bicapa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08K47SDFJ/?tag=tolees-21)
