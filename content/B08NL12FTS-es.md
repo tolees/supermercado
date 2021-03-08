@@ -29,9 +29,9 @@ Ahora mismo tienes [Marca Amazon - Presto! Detergente en cápsulas para lavadora
 🔎:
 
 - Paquete de 4 - 80 lavadas
-- Acción 3 en 1: Cuida las prendas de color, Efecto eliminación de manchas, Perfume intenso
-- Mantiene los colores más brillantes por más tiempo
 - Almacenar en un lugar fresco, seco y alejado de la luz solar directa
 - Una explosión de fragancia fresca
+- Mantiene los colores más brillantes por más tiempo
+- Acción 3 en 1: Cuida las prendas de color, Efecto eliminación de manchas, Perfume intenso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NL12FTS/?tag=tolees-21)
