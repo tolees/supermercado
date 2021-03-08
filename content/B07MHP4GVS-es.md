@@ -28,10 +28,10 @@ Tienes [O NATURALS - Jabón Carbón Activo Natural Negro Cuerpo Cara y Manos. Li
 
 🔎:
 
-- ALIVIA LA IRRITACIÓN: El Aceite de Menta calma y alivia los músculos cansados y doloridos.
 - VEGANO: Hecho de ingredientes orgánicos, puramente Natural, Sin Sulfitos, Sin Parabenos, para cualquier tipo de piel, no testeado en animales. Hecho en USA
-- TRIPLE MOLIDO FRANCÉS: Estas barras de jabón de triple molido generan una espuma lujosa que brillará sobre su cuerpo dejando su piel lisa y más suave que antes.
+- ALIVIA LA IRRITACIÓN: El Aceite de Menta calma y alivia los músculos cansados y doloridos.
 - ACLARA LA PIEL: El Aceite de Menta ajusta la producción de grasas y promueve la circulación resultando en una piel clara y fresca.
+- TRIPLE MOLIDO FRANCÉS: Estas barras de jabón de triple molido generan una espuma lujosa que brillará sobre su cuerpo dejando su piel lisa y más suave que antes.
 - ULTRA PURIFICANTE: El Carbón de Coco Activo limpia profundamente cada poro para combatir el acné, las espinillas y manchas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MHP4GVS/?tag=tolees-21)
