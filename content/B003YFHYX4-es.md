@@ -28,8 +28,8 @@ Tienes [Bosch TKA8013 - Máquina de café  1160 W  capacidad para 10/15 tazas  c
 
 🔎:
 
-- Potencia: 1160 w
 - Auto apagado al cabo de 2 horas
+- Potencia: 1160 w
 - Medidas: 355 x 260 x 250 mm
 - Pra 10/15 tazas 1.25 litros
 
