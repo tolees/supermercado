@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate - Triple Action - Enjuague bucal al 5.16 % de rebaja'
-date: 2021-02-28 23:04:26
+date: 2021-03-08 18:56:10
 image: 'https://m.media-amazon.com/images/I/413FwrSo33L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'COLGATE'
 buyurl: 'https://www.amazon.es/dp/B00XAC4TPC/?tag=tolees-21'
 descuento: '5.16'
-average: '2.88393939393938'
+average: '2.88999999999998'
 ---
 
 Tienes [Colgate - Triple Action - Enjuague bucal - 500 ml](https://www.amazon.es/dp/B00XAC4TPC/?tag=tolees-21) con precio final de  2.94 EUR (original: 3.1 EUR) (5.16 %  de rebaja) aqui!
