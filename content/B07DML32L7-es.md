@@ -28,8 +28,8 @@ Ahora mismo tienes [Oral-B 3D White Blancura Revitalizante Pasta Dentífrica  75
 
 🔎:
 
-- 3 beneficios en 1: blanqueamiento, fortalecimiento y protección frente a las manchas
 - Pasta dentífrica que protege el esmalte
+- 3 beneficios en 1: blanqueamiento, fortalecimiento y protección frente a las manchas
 - Elimina hasta el 80 % de las manchas superficiales
 - Sabor a menta revitalizante para un frescor rejuvenecedor
 

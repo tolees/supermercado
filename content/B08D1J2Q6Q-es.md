@@ -28,10 +28,10 @@ Está [Norit Sensible- Detergente Líquido para Pieles Sensibles y Atópicas  Hi
 
 ℹ️:
 
-- Recomendado por dermatólogos en base a estudios clínicos
-- Detergente hipoalergénico ideal para lavar toda la ropa de adultos, niños y bebés con piel frágil o atópica
 - Pack de 3 botellas de 2120ml cada una = 6360ml
-- Fórmula 0% sin alérgenos, perfumes ni conservantes sensibilizantes
+- Detergente hipoalergénico ideal para lavar toda la ropa de adultos, niños y bebés con piel frágil o atópica
+- Recomendado por dermatólogos en base a estudios clínicos
 - Eficaz en manchas de bebé y niños: papillas, leche, barro
+- Fórmula 0% sin alérgenos, perfumes ni conservantes sensibilizantes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08D1J2Q6Q/?tag=tolees-21)

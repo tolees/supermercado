@@ -28,8 +28,8 @@ Ahora mismo tienes [Central Lechera Asturiana Cápsulas de Café con Leche  4 x 
 
 🔎:
 
-- Preparado de leche en polvo y café soluble
 - Cápsulas de café con leche 100% naturales, sin E-s artificiales.
 - Ingredientes: leche en polvo entera (80%), café soluble (19,8%), aroma natural
+- Preparado de leche en polvo y café soluble
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BMZCWCR/?tag=tolees-21)
