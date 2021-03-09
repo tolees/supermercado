@@ -28,13 +28,13 @@ Tienes [Fairy Original Todo en 1 Cápsulas de Lavavajillas - Pack de 60 Unidade
 
 🔎:
 
-- Cápsulas listas para usar, sin necesidad de retirar el envoltorio
-- Cápsulas de lavavajillas fairy todo en 1
-- Mantiene un aroma limpio y fresco en tu lavavajillas
-- Incorpora sal y ayuda al aclarado, al igual que protege el cristal y la plata
-- Poderosa acción de limpieza con líquido antigrasa
-- su acción limpiadora elimina a la primera hasta la grasa incrustada
-- Diseñadas y testadas para usar en los lavavajillas de las principales marcas
 - Elimina las manchas más difíciles y deja un brillo inigualable
+- su acción limpiadora elimina a la primera hasta la grasa incrustada
+- Cápsulas listas para usar, sin necesidad de retirar el envoltorio
+- Incorpora sal y ayuda al aclarado, al igual que protege el cristal y la plata
+- Mantiene un aroma limpio y fresco en tu lavavajillas
+- Cápsulas de lavavajillas fairy todo en 1
+- Diseñadas y testadas para usar en los lavavajillas de las principales marcas
+- Poderosa acción de limpieza con líquido antigrasa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MSMFZS4/?tag=tolees-21)

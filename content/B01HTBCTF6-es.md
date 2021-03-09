@@ -30,7 +30,7 @@ Está [Pulvera - Puleva Leche Mañanas Ligeras Desnatada sin Lactosa  6 x 1L](ht
 
 - Apta para niños y adultos intolerantes a la lactosa
 - Unica Sin Lactosa en botella de 1L con tapón de rosca
-- Mas fácil de coger, abrir y servir
 - Leche sin lactosa facil de digerir desnatada
+- Mas fácil de coger, abrir y servir
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HTBCTF6/?tag=tolees-21)

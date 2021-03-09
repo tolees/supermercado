@@ -28,10 +28,10 @@ Tienes [PediaSure - Complemento Alimenticio para Niños con Proteínas  Vitamina
 
 🔎:
 
+- COMPLEMENTA LA DIETA: PediaSure es un alimento complementario para niños a partir de 1 año de edad. CIENTIFICAMENTE PROBADO
 - EXCELENTE SABOR :¡A los niños les encanta su SABOR!. Un vaso se prepara con 190ml de agua y 5 cacitos. Recomendado un vaso al día para niños de 1-4 años y 2 vasos para niños mayores de 5 años
 - NUTRICIÓN COMPLETA Y EQUILIBRADA: PediaSure Contiene los NUTRIENTES DE LOS 5 GRUPOS DE ALIMENTOS como proteínas, 13 vitaminas y 14 minerales incluyendo hierro. Con CALCIO y VITAMINA D, necesarios para el crecimiento y el desarrollo normales de los huesos de los niños.
-- COMPLEMENTA LA DIETA: PediaSure es un alimento complementario para niños a partir de 1 año de edad. CIENTIFICAMENTE PROBADO
-- CRECIMIENTO Y DESARROLLO: Un vaso de PediaSure al día te da la tranquilidad de que tu hijo CRECE FUERTE Y SANO*
 - TRANQUILIDAD COMPLETA: Es la MARCA PREFERIDA por los padres** con un 89% de GRADO DE SATISFACCION***
+- CRECIMIENTO Y DESARROLLO: Un vaso de PediaSure al día te da la tranquilidad de que tu hijo CRECE FUERTE Y SANO*
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00MAFTH84/?tag=tolees-21)
