@@ -29,7 +29,7 @@ Tienes [Marieta vino blanco Albariño D.O. Rías Baixas](https://www.amazon.es/d
 🔎:
 
 - Graduación: 12.5º
-- Producto de Bodegas Martín Códax.U.
 - D.O. Rias Baixas
+- Producto de Bodegas Martín Códax.U.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00G9BUGJE/?tag=tolees-21)
