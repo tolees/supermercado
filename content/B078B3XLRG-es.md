@@ -29,7 +29,7 @@ En este momento está [HARIBO G  Fruitilicious  160 Gramo](https://www.amazon.es
 🔎:
 
 - La combinación perfecta de calidad y máximo sabor
-- Divertidas frutas con deliciosos sabores
 - Caramelos de goma
+- Divertidas frutas con deliciosos sabores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078B3XLRG/?tag=tolees-21)
