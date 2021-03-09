@@ -28,9 +28,9 @@ Tienes [Lactacyd Derma - Gel de Baño  Sin Jabón  Hipoalergénico  preserva las
 
 ℹ️:
 
-- Lea las instrucciones de uso antes de utilizar el producto
 - Formato 1L
 - Dermatológicamente testado
+- Lea las instrucciones de uso antes de utilizar el producto
 - Formulado con ácido láctico. Sin jabón
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GY2BBL0/?tag=tolees-21)

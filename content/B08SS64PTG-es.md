@@ -28,10 +28,10 @@ Tienes [L Oreal Paris Elvive Color Vive Violeta Pack Champú Violeta Matizador 2
 
 🔎:
 
-- Formulado con pigmentos violetas, matiza los tonos no deseados y te ayuda a lucir un color óptimo en el pelo con mechas, rubio, decolorado o gris
 - El champú Violeta Matizador de Elvive limpia con suavidad tu cabello al mismo tiempo que neutraliza los reflejos anaranjados o amarillentos
-- Cofre con Champú Violeta Matizador y Mascarilla Intensiva Violeta anti-efecto anaranjado para pelo con mechas, rubio, decolorado o gris
 - La Mascarilla Intensiva Violeta nutre intensamente tu cabello al mismo tiempo de neutraliza los reflejos anaranjados y amarillentos
 - Desde el primer uso notarás resultados visibles que te permitirán lucir un cabello adecuado, cuidado y de un tono adecuado
+- Cofre con Champú Violeta Matizador y Mascarilla Intensiva Violeta anti-efecto anaranjado para pelo con mechas, rubio, decolorado o gris
+- Formulado con pigmentos violetas, matiza los tonos no deseados y te ayuda a lucir un color óptimo en el pelo con mechas, rubio, decolorado o gris
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08SS64PTG/?tag=tolees-21)

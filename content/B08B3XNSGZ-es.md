@@ -28,10 +28,10 @@ En este momento está [Cia&Co 12 Mascarillas Higiénicas Negras The Pink House +
 
 🔎:
 
-- ✅ 【GEL BABARIA 300 ml INCLUIDO】: Limpieza Higiénica de Manos Sin Agua. 70% de Alcohol.Envase de 300 ml óptimo para llevar encima.
-- ✅ 【Material no tejido premium】: hecho de material no tejido de alta calidad, las máscaras desechables son a prueba de humedad, amigables con la piel, cómodas y transpirables. La cinta para la oreja es suave y elástica. No traerá una sensación de desgaste incómodo al sostener las orejas. Adecuados para adultos y niños.
+- ✅ 【Desechable】: Esta mascarilla tiene una vida util aproximada de Aprox 2 - 4 horas continuadas tras la cual se debe desechar. No es un producto sanitario.
 - ✅ 【Diseño de 3 Capas + Color Negro】: El Color Negro combina con diferentes estilos. 3 capas de material de tela de filtración, tiene una función de protección más fuerte, y proporciona un nivel adicional de protección altamente eficiente contra gotas, moho, polvo, polen, escape de automóviles, neblina, saliva, etc
 - ✅ 【12 Mascarillas + Gel de 300 ml】: Este lote se compone de 12 Mascarillas Higienicas NEGRAS de la marca The Pink House + 1 Gel HidroAlcoholico para llevar de 300 ml de la Marca Babaria
-- ✅ 【Desechable】: Esta mascarilla tiene una vida util aproximada de Aprox 2 - 4 horas continuadas tras la cual se debe desechar. No es un producto sanitario.
+- ✅ 【Material no tejido premium】: hecho de material no tejido de alta calidad, las máscaras desechables son a prueba de humedad, amigables con la piel, cómodas y transpirables. La cinta para la oreja es suave y elástica. No traerá una sensación de desgaste incómodo al sostener las orejas. Adecuados para adultos y niños.
+- ✅ 【GEL BABARIA 300 ml INCLUIDO】: Limpieza Higiénica de Manos Sin Agua. 70% de Alcohol.Envase de 300 ml óptimo para llevar encima.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B3XNSGZ/?tag=tolees-21)

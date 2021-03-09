@@ -28,10 +28,10 @@ En este momento está [Johnnie Walker Verde Whisky Escocés  700ml](https://www.
 
 🔎:
 
-- Disfrútelo solo o con hielo
 - Aromas a hierba y fruta con humo de leña, pimienta, vainilla y sándalo
-- Incluye maltas de Speyside, las Tierras Altas, las Tierras Bajas y las islas escocesas
 - Doble oro y mejor whisky de mezcla escocés en San Francisco World Spirits Competition
+- Incluye maltas de Speyside, las Tierras Altas, las Tierras Bajas y las islas escocesas
+- Disfrútelo solo o con hielo
 - Una mezcla equilibrada de whiskies de malta envejecidos durante un mínimo de 15 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01CE1NM98/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Grefusa Mistercorn Africa con Sabor a Especias Surafricanas  195g](https
 
 🔎:
 
-- Bolsa de frutos secos mezclados de 195 gramos
-- Tentempie idóneo para descubrir los tesoros de África - Una perfecta combinación con cacahuetes y el auténtico sabor a especias surafricanas
+- Surtido de frutos secos - Una mezcla perfecta durante el aperitivo o como picoteo (Maiz - Bolitas - Triangulos - Cacahuetes) sabor a especias surafricanas
 - Snacks fritos | Fuente de fibra sin conservantes ni colorantes artificiales
 - Snack sin aceite de palma
-- Surtido de frutos secos - Una mezcla perfecta durante el aperitivo o como picoteo (Maiz - Bolitas - Triangulos - Cacahuetes) sabor a especias surafricanas
+- Tentempie idóneo para descubrir los tesoros de África - Una perfecta combinación con cacahuetes y el auténtico sabor a especias surafricanas
+- Bolsa de frutos secos mezclados de 195 gramos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HHDM4T4/?tag=tolees-21)

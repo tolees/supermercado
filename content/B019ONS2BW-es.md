@@ -28,10 +28,10 @@ Ahora mismo tienes [Ziaja Leche De Cabra acondicionador capilar 200ml](https://w
 
 🔎:
 
+- Protege las puntas contra la rotura y evita la formación de puntas abiertas.
 - No apto para veganos. No recomendado para intolerantes a lactosa.
 - Proporciona brillo al cabello dañado y restaura su apariencia saludable.
-- Protege las puntas contra la rotura y evita la formación de puntas abiertas.
-- Acondicionador capilar fortalecedor con proteínas de leche de cabra y keratina para cabellos opacos y secos.
 - Hidrata y suaviza el cabello mejorando su flexibilidad.
+- Acondicionador capilar fortalecedor con proteínas de leche de cabra y keratina para cabellos opacos y secos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B019ONS2BW/?tag=tolees-21)
