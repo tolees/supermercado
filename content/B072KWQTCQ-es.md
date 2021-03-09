@@ -28,10 +28,10 @@ Ahora mismo tienes [Maltodextrina de HSN | Carbohidrato de Alto Índice Glucémi
 
 🔎:
 
-- ✍️ CARGAS DE HIDRATOS DE CARBONO. Se suele utilizar en el protocolo para rellenar glucógeno muscular de cara a una competición varios días previos, mediante el cual se produce una supercompensación de los depósitos de energía. Especialmente indicado para deportistas y/o atletas de resistencia (triatlón, maratón, natación…).
-- 🏃 RENDIMIENTO FÍSICO. Rápida recuperación energética después del ejercicio aprovechando la estimulación de los receptores musculares (GLUT 4). Recomendado para deportistas y/o atletas que entrenan más de una vez al día, o mantienen un programa de actividad física de elevado volumen e intensidad.
-- ☀️ FABRICACIÓN PROPIA. Laboratorios con Certificación de la U.E. Sin OGM (Organismos Modificados Genéticamente). Buenas prácticas de fabricación (GMP). Incluye bolsa con cierre zip y cacito dosificador.
 - 🏆 PRODUCTO RAW. Sin Aditivos. Sin Sabor. Preparado para mezclar con agua o la bebida favorita. Permite una rápida y fácil mezcla del producto en agua u otra bebida. Uso combinado junto a la Dextrosa: ambas fuentes de carbohidratos son utilizadas para producir una eficaz y óptima reposición de los niveles de energía después del entrenamiento, en combinación junto a las proteínas en polvo.
 - 🔝 MALTODEXTRINA. Es un tipo de carbohidrato de tipo Complejo y de Alto Índice Glucémico. Se trata de una fuente de Energía para Deportes de Resistencia y para los de Alta Intensidad. Rápida Absorción para favorecer el Rendimiento y mejorar la Recuperación. 🌿Apto para Veganos/Vegetarianos.
+- ✍️ CARGAS DE HIDRATOS DE CARBONO. Se suele utilizar en el protocolo para rellenar glucógeno muscular de cara a una competición varios días previos, mediante el cual se produce una supercompensación de los depósitos de energía. Especialmente indicado para deportistas y/o atletas de resistencia (triatlón, maratón, natación…).
+- ☀️ FABRICACIÓN PROPIA. Laboratorios con Certificación de la U.E. Sin OGM (Organismos Modificados Genéticamente). Buenas prácticas de fabricación (GMP). Incluye bolsa con cierre zip y cacito dosificador.
+- 🏃 RENDIMIENTO FÍSICO. Rápida recuperación energética después del ejercicio aprovechando la estimulación de los receptores musculares (GLUT 4). Recomendado para deportistas y/o atletas que entrenan más de una vez al día, o mantienen un programa de actividad física de elevado volumen e intensidad.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072KWQTCQ/?tag=tolees-21)
