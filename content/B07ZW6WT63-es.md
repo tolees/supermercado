@@ -29,8 +29,8 @@ En este momento está [Dove Invisible Dry Desodorante Antitranspirante en Aeroso
 🔎:
 
 - No contiene alcohol
-- Tiene acción antimanchas en 100 colores
 - Es formulado con 1/4 de crema hidratante
 - Ofrece protección para 48 horas
+- Tiene acción antimanchas en 100 colores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZW6WT63/?tag=tolees-21)
