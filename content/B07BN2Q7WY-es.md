@@ -1,28 +1,28 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana Cápsulas de Le al 0.00 % de descuento'
-date: 2021-03-07 21:40:15
+date: 2021-03-09 04:11:30
 image: 'https://m.media-amazon.com/images/I/51InOZAqDLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07BN2Q7WY-es Central Lechera Asturiana Cápsulas de Leche Semidesnatada...'
 sku: 'B07BN2Q7WY-es'
-tags: [ 'central','lechera','dolce','gusto', ]
-actualPrice: 13.16 EUR
+tags: [ 'central','lechera', ]
+actualPrice: 20.83 EUR
 currency: EUR
-price: 13.16
+price: 20.83
 comparePrice:  EUR
-prodname: 'Central Lechera Asturiana Cápsulas de Leche Semidesnatada - Compatibles con Dolce Gusto - 4 Paquetes de 16 Cápsulas - Total: 64 Cápsulas  28410297270035 '
+prodname: 'Central Lechera Asturiana Cápsulas de Leche Semidesnatada  4 x 16 cápsulas'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Central Lechera Asturiana'
 buyurl: 'https://www.amazon.es/dp/B07BN2Q7WY/?tag=tolees-21'
 descuento: '0.00'
-average: '13.0946303501945'
+average: '13.1543629343629'
 ---
 
-Ahora mismo tienes [Central Lechera Asturiana Cápsulas de Leche Semidesnatada - Compatibles con Dolce Gusto - 4 Paquetes de 16 Cápsulas - Total: 64 Cápsulas  28410297270035 ](https://www.amazon.es/dp/B07BN2Q7WY/?tag=tolees-21) a 13.16 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Central Lechera Asturiana Cápsulas de Leche Semidesnatada  4 x 16 cápsulas](https://www.amazon.es/dp/B07BN2Q7WY/?tag=tolees-21) a 20.83 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
 
 [![Central Lechera Asturiana Cápsulas de Le](https://m.media-amazon.com/images/I/51InOZAqDLL._SL400_.jpg)](https://www.amazon.es/dp/B07BN2Q7WY/?tag=tolees-21)
 

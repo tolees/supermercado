@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Puleva Omega 3 Leche con Omega 3 y Nuece'
-date: 2021-02-24 22:07:57
+date: 2021-03-09 03:59:02
 image: 'https://m.media-amazon.com/images/I/41RutPVY26L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Puleva'
 buyurl: 'https://www.amazon.es/dp/B00XA85KSQ/?tag=tolees-21'
 descuento: '0.00'
-average: '1.33659574468085'
+average: '1.37083333333333'
 ---
 
 Tienes [Puleva Omega 3 Leche con Omega 3 y Nueces 1L](https://www.amazon.es/dp/B00XA85KSQ/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 2.98 EUR (original:  EUR) en el siguiente enlace!

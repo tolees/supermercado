@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'Dulcesol Croissants Cacao - 5 uds - 225  con un 0.00 % de descuento'
-date: 2021-03-07 21:48:41
+title: 'Dulcesol Croissants Cacao  225g con un 0.00 % de descuento'
+date: 2021-03-09 03:57:33
 image: 'https://m.media-amazon.com/images/I/41QevPj46QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PSLTM8-es Dulcesol Croissants Cacao - 5 uds - 225 g'
+slug: 'B077PSLTM8-es Dulcesol Croissants Cacao 225g'
 sku: 'B077PSLTM8-es'
 tags: [ 'dulcesol', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0
 comparePrice:  EUR
-prodname: 'Dulcesol Croissants Cacao - 5 uds - 225 g'
+prodname: 'Dulcesol Croissants Cacao  225g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Dulcesol'
@@ -22,9 +22,9 @@ descuento: '0.00'
 average: '1.0'
 ---
 
-En este momento está [Dulcesol Croissants Cacao - 5 uds - 225 g](https://www.amazon.es/dp/B077PSLTM8/?tag=tolees-21) a 1.0 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
+En este momento está [Dulcesol Croissants Cacao  225g](https://www.amazon.es/dp/B077PSLTM8/?tag=tolees-21) a 1.0 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Dulcesol Croissants Cacao - 5 uds - 225 ](https://m.media-amazon.com/images/I/41QevPj46QL._SL400_.jpg)](https://www.amazon.es/dp/B077PSLTM8/?tag=tolees-21)
+[![Dulcesol Croissants Cacao  225g](https://m.media-amazon.com/images/I/41QevPj46QL._SL400_.jpg)](https://www.amazon.es/dp/B077PSLTM8/?tag=tolees-21)
 
 🔎:
 
