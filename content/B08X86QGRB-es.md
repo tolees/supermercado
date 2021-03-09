@@ -29,9 +29,9 @@ Está [L Oréal España - L oreal Men Expert ducha y anti fatiga: Gel de ducha H
 ℹ️:
 
 - Gel de Ducha Hydra Energetic: Potenciado con 100mg Taurina para que tu piel recupere la energía al instante.
-- Gel de ducha: Usar cada día bajo la ducha, puede usarse sobre el cuerpo, rostro y cabello Crema: Usar diariamente sobre la piel limpia del rostro por la mañana y noche. Aplicado tras el afeitado alivia la sensación de ardor y las rojeces
-- Este pack es perfecto para los hombres que quieren acabar con los signos de fatiga en su piel. Está compuesto por el Gel de Ducha Calmante Hydra Sensitive, Gel de Ducha con Taurina Hydra Energetic y la Crema Hidratante Antifatiga 24h Hydra Energetic. Tu rutina de cuidado para hombres.
 - Crema: 5 acciones anti-fatiga. Rasgos cansados, ojeras, rugosidad, tez apagada y pérdida de tonicidad
 - Gel de Ducha Hydra Sensitive: Enriquecido con Savia de Abedul Natural para conseguir una piel más suave y resistente. Específicamente diseñado para hombres con piel sensible que tienen tendencia a las rojeces y sienten tirantez en la piel.
+- Gel de ducha: Usar cada día bajo la ducha, puede usarse sobre el cuerpo, rostro y cabello Crema: Usar diariamente sobre la piel limpia del rostro por la mañana y noche. Aplicado tras el afeitado alivia la sensación de ardor y las rojeces
+- Este pack es perfecto para los hombres que quieren acabar con los signos de fatiga en su piel. Está compuesto por el Gel de Ducha Calmante Hydra Sensitive, Gel de Ducha con Taurina Hydra Energetic y la Crema Hidratante Antifatiga 24h Hydra Energetic. Tu rutina de cuidado para hombres.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08X86QGRB/?tag=tolees-21)

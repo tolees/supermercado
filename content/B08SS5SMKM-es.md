@@ -28,10 +28,10 @@ Tienes [L Oréal Paris L Oréal Paris Excellence Creme Tinte Permanente  Tono 7.
 
 ℹ️:
 
-- Color cuidado y duradero con tecnología violeta 
 - Aplicar la mezcla colorante en todo el cabello, dejar actuar durante 30 minutos, aclarar con abundante agua tibia y aplicar champú y mascarilla Violeta
-- 100 % cobertura de canas, color rico y cuidado
-- Triple cuidado, color, cabello, cuero cabelludo
 - Excellence, Crema Color Triple Cuidado Efecto anti anaranjado; protege el cabello antes, durante y después de la coloración con un 100% de cobertura de canas
+- 100 % cobertura de canas, color rico y cuidado
+- Color cuidado y duradero con tecnología violeta 
+- Triple cuidado, color, cabello, cuero cabelludo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08SS5SMKM/?tag=tolees-21)

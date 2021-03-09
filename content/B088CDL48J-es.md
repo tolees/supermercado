@@ -28,13 +28,13 @@ En este momento está [Dove Gel de ducha Aloe Vera - Pack de 12x750m](https://ww
 
 🔎:
 
-- Frescor e hidratación diaria
-- Suave con el microbioma
 - Pack de 12 de Dove Gel de ducha Aloe Vera 750ml
-- Piel suave y cuidada después de una sola ducha
-- Botella 100% plástico reciclado
-- Sin sulfatos SLES
 - Formato familiar
+- Botella 100% plástico reciclado
 - Con hidratantes naturales de la piel
+- Suave con el microbioma
+- Sin sulfatos SLES
+- Piel suave y cuidada después de una sola ducha
+- Frescor e hidratación diaria
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088CDL48J/?tag=tolees-21)
