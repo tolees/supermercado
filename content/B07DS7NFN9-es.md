@@ -29,8 +29,8 @@ Tienes [LA CORBERANA 117050 Detergente Ropa  Supernet Profesional  5 Litros](htt
 🔎:
 
 - Componentes incluidos: 1 x Garrafa de 5 Litros
-- Respeta de los tejidos delicados (lana, algodón, lino, etc. )
-- Ropa fresca y perfumada como nunca
 - Lava, suaviza, perfuma y aviva los colores
+- Ropa fresca y perfumada como nunca
+- Respeta de los tejidos delicados (lana, algodón, lino, etc. )
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DS7NFN9/?tag=tolees-21)
