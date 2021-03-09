@@ -29,8 +29,8 @@ Tienes [La Masía Aceite de Oliva Suave - 1 l](https://www.amazon.es/dp/B01K7QVY
 ℹ️:
 
 - De aceites obtenidos directamente de aceitunas
-- Se haya sometido a un tratamiento de refinado
 - Aceite que contiene exclusivamente aceites de oliva
 - Botella de 1 l
+- Se haya sometido a un tratamiento de refinado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01K7QVYV0/?tag=tolees-21)
