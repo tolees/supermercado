@@ -28,8 +28,8 @@ Está [Dulcesol Red Velvet - 5 x 175 gr](https://www.amazon.es/dp/B07QK31VZM/?ta
 
 ℹ️:
 
+- Contiene 5 unidades envasadas individuamente
 - Gama Black, nuestra gama más premium para los paladares más exigentes
 - Delicioso y esponjoso pastel con crema sabor frambuesa
-- Contiene 5 unidades envasadas individuamente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QK31VZM/?tag=tolees-21)
