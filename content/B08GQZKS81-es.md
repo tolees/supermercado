@@ -28,9 +28,9 @@ Está [Dani - México sazonador especial Fajitas  40 gr.](https://www.amazon.es/
 
 ℹ️:
 
+- Con tapón dosificador
 - Sazonador sabor méxico 40 gr.
 - Ideal en la elaboración de tacos y fajitas; su mezcla de especias realza el sabor de carnes y verduras salteadas
 - Alérgenos: contiene sésamo
-- Con tapón dosificador
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GQZKS81/?tag=tolees-21)

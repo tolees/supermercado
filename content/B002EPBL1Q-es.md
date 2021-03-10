@@ -28,11 +28,11 @@ Está [Talisker 10 Whisky Escocés  700ml](https://www.amazon.es/dp/B002EPBL1Q/?
 
 ℹ️:
 
-- Un clásico de Talisker, un whisky puro de malta de la isla de Skye
-- Ganador de la medalla de oro en el International Spirits Challenge de 2014
-- Un regalo adecuado para quienes deseen conocer los whiskies de malta isleños ahumados
+- El sutil toque ahumado de Talisker 10 Year Old se disfruta mejor solo
 - La primera destilación brinda la complejidad y el toque de pimienta de este whisky
 - Sabores suaves y ahumados con una sensación reconfortante al final
-- El sutil toque ahumado de Talisker 10 Year Old se disfruta mejor solo
+- Un clásico de Talisker, un whisky puro de malta de la isla de Skye
+- Un regalo adecuado para quienes deseen conocer los whiskies de malta isleños ahumados
+- Ganador de la medalla de oro en el International Spirits Challenge de 2014
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002EPBL1Q/?tag=tolees-21)
