@@ -28,10 +28,10 @@ Tienes [Ariel Baby Detergente Líquido para Lavadora  Poder Quitamanchas Incluso
 
 🔎:
 
-- Por razones medioambientales, las botellas no cuentan con un tapón medidor
 - Detergente líquido con un óptimo poder antimanchas desde el primer lavado, incluso a 30 °C
-- Óptimo para eliminar manchas de la ropa de tu bebé
-- Suave con la piel sensible de tu bebé; dermatológicamente probado para pieles sensibles
 - Botella 100 % reciclable
+- Suave con la piel sensible de tu bebé; dermatológicamente probado para pieles sensibles
+- Por razones medioambientales, las botellas no cuentan con un tapón medidor
+- Óptimo para eliminar manchas de la ropa de tu bebé
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BQFM2J4/?tag=tolees-21)
