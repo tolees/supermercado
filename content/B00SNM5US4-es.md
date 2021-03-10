@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'OLAPLEX Hair Perfector Nº3 - Cuidado cap al 19.39 % de rebaja'
-date: 2021-02-15 10:14:27
-image: 'https://m.media-amazon.com/images/I/31-CMmU39zL._SL200_.jpg'
+title: 'OLAPLEX Hair Perfector Nº3 - Cuidado cap al 0.00 % de rebaja'
+date: 2021-03-10 08:55:02
+image: 'https://m.media-amazon.com/images/I/31-CMmU39zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00SNM5US4-es OLAPLEX Hair Perfector Nº3 - Cuidado capilar 100 ml'
 sku: 'B00SNM5US4-es'
 tags: [ 'cuidado','capilar', ]
-actualPrice: 18.46 EUR
+actualPrice: 18.89 EUR
 currency: EUR
-price: 18.46
-comparePrice: 22.9 EUR
+price: 18.89
+comparePrice:  EUR
 prodname: 'OLAPLEX Hair Perfector Nº3 - Cuidado capilar  100 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'OLAPLEX'
 buyurl: 'https://www.amazon.es/dp/B00SNM5US4/?tag=tolees-21'
-descuento: '19.39'
-average: '20.244'
+descuento: '0.00'
+average: '20.1209090909091'
 ---
 
-Tienes [OLAPLEX Hair Perfector Nº3 - Cuidado capilar  100 ml](https://www.amazon.es/dp/B00SNM5US4/?tag=tolees-21) con precio final de  18.46 EUR (original: 22.9 EUR) (19.39 %  de rebaja) aqui!
+Tienes [OLAPLEX Hair Perfector Nº3 - Cuidado capilar  100 ml](https://www.amazon.es/dp/B00SNM5US4/?tag=tolees-21) con precio final de  18.89 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
 
-[![OLAPLEX Hair Perfector Nº3 - Cuidado cap](https://m.media-amazon.com/images/I/31-CMmU39zL._SL200_.jpg)](https://www.amazon.es/dp/B00SNM5US4/?tag=tolees-21)
+[![OLAPLEX Hair Perfector Nº3 - Cuidado cap](https://m.media-amazon.com/images/I/31-CMmU39zL._SL400_.jpg)](https://www.amazon.es/dp/B00SNM5US4/?tag=tolees-21)
 
 🔎:
 

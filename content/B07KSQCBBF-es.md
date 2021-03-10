@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Consuelo - cápsulas de café compatibles  al 0.00 % de descuento'
-date: 2021-02-20 21:17:59
-image: 'https://m.media-amazon.com/images/I/41Hrc7b5cPL._SL200_.jpg'
+date: 2021-03-10 08:44:41
+image: 'https://m.media-amazon.com/images/I/41Hrc7b5cPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Consuelo'
 buyurl: 'https://www.amazon.es/dp/B07KSQCBBF/?tag=tolees-21'
 descuento: '0.00'
-average: '13.9928571428571'
+average: '13.5588888888889'
 ---
 
 Ahora mismo tienes [Consuelo - cápsulas de café compatibles con Nespresso* - Intenso  100 cápsulas  10x10 ](https://www.amazon.es/dp/B07KSQCBBF/?tag=tolees-21) a 12.04 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Consuelo - cápsulas de café compatibles ](https://m.media-amazon.com/images/I/41Hrc7b5cPL._SL200_.jpg)](https://www.amazon.es/dp/B07KSQCBBF/?tag=tolees-21)
+[![Consuelo - cápsulas de café compatibles ](https://m.media-amazon.com/images/I/41Hrc7b5cPL._SL400_.jpg)](https://www.amazon.es/dp/B07KSQCBBF/?tag=tolees-21)
 
 🔎:
 
