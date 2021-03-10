@@ -29,9 +29,9 @@ Está [NIVEA MEN Active Clean - Champú de ducha para hombre  6 x 250 ml  gel de
 ℹ️:
 
 - Fórmula innovadora. La fórmula del champú refrescante está enriquecida con carbón activo natural, que absorbe las impurezas y limpia la piel sin secarla
+- Contenido del envío: champú de ducha Nivea Men Active Clean para hombre para cabello y cuerpo, 6 unidades de 250 ml, número de artículo: 84045
 - Acción revitalizante: este gel de ducha y champú para hombre se transforma en una suave espuma blanca que deja el cuerpo y el cabello revitalizados
 - Suave con la piel: el limpiador de ducha tiene una tolerancia cutánea probada dermatológicamente y un pH en equilibrio con el de la piel
-- Contenido del envío: champú de ducha Nivea Men Active Clean para hombre para cabello y cuerpo, 6 unidades de 250 ml, número de artículo: 84045
 - Todo en uno: este champú de ducha para hombre es muy práctico, ya que ha sido especialmente desarrollado para limpiar la cara, el cuerpo y el cabello
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07J6BRGDT/?tag=tolees-21)

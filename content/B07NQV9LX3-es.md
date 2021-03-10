@@ -28,10 +28,10 @@ En este momento está [Nescafé Dolce Gusto - Café con leche  pack de 6  6 x 16
 
 🔎:
 
-- 6 paquetes Dolce Gusto Café Au Lait con 16 Cápsulas para 16 porciones
-- Pruebe ahora el francés sensación de vida.
-- Vida como Dios en Francia con la clase café au Lait
 - Las cápsulas son exclusivamente para máquinas Nescafé Dolce Gusto adecuado
+- Pruebe ahora el francés sensación de vida.
+- 6 paquetes Dolce Gusto Café Au Lait con 16 Cápsulas para 16 porciones
 - Con su potente aroma y hermoso mucho de leche de sólo una cápsula es el café perfecto para los grandes desayuno taza
+- Vida como Dios en Francia con la clase café au Lait
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NQV9LX3/?tag=tolees-21)

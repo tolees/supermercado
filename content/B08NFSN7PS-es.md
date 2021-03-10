@@ -28,14 +28,14 @@ Ahora mismo tienes [Lázaro Pack Surtido De Hojaldres 1150G   300G Palmeras Boll
 
 🔎:
 
-- 1 blíster de palmeras bollo con azúcar glass, textura jugosa y sabor inigualable 300g
-- Instrucciones para su uso adecuado: Abrir la caja y degustar los productos
-- Advertencia de seguridad: Para todas las edades
 - 1 blíster de palmeras bollo cubiertas de magnifico chocolate y con virutas de chocolate blanco y textura jugosa 300g
-- Elaborados de forma artesanal, respetando las recetas tradicionales.
-- Cada producto viene en su envase para no mezclar aromas y sabores de unos a otros, esto le hará disfrutar de este pack mucho mejor, ademnas cada envase trae su tapadera para que pueda cerrarlo una vez abierto y mantener perfectamente sus características en el tiempo.
 - 1 blíster de palmeras artesanas de hojaldre de 250g
-- Pack surtido de blíster de hojaldres lázaro que contiene:
 - 1 blíster de lazos cubiertos de chocolate con virutas de chocolate blanco. 300g
+- Instrucciones para su uso adecuado: Abrir la caja y degustar los productos
+- Pack surtido de blíster de hojaldres lázaro que contiene:
+- Cada producto viene en su envase para no mezclar aromas y sabores de unos a otros, esto le hará disfrutar de este pack mucho mejor, ademnas cada envase trae su tapadera para que pueda cerrarlo una vez abierto y mantener perfectamente sus características en el tiempo.
+- Advertencia de seguridad: Para todas las edades
+- Elaborados de forma artesanal, respetando las recetas tradicionales.
+- 1 blíster de palmeras bollo con azúcar glass, textura jugosa y sabor inigualable 300g
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NFSN7PS/?tag=tolees-21)
