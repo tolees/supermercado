@@ -28,14 +28,14 @@ Está [Zumosol Néctar Premium Manzana  200 Mililitro](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Néctar de manzana en botellín de vidrio
-- Advertencia de seguridad: Situación del lote y la fecha de consumo preferente: Parte superior del envase
-- Almacenar en lugar fresco y seco
-- Especialidad: Apto para vegetarianos
-- Instrucciones para su uso adecuado: Agitar antes de usa
-- Una vez abierto, consumir completamente tan pronto como sea posible o guardar refrigerado y consumir en un máximo de 4 días
-- País de origen: españa
-- Ingredientes: Ingredientes: Agua, zumo de manzana a partir de concentrado de manzana (50%) azúcar, acidulante (ácido cítrico) estabilizador (pectina) y Vitamina C
 - Temperaturas superiores a 35 º c pueden causar deterioro organoléptico en el producto
+- Instrucciones para su uso adecuado: Agitar antes de usa
+- Especialidad: Apto para vegetarianos
+- Una vez abierto, consumir completamente tan pronto como sea posible o guardar refrigerado y consumir en un máximo de 4 días
+- Almacenar en lugar fresco y seco
+- Néctar de manzana en botellín de vidrio
+- Ingredientes: Ingredientes: Agua, zumo de manzana a partir de concentrado de manzana (50%) azúcar, acidulante (ácido cítrico) estabilizador (pectina) y Vitamina C
+- Advertencia de seguridad: Situación del lote y la fecha de consumo preferente: Parte superior del envase
+- País de origen: españa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PR1W9J1/?tag=tolees-21)

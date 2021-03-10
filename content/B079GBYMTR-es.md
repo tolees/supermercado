@@ -28,7 +28,7 @@ Tienes [GRANERO Tortitas DE ARROZ SIN Sal Bio 115 gr  No aplicable](https://www.
 
 🔎:
 
-- Los mejores productos para el hogar.
 - Paqueteage Dimensiones: 20.0 L x 20.0 H x 20.0 W (centimeters)
+- Los mejores productos para el hogar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079GBYMTR/?tag=tolees-21)
