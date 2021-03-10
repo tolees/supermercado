@@ -29,8 +29,8 @@ Está [Pato Active Clean 1+1 - Colgador wc  frescor intenso  perfuma limpia y de
 ℹ️:
 
 - Con la garantía de calidad de Pato y Johnson.
-- Con 4 veces más de espuma: limpia y desinfecta de forma integral
 - Limpia y desinfecta de forma integral
+- Con 4 veces más de espuma: limpia y desinfecta de forma integral
 - Limpia y deja una agradable fragancia
 - Acción completa para la higiene del inodoro
 

@@ -28,10 +28,10 @@ Tienes [Mom Love Ginebra Premium  700ml](https://www.amazon.es/dp/B07SHTJL4F/?ta
 
 🔎:
 
-- Acabado: Larga duración, suave.
 - perfecto como un regalo
+- Sabor: Suave, dulce, aromas de fresa.
 - Nariz: Frutal, veraniega, de bayas.
 - Color: Rosa claro.
-- Sabor: Suave, dulce, aromas de fresa.
+- Acabado: Larga duración, suave.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SHTJL4F/?tag=tolees-21)

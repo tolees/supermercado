@@ -28,8 +28,8 @@ Tienes [HARIBO Balla-Balla Negros  1 x 1000 gr](https://www.amazon.es/dp/B079ZGK
 
 ℹ️:
 
+- Geles dulces
 - Deliciosas piezas rellenas de un irresistible sabor a fresa y limón recubiertos de un intenso sabor a regaliz negro.
 - Irresistible mix de sabores.
-- Geles dulces
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079ZGKXZ5/?tag=tolees-21)

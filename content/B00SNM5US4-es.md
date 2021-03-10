@@ -28,7 +28,7 @@ Tienes [OLAPLEX Hair Perfector Nº3 - Cuidado capilar  100 ml](https://www.amazo
 
 🔎:
 
-- Use una vez por semana o según sea necesario.
 - El producto tiene un PAO (período después de la apertura) de 24 meses.
+- Use una vez por semana o según sea necesario.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00SNM5US4/?tag=tolees-21)
