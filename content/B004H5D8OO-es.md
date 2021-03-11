@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lip Smacker Lip Smacker Coca Cola Balm C con un 0.00 % de descuento'
-date: 2021-03-01 19:17:52
+date: 2021-03-11 16:07:10
 image: 'https://m.media-amazon.com/images/I/414l3feDpOL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [Lip Smacker Lip Smacker Coca Cola Balm Classic 4Gr - 1 Un
 
 🔎:
 
-- One Size
 - Lip Smacker Coca Cola Lip Balm, Classic
+- One Size
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004H5D8OO/?tag=tolees-21)

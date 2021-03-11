@@ -28,13 +28,13 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Select Cápsulas compatibles con 
 
 🔎:
 
-- Packaged in a protective atmosphere for freshness
-- Suitable for vegetarian and vegan diets
 - *Nespresso is not connected to Amazon
-- Organic Roast and Ground Coffee in Nespresso* Compatible Capsules. Not compatible with Nespresso Vertuo Machines
-- Strong, full bodied Strength Guide 5/5
 - Non EU Agriculture
 - Coffee from more than one country. Roasted and packed in Belgium
 - RAINFOREST ALLIANCE CERTIFIED: The coffee we source for this product is Rainforest Alliance Certified, meaning it doesn’t just taste good, it does good too. With every purchase, you’re helping hundreds of farmers and their families across the world, plus, doing your bit for the rainforest too – drink better, do better
+- Suitable for vegetarian and vegan diets
+- Organic Roast and Ground Coffee in Nespresso* Compatible Capsules. Not compatible with Nespresso Vertuo Machines
+- Packaged in a protective atmosphere for freshness
+- Strong, full bodied Strength Guide 5/5
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WPDMCWQ/?tag=tolees-21)
