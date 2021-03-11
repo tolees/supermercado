@@ -28,10 +28,10 @@ Ahora mismo tienes [Optimum Nutrition BCAA 5000 en Polvo  Suplementos Deportivos
 
 🔎:
 
-- 5 g de L-leucina, L-isoleucina y L-valina micronizadas: los tres BCAA esenciales en una proporción de 2:1:1
 - Una fuente crítica de BCAA que no puede producirla el organismo y sólo puede consumirse a través de una dieta definida
-- El primer polvo de aminoácidos de cadena ramificada (BCAA) totalmente instanciado y hecho a medida para mezclar de forma sencilla
 - Especialmente formulado como bebida pre workout y para consumirse durante la sesión de entrenamiento o en cualquier otro momento del día
+- 5 g de L-leucina, L-isoleucina y L-valina micronizadas: los tres BCAA esenciales en una proporción de 2:1:1
+- El primer polvo de aminoácidos de cadena ramificada (BCAA) totalmente instanciado y hecho a medida para mezclar de forma sencilla
 - Una gran concentración de aminoácidos por porción
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002DYIZIU/?tag=tolees-21)

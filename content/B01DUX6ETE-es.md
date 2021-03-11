@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nomen - Arroz Redondo Extra  500 gr al 0.00 % de descuento'
-date: 2021-03-10 15:15:46
+date: 2021-03-11 20:55:50
 image: 'https://m.media-amazon.com/images/I/41wc79659NL._SL400_.jpg'
 comments: true
 category: ofertas
