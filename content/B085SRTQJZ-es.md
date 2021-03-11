@@ -28,10 +28,10 @@ Tienes [Sanytol Limpiahogar - Limpiador Desinfectante  Elimina Bacterias y Malos
 
 ℹ️:
 
+- Limpia y desinfecta SIN LEJÍA tanto los suelos como superficies
 - Deja un agradable perfume a limpio
 - Puede utilizarse en todo tipo de superficies incluso delicadas como madera o mármol
-- No desprende vapores, no mancha la ropa y no daña las superficies (incluso parquet) y está testado dermatológicamente
 - Ideal para desinfectar incluso las zonas de bebés o mascotas
-- Limpia y desinfecta SIN LEJÍA tanto los suelos como superficies
+- No desprende vapores, no mancha la ropa y no daña las superficies (incluso parquet) y está testado dermatológicamente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085SRTQJZ/?tag=tolees-21)

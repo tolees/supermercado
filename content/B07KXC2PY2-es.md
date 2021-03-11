@@ -28,9 +28,9 @@ Ahora mismo tienes [Lactacyd Alcalino Ph 8 Higiene Íntima Externa Durante el Tr
 
 🔎:
 
-- Ayuda a calmar el picor, la escozor y la irritación
-- Enriquecido con extracto de Caléndula y Bisabolol; hipoalergénico
-- Formulado con un pH 8 alcalino suave
 - Higiene íntima externa durante el tratamiento de las infecciones vaginales por hongos
+- Formulado con un pH 8 alcalino suave
+- Enriquecido con extracto de Caléndula y Bisabolol; hipoalergénico
+- Ayuda a calmar el picor, la escozor y la irritación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KXC2PY2/?tag=tolees-21)

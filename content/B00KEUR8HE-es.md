@@ -28,8 +28,8 @@ En este momento está [Friskies - Shapes Snack Perro  800 g](https://www.amazon.
 
 🔎:
 
-- Calidad adecuada de la comida garantizada por el fabricante
 - Ayuda a mantener la producción natural de anticuerpos de tu gato y mantiene la piel y el pelaje saludables
+- Calidad adecuada de la comida garantizada por el fabricante
 - Sin colorantes añadidos, sin aromatizantes artificiales añadidos ni conservantes artificiales añadidos
 - 100% completo y equilibrado
 

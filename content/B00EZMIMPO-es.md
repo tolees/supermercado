@@ -29,9 +29,9 @@ Tienes [Renova Rollo de Cocina Gigarollo Ecológico - 1 Gigarrollo Equivalente a
 ℹ️:
 
 - 2 capas extra absorbentes
-- Papel de cocina y multiusos blanco
+- 100% papel reciclado Certificado con la Etiqueta Ecológica Europea
 - Gigarrollo
 - Equivalente a 10 Rollos de Cocina
-- 100% papel reciclado Certificado con la Etiqueta Ecológica Europea
+- Papel de cocina y multiusos blanco
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00EZMIMPO/?tag=tolees-21)
