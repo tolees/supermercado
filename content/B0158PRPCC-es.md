@@ -28,9 +28,9 @@ En este momento está [Godiva  Connoisseur bombones surtidos chocolate negro 18 
 
 🔎:
 
-- ¿También le encanta el chocolate con leche? Pruebe la caja Milk Connoisseur
-- Marca: Godiva
 - Una gran introducción en el mundo de Godiva
 - La caja Dark Connoisseur le transporta a un viaje por el lado oscuro del chocolate; contiene 18 exquisitas piezas del mejor chocolate negro que podemos ofrecer
+- Marca: Godiva
+- ¿También le encanta el chocolate con leche? Pruebe la caja Milk Connoisseur
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0158PRPCC/?tag=tolees-21)
