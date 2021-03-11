@@ -28,11 +28,11 @@ Ahora mismo tienes [Jameson Black Barrel Whisky Irlandés - 700 ml](https://www.
 
 🔎:
 
-- Se recomienda su consumo en cócteles y sólo, sin hielo o con hielo
-- El whiskey que sale de las barricas de jerez añade un sabor afrutado
-- Destacan olores a caramelo y crema, notas a pimienta procedente de los alambiques y a suculentas frutas maduras como nectarinas, albaricoques y manzanas de las barricas de jerez
-- El sabor es intenso especialmente por los barriles carbonizados por lo que tienen un sabor especiado más concentrado,con notas de avellanas y vainilla
 - Barricas cuidadosamente seleccionadas, cuyo interior pasa por un proceso de carbonizado profundo, que es imprescindible para conseguir nuestro Black Barrel
+- El sabor es intenso especialmente por los barriles carbonizados por lo que tienen un sabor especiado más concentrado,con notas de avellanas y vainilla
+- Destacan olores a caramelo y crema, notas a pimienta procedente de los alambiques y a suculentas frutas maduras como nectarinas, albaricoques y manzanas de las barricas de jerez
+- El whiskey que sale de las barricas de jerez añade un sabor afrutado
 - Jameson Black Barrel es una mezcla triple destilada de whiskey madurado y mezclado en barricas de jerez y de bourbon, hechas con roble americano quemadas por dentro
+- Se recomienda su consumo en cócteles y sólo, sin hielo o con hielo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008HP9F7Y/?tag=tolees-21)
