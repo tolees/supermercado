@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Legado Ibérico Jamón de Pavo con Trufa y al 0.00 % de descuento'
-date: 2021-03-09 22:16:12
+date: 2021-03-11 04:45:45
 image: 'https://m.media-amazon.com/images/I/41tv4QjMYzL._SL400_.jpg'
 comments: true
 category: ofertas
