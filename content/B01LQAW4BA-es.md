@@ -28,8 +28,8 @@ Tienes [Dani Cúrcuma Molida  45 g](https://www.amazon.es/dp/B01LQAW4BA/?tag=tol
 
 🔎:
 
-- Se utiliza en platos de judías, arroces, carnes y pescado; también se utiliza como colorante natural en salsas y sofritos
 - Aporta sabor dulzón, ligeramente picante y amargo muy utilizado en la cocina oriental; es un ingrediente esencial del curry
 - Con tapón dosificador
+- Se utiliza en platos de judías, arroces, carnes y pescado; también se utiliza como colorante natural en salsas y sofritos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LQAW4BA/?tag=tolees-21)

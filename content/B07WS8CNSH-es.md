@@ -28,10 +28,10 @@ En este momento está [Marca Amazon - Happy Belly Select Café molido de tueste 
 
 🔎:
 
-- Suave, dulce y agradablemente ácido Intensidad 3/5
-- Café molido de tueste natural ecológico
+- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
 - Agricultura no UE
 - Café de más de un país. Tostado y envasado en Bélgica
-- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
+- Café molido de tueste natural ecológico
+- Suave, dulce y agradablemente ácido Intensidad 3/5
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WS8CNSH/?tag=tolees-21)
