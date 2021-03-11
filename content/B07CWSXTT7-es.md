@@ -28,9 +28,9 @@ Ahora mismo tienes [Chocolate Amatller - Chocolates variados en Cesta Regalo 230
 
 🔎:
 
-- Marca histórica de Barcelona, desde 1797.
-- Sin gluten. Sin aceite de palma.
 - Ideal para regalar. Detalles con clase.
+- Sin gluten. Sin aceite de palma.
+- Marca histórica de Barcelona, desde 1797.
 - Elaboración con ingredientes de calidad y producción bean to bar, desde el haba de cacao.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CWSXTT7/?tag=tolees-21)

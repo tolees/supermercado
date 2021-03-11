@@ -28,10 +28,10 @@ Tienes [Cuca Navajas al Natural  120g](https://www.amazon.es/dp/B01DUWZ5HM/?tag=
 
 ℹ️:
 
-- Producto mariscado, procesado y envasado sin interrupciones, para conservar la frescura el sabor
-- Peso neto de 120 g, Peso escurrido 65 Capacidad 125 ml
-- Seleccionadas sabor
 - Seleccionadas en fresco
+- Seleccionadas sabor
+- Producto mariscado, procesado y envasado sin interrupciones, para conservar la frescura el sabor
 - No contiene gluten ni lactosa
+- Peso neto de 120 g, Peso escurrido 65 Capacidad 125 ml
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DUWZ5HM/?tag=tolees-21)
