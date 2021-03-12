@@ -29,8 +29,8 @@ En este momento está [GRANELL CAFES-1940 - Granell - Surtido de Té  Caja Te Pi
 🔎:
 
 - Té Calidad Premium: los tés de Café Granell están realizados con ingredientes naturales seleccionados para obtener el mejor aroma y el sabor más intenso
-- Té Verde: contiene té verde gunpowder (90%) con hierbabuena (10%) | Rooibos Canela y Naranja: rooibos (90%), trozos de canela (5%), cáscara de naranja (4%), azahar (1%)
 - Té Pirámides: el formato en pirámides de esta variedad de té hacen que el sabor sea más intenso, ya que las hojas se expanden mejor
+- Té Verde: contiene té verde gunpowder (90%) con hierbabuena (10%) | Rooibos Canela y Naranja: rooibos (90%), trozos de canela (5%), cáscara de naranja (4%), azahar (1%)
 - Té Negro: té negro (90%) aromatizado con bergamota y pétalos de aciano | Té Rojo: contiene Té rojo Pu Erh (95%), aromatizado con trozos de regaliz (5%)
 - Surtido de Tés: en esta caja té encontrarás 4 variedades de té diferentes de la mejor calidad | Caja Regalo: 100 Pirámides, 25 unidades por Lata
 
