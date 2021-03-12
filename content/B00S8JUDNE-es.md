@@ -28,10 +28,10 @@ En este momento está [The Primal Pantry Barritas  Avellanas y Cacao  - sin azú
 
 🔎:
 
-- ✔️ SIN AZÚCAR AGREGADO
 - ✔️ Solo 3-5 ingredientes por receta
 - ✔️ Barritas Energeticas Ciclismo
-- ✔️ Sin Gluten, Sin Lácteos, Vegano, Paleo, Sin Aceite de Palma,
 - ✔️ COMIDA 100% REAL
+- ✔️ SIN AZÚCAR AGREGADO
+- ✔️ Sin Gluten, Sin Lácteos, Vegano, Paleo, Sin Aceite de Palma,
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00S8JUDNE/?tag=tolees-21)

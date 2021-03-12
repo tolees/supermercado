@@ -28,8 +28,8 @@ Está [Dixan Detergente Líquido Adiós Al Separar 75 Lavados - Pack de 3  Total
 
 ℹ️:
 
-- Olor fresco y duradero, gracias a su tecnología exclusiva que mantiene la ropa fresca incluso tras 12h dentro de la lavadora
 - Ayuda a prevenir la transferencia de colores de una prenda a otra
+- Olor fresco y duradero, gracias a su tecnología exclusiva que mantiene la ropa fresca incluso tras 12h dentro de la lavadora
 - Gran poder en eliminación de manchas
 - Luminosidad para toda la ropa: blancos y colores
 
