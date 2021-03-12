@@ -28,10 +28,10 @@ En este momento está [Garnier Bio  Crema en Gel Multi-Reparadora con Aceite de 
 
 🔎:
 
-- Contenido: 1 x Crema en Gel Multi-Reparadora con Aceite de Semillas de Cáñamo Ecológico y Vitamina E Garnier Bio, 50 ml
-- Restaura la piel estresada en 5 días, Calma la piel, Hidrata, Rellena líneas de expresión
-- Crema en gel con aceite de semillas de cáñamo para combatir los signos de agresiones externas, contaminación, falta de sueño de tu piel
-- Fórmula enriquecida con aceite de semillas de cáñamo, Rica en ácidos grasos, omega 3 y 6 y vitamina E, Certificado Ecológico Cosmos de Ecocert Greenlife
 - Aplicar dos veces al día sobre el rostro limpio y seco, Para un ritual desestresante aplicar mediante pequeños toquecitos con los dedos
+- Restaura la piel estresada en 5 días, Calma la piel, Hidrata, Rellena líneas de expresión
+- Contenido: 1 x Crema en Gel Multi-Reparadora con Aceite de Semillas de Cáñamo Ecológico y Vitamina E Garnier Bio, 50 ml
+- Fórmula enriquecida con aceite de semillas de cáñamo, Rica en ácidos grasos, omega 3 y 6 y vitamina E, Certificado Ecológico Cosmos de Ecocert Greenlife
+- Crema en gel con aceite de semillas de cáñamo para combatir los signos de agresiones externas, contaminación, falta de sueño de tu piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08G97ZV3M/?tag=tolees-21)

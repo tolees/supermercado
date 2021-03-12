@@ -28,10 +28,10 @@ Ahora mismo tienes [Garnier BIO Esponja Exfoliante Limpiadora de Konjac Natural 
 
 🔎:
 
-- Fabricada al 100% con raíz de Konjac natural, una planta del sudeste asiático cuyas fibras ayudan a purificar y equilibrar la piel
-- Ejerce una suave acción exfoliante y limpia en profundidad la piel del rostro, sobre todo en combinación con el Gel Lemongrass de la misma gama
 - Fórmula vegana, sin ingredientes o subproductos de origen animal; testado dermatológicamente y en pieles sensibles
+- Fabricada al 100% con raíz de Konjac natural, una planta del sudeste asiático cuyas fibras ayudan a purificar y equilibrar la piel
 - Esponja exfoliante limpiadora para rostro, apta para todo tipo de pieles, incluso las más sensibles
 - Certificado Ecológico Cosmos de Ecocert Greenlife; el 100% del total de ingredientes de nuestra esponja Konjac son de origen natural
+- Ejerce una suave acción exfoliante y limpia en profundidad la piel del rostro, sobre todo en combinación con el Gel Lemongrass de la misma gama
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MWQFDCT/?tag=tolees-21)
