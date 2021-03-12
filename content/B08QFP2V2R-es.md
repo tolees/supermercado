@@ -28,9 +28,9 @@ Ahora mismo tienes [ADVANCE Sensitive Mini - Pienso para Perros de Razas Pequeñ
 
 🔎:
 
-- Ideal para jogging o running
-- Ajustable alrededor de la cadera y extensible
 - MONOPROTEÍNA. Salmón como única fuente de proteína animal para perros con sensibilidad digestiva.
 - ADVANCE Sensitive Mini es un alimento de alta gama mente indicado para perros adultos de razas pequeñas (hasta 10 kg) con sensibilidad digestiva.
+- Ideal para jogging o running
+- Ajustable alrededor de la cadera y extensible
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08QFP2V2R/?tag=tolees-21)

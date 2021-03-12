@@ -28,8 +28,8 @@ Tienes [Tognana Recipiente para Café Casa Dolce Casa](https://www.amazon.es/dp/
 
 🔎:
 
+- Medida: 10X17 cm
 - Cerradura Metálica de Clic
 - Recipiente para café de porcelana
-- Medida: 10X17 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B008OW2X9W/?tag=tolees-21)
