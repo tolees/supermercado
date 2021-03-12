@@ -28,10 +28,10 @@ Tienes [Nakd Berry Delight - Barritas de Fruta y Frutos Secos con Frambuesas - S
 
 🔎:
 
-- Sin gluten, sin lactosa y aptas para veganos
 - Snack natural perfecto para tomar entre horas, en el trabajo, antes de ir al gimnasio o de viaje
-- Sus ingredientes son dátiles (49%), anacardos (31%), uvas pasas (17%), frambuesas (3%), aromas naturales, ¡y nada más!
 - Barritas 100% naturales elaboradas (¡de verdad!) solo con fruta y frutos secos
+- Sus ingredientes son dátiles (49%), anacardos (31%), uvas pasas (17%), frambuesas (3%), aromas naturales, ¡y nada más!
+- Sin gluten, sin lactosa y aptas para veganos
 - Sin azúcar añadido ni tampoco edulcorantes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0857HQ9BR/?tag=tolees-21)
