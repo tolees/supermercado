@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BESLAN SL - SOTYA Batido Sabor Chocolate con un 0.00 % de descuento'
-date: 2021-03-11 03:39:48
+date: 2021-03-12 04:07:33
 image: 'https://m.media-amazon.com/images/I/41LSnT9UqcL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BESLAN SL'
 buyurl: 'https://www.amazon.es/dp/B00PYACF68/?tag=tolees-21'
 descuento: '0.00'
-average: '8.12410256410257'
+average: '8.12195121951219'
 ---
 
 En este momento está [BESLAN SL - SOTYA Batido Sabor Chocolate Blanco 700 gr](https://www.amazon.es/dp/B00PYACF68/?tag=tolees-21) a 8.08 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
