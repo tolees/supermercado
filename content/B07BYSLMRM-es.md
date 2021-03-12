@@ -29,7 +29,7 @@ Ahora mismo tienes [Purina Juego 8 One Gato Croccantini 800 Urinary Pollo Comid
 🔎:
 
 - Tamaño: 40 x 35 x 20 cm
-- El mejor comida para tu gato
 - Composición principal: carne
+- El mejor comida para tu gato
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BYSLMRM/?tag=tolees-21)
