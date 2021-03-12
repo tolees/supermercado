@@ -28,10 +28,10 @@ Ahora mismo tienes [EL PALADAR JAMONERIA & DELICATESSEN - Cesta de Navidad - Lot
 
 🔎:
 
-- ✅ Este regalo contiene: Sobre Paleta Ibérica 100 g. Vino T. Adhuc Tempus roble 75 cl. Picos Rústicos premium 130 g. Bandeja pequeña kraft ⭐️
-- ✅ Que mejor forma de felicitar a los tuyos con un pequeño detalle, os presentamos nuestro nuevo regalo para estas Navidades 2019.
-- Ideal para regalar estas navidades 2019 🎁 pequeño lote de Navidad en la que incluye una botella de vino Tinto.
 - ✅ Cada año trabajamos para poder ofrecer nuevas y originales cestas de navidad y lotes de empresa elaborados con productos de primera calidad. Encontrarás gran variedad de regalos gourmet y lotes navideños tanto para particulares como para empresas.
 - ✅ (La empresa distribuidora se reserva el derecho de modificar cualquier producto por otro de las mismas características y precio.)
+- ✅ Este regalo contiene: Sobre Paleta Ibérica 100 g. Vino T. Adhuc Tempus roble 75 cl. Picos Rústicos premium 130 g. Bandeja pequeña kraft ⭐️
+- Ideal para regalar estas navidades 2019 🎁 pequeño lote de Navidad en la que incluye una botella de vino Tinto.
+- ✅ Que mejor forma de felicitar a los tuyos con un pequeño detalle, os presentamos nuestro nuevo regalo para estas Navidades 2019.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082SWGSTN/?tag=tolees-21)
