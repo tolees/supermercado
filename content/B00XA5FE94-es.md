@@ -28,8 +28,8 @@ Tienes [Central Lechera Asturiana - Leche en polvo - Desnatada - 1 kg](https://w
 
 🔎:
 
-- Fuente de proteína láctea
 - Recomendada para lactantes menores de 12 meses
+- Fuente de proteína láctea
 - Leche desnatada en polvo
 - Sustituto de leche líquida descremada
 
