@@ -28,9 +28,9 @@ Tienes [Harry Bear Pijamas para niñas Lindo como una Magdalena Ajuste Ceñido A
 
 🔎:
 
-- ¡A Harry Bear le encanta hacer pijamas para hibernar!
-- Hecha de algodón suave
 - ¡El detalle final es un pequeño lazo diseñado por Harry Bear!
+- Hecha de algodón suave
+- ¡A Harry Bear le encanta hacer pijamas para hibernar!
 - Pijama de calidad Premium para niños
 - Fabricada con un ajuste cómodo, sin embargo, Harry Bear recomienda ordenar una talla más grande para espacio extra.
 

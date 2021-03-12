@@ -28,10 +28,10 @@ Está [Almo Nature Dog HFC Cuisine Vacuno  Patata y Guisantes - Paquete de 12 x 
 
 ℹ️:
 
-- Toda la gama HFC Cuisine se elabora con ingredientes de alta calidad y originalmente aptos para el consumo humano (Human Food Consume)
-- País de origen: Italia.
 - Para los paladares más exquisitos.
 - Todas las elaboraciones están conservadas en su propio caldo para preservar todos los micronutrientes.
 - Ideal para una dieta equilibrada.
+- País de origen: Italia.
+- Toda la gama HFC Cuisine se elabora con ingredientes de alta calidad y originalmente aptos para el consumo humano (Human Food Consume)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071ZSL6QZ/?tag=tolees-21)
