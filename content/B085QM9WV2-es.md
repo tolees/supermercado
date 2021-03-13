@@ -28,10 +28,10 @@ Ahora mismo tienes [Cola Cao Mocca Café & Cacao  270g](https://www.amazon.es/dp
 
 🔎:
 
-- Selección de café y ColaCao; sin azúcares añadidos. 1 taza de ColaCao Mocca contiene la misma cafeína que un café soluble
-- Alérgenos: contiene leche, trigo y soja; mantener en lugar fresco y seco
-- El placer de tomar un ColaCao con un toque de café; disfrútalo en caliente para empezar bien el día, o en frío para saborear los deliciosos grumitos de ColaCao Mocca con cafeína
-- Con cacao certificado UTZ; colaCao apoya el cultivo sostenible de cacao; los agricultores certificados por UTZ implementan mejores prácticas agrícolas, con respeto a la gente y al planeta
 - 18 raciones en su envase zip autocierre de 270 gramos
+- Selección de café y ColaCao; sin azúcares añadidos. 1 taza de ColaCao Mocca contiene la misma cafeína que un café soluble
+- Con cacao certificado UTZ; colaCao apoya el cultivo sostenible de cacao; los agricultores certificados por UTZ implementan mejores prácticas agrícolas, con respeto a la gente y al planeta
+- El placer de tomar un ColaCao con un toque de café; disfrútalo en caliente para empezar bien el día, o en frío para saborear los deliciosos grumitos de ColaCao Mocca con cafeína
+- Alérgenos: contiene leche, trigo y soja; mantener en lugar fresco y seco
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085QM9WV2/?tag=tolees-21)
