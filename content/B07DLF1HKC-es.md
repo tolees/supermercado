@@ -28,7 +28,7 @@ Está [EL PALADAR JAMONERIA & DELICATESSEN - Pack Conservas Gourmet Pack  sardin
 
 ℹ️:
 
-- ✅ Packs!!! Hemos creado este delicioso pack de conservas Ortiz. - Sardinas a la Antigua Ortiz lata 140g - Bonito del Norte Frito Escabeche Ortiz Ro-212 190g - Huevas de Caballa Ortiz Lata 110g - Atún Claro Ol-120 Eco Ortiz - Bonito del Norte en Aceite de Oliva "Reserva de Familia"
 - ✅ (La empresa distribuidora se reserva el derecho de modificar cualquier producto por otro de las mismas características y precio.)
+- ✅ Packs!!! Hemos creado este delicioso pack de conservas Ortiz. - Sardinas a la Antigua Ortiz lata 140g - Bonito del Norte Frito Escabeche Ortiz Ro-212 190g - Huevas de Caballa Ortiz Lata 110g - Atún Claro Ol-120 Eco Ortiz - Bonito del Norte en Aceite de Oliva "Reserva de Familia"
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DLF1HKC/?tag=tolees-21)
