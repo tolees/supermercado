@@ -28,11 +28,11 @@ Tienes [Ariel Pods Allin1 Detergente en Cápsulas para Lavadora  Original  114 L
 
 🔎:
 
-- Limpieza profunda e higiene
-- Eficaz en frío (incluso a 30ºC)
 - Iluminador
-- Fragancia intensa
+- Eficaz en frío (incluso a 30ºC)
+- Limpieza profunda e higiene
 - Resultados increíbles en una sola cápsula (detergente concentrado)
+- Fragancia intensa
 - Quitamanchas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0751HV9WQ/?tag=tolees-21)
