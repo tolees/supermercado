@@ -30,8 +30,8 @@ En este momento está [YMing Velas Aromática  Juego de 4 Piezas 5.65Oz Velas Pe
 
 - Cada vela votiva es de 5.65 oz y se quema durante 20-25 horas. Tamaño: Diámetro 2 "x 3 H
 - ECOLÓGICO 100% SOJA: estas velas están hechas con cera de soja pura, naturalmente biodegradable y ecológica.
-- Set de regalo ideal: el set de relajación ideal para cumpleaños, Navidad, aniversarios, días de la madre y del padre u otras fiestas que deleitarán a personas de todas las edades.
-- El diseño del hada de las flores te trae la maravillosa sensación de Alicia en el país de las maravillas.
 - El set de regalo de velas de aromaterapia incluye 4 fragancias: Gardenia, lavanda, jazmín y vainilla. Una vela portátil de estaño, que se puede sellar y llevar a donde quiera que vaya.
+- El diseño del hada de las flores te trae la maravillosa sensación de Alicia en el país de las maravillas.
+- Set de regalo ideal: el set de relajación ideal para cumpleaños, Navidad, aniversarios, días de la madre y del padre u otras fiestas que deleitarán a personas de todas las edades.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WJGJ468/?tag=tolees-21)
