@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana Cápsulas de Le al 0.00 % de descuento'
-date: 2021-03-12 10:13:33
+date: 2021-03-13 11:20:19
 image: 'https://m.media-amazon.com/images/I/51InOZAqDLL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Central Lechera Asturiana'
 buyurl: 'https://www.amazon.es/dp/B07BN2Q7WY/?tag=tolees-21'
 descuento: '0.00'
-average: '13.3290566037736'
+average: '13.3856928838951'
 ---
 
 Ahora mismo tienes [Central Lechera Asturiana Cápsulas de Leche Semidesnatada  4 x 16 cápsulas](https://www.amazon.es/dp/B07BN2Q7WY/?tag=tolees-21) a 20.89 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
