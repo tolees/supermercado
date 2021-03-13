@@ -28,9 +28,9 @@ Tienes [Vidal Bananas Azúcar Golosina - 1500 gr](https://www.amazon.es/dp/B00XA
 
 🔎:
 
-- Golosinas en forma de banana. auténtico sabor a plátano con una dulce cobertura de azúcar
-- Producto sin gluten apto para celíacos
-- Libre de: frutos secos, soja, leche y derivados
 - Formato: bolsa 250 uds
+- Golosinas en forma de banana. auténtico sabor a plátano con una dulce cobertura de azúcar
+- Libre de: frutos secos, soja, leche y derivados
+- Producto sin gluten apto para celíacos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XAPA9PI/?tag=tolees-21)

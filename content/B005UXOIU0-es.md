@@ -28,10 +28,10 @@ Tienes [Tanqueray Rangpur Ginebra  700ml](https://www.amazon.es/dp/B005UXOIU0/?t
 
 ℹ️:
 
-- Ginebra Tanqueray con rangpur, un cítrico exótico de la India
-- Un regalo delicioso para los amantes de la London Dry Gin de Tanqueray
-- Servir con tónica, cubitos de hielo y una rodaja de lima
-- Una ginebra Tanqueray peculiar destilada con cuatro plantas, fruta rangpur cítrica, jengibre y hojas de laurel
 - Una ginebra con sabor equilibrado e intenso
+- Una ginebra Tanqueray peculiar destilada con cuatro plantas, fruta rangpur cítrica, jengibre y hojas de laurel
+- Servir con tónica, cubitos de hielo y una rodaja de lima
+- Un regalo delicioso para los amantes de la London Dry Gin de Tanqueray
+- Ginebra Tanqueray con rangpur, un cítrico exótico de la India
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005UXOIU0/?tag=tolees-21)
