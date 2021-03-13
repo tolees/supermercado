@@ -28,10 +28,10 @@ Ahora mismo tienes [Pasta Konjac Fettucine sin gluten - pasta hipocalórica - Sl
 
 🔎:
 
-- 100% vegetal
-- Proveniente de agricultura ecológica
-- Alto contenido en fibra
 - Pasta hipocalórica, baja en grasas
 - Certificado sin gluten
+- Alto contenido en fibra
+- Proveniente de agricultura ecológica
+- 100% vegetal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WLNBSTY/?tag=tolees-21)
