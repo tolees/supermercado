@@ -28,10 +28,10 @@ En este momento está [Note d Espresso - Cápsulas Leche  Exclusivamente Compati
 
 🔎:
 
-- El delicioso sabor y aroma del leche en una pequeña cápsula de 13 gramos
-- Practical pack of 48 capsules
 - Hechos en Italia
-- Dosis recomendada de agua 200 ml
+- Practical pack of 48 capsules
+- El delicioso sabor y aroma del leche en una pequeña cápsula de 13 gramos
 - Exclusivamente Compatibles con cafeteras de cápsulas Nescafé* y Dolce Gusto* (* No registrado en Amazon EU S.a.r.l.)
+- Dosis recomendada de agua 200 ml
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WXLN8LF/?tag=tolees-21)
