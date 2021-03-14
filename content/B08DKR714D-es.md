@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanytol - Eco Recarga de Jabón de Manos  al 0.00 % de rebaja'
-date: 2021-03-12 09:16:49
+date: 2021-03-14 20:05:16
 image: 'https://m.media-amazon.com/images/I/417Cr1TVyOL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Sanytol - Eco Recarga de Jabón de Manos de Cocina con Protección Total
 
 🔎:
 
+- Complejo anti malos olores de la comida (ajo, cebolla, pescado…)
 - Preserva la hidratación natural de la piel gracias a un rico complejo lipídico similar al que conforma la estructura de nuestra epidermis;Fórmula probada dermatológica y clínicamente
 - Deja las manos limpias, suaves, nutridas y delicadamente perfumadas
 - Eco Recarga de jabón de manos de cocina con protección total contra agentes externos, con un 83% menos de plástico
-- Complejo anti malos olores de la comida (ajo, cebolla, pescado…)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DKR714D/?tag=tolees-21)
