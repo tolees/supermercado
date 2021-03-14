@@ -28,11 +28,11 @@ Ahora mismo tienes [Nestlé Papilla 8 Cereales con Miel  Alimento para Bebés  6
 
 🔎:
 
-- Con Hierro, Zinc y vitaminas A y C, que ayudan a la función normal del sistema inmunitario.
+- Papilla de 8 cereales NESTLÉ con un delicioso sabor a miel que le encantará a tu bebé.
+- Cereales infantiles de fácil disolución, sin grumos.
 - Sin aceite de palma.
 - Con Bífidus BL y Hierro+, que contribuye a su desarrollo cognitivo normal.
-- Cereales infantiles de fácil disolución, sin grumos.
-- Papilla de 8 cereales NESTLÉ con un delicioso sabor a miel que le encantará a tu bebé.
+- Con Hierro, Zinc y vitaminas A y C, que ayudan a la función normal del sistema inmunitario.
 - Papillas elaboradas a partir de cereales 100% naturales, seleccionados especialmente para la alimentación infantil.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00ISP3H7M/?tag=tolees-21)
