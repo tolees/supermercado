@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Lactacyd Pharma Hidratante 250 ml al 8.91 % de descuento'
-date: 2020-01-30 15:27:27
-image: 'https://m.media-amazon.com/images/I/41s3MM+EPPL._AC_._SL400_.jpg'
+title: 'Lactacyd Pharma Hidratante - Protege y m al 39.74 % de descuento'
+date: 2021-03-14 11:03:02
+image: 'https://m.media-amazon.com/images/I/41s3MM+EPPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NGKGL36-es Lactacyd Pharma Hidratante 250 ml'
+slug: 'B00NGKGL36-es Lactacyd Pharma Hidratante - Protege y mejora la...'
 sku: 'B00NGKGL36-es'
 tags: [ 'lactacyd', ]
-actualPrice: 10.43 EUR
+actualPrice: 6.9 EUR
 currency: EUR
-price: 10.43
+price: 6.9
 comparePrice: 11.45 EUR
-prodname: 'Lactacyd Pharma Hidratante 250 ml'
+prodname: 'Lactacyd Pharma Hidratante - Protege y mejora la hidratación intima diaria  enriquecido con complejo hidratante L2G  óptimo para contra la sequedad íntima o en la menopausia  250 ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'LACTACYD'
 buyurl: 'https://www.amazon.es/dp/B00NGKGL36/?tag=tolees-21'
-descuento: '8.91'
-average: '10.43'
+descuento: '39.74'
+average: '8.07666666666667'
 ---
 
-Está [Lactacyd Pharma Hidratante 250 ml](https://www.amazon.es/dp/B00NGKGL36/?tag=tolees-21) con 8.91 de descuento por 10.43 EUR (original: 11.45 EUR) en el siguiente enlace!
+Está [Lactacyd Pharma Hidratante - Protege y mejora la hidratación intima diaria  enriquecido con complejo hidratante L2G  óptimo para contra la sequedad íntima o en la menopausia  250 ml](https://www.amazon.es/dp/B00NGKGL36/?tag=tolees-21) con 39.74 de descuento por 6.9 EUR (original: 11.45 EUR) en el siguiente enlace!
 
-[![Lactacyd Pharma Hidratante 250 ml](https://m.media-amazon.com/images/I/41s3MM+EPPL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00NGKGL36/?tag=tolees-21)
+[![Lactacyd Pharma Hidratante - Protege y m](https://m.media-amazon.com/images/I/41s3MM+EPPL._SL400_.jpg)](https://www.amazon.es/dp/B00NGKGL36/?tag=tolees-21)
 
 ℹ️:
 
+- *Donación válida del 14 de octubre de 2019 hasta el 20 de octubre de 2019 en los pedidos Vendidos y enviados por Amazon.
+- +24% hidratación
+- Descripción detallada más abajo.
+- Formulado con Ácido L-Láctico biológico (pH=3.5). Enriquecido con complejo L2Gtm hidratante. Sin jabón. Dermatológicamente testado
+- Formato 250ml
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00NGKGL36/?tag=tolees-21)

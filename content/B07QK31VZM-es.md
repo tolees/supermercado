@@ -28,8 +28,8 @@ Está [Dulcesol Red Velvet - 175 gr](https://www.amazon.es/dp/B07QK31VZM/?tag=to
 
 ℹ️:
 
+- Dulcesol brand
 - Red Velvet Biscuit
 - Pastry and pastry product
-- Dulcesol brand
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QK31VZM/?tag=tolees-21)
