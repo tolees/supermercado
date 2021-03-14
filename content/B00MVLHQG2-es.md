@@ -28,9 +28,9 @@ Ahora mismo tienes [L Oreal Paris Make-up Designer - L Oréal Color Riche  Pinta
 
 🔎:
 
-- Deja los labios suaves y sedosos
 - Hidrata en profundidad y nutre intensamente
-- Ofrece un acabado mate
+- Deja los labios suaves y sedosos
 - Combinación de pigmentos ultra intensos y aceite de jojoba
+- Ofrece un acabado mate
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00MVLHQG2/?tag=tolees-21)

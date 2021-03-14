@@ -28,10 +28,10 @@ Tienes [Colgate Kit Total Original  Pasta de Dientes - Pack de 4 uds x 75ml + 1 
 
 🔎:
 
-- La pasta de dientes garantiza una protección eficaz y duradera frente a la sensibilidad al sellar los pequeños orificios de la dentina expuesta
-- 12 horas de protección en dientes, lengua, mejillas y encías
-- Ayuda a reparar y remineralizar el esmalte debilitado y protege los dientes de los azúcares y de los alimentos ácidos
-- Reduce las manchas de la superficie para mejorar el efecto blanqueador
 - Combate activamente las bacterias para reducir en mayor medida la placa, la gingivitis y la formación de sarro
+- La pasta de dientes garantiza una protección eficaz y duradera frente a la sensibilidad al sellar los pequeños orificios de la dentina expuesta
+- Reduce las manchas de la superficie para mejorar el efecto blanqueador
+- Ayuda a reparar y remineralizar el esmalte debilitado y protege los dientes de los azúcares y de los alimentos ácidos
+- 12 horas de protección en dientes, lengua, mejillas y encías
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08T6XXV4D/?tag=tolees-21)
