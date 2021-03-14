@@ -28,9 +28,9 @@ Está [Buratti Confetti Tenerezze Almendras Extra Oscuras Recubiertas De Chocola
 
 ℹ️:
 
-- Hecho con ingredientes de alta calidad
 - Hacemos que cada momento de su vida sea único e inolvidable
-- Perfecto para compartir con amigos y familiares
 - Grageas con corazones de chocolate derretido
+- Hecho con ingredientes de alta calidad
+- Perfecto para compartir con amigos y familiares
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075LDHP1K/?tag=tolees-21)
