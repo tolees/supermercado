@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AIST - 3 unidades  3 x 140 g  de jabón d con un 0.00 % de descuento'
-date: 2021-03-12 22:36:04
+date: 2021-03-14 04:41:28
 image: 'https://m.media-amazon.com/images/I/41fw9MkYjsL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [AIST - 3 unidades  3 x 140 g  de jabón de alquitrán con
 
 🔎:
 
-- La impresión es la fecha de fabricación. !
 - 3 jabones de abedul de 140 gramos cada uno.
 - Jabón de té de abedul.
+- La impresión es la fecha de fabricación. !
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NJ9X18G/?tag=tolees-21)
