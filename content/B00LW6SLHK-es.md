@@ -29,7 +29,7 @@ Está [Dove jabón crema Sensitive Hypoallergenic jabón](https://www.amazon.es/
 ℹ️:
 
 - Set de regalo Dove
-- Set de regalo Perfumería Unisex Adulto
 - (8711700728607)
+- Set de regalo Perfumería Unisex Adulto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00LW6SLHK/?tag=tolees-21)

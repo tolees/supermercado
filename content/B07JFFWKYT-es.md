@@ -28,10 +28,10 @@ Ahora mismo tienes [Deliex delicias de Extremadura - Cesta Gourmet Deliex con Vi
 
 🔎:
 
-- vino tinto de 37.5 cl (Cristal)
 - Se presenta en caja de cartón negra, con una frase a ambos lados del estuche (ojo, frase no personalizable)
-- Productos gourmet Extremadura
 - 4 tarros en miniatura de 30 g
 - envíos rápidos.
+- Productos gourmet Extremadura
+- vino tinto de 37.5 cl (Cristal)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JFFWKYT/?tag=tolees-21)

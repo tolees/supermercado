@@ -28,9 +28,9 @@ Tienes [Gourmet Aceitunas Rellenas de anchoa - 150 g](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- El producto no contiene gluten
 - Tipo de producto: aceitunas rellenas de anchoa
 - facil de usar
+- El producto no contiene gluten
 - El paquete incluye 1 unidad de 150 gr
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LZB5Q0C/?tag=tolees-21)

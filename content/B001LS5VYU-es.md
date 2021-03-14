@@ -28,8 +28,8 @@ Tienes [Versele-laga A-17680 Crispy Muesli Hámster - 1 kg](https://www.amazon.e
 
 ℹ️:
 
-- Hámster
-- Alimento
 - Muesli crujiente
+- Alimento
+- Hámster
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001LS5VYU/?tag=tolees-21)
