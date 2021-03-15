@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tirma Ambrosías con Relleno Cubiertas de con un 0.00 % de descuento'
-date: 2021-03-01 17:20:59
+date: 2021-03-15 07:56:26
 image: 'https://m.media-amazon.com/images/I/51IW-l6r6xL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Tirma Ambrosías con Relleno Cubiertas de Chocolate con L
 
 🔎:
 
-- Alérgenos: gluten, leche, soja y frutos de cáscara (almendras y avellanas)
 - País de origen: España
 - Consumo directo
+- Alérgenos: gluten, leche, soja y frutos de cáscara (almendras y avellanas)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082VT6X3R/?tag=tolees-21)
