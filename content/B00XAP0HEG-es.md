@@ -28,8 +28,8 @@ Tienes [Haribo - Cocktail pica  Caramelos de goma  1 kg](https://www.amazon.es/d
 
 ℹ️:
 
-- Surtido de caramelos de goma en bolsa de 1 kg
 - Todas las gomitas son tamaño mini de unos 3 cm de largo la más grande
+- Surtido de caramelos de goma en bolsa de 1 kg
 - El surtido contiene, entre otros, botellitas de cola, ositos, huevos, moras, ranas
 - Delicioso mix de diferentes piezas recubiertas de pica
 

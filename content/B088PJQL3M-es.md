@@ -29,8 +29,8 @@ En este momento está [Santal Bebida Vegetal de Avena sin Azúcar - pack 6 x 1Lt
 🔎:
 
 - Bebidas deliciosas, con envase Sostenible bio-based, 100% vegetales y saludables sin azúcar y enriquecidas para cuidar de ti y de tu entorno
-- Delicosa y saludable, genuina y única bebida de avena.
 - Revoluciona tus desayunos con el delicioso sabor de Santal, mientras cuidas tu salud y la de tu entorno. Disfrutar de ti y del planeta es sencillo con Santal.
+- Delicosa y saludable, genuina y única bebida de avena.
 - País de Origen: España
 - Conservar en lugar fresco y seco. Una vez abierto el envase debe conservarse en frío, siendo aconsejable su consumo en los dos ó tres días siguientes.
 

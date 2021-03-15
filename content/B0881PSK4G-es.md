@@ -28,10 +28,10 @@ Tienes [Fafeicy Martillo geológico de pico de pato de doble cabeza  martillo de
 
 🔎:
 
-- ★El conjunto es de tratamiento térmico, resistencia al impacto y resistencia al desgaste.
-- ★Puede medir inicialmente la dureza de la roca.
 - ★La punta del martillo de ladrillo puede aumentar el punto de fuerza y ​​fortalecer la fuerza.
 - ★Hecho de acero con alto contenido de carbono para mayor durabilidad.
+- ★El conjunto es de tratamiento térmico, resistencia al impacto y resistencia al desgaste.
 - ★La superficie está pulida y tiene una alta dureza.
+- ★Puede medir inicialmente la dureza de la roca.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0881PSK4G/?tag=tolees-21)
