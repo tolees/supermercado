@@ -28,10 +28,10 @@ Tienes [Croc Odor Desodorante Frigorífico - 1 Unidad](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Neutraliza los olores
+- Sin perfume
 - Gel con algas naturales
 - Absorbe olores fuertes como el pescado
 - Previene la transmisión de olores entre alimentos
-- Sin perfume
+- Neutraliza los olores
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005JDKXUU/?tag=tolees-21)
