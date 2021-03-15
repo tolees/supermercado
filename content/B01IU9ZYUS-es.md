@@ -28,9 +28,9 @@ Tienes [Tejero - Conserva de Pescado | Filetes de Caballa en Aceite - 1 Lata x 1
 
 🔎:
 
+- Mantener a temperatura ambiente
 - pescado
 - Caballa, aceite y sal
-- Mantener a temperatura ambiente
 - España
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01IU9ZYUS/?tag=tolees-21)

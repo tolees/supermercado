@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Drasanvi Jabón Árbol del Té - 100 gr'
-date: 2021-03-14 16:44:40
+date: 2021-03-15 17:04:12
 image: 'https://m.media-amazon.com/images/I/51gyBZzVT4L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DRASANVI'
 buyurl: 'https://www.amazon.es/dp/B00V6ASF0A/?tag=tolees-21'
 descuento: '0.00'
-average: '2.51258181818181'
+average: '2.51328519855595'
 ---
 
 Tienes [Drasanvi Jabón Árbol del Té - 100 gr](https://www.amazon.es/dp/B00V6ASF0A/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 2.61 EUR (original:  EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Drasanvi Jabón Árbol del Té - 100 gr](https://www.amazon.es/dp/B00V6A
 
 ℹ️:
 
-- Uso diario
-- Libre de grasa animal o industrial
 - Jabón elaborado de forma natural
+- Uso diario
 - Con propiedades bactericidas y fungicidas, está especialmente indicado para pieles que presentan algún tipo de infección
 - En su composición incluye aceite del árbol del té
+- Libre de grasa animal o industrial
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00V6ASF0A/?tag=tolees-21)

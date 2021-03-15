@@ -30,8 +30,8 @@ Está [PICI CON TRUFA My Cooking Box x2 porciones - Cesta de Navidad Gourmet 201
 
 - Pici de Toscana con trufa, migas de pan y anchoas. Contiene: receta paso a paso; Pasta Pici de Toscana; Pan rallado; Salsa de anchoas y trufas; Aceite de Oliva Virgen Extra de Toscana; Condimento a base de Aceite de Oliva Virgen Extra y ajo; Cristales de sal; Orégano
 - Todos los ingredientes están producidos en Italia con calidad, la cura de un tiempo y en cantidad necesaria... Cocinar como un chef nunca fue tan fácil...
-- Caja Regalo para 2 porciones; Receta del Chef Italo Bassi
 - ¡Idea original de regalo para Navidad y todos los días festivos! ¡Regala esta cesta navideña a sus queridos y comparte con ellos la magia de la Navidad y la pasión de la cocina!
+- Caja Regalo para 2 porciones; Receta del Chef Italo Bassi
 - cesta productos gourmet cestas gourmet cesta navidad navidad 2019 cestas de navidad cesta gourmet cestas navidad cesta navidad cesta regalo gourmet cestas de navidad trufa gourmet cestas regalo y regalos gourmet Regalos de Navidad Regalo navideño Cesta gourmet Navidad Cesta gourmet navideño Cajas Caja regalo Paquete regalo Box Gift Box Regalo para ella Regalo para él Idea regalo para ella Idee regalo para él Idea regalo original Navidad 2019
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074KGS7J6/?tag=tolees-21)
