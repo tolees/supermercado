@@ -28,9 +28,9 @@ Tienes [Elena Detergente para lavadora  adecuado para ropa blanca y de color  fo
 
 ℹ️:
 
-- Poder antimanchas testado en 101 manchas
-- Elena, la eficacia que sorprende
 - Apto para ropa blanca y de color
+- Elena, la eficacia que sorprende
+- Poder antimanchas testado en 101 manchas
 - Eficaz en agua fría y ciclos cortos
 - Detergente para la lavadora en formato polvo
 
