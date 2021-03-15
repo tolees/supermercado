@@ -28,9 +28,9 @@ Está [Vino Tinto D.O. Rioja Montecillo Crianza - estuche de madera de 3 botella
 
 ℹ️:
 
-- Intenso color rojo picota de capa media-alta, muy limpio y vivaz, lo que denota su juventud
-- En la boca se muestra suave, muy amplio y expresivo; final largo y elegante, destacan notas de madera de excelente calidad perfectamente integradas con la fruta limpia, madura y explosiva
-- El auténtico Rioja; un clásico renovado; complejo y equilibrado, perfecto para disfrutar en cualquier ocasión
 - En nariz es muy potente, afrutado, goloso con aromas de madera americana que aporta notas de café con leche y un fondo de regaliz propio de la variedad Tempranillo
+- En la boca se muestra suave, muy amplio y expresivo; final largo y elegante, destacan notas de madera de excelente calidad perfectamente integradas con la fruta limpia, madura y explosiva
+- Intenso color rojo picota de capa media-alta, muy limpio y vivaz, lo que denota su juventud
+- El auténtico Rioja; un clásico renovado; complejo y equilibrado, perfecto para disfrutar en cualquier ocasión
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086RHJNRR/?tag=tolees-21)

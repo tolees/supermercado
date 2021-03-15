@@ -28,10 +28,10 @@ Tienes [Johnnie Walker Gold Whisky Escocés  700ml](https://www.amazon.es/dp/B00
 
 🔎:
 
+- Mezcla de celebración elaborada con whiskies premium de malta y grano de toda Escocia
 - Añadir hielo picado y una rodaja de naranja, o zumo de manzana y soda
+- Una mezcla para una celebración tentadora; creación personal del maestro mezclador Jim Beveridge
 - Fruta y vainilla intensas, notas amaderadas dulces y especiadas, y un toque ahumado
 - Oro en la International Wine and Spirit Competition y San Francisco World Spirits 2014
-- Mezcla de celebración elaborada con whiskies premium de malta y grano de toda Escocia
-- Una mezcla para una celebración tentadora; creación personal del maestro mezclador Jim Beveridge
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009SLYYCW/?tag=tolees-21)
