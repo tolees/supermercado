@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Dove jabón crema Sensitive Hypoallergeni al 0.00 % de descuento'
-date: 2021-03-15 16:28:49
+date: 2021-03-16 22:21:22
 image: 'https://m.media-amazon.com/images/I/41TGbv44oBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LW6SLHK-es Dove jabón crema Sensitive Hypoallergenic jabón'
 sku: 'B00LW6SLHK-es'
 tags: [ 'dove','jabón', ]
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dove'
 buyurl: 'https://www.amazon.es/dp/B00LW6SLHK/?tag=tolees-21'
 descuento: '0.00'
-average: '1.99035714285714'
+average: '1.99033333333333'
 ---
 
 Está [Dove jabón crema Sensitive Hypoallergenic jabón](https://www.amazon.es/dp/B00LW6SLHK/?tag=tolees-21) con 0.00 de descuento por 1.99 EUR (original:  EUR) en el siguiente enlace!

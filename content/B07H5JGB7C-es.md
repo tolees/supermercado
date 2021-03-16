@@ -28,10 +28,10 @@ Ahora mismo tienes [ZigZag Editions Vaso de Whisky  Lucky Luke & Jolly Jumper V1
 
 🔎:
 
-- Tema: Lucky Luke
 - Fecha de publicación: 2018
+- Tema: Lucky Luke
+- Presentación: Caja vitrina
 - Estado: Nuevo en caja original
 - Empresa: ZigZag Editions
-- Presentación: Caja vitrina
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H5JGB7C/?tag=tolees-21)
