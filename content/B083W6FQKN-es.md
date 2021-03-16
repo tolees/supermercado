@@ -5,7 +5,7 @@ date: 2020-07-28 09:57:09
 image: 'https://m.media-amazon.com/images/I/41FWGh3SluL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083W6FQKN-es SUPERSUN 8 Velas de Citronela Antimosquitos Exterior Velas...'
 sku: 'B083W6FQKN-es'
 tags: [ 'soja', ]

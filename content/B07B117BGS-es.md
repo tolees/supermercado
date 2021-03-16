@@ -5,7 +5,7 @@ date: 2020-06-30 17:43:16
 image: 'https://m.media-amazon.com/images/I/51nxnH5KFCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B117BGS-es Nestlé Nesquik Cacao Soluble Instantáneo - Estuche 4x3kg'
 sku: 'B07B117BGS-es'
 tags: [ 'nesquik','nestlé', ]

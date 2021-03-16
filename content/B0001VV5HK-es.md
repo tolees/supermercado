@@ -5,7 +5,7 @@ date: 2020-01-14 14:46:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/314PyGlUaKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0001VV5HK-es SOLARAY® B complex 50. 50 VegCaps. Las Vitaminas B...'
 sku: 'B0001VV5HK-es'
 tags: [ 'gluten','sin', ]

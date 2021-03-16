@@ -5,7 +5,7 @@ date: 2020-01-22 18:11:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31MuByfdrHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0012QEDUY-es Gloria Vanderbilt Gel y jabón Mujer - 150 ml.'
 sku: 'B0012QEDUY-es'
 tags: [ 'jabón', ]

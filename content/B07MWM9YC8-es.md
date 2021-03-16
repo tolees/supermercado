@@ -5,7 +5,7 @@ date: 2020-02-12 15:04:40
 image: 'https://m.media-amazon.com/images/I/41tlzvd43hL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MWM9YC8-es Exquisite Gaming MMFTMR300024 Meta Merch - Taza de café...'
 sku: 'B07MWM9YC8-es'
 tags: [ 'café', ]

@@ -5,7 +5,7 @@ date: 2020-06-09 20:03:14
 image: 'https://m.media-amazon.com/images/I/51TCYEZuBQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004DM8FW6-es Gillette Fusion ProGlide Cuchillas de recambio para...'
 sku: 'B004DM8FW6-es'
 tags: [ 'gillette', ]

@@ -5,7 +5,7 @@ date: 2020-01-21 15:16:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51PHXFjYMsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WBH0L2M-es Babaria Crema Facial Regeneradora 9 Efectos Vital Skin...'
 sku: 'B00WBH0L2M-es'
 tags: [ 'babaria', ]

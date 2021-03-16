@@ -5,7 +5,7 @@ date: 2020-09-17 12:58:23
 image: 'https://m.media-amazon.com/images/I/511uMrF2SnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000QSNYGI-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en...'
 sku: 'B000QSNYGI-es'
 tags: [ 'chocolate', ]

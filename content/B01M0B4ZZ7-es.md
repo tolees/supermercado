@@ -5,7 +5,7 @@ date: 2020-05-30 16:33:14
 image: 'https://m.media-amazon.com/images/I/41GdVvaEjYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0B4ZZ7-es Voll-Damm Cerveza Doble Malta - Pack de 12 Latas 33cl'
 sku: 'B01M0B4ZZ7-es'
 tags: [ 'cerveza', ]

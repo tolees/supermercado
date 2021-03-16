@@ -5,7 +5,7 @@ date: 2020-01-18 15:03:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yHPnKCR1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083THVVWB-es Mumiumius Taza de Dientes/Taza de Cepillo de Dientes...'
 sku: 'B083THVVWB-es'
 tags: [ 'café','cepillo','de','dientes', ]

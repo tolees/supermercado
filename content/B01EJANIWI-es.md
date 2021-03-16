@@ -5,7 +5,7 @@ date: 2020-03-29 09:01:30
 image: 'https://m.media-amazon.com/images/I/41TE+0ikuyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EJANIWI-es Sesderma Kit Antibolsas - 30 gr'
 sku: 'B01EJANIWI-es'
 tags: [ 'sesderma', ]

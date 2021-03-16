@@ -5,7 +5,7 @@ date: 2020-08-08 12:16:55
 image: 'https://m.media-amazon.com/images/I/41jqm8DvqDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC43D4N-es AXE Desodorante Bodyspray Dark Temptation - Pack de 3 x...'
 sku: 'B07NC43D4N-es'
 tags: [ 'axe','desodorante', ]

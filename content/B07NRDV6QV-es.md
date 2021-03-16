@@ -5,7 +5,7 @@ date: 2020-01-23 13:37:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q2j99x1xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRDV6QV-es Syoss Champú para Volumen 0% Siliconas - Pack de 3...'
 sku: 'B07NRDV6QV-es'
 tags: [ 'champú', ]

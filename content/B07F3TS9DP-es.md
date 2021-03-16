@@ -5,7 +5,7 @@ date: 2020-01-02 08:14:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51k-c1wj%2BwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3TS9DP-es Bonsenkitchen Cortador de Verduras en Espiral...'
 sku: 'B07F3TS9DP-es'
 tags: [ 'spaghetti', ]

@@ -5,7 +5,7 @@ date: 2020-06-29 06:39:24
 image: 'https://m.media-amazon.com/images/I/51o2XTA9CNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M076UKH-es President Leche Entera - 6 x 1 L'
 sku: 'B01M076UKH-es'
 tags: [ 'entera','leche','president', ]

@@ -5,7 +5,7 @@ date: 2020-01-01 20:27:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RSrGRj4qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R98QGGT-es Marca Amazon - Happy Belly Avellanas tostadas sin sal...'
 sku: 'B07R98QGGT-es'
 tags: [ 'belly','happy', ]

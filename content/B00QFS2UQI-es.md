@@ -5,7 +5,7 @@ date: 2020-08-05 09:09:51
 image: 'https://m.media-amazon.com/images/I/51e7IeXVSUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QFS2UQI-es Earth Rated Tierra Nominal dispensador con biodegradables...'
 sku: 'B00QFS2UQI-es'
 tags: [ 'basura','bolsas','de', ]

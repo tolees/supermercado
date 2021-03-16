@@ -5,7 +5,7 @@ date: 2020-02-20 13:18:08
 image: 'https://m.media-amazon.com/images/I/51T44VybZiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9AR8FB-es Scottex Fresh Duo Papel Higiénico Húmedo - pack de 2'
 sku: 'B01M9AR8FB-es'
 tags: [ 'scottex', ]

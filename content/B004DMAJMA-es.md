@@ -5,7 +5,7 @@ date: 2020-06-18 20:33:38
 image: 'https://m.media-amazon.com/images/I/511ZAqUs6rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004DMAJMA-es Gillette Fusion ProGlide Power - Cuchillas de recambio...'
 sku: 'B004DMAJMA-es'
 tags: [ 'gillette', ]

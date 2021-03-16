@@ -5,7 +5,7 @@ date: 2020-04-18 03:31:51
 image: 'https://m.media-amazon.com/images/I/415lm9BkXVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKLHGZ7-es ToullGo Calentador de Café Calentador de Bebidas Portátil...'
 sku: 'B07VKLHGZ7-es'
 tags: [ 'café', ]

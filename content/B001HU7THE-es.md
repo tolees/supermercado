@@ -5,7 +5,7 @@ date: 2020-03-08 23:32:37
 image: 'https://m.media-amazon.com/images/I/41djKsq690L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001HU7THE-es Caol Ila 12 Años Whisky Escocés Puro de Malta de la Isla...'
 sku: 'B001HU7THE-es'
 tags: [ 'whisky', ]

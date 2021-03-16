@@ -5,7 +5,7 @@ date: 2020-07-29 09:14:04
 image: 'https://m.media-amazon.com/images/I/31Rx4Y-rHSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DTUOCAC-es Oro de Cánava Aceite de Oliva Virgen Extra Premium de Jaén...'
 sku: 'B00DTUOCAC-es'
 tags: [ 'aceite','de','extra','oliva','virgen', ]

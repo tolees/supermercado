@@ -5,7 +5,7 @@ date: 2020-08-06 18:09:22
 image: 'https://m.media-amazon.com/images/I/41t35BJFU3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CRL9X78-es Dove Crema de ducha exfoliante de Granada & sheabu tter 4...'
 sku: 'B07CRL9X78-es'
 tags: [ 'dove', ]

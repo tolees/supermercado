@@ -5,7 +5,7 @@ date: 2020-08-04 00:31:09
 image: 'https://m.media-amazon.com/images/I/31X302aNgIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07772FGWF-es 2 X Nu Skin Ap-24 Blanqueamiento Pasta De Dientes Con...'
 sku: 'B07772FGWF-es'
 tags: [ 'de','dientes','pasta', ]

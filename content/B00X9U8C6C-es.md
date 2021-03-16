@@ -5,7 +5,7 @@ date: 2020-06-30 16:34:59
 image: 'https://m.media-amazon.com/images/I/41WHl4g1GFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9U8C6C-es Garnier Delial Sensitive Advanced - Bruma Seca Protector...'
 sku: 'B00X9U8C6C-es'
 tags: [ 'garnier', ]

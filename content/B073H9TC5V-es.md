@@ -5,7 +5,7 @@ date: 2020-02-08 18:36:07
 image: 'https://m.media-amazon.com/images/I/31DLqBH7X9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073H9TC5V-es Maybelline New York - Superstay Matte Ink Barra de Labios...'
 sku: 'B073H9TC5V-es'
 tags: [ 'maybelline', ]

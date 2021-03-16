@@ -5,7 +5,7 @@ date: 2020-02-19 06:33:05
 image: 'https://m.media-amazon.com/images/I/41vWV3cr7wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H04ZMEC-es Vegetalia Canela en Rama - 80 gr'
 sku: 'B01H04ZMEC-es'
 tags: [ 'canela', ]

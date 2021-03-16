@@ -5,7 +5,7 @@ date: 2020-09-07 15:19:06
 image: 'https://m.media-amazon.com/images/I/51FKDkR2ukL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQXY77X-es Tibek - Máquina de palomitas por aire caliente sin aceite...'
 sku: 'B07VQXY77X-es'
 tags: [ 'chocolate', ]

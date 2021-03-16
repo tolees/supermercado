@@ -5,7 +5,7 @@ date: 2020-03-08 22:20:34
 image: 'https://m.media-amazon.com/images/I/31S6CagHkeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015ZGYMIY-es L Oréal Paris - Brocha de Maquillaje Dúo para Bases Fluidas'
 sku: 'B015ZGYMIY-es'
 tags: [ 'oréal', ]

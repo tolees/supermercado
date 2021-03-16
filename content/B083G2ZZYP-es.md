@@ -5,7 +5,7 @@ date: 2020-07-07 13:25:04
 image: 'https://m.media-amazon.com/images/I/51GcV2fD-tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083G2ZZYP-es Scholl Desodorante calzado Fresh Step Antitranspirante -...'
 sku: 'B083G2ZZYP-es'
 tags: [ 'desodorante', ]

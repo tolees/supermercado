@@ -5,7 +5,7 @@ date: 2020-08-01 12:16:20
 image: 'https://m.media-amazon.com/images/I/31Xd-Td0L5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXLMKEQ-es Lavazza Café Molido Espresso Club 100% Arábica Paquete de...'
 sku: 'B01MXLMKEQ-es'
 tags: [ 'café','lavazza', ]

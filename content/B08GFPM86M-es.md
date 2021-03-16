@@ -5,7 +5,7 @@ date: 2020-08-23 04:06:59
 image: 'https://m.media-amazon.com/images/I/41-3mz97WuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GFPM86M-es Claire Evangeline: Conserva con valor los valores ancla'
 sku: 'B08GFPM86M-es'
 tags: [ 'conserva', ]

@@ -5,7 +5,7 @@ date: 2020-09-01 09:01:54
 image: 'https://m.media-amazon.com/images/I/41AB5BIXJYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XS1CWFD-es Bowmore No.1 Single Malt Whisky Escoces 40% - 700 ml'
 sku: 'B06XS1CWFD-es'
 tags: [ 'whisky', ]

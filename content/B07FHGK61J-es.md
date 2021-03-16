@@ -5,7 +5,7 @@ date: 2020-01-23 19:18:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417%2BINPWqXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FHGK61J-es L Oréal Men expert Hydra Humedad Cuidado 24h Anti de...'
 sku: 'B07FHGK61J-es'
 tags: [ 'oréal', ]

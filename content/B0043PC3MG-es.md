@@ -5,7 +5,7 @@ date: 2020-07-11 00:11:52
 image: 'https://m.media-amazon.com/images/I/31y+jR34wML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0043PC3MG-es Vino Tinto D.O. Rioja Montecillo Crianza - 1 botella de 75 cl'
 sku: 'B0043PC3MG-es'
 tags: [ 'tinto','vino', ]

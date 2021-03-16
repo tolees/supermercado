@@ -5,7 +5,7 @@ date: 2020-01-17 10:00:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51yVH5uUGgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W55CGGQ-es Nobleza - 100 x Empapadores Perros Alfombrilla higiénica...'
 sku: 'B07W55CGGQ-es'
 tags: [ 'empapadores', ]

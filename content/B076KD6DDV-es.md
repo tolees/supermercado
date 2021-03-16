@@ -5,7 +5,7 @@ date: 2020-05-31 17:23:44
 image: 'https://m.media-amazon.com/images/I/41QOwbA-UEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076KD6DDV-es Acondicionador de queratina para reparación de cuidado de...'
 sku: 'B076KD6DDV-es'
 tags: [ 'acondicionador', ]

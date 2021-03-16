@@ -5,7 +5,7 @@ date: 2020-01-11 10:46:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51KUWdZ7aNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWXXHZ6-es FS L Teanina Pura [300 mg] Sin Rellenos o Aglutinantes |...'
 sku: 'B07PWXXHZ6-es'
 tags: [ 'gluten','sin', ]

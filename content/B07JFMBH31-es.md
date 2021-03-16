@@ -5,7 +5,7 @@ date: 2020-05-24 22:48:15
 image: 'https://m.media-amazon.com/images/I/41OC38QGZDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JFMBH31-es Levadura de Arroz Rojo con 10 mg de Monacolina K y 5 mg de...'
 sku: 'B07JFMBH31-es'
 tags: [ 'arroz','levadura', ]

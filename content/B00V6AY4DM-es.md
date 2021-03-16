@@ -5,7 +5,7 @@ date: 2020-04-04 18:34:39
 image: 'https://m.media-amazon.com/images/I/41+kh9YbBKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V6AY4DM-es Solaray Sex Up | Libido saludable vitalidad resistencia y...'
 sku: 'B00V6AY4DM-es'
 tags: [ 'gluten','sin', ]

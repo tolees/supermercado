@@ -5,7 +5,7 @@ date: 2020-02-27 10:33:39
 image: 'https://m.media-amazon.com/images/I/41b7so4sMmL._SL500_._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U2TXCTU-es Scotch-Brite Spray Limpiador para Vitrocerámica 500 ml'
 sku: 'B00U2TXCTU-es'
 tags: [ 'scotch-brite', ]

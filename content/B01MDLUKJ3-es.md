@@ -5,7 +5,7 @@ date: 2020-02-06 16:07:15
 image: 'https://m.media-amazon.com/images/I/41+sSEjFSgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MDLUKJ3-es Heineken Cerveza - Paquete de 12 x 330 ml - Total: 3960 ml'
 sku: 'B01MDLUKJ3-es'
 tags: [ 'cerveza','heineken', ]

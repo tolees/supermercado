@@ -5,7 +5,7 @@ date: 2020-01-03 19:30:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41S3oqbWVDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVFF82C-es Marca Amazon - Happy Belly Café molido "COLOMBIA" 4 x 250g'
 sku: 'B07CVFF82C-es'
 tags: [ 'belly','café','happy', ]

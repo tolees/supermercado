@@ -5,7 +5,7 @@ date: 2020-06-11 22:42:34
 image: 'https://m.media-amazon.com/images/I/41nWv1VQ9LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ3C31W-es YING - Dispensador automático de pasta de dientes + caja...'
 sku: 'B07JJ3C31W-es'
 tags: [ 'cepillo','de','dientes','pasta', ]

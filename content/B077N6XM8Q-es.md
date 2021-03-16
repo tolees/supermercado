@@ -5,7 +5,7 @@ date: 2020-03-07 13:32:10
 image: 'https://m.media-amazon.com/images/I/31a8a4B2F3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077N6XM8Q-es Maybelline Superstay de diafragma de 55 mate cartucho de...'
 sku: 'B077N6XM8Q-es'
 tags: [ 'maybelline', ]

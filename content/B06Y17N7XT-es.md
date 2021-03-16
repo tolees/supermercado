@@ -5,7 +5,7 @@ date: 2020-08-14 20:03:40
 image: 'https://m.media-amazon.com/images/I/61EnHgvAPuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y17N7XT-es Gillette Venus Snap Recambios para Maquinilla'
 sku: 'B06Y17N7XT-es'
 tags: [ 'gillette', ]

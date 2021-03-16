@@ -5,7 +5,7 @@ date: 2020-04-08 07:45:10
 image: 'https://m.media-amazon.com/images/I/61LAa4X4GyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XT25N9Q-es Purina Dentalife Golosina Dental para Perro Pequeño 345 g'
 sku: 'B06XT25N9Q-es'
 tags: [ 'purina', ]

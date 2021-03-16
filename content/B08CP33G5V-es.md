@@ -5,7 +5,7 @@ date: 2021-01-15 22:12:48
 image: 'https://m.media-amazon.com/images/I/41pb7rSDVqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CP33G5V-es NUK Detergente para Biberones'
 sku: 'B08CP33G5V-es'
 tags: [ 'detergente', ]

@@ -5,7 +5,7 @@ date: 2020-08-16 08:27:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mFsVDoyHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WPWMSY8-es Bolsa impermeable y reutilizable para la merienda comida...'
 sku: 'B07WPWMSY8-es'
 tags: [ 'frutos','secos', ]

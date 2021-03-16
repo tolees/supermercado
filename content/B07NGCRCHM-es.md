@@ -5,7 +5,7 @@ date: 2020-01-02 17:04:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41P7TdZh1jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGCRCHM-es Marca Amazon - Solimo Gel de ducha para hombre con iones...'
 sku: 'B07NGCRCHM-es'
 tags: [ 'de','ducha','gel','solimo', ]

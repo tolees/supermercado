@@ -5,7 +5,7 @@ date: 2020-09-07 07:18:51
 image: 'https://m.media-amazon.com/images/I/41yt6ZujWyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Y9SSHU4-es Purina ProPlan Medium Puppy Start pienso para perro...'
 sku: 'B00Y9SSHU4-es'
 tags: [ 'purina', ]

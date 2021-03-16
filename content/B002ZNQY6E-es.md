@@ -5,7 +5,7 @@ date: 2020-01-10 19:06:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ogOItv3ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002ZNQY6E-es Maybelline Roller Color Loose Powder Eye Shadow Plata'
 sku: 'B002ZNQY6E-es'
 tags: [ 'maybelline', ]

@@ -5,7 +5,7 @@ date: 2020-07-05 13:02:24
 image: 'https://m.media-amazon.com/images/I/51CBtwR6e7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZZD3JB-es TRESemmé Champú en Seco Fresco y Limpio - Paquete de 3 x...'
 sku: 'B078ZZD3JB-es'
 tags: [ 'champú','tresemmé', ]

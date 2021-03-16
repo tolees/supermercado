@@ -5,7 +5,7 @@ date: 2020-02-11 11:11:31
 image: 'https://m.media-amazon.com/images/I/41xQ2WMkjyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5HLNB8-es Elizabeth Arden Advanced Ceramide Capsulas Monodosis para...'
 sku: 'B01N5HLNB8-es'
 tags: [ 'arden','elizabeth', ]

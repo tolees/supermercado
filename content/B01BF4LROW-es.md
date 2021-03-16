@@ -5,7 +5,7 @@ date: 2020-09-03 07:48:54
 image: 'https://m.media-amazon.com/images/I/41lALhJHK-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BF4LROW-es Disfraz de Foxy de Five Nights at Freddy s'
 sku: 'B01BF4LROW-es'
 tags: [ 'foxy', ]

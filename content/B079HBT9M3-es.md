@@ -5,7 +5,7 @@ date: 2020-03-05 20:31:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kpe09MzUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079HBT9M3-es Philips Cepillo dental eléctrico sónico HX6870/47 -...'
 sku: 'B079HBT9M3-es'
 tags: [ 'cepillo','de','dientes', ]

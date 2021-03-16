@@ -5,7 +5,7 @@ date: 2020-05-30 09:34:57
 image: 'https://m.media-amazon.com/images/I/318SEE5FvFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0075CMHSE-es Salerm Cosmetics Dermocalm Champú - 250 ml Transparente'
 sku: 'B0075CMHSE-es'
 tags: [ 'champú', ]

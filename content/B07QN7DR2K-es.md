@@ -5,7 +5,7 @@ date: 2020-01-03 12:08:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oZT5tUyGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QN7DR2K-es Love Beauty and Planet Gel de Ducha refrescante Agua de...'
 sku: 'B07QN7DR2K-es'
 tags: [ 'de','ducha','gel', ]

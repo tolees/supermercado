@@ -5,7 +5,7 @@ date: 2020-01-16 11:04:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31G3R8GZHeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JVEZMGW-es Glenmorangie Whisky - 700 ml'
 sku: 'B01JVEZMGW-es'
 tags: [ 'whisky', ]

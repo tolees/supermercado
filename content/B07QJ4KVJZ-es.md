@@ -5,7 +5,7 @@ date: 2020-05-31 16:18:25
 image: 'https://m.media-amazon.com/images/I/31U-fxtJpAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJ4KVJZ-es L Oréal Paris Magic Retouch Spray Retoca Raíces y Canas...'
 sku: 'B07QJ4KVJZ-es'
 tags: [ 'oréal', ]

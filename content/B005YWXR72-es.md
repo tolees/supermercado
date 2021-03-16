@@ -5,7 +5,7 @@ date: 2020-08-24 09:39:55
 image: 'https://m.media-amazon.com/images/I/51nkXu97ojL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005YWXR72-es Revlon ColorStay Maquillaje en Polvo #830 Light Medium'
 sku: 'B005YWXR72-es'
 tags: [ 'revlon', ]

@@ -5,7 +5,7 @@ date: 2020-02-04 17:35:47
 image: 'https://m.media-amazon.com/images/I/51sQQ3DZbCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074Q4MTPS-es Licor del Polo - Pasta de dientes 2 en 1 Non Stop Fresh -...'
 sku: 'B074Q4MTPS-es'
 tags: [ 'de','dientes','pasta', ]

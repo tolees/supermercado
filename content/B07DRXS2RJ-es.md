@@ -5,7 +5,7 @@ date: 2020-07-24 18:10:41
 image: 'https://m.media-amazon.com/images/I/51x93xjWmPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRXS2RJ-es Premier Protein Protein Bar Double Chocolate 24x40g -...'
 sku: 'B07DRXS2RJ-es'
 tags: [ 'azúcar','chocolate', ]

@@ -5,7 +5,7 @@ date: 2020-07-03 11:40:24
 image: 'https://m.media-amazon.com/images/I/51XwNW6-UaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A3EXGX6-es Santa Rita Harina para Croquetas y Bechamel - 430 gr'
 sku: 'B00A3EXGX6-es'
 tags: [ 'bechamel','croquetas','harina', ]

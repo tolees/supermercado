@@ -5,7 +5,7 @@ date: 2020-05-24 15:44:47
 image: 'https://m.media-amazon.com/images/I/31aAg25TGQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O15SE8A-es Kelual Champú - 100 ml'
 sku: 'B00O15SE8A-es'
 tags: [ 'champú', ]

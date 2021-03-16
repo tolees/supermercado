@@ -5,7 +5,7 @@ date: 2020-03-31 10:53:11
 image: 'https://m.media-amazon.com/images/I/41rdBDRGIdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MX3K67R-es KUNSE Mezclador Eléctrico Auto Portátil De La Proteína...'
 sku: 'B07MX3K67R-es'
 tags: [ 'café', ]

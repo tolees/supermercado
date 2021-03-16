@@ -5,7 +5,7 @@ date: 2020-02-12 08:41:09
 image: 'https://m.media-amazon.com/images/I/31WOZu6ziyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001TANDZ4-es Kerastase U-HC-5074 Specifique Champú cabello sensible...'
 sku: 'B001TANDZ4-es'
 tags: [ 'champú', ]

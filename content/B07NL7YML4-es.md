@@ -5,7 +5,7 @@ date: 2020-01-12 20:22:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dk1yBByxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NL7YML4-es Xiton Pintalabios natural del Aloe Vera Jalea 1 pieza...'
 sku: 'B07NL7YML4-es'
 tags: [ 'crema','hidratante', ]

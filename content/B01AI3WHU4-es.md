@@ -5,7 +5,7 @@ date: 2020-01-16 09:36:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ue2tXBzRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AI3WHU4-es Elizabeth Arden Eight Hour Cream All-Over Miracle Oil 100 ml'
 sku: 'B01AI3WHU4-es'
 tags: [ 'arden','elizabeth', ]

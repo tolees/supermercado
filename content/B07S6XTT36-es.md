@@ -5,7 +5,7 @@ date: 2020-09-30 14:06:51
 image: 'https://m.media-amazon.com/images/I/51RauHtoTaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6XTT36-es Vivesoy Frutos Secos sin Azúcar pack de 6 x 1L'
 sku: 'B07S6XTT36-es'
 tags: [ 'azúcar','frutos','secos', ]

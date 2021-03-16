@@ -5,7 +5,7 @@ date: 2020-01-29 13:53:04
 image: 'https://m.media-amazon.com/images/I/41wletvBVdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MN94WT6-es Max Factor Base de maquillaje 50 Natural - 62 gr.'
 sku: 'B00MN94WT6-es'
 tags: [ 'factor','max', ]

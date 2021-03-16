@@ -5,7 +5,7 @@ date: 2020-06-15 19:38:15
 image: 'https://m.media-amazon.com/images/I/41r5aRfdHuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BMHF25C-es San Valentín Vino Blanco - 6 botellas de 75 cl Total: 4500 ml'
 sku: 'B01BMHF25C-es'
 tags: [ 'blanco','vino', ]

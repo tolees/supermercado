@@ -5,7 +5,7 @@ date: 2020-06-24 14:31:14
 image: 'https://m.media-amazon.com/images/I/41-gVvXog2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DI6HG1O-es Jim Beam Honey Bourbon Whisky Con Miel 35% - 700 ml'
 sku: 'B00DI6HG1O-es'
 tags: [ 'whisky', ]

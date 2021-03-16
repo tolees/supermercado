@@ -5,7 +5,7 @@ date: 2020-01-09 22:31:17
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7QZPMO-es La Masía Aceite de Oliva Sumum - 1 l'
 sku: 'B01K7QZPMO-es'
 tags: [ 'aceite','de','oliva', ]

@@ -5,7 +5,7 @@ date: 2020-08-12 17:22:06
 image: 'https://m.media-amazon.com/images/I/31mAhqaG2dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BK4FFHZ-es Automático Touchless Dispensador De Jabón Con Sensor...'
 sku: 'B08BK4FFHZ-es'
 tags: [ 'jabón', ]

@@ -5,7 +5,7 @@ date: 2020-01-01 19:37:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41II8C2kgeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGFHZTD-es Marca Amazon - Solimo Champú y acondicionador anticaspa 2...'
 sku: 'B07NGFHZTD-es'
 tags: [ 'acondicionador','champú','solimo', ]

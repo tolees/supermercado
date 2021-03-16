@@ -5,7 +5,7 @@ date: 2020-05-31 08:43:48
 image: 'https://m.media-amazon.com/images/I/41gm45zlNGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X8NKW5V-es Weider Green Flex PROTECTOR Articular 100% Vegano Con...'
 sku: 'B07X8NKW5V-es'
 tags: [ 'cúrcuma','gluten','sin', ]

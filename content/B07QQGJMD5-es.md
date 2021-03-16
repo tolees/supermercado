@@ -5,7 +5,7 @@ date: 2020-04-15 08:00:42
 image: 'https://m.media-amazon.com/images/I/41OZNDBEXWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQGJMD5-es Mimosín Collection Parfum Suavizante Fleur D Or - 6...'
 sku: 'B07QQGJMD5-es'
 tags: [ 'suavizante', ]

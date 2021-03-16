@@ -5,7 +5,7 @@ date: 2020-02-29 13:02:45
 image: 'https://m.media-amazon.com/images/I/31Em+cgwaQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L76W6UC-es Conguitos Cacahuete con Chocolate - 450 gr'
 sku: 'B01L76W6UC-es'
 tags: [ 'chocolate', ]

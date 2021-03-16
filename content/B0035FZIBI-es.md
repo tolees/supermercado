@@ -5,7 +5,7 @@ date: 2020-06-28 06:41:19
 image: 'https://m.media-amazon.com/images/I/51S+6td-OHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0035FZIBI-es Spontex 0099-8 guantes desechables tamaño Vinilo 8-8'
 sku: 'B0035FZIBI-es'
 tags: [ 'spontex', ]

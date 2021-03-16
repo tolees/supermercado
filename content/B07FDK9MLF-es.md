@@ -5,7 +5,7 @@ date: 2020-04-21 11:28:28
 image: 'https://m.media-amazon.com/images/I/41HVOtdTqYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDK9MLF-es Mimosin Intense Explosión de Frescor Perlas de fragancia...'
 sku: 'B07FDK9MLF-es'
 tags: [ 'mimosin', ]

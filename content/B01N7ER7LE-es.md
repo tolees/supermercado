@@ -5,7 +5,7 @@ date: 2020-03-14 05:12:22
 image: 'https://m.media-amazon.com/images/I/314ajhHLjNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7ER7LE-es Maybelline New York - Color Sensational Lápiz de Labios...'
 sku: 'B01N7ER7LE-es'
 tags: [ 'maybelline', ]

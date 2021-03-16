@@ -5,7 +5,7 @@ date: 2020-02-21 16:31:01
 image: 'https://m.media-amazon.com/images/I/41d+xumjZUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TPRRDW-es Puleva Leche Ecológica Semidesnatada - Paquete de 6 x 1000...'
 sku: 'B077TPRRDW-es'
 tags: [ 'puleva', ]

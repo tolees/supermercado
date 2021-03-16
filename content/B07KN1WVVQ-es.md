@@ -5,7 +5,7 @@ date: 2020-01-23 20:06:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31paR1VfsyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KN1WVVQ-es Armani Exchange Different Logo Mood suéter Martini 1107...'
 sku: 'B07KN1WVVQ-es'
 tags: [ 'martini', ]

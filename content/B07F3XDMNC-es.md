@@ -5,7 +5,7 @@ date: 2020-09-01 18:10:06
 image: 'https://m.media-amazon.com/images/I/31VnJ0wrwsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3XDMNC-es MENFORSAN Desenredante y Acondicionador Perros - 125 ml'
 sku: 'B07F3XDMNC-es'
 tags: [ 'acondicionador', ]

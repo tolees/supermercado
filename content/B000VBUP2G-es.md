@@ -5,7 +5,7 @@ date: 2020-04-02 14:44:05
 image: 'https://m.media-amazon.com/images/I/41+xuEcyzPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VBUP2G-es Max Factor Colour Adapt 050 Porcelain Base de maquillaje...'
 sku: 'B000VBUP2G-es'
 tags: [ 'factor','max', ]

@@ -5,7 +5,7 @@ date: 2020-01-18 16:45:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31paSJx6r2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0725XSBF3-es L Oréal Powermix Liss Prokeratin Tratamiento Capilar - 150 ml'
 sku: 'B0725XSBF3-es'
 tags: [ 'oréal', ]

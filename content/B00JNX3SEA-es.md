@@ -5,7 +5,7 @@ date: 2020-09-25 15:38:26
 image: 'https://m.media-amazon.com/images/I/41fS1ukxWJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JNX3SEA-es L Oreal Paris - Age Perfect crema hidratante de ojos...'
 sku: 'B00JNX3SEA-es'
 tags: [ 'crema','hidratante', ]

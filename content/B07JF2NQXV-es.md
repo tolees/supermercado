@@ -5,7 +5,7 @@ date: 2020-01-13 20:36:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31R3LmXJRnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JF2NQXV-es Schwarzkopf Champú - 2 de 1 unidad'
 sku: 'B07JF2NQXV-es'
 tags: [ 'champú','schwarzkopf', ]

@@ -5,7 +5,7 @@ date: 2020-03-26 09:43:19
 image: 'https://m.media-amazon.com/images/I/41-P930NbsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014PETJJ4-es L Oréal Expert Pro Fiber Rectify Leave-In-Rectify -...'
 sku: 'B014PETJJ4-es'
 tags: [ 'capilar','cuidado','oréal', ]

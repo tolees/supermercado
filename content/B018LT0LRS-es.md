@@ -5,7 +5,7 @@ date: 2020-05-03 13:32:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410EsVLEjmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018LT0LRS-es Oral-B 3D White 3+1 Cabezas de cepillo de dientes'
 sku: 'B018LT0LRS-es'
 tags: [ 'cepillo','de','dientes', ]

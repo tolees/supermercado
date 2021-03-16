@@ -5,7 +5,7 @@ date: 2020-04-16 08:20:29
 image: 'https://m.media-amazon.com/images/I/411guAc9XsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084K2P3CN-es Garnier Fructis Hair Food Champú de Aloe Vera Hidratante...'
 sku: 'B084K2P3CN-es'
 tags: [ 'champú','garnier', ]

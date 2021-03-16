@@ -5,7 +5,7 @@ date: 2020-01-24 10:56:58
 image: 'https://m.media-amazon.com/images/I/51xcehble6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HSF2PKC-es Parodontax Extra Fresh - Pasta de dientes con flúor 75 ml...'
 sku: 'B07HSF2PKC-es'
 tags: [ 'de','dientes','parodontax','pasta', ]

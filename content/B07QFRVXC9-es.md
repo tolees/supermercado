@@ -5,7 +5,7 @@ date: 2020-03-08 19:45:47
 image: 'https://m.media-amazon.com/images/I/21uQ6bCuqTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFRVXC9-es Celeste Roble Vino Tinto 75 cl - 750 ml'
 sku: 'B07QFRVXC9-es'
 tags: [ 'tinto','vino', ]

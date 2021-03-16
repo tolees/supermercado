@@ -5,7 +5,7 @@ date: 2020-02-02 16:45:24
 image: 'https://m.media-amazon.com/images/I/319rrKn2CKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWJQ3T8-es LOCCO - Gotas dulces con gusto a chocolate sin azúcar...'
 sku: 'B07VWJQ3T8-es'
 tags: [ 'azúcar','chocolate', ]

@@ -5,7 +5,7 @@ date: 2020-02-01 09:22:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51GzWKq7etL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7VMX7P-es AXE Desodorante Antitraspirante Gold Blanco Duplo Ahorro -...'
 sku: 'B07P7VMX7P-es'
 tags: [ 'axe','desodorante', ]

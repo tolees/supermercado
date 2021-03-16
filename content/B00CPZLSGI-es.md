@@ -5,7 +5,7 @@ date: 2020-04-30 10:27:39
 image: 'https://m.media-amazon.com/images/I/41s0A3AE4JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CPZLSGI-es Bulleit Rye Whisky - 700 ml'
 sku: 'B00CPZLSGI-es'
 tags: [ 'whisky', ]

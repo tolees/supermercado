@@ -5,7 +5,7 @@ date: 2020-08-06 13:59:57
 image: 'https://m.media-amazon.com/images/I/51ULctJTAiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJDXVJ5-es Un Air d’Antan® Caja Belleza Provence Mujer 1 Jabon 100g 1...'
 sku: 'B07HJDXVJ5-es'
 tags: [ 'jabon', ]

@@ -5,7 +5,7 @@ date: 2020-03-08 10:36:06
 image: 'https://m.media-amazon.com/images/I/31eSX2gKaOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009OAI4U-es Elizabeth Arden 5th Avenue Eau de parfum 75 ml'
 sku: 'B0009OAI4U-es'
 tags: [ 'arden','elizabeth', ]

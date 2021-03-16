@@ -5,7 +5,7 @@ date: 2020-08-27 03:00:15
 image: 'https://m.media-amazon.com/images/I/51L3xlwXN+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A3EXEI8-es Nomen - Fideuada 840 g'
 sku: 'B00A3EXEI8-es'
 tags: [ 'nomen', ]

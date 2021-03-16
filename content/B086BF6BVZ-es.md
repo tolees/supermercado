@@ -5,7 +5,7 @@ date: 2020-09-07 16:35:00
 image: 'https://m.media-amazon.com/images/I/41ehJrmnWfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086BF6BVZ-es Bilisder Dispensador Jabon de Espuma Automático Eléctrico...'
 sku: 'B086BF6BVZ-es'
 tags: [ 'jabon','jabón', ]

@@ -5,7 +5,7 @@ date: 2020-05-16 07:30:57
 image: 'https://m.media-amazon.com/images/I/41CvJblqELL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUS3ED8-es Gliss - Acondicionador Express Fiber Therapy - Sin...'
 sku: 'B01MUS3ED8-es'
 tags: [ 'acondicionador','schwarzkopf', ]

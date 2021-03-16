@@ -5,7 +5,7 @@ date: 2020-06-08 20:26:57
 image: 'https://m.media-amazon.com/images/I/51smUt3b5nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UCC6D02-es Spontex - Estropajo de Cocina 2 Unidades'
 sku: 'B00UCC6D02-es'
 tags: [ 'estropajo','spontex', ]

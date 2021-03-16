@@ -5,7 +5,7 @@ date: 2020-03-04 06:57:12
 image: 'https://m.media-amazon.com/images/I/31WaoA-5prL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MRFR1EO-es Refrigerador botellero puerta de Cristal color rojo con...'
 sku: 'B00MRFR1EO-es'
 tags: [ 'coca','cola', ]

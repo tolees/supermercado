@@ -5,7 +5,7 @@ date: 2020-09-01 19:03:23
 image: 'https://m.media-amazon.com/images/I/51sAeQNd8mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CW6CVX-es Botanical Origin Suavizante para Ropa Ecológico Apto para...'
 sku: 'B081CW6CVX-es'
 tags: [ 'suavizante', ]

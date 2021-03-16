@@ -5,7 +5,7 @@ date: 2020-08-16 10:45:42
 image: 'https://m.media-amazon.com/images/I/31Blyz+xnLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GQYKBT4-es Mengshen Bascula Cuchara Digital para Cocina Alimentos...'
 sku: 'B07GQYKBT4-es'
 tags: [ 'harina', ]

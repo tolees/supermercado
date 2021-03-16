@@ -5,7 +5,7 @@ date: 2020-05-01 13:21:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/319l410DyyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZU5H9AY-es Axe Blacknight - Set de 6 geles de ducha 6 x 250 ml'
 sku: 'B00ZU5H9AY-es'
 tags: [ 'axe', ]

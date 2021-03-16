@@ -5,7 +5,7 @@ date: 2020-03-05 20:13:05
 image: 'https://m.media-amazon.com/images/I/31tHg6geA5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WKDJNSN-es Etolab - Champú para barba. Fórmula delicada elimina...'
 sku: 'B07WKDJNSN-es'
 tags: [ 'champú', ]

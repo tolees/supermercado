@@ -5,7 +5,7 @@ date: 2020-05-31 09:19:46
 image: 'https://m.media-amazon.com/images/I/41CwlczPtOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9TKGPZ-es ICA CHPM20 Champú Antiparásitos con Aloe Vera para Perros'
 sku: 'B07B9TKGPZ-es'
 tags: [ 'champú', ]

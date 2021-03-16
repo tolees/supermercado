@@ -5,7 +5,7 @@ date: 2020-06-12 08:57:10
 image: 'https://m.media-amazon.com/images/I/41A7K8p-zlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FGGP5CP-es Diadermine Expert Rejuvenecedor crema de día crema de...'
 sku: 'B07FGGP5CP-es'
 tags: [ 'diadermine', ]

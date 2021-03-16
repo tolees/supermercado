@@ -5,7 +5,7 @@ date: 2020-01-05 18:58:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WENm76JGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HXGTZ73-es Marca Amazon - Lifelong Complete- Alimento seco completo...'
 sku: 'B07HXGTZ73-es'
 tags: [ 'arroz', ]

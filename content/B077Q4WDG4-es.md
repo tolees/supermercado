@@ -5,7 +5,7 @@ date: 2020-01-23 09:29:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nADMg-viL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Q4WDG4-es Oral-B Stages Star Wars Cabezales de cepillo de dientes...'
 sku: 'B077Q4WDG4-es'
 tags: [ 'cepillo','de','dientes', ]

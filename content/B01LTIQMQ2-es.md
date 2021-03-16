@@ -5,7 +5,7 @@ date: 2020-01-23 13:21:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uGj9xKlKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LTIQMQ2-es Pantene Pro-V champú Suave y Liso para cabellos...'
 sku: 'B01LTIQMQ2-es'
 tags: [ 'champú','pantene', ]

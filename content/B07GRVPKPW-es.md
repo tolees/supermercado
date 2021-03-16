@@ -5,7 +5,7 @@ date: 2020-01-01 16:30:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418HnUc7fML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GRVPKPW-es Dolce Gusto 32 - Soporte giratorio para cápsulas de café'
 sku: 'B07GRVPKPW-es'
 tags: [ 'café','cápsulas','de','dolce','gusto', ]

@@ -5,7 +5,7 @@ date: 2020-09-19 14:34:07
 image: 'https://m.media-amazon.com/images/I/41pp3FqBH3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001P4YY0W-es Tía María - Licor De Café Botella 700 ml'
 sku: 'B001P4YY0W-es'
 tags: [ 'café', ]

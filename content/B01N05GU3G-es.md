@@ -5,7 +5,7 @@ date: 2020-06-08 14:26:23
 image: 'https://m.media-amazon.com/images/I/413irIbflmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N05GU3G-es OGX Champú Aceite de Argán Extra Fuerte Hidrata y...'
 sku: 'B01N05GU3G-es'
 tags: [ 'champú', ]

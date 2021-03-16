@@ -5,7 +5,7 @@ date: 2020-09-30 10:22:49
 image: 'https://m.media-amazon.com/images/I/31+qepyvTnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XRDCPL-es L Oreal Paris Make-up Designer Maybelline New York Brow...'
 sku: 'B082XRDCPL-es'
 tags: [ 'maybelline', ]

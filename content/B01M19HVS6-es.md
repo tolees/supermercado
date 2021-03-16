@@ -5,7 +5,7 @@ date: 2020-12-09 18:04:55
 image: 'https://m.media-amazon.com/images/I/51VDtS4bpIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M19HVS6-es Handy Bag Bolsas de Basura 10 L Baño Extra Resistentes...'
 sku: 'B01M19HVS6-es'
 tags: [ 'basura','bolsas','de', ]

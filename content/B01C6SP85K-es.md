@@ -5,7 +5,7 @@ date: 2020-05-29 20:04:38
 image: 'https://m.media-amazon.com/images/I/41NNlCHTkPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C6SP85K-es L Oréal Paris Polvo Bronceador Glam Bronze La Terra Medium...'
 sku: 'B01C6SP85K-es'
 tags: [ 'oréal', ]

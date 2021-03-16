@@ -5,7 +5,7 @@ date: 2020-04-08 17:05:34
 image: 'https://m.media-amazon.com/images/I/511x792KVUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZWMXV3-es ITECHNIK Cabezal de Recambio Para oral-b cepillo de...'
 sku: 'B079ZWMXV3-es'
 tags: [ 'cepillo','de','dientes', ]

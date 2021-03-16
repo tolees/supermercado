@@ -5,7 +5,7 @@ date: 2020-03-28 19:08:08
 image: 'https://m.media-amazon.com/images/I/41QcXZe8vDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005UXJRBU-es Brokers Ginebra - 700 ml'
 sku: 'B005UXJRBU-es'
 tags: [ 'ginebra', ]

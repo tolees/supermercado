@@ -5,7 +5,7 @@ date: 2020-07-15 22:18:57
 image: 'https://m.media-amazon.com/images/I/51hpPO+0f8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083YBZ2HD-es TRESemmé Champú Cuidado Clásico 900ml - Pack de 6'
 sku: 'B083YBZ2HD-es'
 tags: [ 'champú','tresemmé', ]

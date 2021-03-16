@@ -5,7 +5,7 @@ date: 2020-01-16 09:57:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rQDI5EnIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CCB63P5-es Aicook Espumador de Leche Eléctrico Batidor de Leche...'
 sku: 'B07CCB63P5-es'
 tags: [ 'café', ]

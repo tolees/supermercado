@@ -5,7 +5,7 @@ date: 2020-03-31 18:01:51
 image: 'https://m.media-amazon.com/images/I/418FOfRxY+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004WI1MJE-es Glen Grant The Major s Reserve Whisky Single Malt 70 cl'
 sku: 'B004WI1MJE-es'
 tags: [ 'whisky', ]

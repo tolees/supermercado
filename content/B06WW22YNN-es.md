@@ -5,7 +5,7 @@ date: 2020-02-07 08:56:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fCny3mrxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WW22YNN-es Adonis Low Sugar - Barritas de Pacanas Crujiente Sabor de...'
 sku: 'B06WW22YNN-es'
 tags: [ 'gluten','sin', ]

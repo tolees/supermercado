@@ -5,7 +5,7 @@ date: 2020-01-13 08:44:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51w%2B5zLEL9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M4LWUBH-es VERNEL Suavizante Concentrado Azul Botella 57 lavados...'
 sku: 'B01M4LWUBH-es'
 tags: [ 'suavizante','vernel', ]

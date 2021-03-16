@@ -5,7 +5,7 @@ date: 2020-03-05 07:07:46
 image: 'https://m.media-amazon.com/images/I/41YzT4Y0YML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081F81QDV-es Jim Beam Doble Cask Whisky + Estuche 2 Vasos Digital - 700 ml'
 sku: 'B081F81QDV-es'
 tags: [ 'whisky', ]

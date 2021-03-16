@@ -5,7 +5,7 @@ date: 2020-02-09 15:59:28
 image: 'https://m.media-amazon.com/images/I/316kgSGo9ZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0086MEEII-es L Oréal Paris Barra de Labios Color Riche Accords Naturels...'
 sku: 'B0086MEEII-es'
 tags: [ 'oréal', ]

@@ -5,7 +5,7 @@ date: 2020-01-08 17:19:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mtkOFGp-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R7HKAWC-es Melitta Molinillo de café eléctrico Molino Disco plano...'
 sku: 'B00R7HKAWC-es'
 tags: [ 'café', ]

@@ -5,7 +5,7 @@ date: 2020-10-11 14:10:36
 image: 'https://m.media-amazon.com/images/I/51OKbo+5qnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0051GCRA4-es Lotus Biscoff Surtido de galleta caramelizada 300 galletas...'
 sku: 'B0051GCRA4-es'
 tags: [ 'biscoff', ]

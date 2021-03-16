@@ -5,7 +5,7 @@ date: 2020-09-14 18:05:52
 image: 'https://m.media-amazon.com/images/I/416wE4yYnHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAENE9C-es Air Wick Aerosol'
 sku: 'B00XAENE9C-es'
 tags: [ 'air','wick', ]

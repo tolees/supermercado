@@ -5,7 +5,7 @@ date: 2020-09-14 13:59:51
 image: 'https://m.media-amazon.com/images/I/31tZ-wmxxtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZJ81KP7-es Leche entera UHT Dana de larga duración 250 ml x 12 3 5%...'
 sku: 'B07ZJ81KP7-es'
 tags: [ 'entera','leche', ]

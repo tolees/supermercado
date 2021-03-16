@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Skip - Ultimate Triple Poder Detergente  con un 0.00 % de descuento'
-date: 2021-03-15 16:36:14
+date: 2021-03-16 16:38:09
 image: 'https://m.media-amazon.com/images/I/41XL3FHBFML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFT9G8Y-es Skip - Ultimate Triple Poder Detergente Líquido Fragancia...'
 sku: 'B07DFT9G8Y-es'
-tags: [ 'detergente', ]
+tags: [ 'detergente','skip', ]
 actualPrice: 12.84 EUR
 currency: EUR
 price: 12.84
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skip'
 buyurl: 'https://www.amazon.es/dp/B07DFT9G8Y/?tag=tolees-21'
 descuento: '0.00'
-average: '12.1860273972603'
+average: '12.2034666666667'
 ---
 
 En este momento está [Skip - Ultimate Triple Poder Detergente Líquido Fragancia Mimosín  65 Lavados](https://www.amazon.es/dp/B07DFT9G8Y/?tag=tolees-21) a 12.84 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!

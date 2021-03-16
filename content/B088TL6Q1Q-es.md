@@ -5,7 +5,7 @@ date: 2020-07-30 20:34:54
 image: 'https://m.media-amazon.com/images/I/51aLeskUo0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TL6Q1Q-es Fansport 22 Pcs Maquina de Burbujas Burbujas de Jabón...'
 sku: 'B088TL6Q1Q-es'
 tags: [ 'jabón', ]

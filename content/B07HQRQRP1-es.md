@@ -5,7 +5,7 @@ date: 2020-05-19 22:19:11
 image: 'https://m.media-amazon.com/images/I/51Z2mCvL1ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQRQRP1-es Jacobs Aluminum Nespresso® * Vainas de café compatibles -...'
 sku: 'B07HQRQRP1-es'
 tags: [ 'café', ]

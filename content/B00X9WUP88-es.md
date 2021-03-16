@@ -5,7 +5,7 @@ date: 2020-09-15 23:21:22
 image: 'https://m.media-amazon.com/images/I/41e4qee-nzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9WUP88-es L Oréal Paris Excellence Intense Coloración Tono: 6 66...'
 sku: 'B00X9WUP88-es'
 tags: [ 'oréal', ]

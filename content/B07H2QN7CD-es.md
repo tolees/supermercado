@@ -5,7 +5,7 @@ date: 2020-05-26 12:59:07
 image: 'https://m.media-amazon.com/images/I/41v6ORB6yRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2QN7CD-es Smint Caramelo Comprimido Sin Azúcar Tin Con Sabor A Fresa...'
 sku: 'B07H2QN7CD-es'
 tags: [ 'azúcar','smint', ]

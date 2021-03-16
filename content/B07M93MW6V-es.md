@@ -5,7 +5,7 @@ date: 2020-07-12 14:07:02
 image: 'https://m.media-amazon.com/images/I/41HONmDQPIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M93MW6V-es NIVEA Hyaluron Cellular Filler + Elasticidad &...'
 sku: 'B07M93MW6V-es'
 tags: [ 'nivea', ]

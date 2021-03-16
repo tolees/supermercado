@@ -5,7 +5,7 @@ date: 2020-04-18 12:08:57
 image: 'https://m.media-amazon.com/images/I/51tTI14ouvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002HYBXI-es Pustefix- Juego para Hacer pompas de jabón 70 ml...'
 sku: 'B0002HYBXI-es'
 tags: [ 'jabón', ]

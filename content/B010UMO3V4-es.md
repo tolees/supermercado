@@ -5,7 +5,7 @@ date: 2020-04-04 16:15:59
 image: 'https://m.media-amazon.com/images/I/31VM7lbyI0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010UMO3V4-es Maybelline Barra de Labios Hidratante Mate Color...'
 sku: 'B010UMO3V4-es'
 tags: [ 'maybelline', ]

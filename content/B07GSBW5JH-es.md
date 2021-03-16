@@ -5,7 +5,7 @@ date: 2020-08-08 20:06:56
 image: 'https://m.media-amazon.com/images/I/51t5Ng8+LtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSBW5JH-es NIVEA MEN Cool Kick Roll-on en pack de 6 6 x 50 ml...'
 sku: 'B07GSBW5JH-es'
 tags: [ 'desodorante','nivea', ]

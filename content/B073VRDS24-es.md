@@ -5,7 +5,7 @@ date: 2020-03-24 17:02:45
 image: 'https://m.media-amazon.com/images/I/41U9pBVaOAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073VRDS24-es Prozis 100% Real Whey Isolate Proteína para Pérdida de...'
 sku: 'B073VRDS24-es'
 tags: [ 'chocolate', ]

@@ -5,7 +5,7 @@ date: 2021-03-16 14:55:37
 image: 'https://m.media-amazon.com/images/I/51GaGh4rj0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BERLBG0-es Connemara Peated Single Malt Whisky Irlandes 40% 700ml'
 sku: 'B00BERLBG0-es'
 tags: [ 'connemara','whisky', ]
@@ -28,10 +28,10 @@ Tienes [Connemara Peated Single Malt Whisky Irlandes 40%  700ml](https://www.ama
 
 ℹ️:
 
-- País de origen: Irlanda
 - Sabor: miel, en lugar de humo de hollín con notas vegetales turbias, agua dulce de cebada, especias ligeras y roble de vainilla
+- País de origen: Irlanda
 - Aroma: cebada dulce con humo de turba, arenques y migajas de manzana bien horneadas
-- Contenido de alcohol 40%
 - Tiempo de envejecimiento en barril: 12 años
+- Contenido de alcohol 40%
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BERLBG0/?tag=tolees-21)

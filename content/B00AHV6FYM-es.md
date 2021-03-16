@@ -5,7 +5,7 @@ date: 2020-05-15 18:32:27
 image: 'https://m.media-amazon.com/images/I/31FHwpOxY8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AHV6FYM-es Laboratorios Babé - Crema Urea 10% Loción Reparadora 500...'
 sku: 'B00AHV6FYM-es'
 tags: [ 'soja', ]

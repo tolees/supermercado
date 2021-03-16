@@ -5,7 +5,7 @@ date: 2020-06-07 16:50:40
 image: 'https://m.media-amazon.com/images/I/41BYOr0DfHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZLB13W-es FIND - Mascarilla hidrogel sin goteo antienvejecimiento...'
 sku: 'B07XZLB13W-es'
 tags: [ 'de','zumo', ]

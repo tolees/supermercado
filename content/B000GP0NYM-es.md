@@ -5,7 +5,7 @@ date: 2020-01-19 17:50:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418wVzdSW5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000GP0NYM-es BSN True Mass Ganador en Polvo Chocolate - 2640 g'
 sku: 'B000GP0NYM-es'
 tags: [ 'chocolate', ]

@@ -5,7 +5,7 @@ date: 2020-01-01 08:02:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Q9o7OuPrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017YZ4EIW-es Tassimo Hot Choco Bundle Cápsulas - Cadbury Oreo Milka...'
 sku: 'B017YZ4EIW-es'
 tags: [ 'milka', ]

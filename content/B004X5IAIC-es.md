@@ -5,7 +5,7 @@ date: 2020-09-13 16:20:02
 image: 'https://m.media-amazon.com/images/I/41+vzDYez+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004X5IAIC-es Vileda 141084 Easy Wring & Clean Juego de Fregona con Palo...'
 sku: 'B004X5IAIC-es'
 tags: [ 'fregona','vileda', ]

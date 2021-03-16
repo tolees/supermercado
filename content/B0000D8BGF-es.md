@@ -5,7 +5,7 @@ date: 2020-01-05 13:52:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NnAm5MpZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000D8BGF-es Colgate Actibrush Brush HEAD 2 Cabezal para cepillo de...'
 sku: 'B0000D8BGF-es'
 tags: [ 'cepillo','colgate','de','dientes', ]

@@ -5,7 +5,7 @@ date: 2020-01-02 09:33:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31LefE-4cOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9MBHP4-es Nivea Nivea Desod Spray 150 Ml.Woman 0% Alumin. X.B 12U...'
 sku: 'B01N9MBHP4-es'
 tags: [ 'nivea', ]

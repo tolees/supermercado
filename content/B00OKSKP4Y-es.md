@@ -5,7 +5,7 @@ date: 2020-03-09 01:24:17
 image: 'https://m.media-amazon.com/images/I/41uSQRTiO2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OKSKP4Y-es Wella Elements Renewing Mascarilla - 500 ml'
 sku: 'B00OKSKP4Y-es'
 tags: [ 'wella', ]

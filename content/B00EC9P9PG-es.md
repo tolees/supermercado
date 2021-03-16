@@ -5,7 +5,7 @@ date: 2020-07-05 09:44:58
 image: 'https://m.media-amazon.com/images/I/31uyZZW1ggL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EC9P9PG-es Max Factor Pan Stick Base de maquillaje Tono 96 Bisque...'
 sku: 'B00EC9P9PG-es'
 tags: [ 'factor','max', ]

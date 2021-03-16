@@ -5,7 +5,7 @@ date: 2020-02-26 10:04:41
 image: 'https://m.media-amazon.com/images/I/51sVnyluhyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004ASORA2-es Gillette Fusion ProGlide Cuchillas de Recambio para...'
 sku: 'B004ASORA2-es'
 tags: [ 'gillette', ]

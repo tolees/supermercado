@@ -5,7 +5,7 @@ date: 2020-01-28 07:29:40
 image: 'https://m.media-amazon.com/images/I/41DZPXQngQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N8X0Y1Z-es Le Petit Marseillais Champú refrescante Detox Infusion de...'
 sku: 'B01N8X0Y1Z-es'
 tags: [ 'champú', ]

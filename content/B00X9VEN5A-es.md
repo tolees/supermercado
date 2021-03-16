@@ -5,7 +5,7 @@ date: 2020-04-14 16:38:49
 image: 'https://m.media-amazon.com/images/I/41S3H1+04XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9VEN5A-es Vernel Suavizante Concentrado Delicado - 76 lavados 1.748 l'
 sku: 'B00X9VEN5A-es'
 tags: [ 'suavizante','vernel', ]

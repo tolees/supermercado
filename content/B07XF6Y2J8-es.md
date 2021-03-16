@@ -5,7 +5,7 @@ date: 2020-05-26 18:42:59
 image: 'https://m.media-amazon.com/images/I/41eY9bEJo-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XF6Y2J8-es Mom Ginebra Premium - 1000 ml'
 sku: 'B07XF6Y2J8-es'
 tags: [ 'ginebra', ]

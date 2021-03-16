@@ -5,7 +5,7 @@ date: 2020-05-25 08:34:15
 image: 'https://m.media-amazon.com/images/I/41x8S4iEgcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077B9ZKLX-es 226ERS Isolate Protein Drink Proteina de Aislado de Suero...'
 sku: 'B077B9ZKLX-es'
 tags: [ 'chocolate', ]

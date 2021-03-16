@@ -5,7 +5,7 @@ date: 2020-09-30 19:36:42
 image: 'https://m.media-amazon.com/images/I/31hpge2mQjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0865X1PMV-es Soporte para cepillo de dientes soporte para cepillo de...'
 sku: 'B0865X1PMV-es'
 tags: [ 'cepillo','de','dientes','pasta', ]

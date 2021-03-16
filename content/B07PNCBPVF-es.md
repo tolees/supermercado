@@ -5,7 +5,7 @@ date: 2020-01-02 14:48:53
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNCBPVF-es Vermouth La Copa Extra Seco - 3 botellas x 750 ml - Total:...'
 sku: 'B07PNCBPVF-es'
 tags: [ 'vermouth', ]

@@ -5,7 +5,7 @@ date: 2020-05-11 09:47:14
 image: 'https://m.media-amazon.com/images/I/51u3CgCWB+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY1CEOP-es Knorr Sopa Cebolla - 50 g'
 sku: 'B01LY1CEOP-es'
 tags: [ 'cebolla','knorr', ]

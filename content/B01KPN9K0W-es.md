@@ -5,7 +5,7 @@ date: 2020-08-21 18:13:38
 image: 'https://m.media-amazon.com/images/I/41UbOCSQdiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KPN9K0W-es De Longhi KG 520.M Molinillo de café eléctrico con con...'
 sku: 'B01KPN9K0W-es'
 tags: [ 'café', ]

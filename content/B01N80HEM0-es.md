@@ -5,7 +5,7 @@ date: 2020-04-23 18:04:12
 image: 'https://m.media-amazon.com/images/I/51X7qs6taAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N80HEM0-es Gliss - Mascarilla Liso Asiático - 300ml - Schwarzkopf'
 sku: 'B01N80HEM0-es'
 tags: [ 'schwarzkopf', ]

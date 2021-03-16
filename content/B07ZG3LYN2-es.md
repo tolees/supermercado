@@ -5,7 +5,7 @@ date: 2020-09-15 17:57:09
 image: 'https://m.media-amazon.com/images/I/417-bG7RfFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZG3LYN2-es Axe Necesser Dark Temptation Bodyspray 150 ml + Gel de...'
 sku: 'B07ZG3LYN2-es'
 tags: [ 'axe','de','ducha','gel', ]

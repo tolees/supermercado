@@ -5,7 +5,7 @@ date: 2020-01-05 09:16:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QsovSv0dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GFY23M3-es Marca Amazon - Solimo - Alimento seco completo para perro...'
 sku: 'B07GFY23M3-es'
 tags: [ 'guisantes','solimo', ]

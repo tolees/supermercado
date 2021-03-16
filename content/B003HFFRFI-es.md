@@ -5,7 +5,7 @@ date: 2020-01-19 18:04:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21scrFtMeWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003HFFRFI-es Elizabeth Arden Green Tea Lavender EDT Spray 100 ml 1-pack'
 sku: 'B003HFFRFI-es'
 tags: [ 'arden','elizabeth', ]

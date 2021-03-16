@@ -5,7 +5,7 @@ date: 2021-01-13 13:39:22
 image: 'https://m.media-amazon.com/images/I/5180W9+yo5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXLFNEG-es President Leche Semidesnatada - 6 x 1 L'
 sku: 'B01LXLFNEG-es'
 tags: [ 'president', ]

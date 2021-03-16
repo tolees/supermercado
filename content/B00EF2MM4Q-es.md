@@ -5,7 +5,7 @@ date: 2020-05-25 16:14:00
 image: 'https://m.media-amazon.com/images/I/513rlZFqHpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EF2MM4Q-es Beefeater Burrough s Reserve Ginebra - 700 ml'
 sku: 'B00EF2MM4Q-es'
 tags: [ 'ginebra', ]

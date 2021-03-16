@@ -5,7 +5,7 @@ date: 2020-03-10 07:18:22
 image: 'https://m.media-amazon.com/images/I/511eq5d1BnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XL9T3NL-es Gillette Fusion5 - Cuchillas de Afeitar Pack Ahorro...'
 sku: 'B07XL9T3NL-es'
 tags: [ 'gillette', ]

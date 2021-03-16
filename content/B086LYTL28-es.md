@@ -5,7 +5,7 @@ date: 2020-06-30 08:21:27
 image: 'https://m.media-amazon.com/images/I/41iDQ-EGzoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086LYTL28-es 22 Pies Vino Tinto - 3 botellas de 75 cl Total: 2250 ml'
 sku: 'B086LYTL28-es'
 tags: [ 'tinto','vino', ]

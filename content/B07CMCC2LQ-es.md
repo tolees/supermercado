@@ -5,7 +5,7 @@ date: 2020-08-08 20:06:12
 image: 'https://m.media-amazon.com/images/I/31hGzuaEgdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CMCC2LQ-es NIVEA SUN Protección Facial UV Anti-edad & Anti-manchas...'
 sku: 'B07CMCC2LQ-es'
 tags: [ 'crema','hidratante','nivea', ]

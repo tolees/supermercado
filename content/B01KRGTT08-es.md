@@ -5,7 +5,7 @@ date: 2020-07-10 10:45:56
 image: 'https://m.media-amazon.com/images/I/51EAlhXePdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KRGTT08-es Nivea Cellular aufpolsternde Cuidado perlas 1er Pack 1 x...'
 sku: 'B01KRGTT08-es'
 tags: [ 'nivea', ]

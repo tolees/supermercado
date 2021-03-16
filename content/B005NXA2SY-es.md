@@ -5,7 +5,7 @@ date: 2020-04-26 10:08:17
 image: 'https://m.media-amazon.com/images/I/51RBbn3M-wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005NXA2SY-es Revlon Cuidado del pelo y del cuero cabelludo - 100 ml.'
 sku: 'B005NXA2SY-es'
 tags: [ 'revlon', ]

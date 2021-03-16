@@ -5,7 +5,7 @@ date: 2020-10-05 18:06:30
 image: 'https://m.media-amazon.com/images/I/51Znp7CpNlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5QD74P-es NIVEA Q10PlusC Mascarilla de Tejido Antiedad + Energizante...'
 sku: 'B07W5QD74P-es'
 tags: [ 'nivea', ]

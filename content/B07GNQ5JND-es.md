@@ -5,7 +5,7 @@ date: 2020-02-18 12:34:46
 image: 'https://m.media-amazon.com/images/I/41fdmZ0wxcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GNQ5JND-es NIVEA Q10 3en1 Cushion Tono Oscuro 1 x 15 ml...'
 sku: 'B07GNQ5JND-es'
 tags: [ 'nivea', ]

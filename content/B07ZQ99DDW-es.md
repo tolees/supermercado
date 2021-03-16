@@ -5,7 +5,7 @@ date: 2020-06-20 15:03:45
 image: 'https://m.media-amazon.com/images/I/51ltOq1q68L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQ99DDW-es Kit de fabricación de sushi de bambú 9 piezas alfombrilla...'
 sku: 'B07ZQ99DDW-es'
 tags: [ 'arroz', ]

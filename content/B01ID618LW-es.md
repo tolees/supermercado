@@ -5,7 +5,7 @@ date: 2020-09-15 16:50:32
 image: 'https://m.media-amazon.com/images/I/51W6N6N1ocL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ID618LW-es Vileda Turbo 2in1 - Recambio de Microfibras y poliamida...'
 sku: 'B01ID618LW-es'
 tags: [ 'vileda', ]

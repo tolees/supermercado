@@ -5,7 +5,7 @@ date: 2020-09-17 17:02:05
 image: 'https://m.media-amazon.com/images/I/41VW6cKf8+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B6NFP47-es Nestlé Naturnes Bio Bolsitas Bebida Agua Y Fruta Tropical...'
 sku: 'B08B6NFP47-es'
 tags: [ 'nestlé', ]

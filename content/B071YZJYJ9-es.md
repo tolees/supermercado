@@ -5,7 +5,7 @@ date: 2020-02-06 14:08:34
 image: 'https://m.media-amazon.com/images/I/51o6FtweXOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071YZJYJ9-es Purina Gourmet Diamant Delicias en Gelatina comida para...'
 sku: 'B071YZJYJ9-es'
 tags: [ 'purina', ]

@@ -5,7 +5,7 @@ date: 2020-12-21 13:13:01
 image: 'https://m.media-amazon.com/images/I/31z2GCr0qlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QW9FNZT-es 501 Brandy 30º Total: 1000 ml'
 sku: 'B07QW9FNZT-es'
 tags: [ 'brandy', ]
@@ -28,8 +28,8 @@ Tienes [501 Brandy 30º  Total: 1000 ml](https://www.amazon.es/dp/B07QW9FNZT/?ta
 
 🔎:
 
-- Capacidad: 100CL
 - Sabor excelente y agradable
+- Capacidad: 100CL
 - Graduacion: 30º
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QW9FNZT/?tag=tolees-21)

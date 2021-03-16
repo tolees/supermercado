@@ -5,7 +5,7 @@ date: 2020-10-10 07:46:36
 image: 'https://m.media-amazon.com/images/I/41OPWibcx9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EDMABPU-es Eco Bag Ecobag – Bolsas de Basura 50 Unidades Resistentes'
 sku: 'B00EDMABPU-es'
 tags: [ 'basura','bolsas','de', ]

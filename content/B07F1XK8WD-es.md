@@ -5,7 +5,7 @@ date: 2020-06-28 23:28:10
 image: 'https://m.media-amazon.com/images/I/41aDya2V8UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1XK8WD-es Mascarilla de Pelo Morado-Matizador para Cabello Rubio y...'
 sku: 'B07F1XK8WD-es'
 tags: [ 'acondicionador', ]

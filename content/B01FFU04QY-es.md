@@ -5,7 +5,7 @@ date: 2020-02-28 16:48:55
 image: 'https://m.media-amazon.com/images/I/41XW5WvNiuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFU04QY-es True Instinct Original - Pienso para Gato Adulto con Pollo...'
 sku: 'B01FFU04QY-es'
 tags: [ 'arroz','integral', ]

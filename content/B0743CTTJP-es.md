@@ -5,7 +5,7 @@ date: 2020-07-23 22:30:53
 image: 'https://m.media-amazon.com/images/I/61Q8uiNP2uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0743CTTJP-es Iberitos - 18 Monodosis de Queso Crema - 22 Gramos'
 sku: 'B0743CTTJP-es'
 tags: [ 'queso', ]

@@ -5,7 +5,7 @@ date: 2020-04-17 08:33:14
 image: 'https://m.media-amazon.com/images/I/419rzhAqbBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLQLC2P-es GERUIKE Portarrollos De Cocina con Estante Portarrollos de...'
 sku: 'B07DLQLC2P-es'
 tags: [ 'cocina','de','papel', ]

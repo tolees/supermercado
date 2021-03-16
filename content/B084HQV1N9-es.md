@@ -5,7 +5,7 @@ date: 2020-05-20 08:19:43
 image: 'https://m.media-amazon.com/images/I/41lgO8bbR+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084HQV1N9-es SUPLEMENTO PARA MANTENER LA SALUD DEL TRACTO URINARIO-...'
 sku: 'B084HQV1N9-es'
 tags: [ 'gluten','sin', ]

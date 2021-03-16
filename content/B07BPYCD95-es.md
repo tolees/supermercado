@@ -5,7 +5,7 @@ date: 2020-01-07 10:40:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417Lwax6K-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BPYCD95-es ECOSUSI Maletín para Bolso Portatil Mujer Mujer Mochila...'
 sku: 'B07BPYCD95-es'
 tags: [ 'café', ]

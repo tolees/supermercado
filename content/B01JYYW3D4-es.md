@@ -5,7 +5,7 @@ date: 2020-05-26 18:37:42
 image: 'https://m.media-amazon.com/images/I/41tHnqN9DEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JYYW3D4-es Finish All in 1 Max Power Gel Limón Desengrasante...'
 sku: 'B01JYYW3D4-es'
 tags: [ 'detergente','finish', ]

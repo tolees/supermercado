@@ -5,7 +5,7 @@ date: 2020-05-19 17:36:51
 image: 'https://m.media-amazon.com/images/I/41lDE85IA0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V4X6DB2-es Jim Beam Apple Bourbon Whisky con Licor de Manzana 35% -...'
 sku: 'B00V4X6DB2-es'
 tags: [ 'manzana','whisky', ]

@@ -5,7 +5,7 @@ date: 2020-04-18 01:20:36
 image: 'https://m.media-amazon.com/images/I/31FGTiEtdlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002CMLS3M-es Aveda 50397 - Acondicionador 200 ml'
 sku: 'B002CMLS3M-es'
 tags: [ 'acondicionador', ]

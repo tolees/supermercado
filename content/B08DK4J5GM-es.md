@@ -5,7 +5,7 @@ date: 2020-08-30 04:26:27
 image: 'https://m.media-amazon.com/images/I/419wZQh+l4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DK4J5GM-es MOSUO Dispensador de Jabón Automático 350ml Dispensador...'
 sku: 'B08DK4J5GM-es'
 tags: [ 'jabón', ]

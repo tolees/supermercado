@@ -5,7 +5,7 @@ date: 2020-04-29 13:10:15
 image: 'https://m.media-amazon.com/images/I/41Fdq8AS37L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SKHM1VR-es Trapa Intenso - Chocolate Blanco con Almendras Enteras 175 g'
 sku: 'B07SKHM1VR-es'
 tags: [ 'chocolate', ]

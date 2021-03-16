@@ -5,7 +5,7 @@ date: 2020-05-22 15:15:58
 image: 'https://m.media-amazon.com/images/I/51IfOSktCwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DGVAL2W-es Cardhu 15 Años Whisky Escocés - 700 ml'
 sku: 'B00DGVAL2W-es'
 tags: [ 'cardhu','whisky', ]

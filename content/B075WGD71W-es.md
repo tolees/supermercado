@@ -5,7 +5,7 @@ date: 2020-01-21 14:25:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31gbNjoPQ%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075WGD71W-es Hugo Boss Man Desodorante Spray 1er Pack 1 x 150 ml'
 sku: 'B075WGD71W-es'
 tags: [ 'desodorante', ]

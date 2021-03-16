@@ -5,7 +5,7 @@ date: 2020-08-28 13:58:41
 image: 'https://m.media-amazon.com/images/I/41sBMMeetZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDGYSWP-es Garnier Skin Active - Pure Active Sensitive Limpiador de...'
 sku: 'B06XDGYSWP-es'
 tags: [ 'garnier','jabón', ]

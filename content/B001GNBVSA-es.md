@@ -5,7 +5,7 @@ date: 2020-06-08 12:29:57
 image: 'https://m.media-amazon.com/images/I/316-SIS2xJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001GNBVSA-es Max Factor Base de maquillaje - 1 unidad'
 sku: 'B001GNBVSA-es'
 tags: [ 'factor','max', ]

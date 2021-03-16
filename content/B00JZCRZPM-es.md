@@ -5,7 +5,7 @@ date: 2020-06-05 11:56:06
 image: 'https://m.media-amazon.com/images/I/418-eEn0+CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JZCRZPM-es OGX - Champú Aceite de Keratina 385 ml'
 sku: 'B00JZCRZPM-es'
 tags: [ 'champú', ]

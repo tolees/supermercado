@@ -5,7 +5,7 @@ date: 2020-01-10 10:16:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z5I4VlYAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013P2VKXK-es TENTACION INCIENSO EROTICO CON FEROMONAS CHOCOLATE'
 sku: 'B013P2VKXK-es'
 tags: [ 'chocolate', ]

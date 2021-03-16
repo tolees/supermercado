@@ -5,7 +5,7 @@ date: 2020-12-31 08:55:42
 image: 'https://m.media-amazon.com/images/I/21MM-LMRIdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SL937SC-es Chicco Tutina Bimbo con Apertura Frontale Mono Corto para...'
 sku: 'B07SL937SC-es'
 tags: [ 'bimbo', ]

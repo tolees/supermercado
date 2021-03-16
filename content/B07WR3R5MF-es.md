@@ -5,7 +5,7 @@ date: 2020-01-05 15:03:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41u9L10RJcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WR3R5MF-es 3 pcs/set del hombre de afeitar kit de afeitado Espuma...'
 sku: 'B07WR3R5MF-es'
 tags: [ 'jabón', ]

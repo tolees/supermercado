@@ -5,7 +5,7 @@ date: 2020-12-23 16:47:14
 image: 'https://m.media-amazon.com/images/I/31lsoaVgJJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CHV4VYK-es Lagarto Suavizante Azul Concentrado 70 Lavados 1 5l-...'
 sku: 'B08CHV4VYK-es'
 tags: [ 'suavizante', ]
@@ -28,9 +28,9 @@ Tienes [Lagarto Suavizante Azul Concentrado 70 Lavados 1 5l- Paquete 6 Unidades 
 
 🔎:
 
-- De la marca Lagarto
 - Complementa el lavado
-- Aroma fresco
+- De la marca Lagarto
 - Aporte extra de suavidad
+- Aroma fresco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CHV4VYK/?tag=tolees-21)

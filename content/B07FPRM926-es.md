@@ -5,7 +5,7 @@ date: 2020-10-10 13:12:47
 image: 'https://m.media-amazon.com/images/I/310fgCrCiiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPRM926-es TAC - Juego de 2 paños de cocina absorbentes 100% algodón...'
 sku: 'B07FPRM926-es'
 tags: [ 'magdalena', ]

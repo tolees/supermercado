@@ -5,7 +5,7 @@ date: 2020-09-19 05:25:55
 image: 'https://m.media-amazon.com/images/I/31ELX3yL2qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D3LC1J9-es Sonew Base de jabón Natural Materias primas para jabón...'
 sku: 'B07D3LC1J9-es'
 tags: [ 'jabón', ]

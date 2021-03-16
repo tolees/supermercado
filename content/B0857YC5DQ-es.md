@@ -5,7 +5,7 @@ date: 2020-11-21 12:32:12
 image: 'https://m.media-amazon.com/images/I/51KS-m6W8xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0857YC5DQ-es Garnier Skin Active - BB Cream'
 sku: 'B0857YC5DQ-es'
 tags: [ 'garnier', ]

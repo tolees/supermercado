@@ -5,7 +5,7 @@ date: 2020-04-03 14:23:16
 image: 'https://m.media-amazon.com/images/I/41xycPZ3BTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPJ24FR-es Tamnavulin Sherry Cask Whisky De Malta Escocés - 700 ml'
 sku: 'B07VPJ24FR-es'
 tags: [ 'whisky', ]

@@ -5,7 +5,7 @@ date: 2020-11-24 02:01:53
 image: 'https://m.media-amazon.com/images/I/41ro6d53HXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q43NCLY-es Vestimenta Casual de Playa para Mujer Vestidos de Verano...'
 sku: 'B07Q43NCLY-es'
 tags: [ 'espagueti', ]

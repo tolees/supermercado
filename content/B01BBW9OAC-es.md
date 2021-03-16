@@ -5,7 +5,7 @@ date: 2020-03-20 10:02:39
 image: 'https://m.media-amazon.com/images/I/41WOJYYjG0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BBW9OAC-es Caffè Borbone Cápsulas de café - 100 Cápsulas'
 sku: 'B01BBW9OAC-es'
 tags: [ 'café','cápsulas','de', ]

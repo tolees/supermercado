@@ -5,7 +5,7 @@ date: 2020-05-23 13:08:49
 image: 'https://m.media-amazon.com/images/I/313ZeNlFFcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AO9C8BU-es Jabón potásico 750 ml. listo para usar'
 sku: 'B01AO9C8BU-es'
 tags: [ 'jabón', ]

@@ -5,7 +5,7 @@ date: 2020-01-24 11:10:57
 image: 'https://m.media-amazon.com/images/I/21Hx5dOQYpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCV239W-es Maybelline Lápiz de Ojos Efecto Tatuaje Tattoo Liner 940...'
 sku: 'B07HCV239W-es'
 tags: [ 'maybelline', ]

@@ -5,7 +5,7 @@ date: 2020-01-22 20:02:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lUMjw0BbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071YXTBYS-es Purina Gourmet Crystal Soup comida para gatos con Pollo...'
 sku: 'B071YXTBYS-es'
 tags: [ 'purina', ]

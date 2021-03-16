@@ -5,7 +5,7 @@ date: 2020-01-22 13:30:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51xCXx9C01L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MF9YO7A-es Knorr - Sopa Pollo Fideos 63 g - [Pack de 19]'
 sku: 'B01MF9YO7A-es'
 tags: [ 'knorr', ]

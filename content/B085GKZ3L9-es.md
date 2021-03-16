@@ -5,7 +5,7 @@ date: 2020-03-07 22:15:19
 image: 'https://m.media-amazon.com/images/I/31xmXScJGnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085GKZ3L9-es Garrafa 5L gel hidroalcohólico higienizante PURLINE...'
 sku: 'B085GKZ3L9-es'
 tags: [ 'hidroalcohólico', ]

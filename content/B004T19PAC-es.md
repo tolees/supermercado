@@ -5,7 +5,7 @@ date: 2020-06-02 10:04:04
 image: 'https://m.media-amazon.com/images/I/418MB+K6vrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004T19PAC-es Bed Head by TIGI Champú Resurrection Urban Antidotes 750 ml'
 sku: 'B004T19PAC-es'
 tags: [ 'champú', ]

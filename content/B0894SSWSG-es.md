@@ -5,7 +5,7 @@ date: 2020-07-23 21:36:10
 image: 'https://m.media-amazon.com/images/I/41c52aEUT9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0894SSWSG-es SLANWIN Dispensador de Jabón Automático 300ml Ipx4...'
 sku: 'B0894SSWSG-es'
 tags: [ 'jabón', ]

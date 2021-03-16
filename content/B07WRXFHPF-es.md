@@ -5,7 +5,7 @@ date: 2021-01-10 11:23:44
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRXFHPF-es Oclean Air Smart Sonic - Cepillo de dientes eléctrico...'
 sku: 'B07WRXFHPF-es'
 tags: [ 'cepillo','de','dientes', ]

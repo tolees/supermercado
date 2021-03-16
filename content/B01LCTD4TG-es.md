@@ -5,7 +5,7 @@ date: 2020-03-10 16:39:24
 image: 'https://m.media-amazon.com/images/I/5168oAHXJpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LCTD4TG-es Mahou 5 Estrellas Cerveza Dorada Lager 5.5% de Volumen de...'
 sku: 'B01LCTD4TG-es'
 tags: [ 'cerveza', ]

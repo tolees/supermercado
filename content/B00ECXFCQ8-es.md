@@ -5,7 +5,7 @@ date: 2020-01-09 01:20:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31olBUPpbGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ECXFCQ8-es L Oréal Máscara - 7 ml.'
 sku: 'B00ECXFCQ8-es'
 tags: [ 'oréal', ]

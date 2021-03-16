@@ -5,7 +5,7 @@ date: 2020-01-20 18:36:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31nW8Mc6B8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000CNKC76-es Davidoff Cool Water Desodorante Spray Mild 1 x 75ml'
 sku: 'B000CNKC76-es'
 tags: [ 'desodorante', ]

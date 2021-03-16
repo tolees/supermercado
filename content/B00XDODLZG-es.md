@@ -5,7 +5,7 @@ date: 2020-05-28 11:16:04
 image: 'https://m.media-amazon.com/images/I/41TIXIKqfaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XDODLZG-es Carmencita Orégano Especias - 45 gr'
 sku: 'B00XDODLZG-es'
 tags: [ 'carmencita', ]

@@ -5,7 +5,7 @@ date: 2020-04-07 01:35:35
 image: 'https://m.media-amazon.com/images/I/41kN5RkWqJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XTCTST6-es Neutrogena Loción Corporal Elasticidad Intensa - 2...'
 sku: 'B06XTCTST6-es'
 tags: [ 'neutrogena', ]

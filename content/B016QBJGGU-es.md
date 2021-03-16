@@ -5,7 +5,7 @@ date: 2020-10-06 18:51:56
 image: 'https://m.media-amazon.com/images/I/31YWHO-qe6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016QBJGGU-es Vino Tinto Mencía D.O. Bierzo 750ml'
 sku: 'B016QBJGGU-es'
 tags: [ 'tinto','vino', ]

@@ -5,7 +5,7 @@ date: 2020-07-20 17:43:20
 image: 'https://m.media-amazon.com/images/I/51vfjM3Fx6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TFH171C-es [Nueva versión] LEDGLE Cortina Luces LED Fairy String...'
 sku: 'B07TFH171C-es'
 tags: [ 'fairy', ]

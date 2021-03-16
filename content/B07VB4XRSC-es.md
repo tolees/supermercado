@@ -5,7 +5,7 @@ date: 2020-01-15 12:39:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51BN-HVukpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VB4XRSC-es Flor Revive Floral - Suavizante para la Ropa 8 x 1.2L'
 sku: 'B07VB4XRSC-es'
 tags: [ 'suavizante', ]

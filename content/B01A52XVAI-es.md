@@ -5,7 +5,7 @@ date: 2020-01-16 11:39:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IIAf-8PcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A52XVAI-es L Oréal Paris Base de Maquillaje Fluida Cushion Rose Beige 6'
 sku: 'B01A52XVAI-es'
 tags: [ 'oréal', ]

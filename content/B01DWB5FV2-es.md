@@ -5,7 +5,7 @@ date: 2020-01-05 06:09:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51QyB-CGNsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DWB5FV2-es Ausonia Discreet Maxi Noche Compresas Para Pérdidas De...'
 sku: 'B01DWB5FV2-es'
 tags: [ 'ausonia', ]

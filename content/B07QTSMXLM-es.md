@@ -5,7 +5,7 @@ date: 2020-01-17 18:02:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Kh1CuGCXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QTSMXLM-es Marca Amazon- Amfit Nutrition Barrita de proteínas sabor a...'
 sku: 'B07QTSMXLM-es'
 tags: [ 'chocolate', ]

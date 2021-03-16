@@ -5,7 +5,7 @@ date: 2020-01-10 07:25:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418J-zLRbWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CXCJ63M-es Garnier Skin Active Gelatina Hidratante para el Rostro...'
 sku: 'B07CXCJ63M-es'
 tags: [ 'garnier', ]

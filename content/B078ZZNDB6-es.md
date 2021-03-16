@@ -5,7 +5,7 @@ date: 2020-04-30 19:31:53
 image: 'https://m.media-amazon.com/images/I/41M7479Z5uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZZNDB6-es TRESemmé Champú Repara y Fortalece - Paquete de 3 x 700 ml...'
 sku: 'B078ZZNDB6-es'
 tags: [ 'champú','tresemmé', ]

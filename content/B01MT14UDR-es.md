@@ -5,7 +5,7 @@ date: 2020-03-16 07:22:40
 image: 'https://m.media-amazon.com/images/I/412qVyqFiuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT14UDR-es L Oréal Paris Men Expert After Shave Reparador...'
 sku: 'B01MT14UDR-es'
 tags: [ 'oréal', ]

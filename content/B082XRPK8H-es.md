@@ -5,7 +5,7 @@ date: 2020-09-24 16:04:12
 image: 'https://m.media-amazon.com/images/I/31idoD02ADL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XRPK8H-es Maybelline New York Brow Extensions Stick de Cejas Tono 06...'
 sku: 'B082XRPK8H-es'
 tags: [ 'maybelline', ]

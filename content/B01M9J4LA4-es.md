@@ -5,7 +5,7 @@ date: 2020-01-18 21:31:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dH4nLgFUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9J4LA4-es Hero Maridaje del Chef Mermelada de Cebolla Caramelizada...'
 sku: 'B01M9J4LA4-es'
 tags: [ 'cebolla','mermelada', ]

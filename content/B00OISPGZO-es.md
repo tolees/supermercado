@@ -5,7 +5,7 @@ date: 2020-04-05 17:44:18
 image: 'https://m.media-amazon.com/images/I/41Rg+FszesL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OISPGZO-es Sangre de Toro Reserva Vino Tinto - 3 botellas de 75 cl...'
 sku: 'B00OISPGZO-es'
 tags: [ 'tinto','vino', ]

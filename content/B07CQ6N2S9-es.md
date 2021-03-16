@@ -5,7 +5,7 @@ date: 2020-01-03 08:21:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4159PRJ%2BN5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQ6N2S9-es Brillante Arroz Largo - Pack de 16 vasitos X 200 Gr -...'
 sku: 'B07CQ6N2S9-es'
 tags: [ 'arroz', ]

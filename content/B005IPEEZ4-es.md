@@ -5,7 +5,7 @@ date: 2020-05-30 06:35:50
 image: 'https://m.media-amazon.com/images/I/51zRXIPdq+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005IPEEZ4-es Dr. Schar - Pan payés de trigo sarraceno SIN GLUTEN - 240 gr'
 sku: 'B005IPEEZ4-es'
 tags: [ 'gluten','pan','payés','sin','trigo', ]

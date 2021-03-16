@@ -5,7 +5,7 @@ date: 2020-09-07 13:23:41
 image: 'https://m.media-amazon.com/images/I/41EAps8xpdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089HJ4SQ5-es TRESemmé Champú Liso y Sedoso 6 x 855 ML'
 sku: 'B089HJ4SQ5-es'
 tags: [ 'champú','tresemmé', ]

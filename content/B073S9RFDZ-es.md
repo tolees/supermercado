@@ -5,7 +5,7 @@ date: 2020-07-09 22:46:51
 image: 'https://m.media-amazon.com/images/I/510RBIKlerL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073S9RFDZ-es Hawaiian Tropic Sensitive Skin Face - Crema Solar para la...'
 sku: 'B073S9RFDZ-es'
 tags: [ 'crema','solar', ]

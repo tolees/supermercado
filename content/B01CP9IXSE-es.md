@@ -5,7 +5,7 @@ date: 2020-05-30 11:55:21
 image: 'https://m.media-amazon.com/images/I/41A5Gi5+7qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CP9IXSE-es Haribo Relleno Cola Geles Dulces - 1500 gr'
 sku: 'B01CP9IXSE-es'
 tags: [ 'haribo', ]

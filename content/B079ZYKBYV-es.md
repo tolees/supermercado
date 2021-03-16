@@ -5,7 +5,7 @@ date: 2020-05-31 18:11:10
 image: 'https://m.media-amazon.com/images/I/51qDgrtOA-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZYKBYV-es Nestlé Bolsita de puré de frutas variedad Manzana...'
 sku: 'B079ZYKBYV-es'
 tags: [ 'manzana','nestlé', ]

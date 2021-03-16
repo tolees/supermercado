@@ -5,7 +5,7 @@ date: 2020-08-20 21:47:12
 image: 'https://m.media-amazon.com/images/I/41yobp+IceL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRSZ841-es Premier Protein Protein Bar Chocolate Caramel 24x40g -...'
 sku: 'B07DRSZ841-es'
 tags: [ 'azúcar','chocolate', ]

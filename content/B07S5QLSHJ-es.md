@@ -5,7 +5,7 @@ date: 2020-03-10 11:43:16
 image: 'https://m.media-amazon.com/images/I/61JwHNzeFxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5QLSHJ-es Ambientador Natural y Purificación de Aire 3 Pack Bambú...'
 sku: 'B07S5QLSHJ-es'
 tags: [ 'desodorante', ]

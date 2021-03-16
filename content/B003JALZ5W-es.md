@@ -5,7 +5,7 @@ date: 2020-07-02 07:23:33
 image: 'https://m.media-amazon.com/images/I/51144Ct1-wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003JALZ5W-es PowerBar Ride Energy Chocolate Caramel 18x55g - Barra de...'
 sku: 'B003JALZ5W-es'
 tags: [ 'chocolate', ]

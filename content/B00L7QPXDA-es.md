@@ -5,7 +5,7 @@ date: 2020-06-09 16:24:19
 image: 'https://m.media-amazon.com/images/I/41nNd79kfgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L7QPXDA-es Neutrogena - Cuerpo Hidratación Bálsamo Hidratación...'
 sku: 'B00L7QPXDA-es'
 tags: [ 'neutrogena', ]

@@ -5,7 +5,7 @@ date: 2020-01-07 16:00:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Mg0LsMWiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDB3Y8S-es Skip Ultimate Triple Poder Pieles Sensibles Detergente...'
 sku: 'B07FDB3Y8S-es'
 tags: [ 'detergente', ]

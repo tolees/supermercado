@@ -5,7 +5,7 @@ date: 2020-07-23 23:04:54
 image: 'https://m.media-amazon.com/images/I/51RpJkcDvVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7QN5JE-es Orlando Tomate Frito Clásico - Pack de 3 x 210 g - Total :...'
 sku: 'B01K7QN5JE-es'
 tags: [ 'orlando', ]

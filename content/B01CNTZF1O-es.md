@@ -5,7 +5,7 @@ date: 2020-09-10 13:01:15
 image: 'https://m.media-amazon.com/images/I/41oUDvZL+6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CNTZF1O-es Borges Natura - Cocktail Frutos Secos de nueces de...'
 sku: 'B01CNTZF1O-es'
 tags: [ 'frutos','secos', ]

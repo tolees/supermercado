@@ -5,7 +5,7 @@ date: 2020-01-01 18:25:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NR%2BehkBYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SM9T7JF-es Cola Cao Original Chocolate en Polvo - 770 gr'
 sku: 'B07SM9T7JF-es'
 tags: [ 'chocolate', ]

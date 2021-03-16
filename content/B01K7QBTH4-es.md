@@ -5,7 +5,7 @@ date: 2020-12-21 13:35:14
 image: 'https://m.media-amazon.com/images/I/512244dfcOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7QBTH4-es Azucarera Azúcar Blanco - 1000 g'
 sku: 'B01K7QBTH4-es'
 tags: [ 'azúcar', ]

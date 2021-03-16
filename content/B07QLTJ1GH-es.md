@@ -5,7 +5,7 @@ date: 2020-01-14 13:07:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/317WhxDlerL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QLTJ1GH-es Beito 4 UNIDS Cabeza de cepillo de dientes eléctrico...'
 sku: 'B07QLTJ1GH-es'
 tags: [ 'cepillo','de','dientes', ]

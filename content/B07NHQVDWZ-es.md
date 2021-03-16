@@ -5,7 +5,7 @@ date: 2020-09-03 16:39:23
 image: 'https://m.media-amazon.com/images/I/41yughxLNYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NHQVDWZ-es Schmidt s - Gel de ducha sólido charcoal y magnesium - 142 gr'
 sku: 'B07NHQVDWZ-es'
 tags: [ 'de','ducha','gel', ]

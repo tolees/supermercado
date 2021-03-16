@@ -5,7 +5,7 @@ date: 2020-09-15 08:42:30
 image: 'https://m.media-amazon.com/images/I/41DzChXdxwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LSS10OI-es Bolero Bebida Instantánea sin Azúcar Sabor Papaya -...'
 sku: 'B00LSS10OI-es'
 tags: [ 'azúcar', ]

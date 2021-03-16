@@ -5,7 +5,7 @@ date: 2020-07-06 16:41:52
 image: 'https://m.media-amazon.com/images/I/51pa-RtjVHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081F8N4VL-es Roku Ginebra + Tónica y Vaso 70 cl'
 sku: 'B081F8N4VL-es'
 tags: [ 'ginebra', ]

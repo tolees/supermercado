@@ -5,7 +5,7 @@ date: 2020-04-16 18:16:30
 image: 'https://m.media-amazon.com/images/I/41yvNKmf2YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0756GS3QJ-es Vileda - Fregona microfibras y algodón'
 sku: 'B0756GS3QJ-es'
 tags: [ 'fregona','vileda', ]

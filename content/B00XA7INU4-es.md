@@ -5,7 +5,7 @@ date: 2020-04-18 01:57:05
 image: 'https://m.media-amazon.com/images/I/51rs-vHPBcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA7INU4-es Campos Conserva de Bonito del norte en escabeche...'
 sku: 'B00XA7INU4-es'
 tags: [ 'conserva','escabeche', ]

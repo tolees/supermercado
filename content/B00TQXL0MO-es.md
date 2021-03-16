@@ -5,7 +5,7 @@ date: 2020-08-09 16:18:17
 image: 'https://m.media-amazon.com/images/I/41G1JvLhthL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TQXL0MO-es Philips Sonicare Serie 2 HX6231/01 - Cepillo de dientes...'
 sku: 'B00TQXL0MO-es'
 tags: [ 'cepillo','de','dientes', ]

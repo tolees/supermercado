@@ -5,7 +5,7 @@ date: 2020-07-22 07:15:40
 image: 'https://m.media-amazon.com/images/I/4189raOdn+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075YSMXN9-es Cúrcuma 4600mg Extracto Certificado 120 cápsulas con...'
 sku: 'B075YSMXN9-es'
 tags: [ 'cúrcuma', ]

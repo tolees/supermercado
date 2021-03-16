@@ -5,7 +5,7 @@ date: 2020-01-09 15:00:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411R6Mjd8kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JCVD83H-es Cesar elección del Chef Ternera A La Rejilla con arroz...'
 sku: 'B07JCVD83H-es'
 tags: [ 'arroz','integral', ]

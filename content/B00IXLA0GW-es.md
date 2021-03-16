@@ -5,7 +5,7 @@ date: 2020-04-06 18:41:18
 image: 'https://m.media-amazon.com/images/I/51Y06bgVsEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IXLA0GW-es Tomatin Single Malt Whisky 12 Años - 700 ml'
 sku: 'B00IXLA0GW-es'
 tags: [ 'whisky', ]

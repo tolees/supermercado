@@ -5,7 +5,7 @@ date: 2020-08-12 13:58:37
 image: 'https://m.media-amazon.com/images/I/411GumdrEAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZYBJQC-es Elvive Acondicionador con Arcilla Extraordinaria - 300 ml'
 sku: 'B07GZYBJQC-es'
 tags: [ 'acondicionador', ]

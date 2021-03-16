@@ -5,7 +5,7 @@ date: 2020-06-24 04:25:40
 image: 'https://m.media-amazon.com/images/I/41Bonf9V0-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7WJPDW-es AUTOPkio 200 piezas Bolsas para helados de paletas de...'
 sku: 'B07D7WJPDW-es'
 tags: [ 'yogur', ]

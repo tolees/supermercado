@@ -5,7 +5,7 @@ date: 2020-09-17 10:30:40
 image: 'https://m.media-amazon.com/images/I/512EKH3b5yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHGQPL5-es Padró & Co Vermouth en Caja de Madera - Paquete de 4 x 750...'
 sku: 'B07BHGQPL5-es'
 tags: [ 'vermouth', ]

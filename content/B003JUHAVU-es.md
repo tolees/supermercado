@@ -5,7 +5,7 @@ date: 2020-01-23 21:07:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414ERF2eGML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003JUHAVU-es L Oréal Paris elnett de Luxe - haarspray dauerhaftes...'
 sku: 'B003JUHAVU-es'
 tags: [ 'oréal', ]

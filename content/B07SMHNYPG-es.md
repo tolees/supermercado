@@ -5,7 +5,7 @@ date: 2020-12-06 16:04:42
 image: 'https://m.media-amazon.com/images/I/41C38DmVMoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SMHNYPG-es Chicco Pantaloni Lunghi Bimbo Pantalones para Bebés'
 sku: 'B07SMHNYPG-es'
 tags: [ 'bimbo', ]

@@ -5,7 +5,7 @@ date: 2020-01-29 13:17:47
 image: 'https://m.media-amazon.com/images/I/51G1sH1ANwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XADGT8G-es Colon Detergente polvo azul 44 lavados - 3212 gr'
 sku: 'B00XADGT8G-es'
 tags: [ 'detergente', ]

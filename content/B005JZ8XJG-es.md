@@ -5,7 +5,7 @@ date: 2020-07-06 07:28:01
 image: 'https://m.media-amazon.com/images/I/41OmilmCaQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005JZ8XJG-es Listerine Zero 0% Alcohol Enjuague Bucal - 500 ml'
 sku: 'B005JZ8XJG-es'
 tags: [ 'listerine', ]

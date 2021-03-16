@@ -5,7 +5,7 @@ date: 2020-03-27 05:45:22
 image: 'https://m.media-amazon.com/images/I/31tfjp9g3rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTC0HP8-es L Oréal Paris Colorete en Stick Infalible Chubby Fuchsia Fame'
 sku: 'B01MTC0HP8-es'
 tags: [ 'oréal', ]

@@ -5,7 +5,7 @@ date: 2020-01-09 14:35:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dk7ELq%2B3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JE0ZCIC-es HeroNeo - Juego de plantillas para decoración de café 16...'
 sku: 'B00JE0ZCIC-es'
 tags: [ 'café', ]

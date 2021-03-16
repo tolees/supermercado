@@ -5,7 +5,7 @@ date: 2020-03-22 15:06:37
 image: 'https://m.media-amazon.com/images/I/41eoaaub9rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ORW0GM4-es Osborne Magno Solera Reserva Brandy - 1000 ml'
 sku: 'B00ORW0GM4-es'
 tags: [ 'brandy', ]

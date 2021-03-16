@@ -5,7 +5,7 @@ date: 2020-01-10 19:15:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31TaumvvneL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5K2MR9-es Revlon Cuidado del pelo y del cuero cabelludo - 300 ml.'
 sku: 'B07D5K2MR9-es'
 tags: [ 'revlon', ]

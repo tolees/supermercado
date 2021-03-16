@@ -5,7 +5,7 @@ date: 2020-06-02 12:07:14
 image: 'https://m.media-amazon.com/images/I/21PCajPa3gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAC9JRA-es Dove Desodorante Original Roll On 50 Ml'
 sku: 'B00XAC9JRA-es'
 tags: [ 'desodorante','dove', ]

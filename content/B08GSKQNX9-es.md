@@ -5,7 +5,7 @@ date: 2020-09-22 18:31:12
 image: 'https://m.media-amazon.com/images/I/41VRT1yL38L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GSKQNX9-es SO-buts Dispensadores De Desinfectante De Manos para...'
 sku: 'B08GSKQNX9-es'
 tags: [ 'jabón', ]

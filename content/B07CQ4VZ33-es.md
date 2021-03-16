@@ -5,7 +5,7 @@ date: 2020-06-14 14:38:16
 image: 'https://m.media-amazon.com/images/I/51+-bSch3+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQ4VZ33-es Brillante Arroz Redondo - Pack de 16 vasitos X 200 Gr -...'
 sku: 'B07CQ4VZ33-es'
 tags: [ 'arroz', ]

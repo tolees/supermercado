@@ -5,7 +5,7 @@ date: 2020-01-04 09:31:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/316hMf0UJOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F87BBJ4-es NR11800070008 Hi-SPEED MEMORIA USB STICK 8GB FLASH...'
 sku: 'B00F87BBJ4-es'
 tags: [ 'chocolate', ]

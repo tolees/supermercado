@@ -5,7 +5,7 @@ date: 2020-08-28 16:12:12
 image: 'https://m.media-amazon.com/images/I/41Jv-k0v8tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2DLWH1-es MICHLEY Irrompible Copas de Vino Tinto 100% Tritan-...'
 sku: 'B07H2DLWH1-es'
 tags: [ 'tinto','vino', ]

@@ -5,7 +5,7 @@ date: 2020-01-15 07:04:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BKTjqjITL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BSWNC63-es VIAGGIO ESPRESSO - 60 Cápsulas de Café Compatibles con...'
 sku: 'B07BSWNC63-es'
 tags: [ 'café','cápsulas','de', ]

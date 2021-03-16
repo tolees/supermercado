@@ -5,7 +5,7 @@ date: 2020-01-05 11:04:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BifOHvT2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0S5HJY-es Cuétara - Napolitanas - Con un toque de deliciosa canela...'
 sku: 'B01M0S5HJY-es'
 tags: [ 'canela', ]

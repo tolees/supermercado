@@ -5,7 +5,7 @@ date: 2020-05-02 12:15:56
 image: 'https://m.media-amazon.com/images/I/61NOoawCk5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FPELV6C-es "Biere del Mundo regalo + + Información de cerveza + +...'
 sku: 'B01FPELV6C-es'
 tags: [ 'cerveza', ]

@@ -5,7 +5,7 @@ date: 2020-02-25 19:02:02
 image: 'https://m.media-amazon.com/images/I/518PsQBeZ0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGL8MFB-es Oral-B Complete Plus Frescor Total Pasta Dentífrica 75 ml'
 sku: 'B07LGL8MFB-es'
 tags: [ 'dentífrica', ]

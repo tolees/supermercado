@@ -5,7 +5,7 @@ date: 2020-01-28 16:23:35
 image: 'https://m.media-amazon.com/images/I/31w2Hol5b6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003XRBAY2-es Babaria Veneno Serpiente Contorno Ojos 12 ml'
 sku: 'B003XRBAY2-es'
 tags: [ 'babaria', ]

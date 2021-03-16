@@ -5,7 +5,7 @@ date: 2020-03-14 17:05:35
 image: 'https://m.media-amazon.com/images/I/41khEyI4KGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D3HWRCQ-es Neutrogena Crema De Manos Y Uñas - 75 ml.'
 sku: 'B00D3HWRCQ-es'
 tags: [ 'neutrogena', ]

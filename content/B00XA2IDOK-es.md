@@ -5,7 +5,7 @@ date: 2020-07-26 00:10:34
 image: 'https://m.media-amazon.com/images/I/51H9mWN3S7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA2IDOK-es Maizena Harina Fina de Maíz Espesante Caja 2 5 kilogramos...'
 sku: 'B00XA2IDOK-es'
 tags: [ 'gluten','harina','maizena','maíz','sin', ]

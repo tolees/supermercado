@@ -5,7 +5,7 @@ date: 2020-01-08 13:08:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31L3%2BoYkCEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFST0TI-es Nosa Healthcare Champú - 250 ml'
 sku: 'B01FFST0TI-es'
 tags: [ 'champú', ]

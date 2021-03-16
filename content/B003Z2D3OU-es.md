@@ -5,7 +5,7 @@ date: 2020-03-03 16:03:49
 image: 'https://m.media-amazon.com/images/I/31zubnz9RbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003Z2D3OU-es Sebastian Sebastian Penetraitt Acondicionador 250 ml'
 sku: 'B003Z2D3OU-es'
 tags: [ 'acondicionador', ]

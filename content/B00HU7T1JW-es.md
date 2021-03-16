@@ -5,7 +5,7 @@ date: 2020-05-02 07:46:37
 image: 'https://m.media-amazon.com/images/I/51FKZ9S0loL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HU7T1JW-es Kinder Chocolate - Barritas de Chocolate con Leche - 8...'
 sku: 'B00HU7T1JW-es'
 tags: [ 'chocolate', ]

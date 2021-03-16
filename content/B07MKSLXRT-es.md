@@ -5,7 +5,7 @@ date: 2020-04-29 17:03:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51x2vIabslL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKSLXRT-es Beeswax Wraps - Juego de 6 envoltorios de cera de abeja...'
 sku: 'B07MKSLXRT-es'
 tags: [ 'queso', ]

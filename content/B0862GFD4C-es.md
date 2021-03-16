@@ -5,7 +5,7 @@ date: 2020-06-27 14:47:31
 image: 'https://m.media-amazon.com/images/I/312+r0y-3NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0862GFD4C-es Garnier Delial Sensitive Advanced - Crema Facial Super UV...'
 sku: 'B0862GFD4C-es'
 tags: [ 'garnier', ]

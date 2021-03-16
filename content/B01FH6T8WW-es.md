@@ -5,7 +5,7 @@ date: 2020-01-13 16:40:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410uIs0fRhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FH6T8WW-es Chicco Natural Sensation - Champú sin lágrimas 300 ml'
 sku: 'B01FH6T8WW-es'
 tags: [ 'champú', ]

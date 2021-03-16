@@ -5,7 +5,7 @@ date: 2020-01-13 09:05:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31NgMkD2t4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WWK11X-es Fanola No Orange Champú Antirreflectante 350 ml'
 sku: 'B071WWK11X-es'
 tags: [ 'champú', ]

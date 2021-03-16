@@ -5,7 +5,7 @@ date: 2020-01-17 06:03:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311JU9YmPEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYW8U8W-es L Oréal Paris Total Cover Base Maquillaje Cobertura Total...'
 sku: 'B01MYW8U8W-es'
 tags: [ 'oréal', ]

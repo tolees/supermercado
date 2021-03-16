@@ -5,7 +5,7 @@ date: 2020-03-15 23:36:17
 image: 'https://m.media-amazon.com/images/I/31TMJ0I91sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UDCW1R0-es Wella SP Luxe Oil Keratin Acondicionador en Crema - 1000 ml'
 sku: 'B00UDCW1R0-es'
 tags: [ 'acondicionador','wella', ]

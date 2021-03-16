@@ -5,7 +5,7 @@ date: 2020-04-16 17:52:49
 image: 'https://m.media-amazon.com/images/I/41YCSp7102L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AD6D4NK-es GANADOR 2020* ● Aceite para barba "ORIGINAL" de Camden...'
 sku: 'B01AD6D4NK-es'
 tags: [ 'suavizante', ]

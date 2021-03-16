@@ -5,7 +5,7 @@ date: 2020-01-05 14:05:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41auv8NeNvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZZRGK7-es TRESemmé Champú Botanique Macadamia - Paquete de 3 x 700...'
 sku: 'B078ZZRGK7-es'
 tags: [ 'champú','tresemmé', ]

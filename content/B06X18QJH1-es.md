@@ -5,7 +5,7 @@ date: 2020-05-28 18:22:03
 image: 'https://m.media-amazon.com/images/I/41hsYklS1-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X18QJH1-es The Chita Suntory Single Grain Japanese Whisky 43% - 700 ml'
 sku: 'B06X18QJH1-es'
 tags: [ 'whisky', ]

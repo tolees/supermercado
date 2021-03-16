@@ -5,7 +5,7 @@ date: 2020-02-28 09:31:50
 image: 'https://m.media-amazon.com/images/I/41sRJOTnT3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0036TH5VO-es Oral-B Advance Power - Cepillo de dientes eléctrico a...'
 sku: 'B0036TH5VO-es'
 tags: [ 'cepillo','de','dientes', ]

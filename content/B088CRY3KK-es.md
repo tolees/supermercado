@@ -5,7 +5,7 @@ date: 2020-09-11 16:15:54
 image: 'https://m.media-amazon.com/images/I/31lgXePQdtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088CRY3KK-es Mafiti Dispensador de Jabón Automático Dosificador Cocina...'
 sku: 'B088CRY3KK-es'
 tags: [ 'jabón', ]

@@ -5,7 +5,7 @@ date: 2020-07-09 22:58:17
 image: 'https://m.media-amazon.com/images/I/51yQv2iGl7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWV3K6W-es Chupa Chups Meals Golosinas de Formas y Sabores Variados...'
 sku: 'B07GWV3K6W-es'
 tags: [ 'chupa','chups', ]

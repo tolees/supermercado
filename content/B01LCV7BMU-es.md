@@ -5,7 +5,7 @@ date: 2020-03-11 13:43:09
 image: 'https://m.media-amazon.com/images/I/51yYajIgAXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LCV7BMU-es Kellogg s Extra Chocolate belga y Avellanas Granolas- 375 g'
 sku: 'B01LCV7BMU-es'
 tags: [ 'chocolate','kellogg', ]

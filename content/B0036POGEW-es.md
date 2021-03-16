@@ -5,7 +5,7 @@ date: 2020-09-15 06:30:51
 image: 'https://m.media-amazon.com/images/I/41EE1q-R2cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0036POGEW-es Auchentoshan 12 Años Single Malt Whisky Escoces 40% - 700 ml'
 sku: 'B0036POGEW-es'
 tags: [ 'whisky', ]

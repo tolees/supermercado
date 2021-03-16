@@ -5,7 +5,7 @@ date: 2021-01-20 10:11:06
 image: 'https://m.media-amazon.com/images/I/31ibncRTodL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJ5QB6J-es Rockport Perth Boat Shoe Náuticos Hombre Beige Arena...'
 sku: 'B07VJ5QB6J-es'
 tags: [ 'chocolate', ]

@@ -5,7 +5,7 @@ date: 2020-10-11 13:34:25
 image: 'https://m.media-amazon.com/images/I/417XZzLk7hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088KQJ88B-es Vino Blanco LAN D.O.Ca.Rioja - 6 botellas de 750 ml -...'
 sku: 'B088KQJ88B-es'
 tags: [ 'blanco','vino', ]

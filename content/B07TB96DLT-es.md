@@ -5,7 +5,7 @@ date: 2021-01-13 13:39:21
 image: 'https://m.media-amazon.com/images/I/51Z2VfUjrpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TB96DLT-es President Leche Desnatada 1 5L x 6 = 9L'
 sku: 'B07TB96DLT-es'
 tags: [ 'president', ]

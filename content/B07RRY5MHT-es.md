@@ -5,7 +5,7 @@ date: 2020-06-16 11:48:34
 image: 'https://m.media-amazon.com/images/I/51vwU+X7JTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRY5MHT-es Red Bull Bebida Energética Coco y Arándanos - 12 latas de...'
 sku: 'B07RRY5MHT-es'
 tags: [ 'bebida','bull','energética','red', ]

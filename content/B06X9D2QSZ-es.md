@@ -5,7 +5,7 @@ date: 2020-02-05 11:36:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31cA2J6dkYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9D2QSZ-es Elizabeth Arden 5Th Avenue Royale Edp Vapo 125 Ml 5Th...'
 sku: 'B06X9D2QSZ-es'
 tags: [ 'arden','elizabeth', ]

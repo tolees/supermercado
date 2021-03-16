@@ -5,7 +5,7 @@ date: 2020-08-17 16:28:51
 image: 'https://m.media-amazon.com/images/I/51iBnBQ3TVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M75FOPM-es Blevit Plus Duplo 8 Cereales Al Estilo Bizcocho 1 unidad...'
 sku: 'B00M75FOPM-es'
 tags: [ 'bizcocho', ]

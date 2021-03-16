@@ -5,7 +5,7 @@ date: 2020-01-06 16:36:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fjaBmSBdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001LFKSV4-es Klorane APF-129 Champú con pulpa de cítricos 400 ml'
 sku: 'B001LFKSV4-es'
 tags: [ 'champú', ]

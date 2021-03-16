@@ -5,7 +5,7 @@ date: 2020-09-24 20:36:16
 image: 'https://m.media-amazon.com/images/I/41pGxstpldL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HS1DFP0-es Instituto Español Poseidon Hombre Edición Indómito - Eau...'
 sku: 'B01HS1DFP0-es'
 tags: [ 'español','instituto', ]

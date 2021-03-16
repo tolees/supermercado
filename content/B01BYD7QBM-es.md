@@ -5,7 +5,7 @@ date: 2020-01-16 06:40:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51E85ma6ZwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BYD7QBM-es Oral-B Genius 8000N Cepillo de Dientes Eléctrico...'
 sku: 'B01BYD7QBM-es'
 tags: [ 'cepillo','de','dientes', ]

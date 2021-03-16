@@ -5,7 +5,7 @@ date: 2020-03-16 20:18:21
 image: 'https://m.media-amazon.com/images/I/51A3hGs1fgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0F93KY-es Matutano - Cacahuetes Tostados Al Horno - 200 g - [pack de 4]'
 sku: 'B01M0F93KY-es'
 tags: [ 'matutano', ]

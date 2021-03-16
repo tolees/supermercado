@@ -5,7 +5,7 @@ date: 2020-06-04 14:47:33
 image: 'https://m.media-amazon.com/images/I/51uItnLnleL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZMYKQY-es LITORAL Hoy Legumbres Lentejas con su sofrito Plato...'
 sku: 'B01LZMYKQY-es'
 tags: [ 'gluten','legumbres','lentejas','litoral','plato','preparado','sin', ]

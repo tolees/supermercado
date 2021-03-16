@@ -5,7 +5,7 @@ date: 2020-06-26 02:02:42
 image: 'https://m.media-amazon.com/images/I/31GtlIBwO7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0851LBTVM-es Dr Tree Uso Frecuente 2 en 1 - Champú Sólido +...'
 sku: 'B0851LBTVM-es'
 tags: [ 'acondicionador','champú', ]

@@ -5,7 +5,7 @@ date: 2021-01-28 18:54:54
 image: 'https://m.media-amazon.com/images/I/51SpSQI9u7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084N4FSL5-es AXE Bodyspray Desodorante Leather and Cookies 200 ml -...'
 sku: 'B084N4FSL5-es'
 tags: [ 'axe','desodorante', ]
@@ -28,10 +28,10 @@ Tienes [AXE Bodyspray Desodorante Leather and Cookies 200 ml - Pack de 6](https:
 
 ℹ️:
 
-- Axe Leather & Cookies, no debería funcionar pero funciona
-- Cuero y cookies: dos ingredientes que chocan y que parece que no funcionen, pero que crean una fragancia
 - Mantente fresco por más tiempo
+- Axe Leather & Cookies, no debería funcionar pero funciona
 - AXE Desodorante Bodyspray Leather & Cookies 200ml
+- Cuero y cookies: dos ingredientes que chocan y que parece que no funcionen, pero que crean una fragancia
 - Una mezcla inesperada de cuero y cookies, con toques de mandarina, cardamomo y cuero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084N4FSL5/?tag=tolees-21)

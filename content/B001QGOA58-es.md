@@ -5,7 +5,7 @@ date: 2020-08-12 15:19:13
 image: 'https://m.media-amazon.com/images/I/41+8ztU-WQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001QGOA58-es Lavazza Café Molido Espresso Dek Classico Descafeinado 250 g'
 sku: 'B001QGOA58-es'
 tags: [ 'café','descafeinado','lavazza', ]

@@ -5,7 +5,7 @@ date: 2020-01-18 17:35:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-%2BRvQN7tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074MKBJ8M-es La Silla Española Ribadeo Oficina sin Reposacabezas...'
 sku: 'B074MKBJ8M-es'
 tags: [ 'española','la', ]

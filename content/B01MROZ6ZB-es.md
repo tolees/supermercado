@@ -5,7 +5,7 @@ date: 2020-01-28 08:26:04
 image: 'https://m.media-amazon.com/images/I/415qZ1+jkRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MROZ6ZB-es L Oréal Paris Paleta de Coloretes Infalible Pinks'
 sku: 'B01MROZ6ZB-es'
 tags: [ 'oréal', ]

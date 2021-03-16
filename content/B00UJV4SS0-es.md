@@ -5,7 +5,7 @@ date: 2020-01-23 18:29:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513rZC2tHkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UJV4SS0-es Aceite de virgen carbonell 5l pet'
 sku: 'B00UJV4SS0-es'
 tags: [ 'carbonell', ]

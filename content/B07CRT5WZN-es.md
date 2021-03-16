@@ -5,7 +5,7 @@ date: 2020-08-13 14:44:14
 image: 'https://m.media-amazon.com/images/I/41s9n5uT-AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CRT5WZN-es Philips Sonicare ProtectiveClean HX6801/08 - Cepillo de...'
 sku: 'B07CRT5WZN-es'
 tags: [ 'cepillo','de','dientes', ]

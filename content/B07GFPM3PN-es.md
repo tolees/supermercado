@@ -5,7 +5,7 @@ date: 2020-09-28 10:21:58
 image: 'https://m.media-amazon.com/images/I/41EOFlSs7UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GFPM3PN-es Concentrado de Proteína de Suero Evowhey Protein 2.0 de...'
 sku: 'B07GFPM3PN-es'
 tags: [ 'gluten','sin','soja', ]

@@ -5,7 +5,7 @@ date: 2020-03-06 18:57:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rdU3cXswL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0749MN8VZ-es Gel hidroalcohólico antiséptico para piel sana S nonas....'
 sku: 'B0749MN8VZ-es'
 tags: [ 'hidroalcohólico', ]

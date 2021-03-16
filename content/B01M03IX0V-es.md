@@ -5,7 +5,7 @@ date: 2020-04-28 23:02:08
 image: 'https://m.media-amazon.com/images/I/41v4kkZNZeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M03IX0V-es Flor Azul Profesional Suavizante Concentrado - 5 kg 2...'
 sku: 'B01M03IX0V-es'
 tags: [ 'suavizante', ]

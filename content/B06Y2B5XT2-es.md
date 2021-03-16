@@ -5,7 +5,7 @@ date: 2020-06-08 16:46:54
 image: 'https://m.media-amazon.com/images/I/41G4eUBU-HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2B5XT2-es Cidacos Extra Alubias Enlatadas - 570 g'
 sku: 'B06Y2B5XT2-es'
 tags: [ 'cidacos', ]

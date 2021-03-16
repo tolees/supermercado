@@ -5,7 +5,7 @@ date: 2020-01-16 12:28:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51cNS1YfWeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA63YB8-es Dixan Detergente en Polvo - 55 lavados 3 25 Kg'
 sku: 'B00XA63YB8-es'
 tags: [ 'detergente','dixan', ]

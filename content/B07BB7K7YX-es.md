@@ -5,7 +5,7 @@ date: 2020-02-06 13:40:24
 image: 'https://m.media-amazon.com/images/I/51HxFeKVpLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BB7K7YX-es Amstel Radler Limón Cerveza - Pack de 12 Latas x 330 ml -...'
 sku: 'B07BB7K7YX-es'
 tags: [ 'cerveza', ]

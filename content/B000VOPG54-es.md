@@ -5,7 +5,7 @@ date: 2020-03-30 04:15:38
 image: 'https://m.media-amazon.com/images/I/21TJTg8Ul+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VOPG54-es Elizabeth Arden Green Tea Eau de parfum 30 ml'
 sku: 'B000VOPG54-es'
 tags: [ 'arden','elizabeth', ]

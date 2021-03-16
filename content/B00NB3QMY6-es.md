@@ -5,7 +5,7 @@ date: 2020-02-24 20:43:46
 image: 'https://m.media-amazon.com/images/I/31gwToDvydL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NB3QMY6-es Silicium España Laboratorios Rosa Mosqueta Crema...'
 sku: 'B00NB3QMY6-es'
 tags: [ 'crema','hidratante', ]

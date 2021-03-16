@@ -5,7 +5,7 @@ date: 2020-01-19 16:29:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31zzmnPirDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q8LYIEO-es Gölles Alte Zwetschge Brandy - 350 ml'
 sku: 'B00Q8LYIEO-es'
 tags: [ 'brandy', ]

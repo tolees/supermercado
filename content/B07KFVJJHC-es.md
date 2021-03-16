@@ -5,7 +5,7 @@ date: 2020-09-29 17:43:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BUVL1iyML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFVJJHC-es Kit Cuidado de Barba Fixget Recorte - Champú Barba Aceite...'
 sku: 'B07KFVJJHC-es'
 tags: [ 'champú', ]

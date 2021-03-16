@@ -5,7 +5,7 @@ date: 2020-06-04 21:36:02
 image: 'https://m.media-amazon.com/images/I/51x+Zd2o9vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7QR6Y4-es Gullón Digestive Avena Galleta Integral con Avena Trigo y...'
 sku: 'B01K7QR6Y4-es'
 tags: [ 'chocolate','gullón','trigo', ]

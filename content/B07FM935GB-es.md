@@ -5,7 +5,7 @@ date: 2020-08-31 18:18:18
 image: 'https://m.media-amazon.com/images/I/51nPLhq+s9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FM935GB-es Dymatize ISO100 chocolate y coco 2200 G'
 sku: 'B07FM935GB-es'
 tags: [ 'chocolate', ]

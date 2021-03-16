@@ -5,7 +5,7 @@ date: 2020-01-14 20:42:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41buo3wvtAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U66KOK4-es AXE Black Dry Desodorante Roll-On - 2 Paquetes de 1 x 50...'
 sku: 'B00U66KOK4-es'
 tags: [ 'axe','desodorante', ]

@@ -5,7 +5,7 @@ date: 2020-08-27 09:04:54
 image: 'https://m.media-amazon.com/images/I/51OQKq8ksnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004EPYJ0Y-es Scitec Nutrition 100% Whey Protein Professional Proteína...'
 sku: 'B004EPYJ0Y-es'
 tags: [ 'chocolate', ]

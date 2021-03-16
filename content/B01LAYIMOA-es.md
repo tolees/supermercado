@@ -5,7 +5,7 @@ date: 2020-01-03 13:44:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31g5zWlwKRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LAYIMOA-es Maybelline Master Strobing Stick Iluminador Tono 300 Dark...'
 sku: 'B01LAYIMOA-es'
 tags: [ 'maybelline', ]

@@ -5,7 +5,7 @@ date: 2020-08-27 19:37:22
 image: 'https://m.media-amazon.com/images/I/41hQk3uhV8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZJTJTC-es Mo Salinas Vino Tinto - Paquete de 6 x 750 ml - Total: 4500ml'
 sku: 'B07VZJTJTC-es'
 tags: [ 'tinto','vino', ]

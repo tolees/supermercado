@@ -5,7 +5,7 @@ date: 2020-02-25 16:15:05
 image: 'https://m.media-amazon.com/images/I/51qEQ-vjgOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXMK9FA-es Solán De Cabras Agua Mineral Natural - Pack de 6 x 1 5 l -...'
 sku: 'B01LXMK9FA-es'
 tags: [ 'agua','cabras','de','mineral','solán', ]

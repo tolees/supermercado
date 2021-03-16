@@ -5,7 +5,7 @@ date: 2020-12-15 11:00:37
 image: 'https://m.media-amazon.com/images/I/61iy9W8CT+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088R1VQ5H-es Vermouth Padró & Co Rojo Clásico - 3 botellas de 75 cl...'
 sku: 'B088R1VQ5H-es'
 tags: [ 'vermouth', ]
@@ -28,10 +28,10 @@ Tienes [Vermouth Padró & Co Rojo Clásico - 3 botellas de 75 cl  Total: 2250 ml
 
 ℹ️:
 
-- Ideal para combinar con embutidos, quesos y snacks salados. Servir frío.
 - Graduación: 18% vol.
 - Ideal acompañado con una rodaja de naranja.
-- Origen: Zona/Región vinícola Tarragona
 - Aromas de especias dulces de canela y clavo. Fondo de frutas pasificadas. Boca cremosa y fresca con final herbáceo.
+- Ideal para combinar con embutidos, quesos y snacks salados. Servir frío.
+- Origen: Zona/Región vinícola Tarragona
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B088R1VQ5H/?tag=tolees-21)

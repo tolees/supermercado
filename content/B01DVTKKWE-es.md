@@ -5,7 +5,7 @@ date: 2020-05-04 09:27:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51f5rc1WQWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DVTKKWE-es Weider Protein Pancake Mix Coco y Chocolate Blanco - 600 gr'
 sku: 'B01DVTKKWE-es'
 tags: [ 'chocolate', ]

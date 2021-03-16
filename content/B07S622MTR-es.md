@@ -5,7 +5,7 @@ date: 2020-04-13 14:45:09
 image: 'https://m.media-amazon.com/images/I/41u8F+VqEdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S622MTR-es Silk n ToothWave Blanco - Cepillo de dientes eléctrico...'
 sku: 'B07S622MTR-es'
 tags: [ 'cepillo','de','dientes', ]

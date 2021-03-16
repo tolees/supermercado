@@ -5,7 +5,7 @@ date: 2020-09-21 15:34:26
 image: 'https://m.media-amazon.com/images/I/51rMB1Tn7OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFDHNLL-es Air Wick - Ambientador aerosol esencia para casa con aroma...'
 sku: 'B07VFDHNLL-es'
 tags: [ 'air','wick', ]

@@ -5,7 +5,7 @@ date: 2020-01-15 12:04:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413FJ3v9i7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQU9REB-es Chorizo Herradura No Picante Embutidos Ezequiel 500 gramos'
 sku: 'B01MQU9REB-es'
 tags: [ 'chorizo', ]

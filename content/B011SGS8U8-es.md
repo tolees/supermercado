@@ -5,7 +5,7 @@ date: 2020-01-12 18:23:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51HFjt9Sq8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011SGS8U8-es Botellas de cerveza Chef s Star de tapón fácil de abrir....'
 sku: 'B011SGS8U8-es'
 tags: [ 'cerveza', ]

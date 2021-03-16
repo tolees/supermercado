@@ -5,7 +5,7 @@ date: 2020-03-31 13:26:57
 image: 'https://m.media-amazon.com/images/I/31KRcQr4jHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J5G2H7Y-es BIMANAN - BIMANAN Sustitutive Barrita Yogur unidad'
 sku: 'B00J5G2H7Y-es'
 tags: [ 'yogur', ]

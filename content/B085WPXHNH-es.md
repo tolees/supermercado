@@ -5,7 +5,7 @@ date: 2020-07-23 00:06:55
 image: 'https://m.media-amazon.com/images/I/51r4XECsB3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085WPXHNH-es Dispensador de jabón Triency dispensador de líquidos 350...'
 sku: 'B085WPXHNH-es'
 tags: [ 'jabón', ]

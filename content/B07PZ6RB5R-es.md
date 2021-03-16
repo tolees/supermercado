@@ -5,7 +5,7 @@ date: 2020-02-12 11:56:10
 image: 'https://m.media-amazon.com/images/I/41C7MOStXIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZ6RB5R-es Maybelline New York - Superstay Matte Ink Pintalabios Mate...'
 sku: 'B07PZ6RB5R-es'
 tags: [ 'maybelline', ]

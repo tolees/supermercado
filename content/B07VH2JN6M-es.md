@@ -5,7 +5,7 @@ date: 2021-01-20 10:24:17
 image: 'https://m.media-amazon.com/images/I/31ibncRTodL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VH2JN6M-es Rockport Perth Boat Shoe Náuticos para Hombre Azul Marino...'
 sku: 'B07VH2JN6M-es'
 tags: [ 'chocolate', ]

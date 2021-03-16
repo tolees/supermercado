@@ -5,7 +5,7 @@ date: 2020-10-06 14:40:56
 image: 'https://m.media-amazon.com/images/I/312l96upslL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5JW9KZ-es Relaxdays Dispensador Jabón Cuadrado Bambú Marrón 18 x 6 5...'
 sku: 'B01N5JW9KZ-es'
 tags: [ 'jabón', ]

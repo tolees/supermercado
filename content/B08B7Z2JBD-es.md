@@ -5,7 +5,7 @@ date: 2020-08-18 09:23:10
 image: 'https://m.media-amazon.com/images/I/41EAKLotbIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B7Z2JBD-es RZKJ-SHOP Abridor de Botellas de Vino Profesional Manual...'
 sku: 'B08B7Z2JBD-es'
 tags: [ 'cerveza', ]

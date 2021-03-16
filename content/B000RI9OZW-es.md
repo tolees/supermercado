@@ -5,7 +5,7 @@ date: 2020-01-22 20:11:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OasUivh6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RI9OZW-es Revlon Super Lustrous Lipstick 225 Rose Wine Pomadka do ust'
 sku: 'B000RI9OZW-es'
 tags: [ 'revlon', ]

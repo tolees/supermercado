@@ -5,7 +5,7 @@ date: 2020-01-12 22:16:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vfd2H%2BprL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZIXNAE-es Dr. Oetker Molde Desmontable Back-Harmonie Acero marrón 28 cm'
 sku: 'B01LZIXNAE-es'
 tags: [ 'dr.','oetker', ]

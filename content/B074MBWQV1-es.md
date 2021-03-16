@@ -5,7 +5,7 @@ date: 2020-04-27 15:07:11
 image: 'https://m.media-amazon.com/images/I/31NlpuXPZkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074MBWQV1-es Maybelline Barra de labios Superstay Matte Ink tono 25...'
 sku: 'B074MBWQV1-es'
 tags: [ 'maybelline', ]

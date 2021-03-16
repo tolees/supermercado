@@ -5,7 +5,7 @@ date: 2020-05-30 11:35:13
 image: 'https://m.media-amazon.com/images/I/41sCuhHz9iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PS642TW-es Croc Odor Desodorante Frigorifico Grande XL 140g Pack de 3...'
 sku: 'B07PS642TW-es'
 tags: [ 'desodorante', ]

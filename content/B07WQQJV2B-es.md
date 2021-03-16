@@ -5,7 +5,7 @@ date: 2020-07-19 20:59:34
 image: 'https://m.media-amazon.com/images/I/51pRPL+v5HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQQJV2B-es Ausonia Discreet Compresas Para Pérdidas De Orina Plus...'
 sku: 'B07WQQJV2B-es'
 tags: [ 'ausonia', ]

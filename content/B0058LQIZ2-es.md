@@ -5,7 +5,7 @@ date: 2020-04-19 17:18:45
 image: 'https://m.media-amazon.com/images/I/51KlWGH1lQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0058LQIZ2-es Glenfarclas 12 Year Old Highland Single Malt Whisky 43% 1...'
 sku: 'B0058LQIZ2-es'
 tags: [ 'whisky', ]

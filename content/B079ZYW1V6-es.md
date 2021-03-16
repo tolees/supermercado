@@ -5,7 +5,7 @@ date: 2020-05-03 12:11:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41SnnTM3%2BDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZYW1V6-es Nestlé Purés Tarrito de puré de verduras y carne variedad...'
 sku: 'B079ZYW1V6-es'
 tags: [ 'nestlé', ]

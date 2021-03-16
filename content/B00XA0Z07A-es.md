@@ -5,7 +5,7 @@ date: 2020-04-22 13:47:01
 image: 'https://m.media-amazon.com/images/I/41V3V+YOD2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA0Z07A-es Milka - Tableta De Chocolate con Galleta Lu - 87 g'
 sku: 'B00XA0Z07A-es'
 tags: [ 'chocolate','milka', ]

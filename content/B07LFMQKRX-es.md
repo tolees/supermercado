@@ -5,7 +5,7 @@ date: 2020-01-15 12:47:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IhRYu9%2BuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFMQKRX-es SYOSS - Pack de Regalo SalonPlex - Champú 500ml +...'
 sku: 'B07LFMQKRX-es'
 tags: [ 'acondicionador','champú', ]

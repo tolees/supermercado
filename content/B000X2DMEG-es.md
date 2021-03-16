@@ -5,7 +5,7 @@ date: 2020-03-27 23:50:33
 image: 'https://m.media-amazon.com/images/I/41IBzTem+eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000X2DMEG-es American Crew Pomada de fijación fijación media / brillo...'
 sku: 'B000X2DMEG-es'
 tags: [ 'american','crew', ]

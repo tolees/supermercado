@@ -5,7 +5,7 @@ date: 2020-07-21 08:32:10
 image: 'https://m.media-amazon.com/images/I/41mdQfoa0oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NBZZX9S-es AXE You - Desodorante Bodyspray para hombre 48 horas de...'
 sku: 'B07NBZZX9S-es'
 tags: [ 'axe','desodorante', ]

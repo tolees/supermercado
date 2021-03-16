@@ -5,7 +5,7 @@ date: 2020-08-04 07:57:28
 image: 'https://m.media-amazon.com/images/I/417O8PhrBML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D8YGCW7-es Marca Amazon -Solimo Cepillo de dientes con pilas + 1...'
 sku: 'B07D8YGCW7-es'
 tags: [ 'cepillo','de','dientes', ]

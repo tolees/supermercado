@@ -5,7 +5,7 @@ date: 2020-06-08 14:22:15
 image: 'https://m.media-amazon.com/images/I/41TPIaVY36L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XK7BXQ9-es OGX Acondicionador Aceite de Argán Extra Fuerte Hidrata y...'
 sku: 'B06XK7BXQ9-es'
 tags: [ 'acondicionador', ]

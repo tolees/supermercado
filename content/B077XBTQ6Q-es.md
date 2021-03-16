@@ -5,7 +5,7 @@ date: 2020-01-13 09:16:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41en-Tl9WnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XBTQ6Q-es Neutrex Oxy Color Quitamanchas - 2620 ml'
 sku: 'B077XBTQ6Q-es'
 tags: [ 'neutrex', ]

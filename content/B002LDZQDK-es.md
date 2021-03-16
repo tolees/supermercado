@@ -5,7 +5,7 @@ date: 2020-01-17 12:13:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yMckGX7OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002LDZQDK-es KLORANE Champú al Extracto de Peonía 400 ml'
 sku: 'B002LDZQDK-es'
 tags: [ 'champú', ]

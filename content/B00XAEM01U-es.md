@@ -5,7 +5,7 @@ date: 2020-02-27 06:36:30
 image: 'https://m.media-amazon.com/images/I/41trnk84H+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAEM01U-es Air Wick Vela Duplo Vainilla y Ébano de Madagascar'
 sku: 'B00XAEM01U-es'
 tags: [ 'air','wick', ]

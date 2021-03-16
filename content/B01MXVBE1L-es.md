@@ -5,7 +5,7 @@ date: 2020-01-16 20:58:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51s69q9XT5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXVBE1L-es Helios Mermelada Extra Naranja Amarga - 340 gr - Pack de 6'
 sku: 'B01MXVBE1L-es'
 tags: [ 'mermelada', ]

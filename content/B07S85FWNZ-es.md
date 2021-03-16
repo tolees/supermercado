@@ -5,7 +5,7 @@ date: 2020-01-15 17:32:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419TF9TTG2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S85FWNZ-es Café en Grano Natural 100% 1kg - Para Estar Despierto -...'
 sku: 'B07S85FWNZ-es'
 tags: [ 'café', ]

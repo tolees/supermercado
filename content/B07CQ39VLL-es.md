@@ -5,7 +5,7 @@ date: 2020-06-06 22:06:41
 image: 'https://m.media-amazon.com/images/I/21Tqj2yXGZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQ39VLL-es Xiaomi – 6970244529329 – Mi cepillo de dientes...'
 sku: 'B07CQ39VLL-es'
 tags: [ 'cepillo','de','dientes', ]

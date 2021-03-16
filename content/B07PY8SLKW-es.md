@@ -5,7 +5,7 @@ date: 2020-04-16 17:54:04
 image: 'https://m.media-amazon.com/images/I/41Sxdq8q97L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY8SLKW-es Campos Conserva de atún claro en aceite de girasol - pack...'
 sku: 'B07PY8SLKW-es'
 tags: [ 'atún','claro','conserva','de', ]

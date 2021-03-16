@@ -5,7 +5,7 @@ date: 2020-04-06 23:15:16
 image: 'https://m.media-amazon.com/images/I/41DZzvoQSyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M7PHDHI-es Pascual Batido Chocolate - Paquete de 9 x 20 cl - Total:...'
 sku: 'B01M7PHDHI-es'
 tags: [ 'chocolate', ]

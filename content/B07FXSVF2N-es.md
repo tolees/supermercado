@@ -5,7 +5,7 @@ date: 2020-02-14 19:31:05
 image: 'https://m.media-amazon.com/images/I/41fip9uCsJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXSVF2N-es Novohogar Sillón Reclinable Praga con Muelle Ensacado...'
 sku: 'B07FXSVF2N-es'
 tags: [ 'chocolate', ]

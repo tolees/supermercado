@@ -5,7 +5,7 @@ date: 2020-02-18 21:06:03
 image: 'https://m.media-amazon.com/images/I/41UnIgepo+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081SGSCG9-es GoMaihe Tarro de Vidrio de Almacenamiento 3Pcs Tarros de...'
 sku: 'B081SGSCG9-es'
 tags: [ 'café','conservas', ]

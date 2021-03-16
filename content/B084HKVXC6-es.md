@@ -5,7 +5,7 @@ date: 2020-05-20 08:19:43
 image: 'https://m.media-amazon.com/images/I/41mGUiUEwBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084HKVXC6-es SUPLEMENTO MENOPAUSIA - MENODEN + VITAMINA B6 Y ZINC...'
 sku: 'B084HKVXC6-es'
 tags: [ 'soja', ]

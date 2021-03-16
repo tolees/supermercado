@@ -5,7 +5,7 @@ date: 2020-05-07 23:16:18
 image: 'https://m.media-amazon.com/images/I/516N+e5UPoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085XZPLVS-es Tesoky luz ultravioleta esterilizador UV de Teléfono...'
 sku: 'B085XZPLVS-es'
 tags: [ 'cepillo','de','dientes', ]

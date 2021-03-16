@@ -5,7 +5,7 @@ date: 2020-04-16 18:06:50
 image: 'https://m.media-amazon.com/images/I/51kdLCY0iyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G6STN8E-es Lote de Conservas Gourmet'
 sku: 'B01G6STN8E-es'
 tags: [ 'conservas', ]

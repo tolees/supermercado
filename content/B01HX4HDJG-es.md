@@ -5,7 +5,7 @@ date: 2020-01-21 16:15:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qgm9qk%2BqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HX4HDJG-es OREWORK 386770 Molino Maíz eléctrico'
 sku: 'B01HX4HDJG-es'
 tags: [ 'maíz', ]

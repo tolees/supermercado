@@ -5,7 +5,7 @@ date: 2020-05-13 19:05:52
 image: 'https://m.media-amazon.com/images/I/51ulBXGaJpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0049O2GAA-es Cragganmore Whisky Escocés - 700 ml'
 sku: 'B0049O2GAA-es'
 tags: [ 'whisky', ]

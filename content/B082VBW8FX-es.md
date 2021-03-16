@@ -5,7 +5,7 @@ date: 2020-01-15 08:09:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31zwuGtruOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VBW8FX-es Kloius Dispensador de Jabón Automático 200ml Dispensador...'
 sku: 'B082VBW8FX-es'
 tags: [ 'jabón', ]

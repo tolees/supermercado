@@ -5,7 +5,7 @@ date: 2020-09-30 10:20:10
 image: 'https://m.media-amazon.com/images/I/414g3gUs1cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0012RIEM6-es Finish Line Fiber Fibre Grip Unisex Adulto Blanco 50 g'
 sku: 'B0012RIEM6-es'
 tags: [ 'finish', ]

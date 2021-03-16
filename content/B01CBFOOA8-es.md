@@ -5,7 +5,7 @@ date: 2020-07-07 16:10:23
 image: 'https://m.media-amazon.com/images/I/61sWEUKWSpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CBFOOA8-es 9 Cervezas de las especialidades de mundo a las mejores...'
 sku: 'B01CBFOOA8-es'
 tags: [ 'cerveza', ]

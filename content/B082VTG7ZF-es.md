@@ -5,7 +5,7 @@ date: 2020-06-01 14:52:48
 image: 'https://m.media-amazon.com/images/I/31woCbmsRnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VTG7ZF-es Dove Gel de ducha Agua Micelar Anti-Estrés Ambiental - 500 ml'
 sku: 'B082VTG7ZF-es'
 tags: [ 'de','dove','ducha','gel', ]

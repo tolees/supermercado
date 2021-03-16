@@ -5,7 +5,7 @@ date: 2020-09-15 23:21:25
 image: 'https://m.media-amazon.com/images/I/41Ph3JdUqVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9X1WFC-es L Oréal Paris Studio Line Gel Pure Wet'
 sku: 'B00X9X1WFC-es'
 tags: [ 'oréal', ]

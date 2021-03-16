@@ -5,7 +5,7 @@ date: 2020-06-04 21:09:10
 image: 'https://m.media-amazon.com/images/I/41YGxzz5O8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDCQ682-es Vileda 139460 Salvauñas - 2 Unidades'
 sku: 'B06XDCQ682-es'
 tags: [ 'salvauñas','vileda', ]

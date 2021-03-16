@@ -5,7 +5,7 @@ date: 2020-07-31 09:46:15
 image: 'https://m.media-amazon.com/images/I/51wBfw9FQpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTSK2BB-es GOTOTO - Juego de fregona y fregona de Vapor Plana Cubo...'
 sku: 'B07TTSK2BB-es'
 tags: [ 'fregona', ]

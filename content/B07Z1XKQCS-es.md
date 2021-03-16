@@ -5,7 +5,7 @@ date: 2020-01-05 18:31:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mqFXC4GzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z1XKQCS-es DingGreat Kit Accesorios de Recambio para Cecotec Robot...'
 sku: 'B07Z1XKQCS-es'
 tags: [ 'fregona', ]

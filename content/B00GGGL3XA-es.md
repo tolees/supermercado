@@ -5,7 +5,7 @@ date: 2020-01-22 12:13:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51GbCS62JwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GGGL3XA-es Oral B 68341 - Cabezales para cepillo de dientes eléctrico...'
 sku: 'B00GGGL3XA-es'
 tags: [ 'cepillo','de','dientes', ]

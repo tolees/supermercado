@@ -5,7 +5,7 @@ date: 2020-08-09 09:31:50
 image: 'https://m.media-amazon.com/images/I/51EvMYjmUXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6WIOF5-es Renova Rollo de Cocina - 3 Rollos'
 sku: 'B01M6WIOF5-es'
 tags: [ 'renova', ]

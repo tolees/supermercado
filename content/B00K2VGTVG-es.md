@@ -5,7 +5,7 @@ date: 2020-03-04 16:40:18
 image: 'https://m.media-amazon.com/images/I/41H0223LnOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K2VGTVG-es Urtekram Champú de Ortiga BIO anti-caspa 500 ml'
 sku: 'B00K2VGTVG-es'
 tags: [ 'champú', ]

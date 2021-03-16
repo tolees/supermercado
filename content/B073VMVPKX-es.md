@@ -5,7 +5,7 @@ date: 2020-09-30 10:02:55
 image: 'https://m.media-amazon.com/images/I/31OOFlg4wzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073VMVPKX-es Maybelline New York - Lash Sensational Primer de Pestañas'
 sku: 'B073VMVPKX-es'
 tags: [ 'maybelline', ]

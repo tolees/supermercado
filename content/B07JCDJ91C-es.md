@@ -5,7 +5,7 @@ date: 2020-10-07 20:56:58
 image: 'https://m.media-amazon.com/images/I/41UkmZAH95L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JCDJ91C-es Syoss Champú Color Tech - con Tecnología selladora del...'
 sku: 'B07JCDJ91C-es'
 tags: [ 'champú', ]

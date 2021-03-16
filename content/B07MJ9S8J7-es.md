@@ -5,7 +5,7 @@ date: 2020-01-22 07:28:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51DiBUIeafL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJ9S8J7-es NIVEA Cellular Ampolla Ácido Hialurónico Concentrado:...'
 sku: 'B07MJ9S8J7-es'
 tags: [ 'nivea', ]

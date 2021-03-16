@@ -5,7 +5,7 @@ date: 2020-01-20 07:54:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tuhJBfL5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R1BTTB4-es Marca Amazon - Happy Belly Coco desecado 200gr x 5'
 sku: 'B07R1BTTB4-es'
 tags: [ 'belly','happy', ]

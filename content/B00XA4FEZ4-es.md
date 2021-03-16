@@ -5,7 +5,7 @@ date: 2020-04-20 19:54:29
 image: 'https://m.media-amazon.com/images/I/416mkhZT7vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA4FEZ4-es Levadura Royal Bote 900g'
 sku: 'B00XA4FEZ4-es'
 tags: [ 'levadura', ]

@@ -5,7 +5,7 @@ date: 2020-01-21 14:34:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/319TgsPxeKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0Y7UNH-es Elizabeth Arden Plush Up Gelato Pintalabios 4ml Flirty...'
 sku: 'B01N0Y7UNH-es'
 tags: [ 'arden','elizabeth', ]

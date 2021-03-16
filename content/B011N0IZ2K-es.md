@@ -5,7 +5,7 @@ date: 2020-01-19 08:37:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41T5K0%2BJpYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011N0IZ2K-es Dispensador de Pasta Dental de Niños Cepillo de Dientes...'
 sku: 'B011N0IZ2K-es'
 tags: [ 'cepillo','de','dientes', ]

@@ -5,7 +5,7 @@ date: 2020-08-13 05:14:38
 image: 'https://m.media-amazon.com/images/I/41IoGrP9AfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XRQ94X4-es Berberechos al natural elaborados en fresco 25/35 piezas...'
 sku: 'B07XRQ94X4-es'
 tags: [ 'berberechos', ]

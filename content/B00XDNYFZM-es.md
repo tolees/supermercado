@@ -5,7 +5,7 @@ date: 2020-05-06 15:51:21
 image: 'https://m.media-amazon.com/images/I/41eSnW8df1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XDNYFZM-es Lindt Lindor Tableta de Chocolate Blanco 100 g'
 sku: 'B00XDNYFZM-es'
 tags: [ 'chocolate','lindt', ]

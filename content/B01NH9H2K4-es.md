@@ -5,7 +5,7 @@ date: 2020-06-06 18:56:45
 image: 'https://m.media-amazon.com/images/I/41Vy7IqpZVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NH9H2K4-es Mical Bolsas de basura 55 x 60 cm color azul - 15 Unidades'
 sku: 'B01NH9H2K4-es'
 tags: [ 'basura','bolsas','de', ]

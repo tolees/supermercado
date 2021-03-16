@@ -5,7 +5,7 @@ date: 2020-02-16 18:12:24
 image: 'https://m.media-amazon.com/images/I/51Ha5wSSK2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071VD5PR2-es Listerine Enjuague Bucal Cuidado Total Zero - 500 ml -...'
 sku: 'B071VD5PR2-es'
 tags: [ 'listerine', ]

@@ -5,7 +5,7 @@ date: 2020-02-25 23:11:44
 image: 'https://m.media-amazon.com/images/I/51N02oVzccL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPPNHPK-es L OR Espresso Café Espresso paquete de amante - Nespresso®...'
 sku: 'B07PPPNHPK-es'
 tags: [ 'café','cápsulas','de', ]

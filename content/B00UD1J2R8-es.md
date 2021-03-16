@@ -5,7 +5,7 @@ date: 2020-01-13 08:28:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cWPD6HH0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UD1J2R8-es Säntis Malt Appenzeller Single Edition Trinity Whisky -...'
 sku: 'B00UD1J2R8-es'
 tags: [ 'whisky', ]

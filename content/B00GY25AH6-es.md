@@ -5,7 +5,7 @@ date: 2020-08-15 22:03:23
 image: 'https://m.media-amazon.com/images/I/312MvOJfroL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GY25AH6-es Isdin Zincation Champú Anticaspa Uso frecuente - 1 x 400ml'
 sku: 'B00GY25AH6-es'
 tags: [ 'champú', ]

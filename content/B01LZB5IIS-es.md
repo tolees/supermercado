@@ -5,7 +5,7 @@ date: 2020-11-26 17:13:34
 image: 'https://m.media-amazon.com/images/I/51PvkRyGqML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZB5IIS-es Apis Tomate Triturado - 800 g'
 sku: 'B01LZB5IIS-es'
 tags: [ 'apis', ]

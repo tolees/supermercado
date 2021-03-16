@@ -5,7 +5,7 @@ date: 2020-01-15 18:10:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ttJOUUZtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DWHHJFW-es Santa Digna Chardonnay Vino Blanco 6 botellas de 75 cl -...'
 sku: 'B00DWHHJFW-es'
 tags: [ 'blanco','vino', ]

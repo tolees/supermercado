@@ -5,7 +5,7 @@ date: 2020-09-28 08:39:35
 image: 'https://m.media-amazon.com/images/I/51aofJ3QSLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QN7F5BX-es Love Beauty and Planet Desodorante Roll-on Manteca de...'
 sku: 'B07QN7F5BX-es'
 tags: [ 'desodorante', ]

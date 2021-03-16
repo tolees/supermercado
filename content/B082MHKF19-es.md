@@ -5,7 +5,7 @@ date: 2020-05-27 13:40:45
 image: 'https://m.media-amazon.com/images/I/31kvFe2bMVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MHKF19-es Complot Cerveza IPA - Botella 33cl'
 sku: 'B082MHKF19-es'
 tags: [ 'cerveza', ]

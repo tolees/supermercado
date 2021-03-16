@@ -5,7 +5,7 @@ date: 2020-09-06 08:00:52
 image: 'https://m.media-amazon.com/images/I/31dqQV8VDOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HN8P94D-es La Toja - Gel Crema de Ducha Hidrotermal - Piel suave y...'
 sku: 'B07HN8P94D-es'
 tags: [ 'la','toja', ]

@@ -5,7 +5,7 @@ date: 2020-05-19 12:32:10
 image: 'https://m.media-amazon.com/images/I/31KRR7NtZjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VS5XXGG-es Lurrose - 5 Bolsas de jabón de Malla de Espuma de Burbujas...'
 sku: 'B07VS5XXGG-es'
 tags: [ 'jabón', ]

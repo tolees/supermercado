@@ -5,7 +5,7 @@ date: 2020-08-20 21:37:27
 image: 'https://m.media-amazon.com/images/I/41hXya9HgRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA4FIBO-es Maizena - Levadura Panadería 27.5 g'
 sku: 'B00XA4FIBO-es'
 tags: [ 'levadura','maizena', ]

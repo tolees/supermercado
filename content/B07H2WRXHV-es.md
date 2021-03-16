@@ -5,7 +5,7 @@ date: 2020-03-05 18:41:40
 image: 'https://m.media-amazon.com/images/I/31aLYARBKNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2WRXHV-es Carbonell Aceite De Oliva Virgen Extra Monovarietal Regium...'
 sku: 'B07H2WRXHV-es'
 tags: [ 'aceite','carbonell','de','extra','oliva','virgen', ]

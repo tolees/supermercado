@@ -5,7 +5,7 @@ date: 2020-06-22 09:23:07
 image: 'https://m.media-amazon.com/images/I/41tLxS-Kk2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LD0BLDA-es Invero® - Juego de 6 tazas altas transparentes de 240 ml...'
 sku: 'B01LD0BLDA-es'
 tags: [ 'café','chocolate', ]

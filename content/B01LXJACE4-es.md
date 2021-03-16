@@ -5,7 +5,7 @@ date: 2020-03-03 18:43:53
 image: 'https://m.media-amazon.com/images/I/51kynUWktUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXJACE4-es Sardinillas en aceite de oliva cuca rr - 90 est. af 90 gr...'
 sku: 'B01LXJACE4-es'
 tags: [ 'aceite','cuca','de','oliva', ]

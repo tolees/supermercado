@@ -5,7 +5,7 @@ date: 2020-07-23 11:03:04
 image: 'https://m.media-amazon.com/images/I/410TMAtQH1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9D1SFX-es Matcha Green Tea | Té Matcha Vegano | Polvo de Té Natural...'
 sku: 'B01M9D1SFX-es'
 tags: [ 'gluten','sin', ]

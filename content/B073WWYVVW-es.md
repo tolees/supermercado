@@ -5,7 +5,7 @@ date: 2020-07-18 12:34:58
 image: 'https://m.media-amazon.com/images/I/51-svnShFAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073WWYVVW-es AIFUDA - Moldes de silicona para dulces de chocolate...'
 sku: 'B073WWYVVW-es'
 tags: [ 'chocolate', ]

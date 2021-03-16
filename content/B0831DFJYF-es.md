@@ -5,7 +5,7 @@ date: 2020-01-01 13:02:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rfBilB89L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0831DFJYF-es Zuionk Creative Squeezing Automatic Dientes Herramienta de...'
 sku: 'B0831DFJYF-es'
 tags: [ 'cepillo','de','dientes','pasta', ]

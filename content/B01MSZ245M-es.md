@@ -5,7 +5,7 @@ date: 2020-07-04 17:58:56
 image: 'https://m.media-amazon.com/images/I/41ODPnSNjpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSZ245M-es Chupa Chups Original Caramelo con Palo de Sabores Variados...'
 sku: 'B01MSZ245M-es'
 tags: [ 'chupa','chups', ]

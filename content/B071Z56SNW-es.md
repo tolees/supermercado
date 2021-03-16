@@ -5,7 +5,7 @@ date: 2020-06-11 15:09:55
 image: 'https://m.media-amazon.com/images/I/21+n+3XtkAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071Z56SNW-es Neutrogena - Hidratación profunda spray corporal express...'
 sku: 'B071Z56SNW-es'
 tags: [ 'neutrogena', ]

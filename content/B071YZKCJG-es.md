@@ -5,7 +5,7 @@ date: 2020-01-22 16:28:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51u1qcuuuLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071YZKCJG-es Purina Gourmet Mon Petit comida para gatos Carnes 8 x [6 x...'
 sku: 'B071YZKCJG-es'
 tags: [ 'purina', ]

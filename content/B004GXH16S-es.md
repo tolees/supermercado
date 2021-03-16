@@ -5,7 +5,7 @@ date: 2020-03-03 08:46:29
 image: 'https://m.media-amazon.com/images/I/21bYd0dA5+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004GXH16S-es Maybelline Superstay 24h 150 Delicious Pink - barras de...'
 sku: 'B004GXH16S-es'
 tags: [ 'maybelline', ]

@@ -5,7 +5,7 @@ date: 2020-09-26 12:18:34
 image: 'https://m.media-amazon.com/images/I/41UPcsHclfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MPYCBM-es textil-home Puf - Pera moldeable XL Puff - 80x80x130 cm-...'
 sku: 'B082MPYCBM-es'
 tags: [ 'pera', ]

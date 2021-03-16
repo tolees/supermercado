@@ -5,7 +5,7 @@ date: 2020-02-21 08:57:00
 image: 'https://m.media-amazon.com/images/I/415TJ+I3skL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002EP7WX2-es The Dalmore Whisky 12Y - 700 ml'
 sku: 'B002EP7WX2-es'
 tags: [ 'whisky', ]

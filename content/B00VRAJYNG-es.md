@@ -5,7 +5,7 @@ date: 2020-01-02 19:43:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41q8bZrHb1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VRAJYNG-es Revlon Sombra de ojos - 6.6 gr.'
 sku: 'B00VRAJYNG-es'
 tags: [ 'revlon', ]

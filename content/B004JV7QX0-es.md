@@ -5,7 +5,7 @@ date: 2020-08-10 19:35:40
 image: 'https://m.media-amazon.com/images/I/41VZgfO6N8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004JV7QX0-es Brandy de Jerez Solera Gran Reserva Carlos I - 1 botella...'
 sku: 'B004JV7QX0-es'
 tags: [ 'brandy', ]

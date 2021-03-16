@@ -5,7 +5,7 @@ date: 2020-01-02 11:36:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31K6JQvqKIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXVR7QT-es Maybelline New York Pack de 2 Barras de Labios Superstay...'
 sku: 'B07MXVR7QT-es'
 tags: [ 'maybelline', ]

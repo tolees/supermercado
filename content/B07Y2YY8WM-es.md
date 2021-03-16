@@ -5,7 +5,7 @@ date: 2020-07-28 04:23:09
 image: 'https://m.media-amazon.com/images/I/31NhY6EZgPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y2YY8WM-es Flauno Dispensador de Jabón Automático en Espuma sin...'
 sku: 'B07Y2YY8WM-es'
 tags: [ 'jabón', ]

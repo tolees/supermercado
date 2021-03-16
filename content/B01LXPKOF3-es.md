@@ -5,7 +5,7 @@ date: 2020-06-04 14:03:49
 image: 'https://m.media-amazon.com/images/I/51AZUFf6MxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXPKOF3-es Albo Sardinas en Aceite de Oliva - 85 g'
 sku: 'B01LXPKOF3-es'
 tags: [ 'aceite','de','oliva', ]

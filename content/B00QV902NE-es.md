@@ -5,7 +5,7 @@ date: 2020-07-03 12:08:12
 image: 'https://m.media-amazon.com/images/I/41u90KU9WpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QV902NE-es Prozis Cafeína Estimular la Concentración los Niveles de...'
 sku: 'B00QV902NE-es'
 tags: [ 'azúcar', ]

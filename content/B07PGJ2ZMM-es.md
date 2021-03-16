@@ -5,7 +5,7 @@ date: 2020-01-26 14:31:42
 image: 'https://m.media-amazon.com/images/I/41VV3t4WKYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGJ2ZMM-es Orlando - Salsa Deluxe Fusión - 245 gr'
 sku: 'B07PGJ2ZMM-es'
 tags: [ 'orlando', ]

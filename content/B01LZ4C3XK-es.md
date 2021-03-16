@@ -5,7 +5,7 @@ date: 2020-01-22 06:23:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51xd1hISL3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZ4C3XK-es Nestlé Fitness - Cereales con Chocolate Negro - 4 Paquetes...'
 sku: 'B01LZ4C3XK-es'
 tags: [ 'chocolate','nestlé', ]

@@ -5,7 +5,7 @@ date: 2020-08-05 06:33:57
 image: 'https://m.media-amazon.com/images/I/41k8A7DNoDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ICUXF4C-es Elifexir Esenciall | Piel Canela | 40 Cápsulas para un...'
 sku: 'B01ICUXF4C-es'
 tags: [ 'canela', ]

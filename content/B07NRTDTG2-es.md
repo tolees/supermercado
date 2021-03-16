@@ -5,7 +5,7 @@ date: 2020-01-22 08:39:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/318BfPM-5oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRTDTG2-es Gliss - Acondicionador Reparación Total - 2 uds de 200ml -...'
 sku: 'B07NRTDTG2-es'
 tags: [ 'acondicionador','schwarzkopf', ]

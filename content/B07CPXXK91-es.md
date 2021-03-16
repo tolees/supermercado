@@ -5,7 +5,7 @@ date: 2020-04-05 08:38:39
 image: 'https://m.media-amazon.com/images/I/51dXiZYEEHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPXXK91-es Somat Detergente Gel Lavavajillas Frescor Antiolor - 2 x...'
 sku: 'B07CPXXK91-es'
 tags: [ 'detergente','somat', ]

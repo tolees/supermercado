@@ -5,7 +5,7 @@ date: 2020-05-27 06:31:59
 image: 'https://m.media-amazon.com/images/I/31uqvFyIYkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMQDTGT-es L Oréal Paris Rouge Signature 113 I Don t Pintalabios Mate...'
 sku: 'B07KMQDTGT-es'
 tags: [ 'oréal', ]

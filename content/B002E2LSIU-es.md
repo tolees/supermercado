@@ -5,7 +5,7 @@ date: 2020-05-29 15:42:57
 image: 'https://m.media-amazon.com/images/I/41XkckB8u0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002E2LSIU-es Licor whisky drambuie t.r. 40º 700 ml'
 sku: 'B002E2LSIU-es'
 tags: [ 'whisky', ]

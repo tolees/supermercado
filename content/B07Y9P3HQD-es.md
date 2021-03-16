@@ -5,7 +5,7 @@ date: 2020-06-04 13:29:22
 image: 'https://m.media-amazon.com/images/I/41V8hA8HrYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9P3HQD-es Haofy Calentador de Taza para Té Café Leche Calentador de...'
 sku: 'B07Y9P3HQD-es'
 tags: [ 'café', ]

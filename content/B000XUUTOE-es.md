@@ -5,7 +5,7 @@ date: 2020-06-08 09:18:01
 image: 'https://m.media-amazon.com/images/I/31OTax6WQ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000XUUTOE-es Calvin Klein 16407 - Desodorante 150 ml'
 sku: 'B000XUUTOE-es'
 tags: [ 'desodorante', ]

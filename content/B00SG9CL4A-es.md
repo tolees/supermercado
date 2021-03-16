@@ -5,7 +5,7 @@ date: 2020-08-06 18:07:24
 image: 'https://m.media-amazon.com/images/I/411bztdwZvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SG9CL4A-es NIVEA Hyaluron Cellular Filler Serum Facial Renovador...'
 sku: 'B00SG9CL4A-es'
 tags: [ 'nivea', ]

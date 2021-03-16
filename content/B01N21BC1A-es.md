@@ -5,7 +5,7 @@ date: 2020-02-22 16:47:49
 image: 'https://m.media-amazon.com/images/I/41rpg-SmXjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N21BC1A-es Mineradora manual de la carne con hojas de acero fundido...'
 sku: 'B01N21BC1A-es'
 tags: [ 'salchichas', ]

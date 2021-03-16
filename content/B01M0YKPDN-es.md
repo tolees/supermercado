@@ -5,7 +5,7 @@ date: 2020-11-24 16:39:15
 image: 'https://m.media-amazon.com/images/I/514Vmlo6LRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0YKPDN-es Mical Papel de cocina con 2 Capas - 4 Rollos'
 sku: 'B01M0YKPDN-es'
 tags: [ 'cocina','de','papel', ]

@@ -5,7 +5,7 @@ date: 2020-01-02 20:03:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Woq6nDD4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4LCTIY-es Elizabeth Arden Crema corporal - 400 ml.'
 sku: 'B01N4LCTIY-es'
 tags: [ 'arden','elizabeth', ]

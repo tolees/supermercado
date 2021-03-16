@@ -5,7 +5,7 @@ date: 2020-04-03 14:12:21
 image: 'https://m.media-amazon.com/images/I/41UKFGQ97DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N8RO72R-es Ariete 2962 Chocolate Fountain Party Time Fuente Rojo'
 sku: 'B01N8RO72R-es'
 tags: [ 'chocolate', ]

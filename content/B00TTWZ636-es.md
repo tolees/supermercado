@@ -5,7 +5,7 @@ date: 2020-03-05 12:04:39
 image: 'https://m.media-amazon.com/images/I/4130ducCZmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TTWZ636-es LACTACYD Íntimo Toallitas - Higiene Íntima - Ideal para...'
 sku: 'B00TTWZ636-es'
 tags: [ 'lactacyd', ]

@@ -5,7 +5,7 @@ date: 2020-03-24 09:39:24
 image: 'https://m.media-amazon.com/images/I/311TM5ZbTGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3RTJH4-es Diadermine - Loción Micelar Calmante para Pieles...'
 sku: 'B07N3RTJH4-es'
 tags: [ 'diadermine', ]

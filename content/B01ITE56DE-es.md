@@ -5,7 +5,7 @@ date: 2020-07-17 10:23:59
 image: 'https://m.media-amazon.com/images/I/51RvaA80yEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ITE56DE-es NESTLÉ NIDINA 2 Premium [PACK AHORRO] - A partir de los 6...'
 sku: 'B01ITE56DE-es'
 tags: [ 'nestlé', ]

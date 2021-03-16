@@ -5,7 +5,7 @@ date: 2020-09-14 14:45:47
 image: 'https://m.media-amazon.com/images/I/41h2BKTp2oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086YMJNK8-es Dispensador jabon automático Dispensador de Desinfectante...'
 sku: 'B086YMJNK8-es'
 tags: [ 'jabon','jabón', ]

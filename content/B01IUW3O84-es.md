@@ -5,7 +5,7 @@ date: 2020-09-11 14:59:20
 image: 'https://m.media-amazon.com/images/I/518VdtqDx2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IUW3O84-es Lay s - Patatas Fritas al punto de sal 170 gr'
 sku: 'B01IUW3O84-es'
 tags: [ 'fritas','patatas', ]

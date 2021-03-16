@@ -5,7 +5,7 @@ date: 2020-05-29 07:43:11
 image: 'https://m.media-amazon.com/images/I/41oiUHuZH9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L2FIUO4-es Revlon Professional Equave Kids Acondicionador...'
 sku: 'B01L2FIUO4-es'
 tags: [ 'acondicionador','revlon', ]

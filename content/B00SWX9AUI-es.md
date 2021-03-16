@@ -5,7 +5,7 @@ date: 2020-04-30 15:57:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WoHX1Gi4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SWX9AUI-es Leifheit Set de fregona rotatoria Clean Twist Disc Mop...'
 sku: 'B00SWX9AUI-es'
 tags: [ 'fregona', ]

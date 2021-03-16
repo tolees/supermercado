@@ -5,7 +5,7 @@ date: 2020-01-01 09:43:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51wc5e1V6NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNZ2F3Q-es iBazal 22mm Correas Cuero Piel Pulseras Bandas Compatible...'
 sku: 'B07MNZ2F3Q-es'
 tags: [ 'café', ]

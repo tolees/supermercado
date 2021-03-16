@@ -5,7 +5,7 @@ date: 2020-01-20 20:52:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51BfhyT4vPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA06VEG-es Scottex - Papel de cocina - Súper absorbente - 2 rollos'
 sku: 'B00XA06VEG-es'
 tags: [ 'cocina','de','papel','scottex', ]

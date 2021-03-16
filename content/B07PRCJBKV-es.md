@@ -5,7 +5,7 @@ date: 2020-05-24 16:12:58
 image: 'https://m.media-amazon.com/images/I/41ghI9hDadL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRCJBKV-es PediaSure Complemento Alimenticio para Niños Sabor...'
 sku: 'B07PRCJBKV-es'
 tags: [ 'chocolate', ]

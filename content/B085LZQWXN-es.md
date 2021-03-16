@@ -5,7 +5,7 @@ date: 2020-10-09 08:38:25
 image: 'https://m.media-amazon.com/images/I/41bu-nq7P1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085LZQWXN-es Gillette Blue3 Maquinillas de Afeitar Desechables 48...'
 sku: 'B085LZQWXN-es'
 tags: [ 'gillette', ]

@@ -5,7 +5,7 @@ date: 2020-07-15 16:23:01
 image: 'https://m.media-amazon.com/images/I/51jzgykVzsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XABGDFC-es NESCAFÉ 3 en 1 | Bolsa de Café | Paquete de 10x18g'
 sku: 'B00XABGDFC-es'
 tags: [ 'café','nescafé', ]

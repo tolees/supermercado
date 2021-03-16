@@ -5,7 +5,7 @@ date: 2020-02-04 09:29:59
 image: 'https://m.media-amazon.com/images/I/31Ix9ZstVXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009T4BK2A-es One Key Ginebra - 700 ml'
 sku: 'B009T4BK2A-es'
 tags: [ 'ginebra', ]

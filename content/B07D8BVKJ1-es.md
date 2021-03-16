@@ -5,7 +5,7 @@ date: 2020-02-29 17:53:52
 image: 'https://m.media-amazon.com/images/I/41TGimMXUzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D8BVKJ1-es Dove Loción Corporal de Aceite de Aguacate y Extracto de...'
 sku: 'B07D8BVKJ1-es'
 tags: [ 'dove', ]

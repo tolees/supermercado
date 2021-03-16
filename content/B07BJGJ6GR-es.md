@@ -5,7 +5,7 @@ date: 2020-05-07 20:23:24
 image: 'https://m.media-amazon.com/images/I/41l+OfGR-AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BJGJ6GR-es Dove Desodorante Original - Pack de 3 x 150 ml Total: 450 ml'
 sku: 'B07BJGJ6GR-es'
 tags: [ 'desodorante','dove', ]

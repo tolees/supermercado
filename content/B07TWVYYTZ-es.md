@@ -5,7 +5,7 @@ date: 2020-04-09 06:15:42
 image: 'https://m.media-amazon.com/images/I/41pg2Lg9xpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWVYYTZ-es Air Wick VIPoo Spray para el WC Limón - 55 ml'
 sku: 'B07TWVYYTZ-es'
 tags: [ 'air','wick', ]

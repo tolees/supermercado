@@ -5,7 +5,7 @@ date: 2020-02-18 11:13:24
 image: 'https://m.media-amazon.com/images/I/41jg0i5kxeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006PANUI8-es Revlon ColorStay 16H Sombra de Ojos #505 Decadent'
 sku: 'B006PANUI8-es'
 tags: [ 'revlon', ]

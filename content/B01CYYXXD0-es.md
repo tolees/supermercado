@@ -5,7 +5,7 @@ date: 2020-03-10 13:39:57
 image: 'https://m.media-amazon.com/images/I/41RVp89DjXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CYYXXD0-es Lea Champú para Barba Purificante y Suavizante - 100 ml'
 sku: 'B01CYYXXD0-es'
 tags: [ 'champú','suavizante', ]

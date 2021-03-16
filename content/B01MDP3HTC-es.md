@@ -5,7 +5,7 @@ date: 2020-01-21 15:22:23
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MDP3HTC-es Okey - Batido Chocolate Botella 750 ml - Pack de 6'
 sku: 'B01MDP3HTC-es'
 tags: [ 'chocolate', ]

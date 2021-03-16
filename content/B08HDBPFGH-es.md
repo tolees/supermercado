@@ -5,7 +5,7 @@ date: 2020-09-14 06:47:58
 image: 'https://m.media-amazon.com/images/I/313d13Aa0cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HDBPFGH-es PINZAS PARA JAMÓN EMBUTIDOS PESCADOS. IDEAL PARA FINAS...'
 sku: 'B08HDBPFGH-es'
 tags: [ 'chorizo','jamón', ]

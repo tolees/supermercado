@@ -5,7 +5,7 @@ date: 2020-07-21 21:29:49
 image: 'https://m.media-amazon.com/images/I/41SBq0-NclL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XDPNZMO-es Purina Friskies Pienso para Perro Adulto Aves y Verduras...'
 sku: 'B00XDPNZMO-es'
 tags: [ 'friskies','purina', ]

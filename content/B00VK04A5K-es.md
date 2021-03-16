@@ -5,7 +5,7 @@ date: 2020-01-11 09:27:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415SZ1UK%2BWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VK04A5K-es L Oréal Paris Mega Gloss Infalible 505 Never Let Me Go'
 sku: 'B00VK04A5K-es'
 tags: [ 'oréal', ]

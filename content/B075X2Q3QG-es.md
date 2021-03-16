@@ -5,7 +5,7 @@ date: 2020-06-01 06:29:58
 image: 'https://m.media-amazon.com/images/I/41i-XPMA4JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075X2Q3QG-es La Albufera - Aceite puro natural vegano prensado en frió...'
 sku: 'B075X2Q3QG-es'
 tags: [ 'arroz', ]

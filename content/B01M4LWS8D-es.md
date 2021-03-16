@@ -5,7 +5,7 @@ date: 2020-04-10 13:46:23
 image: 'https://m.media-amazon.com/images/I/51SZK9SCfcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M4LWS8D-es Gourmet - Aceitunas rellenas de anchoa - Verdes manzanilla...'
 sku: 'B01M4LWS8D-es'
 tags: [ 'aceitunas','anchoa','manzanilla','rellenas', ]

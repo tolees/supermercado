@@ -5,7 +5,7 @@ date: 2020-05-28 07:20:37
 image: 'https://m.media-amazon.com/images/I/51scYRJP6dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XADZTXC-es Finish Quantum Regular Pastillas para Lavavajillas 40...'
 sku: 'B00XADZTXC-es'
 tags: [ 'finish', ]

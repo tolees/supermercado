@@ -5,7 +5,7 @@ date: 2020-02-21 16:25:05
 image: 'https://m.media-amazon.com/images/I/41bHPhDoO1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9YVT8B-es RED BULL Coconut Edition Bebida energética sabor coco y...'
 sku: 'B07T9YVT8B-es'
 tags: [ 'bebida','bull','energética','red', ]

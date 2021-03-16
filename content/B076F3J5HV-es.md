@@ -5,7 +5,7 @@ date: 2020-07-08 14:15:14
 image: 'https://m.media-amazon.com/images/I/41dZQNQj-yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076F3J5HV-es Hero Baby Solo Bolsita de Manzana Plátano y Zanahoria Puré...'
 sku: 'B076F3J5HV-es'
 tags: [ 'baby','hero','manzana', ]

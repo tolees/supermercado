@@ -5,7 +5,7 @@ date: 2020-01-16 13:37:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51b8B5s1b4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RYL67T-es Ensaimadas Mallorquinas Rellenas - Pack 3 Unidades -...'
 sku: 'B081RYL67T-es'
 tags: [ 'chocolate','sobrasada', ]

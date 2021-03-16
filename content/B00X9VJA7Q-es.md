@@ -5,7 +5,7 @@ date: 2020-02-28 13:16:43
 image: 'https://m.media-amazon.com/images/I/41fsa+xiqVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9VJA7Q-es Micolor Detergente Líquido Colores Vivos - 40 Lavados 2 L'
 sku: 'B00X9VJA7Q-es'
 tags: [ 'detergente', ]

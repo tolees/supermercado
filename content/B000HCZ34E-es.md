@@ -5,7 +5,7 @@ date: 2020-01-16 12:04:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nRfxM9ZjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000HCZ34E-es Maquinilla de afeitar Sensor Excel de Gillette'
 sku: 'B000HCZ34E-es'
 tags: [ 'gillette', ]

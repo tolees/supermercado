@@ -5,7 +5,7 @@ date: 2020-02-06 09:51:52
 image: 'https://m.media-amazon.com/images/I/41MabBcQCWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J4TBNQZ-es The Glenrothes 10 Años Single Malt Whisky Escoces 40% -...'
 sku: 'B07J4TBNQZ-es'
 tags: [ 'whisky', ]

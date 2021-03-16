@@ -5,7 +5,7 @@ date: 2020-10-02 10:58:15
 image: 'https://m.media-amazon.com/images/I/51DjDXyVIdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XACHTEK-es Nestlé NESQUIK Cacao Soluble Instantáneo - Estuche 5+1kg'
 sku: 'B00XACHTEK-es'
 tags: [ 'nesquik','nestlé', ]

@@ -5,7 +5,7 @@ date: 2020-02-13 16:35:51
 image: 'https://m.media-amazon.com/images/I/316wUx-giSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MWB1C1B-es TAHE BLUMIN CHAMPU JENGIBRE Y LIMON 1000ML'
 sku: 'B07MWB1C1B-es'
 tags: [ 'champu','jengibre', ]

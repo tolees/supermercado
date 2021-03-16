@@ -5,7 +5,7 @@ date: 2020-06-04 18:31:38
 image: 'https://m.media-amazon.com/images/I/31mjLj5l2HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GIA03EI-es Lactovit Loción corporal - 400 gr.'
 sku: 'B01GIA03EI-es'
 tags: [ 'lactovit', ]

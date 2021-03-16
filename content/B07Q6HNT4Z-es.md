@@ -5,7 +5,7 @@ date: 2020-05-09 14:46:05
 image: 'https://m.media-amazon.com/images/I/418NekPmgyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q6HNT4Z-es Gliss - Ultimate Repair Champú para cabello muy dañado - 4...'
 sku: 'B07Q6HNT4Z-es'
 tags: [ 'champú','schwarzkopf', ]

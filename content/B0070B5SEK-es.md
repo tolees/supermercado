@@ -5,7 +5,7 @@ date: 2020-04-08 19:02:31
 image: 'https://m.media-amazon.com/images/I/419jMo6ESrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0070B5SEK-es Wella SP Men - Set de espuma de pigmento negro Gradual...'
 sku: 'B0070B5SEK-es'
 tags: [ 'champú','wella', ]

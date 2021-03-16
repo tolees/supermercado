@@ -5,7 +5,7 @@ date: 2020-01-20 11:51:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21yGRta943L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077NJKDZN-es L Oréal Paris - Brow Artist Micro Tattoo Perfilador de...'
 sku: 'B077NJKDZN-es'
 tags: [ 'oréal', ]

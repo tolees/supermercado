@@ -5,7 +5,7 @@ date: 2020-04-01 06:37:52
 image: 'https://m.media-amazon.com/images/I/51EeA+WW95L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDJZGK9-es NICKS Favourite Mix Barritas de chocolate surtidas sin...'
 sku: 'B07DDJZGK9-es'
 tags: [ 'azúcar','chocolate','gluten','sin', ]

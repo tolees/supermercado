@@ -5,7 +5,7 @@ date: 2020-06-29 15:29:05
 image: 'https://m.media-amazon.com/images/I/41cB-1AdXYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6NCXX6-es Gliss - Champú Fiber Therapy para cabello sobreprocesado...'
 sku: 'B07P6NCXX6-es'
 tags: [ 'champú','schwarzkopf', ]

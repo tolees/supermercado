@@ -5,7 +5,7 @@ date: 2020-08-31 08:45:16
 image: 'https://m.media-amazon.com/images/I/51FlQrkvblL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CP8BCYC-es Mentos Chicle Menta Sin Azúcar - 10 unidades de 30 gr....'
 sku: 'B01CP8BCYC-es'
 tags: [ 'azúcar','mentos', ]

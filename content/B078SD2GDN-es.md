@@ -5,7 +5,7 @@ date: 2020-01-29 09:37:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31lTkn54ZJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SD2GDN-es Parejas Juego de 2 Tazas de Desayuno Café o Te - Accesorio...'
 sku: 'B078SD2GDN-es'
 tags: [ 'café', ]

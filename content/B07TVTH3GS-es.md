@@ -5,7 +5,7 @@ date: 2020-09-21 12:44:47
 image: 'https://m.media-amazon.com/images/I/51TPtr6-owL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVTH3GS-es Vanish Quitamanchas Polvo Elimina Olores Sin Lejía - 420 Gr'
 sku: 'B07TVTH3GS-es'
 tags: [ 'lejía', ]

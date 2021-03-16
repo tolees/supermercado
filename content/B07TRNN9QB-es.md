@@ -5,7 +5,7 @@ date: 2020-09-20 11:58:26
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TRNN9QB-es Vernel Aromaterapia Suavizante Concentrado Té y Peonía 57...'
 sku: 'B07TRNN9QB-es'
 tags: [ 'suavizante','vernel', ]

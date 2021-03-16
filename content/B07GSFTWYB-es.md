@@ -5,7 +5,7 @@ date: 2020-07-10 01:23:02
 image: 'https://m.media-amazon.com/images/I/41tIAkDiaHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSFTWYB-es Estirpe - Aceite de Oliva Virgen Extra 1 Garrafa de 5 Litros'
 sku: 'B07GSFTWYB-es'
 tags: [ 'aceite','de','extra','oliva','virgen', ]

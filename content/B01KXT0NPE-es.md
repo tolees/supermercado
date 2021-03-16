@@ -5,7 +5,7 @@ date: 2020-06-24 18:32:21
 image: 'https://m.media-amazon.com/images/I/417UuT4pC9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KXT0NPE-es Watermans Rápido Hair Growth champú + acondicionador de...'
 sku: 'B01KXT0NPE-es'
 tags: [ 'acondicionador','champú', ]

@@ -5,7 +5,7 @@ date: 2020-03-16 21:10:43
 image: 'https://m.media-amazon.com/images/I/51vt8GsJQoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG8S25V-es Clynelish Reserva – Whisky escocés puro de malta – Edición...'
 sku: 'B07LG8S25V-es'
 tags: [ 'whisky', ]

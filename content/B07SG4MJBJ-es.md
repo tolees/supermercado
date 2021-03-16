@@ -5,7 +5,7 @@ date: 2020-06-16 17:16:19
 image: 'https://m.media-amazon.com/images/I/51SEKtZ-90L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SG4MJBJ-es Polvo de Dientes Magicfun Polvo Blanqueamiento Dental...'
 sku: 'B07SG4MJBJ-es'
 tags: [ 'café', ]

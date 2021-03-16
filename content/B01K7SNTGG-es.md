@@ -5,7 +5,7 @@ date: 2020-03-30 06:46:12
 image: 'https://m.media-amazon.com/images/I/51zOL1Jt0iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7SNTGG-es Free Damm Cerveza Sin Alcohol - Pack de 6 Botellas 25cl'
 sku: 'B01K7SNTGG-es'
 tags: [ 'cerveza', ]

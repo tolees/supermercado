@@ -5,7 +5,7 @@ date: 2020-07-06 09:27:25
 image: 'https://m.media-amazon.com/images/I/31KUC9W+vIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QS56PYT-es NIVEA SUN Sensitive Protección Inmediata Antialergias...'
 sku: 'B07QS56PYT-es'
 tags: [ 'nivea', ]

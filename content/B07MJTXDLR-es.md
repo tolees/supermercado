@@ -5,7 +5,7 @@ date: 2020-02-19 08:38:20
 image: 'https://m.media-amazon.com/images/I/41kHBOceW8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJTXDLR-es Caffè Borbone DGBBLU6X15N Cápsulas de café - 90 cápsulas'
 sku: 'B07MJTXDLR-es'
 tags: [ 'café','cápsulas','de', ]

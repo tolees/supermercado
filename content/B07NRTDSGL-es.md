@@ -5,7 +5,7 @@ date: 2020-04-27 14:33:46
 image: 'https://m.media-amazon.com/images/I/41IVKdAFaUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRTDSGL-es Gliss - Million Gloss Champú para Cabello Apagado y Sin...'
 sku: 'B07NRTDSGL-es'
 tags: [ 'champú','schwarzkopf', ]

@@ -5,7 +5,7 @@ date: 2020-01-05 17:35:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31lOvMBQGVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9XZ7Z4-es Elizabeth Arden White Tea Gel de Ducha 400 ml'
 sku: 'B01N9XZ7Z4-es'
 tags: [ 'arden','de','ducha','elizabeth','gel', ]

@@ -5,7 +5,7 @@ date: 2020-01-11 18:55:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Urt4wqjJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003VRWN9A-es L Oréal Double Extension Máscara de Pestañas Color Extra...'
 sku: 'B003VRWN9A-es'
 tags: [ 'oréal', ]

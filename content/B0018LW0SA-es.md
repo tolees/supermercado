@@ -5,7 +5,7 @@ date: 2020-01-19 19:07:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fg4E-teGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0018LW0SA-es Elizabeth Arden 5th Avenue Agua de Perfume - 75 ml'
 sku: 'B0018LW0SA-es'
 tags: [ 'arden','elizabeth', ]

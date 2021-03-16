@@ -5,7 +5,7 @@ date: 2020-04-05 10:47:54
 image: 'https://m.media-amazon.com/images/I/41UfZW+IeHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X8HHPD2-es Aceite de oliva de autor | Virgen extra ecológico...'
 sku: 'B07X8HHPD2-es'
 tags: [ 'aceite','arbequina','de','extra','oliva','virgen', ]

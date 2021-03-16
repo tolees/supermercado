@@ -5,7 +5,7 @@ date: 2020-02-05 11:38:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kjloyrk2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWXH9R4-es MONJE DEL CLUNY Vino blanco – Albariño Rias Baixas –...'
 sku: 'B07KWXH9R4-es'
 tags: [ 'blanco','vino', ]

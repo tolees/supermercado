@@ -5,7 +5,7 @@ date: 2020-02-07 11:21:33
 image: 'https://m.media-amazon.com/images/I/31NMq17Z8mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PROCS90-es ENATE Reserva Especial 2006 Cabernet Sauvignon y Merlot...'
 sku: 'B00PROCS90-es'
 tags: [ 'tinto','vino', ]

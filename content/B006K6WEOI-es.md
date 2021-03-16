@@ -5,7 +5,7 @@ date: 2020-03-12 16:49:42
 image: 'https://m.media-amazon.com/images/I/41-i7bqIwSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006K6WEOI-es Dewar s Whisky White Label 1750 ml'
 sku: 'B006K6WEOI-es'
 tags: [ 'whisky', ]

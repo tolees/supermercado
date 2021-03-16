@@ -5,7 +5,7 @@ date: 2020-05-27 19:34:42
 image: 'https://m.media-amazon.com/images/I/51m3YPcw3oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2DH99G-es Puleva Max Leche Crecimiento y Desarrollo - 3 x 200 ml'
 sku: 'B06Y2DH99G-es'
 tags: [ 'puleva', ]

@@ -5,7 +5,7 @@ date: 2020-05-14 16:16:51
 image: 'https://m.media-amazon.com/images/I/51aSjrPNBWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSW7QDZ-es Vileda - Salvauñas Vitroceramica Duplo - [Pack de 4]'
 sku: 'B01MSW7QDZ-es'
 tags: [ 'salvauñas','vileda', ]

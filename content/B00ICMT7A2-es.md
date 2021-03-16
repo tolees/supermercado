@@ -5,7 +5,7 @@ date: 2020-08-19 14:35:40
 image: 'https://m.media-amazon.com/images/I/41sicbXqIVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ICMT7A2-es Babaria Gel de Rápida Absorción para Después del Afeitado...'
 sku: 'B00ICMT7A2-es'
 tags: [ 'babaria', ]

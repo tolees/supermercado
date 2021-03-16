@@ -5,7 +5,7 @@ date: 2020-04-08 23:44:46
 image: 'https://m.media-amazon.com/images/I/51Z24tac4SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7S96TU-es Air Wick Ambientador Nenuco Freshmatic Max'
 sku: 'B01K7S96TU-es'
 tags: [ 'air','wick', ]

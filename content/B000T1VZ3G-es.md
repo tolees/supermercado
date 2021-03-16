@@ -5,7 +5,7 @@ date: 2020-01-16 18:05:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/517dj24AtpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000T1VZ3G-es L Oréal Men Expert Gel Hidratante Antifatiga - 50 ml'
 sku: 'B000T1VZ3G-es'
 tags: [ 'oréal', ]

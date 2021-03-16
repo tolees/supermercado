@@ -5,7 +5,7 @@ date: 2020-06-04 20:55:19
 image: 'https://m.media-amazon.com/images/I/41ggvOemJjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000SSDPEM-es Vileda Attractive Plus Recambios para mopa pack 24 + 6...'
 sku: 'B000SSDPEM-es'
 tags: [ 'vileda', ]

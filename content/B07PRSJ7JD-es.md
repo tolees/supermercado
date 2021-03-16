@@ -5,7 +5,7 @@ date: 2020-01-02 14:50:09
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRSJ7JD-es Tio Pepe Vermouth La Copa Reserva - 3 Botellas x 750 ml -...'
 sku: 'B07PRSJ7JD-es'
 tags: [ 'vermouth', ]

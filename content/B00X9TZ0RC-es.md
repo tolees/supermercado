@@ -5,7 +5,7 @@ date: 2020-08-07 14:26:26
 image: 'https://m.media-amazon.com/images/I/41hg7dF9PvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9TZ0RC-es Garnier Delial Sensitive Advanced - Leche Solar para...'
 sku: 'B00X9TZ0RC-es'
 tags: [ 'garnier', ]

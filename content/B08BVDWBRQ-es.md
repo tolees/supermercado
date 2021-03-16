@@ -5,7 +5,7 @@ date: 2020-08-28 11:41:00
 image: 'https://m.media-amazon.com/images/I/51bP2dJ079L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BVDWBRQ-es Vanish Vanish Oxi Advance - Quitamanchas Para La Ropa...'
 sku: 'B08BVDWBRQ-es'
 tags: [ 'lejía', ]

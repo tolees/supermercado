@@ -5,7 +5,7 @@ date: 2020-08-08 22:03:51
 image: 'https://m.media-amazon.com/images/I/61I2p-Ym-rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XDPNTHU-es Foxy Asso Ultra Papel de Cocina - 2 rollos'
 sku: 'B00XDPNTHU-es'
 tags: [ 'cocina','de','foxy','papel', ]

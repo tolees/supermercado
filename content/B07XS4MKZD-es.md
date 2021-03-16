@@ -5,7 +5,7 @@ date: 2020-01-02 09:03:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BI9fcLpGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XS4MKZD-es Rialto Picatostes Picagrill Queso Y Sésamo 75 g Pack de 24'
 sku: 'B07XS4MKZD-es'
 tags: [ 'queso','sésamo', ]

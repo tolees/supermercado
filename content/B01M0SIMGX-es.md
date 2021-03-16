@@ -5,7 +5,7 @@ date: 2020-06-11 10:40:15
 image: 'https://m.media-amazon.com/images/I/41UNMOwoV3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0SIMGX-es Coca-Cola Sabor Original Lata - 330 ml Pack de 24'
 sku: 'B01M0SIMGX-es'
 tags: [ 'coca-cola', ]

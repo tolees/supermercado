@@ -5,7 +5,7 @@ date: 2020-02-18 13:16:03
 image: 'https://m.media-amazon.com/images/I/41fTdNH40KL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072V6RFV7-es Pandoo Taza de café para Llevar Bambú Negro 450 ml'
 sku: 'B072V6RFV7-es'
 tags: [ 'café', ]

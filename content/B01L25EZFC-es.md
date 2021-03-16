@@ -5,7 +5,7 @@ date: 2020-01-21 14:13:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xnt6cxCNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L25EZFC-es Muñeco blanco - Corazón de Marsella Detergente delicada...'
 sku: 'B01L25EZFC-es'
 tags: [ 'detergente', ]

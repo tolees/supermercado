@@ -5,7 +5,7 @@ date: 2020-04-28 11:40:13
 image: 'https://m.media-amazon.com/images/I/41G8O8JRwSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1WXDDR-es Dightyoho Boda varita Pompas de jabón Tubo de la Burbuja...'
 sku: 'B07X1WXDDR-es'
 tags: [ 'jabón', ]

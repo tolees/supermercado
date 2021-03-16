@@ -5,7 +5,7 @@ date: 2020-01-07 09:04:25
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U2R9MW8-es FINISH - Detergente Maquina Vajillas Finish 30 Past'
 sku: 'B00U2R9MW8-es'
 tags: [ 'detergente','finish', ]

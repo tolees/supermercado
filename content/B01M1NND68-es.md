@@ -5,7 +5,7 @@ date: 2020-04-16 18:16:32
 image: 'https://m.media-amazon.com/images/I/516SoTzLzPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1NND68-es Vileda Recambios para Mopa Attractiva Plus - 12 Unidades'
 sku: 'B01M1NND68-es'
 tags: [ 'vileda', ]

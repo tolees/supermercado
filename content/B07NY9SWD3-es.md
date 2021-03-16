@@ -5,7 +5,7 @@ date: 2020-06-25 06:14:03
 image: 'https://m.media-amazon.com/images/I/31pc3O400wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY9SWD3-es Control Lub Aloe - Gel lubricante de aloe y aroma a jazmín...'
 sku: 'B07NY9SWD3-es'
 tags: [ 'azúcar', ]

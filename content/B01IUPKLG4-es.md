@@ -5,7 +5,7 @@ date: 2020-01-26 14:09:13
 image: 'https://m.media-amazon.com/images/I/51nOru+ricL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IUPKLG4-es Bimbo Rebanada Estilo Artesano Pan blanco con corteza 550g...'
 sku: 'B01IUPKLG4-es'
 tags: [ 'bimbo', ]

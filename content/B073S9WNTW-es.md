@@ -5,7 +5,7 @@ date: 2020-07-04 13:04:54
 image: 'https://m.media-amazon.com/images/I/31AaOT7fRdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073S9WNTW-es Revlon Flex 2 Fases Nutritivo Acondicionador - 400 ml'
 sku: 'B073S9WNTW-es'
 tags: [ 'acondicionador','revlon', ]

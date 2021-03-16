@@ -5,7 +5,7 @@ date: 2020-05-29 16:39:14
 image: 'https://m.media-amazon.com/images/I/31ha0rC-N1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EA88JMS-es Levadura Nutricional 125 Gr de Salud Viva'
 sku: 'B01EA88JMS-es'
 tags: [ 'levadura', ]

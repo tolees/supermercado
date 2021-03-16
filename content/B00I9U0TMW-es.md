@@ -5,7 +5,7 @@ date: 2020-09-16 21:31:14
 image: 'https://m.media-amazon.com/images/I/31XtvCCcNaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I9U0TMW-es Philips Sonicare For Kids HX6032 - Set de 2 cabezales mini...'
 sku: 'B00I9U0TMW-es'
 tags: [ 'cepillo','de','dientes', ]

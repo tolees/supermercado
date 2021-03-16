@@ -5,7 +5,7 @@ date: 2020-10-03 07:10:18
 image: 'https://m.media-amazon.com/images/I/31TdqAPTchL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0091DK1II-es Brandy Solera Reserva Jerez Carlos III Osborne 36º - 1...'
 sku: 'B0091DK1II-es'
 tags: [ 'brandy', ]

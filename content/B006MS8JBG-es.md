@@ -5,7 +5,7 @@ date: 2020-04-18 01:28:34
 image: 'https://m.media-amazon.com/images/I/41S-RAUeCRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006MS8JBG-es Havanna Alfajores de Chocolate - 330 gr'
 sku: 'B006MS8JBG-es'
 tags: [ 'chocolate', ]

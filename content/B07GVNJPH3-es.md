@@ -5,7 +5,7 @@ date: 2020-06-23 09:41:20
 image: 'https://m.media-amazon.com/images/I/5146bdl4fBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVNJPH3-es Original Source Mint Gel de ducha 500 ml 6 unidades'
 sku: 'B07GVNJPH3-es'
 tags: [ 'de','ducha','gel', ]

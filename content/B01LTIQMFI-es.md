@@ -5,7 +5,7 @@ date: 2020-01-23 12:56:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zuo18z-IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LTIQMFI-es MIXA - Sensitive Confort Desodorante de bola para pieles...'
 sku: 'B01LTIQMFI-es'
 tags: [ 'desodorante', ]

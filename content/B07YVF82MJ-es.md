@@ -5,7 +5,7 @@ date: 2020-03-16 08:32:15
 image: 'https://m.media-amazon.com/images/I/51gQEd71aRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YVF82MJ-es IGLESIAS - Lote De Paleta Serrana Reserva de 4 5 a 5kg +...'
 sku: 'B07YVF82MJ-es'
 tags: [ 'chorizo', ]

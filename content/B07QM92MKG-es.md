@@ -5,7 +5,7 @@ date: 2020-01-07 16:22:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41R5BOv%2BTyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QM92MKG-es Mimosín Collection Parfum Suavizante Fleur Rouge - 6...'
 sku: 'B07QM92MKG-es'
 tags: [ 'suavizante', ]

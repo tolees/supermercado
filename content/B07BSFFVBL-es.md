@@ -5,7 +5,7 @@ date: 2020-01-13 16:02:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/619eUAuFu1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BSFFVBL-es 82 Piezas-Vajilla Diseño de Unicornio Desechable-Accesorio...'
 sku: 'B07BSFFVBL-es'
 tags: [ 'servilletas', ]

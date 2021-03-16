@@ -5,7 +5,7 @@ date: 2020-05-24 17:41:39
 image: 'https://m.media-amazon.com/images/I/317QKVHcqkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009ET3QO-es American Crew Gel Spray Fijación Media 250ml'
 sku: 'B0009ET3QO-es'
 tags: [ 'american','crew', ]

@@ -5,7 +5,7 @@ date: 2020-09-21 13:07:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31aCC5H6wtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071YPDTLX-es Ultrawhite Miele Detergente Lavadora para blancos Cod...'
 sku: 'B071YPDTLX-es'
 tags: [ 'detergente', ]

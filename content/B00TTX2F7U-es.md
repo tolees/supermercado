@@ -5,7 +5,7 @@ date: 2020-02-11 11:41:32
 image: 'https://m.media-amazon.com/images/I/61MINExXtXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TTX2F7U-es Fontactiv Forte Chocolate - 14 Sobres de 30gr'
 sku: 'B00TTX2F7U-es'
 tags: [ 'chocolate', ]

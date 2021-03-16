@@ -5,7 +5,7 @@ date: 2020-06-13 17:36:42
 image: 'https://m.media-amazon.com/images/I/41euRvs3eTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000ORWOVW-es WELEDA Desodorante Spray de Salvia 1x 100 ml'
 sku: 'B000ORWOVW-es'
 tags: [ 'desodorante', ]

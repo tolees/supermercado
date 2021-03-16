@@ -5,7 +5,7 @@ date: 2020-04-09 10:32:29
 image: 'https://m.media-amazon.com/images/I/41UvHBPKxJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDJ9QL5-es Casals C63009000 Hidrolimpiadora 1400 W 105 bares de...'
 sku: 'B07FDJ9QL5-es'
 tags: [ 'detergente', ]

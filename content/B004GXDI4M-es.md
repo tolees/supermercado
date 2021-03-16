@@ -5,7 +5,7 @@ date: 2020-01-17 13:16:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21rKZ1moIkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004GXDI4M-es Maybelline - Barra de Labios Superstay 24h con estuche 585...'
 sku: 'B004GXDI4M-es'
 tags: [ 'maybelline', ]

@@ -5,7 +5,7 @@ date: 2020-10-07 07:35:53
 image: 'https://m.media-amazon.com/images/I/41-R8MNRs1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0VJ05X-es Air Wick Ambientador Freshmatic Completo Delicias de...'
 sku: 'B01N0VJ05X-es'
 tags: [ 'air','wick', ]

@@ -5,7 +5,7 @@ date: 2020-04-20 20:41:46
 image: 'https://m.media-amazon.com/images/I/51J0Xem-hPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFY1TLP-es Fairy Platinum Plus Cápsulas para Lavavajillas Elimina...'
 sku: 'B07MFY1TLP-es'
 tags: [ 'fairy', ]

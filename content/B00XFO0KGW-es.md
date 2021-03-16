@@ -5,7 +5,7 @@ date: 2020-01-05 11:03:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31wIs1tnQBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XFO0KGW-es L Oréal Paris 24H Mate Base Maquillaje Matificante Larga...'
 sku: 'B00XFO0KGW-es'
 tags: [ 'oréal', ]

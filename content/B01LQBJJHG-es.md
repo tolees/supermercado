@@ -5,7 +5,7 @@ date: 2020-02-13 06:23:44
 image: 'https://m.media-amazon.com/images/I/41xihrhMGnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LQBJJHG-es Maybelline New York - Master Strobing Liquido Iluminador...'
 sku: 'B01LQBJJHG-es'
 tags: [ 'maybelline', ]

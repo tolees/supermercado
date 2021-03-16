@@ -5,7 +5,7 @@ date: 2020-02-17 16:25:31
 image: 'https://m.media-amazon.com/images/I/318dPicfonL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6QK4J2-es Dove Gel De Ducha Avena - Pack de 3 x 500 ml Total: 1500 ml'
 sku: 'B07P6QK4J2-es'
 tags: [ 'de','dove','ducha','gel', ]

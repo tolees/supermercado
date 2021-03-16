@@ -5,7 +5,7 @@ date: 2020-01-20 20:33:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51n1v9UiQEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4B1FYN-es Café Fortaleza Café Grano Descafeinado - 250 gr - [Pack de 3]'
 sku: 'B01N4B1FYN-es'
 tags: [ 'café','descafeinado','fortaleza', ]

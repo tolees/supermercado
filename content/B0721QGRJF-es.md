@@ -5,7 +5,7 @@ date: 2020-04-15 07:43:59
 image: 'https://m.media-amazon.com/images/I/61V2PE4+UtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0721QGRJF-es La Toja - Hidrotermal Espuma Afeitar Protect 7 - 300ml...'
 sku: 'B0721QGRJF-es'
 tags: [ 'la','toja', ]

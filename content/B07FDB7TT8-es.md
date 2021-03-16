@@ -5,7 +5,7 @@ date: 2020-01-05 15:45:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mfLHja2EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDB7TT8-es Skip Ultimate Triple Poder Cuidado del Color Detergente...'
 sku: 'B07FDB7TT8-es'
 tags: [ 'detergente', ]

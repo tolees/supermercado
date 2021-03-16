@@ -5,7 +5,7 @@ date: 2020-06-21 14:16:10
 image: 'https://m.media-amazon.com/images/I/311a1xb2eSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P56MRYP-es Max Factor Maquillaje corrector Tono: 305 Sand Pieles...'
 sku: 'B07P56MRYP-es'
 tags: [ 'factor','max', ]

@@ -5,7 +5,7 @@ date: 2020-01-15 12:10:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41W-MSGjY8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXJRPYL-es dixan detergente Líquido - 2 paquetes de 2781 gr'
 sku: 'B07MXJRPYL-es'
 tags: [ 'detergente','dixan', ]

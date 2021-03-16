@@ -5,7 +5,7 @@ date: 2020-01-30 08:23:52
 image: 'https://m.media-amazon.com/images/I/413W3veJMmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9U8GM2-es Garnier Delial UV Sport Bruma Protectora SPF50 - 200 ml'
 sku: 'B00X9U8GM2-es'
 tags: [ 'garnier', ]

@@ -5,7 +5,7 @@ date: 2020-01-21 07:23:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ucTQfJ%2BLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQ7G94M-es Neutrogena Hydrogel Mascarilla Purificante 3 Recipientes...'
 sku: 'B07HQ7G94M-es'
 tags: [ 'neutrogena', ]

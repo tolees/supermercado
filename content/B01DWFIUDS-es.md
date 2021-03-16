@@ -5,7 +5,7 @@ date: 2020-01-17 01:33:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/515TnDv8mgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DWFIUDS-es Colgate Plax Rojo Enjuague - Pack de 4 x 500 ml'
 sku: 'B01DWFIUDS-es'
 tags: [ 'colgate', ]

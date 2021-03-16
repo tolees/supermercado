@@ -5,7 +5,7 @@ date: 2020-08-28 15:22:47
 image: 'https://m.media-amazon.com/images/I/31QvnwSZrkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018B8ZG9M-es AXE colonia daily signature oud wood & dark vanilla spray...'
 sku: 'B018B8ZG9M-es'
 tags: [ 'axe', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 18:25:41
 image: 'https://m.media-amazon.com/images/I/41KNgRfHtmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU2ZEVO-es Calvé Salsa Cocktail - 225 ml'
 sku: 'B01MU2ZEVO-es'
 tags: [ 'calvé', ]

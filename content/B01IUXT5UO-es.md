@@ -5,7 +5,7 @@ date: 2020-10-08 12:50:18
 image: 'https://m.media-amazon.com/images/I/41O-HQOsGCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IUXT5UO-es Chocolates Valor - Chocolate 70% Cacao con Mousse de...'
 sku: 'B01IUXT5UO-es'
 tags: [ 'azúcar','chocolate', ]

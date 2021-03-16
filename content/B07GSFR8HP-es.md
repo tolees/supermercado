@@ -5,7 +5,7 @@ date: 2020-01-22 11:04:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31-Fkl38HeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSFR8HP-es NIVEA MEN Protege & Cuida After Shave Bálsamo Hidratante...'
 sku: 'B07GSFR8HP-es'
 tags: [ 'nivea', ]

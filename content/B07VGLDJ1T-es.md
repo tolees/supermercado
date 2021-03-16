@@ -5,7 +5,7 @@ date: 2020-08-05 13:30:00
 image: 'https://m.media-amazon.com/images/I/51vwIrdQ00L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGLDJ1T-es Hztyyier Taza del Vino del Estilo Europeo del Vintage...'
 sku: 'B07VGLDJ1T-es'
 tags: [ 'café', ]

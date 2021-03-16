@@ -5,7 +5,7 @@ date: 2020-11-19 22:16:28
 image: 'https://m.media-amazon.com/images/I/51mw9XcHjkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY1CP38-es Nestlé Purés Pijama Tarrito de puré de verduras y carne...'
 sku: 'B01LY1CP38-es'
 tags: [ 'nestlé', ]

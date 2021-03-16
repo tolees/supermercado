@@ -5,7 +5,7 @@ date: 2020-02-09 08:37:39
 image: 'https://m.media-amazon.com/images/I/31CLSSuIijL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K67BNF8-es L oréal paris - Volume million lashes extra black máscara...'
 sku: 'B00K67BNF8-es'
 tags: [ 'oréal', ]

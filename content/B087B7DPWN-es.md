@@ -5,7 +5,7 @@ date: 2020-08-26 18:31:04
 image: 'https://m.media-amazon.com/images/I/51djNhQaaiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087B7DPWN-es Dispensador automático de jabón SEAAN-1000ML Rociador de...'
 sku: 'B087B7DPWN-es'
 tags: [ 'jabón', ]

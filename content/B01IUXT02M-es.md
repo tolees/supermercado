@@ -5,7 +5,7 @@ date: 2020-09-25 21:06:21
 image: 'https://m.media-amazon.com/images/I/41JsvCiUXaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IUXT02M-es Valor Chocolate Negro Con Almendras - 250 gr'
 sku: 'B01IUXT02M-es'
 tags: [ 'chocolate', ]

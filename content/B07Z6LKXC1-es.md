@@ -5,7 +5,7 @@ date: 2020-03-02 19:36:45
 image: 'https://m.media-amazon.com/images/I/51iR-hxtOFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6LKXC1-es Timely - Vitamin Your Dog champú regenerante intenso para...'
 sku: 'B07Z6LKXC1-es'
 tags: [ 'champú', ]

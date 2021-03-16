@@ -5,7 +5,7 @@ date: 2020-08-14 02:16:04
 image: 'https://m.media-amazon.com/images/I/41ldnnGu94L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DWB5R0G-es Listerine - Mentol 1000 ml Duplo'
 sku: 'B01DWB5R0G-es'
 tags: [ 'listerine', ]

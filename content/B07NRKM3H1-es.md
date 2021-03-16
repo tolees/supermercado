@@ -5,7 +5,7 @@ date: 2020-10-06 19:02:18
 image: 'https://m.media-amazon.com/images/I/31G-4Xsv2mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRKM3H1-es La Toja - Gel de Afeitar Triple Acción Piel Sensible...'
 sku: 'B07NRKM3H1-es'
 tags: [ 'la','toja', ]

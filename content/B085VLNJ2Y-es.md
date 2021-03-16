@@ -5,7 +5,7 @@ date: 2020-08-01 20:35:34
 image: 'https://m.media-amazon.com/images/I/51jRreFlLfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085VLNJ2Y-es LA BELLEFÉE Velas de citronela 100% Cera de Soja Velas de...'
 sku: 'B085VLNJ2Y-es'
 tags: [ 'soja', ]

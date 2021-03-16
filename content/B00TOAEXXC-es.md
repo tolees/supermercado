@@ -5,7 +5,7 @@ date: 2020-03-08 16:50:49
 image: 'https://m.media-amazon.com/images/I/41e8MF3HxuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TOAEXXC-es PAVO 8056019 Llaves/Armario/Caja Fuerte AES con Seguridad...'
 sku: 'B00TOAEXXC-es'
 tags: [ 'pavo', ]

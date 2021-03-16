@@ -5,7 +5,7 @@ date: 2020-12-03 22:50:24
 image: 'https://m.media-amazon.com/images/I/41+CAFNfE9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0834HC6BQ-es Planetacase Taza Padrino - Aquí Bebe Un Super Padrino -...'
 sku: 'B0834HC6BQ-es'
 tags: [ 'café', ]

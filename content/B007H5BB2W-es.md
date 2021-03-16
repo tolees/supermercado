@@ -5,7 +5,7 @@ date: 2020-07-06 23:52:36
 image: 'https://m.media-amazon.com/images/I/41r+VAg+rdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007H5BB2W-es Ibili Bolsa para legumbres nailon 37 x 5 cm'
 sku: 'B007H5BB2W-es'
 tags: [ 'legumbres', ]

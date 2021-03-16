@@ -5,7 +5,7 @@ date: 2020-01-14 14:07:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41twTczEN3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F6D6ZCM-es Bandeja de Té de Madera Rectangular para Café Plato de...'
 sku: 'B07F6D6ZCM-es'
 tags: [ 'café', ]

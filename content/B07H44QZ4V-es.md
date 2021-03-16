@@ -5,7 +5,7 @@ date: 2020-04-09 06:46:16
 image: 'https://m.media-amazon.com/images/I/41eimMeczWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H44QZ4V-es Air Wick Essential Mist Recambio Ambientador Lavanda - 1...'
 sku: 'B07H44QZ4V-es'
 tags: [ 'air','wick', ]

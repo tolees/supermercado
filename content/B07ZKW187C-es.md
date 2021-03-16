@@ -5,7 +5,7 @@ date: 2020-01-23 20:02:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NkYNvZkiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKW187C-es Heallily lubricante anal lubricante personal a base de...'
 sku: 'B07ZKW187C-es'
 tags: [ 'melocotón', ]

@@ -5,7 +5,7 @@ date: 2020-11-20 11:55:35
 image: 'https://m.media-amazon.com/images/I/31LDrMbTo8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072FN1JRN-es INJUICY Loft Vintage Retro Industria LED AJ Lámpara de...'
 sku: 'B072FN1JRN-es'
 tags: [ 'café', ]

@@ -5,7 +5,7 @@ date: 2020-03-26 21:13:44
 image: 'https://m.media-amazon.com/images/I/41mUAwRuU7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010TGWK6Q-es Wella Eimi Moisture Me Rich - Pasta mate 150 ml'
 sku: 'B010TGWK6Q-es'
 tags: [ 'wella', ]

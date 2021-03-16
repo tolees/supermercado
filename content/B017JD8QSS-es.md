@@ -5,7 +5,7 @@ date: 2020-07-13 01:33:25
 image: 'https://m.media-amazon.com/images/I/41H6MjyLRoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017JD8QSS-es Decantador de Vino y Aireador para Botella - Vertedor...'
 sku: 'B017JD8QSS-es'
 tags: [ 'tinto','vino', ]

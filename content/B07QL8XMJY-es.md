@@ -5,7 +5,7 @@ date: 2020-01-03 08:11:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41JfHcra5yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QL8XMJY-es Love Beauty and Planet Acondicionador para Cabello dañado...'
 sku: 'B07QL8XMJY-es'
 tags: [ 'acondicionador', ]

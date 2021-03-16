@@ -5,7 +5,7 @@ date: 2020-06-04 14:16:09
 image: 'https://m.media-amazon.com/images/I/41NqXqiRadL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VTYFGL-es Vivesoy - Bebida de Soja sabor Vainilla - 1 L'
 sku: 'B082VTYFGL-es'
 tags: [ 'soja', ]

@@ -5,7 +5,7 @@ date: 2020-05-27 19:34:35
 image: 'https://m.media-amazon.com/images/I/41Ows0AHwuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZPF8J3Q-es Knorr Caldo Líquido de la Abuela Pollo - 1L'
 sku: 'B07ZPF8J3Q-es'
 tags: [ 'knorr', ]

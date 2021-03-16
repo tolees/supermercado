@@ -5,7 +5,7 @@ date: 2020-01-14 17:14:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/315HSDkZ5LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001KYVKEK-es Revlon ColorStay Overtime Pintalabios Larga Duración...'
 sku: 'B001KYVKEK-es'
 tags: [ 'revlon', ]

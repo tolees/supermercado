@@ -5,7 +5,7 @@ date: 2020-06-15 14:41:32
 image: 'https://m.media-amazon.com/images/I/41Ib++h41CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0063GEJM0-es Listerine - Enjuague Bucal Mentol 1000 ml'
 sku: 'B0063GEJM0-es'
 tags: [ 'listerine', ]

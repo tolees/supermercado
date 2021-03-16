@@ -5,7 +5,7 @@ date: 2020-07-30 17:57:29
 image: 'https://m.media-amazon.com/images/I/415FNarOaDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XANGBVG-es Signal Action Gel Fresco Dentífrico - 75 ml'
 sku: 'B00XANGBVG-es'
 tags: [ 'dentífrico', ]

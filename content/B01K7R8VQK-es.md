@@ -5,7 +5,7 @@ date: 2020-12-02 15:17:44
 image: 'https://m.media-amazon.com/images/I/41KXqC-0nfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7R8VQK-es Hero Baby Verduritas de La Huerta Pollo y Ternera - 235 g'
 sku: 'B01K7R8VQK-es'
 tags: [ 'baby','hero', ]

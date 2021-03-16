@@ -5,7 +5,7 @@ date: 2020-01-19 09:35:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51guBt5bF0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008BH9DMU-es Gillette Mach 3 - Cuchillas de recambio para maquinilla de...'
 sku: 'B008BH9DMU-es'
 tags: [ 'gillette', ]

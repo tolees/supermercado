@@ -5,7 +5,7 @@ date: 2020-02-10 15:05:50
 image: 'https://m.media-amazon.com/images/I/41OpSzZvoiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CLN78Y6-es Diadermine - Lift+ Hidratante crema de día - 50ml y Lift+...'
 sku: 'B07CLN78Y6-es'
 tags: [ 'diadermine', ]

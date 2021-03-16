@@ -5,7 +5,7 @@ date: 2020-05-16 11:37:57
 image: 'https://m.media-amazon.com/images/I/31V3wOJWusL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005CJVBY8-es Ginebra - Gin Citadelle 1L'
 sku: 'B005CJVBY8-es'
 tags: [ 'ginebra', ]

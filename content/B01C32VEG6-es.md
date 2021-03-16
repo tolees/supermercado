@@ -5,7 +5,7 @@ date: 2020-01-21 15:22:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51wAe-UALhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C32VEG6-es Gillette Sensor Excel - Recambio De Maquinilla De Afeitar...'
 sku: 'B01C32VEG6-es'
 tags: [ 'gillette', ]

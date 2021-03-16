@@ -5,7 +5,7 @@ date: 2020-01-16 14:06:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51IUKea2UXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QN7DR1X-es Rexona Desodorante Antitranspirante Invisible On...'
 sku: 'B07QN7DR1X-es'
 tags: [ 'desodorante','rexona', ]

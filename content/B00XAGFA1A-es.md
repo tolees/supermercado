@@ -5,7 +5,7 @@ date: 2020-07-05 14:56:56
 image: 'https://m.media-amazon.com/images/I/51pxcWDlwwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAGFA1A-es Oral-B Complete Limpieza Refrescante Pasta Dentífrica +...'
 sku: 'B00XAGFA1A-es'
 tags: [ 'dentífrica', ]

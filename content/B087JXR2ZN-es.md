@@ -5,7 +5,7 @@ date: 2020-09-03 18:13:57
 image: 'https://m.media-amazon.com/images/I/41bbr8n2KML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JXR2ZN-es Mentos Mix Frutos Rojos Caramelo Masticable con Zumo de...'
 sku: 'B087JXR2ZN-es'
 tags: [ 'de','mentos','zumo', ]

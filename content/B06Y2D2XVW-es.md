@@ -5,7 +5,7 @@ date: 2020-05-31 17:41:46
 image: 'https://m.media-amazon.com/images/I/31eKXe0VnPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2D2XVW-es Wella - Mascarilla Reparadora Intensa Fusion 500'
 sku: 'B06Y2D2XVW-es'
 tags: [ 'wella', ]

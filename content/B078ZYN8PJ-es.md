@@ -5,7 +5,7 @@ date: 2020-01-05 13:41:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y8fMBYLvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZYN8PJ-es TRESemmé Acondicionador Repara y Fortalece - Paquete de 3...'
 sku: 'B078ZYN8PJ-es'
 tags: [ 'acondicionador','tresemmé', ]

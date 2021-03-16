@@ -5,7 +5,7 @@ date: 2020-01-22 17:08:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HOMincHwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0068DFDH8-es Oral-B - Cepillo de dientes eléctrico funciona con pilas...'
 sku: 'B0068DFDH8-es'
 tags: [ 'cepillo','de','dientes', ]

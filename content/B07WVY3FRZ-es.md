@@ -5,7 +5,7 @@ date: 2020-03-05 15:06:46
 image: 'https://m.media-amazon.com/images/I/31sGG8ZTQeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVY3FRZ-es Revium - Limpiador facial antirrojeces para pieles...'
 sku: 'B07WVY3FRZ-es'
 tags: [ 'jabón', ]

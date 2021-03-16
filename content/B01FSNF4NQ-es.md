@@ -5,7 +5,7 @@ date: 2020-01-11 18:04:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hz-2U57yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FSNF4NQ-es Elizabeth Arden Sunflowers Crema Corporal - 500 gr'
 sku: 'B01FSNF4NQ-es'
 tags: [ 'arden','elizabeth', ]

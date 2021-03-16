@@ -5,7 +5,7 @@ date: 2020-09-14 10:09:18
 image: 'https://m.media-amazon.com/images/I/41IWDbxvZnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGJJN66-es Maybelline New York Fit Me - Polvos Compactos Matificantes...'
 sku: 'B06XGJJN66-es'
 tags: [ 'maybelline', ]

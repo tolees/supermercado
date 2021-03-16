@@ -5,7 +5,7 @@ date: 2020-01-29 13:18:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51pPRfLauFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAEBRPK-es Colon Detergente para Ropa en Polvo Formato Profesional -...'
 sku: 'B00XAEBRPK-es'
 tags: [ 'detergente', ]

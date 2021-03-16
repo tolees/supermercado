@@ -5,7 +5,7 @@ date: 2020-08-20 09:18:46
 image: 'https://m.media-amazon.com/images/I/31ZbQ2yRozL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AGYUM0W-es Elizabeth Arden Flawless Start Base de Maquillaje 30 ml'
 sku: 'B01AGYUM0W-es'
 tags: [ 'arden','elizabeth', ]

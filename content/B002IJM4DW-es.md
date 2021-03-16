@@ -5,7 +5,7 @@ date: 2020-03-09 18:02:11
 image: 'https://m.media-amazon.com/images/I/51kcU0ZTH+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002IJM4DW-es Vileda Park & Go - Funda de planchar con zona parking...'
 sku: 'B002IJM4DW-es'
 tags: [ 'vileda', ]

@@ -5,7 +5,7 @@ date: 2020-01-19 20:40:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JftzMfBhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MB3SQD-es Colgate Max White Expert Complete Dentífrico 75 ml paquete...'
 sku: 'B072MB3SQD-es'
 tags: [ 'colgate','dentífrico', ]

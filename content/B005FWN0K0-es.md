@@ -5,7 +5,7 @@ date: 2020-02-24 10:04:23
 image: 'https://m.media-amazon.com/images/I/21VLxm2Z5mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005FWN0K0-es Tork 561500 Dispensador para Jabón en Espuma / Dosificador...'
 sku: 'B005FWN0K0-es'
 tags: [ 'jabón', ]

@@ -5,7 +5,7 @@ date: 2020-08-17 12:25:05
 image: 'https://m.media-amazon.com/images/I/31BhWEi3maL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015DTSPWM-es La Toja Balsamo Hidrotermal - 100 ml'
 sku: 'B015DTSPWM-es'
 tags: [ 'la','toja', ]

@@ -5,7 +5,7 @@ date: 2020-09-18 14:02:53
 image: 'https://m.media-amazon.com/images/I/51lvEW4IIoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WGS9J3D-es LITORAL Cocido Madrileño - Plato Preparado Sin Gluten -...'
 sku: 'B06WGS9J3D-es'
 tags: [ 'gluten','litoral','plato','preparado','sin', ]

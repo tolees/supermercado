@@ -5,7 +5,7 @@ date: 2020-09-16 06:08:55
 image: 'https://m.media-amazon.com/images/I/513UjJqCrML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003XUM5GQ-es ColaCao 0% Azúcares añadidos - 300g'
 sku: 'B003XUM5GQ-es'
 tags: [ 'colacao', ]

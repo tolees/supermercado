@@ -5,7 +5,7 @@ date: 2020-06-25 22:19:57
 image: 'https://m.media-amazon.com/images/I/41Z5TnMTCLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073VN2WG8-es Mimosín - Intense Estallido de Pasión Suavizante...'
 sku: 'B073VN2WG8-es'
 tags: [ 'suavizante', ]

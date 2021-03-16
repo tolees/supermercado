@@ -5,7 +5,7 @@ date: 2020-01-20 20:32:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vujW32a8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA1RJWI-es Café FORTALEZA - Café en Grano Natural - 1 kg'
 sku: 'B00XA1RJWI-es'
 tags: [ 'café','fortaleza', ]

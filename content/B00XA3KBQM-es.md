@@ -5,7 +5,7 @@ date: 2020-01-03 09:57:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51zUnyW6sTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA3KBQM-es La Fallera - Arroz Extra - 5 kg'
 sku: 'B00XA3KBQM-es'
 tags: [ 'arroz', ]

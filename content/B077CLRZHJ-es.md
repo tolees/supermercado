@@ -5,7 +5,7 @@ date: 2020-01-04 08:27:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41S0Z3LIs3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077CLRZHJ-es Bosch TAS6004 Tassimo My Way color blanco + Pack café 5...'
 sku: 'B077CLRZHJ-es'
 tags: [ 'café', ]

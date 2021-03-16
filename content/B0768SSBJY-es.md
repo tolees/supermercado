@@ -5,7 +5,7 @@ date: 2020-10-05 18:10:15
 image: 'https://m.media-amazon.com/images/I/41XVUqvoQ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0768SSBJY-es L Oréal Paris Men Expert - Barber Club Aceite hidratante...'
 sku: 'B0768SSBJY-es'
 tags: [ 'oréal', ]

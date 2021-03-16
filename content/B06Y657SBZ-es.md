@@ -5,7 +5,7 @@ date: 2020-01-24 19:39:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31S5c%2BCASbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y657SBZ-es Neutrogena Hydro Boost Aqua Gel Piel Normal Y Mixta - 50 ml.'
 sku: 'B06Y657SBZ-es'
 tags: [ 'neutrogena', ]

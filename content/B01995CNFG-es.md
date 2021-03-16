@@ -5,7 +5,7 @@ date: 2020-05-03 17:13:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iNkeQb3VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01995CNFG-es Forbury Direct - Base Jabón de glicerina transparente sin...'
 sku: 'B01995CNFG-es'
 tags: [ 'jabón', ]

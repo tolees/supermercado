@@ -5,7 +5,7 @@ date: 2020-03-28 20:00:03
 image: 'https://m.media-amazon.com/images/I/316BCVvyinL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001TOGQKO-es Marques De Riscal Reserva - Vino Tinto Botella de 0.75 L'
 sku: 'B001TOGQKO-es'
 tags: [ 'tinto','vino', ]

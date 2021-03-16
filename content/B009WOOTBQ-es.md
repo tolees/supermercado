@@ -5,7 +5,7 @@ date: 2020-06-19 14:20:15
 image: 'https://m.media-amazon.com/images/I/31Stl4Ztc1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009WOOTBQ-es Máscara de Pestañas Volumen Millón de Pestañas Volume...'
 sku: 'B009WOOTBQ-es'
 tags: [ 'oréal', ]

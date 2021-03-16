@@ -5,7 +5,7 @@ date: 2020-02-27 01:09:39
 image: 'https://m.media-amazon.com/images/I/612O5PW0TgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EHSNSFY-es Ausonia Discreet Normal M - Braguitas-Pants paquete de 9...'
 sku: 'B01EHSNSFY-es'
 tags: [ 'ausonia', ]

@@ -5,7 +5,7 @@ date: 2020-01-20 20:33:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gJDyrcqOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXLMPRZ-es Café Fortaleza Café Grano Natural - 500 gr - [Pack de 3]'
 sku: 'B01MXLMPRZ-es'
 tags: [ 'café','fortaleza', ]

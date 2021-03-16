@@ -5,7 +5,7 @@ date: 2020-09-08 13:34:57
 image: 'https://m.media-amazon.com/images/I/41FJLS1OV2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZG3SC1S-es Moussel Neceser Gel de Ducha Clásico'
 sku: 'B07ZG3SC1S-es'
 tags: [ 'de','ducha','gel','moussel', ]

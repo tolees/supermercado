@@ -5,7 +5,7 @@ date: 2020-09-21 11:23:19
 image: 'https://m.media-amazon.com/images/I/51d08OJPzqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CV1BXTC-es Gaoyong Velas Aromaticas 4 Piezas Velas Perfumadas de...'
 sku: 'B08CV1BXTC-es'
 tags: [ 'soja', ]

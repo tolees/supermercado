@@ -5,7 +5,7 @@ date: 2020-06-05 12:51:34
 image: 'https://m.media-amazon.com/images/I/51iP2uzOWPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBLG2S9-es Font Vella Levité Limón Zero - pack de 6 x 1 25L'
 sku: 'B07YBLG2S9-es'
 tags: [ 'font','vella', ]

@@ -5,7 +5,7 @@ date: 2020-01-14 12:13:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41X5EAYan3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0043A4IVU-es No. 3 London Dry Gin Ginebra - 700 ml'
 sku: 'B0043A4IVU-es'
 tags: [ 'ginebra', ]

@@ -5,7 +5,7 @@ date: 2020-10-02 10:34:10
 image: 'https://m.media-amazon.com/images/I/41z3WCDriiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA06XQ2-es Scottex Sensitive Papel Higiénico 6 Rollos'
 sku: 'B00XA06XQ2-es'
 tags: [ 'scottex', ]

@@ -5,7 +5,7 @@ date: 2020-01-26 12:45:22
 image: 'https://m.media-amazon.com/images/I/41j7LS-cZaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009KKQXFM-es La masía - Aceite de oliva suave - 1 L'
 sku: 'B009KKQXFM-es'
 tags: [ 'aceite','de','oliva', ]

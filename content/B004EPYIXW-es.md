@@ -5,7 +5,7 @@ date: 2020-08-11 07:46:35
 image: 'https://m.media-amazon.com/images/I/415BvN4+DiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004EPYIXW-es Scitec Whey Protein Professional Mezcla de Proteína de...'
 sku: 'B004EPYIXW-es'
 tags: [ 'chocolate', ]

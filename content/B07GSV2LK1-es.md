@@ -5,7 +5,7 @@ date: 2020-05-31 21:07:36
 image: 'https://m.media-amazon.com/images/I/41gBYnGQnSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSV2LK1-es Love Beauty and Planet Mascarilla Capilar para Cabello...'
 sku: 'B07GSV2LK1-es'
 tags: [ 'capilar','mascarilla', ]

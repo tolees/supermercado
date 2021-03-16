@@ -5,7 +5,7 @@ date: 2020-03-16 14:44:58
 image: 'https://m.media-amazon.com/images/I/41nAIAxUjEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001IZYQC4-es Max Factor Maquillaje en polvo - 1 unidad'
 sku: 'B001IZYQC4-es'
 tags: [ 'factor','max', ]

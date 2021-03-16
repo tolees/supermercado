@@ -5,7 +5,7 @@ date: 2020-01-09 16:05:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31UOQQ-MubL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JQEP060-es Revlon Super Lustrous Lipstick Pearl Ipanema Beach 210'
 sku: 'B00JQEP060-es'
 tags: [ 'revlon', ]

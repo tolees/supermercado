@@ -5,7 +5,7 @@ date: 2020-02-03 15:54:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31xOKXPNONL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FKL2BU0-es Revlon Ultra HD Pintalabios Mate Intensity'
 sku: 'B01FKL2BU0-es'
 tags: [ 'revlon', ]

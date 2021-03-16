@@ -5,7 +5,7 @@ date: 2020-07-10 00:12:59
 image: 'https://m.media-amazon.com/images/I/413H1q5VEeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHP3ZCQ-es NIVEA Neceser Body Cuidado Completo con body milk 1 x 400...'
 sku: 'B07ZHP3ZCQ-es'
 tags: [ 'de','desodorante','ducha','gel','nivea', ]

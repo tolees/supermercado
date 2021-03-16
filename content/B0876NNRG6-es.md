@@ -5,7 +5,7 @@ date: 2020-09-21 19:46:53
 image: 'https://m.media-amazon.com/images/I/51RBfxTWmtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0876NNRG6-es Marca Amazon - Solimo Jabón de manos líquido - Frambuesa &...'
 sku: 'B0876NNRG6-es'
 tags: [ 'jabón','solimo', ]

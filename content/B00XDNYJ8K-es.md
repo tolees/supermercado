@@ -5,7 +5,7 @@ date: 2020-05-03 16:07:02
 image: 'https://m.media-amazon.com/images/I/41hiE-ZR7PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XDNYJ8K-es Lindt - Lindor Leche Singles 100 g'
 sku: 'B00XDNYJ8K-es'
 tags: [ 'lindt', ]

@@ -5,7 +5,7 @@ date: 2020-04-24 15:42:45
 image: 'https://m.media-amazon.com/images/I/51bWRVuDBcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015KXE3UO-es Balvenie 12 Años Whisky - 1 botella'
 sku: 'B015KXE3UO-es'
 tags: [ 'whisky', ]

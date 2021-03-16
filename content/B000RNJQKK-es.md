@@ -5,7 +5,7 @@ date: 2020-01-01 09:03:29
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RNJQKK-es Hugo Boss 58000223 desodorante Hombres Desodorante en...'
 sku: 'B000RNJQKK-es'
 tags: [ 'desodorante','desodorantes', ]

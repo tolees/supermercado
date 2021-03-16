@@ -5,7 +5,7 @@ date: 2020-01-16 06:40:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412ZvU519DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HD5AG9Y-es Lagarto Jabón Natural - Paquete de 40 x 400 gr - Total:...'
 sku: 'B01HD5AG9Y-es'
 tags: [ 'jabón', ]

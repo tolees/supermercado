@@ -5,7 +5,7 @@ date: 2020-10-03 08:26:39
 image: 'https://m.media-amazon.com/images/I/51eYJYA5emL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9X5LQP-es Yosoy - Bebida Vegetal Ecológica de Avena Caja de 6 x 1L'
 sku: 'B07F9X5LQP-es'
 tags: [ 'yosoy', ]

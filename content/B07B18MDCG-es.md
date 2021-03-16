@@ -5,7 +5,7 @@ date: 2020-04-03 10:04:25
 image: 'https://m.media-amazon.com/images/I/51Ea8t+nT3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B18MDCG-es Ladrón de Manzanas Cider Manzana - 4 Packs de 6 Botellas x...'
 sku: 'B07B18MDCG-es'
 tags: [ 'de','ladrón','manzana','manzanas', ]

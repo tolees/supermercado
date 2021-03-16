@@ -5,7 +5,7 @@ date: 2020-01-14 21:30:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514FDJ1KOUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZCL3P8S-es Air Wick - Vela de aceites esenciales edición limitada...'
 sku: 'B07ZCL3P8S-es'
 tags: [ 'air','wick', ]

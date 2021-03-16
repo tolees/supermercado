@@ -5,7 +5,7 @@ date: 2020-01-10 15:22:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51dFzfGHFmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NY04AN6-es Gillette ProGlide Power blades - Hoja - Pack de 4'
 sku: 'B00NY04AN6-es'
 tags: [ 'gillette', ]

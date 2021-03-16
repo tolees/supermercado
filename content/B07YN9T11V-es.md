@@ -5,7 +5,7 @@ date: 2020-06-06 17:49:48
 image: 'https://m.media-amazon.com/images/I/51kiK-QYROL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YN9T11V-es Weider Yippie Cookies. Galletas con Proteína y Chocolate...'
 sku: 'B07YN9T11V-es'
 tags: [ 'chocolate', ]

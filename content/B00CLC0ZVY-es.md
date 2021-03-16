@@ -5,7 +5,7 @@ date: 2020-03-12 15:33:40
 image: 'https://m.media-amazon.com/images/I/31qFOclO1DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CLC0ZVY-es Elizabeth Arden 5th Avenue NYC - Agua de perfume'
 sku: 'B00CLC0ZVY-es'
 tags: [ 'arden','elizabeth', ]

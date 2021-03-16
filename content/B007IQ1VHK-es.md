@@ -5,7 +5,7 @@ date: 2020-04-24 10:49:18
 image: 'https://m.media-amazon.com/images/I/41UGyYjVxkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007IQ1VHK-es Nestlé Chocolate con leche con cereales tostados - 100 gr'
 sku: 'B007IQ1VHK-es'
 tags: [ 'chocolate','nestlé', ]

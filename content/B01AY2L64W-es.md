@@ -5,7 +5,7 @@ date: 2020-01-14 23:20:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51rdYHl1q6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AY2L64W-es Cadbury Huevo de chocolate - 22 de 89 gr. Total 1958 gr.'
 sku: 'B01AY2L64W-es'
 tags: [ 'chocolate', ]

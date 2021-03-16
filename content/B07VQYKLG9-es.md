@@ -5,7 +5,7 @@ date: 2020-01-15 18:36:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DQgxLanCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQYKLG9-es AICOK Máquina de algodón de azúcar Usar Azúcar Regular de...'
 sku: 'B07VQYKLG9-es'
 tags: [ 'azúcar', ]

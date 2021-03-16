@@ -5,7 +5,7 @@ date: 2020-03-04 16:22:45
 image: 'https://m.media-amazon.com/images/I/51IDMJ5hFSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4R9N7F-es Estrella de Levante Cerveza - Pack de 6 Botellas 1L'
 sku: 'B07H4R9N7F-es'
 tags: [ 'cerveza', ]

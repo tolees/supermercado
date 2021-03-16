@@ -5,7 +5,7 @@ date: 2020-12-31 08:55:42
 image: 'https://m.media-amazon.com/images/I/21bR8JL0oVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6BX75G-es Chicco Tutina Bimbo con Apertura Entrogamba Mono Corto...'
 sku: 'B07S6BX75G-es'
 tags: [ 'bimbo', ]

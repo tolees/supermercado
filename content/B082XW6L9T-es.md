@@ -5,7 +5,7 @@ date: 2020-02-17 10:40:26
 image: 'https://m.media-amazon.com/images/I/51AajUl1VRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XW6L9T-es Hoomtaook Estanteria Ducha Estanteria Baño Para de Baño...'
 sku: 'B082XW6L9T-es'
 tags: [ 'jabón', ]

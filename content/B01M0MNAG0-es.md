@@ -5,7 +5,7 @@ date: 2020-11-30 16:14:43
 image: 'https://m.media-amazon.com/images/I/51TJwZBNBmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0MNAG0-es SOLIS Tomate Frito Frasco Cristal - Tomate sin gluten -...'
 sku: 'B01M0MNAG0-es'
 tags: [ 'gluten','sin','solis', ]

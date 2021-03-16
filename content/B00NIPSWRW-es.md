@@ -5,7 +5,7 @@ date: 2020-09-25 09:23:58
 image: 'https://m.media-amazon.com/images/I/51++bR8y0jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NIPSWRW-es Oral-B PRO 600 CrossAction Cepillo de dientes eléctrico...'
 sku: 'B00NIPSWRW-es'
 tags: [ 'cepillo','de','dientes', ]

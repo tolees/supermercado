@@ -5,7 +5,7 @@ date: 2020-05-14 12:23:17
 image: 'https://m.media-amazon.com/images/I/41w8o+ja+ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZG43FGR-es Fairy Profesional Lavavajillas Líquido Fast Clean - 10L...'
 sku: 'B07ZG43FGR-es'
 tags: [ 'fairy', ]

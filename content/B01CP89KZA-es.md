@@ -5,7 +5,7 @@ date: 2020-03-07 17:16:11
 image: 'https://m.media-amazon.com/images/I/51LheUgPHVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CP89KZA-es Mentos Chicle Frutas Silvestres Sin Azúcar - 10 unidades...'
 sku: 'B01CP89KZA-es'
 tags: [ 'azúcar','mentos', ]

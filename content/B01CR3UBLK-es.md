@@ -5,7 +5,7 @@ date: 2020-01-20 20:33:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OVJxAPJKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CR3UBLK-es Café FORTALEZA - Café en Grano Mezcla 50/50 - 1 kg'
 sku: 'B01CR3UBLK-es'
 tags: [ 'café','fortaleza', ]

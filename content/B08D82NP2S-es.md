@@ -5,7 +5,7 @@ date: 2020-09-25 07:06:30
 image: 'https://m.media-amazon.com/images/I/41HGAEChm0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D82NP2S-es 2 Dispenser Jabón Cristal Ambar 500ml Dosificador Botella...'
 sku: 'B08D82NP2S-es'
 tags: [ 'jabón', ]

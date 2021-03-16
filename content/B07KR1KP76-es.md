@@ -5,7 +5,7 @@ date: 2020-01-06 13:03:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-wJajI7gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KR1KP76-es VVVVANKER DIY Resina Helado Sundae Taza de café Miniatura...'
 sku: 'B07KR1KP76-es'
 tags: [ 'café', ]

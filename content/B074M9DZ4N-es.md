@@ -5,7 +5,7 @@ date: 2020-06-22 03:36:59
 image: 'https://m.media-amazon.com/images/I/41vBiVXC+5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074M9DZ4N-es Philips CA6903/10 Filtro de Agua Aquaclean para Máquinas...'
 sku: 'B074M9DZ4N-es'
 tags: [ 'café', ]

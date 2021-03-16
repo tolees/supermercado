@@ -5,7 +5,7 @@ date: 2020-01-04 18:04:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IBzd4wsHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0012RXTBW-es Elizabeth Arden Mediterranean - Agua de perfume'
 sku: 'B0012RXTBW-es'
 tags: [ 'arden','elizabeth', ]

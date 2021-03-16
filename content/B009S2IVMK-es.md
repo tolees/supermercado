@@ -5,7 +5,7 @@ date: 2020-08-11 13:47:16
 image: 'https://m.media-amazon.com/images/I/31Y-LNibDfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009S2IVMK-es Max Factor FaceFinity 3 en 1 All Day Flawless Base de...'
 sku: 'B009S2IVMK-es'
 tags: [ 'factor','max', ]

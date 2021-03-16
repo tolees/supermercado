@@ -5,7 +5,7 @@ date: 2020-01-15 22:57:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51-Tkb85R5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G1WINB8-es Ruffles Jamon patatas fritas onduladas 312g'
 sku: 'B01G1WINB8-es'
 tags: [ 'fritas','patatas','ruffles', ]

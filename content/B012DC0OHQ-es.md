@@ -5,7 +5,7 @@ date: 2020-09-24 14:50:52
 image: 'https://m.media-amazon.com/images/I/41FiEAS-MVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012DC0OHQ-es Hibiki Suntory Whisky Japanese Harmony 43% - 700 ml'
 sku: 'B012DC0OHQ-es'
 tags: [ 'whisky', ]

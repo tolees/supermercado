@@ -5,7 +5,7 @@ date: 2020-01-02 14:50:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pEUEvLAiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXSWNWD-es Vermouth La Copa Rojo - D.O. Jerez - 6 x 750 ml - Total:...'
 sku: 'B01MXSWNWD-es'
 tags: [ 'vermouth', ]

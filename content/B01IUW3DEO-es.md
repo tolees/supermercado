@@ -5,7 +5,7 @@ date: 2020-02-04 11:19:55
 image: 'https://m.media-amazon.com/images/I/51PL1OZcUyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IUW3DEO-es Ruffles - Patatas Fritas con Sabor a Jamón y Queso - 170 gr'
 sku: 'B01IUW3DEO-es'
 tags: [ 'fritas','jamón','patatas','queso','ruffles', ]

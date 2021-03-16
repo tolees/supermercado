@@ -5,7 +5,7 @@ date: 2020-08-12 16:54:33
 image: 'https://m.media-amazon.com/images/I/41jQ3BSaZtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPK9PFP-es Ruavieja Licor de Hierbas - 1000 ml'
 sku: 'B07VPK9PFP-es'
 tags: [ 'ruavieja', ]

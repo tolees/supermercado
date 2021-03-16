@@ -5,7 +5,7 @@ date: 2020-02-21 07:59:51
 image: 'https://m.media-amazon.com/images/I/4184UoF60lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC116VF-es AXE Marine - Desodorante Bodyspray para hombre 48 horas de...'
 sku: 'B07NC116VF-es'
 tags: [ 'axe','desodorante', ]

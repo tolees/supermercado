@@ -5,7 +5,7 @@ date: 2020-07-21 15:45:40
 image: 'https://m.media-amazon.com/images/I/41W4TTt2YOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BN7XB0K-es NIVEA MEN Active Energy Bálsamo 2en1 Revitalizante 1 x 100...'
 sku: 'B00BN7XB0K-es'
 tags: [ 'nivea', ]

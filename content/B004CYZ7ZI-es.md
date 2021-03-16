@@ -5,7 +5,7 @@ date: 2020-06-13 22:12:22
 image: 'https://m.media-amazon.com/images/I/414MeZ8WQpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004CYZ7ZI-es Fireball Whisky - 1 x 0.7 l'
 sku: 'B004CYZ7ZI-es'
 tags: [ 'whisky', ]

@@ -5,7 +5,7 @@ date: 2020-02-28 15:07:52
 image: 'https://m.media-amazon.com/images/I/41j-+3xc7IL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07486JBPF-es Prozis 100% Real Whey Protein Suplemento Puro en Polvo con...'
 sku: 'B07486JBPF-es'
 tags: [ 'chocolate', ]

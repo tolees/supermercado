@@ -5,7 +5,7 @@ date: 2020-09-12 14:58:59
 image: 'https://m.media-amazon.com/images/I/31xhHoPL-+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VTG7VK-es Johnson s Baby - Acondicionador No Más Tirones para Niños...'
 sku: 'B082VTG7VK-es'
 tags: [ 'acondicionador', ]

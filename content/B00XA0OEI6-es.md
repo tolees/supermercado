@@ -5,7 +5,7 @@ date: 2020-01-09 23:17:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NAvC8rctL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA0OEI6-es Nestlé nesquik cacao soluble instantáneo 3kg 2x1.5kg'
 sku: 'B00XA0OEI6-es'
 tags: [ 'nesquik','nestlé', ]

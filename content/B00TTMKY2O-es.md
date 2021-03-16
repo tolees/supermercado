@@ -5,7 +5,7 @@ date: 2020-02-11 17:45:56
 image: 'https://m.media-amazon.com/images/I/512SFxy5tvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TTMKY2O-es Tampax Tampones Compak Regular - 22 unidades'
 sku: 'B00TTMKY2O-es'
 tags: [ 'tampax', ]

@@ -5,7 +5,7 @@ date: 2020-05-05 09:02:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311gZ8ilfZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PBLG2B-es Gliss - Champú Seco Anti-Grasa Mini - Para llevar de viaje...'
 sku: 'B074PBLG2B-es'
 tags: [ 'champú','schwarzkopf', ]

@@ -5,7 +5,7 @@ date: 2020-09-30 15:11:56
 image: 'https://m.media-amazon.com/images/I/41hODJMAsAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L4E1W1W-es Aislado de Proteína de Soja en Polvo | 100% A Base de...'
 sku: 'B00L4E1W1W-es'
 tags: [ 'azúcar','gluten','sin','soja', ]

@@ -5,7 +5,7 @@ date: 2020-01-04 17:57:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41v2x7ZslWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXW2TSW-es La Parroquia de Veracruz - Bolsa Café Molido Tradicional...'
 sku: 'B07NXW2TSW-es'
 tags: [ 'café','chocolate', ]

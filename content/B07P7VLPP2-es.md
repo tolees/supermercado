@@ -5,7 +5,7 @@ date: 2020-06-11 05:48:18
 image: 'https://m.media-amazon.com/images/I/41Adneh7FHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7VLPP2-es Dove Dermaspa Crema Tratamiento Manos Night - Pack de 6 x...'
 sku: 'B07P7VLPP2-es'
 tags: [ 'dove', ]

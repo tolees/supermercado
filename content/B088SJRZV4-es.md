@@ -5,7 +5,7 @@ date: 2020-08-17 15:30:40
 image: 'https://m.media-amazon.com/images/I/51+1-++kdJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088SJRZV4-es NUK 2 botellas de detergente 1 cepillo Twist para biberón...'
 sku: 'B088SJRZV4-es'
 tags: [ 'detergente', ]

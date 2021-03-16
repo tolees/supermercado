@@ -5,7 +5,7 @@ date: 2020-03-15 10:10:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xpv4cbESL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076VPTXL6-es Neutrogena Crema de Manos Sin Perfume - 50 ml.'
 sku: 'B076VPTXL6-es'
 tags: [ 'neutrogena', ]

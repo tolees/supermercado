@@ -5,7 +5,7 @@ date: 2020-08-06 17:54:12
 image: 'https://m.media-amazon.com/images/I/51x3DziK9GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YY3KMD4-es Set Regalo Mujer Flor de Cerezo: 1 gel de ducha/bano de...'
 sku: 'B07YY3KMD4-es'
 tags: [ 'de','ducha','gel','jabón', ]

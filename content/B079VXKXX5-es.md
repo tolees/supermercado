@@ -5,7 +5,7 @@ date: 2020-05-29 18:55:41
 image: 'https://m.media-amazon.com/images/I/51DhaOG-kAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VXKXX5-es Powerbar Barritas Proteinas con Bajo Nivel de Azucar Sabor...'
 sku: 'B079VXKXX5-es'
 tags: [ 'chocolate', ]

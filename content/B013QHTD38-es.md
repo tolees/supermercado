@@ -5,7 +5,7 @@ date: 2020-07-04 06:17:22
 image: 'https://m.media-amazon.com/images/I/41PC5NAJZ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013QHTD38-es Lámpara de techo de SUNSBELL®. Diseño Industrial estilo...'
 sku: 'B013QHTD38-es'
 tags: [ 'café', ]

@@ -5,7 +5,7 @@ date: 2020-06-07 00:41:53
 image: 'https://m.media-amazon.com/images/I/51eHvAgsgwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q8NEL1M-es Cool Create - Kit de fabricación de Chocolate para niñas...'
 sku: 'B00Q8NEL1M-es'
 tags: [ 'chocolate', ]

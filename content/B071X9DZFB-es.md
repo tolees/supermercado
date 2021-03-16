@@ -5,7 +5,7 @@ date: 2020-01-16 20:11:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XR9UFUCnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071X9DZFB-es Schwarzkopf Root Retoucher - Coloración del Cabello...'
 sku: 'B071X9DZFB-es'
 tags: [ 'schwarzkopf', ]

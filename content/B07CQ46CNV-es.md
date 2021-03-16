@@ -5,7 +5,7 @@ date: 2020-06-20 16:41:09
 image: 'https://m.media-amazon.com/images/I/512cVvw1jEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQ46CNV-es Sundari Arroz Basmati 1 Kg - [Pack De 10] - Total 10 Kg'
 sku: 'B07CQ46CNV-es'
 tags: [ 'arroz', ]

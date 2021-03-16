@@ -5,7 +5,7 @@ date: 2020-06-08 12:29:56
 image: 'https://m.media-amazon.com/images/I/41canGCTMKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9VOHG0-es La Toja - Espuma Afeitado Sensible con Aloe Vera y Sales...'
 sku: 'B00X9VOHG0-es'
 tags: [ 'la','toja', ]

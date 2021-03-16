@@ -5,7 +5,7 @@ date: 2020-01-09 14:35:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/5173zCmvySL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072LF75KM-es Purina Gourmet Gold Mousse comida para gatos Surtido 12 x...'
 sku: 'B072LF75KM-es'
 tags: [ 'purina', ]

@@ -5,7 +5,7 @@ date: 2020-10-02 15:26:10
 image: 'https://m.media-amazon.com/images/I/51BkqRyt+2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BFF7V4Y-es 100 Unidades. Coffee To Go – Vasos Desechables para café...'
 sku: 'B07BFF7V4Y-es'
 tags: [ 'café', ]

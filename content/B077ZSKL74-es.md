@@ -5,7 +5,7 @@ date: 2020-01-15 08:39:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UtiDZnZNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZSKL74-es Alargador de antena N Macho a SMA macho Enchufe 5 m RG58...'
 sku: 'B077ZSKL74-es'
 tags: [ 'jamón', ]

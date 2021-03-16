@@ -5,7 +5,7 @@ date: 2020-04-25 16:04:51
 image: 'https://m.media-amazon.com/images/I/31ilYGAd3UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012TLQTMU-es Sukin Super Greens Crema hidratante facial 125 ml'
 sku: 'B012TLQTMU-es'
 tags: [ 'crema','hidratante', ]

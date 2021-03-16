@@ -5,7 +5,7 @@ date: 2020-04-01 11:46:42
 image: 'https://m.media-amazon.com/images/I/31JCW52baAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003RK9YUM-es Martín Códax - Vino Blanco 75 cl'
 sku: 'B003RK9YUM-es'
 tags: [ 'blanco','vino', ]

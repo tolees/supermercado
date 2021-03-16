@@ -5,7 +5,7 @@ date: 2020-09-15 23:21:37
 image: 'https://m.media-amazon.com/images/I/41tTK8i0o7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TPM4PZK-es L Oréal Paris Excellence Coloración Excellence Crème...'
 sku: 'B00TPM4PZK-es'
 tags: [ 'oréal', ]

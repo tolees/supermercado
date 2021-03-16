@@ -5,7 +5,7 @@ date: 2020-08-05 12:19:56
 image: 'https://m.media-amazon.com/images/I/51SwLf2k+ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QRGKM5-es Mimosin Concentrado Suavizante Azul Vital 89lav x 8botellas'
 sku: 'B073QRGKM5-es'
 tags: [ 'mimosin','suavizante', ]

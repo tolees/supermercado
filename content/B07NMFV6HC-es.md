@@ -5,7 +5,7 @@ date: 2020-06-24 14:24:13
 image: 'https://m.media-amazon.com/images/I/41hQEX8h3sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NMFV6HC-es Pigmentos para Resina Epoxi DEWEL 10g*15 Colores Pigmentos...'
 sku: 'B07NMFV6HC-es'
 tags: [ 'jabon', ]

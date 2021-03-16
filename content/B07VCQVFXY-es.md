@@ -5,7 +5,7 @@ date: 2020-09-26 20:27:23
 image: 'https://m.media-amazon.com/images/I/31iBWg1c+aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCQVFXY-es Dove Men + Care Desodorante Spray Invisible Dry –...'
 sku: 'B07VCQVFXY-es'
 tags: [ 'desodorante','dove', ]

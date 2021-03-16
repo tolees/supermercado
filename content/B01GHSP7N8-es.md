@@ -5,7 +5,7 @@ date: 2020-02-09 09:39:30
 image: 'https://m.media-amazon.com/images/I/41QuBklxMIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GHSP7N8-es Vitamaze® Cápsulas de cúrcuma + curcumina piperina...'
 sku: 'B01GHSP7N8-es'
 tags: [ 'cúrcuma', ]

@@ -5,7 +5,7 @@ date: 2020-02-12 11:56:17
 image: 'https://m.media-amazon.com/images/I/41QYpO2V6SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XDXH4CI-es Foxy - Pañuelos hipoalergénicos - 10 paquetes x 9 unidades'
 sku: 'B00XDXH4CI-es'
 tags: [ 'foxy', ]

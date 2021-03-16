@@ -5,7 +5,7 @@ date: 2020-07-27 16:48:59
 image: 'https://m.media-amazon.com/images/I/41VvxlV9NqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K277BSD-es Fdit Secador de Zapatos Esterilización y Calefacción...'
 sku: 'B07K277BSD-es'
 tags: [ 'desodorante', ]

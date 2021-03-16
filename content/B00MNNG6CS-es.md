@@ -5,7 +5,7 @@ date: 2020-02-19 17:50:12
 image: 'https://m.media-amazon.com/images/I/31OMPfVdxoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MNNG6CS-es MyProtein Impact Whey Isolate Proteína de Suero Sabor...'
 sku: 'B00MNNG6CS-es'
 tags: [ 'chocolate', ]

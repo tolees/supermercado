@@ -5,7 +5,7 @@ date: 2020-04-16 15:32:26
 image: 'https://m.media-amazon.com/images/I/51q4ND7qBoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M8QG3O1-es Toscaf Café Molido Mezcla Selección - 250 gr'
 sku: 'B01M8QG3O1-es'
 tags: [ 'café', ]

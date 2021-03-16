@@ -5,7 +5,7 @@ date: 2020-08-15 08:43:10
 image: 'https://m.media-amazon.com/images/I/51600Er4-CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007Z9P1XU-es Lavazza A Modo Mio Passionale antes Appassionatamente...'
 sku: 'B007Z9P1XU-es'
 tags: [ 'café','cápsulas','de','lavazza', ]

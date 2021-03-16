@@ -5,7 +5,7 @@ date: 2020-10-02 09:06:05
 image: 'https://m.media-amazon.com/images/I/51dkJz1OVgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CYJCFMF-es Mimosín Collection Parfum Suavizante Nº 3 52 Lavados 870...'
 sku: 'B08CYJCFMF-es'
 tags: [ 'suavizante', ]

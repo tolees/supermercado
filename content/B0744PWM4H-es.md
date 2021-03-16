@@ -5,7 +5,7 @@ date: 2020-06-12 19:40:14
 image: 'https://m.media-amazon.com/images/I/51r0cB04yhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0744PWM4H-es Holle Papilla de Copos de Avena +4 meses - Paquete de 6 x...'
 sku: 'B0744PWM4H-es'
 tags: [ 'avena','copos','de', ]

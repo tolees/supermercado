@@ -5,7 +5,7 @@ date: 2020-07-20 08:20:41
 image: 'https://m.media-amazon.com/images/I/41xAi4YD1BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MS25F9V-es Air Wick Freshmatic - Aparato y recambio de Ambientador...'
 sku: 'B01MS25F9V-es'
 tags: [ 'air','wick', ]

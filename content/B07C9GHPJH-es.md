@@ -5,7 +5,7 @@ date: 2020-01-08 20:18:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51bTrAT4dlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C9GHPJH-es Celorrio 20 - 20018 Piña En Almibar Rodajas 50-60 Lata...'
 sku: 'B07C9GHPJH-es'
 tags: [ 'almibar', ]

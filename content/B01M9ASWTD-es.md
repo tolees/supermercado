@@ -5,7 +5,7 @@ date: 2020-04-23 15:32:52
 image: 'https://m.media-amazon.com/images/I/413cFQ5VdNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9ASWTD-es Knorr - Crema Verduras Mediterráneas - 500 ml'
 sku: 'B01M9ASWTD-es'
 tags: [ 'knorr', ]

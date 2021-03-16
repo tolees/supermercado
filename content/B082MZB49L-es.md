@@ -5,7 +5,7 @@ date: 2020-01-10 13:18:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vuJHCgjTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MZB49L-es Junio1 Hermosa Caja de Regalo de Flor de jabón de Caja de...'
 sku: 'B082MZB49L-es'
 tags: [ 'jabón', ]

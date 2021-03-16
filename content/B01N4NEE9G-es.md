@@ -5,7 +5,7 @@ date: 2020-05-29 16:08:04
 image: 'https://m.media-amazon.com/images/I/41tsGACsm2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4NEE9G-es WeddingTree 48 Pompas de Jabon Boda Rosa - Pomperos Boda -...'
 sku: 'B01N4NEE9G-es'
 tags: [ 'jabon', ]

@@ -5,7 +5,7 @@ date: 2020-09-15 23:21:35
 image: 'https://m.media-amazon.com/images/I/41GopwB9yBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TPLX8GI-es L Oréal Paris Excellence Creme Tinte Tono 6.1 Rubio Oscuro...'
 sku: 'B00TPLX8GI-es'
 tags: [ 'oréal', ]

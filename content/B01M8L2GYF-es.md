@@ -5,7 +5,7 @@ date: 2020-01-18 09:06:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51d8xq7Ix7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M8L2GYF-es Gourmet - Café soluble - Tueste natural - 200 g - [Pack de 3]'
 sku: 'B01M8L2GYF-es'
 tags: [ 'café', ]

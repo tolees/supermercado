@@ -5,7 +5,7 @@ date: 2020-09-03 13:29:44
 image: 'https://m.media-amazon.com/images/I/316GfzhOL1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J4U4QKW-es Antipodes aguacate pera Nutritiva Crema de Noche 60 ml'
 sku: 'B00J4U4QKW-es'
 tags: [ 'pera', ]

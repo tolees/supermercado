@@ -5,7 +5,7 @@ date: 2020-04-16 18:15:50
 image: 'https://m.media-amazon.com/images/I/51PXp5294kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7S92TE-es Colgate Pasta de dientes AntiSarro + Blanqueador - 75 ml'
 sku: 'B01K7S92TE-es'
 tags: [ 'colgate','de','dientes','pasta', ]

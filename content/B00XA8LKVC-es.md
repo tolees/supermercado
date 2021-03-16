@@ -5,7 +5,7 @@ date: 2020-09-03 12:12:15
 image: 'https://m.media-amazon.com/images/I/31vDjswemiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA8LKVC-es Aceite de oliva virgen extra carbonell gran selección 0 75...'
 sku: 'B00XA8LKVC-es'
 tags: [ 'aceite','carbonell','de','extra','oliva','virgen', ]

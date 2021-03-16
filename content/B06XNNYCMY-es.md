@@ -5,7 +5,7 @@ date: 2020-01-22 22:15:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rBRQxNokL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XNNYCMY-es Vileda Windomatic Power Set - Aspirador de ventanas y mopa...'
 sku: 'B06XNNYCMY-es'
 tags: [ 'vileda', ]

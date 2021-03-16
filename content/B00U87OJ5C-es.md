@@ -5,7 +5,7 @@ date: 2020-04-03 10:46:13
 image: 'https://m.media-amazon.com/images/I/41WIPa9PG0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U87OJ5C-es Einhell - Hidrolimpiadora a alta presión TC-HP 1538 PC...'
 sku: 'B00U87OJ5C-es'
 tags: [ 'detergente', ]

@@ -5,7 +5,7 @@ date: 2020-02-01 04:04:31
 image: 'https://m.media-amazon.com/images/I/31dBOPEox0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U8WQEE6-es Sesderma - Crema hidratante rejuvenecedora facial para...'
 sku: 'B00U8WQEE6-es'
 tags: [ 'crema','hidratante','sesderma', ]

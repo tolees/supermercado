@@ -5,7 +5,7 @@ date: 2020-01-23 14:38:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412tHRJ81qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LTHWTII-es Scottex - Pañuelos Suaves y Resistentes 4 Capas 6 Paquetes...'
 sku: 'B01LTHWTII-es'
 tags: [ 'scottex', ]

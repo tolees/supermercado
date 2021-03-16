@@ -5,7 +5,7 @@ date: 2020-09-16 12:55:48
 image: 'https://m.media-amazon.com/images/I/51VyfFa2kgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086HCKKJ7-es Ausonia Discreet Boutique Braguitas Para Pérdidas De Orina...'
 sku: 'B086HCKKJ7-es'
 tags: [ 'ausonia', ]

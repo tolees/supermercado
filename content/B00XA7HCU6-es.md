@@ -5,7 +5,7 @@ date: 2020-03-24 19:46:22
 image: 'https://m.media-amazon.com/images/I/51p2EBMIauL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA7HCU6-es Marcilla Gran Aroma Café Molido Descafeinado Natural - 200 gr'
 sku: 'B00XA7HCU6-es'
 tags: [ 'café','descafeinado','marcilla', ]

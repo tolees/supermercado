@@ -5,7 +5,7 @@ date: 2020-10-03 17:38:40
 image: 'https://m.media-amazon.com/images/I/31tK5ONbp2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1HQ7CL-es VETOMILE Dispensador automático de jabón espumoso Espuma...'
 sku: 'B07T1HQ7CL-es'
 tags: [ 'champú','jabón', ]

@@ -5,7 +5,7 @@ date: 2019-12-31 17:09:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51vLSPQzxrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GGMPZ1P-es Fairy Tail: Dragon Cry Movie 2 - Limited Steelcase Edition...'
 sku: 'B07GGMPZ1P-es'
 tags: [ 'fairy', ]

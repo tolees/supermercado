@@ -5,7 +5,7 @@ date: 2020-09-07 15:37:17
 image: 'https://m.media-amazon.com/images/I/31ph7bsoRdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q58QBN5-es Colgate ProClinical 150 Cepillo de Dientes Suave de...'
 sku: 'B07Q58QBN5-es'
 tags: [ 'cepillo','colgate','de','dientes', ]

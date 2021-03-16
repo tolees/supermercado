@@ -5,7 +5,7 @@ date: 2020-04-18 01:50:42
 image: 'https://m.media-amazon.com/images/I/51yPqSXphJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OZO7L86-es Sam Mills Pasta de Maíz Sin Gluten - 300 gr'
 sku: 'B00OZO7L86-es'
 tags: [ 'gluten','maíz','mills','sam','sin', ]

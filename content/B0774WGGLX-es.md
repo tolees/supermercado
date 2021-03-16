@@ -5,7 +5,7 @@ date: 2021-01-13 14:03:50
 image: 'https://m.media-amazon.com/images/I/51luIyzH4rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0774WGGLX-es Knorr Caldo Eco con Carne - 60 gr'
 sku: 'B0774WGGLX-es'
 tags: [ 'knorr', ]
@@ -28,9 +28,9 @@ Tienes [Knorr Caldo Eco con Carne - 60 gr](https://www.amazon.es/dp/B0774WGGLX/?
 
 🔎:
 
-- Pastilla Ecológico Carne
 - Peso: 60 gr
-- 1 Pack de 6 unidades
 - Almacenar en un sitio seco y oscuro
+- 1 Pack de 6 unidades
+- Pastilla Ecológico Carne
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0774WGGLX/?tag=tolees-21)

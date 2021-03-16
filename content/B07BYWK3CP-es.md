@@ -5,7 +5,7 @@ date: 2020-02-04 13:51:00
 image: 'https://m.media-amazon.com/images/I/41JNhxPWU+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BYWK3CP-es Garnier Original Remedies Elixir de Argán Mascarilla...'
 sku: 'B07BYWK3CP-es'
 tags: [ 'capilar','garnier','mascarilla', ]

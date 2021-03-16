@@ -5,7 +5,7 @@ date: 2020-05-30 19:52:22
 image: 'https://m.media-amazon.com/images/I/21-hZcnDlfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000GG0NT6-es American Crew Classic Champú Hidratante Diario 1000 ml'
 sku: 'B000GG0NT6-es'
 tags: [ 'american','champú','crew', ]

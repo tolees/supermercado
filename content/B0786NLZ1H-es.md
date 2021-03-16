@@ -5,7 +5,7 @@ date: 2020-03-05 14:47:31
 image: 'https://m.media-amazon.com/images/I/31WLH+qb5rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0786NLZ1H-es Aceite de hígado de bacalao – 2000 mg de omega 3 con...'
 sku: 'B0786NLZ1H-es'
 tags: [ 'bacalao', ]

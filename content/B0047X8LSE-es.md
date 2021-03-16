@@ -5,7 +5,7 @@ date: 2020-10-09 13:03:28
 image: 'https://m.media-amazon.com/images/I/31p2zPTsq-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0047X8LSE-es Rimmel London Lasting Finish Foundation 25H Base de...'
 sku: 'B0047X8LSE-es'
 tags: [ 'finish', ]

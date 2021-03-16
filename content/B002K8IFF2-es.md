@@ -5,7 +5,7 @@ date: 2020-07-24 08:12:39
 image: 'https://m.media-amazon.com/images/I/51ZZCQlakxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002K8IFF2-es Carmencita Caldo Deshidratado para Fideuá - 15 sobres'
 sku: 'B002K8IFF2-es'
 tags: [ 'carmencita', ]

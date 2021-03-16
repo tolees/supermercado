@@ -5,7 +5,7 @@ date: 2020-09-22 14:11:36
 image: 'https://m.media-amazon.com/images/I/41nRTvGFeeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001TPAKHS-es Johnnie Walker Black Whisky Escocés - 700 ml'
 sku: 'B001TPAKHS-es'
 tags: [ 'whisky', ]

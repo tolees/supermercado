@@ -5,7 +5,7 @@ date: 2020-05-26 10:35:11
 image: 'https://m.media-amazon.com/images/I/51A5b68hczL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001FFJ9FG-es VICTORY ENDURANCE Total Recovery Chocolate 750 g'
 sku: 'B001FFJ9FG-es'
 tags: [ 'chocolate', ]

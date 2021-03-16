@@ -5,7 +5,7 @@ date: 2020-08-17 13:12:49
 image: 'https://m.media-amazon.com/images/I/31mHcBZZTPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3W8B7T-es La Toja Selection - Bálsamo After Shave con sales...'
 sku: 'B07N3W8B7T-es'
 tags: [ 'la','toja', ]

@@ -5,7 +5,7 @@ date: 2020-01-20 20:33:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Txat9-pkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA1RNDS-es Café FORTALEZA - Café en Grano Mezcla 70/30 - 1 kg'
 sku: 'B00XA1RNDS-es'
 tags: [ 'café','fortaleza', ]

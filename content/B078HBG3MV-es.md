@@ -5,7 +5,7 @@ date: 2020-09-02 13:31:01
 image: 'https://m.media-amazon.com/images/I/41JxCWdj2cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HBG3MV-es Ecover Suavizante Manzana Almendra 5 Lt Ecover 1 Unidad...'
 sku: 'B078HBG3MV-es'
 tags: [ 'manzana','suavizante', ]

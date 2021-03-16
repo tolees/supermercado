@@ -5,7 +5,7 @@ date: 2020-05-31 09:40:14
 image: 'https://m.media-amazon.com/images/I/51y7CWeU3aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H4AAJS2-es Instituto Español - Desodorante Roll-On Piel Atópica 75 ml'
 sku: 'B00H4AAJS2-es'
 tags: [ 'desodorante','español','instituto', ]

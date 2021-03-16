@@ -5,7 +5,7 @@ date: 2020-01-31 08:31:35
 image: 'https://m.media-amazon.com/images/I/41lu217KePL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VS2DCZ-es Head & Shoulders Men Ultra Frescor Instantáneo Champú...'
 sku: 'B079VS2DCZ-es'
 tags: [ 'champú', ]

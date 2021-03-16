@@ -5,7 +5,7 @@ date: 2019-12-31 21:52:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4154CA7i0fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BGT6LW-es Barrio Sésamo - Peluche de Epi 28 cm [Versión en inglés]'
 sku: 'B000BGT6LW-es'
 tags: [ 'sésamo', ]

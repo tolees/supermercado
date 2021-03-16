@@ -5,7 +5,7 @@ date: 2020-06-04 01:14:24
 image: 'https://m.media-amazon.com/images/I/41CKMA4950L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NHQZPHS-es Schmidt s Gel de ducha sólido de bergamota y lima - 142 gr'
 sku: 'B07NHQZPHS-es'
 tags: [ 'de','ducha','gel', ]

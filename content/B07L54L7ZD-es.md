@@ -5,7 +5,7 @@ date: 2020-05-05 16:48:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Y5HhAuYZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L54L7ZD-es Consuelo - cápsulas de café compatibles con Nespresso* -...'
 sku: 'B07L54L7ZD-es'
 tags: [ 'café','cápsulas','de', ]

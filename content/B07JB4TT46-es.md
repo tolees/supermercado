@@ -5,7 +5,7 @@ date: 2020-01-21 13:06:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KyP43iTqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JB4TT46-es NIVEA Pure Invisible Desodorante de ataques 6 paquetes de...'
 sku: 'B07JB4TT46-es'
 tags: [ 'desodorante','nivea', ]

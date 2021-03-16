@@ -5,7 +5,7 @@ date: 2020-10-01 12:04:23
 image: 'https://m.media-amazon.com/images/I/41ELgky8CfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WEJ0U3C-es Neutrogena Crema de Manos Elasticidad Intensa SPF 20 75 ml'
 sku: 'B00WEJ0U3C-es'
 tags: [ 'neutrogena', ]

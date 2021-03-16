@@ -5,7 +5,7 @@ date: 2020-06-07 17:36:15
 image: 'https://m.media-amazon.com/images/I/413m55qHQzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A8JFXKO-es OGX - Acondicionador Agua de Coco 385 ml'
 sku: 'B01A8JFXKO-es'
 tags: [ 'acondicionador', ]

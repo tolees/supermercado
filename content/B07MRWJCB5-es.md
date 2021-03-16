@@ -5,7 +5,7 @@ date: 2020-09-03 03:00:59
 image: 'https://m.media-amazon.com/images/I/51MFrmGfr3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MRWJCB5-es Nenuco Pack Cuidado Classic con 2 geles de ducha 1 colonia...'
 sku: 'B07MRWJCB5-es'
 tags: [ 'jabón', ]

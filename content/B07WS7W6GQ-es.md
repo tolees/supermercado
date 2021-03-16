@@ -5,7 +5,7 @@ date: 2020-01-03 13:25:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51DRSFUtJLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WS7W6GQ-es Note D Espresso - Cápsulas de capuchino instantáneo...'
 sku: 'B07WS7W6GQ-es'
 tags: [ 'dolce','gusto', ]

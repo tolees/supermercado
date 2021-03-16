@@ -5,7 +5,7 @@ date: 2020-08-24 03:57:24
 image: 'https://m.media-amazon.com/images/I/41A-DV36ixL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BLCL6L2-es Domus Finca La Trastada Aceite de Oliva Virgen Extra...'
 sku: 'B01BLCL6L2-es'
 tags: [ 'aceite','de','extra','oliva','virgen', ]

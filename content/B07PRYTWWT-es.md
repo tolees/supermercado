@@ -5,7 +5,7 @@ date: 2020-02-25 16:15:04
 image: 'https://m.media-amazon.com/images/I/41m0afO1AHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRYTWWT-es L OR Espresso Café paquete favorito - Nespresso® *...'
 sku: 'B07PRYTWWT-es'
 tags: [ 'café','cápsulas','de', ]

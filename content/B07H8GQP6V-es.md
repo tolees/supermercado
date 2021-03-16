@@ -5,7 +5,7 @@ date: 2020-01-02 17:54:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411RtvWucCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8GQP6V-es Edgard & Cooper | Pollo de Granja con Mango arándanos...'
 sku: 'B07H8GQP6V-es'
 tags: [ 'gluten','manzana','sin', ]

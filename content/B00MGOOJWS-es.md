@@ -5,7 +5,7 @@ date: 2020-03-19 10:28:32
 image: 'https://m.media-amazon.com/images/I/31bdXKcYyIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MGOOJWS-es Philips Sonicare DiamondClean HX9352/04 - Cepillo de...'
 sku: 'B00MGOOJWS-es'
 tags: [ 'cepillo','de','dientes', ]

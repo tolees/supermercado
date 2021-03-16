@@ -5,7 +5,7 @@ date: 2020-09-29 18:40:32
 image: 'https://m.media-amazon.com/images/I/31ZhNqFZLtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G59GQBS-es Baby Dove - Gel de Baño Hidratación Profunda para Bebés -...'
 sku: 'B07G59GQBS-es'
 tags: [ 'dove', ]

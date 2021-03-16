@@ -5,7 +5,7 @@ date: 2020-07-05 08:40:44
 image: 'https://m.media-amazon.com/images/I/51DvQIFlvQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQ6VK22-es Mimosín Suavizante Dulces Sueños 66lav x 8botellas'
 sku: 'B07NQ6VK22-es'
 tags: [ 'suavizante', ]

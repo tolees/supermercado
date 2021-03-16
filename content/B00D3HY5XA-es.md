@@ -5,7 +5,7 @@ date: 2020-07-09 02:29:12
 image: 'https://m.media-amazon.com/images/I/31RI8yNVxKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D3HY5XA-es ISDIN Fotoprotector Gel Cream SPF 50+ 250 ml Crema Solar...'
 sku: 'B00D3HY5XA-es'
 tags: [ 'crema','solar', ]

@@ -5,7 +5,7 @@ date: 2020-01-18 13:03:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YK3CoGF8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079R7QLRV-es PEKITAS Muselinas Pack de 3 | Mantas de Muselina 100%...'
 sku: 'B079R7QLRV-es'
 tags: [ 'café', ]

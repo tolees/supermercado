@@ -5,7 +5,7 @@ date: 2020-03-21 09:57:40
 image: 'https://m.media-amazon.com/images/I/51QW5Qtj4lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085HQFJMS-es GLUTEN FREE: JAMÁS TE SERÁ MÁS FÁCIL COCINAR Y COMER SIN...'
 sku: 'B085HQFJMS-es'
 tags: [ 'gluten','sin', ]

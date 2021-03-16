@@ -5,7 +5,7 @@ date: 2020-02-15 17:02:21
 image: 'https://m.media-amazon.com/images/I/31zqkE76NJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013WW8A0E-es Elizabeth Arden Superstart Serum Facial 30 ml'
 sku: 'B013WW8A0E-es'
 tags: [ 'arden','elizabeth', ]

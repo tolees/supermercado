@@ -5,7 +5,7 @@ date: 2020-01-23 14:08:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51H4xwpX1iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002BAXB26-es Weider Thermo Caps- 120 Capsulas. Disminuye el apetito....'
 sku: 'B002BAXB26-es'
 tags: [ 'cúrcuma', ]

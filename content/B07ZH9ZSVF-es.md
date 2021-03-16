@@ -5,7 +5,7 @@ date: 2020-05-26 18:22:06
 image: 'https://m.media-amazon.com/images/I/51zAbbUhT-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZH9ZSVF-es Blevit Plus Papilla Multicereales Quinoa Bio 1 Unidad 250...'
 sku: 'B07ZH9ZSVF-es'
 tags: [ 'quinoa', ]

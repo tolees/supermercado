@@ -5,7 +5,7 @@ date: 2020-01-06 15:03:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fvt3bu8lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBBDXK4-es Aranmei Pijamas Mujer Invierno de Algodón Conjunto de...'
 sku: 'B07YBBDXK4-es'
 tags: [ 'tinto','vino', ]

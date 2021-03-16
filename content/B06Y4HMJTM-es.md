@@ -5,7 +5,7 @@ date: 2020-01-18 15:35:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31eXMt%2BUPhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y4HMJTM-es L Oreal Vitamino Color - Champú Capilar - 1500 ml'
 sku: 'B06Y4HMJTM-es'
 tags: [ 'champú', ]

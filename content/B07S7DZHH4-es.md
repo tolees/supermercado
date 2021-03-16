@@ -5,7 +5,7 @@ date: 2020-12-06 16:04:54
 image: 'https://m.media-amazon.com/images/I/41lCrCiWPoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7DZHH4-es Chicco Maglioncino In Tricot Bimbo Jersey para Bebés'
 sku: 'B07S7DZHH4-es'
 tags: [ 'bimbo', ]

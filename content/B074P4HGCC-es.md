@@ -5,7 +5,7 @@ date: 2020-03-27 16:34:24
 image: 'https://m.media-amazon.com/images/I/41-r6f7oTcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074P4HGCC-es Gliss - 2 Champús 400 ml + 1 Mascarilla Reparación Total...'
 sku: 'B074P4HGCC-es'
 tags: [ 'schwarzkopf', ]

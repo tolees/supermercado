@@ -5,7 +5,7 @@ date: 2020-01-24 06:28:57
 image: 'https://m.media-amazon.com/images/I/31Uk85Uf9BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FAA12G6-es Elizabeth Arden - Limpiador Anti-aging Treatment boosting...'
 sku: 'B00FAA12G6-es'
 tags: [ 'arden','elizabeth', ]

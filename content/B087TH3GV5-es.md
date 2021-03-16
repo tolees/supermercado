@@ -5,7 +5,7 @@ date: 2020-08-22 03:20:39
 image: 'https://m.media-amazon.com/images/I/4137pxrp2FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087TH3GV5-es Cocoda Dispensador de Desinfectante Manos 350ml...'
 sku: 'B087TH3GV5-es'
 tags: [ 'jabon', ]

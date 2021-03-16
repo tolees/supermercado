@@ -5,7 +5,7 @@ date: 2020-06-22 11:49:01
 image: 'https://m.media-amazon.com/images/I/41fgyDDoX0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY8ST4U-es Fanta Naranja Lata - 330 ml Pack de 9'
 sku: 'B01LY8ST4U-es'
 tags: [ 'fanta', ]

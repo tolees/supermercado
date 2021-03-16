@@ -5,7 +5,7 @@ date: 2020-02-29 16:40:14
 image: 'https://m.media-amazon.com/images/I/41pG1ktJMbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKT6V5W-es AGAKY Discos Desmaquillantes Reutilizables 12 Almohadillas...'
 sku: 'B07ZKT6V5W-es'
 tags: [ 'desmaquillantes','discos', ]

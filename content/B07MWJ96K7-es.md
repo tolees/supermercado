@@ -5,7 +5,7 @@ date: 2020-02-10 15:06:11
 image: 'https://m.media-amazon.com/images/I/41S+Z8zLvAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MWJ96K7-es Nestlé Láminas de Chocolate Negro - 135 g'
 sku: 'B07MWJ96K7-es'
 tags: [ 'chocolate','nestlé', ]

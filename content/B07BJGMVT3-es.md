@@ -5,7 +5,7 @@ date: 2020-03-03 08:51:35
 image: 'https://m.media-amazon.com/images/I/41Nq7Mc6siL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BJGMVT3-es Dove Desodorante 0% Pepino Ahorro - 2 Paquetes de 2 x 150...'
 sku: 'B07BJGMVT3-es'
 tags: [ 'desodorante','dove', ]

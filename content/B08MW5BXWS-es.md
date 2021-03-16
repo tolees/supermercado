@@ -5,7 +5,7 @@ date: 2020-11-23 18:46:36
 image: 'https://m.media-amazon.com/images/I/318SEioub2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08MW5BXWS-es SUAVINEX Suavinex Detergente para Biberones y Tetinas'
 sku: 'B08MW5BXWS-es'
 tags: [ 'detergente', ]

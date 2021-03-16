@@ -5,7 +5,7 @@ date: 2020-03-24 09:15:46
 image: 'https://m.media-amazon.com/images/I/41RJeBnf6TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0811WHWWH-es Gobesty Juego de servilletas de Tela 10 Unidades Suaves...'
 sku: 'B0811WHWWH-es'
 tags: [ 'servilletas', ]

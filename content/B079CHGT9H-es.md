@@ -5,7 +5,7 @@ date: 2020-01-07 15:20:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41E5u3vKq-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079CHGT9H-es HOMFA Mesitas de café Mesitas de centro Mesas Nórdicos...'
 sku: 'B079CHGT9H-es'
 tags: [ 'café', ]

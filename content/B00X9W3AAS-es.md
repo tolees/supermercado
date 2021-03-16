@@ -5,7 +5,7 @@ date: 2020-09-15 23:21:26
 image: 'https://m.media-amazon.com/images/I/41aVgOc4hNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9W3AAS-es L Oréal Paris Excellence Coloración Crème Triple...'
 sku: 'B00X9W3AAS-es'
 tags: [ 'oréal', ]

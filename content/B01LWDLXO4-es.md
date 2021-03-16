@@ -5,7 +5,7 @@ date: 2020-09-26 09:07:13
 image: 'https://m.media-amazon.com/images/I/41IixnRfxXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWDLXO4-es Revlon Be Fabulous Hair Recovery Serum Reparador de Puntas...'
 sku: 'B01LWDLXO4-es'
 tags: [ 'revlon', ]

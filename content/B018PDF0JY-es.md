@@ -5,7 +5,7 @@ date: 2020-01-03 19:36:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413VO0AQQQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018PDF0JY-es Olay Regenerist 3 Punto Antienvejecimiento Noche Crema...'
 sku: 'B018PDF0JY-es'
 tags: [ 'crema','hidratante', ]

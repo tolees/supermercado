@@ -5,7 +5,7 @@ date: 2020-04-16 18:16:33
 image: 'https://m.media-amazon.com/images/I/51xH4h9p7qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074JDNVH5-es Gullón Vitalday Tortitas Maíz Chocolate Gullón - 100 g'
 sku: 'B074JDNVH5-es'
 tags: [ 'chocolate','gullón','maíz', ]

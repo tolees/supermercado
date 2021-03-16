@@ -5,7 +5,7 @@ date: 2020-01-19 17:35:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CcwRLz2zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3YVW45-es NIVEA MEN Active Age Bálsamo Anti-edad 2en1 en pack de 3 3...'
 sku: 'B07N3YVW45-es'
 tags: [ 'nivea', ]

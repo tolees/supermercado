@@ -5,7 +5,7 @@ date: 2020-03-16 08:54:26
 image: 'https://m.media-amazon.com/images/I/3167vKFeHwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSN2HQR-es L Oréal Men Expert - Kit de Regalo para Hombre Incluye...'
 sku: 'B07NSN2HQR-es'
 tags: [ 'champú','oréal', ]

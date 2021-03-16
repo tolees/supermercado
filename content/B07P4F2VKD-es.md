@@ -5,7 +5,7 @@ date: 2020-01-23 09:21:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31BpYgot6WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4F2VKD-es Handheld eléctrico Café Leche batidor de huevo Batir...'
 sku: 'B07P4F2VKD-es'
 tags: [ 'café', ]

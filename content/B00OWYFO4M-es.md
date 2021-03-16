@@ -5,7 +5,7 @@ date: 2020-08-12 15:44:25
 image: 'https://m.media-amazon.com/images/I/516QzboQ9NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OWYFO4M-es Purina Friskies en Salsa comida para gato Adulto con...'
 sku: 'B00OWYFO4M-es'
 tags: [ 'atún','friskies','purina', ]

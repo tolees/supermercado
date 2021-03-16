@@ -5,7 +5,7 @@ date: 2020-01-07 15:52:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51A0xJh8HfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T7ZY9BK-es Marcilla Espresso Intenso Cápsulas de café - 3 paquetes x...'
 sku: 'B07T7ZY9BK-es'
 tags: [ 'café','cápsulas','de','marcilla', ]

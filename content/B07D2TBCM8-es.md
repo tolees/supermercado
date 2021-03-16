@@ -5,7 +5,7 @@ date: 2020-01-19 20:57:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kfRMheFuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2TBCM8-es New Look Wide Foot Petal Sandalias con Punta Abierta para...'
 sku: 'B07D2TBCM8-es'
 tags: [ 'oatmeal', ]

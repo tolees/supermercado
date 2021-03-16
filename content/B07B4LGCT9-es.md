@@ -5,7 +5,7 @@ date: 2020-01-27 15:51:43
 image: 'https://m.media-amazon.com/images/I/51lJvazOMrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4LGCT9-es So Bath Bomb - Bomba de jabón Canal Toys BBD003 surtido:...'
 sku: 'B07B4LGCT9-es'
 tags: [ 'jabón', ]

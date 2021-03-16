@@ -5,7 +5,7 @@ date: 2020-06-22 11:49:00
 image: 'https://m.media-amazon.com/images/I/41CARZ-wO8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7RDE2G-es Casa Tarradellas Paté Finas Hierbas - 125 g'
 sku: 'B01K7RDE2G-es'
 tags: [ 'paté', ]

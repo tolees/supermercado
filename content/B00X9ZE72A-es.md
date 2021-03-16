@@ -5,7 +5,7 @@ date: 2020-05-28 11:37:47
 image: 'https://m.media-amazon.com/images/I/41DYI0eTSrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9ZE72A-es NIVEA SUN Protege & Hidrata Spray Solar FP30 1 x 300 ml...'
 sku: 'B00X9ZE72A-es'
 tags: [ 'nivea', ]

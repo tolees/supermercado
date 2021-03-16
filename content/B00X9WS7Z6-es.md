@@ -5,7 +5,7 @@ date: 2020-10-08 17:12:49
 image: 'https://m.media-amazon.com/images/I/41dhkOKAr1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9WS7Z6-es L Oréal Paris Men Expert Todo en 1 After-Shave +...'
 sku: 'B00X9WS7Z6-es'
 tags: [ 'oréal', ]

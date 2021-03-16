@@ -5,7 +5,7 @@ date: 2020-10-02 16:26:31
 image: 'https://m.media-amazon.com/images/I/5124S7Iu+lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C291LFZ-es 900 g Miel de bosque flores silvestres y hierbas...'
 sku: 'B07C291LFZ-es'
 tags: [ 'azúcar', ]

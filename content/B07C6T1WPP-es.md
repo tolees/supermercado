@@ -5,7 +5,7 @@ date: 2020-01-07 07:05:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HowRIo7iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C6T1WPP-es Marca Amazon- Solimo Cápsulas Classic compatibles con...'
 sku: 'B07C6T1WPP-es'
 tags: [ 'café','solimo', ]

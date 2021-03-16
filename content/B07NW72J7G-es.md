@@ -5,7 +5,7 @@ date: 2020-09-09 18:55:07
 image: 'https://m.media-amazon.com/images/I/41h3akv9eCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW72J7G-es Vernel Suavizante Concentrado Romance – Pack de 3 Total 3.6 L'
 sku: 'B07NW72J7G-es'
 tags: [ 'suavizante','vernel', ]

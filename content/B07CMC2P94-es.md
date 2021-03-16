@@ -5,7 +5,7 @@ date: 2020-05-25 17:08:29
 image: 'https://m.media-amazon.com/images/I/41WS5phTBzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CMC2P94-es NIVEA SUN Protege & Broncea Spray Solar FP30 1 x 300 ml...'
 sku: 'B07CMC2P94-es'
 tags: [ 'nivea', ]

@@ -5,7 +5,7 @@ date: 2020-01-20 12:42:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31B6gFz4YvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KYRUBT8-es CHOCOLATE ALMIZCLE PERFUME árabe Spray - 50ml Por Al Rehab'
 sku: 'B01KYRUBT8-es'
 tags: [ 'chocolate', ]

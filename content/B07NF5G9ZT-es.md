@@ -5,7 +5,7 @@ date: 2020-07-26 13:27:54
 image: 'https://m.media-amazon.com/images/I/51WdCzVT2VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NF5G9ZT-es Barritas Proteicas 100% Naturales de Avicenna | Sin Soja |...'
 sku: 'B07NF5G9ZT-es'
 tags: [ 'chocolate','gluten','sin','soja', ]

@@ -5,7 +5,7 @@ date: 2020-04-18 02:33:15
 image: 'https://m.media-amazon.com/images/I/51En88dUvjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071K91BDJ-es Finish Limpiamáquinas Líquido para lavavajillas - 2 unidades'
 sku: 'B071K91BDJ-es'
 tags: [ 'finish', ]

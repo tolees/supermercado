@@ -5,7 +5,7 @@ date: 2020-09-09 17:09:21
 image: 'https://m.media-amazon.com/images/I/31HSBoJp0kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V4ZE1BE-es Neutrogena Bálsamo Corporal Reparación Intensa - 2...'
 sku: 'B00V4ZE1BE-es'
 tags: [ 'neutrogena', ]

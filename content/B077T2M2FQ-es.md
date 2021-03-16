@@ -5,7 +5,7 @@ date: 2020-10-03 13:13:17
 image: 'https://m.media-amazon.com/images/I/51yZO4JSBAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077T2M2FQ-es Maeloc Sidra Dulce Ecológica - Pack de 4 x 200 ml'
 sku: 'B077T2M2FQ-es'
 tags: [ 'maeloc', ]

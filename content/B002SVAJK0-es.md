@@ -5,7 +5,7 @@ date: 2020-01-03 19:35:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41St7029s9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002SVAJK0-es Original Sprout Sulfato Champú Natural 975ml'
 sku: 'B002SVAJK0-es'
 tags: [ 'champú', ]

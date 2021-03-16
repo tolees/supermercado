@@ -5,7 +5,7 @@ date: 2020-05-13 14:04:58
 image: 'https://m.media-amazon.com/images/I/41xKI+Kb99L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001F41IXI-es Salt Of The Earth Desodorante - 1 unidad'
 sku: 'B001F41IXI-es'
 tags: [ 'desodorante', ]

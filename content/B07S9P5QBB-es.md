@@ -5,7 +5,7 @@ date: 2020-08-27 18:32:46
 image: 'https://m.media-amazon.com/images/I/31+dKetLZCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9P5QBB-es Lactovit - Gel de Ducha Hidratante Vitalidad y Frescor...'
 sku: 'B07S9P5QBB-es'
 tags: [ 'de','ducha','gel','lactovit','melocotón', ]

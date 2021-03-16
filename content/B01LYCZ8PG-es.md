@@ -5,7 +5,7 @@ date: 2020-06-11 15:55:16
 image: 'https://m.media-amazon.com/images/I/51nGjNF34HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYCZ8PG-es Orlando Tomate Natural Triturado - 800 g'
 sku: 'B01LYCZ8PG-es'
 tags: [ 'orlando', ]

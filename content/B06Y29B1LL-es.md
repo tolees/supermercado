@@ -5,7 +5,7 @@ date: 2021-01-13 13:38:56
 image: 'https://m.media-amazon.com/images/I/41p6WDNuWWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y29B1LL-es Puleva Leche Desnatada - 6 x 1 L'
 sku: 'B06Y29B1LL-es'
 tags: [ 'puleva', ]

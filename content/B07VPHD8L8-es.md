@@ -5,7 +5,7 @@ date: 2020-01-17 09:14:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41U8MEq2QQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPHD8L8-es Breville Mini VCF125X - Barista máquina de café expreso...'
 sku: 'B07VPHD8L8-es'
 tags: [ 'café', ]

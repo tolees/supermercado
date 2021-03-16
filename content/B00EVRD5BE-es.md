@@ -5,7 +5,7 @@ date: 2020-08-30 19:42:45
 image: 'https://m.media-amazon.com/images/I/41iMbJgpnlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EVRD5BE-es Vileda Cubo Ecologic - Cubo de Basura ecológico Especial...'
 sku: 'B00EVRD5BE-es'
 tags: [ 'vileda', ]

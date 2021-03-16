@@ -5,7 +5,7 @@ date: 2020-04-16 00:23:44
 image: 'https://m.media-amazon.com/images/I/41ZXtSoA22L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086RT3STW-es MovilCom® - Cortador de Verduras | Picadora Manual de...'
 sku: 'B086RT3STW-es'
 tags: [ 'cebolla', ]

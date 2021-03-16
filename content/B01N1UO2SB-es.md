@@ -5,7 +5,7 @@ date: 2020-06-01 11:54:47
 image: 'https://m.media-amazon.com/images/I/512Ij840xwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1UO2SB-es Knorr Sopa China de Sichuan - 69 g'
 sku: 'B01N1UO2SB-es'
 tags: [ 'knorr', ]

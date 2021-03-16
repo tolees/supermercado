@@ -5,7 +5,7 @@ date: 2021-01-13 13:41:31
 image: 'https://m.media-amazon.com/images/I/51kTOjAnxtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXX7CM1-es President Leche Desnatada - 6 x 1 L'
 sku: 'B01LXX7CM1-es'
 tags: [ 'president', ]

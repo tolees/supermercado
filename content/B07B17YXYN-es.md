@@ -5,7 +5,7 @@ date: 2020-08-01 13:38:27
 image: 'https://m.media-amazon.com/images/I/517dmWqfF5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B17YXYN-es Nestlé La Lechera Leche condensada entera - Lata de leche...'
 sku: 'B07B17YXYN-es'
 tags: [ 'nestlé', ]

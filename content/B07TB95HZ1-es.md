@@ -5,7 +5,7 @@ date: 2020-01-20 17:28:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VXctDYKPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TB95HZ1-es Puleva Nata Líquida Para Montar 1000 ml'
 sku: 'B07TB95HZ1-es'
 tags: [ 'puleva', ]

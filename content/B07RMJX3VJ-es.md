@@ -5,7 +5,7 @@ date: 2020-01-23 12:34:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AVsoQ-oiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMJX3VJ-es G-Vine Ginebra G-Vine Peach - 700 ml'
 sku: 'B07RMJX3VJ-es'
 tags: [ 'ginebra', ]

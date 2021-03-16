@@ -5,7 +5,7 @@ date: 2020-04-16 18:27:28
 image: 'https://m.media-amazon.com/images/I/41GTslTEUkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC1Q1RZ-es Slendier Pasta Konjac Noodle sin Gluten Bio 400g Caja 6...'
 sku: 'B07WC1Q1RZ-es'
 tags: [ 'gluten','sin', ]

@@ -5,7 +5,7 @@ date: 2020-02-16 18:18:25
 image: 'https://m.media-amazon.com/images/I/51Q6GLuhuUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B876SPO-es Gillette Mach3 Turbo Maquinilla de Afeitar'
 sku: 'B01B876SPO-es'
 tags: [ 'gillette', ]

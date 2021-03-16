@@ -5,7 +5,7 @@ date: 2020-01-22 16:25:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31LhsyxOwJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZXRRZS-es Mumiumius Exprimidor automático de Pasta de Dientes Baño...'
 sku: 'B083ZXRRZS-es'
 tags: [ 'de','dientes','pasta', ]

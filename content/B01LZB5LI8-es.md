@@ -5,7 +5,7 @@ date: 2020-06-11 15:54:49
 image: 'https://m.media-amazon.com/images/I/41mNaiKOjhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZB5LI8-es Ligeresa Salsa Fina - 225 ml'
 sku: 'B01LZB5LI8-es'
 tags: [ 'ligeresa', ]

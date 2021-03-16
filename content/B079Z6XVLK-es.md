@@ -5,7 +5,7 @@ date: 2020-01-02 13:06:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513CE9movjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Z6XVLK-es VICTORY ENDURANCE NatureŽs Energy Bar Manzana 60g x 25...'
 sku: 'B079Z6XVLK-es'
 tags: [ 'manzana', ]

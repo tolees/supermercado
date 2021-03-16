@@ -5,7 +5,7 @@ date: 2020-05-06 15:39:43
 image: 'https://m.media-amazon.com/images/I/41XAZ7ScrGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004EAIWMA-es Sipsmith London Dry Gin Ginebra 41.6% -700 ml'
 sku: 'B004EAIWMA-es'
 tags: [ 'ginebra', ]

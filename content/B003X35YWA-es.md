@@ -5,7 +5,7 @@ date: 2020-01-20 12:12:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31edcVvbFBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003X35YWA-es Uhlsport Team Pro Essential Medias de Equipaciones Sin...'
 sku: 'B003X35YWA-es'
 tags: [ 'maíz', ]

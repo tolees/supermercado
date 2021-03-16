@@ -5,7 +5,7 @@ date: 2020-09-14 12:30:51
 image: 'https://m.media-amazon.com/images/I/51rfJD1X4FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGBX66N-es Dalwhinnie Winter s Frost – Whisky escocés puro de malta –...'
 sku: 'B07LGBX66N-es'
 tags: [ 'whisky', ]

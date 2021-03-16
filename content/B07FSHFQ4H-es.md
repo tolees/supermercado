@@ -5,7 +5,7 @@ date: 2020-05-28 17:38:40
 image: 'https://m.media-amazon.com/images/I/51isuhRWOJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSHFQ4H-es Gudotra Acerca de 100pcs Bolsa de Lino con Cordón para...'
 sku: 'B07FSHFQ4H-es'
 tags: [ 'arroz', ]

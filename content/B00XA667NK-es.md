@@ -5,7 +5,7 @@ date: 2020-02-11 13:30:24
 image: 'https://m.media-amazon.com/images/I/51OhuuaOnnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA667NK-es Detergente Ariel Basico Líquido 110d Caja con 2 botellas'
 sku: 'B00XA667NK-es'
 tags: [ 'detergente', ]

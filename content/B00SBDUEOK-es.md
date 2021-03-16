@@ -5,7 +5,7 @@ date: 2020-02-26 07:42:35
 image: 'https://m.media-amazon.com/images/I/31goBjRmSWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SBDUEOK-es L Oréal Paris Barra de Labios Color Riche 630'
 sku: 'B00SBDUEOK-es'
 tags: [ 'oréal', ]

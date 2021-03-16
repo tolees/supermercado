@@ -5,7 +5,7 @@ date: 2020-04-03 14:49:19
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GS1CJ1W-es Shandy Cruzcampo Limón Cerveza - Caja de 24 Latas x 330 ml...'
 sku: 'B01GS1CJ1W-es'
 tags: [ 'cerveza','cruzcampo', ]

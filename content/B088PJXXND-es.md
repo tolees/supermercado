@@ -5,7 +5,7 @@ date: 2020-08-26 09:04:51
 image: 'https://m.media-amazon.com/images/I/41RNvb92GBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088PJXXND-es Puleva Max Leche Blanca de Crecimiento Y Desarrollo - 10...'
 sku: 'B088PJXXND-es'
 tags: [ 'puleva', ]

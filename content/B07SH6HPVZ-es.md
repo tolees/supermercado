@@ -5,7 +5,7 @@ date: 2020-12-06 16:04:48
 image: 'https://m.media-amazon.com/images/I/41ZnHWHsheL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SH6HPVZ-es Chicco Pantaloni Lunghi Jeans Denim Stretch Bimbo Bebés'
 sku: 'B07SH6HPVZ-es'
 tags: [ 'bimbo', ]

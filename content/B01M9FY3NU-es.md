@@ -5,7 +5,7 @@ date: 2020-02-01 03:25:32
 image: 'https://m.media-amazon.com/images/I/31oxo4oDBOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9FY3NU-es Sotya Café - 100 gr'
 sku: 'B01M9FY3NU-es'
 tags: [ 'café', ]

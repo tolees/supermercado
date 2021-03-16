@@ -5,7 +5,7 @@ date: 2020-05-27 17:15:49
 image: 'https://m.media-amazon.com/images/I/51VHj+NIfXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPB5PN9-es Love Beauty and Planet Desodorante Roll-on Love Aceite de...'
 sku: 'B07QPB5PN9-es'
 tags: [ 'desodorante', ]

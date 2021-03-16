@@ -5,7 +5,7 @@ date: 2020-05-30 13:12:47
 image: 'https://m.media-amazon.com/images/I/31tQ1494HoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LZSC2EI-es adidas Cool & Care 6 En 1 - Desodorante roll-on 50 ml'
 sku: 'B00LZSC2EI-es'
 tags: [ 'desodorante', ]

@@ -5,7 +5,7 @@ date: 2020-01-04 13:32:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xW3FLOP1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083BYH1CJ-es pikins Dispensador de jabón de Sensor automático doméstico...'
 sku: 'B083BYH1CJ-es'
 tags: [ 'jabón', ]

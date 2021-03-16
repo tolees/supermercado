@@ -5,7 +5,7 @@ date: 2020-01-19 08:32:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cMdbRnGRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WPYTF1-es Homelody Ducha de Mano 5 Funciones con Botón de Pausa...'
 sku: 'B078WPYTF1-es'
 tags: [ 'alcachofa', ]

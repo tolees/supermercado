@@ -5,7 +5,7 @@ date: 2020-05-06 06:44:24
 image: 'https://m.media-amazon.com/images/I/31UGFgjX6OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HW0L3Z2-es Vileda 143587 Bayeta Pva Micro Amarillo [5-PACK]'
 sku: 'B00HW0L3Z2-es'
 tags: [ 'bayeta','vileda', ]

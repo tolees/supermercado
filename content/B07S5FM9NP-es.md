@@ -5,7 +5,7 @@ date: 2020-10-12 18:28:36
 image: 'https://m.media-amazon.com/images/I/41PpgbLHBvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5FM9NP-es Old Spice Citron - Desodorante Stick Pack de 6 x 50 ml'
 sku: 'B07S5FM9NP-es'
 tags: [ 'desodorante', ]

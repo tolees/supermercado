@@ -5,7 +5,7 @@ date: 2020-02-28 16:49:53
 image: 'https://m.media-amazon.com/images/I/41nndqhJi2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFU0VFI-es True Instinct Original Medium-Maxi Junior - Pienso para...'
 sku: 'B01FFU0VFI-es'
 tags: [ 'arroz','integral', ]

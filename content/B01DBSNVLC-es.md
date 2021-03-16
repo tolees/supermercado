@@ -5,7 +5,7 @@ date: 2020-09-03 12:36:57
 image: 'https://m.media-amazon.com/images/I/51tSSzzz7yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DBSNVLC-es Old El Paso - Barquitas 8 unidades 193g'
 sku: 'B01DBSNVLC-es'
 tags: [ 'el','old','paso', ]

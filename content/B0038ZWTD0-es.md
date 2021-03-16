@@ -5,7 +5,7 @@ date: 2020-01-03 17:36:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31muFjam5DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0038ZWTD0-es Elizabeth Arden 5th Avenue Style Agua de perfume para...'
 sku: 'B0038ZWTD0-es'
 tags: [ 'arden','elizabeth', ]

@@ -5,7 +5,7 @@ date: 2020-10-11 23:03:38
 image: 'https://m.media-amazon.com/images/I/51DE2uyM80L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078VPBQZJ-es Aneto 100% Natural - Caldo de Pollo - caja de 6 unidades...'
 sku: 'B078VPBQZJ-es'
 tags: [ 'caldo','de','pollo', ]

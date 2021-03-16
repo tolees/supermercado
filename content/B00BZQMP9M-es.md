@@ -5,7 +5,7 @@ date: 2020-01-20 14:07:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31yOeltdcfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BZQMP9M-es L Oréal Volumetry Anti Gravity Effect Champú - 1500 ml'
 sku: 'B00BZQMP9M-es'
 tags: [ 'champú','oréal', ]

@@ -5,7 +5,7 @@ date: 2020-02-13 21:02:13
 image: 'https://m.media-amazon.com/images/I/41e5upif9GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001P4YYI4-es MONKEY SHOULDER Blended Whisky 70cl Bottle'
 sku: 'B001P4YYI4-es'
 tags: [ 'whisky', ]

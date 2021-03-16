@@ -5,7 +5,7 @@ date: 2020-03-21 23:32:26
 image: 'https://m.media-amazon.com/images/I/41D28XE2xhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084RHT51M-es MAHALO HYDROGEL MIX BOX. 18 Sticks x 45 ml. Pack de 18...'
 sku: 'B084RHT51M-es'
 tags: [ 'manzana', ]

@@ -5,7 +5,7 @@ date: 2020-04-17 00:32:49
 image: 'https://m.media-amazon.com/images/I/51sSm7XzuiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5SZ2FR-es Sunburst Snacks Sunburst anacardos de miel y canela asadas...'
 sku: 'B07P5SZ2FR-es'
 tags: [ 'canela', ]

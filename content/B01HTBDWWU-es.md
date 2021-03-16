@@ -5,7 +5,7 @@ date: 2020-03-15 12:06:10
 image: 'https://m.media-amazon.com/images/I/41835nu61ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HTBDWWU-es RAM Chocolate Líquido a la Taza - 6 x 1 L - Total: 6 L'
 sku: 'B01HTBDWWU-es'
 tags: [ 'chocolate', ]

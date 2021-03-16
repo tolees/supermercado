@@ -5,7 +5,7 @@ date: 2020-10-01 08:42:30
 image: 'https://m.media-amazon.com/images/I/412Yi5zGsGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BYL9MBJ-es Dispensador de jabón automático 200ML Dispensador de Jabón...'
 sku: 'B08BYL9MBJ-es'
 tags: [ 'jabón', ]

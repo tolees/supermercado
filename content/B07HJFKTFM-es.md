@@ -5,7 +5,7 @@ date: 2020-08-06 09:16:06
 image: 'https://m.media-amazon.com/images/I/51ROQtnTNtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJFKTFM-es Un Air d’Antan® Caja Belleza Douce Mujer 1 Jabon 100g 1...'
 sku: 'B07HJFKTFM-es'
 tags: [ 'jabon', ]

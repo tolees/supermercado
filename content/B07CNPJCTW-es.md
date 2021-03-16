@@ -5,7 +5,7 @@ date: 2020-05-10 12:06:36
 image: 'https://m.media-amazon.com/images/I/41Of0jnBSrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNPJCTW-es Wipp Express Detergente Líquido Azul Formato Ahorro 100...'
 sku: 'B07CNPJCTW-es'
 tags: [ 'detergente', ]

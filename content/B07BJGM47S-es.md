@@ -5,7 +5,7 @@ date: 2020-02-12 10:09:58
 image: 'https://m.media-amazon.com/images/I/411s7UCIzlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BJGM47S-es Dove Original Desodorante Antitranspirante en Aerosol 48h...'
 sku: 'B07BJGM47S-es'
 tags: [ 'crema','desodorante','dove','hidratante', ]

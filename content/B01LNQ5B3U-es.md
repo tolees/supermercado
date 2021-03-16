@@ -5,7 +5,7 @@ date: 2020-10-09 14:14:14
 image: 'https://m.media-amazon.com/images/I/41ZHxC-4kFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LNQ5B3U-es L Oreal Paris Elvive Fibralogy Champú Creador de Densidad...'
 sku: 'B01LNQ5B3U-es'
 tags: [ 'champú', ]

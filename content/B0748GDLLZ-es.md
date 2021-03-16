@@ -5,7 +5,7 @@ date: 2020-02-14 14:46:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61TSby0XoVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0748GDLLZ-es Haribo Dragibus - 2000 gr'
 sku: 'B0748GDLLZ-es'
 tags: [ 'haribo', ]

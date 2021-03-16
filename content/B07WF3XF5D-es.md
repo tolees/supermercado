@@ -5,7 +5,7 @@ date: 2020-06-17 02:08:04
 image: 'https://m.media-amazon.com/images/I/41LindrRfUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WF3XF5D-es Chop Cortador de verduras y picadora de carne manual con...'
 sku: 'B07WF3XF5D-es'
 tags: [ 'cebolla', ]

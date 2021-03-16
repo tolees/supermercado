@@ -5,7 +5,7 @@ date: 2020-09-21 07:20:54
 image: 'https://m.media-amazon.com/images/I/51NahmCvgbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXL14UT-es Brandy de Jerez Solera Gran Reserva Carlos I Imperial XO -...'
 sku: 'B01MXL14UT-es'
 tags: [ 'brandy', ]

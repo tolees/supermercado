@@ -5,7 +5,7 @@ date: 2020-06-02 17:34:40
 image: 'https://m.media-amazon.com/images/I/41CPV7zkcdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I9AJ98M-es 414/21"O" Coca-Cola Glass Estuche 2 Copas'
 sku: 'B00I9AJ98M-es'
 tags: [ 'coca-cola', ]

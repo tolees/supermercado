@@ -5,7 +5,7 @@ date: 2020-01-20 21:36:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31uYwdrHK5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SHSBG7-es Vieira Galletas Chocolate - Paquete de 12 x 150 gr -...'
 sku: 'B078SHSBG7-es'
 tags: [ 'chocolate', ]

@@ -5,7 +5,7 @@ date: 2020-07-05 22:44:25
 image: 'https://m.media-amazon.com/images/I/41CZ2A1mQiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HQ430KO-es Bolero Bebida Instantánea sin Azúcar Sabor Mandarina -...'
 sku: 'B01HQ430KO-es'
 tags: [ 'azúcar', ]

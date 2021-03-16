@@ -5,7 +5,7 @@ date: 2020-01-17 18:58:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NBBThozfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5YD6FS-es Victrola Park Avenue Sistema De Sonido Tocadiscos 5-1...'
 sku: 'B07J5YD6FS-es'
 tags: [ 'café', ]

@@ -5,7 +5,7 @@ date: 2021-03-16 15:58:19
 image: 'https://m.media-amazon.com/images/I/41Gb6jhB3RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K6UVGIS-es Garnier Skin Active - Pure Active Gel Limpiador de Poros y...'
 sku: 'B01K6UVGIS-es'
 tags: [ 'garnier','garnier skin active', ]
@@ -28,10 +28,10 @@ Está [Garnier Skin Active - Pure Active  Gel Limpiador de Poros y Exfoliante Fa
 
 ℹ️:
 
-- Gel limpiador de poros 3 en 1 con carbón activo que elimina las impurezas de la piel, reduce los puntos negros y matifica el rostro
 - Hipo alergénico y fórmula de PH neutro para una óptima tolerancia
-- Contiene partículas exfoliantes naturales para desatascar los poros y reducir visiblemente la apariencia de las espinillas
 - Contribuye a una buena exfoliación facial y ayuda a combatir las imperfecciones, puntos negros y espinillas
+- Gel limpiador de poros 3 en 1 con carbón activo que elimina las impurezas de la piel, reduce los puntos negros y matifica el rostro
+- Contiene partículas exfoliantes naturales para desatascar los poros y reducir visiblemente la apariencia de las espinillas
 - Indicado para pieles grasas con tendencia acnéica; sin parabenos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01K6UVGIS/?tag=tolees-21)

@@ -5,7 +5,7 @@ date: 2020-03-01 09:04:23
 image: 'https://m.media-amazon.com/images/I/51+s92dpQ6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007NPX4LM-es CND Solaroil Acondicionador de cutículas y uñas 15 ml'
 sku: 'B007NPX4LM-es'
 tags: [ 'acondicionador', ]

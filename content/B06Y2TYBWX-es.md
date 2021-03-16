@@ -5,7 +5,7 @@ date: 2020-03-02 15:21:06
 image: 'https://m.media-amazon.com/images/I/41DG3Yy+UjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2TYBWX-es Dove Beauty Finish Desodorante Antitranspirante Aerosol...'
 sku: 'B06Y2TYBWX-es'
 tags: [ 'desodorante','dove','finish', ]

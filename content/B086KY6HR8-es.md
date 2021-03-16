@@ -5,7 +5,7 @@ date: 2020-04-16 17:49:58
 image: 'https://m.media-amazon.com/images/I/41FcRIMBIEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086KY6HR8-es 500 g de Gran Actividad instantánea de polvo seco de...'
 sku: 'B086KY6HR8-es'
 tags: [ 'levadura', ]

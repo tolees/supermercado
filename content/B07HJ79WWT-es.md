@@ -5,7 +5,7 @@ date: 2020-11-19 21:18:34
 image: 'https://m.media-amazon.com/images/I/41-XJzemvrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJ79WWT-es Home Treats - Juego de 3 tablas de cortar de bambú | 3...'
 sku: 'B07HJ79WWT-es'
 tags: [ 'queso', ]

@@ -5,7 +5,7 @@ date: 2020-09-17 06:15:03
 image: 'https://m.media-amazon.com/images/I/41NyMxPhO1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZFQJT5-es Herbal Essences Bío: Renew Volumen Acondicionador - 6...'
 sku: 'B079ZFQJT5-es'
 tags: [ 'acondicionador', ]

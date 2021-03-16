@@ -5,7 +5,7 @@ date: 2020-03-22 17:35:32
 image: 'https://m.media-amazon.com/images/I/41nHH5z4RCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y2HHDD-es Alhambra Especial Cerveza Dorada Lager 5.4% Volumen de...'
 sku: 'B077Y2HHDD-es'
 tags: [ 'cerveza', ]

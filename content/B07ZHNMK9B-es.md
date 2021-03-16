@@ -5,7 +5,7 @@ date: 2020-08-08 16:15:55
 image: 'https://m.media-amazon.com/images/I/41moJcvMOuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHNMK9B-es NIVEA Hyaluron Cellular Filler pack tratamiento...'
 sku: 'B07ZHNMK9B-es'
 tags: [ 'nivea', ]

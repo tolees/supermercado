@@ -5,7 +5,7 @@ date: 2020-02-26 06:10:32
 image: 'https://m.media-amazon.com/images/I/31Ww1TdeMUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000OVS8EA-es L Oréal Paris Barra de Labios Color Riche 303'
 sku: 'B000OVS8EA-es'
 tags: [ 'oréal', ]

@@ -5,7 +5,7 @@ date: 2020-01-08 08:25:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lJFlkZi-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074L3GJWG-es FRETZ men Hull Mocasines para Hombre Gris Dove 53 46 EU'
 sku: 'B074L3GJWG-es'
 tags: [ 'dove', ]

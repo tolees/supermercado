@@ -5,7 +5,7 @@ date: 2020-03-16 14:32:46
 image: 'https://m.media-amazon.com/images/I/413GrZw80iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017JIF7EY-es DESODORANTE POTASSIUM ALUM 60GR'
 sku: 'B017JIF7EY-es'
 tags: [ 'desodorante', ]

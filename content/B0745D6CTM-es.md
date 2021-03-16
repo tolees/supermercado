@@ -5,7 +5,7 @@ date: 2020-04-04 11:31:37
 image: 'https://m.media-amazon.com/images/I/31TCnhRZW-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0745D6CTM-es Artero Champú Baby 250ml. para Cachorros'
 sku: 'B0745D6CTM-es'
 tags: [ 'champú', ]

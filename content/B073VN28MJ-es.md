@@ -5,7 +5,7 @@ date: 2020-03-10 18:38:06
 image: 'https://m.media-amazon.com/images/I/31pF0Zn0qIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073VN28MJ-es Maybelline New York Corrector Imperfecciones Master Camo...'
 sku: 'B073VN28MJ-es'
 tags: [ 'maybelline', ]

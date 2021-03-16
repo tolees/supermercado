@@ -5,7 +5,7 @@ date: 2020-05-19 22:01:02
 image: 'https://m.media-amazon.com/images/I/31JGkxGKPmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZZJRPK-es Ariete 615 - Máquina para hacer queso y yogur 2 litros 6...'
 sku: 'B07WZZJRPK-es'
 tags: [ 'queso','yogur', ]

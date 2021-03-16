@@ -5,7 +5,7 @@ date: 2020-01-07 21:19:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51um6UcPeOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077N7T4SW-es CEREX- Pack Degustación de 10 Cervezas Artesanas - Cerveza...'
 sku: 'B077N7T4SW-es'
 tags: [ 'cerveza', ]

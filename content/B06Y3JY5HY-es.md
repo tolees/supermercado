@@ -5,7 +5,7 @@ date: 2020-03-03 13:36:13
 image: 'https://m.media-amazon.com/images/I/31cBOWgA7uL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y3JY5HY-es L Oréal Professionnel 3474636481729 Champú 500 ml'
 sku: 'B06Y3JY5HY-es'
 tags: [ 'champú','oréal', ]

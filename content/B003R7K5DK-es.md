@@ -5,7 +5,7 @@ date: 2020-04-22 08:06:25
 image: 'https://m.media-amazon.com/images/I/51CjQC43IJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003R7K5DK-es Smint Tabs Menta Caramelo Comprimido sin Azúcar - 12...'
 sku: 'B003R7K5DK-es'
 tags: [ 'azúcar','smint', ]

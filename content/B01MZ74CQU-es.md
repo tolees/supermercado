@@ -5,7 +5,7 @@ date: 2020-01-14 18:46:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ia5YeDWqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZ74CQU-es Nuk Detergente de superfícies para bebés'
 sku: 'B01MZ74CQU-es'
 tags: [ 'detergente', ]

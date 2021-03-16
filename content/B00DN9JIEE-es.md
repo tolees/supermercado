@@ -5,7 +5,7 @@ date: 2020-08-12 08:45:40
 image: 'https://m.media-amazon.com/images/I/41pmUtuP0oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DN9JIEE-es Meritene® FUERZA Y VITALIDAD - Suplementa tu nutrición y...'
 sku: 'B00DN9JIEE-es'
 tags: [ 'chocolate', ]

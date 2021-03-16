@@ -5,7 +5,7 @@ date: 2020-04-05 08:56:07
 image: 'https://m.media-amazon.com/images/I/41bsIQdxVSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGN9B5D-es Fairy Limpieza&Cuidado Rosa y Satén Protege Dermis Líquido...'
 sku: 'B07LGN9B5D-es'
 tags: [ 'fairy', ]

@@ -5,7 +5,7 @@ date: 2020-08-17 18:03:04
 image: 'https://m.media-amazon.com/images/I/416zSmP5ZYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHV353C-es Skip Ultimate Triple Poder Detergente Capsulas Maxima...'
 sku: 'B07SHV353C-es'
 tags: [ 'detergente', ]

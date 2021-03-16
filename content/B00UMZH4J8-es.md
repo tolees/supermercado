@@ -5,7 +5,7 @@ date: 2020-10-12 15:16:16
 image: 'https://m.media-amazon.com/images/I/41GU7tLxzZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UMZH4J8-es Forticoll Colágeno Péptidos bioactivos en polvo sin gluten...'
 sku: 'B00UMZH4J8-es'
 tags: [ 'gluten','sin', ]

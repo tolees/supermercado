@@ -5,7 +5,7 @@ date: 2020-07-25 12:08:59
 image: 'https://m.media-amazon.com/images/I/61uiork43cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0722VTR2X-es Purina Dentalife Perro Grande [5 packs x 12 sticks]'
 sku: 'B0722VTR2X-es'
 tags: [ 'purina', ]

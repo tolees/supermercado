@@ -5,7 +5,7 @@ date: 2020-05-12 12:05:31
 image: 'https://m.media-amazon.com/images/I/51iBiCMTweL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGJ8CX8-es Oral-B Pro 610 - Cepillo de dientes eléctrico'
 sku: 'B07DGJ8CX8-es'
 tags: [ 'cepillo','de','dientes', ]

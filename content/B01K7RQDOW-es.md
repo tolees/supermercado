@@ -5,7 +5,7 @@ date: 2020-09-28 08:24:07
 image: 'https://m.media-amazon.com/images/I/411zCLDR9eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7RQDOW-es Sensodyne Protección Diaria - Pasta de dientes con flúor...'
 sku: 'B01K7RQDOW-es'
 tags: [ 'de','dientes','pasta','sensodyne', ]

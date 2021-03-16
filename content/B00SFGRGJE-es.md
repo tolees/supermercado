@@ -5,7 +5,7 @@ date: 2020-01-18 19:31:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31TNdMCCiuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SFGRGJE-es iRobot Scooba 4416470 - Detergente Líquido Concentrado...'
 sku: 'B00SFGRGJE-es'
 tags: [ 'detergente', ]
