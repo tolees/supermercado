@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01M9D1SFX-es Matcha Green Tea | Té Matcha Vegano | Polvo de Té Natural...'
 sku: 'B01M9D1SFX-es'
-tags: [ 'sin','gluten', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

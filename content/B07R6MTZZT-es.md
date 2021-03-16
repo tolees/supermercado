@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07R6MTZZT-es VIÑAS DEL VERO TINTO CABERNET-MERLOT ROBLE Vino tinto...'
 sku: 'B07R6MTZZT-es'
-tags: [ 'vino','tinto', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 5.61 EUR
 currency: EUR
 price: 5.61

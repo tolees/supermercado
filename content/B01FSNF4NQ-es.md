@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01FSNF4NQ-es Elizabeth Arden Sunflowers Crema Corporal - 500 gr'
 sku: 'B01FSNF4NQ-es'
-tags: [ 'elizabeth','arden', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

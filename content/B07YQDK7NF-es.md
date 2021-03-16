@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07YQDK7NF-es Gliss - Champú Reparación Total para Cabellos Secos -...'
 sku: 'B07YQDK7NF-es'
-tags: [ 'schwarzkopf','champú', ]
+tags: [ 'champú','schwarzkopf', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

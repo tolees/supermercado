@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00PIF4FLW-es Schwarzkopf Professional BC Moisture Kick Shampoo Champú -...'
 sku: 'B00PIF4FLW-es'
-tags: [ 'schwarzkopf','champú', ]
+tags: [ 'champú','schwarzkopf', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B075HLZ9D9-es Instituto Español Bebe Gel de Baño sin Jabón - 500 ml'
 sku: 'B075HLZ9D9-es'
-tags: [ 'jabón','instituto','español', ]
+tags: [ 'español','instituto','jabón', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B001TOGQKO-es Marques De Riscal Reserva - Vino Tinto Botella de 0.75 L'
 sku: 'B001TOGQKO-es'
-tags: [ 'vino','tinto', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

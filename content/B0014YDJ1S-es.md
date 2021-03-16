@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0014YDJ1S-es Wilkinson Sword Extra 2 Sensitive - Bolsa 20 Maquinillas...'
 sku: 'B0014YDJ1S-es'
-tags: [ 'wilkinson','sword', ]
+tags: [ 'sword','wilkinson', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

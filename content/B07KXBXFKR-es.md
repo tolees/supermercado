@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07KXBXFKR-es Bronchotos Pediátrico – Jarabe tos seca y productiva....'
 sku: 'B07KXBXFKR-es'
-tags: [ 'sin','gluten', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 6.84 EUR
 currency: EUR
 price: 6.84

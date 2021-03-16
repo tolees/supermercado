@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07KLJNBDM-es NESCAFÉ Dolce Gusto Café Latte Macchiato Pack de 3x16...'
 sku: 'B07KLJNBDM-es'
-tags: [ 'café','nescafé','cápsulas','de','café','dolce','gusto', ]
+tags: [ 'café','cápsulas','de','dolce','gusto','nescafé', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

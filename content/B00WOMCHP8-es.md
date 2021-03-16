@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00WOMCHP8-es Crema Repelente Mosquitos - Repelente de Insectos para...'
 sku: 'B00WOMCHP8-es'
-tags: [ 'aceite','de','oliva','virgen','extra', ]
+tags: [ 'aceite','de','extra','oliva','virgen', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01LXCYZFA-es Gourmet Aceitunas Rellenas de Anchoa Verdes Manzanilla...'
 sku: 'B01LXCYZFA-es'
-tags: [ 'aceitunas','anchoa','manzanilla','aceitunas','rellenas', ]
+tags: [ 'aceitunas','anchoa','manzanilla','rellenas', ]
 actualPrice: None None
 currency: None
 price: None

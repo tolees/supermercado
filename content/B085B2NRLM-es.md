@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B085B2NRLM-es Vivaldi Deciso | 110 cápsulas de café compatibles con...'
 sku: 'B085B2NRLM-es'
-tags: [ 'café','cápsulas','de','café', ]
+tags: [ 'café','cápsulas','de', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

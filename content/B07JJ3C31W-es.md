@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07JJ3C31W-es YING - Dispensador automático de pasta de dientes + caja...'
 sku: 'B07JJ3C31W-es'
-tags: [ 'cepillo','de','dientes','pasta','de','dientes', ]
+tags: [ 'cepillo','de','dientes','pasta', ]
 actualPrice: 11.07 EUR
 currency: EUR
 price: 11.07

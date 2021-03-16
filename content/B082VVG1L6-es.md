@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B082VVG1L6-es Alfapac – Papel de cocina 18 m 1 unidad'
 sku: 'B082VVG1L6-es'
-tags: [ 'papel','de','cocina', ]
+tags: [ 'cocina','de','papel', ]
 actualPrice: 2.47 EUR
 currency: EUR
 price: 2.47

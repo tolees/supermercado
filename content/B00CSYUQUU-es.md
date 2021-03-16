@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00CSYUQUU-es Hacienda Zorita Natural Reserve Syrah Vino tinto - 750 ml'
 sku: 'B00CSYUQUU-es'
-tags: [ 'vino','tinto', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

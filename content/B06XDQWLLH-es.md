@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06XDQWLLH-es Garnier Fructis Crece Fuerte Champú Pelo Frágil con...'
 sku: 'B06XDQWLLH-es'
-tags: [ 'garnier','champú', ]
+tags: [ 'champú','garnier', ]
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

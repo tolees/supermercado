@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07TTNMXWJ-es Max Factor Perfect Gel Shine; Laca de Uñas Tono 621 - 12 ml'
 sku: 'B07TTNMXWJ-es'
-tags: [ 'max','factor', ]
+tags: [ 'factor','max', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

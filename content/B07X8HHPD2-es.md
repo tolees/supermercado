@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07X8HHPD2-es Aceite de oliva de autor | Virgen extra ecológico...'
 sku: 'B07X8HHPD2-es'
-tags: [ 'arbequina','aceite','de','oliva','virgen','extra', ]
+tags: [ 'aceite','arbequina','de','extra','oliva','virgen', ]
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

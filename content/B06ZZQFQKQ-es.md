@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06ZZQFQKQ-es Instituto Español Piel Sana Crema Corporal Hidratante -...'
 sku: 'B06ZZQFQKQ-es'
-tags: [ 'instituto','español', ]
+tags: [ 'español','instituto', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

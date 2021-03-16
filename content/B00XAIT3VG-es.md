@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00XAIT3VG-es Gotas Frescas Colonia Concentrada - Instituto Español 80...'
 sku: 'B00XAIT3VG-es'
-tags: [ 'instituto','español', ]
+tags: [ 'español','instituto', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

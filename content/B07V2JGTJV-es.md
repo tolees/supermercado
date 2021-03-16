@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07V2JGTJV-es Max Factor Velvet Mattes Lipstick Tono 065 1 unidad 40 g'
 sku: 'B07V2JGTJV-es'
-tags: [ 'max','factor', ]
+tags: [ 'factor','max', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

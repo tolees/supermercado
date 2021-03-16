@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07TC8XDT9-es Max Factor Colour Elixir Lipstick Barra de labios Tono 20...'
 sku: 'B07TC8XDT9-es'
-tags: [ 'max','factor', ]
+tags: [ 'factor','max', ]
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

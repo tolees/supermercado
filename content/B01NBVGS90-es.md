@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01NBVGS90-es Eucerin Family Pack Ph5 Oleogel de Ducha 1000 ml y oleogel...'
 sku: 'B01NBVGS90-es'
-tags: [ 'eucerin','gel','de','ducha', ]
+tags: [ 'de','ducha','eucerin','gel', ]
 actualPrice: 16.41 EUR
 currency: EUR
 price: 16.41

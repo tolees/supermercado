@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01DAFX3V4-es Schwarzkopf Professional Osis Refresh Dust Bodyfying Dry...'
 sku: 'B01DAFX3V4-es'
-tags: [ 'schwarzkopf','champú', ]
+tags: [ 'champú','schwarzkopf', ]
 actualPrice: 12.73 EUR
 currency: EUR
 price: 12.73

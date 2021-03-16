@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B074JDNVH5-es Gullón Vitalday Tortitas Maíz Chocolate Gullón - 100 g'
 sku: 'B074JDNVH5-es'
-tags: [ 'gullón','maíz','chocolate', ]
+tags: [ 'chocolate','gullón','maíz', ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

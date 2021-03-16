@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01M19HVS6-es Handy Bag Bolsas de Basura 10 L Baño Extra Resistentes...'
 sku: 'B01M19HVS6-es'
-tags: [ 'bolsas','de','basura', ]
+tags: [ 'basura','bolsas','de', ]
 actualPrice: None None
 currency: None
 price: None

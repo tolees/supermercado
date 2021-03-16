@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06XDRK2W8-es L Oréal Paris Botanicals Champú para Cabellos Frágiles...'
 sku: 'B06XDRK2W8-es'
-tags: [ 'cilantro','jengibre','champú','oréal', ]
+tags: [ 'champú','cilantro','jengibre','oréal', ]
 actualPrice: 5.42 EUR
 currency: EUR
 price: 5.42

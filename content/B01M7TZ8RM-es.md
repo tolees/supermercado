@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01M7TZ8RM-es Grefusa - MisterCorn | Cocktail de Frutos Secos con Sabor...'
 sku: 'B01M7TZ8RM-es'
-tags: [ 'grefusa','frutos','secos', ]
+tags: [ 'frutos','grefusa','secos', ]
 actualPrice: 9.86 EUR
 currency: EUR
 price: 9.86

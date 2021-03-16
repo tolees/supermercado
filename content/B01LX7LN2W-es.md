@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01LX7LN2W-es Lindt Excellence Tableta de Chocolate Suave 70% - 100 g'
 sku: 'B01LX7LN2W-es'
-tags: [ 'lindt','chocolate', ]
+tags: [ 'chocolate','lindt', ]
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

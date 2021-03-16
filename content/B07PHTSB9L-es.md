@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07PHTSB9L-es Max Factor Color para cejas - 1 unidad'
 sku: 'B07PHTSB9L-es'
-tags: [ 'max','factor', ]
+tags: [ 'factor','max', ]
 actualPrice: 5.38 EUR
 currency: EUR
 price: 5.38

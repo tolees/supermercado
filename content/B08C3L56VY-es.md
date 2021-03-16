@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08C3L56VY-es Montecillo Singladuras Vino blanco Denominación de origen...'
 sku: 'B08C3L56VY-es'
-tags: [ 'vino','blanco', ]
+tags: [ 'blanco','vino', ]
 actualPrice: 18.16 EUR
 currency: EUR
 price: 18.16

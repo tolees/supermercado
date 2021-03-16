@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00XAIT190-es Instituto Español Gotas Frescas agua de colonia...'
 sku: 'B00XAIT190-es'
-tags: [ 'instituto','español', ]
+tags: [ 'español','instituto', ]
 actualPrice: 3.24 EUR
 currency: EUR
 price: 3.24

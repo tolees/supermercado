@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07L54L7ZD-es Consuelo - cápsulas de café compatibles con Nespresso* -...'
 sku: 'B07L54L7ZD-es'
-tags: [ 'café','cápsulas','de','café', ]
+tags: [ 'café','cápsulas','de', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

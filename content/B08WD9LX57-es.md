@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08WD9LX57-es Ymea Vientre Plano - Tratamiento de la Menopausia Control...'
 sku: 'B08WD9LX57-es'
-tags: [ 'lactacyd', ]
+tags: [ 'lactacyd','ymea', ]
 actualPrice: 24.13 EUR
 currency: EUR
 price: 24.13

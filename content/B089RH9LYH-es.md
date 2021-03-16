@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B089RH9LYH-es Aceite de Coco Virgen Extra Ecológico Prensado en Frío...'
 sku: 'B089RH9LYH-es'
-tags: [ 'virgen','extra', ]
+tags: [ 'extra','virgen', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

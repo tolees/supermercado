@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00I5QYU7U-es Elizabeth Arden Visible Difference Primer retexturizante...'
 sku: 'B00I5QYU7U-es'
-tags: [ 'elizabeth','arden', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

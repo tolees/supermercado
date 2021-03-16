@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07W8LHC23-es Gliss - Champú Long&Sublime - 400ml - Schwarzkopf : pack...'
 sku: 'B07W8LHC23-es'
-tags: [ 'schwarzkopf','champú', ]
+tags: [ 'champú','schwarzkopf', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

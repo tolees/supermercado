@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01NCRPFJ4-es Carbón Activado Premium – Polvo 100 % orgánico – Sin...'
 sku: 'B01NCRPFJ4-es'
-tags: [ 'pasta','de','dientes', ]
+tags: [ 'de','dientes','pasta', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

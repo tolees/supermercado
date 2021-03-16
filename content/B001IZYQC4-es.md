@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B001IZYQC4-es Max Factor Maquillaje en polvo - 1 unidad'
 sku: 'B001IZYQC4-es'
-tags: [ 'max','factor', ]
+tags: [ 'factor','max', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

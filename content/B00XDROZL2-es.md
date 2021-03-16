@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00XDROZL2-es Scottex Gigante Papel de Cocina - 1 Rollo'
 sku: 'B00XDROZL2-es'
-tags: [ 'scottex','papel','de','cocina', ]
+tags: [ 'cocina','de','papel','scottex', ]
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

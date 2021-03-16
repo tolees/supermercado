@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Lip Smacker Lip Smacker Coca Cola Balm C con un 0.00 % de descuento'
-date: 2021-03-11 16:07:10
+date: 2021-03-16 13:38:29
 image: 'https://m.media-amazon.com/images/I/414l3feDpOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B004H5D8OO-es Lip Smacker Lip Smacker Coca Cola Balm Classic 4Gr - 1 Unidad'
 sku: 'B004H5D8OO-es'
-tags: [ 'coca','cola', ]
+tags: [ 'coca','cola','lip smacker', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

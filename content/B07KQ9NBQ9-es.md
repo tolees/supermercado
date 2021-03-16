@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07KQ9NBQ9-es Gifts Treat Navidad Botella de Vino Tinto Bolsas de...'
 sku: 'B07KQ9NBQ9-es'
-tags: [ 'vino','tinto', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

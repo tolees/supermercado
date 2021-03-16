@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01M0AE1PO-es LITORAL Fabada Asturiana Plato Preparado de Fabada...'
 sku: 'B01M0AE1PO-es'
-tags: [ 'fabada','litoral','plato','preparado','sin','gluten', ]
+tags: [ 'fabada','gluten','litoral','plato','preparado','sin', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

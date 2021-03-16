@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B005FQDDJ4-es Max Factor Khol Pencil Eyeliner Lápiz de Ojos Tono 50...'
 sku: 'B005FQDDJ4-es'
-tags: [ 'max','factor', ]
+tags: [ 'factor','max', ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

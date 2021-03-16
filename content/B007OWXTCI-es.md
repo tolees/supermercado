@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B007OWXTCI-es Garnier Skin Active - BB Cream Clásica Crema Hidratante...'
 sku: 'B007OWXTCI-es'
-tags: [ 'garnier','crema','hidratante', ]
+tags: [ 'crema','garnier','hidratante', ]
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

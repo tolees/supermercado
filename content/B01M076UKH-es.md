@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01M076UKH-es President Leche Entera - 6 x 1 L'
 sku: 'B01M076UKH-es'
-tags: [ 'president','leche','entera', ]
+tags: [ 'entera','leche','president', ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

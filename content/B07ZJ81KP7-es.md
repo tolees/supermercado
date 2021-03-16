@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07ZJ81KP7-es Leche entera UHT Dana de larga duración 250 ml x 12 3 5%...'
 sku: 'B07ZJ81KP7-es'
-tags: [ 'leche','entera', ]
+tags: [ 'entera','leche', ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00QI4ZANO-es L-Carnitina suplemento deportivo quemagrasas ayuda perdida...'
 sku: 'B00QI4ZANO-es'
-tags: [ 'sin','gluten', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

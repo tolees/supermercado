@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01LTIQMQ2-es Pantene Pro-V champú Suave y Liso para cabellos...'
 sku: 'B01LTIQMQ2-es'
-tags: [ 'pantene','champú', ]
+tags: [ 'champú','pantene', ]
 actualPrice: 3.93 EUR
 currency: EUR
 price: 3.93

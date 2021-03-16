@@ -28,10 +28,10 @@ Tienes [Axe Antitranspirante Ice Chill  150ml](https://www.amazon.es/dp/B082VTHD
 
 🔎:
 
-- 48h de protección frente al mal olor
-- Te mantiene seco durante 48h
-- Una fragancia ligera y fresca para tener una experiencia de frescor total
 - Mantente fresco por más tiempo
+- Te mantiene seco durante 48h
 - AXE ANTITRANSPIRANTE ICE CHILL 150ML
+- 48h de protección frente al mal olor
+- Una fragancia ligera y fresca para tener una experiencia de frescor total
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082VTHD4Z/?tag=tolees-21)

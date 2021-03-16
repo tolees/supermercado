@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00EDMABPU-es Eco Bag Ecobag – Bolsas de Basura 50 Unidades Resistentes'
 sku: 'B00EDMABPU-es'
-tags: [ 'bolsas','de','basura', ]
+tags: [ 'basura','bolsas','de', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

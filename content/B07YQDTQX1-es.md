@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07YQDTQX1-es Hero Baby Solo Bolsita de Manzana Plátano y Zanahoria Puré...'
 sku: 'B07YQDTQX1-es'
-tags: [ 'manzana','hero','baby', ]
+tags: [ 'baby','hero','manzana', ]
 actualPrice: 0.89 EUR
 currency: EUR
 price: 0.89

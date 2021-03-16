@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B010Y4YGI8-es Cúrcuma orgánica 745mg + Jengibre + Pimienta negra....'
 sku: 'B010Y4YGI8-es'
-tags: [ 'cúrcuma','jengibre','sin','gluten', ]
+tags: [ 'cúrcuma','gluten','jengibre','sin', ]
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

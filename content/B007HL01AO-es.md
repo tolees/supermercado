@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B007HL01AO-es Max Factor Colour Elixir Lipliner Perfilador de Labios...'
 sku: 'B007HL01AO-es'
-tags: [ 'max','factor', ]
+tags: [ 'factor','max', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

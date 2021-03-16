@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B004MZA4R8-es NESCAFÉ Dolce Gusto Café Cappuccino Pack de 3 x 16...'
 sku: 'B004MZA4R8-es'
-tags: [ 'café','nescafé','cápsulas','de','café','dolce','gusto', ]
+tags: [ 'café','cápsulas','de','dolce','gusto','nescafé', ]
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25

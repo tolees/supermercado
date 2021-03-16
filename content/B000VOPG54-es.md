@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B000VOPG54-es Elizabeth Arden Green Tea Eau de parfum 30 ml'
 sku: 'B000VOPG54-es'
-tags: [ 'elizabeth','arden', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

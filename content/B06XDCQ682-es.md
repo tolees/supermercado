@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06XDCQ682-es Vileda 139460 Salvauñas - 2 Unidades'
 sku: 'B06XDCQ682-es'
-tags: [ 'vileda','salvauñas', ]
+tags: [ 'salvauñas','vileda', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

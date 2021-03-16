@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07JF2NQXV-es Schwarzkopf Champú - 2 de 1 unidad'
 sku: 'B07JF2NQXV-es'
-tags: [ 'schwarzkopf','champú', ]
+tags: [ 'champú','schwarzkopf', ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

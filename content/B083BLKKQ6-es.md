@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B083BLKKQ6-es AGPTEK 18Pcs Discos Desmaquillantes Reutilizables con 4...'
 sku: 'B083BLKKQ6-es'
-tags: [ 'discos','desmaquillantes', ]
+tags: [ 'desmaquillantes','discos', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

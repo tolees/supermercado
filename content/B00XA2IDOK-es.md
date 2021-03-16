@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00XA2IDOK-es Maizena Harina Fina de Maíz Espesante Caja 2 5 kilogramos...'
 sku: 'B00XA2IDOK-es'
-tags: [ 'harina','maizena','maíz','sin','gluten', ]
+tags: [ 'gluten','harina','maizena','maíz','sin', ]
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

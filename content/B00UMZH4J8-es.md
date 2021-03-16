@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00UMZH4J8-es Forticoll Colágeno Péptidos bioactivos en polvo sin gluten...'
 sku: 'B00UMZH4J8-es'
-tags: [ 'sin','gluten', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 12.55 EUR
 currency: EUR
 price: 12.55

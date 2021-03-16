@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B079GCVM5Y-es Lavazza Cápsulas de café Leggero - 10 Cápsulas'
 sku: 'B079GCVM5Y-es'
-tags: [ 'café','lavazza','cápsulas','de','café', ]
+tags: [ 'café','cápsulas','de','lavazza', ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

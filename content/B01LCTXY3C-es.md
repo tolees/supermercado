@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01LCTXY3C-es Pantene Pro-V Prevención Caída Champú para el Cabello con...'
 sku: 'B01LCTXY3C-es'
-tags: [ 'pantene','champú', ]
+tags: [ 'champú','pantene', ]
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

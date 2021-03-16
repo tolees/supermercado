@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00IMU0RDA-es Elizabeth Arden Agua de colonia para mujeres - 100 ml.'
 sku: 'B00IMU0RDA-es'
-tags: [ 'elizabeth','arden', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 11.74 EUR
 currency: EUR
 price: 11.74

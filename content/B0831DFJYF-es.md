@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0831DFJYF-es Zuionk Creative Squeezing Automatic Dientes Herramienta de...'
 sku: 'B0831DFJYF-es'
-tags: [ 'cepillo','de','dientes','pasta','de','dientes', ]
+tags: [ 'cepillo','de','dientes','pasta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

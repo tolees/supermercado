@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07CYG77CF-es Elizabeth Arden Agua de perfume para mujeres - 30 ml.'
 sku: 'B07CYG77CF-es'
-tags: [ 'elizabeth','arden', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 19.33 EUR
 currency: EUR
 price: 19.33

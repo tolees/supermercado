@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01LYZHZAJ-es Handy Bag Bolsas de Basura 50L Extra Resistentes No Gotean...'
 sku: 'B01LYZHZAJ-es'
-tags: [ 'bolsas','de','basura', ]
+tags: [ 'basura','bolsas','de', ]
 actualPrice: 1.1 EUR
 currency: EUR
 price: 1.1

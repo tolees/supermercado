@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07N1NQPDP-es AH Kalkaire - Carbón activado de bambú Pasta de dientes...'
 sku: 'B07N1NQPDP-es'
-tags: [ 'pasta','de','dientes', ]
+tags: [ 'de','dientes','pasta', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

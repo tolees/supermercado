@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07WXLJT64-es Note D Espresso Cápsulas de Café de Guatemala - 96...'
 sku: 'B07WXLJT64-es'
-tags: [ 'café','cápsulas','de','café','dolce','gusto', ]
+tags: [ 'café','cápsulas','de','dolce','gusto', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

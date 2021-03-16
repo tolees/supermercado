@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00XA0Z07A-es Milka - Tableta De Chocolate con Galleta Lu - 87 g'
 sku: 'B00XA0Z07A-es'
-tags: [ 'milka','chocolate', ]
+tags: [ 'chocolate','milka', ]
 actualPrice: 0.86 EUR
 currency: EUR
 price: 0.86

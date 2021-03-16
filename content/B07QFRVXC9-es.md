@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07QFRVXC9-es Celeste Roble Vino Tinto 75 cl - 750 ml'
 sku: 'B07QFRVXC9-es'
-tags: [ 'vino','tinto', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

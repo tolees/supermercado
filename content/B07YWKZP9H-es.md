@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07YWKZP9H-es Madeb La Bolsa de Basura con cordón de es fácil de Usar...'
 sku: 'B07YWKZP9H-es'
-tags: [ 'bolsas','de','basura', ]
+tags: [ 'basura','bolsas','de', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

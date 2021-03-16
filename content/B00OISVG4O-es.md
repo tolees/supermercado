@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00OISVG4O-es Pazo Das Bruxas Vino Blanco - 3 botellas de 75 cl Total:...'
 sku: 'B00OISVG4O-es'
-tags: [ 'vino','blanco', ]
+tags: [ 'blanco','vino', ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00S6YATTE-es Max Factor Eye Luminizer Miracle Base de Maquillaje Tono 3...'
 sku: 'B00S6YATTE-es'
-tags: [ 'max','factor', ]
+tags: [ 'factor','max', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

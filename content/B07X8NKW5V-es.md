@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07X8NKW5V-es Weider Green Flex PROTECTOR Articular 100% Vegano Con...'
 sku: 'B07X8NKW5V-es'
-tags: [ 'cúrcuma','sin','gluten', ]
+tags: [ 'cúrcuma','gluten','sin', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

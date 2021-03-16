@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B004XG6EX4-es Max factor - Lipfinity bálsamo y brillo de labios color...'
 sku: 'B004XG6EX4-es'
-tags: [ 'max','factor', ]
+tags: [ 'factor','max', ]
 actualPrice: 5.22 EUR
 currency: EUR
 price: 5.22

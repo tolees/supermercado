@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B087JXR2ZN-es Mentos Mix Frutos Rojos Caramelo Masticable con Zumo de...'
 sku: 'B087JXR2ZN-es'
-tags: [ 'mentos','zumo','de', ]
+tags: [ 'de','mentos','zumo', ]
 actualPrice: 10.3 EUR
 currency: EUR
 price: 10.3

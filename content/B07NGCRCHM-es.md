@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07NGCRCHM-es Marca Amazon - Solimo Gel de ducha para hombre con iones...'
 sku: 'B07NGCRCHM-es'
-tags: [ 'solimo','gel','de','ducha', ]
+tags: [ 'de','ducha','gel','solimo', ]
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

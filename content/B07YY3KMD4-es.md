@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07YY3KMD4-es Set Regalo Mujer Flor de Cerezo: 1 gel de ducha/bano de...'
 sku: 'B07YY3KMD4-es'
-tags: [ 'jabón','gel','de','ducha', ]
+tags: [ 'de','ducha','gel','jabón', ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

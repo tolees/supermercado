@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00EC9P9PG-es Max Factor Pan Stick Base de maquillaje Tono 96 Bisque...'
 sku: 'B00EC9P9PG-es'
-tags: [ 'max','factor', ]
+tags: [ 'factor','max', ]
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

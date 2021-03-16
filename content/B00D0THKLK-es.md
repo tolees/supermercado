@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00D0THKLK-es Max Factor Colour Elixir Lipstick Barra de Labios Tono 720...'
 sku: 'B00D0THKLK-es'
-tags: [ 'max','factor', ]
+tags: [ 'factor','max', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

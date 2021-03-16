@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01N5HLNB8-es Elizabeth Arden Advanced Ceramide Capsulas Monodosis para...'
 sku: 'B01N5HLNB8-es'
-tags: [ 'elizabeth','arden', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

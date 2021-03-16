@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07MWJ96K7-es Nestlé Láminas de Chocolate Negro - 135 g'
 sku: 'B07MWJ96K7-es'
-tags: [ 'nestlé','chocolate', ]
+tags: [ 'chocolate','nestlé', ]
 actualPrice: 1.42 EUR
 currency: EUR
 price: 1.42

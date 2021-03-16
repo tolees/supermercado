@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07QNWKHL3-es BODY & EARTH Canasta de regalo para mujeres set de regalo...'
 sku: 'B07QNWKHL3-es'
-tags: [ 'gel','de','ducha', ]
+tags: [ 'de','ducha','gel', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

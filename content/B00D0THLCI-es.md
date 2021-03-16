@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00D0THLCI-es Max Factor Colour Elixir Lipstick 730 Flushed Fuchsia...'
 sku: 'B00D0THLCI-es'
-tags: [ 'max','factor', ]
+tags: [ 'factor','max', ]
 actualPrice: 3.01 EUR
 currency: EUR
 price: 3.01

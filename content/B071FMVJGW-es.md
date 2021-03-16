@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B071FMVJGW-es Novex Aceite de Oliva Mascarilla Capilar - 400g'
 sku: 'B071FMVJGW-es'
-tags: [ 'aceite','de','oliva','mascarilla','capilar', ]
+tags: [ 'aceite','capilar','de','mascarilla','oliva', ]
 actualPrice: 3.04 EUR
 currency: EUR
 price: 3.04

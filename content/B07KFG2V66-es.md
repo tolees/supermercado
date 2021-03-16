@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07KFG2V66-es GluteoStop® - ayuda a descomponer el gluten - 30 mini...'
 sku: 'B07KFG2V66-es'
-tags: [ 'sin','gluten', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

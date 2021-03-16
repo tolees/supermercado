@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07RRY5MHT-es Red Bull Bebida Energética Coco y Arándanos - 12 latas de...'
 sku: 'B07RRY5MHT-es'
-tags: [ 'bebida','energética','red','bull', ]
+tags: [ 'bebida','bull','energética','red', ]
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

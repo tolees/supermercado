@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01AGYUM0W-es Elizabeth Arden Flawless Start Base de Maquillaje 30 ml'
 sku: 'B01AGYUM0W-es'
-tags: [ 'elizabeth','arden', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

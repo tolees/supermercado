@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00A7JWKO8-es SESDERMA Hidraderm Hyal Crema Hidratante 50 ml'
 sku: 'B00A7JWKO8-es'
-tags: [ 'sesderma','crema','hidratante', ]
+tags: [ 'crema','hidratante','sesderma', ]
 actualPrice: 10.48 EUR
 currency: EUR
 price: 10.48

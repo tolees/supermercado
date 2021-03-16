@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01DBSNVLC-es Old El Paso - Barquitas 8 unidades 193g'
 sku: 'B01DBSNVLC-es'
-tags: [ 'old','el','paso', ]
+tags: [ 'el','old','paso', ]
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

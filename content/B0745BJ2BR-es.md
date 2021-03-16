@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0745BJ2BR-es Brabantia Código Y Bolsas de Basura Formato Rollo Blanco...'
 sku: 'B0745BJ2BR-es'
-tags: [ 'bolsas','de','basura', ]
+tags: [ 'basura','bolsas','de', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

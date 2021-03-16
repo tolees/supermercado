@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B071ZSZDM2-es 150 UD de 10 ml de monodosis aceite de oliva virgen extra'
 sku: 'B071ZSZDM2-es'
-tags: [ 'aceite','de','oliva','virgen','extra', ]
+tags: [ 'aceite','de','extra','oliva','virgen', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07MHHJJ3J-es Max Factor False Lash Effect Rise & Shine Black Máscara de...'
 sku: 'B07MHHJJ3J-es'
-tags: [ 'max','factor', ]
+tags: [ 'factor','max', ]
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

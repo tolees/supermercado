@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0012RXTBW-es Elizabeth Arden Mediterranean - Agua de perfume'
 sku: 'B0012RXTBW-es'
-tags: [ 'elizabeth','arden', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 25.86 EUR
 currency: EUR
 price: 25.86

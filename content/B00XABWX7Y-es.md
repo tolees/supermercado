@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00XABWX7Y-es Dove Gel de Ducha - 600 ml'
 sku: 'B00XABWX7Y-es'
-tags: [ 'dove','gel','de','ducha', ]
+tags: [ 'de','dove','ducha','gel', ]
 actualPrice: 3.4 EUR
 currency: EUR
 price: 3.4

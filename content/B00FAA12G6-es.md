@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00FAA12G6-es Elizabeth Arden - Limpiador Anti-aging Treatment boosting...'
 sku: 'B00FAA12G6-es'
-tags: [ 'elizabeth','arden', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 31.06 EUR
 currency: EUR
 price: 31.06

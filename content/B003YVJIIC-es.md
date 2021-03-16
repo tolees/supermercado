@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B003YVJIIC-es NESCAFÉ Dolce Gusto Café Latte Macchiato Vainilla Pack de...'
 sku: 'B003YVJIIC-es'
-tags: [ 'café','nescafé','cápsulas','de','café','dolce','gusto', ]
+tags: [ 'café','cápsulas','de','dolce','gusto','nescafé', ]
 actualPrice: 13.7 EUR
 currency: EUR
 price: 13.7

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01IVQ25YI-es Joe Weider Victory Multivit Up 80 gummies Sabor naranja y...'
 sku: 'B01IVQ25YI-es'
-tags: [ 'sin','gluten', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

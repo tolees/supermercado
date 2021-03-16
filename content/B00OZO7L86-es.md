@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00OZO7L86-es Sam Mills Pasta de Maíz Sin Gluten - 300 gr'
 sku: 'B00OZO7L86-es'
-tags: [ 'maíz','sam','mills','sin','gluten', ]
+tags: [ 'gluten','maíz','mills','sam','sin', ]
 actualPrice: 1.48 EUR
 currency: EUR
 price: 1.48
