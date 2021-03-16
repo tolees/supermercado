@@ -30,7 +30,7 @@ Tienes [Natural Honey Gel de Ducha Hidratante - 0 75 l](https://www.amazon.es/dp
 
 - Gel de ducha hidratante Natural Honey de la marca Revlon
 - facil de usar
-- Unisex
 - 750 ml
+- Unisex
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01K7R5KEG/?tag=tolees-21)
