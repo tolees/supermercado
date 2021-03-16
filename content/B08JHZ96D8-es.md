@@ -28,10 +28,10 @@ En este momento está [Eleglide - Dispensador Gel Hidroalcoholico  Dispensador J
 
 🔎:
 
-- 【Ajuste preciso】5 niveles de volumen ajustables, solo presiona el botón +/-para elegir el volumen adecuado, satisface diferentes demandas.
-- 【Uso extensivo】Compatible con diferentes tipos de gel, como lavavajillas, champú, gel de ducha, etc. Aplicar ampliamente en cocina, baño, oficina, escuela, hospital, hotel...
 - 【Sensor automático】Funciona mediante sensor de infrarrojos automático, sin contacto, solo pon tu manodebajo del área del sensor, la máquina arranca, evitando el caso de infección cruzada. Muy rápido, solo 2 segundos para deshacerse de la loción.
 - 【Gran capacidad】La capacidad del dosificador alcanza 500 ml. Cuerpo transparente, conveniente para que agregue el gel a tiempo a través de esta ventana visual. Batería de larga duración, utilizable por un máximo de 10 meses.
+- 【Ajuste preciso】5 niveles de volumen ajustables, solo presiona el botón +/-para elegir el volumen adecuado, satisface diferentes demandas.
 - 【Apariencia de moda】Con tapa de metal, simple y hermoso, mas sustentable, impermeable, inoxidable y anticorrosión.
+- 【Uso extensivo】Compatible con diferentes tipos de gel, como lavavajillas, champú, gel de ducha, etc. Aplicar ampliamente en cocina, baño, oficina, escuela, hospital, hotel...
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JHZ96D8/?tag=tolees-21)
