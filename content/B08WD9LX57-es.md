@@ -28,7 +28,7 @@ Ahora mismo tienes [Ymea Vientre Plano - Tratamiento de la Menopausia  Control d
 
 🔎:
 
-- Control de los Sofocos - Ayuda a reducir los sofocos, los sudores nocturnos y los cambios de humor
 - Formulado con Ácido L-Láctico biológico (pH=3.5). Enriquecido con complejo L2Gtm hidratante. Sin jabón. Dermatológicamente testado
+- Control de los Sofocos - Ayuda a reducir los sofocos, los sudores nocturnos y los cambios de humor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08WD9LX57/?tag=tolees-21)

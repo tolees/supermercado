@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Elsantiamen - Boqueron Frito en Aceite d con un 0.00 % de descuento'
-date: 2021-03-15 17:07:52
+date: 2021-03-16 17:10:36
 image: 'https://m.media-amazon.com/images/I/318h77IBpjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085PY2L3F-es Elsantiamen - Boqueron Frito en Aceite de Oliva - Lata de...'
 sku: 'B085PY2L3F-es'
-tags: [ 'conservas','aceite','de','oliva', ]
+tags: [ 'aceite','conservas','de','elsantiamen','oliva', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

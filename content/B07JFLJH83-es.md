@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Cestas de Navidad - Lotes de Navidad - L con un 0.00 % de descuento'
-date: 2021-03-15 17:03:06
+date: 2021-03-16 17:08:43
 image: 'https://m.media-amazon.com/images/I/51FGrEDoZ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JFLJH83-es Cestas de Navidad - Lotes de Navidad - Lote de Embutidos y...'
 sku: 'B07JFLJH83-es'
-tags: [ 'queso', ]
+tags: [ 'degusta teruel','queso', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

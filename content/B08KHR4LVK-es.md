@@ -28,10 +28,10 @@ Tienes [Tierra De Jamón Estuche Gourmet 1800 g](https://www.amazon.es/dp/B08KHR
 
 🔎:
 
-- Vea la composición detallada del lote abajo en la descripción.
+- En caso de rotura de stock, se sustituirá cualquier producto por otro de igual o superior categoría y precio, sin coste adicional.
 - Las añadas de los vinos serán las vigentes actualizadas en bodega.
+- Vea la composición detallada del lote abajo en la descripción.
 - Los estuches Ibéricos se presentan en PLATO CIRCULAR, envasado en Sacovitta, LISTO PARA ABRIR Y EMPLATAR! Abrir el sobre para que el producto adquiera temperatura ambiente y se airee.
 - La venta de alcohol a menores de 18 años está prohibida. Se recomienda consumo responsable.
-- En caso de rotura de stock, se sustituirá cualquier producto por otro de igual o superior categoría y precio, sin coste adicional.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KHR4LVK/?tag=tolees-21)

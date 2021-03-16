@@ -28,10 +28,10 @@ Está [JamonOnline - Cesta de Navidad Económica](https://www.amazon.es/dp/B07K7
 
 ℹ️:
 
-- Todo en una Caja Dorada Especial con Asa para Regalo
-- 1 Paq. Chorizo Ibérico de 100gr y 1 Paq. Salchichón Ibérico de 100gr.
 - 1 paq. Jamón Serrano en Lonchas de 100gr. y 1 Bolsa de Picos de Pan.
-- 1 Botella de Vino de 3/8 Señorío de Los Llanos Crianza.
+- Todo en una Caja Dorada Especial con Asa para Regalo
 - Cesta de Navidad Económica Compuesta por:
+- 1 Botella de Vino de 3/8 Señorío de Los Llanos Crianza.
+- 1 Paq. Chorizo Ibérico de 100gr y 1 Paq. Salchichón Ibérico de 100gr.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K71FQC6/?tag=tolees-21)
