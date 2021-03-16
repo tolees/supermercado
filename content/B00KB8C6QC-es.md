@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney Maleficent Fairy Aurora Sleeping  al 0.00 % de descuento'
-date: 2021-03-15 10:19:06
+date: 2021-03-16 10:38:33
 image: 'https://m.media-amazon.com/images/I/51-FVgLMAAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [Disney Maleficent Fairy Aurora Sleeping Beauty lona gran bolsa](https://w
 ℹ️:
 
 - Artículo nuevo
-- Material: inespecífico
 - Producto oficial
-- Color: multicolor
+- Material: inespecífico
 - Aurora Fairy Maléfica Disney - Bolsa de lona
+- Color: multicolor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00KB8C6QC/?tag=tolees-21)

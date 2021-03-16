@@ -29,7 +29,7 @@ En este momento está [Rinti Pur - Jamón para Perros  12 Unidades  12 x 800 g ]
 🔎:
 
 - Enriquecido con vitaminas y minerales en un equilibrio equilibrado.
-- Sin carne moldeada – sin harina de carne – sin subproductos animales.
 - Sin soja, sin colorantes.
+- Sin carne moldeada – sin harina de carne – sin subproductos animales.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B001MZV3P8/?tag=tolees-21)

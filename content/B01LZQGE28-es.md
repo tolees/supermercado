@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dual Power Detergente suelos Menta y Lim con un 0.00 % de descuento'
-date: 2021-03-15 10:13:39
+date: 2021-03-16 10:52:34
 image: 'https://m.media-amazon.com/images/I/413AmfCKiML._SL400_.jpg'
 comments: true
 category: ofertas
