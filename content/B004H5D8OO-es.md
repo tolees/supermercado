@@ -28,7 +28,7 @@ En este momento está [Lip Smacker Lip Smacker Coca Cola Balm Classic 4Gr - 1 Un
 
 🔎:
 
-- One Size
 - Lip Smacker Coca Cola Lip Balm, Classic
+- One Size
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004H5D8OO/?tag=tolees-21)

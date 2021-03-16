@@ -29,9 +29,9 @@ Tienes [King C Gillette - King C. Gillette Recortadora de Barba y Cortapelos Ina
 🔎:
 
 - Con tecnología Braun de recorte de barba
-- Batería recargable con 50 minutos de autonomía por carga
-- Hojas afiladas de larga duración para obtener excelentes resultados
 - Incluye un cabezal, peines lavables, escobilla de limpieza y cargador
 - 3 cabezales para todos los estilos de barba: barba de tres días (1 mm), corta (3-11 mm) y larga (13-21 mm)
+- Hojas afiladas de larga duración para obtener excelentes resultados
+- Batería recargable con 50 minutos de autonomía por carga
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08B959QTP/?tag=tolees-21)

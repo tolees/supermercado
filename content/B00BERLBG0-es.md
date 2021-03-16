@@ -28,10 +28,10 @@ Tienes [Connemara Peated Single Malt Whisky Irlandes 40%  700ml](https://www.ama
 
 ℹ️:
 
+- País de origen: Irlanda
+- Sabor: miel, en lugar de humo de hollín con notas vegetales turbias, agua dulce de cebada, especias ligeras y roble de vainilla
+- Aroma: cebada dulce con humo de turba, arenques y migajas de manzana bien horneadas
 - Contenido de alcohol 40%
 - Tiempo de envejecimiento en barril: 12 años
-- Sabor: miel, en lugar de humo de hollín con notas vegetales turbias, agua dulce de cebada, especias ligeras y roble de vainilla
-- País de origen: Irlanda
-- Aroma: cebada dulce con humo de turba, arenques y migajas de manzana bien horneadas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BERLBG0/?tag=tolees-21)
