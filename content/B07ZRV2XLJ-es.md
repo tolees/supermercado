@@ -28,9 +28,9 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Selección de bombones de chocola
 
 🔎:
 
-- Fabricado en Bélgica
-- Apto para dietas vegetarianas
 - Contiene alcohol
+- Apto para dietas vegetarianas
+- Fabricado en Bélgica
 - Surtido de bombones de chocolate con rellenos variados
 - RAINFOREST ALLIANCE CERTIFIED: El cacao que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: come mejor, hazlo mejor
 
