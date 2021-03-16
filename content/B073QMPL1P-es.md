@@ -30,8 +30,8 @@ Está [#Cervezanía - Pack completo para elaborar cerveza en casa | Kit Pale Ale
 
 - ➡️ Pack completo para elaborar cerveza artesana en casa. Kit Pale Ale y Set de botellines y chapas. Todos los materiales reutilizables. ¿Más cerveza artesana? 🍻 Muy fácil: elige la recarga de materias primas de la receta que desees.
 - 🥇 ¿Qué nos hace diferentes? Con los kits y recargas Cervezanía vas a elaborar cerveza artesana con la mejor malta del mundo, malta The Swaen, la misma que usan las mejores cerveceras. Máxima calidad en tus fogones.
-- 🍺 Con esta receta elaborarás una cerveza de color ambarino intenso y espuma blanca. En nariz se fusionan las notas afrutadas características de las cervezas de fermentación alta con los recuerdos de la malta caramelizada. Se trata de una cerveza muy equilibrada, ligera y de trago largo. Una cerveza para todos. Una cerveza pensada para sentar a la mesa. 5,6 % ABV. Color 16 EBC. Amargor 27 IBU.
-- 👍 Kit todo grano. 8 sencillos pasos. Sin conocimientos previos. El mejor kit para iniciarse en el mundo homebrewer.
 - ⚒️ ¿Qué incluye el kit? Mix de maltas de cebada molida 1400g.; 3 sobres de lúpulo 9.5g.; 1 sobre levadura ale 3g.; sanitizer 8g.; 21 chapas corona 26mm.; chapadora de martillo; cubo fermentador con tapadera, grifo y juntas; airlock; termómetro digital; manual de instrucciones.
+- 👍 Kit todo grano. 8 sencillos pasos. Sin conocimientos previos. El mejor kit para iniciarse en el mundo homebrewer.
+- 🍺 Con esta receta elaborarás una cerveza de color ambarino intenso y espuma blanca. En nariz se fusionan las notas afrutadas características de las cervezas de fermentación alta con los recuerdos de la malta caramelizada. Se trata de una cerveza muy equilibrada, ligera y de trago largo. Una cerveza para todos. Una cerveza pensada para sentar a la mesa. 5,6 % ABV. Color 16 EBC. Amargor 27 IBU.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073QMPL1P/?tag=tolees-21)
