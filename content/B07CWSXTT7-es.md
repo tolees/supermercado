@@ -29,8 +29,8 @@ Ahora mismo tienes [Chocolate Amatller - Chocolates variados en Cesta Regalo 230
 🔎:
 
 - Ideal para regalar. Detalles con clase.
-- Elaboración con ingredientes de calidad y producción bean to bar, desde el haba de cacao.
 - Marca histórica de Barcelona, desde 1797.
+- Elaboración con ingredientes de calidad y producción bean to bar, desde el haba de cacao.
 - Sin gluten. Sin aceite de palma.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CWSXTT7/?tag=tolees-21)

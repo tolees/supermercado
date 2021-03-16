@@ -28,8 +28,8 @@ Ahora mismo tienes [Purina Felix Fantastic comida para gato surtido variado Pack
 
 🔎:
 
-- Paquete de 44 unidades
 - Atún en gelatina
+- Paquete de 44 unidades
 - Con extractos de proteínas vegetales
 - Calidad adecuada de la comida garantizada por el fabricante
 

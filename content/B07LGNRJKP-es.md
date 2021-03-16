@@ -28,10 +28,10 @@ Ahora mismo tienes [Ariel Detergente Líquido para Lavadora  Poder Quitamanchas 
 
 🔎:
 
-- Este detergente líquido aporta a tu ropa un extra de frescor
-- Botella 100 % reciclable
 - Blancos más blancos
+- Este detergente líquido aporta a tu ropa un extra de frescor
 - Por razones medioambientales, las botellas no cuentan con un tapón medidor
 - Detergente líquido con un poder quitamanchas desde el primer lavado, incluso a 30 °C
+- Botella 100 % reciclable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LGNRJKP/?tag=tolees-21)

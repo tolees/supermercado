@@ -28,12 +28,12 @@ En este momento está [Tierra De Jamón Estuche Gourmet 2980 g](https://www.amaz
 
 🔎:
 
-- Ingredientes: Bebidas, Embutidos y Aceites
-- La venta de alcohol a menores de 18 años está prohibida; se recomienda consumo responsable
-- Los estuches Ibéricos se presentan en PLATO CIRCULAR, envasado en Sacovitta, LISTO PARA ABRIR Y EMPLATAR Abrir el sobre para que el producto adquiera temperatura ambiente y se airee
-- En caso de rotura de stock, se sustituirá cualquier producto por otro de igual o superior categoría y precio, sin coste adicional
-- Las añadas de los vinos serán las vigentes actualizadas en bodega
 - Instrucciones para su uso adecuado: No se cocina
+- Las añadas de los vinos serán las vigentes actualizadas en bodega
+- La venta de alcohol a menores de 18 años está prohibida; se recomienda consumo responsable
 - Vea la composición detallada del lote abajo en la descripción
+- Ingredientes: Bebidas, Embutidos y Aceites
+- En caso de rotura de stock, se sustituirá cualquier producto por otro de igual o superior categoría y precio, sin coste adicional
+- Los estuches Ibéricos se presentan en PLATO CIRCULAR, envasado en Sacovitta, LISTO PARA ABRIR Y EMPLATAR Abrir el sobre para que el producto adquiera temperatura ambiente y se airee
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KHRDVNF/?tag=tolees-21)
