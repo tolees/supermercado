@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revitale - Jabón exfoliante con ácido sa al 0.00 % de descuento'
-date: 2021-03-14 23:30:59
+date: 2021-03-16 04:24:18
 image: 'https://m.media-amazon.com/images/I/31SVBkGoY7L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Revitale - Jabón exfoliante con ácido salicílico poro exfoliante  luch
 
 ℹ️:
 
-- Especialmente formulado para suavizar los callos y alisar la piel áspera.
-- Ayuda a prevenir las manchas de acné al destapar la piel congestionada.
-- Revitale Salicylic Acid Scrub Soap contiene granos de albaricoque que trabajan con el jabón para limpiar a fondo los aceites y las toxinas excesivos que conducen a los brotes de acné.
 - Exfoliante de poros, lucha contra el acné, piel suavizante, antimanchas, elimina las verrugas
+- Ayuda a prevenir las manchas de acné al destapar la piel congestionada.
 - Deja la piel sintiéndose completamente limpia, sin aceite y refrescada.
+- Especialmente formulado para suavizar los callos y alisar la piel áspera.
+- Revitale Salicylic Acid Scrub Soap contiene granos de albaricoque que trabajan con el jabón para limpiar a fondo los aceites y las toxinas excesivos que conducen a los brotes de acné.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XW6GCD6/?tag=tolees-21)
