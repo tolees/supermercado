@@ -28,8 +28,8 @@ Está [Central Lechera Asturiana Leche Entera  6 x 1.5L](https://www.amazon.es/d
 
 ℹ️:
 
-- Tradicional
 - Leche UHT
+- Tradicional
 - Entera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ITRIOCG/?tag=tolees-21)

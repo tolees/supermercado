@@ -28,9 +28,9 @@ En este momento está [Productos San Diego Palmeritas de Chocolate - 1500 gr](ht
 
 🔎:
 
-- Palmeritas de chocolate
-- Palmeritas de hojaldre cubiertas de una deliciosa capa de chocolate.
 - Bollería tradicional
 - Mantener en lugar fresco y seco
+- Palmeritas de chocolate
+- Palmeritas de hojaldre cubiertas de una deliciosa capa de chocolate.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BGFY8WV/?tag=tolees-21)

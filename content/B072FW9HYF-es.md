@@ -29,9 +29,9 @@ Tienes [Fluchos | Mocasín de Hombre | Clipper 9578 Cidacos Libano Zapatos Confo
 🔎:
 
 - MATERIALES: Piel de ternera de primera calidad y Piso de goma personalizado
+- COLOR: Marrón
 - TACÓN: Plano
 - CIERRE: Elásticos
 - CUIDADO DEL PRODUCTO: Lavado con paño húmedo. Es aconsejable utilizar cremas incoloras que no modifiquen el color natural de la piel. No utilizar productos agresivos con la piel, ni betún de color, pueden ser muy perjudiciales.
-- COLOR: Marrón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072FW9HYF/?tag=tolees-21)

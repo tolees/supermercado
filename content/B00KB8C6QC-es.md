@@ -28,10 +28,10 @@ Está [Disney Maleficent Fairy Aurora Sleeping Beauty lona gran bolsa](https://w
 
 ℹ️:
 
-- Artículo nuevo
-- Producto oficial
 - Material: inespecífico
 - Aurora Fairy Maléfica Disney - Bolsa de lona
+- Artículo nuevo
+- Producto oficial
 - Color: multicolor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00KB8C6QC/?tag=tolees-21)
