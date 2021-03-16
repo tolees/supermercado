@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Primal Pantry Barritas Energeticas   con un 0.00 % de descuento'
-date: 2021-03-14 16:56:00
+date: 2021-03-15 23:38:42
 image: 'https://m.media-amazon.com/images/I/61RAPh-CBEL._SL400_.jpg'
 comments: true
 category: ofertas

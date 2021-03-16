@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jabón Lux Buena 125g Sol Día al 0.00 % de rebaja'
-date: 2021-03-06 18:21:58
+date: 2021-03-15 23:57:29
 image: 'https://m.media-amazon.com/images/I/41ZTRsFvkwL._SL400_.jpg'
 comments: true
 category: ofertas
