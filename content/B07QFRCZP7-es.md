@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Dulcesol Hazelnut cake - 5 x 225 gr al 0.00 % de descuento'
-date: 2021-03-15 22:55:11
+date: 2021-03-17 04:33:30
 image: 'https://m.media-amazon.com/images/I/41v81YDivzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFRCZP7-es Dulcesol Hazelnut cake - 5 x 225 gr'
 sku: 'B07QFRCZP7-es'
 tags: [ 'dulcesol', ]
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dulcesol'
 buyurl: 'https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21'
 descuento: '0.00'
-average: '1.63333333333333'
+average: '1.625'
 ---
 
 Ahora mismo tienes [Dulcesol Hazelnut cake - 5 x 225 gr](https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21) a 1.6 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Dulcesol Hazelnut cake - 5 x 225 gr](https://www.amazon.es/d
 
 🔎:
 
-- Contiene 5 unidades envasadas individuamente
-- Gama Black, nuestra gama más premium para los paladares más exigentes
 - Delicioso y esponjoso pastel con relleno de crema de trufa
+- Gama Black, nuestra gama más premium para los paladares más exigentes
+- Contiene 5 unidades envasadas individuamente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21)

@@ -1,17 +1,17 @@
 ---
 layout: post
 title: 'Gallo Spaghetti No.3  500g con un 0.00 % de descuento'
-date: 2021-03-15 22:53:24
+date: 2021-03-17 04:29:59
 image: 'https://m.media-amazon.com/images/I/41aO5aH14BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LN3CD58-es Gallo Spaghetti No.3 500g'
 sku: 'B00LN3CD58-es'
-tags: [ 'spaghetti', ]
-actualPrice: 0.93 EUR
+tags: [ 'gallo','spaghetti', ]
+actualPrice: 0.97 EUR
 currency: EUR
-price: 0.93
+price: 0.97
 comparePrice:  EUR
 prodname: 'Gallo Spaghetti No.3  500g'
 country: 'es'
@@ -19,18 +19,18 @@ flag: '🇪🇸'
 brand: 'Gallo'
 buyurl: 'https://www.amazon.es/dp/B00LN3CD58/?tag=tolees-21'
 descuento: '0.00'
-average: '0.878407407407405'
+average: '0.879080882352939'
 ---
 
-En este momento está [Gallo Spaghetti No.3  500g](https://www.amazon.es/dp/B00LN3CD58/?tag=tolees-21) a 0.93 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
+En este momento está [Gallo Spaghetti No.3  500g](https://www.amazon.es/dp/B00LN3CD58/?tag=tolees-21) a 0.97 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
 
 [![Gallo Spaghetti No.3  500g](https://m.media-amazon.com/images/I/41aO5aH14BL._SL400_.jpg)](https://www.amazon.es/dp/B00LN3CD58/?tag=tolees-21)
 
 🔎:
 
-- Puede contener trazas de huevo
-- Advertencia alergénica: contiene trigo, huevo
 - Tiempos de cocciónn: 8 minutos al punto, 10 minutos suave
 - La pasta no se pega
+- Puede contener trazas de huevo
+- Advertencia alergénica: contiene trigo, huevo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00LN3CD58/?tag=tolees-21)

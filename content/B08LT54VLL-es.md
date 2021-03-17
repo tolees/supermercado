@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Rc Ocio - Cesta Navidad de regalo Lote R al 0.00 % de rebaja'
-date: 2021-03-16 04:54:53
+date: 2021-03-17 05:11:48
 image: 'https://m.media-amazon.com/images/I/51WdSz3Fx0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08LT54VLL-es Rc Ocio - Cesta Navidad de regalo Lote Riojano gourmet /...'
 sku: 'B08LT54VLL-es'
-tags: [ 'conservas','vino','tinto', ]
+tags: [ 'conservas','rc ocio','tinto','vino', ]
 actualPrice: 144.95 EUR
 currency: EUR
 price: 144.95
@@ -28,10 +28,10 @@ Tienes [Rc Ocio - Cesta Navidad de regalo Lote Riojano gourmet / Cestas de Navid
 
 🔎:
 
-- ➡️ LOTE GOURMET : ¿QUÉ CONSERVAS INCLUYE? Aceite de Oliva Virgen extra, Tarro Bonito, Tarro Boletus,Tarro pimiento Jajerano ,Tarro puerro extra, Menestra de verduras ,Tarro atún en aceite de Oliva, Tarro de Gulas, lata Pate gloria, Conserva Cardo, Alcachofa  Tarro yema de Esparragos ,Tarro pimiento piquillo
+- ➡️ LOTE NAVIDAD: ¿QUÉ EMBUTIDOS INCLUYE? Sarta de Chorizo gourmet de la zona Riojana , totalmente artesanal. Sarta Salchichón gourmet casero Riojano.Bandeja Jamon 200 gramos Sarta embutido de caza
 - ➡️ LOTE GOURMET NAVIDAD : ¿QUÉ BEBIDAS INCLUYE? Vino tinto joven Dorioja, Vino Claro Señorio Riojano, Vino tinto Rioja crianza, Vino Blanco Verdejo, Cava Brut, Vermouth y -Botella moscato Veronica.
 - ➡️ LOTE NAVIDAD BARATOS Selección de productos autóctonos de la zona al alcance de todos los bolsillo, Ideales para regalar en fiestas de navidad a empresas y familiares.
-- ➡️ LOTE NAVIDAD: ¿QUÉ EMBUTIDOS INCLUYE? Sarta de Chorizo gourmet de la zona Riojana , totalmente artesanal. Sarta Salchichón gourmet casero Riojano.Bandeja Jamon 200 gramos Sarta embutido de caza
 - ➡️ CESTA NAVIDAD GOURMET DE PRODUCTO DE LA RIOJA Y NORTE DE ESPAÑA: increible lote de navidad gourmet selección de productos riojanos, seleccionando los productos más típicos de cada zona. Cesta de navidad de calidad .
+- ➡️ LOTE GOURMET : ¿QUÉ CONSERVAS INCLUYE? Aceite de Oliva Virgen extra, Tarro Bonito, Tarro Boletus,Tarro pimiento Jajerano ,Tarro puerro extra, Menestra de verduras ,Tarro atún en aceite de Oliva, Tarro de Gulas, lata Pate gloria, Conserva Cardo, Alcachofa  Tarro yema de Esparragos ,Tarro pimiento piquillo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08LT54VLL/?tag=tolees-21)
