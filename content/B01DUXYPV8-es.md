@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DUXYPV8-es Central Lechera Asturiana - Nata Montada Azucarada para...'
 sku: 'B01DUXYPV8-es'
-tags: [ 'Afeitado y depilación','Alimentación y bebidas','Bebidas espirituosas y licores','Belleza','Cervezas, vinos y licores','Cestas regalo y regalos gourmet','Cremas para manos y uñas','Cubertería, Vajilla y Cristalería','Cuidado y limpieza del hogar','Cuidados pre-depilación y afeitado','Decoración del hogar','Delineadores de ojos','Detergente líquido para textiles','Espumas en Cuidados pre-depilación y afeitado','Hogar y cocina','Iluminación','Iluminación de ambiente infantil','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Iluminación nocturna de interior','Lámparas e iluminación infantil','Manicura y pedicura','Maquillaje','Maquillaje para ojos','Papel higiénico','Piezas de vajilla','Productos para el cuidado de la piel','Productos para el cuidado de las manos y de los pies','Productos para la lavandería','Rollos de cocina, papel higiénico y pañuelos de papel','Ropa','Salud y cuidado personal','Sets y juegos para el cuidado de la piel','Suavizante líquido','Tazas','Tazas de té','Velas','Velas en frasco','Velas y candelabros','Whisky','central','lechera', ]
+tags: [ 'Afeitado manual','Afeitado manual de hombre','Afeitado y depilación','Alimentación y bebidas','Bebidas espirituosas y licores','Belleza','Cervezas, vinos y licores','Cestas regalo y regalos gourmet','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Cremas para manos y uñas','Cuchillas de afeitar para hombre','Cuidado y limpieza del hogar','Cuidados pre-depilación y afeitado','Decoración del hogar','Delineadores de ojos','Espumas en Cuidados pre-depilación y afeitado','Hogar y cocina','Manicura y pedicura','Maquillaje','Maquillaje para ojos','Papel higiénico','Productos para el cuidado de la piel','Productos para el cuidado de las manos y de los pies','Productos para la lavandería','Rollos de cocina, papel higiénico y pañuelos de papel','Ropa','Salud y cuidado personal','Sets y juegos para el cuidado de la piel','Suavizante líquido','Tablas de cortar','Utensilios de cocina','Velas','Velas en frasco','Velas y candelabros','Whisky','central','lechera', ]
 actualPrice: None None
 currency: None
 price: None
@@ -30,7 +30,7 @@ En este momento está [Central Lechera Asturiana - Nata Montada Azucarada para M
 
 - España
 - Agitar fuertemente antes de usar , 2 o 3 segundos.
-- Nata (leche), azúcar (8,5%), emulgente (E-472b), corrector de acidez (E-339), estabilizante (E-407), gas propelente (N2O)
 - Leche UHT
+- Nata (leche), azúcar (8,5%), emulgente (E-472b), corrector de acidez (E-339), estabilizante (E-407), gas propelente (N2O)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01DUXYPV8/?tag=tolees-21)

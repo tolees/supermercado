@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08H2F8DKD-es Jack & Jones – Jersey de punto con cuello en V Beige...'
 sku: 'B08H2F8DKD-es'
-tags: [ 'Afeitado y depilación','Belleza','Cremas para manos y uñas','Cuidado y limpieza del hogar','Cuidados pre-depilación y afeitado','Espumas en Cuidados pre-depilación y afeitado','Manicura y pedicura','Papel higiénico','Productos para el cuidado de la piel','Productos para el cuidado de las manos y de los pies','Productos para la lavandería','Rollos de cocina, papel higiénico y pañuelos de papel','Ropa','Salud y cuidado personal','Sets y juegos para el cuidado de la piel','Suavizante líquido','jack & jones','oatmeal', ]
+tags: [ 'Afeitado manual','Afeitado manual de hombre','Afeitado y depilación','Belleza','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Cremas para manos y uñas','Cuchillas de afeitar para hombre','Cuidado y limpieza del hogar','Cuidados pre-depilación y afeitado','Espumas en Cuidados pre-depilación y afeitado','Hogar y cocina','Manicura y pedicura','Papel higiénico','Productos para el cuidado de la piel','Productos para el cuidado de las manos y de los pies','Productos para la lavandería','Rollos de cocina, papel higiénico y pañuelos de papel','Ropa','Salud y cuidado personal','Sets y juegos para el cuidado de la piel','Suavizante líquido','Tablas de cortar','Utensilios de cocina','jack & jones','oatmeal', ]
 actualPrice: 25.41 EUR
 currency: EUR
 price: 25.41

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084N4FSL5-es AXE Bodyspray Desodorante Leather and Cookies 200 ml -...'
 sku: 'B084N4FSL5-es'
-tags: [ 'Afeitado y depilación','Alimentación y bebidas','Baño e higiene personal','Bebidas espirituosas y licores','Belleza','Cervezas, vinos y licores','Cestas regalo y regalos gourmet','Cremas para manos y uñas','Cubertería, Vajilla y Cristalería','Cuidado y limpieza del hogar','Cuidados pre-depilación y afeitado','Decoración del hogar','Delineadores de ojos','Desodorantes','Detergente líquido para textiles','Espumas en Cuidados pre-depilación y afeitado','Hogar y cocina','Iluminación','Iluminación de ambiente infantil','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Iluminación nocturna de interior','Lámparas e iluminación infantil','Manicura y pedicura','Maquillaje','Maquillaje para ojos','Papel higiénico','Piezas de vajilla','Productos para el cuidado de la piel','Productos para el cuidado de las manos y de los pies','Productos para la lavandería','Rollos de cocina, papel higiénico y pañuelos de papel','Ropa','Salud y cuidado personal','Sets y juegos para el cuidado de la piel','Suavizante líquido','Tazas','Tazas de té','Velas','Velas en frasco','Velas y candelabros','Whisky','axe','desodorante', ]
+tags: [ 'Afeitado manual','Afeitado manual de hombre','Afeitado y depilación','Alimentación y bebidas','Baño e higiene personal','Bebidas espirituosas y licores','Belleza','Cervezas, vinos y licores','Cestas regalo y regalos gourmet','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Cremas para manos y uñas','Cuchillas de afeitar para hombre','Cuidado y limpieza del hogar','Cuidados pre-depilación y afeitado','Decoración del hogar','Delineadores de ojos','Desodorantes','Espumas en Cuidados pre-depilación y afeitado','Hogar y cocina','Manicura y pedicura','Maquillaje','Maquillaje para ojos','Papel higiénico','Productos para el cuidado de la piel','Productos para el cuidado de las manos y de los pies','Productos para la lavandería','Rollos de cocina, papel higiénico y pañuelos de papel','Ropa','Salud y cuidado personal','Sets y juegos para el cuidado de la piel','Suavizante líquido','Tablas de cortar','Utensilios de cocina','Velas','Velas en frasco','Velas y candelabros','Whisky','axe','desodorante', ]
 actualPrice: 25.02 EUR
 currency: EUR
 price: 25.02
@@ -29,8 +29,8 @@ Tienes [AXE Bodyspray Desodorante Leather and Cookies 200 ml - Pack de 6](https:
 ℹ️:
 
 - Mantente fresco por más tiempo
-- Cuero y cookies: dos ingredientes que chocan y que parece que no funcionen, pero que crean una fragancia
 - AXE Desodorante Bodyspray Leather & Cookies 200ml
+- Cuero y cookies: dos ingredientes que chocan y que parece que no funcionen, pero que crean una fragancia
 - Axe Leather & Cookies, no debería funcionar pero funciona
 - Una mezcla inesperada de cuero y cookies, con toques de mandarina, cardamomo y cuero
 
