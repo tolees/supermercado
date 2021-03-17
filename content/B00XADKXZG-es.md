@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Elena Detergente para lavadora  adecuado'
-date: 2021-03-16 04:14:10
+date: 2021-03-17 10:59:42
 image: 'https://m.media-amazon.com/images/I/51jw6fpixzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XADKXZG-es Elena Detergente para lavadora adecuado para ropa blanca y...'
 sku: 'B00XADKXZG-es'
-tags: [ 'detergente', ]
+tags: [ 'Cuidado y limpieza del hogar','Detergente en polvo para textiles','Productos para la lavandería','Salud y cuidado personal','detergente','elena', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75
@@ -28,10 +28,10 @@ Tienes [Elena Detergente para lavadora  adecuado para ropa blanca y de color  fo
 
 ℹ️:
 
-- Detergente para la lavadora en formato polvo
-- Apto para ropa blanca y de color
-- Elena, la eficacia que sorprende
-- Poder antimanchas testado en 101 manchas
 - Eficaz en agua fría y ciclos cortos
+- Apto para ropa blanca y de color
+- Poder antimanchas testado en 101 manchas
+- Detergente para la lavadora en formato polvo
+- Elena, la eficacia que sorprende
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XADKXZG/?tag=tolees-21)
