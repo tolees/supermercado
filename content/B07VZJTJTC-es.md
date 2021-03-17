@@ -1,32 +1,39 @@
 ---
 layout: post
-title: 'Mo Salinas Vino Tinto - Paquete de 6 x 7 al 5.72 % de descuento'
-date: 2020-08-27 19:37:22
+title: 'Mo Salinas Vino Tinto - Paquete de 6 x 7 al 42.18 % de descuento'
+date: 2021-03-17 18:44:04
 image: 'https://m.media-amazon.com/images/I/41hQk3uhV8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07VZJTJTC-es Mo Salinas Vino Tinto - Paquete de 6 x 750 ml - Total: 4500ml'
 sku: 'B07VZJTJTC-es'
-tags: [ 'Afeitado manual','Afeitado manual de hombre','Afeitado y depilación','Alimentación y bebidas','Bebidas espirituosas y licores','Belleza','Cervezas, vinos y licores','Cestas regalo y regalos gourmet','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Cremas para manos y uñas','Cuchillas de afeitar para hombre','Cuidado y limpieza del hogar','Cuidados pre-depilación y afeitado','Decoración del hogar','Delineadores de ojos','Espumas en Cuidados pre-depilación y afeitado','Hogar y cocina','Manicura y pedicura','Maquillaje','Maquillaje para ojos','Papel higiénico','Productos para el cuidado de la piel','Productos para el cuidado de las manos y de los pies','Productos para la lavandería','Rollos de cocina, papel higiénico y pañuelos de papel','Ropa','Salud y cuidado personal','Sets y juegos para el cuidado de la piel','Suavizante líquido','Tablas de cortar','Utensilios de cocina','Velas','Velas en frasco','Velas y candelabros','Whisky','tinto','vino', ]
-actualPrice: 26.85 EUR
+tags: [ 'Alimentación y bebidas','Cervezas, vinos y licores','Decoración del hogar','Hogar y cocina','Velas','Velas en frasco','Velas y candelabros','Vinos','Vinos blancos','mo salinas','tinto','vino', ]
+actualPrice: 20.47 EUR
 currency: EUR
-price: 26.85
-comparePrice: 28.48 EUR
+price: 20.47
+comparePrice: 35.4 EUR
 prodname: 'Mo Salinas Vino Tinto - Paquete de 6 x 750 ml - Total: 4500ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Mo Salinas'
 buyurl: 'https://www.amazon.es/dp/B07VZJTJTC/?tag=tolees-21'
-descuento: '5.72'
-average: '31.869999999999997'
+descuento: '42.18'
+average: '29.02'
 ---
 
-Ahora mismo tienes [Mo Salinas Vino Tinto - Paquete de 6 x 750 ml - Total: 4500ml](https://www.amazon.es/dp/B07VZJTJTC/?tag=tolees-21) a 26.85 EUR (original: 28.48 EUR) (5.72 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Mo Salinas Vino Tinto - Paquete de 6 x 750 ml - Total: 4500ml](https://www.amazon.es/dp/B07VZJTJTC/?tag=tolees-21) a 20.47 EUR (original: 35.4 EUR) (42.18 %  de descuento) en el siguiente enlace!
 
 [![Mo Salinas Vino Tinto - Paquete de 6 x 7](https://m.media-amazon.com/images/I/41hQk3uhV8L._SL400_.jpg)](https://www.amazon.es/dp/B07VZJTJTC/?tag=tolees-21)
 
 🔎:
 
+- Elaborado en Bodegas Sierra Salinas
+- Maridaje con arroz, pizza, ensaladas
+- 85% Monastrell, 10% Garnacha, 5% Cabernet
+- Contenido de alcohol (alc/vol): 14.0 porcentaje por volumen
+- Color rojo intenso capa media
+- 85% Monastrell, 10% Garnacha, 5% Cabernet
+- Volumen: 0.75 litros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VZJTJTC/?tag=tolees-21)
