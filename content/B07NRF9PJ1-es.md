@@ -28,9 +28,9 @@ Está [Fa - Desodorante Roll-On Pink Passion Anti-Transpirante Suave con la piel
 
 ℹ️:
 
-- No contiene sales de aluminio
 - Tiene aroma floral
 - Desodorante con 48h de protección contra la transpiración
 - Se aplica sobre la piel seca
+- No contiene sales de aluminio
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NRF9PJ1/?tag=tolees-21)

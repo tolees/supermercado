@@ -28,10 +28,10 @@ Ahora mismo tienes [Schwarzkopf Palette Intensive Creme Color - ME1 Mechas  Pack
 
 🔎:
 
-- Coloración permanente enriquecida con aceites naturales: el tratamiento de cuidado con Aceite Natural de Marula suaviza la superficie del cabello y proporciona un brillo sensacional
-- Para unas mechas y reflejos naturales; aclara hasta 6 tonos
-- La crema colorante con pigmentos de color altamente eficaces proporciona un color vivo, radiante y duradero hasta 8 semanas
 - Penetra profundamente en el núcleo del cabello sellando los altamente eficaces pigmentos de color
 - Descubre la coloración permanente de cuidado Palette Intensive Creme Color con perfecta cobertura de canas para un color duradero y un brillo sensacional en tu cabello
+- Para unas mechas y reflejos naturales; aclara hasta 6 tonos
+- Coloración permanente enriquecida con aceites naturales: el tratamiento de cuidado con Aceite Natural de Marula suaviza la superficie del cabello y proporciona un brillo sensacional
+- La crema colorante con pigmentos de color altamente eficaces proporciona un color vivo, radiante y duradero hasta 8 semanas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08XR4YVN2/?tag=tolees-21)
