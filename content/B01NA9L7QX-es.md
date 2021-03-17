@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NA9L7QX-es Harrington s - Harrington Comida para Gatos Completa con...'
 sku: 'B01NA9L7QX-es'
-tags: [ 'Alimentación y bebidas','Artículos para gatos','Cervezas, vinos y licores','Comida húmeda para gatos','Comida para gatos','Decoración del hogar','Hogar y cocina','Productos para mascotas','Velas','Velas en frasco','Velas y candelabros','Vinos','Vinos blancos','arroz','harringtons', ]
+tags: [ 'Alimentación y bebidas','Artículos para gatos','Belleza','Cervezas','Cervezas, vinos y licores','Comida húmeda para gatos','Comida para gatos','Decoración del hogar','Geles y espumas para limpieza facial','Hogar y cocina','Limpiadores faciales','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Productos para mascotas','Velas','Velas en frasco','Velas y candelabros','Vinos','Vinos blancos','arroz','harringtons', ]
 actualPrice: 9.4 EUR
 currency: EUR
 price: 9.4
