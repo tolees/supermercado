@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Jabón Lux Buena 125g Sol Día al 0.00 % de rebaja'
-date: 2021-03-15 23:57:29
+date: 2021-03-17 06:01:59
 image: 'https://m.media-amazon.com/images/I/41ZTRsFvkwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08L4GHLFL-es Jabón Lux Buena 125g Sol Día'
 sku: 'B08L4GHLFL-es'
-tags: [ 'jabón', ]
+tags: [ 'jabón','lux', ]
 actualPrice: 0.69 EUR
 currency: EUR
 price: 0.69
