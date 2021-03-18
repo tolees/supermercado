@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Nescafé DOLCE GUSTO Variety Pack - 3 Est con un 15.00 % de descuento'
-date: 2021-03-15 08:03:50
+date: 2021-03-18 20:15:56
 image: 'https://m.media-amazon.com/images/I/41xHXYPevBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GTCBCPP-es Nescafé DOLCE GUSTO Variety Pack - 3 Estuches Espresso...'
 sku: 'B08GTCBCPP-es'
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','café','dolce','gusto','nescafé','nescafé dolce gusto', ]
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nescafé Dolce Gusto'
 buyurl: 'https://www.amazon.es/dp/B08GTCBCPP/?tag=tolees-21'
 descuento: '15.00'
-average: '23.8363636363636'
+average: '23.8307692307692'
 ---
 
 En este momento está [Nescafé DOLCE GUSTO Variety Pack - 3 Estuches Espresso Intenso y 3 Estuches Café Con Leche - Total: 96 Cápsulas](https://www.amazon.es/dp/B08GTCBCPP/?tag=tolees-21) a 23.8 EUR (original: 28.0 EUR) (15.00 %  de descuento) en el siguiente enlace!
@@ -27,9 +28,9 @@ En este momento está [Nescafé DOLCE GUSTO Variety Pack - 3 Estuches Espresso I
 
 🔎:
 
-- Cotiene 96 cápsulas
-- Contiene 3 estuches de espresso intenso y 3 estuches de café con leche
 - Café gourmet con el sabor Nescafé Dolce Gusto
+- Contiene 3 estuches de espresso intenso y 3 estuches de café con leche
+- Cotiene 96 cápsulas
 - El sellado hermético mantiene el café fresco conservando las aromas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GTCBCPP/?tag=tolees-21)
