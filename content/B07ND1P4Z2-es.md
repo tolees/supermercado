@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Legado Ibérico Jamón de Pavo con Trufa y al 0.00 % de descuento'
-date: 2021-03-17 22:37:42
+date: 2021-03-18 22:42:09
 image: 'https://m.media-amazon.com/images/I/41tv4QjMYzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07ND1P4Z2-es Legado Ibérico Jamón de Pavo con Trufa y Boletus Artesana...'
 sku: 'B07ND1P4Z2-es'
+tags: [ 'Alimentación y bebidas','Carnes, caza y aves','Fiambres y embutidos','jamón','legado ibérico','pavo', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0
