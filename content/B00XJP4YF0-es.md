@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XJP4YF0-es NB Palmolive Leche y Miel Gel de Ducha o Baño - 250 ml'
 sku: 'B00XJP4YF0-es'
-tags: [ 'Geles de ducha','de','ducha','gel','palmolive', ]
+tags: [ 'Baño e higiene personal','Belleza','Geles de ducha','Limpieza personal','de','ducha','gel','palmolive', ]
 actualPrice: 0.88 EUR
 currency: EUR
 price: 0.88

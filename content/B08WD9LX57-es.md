@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08WD9LX57-es Ymea Vientre Plano - Tratamiento de la Menopausia Control...'
 sku: 'B08WD9LX57-es'
-tags: [ 'Tonificantes y moldeadores','lactacyd','ymea', ]
+tags: [ 'Belleza','Productos para el cuidado de la piel','Productos para el cuidado de la piel corporal','Tonificantes y moldeadores','lactacyd','ymea', ]
 actualPrice: 24.13 EUR
 currency: EUR
 price: 24.13

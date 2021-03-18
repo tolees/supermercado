@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BBQ7QGS-es Babaria - Jabón De Manos de Coco&Aloe Blanco 500 ml'
 sku: 'B00BBQ7QGS-es'
-tags: [ 'Limpieza personal','babaria','jabón', ]
+tags: [ 'Baño e higiene personal','Belleza','Limpieza personal','babaria','jabón', ]
 actualPrice: 1.65 EUR
 currency: EUR
 price: 1.65
@@ -28,10 +28,10 @@ Ahora mismo tienes [Babaria - Jabón De Manos de Coco&Aloe  Blanco  500 ml](http
 
 🔎:
 
-- Tipo de piel: Todas
-- Este producto está indicado tanto para mujeres como para hombres
 - 500 g
 - facil de usar
+- Este producto está indicado tanto para mujeres como para hombres
 - Número de modelo del producto: 8410412027021
+- Tipo de piel: Todas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BBQ7QGS/?tag=tolees-21)

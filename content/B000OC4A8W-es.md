@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000OC4A8W-es Max Factor Lipfinity Classic Pintalabios Tono 102...'
 sku: 'B000OC4A8W-es'
-tags: [ 'Pintalabios','factor','max','max factor', ]
+tags: [ 'Belleza','Maquillaje','Maquillajes labiales','Pintalabios','factor','max','max factor', ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8
@@ -28,8 +28,8 @@ En este momento está [Max Factor Lipfinity Classic Pintalabios Tono 102 Glisten
 
 🔎:
 
-- Marca : Max Factor
-- Tipo de producto: pintalabios
 - Género : mujer
+- Tipo de producto: pintalabios
+- Marca : Max Factor
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000OC4A8W/?tag=tolees-21)
