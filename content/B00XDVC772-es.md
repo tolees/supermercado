@@ -28,13 +28,13 @@ Ahora mismo tienes [Foxy - Papel Higienico Supersoft 26 + 6R](https://www.amazon
 
 🔎:
 
-- Resistencia
 - Superficie acolchada
-- Papel higiénico
 - Pura celulosa virgen
-- Suavidad
-- 2 capas
-- 1 unidad tiene 32 rollos de papel higiénico
 - Segmento Básico
+- Suavidad
+- Resistencia
+- Papel higiénico
+- 1 unidad tiene 32 rollos de papel higiénico
+- 2 capas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XDVC772/?tag=tolees-21)
