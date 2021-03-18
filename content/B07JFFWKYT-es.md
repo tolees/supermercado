@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Deliex delicias de Extremadura - Cesta G al 0.00 % de descuento'
-date: 2021-03-17 05:57:00
+date: 2021-03-18 17:43:20
 image: 'https://m.media-amazon.com/images/I/51zBFhsZ+NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07JFFWKYT-es Deliex delicias de Extremadura - Cesta Gourmet Deliex con...'
 sku: 'B07JFFWKYT-es'
+tags: [ 'Alimentación y bebidas','Cestas regalo y regalos gourmet','cabra','de','deliex delicias de extremadura','paté','queso', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95
@@ -27,10 +28,10 @@ Ahora mismo tienes [Deliex delicias de Extremadura - Cesta Gourmet Deliex con Vi
 
 🔎:
 
-- Se presenta en caja de cartón negra, con una frase a ambos lados del estuche (ojo, frase no personalizable)
-- Productos gourmet Extremadura
 - envíos rápidos.
-- vino tinto de 37.5 cl (Cristal)
 - 4 tarros en miniatura de 30 g
+- Se presenta en caja de cartón negra, con una frase a ambos lados del estuche (ojo, frase no personalizable)
+- vino tinto de 37.5 cl (Cristal)
+- Productos gourmet Extremadura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JFFWKYT/?tag=tolees-21)

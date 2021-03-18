@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Tejero - Conserva de Pescado | Filetes d al 19.75 % de rebaja'
-date: 2021-03-17 17:24:07
+date: 2021-03-18 17:35:57
 image: 'https://m.media-amazon.com/images/I/41OVcNWHLzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07JB4SBFW-es Tejero - Conserva de Pescado | Filetes de Caballa en...'
 sku: 'B07JB4SBFW-es'
+tags: [ 'Alimentación y bebidas','Conservas','Conservas de pescado y marisco','aceite','caballa','conserva','de','oliva','tejero', ]
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TEJERO'
 buyurl: 'https://www.amazon.es/dp/B07JB4SBFW/?tag=tolees-21'
 descuento: '19.75'
-average: '8.16736994219655'
+average: '8.15709770114944'
 ---
 
 Tienes [Tejero - Conserva de Pescado | Filetes de Caballa en Aceite de Oliva - 5 Latas x 120 g](https://www.amazon.es/dp/B07JB4SBFW/?tag=tolees-21) con precio final de  6.38 EUR (original: 7.95 EUR) (19.75 %  de rebaja) aqui!
@@ -27,9 +28,9 @@ Tienes [Tejero - Conserva de Pescado | Filetes de Caballa en Aceite de Oliva - 5
 
 🔎:
 
-- Caballa, aceite de oliva y sal
-- Pescado
-- Mantener a temperatura ambiente
 - España
+- Caballa, aceite de oliva y sal
+- Mantener a temperatura ambiente
+- Pescado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JB4SBFW/?tag=tolees-21)
