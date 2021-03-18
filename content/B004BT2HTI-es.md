@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004BT2HTI-es Wilkinson Sword Protector 3 - Pack de 4 Recambios de...'
 sku: 'B004BT2HTI-es'
-tags: [ 'wilkinson','sword', ]
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

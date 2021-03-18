@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EZMIMPO-es Renova Rollo de Cocina Gigarollo Ecológico - 1 Gigarrollo...'
 sku: 'B00EZMIMPO-es'
-tags: [ 'renova', ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

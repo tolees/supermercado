@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GYFMJM2-es Skip - Ultimate Triple Poder Máxima Eficacia Detergente...'
 sku: 'B07GYFMJM2-es'
-tags: [ 'detergente', ]
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

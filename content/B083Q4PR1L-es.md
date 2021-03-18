@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083Q4PR1L-es Geedel - Cortador de Patatas Fritas Cortador de Patatas de...'
 sku: 'B083Q4PR1L-es'
-tags: [ 'fritas','geedel','patatas', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

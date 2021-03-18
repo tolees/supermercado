@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GJWCCM7-es Philips Avance Collection HR2382/10 máquina de pasta y...'
 sku: 'B07GJWCCM7-es'
-tags: [ 'ravioli', ]
 actualPrice: 258.39 EUR
 currency: EUR
 price: 258.39

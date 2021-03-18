@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O9QBO4C-es bosch TIERNAHRUNG - Bosch Pet Food My Friend Soft | Comida...'
 sku: 'B00O9QBO4C-es'
-tags: [ 'bosch tiernahrung','croquetas', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007OU5M0C-es Coca Cola Zero Azúcar - Lata 330ml X 24 Latas'
 sku: 'B007OU5M0C-es'
-tags: [ 'azúcar','coca','cola', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

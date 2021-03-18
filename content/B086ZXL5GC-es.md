@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086ZXL5GC-es Zienstar-Dispensador de Jabón Automático Dispensador de...'
 sku: 'B086ZXL5GC-es'
-tags: [ 'jabón', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X67QXXX-es Mini Chupa Chups Caramelo con Palo de Sabores Variados -...'
 sku: 'B07X67QXXX-es'
-tags: [ 'chupa','chups', ]
 actualPrice: 1.41 EUR
 currency: EUR
 price: 1.41

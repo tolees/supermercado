@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VTDDS1-es Cidacos - Tomate Triturado Extra 400 g'
 sku: 'B082VTDDS1-es'
-tags: [ 'cidacos', ]
 actualPrice: 0.77 EUR
 currency: EUR
 price: 0.77

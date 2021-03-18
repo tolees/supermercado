@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015ZGYMBQ-es L Oréal Paris Make-up designer Brocha para Contouring'
 sku: 'B015ZGYMBQ-es'
-tags: [ 'oréal', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

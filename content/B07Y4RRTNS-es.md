@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y4RRTNS-es TruuMe - Jabón Natural Jabón Facial Jabón de Aceite del...'
 sku: 'B07Y4RRTNS-es'
-tags: [ 'jabón', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

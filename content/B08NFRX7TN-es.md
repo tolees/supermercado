@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NFRX7TN-es NIVEA Cellular LUMINOUS 630 Pack Antimanchas Tratamiento...'
 sku: 'B08NFRX7TN-es'
-tags: [ 'nivea', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

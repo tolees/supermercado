@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MY0WA3O-es Instituto Español Gel Piel Sana Higiene Femenina Zona...'
 sku: 'B01MY0WA3O-es'
-tags: [ 'instituto','español', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

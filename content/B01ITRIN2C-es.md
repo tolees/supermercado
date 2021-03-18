@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ITRIN2C-es Central Lechera Asturiana Leche Semidesnatada 6 x 1 5L'
 sku: 'B01ITRIN2C-es'
-tags: [ 'central','lechera', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

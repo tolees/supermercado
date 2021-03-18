@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VX6U97E-es Revlon Colorstay 24H Base de maquillaje para rostro para...'
 sku: 'B00VX6U97E-es'
-tags: [ 'Bases de maquillaje','Belleza','Maquillaje','Maquillaje facial','colorstay','revlon', ]
 actualPrice: 4.65 EUR
 currency: EUR
 price: 4.65

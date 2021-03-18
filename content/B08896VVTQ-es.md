@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08896VVTQ-es La Sagra - Lagers del Mundo Pack Degustación de Cerveza -...'
 sku: 'B08896VVTQ-es'
-tags: [ 'Alimentación y bebidas','Cervezas','Cervezas, vinos y licores','cerveza','la sagra', ]
 actualPrice: 11.65 EUR
 currency: EUR
 price: 11.65

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M6C7CHB-es GimCat ShinyCat in Jelly atún con pollo - Alimento húmedo...'
 sku: 'B01M6C7CHB-es'
-tags: [ 'atún', ]
 actualPrice: 17.64 EUR
 currency: EUR
 price: 17.64

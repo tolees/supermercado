@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P7TSCRS-es PediaSure Complemento Alimenticio para Niños Sabor...'
 sku: 'B07P7TSCRS-es'
-tags: [ 'chocolate', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DMJCSK5-es Philips Sonicare ProtectiveClean 5100 HX6851/34 - Cepillo...'
 sku: 'B07DMJCSK5-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 204.1 EUR
 currency: EUR
 price: 204.1

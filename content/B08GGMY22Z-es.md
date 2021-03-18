@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GGMY22Z-es Nestlé Sveltesse - Leche desnatada en Polvo - 400 g'
 sku: 'B08GGMY22Z-es'
-tags: [ 'nestlé','nestlé sveltesse','sveltesse', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

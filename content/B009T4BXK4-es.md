@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009T4BXK4-es MARTIN MILLERS - Martin Miller s Ginebra 700ml'
 sku: 'B009T4BXK4-es'
-tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Ginebras','ginebra','martin millers', ]
 actualPrice: 25.45 EUR
 currency: EUR
 price: 25.45

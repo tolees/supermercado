@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HN66K6S-es Anjou – Juego de 4 velas perfumadas con aroma a lavanda...'
 sku: 'B08HN66K6S-es'
-tags: [ 'soja', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

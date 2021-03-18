@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IUD1QJC-es Conservas Dantza Pimiento del piquillo - 390 gr'
 sku: 'B01IUD1QJC-es'
-tags: [ 'conservas','pimiento', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

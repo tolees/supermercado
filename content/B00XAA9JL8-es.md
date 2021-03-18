@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAA9JL8-es Mica Derm - Desodorante Woman - Roll-on sin alcohol - 75 ml'
 sku: 'B00XAA9JL8-es'
-tags: [ 'desodorante', ]
 actualPrice: 0.96 EUR
 currency: EUR
 price: 0.96

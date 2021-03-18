@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079YYKGN5-es Chocolates Simón Coll Chocolate con Leche sin Azúcares...'
 sku: 'B079YYKGN5-es'
-tags: [ 'chocolate', ]
 actualPrice: 20.27 EUR
 currency: EUR
 price: 20.27

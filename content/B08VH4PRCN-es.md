@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VH4PRCN-es WuYan Cabezales de repuesto para cepillo de dientes...'
 sku: 'B08VH4PRCN-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

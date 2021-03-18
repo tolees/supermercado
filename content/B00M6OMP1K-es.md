@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00M6OMP1K-es Antaño Crianza - Vino Tinto D.O Rioja - Pack de 6 Botellas...'
 sku: 'B00M6OMP1K-es'
-tags: [ 'vino','tinto', ]
 actualPrice: 22.68 EUR
 currency: EUR
 price: 22.68

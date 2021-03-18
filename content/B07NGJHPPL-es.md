@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NGJHPPL-es Marca Amazon - Solimo Champú revitalizante para volumen y...'
 sku: 'B07NGJHPPL-es'
-tags: [ 'solimo','champú', ]
 actualPrice: 11.76 EUR
 currency: EUR
 price: 11.76

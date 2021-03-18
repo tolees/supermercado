@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007XPB8D8-es Advance Adult Sterilized - Pienso para Gatos Adultos...'
 sku: 'B007XPB8D8-es'
-tags: [ 'pavo', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FXZZ3FW-es AXE Pack Dark Temptation Neceser Duo - Desodorante 150 ml...'
 sku: 'B08FXZZ3FW-es'
-tags: [ 'Afeitado manual','Afeitado manual de hombre','Afeitado y depilación','Belleza','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Cuchillas de afeitar para hombre','Cuidado y limpieza del hogar','Cuidados pre-depilación y afeitado','Espumas en Cuidados pre-depilación y afeitado','Hogar y cocina','Productos para el cuidado de la piel','Productos para la lavandería','Salud y cuidado personal','Sets y juegos para el cuidado de la piel','Suavizante líquido','Tablas de cortar','Utensilios de cocina','axe','desodorante', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

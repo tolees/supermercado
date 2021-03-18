@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G8X9MRP-es Marca Amazon - Happy Belly Ristretto Café molido de tueste...'
 sku: 'B08G8X9MRP-es'
-tags: [ 'café','happy','belly', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

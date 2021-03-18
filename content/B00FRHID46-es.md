@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FRHID46-es Antaño Tempranillo - Vino Tinto D.O Rioja - Caja de 6...'
 sku: 'B00FRHID46-es'
-tags: [ 'vino','tinto', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

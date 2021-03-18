@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KB8C6QC-es Disney Maleficent Fairy Aurora Sleeping Beauty lona gran...'
 sku: 'B00KB8C6QC-es'
-tags: [ 'fairy', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

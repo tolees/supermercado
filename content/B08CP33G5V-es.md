@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CP33G5V-es NUK Detergente para Biberones'
 sku: 'B08CP33G5V-es'
-tags: [ 'detergente', ]
 actualPrice: None None
 currency: None
 price: None

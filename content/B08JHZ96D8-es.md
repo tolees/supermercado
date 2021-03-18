@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JHZ96D8-es Eleglide - Dispensador Gel Hidroalcoholico Dispensador...'
 sku: 'B08JHZ96D8-es'
-tags: [ 'eleglide','jabon', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

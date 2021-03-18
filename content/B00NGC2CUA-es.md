@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NGC2CUA-es Tassimo Milka Chocolate - Chocolate Caliente de Milka 5...'
 sku: 'B00NGC2CUA-es'
-tags: [ 'milka','chocolate', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

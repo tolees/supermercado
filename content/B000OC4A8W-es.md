@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000OC4A8W-es Max Factor Lipfinity Classic Pintalabios Tono 102...'
 sku: 'B000OC4A8W-es'
-tags: [ 'Belleza','Maquillaje','Maquillajes labiales','Pintalabios','factor','max','max factor', ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

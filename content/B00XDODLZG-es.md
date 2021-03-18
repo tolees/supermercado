@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDODLZG-es Carmencita Orégano Especias - 45 gr'
 sku: 'B00XDODLZG-es'
-tags: [ 'carmencita', ]
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

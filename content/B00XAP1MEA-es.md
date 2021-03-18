@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAP1MEA-es Haribo - Lampions Rojos - Geles dulces - 2 kg'
 sku: 'B00XAP1MEA-es'
-tags: [ 'haribo', ]
 actualPrice: 9.55 EUR
 currency: EUR
 price: 9.55

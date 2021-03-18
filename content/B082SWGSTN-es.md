@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SWGSTN-es EL PALADAR JAMONERIA & DELICATESSEN - Cesta de Navidad -...'
 sku: 'B082SWGSTN-es'
-tags: [ 'cesta','de','el paladar jamoneria & delicatessen','navidad','tinto','vino', ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

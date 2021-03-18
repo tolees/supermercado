@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00C2CTTSS-es Babaria Gel de Baño Hidratante con Aloe Vera Fresh...'
 sku: 'B00C2CTTSS-es'
-tags: [ 'babaria', ]
 actualPrice: 1.23 EUR
 currency: EUR
 price: 1.23

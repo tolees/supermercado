@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KGGDHJB-es Fa - Desodorante Roll-On Bali Kiss - Con fragancia de...'
 sku: 'B07KGGDHJB-es'
-tags: [ 'desodorante', ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

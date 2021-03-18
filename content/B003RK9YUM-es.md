@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003RK9YUM-es Martín Códax - Vino Blanco 75 cl'
 sku: 'B003RK9YUM-es'
-tags: [ 'blanco','vino', ]
 actualPrice: 10.06 EUR
 currency: EUR
 price: 10.06

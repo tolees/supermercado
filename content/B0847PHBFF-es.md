@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0847PHBFF-es TAPAS & ENVASES RIOJA - Tapas metalicas para tarros de...'
 sku: 'B0847PHBFF-es'
-tags: [ 'conservas','tapas & envases rioja', ]
 actualPrice: 15.7 EUR
 currency: EUR
 price: 15.7

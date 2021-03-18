@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PWN8WBN-es Conservas Dantza Quinoa con Verduras y Alga Wakame Dantza...'
 sku: 'B08PWN8WBN-es'
-tags: [ 'conservas','quinoa', ]
 actualPrice: 2.65 EUR
 currency: EUR
 price: 2.65

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CQN2QH8-es Spontex - Bayeta Microfibra economic 1+1'
 sku: 'B01CQN2QH8-es'
-tags: [ 'bayeta','spontex', ]
 actualPrice: 1.59 EUR
 currency: EUR
 price: 1.59

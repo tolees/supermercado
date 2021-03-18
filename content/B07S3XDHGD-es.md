@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S3XDHGD-es Natural Athlete - NATRULY Crema de Avellanas BIO 100%...'
 sku: 'B07S3XDHGD-es'
-tags: [ 'azúcar','sin','gluten', ]
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

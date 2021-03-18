@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077JX8CRN-es Whisky Blended Scotch 100 Pipers - 1 botella de 1L'
 sku: 'B077JX8CRN-es'
-tags: [ 'whisky', ]
 actualPrice: None None
 currency: None
 price: None

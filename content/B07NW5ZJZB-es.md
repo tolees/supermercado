@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NW5ZJZB-es Somat Oro Gel Lavavajillas Vinagre – Pack de 4 Total: 200...'
 sku: 'B07NW5ZJZB-es'
-tags: [ 'somat', ]
 actualPrice: 32.8 EUR
 currency: EUR
 price: 32.8

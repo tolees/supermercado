@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0828BDWPP-es Sanytol - Desinfectante Textil - 4 unidades de 1200ml'
 sku: 'B0828BDWPP-es'
-tags: [ 'sanytol', ]
 actualPrice: 19.28 EUR
 currency: EUR
 price: 19.28

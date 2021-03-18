@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NQXX725-es Tirma Ambrosía Chocolate Con Leche 14 Unidades X 21 5 G 301 g'
 sku: 'B08NQXX725-es'
-tags: [ 'chocolate', ]
 actualPrice: 2.91 EUR
 currency: EUR
 price: 2.91

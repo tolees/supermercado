@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DU9G5BK-es Heineken Cerveza - Caja de 5 Torps Diseñado exclusivamente...'
 sku: 'B01DU9G5BK-es'
-tags: [ 'cerveza','heineken', ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

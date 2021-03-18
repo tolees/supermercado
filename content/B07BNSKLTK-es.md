@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BNSKLTK-es Marca Amazon - Happy Belly Mezcla de frutas y frutos secos...'
 sku: 'B07BNSKLTK-es'
-tags: [ 'belly','frutos','happy','happy belly','secos', ]
 actualPrice: 22.82 EUR
 currency: EUR
 price: 22.82

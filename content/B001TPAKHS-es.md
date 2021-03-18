@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001TPAKHS-es Johnnie Walker Black Whisky Escocés - 700 ml'
 sku: 'B001TPAKHS-es'
-tags: [ 'whisky', ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

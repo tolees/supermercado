@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CHTV4RP-es Oral-B 3DWhite Luxe Perfección Pasta de Dientes...'
 sku: 'B08CHTV4RP-es'
-tags: [ 'pasta','de','dientes', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

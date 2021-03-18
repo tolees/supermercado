@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SRZ6MN5-es L Oréal Paris - L Oreal Paris Elvive Total Repair 5 Pack...'
 sku: 'B08SRZ6MN5-es'
-tags: [ 'acondicionador','champú','oréal', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

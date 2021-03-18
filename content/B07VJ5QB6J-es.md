@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VJ5QB6J-es Rockport Perth Boat Shoe Náuticos Hombre Beige Arena...'
 sku: 'B07VJ5QB6J-es'
-tags: [ 'chocolate', ]
 actualPrice: None None
 currency: None
 price: None

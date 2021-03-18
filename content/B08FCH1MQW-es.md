@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FCH1MQW-es Tresemme - Paquete de Hidratación Intensiva - Champú 855...'
 sku: 'B08FCH1MQW-es'
-tags: [ 'suavizante','champú', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

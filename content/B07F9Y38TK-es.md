@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F9Y38TK-es Oral-B Junior Star Wars Pasta Dentífrica 75ml +6 Años'
 sku: 'B07F9Y38TK-es'
-tags: [ 'dentífrica','oral-b', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

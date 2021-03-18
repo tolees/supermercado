@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DUX6ETE-es Nomen - Arroz Redondo Extra 500 gr'
 sku: 'B01DUX6ETE-es'
-tags: [ 'arroz','nomen', ]
 actualPrice: 0.87 EUR
 currency: EUR
 price: 0.87

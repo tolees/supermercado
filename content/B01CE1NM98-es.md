@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CE1NM98-es Johnnie Walker Verde Whisky Escocés 700ml'
 sku: 'B01CE1NM98-es'
-tags: [ 'whisky', ]
 actualPrice: 28.2 EUR
 currency: EUR
 price: 28.2

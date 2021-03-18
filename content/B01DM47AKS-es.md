@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DM47AKS-es #Cervezanía - Kit de elaboración de cerveza artesana...'
 sku: 'B01DM47AKS-es'
-tags: [ 'cerveza', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

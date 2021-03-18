@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BJNS9CP-es ANVASK Dispensador Jabon Automático Montaje en Pared 450ML...'
 sku: 'B08BJNS9CP-es'
-tags: [ 'jabon', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WXLN8LF-es Note d Espresso - Cápsulas Leche Exclusivamente...'
 sku: 'B07WXLN8LF-es'
-tags: [ 'nescafé','dolce','gusto', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

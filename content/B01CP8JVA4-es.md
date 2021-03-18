@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CP8JVA4-es Fisherman s Friend Menta Caramelo Comprimido Sin Azúcar -...'
 sku: 'B01CP8JVA4-es'
-tags: [ 'azúcar', ]
 actualPrice: 13.8 EUR
 currency: EUR
 price: 13.8

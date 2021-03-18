@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QGZKXDY-es Garnier Original Remedies Leche de Almendra Nutritiva...'
 sku: 'B07QGZKXDY-es'
-tags: [ 'garnier', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

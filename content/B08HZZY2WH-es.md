@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HZZY2WH-es Garnier Fructis Hair Food Champú Banana Nutritiva indicado...'
 sku: 'B08HZZY2WH-es'
-tags: [ 'garnier','champú', ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

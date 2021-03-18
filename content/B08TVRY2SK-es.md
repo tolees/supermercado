@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08TVRY2SK-es Kptn Kitchen Tabla de queso con cuchillo de queso 4 piezas...'
 sku: 'B08TVRY2SK-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Almacenamiento de alimentos','Almacenamiento de cocina y despensa','Bandejas de cocina','Bandejas para queso','Baño','Baño e higiene personal','Bebidas vegetales','Belleza','Botes para alimentos','Cubertería, Vajilla y Cristalería','Cuidado del cabello','Cuidado y limpieza del hogar','Detergente líquido para textiles','Dispensadores de loción y de jabón','Hogar y cocina','Iluminación','Iluminación de ambiente infantil','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Iluminación nocturna de interior','Jabones faciales','Lavavajillas','Limpiadores faciales','Limpieza personal','Lácteos y huevos','Lámparas e iluminación infantil','Piezas de vajilla','Platos y fuentes','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Productos para el cuidado del cabello','Productos para la lavandería','Salud y cuidado personal','Sets y juegos de pelo','Soportes y dispensadores para baño','Tazas','Tazas de té','Trituradoras para la verdura','Utensilios de cocina','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','kptn kitchen','queso', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

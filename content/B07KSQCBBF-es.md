@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KSQCBBF-es Consuelo - cápsulas de café compatibles con Nespresso* -...'
 sku: 'B07KSQCBBF-es'
-tags: [ 'café','cápsulas','de','café', ]
 actualPrice: 12.04 EUR
 currency: EUR
 price: 12.04

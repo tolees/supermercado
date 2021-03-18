@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086CS8GSF-es Puleva Puleva Leche Entera 6 Botellas De 1 5Lt 9800 g'
 sku: 'B086CS8GSF-es'
-tags: [ 'puleva','leche','entera', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

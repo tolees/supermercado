@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00U6NMLKS-es Listerine 95Ml Cuidado Total Viaje'
 sku: 'B00U6NMLKS-es'
-tags: [ 'listerine', ]
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

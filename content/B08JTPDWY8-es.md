@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JTPDWY8-es GoMaihe 1.6L Botes Cocina Juego de 10 Piezas de Recipiente...'
 sku: 'B08JTPDWY8-es'
-tags: [ 'harina', ]
 actualPrice: 35.98 EUR
 currency: EUR
 price: 35.98

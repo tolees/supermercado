@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B16R4XJ-es Nestlé Junior 1+ Cereales Leche para Cereales para Niños A...'
 sku: 'B07B16R4XJ-es'
-tags: [ 'nestlé', ]
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0859W5FBX-es Colgate Cepillo de bambú'
 sku: 'B0859W5FBX-es'
-tags: [ 'colgate', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

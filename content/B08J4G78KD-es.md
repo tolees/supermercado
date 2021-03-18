@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J4G78KD-es ELEGIANT Cepillo de Dientes sónico Cepillo de Dientes...'
 sku: 'B08J4G78KD-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

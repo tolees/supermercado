@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KX5VQ4Q-es Urtekram Champú de Árbol de Té - 250 ml'
 sku: 'B00KX5VQ4Q-es'
-tags: [ 'champú', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

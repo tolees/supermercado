@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071NZK56K-es Vileda Quick & Clean - Escoba eléctrica inalámbrica y...'
 sku: 'B071NZK56K-es'
-tags: [ 'vileda', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

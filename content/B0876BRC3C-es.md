@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0876BRC3C-es El Aguila Cerveza Especial sin Filtrar Paquete de 24 x 330ml'
 sku: 'B0876BRC3C-es'
-tags: [ 'aguila','cerveza', ]
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

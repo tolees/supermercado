@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RSHRPDQ-es Mroobest - Champú Champú antipérdida de cabello ayuda a...'
 sku: 'B07RSHRPDQ-es'
-tags: [ 'champú', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WAKQP70-es Cepillo de dientes eléctrico Oral-B Pro Vitality Cross...'
 sku: 'B00WAKQP70-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 40.16 EUR
 currency: EUR
 price: 40.16

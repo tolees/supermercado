@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089SQHGJ1-es AtailorBird Funda Ordenador Portatil 14 Pulgadas Bolsa pc...'
 sku: 'B089SQHGJ1-es'
-tags: [ 'vino','tinto', ]
 actualPrice: 16.69 EUR
 currency: EUR
 price: 16.69

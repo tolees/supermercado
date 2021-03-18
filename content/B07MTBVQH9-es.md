@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTBVQH9-es iMucci - Juego de Accesorios de baño con dispensador de...'
 sku: 'B07MTBVQH9-es'
-tags: [ 'cepillo','de','dientes','jabón', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

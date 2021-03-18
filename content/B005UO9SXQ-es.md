@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005UO9SXQ-es El Lagar del Soto Aceite de Oliva Virgen Extra Ecológico -...'
 sku: 'B005UO9SXQ-es'
-tags: [ 'Aceites','Aceites de oliva','Aceites, vinagres y aliños para ensalada','Alimentación y bebidas','Artículos para gatos','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Cepillos de dientes eléctricos','Cepillos de dientes eléctricos de rotación','Cepillos de dientes eléctricos y accesorios','Cepillos de dientes y accesorios','Comida húmeda para gatos','Comida para gatos','Cuidado bucal','Cuidado y limpieza del hogar','Cápsulas y pastillas de detergente para textiles','Detergente líquido para textiles','Hogar y cocina','Limpieza personal','Pastas de dientes','Pastillas de jabón y jabón líquido para manos','Productos para la lavandería','Productos para mascotas','Robots aspiradores','Salud y cuidado personal','aceite','de','el lagar del soto','extra','oliva','virgen', ]
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CYZ0S0A-es Heno De Pravia Desodorante 250 ml'
 sku: 'B01CYZ0S0A-es'
-tags: [ 'desodorante', ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

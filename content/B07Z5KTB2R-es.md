@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5KTB2R-es Koei - Fairy Tail - PlayStation 4 [Importación inglesa]'
 sku: 'B07Z5KTB2R-es'
-tags: [ 'fairy','koei', ]
 actualPrice: 41.8 EUR
 currency: EUR
 price: 41.8

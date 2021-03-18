@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RXK7DT6-es Johnson s Baby Acondicionador Familiar Clásico 500 ml Pack...'
 sku: 'B07RXK7DT6-es'
-tags: [ 'acondicionador', ]
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

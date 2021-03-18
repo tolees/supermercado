@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AHD2K5S-es Old El Paso Sazonador para Guacamole 20g'
 sku: 'B00AHD2K5S-es'
-tags: [ 'old','el','paso', ]
 actualPrice: 0.98 EUR
 currency: EUR
 price: 0.98

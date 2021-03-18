@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAGFA1A-es Oral-B Complete Limpieza Refrescante Pasta Dentífrica +...'
 sku: 'B00XAGFA1A-es'
-tags: [ 'dentífrica', ]
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

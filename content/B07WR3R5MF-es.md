@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WR3R5MF-es 3 pcs/set del hombre de afeitar kit de afeitado Espuma...'
 sku: 'B07WR3R5MF-es'
-tags: [ 'jabón', ]
 actualPrice: 11.81 EUR
 currency: EUR
 price: 11.81

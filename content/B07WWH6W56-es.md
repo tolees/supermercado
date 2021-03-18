@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WWH6W56-es Note D Espresso - Cápsulas de café de Nicaragua...'
 sku: 'B07WWH6W56-es'
-tags: [ 'café','cápsulas','de','café', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

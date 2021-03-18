@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BG5BFGH-es Sensodyne Repair & Protect Blanqueante - Pasta de Dientes...'
 sku: 'B08BG5BFGH-es'
-tags: [ 'sensodyne','pasta','de','dientes', ]
 actualPrice: 14.62 EUR
 currency: EUR
 price: 14.62

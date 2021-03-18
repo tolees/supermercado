@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q2QL9WG-es Finish Powerball Quantum Ultimate pastillas para el...'
 sku: 'B07Q2QL9WG-es'
-tags: [ 'finish', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

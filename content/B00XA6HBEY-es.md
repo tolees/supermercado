@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XA6HBEY-es Finish Powerball Quantum Max - Pastillas para el...'
 sku: 'B00XA6HBEY-es'
-tags: [ 'finish', ]
 actualPrice: 8.27 EUR
 currency: EUR
 price: 8.27

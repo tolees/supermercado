@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000QC2ZQO-es Trixie Tijeras Punta Redonda INOX Cara y Patas 9 cm'
 sku: 'B000QC2ZQO-es'
-tags: [ 'trixie', ]
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

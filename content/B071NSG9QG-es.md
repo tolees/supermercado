@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071NSG9QG-es Gourmet Purina - Purina Gourmet Gold Mousse comida para...'
 sku: 'B071NSG9QG-es'
-tags: [ 'purina', ]
 actualPrice: 24.14 EUR
 currency: EUR
 price: 24.14

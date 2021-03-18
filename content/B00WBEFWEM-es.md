@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WBEFWEM-es Babaria - Jabón intimo - Con aceite de almendras dulces -...'
 sku: 'B00WBEFWEM-es'
-tags: [ 'babaria','jabón', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

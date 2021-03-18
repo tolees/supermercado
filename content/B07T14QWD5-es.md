@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T14QWD5-es WELLA - Cortapelos Xpert HS71 1 Stk.'
 sku: 'B07T14QWD5-es'
-tags: [ 'wella', ]
 actualPrice: 152.9 EUR
 currency: EUR
 price: 152.9

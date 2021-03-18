@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NV4SM9H-es QLEBAO Recambios Cepillo para Braun Oral B 16 Cepillos...'
 sku: 'B07NV4SM9H-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

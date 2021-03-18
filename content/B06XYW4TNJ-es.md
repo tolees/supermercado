@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XYW4TNJ-es Instituto EspaÃ±ol - Instituto Español L Oreal Expert...'
 sku: 'B06XYW4TNJ-es'
-tags: [ 'instituto','español', ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

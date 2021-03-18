@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HW0L2FS-es Vileda Bayetas Microfibra Azul - 5 Unidades'
 sku: 'B00HW0L2FS-es'
-tags: [ 'vileda', ]
 actualPrice: 13.77 EUR
 currency: EUR
 price: 13.77

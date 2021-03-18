@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086C5Y5VZ-es CONDE DE BENALUA - Aceite de Oliva Virgen Extra Conde de...'
 sku: 'B086C5Y5VZ-es'
-tags: [ 'aceite','conde de benalua','de','extra','oliva','virgen', ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

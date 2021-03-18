@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FUP0ED2-es INSTITUTO ESPAÑOL crema corporal reparadora urea formato...'
 sku: 'B01FUP0ED2-es'
-tags: [ 'Belleza','Cremas corporales','Cremas para pies','Cuidado diurno facial','Hidratantes corporales','Hidratantes faciales','Lociones corporales','Manicura y pedicura','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Productos para el cuidado de la piel corporal','Productos para el cuidado de las manos y de los pies','español','instituto','instituto español', ]
 actualPrice: 0.8 EUR
 currency: EUR
 price: 0.8

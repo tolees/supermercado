@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003ZINBLE-es Marker s Mark Kentucky Bourbon Whisky 700ml'
 sku: 'B003ZINBLE-es'
-tags: [ 'whisky', ]
 actualPrice: 23.7 EUR
 currency: EUR
 price: 23.7

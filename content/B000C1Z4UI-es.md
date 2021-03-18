@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000C1Z4UI-es Elizabeth Arden Provocative Eau de Parfum 100 ml'
 sku: 'B000C1Z4UI-es'
-tags: [ 'elizabeth','arden', ]
 actualPrice: 17.1 EUR
 currency: EUR
 price: 17.1

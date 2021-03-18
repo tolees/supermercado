@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MGMLRYT-es GRANELL CAFES-1940 - Granell - Surtido de Té Caja Te...'
 sku: 'B08MGMLRYT-es'
-tags: [ 'canela', ]
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

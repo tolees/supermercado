@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y3YQJ5V-es CAMPOS Conserva de atún en aceite de girasol pouch/ bolsa...'
 sku: 'B06Y3YQJ5V-es'
-tags: [ 'atún','conserva','conserva','de','atún', ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

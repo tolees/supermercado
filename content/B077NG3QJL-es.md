@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077NG3QJL-es Garnier ultimate blends miel Fortalecimiento Shampoo 360...'
 sku: 'B077NG3QJL-es'
-tags: [ 'garnier', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

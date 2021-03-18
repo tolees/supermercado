@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002KD9OGQ-es LAGRANGE 439101 - Yogurtera 7 envases Fabricante de Yogur...'
 sku: 'B002KD9OGQ-es'
-tags: [ 'yogur', ]
 actualPrice: 59.66 EUR
 currency: EUR
 price: 59.66

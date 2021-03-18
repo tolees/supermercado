@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NY9T74T-es Control Lub Gel Warm Touch - Gel lubricante con efecto...'
 sku: 'B07NY9T74T-es'
-tags: [ 'azúcar', ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LVTS4K9-es Cepillo de dientes eléctrico sónico Oclean Air 2 cepillo...'
 sku: 'B08LVTS4K9-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

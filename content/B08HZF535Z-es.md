@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HZF535Z-es Gel hidroalcohólico higienizante de manos 5L de Dassiel'
 sku: 'B08HZF535Z-es'
-tags: [ 'hidroalcohólico', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014E7UHRU-es Ginebra Puerto de Indias Classic Gin 70 cl'
 sku: 'B014E7UHRU-es'
-tags: [ 'ginebra', ]
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

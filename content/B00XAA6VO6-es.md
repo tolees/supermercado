@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAA6VO6-es Mic&Friends - Paté Con Pollo - Alimento Completo para...'
 sku: 'B00XAA6VO6-es'
-tags: [ 'paté', ]
 actualPrice: 0.58 EUR
 currency: EUR
 price: 0.58

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSV2LK1-es Love Beauty and Planet Mascarilla Capilar para Cabello...'
 sku: 'B07GSV2LK1-es'
-tags: [ 'capilar','mascarilla', ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

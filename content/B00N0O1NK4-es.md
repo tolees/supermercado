@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N0O1NK4-es Dove Jabón para manos dispensador con 1/4 de crema...'
 sku: 'B00N0O1NK4-es'
-tags: [ 'Aceites','Aceites de oliva','Aceites, vinagres y aliños para ensalada','Alimentación y bebidas','Almacenamiento de cocina y despensa','Artículos para gatos','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Botes herméticos para cocina','Botes herméticos y accesorios','Café y expreso','Café, té y bebidas','Cepillos de dientes eléctricos','Cepillos de dientes eléctricos de rotación','Cepillos de dientes eléctricos y accesorios','Cepillos de dientes y accesorios','Cestas regalo y regalos gourmet','Comida húmeda para gatos','Comida para gatos','Cuidado bucal','Cuidado y limpieza del hogar','Cápsulas de café','Cápsulas y pastillas de detergente para textiles','Detergente líquido para textiles','Hogar y cocina','Limpieza personal','Pastas de dientes','Pastillas de jabón y jabón líquido para manos','Productos para la lavandería','Productos para mascotas','Robots aspiradores','Salud y cuidado personal','crema','dove','hidratante','jabón', ]
 actualPrice: 9.07 EUR
 currency: EUR
 price: 9.07

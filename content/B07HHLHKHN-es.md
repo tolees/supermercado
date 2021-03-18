@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HHLHKHN-es Johnson s - JOHNSON?S gel de ducha refrescante sandía y...'
 sku: 'B07HHLHKHN-es'
-tags: [ 'gel','de','ducha', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

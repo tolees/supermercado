@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TLHZVNQ-es yuyte 20 Rolls Dog Poo Bag Basura Bolsas de Basura Cat...'
 sku: 'B07TLHZVNQ-es'
-tags: [ 'bolsas','de','basura', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R9ZFVHZ-es Bellaely - Bombillas LED E14 12W Blanco Frío 6000K 1200LM...'
 sku: 'B08R9ZFVHZ-es'
-tags: [ 'maíz', ]
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

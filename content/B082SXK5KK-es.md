@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SXK5KK-es EL PALADAR JAMONERIA & DELICATESSEN - LOTE GOURMET 2020-21...'
 sku: 'B082SXK5KK-es'
-tags: [ 'el paladar jamoneria & delicatessen','queso', ]
 actualPrice: 62.0 EUR
 currency: EUR
 price: 62.0

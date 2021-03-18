@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004J11PPA-es Alvarez Gomez - Álvarez Gómez - Jabón en Pastilla con...'
 sku: 'B004J11PPA-es'
-tags: [ 'jabón', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002ULNQUI-es Borotalco Original Desodorante de Roll-On - 50 ml'
 sku: 'B002ULNQUI-es'
-tags: [ 'desodorante', ]
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

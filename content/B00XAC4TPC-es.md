@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAC4TPC-es Colgate - Triple Action - Enjuague bucal - 500 ml'
 sku: 'B00XAC4TPC-es'
-tags: [ 'colgate', ]
 actualPrice: 2.94 EUR
 currency: EUR
 price: 2.94

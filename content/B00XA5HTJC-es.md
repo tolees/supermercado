@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XA5HTJC-es Gallina Blanca - Sopa De Verduras - 51 g'
 sku: 'B00XA5HTJC-es'
-tags: [ 'gallina','blanca', ]
 actualPrice: 0.52 EUR
 currency: EUR
 price: 0.52

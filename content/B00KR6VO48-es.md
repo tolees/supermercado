@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KR6VO48-es L Or Espresso Café India Intensidad 10 - 200 cápsulas de...'
 sku: 'B00KR6VO48-es'
-tags: [ 'café', ]
 actualPrice: 50.8 EUR
 currency: EUR
 price: 50.8

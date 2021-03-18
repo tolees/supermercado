@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZZNDB6-es TRESemmé Champú Repara y Fortalece - Paquete de 3 x 700 ml...'
 sku: 'B078ZZNDB6-es'
-tags: [ 'champú','tresemmé', ]
 actualPrice: 14.73 EUR
 currency: EUR
 price: 14.73

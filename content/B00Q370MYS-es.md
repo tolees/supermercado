@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Q370MYS-es TRIXIE Mono Peluche 24 cm Perro'
 sku: 'B00Q370MYS-es'
-tags: [ 'trixie', ]
 actualPrice: 6.04 EUR
 currency: EUR
 price: 6.04

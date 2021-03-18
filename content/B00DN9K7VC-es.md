@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DN9K7VC-es Sotya Batido Saciante Chocolate - 700 gr'
 sku: 'B00DN9K7VC-es'
-tags: [ 'Ayudas para el adelgazamiento y la pérdida de peso en medicamentos, remedios y suplementos dietéticos','Dieta y nutrición en medicamentos, remedios y suplementos dietéticos','Salud y cuidado personal','chocolate','sotya', ]
 actualPrice: 8.08 EUR
 currency: EUR
 price: 8.08

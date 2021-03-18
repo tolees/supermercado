@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BZ7XBZY-es Uten Batidora Multifuncional Batidora para Smoothie...'
 sku: 'B08BZ7XBZY-es'
-tags: [ 'café', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

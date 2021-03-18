@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C9KMRYP-es Scottex Jumbo Papel de Cocina - 6 rollos'
 sku: 'B07C9KMRYP-es'
-tags: [ 'scottex','papel','de','cocina', ]
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

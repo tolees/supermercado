@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BB5F9T7-es Alpha Foods - Proteina Vegana | COCO | Proteína vegetal de...'
 sku: 'B07BB5F9T7-es'
-tags: [ 'arroz','guisantes','soja', ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

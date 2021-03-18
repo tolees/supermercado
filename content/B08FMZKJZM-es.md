@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FMZKJZM-es Gillette Fusion 5 ProGlide Máquina de Afeitar Hombre + 4...'
 sku: 'B08FMZKJZM-es'
-tags: [ 'Afeitado manual','Afeitado manual de hombre','Afeitado y depilación','Belleza','Kits de afeitado manual para hombre','gillette', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

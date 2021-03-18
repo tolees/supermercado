@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9YVT8B-es RED BULL Coconut Edition Bebida energética sabor coco y...'
 sku: 'B07T9YVT8B-es'
-tags: [ 'bebida','bull','energética','red', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

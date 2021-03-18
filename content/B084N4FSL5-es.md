@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084N4FSL5-es AXE Bodyspray Desodorante Leather and Cookies 200 ml -...'
 sku: 'B084N4FSL5-es'
-tags: [ 'Baño e higiene personal','Belleza','Desodorantes','axe','desodorante', ]
 actualPrice: 25.02 EUR
 currency: EUR
 price: 25.02

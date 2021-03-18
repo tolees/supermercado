@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IVO4JN0-es Central Lechera Asturiana Bebida de Avena - Paquete de 6 x...'
 sku: 'B01IVO4JN0-es'
-tags: [ 'central','lechera', ]
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

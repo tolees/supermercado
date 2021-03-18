@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MAFTH84-es PediaSure - Complemento Alimenticio para Niños con...'
 sku: 'B00MAFTH84-es'
-tags: [ 'chocolate', ]
 actualPrice: 21.3 EUR
 currency: EUR
 price: 21.3

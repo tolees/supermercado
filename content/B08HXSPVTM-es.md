@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HXSPVTM-es feixia Vela de aromaterapia de 12 Constelaciones Juego de...'
 sku: 'B08HXSPVTM-es'
-tags: [ 'soja', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

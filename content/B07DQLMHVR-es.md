@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DQLMHVR-es Loxa Aceite de Oliva Virgen Extra 5L LATA'
 sku: 'B07DQLMHVR-es'
-tags: [ 'aceite','de','oliva','virgen','extra', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

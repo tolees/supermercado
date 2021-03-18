@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HTTQ6A2-es Vileda Turbo Juego de fregona Negro Y Rojo 48.5 x 27.5 x...'
 sku: 'B01HTTQ6A2-es'
-tags: [ 'Cubos de fregar','Hogar y cocina','Productos y utensilios de limpieza','fregona','vileda', ]
 actualPrice: 35.96 EUR
 currency: EUR
 price: 35.96

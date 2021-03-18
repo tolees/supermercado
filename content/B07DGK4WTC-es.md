@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DGK4WTC-es Oral-B Sensi-Touch Ultrathin - Pack de cabezales de...'
 sku: 'B07DGK4WTC-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: None None
 currency: None
 price: None

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082BQT19D-es Air Wick VIPoo Spray ambientador para el WC aroma Frutas...'
 sku: 'B082BQT19D-es'
-tags: [ 'air','wick', ]
 actualPrice: 11.1 EUR
 currency: EUR
 price: 11.1

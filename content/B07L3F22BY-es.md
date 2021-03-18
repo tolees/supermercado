@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L3F22BY-es Micolor Detergente en Cápsulas Adiós al Separar - Pack de...'
 sku: 'B07L3F22BY-es'
-tags: [ 'detergente', ]
 actualPrice: 31.64 EUR
 currency: EUR
 price: 31.64

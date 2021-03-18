@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001L97KRU-es Babaria - Aloe Vera Balsamo Reparador 250 ml'
 sku: 'B001L97KRU-es'
-tags: [ 'babaria', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

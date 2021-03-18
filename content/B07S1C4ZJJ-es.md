@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S1C4ZJJ-es CAMPOS Conserva De Bonito Del Norte De Pesca Certificada...'
 sku: 'B07S1C4ZJJ-es'
-tags: [ 'conserva','aceite','de','oliva', ]
 actualPrice: 1.62 EUR
 currency: EUR
 price: 1.62

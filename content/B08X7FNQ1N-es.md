@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08X7FNQ1N-es USISA - Conserva de pescado | Salmón en Aceite de Oliva -...'
 sku: 'B08X7FNQ1N-es'
-tags: [ 'aceite','conserva','de','oliva','usisa', ]
 actualPrice: 15.8 EUR
 currency: EUR
 price: 15.8

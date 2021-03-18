@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FM9CYNH-es BABARIA desodorante piel atópica roll on 50 ml'
 sku: 'B07FM9CYNH-es'
-tags: [ 'babaria','desodorante', ]
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65

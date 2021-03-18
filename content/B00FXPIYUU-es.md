@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FXPIYUU-es Panasonic EW-DL82-W803 Cepillo de Dientes Eléctrico Sónico...'
 sku: 'B00FXPIYUU-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

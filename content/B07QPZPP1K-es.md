@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QPZPP1K-es CHUN YI 1 Pieza Funda de Sofá Elástica Protector...'
 sku: 'B07QPZPP1K-es'
-tags: [ 'Fundas decorativas para sofás','café','chun yi', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BYNS17F-es Schwarzkopf Gliss Ultimate Repair - Champú para cabello...'
 sku: 'B07BYNS17F-es'
-tags: [ 'champú','schwarzkopf', ]
 actualPrice: 1.74 EUR
 currency: EUR
 price: 1.74

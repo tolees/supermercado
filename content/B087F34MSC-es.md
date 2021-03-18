@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087F34MSC-es Usetcc Bolas de Hielo 2 Piezas Bandeja de Hielo de...'
 sku: 'B087F34MSC-es'
-tags: [ 'chocolate', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

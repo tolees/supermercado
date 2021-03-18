@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078JC7JJG-es Hoomtaook Portarollos Cocina Soportes de Pared para...'
 sku: 'B078JC7JJG-es'
-tags: [ 'papel','de','cocina', ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079QTF3CX-es Saimaza Café Descafeinado Espresso 6 - 200 cápsulas de...'
 sku: 'B079QTF3CX-es'
-tags: [ 'café','descafeinado', ]
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WRLJ52P-es IMPERIAL COAST - Caja regalo de bombones y chocolates -...'
 sku: 'B08WRLJ52P-es'
-tags: [ 'milka','nutella', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GQKFRMB-es AoGer - Kit de crecimiento de barba kit de crecimiento de...'
 sku: 'B08GQKFRMB-es'
-tags: [ 'jabón', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

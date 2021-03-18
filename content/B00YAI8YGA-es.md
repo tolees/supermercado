@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00YAI8YGA-es Nivea Crema para todo uso cuerpo cara manos 250 ml'
 sku: 'B00YAI8YGA-es'
-tags: [ 'nivea', ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

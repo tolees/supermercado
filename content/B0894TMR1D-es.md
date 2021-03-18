@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0894TMR1D-es SAWAKE 10pcs Pequeños Tarros de Vidrio de Almacenamiento...'
 sku: 'B0894TMR1D-es'
-tags: [ 'azúcar','frijoles', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

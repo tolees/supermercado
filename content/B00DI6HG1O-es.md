@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DI6HG1O-es Jim Beam Honey Bourbon Whisky Con Miel 35% - 700 ml'
 sku: 'B00DI6HG1O-es'
-tags: [ 'whisky', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

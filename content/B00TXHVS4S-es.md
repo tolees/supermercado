@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00TXHVS4S-es Catunambú Café Molido 250 g'
 sku: 'B00TXHVS4S-es'
-tags: [ 'café', ]
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

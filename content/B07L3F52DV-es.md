@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3F52DV-es Vernel Detergente Suavizante Concentrado Ropa Cielo Azul...'
 sku: 'B07L3F52DV-es'
-tags: [ 'Afeitado manual','Afeitado manual de hombre','Afeitado y depilación','Belleza','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Cuchillas de afeitar para hombre','Cuidado y limpieza del hogar','Hogar y cocina','Productos para la lavandería','Salud y cuidado personal','Suavizante líquido','Tablas de cortar','Utensilios de cocina','detergente','suavizante','vernel', ]
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

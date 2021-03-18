@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GGHPX30-es Max Factor LipFinity Colour & Gloss Lip Gloss Pintalabios...'
 sku: 'B00GGHPX30-es'
-tags: [ 'factor','max', ]
 actualPrice: 7.21 EUR
 currency: EUR
 price: 7.21

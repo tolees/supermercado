@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0132WNJ6Y-es Scottex - Papel de Cocina Megarollo 3 Rollos'
 sku: 'B0132WNJ6Y-es'
-tags: [ 'scottex','papel','de','cocina', ]
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

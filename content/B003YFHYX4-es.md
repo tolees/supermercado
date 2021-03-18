@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003YFHYX4-es Bosch TKA8013 - Máquina de café 1160 W capacidad para...'
 sku: 'B003YFHYX4-es'
-tags: [ 'café', ]
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

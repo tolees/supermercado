@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RC5J16F-es Damilo - Juego de 4 cajas de conservación apilables en...'
 sku: 'B08RC5J16F-es'
-tags: [ 'queso', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

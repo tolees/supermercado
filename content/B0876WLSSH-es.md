@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0876WLSSH-es O Ccaffè Napoli Dolce Gusto Compatible Café 96 Cápsulas 670 g'
 sku: 'B0876WLSSH-es'
-tags: [ 'café','dolce','gusto', ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

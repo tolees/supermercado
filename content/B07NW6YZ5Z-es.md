@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW6YZ5Z-es Somat Oro Gel Lavavajillas Limón – Pack de 4 Total: 200...'
 sku: 'B07NW6YZ5Z-es'
-tags: [ 'somat', ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

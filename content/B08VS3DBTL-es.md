@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VS3DBTL-es FETEAM - Tazas de cerámica lisas 3D tazas de café tazas de...'
 sku: 'B08VS3DBTL-es'
-tags: [ 'café', ]
 actualPrice: 14.85 EUR
 currency: EUR
 price: 14.85

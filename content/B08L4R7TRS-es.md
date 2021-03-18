@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L4R7TRS-es Garnier Original Remedies Champú Sólido Jengibre Vital...'
 sku: 'B08L4R7TRS-es'
-tags: [ 'garnier','jengibre','champú', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

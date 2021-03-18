@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CP148XM-es Oral-B Pro-Expert Protección Profesional Pasta de Dientes...'
 sku: 'B08CP148XM-es'
-tags: [ 'Cuidado bucal','Pastas de dientes','Salud y cuidado personal','de','dientes','oral-b','pasta', ]
 actualPrice: 32.21 EUR
 currency: EUR
 price: 32.21

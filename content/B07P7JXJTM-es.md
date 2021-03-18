@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P7JXJTM-es L Oreal Paris Men Expert - L Oréal Men Expert - Hydra...'
 sku: 'B07P7JXJTM-es'
-tags: [ 'oréal', ]
 actualPrice: 4.7 EUR
 currency: EUR
 price: 4.7

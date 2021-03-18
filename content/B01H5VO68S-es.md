@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01H5VO68S-es L Oreal Paris Dermo Expertise - L Oréal Paris Age Perfect...'
 sku: 'B01H5VO68S-es'
-tags: [ 'oréal', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

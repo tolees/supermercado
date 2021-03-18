@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CCM3Q2T-es L Oreal Paris Men Expert Crema Hidratante Anti-Fatiga 24H...'
 sku: 'B08CCM3Q2T-es'
-tags: [ 'Belleza','Cremas corporales','Cremas diurnas faciales','Cremas para pies','Cuidado diurno facial','Cuidado y limpieza del hogar','Hidratantes corporales','Hidratantes faciales','Lavavajillas','Lociones corporales','Manicura y pedicura','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Productos para el cuidado de la piel corporal','Productos para el cuidado de las manos y de los pies','Salud y cuidado personal','crema','hidratante','loreal paris men expert', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0864JVVJ4-es Cardhu 12 Años Whisky Escocés Puro de Malta Edición...'
 sku: 'B0864JVVJ4-es'
-tags: [ 'cardhu','whisky', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

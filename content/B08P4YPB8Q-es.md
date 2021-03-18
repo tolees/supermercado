@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08P4YPB8Q-es Maybelline New York Máscara de pestañas Volumen y Longitud...'
 sku: 'B08P4YPB8Q-es'
-tags: [ 'Belleza','Maquillaje','Maquillaje para ojos','Máscaras','maybelline','maybelline new york', ]
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

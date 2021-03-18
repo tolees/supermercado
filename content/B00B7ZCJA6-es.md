@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00B7ZCJA6-es Gothika Joseph Maeser 925340 Botes para conservas Cristal...'
 sku: 'B00B7ZCJA6-es'
-tags: [ 'conservas', ]
 actualPrice: 33.85 EUR
 currency: EUR
 price: 33.85

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IKDD9Z2-es BOSS - Baldessarini Set de Regalo - Eau de Cologne Spray +...'
 sku: 'B00IKDD9Z2-es'
-tags: [ 'gel','de','ducha', ]
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

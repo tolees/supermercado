@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TTX77C8-es Multidermol Champú - Vitamina B5 - Extracto de Tila -...'
 sku: 'B00TTX77C8-es'
-tags: [ 'champú', ]
 actualPrice: 7 EUR
 currency: EUR
 price: 7

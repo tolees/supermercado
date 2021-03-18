@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005YWEMQM-es Lip Smacker Coca Cola Lip Gloss paquete de 6 sabores variados'
 sku: 'B005YWEMQM-es'
-tags: [ 'coca','cola', ]
 actualPrice: 9.42 EUR
 currency: EUR
 price: 9.42

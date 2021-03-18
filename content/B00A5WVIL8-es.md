@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A5WVIL8-es Haribo Lampions Negros Dulces de Regaliz - 2000 gr'
 sku: 'B00A5WVIL8-es'
-tags: [ 'haribo', ]
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

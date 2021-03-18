@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087NR7TQ7-es Set de Regalo de Piedras Refrigerantes para Whisky - 6...'
 sku: 'B087NR7TQ7-es'
-tags: [ 'whisky', ]
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

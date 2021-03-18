@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H3RRKW9-es Gillette Fusion 5 ProGlide Maquinilla de Afeitar Hombre +...'
 sku: 'B07H3RRKW9-es'
-tags: [ 'gillette', ]
 actualPrice: 20.9 EUR
 currency: EUR
 price: 20.9

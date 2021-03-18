@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089RH9LYH-es Aceite de Coco Virgen Extra Ecológico Prensado en Frío...'
 sku: 'B089RH9LYH-es'
-tags: [ 'extra','virgen', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

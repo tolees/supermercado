@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NAVF1TM-es Spontex salvauas frotamax 1+1'
 sku: 'B01NAVF1TM-es'
-tags: [ 'spontex', ]
 actualPrice: 1.86 EUR
 currency: EUR
 price: 1.86

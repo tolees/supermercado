@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SG9CL4A-es NIVEA Hyaluron Cellular Filler Serum Facial Renovador...'
 sku: 'B00SG9CL4A-es'
-tags: [ 'nivea', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

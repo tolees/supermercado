@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YQ2QV9J-es Estrella Galicia Especial Cerveza 24 x 250ml'
 sku: 'B07YQ2QV9J-es'
-tags: [ 'cerveza','estrella','galicia', ]
 actualPrice: 19.4 EUR
 currency: EUR
 price: 19.4

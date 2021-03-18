@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Y9SU1DA-es PURINA Pro Plan Small & Mini Puppy OPTI Start Chicken...'
 sku: 'B00Y9SU1DA-es'
-tags: [ 'purina', ]
 actualPrice: 39.25 EUR
 currency: EUR
 price: 39.25

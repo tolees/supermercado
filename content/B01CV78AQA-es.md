@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CV78AQA-es Schwarzkopf Professional Osis Bouncy Curls Gel With Oil...'
 sku: 'B01CV78AQA-es'
-tags: [ 'schwarzkopf', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

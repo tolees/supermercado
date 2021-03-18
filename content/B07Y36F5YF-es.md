@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y36F5YF-es Vanish Oxi Action - Quitamanchas y Blanqueador para Ropa...'
 sku: 'B07Y36F5YF-es'
-tags: [ 'lejía', ]
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

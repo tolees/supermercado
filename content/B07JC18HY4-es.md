@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JC18HY4-es Tejero - Conserva de Pescado | Atún de Almadraba en Aceite...'
 sku: 'B07JC18HY4-es'
-tags: [ 'atún','conserva','aceite','de','oliva', ]
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

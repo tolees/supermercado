@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00UFMEE82-es TRIXIE Anti Bolas Pelo Malta y Queso 100 g Gato'
 sku: 'B00UFMEE82-es'
-tags: [ 'queso', ]
 actualPrice: 4.74 EUR
 currency: EUR
 price: 4.74

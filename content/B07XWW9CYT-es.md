@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XWW9CYT-es Café de Colombia en grano Consuelo 2 paquetes de 1 kg'
 sku: 'B07XWW9CYT-es'
-tags: [ 'café', ]
 actualPrice: 14.53 EUR
 currency: EUR
 price: 14.53

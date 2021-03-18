@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J6KBPKR-es JOFLY Dispensador de Desinfectante Manos Automático 400 ml...'
 sku: 'B08J6KBPKR-es'
-tags: [ 'jabón','hidroalcohólico', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

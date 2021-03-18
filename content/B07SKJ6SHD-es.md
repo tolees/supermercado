@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SKJ6SHD-es L Oréal Professionnel - Mascarilla Absolut Repair con...'
 sku: 'B07SKJ6SHD-es'
-tags: [ 'quinoa','oréal', ]
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

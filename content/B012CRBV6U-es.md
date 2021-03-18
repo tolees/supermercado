@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012CRBV6U-es Kaps Acondicionador de zapatos para nobuck y ante con...'
 sku: 'B012CRBV6U-es'
-tags: [ 'acondicionador', ]
 actualPrice: None None
 currency: None
 price: None

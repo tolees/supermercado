@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KXC2PY2-es Lactacyd Alcalino Ph 8 Higiene Íntima Externa Durante el...'
 sku: 'B07KXC2PY2-es'
-tags: [ 'lactacyd', ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

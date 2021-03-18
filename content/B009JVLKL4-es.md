@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009JVLKL4-es Cuétara - Napolitanas - Con un toque de deliciosa canela -...'
 sku: 'B009JVLKL4-es'
-tags: [ 'canela', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

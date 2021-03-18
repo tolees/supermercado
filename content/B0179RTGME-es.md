@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0179RTGME-es PURINA Pro Plan - Purina ProPlan Delicate pienso para Gato...'
 sku: 'B0179RTGME-es'
-tags: [ 'pavo','purina', ]
 actualPrice: 34.42 EUR
 currency: EUR
 price: 34.42

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZG3SC1S-es Moussel Neceser Gel de Ducha Clásico'
 sku: 'B07ZG3SC1S-es'
-tags: [ 'de','ducha','gel','moussel', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

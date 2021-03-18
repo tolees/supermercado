@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXMK9FA-es Solán De Cabras Agua Mineral Natural - Pack de 6 x 1 5 l -...'
 sku: 'B01LXMK9FA-es'
-tags: [ 'agua','cabras','de','mineral','solán', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

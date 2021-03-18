@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGHQKP7-es Air Wick Freshmatic - Aparato y Recambios de ambientador...'
 sku: 'B07VGHQKP7-es'
-tags: [ 'air','wick', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

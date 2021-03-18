@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PCYZP2K-es VIEWALL Tarros de conservas con tapa y cintas tarros de...'
 sku: 'B08PCYZP2K-es'
-tags: [ 'conservas','mermelada', ]
 actualPrice: 19.64 EUR
 currency: EUR
 price: 19.64

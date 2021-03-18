@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WQ1CTLY-es Friskies - CatFresh Classic - Arena para Gatos - 8 l'
 sku: 'B00WQ1CTLY-es'
-tags: [ 'friskies', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018M3GDBQ-es Gillette Fusion ProShield Chill Recambios - 6 Unidades'
 sku: 'B018M3GDBQ-es'
-tags: [ 'gillette', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

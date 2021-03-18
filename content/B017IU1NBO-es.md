@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017IU1NBO-es Yosoy Bebida Vegetal de Arroz Caja de 6 x 1L'
 sku: 'B017IU1NBO-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Artículos para gatos','Batidoras espumadoras de leche automáticas','Baño','Baño e higiene personal','Bebidas vegetales','Belleza','Bollería','Cervezas','Cervezas, vinos y licores','Cestas regalo y regalos gourmet','Chocolates','Comida húmeda para gatos','Comida para gatos','Conservas','Conservas de pescado y marisco','Cuidado bucal','Cuidado bucal infantil','Cuidado de la salud','Cuidado y limpieza del hogar','Cápsulas y pastillas de detergente para textiles','Detergente líquido para textiles','Dulces, chocolates y chicles','Espumadores de leche','Hogar y cocina','Lavavajillas','Limpieza personal','Lácteos y huevos','Mocasines para hombre','Panadería y bollería','Paquetes y cajas de chocolate','Pastas de dientes infantiles','Pastillas de jabón y jabón líquido para manos','Portacepillos de dientes','Productos para la lavandería','Productos para mascotas','Quitamanchas para textiles','Salud y cuidado personal','Soportes y dispensadores para baño','Utensilios para café y té','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','Zapatos','Zapatos para hombre','Zapatos y complementos','arroz','yosoy', ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

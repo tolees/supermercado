@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WHF66L7-es Gillette Styler Multiusos Maquinilla de Afeitar Hombre...'
 sku: 'B07WHF66L7-es'
-tags: [ 'gillette', ]
 actualPrice: 20.42 EUR
 currency: EUR
 price: 20.42

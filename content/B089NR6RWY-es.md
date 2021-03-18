@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NR6RWY-es Beeasy Dispensador Jabón Automático 400mL Dosificador Gel...'
 sku: 'B089NR6RWY-es'
-tags: [ 'hidroalcohólico','jabón', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

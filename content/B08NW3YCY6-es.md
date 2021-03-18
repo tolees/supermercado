@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NW3YCY6-es ITALIA REGINA - Pasta de leguminosas - 6 paquetes -...'
 sku: 'B08NW3YCY6-es'
-tags: [ 'garbanzos','guisantes','lentejas', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

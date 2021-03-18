@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G1B6SNT-es PSH Perfume Melocotón - 80 ml'
 sku: 'B07G1B6SNT-es'
-tags: [ 'melocotón', ]
 actualPrice: 8.02 EUR
 currency: EUR
 price: 8.02

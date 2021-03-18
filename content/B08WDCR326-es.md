@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WDCR326-es Ymea Vientre Plano - Tratamiento de la Menopausia Apto...'
 sku: 'B08WDCR326-es'
-tags: [ 'jabón','lactacyd', ]
 actualPrice: 24.1 EUR
 currency: EUR
 price: 24.1

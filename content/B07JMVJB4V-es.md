@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMVJB4V-es Harry Bear Pijamas para niñas Lindo como una Magdalena...'
 sku: 'B07JMVJB4V-es'
-tags: [ 'magdalena', ]
 actualPrice: None None
 currency: None
 price: None

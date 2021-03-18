@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6GCRL7-es Marca Amazon - Happy Belly Select Té helado de mango y...'
 sku: 'B07W6GCRL7-es'
-tags: [ 'happy','belly', ]
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TNX3FDN-es Edición Limitada - Gin Puerto de Indias Strawberry 70cl -...'
 sku: 'B08TNX3FDN-es'
-tags: [ 'ginebra', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

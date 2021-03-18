@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ETZZNQ-es American Crew Classic Precision Blend Tinte Gel Crema...'
 sku: 'B003ETZZNQ-es'
-tags: [ 'american','crew', ]
 actualPrice: 7.13 EUR
 currency: EUR
 price: 7.13

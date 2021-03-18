@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084LGVFM9-es Finish Limpiamáquinas líquido para lavavajillas y Finish...'
 sku: 'B084LGVFM9-es'
-tags: [ 'finish', ]
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

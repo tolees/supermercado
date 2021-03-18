@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9VOHG0-es La Toja - Espuma Afeitado Sensible con Aloe Vera y Sales...'
 sku: 'B00X9VOHG0-es'
-tags: [ 'la','toja', ]
 actualPrice: 2.3 EUR
 currency: EUR
 price: 2.3

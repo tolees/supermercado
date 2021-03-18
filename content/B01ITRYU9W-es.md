@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ITRYU9W-es Nocilla Original - 3kg'
 sku: 'B01ITRYU9W-es'
-tags: [ 'nocilla', ]
 actualPrice: 15.1 EUR
 currency: EUR
 price: 15.1

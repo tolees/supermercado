@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HHDM4T4-es Grefusa Mistercorn Africa con Sabor a Especias...'
 sku: 'B07HHDM4T4-es'
-tags: [ 'grefusa', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

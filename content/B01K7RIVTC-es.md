@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7RIVTC-es Neutrex Oxy Blanco Puro Quitamanchas sin lejía 840ml'
 sku: 'B01K7RIVTC-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Batidoras espumadoras de leche automáticas','Baño','Baño e higiene personal','Belleza','Bollería','Cuidado de la salud','Cuidado y limpieza del hogar','Espumadores de leche','Hogar y cocina','Limpieza personal','Panadería y bollería','Pastillas de jabón y jabón líquido para manos','Portacepillos de dientes','Productos para la lavandería','Quitamanchas para textiles','Salud y cuidado personal','Soportes y dispensadores para baño','Utensilios para café y té','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','lejía','neutrex', ]
 actualPrice: 1.72 EUR
 currency: EUR
 price: 1.72

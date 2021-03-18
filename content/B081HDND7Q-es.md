@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081HDND7Q-es Ibergrif M12057 Star Completo de Grifo Mezclador de Ducha...'
 sku: 'B081HDND7Q-es'
-tags: [ 'alcachofa', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

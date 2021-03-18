@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W56TK8H-es Weilov Regalo De San Valentín para Ella Collar Clásico De...'
 sku: 'B08W56TK8H-es'
-tags: [ 'melocotón', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

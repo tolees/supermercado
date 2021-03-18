@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089KKCQRQ-es Sanytol - Jabón de Manos Hidratante con Protección Total...'
 sku: 'B089KKCQRQ-es'
-tags: [ 'Baño e higiene personal','Belleza','Limpieza personal','Pastillas de jabón y jabón líquido para manos','jabón','sanytol', ]
 actualPrice: 2.4 EUR
 currency: EUR
 price: 2.4

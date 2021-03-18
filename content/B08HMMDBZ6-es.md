@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HMMDBZ6-es iClosam Camisetas Deporte Hombre Fitness Casual Seco...'
 sku: 'B08HMMDBZ6-es'
-tags: [ 'vino','tinto', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

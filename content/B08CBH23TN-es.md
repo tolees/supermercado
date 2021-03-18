@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CBH23TN-es Renova Papel Higiénico Super - 108 Rollos Blanco'
 sku: 'B08CBH23TN-es'
-tags: [ 'renova', ]
 actualPrice: 20.02 EUR
 currency: EUR
 price: 20.02

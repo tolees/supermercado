@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HHCH8T8-es NIVEA MEN Pack Protege y Cuida Neceser set de baño para...'
 sku: 'B08HHCH8T8-es'
-tags: [ 'desodorante','nivea', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

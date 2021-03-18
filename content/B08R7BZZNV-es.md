@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R7BZZNV-es Fenteer Filtro de Café Permanente Filtro de Silicona para...'
 sku: 'B08R7BZZNV-es'
-tags: [ 'café', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

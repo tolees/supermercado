@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083YBZ2HD-es TRESemmé Champú Cuidado Clásico 900ml - Pack de 6'
 sku: 'B083YBZ2HD-es'
-tags: [ 'champú','tresemmé', ]
 actualPrice: 22.69 EUR
 currency: EUR
 price: 22.69

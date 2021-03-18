@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WS8CNSH-es Marca Amazon - Happy Belly Select Café molido de tueste...'
 sku: 'B07WS8CNSH-es'
-tags: [ 'café','happy','belly', ]
 actualPrice: 13.4 EUR
 currency: EUR
 price: 13.4

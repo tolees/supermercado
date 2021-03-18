@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RPZCKDW-es Ariel Detergente Líquido para Lavadora Active Odour...'
 sku: 'B07RPZCKDW-es'
-tags: [ 'detergente', ]
 actualPrice: 36.44 EUR
 currency: EUR
 price: 36.44

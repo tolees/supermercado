@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CDR99QS-es VIVILINEN Juegos de Recipientes de Plástico Transparente...'
 sku: 'B08CDR99QS-es'
-tags: [ 'café', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

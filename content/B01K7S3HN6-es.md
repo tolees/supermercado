@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7S3HN6-es Handy Bag Bolsas de Basura Extra Resistentes No Gotean'
 sku: 'B01K7S3HN6-es'
-tags: [ 'basura','bolsas','de', ]
 actualPrice: None None
 currency: None
 price: None

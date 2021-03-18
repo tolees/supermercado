@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000OM1EO0-es Trixie Arnés para Gatos - 1 Unidad'
 sku: 'B000OM1EO0-es'
-tags: [ 'trixie', ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

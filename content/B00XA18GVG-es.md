@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XA18GVG-es Nicky Limón Papel de Cocina | 2 rollos | Hojas de 2 capas...'
 sku: 'B00XA18GVG-es'
-tags: [ 'papel','de','cocina', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

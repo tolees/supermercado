@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T63JJQ1-es Auralum Columna Ducha Negra Termostatico Conjunto Ducha...'
 sku: 'B08T63JJQ1-es'
-tags: [ 'alcachofa', ]
 actualPrice: 109.98 EUR
 currency: EUR
 price: 109.98

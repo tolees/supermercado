@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071JJ2D3W-es TASSIMO Marcilla Café Cortado - 5 paquetes de 16 cápsulas:...'
 sku: 'B071JJ2D3W-es'
-tags: [ 'café','marcilla', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

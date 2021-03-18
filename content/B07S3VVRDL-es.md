@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3VVRDL-es The Primal Pantry Barritas Energeticas 48 x 30g - sin...'
 sku: 'B07S3VVRDL-es'
-tags: [ 'Alimentación y bebidas','Aperitivos','Barritas y granola','azúcar','gluten','primal pantry','sin', ]
 actualPrice: 37.79 EUR
 currency: EUR
 price: 37.79

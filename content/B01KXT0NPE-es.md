@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KXT0NPE-es Watermans Rápido Hair Growth champú + acondicionador de...'
 sku: 'B01KXT0NPE-es'
-tags: [ 'acondicionador','champú', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

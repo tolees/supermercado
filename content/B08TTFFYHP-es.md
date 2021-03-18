@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TTFFYHP-es HOPEMATE H - 20pcs Discos Desmaquillantes Reutilizables +...'
 sku: 'B08TTFFYHP-es'
-tags: [ 'discos','desmaquillantes', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

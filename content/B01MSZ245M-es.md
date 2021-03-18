@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSZ245M-es Chupa Chups Original Caramelo con Palo de Sabores Variados...'
 sku: 'B01MSZ245M-es'
-tags: [ 'chupa','chups', ]
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

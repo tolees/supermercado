@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08NQYN7GM-es GUILLEN JAMONES Y EMBUTIDOS - Surtido Embutidos Ibericos...'
 sku: 'B08NQYN7GM-es'
-tags: [ 'chorizo','guillen jamones y embutidos', ]
 actualPrice: 46.9 EUR
 currency: EUR
 price: 46.9

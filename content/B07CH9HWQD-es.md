@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CH9HWQD-es Fairy Todo En 1 Cápsulas de Lavavajillas Naranja Pack de...'
 sku: 'B07CH9HWQD-es'
-tags: [ 'fairy', ]
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DUWZ5HM-es Cuca Navajas al Natural 120g'
 sku: 'B01DUWZ5HM-es'
-tags: [ 'cuca', ]
 actualPrice: 4.65 EUR
 currency: EUR
 price: 4.65

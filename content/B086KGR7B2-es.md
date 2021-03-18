@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086KGR7B2-es Ariel Pods Allin1 Detergente en Cápsulas para Lavadora...'
 sku: 'B086KGR7B2-es'
-tags: [ 'Artículos para gatos','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Cepillos de dientes eléctricos','Cepillos de dientes eléctricos de rotación','Cepillos de dientes eléctricos y accesorios','Cepillos de dientes y accesorios','Comida húmeda para gatos','Comida para gatos','Cuidado bucal','Cuidado y limpieza del hogar','Cápsulas y pastillas de detergente para textiles','Hogar y cocina','Limpieza personal','Pastas de dientes','Pastillas de jabón y jabón líquido para manos','Productos para la lavandería','Productos para mascotas','Robots aspiradores','Salud y cuidado personal','ariel','detergente', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

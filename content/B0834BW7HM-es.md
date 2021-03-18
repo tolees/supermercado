@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0834BW7HM-es Gullón Galletas Saladas Quinoa y Chía - 250 g'
 sku: 'B0834BW7HM-es'
-tags: [ 'gullón','quinoa', ]
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

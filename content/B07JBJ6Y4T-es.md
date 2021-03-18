@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JBJ6Y4T-es Usisa - Conserva de Pescado| Boquerones en Aceite de Oliva...'
 sku: 'B07JBJ6Y4T-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Batidoras espumadoras de leche automáticas','Baño','Baño e higiene personal','Belleza','Bollería','Conservas','Conservas de pescado y marisco','Cuidado de la salud','Cuidado y limpieza del hogar','Espumadores de leche','Hogar y cocina','Lavavajillas','Limpieza personal','Panadería y bollería','Pastillas de jabón y jabón líquido para manos','Portacepillos de dientes','Productos para la lavandería','Quitamanchas para textiles','Salud y cuidado personal','Soportes y dispensadores para baño','Utensilios para café y té','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','aceite','boquerones','conserva','de','oliva','usisa', ]
 actualPrice: 7.77 EUR
 currency: EUR
 price: 7.77

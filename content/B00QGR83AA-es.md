@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00QGR83AA-es Pompadour Cofre Premium Selection Teekanne - 180 Bolsitas'
 sku: 'B00QGR83AA-es'
-tags: [ 'pompadour', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

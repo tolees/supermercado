@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NFFW3HG-es Gillette Fusion5 Power Maquinilla Afeitar 5 Recambios'
 sku: 'B07NFFW3HG-es'
-tags: [ 'gillette', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

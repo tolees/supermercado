@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CYKBXP7-es Mimosin - Mimosín Intense Suavizante Estallido De Pasión...'
 sku: 'B08CYKBXP7-es'
-tags: [ 'mimosin','suavizante', ]
 actualPrice: 16.68 EUR
 currency: EUR
 price: 16.68

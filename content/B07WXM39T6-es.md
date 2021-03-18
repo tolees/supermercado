@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WXM39T6-es Marca Amazon - Happy Belly Select Café de tueste natural...'
 sku: 'B07WXM39T6-es'
-tags: [ 'café','happy','belly', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

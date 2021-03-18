@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HU7T1JW-es Kinder Chocolate - Barritas de Chocolate con Leche - 8...'
 sku: 'B00HU7T1JW-es'
-tags: [ 'chocolate', ]
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

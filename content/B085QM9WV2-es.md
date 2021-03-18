@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085QM9WV2-es Cola Cao Mocca Café & Cacao 270g'
 sku: 'B085QM9WV2-es'
-tags: [ 'café', ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

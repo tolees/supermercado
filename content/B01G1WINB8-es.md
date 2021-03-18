@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G1WINB8-es Ruffles Jamon patatas fritas onduladas 312g'
 sku: 'B01G1WINB8-es'
-tags: [ 'fritas','patatas','ruffles', ]
 actualPrice: 2 EUR
 currency: EUR
 price: 2

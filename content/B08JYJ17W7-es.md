@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JYJ17W7-es Anpro Dispensador de Jabón Espuma Automático Dosificador...'
 sku: 'B08JYJ17W7-es'
-tags: [ 'jabón', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

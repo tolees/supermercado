@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VSRPVSC-es Tapas Rioja - Tarros de cristal con tapas para conservas...'
 sku: 'B06VSRPVSC-es'
-tags: [ 'conserva','conservas','tapas rioja', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

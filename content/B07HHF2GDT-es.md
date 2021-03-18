@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HHF2GDT-es Grefusa 109849 - MisterCorn América | Cocktail de Frutos...'
 sku: 'B07HHF2GDT-es'
-tags: [ 'grefusa','frutos','secos', ]
 actualPrice: 1.48 EUR
 currency: EUR
 price: 1.48

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085LCQNZV-es Nescafé Dolce Gusto CAFÉ CON LECHE INTENSO - Pack De 3 x...'
 sku: 'B085LCQNZV-es'
-tags: [ 'café','dolce','gusto','nescafé','nescafé dolce gusto', ]
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

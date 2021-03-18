@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5HQVBM-es Knorr Dso Thai - 69 g'
 sku: 'B01N5HQVBM-es'
-tags: [ 'knorr', ]
 actualPrice: None None
 currency: None
 price: None

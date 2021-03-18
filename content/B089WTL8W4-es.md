@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089WTL8W4-es Lázaro Mini Rosquillas Integral Sin Azúcar Añadidos Con...'
 sku: 'B089WTL8W4-es'
-tags: [ 'azúcar', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

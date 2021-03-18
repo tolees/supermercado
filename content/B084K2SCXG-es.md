@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084K2SCXG-es L Oreal Paris Dermo Expertise - L Oréal Paris Age Perfect...'
 sku: 'B084K2SCXG-es'
-tags: [ 'oréal', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KXYZK4G-es Rianxeira Conserva de sardina sardinilla en aceite de...'
 sku: 'B07KXYZK4G-es'
-tags: [ 'conserva','sardina','aceite','de','oliva', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

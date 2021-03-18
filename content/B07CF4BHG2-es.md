@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CF4BHG2-es L Oreal Paris Elvive Color Vive Champú Protector para el...'
 sku: 'B07CF4BHG2-es'
-tags: [ 'champú', ]
 actualPrice: 2.06 EUR
 currency: EUR
 price: 2.06

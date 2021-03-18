@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HD5TFOG-es Lagarto pastillas de Jabón Natural - Paquete De 40...'
 sku: 'B01HD5TFOG-es'
-tags: [ 'jabón', ]
 actualPrice: 15.01 EUR
 currency: EUR
 price: 15.01

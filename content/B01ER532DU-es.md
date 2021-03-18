@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ER532DU-es HARIBO Funky Mix Maxibox Mezcla de Frutas 600 Gramos'
 sku: 'B01ER532DU-es'
-tags: [ 'haribo', ]
 actualPrice: 3.83 EUR
 currency: EUR
 price: 3.83

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00STBW4R4-es L Oreal Paris Men Expert - L Oréal Paris Men Expert - 24H...'
 sku: 'B00STBW4R4-es'
-tags: [ 'oréal', ]
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZCPNX3N-es Mroobest - Hair Loss Shampoo Champú Anticaida Anti Pérdida...'
 sku: 'B07ZCPNX3N-es'
-tags: [ 'champú', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

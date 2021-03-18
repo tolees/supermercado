@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083DRDTNB-es Nabür - 4 jabones frescos de leche de cabra | Fabricado en...'
 sku: 'B083DRDTNB-es'
-tags: [ 'jabón', ]
 actualPrice: 27.04 EUR
 currency: EUR
 price: 27.04

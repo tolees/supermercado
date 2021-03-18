@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WU3YK5Q-es Pescamar Atun En Tomate Sauce Y Guisantes En Lata 110 G 110 g'
 sku: 'B00WU3YK5Q-es'
-tags: [ 'guisantes', ]
 actualPrice: 1.07 EUR
 currency: EUR
 price: 1.07

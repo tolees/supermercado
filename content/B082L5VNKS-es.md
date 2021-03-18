@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082L5VNKS-es Neutrogena Spot Controlling Acne Crema Hidratante Oil Free...'
 sku: 'B082L5VNKS-es'
-tags: [ 'crema','hidratante','neutrogena', ]
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

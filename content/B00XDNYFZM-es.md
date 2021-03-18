@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDNYFZM-es Lindt Lindor Tableta de Chocolate Blanco 100 g'
 sku: 'B00XDNYFZM-es'
-tags: [ 'chocolate','lindt', ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

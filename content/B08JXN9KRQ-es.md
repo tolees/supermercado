@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JXN9KRQ-es Oclean F1 Cepillo de Dientes Sónico Cepillos de Dientes...'
 sku: 'B08JXN9KRQ-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

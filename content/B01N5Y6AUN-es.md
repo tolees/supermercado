@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N5Y6AUN-es JOE WEIDER VICTORY - Victory Whey Protein Matrix Chocolate...'
 sku: 'B01N5Y6AUN-es'
-tags: [ 'chocolate', ]
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

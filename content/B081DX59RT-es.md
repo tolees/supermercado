@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081DX59RT-es Bag in Box 5L Vino Tintos Recomendado Equivalente a 6 5...'
 sku: 'B081DX59RT-es'
-tags: [ 'vino','tinto', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

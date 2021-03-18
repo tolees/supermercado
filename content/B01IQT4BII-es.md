@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IQT4BII-es Cartoon - Patrulla Canina | Neceser infantil | Dentífrico...'
 sku: 'B01IQT4BII-es'
-tags: [ 'dentífrico', ]
 actualPrice: 4.03 EUR
 currency: EUR
 price: 4.03

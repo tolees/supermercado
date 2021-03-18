@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PJ61S2M-es CERVEZUS - Cervezas Alemanas Pack 12 variedades - Pack...'
 sku: 'B08PJ61S2M-es'
-tags: [ 'cerveza', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

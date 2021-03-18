@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F87BBJ4-es NR11800070008 Hi-SPEED MEMORIA USB STICK 8GB FLASH...'
 sku: 'B00F87BBJ4-es'
-tags: [ 'chocolate', ]
 actualPrice: 4.77 EUR
 currency: EUR
 price: 4.77

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074KLF56K-es Mantequilla de Cacahuete de HSN | Textura Suave y Cremosa...'
 sku: 'B074KLF56K-es'
-tags: [ 'azúcar', ]
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

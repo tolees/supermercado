@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YWQJP4K-es Hero Baby Buenas Noches Guisantes Tiernos con Jamón Cocido...'
 sku: 'B07YWQJP4K-es'
-tags: [ 'guisantes','jamón','hero','baby', ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

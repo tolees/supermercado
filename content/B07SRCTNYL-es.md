@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SRCTNYL-es Bulldog Cuidado Facial para Hombres - Kit Hidratación de...'
 sku: 'B07SRCTNYL-es'
-tags: [ 'crema','hidratante', ]
 actualPrice: 10.6 EUR
 currency: EUR
 price: 10.6

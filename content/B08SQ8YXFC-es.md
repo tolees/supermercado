@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SQ8YXFC-es DORIMED - Pastas de frutas 330g Joie du Verger 24 Piezas...'
 sku: 'B08SQ8YXFC-es'
-tags: [ 'pera','sin','gluten', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

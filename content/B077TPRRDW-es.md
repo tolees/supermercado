@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TPRRDW-es Puleva Leche Ecológica Semidesnatada - Paquete de 6 x 1000...'
 sku: 'B077TPRRDW-es'
-tags: [ 'puleva', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

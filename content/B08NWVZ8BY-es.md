@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08NWVZ8BY-es N\O - HvxMot Tabla para Cortar 1 Pieza Tabla de Cortar...'
 sku: 'B08NWVZ8BY-es'
-tags: [ 'Hogar y cocina','Tablas de cortar','Utensilios de cocina','n\o','queso', ]
 actualPrice: 12.88 EUR
 currency: EUR
 price: 12.88

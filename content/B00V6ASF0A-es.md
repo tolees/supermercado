@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V6ASF0A-es Drasanvi Jabón Árbol del Té - 100 gr'
 sku: 'B00V6ASF0A-es'
-tags: [ 'Baño e higiene personal','Belleza','Cuidado de la salud','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Salud y cuidado personal','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','drasanvi','jabón', ]
 actualPrice: 2.61 EUR
 currency: EUR
 price: 2.61

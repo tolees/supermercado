@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAIRWDW-es Instituto Español Gel de Ducha con Argán - 750 ml'
 sku: 'B00XAIRWDW-es'
-tags: [ 'gel','de','ducha','instituto','español', ]
 actualPrice: 1.65 EUR
 currency: EUR
 price: 1.65

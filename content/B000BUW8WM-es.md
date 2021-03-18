@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000BUW8WM-es Gillette Fusion5 Power Maquinilla'
 sku: 'B000BUW8WM-es'
-tags: [ 'gillette', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

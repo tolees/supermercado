@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XA1QNAM-es Bonka café en grano natural - 1 paquete x 1 kg'
 sku: 'B00XA1QNAM-es'
-tags: [ 'café', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

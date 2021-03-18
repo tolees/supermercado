@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KBD1L4J-es iDesign Portarrollos de cocina sin taladro práctico...'
 sku: 'B07KBD1L4J-es'
-tags: [ 'papel','de','cocina', ]
 actualPrice: 15.93 EUR
 currency: EUR
 price: 15.93

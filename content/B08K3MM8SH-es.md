@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08K3MM8SH-es Nestlé Purina Gourmet Gold Comida Húmeda para Gatos Pack...'
 sku: 'B08K3MM8SH-es'
-tags: [ 'Artículos para gatos','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Comida húmeda para gatos','Comida para gatos','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Productos para mascotas','Robots aspiradores','nestlé','nestlé purina','purina', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

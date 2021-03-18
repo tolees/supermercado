@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K47SDFJ-es Smint Tin Best Sellers Caramelo Comprimido Sin Azúcar...'
 sku: 'B08K47SDFJ-es'
-tags: [ 'azúcar','smint', ]
 actualPrice: 20.2 EUR
 currency: EUR
 price: 20.2

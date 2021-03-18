@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MXL642R-es AOKKR Dispensador de Jabón Automático 350ml Dispensador...'
 sku: 'B08MXL642R-es'
-tags: [ 'jabón', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

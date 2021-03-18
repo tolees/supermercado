@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N78IU8L-es Dudu Osun Tropical Jabón negro africano puro pack de 6...'
 sku: 'B01N78IU8L-es'
-tags: [ 'jabón', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAEBVEC-es Elena Detergente para lavadora frescor colonia adecuado...'
 sku: 'B00XAEBVEC-es'
-tags: [ 'detergente', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

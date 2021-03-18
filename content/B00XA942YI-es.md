@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XA942YI-es TATAY 1167101 - Portasandwich - Porta bocadillos para pan...'
 sku: 'B00XA942YI-es'
-tags: [ 'pan','de','molde', ]
 actualPrice: 4.7 EUR
 currency: EUR
 price: 4.7

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XDJ5BDS-es Antree - Accesorio para molinillo de carne KitchenAid para...'
 sku: 'B07XDJ5BDS-es'
-tags: [ 'salchichas', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

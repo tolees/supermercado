@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HTBCTF6-es Pulvera - Puleva Leche Mañanas Ligeras Desnatada sin...'
 sku: 'B01HTBCTF6-es'
-tags: [ 'Alimentación y bebidas','Leche','Lácteos y huevos','puleva','pulvera', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

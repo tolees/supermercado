@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SBP8DTG-es The Gourmet Box Authentic Spanish Tapas - GOURMET BOX Caja...'
 sku: 'B08SBP8DTG-es'
-tags: [ 'aceite','de','oliva','virgen','extra', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VXKXX5-es Powerbar Barritas Proteinas con Bajo Nivel de Azucar Sabor...'
 sku: 'B079VXKXX5-es'
-tags: [ 'chocolate', ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

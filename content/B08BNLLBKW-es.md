@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BNLLBKW-es 20x Clips de Cierre de Plástico 11cm Pinzas de Cierre en...'
 sku: 'B08BNLLBKW-es'
-tags: [ 'café', ]
 actualPrice: 4.47 EUR
 currency: EUR
 price: 4.47

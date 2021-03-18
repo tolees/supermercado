@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HCB7K5P-es Baoblaze - 1 pc Filtro de Tolva Seca de Cerveza Filtros de...'
 sku: 'B07HCB7K5P-es'
-tags: [ 'café','cerveza', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NRTDSD6-es Diadermine - Desmaquillador de ojos 2 uds de 125ml 250ml...'
 sku: 'B07NRTDSD6-es'
-tags: [ 'diadermine', ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

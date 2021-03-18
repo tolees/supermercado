@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PFSNQ7X-es gracosy Molde de Silicona Semiesferas de 6 Cavidades 3 pcs...'
 sku: 'B08PFSNQ7X-es'
-tags: [ 'chocolate', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

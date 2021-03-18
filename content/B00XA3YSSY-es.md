@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XA3YSSY-es Nestlé NESQUIK Cacao Soluble Instantáneo - Bolsa de cacao...'
 sku: 'B00XA3YSSY-es'
-tags: [ 'nesquik','nestlé', ]
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BYNMTBY-es Garnier Skin Active - Agua Micelar en Aceite Elimina el...'
 sku: 'B07BYNMTBY-es'
-tags: [ 'garnier', ]
 actualPrice: 0.98 EUR
 currency: EUR
 price: 0.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQ6VM59-es Skip Ultimate Detergente Capsulas 3en1 CON PODER KH7 30lav...'
 sku: 'B07NQ6VM59-es'
-tags: [ 'Cuidado y limpieza del hogar','Cápsulas y pastillas de detergente para textiles','Productos para la lavandería','Salud y cuidado personal','detergente','kh7','skip', ]
 actualPrice: 27.09 EUR
 currency: EUR
 price: 27.09

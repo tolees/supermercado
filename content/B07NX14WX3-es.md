@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NX14WX3-es Axe - Apollo - Desodorante Bodyspray para hombre 48 horas...'
 sku: 'B07NX14WX3-es'
-tags: [ 'axe','desodorante', ]
 actualPrice: None None
 currency: None
 price: None

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084LGV7WP-es Finish Powerball Classic Pastillas para el Lavavajillas...'
 sku: 'B084LGV7WP-es'
-tags: [ 'finish', ]
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

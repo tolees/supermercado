@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YQYCHHK-es Casa Matachín 010206 Aldelís Conserva Pollo Aceite Pack 80...'
 sku: 'B07YQYCHHK-es'
-tags: [ 'conserva', ]
 actualPrice: 27.03 EUR
 currency: EUR
 price: 27.03

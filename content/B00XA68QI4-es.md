@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA68QI4-es Ariel Detergente en Polvo para Lavadora Original Lavados...'
 sku: 'B00XA68QI4-es'
-tags: [ 'ariel','detergente', ]
 actualPrice: 13.4 EUR
 currency: EUR
 price: 13.4

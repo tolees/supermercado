@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083RHTNH3-es Cabezales para Cepillo Oral B Eléctrico Milos Paquete de 8...'
 sku: 'B083RHTNH3-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

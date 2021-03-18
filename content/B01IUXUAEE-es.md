@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IUXUAEE-es Chocolates Valor - Chocolate 82% Cacao 170 gr'
 sku: 'B01IUXUAEE-es'
-tags: [ 'chocolate', ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001LS5VYU-es Versele-laga A-17680 Crispy Muesli Hámster - 1 kg'
 sku: 'B001LS5VYU-es'
-tags: [ 'muesli', ]
 actualPrice: 2.1 EUR
 currency: EUR
 price: 2.1

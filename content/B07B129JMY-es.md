@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B129JMY-es Kit Kat - Nestlé KitKat Mini Chocolate con Leche -...'
 sku: 'B07B129JMY-es'
-tags: [ 'nestlé','chocolate', ]
 actualPrice: 40.25 EUR
 currency: EUR
 price: 40.25

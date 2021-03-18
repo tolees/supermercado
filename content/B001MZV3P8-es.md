@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001MZV3P8-es Rinti Pur - Jamón para Perros 12 Unidades 12 x 800 g'
 sku: 'B001MZV3P8-es'
-tags: [ 'jamón', ]
 actualPrice: 25.65 EUR
 currency: EUR
 price: 25.65

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NWRNZGC-es SCOBUTY - Paño Antivaho Toallitas Antivaho Para Gafas...'
 sku: 'B08NWRNZGC-es'
-tags: [ 'bayeta', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

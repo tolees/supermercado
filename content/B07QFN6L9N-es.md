@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QFN6L9N-es Everything For You - Jabón original Aleppo 2x200g 50%...'
 sku: 'B07QFN6L9N-es'
-tags: [ 'jabón','aceite','de','oliva', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QL8WW2G-es Rexona Invisible Ice Fresh Antitranspirante Aerosol para...'
 sku: 'B07QL8WW2G-es'
-tags: [ 'rexona', ]
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

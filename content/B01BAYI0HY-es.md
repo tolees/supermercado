@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BAYI0HY-es #Cervezanía - Kit de elaboración de cerveza artesana...'
 sku: 'B01BAYI0HY-es'
-tags: [ 'cerveza','levadura', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YZ4VZT8-es TruuMe - Stain Removal Whitening Toothpaste Baking Soda...'
 sku: 'B07YZ4VZT8-es'
-tags: [ 'pasta','de','dientes', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

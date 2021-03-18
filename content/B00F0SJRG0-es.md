@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00F0SJRG0-es Baileys Chocolat Luxe Crema de Whisky - 500 ml'
 sku: 'B00F0SJRG0-es'
-tags: [ 'whisky', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

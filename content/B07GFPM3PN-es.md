@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GFPM3PN-es Concentrado de Proteína de Suero Evowhey Protein 2.0 de...'
 sku: 'B07GFPM3PN-es'
-tags: [ 'gluten','sin','soja', ]
 actualPrice: 19.41 EUR
 currency: EUR
 price: 19.41

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAP0HEG-es Haribo - Cocktail pica Caramelos de goma 1 kg'
 sku: 'B00XAP0HEG-es'
-tags: [ 'haribo', ]
 actualPrice: 8.23 EUR
 currency: EUR
 price: 8.23

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086CYFSKW-es BE-KIND Barrita de Frutos secos con mantequilla de...'
 sku: 'B086CYFSKW-es'
-tags: [ 'Alimentación y bebidas','Aperitivos','Barritas y granola','be-kind','chocolate','frutos','secos', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

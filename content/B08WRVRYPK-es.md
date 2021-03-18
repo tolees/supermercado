@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WRVRYPK-es iMPERIAL COAST - Caja regalo de bombones y chocolates -...'
 sku: 'B08WRVRYPK-es'
-tags: [ 'lindt', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

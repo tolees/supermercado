@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZG48G7V-es DON T PLASTIC ME Taza de café con tapa de rosca 350 ml de...'
 sku: 'B07ZG48G7V-es'
-tags: [ 'café', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

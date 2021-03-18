@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XA2N2DC-es Cuétara Tosta Rica Choco Guay Galletas Sándwich Rellena de...'
 sku: 'B00XA2N2DC-es'
-tags: [ 'tosta','rica', ]
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

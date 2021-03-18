@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084DV9KQ2-es True Instinct High Meat Adult - Nature s Variety - Pienso...'
 sku: 'B084DV9KQ2-es'
-tags: [ 'pavo', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

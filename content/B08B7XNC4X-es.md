@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B7XNC4X-es TUKNON Burger Press Prensa de Hamburguesa rellena Molde...'
 sku: 'B08B7XNC4X-es'
-tags: [ 'hamburguesa','salchichas','tuknon', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L51HPCH-es Anmossi Bombilla LED E14 Blanco Cálido 3000K 1200Lm 12W...'
 sku: 'B08L51HPCH-es'
-tags: [ 'maíz', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

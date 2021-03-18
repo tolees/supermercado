@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KW6H53Z-es WOTEK Dispensador de Jabón Automático 300ML dispensador...'
 sku: 'B08KW6H53Z-es'
-tags: [ 'jabón', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

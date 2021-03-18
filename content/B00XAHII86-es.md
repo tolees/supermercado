@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAHII86-es Babaria Champú Niños Manzanilla 600 ml'
 sku: 'B00XAHII86-es'
-tags: [ 'babaria','manzanilla','champú', ]
 actualPrice: 2.3 EUR
 currency: EUR
 price: 2.3

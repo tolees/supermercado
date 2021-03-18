@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SXE0R8K-es Michael Kors 0MK5004 Gafas Gold/Dk Chocolate 1014t5 59...'
 sku: 'B00SXE0R8K-es'
-tags: [ 'chocolate', ]
 actualPrice: 91.0 EUR
 currency: EUR
 price: 91.0

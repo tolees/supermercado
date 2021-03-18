@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077BCS9R2-es Deliex delicias de Extremadura - Cesta regalo gourmet con...'
 sku: 'B077BCS9R2-es'
-tags: [ 'mermelada','queso','queso','de','cabra','virgen','extra', ]
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

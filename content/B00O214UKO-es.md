@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O214UKO-es TASSIMO Marcilla Café con Leche - 5 paquetes de 16...'
 sku: 'B00O214UKO-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','café','marcilla','tassimo', ]
 actualPrice: 30.6 EUR
 currency: EUR
 price: 30.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TPM582Q-es Oral-B Smart Expert - Cepillo de dientes eléctrico con...'
 sku: 'B07TPM582Q-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 114.2 EUR
 currency: EUR
 price: 114.2

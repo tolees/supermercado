@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081ZN2HP7-es Mroobest - Champu Anticaspa Anti Dandruff Shampoo...'
 sku: 'B081ZN2HP7-es'
-tags: [ 'champu','champú', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

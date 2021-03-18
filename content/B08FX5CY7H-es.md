@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FX5CY7H-es JE Make IT Simple Dispensador automático de jabón de 700...'
 sku: 'B08FX5CY7H-es'
-tags: [ 'Accesorios de baño','Baño','Cubertería, Vajilla y Cristalería','Cuidado y limpieza del hogar','Detergente líquido para textiles','Dispensadores de loción y de jabón','Hogar y cocina','Iluminación','Iluminación de ambiente infantil','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Iluminación nocturna de interior','Lámparas e iluminación infantil','Piezas de vajilla','Productos para la lavandería','Salud y cuidado personal','Soportes y dispensadores para baño','Tazas','Tazas de té','jabón','je make it simple', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

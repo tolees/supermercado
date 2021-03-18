@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077YDTVHS-es Scitec Nutrition 100% Whey Protein Professional con...'
 sku: 'B077YDTVHS-es'
-tags: [ 'queso', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08X6YQLQQ-es CERVEZA ARTESANAL: para hacer en casa'
 sku: 'B08X6YQLQQ-es'
-tags: [ 'cerveza', ]
 actualPrice: 7.42 EUR
 currency: EUR
 price: 7.42

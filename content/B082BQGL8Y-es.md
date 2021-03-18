@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082BQGL8Y-es Finish Power Gel 0% Detergente Gel Lavavajilla con...'
 sku: 'B082BQGL8Y-es'
-tags: [ 'detergente','finish', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCIR5JU-es Lip Smacker Caja de metal de Coca Cola con 6 bálsamos...'
 sku: 'B01NCIR5JU-es'
-tags: [ 'Alimentación y bebidas','Belleza','Bálsamos labiales','Café y expreso','Café, té y bebidas','Cremas corporales','Cremas diurnas faciales','Cremas para pies','Cuidado diurno facial','Cuidado y limpieza del hogar','Cápsulas de café','Hidratantes corporales','Hidratantes faciales','Lavavajillas','Lociones corporales','Manicura y pedicura','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Productos para el cuidado de la piel corporal','Productos para el cuidado de las manos y de los pies','Productos para el cuidado de los labios','Salud y cuidado personal','coca','cola','lip smacker', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

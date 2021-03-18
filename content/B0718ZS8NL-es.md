@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0718ZS8NL-es REVLON - UNIQ ONE CHAMPU Y ACONDICIONADOR 1+1+1 PACK DE...'
 sku: 'B0718ZS8NL-es'
-tags: [ 'acondicionador','champu','revlon', ]
 actualPrice: 25.16 EUR
 currency: EUR
 price: 25.16

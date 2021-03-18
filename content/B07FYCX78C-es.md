@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYCX78C-es L Oréal Paris Make-up designer X Isabel Marant "Palais...'
 sku: 'B07FYCX78C-es'
-tags: [ 'oréal', ]
 actualPrice: 8.43 EUR
 currency: EUR
 price: 8.43

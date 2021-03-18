@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QJD2JD5-es Baoblaze Cápsulas de Café Recargables Reutilizables de 2...'
 sku: 'B08QJD2JD5-es'
-tags: [ 'café','cápsulas','de','café', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

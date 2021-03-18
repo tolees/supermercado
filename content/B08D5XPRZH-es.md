@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D5XPRZH-es JVJH Dispensador De Jabón Automático Dispensador...'
 sku: 'B08D5XPRZH-es'
-tags: [ 'jabón', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RRBNNFF-es Oral-B Genius X 20000N - Cepillo De Dientes Eléctrico con...'
 sku: 'B07RRBNNFF-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 145.99 EUR
 currency: EUR
 price: 145.99

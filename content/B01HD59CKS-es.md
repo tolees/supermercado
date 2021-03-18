@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HD59CKS-es Lagarto Azul Lejía con Detergente - Paquete de 8 x 1500 ml...'
 sku: 'B01HD59CKS-es'
-tags: [ 'detergente','lejía', ]
 actualPrice: 9.12 EUR
 currency: EUR
 price: 9.12

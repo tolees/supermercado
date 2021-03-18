@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0743G9FDJ-es Iberitos - Monodosis de paté ibérico 6 bandejas de 18...'
 sku: 'B0743G9FDJ-es'
-tags: [ 'paté', ]
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

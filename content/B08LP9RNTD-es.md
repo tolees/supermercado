@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LP9RNTD-es Nestlé Les Recettes de L Atelier Bolsa de Bombones Praliné...'
 sku: 'B08LP9RNTD-es'
-tags: [ 'nestlé', ]
 actualPrice: 25.37 EUR
 currency: EUR
 price: 25.37

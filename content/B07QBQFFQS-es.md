@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QBQFFQS-es Valor Chocolate con leche almendras y avellanas 45% cacao...'
 sku: 'B07QBQFFQS-es'
-tags: [ 'chocolate', ]
 actualPrice: 2.18 EUR
 currency: EUR
 price: 2.18

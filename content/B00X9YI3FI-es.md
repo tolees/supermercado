@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X9YI3FI-es Purina Friskies Comida para Gato 400gr'
 sku: 'B00X9YI3FI-es'
-tags: [ 'friskies','purina', ]
 actualPrice: 1.1 EUR
 currency: EUR
 price: 1.1

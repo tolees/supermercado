@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002E2HXAW-es Teacher s Escoces Peated Whisky 1000ml'
 sku: 'B002E2HXAW-es'
-tags: [ 'whisky', ]
 actualPrice: 12.4 EUR
 currency: EUR
 price: 12.4

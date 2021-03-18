@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GFY23M3-es Marca Amazon - Solimo - Alimento seco completo para perro...'
 sku: 'B07GFY23M3-es'
-tags: [ 'guisantes','solimo', ]
 actualPrice: 6 EUR
 currency: EUR
 price: 6

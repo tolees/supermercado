@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W4YYXL6-es Rrunzfon Cápsula de café de Filtro Reutilizable el café de...'
 sku: 'B08W4YYXL6-es'
-tags: [ 'café', ]
 actualPrice: 3.78 EUR
 currency: EUR
 price: 3.78

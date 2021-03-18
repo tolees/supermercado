@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ND1L2TS-es DR. OETKER preparado para mousse sabor chocolate caja 73 gr'
 sku: 'B07ND1L2TS-es'
-tags: [ 'chocolate','dr.','oetker', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

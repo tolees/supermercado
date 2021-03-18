@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M7PHDHI-es Pascual Batido Chocolate - Paquete de 9 x 20 cl - Total:...'
 sku: 'B01M7PHDHI-es'
-tags: [ 'chocolate', ]
 actualPrice: 2.89 EUR
 currency: EUR
 price: 2.89

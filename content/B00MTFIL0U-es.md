@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MTFIL0U-es Buchanan S Deluxe Whisky Escocés 1kg'
 sku: 'B00MTFIL0U-es'
-tags: [ 'whisky', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

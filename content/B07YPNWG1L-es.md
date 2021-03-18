@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YPNWG1L-es CocoPacific - Harina de coco bio 1 kg'
 sku: 'B07YPNWG1L-es'
-tags: [ 'harina', ]
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

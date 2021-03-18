@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072HX9NF3-es Dove Crema para manos y uñas - 200 gr.'
 sku: 'B072HX9NF3-es'
-tags: [ 'dove', ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

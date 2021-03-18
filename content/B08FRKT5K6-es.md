@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FRKT5K6-es Seifenprofis aloe vera jabón de glicerina base...'
 sku: 'B08FRKT5K6-es'
-tags: [ 'jabón', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

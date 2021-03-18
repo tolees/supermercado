@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D1DZ94V-es Norit Diario - Detergente Líquido para Todos los Tejidos y...'
 sku: 'B08D1DZ94V-es'
-tags: [ 'detergente', ]
 actualPrice: 18.6 EUR
 currency: EUR
 price: 18.6

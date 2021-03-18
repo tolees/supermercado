@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000VBPFHQ-es Trixie 39831 Capri 3 Transportador de mascotas S: 40 × 38...'
 sku: 'B000VBPFHQ-es'
-tags: [ 'trixie', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

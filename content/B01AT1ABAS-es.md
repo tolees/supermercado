@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AT1ABAS-es Listerine Advanced White Enjuague bucal Spear Mint 1 Litro'
 sku: 'B01AT1ABAS-es'
-tags: [ 'listerine', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

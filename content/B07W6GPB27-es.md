@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6GPB27-es Oclean X Cepillo de Dientes Eléctrico Smart Sonico...'
 sku: 'B07W6GPB27-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

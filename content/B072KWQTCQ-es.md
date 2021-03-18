@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KWQTCQ-es Maltodextrina de HSN | Carbohidrato de Alto Índice...'
 sku: 'B072KWQTCQ-es'
-tags: [ 'gluten','sin', ]
 actualPrice: None None
 currency: None
 price: None

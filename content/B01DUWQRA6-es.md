@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DUWQRA6-es Sanytol Desinfectante para el Hogar Sin Blanqueador 1200...'
 sku: 'B01DUWQRA6-es'
-tags: [ 'sanytol', ]
 actualPrice: 2.58 EUR
 currency: EUR
 price: 2.58

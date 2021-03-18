@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QN5FFBR-es L Oréal Paris Men Expert Hydra Energetic Mascarilla de...'
 sku: 'B07QN5FFBR-es'
-tags: [ 'oréal', ]
 actualPrice: None None
 currency: None
 price: None

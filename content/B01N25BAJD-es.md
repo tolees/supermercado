@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N25BAJD-es L Oréal Paris Colorete en Stick Infalible Chubby Pinkabilly'
 sku: 'B01N25BAJD-es'
-tags: [ 'oréal', ]
 actualPrice: 6.58 EUR
 currency: EUR
 price: 6.58

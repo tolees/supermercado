@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BYNMFJR-es L Oreal Paris Men Expert - L Oréal Paris Men Expert -...'
 sku: 'B07BYNMFJR-es'
-tags: [ 'oréal', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

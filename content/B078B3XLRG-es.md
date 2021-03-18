@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078B3XLRG-es HARIBO G Fruitilicious 160 Gramo'
 sku: 'B078B3XLRG-es'
-tags: [ 'haribo', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

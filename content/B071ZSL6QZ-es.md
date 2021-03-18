@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071ZSL6QZ-es Almo Nature Dog HFC Cuisine Vacuno Patata y Guisantes -...'
 sku: 'B071ZSL6QZ-es'
-tags: [ 'guisantes', ]
 actualPrice: 9.53 EUR
 currency: EUR
 price: 9.53

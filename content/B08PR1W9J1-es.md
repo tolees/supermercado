@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PR1W9J1-es Zumosol Néctar Premium Manzana 200 Mililitro'
 sku: 'B08PR1W9J1-es'
-tags: [ 'manzana', ]
 actualPrice: 0.6 EUR
 currency: EUR
 price: 0.6

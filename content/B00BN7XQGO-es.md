@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BN7XQGO-es Instituto Español Loción Corporal para Piel Atópica -...'
 sku: 'B00BN7XQGO-es'
-tags: [ 'instituto','español', ]
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

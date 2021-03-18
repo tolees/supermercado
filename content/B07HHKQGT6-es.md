@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HHKQGT6-es Gel de Ducha - Detox 1250 ML - Instituto Español'
 sku: 'B07HHKQGT6-es'
-tags: [ 'gel','de','ducha','instituto','español', ]
 actualPrice: 1.94 EUR
 currency: EUR
 price: 1.94

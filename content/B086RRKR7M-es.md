@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086RRKR7M-es MovilCom® - Cortador de Verduras | Picadora Manual de...'
 sku: 'B086RRKR7M-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Baño','Bebidas vegetales','Belleza','Cubertería, Vajilla y Cristalería','Cuidado del cabello','Cuidado y limpieza del hogar','Detergente líquido para textiles','Dispensadores de loción y de jabón','Hogar y cocina','Iluminación','Iluminación de ambiente infantil','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Iluminación nocturna de interior','Jabones faciales','Lavavajillas','Limpiadores faciales','Lácteos y huevos','Lámparas e iluminación infantil','Piezas de vajilla','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Productos para el cuidado del cabello','Productos para la lavandería','Salud y cuidado personal','Sets y juegos de pelo','Soportes y dispensadores para baño','Tazas','Tazas de té','Trituradoras para la verdura','Utensilios de cocina','cebolla','movilcom', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

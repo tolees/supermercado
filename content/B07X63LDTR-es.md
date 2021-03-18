@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X63LDTR-es Starbucks Variety Pack De Nespresso Cápsulas De Café 8 X...'
 sku: 'B07X63LDTR-es'
-tags: [ 'café','starbucks','cápsulas','de','café', ]
 actualPrice: 30.4 EUR
 currency: EUR
 price: 30.4

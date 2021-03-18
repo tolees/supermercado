@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PDRFP3M-es PATO Limp. WC Power Lejia Fresh 750ML'
 sku: 'B00PDRFP3M-es'
-tags: [ 'lejia', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

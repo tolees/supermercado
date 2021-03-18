@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LYW9VFF-es Conservas Dantza Melocotón - 840 gr'
 sku: 'B01LYW9VFF-es'
-tags: [ 'conservas','melocotón', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

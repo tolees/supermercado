@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D1J2Q6Q-es Norit Sensible- Detergente Líquido para Pieles Sensibles y...'
 sku: 'B08D1J2Q6Q-es'
-tags: [ 'detergente','norit', ]
 actualPrice: 18.3 EUR
 currency: EUR
 price: 18.3

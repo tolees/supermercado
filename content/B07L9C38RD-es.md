@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9C38RD-es WeightWorld - Glucosamina Condroitina Complex 1200mg 180...'
 sku: 'B07L9C38RD-es'
-tags: [ 'cúrcuma','jengibre', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

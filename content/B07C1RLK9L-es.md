@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C1RLK9L-es Cesar Multipack de Tarrinas de Comida Húmeda para Perros...'
 sku: 'B07C1RLK9L-es'
-tags: [ 'paté', ]
 actualPrice: 20.55 EUR
 currency: EUR
 price: 20.55

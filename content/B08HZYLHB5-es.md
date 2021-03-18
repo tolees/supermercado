@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HZYLHB5-es L Oréal Paris Elvive Total Repair 5 Mascarilla Reparadora...'
 sku: 'B08HZYLHB5-es'
-tags: [ 'oréal', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

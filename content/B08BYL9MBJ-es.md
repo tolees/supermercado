@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BYL9MBJ-es Dispensador de jabón automático 200ML Dispensador de Jabón...'
 sku: 'B08BYL9MBJ-es'
-tags: [ 'jabón', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

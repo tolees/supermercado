@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y2YY8WM-es Flauno Dispensador de Jabón Automático en Espuma sin...'
 sku: 'B07Y2YY8WM-es'
-tags: [ 'jabón', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

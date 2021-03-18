@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FY5KX8G-es Renova Servilletas de papel Art de la Table Blanca Cocktail'
 sku: 'B08FY5KX8G-es'
-tags: [ 'renova','servilletas', ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

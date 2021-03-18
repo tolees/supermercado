@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DUXYPV8-es Central Lechera Asturiana - Nata Montada Azucarada para...'
 sku: 'B01DUXYPV8-es'
-tags: [ 'central','lechera', ]
 actualPrice: None None
 currency: None
 price: None

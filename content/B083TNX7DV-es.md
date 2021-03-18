@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083TNX7DV-es BEAU-PRO - Kit Cuidado Set Barba con Libre Champu Barba...'
 sku: 'B083TNX7DV-es'
-tags: [ 'champu', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

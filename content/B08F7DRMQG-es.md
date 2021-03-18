@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F7DRMQG-es Enibon Dispensador Automático de Jabón 350ML Dosificador...'
 sku: 'B08F7DRMQG-es'
-tags: [ 'jabón', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

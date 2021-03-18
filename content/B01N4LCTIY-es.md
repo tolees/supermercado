@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4LCTIY-es Elizabeth Arden Crema corporal - 400 ml.'
 sku: 'B01N4LCTIY-es'
-tags: [ 'arden','elizabeth', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

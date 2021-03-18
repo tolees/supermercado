@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GK7ZR1N-es SHANNA Funda Sillon Relax Funda De Sillón Orejero Fundas...'
 sku: 'B08GK7ZR1N-es'
-tags: [ 'café', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

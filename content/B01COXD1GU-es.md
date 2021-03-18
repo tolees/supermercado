@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01COXD1GU-es Gallo - Harina integral de trigo - 1kg'
 sku: 'B01COXD1GU-es'
-tags: [ 'harina','trigo', ]
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

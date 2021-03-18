@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XADGAC6-es Colon Vanish Advanced - Detergente para Lavadora con...'
 sku: 'B00XADGAC6-es'
-tags: [ 'detergente', ]
 actualPrice: 8.6 EUR
 currency: EUR
 price: 8.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EDHQQLI-es Lavazza Café en Grano Tostado Crema e Gusto Café Espresso...'
 sku: 'B00EDHQQLI-es'
-tags: [ 'café','lavazza', ]
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

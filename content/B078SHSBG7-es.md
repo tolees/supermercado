@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SHSBG7-es Vieira Galletas Chocolate - Paquete de 12 x 150 gr -...'
 sku: 'B078SHSBG7-es'
-tags: [ 'chocolate', ]
 actualPrice: 7.61 EUR
 currency: EUR
 price: 7.61

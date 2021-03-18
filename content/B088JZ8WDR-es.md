@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088JZ8WDR-es Oclean X Cepillo de Dientes Eléctrico 2 piezas cabeza del...'
 sku: 'B088JZ8WDR-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

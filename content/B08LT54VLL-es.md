@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08LT54VLL-es Rc Ocio - Cesta Navidad de regalo Lote Riojano gourmet /...'
 sku: 'B08LT54VLL-es'
-tags: [ 'conservas','rc ocio','tinto','vino', ]
 actualPrice: 144.95 EUR
 currency: EUR
 price: 144.95

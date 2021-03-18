@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0872CTTD8-es TUKNON - Jabón para Cejas Soap Brows Eyebrow Soap Kit Gel...'
 sku: 'B0872CTTD8-es'
-tags: [ 'jabón', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

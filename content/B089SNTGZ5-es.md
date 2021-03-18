@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SNTGZ5-es VEEAPE Dispensador de jabón automático 350ml Sensor...'
 sku: 'B089SNTGZ5-es'
-tags: [ 'jabón', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

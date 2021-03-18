@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JM1Q74J-es PraNaturals Jabones del Mar Muerto - 70g Por Jabón -...'
 sku: 'B08JM1Q74J-es'
-tags: [ 'jabón','pranaturals', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

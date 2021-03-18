@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081R5NQDW-es Spontex Guante Reutilizable Taglia L 2'
 sku: 'B081R5NQDW-es'
-tags: [ 'spontex', ]
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

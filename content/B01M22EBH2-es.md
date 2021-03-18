@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M22EBH2-es Pompadour - Poleo menta té - pack de 2 total: 20 cápsulas'
 sku: 'B01M22EBH2-es'
-tags: [ 'pompadour', ]
 actualPrice: None None
 currency: None
 price: None

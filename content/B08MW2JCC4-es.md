@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MW2JCC4-es Chupa Chups Mix Of Minis Chupa Chups Mentos Y Fruittella...'
 sku: 'B08MW2JCC4-es'
-tags: [ 'mentos','chupa','chups', ]
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

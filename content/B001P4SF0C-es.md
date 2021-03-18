@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001P4SF0C-es Chivas Regal 18 Años Whisky Escocés de Mezcla Premium 700ml'
 sku: 'B001P4SF0C-es'
-tags: [ 'whisky', ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

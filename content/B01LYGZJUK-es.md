@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LYGZJUK-es Flor Original - Suavizante concentrado para la ropa aroma...'
 sku: 'B01LYGZJUK-es'
-tags: [ 'suavizante', ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

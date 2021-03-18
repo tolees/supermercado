@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9ZE72A-es NIVEA SUN Protege & Hidrata Spray Solar FP30 1 x 300 ml...'
 sku: 'B00X9ZE72A-es'
-tags: [ 'nivea', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

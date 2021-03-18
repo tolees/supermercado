@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009SLYYCW-es Johnnie Walker Gold Whisky Escocés 700ml'
 sku: 'B009SLYYCW-es'
-tags: [ 'whisky', ]
 actualPrice: 30.9 EUR
 currency: EUR
 price: 30.9

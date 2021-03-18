@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QV19ST3-es Galapare Termo Taza 500 ml Inteligente de Temperatura...'
 sku: 'B08QV19ST3-es'
-tags: [ 'café', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

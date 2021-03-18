@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00S8JUDNE-es The Primal Pantry Barritas Avellanas y Cacao - sin azúcar...'
 sku: 'B00S8JUDNE-es'
-tags: [ 'azúcar','sin','gluten', ]
 actualPrice: 30.09 EUR
 currency: EUR
 price: 30.09

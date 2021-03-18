@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MX2W9RS-es Lázaro Cañas De Chocolate Artesanas Envase 300 g 3...'
 sku: 'B08MX2W9RS-es'
-tags: [ 'chocolate', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

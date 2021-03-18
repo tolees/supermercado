@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Y8V8JCH-es Yosoo Health Gear - Bandeja de cama plegable bandeja de...'
 sku: 'B08Y8V8JCH-es'
-tags: [ 'café', ]
 actualPrice: 80.69 EUR
 currency: EUR
 price: 80.69

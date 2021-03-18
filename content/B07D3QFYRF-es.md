@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D3QFYRF-es YanBan- Cabezales de Cepillo de Dientes Eléctrico para...'
 sku: 'B07D3QFYRF-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 12.69 EUR
 currency: EUR
 price: 12.69

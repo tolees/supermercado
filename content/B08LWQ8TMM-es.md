@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08LWQ8TMM-es L Oréal Paris Polvos Compactos Mate Infalible 24H Larga...'
 sku: 'B08LWQ8TMM-es'
-tags: [ 'loréal paris','oréal', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

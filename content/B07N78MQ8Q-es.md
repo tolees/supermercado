@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N78MQ8Q-es Joyjoz 164 Pcs Slime Kit Slime Herramientas para artesanía...'
 sku: 'B07N78MQ8Q-es'
-tags: [ 'azúcar', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

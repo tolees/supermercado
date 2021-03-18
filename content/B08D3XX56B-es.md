@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D3XX56B-es KOFFIE CUP EST. 2020 - KoffieCup Ristretto 40 cápsulas...'
 sku: 'B08D3XX56B-es'
-tags: [ 'café', ]
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

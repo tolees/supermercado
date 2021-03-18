@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071L6P2RL-es Purina Felix Fantastic comida para gato Junior Selecciones...'
 sku: 'B071L6P2RL-es'
-tags: [ 'purina', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

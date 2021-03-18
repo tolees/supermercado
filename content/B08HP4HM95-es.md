@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HP4HM95-es Oral-B Protección Profesional Pasta Dentífrica Pack de 6'
 sku: 'B08HP4HM95-es'
-tags: [ 'dentífrica', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

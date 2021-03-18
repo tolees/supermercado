@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086LBD3T2-es Sierra de Utiel - Aceite de Oliva Virgen Extra Premium -...'
 sku: 'B086LBD3T2-es'
-tags: [ 'aceite','de','oliva','virgen','extra', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

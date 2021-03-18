@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JDLJ2NR-es Yosoy - Bebida Vegetal Ecológica De Avena Calcio Caja De 6...'
 sku: 'B08JDLJ2NR-es'
-tags: [ 'yosoy', ]
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

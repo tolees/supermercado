@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0854XJQZY-es Danonino Pouch sin azúcares añadidos: Alimento Infantil...'
 sku: 'B0854XJQZY-es'
-tags: [ 'manzana', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

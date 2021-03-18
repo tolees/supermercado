@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NRHKDFL-es Licor del Polo - Dentífrico Junior 1-6 años - Protege y...'
 sku: 'B07NRHKDFL-es'
-tags: [ 'dentífrico', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

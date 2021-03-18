@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MUS3ED8-es Gliss - Acondicionador Express Fiber Therapy - Sin...'
 sku: 'B01MUS3ED8-es'
-tags: [ 'acondicionador','schwarzkopf', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

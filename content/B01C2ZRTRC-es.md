@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01C2ZRTRC-es Ginebra Puerto de Indias Pure Black Edition 70 Cl'
 sku: 'B01C2ZRTRC-es'
-tags: [ 'ginebra', ]
 actualPrice: 12.85 EUR
 currency: EUR
 price: 12.85

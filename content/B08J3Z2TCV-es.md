@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08J3Z2TCV-es BNKR BEER Brew&Share | Kit para Hacer Cerveza Blond Bio...'
 sku: 'B08J3Z2TCV-es'
-tags: [ 'cerveza', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

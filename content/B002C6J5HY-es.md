@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002C6J5HY-es Coca Cola light Pack de 24 x 330 ml'
 sku: 'B002C6J5HY-es'
-tags: [ 'coca','cola', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SM89Z4X-es PINPOXE - Desodorante Pies Spray Pies Elimina el olor de...'
 sku: 'B07SM89Z4X-es'
-tags: [ 'desodorante', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

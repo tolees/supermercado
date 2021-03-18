@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008HA9AI8-es Signal 8432705 Soin Interdentaire - Cepillo de dientes...'
 sku: 'B008HA9AI8-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 3.51 EUR
 currency: EUR
 price: 3.51

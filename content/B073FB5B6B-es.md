@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073FB5B6B-es Bionsan Frijoles con Arroz Integral - 6 Paquetes de 220 gr...'
 sku: 'B073FB5B6B-es'
-tags: [ 'arroz','bionsan','frijoles','integral', ]
 actualPrice: 9.86 EUR
 currency: EUR
 price: 9.86

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y3LXYMF-es L Oréal Professionnel - Champú experto Silver Series para...'
 sku: 'B06Y3LXYMF-es'
-tags: [ 'champú','oréal', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

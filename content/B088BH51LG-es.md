@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088BH51LG-es Aceites Esenciales Naturales ESSLUX Spicy Aceites...'
 sku: 'B088BH51LG-es'
-tags: [ 'canela','jengibre', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

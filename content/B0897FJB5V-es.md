@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0897FJB5V-es Granbest Funda de Sofá Elástica Súper Gruesa con Diseño...'
 sku: 'B0897FJB5V-es'
-tags: [ 'chocolate', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

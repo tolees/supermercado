@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084K2P3CN-es Garnier Fructis Hair Food Champú de Aloe Vera Hidratante...'
 sku: 'B084K2P3CN-es'
-tags: [ 'champú','garnier', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

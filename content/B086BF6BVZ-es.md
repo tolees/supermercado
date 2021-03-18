@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086BF6BVZ-es Bilisder Dispensador Jabon de Espuma Automático Eléctrico...'
 sku: 'B086BF6BVZ-es'
-tags: [ 'jabon','jabón', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XA5GSYE-es Central Lechera Asturiana - Bebida De Soja Calcio Alpro...'
 sku: 'B00XA5GSYE-es'
-tags: [ 'alpro','soja','central','lechera', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

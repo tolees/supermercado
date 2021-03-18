@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CYKD3CP-es Mimosín Intense Suavizante Explosión de Frescor 52 Lavados...'
 sku: 'B08CYKD3CP-es'
-tags: [ 'suavizante', ]
 actualPrice: 20.94 EUR
 currency: EUR
 price: 20.94

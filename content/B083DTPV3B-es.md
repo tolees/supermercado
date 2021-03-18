@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DTPV3B-es Welinks - Cepillo para polvo de mesita de noche mango...'
 sku: 'B083DTPV3B-es'
-tags: [ 'fregona', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

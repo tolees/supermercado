@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FSIFHYC-es TROFIETTE AL PESTO GENOVÉS My Cooking Box x2 Porciones -...'
 sku: 'B01FSIFHYC-es'
-tags: [ 'cesta','de','navidad', ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

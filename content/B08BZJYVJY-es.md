@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BZJYVJY-es Duomishu - Espumador de Leche Automático Vaporizador de...'
 sku: 'B08BZJYVJY-es'
-tags: [ 'chocolate', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

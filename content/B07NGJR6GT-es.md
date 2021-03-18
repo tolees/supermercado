@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NGJR6GT-es Marca Amazon - Solimo Champú revitalizante protección para...'
 sku: 'B07NGJR6GT-es'
-tags: [ 'solimo','champú', ]
 actualPrice: 7.05 EUR
 currency: EUR
 price: 7.05

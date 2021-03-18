@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009MWW1Y0-es Gullón - Galleta chocolate chips sin azúcar Diet Nature- 125g'
 sku: 'B009MWW1Y0-es'
-tags: [ 'azúcar','gullón','chocolate', ]
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

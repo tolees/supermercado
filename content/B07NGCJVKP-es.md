@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGCJVKP-es Marca Amazon - Solimo Jabón líquido para manos. Fórmula...'
 sku: 'B07NGCJVKP-es'
-tags: [ 'jabón','solimo', ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

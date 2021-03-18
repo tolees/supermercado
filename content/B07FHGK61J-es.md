@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FHGK61J-es L Oréal Men expert Hydra Humedad Cuidado 24h Anti de...'
 sku: 'B07FHGK61J-es'
-tags: [ 'oréal', ]
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

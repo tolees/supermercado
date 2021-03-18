@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089F2VQB9-es Meidong Dispensador de jabón automático dispensador de...'
 sku: 'B089F2VQB9-es'
-tags: [ 'jabón', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

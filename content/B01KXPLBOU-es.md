@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KXPLBOU-es Maybelline Stick Master Contour Tono: 03 Dark - 7 g'
 sku: 'B01KXPLBOU-es'
-tags: [ 'maybelline', ]
 actualPrice: None None
 currency: None
 price: None

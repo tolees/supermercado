@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D2TBCM8-es New Look Wide Foot Petal Sandalias con Punta Abierta para...'
 sku: 'B07D2TBCM8-es'
-tags: [ 'oatmeal', ]
 actualPrice: 6.27 EUR
 currency: EUR
 price: 6.27

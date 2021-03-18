@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SW6L9BD-es Neolaia - Jabón natural hecho a mano - Jabón de Carbón...'
 sku: 'B07SW6L9BD-es'
-tags: [ 'jabón', ]
 actualPrice: 14.94 EUR
 currency: EUR
 price: 14.94

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q4QC16W-es SkinXmed Sérum para pestañas y cejas | volumen densidad |...'
 sku: 'B07Q4QC16W-es'
-tags: [ 'curcuma', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

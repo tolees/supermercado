@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0895ZBCCM-es PINPOXE - Champú para el cabello champú para el cuidado...'
 sku: 'B0895ZBCCM-es'
-tags: [ 'champú', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

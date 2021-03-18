@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KWMGTZ9-es MovilCom® - Cortador de Verduras | Picadora Manual de...'
 sku: 'B08KWMGTZ9-es'
-tags: [ 'cebolla', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

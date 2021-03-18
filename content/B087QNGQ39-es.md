@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087QNGQ39-es Dani - Pulpo en aceite de oliva - 6 x 106 gr.'
 sku: 'B087QNGQ39-es'
-tags: [ 'aceite','de','oliva', ]
 actualPrice: 21.54 EUR
 currency: EUR
 price: 21.54

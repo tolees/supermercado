@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XDHYQV5-es Big Mouth Toys - BigMouth Inc The Big Banana - Taza de café'
 sku: 'B06XDHYQV5-es'
-tags: [ 'café', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

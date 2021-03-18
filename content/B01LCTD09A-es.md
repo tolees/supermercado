@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LCTD09A-es Mahou 5 Estrellas Cerveza Dorada Lager 5.5% de Volumen de...'
 sku: 'B01LCTD09A-es'
-tags: [ 'cerveza', ]
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

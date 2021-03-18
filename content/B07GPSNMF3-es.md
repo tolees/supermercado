@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GPSNMF3-es Vileda Turbo - Juego de fregona con palo telescópico +...'
 sku: 'B07GPSNMF3-es'
-tags: [ 'fregona','vileda', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

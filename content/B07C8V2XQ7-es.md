@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C8V2XQ7-es Navidul Jamón de Cebo Ibérico Jamonero y Cuchillo - 8.25 kg'
 sku: 'B07C8V2XQ7-es'
-tags: [ 'jamón','navidul', ]
 actualPrice: 150.5 EUR
 currency: EUR
 price: 150.5

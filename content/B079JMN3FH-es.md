@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079JMN3FH-es FOCCTS Angry Mama Limpiador de Microondas Limpiador de...'
 sku: 'B079JMN3FH-es'
-tags: [ 'detergente', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

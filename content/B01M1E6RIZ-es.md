@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M1E6RIZ-es Fackelmann Food&More - Embudo conservas polipropileno Ø4...'
 sku: 'B01M1E6RIZ-es'
-tags: [ 'conservas', ]
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

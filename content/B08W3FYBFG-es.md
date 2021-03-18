@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W3FYBFG-es Raguso Cuchara medidora de café Cuchara de Polvo de Prensa...'
 sku: 'B08W3FYBFG-es'
-tags: [ 'café', ]
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

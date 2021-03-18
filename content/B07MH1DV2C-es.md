@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MH1DV2C-es Spa Luxetique Set de Regalo de Baño con Bolso Set de Baño...'
 sku: 'B07MH1DV2C-es'
-tags: [ 'gel','de','ducha', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

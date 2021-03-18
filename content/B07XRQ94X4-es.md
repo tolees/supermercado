@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRQ94X4-es Berberechos al natural elaborados en fresco 25/35 piezas...'
 sku: 'B07XRQ94X4-es'
-tags: [ 'berberechos', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NRQ65H2-es Campos Conserva de Bonito del norte en escabeche...'
 sku: 'B07NRQ65H2-es'
-tags: [ 'conserva','escabeche', ]
 actualPrice: 35.01 EUR
 currency: EUR
 price: 35.01

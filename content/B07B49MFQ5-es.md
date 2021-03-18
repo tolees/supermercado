@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B49MFQ5-es Garnier Ultra Dolce Champú jalea real y propóleo de miel 3...'
 sku: 'B07B49MFQ5-es'
-tags: [ 'garnier','champú', ]
 actualPrice: 8.66 EUR
 currency: EUR
 price: 8.66

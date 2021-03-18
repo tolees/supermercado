@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WC5YHDV-es powergift - Taza con diseño de Bulldog francés con texto...'
 sku: 'B08WC5YHDV-es'
-tags: [ 'café', ]
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

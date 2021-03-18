@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXN632D-es Y.F.M Kit Barba Cuidado para Hombre 9 en 1 Champu Barba...'
 sku: 'B08CXN632D-es'
-tags: [ 'champu', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

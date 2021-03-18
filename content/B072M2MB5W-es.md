@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072M2MB5W-es Fluchos | Mocasín de Hombre | Clipper 9578 Cidacos Libano...'
 sku: 'B072M2MB5W-es'
-tags: [ 'cidacos', ]
 actualPrice: 69.56 EUR
 currency: EUR
 price: 69.56

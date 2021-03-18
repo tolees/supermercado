@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0058LQIZ2-es Glenfarclas 12 Year Old Highland Single Malt Whisky 43% 1...'
 sku: 'B0058LQIZ2-es'
-tags: [ 'whisky', ]
 actualPrice: 30.1 EUR
 currency: EUR
 price: 30.1

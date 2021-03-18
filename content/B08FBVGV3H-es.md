@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FBVGV3H-es COLGATE Max White Expert instantáneo Enjuague Bucal...'
 sku: 'B08FBVGV3H-es'
-tags: [ 'colgate', ]
 actualPrice: 26.5 EUR
 currency: EUR
 price: 26.5

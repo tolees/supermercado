@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0185ZKX2G-es Renova Papel higiénico Super Blanco - 12 rollos de papel'
 sku: 'B0185ZKX2G-es'
-tags: [ 'renova', ]
 actualPrice: 2.81 EUR
 currency: EUR
 price: 2.81

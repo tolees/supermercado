@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WTR2VGQ-es Vileda JetClean Limpiador de Suelos 400 W Negro'
 sku: 'B07WTR2VGQ-es'
-tags: [ 'vileda', ]
 actualPrice: 256.08 EUR
 currency: EUR
 price: 256.08

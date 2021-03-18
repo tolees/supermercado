@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FDP4HPF-es Cepillo de dientes eléctrico Oclean X Pro Sonic cepillo de...'
 sku: 'B08FDP4HPF-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

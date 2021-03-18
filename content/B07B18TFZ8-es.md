@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B18TFZ8-es Amstel Oro Cerveza - Caja de 24 Latas x 330 ml - Total:...'
 sku: 'B07B18TFZ8-es'
-tags: [ 'cerveza', ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

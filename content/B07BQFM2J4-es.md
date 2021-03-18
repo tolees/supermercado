@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQFM2J4-es Ariel Baby Detergente Líquido para Lavadora Poder...'
 sku: 'B07BQFM2J4-es'
-tags: [ 'ariel','detergente', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

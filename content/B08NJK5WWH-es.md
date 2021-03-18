@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NJK5WWH-es Bombillas LED E27 Anmossi 12W LED Maíz Bombilla...'
 sku: 'B08NJK5WWH-es'
-tags: [ 'maíz', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

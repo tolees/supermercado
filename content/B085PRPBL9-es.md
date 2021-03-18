@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085PRPBL9-es Cycluck Biodegradables 300 Caca Perro Bolsas Extra Gruesa...'
 sku: 'B085PRPBL9-es'
-tags: [ 'maíz', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

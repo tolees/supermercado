@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4LYVBP-es SANEX DESODORANTE ROLL-ON 50 ML. 7 EN 1 ANTI-TRAN'
 sku: 'B07G4LYVBP-es'
-tags: [ 'desodorante', ]
 actualPrice: 1.27 EUR
 currency: EUR
 price: 1.27

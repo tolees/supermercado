@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FD8M9S3-es Skip Ultimate Máxima Eficacia Triple Poder - Detergente...'
 sku: 'B07FD8M9S3-es'
-tags: [ 'detergente','skip', ]
 actualPrice: 26.28 EUR
 currency: EUR
 price: 26.28

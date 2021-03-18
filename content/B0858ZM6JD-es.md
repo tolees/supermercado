@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0858ZM6JD-es Springlane Kitchen - Máquina para hacer leche de almendras...'
 sku: 'B0858ZM6JD-es'
-tags: [ 'soja', ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

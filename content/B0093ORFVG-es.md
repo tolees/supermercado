@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0093ORFVG-es Alvarez Gomez - Álvarez Gómez- Jabón Líquido - 300 ml'
 sku: 'B0093ORFVG-es'
-tags: [ 'jabón', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

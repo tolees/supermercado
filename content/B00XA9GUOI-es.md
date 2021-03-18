@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XA9GUOI-es Gourmet - Gominolas - Surtido frutas azúcar - 150 g'
 sku: 'B00XA9GUOI-es'
-tags: [ 'azúcar', ]
 actualPrice: 0.71 EUR
 currency: EUR
 price: 0.71

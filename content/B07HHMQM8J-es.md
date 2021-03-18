@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HHMQM8J-es Maeloc Sidra con Mora - Pack de 4 x 200 ml'
 sku: 'B07HHMQM8J-es'
-tags: [ 'maeloc', ]
 actualPrice: 2.91 EUR
 currency: EUR
 price: 2.91

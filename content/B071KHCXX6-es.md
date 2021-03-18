@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071KHCXX6-es TRIXIE Jersey Moncton M 45 cm Marrón Perro'
 sku: 'B071KHCXX6-es'
-tags: [ 'trixie', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

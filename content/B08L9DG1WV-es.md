@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L9DG1WV-es NIVEA Cellular LUMINOUS 630 Antimanchas Crema de Día FP50...'
 sku: 'B08L9DG1WV-es'
-tags: [ 'nivea', ]
 actualPrice: 21.32 EUR
 currency: EUR
 price: 21.32

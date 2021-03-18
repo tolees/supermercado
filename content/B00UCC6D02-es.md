@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UCC6D02-es Spontex - Estropajo de Cocina 2 Unidades'
 sku: 'B00UCC6D02-es'
-tags: [ 'estropajo','spontex', ]
 actualPrice: 2.18 EUR
 currency: EUR
 price: 2.18

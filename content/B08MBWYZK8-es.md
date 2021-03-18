@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MBWYZK8-es Braun BT3241 - Recortadora de Barba y Cortapelos para...'
 sku: 'B08MBWYZK8-es'
-tags: [ 'gillette', ]
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

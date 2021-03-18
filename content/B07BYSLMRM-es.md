@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BYSLMRM-es Purina Juego 8 One Gato Croccantini 800 Urinary Pollo...'
 sku: 'B07BYSLMRM-es'
-tags: [ 'purina', ]
 actualPrice: 38.8 EUR
 currency: EUR
 price: 38.8

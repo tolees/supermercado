@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ID618LW-es Vileda Turbo 2in1 - Recambio de Microfibras y poliamida...'
 sku: 'B01ID618LW-es'
-tags: [ 'vileda', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WXLJT4V-es Note D Espresso - Cápsulas de café "Oro di Napoli"...'
 sku: 'B07WXLJT4V-es'
-tags: [ 'café','cápsulas','de','café','dolce','gusto', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MV2CTG8-es MENFORSAN champú para perros pelo blanco bote 300 ml'
 sku: 'B00MV2CTG8-es'
-tags: [ 'champú', ]
 actualPrice: 3.41 EUR
 currency: EUR
 price: 3.41

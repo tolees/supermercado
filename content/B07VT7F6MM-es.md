@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VT7F6MM-es Magic Gel 2 Paquetes Uñas De Gel Mágico Removedor De...'
 sku: 'B07VT7F6MM-es'
-tags: [ 'acondicionador', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

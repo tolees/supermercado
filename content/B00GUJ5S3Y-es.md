@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GUJ5S3Y-es Smint Tin Menta Caramelo Comprimido Sin Azúcar - 12...'
 sku: 'B00GUJ5S3Y-es'
-tags: [ 'azúcar','smint', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

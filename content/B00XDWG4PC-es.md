@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDWG4PC-es Eudermin - Crema de manos protectora 30 ml'
 sku: 'B00XDWG4PC-es'
-tags: [ 'eudermin', ]
 actualPrice: 0.85 EUR
 currency: EUR
 price: 0.85

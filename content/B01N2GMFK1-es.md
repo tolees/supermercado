@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N2GMFK1-es Puleva Batido de Chocolate - Pack de 6 x 1 L - Total: 6 L'
 sku: 'B01N2GMFK1-es'
-tags: [ 'puleva','chocolate', ]
 actualPrice: 6.84 EUR
 currency: EUR
 price: 6.84

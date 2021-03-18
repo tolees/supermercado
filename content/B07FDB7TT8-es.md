@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDB7TT8-es Skip Ultimate Triple Poder Cuidado del Color Detergente...'
 sku: 'B07FDB7TT8-es'
-tags: [ 'detergente', ]
 actualPrice: 25.37 EUR
 currency: EUR
 price: 25.37

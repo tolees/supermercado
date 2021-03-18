@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CNV63HC-es Somat Oro Gel Lavavajillas Vinagre - 50 Lavados 900 ml'
 sku: 'B07CNV63HC-es'
-tags: [ 'somat', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

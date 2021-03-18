@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLQ1JTM-es Jamón Deshuesado - Jamón Excelencia Salamanca | 50% Raza...'
 sku: 'B07YLQ1JTM-es'
-tags: [ 'jamón', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

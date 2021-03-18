@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NB8QR7T-es L Oreal Paris Colorista - L Oréal Paris Colorista...'
 sku: 'B01NB8QR7T-es'
-tags: [ 'oréal', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

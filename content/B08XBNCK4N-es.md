@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08XBNCK4N-es Raguso Taza de agitación eléctrica 350ml Taza de Mezcla de...'
 sku: 'B08XBNCK4N-es'
-tags: [ 'café', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

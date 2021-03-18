@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071X9DZFB-es Schwarzkopf Root Retoucher - Coloración del Cabello...'
 sku: 'B071X9DZFB-es'
-tags: [ 'schwarzkopf', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

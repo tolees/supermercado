@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B018YGBYCO-es Babaria Champú Nutritivo Aloe Vera - 400 ml'
 sku: 'B018YGBYCO-es'
-tags: [ 'babaria','champú', ]
 actualPrice: 1.4 EUR
 currency: EUR
 price: 1.4

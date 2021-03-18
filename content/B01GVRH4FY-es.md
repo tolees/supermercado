@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GVRH4FY-es La Croquetera - Pinza Hacer Croquetas Global Bosq'
 sku: 'B01GVRH4FY-es'
-tags: [ 'croquetas', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

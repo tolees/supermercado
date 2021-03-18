@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MN94WT6-es Max Factor Base de maquillaje 50 Natural - 62 gr.'
 sku: 'B00MN94WT6-es'
-tags: [ 'factor','max', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

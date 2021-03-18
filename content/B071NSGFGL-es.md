@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071NSGFGL-es Purina Felix Fantastic Gelatina comida para gatos...'
 sku: 'B071NSGFGL-es'
-tags: [ 'purina', ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004X0KWYW-es LITORAL Cocido Madrileño - Plato Preparado de Cocido...'
 sku: 'B004X0KWYW-es'
-tags: [ 'litoral','plato','preparado','sin','gluten', ]
 actualPrice: 1.83 EUR
 currency: EUR
 price: 1.83

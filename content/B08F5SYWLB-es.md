@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F5SYWLB-es Syoss - Champú Volumen - 6uds de 440Ml 2.640ml – Para...'
 sku: 'B08F5SYWLB-es'
-tags: [ 'champú', ]
 actualPrice: 17.7 EUR
 currency: EUR
 price: 17.7

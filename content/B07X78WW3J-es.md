@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X78WW3J-es Note D Espresso Cápsulas de Chocolate - 100 x 7 g Total:...'
 sku: 'B07X78WW3J-es'
-tags: [ 'chocolate', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

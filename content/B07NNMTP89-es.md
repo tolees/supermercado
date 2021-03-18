@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NNMTP89-es Severin WA 2114 - Gofrera patatas fritas 800 W 23 x 14 5...'
 sku: 'B07NNMTP89-es'
-tags: [ 'patatas','fritas', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

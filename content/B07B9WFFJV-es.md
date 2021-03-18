@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9WFFJV-es Fitbit Versa Smartwatch Deportivo Melocotón'
 sku: 'B07B9WFFJV-es'
-tags: [ 'melocotón', ]
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B5X3HPR-es Dumon - 24 Unidades de 160 gr de Conservas de Salmon...'
 sku: 'B07B5X3HPR-es'
-tags: [ 'conservas','dumon','gluten','sin', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

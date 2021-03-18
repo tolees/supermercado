@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BSQKHCY-es Hero Solo Tarrito Fruta Manzana Plátano Yogur ECO - 120 gr...'
 sku: 'B07BSQKHCY-es'
-tags: [ 'manzana','yogur', ]
 actualPrice: 0.9 EUR
 currency: EUR
 price: 0.9

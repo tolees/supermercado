@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CVDY154-es Eukanuba Alimento seco para perros viejos de razas...'
 sku: 'B07CVDY154-es'
-tags: [ 'eukanuba', ]
 actualPrice: 19.55 EUR
 currency: EUR
 price: 19.55

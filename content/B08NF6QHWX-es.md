@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NF6QHWX-es Cortijo Zahan - Cesta Navidad Gourmet : Paleta de Cebo de...'
 sku: 'B08NF6QHWX-es'
-tags: [ 'queso','vino','tinto','virgen','extra', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

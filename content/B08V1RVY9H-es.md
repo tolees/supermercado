@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V1RVY9H-es HKFR - Cubierta de repuesto impermeable para toldo de...'
 sku: 'B08V1RVY9H-es'
-tags: [ 'café', ]
 actualPrice: 19.63 EUR
 currency: EUR
 price: 19.63

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0774WGGLX-es Knorr Caldo Eco con Carne - 60 gr'
 sku: 'B0774WGGLX-es'
-tags: [ 'knorr', ]
 actualPrice: None None
 currency: None
 price: None

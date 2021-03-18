@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KV4R1LG-es Io Planet Jabón de Manos Higienizante 500 ml'
 sku: 'B08KV4R1LG-es'
-tags: [ 'jabón', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

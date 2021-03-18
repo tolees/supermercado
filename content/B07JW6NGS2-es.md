@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JW6NGS2-es Oclean One Smart Sonic - Cepillo de dientes - APLICACIÓN...'
 sku: 'B07JW6NGS2-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: None None
 currency: None
 price: None

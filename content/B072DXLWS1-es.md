@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072DXLWS1-es Vileda 157231 Infinity - Tendedero Extensible de acero...'
 sku: 'B072DXLWS1-es'
-tags: [ 'vileda', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B47DFX4-es Nutribén Papillas Desde Los 12 Meses Trigo Y Frutas Pack...'
 sku: 'B07B47DFX4-es'
-tags: [ 'trigo', ]
 actualPrice: 19.46 EUR
 currency: EUR
 price: 19.46

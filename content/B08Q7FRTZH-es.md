@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Q7FRTZH-es Dynamicoz - Kit De Preparación De Sushi Original Y...'
 sku: 'B08Q7FRTZH-es'
-tags: [ 'arroz', ]
 actualPrice: 16.55 EUR
 currency: EUR
 price: 16.55

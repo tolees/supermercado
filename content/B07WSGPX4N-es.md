@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WSGPX4N-es Liposan Sabor Sandia 4.8 g / 5 5 ml'
 sku: 'B07WSGPX4N-es'
-tags: [ 'liposan', ]
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

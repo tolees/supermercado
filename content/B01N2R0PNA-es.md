@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N2R0PNA-es Café Fortaleza Café Molido Grandes Orígenes Kenya - 250 gr...'
 sku: 'B01N2R0PNA-es'
-tags: [ 'café','fortaleza', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

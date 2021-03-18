@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PDRFTFQ-es Finish Classic Regular Pastillas para Lavavajillas - 57...'
 sku: 'B00PDRFTFQ-es'
-tags: [ 'Cuidado y limpieza del hogar','Lavavajillas','Salud y cuidado personal','finish', ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

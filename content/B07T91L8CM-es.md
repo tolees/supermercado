@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T91L8CM-es Vanish Oxi Action - Quitamanchas para Ropa Blanca y de...'
 sku: 'B07T91L8CM-es'
-tags: [ 'lejía', ]
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

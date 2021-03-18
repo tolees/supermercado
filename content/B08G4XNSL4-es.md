@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4XNSL4-es BABARIA COTTON GEL DE MANOS HIGIENIZANTE SPRAY 70% ALCOHOL...'
 sku: 'B08G4XNSL4-es'
-tags: [ 'babaria', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HTBCS2U-es Pulvera - Puleva Mañanas Ligeras Leche sin Lactosa...'
 sku: 'B01HTBCS2U-es'
-tags: [ 'Alimentación y bebidas','Leche','Lácteos y huevos','puleva','pulvera', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

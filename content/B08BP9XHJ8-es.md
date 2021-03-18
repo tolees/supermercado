@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BP9XHJ8-es HOMCOM Mesa de Centro Café Mesa Auxiliar de Salón de Forma...'
 sku: 'B08BP9XHJ8-es'
-tags: [ 'café', ]
 actualPrice: 32.79 EUR
 currency: EUR
 price: 32.79

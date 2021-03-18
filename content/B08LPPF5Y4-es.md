@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LPPF5Y4-es DYC Doble Roble Whisky Edición Limitada 40% - 700 ml'
 sku: 'B08LPPF5Y4-es'
-tags: [ 'whisky', ]
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WCZTGF2-es ALIOO - Cortador de Verduras - Rallador de Verduras 4 en 1...'
 sku: 'B07WCZTGF2-es'
-tags: [ 'zanahorias', ]
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06

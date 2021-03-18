@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAA2Z2S-es Mic&Friends - Paté Con Buey - Alimento Completo para...'
 sku: 'B00XAA2Z2S-es'
-tags: [ 'paté', ]
 actualPrice: 0.65 EUR
 currency: EUR
 price: 0.65

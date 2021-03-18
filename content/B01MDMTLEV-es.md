@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MDMTLEV-es Maggi - Fideos Yakisoba Classic 120 g'
 sku: 'B01MDMTLEV-es'
-tags: [ 'maggi', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

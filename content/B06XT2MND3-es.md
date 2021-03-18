@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XT2MND3-es El Zagal Pieza De Sobrasada De Mallorca Tradicional 250 g'
 sku: 'B06XT2MND3-es'
-tags: [ 'sobrasada', ]
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

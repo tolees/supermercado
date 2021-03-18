@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AGMYYHG-es Hero Baby - Natur Papilla Multicereales 820g'
 sku: 'B01AGMYYHG-es'
-tags: [ 'hero','baby', ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008I67VJG-es Trixie Bolsa de Aperitivos para Actividades de Perros 7 x...'
 sku: 'B008I67VJG-es'
-tags: [ 'trixie', ]
 actualPrice: 3.07 EUR
 currency: EUR
 price: 3.07

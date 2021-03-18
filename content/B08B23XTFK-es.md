@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B23XTFK-es Ariel Detergente Líquido para Lavadora Original 150...'
 sku: 'B08B23XTFK-es'
-tags: [ 'ariel','detergente', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

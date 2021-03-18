@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082V5ZZDD-es YINUO LIGHT - Velas Perfumadas para Mujer 5.56oz Cera de...'
 sku: 'B082V5ZZDD-es'
-tags: [ 'soja', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

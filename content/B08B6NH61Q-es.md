@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B6NH61Q-es Nestlé Naturnes Bio Nutri Puffs Snack De Cereales Con...'
 sku: 'B08B6NH61Q-es'
-tags: [ 'nestlé', ]
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

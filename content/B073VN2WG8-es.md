@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VN2WG8-es Mimosín - Intense Estallido de Pasión Suavizante...'
 sku: 'B073VN2WG8-es'
-tags: [ 'suavizante', ]
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

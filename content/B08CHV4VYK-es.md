@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CHV4VYK-es Lagarto Suavizante Azul Concentrado 70 Lavados 1 5l-...'
 sku: 'B08CHV4VYK-es'
-tags: [ 'suavizante', ]
 actualPrice: None None
 currency: None
 price: None

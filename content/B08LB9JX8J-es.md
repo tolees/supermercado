@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LB9JX8J-es BEAU-PRO - Aceites Esenciales 100% Puros Naturales 8 *...'
 sku: 'B08LB9JX8J-es'
-tags: [ 'canela', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

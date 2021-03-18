@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SNGY12G-es Aceite de coco orgánico Coconut Merchant 1L | Aceite...'
 sku: 'B00SNGY12G-es'
-tags: [ 'virgen','extra', ]
 actualPrice: 19.48 EUR
 currency: EUR
 price: 19.48

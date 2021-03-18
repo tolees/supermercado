@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CRD851S-es none brand - GY Bombilla de LED maíz brillante E27...'
 sku: 'B08CRD851S-es'
-tags: [ 'Bombillas','Bombillas LED','Iluminación','maíz','none brand', ]
 actualPrice: 11.2 EUR
 currency: EUR
 price: 11.2

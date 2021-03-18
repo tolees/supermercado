@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG8S25V-es Clynelish Reserva – Whisky escocés puro de malta – Edición...'
 sku: 'B07LG8S25V-es'
-tags: [ 'whisky', ]
 actualPrice: 43.94 EUR
 currency: EUR
 price: 43.94

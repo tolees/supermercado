@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DC43ZHG-es Trixie 40345 - Bandeja Higiénica Vicoeasyclean...'
 sku: 'B00DC43ZHG-es'
-tags: [ 'trixie', ]
 actualPrice: 24.89 EUR
 currency: EUR
 price: 24.89

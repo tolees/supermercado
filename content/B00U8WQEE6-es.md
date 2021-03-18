@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U8WQEE6-es Sesderma - Crema hidratante rejuvenecedora facial para...'
 sku: 'B00U8WQEE6-es'
-tags: [ 'crema','hidratante','sesderma', ]
 actualPrice: 31.96 EUR
 currency: EUR
 price: 31.96

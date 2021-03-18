@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SS5SMKM-es L Oréal Paris L Oréal Paris Excellence Creme Tinte...'
 sku: 'B08SS5SMKM-es'
-tags: [ 'oréal', ]
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

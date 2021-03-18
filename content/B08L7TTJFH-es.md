@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L7TTJFH-es Tapas de enlatado FANDE Tapas de enlatado de boca normal...'
 sku: 'B08L7TTJFH-es'
-tags: [ 'conservas', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

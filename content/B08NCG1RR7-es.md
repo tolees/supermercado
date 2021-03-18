@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NCG1RR7-es Taza Termo KKmoon Vaso Termico Cafe 450ML Pantalla LED...'
 sku: 'B08NCG1RR7-es'
-tags: [ 'café', ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

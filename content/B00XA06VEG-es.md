@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA06VEG-es Scottex - Papel de cocina - Súper absorbente - 2 rollos'
 sku: 'B00XA06VEG-es'
-tags: [ 'cocina','de','papel','scottex', ]
 actualPrice: 1.18 EUR
 currency: EUR
 price: 1.18

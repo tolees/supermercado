@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CGPMEAQ-es Fanola Champú No Yellow 1000 ml.'
 sku: 'B00CGPMEAQ-es'
-tags: [ 'champú', ]
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LL6W5SG-es AXE 1711702 3D Ambientador Negro Negro'
 sku: 'B08LL6W5SG-es'
-tags: [ 'axe', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

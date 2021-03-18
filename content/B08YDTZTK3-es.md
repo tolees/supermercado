@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08YDTZTK3-es PLAN HACCP: PRODUCCIÓN DE ESPÁRRAGO VERDE EN CONSERVA'
 sku: 'B08YDTZTK3-es'
-tags: [ 'conserva','espárrago', ]
 actualPrice: 4.28 EUR
 currency: EUR
 price: 4.28

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAP104M-es Haribo Funky Mix - 1 kg'
 sku: 'B00XAP104M-es'
-tags: [ 'haribo', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

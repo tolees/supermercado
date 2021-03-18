@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QCQ5B98-es Finish All in 1 Max Power Gel Limón Desengrasante...'
 sku: 'B07QCQ5B98-es'
-tags: [ 'detergente','finish', ]
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HDBPFGH-es PINZAS PARA JAMÓN EMBUTIDOS PESCADOS. IDEAL PARA FINAS...'
 sku: 'B08HDBPFGH-es'
-tags: [ 'chorizo','jamón', ]
 actualPrice: 11.96 EUR
 currency: EUR
 price: 11.96

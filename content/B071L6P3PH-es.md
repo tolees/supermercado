@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071L6P3PH-es Purina Felix Gelatina comida para gatos con surtido de...'
 sku: 'B071L6P3PH-es'
-tags: [ 'purina', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

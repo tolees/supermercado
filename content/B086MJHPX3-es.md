@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086MJHPX3-es Sotonovillos Crianza Vino tinto Rioja D.O.Ca. Rioja...'
 sku: 'B086MJHPX3-es'
-tags: [ 'vino','tinto', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

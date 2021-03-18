@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EZ0JE0I-es The Body Source - Aceite de Coco Virgen Extra de 1 Litro -...'
 sku: 'B00EZ0JE0I-es'
-tags: [ 'virgen','extra', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

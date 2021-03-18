@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002LHOJNE-es Elizabeth Arden Ceramide Lift & Firm Crema de uso diario...'
 sku: 'B002LHOJNE-es'
-tags: [ 'elizabeth','arden', ]
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

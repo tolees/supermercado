@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013IB0WTG-es Norit Diario Toda la Ropa Detergente Líquido - 2120 ml'
 sku: 'B013IB0WTG-es'
-tags: [ 'Artículos para gatos','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Cepillos de dientes eléctricos','Cepillos de dientes eléctricos de rotación','Cepillos de dientes eléctricos y accesorios','Cepillos de dientes y accesorios','Comida húmeda para gatos','Comida para gatos','Cuidado bucal','Cuidado y limpieza del hogar','Cápsulas y pastillas de detergente para textiles','Detergente líquido para textiles','Hogar y cocina','Limpieza personal','Pastas de dientes','Pastillas de jabón y jabón líquido para manos','Productos para la lavandería','Productos para mascotas','Robots aspiradores','Salud y cuidado personal','detergente','norit', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

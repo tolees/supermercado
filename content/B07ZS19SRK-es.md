@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZS19SRK-es Vermouth Padró & Co - Vermouth Myrrha Rojo - 1 L'
 sku: 'B07ZS19SRK-es'
-tags: [ 'vermouth', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

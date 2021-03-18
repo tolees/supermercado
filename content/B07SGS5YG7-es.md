@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SGS5YG7-es NIVEA MEN DEEP Amazonia Spray desodorante de hombre con...'
 sku: 'B07SGS5YG7-es'
-tags: [ 'desodorante','nivea', ]
 actualPrice: 19.01 EUR
 currency: EUR
 price: 19.01

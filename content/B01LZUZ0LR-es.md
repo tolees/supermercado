@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LZUZ0LR-es Olympia Kiln - Olympia horno GP346 taza de café océano 230...'
 sku: 'B01LZUZ0LR-es'
-tags: [ 'café', ]
 actualPrice: 28.59 EUR
 currency: EUR
 price: 28.59

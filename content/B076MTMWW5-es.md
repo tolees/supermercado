@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076MTMWW5-es 2 pastillas de jabón de carbón de bambú hecho a mano jabón...'
 sku: 'B076MTMWW5-es'
-tags: [ 'gxr','jabón', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

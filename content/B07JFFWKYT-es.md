@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JFFWKYT-es Deliex delicias de Extremadura - Cesta Gourmet Deliex con...'
 sku: 'B07JFFWKYT-es'
-tags: [ 'cabra','de','deliex delicias de extremadura','paté','queso', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

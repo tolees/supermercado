@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VWVJ5CP-es YUEMEI Reloj De Diamantes De Agua Con Collar colgante de...'
 sku: 'B08VWVJ5CP-es'
-tags: [ 'melocotón', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

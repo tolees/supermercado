@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BJ2H1FG-es ACELEY Dispensador de jabón automático de 400 ml...'
 sku: 'B08BJ2H1FG-es'
-tags: [ 'jabón','champú', ]
 actualPrice: 9.27 EUR
 currency: EUR
 price: 9.27

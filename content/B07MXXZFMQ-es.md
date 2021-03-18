@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MXXZFMQ-es Garnier BIO Crema Antiedad para el Contorno de Ojos con...'
 sku: 'B07MXXZFMQ-es'
-tags: [ 'garnier', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

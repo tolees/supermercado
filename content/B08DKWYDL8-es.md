@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKWYDL8-es com-four® 2X Cesta de Navidad - Cesta de Regalo con diseño...'
 sku: 'B08DKWYDL8-es'
-tags: [ 'cesta','de','navidad', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

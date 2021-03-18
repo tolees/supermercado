@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BL4IK5Q-es SOS Arroz Redondo - 1 kg'
 sku: 'B00BL4IK5Q-es'
-tags: [ 'arroz', ]
 actualPrice: 1.4 EUR
 currency: EUR
 price: 1.4

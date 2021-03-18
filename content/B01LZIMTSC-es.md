@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LZIMTSC-es Central Lechera Asturiana - Leche Entera Brik 6L Pack 6 x 1L'
 sku: 'B01LZIMTSC-es'
-tags: [ 'central','lechera','leche','entera', ]
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

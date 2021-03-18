@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0815HRWVN-es Maxies Galletas Choco Chips Con Pepitas De Chocolate 12...'
 sku: 'B0815HRWVN-es'
-tags: [ 'chocolate', ]
 actualPrice: None None
 currency: None
 price: None

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019ONS2BW-es Ziaja Leche De Cabra acondicionador capilar 200ml'
 sku: 'B019ONS2BW-es'
-tags: [ 'acondicionador', ]
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089GDQZ8L-es ACELEY 700ML Dispensador de jabón automático montado en la...'
 sku: 'B089GDQZ8L-es'
-tags: [ 'jabón', ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

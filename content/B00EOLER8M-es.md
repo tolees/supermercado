@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EOLER8M-es Smint Tin Fresa Caramelo Comprimido Sin Azúcar - 12...'
 sku: 'B00EOLER8M-es'
-tags: [ 'azúcar','smint', ]
 actualPrice: 14.85 EUR
 currency: EUR
 price: 14.85

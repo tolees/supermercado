@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W453TWS-es Johnnie Walker Song of Fire Whisky Escocés Edición...'
 sku: 'B07W453TWS-es'
-tags: [ 'whisky', ]
 actualPrice: 23.3 EUR
 currency: EUR
 price: 23.3

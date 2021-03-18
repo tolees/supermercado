@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AGNCWQK-es Hero Babynatur Cereales con Galleta 1200g'
 sku: 'B01AGNCWQK-es'
-tags: [ 'Alimentación infantil','Alimentación y bebidas','Cereales y papillas para bebés','Papillas para bebé','baby','hero', ]
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65

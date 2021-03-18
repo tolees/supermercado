@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08M787ZCG-es Lázaro Perrunillas Tradicionales Envase 350g 8 unidades...'
 sku: 'B08M787ZCG-es'
-tags: [ 'canela', ]
 actualPrice: 2.61 EUR
 currency: EUR
 price: 2.61

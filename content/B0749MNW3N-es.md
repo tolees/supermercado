@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0749MNW3N-es FIRIK Cabezas de cepillo de dientes eléctrico compatible...'
 sku: 'B0749MNW3N-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

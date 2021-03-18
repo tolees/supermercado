@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NPDG5WK-es Bombilla LED E14 Blanco Frío 6000K 1200Lm Anmossi 12W E14...'
 sku: 'B08NPDG5WK-es'
-tags: [ 'maíz', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

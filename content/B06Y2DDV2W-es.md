@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y2DDV2W-es Schwarzkopf BlondMe Bond Enforcing Premium Lightener 9+...'
 sku: 'B06Y2DDV2W-es'
-tags: [ 'Accesorios de coloración','Alimentación y bebidas','Artículos para gatos','Belleza','Cepillos de dientes eléctricos','Cepillos de dientes eléctricos sónicos','Cepillos de dientes eléctricos y accesorios','Cepillos de dientes y accesorios','Cervezas','Cervezas, vinos y licores','Coloración del cabello','Comida húmeda para gatos','Comida para gatos','Cuidado bucal','Cuidado del cabello','Decoración del hogar','Geles y espumas para limpieza facial','Hogar y cocina','Limpiadores faciales','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Productos para mascotas','Salud y cuidado personal','Velas','Velas en frasco','Velas y candelabros','Vinos','Vinos blancos','schwarzkopf', ]
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

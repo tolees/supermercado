@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XDOT92A-es Colgate Triple Action Dentífrico - 2 X 75 ml'
 sku: 'B00XDOT92A-es'
-tags: [ 'colgate','dentífrico', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

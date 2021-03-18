@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000Q3BMZS-es CHANEL ANTAEUS DEODORANT STICK 60 g Hombres Desodorante en...'
 sku: 'B000Q3BMZS-es'
-tags: [ 'desodorante','desodorantes', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

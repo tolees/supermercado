@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA5FE94-es Central Lechera Asturiana - Leche en polvo - Desnatada - 1 kg'
 sku: 'B00XA5FE94-es'
-tags: [ 'central','central lechera asturiana','lechera', ]
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

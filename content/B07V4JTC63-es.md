@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V4JTC63-es Ausla - Trituradora de Latas Prensa Latas de Pared...'
 sku: 'B07V4JTC63-es'
-tags: [ 'cerveza', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

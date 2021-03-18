@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0158PRPCC-es Godiva Connoisseur bombones surtidos chocolate negro 18...'
 sku: 'B0158PRPCC-es'
-tags: [ 'chocolate', ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

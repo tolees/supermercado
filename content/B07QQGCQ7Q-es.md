@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QQGCQ7Q-es Love Beauty and Planet Acondicionador para Cabello dañado...'
 sku: 'B07QQGCQ7Q-es'
-tags: [ 'acondicionador', ]
 actualPrice: 8.38 EUR
 currency: EUR
 price: 8.38

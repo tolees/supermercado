@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KKZXY66-es Joseph Joseph - Push&Tear™ Portarrollos para Papel de...'
 sku: 'B07KKZXY66-es'
-tags: [ 'papel','de','cocina', ]
 actualPrice: 23.51 EUR
 currency: EUR
 price: 23.51

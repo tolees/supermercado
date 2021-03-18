@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YBG21KN-es Dixan Detergente Líquido Adiós Al Separar 75 Lavados -...'
 sku: 'B07YBG21KN-es'
-tags: [ 'detergente','dixan', ]
 actualPrice: 31.79 EUR
 currency: EUR
 price: 31.79

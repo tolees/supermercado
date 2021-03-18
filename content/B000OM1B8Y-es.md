@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000OM1B8Y-es Trixie 4225 Gato Menta'
 sku: 'B000OM1B8Y-es'
-tags: [ 'trixie', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

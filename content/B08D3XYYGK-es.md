@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D3XYYGK-es KOFFIE CUP EST. 2020 - Koffie Cup Brazil 40 Cápsulas...'
 sku: 'B08D3XYYGK-es'
-tags: [ 'café', ]
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

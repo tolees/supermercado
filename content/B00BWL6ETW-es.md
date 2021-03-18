@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BWL6ETW-es Pasta de dientes COLGATE Max Fresh con cristales...'
 sku: 'B00BWL6ETW-es'
-tags: [ 'colgate','pasta','de','dientes', ]
 actualPrice: 1.52 EUR
 currency: EUR
 price: 1.52

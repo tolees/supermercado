@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCLMGL3-es MVPOWER Bolsas de Basura de Jardín Set de 3pcs x 300L Gran...'
 sku: 'B07GCLMGL3-es'
-tags: [ 'basura','bolsas','de', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

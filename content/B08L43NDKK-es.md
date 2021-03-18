@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L43NDKK-es Lavazza Café Molido Crema e Gusto Classico 250 g'
 sku: 'B08L43NDKK-es'
-tags: [ 'café','lavazza', ]
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

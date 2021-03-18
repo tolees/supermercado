@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08M66CQS7-es EZERO Tratamiento Plex con Champu Mascarilla y Aceite...'
 sku: 'B08M66CQS7-es'
-tags: [ 'champu', ]
 actualPrice: 42.95 EUR
 currency: EUR
 price: 42.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M1DL93D-es Hero Baby - Arroz Con Pollo Tierno 235 gr - Pack de 6...'
 sku: 'B01M1DL93D-es'
-tags: [ 'arroz','hero','baby', ]
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

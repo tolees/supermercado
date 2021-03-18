@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P7VSZWJ-es EL PALADAR JAMONERIA & DELICATESSEN - CESTA DE NAVIDAD -...'
 sku: 'B08P7VSZWJ-es'
-tags: [ 'cesta','de','navidad', ]
 actualPrice: 100.0 EUR
 currency: EUR
 price: 100.0

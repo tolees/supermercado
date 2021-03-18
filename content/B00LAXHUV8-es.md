@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LAXHUV8-es Brabantia 363641 - Cuchara de Espagueti Acero y Nylon...'
 sku: 'B00LAXHUV8-es'
-tags: [ 'espagueti', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

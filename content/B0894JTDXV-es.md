@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0894JTDXV-es Baban Doble Fiambrera Doble y Sellado Comida Envase Bento...'
 sku: 'B0894JTDXV-es'
-tags: [ 'trigo', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

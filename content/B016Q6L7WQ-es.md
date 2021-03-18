@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016Q6L7WQ-es Naturseed - Aceite de coco Virgen Extra Orgánico - Para...'
 sku: 'B016Q6L7WQ-es'
-tags: [ 'virgen','extra', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

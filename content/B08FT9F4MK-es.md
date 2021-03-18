@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FT9F4MK-es Naturitas Aceite de Coco | 1L | Virgen extra | Bio |...'
 sku: 'B08FT9F4MK-es'
-tags: [ 'sin','gluten','virgen','extra', ]
 actualPrice: 16.69 EUR
 currency: EUR
 price: 16.69

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0168WGIPY-es Pellini Caffè Café en Grano Pellini Espresso Bar No. 82...'
 sku: 'B0168WGIPY-es'
-tags: [ 'café', ]
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

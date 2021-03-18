@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QFDBWPX-es Garlincao - Joya Cristal Amatista Piedra Cuarzo Naturaleza...'
 sku: 'B08QFDBWPX-es'
-tags: [ 'café', ]
 actualPrice: 21.35 EUR
 currency: EUR
 price: 21.35

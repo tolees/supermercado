@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TY1GGDZ-es women secret - Women s Secret Mesh Print Plumeti Dove Grey...'
 sku: 'B07TY1GGDZ-es'
-tags: [ 'dove', ]
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

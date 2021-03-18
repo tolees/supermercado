@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SG4MJBJ-es Polvo de Dientes Magicfun Polvo Blanqueamiento Dental...'
 sku: 'B07SG4MJBJ-es'
-tags: [ 'café', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

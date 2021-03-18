@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DVTKKWE-es Weider Protein Pancake Mix Coco y Chocolate Blanco - 600 gr'
 sku: 'B01DVTKKWE-es'
-tags: [ 'chocolate', ]
 actualPrice: 15.44 EUR
 currency: EUR
 price: 15.44

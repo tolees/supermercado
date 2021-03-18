@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J57FJ9G-es ABAKUHAUS Divertido Cortina de Baño Bulldog Francés...'
 sku: 'B07J57FJ9G-es'
-tags: [ 'martini', ]
 actualPrice: None None
 currency: None
 price: None

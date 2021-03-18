@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R7WJFHW-es Café FORTALEZA Café molido Descafeinado - 400 gr'
 sku: 'B07R7WJFHW-es'
-tags: [ 'café','descafeinado','fortaleza', ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

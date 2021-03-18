@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077PSLTM8-es Dulcesol Croissants Cacao 225g'
 sku: 'B077PSLTM8-es'
-tags: [ 'dulcesol', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

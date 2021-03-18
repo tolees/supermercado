@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00L81YALA-es Pescamar Mejillones En Escabeche 3 Latas 80 g'
 sku: 'B00L81YALA-es'
-tags: [ 'escabeche','mejillones', ]
 actualPrice: 2.38 EUR
 currency: EUR
 price: 2.38

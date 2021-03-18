@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MBWQV1-es Maybelline Barra de labios Superstay Matte Ink tono 25...'
 sku: 'B074MBWQV1-es'
-tags: [ 'maybelline', ]
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

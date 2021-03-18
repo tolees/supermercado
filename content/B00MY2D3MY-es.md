@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MY2D3MY-es Rexona Maximum Protection - Desodorante Roll On...'
 sku: 'B00MY2D3MY-es'
-tags: [ 'desodorante','rexona', ]
 actualPrice: 3.14 EUR
 currency: EUR
 price: 3.14

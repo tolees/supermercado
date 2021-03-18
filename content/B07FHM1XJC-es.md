@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FHM1XJC-es O Naturals Jabón Natural al Aceite de Coco con Manteca de...'
 sku: 'B07FHM1XJC-es'
-tags: [ 'jabón','champú', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

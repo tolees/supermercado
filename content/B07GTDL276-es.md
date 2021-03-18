@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GTDL276-es Nivea Men Crema para Cuerpo Cara y Manos - 5 x 150 ml...'
 sku: 'B07GTDL276-es'
-tags: [ 'nivea', ]
 actualPrice: 15.86 EUR
 currency: EUR
 price: 15.86

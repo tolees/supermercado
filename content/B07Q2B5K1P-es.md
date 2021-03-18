@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q2B5K1P-es COO ES - Teclado iPad 10.2 10.2 8th 2020/ 7th 2019 Funda...'
 sku: 'B07Q2B5K1P-es'
-tags: [ 'vino','tinto', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

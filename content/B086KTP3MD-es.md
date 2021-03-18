@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086KTP3MD-es LDREAMAM - Blanqueamiento Dental Blanqueador de dientes...'
 sku: 'B086KTP3MD-es'
-tags: [ 'café', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

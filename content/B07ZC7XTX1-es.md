@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZC7XTX1-es CupCup - 140 Vasos Carton Desechables para Café Espresso...'
 sku: 'B07ZC7XTX1-es'
-tags: [ 'café', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

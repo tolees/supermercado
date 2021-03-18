@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N67QSZ1-es GoMaihe 10 Tarro de Vidrio de Almacenamiento 250ML+350ML...'
 sku: 'B08N67QSZ1-es'
-tags: [ 'café','conservas', ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FXPW97Y-es Bioterra almendra entera con chocolate con leche y canela...'
 sku: 'B07FXPW97Y-es'
-tags: [ 'canela','chocolate', ]
 actualPrice: 13.34 EUR
 currency: EUR
 price: 13.34

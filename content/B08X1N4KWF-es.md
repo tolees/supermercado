@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08X1N4KWF-es Doans Juego De Limpieza De Cepillo Para Botellas De 4...'
 sku: 'B08X1N4KWF-es'
-tags: [ 'cerveza', ]
 actualPrice: 4.02 EUR
 currency: EUR
 price: 4.02

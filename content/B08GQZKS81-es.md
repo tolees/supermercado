@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GQZKS81-es Dani - México sazonador especial Fajitas 40 gr.'
 sku: 'B08GQZKS81-es'
-tags: [ 'fajitas', ]
 actualPrice: 0.89 EUR
 currency: EUR
 price: 0.89

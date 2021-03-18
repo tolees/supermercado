@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08P26YCLK-es CERVEZUS - Cervezas Belgas Pack 10 variedades - Cerveza...'
 sku: 'B08P26YCLK-es'
-tags: [ 'cerveza','cervezus', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

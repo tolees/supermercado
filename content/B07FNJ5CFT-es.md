@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNJ5CFT-es Ordate Bolsas de Basura con 9 Rollos 40 L Color Azul Verde...'
 sku: 'B07FNJ5CFT-es'
-tags: [ 'basura','bolsas','de', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ZR6E0EO-es Pinty Plus Chalk Finish CK788 Spray Paint Broken White -...'
 sku: 'B00ZR6E0EO-es'
-tags: [ 'finish', ]
 actualPrice: 5.66 EUR
 currency: EUR
 price: 5.66

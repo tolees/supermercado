@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ABY8FCU-es Oral-B - OB Cepillo Shiny Clean Medium Robin Hood 4 uds'
 sku: 'B00ABY8FCU-es'
-tags: [ 'ob','cepillo', ]
 actualPrice: 3.19 EUR
 currency: EUR
 price: 3.19

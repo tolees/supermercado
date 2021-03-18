@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KGKYR3B-es Nestlé Caja Roja Bombones De Chocolate Estuche Navidad -...'
 sku: 'B07KGKYR3B-es'
-tags: [ 'nestlé','chocolate', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MG4SXMP-es Gullón - Tortitas Arroz Integral y Chocolate Vitalday 841...'
 sku: 'B08MG4SXMP-es'
-tags: [ 'arroz','gullón','arroz','integral','chocolate', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

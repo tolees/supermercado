@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08XWZXM7H-es Hdadwy Toallas de Cocina de Calaveras de azúcar Rojas y...'
 sku: 'B08XWZXM7H-es'
-tags: [ 'azúcar', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

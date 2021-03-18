@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076M8TRN2-es Olay Regenerist Crema hidratante de día Crema facial con...'
 sku: 'B076M8TRN2-es'
-tags: [ 'crema','hidratante', ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

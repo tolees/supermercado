@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QMDFB8-es Grohe Rainshower 310 SmartActive CUBE - Juego de alcachofa...'
 sku: 'B075QMDFB8-es'
-tags: [ 'alcachofa', ]
 actualPrice: 380.12 EUR
 currency: EUR
 price: 380.12

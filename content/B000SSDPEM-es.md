@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000SSDPEM-es Vileda Attractive Plus Recambios para mopa pack 24 + 6...'
 sku: 'B000SSDPEM-es'
-tags: [ 'vileda', ]
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

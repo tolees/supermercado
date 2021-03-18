@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KDK43N1-es Moksha Beauty - Barra de Jabón de Azufre con Ácido...'
 sku: 'B08KDK43N1-es'
-tags: [ 'jabón', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

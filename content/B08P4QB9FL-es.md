@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P4QB9FL-es ZeLight Puro Crema Hidratante Retinol para la Cara con...'
 sku: 'B08P4QB9FL-es'
-tags: [ 'crema','hidratante', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

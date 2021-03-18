@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BGGKLSR-es Productos San Diego Lazos Chocolate - 1750 gr'
 sku: 'B07BGGKLSR-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Batidoras espumadoras de leche automáticas','Baño','Baño e higiene personal','Belleza','Bollería','Cuidado de la salud','Espumadores de leche','Hogar y cocina','Limpieza personal','Panadería y bollería','Pastillas de jabón y jabón líquido para manos','Portacepillos de dientes','Salud y cuidado personal','Soportes y dispensadores para baño','Utensilios para café y té','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','chocolate','productos san diego', ]
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BYSVT18-es Garnier Fructis Aloe Hydra Bomb Champú - 360 ml'
 sku: 'B07BYSVT18-es'
-tags: [ 'garnier','champú', ]
 actualPrice: 2.94 EUR
 currency: EUR
 price: 2.94

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005YWXR72-es Revlon ColorStay Maquillaje en Polvo #830 Light Medium'
 sku: 'B005YWXR72-es'
-tags: [ 'revlon', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

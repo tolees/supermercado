@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CNRHQLQ-es Egan WMSET/28 Juego de Tazas de café Modelo París...'
 sku: 'B07CNRHQLQ-es'
-tags: [ 'café', ]
 actualPrice: 29.59 EUR
 currency: EUR
 price: 29.59

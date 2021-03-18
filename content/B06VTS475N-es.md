@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06VTS475N-es Fomccu - 10 bolsas de muselina de algodón con cordón...'
 sku: 'B06VTS475N-es'
-tags: [ 'jabón', ]
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PR675HJ-es Pernigotti Tableta De Chocolate Con Leche Y Pistacho 100 g'
 sku: 'B08PR675HJ-es'
-tags: [ 'pernigotti','chocolate', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

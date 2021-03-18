@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HWDVL21-es GeekerChip Cepillos de Dientes de Bambú Paquete de 10...'
 sku: 'B08HWDVL21-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HABV78Q-es Gillette Sensor3 - Maquinilla desechable para Hombre Hasta...'
 sku: 'B00HABV78Q-es'
-tags: [ 'gillette', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRJT9BK-es Marca Amazon - Solimo Cápsulas Espresso Intenso...'
 sku: 'B07WRJT9BK-es'
-tags: [ 'Alimentación y bebidas','Belleza','Café y expreso','Café, té y bebidas','Cremas corporales','Cremas diurnas faciales','Cremas para pies','Cuidado diurno facial','Cuidado y limpieza del hogar','Cápsulas de café','Hidratantes corporales','Hidratantes faciales','Lavavajillas','Lociones corporales','Manicura y pedicura','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Productos para el cuidado de la piel corporal','Productos para el cuidado de las manos y de los pies','Salud y cuidado personal','solimo', ]
 actualPrice: 12.04 EUR
 currency: EUR
 price: 12.04

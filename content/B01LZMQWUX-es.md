@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZMQWUX-es Fairy Original - Cápsulas Todo en 1 para Lavavajillas - 44...'
 sku: 'B01LZMQWUX-es'
-tags: [ 'fairy', ]
 actualPrice: 9.65 EUR
 currency: EUR
 price: 9.65

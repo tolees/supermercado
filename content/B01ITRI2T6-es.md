@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ITRI2T6-es Central Lechera Asturiana Leche Sin Lactosa Semidesnatada...'
 sku: 'B01ITRI2T6-es'
-tags: [ 'central','lechera', ]
 actualPrice: 9.68 EUR
 currency: EUR
 price: 9.68

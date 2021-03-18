@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BNP43PY-es Cecotec Molinillo de Café y Especias TitanMill 200...'
 sku: 'B07BNP43PY-es'
-tags: [ 'café', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

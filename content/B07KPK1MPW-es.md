@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPK1MPW-es Pop! Vinilo: Fairy Tail S3: Zeref'
 sku: 'B07KPK1MPW-es'
-tags: [ 'fairy', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00RSF7RHO-es NIVEA MEN Active Age Regenerador Anti-edad Noche 1 x 50 ml...'
 sku: 'B00RSF7RHO-es'
-tags: [ 'nivea', ]
 actualPrice: 7.72 EUR
 currency: EUR
 price: 7.72

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0719KD1KG-es Lixone Gel y jabón - 125 gr.'
 sku: 'B0719KD1KG-es'
-tags: [ 'jabón', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

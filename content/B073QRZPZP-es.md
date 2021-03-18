@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QRZPZP-es Mimosin Intense Explosión de Frescor Suavizante - 58...'
 sku: 'B073QRZPZP-es'
-tags: [ 'mimosin','suavizante', ]
 actualPrice: 19.74 EUR
 currency: EUR
 price: 19.74

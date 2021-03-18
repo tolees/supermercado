@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003TRU57E-es La Chinata Aceite Oliva Virgen Extra Guindilla - 250 ml'
 sku: 'B003TRU57E-es'
-tags: [ 'virgen','extra', ]
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

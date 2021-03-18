@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0748JGQWP-es Puleva Café con Leche Clásico - Pack 6 x 1Lt 116700'
 sku: 'B0748JGQWP-es'
-tags: [ 'café','puleva', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

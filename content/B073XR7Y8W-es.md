@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073XR7Y8W-es Head & Shoulders Men Ultra Anticaída Champú Anticaspa con...'
 sku: 'B073XR7Y8W-es'
-tags: [ 'champú', ]
 actualPrice: 10.91 EUR
 currency: EUR
 price: 10.91

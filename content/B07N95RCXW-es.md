@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N95RCXW-es Marca Amazon - Happy Belly Select Té verde helado 12 x 500 ml'
 sku: 'B07N95RCXW-es'
-tags: [ 'happy','belly', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

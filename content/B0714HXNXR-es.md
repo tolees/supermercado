@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0714HXNXR-es Jacobs Espresso Ristretto - Nespresso®* Cápsulas de café...'
 sku: 'B0714HXNXR-es'
-tags: [ 'café','cápsulas','de','café', ]
 actualPrice: 22.43 EUR
 currency: EUR
 price: 22.43

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08549RZBM-es Johnnie Walker Black Label Islay Origin Blended Scotch...'
 sku: 'B08549RZBM-es'
-tags: [ 'whisky', ]
 actualPrice: 36.11 EUR
 currency: EUR
 price: 36.11

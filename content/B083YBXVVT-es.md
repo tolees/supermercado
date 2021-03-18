@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083YBXVVT-es TRESemmé Hidratación Intensa Acondicionador 900ml - Pack de 6'
 sku: 'B083YBXVVT-es'
-tags: [ 'acondicionador','tresemmé', ]
 actualPrice: 22.8 EUR
 currency: EUR
 price: 22.8

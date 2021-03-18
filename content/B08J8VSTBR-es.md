@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J8VSTBR-es L Oreal Paris Dermo Expertise - Set de Sérum Antiarrugas +...'
 sku: 'B08J8VSTBR-es'
-tags: [ 'oréal', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

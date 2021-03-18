@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KJGOH26-es Maybelline New York Paleta de Sombras de Ojos The Rock Nudes'
 sku: 'B01KJGOH26-es'
-tags: [ 'maybelline', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

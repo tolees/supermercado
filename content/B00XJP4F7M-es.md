@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XJP4F7M-es Enjuague bucal COLGATE Total 12H Protection boca más sana...'
 sku: 'B00XJP4F7M-es'
-tags: [ 'colgate', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

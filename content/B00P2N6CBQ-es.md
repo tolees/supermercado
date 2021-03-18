@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00P2N6CBQ-es Solis Rice Cooker Duo Programm Type 817 - Arrocera...'
 sku: 'B00P2N6CBQ-es'
-tags: [ 'solis', ]
 actualPrice: 65.25 EUR
 currency: EUR
 price: 65.25

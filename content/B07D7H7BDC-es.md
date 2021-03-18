@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D7H7BDC-es Orlando - Tomate Frito Clásico Brik 350 g - [pack de 24]'
 sku: 'B07D7H7BDC-es'
-tags: [ 'orlando', ]
 actualPrice: 20.1 EUR
 currency: EUR
 price: 20.1

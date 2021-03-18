@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002QF29ZG-es Guzzini Rallador de manzana para niños Bimbi 21 5 x 11 x...'
 sku: 'B002QF29ZG-es'
-tags: [ 'manzana', ]
 actualPrice: 14.62 EUR
 currency: EUR
 price: 14.62

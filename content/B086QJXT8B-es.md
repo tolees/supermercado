@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086QJXT8B-es NETUME - Estropajos Cocina de Doble Cara Pack de 6 Esponja...'
 sku: 'B086QJXT8B-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Almacenamiento de alimentos','Almacenamiento de cocina y despensa','Bandejas de cocina','Bandejas para queso','Baño','Baño e higiene personal','Bebidas vegetales','Belleza','Botes para alimentos','Cubertería, Vajilla y Cristalería','Cuidado del cabello','Cuidado y limpieza del hogar','Detergente líquido para textiles','Dispensadores de loción y de jabón','Esponjas de limpieza','Hogar y cocina','Iluminación','Iluminación de ambiente infantil','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Iluminación nocturna de interior','Jabones faciales','Lavavajillas','Limpiadores faciales','Limpieza personal','Lácteos y huevos','Lámparas e iluminación infantil','Piezas de vajilla','Platos y fuentes','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Productos para el cuidado del cabello','Productos para la lavandería','Productos y utensilios de limpieza','Salud y cuidado personal','Sets y juegos de pelo','Soportes y dispensadores para baño','Tazas','Tazas de té','Tazas térmicas','Trituradoras para la verdura','Utensilios de cocina','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','estropajo','netume', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

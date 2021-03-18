@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CNWL6HR-es Estrella Galicia Cerveza Sin Gluten - Pack de 24 botellas...'
 sku: 'B07CNWL6HR-es'
-tags: [ 'cerveza','estrella','galicia','sin','gluten', ]
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

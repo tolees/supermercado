@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YQDRJDM-es Garnier Skin Active Fresh Mix Mask Tissu - Mascarilla...'
 sku: 'B07YQDRJDM-es'
-tags: [ 'garnier', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

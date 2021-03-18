@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NXVF7JC-es Schwarzkopf - Gliss'
 sku: 'B07NXVF7JC-es'
-tags: [ 'schwarzkopf', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WP32BH3-es Hoomtaook Portarollos Cocina Soportes de Pared para...'
 sku: 'B07WP32BH3-es'
-tags: [ 'papel','de','cocina', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

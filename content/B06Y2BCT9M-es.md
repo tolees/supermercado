@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y2BCT9M-es Nestlé Leche y Cereales Pijama Alimento Para bebés -...'
 sku: 'B06Y2BCT9M-es'
-tags: [ 'nestlé', ]
 actualPrice: None None
 currency: None
 price: None

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PY8SLKW-es Campos Conserva de atún claro en aceite de girasol - pack...'
 sku: 'B07PY8SLKW-es'
-tags: [ 'atún','claro','conserva','de', ]
 actualPrice: 2.24 EUR
 currency: EUR
 price: 2.24

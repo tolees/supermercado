@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083RHXM9J-es Cabezales para Cepillo de Dientes Infantiles de Milos...'
 sku: 'B083RHXM9J-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

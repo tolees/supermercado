@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XA0OQMA-es Purina Friskies Vitafit Active Pienso para Perro Adulto...'
 sku: 'B00XA0OQMA-es'
-tags: [ 'friskies','purina', ]
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K45PNV8-es Sadival - Lote Jamonero con Paleta Reserva Ibéricos y vino...'
 sku: 'B08K45PNV8-es'
-tags: [ 'vino','tinto', ]
 actualPrice: 65.73 EUR
 currency: EUR
 price: 65.73

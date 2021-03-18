@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003JKKKLW-es Umbra 330190-040 Dispensador de Jabón Penguin Negro'
 sku: 'B003JKKKLW-es'
-tags: [ 'jabón', ]
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

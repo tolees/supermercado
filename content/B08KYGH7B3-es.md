@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KYGH7B3-es RE REGALO Kit Degustación PICCOLA ITALIA Cesta 7 piezas...'
 sku: 'B08KYGH7B3-es'
-tags: [ 'chocolate', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

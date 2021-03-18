@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X9ZIB3G-es Sugus Caramelo Masticable a Base de Zumo de Frutas 1 bolsa...'
 sku: 'B00X9ZIB3G-es'
-tags: [ 'zumo','de', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

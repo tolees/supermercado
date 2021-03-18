@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DNIN576-es Scottex - Pañuelo - 12 + 3 uds'
 sku: 'B00DNIN576-es'
-tags: [ 'scottex', ]
 actualPrice: 1.81 EUR
 currency: EUR
 price: 1.81

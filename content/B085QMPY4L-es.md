@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085QMPY4L-es Nocilla Fluida Original - 2kg'
 sku: 'B085QMPY4L-es'
-tags: [ 'nocilla', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

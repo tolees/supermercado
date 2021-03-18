@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PSN6K6F-es Yodeace Rosa Preservada Rose Jabón de Flores Eternas Caja...'
 sku: 'B08PSN6K6F-es'
-tags: [ 'jabón', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

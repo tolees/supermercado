@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FD8NP7R-es Skip Ultimate Triple Poder Fragancia Mimosín Detergente...'
 sku: 'B07FD8NP7R-es'
-tags: [ 'detergente', ]
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DDHHJ95-es Pantene Suave Y Liso Mascarilla Antiencrespamiento Cabello...'
 sku: 'B08DDHHJ95-es'
-tags: [ 'pantene', ]
 actualPrice: 11.32 EUR
 currency: EUR
 price: 11.32

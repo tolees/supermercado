@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5JGB7C-es ZigZag Editions Vaso de Whisky Lucky Luke & Jolly Jumper V1'
 sku: 'B07H5JGB7C-es'
-tags: [ 'whisky','zigzag editions', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002Y2ZLEW-es Gaggia RI9305 / 01 - Máquina de café'
 sku: 'B002Y2ZLEW-es'
-tags: [ 'café', ]
 actualPrice: 402.97 EUR
 currency: EUR
 price: 402.97

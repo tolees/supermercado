@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RS6XN8X-es Wipp Express Detergente Líquido Antiolores - Pack de 4...'
 sku: 'B07RS6XN8X-es'
-tags: [ 'detergente', ]
 actualPrice: 28.19 EUR
 currency: EUR
 price: 28.19

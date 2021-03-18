@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001IZYQC4-es Max Factor Maquillaje en polvo - 1 unidad'
 sku: 'B001IZYQC4-es'
-tags: [ 'factor','max', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

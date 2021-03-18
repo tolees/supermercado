@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001PO1ZE0-es Tanqueray Rangpur Ginebra 1000ml'
 sku: 'B001PO1ZE0-es'
-tags: [ 'ginebra', ]
 actualPrice: 21.72 EUR
 currency: EUR
 price: 21.72

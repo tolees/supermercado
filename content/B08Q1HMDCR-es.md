@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Q1HMDCR-es Sanex Dermo Extra Control Desodorante Roll-On Pack Uds X...'
 sku: 'B08Q1HMDCR-es'
-tags: [ 'desodorante', ]
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

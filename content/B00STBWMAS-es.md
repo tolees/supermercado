@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00STBWMAS-es L Oreal Paris Dermo Expertise - L Oréal Paris Revitalift...'
 sku: 'B00STBWMAS-es'
-tags: [ 'oréal', ]
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

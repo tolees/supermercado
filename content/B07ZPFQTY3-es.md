@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZPFQTY3-es Neutrogena Loción Corporal Elasticidad Intensa Piel Seca...'
 sku: 'B07ZPFQTY3-es'
-tags: [ 'neutrogena', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

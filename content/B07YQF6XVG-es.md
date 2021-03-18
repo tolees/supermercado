@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YQF6XVG-es Axe - Gold Desodorante -Pack 2 x 150 ml'
 sku: 'B07YQF6XVG-es'
-tags: [ 'axe','desodorante', ]
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

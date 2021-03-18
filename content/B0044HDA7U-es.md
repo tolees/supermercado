@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0044HDA7U-es Avena Kinesia - Jabón para manos y cara 1 unidad 100 g'
 sku: 'B0044HDA7U-es'
-tags: [ 'Baño e higiene personal','Belleza','Limpieza personal','jabón','kinesia', ]
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L98KWZK-es Neutrogena Reparación Intensa Loción Corporal para Piel...'
 sku: 'B00L98KWZK-es'
-tags: [ 'neutrogena', ]
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

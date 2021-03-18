@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00O4SRR9Q-es Pata Negra Reserva - Vino Tinto D.O Valdepeñas - 1 Botella...'
 sku: 'B00O4SRR9Q-es'
-tags: [ 'vino','tinto', ]
 actualPrice: 2.47 EUR
 currency: EUR
 price: 2.47

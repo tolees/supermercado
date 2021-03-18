@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SCDYCBC-es Yosoy Bebida Ecológica de Soja - Caja de 6 x 1L - Total: 6L'
 sku: 'B07SCDYCBC-es'
-tags: [ 'soja','yosoy', ]
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93

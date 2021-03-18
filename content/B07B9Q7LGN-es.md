@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9Q7LGN-es True Instinct No Grain Mini Paté de Pollo para Perros 150...'
 sku: 'B07B9Q7LGN-es'
-tags: [ 'paté', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

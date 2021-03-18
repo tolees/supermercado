@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082TTJTR7-es Wenlai - 300 Piezas Etiquetas de Pizarra Reutilizable...'
 sku: 'B082TTJTR7-es'
-tags: [ 'mermelada', ]
 actualPrice: 4.33 EUR
 currency: EUR
 price: 4.33

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T6XXV4D-es Colgate Kit Total Original Pasta de Dientes - Pack de 4...'
 sku: 'B08T6XXV4D-es'
-tags: [ 'colgate','pasta','de','dientes', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

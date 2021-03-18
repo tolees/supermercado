@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVYZRVB-es Weider Isolate Whey 100CFM 908gr Sabor Fresa. 100% aislado...'
 sku: 'B07ZVYZRVB-es'
-tags: [ 'azúcar', ]
 actualPrice: 31.8 EUR
 currency: EUR
 price: 31.8

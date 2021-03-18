@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GVPBNHY-es Dicora UrbanFit - Dicora Urban Fit® Jabón De Manos...'
 sku: 'B07GVPBNHY-es'
-tags: [ 'jabón', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

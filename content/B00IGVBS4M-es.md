@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IGVBS4M-es Fa - Gel de Ducha Yoghurt Miel - Suavidad y Protección -...'
 sku: 'B00IGVBS4M-es'
-tags: [ 'gel','de','ducha', ]
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

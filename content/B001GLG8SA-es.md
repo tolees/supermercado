@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001GLG8SA-es Laphroaig Quarter Cask Single Malt Whisky Escoces Ahumado...'
 sku: 'B001GLG8SA-es'
-tags: [ 'whisky', ]
 actualPrice: 35.5 EUR
 currency: EUR
 price: 35.5

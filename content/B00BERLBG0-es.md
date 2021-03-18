@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BERLBG0-es Connemara Peated Single Malt Whisky Irlandes 40% 700ml'
 sku: 'B00BERLBG0-es'
-tags: [ 'connemara','whisky', ]
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

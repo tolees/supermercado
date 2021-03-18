@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BHZ21GY-es BULLDOG SECURITY - BULL DOG champú para barba 2 en 1...'
 sku: 'B07BHZ21GY-es'
-tags: [ 'champú', ]
 actualPrice: 4.83 EUR
 currency: EUR
 price: 4.83

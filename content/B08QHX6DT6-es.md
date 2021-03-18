@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QHX6DT6-es Cepillo de dientes eléctricos 4 Horas de Recarga la...'
 sku: 'B08QHX6DT6-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KQVCQ2J-es Lysol Spray Desinfectante y Limpiador Antical de Baños...'
 sku: 'B08KQVCQ2J-es'
-tags: [ 'lejía', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FH6T8WW-es Chicco Natural Sensation - Champú sin lágrimas 300 ml'
 sku: 'B01FH6T8WW-es'
-tags: [ 'champú', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

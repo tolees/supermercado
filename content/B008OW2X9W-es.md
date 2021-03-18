@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008OW2X9W-es Tognana Recipiente para Café Casa Dolce Casa'
 sku: 'B008OW2X9W-es'
-tags: [ 'café', ]
 actualPrice: 18.6 EUR
 currency: EUR
 price: 18.6

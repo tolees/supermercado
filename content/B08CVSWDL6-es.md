@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CVSWDL6-es ACE2ACE Almohadillas De Entrenamiento Para Mascotas...'
 sku: 'B08CVSWDL6-es'
-tags: [ 'empapadores', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

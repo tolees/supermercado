@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08PVFHPK6-es Gillette Mach3 Maquinilla de Afeitar Hombre + 12 Cuchillas...'
 sku: 'B08PVFHPK6-es'
-tags: [ 'Afeitado manual','Afeitado manual de hombre','Afeitado y depilación','Belleza','Maquinillas de afeitar para hombre en Afeitado manual','gillette', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

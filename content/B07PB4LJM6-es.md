@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PB4LJM6-es Axe Desodorante Black Pack Duplo Ahorro - 2 Paquetes de 2...'
 sku: 'B07PB4LJM6-es'
-tags: [ 'axe','desodorante', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

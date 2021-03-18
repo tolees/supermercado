@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC3XKHD-es AXE Excite - Desodorante Bodyspray para hombre 48 horas de...'
 sku: 'B07NC3XKHD-es'
-tags: [ 'Baño e higiene personal','Belleza','Desodorantes','axe','desodorante', ]
 actualPrice: 10.65 EUR
 currency: EUR
 price: 10.65

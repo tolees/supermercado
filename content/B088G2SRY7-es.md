@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088G2SRY7-es Finish 105 pastillas para lavavajillas All in One Max 3...'
 sku: 'B088G2SRY7-es'
-tags: [ 'Belleza','Cremas corporales','Cremas para pies','Cuidado diurno facial','Cuidado y limpieza del hogar','Hidratantes corporales','Hidratantes faciales','Lavavajillas','Lociones corporales','Manicura y pedicura','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Productos para el cuidado de la piel corporal','Productos para el cuidado de las manos y de los pies','Salud y cuidado personal','finish', ]
 actualPrice: 17.62 EUR
 currency: EUR
 price: 17.62

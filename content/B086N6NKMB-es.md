@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086N6NKMB-es Marca Amazon - Happy Belly - Caramelos a la mantequilla y...'
 sku: 'B086N6NKMB-es'
-tags: [ 'happy','belly', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

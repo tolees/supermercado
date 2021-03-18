@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LT4K11T-es Rc Ocio - Cesta Navidad de regalo Lote Riojano gourmet /...'
 sku: 'B08LT4K11T-es'
-tags: [ 'conservas','vino','tinto', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

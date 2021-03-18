@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NL12FTS-es Marca Amazon - Presto! Detergente en cápsulas para...'
 sku: 'B08NL12FTS-es'
-tags: [ 'detergente','presto!', ]
 actualPrice: 18.93 EUR
 currency: EUR
 price: 18.93

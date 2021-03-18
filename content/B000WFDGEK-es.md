@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000WFDGEK-es TRIXIE Schoko Drops Chocolate Vitaminados 350 g Perro'
 sku: 'B000WFDGEK-es'
-tags: [ 'chocolate', ]
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

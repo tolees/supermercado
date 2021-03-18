@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WNX47FZ-es Haribo Party Box - Surtido de golosinas 75 g'
 sku: 'B07WNX47FZ-es'
-tags: [ 'haribo', ]
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

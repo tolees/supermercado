@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ID4TU24-es Semillas Batlle - Semillas Hortícolas - Pimiento Guindilla...'
 sku: 'B00ID4TU24-es'
-tags: [ 'pimiento', ]
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

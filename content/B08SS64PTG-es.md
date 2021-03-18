@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SS64PTG-es L Oreal Paris Elvive Color Vive Violeta Pack Champú...'
 sku: 'B08SS64PTG-es'
-tags: [ 'champú', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

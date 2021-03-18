@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NFM5LXB-es NIVEA Pack Cuidado Corporal Neceser Regalo Mujer gel de...'
 sku: 'B08NFM5LXB-es'
-tags: [ 'nivea','gel','de','ducha', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

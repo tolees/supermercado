@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WVD2JCT-es Marca Amazon - Happy Belly Select Cápsulas compatibles con...'
 sku: 'B07WVD2JCT-es'
-tags: [ 'happy','belly', ]
 actualPrice: 16.23 EUR
 currency: EUR
 price: 16.23

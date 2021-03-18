@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VCDPBST-es Marca Amazon - Solimo Maquinilla de afeitar de cinco hojas...'
 sku: 'B07VCDPBST-es'
-tags: [ 'solimo', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

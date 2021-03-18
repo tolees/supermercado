@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WW22YNN-es Adonis Low Sugar - Barritas de Pacanas Crujiente Sabor de...'
 sku: 'B06WW22YNN-es'
-tags: [ 'gluten','sin', ]
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

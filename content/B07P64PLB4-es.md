@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P64PLB4-es Quemagrasas Abdominal Potente para Adelgazar Rápido y...'
 sku: 'B07P64PLB4-es'
-tags: [ 'café', ]
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

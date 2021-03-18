@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002IJM4DW-es Vileda Park & Go - Funda de planchar con zona parking...'
 sku: 'B002IJM4DW-es'
-tags: [ 'vileda', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

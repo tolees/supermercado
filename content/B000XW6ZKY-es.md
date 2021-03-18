@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000XW6ZKY-es WMF Boston – Cucharillas de café 6 Piezas'
 sku: 'B000XW6ZKY-es'
-tags: [ 'café', ]
 actualPrice: 34.27 EUR
 currency: EUR
 price: 34.27

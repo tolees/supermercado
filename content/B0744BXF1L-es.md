@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0744BXF1L-es Axe Dark Temptation Desodorante Vaporizador - 150 ml'
 sku: 'B0744BXF1L-es'
-tags: [ 'axe','desodorante', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FF8FI1S-es DYC 8 Años Whisky Nacional 40% - 700 ml'
 sku: 'B00FF8FI1S-es'
-tags: [ 'whisky', ]
 actualPrice: 10.85 EUR
 currency: EUR
 price: 10.85

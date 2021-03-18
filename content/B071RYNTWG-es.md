@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071RYNTWG-es Gourmet Purina - Purina Gourmet Gold Bocaditos en Salsa...'
 sku: 'B071RYNTWG-es'
-tags: [ 'purina', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

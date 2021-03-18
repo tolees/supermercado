@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IUXT02M-es Valor Chocolate Negro Con Almendras - 250 gr'
 sku: 'B01IUXT02M-es'
-tags: [ 'chocolate', ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

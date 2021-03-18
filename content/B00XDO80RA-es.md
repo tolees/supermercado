@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XDO80RA-es Berberana T&T VTC Vino tinto - 750 ml'
 sku: 'B00XDO80RA-es'
-tags: [ 'vino','tinto', ]
 actualPrice: 2.27 EUR
 currency: EUR
 price: 2.27

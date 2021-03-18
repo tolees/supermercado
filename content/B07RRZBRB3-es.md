@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RRZBRB3-es Oral-B Genius X 20000 Luxe Edition Cepillo de dientes...'
 sku: 'B07RRZBRB3-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

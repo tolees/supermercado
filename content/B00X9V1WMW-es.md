@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X9V1WMW-es Somat Lavavajillas Limpia Máquinas - 250 ml'
 sku: 'B00X9V1WMW-es'
-tags: [ 'somat', ]
 actualPrice: 1.96 EUR
 currency: EUR
 price: 1.96

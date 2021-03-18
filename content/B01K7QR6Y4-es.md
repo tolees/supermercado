@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QR6Y4-es Gullón Digestive Avena Galleta Integral con Avena Trigo y...'
 sku: 'B01K7QR6Y4-es'
-tags: [ 'chocolate','gullón','trigo', ]
 actualPrice: 1.15 EUR
 currency: EUR
 price: 1.15

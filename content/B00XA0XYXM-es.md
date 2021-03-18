@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA0XYXM-es Príncipe Mini - Galletas Rellenas de Chocolate con Leche...'
 sku: 'B00XA0XYXM-es'
-tags: [ 'chocolate', ]
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

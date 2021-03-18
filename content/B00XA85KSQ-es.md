@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XA85KSQ-es Puleva Omega 3 Leche con Omega 3 y Nueces 1L'
 sku: 'B00XA85KSQ-es'
-tags: [ 'puleva', ]
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

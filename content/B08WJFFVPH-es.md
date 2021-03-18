@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08WJFFVPH-es Valeli Chocolates Bombones Lindt Lindor y chocolatinas....'
 sku: 'B08WJFFVPH-es'
-tags: [ 'Alimentación y bebidas','Cestas regalo y regalos gourmet','lindt','valeli', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JBMAZFS-es Scitec Nutrition 100% Whey Protein Professional Chocolate...'
 sku: 'B00JBMAZFS-es'
-tags: [ 'chocolate', ]
 actualPrice: 42.89 EUR
 currency: EUR
 price: 42.89

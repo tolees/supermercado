@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SNM5US4-es OLAPLEX Hair Perfector Nº3 - Cuidado capilar 100 ml'
 sku: 'B00SNM5US4-es'
-tags: [ 'cuidado','capilar', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

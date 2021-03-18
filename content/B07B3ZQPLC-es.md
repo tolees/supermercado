@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B3ZQPLC-es Pato - WC Power Lejía fragancia Marine Limpiador...'
 sku: 'B07B3ZQPLC-es'
-tags: [ 'lejía', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

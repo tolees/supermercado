@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HVYPQGZ-es Florence - Grande 100ml. Bio Crema Hidratante facial con...'
 sku: 'B07HVYPQGZ-es'
-tags: [ 'crema','hidratante', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

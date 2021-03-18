@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001P4YYI4-es MONKEY SHOULDER Blended Whisky 70cl Bottle'
 sku: 'B001P4YYI4-es'
-tags: [ 'whisky', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

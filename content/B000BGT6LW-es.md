@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000BGT6LW-es Barrio Sésamo - Peluche de Epi 28 cm [Versión en inglés]'
 sku: 'B000BGT6LW-es'
-tags: [ 'sésamo', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

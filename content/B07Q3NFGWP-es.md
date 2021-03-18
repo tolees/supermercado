@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q3NFGWP-es Axe Collision Bodyspray Desodorante Leather & Cookies para...'
 sku: 'B07Q3NFGWP-es'
-tags: [ 'axe','desodorante', ]
 actualPrice: 17.2 EUR
 currency: EUR
 price: 17.2

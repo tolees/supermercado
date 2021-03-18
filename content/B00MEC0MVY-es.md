@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MEC0MVY-es Amor en conserva [Blu-ray]'
 sku: 'B00MEC0MVY-es'
-tags: [ 'conserva', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

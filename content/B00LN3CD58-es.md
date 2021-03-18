@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LN3CD58-es Gallo Spaghetti No.3 500g'
 sku: 'B00LN3CD58-es'
-tags: [ 'gallo','spaghetti', ]
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

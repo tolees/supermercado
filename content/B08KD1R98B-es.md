@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KD1R98B-es OLIS BARGALLO - Aceite de Oliva Virgen Extra Ecológico...'
 sku: 'B08KD1R98B-es'
-tags: [ 'aceite','de','oliva','virgen','extra', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

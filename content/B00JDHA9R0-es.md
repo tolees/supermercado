@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JDHA9R0-es AXE PEACE AFTER SHAVE 100ML'
 sku: 'B00JDHA9R0-es'
-tags: [ 'axe', ]
 actualPrice: 4.24 EUR
 currency: EUR
 price: 4.24

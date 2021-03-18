@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CD5BZ5S-es Ultimate - Juego de 40 bolsas de basura con cordón 50...'
 sku: 'B01CD5BZ5S-es'
-tags: [ 'basura','bolsas','de', ]
 actualPrice: None None
 currency: None
 price: None

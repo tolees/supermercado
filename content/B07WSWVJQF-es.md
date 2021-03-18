@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WSWVJQF-es HARIBO Ositos De Oro Azúcar 1 X G'
 sku: 'B07WSWVJQF-es'
-tags: [ 'azúcar','haribo', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

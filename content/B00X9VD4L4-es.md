@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9VD4L4-es Palette Intense - Tono 7.5 Rubio Dorado Caramelo -...'
 sku: 'B00X9VD4L4-es'
-tags: [ 'schwarzkopf', ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

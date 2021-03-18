@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IVIHG8Q-es Fairy Ultra Original Líquido Lavavajillas Verde Con...'
 sku: 'B01IVIHG8Q-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Artículos para gatos','Batidoras espumadoras de leche automáticas','Baño','Baño e higiene personal','Bebidas vegetales','Belleza','Bollería','Cacao soluble','Café, té y bebidas','Cervezas','Cervezas, vinos y licores','Cestas regalo y regalos gourmet','Chocolate caliente y bebidas malteadas','Chocolates','Comida húmeda para gatos','Comida para gatos','Conservas','Conservas de pescado y marisco','Cuidado bucal','Cuidado bucal infantil','Cuidado de la salud','Cuidado y limpieza del hogar','Cápsulas y pastillas de detergente para textiles','Detergente líquido para textiles','Dulces, chocolates y chicles','Espumadores de leche','Hogar y cocina','Lavavajillas','Limpieza personal','Lácteos y huevos','Maquillaje','Maquillaje facial','Mocasines para hombre','Panadería y bollería','Paquetes y cajas de chocolate','Pastas de dientes infantiles','Pastillas de jabón y jabón líquido para manos','Portacepillos de dientes','Prebases','Productos para la lavandería','Productos para mascotas','Quitamanchas para textiles','Salud y cuidado personal','Soportes y dispensadores para baño','Utensilios para café y té','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','Zapatos','Zapatos para hombre','Zapatos y complementos','fairy', ]
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

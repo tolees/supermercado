@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086KF1RJ8-es Ariel Pods Allin1 Detergente en Cápsulas para Lavadora...'
 sku: 'B086KF1RJ8-es'
-tags: [ 'detergente', ]
 actualPrice: 29.94 EUR
 currency: EUR
 price: 29.94

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QMSX9BY-es Pernigotti - Crema de Cacao y Avellanas 350 g'
 sku: 'B07QMSX9BY-es'
-tags: [ 'pernigotti', ]
 actualPrice: 3.01 EUR
 currency: EUR
 price: 3.01

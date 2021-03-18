@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DS2WBVM-es NIVEA SUN Protege & Hidrata Leche Solar FP50+ 1 x 400 ml...'
 sku: 'B01DS2WBVM-es'
-tags: [ 'nivea', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XIJ8O0S-es Artiach Filipinos con Chocolate Negro 75 gr'
 sku: 'B00XIJ8O0S-es'
-tags: [ 'chocolate', ]
 actualPrice: 0.75 EUR
 currency: EUR
 price: 0.75

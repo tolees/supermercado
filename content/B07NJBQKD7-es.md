@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NJBQKD7-es LAPASION - Lazos hojaldre rayado con chocolate | 2.5 Kg'
 sku: 'B07NJBQKD7-es'
-tags: [ 'chocolate', ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

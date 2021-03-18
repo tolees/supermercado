@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ITDWVC4-es Hero Baby Manzana y Pera 120g'
 sku: 'B01ITDWVC4-es'
-tags: [ 'manzana','pera','hero','baby', ]
 actualPrice: 0.89 EUR
 currency: EUR
 price: 0.89

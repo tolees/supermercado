@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0151MMOHS-es EUGENE ESSENTIEL VOLUM-TEXTURIST CHAMPÚ 1000 ml'
 sku: 'B0151MMOHS-es'
-tags: [ 'champú', ]
 actualPrice: 18.42 EUR
 currency: EUR
 price: 18.42

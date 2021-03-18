@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KHR4LVK-es Tierra De Jamón Estuche Gourmet 1800 g'
 sku: 'B08KHR4LVK-es'
-tags: [ 'jamón','tierra de jamón', ]
 actualPrice: 18.96 EUR
 currency: EUR
 price: 18.96

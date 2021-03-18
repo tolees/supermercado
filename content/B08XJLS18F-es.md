@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08XJLS18F-es Hoya Santoña - Hoya Mejillones Gigantes en Escabeche -...'
 sku: 'B08XJLS18F-es'
-tags: [ 'Accesorios de baño','Accesorios de coloración','Alimentación y bebidas','Artículos para gatos','Barritas de chocolate','Barritas grandes de chocolate','Baño','Belleza','Cepillos de dientes eléctricos','Cepillos de dientes eléctricos sónicos','Cepillos de dientes eléctricos y accesorios','Cepillos de dientes y accesorios','Cervezas','Cervezas, vinos y licores','Chocolates','Coloración del cabello','Comida húmeda para gatos','Comida para gatos','Conservas','Conservas de pescado y marisco','Cremas diurnas faciales','Cuidado bucal','Cuidado del cabello','Cuidado diurno facial','Decoración del hogar','Dispensadores de loción y de jabón','Dulces, chocolates y chicles','Geles y espumas para limpieza facial','Hidratantes faciales','Hogar y cocina','Limpiadores faciales','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Productos para mascotas','Salud y cuidado personal','Soportes y dispensadores para baño','Velas','Velas en frasco','Velas y candelabros','Vinos','Vinos blancos','conserva','escabeche','hoya santoña','mejillones', ]
 actualPrice: 32.75 EUR
 currency: EUR
 price: 32.75

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RC6V9V9-es Damilo - 3 cajas de conservación apilables en color...'
 sku: 'B08RC6V9V9-es'
-tags: [ 'queso', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

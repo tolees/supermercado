@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P86LL5P-es CONDE DE BENALUA - Aceite de Oliva Virgen Extra Conde de...'
 sku: 'B07P86LL5P-es'
-tags: [ 'aceite','de','oliva','virgen','extra', ]
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

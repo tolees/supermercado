@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TTX2F7U-es Fontactiv Forte Chocolate - 14 Sobres de 30gr'
 sku: 'B00TTX2F7U-es'
-tags: [ 'chocolate', ]
 actualPrice: 10.92 EUR
 currency: EUR
 price: 10.92

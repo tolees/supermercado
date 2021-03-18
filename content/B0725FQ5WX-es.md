@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0725FQ5WX-es Oral-B Precision Clean - Juego de 8 cabezales de recambio...'
 sku: 'B0725FQ5WX-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 26.21 EUR
 currency: EUR
 price: 26.21

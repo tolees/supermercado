@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RB7G84Q-es Lactovit - Mousse Crème Hidratante Lactourea para Cuerpo y...'
 sku: 'B07RB7G84Q-es'
-tags: [ 'lactovit', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

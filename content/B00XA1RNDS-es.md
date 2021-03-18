@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA1RNDS-es Café FORTALEZA - Café en Grano Mezcla 70/30 - 1 kg'
 sku: 'B00XA1RNDS-es'
-tags: [ 'café','fortaleza', ]
 actualPrice: 10.25 EUR
 currency: EUR
 price: 10.25

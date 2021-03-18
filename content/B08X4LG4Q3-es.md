@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08X4LG4Q3-es Raguso Colador de café Filtro de café Recargable Material...'
 sku: 'B08X4LG4Q3-es'
-tags: [ 'café', ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BBZW65W-es Finish Powerball All in 1 Max - Pastillas para el...'
 sku: 'B07BBZW65W-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Batidoras espumadoras de leche automáticas','Baño','Baño e higiene personal','Belleza','Bollería','Cuidado de la salud','Cuidado y limpieza del hogar','Espumadores de leche','Hogar y cocina','Lavavajillas','Limpieza personal','Panadería y bollería','Pastillas de jabón y jabón líquido para manos','Portacepillos de dientes','Productos para la lavandería','Quitamanchas para textiles','Salud y cuidado personal','Soportes y dispensadores para baño','Utensilios para café y té','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','finish', ]
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

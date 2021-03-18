@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RRCVNQK-es Trebol Verde Detergente Concentrado Sport 30 Lavados 1500 ml'
 sku: 'B07RRCVNQK-es'
-tags: [ 'detergente', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

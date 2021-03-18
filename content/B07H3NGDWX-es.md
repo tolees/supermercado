@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3NGDWX-es Ariel Detergente Líquido para Lavadora Frescor Los Alpes...'
 sku: 'B07H3NGDWX-es'
-tags: [ 'Afeitado y depilación','Alimentación y bebidas','Bebidas espirituosas y licores','Belleza','Cervezas, vinos y licores','Cestas regalo y regalos gourmet','Cremas para manos y uñas','Cuidado y limpieza del hogar','Cuidados pre-depilación y afeitado','Decoración del hogar','Delineadores de ojos','Detergente líquido para textiles','Espumas en Cuidados pre-depilación y afeitado','Hogar y cocina','Manicura y pedicura','Maquillaje','Maquillaje para ojos','Papel higiénico','Productos para el cuidado de la piel','Productos para el cuidado de las manos y de los pies','Productos para la lavandería','Rollos de cocina, papel higiénico y pañuelos de papel','Ropa','Salud y cuidado personal','Sets y juegos para el cuidado de la piel','Suavizante líquido','Velas','Velas en frasco','Velas y candelabros','Whisky','ariel','detergente', ]
 actualPrice: 13.4 EUR
 currency: EUR
 price: 13.4

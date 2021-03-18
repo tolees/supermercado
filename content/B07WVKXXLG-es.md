@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WVKXXLG-es Marca Amazon - Solimo RightFit5 12 recambios - compatible...'
 sku: 'B07WVKXXLG-es'
-tags: [ 'solimo', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

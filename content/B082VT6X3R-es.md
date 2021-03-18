@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VT6X3R-es Tirma Ambrosías con Relleno Cubiertas de Chocolate con...'
 sku: 'B082VT6X3R-es'
-tags: [ 'chocolate', ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

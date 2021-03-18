@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084HQV1N9-es SUPLEMENTO PARA MANTENER LA SALUD DEL TRACTO URINARIO-...'
 sku: 'B084HQV1N9-es'
-tags: [ 'gluten','sin', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

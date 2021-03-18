@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076MFQ73W-es Comida para gatos animonda Vom Feinsten Adult comida...'
 sku: 'B076MFQ73W-es'
-tags: [ 'Artículos para gatos','Comida húmeda para gatos','Comida para gatos','Productos para mascotas','animonda vom feinsten','atún','claro', ]
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

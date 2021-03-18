@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B1RNT8S-es MFEI - Báscula de cocina digital Báscula de alimentos en...'
 sku: 'B08B1RNT8S-es'
-tags: [ 'café', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

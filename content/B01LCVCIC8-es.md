@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LCVCIC8-es Germanor Arbequina Aceite de Oliva Virgen Extra - 5 l'
 sku: 'B01LCVCIC8-es'
-tags: [ 'aceite','arbequina','de','extra','oliva','virgen', ]
 actualPrice: None None
 currency: None
 price: None

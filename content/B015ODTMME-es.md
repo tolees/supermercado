@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015ODTMME-es Vileda Virobi Slim - Mopa robot con sistema de...'
 sku: 'B015ODTMME-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','vileda', ]
 actualPrice: 41.38 EUR
 currency: EUR
 price: 41.38

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XVKWQJE-es Renova Servilletas De Papel Amarillas - 70 Servilletas'
 sku: 'B00XVKWQJE-es'
-tags: [ 'renova','servilletas', ]
 actualPrice: 0.79 EUR
 currency: EUR
 price: 0.79

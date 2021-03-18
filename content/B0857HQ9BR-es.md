@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0857HQ9BR-es Nakd Berry Delight - Barritas de Fruta y Frutos Secos con...'
 sku: 'B0857HQ9BR-es'
-tags: [ 'azúcar','frutos','secos','sin','gluten', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

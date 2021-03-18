@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JE0ZCIC-es HeroNeo - Juego de plantillas para decoración de café 16...'
 sku: 'B00JE0ZCIC-es'
-tags: [ 'café', ]
 actualPrice: 0.94 EUR
 currency: EUR
 price: 0.94

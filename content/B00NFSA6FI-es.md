@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NFSA6FI-es Scotch-Brite - Scotch Brite Salvauñas Verde Duplo - 2...'
 sku: 'B00NFSA6FI-es'
-tags: [ 'salvauñas','scotch','brite','scotch-brite', ]
 actualPrice: 1.16 EUR
 currency: EUR
 price: 1.16

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SHHIHAS-es The Green Pharmacy - GREEN PHARMACY CHAMPU FOR OILY SCALP...'
 sku: 'B00SHHIHAS-es'
-tags: [ 'champu', ]
 actualPrice: 1.94 EUR
 currency: EUR
 price: 1.94

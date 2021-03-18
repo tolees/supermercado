@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9TVHI8-es Garnier Olia coloración permanente sin amoniaco para un...'
 sku: 'B00X9TVHI8-es'
-tags: [ 'garnier', ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

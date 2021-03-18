@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1UO2SB-es Knorr Sopa China de Sichuan - 69 g'
 sku: 'B01N1UO2SB-es'
-tags: [ 'knorr', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

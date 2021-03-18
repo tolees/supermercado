@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007H5BB2W-es Ibili Bolsa para legumbres nailon 37 x 5 cm'
 sku: 'B007H5BB2W-es'
-tags: [ 'legumbres', ]
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MY3WN6A-es Cheetos - Gustosines Sal -Producto de aperitivo de maíz...'
 sku: 'B00MY3WN6A-es'
-tags: [ 'cheetos','maíz', ]
 actualPrice: 0.9 EUR
 currency: EUR
 price: 0.9

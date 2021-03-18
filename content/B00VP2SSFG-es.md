@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VP2SSFG-es Maybelline New York Máscara de Pestañas Volumen Waterproof...'
 sku: 'B00VP2SSFG-es'
-tags: [ 'maybelline','maybelline new york', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

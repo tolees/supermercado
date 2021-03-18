@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07252WRVG-es NIVEA Fresh Natural en pack de 6 6 x 150 ml desodorante de...'
 sku: 'B07252WRVG-es'
-tags: [ 'desodorante','nivea', ]
 actualPrice: 12.18 EUR
 currency: EUR
 price: 12.18

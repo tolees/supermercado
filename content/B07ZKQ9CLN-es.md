@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKQ9CLN-es Herbal Essences Daily Detox Brillo Con Té Blanco Y Menta...'
 sku: 'B07ZKQ9CLN-es'
-tags: [ 'champú', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

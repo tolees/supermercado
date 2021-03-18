@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FY6YXF7-es L Oréal Paris Make-up designer Camila Cabello Pintalabios...'
 sku: 'B07FY6YXF7-es'
-tags: [ 'oréal', ]
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38

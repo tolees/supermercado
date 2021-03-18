@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HW89N5W-es Gullón Galletas Sin Gluten Mini Dibus Sharkies 250G -...'
 sku: 'B08HW89N5W-es'
-tags: [ 'gullón','sin','gluten', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

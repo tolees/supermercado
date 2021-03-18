@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HZTDO1G-es Bionsan - Trigo Sarraceno 500 g'
 sku: 'B00HZTDO1G-es'
-tags: [ 'trigo', ]
 actualPrice: 3.77 EUR
 currency: EUR
 price: 3.77

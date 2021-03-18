@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PQJ94LC-es Tammy Yerke - 8 Unids/set Parches de Silicona Antiarrugas...'
 sku: 'B08PQJ94LC-es'
-tags: [ 'suavizante', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

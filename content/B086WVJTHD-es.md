@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086WVJTHD-es Pecute Empapadores Perros 2 PCS Almohadillas de...'
 sku: 'B086WVJTHD-es'
-tags: [ 'empapadores', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

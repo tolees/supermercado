@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088WT8PZ4-es Wilbest® 4 Pcs Velas Perfumadas Velas Aromaticas Velas de...'
 sku: 'B088WT8PZ4-es'
-tags: [ 'soja', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

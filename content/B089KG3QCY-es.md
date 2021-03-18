@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089KG3QCY-es Sanytol - Jabón de Manos Nutritivo con Protección Total...'
 sku: 'B089KG3QCY-es'
-tags: [ 'jabón','sanytol', ]
 actualPrice: 2.35 EUR
 currency: EUR
 price: 2.35

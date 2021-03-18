@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072P25SLS-es Vileda Mixer 3 - Tendedero vertical de torre de acero 30...'
 sku: 'B072P25SLS-es'
-tags: [ 'vileda', ]
 actualPrice: 26.26 EUR
 currency: EUR
 price: 26.26

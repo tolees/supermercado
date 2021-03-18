@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C79Y6JJ-es Marca Amazon - Solimo Cápsulas Espresso compatibles con...'
 sku: 'B07C79Y6JJ-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','solimo', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

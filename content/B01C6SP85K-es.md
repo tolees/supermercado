@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C6SP85K-es L Oréal Paris Polvo Bronceador Glam Bronze La Terra Medium...'
 sku: 'B01C6SP85K-es'
-tags: [ 'oréal', ]
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

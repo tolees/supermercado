@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZ26WLG-es Chupa Chups Party Mix Golosinas y Caramelos de Sabores...'
 sku: 'B07XZ26WLG-es'
-tags: [ 'chupa','chups', ]
 actualPrice: None None
 currency: None
 price: None

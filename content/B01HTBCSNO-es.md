@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HTBCSNO-es Puleva Max Leche de Crecimiento y Desarrollo con Cereales...'
 sku: 'B01HTBCSNO-es'
-tags: [ 'puleva', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T9SFFBV-es a cas albert - Casalbert. Aceite de oliva virgen extra...'
 sku: 'B08T9SFFBV-es'
-tags: [ 'aceite','de','oliva','virgen','extra', ]
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VQ58ZT-es Tresemmé Clásico Pack Champú y Acondicionador'
 sku: 'B082VQ58ZT-es'
-tags: [ 'acondicionador','champú','tresemmé', ]
 actualPrice: 4.94 EUR
 currency: EUR
 price: 4.94

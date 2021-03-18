@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YXF137V-es Bulk Gourmet Emporium - Surtido de pistachos tostados...'
 sku: 'B07YXF137V-es'
-tags: [ 'chocolate', ]
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

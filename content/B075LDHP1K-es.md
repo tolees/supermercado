@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075LDHP1K-es Buratti Confetti Tenerezze Almendras Extra Oscuras...'
 sku: 'B075LDHP1K-es'
-tags: [ 'chocolate', ]
 actualPrice: 11.22 EUR
 currency: EUR
 price: 11.22

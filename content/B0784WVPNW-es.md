@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0784WVPNW-es Dulcesol Macarons Frambuesa - 4 uds - 80 g'
 sku: 'B0784WVPNW-es'
-tags: [ 'dulcesol', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

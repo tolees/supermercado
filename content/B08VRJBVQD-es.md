@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VRJBVQD-es FETEAM - Regalos de tazas de café para la esposa. To My...'
 sku: 'B08VRJBVQD-es'
-tags: [ 'café', ]
 actualPrice: 14.85 EUR
 currency: EUR
 price: 14.85

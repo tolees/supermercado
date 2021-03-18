@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088PKDQMF-es Santal Bebida Vegetal de Almendra sin Azúcar - pack 6 x...'
 sku: 'B088PKDQMF-es'
-tags: [ 'azúcar', ]
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

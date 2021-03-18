@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086MRJ51K-es AKIMO - Plancha de pelo profesional 2 en 1 para hombres -...'
 sku: 'B086MRJ51K-es'
-tags: [ 'suavizante', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

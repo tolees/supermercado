@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XSSLW4C-es Neutrogena Visibly Renew Loción Corporal Elasticidad...'
 sku: 'B06XSSLW4C-es'
-tags: [ 'neutrogena', ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

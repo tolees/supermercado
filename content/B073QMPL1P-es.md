@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073QMPL1P-es #Cervezanía - Pack completo para elaborar cerveza en casa...'
 sku: 'B073QMPL1P-es'
-tags: [ 'cerveza', ]
 actualPrice: 56.9 EUR
 currency: EUR
 price: 56.9

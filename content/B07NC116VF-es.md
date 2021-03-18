@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC116VF-es AXE Marine - Desodorante Bodyspray para hombre 48 horas de...'
 sku: 'B07NC116VF-es'
-tags: [ 'axe','desodorante', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

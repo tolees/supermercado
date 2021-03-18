@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01I2ZBLZC-es Eco-Salim - COPOS QUINOA ECO'
 sku: 'B01I2ZBLZC-es'
-tags: [ 'quinoa', ]
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

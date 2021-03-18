@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y5JY2Q7-es Der-Franz - Café mezcla de Arábica y Robusta asado...'
 sku: 'B07Y5JY2Q7-es'
-tags: [ 'café','frijoles','chocolate', ]
 actualPrice: 13.46 EUR
 currency: EUR
 price: 13.46

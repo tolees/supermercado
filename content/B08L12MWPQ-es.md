@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L12MWPQ-es Mroobest - Calentador de Café Calentador de Bebidas...'
 sku: 'B08L12MWPQ-es'
-tags: [ 'café', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

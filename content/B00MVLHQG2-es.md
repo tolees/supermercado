@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MVLHQG2-es L Oreal Paris Make-up Designer - L Oréal Color Riche...'
 sku: 'B00MVLHQG2-es'
-tags: [ 'oréal', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

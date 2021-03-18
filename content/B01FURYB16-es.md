@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FURYB16-es Instituto Español Avena Crema Hidratante Corporal - 50 ML'
 sku: 'B01FURYB16-es'
-tags: [ 'crema','hidratante','instituto','español', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

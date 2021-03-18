@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QFP2V2R-es ADVANCE Sensitive Mini - Pienso para Perros de Razas...'
 sku: 'B08QFP2V2R-es'
-tags: [ 'arroz', ]
 actualPrice: 21.55 EUR
 currency: EUR
 price: 21.55

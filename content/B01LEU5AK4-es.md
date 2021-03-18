@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LEU5AK4-es Egan PWM02I/6XY - Juego de 6 tazas de café inpilables In...'
 sku: 'B01LEU5AK4-es'
-tags: [ 'café', ]
 actualPrice: 28.16 EUR
 currency: EUR
 price: 28.16

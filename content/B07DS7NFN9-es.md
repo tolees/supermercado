@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DS7NFN9-es LA CORBERANA 117050 Detergente Ropa Supernet Profesional 5...'
 sku: 'B07DS7NFN9-es'
-tags: [ 'detergente', ]
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

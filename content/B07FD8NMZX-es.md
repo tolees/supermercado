@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FD8NMZX-es Skip Ultimate Triple Poder Pieles Sensibles Detergente...'
 sku: 'B07FD8NMZX-es'
-tags: [ 'detergente', ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

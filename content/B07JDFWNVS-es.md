@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JDFWNVS-es TruuMe - Cabello Champú Anti Caída del Cabello Champu...'
 sku: 'B07JDFWNVS-es'
-tags: [ 'champu','champú', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

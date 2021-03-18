@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000O30SBO-es Ufesa Molinillo de Café MC0470 cuchilla y recipiente en Inox'
 sku: 'B000O30SBO-es'
-tags: [ 'café', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

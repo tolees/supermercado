@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079HBZLFG-es Philips Sonicare ProtectiveClean HX6856/17 - Cepillo de...'
 sku: 'B079HBZLFG-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 92.99 EUR
 currency: EUR
 price: 92.99

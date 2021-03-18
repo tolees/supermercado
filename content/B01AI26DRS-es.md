@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AI26DRS-es NIVEA Creme Care Jabón en pastilla en pack de 3 3 x 100 g...'
 sku: 'B01AI26DRS-es'
-tags: [ 'jabón','nivea', ]
 actualPrice: 2.35 EUR
 currency: EUR
 price: 2.35

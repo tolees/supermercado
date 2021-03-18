@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QYFG6M7-es N\O - Jabones de Papel Desechables 3 Cajas 150 Hojas Mini...'
 sku: 'B08QYFG6M7-es'
-tags: [ 'jabón', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

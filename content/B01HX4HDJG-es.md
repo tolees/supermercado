@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HX4HDJG-es OREWORK 386770 Molino Maíz eléctrico'
 sku: 'B01HX4HDJG-es'
-tags: [ 'maíz', ]
 actualPrice: 141.93 EUR
 currency: EUR
 price: 141.93

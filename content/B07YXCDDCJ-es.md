@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YXCDDCJ-es Alpi Nature - Canela de Ceilán en polvo 250g 100% natural...'
 sku: 'B07YXCDDCJ-es'
-tags: [ 'canela', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

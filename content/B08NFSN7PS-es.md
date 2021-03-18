@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NFSN7PS-es Lázaro Pack Surtido De Hojaldres 1150G 300G Palmeras Bollo...'
 sku: 'B08NFSN7PS-es'
-tags: [ 'chocolate', ]
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

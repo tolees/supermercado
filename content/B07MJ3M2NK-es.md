@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MJ3M2NK-es Tirma Ambrosía Zero 70% Cacao Sin Azúcares Añadidos...'
 sku: 'B07MJ3M2NK-es'
-tags: [ 'chocolate', ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

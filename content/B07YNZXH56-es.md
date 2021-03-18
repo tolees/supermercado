@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YNZXH56-es Adidas Active Start Gel de ducha para Hombre 400 ml'
 sku: 'B07YNZXH56-es'
-tags: [ 'gel','de','ducha', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FURXUWM-es FOXY Cream pañuelos con crema hidratante paquete 10 uds'
 sku: 'B01FURXUWM-es'
-tags: [ 'foxy','crema','hidratante', ]
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

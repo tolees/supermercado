@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HD6C4LL-es EDOTON Invierno Gorro de Punto con Bufanda Calentar...'
 sku: 'B07HD6C4LL-es'
-tags: [ 'café', ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

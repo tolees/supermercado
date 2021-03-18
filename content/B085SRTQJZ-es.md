@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085SRTQJZ-es Sanytol Limpiahogar - Limpiador Desinfectante Elimina...'
 sku: 'B085SRTQJZ-es'
-tags: [ 'lejía','sanytol', ]
 actualPrice: 14.46 EUR
 currency: EUR
 price: 14.46

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0894MF6MX-es Vitamina D3 10.000 UI + K2 MK7 Alta Dosis | Contribuye al...'
 sku: 'B0894MF6MX-es'
-tags: [ 'aceite','de','oliva','virgen','extra', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

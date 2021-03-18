@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJDMHBD-es Albo - Bonito del Norte en aceite de oliva - [Pack de 6 und.]'
 sku: 'B08VJDMHBD-es'
-tags: [ 'aceite','de','oliva', ]
 actualPrice: 21.8 EUR
 currency: EUR
 price: 21.8

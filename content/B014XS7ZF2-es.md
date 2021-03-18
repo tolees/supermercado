@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014XS7ZF2-es Vino Tinto Casa Ferreirinha Vinha Grande D.O.Douro - 750 ml'
 sku: 'B014XS7ZF2-es'
-tags: [ 'vino','tinto', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

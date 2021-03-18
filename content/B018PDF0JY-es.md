@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018PDF0JY-es Olay Regenerist 3 Punto Antienvejecimiento Noche Crema...'
 sku: 'B018PDF0JY-es'
-tags: [ 'crema','hidratante', ]
 actualPrice: 28.5 EUR
 currency: EUR
 price: 28.5

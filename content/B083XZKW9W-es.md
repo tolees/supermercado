@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083XZKW9W-es TESECU Dispensador de Jabón Automático Dispensador de...'
 sku: 'B083XZKW9W-es'
-tags: [ 'jabón', ]
 actualPrice: None None
 currency: None
 price: None

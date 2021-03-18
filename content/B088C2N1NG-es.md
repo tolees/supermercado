@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088C2N1NG-es FReatech Cepillo Pelo de Silicona para Champú y Masaje...'
 sku: 'B088C2N1NG-es'
-tags: [ 'champú', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

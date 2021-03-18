@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ND1MFTC-es Pato Active Clean 1+1 - Colgador wc frescor intenso...'
 sku: 'B07ND1MFTC-es'
-tags: [ 'pato','active', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAC2JSQ-es Colgate Total Original 75 ml'
 sku: 'B00XAC2JSQ-es'
-tags: [ 'colgate', ]
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

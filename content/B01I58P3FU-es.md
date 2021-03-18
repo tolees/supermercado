@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01I58P3FU-es OOTB- Palmera Inflable Estilo Tropical Color Verde y café...'
 sku: 'B01I58P3FU-es'
-tags: [ 'café', ]
 actualPrice: 14.3 EUR
 currency: EUR
 price: 14.3

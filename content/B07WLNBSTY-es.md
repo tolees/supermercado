@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLNBSTY-es Pasta Konjac Fettucine sin gluten - pasta hipocalórica -...'
 sku: 'B07WLNBSTY-es'
-tags: [ 'Alimentación y bebidas','Pastas','Pastas cortas','Pastas y fideos','gluten','sin','slendier', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

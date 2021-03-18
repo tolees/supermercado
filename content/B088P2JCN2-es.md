@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088P2JCN2-es Casa Ortega - Almejas al natural gigantes de las Rías...'
 sku: 'B088P2JCN2-es'
-tags: [ 'conservas', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

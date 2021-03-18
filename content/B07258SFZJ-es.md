@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07258SFZJ-es VIAGGIO ESPRESSO - 60 Cápsulas de Café Compatibles con...'
 sku: 'B07258SFZJ-es'
-tags: [ 'café','cápsulas','de','café', ]
 actualPrice: 17.7 EUR
 currency: EUR
 price: 17.7

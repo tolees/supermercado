@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0881PSK4G-es Fafeicy Martillo geológico de pico de pato de doble cabeza...'
 sku: 'B0881PSK4G-es'
-tags: [ 'de','pato', ]
 actualPrice: 27.89 EUR
 currency: EUR
 price: 27.89

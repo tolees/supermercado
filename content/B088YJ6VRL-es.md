@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088YJ6VRL-es Espumador Eléctrico de Mano Winzwon Batidor Eléctrico 2 en...'
 sku: 'B088YJ6VRL-es'
-tags: [ 'café', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

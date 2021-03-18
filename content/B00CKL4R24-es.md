@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CKL4R24-es The Glenlivet 12 años Whisky Escocés de Malta Premium -...'
 sku: 'B00CKL4R24-es'
-tags: [ 'whisky', ]
 actualPrice: 28.85 EUR
 currency: EUR
 price: 28.85

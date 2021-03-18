@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008HP9F7Y-es Jameson Black Barrel Whisky Irlandés - 700 ml'
 sku: 'B008HP9F7Y-es'
-tags: [ 'whisky', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

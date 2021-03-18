@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P7Q64DM-es Un Air d Antan - Un Air d’Antan® Caja Regalo Mujer 4...'
 sku: 'B07P7Q64DM-es'
-tags: [ 'jabon', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

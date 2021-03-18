@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HNML23T-es Cúrcuma orgánica Turmeric 650mg con Jengibre 50mg y...'
 sku: 'B07HNML23T-es'
-tags: [ 'cúrcuma','jengibre','nutralie', ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

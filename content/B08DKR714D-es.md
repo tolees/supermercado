@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKR714D-es Sanytol - Eco Recarga de Jabón de Manos de Cocina con...'
 sku: 'B08DKR714D-es'
-tags: [ 'jabón','sanytol', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

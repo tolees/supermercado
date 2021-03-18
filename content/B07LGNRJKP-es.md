@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LGNRJKP-es Ariel Detergente Líquido para Lavadora Poder Quitamanchas...'
 sku: 'B07LGNRJKP-es'
-tags: [ 'detergente', ]
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EHSNR3C-es Cumlaude Gineseda - Complemento Alimenticio para Aliviar...'
 sku: 'B01EHSNR3C-es'
-tags: [ 'soja', ]
 actualPrice: 12.13 EUR
 currency: EUR
 price: 12.13

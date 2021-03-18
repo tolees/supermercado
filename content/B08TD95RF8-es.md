@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TD95RF8-es Nescafé DOLCE GUSTO Café ALMENDRA LATTE - Pack De 3 x 12...'
 sku: 'B08TD95RF8-es'
-tags: [ 'café','nescafé','dolce','gusto', ]
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

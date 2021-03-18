@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SPXJT4W-es DORIMED - Pastas de frutas de 1 Kg sabores de frutas rojas...'
 sku: 'B08SPXJT4W-es'
-tags: [ 'sin','gluten', ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

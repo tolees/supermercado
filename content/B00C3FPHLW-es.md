@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00C3FPHLW-es Rives Ginebra Especial Negra - 700 ml'
 sku: 'B00C3FPHLW-es'
-tags: [ 'ginebra', ]
 actualPrice: 17.85 EUR
 currency: EUR
 price: 17.85

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QFT52-es Puleva Batido de Chocolate - 6 x 200 ml'
 sku: 'B01K7QFT52-es'
-tags: [ 'chocolate','puleva', ]
 actualPrice: None None
 currency: None
 price: None

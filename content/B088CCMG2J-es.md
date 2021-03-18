@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088CCMG2J-es Dove Desodorante Roll On Invisible 50ml- Pack de 6'
 sku: 'B088CCMG2J-es'
-tags: [ 'desodorante','dove', ]
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

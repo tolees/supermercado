@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DHO4TH6-es Bicentury - Tortitas De Maíz con sal 130 g'
 sku: 'B00DHO4TH6-es'
-tags: [ 'bicentury','maíz', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

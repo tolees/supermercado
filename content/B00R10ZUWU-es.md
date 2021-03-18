@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R10ZUWU-es Gillette Fusion ProGlide - Cuchillas de recambio para...'
 sku: 'B00R10ZUWU-es'
-tags: [ 'gillette', ]
 actualPrice: 24.09 EUR
 currency: EUR
 price: 24.09

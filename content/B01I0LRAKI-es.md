@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01I0LRAKI-es Solis Fast Dry 381 - Secador de pelo - 3 niveles de...'
 sku: 'B01I0LRAKI-es'
-tags: [ 'solis', ]
 actualPrice: 80.33 EUR
 currency: EUR
 price: 80.33

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004N0AOFE-es Wilkinson sword quattro bikini - Cuchilla de depilar para...'
 sku: 'B004N0AOFE-es'
-tags: [ 'sword','wilkinson', ]
 actualPrice: 7.17 EUR
 currency: EUR
 price: 7.17

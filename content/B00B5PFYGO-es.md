@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00B5PFYGO-es Schwarzkopf - Osis+ Polvo Matificador Tono de Piel Medio -...'
 sku: 'B00B5PFYGO-es'
-tags: [ 'schwarzkopf', ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

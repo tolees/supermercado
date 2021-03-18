@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JQEP060-es Revlon Super Lustrous Lipstick Pearl Ipanema Beach 210'
 sku: 'B00JQEP060-es'
-tags: [ 'revlon', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KYRUBT8-es CHOCOLATE ALMIZCLE PERFUME árabe Spray - 50ml Por Al Rehab'
 sku: 'B01KYRUBT8-es'
-tags: [ 'chocolate', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

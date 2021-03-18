@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDQKWZV-es Garnier Fructis Champú Anticaspa - 700 ml'
 sku: 'B06XDQKWZV-es'
-tags: [ 'champú','garnier', ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KPNGFJN-es OLALLA - Regalo Gourmet - Estuche Paleta de Jamon de...'
 sku: 'B08KPNGFJN-es'
-tags: [ 'cesta','de','navidad', ]
 actualPrice: 140.0 EUR
 currency: EUR
 price: 140.0

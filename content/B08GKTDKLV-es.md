@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GKTDKLV-es BesLife - Dispensador de pasta de dientes automático...'
 sku: 'B08GKTDKLV-es'
-tags: [ 'Accesorios de baño','Baño','Baño e higiene personal','Belleza','Cuidado de la salud','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Portacepillos de dientes','Salud y cuidado personal','Soportes y dispensadores para baño','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','beslife','cepillo','de','dientes','pasta', ]
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

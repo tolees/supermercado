@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQ4VZ33-es Brillante Arroz Redondo - Pack de 16 vasitos X 200 Gr -...'
 sku: 'B07CQ4VZ33-es'
-tags: [ 'arroz', ]
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F5LYFPD-es AOVE Carrasqueño - Caja 3 Garrafas 5 litros Carrasqueño...'
 sku: 'B07F5LYFPD-es'
-tags: [ 'aceite','aove carrasqueño','de','extra','oliva','virgen', ]
 actualPrice: 62.0 EUR
 currency: EUR
 price: 62.0

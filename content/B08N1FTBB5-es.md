@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08N1FTBB5-es EOS Nutrisolutions - EOS - Pasta de Dátiles 100% 500 g -...'
 sku: 'B08N1FTBB5-es'
-tags: [ 'dátiles','eos nutrisolutions', ]
 actualPrice: 10.65 EUR
 currency: EUR
 price: 10.65

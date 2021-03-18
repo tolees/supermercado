@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G8BTSHT-es NWOUIIAY Molinillo Eléctrico de Café Protección contra...'
 sku: 'B08G8BTSHT-es'
-tags: [ 'café', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

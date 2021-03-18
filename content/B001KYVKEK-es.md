@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001KYVKEK-es Revlon ColorStay Overtime Pintalabios Larga Duración...'
 sku: 'B001KYVKEK-es'
-tags: [ 'revlon', ]
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

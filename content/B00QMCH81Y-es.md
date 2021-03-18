@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00QMCH81Y-es Wella Color Touch Instamatic - Tinte para el cabello 60 ml...'
 sku: 'B00QMCH81Y-es'
-tags: [ 'wella', ]
 actualPrice: 18.56 EUR
 currency: EUR
 price: 18.56

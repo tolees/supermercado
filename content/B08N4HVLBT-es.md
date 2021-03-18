@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N4HVLBT-es mohito - Dispensador de Botellas 240ml 10pcs Botella...'
 sku: 'B08N4HVLBT-es'
-tags: [ 'mayonesa', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

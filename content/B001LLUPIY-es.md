@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001LLUPIY-es Auchentoshan Three Wood Single Malt Whisky Escoces 43% 700ml'
 sku: 'B001LLUPIY-es'
-tags: [ 'whisky', ]
 actualPrice: 32.55 EUR
 currency: EUR
 price: 32.55

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YX5P92N-es Tapas Rioja - Tarros de Cristal con Tapas para conservas...'
 sku: 'B07YX5P92N-es'
-tags: [ 'conserva','conservas', ]
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

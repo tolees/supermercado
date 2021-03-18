@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LQAXKZY-es ElPozo Pechuga de Pavo Lonchas Finas 180g'
 sku: 'B01LQAXKZY-es'
-tags: [ 'elpozo','pavo', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

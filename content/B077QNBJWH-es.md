@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077QNBJWH-es Gillette Classic Espuma de afeitado para hombre 200 ml'
 sku: 'B077QNBJWH-es'
-tags: [ 'gillette', ]
 actualPrice: None None
 currency: None
 price: None

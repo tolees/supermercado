@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082YVL5JM-es MENNYO Pigmentos para Resina Epoxi 5g*30 Colores Pigmentos...'
 sku: 'B082YVL5JM-es'
-tags: [ 'jabón', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

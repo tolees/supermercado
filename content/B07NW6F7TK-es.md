@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NW6F7TK-es Vernel Supreme Pearls potenciador de perfume para la ropa...'
 sku: 'B07NW6F7TK-es'
-tags: [ 'vernel', ]
 actualPrice: 19.6 EUR
 currency: EUR
 price: 19.6

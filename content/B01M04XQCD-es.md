@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M04XQCD-es Vileda Salvauñas Antibacterias Bayeta Super Absorbente - 3...'
 sku: 'B01M04XQCD-es'
-tags: [ 'bayeta','salvauñas','vileda', ]
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

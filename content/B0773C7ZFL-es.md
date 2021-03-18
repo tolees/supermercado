@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0773C7ZFL-es Gillette Mach3 Cuchillas de Afeitar Paquete de 18...'
 sku: 'B0773C7ZFL-es'
-tags: [ 'Afeitado manual','Afeitado manual de hombre','Afeitado y depilación','Belleza','Cuchillas de afeitar para hombre','Hogar y cocina','Tablas de cortar','Utensilios de cocina','gillette', ]
 actualPrice: 25.8 EUR
 currency: EUR
 price: 25.8

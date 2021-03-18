@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M63UR9C-es Gallo Helices Vegetales sin Gluten 450g'
 sku: 'B01M63UR9C-es'
-tags: [ 'sin','gluten', ]
 actualPrice: 1.64 EUR
 currency: EUR
 price: 1.64

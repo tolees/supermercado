@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086VN9D1J-es One Chien - One - Pienso Medio/Maxi > 10 kg Control de...'
 sku: 'B086VN9D1J-es'
-tags: [ 'pavo', ]
 actualPrice: 17.53 EUR
 currency: EUR
 price: 17.53

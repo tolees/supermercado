@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BW6XOSQ-es Schwarzkopf IGORA ROYAL 6-63 - Crema colorante permanente...'
 sku: 'B00BW6XOSQ-es'
-tags: [ 'schwarzkopf', ]
 actualPrice: 5.08 EUR
 currency: EUR
 price: 5.08

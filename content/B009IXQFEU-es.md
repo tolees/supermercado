@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009IXQFEU-es Pescamar Filete Caballa En Aceite De Girasol En Lata 81 G...'
 sku: 'B009IXQFEU-es'
-tags: [ 'caballa', ]
 actualPrice: 0.85 EUR
 currency: EUR
 price: 0.85

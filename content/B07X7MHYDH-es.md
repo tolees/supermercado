@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X7MHYDH-es Finish Pastilles Lave-Vaisselle Powerball Quantum Ultimate...'
 sku: 'B07X7MHYDH-es'
-tags: [ 'finish', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

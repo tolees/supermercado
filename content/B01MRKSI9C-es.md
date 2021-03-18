@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MRKSI9C-es Hero Porciones de Confitura Miel - Paquete de 8 x 25 gr -...'
 sku: 'B01MRKSI9C-es'
-tags: [ 'confitura', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

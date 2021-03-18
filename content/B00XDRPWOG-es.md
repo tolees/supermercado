@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XDRPWOG-es Signal Kids Pasta de Dientes Infantil Crecimiento Sabor...'
 sku: 'B00XDRPWOG-es'
-tags: [ 'pasta','de','dientes', ]
 actualPrice: 1.43 EUR
 currency: EUR
 price: 1.43

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CI2JTDG-es Krups VB7008 5L Dispensador de cerveza de barril - Tirador...'
 sku: 'B01CI2JTDG-es'
-tags: [ 'cerveza', ]
 actualPrice: 230.61 EUR
 currency: EUR
 price: 230.61

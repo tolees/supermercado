@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086RHJNRR-es Vino Tinto D.O. Rioja Montecillo Crianza - estuche de...'
 sku: 'B086RHJNRR-es'
-tags: [ 'vino','tinto', ]
 actualPrice: 21.2 EUR
 currency: EUR
 price: 21.2

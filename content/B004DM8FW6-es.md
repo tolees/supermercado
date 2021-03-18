@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004DM8FW6-es Gillette Fusion ProGlide Cuchillas de recambio para...'
 sku: 'B004DM8FW6-es'
-tags: [ 'gillette', ]
 actualPrice: 26.53 EUR
 currency: EUR
 price: 26.53

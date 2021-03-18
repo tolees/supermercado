@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MDO2ZF0-es Palmolive Gourmet Fresa en crema Gel de ducha - 500 ml'
 sku: 'B01MDO2ZF0-es'
-tags: [ 'palmolive','gel','de','ducha', ]
 actualPrice: 1.97 EUR
 currency: EUR
 price: 1.97

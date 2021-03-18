@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BMZCWCR-es Central Lechera Asturiana Cápsulas de Café con Leche 4 x...'
 sku: 'B07BMZCWCR-es'
-tags: [ 'café','central','lechera','cápsulas','de','café', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

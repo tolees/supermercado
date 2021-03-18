@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JZFRJRZ-es SANTER LABS Bolsas Excrementos Residuos Caca Perros Gatos...'
 sku: 'B08JZFRJRZ-es'
-tags: [ 'maíz', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

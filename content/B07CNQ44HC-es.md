@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CNQ44HC-es Maybelline New York - Maybelline Maybelline The Falsies -...'
 sku: 'B07CNQ44HC-es'
-tags: [ 'maybelline', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

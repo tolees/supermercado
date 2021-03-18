@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00TTWYXMQ-es Sensodyne Repair & Protect Blanqueante - Pasta de Dientes...'
 sku: 'B00TTWYXMQ-es'
-tags: [ 'sensodyne','pasta','de','dientes', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

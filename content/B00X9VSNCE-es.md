@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X9VSNCE-es Scottex Fresh Papel Higiénico Húmedo - 2 paquetes de 74...'
 sku: 'B00X9VSNCE-es'
-tags: [ 'scottex', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

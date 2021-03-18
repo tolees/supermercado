@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F2X49GZ-es IHUIXINHE Molde de Silicona de Chocolate Ideal para Cubos...'
 sku: 'B07F2X49GZ-es'
-tags: [ 'jabón','chocolate', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079Z8LL8T-es Chocolates Simón Coll - Simón Coll - Gotas de Chocolate...'
 sku: 'B079Z8LL8T-es'
-tags: [ 'chocolate', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

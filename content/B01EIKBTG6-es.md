@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EIKBTG6-es MONTSERRAT - Junta Goma para Tarro Cristal DE CONSERVAS 92...'
 sku: 'B01EIKBTG6-es'
-tags: [ 'conservas', ]
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

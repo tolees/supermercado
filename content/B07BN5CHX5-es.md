@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BN5CHX5-es Pt Present Time Nespresso - Soporte para Taza de café...'
 sku: 'B07BN5CHX5-es'
-tags: [ 'café', ]
 actualPrice: 26.05 EUR
 currency: EUR
 price: 26.05

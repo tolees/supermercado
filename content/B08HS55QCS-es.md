@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HS55QCS-es specool Espumador de leche eléctrico Mini batidor...'
 sku: 'B08HS55QCS-es'
-tags: [ 'café','chocolate', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

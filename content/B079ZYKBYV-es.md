@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ZYKBYV-es Nestlé Bolsita de puré de frutas variedad Manzana...'
 sku: 'B079ZYKBYV-es'
-tags: [ 'manzana','nestlé', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

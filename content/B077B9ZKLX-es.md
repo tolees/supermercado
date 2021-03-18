@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077B9ZKLX-es 226ERS Isolate Protein Drink Proteina de Aislado de Suero...'
 sku: 'B077B9ZKLX-es'
-tags: [ 'chocolate', ]
 actualPrice: 46.4 EUR
 currency: EUR
 price: 46.4

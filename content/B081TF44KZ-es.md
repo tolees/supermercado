@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081TF44KZ-es The Primal Pantry Barritas Energeticas 24 x 30g - sin...'
 sku: 'B081TF44KZ-es'
-tags: [ 'azúcar','sin','gluten', ]
 actualPrice: 17.79 EUR
 currency: EUR
 price: 17.79

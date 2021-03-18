@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SJ4SVWW-es mh - Cepillo de dientes eléctrico con 5 modos con 2...'
 sku: 'B08SJ4SVWW-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

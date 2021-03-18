@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FF7KS17-es O NATURALS - 6 Pastillas de Jabón Natural Orgánico Facial...'
 sku: 'B07FF7KS17-es'
-tags: [ 'aceite','de','jabón','o naturals','oliva', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

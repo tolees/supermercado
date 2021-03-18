@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2WP9VJ-es Máquina picadora de carne manual máquina trituradora de...'
 sku: 'B07K2WP9VJ-es'
-tags: [ 'salchichas', ]
 actualPrice: 25.09 EUR
 currency: EUR
 price: 25.09

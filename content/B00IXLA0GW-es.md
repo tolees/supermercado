@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IXLA0GW-es Tomatin Single Malt Whisky 12 Años - 700 ml'
 sku: 'B00IXLA0GW-es'
-tags: [ 'whisky', ]
 actualPrice: 28.94 EUR
 currency: EUR
 price: 28.94

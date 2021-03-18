@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009JVO3G8-es Artiach Galletas Artinata 210g'
 sku: 'B009JVO3G8-es'
-tags: [ 'artinata', ]
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

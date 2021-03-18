@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085HMJZWN-es OLIS BARGALLO - Garrafa 2l Aceite de Oliva Virgen Extra...'
 sku: 'B085HMJZWN-es'
-tags: [ 'aceite','de','oliva','virgen','extra', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

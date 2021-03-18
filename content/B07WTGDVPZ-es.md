@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WTGDVPZ-es Marca Amazon - Solimo Maquinilla de doble filo clásica con...'
 sku: 'B07WTGDVPZ-es'
-tags: [ 'solimo', ]
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

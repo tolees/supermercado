@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073QRHX1C-es Mimosin Moussel - Suavizante Concentrado 66 Lavados x 8...'
 sku: 'B073QRHX1C-es'
-tags: [ 'mimosin','moussel','suavizante', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

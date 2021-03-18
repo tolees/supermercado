@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LX4IBTN-es #Cervezanía - Kit de elaboración de cerveza Weissbier...'
 sku: 'B01LX4IBTN-es'
-tags: [ 'cerveza','trigo', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

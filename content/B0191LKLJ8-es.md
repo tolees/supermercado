@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0191LKLJ8-es Cuétara - Cuetara - Surtido el Auténtico - Surtido de...'
 sku: 'B0191LKLJ8-es'
-tags: [ 'cuetara', ]
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

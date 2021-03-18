@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007WBLV9Y-es NATURGREEN SOJA CALCIUM BIO 1 litro'
 sku: 'B007WBLV9Y-es'
-tags: [ 'soja', ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

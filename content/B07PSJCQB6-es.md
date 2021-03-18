@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PSJCQB6-es Paleobull - Crema de Cacao y Avellanas Saludable Ambrosía...'
 sku: 'B07PSJCQB6-es'
-tags: [ 'azúcar', ]
 actualPrice: 7.54 EUR
 currency: EUR
 price: 7.54

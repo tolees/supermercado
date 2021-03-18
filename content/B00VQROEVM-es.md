@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VQROEVM-es Torres 10 Brandy 70 cl - 700 ml'
 sku: 'B00VQROEVM-es'
-tags: [ 'brandy', ]
 actualPrice: 10.56 EUR
 currency: EUR
 price: 10.56

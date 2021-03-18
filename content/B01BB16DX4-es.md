@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BB16DX4-es #Cervezanía - Kit de elaboración de cerveza artesana India...'
 sku: 'B01BB16DX4-es'
-tags: [ 'cerveza', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

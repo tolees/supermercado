@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CL328SJ-es Nescafé Dolce Gusto Café Espresso Intenso - 16 Cápsulas de...'
 sku: 'B07CL328SJ-es'
-tags: [ 'café','nescafé','cápsulas','de','café','dolce','gusto', ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

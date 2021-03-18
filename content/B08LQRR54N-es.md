@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LQRR54N-es Cia&Co - Cesta de Navidad con Jamón 2020 Edic. Especial ·...'
 sku: 'B08LQRR54N-es'
-tags: [ 'jamón','cesta','de','navidad', ]
 actualPrice: 119.9 EUR
 currency: EUR
 price: 119.9

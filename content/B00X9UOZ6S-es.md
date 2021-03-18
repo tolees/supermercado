@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9UOZ6S-es Vernel Suavizante Lavadora Concentrado Cielo Azul - 57...'
 sku: 'B00X9UOZ6S-es'
-tags: [ 'suavizante','vernel', ]
 actualPrice: 2.55 EUR
 currency: EUR
 price: 2.55

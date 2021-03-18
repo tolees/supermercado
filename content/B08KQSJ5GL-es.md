@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KQSJ5GL-es Lysol - Spray desinfectante y limpiador quitagrasas...'
 sku: 'B08KQSJ5GL-es'
-tags: [ 'lejía', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

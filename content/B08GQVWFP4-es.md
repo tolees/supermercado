@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GQVWFP4-es Dove Crema de manos cuida y protege 75 ml'
 sku: 'B08GQVWFP4-es'
-tags: [ 'dove', ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

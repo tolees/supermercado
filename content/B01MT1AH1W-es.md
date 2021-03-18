@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT1AH1W-es Gin Mare Mediterranean Colección de Autor Ginebra - 1000 ml'
 sku: 'B01MT1AH1W-es'
-tags: [ 'ginebra', ]
 actualPrice: 37.15 EUR
 currency: EUR
 price: 37.15

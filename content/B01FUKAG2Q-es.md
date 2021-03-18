@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FUKAG2Q-es Almendrola - Bebida Vegetal de Almendras Sin Azúcar - Caja...'
 sku: 'B01FUKAG2Q-es'
-tags: [ 'azúcar', ]
 actualPrice: 10.08 EUR
 currency: EUR
 price: 10.08

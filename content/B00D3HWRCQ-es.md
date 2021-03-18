@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D3HWRCQ-es Neutrogena Crema De Manos Y Uñas - 75 ml.'
 sku: 'B00D3HWRCQ-es'
-tags: [ 'neutrogena', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

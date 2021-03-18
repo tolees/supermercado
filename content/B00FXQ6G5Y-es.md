@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FXQ6G5Y-es Eucerin Atopicontrol Loción Corporal 12% Omega Blanco -...'
 sku: 'B00FXQ6G5Y-es'
-tags: [ 'eucerin', ]
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

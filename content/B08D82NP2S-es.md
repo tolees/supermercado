@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D82NP2S-es 2 Dispenser Jabón Cristal Ambar 500ml Dosificador Botella...'
 sku: 'B08D82NP2S-es'
-tags: [ 'jabón', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

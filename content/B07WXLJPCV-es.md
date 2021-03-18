@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WXLJPCV-es Note D Espresso Cápsulas de Café de Brasil exclusivamente...'
 sku: 'B07WXLJPCV-es'
-tags: [ 'café','cápsulas','de','café', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AWLIB3E-es Gin Mare - Ginebra Premium Mediterránea con Botánicos...'
 sku: 'B01AWLIB3E-es'
-tags: [ 'ginebra', ]
 actualPrice: 26.78 EUR
 currency: EUR
 price: 26.78

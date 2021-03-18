@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KSQPDSN-es Galleta caramelizada Lotus Biscoff - 12 paquetes de 124...'
 sku: 'B07KSQPDSN-es'
-tags: [ 'biscoff', ]
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

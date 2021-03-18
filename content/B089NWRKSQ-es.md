@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NWRKSQ-es Zubita Molinillo de Café Manual Portátil Mini Molinillo de...'
 sku: 'B089NWRKSQ-es'
-tags: [ 'café','zubita', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NW9TP4Q-es Nike Loving Floral Woman Eau de Toilette Desodorante Spray...'
 sku: 'B08NW9TP4Q-es'
-tags: [ 'desodorante', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

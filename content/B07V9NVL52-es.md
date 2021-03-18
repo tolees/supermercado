@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V9NVL52-es Colon Limpialavadoras - Limpiador lavadora y antiolor -...'
 sku: 'B07V9NVL52-es'
-tags: [ 'limpialavadoras', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

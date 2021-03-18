@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D3LC1J9-es Sonew Base de jabón Natural Materias primas para jabón...'
 sku: 'B07D3LC1J9-es'
-tags: [ 'jabón', ]
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

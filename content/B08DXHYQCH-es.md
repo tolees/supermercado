@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DXHYQCH-es Gifort Recipiente para Cereales Recipiente para Pasta...'
 sku: 'B08DXHYQCH-es'
-tags: [ 'harina', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

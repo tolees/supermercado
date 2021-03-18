@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KXZZ6NY-es Colgate Triple Acción Extra Fresh Pasta de Dientes...'
 sku: 'B07KXZZ6NY-es'
-tags: [ 'colgate','pasta','de','dientes', ]
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

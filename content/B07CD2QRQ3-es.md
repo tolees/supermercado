@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CD2QRQ3-es L Oréal Paris Colorista Hair Makeup Raspberry Hair'
 sku: 'B07CD2QRQ3-es'
-tags: [ 'oréal', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

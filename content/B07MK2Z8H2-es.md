@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MK2Z8H2-es Tanqueray Flor de Sevilla - Ginebra 1000 ml'
 sku: 'B07MK2Z8H2-es'
-tags: [ 'ginebra', ]
 actualPrice: 27.18 EUR
 currency: EUR
 price: 27.18

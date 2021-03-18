@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N4IOCHD-es Finish All in 1 Max Power Gel Brillo & Protección...'
 sku: 'B01N4IOCHD-es'
-tags: [ 'detergente','finish', ]
 actualPrice: 16.55 EUR
 currency: EUR
 price: 16.55

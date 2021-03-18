@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RBCVFFM-es Cecotec hidrolimpiadora HidroBoost 2400 Home&Car. Especial...'
 sku: 'B07RBCVFFM-es'
-tags: [ 'jabón', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

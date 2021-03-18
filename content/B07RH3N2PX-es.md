@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RH3N2PX-es iDesign Set de baño juego de 4 compuesto por dispensador...'
 sku: 'B07RH3N2PX-es'
-tags: [ 'jabón','cepillo','de','dientes', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

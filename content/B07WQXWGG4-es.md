@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WQXWGG4-es Simlug - Máquina de café en cápsulas máquina de café...'
 sku: 'B07WQXWGG4-es'
-tags: [ 'café', ]
 actualPrice: 99.88 EUR
 currency: EUR
 price: 99.88

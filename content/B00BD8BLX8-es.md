@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BD8BLX8-es Aquarius 6948 Dispensador de Jabón para el Lavado de Manos...'
 sku: 'B00BD8BLX8-es'
-tags: [ 'jabón', ]
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

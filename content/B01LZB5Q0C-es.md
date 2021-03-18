@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LZB5Q0C-es Gourmet Aceitunas Rellenas de anchoa - 150 g'
 sku: 'B01LZB5Q0C-es'
-tags: [ 'aceitunas','anchoa','aceitunas','rellenas', ]
 actualPrice: 16.62 EUR
 currency: EUR
 price: 16.62

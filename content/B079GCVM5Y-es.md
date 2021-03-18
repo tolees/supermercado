@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079GCVM5Y-es Lavazza Cápsulas de café Leggero - 10 Cápsulas'
 sku: 'B079GCVM5Y-es'
-tags: [ 'café','cápsulas','de','lavazza', ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

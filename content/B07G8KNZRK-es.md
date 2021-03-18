@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G8KNZRK-es TRESemmé Cuidado Clásico Champú 900Ml 960 g'
 sku: 'B07G8KNZRK-es'
-tags: [ 'champú','tresemmé', ]
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

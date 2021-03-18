@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XDNRTP0-es Kellogg s All-Bran Choco Cereales - 375 g'
 sku: 'B00XDNRTP0-es'
-tags: [ 'kellogg', ]
 actualPrice: 2.11 EUR
 currency: EUR
 price: 2.11

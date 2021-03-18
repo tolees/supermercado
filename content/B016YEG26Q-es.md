@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016YEG26Q-es Meidi Wanduhr - 3D Diseño Reloj pared Reloj cocina Reloj...'
 sku: 'B016YEG26Q-es'
-tags: [ 'manzana', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

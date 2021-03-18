@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MBQQNXJ-es Braun Recortadora MGK7220 10 en 1 set de depilación...'
 sku: 'B08MBQQNXJ-es'
-tags: [ 'gillette', ]
 actualPrice: 84.96 EUR
 currency: EUR
 price: 84.96

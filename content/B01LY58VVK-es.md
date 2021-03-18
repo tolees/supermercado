@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LY58VVK-es Nesquik Noche - Cacao Soluble Instantáneo - Pack de 2 x 400 g'
 sku: 'B01LY58VVK-es'
-tags: [ 'nesquik', ]
 actualPrice: 4.54 EUR
 currency: EUR
 price: 4.54

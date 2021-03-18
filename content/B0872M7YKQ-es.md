@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0872M7YKQ-es Felly Juguetes Bebes 1 Año Rompecabezas Juegos de Madera...'
 sku: 'B0872M7YKQ-es'
-tags: [ 'zanahorias', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

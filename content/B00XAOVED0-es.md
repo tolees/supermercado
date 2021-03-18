@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAOVED0-es Snatt s Grefusa Palitos de Cereales con Queso 56g'
 sku: 'B00XAOVED0-es'
-tags: [ 'grefusa','queso','snatt', ]
 actualPrice: 0.84 EUR
 currency: EUR
 price: 0.84

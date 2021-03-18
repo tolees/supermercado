@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MXLLCWG-es Cannavacciuolo Cesta De Navidad Gourmet con Panettone Al...'
 sku: 'B08MXLLCWG-es'
-tags: [ 'cesta','de','navidad', ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

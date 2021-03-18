@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BR1DXJ2-es TOPERSUN Espumador de Leche Espumador Batidor de Leche...'
 sku: 'B08BR1DXJ2-es'
-tags: [ 'café', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

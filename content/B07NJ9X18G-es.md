@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ9X18G-es AIST - 3 unidades 3 x 140 g de jabón de alquitrán contra...'
 sku: 'B07NJ9X18G-es'
-tags: [ 'aist','jabón', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

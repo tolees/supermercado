@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YQFMWNX-es Finish Protector Lavavajillas - Protección del cristal y...'
 sku: 'B07YQFMWNX-es'
-tags: [ 'finish', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

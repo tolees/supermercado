@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KFFH1R5-es Mimosín Concentrado Suavizante Frescor Oceánico 66 Lavados'
 sku: 'B08KFFH1R5-es'
-tags: [ 'suavizante', ]
 actualPrice: 21.52 EUR
 currency: EUR
 price: 21.52

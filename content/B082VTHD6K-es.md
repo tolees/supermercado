@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VTHD6K-es Pompadour Té Rojo - 100 bolsitas'
 sku: 'B082VTHD6K-es'
-tags: [ 'pompadour', ]
 actualPrice: 3.55 EUR
 currency: EUR
 price: 3.55

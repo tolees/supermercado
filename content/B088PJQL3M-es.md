@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088PJQL3M-es Santal Bebida Vegetal de Avena sin Azúcar - pack 6 x 1Lt'
 sku: 'B088PJQL3M-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Baño','Bebidas vegetales','Belleza','Cubertería, Vajilla y Cristalería','Cuidado del cabello','Cuidado y limpieza del hogar','Detergente líquido para textiles','Dispensadores de loción y de jabón','Hogar y cocina','Iluminación','Iluminación de ambiente infantil','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Iluminación nocturna de interior','Lavavajillas','Lácteos y huevos','Lámparas e iluminación infantil','Piezas de vajilla','Productos para el cuidado del cabello','Productos para la lavandería','Salud y cuidado personal','Sets y juegos de pelo','Soportes y dispensadores para baño','Tazas','Tazas de té','azúcar','santal', ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

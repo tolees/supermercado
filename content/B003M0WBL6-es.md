@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003M0WBL6-es Schwarzkopf Osis + - Laca 300 ml'
 sku: 'B003M0WBL6-es'
-tags: [ 'schwarzkopf', ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01L25TA5W-es Fairy Original Cápsulas Todo en 1 para Lavavajillas - 84...'
 sku: 'B01L25TA5W-es'
-tags: [ 'fairy', ]
 actualPrice: 15.22 EUR
 currency: EUR
 price: 15.22

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y1YBBMV-es Wella Champú Fusion - 1000 ml'
 sku: 'B06Y1YBBMV-es'
-tags: [ 'wella','champú', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

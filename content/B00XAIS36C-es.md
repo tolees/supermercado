@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAIS36C-es Instituto Español Gel de Baño y Ducha Avena - 1250 ML'
 sku: 'B00XAIS36C-es'
-tags: [ 'instituto','español', ]
 actualPrice: 1.7 EUR
 currency: EUR
 price: 1.7

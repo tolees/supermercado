@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013JOSM1C-es Aceite puro de coco virgen extra orgánico Mituso 1000 ml'
 sku: 'B013JOSM1C-es'
-tags: [ 'virgen','extra', ]
 actualPrice: 14.01 EUR
 currency: EUR
 price: 14.01

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DUWIV6Y-es SOLIS Tomate Frito Brick - Pack de 3 x 200g - Tomate sin...'
 sku: 'B01DUWIV6Y-es'
-tags: [ 'gluten','sin','solis', ]
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

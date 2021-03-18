@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YZ4B3S9-es TruuMe - Shampoo Bar Champú Sólido Jabones de Champús...'
 sku: 'B07YZ4B3S9-es'
-tags: [ 'jabón','champú', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

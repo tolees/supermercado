@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085SVFTCW-es Sanytol - Limpiador Desinfectante Multiusos en Spray Todas...'
 sku: 'B085SVFTCW-es'
-tags: [ 'lejía','sanytol', ]
 actualPrice: 9.16 EUR
 currency: EUR
 price: 9.16

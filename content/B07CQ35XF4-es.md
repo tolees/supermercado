@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQ35XF4-es Oclean SE Intelligent Sonic - Cepillo de dientes - Motor...'
 sku: 'B07CQ35XF4-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: None None
 currency: None
 price: None

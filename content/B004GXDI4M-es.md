@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004GXDI4M-es Maybelline - Barra de Labios Superstay 24h con estuche 585...'
 sku: 'B004GXDI4M-es'
-tags: [ 'maybelline', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

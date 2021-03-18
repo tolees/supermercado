@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075JF2YY7-es Lumunu - Aceite de masaje erótico con fragancia navideña a...'
 sku: 'B075JF2YY7-es'
-tags: [ 'canela','manzana', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

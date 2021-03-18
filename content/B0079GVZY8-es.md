@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0079GVZY8-es Villeroy & Boch NewWave Juego de café expreso 3 pz...'
 sku: 'B0079GVZY8-es'
-tags: [ 'café', ]
 actualPrice: 38.6 EUR
 currency: EUR
 price: 38.6

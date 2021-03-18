@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B959QTP-es King C Gillette - King C. Gillette Recortadora de Barba y...'
 sku: 'B08B959QTP-es'
-tags: [ 'Afeitado manual','Afeitado manual de hombre','Afeitado y depilación','Belleza','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Cuchillas de afeitar para hombre','Hogar y cocina','Tablas de cortar','Utensilios de cocina','gillette','king c gillette', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

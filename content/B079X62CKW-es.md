@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079X62CKW-es Gillette Fusion 5 ProGlide Cuchillas de Afeitar con...'
 sku: 'B079X62CKW-es'
-tags: [ 'gillette', ]
 actualPrice: 33.6 EUR
 currency: EUR
 price: 33.6

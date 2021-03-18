@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S625XMV-es Purina Felix Fantastic Duo Delice - Comida para Gatos en...'
 sku: 'B07S625XMV-es'
-tags: [ 'purina', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

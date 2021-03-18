@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GSPTGKW-es NIVEA MEN Protege & Cuida Spray desodorante para hombre...'
 sku: 'B07GSPTGKW-es'
-tags: [ 'desodorante','nivea', ]
 actualPrice: 13.74 EUR
 currency: EUR
 price: 13.74

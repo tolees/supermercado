@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BHS8ZZ8-es Tognana Graphic - Juego de 6 tazas de café con platillo a...'
 sku: 'B07BHS8ZZ8-es'
-tags: [ 'café', ]
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

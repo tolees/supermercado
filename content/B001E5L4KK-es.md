@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001E5L4KK-es Lindt Mini Pralines Caja de Bombones Surtidos 100g'
 sku: 'B001E5L4KK-es'
-tags: [ 'lindt', ]
 actualPrice: 4.7 EUR
 currency: EUR
 price: 4.7

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KL1SMPB-es Pasticceria Passerini dal 1919 Cesta de Navidad de Mimbre...'
 sku: 'B08KL1SMPB-es'
-tags: [ 'cesta','de','navidad', ]
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

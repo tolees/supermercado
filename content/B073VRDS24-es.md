@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VRDS24-es Prozis 100% Real Whey Isolate Proteína para Pérdida de...'
 sku: 'B073VRDS24-es'
-tags: [ 'chocolate', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088HZC8WP-es Ariel Pods Allin1 Detergente en Cápsulas para Lavadora...'
 sku: 'B088HZC8WP-es'
-tags: [ 'ariel','detergente', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

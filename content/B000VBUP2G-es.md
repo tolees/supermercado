@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VBUP2G-es Max Factor Colour Adapt 050 Porcelain Base de maquillaje...'
 sku: 'B000VBUP2G-es'
-tags: [ 'factor','max', ]
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

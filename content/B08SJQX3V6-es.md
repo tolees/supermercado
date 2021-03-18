@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SJQX3V6-es LREFON - Taza de café Betty Boop Taza que cambia de color...'
 sku: 'B08SJQX3V6-es'
-tags: [ 'café', ]
 actualPrice: 19.26 EUR
 currency: EUR
 price: 19.26

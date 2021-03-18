@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WWRXXYW-es Momentos Santiamen - Pack de Conservas de Menudo de Choco...'
 sku: 'B08WWRXXYW-es'
-tags: [ 'conservas', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

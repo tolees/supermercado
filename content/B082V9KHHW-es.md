@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082V9KHHW-es TRESemmé Rubio & Platino Acondicionador'
 sku: 'B082V9KHHW-es'
-tags: [ 'acondicionador','tresemmé', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

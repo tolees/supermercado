@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJYMWT7-es Finish Powerball Quantum Max - Pastillas para el...'
 sku: 'B07RJYMWT7-es'
-tags: [ 'finish', ]
 actualPrice: 16.83 EUR
 currency: EUR
 price: 16.83

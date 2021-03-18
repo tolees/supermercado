@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWHZ6W4-es LAPASION - Bizcocho COC envuelto ideal para desayunos y...'
 sku: 'B07VWHZ6W4-es'
-tags: [ 'bizcocho','lapasion', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

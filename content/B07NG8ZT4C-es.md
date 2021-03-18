@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NG8ZT4C-es Marca Amazon - Solimo Champú revitalizante para cabello...'
 sku: 'B07NG8ZT4C-es'
-tags: [ 'solimo','champú', ]
 actualPrice: 8.41 EUR
 currency: EUR
 price: 8.41

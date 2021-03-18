@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08SQDBLYN-es Hoya Santoña - Hoya Anchoas de Santoña XL - 00 Lata de...'
 sku: 'B08SQDBLYN-es'
-tags: [ 'aceite','anchoas','de','hoya santoña','oliva', ]
 actualPrice: 33.22 EUR
 currency: EUR
 price: 33.22

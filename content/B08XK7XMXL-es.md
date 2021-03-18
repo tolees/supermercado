@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08XK7XMXL-es MASHAN Molde de Silicona de Pascua DIY Huevos Conejito...'
 sku: 'B08XK7XMXL-es'
-tags: [ 'chocolate', ]
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

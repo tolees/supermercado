@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXGGN12-es Filtro de Café compatible con Philips AquaClean Homegoo...'
 sku: 'B08CXGGN12-es'
-tags: [ 'café', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

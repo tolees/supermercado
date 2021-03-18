@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013W8QZXM-es Nescafé Dolce Gusto Magnum Café con Leche 3 x 30 Cápsulas'
 sku: 'B013W8QZXM-es'
-tags: [ 'café','dolce','gusto','nescafé','nescafé dolce gusto', ]
 actualPrice: 33.69 EUR
 currency: EUR
 price: 33.69

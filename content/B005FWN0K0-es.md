@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005FWN0K0-es Tork 561500 Dispensador para Jabón en Espuma / Dosificador...'
 sku: 'B005FWN0K0-es'
-tags: [ 'jabón', ]
 actualPrice: 27.27 EUR
 currency: EUR
 price: 27.27

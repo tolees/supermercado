@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYEYPYL-es Knorr - Sopa Deshidratada Rabo De Buey 71g'
 sku: 'B01LYEYPYL-es'
-tags: [ 'knorr', ]
 actualPrice: None None
 currency: None
 price: None

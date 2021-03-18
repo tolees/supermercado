@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LNQ8F0G-es Wilkinson Sword Extra 2 Sensitive - máquinas desechables...'
 sku: 'B01LNQ8F0G-es'
-tags: [ 'wilkinson','sword', ]
 actualPrice: 4.37 EUR
 currency: EUR
 price: 4.37

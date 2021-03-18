@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MTFL71A-es J&B - JB Reserva - Blended Scotch Whisky -700 ml'
 sku: 'B00MTFL71A-es'
-tags: [ 'whisky', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

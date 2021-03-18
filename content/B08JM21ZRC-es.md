@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JM21ZRC-es Anmossi Bombillas LED E27 3000K 12W LED maíz Bombilla...'
 sku: 'B08JM21ZRC-es'
-tags: [ 'maíz', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

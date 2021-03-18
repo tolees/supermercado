@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQ996SB-es L Oréal Men Expert gel de lavado de carbón puro contra las...'
 sku: 'B07YQ996SB-es'
-tags: [ 'oréal', ]
 actualPrice: 7.26 EUR
 currency: EUR
 price: 7.26

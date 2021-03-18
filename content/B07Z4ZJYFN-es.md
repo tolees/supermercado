@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z4ZJYFN-es Lindt Lindor Bombones de Chocolate con Leche - Aprox....'
 sku: 'B07Z4ZJYFN-es'
-tags: [ 'lindt','chocolate', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

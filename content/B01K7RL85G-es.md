@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7RL85G-es Nestlé Purés Tarrito de puré de verduras y carne variedad...'
 sku: 'B01K7RL85G-es'
-tags: [ 'nestlé', ]
 actualPrice: None None
 currency: None
 price: None

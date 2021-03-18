@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BVF1MC8-es Wipp Express Detergente Líquido Azul 40 Dosis + Vernel...'
 sku: 'B08BVF1MC8-es'
-tags: [ 'detergente','suavizante','vernel','wipp express', ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

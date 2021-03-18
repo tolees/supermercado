@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088CRY3KK-es Mafiti Dispensador de Jabón Automático Dosificador Cocina...'
 sku: 'B088CRY3KK-es'
-tags: [ 'jabón', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

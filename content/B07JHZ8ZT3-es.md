@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHZ8ZT3-es Incutex 10x Cajas 200 Hojas en Total de Hojas de jabón...'
 sku: 'B07JHZ8ZT3-es'
-tags: [ 'incutex','jabón', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

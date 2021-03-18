@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088R1VQ5H-es Vermouth Padró & Co Rojo Clásico - 3 botellas de 75 cl...'
 sku: 'B088R1VQ5H-es'
-tags: [ 'vermouth', ]
 actualPrice: None None
 currency: None
 price: None

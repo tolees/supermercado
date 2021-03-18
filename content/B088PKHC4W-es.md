@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088PKHC4W-es Nestlé Nativa 1- Leche Para Lactantes En Polvo- Fórmula...'
 sku: 'B088PKHC4W-es'
-tags: [ 'nestlé', ]
 actualPrice: 29.07 EUR
 currency: EUR
 price: 29.07

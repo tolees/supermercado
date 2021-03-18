@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MF9YO7A-es Knorr - Sopa Pollo Fideos 63 g - [Pack de 19]'
 sku: 'B01MF9YO7A-es'
-tags: [ 'knorr', ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

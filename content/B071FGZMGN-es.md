@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071FGZMGN-es Lavazza Máquina de Café Jolie Plus 1250W gris metálico Gun...'
 sku: 'B071FGZMGN-es'
-tags: [ 'café','lavazza', ]
 actualPrice: 111.61 EUR
 currency: EUR
 price: 111.61

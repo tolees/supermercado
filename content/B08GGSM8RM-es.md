@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GGSM8RM-es Lagarto - Jabón natural - 400 g'
 sku: 'B08GGSM8RM-es'
-tags: [ 'jabón', ]
 actualPrice: 3.48 EUR
 currency: EUR
 price: 3.48

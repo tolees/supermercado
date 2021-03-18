@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TPY5A52-es Nuggela & Sulé champú premium con extracto de cebolla -...'
 sku: 'B00TPY5A52-es'
-tags: [ 'cebolla','champú', ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

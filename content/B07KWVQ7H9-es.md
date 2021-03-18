@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWVQ7H9-es 7 CM Electrostática Eliminación de lavandería Bolas...'
 sku: 'B07KWVQ7H9-es'
-tags: [ 'suavizante', ]
 actualPrice: 5.22 EUR
 currency: EUR
 price: 5.22

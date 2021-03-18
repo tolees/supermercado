@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NRF19MV-es GLISS - Champú Ultimate Oil Elixir - 6uds de 250ml 1.500ml...'
 sku: 'B07NRF19MV-es'
-tags: [ 'champú', ]
 actualPrice: 17.7 EUR
 currency: EUR
 price: 17.7

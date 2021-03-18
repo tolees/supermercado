@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082R5B5ZZ-es EL PALADAR JAMONERIA & DELICATESSEN - Cesta de Navidad -...'
 sku: 'B082R5B5ZZ-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Artículos para gatos','Batidoras espumadoras de leche automáticas','Baño','Baño e higiene personal','Belleza','Bollería','Cervezas','Cervezas, vinos y licores','Cestas regalo y regalos gourmet','Comida húmeda para gatos','Comida para gatos','Conservas','Conservas de pescado y marisco','Cuidado de la salud','Cuidado y limpieza del hogar','Cápsulas y pastillas de detergente para textiles','Detergente líquido para textiles','Espumadores de leche','Hogar y cocina','Lavavajillas','Limpieza personal','Panadería y bollería','Pastillas de jabón y jabón líquido para manos','Portacepillos de dientes','Productos para la lavandería','Productos para mascotas','Quitamanchas para textiles','Salud y cuidado personal','Soportes y dispensadores para baño','Utensilios para café y té','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','cesta','conservas','de','el paladar jamoneria & delicatessen','ibérico','jamón','navidad', ]
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

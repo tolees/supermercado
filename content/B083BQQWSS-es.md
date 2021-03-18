@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083BQQWSS-es Nobebird - Espumador de Leche Vaporizador de Cerámica...'
 sku: 'B083BQQWSS-es'
-tags: [ 'café','chocolate','nobebird', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

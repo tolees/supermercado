@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088NR2BM9-es Colorante Resina Epoxi 20 Colores Gifort Pigmento de...'
 sku: 'B088NR2BM9-es'
-tags: [ 'jabón', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

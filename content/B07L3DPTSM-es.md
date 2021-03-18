@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L3DPTSM-es Wipp Express Detergente en Cápsulas 12 Lavados Pack de 8...'
 sku: 'B07L3DPTSM-es'
-tags: [ 'detergente', ]
 actualPrice: 35.2 EUR
 currency: EUR
 price: 35.2

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XDQW3Z8-es Ruffles -Original - Patatas Fritas con Sal - 160 g'
 sku: 'B00XDQW3Z8-es'
-tags: [ 'ruffles','patatas','fritas', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

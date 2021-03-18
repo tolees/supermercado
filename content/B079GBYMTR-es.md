@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079GBYMTR-es GRANERO Tortitas DE ARROZ SIN Sal Bio 115 gr No aplicable'
 sku: 'B079GBYMTR-es'
-tags: [ 'arroz', ]
 actualPrice: 1.34 EUR
 currency: EUR
 price: 1.34

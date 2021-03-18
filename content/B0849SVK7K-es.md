@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0849SVK7K-es DEAD OR ALIVE Granos de Café Espresso NR3 - Mezcla...'
 sku: 'B0849SVK7K-es'
-tags: [ 'café', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

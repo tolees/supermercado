@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z462QVG-es Knorr - Thai Curry 69 gr'
 sku: 'B07Z462QVG-es'
-tags: [ 'knorr', ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

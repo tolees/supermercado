@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VLMDX95-es Skyroam Solis X Hotspot WiFi - Router Móvil 4G LTE No...'
 sku: 'B07VLMDX95-es'
-tags: [ 'solis', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

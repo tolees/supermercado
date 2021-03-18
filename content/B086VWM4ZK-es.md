@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086VWM4ZK-es Nobebird Espumador de Leche Vaporizador de Leche Eléctrico...'
 sku: 'B086VWM4ZK-es'
-tags: [ 'Accesorios de baño','Batidoras espumadoras de leche automáticas','Baño','Baño e higiene personal','Belleza','Cuidado de la salud','Espumadores de leche','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Portacepillos de dientes','Salud y cuidado personal','Soportes y dispensadores para baño','Utensilios para café y té','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','café','nobebird', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

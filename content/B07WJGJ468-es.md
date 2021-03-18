@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WJGJ468-es YMing Velas Aromática Juego de 4 Piezas 5.65Oz Velas...'
 sku: 'B07WJGJ468-es'
-tags: [ 'soja', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NSKVMVQ-es PATO® - WC Power Lejía Fragancia Océano Limpiador...'
 sku: 'B07NSKVMVQ-es'
-tags: [ 'lejía', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

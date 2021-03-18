@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R1QR2NR-es Avenir CH1676 Scratch Junior My Fairy Friends Multicolor'
 sku: 'B07R1QR2NR-es'
-tags: [ 'fairy', ]
 actualPrice: 2.52 EUR
 currency: EUR
 price: 2.52

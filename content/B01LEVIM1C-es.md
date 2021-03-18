@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LEVIM1C-es Egan PWM02I/LO - Juego de Tazas de café Modelo en The City...'
 sku: 'B01LEVIM1C-es'
-tags: [ 'café', ]
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

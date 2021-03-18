@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MUWBVV9-es Gillette Fusion 5 ProShield Maquinilla de Afeitar Hombre +...'
 sku: 'B01MUWBVV9-es'
-tags: [ 'gillette', ]
 actualPrice: 29.63 EUR
 currency: EUR
 price: 29.63

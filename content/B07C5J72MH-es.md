@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C5J72MH-es GoldWorld - Kit Set Cuidado Barba con Libre Champu Barba...'
 sku: 'B07C5J72MH-es'
-tags: [ 'acondicionador','champu', ]
 actualPrice: 30.91 EUR
 currency: EUR
 price: 30.91

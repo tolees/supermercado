@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002C3CDAI-es Gloss! - Gloss - caja de baño caja de regalo para mujeres...'
 sku: 'B002C3CDAI-es'
-tags: [ 'chocolate', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

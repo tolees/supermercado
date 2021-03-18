@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BVDWBRQ-es Vanish Vanish Oxi Advance - Quitamanchas Para La Ropa...'
 sku: 'B08BVDWBRQ-es'
-tags: [ 'lejía', ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

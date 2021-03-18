@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HPUCYME-es #Cervezanía - Kit de elaboración de cerveza rubia Pale Ale...'
 sku: 'B01HPUCYME-es'
-tags: [ 'cerveza', ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

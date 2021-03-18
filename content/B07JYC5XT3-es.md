@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JYC5XT3-es Chupa Chups Original Caramelo con Palo de Sabores Variados...'
 sku: 'B07JYC5XT3-es'
-tags: [ 'chupa','chups', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

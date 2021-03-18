@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009KA3VHK-es Hero - Baby Natur - Lenguado con crema de Bechamel para 8...'
 sku: 'B009KA3VHK-es'
-tags: [ 'bechamel', ]
 actualPrice: 0.98 EUR
 currency: EUR
 price: 0.98

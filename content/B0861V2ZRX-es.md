@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0861V2ZRX-es PINPOXE - Jabón Natural Jabón Manos y Cara Jabón Vegano...'
 sku: 'B0861V2ZRX-es'
-tags: [ 'jabón', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXJ425B-es Grillman Funda Impermeable para Barbacoa Color Canela...'
 sku: 'B08CXJ425B-es'
-tags: [ 'canela', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EVRDJY2-es Vileda Super fregona Azul Diseño Rincones 1 fregona'
 sku: 'B00EVRDJY2-es'
-tags: [ 'fregona','vileda', ]
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

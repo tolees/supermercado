@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HX9LDCX-es Oral-B Kids Disney Frozen/Cars Pasta Dentífrica 3+ Años 75...'
 sku: 'B07HX9LDCX-es'
-tags: [ 'dentífrica', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

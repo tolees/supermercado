@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085RF25KR-es myFERMENTS - Pack de 2 Tarros de Cristal con Tapa Grandes...'
 sku: 'B085RF25KR-es'
-tags: [ 'conservas', ]
 actualPrice: 22.87 EUR
 currency: EUR
 price: 22.87

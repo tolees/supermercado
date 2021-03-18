@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008LTT8V4-es L Oréal Paris Barra de Labios Color Riche Creme 297 lntense'
 sku: 'B008LTT8V4-es'
-tags: [ 'oréal', ]
 actualPrice: 5.66 EUR
 currency: EUR
 price: 5.66

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HTBDWWU-es RAM Chocolate Líquido a la Taza - 6 x 1 L - Total: 6 L'
 sku: 'B01HTBDWWU-es'
-tags: [ 'chocolate', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PIM3IU4-es L Oreal Paris Elvive - Elvive Champú protector del color...'
 sku: 'B00PIM3IU4-es'
-tags: [ 'champú', ]
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

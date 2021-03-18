@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XV96HNZ-es Oral-B Pro-Expert Protección Profesional Pasta Dentífrica...'
 sku: 'B06XV96HNZ-es'
-tags: [ 'dentífrica','oral-b', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

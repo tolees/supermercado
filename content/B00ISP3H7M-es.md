@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ISP3H7M-es Nestlé Papilla 8 Cereales con Miel Alimento para Bebés 600g'
 sku: 'B00ISP3H7M-es'
-tags: [ 'nestlé', ]
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

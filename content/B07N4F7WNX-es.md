@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N4F7WNX-es Suavinex Detergente para Biberones y Tetinas con 82% de...'
 sku: 'B07N4F7WNX-es'
-tags: [ 'detergente', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

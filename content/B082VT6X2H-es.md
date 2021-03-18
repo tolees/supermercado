@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VT6X2H-es Haribo - Ositos - Caramelos de goma - 1 kg'
 sku: 'B082VT6X2H-es'
-tags: [ 'haribo', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

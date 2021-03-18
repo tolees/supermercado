@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081BFJLFT-es JamonOnline - Cesta Navidad con Jamón Serrano Fuet Casero...'
 sku: 'B081BFJLFT-es'
-tags: [ 'chorizo','jamón','queso','vino','tinto', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

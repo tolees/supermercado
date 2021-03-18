@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTYTFJJ-es Martini Vermouth Rosso - 1L'
 sku: 'B01MTYTFJJ-es'
-tags: [ 'martini','vermouth', ]
 actualPrice: None None
 currency: None
 price: None

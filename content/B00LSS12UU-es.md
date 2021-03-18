@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LSS12UU-es Bolero Bebida Instantánea sin Azúcar Sabor Grosellas -...'
 sku: 'B00LSS12UU-es'
-tags: [ 'azúcar', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

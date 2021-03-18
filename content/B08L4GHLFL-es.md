@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08L4GHLFL-es Jabón Lux Buena 125g Sol Día'
 sku: 'B08L4GHLFL-es'
-tags: [ 'jabón','lux', ]
 actualPrice: 0.69 EUR
 currency: EUR
 price: 0.69

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00L2IQM60-es Suavizante Concentrado Asevi Azul 60 dosis'
 sku: 'B00L2IQM60-es'
-tags: [ 'suavizante', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

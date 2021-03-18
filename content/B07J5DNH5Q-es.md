@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J5DNH5Q-es Dove Original Desodorante 0% aluminio- Pack de 6 x 150 ml...'
 sku: 'B07J5DNH5Q-es'
-tags: [ 'desodorante','dove', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

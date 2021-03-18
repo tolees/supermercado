@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000UVPHMU-es Hojiblanca - Aceite de oliva virgen extra - 1L'
 sku: 'B000UVPHMU-es'
-tags: [ 'hojiblanca','aceite','de','oliva','virgen','extra', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

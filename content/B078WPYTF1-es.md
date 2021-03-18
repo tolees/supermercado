@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WPYTF1-es Homelody Ducha de Mano 5 Funciones con Botón de Pausa...'
 sku: 'B078WPYTF1-es'
-tags: [ 'alcachofa', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087R3Z6TF-es WiPP Express Wipp Express Gel Azul 40 Dosis + Vernel...'
 sku: 'B087R3Z6TF-es'
-tags: [ 'suavizante','vernel', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MJ4NFVG-es Klarstein Volcano - máquina de Palomitas de maíz Retro...'
 sku: 'B00MJ4NFVG-es'
-tags: [ 'maíz', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

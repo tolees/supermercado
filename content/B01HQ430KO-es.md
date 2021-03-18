@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HQ430KO-es Bolero Bebida Instantánea sin Azúcar Sabor Mandarina -...'
 sku: 'B01HQ430KO-es'
-tags: [ 'azúcar', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AFBYPYG-es Plymouth Gin Navy Strength Ginebra - 700 ml'
 sku: 'B00AFBYPYG-es'
-tags: [ 'ginebra', ]
 actualPrice: 39.39 EUR
 currency: EUR
 price: 39.39

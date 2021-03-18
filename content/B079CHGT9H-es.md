@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079CHGT9H-es HOMFA Mesitas de café Mesitas de centro Mesas Nórdicos...'
 sku: 'B079CHGT9H-es'
-tags: [ 'café', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

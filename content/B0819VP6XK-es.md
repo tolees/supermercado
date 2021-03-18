@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0819VP6XK-es LACER pasta dentífrica antiplaca y anticaries con flúor...'
 sku: 'B0819VP6XK-es'
-tags: [ 'Cuidado bucal','Pastas de dientes','Salud y cuidado personal','dentífrica','lacer', ]
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DUW8BPA-es Leche Pascual - Clásica Leche Entera - 1 L Paquete de 6'
 sku: 'B01DUW8BPA-es'
-tags: [ 'leche','entera', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

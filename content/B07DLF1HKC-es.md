@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DLF1HKC-es EL PALADAR JAMONERIA & DELICATESSEN - Pack Conservas...'
 sku: 'B07DLF1HKC-es'
-tags: [ 'atún','caballa','conservas','atún','claro', ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

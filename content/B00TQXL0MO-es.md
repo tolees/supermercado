@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TQXL0MO-es Philips Sonicare Serie 2 HX6231/01 - Cepillo de dientes...'
 sku: 'B00TQXL0MO-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 37.88 EUR
 currency: EUR
 price: 37.88

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T3GST7P-es Loción Hidratante Urea + Pantenol - Instituto Español -...'
 sku: 'B07T3GST7P-es'
-tags: [ 'instituto','español', ]
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

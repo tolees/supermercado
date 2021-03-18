@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073HGJMZH-es Cabezal de cepillo de dientes para Oral B paquete de 16...'
 sku: 'B073HGJMZH-es'
-tags: [ 'cepillo','de','dientes', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087V22SFZ-es Twinzee - Cortafiambres Electrico - Grosor Ajustable de 0...'
 sku: 'B087V22SFZ-es'
-tags: [ 'queso', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

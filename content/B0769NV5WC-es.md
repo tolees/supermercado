@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0769NV5WC-es L Oreal Paris Men Expert - L Oréal Paris Men Expert -...'
 sku: 'B0769NV5WC-es'
-tags: [ 'champú','oréal', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QFRCZP7-es Dulcesol Hazelnut cake - 5 x 225 gr'
 sku: 'B07QFRCZP7-es'
-tags: [ 'dulcesol', ]
 actualPrice: 1.6 EUR
 currency: EUR
 price: 1.6

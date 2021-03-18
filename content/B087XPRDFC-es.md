@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087XPRDFC-es Handy Bag Bolsas de Basura 10L Baño Extra Resistentes...'
 sku: 'B087XPRDFC-es'
-tags: [ 'bolsas','de','basura', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

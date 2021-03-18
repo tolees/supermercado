@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RNVYN67-es Space Home - Platos para Pulpo Queso Carne - Platos de...'
 sku: 'B08RNVYN67-es'
-tags: [ 'queso', ]
 actualPrice: 26.97 EUR
 currency: EUR
 price: 26.97

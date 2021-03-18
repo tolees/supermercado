@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZZ2CGL-es TRESemmé Champú Cuidado Clásico - Paquete de 4 x 900 ml -...'
 sku: 'B078ZZ2CGL-es'
-tags: [ 'champú','tresemmé', ]
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NRQ6XQL-es Campos Conserva de atún en tomate - pack de 3 latas de 80 gr.'
 sku: 'B07NRQ6XQL-es'
-tags: [ 'atún','conserva','conserva','de','atún', ]
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

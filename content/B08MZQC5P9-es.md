@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08MZQC5P9-es Anjou - Juego de Velas perfumadas de Cera de Soja 100%...'
 sku: 'B08MZQC5P9-es'
-tags: [ 'Decoración del hogar','Hogar y cocina','Juegos de velas','Velas','Velas y candelabros','anjou','soja', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

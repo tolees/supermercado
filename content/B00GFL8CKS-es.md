@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GFL8CKS-es Sangre de Toro Vino Tinto - 6 botellas de 75 cl Total:...'
 sku: 'B00GFL8CKS-es'
-tags: [ 'tinto','vino', ]
 actualPrice: 23.94 EUR
 currency: EUR
 price: 23.94

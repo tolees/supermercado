@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IU9ZYUS-es Tejero - Conserva de Pescado | Filetes de Caballa en...'
 sku: 'B01IU9ZYUS-es'
-tags: [ 'caballa','conserva','tejero', ]
 actualPrice: 16.42 EUR
 currency: EUR
 price: 16.42

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074KGS7J6-es PICI CON TRUFA My Cooking Box x2 porciones - Cesta de...'
 sku: 'B074KGS7J6-es'
-tags: [ 'cesta','de','navidad', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

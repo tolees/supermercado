@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AY2L64W-es Cadbury Huevo de chocolate - 22 de 89 gr. Total 1958 gr.'
 sku: 'B01AY2L64W-es'
-tags: [ 'chocolate', ]
 actualPrice: 7.76 EUR
 currency: EUR
 price: 7.76

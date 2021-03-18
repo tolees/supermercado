@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J9JZ6XR-es Vileda VR 102 - Robot aspirador de gran autonomía 1h 30 de...'
 sku: 'B07J9JZ6XR-es'
-tags: [ 'vileda', ]
 actualPrice: 126.5 EUR
 currency: EUR
 price: 126.5

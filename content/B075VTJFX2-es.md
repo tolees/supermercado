@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075VTJFX2-es Wet n Wild - Wet n Wild - Silk Finish Lipstick - Barra de...'
 sku: 'B075VTJFX2-es'
-tags: [ 'finish', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

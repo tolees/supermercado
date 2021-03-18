@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CVWMDX-es Botanical Origin Detergente para lavadora ecológico apto...'
 sku: 'B081CVWMDX-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Batidoras espumadoras de leche automáticas','Baño','Baño e higiene personal','Belleza','Bollería','Conservas','Conservas de pescado y marisco','Cuidado de la salud','Cuidado y limpieza del hogar','Detergente líquido para textiles','Espumadores de leche','Hogar y cocina','Lavavajillas','Limpieza personal','Panadería y bollería','Pastillas de jabón y jabón líquido para manos','Portacepillos de dientes','Productos para la lavandería','Quitamanchas para textiles','Salud y cuidado personal','Soportes y dispensadores para baño','Utensilios para café y té','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','botanical origin','detergente', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

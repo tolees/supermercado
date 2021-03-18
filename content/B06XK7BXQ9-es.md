@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XK7BXQ9-es OGX Acondicionador Aceite de Argán Extra Fuerte Hidrata y...'
 sku: 'B06XK7BXQ9-es'
-tags: [ 'acondicionador', ]
 actualPrice: 7.56 EUR
 currency: EUR
 price: 7.56

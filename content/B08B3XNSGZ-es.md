@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B3XNSGZ-es Cia&Co 12 Mascarillas Higiénicas Negras The Pink House + 1...'
 sku: 'B08B3XNSGZ-es'
-tags: [ 'babaria', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H5VOPES-es Revlon Pro You Color Champú - 1000 ml'
 sku: 'B01H5VOPES-es'
-tags: [ 'champú','revlon', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

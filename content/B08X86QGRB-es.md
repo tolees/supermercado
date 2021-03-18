@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08X86QGRB-es L Oreal Paris Men Expert - L Oréal España Men Expert Ducha...'
 sku: 'B08X86QGRB-es'
-tags: [ 'crema','hidratante','gel','de','ducha','oréal', ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

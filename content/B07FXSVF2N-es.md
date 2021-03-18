@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXSVF2N-es Novohogar Sillón Reclinable Praga con Muelle Ensacado...'
 sku: 'B07FXSVF2N-es'
-tags: [ 'chocolate', ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

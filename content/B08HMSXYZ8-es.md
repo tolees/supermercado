@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HMSXYZ8-es Blanqueador Dental Profesional AJOXEL Kit de...'
 sku: 'B08HMSXYZ8-es'
-tags: [ 'café', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

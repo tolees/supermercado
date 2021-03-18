@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QKK1K6W-es Finish Pastillas para lavavajillas 0 % todo en 1 sin...'
 sku: 'B07QKK1K6W-es'
-tags: [ 'finish', ]
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B18MXF1-es Ladrón de Manzanas Cider Mazana - Caja de 24 Latas x 330...'
 sku: 'B07B18MXF1-es'
-tags: [ 'ladrón','de','manzanas', ]
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

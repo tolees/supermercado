@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YXTBYS-es Purina Gourmet Crystal Soup comida para gatos con Pollo...'
 sku: 'B071YXTBYS-es'
-tags: [ 'purina', ]
 actualPrice: 23.04 EUR
 currency: EUR
 price: 23.04

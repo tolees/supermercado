@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086X3DNN1-es Campos Atún en Aceite de Girasol Lata de 650 g Peso...'
 sku: 'B086X3DNN1-es'
-tags: [ 'atún', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SHTJL4F-es Mom Love Ginebra Premium 700ml'
 sku: 'B07SHTJL4F-es'
-tags: [ 'ginebra', ]
 actualPrice: 12.4 EUR
 currency: EUR
 price: 12.4

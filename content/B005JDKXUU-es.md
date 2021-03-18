@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005JDKXUU-es Croc Odor Desodorante Frigorífico - 1 Unidad'
 sku: 'B005JDKXUU-es'
-tags: [ 'desodorante', ]
 actualPrice: 2.11 EUR
 currency: EUR
 price: 2.11

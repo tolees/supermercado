@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LQAW4BA-es Dani Cúrcuma Molida 45 g'
 sku: 'B01LQAW4BA-es'
-tags: [ 'cúrcuma', ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

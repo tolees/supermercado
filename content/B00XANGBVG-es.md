@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XANGBVG-es Signal Action Gel Fresco Dentífrico - 75 ml'
 sku: 'B00XANGBVG-es'
-tags: [ 'dentífrico', ]
 actualPrice: 1.18 EUR
 currency: EUR
 price: 1.18

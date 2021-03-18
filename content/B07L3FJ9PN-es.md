@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L3FJ9PN-es Vernel Suavizante Lavadora Aromaterapia Aceite de Jazmín y...'
 sku: 'B07L3FJ9PN-es'
-tags: [ 'suavizante','vernel', ]
 actualPrice: 18.53 EUR
 currency: EUR
 price: 18.53

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0051GNHJ4-es Coca Cola Coke Soft Drink Can 330ml Ref A00768 [Pack 24]'
 sku: 'B0051GNHJ4-es'
-tags: [ 'coca','cola', ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00M1HMP12-es L Oreal Paris Make-up Designer - L Oréal Paris Pintalabios...'
 sku: 'B00M1HMP12-es'
-tags: [ 'oréal', ]
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

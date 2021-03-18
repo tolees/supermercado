@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVY3FRZ-es Revium - Limpiador facial antirrojeces para pieles...'
 sku: 'B07WVY3FRZ-es'
-tags: [ 'jabón', ]
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

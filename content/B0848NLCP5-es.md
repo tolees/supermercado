@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0848NLCP5-es equival Caja portátil de Alimentos Caja de Verduras y...'
 sku: 'B0848NLCP5-es'
-tags: [ 'cebolla','maíz', ]
 actualPrice: 4.32 EUR
 currency: EUR
 price: 4.32

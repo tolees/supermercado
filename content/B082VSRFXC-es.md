@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VSRFXC-es Mom Rocks Ginebra Premium - 700 ml'
 sku: 'B082VSRFXC-es'
-tags: [ 'ginebra', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

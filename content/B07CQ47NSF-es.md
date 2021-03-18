@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQ47NSF-es Brillante Benefit Legumbres Quinoa Verduras 250G - [Pack...'
 sku: 'B07CQ47NSF-es'
-tags: [ 'legumbres','quinoa', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0794CSYZL-es Laly - Magdalenas Sin Azúcar y Sin Lactosa'
 sku: 'B0794CSYZL-es'
-tags: [ 'azúcar', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

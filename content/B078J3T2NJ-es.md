@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078J3T2NJ-es Maybelline New York Master Chrome - Polvos Iluminadores...'
 sku: 'B078J3T2NJ-es'
-tags: [ 'maybelline', ]
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

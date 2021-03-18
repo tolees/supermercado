@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WTSHCF-es Finish Powerball All in 1 Max - Pastillas para el...'
 sku: 'B078WTSHCF-es'
-tags: [ 'Accesorios de baño','Baño','Belleza','Cubertería, Vajilla y Cristalería','Cuidado del cabello','Cuidado y limpieza del hogar','Detergente líquido para textiles','Dispensadores de loción y de jabón','Hogar y cocina','Iluminación','Iluminación de ambiente infantil','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Iluminación nocturna de interior','Lavavajillas','Lámparas e iluminación infantil','Piezas de vajilla','Productos para el cuidado del cabello','Productos para la lavandería','Salud y cuidado personal','Sets y juegos de pelo','Soportes y dispensadores para baño','Tazas','Tazas de té','finish', ]
 actualPrice: 22.2 EUR
 currency: EUR
 price: 22.2

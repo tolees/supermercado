@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G1THVLX-es Nescafé DOLCE GUSTO Café CAPPUCCINO LIGHT - Pack de 3 x 16...'
 sku: 'B07G1THVLX-es'
-tags: [ 'café','nescafé','dolce','gusto', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

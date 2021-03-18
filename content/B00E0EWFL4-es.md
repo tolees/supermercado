@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00E0EWFL4-es Highland Park Viking Honour Single Malt Scotch Whisky -...'
 sku: 'B00E0EWFL4-es'
-tags: [ 'whisky', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z8RG5GV-es Spray Mop Tencoz 640ml Fregona con Vaporizador Mopa...'
 sku: 'B07Z8RG5GV-es'
-tags: [ 'fregona', ]
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

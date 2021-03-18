@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZW6HDGT-es Hero Baby 2 - Leche de Continuación en Polvo para Bebés de...'
 sku: 'B07ZW6HDGT-es'
-tags: [ 'hero','baby', ]
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

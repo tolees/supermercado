@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0751BV3CP-es Cosmética Natural de Grüne Valerie - Grüne Valerie® Set de...'
 sku: 'B0751BV3CP-es'
-tags: [ 'jabón','aceite','de','oliva', ]
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

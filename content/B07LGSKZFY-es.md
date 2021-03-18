@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LGSKZFY-es Nocilla - Batido para beber - 200 ml'
 sku: 'B07LGSKZFY-es'
-tags: [ 'nocilla', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

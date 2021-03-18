@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CF6X73W-es Viaggio Espresso Cápsulas de café compatibles con máquinas...'
 sku: 'B07CF6X73W-es'
-tags: [ 'café','cápsulas','de','café', ]
 actualPrice: 17.7 EUR
 currency: EUR
 price: 17.7

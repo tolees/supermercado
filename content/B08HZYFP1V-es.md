@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HZYFP1V-es Garnier Ultra Suave Champú 2 en 1 de Albaricoque y Flor de...'
 sku: 'B08HZYFP1V-es'
-tags: [ 'garnier','champú', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

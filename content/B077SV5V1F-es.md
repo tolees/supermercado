@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077SV5V1F-es Mentos Chicle Menta Sin Azúcar - 6 unidades de 60 gr....'
 sku: 'B077SV5V1F-es'
-tags: [ 'azúcar','mentos', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CHRN7AS-es Pata Negra Reserva Vino Tinto D.O Valdepeñas - Caja de 6...'
 sku: 'B01CHRN7AS-es'
-tags: [ 'vino','tinto', ]
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

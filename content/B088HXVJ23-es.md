@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088HXVJ23-es Pernigotti - Crema De Gianduia Negra 350 g'
 sku: 'B088HXVJ23-es'
-tags: [ 'pernigotti', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

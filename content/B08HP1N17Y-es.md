@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HP1N17Y-es Pescamar Atun Claro En Aceite De Girasol En Lata 80 G 80 g'
 sku: 'B08HP1N17Y-es'
-tags: [ 'atun','claro', ]
 actualPrice: 0.81 EUR
 currency: EUR
 price: 0.81

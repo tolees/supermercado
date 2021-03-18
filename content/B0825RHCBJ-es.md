@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825RHCBJ-es GEOX U NEBULA C DOVE GREY Men s Trainers Low-Top Trainers...'
 sku: 'B0825RHCBJ-es'
-tags: [ 'dove', ]
 actualPrice: 57.19 EUR
 currency: EUR
 price: 57.19

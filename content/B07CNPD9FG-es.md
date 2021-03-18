@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CNPD9FG-es Somat Oro Gel Detergente Lavavajillas Antigrasa - 100...'
 sku: 'B07CNPD9FG-es'
-tags: [ 'detergente','somat', ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

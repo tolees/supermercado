@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NRQ6MQ8-es Campos Conserva de atún claro en aceite de oliva virgen...'
 sku: 'B07NRQ6MQ8-es'
-tags: [ 'atún','conserva','aceite','de','oliva','atún','claro','conserva','de','atún','virgen','extra', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

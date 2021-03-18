@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088SJRZV4-es NUK 2 botellas de detergente 1 cepillo Twist para biberón...'
 sku: 'B088SJRZV4-es'
-tags: [ 'detergente', ]
 actualPrice: 17.43 EUR
 currency: EUR
 price: 17.43

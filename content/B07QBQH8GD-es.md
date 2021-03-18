@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QBQH8GD-es Finish Limpiamáquinas - Líquido para lavavajillas contra...'
 sku: 'B07QBQH8GD-es'
-tags: [ 'finish', ]
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

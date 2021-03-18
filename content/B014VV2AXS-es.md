@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014VV2AXS-es Bolero Bebida Instantánea sin Azúcar Sabor Bayas - Paquete...'
 sku: 'B014VV2AXS-es'
-tags: [ 'azúcar', ]
 actualPrice: 3.23 EUR
 currency: EUR
 price: 3.23

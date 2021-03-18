@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IVIBRCW-es Ariel Detergente en Polvo para Lavadora Básico 60 Lavados'
 sku: 'B01IVIBRCW-es'
-tags: [ 'detergente', ]
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

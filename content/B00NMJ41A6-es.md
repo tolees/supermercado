@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NMJ41A6-es Folat B.V. - Folat - Disfraz de Vaso de Cerveza Amarilla...'
 sku: 'B00NMJ41A6-es'
-tags: [ 'cerveza', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

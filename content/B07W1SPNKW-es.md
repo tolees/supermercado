@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W1SPNKW-es Talking Tables-De 500 Piezas de Coloridas Botellas de...'
 sku: 'B07W1SPNKW-es'
-tags: [ 'ginebra', ]
 actualPrice: 16.27 EUR
 currency: EUR
 price: 16.27

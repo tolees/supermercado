@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087QNGQ2L-es Dani - Hígado de bacalao ahumado - Pack 5 x 120 gr.'
 sku: 'B087QNGQ2L-es'
-tags: [ 'bacalao', ]
 actualPrice: 12.42 EUR
 currency: EUR
 price: 12.42

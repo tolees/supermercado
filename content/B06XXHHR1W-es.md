@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XXHHR1W-es Babaria Acetona Pura Esmaltes y Geles Permanentes...'
 sku: 'B06XXHHR1W-es'
-tags: [ 'babaria', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

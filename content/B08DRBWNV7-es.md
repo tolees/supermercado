@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DRBWNV7-es SCOBUTY - Molde Hamburguesas Prensa Hamburguesas Burger...'
 sku: 'B08DRBWNV7-es'
-tags: [ 'hamburguesa','scobuty', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

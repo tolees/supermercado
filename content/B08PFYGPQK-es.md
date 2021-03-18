@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PFYGPQK-es Haofy - Tenedor de clip de té con aislamiento térmico para...'
 sku: 'B08PFYGPQK-es'
-tags: [ 'café', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

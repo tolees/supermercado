@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073H72MHV-es Finish Quantum Regular Pastillas para Lavavajillas - 16 +...'
 sku: 'B073H72MHV-es'
-tags: [ 'finish', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

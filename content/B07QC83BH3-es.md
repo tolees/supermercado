@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QC83BH3-es Torres - Pago del Cielo Celeste Reserva Vino Tinto 75 cl -...'
 sku: 'B07QC83BH3-es'
-tags: [ 'vino','tinto', ]
 actualPrice: 23.74 EUR
 currency: EUR
 price: 23.74

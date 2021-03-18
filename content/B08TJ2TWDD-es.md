@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TJ2TWDD-es N Naturly - Té Quemagrasas Potente Para Adelgazar fat...'
 sku: 'B08TJ2TWDD-es'
-tags: [ 'manzana', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

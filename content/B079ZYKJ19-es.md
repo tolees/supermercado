@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079ZYKJ19-es LITORAL Callos Madrileña - Plato Preparado Sin Gluten -...'
 sku: 'B079ZYKJ19-es'
-tags: [ 'litoral','plato','preparado','sin','gluten', ]
 actualPrice: 36.6 EUR
 currency: EUR
 price: 36.6

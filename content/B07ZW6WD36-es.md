@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZW6WD36-es Palmolive - Aceite de oliva Leche Jabón líquido 300 ml'
 sku: 'B07ZW6WD36-es'
-tags: [ 'jabón','palmolive','aceite','de','oliva', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

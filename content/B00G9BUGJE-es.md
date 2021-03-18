@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00G9BUGJE-es Marieta vino blanco Albariño D.O. Rías Baixas'
 sku: 'B00G9BUGJE-es'
-tags: [ 'vino','blanco', ]
 actualPrice: 6.94 EUR
 currency: EUR
 price: 6.94

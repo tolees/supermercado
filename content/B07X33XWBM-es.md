@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X33XWBM-es Mentos Chicle Sin Azúcar Pure Fresh Bote con Sabor a Menta...'
 sku: 'B07X33XWBM-es'
-tags: [ 'azúcar','mentos', ]
 actualPrice: None None
 currency: None
 price: None

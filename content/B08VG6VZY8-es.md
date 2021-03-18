@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VG6VZY8-es Flor Original Delicado Suavizante para la Ropa concentrado...'
 sku: 'B08VG6VZY8-es'
-tags: [ 'suavizante', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

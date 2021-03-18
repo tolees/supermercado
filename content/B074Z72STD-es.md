@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074Z72STD-es Roku Ginebra Artesanal Japonesa 43% - 700 ml'
 sku: 'B074Z72STD-es'
-tags: [ 'ginebra', ]
 actualPrice: 20.09 EUR
 currency: EUR
 price: 20.09

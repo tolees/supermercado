@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017A5HTGA-es Red Bull Bebida Energética - Paquete de 24 x 250 ml -...'
 sku: 'B017A5HTGA-es'
-tags: [ 'bebida','energética','red','bull', ]
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

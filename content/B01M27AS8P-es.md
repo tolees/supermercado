@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M27AS8P-es Artiach - Filipinos - Galleta Bañada con Chocolate Blanco...'
 sku: 'B01M27AS8P-es'
-tags: [ 'chocolate', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

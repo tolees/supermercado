@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZHPCTMC-es Nivea Men Pack Active Age Caja de Regalo Fluido Hidratante...'
 sku: 'B07ZHPCTMC-es'
-tags: [ 'nivea', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

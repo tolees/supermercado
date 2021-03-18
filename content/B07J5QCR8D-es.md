@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J5QCR8D-es Air Wick Eléctrico - Recambios de ambientador automático...'
 sku: 'B07J5QCR8D-es'
-tags: [ 'air','wick', ]
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

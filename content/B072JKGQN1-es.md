@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072JKGQN1-es Scotch-Brite Estropajo Laminado Universal Azul-No Raya 3...'
 sku: 'B072JKGQN1-es'
-tags: [ 'estropajo','scotch-brite', ]
 actualPrice: 1.16 EUR
 currency: EUR
 price: 1.16

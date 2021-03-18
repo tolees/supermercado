@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H26XTMQ-es USISA - Tejero - Conserva de Pescado | Caballa al Vapor -...'
 sku: 'B08H26XTMQ-es'
-tags: [ 'caballa','conserva', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

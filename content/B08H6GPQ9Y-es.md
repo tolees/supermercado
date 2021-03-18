@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H6GPQ9Y-es Glenfiddich Whisky escocés de malta 12 años estuche regalo...'
 sku: 'B08H6GPQ9Y-es'
-tags: [ 'whisky', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

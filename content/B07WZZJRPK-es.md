@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZZJRPK-es Ariete 615 - Máquina para hacer queso y yogur 2 litros 6...'
 sku: 'B07WZZJRPK-es'
-tags: [ 'queso','yogur', ]
 actualPrice: 65.23 EUR
 currency: EUR
 price: 65.23

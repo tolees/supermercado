@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QK31VZM-es Dulcesol Red Velvet - 175 gr'
 sku: 'B07QK31VZM-es'
-tags: [ 'dulcesol', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BMV97LH-es Red Bull Bebida Energética Acai Sin Azúcar - 12 latas de...'
 sku: 'B07BMV97LH-es'
-tags: [ 'azúcar','bebida','energética','red','bull', ]
 actualPrice: 13.92 EUR
 currency: EUR
 price: 13.92

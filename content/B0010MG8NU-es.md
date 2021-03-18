@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0010MG8NU-es Elizabeth Arden 5th Avenue Eau de Parfum 125 ml'
 sku: 'B0010MG8NU-es'
-tags: [ 'elizabeth','arden', ]
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

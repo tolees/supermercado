@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084ZNPJ8N-es GEMITTO Estanteria Ducha para Baño sin Taladros Rinconera...'
 sku: 'B084ZNPJ8N-es'
-tags: [ 'champú','gel','de','ducha', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

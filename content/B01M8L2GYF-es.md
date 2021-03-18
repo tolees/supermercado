@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M8L2GYF-es Gourmet - Café soluble - Tueste natural - 200 g - [Pack de 3]'
 sku: 'B01M8L2GYF-es'
-tags: [ 'café', ]
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

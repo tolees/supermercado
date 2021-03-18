@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CN7V4QK-es Yotown - Depilación Cera Depilación Cera Perlas - Cera...'
 sku: 'B07CN7V4QK-es'
-tags: [ 'frijoles','chocolate', ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

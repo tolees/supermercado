@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLXNNST-es Comida para gatos animonda Vom Feinsten Adult comida...'
 sku: 'B07JLXNNST-es'
-tags: [ 'Artículos para gatos','Comida húmeda para gatos','Comida para gatos','Productos para mascotas','animonda vom feinsten','pavo', ]
 actualPrice: 12.03 EUR
 currency: EUR
 price: 12.03

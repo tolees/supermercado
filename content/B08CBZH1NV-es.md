@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CBZH1NV-es GAMURRY - Tostadoras Tostadora Automática Simple tostadora...'
 sku: 'B08CBZH1NV-es'
-tags: [ 'pan','de','molde', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M1NND68-es Vileda Recambios para Mopa Attractiva Plus - 12 Unidades'
 sku: 'B01M1NND68-es'
-tags: [ 'vileda', ]
 actualPrice: 2.77 EUR
 currency: EUR
 price: 2.77

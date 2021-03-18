@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001TANDZ4-es Kerastase U-HC-5074 Specifique Champú cabello sensible...'
 sku: 'B001TANDZ4-es'
-tags: [ 'champú', ]
 actualPrice: 35.45 EUR
 currency: EUR
 price: 35.45

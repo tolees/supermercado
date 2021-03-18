@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IT85WB6-es Vicens Turrón Soufflé Duro Almendra Bañado con Chocolate...'
 sku: 'B01IT85WB6-es'
-tags: [ 'chocolate', ]
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

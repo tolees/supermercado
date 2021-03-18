@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J9VPZ5F-es Tejero - Conserva de pescado | Melva de Almadraba en...'
 sku: 'B07J9VPZ5F-es'
-tags: [ 'conserva','melva','aceite','de','oliva', ]
 actualPrice: 10.25 EUR
 currency: EUR
 price: 10.25

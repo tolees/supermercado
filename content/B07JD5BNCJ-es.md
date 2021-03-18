@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JD5BNCJ-es JamonOnline - Cesta de Navidad con Paleta 5J Lomo de...'
 sku: 'B07JD5BNCJ-es'
-tags: [ 'cesta','chorizo','de','jamononline','navidad', ]
 actualPrice: 295.0 EUR
 currency: EUR
 price: 295.0

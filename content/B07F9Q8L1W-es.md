@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F9Q8L1W-es Maybelline New York - Superstay Matte Ink City Edition...'
 sku: 'B07F9Q8L1W-es'
-tags: [ 'maybelline', ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

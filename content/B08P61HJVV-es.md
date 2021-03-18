@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P61HJVV-es Pernigotti Crema Cremino 350 G'
 sku: 'B08P61HJVV-es'
-tags: [ 'pernigotti', ]
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

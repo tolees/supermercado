@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P1HKH6T-es Cosumy - Set de 6 Tazas de Capuchino con Platos - 180ml -...'
 sku: 'B08P1HKH6T-es'
-tags: [ 'café', ]
 actualPrice: 26.59 EUR
 currency: EUR
 price: 26.59

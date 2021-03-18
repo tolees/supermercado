@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B0OB6HK-es Gillette Mach3 Maquinilla de Afeitar + 11 Cuchillas de...'
 sku: 'B01B0OB6HK-es'
-tags: [ 'gillette', ]
 actualPrice: 23.56 EUR
 currency: EUR
 price: 23.56

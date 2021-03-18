@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H98MKFT-es TiooDre - Dispensador de jabón 600/700 ml para baño de...'
 sku: 'B07H98MKFT-es'
-tags: [ 'jabón', ]
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00UCC8NJQ-es Neutrex Oxy Color Quitamanchas - 800 ml'
 sku: 'B00UCC8NJQ-es'
-tags: [ 'neutrex', ]
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

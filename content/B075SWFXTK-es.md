@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075SWFXTK-es MOUSSEL Agua Fresca de Colonia 240 ml'
 sku: 'B075SWFXTK-es'
-tags: [ 'moussel', ]
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

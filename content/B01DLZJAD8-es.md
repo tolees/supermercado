@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DLZJAD8-es Revlon Colorstay 24H Base de maquillaje para rostro para...'
 sku: 'B01DLZJAD8-es'
-tags: [ 'revlon', ]
 actualPrice: 5.06 EUR
 currency: EUR
 price: 5.06

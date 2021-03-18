@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089HJ4SQ5-es TRESemmé Champú Liso y Sedoso 6 x 855 ML'
 sku: 'B089HJ4SQ5-es'
-tags: [ 'champú','tresemmé', ]
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

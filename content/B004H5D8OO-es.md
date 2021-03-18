@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004H5D8OO-es Lip Smacker Lip Smacker Coca Cola Balm Classic 4Gr - 1 Unidad'
 sku: 'B004H5D8OO-es'
-tags: [ 'coca','cola','lip smacker', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

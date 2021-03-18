@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QW9FNZT-es 501 Brandy 30º Total: 1000 ml'
 sku: 'B07QW9FNZT-es'
-tags: [ 'brandy', ]
 actualPrice: None None
 currency: None
 price: None

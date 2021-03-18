@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAPA9PI-es Vidal Bananas Azúcar Golosina - 1500 gr'
 sku: 'B00XAPA9PI-es'
-tags: [ 'azúcar', ]
 actualPrice: 5.83 EUR
 currency: EUR
 price: 5.83

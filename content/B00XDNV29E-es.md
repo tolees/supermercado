@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XDNV29E-es Revlon Flex Champu clasico - 650 ml'
 sku: 'B00XDNV29E-es'
-tags: [ 'champu','revlon', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

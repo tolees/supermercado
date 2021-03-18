@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQ29CV7-es Monster - Green Bebida energética 500 ml Pack de 4 Lata'
 sku: 'B07CQ29CV7-es'
-tags: [ 'bebida','energética', ]
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

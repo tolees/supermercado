@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RDYG2QS-es COM-FOUR® 6x Vaso de té - Vaso con asa para té y café -...'
 sku: 'B08RDYG2QS-es'
-tags: [ 'café', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

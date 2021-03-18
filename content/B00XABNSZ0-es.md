@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XABNSZ0-es Foxy Seda - Papel higiénico con pH Neutro 6rollos Papel WC'
 sku: 'B00XABNSZ0-es'
-tags: [ 'foxy', ]
 actualPrice: 2.73 EUR
 currency: EUR
 price: 2.73

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000UVN3J4-es Dr. Oetker Herdbackblech ausziehbar Back-Idee Kreativ...'
 sku: 'B000UVN3J4-es'
-tags: [ 'dr.','oetker', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

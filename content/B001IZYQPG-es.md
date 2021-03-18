@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001IZYQPG-es Max Factor False Lash Effect Máscara Color Negro W.P. -...'
 sku: 'B001IZYQPG-es'
-tags: [ 'max','factor', ]
 actualPrice: 7.18 EUR
 currency: EUR
 price: 7.18

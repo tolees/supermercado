@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F5SLP8M-es Syoss - Acondicionador Hidratación+ - 6uds de 440Ml...'
 sku: 'B08F5SLP8M-es'
-tags: [ 'acondicionador', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

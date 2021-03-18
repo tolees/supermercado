@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FUL6GX8-es Yosoy - Bebida de Arroz con Coco - Caja de 6 x 1L'
 sku: 'B01FUL6GX8-es'
-tags: [ 'arroz','yosoy', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

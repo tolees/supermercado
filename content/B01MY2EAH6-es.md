@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MY2EAH6-es Lavazza A Modo Mio Espresso Divino Cápsulas Monodosis de...'
 sku: 'B01MY2EAH6-es'
-tags: [ 'café','lavazza', ]
 actualPrice: None None
 currency: None
 price: None

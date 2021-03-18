@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J6BRGDT-es NIVEA MEN Active Clean - Champú de ducha para hombre 6 x...'
 sku: 'B07J6BRGDT-es'
-tags: [ 'nivea','champú','gel','de','ducha', ]
 actualPrice: 20.33 EUR
 currency: EUR
 price: 20.33

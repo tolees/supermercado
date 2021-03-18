@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IUD4LXK-es Conservas Dantza Alcachofa - 660 gr'
 sku: 'B01IUD4LXK-es'
-tags: [ 'alcachofa','conservas', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

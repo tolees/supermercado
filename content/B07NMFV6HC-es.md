@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NMFV6HC-es Pigmentos para Resina Epoxi DEWEL 10g*15 Colores Pigmentos...'
 sku: 'B07NMFV6HC-es'
-tags: [ 'jabon', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

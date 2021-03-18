@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FQK18S6-es Tong-Il 001200254 Complemento Alimenticio Cúrcuma 10.000...'
 sku: 'B07FQK18S6-es'
-tags: [ 'cúrcuma', ]
 actualPrice: 31.33 EUR
 currency: EUR
 price: 31.33

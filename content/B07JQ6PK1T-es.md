@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JQ6PK1T-es Mortlach 12 Whisky Escocés Single Malt - 700 ml'
 sku: 'B07JQ6PK1T-es'
-tags: [ 'whisky', ]
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

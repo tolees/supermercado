@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DN9HRME-es SoriaNatural - Soria Natural - MINCARTIL REFORZADO -...'
 sku: 'B00DN9HRME-es'
-tags: [ 'cúrcuma', ]
 actualPrice: 22.59 EUR
 currency: EUR
 price: 22.59

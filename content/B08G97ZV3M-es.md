@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G97ZV3M-es Garnier Bio Crema en Gel Multi-Reparadora con Aceite de...'
 sku: 'B08G97ZV3M-es'
-tags: [ 'garnier', ]
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

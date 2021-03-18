@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7RP61S-es Hero Platos Caseros Albóndigas en Salsa con Guisantes...'
 sku: 'B01K7RP61S-es'
-tags: [ 'guisantes','plato','preparado', ]
 actualPrice: None None
 currency: None
 price: None

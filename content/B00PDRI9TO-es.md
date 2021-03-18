@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PDRI9TO-es Scottex Megarollo Papel Higiénico - 9 Rollos'
 sku: 'B00PDRI9TO-es'
-tags: [ 'scottex', ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

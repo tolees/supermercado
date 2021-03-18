@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008BPTRNW-es Dove Desodorante Mini 8783464-1 unidad'
 sku: 'B008BPTRNW-es'
-tags: [ 'desodorante','dove', ]
 actualPrice: 7.43 EUR
 currency: EUR
 price: 7.43

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKHY2NN-es Sanytol - Gel de Manos Desinfectante Hidroalcohólico Sin...'
 sku: 'B08DKHY2NN-es'
-tags: [ 'hidroalcohólico','sanytol', ]
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

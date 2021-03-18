@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J4TBNQZ-es The Glenrothes 10 Años Single Malt Whisky Escoces 40% -...'
 sku: 'B07J4TBNQZ-es'
-tags: [ 'whisky', ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

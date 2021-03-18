@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074P2DH7K-es O Naturals Pastilla Jabón Orgánico Ecológico Natural...'
 sku: 'B074P2DH7K-es'
-tags: [ 'jabón', ]
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PFWG8LB-es Burro de Sancho Cerveza de Estilo Porter Ale - 24 Paquetes...'
 sku: 'B07PFWG8LB-es'
-tags: [ 'cerveza', ]
 actualPrice: 22.66 EUR
 currency: EUR
 price: 22.66

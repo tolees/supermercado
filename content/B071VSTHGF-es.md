@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071VSTHGF-es Vegetalia Jengibre seco en polvo - 80 gr.'
 sku: 'B071VSTHGF-es'
-tags: [ 'jengibre', ]
 actualPrice: 2.21 EUR
 currency: EUR
 price: 2.21

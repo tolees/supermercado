@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W27XHTT-es DJNGN Am-on-g U-s Im-po-stor Taza de café Sus Meme Am-on-g...'
 sku: 'B08W27XHTT-es'
-tags: [ 'café', ]
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

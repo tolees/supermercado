@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QC2QPS6-es Cycluck 60 Bolsas 30L Bolsa de Basura ecológica 100%...'
 sku: 'B07QC2QPS6-es'
-tags: [ 'maíz', ]
 actualPrice: None None
 currency: None
 price: None

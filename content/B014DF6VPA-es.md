@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014DF6VPA-es Dove Original Jabón en Pastilla para Piel Tersa y Suave...'
 sku: 'B014DF6VPA-es'
-tags: [ 'dove','jabón','crema','hidratante', ]
 actualPrice: 1.58 EUR
 currency: EUR
 price: 1.58

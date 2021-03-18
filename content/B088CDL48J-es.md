@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088CDL48J-es Dove Gel de ducha Aloe Vera - Pack de 12x750m'
 sku: 'B088CDL48J-es'
-tags: [ 'dove','gel','de','ducha', ]
 actualPrice: 31.3 EUR
 currency: EUR
 price: 31.3

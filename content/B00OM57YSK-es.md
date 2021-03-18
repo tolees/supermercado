@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OM57YSK-es Heineken Cerveza Barril - Paquete de 2 x 5L'
 sku: 'B00OM57YSK-es'
-tags: [ 'cerveza','heineken', ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

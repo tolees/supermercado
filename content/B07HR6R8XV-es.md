@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HR6R8XV-es Melitta 218967 filtro Filtro de café de porcelana tamaño...'
 sku: 'B07HR6R8XV-es'
-tags: [ 'café', ]
 actualPrice: 30.23 EUR
 currency: EUR
 price: 30.23
