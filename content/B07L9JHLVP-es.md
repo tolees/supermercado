@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9JHLVP-es Caja de Paternina Reserva D.O. Rioja Vino tinto - 6...'
 sku: 'B07L9JHLVP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','tinto','vino', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 31.82 EUR
 currency: EUR
 price: 31.82

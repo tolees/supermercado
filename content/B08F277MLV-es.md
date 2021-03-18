@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F277MLV-es NKare - Dispensador de Jabón automático de Pie 1L Sensor...'
 sku: 'B08F277MLV-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

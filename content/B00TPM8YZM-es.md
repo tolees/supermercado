@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TPM8YZM-es Sesderma Hidraderm Hyal Leche Corporal - 400 ml'
 sku: 'B00TPM8YZM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','sesderma', ]
+tags: [ 'sesderma', ]
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

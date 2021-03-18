@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Q78RYAS-es MENFORSAN Champú Perros Acondicionador - 300 ml'
 sku: 'B00Q78RYAS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador','champú', ]
+tags: [ 'acondicionador','champú', ]
 actualPrice: 4.92 EUR
 currency: EUR
 price: 4.92

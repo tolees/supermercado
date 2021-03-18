@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XJP7FVA-es NIVEA Gel Limpiador Refrescante al Agua - 150 ml'
 sku: 'B00XJP7FVA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 4.85 EUR
 currency: EUR
 price: 4.85

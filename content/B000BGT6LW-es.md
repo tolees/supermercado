@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000BGT6LW-es Barrio Sésamo - Peluche de Epi 28 cm [Versión en inglés]'
 sku: 'B000BGT6LW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','sésamo', ]
+tags: [ 'sésamo', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

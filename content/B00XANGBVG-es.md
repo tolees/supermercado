@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XANGBVG-es Signal Action Gel Fresco Dentífrico - 75 ml'
 sku: 'B00XANGBVG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dentífrico', ]
+tags: [ 'dentífrico', ]
 actualPrice: 1.18 EUR
 currency: EUR
 price: 1.18

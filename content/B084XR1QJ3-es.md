@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084XR1QJ3-es Ymea Silueta| Tratamiento de la Menopausia | Doble acción...'
 sku: 'B084XR1QJ3-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','soja', ]
+tags: [ 'soja', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

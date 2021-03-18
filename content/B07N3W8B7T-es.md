@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3W8B7T-es La Toja Selection - Bálsamo After Shave con sales...'
 sku: 'B07N3W8B7T-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','la','toja', ]
+tags: [ 'la','toja', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

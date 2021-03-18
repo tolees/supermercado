@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VV95JW-es Bionsan Harina de Trigo Sarraceno - 500 gr'
 sku: 'B082VV95JW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','harina','trigo', ]
+tags: [ 'harina','trigo', ]
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA4FEZ4-es Levadura Royal Bote 900g'
 sku: 'B00XA4FEZ4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','levadura', ]
+tags: [ 'levadura', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

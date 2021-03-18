@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCZM5ZR-es Bolsa de Lino con Cordón KATOOM 24pcs Bolsitas de Tela...'
 sku: 'B07XCZM5ZR-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar','café', ]
+tags: [ 'azúcar','café', ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

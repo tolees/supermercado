@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWVYYTZ-es Air Wick VIPoo Spray para el WC Limón - 55 ml'
 sku: 'B07TWVYYTZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: 3.48 EUR
 currency: EUR
 price: 3.48

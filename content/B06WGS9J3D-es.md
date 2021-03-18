@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WGS9J3D-es LITORAL Cocido Madrileño - Plato Preparado Sin Gluten -...'
 sku: 'B06WGS9J3D-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gluten','litoral','plato','preparado','sin', ]
+tags: [ 'gluten','litoral','plato','preparado','sin', ]
 actualPrice: 10.14 EUR
 currency: EUR
 price: 10.14

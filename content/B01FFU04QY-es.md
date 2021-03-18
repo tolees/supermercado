@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FFU04QY-es True Instinct Original - Pienso para Gato Adulto con Pollo...'
 sku: 'B01FFU04QY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arroz','integral', ]
+tags: [ 'arroz','integral', ]
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O4BAPVU-es Purina Cat Chow Esterilizado Gato Adulto Pollo 15 Kg'
 sku: 'B00O4BAPVU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','purina', ]
+tags: [ 'purina', ]
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

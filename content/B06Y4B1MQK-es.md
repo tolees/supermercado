@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y4B1MQK-es Happers Puff Pera Estampado para niño Camuflaje Verde...'
 sku: 'B06Y4B1MQK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','pera', ]
+tags: [ 'pera', ]
 actualPrice: 67.43 EUR
 currency: EUR
 price: 67.43

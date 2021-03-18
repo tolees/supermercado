@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R6MTZZT-es VIÑAS DEL VERO TINTO CABERNET-MERLOT ROBLE Vino tinto...'
 sku: 'B07R6MTZZT-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','tinto','vino', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 5.61 EUR
 currency: EUR
 price: 5.61

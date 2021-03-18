@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0043M4XWW-es Oral-B Pulsonic - Pack de 3 cabezales de recambio para...'
 sku: 'B0043M4XWW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

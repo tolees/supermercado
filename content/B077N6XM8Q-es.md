@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077N6XM8Q-es Maybelline Superstay de diafragma de 55 mate cartucho de...'
 sku: 'B077N6XM8Q-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

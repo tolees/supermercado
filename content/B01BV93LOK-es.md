@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BV93LOK-es Diadermine Lift + Tagescreme Súper relleno Paquete 1er 1 x...'
 sku: 'B01BV93LOK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','diadermine', ]
+tags: [ 'diadermine', ]
 actualPrice: 9.68 EUR
 currency: EUR
 price: 9.68

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0038ZWTD0-es Elizabeth Arden 5th Avenue Style Agua de perfume para...'
 sku: 'B0038ZWTD0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 20.77 EUR
 currency: EUR
 price: 20.77

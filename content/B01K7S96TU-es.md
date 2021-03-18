@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7S96TU-es Air Wick Ambientador Nenuco Freshmatic Max'
 sku: 'B01K7S96TU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

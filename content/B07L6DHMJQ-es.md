@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L6DHMJQ-es Dispensador automático de pasta de dientes y cepillo de...'
 sku: 'B07L6DHMJQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','de','dientes','pasta', ]
+tags: [ 'cepillo','de','dientes','pasta', ]
 actualPrice: 18.58 EUR
 currency: EUR
 price: 18.58

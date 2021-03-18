@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLTH84Y-es Old Spice Citron Antitranspirante y Desodorante en Barra...'
 sku: 'B07XLTH84Y-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

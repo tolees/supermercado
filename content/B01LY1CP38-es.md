@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY1CP38-es Nestlé Purés Pijama Tarrito de puré de verduras y carne...'
 sku: 'B01LY1CP38-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nestlé', ]
+tags: [ 'nestlé', ]
 actualPrice: None None
 currency: None
 price: None

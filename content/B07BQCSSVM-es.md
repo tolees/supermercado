@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQCSSVM-es Wella Cuidado del pelo y del cuero cabelludo - 1 unidad'
 sku: 'B07BQCSSVM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','wella', ]
+tags: [ 'wella', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

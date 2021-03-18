@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UMZT4XW-es MOLDE ESPELTA BLANCO BLAND BIO'
 sku: 'B00UMZT4XW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','espelta','molde', ]
+tags: [ 'espelta','molde', ]
 actualPrice: 4.71 EUR
 currency: EUR
 price: 4.71

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA6SSP0-es WiPP Express Detergente en Polvo - 80 Lavados 5 2 Kg'
 sku: 'B00XA6SSP0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 12.12 EUR
 currency: EUR
 price: 12.12

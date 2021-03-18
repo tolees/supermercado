@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BYWK3CP-es Garnier Original Remedies Elixir de Argán Mascarilla...'
 sku: 'B07BYWK3CP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','capilar','garnier','mascarilla', ]
+tags: [ 'capilar','garnier','mascarilla', ]
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

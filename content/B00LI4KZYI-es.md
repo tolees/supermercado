@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LI4KZYI-es Max Factor Mastertouch Concealer Corrector Tono 303-Ivory'
 sku: 'B00LI4KZYI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

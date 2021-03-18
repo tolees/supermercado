@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZA3CRBM-es Aussie Repair Miracle Champú su Fórmula Milagrosa Llena de...'
 sku: 'B00ZA3CRBM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú', ]
+tags: [ 'champú', ]
 actualPrice: 4.36 EUR
 currency: EUR
 price: 4.36

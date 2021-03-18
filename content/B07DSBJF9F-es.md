@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DSBJF9F-es L Oréal Paris Make-up designer Infalible 24H Fresh Wear...'
 sku: 'B07DSBJF9F-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 9.31 EUR
 currency: EUR
 price: 9.31

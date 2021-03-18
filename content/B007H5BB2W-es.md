@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007H5BB2W-es Ibili Bolsa para legumbres nailon 37 x 5 cm'
 sku: 'B007H5BB2W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','legumbres', ]
+tags: [ 'legumbres', ]
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

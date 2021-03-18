@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I2Y5RS0-es Astor Perfect Finish Powder Polvos Compactos Tono 102-56 gr'
 sku: 'B01I2Y5RS0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','finish', ]
+tags: [ 'finish', ]
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

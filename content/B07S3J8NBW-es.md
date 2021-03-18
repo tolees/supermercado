@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3J8NBW-es Finish Todo en 1 Max Limón Pastillas para Lavavajillas -...'
 sku: 'B07S3J8NBW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','finish', ]
+tags: [ 'finish', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X476DGT-es Mentos Chicle Sin Azúcar Full Fruit Bote con Sabor a...'
 sku: 'B07X476DGT-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar','mentos', ]
+tags: [ 'azúcar','mentos', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

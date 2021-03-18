@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPK1MPW-es Pop! Vinilo: Fairy Tail S3: Zeref'
 sku: 'B07KPK1MPW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fairy', ]
+tags: [ 'fairy', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

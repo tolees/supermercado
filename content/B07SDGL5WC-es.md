@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SDGL5WC-es Got2b - Perfume de cabello Ocean Vibe - 5 unidades de 75ml...'
 sku: 'B07SDGL5WC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 9.61 EUR
 currency: EUR
 price: 9.61

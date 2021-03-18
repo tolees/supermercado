@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HS1DFP0-es Instituto Español Poseidon Hombre Edición Indómito - Eau...'
 sku: 'B01HS1DFP0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','español','instituto', ]
+tags: [ 'español','instituto', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

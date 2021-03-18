@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B1FIA3G-es San Miguel Cerveza Sin Alcohol - Paquete de 24 x 250 ml -...'
 sku: 'B01B1FIA3G-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 10.26 EUR
 currency: EUR
 price: 10.26

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KRGTT08-es Nivea Cellular aufpolsternde Cuidado perlas 1er Pack 1 x...'
 sku: 'B01KRGTT08-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

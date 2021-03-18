@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M93JNL8-es NIVEA MEN Gel Hidratante Rostro y Barba Corta 1 x 50 ml...'
 sku: 'B07M93JNL8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

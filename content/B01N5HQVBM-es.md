@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5HQVBM-es Knorr Dso Thai - 69 g'
 sku: 'B01N5HQVBM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','knorr', ]
+tags: [ 'knorr', ]
 actualPrice: None None
 currency: None
 price: None

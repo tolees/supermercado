@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9FYY9Z-es COREGA Acción total tabletas limpiadoras prótesis dentales...'
 sku: 'B06X9FYY9Z-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','corega', ]
+tags: [ 'corega', ]
 actualPrice: 6.65 EUR
 currency: EUR
 price: 6.65

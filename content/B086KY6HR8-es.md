@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086KY6HR8-es 500 g de Gran Actividad instantánea de polvo seco de...'
 sku: 'B086KY6HR8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','levadura', ]
+tags: [ 'levadura', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

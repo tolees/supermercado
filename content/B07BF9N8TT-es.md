@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BF9N8TT-es Garnier Delial UV Water Spray Protector Solar Transparente...'
 sku: 'B07BF9N8TT-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

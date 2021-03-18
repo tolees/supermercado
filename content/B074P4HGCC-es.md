@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074P4HGCC-es Gliss - 2 Champús 400 ml + 1 Mascarilla Reparación Total...'
 sku: 'B074P4HGCC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

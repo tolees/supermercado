@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010UMO3V4-es Maybelline Barra de Labios Hidratante Mate Color...'
 sku: 'B010UMO3V4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 4.05 EUR
 currency: EUR
 price: 4.05

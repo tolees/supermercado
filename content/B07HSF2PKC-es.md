@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HSF2PKC-es Parodontax Extra Fresh - Pasta de dientes con flúor 75 ml...'
 sku: 'B07HSF2PKC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','dientes','parodontax','pasta', ]
+tags: [ 'de','dientes','parodontax','pasta', ]
 actualPrice: 13.02 EUR
 currency: EUR
 price: 13.02

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TPRRDW-es Puleva Leche Ecológica Semidesnatada - Paquete de 6 x 1000...'
 sku: 'B077TPRRDW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','puleva', ]
+tags: [ 'puleva', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

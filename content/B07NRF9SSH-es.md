@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRF9SSH-es Fa - Desodorante Roll-On Limones del Caribe - Anti...'
 sku: 'B07NRF9SSH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 4.65 EUR
 currency: EUR
 price: 4.65

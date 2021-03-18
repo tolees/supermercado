@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HQ7G94M-es Neutrogena Hydrogel Mascarilla Purificante 3 Recipientes...'
 sku: 'B07HQ7G94M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','neutrogena', ]
+tags: [ 'neutrogena', ]
 actualPrice: 13.71 EUR
 currency: EUR
 price: 13.71

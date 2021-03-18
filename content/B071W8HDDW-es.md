@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071W8HDDW-es L Oréal Expert Champú Protector de Cabellos Teñidos - 500 ml'
 sku: 'B071W8HDDW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú','oréal', ]
+tags: [ 'champú','oréal', ]
 actualPrice: 11.21 EUR
 currency: EUR
 price: 11.21

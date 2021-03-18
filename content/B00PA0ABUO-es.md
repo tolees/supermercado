@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PA0ABUO-es American Crew Cera Liquida Fijación Media y Brillo Medio...'
 sku: 'B00PA0ABUO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','american','crew', ]
+tags: [ 'american','crew', ]
 actualPrice: 6.87 EUR
 currency: EUR
 price: 6.87

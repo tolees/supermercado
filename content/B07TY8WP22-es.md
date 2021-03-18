@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TY8WP22-es L Oréal Paris Rouge Signature 203 I Magnetize Pintalabios...'
 sku: 'B07TY8WP22-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

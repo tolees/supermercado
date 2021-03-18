@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8V4GHB-es Purina Gourmet Perle Delicias en Salsa comida para gato...'
 sku: 'B07B8V4GHB-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','purina', ]
+tags: [ 'purina', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

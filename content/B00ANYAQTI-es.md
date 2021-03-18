@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ANYAQTI-es WELEDA Acondicionador Reparador con Avena 1x 200 ml'
 sku: 'B00ANYAQTI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

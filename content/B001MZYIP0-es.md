@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001MZYIP0-es EUKANUBA Raza Mediana Adulto Activo rico en pollo fresco...'
 sku: 'B001MZYIP0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','eukanuba', ]
+tags: [ 'eukanuba', ]
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

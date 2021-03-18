@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9VD4L4-es Palette Intense - Tono 7.5 Rubio Dorado Caramelo -...'
 sku: 'B00X9VD4L4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

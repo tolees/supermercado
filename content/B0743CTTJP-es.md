@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0743CTTJP-es Iberitos - 18 Monodosis de Queso Crema - 22 Gramos'
 sku: 'B0743CTTJP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','queso', ]
+tags: [ 'queso', ]
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

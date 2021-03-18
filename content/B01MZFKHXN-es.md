@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZFKHXN-es L Oreal Paris Colorista Fader - Champú Borrador del color...'
 sku: 'B01MZFKHXN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú', ]
+tags: [ 'champú', ]
 actualPrice: 0.25 EUR
 currency: EUR
 price: 0.25

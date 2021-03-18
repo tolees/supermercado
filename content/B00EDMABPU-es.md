@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EDMABPU-es Eco Bag Ecobag – Bolsas de Basura 50 Unidades Resistentes'
 sku: 'B00EDMABPU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','basura','bolsas','de', ]
+tags: [ 'basura','bolsas','de', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

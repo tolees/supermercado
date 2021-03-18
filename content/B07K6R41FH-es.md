@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6R41FH-es Keto Plus Actives AM 60 CAPS - Quemagrasas potente para...'
 sku: 'B07K6R41FH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','manzana','sidra','vinagre', ]
+tags: [ 'de','manzana','sidra','vinagre', ]
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

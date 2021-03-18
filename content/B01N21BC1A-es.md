@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N21BC1A-es Mineradora manual de la carne con hojas de acero fundido...'
 sku: 'B01N21BC1A-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','salchichas', ]
+tags: [ 'salchichas', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

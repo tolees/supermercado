@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QJ2JVW-es Moussel Classique Gel Moussant 900 Ml - 900 ml'
 sku: 'B076QJ2JVW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','moussel', ]
+tags: [ 'moussel', ]
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

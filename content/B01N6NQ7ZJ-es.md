@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6NQ7ZJ-es Magno - Gel de Ducha Black - Energizante con toque...'
 sku: 'B01N6NQ7ZJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','ducha','gel', ]
+tags: [ 'de','ducha','gel', ]
 actualPrice: 1.6 EUR
 currency: EUR
 price: 1.6

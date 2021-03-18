@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0758DDZYD-es Fairy Detergente para Lavavajillas 400 g'
 sku: 'B0758DDZYD-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','detergente','fairy', ]
+tags: [ 'detergente','fairy', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZG3SC1S-es Moussel Neceser Gel de Ducha Clásico'
 sku: 'B07ZG3SC1S-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','ducha','gel','moussel', ]
+tags: [ 'de','ducha','gel','moussel', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

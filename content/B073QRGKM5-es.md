@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QRGKM5-es Mimosin Concentrado Suavizante Azul Vital 89lav x 8botellas'
 sku: 'B073QRGKM5-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','mimosin','suavizante', ]
+tags: [ 'mimosin','suavizante', ]
 actualPrice: 26.32 EUR
 currency: EUR
 price: 26.32

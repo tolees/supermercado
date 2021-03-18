@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WXLJT64-es Note D Espresso Cápsulas de Café de Guatemala - 96...'
 sku: 'B07WXLJT64-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','cápsulas','de','dolce','gusto', ]
+tags: [ 'café','cápsulas','de','dolce','gusto', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

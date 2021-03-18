@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XSSLW4C-es Neutrogena Visibly Renew Loción Corporal Elasticidad...'
 sku: 'B06XSSLW4C-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','neutrogena', ]
+tags: [ 'neutrogena', ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

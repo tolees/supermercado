@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QRSGLK-es Mimosín Creaciones Flor de Lirio y Lima Suavizante...'
 sku: 'B073QRSGLK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','suavizante', ]
+tags: [ 'suavizante', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

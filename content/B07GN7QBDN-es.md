@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GN7QBDN-es Automático Dispensador de Pasta de Dientes y Conjunto de...'
 sku: 'B07GN7QBDN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','dientes','pasta', ]
+tags: [ 'de','dientes','pasta', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

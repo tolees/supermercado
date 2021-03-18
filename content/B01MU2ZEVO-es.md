@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MU2ZEVO-es Calvé Salsa Cocktail - 225 ml'
 sku: 'B01MU2ZEVO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','calvé', ]
+tags: [ 'calvé', ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

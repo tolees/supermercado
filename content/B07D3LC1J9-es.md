@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D3LC1J9-es Sonew Base de jabón Natural Materias primas para jabón...'
 sku: 'B07D3LC1J9-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

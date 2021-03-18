@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HYFKFOA-es Syndicate 58/6 - Scotch Whisky 700 ml'
 sku: 'B00HYFKFOA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 29.86 EUR
 currency: EUR
 price: 29.86

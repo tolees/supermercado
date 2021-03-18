@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U61VYOE-es Blume -Vino blanco verdejo botella 75 cl. paquete de 6...'
 sku: 'B00U61VYOE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','blanco','vino', ]
+tags: [ 'blanco','vino', ]
 actualPrice: 22.14 EUR
 currency: EUR
 price: 22.14

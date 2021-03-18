@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0MNAG0-es SOLIS Tomate Frito Frasco Cristal - Tomate sin gluten -...'
 sku: 'B01M0MNAG0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gluten','sin','solis', ]
+tags: [ 'gluten','sin','solis', ]
 actualPrice: None None
 currency: None
 price: None

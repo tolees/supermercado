@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HCV239W-es Maybelline Lápiz de Ojos Efecto Tatuaje Tattoo Liner 940...'
 sku: 'B07HCV239W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

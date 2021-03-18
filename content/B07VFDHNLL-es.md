@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFDHNLL-es Air Wick - Ambientador aerosol esencia para casa con aroma...'
 sku: 'B07VFDHNLL-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

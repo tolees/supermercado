@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WD3WPYS-es Purina ONE Bifensis Pienso para gatos Esterilizados Salmón...'
 sku: 'B06WD3WPYS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','purina','trigo', ]
+tags: [ 'purina','trigo', ]
 actualPrice: 1.64 EUR
 currency: EUR
 price: 1.64

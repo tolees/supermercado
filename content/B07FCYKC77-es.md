@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FCYKC77-es 60g 0.13lb té negro hecho a mano de China Yunnan Dianhong...'
 sku: 'B07FCYKC77-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','conserva', ]
+tags: [ 'conserva', ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PROCS90-es ENATE Reserva Especial 2006 Cabernet Sauvignon y Merlot...'
 sku: 'B00PROCS90-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','tinto','vino', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

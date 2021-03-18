@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006H9CIV2-es Clinique 36567 - Gel de ducha'
 sku: 'B006H9CIV2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','ducha','gel', ]
+tags: [ 'de','ducha','gel', ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OX23EEK-es Adidas - Gel de ducha para hombre'
 sku: 'B00OX23EEK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','ducha','gel', ]
+tags: [ 'de','ducha','gel', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

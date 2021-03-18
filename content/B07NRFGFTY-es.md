@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRFGFTY-es Fa - Desodorante Roll-On Sport - Anti Transpirable y...'
 sku: 'B07NRFGFTY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

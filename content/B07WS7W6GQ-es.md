@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WS7W6GQ-es Note D Espresso - Cápsulas de capuchino instantáneo...'
 sku: 'B07WS7W6GQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dolce','gusto', ]
+tags: [ 'dolce','gusto', ]
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

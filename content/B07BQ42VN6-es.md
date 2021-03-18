@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQ42VN6-es Moussel - Gel Ducha Clasico 900 ml'
 sku: 'B07BQ42VN6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','moussel', ]
+tags: [ 'moussel', ]
 actualPrice: 2.55 EUR
 currency: EUR
 price: 2.55

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6TQJH1-es Max Factor Colour Elixir Lipstick Barra de labios Tono 70...'
 sku: 'B07V6TQJH1-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

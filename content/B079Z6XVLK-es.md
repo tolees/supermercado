@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079Z6XVLK-es VICTORY ENDURANCE NatureŽs Energy Bar Manzana 60g x 25...'
 sku: 'B079Z6XVLK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','manzana', ]
+tags: [ 'manzana', ]
 actualPrice: 27.84 EUR
 currency: EUR
 price: 27.84

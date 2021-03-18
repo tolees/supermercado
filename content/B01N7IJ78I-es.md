@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7IJ78I-es Air Wick Ambientador Eléctrico Recambio Duplo Delicias de...'
 sku: 'B01N7IJ78I-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: None None
 currency: None
 price: None
@@ -28,10 +28,10 @@ En este momento está [Air Wick Ambientador Eléctrico Recambio Duplo Delicias d
 
 🔎:
 
-- Formato de cada recambio: 19 ml, total ml del pack: 38 ml
+- Fragancia fresca y afrutada
+- Doble duración, hasta 150 días de frescor en
 - Recambio doble para ambientador eléctrico
 - Fragancia que cambia constantemente creando un ambiente más real y acogedor para tu hogar
-- Doble duración, hasta 150 días de frescor en
-- Fragancia fresca y afrutada
+- Formato de cada recambio: 19 ml, total ml del pack: 38 ml
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N7IJ78I/?tag=tolees-21)

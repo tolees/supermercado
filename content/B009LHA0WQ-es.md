@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009LHA0WQ-es Max Factor Translucent Professional Maquillaje en polvo...'
 sku: 'B009LHA0WQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9ZRBHN-es Twinzee Picadora de Carne Eléctrica 1500W Blanco - para...'
 sku: 'B07T9ZRBHN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','salchichas', ]
+tags: [ 'salchichas', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

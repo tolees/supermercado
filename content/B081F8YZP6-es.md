@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081F8YZP6-es The Glenrothes 18 años Single Malt Scotch Whisky 43% +...'
 sku: 'B081F8YZP6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 77.11 EUR
 currency: EUR
 price: 77.11

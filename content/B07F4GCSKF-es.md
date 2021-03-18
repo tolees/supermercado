@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F4GCSKF-es Maybelline New York - Superstay Matte Ink City Edition...'
 sku: 'B07F4GCSKF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

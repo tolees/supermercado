@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001V1RDXO-es Gum Cepillo de Dientes 40 unidades'
 sku: 'B001V1RDXO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 3.55 EUR
 currency: EUR
 price: 3.55

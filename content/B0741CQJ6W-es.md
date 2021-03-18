@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0741CQJ6W-es Haribo Ladrillo Classic - 2000 gr'
 sku: 'B0741CQJ6W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','haribo', ]
+tags: [ 'haribo', ]
 actualPrice: 6.81 EUR
 currency: EUR
 price: 6.81

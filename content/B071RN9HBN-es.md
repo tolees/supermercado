@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071RN9HBN-es Garnier Skin Active Gel Limpiador con Hoja de Té Verde -...'
 sku: 'B071RN9HBN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

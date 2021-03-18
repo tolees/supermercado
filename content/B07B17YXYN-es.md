@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B17YXYN-es Nestlé La Lechera Leche condensada entera - Lata de leche...'
 sku: 'B07B17YXYN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nestlé', ]
+tags: [ 'nestlé', ]
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

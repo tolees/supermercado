@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSBW5JH-es NIVEA MEN Cool Kick Roll-on en pack de 6 6 x 50 ml...'
 sku: 'B07GSBW5JH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante','nivea', ]
+tags: [ 'desodorante','nivea', ]
 actualPrice: 11.1 EUR
 currency: EUR
 price: 11.1

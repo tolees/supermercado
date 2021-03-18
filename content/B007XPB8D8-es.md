@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007XPB8D8-es Advance Adult Sterilized - Pienso para Gatos Adultos...'
 sku: 'B007XPB8D8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','pavo', ]
+tags: [ 'pavo', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

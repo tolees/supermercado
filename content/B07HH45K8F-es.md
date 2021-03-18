@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HH45K8F-es Milka Barrita grande de chocolate - 12 de 300 gr. Total...'
 sku: 'B07HH45K8F-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate','milka', ]
+tags: [ 'chocolate','milka', ]
 actualPrice: 17.07 EUR
 currency: EUR
 price: 17.07

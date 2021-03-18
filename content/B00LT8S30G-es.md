@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LT8S30G-es Revlon ColorStay Gel Envy Esmalte de Uñas de Larga...'
 sku: 'B00LT8S30G-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

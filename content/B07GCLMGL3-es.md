@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCLMGL3-es MVPOWER Bolsas de Basura de Jardín Set de 3pcs x 300L Gran...'
 sku: 'B07GCLMGL3-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','basura','bolsas','de', ]
+tags: [ 'basura','bolsas','de', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

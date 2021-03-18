@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GFPM86M-es Claire Evangeline: Conserva con valor los valores ancla'
 sku: 'B08GFPM86M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','conserva', ]
+tags: [ 'conserva', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

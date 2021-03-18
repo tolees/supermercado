@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004CYZ7ZI-es Fireball Whisky - 1 x 0.7 l'
 sku: 'B004CYZ7ZI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 10.66 EUR
 currency: EUR
 price: 10.66

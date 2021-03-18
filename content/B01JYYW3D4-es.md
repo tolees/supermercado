@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JYYW3D4-es Finish All in 1 Max Power Gel Limón Desengrasante...'
 sku: 'B01JYYW3D4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','detergente','finish', ]
+tags: [ 'detergente','finish', ]
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

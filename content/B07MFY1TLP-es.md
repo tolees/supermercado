@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFY1TLP-es Fairy Platinum Plus Cápsulas para Lavavajillas Elimina...'
 sku: 'B07MFY1TLP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fairy', ]
+tags: [ 'fairy', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0091DK1II-es Brandy Solera Reserva Jerez Carlos III Osborne 36º - 1...'
 sku: 'B0091DK1II-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','brandy', ]
+tags: [ 'brandy', ]
 actualPrice: 10.48 EUR
 currency: EUR
 price: 10.48

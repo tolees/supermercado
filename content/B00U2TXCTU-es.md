@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U2TXCTU-es Scotch-Brite Spray Limpiador para Vitrocerámica 500 ml'
 sku: 'B00U2TXCTU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','scotch-brite', ]
+tags: [ 'scotch-brite', ]
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

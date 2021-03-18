@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAARLFE-es Signal - Pasta de dientes Protección Anticaries - Flúor...'
 sku: 'B00XAARLFE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','dientes','pasta', ]
+tags: [ 'de','dientes','pasta', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

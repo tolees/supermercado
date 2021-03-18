@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003JUHAVU-es L Oréal Paris elnett de Luxe - haarspray dauerhaftes...'
 sku: 'B003JUHAVU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

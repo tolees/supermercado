@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MHHJJ3J-es Max Factor False Lash Effect Rise & Shine Black Máscara de...'
 sku: 'B07MHHJJ3J-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

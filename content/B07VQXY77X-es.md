@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQXY77X-es Tibek - Máquina de palomitas por aire caliente sin aceite...'
 sku: 'B07VQXY77X-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 34.26 EUR
 currency: EUR
 price: 34.26

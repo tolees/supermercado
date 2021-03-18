@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0051GCRA4-es Lotus Biscoff Surtido de galleta caramelizada 300 galletas...'
 sku: 'B0051GCRA4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','biscoff', ]
+tags: [ 'biscoff', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

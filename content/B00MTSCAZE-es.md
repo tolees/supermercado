@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MTSCAZE-es Max Factor 53045 Skin Luminizer Base de Maquillaje - 30 ml'
 sku: 'B00MTSCAZE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

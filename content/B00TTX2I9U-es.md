@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TTX2I9U-es Listerine - Enjuague Bucal Menta Fresca 500 ml'
 sku: 'B00TTX2I9U-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','listerine', ]
+tags: [ 'listerine', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

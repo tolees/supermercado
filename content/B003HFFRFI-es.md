@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003HFFRFI-es Elizabeth Arden Green Tea Lavender EDT Spray 100 ml 1-pack'
 sku: 'B003HFFRFI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

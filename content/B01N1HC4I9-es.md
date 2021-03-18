@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1HC4I9-es L Oréal Paris Colorista Coloración Permanente Colorista...'
 sku: 'B01N1HC4I9-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QC5TL1W-es La Toja Selection - Gel de Baño Esencia de Madera de Cedro...'
 sku: 'B07QC5TL1W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','la','toja', ]
+tags: [ 'la','toja', ]
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

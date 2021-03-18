@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FKL29D4-es Revlon Ultra HD Pintalabios Matte #650 Spark'
 sku: 'B01FKL29D4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 4.33 EUR
 currency: EUR
 price: 4.33

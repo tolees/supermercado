@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U87OJ5C-es Einhell - Hidrolimpiadora a alta presión TC-HP 1538 PC...'
 sku: 'B00U87OJ5C-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 117.92 EUR
 currency: EUR
 price: 117.92

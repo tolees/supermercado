@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZMYKQY-es LITORAL Hoy Legumbres Lentejas con su sofrito Plato...'
 sku: 'B01LZMYKQY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gluten','legumbres','lentejas','litoral','plato','preparado','sin', ]
+tags: [ 'gluten','legumbres','lentejas','litoral','plato','preparado','sin', ]
 actualPrice: 1.08 EUR
 currency: EUR
 price: 1.08

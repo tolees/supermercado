@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BN7XB0K-es NIVEA MEN Active Energy Bálsamo 2en1 Revitalizante 1 x 100...'
 sku: 'B00BN7XB0K-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65

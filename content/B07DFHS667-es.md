@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFHS667-es Kalokelvin Fregona Giratoria Juego de Fregona Cubo con...'
 sku: 'B07DFHS667-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fregona', ]
+tags: [ 'fregona', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

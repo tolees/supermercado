@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RQDN5KH-es Jiali Trigo plegable taza de viaje plegable creativo...'
 sku: 'B07RQDN5KH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','trigo', ]
+tags: [ 'trigo', ]
 actualPrice: 2.63 EUR
 currency: EUR
 price: 2.63

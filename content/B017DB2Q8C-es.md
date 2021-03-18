@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017DB2Q8C-es L Oréal Paris Infalible Gel Laca de Uñas Tono 042'
 sku: 'B017DB2Q8C-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

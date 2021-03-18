@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001B2N3QE-es Revlon ColorSilk Tinte de Cabello Permanente Tono #10 Negro'
 sku: 'B001B2N3QE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

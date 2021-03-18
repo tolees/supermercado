@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WPWMSY8-es Bolsa impermeable y reutilizable para la merienda comida...'
 sku: 'B07WPWMSY8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','frutos','secos', ]
+tags: [ 'frutos','secos', ]
 actualPrice: 15 EUR
 currency: EUR
 price: 15

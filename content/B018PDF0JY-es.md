@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018PDF0JY-es Olay Regenerist 3 Punto Antienvejecimiento Noche Crema...'
 sku: 'B018PDF0JY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','crema','hidratante', ]
+tags: [ 'crema','hidratante', ]
 actualPrice: 28.5 EUR
 currency: EUR
 price: 28.5

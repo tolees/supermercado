@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004GXH16S-es Maybelline Superstay 24h 150 Delicious Pink - barras de...'
 sku: 'B004GXH16S-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

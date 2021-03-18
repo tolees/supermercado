@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DWFIUDS-es Colgate Plax Rojo Enjuague - Pack de 4 x 500 ml'
 sku: 'B01DWFIUDS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','colgate', ]
+tags: [ 'colgate', ]
 actualPrice: 7.73 EUR
 currency: EUR
 price: 7.73

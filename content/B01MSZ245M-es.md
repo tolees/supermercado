@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSZ245M-es Chupa Chups Original Caramelo con Palo de Sabores Variados...'
 sku: 'B01MSZ245M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chupa','chups', ]
+tags: [ 'chupa','chups', ]
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

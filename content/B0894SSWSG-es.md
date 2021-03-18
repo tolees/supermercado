@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0894SSWSG-es SLANWIN Dispensador de Jabón Automático 300ml Ipx4...'
 sku: 'B0894SSWSG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MRKR5GI-es Yamazakura Whisky - 700 ml'
 sku: 'B01MRKR5GI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 42.1 EUR
 currency: EUR
 price: 42.1

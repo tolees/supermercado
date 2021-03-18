@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077C3GRM7-es Air Wick Spray V.I. Poo Perfume Anti Olor Fragrancia Lemon...'
 sku: 'B077C3GRM7-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

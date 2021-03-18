@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H4AAJS2-es Instituto Español - Desodorante Roll-On Piel Atópica 75 ml'
 sku: 'B00H4AAJS2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante','español','instituto', ]
+tags: [ 'desodorante','español','instituto', ]
 actualPrice: 2.62 EUR
 currency: EUR
 price: 2.62

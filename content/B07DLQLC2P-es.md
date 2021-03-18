@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLQLC2P-es GERUIKE Portarrollos De Cocina con Estante Portarrollos de...'
 sku: 'B07DLQLC2P-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cocina','de','papel', ]
+tags: [ 'cocina','de','papel', ]
 actualPrice: 19.88 EUR
 currency: EUR
 price: 19.88

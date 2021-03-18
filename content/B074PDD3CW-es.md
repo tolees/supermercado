@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PDD3CW-es Grohe 27473001 Euphoria 260 - Sistema de ducha con grifo...'
 sku: 'B074PDD3CW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','alcachofa', ]
+tags: [ 'alcachofa', ]
 actualPrice: 320.99 EUR
 currency: EUR
 price: 320.99

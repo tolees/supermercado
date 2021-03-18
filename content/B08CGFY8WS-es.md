@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CGFY8WS-es MENNYO Posavasos Originales Juego de 14 Posavasos de...'
 sku: 'B08CGFY8WS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

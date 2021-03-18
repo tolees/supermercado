@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JF3AUBC-es Embutidos Ezequiel Chorizo Picante Herradura 500 gramos'
 sku: 'B00JF3AUBC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chorizo', ]
+tags: [ 'chorizo', ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

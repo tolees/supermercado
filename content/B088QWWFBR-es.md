@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088QWWFBR-es Taiso Dispensador de jabón automático dispensadores de...'
 sku: 'B088QWWFBR-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

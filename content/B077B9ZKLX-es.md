@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077B9ZKLX-es 226ERS Isolate Protein Drink Proteina de Aislado de Suero...'
 sku: 'B077B9ZKLX-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 46.4 EUR
 currency: EUR
 price: 46.4

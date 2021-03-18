@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L98PSXU-es Mustela - Gel dermolimpiador lavante sin jabón cabello y...'
 sku: 'B01L98PSXU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

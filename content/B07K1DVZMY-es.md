@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1DVZMY-es La Toja Selection - Pack Regalo Mujer - Gel de Baño...'
 sku: 'B07K1DVZMY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','ducha','gel','la','toja', ]
+tags: [ 'de','ducha','gel','la','toja', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

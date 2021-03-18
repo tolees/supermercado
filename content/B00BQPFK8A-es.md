@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BQPFK8A-es Rimmel London Lasting Finish by Kate Barra De Labios Tono...'
 sku: 'B00BQPFK8A-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','finish', ]
+tags: [ 'finish', ]
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

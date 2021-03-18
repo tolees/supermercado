@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VTG7VK-es Johnson s Baby - Acondicionador No Más Tirones para Niños...'
 sku: 'B082VTG7VK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

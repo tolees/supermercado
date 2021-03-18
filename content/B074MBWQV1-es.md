@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MBWQV1-es Maybelline Barra de labios Superstay Matte Ink tono 25...'
 sku: 'B074MBWQV1-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

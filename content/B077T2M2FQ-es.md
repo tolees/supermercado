@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077T2M2FQ-es Maeloc Sidra Dulce Ecológica - Pack de 4 x 200 ml'
 sku: 'B077T2M2FQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maeloc', ]
+tags: [ 'maeloc', ]
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

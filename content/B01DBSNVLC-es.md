@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DBSNVLC-es Old El Paso - Barquitas 8 unidades 193g'
 sku: 'B01DBSNVLC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','el','old','paso', ]
+tags: [ 'el','old','paso', ]
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

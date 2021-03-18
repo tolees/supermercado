@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA7INU4-es Campos Conserva de Bonito del norte en escabeche...'
 sku: 'B00XA7INU4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','conserva','escabeche', ]
+tags: [ 'conserva','escabeche', ]
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

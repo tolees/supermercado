@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5LVCXH-es Garnier Delial Bruma Protectora Refrescante UV Water Alta...'
 sku: 'B07P5LVCXH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 9.44 EUR
 currency: EUR
 price: 9.44

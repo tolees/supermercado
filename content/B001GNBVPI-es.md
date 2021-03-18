@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001GNBVPI-es Max Factor Crème Puff Polvos Compactos Tono 005...'
 sku: 'B001GNBVPI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 7.54 EUR
 currency: EUR
 price: 7.54

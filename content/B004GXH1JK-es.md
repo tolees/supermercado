@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004GXH1JK-es Maybelline New York Barra de Labios Superstay 24H Larga...'
 sku: 'B004GXH1JK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVGYL91-es Fairy Taill & Glitter Fee 100 Unidades Mezcla Cristal...'
 sku: 'B07SVGYL91-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fairy', ]
+tags: [ 'fairy', ]
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

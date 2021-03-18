@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000OVS8EA-es L Oréal Paris Barra de Labios Color Riche 303'
 sku: 'B000OVS8EA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

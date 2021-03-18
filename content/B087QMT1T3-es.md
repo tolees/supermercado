@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087QMT1T3-es Dani - Cebolla escamas - Pack 12 x 40 gr.'
 sku: 'B087QMT1T3-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cebolla', ]
+tags: [ 'cebolla', ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

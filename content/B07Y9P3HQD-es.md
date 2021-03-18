@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y9P3HQD-es Haofy Calentador de Taza para Té Café Leche Calentador de...'
 sku: 'B07Y9P3HQD-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

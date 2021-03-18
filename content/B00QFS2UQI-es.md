@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QFS2UQI-es Earth Rated Tierra Nominal dispensador con biodegradables...'
 sku: 'B00QFS2UQI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','basura','bolsas','de', ]
+tags: [ 'basura','bolsas','de', ]
 actualPrice: 31.46 EUR
 currency: EUR
 price: 31.46

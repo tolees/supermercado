@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HQRQRP1-es Jacobs Aluminum Nespresso® * Vainas de café compatibles -...'
 sku: 'B07HQRQRP1-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 20.72 EUR
 currency: EUR
 price: 20.72

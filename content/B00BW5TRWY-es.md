@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BW5TRWY-es Schwarzkopf Professional Igora Royal 8-00 Tinte - 60 ml'
 sku: 'B00BW5TRWY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

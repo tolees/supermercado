@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NL7YML4-es Xiton Pintalabios natural del Aloe Vera Jalea 1 pieza...'
 sku: 'B07NL7YML4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','crema','hidratante', ]
+tags: [ 'crema','hidratante', ]
 actualPrice: 0.92 EUR
 currency: EUR
 price: 0.92

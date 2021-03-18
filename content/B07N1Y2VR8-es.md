@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1Y2VR8-es Auténtica Miel Ecológica con Ajo Negro ecológico |...'
 sku: 'B07N1Y2VR8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 11.61 EUR
 currency: EUR
 price: 11.61

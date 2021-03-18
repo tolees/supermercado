@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZQVCYZC-es TRESemmé Botanique Pack Champú + Protector y Rizador de...'
 sku: 'B07ZQVCYZC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú','tresemmé', ]
+tags: [ 'champú','tresemmé', ]
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

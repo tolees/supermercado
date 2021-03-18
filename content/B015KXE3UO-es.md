@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015KXE3UO-es Balvenie 12 Años Whisky - 1 botella'
 sku: 'B015KXE3UO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 41.18 EUR
 currency: EUR
 price: 41.18

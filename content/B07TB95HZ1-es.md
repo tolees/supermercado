@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TB95HZ1-es Puleva Nata Líquida Para Montar 1000 ml'
 sku: 'B07TB95HZ1-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','puleva', ]
+tags: [ 'puleva', ]
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

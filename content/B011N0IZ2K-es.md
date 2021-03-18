@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011N0IZ2K-es Dispensador de Pasta Dental de Niños Cepillo de Dientes...'
 sku: 'B011N0IZ2K-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

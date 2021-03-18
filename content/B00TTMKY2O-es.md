@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TTMKY2O-es Tampax Tampones Compak Regular - 22 unidades'
 sku: 'B00TTMKY2O-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','tampax', ]
+tags: [ 'tampax', ]
 actualPrice: 3.23 EUR
 currency: EUR
 price: 3.23

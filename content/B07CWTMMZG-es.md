@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CWTMMZG-es Font Vella Levité Agua Mineral con zumo de limón - Pack 12...'
 sku: 'B07CWTMMZG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','agua','de','font','mineral','vella','zumo', ]
+tags: [ 'agua','de','font','mineral','vella','zumo', ]
 actualPrice: 5.1 EUR
 currency: EUR
 price: 5.1

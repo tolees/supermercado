@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NXW2TSW-es La Parroquia de Veracruz - Bolsa Café Molido Tradicional...'
 sku: 'B07NXW2TSW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','chocolate', ]
+tags: [ 'café','chocolate', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

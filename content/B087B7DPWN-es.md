@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087B7DPWN-es Dispensador automático de jabón SEAAN-1000ML Rociador de...'
 sku: 'B087B7DPWN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 38.9 EUR
 currency: EUR
 price: 38.9

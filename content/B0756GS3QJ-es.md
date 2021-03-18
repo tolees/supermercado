@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756GS3QJ-es Vileda - Fregona microfibras y algodón'
 sku: 'B0756GS3QJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fregona','vileda', ]
+tags: [ 'fregona','vileda', ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

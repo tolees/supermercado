@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AO9C8BU-es Jabón potásico 750 ml. listo para usar'
 sku: 'B01AO9C8BU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

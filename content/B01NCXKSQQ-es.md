@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCXKSQQ-es Manteca de Karité Bio Hidratante Ecológica con Aceite de...'
 sku: 'B01NCXKSQQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','aceite','de','oliva', ]
+tags: [ 'aceite','de','oliva', ]
 actualPrice: 17.33 EUR
 currency: EUR
 price: 17.33

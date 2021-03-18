@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084N4FSL5-es AXE Bodyspray Desodorante Leather and Cookies 200 ml -...'
 sku: 'B084N4FSL5-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Desodorantes','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','axe','desodorante', ]
+tags: [ 'Baño e higiene personal','Belleza','Desodorantes','axe','desodorante', ]
 actualPrice: 25.02 EUR
 currency: EUR
 price: 25.02
@@ -28,10 +28,10 @@ Tienes [AXE Bodyspray Desodorante Leather and Cookies 200 ml - Pack de 6](https:
 
 ℹ️:
 
-- Cuero y cookies: dos ingredientes que chocan y que parece que no funcionen, pero que crean una fragancia
 - AXE Desodorante Bodyspray Leather & Cookies 200ml
-- Axe Leather & Cookies, no debería funcionar pero funciona
-- Mantente fresco por más tiempo
 - Una mezcla inesperada de cuero y cookies, con toques de mandarina, cardamomo y cuero
+- Cuero y cookies: dos ingredientes que chocan y que parece que no funcionen, pero que crean una fragancia
+- Mantente fresco por más tiempo
+- Axe Leather & Cookies, no debería funcionar pero funciona
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084N4FSL5/?tag=tolees-21)

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000W9FS2Y-es Revlon Pintalabios Lustrous Fire & Ice 720 4.2 gr'
 sku: 'B000W9FS2Y-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 2.65 EUR
 currency: EUR
 price: 2.65

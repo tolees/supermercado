@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IBG6XH4-es NUK 10750796 – detergente en espuma para biberón con...'
 sku: 'B00IBG6XH4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IUW3O84-es Lay s - Patatas Fritas al punto de sal 170 gr'
 sku: 'B01IUW3O84-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fritas','patatas', ]
+tags: [ 'fritas','patatas', ]
 actualPrice: 1.22 EUR
 currency: EUR
 price: 1.22

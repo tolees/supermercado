@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VLL5KH-es Garnier Fructis Acondicionador Adios Daños - 250 ml'
 sku: 'B073VLL5KH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador','garnier', ]
+tags: [ 'acondicionador','garnier', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

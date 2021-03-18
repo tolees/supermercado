@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L35MG3D-es WiPP Express Detergente Liquido 31 Dosis Paquete de 4...'
 sku: 'B07L35MG3D-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 29.13 EUR
 currency: EUR
 price: 29.13

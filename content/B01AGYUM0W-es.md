@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AGYUM0W-es Elizabeth Arden Flawless Start Base de Maquillaje 30 ml'
 sku: 'B01AGYUM0W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

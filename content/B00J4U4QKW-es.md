@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J4U4QKW-es Antipodes aguacate pera Nutritiva Crema de Noche 60 ml'
 sku: 'B00J4U4QKW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','pera', ]
+tags: [ 'pera', ]
 actualPrice: 33.05 EUR
 currency: EUR
 price: 33.05

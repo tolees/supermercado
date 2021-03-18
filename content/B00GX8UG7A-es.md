@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GX8UG7A-es Clarifex Gel y jabón - 50 ml'
 sku: 'B00GX8UG7A-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 23.06 EUR
 currency: EUR
 price: 23.06

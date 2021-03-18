@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018LT0LRS-es Oral-B 3D White 3+1 Cabezas de cepillo de dientes'
 sku: 'B018LT0LRS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

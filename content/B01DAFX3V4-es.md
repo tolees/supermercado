@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DAFX3V4-es Schwarzkopf Professional Osis Refresh Dust Bodyfying Dry...'
 sku: 'B01DAFX3V4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú','schwarzkopf', ]
+tags: [ 'champú','schwarzkopf', ]
 actualPrice: 12.73 EUR
 currency: EUR
 price: 12.73

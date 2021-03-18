@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FPELW1G-es Idea de regalo"especialidades de cerveza de Alemania" para...'
 sku: 'B01FPELW1G-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

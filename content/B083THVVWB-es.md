@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083THVVWB-es Mumiumius Taza de Dientes/Taza de Cepillo de Dientes...'
 sku: 'B083THVVWB-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','cepillo','de','dientes', ]
+tags: [ 'café','cepillo','de','dientes', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

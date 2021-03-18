@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ET9UNZO-es Señorio de los Llanos Gran Reserva - Vino Tinto D.O...'
 sku: 'B01ET9UNZO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','tinto','vino', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

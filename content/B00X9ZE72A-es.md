@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9ZE72A-es NIVEA SUN Protege & Hidrata Spray Solar FP30 1 x 300 ml...'
 sku: 'B00X9ZE72A-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

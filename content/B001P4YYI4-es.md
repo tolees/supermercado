@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001P4YYI4-es MONKEY SHOULDER Blended Whisky 70cl Bottle'
 sku: 'B001P4YYI4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

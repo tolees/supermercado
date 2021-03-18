@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DXLK3D8-es Abridor de tarros 4 en 1 manual 5 en 1 abrebotellas de...'
 sku: 'B07DXLK3D8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

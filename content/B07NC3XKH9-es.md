@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC3XKH9-es AXE Adrenaline Charge Up - Desodorante antitranspirante en...'
 sku: 'B07NC3XKH9-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','axe','desodorante', ]
+tags: [ 'axe','desodorante', ]
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

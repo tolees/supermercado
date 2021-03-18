@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QN7DR2K-es Love Beauty and Planet Gel de Ducha refrescante Agua de...'
 sku: 'B07QN7DR2K-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','ducha','gel', ]
+tags: [ 'de','ducha','gel', ]
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

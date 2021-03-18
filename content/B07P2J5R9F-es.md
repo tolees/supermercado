@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P2J5R9F-es Control Lub Chocolate - Gel lubricante sin azúcar ni...'
 sku: 'B07P2J5R9F-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar','chocolate', ]
+tags: [ 'azúcar','chocolate', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

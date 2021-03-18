@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0143RAOF6-es Matrix Total Results High Amplify Wonder Boost - Cuidado...'
 sku: 'B0143RAOF6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','capilar','cuidado', ]
+tags: [ 'capilar','cuidado', ]
 actualPrice: 7.28 EUR
 currency: EUR
 price: 7.28

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ9S8J7-es NIVEA Cellular Ampolla Ácido Hialurónico Concentrado:...'
 sku: 'B07MJ9S8J7-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 17.83 EUR
 currency: EUR
 price: 17.83

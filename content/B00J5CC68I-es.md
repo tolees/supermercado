@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J5CC68I-es The London Nº1 Ginebra - 1000 ml'
 sku: 'B00J5CC68I-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ginebra', ]
+tags: [ 'ginebra', ]
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

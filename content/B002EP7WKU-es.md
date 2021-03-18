@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002EP7WKU-es Bowmore 15Y Whisky Darkest Malt - 700ml'
 sku: 'B002EP7WKU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 42.1 EUR
 currency: EUR
 price: 42.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSFR8HP-es NIVEA MEN Protege & Cuida After Shave Bálsamo Hidratante...'
 sku: 'B07GSFR8HP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 22.14 EUR
 currency: EUR
 price: 22.14

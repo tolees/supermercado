@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5SZ2FR-es Sunburst Snacks Sunburst anacardos de miel y canela asadas...'
 sku: 'B07P5SZ2FR-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','canela', ]
+tags: [ 'canela', ]
 actualPrice: 24.59 EUR
 currency: EUR
 price: 24.59

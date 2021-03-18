@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NGK8VCA-es Sesderma Repaskin Fotoprotector Solar- 50 ML'
 sku: 'B00NGK8VCA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','sesderma', ]
+tags: [ 'sesderma', ]
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

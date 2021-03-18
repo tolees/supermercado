@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073H8YDNQ-es Air Wick Ambientador Freshmatic Completo Life Scents...'
 sku: 'B073H8YDNQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

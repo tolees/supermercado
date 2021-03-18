@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088BW1P1K-es Zeen Papel Xuan Pintura 35x25cm 30 Hojas Duradero Papel de...'
 sku: 'B088BW1P1K-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arroz', ]
+tags: [ 'arroz', ]
 actualPrice: 5.35 EUR
 currency: EUR
 price: 5.35

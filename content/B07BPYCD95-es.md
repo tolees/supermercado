@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BPYCD95-es ECOSUSI Maletín para Bolso Portatil Mujer Mujer Mochila...'
 sku: 'B07BPYCD95-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

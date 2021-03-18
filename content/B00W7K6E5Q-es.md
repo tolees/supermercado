@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W7K6E5Q-es Scitec Nutrition Proteína De Suero Professional con Sabor...'
 sku: 'B00W7K6E5Q-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

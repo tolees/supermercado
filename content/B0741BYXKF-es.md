@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0741BYXKF-es Haribo Ladrillo Helado - 1750 gr'
 sku: 'B0741BYXKF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','haribo', ]
+tags: [ 'haribo', ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

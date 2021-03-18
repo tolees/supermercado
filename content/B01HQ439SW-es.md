@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HQ439SW-es Bolero Bebida Instantánea sin Azúcar Sabor Frambuesa -...'
 sku: 'B01HQ439SW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

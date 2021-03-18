@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VMVPKX-es Maybelline New York - Lash Sensational Primer de Pestañas'
 sku: 'B073VMVPKX-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

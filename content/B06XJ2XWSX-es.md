@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XJ2XWSX-es FabQuality Cortador de Verduras Cortador + Pincel + Peeler...'
 sku: 'B06XJ2XWSX-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','zanahorias', ]
+tags: [ 'zanahorias', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

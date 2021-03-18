@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D6K47HT-es Crock-Pot CSC051X Olla Multicooker Express para todo tipo...'
 sku: 'B07D6K47HT-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','yogur', ]
+tags: [ 'yogur', ]
 actualPrice: 74.25 EUR
 currency: EUR
 price: 74.25

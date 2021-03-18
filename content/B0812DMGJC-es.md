@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0812DMGJC-es L Oréal Infalible 24 H Matte Cover Base De Maquillaje Alta...'
 sku: 'B0812DMGJC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

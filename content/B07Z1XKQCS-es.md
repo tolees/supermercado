@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z1XKQCS-es DingGreat Kit Accesorios de Recambio para Cecotec Robot...'
 sku: 'B07Z1XKQCS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fregona', ]
+tags: [ 'fregona', ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

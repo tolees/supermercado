@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U2R9MW8-es FINISH - Detergente Maquina Vajillas Finish 30 Past'
 sku: 'B00U2R9MW8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','detergente','finish', ]
+tags: [ 'detergente','finish', ]
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

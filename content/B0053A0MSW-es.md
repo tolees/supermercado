@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0053A0MSW-es Anti Manchas Cara Anti Manchas Piel Crema blanqueadora...'
 sku: 'B0053A0MSW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','crema','hidratante', ]
+tags: [ 'crema','hidratante', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

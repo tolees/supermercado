@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Q6FM6GY-es VAHDAM Hojas de Té Chai Masala de la India 100 Tazas |...'
 sku: 'B00Q6FM6GY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','canela', ]
+tags: [ 'canela', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

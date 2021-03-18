@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QK6HK6V-es L Oréal Paris Age Perfect Nutrición Intensa - Crema Rica...'
 sku: 'B07QK6HK6V-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

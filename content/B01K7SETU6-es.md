@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7SETU6-es Pantene Pro-V Perfect Volume Espuma Ligera Nivel de...'
 sku: 'B01K7SETU6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','pantene', ]
+tags: [ 'pantene', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

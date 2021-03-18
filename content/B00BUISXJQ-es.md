@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BUISXJQ-es Nioxin Sistema 6 Acondicionador - 300 ml.'
 sku: 'B00BUISXJQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 11 EUR
 currency: EUR
 price: 11

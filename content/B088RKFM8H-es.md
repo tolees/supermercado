@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088RKFM8H-es Dispensador Automático de Jabón o hidroalcoholico Sensor...'
 sku: 'B088RKFM8H-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

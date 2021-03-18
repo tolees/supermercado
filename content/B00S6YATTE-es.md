@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S6YATTE-es Max Factor Eye Luminizer Miracle Base de Maquillaje Tono 3...'
 sku: 'B00S6YATTE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

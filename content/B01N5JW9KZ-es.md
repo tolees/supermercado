@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5JW9KZ-es Relaxdays Dispensador Jabón Cuadrado Bambú Marrón 18 x 6 5...'
 sku: 'B01N5JW9KZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

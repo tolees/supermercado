@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYW8FTO-es Coca-Cola Light Lata - 330 ml Pack de 24'
 sku: 'B01LYW8FTO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','coca-cola', ]
+tags: [ 'coca-cola', ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

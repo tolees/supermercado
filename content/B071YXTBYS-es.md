@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YXTBYS-es Purina Gourmet Crystal Soup comida para gatos con Pollo...'
 sku: 'B071YXTBYS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','purina', ]
+tags: [ 'purina', ]
 actualPrice: 23.04 EUR
 currency: EUR
 price: 23.04

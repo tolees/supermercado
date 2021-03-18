@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MDP3HTC-es Okey - Batido Chocolate Botella 750 ml - Pack de 6'
 sku: 'B01MDP3HTC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 6 EUR
 currency: EUR
 price: 6

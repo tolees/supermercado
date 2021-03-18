@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071W56BJR-es Premium Whisky Stones Gift Set de Amerigo- ¿Aguar tu...'
 sku: 'B071W56BJR-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

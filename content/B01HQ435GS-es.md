@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HQ435GS-es Bolero Bebida Instantánea sin Azúcar Sabor Mango - Paquete...'
 sku: 'B01HQ435GS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

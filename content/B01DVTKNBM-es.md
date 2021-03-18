@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DVTKNBM-es Weider Protein Pancake Mix Vainilla. Tortitas de harina de...'
 sku: 'B01DVTKNBM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','harina', ]
+tags: [ 'harina', ]
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

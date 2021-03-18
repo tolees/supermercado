@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R68KJSZ-es Cabezal de Recambio para Oral-B Cepillo de Dientes...'
 sku: 'B07R68KJSZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

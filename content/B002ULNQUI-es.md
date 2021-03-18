@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002ULNQUI-es Borotalco Original Desodorante de Roll-On - 50 ml'
 sku: 'B002ULNQUI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

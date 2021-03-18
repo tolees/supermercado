@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F63SBTI-es Chloe 22812 - Desodorante 100 ml'
 sku: 'B00F63SBTI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

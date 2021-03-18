@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006USGEOC-es Listerine Enjuague Bucal - 500 ml'
 sku: 'B006USGEOC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','listerine', ]
+tags: [ 'listerine', ]
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LTIQMQ2-es Pantene Pro-V champú Suave y Liso para cabellos...'
 sku: 'B01LTIQMQ2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú','pantene', ]
+tags: [ 'champú','pantene', ]
 actualPrice: 3.93 EUR
 currency: EUR
 price: 3.93

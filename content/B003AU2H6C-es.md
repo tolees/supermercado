@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003AU2H6C-es Sebastian Volupt Acondicionador - 250 ml'
 sku: 'B003AU2H6C-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

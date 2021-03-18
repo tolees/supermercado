@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9TN4GQ-es Garnier Delial Aceite Bronceador Intenso Nutritivo...'
 sku: 'B00X9TN4GQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 4.25 EUR
 currency: EUR
 price: 4.25

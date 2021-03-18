@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F1XK8WD-es Mascarilla de Pelo Morado-Matizador para Cabello Rubio y...'
 sku: 'B07F1XK8WD-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

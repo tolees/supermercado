@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003YFHYY8-es Bosch TKA8653 - Máquina de café 1100 W capacidad para 8/12...'
 sku: 'B003YFHYY8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 32.88 EUR
 currency: EUR
 price: 32.88

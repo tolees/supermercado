@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CD2P9TK-es N/a - Nescafe dolce gusto marrakesh style tea pack of 3 by na'
 sku: 'B00CD2P9TK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dolce','gusto', ]
+tags: [ 'dolce','gusto', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

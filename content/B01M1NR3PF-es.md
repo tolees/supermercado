@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M1NR3PF-es Reserva Yzaguirre Vermouth Rojo - 1 l'
 sku: 'B01M1NR3PF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','vermouth', ]
+tags: [ 'vermouth', ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DBSDD5S-es Glucosamina Complex con Condroitina MSM Boswellia y...'
 sku: 'B07DBSDD5S-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gluten','sin', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

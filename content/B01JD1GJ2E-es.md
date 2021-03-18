@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JD1GJ2E-es HOMBRE SIN CIERRES ELEGANTE Formal Zapatos - Café 44'
 sku: 'B01JD1GJ2E-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

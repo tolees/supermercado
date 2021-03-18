@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083Q32HRR-es Desodorante desodorante natural Perfume sólido...'
 sku: 'B083Q32HRR-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

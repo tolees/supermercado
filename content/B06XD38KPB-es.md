@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XD38KPB-es Garnier Delial Sensitive Advanced - Bruma Facial...'
 sku: 'B06XD38KPB-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GQCDLL-es Maybelline New York Dream Radiant Liquid - Base de...'
 sku: 'B078GQCDLL-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

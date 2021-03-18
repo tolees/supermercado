@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001KNVPXM-es Max Factor LipFinity Colour & Gloss Lip Gloss Pintalabios...'
 sku: 'B001KNVPXM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTSK2BB-es GOTOTO - Juego de fregona y fregona de Vapor Plana Cubo...'
 sku: 'B07TTSK2BB-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fregona', ]
+tags: [ 'fregona', ]
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

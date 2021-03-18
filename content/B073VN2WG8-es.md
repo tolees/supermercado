@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VN2WG8-es Mimosín - Intense Estallido de Pasión Suavizante...'
 sku: 'B073VN2WG8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','suavizante', ]
+tags: [ 'suavizante', ]
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

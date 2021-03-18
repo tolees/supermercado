@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJRYSTF-es LUCIFER S ROAST Espresso de KIQO de Italia - 1kg café...'
 sku: 'B07HJRYSTF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

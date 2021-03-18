@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074M9DZ4N-es Philips CA6903/10 Filtro de Agua Aquaclean para Máquinas...'
 sku: 'B074M9DZ4N-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

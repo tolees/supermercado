@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJ6YDRX-es Scottex Sensitive Aloe Vera Papel Higiénico Húmedo - 12...'
 sku: 'B07PJ6YDRX-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','scottex', ]
+tags: [ 'scottex', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

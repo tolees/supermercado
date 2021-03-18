@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQ9K7VQ-es E-MANIS Fundas para Sillas de Comedor 4 Piezas Sillas...'
 sku: 'B07NQ9K7VQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VK04A5K-es L Oréal Paris Mega Gloss Infalible 505 Never Let Me Go'
 sku: 'B00VK04A5K-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

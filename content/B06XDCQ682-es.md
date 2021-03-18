@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDCQ682-es Vileda 139460 Salvauñas - 2 Unidades'
 sku: 'B06XDCQ682-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','salvauñas','vileda', ]
+tags: [ 'salvauñas','vileda', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

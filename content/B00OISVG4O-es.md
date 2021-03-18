@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OISVG4O-es Pazo Das Bruxas Vino Blanco - 3 botellas de 75 cl Total:...'
 sku: 'B00OISVG4O-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','blanco','vino', ]
+tags: [ 'blanco','vino', ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

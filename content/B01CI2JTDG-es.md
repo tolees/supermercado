@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CI2JTDG-es Krups VB7008 5L Dispensador de cerveza de barril - Tirador...'
 sku: 'B01CI2JTDG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 230.61 EUR
 currency: EUR
 price: 230.61

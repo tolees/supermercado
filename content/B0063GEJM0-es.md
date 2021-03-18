@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0063GEJM0-es Listerine - Enjuague Bucal Mentol 1000 ml'
 sku: 'B0063GEJM0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','listerine', ]
+tags: [ 'listerine', ]
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

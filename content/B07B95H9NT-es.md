@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B95H9NT-es Purina Gourmet Gold Bocaditos en Salsa comida para gatos...'
 sku: 'B07B95H9NT-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','purina', ]
+tags: [ 'purina', ]
 actualPrice: 41.92 EUR
 currency: EUR
 price: 41.92

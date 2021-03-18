@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZXRRZS-es Mumiumius Exprimidor automático de Pasta de Dientes Baño...'
 sku: 'B083ZXRRZS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','dientes','pasta', ]
+tags: [ 'de','dientes','pasta', ]
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

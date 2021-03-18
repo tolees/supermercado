@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2JGTJV-es Max Factor Velvet Mattes Lipstick Tono 065 1 unidad 40 g'
 sku: 'B07V2JGTJV-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

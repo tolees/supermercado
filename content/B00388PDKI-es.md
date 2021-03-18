@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00388PDKI-es Advance Pienso para Gato Adulto con Pollo y Arroz - 3000 gr'
 sku: 'B00388PDKI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arroz', ]
+tags: [ 'arroz', ]
 actualPrice: 17.32 EUR
 currency: EUR
 price: 17.32

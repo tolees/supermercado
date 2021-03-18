@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0067JFIFA-es Rimmel London Lasting Finish Barra De Labios Tono 264...'
 sku: 'B0067JFIFA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','finish', ]
+tags: [ 'finish', ]
 actualPrice: 2.77 EUR
 currency: EUR
 price: 2.77

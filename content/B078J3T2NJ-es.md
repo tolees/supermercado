@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078J3T2NJ-es Maybelline New York Master Chrome - Polvos Iluminadores...'
 sku: 'B078J3T2NJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

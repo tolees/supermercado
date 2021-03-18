@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GFL8CKS-es Sangre de Toro Vino Tinto - 6 botellas de 75 cl Total:...'
 sku: 'B00GFL8CKS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','tinto','vino', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 23.94 EUR
 currency: EUR
 price: 23.94

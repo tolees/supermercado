@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868JWBKJ-es Dispensador Jabón Automático Dosificador Gel...'
 sku: 'B0868JWBKJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','hidroalcohólico','jabón', ]
+tags: [ 'hidroalcohólico','jabón', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074JF32NW-es Air Wick Essential Mist - Aparato y recambio de...'
 sku: 'B074JF32NW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

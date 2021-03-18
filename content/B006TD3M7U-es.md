@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006TD3M7U-es Garnier Niños Sensitive Advanced - Protector Solar para...'
 sku: 'B006TD3M7U-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

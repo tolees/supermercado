@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDVQ2SM-es NIVEA SUN Protege & Refresca Spray Bruma Solar FP50 1 x...'
 sku: 'B00XDVQ2SM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

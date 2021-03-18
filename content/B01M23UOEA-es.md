@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M23UOEA-es Max Factor False Lash Effect Epic Máscara de Pestañas Tono...'
 sku: 'B01M23UOEA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 5.74 EUR
 currency: EUR
 price: 5.74

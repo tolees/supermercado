@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FPRM926-es TAC - Juego de 2 paños de cocina absorbentes 100% algodón...'
 sku: 'B07FPRM926-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','magdalena', ]
+tags: [ 'magdalena', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

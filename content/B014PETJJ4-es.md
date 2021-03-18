@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014PETJJ4-es L Oréal Expert Pro Fiber Rectify Leave-In-Rectify -...'
 sku: 'B014PETJJ4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','capilar','cuidado','oréal', ]
+tags: [ 'capilar','cuidado','oréal', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

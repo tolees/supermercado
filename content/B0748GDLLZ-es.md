@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0748GDLLZ-es Haribo Dragibus - 2000 gr'
 sku: 'B0748GDLLZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','haribo', ]
+tags: [ 'haribo', ]
 actualPrice: 5.82 EUR
 currency: EUR
 price: 5.82

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078LHP55S-es Maybelline New York - Color Sensational Pintalabios Mate...'
 sku: 'B078LHP55S-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

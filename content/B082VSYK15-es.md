@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VSYK15-es Haribo Favoritos Pica Caramelos de Goma - 275 gr'
 sku: 'B082VSYK15-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','haribo', ]
+tags: [ 'haribo', ]
 actualPrice: 1.65 EUR
 currency: EUR
 price: 1.65

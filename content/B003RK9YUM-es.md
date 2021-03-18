@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003RK9YUM-es Martín Códax - Vino Blanco 75 cl'
 sku: 'B003RK9YUM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','blanco','vino', ]
+tags: [ 'blanco','vino', ]
 actualPrice: 10.06 EUR
 currency: EUR
 price: 10.06

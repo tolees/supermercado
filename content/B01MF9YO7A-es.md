@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MF9YO7A-es Knorr - Sopa Pollo Fideos 63 g - [Pack de 19]'
 sku: 'B01MF9YO7A-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','knorr', ]
+tags: [ 'knorr', ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

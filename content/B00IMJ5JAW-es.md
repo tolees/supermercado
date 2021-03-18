@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IMJ5JAW-es Elizabeth Arden Green Tea Honey Drops Body Crema - 500 ml'
 sku: 'B00IMJ5JAW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 23.78 EUR
 currency: EUR
 price: 23.78

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8Z5QZW-es WERNNSAI Juego Tema Decoración de Fiesta - Set de Party...'
 sku: 'B07M8Z5QZW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','servilletas', ]
+tags: [ 'servilletas', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

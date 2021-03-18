@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y2B5XT2-es Cidacos Extra Alubias Enlatadas - 570 g'
 sku: 'B06Y2B5XT2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cidacos', ]
+tags: [ 'cidacos', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

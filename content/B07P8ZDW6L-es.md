@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P8ZDW6L-es Dove Loción Coporal Té Matcha - Pack de 3 x 400 ml Total:...'
 sku: 'B07P8ZDW6L-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dove', ]
+tags: [ 'dove', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

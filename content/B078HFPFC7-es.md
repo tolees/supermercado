@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HFPFC7-es Sisbelt Forte Complemento Alimenticio con Berenjena y...'
 sku: 'B078HFPFC7-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','alcachofa', ]
+tags: [ 'alcachofa', ]
 actualPrice: 17.68 EUR
 currency: EUR
 price: 17.68

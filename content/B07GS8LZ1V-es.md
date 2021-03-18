@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GS8LZ1V-es Max Factor LipFinity Velvet Matte Pintalabios Tono 055...'
 sku: 'B07GS8LZ1V-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RB4JGCM-es Bombilla de maíz de cerámica lámpara de ahorro de energía...'
 sku: 'B07RB4JGCM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maíz', ]
+tags: [ 'maíz', ]
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

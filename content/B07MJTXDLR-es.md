@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJTXDLR-es Caffè Borbone DGBBLU6X15N Cápsulas de café - 90 cápsulas'
 sku: 'B07MJTXDLR-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','cápsulas','de', ]
+tags: [ 'café','cápsulas','de', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ERVW2SU-es Braun Oral-B Stages Power Kids Batería de Cepillo de...'
 sku: 'B01ERVW2SU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 7.52 EUR
 currency: EUR
 price: 7.52

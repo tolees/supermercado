@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001E97CHK-es Colgate 360 Cepillo de dientes Suave limpiador de lengua y...'
 sku: 'B001E97CHK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','colgate','de','dientes', ]
+tags: [ 'cepillo','colgate','de','dientes', ]
 actualPrice: 3.3 EUR
 currency: EUR
 price: 3.3

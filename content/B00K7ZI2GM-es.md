@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K7ZI2GM-es L Oréal Paris Accord Parfait La Poudre D7 Rubor en Polvo -...'
 sku: 'B00K7ZI2GM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 9.76 EUR
 currency: EUR
 price: 9.76

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXLFA76-es Cruzcampo Cerveza - Paquete de 24 x 250 ml - Total: 6000 ml'
 sku: 'B01LXLFA76-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cerveza','cruzcampo', ]
+tags: [ 'cerveza','cruzcampo', ]
 actualPrice: 2.07 EUR
 currency: EUR
 price: 2.07

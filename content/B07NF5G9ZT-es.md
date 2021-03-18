@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NF5G9ZT-es Barritas Proteicas 100% Naturales de Avicenna | Sin Soja |...'
 sku: 'B07NF5G9ZT-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate','gluten','sin','soja', ]
+tags: [ 'chocolate','gluten','sin','soja', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

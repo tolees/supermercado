@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B876SPO-es Gillette Mach3 Turbo Maquinilla de Afeitar'
 sku: 'B01B876SPO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

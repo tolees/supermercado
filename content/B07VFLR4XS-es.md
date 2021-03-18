@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFLR4XS-es Optimum Nutrition Optimum Protein Shakes Vanilla Listo a...'
 sku: 'B07VFLR4XS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 18.65 EUR
 currency: EUR
 price: 18.65

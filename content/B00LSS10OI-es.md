@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LSS10OI-es Bolero Bebida Instantánea sin Azúcar Sabor Papaya -...'
 sku: 'B00LSS10OI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

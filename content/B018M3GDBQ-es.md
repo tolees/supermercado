@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018M3GDBQ-es Gillette Fusion ProShield Chill Recambios - 6 Unidades'
 sku: 'B018M3GDBQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

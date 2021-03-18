@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QZPMO-es La Masía Aceite de Oliva Sumum - 1 l'
 sku: 'B01K7QZPMO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','aceite','de','oliva', ]
+tags: [ 'aceite','de','oliva', ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

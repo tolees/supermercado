@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4LCTIY-es Elizabeth Arden Crema corporal - 400 ml.'
 sku: 'B01N4LCTIY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

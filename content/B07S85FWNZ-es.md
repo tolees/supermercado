@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S85FWNZ-es Café en Grano Natural 100% 1kg - Para Estar Despierto -...'
 sku: 'B07S85FWNZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

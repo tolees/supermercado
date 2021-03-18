@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXL14UT-es Brandy de Jerez Solera Gran Reserva Carlos I Imperial XO -...'
 sku: 'B01MXL14UT-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','brandy', ]
+tags: [ 'brandy', ]
 actualPrice: 36.4 EUR
 currency: EUR
 price: 36.4

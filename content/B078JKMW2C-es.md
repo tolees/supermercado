@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078JKMW2C-es Urterkam Champú - 500 ml.'
 sku: 'B078JKMW2C-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú', ]
+tags: [ 'champú', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

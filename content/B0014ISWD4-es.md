@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0014ISWD4-es Chloe 22811 - Gel de ducha 200 ml'
 sku: 'B0014ISWD4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','ducha','gel', ]
+tags: [ 'de','ducha','gel', ]
 actualPrice: 15.1 EUR
 currency: EUR
 price: 15.1

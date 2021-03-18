@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081F81QDV-es Jim Beam Doble Cask Whisky + Estuche 2 Vasos Digital - 700 ml'
 sku: 'B081F81QDV-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

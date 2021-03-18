@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YAK62PI-es VIAGGIO ESPRESSO - 60 Cápsulas de Café Compatibles con...'
 sku: 'B00YAK62PI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','cápsulas','de', ]
+tags: [ 'café','cápsulas','de', ]
 actualPrice: 17.7 EUR
 currency: EUR
 price: 17.7

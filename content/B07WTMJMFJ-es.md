@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WTMJMFJ-es VicTsing 150ml Difusor de Aromas Ultra Silencioso 21dB...'
 sku: 'B07WTMJMFJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cúrcuma', ]
+tags: [ 'cúrcuma', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

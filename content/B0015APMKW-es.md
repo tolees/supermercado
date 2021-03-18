@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0015APMKW-es Schwarzkopf Igora Royal Color and Care Developer 3 10 Vol...'
 sku: 'B0015APMKW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

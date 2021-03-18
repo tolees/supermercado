@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YZKF5S-es Purina Gourmet Gold Doble Placer - Comida para Gatos...'
 sku: 'B071YZKF5S-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','purina', ]
+tags: [ 'purina', ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

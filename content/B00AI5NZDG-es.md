@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AI5NZDG-es WELEDA Gel Dentífrico para Niños 1x 50 ml'
 sku: 'B00AI5NZDG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dentífrico', ]
+tags: [ 'dentífrico', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

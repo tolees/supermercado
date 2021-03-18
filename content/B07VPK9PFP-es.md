@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPK9PFP-es Ruavieja Licor de Hierbas - 1000 ml'
 sku: 'B07VPK9PFP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ruavieja', ]
+tags: [ 'ruavieja', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089HJ4SQ5-es TRESemmé Champú Liso y Sedoso 6 x 855 ML'
 sku: 'B089HJ4SQ5-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú','tresemmé', ]
+tags: [ 'champú','tresemmé', ]
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

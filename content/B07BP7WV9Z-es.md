@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BP7WV9Z-es Los Chicos del Maíz I-II-III Edición Digipack [Blu-ray]'
 sku: 'B07BP7WV9Z-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maíz', ]
+tags: [ 'maíz', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

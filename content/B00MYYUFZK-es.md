@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MYYUFZK-es Maybelline New York - Color Drama Pintalabios Tono 410'
 sku: 'B00MYYUFZK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

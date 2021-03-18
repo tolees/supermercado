@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JB4TT46-es NIVEA Pure Invisible Desodorante de ataques 6 paquetes de...'
 sku: 'B07JB4TT46-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante','nivea', ]
+tags: [ 'desodorante','nivea', ]
 actualPrice: 18.75 EUR
 currency: EUR
 price: 18.75

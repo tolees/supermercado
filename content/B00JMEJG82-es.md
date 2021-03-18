@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JMEJG82-es Pavo 8047222 Caja para llaves de alta seguridad capacidad...'
 sku: 'B00JMEJG82-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','pavo', ]
+tags: [ 'pavo', ]
 actualPrice: 58.23 EUR
 currency: EUR
 price: 58.23

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0722VTR2X-es Purina Dentalife Perro Grande [5 packs x 12 sticks]'
 sku: 'B0722VTR2X-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','purina', ]
+tags: [ 'purina', ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

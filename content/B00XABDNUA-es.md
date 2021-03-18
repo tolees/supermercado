@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XABDNUA-es HARIBO - Pasta Basta - Geles dulces con sabor a manzana -...'
 sku: 'B00XABDNUA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','haribo','manzana', ]
+tags: [ 'haribo','manzana', ]
 actualPrice: 8.42 EUR
 currency: EUR
 price: 8.42

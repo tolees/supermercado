@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GKVJ237-es China Yunnan Puer té Lotus Puerh Tuocha Pequeña hoja de...'
 sku: 'B07GKVJ237-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','conserva', ]
+tags: [ 'conserva', ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

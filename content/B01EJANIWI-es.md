@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EJANIWI-es Sesderma Kit Antibolsas - 30 gr'
 sku: 'B01EJANIWI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','sesderma', ]
+tags: [ 'sesderma', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

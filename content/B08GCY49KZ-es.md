@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GCY49KZ-es JARNING Fundas para Xiaomi Redmi 9C Cuero Flip Leather...'
 sku: 'B08GCY49KZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','melocotón', ]
+tags: [ 'melocotón', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

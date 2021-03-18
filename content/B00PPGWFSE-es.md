@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PPGWFSE-es Mavala Gel Finish Top Coat Tratamiento de Manicura con...'
 sku: 'B00PPGWFSE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','finish', ]
+tags: [ 'finish', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

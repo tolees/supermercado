@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F5OPRG2-es Muévete | Potente antiinflamatorio con acción analgésica |...'
 sku: 'B01F5OPRG2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cúrcuma', ]
+tags: [ 'cúrcuma', ]
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

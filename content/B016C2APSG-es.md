@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016C2APSG-es Maybelline New York - Lash Sensational Intense Black...'
 sku: 'B016C2APSG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

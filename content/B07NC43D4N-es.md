@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC43D4N-es AXE Desodorante Bodyspray Dark Temptation - Pack de 3 x...'
 sku: 'B07NC43D4N-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','axe','desodorante', ]
+tags: [ 'axe','desodorante', ]
 actualPrice: 8.57 EUR
 currency: EUR
 price: 8.57

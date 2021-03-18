@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA2IDOK-es Maizena Harina Fina de Maíz Espesante Caja 2 5 kilogramos...'
 sku: 'B00XA2IDOK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gluten','harina','maizena','maíz','sin', ]
+tags: [ 'gluten','harina','maizena','maíz','sin', ]
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

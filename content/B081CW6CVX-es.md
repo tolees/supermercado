@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CW6CVX-es Botanical Origin Suavizante para Ropa Ecológico Apto para...'
 sku: 'B081CW6CVX-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','suavizante', ]
+tags: [ 'suavizante', ]
 actualPrice: 20.6 EUR
 currency: EUR
 price: 20.6

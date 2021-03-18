@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AXJA008-es Revlon ColorStay Corrector 24h #030 Light Medium - 6.2ml'
 sku: 'B00AXJA008-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 3.55 EUR
 currency: EUR
 price: 3.55

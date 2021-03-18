@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W21TGVB-es Familybox Aceitera Botella Antigoteo 400ML Vinagre Botella...'
 sku: 'B07W21TGVB-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','aceite','de','oliva', ]
+tags: [ 'aceite','de','oliva', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

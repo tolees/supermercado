@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PY8SLKW-es Campos Conserva de atún claro en aceite de girasol - pack...'
 sku: 'B07PY8SLKW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','atún','claro','conserva','de', ]
+tags: [ 'atún','claro','conserva','de', ]
 actualPrice: 2.24 EUR
 currency: EUR
 price: 2.24

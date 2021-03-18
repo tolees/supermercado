@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SJS99K-es Wella Sp Perfect Hair - 150 ml'
 sku: 'B002SJS99K-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','wella', ]
+tags: [ 'wella', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

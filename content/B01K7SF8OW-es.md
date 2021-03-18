@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7SF8OW-es Pantene Pro-V Champú Anti-Caspa para Todo Tipo de Cabellos...'
 sku: 'B01K7SF8OW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú','pantene', ]
+tags: [ 'champú','pantene', ]
 actualPrice: 1.16 EUR
 currency: EUR
 price: 1.16

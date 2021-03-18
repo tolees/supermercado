@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BF4LROW-es Disfraz de Foxy de Five Nights at Freddy s'
 sku: 'B01BF4LROW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','foxy', ]
+tags: [ 'foxy', ]
 actualPrice: 25.65 EUR
 currency: EUR
 price: 25.65

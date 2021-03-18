@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6XTT36-es Vivesoy Frutos Secos sin Azúcar pack de 6 x 1L'
 sku: 'B07S6XTT36-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar','frutos','secos', ]
+tags: [ 'azúcar','frutos','secos', ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

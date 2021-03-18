@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008OUVLTC-es L Oréal Paris Excellence Creme Tinte Tono 9.3 Rubio Claro...'
 sku: 'B008OUVLTC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 4.87 EUR
 currency: EUR
 price: 4.87

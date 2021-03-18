@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074NG56HL-es Elizabeth Arden Flawless Finish Everyday Perfection Base...'
 sku: 'B074NG56HL-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arden','elizabeth','finish', ]
+tags: [ 'arden','elizabeth','finish', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

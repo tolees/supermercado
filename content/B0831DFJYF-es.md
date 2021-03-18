@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0831DFJYF-es Zuionk Creative Squeezing Automatic Dientes Herramienta de...'
 sku: 'B0831DFJYF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','de','dientes','pasta', ]
+tags: [ 'cepillo','de','dientes','pasta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

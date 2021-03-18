@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001L97KRU-es Babaria - Aloe Vera Balsamo Reparador 250 ml'
 sku: 'B001L97KRU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','babaria', ]
+tags: [ 'babaria', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

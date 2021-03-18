@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IGX4YOA-es Vasos para beber 4 PACK-11OZ Restaurante de color acrílico...'
 sku: 'B01IGX4YOA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','cerveza','whisky', ]
+tags: [ 'café','cerveza','whisky', ]
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

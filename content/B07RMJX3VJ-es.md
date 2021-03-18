@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RMJX3VJ-es G-Vine Ginebra G-Vine Peach - 700 ml'
 sku: 'B07RMJX3VJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ginebra', ]
+tags: [ 'ginebra', ]
 actualPrice: 32.09 EUR
 currency: EUR
 price: 32.09

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WS7TVDP-es Note D Espresso - Cápsulas de tisana de ciruela y canela...'
 sku: 'B07WS7TVDP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','canela', ]
+tags: [ 'canela', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

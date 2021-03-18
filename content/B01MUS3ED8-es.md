@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MUS3ED8-es Gliss - Acondicionador Express Fiber Therapy - Sin...'
 sku: 'B01MUS3ED8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador','schwarzkopf', ]
+tags: [ 'acondicionador','schwarzkopf', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

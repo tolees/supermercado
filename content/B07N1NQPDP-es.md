@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1NQPDP-es AH Kalkaire - Carbón activado de bambú Pasta de dientes...'
 sku: 'B07N1NQPDP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','dientes','pasta', ]
+tags: [ 'de','dientes','pasta', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

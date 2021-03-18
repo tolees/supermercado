@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWJQ3T8-es LOCCO - Gotas dulces con gusto a chocolate sin azúcar...'
 sku: 'B07VWJQ3T8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar','chocolate', ]
+tags: [ 'azúcar','chocolate', ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

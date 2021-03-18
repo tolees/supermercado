@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VMZM6C-es Maybelline New York Corrector Imperfecciones Master Camo...'
 sku: 'B073VMZM6C-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

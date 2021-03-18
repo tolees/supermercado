@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2R0R1T-es Nescafé Dolce Gusto - Chococino - 3 Paquetes de 16...'
 sku: 'B01N2R0R1T-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dolce','gusto','nescafé', ]
+tags: [ 'dolce','gusto','nescafé', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

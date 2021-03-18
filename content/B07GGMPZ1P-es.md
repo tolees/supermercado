@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GGMPZ1P-es Fairy Tail: Dragon Cry Movie 2 - Limited Steelcase Edition...'
 sku: 'B07GGMPZ1P-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fairy', ]
+tags: [ 'fairy', ]
 actualPrice: 41.71 EUR
 currency: EUR
 price: 41.71

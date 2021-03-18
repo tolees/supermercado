@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZYD5SG-es HABA- Juego de Mesa Guisantes Habermass H304278'
 sku: 'B07MZYD5SG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','guisantes', ]
+tags: [ 'guisantes', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000RNJQKK-es Hugo Boss 58000223 desodorante Hombres Desodorante en...'
 sku: 'B000RNJQKK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante','desodorantes', ]
+tags: [ 'desodorante','desodorantes', ]
 actualPrice: 22.69 EUR
 currency: EUR
 price: 22.69

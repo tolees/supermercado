@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRY5MHT-es Red Bull Bebida Energética Coco y Arándanos - 12 latas de...'
 sku: 'B07RRY5MHT-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','bebida','bull','energética','red', ]
+tags: [ 'bebida','bull','energética','red', ]
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

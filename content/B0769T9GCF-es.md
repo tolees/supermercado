@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0769T9GCF-es B Blesiya 48pcs Topper Vintage Cupcake Flor Fairy Cowboy...'
 sku: 'B0769T9GCF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fairy', ]
+tags: [ 'fairy', ]
 actualPrice: 12.33 EUR
 currency: EUR
 price: 12.33

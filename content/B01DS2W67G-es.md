@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DS2W67G-es Garnier Delial Niños Sensitive Advanced Spray Protector...'
 sku: 'B01DS2W67G-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

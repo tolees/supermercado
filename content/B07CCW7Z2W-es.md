@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CCW7Z2W-es Marca Amazon - Presto! Suavizante concentrado azul 360...'
 sku: 'B07CCW7Z2W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','presto!','suavizante', ]
+tags: [ 'presto!','suavizante', ]
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

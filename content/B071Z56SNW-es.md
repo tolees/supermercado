@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071Z56SNW-es Neutrogena - Hidratación profunda spray corporal express...'
 sku: 'B071Z56SNW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','neutrogena', ]
+tags: [ 'neutrogena', ]
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

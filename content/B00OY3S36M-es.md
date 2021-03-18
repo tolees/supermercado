@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OY3S36M-es Sancarlos Relleno Nórdico Mistral con Microgel Tacto Piel...'
 sku: 'B00OY3S36M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','melocotón', ]
+tags: [ 'melocotón', ]
 actualPrice: 39.38 EUR
 currency: EUR
 price: 39.38

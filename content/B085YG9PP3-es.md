@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085YG9PP3-es HR-International - 2 rollos de paño desechable para...'
 sku: 'B085YG9PP3-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cocina','de','papel', ]
+tags: [ 'cocina','de','papel', ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

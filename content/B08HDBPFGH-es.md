@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HDBPFGH-es PINZAS PARA JAMÓN EMBUTIDOS PESCADOS. IDEAL PARA FINAS...'
 sku: 'B08HDBPFGH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chorizo','jamón', ]
+tags: [ 'chorizo','jamón', ]
 actualPrice: 11.96 EUR
 currency: EUR
 price: 11.96

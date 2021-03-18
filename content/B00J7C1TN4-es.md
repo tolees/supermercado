@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J7C1TN4-es Schwarzkopf Professional Igora Royal Loción Activa Vol 20...'
 sku: 'B00J7C1TN4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HG3YXR8-es Tahe Fitoxil Forte Plus Tratamiento Anticaída del Cabello...'
 sku: 'B07HG3YXR8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','soja', ]
+tags: [ 'soja', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

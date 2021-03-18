@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G6STN8E-es Lote de Conservas Gourmet'
 sku: 'B01G6STN8E-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','conservas', ]
+tags: [ 'conservas', ]
 actualPrice: 31.4 EUR
 currency: EUR
 price: 31.4

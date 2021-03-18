@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CR3UBLK-es Café FORTALEZA - Café en Grano Mezcla 50/50 - 1 kg'
 sku: 'B01CR3UBLK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','fortaleza', ]
+tags: [ 'café','fortaleza', ]
 actualPrice: 10.34 EUR
 currency: EUR
 price: 10.34

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MUE8K60-es Mical Profesional Bolsas de Basura Gran tamaño 85 x 110 cm...'
 sku: 'B01MUE8K60-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','basura','bolsas','de', ]
+tags: [ 'basura','bolsas','de', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

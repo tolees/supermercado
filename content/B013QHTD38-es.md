@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013QHTD38-es Lámpara de techo de SUNSBELL®. Diseño Industrial estilo...'
 sku: 'B013QHTD38-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSW7QDZ-es Vileda - Salvauñas Vitroceramica Duplo - [Pack de 4]'
 sku: 'B01MSW7QDZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','salvauñas','vileda', ]
+tags: [ 'salvauñas','vileda', ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

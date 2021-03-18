@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXPKOF3-es Albo Sardinas en Aceite de Oliva - 85 g'
 sku: 'B01LXPKOF3-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','aceite','de','oliva', ]
+tags: [ 'aceite','de','oliva', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

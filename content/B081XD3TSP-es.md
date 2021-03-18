@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081XD3TSP-es Babaria Crema Intensiva Antimanchas Noche Dobre Efecto...'
 sku: 'B081XD3TSP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','babaria', ]
+tags: [ 'babaria', ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

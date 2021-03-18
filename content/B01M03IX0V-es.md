@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M03IX0V-es Flor Azul Profesional Suavizante Concentrado - 5 kg 2...'
 sku: 'B01M03IX0V-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','suavizante', ]
+tags: [ 'suavizante', ]
 actualPrice: 20.9 EUR
 currency: EUR
 price: 20.9

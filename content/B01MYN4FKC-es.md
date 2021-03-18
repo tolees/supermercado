@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYN4FKC-es Hero Baby Trocitos Tarrito de Puré de Espaguetis con...'
 sku: 'B01MYN4FKC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','baby','hero','jamón', ]
+tags: [ 'baby','hero','jamón', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

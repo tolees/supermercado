@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072MB3SQD-es Colgate Max White Expert Complete Dentífrico 75 ml paquete...'
 sku: 'B072MB3SQD-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','colgate','dentífrico', ]
+tags: [ 'colgate','dentífrico', ]
 actualPrice: 19.4 EUR
 currency: EUR
 price: 19.4

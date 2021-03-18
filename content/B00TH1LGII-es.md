@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TH1LGII-es Vileda 949860 Robot aspirador inteligente con programador...'
 sku: 'B00TH1LGII-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','vileda', ]
+tags: [ 'vileda', ]
 actualPrice: 199.39 EUR
 currency: EUR
 price: 199.39

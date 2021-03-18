@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L37VHEC-es Artero Acondicionador y desenredante para Perros y Gatos...'
 sku: 'B00L37VHEC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

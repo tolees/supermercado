@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y29B1LL-es Puleva Leche Desnatada - 6 x 1 L'
 sku: 'B06Y29B1LL-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','puleva', ]
+tags: [ 'puleva', ]
 actualPrice: None None
 currency: None
 price: None

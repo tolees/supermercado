@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VT7F6MM-es Magic Gel 2 Paquetes Uñas De Gel Mágico Removedor De...'
 sku: 'B07VT7F6MM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

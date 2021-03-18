@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003Z2D3OU-es Sebastian Sebastian Penetraitt Acondicionador 250 ml'
 sku: 'B003Z2D3OU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

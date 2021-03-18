@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5B5HHE-es Scottex Sensitive Papel Higiénico - 18 rollos'
 sku: 'B01M5B5HHE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','scottex', ]
+tags: [ 'scottex', ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

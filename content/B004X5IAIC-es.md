@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004X5IAIC-es Vileda 141084 Easy Wring & Clean Juego de Fregona con Palo...'
 sku: 'B004X5IAIC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fregona','vileda', ]
+tags: [ 'fregona','vileda', ]
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

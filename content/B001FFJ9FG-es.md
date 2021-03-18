@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001FFJ9FG-es VICTORY ENDURANCE Total Recovery Chocolate 750 g'
 sku: 'B001FFJ9FG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 20.6 EUR
 currency: EUR
 price: 20.6

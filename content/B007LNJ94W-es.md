@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007LNJ94W-es L Oréal Tratamiento para pestañas - 9 gr.'
 sku: 'B007LNJ94W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

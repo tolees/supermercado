@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0072MFATA-es American Crew Classic Ultramatte Fijador Medio Sin Brillo...'
 sku: 'B0072MFATA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','american','crew', ]
+tags: [ 'american','crew', ]
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

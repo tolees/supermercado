@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLNJWCF-es XILOSIN El Papel de arroz Blanco de la caligrafía China de...'
 sku: 'B08BLNJWCF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arroz', ]
+tags: [ 'arroz', ]
 actualPrice: 4.63 EUR
 currency: EUR
 price: 4.63

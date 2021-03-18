@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TRBTYGH-es Max Factor Facefinity 3 en 1 All Day Flawless Base de...'
 sku: 'B07TRBTYGH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

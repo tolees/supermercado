@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YY7VWUW-es Max Factor Creme Puff Blush Colorete Tono 10 Nude Mauve -...'
 sku: 'B00YY7VWUW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

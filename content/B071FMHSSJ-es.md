@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071FMHSSJ-es Olivares de Altomira Aceite Oliva Virgen Extra 500 ml -...'
 sku: 'B071FMHSSJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','extra','virgen', ]
+tags: [ 'extra','virgen', ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

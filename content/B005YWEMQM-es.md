@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005YWEMQM-es Lip Smacker Coca Cola Lip Gloss paquete de 6 sabores variados'
 sku: 'B005YWEMQM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','coca','cola', ]
+tags: [ 'coca','cola', ]
 actualPrice: 9.42 EUR
 currency: EUR
 price: 9.42

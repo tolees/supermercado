@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H4RW6GK-es Purina Friskies Pienso para Perro Adulto Buey Cereales y...'
 sku: 'B07H4RW6GK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','friskies','purina', ]
+tags: [ 'friskies','purina', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

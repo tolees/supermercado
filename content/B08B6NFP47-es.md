@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B6NFP47-es Nestlé Naturnes Bio Bolsitas Bebida Agua Y Fruta Tropical...'
 sku: 'B08B6NFP47-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nestlé', ]
+tags: [ 'nestlé', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

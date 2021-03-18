@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0786NLZ1H-es Aceite de hígado de bacalao – 2000 mg de omega 3 con...'
 sku: 'B0786NLZ1H-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','bacalao', ]
+tags: [ 'bacalao', ]
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

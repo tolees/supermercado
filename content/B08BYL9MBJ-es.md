@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BYL9MBJ-es Dispensador de jabón automático 200ML Dispensador de Jabón...'
 sku: 'B08BYL9MBJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XF6Y2J8-es Mom Ginebra Premium - 1000 ml'
 sku: 'B07XF6Y2J8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ginebra', ]
+tags: [ 'ginebra', ]
 actualPrice: 20.62 EUR
 currency: EUR
 price: 20.62

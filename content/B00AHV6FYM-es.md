@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AHV6FYM-es Laboratorios Babé - Crema Urea 10% Loción Reparadora 500...'
 sku: 'B00AHV6FYM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','soja', ]
+tags: [ 'soja', ]
 actualPrice: 14.45 EUR
 currency: EUR
 price: 14.45

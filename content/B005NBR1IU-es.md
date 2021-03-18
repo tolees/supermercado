@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005NBR1IU-es Schwarzkopf Professional Essensity Permanent Color Ammonia...'
 sku: 'B005NBR1IU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 4.53 EUR
 currency: EUR
 price: 4.53

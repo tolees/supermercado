@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002AMUGEQ-es Sisley Crema Hidratante Intensiva 40 ml'
 sku: 'B002AMUGEQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','crema','hidratante', ]
+tags: [ 'crema','hidratante', ]
 actualPrice: 113.68 EUR
 currency: EUR
 price: 113.68

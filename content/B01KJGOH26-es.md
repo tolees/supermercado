@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KJGOH26-es Maybelline New York Paleta de Sombras de Ojos The Rock Nudes'
 sku: 'B01KJGOH26-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

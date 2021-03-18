@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VJW2L0-es Eukanuba Working & Endurance - Comida seca para perros...'
 sku: 'B000VJW2L0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','eukanuba', ]
+tags: [ 'eukanuba', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

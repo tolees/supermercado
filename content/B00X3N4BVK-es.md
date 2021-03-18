@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X3N4BVK-es Optimum Nutrition Pro BCAA Suplemento para Deportistas...'
 sku: 'B00X3N4BVK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','melocotón', ]
+tags: [ 'melocotón', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

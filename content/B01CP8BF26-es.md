@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CP8BF26-es Chupa Chups Original Caramelo con Palo de Sabores a Fresa...'
 sku: 'B01CP8BF26-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chupa','chups', ]
+tags: [ 'chupa','chups', ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

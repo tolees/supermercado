@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKQ9MF6-es Herbal Essences Bio:Renew Repara Con Aceite De Argán De...'
 sku: 'B07ZKQ9MF6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú', ]
+tags: [ 'champú', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

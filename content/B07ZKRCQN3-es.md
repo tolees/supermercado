@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKRCQN3-es Gillette Mach3 Recambio De Maquinilla De Afeitar Para...'
 sku: 'B07ZKRCQN3-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

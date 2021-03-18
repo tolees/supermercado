@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S9P5QBB-es Lactovit - Gel de Ducha Hidratante Vitalidad y Frescor...'
 sku: 'B07S9P5QBB-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','ducha','gel','lactovit','melocotón', ]
+tags: [ 'de','ducha','gel','lactovit','melocotón', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

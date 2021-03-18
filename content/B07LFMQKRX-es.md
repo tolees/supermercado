@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFMQKRX-es SYOSS - Pack de Regalo SalonPlex - Champú 500ml +...'
 sku: 'B07LFMQKRX-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador','champú', ]
+tags: [ 'acondicionador','champú', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

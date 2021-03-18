@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQNRRHF-es KESOTO 3 Piezas Barril de Cerveza Modelo Accesorios de...'
 sku: 'B07KQNRRHF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 10.66 EUR
 currency: EUR
 price: 10.66

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UJV4SS0-es Aceite de virgen carbonell 5l pet'
 sku: 'B00UJV4SS0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','carbonell', ]
+tags: [ 'carbonell', ]
 actualPrice: 21.25 EUR
 currency: EUR
 price: 21.25

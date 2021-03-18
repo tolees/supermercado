@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FX2G5YZ-es Gladium Viñas Viejas Vino tinto Crianza - Paquete de 6 x...'
 sku: 'B07FX2G5YZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','tinto','vino', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 32.52 EUR
 currency: EUR
 price: 32.52

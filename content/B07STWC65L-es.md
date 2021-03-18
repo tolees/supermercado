@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STWC65L-es Max Factor Perfect Stay 2 Step; Laca de Uñas Tono 139 - 12 gr'
 sku: 'B07STWC65L-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 2.91 EUR
 currency: EUR
 price: 2.91

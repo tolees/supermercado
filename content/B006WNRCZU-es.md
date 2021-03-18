@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006WNRCZU-es Grohe Cosmopolitan - Dispensador de jabón líquido con...'
 sku: 'B006WNRCZU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 39.85 EUR
 currency: EUR
 price: 39.85

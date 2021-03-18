@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAP1MEA-es Haribo - Lampions Rojos - Geles dulces - 2 kg'
 sku: 'B00XAP1MEA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','haribo', ]
+tags: [ 'haribo', ]
 actualPrice: 9.55 EUR
 currency: EUR
 price: 9.55

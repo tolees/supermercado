@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007OU5M0C-es Coca Cola Zero Azúcar - Lata 330ml X 24 Latas'
 sku: 'B007OU5M0C-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar','coca','cola', ]
+tags: [ 'azúcar','coca','cola', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

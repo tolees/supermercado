@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003DKJGO0-es L Oréal Paris Máscara de Pestañas Volume Million Lashes...'
 sku: 'B003DKJGO0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004N0AOFE-es Wilkinson sword quattro bikini - Cuchilla de depilar para...'
 sku: 'B004N0AOFE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','sword','wilkinson', ]
+tags: [ 'sword','wilkinson', ]
 actualPrice: 7.17 EUR
 currency: EUR
 price: 7.17

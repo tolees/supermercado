@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y657SBZ-es Neutrogena Hydro Boost Aqua Gel Piel Normal Y Mixta - 50 ml.'
 sku: 'B06Y657SBZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','neutrogena', ]
+tags: [ 'neutrogena', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3RTJH4-es Diadermine - Loción Micelar Calmante para Pieles...'
 sku: 'B07N3RTJH4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','diadermine', ]
+tags: [ 'diadermine', ]
 actualPrice: 4.13 EUR
 currency: EUR
 price: 4.13

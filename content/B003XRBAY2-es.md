@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003XRBAY2-es Babaria Veneno Serpiente Contorno Ojos 12 ml'
 sku: 'B003XRBAY2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','babaria', ]
+tags: [ 'babaria', ]
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

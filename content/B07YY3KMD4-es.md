@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YY3KMD4-es Set Regalo Mujer Flor de Cerezo: 1 gel de ducha/bano de...'
 sku: 'B07YY3KMD4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','ducha','gel','jabón', ]
+tags: [ 'de','ducha','gel','jabón', ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRTDTG2-es Gliss - Acondicionador Reparación Total - 2 uds de 200ml -...'
 sku: 'B07NRTDTG2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador','schwarzkopf', ]
+tags: [ 'acondicionador','schwarzkopf', ]
 actualPrice: 4.08 EUR
 currency: EUR
 price: 4.08

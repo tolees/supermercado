@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0152X4GQS-es Dove Derma Spa Summer Media Resucitado a Dark Skin Body...'
 sku: 'B0152X4GQS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dove', ]
+tags: [ 'dove', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

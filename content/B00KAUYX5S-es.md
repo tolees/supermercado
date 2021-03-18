@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KAUYX5S-es Krups The Sub Heineken VB650E10 - Tirador de cerveza 2 l...'
 sku: 'B00KAUYX5S-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cerveza','heineken', ]
+tags: [ 'cerveza','heineken', ]
 actualPrice: None None
 currency: None
 price: None

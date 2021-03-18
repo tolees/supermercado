@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07772FGWF-es 2 X Nu Skin Ap-24 Blanqueamiento Pasta De Dientes Con...'
 sku: 'B07772FGWF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','dientes','pasta', ]
+tags: [ 'de','dientes','pasta', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

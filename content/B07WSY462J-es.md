@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSY462J-es Karl Lagerfeld x L Oréal Paris Eyeliner Chic Rose Silver...'
 sku: 'B07WSY462J-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

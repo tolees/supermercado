@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000CNKC76-es Davidoff Cool Water Desodorante Spray Mild 1 x 75ml'
 sku: 'B000CNKC76-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

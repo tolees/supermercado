@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DRXS2RJ-es Premier Protein Protein Bar Double Chocolate 24x40g -...'
 sku: 'B07DRXS2RJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar','chocolate', ]
+tags: [ 'azúcar','chocolate', ]
 actualPrice: 22.02 EUR
 currency: EUR
 price: 22.02

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DF972NZ-es Godmorn Molinillo de Café Eléctrico Molinillo Compacto de...'
 sku: 'B07DF972NZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

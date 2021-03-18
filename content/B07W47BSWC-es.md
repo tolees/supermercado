@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W47BSWC-es Gliss - Spray Acondicionador Express Ultimate Repair -...'
 sku: 'B07W47BSWC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador','schwarzkopf', ]
+tags: [ 'acondicionador','schwarzkopf', ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

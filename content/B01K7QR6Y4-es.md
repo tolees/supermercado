@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QR6Y4-es Gullón Digestive Avena Galleta Integral con Avena Trigo y...'
 sku: 'B01K7QR6Y4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate','gullón','trigo', ]
+tags: [ 'chocolate','gullón','trigo', ]
 actualPrice: 1.15 EUR
 currency: EUR
 price: 1.15

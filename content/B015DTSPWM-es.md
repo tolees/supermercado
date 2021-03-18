@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015DTSPWM-es La Toja Balsamo Hidrotermal - 100 ml'
 sku: 'B015DTSPWM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','la','toja', ]
+tags: [ 'la','toja', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

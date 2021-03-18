@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QGFTF2R-es Vermouth Myrrha Reserva 100 cl - 1000 ml'
 sku: 'B07QGFTF2R-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','vermouth', ]
+tags: [ 'vermouth', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

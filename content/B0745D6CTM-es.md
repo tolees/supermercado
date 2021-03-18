@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0745D6CTM-es Artero Champú Baby 250ml. para Cachorros'
 sku: 'B0745D6CTM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú', ]
+tags: [ 'champú', ]
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

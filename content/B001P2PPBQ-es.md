@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001P2PPBQ-es Revlon ColorStay Overtime Pintalabios Larga Duración #005...'
 sku: 'B001P2PPBQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

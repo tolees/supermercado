@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UCC2O7I-es Finish Powerball All in 1 Max - Pastillas para el...'
 sku: 'B00UCC2O7I-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','finish', ]
+tags: [ 'finish', ]
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

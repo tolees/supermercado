@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3TS9DP-es Bonsenkitchen Cortador de Verduras en Espiral...'
 sku: 'B07F3TS9DP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','spaghetti', ]
+tags: [ 'spaghetti', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

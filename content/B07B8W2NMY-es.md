@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8W2NMY-es American Crew Pomada de Fijacion Fijacion Ligera / Poco...'
 sku: 'B07B8W2NMY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','american','crew', ]
+tags: [ 'american','crew', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QW9FNZT-es 501 Brandy 30º Total: 1000 ml'
 sku: 'B07QW9FNZT-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','brandy', ]
+tags: [ 'brandy', ]
 actualPrice: None None
 currency: None
 price: None
@@ -29,7 +29,7 @@ Tienes [501 Brandy 30º  Total: 1000 ml](https://www.amazon.es/dp/B07QW9FNZT/?ta
 🔎:
 
 - Sabor excelente y agradable
-- Graduacion: 30º
 - Capacidad: 100CL
+- Graduacion: 30º
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QW9FNZT/?tag=tolees-21)

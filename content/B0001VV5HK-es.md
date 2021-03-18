@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0001VV5HK-es SOLARAY® B complex 50. 50 VegCaps. Las Vitaminas B...'
 sku: 'B0001VV5HK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gluten','sin', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

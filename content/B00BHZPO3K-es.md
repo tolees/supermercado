@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BHZPO3K-es Arcos Universal - Cuchillo para queso 145 mm hoja'
 sku: 'B00BHZPO3K-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','queso', ]
+tags: [ 'queso', ]
 actualPrice: 21.13 EUR
 currency: EUR
 price: 21.13

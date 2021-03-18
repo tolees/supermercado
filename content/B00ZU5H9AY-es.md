@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZU5H9AY-es Axe Blacknight - Set de 6 geles de ducha 6 x 250 ml'
 sku: 'B00ZU5H9AY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','axe', ]
+tags: [ 'axe', ]
 actualPrice: 10.76 EUR
 currency: EUR
 price: 10.76

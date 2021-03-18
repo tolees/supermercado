@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HW0L3Z2-es Vileda 143587 Bayeta Pva Micro Amarillo [5-PACK]'
 sku: 'B00HW0L3Z2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','bayeta','vileda', ]
+tags: [ 'bayeta','vileda', ]
 actualPrice: 15.81 EUR
 currency: EUR
 price: 15.81

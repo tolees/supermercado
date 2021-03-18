@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075YSMXN9-es Cúrcuma 4600mg Extracto Certificado 120 cápsulas con...'
 sku: 'B075YSMXN9-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cúrcuma', ]
+tags: [ 'cúrcuma', ]
 actualPrice: 13.58 EUR
 currency: EUR
 price: 13.58

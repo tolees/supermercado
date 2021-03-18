@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDXH4CI-es Foxy - Pañuelos hipoalergénicos - 10 paquetes x 9 unidades'
 sku: 'B00XDXH4CI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','foxy', ]
+tags: [ 'foxy', ]
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

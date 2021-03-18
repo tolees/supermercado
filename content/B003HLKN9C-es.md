@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003HLKN9C-es Revlon Colorstay Delineador de Ojos Líquido #252 Black...'
 sku: 'B003HLKN9C-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

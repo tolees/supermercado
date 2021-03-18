@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D5MGLQ6-es Scitec Nutrition Plant Protien Chocolate Praline - 900 gr'
 sku: 'B01D5MGLQ6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007PRVELU-es Cafe Dolce gusto CAFE CON LECHE | NESTLE Pack 3 cajas de...'
 sku: 'B007PRVELU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dolce','gusto', ]
+tags: [ 'dolce','gusto', ]
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

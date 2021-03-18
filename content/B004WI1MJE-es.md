@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004WI1MJE-es Glen Grant The Major s Reserve Whisky Single Malt 70 cl'
 sku: 'B004WI1MJE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

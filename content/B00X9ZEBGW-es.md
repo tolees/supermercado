@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9ZEBGW-es NIVEA SUN After Sun Loción Hidratante 1 x 400 ml loción...'
 sku: 'B00X9ZEBGW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y17N7XT-es Gillette Venus Snap Recambios para Maquinilla'
 sku: 'B06Y17N7XT-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 7.86 EUR
 currency: EUR
 price: 7.86

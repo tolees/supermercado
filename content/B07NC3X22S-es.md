@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC3X22S-es AXE Ice Chill - Desodorante Bodyspray para hombre 48 horas...'
 sku: 'B07NC3X22S-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','axe','desodorante', ]
+tags: [ 'axe','desodorante', ]
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

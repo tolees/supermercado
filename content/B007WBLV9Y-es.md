@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007WBLV9Y-es NATURGREEN SOJA CALCIUM BIO 1 litro'
 sku: 'B007WBLV9Y-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','soja', ]
+tags: [ 'soja', ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

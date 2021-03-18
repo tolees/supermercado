@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086HCP44H-es Ausonia Discreet Compresas Para Pérdidas De Orina Mini...'
 sku: 'B086HCP44H-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ausonia', ]
+tags: [ 'ausonia', ]
 actualPrice: 18.4 EUR
 currency: EUR
 price: 18.4

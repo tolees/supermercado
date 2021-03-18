@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L98KWZK-es Neutrogena Reparación Intensa Loción Corporal para Piel...'
 sku: 'B00L98KWZK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','neutrogena', ]
+tags: [ 'neutrogena', ]
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

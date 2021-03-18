@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4B1FYN-es Café Fortaleza Café Grano Descafeinado - 250 gr - [Pack de 3]'
 sku: 'B01N4B1FYN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','descafeinado','fortaleza', ]
+tags: [ 'café','descafeinado','fortaleza', ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

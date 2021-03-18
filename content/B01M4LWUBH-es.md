@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M4LWUBH-es VERNEL Suavizante Concentrado Azul Botella 57 lavados...'
 sku: 'B01M4LWUBH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','suavizante','vernel', ]
+tags: [ 'suavizante','vernel', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q4QC16W-es SkinXmed Sérum para pestañas y cejas | volumen densidad |...'
 sku: 'B07Q4QC16W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','curcuma', ]
+tags: [ 'curcuma', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

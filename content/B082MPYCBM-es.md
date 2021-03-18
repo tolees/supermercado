@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MPYCBM-es textil-home Puf - Pera moldeable XL Puff - 80x80x130 cm-...'
 sku: 'B082MPYCBM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','pera', ]
+tags: [ 'pera', ]
 actualPrice: 61.9 EUR
 currency: EUR
 price: 61.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NYRKSZS-es Detergente sensible Dettol para lavado de prendas 1 unidad...'
 sku: 'B00NYRKSZS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 11.08 EUR
 currency: EUR
 price: 11.08

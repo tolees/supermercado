@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084HQV1N9-es SUPLEMENTO PARA MANTENER LA SALUD DEL TRACTO URINARIO-...'
 sku: 'B084HQV1N9-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gluten','sin', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

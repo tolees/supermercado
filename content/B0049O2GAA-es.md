@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0049O2GAA-es Cragganmore Whisky Escocés - 700 ml'
 sku: 'B0049O2GAA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

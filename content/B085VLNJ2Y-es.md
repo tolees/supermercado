@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085VLNJ2Y-es LA BELLEFÉE Velas de citronela 100% Cera de Soja Velas de...'
 sku: 'B085VLNJ2Y-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','soja', ]
+tags: [ 'soja', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

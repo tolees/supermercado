@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IDM58TE-es Cuca Berberecho Grande - 63 gr'
 sku: 'B01IDM58TE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cuca', ]
+tags: [ 'cuca', ]
 actualPrice: 6.03 EUR
 currency: EUR
 price: 6.03

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076KD6DDV-es Acondicionador de queratina para reparación de cuidado de...'
 sku: 'B076KD6DDV-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

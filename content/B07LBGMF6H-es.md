@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBGMF6H-es FOGAWA 2 Pcs Paño de Queso Cucina Telas Filtrantes de...'
 sku: 'B07LBGMF6H-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','queso', ]
+tags: [ 'queso', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

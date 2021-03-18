@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UA8JS8W-es Maybelline New York Dr.Rescue CC Nails Base Coat Esmalte...'
 sku: 'B00UA8JS8W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 4.24 EUR
 currency: EUR
 price: 4.24

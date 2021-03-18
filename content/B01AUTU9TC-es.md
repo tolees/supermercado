@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AUTU9TC-es L Oréal Paris Sculpt 01 Base De Maquillaje Fluida - 1 Base...'
 sku: 'B01AUTU9TC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 8.52 EUR
 currency: EUR
 price: 8.52

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003HUSM8M-es Tigi 57432 - Champú 300 ml'
 sku: 'B003HUSM8M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú', ]
+tags: [ 'champú', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

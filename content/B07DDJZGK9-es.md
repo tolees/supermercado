@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDJZGK9-es NICKS Favourite Mix Barritas de chocolate surtidas sin...'
 sku: 'B07DDJZGK9-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar','chocolate','gluten','sin', ]
+tags: [ 'azúcar','chocolate','gluten','sin', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

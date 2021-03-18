@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KYYB5GK-es Palmolive - Aroma Gel Absolute Relax 500 ml'
 sku: 'B00KYYB5GK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','palmolive', ]
+tags: [ 'palmolive', ]
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

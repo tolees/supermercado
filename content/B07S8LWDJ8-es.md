@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8LWDJ8-es Skip Cápsulas Ultimate Poder KH7 22 +2 lavados gratis'
 sku: 'B07S8LWDJ8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','kh7', ]
+tags: [ 'kh7', ]
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

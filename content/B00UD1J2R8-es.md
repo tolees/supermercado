@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UD1J2R8-es Säntis Malt Appenzeller Single Edition Trinity Whisky -...'
 sku: 'B00UD1J2R8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 23.36 EUR
 currency: EUR
 price: 23.36

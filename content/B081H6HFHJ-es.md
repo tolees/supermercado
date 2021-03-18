@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081H6HFHJ-es Finether Dispensador de Jabón Automático Espuma...'
 sku: 'B081H6HFHJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

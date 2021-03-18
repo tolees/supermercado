@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079Z5W2ZM-es Elizabeth Arden Liquid Lip Gloss Finish Pintalabios Pretty...'
 sku: 'B079Z5W2ZM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arden','elizabeth','finish', ]
+tags: [ 'arden','elizabeth','finish', ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004GX9P2Q-es Maybelline New York - Superstay 24H Pintalabios Mate de...'
 sku: 'B004GX9P2Q-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

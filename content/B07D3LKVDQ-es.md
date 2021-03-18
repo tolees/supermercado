@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D3LKVDQ-es Buluri 84 Piezas Fondant Cortadores - Bricolaje Fondant...'
 sku: 'B07D3LKVDQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 14.77 EUR
 currency: EUR
 price: 14.77

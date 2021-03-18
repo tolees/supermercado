@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DVTKKWE-es Weider Protein Pancake Mix Coco y Chocolate Blanco - 600 gr'
 sku: 'B01DVTKKWE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 15.44 EUR
 currency: EUR
 price: 15.44

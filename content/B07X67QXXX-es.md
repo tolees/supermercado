@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X67QXXX-es Mini Chupa Chups Caramelo con Palo de Sabores Variados -...'
 sku: 'B07X67QXXX-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chupa','chups', ]
+tags: [ 'chupa','chups', ]
 actualPrice: 1.41 EUR
 currency: EUR
 price: 1.41

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSHFQ4H-es Gudotra Acerca de 100pcs Bolsa de Lino con Cordón para...'
 sku: 'B07FSHFQ4H-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arroz', ]
+tags: [ 'arroz', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

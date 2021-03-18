@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BHF2NMY-es Tigi Catwalk Oatmeal & Honey Nourishing Acondicionador -...'
 sku: 'B01BHF2NMY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador','oatmeal', ]
+tags: [ 'acondicionador','oatmeal', ]
 actualPrice: 11.74 EUR
 currency: EUR
 price: 11.74

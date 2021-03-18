@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M8QG3O1-es Toscaf Café Molido Mezcla Selección - 250 gr'
 sku: 'B01M8QG3O1-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 1.59 EUR
 currency: EUR
 price: 1.59

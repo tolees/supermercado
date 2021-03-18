@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GQYKBT4-es Mengshen Bascula Cuchara Digital para Cocina Alimentos...'
 sku: 'B07GQYKBT4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','harina', ]
+tags: [ 'harina', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

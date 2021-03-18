@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077NG3GYY-es Maybelline New York - Superstay Matte Ink The Nudes Barra...'
 sku: 'B077NG3GYY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 6.94 EUR
 currency: EUR
 price: 6.94

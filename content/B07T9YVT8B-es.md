@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9YVT8B-es RED BULL Coconut Edition Bebida energética sabor coco y...'
 sku: 'B07T9YVT8B-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','bebida','bull','energética','red', ]
+tags: [ 'bebida','bull','energética','red', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

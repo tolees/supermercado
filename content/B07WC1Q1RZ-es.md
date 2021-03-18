@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC1Q1RZ-es Slendier Pasta Konjac Noodle sin Gluten Bio 400g Caja 6...'
 sku: 'B07WC1Q1RZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gluten','sin', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

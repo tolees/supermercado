@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYPJ8B9-es Hoomtaook Estanteria Baño Para Esquinas de Baño Ducha No...'
 sku: 'B07VYPJ8B9-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

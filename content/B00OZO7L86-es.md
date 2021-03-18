@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OZO7L86-es Sam Mills Pasta de Maíz Sin Gluten - 300 gr'
 sku: 'B00OZO7L86-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gluten','maíz','mills','sam','sin', ]
+tags: [ 'gluten','maíz','mills','sam','sin', ]
 actualPrice: 1.48 EUR
 currency: EUR
 price: 1.48

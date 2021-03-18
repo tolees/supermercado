@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F32BX9Q-es Maybelline New York - Color Sensational Vivid Matte Liquid...'
 sku: 'B01F32BX9Q-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

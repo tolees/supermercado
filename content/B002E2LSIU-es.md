@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002E2LSIU-es Licor whisky drambuie t.r. 40º 700 ml'
 sku: 'B002E2LSIU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 18.15 EUR
 currency: EUR
 price: 18.15

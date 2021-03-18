@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086DJ9MGW-es TTAototech Sensor inteligente Dispensador de jabón- 1000...'
 sku: 'B086DJ9MGW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 33.79 EUR
 currency: EUR
 price: 33.79

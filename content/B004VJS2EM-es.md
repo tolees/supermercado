@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004VJS2EM-es FitFlop Zapatos de Cordones Chukker Chocolate EU 44 UK 10'
 sku: 'B004VJS2EM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 75.95 EUR
 currency: EUR
 price: 75.95

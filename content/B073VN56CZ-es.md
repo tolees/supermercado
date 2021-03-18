@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VN56CZ-es Maybelline New York - SuperStay 24H Base de Maquillaje...'
 sku: 'B073VN56CZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MA4BOHU-es Air Wick Freshmatic Life Ambientador Scents Oasis Color...'
 sku: 'B01MA4BOHU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

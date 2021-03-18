@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083XBBZFL-es Kosiy Dispensadores de jabón automático Dispensador Jabón...'
 sku: 'B083XBBZFL-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 18.47 EUR
 currency: EUR
 price: 18.47

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CBFOOA8-es 9 Cervezas de las especialidades de mundo a las mejores...'
 sku: 'B01CBFOOA8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

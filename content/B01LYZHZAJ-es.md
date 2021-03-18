@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYZHZAJ-es Handy Bag Bolsas de Basura 50L Extra Resistentes No Gotean...'
 sku: 'B01LYZHZAJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','basura','bolsas','de', ]
+tags: [ 'basura','bolsas','de', ]
 actualPrice: 1.1 EUR
 currency: EUR
 price: 1.1

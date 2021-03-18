@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M75FOPM-es Blevit Plus Duplo 8 Cereales Al Estilo Bizcocho 1 unidad...'
 sku: 'B00M75FOPM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','bizcocho', ]
+tags: [ 'bizcocho', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

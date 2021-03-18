@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EPDJ0W2-es Oral-B Pro 600 3D White - Cepillo de Dientes Eléctrico con...'
 sku: 'B00EPDJ0W2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 25.83 EUR
 currency: EUR
 price: 25.83

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZIXNAE-es Dr. Oetker Molde Desmontable Back-Harmonie Acero marrón 28 cm'
 sku: 'B01LZIXNAE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dr.','oetker', ]
+tags: [ 'dr.','oetker', ]
 actualPrice: 39.51 EUR
 currency: EUR
 price: 39.51

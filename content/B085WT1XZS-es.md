@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085WT1XZS-es BOSSTER Exprimidor Tubo Pasta Dientes 3 Piezas Exprimidor...'
 sku: 'B085WT1XZS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','dientes','pasta', ]
+tags: [ 'de','dientes','pasta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

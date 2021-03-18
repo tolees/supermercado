@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FPTGKWR-es Café FORTALEZA - Cápsulas de Café Intenssísimo Compatibles...'
 sku: 'B07FPTGKWR-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','cápsulas','de','dolce','fortaleza','gusto', ]
+tags: [ 'café','cápsulas','de','dolce','fortaleza','gusto', ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

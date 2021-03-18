@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017BCKZQS-es Max Factor Creme Puff Blush Colorete Tono 20 Lavish Mauve...'
 sku: 'B017BCKZQS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 3.66 EUR
 currency: EUR
 price: 3.66

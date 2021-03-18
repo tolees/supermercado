@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KR1KP76-es VVVVANKER DIY Resina Helado Sundae Taza de café Miniatura...'
 sku: 'B07KR1KP76-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

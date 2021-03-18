@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LZWBB0-es CLARINS Desodorante roll-on 50 ml'
 sku: 'B000LZWBB0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

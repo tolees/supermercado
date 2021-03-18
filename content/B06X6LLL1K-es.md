@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X6LLL1K-es Braun MQ 3025 Spaghetti - Licuadora 600 L 0 35 L Botones...'
 sku: 'B06X6LLL1K-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','spaghetti', ]
+tags: [ 'spaghetti', ]
 actualPrice: 35 EUR
 currency: EUR
 price: 35

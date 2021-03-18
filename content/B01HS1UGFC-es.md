@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HS1UGFC-es L Oréal Paris Elvive Champú Aceite Extraordinario - 700 ml'
 sku: 'B01HS1UGFC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú','oréal', ]
+tags: [ 'champú','oréal', ]
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

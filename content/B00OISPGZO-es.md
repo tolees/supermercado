@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OISPGZO-es Sangre de Toro Reserva Vino Tinto - 3 botellas de 75 cl...'
 sku: 'B00OISPGZO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','tinto','vino', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 38.05 EUR
 currency: EUR
 price: 38.05

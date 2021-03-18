@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M6WIOF5-es Renova Rollo de Cocina - 3 Rollos'
 sku: 'B01M6WIOF5-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','renova', ]
+tags: [ 'renova', ]
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

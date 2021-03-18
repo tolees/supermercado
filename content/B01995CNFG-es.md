@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01995CNFG-es Forbury Direct - Base Jabón de glicerina transparente sin...'
 sku: 'B01995CNFG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

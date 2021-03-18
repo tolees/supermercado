@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AJIK9AS-es Revlon ColorSilk Tinte de Cabello Permanente Tono #80...'
 sku: 'B01AJIK9AS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

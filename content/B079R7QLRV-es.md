@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079R7QLRV-es PEKITAS Muselinas Pack de 3 | Mantas de Muselina 100%...'
 sku: 'B079R7QLRV-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

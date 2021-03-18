@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M97X4TH-es Braun BT3041 - Recortadora de barba y cortapelos eléctrico...'
 sku: 'B07M97X4TH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 34.07 EUR
 currency: EUR
 price: 34.07

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA0OEI6-es Nestlé nesquik cacao soluble instantáneo 3kg 2x1.5kg'
 sku: 'B00XA0OEI6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nesquik','nestlé', ]
+tags: [ 'nesquik','nestlé', ]
 actualPrice: 15.93 EUR
 currency: EUR
 price: 15.93

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKW187C-es Heallily lubricante anal lubricante personal a base de...'
 sku: 'B07ZKW187C-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','melocotón', ]
+tags: [ 'melocotón', ]
 actualPrice: 5.81 EUR
 currency: EUR
 price: 5.81

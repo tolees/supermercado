@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MNNG6CS-es MyProtein Impact Whey Isolate Proteína de Suero Sabor...'
 sku: 'B00MNNG6CS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 25.6 EUR
 currency: EUR
 price: 25.6

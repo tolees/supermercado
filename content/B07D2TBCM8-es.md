@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D2TBCM8-es New Look Wide Foot Petal Sandalias con Punta Abierta para...'
 sku: 'B07D2TBCM8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oatmeal', ]
+tags: [ 'oatmeal', ]
 actualPrice: 6.27 EUR
 currency: EUR
 price: 6.27

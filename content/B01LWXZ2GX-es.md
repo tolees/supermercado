@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWXZ2GX-es Dani Berberechos al Natural 40-50 - 63 g'
 sku: 'B01LWXZ2GX-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','berberechos', ]
+tags: [ 'berberechos', ]
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

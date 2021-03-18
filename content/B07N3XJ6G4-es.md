@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3XJ6G4-es Diadermine - Hydralist Crema Hidratante de Día - Textura...'
 sku: 'B07N3XJ6G4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','crema','diadermine','hidratante', ]
+tags: [ 'crema','diadermine','hidratante', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

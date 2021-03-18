@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003JM4OCG-es Max Factor Pan Stick Base de maquillaje Tono 12 True Beige...'
 sku: 'B003JM4OCG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

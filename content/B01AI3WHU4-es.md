@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AI3WHU4-es Elizabeth Arden Eight Hour Cream All-Over Miracle Oil 100 ml'
 sku: 'B01AI3WHU4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

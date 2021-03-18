@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAIOR76-es Instituto Español Piel Sana Loción Corporal - 500 ml'
 sku: 'B00XAIOR76-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','español','instituto', ]
+tags: [ 'español','instituto', ]
 actualPrice: 1.93 EUR
 currency: EUR
 price: 1.93

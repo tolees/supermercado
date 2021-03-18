@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HWQG5OO-es ITALY MORN Hombre Jogging Pantalones Stretch Skinny Largo...'
 sku: 'B01HWQG5OO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

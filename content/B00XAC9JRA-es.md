@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAC9JRA-es Dove Desodorante Original Roll On 50 Ml'
 sku: 'B00XAC9JRA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante','dove', ]
+tags: [ 'desodorante','dove', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0811WHWWH-es Gobesty Juego de servilletas de Tela 10 Unidades Suaves...'
 sku: 'B0811WHWWH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','servilletas', ]
+tags: [ 'servilletas', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

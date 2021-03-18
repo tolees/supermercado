@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006PANUI8-es Revlon ColorStay 16H Sombra de Ojos #505 Decadent'
 sku: 'B006PANUI8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

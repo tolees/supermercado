@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00159JVVO-es Gillette venus breeze - Cuchillas de recambio para...'
 sku: 'B00159JVVO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084M6SLRY-es Cabezales de cepillo de dientes eléctrico y accesorio de...'
 sku: 'B084M6SLRY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 11.26 EUR
 currency: EUR
 price: 11.26

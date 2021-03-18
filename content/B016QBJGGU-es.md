@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016QBJGGU-es Vino Tinto Mencía D.O. Bierzo 750ml'
 sku: 'B016QBJGGU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','tinto','vino', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

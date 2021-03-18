@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VLNXIQS-es Levi s L/S Barstow Western Shirt Camisa Casual de Manga...'
 sku: 'B00VLNXIQS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','finish', ]
+tags: [ 'finish', ]
 actualPrice: 33.11 EUR
 currency: EUR
 price: 33.11

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4NEE9G-es WeddingTree 48 Pompas de Jabon Boda Rosa - Pomperos Boda -...'
 sku: 'B01N4NEE9G-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabon', ]
+tags: [ 'jabon', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

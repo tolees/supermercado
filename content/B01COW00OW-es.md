@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01COW00OW-es A Little Lovely Company LTPP010 - Lámpara en forma de pera...'
 sku: 'B01COW00OW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','pera', ]
+tags: [ 'pera', ]
 actualPrice: 4.67 EUR
 currency: EUR
 price: 4.67

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0012RIEM6-es Finish Line Fiber Fibre Grip Unisex Adulto Blanco 50 g'
 sku: 'B0012RIEM6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','finish', ]
+tags: [ 'finish', ]
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

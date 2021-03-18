@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJ79WWT-es Home Treats - Juego de 3 tablas de cortar de bambú | 3...'
 sku: 'B07HJ79WWT-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','queso', ]
+tags: [ 'queso', ]
 actualPrice: None None
 currency: None
 price: None

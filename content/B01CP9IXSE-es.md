@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CP9IXSE-es Haribo Relleno Cola Geles Dulces - 1500 gr'
 sku: 'B01CP9IXSE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','haribo', ]
+tags: [ 'haribo', ]
 actualPrice: 7.67 EUR
 currency: EUR
 price: 7.67

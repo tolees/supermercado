@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001P4YY0W-es Tía María - Licor De Café Botella 700 ml'
 sku: 'B001P4YY0W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

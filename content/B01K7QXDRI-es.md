@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QXDRI-es Calvo Atun Claro en Aceite de Girasol - Pack de 3 x 80 g -...'
 sku: 'B01K7QXDRI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','atun','claro', ]
+tags: [ 'atun','claro', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

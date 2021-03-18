@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018B8ZG9M-es AXE colonia daily signature oud wood & dark vanilla spray...'
 sku: 'B018B8ZG9M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','axe', ]
+tags: [ 'axe', ]
 actualPrice: 4.53 EUR
 currency: EUR
 price: 4.53

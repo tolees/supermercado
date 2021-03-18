@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0044HYH2W-es Elizabeth Arden Prevage Eye Ultra Protection Crema...'
 sku: 'B0044HYH2W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 63.94 EUR
 currency: EUR
 price: 63.94

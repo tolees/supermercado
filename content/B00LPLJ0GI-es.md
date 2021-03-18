@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LPLJ0GI-es Instituto Español Desodorante Roll On de Aloe Vera - 75 ml'
 sku: 'B00LPLJ0GI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante','español','instituto', ]
+tags: [ 'desodorante','español','instituto', ]
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

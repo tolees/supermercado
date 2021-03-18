@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXVBE1L-es Helios Mermelada Extra Naranja Amarga - 340 gr - Pack de 6'
 sku: 'B01MXVBE1L-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','mermelada', ]
+tags: [ 'mermelada', ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

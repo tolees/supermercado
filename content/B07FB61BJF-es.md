@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FB61BJF-es Yosoy - Bebida de Avena - Caja de 8 packs de 3x250ml'
 sku: 'B07FB61BJF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','yosoy', ]
+tags: [ 'yosoy', ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

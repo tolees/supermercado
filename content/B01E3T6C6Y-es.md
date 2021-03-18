@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E3T6C6Y-es Malfy Limón Gin Ginebra Premium - 700 ml'
 sku: 'B01E3T6C6Y-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ginebra', ]
+tags: [ 'ginebra', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

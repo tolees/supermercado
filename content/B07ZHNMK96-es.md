@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZHNMK96-es NIVEA Q10 Power Día FP30 1 x 50 ml y Serum Pearls 1 x 40...'
 sku: 'B07ZHNMK96-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

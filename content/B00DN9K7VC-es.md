@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DN9K7VC-es Sotya Batido Saciante Chocolate - 700 gr'
 sku: 'B00DN9K7VC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 8.04 EUR
 currency: EUR
 price: 8.04

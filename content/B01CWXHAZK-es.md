@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CWXHAZK-es Schwarzkopf Professional Osis Mighty Ultra Strong Matte...'
 sku: 'B01CWXHAZK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

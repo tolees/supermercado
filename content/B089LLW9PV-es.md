@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089LLW9PV-es Tencoz Spray Mop Mopa con Pulverizador Fregona con...'
 sku: 'B089LLW9PV-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fregona', ]
+tags: [ 'fregona', ]
 actualPrice: 16.11 EUR
 currency: EUR
 price: 16.11

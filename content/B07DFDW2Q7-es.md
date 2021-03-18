@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFDW2Q7-es Pop! Five Nights At Freddy S - Figura de Vinilo Rockstar Foxy'
 sku: 'B07DFDW2Q7-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','foxy', ]
+tags: [ 'foxy', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A52XVAI-es L Oréal Paris Base de Maquillaje Fluida Cushion Rose Beige 6'
 sku: 'B01A52XVAI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 6 EUR
 currency: EUR
 price: 6

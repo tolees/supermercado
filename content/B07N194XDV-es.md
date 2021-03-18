@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N194XDV-es Neutrogena T/Gel Champú Anticaspa Cuero Cabelludo Sensible...'
 sku: 'B07N194XDV-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú','neutrogena', ]
+tags: [ 'champú','neutrogena', ]
 actualPrice: 6.21 EUR
 currency: EUR
 price: 6.21

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CLC0ZVY-es Elizabeth Arden 5th Avenue NYC - Agua de perfume'
 sku: 'B00CLC0ZVY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

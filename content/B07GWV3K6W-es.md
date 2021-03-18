@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWV3K6W-es Chupa Chups Meals Golosinas de Formas y Sabores Variados...'
 sku: 'B07GWV3K6W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chupa','chups', ]
+tags: [ 'chupa','chups', ]
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

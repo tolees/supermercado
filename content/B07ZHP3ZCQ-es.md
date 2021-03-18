@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZHP3ZCQ-es NIVEA Neceser Body Cuidado Completo con body milk 1 x 400...'
 sku: 'B07ZHP3ZCQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','desodorante','ducha','gel','nivea', ]
+tags: [ 'de','desodorante','ducha','gel','nivea', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

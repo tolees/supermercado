@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QNLV6B-es Hackett London Tweed Trim Crew suéter Beige Oatmeal 8hw XL...'
 sku: 'B079QNLV6B-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oatmeal', ]
+tags: [ 'oatmeal', ]
 actualPrice: 77.93 EUR
 currency: EUR
 price: 77.93

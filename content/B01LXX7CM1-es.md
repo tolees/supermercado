@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXX7CM1-es President Leche Desnatada - 6 x 1 L'
 sku: 'B01LXX7CM1-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','president', ]
+tags: [ 'president', ]
 actualPrice: None None
 currency: None
 price: None

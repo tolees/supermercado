@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y2D2XVW-es Wella - Mascarilla Reparadora Intensa Fusion 500'
 sku: 'B06Y2D2XVW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','wella', ]
+tags: [ 'wella', ]
 actualPrice: 20.47 EUR
 currency: EUR
 price: 20.47

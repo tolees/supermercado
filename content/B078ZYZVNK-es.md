@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZYZVNK-es TRESemmé Acondicionador Color Keratina - Paquete de 3 x...'
 sku: 'B078ZYZVNK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador','tresemmé', ]
+tags: [ 'acondicionador','tresemmé', ]
 actualPrice: 12.36 EUR
 currency: EUR
 price: 12.36

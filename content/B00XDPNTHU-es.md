@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDPNTHU-es Foxy Asso Ultra Papel de Cocina - 2 rollos'
 sku: 'B00XDPNTHU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cocina','de','foxy','papel', ]
+tags: [ 'cocina','de','foxy','papel', ]
 actualPrice: 2.37 EUR
 currency: EUR
 price: 2.37

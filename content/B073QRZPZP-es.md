@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QRZPZP-es Mimosin Intense Explosión de Frescor Suavizante - 58...'
 sku: 'B073QRZPZP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','mimosin','suavizante', ]
+tags: [ 'mimosin','suavizante', ]
 actualPrice: 19.74 EUR
 currency: EUR
 price: 19.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RT9CG57-es CESFONJER 10 Metros Tubo de Agua Blanco 1/4" 6.3 mm Kit de...'
 sku: 'B07RT9CG57-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

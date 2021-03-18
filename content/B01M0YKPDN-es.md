@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0YKPDN-es Mical Papel de cocina con 2 Capas - 4 Rollos'
 sku: 'B01M0YKPDN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cocina','de','papel', ]
+tags: [ 'cocina','de','papel', ]
 actualPrice: None None
 currency: None
 price: None

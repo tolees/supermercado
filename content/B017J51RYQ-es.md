@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017J51RYQ-es Nobleza - 50 x Empapadores Perros Alfombrilla higiénica de...'
 sku: 'B017J51RYQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','empapadores', ]
+tags: [ 'empapadores', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

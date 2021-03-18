@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BJB89P-es American Crew Espuma de Afeitar 300 ml'
 sku: 'B072BJB89P-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','american','crew', ]
+tags: [ 'american','crew', ]
 actualPrice: 6.91 EUR
 currency: EUR
 price: 6.91

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0012QEDUY-es Gloria Vanderbilt Gel y jabón Mujer - 150 ml.'
 sku: 'B0012QEDUY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

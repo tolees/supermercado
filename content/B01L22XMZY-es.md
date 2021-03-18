@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L22XMZY-es EVOWHEY PROTEIN 2.0 Chocolate 2Kg'
 sku: 'B01L22XMZY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

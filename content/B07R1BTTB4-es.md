@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R1BTTB4-es Marca Amazon - Happy Belly Coco desecado 200gr x 5'
 sku: 'B07R1BTTB4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','belly','happy', ]
+tags: [ 'belly','happy', ]
 actualPrice: 6.88 EUR
 currency: EUR
 price: 6.88

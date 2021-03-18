@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M1NND68-es Vileda Recambios para Mopa Attractiva Plus - 12 Unidades'
 sku: 'B01M1NND68-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','vileda', ]
+tags: [ 'vileda', ]
 actualPrice: 2.77 EUR
 currency: EUR
 price: 2.77

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZZD3JB-es TRESemmé Champú en Seco Fresco y Limpio - Paquete de 3 x...'
 sku: 'B078ZZD3JB-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú','tresemmé', ]
+tags: [ 'champú','tresemmé', ]
 actualPrice: 15.57 EUR
 currency: EUR
 price: 15.57

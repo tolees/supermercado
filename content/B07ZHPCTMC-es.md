@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZHPCTMC-es Nivea Men Pack Active Age Caja de Regalo Fluido Hidratante...'
 sku: 'B07ZHPCTMC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

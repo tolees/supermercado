@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009S2IVMK-es Max Factor FaceFinity 3 en 1 All Day Flawless Base de...'
 sku: 'B009S2IVMK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

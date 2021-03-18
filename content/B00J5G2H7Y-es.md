@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J5G2H7Y-es BIMANAN - BIMANAN Sustitutive Barrita Yogur unidad'
 sku: 'B00J5G2H7Y-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','yogur', ]
+tags: [ 'yogur', ]
 actualPrice: 1.46 EUR
 currency: EUR
 price: 1.46

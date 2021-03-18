@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJDXVJ5-es Un Air d’Antan® Caja Belleza Provence Mujer 1 Jabon 100g 1...'
 sku: 'B07HJDXVJ5-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabon', ]
+tags: [ 'jabon', ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

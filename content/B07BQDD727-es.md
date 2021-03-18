@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQDD727-es Dove Desodorante Original Ahorro - Paquetes de 2 x 200 ml...'
 sku: 'B07BQDD727-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante','dove', ]
+tags: [ 'desodorante','dove', ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ERC8DTG-es L Oréal Paris - False Lash Mariposa Máscara de Pestañas...'
 sku: 'B01ERC8DTG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AQDP8TE-es L Oréal Paris Pintalabios 24H Permanente Color Nude 111...'
 sku: 'B00AQDP8TE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

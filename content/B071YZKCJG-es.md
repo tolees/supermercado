@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YZKCJG-es Purina Gourmet Mon Petit comida para gatos Carnes 8 x [6 x...'
 sku: 'B071YZKCJG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','purina', ]
+tags: [ 'purina', ]
 actualPrice: 14.65 EUR
 currency: EUR
 price: 14.65

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PXNK28-es Maybelline New York - The Colossal Big Shot Base de...'
 sku: 'B077PXNK28-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 4.34 EUR
 currency: EUR
 price: 4.34

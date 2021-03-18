@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4RTXCG-es Tommy Hilfiger - Soft Turnlock Lrg Za Carteras Mujer Gris...'
 sku: 'B07V4RTXCG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oatmeal', ]
+tags: [ 'oatmeal', ]
 actualPrice: 37.58 EUR
 currency: EUR
 price: 37.58

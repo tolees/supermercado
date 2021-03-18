@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IUPKLG4-es Bimbo Rebanada Estilo Artesano Pan blanco con corteza 550g...'
 sku: 'B01IUPKLG4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','bimbo', ]
+tags: [ 'bimbo', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

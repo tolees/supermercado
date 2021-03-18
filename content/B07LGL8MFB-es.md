@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGL8MFB-es Oral-B Complete Plus Frescor Total Pasta Dentífrica 75 ml'
 sku: 'B07LGL8MFB-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dentífrica', ]
+tags: [ 'dentífrica', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA6G9D8-es Flota - Jabón de Marsella - Detergente líquido para lavado...'
 sku: 'B00XA6G9D8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','detergente','jabón', ]
+tags: [ 'detergente','jabón', ]
 actualPrice: 2.83 EUR
 currency: EUR
 price: 2.83

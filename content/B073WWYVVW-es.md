@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073WWYVVW-es AIFUDA - Moldes de silicona para dulces de chocolate...'
 sku: 'B073WWYVVW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 9.15 EUR
 currency: EUR
 price: 9.15

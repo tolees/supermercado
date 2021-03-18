@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QNGDZB-es Grohe Grohtherm SmartControl Perfect - Juego de ducha con...'
 sku: 'B075QNGDZB-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','alcachofa', ]
+tags: [ 'alcachofa', ]
 actualPrice: 870.78 EUR
 currency: EUR
 price: 870.78

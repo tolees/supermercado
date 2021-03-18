@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XABWX7Y-es Dove Gel de Ducha - 600 ml'
 sku: 'B00XABWX7Y-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','dove','ducha','gel', ]
+tags: [ 'de','dove','ducha','gel', ]
 actualPrice: 3.4 EUR
 currency: EUR
 price: 3.4

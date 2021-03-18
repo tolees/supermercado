@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9VJA7Q-es Micolor Detergente Líquido Colores Vivos - 40 Lavados 2 L'
 sku: 'B00X9VJA7Q-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

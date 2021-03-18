@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HBG3MV-es Ecover Suavizante Manzana Almendra 5 Lt Ecover 1 Unidad...'
 sku: 'B078HBG3MV-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','manzana','suavizante', ]
+tags: [ 'manzana','suavizante', ]
 actualPrice: 19.35 EUR
 currency: EUR
 price: 19.35

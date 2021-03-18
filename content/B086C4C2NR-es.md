@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086C4C2NR-es Dispensador de Jabón Automático con Sensor de Movimiento...'
 sku: 'B086C4C2NR-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

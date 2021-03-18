@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0SIMGX-es Coca-Cola Sabor Original Lata - 330 ml Pack de 24'
 sku: 'B01M0SIMGX-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','coca-cola', ]
+tags: [ 'coca-cola', ]
 actualPrice: 13.44 EUR
 currency: EUR
 price: 13.44

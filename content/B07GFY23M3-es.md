@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GFY23M3-es Marca Amazon - Solimo - Alimento seco completo para perro...'
 sku: 'B07GFY23M3-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','guisantes','solimo', ]
+tags: [ 'guisantes','solimo', ]
 actualPrice: 6 EUR
 currency: EUR
 price: 6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PB4LJM6-es Axe Desodorante Black Pack Duplo Ahorro - 2 Paquetes de 2...'
 sku: 'B07PB4LJM6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','axe','desodorante', ]
+tags: [ 'axe','desodorante', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

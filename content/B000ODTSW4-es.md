@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ODTSW4-es Nescaf Dolce Gusto - Lungo - 3 Paquetes de 16 Cpsulas -...'
 sku: 'B000ODTSW4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dolce','gusto', ]
+tags: [ 'dolce','gusto', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

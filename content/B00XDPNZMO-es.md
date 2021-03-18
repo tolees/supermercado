@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDPNZMO-es Purina Friskies Pienso para Perro Adulto Aves y Verduras...'
 sku: 'B00XDPNZMO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','friskies','purina', ]
+tags: [ 'friskies','purina', ]
 actualPrice: 11.81 EUR
 currency: EUR
 price: 11.81

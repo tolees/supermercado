@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WF3XF5D-es Chop Cortador de verduras y picadora de carne manual con...'
 sku: 'B07WF3XF5D-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cebolla', ]
+tags: [ 'cebolla', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

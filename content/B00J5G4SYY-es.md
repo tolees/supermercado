@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J5G4SYY-es Ureadin Gel De Baño Hidratante Sin Jabón Para Piel Seca -...'
 sku: 'B00J5G4SYY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 5.92 EUR
 currency: EUR
 price: 5.92

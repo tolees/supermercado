@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HD3GNCU-es Pósteres Muestra Lata Arte de Cartel Café Placa Vintage...'
 sku: 'B01HD3GNCU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

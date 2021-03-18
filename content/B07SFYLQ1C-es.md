@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SFYLQ1C-es La Toja Selection - Gel esencia de Moringa y aceite de...'
 sku: 'B07SFYLQ1C-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','la','toja', ]
+tags: [ 'la','toja', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

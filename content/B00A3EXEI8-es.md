@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3EXEI8-es Nomen - Fideuada 840 g'
 sku: 'B00A3EXEI8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nomen', ]
+tags: [ 'nomen', ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

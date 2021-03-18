@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SH6HPVZ-es Chicco Pantaloni Lunghi Jeans Denim Stretch Bimbo Bebés'
 sku: 'B07SH6HPVZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','bimbo', ]
+tags: [ 'bimbo', ]
 actualPrice: None None
 currency: None
 price: None

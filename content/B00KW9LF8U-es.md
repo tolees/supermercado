@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KW9LF8U-es AUSONIA - 72007 ABRELATAS PROFESIONAL DE MESA'
 sku: 'B00KW9LF8U-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ausonia', ]
+tags: [ 'ausonia', ]
 actualPrice: 93.0 EUR
 currency: EUR
 price: 93.0

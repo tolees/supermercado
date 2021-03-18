@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CD2QRQ3-es L Oréal Paris Colorista Hair Makeup Raspberry Hair'
 sku: 'B07CD2QRQ3-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

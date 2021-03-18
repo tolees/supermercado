@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7R8VQK-es Hero Baby Verduritas de La Huerta Pollo y Ternera - 235 g'
 sku: 'B01K7R8VQK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','baby','hero', ]
+tags: [ 'baby','hero', ]
 actualPrice: None None
 currency: None
 price: None

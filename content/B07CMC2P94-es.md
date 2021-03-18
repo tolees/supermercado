@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CMC2P94-es NIVEA SUN Protege & Broncea Spray Solar FP30 1 x 300 ml...'
 sku: 'B07CMC2P94-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

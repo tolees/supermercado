@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SBDUEOK-es L Oréal Paris Barra de Labios Color Riche 630'
 sku: 'B00SBDUEOK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

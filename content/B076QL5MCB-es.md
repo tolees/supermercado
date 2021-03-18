@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QL5MCB-es Dewar s 15 Años Whisky Escocés - 700 ml'
 sku: 'B076QL5MCB-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

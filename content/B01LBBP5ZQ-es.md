@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LBBP5ZQ-es Ribeira Proteina Natural - Pechuga de Pavo al natural - 1...'
 sku: 'B01LBBP5ZQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','pavo', ]
+tags: [ 'pavo', ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

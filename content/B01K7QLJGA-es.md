@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QLJGA-es Foxy Seda Papel Higiénico con pH Neutro - 6 Rollos'
 sku: 'B01K7QLJGA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','foxy', ]
+tags: [ 'foxy', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

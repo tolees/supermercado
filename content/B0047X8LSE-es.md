@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0047X8LSE-es Rimmel London Lasting Finish Foundation 25H Base de...'
 sku: 'B0047X8LSE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','finish', ]
+tags: [ 'finish', ]
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

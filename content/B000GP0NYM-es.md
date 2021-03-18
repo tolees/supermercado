@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000GP0NYM-es BSN True Mass Ganador en Polvo Chocolate - 2640 g'
 sku: 'B000GP0NYM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

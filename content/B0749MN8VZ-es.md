@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0749MN8VZ-es Gel hidroalcohólico antiséptico para piel sana S nonas....'
 sku: 'B0749MN8VZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','hidroalcohólico', ]
+tags: [ 'hidroalcohólico', ]
 actualPrice: 4.27 EUR
 currency: EUR
 price: 4.27

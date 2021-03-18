@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B6GKT7H-es Kellogg s KG30683 - Caja Cereales Metal Blanco Negro 18 5...'
 sku: 'B07B6GKT7H-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','kellogg', ]
+tags: [ 'kellogg', ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009KKQXFM-es La masía - Aceite de oliva suave - 1 L'
 sku: 'B009KKQXFM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','aceite','de','oliva', ]
+tags: [ 'aceite','de','oliva', ]
 actualPrice: 2.27 EUR
 currency: EUR
 price: 2.27

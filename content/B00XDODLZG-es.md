@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDODLZG-es Carmencita Orégano Especias - 45 gr'
 sku: 'B00XDODLZG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','carmencita', ]
+tags: [ 'carmencita', ]
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

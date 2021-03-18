@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0AE1PO-es LITORAL Fabada Asturiana Plato Preparado de Fabada...'
 sku: 'B01M0AE1PO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fabada','gluten','litoral','plato','preparado','sin', ]
+tags: [ 'fabada','gluten','litoral','plato','preparado','sin', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

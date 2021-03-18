@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073FV78PK-es Max Factor Healthy Skin Harmony Base de Maquillaje Tono 77...'
 sku: 'B073FV78PK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

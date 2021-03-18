@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ODQRGE-es NESCAFÉ Dolce Gusto | Capsulas de Café Cappuccino Ice |...'
 sku: 'B000ODQRGE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','dolce','gusto','nescafé', ]
+tags: [ 'café','dolce','gusto','nescafé', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

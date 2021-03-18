@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NR6RWY-es Beeasy Dispensador Jabón Automático 400mL Dosificador Gel...'
 sku: 'B089NR6RWY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','hidroalcohólico','jabón', ]
+tags: [ 'hidroalcohólico','jabón', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

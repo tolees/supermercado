@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I9AJ98M-es 414/21"O" Coca-Cola Glass Estuche 2 Copas'
 sku: 'B00I9AJ98M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','coca-cola', ]
+tags: [ 'coca-cola', ]
 actualPrice: 19.01 EUR
 currency: EUR
 price: 19.01

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BMHF25C-es San Valentín Vino Blanco - 6 botellas de 75 cl Total: 4500 ml'
 sku: 'B01BMHF25C-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','blanco','vino', ]
+tags: [ 'blanco','vino', ]
 actualPrice: 23.04 EUR
 currency: EUR
 price: 23.04

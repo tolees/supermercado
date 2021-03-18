@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OUNIMTO-es AUSONIA - 68301 JAMONERO PROFESIONAL DE BASE DE MADERA'
 sku: 'B00OUNIMTO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ausonia', ]
+tags: [ 'ausonia', ]
 actualPrice: 140.0 EUR
 currency: EUR
 price: 140.0

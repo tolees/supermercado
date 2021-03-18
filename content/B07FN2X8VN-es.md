@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FN2X8VN-es Café FORTALEZA - Surtido de Cápsulas de Café Orígenes...'
 sku: 'B07FN2X8VN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','cápsulas','de','fortaleza', ]
+tags: [ 'café','cápsulas','de','fortaleza', ]
 actualPrice: 33.91 EUR
 currency: EUR
 price: 33.91

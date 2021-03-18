@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005YWXR72-es Revlon ColorStay Maquillaje en Polvo #830 Light Medium'
 sku: 'B005YWXR72-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

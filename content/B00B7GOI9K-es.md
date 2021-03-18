@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B7GOI9K-es Eukanuba Adulto Raza pequeña y mediana Rico en cordero y...'
 sku: 'B00B7GOI9K-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arroz','eukanuba', ]
+tags: [ 'arroz','eukanuba', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

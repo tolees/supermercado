@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ORW0GM4-es Osborne Magno Solera Reserva Brandy - 1000 ml'
 sku: 'B00ORW0GM4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','brandy', ]
+tags: [ 'brandy', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

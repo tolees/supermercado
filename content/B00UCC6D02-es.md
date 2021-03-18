@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UCC6D02-es Spontex - Estropajo de Cocina 2 Unidades'
 sku: 'B00UCC6D02-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','estropajo','spontex', ]
+tags: [ 'estropajo','spontex', ]
 actualPrice: 2.18 EUR
 currency: EUR
 price: 2.18

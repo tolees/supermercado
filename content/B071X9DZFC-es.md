@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071X9DZFC-es Schwarzkopf Root Retoucher - Coloración del Cabello Negro...'
 sku: 'B071X9DZFC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

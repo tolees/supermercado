@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHZCZRH-es AUSONIA protege slips maxi caja 30 uds'
 sku: 'B07DHZCZRH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ausonia', ]
+tags: [ 'ausonia', ]
 actualPrice: 1.36 EUR
 currency: EUR
 price: 1.36

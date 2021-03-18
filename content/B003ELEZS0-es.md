@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ELEZS0-es Piz Buin - Crema solar Allergy Lotion SPF30 200 ml'
 sku: 'B003ELEZS0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','crema','solar', ]
+tags: [ 'crema','solar', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DGVAL2W-es Cardhu 15 Años Whisky Escocés - 700 ml'
 sku: 'B00DGVAL2W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cardhu','whisky', ]
+tags: [ 'cardhu','whisky', ]
 actualPrice: 38.74 EUR
 currency: EUR
 price: 38.74

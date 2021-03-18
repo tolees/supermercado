@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077N4K4HQ-es L Oréal Paris False Lash Xfiber Xtreme Máscara de Pestañas...'
 sku: 'B077N4K4HQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

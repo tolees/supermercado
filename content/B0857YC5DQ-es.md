@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0857YC5DQ-es Garnier Skin Active - BB Cream'
 sku: 'B0857YC5DQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: None None
 currency: None
 price: None

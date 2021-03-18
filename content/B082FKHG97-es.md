@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FKHG97-es Nuevos Hombres Mujeres Cabello Champú Cuero cabelludo...'
 sku: 'B082FKHG97-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú', ]
+tags: [ 'champú', ]
 actualPrice: 1.54 EUR
 currency: EUR
 price: 1.54

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W55CGGQ-es Nobleza - 100 x Empapadores Perros Alfombrilla higiénica...'
 sku: 'B07W55CGGQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','empapadores', ]
+tags: [ 'empapadores', ]
 actualPrice: 29.79 EUR
 currency: EUR
 price: 29.79

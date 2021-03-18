@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ6J3RN-es KLARSTEIN GrowIt Seeds Lote de Semillas - 9 paquetitos...'
 sku: 'B07NJ6J3RN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cilantro', ]
+tags: [ 'cilantro', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

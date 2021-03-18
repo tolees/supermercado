@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086RT3STW-es MovilCom® - Cortador de Verduras | Picadora Manual de...'
 sku: 'B086RT3STW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cebolla', ]
+tags: [ 'cebolla', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

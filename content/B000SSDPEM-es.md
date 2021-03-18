@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000SSDPEM-es Vileda Attractive Plus Recambios para mopa pack 24 + 6...'
 sku: 'B000SSDPEM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','vileda', ]
+tags: [ 'vileda', ]
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

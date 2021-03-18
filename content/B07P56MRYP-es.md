@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P56MRYP-es Max Factor Maquillaje corrector Tono: 305 Sand Pieles...'
 sku: 'B07P56MRYP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 3.3 EUR
 currency: EUR
 price: 3.3

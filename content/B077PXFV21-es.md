@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PXFV21-es Sanytol - Ambientador Desinfectante de Tejidos en Spray...'
 sku: 'B077PXFV21-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','sanytol', ]
+tags: [ 'sanytol', ]
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

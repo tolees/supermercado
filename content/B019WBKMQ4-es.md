@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019WBKMQ4-es L Oréal Paris Barra De Labios Color Infalible 24H 122-1...'
 sku: 'B019WBKMQ4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

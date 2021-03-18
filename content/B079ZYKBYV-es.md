@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ZYKBYV-es Nestlé Bolsita de puré de frutas variedad Manzana...'
 sku: 'B079ZYKBYV-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','manzana','nestlé', ]
+tags: [ 'manzana','nestlé', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L76W6UC-es Conguitos Cacahuete con Chocolate - 450 gr'
 sku: 'B01L76W6UC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BDTLL7W-es Eritritol 100 % natural 1 kg | Sustituto del azúcar con...'
 sku: 'B01BDTLL7W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

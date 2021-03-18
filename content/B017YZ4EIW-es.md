@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017YZ4EIW-es Tassimo Hot Choco Bundle Cápsulas - Cadbury Oreo Milka...'
 sku: 'B017YZ4EIW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','milka', ]
+tags: [ 'milka', ]
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

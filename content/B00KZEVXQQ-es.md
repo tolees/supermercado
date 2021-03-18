@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KZEVXQQ-es BSN Nutrition Amino X Suplementos Deportivos BCAA Polvo...'
 sku: 'B00KZEVXQQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','manzana', ]
+tags: [ 'manzana', ]
 actualPrice: 23.77 EUR
 currency: EUR
 price: 23.77

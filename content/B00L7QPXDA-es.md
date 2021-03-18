@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L7QPXDA-es Neutrogena - Cuerpo Hidratación Bálsamo Hidratación...'
 sku: 'B00L7QPXDA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','neutrogena', ]
+tags: [ 'neutrogena', ]
 actualPrice: 11.35 EUR
 currency: EUR
 price: 11.35

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7RL85G-es Nestlé Purés Tarrito de puré de verduras y carne variedad...'
 sku: 'B01K7RL85G-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nestlé', ]
+tags: [ 'nestlé', ]
 actualPrice: None None
 currency: None
 price: None

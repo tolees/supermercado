@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4NKDZ8-es La Toja Selection - Sales de Baño con Minerales Termales...'
 sku: 'B07D4NKDZ8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','la','toja', ]
+tags: [ 'la','toja', ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

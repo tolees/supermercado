@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088BVKRR7-es Zeen Paper Xuan - Papel de arroz 35 x 25 cm 30 hojas color...'
 sku: 'B088BVKRR7-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arroz', ]
+tags: [ 'arroz', ]
 actualPrice: 5.61 EUR
 currency: EUR
 price: 5.61

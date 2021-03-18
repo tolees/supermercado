@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJC7X3C-es Suavizante supreme glamour vernel 600ml.'
 sku: 'B07HJC7X3C-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','suavizante','vernel', ]
+tags: [ 'suavizante','vernel', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

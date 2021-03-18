@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y657ZRG-es Gel de Ducha Avena - Instituto Español - Pack 5 uds 1250 ML'
 sku: 'B06Y657ZRG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','ducha','español','gel','instituto', ]
+tags: [ 'de','ducha','español','gel','instituto', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

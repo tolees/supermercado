@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA06XQ2-es Scottex Sensitive Papel Higiénico 6 Rollos'
 sku: 'B00XA06XQ2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','scottex', ]
+tags: [ 'scottex', ]
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LTHWTII-es Scottex - Pañuelos Suaves y Resistentes 4 Capas 6 Paquetes...'
 sku: 'B01LTHWTII-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','scottex', ]
+tags: [ 'scottex', ]
 actualPrice: 8.81 EUR
 currency: EUR
 price: 8.81

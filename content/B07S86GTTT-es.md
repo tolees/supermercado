@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S86GTTT-es Braun Oral-B Genius PRO9000 Cepillo de Dientes Color Negro'
 sku: 'B07S86GTTT-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: None None
 currency: None
 price: None

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C9GHPJH-es Celorrio 20 - 20018 Piña En Almibar Rodajas 50-60 Lata...'
 sku: 'B07C9GHPJH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','almibar', ]
+tags: [ 'almibar', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

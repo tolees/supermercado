@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GETFD1M-es American Crew Nine Agua De Perfume Hombre - 75 ml.'
 sku: 'B00GETFD1M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','american','crew', ]
+tags: [ 'american','crew', ]
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

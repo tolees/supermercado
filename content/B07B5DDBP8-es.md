@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B5DDBP8-es Somat Todo en 1 Pastillas Lavavajillas - 70 Dosis'
 sku: 'B07B5DDBP8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','somat', ]
+tags: [ 'somat', ]
 actualPrice: 7.86 EUR
 currency: EUR
 price: 7.86

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MRFR1EO-es Refrigerador botellero puerta de Cristal color rojo con...'
 sku: 'B00MRFR1EO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','coca','cola', ]
+tags: [ 'coca','cola', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

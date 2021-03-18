@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087TH3GV5-es Cocoda Dispensador de Desinfectante Manos 350ml...'
 sku: 'B087TH3GV5-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabon', ]
+tags: [ 'jabon', ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

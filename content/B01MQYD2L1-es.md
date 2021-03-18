@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQYD2L1-es TRESemmé Laca Extra Fuerte - 400 ml'
 sku: 'B01MQYD2L1-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','tresemmé', ]
+tags: [ 'tresemmé', ]
 actualPrice: 2.3 EUR
 currency: EUR
 price: 2.3

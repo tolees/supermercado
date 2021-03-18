@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004EPYEMC-es Scitec Nutrition Whey Protein Proteína Chocolate Blanco -...'
 sku: 'B004EPYEMC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 17.19 EUR
 currency: EUR
 price: 17.19

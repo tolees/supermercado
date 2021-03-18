@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015WMRVKW-es Optimum Nutrition ON Serious Mass Proteina en Polvo Mass...'
 sku: 'B015WMRVKW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

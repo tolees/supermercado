@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WHRCU66-es NIVEA SUN Protege & Hidrata Spray Solar FP20 1 x 300 ml...'
 sku: 'B00WHRCU66-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 10.81 EUR
 currency: EUR
 price: 10.81

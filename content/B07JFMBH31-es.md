@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JFMBH31-es Levadura de Arroz Rojo con 10 mg de Monacolina K y 5 mg de...'
 sku: 'B07JFMBH31-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arroz','levadura', ]
+tags: [ 'arroz','levadura', ]
 actualPrice: 13.82 EUR
 currency: EUR
 price: 13.82

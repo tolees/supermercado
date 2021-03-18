@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XHPGTW-es Marca Amazon - Presto! Pañuelos de 3 capas - 12 cajas 12 x...'
 sku: 'B077XHPGTW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','presto!', ]
+tags: [ 'presto!', ]
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

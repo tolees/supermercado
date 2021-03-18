@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089WC8ZV4-es feihao Velas Perfumadas Velas Aromaticas Cera de Soja...'
 sku: 'B089WC8ZV4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','soja', ]
+tags: [ 'soja', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

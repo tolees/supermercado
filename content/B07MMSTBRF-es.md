@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMSTBRF-es WERNNSAI Conjunto de Suministros para la Fiesta Juego -...'
 sku: 'B07MMSTBRF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','servilletas', ]
+tags: [ 'servilletas', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

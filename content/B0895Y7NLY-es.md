@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895Y7NLY-es GREAT ART set de 2 posters XXL – Nueva York Graffiti -...'
 sku: 'B0895Y7NLY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','manzana', ]
+tags: [ 'manzana', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008X1GA6Q-es Maybelline New York The Colossal Go Extreme Radical Black...'
 sku: 'B008X1GA6Q-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

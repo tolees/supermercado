@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BB77KYP-es Vileda Colors Ondattiva milleusi 3 + 1 Esponja Multicolor...'
 sku: 'B07BB77KYP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','vileda', ]
+tags: [ 'vileda', ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GIA03EI-es Lactovit Loción corporal - 400 gr.'
 sku: 'B01GIA03EI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','lactovit', ]
+tags: [ 'lactovit', ]
 actualPrice: 3.54 EUR
 currency: EUR
 price: 3.54

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J5YD6FS-es Victrola Park Avenue Sistema De Sonido Tocadiscos 5-1...'
 sku: 'B07J5YD6FS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 150.56 EUR
 currency: EUR
 price: 150.56

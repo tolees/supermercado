@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3EXGX6-es Santa Rita Harina para Croquetas y Bechamel - 430 gr'
 sku: 'B00A3EXGX6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','bechamel','croquetas','harina', ]
+tags: [ 'bechamel','croquetas','harina', ]
 actualPrice: 1.93 EUR
 currency: EUR
 price: 1.93

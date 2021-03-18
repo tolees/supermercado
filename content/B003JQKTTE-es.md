@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003JQKTTE-es NIVEA Good-Bye Celulitis Q10 plus Crema Corporal...'
 sku: 'B003JQKTTE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SG9CL4A-es NIVEA Hyaluron Cellular Filler Serum Facial Renovador...'
 sku: 'B00SG9CL4A-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

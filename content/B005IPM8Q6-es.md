@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005IPM8Q6-es Philips Sonicare DiamondClean HX9332/04 - Cepillo de...'
 sku: 'B005IPM8Q6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 143.5 EUR
 currency: EUR
 price: 143.5

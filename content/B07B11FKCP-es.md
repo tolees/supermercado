@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B11FKCP-es Ladrón de Manzanas Cider Frutos Rojos - 4 Packs de 6...'
 sku: 'B07B11FKCP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','ladrón','manzanas', ]
+tags: [ 'de','ladrón','manzanas', ]
 actualPrice: 15.28 EUR
 currency: EUR
 price: 15.28

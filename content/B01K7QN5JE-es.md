@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QN5JE-es Orlando Tomate Frito Clásico - Pack de 3 x 210 g - Total :...'
 sku: 'B01K7QN5JE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','orlando', ]
+tags: [ 'orlando', ]
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

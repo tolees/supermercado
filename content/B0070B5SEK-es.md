@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0070B5SEK-es Wella SP Men - Set de espuma de pigmento negro Gradual...'
 sku: 'B0070B5SEK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú','wella', ]
+tags: [ 'champú','wella', ]
 actualPrice: 16.23 EUR
 currency: EUR
 price: 16.23

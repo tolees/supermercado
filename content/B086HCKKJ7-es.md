@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086HCKKJ7-es Ausonia Discreet Boutique Braguitas Para Pérdidas De Orina...'
 sku: 'B086HCKKJ7-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ausonia', ]
+tags: [ 'ausonia', ]
 actualPrice: 18.59 EUR
 currency: EUR
 price: 18.59

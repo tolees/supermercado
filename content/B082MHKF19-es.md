@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MHKF19-es Complot Cerveza IPA - Botella 33cl'
 sku: 'B082MHKF19-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

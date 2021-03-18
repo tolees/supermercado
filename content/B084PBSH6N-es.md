@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084PBSH6N-es 4 Unids/set Mesa de seguridad para niños Cubierta de...'
 sku: 'B084PBSH6N-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 1.36 EUR
 currency: EUR
 price: 1.36

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003X35YWA-es Uhlsport Team Pro Essential Medias de Equipaciones Sin...'
 sku: 'B003X35YWA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maíz', ]
+tags: [ 'maíz', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0744PWM4H-es Holle Papilla de Copos de Avena +4 meses - Paquete de 6 x...'
 sku: 'B0744PWM4H-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','avena','copos','de', ]
+tags: [ 'avena','copos','de', ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

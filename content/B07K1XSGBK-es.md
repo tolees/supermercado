@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1XSGBK-es CÚRCUMA + MATCHA Té Verde En Polvo - MEJORES MEZCLAS DE...'
 sku: 'B07K1XSGBK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cúrcuma', ]
+tags: [ 'cúrcuma', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

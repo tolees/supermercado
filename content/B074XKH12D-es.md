@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074XKH12D-es Iberitos - 216 Monodosis de Humus Crema de Garbanzos - 22...'
 sku: 'B074XKH12D-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','garbanzos', ]
+tags: [ 'garbanzos', ]
 actualPrice: 14.52 EUR
 currency: EUR
 price: 14.52

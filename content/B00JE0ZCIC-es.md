@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JE0ZCIC-es HeroNeo - Juego de plantillas para decoración de café 16...'
 sku: 'B00JE0ZCIC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 0.94 EUR
 currency: EUR
 price: 0.94

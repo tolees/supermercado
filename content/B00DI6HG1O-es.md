@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DI6HG1O-es Jim Beam Honey Bourbon Whisky Con Miel 35% - 700 ml'
 sku: 'B00DI6HG1O-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

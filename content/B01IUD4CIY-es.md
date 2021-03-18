@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IUD4CIY-es Conservas Dantza Esparrago - 345 gr'
 sku: 'B01IUD4CIY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','conservas', ]
+tags: [ 'conservas', ]
 actualPrice: 5.14 EUR
 currency: EUR
 price: 5.14

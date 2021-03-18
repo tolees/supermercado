@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7S92TE-es Colgate Pasta de dientes AntiSarro + Blanqueador - 75 ml'
 sku: 'B01K7S92TE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','colgate','de','dientes','pasta', ]
+tags: [ 'colgate','de','dientes','pasta', ]
 actualPrice: 1.57 EUR
 currency: EUR
 price: 1.57

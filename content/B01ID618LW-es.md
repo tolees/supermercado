@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ID618LW-es Vileda Turbo 2in1 - Recambio de Microfibras y poliamida...'
 sku: 'B01ID618LW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','vileda', ]
+tags: [ 'vileda', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088PJXXND-es Puleva Max Leche Blanca de Crecimiento Y Desarrollo - 10...'
 sku: 'B088PJXXND-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','puleva', ]
+tags: [ 'puleva', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

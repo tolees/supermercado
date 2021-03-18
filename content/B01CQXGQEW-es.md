@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CQXGQEW-es NIVEA Cellular Perfect Skin Cuidado de Día FP15 1 x 50 ml...'
 sku: 'B01CQXGQEW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','crema','hidratante','nivea', ]
+tags: [ 'crema','hidratante','nivea', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

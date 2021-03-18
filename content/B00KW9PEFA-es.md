@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KW9PEFA-es AUSONIA - 34400 NAVAJA INJERTADORA DE TRIÁNGULO CON HOJA...'
 sku: 'B00KW9PEFA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ausonia', ]
+tags: [ 'ausonia', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

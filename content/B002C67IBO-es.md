@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002C67IBO-es Tork 560008 - Dispensador de jabón líquido 1 l color negro'
 sku: 'B002C67IBO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

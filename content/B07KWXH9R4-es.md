@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWXH9R4-es MONJE DEL CLUNY Vino blanco – Albariño Rias Baixas –...'
 sku: 'B07KWXH9R4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','blanco','vino', ]
+tags: [ 'blanco','vino', ]
 actualPrice: 89.97 EUR
 currency: EUR
 price: 89.97

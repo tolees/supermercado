@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CNTZF1O-es Borges Natura - Cocktail Frutos Secos de nueces de...'
 sku: 'B01CNTZF1O-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','frutos','secos', ]
+tags: [ 'frutos','secos', ]
 actualPrice: 2.42 EUR
 currency: EUR
 price: 2.42

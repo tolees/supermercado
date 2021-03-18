@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MWM9YC8-es Exquisite Gaming MMFTMR300024 Meta Merch - Taza de café...'
 sku: 'B07MWM9YC8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

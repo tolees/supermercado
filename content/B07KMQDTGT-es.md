@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMQDTGT-es L Oréal Paris Rouge Signature 113 I Don t Pintalabios Mate...'
 sku: 'B07KMQDTGT-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 7.75 EUR
 currency: EUR
 price: 7.75

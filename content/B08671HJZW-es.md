@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08671HJZW-es Bastoncillos para los oídos de bambú y algodón- 1 unidad...'
 sku: 'B08671HJZW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','bastoncillos','los','oídos','para', ]
+tags: [ 'bastoncillos','los','oídos','para', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

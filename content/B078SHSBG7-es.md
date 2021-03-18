@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SHSBG7-es Vieira Galletas Chocolate - Paquete de 12 x 150 gr -...'
 sku: 'B078SHSBG7-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 7.61 EUR
 currency: EUR
 price: 7.61

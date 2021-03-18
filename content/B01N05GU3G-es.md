@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N05GU3G-es OGX Champú Aceite de Argán Extra Fuerte Hidrata y...'
 sku: 'B01N05GU3G-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú', ]
+tags: [ 'champú', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

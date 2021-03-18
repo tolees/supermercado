@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LQBJJHG-es Maybelline New York - Master Strobing Liquido Iluminador...'
 sku: 'B01LQBJJHG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 7.34 EUR
 currency: EUR
 price: 7.34

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QSHSNW-es L Oréal Paris Make-up designer True Match Corrector Tono...'
 sku: 'B073QSHSNW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081SGSCG9-es GoMaihe Tarro de Vidrio de Almacenamiento 3Pcs Tarros de...'
 sku: 'B081SGSCG9-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','conservas', ]
+tags: [ 'café','conservas', ]
 actualPrice: 23.69 EUR
 currency: EUR
 price: 23.69

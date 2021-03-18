@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VH2JN6M-es Rockport Perth Boat Shoe Náuticos para Hombre Azul Marino...'
 sku: 'B07VH2JN6M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: None None
 currency: None
 price: None

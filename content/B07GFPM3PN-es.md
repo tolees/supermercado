@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GFPM3PN-es Concentrado de Proteína de Suero Evowhey Protein 2.0 de...'
 sku: 'B07GFPM3PN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gluten','sin','soja', ]
+tags: [ 'gluten','sin','soja', ]
 actualPrice: 19.41 EUR
 currency: EUR
 price: 19.41

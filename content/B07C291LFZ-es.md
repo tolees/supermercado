@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C291LFZ-es 900 g Miel de bosque flores silvestres y hierbas...'
 sku: 'B07C291LFZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

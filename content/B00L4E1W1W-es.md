@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L4E1W1W-es Aislado de Proteína de Soja en Polvo | 100% A Base de...'
 sku: 'B00L4E1W1W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar','gluten','sin','soja', ]
+tags: [ 'azúcar','gluten','sin','soja', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

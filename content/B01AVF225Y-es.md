@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AVF225Y-es Revlon Super Lustroso Pintalabios mate – 4.2 g realmente rojo'
 sku: 'B01AVF225Y-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 2.65 EUR
 currency: EUR
 price: 2.65

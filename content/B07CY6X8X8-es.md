@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CY6X8X8-es Scottex - Toallitas Íntimas - 16 packs de 25 toallitas -...'
 sku: 'B07CY6X8X8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','scottex', ]
+tags: [ 'scottex', ]
 actualPrice: 18.75 EUR
 currency: EUR
 price: 18.75

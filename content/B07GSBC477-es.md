@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSBC477-es La Masia - Aceite de aguacate 250 ml - Lot de 4'
 sku: 'B07GSBC477-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','la','masia', ]
+tags: [ 'la','masia', ]
 actualPrice: 22.17 EUR
 currency: EUR
 price: 22.17

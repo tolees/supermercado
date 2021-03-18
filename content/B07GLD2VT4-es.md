@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GLD2VT4-es Té Yunnan Puerh 100g 0.22LB conservas Jazmín Puer pequeño...'
 sku: 'B07GLD2VT4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','conservas', ]
+tags: [ 'conservas', ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

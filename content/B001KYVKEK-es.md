@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001KYVKEK-es Revlon ColorStay Overtime Pintalabios Larga Duración...'
 sku: 'B001KYVKEK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

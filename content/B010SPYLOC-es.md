@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010SPYLOC-es Elizabeth Arden Always Red - Agua de toilette 50 ml'
 sku: 'B010SPYLOC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R98QGGT-es Marca Amazon - Happy Belly Avellanas tostadas sin sal...'
 sku: 'B07R98QGGT-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','belly','happy', ]
+tags: [ 'belly','happy', ]
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

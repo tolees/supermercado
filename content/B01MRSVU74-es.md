@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MRSVU74-es Braun MGK3060 Corta Barbas Hombre 8En1 Recortadora Barba y...'
 sku: 'B01MRSVU74-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 38.92 EUR
 currency: EUR
 price: 38.92

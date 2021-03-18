@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PQB2HC-es Masajeador Cuero Cabelludo FReatech [Mojado & Seco]...'
 sku: 'B077PQB2HC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú', ]
+tags: [ 'champú', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

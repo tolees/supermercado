@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7VLPP2-es Dove Dermaspa Crema Tratamiento Manos Night - Pack de 6 x...'
 sku: 'B07P7VLPP2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dove', ]
+tags: [ 'dove', ]
 actualPrice: 15.2 EUR
 currency: EUR
 price: 15.2

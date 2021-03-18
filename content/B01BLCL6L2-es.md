@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BLCL6L2-es Domus Finca La Trastada Aceite de Oliva Virgen Extra...'
 sku: 'B01BLCL6L2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','aceite','de','extra','oliva','virgen', ]
+tags: [ 'aceite','de','extra','oliva','virgen', ]
 actualPrice: 26.53 EUR
 currency: EUR
 price: 26.53

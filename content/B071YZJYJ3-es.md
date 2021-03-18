@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YZJYJ3-es Purina Felix Sensations Gelatinas comida para gatos...'
 sku: 'B071YZJYJ3-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','purina', ]
+tags: [ 'purina', ]
 actualPrice: 29.84 EUR
 currency: EUR
 price: 29.84

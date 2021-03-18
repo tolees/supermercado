@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001TOGQKO-es Marques De Riscal Reserva - Vino Tinto Botella de 0.75 L'
 sku: 'B001TOGQKO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','tinto','vino', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

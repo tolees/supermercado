@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CWWYF9-es Gillette Platinum Cuchillas de afeitar de doble filo para...'
 sku: 'B081CWWYF9-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 7.33 EUR
 currency: EUR
 price: 7.33

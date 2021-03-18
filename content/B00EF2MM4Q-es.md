@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EF2MM4Q-es Beefeater Burrough s Reserve Ginebra - 700 ml'
 sku: 'B00EF2MM4Q-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ginebra', ]
+tags: [ 'ginebra', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

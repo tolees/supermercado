@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081QHNBJF-es Neutrogena Cellular Boost Anti-Edad Crema De Día Spf 20...'
 sku: 'B081QHNBJF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','neutrogena', ]
+tags: [ 'neutrogena', ]
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QBMT27F-es Fregona con Pulverizador 4 mopas lavables Mopa Spray...'
 sku: 'B07QBMT27F-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fregona', ]
+tags: [ 'fregona', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

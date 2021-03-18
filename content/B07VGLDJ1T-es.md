@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGLDJ1T-es Hztyyier Taza del Vino del Estilo Europeo del Vintage...'
 sku: 'B07VGLDJ1T-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

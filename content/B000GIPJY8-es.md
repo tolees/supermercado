@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000GIPJY8-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en...'
 sku: 'B000GIPJY8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 53.9 EUR
 currency: EUR
 price: 53.9

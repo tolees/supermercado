@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QBQFFQS-es Valor Chocolate con leche almendras y avellanas 45% cacao...'
 sku: 'B07QBQFFQS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 2.18 EUR
 currency: EUR
 price: 2.18

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3PGCVY-es Palette Intense - Tono 3.65 Castaño Medio Chocolate - 2...'
 sku: 'B07N3PGCVY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate','schwarzkopf', ]
+tags: [ 'chocolate','schwarzkopf', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

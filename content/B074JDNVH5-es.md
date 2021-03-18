@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074JDNVH5-es Gullón Vitalday Tortitas Maíz Chocolate Gullón - 100 g'
 sku: 'B074JDNVH5-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate','gullón','maíz', ]
+tags: [ 'chocolate','gullón','maíz', ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

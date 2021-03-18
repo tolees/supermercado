@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T4SJFD2-es Balvi Bote Cocina Cucina Color Blanco Recipiente de Cocina...'
 sku: 'B00T4SJFD2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arroz', ]
+tags: [ 'arroz', ]
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

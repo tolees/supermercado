@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GTJ7ICI-es AUSONIA - 34744 SIERRA DE COMPÁS AJUSTABLE DE 30 CM DE...'
 sku: 'B01GTJ7ICI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ausonia', ]
+tags: [ 'ausonia', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

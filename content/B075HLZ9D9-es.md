@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075HLZ9D9-es Instituto Español Bebe Gel de Baño sin Jabón - 500 ml'
 sku: 'B075HLZ9D9-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','español','instituto','jabón', ]
+tags: [ 'español','instituto','jabón', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

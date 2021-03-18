@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZPF8J3Q-es Knorr Caldo Líquido de la Abuela Pollo - 1L'
 sku: 'B07ZPF8J3Q-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','knorr', ]
+tags: [ 'knorr', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

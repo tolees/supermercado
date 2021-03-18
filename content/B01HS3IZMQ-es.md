@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HS3IZMQ-es Cafés Granell - Exotic Collection - Sulawesi Café en Grano...'
 sku: 'B01HS3IZMQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 14.12 EUR
 currency: EUR
 price: 14.12

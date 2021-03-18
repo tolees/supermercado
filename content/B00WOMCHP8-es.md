@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WOMCHP8-es Crema Repelente Mosquitos - Repelente de Insectos para...'
 sku: 'B00WOMCHP8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','aceite','de','extra','oliva','virgen', ]
+tags: [ 'aceite','de','extra','oliva','virgen', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

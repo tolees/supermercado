@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXJRPYL-es dixan detergente Líquido - 2 paquetes de 2781 gr'
 sku: 'B07MXJRPYL-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','detergente','dixan', ]
+tags: [ 'detergente','dixan', ]
 actualPrice: 15.34 EUR
 currency: EUR
 price: 15.34

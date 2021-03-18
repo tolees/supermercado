@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EVRD5BE-es Vileda Cubo Ecologic - Cubo de Basura ecológico Especial...'
 sku: 'B00EVRD5BE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','vileda', ]
+tags: [ 'vileda', ]
 actualPrice: 28.12 EUR
 currency: EUR
 price: 28.12

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JBMAZFS-es Scitec Nutrition 100% Whey Protein Professional Chocolate...'
 sku: 'B00JBMAZFS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 42.89 EUR
 currency: EUR
 price: 42.89

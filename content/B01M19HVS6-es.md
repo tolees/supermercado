@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M19HVS6-es Handy Bag Bolsas de Basura 10 L Baño Extra Resistentes...'
 sku: 'B01M19HVS6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','basura','bolsas','de', ]
+tags: [ 'basura','bolsas','de', ]
 actualPrice: None None
 currency: None
 price: None

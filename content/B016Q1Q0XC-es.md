@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016Q1Q0XC-es Maybelline New York Barra de Labios Color Drama 110'
 sku: 'B016Q1Q0XC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

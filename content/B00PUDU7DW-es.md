@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PUDU7DW-es Rexona Maximum Protection Crema Antitranspirante Stress...'
 sku: 'B00PUDU7DW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','rexona', ]
+tags: [ 'rexona', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

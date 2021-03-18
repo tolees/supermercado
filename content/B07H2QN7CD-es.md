@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H2QN7CD-es Smint Caramelo Comprimido Sin Azúcar Tin Con Sabor A Fresa...'
 sku: 'B07H2QN7CD-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar','smint', ]
+tags: [ 'azúcar','smint', ]
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

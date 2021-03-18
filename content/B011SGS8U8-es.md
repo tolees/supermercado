@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011SGS8U8-es Botellas de cerveza Chef s Star de tapón fácil de abrir....'
 sku: 'B011SGS8U8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

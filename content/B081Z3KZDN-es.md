@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081Z3KZDN-es JICHUI Clásico Tomate máquina de Cortar de plástico...'
 sku: 'B081Z3KZDN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cebolla', ]
+tags: [ 'cebolla', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

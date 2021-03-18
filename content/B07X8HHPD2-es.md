@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8HHPD2-es Aceite de oliva de autor | Virgen extra ecológico...'
 sku: 'B07X8HHPD2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','aceite','arbequina','de','extra','oliva','virgen', ]
+tags: [ 'aceite','arbequina','de','extra','oliva','virgen', ]
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

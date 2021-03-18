@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MKBJ8M-es La Silla Española Ribadeo Oficina sin Reposacabezas...'
 sku: 'B074MKBJ8M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','española','la', ]
+tags: [ 'española','la', ]
 actualPrice: 52.54 EUR
 currency: EUR
 price: 52.54

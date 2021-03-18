@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DN9JIEE-es Meritene® FUERZA Y VITALIDAD - Suplementa tu nutrición y...'
 sku: 'B00DN9JIEE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

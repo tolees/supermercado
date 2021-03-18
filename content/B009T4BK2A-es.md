@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009T4BK2A-es One Key Ginebra - 700 ml'
 sku: 'B009T4BK2A-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ginebra', ]
+tags: [ 'ginebra', ]
 actualPrice: 31.13 EUR
 currency: EUR
 price: 31.13

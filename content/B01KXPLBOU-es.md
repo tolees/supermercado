@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KXPLBOU-es Maybelline Stick Master Contour Tono: 03 Dark - 7 g'
 sku: 'B01KXPLBOU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: None None
 currency: None
 price: None
@@ -28,10 +28,10 @@ Está [Maybelline Stick Master Contour Tono: 03 Dark - 7 g](https://www.amazon.e
 
 ℹ️:
 
-- Adecuado para los tipos de piel
-- Tipo de dispensador: lápiz
-- Número de colores: 03
-- Dirigido a las mujeres
 - Nombre del color: Dark
+- Dirigido a las mujeres
+- Número de colores: 03
+- Tipo de dispensador: lápiz
+- Adecuado para los tipos de piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01KXPLBOU/?tag=tolees-21)

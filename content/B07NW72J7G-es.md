@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW72J7G-es Vernel Suavizante Concentrado Romance – Pack de 3 Total 3.6 L'
 sku: 'B07NW72J7G-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','suavizante','vernel', ]
+tags: [ 'suavizante','vernel', ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

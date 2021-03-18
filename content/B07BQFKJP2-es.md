@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQFKJP2-es Scottex Collection Servilletas - 1500 unidades'
 sku: 'B07BQFKJP2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','scottex','servilletas', ]
+tags: [ 'scottex','servilletas', ]
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

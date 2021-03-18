@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08MW5BXWS-es SUAVINEX Suavinex Detergente para Biberones y Tetinas'
 sku: 'B08MW5BXWS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: None None
 currency: None
 price: None

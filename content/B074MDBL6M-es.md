@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MDBL6M-es La Silla Española Santander Oficina con Reposacabezas Piel...'
 sku: 'B074MDBL6M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','española','la', ]
+tags: [ 'española','la', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

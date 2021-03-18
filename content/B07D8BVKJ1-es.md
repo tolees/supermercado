@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D8BVKJ1-es Dove Loción Corporal de Aceite de Aguacate y Extracto de...'
 sku: 'B07D8BVKJ1-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dove', ]
+tags: [ 'dove', ]
 actualPrice: 27.18 EUR
 currency: EUR
 price: 27.18

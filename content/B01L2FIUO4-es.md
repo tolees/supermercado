@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L2FIUO4-es Revlon Professional Equave Kids Acondicionador...'
 sku: 'B01L2FIUO4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador','revlon', ]
+tags: [ 'acondicionador','revlon', ]
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

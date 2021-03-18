@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001GNBVU8-es Max Factor Lasting Performance Base de Maquillaje Líquida...'
 sku: 'B001GNBVU8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

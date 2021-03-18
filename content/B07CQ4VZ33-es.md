@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQ4VZ33-es Brillante Arroz Redondo - Pack de 16 vasitos X 200 Gr -...'
 sku: 'B07CQ4VZ33-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arroz', ]
+tags: [ 'arroz', ]
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

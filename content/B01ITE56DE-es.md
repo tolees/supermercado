@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ITE56DE-es NESTLÉ NIDINA 2 Premium [PACK AHORRO] - A partir de los 6...'
 sku: 'B01ITE56DE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nestlé', ]
+tags: [ 'nestlé', ]
 actualPrice: 13.36 EUR
 currency: EUR
 price: 13.36

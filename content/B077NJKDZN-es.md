@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077NJKDZN-es L Oréal Paris - Brow Artist Micro Tattoo Perfilador de...'
 sku: 'B077NJKDZN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 10 EUR
 currency: EUR
 price: 10

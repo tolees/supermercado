@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSBVJ24-es NIVEA Bajo la Ducha Body Milk Nutritivo en pack de 6 6 x...'
 sku: 'B07GSBVJ24-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador','nivea', ]
+tags: [ 'acondicionador','nivea', ]
 actualPrice: 20.63 EUR
 currency: EUR
 price: 20.63

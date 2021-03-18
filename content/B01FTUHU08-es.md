@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FTUHU08-es BSN Suplemento Dietético en Polvo "NO Xplode XE Edge Pre-...'
 sku: 'B01FTUHU08-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','manzana', ]
+tags: [ 'manzana', ]
 actualPrice: 20.03 EUR
 currency: EUR
 price: 20.03

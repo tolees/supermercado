@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSN2HQR-es L Oréal Men Expert - Kit de Regalo para Hombre Incluye...'
 sku: 'B07NSN2HQR-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú','oréal', ]
+tags: [ 'champú','oréal', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

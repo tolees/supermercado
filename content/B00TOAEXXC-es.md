@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TOAEXXC-es PAVO 8056019 Llaves/Armario/Caja Fuerte AES con Seguridad...'
 sku: 'B00TOAEXXC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','pavo', ]
+tags: [ 'pavo', ]
 actualPrice: 110.89 EUR
 currency: EUR
 price: 110.89

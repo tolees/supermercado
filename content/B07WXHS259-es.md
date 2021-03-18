@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WXHS259-es Tassimo Coffee L OR Espresso Bundle Cápsulas de Café - L...'
 sku: 'B07WXHS259-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','cápsulas','de', ]
+tags: [ 'café','cápsulas','de', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

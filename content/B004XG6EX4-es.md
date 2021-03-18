@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004XG6EX4-es Max factor - Lipfinity bálsamo y brillo de labios color...'
 sku: 'B004XG6EX4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 5.22 EUR
 currency: EUR
 price: 5.22

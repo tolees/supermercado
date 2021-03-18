@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NGKGK32-es Lactacyd Pharma Protección - Con extractos naturales de...'
 sku: 'B00NGKGK32-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','lactacyd', ]
+tags: [ 'lactacyd', ]
 actualPrice: 6.96 EUR
 currency: EUR
 price: 6.96

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZJ81KP7-es Leche entera UHT Dana de larga duración 250 ml x 12 3 5%...'
 sku: 'B07ZJ81KP7-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','entera','leche', ]
+tags: [ 'entera','leche', ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

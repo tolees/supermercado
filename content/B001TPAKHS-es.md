@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001TPAKHS-es Johnnie Walker Black Whisky Escocés - 700 ml'
 sku: 'B001TPAKHS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

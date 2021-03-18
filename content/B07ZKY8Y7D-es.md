@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKY8Y7D-es L´Oréal Men Expert Hydra Energetic Pack con Gel de Ducha...'
 sku: 'B07ZKY8Y7D-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','crema','de','ducha','gel','hidratante', ]
+tags: [ 'crema','de','ducha','gel','hidratante', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

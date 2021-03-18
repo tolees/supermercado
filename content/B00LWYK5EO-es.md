@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LWYK5EO-es Maybelline New York - The Colossal Go Extreme Volum...'
 sku: 'B00LWYK5EO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

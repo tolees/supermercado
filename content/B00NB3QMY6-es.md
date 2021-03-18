@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NB3QMY6-es Silicium España Laboratorios Rosa Mosqueta Crema...'
 sku: 'B00NB3QMY6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','crema','hidratante', ]
+tags: [ 'crema','hidratante', ]
 actualPrice: 29.22 EUR
 currency: EUR
 price: 29.22

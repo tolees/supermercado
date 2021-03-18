@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XTCTST6-es Neutrogena Loción Corporal Elasticidad Intensa - 2...'
 sku: 'B06XTCTST6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','neutrogena', ]
+tags: [ 'neutrogena', ]
 actualPrice: 25.41 EUR
 currency: EUR
 price: 25.41

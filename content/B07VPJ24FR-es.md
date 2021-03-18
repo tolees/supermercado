@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPJ24FR-es Tamnavulin Sherry Cask Whisky De Malta Escocés - 700 ml'
 sku: 'B07VPJ24FR-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

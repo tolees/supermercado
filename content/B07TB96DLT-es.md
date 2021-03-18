@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TB96DLT-es President Leche Desnatada 1 5L x 6 = 9L'
 sku: 'B07TB96DLT-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','president', ]
+tags: [ 'president', ]
 actualPrice: None None
 currency: None
 price: None

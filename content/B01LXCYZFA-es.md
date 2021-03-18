@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXCYZFA-es Gourmet Aceitunas Rellenas de Anchoa Verdes Manzanilla...'
 sku: 'B01LXCYZFA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','aceitunas','anchoa','manzanilla','rellenas', ]
+tags: [ 'aceitunas','anchoa','manzanilla','rellenas', ]
 actualPrice: None None
 currency: None
 price: None

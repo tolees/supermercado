@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXBGFM4-es Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15...'
 sku: 'B07SXBGFM4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

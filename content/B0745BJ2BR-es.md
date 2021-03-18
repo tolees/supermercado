@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0745BJ2BR-es Brabantia Código Y Bolsas de Basura Formato Rollo Blanco...'
 sku: 'B0745BJ2BR-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','basura','bolsas','de', ]
+tags: [ 'basura','bolsas','de', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

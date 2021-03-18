@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DI7J8AK-es Ecozone - Nueces de jabon para lavar la ropa bolsa de 1 kg...'
 sku: 'B00DI7J8AK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabon', ]
+tags: [ 'jabon', ]
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

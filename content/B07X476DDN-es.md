@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X476DDN-es Smint Tin Frutos Rojos Caramelo Comprimido Sin Azúcar - 2...'
 sku: 'B07X476DDN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar','smint', ]
+tags: [ 'azúcar','smint', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

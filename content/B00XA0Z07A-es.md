@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA0Z07A-es Milka - Tableta De Chocolate con Galleta Lu - 87 g'
 sku: 'B00XA0Z07A-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate','milka', ]
+tags: [ 'chocolate','milka', ]
 actualPrice: 0.86 EUR
 currency: EUR
 price: 0.86

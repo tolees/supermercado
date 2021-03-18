@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0058LQIZ2-es Glenfarclas 12 Year Old Highland Single Malt Whisky 43% 1...'
 sku: 'B0058LQIZ2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 30.1 EUR
 currency: EUR
 price: 30.1

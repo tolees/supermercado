@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CRL9X78-es Dove Crema de ducha exfoliante de Granada & sheabu tter 4...'
 sku: 'B07CRL9X78-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dove', ]
+tags: [ 'dove', ]
 actualPrice: 18.15 EUR
 currency: EUR
 price: 18.15

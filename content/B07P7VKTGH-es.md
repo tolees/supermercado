@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7VKTGH-es Axe Dark Temptation Pack Duplo Ahorro - 2 Paquetes de 2 x...'
 sku: 'B07P7VKTGH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','axe', ]
+tags: [ 'axe', ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

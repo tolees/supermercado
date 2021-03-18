@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071GQHX3K-es Johnnie Walker Blue Label Whisky Edición Limitada...'
 sku: 'B071GQHX3K-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

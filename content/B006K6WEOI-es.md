@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006K6WEOI-es Dewar s Whisky White Label 1750 ml'
 sku: 'B006K6WEOI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

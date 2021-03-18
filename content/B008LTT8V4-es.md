@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008LTT8V4-es L Oréal Paris Barra de Labios Color Riche Creme 297 lntense'
 sku: 'B008LTT8V4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 5.66 EUR
 currency: EUR
 price: 5.66

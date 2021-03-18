@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MNZ2F3Q-es iBazal 22mm Correas Cuero Piel Pulseras Bandas Compatible...'
 sku: 'B07MNZ2F3Q-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

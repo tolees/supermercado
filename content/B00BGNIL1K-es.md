@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BGNIL1K-es Lancaster Gel y jabón - 250 gr.'
 sku: 'B00BGNIL1K-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

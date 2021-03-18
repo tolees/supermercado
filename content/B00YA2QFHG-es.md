@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YA2QFHG-es Viaggio Espresso Cápsulas de café compatibles con máquinas...'
 sku: 'B00YA2QFHG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','cápsulas','de', ]
+tags: [ 'café','cápsulas','de', ]
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

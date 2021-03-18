@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CP86XK0-es Tirma PT042010 - Ambrosías con Relleno Cubiertas de...'
 sku: 'B01CP86XK0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 13.69 EUR
 currency: EUR
 price: 13.69

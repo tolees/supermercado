@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MV27KBQ-es Kit Barba Cuidado para Hombre Crecimiento Aseo y Recorte -...'
 sku: 'B07MV27KBQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú', ]
+tags: [ 'champú', ]
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

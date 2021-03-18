@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797VH3MJ-es Kit Cuidado Set Barba con Libre Champu Barba Peine Barba...'
 sku: 'B0797VH3MJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champu', ]
+tags: [ 'champu', ]
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

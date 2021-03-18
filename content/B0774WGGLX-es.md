@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0774WGGLX-es Knorr Caldo Eco con Carne - 60 gr'
 sku: 'B0774WGGLX-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','knorr', ]
+tags: [ 'knorr', ]
 actualPrice: None None
 currency: None
 price: None
@@ -29,8 +29,8 @@ Tienes [Knorr Caldo Eco con Carne - 60 gr](https://www.amazon.es/dp/B0774WGGLX/?
 🔎:
 
 - 1 Pack de 6 unidades
-- Peso: 60 gr
 - Pastilla Ecológico Carne
+- Peso: 60 gr
 - Almacenar en un sitio seco y oscuro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0774WGGLX/?tag=tolees-21)

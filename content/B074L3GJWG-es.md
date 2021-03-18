@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074L3GJWG-es FRETZ men Hull Mocasines para Hombre Gris Dove 53 46 EU'
 sku: 'B074L3GJWG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dove', ]
+tags: [ 'dove', ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

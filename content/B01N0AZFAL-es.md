@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0AZFAL-es NERTHUS FIH 167 - La croquetera ideal para albóndigas...'
 sku: 'B01N0AZFAL-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','croquetas', ]
+tags: [ 'croquetas', ]
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

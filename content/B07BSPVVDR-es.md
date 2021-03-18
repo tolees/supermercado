@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BSPVVDR-es PowerBar Protein Plus 52% Chocolate Nut 20x50g - Barras de...'
 sku: 'B07BSPVVDR-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar','chocolate', ]
+tags: [ 'azúcar','chocolate', ]
 actualPrice: 27.89 EUR
 currency: EUR
 price: 27.89

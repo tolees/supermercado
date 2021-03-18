@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ICMT7A2-es Babaria Gel de Rápida Absorción para Después del Afeitado...'
 sku: 'B00ICMT7A2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','babaria', ]
+tags: [ 'babaria', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

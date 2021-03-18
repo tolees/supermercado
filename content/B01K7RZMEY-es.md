@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7RZMEY-es Carbonell Aceite de Oliva Virgen Extra 3L'
 sku: 'B01K7RZMEY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','aceite','carbonell','de','extra','oliva','virgen', ]
+tags: [ 'aceite','carbonell','de','extra','oliva','virgen', ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q58QBN5-es Colgate ProClinical 150 Cepillo de Dientes Suave de...'
 sku: 'B07Q58QBN5-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','colgate','de','dientes', ]
+tags: [ 'cepillo','colgate','de','dientes', ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

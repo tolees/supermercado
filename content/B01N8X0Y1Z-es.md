@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N8X0Y1Z-es Le Petit Marseillais Champú refrescante Detox Infusion de...'
 sku: 'B01N8X0Y1Z-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú', ]
+tags: [ 'champú', ]
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WXLX9T8-es Marca Amazon - Happy Belly Espresso Decaffeinato- Café UTZ...'
 sku: 'B07WXLX9T8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','belly','café','descafeinado','happy', ]
+tags: [ 'belly','café','descafeinado','happy', ]
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

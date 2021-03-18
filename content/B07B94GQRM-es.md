@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B94GQRM-es Purina Friskies Vitafit Omega Pienso para Perro Adulto...'
 sku: 'B07B94GQRM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','friskies','purina', ]
+tags: [ 'friskies','purina', ]
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

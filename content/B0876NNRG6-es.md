@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0876NNRG6-es Marca Amazon - Solimo Jabón de manos líquido - Frambuesa &...'
 sku: 'B0876NNRG6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón','solimo', ]
+tags: [ 'jabón','solimo', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

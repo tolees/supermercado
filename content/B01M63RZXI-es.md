@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M63RZXI-es TAMPAX Superplus Tampones - 30 Unidades'
 sku: 'B01M63RZXI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','tampax', ]
+tags: [ 'tampax', ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

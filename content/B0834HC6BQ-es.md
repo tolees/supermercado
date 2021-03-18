@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0834HC6BQ-es Planetacase Taza Padrino - Aquí Bebe Un Super Padrino -...'
 sku: 'B0834HC6BQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: None None
 currency: None
 price: None

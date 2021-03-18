@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079HBT9M3-es Philips Cepillo dental eléctrico sónico HX6870/47 -...'
 sku: 'B079HBT9M3-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 111.75 EUR
 currency: EUR
 price: 111.75

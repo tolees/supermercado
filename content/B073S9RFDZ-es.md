@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073S9RFDZ-es Hawaiian Tropic Sensitive Skin Face - Crema Solar para la...'
 sku: 'B073S9RFDZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','crema','solar', ]
+tags: [ 'crema','solar', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004JV7QX0-es Brandy de Jerez Solera Gran Reserva Carlos I - 1 botella...'
 sku: 'B004JV7QX0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','brandy', ]
+tags: [ 'brandy', ]
 actualPrice: 22.26 EUR
 currency: EUR
 price: 22.26

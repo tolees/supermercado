@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YBLG2S9-es Font Vella Levité Limón Zero - pack de 6 x 1 25L'
 sku: 'B07YBLG2S9-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','font','vella', ]
+tags: [ 'font','vella', ]
 actualPrice: 6.84 EUR
 currency: EUR
 price: 6.84

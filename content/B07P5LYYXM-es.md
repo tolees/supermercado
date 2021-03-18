@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5LYYXM-es Morgan Pull Fin Col roulé MENTOS Pullover Sweater Rojo...'
 sku: 'B07P5LYYXM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','mentos', ]
+tags: [ 'mentos', ]
 actualPrice: 13.06 EUR
 currency: EUR
 price: 13.06

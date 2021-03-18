@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6BX75G-es Chicco Tutina Bimbo con Apertura Entrogamba Mono Corto...'
 sku: 'B07S6BX75G-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','bimbo', ]
+tags: [ 'bimbo', ]
 actualPrice: None None
 currency: None
 price: None

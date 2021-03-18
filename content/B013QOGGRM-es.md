@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013QOGGRM-es Max Factor Masterpiece High Precision Eyeliner Delineador...'
 sku: 'B013QOGGRM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 5.33 EUR
 currency: EUR
 price: 5.33

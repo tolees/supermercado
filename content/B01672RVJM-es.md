@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01672RVJM-es Alternativa 3 - Azúcar Panela Bio Alternativa 5kg'
 sku: 'B01672RVJM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

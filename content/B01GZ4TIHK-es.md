@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GZ4TIHK-es Licor del Polo - Pasta de dientes 2 en 1 Blanqueador...'
 sku: 'B01GZ4TIHK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','dientes','pasta', ]
+tags: [ 'de','dientes','pasta', ]
 actualPrice: 7.75 EUR
 currency: EUR
 price: 7.75

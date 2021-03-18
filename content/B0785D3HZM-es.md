@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0785D3HZM-es Tasty Bone Bovino para Asar y Vino Tinto pequeño'
 sku: 'B0785D3HZM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','tinto','vino', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 7.09 EUR
 currency: EUR
 price: 7.09

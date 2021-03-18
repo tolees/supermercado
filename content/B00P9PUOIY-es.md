@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P9PUOIY-es American Crew Champú Diario 250 ml'
 sku: 'B00P9PUOIY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','american','champú','crew', ]
+tags: [ 'american','champú','crew', ]
 actualPrice: 9.72 EUR
 currency: EUR
 price: 9.72

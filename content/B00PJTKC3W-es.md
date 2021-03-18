@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PJTKC3W-es Fairy Jabón Lavavajillas - 5350 gr'
 sku: 'B00PJTKC3W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fairy','jabón', ]
+tags: [ 'fairy','jabón', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

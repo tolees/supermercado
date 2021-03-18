@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000JF9Q1U-es Redken 54461 - Cuidado capilar 150 ml'
 sku: 'B000JF9Q1U-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','capilar','cuidado', ]
+tags: [ 'capilar','cuidado', ]
 actualPrice: 12.41 EUR
 currency: EUR
 price: 12.41

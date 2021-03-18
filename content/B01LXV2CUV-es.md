@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXV2CUV-es Vernel Aromaterapia Secretos de Bienestar Suavizante...'
 sku: 'B01LXV2CUV-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','suavizante','vernel', ]
+tags: [ 'suavizante','vernel', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

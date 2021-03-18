@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KM2RL6J-es NESACAFÉ Dolce Gusto | Capsulas de Café Latte Macchiato...'
 sku: 'B07KM2RL6J-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','dolce','gusto', ]
+tags: [ 'café','dolce','gusto', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

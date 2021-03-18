@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EUE8MK2-es AVÉNE Cicalfate Crema Reparadora de Manos 100 ml'
 sku: 'B00EUE8MK2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','crema','de','manos','reparadora', ]
+tags: [ 'crema','de','manos','reparadora', ]
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

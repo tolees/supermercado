@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I2Y4SMQ-es Taky Chocolate Bandas De Cera Corporales Depilatorias 12 +...'
 sku: 'B01I2Y4SMQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

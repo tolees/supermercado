@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY1CDG1-es Marcilla Café Grano Gran Aroma Mezcla - 1 Kg'
 sku: 'B01LY1CDG1-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','marcilla', ]
+tags: [ 'café','marcilla', ]
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

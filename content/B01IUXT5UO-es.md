@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IUXT5UO-es Chocolates Valor - Chocolate 70% Cacao con Mousse de...'
 sku: 'B01IUXT5UO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','azúcar','chocolate', ]
+tags: [ 'azúcar','chocolate', ]
 actualPrice: 1.33 EUR
 currency: EUR
 price: 1.33

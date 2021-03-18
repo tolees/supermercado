@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FB2CYGH-es Eucerin Filtro solar corporal - 200 ml'
 sku: 'B07FB2CYGH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','eucerin', ]
+tags: [ 'eucerin', ]
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

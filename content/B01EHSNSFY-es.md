@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EHSNSFY-es Ausonia Discreet Normal M - Braguitas-Pants paquete de 9...'
 sku: 'B01EHSNSFY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ausonia', ]
+tags: [ 'ausonia', ]
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

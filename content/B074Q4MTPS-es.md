@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074Q4MTPS-es Licor del Polo - Pasta de dientes 2 en 1 Non Stop Fresh -...'
 sku: 'B074Q4MTPS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','dientes','pasta', ]
+tags: [ 'de','dientes','pasta', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

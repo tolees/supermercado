@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LW70EKQ-es Nivea soft - Tarro 300 ml pack of 3'
 sku: 'B00LW70EKQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 11.07 EUR
 currency: EUR
 price: 11.07

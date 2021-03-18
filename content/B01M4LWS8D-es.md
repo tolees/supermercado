@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M4LWS8D-es Gourmet - Aceitunas rellenas de anchoa - Verdes manzanilla...'
 sku: 'B01M4LWS8D-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','aceitunas','anchoa','manzanilla','rellenas', ]
+tags: [ 'aceitunas','anchoa','manzanilla','rellenas', ]
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

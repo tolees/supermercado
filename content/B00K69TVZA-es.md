@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K69TVZA-es Max Factor CC Colour Corrector Sticks Correctores Tono...'
 sku: 'B00K69TVZA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

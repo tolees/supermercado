@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VS2DCZ-es Head & Shoulders Men Ultra Frescor Instantáneo Champú...'
 sku: 'B079VS2DCZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú', ]
+tags: [ 'champú', ]
 actualPrice: 5.32 EUR
 currency: EUR
 price: 5.32

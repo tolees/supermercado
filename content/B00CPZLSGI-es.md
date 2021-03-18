@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CPZLSGI-es Bulleit Rye Whisky - 700 ml'
 sku: 'B00CPZLSGI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 28.1 EUR
 currency: EUR
 price: 28.1

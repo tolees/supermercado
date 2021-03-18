@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G6TZ6LQ-es FRHOME - Nescafè Dolce Gusto 96 Càpsulas compatibles - Il...'
 sku: 'B01G6TZ6LQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','dolce','gusto', ]
+tags: [ 'dolce','gusto', ]
 actualPrice: 18.4 EUR
 currency: EUR
 price: 18.4

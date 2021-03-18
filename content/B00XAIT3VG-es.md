@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAIT3VG-es Gotas Frescas Colonia Concentrada - Instituto Español 80...'
 sku: 'B00XAIT3VG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','español','instituto', ]
+tags: [ 'español','instituto', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002IJM4DW-es Vileda Park & Go - Funda de planchar con zona parking...'
 sku: 'B002IJM4DW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','vileda', ]
+tags: [ 'vileda', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

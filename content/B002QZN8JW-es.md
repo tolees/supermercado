@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002QZN8JW-es Optimum Nutrition ON Platinum Hydro Whey Proteínas en...'
 sku: 'B002QZN8JW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 59.26 EUR
 currency: EUR
 price: 59.26

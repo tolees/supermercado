@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FPELUI6-es "6 Especialidades de Cerveza Alemana" Colección de la...'
 sku: 'B01FPELUI6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DZYPY8A-es Optimum Nutrition ON Gold Standard BCAA Polvo Suplementos...'
 sku: 'B01DZYPY8A-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','manzana','pera', ]
+tags: [ 'manzana','pera', ]
 actualPrice: 19.37 EUR
 currency: EUR
 price: 19.37

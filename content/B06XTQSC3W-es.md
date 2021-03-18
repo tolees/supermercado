@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XTQSC3W-es Paternina Verdejo D.O. Rueda Vino blanco - 6 botellas x...'
 sku: 'B06XTQSC3W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','blanco','vino', ]
+tags: [ 'blanco','vino', ]
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

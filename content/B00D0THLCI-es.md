@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D0THLCI-es Max Factor Colour Elixir Lipstick 730 Flushed Fuchsia...'
 sku: 'B00D0THLCI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 3.01 EUR
 currency: EUR
 price: 3.01

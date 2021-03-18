@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DUXYPV8-es Central Lechera Asturiana - Nata Montada Azucarada para...'
 sku: 'B01DUXYPV8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','central','lechera', ]
+tags: [ 'central','lechera', ]
 actualPrice: None None
 currency: None
 price: None
@@ -30,7 +30,7 @@ En este momento está [Central Lechera Asturiana - Nata Montada Azucarada para M
 
 - Nata (leche), azúcar (8,5%), emulgente (E-472b), corrector de acidez (E-339), estabilizante (E-407), gas propelente (N2O)
 - España
-- Leche UHT
 - Agitar fuertemente antes de usar , 2 o 3 segundos.
+- Leche UHT
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01DUXYPV8/?tag=tolees-21)

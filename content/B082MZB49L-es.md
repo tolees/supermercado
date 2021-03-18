@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MZB49L-es Junio1 Hermosa Caja de Regalo de Flor de jabón de Caja de...'
 sku: 'B082MZB49L-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

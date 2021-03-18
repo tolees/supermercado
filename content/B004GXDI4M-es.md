@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004GXDI4M-es Maybelline - Barra de Labios Superstay 24h con estuche 585...'
 sku: 'B004GXDI4M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

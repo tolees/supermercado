@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LD0BLDA-es Invero® - Juego de 6 tazas altas transparentes de 240 ml...'
 sku: 'B01LD0BLDA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','chocolate', ]
+tags: [ 'café','chocolate', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

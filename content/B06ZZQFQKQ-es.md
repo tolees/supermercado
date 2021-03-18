@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZZQFQKQ-es Instituto Español Piel Sana Crema Corporal Hidratante -...'
 sku: 'B06ZZQFQKQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','español','instituto', ]
+tags: [ 'español','instituto', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FGGP5CP-es Diadermine Expert Rejuvenecedor crema de día crema de...'
 sku: 'B07FGGP5CP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','diadermine', ]
+tags: [ 'diadermine', ]
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y2TYBWX-es Dove Beauty Finish Desodorante Antitranspirante Aerosol...'
 sku: 'B06Y2TYBWX-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante','dove','finish', ]
+tags: [ 'desodorante','dove','finish', ]
 actualPrice: 8.33 EUR
 currency: EUR
 price: 8.33

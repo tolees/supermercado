@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DWFIUHY-es Colgate Fun Smile Cepillo de Dientes Surtido: Modelos...'
 sku: 'B01DWFIUHY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','colgate','de','dientes', ]
+tags: [ 'cepillo','colgate','de','dientes', ]
 actualPrice: 10.6 EUR
 currency: EUR
 price: 10.6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VX6U97E-es Revlon Colorstay 24H Base de maquillaje para rostro para...'
 sku: 'B00VX6U97E-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bases de maquillaje','Baño e higiene personal','Belleza','Bombillas','Bombillas LED','Desodorantes','Hogar y cocina','Iluminación','Limpieza personal','Maquillaje','Maquillaje facial','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','colorstay','revlon', ]
+tags: [ 'Bases de maquillaje','Baño e higiene personal','Belleza','Bombillas','Bombillas LED','Desodorantes','Iluminación','Maquillaje','Maquillaje facial','colorstay','revlon', ]
 actualPrice: 4.65 EUR
 currency: EUR
 price: 4.65

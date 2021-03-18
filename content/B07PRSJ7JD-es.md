@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRSJ7JD-es Tio Pepe Vermouth La Copa Reserva - 3 Botellas x 750 ml -...'
 sku: 'B07PRSJ7JD-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','vermouth', ]
+tags: [ 'vermouth', ]
 actualPrice: 40.04 EUR
 currency: EUR
 price: 40.04

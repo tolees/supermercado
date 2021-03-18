@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002ZNQY6E-es Maybelline Roller Color Loose Powder Eye Shadow Plata'
 sku: 'B002ZNQY6E-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 1.09 EUR
 currency: EUR
 price: 1.09

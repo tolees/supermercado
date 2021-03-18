@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZ1PTTC-es Babaria Men Vital Skin Stop Arrugas Lote Crema Antiarrugas...'
 sku: 'B01MZ1PTTC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','babaria', ]
+tags: [ 'babaria', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

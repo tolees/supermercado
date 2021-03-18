@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0759PHQ7D-es Sesderma Resveraderm Crema Nutritiva - 50 ml'
 sku: 'B0759PHQ7D-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','sesderma', ]
+tags: [ 'sesderma', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

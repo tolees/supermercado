@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005HQNC7A-es Jim Beam Kentucky Straight Bourbon Whisky 40% - 1750 ml'
 sku: 'B005HQNC7A-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 21.05 EUR
 currency: EUR
 price: 21.05

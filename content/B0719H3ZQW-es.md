@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0719H3ZQW-es Compartimientos plegables del almacenaje del yute cesta de...'
 sku: 'B0719H3ZQW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

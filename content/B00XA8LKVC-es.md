@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA8LKVC-es Aceite de oliva virgen extra carbonell gran selección 0 75...'
 sku: 'B00XA8LKVC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','aceite','carbonell','de','extra','oliva','virgen', ]
+tags: [ 'aceite','carbonell','de','extra','oliva','virgen', ]
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LCTXY3C-es Pantene Pro-V Prevención Caída Champú para el Cabello con...'
 sku: 'B01LCTXY3C-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú','pantene', ]
+tags: [ 'champú','pantene', ]
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

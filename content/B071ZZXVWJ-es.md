@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071ZZXVWJ-es Tasty Bites Cheesy carne y queso de 140g para educar |...'
 sku: 'B071ZZXVWJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','queso', ]
+tags: [ 'queso', ]
 actualPrice: 6 EUR
 currency: EUR
 price: 6

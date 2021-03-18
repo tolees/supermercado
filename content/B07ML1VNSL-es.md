@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ML1VNSL-es Set de aceites esenciales de aromaterapia orgánica - TOP8...'
 sku: 'B07ML1VNSL-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','canela', ]
+tags: [ 'canela', ]
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

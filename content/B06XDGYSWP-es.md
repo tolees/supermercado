@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDGYSWP-es Garnier Skin Active - Pure Active Sensitive Limpiador de...'
 sku: 'B06XDGYSWP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','garnier','jabón', ]
+tags: [ 'garnier','jabón', ]
 actualPrice: 4.85 EUR
 currency: EUR
 price: 4.85

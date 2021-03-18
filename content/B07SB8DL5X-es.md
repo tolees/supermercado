@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SB8DL5X-es Purina DentaLife Snack Dental para Gato con Sabor a Pollo...'
 sku: 'B07SB8DL5X-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','purina', ]
+tags: [ 'purina', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

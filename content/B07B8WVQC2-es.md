@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8WVQC2-es PURINA ONE Bifensis Pienso para Gatos Esterilizados Salmón...'
 sku: 'B07B8WVQC2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','purina','trigo', ]
+tags: [ 'purina','trigo', ]
 actualPrice: 32.51 EUR
 currency: EUR
 price: 32.51

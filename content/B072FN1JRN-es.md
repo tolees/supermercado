@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072FN1JRN-es INJUICY Loft Vintage Retro Industria LED AJ Lámpara de...'
 sku: 'B072FN1JRN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: None None
 currency: None
 price: None

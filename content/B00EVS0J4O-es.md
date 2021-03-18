@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EVS0J4O-es Rimmel London Lasting Finish Mono Blush Colorete Tono 190...'
 sku: 'B00EVS0J4O-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','finish', ]
+tags: [ 'finish', ]
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

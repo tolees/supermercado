@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B18MDCG-es Ladrón de Manzanas Cider Manzana - 4 Packs de 6 Botellas x...'
 sku: 'B07B18MDCG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','ladrón','manzana','manzanas', ]
+tags: [ 'de','ladrón','manzana','manzanas', ]
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

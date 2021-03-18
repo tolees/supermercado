@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000HCZ34E-es Maquinilla de afeitar Sensor Excel de Gillette'
 sku: 'B000HCZ34E-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 15.8 EUR
 currency: EUR
 price: 15.8

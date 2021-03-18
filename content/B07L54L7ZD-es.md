@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L54L7ZD-es Consuelo - cápsulas de café compatibles con Nespresso* -...'
 sku: 'B07L54L7ZD-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','cápsulas','de', ]
+tags: [ 'café','cápsulas','de', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GNVRGK3-es NIVEA Q10 3en1 Cushion Perfeccionador Facial Hidratante y...'
 sku: 'B07GNVRGK3-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

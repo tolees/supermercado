@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTBVQH9-es iMucci - Juego de Accesorios de baño con dispensador de...'
 sku: 'B07MTBVQH9-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','de','dientes','jabón', ]
+tags: [ 'cepillo','de','dientes','jabón', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RW2PXJ5-es Kit Cuidado Barba Hombre ATMOKO 9PCS Barba Peine Barba...'
 sku: 'B07RW2PXJ5-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú', ]
+tags: [ 'champú', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

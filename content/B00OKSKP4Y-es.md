@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OKSKP4Y-es Wella Elements Renewing Mascarilla - 500 ml'
 sku: 'B00OKSKP4Y-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','wella', ]
+tags: [ 'wella', ]
 actualPrice: 22.82 EUR
 currency: EUR
 price: 22.82

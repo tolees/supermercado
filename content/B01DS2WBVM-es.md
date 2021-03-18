@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DS2WBVM-es NIVEA SUN Protege & Hidrata Leche Solar FP50+ 1 x 400 ml...'
 sku: 'B01DS2WBVM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

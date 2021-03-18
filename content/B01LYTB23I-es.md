@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYTB23I-es EUCERIN PH5 Skin Protection Bálsamo Nutritivo 450 ml'
 sku: 'B01LYTB23I-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','eucerin', ]
+tags: [ 'eucerin', ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

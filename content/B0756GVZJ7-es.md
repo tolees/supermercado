@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756GVZJ7-es Rexona Roll-On Tropical Desodorante para Mujer - 50 ml'
 sku: 'B0756GVZJ7-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante','rexona', ]
+tags: [ 'desodorante','rexona', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

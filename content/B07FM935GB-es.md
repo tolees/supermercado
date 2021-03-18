@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FM935GB-es Dymatize ISO100 chocolate y coco 2200 G'
 sku: 'B07FM935GB-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 46.86 EUR
 currency: EUR
 price: 46.86

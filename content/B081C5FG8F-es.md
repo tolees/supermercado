@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081C5FG8F-es JASHEN Fregona electrica sin Cable Mopa Electrica con...'
 sku: 'B081C5FG8F-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fregona', ]
+tags: [ 'fregona', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

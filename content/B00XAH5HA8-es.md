@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAH5HA8-es Albal Papel de aluminio extra-resistente fácil de cortar 10 m'
 sku: 'B00XAH5HA8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','albal','papel', ]
+tags: [ 'albal','papel', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

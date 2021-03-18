@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V6XSOR6-es Scitec Nutrition Protein Pancake comida funcional...'
 sku: 'B00V6XSOR6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 13.13 EUR
 currency: EUR
 price: 13.13

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BSFFVBL-es 82 Piezas-Vajilla Diseño de Unicornio Desechable-Accesorio...'
 sku: 'B07BSFFVBL-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','servilletas', ]
+tags: [ 'servilletas', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

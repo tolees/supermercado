@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XJD35V6-es Omega 3 6 7 9 90 perlas enriquecidas con aceite de lino...'
 sku: 'B07XJD35V6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','trigo', ]
+tags: [ 'trigo', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

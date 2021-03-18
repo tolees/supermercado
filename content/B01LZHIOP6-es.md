@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZHIOP6-es Wella Eimi Sculpt Force - 28 ml'
 sku: 'B01LZHIOP6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','wella', ]
+tags: [ 'wella', ]
 actualPrice: 2.52 EUR
 currency: EUR
 price: 2.52

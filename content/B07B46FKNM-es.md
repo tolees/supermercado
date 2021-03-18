@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B46FKNM-es Bourjois Rouge Edition Velvet Barra de Labios Líquida Tono...'
 sku: 'B07B46FKNM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

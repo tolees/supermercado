@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H04ZMEC-es Vegetalia Canela en Rama - 80 gr'
 sku: 'B01H04ZMEC-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','canela', ]
+tags: [ 'canela', ]
 actualPrice: 3.26 EUR
 currency: EUR
 price: 3.26

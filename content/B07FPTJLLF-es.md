@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FPTJLLF-es Café FORTALEZA - Cápsulas de Café Descafeinado Forte...'
 sku: 'B07FPTJLLF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','cápsulas','de','descafeinado','fortaleza', ]
+tags: [ 'café','cápsulas','de','descafeinado','fortaleza', ]
 actualPrice: 19.11 EUR
 currency: EUR
 price: 19.11

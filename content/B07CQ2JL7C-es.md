@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQ2JL7C-es Brillante Benefit Legumbres Chía Verduras 250G - [Pack De...'
 sku: 'B07CQ2JL7C-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','legumbres', ]
+tags: [ 'legumbres', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

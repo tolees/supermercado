@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001F41IXI-es Salt Of The Earth Desodorante - 1 unidad'
 sku: 'B001F41IXI-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

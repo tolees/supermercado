@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004X8GL8K-es Revlon ColorSilk Tinte de Cabello Permanente Tono #61...'
 sku: 'B004X8GL8K-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQDD74G-es Rexona Desodorante Active Pro+ Original Mujer - 200 ml'
 sku: 'B07BQDD74G-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante','rexona', ]
+tags: [ 'desodorante','rexona', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

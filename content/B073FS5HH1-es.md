@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073FS5HH1-es Max Factor Healthy Skin Harmony Base de Maquillaje Tono 65...'
 sku: 'B073FS5HH1-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 5.28 EUR
 currency: EUR
 price: 5.28

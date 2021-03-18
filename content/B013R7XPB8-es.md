@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013R7XPB8-es AmazonBasics - Bayeta de microfibra 6 unidades color...'
 sku: 'B013R7XPB8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','bayeta', ]
+tags: [ 'bayeta', ]
 actualPrice: 5.05 EUR
 currency: EUR
 price: 5.05

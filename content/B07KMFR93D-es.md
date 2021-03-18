@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMFR93D-es Larios Citrus + Rosé Ginebra Mediterránea + Regalo 2 Copas...'
 sku: 'B07KMFR93D-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','ginebra', ]
+tags: [ 'ginebra', ]
 actualPrice: 22.26 EUR
 currency: EUR
 price: 22.26

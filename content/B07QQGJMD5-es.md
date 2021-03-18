@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQGJMD5-es Mimosín Collection Parfum Suavizante Fleur D Or - 6...'
 sku: 'B07QQGJMD5-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','suavizante', ]
+tags: [ 'suavizante', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

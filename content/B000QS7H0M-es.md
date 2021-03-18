@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000QS7H0M-es SOLARAY® Zinc Citrate 50 60 VegCaps. Contribuye al normal...'
 sku: 'B000QS7H0M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gluten','sin', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 9.21 EUR
 currency: EUR
 price: 9.21

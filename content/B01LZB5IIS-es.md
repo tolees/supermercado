@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZB5IIS-es Apis Tomate Triturado - 800 g'
 sku: 'B01LZB5IIS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','apis', ]
+tags: [ 'apis', ]
 actualPrice: None None
 currency: None
 price: None

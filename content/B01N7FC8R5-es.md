@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7FC8R5-es Vileda 141719 - Bayeta de microfibras antical Azul Pack de...'
 sku: 'B01N7FC8R5-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','bayeta','vileda', ]
+tags: [ 'bayeta','vileda', ]
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

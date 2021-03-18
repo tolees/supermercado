@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CYYXXD0-es Lea Champú para Barba Purificante y Suavizante - 100 ml'
 sku: 'B01CYYXXD0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú','suavizante', ]
+tags: [ 'champú','suavizante', ]
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

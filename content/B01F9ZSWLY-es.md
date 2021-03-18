@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F9ZSWLY-es Wella Oil Reflections - 250 ml'
 sku: 'B01F9ZSWLY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','wella', ]
+tags: [ 'wella', ]
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

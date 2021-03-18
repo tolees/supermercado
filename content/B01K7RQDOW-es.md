@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7RQDOW-es Sensodyne Protección Diaria - Pasta de dientes con flúor...'
 sku: 'B01K7RQDOW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','dientes','pasta','sensodyne', ]
+tags: [ 'de','dientes','pasta','sensodyne', ]
 actualPrice: 2.78 EUR
 currency: EUR
 price: 2.78

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QI4ZANO-es L-Carnitina suplemento deportivo quemagrasas ayuda perdida...'
 sku: 'B00QI4ZANO-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gluten','sin', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0068DFDH8-es Oral-B - Cepillo de dientes eléctrico funciona con pilas...'
 sku: 'B0068DFDH8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 11.92 EUR
 currency: EUR
 price: 11.92

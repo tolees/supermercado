@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDKHQG5-es Garnier Fructis Nutri Repair 3 Mascarilla Fortificante que...'
 sku: 'B06XDKHQG5-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

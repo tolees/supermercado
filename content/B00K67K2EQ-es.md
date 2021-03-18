@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K67K2EQ-es L Oréal Paris Millón de Pestañas So Couture Máscara...'
 sku: 'B00K67K2EQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXLMKEQ-es Lavazza Café Molido Espresso Club 100% Arábica Paquete de...'
 sku: 'B01MXLMKEQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','lavazza', ]
+tags: [ 'café','lavazza', ]
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

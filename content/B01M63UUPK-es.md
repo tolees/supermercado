@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M63UUPK-es Air Wick Freshmatic Max Recambio Ambientador Oasis...'
 sku: 'B01M63UUPK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: 7.55 EUR
 currency: EUR
 price: 7.55

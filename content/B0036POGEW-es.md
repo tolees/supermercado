@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0036POGEW-es Auchentoshan 12 Años Single Malt Whisky Escoces 40% - 700 ml'
 sku: 'B0036POGEW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 24.02 EUR
 currency: EUR
 price: 24.02

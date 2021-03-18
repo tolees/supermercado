@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079W3DGH6-es Garnier Olia - Coloración Permanente sin Amoniaco con...'
 sku: 'B079W3DGH6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

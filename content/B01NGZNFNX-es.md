@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NGZNFNX-es Maybelline New York - Superstay 7Days 887 All Day Plum...'
 sku: 'B01NGZNFNX-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

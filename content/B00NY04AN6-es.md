@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NY04AN6-es Gillette ProGlide Power blades - Hoja - Pack de 4'
 sku: 'B00NY04AN6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

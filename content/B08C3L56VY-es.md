@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C3L56VY-es Montecillo Singladuras Vino blanco Denominación de origen...'
 sku: 'B08C3L56VY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','blanco','vino', ]
+tags: [ 'blanco','vino', ]
 actualPrice: 18.16 EUR
 currency: EUR
 price: 18.16

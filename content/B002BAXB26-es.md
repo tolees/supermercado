@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002BAXB26-es Weider Thermo Caps- 120 Capsulas. Disminuye el apetito....'
 sku: 'B002BAXB26-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cúrcuma', ]
+tags: [ 'cúrcuma', ]
 actualPrice: 14.32 EUR
 currency: EUR
 price: 14.32

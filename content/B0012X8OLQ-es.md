@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0012X8OLQ-es Revlon Nutri Color Creme Tinte 513-270 ml'
 sku: 'B0012X8OLQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 12.64 EUR
 currency: EUR
 price: 12.64

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V6AY4DM-es Solaray Sex Up | Libido saludable vitalidad resistencia y...'
 sku: 'B00V6AY4DM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gluten','sin', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 20.52 EUR
 currency: EUR
 price: 20.52

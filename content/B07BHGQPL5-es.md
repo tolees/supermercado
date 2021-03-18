@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHGQPL5-es Padró & Co Vermouth en Caja de Madera - Paquete de 4 x 750...'
 sku: 'B07BHGQPL5-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','vermouth', ]
+tags: [ 'vermouth', ]
 actualPrice: 49.3 EUR
 currency: EUR
 price: 49.3

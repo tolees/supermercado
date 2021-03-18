@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZRDAMXK-es Purina Pro Plan Small & Mini Puppy Salmón para cachorros...'
 sku: 'B00ZRDAMXK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','purina', ]
+tags: [ 'purina', ]
 actualPrice: 29.16 EUR
 currency: EUR
 price: 29.16

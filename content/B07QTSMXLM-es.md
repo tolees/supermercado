@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QTSMXLM-es Marca Amazon- Amfit Nutrition Barrita de proteínas sabor a...'
 sku: 'B07QTSMXLM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 17.55 EUR
 currency: EUR
 price: 17.55

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M8L2GYF-es Gourmet - Café soluble - Tueste natural - 200 g - [Pack de 3]'
 sku: 'B01M8L2GYF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café', ]
+tags: [ 'café', ]
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

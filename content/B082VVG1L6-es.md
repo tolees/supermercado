@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VVG1L6-es Alfapac – Papel de cocina 18 m 1 unidad'
 sku: 'B082VVG1L6-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cocina','de','papel', ]
+tags: [ 'cocina','de','papel', ]
 actualPrice: 2.47 EUR
 currency: EUR
 price: 2.47

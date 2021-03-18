@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BBVLSRX-es Pendientes con forma de pera de ópalo y diamante en plata...'
 sku: 'B07BBVLSRX-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','pera', ]
+tags: [ 'pera', ]
 actualPrice: 66.71 EUR
 currency: EUR
 price: 66.71

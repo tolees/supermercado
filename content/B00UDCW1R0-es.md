@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UDCW1R0-es Wella SP Luxe Oil Keratin Acondicionador en Crema - 1000 ml'
 sku: 'B00UDCW1R0-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador','wella', ]
+tags: [ 'acondicionador','wella', ]
 actualPrice: 26.43 EUR
 currency: EUR
 price: 26.43

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085LZQWXN-es Gillette Blue3 Maquinillas de Afeitar Desechables 48...'
 sku: 'B085LZQWXN-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 23.15 EUR
 currency: EUR
 price: 23.15

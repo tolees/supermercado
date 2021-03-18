@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RMIKFVW-es Gillette Fusion5 ProGlide Power - Recambio de Maquinilla...'
 sku: 'B00RMIKFVW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

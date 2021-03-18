@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0014YDJ1S-es Wilkinson Sword Extra 2 Sensitive - Bolsa 20 Maquinillas...'
 sku: 'B0014YDJ1S-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','sword','wilkinson', ]
+tags: [ 'sword','wilkinson', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

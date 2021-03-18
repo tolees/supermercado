@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6DXM6F-es Spontex Universale - Set de 3 estropajos salvauñas con...'
 sku: 'B01N6DXM6F-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','salvauñas','spontex', ]
+tags: [ 'salvauñas','spontex', ]
 actualPrice: 8 EUR
 currency: EUR
 price: 8

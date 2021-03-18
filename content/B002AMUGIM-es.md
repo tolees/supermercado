@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002AMUGIM-es Sisley Phyto Jour&Nuit Crema Hidratantee ConcSombra Pot 50 ml'
 sku: 'B002AMUGIM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','crema','hidratante', ]
+tags: [ 'crema','hidratante', ]
 actualPrice: 81.2 EUR
 currency: EUR
 price: 81.2

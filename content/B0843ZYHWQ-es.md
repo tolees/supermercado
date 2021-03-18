@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0843ZYHWQ-es Skip Liquido Ultimate Triple Poder Fragancia Mimosin 50...'
 sku: 'B0843ZYHWQ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','mimosin', ]
+tags: [ 'mimosin', ]
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

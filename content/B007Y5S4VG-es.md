@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007Y5S4VG-es NESCAFÉ Dolce Gusto Espresso Bonka | Cápsulas de Café - 16...'
 sku: 'B007Y5S4VG-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','cápsulas','de','dolce','gusto','nescafé', ]
+tags: [ 'café','cápsulas','de','dolce','gusto','nescafé', ]
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

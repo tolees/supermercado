@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B117BGS-es Nestlé Nesquik Cacao Soluble Instantáneo - Estuche 4x3kg'
 sku: 'B07B117BGS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nesquik','nestlé', ]
+tags: [ 'nesquik','nestlé', ]
 actualPrice: 49.6 EUR
 currency: EUR
 price: 49.6

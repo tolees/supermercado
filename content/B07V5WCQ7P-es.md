@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5WCQ7P-es Neutrex Quitamanchas Pistola Color - 600 ml'
 sku: 'B07V5WCQ7P-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','neutrex', ]
+tags: [ 'neutrex', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

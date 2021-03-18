@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBVGS90-es Eucerin Family Pack Ph5 Oleogel de Ducha 1000 ml y oleogel...'
 sku: 'B01NBVGS90-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','de','ducha','eucerin','gel', ]
+tags: [ 'de','ducha','eucerin','gel', ]
 actualPrice: 16.41 EUR
 currency: EUR
 price: 16.41

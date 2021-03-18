@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0067K1FNS-es Rimmel London Lasting Finish Barra De Labios Tono 128...'
 sku: 'B0067K1FNS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','finish', ]
+tags: [ 'finish', ]
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

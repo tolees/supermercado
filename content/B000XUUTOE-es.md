@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000XUUTOE-es Calvin Klein 16407 - Desodorante 150 ml'
 sku: 'B000XUUTOE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

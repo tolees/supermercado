@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1HQ7CL-es VETOMILE Dispensador automático de jabón espumoso Espuma...'
 sku: 'B07T1HQ7CL-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','champú','jabón', ]
+tags: [ 'champú','jabón', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

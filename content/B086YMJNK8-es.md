@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086YMJNK8-es Dispensador jabon automático Dispensador de Desinfectante...'
 sku: 'B086YMJNK8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabon','jabón', ]
+tags: [ 'jabon','jabón', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RR2SRND-es Be Natural Juego de champú y acondicionador - 3 Unidades'
 sku: 'B07RR2SRND-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','acondicionador','champú', ]
+tags: [ 'acondicionador','champú', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

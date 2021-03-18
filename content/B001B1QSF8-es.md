@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001B1QSF8-es Elizabeth Arden Visible Difference hydrating complex cream...'
 sku: 'B001B1QSF8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B7Z2JBD-es RZKJ-SHOP Abridor de Botellas de Vino Profesional Manual...'
 sku: 'B08B7Z2JBD-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

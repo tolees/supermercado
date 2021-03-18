@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001HU7THE-es Caol Ila 12 Años Whisky Escocés Puro de Malta de la Isla...'
 sku: 'B001HU7THE-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

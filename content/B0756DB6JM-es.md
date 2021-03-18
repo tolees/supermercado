@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756DB6JM-es Pascual Leche Entera - Paquete de 6 x 200 ml - Total: 1.2 L'
 sku: 'B0756DB6JM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','entera','leche', ]
+tags: [ 'entera','leche', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

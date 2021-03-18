@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007Z9P1XU-es Lavazza A Modo Mio Passionale antes Appassionatamente...'
 sku: 'B007Z9P1XU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','café','cápsulas','de','lavazza', ]
+tags: [ 'café','cápsulas','de','lavazza', ]
 actualPrice: 27.4 EUR
 currency: EUR
 price: 27.4

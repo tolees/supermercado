@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083BYH1CJ-es pikins Dispensador de jabón de Sensor automático doméstico...'
 sku: 'B083BYH1CJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 33.3 EUR
 currency: EUR
 price: 33.3

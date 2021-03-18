@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDNYFZM-es Lindt Lindor Tableta de Chocolate Blanco 100 g'
 sku: 'B00XDNYFZM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','chocolate','lindt', ]
+tags: [ 'chocolate','lindt', ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

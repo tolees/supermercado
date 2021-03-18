@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3YVW45-es NIVEA MEN Active Age Bálsamo Anti-edad 2en1 en pack de 3 3...'
 sku: 'B07N3YVW45-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 13.26 EUR
 currency: EUR
 price: 13.26

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DUX6OEY-es Knorr - Ligeresa - Crema de Verduras de la Huerta - 500 ml'
 sku: 'B01DUX6OEY-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','knorr','ligeresa', ]
+tags: [ 'knorr','ligeresa', ]
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GPSNMF3-es Vileda Turbo - Juego de fregona con palo telescópico +...'
 sku: 'B07GPSNMF3-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','fregona','vileda', ]
+tags: [ 'fregona','vileda', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

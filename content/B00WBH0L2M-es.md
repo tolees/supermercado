@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WBH0L2M-es Babaria Crema Facial Regeneradora 9 Efectos Vital Skin...'
 sku: 'B00WBH0L2M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','babaria', ]
+tags: [ 'babaria', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

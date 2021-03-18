@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A7JWKO8-es SESDERMA Hidraderm Hyal Crema Hidratante 50 ml'
 sku: 'B00A7JWKO8-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Baño e higiene personal','Belleza','Hogar y cocina','Limpieza personal','Pastillas de jabón y jabón líquido para manos','Robots aspiradores','crema','hidratante','sesderma', ]
+tags: [ 'crema','hidratante','sesderma', ]
 actualPrice: 10.48 EUR
 currency: EUR
 price: 10.48
