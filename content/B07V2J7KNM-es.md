@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2J7KNM-es Jabón Facial Limpiador Micelar 4 en 1 - UNISEX -...'
 sku: 'B07V2J7KNM-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Artículos para gatos','Batidoras espumadoras de leche automáticas','Baño','Baño e higiene personal','Belleza','Bollería','Comida húmeda para gatos','Comida para gatos','Conservas','Conservas de pescado y marisco','Cuidado de la salud','Cuidado y limpieza del hogar','Cápsulas y pastillas de detergente para textiles','Detergente líquido para textiles','Espumadores de leche','Hogar y cocina','Lavavajillas','Limpieza personal','Panadería y bollería','Pastillas de jabón y jabón líquido para manos','Portacepillos de dientes','Productos para la lavandería','Productos para mascotas','Quitamanchas para textiles','Salud y cuidado personal','Soportes y dispensadores para baño','Utensilios para café y té','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','jabón', ]
+tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','jabón', ]
 actualPrice: 10.63 EUR
 currency: EUR
 price: 10.63

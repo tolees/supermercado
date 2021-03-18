@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MY2EAH6-es Lavazza A Modo Mio Espresso Divino Cápsulas Monodosis de...'
 sku: 'B01MY2EAH6-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Artículos para gatos','Batidoras espumadoras de leche automáticas','Baño','Baño e higiene personal','Belleza','Bollería','Comida húmeda para gatos','Comida para gatos','Conservas','Conservas de pescado y marisco','Cuidado de la salud','Cuidado y limpieza del hogar','Cápsulas y pastillas de detergente para textiles','Detergente líquido para textiles','Espumadores de leche','Hogar y cocina','Lavavajillas','Limpieza personal','Panadería y bollería','Pastillas de jabón y jabón líquido para manos','Portacepillos de dientes','Productos para la lavandería','Productos para mascotas','Quitamanchas para textiles','Salud y cuidado personal','Soportes y dispensadores para baño','Utensilios para café y té','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','café','lavazza', ]
+tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','lavazza', ]
 actualPrice: None None
 currency: None
 price: None
@@ -28,10 +28,10 @@ Está [Lavazza A Modo Mio Espresso Divino Cápsulas Monodosis de Café Molido  C
 
 ℹ️:
 
+- ENVASE: 5 paquetes de 12 cápsulas de café. Total 60 cápsulas. La experiencia Lavazza en una cápsula de café
 - ASPECTO: espuma ámbar y color oscuro - AROMA: notas de cacao y frutas exóticas - SABOR: refinado y duradero
 - CALIDAD LAVAZZA: un preciado espresso, adecuado para preparaciones con leche
-- ENVASE: 5 paquetes de 12 cápsulas de café. Total 60 cápsulas. La experiencia Lavazza en una cápsula de café
-- AROMÁTICO: un blend de Robusta y Arábica prémium, para un espresso aterciopelado con notas de chocolate y licor acompañado de toques de frutos secos
 - MEZCLA: Arábica y Robusta - Tueste: oscuro - Intensidad: 11 muy intenso
+- AROMÁTICO: un blend de Robusta y Arábica prémium, para un espresso aterciopelado con notas de chocolate y licor acompañado de toques de frutos secos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MY2EAH6/?tag=tolees-21)

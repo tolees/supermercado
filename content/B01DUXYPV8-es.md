@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DUXYPV8-es Central Lechera Asturiana - Nata Montada Azucarada para...'
 sku: 'B01DUXYPV8-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Artículos para gatos','Batidoras espumadoras de leche automáticas','Baño','Baño e higiene personal','Belleza','Bollería','Comida húmeda para gatos','Comida para gatos','Conservas','Conservas de pescado y marisco','Cuidado de la salud','Cuidado y limpieza del hogar','Cápsulas y pastillas de detergente para textiles','Detergente líquido para textiles','Espumadores de leche','Hogar y cocina','Lavavajillas','Limpieza personal','Panadería y bollería','Pastillas de jabón y jabón líquido para manos','Portacepillos de dientes','Productos para la lavandería','Productos para mascotas','Quitamanchas para textiles','Salud y cuidado personal','Soportes y dispensadores para baño','Utensilios para café y té','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','central','lechera', ]
+tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','central','lechera', ]
 actualPrice: None None
 currency: None
 price: None
@@ -29,8 +29,8 @@ En este momento está [Central Lechera Asturiana - Nata Montada Azucarada para M
 🔎:
 
 - Nata (leche), azúcar (8,5%), emulgente (E-472b), corrector de acidez (E-339), estabilizante (E-407), gas propelente (N2O)
-- Agitar fuertemente antes de usar , 2 o 3 segundos.
 - España
 - Leche UHT
+- Agitar fuertemente antes de usar , 2 o 3 segundos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01DUXYPV8/?tag=tolees-21)

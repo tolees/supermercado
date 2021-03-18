@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QW9FNZT-es 501 Brandy 30º Total: 1000 ml'
 sku: 'B07QW9FNZT-es'
-tags: [ 'Accesorios de baño','Alimentación y bebidas','Artículos para gatos','Batidoras espumadoras de leche automáticas','Baño','Baño e higiene personal','Belleza','Bollería','Comida húmeda para gatos','Comida para gatos','Conservas','Conservas de pescado y marisco','Cuidado de la salud','Cuidado y limpieza del hogar','Cápsulas y pastillas de detergente para textiles','Detergente líquido para textiles','Espumadores de leche','Hogar y cocina','Lavavajillas','Limpieza personal','Panadería y bollería','Pastillas de jabón y jabón líquido para manos','Portacepillos de dientes','Productos para la lavandería','Productos para mascotas','Quitamanchas para textiles','Salud y cuidado personal','Soportes y dispensadores para baño','Utensilios para café y té','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','brandy', ]
+tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','brandy', ]
 actualPrice: None None
 currency: None
 price: None
@@ -28,8 +28,8 @@ Tienes [501 Brandy 30º  Total: 1000 ml](https://www.amazon.es/dp/B07QW9FNZT/?ta
 
 🔎:
 
+- Sabor excelente y agradable
 - Capacidad: 100CL
 - Graduacion: 30º
-- Sabor excelente y agradable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QW9FNZT/?tag=tolees-21)
