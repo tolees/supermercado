@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TRNN9QB-es Vernel Aromaterapia Suavizante Concentrado Té y Peonía 57...'
 sku: 'B07TRNN9QB-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','suavizante','vernel', ]
+tags: [ 'suavizante','vernel', ]
 actualPrice: 2.18 EUR
 currency: EUR
 price: 2.18

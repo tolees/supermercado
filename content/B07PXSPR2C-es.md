@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PXSPR2C-es Terry White Brandy Blanco 36% - 700 ml'
 sku: 'B07PXSPR2C-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','brandy', ]
+tags: [ 'brandy', ]
 actualPrice: 6.55 EUR
 currency: EUR
 price: 6.55

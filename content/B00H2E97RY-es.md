@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H2E97RY-es Weider 40% Protein Low Carb. Barrita alto contenido en...'
 sku: 'B00H2E97RY-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

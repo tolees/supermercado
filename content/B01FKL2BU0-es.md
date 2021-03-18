@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FKL2BU0-es Revlon Ultra HD Pintalabios Mate Intensity'
 sku: 'B01FKL2BU0-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

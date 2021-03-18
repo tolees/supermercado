@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRQ94X4-es Berberechos al natural elaborados en fresco 25/35 piezas...'
 sku: 'B07XRQ94X4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','berberechos', ]
+tags: [ 'berberechos', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

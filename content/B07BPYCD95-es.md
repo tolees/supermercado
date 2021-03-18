@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BPYCD95-es ECOSUSI Maletín para Bolso Portatil Mujer Mujer Mochila...'
 sku: 'B07BPYCD95-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

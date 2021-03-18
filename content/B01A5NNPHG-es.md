@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A5NNPHG-es Maybelline New York Brow Drama Máscara De Cejas Medium...'
 sku: 'B01A5NNPHG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 5.92 EUR
 currency: EUR
 price: 5.92

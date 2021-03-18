@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ML1VNSL-es Set de aceites esenciales de aromaterapia orgánica - TOP8...'
 sku: 'B07ML1VNSL-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','canela', ]
+tags: [ 'canela', ]
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

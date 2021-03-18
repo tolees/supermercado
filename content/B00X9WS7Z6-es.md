@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9WS7Z6-es L Oréal Paris Men Expert Todo en 1 After-Shave +...'
 sku: 'B00X9WS7Z6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

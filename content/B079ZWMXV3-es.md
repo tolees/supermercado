@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ZWMXV3-es ITECHNIK Cabezal de Recambio Para oral-b cepillo de...'
 sku: 'B079ZWMXV3-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

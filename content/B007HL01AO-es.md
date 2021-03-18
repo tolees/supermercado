@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007HL01AO-es Max Factor Colour Elixir Lipliner Perfilador de Labios...'
 sku: 'B007HL01AO-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

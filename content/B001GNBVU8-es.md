@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001GNBVU8-es Max Factor Lasting Performance Base de Maquillaje Líquida...'
 sku: 'B001GNBVU8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

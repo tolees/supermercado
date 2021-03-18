@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2WP9VJ-es Máquina picadora de carne manual máquina trituradora de...'
 sku: 'B07K2WP9VJ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','salchichas', ]
+tags: [ 'salchichas', ]
 actualPrice: 25.09 EUR
 currency: EUR
 price: 25.09

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001MZV1V4-es Eukanuba Daily Care Adulto Piel sensible [2 3 Kg]'
 sku: 'B001MZV1V4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','eukanuba', ]
+tags: [ 'eukanuba', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

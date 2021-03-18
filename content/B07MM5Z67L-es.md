@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MM5Z67L-es Oral-B Dentífrico Pro Expert Blancura Saludable - 75 ml'
 sku: 'B07MM5Z67L-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','dentífrico', ]
+tags: [ 'dentífrico', ]
 actualPrice: 2.92 EUR
 currency: EUR
 price: 2.92

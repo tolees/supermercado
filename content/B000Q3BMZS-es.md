@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000Q3BMZS-es CHANEL ANTAEUS DEODORANT STICK 60 g Hombres Desodorante en...'
 sku: 'B000Q3BMZS-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorante','desodorantes', ]
+tags: [ 'desodorante','desodorantes', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

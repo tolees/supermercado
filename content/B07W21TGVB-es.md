@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W21TGVB-es Familybox Aceitera Botella Antigoteo 400ML Vinagre Botella...'
 sku: 'B07W21TGVB-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','aceite','de','oliva', ]
+tags: [ 'aceite','de','oliva', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

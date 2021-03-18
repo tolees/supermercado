@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K3TRPF6-es iTrunk Paquete 16 cabezales de cepillo de dientes para...'
 sku: 'B07K3TRPF6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

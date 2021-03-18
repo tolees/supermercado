@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073S9WNTW-es Revlon Flex 2 Fases Nutritivo Acondicionador - 400 ml'
 sku: 'B073S9WNTW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','acondicionador','revlon', ]
+tags: [ 'acondicionador','revlon', ]
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

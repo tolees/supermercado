@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BBW9OAC-es Caffè Borbone Cápsulas de café - 100 Cápsulas'
 sku: 'B01BBW9OAC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','cápsulas','de', ]
+tags: [ 'café','cápsulas','de', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

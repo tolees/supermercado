@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IMU0RDA-es Elizabeth Arden Agua de colonia para mujeres - 100 ml.'
 sku: 'B00IMU0RDA-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 11.74 EUR
 currency: EUR
 price: 11.74

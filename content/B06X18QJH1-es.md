@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X18QJH1-es The Chita Suntory Single Grain Japanese Whisky 43% - 700 ml'
 sku: 'B06X18QJH1-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 48.3 EUR
 currency: EUR
 price: 48.3

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C6T1WPP-es Marca Amazon- Solimo Cápsulas Classic compatibles con...'
 sku: 'B07C6T1WPP-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','solimo', ]
+tags: [ 'café','solimo', ]
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

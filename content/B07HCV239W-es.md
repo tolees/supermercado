@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HCV239W-es Maybelline Lápiz de Ojos Efecto Tatuaje Tattoo Liner 940...'
 sku: 'B07HCV239W-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

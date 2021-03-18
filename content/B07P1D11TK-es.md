@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P1D11TK-es Gommy s Factory Golosina Coca colas - 12 de 90 gr. Total...'
 sku: 'B07P1D11TK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','coca','cola', ]
+tags: [ 'coca','cola', ]
 actualPrice: 8.51 EUR
 currency: EUR
 price: 8.51

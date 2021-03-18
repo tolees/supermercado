@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA667NK-es Detergente Ariel Basico Líquido 110d Caja con 2 botellas'
 sku: 'B00XA667NK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 15.24 EUR
 currency: EUR
 price: 15.24

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JJXR3FJ-es TAILI Estante de baño Cesta para Ducha Almacenamiento...'
 sku: 'B07JJXR3FJ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 13.28 EUR
 currency: EUR
 price: 13.28

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MRSVU74-es Braun MGK3060 Corta Barbas Hombre 8En1 Recortadora Barba y...'
 sku: 'B01MRSVU74-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 38.92 EUR
 currency: EUR
 price: 38.92

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BSO6NZW-es Philips Sonicare HX6322/04 - Cepillo de dientes eléctrico...'
 sku: 'B01BSO6NZW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002QZN8JW-es Optimum Nutrition ON Platinum Hydro Whey Proteínas en...'
 sku: 'B002QZN8JW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 59.26 EUR
 currency: EUR
 price: 59.26

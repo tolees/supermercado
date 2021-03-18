@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086RT3STW-es MovilCom® - Cortador de Verduras | Picadora Manual de...'
 sku: 'B086RT3STW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cebolla', ]
+tags: [ 'cebolla', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

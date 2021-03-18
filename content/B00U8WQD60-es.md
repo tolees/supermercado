@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U8WQD60-es Sesderma Factor G Renew Antiedad 30 ml'
 sku: 'B00U8WQD60-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','sesderma', ]
+tags: [ 'sesderma', ]
 actualPrice: 32.3 EUR
 currency: EUR
 price: 32.3

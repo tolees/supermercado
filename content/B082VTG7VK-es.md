@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VTG7VK-es Johnson s Baby - Acondicionador No Más Tirones para Niños...'
 sku: 'B082VTG7VK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

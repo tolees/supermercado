@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LZSC2EI-es adidas Cool & Care 6 En 1 - Desodorante roll-on 50 ml'
 sku: 'B00LZSC2EI-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

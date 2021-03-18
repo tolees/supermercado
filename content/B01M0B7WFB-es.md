@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0B7WFB-es Haribo Gummy Beans Caramelos Grageados - 1 Kg'
 sku: 'B01M0B7WFB-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','haribo', ]
+tags: [ 'haribo', ]
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

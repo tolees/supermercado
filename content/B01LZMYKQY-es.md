@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZMYKQY-es LITORAL Hoy Legumbres Lentejas con su sofrito Plato...'
 sku: 'B01LZMYKQY-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gluten','legumbres','lentejas','litoral','plato','preparado','sin', ]
+tags: [ 'gluten','legumbres','lentejas','litoral','plato','preparado','sin', ]
 actualPrice: 1.08 EUR
 currency: EUR
 price: 1.08

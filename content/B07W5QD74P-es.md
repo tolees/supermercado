@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5QD74P-es NIVEA Q10PlusC Mascarilla de Tejido Antiedad + Energizante...'
 sku: 'B07W5QD74P-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 2.89 EUR
 currency: EUR
 price: 2.89

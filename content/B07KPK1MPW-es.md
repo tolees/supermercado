@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPK1MPW-es Pop! Vinilo: Fairy Tail S3: Zeref'
 sku: 'B07KPK1MPW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','fairy', ]
+tags: [ 'fairy', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

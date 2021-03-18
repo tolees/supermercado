@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872VLVFK-es PopHMN Kit de sushi Kit de fabricación de sushi 5PCS Kit...'
 sku: 'B0872VLVFK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arroz', ]
+tags: [ 'arroz', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

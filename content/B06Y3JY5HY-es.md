@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y3JY5HY-es L Oréal Professionnel 3474636481729 Champú 500 ml'
 sku: 'B06Y3JY5HY-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú','oréal', ]
+tags: [ 'champú','oréal', ]
 actualPrice: 16.31 EUR
 currency: EUR
 price: 16.31

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0722VTR2X-es Purina Dentalife Perro Grande [5 packs x 12 sticks]'
 sku: 'B0722VTR2X-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','purina', ]
+tags: [ 'purina', ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MTWSF68-es Baines - Bebida Pacharán Navarro 1 L'
 sku: 'B00MTWSF68-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','pacharán', ]
+tags: [ 'pacharán', ]
 actualPrice: 11.53 EUR
 currency: EUR
 price: 11.53

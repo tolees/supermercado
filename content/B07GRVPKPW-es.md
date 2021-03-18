@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GRVPKPW-es Dolce Gusto 32 - Soporte giratorio para cápsulas de café'
 sku: 'B07GRVPKPW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','cápsulas','de','dolce','gusto', ]
+tags: [ 'café','cápsulas','de','dolce','gusto', ]
 actualPrice: 13.4 EUR
 currency: EUR
 price: 13.4

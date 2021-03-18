@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CD2P9TK-es N/a - Nescafe dolce gusto marrakesh style tea pack of 3 by na'
 sku: 'B00CD2P9TK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','dolce','gusto', ]
+tags: [ 'dolce','gusto', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

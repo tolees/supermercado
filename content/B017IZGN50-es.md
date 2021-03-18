@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017IZGN50-es Elizabeth Arden Ceramide Time Complex Desmaquillante...'
 sku: 'B017IZGN50-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

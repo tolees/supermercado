@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YN9T11V-es Weider Yippie Cookies. Galletas con Proteína y Chocolate...'
 sku: 'B07YN9T11V-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

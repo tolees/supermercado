@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EVS0J4O-es Rimmel London Lasting Finish Mono Blush Colorete Tono 190...'
 sku: 'B00EVS0J4O-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','finish', ]
+tags: [ 'finish', ]
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

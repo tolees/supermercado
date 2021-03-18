@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M6WIOF5-es Renova Rollo de Cocina - 3 Rollos'
 sku: 'B01M6WIOF5-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','renova', ]
+tags: [ 'renova', ]
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

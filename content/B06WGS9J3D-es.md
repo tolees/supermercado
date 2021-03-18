@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WGS9J3D-es LITORAL Cocido Madrileño - Plato Preparado Sin Gluten -...'
 sku: 'B06WGS9J3D-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gluten','litoral','plato','preparado','sin', ]
+tags: [ 'gluten','litoral','plato','preparado','sin', ]
 actualPrice: 10.14 EUR
 currency: EUR
 price: 10.14

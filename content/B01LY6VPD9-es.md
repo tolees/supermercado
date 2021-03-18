@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY6VPD9-es Hairfinity Acondicionador Unisex Negro Black 6 cm'
 sku: 'B01LY6VPD9-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 29.54 EUR
 currency: EUR
 price: 29.54

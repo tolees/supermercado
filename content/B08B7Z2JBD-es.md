@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B7Z2JBD-es RZKJ-SHOP Abridor de Botellas de Vino Profesional Manual...'
 sku: 'B08B7Z2JBD-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

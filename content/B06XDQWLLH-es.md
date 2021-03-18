@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDQWLLH-es Garnier Fructis Crece Fuerte Champú Pelo Frágil con...'
 sku: 'B06XDQWLLH-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú','garnier', ]
+tags: [ 'champú','garnier', ]
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

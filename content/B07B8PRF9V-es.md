@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8PRF9V-es Purina Gourmet Gold Mousse comida para gatos de Pescado...'
 sku: 'B07B8PRF9V-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','purina', ]
+tags: [ 'purina', ]
 actualPrice: 40.64 EUR
 currency: EUR
 price: 40.64

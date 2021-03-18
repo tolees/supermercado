@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013H2TO4U-es Chivas Regal Extra Whisky Escocés de Mezcla - 700 ml'
 sku: 'B013H2TO4U-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 30.5 EUR
 currency: EUR
 price: 30.5

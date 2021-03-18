@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EVRD5BE-es Vileda Cubo Ecologic - Cubo de Basura ecológico Especial...'
 sku: 'B00EVRD5BE-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','vileda', ]
+tags: [ 'vileda', ]
 actualPrice: 28.12 EUR
 currency: EUR
 price: 28.12

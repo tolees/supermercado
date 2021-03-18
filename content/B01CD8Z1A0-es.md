@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CD8Z1A0-es Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15...'
 sku: 'B01CD8Z1A0-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRF9SSH-es Fa - Desodorante Roll-On Limones del Caribe - Anti...'
 sku: 'B07NRF9SSH-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 4.65 EUR
 currency: EUR
 price: 4.65

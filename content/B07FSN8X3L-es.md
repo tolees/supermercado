@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSN8X3L-es Maybelline New York Barra de Labios Mate Superstay Matte...'
 sku: 'B07FSN8X3L-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

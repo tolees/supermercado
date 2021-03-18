@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013R7XPB8-es AmazonBasics - Bayeta de microfibra 6 unidades color...'
 sku: 'B013R7XPB8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','bayeta', ]
+tags: [ 'bayeta', ]
 actualPrice: 5.05 EUR
 currency: EUR
 price: 5.05

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CTT5VM7-es Marca Amazon - Happy Belly Café molido "Espresso Forte" 4...'
 sku: 'B07CTT5VM7-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','belly','café','happy', ]
+tags: [ 'belly','café','happy', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006PANUI8-es Revlon ColorStay 16H Sombra de Ojos #505 Decadent'
 sku: 'B006PANUI8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

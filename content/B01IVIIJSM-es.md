@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IVIIJSM-es Ariel 3en1 Pods Detergente En Cápsulas Sensaciones...'
 sku: 'B01IVIIJSM-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

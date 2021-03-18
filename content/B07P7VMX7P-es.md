@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7VMX7P-es AXE Desodorante Antitraspirante Gold Blanco Duplo Ahorro -...'
 sku: 'B07P7VMX7P-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','axe','desodorante', ]
+tags: [ 'axe','desodorante', ]
 actualPrice: 13.24 EUR
 currency: EUR
 price: 13.24

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088BVKRR7-es Zeen Paper Xuan - Papel de arroz 35 x 25 cm 30 hojas color...'
 sku: 'B088BVKRR7-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arroz', ]
+tags: [ 'arroz', ]
 actualPrice: 5.61 EUR
 currency: EUR
 price: 5.61

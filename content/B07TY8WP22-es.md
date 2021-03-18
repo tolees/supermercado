@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TY8WP22-es L Oréal Paris Rouge Signature 203 I Magnetize Pintalabios...'
 sku: 'B07TY8WP22-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

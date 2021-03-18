@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQ996SB-es L Oréal Men Expert gel de lavado de carbón puro contra las...'
 sku: 'B07YQ996SB-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 7.26 EUR
 currency: EUR
 price: 7.26

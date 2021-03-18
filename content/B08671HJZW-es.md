@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08671HJZW-es Bastoncillos para los oídos de bambú y algodón- 1 unidad...'
 sku: 'B08671HJZW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','bastoncillos','los','oídos','para', ]
+tags: [ 'bastoncillos','los','oídos','para', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

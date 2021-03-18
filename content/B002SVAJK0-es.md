@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SVAJK0-es Original Sprout Sulfato Champú Natural 975ml'
 sku: 'B002SVAJK0-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 28.74 EUR
 currency: EUR
 price: 28.74

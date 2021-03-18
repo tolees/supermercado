@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSCPW3C-es Batidora Portátil de Frutas Recargable Con USB Mini...'
 sku: 'B07TSCPW3C-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','zumo', ]
+tags: [ 'de','zumo', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

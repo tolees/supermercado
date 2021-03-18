@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXRHMQZ-es NaturGreen Panela Jugo de caña de azúcar cristalizado-...'
 sku: 'B07FXRHMQZ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 10.07 EUR
 currency: EUR
 price: 10.07

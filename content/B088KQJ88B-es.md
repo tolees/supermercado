@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088KQJ88B-es Vino Blanco LAN D.O.Ca.Rioja - 6 botellas de 750 ml -...'
 sku: 'B088KQJ88B-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','blanco','vino', ]
+tags: [ 'blanco','vino', ]
 actualPrice: 25.16 EUR
 currency: EUR
 price: 25.16

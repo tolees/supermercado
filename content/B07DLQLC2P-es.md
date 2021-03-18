@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLQLC2P-es GERUIKE Portarrollos De Cocina con Estante Portarrollos de...'
 sku: 'B07DLQLC2P-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cocina','de','papel', ]
+tags: [ 'cocina','de','papel', ]
 actualPrice: 19.88 EUR
 currency: EUR
 price: 19.88

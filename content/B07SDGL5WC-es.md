@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SDGL5WC-es Got2b - Perfume de cabello Ocean Vibe - 5 unidades de 75ml...'
 sku: 'B07SDGL5WC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 9.61 EUR
 currency: EUR
 price: 9.61

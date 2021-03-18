@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9TUQU8-es Garnier Olia coloración permanente sin amoniaco para un...'
 sku: 'B00X9TUQU8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

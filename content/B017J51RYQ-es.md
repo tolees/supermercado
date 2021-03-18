@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017J51RYQ-es Nobleza - 50 x Empapadores Perros Alfombrilla higiénica de...'
 sku: 'B017J51RYQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','empapadores', ]
+tags: [ 'empapadores', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

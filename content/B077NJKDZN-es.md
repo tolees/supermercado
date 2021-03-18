@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077NJKDZN-es L Oréal Paris - Brow Artist Micro Tattoo Perfilador de...'
 sku: 'B077NJKDZN-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 10 EUR
 currency: EUR
 price: 10

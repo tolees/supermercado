@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Y2HHDD-es Alhambra Especial Cerveza Dorada Lager 5.4% Volumen de...'
 sku: 'B077Y2HHDD-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 2.72 EUR
 currency: EUR
 price: 2.72

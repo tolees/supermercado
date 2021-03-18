@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WPYTF1-es Homelody Ducha de Mano 5 Funciones con Botón de Pausa...'
 sku: 'B078WPYTF1-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','alcachofa', ]
+tags: [ 'alcachofa', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

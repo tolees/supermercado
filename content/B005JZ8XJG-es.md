@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005JZ8XJG-es Listerine Zero 0% Alcohol Enjuague Bucal - 500 ml'
 sku: 'B005JZ8XJG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','listerine', ]
+tags: [ 'listerine', ]
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

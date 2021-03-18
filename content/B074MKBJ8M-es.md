@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MKBJ8M-es La Silla Española Ribadeo Oficina sin Reposacabezas...'
 sku: 'B074MKBJ8M-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','española','la', ]
+tags: [ 'española','la', ]
 actualPrice: 52.54 EUR
 currency: EUR
 price: 52.54

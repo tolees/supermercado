@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BZXAKTG-es Revlon Total Color Care Antifading Shampoo Champú - 1000 ml'
 sku: 'B01BZXAKTG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú','revlon', ]
+tags: [ 'champú','revlon', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

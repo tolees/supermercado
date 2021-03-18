@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079W3DGH6-es Garnier Olia - Coloración Permanente sin Amoniaco con...'
 sku: 'B079W3DGH6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

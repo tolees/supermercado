@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M4RD0NA-es Nescafé Puro Colombia - Café Soluble - Pack de 3 x 100 g'
 sku: 'B01M4RD0NA-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','nescafé', ]
+tags: [ 'café','nescafé', ]
 actualPrice: 9.27 EUR
 currency: EUR
 price: 9.27

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008X1GA6Q-es Maybelline New York The Colossal Go Extreme Radical Black...'
 sku: 'B008X1GA6Q-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

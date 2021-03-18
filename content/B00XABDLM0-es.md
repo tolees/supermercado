@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XABDLM0-es Haribo - Pasta Basta Cola - Geles dulces - 200 unidades'
 sku: 'B00XABDLM0-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','haribo', ]
+tags: [ 'haribo', ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

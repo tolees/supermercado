@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XABGDFC-es NESCAFÉ 3 en 1 | Bolsa de Café | Paquete de 10x18g'
 sku: 'B00XABGDFC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','nescafé', ]
+tags: [ 'café','nescafé', ]
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

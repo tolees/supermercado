@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005W1BDI0-es Max Factor Colour Elixir Lipstick Barra de labios Tono 75...'
 sku: 'B005W1BDI0-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

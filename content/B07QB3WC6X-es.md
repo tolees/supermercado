@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QB3WC6X-es Old Spice Citron Antitranspirante Y Desodorante En Barra...'
 sku: 'B07QB3WC6X-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

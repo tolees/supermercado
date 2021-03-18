@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NHQZPHS-es Schmidt s Gel de ducha sólido de bergamota y lima - 142 gr'
 sku: 'B07NHQZPHS-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','ducha','gel', ]
+tags: [ 'de','ducha','gel', ]
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

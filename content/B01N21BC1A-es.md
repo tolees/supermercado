@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N21BC1A-es Mineradora manual de la carne con hojas de acero fundido...'
 sku: 'B01N21BC1A-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','salchichas', ]
+tags: [ 'salchichas', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

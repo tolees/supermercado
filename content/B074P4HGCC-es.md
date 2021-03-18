@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074P4HGCC-es Gliss - 2 Champús 400 ml + 1 Mascarilla Reparación Total...'
 sku: 'B074P4HGCC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

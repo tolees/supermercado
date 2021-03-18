@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013WW8A0E-es Elizabeth Arden Superstart Serum Facial 30 ml'
 sku: 'B013WW8A0E-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

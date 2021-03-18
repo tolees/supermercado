@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRY5MHT-es Red Bull Bebida Energética Coco y Arándanos - 12 latas de...'
 sku: 'B07RRY5MHT-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','bebida','bull','energética','red', ]
+tags: [ 'bebida','bull','energética','red', ]
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

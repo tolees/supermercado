@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LAYIMOA-es Maybelline Master Strobing Stick Iluminador Tono 300 Dark...'
 sku: 'B01LAYIMOA-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

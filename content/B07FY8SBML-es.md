@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FY8SBML-es NaturGreen Semillas de Sésamo natural - Pack de 6 unidades...'
 sku: 'B07FY8SBML-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','sésamo', ]
+tags: [ 'sésamo', ]
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

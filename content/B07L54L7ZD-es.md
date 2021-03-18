@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L54L7ZD-es Consuelo - cápsulas de café compatibles con Nespresso* -...'
 sku: 'B07L54L7ZD-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','cápsulas','de', ]
+tags: [ 'café','cápsulas','de', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

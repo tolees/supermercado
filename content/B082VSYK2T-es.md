@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VSYK2T-es Schwarzkopf Palette Intense Coloración Permanente Tono 3...'
 sku: 'B082VSYK2T-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QLJGA-es Foxy Seda Papel Higiénico con pH Neutro - 6 Rollos'
 sku: 'B01K7QLJGA-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','foxy', ]
+tags: [ 'foxy', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

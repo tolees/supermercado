@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HU7T1JW-es Kinder Chocolate - Barritas de Chocolate con Leche - 8...'
 sku: 'B00HU7T1JW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

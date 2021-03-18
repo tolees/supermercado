@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QFS2UQI-es Earth Rated Tierra Nominal dispensador con biodegradables...'
 sku: 'B00QFS2UQI-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','basura','bolsas','de', ]
+tags: [ 'basura','bolsas','de', ]
 actualPrice: 31.46 EUR
 currency: EUR
 price: 31.46

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0012RIEM6-es Finish Line Fiber Fibre Grip Unisex Adulto Blanco 50 g'
 sku: 'B0012RIEM6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','finish', ]
+tags: [ 'finish', ]
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

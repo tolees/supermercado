@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073FWQRYK-es Max Factor Colour Elixir Honey Lacquer Gloss Brillo de...'
 sku: 'B073FWQRYK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

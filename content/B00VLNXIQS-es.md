@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VLNXIQS-es Levi s L/S Barstow Western Shirt Camisa Casual de Manga...'
 sku: 'B00VLNXIQS-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','finish', ]
+tags: [ 'finish', ]
 actualPrice: 33.11 EUR
 currency: EUR
 price: 33.11

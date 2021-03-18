@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDROZL2-es Scottex Gigante Papel de Cocina - 1 Rollo'
 sku: 'B00XDROZL2-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cocina','de','papel','scottex', ]
+tags: [ 'cocina','de','papel','scottex', ]
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

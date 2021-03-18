@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0055TBLXG-es L Oréal Paris Volumissime Carbone X5 Máscara de Pestañas...'
 sku: 'B0055TBLXG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

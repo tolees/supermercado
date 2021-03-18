@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W7STOQE-es ROC KEOPS - Desodorante Roll On Piel Normal 30 ml x2'
 sku: 'B00W7STOQE-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

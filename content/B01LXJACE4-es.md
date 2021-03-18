@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXJACE4-es Sardinillas en aceite de oliva cuca rr - 90 est. af 90 gr...'
 sku: 'B01LXJACE4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','aceite','cuca','de','oliva', ]
+tags: [ 'aceite','cuca','de','oliva', ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

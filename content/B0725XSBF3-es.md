@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0725XSBF3-es L Oréal Powermix Liss Prokeratin Tratamiento Capilar - 150 ml'
 sku: 'B0725XSBF3-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 37.38 EUR
 currency: EUR
 price: 37.38

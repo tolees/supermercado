@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K7ZD4Q0-es Lancaster Deodorant Cream Sensitive Desodorante - 125 ml'
 sku: 'B00K7ZD4Q0-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

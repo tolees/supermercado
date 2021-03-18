@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083W6FQKN-es SUPERSUN 8 Velas de Citronela Antimosquitos Exterior Velas...'
 sku: 'B083W6FQKN-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','soja', ]
+tags: [ 'soja', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

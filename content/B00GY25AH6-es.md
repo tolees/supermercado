@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GY25AH6-es Isdin Zincation Champú Anticaspa Uso frecuente - 1 x 400ml'
 sku: 'B00GY25AH6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9VYAKI-es L Oréal Paris Excellence Coloración Crème Triple...'
 sku: 'B00X9VYAKI-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

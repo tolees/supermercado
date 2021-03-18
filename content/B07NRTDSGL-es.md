@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRTDSGL-es Gliss - Million Gloss Champú para Cabello Apagado y Sin...'
 sku: 'B07NRTDSGL-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú','schwarzkopf', ]
+tags: [ 'champú','schwarzkopf', ]
 actualPrice: 5.37 EUR
 currency: EUR
 price: 5.37

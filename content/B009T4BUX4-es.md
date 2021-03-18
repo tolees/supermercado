@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009T4BUX4-es Gin The Botanical s - Ginebra - Botella 70 cl'
 sku: 'B009T4BUX4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','ginebra', ]
+tags: [ 'ginebra', ]
 actualPrice: 23.45 EUR
 currency: EUR
 price: 23.45

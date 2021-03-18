@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFVJJHC-es Kit Cuidado de Barba Fixget Recorte - Champú Barba Aceite...'
 sku: 'B07KFVJJHC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

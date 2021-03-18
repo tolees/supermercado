@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GPYVH57-es Bolsas Regalo CumpleañOs Bolsa Merienda Infantil Bolsas...'
 sku: 'B08GPYVH57-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

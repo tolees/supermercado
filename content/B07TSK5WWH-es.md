@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSK5WWH-es Max Factor Perfect Gel Shine; Laca de Uñas Tono 303 - 12 ml'
 sku: 'B07TSK5WWH-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

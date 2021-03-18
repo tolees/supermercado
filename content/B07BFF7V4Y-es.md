@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFF7V4Y-es 100 Unidades. Coffee To Go – Vasos Desechables para café...'
 sku: 'B07BFF7V4Y-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 10.41 EUR
 currency: EUR
 price: 10.41

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001P2PPBQ-es Revlon ColorStay Overtime Pintalabios Larga Duración #005...'
 sku: 'B001P2PPBQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

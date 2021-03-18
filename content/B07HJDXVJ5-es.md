@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJDXVJ5-es Un Air d’Antan® Caja Belleza Provence Mujer 1 Jabon 100g 1...'
 sku: 'B07HJDXVJ5-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','jabon', ]
+tags: [ 'jabon', ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

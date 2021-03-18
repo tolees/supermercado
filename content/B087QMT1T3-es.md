@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087QMT1T3-es Dani - Cebolla escamas - Pack 12 x 40 gr.'
 sku: 'B087QMT1T3-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cebolla', ]
+tags: [ 'cebolla', ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

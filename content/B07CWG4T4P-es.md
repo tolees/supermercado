@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CWG4T4P-es Melatonina 1 8 mg con 5-HTP Magnesio y Vitamina B6 180...'
 sku: 'B07CWG4T4P-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gluten','sin', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

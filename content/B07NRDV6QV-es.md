@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRDV6QV-es Syoss Champú para Volumen 0% Siliconas - Pack de 3...'
 sku: 'B07NRDV6QV-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

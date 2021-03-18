@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Q4WDG4-es Oral-B Stages Star Wars Cabezales de cepillo de dientes...'
 sku: 'B077Q4WDG4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

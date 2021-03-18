@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D0THKLK-es Max Factor Colour Elixir Lipstick Barra de Labios Tono 720...'
 sku: 'B00D0THKLK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

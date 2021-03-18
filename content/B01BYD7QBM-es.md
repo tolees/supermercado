@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BYD7QBM-es Oral-B Genius 8000N Cepillo de Dientes Eléctrico...'
 sku: 'B01BYD7QBM-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 127.68 EUR
 currency: EUR
 price: 127.68

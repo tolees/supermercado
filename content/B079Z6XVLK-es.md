@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079Z6XVLK-es VICTORY ENDURANCE NatureŽs Energy Bar Manzana 60g x 25...'
 sku: 'B079Z6XVLK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','manzana', ]
+tags: [ 'manzana', ]
 actualPrice: 27.84 EUR
 currency: EUR
 price: 27.84

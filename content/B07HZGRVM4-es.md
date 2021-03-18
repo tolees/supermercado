@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HZGRVM4-es Maybelline New York City Bronzer Polvos Bronceadores Mate...'
 sku: 'B07HZGRVM4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HS3IZMQ-es Cafés Granell - Exotic Collection - Sulawesi Café en Grano...'
 sku: 'B01HS3IZMQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 14.12 EUR
 currency: EUR
 price: 14.12

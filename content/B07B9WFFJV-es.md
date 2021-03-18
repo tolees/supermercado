@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9WFFJV-es Fitbit Versa Smartwatch Deportivo Melocotón'
 sku: 'B07B9WFFJV-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','melocotón', ]
+tags: [ 'melocotón', ]
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

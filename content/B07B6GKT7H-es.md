@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B6GKT7H-es Kellogg s KG30683 - Caja Cereales Metal Blanco Negro 18 5...'
 sku: 'B07B6GKT7H-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','kellogg', ]
+tags: [ 'kellogg', ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

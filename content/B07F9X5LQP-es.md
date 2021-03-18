@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F9X5LQP-es Yosoy - Bebida Vegetal Ecológica de Avena Caja de 6 x 1L'
 sku: 'B07F9X5LQP-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','yosoy', ]
+tags: [ 'yosoy', ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

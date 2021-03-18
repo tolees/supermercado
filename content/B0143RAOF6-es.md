@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0143RAOF6-es Matrix Total Results High Amplify Wonder Boost - Cuidado...'
 sku: 'B0143RAOF6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','capilar','cuidado', ]
+tags: [ 'capilar','cuidado', ]
 actualPrice: 7.28 EUR
 currency: EUR
 price: 7.28

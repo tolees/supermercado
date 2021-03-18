@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P2J5R9F-es Control Lub Chocolate - Gel lubricante sin azúcar ni...'
 sku: 'B07P2J5R9F-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','azúcar','chocolate', ]
+tags: [ 'azúcar','chocolate', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

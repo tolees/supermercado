@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FAA12G6-es Elizabeth Arden - Limpiador Anti-aging Treatment boosting...'
 sku: 'B00FAA12G6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 31.06 EUR
 currency: EUR
 price: 31.06

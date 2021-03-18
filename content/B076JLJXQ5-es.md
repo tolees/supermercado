@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076JLJXQ5-es Oral-B Pro 750 Sensi Ultrathin Adulto Azul - Cepillo de...'
 sku: 'B076JLJXQ5-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

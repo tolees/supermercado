@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKRCQN3-es Gillette Mach3 Recambio De Maquinilla De Afeitar Para...'
 sku: 'B07ZKRCQN3-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

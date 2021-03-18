@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RTW9KQW-es DAYNEW Dispensador De Aceite De Oliva y Vinagre con...'
 sku: 'B07RTW9KQW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','aceite','de','oliva', ]
+tags: [ 'aceite','de','oliva', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

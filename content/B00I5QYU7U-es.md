@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I5QYU7U-es Elizabeth Arden Visible Difference Primer retexturizante...'
 sku: 'B00I5QYU7U-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

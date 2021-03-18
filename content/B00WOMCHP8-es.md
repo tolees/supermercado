@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WOMCHP8-es Crema Repelente Mosquitos - Repelente de Insectos para...'
 sku: 'B00WOMCHP8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','aceite','de','extra','oliva','virgen', ]
+tags: [ 'aceite','de','extra','oliva','virgen', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

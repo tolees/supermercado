@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HX4HDJG-es OREWORK 386770 Molino Maíz eléctrico'
 sku: 'B01HX4HDJG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','maíz', ]
+tags: [ 'maíz', ]
 actualPrice: 141.93 EUR
 currency: EUR
 price: 141.93

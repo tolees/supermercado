@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0075CMHSE-es Salerm Cosmetics Dermocalm Champú - 250 ml Transparente'
 sku: 'B0075CMHSE-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 5.67 EUR
 currency: EUR
 price: 5.67

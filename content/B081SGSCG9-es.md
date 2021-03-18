@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081SGSCG9-es GoMaihe Tarro de Vidrio de Almacenamiento 3Pcs Tarros de...'
 sku: 'B081SGSCG9-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','conservas', ]
+tags: [ 'café','conservas', ]
 actualPrice: 23.69 EUR
 currency: EUR
 price: 23.69

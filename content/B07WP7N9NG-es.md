@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WP7N9NG-es Cepillo Dientes Bambu Cepillo de Dientes Bambu Sostenibles...'
 sku: 'B07WP7N9NG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

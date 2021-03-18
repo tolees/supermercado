@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MZB49L-es Junio1 Hermosa Caja de Regalo de Flor de jabón de Caja de...'
 sku: 'B082MZB49L-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

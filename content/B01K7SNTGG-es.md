@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7SNTGG-es Free Damm Cerveza Sin Alcohol - Pack de 6 Botellas 25cl'
 sku: 'B01K7SNTGG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 2.48 EUR
 currency: EUR
 price: 2.48

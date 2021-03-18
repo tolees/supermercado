@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006TD3M7U-es Garnier Niños Sensitive Advanced - Protector Solar para...'
 sku: 'B006TD3M7U-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

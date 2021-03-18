@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QSQ7Q4-es Mimosín Narciso Suavizante Concentrado para 58 lavados - 8...'
 sku: 'B073QSQ7Q4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','suavizante', ]
+tags: [ 'suavizante', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

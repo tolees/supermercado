@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4RTXCG-es Tommy Hilfiger - Soft Turnlock Lrg Za Carteras Mujer Gris...'
 sku: 'B07V4RTXCG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oatmeal', ]
+tags: [ 'oatmeal', ]
 actualPrice: 37.58 EUR
 currency: EUR
 price: 37.58

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IBG6XH4-es NUK 10750796 – detergente en espuma para biberón con...'
 sku: 'B00IBG6XH4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

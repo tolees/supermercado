@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXSWNWD-es Vermouth La Copa Rojo - D.O. Jerez - 6 x 750 ml - Total:...'
 sku: 'B01MXSWNWD-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','vermouth', ]
+tags: [ 'vermouth', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

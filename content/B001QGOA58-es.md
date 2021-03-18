@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001QGOA58-es Lavazza Café Molido Espresso Dek Classico Descafeinado 250 g'
 sku: 'B001QGOA58-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','descafeinado','lavazza', ]
+tags: [ 'café','descafeinado','lavazza', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

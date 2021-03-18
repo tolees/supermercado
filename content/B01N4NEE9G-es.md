@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4NEE9G-es WeddingTree 48 Pompas de Jabon Boda Rosa - Pomperos Boda -...'
 sku: 'B01N4NEE9G-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','jabon', ]
+tags: [ 'jabon', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

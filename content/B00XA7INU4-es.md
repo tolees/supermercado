@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA7INU4-es Campos Conserva de Bonito del norte en escabeche...'
 sku: 'B00XA7INU4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','conserva','escabeche', ]
+tags: [ 'conserva','escabeche', ]
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

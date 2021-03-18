@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003XUM5GQ-es ColaCao 0% Azúcares añadidos - 300g'
 sku: 'B003XUM5GQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','colacao', ]
+tags: [ 'colacao', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

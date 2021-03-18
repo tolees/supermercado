@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004EAIWMA-es Sipsmith London Dry Gin Ginebra 41.6% -700 ml'
 sku: 'B004EAIWMA-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','ginebra', ]
+tags: [ 'ginebra', ]
 actualPrice: 29.17 EUR
 currency: EUR
 price: 29.17

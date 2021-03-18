@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8LWDJ8-es Skip Cápsulas Ultimate Poder KH7 22 +2 lavados gratis'
 sku: 'B07S8LWDJ8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','kh7', ]
+tags: [ 'kh7', ]
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

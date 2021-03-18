@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086LYTL28-es 22 Pies Vino Tinto - 3 botellas de 75 cl Total: 2250 ml'
 sku: 'B086LYTL28-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','tinto','vino', ]
+tags: [ 'tinto','vino', ]
 actualPrice: 16.65 EUR
 currency: EUR
 price: 16.65

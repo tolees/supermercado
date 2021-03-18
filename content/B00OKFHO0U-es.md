@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OKFHO0U-es Beaphar - Champú Premium para Perros Anti picores 250 ml'
 sku: 'B00OKFHO0U-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 8.03 EUR
 currency: EUR
 price: 8.03

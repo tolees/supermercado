@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CYG77CF-es Elizabeth Arden Agua de perfume para mujeres - 30 ml.'
 sku: 'B07CYG77CF-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 19.33 EUR
 currency: EUR
 price: 19.33

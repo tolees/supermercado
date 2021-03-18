@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015DTSPWM-es La Toja Balsamo Hidrotermal - 100 ml'
 sku: 'B015DTSPWM-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','la','toja', ]
+tags: [ 'la','toja', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HPZ9FB5-es Neutrogena Radiance Boost Mascarilla Iluminadora - 4...'
 sku: 'B07HPZ9FB5-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','neutrogena', ]
+tags: [ 'neutrogena', ]
 actualPrice: 6.87 EUR
 currency: EUR
 price: 6.87

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FK53MLF-es Revlon Accesorio de coloración - 60 ml.'
 sku: 'B07FK53MLF-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 3.53 EUR
 currency: EUR
 price: 3.53

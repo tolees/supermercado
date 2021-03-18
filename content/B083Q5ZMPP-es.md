@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083Q5ZMPP-es Gillette SkinGuard Sensitive Maquinillas Para Hombre 8...'
 sku: 'B083Q5ZMPP-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

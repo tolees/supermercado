@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084PBSH6N-es 4 Unids/set Mesa de seguridad para niños Cubierta de...'
 sku: 'B084PBSH6N-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 1.36 EUR
 currency: EUR
 price: 1.36

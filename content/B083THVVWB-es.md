@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083THVVWB-es Mumiumius Taza de Dientes/Taza de Cepillo de Dientes...'
 sku: 'B083THVVWB-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','cepillo','de','dientes', ]
+tags: [ 'café','cepillo','de','dientes', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

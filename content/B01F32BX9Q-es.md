@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F32BX9Q-es Maybelline New York - Color Sensational Vivid Matte Liquid...'
 sku: 'B01F32BX9Q-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

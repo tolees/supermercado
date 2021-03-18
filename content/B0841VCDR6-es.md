@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0841VCDR6-es Generador de ozono Ionizador Purificador de aire...'
 sku: 'B0841VCDR6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 52.01 EUR
 currency: EUR
 price: 52.01

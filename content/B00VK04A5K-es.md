@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VK04A5K-es L Oréal Paris Mega Gloss Infalible 505 Never Let Me Go'
 sku: 'B00VK04A5K-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

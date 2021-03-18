@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DWHHJFW-es Santa Digna Chardonnay Vino Blanco 6 botellas de 75 cl -...'
 sku: 'B00DWHHJFW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','blanco','vino', ]
+tags: [ 'blanco','vino', ]
 actualPrice: 33.94 EUR
 currency: EUR
 price: 33.94

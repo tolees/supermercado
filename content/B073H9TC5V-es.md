@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073H9TC5V-es Maybelline New York - Superstay Matte Ink Barra de Labios...'
 sku: 'B073H9TC5V-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

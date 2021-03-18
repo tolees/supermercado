@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W7K6E5Q-es Scitec Nutrition Proteína De Suero Professional con Sabor...'
 sku: 'B00W7K6E5Q-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

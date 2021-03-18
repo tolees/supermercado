@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G86SPJC-es TRESemmé Champú Botanique Coco Negro -700 ml'
 sku: 'B07G86SPJC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú','tresemmé', ]
+tags: [ 'champú','tresemmé', ]
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

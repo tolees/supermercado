@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0091DK1II-es Brandy Solera Reserva Jerez Carlos III Osborne 36º - 1...'
 sku: 'B0091DK1II-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','brandy', ]
+tags: [ 'brandy', ]
 actualPrice: 10.48 EUR
 currency: EUR
 price: 10.48

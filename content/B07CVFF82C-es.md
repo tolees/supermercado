@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVFF82C-es Marca Amazon - Happy Belly Café molido "COLOMBIA" 4 x 250g'
 sku: 'B07CVFF82C-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','belly','café','happy', ]
+tags: [ 'belly','café','happy', ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

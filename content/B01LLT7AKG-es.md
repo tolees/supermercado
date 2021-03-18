@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LLT7AKG-es NYK1 Champu Sin Sulfatos Y Acondicionador - Champu Sin...'
 sku: 'B01LLT7AKG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','acondicionador','champu', ]
+tags: [ 'acondicionador','champu', ]
 actualPrice: 29.96 EUR
 currency: EUR
 price: 29.96

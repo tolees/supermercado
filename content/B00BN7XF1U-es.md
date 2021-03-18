@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BN7XF1U-es Instituto Español Gel de Baño y Ducha 10% Urea para Piel...'
 sku: 'B00BN7XF1U-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','español','instituto', ]
+tags: [ 'español','instituto', ]
 actualPrice: 2.07 EUR
 currency: EUR
 price: 2.07

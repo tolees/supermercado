@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDK9MLF-es Mimosin Intense Explosión de Frescor Perlas de fragancia...'
 sku: 'B07FDK9MLF-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','mimosin', ]
+tags: [ 'mimosin', ]
 actualPrice: 17.8 EUR
 currency: EUR
 price: 17.8

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ORWOVW-es WELEDA Desodorante Spray de Salvia 1x 100 ml'
 sku: 'B000ORWOVW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 10.82 EUR
 currency: EUR
 price: 10.82

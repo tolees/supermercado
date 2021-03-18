@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDJ9QL5-es Casals C63009000 Hidrolimpiadora 1400 W 105 bares de...'
 sku: 'B07FDJ9QL5-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

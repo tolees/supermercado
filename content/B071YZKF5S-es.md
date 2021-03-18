@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YZKF5S-es Purina Gourmet Gold Doble Placer - Comida para Gatos...'
 sku: 'B071YZKF5S-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','purina', ]
+tags: [ 'purina', ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

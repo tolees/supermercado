@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BWVD02K-es Pasta de dientes blanqueadora Colgate Sensation dientes...'
 sku: 'B01BWVD02K-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','colgate','de','dientes','pasta', ]
+tags: [ 'colgate','de','dientes','pasta', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

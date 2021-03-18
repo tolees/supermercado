@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CHUR2F6-es Wilkinson Sword Hydro – Maquinilla de afeitar con 8 recambios'
 sku: 'B01CHUR2F6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','sword','wilkinson', ]
+tags: [ 'sword','wilkinson', ]
 actualPrice: 9.66 EUR
 currency: EUR
 price: 9.66

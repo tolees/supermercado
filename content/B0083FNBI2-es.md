@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0083FNBI2-es Calypso Energy Peeling - Esponja de baño vegetal...'
 sku: 'B0083FNBI2-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','frutos','secos', ]
+tags: [ 'frutos','secos', ]
 actualPrice: 2.15 EUR
 currency: EUR
 price: 2.15

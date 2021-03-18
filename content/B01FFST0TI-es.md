@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FFST0TI-es Nosa Healthcare Champú - 250 ml'
 sku: 'B01FFST0TI-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

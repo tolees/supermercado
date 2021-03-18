@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAIT190-es Instituto Español Gotas Frescas agua de colonia...'
 sku: 'B00XAIT190-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','español','instituto', ]
+tags: [ 'español','instituto', ]
 actualPrice: 3.24 EUR
 currency: EUR
 price: 3.24

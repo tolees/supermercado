@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7QWYZ9-es Arehucas Ginebra Carmela Mango Guayaba - 700 ml'
 sku: 'B01N7QWYZ9-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','ginebra', ]
+tags: [ 'ginebra', ]
 actualPrice: 14.05 EUR
 currency: EUR
 price: 14.05

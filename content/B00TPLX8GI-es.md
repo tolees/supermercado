@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TPLX8GI-es L Oréal Paris Excellence Creme Tinte Tono 6.1 Rubio Oscuro...'
 sku: 'B00TPLX8GI-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

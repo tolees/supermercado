@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAIOR76-es Instituto Español Piel Sana Loción Corporal - 500 ml'
 sku: 'B00XAIOR76-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','español','instituto', ]
+tags: [ 'español','instituto', ]
 actualPrice: 1.93 EUR
 currency: EUR
 price: 1.93

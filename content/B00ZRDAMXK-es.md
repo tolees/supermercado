@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZRDAMXK-es Purina Pro Plan Small & Mini Puppy Salmón para cachorros...'
 sku: 'B00ZRDAMXK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','purina', ]
+tags: [ 'purina', ]
 actualPrice: 29.16 EUR
 currency: EUR
 price: 29.16

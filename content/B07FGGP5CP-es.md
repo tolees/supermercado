@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FGGP5CP-es Diadermine Expert Rejuvenecedor crema de día crema de...'
 sku: 'B07FGGP5CP-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','diadermine', ]
+tags: [ 'diadermine', ]
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

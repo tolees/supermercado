@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSFTWYB-es Estirpe - Aceite de Oliva Virgen Extra 1 Garrafa de 5 Litros'
 sku: 'B07GSFTWYB-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','aceite','de','extra','oliva','virgen', ]
+tags: [ 'aceite','de','extra','oliva','virgen', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

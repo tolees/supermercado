@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087TH3GV5-es Cocoda Dispensador de Desinfectante Manos 350ml...'
 sku: 'B087TH3GV5-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','jabon', ]
+tags: [ 'jabon', ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

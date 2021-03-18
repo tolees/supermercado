@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078VPBQZJ-es Aneto 100% Natural - Caldo de Pollo - caja de 6 unidades...'
 sku: 'B078VPBQZJ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','caldo','de','pollo', ]
+tags: [ 'caldo','de','pollo', ]
 actualPrice: 16.16 EUR
 currency: EUR
 price: 16.16

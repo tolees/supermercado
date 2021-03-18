@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BYNS17F-es Schwarzkopf Gliss Ultimate Repair - Champú para cabello...'
 sku: 'B07BYNS17F-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú','schwarzkopf', ]
+tags: [ 'champú','schwarzkopf', ]
 actualPrice: 1.74 EUR
 currency: EUR
 price: 1.74

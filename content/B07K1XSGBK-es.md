@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1XSGBK-es CÚRCUMA + MATCHA Té Verde En Polvo - MEJORES MEZCLAS DE...'
 sku: 'B07K1XSGBK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cúrcuma', ]
+tags: [ 'cúrcuma', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

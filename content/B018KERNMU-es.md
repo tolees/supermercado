@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018KERNMU-es Oral-B Stages Power Kids Cepillo de Dientes Eléctrico con...'
 sku: 'B018KERNMU-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

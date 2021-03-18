@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVTH3GS-es Vanish Quitamanchas Polvo Elimina Olores Sin Lejía - 420 Gr'
 sku: 'B07TVTH3GS-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','lejía', ]
+tags: [ 'lejía', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

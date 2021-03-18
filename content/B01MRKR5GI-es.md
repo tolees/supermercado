@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MRKR5GI-es Yamazakura Whisky - 700 ml'
 sku: 'B01MRKR5GI-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 42.1 EUR
 currency: EUR
 price: 42.1

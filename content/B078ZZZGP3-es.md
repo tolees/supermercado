@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZZZGP3-es TRESemmé Acondicionador Botanique Coco - Paquete de 3 x...'
 sku: 'B078ZZZGP3-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','acondicionador','tresemmé', ]
+tags: [ 'acondicionador','tresemmé', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

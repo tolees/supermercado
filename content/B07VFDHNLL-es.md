@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFDHNLL-es Air Wick - Ambientador aerosol esencia para casa con aroma...'
 sku: 'B07VFDHNLL-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

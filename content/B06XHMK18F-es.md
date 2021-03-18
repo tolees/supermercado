@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XHMK18F-es auna TT-931 - Tocadiscos Reproductor de vinilos...'
 sku: 'B06XHMK18F-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

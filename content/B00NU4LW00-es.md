@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NU4LW00-es L Oréal Serioxyl Serum Densificador Cabello 90 ml'
 sku: 'B00NU4LW00-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

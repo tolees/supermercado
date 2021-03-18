@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004VJS2EM-es FitFlop Zapatos de Cordones Chukker Chocolate EU 44 UK 10'
 sku: 'B004VJS2EM-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 75.95 EUR
 currency: EUR
 price: 75.95

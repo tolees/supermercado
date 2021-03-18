@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKT6V5W-es AGAKY Discos Desmaquillantes Reutilizables 12 Almohadillas...'
 sku: 'B07ZKT6V5W-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desmaquillantes','discos', ]
+tags: [ 'desmaquillantes','discos', ]
 actualPrice: 8.63 EUR
 currency: EUR
 price: 8.63

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GLG56Z7-es 100g 0.22LB China Yunnan conservas de té Puerh Chen Xiang...'
 sku: 'B07GLG56Z7-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','conservas', ]
+tags: [ 'conservas', ]
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

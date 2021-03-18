@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX7LN2W-es Lindt Excellence Tableta de Chocolate Suave 70% - 100 g'
 sku: 'B01LX7LN2W-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate','lindt', ]
+tags: [ 'chocolate','lindt', ]
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

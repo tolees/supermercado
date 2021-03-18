@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085HQFJMS-es GLUTEN FREE: JAMÁS TE SERÁ MÁS FÁCIL COCINAR Y COMER SIN...'
 sku: 'B085HQFJMS-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gluten','sin', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

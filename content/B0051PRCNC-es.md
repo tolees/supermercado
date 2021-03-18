@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0051PRCNC-es Revlon ZP11 - Champú Anticaspa Cabellos Normales 400 ml'
 sku: 'B0051PRCNC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú','revlon', ]
+tags: [ 'champú','revlon', ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

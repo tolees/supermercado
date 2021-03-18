@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UMZT4XW-es MOLDE ESPELTA BLANCO BLAND BIO'
 sku: 'B00UMZT4XW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','espelta','molde', ]
+tags: [ 'espelta','molde', ]
 actualPrice: 4.71 EUR
 currency: EUR
 price: 4.71

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0744PWM4H-es Holle Papilla de Copos de Avena +4 meses - Paquete de 6 x...'
 sku: 'B0744PWM4H-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','avena','copos','de', ]
+tags: [ 'avena','copos','de', ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

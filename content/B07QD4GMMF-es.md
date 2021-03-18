@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QD4GMMF-es La Toja Selection - Gel de ducha Exfoliante con Sales...'
 sku: 'B07QD4GMMF-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','ducha','gel','la','toja', ]
+tags: [ 'de','ducha','gel','la','toja', ]
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

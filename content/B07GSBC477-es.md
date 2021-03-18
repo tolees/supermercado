@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSBC477-es La Masia - Aceite de aguacate 250 ml - Lot de 4'
 sku: 'B07GSBC477-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','la','masia', ]
+tags: [ 'la','masia', ]
 actualPrice: 22.17 EUR
 currency: EUR
 price: 22.17

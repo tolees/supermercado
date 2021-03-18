@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079Z5W2ZM-es Elizabeth Arden Liquid Lip Gloss Finish Pintalabios Pretty...'
 sku: 'B079Z5W2ZM-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arden','elizabeth','finish', ]
+tags: [ 'arden','elizabeth','finish', ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

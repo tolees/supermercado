@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAPDW48-es Haribo - Flautas Nata-Fresa - Geles Dulces - 1.6 kg'
 sku: 'B00XAPDW48-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','haribo', ]
+tags: [ 'haribo', ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

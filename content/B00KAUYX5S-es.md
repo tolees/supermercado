@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KAUYX5S-es Krups The Sub Heineken VB650E10 - Tirador de cerveza 2 l...'
 sku: 'B00KAUYX5S-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cerveza','heineken', ]
+tags: [ 'cerveza','heineken', ]
 actualPrice: None None
 currency: None
 price: None

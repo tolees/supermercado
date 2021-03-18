@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GLFSQRD-es Té de Yunnan Rose Puerh 100g 0.22LB conservas de Rose Puer...'
 sku: 'B07GLFSQRD-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','conservas', ]
+tags: [ 'conservas', ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

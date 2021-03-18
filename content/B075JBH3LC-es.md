@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JBH3LC-es Elizabeth Arden Fifth Avenue NYC Uptown Eau de Parfum...'
 sku: 'B075JBH3LC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 20.55 EUR
 currency: EUR
 price: 20.55

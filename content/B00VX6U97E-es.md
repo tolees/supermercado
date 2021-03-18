@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VX6U97E-es Revlon Colorstay 24H Base de maquillaje para rostro para...'
 sku: 'B00VX6U97E-es'
-tags: [ 'Alimentación y bebidas','Bases de maquillaje','Baño e higiene personal','Belleza','Bombillas','Bombillas LED','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','Iluminación','Maquillaje','Maquillaje facial','colorstay','revlon', ]
+tags: [ 'Bases de maquillaje','colorstay','revlon', ]
 actualPrice: 4.65 EUR
 currency: EUR
 price: 4.65
@@ -28,9 +28,9 @@ Ahora mismo tienes [Revlon Colorstay 24H  Base de maquillaje para rostro  para c
 
 🔎:
 
-- Especialmente formulado para normal o piel seca, esta fórmula hidratante mantiene su humedad de la piel nivel equilibrado con un hermoso acabado satinado
-- Viene en frasco de 30 ml en varios tonos, para combinar con cualquier tono de piel
 - Proporciona una sensación cómoda y al mismo tiempo ilumina la piel
 - Fabricada específicamente para la piel mixta o grasa para controlar el brillo y la absorción de aceite
+- Especialmente formulado para normal o piel seca, esta fórmula hidratante mantiene su humedad de la piel nivel equilibrado con un hermoso acabado satinado
+- Viene en frasco de 30 ml en varios tonos, para combinar con cualquier tono de piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00VX6U97E/?tag=tolees-21)

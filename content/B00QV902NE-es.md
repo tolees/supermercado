@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QV902NE-es Prozis Cafeína Estimular la Concentración los Niveles de...'
 sku: 'B00QV902NE-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

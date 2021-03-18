@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXL14UT-es Brandy de Jerez Solera Gran Reserva Carlos I Imperial XO -...'
 sku: 'B01MXL14UT-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','brandy', ]
+tags: [ 'brandy', ]
 actualPrice: 36.4 EUR
 currency: EUR
 price: 36.4

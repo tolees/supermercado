@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000GE3JO4-es Gillette Fusion Power - Recambios de maquinilla de afeitar...'
 sku: 'B000GE3JO4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 14.11 EUR
 currency: EUR
 price: 14.11

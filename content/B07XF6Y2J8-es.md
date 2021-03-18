@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XF6Y2J8-es Mom Ginebra Premium - 1000 ml'
 sku: 'B07XF6Y2J8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','ginebra', ]
+tags: [ 'ginebra', ]
 actualPrice: 20.62 EUR
 currency: EUR
 price: 20.62

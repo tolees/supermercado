@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071ZZXVWJ-es Tasty Bites Cheesy carne y queso de 140g para educar |...'
 sku: 'B071ZZXVWJ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','queso', ]
+tags: [ 'queso', ]
 actualPrice: 6 EUR
 currency: EUR
 price: 6

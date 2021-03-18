@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00159JVVO-es Gillette venus breeze - Cuchillas de recambio para...'
 sku: 'B00159JVVO-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

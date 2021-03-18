@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N78MQ8Q-es Joyjoz 164 Pcs Slime Kit Slime Herramientas para artesanía...'
 sku: 'B07N78MQ8Q-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

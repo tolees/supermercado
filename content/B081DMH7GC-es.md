@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DMH7GC-es Colmanda Cerveza Abrebotellas 4 Piezas Forma de Pistola...'
 sku: 'B081DMH7GC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

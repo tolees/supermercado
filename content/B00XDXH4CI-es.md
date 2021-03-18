@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDXH4CI-es Foxy - Pañuelos hipoalergénicos - 10 paquetes x 9 unidades'
 sku: 'B00XDXH4CI-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','foxy', ]
+tags: [ 'foxy', ]
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

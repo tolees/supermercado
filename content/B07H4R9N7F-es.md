@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H4R9N7F-es Estrella de Levante Cerveza - Pack de 6 Botellas 1L'
 sku: 'B07H4R9N7F-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 8.28 EUR
 currency: EUR
 price: 8.28

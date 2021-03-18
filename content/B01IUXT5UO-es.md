@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IUXT5UO-es Chocolates Valor - Chocolate 70% Cacao con Mousse de...'
 sku: 'B01IUXT5UO-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','azúcar','chocolate', ]
+tags: [ 'azúcar','chocolate', ]
 actualPrice: 1.33 EUR
 currency: EUR
 price: 1.33

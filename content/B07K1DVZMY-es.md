@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1DVZMY-es La Toja Selection - Pack Regalo Mujer - Gel de Baño...'
 sku: 'B07K1DVZMY-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','ducha','gel','la','toja', ]
+tags: [ 'de','ducha','gel','la','toja', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

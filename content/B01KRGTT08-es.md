@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KRGTT08-es Nivea Cellular aufpolsternde Cuidado perlas 1er Pack 1 x...'
 sku: 'B01KRGTT08-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

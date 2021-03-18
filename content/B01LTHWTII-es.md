@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LTHWTII-es Scottex - Pañuelos Suaves y Resistentes 4 Capas 6 Paquetes...'
 sku: 'B01LTHWTII-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','scottex', ]
+tags: [ 'scottex', ]
 actualPrice: 8.81 EUR
 currency: EUR
 price: 8.81

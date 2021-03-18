@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0000D8BGF-es Colgate Actibrush Brush HEAD 2 Cabezal para cepillo de...'
 sku: 'B0000D8BGF-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','colgate','de','dientes', ]
+tags: [ 'cepillo','colgate','de','dientes', ]
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDB3Y8S-es Skip Ultimate Triple Poder Pieles Sensibles Detergente...'
 sku: 'B07FDB3Y8S-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

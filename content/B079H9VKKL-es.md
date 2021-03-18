@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079H9VKKL-es Optimum Nutrition Protein Whipped Bites barrita proteica...'
 sku: 'B079H9VKKL-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

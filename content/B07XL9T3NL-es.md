@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XL9T3NL-es Gillette Fusion5 - Cuchillas de Afeitar Pack Ahorro...'
 sku: 'B07XL9T3NL-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

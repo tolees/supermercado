@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Q8LYIEO-es Gölles Alte Zwetschge Brandy - 350 ml'
 sku: 'B00Q8LYIEO-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','brandy', ]
+tags: [ 'brandy', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

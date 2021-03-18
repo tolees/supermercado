@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0767FMH1Y-es Rexona Maximum Protection Crema Antitranspirante Clean...'
 sku: 'B0767FMH1Y-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','rexona', ]
+tags: [ 'rexona', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

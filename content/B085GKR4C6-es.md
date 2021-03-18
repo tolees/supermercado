@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085GKR4C6-es Pack de 6 Botellas de 1L gel hidroalcohólico higienizante...'
 sku: 'B085GKR4C6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','hidroalcohólico', ]
+tags: [ 'hidroalcohólico', ]
 actualPrice: 45.6 EUR
 currency: EUR
 price: 45.6

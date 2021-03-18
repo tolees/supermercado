@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CLN78Y6-es Diadermine - Lift+ Hidratante crema de día - 50ml y Lift+...'
 sku: 'B07CLN78Y6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','diadermine', ]
+tags: [ 'diadermine', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

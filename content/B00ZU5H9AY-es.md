@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZU5H9AY-es Axe Blacknight - Set de 6 geles de ducha 6 x 250 ml'
 sku: 'B00ZU5H9AY-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','axe', ]
+tags: [ 'axe', ]
 actualPrice: 10.76 EUR
 currency: EUR
 price: 10.76

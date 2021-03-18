@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8XTJPQ-es Purina ProPlan Medium Puppy Derma pienso para perro...'
 sku: 'B07B8XTJPQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','purina', ]
+tags: [ 'purina', ]
 actualPrice: 34.69 EUR
 currency: EUR
 price: 34.69

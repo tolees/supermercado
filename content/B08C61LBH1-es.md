@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C61LBH1-es Smileat Smileat Pouch Yogur Y Frambuesa Eco Envase...'
 sku: 'B08C61LBH1-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','yogur', ]
+tags: [ 'yogur', ]
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

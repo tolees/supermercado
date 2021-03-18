@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SFGRGJE-es iRobot Scooba 4416470 - Detergente Líquido Concentrado...'
 sku: 'B00SFGRGJE-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

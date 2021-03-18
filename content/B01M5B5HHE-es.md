@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5B5HHE-es Scottex Sensitive Papel Higiénico - 18 rollos'
 sku: 'B01M5B5HHE-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','scottex', ]
+tags: [ 'scottex', ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

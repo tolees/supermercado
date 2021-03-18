@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084XR1QJ3-es Ymea Silueta| Tratamiento de la Menopausia | Doble acción...'
 sku: 'B084XR1QJ3-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','soja', ]
+tags: [ 'soja', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

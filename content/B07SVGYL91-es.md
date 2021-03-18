@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVGYL91-es Fairy Taill & Glitter Fee 100 Unidades Mezcla Cristal...'
 sku: 'B07SVGYL91-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','fairy', ]
+tags: [ 'fairy', ]
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

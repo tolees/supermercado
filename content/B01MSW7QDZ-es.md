@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSW7QDZ-es Vileda - Salvauñas Vitroceramica Duplo - [Pack de 4]'
 sku: 'B01MSW7QDZ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','salvauñas','vileda', ]
+tags: [ 'salvauñas','vileda', ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

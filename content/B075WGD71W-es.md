@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075WGD71W-es Hugo Boss Man Desodorante Spray 1er Pack 1 x 150 ml'
 sku: 'B075WGD71W-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 17.71 EUR
 currency: EUR
 price: 17.71

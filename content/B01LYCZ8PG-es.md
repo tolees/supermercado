@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYCZ8PG-es Orlando Tomate Natural Triturado - 800 g'
 sku: 'B01LYCZ8PG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','orlando', ]
+tags: [ 'orlando', ]
 actualPrice: 0.92 EUR
 currency: EUR
 price: 0.92

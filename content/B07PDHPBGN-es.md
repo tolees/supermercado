@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDHPBGN-es Wilkinson Sword - Maquinilla de Afeitar Hydro 5 Sense...'
 sku: 'B07PDHPBGN-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','sword','wilkinson', ]
+tags: [ 'sword','wilkinson', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

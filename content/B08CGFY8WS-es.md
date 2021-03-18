@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CGFY8WS-es MENNYO Posavasos Originales Juego de 14 Posavasos de...'
 sku: 'B08CGFY8WS-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

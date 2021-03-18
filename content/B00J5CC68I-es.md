@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J5CC68I-es The London Nº1 Ginebra - 1000 ml'
 sku: 'B00J5CC68I-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','ginebra', ]
+tags: [ 'ginebra', ]
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

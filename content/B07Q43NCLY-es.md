@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q43NCLY-es Vestimenta Casual de Playa para Mujer Vestidos de Verano...'
 sku: 'B07Q43NCLY-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','espagueti', ]
+tags: [ 'espagueti', ]
 actualPrice: None None
 currency: None
 price: None

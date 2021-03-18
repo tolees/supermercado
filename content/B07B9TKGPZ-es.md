@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9TKGPZ-es ICA CHPM20 Champú Antiparásitos con Aloe Vera para Perros'
 sku: 'B07B9TKGPZ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

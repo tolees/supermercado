@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J4RH1TV-es Optimum Nutrition ON 100% Plant Gold Standard Proteina...'
 sku: 'B07J4RH1TV-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

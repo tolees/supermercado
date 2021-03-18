@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GGGL3XA-es Oral B 68341 - Cabezales para cepillo de dientes eléctrico...'
 sku: 'B00GGGL3XA-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082Y2KXF4-es Cocoda Dispensador Jabón Automático 500ml/17oz Dispensador...'
 sku: 'B082Y2KXF4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','jabon','jabón', ]
+tags: [ 'jabon','jabón', ]
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

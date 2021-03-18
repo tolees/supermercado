@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CWTMMZG-es Font Vella Levité Agua Mineral con zumo de limón - Pack 12...'
 sku: 'B07CWTMMZG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','agua','de','font','mineral','vella','zumo', ]
+tags: [ 'agua','de','font','mineral','vella','zumo', ]
 actualPrice: 5.1 EUR
 currency: EUR
 price: 5.1

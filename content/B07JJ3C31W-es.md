@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JJ3C31W-es YING - Dispensador automático de pasta de dientes + caja...'
 sku: 'B07JJ3C31W-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes','pasta', ]
+tags: [ 'cepillo','de','dientes','pasta', ]
 actualPrice: 11.07 EUR
 currency: EUR
 price: 11.07

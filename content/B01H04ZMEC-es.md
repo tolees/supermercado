@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H04ZMEC-es Vegetalia Canela en Rama - 80 gr'
 sku: 'B01H04ZMEC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','canela', ]
+tags: [ 'canela', ]
 actualPrice: 3.26 EUR
 currency: EUR
 price: 3.26

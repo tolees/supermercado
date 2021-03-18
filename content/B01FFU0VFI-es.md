@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FFU0VFI-es True Instinct Original Medium-Maxi Junior - Pienso para...'
 sku: 'B01FFU0VFI-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arroz','integral', ]
+tags: [ 'arroz','integral', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

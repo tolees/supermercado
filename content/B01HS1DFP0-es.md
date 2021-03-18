@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HS1DFP0-es Instituto Español Poseidon Hombre Edición Indómito - Eau...'
 sku: 'B01HS1DFP0-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','español','instituto', ]
+tags: [ 'español','instituto', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R7HKAWC-es Melitta Molinillo de café eléctrico Molino Disco plano...'
 sku: 'B00R7HKAWC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

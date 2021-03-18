@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086DJ9MGW-es TTAototech Sensor inteligente Dispensador de jabón- 1000...'
 sku: 'B086DJ9MGW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 33.79 EUR
 currency: EUR
 price: 33.79

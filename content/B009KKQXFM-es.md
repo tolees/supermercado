@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009KKQXFM-es La masía - Aceite de oliva suave - 1 L'
 sku: 'B009KKQXFM-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','aceite','de','oliva', ]
+tags: [ 'aceite','de','oliva', ]
 actualPrice: 2.27 EUR
 currency: EUR
 price: 2.27

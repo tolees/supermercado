@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MDBL6M-es La Silla Española Santander Oficina con Reposacabezas Piel...'
 sku: 'B074MDBL6M-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','española','la', ]
+tags: [ 'española','la', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

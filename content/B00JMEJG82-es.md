@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JMEJG82-es Pavo 8047222 Caja para llaves de alta seguridad capacidad...'
 sku: 'B00JMEJG82-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','pavo', ]
+tags: [ 'pavo', ]
 actualPrice: 58.23 EUR
 currency: EUR
 price: 58.23

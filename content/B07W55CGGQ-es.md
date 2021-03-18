@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W55CGGQ-es Nobleza - 100 x Empapadores Perros Alfombrilla higiénica...'
 sku: 'B07W55CGGQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','empapadores', ]
+tags: [ 'empapadores', ]
 actualPrice: 29.79 EUR
 currency: EUR
 price: 29.79

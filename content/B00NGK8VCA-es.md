@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NGK8VCA-es Sesderma Repaskin Fotoprotector Solar- 50 ML'
 sku: 'B00NGK8VCA-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','sesderma', ]
+tags: [ 'sesderma', ]
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

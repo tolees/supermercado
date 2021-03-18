@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GRZYDNH-es Max Factor LipFinity Velvet Matte Pintalabios Tono 005...'
 sku: 'B07GRZYDNH-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

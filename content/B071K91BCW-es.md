@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071K91BCW-es Flor Suavizante Regular Azul Profesional - 10000 ml'
 sku: 'B071K91BCW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','suavizante', ]
+tags: [ 'suavizante', ]
 actualPrice: 10.51 EUR
 currency: EUR
 price: 10.51

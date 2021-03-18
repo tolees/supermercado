@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07486JBPF-es Prozis 100% Real Whey Protein Suplemento Puro en Polvo con...'
 sku: 'B07486JBPF-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QW9FNZT-es 501 Brandy 30º Total: 1000 ml'
 sku: 'B07QW9FNZT-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','brandy', ]
+tags: [ 'brandy', ]
 actualPrice: None None
 currency: None
 price: None
@@ -29,7 +29,7 @@ Tienes [501 Brandy 30º  Total: 1000 ml](https://www.amazon.es/dp/B07QW9FNZT/?ta
 🔎:
 
 - Sabor excelente y agradable
-- Capacidad: 100CL
 - Graduacion: 30º
+- Capacidad: 100CL
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QW9FNZT/?tag=tolees-21)

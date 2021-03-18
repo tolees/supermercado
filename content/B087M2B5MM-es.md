@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087M2B5MM-es Bichiro Dispensador de jabón automático 450 ml...'
 sku: 'B087M2B5MM-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

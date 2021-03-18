@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JNX3SEA-es L Oreal Paris - Age Perfect crema hidratante de ojos...'
 sku: 'B00JNX3SEA-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','crema','hidratante', ]
+tags: [ 'crema','hidratante', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

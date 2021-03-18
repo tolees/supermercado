@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OISVG4O-es Pazo Das Bruxas Vino Blanco - 3 botellas de 75 cl Total:...'
 sku: 'B00OISVG4O-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','blanco','vino', ]
+tags: [ 'blanco','vino', ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

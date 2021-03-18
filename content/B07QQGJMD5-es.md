@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQGJMD5-es Mimosín Collection Parfum Suavizante Fleur D Or - 6...'
 sku: 'B07QQGJMD5-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','suavizante', ]
+tags: [ 'suavizante', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

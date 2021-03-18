@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B11FKCP-es Ladrón de Manzanas Cider Frutos Rojos - 4 Packs de 6...'
 sku: 'B07B11FKCP-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','ladrón','manzanas', ]
+tags: [ 'de','ladrón','manzanas', ]
 actualPrice: 15.28 EUR
 currency: EUR
 price: 15.28

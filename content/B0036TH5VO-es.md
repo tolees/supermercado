@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0036TH5VO-es Oral-B Advance Power - Cepillo de dientes eléctrico a...'
 sku: 'B0036TH5VO-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

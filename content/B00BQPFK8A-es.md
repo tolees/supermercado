@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BQPFK8A-es Rimmel London Lasting Finish by Kate Barra De Labios Tono...'
 sku: 'B00BQPFK8A-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','finish', ]
+tags: [ 'finish', ]
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

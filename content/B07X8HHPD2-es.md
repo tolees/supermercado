@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8HHPD2-es Aceite de oliva de autor | Virgen extra ecológico...'
 sku: 'B07X8HHPD2-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','aceite','arbequina','de','extra','oliva','virgen', ]
+tags: [ 'aceite','arbequina','de','extra','oliva','virgen', ]
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

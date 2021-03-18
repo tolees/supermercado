@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CP8BF26-es Chupa Chups Original Caramelo con Palo de Sabores a Fresa...'
 sku: 'B01CP8BF26-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chupa','chups', ]
+tags: [ 'chupa','chups', ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

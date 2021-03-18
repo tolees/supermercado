@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4NCNYJ-es Krups Dispensador de cerveza The Sub Compact VB641810 -...'
 sku: 'B07D4NCNYJ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

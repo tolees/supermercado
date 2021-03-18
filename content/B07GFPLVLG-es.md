@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GFPLVLG-es Concentrado de Proteína de Suero Evowhey Protein 2.0 de...'
 sku: 'B07GFPLVLG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gluten','sin','soja', ]
+tags: [ 'gluten','sin','soja', ]
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

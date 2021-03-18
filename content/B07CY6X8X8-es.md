@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CY6X8X8-es Scottex - Toallitas Íntimas - 16 packs de 25 toallitas -...'
 sku: 'B07CY6X8X8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','scottex', ]
+tags: [ 'scottex', ]
 actualPrice: 18.75 EUR
 currency: EUR
 price: 18.75

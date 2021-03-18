@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7RDE2G-es Casa Tarradellas Paté Finas Hierbas - 125 g'
 sku: 'B01K7RDE2G-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','paté', ]
+tags: [ 'paté', ]
 actualPrice: 0.86 EUR
 currency: EUR
 price: 0.86

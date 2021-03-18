@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQ9K7VQ-es E-MANIS Fundas para Sillas de Comedor 4 Piezas Sillas...'
 sku: 'B07NQ9K7VQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

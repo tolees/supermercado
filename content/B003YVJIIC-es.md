@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003YVJIIC-es NESCAFÉ Dolce Gusto Café Latte Macchiato Vainilla Pack de...'
 sku: 'B003YVJIIC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','cápsulas','de','dolce','gusto','nescafé', ]
+tags: [ 'café','cápsulas','de','dolce','gusto','nescafé', ]
 actualPrice: 13.7 EUR
 currency: EUR
 price: 13.7

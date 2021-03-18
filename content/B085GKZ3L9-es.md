@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085GKZ3L9-es Garrafa 5L gel hidroalcohólico higienizante PURLINE...'
 sku: 'B085GKZ3L9-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','hidroalcohólico', ]
+tags: [ 'hidroalcohólico', ]
 actualPrice: 42.95 EUR
 currency: EUR
 price: 42.95

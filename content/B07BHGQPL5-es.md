@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHGQPL5-es Padró & Co Vermouth en Caja de Madera - Paquete de 4 x 750...'
 sku: 'B07BHGQPL5-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','vermouth', ]
+tags: [ 'vermouth', ]
 actualPrice: 49.3 EUR
 currency: EUR
 price: 49.3

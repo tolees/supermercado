@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MDP38S1-es Knorr - Sopa Desh Rabo Buey 71 gr - [Pack de 10]'
 sku: 'B01MDP38S1-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','knorr', ]
+tags: [ 'knorr', ]
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

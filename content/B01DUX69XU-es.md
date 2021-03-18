@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DUX69XU-es ultima Cat - Junior 2-12 Pollo & Arroz 400 gr'
 sku: 'B01DUX69XU-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arroz', ]
+tags: [ 'arroz', ]
 actualPrice: None None
 currency: None
 price: None

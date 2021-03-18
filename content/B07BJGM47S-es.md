@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BJGM47S-es Dove Original Desodorante Antitranspirante en Aerosol 48h...'
 sku: 'B07BJGM47S-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','crema','desodorante','dove','hidratante', ]
+tags: [ 'crema','desodorante','dove','hidratante', ]
 actualPrice: 9.58 EUR
 currency: EUR
 price: 9.58

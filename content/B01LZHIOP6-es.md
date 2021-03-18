@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZHIOP6-es Wella Eimi Sculpt Force - 28 ml'
 sku: 'B01LZHIOP6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','wella', ]
+tags: [ 'wella', ]
 actualPrice: 2.52 EUR
 currency: EUR
 price: 2.52

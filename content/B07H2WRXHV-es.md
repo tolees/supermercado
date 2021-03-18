@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H2WRXHV-es Carbonell Aceite De Oliva Virgen Extra Monovarietal Regium...'
 sku: 'B07H2WRXHV-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','aceite','carbonell','de','extra','oliva','virgen', ]
+tags: [ 'aceite','carbonell','de','extra','oliva','virgen', ]
 actualPrice: 3.83 EUR
 currency: EUR
 price: 3.83

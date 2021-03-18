@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DXLDXS1-es Wella Invigo Brilliance Shampoo Coarse 500 ml'
 sku: 'B07DXLDXS1-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','wella', ]
+tags: [ 'wella', ]
 actualPrice: 8.16 EUR
 currency: EUR
 price: 8.16

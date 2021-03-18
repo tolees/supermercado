@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZG43FGR-es Fairy Profesional Lavavajillas Líquido Fast Clean - 10L...'
 sku: 'B07ZG43FGR-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','fairy', ]
+tags: [ 'fairy', ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

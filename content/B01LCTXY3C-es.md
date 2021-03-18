@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LCTXY3C-es Pantene Pro-V Prevención Caída Champú para el Cabello con...'
 sku: 'B01LCTXY3C-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú','pantene', ]
+tags: [ 'champú','pantene', ]
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

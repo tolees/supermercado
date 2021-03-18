@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CJF537K-es PURINA alimento PPVD Féina en St Ox Gastro Gallina 10 x 85 g'
 sku: 'B07CJF537K-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','purina', ]
+tags: [ 'purina', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

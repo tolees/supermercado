@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756GS3QJ-es Vileda - Fregona microfibras y algodón'
 sku: 'B0756GS3QJ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','fregona','vileda', ]
+tags: [ 'fregona','vileda', ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

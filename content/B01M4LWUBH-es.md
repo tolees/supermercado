@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M4LWUBH-es VERNEL Suavizante Concentrado Azul Botella 57 lavados...'
 sku: 'B01M4LWUBH-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','suavizante','vernel', ]
+tags: [ 'suavizante','vernel', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQCSSVM-es Wella Cuidado del pelo y del cuero cabelludo - 1 unidad'
 sku: 'B07BQCSSVM-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','wella', ]
+tags: [ 'wella', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

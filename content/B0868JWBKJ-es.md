@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868JWBKJ-es Dispensador Jabón Automático Dosificador Gel...'
 sku: 'B0868JWBKJ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','hidroalcohólico','jabón', ]
+tags: [ 'hidroalcohólico','jabón', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

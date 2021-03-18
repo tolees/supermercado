@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L37VHEC-es Artero Acondicionador y desenredante para Perros y Gatos...'
 sku: 'B00L37VHEC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

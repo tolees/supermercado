@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CCW7Z2W-es Marca Amazon - Presto! Suavizante concentrado azul 360...'
 sku: 'B07CCW7Z2W-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','presto!','suavizante', ]
+tags: [ 'presto!','suavizante', ]
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B18MDCG-es Ladrón de Manzanas Cider Manzana - 4 Packs de 6 Botellas x...'
 sku: 'B07B18MDCG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','ladrón','manzana','manzanas', ]
+tags: [ 'de','ladrón','manzana','manzanas', ]
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

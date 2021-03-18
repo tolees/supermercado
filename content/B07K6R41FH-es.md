@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6R41FH-es Keto Plus Actives AM 60 CAPS - Quemagrasas potente para...'
 sku: 'B07K6R41FH-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','manzana','sidra','vinagre', ]
+tags: [ 'de','manzana','sidra','vinagre', ]
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

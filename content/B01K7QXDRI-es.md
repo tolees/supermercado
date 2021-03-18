@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QXDRI-es Calvo Atun Claro en Aceite de Girasol - Pack de 3 x 80 g -...'
 sku: 'B01K7QXDRI-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','atun','claro', ]
+tags: [ 'atun','claro', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

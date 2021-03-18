@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019A7XR3A-es Rexona Desodorante Antitranspirante Shower Fresh 200ml'
 sku: 'B019A7XR3A-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorante','rexona', ]
+tags: [ 'desodorante','rexona', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

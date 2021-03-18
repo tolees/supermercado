@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D8BVKJ1-es Dove Loción Corporal de Aceite de Aguacate y Extracto de...'
 sku: 'B07D8BVKJ1-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','dove', ]
+tags: [ 'dove', ]
 actualPrice: 27.18 EUR
 currency: EUR
 price: 27.18

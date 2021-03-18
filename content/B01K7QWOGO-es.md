@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QWOGO-es Vernel Cielo Azul Suavizante Concentrado - 57 Dosis'
 sku: 'B01K7QWOGO-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','suavizante','vernel', ]
+tags: [ 'suavizante','vernel', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

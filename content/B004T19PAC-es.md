@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004T19PAC-es Bed Head by TIGI Champú Resurrection Urban Antidotes 750 ml'
 sku: 'B004T19PAC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

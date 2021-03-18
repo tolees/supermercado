@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084K2SCXM-es GARNIER Fructis Hair Food Champú de Papaya Reparadora para...'
 sku: 'B084K2SCXM-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú','garnier', ]
+tags: [ 'champú','garnier', ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

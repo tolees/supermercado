@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC116VF-es AXE Marine - Desodorante Bodyspray para hombre 48 horas de...'
 sku: 'B07NC116VF-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','axe','desodorante', ]
+tags: [ 'axe','desodorante', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

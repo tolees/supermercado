@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XABWX7Y-es Dove Gel de Ducha - 600 ml'
 sku: 'B00XABWX7Y-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','dove','ducha','gel', ]
+tags: [ 'de','dove','ducha','gel', ]
 actualPrice: 3.4 EUR
 currency: EUR
 price: 3.4

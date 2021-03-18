@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AQDP2DQ-es L Oréal Paris Color Riche Quad Pro S4 - Sombra de ojos'
 sku: 'B00AQDP2DQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

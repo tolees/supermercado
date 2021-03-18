@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFX765L-es Spontex Catch&Clean - Set de Escoba y Recogedor'
 sku: 'B07PFX765L-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','spontex', ]
+tags: [ 'spontex', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

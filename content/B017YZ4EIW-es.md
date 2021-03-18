@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017YZ4EIW-es Tassimo Hot Choco Bundle Cápsulas - Cadbury Oreo Milka...'
 sku: 'B017YZ4EIW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','milka', ]
+tags: [ 'milka', ]
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HN8P94D-es La Toja - Gel Crema de Ducha Hidrotermal - Piel suave y...'
 sku: 'B07HN8P94D-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','la','toja', ]
+tags: [ 'la','toja', ]
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

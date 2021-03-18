@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085YG9PP3-es HR-International - 2 rollos de paño desechable para...'
 sku: 'B085YG9PP3-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cocina','de','papel', ]
+tags: [ 'cocina','de','papel', ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SD2GDN-es Parejas Juego de 2 Tazas de Desayuno Café o Te - Accesorio...'
 sku: 'B078SD2GDN-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

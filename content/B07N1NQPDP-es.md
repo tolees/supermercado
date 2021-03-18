@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1NQPDP-es AH Kalkaire - Carbón activado de bambú Pasta de dientes...'
 sku: 'B07N1NQPDP-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','dientes','pasta', ]
+tags: [ 'de','dientes','pasta', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

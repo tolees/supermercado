@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084HKVXC6-es SUPLEMENTO MENOPAUSIA - MENODEN + VITAMINA B6 Y ZINC...'
 sku: 'B084HKVXC6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','soja', ]
+tags: [ 'soja', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

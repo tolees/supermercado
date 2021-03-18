@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQ39VLL-es Xiaomi – 6970244529329 – Mi cepillo de dientes...'
 sku: 'B07CQ39VLL-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

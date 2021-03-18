@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QS56PYT-es NIVEA SUN Sensitive Protección Inmediata Antialergias...'
 sku: 'B07QS56PYT-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

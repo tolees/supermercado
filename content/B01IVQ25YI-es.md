@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IVQ25YI-es Joe Weider Victory Multivit Up 80 gummies Sabor naranja y...'
 sku: 'B01IVQ25YI-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gluten','sin', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

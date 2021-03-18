@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OCM1LSM-es Ausonia - 81003 TIJERAS DE PODA PROFESIONALES PARA VID DE...'
 sku: 'B00OCM1LSM-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','ausonia', ]
+tags: [ 'ausonia', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

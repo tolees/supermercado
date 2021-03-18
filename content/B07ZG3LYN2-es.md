@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZG3LYN2-es Axe Necesser Dark Temptation Bodyspray 150 ml + Gel de...'
 sku: 'B07ZG3LYN2-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','axe','de','ducha','gel', ]
+tags: [ 'axe','de','ducha','gel', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

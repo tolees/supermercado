@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IUW3DEO-es Ruffles - Patatas Fritas con Sabor a Jamón y Queso - 170 gr'
 sku: 'B01IUW3DEO-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','fritas','jamón','patatas','queso','ruffles', ]
+tags: [ 'fritas','jamón','patatas','queso','ruffles', ]
 actualPrice: 1.23 EUR
 currency: EUR
 price: 1.23

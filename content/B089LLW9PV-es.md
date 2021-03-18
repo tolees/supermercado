@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089LLW9PV-es Tencoz Spray Mop Mopa con Pulverizador Fregona con...'
 sku: 'B089LLW9PV-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','fregona', ]
+tags: [ 'fregona', ]
 actualPrice: 16.11 EUR
 currency: EUR
 price: 16.11

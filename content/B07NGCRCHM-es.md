@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGCRCHM-es Marca Amazon - Solimo Gel de ducha para hombre con iones...'
 sku: 'B07NGCRCHM-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','ducha','gel','solimo', ]
+tags: [ 'de','ducha','gel','solimo', ]
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

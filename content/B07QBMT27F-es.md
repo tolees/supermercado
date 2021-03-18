@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QBMT27F-es Fregona con Pulverizador 4 mopas lavables Mopa Spray...'
 sku: 'B07QBMT27F-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','fregona', ]
+tags: [ 'fregona', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

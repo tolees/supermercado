@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GKVJ237-es China Yunnan Puer té Lotus Puerh Tuocha Pequeña hoja de...'
 sku: 'B07GKVJ237-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','conserva', ]
+tags: [ 'conserva', ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QK5RLGT-es L Oréal Paris - Age Perfect Nutrición Intensa Sérum...'
 sku: 'B07QK5RLGT-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

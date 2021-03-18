@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BH8FX59-es Knorr Pot Plato Preparado de Pasta Boloñesa - 68 gr'
 sku: 'B07BH8FX59-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','knorr','plato','preparado', ]
+tags: [ 'knorr','plato','preparado', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

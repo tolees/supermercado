@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JF2NQXV-es Schwarzkopf Champú - 2 de 1 unidad'
 sku: 'B07JF2NQXV-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú','schwarzkopf', ]
+tags: [ 'champú','schwarzkopf', ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

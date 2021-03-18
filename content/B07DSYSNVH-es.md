@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DSYSNVH-es L Oréal París - Infallible 24H Fresh Wear Base de...'
 sku: 'B07DSYSNVH-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

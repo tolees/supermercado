@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071W56BJR-es Premium Whisky Stones Gift Set de Amerigo- ¿Aguar tu...'
 sku: 'B071W56BJR-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

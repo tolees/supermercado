@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L56VQXS-es Verdeo Verdejo Vino Blanco. DO Rueda - 750ml'
 sku: 'B00L56VQXS-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','blanco','vino', ]
+tags: [ 'blanco','vino', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

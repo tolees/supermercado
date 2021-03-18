@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NXW2TSW-es La Parroquia de Veracruz - Bolsa Café Molido Tradicional...'
 sku: 'B07NXW2TSW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','chocolate', ]
+tags: [ 'café','chocolate', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

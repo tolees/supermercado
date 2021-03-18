@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088RKFM8H-es Dispensador Automático de Jabón o hidroalcoholico Sensor...'
 sku: 'B088RKFM8H-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

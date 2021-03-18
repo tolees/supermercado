@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY0ERQ7-es Omino Bianco Detergente Liquido Cuero de Marsella'
 sku: 'B01LY0ERQ7-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

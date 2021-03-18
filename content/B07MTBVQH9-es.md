@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTBVQH9-es iMucci - Juego de Accesorios de baño con dispensador de...'
 sku: 'B07MTBVQH9-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes','jabón', ]
+tags: [ 'cepillo','de','dientes','jabón', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

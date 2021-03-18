@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8LHC23-es Gliss - Champú Long&Sublime - 400ml - Schwarzkopf : pack...'
 sku: 'B07W8LHC23-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú','schwarzkopf', ]
+tags: [ 'champú','schwarzkopf', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

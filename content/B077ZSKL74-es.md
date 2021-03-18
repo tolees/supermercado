@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077ZSKL74-es Alargador de antena N Macho a SMA macho Enchufe 5 m RG58...'
 sku: 'B077ZSKL74-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','jamón', ]
+tags: [ 'jamón', ]
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

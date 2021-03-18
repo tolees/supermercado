@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AEMSUB0-es Bebida espirituosa elaborada a base de Brandy Veterano 30º...'
 sku: 'B00AEMSUB0-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','bebida','brandy','espirituosa', ]
+tags: [ 'bebida','brandy','espirituosa', ]
 actualPrice: 8.19 EUR
 currency: EUR
 price: 8.19

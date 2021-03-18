@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M63UUPK-es Air Wick Freshmatic Max Recambio Ambientador Oasis...'
 sku: 'B01M63UUPK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: 7.55 EUR
 currency: EUR
 price: 7.55

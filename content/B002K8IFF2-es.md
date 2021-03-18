@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002K8IFF2-es Carmencita Caldo Deshidratado para Fideuá - 15 sobres'
 sku: 'B002K8IFF2-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','carmencita', ]
+tags: [ 'carmencita', ]
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

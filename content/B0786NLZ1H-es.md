@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0786NLZ1H-es Aceite de hígado de bacalao – 2000 mg de omega 3 con...'
 sku: 'B0786NLZ1H-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','bacalao', ]
+tags: [ 'bacalao', ]
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCL3P8S-es Air Wick - Vela de aceites esenciales edición limitada...'
 sku: 'B07ZCL3P8S-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

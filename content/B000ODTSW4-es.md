@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ODTSW4-es Nescaf Dolce Gusto - Lungo - 3 Paquetes de 16 Cpsulas -...'
 sku: 'B000ODTSW4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','dolce','gusto', ]
+tags: [ 'dolce','gusto', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

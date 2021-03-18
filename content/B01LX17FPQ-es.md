@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX17FPQ-es Gourmet Frutos Secos Pipas Mondadas Fritas con Sal - 125 g'
 sku: 'B01LX17FPQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','frutos','pipas','secos', ]
+tags: [ 'frutos','pipas','secos', ]
 actualPrice: None None
 currency: None
 price: None

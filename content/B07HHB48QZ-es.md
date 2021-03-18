@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HHB48QZ-es Cúrcuma 6000 mg Extracto al 95% con Pimienta Negra | 120...'
 sku: 'B07HHB48QZ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cúrcuma', ]
+tags: [ 'cúrcuma', ]
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

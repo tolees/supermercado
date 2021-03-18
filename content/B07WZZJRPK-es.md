@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZZJRPK-es Ariete 615 - Máquina para hacer queso y yogur 2 litros 6...'
 sku: 'B07WZZJRPK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','queso','yogur', ]
+tags: [ 'queso','yogur', ]
 actualPrice: 65.23 EUR
 currency: EUR
 price: 65.23

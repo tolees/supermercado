@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA0Z07A-es Milka - Tableta De Chocolate con Galleta Lu - 87 g'
 sku: 'B00XA0Z07A-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate','milka', ]
+tags: [ 'chocolate','milka', ]
 actualPrice: 0.86 EUR
 currency: EUR
 price: 0.86

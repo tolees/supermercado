@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKW187C-es Heallily lubricante anal lubricante personal a base de...'
 sku: 'B07ZKW187C-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','melocotón', ]
+tags: [ 'melocotón', ]
 actualPrice: 5.81 EUR
 currency: EUR
 price: 5.81

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OCHAS9U-es Sónica cepillo de dientes portátil con pilas 2 cepillos de...'
 sku: 'B00OCHAS9U-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 21.87 EUR
 currency: EUR
 price: 21.87

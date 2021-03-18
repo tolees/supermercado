@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDJZGK9-es NICKS Favourite Mix Barritas de chocolate surtidas sin...'
 sku: 'B07DDJZGK9-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','azúcar','chocolate','gluten','sin', ]
+tags: [ 'azúcar','chocolate','gluten','sin', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

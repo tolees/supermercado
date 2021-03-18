@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083BLKKQ6-es AGPTEK 18Pcs Discos Desmaquillantes Reutilizables con 4...'
 sku: 'B083BLKKQ6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desmaquillantes','discos', ]
+tags: [ 'desmaquillantes','discos', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

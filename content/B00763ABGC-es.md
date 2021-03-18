@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00763ABGC-es Rexona Desodorante Antitranspirante Crema Confidence 45Ml'
 sku: 'B00763ABGC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorante','rexona', ]
+tags: [ 'desodorante','rexona', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LBBP5ZQ-es Ribeira Proteina Natural - Pechuga de Pavo al natural - 1...'
 sku: 'B01LBBP5ZQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','pavo', ]
+tags: [ 'pavo', ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

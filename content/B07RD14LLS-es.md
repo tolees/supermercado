@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RD14LLS-es Rimmel London Lasting Finish Extreme Barra de Labios Tono 720'
 sku: 'B07RD14LLS-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','finish', ]
+tags: [ 'finish', ]
 actualPrice: 4.43 EUR
 currency: EUR
 price: 4.43

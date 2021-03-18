@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8LZ27C-es AXE gel de ducha gold bote 400 ml'
 sku: 'B07S8LZ27C-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','axe','de','ducha','gel', ]
+tags: [ 'axe','de','ducha','gel', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

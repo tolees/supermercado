@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNZHBL9-es Cúrcuma Orgánica 1490mg con BioPerine®. Suplemento Nº 1 en...'
 sku: 'B07CNZHBL9-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cúrcuma', ]
+tags: [ 'cúrcuma', ]
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HG3YXR8-es Tahe Fitoxil Forte Plus Tratamiento Anticaída del Cabello...'
 sku: 'B07HG3YXR8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','soja', ]
+tags: [ 'soja', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

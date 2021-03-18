@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAEM01U-es Air Wick Vela Duplo Vainilla y Ébano de Madagascar'
 sku: 'B00XAEM01U-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: 3.73 EUR
 currency: EUR
 price: 3.73

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3S5WKQ-es Diadermine - Tiras Purificantes pieles normales/mixtas- 2...'
 sku: 'B07N3S5WKQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','diadermine', ]
+tags: [ 'diadermine', ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

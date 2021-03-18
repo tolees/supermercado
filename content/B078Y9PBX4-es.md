@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078Y9PBX4-es CLA - Ácido Linoleico Conjugado | 1000mg x 200 perlas |...'
 sku: 'B078Y9PBX4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gluten','sin', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

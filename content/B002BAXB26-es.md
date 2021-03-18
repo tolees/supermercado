@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002BAXB26-es Weider Thermo Caps- 120 Capsulas. Disminuye el apetito....'
 sku: 'B002BAXB26-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cúrcuma', ]
+tags: [ 'cúrcuma', ]
 actualPrice: 14.32 EUR
 currency: EUR
 price: 14.32

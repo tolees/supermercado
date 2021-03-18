@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GX8UG7A-es Clarifex Gel y jabón - 50 ml'
 sku: 'B00GX8UG7A-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 23.06 EUR
 currency: EUR
 price: 23.06

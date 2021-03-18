@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRSJ7JD-es Tio Pepe Vermouth La Copa Reserva - 3 Botellas x 750 ml -...'
 sku: 'B07PRSJ7JD-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','vermouth', ]
+tags: [ 'vermouth', ]
 actualPrice: 40.04 EUR
 currency: EUR
 price: 40.04

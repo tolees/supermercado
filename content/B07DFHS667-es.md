@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFHS667-es Kalokelvin Fregona Giratoria Juego de Fregona Cubo con...'
 sku: 'B07DFHS667-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','fregona', ]
+tags: [ 'fregona', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

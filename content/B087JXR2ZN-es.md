@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087JXR2ZN-es Mentos Mix Frutos Rojos Caramelo Masticable con Zumo de...'
 sku: 'B087JXR2ZN-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','mentos','zumo', ]
+tags: [ 'de','mentos','zumo', ]
 actualPrice: 10.3 EUR
 currency: EUR
 price: 10.3

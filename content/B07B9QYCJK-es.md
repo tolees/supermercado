@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9QYCJK-es True Instinct No Grain Mini Paté de Buey para Perros 150...'
 sku: 'B07B9QYCJK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','paté', ]
+tags: [ 'paté', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

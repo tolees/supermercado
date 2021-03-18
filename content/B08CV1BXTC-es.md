@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CV1BXTC-es Gaoyong Velas Aromaticas 4 Piezas Velas Perfumadas de...'
 sku: 'B08CV1BXTC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','soja', ]
+tags: [ 'soja', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

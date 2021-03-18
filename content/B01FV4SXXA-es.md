@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FV4SXXA-es Anne Moller Pour Homme Control Triple Action Desodorante -...'
 sku: 'B01FV4SXXA-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

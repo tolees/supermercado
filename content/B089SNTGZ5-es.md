@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SNTGZ5-es VEEAPE Dispensador de jabón automático 350ml Sensor...'
 sku: 'B089SNTGZ5-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

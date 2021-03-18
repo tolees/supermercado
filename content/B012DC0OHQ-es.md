@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012DC0OHQ-es Hibiki Suntory Whisky Japanese Harmony 43% - 700 ml'
 sku: 'B012DC0OHQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 94.75 EUR
 currency: EUR
 price: 94.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MPYCBM-es textil-home Puf - Pera moldeable XL Puff - 80x80x130 cm-...'
 sku: 'B082MPYCBM-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','pera', ]
+tags: [ 'pera', ]
 actualPrice: 61.9 EUR
 currency: EUR
 price: 61.9

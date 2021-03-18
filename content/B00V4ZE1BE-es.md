@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V4ZE1BE-es Neutrogena Bálsamo Corporal Reparación Intensa - 2...'
 sku: 'B00V4ZE1BE-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','neutrogena', ]
+tags: [ 'neutrogena', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

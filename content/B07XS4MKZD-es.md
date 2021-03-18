@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XS4MKZD-es Rialto Picatostes Picagrill Queso Y Sésamo 75 g Pack de 24'
 sku: 'B07XS4MKZD-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','queso','sésamo', ]
+tags: [ 'queso','sésamo', ]
 actualPrice: 22.6 EUR
 currency: EUR
 price: 22.6

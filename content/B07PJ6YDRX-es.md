@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJ6YDRX-es Scottex Sensitive Aloe Vera Papel Higiénico Húmedo - 12...'
 sku: 'B07PJ6YDRX-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','scottex', ]
+tags: [ 'scottex', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

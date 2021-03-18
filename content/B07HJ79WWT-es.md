@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJ79WWT-es Home Treats - Juego de 3 tablas de cortar de bambú | 3...'
 sku: 'B07HJ79WWT-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','queso', ]
+tags: [ 'queso', ]
 actualPrice: None None
 currency: None
 price: None

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EQ7BGIS-es Klorane Shampoo with Nettle Mujeres No profesional Champú...'
 sku: 'B00EQ7BGIS-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

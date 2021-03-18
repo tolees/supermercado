@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003HUSM8M-es Tigi 57432 - Champú 300 ml'
 sku: 'B003HUSM8M-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

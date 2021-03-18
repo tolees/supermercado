@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0865X1PMV-es Soporte para cepillo de dientes soporte para cepillo de...'
 sku: 'B0865X1PMV-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes','pasta', ]
+tags: [ 'cepillo','de','dientes','pasta', ]
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CBFOOA8-es 9 Cervezas de las especialidades de mundo a las mejores...'
 sku: 'B01CBFOOA8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

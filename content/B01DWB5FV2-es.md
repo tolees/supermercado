@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DWB5FV2-es Ausonia Discreet Maxi Noche Compresas Para Pérdidas De...'
 sku: 'B01DWB5FV2-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','ausonia', ]
+tags: [ 'ausonia', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

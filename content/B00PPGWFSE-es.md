@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PPGWFSE-es Mavala Gel Finish Top Coat Tratamiento de Manicura con...'
 sku: 'B00PPGWFSE-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','finish', ]
+tags: [ 'finish', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

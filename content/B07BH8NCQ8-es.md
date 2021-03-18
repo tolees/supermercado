@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BH8NCQ8-es Maizena Shaker Tortitas - 215 gr'
 sku: 'B07BH8NCQ8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','maizena', ]
+tags: [ 'maizena', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7SETU6-es Pantene Pro-V Perfect Volume Espuma Ligera Nivel de...'
 sku: 'B01K7SETU6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','pantene', ]
+tags: [ 'pantene', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

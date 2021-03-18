@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QNLV6B-es Hackett London Tweed Trim Crew suéter Beige Oatmeal 8hw XL...'
 sku: 'B079QNLV6B-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oatmeal', ]
+tags: [ 'oatmeal', ]
 actualPrice: 77.93 EUR
 currency: EUR
 price: 77.93

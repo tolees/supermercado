@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J9WQS9Q-es Philips Sonicare Diamond Clean HX9312/04 - Cepillo de...'
 sku: 'B01J9WQS9Q-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 153.96 EUR
 currency: EUR
 price: 153.96

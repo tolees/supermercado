@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HD3GNCU-es Pósteres Muestra Lata Arte de Cartel Café Placa Vintage...'
 sku: 'B01HD3GNCU-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

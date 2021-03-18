@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OKSKP4Y-es Wella Elements Renewing Mascarilla - 500 ml'
 sku: 'B00OKSKP4Y-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','wella', ]
+tags: [ 'wella', ]
 actualPrice: 22.82 EUR
 currency: EUR
 price: 22.82

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BN7XB0K-es NIVEA MEN Active Energy Bálsamo 2en1 Revitalizante 1 x 100...'
 sku: 'B00BN7XB0K-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65

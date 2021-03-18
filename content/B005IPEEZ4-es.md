@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005IPEEZ4-es Dr. Schar - Pan payés de trigo sarraceno SIN GLUTEN - 240 gr'
 sku: 'B005IPEEZ4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gluten','pan','payés','sin','trigo', ]
+tags: [ 'gluten','pan','payés','sin','trigo', ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

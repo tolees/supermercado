@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YPDTLX-es Ultrawhite Miele Detergente Lavadora para blancos Cod...'
 sku: 'B071YPDTLX-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','detergente', ]
+tags: [ 'detergente', ]
 actualPrice: 19 EUR
 currency: EUR
 price: 19

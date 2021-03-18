@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B96JF2H-es Purina Gourmet Gold Doble Placer comida para gatos Surtido...'
 sku: 'B07B96JF2H-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','purina', ]
+tags: [ 'purina', ]
 actualPrice: 41.28 EUR
 currency: EUR
 price: 41.28

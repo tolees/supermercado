@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MM4F33N-es Aussie Acondicionador de pelo - 6 de 75 ml. Total: 450 ml.'
 sku: 'B07MM4F33N-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 29.94 EUR
 currency: EUR
 price: 29.94

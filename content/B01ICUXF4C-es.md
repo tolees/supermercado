@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ICUXF4C-es Elifexir Esenciall | Piel Canela | 40 Cápsulas para un...'
 sku: 'B01ICUXF4C-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','canela', ]
+tags: [ 'canela', ]
 actualPrice: 14.56 EUR
 currency: EUR
 price: 14.56

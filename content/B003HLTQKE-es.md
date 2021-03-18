@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003HLTQKE-es Tabac Tabac Luxury Soap Box Jabón - 150 gr'
 sku: 'B003HLTQKE-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

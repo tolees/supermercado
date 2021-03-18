@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LD0BLDA-es Invero® - Juego de 6 tazas altas transparentes de 240 ml...'
 sku: 'B01LD0BLDA-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','chocolate', ]
+tags: [ 'café','chocolate', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

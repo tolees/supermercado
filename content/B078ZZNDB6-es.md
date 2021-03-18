@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZZNDB6-es TRESemmé Champú Repara y Fortalece - Paquete de 3 x 700 ml...'
 sku: 'B078ZZNDB6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú','tresemmé', ]
+tags: [ 'champú','tresemmé', ]
 actualPrice: 14.73 EUR
 currency: EUR
 price: 14.73

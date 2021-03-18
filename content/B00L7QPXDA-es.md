@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L7QPXDA-es Neutrogena - Cuerpo Hidratación Bálsamo Hidratación...'
 sku: 'B00L7QPXDA-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','neutrogena', ]
+tags: [ 'neutrogena', ]
 actualPrice: 11.35 EUR
 currency: EUR
 price: 11.35

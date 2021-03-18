@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EC9P9PG-es Max Factor Pan Stick Base de maquillaje Tono 96 Bisque...'
 sku: 'B00EC9P9PG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

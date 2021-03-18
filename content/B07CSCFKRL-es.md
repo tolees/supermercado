@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CSCFKRL-es Chytaii Delantal cocina Delantal vaquero para mujer y...'
 sku: 'B07CSCFKRL-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 3.11 EUR
 currency: EUR
 price: 3.11

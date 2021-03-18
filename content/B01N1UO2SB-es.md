@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1UO2SB-es Knorr Sopa China de Sichuan - 69 g'
 sku: 'B01N1UO2SB-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','knorr', ]
+tags: [ 'knorr', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

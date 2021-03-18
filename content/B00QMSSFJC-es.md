@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QMSSFJC-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en...'
 sku: 'B00QMSSFJC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

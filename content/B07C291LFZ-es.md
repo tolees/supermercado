@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C291LFZ-es 900 g Miel de bosque flores silvestres y hierbas...'
 sku: 'B07C291LFZ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

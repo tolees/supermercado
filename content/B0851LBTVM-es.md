@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0851LBTVM-es Dr Tree Uso Frecuente 2 en 1 - Champú Sólido +...'
 sku: 'B0851LBTVM-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','acondicionador','champú', ]
+tags: [ 'acondicionador','champú', ]
 actualPrice: 8.72 EUR
 currency: EUR
 price: 8.72

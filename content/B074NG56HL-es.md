@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074NG56HL-es Elizabeth Arden Flawless Finish Everyday Perfection Base...'
 sku: 'B074NG56HL-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arden','elizabeth','finish', ]
+tags: [ 'arden','elizabeth','finish', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

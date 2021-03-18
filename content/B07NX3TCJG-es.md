@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NX3TCJG-es Revlon Eksperience Densi Pro Spray 190 Ml 1 Unidad 190 g'
 sku: 'B07NX3TCJG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 15.54 EUR
 currency: EUR
 price: 15.54

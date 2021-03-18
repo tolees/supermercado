@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LTI10YG-es Exclusivo Nescafé Dolce Gusto Café con Leche Pack de 3 x...'
 sku: 'B01LTI10YG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','cápsulas','de','dolce','gusto','nescafé', ]
+tags: [ 'café','cápsulas','de','dolce','gusto','nescafé', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

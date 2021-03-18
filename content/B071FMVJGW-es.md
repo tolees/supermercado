@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071FMVJGW-es Novex Aceite de Oliva Mascarilla Capilar - 400g'
 sku: 'B071FMVJGW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','aceite','capilar','de','mascarilla','oliva', ]
+tags: [ 'aceite','capilar','de','mascarilla','oliva', ]
 actualPrice: 3.04 EUR
 currency: EUR
 price: 3.04

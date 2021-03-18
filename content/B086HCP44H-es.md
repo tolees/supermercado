@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086HCP44H-es Ausonia Discreet Compresas Para Pérdidas De Orina Mini...'
 sku: 'B086HCP44H-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','ausonia', ]
+tags: [ 'ausonia', ]
 actualPrice: 18.4 EUR
 currency: EUR
 price: 18.4

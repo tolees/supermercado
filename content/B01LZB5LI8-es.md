@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZB5LI8-es Ligeresa Salsa Fina - 225 ml'
 sku: 'B01LZB5LI8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','ligeresa', ]
+tags: [ 'ligeresa', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

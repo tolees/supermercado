@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAIT3VG-es Gotas Frescas Colonia Concentrada - Instituto Español 80...'
 sku: 'B00XAIT3VG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','español','instituto', ]
+tags: [ 'español','instituto', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

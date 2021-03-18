@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JBKVS36-es Suplemento Para Articulaciones Vegavero® | 100% VEGETAL |...'
 sku: 'B07JBKVS36-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cebolla','cúrcuma','jengibre', ]
+tags: [ 'cebolla','cúrcuma','jengibre', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

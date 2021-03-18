@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAP0P3E-es Haribo Delfines Azules 1kg'
 sku: 'B00XAP0P3E-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','haribo', ]
+tags: [ 'haribo', ]
 actualPrice: 4.72 EUR
 currency: EUR
 price: 4.72

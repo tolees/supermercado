@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA06XQ2-es Scottex Sensitive Papel Higiénico 6 Rollos'
 sku: 'B00XA06XQ2-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','scottex', ]
+tags: [ 'scottex', ]
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

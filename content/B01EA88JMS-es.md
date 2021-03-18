@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EA88JMS-es Levadura Nutricional 125 Gr de Salud Viva'
 sku: 'B01EA88JMS-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','levadura', ]
+tags: [ 'levadura', ]
 actualPrice: 8.14 EUR
 currency: EUR
 price: 8.14

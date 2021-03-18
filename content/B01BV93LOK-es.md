@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BV93LOK-es Diadermine Lift + Tagescreme Súper relleno Paquete 1er 1 x...'
 sku: 'B01BV93LOK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','diadermine', ]
+tags: [ 'diadermine', ]
 actualPrice: 9.68 EUR
 currency: EUR
 price: 9.68

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0053A0MSW-es Anti Manchas Cara Anti Manchas Piel Crema blanqueadora...'
 sku: 'B0053A0MSW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','crema','hidratante', ]
+tags: [ 'crema','hidratante', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

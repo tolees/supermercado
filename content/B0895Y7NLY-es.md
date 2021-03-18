@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895Y7NLY-es GREAT ART set de 2 posters XXL – Nueva York Graffiti -...'
 sku: 'B0895Y7NLY-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','manzana', ]
+tags: [ 'manzana', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

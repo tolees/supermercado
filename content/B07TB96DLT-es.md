@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TB96DLT-es President Leche Desnatada 1 5L x 6 = 9L'
 sku: 'B07TB96DLT-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','president', ]
+tags: [ 'president', ]
 actualPrice: None None
 currency: None
 price: None

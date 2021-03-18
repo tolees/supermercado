@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5JP53C-es Revlon 7244684000 Style Masters 2 Modular Laca de Fijación...'
 sku: 'B07D5JP53C-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5JPN12-es Revlon Professional Style Masters Fanaticurls Activador de...'
 sku: 'B07D5JPN12-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

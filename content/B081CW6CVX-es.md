@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CW6CVX-es Botanical Origin Suavizante para Ropa Ecológico Apto para...'
 sku: 'B081CW6CVX-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','suavizante', ]
+tags: [ 'suavizante', ]
 actualPrice: 20.6 EUR
 currency: EUR
 price: 20.6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y29B1LL-es Puleva Leche Desnatada - 6 x 1 L'
 sku: 'B06Y29B1LL-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','puleva', ]
+tags: [ 'puleva', ]
 actualPrice: None None
 currency: None
 price: None

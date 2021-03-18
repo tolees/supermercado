@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RMIKFVW-es Gillette Fusion5 ProGlide Power - Recambio de Maquinilla...'
 sku: 'B00RMIKFVW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

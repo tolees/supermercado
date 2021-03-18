@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRJ2JNP-es Gliss - Acondicionador Express Fiber Therapy - Sin...'
 sku: 'B07NRJ2JNP-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','acondicionador','schwarzkopf', ]
+tags: [ 'acondicionador','schwarzkopf', ]
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

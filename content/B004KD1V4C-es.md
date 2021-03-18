@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004KD1V4C-es Macadamia 54999 - Cuidado capilar 1000 ml'
 sku: 'B004KD1V4C-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','capilar','cuidado', ]
+tags: [ 'capilar','cuidado', ]
 actualPrice: 16.73 EUR
 currency: EUR
 price: 16.73

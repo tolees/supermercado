@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2QDWDC-es L Oréal Paris Total Cover Base Maquillaje Cobertura Total...'
 sku: 'B01N2QDWDC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 9.07 EUR
 currency: EUR
 price: 9.07

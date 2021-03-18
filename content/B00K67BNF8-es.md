@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K67BNF8-es L oréal paris - Volume million lashes extra black máscara...'
 sku: 'B00K67BNF8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 10.14 EUR
 currency: EUR
 price: 10.14

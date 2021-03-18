@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HOD3W8C-es Champú de manteca de karité de Shea Moisture 379 ml .'
 sku: 'B01HOD3W8C-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

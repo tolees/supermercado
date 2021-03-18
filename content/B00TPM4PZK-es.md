@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TPM4PZK-es L Oréal Paris Excellence Coloración Excellence Crème...'
 sku: 'B00TPM4PZK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

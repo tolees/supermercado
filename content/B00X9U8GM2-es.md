@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9U8GM2-es Garnier Delial UV Sport Bruma Protectora SPF50 - 200 ml'
 sku: 'B00X9U8GM2-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 8.78 EUR
 currency: EUR
 price: 8.78

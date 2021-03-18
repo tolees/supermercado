@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9YVT8B-es RED BULL Coconut Edition Bebida energética sabor coco y...'
 sku: 'B07T9YVT8B-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','bebida','bull','energética','red', ]
+tags: [ 'bebida','bull','energética','red', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

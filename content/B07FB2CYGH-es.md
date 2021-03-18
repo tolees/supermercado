@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FB2CYGH-es Eucerin Filtro solar corporal - 200 ml'
 sku: 'B07FB2CYGH-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','eucerin', ]
+tags: [ 'eucerin', ]
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

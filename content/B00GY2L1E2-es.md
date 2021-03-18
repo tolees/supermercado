@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GY2L1E2-es Just For Men Tinte Colorante en champu para el cabello del...'
 sku: 'B00GY2L1E2-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champu', ]
+tags: [ 'champu', ]
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004FY1M3G-es Max Factor Xpert Eyeliner waterproof Lápiz de Ojos Tono 01...'
 sku: 'B004FY1M3G-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65

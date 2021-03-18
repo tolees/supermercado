@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDKHQG5-es Garnier Fructis Nutri Repair 3 Mascarilla Fortificante que...'
 sku: 'B06XDKHQG5-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCRPFJ4-es Carbón Activado Premium – Polvo 100 % orgánico – Sin...'
 sku: 'B01NCRPFJ4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','dientes','pasta', ]
+tags: [ 'de','dientes','pasta', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0014YDJ1S-es Wilkinson Sword Extra 2 Sensitive - Bolsa 20 Maquinillas...'
 sku: 'B0014YDJ1S-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','sword','wilkinson', ]
+tags: [ 'sword','wilkinson', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

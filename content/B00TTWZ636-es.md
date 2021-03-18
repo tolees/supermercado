@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TTWZ636-es LACTACYD Íntimo Toallitas - Higiene Íntima - Ideal para...'
 sku: 'B00TTWZ636-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','lactacyd', ]
+tags: [ 'lactacyd', ]
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

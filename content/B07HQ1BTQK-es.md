@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HQ1BTQK-es Neutrogena Radiance Boost Mascarilla Paquete de 4'
 sku: 'B07HQ1BTQK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','neutrogena', ]
+tags: [ 'neutrogena', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

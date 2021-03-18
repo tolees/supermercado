@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BN1H7GS-es Indeca - Bolsa Coca-Cola PS4'
 sku: 'B07BN1H7GS-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','coca-cola', ]
+tags: [ 'coca-cola', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

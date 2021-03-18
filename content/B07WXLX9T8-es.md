@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WXLX9T8-es Marca Amazon - Happy Belly Espresso Decaffeinato- Café UTZ...'
 sku: 'B07WXLX9T8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','belly','café','descafeinado','happy', ]
+tags: [ 'belly','café','descafeinado','happy', ]
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

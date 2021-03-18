@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IURS3PS-es Lindt Dulces Deseos - Bombones de Chocolate 600 gr'
 sku: 'B01IURS3PS-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate','lindt', ]
+tags: [ 'chocolate','lindt', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

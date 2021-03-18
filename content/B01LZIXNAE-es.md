@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZIXNAE-es Dr. Oetker Molde Desmontable Back-Harmonie Acero marrón 28 cm'
 sku: 'B01LZIXNAE-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','dr.','oetker', ]
+tags: [ 'dr.','oetker', ]
 actualPrice: 39.51 EUR
 currency: EUR
 price: 39.51

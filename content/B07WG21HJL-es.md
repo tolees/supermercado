@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WG21HJL-es Yinuo Mirror Set de Regalo de Velas Candelitas Perfumadas...'
 sku: 'B07WG21HJL-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','soja', ]
+tags: [ 'soja', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW72J7G-es Vernel Suavizante Concentrado Romance – Pack de 3 Total 3.6 L'
 sku: 'B07NW72J7G-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','suavizante','vernel', ]
+tags: [ 'suavizante','vernel', ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

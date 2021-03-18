@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBH5F2C-es Maybelline New York - The Falsies Push Up Angel Máscara de...'
 sku: 'B01NBH5F2C-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

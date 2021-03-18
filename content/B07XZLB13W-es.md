@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZLB13W-es FIND - Mascarilla hidrogel sin goteo antienvejecimiento...'
 sku: 'B07XZLB13W-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','zumo', ]
+tags: [ 'de','zumo', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

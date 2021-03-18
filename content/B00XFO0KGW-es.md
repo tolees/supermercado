@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XFO0KGW-es L Oréal Paris 24H Mate Base Maquillaje Matificante Larga...'
 sku: 'B00XFO0KGW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 6.96 EUR
 currency: EUR
 price: 6.96

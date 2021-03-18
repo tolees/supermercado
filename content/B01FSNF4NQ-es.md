@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FSNF4NQ-es Elizabeth Arden Sunflowers Crema Corporal - 500 gr'
 sku: 'B01FSNF4NQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

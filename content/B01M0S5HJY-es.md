@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0S5HJY-es Cuétara - Napolitanas - Con un toque de deliciosa canela...'
 sku: 'B01M0S5HJY-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','canela', ]
+tags: [ 'canela', ]
 actualPrice: 2.22 EUR
 currency: EUR
 price: 2.22

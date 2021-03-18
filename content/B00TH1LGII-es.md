@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TH1LGII-es Vileda 949860 Robot aspirador inteligente con programador...'
 sku: 'B00TH1LGII-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','vileda', ]
+tags: [ 'vileda', ]
 actualPrice: 199.39 EUR
 currency: EUR
 price: 199.39

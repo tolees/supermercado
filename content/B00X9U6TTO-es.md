@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9U6TTO-es Garnier Fructis Style Espuma Melena Abundante Efecto...'
 sku: 'B00X9U6TTO-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

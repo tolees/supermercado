@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C4M5CX6-es Cepillo de dientes eléctrico tres en uno Vibración de alta...'
 sku: 'B08C4M5CX6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

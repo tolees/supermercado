@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CK88IBC-es Redken Curvaceous Unisex Champú 300 ml - Champues Unisex...'
 sku: 'B01CK88IBC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

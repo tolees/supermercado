@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D3LKVDQ-es Buluri 84 Piezas Fondant Cortadores - Bricolaje Fondant...'
 sku: 'B07D3LKVDQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 14.77 EUR
 currency: EUR
 price: 14.77

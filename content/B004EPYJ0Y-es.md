@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004EPYJ0Y-es Scitec Nutrition 100% Whey Protein Professional Proteína...'
 sku: 'B004EPYJ0Y-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 66.98 EUR
 currency: EUR
 price: 66.98

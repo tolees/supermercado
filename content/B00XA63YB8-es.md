@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA63YB8-es Dixan Detergente en Polvo - 55 lavados 3 25 Kg'
 sku: 'B00XA63YB8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','detergente','dixan', ]
+tags: [ 'detergente','dixan', ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

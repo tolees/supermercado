@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKLHGZ7-es ToullGo Calentador de Café Calentador de Bebidas Portátil...'
 sku: 'B07VKLHGZ7-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 23.21 EUR
 currency: EUR
 price: 23.21

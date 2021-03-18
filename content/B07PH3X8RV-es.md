@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PH3X8RV-es Betacaroteno [25.000 ui] 180 Cápsulas con Patentado Lyc-O-...'
 sku: 'B07PH3X8RV-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','aceite','de','oliva', ]
+tags: [ 'aceite','de','oliva', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

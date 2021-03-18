@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA7HCU6-es Marcilla Gran Aroma Café Molido Descafeinado Natural - 200 gr'
 sku: 'B00XA7HCU6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','descafeinado','marcilla', ]
+tags: [ 'café','descafeinado','marcilla', ]
 actualPrice: 2.33 EUR
 currency: EUR
 price: 2.33

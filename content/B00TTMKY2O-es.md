@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TTMKY2O-es Tampax Tampones Compak Regular - 22 unidades'
 sku: 'B00TTMKY2O-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','tampax', ]
+tags: [ 'tampax', ]
 actualPrice: 3.23 EUR
 currency: EUR
 price: 3.23

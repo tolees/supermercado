@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGLDJ1T-es Hztyyier Taza del Vino del Estilo Europeo del Vintage...'
 sku: 'B07VGLDJ1T-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

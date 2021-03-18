@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TTX2I9U-es Listerine - Enjuague Bucal Menta Fresca 500 ml'
 sku: 'B00TTX2I9U-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','listerine', ]
+tags: [ 'listerine', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

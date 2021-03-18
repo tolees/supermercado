@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVNJPH3-es Original Source Mint Gel de ducha 500 ml 6 unidades'
 sku: 'B07GVNJPH3-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','ducha','gel', ]
+tags: [ 'de','ducha','gel', ]
 actualPrice: 22.17 EUR
 currency: EUR
 price: 22.17

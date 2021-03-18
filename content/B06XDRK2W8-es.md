@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDRK2W8-es L Oréal Paris Botanicals Champú para Cabellos Frágiles...'
 sku: 'B06XDRK2W8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú','cilantro','jengibre','oréal', ]
+tags: [ 'champú','cilantro','jengibre','oréal', ]
 actualPrice: 5.42 EUR
 currency: EUR
 price: 5.42

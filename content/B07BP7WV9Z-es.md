@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BP7WV9Z-es Los Chicos del Maíz I-II-III Edición Digipack [Blu-ray]'
 sku: 'B07BP7WV9Z-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','maíz', ]
+tags: [ 'maíz', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

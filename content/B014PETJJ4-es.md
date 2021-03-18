@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014PETJJ4-es L Oréal Expert Pro Fiber Rectify Leave-In-Rectify -...'
 sku: 'B014PETJJ4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','capilar','cuidado','oréal', ]
+tags: [ 'capilar','cuidado','oréal', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

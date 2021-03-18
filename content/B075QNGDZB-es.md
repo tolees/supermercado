@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QNGDZB-es Grohe Grohtherm SmartControl Perfect - Juego de ducha con...'
 sku: 'B075QNGDZB-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','alcachofa', ]
+tags: [ 'alcachofa', ]
 actualPrice: 870.78 EUR
 currency: EUR
 price: 870.78

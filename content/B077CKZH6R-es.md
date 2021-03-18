@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077CKZH6R-es Bosch TAS6004 Tassimo My Way color blanco + Pack café 5...'
 sku: 'B077CKZH6R-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','marcilla', ]
+tags: [ 'café','marcilla', ]
 actualPrice: 130.13 EUR
 currency: EUR
 price: 130.13

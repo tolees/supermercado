@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MCWD8M-es NECTARBAR Eco Bolsa para hacer LECHE VEGETAL - Algodón...'
 sku: 'B079MCWD8M-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','queso', ]
+tags: [ 'queso', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

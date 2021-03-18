@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KO6JC08-es Vileda VR 101 - Robot aspirador y escoba para suelos duros...'
 sku: 'B01KO6JC08-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','vileda', ]
+tags: [ 'vileda', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

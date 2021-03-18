@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H14D7WP-es L Oréal Paris - Elvive Acondicionador Nutritivo Aceite...'
 sku: 'B07H14D7WP-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','acondicionador','oréal', ]
+tags: [ 'acondicionador','oréal', ]
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BW5WLIQ-es Schwarzkopf Professional Igora Royal 7-00 Tinte - 60 ml'
 sku: 'B00BW5WLIQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 3.37 EUR
 currency: EUR
 price: 3.37

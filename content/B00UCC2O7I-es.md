@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UCC2O7I-es Finish Powerball All in 1 Max - Pastillas para el...'
 sku: 'B00UCC2O7I-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','finish', ]
+tags: [ 'finish', ]
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

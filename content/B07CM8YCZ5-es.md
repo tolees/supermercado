@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CM8YCZ5-es NIVEA SUN Protección Facial UV Control de Brillos FP50 1 x...'
 sku: 'B07CM8YCZ5-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','crema','nivea','solar', ]
+tags: [ 'crema','nivea','solar', ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4SPDP8-es L Oréal Paris Dermo Expertise Exfoliante Facial...'
 sku: 'B07B4SPDP8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 8.16 EUR
 currency: EUR
 price: 8.16

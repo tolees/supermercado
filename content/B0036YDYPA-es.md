@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0036YDYPA-es Revlon Proyou White Hair Shampoo Champú - 350 ml'
 sku: 'B0036YDYPA-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú','revlon', ]
+tags: [ 'champú','revlon', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

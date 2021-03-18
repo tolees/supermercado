@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6QK4J2-es Dove Gel De Ducha Avena - Pack de 3 x 500 ml Total: 1500 ml'
 sku: 'B07P6QK4J2-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','dove','ducha','gel', ]
+tags: [ 'de','dove','ducha','gel', ]
 actualPrice: 8.67 EUR
 currency: EUR
 price: 8.67

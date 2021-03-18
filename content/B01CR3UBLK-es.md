@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CR3UBLK-es Café FORTALEZA - Café en Grano Mezcla 50/50 - 1 kg'
 sku: 'B01CR3UBLK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','fortaleza', ]
+tags: [ 'café','fortaleza', ]
 actualPrice: 10.34 EUR
 currency: EUR
 price: 10.34

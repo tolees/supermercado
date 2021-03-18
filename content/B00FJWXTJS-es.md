@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FJWXTJS-es Maybelline New York - Superstay 24H Polvos Compactos de...'
 sku: 'B00FJWXTJS-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

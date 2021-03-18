@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ZHXHZC-es Oral-B 3D White Luxe Brillo Seductor Pasta Dentífrica 75...'
 sku: 'B079ZHXHZC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','dentífrica', ]
+tags: [ 'dentífrica', ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

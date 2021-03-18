@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HFPFC7-es Sisbelt Forte Complemento Alimenticio con Berenjena y...'
 sku: 'B078HFPFC7-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','alcachofa', ]
+tags: [ 'alcachofa', ]
 actualPrice: 17.68 EUR
 currency: EUR
 price: 17.68

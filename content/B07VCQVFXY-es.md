@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCQVFXY-es Dove Men + Care Desodorante Spray Invisible Dry –...'
 sku: 'B07VCQVFXY-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorante','dove', ]
+tags: [ 'desodorante','dove', ]
 actualPrice: 7.43 EUR
 currency: EUR
 price: 7.43

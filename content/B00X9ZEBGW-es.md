@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9ZEBGW-es NIVEA SUN After Sun Loción Hidratante 1 x 400 ml loción...'
 sku: 'B00X9ZEBGW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

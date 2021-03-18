@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077QFTJ53-es L Occitane VERBENA gel de ducha Cuerpo 500 ml - Geles de...'
 sku: 'B077QFTJ53-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','ducha','gel', ]
+tags: [ 'de','ducha','gel', ]
 actualPrice: 24.39 EUR
 currency: EUR
 price: 24.39

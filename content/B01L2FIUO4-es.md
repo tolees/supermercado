@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L2FIUO4-es Revlon Professional Equave Kids Acondicionador...'
 sku: 'B01L2FIUO4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','acondicionador','revlon', ]
+tags: [ 'acondicionador','revlon', ]
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M7TZ8RM-es Grefusa - MisterCorn | Cocktail de Frutos Secos con Sabor...'
 sku: 'B01M7TZ8RM-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','frutos','grefusa','secos', ]
+tags: [ 'frutos','grefusa','secos', ]
 actualPrice: 9.86 EUR
 currency: EUR
 price: 9.86

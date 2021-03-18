@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000GIPJ0M-es Optimum Nutrition ON Serious Mass proteina en polvo mass...'
 sku: 'B000GIPJ0M-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 42.7 EUR
 currency: EUR
 price: 42.7

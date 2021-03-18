@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JE0ZCIC-es HeroNeo - Juego de plantillas para decoración de café 16...'
 sku: 'B00JE0ZCIC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 0.94 EUR
 currency: EUR
 price: 0.94

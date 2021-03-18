@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGFHZTD-es Marca Amazon - Solimo Champú y acondicionador anticaspa 2...'
 sku: 'B07NGFHZTD-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','acondicionador','champú','solimo', ]
+tags: [ 'acondicionador','champú','solimo', ]
 actualPrice: 7.37 EUR
 currency: EUR
 price: 7.37

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQ46CNV-es Sundari Arroz Basmati 1 Kg - [Pack De 10] - Total 10 Kg'
 sku: 'B07CQ46CNV-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arroz', ]
+tags: [ 'arroz', ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

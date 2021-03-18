@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004EXON0W-es Fifty Pounds Ginebra - 700 ml'
 sku: 'B004EXON0W-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','ginebra', ]
+tags: [ 'ginebra', ]
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

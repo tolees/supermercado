@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCNVY3F-es RREN-Faucet Versión extendida de la grifería de Doble...'
 sku: 'B07GCNVY3F-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','fregona', ]
+tags: [ 'fregona', ]
 actualPrice: 35.2 EUR
 currency: EUR
 price: 35.2

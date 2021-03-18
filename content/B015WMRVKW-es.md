@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015WMRVKW-es Optimum Nutrition ON Serious Mass Proteina en Polvo Mass...'
 sku: 'B015WMRVKW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

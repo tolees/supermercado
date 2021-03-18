@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWJQ3T8-es LOCCO - Gotas dulces con gusto a chocolate sin azúcar...'
 sku: 'B07VWJQ3T8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','azúcar','chocolate', ]
+tags: [ 'azúcar','chocolate', ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

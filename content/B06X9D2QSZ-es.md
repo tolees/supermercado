@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9D2QSZ-es Elizabeth Arden 5Th Avenue Royale Edp Vapo 125 Ml 5Th...'
 sku: 'B06X9D2QSZ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arden','elizabeth', ]
+tags: [ 'arden','elizabeth', ]
 actualPrice: 32.66 EUR
 currency: EUR
 price: 32.66

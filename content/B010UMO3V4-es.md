@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010UMO3V4-es Maybelline Barra de Labios Hidratante Mate Color...'
 sku: 'B010UMO3V4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 4.05 EUR
 currency: EUR
 price: 4.05

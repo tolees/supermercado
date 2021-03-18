@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WEJ0U3C-es Neutrogena Crema de Manos Elasticidad Intensa SPF 20 75 ml'
 sku: 'B00WEJ0U3C-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','neutrogena', ]
+tags: [ 'neutrogena', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

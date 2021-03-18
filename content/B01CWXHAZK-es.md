@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CWXHAZK-es Schwarzkopf Professional Osis Mighty Ultra Strong Matte...'
 sku: 'B01CWXHAZK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

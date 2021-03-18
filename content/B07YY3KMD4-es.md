@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YY3KMD4-es Set Regalo Mujer Flor de Cerezo: 1 gel de ducha/bano de...'
 sku: 'B07YY3KMD4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','ducha','gel','jabón', ]
+tags: [ 'de','ducha','gel','jabón', ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

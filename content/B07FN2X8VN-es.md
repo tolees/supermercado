@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FN2X8VN-es Café FORTALEZA - Surtido de Cápsulas de Café Orígenes...'
 sku: 'B07FN2X8VN-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','cápsulas','de','fortaleza', ]
+tags: [ 'café','cápsulas','de','fortaleza', ]
 actualPrice: 33.91 EUR
 currency: EUR
 price: 33.91

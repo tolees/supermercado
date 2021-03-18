@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BJ66S6C-es Desodorante Mussvital Dermactive Nature Pack 2 Uds x 75ml....'
 sku: 'B07BJ66S6C-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorante', ]
+tags: [ 'desodorante', ]
 actualPrice: 4.7 EUR
 currency: EUR
 price: 4.7

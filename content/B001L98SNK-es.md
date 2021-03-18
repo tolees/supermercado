@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001L98SNK-es Babaria Rosa Mosqueta - Aceite puro facial 50 ml'
 sku: 'B001L98SNK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','babaria', ]
+tags: [ 'babaria', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

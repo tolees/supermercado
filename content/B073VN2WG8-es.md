@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VN2WG8-es Mimosín - Intense Estallido de Pasión Suavizante...'
 sku: 'B073VN2WG8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','suavizante', ]
+tags: [ 'suavizante', ]
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

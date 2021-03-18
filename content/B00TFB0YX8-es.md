@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TFB0YX8-es Optimum Nutrition Gold Standard Pre Workout en Polvo...'
 sku: 'B00TFB0YX8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','bebida','energética', ]
+tags: [ 'bebida','energética', ]
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

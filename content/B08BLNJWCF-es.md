@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLNJWCF-es XILOSIN El Papel de arroz Blanco de la caligrafía China de...'
 sku: 'B08BLNJWCF-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arroz', ]
+tags: [ 'arroz', ]
 actualPrice: 4.63 EUR
 currency: EUR
 price: 4.63

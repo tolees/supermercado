@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYW8FTO-es Coca-Cola Light Lata - 330 ml Pack de 24'
 sku: 'B01LYW8FTO-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','coca-cola', ]
+tags: [ 'coca-cola', ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

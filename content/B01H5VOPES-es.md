@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H5VOPES-es Revlon Pro You Color Champú - 1000 ml'
 sku: 'B01H5VOPES-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú','revlon', ]
+tags: [ 'champú','revlon', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

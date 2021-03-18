@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M9ASWTD-es Knorr - Crema Verduras Mediterráneas - 500 ml'
 sku: 'B01M9ASWTD-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','knorr', ]
+tags: [ 'knorr', ]
 actualPrice: 1.59 EUR
 currency: EUR
 price: 1.59

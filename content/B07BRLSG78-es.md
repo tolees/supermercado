@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BRLSG78-es Bostanten Cinturón Cuero Para Hombres Piel Cinturones...'
 sku: 'B07BRLSG78-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

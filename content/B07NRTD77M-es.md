@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRTD77M-es Schwarzkopf Gliss - Reparador de puntas Ultimate Repair 2...'
 sku: 'B07NRTD77M-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B17YXYN-es Nestlé La Lechera Leche condensada entera - Lata de leche...'
 sku: 'B07B17YXYN-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','nestlé', ]
+tags: [ 'nestlé', ]
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

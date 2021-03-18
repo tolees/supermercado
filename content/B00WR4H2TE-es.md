@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WR4H2TE-es L Oréal Paris Barra de Labios Color Riche 335'
 sku: 'B00WR4H2TE-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0AE1PO-es LITORAL Fabada Asturiana Plato Preparado de Fabada...'
 sku: 'B01M0AE1PO-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','fabada','gluten','litoral','plato','preparado','sin', ]
+tags: [ 'fabada','gluten','litoral','plato','preparado','sin', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

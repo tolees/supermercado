@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073H7Z3SJ-es L Oréal Paris Infallible Lip Liner rojo 701 Stay Ultraviolet'
 sku: 'B073H7Z3SJ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LCTLADI-es Lay s Gourmet Patatas Fritas con Sal - 180 g'
 sku: 'B01LCTLADI-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','fritas','patatas', ]
+tags: [ 'fritas','patatas', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

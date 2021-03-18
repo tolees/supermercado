@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9ZRBHN-es Twinzee Picadora de Carne Eléctrica 1500W Blanco - para...'
 sku: 'B07T9ZRBHN-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','salchichas', ]
+tags: [ 'salchichas', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

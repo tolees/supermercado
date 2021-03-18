@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M076UKH-es President Leche Entera - 6 x 1 L'
 sku: 'B01M076UKH-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','entera','leche','president', ]
+tags: [ 'entera','leche','president', ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

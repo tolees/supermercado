@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XKBSBWK-es Roe & Co Whisky Irlandés - 700 ml'
 sku: 'B06XKBSBWK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 21.62 EUR
 currency: EUR
 price: 21.62

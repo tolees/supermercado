@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TB95HZ1-es Puleva Nata Líquida Para Montar 1000 ml'
 sku: 'B07TB95HZ1-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','puleva', ]
+tags: [ 'puleva', ]
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

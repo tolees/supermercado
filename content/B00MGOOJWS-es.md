@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MGOOJWS-es Philips Sonicare DiamondClean HX9352/04 - Cepillo de...'
 sku: 'B00MGOOJWS-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 170.0 EUR
 currency: EUR
 price: 170.0

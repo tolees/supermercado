@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016C2APSG-es Maybelline New York - Lash Sensational Intense Black...'
 sku: 'B016C2APSG-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','maybelline', ]
+tags: [ 'maybelline', ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

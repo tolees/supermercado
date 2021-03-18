@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WXLJT64-es Note D Espresso Cápsulas de Café de Guatemala - 96...'
 sku: 'B07WXLJT64-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','cápsulas','de','dolce','gusto', ]
+tags: [ 'café','cápsulas','de','dolce','gusto', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

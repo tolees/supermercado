@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004M9ML2K-es Rimmel London Lasting Finish Barra De Labios Tono 170...'
 sku: 'B004M9ML2K-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','finish', ]
+tags: [ 'finish', ]
 actualPrice: 2.55 EUR
 currency: EUR
 price: 2.55

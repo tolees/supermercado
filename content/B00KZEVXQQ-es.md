@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KZEVXQQ-es BSN Nutrition Amino X Suplementos Deportivos BCAA Polvo...'
 sku: 'B00KZEVXQQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','manzana', ]
+tags: [ 'manzana', ]
 actualPrice: 23.77 EUR
 currency: EUR
 price: 23.77

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VVG1L6-es Alfapac – Papel de cocina 18 m 1 unidad'
 sku: 'B082VVG1L6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cocina','de','papel', ]
+tags: [ 'cocina','de','papel', ]
 actualPrice: 2.47 EUR
 currency: EUR
 price: 2.47

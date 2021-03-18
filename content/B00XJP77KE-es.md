@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XJP77KE-es NIVEA Desmaquillador de Ojos Doble Acción 1 x 125 ml...'
 sku: 'B00XJP77KE-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

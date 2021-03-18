@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8NKW5V-es Weider Green Flex PROTECTOR Articular 100% Vegano Con...'
 sku: 'B07X8NKW5V-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cúrcuma','gluten','sin', ]
+tags: [ 'cúrcuma','gluten','sin', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

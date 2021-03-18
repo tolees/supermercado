@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ICMT7A2-es Babaria Gel de Rápida Absorción para Después del Afeitado...'
 sku: 'B00ICMT7A2-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','babaria', ]
+tags: [ 'babaria', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

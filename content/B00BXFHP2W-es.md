@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BXFHP2W-es Guinot Hydrazone Toutes Peaux Crema hidratante - 50 ml'
 sku: 'B00BXFHP2W-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','crema','hidratante', ]
+tags: [ 'crema','hidratante', ]
 actualPrice: 31.56 EUR
 currency: EUR
 price: 31.56

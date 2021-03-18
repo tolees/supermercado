@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002CMLS3M-es Aveda 50397 - Acondicionador 200 ml'
 sku: 'B002CMLS3M-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','acondicionador', ]
+tags: [ 'acondicionador', ]
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NY04AN6-es Gillette ProGlide Power blades - Hoja - Pack de 4'
 sku: 'B00NY04AN6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gillette', ]
+tags: [ 'gillette', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

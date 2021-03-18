@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010ONDWRK-es Advance Sensitive Mini - Pienso para Perros de Razas...'
 sku: 'B010ONDWRK-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arroz', ]
+tags: [ 'arroz', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003HLQX00-es Revlon ColorStay Maquillaje en Polvo Medium'
 sku: 'B003HLQX00-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

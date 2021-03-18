@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAPCFKA-es Haribo - Cerezas con azúcar super - Caramelo de goma - 1 kg'
 sku: 'B00XAPCFKA-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','azúcar','haribo', ]
+tags: [ 'azúcar','haribo', ]
 actualPrice: 4.72 EUR
 currency: EUR
 price: 4.72

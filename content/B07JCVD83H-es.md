@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JCVD83H-es Cesar elección del Chef Ternera A La Rejilla con arroz...'
 sku: 'B07JCVD83H-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','arroz','integral', ]
+tags: [ 'arroz','integral', ]
 actualPrice: 12.13 EUR
 currency: EUR
 price: 12.13

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001MZYIP0-es EUKANUBA Raza Mediana Adulto Activo rico en pollo fresco...'
 sku: 'B001MZYIP0-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','eukanuba', ]
+tags: [ 'eukanuba', ]
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

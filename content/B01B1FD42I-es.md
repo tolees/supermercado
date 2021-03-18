@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B1FD42I-es Bluelover Cebolla Goggles Gafas Rebanar Cocina Corte Picar...'
 sku: 'B01B1FD42I-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cebolla', ]
+tags: [ 'cebolla', ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

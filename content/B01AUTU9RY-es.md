@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AUTU9RY-es L Oréal Paris Base de Maquillaje Fluida Infalible Sculpt 03'
 sku: 'B01AUTU9RY-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D8C22WX-es Dove Loción corporal - 6 de 190 ml. Total 1140 ml.'
 sku: 'B07D8C22WX-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','dove', ]
+tags: [ 'dove', ]
 actualPrice: 18.17 EUR
 currency: EUR
 price: 18.17

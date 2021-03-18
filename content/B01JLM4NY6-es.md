@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JLM4NY6-es L Oréal Paris Make-up designer Millón de Pestañas Fatale...'
 sku: 'B01JLM4NY6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 4.92 EUR
 currency: EUR
 price: 4.92

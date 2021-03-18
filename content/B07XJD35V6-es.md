@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XJD35V6-es Omega 3 6 7 9 90 perlas enriquecidas con aceite de lino...'
 sku: 'B07XJD35V6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','trigo', ]
+tags: [ 'trigo', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

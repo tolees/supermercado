@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GLD2VT4-es Té Yunnan Puerh 100g 0.22LB conservas Jazmín Puer pequeño...'
 sku: 'B07GLD2VT4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','conservas', ]
+tags: [ 'conservas', ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

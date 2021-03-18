@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WW22YNN-es Adonis Low Sugar - Barritas de Pacanas Crujiente Sabor de...'
 sku: 'B06WW22YNN-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','gluten','sin', ]
+tags: [ 'gluten','sin', ]
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

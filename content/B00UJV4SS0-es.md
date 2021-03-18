@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UJV4SS0-es Aceite de virgen carbonell 5l pet'
 sku: 'B00UJV4SS0-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','carbonell', ]
+tags: [ 'carbonell', ]
 actualPrice: 21.25 EUR
 currency: EUR
 price: 21.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071X9DZFC-es Schwarzkopf Root Retoucher - Coloración del Cabello Negro...'
 sku: 'B071X9DZFC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

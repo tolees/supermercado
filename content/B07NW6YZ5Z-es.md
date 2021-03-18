@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW6YZ5Z-es Somat Oro Gel Lavavajillas Limón – Pack de 4 Total: 200...'
 sku: 'B07NW6YZ5Z-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','somat', ]
+tags: [ 'somat', ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

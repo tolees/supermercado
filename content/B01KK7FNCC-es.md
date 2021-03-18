@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KK7FNCC-es NIVEA Hyaluron Cellular Filler + Volumen y Contorno Serum...'
 sku: 'B01KK7FNCC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 11.41 EUR
 currency: EUR
 price: 11.41

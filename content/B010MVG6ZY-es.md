@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010MVG6ZY-es Pogi s Grooming Wipes - Toallitas húmedas - 100 toallitas...'
 sku: 'B010MVG6ZY-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorantes', ]
+tags: [ 'desodorantes', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

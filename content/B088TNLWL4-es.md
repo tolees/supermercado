@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088TNLWL4-es Cabello colorido + Cepillo de dientes con mango de bambú...'
 sku: 'B088TNLWL4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 1.84 EUR
 currency: EUR
 price: 1.84

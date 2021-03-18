@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010Y4YGI8-es Cúrcuma orgánica 745mg + Jengibre + Pimienta negra....'
 sku: 'B010Y4YGI8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cúrcuma','gluten','jengibre','sin', ]
+tags: [ 'cúrcuma','gluten','jengibre','sin', ]
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

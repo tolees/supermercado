@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TOAEXXC-es PAVO 8056019 Llaves/Armario/Caja Fuerte AES con Seguridad...'
 sku: 'B00TOAEXXC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','pavo', ]
+tags: [ 'pavo', ]
 actualPrice: 110.89 EUR
 currency: EUR
 price: 110.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ZYW1V6-es Nestlé Purés Tarrito de puré de verduras y carne variedad...'
 sku: 'B079ZYW1V6-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','nestlé', ]
+tags: [ 'nestlé', ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

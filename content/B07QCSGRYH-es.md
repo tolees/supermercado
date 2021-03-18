@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QCSGRYH-es L Oréal Men Expert - Hydra Energetic 2 en 1 aftershave y...'
 sku: 'B07QCSGRYH-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

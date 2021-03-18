@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MWM9YC8-es Exquisite Gaming MMFTMR300024 Meta Merch - Taza de café...'
 sku: 'B07MWM9YC8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

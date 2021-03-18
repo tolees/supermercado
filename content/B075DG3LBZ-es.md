@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075DG3LBZ-es EIS Lubricante Deluxe Aqua chocolate efecto de larga...'
 sku: 'B075DG3LBZ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate', ]
+tags: [ 'chocolate', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

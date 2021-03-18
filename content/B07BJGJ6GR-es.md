@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BJGJ6GR-es Dove Desodorante Original - Pack de 3 x 150 ml Total: 450 ml'
 sku: 'B07BJGJ6GR-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','desodorante','dove', ]
+tags: [ 'desodorante','dove', ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

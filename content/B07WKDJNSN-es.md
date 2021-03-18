@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WKDJNSN-es Etolab - Champú para barba. Fórmula delicada elimina...'
 sku: 'B07WKDJNSN-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 13.1 EUR
 currency: EUR
 price: 13.1

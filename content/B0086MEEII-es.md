@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0086MEEII-es L Oréal Paris Barra de Labios Color Riche Accords Naturels...'
 sku: 'B0086MEEII-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

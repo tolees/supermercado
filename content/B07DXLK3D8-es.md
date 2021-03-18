@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DXLK3D8-es Abridor de tarros 4 en 1 manual 5 en 1 abrebotellas de...'
 sku: 'B07DXLK3D8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cerveza', ]
+tags: [ 'cerveza', ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FKL4J64-es Revlon Ultra HD Pintalabios Mate Kisses'
 sku: 'B01FKL4J64-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','revlon', ]
+tags: [ 'revlon', ]
 actualPrice: 4.97 EUR
 currency: EUR
 price: 4.97

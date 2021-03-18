@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQ2JL7C-es Brillante Benefit Legumbres Chía Verduras 250G - [Pack De...'
 sku: 'B07CQ2JL7C-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','legumbres', ]
+tags: [ 'legumbres', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

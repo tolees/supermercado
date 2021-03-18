@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5JW9KZ-es Relaxdays Dispensador Jabón Cuadrado Bambú Marrón 18 x 6 5...'
 sku: 'B01N5JW9KZ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','jabón', ]
+tags: [ 'jabón', ]
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

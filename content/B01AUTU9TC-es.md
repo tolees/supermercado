@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AUTU9TC-es L Oréal Paris Sculpt 01 Base De Maquillaje Fluida - 1 Base...'
 sku: 'B01AUTU9TC-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 8.52 EUR
 currency: EUR
 price: 8.52

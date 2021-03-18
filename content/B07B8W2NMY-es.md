@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8W2NMY-es American Crew Pomada de Fijacion Fijacion Ligera / Poco...'
 sku: 'B07B8W2NMY-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','american','crew', ]
+tags: [ 'american','crew', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R1BTTB4-es Marca Amazon - Happy Belly Coco desecado 200gr x 5'
 sku: 'B07R1BTTB4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','belly','happy', ]
+tags: [ 'belly','happy', ]
 actualPrice: 6.88 EUR
 currency: EUR
 price: 6.88

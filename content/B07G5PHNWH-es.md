@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G5PHNWH-es Max Factor Base de maquillaje Tono: 80 Deep Bronze Pieles...'
 sku: 'B07G5PHNWH-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

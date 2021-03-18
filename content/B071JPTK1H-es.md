@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071JPTK1H-es Adidas Active Star Gel de ducha para Hombre 400 ml Pack de 4'
 sku: 'B071JPTK1H-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','de','ducha','gel', ]
+tags: [ 'de','ducha','gel', ]
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

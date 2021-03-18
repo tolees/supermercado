@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074M7HRSJ-es Bandeja de Hielo Diamante Moldes para Cubitos de Hielo...'
 sku: 'B074M7HRSJ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

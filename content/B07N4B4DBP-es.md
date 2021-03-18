@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N4B4DBP-es Piz Buin - Protector Solar Hydro Infusion Crema Solar...'
 sku: 'B07N4B4DBP-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','crema','solar', ]
+tags: [ 'crema','solar', ]
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

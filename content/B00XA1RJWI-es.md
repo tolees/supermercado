@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA1RJWI-es Café FORTALEZA - Café en Grano Natural - 1 kg'
 sku: 'B00XA1RJWI-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','fortaleza', ]
+tags: [ 'café','fortaleza', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

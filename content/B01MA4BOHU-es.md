@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MA4BOHU-es Air Wick Freshmatic Life Ambientador Scents Oasis Color...'
 sku: 'B01MA4BOHU-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','air','wick', ]
+tags: [ 'air','wick', ]
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

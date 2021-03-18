@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TFH171C-es [Nueva versión] LEDGLE Cortina Luces LED Fairy String...'
 sku: 'B07TFH171C-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','fairy', ]
+tags: [ 'fairy', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

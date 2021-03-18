@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QK6HK6V-es L Oréal Paris Age Perfect Nutrición Intensa - Crema Rica...'
 sku: 'B07QK6HK6V-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XJP8Y7Y-es NIVEA Hyaluron Cellular Filler Cuidado de Noche Crema de...'
 sku: 'B00XJP8Y7Y-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','nivea', ]
+tags: [ 'nivea', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

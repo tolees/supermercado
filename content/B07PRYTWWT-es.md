@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRYTWWT-es L OR Espresso Café paquete favorito - Nespresso® *...'
 sku: 'B07PRYTWWT-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café','cápsulas','de', ]
+tags: [ 'café','cápsulas','de', ]
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DWB5R0G-es Listerine - Mentol 1000 ml Duplo'
 sku: 'B01DWB5R0G-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','listerine', ]
+tags: [ 'listerine', ]
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

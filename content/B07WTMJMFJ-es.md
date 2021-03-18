@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WTMJMFJ-es VicTsing 150ml Difusor de Aromas Ultra Silencioso 21dB...'
 sku: 'B07WTMJMFJ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cúrcuma', ]
+tags: [ 'cúrcuma', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

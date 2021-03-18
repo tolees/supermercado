@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BDTLL7W-es Eritritol 100 % natural 1 kg | Sustituto del azúcar con...'
 sku: 'B01BDTLL7W-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

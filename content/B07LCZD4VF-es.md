@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LCZD4VF-es Max Factor Colour Elixir Lip Liner 10 Red Poppy 40 g'
 sku: 'B07LCZD4VF-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

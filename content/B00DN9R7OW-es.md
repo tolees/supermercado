@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DN9R7OW-es HiPP Biológico Tarrito Manzana y Plátano con Galletas -...'
 sku: 'B00DN9R7OW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','manzana', ]
+tags: [ 'manzana', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

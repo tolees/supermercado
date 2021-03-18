@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QJ2JVW-es Moussel Classique Gel Moussant 900 Ml - 900 ml'
 sku: 'B076QJ2JVW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','moussel', ]
+tags: [ 'moussel', ]
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

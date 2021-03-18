@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D0THLCI-es Max Factor Colour Elixir Lipstick 730 Flushed Fuchsia...'
 sku: 'B00D0THLCI-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','factor','max', ]
+tags: [ 'factor','max', ]
 actualPrice: 3.01 EUR
 currency: EUR
 price: 3.01

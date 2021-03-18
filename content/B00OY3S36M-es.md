@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OY3S36M-es Sancarlos Relleno Nórdico Mistral con Microgel Tacto Piel...'
 sku: 'B00OY3S36M-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','melocotón', ]
+tags: [ 'melocotón', ]
 actualPrice: 39.38 EUR
 currency: EUR
 price: 39.38

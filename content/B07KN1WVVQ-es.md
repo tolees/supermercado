@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KN1WVVQ-es Armani Exchange Different Logo Mood suéter Martini 1107...'
 sku: 'B07KN1WVVQ-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','martini', ]
+tags: [ 'martini', ]
 actualPrice: 46.81 EUR
 currency: EUR
 price: 46.81

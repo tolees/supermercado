@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000T1VZ3G-es L Oréal Men Expert Gel Hidratante Antifatiga - 50 ml'
 sku: 'B000T1VZ3G-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 7.66 EUR
 currency: EUR
 price: 7.66

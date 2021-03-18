@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XS39NQR-es L Oreal Paris Elvive Champú para Cabello Seco - 400 ml'
 sku: 'B06XS39NQR-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','champú', ]
+tags: [ 'champú', ]
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

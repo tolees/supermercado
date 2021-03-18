@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0719H3ZQW-es Compartimientos plegables del almacenaje del yute cesta de...'
 sku: 'B0719H3ZQW-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','café', ]
+tags: [ 'café', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

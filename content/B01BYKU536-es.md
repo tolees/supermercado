@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BYKU536-es Got2b - Espuma Twisted Rizos Perfectos - 3 unidades de...'
 sku: 'B01BYKU536-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','schwarzkopf', ]
+tags: [ 'schwarzkopf', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

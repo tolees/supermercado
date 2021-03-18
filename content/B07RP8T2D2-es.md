@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RP8T2D2-es Oral-B Genius X 20000 Luxe Edition Cepillo de Dientes...'
 sku: 'B07RP8T2D2-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','cepillo','de','dientes', ]
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

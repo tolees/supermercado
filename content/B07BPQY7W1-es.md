@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BPQY7W1-es Jura Journey Single Malt Scotch Whisky - 0.7 L'
 sku: 'B07BPQY7W1-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

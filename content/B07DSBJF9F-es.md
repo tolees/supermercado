@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DSBJF9F-es L Oréal Paris Make-up designer Infalible 24H Fresh Wear...'
 sku: 'B07DSBJF9F-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','oréal', ]
+tags: [ 'oréal', ]
 actualPrice: 9.31 EUR
 currency: EUR
 price: 9.31

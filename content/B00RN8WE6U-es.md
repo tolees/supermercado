@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RN8WE6U-es Revlon Professional UniqOne Coco Champú Acondicionador 300 ml'
 sku: 'B00RN8WE6U-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','acondicionador','champú','revlon', ]
+tags: [ 'acondicionador','champú','revlon', ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

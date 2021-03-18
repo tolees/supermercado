@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4NKDZ8-es La Toja Selection - Sales de Baño con Minerales Termales...'
 sku: 'B07D4NKDZ8-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','la','toja', ]
+tags: [ 'la','toja', ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

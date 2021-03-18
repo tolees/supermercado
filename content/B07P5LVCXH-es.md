@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5LVCXH-es Garnier Delial Bruma Protectora Refrescante UV Water Alta...'
 sku: 'B07P5LVCXH-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','garnier', ]
+tags: [ 'garnier', ]
 actualPrice: 9.44 EUR
 currency: EUR
 price: 9.44

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VJW2L0-es Eukanuba Working & Endurance - Comida seca para perros...'
 sku: 'B000VJW2L0-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','eukanuba', ]
+tags: [ 'eukanuba', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

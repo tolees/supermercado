@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZW6FD9P-es Jardín Bio Muesli Bio al Chocolate y Semillas de Lino -...'
 sku: 'B07ZW6FD9P-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate','muesli', ]
+tags: [ 'chocolate','muesli', ]
 actualPrice: 1.65 EUR
 currency: EUR
 price: 1.65

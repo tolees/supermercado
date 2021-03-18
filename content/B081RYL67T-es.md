@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081RYL67T-es Ensaimadas Mallorquinas Rellenas - Pack 3 Unidades -...'
 sku: 'B081RYL67T-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','chocolate','sobrasada', ]
+tags: [ 'chocolate','sobrasada', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

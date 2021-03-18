@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000GHVIGM-es KENZO L EAU eau de toilette Mujeres 100 ml - Eau de...'
 sku: 'B000GHVIGM-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','pimiento', ]
+tags: [ 'pimiento', ]
 actualPrice: 42.56 EUR
 currency: EUR
 price: 42.56

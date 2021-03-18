@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0811WHWWH-es Gobesty Juego de servilletas de Tela 10 Unidades Suaves...'
 sku: 'B0811WHWWH-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','servilletas', ]
+tags: [ 'servilletas', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

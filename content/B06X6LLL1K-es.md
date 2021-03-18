@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X6LLL1K-es Braun MQ 3025 Spaghetti - Licuadora 600 L 0 35 L Botones...'
 sku: 'B06X6LLL1K-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','spaghetti', ]
+tags: [ 'spaghetti', ]
 actualPrice: 35 EUR
 currency: EUR
 price: 35

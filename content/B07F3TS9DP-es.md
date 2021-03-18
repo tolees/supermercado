@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3TS9DP-es Bonsenkitchen Cortador de Verduras en Espiral...'
 sku: 'B07F3TS9DP-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','spaghetti', ]
+tags: [ 'spaghetti', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

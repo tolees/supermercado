@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EDMABPU-es Eco Bag Ecobag – Bolsas de Basura 50 Unidades Resistentes'
 sku: 'B00EDMABPU-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','basura','bolsas','de', ]
+tags: [ 'basura','bolsas','de', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

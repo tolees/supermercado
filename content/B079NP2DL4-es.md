@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NP2DL4-es Macallan Triple Cask 15 Años Single Malt Whisky Escoces...'
 sku: 'B079NP2DL4-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','whisky', ]
+tags: [ 'whisky', ]
 actualPrice: 47.15 EUR
 currency: EUR
 price: 47.15

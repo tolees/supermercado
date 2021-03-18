@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZWPV8LV-es ALDOUS BIO - Eritritol Ecológico Premium - 100 % Natural -...'
 sku: 'B07ZWPV8LV-es'
-tags: [ 'Alimentación y bebidas','Baño e higiene personal','Belleza','Café y expreso','Café, té y bebidas','Cápsulas de café','Decoración del hogar','Desodorantes','Fundas decorativas','Fundas decorativas para sofás','Hogar y cocina','azúcar', ]
+tags: [ 'azúcar', ]
 actualPrice: 14.31 EUR
 currency: EUR
 price: 14.31
