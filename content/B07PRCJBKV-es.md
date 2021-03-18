@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRCJBKV-es PediaSure Complemento Alimenticio para Niños Sabor...'
 sku: 'B07PRCJBKV-es'
+tags: [ 'chocolate', ]
 actualPrice: 7.26 EUR
 currency: EUR
 price: 7.26

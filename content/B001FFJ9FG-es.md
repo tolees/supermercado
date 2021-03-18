@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001FFJ9FG-es VICTORY ENDURANCE Total Recovery Chocolate 750 g'
 sku: 'B001FFJ9FG-es'
+tags: [ 'chocolate', ]
 actualPrice: 20.6 EUR
 currency: EUR
 price: 20.6

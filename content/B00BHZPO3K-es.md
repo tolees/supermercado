@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BHZPO3K-es Arcos Universal - Cuchillo para queso 145 mm hoja'
 sku: 'B00BHZPO3K-es'
+tags: [ 'queso', ]
 actualPrice: 21.13 EUR
 currency: EUR
 price: 21.13

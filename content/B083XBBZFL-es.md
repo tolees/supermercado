@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083XBBZFL-es Kosiy Dispensadores de jabón automático Dispensador Jabón...'
 sku: 'B083XBBZFL-es'
+tags: [ 'jabón', ]
 actualPrice: 18.47 EUR
 currency: EUR
 price: 18.47

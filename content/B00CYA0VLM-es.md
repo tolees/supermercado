@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CYA0VLM-es Vichy 48H Desodorante Antitranspirante Antimanchas - 125 ml'
 sku: 'B00CYA0VLM-es'
+tags: [ 'desodorante', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

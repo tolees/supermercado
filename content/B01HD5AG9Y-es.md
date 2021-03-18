@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HD5AG9Y-es Lagarto Jabón Natural - Paquete de 40 x 400 gr - Total:...'
 sku: 'B01HD5AG9Y-es'
+tags: [ 'jabón', ]
 actualPrice: 38.02 EUR
 currency: EUR
 price: 38.02

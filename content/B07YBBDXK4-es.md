@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YBBDXK4-es Aranmei Pijamas Mujer Invierno de Algodón Conjunto de...'
 sku: 'B07YBBDXK4-es'
+tags: [ 'tinto','vino', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

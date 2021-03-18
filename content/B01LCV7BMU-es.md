@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LCV7BMU-es Kellogg s Extra Chocolate belga y Avellanas Granolas- 375 g'
 sku: 'B01LCV7BMU-es'
+tags: [ 'chocolate','kellogg', ]
 actualPrice: 2.56 EUR
 currency: EUR
 price: 2.56

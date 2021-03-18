@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWXXHZ6-es FS L Teanina Pura [300 mg] Sin Rellenos o Aglutinantes |...'
 sku: 'B07PWXXHZ6-es'
+tags: [ 'gluten','sin', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004WI1MJE-es Glen Grant The Major s Reserve Whisky Single Malt 70 cl'
 sku: 'B004WI1MJE-es'
+tags: [ 'whisky', ]
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

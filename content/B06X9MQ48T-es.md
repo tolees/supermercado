@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9MQ48T-es Garnier Skin Active Rescue Mask - Mascarilla Reparadora de...'
 sku: 'B06X9MQ48T-es'
+tags: [ 'garnier', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

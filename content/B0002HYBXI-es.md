@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002HYBXI-es Pustefix- Juego para Hacer pompas de jabón 70 ml...'
 sku: 'B0002HYBXI-es'
+tags: [ 'jabón', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

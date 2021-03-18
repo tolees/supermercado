@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DWB5FV2-es Ausonia Discreet Maxi Noche Compresas Para Pérdidas De...'
 sku: 'B01DWB5FV2-es'
+tags: [ 'ausonia', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WWK11X-es Fanola No Orange Champú Antirreflectante 350 ml'
 sku: 'B071WWK11X-es'
+tags: [ 'champú', ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

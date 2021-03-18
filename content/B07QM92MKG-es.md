@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QM92MKG-es Mimosín Collection Parfum Suavizante Fleur Rouge - 6...'
 sku: 'B07QM92MKG-es'
+tags: [ 'suavizante', ]
 actualPrice: 25.44 EUR
 currency: EUR
 price: 25.44

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003JALZ5W-es PowerBar Ride Energy Chocolate Caramel 18x55g - Barra de...'
 sku: 'B003JALZ5W-es'
+tags: [ 'chocolate', ]
 actualPrice: 20.16 EUR
 currency: EUR
 price: 20.16

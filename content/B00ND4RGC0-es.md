@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ND4RGC0-es Beefeater London Dry Ginebra - 1L'
 sku: 'B00ND4RGC0-es'
+tags: [ 'ginebra', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

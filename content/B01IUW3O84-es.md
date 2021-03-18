@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IUW3O84-es Lay s - Patatas Fritas al punto de sal 170 gr'
 sku: 'B01IUW3O84-es'
+tags: [ 'fritas','patatas', ]
 actualPrice: 1.22 EUR
 currency: EUR
 price: 1.22

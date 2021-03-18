@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003R7K5DK-es Smint Tabs Menta Caramelo Comprimido sin Azúcar - 12...'
 sku: 'B003R7K5DK-es'
+tags: [ 'azúcar','smint', ]
 actualPrice: 14.65 EUR
 currency: EUR
 price: 14.65

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DTUOCAC-es Oro de Cánava Aceite de Oliva Virgen Extra Premium de Jaén...'
 sku: 'B00DTUOCAC-es'
+tags: [ 'aceite','de','extra','oliva','virgen', ]
 actualPrice: 14.78 EUR
 currency: EUR
 price: 14.78

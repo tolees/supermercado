@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000X2DMEG-es American Crew Pomada de fijación fijación media / brillo...'
 sku: 'B000X2DMEG-es'
+tags: [ 'american','crew', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

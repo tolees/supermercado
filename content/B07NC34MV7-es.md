@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC34MV7-es AXE Gold - Desodorante Bodyspray para hombre 48 horas de...'
 sku: 'B07NC34MV7-es'
+tags: [ 'axe','desodorante', ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

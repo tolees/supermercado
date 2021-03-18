@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M6UUOY2-es Agua micelar Garnier para piel sensible 700 ml'
 sku: 'B01M6UUOY2-es'
+tags: [ 'garnier', ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

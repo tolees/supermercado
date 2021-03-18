@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3EXEI8-es Nomen - Fideuada 840 g'
 sku: 'B00A3EXEI8-es'
+tags: [ 'nomen', ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

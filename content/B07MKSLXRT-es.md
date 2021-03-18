@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MKSLXRT-es Beeswax Wraps - Juego de 6 envoltorios de cera de abeja...'
 sku: 'B07MKSLXRT-es'
+tags: [ 'queso', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

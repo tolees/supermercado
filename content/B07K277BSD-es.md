@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K277BSD-es Fdit Secador de Zapatos Esterilización y Calefacción...'
 sku: 'B07K277BSD-es'
+tags: [ 'desodorante', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

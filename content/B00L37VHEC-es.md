@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L37VHEC-es Artero Acondicionador y desenredante para Perros y Gatos...'
 sku: 'B00L37VHEC-es'
+tags: [ 'acondicionador', ]
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

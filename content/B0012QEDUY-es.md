@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0012QEDUY-es Gloria Vanderbilt Gel y jabón Mujer - 150 ml.'
 sku: 'B0012QEDUY-es'
+tags: [ 'jabón', ]
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

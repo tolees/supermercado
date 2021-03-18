@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPHD8L8-es Breville Mini VCF125X - Barista máquina de café expreso...'
 sku: 'B07VPHD8L8-es'
+tags: [ 'café', ]
 actualPrice: 147.93 EUR
 currency: EUR
 price: 147.93

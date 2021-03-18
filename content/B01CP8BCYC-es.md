@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CP8BCYC-es Mentos Chicle Menta Sin Azúcar - 10 unidades de 30 gr....'
 sku: 'B01CP8BCYC-es'
+tags: [ 'azúcar','mentos', ]
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

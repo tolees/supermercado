@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XJP8GCM-es NIVEA Q10 Power Antiarrugas Cuidado de Día 1 x 50 ml crema...'
 sku: 'B00XJP8GCM-es'
+tags: [ 'crema','hidratante','nivea', ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

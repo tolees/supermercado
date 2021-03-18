@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009LHA0WQ-es Max Factor Translucent Professional Maquillaje en polvo...'
 sku: 'B009LHA0WQ-es'
+tags: [ 'factor','max', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

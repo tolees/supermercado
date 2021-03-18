@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YZJYJ3-es Purina Felix Sensations Gelatinas comida para gatos...'
 sku: 'B071YZJYJ3-es'
+tags: [ 'purina', ]
 actualPrice: 29.84 EUR
 currency: EUR
 price: 29.84

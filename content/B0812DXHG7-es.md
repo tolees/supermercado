@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0812DXHG7-es L Oréal Infalible 24 H Matte Cover Base De Maquillaje Alta...'
 sku: 'B0812DXHG7-es'
+tags: [ 'oréal', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

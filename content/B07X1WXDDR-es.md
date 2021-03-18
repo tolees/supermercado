@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1WXDDR-es Dightyoho Boda varita Pompas de jabón Tubo de la Burbuja...'
 sku: 'B07X1WXDDR-es'
+tags: [ 'jabón', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

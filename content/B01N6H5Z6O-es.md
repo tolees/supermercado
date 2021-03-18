@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6H5Z6O-es Maybelline New York Super Stay 24H Barra de Labios 353 - 1...'
 sku: 'B01N6H5Z6O-es'
+tags: [ 'maybelline', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

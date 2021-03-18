@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY9SWD3-es Control Lub Aloe - Gel lubricante de aloe y aroma a jazmín...'
 sku: 'B07NY9SWD3-es'
+tags: [ 'azúcar', ]
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

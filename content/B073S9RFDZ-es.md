@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073S9RFDZ-es Hawaiian Tropic Sensitive Skin Face - Crema Solar para la...'
 sku: 'B073S9RFDZ-es'
+tags: [ 'crema','solar', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

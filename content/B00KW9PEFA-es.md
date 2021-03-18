@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KW9PEFA-es AUSONIA - 34400 NAVAJA INJERTADORA DE TRIÁNGULO CON HOJA...'
 sku: 'B00KW9PEFA-es'
+tags: [ 'ausonia', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

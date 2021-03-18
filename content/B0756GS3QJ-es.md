@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756GS3QJ-es Vileda - Fregona microfibras y algodón'
 sku: 'B0756GS3QJ-es'
+tags: [ 'fregona','vileda', ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

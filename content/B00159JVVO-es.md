@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00159JVVO-es Gillette venus breeze - Cuchillas de recambio para...'
 sku: 'B00159JVVO-es'
+tags: [ 'gillette', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

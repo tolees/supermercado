@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GNQ5JND-es NIVEA Q10 3en1 Cushion Tono Oscuro 1 x 15 ml...'
 sku: 'B07GNQ5JND-es'
+tags: [ 'nivea', ]
 actualPrice: 13.94 EUR
 currency: EUR
 price: 13.94

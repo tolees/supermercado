@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQFKJP2-es Scottex Collection Servilletas - 1500 unidades'
 sku: 'B07BQFKJP2-es'
+tags: [ 'scottex','servilletas', ]
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

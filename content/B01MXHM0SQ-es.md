@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXHM0SQ-es Oral-B Genius 8900 – Cepillo de dientes eléctrico con 2ª...'
 sku: 'B01MXHM0SQ-es'
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 143.82 EUR
 currency: EUR
 price: 143.82

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085WPXHNH-es Dispensador de jabón Triency dispensador de líquidos 350...'
 sku: 'B085WPXHNH-es'
+tags: [ 'jabón', ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CWWYF9-es Gillette Platinum Cuchillas de afeitar de doble filo para...'
 sku: 'B081CWWYF9-es'
+tags: [ 'gillette', ]
 actualPrice: 7.33 EUR
 currency: EUR
 price: 7.33

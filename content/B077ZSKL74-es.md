@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077ZSKL74-es Alargador de antena N Macho a SMA macho Enchufe 5 m RG58...'
 sku: 'B077ZSKL74-es'
+tags: [ 'jamón', ]
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

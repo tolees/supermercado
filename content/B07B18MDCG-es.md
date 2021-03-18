@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B18MDCG-es Ladrón de Manzanas Cider Manzana - 4 Packs de 6 Botellas x...'
 sku: 'B07B18MDCG-es'
+tags: [ 'de','ladrón','manzana','manzanas', ]
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

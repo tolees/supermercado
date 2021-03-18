@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MDLUKJ3-es Heineken Cerveza - Paquete de 12 x 330 ml - Total: 3960 ml'
 sku: 'B01MDLUKJ3-es'
+tags: [ 'cerveza','heineken', ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

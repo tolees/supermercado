@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M93MW6V-es NIVEA Hyaluron Cellular Filler + Elasticidad &...'
 sku: 'B07M93MW6V-es'
+tags: [ 'nivea', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

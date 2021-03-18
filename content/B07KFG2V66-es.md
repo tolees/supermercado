@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFG2V66-es GluteoStop® - ayuda a descomponer el gluten - 30 mini...'
 sku: 'B07KFG2V66-es'
+tags: [ 'gluten','sin', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

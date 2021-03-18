@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CMCC2LQ-es NIVEA SUN Protección Facial UV Anti-edad & Anti-manchas...'
 sku: 'B07CMCC2LQ-es'
+tags: [ 'crema','hidratante','nivea', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

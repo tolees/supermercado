@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071K91BDJ-es Finish Limpiamáquinas Líquido para lavavajillas - 2 unidades'
 sku: 'B071K91BDJ-es'
+tags: [ 'finish', ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

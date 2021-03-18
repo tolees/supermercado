@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA4FEZ4-es Levadura Royal Bote 900g'
 sku: 'B00XA4FEZ4-es'
+tags: [ 'levadura', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

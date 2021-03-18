@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085XZPLVS-es Tesoky luz ultravioleta esterilizador UV de Teléfono...'
 sku: 'B085XZPLVS-es'
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

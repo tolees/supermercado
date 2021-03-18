@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005NBR1IU-es Schwarzkopf Professional Essensity Permanent Color Ammonia...'
 sku: 'B005NBR1IU-es'
+tags: [ 'schwarzkopf', ]
 actualPrice: 4.53 EUR
 currency: EUR
 price: 4.53

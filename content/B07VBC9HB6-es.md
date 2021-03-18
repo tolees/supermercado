@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBC9HB6-es Optimum Nutrition 1094185 Optimum Protein Shakes...'
 sku: 'B07VBC9HB6-es'
+tags: [ 'azúcar', ]
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

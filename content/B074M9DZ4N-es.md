@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074M9DZ4N-es Philips CA6903/10 Filtro de Agua Aquaclean para Máquinas...'
 sku: 'B074M9DZ4N-es'
+tags: [ 'café', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

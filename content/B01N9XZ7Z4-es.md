@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9XZ7Z4-es Elizabeth Arden White Tea Gel de Ducha 400 ml'
 sku: 'B01N9XZ7Z4-es'
+tags: [ 'arden','de','ducha','elizabeth','gel', ]
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JD1GJ2E-es HOMBRE SIN CIERRES ELEGANTE Formal Zapatos - Café 44'
 sku: 'B01JD1GJ2E-es'
+tags: [ 'café', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TFH171C-es [Nueva versión] LEDGLE Cortina Luces LED Fairy String...'
 sku: 'B07TFH171C-es'
+tags: [ 'fairy', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U61VYOE-es Blume -Vino blanco verdejo botella 75 cl. paquete de 6...'
 sku: 'B00U61VYOE-es'
+tags: [ 'blanco','vino', ]
 actualPrice: 22.14 EUR
 currency: EUR
 price: 22.14

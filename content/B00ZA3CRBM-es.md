@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZA3CRBM-es Aussie Repair Miracle Champú su Fórmula Milagrosa Llena de...'
 sku: 'B00ZA3CRBM-es'
+tags: [ 'champú', ]
 actualPrice: 4.36 EUR
 currency: EUR
 price: 4.36

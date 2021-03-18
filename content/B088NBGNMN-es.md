@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088NBGNMN-es WEWAK Actualizado Dispensador Automático de Jabón Espuma...'
 sku: 'B088NBGNMN-es'
+tags: [ 'jabón', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

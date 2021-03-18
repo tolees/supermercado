@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XNNYCMY-es Vileda Windomatic Power Set - Aspirador de ventanas y mopa...'
 sku: 'B06XNNYCMY-es'
+tags: [ 'vileda', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

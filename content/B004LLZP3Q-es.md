@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004LLZP3Q-es Hendrick s - Ginebra Botella 700 ml'
 sku: 'B004LLZP3Q-es'
+tags: [ 'ginebra', ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

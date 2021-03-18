@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9W3AAS-es L Oréal Paris Excellence Coloración Crème Triple...'
 sku: 'B00X9W3AAS-es'
+tags: [ 'oréal', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

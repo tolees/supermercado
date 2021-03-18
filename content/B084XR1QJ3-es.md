@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084XR1QJ3-es Ymea Silueta| Tratamiento de la Menopausia | Doble acción...'
 sku: 'B084XR1QJ3-es'
+tags: [ 'soja', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

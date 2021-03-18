@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NF5G9ZT-es Barritas Proteicas 100% Naturales de Avicenna | Sin Soja |...'
 sku: 'B07NF5G9ZT-es'
+tags: [ 'chocolate','gluten','sin','soja', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

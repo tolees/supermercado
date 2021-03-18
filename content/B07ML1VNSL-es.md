@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ML1VNSL-es Set de aceites esenciales de aromaterapia orgánica - TOP8...'
 sku: 'B07ML1VNSL-es'
+tags: [ 'canela', ]
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

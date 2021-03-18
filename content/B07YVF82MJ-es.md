@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YVF82MJ-es IGLESIAS - Lote De Paleta Serrana Reserva de 4 5 a 5kg +...'
 sku: 'B07YVF82MJ-es'
+tags: [ 'chorizo', ]
 actualPrice: 62.21 EUR
 currency: EUR
 price: 62.21

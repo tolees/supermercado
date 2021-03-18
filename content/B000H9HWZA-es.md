@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000H9HWZA-es Korres Champú Anticaspa'
 sku: 'B000H9HWZA-es'
+tags: [ 'champú', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

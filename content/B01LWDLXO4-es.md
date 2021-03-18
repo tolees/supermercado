@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWDLXO4-es Revlon Be Fabulous Hair Recovery Serum Reparador de Puntas...'
 sku: 'B01LWDLXO4-es'
+tags: [ 'revlon', ]
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

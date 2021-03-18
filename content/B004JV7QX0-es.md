@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004JV7QX0-es Brandy de Jerez Solera Gran Reserva Carlos I - 1 botella...'
 sku: 'B004JV7QX0-es'
+tags: [ 'brandy', ]
 actualPrice: 22.26 EUR
 currency: EUR
 price: 22.26

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073FS5HH1-es Max Factor Healthy Skin Harmony Base de Maquillaje Tono 65...'
 sku: 'B073FS5HH1-es'
+tags: [ 'factor','max', ]
 actualPrice: 5.28 EUR
 currency: EUR
 price: 5.28

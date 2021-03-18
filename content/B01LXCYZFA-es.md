@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXCYZFA-es Gourmet Aceitunas Rellenas de Anchoa Verdes Manzanilla...'
 sku: 'B01LXCYZFA-es'
+tags: [ 'aceitunas','anchoa','manzanilla','rellenas', ]
 actualPrice: None None
 currency: None
 price: None

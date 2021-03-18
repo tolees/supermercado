@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VN28MJ-es Maybelline New York Corrector Imperfecciones Master Camo...'
 sku: 'B073VN28MJ-es'
+tags: [ 'maybelline', ]
 actualPrice: 7.68 EUR
 currency: EUR
 price: 7.68

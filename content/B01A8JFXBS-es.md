@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A8JFXBS-es OGX Champú Hidratante de Agua de Coco Cabellos...'
 sku: 'B01A8JFXBS-es'
+tags: [ 'champú', ]
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

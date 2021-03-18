@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004EPYJ1S-es Scitec Nutrition Whey Protein Professional Proteína Fresa...'
 sku: 'B004EPYJ1S-es'
+tags: [ 'chocolate', ]
 actualPrice: 66.5 EUR
 currency: EUR
 price: 66.5

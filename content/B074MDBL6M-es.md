@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MDBL6M-es La Silla Española Santander Oficina con Reposacabezas Piel...'
 sku: 'B074MDBL6M-es'
+tags: [ 'española','la', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

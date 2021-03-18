@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CP89KZA-es Mentos Chicle Frutas Silvestres Sin Azúcar - 10 unidades...'
 sku: 'B01CP89KZA-es'
+tags: [ 'azúcar','mentos', ]
 actualPrice: 11.54 EUR
 currency: EUR
 price: 11.54

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7R5KEG-es Natural Honey Gel de Ducha Hidratante - 0 75 l'
 sku: 'B01K7R5KEG-es'
+tags: [ 'de','ducha','gel', ]
 actualPrice: None None
 currency: None
 price: None

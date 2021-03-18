@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0038ZWTD0-es Elizabeth Arden 5th Avenue Style Agua de perfume para...'
 sku: 'B0038ZWTD0-es'
+tags: [ 'arden','elizabeth', ]
 actualPrice: 20.77 EUR
 currency: EUR
 price: 20.77

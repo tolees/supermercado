@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZB5LI8-es Ligeresa Salsa Fina - 225 ml'
 sku: 'B01LZB5LI8-es'
+tags: [ 'ligeresa', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BR5B62Q-es L Oreal Paris Colorista Hair Make Up Chocolate Rose'
 sku: 'B07BR5B62Q-es'
+tags: [ 'chocolate', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

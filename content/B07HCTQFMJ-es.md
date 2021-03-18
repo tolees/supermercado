@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HCTQFMJ-es Maybelline New York Maybelline Lápiz de Ojos Efecto...'
 sku: 'B07HCTQFMJ-es'
+tags: [ 'maybelline', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7R48US-es Bonka Café molido de tueste natural y cultivo sostenible -...'
 sku: 'B01K7R48US-es'
+tags: [ 'café', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

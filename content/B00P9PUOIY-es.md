@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P9PUOIY-es American Crew Champú Diario 250 ml'
 sku: 'B00P9PUOIY-es'
+tags: [ 'american','champú','crew', ]
 actualPrice: 9.72 EUR
 currency: EUR
 price: 9.72

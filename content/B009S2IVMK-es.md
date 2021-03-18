@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009S2IVMK-es Max Factor FaceFinity 3 en 1 All Day Flawless Base de...'
 sku: 'B009S2IVMK-es'
+tags: [ 'factor','max', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

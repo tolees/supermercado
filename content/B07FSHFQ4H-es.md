@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSHFQ4H-es Gudotra Acerca de 100pcs Bolsa de Lino con Cordón para...'
 sku: 'B07FSHFQ4H-es'
+tags: [ 'arroz', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

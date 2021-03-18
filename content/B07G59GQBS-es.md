@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G59GQBS-es Baby Dove - Gel de Baño Hidratación Profunda para Bebés -...'
 sku: 'B07G59GQBS-es'
+tags: [ 'dove', ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

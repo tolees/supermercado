@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAP1IR6-es Haribo - Discos rojos - Geles dulces - 2 kg'
 sku: 'B00XAP1IR6-es'
+tags: [ 'haribo', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

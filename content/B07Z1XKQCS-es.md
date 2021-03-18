@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z1XKQCS-es DingGreat Kit Accesorios de Recambio para Cecotec Robot...'
 sku: 'B07Z1XKQCS-es'
+tags: [ 'fregona', ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

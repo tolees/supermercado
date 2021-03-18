@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084HKVXC6-es SUPLEMENTO MENOPAUSIA - MENODEN + VITAMINA B6 Y ZINC...'
 sku: 'B084HKVXC6-es'
+tags: [ 'soja', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

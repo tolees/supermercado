@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EHSNSFY-es Ausonia Discreet Normal M - Braguitas-Pants paquete de 9...'
 sku: 'B01EHSNSFY-es'
+tags: [ 'ausonia', ]
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

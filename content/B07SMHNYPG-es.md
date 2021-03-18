@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SMHNYPG-es Chicco Pantaloni Lunghi Bimbo Pantalones para Bebés'
 sku: 'B07SMHNYPG-es'
+tags: [ 'bimbo', ]
 actualPrice: None None
 currency: None
 price: None

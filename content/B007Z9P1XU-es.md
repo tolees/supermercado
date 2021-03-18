@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007Z9P1XU-es Lavazza A Modo Mio Passionale antes Appassionatamente...'
 sku: 'B007Z9P1XU-es'
+tags: [ 'café','cápsulas','de','lavazza', ]
 actualPrice: 27.4 EUR
 currency: EUR
 price: 27.4

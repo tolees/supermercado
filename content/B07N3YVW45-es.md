@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3YVW45-es NIVEA MEN Active Age Bálsamo Anti-edad 2en1 en pack de 3 3...'
 sku: 'B07N3YVW45-es'
+tags: [ 'nivea', ]
 actualPrice: 13.26 EUR
 currency: EUR
 price: 13.26

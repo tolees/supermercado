@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PKRXNG-es Gifort Maquina Burbujas para niños soplador de Burbujas...'
 sku: 'B086PKRXNG-es'
+tags: [ 'jabón', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

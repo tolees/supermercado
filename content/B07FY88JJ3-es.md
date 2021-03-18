@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FY88JJ3-es L Oréal Paris Make-up designer X Isabel Marant "Pillage...'
 sku: 'B07FY88JJ3-es'
+tags: [ 'oréal', ]
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

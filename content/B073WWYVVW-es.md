@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073WWYVVW-es AIFUDA - Moldes de silicona para dulces de chocolate...'
 sku: 'B073WWYVVW-es'
+tags: [ 'chocolate', ]
 actualPrice: 9.15 EUR
 currency: EUR
 price: 9.15

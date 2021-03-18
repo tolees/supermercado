@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072K4NB9P-es Gillette Venus Swirl Extra Smooth - Afeitadora para Mujer...'
 sku: 'B072K4NB9P-es'
+tags: [ 'gillette', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

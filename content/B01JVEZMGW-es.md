@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JVEZMGW-es Glenmorangie Whisky - 700 ml'
 sku: 'B01JVEZMGW-es'
+tags: [ 'whisky', ]
 actualPrice: 34.47 EUR
 currency: EUR
 price: 34.47

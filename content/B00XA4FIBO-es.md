@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA4FIBO-es Maizena - Levadura Panadería 27.5 g'
 sku: 'B00XA4FIBO-es'
+tags: [ 'levadura','maizena', ]
 actualPrice: 1.59 EUR
 currency: EUR
 price: 1.59

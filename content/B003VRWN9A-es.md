@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003VRWN9A-es L Oréal Double Extension Máscara de Pestañas Color Extra...'
 sku: 'B003VRWN9A-es'
+tags: [ 'oréal', ]
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

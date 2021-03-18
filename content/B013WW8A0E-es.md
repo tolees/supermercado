@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013WW8A0E-es Elizabeth Arden Superstart Serum Facial 30 ml'
 sku: 'B013WW8A0E-es'
+tags: [ 'arden','elizabeth', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

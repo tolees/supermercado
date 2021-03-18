@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QPB5PN9-es Love Beauty and Planet Desodorante Roll-on Love Aceite de...'
 sku: 'B07QPB5PN9-es'
+tags: [ 'desodorante', ]
 actualPrice: 12.34 EUR
 currency: EUR
 price: 12.34

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OUNIMTO-es AUSONIA - 68301 JAMONERO PROFESIONAL DE BASE DE MADERA'
 sku: 'B00OUNIMTO-es'
+tags: [ 'ausonia', ]
 actualPrice: 140.0 EUR
 currency: EUR
 price: 140.0

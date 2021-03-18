@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075X2Q3QG-es La Albufera - Aceite puro natural vegano prensado en frió...'
 sku: 'B075X2Q3QG-es'
+tags: [ 'arroz', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074NG56HL-es Elizabeth Arden Flawless Finish Everyday Perfection Base...'
 sku: 'B074NG56HL-es'
+tags: [ 'arden','elizabeth','finish', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

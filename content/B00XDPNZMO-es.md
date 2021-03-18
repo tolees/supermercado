@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDPNZMO-es Purina Friskies Pienso para Perro Adulto Aves y Verduras...'
 sku: 'B00XDPNZMO-es'
+tags: [ 'friskies','purina', ]
 actualPrice: 11.81 EUR
 currency: EUR
 price: 11.81

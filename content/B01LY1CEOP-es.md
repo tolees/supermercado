@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY1CEOP-es Knorr Sopa Cebolla - 50 g'
 sku: 'B01LY1CEOP-es'
+tags: [ 'cebolla','knorr', ]
 actualPrice: 0.62 EUR
 currency: EUR
 price: 0.62

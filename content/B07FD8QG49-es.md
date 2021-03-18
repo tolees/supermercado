@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FD8QG49-es Skip Active Clean Detergente Cápsulas para Lavadora -...'
 sku: 'B07FD8QG49-es'
+tags: [ 'detergente', ]
 actualPrice: 24.02 EUR
 currency: EUR
 price: 24.02

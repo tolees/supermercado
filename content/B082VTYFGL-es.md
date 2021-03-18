@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VTYFGL-es Vivesoy - Bebida de Soja sabor Vainilla - 1 L'
 sku: 'B082VTYFGL-es'
+tags: [ 'soja', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

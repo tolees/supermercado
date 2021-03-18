@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1Y2VR8-es Auténtica Miel Ecológica con Ajo Negro ecológico |...'
 sku: 'B07N1Y2VR8-es'
+tags: [ 'azúcar', ]
 actualPrice: 11.61 EUR
 currency: EUR
 price: 11.61

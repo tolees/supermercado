@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0F93KY-es Matutano - Cacahuetes Tostados Al Horno - 200 g - [pack de 4]'
 sku: 'B01M0F93KY-es'
+tags: [ 'matutano', ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

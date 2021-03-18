@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076F3J5HV-es Hero Baby Solo Bolsita de Manzana Plátano y Zanahoria Puré...'
 sku: 'B076F3J5HV-es'
+tags: [ 'baby','hero','manzana', ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

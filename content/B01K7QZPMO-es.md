@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QZPMO-es La Masía Aceite de Oliva Sumum - 1 l'
 sku: 'B01K7QZPMO-es'
+tags: [ 'aceite','de','oliva', ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

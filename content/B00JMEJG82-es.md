@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JMEJG82-es Pavo 8047222 Caja para llaves de alta seguridad capacidad...'
 sku: 'B00JMEJG82-es'
+tags: [ 'pavo', ]
 actualPrice: 58.23 EUR
 currency: EUR
 price: 58.23

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7R8VQK-es Hero Baby Verduritas de La Huerta Pollo y Ternera - 235 g'
 sku: 'B01K7R8VQK-es'
+tags: [ 'baby','hero', ]
 actualPrice: None None
 currency: None
 price: None

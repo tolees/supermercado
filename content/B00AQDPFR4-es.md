@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AQDPFR4-es L Oréal Paris Infalible 24h pintalabios permanente rosa...'
 sku: 'B00AQDPFR4-es'
+tags: [ 'oréal', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

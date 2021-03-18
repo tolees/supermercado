@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M23UOEA-es Max Factor False Lash Effect Epic Máscara de Pestañas Tono...'
 sku: 'B01M23UOEA-es'
+tags: [ 'factor','max', ]
 actualPrice: 5.74 EUR
 currency: EUR
 price: 5.74

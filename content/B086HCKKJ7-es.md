@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086HCKKJ7-es Ausonia Discreet Boutique Braguitas Para Pérdidas De Orina...'
 sku: 'B086HCKKJ7-es'
+tags: [ 'ausonia', ]
 actualPrice: 18.59 EUR
 currency: EUR
 price: 18.59

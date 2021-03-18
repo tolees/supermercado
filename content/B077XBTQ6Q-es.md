@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XBTQ6Q-es Neutrex Oxy Color Quitamanchas - 2620 ml'
 sku: 'B077XBTQ6Q-es'
+tags: [ 'neutrex', ]
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

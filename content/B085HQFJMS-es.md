@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085HQFJMS-es GLUTEN FREE: JAMÁS TE SERÁ MÁS FÁCIL COCINAR Y COMER SIN...'
 sku: 'B085HQFJMS-es'
+tags: [ 'gluten','sin', ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0001VV5HK-es SOLARAY® B complex 50. 50 VegCaps. Las Vitaminas B...'
 sku: 'B0001VV5HK-es'
+tags: [ 'gluten','sin', ]
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

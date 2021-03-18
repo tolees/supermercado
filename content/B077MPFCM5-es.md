@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MPFCM5-es Chocolates Valor Chocolate Negro 70% con Naranja - 200 gr.'
 sku: 'B077MPFCM5-es'
+tags: [ 'chocolate', ]
 actualPrice: 1.7 EUR
 currency: EUR
 price: 1.7

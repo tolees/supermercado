@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01672RVJM-es Alternativa 3 - Azúcar Panela Bio Alternativa 5kg'
 sku: 'B01672RVJM-es'
+tags: [ 'azúcar', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

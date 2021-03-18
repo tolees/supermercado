@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0721QGRJ8-es Magno - Desodorante Spray Black - 150ml Paquete de 6'
 sku: 'B0721QGRJ8-es'
+tags: [ 'desodorante', ]
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

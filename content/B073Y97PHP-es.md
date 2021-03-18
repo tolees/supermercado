@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Purina Felix Fantastic comida para gato  al 13.51 % de descuento'
-date: 2021-03-17 11:02:26
+date: 2021-03-18 12:37:14
 image: 'https://m.media-amazon.com/images/I/511JYQUmxrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B073Y97PHP-es Purina Felix Fantastic comida para gato surtido variado...'
 sku: 'B073Y97PHP-es'
+tags: [ 'Artículos para gatos','Comida húmeda para gatos','Comida para gatos','Productos para mascotas','purina','purina felix', ]
 actualPrice: 13.32 EUR
 currency: EUR
 price: 13.32
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PURINA FELIX'
 buyurl: 'https://www.amazon.es/dp/B073Y97PHP/?tag=tolees-21'
 descuento: '13.51'
-average: '16.7395867768592'
+average: '16.7115573770489'
 ---
 
 Ahora mismo tienes [Purina Felix Fantastic comida para gato surtido variado Pack 44 x 100 g](https://www.amazon.es/dp/B073Y97PHP/?tag=tolees-21) a 13.32 EUR (original: 15.4 EUR) (13.51 %  de descuento) en el siguiente enlace!
@@ -27,9 +28,9 @@ Ahora mismo tienes [Purina Felix Fantastic comida para gato surtido variado Pack
 
 🔎:
 
-- Atún en gelatina
-- Calidad adecuada de la comida garantizada por el fabricante
 - Paquete de 44 unidades
 - Con extractos de proteínas vegetales
+- Calidad adecuada de la comida garantizada por el fabricante
+- Atún en gelatina
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073Y97PHP/?tag=tolees-21)

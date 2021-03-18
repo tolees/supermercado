@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015DTSPWM-es La Toja Balsamo Hidrotermal - 100 ml'
 sku: 'B015DTSPWM-es'
+tags: [ 'la','toja', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

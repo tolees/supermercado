@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Bifemme Jabón árbol del té - 100 gr al 0.00 % de descuento'
-date: 2021-03-17 11:37:52
+date: 2021-03-18 12:18:32
 image: 'https://m.media-amazon.com/images/I/51xQplM8zqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07YQF6XTC-es Bifemme Jabón árbol del té - 100 gr'
 sku: 'B07YQF6XTC-es'
+tags: [ 'Belleza','Jabones faciales','Limpiadores faciales','Productos para el cuidado de la cara','Productos para el cuidado de la piel','bifemme','jabón', ]
 actualPrice: 2.55 EUR
 currency: EUR
 price: 2.55
@@ -27,9 +28,9 @@ Está [Bifemme Jabón árbol del té - 100 gr](https://www.amazon.es/dp/B07YQF6X
 
 ℹ️:
 
+- "Sin conservantes"
+- 100% Biodegradable
 - Jabón árbol del té
 - Elaborado en frío con aceites vegetales (oliva, coco y arroz) ricos en ácidos grasos esenciales, miel y esencias de plantas
-- 100% Biodegradable
-- "Sin conservantes"
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YQF6XTC/?tag=tolees-21)

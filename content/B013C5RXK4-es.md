@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013C5RXK4-es Bolero Bebida Instantánea sin Azúcar Sabor Limón - Paquete...'
 sku: 'B013C5RXK4-es'
+tags: [ 'azúcar', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

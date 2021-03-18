@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWXH9R4-es MONJE DEL CLUNY Vino blanco – Albariño Rias Baixas –...'
 sku: 'B07KWXH9R4-es'
+tags: [ 'blanco','vino', ]
 actualPrice: 89.97 EUR
 currency: EUR
 price: 89.97

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007IQ1VHK-es Nestlé Chocolate con leche con cereales tostados - 100 gr'
 sku: 'B007IQ1VHK-es'
+tags: [ 'chocolate','nestlé', ]
 actualPrice: 0.92 EUR
 currency: EUR
 price: 0.92

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072R2H8DV-es Finish Quantum Regular Pastillas para Lavavajillas - 39...'
 sku: 'B072R2H8DV-es'
+tags: [ 'finish', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

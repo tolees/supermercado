@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGN9B5D-es Fairy Limpieza&Cuidado Rosa y Satén Protege Dermis Líquido...'
 sku: 'B07LGN9B5D-es'
+tags: [ 'fairy', ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

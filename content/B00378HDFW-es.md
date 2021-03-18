@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00378HDFW-es L Oréal Paris Barra de Labios Color Riche Creme 302 Bois...'
 sku: 'B00378HDFW-es'
+tags: [ 'oréal', ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

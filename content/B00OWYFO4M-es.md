@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OWYFO4M-es Purina Friskies en Salsa comida para gato Adulto con...'
 sku: 'B00OWYFO4M-es'
+tags: [ 'atún','friskies','purina', ]
 actualPrice: 22.8 EUR
 currency: EUR
 price: 22.8

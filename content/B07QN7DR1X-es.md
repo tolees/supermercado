@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QN7DR1X-es Rexona Desodorante Antitranspirante Invisible On...'
 sku: 'B07QN7DR1X-es'
+tags: [ 'desodorante','rexona', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

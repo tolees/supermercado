@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087TH3GV5-es Cocoda Dispensador de Desinfectante Manos 350ml...'
 sku: 'B087TH3GV5-es'
+tags: [ 'jabon', ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

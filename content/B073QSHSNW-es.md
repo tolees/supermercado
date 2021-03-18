@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QSHSNW-es L Oréal Paris Make-up designer True Match Corrector Tono...'
 sku: 'B073QSHSNW-es'
+tags: [ 'oréal', ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

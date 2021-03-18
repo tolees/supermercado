@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M6C3PS8-es Maybelline New York The 24 Karat Nudes Paleta de Sombras...'
 sku: 'B01M6C3PS8-es'
+tags: [ 'maybelline', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

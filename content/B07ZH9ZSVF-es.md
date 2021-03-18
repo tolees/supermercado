@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZH9ZSVF-es Blevit Plus Papilla Multicereales Quinoa Bio 1 Unidad 250...'
 sku: 'B07ZH9ZSVF-es'
+tags: [ 'quinoa', ]
 actualPrice: 4.35 EUR
 currency: EUR
 price: 4.35

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XJ2XWSX-es FabQuality Cortador de Verduras Cortador + Pincel + Peeler...'
 sku: 'B06XJ2XWSX-es'
+tags: [ 'zanahorias', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

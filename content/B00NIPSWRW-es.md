@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NIPSWRW-es Oral-B PRO 600 CrossAction Cepillo de dientes eléctrico...'
 sku: 'B00NIPSWRW-es'
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

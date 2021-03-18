@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YZKCJG-es Purina Gourmet Mon Petit comida para gatos Carnes 8 x [6 x...'
 sku: 'B071YZKCJG-es'
+tags: [ 'purina', ]
 actualPrice: 14.65 EUR
 currency: EUR
 price: 14.65

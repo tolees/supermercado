@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XADGT8G-es Colon Detergente polvo azul 44 lavados - 3212 gr'
 sku: 'B00XADGT8G-es'
+tags: [ 'detergente', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

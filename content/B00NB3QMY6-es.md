@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NB3QMY6-es Silicium España Laboratorios Rosa Mosqueta Crema...'
 sku: 'B00NB3QMY6-es'
+tags: [ 'crema','hidratante', ]
 actualPrice: 29.22 EUR
 currency: EUR
 price: 29.22

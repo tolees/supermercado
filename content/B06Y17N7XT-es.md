@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y17N7XT-es Gillette Venus Snap Recambios para Maquinilla'
 sku: 'B06Y17N7XT-es'
+tags: [ 'gillette', ]
 actualPrice: 7.86 EUR
 currency: EUR
 price: 7.86

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086RT3STW-es MovilCom® - Cortador de Verduras | Picadora Manual de...'
 sku: 'B086RT3STW-es'
+tags: [ 'cebolla', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5K2MR9-es Revlon Cuidado del pelo y del cuero cabelludo - 300 ml.'
 sku: 'B07D5K2MR9-es'
+tags: [ 'revlon', ]
 actualPrice: 6.51 EUR
 currency: EUR
 price: 6.51

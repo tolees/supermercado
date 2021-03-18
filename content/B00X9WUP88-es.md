@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9WUP88-es L Oréal Paris Excellence Intense Coloración Tono: 6 66...'
 sku: 'B00X9WUP88-es'
+tags: [ 'oréal', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

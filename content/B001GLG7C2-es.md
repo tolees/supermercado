@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001GLG7C2-es Laphroaig 10 Años Single Malt Escoces Peated Whisky...'
 sku: 'B001GLG7C2-es'
+tags: [ 'whisky', ]
 actualPrice: 38.25 EUR
 currency: EUR
 price: 38.25

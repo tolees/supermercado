@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MU2ZEVO-es Calvé Salsa Cocktail - 225 ml'
 sku: 'B01MU2ZEVO-es'
+tags: [ 'calvé', ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

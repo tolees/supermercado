@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071FMHSSJ-es Olivares de Altomira Aceite Oliva Virgen Extra 500 ml -...'
 sku: 'B071FMHSSJ-es'
+tags: [ 'extra','virgen', ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

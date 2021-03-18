@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HBG3MV-es Ecover Suavizante Manzana Almendra 5 Lt Ecover 1 Unidad...'
 sku: 'B078HBG3MV-es'
+tags: [ 'manzana','suavizante', ]
 actualPrice: 19.35 EUR
 currency: EUR
 price: 19.35

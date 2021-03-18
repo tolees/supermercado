@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWV3K6W-es Chupa Chups Meals Golosinas de Formas y Sabores Variados...'
 sku: 'B07GWV3K6W-es'
+tags: [ 'chupa','chups', ]
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

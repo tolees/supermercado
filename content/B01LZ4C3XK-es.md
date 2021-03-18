@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZ4C3XK-es Nestlé Fitness - Cereales con Chocolate Negro - 4 Paquetes...'
 sku: 'B01LZ4C3XK-es'
+tags: [ 'chocolate','nestlé', ]
 actualPrice: 12.28 EUR
 currency: EUR
 price: 12.28

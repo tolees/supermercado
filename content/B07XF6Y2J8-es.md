@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XF6Y2J8-es Mom Ginebra Premium - 1000 ml'
 sku: 'B07XF6Y2J8-es'
+tags: [ 'ginebra', ]
 actualPrice: 20.62 EUR
 currency: EUR
 price: 20.62

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UCC2O7I-es Finish Powerball All in 1 Max - Pastillas para el...'
 sku: 'B00UCC2O7I-es'
+tags: [ 'finish', ]
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CRTVW2R-es Philips Sonicare ProtectiveClean 4300 HX6809/34 Pack Doble...'
 sku: 'B07CRTVW2R-es'
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

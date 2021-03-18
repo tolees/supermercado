@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6NCXX6-es Gliss - Champú Fiber Therapy para cabello sobreprocesado...'
 sku: 'B07P6NCXX6-es'
+tags: [ 'champú','schwarzkopf', ]
 actualPrice: 13.56 EUR
 currency: EUR
 price: 13.56

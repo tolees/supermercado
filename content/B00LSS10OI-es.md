@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LSS10OI-es Bolero Bebida Instantánea sin Azúcar Sabor Papaya -...'
 sku: 'B00LSS10OI-es'
+tags: [ 'azúcar', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

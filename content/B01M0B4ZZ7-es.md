@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0B4ZZ7-es Voll-Damm Cerveza Doble Malta - Pack de 12 Latas 33cl'
 sku: 'B01M0B4ZZ7-es'
+tags: [ 'cerveza', ]
 actualPrice: 8.56 EUR
 currency: EUR
 price: 8.56

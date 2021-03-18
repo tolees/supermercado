@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9RN47W-es Cepillo de dientes eléctrico Ctbd Cepillo de dientes...'
 sku: 'B07V9RN47W-es'
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

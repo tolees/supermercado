@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDM537M-es Maybelline New York Fit Me Blush Colorete en Polvo Mate...'
 sku: 'B07PDM537M-es'
+tags: [ 'maybelline', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

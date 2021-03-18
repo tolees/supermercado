@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPK9PFP-es Ruavieja Licor de Hierbas - 1000 ml'
 sku: 'B07VPK9PFP-es'
+tags: [ 'ruavieja', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

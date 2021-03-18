@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WHRCF7U-es NIVEA SUN Protege & Hidrata Leche Solar FP30 1 x 400 ml...'
 sku: 'B00WHRCF7U-es'
+tags: [ 'nivea', ]
 actualPrice: 11.35 EUR
 currency: EUR
 price: 11.35

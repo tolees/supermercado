@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071Z56SNW-es Neutrogena - Hidratación profunda spray corporal express...'
 sku: 'B071Z56SNW-es'
+tags: [ 'neutrogena', ]
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

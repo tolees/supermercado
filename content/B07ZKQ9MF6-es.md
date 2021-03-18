@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKQ9MF6-es Herbal Essences Bio:Renew Repara Con Aceite De Argán De...'
 sku: 'B07ZKQ9MF6-es'
+tags: [ 'champú', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

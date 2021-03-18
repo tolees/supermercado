@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZ2HLPG-es Denivit Anti-manchas Intensivo Dentífrico con Flour de Uso...'
 sku: 'B01LZ2HLPG-es'
+tags: [ 'dentífrico', ]
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

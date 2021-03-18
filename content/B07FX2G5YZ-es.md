@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FX2G5YZ-es Gladium Viñas Viejas Vino tinto Crianza - Paquete de 6 x...'
 sku: 'B07FX2G5YZ-es'
+tags: [ 'tinto','vino', ]
 actualPrice: 32.52 EUR
 currency: EUR
 price: 32.52

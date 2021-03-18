@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VH2JN6M-es Rockport Perth Boat Shoe Náuticos para Hombre Azul Marino...'
 sku: 'B07VH2JN6M-es'
+tags: [ 'chocolate', ]
 actualPrice: None None
 currency: None
 price: None

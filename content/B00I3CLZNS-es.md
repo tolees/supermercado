@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I3CLZNS-es Gold Gin 999.9 Ginebra Premium de Cítricos - 700 ml'
 sku: 'B00I3CLZNS-es'
+tags: [ 'ginebra', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

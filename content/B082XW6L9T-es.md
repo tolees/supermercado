@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XW6L9T-es Hoomtaook Estanteria Ducha Estanteria Baño Para de Baño...'
 sku: 'B082XW6L9T-es'
+tags: [ 'jabón', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

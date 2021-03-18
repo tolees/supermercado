@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FGGP5CP-es Diadermine Expert Rejuvenecedor crema de día crema de...'
 sku: 'B07FGGP5CP-es'
+tags: [ 'diadermine', ]
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

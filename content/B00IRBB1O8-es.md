@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IRBB1O8-es Cartier - La Panthère Gel de ducha'
 sku: 'B00IRBB1O8-es'
+tags: [ 'de','ducha','gel', ]
 actualPrice: 29.31 EUR
 currency: EUR
 price: 29.31

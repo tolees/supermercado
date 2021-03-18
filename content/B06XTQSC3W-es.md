@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XTQSC3W-es Paternina Verdejo D.O. Rueda Vino blanco - 6 botellas x...'
 sku: 'B06XTQSC3W-es'
+tags: [ 'blanco','vino', ]
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079H8LMY9-es Philips Sonicare ProtectiveClean 6100 HX6871/47 - Cepillo...'
 sku: 'B079H8LMY9-es'
+tags: [ 'cepillo','de','dientes', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

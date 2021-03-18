@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DBSDD5S-es Glucosamina Complex con Condroitina MSM Boswellia y...'
 sku: 'B07DBSDD5S-es'
+tags: [ 'gluten','sin', ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

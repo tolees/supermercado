@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NGZNFNX-es Maybelline New York - Superstay 7Days 887 All Day Plum...'
 sku: 'B01NGZNFNX-es'
+tags: [ 'maybelline', ]
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

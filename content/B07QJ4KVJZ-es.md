@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJ4KVJZ-es L Oréal Paris Magic Retouch Spray Retoca Raíces y Canas...'
 sku: 'B07QJ4KVJZ-es'
+tags: [ 'oréal', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

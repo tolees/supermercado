@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004EPYETU-es Scitec Nutrition 100% Whey Protein Proteína Chocolate...'
 sku: 'B004EPYETU-es'
+tags: [ 'chocolate', ]
 actualPrice: 34.01 EUR
 currency: EUR
 price: 34.01

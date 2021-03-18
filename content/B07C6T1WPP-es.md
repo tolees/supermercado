@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C6T1WPP-es Marca Amazon- Solimo Cápsulas Classic compatibles con...'
 sku: 'B07C6T1WPP-es'
+tags: [ 'café','solimo', ]
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

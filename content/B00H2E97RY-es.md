@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H2E97RY-es Weider 40% Protein Low Carb. Barrita alto contenido en...'
 sku: 'B00H2E97RY-es'
+tags: [ 'chocolate', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

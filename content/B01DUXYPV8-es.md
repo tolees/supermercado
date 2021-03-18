@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DUXYPV8-es Central Lechera Asturiana - Nata Montada Azucarada para...'
 sku: 'B01DUXYPV8-es'
+tags: [ 'central','lechera', ]
 actualPrice: None None
 currency: None
 price: None
@@ -27,9 +28,9 @@ En este momento está [Central Lechera Asturiana - Nata Montada Azucarada para M
 
 🔎:
 
-- España
 - Nata (leche), azúcar (8,5%), emulgente (E-472b), corrector de acidez (E-339), estabilizante (E-407), gas propelente (N2O)
-- Agitar fuertemente antes de usar , 2 o 3 segundos.
 - Leche UHT
+- España
+- Agitar fuertemente antes de usar , 2 o 3 segundos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01DUXYPV8/?tag=tolees-21)

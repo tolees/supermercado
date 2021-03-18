@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2QDWDC-es L Oréal Paris Total Cover Base Maquillaje Cobertura Total...'
 sku: 'B01N2QDWDC-es'
+tags: [ 'oréal', ]
 actualPrice: 9.07 EUR
 currency: EUR
 price: 9.07

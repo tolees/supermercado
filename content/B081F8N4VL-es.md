@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081F8N4VL-es Roku Ginebra + Tónica y Vaso 70 cl'
 sku: 'B081F8N4VL-es'
+tags: [ 'ginebra', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

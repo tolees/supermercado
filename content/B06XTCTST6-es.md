@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XTCTST6-es Neutrogena Loción Corporal Elasticidad Intensa - 2...'
 sku: 'B06XTCTST6-es'
+tags: [ 'neutrogena', ]
 actualPrice: 25.41 EUR
 currency: EUR
 price: 25.41

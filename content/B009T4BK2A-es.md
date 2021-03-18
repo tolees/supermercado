@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009T4BK2A-es One Key Ginebra - 700 ml'
 sku: 'B009T4BK2A-es'
+tags: [ 'ginebra', ]
 actualPrice: 31.13 EUR
 currency: EUR
 price: 31.13

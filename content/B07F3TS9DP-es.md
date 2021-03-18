@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3TS9DP-es Bonsenkitchen Cortador de Verduras en Espiral...'
 sku: 'B07F3TS9DP-es'
+tags: [ 'spaghetti', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
