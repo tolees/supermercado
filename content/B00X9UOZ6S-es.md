@@ -28,10 +28,10 @@ Está [Vernel Suavizante Lavadora Concentrado Cielo Azul - 57 Lavados  1.140 l](
 
 ℹ️:
 
+- Vernel Cielo Azul está dermatológicamente aprobado
+- Pack eco-sostenible que facilita el reciclaje -botella hecha con 100% plástico reciclado
+- La fórmula especialmente desarrollada contiene cápsulas de perfume Duo-Cap únicas que se activan con cada movimiento y liberan un aroma adicional incluso días después del lavado
 - La cremosa fórmula garantiza una suavidad increíble para tu ropa, protege las fibras y facilita el planchado
 - Disfruta de una experiencia aromática que dura hasta 200 días (en ropa guardada en el armario) y le da a tu ropa la sensación de frescor como recién lavado
-- Vernel Cielo Azul está dermatológicamente aprobado
-- La fórmula especialmente desarrollada contiene cápsulas de perfume Duo-Cap únicas que se activan con cada movimiento y liberan un aroma adicional incluso días después del lavado
-- Pack eco-sostenible que facilita el reciclaje -botella hecha con 100% plástico reciclado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00X9UOZ6S/?tag=tolees-21)
