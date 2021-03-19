@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Elena Detergente para lavadora  frescor '
-date: 2021-03-12 22:12:45
+date: 2021-03-19 04:44:12
 image: 'https://m.media-amazon.com/images/I/51zcMp7Sq9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAEBVEC-es Elena Detergente para lavadora frescor colonia adecuado...'
 sku: 'B00XAEBVEC-es'
+tags: [ 'Cuidado y limpieza del hogar','Detergente líquido para textiles','Industria, empresas y ciencia','Productos para la lavandería','Salud y cuidado personal','detergente','elena', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95
@@ -27,10 +28,10 @@ Tienes [Elena Detergente para lavadora  frescor colonia  adecuado para ropa blan
 
 ℹ️:
 
-- Eficaz en agua fría y ciclos cortos
-- Elena, la eficacia que sorprende
-- Detergente para la lavadora en formato gel líquido
 - Apto para ropa blanca y de color
+- Elena, la eficacia que sorprende
+- Eficaz en agua fría y ciclos cortos
+- Detergente para la lavadora en formato gel líquido
 - Poder antimanchas testado en 101 manchas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAEBVEC/?tag=tolees-21)

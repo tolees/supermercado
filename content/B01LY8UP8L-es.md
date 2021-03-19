@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Conservas Dantza Melocotón - 420 gr con un 0.00 % de descuento'
-date: 2021-03-18 04:25:33
+date: 2021-03-19 04:43:19
 image: 'https://m.media-amazon.com/images/I/41Ftit9a1nL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01LY8UP8L-es Conservas Dantza Melocotón - 420 gr'
 sku: 'B01LY8UP8L-es'
+tags: [ 'Alimentación y bebidas','Conservas','Conservas de fruta','conservas','conservas dantza','melocotón', ]
 actualPrice: 1.15 EUR
 currency: EUR
 price: 1.15
@@ -27,9 +28,9 @@ En este momento está [Conservas Dantza Melocotón - 420 gr](https://www.amazon.
 
 🔎:
 
-- 420 gr
-- Melocotón en almíbar ligero
-- facil de usar
 - Abrir y consumir
+- facil de usar
+- Melocotón en almíbar ligero
+- 420 gr
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LY8UP8L/?tag=tolees-21)
