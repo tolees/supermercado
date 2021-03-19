@@ -29,9 +29,9 @@ Tienes [Instituto Español - Poseidon Gold Eau de Toilette para Hombre - 150 ML]
 🔎:
 
 - Gran durabilidad.
-- Fabricado por Instituto Español, expertos perfumistas desde 1903.
-- Dirigido a un hombre moderno y elegante.
-- Eau de Toilette 150 ml.
 - Disfruta de un aroma sofisticado y armonioso.
+- Dirigido a un hombre moderno y elegante.
+- Fabricado por Instituto Español, expertos perfumistas desde 1903.
+- Eau de Toilette 150 ml.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XAIT9NI/?tag=tolees-21)
