@@ -29,10 +29,10 @@ Tienes [Nestlé Nidina Confort Digest 1 Leche para Lactantes en Polvo  Fórmula 
 🔎:
 
 - Fórmula espesada y con FOS/GOS.
-- Leche para bebés espesada con ácidos grasos poliinsaturados de cadena larga y nucleótidos.
 - Leche para lactantes NIDINA, fórmula infantil especialmente desarrollada para bebés con trastornos digestivos leves desde el primer día.
-- NOTA IMPORTANTE: La leche materna es la mejor para los bebés. Antes de utilizar una fórmula infantil conviene consultar a tu profesional de la salud.
 - Fórmula infantil que contiene START PLUS con Bífidus Lactis.
+- Leche para bebés espesada con ácidos grasos poliinsaturados de cadena larga y nucleótidos.
+- NOTA IMPORTANTE: La leche materna es la mejor para los bebés. Antes de utilizar una fórmula infantil conviene consultar a tu profesional de la salud.
 - NESTLÉ experto en nutrición infantil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LZEK5C4/?tag=tolees-21)

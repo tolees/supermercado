@@ -28,8 +28,8 @@ Tienes [Marcilla Café Natural para máquina Senseo - 5 paquetes de 28 monodosis
 
 ℹ️:
 
-- Monodosis compatibles con las máquinas de café SENSEO
 - 100% café de tueste natural
+- Monodosis compatibles con las máquinas de café SENSEO
 - 140 monodosis repartidas en 5 paquetes de 28 monodosis cada uno. Peso neto de 1 paquete: 194 g. Total 5 paquetes = 1970gr
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07GSZ9WR5/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Cardenal Mendoza Brandy de Jerez Lujo - 700 ml](https://www.amazon.es/dp
 
 ℹ️:
 
-- Solera Gran Reserva
 - Caoba oscuro, transparente, brillante, atrayente
+- Solera Gran Reserva
 - Capacidad: 70CL
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AXKQCHC/?tag=tolees-21)

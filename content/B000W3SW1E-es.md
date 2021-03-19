@@ -28,10 +28,10 @@ Está [Max Factor Lasting Performance Base de Maquillaje Líquida Tono 102 Paste
 
 ℹ️:
 
-- Base de maquillaje líquida
-- No obstruye los poros
 - Sensación ligera
+- Base de maquillaje líquida
 - A prueba de roces, a prueba del día a día
+- No obstruye los poros
 - Sin aceite, sin fragancia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000W3SW1E/?tag=tolees-21)
