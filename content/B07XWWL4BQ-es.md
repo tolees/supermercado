@@ -28,9 +28,9 @@ Tienes [Café de Etiopía en grano Consuelo  2 paquetes de 1 kg](https://www.ama
 
 🔎:
 
-- Un café aromático con una crema de bonito color avellana, sabor intenso y sutiles notas cítricas
-- Para cafeteras y molinillos automáticos
 - Composición: granos 100 % arábica especialmente seleccionados
+- Para cafeteras y molinillos automáticos
+- Un café aromático con una crema de bonito color avellana, sabor intenso y sutiles notas cítricas
 - Tostado y envasado en Italia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XWWL4BQ/?tag=tolees-21)
