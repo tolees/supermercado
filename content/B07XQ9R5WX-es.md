@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 16.25 % en Somat Abrillantador Lavavajillas Limón 5'
-date: 2021-03-18 18:00:16
+date: 2021-03-19 19:59:22
 image: 'https://m.media-amazon.com/images/I/41r3ujrCr3L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Somat'
 buyurl: 'https://www.amazon.es/dp/B07XQ9R5WX/?tag=tolees-21'
 descuento: '16.25'
-average: '3.18333333333333'
+average: '3.13499999999999'
 ---
 
 Tienes [Somat Abrillantador Lavavajillas Limón 500ml](https://www.amazon.es/dp/B07XQ9R5WX/?tag=tolees-21) con un 16.25 % de descuento con precio de oferta de 2.99 EUR (original: 3.57 EUR) en el siguiente enlace!
