@@ -29,7 +29,7 @@ Está [La Bonne Graine Aps - Ralladora Giratoria Ø22x7cm Queso Aps](https://www
 ℹ️:
 
 - Capture de fritos flores de cabeza de monje como en casa el fromager.
-- Se usa también con del chocolate o de mantequilla
 - Bandeja de madera Ø 22 cm x 17 cm
+- Se usa también con del chocolate o de mantequilla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001TUXTOE/?tag=tolees-21)
