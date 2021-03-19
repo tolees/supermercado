@@ -28,10 +28,10 @@ Está [L Oreal Paris - L Oréal Paris Elvive Dream Long Rapid Reviver  Mascarill
 
 ℹ️:
 
-- Especial cabellos largos
-- Aplicar en pelo húmedo de medios a puntas después del champú, luego aclarar inmediatamente
 - Mascarillas instantáneas que reviven tu pelo en 1 segundo
+- Especial cabellos largos
 - Enriquecido con aminoácido y aceite de ricino
 - Pack de 180 ml
+- Aplicar en pelo húmedo de medios a puntas después del champú, luego aclarar inmediatamente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YQD2G61/?tag=tolees-21)

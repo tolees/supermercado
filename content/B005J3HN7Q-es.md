@@ -28,8 +28,8 @@ Ahora mismo tienes [Mentos - Boîte de 40 rouleaux - goût Pomme](https://www.am
 
 🔎:
 
+- Mentos manzana verde
 - Lo que tiene un fresco Manzanas con Mentos juntos este tracto urinario? los correcto jugoso sabor.
 - Just natural – sólo colorantes naturales y aromas
-- Mentos manzana verde
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005J3HN7Q/?tag=tolees-21)

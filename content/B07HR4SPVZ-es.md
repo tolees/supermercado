@@ -28,10 +28,10 @@ Tienes [Melitta Jarra de Porcelana para Café Pour Over  Tapa Superior  Asa Late
 
 🔎:
 
-- Asa lateral y tapa superior para un fácil manejo.
 - Apta para lavar en el lavavajillas y calentar en el microondas.
-- Resistente al calor y sin riesgo de roturas.
 - Jarra para café fabricado en porcelana de alta calidad.
 - A juego con los portafiltros Melitta de cualquier tamaño.
+- Resistente al calor y sin riesgo de roturas.
+- Asa lateral y tapa superior para un fácil manejo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HR4SPVZ/?tag=tolees-21)

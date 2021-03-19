@@ -28,10 +28,10 @@ Está [CAMPOS Conserva de atún en aceite de girasol - lata oval de 220 gr](http
 
 ℹ️:
 
-- Práctica lata individual de 220 g peso neto con tapa fácil apertura
-- Lata ideal para consumo 2/4 personas dependiendo de su uso
-- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - País de origen: españa, producto natural sin conservantes ni colorantes
+- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - Conserva de atún en aceite de girasol
+- Lata ideal para consumo 2/4 personas dependiendo de su uso
+- Práctica lata individual de 220 g peso neto con tapa fácil apertura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NRQ6XQD/?tag=tolees-21)

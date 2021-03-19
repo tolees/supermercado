@@ -28,10 +28,10 @@ Está [Jim Beam Double Oak Twice Barreled Bourbon Whisky  43% - 700 ml](https://
 
 ℹ️:
 
-- Durante sus 7 generaciones, los maestros de la familia Beam se han dedicado a innovar y explorar el mundo del bourbon
-- La segunda maduración le confiriere un intenso aroma a madera y vainilla, y una complejidad en boca inigualables
 - Un bourbon añejado durante 4 años y posteriormente transferido a una nueva barrica de roble carbonizado para una segunda maduración
-- Sabor: fuerte a caramelo y tofi, con particulares matices de roble
+- La segunda maduración le confiriere un intenso aroma a madera y vainilla, y una complejidad en boca inigualables
+- Durante sus 7 generaciones, los maestros de la familia Beam se han dedicado a innovar y explorar el mundo del bourbon
 - Se utilizan barriles nuevos de roble americano carbonizados al estilo "Aligator Char"
+- Sabor: fuerte a caramelo y tofi, con particulares matices de roble
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CZSOAJG/?tag=tolees-21)
