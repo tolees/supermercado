@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Pasticceria Passerini dal 1919 Cesta de  al 0.00 % de rebaja'
-date: 2021-03-18 05:13:59
+date: 2021-03-19 20:39:21
 image: 'https://m.media-amazon.com/images/I/51MJq2p0-1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08KLQ4XDN-es Pasticceria Passerini dal 1919 Cesta de Navidad con 4...'
 sku: 'B08KLQ4XDN-es'
+tags: [ 'Alimentación y bebidas','Cestas regalo y regalos gourmet','cesta','de','navidad','pasticceria passerini dal 1919', ]
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9
@@ -28,9 +29,9 @@ Tienes [Pasticceria Passerini dal 1919 Cesta de Navidad con 4 Panettones Italian
 🔎:
 
 - En esta ocasión os proponemos una cesta muy dulce, formada por un surtido de panettones italianos
+- La cesta de mimbre que custodia el lote de productos mide 58x27,5x36 cm y está incluida en el precio
 - Podrás utilizarla como baúl para guardar manteles y servilletas e incluso como cesta de picnic 🌿
 - Si hay un regalo infalible, que siempre hace ilusión, es una cesta de productos gastronómicos 🎁
 - ✔️ 1 Panettone clásico ✔️1 Panettone de 3 chocolates ✔️1 Pandoro ✔️1 Veneziana
-- La cesta de mimbre que custodia el lote de productos mide 58x27,5x36 cm y está incluida en el precio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KLQ4XDN/?tag=tolees-21)

@@ -28,13 +28,13 @@ Ahora mismo tienes [Nave Sur Verdejo Vino Blanco D. O Rueda - 6 Botellas de 750 
 
 🔎:
 
-- Maridaje: Carnes blancas ensaladas y atún.
-- Alérgenos: Contiene sulfitos
-- Color limón con reflejos acerados.
-- En nariz es aromático, afrutado y suave.
-- Temperatura de servicio: 6 – 8ºC.
-- En boca con buena estructura y complejidad
-- D.O. Rueda
 - Elaborado a partir de una selección de verdejos provenientes de la zona de Valladolid, con suelo cascajoso. Vendimia nocturna mecanizada. Fermentación en depósito de acero inoxidable. Temperatura de fermentación: 15ºC. Duración de la fermentación 21 días. Maceración en frío: 4 horas 6ºC.
+- D.O. Rueda
+- En boca con buena estructura y complejidad
+- Maridaje: Carnes blancas ensaladas y atún.
+- En nariz es aromático, afrutado y suave.
+- Color limón con reflejos acerados.
+- Alérgenos: Contiene sulfitos
+- Temperatura de servicio: 6 – 8ºC.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S2RLBMF/?tag=tolees-21)
