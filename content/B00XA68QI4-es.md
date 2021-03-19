@@ -28,11 +28,11 @@ Tienes [Ariel Detergente en Polvo para Lavadora  Original  Lavados  Blanco  Wild
 
 🔎:
 
-- Blancos brillantes
-- Ingredientes: Phosphonates, 15-30% Oxygen-Based Bleaching Agents, 5-15% Anionic Surfactants, 5% Non-Ionic Surfactants, Polycarboxylates, Zeolites, Enzymes, Optical Brighteners, Perfumes, Coumarin, Geraniol, Hexyl Cinnamal
-- Ayuda a despegar las manchas resecas
-- Elimina las manchas a 30.c
 - El polvo se disuelve rápidamente y no deja residuos en las prendas
 - Nombre de la fragancia: Wildflower
+- Ayuda a despegar las manchas resecas
+- Blancos brillantes
+- Ingredientes: Phosphonates, 15-30% Oxygen-Based Bleaching Agents, 5-15% Anionic Surfactants, 5% Non-Ionic Surfactants, Polycarboxylates, Zeolites, Enzymes, Optical Brighteners, Perfumes, Coumarin, Geraniol, Hexyl Cinnamal
+- Elimina las manchas a 30.c
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XA68QI4/?tag=tolees-21)

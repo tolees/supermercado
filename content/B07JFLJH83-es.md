@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Cestas de Navidad - Lotes de Navidad - L con un 0.00 % de descuento'
-date: 2021-03-17 22:55:14
+date: 2021-03-19 05:54:16
 image: 'https://m.media-amazon.com/images/I/51FGrEDoZ9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07JFLJH83-es Cestas de Navidad - Lotes de Navidad - Lote de Embutidos y...'
 sku: 'B07JFLJH83-es'
+tags: [ 'Alimentación y bebidas','Cestas regalo y regalos gourmet','degusta teruel','queso', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95
@@ -27,7 +28,7 @@ En este momento está [Cestas de Navidad - Lotes de Navidad - Lote de Embutidos 
 
 🔎:
 
-- Pueblo
 - Artesano
+- Pueblo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JFLJH83/?tag=tolees-21)

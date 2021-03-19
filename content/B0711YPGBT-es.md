@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Dibaq Salchichas perrynat higado y Buey  al 0.00 % de descuento'
-date: 2021-03-17 16:49:46
+date: 2021-03-19 05:06:14
 image: 'https://m.media-amazon.com/images/I/41Fkkbo7cCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0711YPGBT-es Dibaq Salchichas perrynat higado y Buey - 1000 gr'
 sku: 'B0711YPGBT-es'
+tags: [ 'Artículos para perros','Comida húmeda para perros','Comida para perros','Productos para mascotas','dibaq','salchichas', ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79
@@ -27,9 +28,9 @@ Está [Dibaq Salchichas perrynat higado y Buey - 1000 gr](https://www.amazon.es/
 
 ℹ️:
 
+- Receta original
 - Vitamina a y e, combinación ideal para pelo y piel.
 - Equilibrado en hierro y calcio, para conseguir unos huesos y musculos sanos y fuertes.
-- Receta original
 - Sabrosa y deliciosas porciones para el paladar más exigente de los cachorros
 - Hígado de buey, para una regeneración celular sanguinea idonea.
 
