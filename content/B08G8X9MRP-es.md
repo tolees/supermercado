@@ -28,15 +28,15 @@ Tienes [Marca Amazon - Happy Belly Ristretto Café molido de tueste natural en c
 
 🔎:
 
-- Notas de cacao, especias y pimienta, tueste fuerte, duradero, toque de acidez
-- Cápsulas Ristretto. El envase contiene 6 x 20 (120) porciones
-- Apto para dietas vegetarianas y veganas
 - Café de fuera de la UE. Tostado y envasado en Bélgica
-- Nespresso es una marca registrada por Nestlé Nespresso S.A
-- Gracias al aluminio, nuestras cápsulas resultan perfectamente herméticas y garantizan una óptima conservación del aroma y sabor del café
-- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
-- 85% Arabica- 15% Robusta. Intensidad: 5/5
-- El café en este producto proviene de fincas certificadas Rainforest Alliance
 - Envasado en atmósfera protectora para mantener su frescura.. Conservar en un lugar fresco y seco
+- Cápsulas Ristretto. El envase contiene 6 x 20 (120) porciones
+- 85% Arabica- 15% Robusta. Intensidad: 5/5
+- Apto para dietas vegetarianas y veganas
+- Gracias al aluminio, nuestras cápsulas resultan perfectamente herméticas y garantizan una óptima conservación del aroma y sabor del café
+- El café en este producto proviene de fincas certificadas Rainforest Alliance
+- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
+- Notas de cacao, especias y pimienta, tueste fuerte, duradero, toque de acidez
+- Nespresso es una marca registrada por Nestlé Nespresso S.A
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08G8X9MRP/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Colon Limpialavadoras - Limpiador lavadora y antiolor - mega
 
 🔎:
 
-- Ofrece un funcionamiento óptimo de la lavadora, la protege y ofrece un extra de frescor
-- Limpia y elimina los residuos de suciedad y detergente de toda la parte interna de la lavadora
-- Descubre los detergentes Colon y el resto de limpialavadoras para una colada óptima
-- Deja un agradable y fresco aroma, eliminando los malos olores
 - Limpiador y elimina olores para lavadoras en formato líquido
+- Ofrece un funcionamiento óptimo de la lavadora, la protege y ofrece un extra de frescor
+- Deja un agradable y fresco aroma, eliminando los malos olores
+- Descubre los detergentes Colon y el resto de limpialavadoras para una colada óptima
+- Limpia y elimina los residuos de suciedad y detergente de toda la parte interna de la lavadora
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07V9NVL52/?tag=tolees-21)

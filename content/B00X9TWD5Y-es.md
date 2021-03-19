@@ -28,11 +28,11 @@ Tienes [Garnier Olia coloración permanente sin amoniaco para un olor agradable 
 
 ℹ️:
 
-- Garnier Olia coloración permanente con aceites florales de origen natural, sin amoniaco para un olor agradable y respeto del cuero cabelludo
-- Hasta el 100% cobertura de canas
-- Añada una pequeña cantidad de agua sobre el cabello y masajee de nuevo; aclare abundantemente el cabello
 - Mejora visiblemente la calidad del cabello, 100% cobertura de canas y máxima eficacia del color
-- Coloración permanente potenciada por 60% de aceite; cuidado intenso, no reseca
+- Añada una pequeña cantidad de agua sobre el cabello y masajee de nuevo; aclare abundantemente el cabello
+- Garnier Olia coloración permanente con aceites florales de origen natural, sin amoniaco para un olor agradable y respeto del cuero cabelludo
 - Aplique el producto sobre el cabello seco sin lavar. Masajee el producto sobre su cabello y deje actuar 30 minutos
+- Coloración permanente potenciada por 60% de aceite; cuidado intenso, no reseca
+- Hasta el 100% cobertura de canas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00X9TWD5Y/?tag=tolees-21)
