@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Purina Friskies Comida para Gato  400gr con un 0.00 % de descuento'
-date: 2021-03-10 03:14:29
+date: 2021-03-20 00:48:51
 image: 'https://m.media-amazon.com/images/I/41vyJVae7fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9YI3FI-es Purina Friskies Comida para Gato 400gr'
 sku: 'B00X9YI3FI-es'
+tags: [ 'Artículos para gatos','Comida para gatos','Comida seca para gatos','Productos para mascotas','friskies','purina', ]
 actualPrice: 1.1 EUR
 currency: EUR
 price: 1.1
