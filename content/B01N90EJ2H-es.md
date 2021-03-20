@@ -28,9 +28,9 @@ Ahora mismo tienes [Royal levadura en polvo 900 g.peso neto: 900 g.  - [Pack de 
 
 🔎:
 
+- Contiene: leche
 - Instrucciones de almacenaje: conservar en lugar fresco y seco. Este producto debe cocinarse antes de ser consumido
 - Levadura química en polvo. Destinado a la alimentación
 - Contenido de 900 gramos
-- Contiene: leche
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N90EJ2H/?tag=tolees-21)
