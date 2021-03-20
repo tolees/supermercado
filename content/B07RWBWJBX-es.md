@@ -28,8 +28,8 @@ Ahora mismo tienes [Finish Pastilles Lave-Vaisselle Powerball All in One Max Tac
 
 🔎:
 
-- La potente limpieza elimina hasta las manchas de té.
 - Poder desengrasante y elimina residuos de comida incrustada.
+- La potente limpieza elimina hasta las manchas de té.
 - Función de sal y función de brillo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RWBWJBX/?tag=tolees-21)
