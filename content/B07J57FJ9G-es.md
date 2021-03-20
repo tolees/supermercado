@@ -29,8 +29,8 @@ Tienes [ABAKUHAUS Divertido Cortina de Baño  Bulldog Francés Sosteniendo Marti
 🔎:
 
 - BRINDA GRAN PERSPECTIVA - Gráficos llamativos estampados con tecnología diigital de avanzada.
-- RESISTENTE AL AGUA - Repele moho y jabón, no vinílico, No PEVA, Amigable con el Medio Ambiente
 - 175 CM ANCHO x 200 CM ALTO Tela turca de alta calidad, no necesita forro, incluye ganchos gratis
+- RESISTENTE AL AGUA - Repele moho y jabón, no vinílico, No PEVA, Amigable con el Medio Ambiente
 - APTO LAVADORA – Colores vibrantes, imágen nitida, durable, sin tinturas nocivas para la salud
 - DISEÑO DE AUTOR - No es una cortina de baño común y corriente. Única. Original. DIVERTIDA.
 
