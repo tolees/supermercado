@@ -28,10 +28,10 @@ Tienes [Marca Amazon - Happy Belly Select Té verde helado   12 x 500 ml](htt
 
 ℹ️:
 
-- Paquete de 12 botellas de 500 ml
-- Apto para vegetarianos y veganos
-- Elaborado con té recién hecho para un sabor más intenso
-- Sin colorantes, aromatizantes o conservantes artificiales
 - Con té cultivado por agricultores con certificado UTZ
+- Elaborado con té recién hecho para un sabor más intenso
+- Paquete de 12 botellas de 500 ml
+- Sin colorantes, aromatizantes o conservantes artificiales
+- Apto para vegetarianos y veganos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07N95RCXW/?tag=tolees-21)
