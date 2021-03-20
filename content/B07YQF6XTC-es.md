@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bifemme Jabón árbol del té - 100 gr al 0.00 % de descuento'
-date: 2021-03-19 13:03:12
+date: 2021-03-20 13:41:51
 image: 'https://m.media-amazon.com/images/I/51xQplM8zqL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Bifemme Jabón árbol del té - 100 gr](https://www.amazon.es/dp/B07YQF6X
 
 ℹ️:
 
-- "Sin conservantes"
 - Jabón árbol del té
+- "Sin conservantes"
 - Elaborado en frío con aceites vegetales (oliva, coco y arroz) ricos en ácidos grasos esenciales, miel y esencias de plantas
 - 100% Biodegradable
 
