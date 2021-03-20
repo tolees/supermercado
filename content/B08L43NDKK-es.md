@@ -30,8 +30,8 @@ En este momento está [Lavazza Café Molido Crema e Gusto Classico 250 g](https:
 
 - Lavazza café molido Crema e Gusto Classico, 250 g
 - Un equilibrio perfecto entre cuerpo y notas especiadas. El café ideal para cualquier hora del día
-- Crema e Gusto Classico es un blend suave y envolvente de la excelente variedad Arábica de Brasil y la Robusta del sudeste asiático
 - Arábica y Robusta, tostado oscuro, media intensidad (7)
 - MIRAR Crema ámbar y color oscuro - AROMA Notas especiadas - SABOR Redondo y envolvente
+- Crema e Gusto Classico es un blend suave y envolvente de la excelente variedad Arábica de Brasil y la Robusta del sudeste asiático
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L43NDKK/?tag=tolees-21)
