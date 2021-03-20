@@ -28,12 +28,12 @@ En este momento está [Lázaro Bizcocho Marmol Calado 350 g  Bizcocho Artesanal 
 
 🔎:
 
-- Envase de 350g manejable que podrá volver a cerrar después de abierto para su perfecta conservación en el tiempo.
+- Es un bizcocho jugoso y específicamente elaborado para aquellos que quieren disfrutar del buen cacao y que invita a repetir.
+- Ofrece un aspecto y aroma que despierta la curiosidad del consumidor por su atractiva textura
+- SIN ACEITE DE PALMA
 - El efecto Marmolado de los bizcochos se consigue uniendo Bizcocho de chocolate con bizcocho original y moviéndolo con un utensilio así se consigue ese efecto al que llamamos marmol.
 - Este producto esta Calado (Borracho) con un Almíbar que nosotros mismos elaboramos de manera Artesanal en nuestra pastelería y que le aporta una textura jugosa Especialmente pensado para los que quieren disfrutar de un buen dulce.
-- SIN ACEITE DE PALMA
-- Ofrece un aspecto y aroma que despierta la curiosidad del consumidor por su atractiva textura
+- Envase de 350g manejable que podrá volver a cerrar después de abierto para su perfecta conservación en el tiempo.
 - Receta tradicional con las mejores materias primas.
-- Es un bizcocho jugoso y específicamente elaborado para aquellos que quieren disfrutar del buen cacao y que invita a repetir.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077SZSZ93/?tag=tolees-21)
