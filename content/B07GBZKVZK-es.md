@@ -28,10 +28,10 @@ Ahora mismo tienes [Tahe Ionic Lumière Mascarilla Capilar/Mascarilla de Color d
 
 🔎:
 
-- Debido a su formulación, IONIC sólo actúa sobre cabellos procesados químicamente (tinte, tono/tono, mechas, decoloración, permanente, color de contraste, super-aclarantes y desrizantes)
-- Tamaños Disponibles: 100 ml
-- Mascarilla capilar de color de pH ácido, que potencia la acción de los colores de oxidación, actuando en sinergia con los mismos
 - Formulación altamente nutriente e hidratante
+- Debido a su formulación, IONIC sólo actúa sobre cabellos procesados químicamente (tinte, tono/tono, mechas, decoloración, permanente, color de contraste, super-aclarantes y desrizantes)
 - Formulación exclusiva de TAHE, rica en extractos vegetales (Salvia Oficinalis, Ácido Cítrico, Bisabolol, Presea Gratísima y Pro-vitamina B5), que hacen de IONIC un producto altamente nutriente e hidratante
+- Mascarilla capilar de color de pH ácido, que potencia la acción de los colores de oxidación, actuando en sinergia con los mismos
+- Tamaños Disponibles: 100 ml
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GBZKVZK/?tag=tolees-21)
