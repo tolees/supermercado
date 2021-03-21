@@ -28,10 +28,10 @@ Está [Colon Detergente para Lavadora de Ropa Formato Liquido Azul Profesional  
 
 ℹ️:
 
-- Detergente lavadora liquido Colon, formato profesional, formato profesional
 - Eficaz incluso en agua fría contra las manchas más difíciles
+- Total 9.8 Kg en 2 botellas, 144 lavados
+- Detergente lavadora liquido Colon, formato profesional, formato profesional
 - Pack ahorro
 - Apto para uso doméstico y profesional
-- Total 9.8 Kg en 2 botellas, 144 lavados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XA6IWOC/?tag=tolees-21)

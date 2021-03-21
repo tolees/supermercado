@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Licor del Polo - Dentífrico Junior 1-6 a al 0.00 % de descuento'
-date: 2021-03-20 01:51:45
+date: 2021-03-21 02:53:01
 image: 'https://m.media-amazon.com/images/I/41Ip4andzfL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Ahora mismo tienes [Licor del Polo - Dentífrico Junior 1-6 años - 3uds de 50ml
 
 - Licor del Polo junior es el dentífrico por excelencia para los niños. Mi primer Licor del Polo 1-6 años es el dentífrico idóneo para los más pequeños
 - La pasta de dientes Licor del Polo júnior proporciona una protección completa contra caries y placa desde la aparición del primer diente
-- Su fórmula enriquecida con flúor y CALCIO+ está especialmente desarrollada para proteger, cuidar y fortalecer los dientes de leche, permitiendo que estos crezcan fuertes y sanos
 - El Calcio+ ayuda a proteger y fortalecer los dientes de leche y a crear la base para unos dientes permanentes sanos
 - Contiene la cantidad de flúor recomendada por dentistas para fortalecer el esmalte dental a esta edad (500 ppm F–)
+- Su fórmula enriquecida con flúor y CALCIO+ está especialmente desarrollada para proteger, cuidar y fortalecer los dientes de leche, permitiendo que estos crezcan fuertes y sanos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NRHKDFL/?tag=tolees-21)

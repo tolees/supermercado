@@ -28,9 +28,9 @@ En este momento está [L Oréal Paris Polvos Compactos Mate Infalible 24H  Larga
 
 🔎:
 
+- Fórmula no comedogénica, Apta para pieles todo tipo de pieles
 - Piel impecable mate durante todo el día, Cobertura media-alta sin efecto máscara, Resistente a roces, agua, calor o humedad
 - Contenido: 1 x Polvos compactos mate de larga duración Infalible 24H LOréal Paris, Tono: 220 Sand, Cantidad: 50 g
-- Fórmula no comedogénica, Apta para pieles todo tipo de pieles
 - Base de maquillaje en polvo para conseguir un acabado mate impecable resistente hasta 24H
 - Aplicar con la esponja en seco como si fuese una base o con la esponja mojada para una cobertura aún mayor
 
