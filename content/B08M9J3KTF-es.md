@@ -28,10 +28,10 @@ En este momento está [Dhohoo Champú acondicionador para Perros para alergias y
 
 🔎:
 
-- 🐩Promueve un cuidado saludable: el aceite de cedro es conocido por limpiar, mejorar la circulación del cuero cabelludo y esto estimula el crecimiento saludable del cabello, dejando el pelo de tu perro brillante y fuerte y combate la pérdida de cabello. Ya no tendrás miedo al barro y la suciedad.
-- 🐕‍🦺Garantía de calidad: como una conocida marca francesa, la dedicación al bienestar de las mascotas garantiza la calidad de los productos. Cada uno de los productos para mascotas está hecho con amor y cuidado para promover el bienestar de las mascotas y ayudar a tus queridos amigos a tener una mente saludable en un cuerpo peludo.
-- 🐕‍🦺Limpieza y protección: el gel de ducha de aceite esencial de citronela, lavanda y cedro tiene un buen efecto de limpieza, puede prevenir la cría de pulgas y ayudar a tu perro a tener una piel saludable.
 - 🐕Fórmula natural: fabricado con aceites esenciales y fórmula libre de parabenos y alcohol, el champú para perros de Dhohoo es no tóxico e hipoalergénico, mientras que también nutre el pelaje de tu mascota.
+- 🐕‍🦺Limpieza y protección: el gel de ducha de aceite esencial de citronela, lavanda y cedro tiene un buen efecto de limpieza, puede prevenir la cría de pulgas y ayudar a tu perro a tener una piel saludable.
+- 🐕‍🦺Garantía de calidad: como una conocida marca francesa, la dedicación al bienestar de las mascotas garantiza la calidad de los productos. Cada uno de los productos para mascotas está hecho con amor y cuidado para promover el bienestar de las mascotas y ayudar a tus queridos amigos a tener una mente saludable en un cuerpo peludo.
 - 🦮Alivia la picazón y el dolor: el aceite de citronela es antioxidante y sus sustancias pueden ayudar a aliviar el dolor y la piel irritada. El pantenol adicional ayuda a eliminar el exceso de aceite y caspa e hidrata el pelaje de tu mascota. Es perfecto incluso para perros con piel sensible.
+- 🐩Promueve un cuidado saludable: el aceite de cedro es conocido por limpiar, mejorar la circulación del cuero cabelludo y esto estimula el crecimiento saludable del cabello, dejando el pelo de tu perro brillante y fuerte y combate la pérdida de cabello. Ya no tendrás miedo al barro y la suciedad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08M9J3KTF/?tag=tolees-21)

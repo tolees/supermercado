@@ -28,8 +28,8 @@ Está [Max Factor Col EF Mini N/Polaco Rubí](https://www.amazon.es/dp/B06Y4FTYK
 
 ℹ️:
 
+- Max FACTOR col EF Mini No/pulido ruby-.
 - Max FACTOR col EF Mini No/pulido rubí
 - Max FACTOR col EF Mini No/Esmalte de frotar.
-- Max FACTOR col EF Mini No/pulido ruby-.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06Y4FTYK1/?tag=tolees-21)

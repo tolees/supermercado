@@ -28,10 +28,10 @@ En este momento está [OLIS BARGALLO - Aceite de Oliva Virgen Extra Arbequina 30
 
 🔎:
 
-- Su formato de lata de 3L le hace muy práctico y cómodo de usar. Es además un aceite de oliva virgen extra ideal para la elaboración de pastas, verduras, mariscos, sushi, salsas y postres, siendo perfecto para ensaladas también.
-- Aceite de gran calidad 100% natural, procedente de una cosecha temprana y elaborado con las mejores olivas arbequinas.
-- Propiedades organolépticas excelentes gracias a la elaboración artesanal y perfectamente conservadas debido a su envase en lata que las mantiene intactas
 - Con una acidez máxima de 0,60%, es un aceite altamente gustoso y refinado, de sabor frutado ligero con notas de plátano y manzana
+- Propiedades organolépticas excelentes gracias a la elaboración artesanal y perfectamente conservadas debido a su envase en lata que las mantiene intactas
 - Aceite de Oliva Virgen Extra monovarietal de variedad Arbequina producida en España
+- Aceite de gran calidad 100% natural, procedente de una cosecha temprana y elaborado con las mejores olivas arbequinas.
+- Su formato de lata de 3L le hace muy práctico y cómodo de usar. Es además un aceite de oliva virgen extra ideal para la elaboración de pastas, verduras, mariscos, sushi, salsas y postres, siendo perfecto para ensaladas también.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075ZVFL8N/?tag=tolees-21)

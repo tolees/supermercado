@@ -28,10 +28,10 @@ Tienes [P20 ® | Crema Solar Niños | Protector solar para niños spf 50 muy alt
 
 🔎:
 
-- Esta protección solar spf 50 en crema ligera, desarrollada específicamente para las pieles sensibles al sol de los niños, no contiene perfume, está dermatológicamente probada y certificada para personas con alergia.
 - Ofrece una protección de categoría superior contra los rayos UVA. Si buscas la máxima protección solar sin comprometer su libertad y la de sus niños, la encontrará en P20 protección solar para niños.
 - Crema solar con una protección altamente fiable frente a los rayos UVA/UVB y una resistencia al agua de hasta 3 horas.
-- P20 protección solar niños ofrece a los padres exigentes la protección solar que piden para sus hijos.
 - 4 estrellas de protección UVA para niños a partir de 1 año de edad. Efecto duradero hasta 10 horas. Crema solar 50. 100 Ml.
+- Esta protección solar spf 50 en crema ligera, desarrollada específicamente para las pieles sensibles al sol de los niños, no contiene perfume, está dermatológicamente probada y certificada para personas con alergia.
+- P20 protección solar niños ofrece a los padres exigentes la protección solar que piden para sus hijos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B087G9Q9HS/?tag=tolees-21)

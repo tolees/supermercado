@@ -28,11 +28,11 @@ Tienes [Marca Amazon - Happy Belly Select Té helado de limón  bajo en azúcare
 
 🔎:
 
-- Apto para vegetarianos y veganos
-- Con té cultivado por agricultores con certificado UTZ
-- Paquete de 12 botellas de 500 ml
-- Con un 40 % menos de azúcar que el té helado de limón normal
 - Sin colorantes, aromatizantes o conservantes artificiales
 - Elaborado con té recién hecho para un sabor más intenso
+- Con té cultivado por agricultores con certificado UTZ
+- Apto para vegetarianos y veganos
+- Paquete de 12 botellas de 500 ml
+- Con un 40 % menos de azúcar que el té helado de limón normal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NJX1K4P/?tag=tolees-21)
