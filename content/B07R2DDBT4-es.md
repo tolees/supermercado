@@ -28,8 +28,8 @@ Tienes [HARIBO Red & White  1 X 1.00 Kg](https://www.amazon.es/dp/B07R2DDBT4/?ta
 
 🔎:
 
-- Mix de las piezas mas clásicas para los amantes del regaliz rojo.
 - Dulces de regaliz.
 - Con sabor a fresa y nata.
+- Mix de las piezas mas clásicas para los amantes del regaliz rojo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07R2DDBT4/?tag=tolees-21)

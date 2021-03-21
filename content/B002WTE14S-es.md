@@ -28,8 +28,8 @@ Tienes [Kikkoman Aderezo para Sushi - 300 ml](https://www.amazon.es/dp/B002WTE14
 
 🔎:
 
-- Ideal para el arroz de sushi
 - Condimento a base de vinagre arroz
+- Ideal para el arroz de sushi
 - Perfecto también para preparar ensaladas o marinar carne y pescado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B002WTE14S/?tag=tolees-21)

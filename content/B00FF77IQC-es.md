@@ -28,9 +28,9 @@ Ahora mismo tienes [Proraso Jabón de Afeitar - 150 ml](https://www.amazon.es/dp
 
 🔎:
 
-- Las características del jabón y la acción de la brocha ablandan la barba
-- Prepara la piel para el afeitado
 - Es una crema de afeitar concentrada y rica
 - Con aceite de eucalipto y mentol
+- Las características del jabón y la acción de la brocha ablandan la barba
+- Prepara la piel para el afeitado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00FF77IQC/?tag=tolees-21)
