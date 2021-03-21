@@ -30,9 +30,9 @@ Tienes [LITORAL Callos Madrileña - Plato Preparado Sin Gluten - Pack de 12x380g
 
 - Disponible en formato lata: 380g
 - Disfruta de un plato típico de la cocina casera española; con la calidad de LITORAL
+- Comida española fácil de preparar: al baño maria; en cazo o al microondas
+- Ingredientes 100% naturales sin gluten; ni aditivos
 - LITORAL Callos Madrileña con un selecto embutido elaborado en Asturias
 - Una deliciosa receta casera y sabrosa, fácil de preparar y con la calidad de LITORAL
-- Ingredientes 100% naturales sin gluten; ni aditivos
-- Comida española fácil de preparar: al baño maria; en cazo o al microondas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079ZYKJ19/?tag=tolees-21)

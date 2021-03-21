@@ -28,11 +28,11 @@ En este momento está [Pata Negra Roble Vino Tinto D.O Ribera del Duero - Caja d
 
 🔎:
 
+- Apariencia: Vino tinto de color rojo cereza intenso, con ribete azulado; brillante y sin evolución
 - Aroma: Perfil aromático intenso, con notas de frutos rojos y toques tostados notables provenientes de la madera
+- Tipo de uva: Elaborado con una selección de uvas Tempranillo; tiene una crianza en barrica de roble americano y francés durante 6 meses
+- Maridaje: Este vino combina muy bien con carnes tanto en barbacoa como asados, pasta, comida picante y embutidos
 - Consumo: Para disfrutar de sus cualidades óptimas recomendamos servirlo entre 14ºC y 16ºC
 - Gusto: En boca es intenso, sabroso y estructurado; los taninos de la fruta y la madera bien redondos y aterciopelados lo hacen un vino persistente
-- Maridaje: Este vino combina muy bien con carnes tanto en barbacoa como asados, pasta, comida picante y embutidos
-- Tipo de uva: Elaborado con una selección de uvas Tempranillo; tiene una crianza en barrica de roble americano y francés durante 6 meses
-- Apariencia: Vino tinto de color rojo cereza intenso, con ribete azulado; brillante y sin evolución
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DCS6D3L/?tag=tolees-21)

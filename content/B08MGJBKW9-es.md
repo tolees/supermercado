@@ -28,15 +28,15 @@ Tienes [Slendier Espaguetis de Edamame BIO sin gluten  pasta hipocalórica - Sle
 
 🔎:
 
-- Número de items: 1
+- Y derivados
+- Fuente de fibra y proteína vegetal
 - Ingredientes procedentes de agricultura ecológica
+- Instrucciones para su uso adecuado: conservar en lugar fresco y seco, lejos de la luz directa del sol.
+- Bajo en carbohidratos y calorías
+- Número de items: 1
 - Unidades: 6.0
 - 100% vegetal, apto para veganos
-- Advertencia de seguridad: añadir pasta al agua hirviendo. Cocinar por 3-5 minutos hasta que la pasta esté al dente. Escurrir el agua y servir.
-- Bajo en carbohidratos y calorías
-- Instrucciones para su uso adecuado: conservar en lugar fresco y seco, lejos de la luz directa del sol.
-- Fuente de fibra y proteína vegetal
 - Unidad de medida: unidad
-- Y derivados
+- Advertencia de seguridad: añadir pasta al agua hirviendo. Cocinar por 3-5 minutos hasta que la pasta esté al dente. Escurrir el agua y servir.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MGJBKW9/?tag=tolees-21)
