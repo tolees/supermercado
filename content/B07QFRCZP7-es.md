@@ -28,8 +28,8 @@ Ahora mismo tienes [Dulcesol Hazelnut cake - 5 pack unidades  225 gr](https://ww
 
 🔎:
 
-- Delicioso y esponjoso pastel con relleno de crema de trufa
 - Gama Black, nuestra gama más premium para los paladares más exigentes
+- Delicioso y esponjoso pastel con relleno de crema de trufa
 - Contiene 5 unidades envasadas individuamente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21)
