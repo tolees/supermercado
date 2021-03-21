@@ -29,9 +29,9 @@ Tienes [Fomccu - 10 bolsas de muselina de algodón con cordón reutilizables par
 ℹ️:
 
 - Usar firmemente. Se puede utilizar repetidamente. La bolsa tiene 2 piezas de tejido, cómodo, no hay fugas de residuos.
-- Tejido con cuenta de 10.
-- Hecha de algodón puro, segura para su uso, no tienen un tratamiento de lejía, no contienen agentes químicos.
 - Buena para cocinar cuando quiere separar los residuos o la llena de especias, pero también se puede utilizar para hervir hierbas medicinales.
+- Hecha de algodón puro, segura para su uso, no tienen un tratamiento de lejía, no contienen agentes químicos.
 - Especificaciones: Material: algodón. Color: pálido amarillo. Tamaño: aproximadamente 8 x 10 cm.
+- Tejido con cuenta de 10.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06VTS475N/?tag=tolees-21)

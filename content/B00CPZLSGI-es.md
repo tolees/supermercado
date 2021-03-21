@@ -28,10 +28,10 @@ Tienes [Bulleit Rye Whisky  700ml](https://www.amazon.es/dp/B00CPZLSGI/?tag=tole
 
 ℹ️:
 
-- Bulleit lideró el ranking de «The World’s 50 Best Bars», coronándose como la marca de whisky americano más vendida y de mayor actualidad en 2016
-- Bulleit Rye es adecuado para cócteles como el Manhattan, el Old Fashioned y el Sazerac
 - Bulleit Rye es un galardonado whisky puro de centeno con un carácter especiado y una complejidad incomparable
-- Bulleit Rye tiene un alto contenido de centeno que le confiere un final increíblemente suave y especiado
 - El característico final especiado del whisky de alto contenido en centeno resulta perfecto para la elaboración de cócteles clásicos como el Manhattan, el Old Fashioned o el Sazerac
+- Bulleit Rye es adecuado para cócteles como el Manhattan, el Old Fashioned y el Sazerac
+- Bulleit Rye tiene un alto contenido de centeno que le confiere un final increíblemente suave y especiado
+- Bulleit lideró el ranking de «The World’s 50 Best Bars», coronándose como la marca de whisky americano más vendida y de mayor actualidad en 2016
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CPZLSGI/?tag=tolees-21)

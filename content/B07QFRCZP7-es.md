@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dulcesol Hazelnut cake - 5 pack unidades al 0.00 % de descuento'
-date: 2021-03-20 14:11:55
+date: 2021-03-21 20:12:37
 image: 'https://m.media-amazon.com/images/I/41v81YDivzL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dulcesol'
 buyurl: 'https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21'
 descuento: '0.00'
-average: '1.61666666666667'
+average: '1.61428571428572'
 ---
 
 Ahora mismo tienes [Dulcesol Hazelnut cake - 5 pack unidades  225 gr](https://www.amazon.es/dp/B07QFRCZP7/?tag=tolees-21) a 1.6 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
