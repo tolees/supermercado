@@ -29,10 +29,10 @@ En este momento está [Puntomatic Cápsulas TriCámara Detergente Ropa Blanca y 
 🔎:
 
 - Cápsula Hidrosoluble de fácil uso
-- Tarrina Pack con 18 cápsulas para lavado ropa
-- Eficaz contra las manchas
-- Protección de los Colores y Fibras
 - Perfume Duradero
+- Eficaz contra las manchas
 - Cápsula con 3 cámaras selladas de Alta Tecnología
+- Protección de los Colores y Fibras
+- Tarrina Pack con 18 cápsulas para lavado ropa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B085GZWV33/?tag=tolees-21)
