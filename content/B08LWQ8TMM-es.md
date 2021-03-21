@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Paris Polvos Compactos Mate Infa con un 0.00 % de descuento'
-date: 2021-03-20 01:29:21
+date: 2021-03-21 01:31:12
 image: 'https://m.media-amazon.com/images/I/51GDl7tbDML._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LOréal Paris'
 buyurl: 'https://www.amazon.es/dp/B08LWQ8TMM/?tag=tolees-21'
 descuento: '0.00'
-average: '15.7710526315788'
+average: '15.7299999999999'
 ---
 
 En este momento está [L Oréal Paris Polvos Compactos Mate Infalible 24H  Larga Duración  Cobertura Media-Alta  Resistente al Agua  Tono: 220 Sand  50 g](https://www.amazon.es/dp/B08LWQ8TMM/?tag=tolees-21) a 14.95 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [L Oréal Paris Polvos Compactos Mate Infalible 24H  Larga
 🔎:
 
 - Piel impecable mate durante todo el día, Cobertura media-alta sin efecto máscara, Resistente a roces, agua, calor o humedad
+- Contenido: 1 x Polvos compactos mate de larga duración Infalible 24H LOréal Paris, Tono: 220 Sand, Cantidad: 50 g
 - Fórmula no comedogénica, Apta para pieles todo tipo de pieles
 - Base de maquillaje en polvo para conseguir un acabado mate impecable resistente hasta 24H
 - Aplicar con la esponja en seco como si fuese una base o con la esponja mojada para una cobertura aún mayor
-- Contenido: 1 x Polvos compactos mate de larga duración Infalible 24H LOréal Paris, Tono: 220 Sand, Cantidad: 50 g
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LWQ8TMM/?tag=tolees-21)
