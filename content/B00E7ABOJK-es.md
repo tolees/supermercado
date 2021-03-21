@@ -28,9 +28,9 @@ Ahora mismo tienes [Passport Scotch - Whisky Blended Scotch Passport 70cl](https
 
 🔎:
 
-- Una frescura mentolada
 - Tiene un comienzo suave y aterciopelado
-- Ofrece un final afrutado y cremoso
 - Contenido de alcohol: 40% alcohol
+- Ofrece un final afrutado y cremoso
+- Una frescura mentolada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00E7ABOJK/?tag=tolees-21)
