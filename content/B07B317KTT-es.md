@@ -28,11 +28,11 @@ Ahora mismo tienes [Viña Arnáiz Crianza - Vino Tinto D.O Ribera del Duero - Ca
 
 🔎:
 
-- Aroma: Perfil aromático intenso y afrutado donde destacan los frutos silvestres combinados con notas amaderadas y de vainilla
-- Gusto: En boca es maduro y equilibrado; deja a su paso un sabor pleno e intenso lleno de matices
-- Maridaje: Este vino combina perfectamente con quesos curados de oveja, cordero asado con pimientos rojos y patatas panaderas
 - Tipo de uva: Elaborado con una selección de uvas de la variedad tempranillo; sigue un cuidadoso proceso de maduración de 425 días en barricas de roble francés y americano y 1 año en botellero
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo entre 16 y 18 ºc y conservarlo en un lugar fresco y seco
+- Aroma: Perfil aromático intenso y afrutado donde destacan los frutos silvestres combinados con notas amaderadas y de vainilla
 - Apariencia: Vino tinto granate intenso de capa alta y aspecto brillante
+- Maridaje: Este vino combina perfectamente con quesos curados de oveja, cordero asado con pimientos rojos y patatas panaderas
+- Gusto: En boca es maduro y equilibrado; deja a su paso un sabor pleno e intenso lleno de matices
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B317KTT/?tag=tolees-21)

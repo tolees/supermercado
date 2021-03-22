@@ -28,10 +28,10 @@ Tienes [The Macallan - Macallan Sherry Oak 12 Años Single Malt Whisky Escoces  
 
 🔎:
 
+- El olfato es complejo con toques de vainilla
+- Al final el sabor es prolongado con frutas secas dulces, madera de roble y especias
+- Tiene un paladar suave, medio equilibrado con fruta, madera de roble y especias
 - Contenido de alcohol 40%
 - Presenta un color dorado oscuro
-- Tiene un paladar suave, medio equilibrado con fruta, madera de roble y especias
-- Al final el sabor es prolongado con frutas secas dulces, madera de roble y especias
-- El olfato es complejo con toques de vainilla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001TZ3ZN4/?tag=tolees-21)
