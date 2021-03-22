@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Productos San Diego Lazos Chocolate - 17 al 0.00 % de descuento'
-date: 2021-03-21 07:06:52
+date: 2021-03-22 07:55:56
 image: 'https://m.media-amazon.com/images/I/51HIv5z+sQL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Productos San Diego'
 buyurl: 'https://www.amazon.es/dp/B07BGGKLSR/?tag=tolees-21'
 descuento: '0.00'
-average: '16.5248979591838'
+average: '16.524705882353'
 ---
 
 Ahora mismo tienes [Productos San Diego Lazos Chocolate - 1750 gr](https://www.amazon.es/dp/B07BGGKLSR/?tag=tolees-21) a 16.52 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Productos San Diego Lazos Chocolate - 1750 gr](https://www.a
 
 🔎:
 
+- Bollería tradicional
 - Lazos choco
 - Mantener en lugar fresco y seco
-- Bollería tradicional
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BGGKLSR/?tag=tolees-21)

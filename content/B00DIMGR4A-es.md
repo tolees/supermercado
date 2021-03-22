@@ -28,10 +28,10 @@ Tienes [Nikka Whisky Nikka Coffey Grain Whisky 45% Vol. 0 7l - 700 ml](https://w
 
 🔎:
 
-- Graduación: 45% vol.
-- Tono dorado. Jugoso y agradable, notas frutales como néctar de pera y notas más cremosas con una frescura omnipresente.
-- Origen: Miyagikyo
 - Puede degustarse con carnes rojas elaboradas a la brasa (hamburguesa, costillas, etc.).
 - Para disfrutar sólo con hielo o en formato cóctel, como el Manhattan.
+- Graduación: 45% vol.
+- Origen: Miyagikyo
+- Tono dorado. Jugoso y agradable, notas frutales como néctar de pera y notas más cremosas con una frescura omnipresente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00DIMGR4A/?tag=tolees-21)

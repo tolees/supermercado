@@ -28,15 +28,15 @@ Ahora mismo tienes [Baby Dove Loción para bebés Noches Tranquilas - Pack de 6 
 
 🔎:
 
-- Con nutrientes 100% naturalmente presentes en la piel del bebé
 - 9 de cada 10 madres y padres recomiendan utilizar este producto como parte de la rutina de noche
-- Este producto no contiene lácteos
 - Dermatológica, pediátrica y oftalmológicamente testado
-- Ayuda a conservar la hidratación natural de la piel del bebé durante toda la noche
+- Este producto no contiene lácteos
+- Test realizado con 250 familias en US en 2019. Detalles disponibles bajo petición(Estudio hecho por IPSOS)
+- Fórmula hipoalergénica y con pH neutro para la piel del bebé
 - Suave como el agua. Clínicamente probado
+- Ayuda a conservar la hidratación natural de la piel del bebé durante toda la noche
 - Sin colorantes artificiales
 - Loción para bebés adecuado para recién nacidos
-- Fórmula hipoalergénica y con pH neutro para la piel del bebé
-- Test realizado con 250 familias en US en 2019. Detalles disponibles bajo petición(Estudio hecho por IPSOS)
+- Con nutrientes 100% naturalmente presentes en la piel del bebé
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083YBJ2XY/?tag=tolees-21)

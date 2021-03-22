@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Chocolate Amatller - Chocolates variados al 0.00 % de descuento'
-date: 2021-03-21 07:09:42
+title: 'Chocolate Amatller - Chocolates variados al 14.96 % de descuento'
+date: 2021-03-22 07:32:41
 image: 'https://m.media-amazon.com/images/I/51SiMfCZoHL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07CWSXTT7-es Chocolate Amatller - Chocolates variados en Cesta Regalo 230g'
 sku: 'B07CWSXTT7-es'
 tags: [ 'Alimentación y bebidas','Barritas de chocolate','Barritas grandes de chocolate','Chocolates','Dulces, chocolates y chicles','chocolate','chocolate amatller', ]
-actualPrice: 13.5 EUR
+actualPrice: 11.48 EUR
 currency: EUR
-price: 13.5
-comparePrice:  EUR
+price: 11.48
+comparePrice: 13.5 EUR
 prodname: 'Chocolate Amatller - Chocolates variados en Cesta Regalo 230g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Chocolate Amatller'
 buyurl: 'https://www.amazon.es/dp/B07CWSXTT7/?tag=tolees-21'
-descuento: '0.00'
-average: '13.1344999999999'
+descuento: '14.96'
+average: '13.114074074074'
 ---
 
-Ahora mismo tienes [Chocolate Amatller - Chocolates variados en Cesta Regalo 230g](https://www.amazon.es/dp/B07CWSXTT7/?tag=tolees-21) a 13.5 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Chocolate Amatller - Chocolates variados en Cesta Regalo 230g](https://www.amazon.es/dp/B07CWSXTT7/?tag=tolees-21) a 11.48 EUR (original: 13.5 EUR) (14.96 %  de descuento) en el siguiente enlace!
 
 [![Chocolate Amatller - Chocolates variados](https://m.media-amazon.com/images/I/51SiMfCZoHL._SL400_.jpg)](https://www.amazon.es/dp/B07CWSXTT7/?tag=tolees-21)
 

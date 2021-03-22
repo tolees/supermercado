@@ -28,10 +28,10 @@ En este momento está [Whisky Japonés Nikka Coffey Malt  70 cl - 700 ml](https:
 
 🔎:
 
+- Ideal para combinar con quesos curados, comidas grasas y chocolates.
+- Origen: Miyagikyo
 - Tono dorado. Aromas cítricos como clementina y naranja se combinan con notas de café, praliné y helado de vainilla.
 - Graduación: 45% vol.
-- Origen: Miyagikyo
 - Para disfrutar sólo con hielo o en formato cóctel, como Old Fashioned .
-- Ideal para combinar con quesos curados, comidas grasas y chocolates.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00M8IMMQC/?tag=tolees-21)
