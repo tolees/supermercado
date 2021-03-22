@@ -28,10 +28,10 @@ Ahora mismo tienes [PAPSTAR 14234 Royal Collection - Juego de servilletas  250 U
 
 🔎:
 
-- Incluye: 250 x servilletas blancas, 33 x 33, plastificadas.
 - Sencillas servilletas blancas, ideales para múltiples ocasiones, especialmente bodas y fiestas de compromiso.
-- Suave en contacto con la piel y sin olores.
-- Protege el medio ambiente. Producción sostenible y gestión forestal responsable, con certificado FSC.
 - Servilletas Papstar – A la mesa no deben faltar estas prácticas servilletas de papel, que pueden usarse como servilletas de cóctel, para el desayuno, para bares, bufés, fiestas o decoración.
+- Protege el medio ambiente. Producción sostenible y gestión forestal responsable, con certificado FSC.
+- Suave en contacto con la piel y sin olores.
+- Incluye: 250 x servilletas blancas, 33 x 33, plastificadas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00DJ57UVA/?tag=tolees-21)
