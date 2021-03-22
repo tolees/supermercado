@@ -28,9 +28,9 @@ En este momento está [Calvo Sardinas en Aceite de Oliva  120g](https://www.amaz
 
 🔎:
 
-- Alto contenido ácidos Grasos Omega3
-- Peso: 120 gramos
-- Contiene Pescado y/o productos a base de pescados
 - Sin cafeína
+- Alto contenido ácidos Grasos Omega3
+- Contiene Pescado y/o productos a base de pescados
+- Peso: 120 gramos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0083D3UEE/?tag=tolees-21)

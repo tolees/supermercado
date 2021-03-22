@@ -28,9 +28,9 @@ Tienes [Nescafé DOLCE GUSTO Magnum Ristretto ARDENZA - Cápsulas de Café - 3 x
 
 🔎:
 
-- Ingredientes: café molido de tueste natural
-- Podrás preparar 30 tazas de café Ristretto Ardenza
 - La cápsula hermética conserva la frescura del café
+- Podrás preparar 30 tazas de café Ristretto Ardenza
+- Ingredientes: café molido de tueste natural
 - Un café ristretto intenso con notas a pimienta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07H4L79WD/?tag=tolees-21)

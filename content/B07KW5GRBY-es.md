@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Dulcesol Cheese Cake  225g'
-date: 2021-03-21 14:22:17
+date: 2021-03-22 14:33:25
 image: 'https://m.media-amazon.com/images/I/41hf7opX5pL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dulcesol'
 buyurl: 'https://www.amazon.es/dp/B07KW5GRBY/?tag=tolees-21'
 descuento: '0.00'
-average: '1.57207885304655'
+average: '1.5722064056939'
 ---
 
 Tienes [Dulcesol Cheese Cake  225g](https://www.amazon.es/dp/B07KW5GRBY/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 1.59 EUR (original:  EUR) en el siguiente enlace!
