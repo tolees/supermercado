@@ -28,9 +28,9 @@ En este momento está [Moussel Douche Crème - Pack de 4 x 900 ml - Total: 3600 
 
 🔎:
 
-- Mítica fragancia Moussel
 - Crema de ducha Moussel
-- Textura suave
+- Mítica fragancia Moussel
 - Gel hidratante
+- Textura suave
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BJGG1L8/?tag=tolees-21)

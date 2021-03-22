@@ -28,10 +28,10 @@ En este momento está [Desperados Cerveza Barril  5L](https://www.amazon.es/dp/B
 
 🔎:
 
-- Ingredientes: agua, malta de cebada, jarabe de glucosa, azúcar, extracto de lúpulo, aromas naturales (50% tequila, 14% extracto de menta, 1% extracto de limón), ácido cítrico
-- Con 5.9% de alcohol en volumen
 - Refrescante y de cuerpo ligero
 - Consumirla entre 2 y 4 °C para obtener sus óptimas calidades
+- Con 5.9% de alcohol en volumen
 - Cerveza innovadora de tipo lager aromatizada con tequila
+- Ingredientes: agua, malta de cebada, jarabe de glucosa, azúcar, extracto de lúpulo, aromas naturales (50% tequila, 14% extracto de menta, 1% extracto de limón), ácido cítrico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079X13WBD/?tag=tolees-21)
