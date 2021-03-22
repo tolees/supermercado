@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'USISA - Conserva de pescado | Salmón en  al 4.13 % de descuento'
-date: 2021-03-21 01:16:02
+date: 2021-03-22 03:12:32
 image: 'https://m.media-amazon.com/images/I/41ZbcfeROBL._SL400_.jpg'
 comments: true
 category: ofertas

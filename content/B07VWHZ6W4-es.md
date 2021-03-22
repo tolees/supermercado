@@ -28,10 +28,10 @@ Tienes [LAPASION - Bizcocho COC envuelto  ideal para desayunos y meriendas caja 
 
 🔎:
 
-- 🇪🇸 PRODUCIDOS EN ESPAÑA | Estos dulces han sido producidos en España.
-- 📅 FECHA DE CONSUMO PREFERENTE y condiciones de CONSERVACIÓN | 150 días desde la fecha de fabricación. Conservar en lugar fresco, seco y aislado del suelo, lejos de fuentes de calor y libre de suciedad y contaminación.
-- 🎂 Delicioso bizcocho casero con ligero sabor a limón. Se sirve en cajas de 2 Kg y cada bizcocho viene envuelto individualmente.
-- ✔️ CALIDAD SUPREMA | Repostería casera y tradicional. Ideal para almuerzos, desayunos, postres...
 - 🍰 INGREDIENTES | Harina de trigo, azúcar, huevo pasteurizado, aceite vegetal de girasol, azúcar invertido, gasificantes (carbonato ácido de sodio y difosfato disódico), proteína de leche, humectantes (sorbitol y glicerina), acidulante (ácido cítrico), conservadores (ácido sórbico, sorbato potásico), sal, aroma (mantequilla y limón) y colorante (caroteno).
+- 📅 FECHA DE CONSUMO PREFERENTE y condiciones de CONSERVACIÓN | 150 días desde la fecha de fabricación. Conservar en lugar fresco, seco y aislado del suelo, lejos de fuentes de calor y libre de suciedad y contaminación.
+- 🇪🇸 PRODUCIDOS EN ESPAÑA | Estos dulces han sido producidos en España.
+- ✔️ CALIDAD SUPREMA | Repostería casera y tradicional. Ideal para almuerzos, desayunos, postres...
+- 🎂 Delicioso bizcocho casero con ligero sabor a limón. Se sirve en cajas de 2 Kg y cada bizcocho viene envuelto individualmente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VWHZ6W4/?tag=tolees-21)
