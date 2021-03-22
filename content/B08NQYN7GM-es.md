@@ -28,10 +28,10 @@ Ahora mismo tienes [GUILLEN JAMONES Y EMBUTIDOS - Surtido Embutidos Ibericos de 
 
 🔎:
 
-- Salchichon iberico de bellota: jugoso en boca y agradable al paladar. Elaborado artesanalmente y condimentado con especias (pimienta y nuez moscada). Con un proceso de curación entre 4 y 6 meses.
-- Chorizo iberico de bellota: sabor potente y especiado, elaborado de forma tradicional y con especias seleccionadas (pimentón, ajo y orégano), pasan en nuestras bodegas entre 4 y 6 meses de curación.
 - Lomo iberico: manjar ibérico, refinado y condimentado con especiado (ajo, pimentón y orégano), elaborado a partir de la carne de cerdos seleccionados y pasa un entre 5 y 7 meses en bodega.
-- Jamon iberico de guijuelo "cuna del jamon iberico", aromático y de textura suave, se elabora de forma tradicional y pasa 36 meses en bodega donde alcanzará su inigualable sabor.
 - Este surtido de ibéricos es ideal para disfrutar en familia, en navidad o en cualquier ocasión, también como regalo del día del padre o de la madre o simplemente para sorprender.
+- Salchichon iberico de bellota: jugoso en boca y agradable al paladar. Elaborado artesanalmente y condimentado con especias (pimienta y nuez moscada). Con un proceso de curación entre 4 y 6 meses.
+- Jamon iberico de guijuelo "cuna del jamon iberico", aromático y de textura suave, se elabora de forma tradicional y pasa 36 meses en bodega donde alcanzará su inigualable sabor.
+- Chorizo iberico de bellota: sabor potente y especiado, elaborado de forma tradicional y con especias seleccionadas (pimentón, ajo y orégano), pasan en nuestras bodegas entre 4 y 6 meses de curación.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NQYN7GM/?tag=tolees-21)
