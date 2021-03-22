@@ -28,11 +28,11 @@ En este momento está [NESCAFÉ Dolce Gusto Café Cappuccino  Pack de 3 x 16 Cá
 
 🔎:
 
-- Cápsulas de café inteligentes Su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto
 - Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
-- Máquina Express: sistema de café profesional de hasta 15 bares de presión
 - Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
+- Cápsulas de café inteligentes Su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Las cápsulas Nescafé Dolce Gusto Cappuccino tienen son un n auténtico icono italiano con leche de textura sedosa,
+- Máquina Express: sistema de café profesional de hasta 15 bares de presión
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004MZA4R8/?tag=tolees-21)

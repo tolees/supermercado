@@ -28,10 +28,10 @@ Tienes [L.O.L. Surprise Champú y acondicionador 2 en 1 extra suave especial par
 
 🔎:
 
-- Con sus personajes favoritos de L.O.L. Surprise
-- Ayuda a desenredar el pelo y facilita el peinado.
-- Fórmula extra suave para niños.
 - Champú + acondicionador 2 en 1.
+- Ayuda a desenredar el pelo y facilita el peinado.
 - Una divertida experiencia para el baño de los más pequeños.
+- Con sus personajes favoritos de L.O.L. Surprise
+- Fórmula extra suave para niños.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07X4YN69J/?tag=tolees-21)

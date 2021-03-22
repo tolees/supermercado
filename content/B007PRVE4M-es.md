@@ -29,10 +29,10 @@ Tienes [Nescafé DOLCE GUSTO Café BONKA - Pack de 3 x 16 Cápsulas - Total: 48 
 🔎:
 
 - Cápsulas de café inteligentes Su sellado hermético mantiene el café fresco conservando todos sus aromas
-- Máquina Express: sistema de café profesional de hasta 15 bares de presión
-- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
-- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
 - Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto
 - Las cápsulas de Nescafé Dolce Gusto BONKA tienen un sabor Jugoso y con notas a pimienta,
+- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
+- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
+- Máquina Express: sistema de café profesional de hasta 15 bares de presión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007PRVE4M/?tag=tolees-21)

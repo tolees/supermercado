@@ -28,10 +28,10 @@ Está [Ginebra premium Ampersand Ginebra sabor Fresa 37.5º 70 cl](https://www.a
 
 ℹ️:
 
-- Sabor: fresa fresca y frambuesa, notas de naranja.
-- perfecto como un regalo
-- Acabado: Larga duración, afrutado.
-- Color: Rosa brillante.
 - Nariz: pimienta, fruta fresca.
+- perfecto como un regalo
+- Sabor: fresa fresca y frambuesa, notas de naranja.
+- Color: Rosa brillante.
+- Acabado: Larga duración, afrutado.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072XD8RN1/?tag=tolees-21)
