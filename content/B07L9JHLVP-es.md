@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Caja de Paternina Reserva D.O. Rioja Vin al 30.04 % de rebaja'
-date: 2020-02-11 11:04:34
-image: 'https://m.media-amazon.com/images/I/51PcdMyQCXL._AC_._SL400_.jpg'
+title: 'Marqués de la Concordia - Caja de Patern al 15.90 % de rebaja'
+date: 2021-03-22 12:05:39
+image: 'https://m.media-amazon.com/images/I/51PcdMyQCXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07L9JHLVP-es Caja de Paternina Reserva D.O. Rioja Vino tinto - 6...'
+slug: 'B07L9JHLVP-es Marqués de la Concordia - Caja de Paternina Reserva D.O....'
 sku: 'B07L9JHLVP-es'
-tags: [ 'tinto','vino', ]
-actualPrice: 31.82 EUR
+tags: [ 'Alimentación y bebidas','Cervezas, vinos y licores','Vinos','Vinos blancos','marqués de la concordia','tinto','vino', ]
+actualPrice: 27.29 EUR
 currency: EUR
-price: 31.82
-comparePrice: 45.48 EUR
-prodname: 'Caja de Paternina Reserva D.O. Rioja Vino tinto - 6 botellas x 750 ml.'
+price: 27.29
+comparePrice: 32.45 EUR
+prodname: 'Marqués de la Concordia - Caja de Paternina Reserva D.O. Rioja Vino tinto - 6 botellas x 750 ml. - 4500 ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Marqués de la Concordia'
 buyurl: 'https://www.amazon.es/dp/B07L9JHLVP/?tag=tolees-21'
-descuento: '30.04'
-average: '31.09'
+descuento: '15.90'
+average: '29.19'
 ---
 
-Tienes [Caja de Paternina Reserva D.O. Rioja Vino tinto - 6 botellas x 750 ml.](https://www.amazon.es/dp/B07L9JHLVP/?tag=tolees-21) con precio final de  31.82 EUR (original: 45.48 EUR) (30.04 %  de rebaja) aqui!
+Tienes [Marqués de la Concordia - Caja de Paternina Reserva D.O. Rioja Vino tinto - 6 botellas x 750 ml. - 4500 ml](https://www.amazon.es/dp/B07L9JHLVP/?tag=tolees-21) con precio final de  27.29 EUR (original: 32.45 EUR) (15.90 %  de rebaja) aqui!
 
-[![Caja de Paternina Reserva D.O. Rioja Vin](https://m.media-amazon.com/images/I/51PcdMyQCXL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L9JHLVP/?tag=tolees-21)
+[![Marqués de la Concordia - Caja de Patern](https://m.media-amazon.com/images/I/51PcdMyQCXL._SL400_.jpg)](https://www.amazon.es/dp/B07L9JHLVP/?tag=tolees-21)
 
 🔎:
 
+- Temperatura de servicio: 17º-18º.
+- Ideal para asados, carnes rojas, caza y quesos con estracto.
+- Tipo de uva: 85% Tempranillo y 15% Garnacha
+- Origen: D.O.Ca. Rioja
+- Capacidad: 750 ml.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07L9JHLVP/?tag=tolees-21)
