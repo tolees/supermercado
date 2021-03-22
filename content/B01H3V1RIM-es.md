@@ -28,10 +28,10 @@ Está [Ribeira Conserva de Pescado Mejillones en Escabeche Pequeños - 10 pack x
 
 ℹ️:
 
-- Sin gluten
+- Escabeche de girasol
 - Mejillón rias gallegas
+- Sin gluten
 - Bajo en grasas saturadas y fuente natural de proteínas y hierro
 - Con abre fácil
-- Escabeche de girasol
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01H3V1RIM/?tag=tolees-21)
