@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Sagra Pack Cerveza Artesanal 6 Estilo al 15.17 % de descuento'
-date: 2021-03-22 02:18:03
+date: 2021-03-23 02:34:10
 image: 'https://m.media-amazon.com/images/I/51HKrN5IT7L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'La Sagra'
 buyurl: 'https://www.amazon.es/dp/B07PFWJPVY/?tag=tolees-21'
 descuento: '15.17'
-average: '17.5503703703704'
+average: '17.5128571428572'
 ---
 
 Ahora mismo tienes [La Sagra Pack Cerveza Artesanal 6 Estilos  Botella  12 x 330ml](https://www.amazon.es/dp/B07PFWJPVY/?tag=tolees-21) a 16.5 EUR (original: 19.45 EUR) (15.17 %  de descuento) en el siguiente enlace!

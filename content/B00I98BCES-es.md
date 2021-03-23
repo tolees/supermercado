@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Protección Caries  Pasta de dien con un 60.66 % de descuento'
-date: 2021-03-21 14:00:32
+date: 2021-03-23 01:46:28
 image: 'https://m.media-amazon.com/images/I/41gc3bG6GwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'COLGATE'
 buyurl: 'https://www.amazon.es/dp/B00I98BCES/?tag=tolees-21'
 descuento: '60.66'
-average: '1.56947368421053'
+average: '1.57512820512821'
 ---
 
 En este momento está [Colgate Protección Caries  Pasta de dientes  flúor activo y calcio líquido  sabor tradicional - 1 ud x 75ml](https://www.amazon.es/dp/B00I98BCES/?tag=tolees-21) a 1.79 EUR (original: 4.55 EUR) (60.66 %  de descuento) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Max Factor Lasting Performance Base de M al 68.03 % de descuento'
-date: 2021-03-22 01:18:13
+date: 2021-03-23 01:30:19
 image: 'https://m.media-amazon.com/images/I/31Sc5rdIzAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Max Factor'
 buyurl: 'https://www.amazon.es/dp/B000W3SW1E/?tag=tolees-21'
 descuento: '68.03'
-average: '5.80765625000001'
+average: '5.76681818181819'
 ---
 
 Está [Max Factor Lasting Performance Base de Maquillaje Líquida Tono 102 Pastelle  35 ml  el paquete puede variar ](https://www.amazon.es/dp/B000W3SW1E/?tag=tolees-21) con 68.03 de descuento por 4.46 EUR (original: 13.95 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Max Factor Lasting Performance Base de Maquillaje Líquida Tono 102 Paste
 
 ℹ️:
 
-- Sensación ligera
-- Base de maquillaje líquida
-- A prueba de roces, a prueba del día a día
-- No obstruye los poros
 - Sin aceite, sin fragancia
+- A prueba de roces, a prueba del día a día
+- Base de maquillaje líquida
+- No obstruye los poros
+- Sensación ligera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000W3SW1E/?tag=tolees-21)
