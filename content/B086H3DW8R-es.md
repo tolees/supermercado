@@ -29,9 +29,9 @@ En este momento está [DCOOP Aceite de Oliva Virgen Extra - Aceituna Arbequina y
 🔎:
 
 - MARIDAJE: las cualidades organolépticas de este aceite resultan ideales para su uso en ensaladas frescas y templadas, mayonesas, repostería o tostadas
-- VARIEDAD: aceite de oliva virgen extra elaborado on aceitunas de la variedad Arbequina
+- NOTA de CATA: frutado; la entrada en boca marca su personalidad con un sabor suave, perfecto para iniciar a los niños en el consumo de aceite en crudo
 - FORMATO: envasado en botella PET oscura de 1 litro que preserva mejor las propiedades del producto, tapón de rosca con vertedor de doble flujo; práctico y versátil para todo tipo de usos en cocina y mesa
 - SELECCIÓN DCOOP: aceite español procedente de la cosecha de miles de pequeños agricultores que forman la cooperativa Dcoop
-- NOTA de CATA: frutado; la entrada en boca marca su personalidad con un sabor suave, perfecto para iniciar a los niños en el consumo de aceite en crudo
+- VARIEDAD: aceite de oliva virgen extra elaborado on aceitunas de la variedad Arbequina
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086H3DW8R/?tag=tolees-21)
