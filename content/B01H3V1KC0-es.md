@@ -28,10 +28,10 @@ Tienes [Ribeira - Conserva de Pescado Calamares en Salsa Americana - 3 x 80 gr. 
 
 ℹ️:
 
-- Bajo en grasas saturadas
-- Salsa americana
-- Sin gluten
 - Con abre fácil
+- Bajo en grasas saturadas
 - Trozos de calamar
+- Sin gluten
+- Salsa americana
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01H3V1KC0/?tag=tolees-21)
