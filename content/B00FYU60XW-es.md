@@ -28,9 +28,9 @@ Tienes [Lindt Lindor Bolsa 1Kg Bombones de Chocolate](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Lindt lindor - cremosos bombones de chocolate con leche. Bolsa de 1kg - aprox. 80 bombones.
 - Los maestros chocolateros suizos consiguen cuidar hasta el mínimo detalle de sus creaciones gracias a sus años de experiencia.
 - Elaborado con ingredientes cuidadosamente seleccionados, como las habas de cacao puro procedentes de fuentes sostenibles.
+- Lindt lindor - cremosos bombones de chocolate con leche. Bolsa de 1kg - aprox. 80 bombones.
 - Desde 1845, lindt ha enamorado a sus consumidores con sus chocolates de alta calidad.
 - Fúndete de placer con nuestros emblemáticos bombones surtidos lindor.
 

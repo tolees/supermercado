@@ -28,11 +28,11 @@ Tienes [Marca Amazon - Happy Belly Select Café molido de tueste natural de Colo
 
 🔎:
 
-- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
-- 100 % Arábica. Intensidad 5/5
-- Café de Colombia. Tostado y envasado en Bélgica
-- 80 cápsulas: 4 x 20 cápsulas
-- Apto para dietas vegetarianas y veganas
 - Un arábica ácido con gran cuerpo y un final con notas de vino, cultivado en los Andes colombianos
+- Apto para dietas vegetarianas y veganas
+- Café de Colombia. Tostado y envasado en Bélgica
+- 100 % Arábica. Intensidad 5/5
+- 80 cápsulas: 4 x 20 cápsulas
+- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08FRW79FJ/?tag=tolees-21)
