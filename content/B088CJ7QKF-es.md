@@ -28,9 +28,9 @@ Ahora mismo tienes [Dove Duplo Ahorro RO Invisible - Pack de 6 x 50ML](https://w
 
 🔎:
 
-- 48 horas de protección
-- Dove original desodorante roll on 50ml
 - Apto para piel sensible
 - Contiene 1/4 de crema hidratante
+- 48 horas de protección
+- Dove original desodorante roll on 50ml
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088CJ7QKF/?tag=tolees-21)
