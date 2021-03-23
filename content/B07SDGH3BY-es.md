@@ -28,12 +28,12 @@ En este momento está [Marca Amazon - Happy Belly Bolsitas de té verde descafei
 
 🔎:
 
-- RAINFOREST ALLIANCE CERTIFIED: El té que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
-- Descafeinado aunque con un intenso sabor increíblemente suave; una alternativa ideal para controlar el consumo de cafeína
-- Envase de 6: 6 x 25 bolsitas (total 150 bolsitas)
-- Para un té claro de un verde intenso
-- Apto para dietas vegetarianas y veganas
-- Bolsitas de té rellenas de hojas de un intenso color jade
 - Ligero y con el toque amargo exacto
+- Descafeinado aunque con un intenso sabor increíblemente suave; una alternativa ideal para controlar el consumo de cafeína
+- Apto para dietas vegetarianas y veganas
+- RAINFOREST ALLIANCE CERTIFIED: El té que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
+- Para un té claro de un verde intenso
+- Envase de 6: 6 x 25 bolsitas (total 150 bolsitas)
+- Bolsitas de té rellenas de hojas de un intenso color jade
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SDGH3BY/?tag=tolees-21)
