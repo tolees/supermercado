@@ -28,10 +28,10 @@ En este momento está [Jamón Serrano  Paleta Gran Reserva  4.5-5 kg "Morato" + 
 
 🔎:
 
-- Paleta de Extremadura 4.5-5 kg 12 meses de curación
+- Casa Morato: Marca Galardonada a los mejores Jamones
 - Chorizo Ibérico 340 g.
 - Jamonero Madera de Pino
 - Lote Paleta Gran Reserva + Chorizo Ibérico + Jamonero + Cuchillo
-- Casa Morato: Marca Galardonada a los mejores Jamones
+- Paleta de Extremadura 4.5-5 kg 12 meses de curación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XJRNNXJ/?tag=tolees-21)
