@@ -28,10 +28,10 @@ Tienes [Marqués de la Concordia - Caja de Paternina Reserva D.O. Rioja Vino tin
 
 🔎:
 
-- Capacidad: 750 ml.
-- Temperatura de servicio: 17º-18º.
 - Origen: D.O.Ca. Rioja
 - Tipo de uva: 85% Tempranillo y 15% Garnacha
+- Temperatura de servicio: 17º-18º.
 - Ideal para asados, carnes rojas, caza y quesos con estracto.
+- Capacidad: 750 ml.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07L9JHLVP/?tag=tolees-21)
