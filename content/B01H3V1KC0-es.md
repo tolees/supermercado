@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Ribeira - Conserva de Pescado Calamares '
-date: 2021-03-22 08:43:11
+date: 2021-03-23 09:00:26
 image: 'https://m.media-amazon.com/images/I/417umUiKtpL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [Ribeira - Conserva de Pescado Calamares en Salsa Americana - 3 x 80 gr. 
 ℹ️:
 
 - Bajo en grasas saturadas
-- Sin gluten
 - Salsa americana
-- Trozos de calamar
+- Sin gluten
 - Con abre fácil
+- Trozos de calamar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01H3V1KC0/?tag=tolees-21)

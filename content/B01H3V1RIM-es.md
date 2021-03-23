@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ribeira Conserva de Pescado Mejillones e al 0.00 % de descuento'
-date: 2021-03-22 08:48:42
+date: 2021-03-23 09:06:32
 image: 'https://m.media-amazon.com/images/I/41-lLrgX54L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [Ribeira Conserva de Pescado Mejillones en Escabeche Pequeños - 10 pack x
 ℹ️:
 
 - Escabeche de girasol
-- Mejillón rias gallegas
 - Sin gluten
 - Bajo en grasas saturadas y fuente natural de proteínas y hierro
 - Con abre fácil
+- Mejillón rias gallegas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01H3V1RIM/?tag=tolees-21)
