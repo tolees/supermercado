@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Deliex delicias de Extremadura - Cesta d con un 0.00 % de descuento'
-date: 2021-03-22 21:21:55
+date: 2021-03-24 02:17:02
 image: 'https://m.media-amazon.com/images/I/51AAWTxM06L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [Deliex delicias de Extremadura - Cesta de Navidad para Re
 🔎:
 
 - 1 x botella vino blanco Jaume Serra Penedes
-- 1 x estuche gourmet
-- 5 x mermeladas miniatura Deliex con extra de fruta (30 g)
 - 1 x miel milflores deliex 30 g
+- 5 x mermeladas miniatura Deliex con extra de fruta (30 g)
 - pasto decorativo
+- 1 x estuche gourmet
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JFBZ13G/?tag=tolees-21)
