@@ -30,8 +30,8 @@ Está [iTrunk - Cabezales de Repuesto para Cepillo de Dientes eléctrico Pro 700
 
 - Anillos con código de color: cada cabezal de cepillo tiene un anillo de color para la detección individual, que hace que el juego de cepillos sea adecuado para la familia. Los cabezales de repuesto iTrunk también cuentan con cerdas indicadoras que se desvanecen para recordarte que es hora de cambiar el cabezal de tu cepillo de dientes.
 - Limpieza profesional eficaz y diaria: la cabeza redonda está especialmente diseñada para la limpieza de cada diente y de los espacios interdentales. Las cerdas garantizan el equilibrio perfecto con la máxima eliminación de placa.
-- 16 cabezales de cepillo de dientes de alta calidad: cabezales de repuesto de alta calidad con cerdas de nailon DuPont, que ofrecen una alta calidad al lavarse los dientes y te da la sonrisa perfecta. Nota: el cabezal de repuesto iTrunk es un repuesto compatible que no procede de la pieza de repuesto. ITrunk es una marca independiente.
 - Cabezales multifuncionales: el juego de cabezales de cepillo de dientes iTrunk contiene 4 Crossing, 4 Precision Cleaning, 4 3D Whit y 4 Flossing, que pueden resolver cualquier problema dental perfectamente.
 - Alta compatibilidad: compatible con la mayoría de los mangos de cepillo de dientes recargables de la serie, incluyendo Pro, Genius y Smart. No compatible con Oral-B Pulsonic.
+- 16 cabezales de cepillo de dientes de alta calidad: cabezales de repuesto de alta calidad con cerdas de nailon DuPont, que ofrecen una alta calidad al lavarse los dientes y te da la sonrisa perfecta. Nota: el cabezal de repuesto iTrunk es un repuesto compatible que no procede de la pieza de repuesto. ITrunk es una marca independiente.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K3TRPF6/?tag=tolees-21)

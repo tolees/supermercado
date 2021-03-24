@@ -28,10 +28,10 @@ En este momento está [Deliex delicias de Extremadura - Cesta de Navidad para Re
 
 🔎:
 
-- 5 x mermeladas miniatura Deliex con extra de fruta (30 g)
-- 1 x botella vino blanco Jaume Serra Penedes
 - 1 x estuche gourmet
+- 5 x mermeladas miniatura Deliex con extra de fruta (30 g)
 - pasto decorativo
 - 1 x miel milflores deliex 30 g
+- 1 x botella vino blanco Jaume Serra Penedes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JFBZ13G/?tag=tolees-21)
