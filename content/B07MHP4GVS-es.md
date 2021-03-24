@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'O NATURALS - Jabón Carbón Activo Natural al 0.00 % de rebaja'
-date: 2021-03-23 09:18:25
+date: 2021-03-24 15:59:45
 image: 'https://m.media-amazon.com/images/I/51DW0Rje2OL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -31,7 +31,7 @@ Tienes [O NATURALS - Jabón Carbón Activo Natural Negro Cuerpo Cara y Manos. Li
 - ULTRA PURIFICANTE: El Carbón de Coco Activo limpia profundamente cada poro para combatir el acné, las espinillas y manchas.
 - ALIVIA LA IRRITACIÓN: El Aceite de Menta calma y alivia los músculos cansados y doloridos.
 - ACLARA LA PIEL: El Aceite de Menta ajusta la producción de grasas y promueve la circulación resultando en una piel clara y fresca.
-- TRIPLE MOLIDO FRANCÉS: Estas barras de jabón de triple molido generan una espuma lujosa que brillará sobre su cuerpo dejando su piel lisa y más suave que antes.
 - VEGANO: Hecho de ingredientes orgánicos, puramente Natural, Sin Sulfitos, Sin Parabenos, para cualquier tipo de piel, no testeado en animales. Hecho en USA
+- TRIPLE MOLIDO FRANCÉS: Estas barras de jabón de triple molido generan una espuma lujosa que brillará sobre su cuerpo dejando su piel lisa y más suave que antes.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MHP4GVS/?tag=tolees-21)
