@@ -28,15 +28,15 @@ Ahora mismo tienes [Marca Amazon - Lifelong - Treats para perros  ricos en prote
 
 🔎:
 
-- Ideal para el entrenamiento. Alimento complementario que puede ser usado como recompensa en el entrenamiento
-- 2,4kg (8 x 300 gr). Con cordero, pato, pavo y vacuno
+- Con vitamina D3 para favorecer unos huesos y dientes saludables. Con vitamina E que ayuda a mantener un buen funcionamiento del sistema inmunitario
 - Con taurina para favorecer una vista y corazón saludables
+- 2,4kg (8 x 300 gr). Con cordero, pato, pavo y vacuno
+- Ideal para el entrenamiento. Alimento complementario que puede ser usado como recompensa en el entrenamiento
+- Sin azúcar, saborizantes ni colorantes añadidos. Con Biotina que contribuye a mantener un pelo brillante
 - Apto para todos los tamaños de perro, pequeños, medianos y grandes
 - Enriquecido con vitaminas, minerales y guisantes, una fuente natural de proteína
 - Sin cebada ni productos lácteos
-- Sin azúcar, saborizantes ni colorantes añadidos. Con Biotina que contribuye a mantener un pelo brillante
 - Desarrollado por nutricionistas de mascotas y revisado por veterinarios
 - Naturalmente rico en proteínas y muy nutritivo
-- Con vitamina D3 para favorecer unos huesos y dientes saludables. Con vitamina E que ayuda a mantener un buen funcionamiento del sistema inmunitario
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087RR2ZRL/?tag=tolees-21)
