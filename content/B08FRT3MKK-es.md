@@ -28,11 +28,11 @@ En este momento está [Marca Amazon - Happy Belly Select Café de Ruanda en gran
 
 🔎:
 
-- 100 % Arábica. Intensidad 3/5
 - Apto para dietas vegetarianas y veganas
-- Café de Ruanda. Tostado y envasado en Bélgica
 - Envase de 2: 2 x 500gr
 - RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
+- 100 % Arábica. Intensidad 3/5
+- Café de Ruanda. Tostado y envasado en Bélgica
 - Un café 100 % arábica suave y delicado, con un ligero final ácido y cultivado en Ruanda, la tierra de las mil colinas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FRT3MKK/?tag=tolees-21)
