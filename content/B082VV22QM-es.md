@@ -31,8 +31,8 @@ Ahora mismo tienes [Bionsan Azúcar Integral - 500 gr](https://www.amazon.es/dp/
 - Apto para vegetarianos y veganos.
 - Formato: bolsa de 500gr
 - INFORMACIÓN NUTRICIONAL (100gr): Energia: 1697KJ/399Kcal, Proteína: 0.2g., Grasa: 1g. De las cuales saturadas: 0.001g. Hidratos de carbono: 99.8g. De los cuales azúcares: 98.29g., Fibra: 0.1g., Sal: 0.01g.
-- Orígen: no UE
-- Alimento natural. No GMO. No irradiado.
 - Puede contener trazas de gluten, soja, frutos secos, sésamo, leche, apio y mostaza.
+- Alimento natural. No GMO. No irradiado.
+- Orígen: no UE
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082VV22QM/?tag=tolees-21)
