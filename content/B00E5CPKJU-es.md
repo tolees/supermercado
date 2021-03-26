@@ -28,10 +28,10 @@ Tienes [Fairy Professional Original - Lavavajillas a mano  5 l  paquete de 2](ht
 
 ℹ️:
 
-- Para toda la vajilla: platos, utensilios de cocina, etc
-- Sin perfume
 - Contenido de 5 litros
 - Diseñado para consumo profesional, para dar una mejor imágen a sus clientes
+- Para toda la vajilla: platos, utensilios de cocina, etc
+- Sin perfume
 - Fórmula que elimina rápida y eficazmente la grasa más difícil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00E5CPKJU/?tag=tolees-21)
