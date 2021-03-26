@@ -30,8 +30,8 @@ Ahora mismo tienes [Ariel Pods Allin1 Detergente Lavadora Cápsulas  123 Lavados
 
 - Para un resulatdo óptimo, combínalo con Lenor UNstoppables perlas de perfume para la ropa
 - Resultados increíbles con una sola cápsula de detergente concentrado
+- Depositar la cápsula en el tambor de la lavadora antes de la ropa
 - Limpieza e higiene profundas; eficaz en frío (incluso a 30 °C)
 - El recubrimiento de la cápsula se disuelve totalmente al entrar en contacto con el agua
-- Depositar la cápsula en el tambor de la lavadora antes de la ropa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086KGR7B2/?tag=tolees-21)

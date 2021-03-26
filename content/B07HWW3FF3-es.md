@@ -30,7 +30,7 @@ En este momento está [LICOR DEL POLO Junior pasta dentífrica fresa +6 años tu
 
 - Para niños mayores de +6 años que ya tienen dientes permamentes.
 - 12h de protección
-- Su dulce sabor a fresa, hará del cepillado una experiencia agradable y divertida para los niños.
 - Producto de alto calidad
+- Su dulce sabor a fresa, hará del cepillado una experiencia agradable y divertida para los niños.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HWW3FF3/?tag=tolees-21)
