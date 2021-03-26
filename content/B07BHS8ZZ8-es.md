@@ -29,9 +29,9 @@ En este momento está [Tognana Graphic - Juego de 6 tazas de café con platillo 
 🔎:
 
 - Se puede lavar en el lavavajillas
+- 6 tazas de café de 80 cc con platillo a juego
+- Material: porcelana fina
 - Altura: 6 cm
 - En caja de regalo
-- Material: porcelana fina
-- 6 tazas de café de 80 cc con platillo a juego
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BHS8ZZ8/?tag=tolees-21)

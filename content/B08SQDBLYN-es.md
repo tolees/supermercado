@@ -29,9 +29,9 @@ En este momento está [Hoya Santoña - Hoya Anchoas de Santoña XL - 00 Lata de 
 🔎:
 
 - 👨‍👩‍👧‍👦 TRADICIÓN FAMILIAR. Somos una empresa familiar que nos dedicamos a elaborar conservas de pescado en Santoña (Cantabria) desde 1940.
+- 🌳 ACEITE DE OLIVA DE ALTA CALIDAD proveniente de olivares del país. El mejor conservante natural para lo mejor de nuestros mares.
 - 💙 SALUDABLE. Consumir pescado azul es beneficioso para nuestra salud cardiovascular, ósea y cognitiva. De su consumo obtenemos, proteínas, ácidos grasos, omega 3 y Vitaminas A y D.
 - 🤲 ELABORACIÓN ARTESANAL. Nuestras anchoas siguen un largo proceso de elaboración artesanal: captura, madurado en salazón, sobado, fileteado y envasado a mano.
-- 🌳 ACEITE DE OLIVA DE ALTA CALIDAD proveniente de olivares del país. El mejor conservante natural para lo mejor de nuestros mares.
 - 🐟 ANCHOAS DE SANTOÑA XL elaboradas a partir de la selección de los bocartes de mayor tamaño (Engraulis Encrasicolus) del mar CANTÁBRICO capturados en primavera con métodos de pesca tradicional que contribuyen a la sostenibilidad de nuestros mares.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SQDBLYN/?tag=tolees-21)
