@@ -28,12 +28,12 @@ Ahora mismo tienes [Crock-Pot CSC051X  Olla Multicooker Express para todo tipo d
 
 🔎:
 
-- Panel digital programable, con posibilidad de inicio diferido.
 - Prepara recetas como pollo asado entero en 30 minutos, risotto en 8 minutos, costillas melosas en 15... También puedes hacer bizcochos, yogur, pan...
 - Función yogertera: función específica para hacer yogur casero de manera muy sencilla.
 - Potencia el sabor y la textura de tus platos, conservando mejor el aporte nutricional de los ingredientes.
-- 4 opciones para cocinar – cocción lenta, cocción rápida (express cook), sellar/saltear o vapor
+- Panel digital programable, con posibilidad de inicio diferido.
 - 8 opciones de cocción rápida: tus recetas deliciosas y saludables, hechas de la manera más rápida y sencilla con simplemente pulsar un botón. La opción de cocción rápida a presión cocina hasta un 70% más rápido que el horno o la placa tradicional.
 - Recipiente para cocinar desmontable con capacidad 5L, antiadherente y muy fácil de limpiar - apto para lavavajillas.
+- 4 opciones para cocinar – cocción lenta, cocción rápida (express cook), sellar/saltear o vapor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D6K47HT/?tag=tolees-21)
