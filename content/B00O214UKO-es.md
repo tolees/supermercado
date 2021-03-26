@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TASSIMO Marcilla Café con Leche - 5 paqu al 0.00 % de rebaja'
-date: 2021-03-24 14:27:21
+date: 2021-03-26 16:09:33
 image: 'https://m.media-amazon.com/images/I/41sZwIoC8eL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tassimo'
 buyurl: 'https://www.amazon.es/dp/B00O214UKO/?tag=tolees-21'
 descuento: '0.00'
-average: '23.1423863636363'
+average: '23.308111111111'
 ---
 
 Tienes [TASSIMO Marcilla Café con Leche - 5 paquetes de 16 cápsulas: Total 80 unidades](https://www.amazon.es/dp/B00O214UKO/?tag=tolees-21) con precio final de  30.6 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
