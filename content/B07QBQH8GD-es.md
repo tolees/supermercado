@@ -30,8 +30,8 @@ En este momento está [Finish Limpiamáquinas - Líquido para lavavajillas contr
 
 - Finish es la marca recomendada por los principales fabricantes de lavavajillas
 - Neutraliza los malos olores
-- Finish Limpiamáquinas limpia tu lavavajillas para que brillen tus platos y elimina los malos olores
 - Se recomienda utilizar una vez al mes
+- Finish Limpiamáquinas limpia tu lavavajillas para que brillen tus platos y elimina los malos olores
 - Elimina la suciedad y la cal escondida del lavavajillas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QBQH8GD/?tag=tolees-21)

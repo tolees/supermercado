@@ -28,10 +28,10 @@ Tienes [Pantene Repara Y Protege  Mascarilla Pelo Seco Y Dañado  Tratamiento Re
 
 ℹ️:
 
-- Mascarilla pelo que ayuda a combatir los signos del daño con 1 solo uso
 - Testado por el instituto suizo de la vitamina
+- Como vitaminas para el cabello
 - MASCARILLA PELO SECO Y DAÑADO: tratamiento reconstructor de keratina
 - Suavidad de un tratamiento de peluquería desde el primer uso
-- Como vitaminas para el cabello
+- Mascarilla pelo que ayuda a combatir los signos del daño con 1 solo uso
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08DDH3S5R/?tag=tolees-21)
