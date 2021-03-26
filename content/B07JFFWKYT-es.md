@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Deliex delicias de Extremadura - Cesta G al 0.00 % de descuento'
-date: 2021-03-23 17:26:33
+date: 2021-03-26 03:08:57
 image: 'https://m.media-amazon.com/images/I/51zBFhsZ+NL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [Deliex delicias de Extremadura - Cesta Gourmet Deliex con Vi
 
 🔎:
 
+- Productos gourmet Extremadura
+- Se presenta en caja de cartón negra, con una frase a ambos lados del estuche (ojo, frase no personalizable)
+- vino tinto de 37.5 cl (Cristal)
 - envíos rápidos.
 - 4 tarros en miniatura de 30 g
-- Se presenta en caja de cartón negra, con una frase a ambos lados del estuche (ojo, frase no personalizable)
-- Productos gourmet Extremadura
-- vino tinto de 37.5 cl (Cristal)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JFFWKYT/?tag=tolees-21)

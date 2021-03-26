@@ -30,8 +30,8 @@ Tienes [JamonOnline - Cesta de Navidad con Paleta 5J  Lomo de Bellota  Chorizo d
 
 - Cesta de Navidad Compuesta por:
 - 1 Chorizo de Bellota de Guijuelo y 1 Salchichón de Bellota de Guijuelo de 750 gr aprox cada uno.
-- 1 Paleta Cinco Jotas - 5J de 4,5 a 5 Kg.
 - 1 Botella de Vino Protos Ribera del Duero. Todo en una caja especial para regalo.
+- 1 Paleta Cinco Jotas - 5J de 4,5 a 5 Kg.
 - 1 Lomo de Bellota de Guijuelo de 750 gr aprox.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07JD5BNCJ/?tag=tolees-21)
