@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Tognana Graphic - Juego de 6 tazas de ca con un 0.00 % de descuento'
-date: 2021-03-02 07:07:43
+date: 2021-03-26 19:09:12
 image: 'https://m.media-amazon.com/images/I/51tLox15fML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHS8ZZ8-es Tognana Graphic - Juego de 6 tazas de café con platillo a...'
 sku: 'B07BHS8ZZ8-es'
+tags: [ 'Cubertería, Vajilla y Cristalería','Hogar y cocina','Piezas de vajilla','Tazas','Tazas para espresso','café','tognana', ]
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6
@@ -27,10 +28,10 @@ En este momento está [Tognana Graphic - Juego de 6 tazas de café con platillo 
 
 🔎:
 
-- Altura: 6 cm
-- Material: porcelana fina
-- En caja de regalo
 - Se puede lavar en el lavavajillas
+- Altura: 6 cm
+- En caja de regalo
+- Material: porcelana fina
 - 6 tazas de café de 80 cc con platillo a juego
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BHS8ZZ8/?tag=tolees-21)
