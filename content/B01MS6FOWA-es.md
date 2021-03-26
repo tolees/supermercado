@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alpro Central Lechera Asturiana Bebida d al 0.00 % de descuento'
-date: 2021-03-23 08:54:37
+date: 2021-03-26 02:30:43
 image: 'https://m.media-amazon.com/images/I/41WQsnJWsGL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Alpro Central Lechera Asturiana Bebida de Avellana - Paquete de 8 x 1000 
 
 ℹ️:
 
-- Enriquecida con calcio y vitaminas B2,B12,E y D
 - Bebida de avellanas UHT
+- Enriquecida con calcio y vitaminas B2,B12,E y D
 - Sabor suave y cremoso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MS6FOWA/?tag=tolees-21)
