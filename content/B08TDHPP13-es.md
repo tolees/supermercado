@@ -28,9 +28,9 @@ En este momento está [Nestlé Extrafino Dinosaurus Tableta de Chocolate 120 g -
 
 🔎:
 
-- Azúcar, galleta (22,8%), almidón de trigo, salvado de trigo, azúcar, aceite de girasol alto oleico, sal, suero de leche en polvo, gasificantes, leche desnatada en polvo
-- Alérgenos: trigo, centeno, leche, grasa láctea, frutos de cáscara, huevo y soja
 - España
+- Azúcar, galleta (22,8%), almidón de trigo, salvado de trigo, azúcar, aceite de girasol alto oleico, sal, suero de leche en polvo, gasificantes, leche desnatada en polvo
 - Conservar en lugar fresco y seco
+- Alérgenos: trigo, centeno, leche, grasa láctea, frutos de cáscara, huevo y soja
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TDHPP13/?tag=tolees-21)
