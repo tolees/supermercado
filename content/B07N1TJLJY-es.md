@@ -28,9 +28,9 @@ Está [Colon Higiene - Detergente para Lavadora con Activos Higiénicos y Elimin
 
 ℹ️:
 
-- Detergente para la lavadora concentrado en formato gel higiene
-- Higieniza los tejidos y elimina los malos olores de tu ropa gracias a sus activos higiénicos
 - Apto para ropa blanca y de color
+- Higieniza los tejidos y elimina los malos olores de tu ropa gracias a sus activos higiénicos
+- Detergente para la lavadora concentrado en formato gel higiene
 - Descubre el resto de detergentes y complementos para el lavado de Colon
 - Limpieza en profundidad, elimina las manchas más difíciles
 

@@ -28,10 +28,10 @@ Tienes [Mroobest - Champu Anticaspa  Psoriasis Champu  Anti Dandruff Shampoo  Ch
 
 🔎:
 
-- Champú para la psoriasis: formulado para aliviar la picazón asociada con la psoriasis del cuero cabelludo, el eccema y el cuero cabelludo inflamado. La sal marina limpia suavemente el cabello y aborda el cuero cabelludo con picazón.
-- Ingredientes activos: la sal marina es un ingrediente activo natural y multifuncional con propiedades antimicrobianas. Es altamente eficaz contra los microorganismos que causan trastornos de la piel como la caspa, la dermatitis seborreica y la psoriasis.
-- Hidrata profundamente el cuero cabelludo y el cabello: obtén el cabello sedoso, brillante y saludable que siempre has querido. Elimina suavemente y por completo la acumulación de vello. El uso continuado devolverá su cuero cabelludo a su estado saludable.
 - Eficaz contra la psoriasis y la caspa: champú natural de sal marina que ayuda a eliminar el cuero cabelludo con picazón y escamosa. Hidrata profundamente, nutre y limpia tu cuero cabelludo, devolviéndote tu hermoso cabello.
+- Champú para la psoriasis: formulado para aliviar la picazón asociada con la psoriasis del cuero cabelludo, el eccema y el cuero cabelludo inflamado. La sal marina limpia suavemente el cabello y aborda el cuero cabelludo con picazón.
+- Hidrata profundamente el cuero cabelludo y el cabello: obtén el cabello sedoso, brillante y saludable que siempre has querido. Elimina suavemente y por completo la acumulación de vello. El uso continuado devolverá su cuero cabelludo a su estado saludable.
+- Ingredientes activos: la sal marina es un ingrediente activo natural y multifuncional con propiedades antimicrobianas. Es altamente eficaz contra los microorganismos que causan trastornos de la piel como la caspa, la dermatitis seborreica y la psoriasis.
 - Nuestro champú utiliza ingredientes activos que penetran profundamente en los poros para eliminar la sequedad, reducir las imperfecciones antiestéticas y restaurar el resplandor natural. No más copos vergonzosos en tus hombros o ropa.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081ZPZ9LH/?tag=tolees-21)

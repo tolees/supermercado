@@ -29,9 +29,9 @@ Tienes [Marca Amazon - Solimo Gel de ducha para hombre 3 en 1  Cuerpo  cara y ca
 ℹ️:
 
 - Únicamente para uso externo
+- Gel de ducha para hombre
 - Dermatológicamente probad
 - 6 Botellas x 400 ml
 - Ideal para el uso diario
-- Gel de ducha para hombre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08L5LWKK5/?tag=tolees-21)

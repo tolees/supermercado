@@ -28,10 +28,10 @@ Ahora mismo tienes [Max Factor Lash Revival Primer  Máscara Primer de Pestañas
 
 🔎:
 
-- Impulsa el volumen y aporta grosor y longitud a las pestañas
 - Contiene crema hidrante
+- Fórmula única con microfibras, aceites nutritivos y vitamina e
 - Cepillo suave
 - Primer que cuida y da volumen a tus pestañas
-- Fórmula única con microfibras, aceites nutritivos y vitamina e
+- Impulsa el volumen y aporta grosor y longitud a las pestañas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07V2JBBCM/?tag=tolees-21)
