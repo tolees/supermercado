@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Burn Original Bebida Energética  500ml al 0.00 % de rebaja'
-date: 2021-03-26 09:09:58
+date: 2021-03-27 20:09:13
 image: 'https://m.media-amazon.com/images/I/41VPjgwflXL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Tienes [Burn Original Bebida Energética  500ml](https://www.amazon.es/dp/B00XA0
 🔎:
 
 - Consumir moderadamente
-- Contenido moderadamente
-- Contenido elevado de cafeína
 - No recomendado para niños ni mujeres embarazadas o en período lactancia (32 mg/ 100 ml)
+- Contenido elevado de cafeína
+- Contenido moderadamente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XA0G9JI/?tag=tolees-21)
