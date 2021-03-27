@@ -28,14 +28,14 @@ Está [Pescamar Mejillones En Salsa De Mojo Rojo En Lata 111 G 111 g](https://ww
 
 ℹ️:
 
-- Advertencia de seguridad: No es apropiado para menores de 3 años
 - Muy delicioso y sabroso para comer
-- Ingredientes: MEJILLONES (Mytilus galloprovincialis) pimiento rojo, aceite de girasol, agua, vinagre, ajo, almidón, sal, cayena
-- Fácil de digerir, delicioso, conveniente y un excelente refrigerio
-- Información de alérgenos: Molluscs
-- Ideal para preparar ensaladas y otros platos
-- Instrucciones para su uso adecuado: Una vez abierto mantener refrigerado hasta 24 horas
-- Usando métodos y preparaciones tradicionales
 - Aportando el máximo sabor y un gusto exquisito
+- Ideal para preparar ensaladas y otros platos
+- Usando métodos y preparaciones tradicionales
+- Información de alérgenos: Molluscs
+- Fácil de digerir, delicioso, conveniente y un excelente refrigerio
+- Ingredientes: MEJILLONES (Mytilus galloprovincialis) pimiento rojo, aceite de girasol, agua, vinagre, ajo, almidón, sal, cayena
+- Advertencia de seguridad: No es apropiado para menores de 3 años
+- Instrucciones para su uso adecuado: Una vez abierto mantener refrigerado hasta 24 horas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HP1DTVR/?tag=tolees-21)
