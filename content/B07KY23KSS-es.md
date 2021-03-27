@@ -28,9 +28,9 @@ En este momento está [Colgate Triple Acción  Pasta de Dientes  75 ml](https://
 
 🔎:
 
-- Elimina las manchas de la superficie
-- Pasta de dientes con micropartículas pulidoras para dientes más blancos
 - Siéntete cómodo con aliento fresco
 - Protección anticaries probada
+- Pasta de dientes con micropartículas pulidoras para dientes más blancos
+- Elimina las manchas de la superficie
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KY23KSS/?tag=tolees-21)
