@@ -28,9 +28,9 @@ Está [Dixan Detergente Líquido Adiós Al Separar 75 Lavados - Pack de 3  Total
 
 ℹ️:
 
-- Gran poder en eliminación de manchas
-- Luminosidad para toda la ropa: blancos y colores
 - Olor fresco y duradero, gracias a su tecnología exclusiva que mantiene la ropa fresca incluso tras 12h dentro de la lavadora
+- Gran poder en eliminación de manchas
 - Ayuda a prevenir la transferencia de colores de una prenda a otra
+- Luminosidad para toda la ropa: blancos y colores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YBG21KN/?tag=tolees-21)

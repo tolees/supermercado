@@ -28,11 +28,11 @@ Está [Nestlé Junior Crecimiento 2+ Galleta María Leche para Niños A Partir d
 
 ℹ️:
 
-- Nestlé Junior Crecimiento está elaborada a partir de leche de vaca recogida diariamente de los valles del norte de España
-- Nestlé Junior Crecimiento 2+ sabor a Galleta María adaptada a las necesidades de tu peque a partir de los 2 años SIN ACEITE DE PALMA
+- Contiene CALCIO, ZINC y 13 VITAMINAS, que ayuda a los niños en esta etapa de crecimiento
 - Leche líquida para tu niño con sabor a Galleta María
+- Nestlé Junior Crecimiento está elaborada a partir de leche de vaca recogida diariamente de los valles del norte de España
 - Nestlé Junior Crecimiento contiene ALA (Omega 3) que contribuye al desarrollo cerebral y de los tejidos nerviosos
 - Nestlé Junior Crecimiento es rica en HIERRO, que ayuda al desarrollo cognitivo normal
-- Contiene CALCIO, ZINC y 13 VITAMINAS, que ayuda a los niños en esta etapa de crecimiento
+- Nestlé Junior Crecimiento 2+ sabor a Galleta María adaptada a las necesidades de tu peque a partir de los 2 años SIN ACEITE DE PALMA
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079ZYK7N1/?tag=tolees-21)
