@@ -28,10 +28,10 @@ Tienes [L Oreal Paris Dermo Expertise - L Oréal Paris Dermo Expertise - Revital
 
 🔎:
 
-- Sérum antiarrugas para mujer, con Adenosina, activo anti-arrugas para combatir los signos del envejecimiento y Fibrelastyl
-- La piel está más hidratada, alisada, tonificada y más firme
-- Aplicar un par de gotas en la yema de los dedos a diario, mañana y noche realizando movimientos ascendentes sobre el rostro previamente limpios
 - Complejo reafirmante que refuerza la tonicidad de la piel para una mayor firmeza y con pro-retinol avanzado para alisar la superficie de la piel
+- La piel está más hidratada, alisada, tonificada y más firme
+- Sérum antiarrugas para mujer, con Adenosina, activo anti-arrugas para combatir los signos del envejecimiento y Fibrelastyl
 - En 1 hora piel más lisa y las patas de gallo se alisan; tras 7 días piel más flexible, firme y uniforme; en 4 semanas las arrugas se reducen
+- Aplicar un par de gotas en la yema de los dedos a diario, mañana y noche realizando movimientos ascendentes sobre el rostro previamente limpios
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01H5VO9QM/?tag=tolees-21)

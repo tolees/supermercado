@@ -28,10 +28,10 @@ Tienes [L Oreal Paris Dermo Expertise - L Oréal Paris Revitalift Contorno de Oj
 
 ℹ️:
 
-- Aplicar por la mañana y por la noche en la zona del contorno de los ojos, comenzando desde el exterior hacia la parte interna, dando ligeros golpecitos con la punta de los dedos
-- Contenido: 1x LOréal Paris Revitalift Contorno de Ojos Hidratante, 15 ml
-- Fórmula compuesta por un poderoso ingrediente activo antiarrugas (Pro-Retinol Nuevo) para alisar la superficie de la piel y un complejo reafirmante (Fibrelastyl) para reforzar la tonicidad de la piel
-- Resultados: El contorno de los ojos se hidrata y tonifica inmediatamente, Las arrugas de las patas de gallo se reducen significativamente en 4 semanas
 - Crema para el contorno de los ojos para una acción profunda sobre las arrugas y la firmeza de la piel
+- Fórmula compuesta por un poderoso ingrediente activo antiarrugas (Pro-Retinol Nuevo) para alisar la superficie de la piel y un complejo reafirmante (Fibrelastyl) para reforzar la tonicidad de la piel
+- Contenido: 1x LOréal Paris Revitalift Contorno de Ojos Hidratante, 15 ml
+- Resultados: El contorno de los ojos se hidrata y tonifica inmediatamente, Las arrugas de las patas de gallo se reducen significativamente en 4 semanas
+- Aplicar por la mañana y por la noche en la zona del contorno de los ojos, comenzando desde el exterior hacia la parte interna, dando ligeros golpecitos con la punta de los dedos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00STBWMAS/?tag=tolees-21)

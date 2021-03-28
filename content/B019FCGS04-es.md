@@ -29,7 +29,7 @@ Tienes [TapeCase TC414 UPVC cinta  varios tamaños   canela  1](https://www.ama
 🔎:
 
 - Easy removal
-- Resists most acids, solvents and alkalis
 - Strong adhesive power
+- Resists most acids, solvents and alkalis
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B019FCGS04/?tag=tolees-21)

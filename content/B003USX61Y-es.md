@@ -28,9 +28,9 @@ Está [Catunambú  Café de grano tostado - 500 gr.](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Una vez abierto, conservar en lugar fresco y seco
-- Alérgenos: No posee
 - Ingredientes: café
 - País de origen: España
+- Una vez abierto, conservar en lugar fresco y seco
+- Alérgenos: No posee
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003USX61Y/?tag=tolees-21)
