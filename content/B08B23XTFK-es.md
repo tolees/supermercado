@@ -28,8 +28,8 @@ En este momento está [Ariel Detergente Lavadora Líquido  150 Lavados  5 x 30  
 
 🔎:
 
-- Botella 100% reciclable; por razones medioambientales, las botellas no cuentan con un tapón medidor pero puedes pedirlo de forma gratuita en el sitio web ariel
 - Eficaz en frío (incluso a 30 °C) y en lavados cortos; su poder quita manchas elimina las manchas profundas
+- Botella 100% reciclable; por razones medioambientales, las botellas no cuentan con un tapón medidor pero puedes pedirlo de forma gratuita en el sitio web ariel
 - Detergente líquido para una limpieza e higiene profunda
 - No deja residuos visibles en las telas
 - Para un resulatdo óptimo, combínalo con Lenor UNstoppables perlas de perfume para la ropa
