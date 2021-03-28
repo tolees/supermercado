@@ -28,9 +28,9 @@ Tienes [Trapa Intenso Puro Chocolate con Avellanas Enteras - 190 g](https://www.
 
 ℹ️:
 
-- Puede contener otros frutos de cáscara y leche.
-- País de origen: España
 - Conservar en lugar fresco, seco, alejado de olores y protegido de la luz solar.
 - Sin gluten
+- País de origen: España
+- Puede contener otros frutos de cáscara y leche.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SGCLSL5/?tag=tolees-21)
