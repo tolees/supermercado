@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 16.57 % en Pantene Repara Y Protege  Mascarilla Pel'
-date: 2021-03-26 15:44:20
+date: 2021-03-28 14:25:57
 image: 'https://m.media-amazon.com/images/I/51c9p7yUkvL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Pantene Repara Y Protege  Mascarilla Pelo Seco Y Dañado  Tratamiento Re
 
 ℹ️:
 
-- Testado por el instituto suizo de la vitamina
-- Como vitaminas para el cabello
 - MASCARILLA PELO SECO Y DAÑADO: tratamiento reconstructor de keratina
+- Como vitaminas para el cabello
+- Testado por el instituto suizo de la vitamina
 - Suavidad de un tratamiento de peluquería desde el primer uso
 - Mascarilla pelo que ayuda a combatir los signos del daño con 1 solo uso
 

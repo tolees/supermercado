@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nescafé DOLCE GUSTO Magnum ESPRESSO INTE al 13.09 % de descuento'
-date: 2021-03-21 23:32:36
+date: 2021-03-28 14:11:28
 image: 'https://m.media-amazon.com/images/I/41jW4hDCjYL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nescafé Dolce Gusto'
 buyurl: 'https://www.amazon.es/dp/B07SLLTPHD/?tag=tolees-21'
 descuento: '13.09'
-average: '21.5218181818182'
+average: '21.3941666666667'
 ---
 
 Ahora mismo tienes [Nescafé DOLCE GUSTO Magnum ESPRESSO INTENSO - Cápsulas de Café 3 x 30 - 90 Cápsulas](https://www.amazon.es/dp/B07SLLTPHD/?tag=tolees-21) a 19.99 EUR (original: 23.0 EUR) (13.09 %  de descuento) en el siguiente enlace!
