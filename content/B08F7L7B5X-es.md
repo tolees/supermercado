@@ -28,9 +28,9 @@ Tienes [Deliex delicias de Extremadura - Económica cesta de Navidad para regalo
 
 ℹ️:
 
-- Lote para regalar con productos ibéricos gourmet y vino con tarjeta personalizada en estuche de regalo con pasto decorativo
 - 1 Botella de vino Cencibel Señorio de Esparragosa 75 c
 - 1 Salchichón ibérico de bellota y 1 chorizo ibérico de bellota en vela 250 gr cada uno
+- Lote para regalar con productos ibéricos gourmet y vino con tarjeta personalizada en estuche de regalo con pasto decorativo
 - 1 Cuña de queso de oveja curado de 250 gr
 - 1 crema de boletus con trufa 110 gr cristal 1 paté de anchos 110 gr cristal 1 crema de cacao mix con avellanas 110 gr cristal
 
