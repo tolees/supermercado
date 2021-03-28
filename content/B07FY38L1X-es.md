@@ -28,10 +28,10 @@ Está [Nivea Sun Kids - Spray Solar Niños Hidratante FP50+ - Protección UV muy
 
 ℹ️:
 
-- Protección UVA - UVB inmediata
 - Proporciona al rostro una protección efectiva e inmediata frente UVA/UVB al tiempo que su fórmula absorbe el exceso de grasa de la superficie cutánea
-- Protección solar 50+, muy alta y extra resistente al agua
-- Su fórmula hidratante con derivados naturales antioxidantes matiza la piel al instante, dejando una sensación ligera, nada pegajosa e invisible
 - Fórmula creada especialmente para la delicada piel de los niños
+- Su fórmula hidratante con derivados naturales antioxidantes matiza la piel al instante, dejando una sensación ligera, nada pegajosa e invisible
+- Protección solar 50+, muy alta y extra resistente al agua
+- Protección UVA - UVB inmediata
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FY38L1X/?tag=tolees-21)
