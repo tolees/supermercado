@@ -28,10 +28,10 @@ Tienes [Copper Dog Speyside Blended Malt Whisky Escocés - 700 ml](https://www.a
 
 ℹ️:
 
+- Una mezcla de nada menos que ocho whiskies puros de malta de Speyside. Añejados en cubas reutilizadas durante tres meses tras la mezcla
 - Fresco y afrutado, con notas malteadas y toques de madera, principalmente vainilla y especias
 - Un whisky escocés fácil de beber que se puede disfrutar solo o mezclado
 - Copper Dog se disfruta mejor con zumo de manzana, cola o en un Old Fashioned
 - Whisky de malta premium creado con los mejores whiskies de Speyside, ideal para mezclar, puntuado con 92/100 en los San Francisco Wine & Spirit Awards 2017
-- Una mezcla de nada menos que ocho whiskies puros de malta de Speyside. Añejados en cubas reutilizadas durante tres meses tras la mezcla
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MR5YFWL/?tag=tolees-21)
