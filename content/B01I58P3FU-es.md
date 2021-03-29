@@ -28,8 +28,8 @@ En este momento está [OOTB- Palmera Inflable  Estilo Tropical  Color Verde y ca
 
 🔎:
 
-- Su estilo caribeño trae visualmente la sensación de vacaciones de playa en su casa
 - Crea una decoración tropical ideal para el área de piscina ó jardínes
 - Se infla fácilmente y tiene una altura aprox. de 87cm.
+- Su estilo caribeño trae visualmente la sensación de vacaciones de playa en su casa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01I58P3FU/?tag=tolees-21)
