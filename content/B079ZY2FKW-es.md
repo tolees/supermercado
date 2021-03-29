@@ -28,10 +28,10 @@ Ahora mismo tienes [Axe Collision - Gel de Ducha para hombres  Pack 6 x 250 ml](
 
 🔎:
 
+- REVITALIZING Shower – 3 en 1
 - Axe re de descarga con burbujas de oxígeno – vivificados cuerpo y espíritu
+- Gel de Ducha para hombres
 - Gel de Ducha dermatológicamente probado
 - De pH hautneutrales Gel de Ducha
-- REVITALIZING Shower – 3 en 1
-- Gel de Ducha para hombres
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079ZY2FKW/?tag=tolees-21)

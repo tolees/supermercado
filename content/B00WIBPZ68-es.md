@@ -28,10 +28,10 @@ En este momento está [Parodontax - Colutorio de Uso Diario para el Sangrado de 
 
 🔎:
 
+- Ayuda a eliminar la placa bacteriana y a mantener unas encías sanas
 - Alcanza 3 veces más bacterias
-- Ayuda a proteger y fortalecer tus dientes
 - Sabor mentolado que ayuda a refrescar el aliento
 - Protege contra el mal aliento
-- Ayuda a eliminar la placa bacteriana y a mantener unas encías sanas
+- Ayuda a proteger y fortalecer tus dientes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00WIBPZ68/?tag=tolees-21)
