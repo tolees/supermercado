@@ -28,10 +28,10 @@ Tienes [DCOOP Aceite de Oliva Virgen Extra - Coupage Estándar  Aceituna Hojibla
 
 🔎:
 
+- SELECCIÓN DCOOP: aceite español procedente de la cosecha de miles de pequeños agricultores que forman la cooperativa Dcoop
 - MARIDAJE: las cualidades organolépticas de este aceite resultan ideales para la elaboración de cualquier tipo de plato, desde guisos o asados hasta fritos
 - NOTA de CATA: frutado, versátil y equilibrado; la entrada en boca marca su fuerte personalidad con un sabor auténtico, complejo y persistente
-- FORMATO: envasado en botella PET oscura de 1 litro que preserva mejor las propiedades del producto, tapón de rosca; práctico y versátil para todo tipo de usos en cocina y mesa
 - VARIEDAD: aceite de oliva virgen extra coupage elaborado en su mayoría con aceitunas de la variedad Hojiblanca
-- SELECCIÓN DCOOP: aceite español procedente de la cosecha de miles de pequeños agricultores que forman la cooperativa Dcoop
+- FORMATO: envasado en botella PET oscura de 1 litro que preserva mejor las propiedades del producto, tapón de rosca; práctico y versátil para todo tipo de usos en cocina y mesa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08W9Q69FV/?tag=tolees-21)
