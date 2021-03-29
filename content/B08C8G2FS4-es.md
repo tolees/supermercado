@@ -28,10 +28,10 @@ Tienes [Cola Cao - ColaCao Original: con Cacao Natural-2 7kg  Power Bank ](https
 
 🔎:
 
-- Alérgenos: contiene trigo y cebada. Mantener en lugar fresco y seco.
-- 192 raciones en su formato ahorro de 2,7Kg (Contiene 2 bolsas en su interior)
 - Gratis el Power Bank de ColaCao. Recarga tu batería donde y cuando quieras! Con 2.500 mAh de capacidad. Con indicador LED de carga. Incluye cable Micro USB, en caso que tu dispositivo tenga una entrada diferente, usa tu propio cable de carga.
 - El ColaCao de siempre, eso tan tuyo. Con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos. Sus grumitos se deben al cacao natural y porque no contiene aditivos.
+- 192 raciones en su formato ahorro de 2,7Kg (Contiene 2 bolsas en su interior)
+- Alérgenos: contiene trigo y cebada. Mantener en lugar fresco y seco.
 - Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08C8G2FS4/?tag=tolees-21)
