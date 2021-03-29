@@ -28,10 +28,10 @@ Tienes [Pernigotti Snack De Chocolate Negro Relleno De Crema De  Avellana  99 Gr
 
 🔎:
 
-- Pernigotti - Crock de chocolate negro, 30%: barquillo recubierto de chocolate, 45%, y relleno de crema de avellana, 58%, con trozos de avellanas, 6%.
-- País de origen: Turquía
-- Sin aceite de Palma
 - Conservar en lugar fresco y seco, preferiblemente entre 18ºC y 20ºC y alejado de olores.
 - Alérgenos: leche y productos derivados (incluida la lactosa), frutos con cásccara
+- Sin aceite de Palma
+- Pernigotti - Crock de chocolate negro, 30%: barquillo recubierto de chocolate, 45%, y relleno de crema de avellana, 58%, con trozos de avellanas, 6%.
+- País de origen: Turquía
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PWVJZ9L/?tag=tolees-21)

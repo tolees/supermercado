@@ -28,10 +28,10 @@ En este momento está [Deliex delicias de Extremadura - Cesta lote gourmet de re
 
 🔎:
 
-- 1 botella de vino tinto envejecido Marques de Carrión de 75 cl.
 - 1 caja grande de cartón de regalo (ancho 10,5 cm x largo 36 cm x alto 34,5 cm).
-- 1 x deliex salchichas de herradura ibérica 300 g aprox.
-- 1 x mitad de cerdo ibérico con paprika de 550 g aproximadamente; 1 x Wedge queso de brebis refinado Deliex 250 g aprox.
 - 1 ensaladera de herradura Deliex ibérique de 300 g aprox.
+- 1 x mitad de cerdo ibérico con paprika de 550 g aproximadamente; 1 x Wedge queso de brebis refinado Deliex 250 g aprox.
+- 1 x deliex salchichas de herradura ibérica 300 g aprox.
+- 1 botella de vino tinto envejecido Marques de Carrión de 75 cl.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077N6CC3F/?tag=tolees-21)
