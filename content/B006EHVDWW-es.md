@@ -28,8 +28,8 @@ Está [Dove Invisible Dry - Desodorante stick  40 ml  empaque puede variar ](htt
 
 ℹ️:
 
-- Tipo de producto: Desodorante
 - Género: Unisex Adultos
+- Tipo de producto: Desodorante
 - Marca: Dove
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006EHVDWW/?tag=tolees-21)
