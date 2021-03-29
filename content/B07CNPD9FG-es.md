@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Somat Oro Gel Detergente Lavavajillas An al 0.00 % de rebaja'
-date: 2021-03-28 16:48:47
+date: 2021-03-29 21:23:14
 image: 'https://m.media-amazon.com/images/I/51idv8n7k0L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Somat'
 buyurl: 'https://www.amazon.es/dp/B07CNPD9FG/?tag=tolees-21'
 descuento: '0.00'
-average: '13.5384999999999'
+average: '13.5723809523809'
 ---
 
 Tienes [Somat Oro Gel Detergente Lavavajillas Antigrasa - 100 Lavados  1.8 l ](https://www.amazon.es/dp/B07CNPD9FG/?tag=tolees-21) con precio final de  14.25 EUR (original:  EUR) (0.00 %  de rebaja) aqui!

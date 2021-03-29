@@ -28,9 +28,9 @@ Ahora mismo tienes [SKIP Active clean detergente máquina polvo maleta 48 cacito
 
 🔎:
 
-- Tiene una formula concentrada
 - Incluye aceleradores de lavado
 - Elimina las manchas difíciles
 - La cantidad es adecuada para 48 lavados
+- Tiene una formula concentrada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01IVIVJZ2/?tag=tolees-21)

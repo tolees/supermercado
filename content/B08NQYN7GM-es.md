@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GUILLEN JAMONES Y EMBUTIDOS - Surtido Em al 0.00 % de descuento'
-date: 2021-03-28 17:03:28
+date: 2021-03-29 21:30:14
 image: 'https://m.media-amazon.com/images/I/51YXzxFV7FL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GUILLEN JAMONES Y EMBUTIDOS'
 buyurl: 'https://www.amazon.es/dp/B08NQYN7GM/?tag=tolees-21'
 descuento: '0.00'
-average: '46.9884848484849'
+average: '46.9834285714286'
 ---
 
 Ahora mismo tienes [GUILLEN JAMONES Y EMBUTIDOS - Surtido Embutidos Ibericos de GUIJUELO 1 1 kg - Lote Iberico con Salchichon Iberico Bellota + Chorizo Iberico Bellota + Lomo Iberico + Jamon Iberico loncheado a mano](https://www.amazon.es/dp/B08NQYN7GM/?tag=tolees-21) a 46.9 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!

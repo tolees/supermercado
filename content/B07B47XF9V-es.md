@@ -28,9 +28,9 @@ Tienes [Nutribén - Fruta And Go ! Fruta 100% natural  Manzana Plátano  Pack de
 
 🔎:
 
-- Sin azúcares añadidos. Contiene azúcares naturalmente presentes.
-- Fruta & GO!, la manera más cómoda, higiénica y divertida de dar a los peques el aporte de energía que necesitan en cualquier momento y lugar.
 - Formato atractivo, fácil de manejar y con tapón de seguridad, para tomar en cualquier lugar y momento.
+- Fruta & GO!, la manera más cómoda, higiénica y divertida de dar a los peques el aporte de energía que necesitan en cualquier momento y lugar.
+- Sin azúcares añadidos. Contiene azúcares naturalmente presentes.
 - No contiene conservantes ni colorantes.
 - Fruta 100% natural. Ingredientes Nutribén de primera calidad específicamente adaptados para bebés en su alimentación a partir de los 6 meses.
 

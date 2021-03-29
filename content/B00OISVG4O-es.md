@@ -28,9 +28,9 @@ Tienes [Torres - Pazo Das Bruxas  Vino Blanco - 3 botellas de 750 ml  Total: 225
 
 🔎:
 
-- Origen: Rías Baixas
-- Graduación: 12,5% vol.
 - Ideal con mariscos al natural, cocidos y a la plancha , pescados blancos suaves y quesos de cabra no curados.
+- Graduación: 12,5% vol.
+- Origen: Rías Baixas
 - Puede disfrutarlo desde ahora, bien conservado aguantará 2-3 años.
 - Color dorado pálido. Finísimas notas florales (tilo) y frutales (limón). En boca es intenso con delicada acidez frutal.
 

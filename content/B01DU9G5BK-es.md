@@ -1,16 +1,17 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Heineken Cerveza - Caja de 5 Torps Diseñ'
-date: 2021-03-12 17:17:10
+date: 2021-03-29 22:25:17
 image: 'https://m.media-amazon.com/images/I/41inrSNIrlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DU9G5BK-es Heineken Cerveza - Caja de 5 Torps Diseñado exclusivamente...'
 sku: 'B01DU9G5BK-es'
-actualPrice: 54.9 EUR
+tags: [ 'Alimentación y bebidas','Cervezas','Cervezas, vinos y licores','cerveza','heineken', ]
+actualPrice: 33.75 EUR
 currency: EUR
-price: 54.9
+price: 33.75
 comparePrice:  EUR
 prodname: 'Heineken Cerveza - Caja de 5 Torps Diseñado exclusivamente para THE SUB x 2L - Total: 10 L'
 country: 'es'
@@ -18,18 +19,18 @@ flag: '🇪🇸'
 brand: 'Heineken'
 buyurl: 'https://www.amazon.es/dp/B01DU9G5BK/?tag=tolees-21'
 descuento: '0.00'
-average: '28.740625'
+average: '29.035294117647'
 ---
 
-Tienes [Heineken Cerveza - Caja de 5 Torps Diseñado exclusivamente para THE SUB x 2L - Total: 10 L](https://www.amazon.es/dp/B01DU9G5BK/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 54.9 EUR (original:  EUR) en el siguiente enlace!
+Tienes [Heineken Cerveza - Caja de 5 Torps Diseñado exclusivamente para THE SUB x 2L - Total: 10 L](https://www.amazon.es/dp/B01DU9G5BK/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 33.75 EUR (original:  EUR) en el siguiente enlace!
 
 [![Heineken Cerveza - Caja de 5 Torps Diseñ](https://m.media-amazon.com/images/I/41inrSNIrlL._SL400_.jpg)](https://www.amazon.es/dp/B01DU9G5BK/?tag=tolees-21)
 
 ℹ️:
 
-- De color amarillo brillante y espuma blanca intensa. Con aroma frutal, con ligero sabor dulce y amargor suave
 - La única que reposa en tanques horizontales durante 28 días para proporcionar la presión perfecta a la levadura
-- Ingredientes Naturales: Agua, malta de cebada, lúpulo y la levadura tipo A única de Heineken
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
+- Ingredientes Naturales: Agua, malta de cebada, lúpulo y la levadura tipo A única de Heineken
+- De color amarillo brillante y espuma blanca intensa. Con aroma frutal, con ligero sabor dulce y amargor suave
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DU9G5BK/?tag=tolees-21)
