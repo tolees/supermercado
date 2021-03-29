@@ -29,8 +29,8 @@ Está [Hero Baby - Tarrito de Verduritas con Pavo  Ingredientes Naturales  para 
 ℹ️:
 
 - No incluye aceite de palma, almidón, ni sal añadida. Tampoco conservantes ni colorantes
-- Conservación y esterilización natural al baño María
 - Alimento infantil a partir de los 6 meses
+- Conservación y esterilización natural al baño María
 - Descubre el resto de recetas elaboradas con el equilibrio nutricional específico para cada etapa
 - Elaborado con ingredientes 100% naturales de la mejor calidad, tal y como lo harías tú en casa
 
