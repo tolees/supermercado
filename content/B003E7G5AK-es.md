@@ -28,10 +28,10 @@ Tienes [Melitta KA-G M-180 - Jarra para el té y el café](https://www.amazon.es
 
 ℹ️:
 
+- Material Material: Heat-resistant glass
 - Country of origin: Germany
 - 165mm height 150 x depth 220 x width: size
 - Manufacturers part number: KA-G M-180
-- Material Material: Heat-resistant glass
 - Weight: 460g
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003E7G5AK/?tag=tolees-21)
