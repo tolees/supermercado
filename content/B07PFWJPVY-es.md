@@ -28,8 +28,8 @@ Ahora mismo tienes [La Sagra Pack Cerveza Artesanal 6 Estilos  Botella  12 x 330
 
 🔎:
 
-- según disponibilidad, puede haber algún cambio de estilo cervecero por otro de igual o mayor precio, garantizando siempre 6 estilos diferentes
-- 2 botellas de 6 variedades de la Sagra
 - Fabricada en España
+- 2 botellas de 6 variedades de la Sagra
+- según disponibilidad, puede haber algún cambio de estilo cervecero por otro de igual o mayor precio, garantizando siempre 6 estilos diferentes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PFWJPVY/?tag=tolees-21)
