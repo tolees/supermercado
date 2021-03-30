@@ -28,10 +28,10 @@ En este momento está [TRESemmé Cuidado Clásico Champú 900Ml 960 g](https:/
 
 🔎:
 
+- Limpia en profundidad
+- Proporciona sensación de frescor
 - Elimina residuos
 - Purifica y devuelve tu cabello a la vitalidad
 - Acabado de peluquería
-- Proporciona sensación de frescor
-- Limpia en profundidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G8KNZRK/?tag=tolees-21)
