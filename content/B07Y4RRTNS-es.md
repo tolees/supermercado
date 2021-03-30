@@ -29,9 +29,9 @@ Tienes [TruuMe - Jabón Natural  Jabón Facial  Jabón de Aceite del Arbol del 
 🔎:
 
 - TRATAMIENTO NATURAL DEL ACNE: El jabón para el acné contiene aceite de árbol de té y aceite de coco activado para eliminar eficazmente la suciedad y absorber el exceso de aceite. Este jabón para el acné se puede usar en la cara y en el cuerpo.
-- Jabón natural hecho a mano: este jabón natural es ideal para el cuidado diario del cuerpo, la cara, las manos y el cabello, también para el cuidado de la barba y como jabón de afeitar.
-- Jabón para el acné con aceite de árbol de té: ayuda a combatir el acné y las imperfecciones, reduce la aparición de puntos negros y manchas oscuras, y regula la secreción de sebo.
 - PARA TODO TIPO DE PIEL: Adecuado para todo tipo de piel. seco, aceitoso, sensible, envejecido, juvenil y normal. Ideal para pieles dañadas con propiedades calmantes y curativas.
+- Jabón natural hecho a mano: este jabón natural es ideal para el cuidado diario del cuerpo, la cara, las manos y el cabello, también para el cuidado de la barba y como jabón de afeitar.
 - 100% REALMENTE NATURAL: todos los ingredientes naturales y orgánicos de nuestros jabones de aceite de árbol de té dejan su cara y cuerpo limpios, hidratados e hidratados.
+- Jabón para el acné con aceite de árbol de té: ayuda a combatir el acné y las imperfecciones, reduce la aparición de puntos negros y manchas oscuras, y regula la secreción de sebo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Y4RRTNS/?tag=tolees-21)
