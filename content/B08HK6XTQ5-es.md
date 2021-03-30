@@ -28,11 +28,11 @@ Tienes [Luis Cañas Crianza Vino Tinto Estuche 3 Botellas - 750 ml](https://www.
 
 ℹ️:
 
+- Ha permanecido 12 meses en barrica
+- Edad media del viñedo 30 años
 - 95% tempranillo 5% garnacha
 - Vino tinto crianza rioja
-- Ha permanecido 12 meses en barrica
-- Contenido de alcohol (alc/vol): 10.0 percent by volume; como servir: Servir a temperatura ambiente; procedencia: Spain; tipo de alcohol: Wines
 - Vino tinto crianza luis cañas
-- Edad media del viñedo 30 años
+- Contenido de alcohol (alc/vol): 10.0 percent by volume; como servir: Servir a temperatura ambiente; procedencia: Spain; tipo de alcohol: Wines
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08HK6XTQ5/?tag=tolees-21)
