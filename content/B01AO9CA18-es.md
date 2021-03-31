@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Castalia Jabón Potásico  Solución Potási con un 0.00 % de descuento'
-date: 2021-03-29 13:29:27
+date: 2021-03-31 14:16:49
 image: 'https://m.media-amazon.com/images/I/41V4yOcCPeL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Castalia'
 buyurl: 'https://www.amazon.es/dp/B01AO9CA18/?tag=tolees-21'
 descuento: '0.00'
-average: '19.545'
+average: '19.536'
 ---
 
 En este momento está [Castalia Jabón Potásico  Solución Potásica K2O  5 L](https://www.amazon.es/dp/B01AO9CA18/?tag=tolees-21) a 19.5 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!

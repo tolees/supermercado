@@ -28,10 +28,10 @@ Está [Nestlé Purina Pro Plan Comida para Perro pienso para Perro Small and Min
 
 ℹ️:
 
+- Alimento completo y equilibrado
 - OptiDigest Fácilmente digerible para todos los perros con una digestión sensible
 - Optinutrition Nivel óptimo de nutrientes
 - Alimento completo para perros adultos de razas pequeñas y miniatura con una digestión sensible
-- Alimento completo y equilibrado
 - Mejora el equilibrio de la microflora intestinal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086CSV36M/?tag=tolees-21)
