@@ -29,7 +29,7 @@ Está [Beoxy Jabon Arcilla Verde 100 g](https://www.amazon.es/dp/B084J1QVMC/?tag
 ℹ️:
 
 - Activos naturales
-- Jabón artesanal limpiador, hidrata y suaviza la piel
 - Libera a la piel de partículas de polución
+- Jabón artesanal limpiador, hidrata y suaviza la piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084J1QVMC/?tag=tolees-21)

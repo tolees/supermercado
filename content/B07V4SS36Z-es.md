@@ -29,9 +29,9 @@ Está [Carbonell  Aceite de Oliva Virgen Extra - 3000 ml](https://www.amazon.es/
 ℹ️:
 
 - No contiene alergenos
-- Realza el sabor de ensaladas y verduras
-- Formato ahorro
 - No enmascara el sabor de tus platos en crudo
+- Formato ahorro
 - Aceite de oliva equilibrado
+- Realza el sabor de ensaladas y verduras
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V4SS36Z/?tag=tolees-21)
