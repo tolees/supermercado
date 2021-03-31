@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ElPozo Pechuga de Pavo Lonchas Finas  18 al 11.56 % de descuento'
-date: 2021-03-29 13:17:42
+date: 2021-03-31 22:02:03
 image: 'https://m.media-amazon.com/images/I/51ml2ptxMSL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [ElPozo Pechuga de Pavo Lonchas Finas  180g](https://www.amazon.es/dp/B01L
 
 ℹ️:
 
-- Pechuga de pavo (55%), agua, fécula de patata, sal, leche en polvo, proteína de soja, azúcar, dextrosa de maíz, aromas, aroma de humo, estabilizantes (E-451, E-407), conservador (E-250), antioxidantes (E-316 y E-331).
-- Mantener en un lugar fresco y seco
 - País de origen: España
 - Fiambre de pechuga de pavo, lonchas finas. Bajo en grasa. Maxipack 180g. Envase recerrable, mejor conservación.
 - Alérgenos: soja, leche, huevos y apio.
+- Pechuga de pavo (55%), agua, fécula de patata, sal, leche en polvo, proteína de soja, azúcar, dextrosa de maíz, aromas, aroma de humo, estabilizantes (E-451, E-407), conservador (E-250), antioxidantes (E-316 y E-331).
+- Mantener en un lugar fresco y seco
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LQAXKZY/?tag=tolees-21)
