@@ -28,9 +28,9 @@ En este momento está [Finish Triplo Abrillantador Lavavajillas - Pack de 3 unid
 
 🔎:
 
+- Combate las marcas de agua en la cristaleria
 - Consigue una vajilla y una cristalería brillante
 - Finish Abrillantador: acelera el secado y evita que la vajilla salga húmeda del lavavajillas
-- Combate las marcas de agua en la cristaleria
 - Finish es la marca recomendada por los principales fabricantes de lavavajillas
 - Evita los residuos del aclarado
 

@@ -28,10 +28,10 @@ Tienes [Drasanvi Jabón Árbol del Té - 100 gr](https://www.amazon.es/dp/B00V6A
 
 ℹ️:
 
-- Libre de grasa animal o industrial
 - Jabón elaborado de forma natural
 - En su composición incluye aceite del árbol del té
-- Con propiedades bactericidas y fungicidas, está especialmente indicado para pieles que presentan algún tipo de infección
+- Libre de grasa animal o industrial
 - Uso diario
+- Con propiedades bactericidas y fungicidas, está especialmente indicado para pieles que presentan algún tipo de infección
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00V6ASF0A/?tag=tolees-21)
