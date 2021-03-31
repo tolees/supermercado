@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beoxy Jabon Arcilla Verde 100 g al 0.00 % de descuento'
-date: 2021-03-29 21:12:27
+date: 2021-03-31 07:27:30
 image: 'https://m.media-amazon.com/images/I/41vzYwH-T6L._SL400_.jpg'
 comments: true
 category: ofertas
