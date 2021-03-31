@@ -28,10 +28,10 @@ Tienes [Calvo - Consorcio Atún Claro en Aceite de Oliva Virgen Extra - 8 Paquet
 
 🔎:
 
-- Ingredientes: Atún Claro, Aceite de Oliva Virgen Extra y Sal
-- Un producto 100% natural, procedentes de lomos de enteros de pescado cocido
-- El Atun Claro que CONSORCIO comercializa procede exclusivamente de las aguas del Atlantico, un origen de reconocido prestigio por su alta calidad
 - Todo el sabor del Atlántico
 - Tripack Atún Claro en Aceite de Oliva Virgen Extra. Lata 85grx3
+- El Atun Claro que CONSORCIO comercializa procede exclusivamente de las aguas del Atlantico, un origen de reconocido prestigio por su alta calidad
+- Un producto 100% natural, procedentes de lomos de enteros de pescado cocido
+- Ingredientes: Atún Claro, Aceite de Oliva Virgen Extra y Sal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074G44PWP/?tag=tolees-21)
