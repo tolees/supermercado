@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 18.78 % en Lactovit - Gel de Ducha Reparador Lactou'
-date: 2021-03-28 23:18:03
+date: 2021-03-31 10:02:55
 image: 'https://m.media-amazon.com/images/I/31OECL2VPYL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lactovit'
 buyurl: 'https://www.amazon.es/dp/B006A5GMBK/?tag=tolees-21'
 descuento: '18.78'
-average: '2.03714285714286'
+average: '2.02666666666666'
 ---
 
 Tienes [Lactovit - Gel de Ducha Reparador Lactourea  para Pieles Secas y Extra Secas - 600ml](https://www.amazon.es/dp/B006A5GMBK/?tag=tolees-21) con un 18.78 % de descuento con precio de oferta de 1.99 EUR (original: 2.45 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [Lactovit - Gel de Ducha Reparador Lactourea  para Pieles Secas y Extra S
 
 ℹ️:
 
+- Dimensiones del producto: 8 x 6 x 12 cm
+- 600 ml
 - Cosmetica para el mejor cuidado de la piel y el cabello
 - Número de modelo del producto: 1157-85980
-- 600 ml
-- Dimensiones del producto: 8 x 6 x 12 cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B006A5GMBK/?tag=tolees-21)
