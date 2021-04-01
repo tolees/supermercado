@@ -28,10 +28,10 @@ Tienes [Gvtarra Menestra Navarra - Paquete de 6 x 425 Gramos  2550 Gramos](https
 
 ℹ️:
 
-- Nuestras conservas Gvtarra te permiten disfrutar de ese popular plato de alcachofas, espárragos, zanahorias y guisantes en cualquier estación, fácilmente. Perfecto para una deliciosa cena.
-- Empaque de 6 Frascos de vidrio con tapa abrefácil, contiene 425g de peso escurrido de mezcla de alcachofas, espárragos, zanahorias y guisantes, conservados en agua, sal y antioxidante.
-- De nuestra huerta a tu mesa, las conservas de Gvtarra llevan todo el sabor y frescura del campo a tu hogar. Disfruta de una deliciosa receta de verduras al natural aún si no tienes mucho tiempo.
-- Producto sostenible: En Gvtarra promovemos un modelo de agricultura sostenible, nuestras conservas viven un proceso de producción con mínimo desperdicio y son envasadas en frascos reutilizables.
 - Combinación de verduras 100% natural; sin grasas, sin azúcares, sin alérgenos y sin gluten. Conservando todo el sabor y frescura de nuestra cosecha. Elaborado en Navarra, España.
+- Empaque de 6 Frascos de vidrio con tapa abrefácil, contiene 425g de peso escurrido de mezcla de alcachofas, espárragos, zanahorias y guisantes, conservados en agua, sal y antioxidante.
+- Producto sostenible: En Gvtarra promovemos un modelo de agricultura sostenible, nuestras conservas viven un proceso de producción con mínimo desperdicio y son envasadas en frascos reutilizables.
+- Nuestras conservas Gvtarra te permiten disfrutar de ese popular plato de alcachofas, espárragos, zanahorias y guisantes en cualquier estación, fácilmente. Perfecto para una deliciosa cena.
+- De nuestra huerta a tu mesa, las conservas de Gvtarra llevan todo el sabor y frescura del campo a tu hogar. Disfruta de una deliciosa receta de verduras al natural aún si no tienes mucho tiempo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B072QFDB5T/?tag=tolees-21)

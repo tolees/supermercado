@@ -28,8 +28,8 @@ Ahora mismo tienes [Luxana Phyto Nature Pastilla Jabón Argán - 120 gr](https:/
 
 🔎:
 
-- Género: Unisex Adulto
 - Tipo de producto: Jabón
 - Marca: Luxana
+- Género: Unisex Adulto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01F7MWXAU/?tag=tolees-21)

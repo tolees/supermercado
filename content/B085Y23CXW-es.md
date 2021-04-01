@@ -28,11 +28,11 @@ En este momento está [Ortoro  ORTQG  - Ortoro - Tomates de pera pelados  400 g
 
 🔎:
 
-- Elaborado con tomates rojos maduros cultivados en Italia y envasados en un plazo de 24 horas desde su recogida
-- La gama de productos Ortoro a base de tomates incluye también tomates troceados, finamente picados, tomates cherry y tomates cherry pera
+- Ortoro Pelati son tomates de pera pelados en delicioso jugo de tomate cultivados en las soleadas tierras italianas y recogidos en su punto óptimo de maduración para garantizar un sabor exquisito. Se envasan en un plazo de 24 horas desde su recogida para llevar a tu cocina y a tus platos la máxima frescura. La gama de productos Ortoro incluye también tomates troceados, tomates finamente picados, tomates cherry y tomates cherry pera
+- Sin gluten y con los certificados de producto "kosher" y halal
 - Tomates 100 % italianos
 - Tomates de pera pelados en delicioso jugo de tomate
-- Sin gluten y con los certificados de producto "kosher" y halal
-- Ortoro Pelati son tomates de pera pelados en delicioso jugo de tomate cultivados en las soleadas tierras italianas y recogidos en su punto óptimo de maduración para garantizar un sabor exquisito. Se envasan en un plazo de 24 horas desde su recogida para llevar a tu cocina y a tus platos la máxima frescura. La gama de productos Ortoro incluye también tomates troceados, tomates finamente picados, tomates cherry y tomates cherry pera
+- Elaborado con tomates rojos maduros cultivados en Italia y envasados en un plazo de 24 horas desde su recogida
+- La gama de productos Ortoro a base de tomates incluye también tomates troceados, finamente picados, tomates cherry y tomates cherry pera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B085Y23CXW/?tag=tolees-21)
