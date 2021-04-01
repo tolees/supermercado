@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en AOVE Carrasqueño - Caja 3 Garrafas 5 lit'
-date: 2021-03-27 21:47:26
+date: 2021-04-01 06:09:41
 image: 'https://m.media-amazon.com/images/I/512OmKQrkWL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'AOVE Carrasqueño'
 buyurl: 'https://www.amazon.es/dp/B07F5LYFPD/?tag=tolees-21'
 descuento: '0.00'
-average: '57.8289473684211'
+average: '57.9358974358975'
 ---
 
 Tienes [AOVE Carrasqueño - Caja 3 Garrafas 5 litros Carrasqueño Aceite de Oliva Virgen Extra - Garrafa 5L AOVE](https://www.amazon.es/dp/B07F5LYFPD/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 62.0 EUR (original:  EUR) en el siguiente enlace!

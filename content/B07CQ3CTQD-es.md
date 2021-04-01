@@ -28,15 +28,15 @@ En este momento está [La Estrella de Galicia Cerveza - Pack de 24 botellas x 33
 
 🔎:
 
-- Alcohol 4,7% Amargor 25 EBU Color 8 EB
+- Temperatura de servicio 4-5ºC
+- Clasificación Tipo German Pils
+- La Estrella de Galicia Cerveza - Pack de 24 botellas x 330 ml
 - ELABORACIÓN DE ESTRELLA DE GALICIA Elaborada a partir de un mosto específico, en el único centro de producción de Hijos de Rivera, en A Coruña. Los Maestros Cerveceros emplean en la fabricación de La Estrella de Galicia aproximadamente un mes de trabajo, el 50% del cual se dedica a su guarda en frio.
 - Aromas que recuerdan a la malta pilsen y a la corteza de pan
-- Materias primas Agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), lúpulo Sladek. Levadura seleccionada Hijos de Rivera.
 - La Estrella de Galicia cuenta con un color dorado brillante y un generoso giste blanco. Aroma equilibrado entre las maltas y lúpulos, que predominan aportando notas frescas y florales. Bien carbonatada y con cuerpo ligero. Amargor moderado y persistente, una cerveza muy fácil de beber.
-- Clasificación Tipo German Pils
+- Materias primas Agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), lúpulo Sladek. Levadura seleccionada Hijos de Rivera.
+- Alcohol 4,7% Amargor 25 EBU Color 8 EB
 - Apariencia Cerveza de color dorado claro., muy transparente.
 - Sabor Muy equilibrada, en boca es dulce y amarga por igual.
-- Temperatura de servicio 4-5ºC
-- La Estrella de Galicia Cerveza - Pack de 24 botellas x 330 ml
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CQ3CTQD/?tag=tolees-21)
