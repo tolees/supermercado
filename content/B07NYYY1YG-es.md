@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pernigotti Crema de Avellanas  350g al 0.00 % de descuento'
-date: 2021-03-25 19:24:38
+date: 2021-04-01 14:42:38
 image: 'https://m.media-amazon.com/images/I/41lDiEmg-wL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Pernigotti Crema de Avellanas  350g](https://www.amazon.es/dp/B07NYYY1YG/
 
 ℹ️:
 
-- País de origen: Turquía
-- Conservar en lugar fresco y seco (preferiblemente 18-20°C) y alejado de olores.
-- Sin aceite de palma
-- Solo aromas naturales
 - Alergenos: leche y productos derivados (incluida la lactosa), frutos con cáscara
+- País de origen: Turquía
+- Sin aceite de palma
+- Conservar en lugar fresco y seco (preferiblemente 18-20°C) y alejado de olores.
+- Solo aromas naturales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NYYY1YG/?tag=tolees-21)
