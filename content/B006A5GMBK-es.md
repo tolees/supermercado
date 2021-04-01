@@ -28,9 +28,9 @@ Tienes [Lactovit - Gel de Ducha Reparador Lactourea  para Pieles Secas y Extra S
 
 ℹ️:
 
-- Dimensiones del producto: 8 x 6 x 12 cm
-- Número de modelo del producto: 1157-85980
-- Cosmetica para el mejor cuidado de la piel y el cabello
 - 600 ml
+- Dimensiones del producto: 8 x 6 x 12 cm
+- Cosmetica para el mejor cuidado de la piel y el cabello
+- Número de modelo del producto: 1157-85980
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B006A5GMBK/?tag=tolees-21)

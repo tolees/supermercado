@@ -28,10 +28,10 @@ Tienes [Jack Daniel s - Jack Daniels Frank Sinatra Whisky - 1000 ml](https://www
 
 🔎:
 
-- Sugerencia de preparación: Jack Daniels Sinatra Select con hielo.
+- Solo la forma única que tenemos de elaborar el whiskey y los pasos adicionales como el filtrado con carbón pueden conseguir que Jack Daniels sea lo que es: un Tennessee Whiskey suave en el paladar y no un bourbon.
+- Sabor y final: intenso y especiado, con matices de naranja, azúcar moreno y especias, roble intenso y manzana seca.
 - Edición lanzada en honor al famoso cantante y actor Frank Sinatra, el mayor fan de Jack Daniel’s. En sus 150 años de historia, Jack Daniels ha obtenido numerosas medallas de oro en todo el mundo.
 - Aroma: dulce, intenso, de vainilla.
-- Sabor y final: intenso y especiado, con matices de naranja, azúcar moreno y especias, roble intenso y manzana seca.
-- Solo la forma única que tenemos de elaborar el whiskey y los pasos adicionales como el filtrado con carbón pueden conseguir que Jack Daniels sea lo que es: un Tennessee Whiskey suave en el paladar y no un bourbon.
+- Sugerencia de preparación: Jack Daniels Sinatra Select con hielo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00EO9DPPA/?tag=tolees-21)
