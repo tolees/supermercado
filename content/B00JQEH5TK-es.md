@@ -28,9 +28,9 @@ Tienes [REVLON - Rev Superlustrus Lipstick S/Samba](https://www.amazon.es/dp/B00
 
 ℹ️:
 
-- Contiene criosferas, vitamina E y polímeros emolientes
-- Aporta suavidad e hidratación a los labios
 - Para obtener un resultado profesional aplicar con un pincel de labios
+- Contiene criosferas, vitamina E y polímeros emolientes
 - Color brillante, cubertura optima y comodidad
+- Aporta suavidad e hidratación a los labios
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JQEH5TK/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Colon Gel Activo - Detergente para lavadora  adecuado para ropa blanca y 
 
 ℹ️:
 
-- Extra luminosidad en tus prendas blancas y de color
-- Profundo poder quitamanchas, eliminando las manchas de tu ropa incluso en agua fría
-- Ropa sin manchas, limpia y con un plus de luminosidad
-- Descubre el resto de detergentes y limpialavadoras de Colon
 - Detergente para la lavadora formato gel
+- Profundo poder quitamanchas, eliminando las manchas de tu ropa incluso en agua fría
+- Descubre el resto de detergentes y limpialavadoras de Colon
+- Ropa sin manchas, limpia y con un plus de luminosidad
+- Extra luminosidad en tus prendas blancas y de color
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VB4XWY1/?tag=tolees-21)

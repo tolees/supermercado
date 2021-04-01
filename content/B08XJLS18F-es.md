@@ -28,10 +28,10 @@ En este momento está [Hoya Santoña - Hoya Mejillones en Escabeche Gigantes - P
 
 🔎:
 
-- 🥫 ESCABECHE a base de productos naturales: aceite, vinagre, especias y sal
-- 🌊 MEJILLONES DE LAS RÍAS DE GALICIA. Elaboradas a partir de la selección de los mejores y más grandes mejillones gallegos.
 - 👨‍👩‍👧‍👦 TRADICIÓN FAMILIAR. Somos una empresa familiar que nos dedicamos a elaborar conservas de pescado en Santoña (Cantabria) desde 1940.
 - 💙 SALUDABLE. Los mejillones mantienen inalterados sus beneficios cuando se consumen en conserva, siendo ricos en vitaminas del complejo B, vitamina C, ácido fólico, hierro, fósforo, magnesio, selenio y zinc. Además, tienen bajo contenido en grasas y alto contenido en proteínas de gran valor nutricional.
 - 🤲 ELABORACIÓN ARTESANAL. Directos del mar a la fábrica donde nuestras artesanas los seleccionan, limpian y envasan.
+- 🌊 MEJILLONES DE LAS RÍAS DE GALICIA. Elaboradas a partir de la selección de los mejores y más grandes mejillones gallegos.
+- 🥫 ESCABECHE a base de productos naturales: aceite, vinagre, especias y sal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XJLS18F/?tag=tolees-21)

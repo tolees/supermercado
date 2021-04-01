@@ -28,10 +28,10 @@ Ahora mismo tienes [REVLON Super Lustrous Pintalabios  Wild Orchid ](https://www
 
 🔎:
 
-- Sin fragancia
-- Extra sedoso e hidratante
-- Acabado satinado
-- Enriquecido con Aloe, Vitaminas A, C y E
 - La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
+- Sin fragancia
+- Acabado satinado
+- Extra sedoso e hidratante
+- Enriquecido con Aloe, Vitaminas A, C y E
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073Y4H7WV/?tag=tolees-21)

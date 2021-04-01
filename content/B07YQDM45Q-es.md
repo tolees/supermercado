@@ -28,9 +28,9 @@ Tienes [Pipas G Grefusa - Pipas Tijuana  165 g](https://www.amazon.es/dp/B07YQDM
 
 ℹ️:
 
-- Con sabor a barbacoa picante
-- Bolsa de 165 gramos
 - Semillas de girasol tostadas
+- Bolsa de 165 gramos
+- Con sabor a barbacoa picante
 - Conservar en un lugar fresco, seco y protegido del sol
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YQDM45Q/?tag=tolees-21)
