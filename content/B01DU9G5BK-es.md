@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Heineken Cerveza - Caja de 5 Torps Diseñ'
-date: 2021-03-29 22:25:17
+date: 2021-04-01 00:21:33
 image: 'https://m.media-amazon.com/images/I/41inrSNIrlL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Heineken'
 buyurl: 'https://www.amazon.es/dp/B01DU9G5BK/?tag=tolees-21'
 descuento: '0.00'
-average: '29.035294117647'
+average: '29.2972222222221'
 ---
 
 Tienes [Heineken Cerveza - Caja de 5 Torps Diseñado exclusivamente para THE SUB x 2L - Total: 10 L](https://www.amazon.es/dp/B01DU9G5BK/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 33.75 EUR (original:  EUR) en el siguiente enlace!
