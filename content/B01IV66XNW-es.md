@@ -28,10 +28,10 @@ Está [Tirma Ambrosía Chocolate con Leche y Avellana  14 Unidades x 21.5g  301 
 
 ℹ️:
 
-- El estuche de cartón lleva 14 ambrosías que están envueltas individualmente para ayudar a mantener la frescura.
-- Crujiente ambrosía rellena de crema de avellanas y bañada en una suave, rica y cremosa capa de chocolate con leche.
-- Un snack vegetariano (no contiene huevo). Hechas para regalar y compartir.
 - Saborea el paraíso con este producto elaborado en Canarias y entregado a la comodidad de tu puerta.
+- Crujiente ambrosía rellena de crema de avellanas y bañada en una suave, rica y cremosa capa de chocolate con leche.
+- El estuche de cartón lleva 14 ambrosías que están envueltas individualmente para ayudar a mantener la frescura.
+- Un snack vegetariano (no contiene huevo). Hechas para regalar y compartir.
 - Cada ambrosía mide 12.5cm - un tamaño ideal para llevarlas contigo y disfrutarlas en cualquier momento del día: entre horas, de postre o para la merienda, en el trabajo o de viaje.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IV66XNW/?tag=tolees-21)

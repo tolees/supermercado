@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Collines Antiques - Vino blanco denomina al 0.00 % de descuento'
-date: 2021-03-27 18:59:17
+date: 2021-04-01 16:27:49
 image: 'https://m.media-amazon.com/images/I/51cLAxzFrZL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Collines Antiques - Vino blanco denominación de origen controlada Burdeo
 
 ℹ️:
 
+- Con una agradable y prolongada sensación de frescura
+- Ideal para servir antes de las comidas o con marisco, pasta fresca con salmón o croquetas de pescado azul
 - Un vino delicado con notas cítricas y frutas exóticas
 - De la célebre denominación francesa Bordeaux
 - Reconocido por su "terroir" y sus inconfundibles características
-- Con una agradable y prolongada sensación de frescura
-- Ideal para servir antes de las comidas o con marisco, pasta fresca con salmón o croquetas de pescado azul
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YCJZ7G6/?tag=tolees-21)

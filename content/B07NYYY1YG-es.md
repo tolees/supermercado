@@ -28,10 +28,10 @@ Está [Pernigotti Crema de Avellanas  350g](https://www.amazon.es/dp/B07NYYY1YG/
 
 ℹ️:
 
+- Solo aromas naturales
+- País de origen: Turquía
+- Conservar en lugar fresco y seco (preferiblemente 18-20°C) y alejado de olores.
 - Sin aceite de palma
 - Alergenos: leche y productos derivados (incluida la lactosa), frutos con cáscara
-- País de origen: Turquía
-- Solo aromas naturales
-- Conservar en lugar fresco y seco (preferiblemente 18-20°C) y alejado de olores.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NYYY1YG/?tag=tolees-21)
