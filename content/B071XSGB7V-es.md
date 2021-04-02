@@ -29,7 +29,7 @@ Ahora mismo tienes [Revlon  Brillo labial - 1 Unidad](https://www.amazon.es/dp/B
 🔎:
 
 - Salud, bienestar, cuidado, perfumes, lociones, gel Revlon Ultra HD Matte Metallic Lipcolor 680 Glam
-- Productos para tu cuidado personal, para tu bienestar, y para la higiene personal
 - Revlon Ultra HD Matte Metallic Lipcolor 680 Glam
+- Productos para tu cuidado personal, para tu bienestar, y para la higiene personal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071XSGB7V/?tag=tolees-21)
