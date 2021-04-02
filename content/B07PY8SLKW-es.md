@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAMPOS Conserva de atún claro en aceite  con un 16.85 % de descuento'
-date: 2021-03-31 22:31:54
+date: 2021-04-02 05:09:40
 image: 'https://m.media-amazon.com/images/I/41Sxdq8q97L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'CAMPOS'
 buyurl: 'https://www.amazon.es/dp/B07PY8SLKW/?tag=tolees-21'
 descuento: '16.85'
-average: '2.29333333333333'
+average: '2.304'
 ---
 
 En este momento está [CAMPOS Conserva de atún claro en aceite de girasol - pack de 3 latas de 80 gr.](https://www.amazon.es/dp/B07PY8SLKW/?tag=tolees-21) a 2.32 EUR (original: 2.79 EUR) (16.85 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [CAMPOS Conserva de atún claro en aceite de girasol - pac
 
 🔎:
 
-- Conserva de atún claro en aceite de girasol
+- País de origen: España, producto natural sin conservantes ni colorantes
 - Lata ideal para consumo individual
+- Conserva de atún claro en aceite de girasol
 - Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - Pack de 3 latas individuales de 80 g, con tapa fácil apertura
-- País de origen: España, producto natural sin conservantes ni colorantes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PY8SLKW/?tag=tolees-21)

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Lixone  Gel y jabón - 125 gr. al 0.00 % de descuento'
-date: 2021-03-13 16:05:00
+date: 2021-04-02 05:07:58
 image: 'https://m.media-amazon.com/images/I/41O1ccYJ48L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719KD1KG-es Lixone Gel y jabón - 125 gr.'
 sku: 'B0719KD1KG-es'
+tags: [ 'Baño e higiene personal','Belleza','Geles de ducha','Limpieza personal','jabón','lixone', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25
@@ -27,8 +28,8 @@ Está [Lixone  Gel y jabón - 125 gr.](https://www.amazon.es/dp/B0719KD1KG/?tag=
 
 ℹ️:
 
-- Jabon lixone
 - Jab lixone azufre 125gr (8411905001306)
+- Jabon lixone
 - Jabon cuidado personal unisex adulto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0719KD1KG/?tag=tolees-21)
