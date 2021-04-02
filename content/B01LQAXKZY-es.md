@@ -29,9 +29,9 @@ Está [ElPozo Pechuga de Pavo Lonchas Finas  180g](https://www.amazon.es/dp/B01L
 ℹ️:
 
 - Mantener en un lugar fresco y seco
-- País de origen: España
 - Pechuga de pavo (55%), agua, fécula de patata, sal, leche en polvo, proteína de soja, azúcar, dextrosa de maíz, aromas, aroma de humo, estabilizantes (E-451, E-407), conservador (E-250), antioxidantes (E-316 y E-331).
-- Fiambre de pechuga de pavo, lonchas finas. Bajo en grasa. Maxipack 180g. Envase recerrable, mejor conservación.
+- País de origen: España
 - Alérgenos: soja, leche, huevos y apio.
+- Fiambre de pechuga de pavo, lonchas finas. Bajo en grasa. Maxipack 180g. Envase recerrable, mejor conservación.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LQAXKZY/?tag=tolees-21)

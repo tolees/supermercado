@@ -28,11 +28,11 @@ Tienes [Nescafé DOLCE GUSTO Café CORTADO DESCAFEINADO  Pack de 3 x 16 Cápsula
 
 🔎:
 
-- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto
-- Las cápsulas Nescafé Dolce Gusto Cortado descafeinado tienen un sabor Balanceado y con cuerpo,
 - Cápsulas de café inteligentes Su sellado hermético mantiene el café fresco conservando todos sus aromas
+- Las cápsulas Nescafé Dolce Gusto Cortado descafeinado tienen un sabor Balanceado y con cuerpo,
 - Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
 - Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
+- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto
 - Máquina Express: sistema de café profesional de hasta 15 bares de presión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M1JW4HO/?tag=tolees-21)

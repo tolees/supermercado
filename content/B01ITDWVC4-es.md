@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Hero Baby Manzana y Pera  120g al 6.32 % de rebaja'
-date: 2021-03-10 17:27:22
+date: 2021-04-02 03:28:22
 image: 'https://m.media-amazon.com/images/I/417MFOFJH0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ITDWVC4-es Hero Baby Manzana y Pera 120g'
 sku: 'B01ITDWVC4-es'
+tags: [ 'Alimentación infantil','Alimentación y bebidas','Potitos de fruta para bebé','Tarritos de frutas y postres para bebé','Tarritos, purés y postres para bebé','baby','hero','manzana','pera', ]
 actualPrice: 0.89 EUR
 currency: EUR
 price: 0.89
@@ -27,9 +28,9 @@ Tienes [Hero Baby Manzana y Pera  120g](https://www.amazon.es/dp/B01ITDWVC4/?tag
 
 🔎:
 
-- 100% fruta
-- Desde los 4 meses
 - 100% Eco
+- Desde los 4 meses
+- 100% fruta
 - Sin gluten
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01ITDWVC4/?tag=tolees-21)
