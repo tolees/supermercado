@@ -28,9 +28,9 @@ Tienes [Nestlé Naturnes Bio Nutri Puffs Snack De Cereales Con Zanahoria  A Part
 
 🔎:
 
-- Hechos con cereales y frutas ecológicas
 - A partir de 10 meses
 - Snacks saludables para niños y bebés
 - Se deshacen fácilmente en la boca por lo que son seguros
+- Hechos con cereales y frutas ecológicas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08B6QLNV9/?tag=tolees-21)

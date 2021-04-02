@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 6.04 % en Tejero - Conserva de pescado | Melva de '
-date: 2021-03-31 15:55:57
+date: 2021-04-02 22:28:52
 image: 'https://m.media-amazon.com/images/I/41lDoAwAnkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TEJERO'
 buyurl: 'https://www.amazon.es/dp/B07J9VPZ5F/?tag=tolees-21'
 descuento: '6.04'
-average: '10.848676470588'
+average: '10.8407142857141'
 ---
 
 Tienes [Tejero - Conserva de pescado | Melva de Almadraba en Aceite de Oliva - 5 Latas x 120 g](https://www.amazon.es/dp/B07J9VPZ5F/?tag=tolees-21) con un 6.04 % de descuento con precio de oferta de 10.57 EUR (original: 11.25 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [Tejero - Conserva de pescado | Melva de Almadraba en Aceite de Oliva - 5
 
 ℹ️:
 
-- España
-- Melva, aceite de oliva y sal
 - Mantener a temperatura ambiente
 - Pescado
+- España
+- Melva, aceite de oliva y sal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07J9VPZ5F/?tag=tolees-21)
