@@ -28,12 +28,12 @@ Tienes [NaturGreen SOJA CALCIUM BIO 1 litro](https://www.amazon.es/dp/B007WBLV9Y
 
 🔎:
 
-- Instrucciones para su uso adecuado: Es apto para todas los grupos poblacionales, a excepción de aquellos con alergia o intolerancias que vienen registradas en la tabla de alérgenos; no existen pasos requeridos para su consumo
-- Productos ideales para ti y tu vida diaria
-- Advertencia de seguridad: No necesita refrigeración
-- De la marca NaturGreen
-- Diseño funcional
 - Alta calidad
+- Instrucciones para su uso adecuado: Es apto para todas los grupos poblacionales, a excepción de aquellos con alergia o intolerancias que vienen registradas en la tabla de alérgenos; no existen pasos requeridos para su consumo
+- De la marca NaturGreen
 - Ingredientes: Ingredientes: Agua, haba de soja descascarillada (7,2%) jarabe de agave (3,5%) alga marina calcárea, citrato tricálcico, sal marina y aroma natural de vainilla
+- Diseño funcional
+- Advertencia de seguridad: No necesita refrigeración
+- Productos ideales para ti y tu vida diaria
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007WBLV9Y/?tag=tolees-21)
