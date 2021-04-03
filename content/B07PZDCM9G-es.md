@@ -28,10 +28,10 @@ Tienes [Campos  Conserva de atún claro al natural - 160 gr](https://www.amazon.
 
 🔎:
 
-- Práctica lata individual de 160 g peso neto con tapa fácil apertura
-- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
-- Conserva de atún claro al natural 160 g
 - País de origen: España, producto natural sin conservantes ni colorantes
 - Ideal para deportistas, lata para consumo individual
+- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
+- Práctica lata individual de 160 g peso neto con tapa fácil apertura
+- Conserva de atún claro al natural 160 g
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PZDCM9G/?tag=tolees-21)

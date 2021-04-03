@@ -28,10 +28,10 @@ Tienes [Clynelish Reserva – Whisky escocés puro de malta – Edición limitad
 
 ℹ️:
 
-- perfecto como un regalo
-- Sabor: Suave, floral, marítimo.
-- Acabado: Larga duración.
-- Color: Ámbar.
 - Nariz: Frutal, cerosa, brisa marina.
+- Sabor: Suave, floral, marítimo.
+- perfecto como un regalo
+- Color: Ámbar.
+- Acabado: Larga duración.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07LG8S25V/?tag=tolees-21)
