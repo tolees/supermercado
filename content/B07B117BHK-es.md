@@ -28,9 +28,9 @@ Ahora mismo tienes [Cereales Nestlé Chocapic - Cereales de trigo y maíz tostad
 
 🔎:
 
+- Son formulados con cereales integrales
+- El calcio ayuda al mantenimiento de los huesos
 - Contienen vitaminas, calcio y hierro
 - Tienen sabor de chocolate
-- El calcio ayuda al mantenimiento de los huesos
-- Son formulados con cereales integrales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B117BHK/?tag=tolees-21)
