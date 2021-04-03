@@ -28,10 +28,10 @@ Está [MINGJING - Cortador de Verdura 4 en 1 Espaguetis Vegetales Espiralizador 
 
 ℹ️:
 
-- 【Fácil de limpiar】 Todas las partes del cortador en espiral para fideos de verduras se pueden lavar. Después del uso, los residuos gruesos en el agua corriente simplemente deben eliminarse. ¡También puede poner todas las piezas en el lavavajillas para limpiarlas!
-- 【Servicio al cliente】 Si tiene alguna pregunta después de recibir el producto, comuníquese con nosotros a tiempo para un reemplazo o reembolso. Negociaremos con usted para resolver su problema dentro de las 24 horas. Si no entiende nada, también puede pedirnos consejo.
-- 【Materiales ABS ecológicos】 La máquina cortadora en espiral está hecha de plástico ABS ecológico de alta calidad (sin BPA) + acero inoxidable de grado alimenticio de alta calidad. El plástico es pequeño, ocupa poco espacio, se adapta cómodamente a la mano y se puede cortar con precisión y seguridad.
-- 【Cortador de Verdura 4 en 1】 Esta máquina cortadora en espiral es una combinación de 3 hojas diferentes, pero puede obtener 4 patrones vegetales. Muy adecuado para papas fritas en espiral, fideos, cebollas, pepinos, zanahorias, patatas, etc. Nuestro cortador de espiral es su mejor asistente personal en la cocina.
 - 【Fácil de usar】 Este producto se divide en un cuerpo de cuchillo y un mango vegetal. Solo hay tres pasos simples: 1 Conecte las verduras al mango de las verduras. 2 Seleccione el modo de cuchilla que desee. 3 ¡Gire las verduras en el sentido de las agujas del reloj para obtener el estilo vegetal perfecto!
+- 【Cortador de Verdura 4 en 1】 Esta máquina cortadora en espiral es una combinación de 3 hojas diferentes, pero puede obtener 4 patrones vegetales. Muy adecuado para papas fritas en espiral, fideos, cebollas, pepinos, zanahorias, patatas, etc. Nuestro cortador de espiral es su mejor asistente personal en la cocina.
+- 【Servicio al cliente】 Si tiene alguna pregunta después de recibir el producto, comuníquese con nosotros a tiempo para un reemplazo o reembolso. Negociaremos con usted para resolver su problema dentro de las 24 horas. Si no entiende nada, también puede pedirnos consejo.
+- 【Fácil de limpiar】 Todas las partes del cortador en espiral para fideos de verduras se pueden lavar. Después del uso, los residuos gruesos en el agua corriente simplemente deben eliminarse. ¡También puede poner todas las piezas en el lavavajillas para limpiarlas!
+- 【Materiales ABS ecológicos】 La máquina cortadora en espiral está hecha de plástico ABS ecológico de alta calidad (sin BPA) + acero inoxidable de grado alimenticio de alta calidad. El plástico es pequeño, ocupa poco espacio, se adapta cómodamente a la mano y se puede cortar con precisión y seguridad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HLSQ31Z/?tag=tolees-21)
