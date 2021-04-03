@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana Cápsulas de Le al 0.00 % de descuento'
-date: 2021-03-31 22:45:06
+date: 2021-04-03 05:25:25
 image: 'https://m.media-amazon.com/images/I/51InOZAqDLL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Central Lechera Asturiana Cápsulas de Leche Semidesnatada  
 
 🔎:
 
-- Sin cafeína.
-- Cápsulas 100% naturales y sin E-s artificiales
 - Cápsulas de leche en polvo semidesnatada
+- Cápsulas 100% naturales y sin E-s artificiales
+- Sin cafeína.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BN2Q7WY/?tag=tolees-21)
