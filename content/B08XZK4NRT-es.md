@@ -29,9 +29,9 @@ Tienes [ENRIQUE RECH - Cesta Gourmet Regalo - Lote Embutidos Gourmet - Embutidos
 🔎:
 
 - ✅ Queso Don Ismael Mezcla Viejo 250 gramos, Rizaditos de pan Guapo 120 gramos y mermelada de Pisto Vegana
-- ✅ SURTIDO IBÉRICO: Loncheado DeRaza jamón Ibérico 100 gramos, Loncheado DeRaza chorizo Ibérico 100 gramos, Loncheado DeRaza salchichon Ibérico 100 gramos y Loncheado DeRaza morcilla Ibérica 100 gramos
 - ✅ Estamos siempre a tu disposición para ofrecerte un servicio de atención al cliente profesional. En caso de que hubiera algún problema te ofreceremos una solución en menos de 24 horas.
 - ✅ Date un capricho y disfruta de un increible momento con una copa de vino acompañado del surtido iberico, queso y los rizaditos de pan Guapo
 - ✅ Vino tinto Silvano Garcia 4 meses D.O. Jumilla y Aceite de oliva Virgen Extra abril 250ml
+- ✅ SURTIDO IBÉRICO: Loncheado DeRaza jamón Ibérico 100 gramos, Loncheado DeRaza chorizo Ibérico 100 gramos, Loncheado DeRaza salchichon Ibérico 100 gramos y Loncheado DeRaza morcilla Ibérica 100 gramos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08XZK4NRT/?tag=tolees-21)
