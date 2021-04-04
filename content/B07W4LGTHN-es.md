@@ -28,8 +28,8 @@ Tienes [Cafés Novell - Cápsulas Compostables con café Ecológico - Ristretto 
 
 🔎:
 
-- Intensidad 10
 - Café Natural 100% Ecológico
 - Cápsulas compostables - OkCompost
+- Intensidad 10
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W4LGTHN/?tag=tolees-21)
