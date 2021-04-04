@@ -28,8 +28,8 @@ Está [Max factor - Mastertouch concealer  lápiz corrector  tono 306 Fair](http
 
 ℹ️:
 
-- Utiliza Miracle Touch para conseguir una piel óptima
 - El diseño del aplicador hace que su uso sea fácil, rápido y suave
+- Utiliza Miracle Touch para conseguir una piel óptima
 - La punta de precisión en esponja ofrece exactamente la cantidad correcta
 - Coberura media y acabado radiante
 - No comedogénico por lo que no obstruye los poros de la piel

@@ -28,10 +28,10 @@ Está [The White Stone - Cepillo de dientes de bambú ecológico y biodegradable
 
 ℹ️:
 
-- 🌱 El bambú utilizado para los cepillos de dientes Life is Green proviene de cultivos ecológicos, el producto no contiene sustancias tóxicas, nocivas ni BPA.
-- 🎁 200 bastoncillos de algodón ecológicos y biodegradables de bambú son nuestro OBSEQUIO que encontrará en cada paquete de cepillos de dientes Life is Green, para agradecerle por haber hecho una elección alternativa sostenible.
 - 🏡 El mango redondeado y los filamentos de nylon hacen que los cepillos de dientes Life is Green sean una opción ideal para toda la familia. Cada cepillo de dientes está marcado por diferentes colores tenues que contribuirán a darle un toque alegre y elegante a su hogar.
-- 💯 ¡Garantía de satisfacción en su compra! Nuestros productos son el resultado de largos estudios y pruebas de calidad. Estamos seguros de que estará satisfecho con este producto, pero si esto no sucede, se le reembolsará el 100%.
 - ❤️ Fabricados con cuidado y pasión, diseñados por nuestros mejores diseñadores, nuestros cepillos de dientes satisfacen la necesidad de una higiene dental completa.💦 La madera de bambú ecológica es resistente al agua y naturalmente antibacterias, lo que hace que el cepillo de dientes sea un producto ecológico ♻️ y seguro al 100%.
+- 💯 ¡Garantía de satisfacción en su compra! Nuestros productos son el resultado de largos estudios y pruebas de calidad. Estamos seguros de que estará satisfecho con este producto, pero si esto no sucede, se le reembolsará el 100%.
+- 🎁 200 bastoncillos de algodón ecológicos y biodegradables de bambú son nuestro OBSEQUIO que encontrará en cada paquete de cepillos de dientes Life is Green, para agradecerle por haber hecho una elección alternativa sostenible.
+- 🌱 El bambú utilizado para los cepillos de dientes Life is Green proviene de cultivos ecológicos, el producto no contiene sustancias tóxicas, nocivas ni BPA.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Y6KZRZG/?tag=tolees-21)

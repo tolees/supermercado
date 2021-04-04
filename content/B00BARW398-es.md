@@ -28,8 +28,8 @@ En este momento está [Loreal - L Oréal Professionnel INOA Supreme Coloración 
 
 🔎:
 
+- Para que cada dia te sientas unica.
 - Inoa Supremecoloration Anti-Age Sans Amoniaque #6,31 60 Gr
 - Tu imagen nos importa, por eso te ofrecemos los mejores productos.
-- Para que cada dia te sientas unica.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00BARW398/?tag=tolees-21)

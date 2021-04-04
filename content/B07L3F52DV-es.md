@@ -28,10 +28,10 @@ Ahora mismo tienes [Vernel Detergente Suavizante Concentrado Ropa Cielo Azul  57
 
 🔎:
 
-- La fórmula especialmente desarrollada contiene cápsulas de perfume Duo-Cap únicas que se activan con cada movimiento y liberan un aroma adicional incluso días después del lavado
-- Pack eco-sostenible que facilita el reciclaje -botella hecha con 100% plástico reciclado
 - La cremosa fórmula garantiza una suavidad increíble para tu ropa, protege las fibras y facilita el planchado
-- Vernel Cielo Azul está dermatológicamente aprobado
+- Pack eco-sostenible que facilita el reciclaje -botella hecha con 100% plástico reciclado
 - Disfruta de una experiencia aromática que dura hasta 200 días (en ropa guardada en el armario) y le da a tu ropa la sensación de frescor como recién lavado
+- La fórmula especialmente desarrollada contiene cápsulas de perfume Duo-Cap únicas que se activan con cada movimiento y liberan un aroma adicional incluso días después del lavado
+- Vernel Cielo Azul está dermatológicamente aprobado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07L3F52DV/?tag=tolees-21)

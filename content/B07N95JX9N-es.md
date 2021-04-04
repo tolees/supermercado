@@ -28,10 +28,10 @@ Tienes [Handy Bag Bolsas de Basura 30L  Extra Resistentes  Elimina Olores  15 Bo
 
 🔎:
 
-- Sistema autocierre. Idóneas para los cubos de basura de cocina
-- Absorbe los malos olores que la basura pueda desprender
-- Las bolsas de basura 30L son muy resistentes. Fabricadas con triple capa para evitar roturas y rasgados
-- Cada rollo tiene 15 bolsas de basura de 55x60 cm de 30 Litros
 - No gotean. Las bolsas Handy Bag no derraman líquidos al cubo de basura
+- Las bolsas de basura 30L son muy resistentes. Fabricadas con triple capa para evitar roturas y rasgados
+- Absorbe los malos olores que la basura pueda desprender
+- Sistema autocierre. Idóneas para los cubos de basura de cocina
+- Cada rollo tiene 15 bolsas de basura de 55x60 cm de 30 Litros
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07N95JX9N/?tag=tolees-21)

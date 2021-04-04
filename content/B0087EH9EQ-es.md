@@ -28,9 +28,9 @@ Tienes [Loreal - L Oréal Professionnel Inoa Technologie Ods Oxydant Riche 20 Vo
 
 🔎:
 
-- Asegura una cobertura y un aclarado de varios tonos
-- Emulsión activadora que contiene ingredientes para la protección del color
 - Es un producto indispensable para tintes permanentes y semipermanentes.
 - Ayuda a conseguir una cobertura uniforme
+- Asegura una cobertura y un aclarado de varios tonos
+- Emulsión activadora que contiene ingredientes para la protección del color
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0087EH9EQ/?tag=tolees-21)

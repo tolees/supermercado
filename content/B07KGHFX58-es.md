@@ -28,8 +28,8 @@ En este momento está [HARIBO Mallow Stixx  175 Gramo](https://www.amazon.es/dp/
 
 🔎:
 
-- Irresistibles piezas en forma de stick de regaliz rojo con interior de marshmallow
 - Geles dulces
 - Con irresistible sabor a fresa
+- Irresistibles piezas en forma de stick de regaliz rojo con interior de marshmallow
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KGHFX58/?tag=tolees-21)

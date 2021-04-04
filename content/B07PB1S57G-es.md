@@ -28,8 +28,8 @@ Ahora mismo tienes [Fa - Desodorante Spray Aqua 48 horas de protección - Anti M
 
 🔎:
 
-- Fragancia acuática
 - 48 horas
+- Fragancia acuática
 - Sin sales de aluminio
 - Anti-manchas
 - Fresco
