@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cola Cao - ColaCao Original: con Cacao N al 17.56 % de rebaja'
-date: 2021-04-02 22:17:25
+date: 2021-04-04 06:56:34
 image: 'https://m.media-amazon.com/images/I/51aJqS91NTL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cola Cao'
 buyurl: 'https://www.amazon.es/dp/B08C8G2FS4/?tag=tolees-21'
 descuento: '17.56'
-average: '19.3051999999999'
+average: '19.2024999999999'
 ---
 
 Tienes [Cola Cao - ColaCao Original: con Cacao Natural-2 7kg  Power Bank ](https://www.amazon.es/dp/B08C8G2FS4/?tag=tolees-21) con precio final de  11.5 EUR (original: 13.95 EUR) (17.56 %  de rebaja) aqui!
