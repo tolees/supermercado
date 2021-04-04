@@ -28,10 +28,10 @@ Está [Yosoy Bebida Vegetal de Arroz  Caja de 6 x 1L](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Ingredientes: agua del Montseny, arroz de agricultura ecológica (15%), aceite de girasol, sal marina
 - Con alto contenido en grasas insaturadas para ayudar a mantener el nivel normal de colesterol sanguíneo
-- Bebida 100% vegetal, sin lactosa, sin azúcares añadidos, sin aditivos, hecha con agua del parque natural del Montseny
 - Sin azúcares añadidos (contiene azúcares naturalmente presentes) y con bajo contenido en sal, lo que contribuye a mantener la tensión arterial en condiciones normales
+- Bebida 100% vegetal, sin lactosa, sin azúcares añadidos, sin aditivos, hecha con agua del parque natural del Montseny
 - Puede consumirse en cualquier momento del día. Aporta una hidratación cargada de energía y minerales
+- Ingredientes: agua del Montseny, arroz de agricultura ecológica (15%), aceite de girasol, sal marina
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B017IU1NBO/?tag=tolees-21)
