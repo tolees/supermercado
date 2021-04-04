@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Professionnel - Champú Blondifie con un 37.48 % de descuento'
-date: 2021-04-02 05:01:01
+date: 2021-04-04 12:37:03
 image: 'https://m.media-amazon.com/images/I/31SauGJTW+L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LOréal Professionnel'
 buyurl: 'https://www.amazon.es/dp/B07GC9TT8T/?tag=tolees-21'
 descuento: '37.48'
-average: '8.46499999999999'
+average: '8.22333333333332'
 ---
 
 En este momento está [L Oréal Professionnel - Champú Blondifier Neutralizante para Cabello Rubio Frío - 300 ml](https://www.amazon.es/dp/B07GC9TT8T/?tag=tolees-21) a 6.29 EUR (original: 10.06 EUR) (37.48 %  de descuento) en el siguiente enlace!
