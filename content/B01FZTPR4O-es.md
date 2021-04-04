@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Castalia - Jabón negro  1 Litro al 0.00 % de rebaja'
-date: 2021-04-02 21:44:09
+date: 2021-04-04 00:38:01
 image: 'https://m.media-amazon.com/images/I/41jtRrzpSML._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Castalia'
 buyurl: 'https://www.amazon.es/dp/B01FZTPR4O/?tag=tolees-21'
 descuento: '0.00'
-average: '6.95120437956207'
+average: '6.94221818181821'
 ---
 
 Tienes [Castalia - Jabón negro  1 Litro](https://www.amazon.es/dp/B01FZTPR4O/?tag=tolees-21) con precio final de  4.48 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Castalia - Jabón negro  1 Litro](https://www.amazon.es/dp/B01FZTPR4O/?t
 
 🔎:
 
-- Elaborado con productos naturales
 - El mejor producto para el cuidado y bienestar de tu cuerpo
+- Elaborado con productos naturales
 - Producto de la marca Castalia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01FZTPR4O/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Luxana Phyto Nature Pastilla Jabón Argán al 0.00 % de descuento'
-date: 2021-04-02 21:40:11
+date: 2021-04-04 00:37:32
 image: 'https://m.media-amazon.com/images/I/31+aFJDiC-L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Luxana Phyto Nature Pastilla Jabón Argán - 120 gr](https:/
 
 🔎:
 
-- Marca: Luxana
 - Tipo de producto: Jabón
 - Género: Unisex Adulto
+- Marca: Luxana
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01F7MWXAU/?tag=tolees-21)
