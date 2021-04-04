@@ -28,9 +28,9 @@ En este momento está [Renova Rollos de cocina Maxiabsorption Blanco Triple - 1 
 
 🔎:
 
-- Tamaño extra XXL
-- Ideal para todo tipo de utilización doméstica
 - 2 capas
+- Ideal para todo tipo de utilización doméstica
+- Tamaño extra XXL
 - Rollo de cocina blanco
 - 1 rollo
 

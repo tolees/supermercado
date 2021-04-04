@@ -28,11 +28,11 @@ Está [Vileda 1-2 Spray Max - Sistema de fregado con almohadilla de microfibra y
 
 ℹ️:
 
-- Dispone de un depósito XL extraíble de 750 ml; puede agregar su detergente habitual de limpieza al depósito y rociar uniformemente para una limpieza y un cuidado profesional; le recomendamos que primero diluya el detergente y luego lo ponga en la botella.
-- El recambio de 1-2 Spray Max es lavable y reutilizable, simplemente lave la gamuza, es apta para lavarla a máquina
-- Con 1-2 Spray Max friega dos veces más rápido y sin cubo! Todo lo que tiene que hacer es presionar el gatillo que está en el mango, rociar y fregar. Con 1-2 Spray Max, podrá realizar el trabajo de limpieza de forma rápida; pulveriza más o menos cantidad según lo que necesite.
 - Cabezal limpiador que se puede girar 180º cubre 2 veces más superficie que los productos convencionales
-- El recambio de 1-2 Spray Max es lavable y reutilizable; simplemente lave la gamuza, es apta para lavarla a máquina; ahorre no solo muchas toallitas desechables, sino también mucho tiempo y esfuerzo; sirve para todo tipo de suelos; con un máximo poder de limpieza gracias a las microfibras y la poliamida.
 - Ahorre no solo muchas toallitas desechables, sino también mucho tiempo y esfuerzo, sirve para todo tipo de suelos, con un máximo poder de limpieza gracias a las microfibras y la poliamida
+- El recambio de 1-2 Spray Max es lavable y reutilizable, simplemente lave la gamuza, es apta para lavarla a máquina
+- Dispone de un depósito XL extraíble de 750 ml; puede agregar su detergente habitual de limpieza al depósito y rociar uniformemente para una limpieza y un cuidado profesional; le recomendamos que primero diluya el detergente y luego lo ponga en la botella.
+- Con 1-2 Spray Max friega dos veces más rápido y sin cubo! Todo lo que tiene que hacer es presionar el gatillo que está en el mango, rociar y fregar. Con 1-2 Spray Max, podrá realizar el trabajo de limpieza de forma rápida; pulveriza más o menos cantidad según lo que necesite.
+- El recambio de 1-2 Spray Max es lavable y reutilizable; simplemente lave la gamuza, es apta para lavarla a máquina; ahorre no solo muchas toallitas desechables, sino también mucho tiempo y esfuerzo; sirve para todo tipo de suelos; con un máximo poder de limpieza gracias a las microfibras y la poliamida.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08TVV36BC/?tag=tolees-21)

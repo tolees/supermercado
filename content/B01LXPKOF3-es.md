@@ -28,9 +28,9 @@ En este momento está [Albo Sardinas en Aceite de Oliva - 85 g](https://www.amaz
 
 🔎:
 
-- Verdaderas sardinas de primera calidad
-- Deliciosa dieta mediterránea
 - Cocido y envasado en aceite de oliva
+- Deliciosa dieta mediterránea
+- Verdaderas sardinas de primera calidad
 - Atrapado utilizando métodos tradicionales ecológicos
 - Combinación perfecta del sabor único
 

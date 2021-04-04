@@ -29,7 +29,7 @@ Está [Lixone  Gel y jabón - 125 gr.](https://www.amazon.es/dp/B0719KD1KG/?tag=
 ℹ️:
 
 - Jabon lixone
-- Jab lixone azufre 125gr (8411905001306)
 - Jabon cuidado personal unisex adulto
+- Jab lixone azufre 125gr (8411905001306)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0719KD1KG/?tag=tolees-21)
