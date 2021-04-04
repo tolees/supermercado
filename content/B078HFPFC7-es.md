@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HFPFC7-es Sisbelt Forte Complemento Alimenticio con Berenjena y...'
 sku: 'B078HFPFC7-es'
-tags: [ 'alcachofa', ]
+tags: [ 'alcachofa','alimenticio','complemento', ]
 actualPrice: 17.68 EUR
 currency: EUR
 price: 17.68

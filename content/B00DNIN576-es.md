@@ -28,9 +28,9 @@ Está [Scottex - Pañuelo - 12 + 3 uds](https://www.amazon.es/dp/B00DNIN576/?tag
 
 ℹ️:
 
-- Cantidad per paquete: 15 unidades
-- Pañuelos adecuados para todos los días
-- Garantizan una optima absorción
 - Prácticos y suaves en contacto con la piel
+- Cantidad per paquete: 15 unidades
+- Garantizan una optima absorción
+- Pañuelos adecuados para todos los días
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00DNIN576/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Sanytol - Eco Recarga de Jabón de Manos de Cocina con Protección Total
 
 🔎:
 
-- Preserva la hidratación natural de la piel gracias a un rico complejo lipídico similar al que conforma la estructura de nuestra epidermis;Fórmula probada dermatológica y clínicamente
-- Deja las manos limpias, suaves, nutridas y delicadamente perfumadas
 - Complejo anti malos olores de la comida (ajo, cebolla, pescado…)
+- Deja las manos limpias, suaves, nutridas y delicadamente perfumadas
+- Preserva la hidratación natural de la piel gracias a un rico complejo lipídico similar al que conforma la estructura de nuestra epidermis;Fórmula probada dermatológica y clínicamente
 - Eco Recarga de jabón de manos de cocina con protección total contra agentes externos, con un 83% menos de plástico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DKR714D/?tag=tolees-21)

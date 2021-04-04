@@ -29,9 +29,9 @@ En este momento está [Tovess Ginebra Rosa - 700 ml](https://www.amazon.es/dp/B0
 🔎:
 
 - Esta ginebra rosa tiene un intenso sabor a frutos rojos, como fresa, frambuesa y arándano rojo
-- Con una estimulante combinación de frutos frescos, sutiles notas de enebro y especias, más un suave toque cítrico
 - La ginebra rosa Tovess tiene una graduación alcohólica de 37,5°
-- Elaborada a mano por expertos y destilada de manera tradicional con alambiques de cobre
 - Disfrútala con tónica o limonada, añádele hielo y decórala con frutos rojos
+- Con una estimulante combinación de frutos frescos, sutiles notas de enebro y especias, más un suave toque cítrico
+- Elaborada a mano por expertos y destilada de manera tradicional con alambiques de cobre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0876JJZ8Z/?tag=tolees-21)

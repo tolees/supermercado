@@ -28,10 +28,10 @@ Tienes [Carbonell Aceite de Oliva  5L](https://www.amazon.es/dp/B00PQSVJLK/?tag=
 
 ℹ️:
 
-- Especialmente recomendado para su uso en caliente, tanto en guisos como en fritura
-- Respeta el autentico sabor de los platos
-- Te ayuda a reducir tu colesterol
 - Formato ahorro
+- Te ayuda a reducir tu colesterol
 - No contiene alergenos
+- Respeta el autentico sabor de los platos
+- Especialmente recomendado para su uso en caliente, tanto en guisos como en fritura
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00PQSVJLK/?tag=tolees-21)

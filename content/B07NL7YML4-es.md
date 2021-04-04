@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NL7YML4-es Xiton Pintalabios natural del Aloe Vera Jalea 1 pieza...'
 sku: 'B07NL7YML4-es'
-tags: [ 'crema','hidratante', ]
+tags: [ 'bálsamo','crema','de','hidratante','labios', ]
 actualPrice: 0.92 EUR
 currency: EUR
 price: 0.92

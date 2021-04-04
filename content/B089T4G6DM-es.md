@@ -28,8 +28,8 @@ Está [LA COCINERA CONSERVAS ALIMENTICIAS SELECCIONADAS - Pack de 5 - Menestra d
 
 ℹ️:
 
-- Producto esterilizado. Aseguramiento de esterilidad comercial. Conservación a temperatura ambiente. No exponer a la acción directa del sol.
 - Fuente de antioxidantes que nos ayudarán a combatir el envejecimiento y estar cubiertos de vitaminas, minerales y ﬁbra. Sin duda, perfecta para mejorar nuestro tránsito intestinal.
+- Producto esterilizado. Aseguramiento de esterilidad comercial. Conservación a temperatura ambiente. No exponer a la acción directa del sol.
 - Ideal si lo que buscamos es un plato que nos aporte variedad en la mesa. Contiene guisantes, alcachofas, espárragos, zanahorias baby y judía verde.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089T4G6DM/?tag=tolees-21)

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCYKTVC-es Bálsamo de labios Lip Balm Cuidado De Labios Barra de...'
 sku: 'B07ZCYKTVC-es'
-tags: [ 'acondicionador', ]
+tags: [ 'acondicionador','bálsamo','de','gloss','labios','lip', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99
