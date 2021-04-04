@@ -29,9 +29,9 @@ En este momento está [Cumlaude Gineseda - Complemento Alimenticio para Aliviar 
 🔎:
 
 - Con vitaminas E, B6 y D3, que alivian la sequedad cutánea, reducen la irritabilidad y favorecen la fijación de calcio en los huesos
-- Sin gluten y sin lactosa. Tomar 1 cápsula al día acompañada de un vaso de agua.
-- Formulado con isoflavonas de soja, que contrarrestan los síntomas asociados con el climaterio
 - Complemento alimenticio a base de vegetales y vitaminas, rico en isoflavonas de soja, que ayudan a paliar los síntomas habituales durante los periodos de perimenopausia y menopausia
+- Formulado con isoflavonas de soja, que contrarrestan los síntomas asociados con el climaterio
 - Indicado para tratar los síntomas asociados con la menopausia:sofocos, sequedad, irritabilidad, cambios de humor, conciliación de sueño, falta de calcio, etc
+- Sin gluten y sin lactosa. Tomar 1 cápsula al día acompañada de un vaso de agua.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01EHSNR3C/?tag=tolees-21)
