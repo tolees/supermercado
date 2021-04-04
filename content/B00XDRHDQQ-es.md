@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 33.50 % en Desodorante spray Sanex Dermo Invisible '
-date: 2021-03-02 12:51:58
+date: 2021-04-04 17:21:32
 image: 'https://m.media-amazon.com/images/I/41MgXdpOE2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XDRHDQQ-es Desodorante spray Sanex Dermo Invisible 24H protección...'
 sku: 'B00XDRHDQQ-es'
+tags: [ 'Baño e higiene personal','Belleza','Desodorantes','desodorante','sanex', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99
@@ -27,8 +28,8 @@ Tienes [Desodorante spray Sanex Dermo Invisible 24H protección antimanchas 2x20
 
 ℹ️:
 
-- Tipo de Piel: Todo Tipo de Pieles
-- Formato: Spray
 - Género: Mujer
+- Formato: Spray
+- Tipo de Piel: Todo Tipo de Pieles
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDRHDQQ/?tag=tolees-21)
