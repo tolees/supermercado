@@ -28,10 +28,10 @@ Está [NESCAFÉ GOLD NATURAL aroma y sabor  soluble con café molido de tueste n
 
 ℹ️:
 
+- Un frasco de 100 g equivale a unas 50 tazas
+- Café soluble con café molido de tueste natural fácil de preparar: se disuelve en agua o leche caliente
+- Café equilibrado y aromático elaborado cuidadosamente para los momentos que importan
 - Gracias a su delicado tueste consigue todo el aroma y todo el sabor de cada grano de café
 - Café soluble que contiene granos de arábica seleccionado y tostado cuidadosamente
-- Café equilibrado y aromático elaborado cuidadosamente para los momentos que importan
-- Café soluble con café molido de tueste natural fácil de preparar: se disuelve en agua o leche caliente
-- Un frasco de 100 g equivale a unas 50 tazas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MFAHHVL/?tag=tolees-21)
