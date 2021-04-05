@@ -28,9 +28,9 @@ Tienes [Burn Original Bebida Energética  500ml](https://www.amazon.es/dp/B00XA0
 
 🔎:
 
-- Contenido moderadamente
-- Contenido elevado de cafeína
-- Consumir moderadamente
 - No recomendado para niños ni mujeres embarazadas o en período lactancia (32 mg/ 100 ml)
+- Contenido elevado de cafeína
+- Contenido moderadamente
+- Consumir moderadamente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XA0G9JI/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Almendrola Bebida Vegetal de Almendras sin Azúcar  6 x 1L](
 
 🔎:
 
-- Puede consumirse en cualquier momento del día. Aporta una hidratación cargada de energía y minerales
 - Con alto contenido de calcio, que ayuda al mantenimiento óseo, y bajo contenido de sodio, contribuyendo a mantener la tensión arterial en condiciones normales
-- Bebida 100% vegetal, sin lactosa, sin azúcares añadidos, sin aditivos, hecha con agua del parque natural del Montseny
 - Ingredientes: agua del Montseny, almendra (2,75%), aceite de girasol, carbonato cálcico, goma gellan, lecitina de girasol, sal marina, vitaminas A, D y E
+- Bebida 100% vegetal, sin lactosa, sin azúcares añadidos, sin aditivos, hecha con agua del parque natural del Montseny
 - Sin azúcares añadidos, con alto contenido en grasas insaturadas para ayudar a mantener el nivel normal de colesterol sanguíneo
+- Puede consumirse en cualquier momento del día. Aporta una hidratación cargada de energía y minerales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01FUKAG2Q/?tag=tolees-21)
