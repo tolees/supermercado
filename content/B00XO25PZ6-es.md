@@ -28,8 +28,8 @@ Está [ESI Multicomplex Potasio+ Magnesio  Complemento Alimenticio - 90 Tableta
 
 ℹ️:
 
+- Sin gluten
 - Aporte de vitaminas y minerales
 - Apto para vegetarianos y veganos
-- Sin gluten
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XO25PZ6/?tag=tolees-21)

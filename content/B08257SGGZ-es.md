@@ -28,10 +28,10 @@ Ahora mismo tienes [Michael Kors 30T5GTVT2L-626  Bolsa de noche para Mujer  bran
 
 🔎:
 
-- Cierre de cremallera superior
 - 100% piel Saffiano, herrajes en tono dorado
-- Caída del mango: 8.5 pulgadas
-- Detalles interiores: bolsillo con cremallera, 2 bolsillos abiertos, compartimento central con cremallera
+- Cierre de cremallera superior
 - 11.5 pulgadas de alto x 15 pulgadas de ancho x 5.5 pulgadas de profundidad
+- Detalles interiores: bolsillo con cremallera, 2 bolsillos abiertos, compartimento central con cremallera
+- Caída del mango: 8.5 pulgadas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08257SGGZ/?tag=tolees-21)
