@@ -28,8 +28,8 @@ En este momento está [TRESemmé Hidratación Intensa Acondicionador 900ml - Pac
 
 🔎:
 
-- Tresemmé acondicionador Hidratación Intensa
 - Hidrata el pelo
+- Tresemmé acondicionador Hidratación Intensa
 - Combínalos con otros productos Tresemmé
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083YBXVVT/?tag=tolees-21)
