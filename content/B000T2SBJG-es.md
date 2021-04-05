@@ -28,9 +28,9 @@ Ahora mismo tienes [Klorane Champú a la Camomila 400 ml](https://www.amazon.es/
 
 🔎:
 
+- facil de usar
+- Limpia suavemente mientras preserva el equilibrio natural del cabello y del cuero cabelludo
 - Deja el cabello radiante y brillante
 - Naturalmente realza los puntos culminantes de oro y el pelo recupera su suavidad y brillo
-- Limpia suavemente mientras preserva el equilibrio natural del cabello y del cuero cabelludo
-- facil de usar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000T2SBJG/?tag=tolees-21)
