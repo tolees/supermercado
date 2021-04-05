@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish Triplo Abrillantador Lavavajillas con un 0.00 % de descuento'
-date: 2021-04-04 01:03:10
+date: 2021-04-05 06:56:48
 image: 'https://m.media-amazon.com/images/I/51E0WTx-JnL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Finish'
 buyurl: 'https://www.amazon.es/dp/B07QDNVB73/?tag=tolees-21'
 descuento: '0.00'
-average: '18.2636956521737'
+average: '18.2692418772561'
 ---
 
 En este momento está [Finish Triplo Abrillantador Lavavajillas - Pack de 3 unidades x 800 ml - 480 lavados](https://www.amazon.es/dp/B07QDNVB73/?tag=tolees-21) a 19.8 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
