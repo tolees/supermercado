@@ -28,9 +28,9 @@ Tienes [Quid Renova Bote de 2100 ml  golosinas   18x12x18 cm](https://www.amazon
 
 ℹ️:
 
+- Cuerpo de vidrio decorado en relieve
 - Apto para lavavajillas
 - Con tapa de metal
-- Cuerpo de vidrio decorado en relieve
 - Capacidad: 2100 ml
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B072NDF85N/?tag=tolees-21)
