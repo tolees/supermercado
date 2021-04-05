@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Deliex delicias de Extremadura - Cesta d'
-date: 2021-04-03 20:20:51
+date: 2021-04-05 01:00:34
 image: 'https://m.media-amazon.com/images/I/51gYRwVqITL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [Deliex delicias de Extremadura - Cesta de productos gourmet para Navidad
 ℹ️:
 
 - 1 x paté ibérico de 30 g formato mini
-- pasto decorativo y caja con frase
-- 1 x Crema de queso de 110 g (Cristal)
 - 1 x Mermelada 120 g Deliex. (Cristal)
 - 1 x Aceite de oliva virgen extra La Chinata 250 ml (cristal)
+- 1 x Crema de queso de 110 g (Cristal)
+- pasto decorativo y caja con frase
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07JFSRRJ5/?tag=tolees-21)

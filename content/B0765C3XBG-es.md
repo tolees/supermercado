@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colon Polvo Activo - Detergente para lav con un 0.00 % de descuento'
-date: 2021-04-04 01:17:03
+date: 2021-04-05 01:24:37
 image: 'https://m.media-amazon.com/images/I/514cWj5RUqL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Colon'
 buyurl: 'https://www.amazon.es/dp/B0765C3XBG/?tag=tolees-21'
 descuento: '0.00'
-average: '17.9238723404259'
+average: '17.921737288136'
 ---
 
 En este momento está [Colon Polvo Activo - Detergente para lavadora  adecuado para ropa blanca y de color  formato polvo - 130 dosis](https://www.amazon.es/dp/B0765C3XBG/?tag=tolees-21) a 17.42 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Colon Polvo Activo - Detergente para lavadora  adecuado p
 
 🔎:
 
+- Poder quitamanchas incluso en agua fría
 - Detergente para la lavadora formato polvo
 - Extra luminosidad en tus prendas blancas y de color
 - Ropa sin manchas, limpia y con un plus de luminosidad
-- Poder quitamanchas incluso en agua fría
 - Descubre el resto de detergentes y limpialavadoras de Colon
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0765C3XBG/?tag=tolees-21)
