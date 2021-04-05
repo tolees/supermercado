@@ -28,9 +28,9 @@ En este momento está [Nacional Desde 1849 Harina de Trigo 5000 g](https://www.a
 
 🔎:
 
-- picante
 - país de origen: portugal
-- trigos de alta calidad
 - múltiples usos
+- picante
+- trigos de alta calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LQT9G3L/?tag=tolees-21)
