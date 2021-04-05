@@ -28,10 +28,10 @@ En este momento está [O CCAFFE  - O ccaffè – Ristretto | Lavazza a Modo Mio 
 
 🔎:
 
+- TOSTADORA FAMILIAR – En lugar de la gran preocupación, nuestros frijoles provienen de nuestra propia producción. Hemos estado asando en Latina, cerca de Roma, durante dos generaciones
+- ORIGINAL ITALIANO – No sólo fabricamos con pasión en Italia, sino que también le vendemos directamente a usted sin intermediarios
+- PLACER – Café suave armoniosamente equilibrado de fuerza media con un alto dulzor natural y una ligera nota de regaliz.
 - COMPATIBLE Y SEGURO – Garantizada la seguridad de uso con el sistema original Lavazza a Modo Mio
 - RISTRETTO – Nota agridulce y cremosa con acentos de chocolate negro y nueces
-- ORIGINAL ITALIANO – No sólo fabricamos con pasión en Italia, sino que también le vendemos directamente a usted sin intermediarios
-- TOSTADORA FAMILIAR – En lugar de la gran preocupación, nuestros frijoles provienen de nuestra propia producción. Hemos estado asando en Latina, cerca de Roma, durante dos generaciones
-- PLACER – Café suave armoniosamente equilibrado de fuerza media con un alto dulzor natural y una ligera nota de regaliz.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07H7M2NK3/?tag=tolees-21)

@@ -30,8 +30,8 @@ Ahora mismo tienes [Cragganmore Distiller s Edition 2019 Whisky Escocés Puro de
 
 - Un whisky puro de malta complejo y reconocido por su profundidad, oro en el International Spirits Challenge de 2008
 - Maduración doble en barricas de Oporto Ruby para ofrecer un profundo sabor afrutado y un dulzor adicional
-- El intenso sabor a plátano y cacao se disfruta mejor solo o con un cubito de hielo
 - Sabor afrutado rico, dulce e intenso, con un final de roble
+- El intenso sabor a plátano y cacao se disfruta mejor solo o con un cubito de hielo
 - El regalo ideal para quienes deseen explorar la diversidad de los whiskies de malta Speyside
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HXCDYGJ/?tag=tolees-21)
