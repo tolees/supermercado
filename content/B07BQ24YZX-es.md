@@ -28,15 +28,15 @@ Tienes [Marca Amazon - Presto! Tabletas lavavajillas todo en 1  120 lavados  2 P
 
 🔎:
 
-- Respetuoso con el vidrio
-- Fórmula avanzada disuelvegrasas
-- Acción integrada de sal y enjuague, no hace falta añadir sal ni productos para enjuagar adicionales
-- Apto para la mayoría de lavavajillas domésticos
-- Efecto todo en uno: deja tus platos como los chorros del oro
 - Limpia tu lavavajillas y le aporta tecnología de prevención de acumulación de cal
-- Listo para usar: no hace falta sacarlos de la bolsa (film retraído soluble en agua)
-- Acción de enjuague previo
+- Acción integrada de sal y enjuague, no hace falta añadir sal ni productos para enjuagar adicionales
 - 120 lavados (2 Packs, 60 cada uno)
 - Tecnología neutralizadora de olor y fragancia fresca
+- Respetuoso con el vidrio
+- Apto para la mayoría de lavavajillas domésticos
+- Acción de enjuague previo
+- Fórmula avanzada disuelvegrasas
+- Listo para usar: no hace falta sacarlos de la bolsa (film retraído soluble en agua)
+- Efecto todo en uno: deja tus platos como los chorros del oro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BQ24YZX/?tag=tolees-21)
