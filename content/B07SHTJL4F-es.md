@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Mom Love Ginebra Premium  700ml al 0.00 % de rebaja'
-date: 2021-03-10 08:51:41
+date: 2021-04-05 17:02:31
 image: 'https://m.media-amazon.com/images/I/41GvkoSMUkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHTJL4F-es Mom Love Ginebra Premium 700ml'
 sku: 'B07SHTJL4F-es'
+tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Ginebras','ginebra','mom', ]
 actualPrice: 12.4 EUR
 currency: EUR
 price: 12.4
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MOM'
 buyurl: 'https://www.amazon.es/dp/B07SHTJL4F/?tag=tolees-21'
 descuento: '0.00'
-average: '11.7857142857143'
+average: '11.8266666666667'
 ---
 
 Tienes [Mom Love Ginebra Premium  700ml](https://www.amazon.es/dp/B07SHTJL4F/?tag=tolees-21) con precio final de  12.4 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
@@ -27,10 +28,10 @@ Tienes [Mom Love Ginebra Premium  700ml](https://www.amazon.es/dp/B07SHTJL4F/?ta
 
 🔎:
 
-- perfecto como un regalo
-- Sabor: Suave, dulce, aromas de fresa.
-- Nariz: Frutal, veraniega, de bayas.
 - Color: Rosa claro.
+- Sabor: Suave, dulce, aromas de fresa.
+- perfecto como un regalo
 - Acabado: Larga duración, suave.
+- Nariz: Frutal, veraniega, de bayas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SHTJL4F/?tag=tolees-21)

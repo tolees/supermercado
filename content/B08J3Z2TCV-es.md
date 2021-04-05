@@ -29,9 +29,9 @@ Ahora mismo tienes [BNKR BEER | Brew&Share | Kit para Hacer Cerveza Blond Bio co
 🔎:
 
 - 📦 CONTENIDO: Barril con tapón, junta de goma y grifo, Airlock, Termómetro digital, Mix de maltas, Sobres de lúpulo, Sobre de levadura, Sobre de sulfato de calcio, Sobre de dextrosa, Válvula de presión, Manual de instrucciones.
+- ☝️ Una forma sencilla de comenzar a hacer cerveza, pero cerveza de verdad. Puede ser también la mejor opción para un regalo de cumpleaños, regalo de Navidad, o cualquier ocasión especial.
 - 🔹 ALL GRAIN KIT 🔹 Todo en 1. COCINA, FERMENTA Y COMPARTE. Brew&Share, el primer kit de elaboración de cerveza artesana que combina la elaboración partiendo de los 4 ingredientes que componen la cerveza con un proceso simple y práctico, permitiendo fermentar y servir el resultado desde un práctico barril de acero inoxidable.
 - ⌛ Tu cerveza en 2 semanas. 4,5 litros. Materiales reutilizables. Elaboración con maltas. Fermentación en barril. 🍃🍺 Receta Blond Ale con certificado ecológico. Sutil y elegante, suave, 100% ecológica. Para los más naturales. El volumen de alcohol de la cerveza final dependerá del rendimiento que se obtenga en casa según se haya seguido el proceso de maceración con las temperaturas indicadas en el manual. De manera aproximada, en el caso de la receta BIO: entre 4,6 y 5,0% ABV.
-- ☝️ Una forma sencilla de comenzar a hacer cerveza, pero cerveza de verdad. Puede ser también la mejor opción para un regalo de cumpleaños, regalo de Navidad, o cualquier ocasión especial.
 - ✌️ Experiencia 100% real. Nos olvidamos de extractos y aditivos, consiguiendo una experiencia auténtica en la elaboración de cerveza. No hay más. Malta, lúpulo, levadura y agua.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08J3Z2TCV/?tag=tolees-21)
