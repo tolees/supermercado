@@ -28,10 +28,10 @@ Tienes [Imedeen Time Perfection  Complemento Alimenticio Antiedad - 60 comprimid
 
 ℹ️:
 
-- La Vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de la piel.
-- Con Vitamina C y Zinc que ayudan a la protección de las células frente al daño oxidativo.
-- El Zinc contribuye a la síntesis normal del ADN y al mantenimiento de la piel en condiciones normales.
 - El revolucionario y exclusivo Complejo Marino, es un complejo formado por proteínas y polisacáridos, que contiene elementos similares a los que están presentes de forma natural en la piel.
+- La Vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de la piel.
+- El Zinc contribuye a la síntesis normal del ADN y al mantenimiento de la piel en condiciones normales.
+- Con Vitamina C y Zinc que ayudan a la protección de las células frente al daño oxidativo.
 - LycoPhenceGS Forte fórmula patentada en EEUU, que contiene extracto de tomate, extracto de semilla de uva, Vitamina C y Zinc.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00M75CAUY/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Lagarto Lejía Con Detergente Suelos Al Jabón - Paquete De 8 X 1500 Ml -
 
 ℹ️:
 
-- Poder desinfectante
 - Especial para limpieza de suelos
 - Desinfección suelos
+- Poder desinfectante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HD5T8L6/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Bestevery - Conservador de Hierbas  Plástico  Taza de Verduras Frescas 
 
 🔎:
 
-- Este contenedor de hierbas frescas está hecho de grado ABS, es duradero y seguro para su uso.
-- Es tan simple. Enjuague y seque la albahaca, el cilantro, la menta, el perejil, las cebolletas, el romero, el orégano, el tomillo, el eneldo o incluso los espárragos. Colóquelos en la vaina y agregue un poco de agua fresca a través del tapón de llenado atado. Recuerde vaciar el agua vieja y rellenarla cada 3 a 5 días y las hierbas se mantendrán frescas hasta por 3 semanas.
+- Es una taza Vanilla Keep-Fresh con buena integridad hermética para mantener la comida en buena calidad.
 - La ventaja de nuestro diseño es que la cáscara dura con ventana transparente protege las hojas de ser aplastadas por otros elementos en el refrigerador y puede ver lo que hay adentro al mismo tiempo, mientras las deja respirar a niveles óptimos de hidratación.
 - Inventamos el sabor a hierbas para maximizar la vida de sus sabrosas hierbas y verduras manteniéndolas frescas y crujientes. Nos encanta la comida y es especialmente bueno cuando usa hierbas frescas para animar su plato.
-- Es una taza Vanilla Keep-Fresh con buena integridad hermética para mantener la comida en buena calidad.
+- Es tan simple. Enjuague y seque la albahaca, el cilantro, la menta, el perejil, las cebolletas, el romero, el orégano, el tomillo, el eneldo o incluso los espárragos. Colóquelos en la vaina y agregue un poco de agua fresca a través del tapón de llenado atado. Recuerde vaciar el agua vieja y rellenarla cada 3 a 5 días y las hierbas se mantendrán frescas hasta por 3 semanas.
+- Este contenedor de hierbas frescas está hecho de grado ABS, es duradero y seguro para su uso.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08W1WWW39/?tag=tolees-21)

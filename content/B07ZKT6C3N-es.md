@@ -28,8 +28,8 @@ En este momento está [Ordesa - Imunoglukan jarabe 250ml - Formato Ahorro - Comp
 
 🔎:
 
-- La suspensión oral facilita la utilización y dosificación en los niños de corta edad, y permite adecuar la dosis en función del peso del niño
 - Imunoglukan P4H no está indicado en personas que estén en tratamiento con inmunosupresores, como es el caso de los trasplantados
+- La suspensión oral facilita la utilización y dosificación en los niños de corta edad, y permite adecuar la dosis en función del peso del niño
 - Complemento alimenticio a base de Imunoglukan y vitamina C que puede resultar de utilidad para ayudar a potenciar el correcto funcionamiento de las defensas naturales
 - El producto ayuda a que el sistema inmunitario funcione correctamente
 

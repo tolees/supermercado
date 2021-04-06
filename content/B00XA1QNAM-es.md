@@ -29,7 +29,7 @@ Está [Bonka café en grano natural - 1 paquete x 1 kg](https://www.amazon.es/dp
 ℹ️:
 
 - El café permanece envuelto en los aromas que desarrolla durante el tueste y guarda su frescor
-- En una selección de puros cafés cuidadosamente tostados al gusto español
 - Envasado en atmósfera protectora inmediatamente después de su tueste
+- En una selección de puros cafés cuidadosamente tostados al gusto español
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XA1QNAM/?tag=tolees-21)
