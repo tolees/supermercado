@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alpro Central Lechera Asturiana Bebida d con un 0.00 % de descuento'
-date: 2021-04-03 05:14:34
+date: 2021-04-06 01:05:41
 image: 'https://m.media-amazon.com/images/I/41G5kslp-GL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Alpro Central Lechera Asturiana Bebida de Almendra - Paqu
 
 🔎:
 
-- enriquecida con calcio y vitaminas (D,E,B2 y B12)
-- Leche de almendras UHT
 - Sabor suave a almendras tostadas
+- Leche de almendras UHT
+- enriquecida con calcio y vitaminas (D,E,B2 y B12)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00YUA8IOQ/?tag=tolees-21)

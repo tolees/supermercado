@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nutergia Ergyphilus Plus Complemento Ali al 19.26 % de rebaja'
-date: 2021-04-05 00:45:09
+date: 2021-04-06 00:51:09
 image: 'https://m.media-amazon.com/images/I/41jgBfVngXL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nutergia'
 buyurl: 'https://www.amazon.es/dp/B00DN9KPVY/?tag=tolees-21'
 descuento: '19.26'
-average: '18.40359375'
+average: '18.354'
 ---
 
 Tienes [Nutergia Ergyphilus Plus Complemento Alimenticio - 60 Cápsulas](https://www.amazon.es/dp/B00DN9KPVY/?tag=tolees-21) con precio final de  15.18 EUR (original: 18.8 EUR) (19.26 %  de rebaja) aqui!

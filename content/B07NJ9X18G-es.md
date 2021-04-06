@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AIST - 3 unidades  3 x 140 g  de jabón d con un 0.00 % de descuento'
-date: 2021-04-03 21:05:13
+date: 2021-04-06 01:02:48
 image: 'https://m.media-amazon.com/images/I/41fw9MkYjsL._SL400_.jpg'
 comments: true
 category: ofertas
