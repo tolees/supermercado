@@ -30,8 +30,8 @@ Ahora mismo tienes [Vileda Turbo Colors - Juego Completo de Fregona y Cubo con E
 
 - Mocho giratorio que permite escurrir, sin mojarse las manos; palo telescópico alargable hasta 130 cm y cabezal de limpieza triangular para acceder a todos los rincones
 - Fregona giratoria turbo 2 en 1 con microfibra blanca y fibras rojas para una excelente absorción de partículas y limpieza general; lavable hasta 60°c y fácil de cambiar
-- Clip incorporado para agarrar el palo cuando transportamos y almacenamos el cubo
 - Cubo con pedal que permite un escurrido perfecto, sin salpicaduras y sin esfuerzo; incorpora una asa para fácil tar el transporte y boca frontal para el vaciado del agua
 - Contenido del envío: 1 x cubo con pedal, 1 x palo desplegable, 1 x mopa turbo lavable hasta 60°c
+- Clip incorporado para agarrar el palo cuando transportamos y almacenamos el cubo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08W42RTS7/?tag=tolees-21)

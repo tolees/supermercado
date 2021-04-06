@@ -29,9 +29,9 @@ Ahora mismo tienes [Garnier Skin Active - Agua Micelar en Aceite  Elimina el Maq
 🔎:
 
 - Formato viaje
-- Su fórmula no grasa es adecuada para todo tipo de pieles, incluso las más sensibles. Testado dermatológicamente, desmaquilla sin resecar, limpia y alivia
+- Combina la eficacia de las micelas con el aceite de argán, capturando las impurezas y el maquillaje sin frotar
 - Se puede usar en la cara, los ojos y los labios
 - Su aplicación es fácil y sencilla; basta con agitar la fórmula para fundirla con el aceite, humedecer de forma contundente un algodón y aplicarlo sobre el rostro; sin aclarado
-- Combina la eficacia de las micelas con el aceite de argán, capturando las impurezas y el maquillaje sin frotar
+- Su fórmula no grasa es adecuada para todo tipo de pieles, incluso las más sensibles. Testado dermatológicamente, desmaquilla sin resecar, limpia y alivia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BYNMTBY/?tag=tolees-21)
