@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orlando - Tomate Frito Clásico  Brik 350 al 0.00 % de descuento'
-date: 2021-04-05 12:48:26
+date: 2021-04-06 12:51:48
 image: 'https://m.media-amazon.com/images/I/61ejInZtgZL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ORLANDO'
 buyurl: 'https://www.amazon.es/dp/B07D7H7BDC/?tag=tolees-21'
 descuento: '0.00'
-average: '21.7514814814815'
+average: '21.7296341463415'
 ---
 
 Ahora mismo tienes [Orlando - Tomate Frito Clásico  Brik 350 g - [pack de 24]](https://www.amazon.es/dp/B07D7H7BDC/?tag=tolees-21) a 19.96 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
