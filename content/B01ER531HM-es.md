@@ -28,8 +28,8 @@ Está [Haribo Maxibox Surtido de Caramelos de Goma  600g](https://www.amazon.es/
 
 ℹ️:
 
+- Delicioso mix de diferentes piezas recubiertas de azúcar
 - Surtido de caramelos de goma
 - Irresistible mix de sabores
-- Delicioso mix de diferentes piezas recubiertas de azúcar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ER531HM/?tag=tolees-21)

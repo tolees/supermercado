@@ -28,10 +28,10 @@ Ahora mismo tienes [TruuMe - Jabón Exfoliante  Acne Jabon  Jabon Exfoliante Fac
 
 🔎:
 
+- ❀Cuidado Piel: exfoliante, reducir los poros, mejora la circulación sanguínea de la piel.Blanquear la piel, eliminar puntos negros,espillinas.
+- ❀Limpieza profunda :Al tener una gran capacidad de absorción, el Barro del Mar Muerto tiene la ventaja de purificar profundamente la suciedad y el exceso de grasa en los poros. Fabricado en aceite de oliva, aceite de coco,Barro del Mar Muerto, ideal para el cuidado de la piel.
+- ❀Calidad de servicio: Si por alguna razón no están satisfechos,contacta con nosotros inmediatamente y usted estará satisfecho se con el servicio.
 - ❀Para todos los tipos de piel: cuerpo o jabón jabón de afeitar.Para hombres, mujeres y adolescentes. Regula la secreción de aceite, dejando la piel suave, lustrosa y fresca.
 - ❀100% natural: Nuestros orgánicos jabón es libre de productos químicos y conservantes sustancias. cada jabón se de nuestro artesanos fabricante de jabón hecho a mano.Puede usarse en la cara, cuerpo y cabello,seguros y no tóxicos.
-- ❀Limpieza profunda :Al tener una gran capacidad de absorción, el Barro del Mar Muerto tiene la ventaja de purificar profundamente la suciedad y el exceso de grasa en los poros. Fabricado en aceite de oliva, aceite de coco,Barro del Mar Muerto, ideal para el cuidado de la piel.
-- ❀Cuidado Piel: exfoliante, reducir los poros, mejora la circulación sanguínea de la piel.Blanquear la piel, eliminar puntos negros,espillinas.
-- ❀Calidad de servicio: Si por alguna razón no están satisfechos,contacta con nosotros inmediatamente y usted estará satisfecho se con el servicio.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HF52TPF/?tag=tolees-21)
