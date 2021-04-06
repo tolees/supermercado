@@ -28,10 +28,10 @@ En este momento está [Shu Uemura Color Lustre Brilliant Glaze Champú 300 ml](h
 
 🔎:
 
-- Para el cabello: con color
-- De la marca Shu Uemura.
 - Contiene 300 ml.
 - Apto para cabellos teñidos.
 - Este producto está indicado tanto para mujeres como para hSombras.
+- De la marca Shu Uemura.
+- Para el cabello: con color
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00Q6QVU88/?tag=tolees-21)
