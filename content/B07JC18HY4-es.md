@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tejero - Conserva de Pescado | Atún de A al 6.43 % de rebaja'
-date: 2021-04-05 06:53:15
+date: 2021-04-06 07:25:42
 image: 'https://m.media-amazon.com/images/I/41nkrhsE+RL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TEJERO'
 buyurl: 'https://www.amazon.es/dp/B07JC18HY4/?tag=tolees-21'
 descuento: '6.43'
-average: '19.4909433962266'
+average: '19.4751851851854'
 ---
 
 Tienes [Tejero - Conserva de Pescado | Atún de Almadraba en Aceite de Oliva - 8 Unidades  3 x 52 g ](https://www.amazon.es/dp/B07JC18HY4/?tag=tolees-21) con precio final de  18.64 EUR (original: 19.92 EUR) (6.43 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [Tejero - Conserva de Pescado | Atún de Almadraba en Aceite de Oliva - 8
 
 🔎:
 
-- Ingredientes : Atún Aceite y Sal
-- Mantener a temperatura ambiente
-- Pescado
 - España
+- Ingredientes : Atún Aceite y Sal
+- Pescado
+- Mantener a temperatura ambiente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JC18HY4/?tag=tolees-21)
