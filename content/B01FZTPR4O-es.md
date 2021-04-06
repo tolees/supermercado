@@ -28,8 +28,8 @@ Tienes [Castalia - Jabón negro  1 Litro](https://www.amazon.es/dp/B01FZTPR4O/?t
 
 🔎:
 
+- Producto de la marca Castalia
 - Elaborado con productos naturales
 - El mejor producto para el cuidado y bienestar de tu cuerpo
-- Producto de la marca Castalia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01FZTPR4O/?tag=tolees-21)

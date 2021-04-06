@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Auchentoshan 12 Años Single Malt Whisky  al 11.98 % de descuento'
-date: 2020-09-15 06:30:51
-image: 'https://m.media-amazon.com/images/I/41EE1q-R2cL._SL400_.jpg'
+title: 'Auchentoshan  12 Años Single Malt Whisky al 14.14 % de descuento'
+date: 2021-04-06 09:07:06
+image: 'https://m.media-amazon.com/images/I/41XWXBDp+cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0036POGEW-es Auchentoshan 12 Años Single Malt Whisky Escoces 40% - 700 ml'
+slug: 'B0036POGEW-es Auchentoshan 12 Años Single Malt Whisky Escoces 40% 700ml'
 sku: 'B0036POGEW-es'
-tags: [ 'whisky', ]
-actualPrice: 24.02 EUR
+tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Whisky','auchentoshan','whisky', ]
+actualPrice: 23.8 EUR
 currency: EUR
-price: 24.02
-comparePrice: 27.29 EUR
-prodname: 'Auchentoshan 12 Años Single Malt Whisky Escoces  40% - 700 ml'
+price: 23.8
+comparePrice: 27.72 EUR
+prodname: 'Auchentoshan  12 Años Single Malt Whisky Escoces  40%  700ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Auchentoshan'
 buyurl: 'https://www.amazon.es/dp/B0036POGEW/?tag=tolees-21'
-descuento: '11.98'
-average: '25.021250000000002'
+descuento: '14.14'
+average: '24.8855555555556'
 ---
 
-Está [Auchentoshan 12 Años Single Malt Whisky Escoces  40% - 700 ml](https://www.amazon.es/dp/B0036POGEW/?tag=tolees-21) con 11.98 de descuento por 24.02 EUR (original: 27.29 EUR) en el siguiente enlace!
+Está [Auchentoshan  12 Años Single Malt Whisky Escoces  40%  700ml](https://www.amazon.es/dp/B0036POGEW/?tag=tolees-21) con 14.14 de descuento por 23.8 EUR (original: 27.72 EUR) en el siguiente enlace!
 
-[![Auchentoshan 12 Años Single Malt Whisky ](https://m.media-amazon.com/images/I/41EE1q-R2cL._SL400_.jpg)](https://www.amazon.es/dp/B0036POGEW/?tag=tolees-21)
+[![Auchentoshan  12 Años Single Malt Whisky](https://m.media-amazon.com/images/I/41XWXBDp+cL._SL400_.jpg)](https://www.amazon.es/dp/B0036POGEW/?tag=tolees-21)
 
 ℹ️:
 
+- Sabor: A jengibre, ligeramente seco con un agradable regusto a nuez
+- Madurado por un mínimo de 12 años en dos clases de barricas distintas
+- Auchentoshan es el whisky Single Malt escocés de triple destilación. Hasta la última fota es destilada 3 veces
+- Aroma: Dulce y suave con un rastro de mandarina y lima
+- Se disfruta solo, sobre hielo o incluso con cerveza de jengibre y una rodaja de naranja
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0036POGEW/?tag=tolees-21)

@@ -29,8 +29,8 @@ Tienes [Vino tinto D.O. Rioja Montecillo Reserva - Caja de 6 unidades de vino Mo
 ℹ️:
 
 - Año de añada: 2012
-- Calidad adecuada de la bebida garantizada por el fabricante
-- Medalla de oro en el concurso mundial de Brúceles 2017
 - 90% tempranillo, 8% mazuelo, 2% garnacha
+- Medalla de oro en el concurso mundial de Brúceles 2017
+- Calidad adecuada de la bebida garantizada por el fabricante
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07GR4SP5T/?tag=tolees-21)
