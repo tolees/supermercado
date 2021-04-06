@@ -29,9 +29,9 @@ Está [Friskies - Gato Junior con Pollo  Leche y Verduras añadidas  1 5 Kg](htt
 ℹ️:
 
 - Crecimiento saludable, gracias a proteínas de alta calidad
-- Taurina para estimular un corazón saludable y buena visión
 - Especialmente formulado para gatitos hasta 1 año, también adecuado para gatas gestantes y lactantes
-- Defensas naturales, gracias a la Vitamina E
 - Dientes y huesos fuertes, gracias a vitaminas y minerales
+- Defensas naturales, gracias a la Vitamina E
+- Taurina para estimular un corazón saludable y buena visión
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XA4SV6I/?tag=tolees-21)

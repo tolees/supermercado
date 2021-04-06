@@ -28,10 +28,10 @@ Tienes [Usisa - Conserva de Pescado| Boquerones en Aceite de Oliva - 5 Latas x 1
 
 🔎:
 
-- Pack de 5 latas de boquerones de la costa en aceite de oliva con el mejor sabor de Andalucía
-- Cada lata se elabora de forma artesanal y contiene unciamente boquerones, aceite de oliva y sal
-- En Usisa la producción continúa siendo artesanal, siendo fieles a una tradición centenaria
 - Conservas de pescado natural producida en España, sin ningún tipo de conservantes ni aditivos
+- En Usisa la producción continúa siendo artesanal, siendo fieles a una tradición centenaria
+- Cada lata se elabora de forma artesanal y contiene unciamente boquerones, aceite de oliva y sal
+- Pack de 5 latas de boquerones de la costa en aceite de oliva con el mejor sabor de Andalucía
 - Boquerones en aceite de oliva con un sabor fresco gracias a su elaboración a mano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JBJ6Y4T/?tag=tolees-21)
