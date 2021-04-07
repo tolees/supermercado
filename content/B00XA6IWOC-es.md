@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colon Detergente para Lavadora de Ropa F al 8.30 % de descuento'
-date: 2021-04-06 00:53:05
+date: 2021-04-07 01:05:18
 image: 'https://m.media-amazon.com/images/I/51OOIDq3WEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Colon'
 buyurl: 'https://www.amazon.es/dp/B00XA6IWOC/?tag=tolees-21'
 descuento: '8.30'
-average: '20.2375'
+average: '20.1252941176471'
 ---
 
 Está [Colon Detergente para Lavadora de Ropa Formato Liquido Azul Profesional  146 lavados ](https://www.amazon.es/dp/B00XA6IWOC/?tag=tolees-21) con 8.30 de descuento por 18.33 EUR (original: 19.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Colon Detergente para Lavadora de Ropa Formato Liquido Azul Profesional  
 
 ℹ️:
 
-- Eficaz incluso en agua fría contra las manchas más difíciles
 - Detergente lavadora liquido Colon, formato profesional, formato profesional
-- Pack ahorro
-- Total 9.8 Kg en 2 botellas, 144 lavados
 - Apto para uso doméstico y profesional
+- Pack ahorro
+- Eficaz incluso en agua fría contra las manchas más difíciles
+- Total 9.8 Kg en 2 botellas, 144 lavados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XA6IWOC/?tag=tolees-21)

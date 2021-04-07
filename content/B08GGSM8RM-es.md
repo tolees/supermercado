@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Lagarto - Jabón natural - 400 g con un 0.00 % de descuento'
-date: 2021-02-23 10:27:35
+date: 2021-04-07 01:44:48
 image: 'https://m.media-amazon.com/images/I/412ZvU519DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GGSM8RM-es Lagarto - Jabón natural - 400 g'
 sku: 'B08GGSM8RM-es'
+tags: [ 'Cuidado y limpieza del hogar','Productos para el lavado a mano y de prendas delicadas','Productos para la lavandería','Salud y cuidado personal','jabón','lagarto', ]
 actualPrice: 3.48 EUR
 currency: EUR
 price: 3.48
