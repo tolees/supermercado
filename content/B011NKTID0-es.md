@@ -29,7 +29,7 @@ Tienes [1000 x Vogue etiquetas de alimentos sin Gluten 25 4 mm adhesivo removi
 ℹ️:
 
 - Caja cantidad 1000
-- Dimensiones 25.4 (Ø) mm (1 ")
 - Extraíble adhesivo se cae fácilmente, sin dejar residuos
+- Dimensiones 25.4 (Ø) mm (1 ")
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B011NKTID0/?tag=tolees-21)
