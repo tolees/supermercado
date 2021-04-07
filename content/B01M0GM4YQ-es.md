@@ -29,7 +29,7 @@ Tienes [Weider Whey Protein White Spread 250 g. Crema de chocolate Blanco con 22
 🔎:
 
 - Nut Protein White Spread 250 Grs (WJW.216368)
-- Sabor: Whey Protein White Spread
 - Aperitivos dietéticos Ayudas para el adelgazamiento y la pérdida de peso
+- Sabor: Whey Protein White Spread
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M0GM4YQ/?tag=tolees-21)
