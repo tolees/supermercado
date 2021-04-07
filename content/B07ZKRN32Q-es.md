@@ -29,10 +29,10 @@ Ahora mismo tienes [Marca Amazon - Happy Belly - Galletas Petit Beurre  6x230g](
 🔎:
 
 - Perfecto para compartir con amigos y familiares
-- Apto para dietas vegetarianas
-- Producto fabricado en Suiza
-- Envase de 6
 - Sin colorantes ni aromas
 - Ideal para la merienda o para picar entre horas
+- Envase de 6
+- Producto fabricado en Suiza
+- Apto para dietas vegetarianas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZKRN32Q/?tag=tolees-21)
