@@ -28,10 +28,10 @@ Está [Moksha Beauty - Barra de Jabón de Azufre con Ácido Salicílico - [Hecho
 
 ℹ️:
 
+- APROPIADO PARA TODO TIPO DE PIELES – Al contrario que otros productos de Azufre y Ácido Salicílico, nuestro jabón es apropiado para todos los tipos de piel, como pieles sensibles, grasas y secas. Enriquecido con Vitamina E para ayudar a proteger la piel contra el estrés de la oxidación y dejando la piel con un tacto muy suave y delicado.
+- PERFECTO PARA HOMBRES, MUJERES Y ADOLESCENTES – Da igual que seas una mujer que quiera una piel suave o un hombre que quiera mejorar su piel grasa, nuestra Barra de jabón de azufre tiene partículas que limpian los poros en profundidad. El mejor jabón premium anti-acné para hombres, mujeres, adolescentes.
 - HECHO A MANO EN EL REINO UNIDO – En Moksha nos enorgullecemos de nuestros productos. Si por cualquier razón no estás satisfecho con tu Barra de Jabón de Azufre, por favor, contáctanos y lo solucionaremos inmediatamente. Estás cubierto por nuestra Promesa de Satisfacción del Cliente.
 - SIENTE LA LIMPIEZA EN LA PIEL DE TU CARA – Nuestra barra de jabón de azufre está cargada de Azufre y Ácido Salicílico para ofrecer una piel sana y renovada. Un lavado con la barra de jabón de Moksha tensa los poros, unifica el tono de la piel y deja la piel impoluta y rejuvenecida.
-- APROPIADO PARA TODO TIPO DE PIELES – Al contrario que otros productos de Azufre y Ácido Salicílico, nuestro jabón es apropiado para todos los tipos de piel, como pieles sensibles, grasas y secas. Enriquecido con Vitamina E para ayudar a proteger la piel contra el estrés de la oxidación y dejando la piel con un tacto muy suave y delicado.
 - JABÓN DE AZUFRE PREMIUM – Lo primero y lo más importante cuando se trata de jabones es la calidad, especialmente cuando tienes que usarlos en tu cara. Nuestros Jabones de Azufre de Moksha se fabrican en el Reino Unido. Nos enorgullece que nuestro jabón con ácido salicílico sea Jabón Vegetal 100% Puro.
-- PERFECTO PARA HOMBRES, MUJERES Y ADOLESCENTES – Da igual que seas una mujer que quiera una piel suave o un hombre que quiera mejorar su piel grasa, nuestra Barra de jabón de azufre tiene partículas que limpian los poros en profundidad. El mejor jabón premium anti-acné para hombres, mujeres, adolescentes.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KDK43N1/?tag=tolees-21)

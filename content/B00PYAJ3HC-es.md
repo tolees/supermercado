@@ -28,9 +28,9 @@ En este momento está [Vitae Reconnect Complemento Alimenticio  Blanco  30 Table
 
 🔎:
 
-- Es un suplemento formulado para ayudar el normal funcionamiento del sistema nervioso, soportar el estrés y apoyar el rendimiento cognitivo
-- Gracias a su composición, te fácilita la energía que necesitas y te ayuda a gestionar las épocas mas estresantes con eficacia
-- fácil de usar
 - Dispone de coenzima q10, ascorbato sódico, fosfatidilserina, nadh
+- Gracias a su composición, te fácilita la energía que necesitas y te ayuda a gestionar las épocas mas estresantes con eficacia
+- Es un suplemento formulado para ayudar el normal funcionamiento del sistema nervioso, soportar el estrés y apoyar el rendimiento cognitivo
+- fácil de usar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00PYAJ3HC/?tag=tolees-21)

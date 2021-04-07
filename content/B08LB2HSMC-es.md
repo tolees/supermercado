@@ -28,12 +28,12 @@ Ahora mismo tienes [Patatas Fritas Vicente Vidal Desde 1931 Receta original  1 u
 
 🔎:
 
-- Instrucciones para su uso adecuado: Abrir la bolsa y disfrutar del contenido
-- Receta original, patatas crujientes fritas
 - País de origen: España
-- Mantener en un lugar fresco y seco
-- Ingredientes: patatas (variedad: agria y hermes) aceite de girasol y sal
-- Ingredientes: Ingredientes: Patatas (variedad: agria y hermes) aceite de girasol y sal; sin ALÉRGENOS (Reg. 1169/2011)
+- Receta original, patatas crujientes fritas
 - Alérgenos: sin alérgenos
+- Mantener en un lugar fresco y seco
+- Instrucciones para su uso adecuado: Abrir la bolsa y disfrutar del contenido
+- Ingredientes: Ingredientes: Patatas (variedad: agria y hermes) aceite de girasol y sal; sin ALÉRGENOS (Reg. 1169/2011)
+- Ingredientes: patatas (variedad: agria y hermes) aceite de girasol y sal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08LB2HSMC/?tag=tolees-21)

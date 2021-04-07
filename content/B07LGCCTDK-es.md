@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOUSSEL gel de ducha clásico formato via al 0.00 % de descuento'
-date: 2021-03-20 12:10:16
+date: 2021-04-07 20:02:35
 image: 'https://m.media-amazon.com/images/I/51JZ7pyKH4L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MOUSSEL'
 buyurl: 'https://www.amazon.es/dp/B07LGCCTDK/?tag=tolees-21'
 descuento: '0.00'
-average: '1.03'
+average: '1.02666666666667'
 ---
 
 Ahora mismo tienes [MOUSSEL gel de ducha clásico formato viaje bote 60 ml](https://www.amazon.es/dp/B07LGCCTDK/?tag=tolees-21) a 1.0 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
