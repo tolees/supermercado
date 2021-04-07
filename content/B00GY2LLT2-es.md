@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Listerine - Enjuague Bucal Mentol  500 m al 9.42 % de descuento'
-date: 2020-05-09 17:20:52
-image: 'https://m.media-amazon.com/images/I/41CIO1ZYGDL._SL400_.jpg'
+title: 'Listerine  Enjuague Bucal Mentol  500 ml al 16.23 % de descuento'
+date: 2021-04-07 17:03:25
+image: 'https://m.media-amazon.com/images/I/41jcTiR5yNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00GY2LLT2-es Listerine - Enjuague Bucal Mentol 500 ml'
+slug: 'B00GY2LLT2-es Listerine Enjuague Bucal Mentol 500 ml'
 sku: 'B00GY2LLT2-es'
-tags: [ 'listerine', ]
-actualPrice: 4.52 EUR
+tags: [ 'Cuidado bucal','Enjuagues bucales','Salud y cuidado personal','listerine', ]
+actualPrice: 4.18 EUR
 currency: EUR
-price: 4.52
+price: 4.18
 comparePrice: 4.99 EUR
-prodname: 'Listerine - Enjuague Bucal Mentol  500 ml'
+prodname: 'Listerine  Enjuague Bucal Mentol  500 ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Listerine'
 buyurl: 'https://www.amazon.es/dp/B00GY2LLT2/?tag=tolees-21'
-descuento: '9.42'
-average: '4.52'
+descuento: '16.23'
+average: '4.435'
 ---
 
-Ahora mismo tienes [Listerine - Enjuague Bucal Mentol  500 ml](https://www.amazon.es/dp/B00GY2LLT2/?tag=tolees-21) a 4.52 EUR (original: 4.99 EUR) (9.42 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Listerine  Enjuague Bucal Mentol  500 ml](https://www.amazon.es/dp/B00GY2LLT2/?tag=tolees-21) a 4.18 EUR (original: 4.99 EUR) (16.23 %  de descuento) en el siguiente enlace!
 
-[![Listerine - Enjuague Bucal Mentol  500 m](https://m.media-amazon.com/images/I/41CIO1ZYGDL._SL400_.jpg)](https://www.amazon.es/dp/B00GY2LLT2/?tag=tolees-21)
+[![Listerine  Enjuague Bucal Mentol  500 ml](https://m.media-amazon.com/images/I/41jcTiR5yNL._SL400_.jpg)](https://www.amazon.es/dp/B00GY2LLT2/?tag=tolees-21)
 
 🔎:
 
+- Fórmula basada en aceites esenciales con flúor y sin alcohol que proporciona 24 horas de protección contra la placa
+- LISTERINE Mentol Sabor Suave proporciona la tranquilidad de un aliento fresco duradero
+- Gracias a su contenido en flúor, fortalece los dientes y los protege contra las caries
+- Limpia en profundidad las zonas más difíciles y actúa entre los dientes y en la línea de las encías
+- Su fórmula, clínicamente probada, asegura hasta un 97% de la eliminación de bacterias que forman la placa dental: alcanza los lugares a los que el cepillo no llega
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00GY2LLT2/?tag=tolees-21)
