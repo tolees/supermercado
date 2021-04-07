@@ -28,7 +28,7 @@ Está [Exquisite Gaming MMFTSW300085 Meta Merch Taza de café  dolamita  250 ml]
 
 ℹ️:
 
-- Metamerch
 - Mango esculpido
+- Metamerch
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N1GTSCT/?tag=tolees-21)
