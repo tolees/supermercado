@@ -29,9 +29,9 @@ Tienes [Flota Detergente Líquido Esencia  Lavados  Morado  90 Unidad](https://w
 ℹ️:
 
 - Formato familiar Ahorro
-- Indicado para todo tipo de ropa (Blanca y Color)
-- Perfume Floral muy agradable
 - Botella 90 Lavados (4,95 Litros)
+- Perfume Floral muy agradable
+- Indicado para todo tipo de ropa (Blanca y Color)
 - Limpieza eficaz contra las manchas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B086Q5QSHQ/?tag=tolees-21)
