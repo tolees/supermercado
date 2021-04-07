@@ -28,11 +28,11 @@ Tienes [Marca Amazon - Happy Belly Select Café de Brasil en grano  2 x 500gr](h
 
 ℹ️:
 
-- 100 % Arábica. Intensidad 3/5
-- Envase de 2: 2 x 500gr
-- Apto para dietas vegetarianas y veganas
-- Granos arábica seleccionados con esmero, con cuerpo medio y una sutil mezcla de notas de chocolate y frutos secos
 - Café de Brasil. Tostado y envasado en Bélgica
+- Granos arábica seleccionados con esmero, con cuerpo medio y una sutil mezcla de notas de chocolate y frutos secos
+- Apto para dietas vegetarianas y veganas
+- Envase de 2: 2 x 500gr
 - RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
+- 100 % Arábica. Intensidad 3/5
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08FRSX4F5/?tag=tolees-21)

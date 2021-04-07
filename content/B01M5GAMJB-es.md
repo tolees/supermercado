@@ -28,10 +28,10 @@ Tienes [Sanon Alcachofa  Complemento Alimenticio  200 Comprimidos  400 mg](https
 
 ℹ️:
 
-- Reduce los niveles de colesterol, grasas y azúcar en sangre
-- Diurética, reduce la urea en sangre y como depurativa
 - Aumenta la secreción de bilis, ayudando en la digestión de grasas, ictericia e hígado perezoso
-- Estimula la regeneración de las células del hígado
+- Diurética, reduce la urea en sangre y como depurativa
+- Reduce los niveles de colesterol, grasas y azúcar en sangre
 - De la marca Sanon
+- Estimula la regeneración de las células del hígado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M5GAMJB/?tag=tolees-21)

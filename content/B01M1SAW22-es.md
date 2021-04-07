@@ -28,10 +28,10 @@ Ahora mismo tienes [Flor Original - Suavizante para la ropa concentrado - 80 lav
 
 🔎:
 
-- Suavizante concentrado fragancia Original
-- Envase de plástico y tapón con medidor para fácil aplicación del producto
-- Frescor y suavidad con solo medio tapón
 - Efecto antiestático en la ropa
+- Envase de plástico y tapón con medidor para fácil aplicación del producto
+- Suavizante concentrado fragancia Original
 - Frescor de recién lavado hasta 100 días
+- Frescor y suavidad con solo medio tapón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M1SAW22/?tag=tolees-21)
