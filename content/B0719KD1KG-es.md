@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lixone  Gel y jabón - 125 gr. al 0.00 % de descuento'
-date: 2021-04-06 13:16:37
+date: 2021-04-07 19:00:02
 image: 'https://m.media-amazon.com/images/I/41O1ccYJ48L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Lixone  Gel y jabón - 125 gr.](https://www.amazon.es/dp/B0719KD1KG/?tag=
 
 ℹ️:
 
+- Jab lixone azufre 125gr (8411905001306)
 - Jabon cuidado personal unisex adulto
 - Jabon lixone
-- Jab lixone azufre 125gr (8411905001306)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0719KD1KG/?tag=tolees-21)

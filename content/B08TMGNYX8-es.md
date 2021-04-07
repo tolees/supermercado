@@ -28,10 +28,10 @@ En este momento está [Tikka Masala TodoEspecias 150g - Sin gluten - 100% Natura
 
 🔎:
 
-- Ingredientes: pimentón, comino, cilantro, cayena, cúrcuma, pimienta negra, clavo, nuez moscada y cardamomo.
-- Perfecto para el tamaño de la mano. Medidas del bote: 13 x 6 cm.
 - 100% Natural, sin sal ni aditivos ni gluten.
+- Ingredientes: pimentón, comino, cilantro, cayena, cúrcuma, pimienta negra, clavo, nuez moscada y cardamomo.
 - El Tikka Masala es una aromática y picante mezcla de especias naturales, típica de la India. Con ella se elabora la popular receta "Pollo Tikka Masala" mezclando el condimento con yogur natural.
 - Bote Especiero con tapa y dos dosificadores, uno pequeño para espolvorear y otro mayor para la medición en cucharadas.
+- Perfecto para el tamaño de la mano. Medidas del bote: 13 x 6 cm.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TMGNYX8/?tag=tolees-21)

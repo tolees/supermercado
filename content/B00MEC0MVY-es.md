@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.50 % en Amor en conserva [Blu-ray]'
-date: 2021-04-06 19:05:59
+date: 2021-04-07 19:07:18
 image: 'https://m.media-amazon.com/images/I/51AjuoSJ0iL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MEC0MVY/?tag=tolees-21'
 descuento: '30.50'
-average: '12.3471764705883'
+average: '12.3276023391814'
 ---
 
 Tienes [Amor en conserva [Blu-ray]](https://www.amazon.es/dp/B00MEC0MVY/?tag=tolees-21) con un 30.50 % de descuento con precio de oferta de 9.0 EUR (original: 12.95 EUR) en el siguiente enlace!

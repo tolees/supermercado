@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Starbucks Espresso Roast De Nescafe Dolc al 28.35 % de rebaja'
-date: 2021-04-06 13:28:15
+date: 2021-04-07 18:11:28
 image: 'https://m.media-amazon.com/images/I/41hXBvPOK3L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STARBUCKS'
 buyurl: 'https://www.amazon.es/dp/B07WZV4DSH/?tag=tolees-21'
 descuento: '28.35'
-average: '20.4766666666667'
+average: '20.57'
 ---
 
 Tienes [Starbucks Espresso Roast De Nescafe Dolce Gusto Cápsulas De Café De Tostado Intenso 6 X Caja De 12 Unidades](https://www.amazon.es/dp/B07WZV4DSH/?tag=tolees-21) con precio final de  20.85 EUR (original: 29.1 EUR) (28.35 %  de rebaja) aqui!

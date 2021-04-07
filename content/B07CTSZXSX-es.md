@@ -28,15 +28,15 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Café molido "Espresso Crema"  4 
 
 🔎:
 
-- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
-- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
 - Apto para cafeteras Espresso
-- Fuerte y cremoso
-- Café molido de tueste natural
-- Conservar en un lugar fresco y seco. Una vez abierto, conservar en el frigorífico en un recipiente hermético, alejado de olores fuertes y consumir en 3 semanas
-- Una mezcla con gran cuerpo y bien equilibrada, con notas de chocolate negro y caramelo
-- Usar aproximadamente 2 cucharaditas de café por taza
 - Intensidad: 4/5
+- Café molido de tueste natural
+- Usar aproximadamente 2 cucharaditas de café por taza
+- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
+- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
+- Una mezcla con gran cuerpo y bien equilibrada, con notas de chocolate negro y caramelo
+- Fuerte y cremoso
+- Conservar en un lugar fresco y seco. Una vez abierto, conservar en el frigorífico en un recipiente hermético, alejado de olores fuertes y consumir en 3 semanas
 - Este café ha sido molido a un grosor fino
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CTSZXSX/?tag=tolees-21)

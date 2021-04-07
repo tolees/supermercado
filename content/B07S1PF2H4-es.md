@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish - cristales de sal para lavavajil al 0.00 % de rebaja'
-date: 2021-04-06 19:21:08
+date: 2021-04-07 19:32:21
 image: 'https://m.media-amazon.com/images/I/51jIBO86cZL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Finish'
 buyurl: 'https://www.amazon.es/dp/B07S1PF2H4/?tag=tolees-21'
 descuento: '0.00'
-average: '4.42666666666667'
+average: '4.525'
 ---
 
 Tienes [Finish - cristales de sal para lavavajillas  1kg](https://www.amazon.es/dp/B07S1PF2H4/?tag=tolees-21) con precio final de  4.82 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
