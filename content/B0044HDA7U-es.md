@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Avena Kinesia - Jabón para manos y cara  al 0.00 % de descuento'
-date: 2021-04-07 00:54:53
+date: 2021-04-08 00:59:43
 image: 'https://m.media-amazon.com/images/I/41RoJj0cR6L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kinesia'
 buyurl: 'https://www.amazon.es/dp/B0044HDA7U/?tag=tolees-21'
 descuento: '0.00'
-average: '1.69931578947369'
+average: '1.69879581151833'
 ---
 
 Ahora mismo tienes [Avena Kinesia - Jabón para manos y cara  1 unidad  100 g](https://www.amazon.es/dp/B0044HDA7U/?tag=tolees-21) a 1.6 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!

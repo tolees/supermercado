@@ -28,10 +28,10 @@ Tienes [Milka Chocolate con Leche Cubierta de Crujiente Galleta  87g](https://ww
 
 🔎:
 
-- Conservar en lugar fresco y seco
+- Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso
 - Chocolate con leche cubierto de galletas Tuc de la marca Milka, en una tableta de 87 g
 - Alérgenos: Contiene leche, gluten, soja y puede contener otros frutos de cáscara
-- Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso
+- Conservar en lugar fresco y seco
 - La textura crujiente y salada contrasta de forma deliciosa y sorprendente con la suavidad del chocolate con leche
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XA0YW4M/?tag=tolees-21)
