@@ -28,12 +28,12 @@ Tienes [Marca Amazon - Happy Belly Bolsitas de té verde  150 bolsitas ](https:/
 
 🔎:
 
-- Bolsitas de té rellenas de hojas de un intenso color jade
-- Apto para dietas vegetarianas y veganas
-- Para un té claro de un verde intenso
-- RAINFOREST ALLIANCE CERTIFIED: El té que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
-- Envase de 6: 6 x 25 bolsitas (total 150 bolsitas)
-- Suave y refrescante con un aroma sugerente, que se potencia al tostar las hojas de té
 - Ligero y con el toque amargo exacto
+- Para un té claro de un verde intenso
+- Apto para dietas vegetarianas y veganas
+- Envase de 6: 6 x 25 bolsitas (total 150 bolsitas)
+- Bolsitas de té rellenas de hojas de un intenso color jade
+- Suave y refrescante con un aroma sugerente, que se potencia al tostar las hojas de té
+- RAINFOREST ALLIANCE CERTIFIED: El té que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SC9W9R9/?tag=tolees-21)
