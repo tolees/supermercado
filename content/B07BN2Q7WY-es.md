@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana Cápsulas de Le al 0.00 % de descuento'
-date: 2021-04-06 19:19:04
+date: 2021-04-08 01:33:14
 image: 'https://m.media-amazon.com/images/I/51InOZAqDLL._SL400_.jpg'
 comments: true
 category: ofertas
