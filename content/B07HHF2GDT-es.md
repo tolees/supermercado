@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'Grefusa 109849 - MisterCorn América | Co al 24.10 % de descuento'
-date: 2021-02-21 16:59:05
-image: 'https://m.media-amazon.com/images/I/51fuzTxRunL._SL200_.jpg'
+title: 'Grefusa Mistercorn América  180g al 10.26 % de descuento'
+date: 2021-04-08 19:55:40
+image: 'https://m.media-amazon.com/images/I/51fuzTxRunL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B07HHF2GDT-es Grefusa 109849 - MisterCorn América | Cocktail de Frutos...'
+author: 'tole.es'
+slug: 'B07HHF2GDT-es Grefusa Mistercorn América 180g'
 sku: 'B07HHF2GDT-es'
-actualPrice: 1.48 EUR
+tags: [ 'Alimentación y bebidas','Frutas deshidratadas, frutos secos y semillas','Frutos secos y semillas','Mezclas de frutos secos','grefusa', ]
+actualPrice: 1.75 EUR
 currency: EUR
-price: 1.48
+price: 1.75
 comparePrice: 1.95 EUR
-prodname: 'Grefusa 109849 - MisterCorn América | Cocktail de Frutos Secos con Sabor a Salsa Sweet Carolina - 180 gr'
+prodname: 'Grefusa Mistercorn América  180g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Grefusa'
 buyurl: 'https://www.amazon.es/dp/B07HHF2GDT/?tag=tolees-21'
-descuento: '24.10'
-average: '1.63618181818182'
+descuento: '10.26'
+average: '1.63821428571429'
 ---
 
-Ahora mismo tienes [Grefusa 109849 - MisterCorn América | Cocktail de Frutos Secos con Sabor a Salsa Sweet Carolina - 180 gr](https://www.amazon.es/dp/B07HHF2GDT/?tag=tolees-21) a 1.48 EUR (original: 1.95 EUR) (24.10 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Grefusa Mistercorn América  180g](https://www.amazon.es/dp/B07HHF2GDT/?tag=tolees-21) a 1.75 EUR (original: 1.95 EUR) (10.26 %  de descuento) en el siguiente enlace!
 
-[![Grefusa 109849 - MisterCorn América | Co](https://m.media-amazon.com/images/I/51fuzTxRunL._SL200_.jpg)](https://www.amazon.es/dp/B07HHF2GDT/?tag=tolees-21)
+[![Grefusa Mistercorn América  180g](https://m.media-amazon.com/images/I/51fuzTxRunL._SL400_.jpg)](https://www.amazon.es/dp/B07HHF2GDT/?tag=tolees-21)
 
 🔎:
 
-- Snacks fritos | Fuente de fibra sin conservantes ni colorantes artificiales
-- Bolsa de frutos secos mezclados de 180 gramos
-- Tentempie idóneo para descubrir los tesoros de América - Sabroso surtido MisterCorn con cacahuetes, miel y el Auténtico sabor a salsa Sweet Carolina
-- Surtido de frutos secos - Una mezcla perfecta durante el aperitivo o como picoteo sabor a salsa Sweet Carolina
 - Snack sin aceite de palma
+- Bolsa de frutos secos mezclados de 180 gramos
+- Surtido de frutos secos - Una mezcla perfecta durante el aperitivo o como picoteo sabor a salsa Sweet Carolina
+- Tentempie idóneo para descubrir los tesoros de América - Sabroso surtido MisterCorn con cacahuetes, miel y el Auténtico sabor a salsa Sweet Carolina
+- Snacks fritos | Fuente de fibra sin conservantes ni colorantes artificiales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HHF2GDT/?tag=tolees-21)
