@@ -28,15 +28,15 @@ Tienes [Albufera Monster Cerveza Artesanal Ecológica Y Vegana - Pack 24 Botella
 
 🔎:
 
-- Procedencia: spain
-- Volumen: 0.33 liters; volumen paquete: 7920.0 milliliters; tipo de alcohol: malt beers
 - Con un bonito color ámbar claro
-- Cremoso y ligero, suave y fácil de beber
-- Como servir: servir entre 6- 8 c
 - Elaborado con maltas orgánicas, de bajo tueste, cebada y trigo
-- Contenido de alcohol (alc/vol): 4.2 percent_by_volume
 - Cerveza artesanal albufera monster
 - Unidades: 24.0
 - Doble fermentación, la segunda en la propia botella
+- Como servir: servir entre 6- 8 c
+- Procedencia: spain
+- Contenido de alcohol (alc/vol): 4.2 percent_by_volume
+- Volumen: 0.33 liters; volumen paquete: 7920.0 milliliters; tipo de alcohol: malt beers
+- Cremoso y ligero, suave y fácil de beber
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08K3Y4JPB/?tag=tolees-21)

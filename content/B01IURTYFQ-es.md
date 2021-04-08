@@ -28,10 +28,10 @@ Está [Lindt Lindor Lata Corazón de San Valentín - Bombones de chocolate con l
 
 ℹ️:
 
-- El envase contiene: 20 bombones Lindor Leche
-- Fabricado en Italia
-- El mejor regalo para San Valentín
 - Puede contener avellanas y otros frutos de cáscara
 - Lata con forma de corazón que contiene los exquisitos bombones Lindor de chocolate con leche
+- Fabricado en Italia
+- El mejor regalo para San Valentín
+- El envase contiene: 20 bombones Lindor Leche
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IURTYFQ/?tag=tolees-21)
