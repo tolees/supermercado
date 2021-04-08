@@ -28,9 +28,9 @@ Tienes [2kg  1kg + 1kg  Base Jabón de glicerina transparente sin SLS  Forbury D
 
 🔎:
 
-- Jabón crudo de alta calidad para la fabricación de jabón. Jabón hecho a mano. Fácil de derretir y regar, individual y único.
-- Vegano, 100% libre de experimentos con animales, libre de aceite de palma.
 - 2kg (1kg +1kg)
+- Jabón crudo de alta calidad para la fabricación de jabón. Jabón hecho a mano. Fácil de derretir y regar, individual y único.
 - Ingredientes: agua, glicerina, propilenglicol, sodium laureth sulfatos, estearato de sodio, sorbitol, laurato de sodio, cloruro de sodio, tiosulfato de sodio, , ácido etidrónico
+- Vegano, 100% libre de experimentos con animales, libre de aceite de palma.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P1BZG9K/?tag=tolees-21)
