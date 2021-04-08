@@ -28,8 +28,8 @@ Está [MOUSSEL agua fresca de colonia spray 200 ml](https://www.amazon.es/dp/B01
 
 ℹ️:
 
+- CLASSIQUE eau fraiche colonia vapo 200 ml
 - Los mejores productos de higiene para tu día a día.
 - Cuidarse y sentirse bien nunca había sido tan fácil.
-- CLASSIQUE eau fraiche colonia vapo 200 ml
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LZMENEY/?tag=tolees-21)
