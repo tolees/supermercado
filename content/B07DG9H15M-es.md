@@ -28,10 +28,10 @@ Tienes [Larios Citrus Ginebra Mediterránea  37.5% - 700 ml](https://www.amazon.
 
 ℹ️:
 
-- Aporta aromas a enebro y cítricos, en incorpora una expresión abierta a naranja dulce
-- Sabor intenso, fresco y con una nota dulce; Refrescante y amable en el paladar
-- Es el resultado de dos dobles destilaciones de enebro salvaje, cítricos y el intenso aroma de las naranjas mediterráneas
-- Para disfrutar de su refrescante sabor se recomienda tomarla en una copa con abundante hielo, acompañada de tónica y un twist de piel de naranja; También se puede disfrutar como aperitivo en un vaso corto con dos hielos, bitter y un gajo de naranja
 - Ginebra Premium de color naranja brillante, inspirada en la esencia de las naranjas mediterráneas
+- Para disfrutar de su refrescante sabor se recomienda tomarla en una copa con abundante hielo, acompañada de tónica y un twist de piel de naranja; También se puede disfrutar como aperitivo en un vaso corto con dos hielos, bitter y un gajo de naranja
+- Aporta aromas a enebro y cítricos, en incorpora una expresión abierta a naranja dulce
+- Es el resultado de dos dobles destilaciones de enebro salvaje, cítricos y el intenso aroma de las naranjas mediterráneas
+- Sabor intenso, fresco y con una nota dulce; Refrescante y amable en el paladar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DG9H15M/?tag=tolees-21)

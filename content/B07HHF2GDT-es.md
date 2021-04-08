@@ -28,10 +28,10 @@ Ahora mismo tienes [Grefusa Mistercorn América  180g](https://www.amazon.es/dp/
 
 🔎:
 
-- Snacks fritos | Fuente de fibra sin conservantes ni colorantes artificiales
-- Snack sin aceite de palma
-- Surtido de frutos secos - Una mezcla perfecta durante el aperitivo o como picoteo sabor a salsa Sweet Carolina
-- Bolsa de frutos secos mezclados de 180 gramos
 - Tentempie idóneo para descubrir los tesoros de América - Sabroso surtido MisterCorn con cacahuetes, miel y el Auténtico sabor a salsa Sweet Carolina
+- Bolsa de frutos secos mezclados de 180 gramos
+- Surtido de frutos secos - Una mezcla perfecta durante el aperitivo o como picoteo sabor a salsa Sweet Carolina
+- Snack sin aceite de palma
+- Snacks fritos | Fuente de fibra sin conservantes ni colorantes artificiales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HHF2GDT/?tag=tolees-21)
