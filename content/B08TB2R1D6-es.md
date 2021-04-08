@@ -28,10 +28,10 @@ Está [XiangXin Herramienta de distribución de café  Filtro de té de preparac
 
 ℹ️:
 
-- Hecho de material de silicona de grado alimenticio de alta calidad, inodoro y no tóxico, protección del medio ambiente y seguro.
-- Puede ser resistente a temperaturas de hasta 250 ℃ o -40 ℃ gracias a su resistencia a altas y bajas temperaturas.
 - Adecuado para todo tipo de té de hojas sueltas, como té de manzanilla, té de hojas de frambuesa, té de regaliz, té rooibos y la mayoría de los demás.
+- Hecho de material de silicona de grado alimenticio de alta calidad, inodoro y no tóxico, protección del medio ambiente y seguro.
 - Simplemente llene diferentes tipos de hojas de té, té, empápelo con agua caliente, y luego obtendrá una taza de té fresco con sabor completo, perfecto para trabajar o viajar.
 - Es ideal para tazas de vidrio, tazas de té, tazas, teteras.
+- Puede ser resistente a temperaturas de hasta 250 ℃ o -40 ℃ gracias a su resistencia a altas y bajas temperaturas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08TB2R1D6/?tag=tolees-21)
