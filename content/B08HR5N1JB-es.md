@@ -28,10 +28,10 @@ Está [Starbucks Espresso Roast Café Molido De Tueste Intenso 6 Bolsa de 200g](
 
 ℹ️:
 
-- Café de molido fino adecuado para cafetera italiana o máquinas de café espresso
 - Café molido de STARBUCKS con intensas notas a caramelo
 - Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
-- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
+- Café de molido fino adecuado para cafetera italiana o máquinas de café espresso
 - Los cafés de tostado intenso de STARBUCKS tienen intensidad y carácter
+- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HR5N1JB/?tag=tolees-21)

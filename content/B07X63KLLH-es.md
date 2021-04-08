@@ -28,11 +28,11 @@ En este momento está [Starbucks Single Origin Colombia Café molido De Tostado 
 
 🔎:
 
+- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Los cafés de tostado medio de STARBUCKS son suaves y equilibrados
 - Café molido de STARBUCKS equilibrado y con notas a frutos secos
-- Nuevo diseño disponible desde Febrero 2021
-- Este café 100 % Colombia tiene un sabor intenso, un sabor espléndido y un regusto único de frutos secos
 - Con un toque de flores y frutos secos, un extraordinario equilibrio y una gran complejidad
-- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
+- Este café 100 % Colombia tiene un sabor intenso, un sabor espléndido y un regusto único de frutos secos
+- Nuevo diseño disponible desde Febrero 2021
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X63KLLH/?tag=tolees-21)
