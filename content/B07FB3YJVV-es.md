@@ -28,10 +28,10 @@ En este momento está [Yosoy  Bebida Ecológica de Arroz  Pack de 6 x 1L](https:
 
 🔎:
 
-- Bebida 100% vegetal, sin lactosa, sin azúcares añadidos y sin aditivos, hecha con agua del parque natural del montseny
-- Sin azúcares añadidos (contiene azúcares naturalmente presentes)
-- Ingredientes: agua del montseny, arroz (15%), aceite de girasol, sal marina; de agricultura ecológica
 - Directamente de la nevera para refrescarse e hidratarse, su consumo ayuda a alcanzar la ingesta mínima diaria de 2 l de agua
+- Ingredientes: agua del montseny, arroz (15%), aceite de girasol, sal marina; de agricultura ecológica
+- Sin azúcares añadidos (contiene azúcares naturalmente presentes)
 - Bajo contenido en grasas
+- Bebida 100% vegetal, sin lactosa, sin azúcares añadidos y sin aditivos, hecha con agua del parque natural del montseny
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FB3YJVV/?tag=tolees-21)
