@@ -28,14 +28,14 @@ Tienes [Marca Amazon - Solimo Acondicionador revitalizante para volumen y brillo
 
 ℹ️:
 
-- 4 Botellas x 250ml
+- Acondicionador revitalizante
+- Protege contra factores externos
 - Dermatológicamente probad
+- 4 Botellas x 250ml
+- En caso de contacto con los ojos, lavar bien con agua
+- Para volumen y brillo
+- Únicamente para uso externo
 - Aplicar el acondicionador en el cabello mojado desde la raíz a las puntas y enjuagar
 - Facilita el peinado
-- Acondicionador revitalizante
-- Para volumen y brillo
-- Protege contra factores externos
-- Únicamente para uso externo
-- En caso de contacto con los ojos, lavar bien con agua
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NGBHYW5/?tag=tolees-21)
