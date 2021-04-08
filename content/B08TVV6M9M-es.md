@@ -28,8 +28,8 @@ Tienes [Sdfafrreg Taza de café  Tazas de café  Taza para Beber café Cerveza p
 
 🔎:
 
-- Diseño de capacidad de 200 ml, superficie lisa y delicada, fácil de limpiar, no tóxico e inodoro.
 - Bonito y exquisito, se puede utilizar para beber agua, té, café, leche o vino.
+- Diseño de capacidad de 200 ml, superficie lisa y delicada, fácil de limpiar, no tóxico e inodoro.
 - Tamaño pequeño, adecuado para camping, senderismo, supervivencia, hoguera y uso diario.
 - Tallado a mano, mano de obra exquisita, forma única, es una excelente decoración de mesa.
 - Al utilizar materiales de madera natural, es duradero, resistente al desgaste y resistente a la corrosión.

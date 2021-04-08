@@ -28,10 +28,10 @@ Está [El Almendro - Cubits de Almendra y Caramelo a la Sal - 100 gr - Sin Glute
 
 ℹ️:
 
-- Cubitos de almendra y cereales
-- 27 % de almendras por bolsa. Receta de caramelo a la sal, chocolate blanco y un toque de vainilla
-- Sin gluten, sin aceite de palma y sin aromas artificiales
 - Bolsa de 100 gramos con zip resellable para mantener la frescura de los Cubits
+- 27 % de almendras por bolsa. Receta de caramelo a la sal, chocolate blanco y un toque de vainilla
+- Cubitos de almendra y cereales
+- Sin gluten, sin aceite de palma y sin aromas artificiales
 - Ligeros y crujientes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084LBHC6N/?tag=tolees-21)

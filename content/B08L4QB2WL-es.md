@@ -28,10 +28,10 @@ Ahora mismo tienes [Garnier Original Remedies Champú Sólido - Délicatesse De 
 
 🔎:
 
+- Instrucciones de uso: moja tu pelo y el champú sólido para que haga espuma. Enjabona el pelo de raices a puntas. Guarda tu champú sólido en una caja para protegerlo. Masajea el cuero cabelludo y después aclara.
 - Repara y nutre tu pelo hasta las puntas.
 - Fácil de desenredar y si aspecto áspero.
 - El champú sólido Délicatesse de Avena de Original Remedies combina avena y crema de arroz en un remedio auténtico que hidrata y suaviza el pelo
-- Instrucciones de uso: moja tu pelo y el champú sólido para que haga espuma. Enjabona el pelo de raices a puntas. Guarda tu champú sólido en una caja para protegerlo. Masajea el cuero cabelludo y después aclara.
 - Equivale a dos champús, permitiendo hasta 48 usos* *Hasta 2x250ml. Puede variar según el largo del cabello. Basado en la media en Europa: 3,5 lavados/semana. Fórmula 97% biodegradable** **Según test OECD 301 o equivalentes.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L4QB2WL/?tag=tolees-21)
