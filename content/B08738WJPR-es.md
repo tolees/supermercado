@@ -28,10 +28,10 @@ En este momento está [Canyita Botella de champú vacía  3 Piezas/Set 60 ml Tub
 
 🔎:
 
-- De tamaño pequeño, liviano, que ahorra espacio, cómodo de llevar cuando viaja.
 - Diseño de boca ancha, es conveniente verter líquido, fácil de almacenar, fácil de usar.
-- Se puede usar en champú, loción, loción de baño, acondicionador para el cabello, etc.
 - Excelente mano de obra, una herramienta esencial para el hogar o suministros de viaje.
+- De tamaño pequeño, liviano, que ahorra espacio, cómodo de llevar cuando viaja.
 - Hecho de material de silicona de grado alimenticio, es duradero y reutilizable.
+- Se puede usar en champú, loción, loción de baño, acondicionador para el cabello, etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08738WJPR/?tag=tolees-21)
