@@ -28,10 +28,10 @@ Ahora mismo tienes [Garnier Skin Active PureActive Tiras de Carbón Anti Puntos 
 
 🔎:
 
-- Tras una semana, poros visiblemente desobstruidos y textura de la piel suavizada
 - Tras 4 semanas puntos negros visiblemente reducidos y poros contraídos, menos visibles
-- Contiene carbón negro purificante, conocido por sus propiedades absorbentes que atrapan las impurezas
-- Pack de 4 tiras anti puntos negros enriquecidas con carbón, para las pieles jóvenes con imperfecciones
+- Tras una semana, poros visiblemente desobstruidos y textura de la piel suavizada
 - Aplica sobre la zona focalizada, humedece y deja secar 10-15 minutos y pega el tirón
+- Pack de 4 tiras anti puntos negros enriquecidas con carbón, para las pieles jóvenes con imperfecciones
+- Contiene carbón negro purificante, conocido por sus propiedades absorbentes que atrapan las impurezas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FXQV77P/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Hero Confitura Extra de Naranja Amarga Todo Natural - Paquete de 8 x 345
 
 ℹ️:
 
-- Sin gluten
-- Vegano
-- Todo natural
-- Sin conservantes ni colorantes
 - Confitura extra
+- Todo natural
+- Vegano
+- Sin gluten
+- Sin conservantes ni colorantes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07BH5QDLF/?tag=tolees-21)
