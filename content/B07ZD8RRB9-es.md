@@ -28,12 +28,12 @@ Tienes [Marca Amazon - Solimo - SUN - Crema solar facial FPS 30  con vitamin E  
 
 🔎:
 
-- Esta crema solar facial ayuda a proteger el rostro frente a las quemaduras solares y al envejecimiento prematuro de la piel
 - Contiene: 4 x 50 ml
+- Dermatológicamente testado, con vitamin E, antioxidante
+- No permanecer mucho rato al sol, aunque se emplee un producto de protección solar
 - Protección UVA, resistente al agua
 - FPS 30, protección Alta
-- No permanecer mucho rato al sol, aunque se emplee un producto de protección solar
 - Aplicar generosamente 20 minutos antes de la exposición al sol y repetir con frecuencia la aplicación del producto, especialmente tras bañarse, transpirar o secarse
-- Dermatológicamente testado, con vitamin E, antioxidante
+- Esta crema solar facial ayuda a proteger el rostro frente a las quemaduras solares y al envejecimiento prematuro de la piel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZD8RRB9/?tag=tolees-21)

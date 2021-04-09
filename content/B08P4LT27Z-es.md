@@ -28,14 +28,14 @@ Ahora mismo tienes [Marca Amazon - Amfit Nutrition Proteína de Suero Lácteo  S
 
 🔎:
 
+- Todas las declaraciones de propiedades saludables y nutricionales han sido verificadas por la Autoridad Europea de Seguridad Alimentaria - EFSA
 - Consulte a su médico o farmacéutico si está en período de lactancia, embarazada, planea quedarse embarazada o toma medicamentos recetados
 - Las proteínas contribuyen a conservar y a que aumente la masa muscular
-- Alto contenido de proteínas
-- Sabor chocolate blanco - 1kg
-- Todas las declaraciones de propiedades saludables y nutricionales han sido verificadas por la Autoridad Europea de Seguridad Alimentaria - EFSA
-- Dosis recomendada: Adultos: Añadir 1 cacito (30 g) a 200 ml de agua o leche y mezclar bien. Tomar 1 cacito al día, preferiblemente después del entrenamiento, o según lo recomendado por su profesional sanitario. El cacito está incluido en el producto
-- Apto para dietas vegetarianas
-- Los complementos alimenticios no deben utilizarse como sustituto de una dieta variada y equilibrada y un estilo de vida saludable
 - Este envase contiene 33 porciones
+- Apto para dietas vegetarianas
+- Alto contenido de proteínas
+- Los complementos alimenticios no deben utilizarse como sustituto de una dieta variada y equilibrada y un estilo de vida saludable
+- Dosis recomendada: Adultos: Añadir 1 cacito (30 g) a 200 ml de agua o leche y mezclar bien. Tomar 1 cacito al día, preferiblemente después del entrenamiento, o según lo recomendado por su profesional sanitario. El cacito está incluido en el producto
+- Sabor chocolate blanco - 1kg
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08P4LT27Z/?tag=tolees-21)
