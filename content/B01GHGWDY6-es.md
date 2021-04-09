@@ -28,9 +28,9 @@ Está [Vidal Golosinas Soft Fruit. Caramelo de goma sabores: piña  limón  nara
 
 ℹ️:
 
-- Producto sin gluten apto para celíacos. Libre de: frutos secos, soja y derivados.
-- Sin colorantes artificiales.
-- Formato: bolsa de 1 kg.
 - Caramelo de goma de sabores frutales: piña, limón, naranja, manzana y fresa. Su cómodo envoltorio individual lo hace ideal para disfrutar en cualquier momento y lugar.
+- Formato: bolsa de 1 kg.
+- Sin colorantes artificiales.
+- Producto sin gluten apto para celíacos. Libre de: frutos secos, soja y derivados.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GHGWDY6/?tag=tolees-21)

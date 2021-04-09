@@ -28,8 +28,8 @@ Está [Dove Men Invisible Dry 48h Desodorante Roll-On - 50 ml](https://www.amazo
 
 ℹ️:
 
-- Marca: Dove
 - Género: Hombre
 - Formato: Roll-on
+- Marca: Dove
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B007U6HLPE/?tag=tolees-21)
