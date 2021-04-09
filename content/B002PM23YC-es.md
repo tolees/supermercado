@@ -28,10 +28,10 @@ En este momento está [Lavazza Café de Grano Tostado Qualità Rossa  1kg](https
 
 🔎:
 
-- Producen un café de cafetera con un excelente sabor
-- Apto para todas las cafeteras
 - Tostados uniformemente para producir un café con un gusto rico e intenso
+- Apto para todas las cafeteras
 - Los granos de café favoritos de Italia
+- Producen un café de cafetera con un excelente sabor
 - Rico y con mucho cuerpo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002PM23YC/?tag=tolees-21)

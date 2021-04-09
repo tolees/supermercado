@@ -28,8 +28,8 @@ Está [Ladyaroma - Crema Hidratante Rosa Mosqueta  200 ml](https://www.amazon.es
 
 ℹ️:
 
-- Cuerpo LADYAROMA
 - Crema corporal Cuidado de la piel
 - CREMA HIDRATANTE ROSA MOSQUETA 200ML (8429014011482)
+- Cuerpo LADYAROMA
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071CYP6XC/?tag=tolees-21)
