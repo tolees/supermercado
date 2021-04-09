@@ -28,10 +28,10 @@ Ahora mismo tienes [L Oreal Paris - L Oréal Paris Kit Paradise Extatic Máscara
 
 🔎:
 
-- Una máscara que ofrece un volumen instantáneo con una aplicación ligera y suave
-- Apto incluso para los ojos más sensibles
-- Set que incluye una máscara de pestañas Paradise Extatic y lápiz de ojos Le Khol
-- Su fórmula con aceite de ricino, y su cepillo con fibras rectas y onduladas permite conseguir una mirada de alto impacto de una sola pasada
 - Lápiz de ojos superliner color negro de fácil aplicación
+- Su fórmula con aceite de ricino, y su cepillo con fibras rectas y onduladas permite conseguir una mirada de alto impacto de una sola pasada
+- Una máscara que ofrece un volumen instantáneo con una aplicación ligera y suave
+- Set que incluye una máscara de pestañas Paradise Extatic y lápiz de ojos Le Khol
+- Apto incluso para los ojos más sensibles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QGJNHDY/?tag=tolees-21)

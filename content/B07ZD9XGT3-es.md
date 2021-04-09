@@ -29,11 +29,11 @@ En este momento está [Marca Amazon - Solimo - SUN - Crema solar facial para pie
 🔎:
 
 - No permanecer mucho rato al sol, aunque se emplee un producto de protección solar
-- Dermatológicamente testado, con vitamin E, antioxidante
-- Aplicar generosamente 20 minutos antes de la exposición al sol y repetir con frecuencia la aplicación del producto, especialmente tras bañarse, transpirar o secarse
 - Contiene: 4 x 200 ml
-- Protección UVA, resistente al agua
+- Aplicar generosamente 20 minutos antes de la exposición al sol y repetir con frecuencia la aplicación del producto, especialmente tras bañarse, transpirar o secarse
 - FPS 50+, Protección muy alta, para pieles sensibles
+- Dermatológicamente testado, con vitamin E, antioxidante
 - Esta loción solar se absorbe rápidamente y mantiene la piel suave y lisa
+- Protección UVA, resistente al agua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZD9XGT3/?tag=tolees-21)
