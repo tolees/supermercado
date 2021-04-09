@@ -28,10 +28,10 @@ Está [Café de Brasil en grano Consuelo  1 kg](https://www.amazon.es/dp/B07XLZG
 
 ℹ️:
 
-- Café de Brasil en grano, 1 kg
 - Para cafeteras y molinillos automáticos
+- Una mezcla de cafés arábica de Brasil cuidadosamente seleccionados que destacan por una combinación única de sabores. Un auténtico placer para el paladar con notas de chocolate, avellanas y vainilla: el compañero perfecto para tomarte un respiro
 - Tostado y envasado en Italia
 - Composición: granos 100 % arábica ecológicos especialmente seleccionados
-- Una mezcla de cafés arábica de Brasil cuidadosamente seleccionados que destacan por una combinación única de sabores. Un auténtico placer para el paladar con notas de chocolate, avellanas y vainilla: el compañero perfecto para tomarte un respiro
+- Café de Brasil en grano, 1 kg
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XLZG1QF/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Garnier Delial After Sun Leche Hidratante Calmante con Al
 
 🔎:
 
-- Alivia la tirantez, nutre y rehidrata durante 24 horas
+- Leche hidratante y calmante indicada para aplicar después de la exposición solar
 - Refresca la piel y mantiene sus niveles naturales de hidratación después de la exposición solar
 - Textura no grasa ni pegajosa que se absorbe fácilmente en la piel
-- Leche hidratante y calmante indicada para aplicar después de la exposición solar
 - Fórmula con aloe vera natural, activo hidratante enriquecido con vitaminas y minerales, conocido por sus propiedades calmantes y protectoras
+- Alivia la tirantez, nutre y rehidrata durante 24 horas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00X9TN93O/?tag=tolees-21)

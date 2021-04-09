@@ -28,10 +28,10 @@ Está [Aceites Esenciales Naturales  ESSLUX Spicy Aceites Esenciales para Humidi
 
 ℹ️:
 
-- Fascinando el aroma picante; esta colección de spicy contiene 6 aceites esenciales puros: pimienta negra, canela, mejorana, jengibre, anís estrellado, albahaca; sólo tienes que añadir unas gotas al difusor, puedes pasear en esta fragancia picante y cálida, ¡deja que estos olores únicos te liberen del cansancio del día
-- Regalo ideal; viene con una hermosa caja de regalo, este juego de aceites esenciales también es un regalo ideal para sus familias, amigos y amantes en cumpleaños, aniversario, san valentín o navidad
-- El paquete contiene; una hermosa caja de regalo, 6 aceites esenciales de 10ml
-- Multipropósito; estos aceites esenciales se pueden utilizar individualmente o en mezclas con otros aceites esenciales; se pueden usar con un difusor, para hacer perfume, velas perfumadas, burbujas de baño, jabones o para el baño y el masaje
 - Premium; todos los aceites esenciales están cuidadosamente hechos con ingredientes de alta calidad provenientes de todo el mundo, sin aditivos ni rellenos
+- El paquete contiene; una hermosa caja de regalo, 6 aceites esenciales de 10ml
+- Regalo ideal; viene con una hermosa caja de regalo, este juego de aceites esenciales también es un regalo ideal para sus familias, amigos y amantes en cumpleaños, aniversario, san valentín o navidad
+- Fascinando el aroma picante; esta colección de spicy contiene 6 aceites esenciales puros: pimienta negra, canela, mejorana, jengibre, anís estrellado, albahaca; sólo tienes que añadir unas gotas al difusor, puedes pasear en esta fragancia picante y cálida, ¡deja que estos olores únicos te liberen del cansancio del día
+- Multipropósito; estos aceites esenciales se pueden utilizar individualmente o en mezclas con otros aceites esenciales; se pueden usar con un difusor, para hacer perfume, velas perfumadas, burbujas de baño, jabones o para el baño y el masaje
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088BH51LG/?tag=tolees-21)
