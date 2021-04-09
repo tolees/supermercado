@@ -28,9 +28,9 @@ Está [Paradise PER80130 Perfumador Lata Canela  Color Marron  100 gr](https://w
 
 ℹ️:
 
-- Apto para cualquier tipo de ambiente coche u hogar
+- Aroma canela
 - Dura hasta 45 días
 - 6 unidad. 1 ambientador lata 100 Grs
-- Aroma canela
+- Apto para cualquier tipo de ambiente coche u hogar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N0I56OE/?tag=tolees-21)
