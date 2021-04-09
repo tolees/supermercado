@@ -28,8 +28,8 @@ Ahora mismo tienes [L Oreal Paris Make-up Designer - L Oréal Paris Unbelieva Br
 
 🔎:
 
-- Gel de cejas 2 días de duración
 - Resistente al agua, no transfiere, no se corre, resistente al sudor
+- Gel de cejas 2 días de duración
 - Cejas perfectas durante 2 días en 90" de aplicación
 - 92% percibe cejas más gruesas y densas; 81% confirma que lo resiste todo (autoevaluación 100 mujeres)
 - Aplica producto ligeramente en la ceja para rellenar las zonas despobladas | Usa el cepillo angular para perfilar y definir la forma de la ceja | Para terminar, peina las cejas con el cepillo

@@ -28,10 +28,10 @@ Tienes [L Oreal Paris - L Oréal Paris Excellence Creme Tinte Tono 7 Rubio - 50 
 
 🔎:
 
-- 100% cobertura de canas
+- En solo 3 pasos consigue un color rico y duradero
 - Cuida, protege y nutre el cabello
+- 100% cobertura de canas
 - Excellence Creme Triple Cuidado asegura un 100% de cobertura de canas cuidando tu cabello en cada etapa de la coloracion
 - Color rico y radiante
-- En solo 3 pasos consigue un color rico y duradero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00TPM4QSG/?tag=tolees-21)
