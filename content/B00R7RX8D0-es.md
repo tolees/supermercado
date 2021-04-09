@@ -28,9 +28,9 @@ Tienes [Salerm 21 Champú Salerm Cosmetics - 300 ml](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Fórmula con proteínas de seda, vitamina e y pantenol
-- Producto fabricado pensando en sus necesidades
 - Superhidratante
 - Protección térmica
+- Producto fabricado pensando en sus necesidades
+- Fórmula con proteínas de seda, vitamina e y pantenol
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00R7RX8D0/?tag=tolees-21)

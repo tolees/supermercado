@@ -28,10 +28,10 @@ Tienes [Oreo Original Galletas de Chocolate  Rellenas de Crema  154g](https://ww
 
 ℹ️:
 
-- Galletas de cacao rellenas de una deliciosa crema con sabor a vainilla
 - Alérgenos: contiene cereales con gluten y soja; puede contener leche
-- Conservar en lugar fresco y seco
+- Galletas de cacao rellenas de una deliciosa crema con sabor a vainilla
 - Oreo original en 1 paquete de 154 g, las galletas adecuadas para acompañar con un vaso de leche
 - Combina la textura crujiente de las láminas de galleta con la suavidad y la cremosidad de la nata
+- Conservar en lugar fresco y seco
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FN5FTCG/?tag=tolees-21)

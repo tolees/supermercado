@@ -28,10 +28,10 @@ Está [Maeloc Sidra con Pera - Pack de 4 x 200 ml](https://www.amazon.es/dp/B079
 
 ℹ️:
 
-- Servir fría o con hielo.
-- Sidra de manzana con zumo de pera.
-- Sidra gallega, elaborada con manzanas 100% gallegas de más de 1000 cultivadores autóctonos.
 - Vegana y sin gluten.
+- Sidra de manzana con zumo de pera.
+- Servir fría o con hielo.
+- Sidra gallega, elaborada con manzanas 100% gallegas de más de 1000 cultivadores autóctonos.
 - Contenido de alcohol 4%.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079K6GPVM/?tag=tolees-21)

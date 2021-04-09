@@ -28,10 +28,10 @@ Tienes [L Oreal Paris Make-up Designer - L Oréal Paris 24H Mate  Base Maquillaj
 
 🔎:
 
-- Una piel sin imperfecciones y sin brillos 24h: con polímeros protectoras que actúan como paraguas protegiendo los pigmentos y mantener la integridad del color y perlita absorbente que actúa como microesponjas que capturan agua y aceite para un acabado mate
 - Truco experto: extender la base de maquillaje por el rostro en movimiento circulares
 - Gama completa de 7 tonos, del mas claro (12) al mas oscuro (32); prepara la piel y prolonga la duracion de tu maquillaje con la prebase alisadora Infalible 24H
-- Base de maquillaje matificante larga duración 24H con textura fluida aterciopelada, que unifica para un acabado mate
+- Una piel sin imperfecciones y sin brillos 24h: con polímeros protectoras que actúan como paraguas protegiendo los pigmentos y mantener la integridad del color y perlita absorbente que actúa como microesponjas que capturan agua y aceite para un acabado mate
 - Fluido de 35ml
+- Base de maquillaje matificante larga duración 24H con textura fluida aterciopelada, que unifica para un acabado mate
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00WR4HAFU/?tag=tolees-21)

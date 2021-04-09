@@ -29,8 +29,8 @@ Tienes [L Oreal Paris Make-up Designer - L Oréal Paris 24H Mate  Base Maquillaj
 🔎:
 
 - Unifica y matifica
+- Elimina brillos e imperfecciones
 - Se aplica en movimientos circulares
 - Textura fluida aterciopelada
-- Elimina brillos e imperfecciones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00WR4HCBC/?tag=tolees-21)
