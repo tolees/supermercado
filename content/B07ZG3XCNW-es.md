@@ -29,8 +29,8 @@ En este momento está [TRESemmé Botanique Pack Champú + Protector y Rizador de
 🔎:
 
 - Cuida tu cabello e hidratándolo para conseguir unas ondas o rizos definidos, fáciles de manejar y con movimiento natural.
-- Incluye Champú 700ml y Protector de calor 200ml
 - Sin sulfatos, con agua de cactus y aceite de coco
+- Incluye Champú 700ml y Protector de calor 200ml
 - Pack Tresemmé Botanique para cabellos ondulados y rizados + Rizador
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZG3XCNW/?tag=tolees-21)
