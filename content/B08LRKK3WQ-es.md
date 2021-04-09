@@ -28,13 +28,13 @@ En este momento está [Fireball Cinnamon Whisky Con 7 Chupitos De Regalo -700 ml
 
 🔎:
 
-- Licor enérgico, excitante e irreverente que viene en una botella de 700ml con un diseño muy atractivo
-- Fireball cinnamon whisky es un licor de whisky canadiense infusionado con canela y un ligero toque picante
-- Como servir: Servir en chupito bien frio
-- Afrodisiaco y cautivador sabor a canela; con un toque especiado y picante en contraste con su perfect-serve muy frío
 - Ese sabor a canela, dulce, dota al licor de una versatilidad para combinar con bebidas afines y de sabores cítricos
-- Tipo de alcohol: Liquors
+- Afrodisiaco y cautivador sabor a canela; con un toque especiado y picante en contraste con su perfect-serve muy frío
 - Nace en canadá en 1984 como el primer licor de whisky infusionado con canela al qie denominaron “dr; mcgillicuddy’s fireball cinnamon whisky”
+- Como servir: Servir en chupito bien frio
+- Fireball cinnamon whisky es un licor de whisky canadiense infusionado con canela y un ligero toque picante
 - Procedencia: United States
+- Tipo de alcohol: Liquors
+- Licor enérgico, excitante e irreverente que viene en una botella de 700ml con un diseño muy atractivo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LRKK3WQ/?tag=tolees-21)
