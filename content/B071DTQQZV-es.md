@@ -28,10 +28,10 @@ Está [Viaggio Espresso Cápsulas de café compatibles con máquinas Nespresso S
 
 ℹ️:
 
-- INGREDIENTES: Café molido de tueste natural con aromas naturales. 120 cápsulas.
-- Incluye 3 variedades: Vaniglia, Caramello y Cioccolato.
-- Rainforest / OU kosher / Sin gluten
-- Envasado en atmósfera protectora. Sin conservantes, sin azúcares ni aromatizantes añadidos.
 - Cápsulas compatibles con máquinas Nespresso
+- INGREDIENTES: Café molido de tueste natural con aromas naturales. 120 cápsulas.
+- Rainforest / OU kosher / Sin gluten
+- Incluye 3 variedades: Vaniglia, Caramello y Cioccolato.
+- Envasado en atmósfera protectora. Sin conservantes, sin azúcares ni aromatizantes añadidos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071DTQQZV/?tag=tolees-21)
