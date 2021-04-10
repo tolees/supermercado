@@ -28,9 +28,9 @@ Tienes [Instituto Español Aceite Corporal Rosa Mosqueta - 400 ML](https://www.a
 
 ℹ️:
 
-- Número de modelo del producto: 8411047133163
-- Aceite corporal
-- Género: Mujer
 - FACIL DE USAR
+- Aceite corporal
+- Número de modelo del producto: 8411047133163
+- Género: Mujer
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAIQLHU/?tag=tolees-21)

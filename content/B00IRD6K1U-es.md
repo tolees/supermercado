@@ -28,8 +28,8 @@ Está [Shiseido 57079 Champú](https://www.amazon.es/dp/B00IRD6K1U/?tag=tolees-2
 
 ℹ️:
 
-- Producto por tu tiempo libre
 - Diseño creativo
+- Producto por tu tiempo libre
 - Calidad óptima para los requisitos del cliente
 - Creado para un uso prolongado
 
