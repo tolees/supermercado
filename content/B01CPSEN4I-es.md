@@ -28,10 +28,10 @@ Tienes [Bodegas LAN  S.A. - Vino Tinto LAN D-12 Crianza D.O.Ca. Rioja - 3 botell
 
 🔎:
 
-- Color cereza brillante
 - Acompaña a carnes rojas y a la brasa, ahumados, platos especiados y quesos curados
-- En boca se encuentra aterciopelado y suave, mostrándose muy equilibrado y armónico. Taninos muy pulidos y una retronasal a cacaos y coco
 - Intenso aroma a fruta roja, fresa y frambuesa con un sutil toque de fruta más madura sobre un ligero fondo de tofes y galleta. Los aromas del roble están muy bien integrados con la fruta, proporcionando una nariz muy fina y elegante
+- Color cereza brillante
 - Graduación: 13.5 % volumen
+- En boca se encuentra aterciopelado y suave, mostrándose muy equilibrado y armónico. Taninos muy pulidos y una retronasal a cacaos y coco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01CPSEN4I/?tag=tolees-21)
