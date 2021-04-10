@@ -30,9 +30,9 @@ Tienes [Dove Gel de Ducha para Piel más Suave y Cuidada  Hidratación Profunda 
 
 - En un práctico envase de 55 ml, diseñado especialmente para que puedas proteger tu cuerpo y cuidar tu piel durante el viaje, ocupando al mismo tiempo el mínimo espacio en tu maleta o mochila
 - Con 100% de suaves ingredientes limpiadores para ayudar a que tu piel retenga su humedad natural
-- Contiene ¼ de crema hidratante para nutrir eficazmente tu piel desde el interior
+- El gel de ducha sin sulfatos es apto para todo tipo de pieles, no es agresivo con la piel, ya que contienen limpiadores suaves e ingredientes hidratantes, como la glicerina
 - El gel de baño Dove Hidratación Profunda te deja la piel más tersa y suave tras una sola ducha
 - Con la exclusiva tecnología NutriumMoisture una distinta combinación de agentes hidratantes e ingredientes nutritivos para hidratar tu piel en profundidad
-- El gel de ducha sin sulfatos es apto para todo tipo de pieles, no es agresivo con la piel, ya que contienen limpiadores suaves e ingredientes hidratantes, como la glicerina
+- Contiene ¼ de crema hidratante para nutrir eficazmente tu piel desde el interior
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00PUDUNKY/?tag=tolees-21)
