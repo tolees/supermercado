@@ -28,10 +28,10 @@ Está [Note d Espresso Italiano - Cápsulas de café de Nicaragua Compatibles co
 
 ℹ️:
 
-- The delicious flavour and aroma of coffee in a convenient 7 gram capsule
-- Practical pack of 48 capsules
 - Exclusivamente Compatibles con cafeteras de cápsulas Nescafé* y Dolce Gusto* (* No registrado en Amazon EU S.a.r.l.)
+- Practical pack of 48 capsules
 - Un café 100 % natural tostado en Italia
 - Dosis recomendada de agua 40 ml
+- The delicious flavour and aroma of coffee in a convenient 7 gram capsule
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X121FJH/?tag=tolees-21)

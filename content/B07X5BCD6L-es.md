@@ -28,9 +28,9 @@ Está [Extravaganza - Café soluble Brasil  100 g  lote de 6 ](https://www.amazo
 
 ℹ️:
 
-- Un sabor sutil y delicado con aroma a chocolate y baja acidez
-- Disfruta de la calidad del café elaborado por profesionales en tu propio hogar
 - Café de origen soluble
 - Con granos procedentes de las soleadas colinas brasileñas
+- Un sabor sutil y delicado con aroma a chocolate y baja acidez
+- Disfruta de la calidad del café elaborado por profesionales en tu propio hogar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X5BCD6L/?tag=tolees-21)

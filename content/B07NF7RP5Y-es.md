@@ -28,11 +28,11 @@ Tienes [Marques De Riscal - Marqués de Riscal - Vino tinto Gran Reserva Denomin
 
 ℹ️:
 
-- En nariz expresa una intesidad aromática compleja, balsámica, en perfecto equilibrio entre los aromas frutales y los torrefactos del ligero tostado que recuerda a finas maderas
-- En boca es untuoso, en armonía con la fruta, con buena concentración tánica, redondo y con un final persistente
 - Este vino marida bien con jamón, quesos curados, carnes rojas, todo tipo de asados y guisos de caza
-- Vino de intenso color rojo picota, con irisaciones violáceas
-- Botella individual de 750 ml de Marqués de Riscal - Vino tinto Gran Reserva D.O. Rioja con 32 meses de crianza en barrica de roble francés
 - Apto para veganos
+- Botella individual de 750 ml de Marqués de Riscal - Vino tinto Gran Reserva D.O. Rioja con 32 meses de crianza en barrica de roble francés
+- En nariz expresa una intesidad aromática compleja, balsámica, en perfecto equilibrio entre los aromas frutales y los torrefactos del ligero tostado que recuerda a finas maderas
+- Vino de intenso color rojo picota, con irisaciones violáceas
+- En boca es untuoso, en armonía con la fruta, con buena concentración tánica, redondo y con un final persistente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NF7RP5Y/?tag=tolees-21)

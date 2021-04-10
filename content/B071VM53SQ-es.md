@@ -28,9 +28,9 @@ En este momento está [EUGENE PERMA Essentiel Champú para el Pelo - 1000 ml](ht
 
 🔎:
 
-- Tipo de producto - champú
-- Marca - eugene perma
-- Producto pensado para cualquier persona, ya sea hombre o mujer
 - Para el cabello: Normal
+- Producto pensado para cualquier persona, ya sea hombre o mujer
+- Marca - eugene perma
+- Tipo de producto - champú
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071VM53SQ/?tag=tolees-21)
