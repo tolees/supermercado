@@ -28,8 +28,8 @@ En este momento está [TOYANDONA 3 medallas de trigo deportivas  1. 2. 3. Espaci
 
 🔎:
 
+- Es un buen regalo para los niños, ya que nunca olvidará la emoción cuando ganen la medalla y se animará a hacer realidad sus sueños y a alcanzar otros objetivos en el futuro.
 - Las medallas son muy importantes para cualquier competición.
 - Para el ganador, la medalla es un buen premio y un representante del honor y un gran esfuerzo.
-- Es un buen regalo para los niños, ya que nunca olvidará la emoción cuando ganen la medalla y se animará a hacer realidad sus sueños y a alcanzar otros objetivos en el futuro.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QV8MSBC/?tag=tolees-21)
