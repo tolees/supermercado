@@ -28,9 +28,9 @@ En este momento está [Sanytol - Eco Recarga de Jabón de Manos Nutritivo con Pr
 
 🔎:
 
-- Complejo dermo reparador con ingredientes de origen natural, entre ellos almendras y jalea real, con propiedades nutritivas y reparadoras
 - Eco Recarga de jabón de manos nutritivo con protección total contra agentes externos, con un 83% menos de plástico
 - Preserva la hidratación natural de la piel gracias a un rico complejo lipídico similar al que conforma la estructura de nuestra epidermis;Fórmula probada dermatológica y clínicamente
+- Complejo dermo reparador con ingredientes de origen natural, entre ellos almendras y jalea real, con propiedades nutritivas y reparadoras
 - Deja las manos limpias, suaves, nutridas y delicadamente perfumadas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DLMYJGS/?tag=tolees-21)

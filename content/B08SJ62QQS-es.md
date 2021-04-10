@@ -28,9 +28,9 @@ Ahora mismo tienes [Arquivet Pack 24 LATAS Atún Blanco en Salsa con Pollo 80gr.
 
 🔎:
 
-- producto de alta calidad
 - pack de 24 latas de atún blanco y pollo en salsa. sabroso y nutritivo alimento complementario que aporta liquido a los gatos, muy necesario para el buen funcionamieno renal. ingredientes naturales de gran calidad. sin cereales y sin gluten. dejar siempre agua fresca al alcance del animal.
-- De la marca: Arquivet
+- producto de alta calidad
 - fácil de usar
+- De la marca: Arquivet
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08SJ62QQS/?tag=tolees-21)
