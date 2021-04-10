@@ -31,7 +31,7 @@ Ahora mismo tienes [Viaggio Espresso Cápsulas de café compatibles con máquina
 - Envasado en atmósfera protectora. Sin conservantes, sin azúcares ni aromatizantes añadidos.
 - OU kosher / Sin gluten
 - INGREDIENTES: Café molido de tueste natural con aromas naturales. 120 cápsulas.
-- Incluye 12 variedades: Ristretto, Intenso, Arabica, Espresso, Decaffeinato, Lungo, Fortissimo, Vaniglia, Caramello, Cioccolato, Brasil y Colombia
 - Cápsulas compatibles con máquinas Nespresso
+- Incluye 12 variedades: Ristretto, Intenso, Arabica, Espresso, Decaffeinato, Lungo, Fortissimo, Vaniglia, Caramello, Cioccolato, Brasil y Colombia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079Z7WNTW/?tag=tolees-21)

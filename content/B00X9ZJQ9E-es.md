@@ -28,9 +28,9 @@ Tienes [Orbit Bote Chicle sin Azúcar  Eucalipto  Pack de 60 Unidades](https://w
 
 🔎:
 
-- fácil de usar
-- Contiene una fuente fenilalanina. Un consumo excesivo puede tener efectos laxantes. Reconocido por la FDI World Dental Federation. Masticar chicle sin azúcar como Orbit, es beneficioso para salud
-- 60 grágeas
 - Contiene Soja y/o productos a base de soja
+- fácil de usar
+- 60 grágeas
+- Contiene una fuente fenilalanina. Un consumo excesivo puede tener efectos laxantes. Reconocido por la FDI World Dental Federation. Masticar chicle sin azúcar como Orbit, es beneficioso para salud
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00X9ZJQ9E/?tag=tolees-21)

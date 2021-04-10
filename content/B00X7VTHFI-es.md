@@ -28,8 +28,8 @@ Ahora mismo tienes [BioBel Detergente Liquido Eco - 1500 ml](https://www.amazon.
 
 🔎:
 
-- Para lavadora y todo tipo de ropa con aceite esencial de lavanda
 - Certificado por Ecocert Greenlife f32600
+- Para lavadora y todo tipo de ropa con aceite esencial de lavanda
 - No contiene: fosfatos, enzimas, perfume sintético, colorante, blanqueante óptico, ni ningún elemento de procedencia petroquímica ni animal. 
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00X7VTHFI/?tag=tolees-21)
