@@ -28,10 +28,10 @@ Tienes [NESCAFÉ GOLD PURO COLOMBIA aroma y sabor  café soluble 100 % arábica 
 
 ℹ️:
 
-- Café soluble fácil de preparar: se disuelve en agua o leche caliente
-- Café suave y afrutado elaborado cuidadosamente para los momentos que importan
 - Café soluble de calidad que contiene granos de arábica seleccionado y tostado cuidadosamente
 - Gracias a su delicado tueste consigue todo el aroma y todo el sabor de cada grano de café
+- Café suave y afrutado elaborado cuidadosamente para los momentos que importan
+- Café soluble fácil de preparar: se disuelve en agua o leche caliente
 - Un frasco de 100g equivale a unas 50 tazas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M4RD0NA/?tag=tolees-21)
