@@ -28,11 +28,11 @@ En este momento está [Starbucks House Blend Café Molido De Tostado Medio 6 Bol
 
 🔎:
 
-- Una mezcla de excelentes granos de Latinoamérica tostados hasta presentar un brillante color castaño oscuro
-- Equilibrio de aroma, cuerpo y sabor con toques de frutos secos y cacao
-- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Los cafés de tostado medio de STARBUCKS son suaves y equilibrados
-- Café molido de STARBUCKS intenso, con notas a tofe
+- Una mezcla de excelentes granos de Latinoamérica tostados hasta presentar un brillante color castaño oscuro
+- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Nuevo diseño disponible desde Febrero 2021
+- Café molido de STARBUCKS intenso, con notas a tofe
+- Equilibrio de aroma, cuerpo y sabor con toques de frutos secos y cacao
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X63LCXL/?tag=tolees-21)
