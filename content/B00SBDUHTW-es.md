@@ -29,9 +29,9 @@ Tienes [L Oreal Paris Make-up Designer - L Oréal Paris Make-up designer Coloret
 ℹ️:
 
 - Sus polvos son muy suaves y se funden con la piel
-- Contiene pigmentos micronizados
-- Esculpe y realza los pómulos
-- Colorete mate color rosa para tez oscura que se adapta a tu piel
 - Dispone de un compartimento interior con espejo y brocha
+- Colorete mate color rosa para tez oscura que se adapta a tu piel
+- Esculpe y realza los pómulos
+- Contiene pigmentos micronizados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00SBDUHTW/?tag=tolees-21)
