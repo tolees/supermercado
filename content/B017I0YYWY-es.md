@@ -28,10 +28,10 @@ Tienes [Revlon Ultimate All-in-One Máscara de Pestañas](https://www.amazon.es/
 
 ℹ️:
 
-- Producto con fórmula suave y ligera
-- Cantidad por paquete: 1 pieza
 - Para más volumen, agregue una segunda capa
-- Tecnología Revlon Lash Separator Brush
 - Cepillo de cerdas escalonadas diseñadas para definir y separar cada pestaña
+- Tecnología Revlon Lash Separator Brush
+- Cantidad por paquete: 1 pieza
+- Producto con fórmula suave y ligera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B017I0YYWY/?tag=tolees-21)

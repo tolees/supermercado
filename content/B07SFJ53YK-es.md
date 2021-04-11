@@ -28,12 +28,12 @@ En este momento está [Marca Amazon - Happy Belly Bolsitas de té English Breakf
 
 🔎:
 
-- RAINFOREST ALLIANCE CERTIFIED: El té que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
-- Para un té claro energizante de un tono ámbar rojizo con notas características de madera y fruta dulce
-- Fuerte y equilibrado con delicadas notas amargas
+- Apto para dietas vegetarianas y veganas
 - Fuerte, consistente y gratamente amargo, perfecto para empezar el día
 - Bolsitas de té rellenas de hojas de un negro intenso para un sabor rico y equilibrado
-- Apto para dietas vegetarianas y veganas
+- RAINFOREST ALLIANCE CERTIFIED: El té que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
+- Para un té claro energizante de un tono ámbar rojizo con notas características de madera y fruta dulce
 - Envase de 6: 6 x 50 bolsitas (total 300 bolsitas)
+- Fuerte y equilibrado con delicadas notas amargas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SFJ53YK/?tag=tolees-21)
