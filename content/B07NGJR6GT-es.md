@@ -28,14 +28,14 @@ Está [Marca Amazon - Solimo Champú revitalizante  protección para el cabello 
 
 ℹ️:
 
-- Protege y nutre el cabello, haciéndolo más suave y brillante
-- Únicamente para uso externo
-- Protección para el cabello teñido
-- En caso de contacto con los ojos, lavar bien con agua
-- Aplicar generosamente en el cabello mojado, masajear suavemente el cuero cabelludo y la raíz con las yemas de los dedos. Aclarar bien
-- Champú revitalizante
-- Con queratina, filtro UV y proteínas
-- 4 Botellas x 400ml
 - Dermatológicamente probad
+- Aplicar generosamente en el cabello mojado, masajear suavemente el cuero cabelludo y la raíz con las yemas de los dedos. Aclarar bien
+- En caso de contacto con los ojos, lavar bien con agua
+- Con queratina, filtro UV y proteínas
+- Protege y nutre el cabello, haciéndolo más suave y brillante
+- 4 Botellas x 400ml
+- Únicamente para uso externo
+- Champú revitalizante
+- Protección para el cabello teñido
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NGJR6GT/?tag=tolees-21)
