@@ -28,10 +28,10 @@ En este momento está [Max Factor Facefinity 3 en 1 All Day Flawless Base de Maq
 
 🔎:
 
-- Con primer incorporado, proporciona una base uniforme y lisa
 - Maquillaje 3 en 1: Primer, base y corrector
 - Libre de aceites con factor de protección SPF 20
-- El corrector elimina los brillos
 - Cobertura media-alta, acabado mate
+- El corrector elimina los brillos
+- Con primer incorporado, proporciona una base uniforme y lisa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TM2X8BD/?tag=tolees-21)

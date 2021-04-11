@@ -28,10 +28,10 @@ Está [Martini Rosato Vermut - 1000 ml](https://www.amazon.es/dp/B009H2L1QY/?tag
 
 ℹ️:
 
-- Se puede tomar mezclado con tónica (mitad/mitad)
-- MARTINI Rosato es ideal para disfrutar como un MARTINI clásico, mezclándolo a partes iguales con agua tónica premium y sirviéndolo con hielo y una rodaja de pomelo
 - Una combinación única de nuez moscada, clavos y canela se destila especialmente para que liberen sus sutiles fragancias
 - MARTINI Rosato es un vermouth rosado moderno que usa una nueva base de vinos blancos y tintos
 - El complemento perfecto de cualquier aperitivo o reunión de amigos
+- Se puede tomar mezclado con tónica (mitad/mitad)
+- MARTINI Rosato es ideal para disfrutar como un MARTINI clásico, mezclándolo a partes iguales con agua tónica premium y sirviéndolo con hielo y una rodaja de pomelo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B009H2L1QY/?tag=tolees-21)
