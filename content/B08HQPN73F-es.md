@@ -28,9 +28,9 @@ En este momento está [Ruiqas Juego de Té de Bambú Matcha Cuchara de Té Tradi
 
 🔎:
 
-- Batir fácilmente un tazón perfecto de té verde Matcha.
-- Juego de herramientas para ceremonias tradicionales japonesas del té.
 - Prepare una taza deliciosa de Matcha espumoso y sin grumos con este juego de herramientas.
+- Juego de herramientas para ceremonias tradicionales japonesas del té.
+- Batir fácilmente un tazón perfecto de té verde Matcha.
 - Un juego de 3 piezas: batidor de té Matcha + cuchara + cuchara
 - Hecho de material de bambú de calidad, no tóxico, seguro y duradero.
 
