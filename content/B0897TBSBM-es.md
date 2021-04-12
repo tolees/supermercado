@@ -28,10 +28,10 @@ Ahora mismo tienes [Bombay Bramble Ginebra Rosa  1L](https://www.amazon.es/dp/B0
 
 🔎:
 
+- Simplemente sirva Bombay Bramble sobre tónica con hielo y un poco de zumo de limón, o mézclelo en un cóctel para obtener un rsultado más especial
 - La ginebra original Bombay Dry se mezcla con una infusión de fruta 100% natural. El resultado es un equilibrio óptimo entre la esencia de la fruta cuando está más madura y las notas vibrantes de enebro de nuestra clásica ginebra
+- Ginebra Suave con 7 veces menos azúcar que las ginebras del mercado
 - Una infusión de fruta real le da un color inconfundible y un sabor natural sin azúcar añadido
 - BOMBAY Bramble es una nueva ginebra destilada repleta de sabor natural de moras y frambuesas
-- Simplemente sirva Bombay Bramble sobre tónica con hielo y un poco de zumo de limón, o mézclelo en un cóctel para obtener un rsultado más especial
-- Ginebra Suave con 7 veces menos azúcar que las ginebras del mercado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0897TBSBM/?tag=tolees-21)

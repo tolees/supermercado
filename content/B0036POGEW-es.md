@@ -28,10 +28,10 @@ Está [Auchentoshan  12 Años Single Malt Whisky Escoces  40%  700ml](https://ww
 
 ℹ️:
 
-- Se disfruta solo, sobre hielo o incluso con cerveza de jengibre y una rodaja de naranja
-- Madurado por un mínimo de 12 años en dos clases de barricas distintas
-- Auchentoshan es el whisky Single Malt escocés de triple destilación. Hasta la última fota es destilada 3 veces
-- Sabor: A jengibre, ligeramente seco con un agradable regusto a nuez
 - Aroma: Dulce y suave con un rastro de mandarina y lima
+- Se disfruta solo, sobre hielo o incluso con cerveza de jengibre y una rodaja de naranja
+- Auchentoshan es el whisky Single Malt escocés de triple destilación. Hasta la última fota es destilada 3 veces
+- Madurado por un mínimo de 12 años en dos clases de barricas distintas
+- Sabor: A jengibre, ligeramente seco con un agradable regusto a nuez
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0036POGEW/?tag=tolees-21)
