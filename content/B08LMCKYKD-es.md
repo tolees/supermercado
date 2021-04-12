@@ -30,8 +30,8 @@ En este momento está [Schwarzkopf Gliss - GLISS - Champú Liso Asiático - 6uds
 
 - Aplicación: masajear sobre el cabello húmedo; aclarar con abundante agua; usar regularmente
 - Cabello visiblemente más liso; efecto anti-encrespamiento y anti-humedad
+- El champú Liso Asiático de Gliss es adecuado para cabello rebelde o difícil de alisar
 - Gama Alisado Fácil, con complejo lípido + esencia de flor asiática, suaviza el cabello áspero y desigual y repara y sella la estructura capilar
 - 90% ingredientes de origen natural, incluyendo agua
-- El champú Liso Asiático de Gliss es adecuado para cabello rebelde o difícil de alisar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LMCKYKD/?tag=tolees-21)
