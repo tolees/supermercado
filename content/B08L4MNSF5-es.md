@@ -28,10 +28,10 @@ Tienes [Garnier Original Remedies  Champú Sólido  Coco para Cabello Normal Y R
 
 ℹ️:
 
-- Cabello hidratado y raíces grasas purificadas, Fácil de desenredar y sin efecto áspero
-- Contenido del pack: 2 x Champús Sólidos Coco Garnier Original Remedies, 60 g
 - Fórmula 97% biodegradable, 94% origen vegetal, Envase cero plástico
 - Pack de 2 champús sólidos con agua de coco y aloe vera, Hidrata y suaviza el cabello normal, Hasta 48 usos
 - Cómo se usa: Moja tu pelo y el champú sólido para que haga espuma, Enjabona el pelo de raíces a puntas, Masajea el cuero cabelludo y después aclara
+- Contenido del pack: 2 x Champús Sólidos Coco Garnier Original Remedies, 60 g
+- Cabello hidratado y raíces grasas purificadas, Fácil de desenredar y sin efecto áspero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08L4MNSF5/?tag=tolees-21)
