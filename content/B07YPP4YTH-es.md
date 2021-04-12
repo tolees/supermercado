@@ -28,10 +28,10 @@ Tienes [CocoPacific - Aceite de coco virgen extra bio y crudo  750 ml](https://w
 
 🔎:
 
-- Ligeramente aromático con un sabor natural a coco
-- Aceite de coco virgen bio, crudo y prensado en frío
 - Excelente para la salud bucal, como hidratante corporal o acondicionador para el cabello
-- Una alternativa más saludable a los aceites vegetales y la margarina
 - 100 % puro, sin refinar y resistente a altas temperaturas
+- Aceite de coco virgen bio, crudo y prensado en frío
+- Ligeramente aromático con un sabor natural a coco
+- Una alternativa más saludable a los aceites vegetales y la margarina
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YPP4YTH/?tag=tolees-21)
