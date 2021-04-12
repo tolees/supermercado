@@ -28,8 +28,8 @@ Tienes [Severin WA 2114 - Gofrera patatas fritas  800 W  23 x 14 5 cm  color bei
 
 🔎:
 
-- Preparación extremadamente fácil
 - Gofres con forma de patatas fritas
+- Preparación extremadamente fácil
 - Carcasa de alta calidad esmaltada y resistente al calor, en modernos colores: el foco de atención
 - Diseño compacto que ahorra espacio, ideal para hogares pequeños
 - Limpieza sencilla y rápida

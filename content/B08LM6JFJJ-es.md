@@ -29,8 +29,8 @@ Está [OFISTRADE Pack Christmas Lavazza&Lindt: 2 uds Lavazza Qualita Oro 250g + 
 ℹ️:
 
 - Bombones de chocolate con leche de sabor ligero y doble textura, con una fina capa externa que se quiebra en la boca para dar paso a un relleno cremoso
+- Café de tueste medio e intensidad 5, que presenta una espuma dorada y un color cálido, un aroma con notas frutales y florales y un sabor dulce y refinado
 - Qualità Oro combina 6 variedades de granos de Arábica de Centro y Sudamérica, seleccionadas por los expertos
 - Combina el sabor de los bombones Lindor y el café Lavazza para una experiencia de degustación capaz de conquistar a los paladares más exigentes
-- Café de tueste medio e intensidad 5, que presenta una espuma dorada y un color cálido, un aroma con notas frutales y florales y un sabor dulce y refinado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LM6JFJJ/?tag=tolees-21)

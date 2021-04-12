@@ -28,9 +28,9 @@ Tienes [Nestlé Caja Roja Dark Sublime Bombones de Chocolate 114 g - Pack de 8 c
 
 🔎:
 
-- Cacao, azúcar, grasa láctea, manteca de cacao, avellanas, habas de cacao caramelizadas, sal, aromas naturales de vainilla, aroma natural de naranja. Puede contener otros frutos secos y gluten.
 - España
-- Conservar en lugar fresco y seco
+- Cacao, azúcar, grasa láctea, manteca de cacao, avellanas, habas de cacao caramelizadas, sal, aromas naturales de vainilla, aroma natural de naranja. Puede contener otros frutos secos y gluten.
 - Alérgenos: grasa láctea, avellanas, frutos secos y gluten
+- Conservar en lugar fresco y seco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08TDFVL9C/?tag=tolees-21)
