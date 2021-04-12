@@ -28,11 +28,11 @@ Tienes [Vileda - Set de 2 bayetas de Microfibras Colors XL  colores variados  36
 
 ℹ️:
 
-- Tamaño de la bayeta: 36 x 34 cm
-- Sus microfibras ultrafinas permiten una limpieza superior en cualquier superficie (mármol, madera, cerámica, cristales…)
 - El gramaje superior y alta calidad de las Microfibras de Vileda permiten limpiar hasta la suciedad más difícil incluso sin químicos
 - 2 colores: verde y magenta, uno para cada uso
-- Máximo poder de limpieza gracias a su composición 100% Microfibras
+- Sus microfibras ultrafinas permiten una limpieza superior en cualquier superficie (mármol, madera, cerámica, cristales…)
+- Tamaño de la bayeta: 36 x 34 cm
 - Formato Touch & Feel: ideal para percibir la calidad de nuestras bayetas
+- Máximo poder de limpieza gracias a su composición 100% Microfibras
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00EVRCQVY/?tag=tolees-21)
