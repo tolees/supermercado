@@ -28,9 +28,9 @@ Tienes [Lindt Mini Pralines Caja de Bombones Surtidos  100g](https://www.amazon.
 
 🔎:
 
-- Un pequeño regalo de chocolate ideal para tener un detalle con tus seres queridos o para ofrecer en el Día de la Madre.
-- Lindt Mini Pralines Caja de 20 mini bombones surtidos de Lindt.
 - Creatividad, pasión y talento perfectamente combinados en deliciosos momentos de chocolate.
+- Lindt Mini Pralines Caja de 20 mini bombones surtidos de Lindt.
+- Un pequeño regalo de chocolate ideal para tener un detalle con tus seres queridos o para ofrecer en el Día de la Madre.
 - Creados por los Maestros Chocolateros suizos a partir de cacao puro de la mejor calidad y los mejores ingredientes.
 - Una selección de mini bombones surtidos adecuada para tener el detalle perfecto con tus seres queridos.
 
