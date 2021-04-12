@@ -28,10 +28,10 @@ Ahora mismo tienes [Garnier Fructis Tratamiento Capilar Aloe Secado al Aire  ind
 
 🔎:
 
+- El tratamiento capilar Fructis Aloe Secado al Aire hidrata sin apelmazar y controla el encrespamiento durante 48h incluso sin secador, dejándote un look natural
 - El compromiso Fructis: fórmulas testadas bajo control dermatológico, envases con un 25% de plástico reciclado, reciclables y producidos en fábricas comprometidas con el desarrollo sostenible
 - Indicado para pelo normal y largo
-- Aplicar una nuez del producto sobre el cabello húmedo o seco, sin aclarar y dejar secar al aire
 - El pack incluye 3 unidades
-- El tratamiento capilar Fructis Aloe Secado al Aire hidrata sin apelmazar y controla el encrespamiento durante 48h incluso sin secador, dejándote un look natural
+- Aplicar una nuez del producto sobre el cabello húmedo o seco, sin aclarar y dejar secar al aire
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HZYKYJ2/?tag=tolees-21)
