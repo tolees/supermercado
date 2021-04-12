@@ -29,9 +29,9 @@ Tienes [Consuelo Gran Aroma - Café molido italiano - 2 x 250g](https://www.amaz
 ℹ️:
 
 - 2 paquetes de café molido de 250 g cada uno
-- Composición: arábica de Brasil y robusta del Lejano Oriente
-- Intensidad: 5/6
-- Tostado y envasado en Italia
 - Un café con un aroma rico e intenso: perfecto para cualquier momento del día.
+- Tostado y envasado en Italia
+- Intensidad: 5/6
+- Composición: arábica de Brasil y robusta del Lejano Oriente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MJBMSW5/?tag=tolees-21)

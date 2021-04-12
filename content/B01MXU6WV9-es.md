@@ -28,9 +28,9 @@ Tienes [Tamnavulin Tamnavulin Double Cask Speyside Single Malt Scotch Whisky 40%
 
 🔎:
 
+- Nariz: Caliente, miel, manzanas, caramelos, mazapán, mermelada.
 - Color: Ámbar.
 - Sabor: Fresco, azúcar demerara, peras, melocotones, piña.
-- Nariz: Caliente, miel, manzanas, caramelos, mazapán, mermelada.
 - perfecto como un regalo
 - Acabado: Duradero, fresco.
 
