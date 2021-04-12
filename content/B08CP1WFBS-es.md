@@ -28,10 +28,10 @@ Está [Oral-B Encías & Esmalte Pro-Repair Original Pasta de Dientes  Pack de 12
 
 ℹ️:
 
-- Acción protectora de las encías
-- Pasta dentífrica con un sabor más suave y una textura fina
-- Protege los dientes de la erosión ácida y ayuda a reparar el esmalte
 - Pasta dentífrica para dientes sensibles
+- Pasta dentífrica con un sabor más suave y una textura fina
 - Ayuda a rejuvenecer tus encías y a reparar el esmalte en solo 2 semanas
+- Protege los dientes de la erosión ácida y ayuda a reparar el esmalte
+- Acción protectora de las encías
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CP1WFBS/?tag=tolees-21)
