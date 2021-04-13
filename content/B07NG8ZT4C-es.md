@@ -28,14 +28,14 @@ Tienes [Marca Amazon - Solimo Champú revitalizante para cabello dañado y seco 
 
 🔎:
 
-- Para cabello dañado y seco
-- En caso de contacto con los ojos, lavar bien con agua
-- Aplicar generosamente en el cabello mojado, masajear suavemente el cuero cabelludo y la raíz con las yemas de los dedos. Aclarar bien
 - Dermatológicamente probad
 - Con queratina y complejo de aceite
 - Cabello más fuerte e hidratado
-- 4 Botellas x 400ml
 - Champú revitalizante
+- 4 Botellas x 400ml
+- Aplicar generosamente en el cabello mojado, masajear suavemente el cuero cabelludo y la raíz con las yemas de los dedos. Aclarar bien
 - Únicamente para uso externo
+- En caso de contacto con los ojos, lavar bien con agua
+- Para cabello dañado y seco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NG8ZT4C/?tag=tolees-21)

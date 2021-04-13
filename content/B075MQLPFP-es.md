@@ -28,10 +28,10 @@ Tienes [Seltmann Weiden Servicio de café 18 Piezas | Set para 6 Personas | Seri
 
 ℹ️:
 
-- Apto para lavavajillas, calentar, hornos, microondas
 - Este set se compone de: 6x tazas para taza de café 0, 21l, 6x platos para la taza de café 14, 5cm, 6x platos de desayuno de 20cm
-- Fabricado en alemania
 - Fabricada en porcelana dura con bordes antiimpactos
+- Apto para lavavajillas, calentar, hornos, microondas
+- Fabricado en alemania
 - Be green: sello de calidad para una producción de porcelana ecológica
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075MQLPFP/?tag=tolees-21)
