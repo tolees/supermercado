@@ -28,11 +28,11 @@ Está [Mayor de Castilla Crianza - Vino Tinto D.O Ribera del Duero - Caja de 6 B
 
 ℹ️:
 
-- Apariencia: Vino tinto de color rojo picota de alta intensidad, muy buena capa y bello ribete violáceo
 - Aroma: En nariz apreciamos sugerentes aromas de frutosidad, con frutos silvestres, rojos y negros y un fondo de vainilla con notas dulces
-- Gusto: En boca es maduro, pleno de matices y con un paso intenso
-- Tipo de uva: Elaborado a base de uvas Tinta del País; la crianza se lleva a cabo en barricas nuevas de roble francés durante 425 días y permanece en botella durante un año
 - Maridaje: Este vino es adecuado para acompañar carnes nobles, quesos y productos de caza menor
+- Tipo de uva: Elaborado a base de uvas Tinta del País; la crianza se lleva a cabo en barricas nuevas de roble francés durante 425 días y permanece en botella durante un año
+- Gusto: En boca es maduro, pleno de matices y con un paso intenso
+- Apariencia: Vino tinto de color rojo picota de alta intensidad, muy buena capa y bello ribete violáceo
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos servir a una temperatura de 16ºC
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DCWQ16D/?tag=tolees-21)
