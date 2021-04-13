@@ -29,8 +29,8 @@ En este momento está [L Oréal Professionnel Champú Vitamino 500 ml](https://w
 🔎:
 
 - Concentrado en ingredientes antioxidantes
-- Cantidad: 500 ml
-- Elimina las impurezas y protege el cabello
 - Lava, suaviza y purifica aportando brillo al cabello
+- Elimina las impurezas y protege el cabello
+- Cantidad: 500 ml
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X9WB3WK/?tag=tolees-21)

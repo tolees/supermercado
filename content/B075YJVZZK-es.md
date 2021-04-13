@@ -28,9 +28,9 @@ Tienes [L Oreal Professionnel Paris - L Oréal Professionnel Crema Curl Contour 
 
 ℹ️:
 
-- Fortalece el pelo
 - Define el peinado
 - Para el tratamiento del cabello
+- Fortalece el pelo
 - Formula profesional
 - Definicion de peinado
 
