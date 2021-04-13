@@ -29,9 +29,9 @@ Tienes [L Oreal Professionnel Paris - L Oréal Professionnel Crema Curl Contour 
 ℹ️:
 
 - Define el peinado
-- Para el tratamiento del cabello
 - Fortalece el pelo
 - Formula profesional
+- Para el tratamiento del cabello
 - Definicion de peinado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075YJVZZK/?tag=tolees-21)
