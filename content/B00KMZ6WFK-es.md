@@ -28,9 +28,9 @@ Está [Sisbrill Champú Brillo Intenso - Ultraconcentrado 1:1000 - Limpiador de 
 
 ℹ️:
 
+- ✅Especialmente indicado para Coches y Motos. Válido para cualquier tipo de pintura y color.
 - ✅Su fórmula Neutra respeta Ceras y tratamientos sobre la carrocería
 - ✅Máxima lubricación: Su efecto Lubrifoam consigue que tu guante o esponja se deslice sin generar marcas del lavado a su pasoa Presión o manguera
 - ✅Champú Neutro ultra concentrado (+200 lavados), elimina el polvo y suciedad de tu coche consiguiendo un brillo tras cada lavado
-- ✅Especialmente indicado para Coches y Motos. Válido para cualquier tipo de pintura y color.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00KMZ6WFK/?tag=tolees-21)
