@@ -29,8 +29,8 @@ Tienes [Veliterra Vino Blanco DO - Rueda  75cl](https://www.amazon.es/dp/B00CW9I
 🔎:
 
 - Capacidad de 750 ml
-- Graduación de 12.5º
 - Contiene sulfitos
+- Graduación de 12.5º
 - Fermentación en depósito de acero inoxidable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00CW9ITSC/?tag=tolees-21)
