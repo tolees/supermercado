@@ -28,10 +28,10 @@ Tienes [Air Wick VIPoo Spray ambientador para el WC  aroma Frutas del Bosque + L
 
 🔎:
 
-- Spray ambientador para aplicar en el WC antes de ir al baño
 - Crea una capa protectora que atrapa los malos olores antes de que se propaguen y evita que salgan del WC
-- Cada botella dura 300 sprays, el equivalente a 100 usos
-- Es portable, sin aerosol, para que también puedas llevarlos donde quieras
 - Contiene aceites esenciales que liberan una agradable y sutil fragancia para que puedas respirar tranquilo
+- Es portable, sin aerosol, para que también puedas llevarlos donde quieras
+- Spray ambientador para aplicar en el WC antes de ir al baño
+- Cada botella dura 300 sprays, el equivalente a 100 usos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082BQT19D/?tag=tolees-21)

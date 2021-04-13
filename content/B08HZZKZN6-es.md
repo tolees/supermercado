@@ -28,10 +28,10 @@ Está [Garnier Fructis Hair Food Mascarilla 3 en 1 Macadamia Alisadora  indicada
 
 ℹ️:
 
-- El pack incluye 3 unidades. Fórmulas más de un 93% biodegradables, producidas en fábricas comprometidas con el desarrollo sostenible; 390 ml
 - Desde 1989 Garnier está comprometida con un mundo sin test en animales
-- Consigue un pelo intensamente nutrido, suave y suelto; visiblemente más sano y sin encrespamiento
 - Ligero como un acondicionador, intensivo como una mascarilla y eficaz como un tratamiento
+- El pack incluye 3 unidades. Fórmulas más de un 93% biodegradables, producidas en fábricas comprometidas con el desarrollo sostenible; 390 ml
 - 3En1: Como Acondicionador Sobre Pelo Húmedo Para Desenredar, Como Mascarilla Dejándolo Actuar 1-3 Min; Para Nutrir O Como Tratamiento Sin Aclarado Para Prolongar La Nutrición
+- Consigue un pelo intensamente nutrido, suave y suelto; visiblemente más sano y sin encrespamiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HZZKZN6/?tag=tolees-21)
