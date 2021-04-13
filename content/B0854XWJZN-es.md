@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'YoPRO Pack 8 unidades batido 25G de Prot al 15.66 % de rebaja'
-date: 2021-04-12 07:47:42
-image: 'https://m.media-amazon.com/images/I/41Q2JeV8EKL._SL400_.jpg'
+date: 2021-04-13 08:56:22
+image: 'https://m.media-amazon.com/images/I/41Q2JeV8EKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'YoPRO'
 buyurl: 'https://www.amazon.es/dp/B0854XWJZN/?tag=tolees-21'
 descuento: '15.66'
-average: '16.4745454545455'
+average: '16.488695652174'
 ---
 
 Tienes [YoPRO Pack 8 unidades batido 25G de Proteína sabor chocolate de 330 ml - Total 8 x 330 ml](https://www.amazon.es/dp/B0854XWJZN/?tag=tolees-21) con precio final de  16.8 EUR (original: 19.92 EUR) (15.66 %  de rebaja) aqui!
 
-[![YoPRO Pack 8 unidades batido 25G de Prot](https://m.media-amazon.com/images/I/41Q2JeV8EKL._SL400_.jpg)](https://www.amazon.es/dp/B0854XWJZN/?tag=tolees-21)
+[![YoPRO Pack 8 unidades batido 25G de Prot](https://m.media-amazon.com/images/I/41Q2JeV8EKL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0854XWJZN/?tag=tolees-21)
 
 🔎:
 
