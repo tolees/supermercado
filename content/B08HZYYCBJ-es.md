@@ -29,9 +29,9 @@ En este momento está [Garnier Fructis Hair Food Mascarilla 3 en 1 Banana Nutrit
 🔎:
 
 - 3En1: Como Acondicionador Sobre Pelo Húmedo Para Desenredar, Como Mascarilla Dejándolo Actuar 1-3 Min; Para Nutrir O Como Tratamiento Sin Aclarado Para Prolongar La Nutrición
-- Desde 1989 Garnier está comprometida con un mundo sin test en animales
-- El pack incluye 3 unidades. Fórmulas más de un 93% biodegradables, producidas en fábricas comprometidas con el desarrollo sostenible
-- Ligero como un acondicionador, intensivo como una mascarilla y eficaz como un tratamiento
 - Pelo intensamente hidratado y suave durante más tiempo
+- Desde 1989 Garnier está comprometida con un mundo sin test en animales
+- Ligero como un acondicionador, intensivo como una mascarilla y eficaz como un tratamiento
+- El pack incluye 3 unidades. Fórmulas más de un 93% biodegradables, producidas en fábricas comprometidas con el desarrollo sostenible
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HZYYCBJ/?tag=tolees-21)
