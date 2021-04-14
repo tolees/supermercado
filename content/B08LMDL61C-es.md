@@ -28,10 +28,10 @@ Está [Schwarzkopf Gliss - GLISS - Acondicionador Ultimate Color - 6uds de 370ml
 
 ℹ️:
 
-- 96% ingredientes de origen natural, incluyendo agua
-- Aplicación: masajear sobre el cabello húmedo después del lavado; aclarar con abundante agua; usar regularmente
-- Brillo Radiante; protección duradera del color hasta 12 semanas
 - Gama Color, con aceite de nuez de brasil + filtro UV, fortalece y sella la cutícula para la protección del color
+- Aplicación: masajear sobre el cabello húmedo después del lavado; aclarar con abundante agua; usar regularmente
+- 96% ingredientes de origen natural, incluyendo agua
+- Brillo Radiante; protección duradera del color hasta 12 semanas
 - El acondicionador Ultimate Color de Gliss es adecuado para cabello teñido o con mechas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LMDL61C/?tag=tolees-21)

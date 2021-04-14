@@ -28,9 +28,9 @@ En este momento está [REVLON PROFESSIONAL Nutri Color Filters #400 Tangerine 24
 
 🔎:
 
-- Coloración directa con tratamiento nutritivo para cabellos teñidos
-- Ofrece una combinación óptima de color, cuidado y brillo
-- Una mezcla que combina ingredientes cosméticos con un sistema acondicionador, provitamina b5, aceite de semilla de uva y una selección de pigmentos iónicos
 - Muy útil para ti y tu hogar
+- Ofrece una combinación óptima de color, cuidado y brillo
+- Coloración directa con tratamiento nutritivo para cabellos teñidos
+- Una mezcla que combina ingredientes cosméticos con un sistema acondicionador, provitamina b5, aceite de semilla de uva y una selección de pigmentos iónicos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JHTNLTS/?tag=tolees-21)

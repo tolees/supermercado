@@ -28,11 +28,11 @@ Tienes [Revlon Professional Equave Kids Acondicionador Desenredante Instantáneo
 
 🔎:
 
-- Un acondicionador desenredador de fórmula ligera
+- Hipoalergénico y dermatológicamente probado
 - Los filtros UVA y UVB añadidos mantienen el cabello a salvo del sol
 - La fórmula enriquecida con queratina ayuda a fortalecer los filamentos
 - Para el cabello: Seco
-- Hipoalergénico y dermatológicamente probado
 - Con una fragancia del almizcle de la frambuesa
+- Un acondicionador desenredador de fórmula ligera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01L2FIUO4/?tag=tolees-21)
