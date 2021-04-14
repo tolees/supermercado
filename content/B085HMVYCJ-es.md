@@ -30,8 +30,8 @@ Tienes [TopChef Procesador de Alimentos 1100W Procesador de Alimentos Compacto  
 
 - Procesador de alimentos multifuncional: versátil y compacto, el procesador de alimentos multifuncional de 1100 W es ideal en cocinas con espacio limitado disponible. Cortar, picar, amasar: este producto es fácil de usar y muy funcional.
 - Fácil de limpiar y con una garantía de 3 años: todos los componentes extraíbles son fáciles de lavar y también se pueden lavar en el lavavajillas. La garantía del producto es de 3 años, en caso de dudas o problemas no dude en contactarnos.
-- Recipiente para mezclar de gran capacidad: el recipiente grande de 3.5 litros, con un volumen de trabajo de hasta 2 litros, le permite mezclar una amplia variedad de ingredientes. El agitador de 1.8 litros es perfecto para hacer batidos y batidos en muy poco tiempo.
 - Potente motor: el producto está equipado con un potente motor de 1100 W, tiene 3 velocidades ajustables con función de impulso y una elegante pantalla, todo para satisfacer todas sus necesidades.
 - Exprimidor eléctrico de cítricos: el producto presenta un exprimidor que ayuda a preparar deliciosos jugos de toronjas, naranjas, limones, limas. Todo sin tener que comprar accesorios adicionales.
+- Recipiente para mezclar de gran capacidad: el recipiente grande de 3.5 litros, con un volumen de trabajo de hasta 2 litros, le permite mezclar una amplia variedad de ingredientes. El agitador de 1.8 litros es perfecto para hacer batidos y batidos en muy poco tiempo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085HMVYCJ/?tag=tolees-21)

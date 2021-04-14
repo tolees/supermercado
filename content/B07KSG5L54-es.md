@@ -28,10 +28,10 @@ Tienes [Consuelo - cápsulas de café compatibles con Dolce Gusto* - Forte  96 c
 
 🔎:
 
-- Envase de 96 cápsulas (6 cajas de 16 cápsulas); Cápsulas de nueva generación, mecanismo anti rotura debido a una sola pieza de plástico coinyectada, en lugar de 2 piezas.
-- Tostado y envasado en Italia
 - Intensidad 12; Cantidad de agua sugerida: 25 ml para un café corto, 50 ml para un espresso
 - Composición: alto porcentaje de Robusta de calidad
+- Tostado y envasado en Italia
+- Envase de 96 cápsulas (6 cajas de 16 cápsulas); Cápsulas de nueva generación, mecanismo anti rotura debido a una sola pieza de plástico coinyectada, en lugar de 2 piezas.
 - Un café de sabor intenso, con notas de chocolate.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KSG5L54/?tag=tolees-21)

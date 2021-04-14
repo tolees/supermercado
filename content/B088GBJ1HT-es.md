@@ -28,12 +28,12 @@ Está [Oral-B Smart 4 – 4500 – Edición de diseño  cepillo de dientes eléc
 
 ℹ️:
 
-- Limpieza superior y encías más saludables gracias a los regresos en tiempo real que te ayudan durante el cepillado.
-- Protege tus encías generales: el control de la presión sobre las encías las protege y le avisa cuando se cepilla demasiado fuerte.
-- El paquete incluye: 1 mango con temporizador de 2 minutos, 1 cargador, 1 cepillo y 1 funda de viaje exclusiva.
 - Hasta un 100% más de extracción de placa y hace que tus dientes sean más blancos desde el primer día eliminando las manchas superficiales.
-- 3 modos de cepillado: limpieza, suave, blanqueador.
-- Movimientos por minuto: 9900
 - La batería dura más de 2 semanas con 1 carga gracias a la batería de iones de litio.
+- Limpieza superior y encías más saludables gracias a los regresos en tiempo real que te ayudan durante el cepillado.
+- 3 modos de cepillado: limpieza, suave, blanqueador.
+- El paquete incluye: 1 mango con temporizador de 2 minutos, 1 cargador, 1 cepillo y 1 funda de viaje exclusiva.
+- Movimientos por minuto: 9900
+- Protege tus encías generales: el control de la presión sobre las encías las protege y le avisa cuando se cepilla demasiado fuerte.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088GBJ1HT/?tag=tolees-21)
