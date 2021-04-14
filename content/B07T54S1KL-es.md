@@ -29,9 +29,9 @@ Está [Nedis Hervidora de Arroz Hervidora de Arroz | 0.6 l | Recubrimiento antia
 ℹ️:
 
 - Incluye pieza para cocción al vapor
-- Recipiente interior de aleación de aluminio antiadherente
-- Capacidad de 0,6 litros
 - Carcasa metálica resistente
 - Tapa de cristal para ver el arroz
+- Capacidad de 0,6 litros
+- Recipiente interior de aleación de aluminio antiadherente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07T54S1KL/?tag=tolees-21)

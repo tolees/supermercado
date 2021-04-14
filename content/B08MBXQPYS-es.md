@@ -28,8 +28,8 @@ En este momento está [Garnier Fructis Nutri Rizos Mascarilla Capilar Pelo Rizad
 
 🔎:
 
-- Rizos nutridos, elásticos, definidos y con movimiento, siempre bajo control
 - Para pelo rizado u ondulado
+- Rizos nutridos, elásticos, definidos y con movimiento, siempre bajo control
 - La mascarilla capilar Fructis Nutri Rizos nutre en profundidad, controla el encrespamiento y define los rizos para mantenerlos elásticos y con movimiento
 - Rizos perfectos durante 4 días, anti-encrespamiento y anti-humedad
 
