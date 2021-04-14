@@ -28,8 +28,8 @@ Tienes [Fanola Champú AFTER COLOR Después del color 1000mL 1L - Protector colo
 
 ℹ️:
 
-- Productos para el cuidado del cabello fanola
 - (8032947861231)
+- Productos para el cuidado del cabello fanola
 - Champú cuidado del cabello unisex adulto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N0CHPLV/?tag=tolees-21)
