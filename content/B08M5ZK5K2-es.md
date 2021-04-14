@@ -28,8 +28,8 @@ Ahora mismo tienes [NITYAM - TakingCare - Gel desinfectante hidroalcohólico par
 
 🔎:
 
-- Aprobado para uso profesional o personal. ¡lávese las manos y desinféctelas en segundos
 - Alta calidad
+- Aprobado para uso profesional o personal. ¡lávese las manos y desinféctelas en segundos
 - Este producto sin jabón no requiere agua ni enjuague. este producto sin jabón no requiere agua y no requiere enjuague. ¡fórmula no grasosa ni pegajosa
 - El gel hidroalcohólico natural cumple con los estándares de la agencia francesa de higiene y seguridad. nuestro gel hidroalcohólico natural contiene más de un 70% de alcohol, por lo que puede eliminar bacterias, hongos y microorganismos en cualquier momento del día, limpiando así las manos
 

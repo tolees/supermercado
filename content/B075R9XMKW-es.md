@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Dymatize Super Mass Gainer Rich Chocolat al 28.26 % de rebaja'
-date: 2020-08-27 19:01:08
-image: 'https://m.media-amazon.com/images/I/51kevMcmY7L._SL400_.jpg'
+title: 'Dymatize Super Mass Gainer  Polvo Para G al 0.00 % de rebaja'
+date: 2021-04-14 14:37:17
+image: 'https://m.media-amazon.com/images/I/51kevMcmY7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B075R9XMKW-es Dymatize Super Mass Gainer Rich Chocolate 2 9kg - Polvo...'
+slug: 'B075R9XMKW-es Dymatize Super Mass Gainer Polvo Para Ganar Peso +...'
 sku: 'B075R9XMKW-es'
-tags: [ 'chocolate', ]
-actualPrice: 25.79 EUR
+tags: [ 'Dieta y nutrición en medicamentos, remedios y suplementos dietéticos','Salud y cuidado personal','Suplementos para deportistas en medicamentos, remedios y suplementos dietéticos','chocolate','dymatize', ]
+actualPrice: 26.04 EUR
 currency: EUR
-price: 25.79
-comparePrice: 35.95 EUR
-prodname: 'Dymatize Super Mass Gainer Rich Chocolate 2 9kg - Polvo Para Ganar Peso + Carbohidratos  BCAA y Caseína'
+price: 26.04
+comparePrice:  EUR
+prodname: 'Dymatize Super Mass Gainer  Polvo Para Ganar Peso + Carbohidratos  BCAA y Caseína  Sabor Chocolate - 2 9 kg'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Dymatize'
 buyurl: 'https://www.amazon.es/dp/B075R9XMKW/?tag=tolees-21'
-descuento: '28.26'
-average: '25.79'
+descuento: '0.00'
+average: '25.8733333333333'
 ---
 
-Tienes [Dymatize Super Mass Gainer Rich Chocolate 2 9kg - Polvo Para Ganar Peso + Carbohidratos  BCAA y Caseína](https://www.amazon.es/dp/B075R9XMKW/?tag=tolees-21) con precio final de  25.79 EUR (original: 35.95 EUR) (28.26 %  de rebaja) aqui!
+Tienes [Dymatize Super Mass Gainer  Polvo Para Ganar Peso + Carbohidratos  BCAA y Caseína  Sabor Chocolate - 2 9 kg](https://www.amazon.es/dp/B075R9XMKW/?tag=tolees-21) con precio final de  26.04 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
 
-[![Dymatize Super Mass Gainer Rich Chocolat](https://m.media-amazon.com/images/I/51kevMcmY7L._SL400_.jpg)](https://www.amazon.es/dp/B075R9XMKW/?tag=tolees-21)
+[![Dymatize Super Mass Gainer  Polvo Para G](https://m.media-amazon.com/images/I/51kevMcmY7L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B075R9XMKW/?tag=tolees-21)
 
 🔎:
 
+- 57 g de proteínas de alta calidad por porción y hasta 243 g hidratos de carbono por porción, según el sabor
+- Incluye 11 -12 g de bcaas - los aminoácidos ramificados - l-leucina, l-isoleucina, l-valina - son componentes naturales de las proteínas
+- Un tubo de 2.943 kg
+- Sin gluten, apto para vegetarianos y bajo en azúcar - por producto preparado, excepto cookies & cream
+- Con 3 g de creatina pura por porción y incluye 5 vitaminas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075R9XMKW/?tag=tolees-21)

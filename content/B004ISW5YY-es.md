@@ -28,10 +28,10 @@ Tienes [OGX  Champú Keratina Brasileña  Cabellos Ondulados o Rizados 385 ml](h
 
 ℹ️:
 
-- Contiene a su vez aceite de aguacate, que actúa como hidratante mientras suaviza las cutículas del pelo, y manteca de cacao, que restaura y mantiene la hidratación del cabello
-- El aceite de coco en este champú repara el cabello dañado y ayuda a prevenir la quiebra, fortaleciéndolo desde la raíz
-- Para óptimos resultados, utiliza este champú sin sulfatos junto con el resto de productos de la gama de Keratina Brasileña de OGX
-- El Champú de Keratina Brasileña contiene una fórmula enriquecida con aceite de coco y keratina, la cual es optimo para fortalecer y dar suavidad al pelo ondulado o con rizos
 - Esta fórmula viene repleta de beneficios para tu cabello y es optimo para limpiar en profundidad tu cabello y para que luzca santo y luminoso
+- Contiene a su vez aceite de aguacate, que actúa como hidratante mientras suaviza las cutículas del pelo, y manteca de cacao, que restaura y mantiene la hidratación del cabello
+- El Champú de Keratina Brasileña contiene una fórmula enriquecida con aceite de coco y keratina, la cual es optimo para fortalecer y dar suavidad al pelo ondulado o con rizos
+- Para óptimos resultados, utiliza este champú sin sulfatos junto con el resto de productos de la gama de Keratina Brasileña de OGX
+- El aceite de coco en este champú repara el cabello dañado y ayuda a prevenir la quiebra, fortaleciéndolo desde la raíz
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B004ISW5YY/?tag=tolees-21)
