@@ -28,10 +28,10 @@ Tienes [Dymatize Super Mass Gainer  Polvo Para Ganar Peso + Carbohidratos  BCAA 
 
 🔎:
 
-- Incluye 11 -12 g de bcaas - los aminoácidos ramificados - l-leucina, l-isoleucina, l-valina - son componentes naturales de las proteínas
+- Sin gluten, apto para vegetarianos y bajo en azúcar - por producto preparado, excepto cookies & cream
 - 57 g de proteínas de alta calidad por porción y hasta 243 g hidratos de carbono por porción, según el sabor
 - Un tubo de 2.943 kg
+- Incluye 11 -12 g de bcaas - los aminoácidos ramificados - l-leucina, l-isoleucina, l-valina - son componentes naturales de las proteínas
 - Con 3 g de creatina pura por porción y incluye 5 vitaminas
-- Sin gluten, apto para vegetarianos y bajo en azúcar - por producto preparado, excepto cookies & cream
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075R9XMKW/?tag=tolees-21)

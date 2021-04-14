@@ -28,9 +28,9 @@ Ahora mismo tienes [Nestlé Extrafino Tosta Rica Tableta de Chocolate 120 g - Pa
 
 🔎:
 
-- Alérgenos: trigo, leche, sulfitos, grasa láctea, frutos de cáscara
 - Conservar en lugar fresco y seco
 - España
+- Alérgenos: trigo, leche, sulfitos, grasa láctea, frutos de cáscara
 - Azúcar, galleta (23,4%) [harina de trigo, azúcar, aceite de girasol alto oleico, suero de leche en polvo, jarabe de glucosa y fructosa, emulgente (lecitinas), sal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TDCK6V7/?tag=tolees-21)
