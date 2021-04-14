@@ -28,10 +28,10 @@ Está [Jabón facial Pomelo y AOVE -Beneficios: anti acné  mejora de soriasis  
 
 ℹ️:
 
-- JABON NATURAL ESPECIAL en tu higiene diaria. Ideal para una limpieza profunda y depuración de tu piel, especialmente en los casos de aparición de acné, eccemas, psoriasis y dermatitis.
+- El extracto de la semilla de Pomelo nos aporta: Vitaminas. Minerales. Ácidos grasos poliinsaturados, los cuales aportan una cantidad extraordinaria de nutrientes a tu piel, todo esto con 1 Pastilla de Pomelo y Aceite de Oliva Virgen Extra Resultados exfoliante como las mascarillas negras así controlaremos el acné en la cara, pecho, espalda o cuello (en forma de granos, espinillas o puntos negros)
 - ELABORADO COMPLETAMENTE NATURAL: libre de parabenos, sin ser testado en animales, con ingredientes ecológicos y fabricado de forma artesanal. Todo para lograr una cosmética natural y sostenible.
 - Propiedades hidratantes, reafirmantes y reparadoras , así como antioxidantes y antiinflamatorias gracias al AOVE y el Pomelo que son sus componentes principales.
 - Entrega de 1 a 2 días laborables.
-- El extracto de la semilla de Pomelo nos aporta: Vitaminas. Minerales. Ácidos grasos poliinsaturados, los cuales aportan una cantidad extraordinaria de nutrientes a tu piel, todo esto con 1 Pastilla de Pomelo y Aceite de Oliva Virgen Extra Resultados exfoliante como las mascarillas negras así controlaremos el acné en la cara, pecho, espalda o cuello (en forma de granos, espinillas o puntos negros)
+- JABON NATURAL ESPECIAL en tu higiene diaria. Ideal para una limpieza profunda y depuración de tu piel, especialmente en los casos de aparición de acné, eccemas, psoriasis y dermatitis.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08VHCW71X/?tag=tolees-21)
