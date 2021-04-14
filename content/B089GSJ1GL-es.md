@@ -28,10 +28,10 @@ Está [Fulighture - Led Fairy String Lights  Battery Powered/USB Plug in  2 Mode
 
 ℹ️:
 
-- ⭐Amplia aplicación: esta cadena de luces de hadas es una decoración perfecta para fiestas, bodas, cumpleaños, hogar, árbol de Navidad, ventana, baño, espectáculos, restaurante, hotel, patio, jardín, patios, edificios comerciales, centros comerciales, etc.
-- ⭐Impermeable IP65: esta cadena de luz se puede utilizar tanto para decoración de interiores como exteriores, adecuado para condiciones donde es probable que el polvo, la lluvia, el agua, la nieve o las heladas.
-- ⭐Funciona con batería o USB: dos métodos de alimentación, pueden utilizar baterías USB o 3pcs AA para alimentar (no incluidas). Perfecto para uso en interiores y exteriores.
 - ⭐Lo que obtendrás: un juego de luces de cable de cobre Fulighture de 10 m, con cable USB y controlador de batería (pilas no incluidas).
+- ⭐Impermeable IP65: esta cadena de luz se puede utilizar tanto para decoración de interiores como exteriores, adecuado para condiciones donde es probable que el polvo, la lluvia, el agua, la nieve o las heladas.
+- ⭐Amplia aplicación: esta cadena de luces de hadas es una decoración perfecta para fiestas, bodas, cumpleaños, hogar, árbol de Navidad, ventana, baño, espectáculos, restaurante, hotel, patio, jardín, patios, edificios comerciales, centros comerciales, etc.
+- ⭐Funciona con batería o USB: dos métodos de alimentación, pueden utilizar baterías USB o 3pcs AA para alimentar (no incluidas). Perfecto para uso en interiores y exteriores.
 - ⭐2 modos de iluminación: cuando se utiliza la energía de la batería, hay 2 modos de iluminación para su elección (encendido constante/off).
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089GSJ1GL/?tag=tolees-21)
