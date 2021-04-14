@@ -28,10 +28,10 @@ Tienes [Haba- Juego de mesa  Guisantes  Multicolor  Habermass H304278    color  
 
 ℹ️:
 
-- El juego de memoria entrena primero contando y sumando en el rango de números del 1 al 6 y cabe en cada bolsillo con su práctico formato mini.
-- Hay un gran lío de guisantes aquí, que tiene que ser resuelto por los jugadores
 - Clasificando, calculando e intercambiando, los niños deben tratar de poner las cartas de guisantes del 1 al 6 en el orden correcto.
+- Hay un gran lío de guisantes aquí, que tiene que ser resuelto por los jugadores
 - Como recompensa por contar y calcular correctamente, los jugadores reciben guisantes gigantes
+- El juego de memoria entrena primero contando y sumando en el rango de números del 1 al 6 y cabe en cada bolsillo con su práctico formato mini.
 - El que haya recogido más guisantes gigantes al final gana
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MZYD5SG/?tag=tolees-21)

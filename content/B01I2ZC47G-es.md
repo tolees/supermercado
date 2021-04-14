@@ -28,10 +28,10 @@ Ahora mismo tienes [Cleare Institute - Clearé Institute. Champú Reparador Anti
 
 🔎:
 
-- Más suavidad y brillo
-- Champú que repara y rejuvenece al instante
-- Reduce el encrespamiento
-- 96% de ingredientes naturales
 - Hidrata y nutre en profundidad
+- Champú que repara y rejuvenece al instante
+- 96% de ingredientes naturales
+- Reduce el encrespamiento
+- Más suavidad y brillo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01I2ZC47G/?tag=tolees-21)
