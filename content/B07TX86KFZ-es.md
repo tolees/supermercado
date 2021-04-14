@@ -29,8 +29,8 @@ Está [Matcha Premium 100% Ecológico | Té verde en polvo Orgánico de Japón |
 ℹ️:
 
 - Cosechado en primavera
-- Té matcha de grado ceremonial
-- Sabor fuerte intenso en umami
 - Muy alta concentración de antioxidantes
+- Sabor fuerte intenso en umami
+- Té matcha de grado ceremonial
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TX86KFZ/?tag=tolees-21)
