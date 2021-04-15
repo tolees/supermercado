@@ -28,10 +28,10 @@ Está [JOSEKO Vela de aromaterapia para Mujer  Juego de Regalo  Cera de Soja Nat
 
 ℹ️:
 
-- 4 populares perfumes-set de regalo con velas aromáticas, 4 paquetes cada uno, que contienen 4 perfumes: rosa, lavanda, limón y el perfume Miss COCO.
-- Hecho de cera de soja 100% pura-limpia quemaduras y quema por más tiempo. Se quema uniformemente, no produce humo negro y es inofensivo para el cuerpo humano y el medio ambiente. Hecho de núcleo de algodón sin plomo y aceites esenciales de alta calidad, suaves y altamente refinados, con calidad de perfume, le brindará una felicidad aromática duradera.
 - Set de regalo perfecto-Las velas perfumadas contienen ricos aromas y el exquisito empaque es una excelente opción para los regalos de cumpleaños de las madres. Son adecuados para cualquier fiesta u ocasión especial, no solo un regalo, sino también un corazón.
-- Tiempo duradero-4.4 onzas de contenido de cera, tiempo de combustión de 25 a 30 horas. Grabe por un total de 100 a 120 horas. Crea un ambiente agradable para que te relajes. Recorta la mecha para que se queme de manera uniforme y extiende el tiempo de combustión.
+- Hecho de cera de soja 100% pura-limpia quemaduras y quema por más tiempo. Se quema uniformemente, no produce humo negro y es inofensivo para el cuerpo humano y el medio ambiente. Hecho de núcleo de algodón sin plomo y aceites esenciales de alta calidad, suaves y altamente refinados, con calidad de perfume, le brindará una felicidad aromática duradera.
 - Tanque de viaje reutilizable portátil-El candelabro perfumado es lindo y encantador, perfecto para decorar tu casa o guardar cosas pequeñas después de su uso.
+- 4 populares perfumes-set de regalo con velas aromáticas, 4 paquetes cada uno, que contienen 4 perfumes: rosa, lavanda, limón y el perfume Miss COCO.
+- Tiempo duradero-4.4 onzas de contenido de cera, tiempo de combustión de 25 a 30 horas. Grabe por un total de 100 a 120 horas. Crea un ambiente agradable para que te relajes. Recorta la mecha para que se queme de manera uniforme y extiende el tiempo de combustión.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08NC56PSV/?tag=tolees-21)
