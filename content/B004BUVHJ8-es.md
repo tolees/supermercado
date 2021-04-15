@@ -28,9 +28,9 @@ En este momento está [American Crew Boost Powder Polvo Antigravedad para Volume
 
 🔎:
 
+- Sin dañar el cabello
+- Resista a cualquier agente externo
 - Impide que el volumen baje
 - Fija el cabello dejándolo flexible
-- Resista a cualquier agente externo
-- Sin dañar el cabello
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004BUVHJ8/?tag=tolees-21)

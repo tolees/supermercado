@@ -28,10 +28,10 @@ En este momento está [Sanytol –Desinfectante Hogar y Tejidos  elimina bacteri
 
 🔎:
 
-- Desinfecta y desodoriza tejidos no lavables como alfombras, sofás, cortinas, cojines, colchones, almohadas, mochilas, zapatos, etc.
-- Aerosol desinfectante para hogar y tejidos eficaz contra hongos y bacterias más comunes en el hogar, como S. Aureus o E-coli, y también virus.
-- Ideal para ambientes cerrados, baños, desagües, cocina, armarios, tapicerías de coche, etc. Especialmente eficaz contra malos olores persistentes causados por bacterias como humedad, sudor corporal, olor a tabaco, mascotas, orina o vómito.
 - Gracias a su triple acción elimina los males olores de raíz, acabando con el 99,9% de los gérmenes a la vez que perfuma el ambiente.
+- Aerosol desinfectante para hogar y tejidos eficaz contra hongos y bacterias más comunes en el hogar, como S. Aureus o E-coli, y también virus.
 - Elimina los malos olores de raíz y deja un agradable aroma a frescor herbal en el ambiente.
+- Ideal para ambientes cerrados, baños, desagües, cocina, armarios, tapicerías de coche, etc. Especialmente eficaz contra malos olores persistentes causados por bacterias como humedad, sudor corporal, olor a tabaco, mascotas, orina o vómito.
+- Desinfecta y desodoriza tejidos no lavables como alfombras, sofás, cortinas, cojines, colchones, almohadas, mochilas, zapatos, etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KYMGCMN/?tag=tolees-21)

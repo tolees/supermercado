@@ -28,8 +28,8 @@ Tienes [L Oréal Paris Elvive Dream Long Tratamiento Térmico Reconstructor - 20
 
 🔎:
 
-- Para cabello largo
 - Tiene 20 ml
+- Para cabello largo
 - Es de la marca Elvive
 - El producto representa un tratamiento térmico reconstructor
 

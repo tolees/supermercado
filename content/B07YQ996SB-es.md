@@ -29,9 +29,9 @@ Está [L Oréal Men Expert Pure Charcoal - Gel de lavado  contra las impurezas d
 ℹ️:
 
 - Este gel ha sido desarrollado especialmente para la piel masculina y se adapta a sus necesidades. Ofrece a largo plazo una piel mejorada, aclarada.
-- El gel de lavado LOreal Men Expert Pure Charcoal antiimperfecciones ha sido probado bajo supervisión dermatológica.
-- El gel de lavado con carbón actúa contra 5 signos de impurezas: granos, espinillas, rojeces, piel grasa y poros obstruidos.
-- Esto crea la fórmula al usar el poder del carbón de roble purificante para absorber impurezas y suciedad.
 - Porque el carbón de roble es conocido por sus propiedades superabsorbentes. El gel de lavado aclara profundamente porque el carbón actúa como un imán de suciedad.
+- Esto crea la fórmula al usar el poder del carbón de roble purificante para absorber impurezas y suciedad.
+- El gel de lavado con carbón actúa contra 5 signos de impurezas: granos, espinillas, rojeces, piel grasa y poros obstruidos.
+- El gel de lavado LOreal Men Expert Pure Charcoal antiimperfecciones ha sido probado bajo supervisión dermatológica.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YQ996SB/?tag=tolees-21)
