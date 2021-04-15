@@ -28,9 +28,9 @@ Ahora mismo tienes [Max Factor Colour Elixir Moisture Kiss Lipstick Barra de Lab
 
 🔎:
 
-- El tratamiento “Elixir” trabaja activamente para aumentar la hidratación de los labios y acondicionarlos para un acabado óptimo
 - Hidratación y brillo en una pasada
-- Labial en barra con abado satinado intenso
+- El tratamiento “Elixir” trabaja activamente para aumentar la hidratación de los labios y acondicionarlos para un acabado óptimo
 - Enriquecido con antioxidantes y vitamina E
+- Labial en barra con abado satinado intenso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082XS2XVC/?tag=tolees-21)

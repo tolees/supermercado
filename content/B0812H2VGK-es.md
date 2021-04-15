@@ -29,9 +29,9 @@ Ahora mismo tienes [Garnier Bio  Kit Cuidado Natural de Agua Micelar con Agua de
 🔎:
 
 - Kit de rutina de cuidado con agua micelar con agua de flor de aciano y crema nutritica con aceite de argán
-- Contenido: Kit Dúo Cuidado Natural Garnier Bio 1 x Agua Micelar con Agua de Flor de Aciano, 400 ml y 1 x Crema Hidratante Nutritiva con Aceite Argán y Ácido Hialurónico, 50 ml
-- Fórmula vegana sin ingredientes de origen animal, Certificado Ecológico Cosmos de Ecocert Greenlife
-- Aporta a tu piel una sensación de limpieza profunda, hidratación, nutrición y suavidad al instante
 - Prepara y limpia tu piel con el agua micelar aplicándola sobre rostro, ojos y labios con un algodón, Posteriormente hidrata tu rostro con la crema hidratante por la mañana y por la noche
+- Aporta a tu piel una sensación de limpieza profunda, hidratación, nutrición y suavidad al instante
+- Fórmula vegana sin ingredientes de origen animal, Certificado Ecológico Cosmos de Ecocert Greenlife
+- Contenido: Kit Dúo Cuidado Natural Garnier Bio 1 x Agua Micelar con Agua de Flor de Aciano, 400 ml y 1 x Crema Hidratante Nutritiva con Aceite Argán y Ácido Hialurónico, 50 ml
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0812H2VGK/?tag=tolees-21)
