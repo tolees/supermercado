@@ -28,11 +28,11 @@ Tienes [Max Factor LipFinity Lip Colour Lipstick Pintalabios  Tono 16 Glowing - 
 
 ℹ️:
 
-- 2 Pasos: una bálsamo con color inalterable y top-coat para dar brillo a los labios
-- Usa el bálsamo top-coat durante el día para mantener los labios hidratados y brillantes
-- Labial permante de larga duración en dos pasos
 - Aplicador en forma de curva para adaptarse a la forma del labio
-- Para el cabello: Normal
+- Labial permante de larga duración en dos pasos
+- 2 Pasos: una bálsamo con color inalterable y top-coat para dar brillo a los labios
 - Color seductor e irrestible hasta 24 horas
+- Para el cabello: Normal
+- Usa el bálsamo top-coat durante el día para mantener los labios hidratados y brillantes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000OC0QDU/?tag=tolees-21)

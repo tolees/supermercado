@@ -28,10 +28,10 @@ Está [Cereales Nestlé Fitness Original - 1 paquete de 450 g](https://www.amazo
 
 ℹ️:
 
-- Cada estuche contiene, aproximadamente, 15 porciones de 30 g
-- Deliciosos copos de trigo integral, arroz y avena integral con vitaminas del grupo B (B2, B3, B5 y B6) que contribuyen al metabolismo energético normal
 - Con un 30 % menos de azúcar que la media de cereales similares
-- Son fuente de fibra, no contienen aceite de palma, ni colorantes, ni aromas artificiales
+- Cada estuche contiene, aproximadamente, 15 porciones de 30 g
 - Cereales integrales como ingrediente número 1 (58 % cereales integrales)
+- Son fuente de fibra, no contienen aceite de palma, ni colorantes, ni aromas artificiales
+- Deliciosos copos de trigo integral, arroz y avena integral con vitaminas del grupo B (B2, B3, B5 y B6) que contribuyen al metabolismo energético normal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LWSXCIO/?tag=tolees-21)

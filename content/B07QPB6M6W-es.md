@@ -29,10 +29,10 @@ Está [Rexona Stay Fresh Flores Blancas y Lichi Antitranspirante Aerosol para Mu
 ℹ️:
 
 - La tecnología MotionSense da sensación de limpieza y protección durante todo el día liberando ráfagas de frescor cuando te mueves
-- Rexona Stay Fresh Flores Blancas y Lichi en aerosol actúa rápidamente para una suave sensación de frescor y limpieza instantáneas
 - Mantén el sudor a raya con su protección anti olor y sudor que dura hasta 48 horas
-- Y recuerda: el desodorante Rexona no te abandona
-- Los desodorantes Rexona están testados dermatológicamente, sin alcohol y con una fragancia deliciosa y duradera
 - No pares de moverte, el desodorante antitranspirante te proteje más cuanto más te mueves
+- Rexona Stay Fresh Flores Blancas y Lichi en aerosol actúa rápidamente para una suave sensación de frescor y limpieza instantáneas
+- Los desodorantes Rexona están testados dermatológicamente, sin alcohol y con una fragancia deliciosa y duradera
+- Y recuerda: el desodorante Rexona no te abandona
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QPB6M6W/?tag=tolees-21)
