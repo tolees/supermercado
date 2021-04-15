@@ -28,8 +28,8 @@ Tienes [Shunga Vela de Masaje Excitation  Aroma de Chocolate  Color Blanco - 170
 
 ℹ️:
 
-- Una vez apagada la mecha el aceite obtenido no quema encima de la piel. Dura hasta 40 horas encendida
 - Hecha a partir de ingredientes naturales ricos en vitamina E, proporcionando hidratación y suavidad a la piel. No grasienta
 - Vela perfumada que se convierte en un rico aceite para masaje corporal
+- Una vez apagada la mecha el aceite obtenido no quema encima de la piel. Dura hasta 40 horas encendida
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00SUNGOTK/?tag=tolees-21)
