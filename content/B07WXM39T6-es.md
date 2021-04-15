@@ -28,12 +28,12 @@ Está [Marca Amazon - Happy Belly Select Café de tueste natural ecológico en g
 
 ℹ️:
 
+- Suave, dulce y agradablemente ácido Intensidad 3/5
 - Café en grano de más de un país. Tostado y envasado en Bélgica
 - Café de tueste natural ecológico en grano
-- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
-- Apto para dietas vegetarianas y veganas
-- Suave, dulce y agradablemente ácido Intensidad 3/5
 - Agricultura no UE
 - Envasado en atmósfera protectora para mantener su frescura
+- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
+- Apto para dietas vegetarianas y veganas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WXM39T6/?tag=tolees-21)

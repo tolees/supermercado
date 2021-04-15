@@ -28,9 +28,9 @@ Está [Padovan - Sanipet - Arena perfumada de gránulos de tutol de maíz con Sa
 
 ℹ️:
 
-- Evita que los gránulos se peguen al cuerpo del animal, manteniendo así limpia tu casa
+- Padovan Sanipet Perfumado 4 L
 - Arena de gránulos de zuelo de maíz aromatizada con limón para animales pequeños
 - El proceso de hipersecado con el que se tratan los gránulos aumenta considerablemente la absorción (138 % en peso de agua)
-- Padovan Sanipet Perfumado 4 L
+- Evita que los gránulos se peguen al cuerpo del animal, manteniendo así limpia tu casa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MX6HZCM/?tag=tolees-21)
