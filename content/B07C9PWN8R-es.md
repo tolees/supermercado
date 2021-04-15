@@ -28,8 +28,8 @@ En este momento está [Hero Solo Tarrito Fruta Manzana Melocotón Plátano ECO -
 
 🔎:
 
-- Desde los 4 meses
 - 100% fruta
+- Desde los 4 meses
 - Sin gluten
 - 100% Eco
 

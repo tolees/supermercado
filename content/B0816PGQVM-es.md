@@ -28,10 +28,10 @@ Está [Maybelline New York - Pintalabios SuperStay Ink Crayón tono 85 Change Is
 
 ℹ️:
 
+- Color de construcción: haz que sea tan intenso o tan transparente como quieras.
+- Ahora formato Crayon fácil de usar
 - No se decolora, no se emborrona, no se ensucia.
 - De la gama de labios Maybelline Super Stay
-- Ahora formato Crayon fácil de usar
 - El afilador integrado mantiene la punta en cualquier aplicación.
-- Color de construcción: haz que sea tan intenso o tan transparente como quieras.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0816PGQVM/?tag=tolees-21)
