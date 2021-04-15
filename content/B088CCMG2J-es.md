@@ -28,8 +28,8 @@ Ahora mismo tienes [Dove Desodorante Roll On Invisible 50ml- Pack de 6](https://
 
 🔎:
 
-- 48 horas de protección
 - Contiene 1/4 de crema hidratante
+- 48 horas de protección
 - Dove original desodorante roll on 50ml
 - Apto para piel sensible
 

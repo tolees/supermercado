@@ -28,17 +28,17 @@ En este momento está [Baby Dove Gel De Baño Hidratación Profunda - Pack de 6 
 
 🔎:
 
-- Dermatológica, pediátrica y oftalmológicamente testado
-- Repone la hidratación y nutrientes esenciales de la piel del bebé
-- Con hidratante prebiótico
-- Sin lágrimas
-- Tan suave como el agua. Clínicamente probado
+- Respetuoso con el microbioma de la piel del bebé y el mantenimiento de su equilibrio natural, para una piel protegida
 - Formulado con limpiadores suaves, sin sulfatos SLES
+- Dermatológica, pediátrica y oftalmológicamente testado
 - Sin colorantes artificiales
 - Con nutrientes 100% naturalmente presentes en la piel del bebé
 - Fórmula hipoalergénica y con pH neutro para la piel del bebé
 - Gel para bebés adecuado para recién nacidos
+- Con hidratante prebiótico
+- Tan suave como el agua. Clínicamente probado
 - Con ¼ de crema hidratante
-- Respetuoso con el microbioma de la piel del bebé y el mantenimiento de su equilibrio natural, para una piel protegida
+- Repone la hidratación y nutrientes esenciales de la piel del bebé
+- Sin lágrimas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G5HHD8L/?tag=tolees-21)
