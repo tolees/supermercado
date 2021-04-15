@@ -28,10 +28,10 @@ Ahora mismo tienes [Domestos Axe Gel de oro Temptation 400 ml](https://www.amaz
 
 🔎:
 
-- Gel de Ducha dermatológicamente probado
 - Frozen Pear and cedarw Kenwood Scent – Fresh Charge
 - De pH hautneutrales Gel de Ducha
-- Axe Black – limpia cuerpo y espíritu
 - Gel de Ducha para hombres
+- Gel de Ducha dermatológicamente probado
+- Axe Black – limpia cuerpo y espíritu
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078K2GF2F/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Tirma Ambrosías con Relleno Cubiertas de Chocolate con L
 
 🔎:
 
-- País de origen: españa
-- Información de alérgenos: soy
-- Producto de calidad
 - Alérgenos: gluten, leche, soja y frutos de cáscara (almendras y avellanas)
+- Producto de calidad
 - Consumo directo
+- Información de alérgenos: soy
+- País de origen: españa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082VT6X3R/?tag=tolees-21)
