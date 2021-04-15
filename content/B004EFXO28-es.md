@@ -28,10 +28,10 @@ En este momento está [Oral-B Advance Power - Cepillo de dientes con pilas](http
 
 🔎:
 
-- Cabezales intercambiables
 - Cabezal de limpieza flexisoft compacto y redondo que rodea cada diente mientras las puntas interdentales llegan hasta el fondo de las áreas de difícil acceso
-- Interruptor combinado de encendido apagado
-- Sistema de limpieza bucal con 9600 oscilaciones por minuto
+- Cabezales intercambiables
 - Diseño ergonómico con empuñadura suave de goma
+- Sistema de limpieza bucal con 9600 oscilaciones por minuto
+- Interruptor combinado de encendido apagado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004EFXO28/?tag=tolees-21)

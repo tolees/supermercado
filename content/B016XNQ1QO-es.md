@@ -28,8 +28,8 @@ Está [Cardenal Mendoza Licores Angelus - 700 ml](https://www.amazon.es/dp/B016X
 
 ℹ️:
 
-- Capacidad: 70CL
 - Caoba con reflejos ambar, brillante y luminoso
+- Capacidad: 70CL
 - Licor de Brandy naranja amarga
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016XNQ1QO/?tag=tolees-21)
