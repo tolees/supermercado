@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Colon Higiene - Detergente para Lavadora al 48.12 % de descuento'
-date: 2021-04-01 16:35:20
-image: 'https://m.media-amazon.com/images/I/414DqVYewcL._SL400_.jpg'
+date: 2021-04-16 15:14:26
+image: 'https://m.media-amazon.com/images/I/414DqVYewcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'Colon'
 buyurl: 'https://www.amazon.es/dp/B07N1TJLJY/?tag=tolees-21'
 descuento: '48.12'
-average: '6.27266666666666'
+average: '6.21749999999999'
 ---
 
 Está [Colon Higiene - Detergente para Lavadora con Activos Higiénicos y Elimina Olores  Adecuado para Ropa Blanca y de Color  Formato Gel  40 Dosis](https://www.amazon.es/dp/B07N1TJLJY/?tag=tolees-21) con 48.12 de descuento por 5.39 EUR (original: 10.39 EUR) en el siguiente enlace!
 
-[![Colon Higiene - Detergente para Lavadora](https://m.media-amazon.com/images/I/414DqVYewcL._SL400_.jpg)](https://www.amazon.es/dp/B07N1TJLJY/?tag=tolees-21)
+[![Colon Higiene - Detergente para Lavadora](https://m.media-amazon.com/images/I/414DqVYewcL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07N1TJLJY/?tag=tolees-21)
 
 ℹ️:
 
 - Limpieza en profundidad, elimina las manchas más difíciles
 - Detergente para la lavadora concentrado en formato gel higiene
 - Descubre el resto de detergentes y complementos para el lavado de Colon
-- Higieniza los tejidos y elimina los malos olores de tu ropa gracias a sus activos higiénicos
 - Apto para ropa blanca y de color
+- Higieniza los tejidos y elimina los malos olores de tu ropa gracias a sus activos higiénicos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N1TJLJY/?tag=tolees-21)
