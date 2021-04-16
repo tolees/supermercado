@@ -28,8 +28,8 @@ Tienes [Scotch-Brite](https://www.amazon.es/dp/B00UEMEBJ0/?tag=tolees-21) con un
 
 ℹ️:
 
-- Goma para eliminar las manchas.
 - Pack de 6 unidades.
+- Goma para eliminar las manchas.
 - Se puede utilizar en superficies como paredes, juntas de azulejos, cerámica, acero inoxidable, madera, ducha/fregadero y electrodomésticos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00UEMEBJ0/?tag=tolees-21)
