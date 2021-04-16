@@ -28,10 +28,10 @@ Tienes [L Oréal Paris Elvive Total Repair 5 Champú Reparador  Para Pelo Dañad
 
 ℹ️:
 
-- Brinda 5 beneficios para tu cabello: Repara, Nutre, Suaviza, Fortalece y da brillo, Rellena las fisuras del cabello dañado, Transforma la fibra y suaviza la superficie del cabello
 - Champú que repara y refuerza la estructura del pelo, Creado especialmente para una reparación total, Para pelo dañado
-- Fórmula con extracto de caléndula y ceramida, En caso de contacto con los ojos lavar inmediatamente con abundante agua, Envase de plástico 100% reciclado y 100% reciclable
-- Aplica sobre el pelo húmedo, masajea suavemente el cuero cabelludo y luego aclara, Combínalo con el acondicionador de la misma gama para hacer maravillas en tu pelo
 - Contenido: 4 x LOréal Paris Elvive Total Repair 5 Champús Reparadores, Cada envase contiene 370 ml, Total: 1480 ml
+- Fórmula con extracto de caléndula y ceramida, En caso de contacto con los ojos lavar inmediatamente con abundante agua, Envase de plástico 100% reciclado y 100% reciclable
+- Brinda 5 beneficios para tu cabello: Repara, Nutre, Suaviza, Fortalece y da brillo, Rellena las fisuras del cabello dañado, Transforma la fibra y suaviza la superficie del cabello
+- Aplica sobre el pelo húmedo, masajea suavemente el cuero cabelludo y luego aclara, Combínalo con el acondicionador de la misma gama para hacer maravillas en tu pelo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08HZZPNY5/?tag=tolees-21)
