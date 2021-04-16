@@ -28,11 +28,11 @@ Tienes [Lagarto Suavizante Concentrado Colonia  70 Lavados - Paquete 6 Unidades 
 
 🔎:
 
-- Aporte extra de suavidad
-- Unidad de medida: gramo
 - Complementa el lavado
-- Número de items: 1
-- Aroma fresco
+- Unidad de medida: gramo
 - Unidades: 9000.0
+- Aroma fresco
+- Aporte extra de suavidad
+- Número de items: 1
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08LB8X4SM/?tag=tolees-21)
