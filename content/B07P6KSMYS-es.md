@@ -29,8 +29,8 @@ Está [Lay S Gourmet Queso y Cebolla Caramelizada  150g](https://www.amazon.es/d
 ℹ️:
 
 - Lays gourmet
-- Con cebolla caramelizada
-- Conservar en un lugar fresco y seco
 - Sabor queso
+- Conservar en un lugar fresco y seco
+- Con cebolla caramelizada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P6KSMYS/?tag=tolees-21)
