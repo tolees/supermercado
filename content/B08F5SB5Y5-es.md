@@ -28,8 +28,8 @@ Tienes [Syoss - Champú Salon Long - 6uds de 440Ml  2.640ml  – Para cabello la
 
 ℹ️:
 
-- Cabello como recién salido de la peluquería
 - Anti-rotura; cabello hasta 10 veces más fuerte; reparación de medios a puntas para un cabello hasta 10 veces más fuerte
+- Cabello como recién salido de la peluquería
 - Modo de empleo: masajear sobre el cabello mojado y aclarar con abundante agua
 - Devuelve la vida al cabello largo, nutre intensamente, aporta brillo y suavidad y controla el encrespamiento
 - Las nuevas fórmulas de Syoss combinan ingredientes naturales inspirados en los principios de belleza japoneses con la tecnología AMINO COMPLEX, que refuerza el cabello desde el interior

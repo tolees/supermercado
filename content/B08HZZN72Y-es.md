@@ -28,10 +28,10 @@ Ahora mismo tienes [L Oréal Paris - L Oreal Paris Elvive Color Vive Champú Pro
 
 🔎:
 
-- Fija el color de forma duradera, Protege el cabello contra agresiones externas, Prolonga el brillo y nutre intesamente manteniendo la vitalidad del color y la suavidad intensa de los primeros días
-- Champú protector con filtros UV creada especialmente para pelo teñido o con mechas, Idóneo para proteger y nutrir cabellos teñidos, Prolonga la intensidad del color hasta 10 semanas
-- Aplícalo sobre el pelo húmedo, masajea suavemente el cuero cabelludo y luego aclarar, Combínalo con el acondicionador de la misma gama para hacer maravillas en tu pelo
 - Fórmula enriquecida con Peonia Roja y filtros UVA/UVB, En caso de contacto con los ojos lavar inmediatamente con abundante agua, Envase de plástico 100% reciclado y 100% reciclable
+- Aplícalo sobre el pelo húmedo, masajea suavemente el cuero cabelludo y luego aclarar, Combínalo con el acondicionador de la misma gama para hacer maravillas en tu pelo
+- Champú protector con filtros UV creada especialmente para pelo teñido o con mechas, Idóneo para proteger y nutrir cabellos teñidos, Prolonga la intensidad del color hasta 10 semanas
 - Contenido: 4 x LOreal Paris Elvive Color Vive Champús Protectores, Cada envase contiene 370 ml, Total: 1480 ml
+- Fija el color de forma duradera, Protege el cabello contra agresiones externas, Prolonga el brillo y nutre intesamente manteniendo la vitalidad del color y la suavidad intensa de los primeros días
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HZZN72Y/?tag=tolees-21)
