@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Fructis Nutri Rizos Mascarilla C con un 20.71 % de descuento'
-date: 2021-04-14 16:16:24
+date: 2021-04-17 18:26:59
 image: 'https://m.media-amazon.com/images/I/41tgFPDAgvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [Garnier Fructis Nutri Rizos Mascarilla Capilar Pelo Rizad
 
 🔎:
 
-- Para pelo rizado u ondulado
 - Rizos nutridos, elásticos, definidos y con movimiento, siempre bajo control
 - La mascarilla capilar Fructis Nutri Rizos nutre en profundidad, controla el encrespamiento y define los rizos para mantenerlos elásticos y con movimiento
+- Para pelo rizado u ondulado
 - Rizos perfectos durante 4 días, anti-encrespamiento y anti-humedad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MBXQPYS/?tag=tolees-21)
