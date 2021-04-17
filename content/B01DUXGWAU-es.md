@@ -29,8 +29,8 @@ Está [Head & Shoulders - H&S Menthol Fresh Anticaspa Champú 360 ml](https://w
 ℹ️:
 
 - Fórmula Derma&Pure que combate con eficacia el cuero cabelludo seco, graso y con picor para detener la caspa antes de que aparezca
-- El champú anticaspa Menthol Fresh limpia con una sensación refrescante de mentol y mantiene el cabello hidratado y bonito
 - Mantiene la belleza del cabello y lo deja 100 % libre de caspa (con un uso regular)
 - Probado dermatológicamente, pH equilibrado y mejorado con antioxidantes para tratar con suavidad el cabello y el cuero cabelludo
+- El champú anticaspa Menthol Fresh limpia con una sensación refrescante de mentol y mantiene el cabello hidratado y bonito
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DUXGWAU/?tag=tolees-21)

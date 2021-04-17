@@ -28,9 +28,9 @@ Está [Mustela Bébé Gentle Champú Delicate Hair - 500 ml](https://www.amazon.
 
 ℹ️:
 
-- Sin lágrimas
+- Un champú diario suave para el cabello delicado del bebé
 - Fórmula biodegradable
 - Champú de la marca Mustela
-- Un champú diario suave para el cabello delicado del bebé
+- Sin lágrimas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LA1NOAU/?tag=tolees-21)
