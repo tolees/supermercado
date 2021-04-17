@@ -28,10 +28,10 @@ Tienes [MARTIN MILLERS - Martin Miller S - Gin Ginebra - Botella 700 ml](https:/
 
 🔎:
 
-- Martin Miller’s Original Gin, se destila en un alambique a través de dos destilaciones separadas de botánicos terrosos y cítricos. Esto imparte un equilibrio único entre los cítricos y el enebro. Finalmente se mezcla hasta una graduación de 40% ABV utilizando agua pura de Islandia.
-- Una elegante ginebra para tomar sola, pero que combinada con una buena tónica resultará un excelente combinado
-- De aspecto muy limpio y transparente, con unos frescos y expresivos cítricos que aparecen mezclados sutilmente con el enebro, el pepino, los especiados y ligeros toques florales.
 - Una ginebra que ‘sabe a ginebra’
 - Un clásico moderno. Un “dry gin” basado en la mejor tradición de los destiladores ingleses pero con nuestro propio toque moderno para obtener una ginebra perfectamente equilibrada.
+- Martin Miller’s Original Gin, se destila en un alambique a través de dos destilaciones separadas de botánicos terrosos y cítricos. Esto imparte un equilibrio único entre los cítricos y el enebro. Finalmente se mezcla hasta una graduación de 40% ABV utilizando agua pura de Islandia.
+- De aspecto muy limpio y transparente, con unos frescos y expresivos cítricos que aparecen mezclados sutilmente con el enebro, el pepino, los especiados y ligeros toques florales.
+- Una elegante ginebra para tomar sola, pero que combinada con una buena tónica resultará un excelente combinado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009T4BXK4/?tag=tolees-21)

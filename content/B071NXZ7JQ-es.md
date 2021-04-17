@@ -28,10 +28,10 @@ Ahora mismo tienes [KOMBUTXA TE KOMBUCHA BEBIDA ECOLOGICA - 6x750ml te fermentad
 
 🔎:
 
-- 😍REFRESCO SALUDABLE CASI SIN AZUCAR Y BAJO EN CALORIAS: Reduce el apetito, apto dietas para adelgazar solo 15 calorías por vaso y sacia el hambre
-- 🌺ALTAMENTE DESINTOXICANTE: Es rica en probióticos, sin edulcorante ayuda la digestion pesada , detox y libera el cuerpo de toxinas ayudando a equilibrar la flora intestinal.
-- 🥗APTO PARA : Veganos y vegetarianos , libre de gluten (free), envasado en vidrio, sin BPA , emisiones CO2 cero footprint
 - 🍹SABOR DELICIOSO Y EXPLOSIVO: Mezcla de sensaciones, recuerda al vinagre de manzana , cava, sidra o vino rosado , siendo perfecto como aperitivo o sustituto de bebidas alcoholicas.
+- 🌺ALTAMENTE DESINTOXICANTE: Es rica en probióticos, sin edulcorante ayuda la digestion pesada , detox y libera el cuerpo de toxinas ayudando a equilibrar la flora intestinal.
+- 😍REFRESCO SALUDABLE CASI SIN AZUCAR Y BAJO EN CALORIAS: Reduce el apetito, apto dietas para adelgazar solo 15 calorías por vaso y sacia el hambre
+- 🥗APTO PARA : Veganos y vegetarianos , libre de gluten (free), envasado en vidrio, sin BPA , emisiones CO2 cero footprint
 - 🤧ANTIBIOTICO NATURAL: Mejora las alergias , incrementa la energía, aporta vitaminas B y C, fortalece el sistema inmune.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071NXZ7JQ/?tag=tolees-21)

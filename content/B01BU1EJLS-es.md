@@ -30,7 +30,7 @@ Está [Alfaparf Precious Nature Champú para Cabello Largo y Liso - 1000 ml](htt
 
 - alfaparf precious nature long & straight shampoo
 - 1000ml
-- de la marca: AlfaParf
 - producto de alta calidad
+- de la marca: AlfaParf
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BU1EJLS/?tag=tolees-21)
