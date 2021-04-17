@@ -28,13 +28,13 @@ En este momento está [Estrella Galicia 0 0 Tostada Cerveza - Pack de 24 botelli
 
 🔎:
 
-- Una cerveza 0,0 tostada con un sabor pleno. El blend de maltas y los lúpulos empleados suman a su carácter sabroso, equilibrado y refrescante. Todo el poder de una cerveza de Estrella Galicia, pero sin nada de alcohol. ¿Aromas artificiales? Cero, solo ingredientes naturales
 - Ingredientes: Agua de la ciudad de A Coruña, coupage de cuatro maltas con diferentes grados de tueste. Lúpulos Nugget y Sladek. Levadura seleccionada Hijos de Rivera
-- Cerveza sin alcohol donde dominan los sabores de las maltas, bien equilibrados por la presencia de los lúpulos. Un suave dulzor inicial con ligeras notas ácidas, prolongado regusto amargo y final seco
-- Capacidad: 6 L
-- Mantener en lugar fresco y seco
 - Estrella Galicia 0,0 Tostada Pack 24x25cl
-- Temperatura recomendada 4-5 grados
 - Botellas individuales
+- Temperatura recomendada 4-5 grados
+- Cerveza sin alcohol donde dominan los sabores de las maltas, bien equilibrados por la presencia de los lúpulos. Un suave dulzor inicial con ligeras notas ácidas, prolongado regusto amargo y final seco
+- Mantener en lugar fresco y seco
+- Capacidad: 6 L
+- Una cerveza 0,0 tostada con un sabor pleno. El blend de maltas y los lúpulos empleados suman a su carácter sabroso, equilibrado y refrescante. Todo el poder de una cerveza de Estrella Galicia, pero sin nada de alcohol. ¿Aromas artificiales? Cero, solo ingredientes naturales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MLHXXXQ/?tag=tolees-21)
