@@ -28,10 +28,10 @@ Está [Baoblaze 1 Pieza para Filtro de café -Gusto Taza Reutilizable cápsulas 
 
 ℹ️:
 
-- Respetuoso con el medio : ahorra hasta un 80% sobre el costo de las cápsulas precargadas de una sola ración
-- Compatible con: Todos los modelos de nescafe dolc gusto incluyendo mini me, piccolo, genio y circolo; Pero no compatible con: npresso, starbucks, dolc gusto edg355.
 - Limpia fácilmente bajo el agua uniforme y precisión estable, fácil instalación.
 - Seguro de usar: libre de BPA y reciclable, hecho de material de pp de calidad alimentaria.
+- Compatible con: Todos los modelos de nescafe dolc gusto incluyendo mini me, piccolo, genio y circolo; Pero no compatible con: npresso, starbucks, dolc gusto edg355.
+- Respetuoso con el medio : ahorra hasta un 80% sobre el costo de las cápsulas precargadas de una sola ración
 - Malla de filtro: hecho de acero inoxidable 304 de calidad alimentaria, filtro de precisión, sin sedimentos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08N5HK1BH/?tag=tolees-21)
