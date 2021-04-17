@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.09 % en Instituto Español Leche Hidratante de Ur'
-date: 2021-04-16 15:34:21
+date: 2021-04-17 19:40:30
 image: 'https://m.media-amazon.com/images/I/41G2whOEdyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B015OAQEHI/?tag=tolees-21'
 descuento: '30.09'
-average: '3.94125'
+average: '3.94135802469136'
 ---
 
 Tienes [Instituto Español Leche Hidratante de Urea - 950 ml](https://www.amazon.es/dp/B015OAQEHI/?tag=tolees-21) con un 30.09 % de descuento con precio de oferta de 3.95 EUR (original: 5.65 EUR) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [Instituto Español Leche Hidratante de Urea - 950 ml](https://www.amazon
 ℹ️:
 
 - Tipo de Piel: Seca
-- Género: Unisex Adulto
 - Texturas: Leche
+- Género: Unisex Adulto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B015OAQEHI/?tag=tolees-21)
