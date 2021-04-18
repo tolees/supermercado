@@ -28,8 +28,8 @@ Tienes [Unique Party - Servilletas de Papel - 13 cm - Diseño de la Liga de la J
 
 🔎:
 
-- coordinate with other Justice League Party Supplies and Tableware from único
 - Protect against messes at a Boys Birthday Party, Superhero Birthday Party, oro Justice League Themed Party
+- coordinate with other Justice League Party Supplies and Tableware from único
 - Justice League Paper Napkins Measure 5 x 5
 - Use to defend against Drink Rings, or to easily Wipe up Small spills and Crumbs
 

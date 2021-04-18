@@ -28,10 +28,10 @@ Tienes [Fendy-Shop - Regalo del día del padre para papá  pregúntame acerca de
 
 🔎:
 
-- 🎁Taza de té de cerámica de alta calidad, entrega estándar: 20-25 días.
-- 🎁Diseño impreso en el lado completo, colores vibrantes y duraderos.Gran regalo para alguien especial o artículo novedoso para el uso diario.
-- 🎁Talla única: 8 cm X 9,5 cm, 330 ml / 11 oz.
 - 🎁Fácil agarre con asa, diseñado para manejar bebidas frías y calientes. Una opción increíble para café, sopa, té, leche, café con leche, líquido caliente y más.
+- 🎁Diseño impreso en el lado completo, colores vibrantes y duraderos.Gran regalo para alguien especial o artículo novedoso para el uso diario.
 - 🎁Acabado de alto brillo, sin plomo. Se puede usar para el hogar, la cafetería y la oficina, el método de lavado no se ajusta al lavavajillas ni al microondas.
+- 🎁Talla única: 8 cm X 9,5 cm, 330 ml / 11 oz.
+- 🎁Taza de té de cerámica de alta calidad, entrega estándar: 20-25 días.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08R9XKLBH/?tag=tolees-21)

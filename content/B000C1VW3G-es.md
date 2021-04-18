@@ -29,7 +29,7 @@ En este momento está [Elizabeth Arden 1031 - Agua de perfume  100 ml](https://w
 🔎:
 
 - Tipo de producto: Agua de perfume
-- Marca: Elizabeth Arden
 - Productos de belleza y el cuidado personal
+- Marca: Elizabeth Arden
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000C1VW3G/?tag=tolees-21)

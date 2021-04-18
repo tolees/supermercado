@@ -28,10 +28,10 @@ Ahora mismo tienes [La Silla Española - Pack 4 Sillas plegables fabricadas en a
 
 🔎:
 
-- Medidas de la silla: 43,5 cm ancho x 46 cm de fondo x 78 cm de alto
-- El formato plegable fomenta la facilidad a la hora de guardarlas, haciendo que puedas tenerlas en cualquier rincón y estén siempre a mano
 - Asiento y respaldo acolchados para una mayor comodidad
+- Medidas de la silla: 43,5 cm ancho x 46 cm de fondo x 78 cm de alto
 - No requiere montaje
 - Silla multifuncional, ideal para cualquier tipo de ocasión tanto en interiores como en exteriores
+- El formato plegable fomenta la facilidad a la hora de guardarlas, haciendo que puedas tenerlas en cualquier rincón y estén siempre a mano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077YNVRPM/?tag=tolees-21)
