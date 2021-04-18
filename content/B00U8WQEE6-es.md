@@ -28,10 +28,10 @@ Está [Sesderma FACTOR G RENEW - Crema hidratante rejuvenecedora facial para tod
 
 ℹ️:
 
-- Incremento de la tonificación cutánea
+- Tipo de piel: Todas
 - Firmeza; elasticidad; tersura
 - 50 ml
-- Tipo de piel: Todas
 - Estimula la síntesis de colágeno
+- Incremento de la tonificación cutánea
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00U8WQEE6/?tag=tolees-21)

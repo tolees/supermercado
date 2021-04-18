@@ -28,10 +28,10 @@ Tienes [Gillette Fusion ProGlide Gel de Afeitar Hombre 2 en 1  Pieles Sensibles 
 
 🔎:
 
-- Tres eficaces lubricantes mejoran el deslizamiento de la maquinilla para lograr un afeitado suave y cómodo
-- Protege la piel contra los arañazos, el enrojecimiento y la tirantez y deja una sensación fresca y suave
-- Fragancia Active Sport
 - El tapón se bloquea impidiendo que el exceso de gel salga del bote; además, cuenta con un indicador para saber cuánto queda exactamente; no se oxida ni deja marcas al posarse
 - Gillette gel de barba 2 en 1, gel más crema hidratante, ideal para pieles sensibles
+- Protege la piel contra los arañazos, el enrojecimiento y la tirantez y deja una sensación fresca y suave
+- Fragancia Active Sport
+- Tres eficaces lubricantes mejoran el deslizamiento de la maquinilla para lograr un afeitado suave y cómodo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XI4POR4/?tag=tolees-21)
