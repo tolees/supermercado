@@ -28,10 +28,10 @@ Está [Pajaver Kit de pintura de vidrieras de colores  kit de vidrieras con marc
 
 ℹ️:
 
+- Material: Marco: madera; Tablero de dibujo: acrílico; Plantilla: PET
 - El paquete incluye: 2 marcos de fotos + 4 plantillas de patrón de mandala. Nota: el paquete no incluye bolígrafos de pintura
 - Kit creativo: es un kit de creación desafiante para crear elegantes y hermosas obras de arte de cristal tintado. Mejora la capacidad de resolver problemas, habilidades motoras finas y coordinación ojo-mano mientras disfrutas de la diversión de la creación.
-- Bonita decoración: después de que el kit esté terminado, puede ser una decoración perfecta para el hogar, oficina, cafetería, librería y otros lugares.
 - Regalos perfectos: el kit de actividades hecho de vidriera es un regalo ideal para personas a las que les gusta pintar y hacer objetos personalizados.
-- Material: Marco: madera; Tablero de dibujo: acrílico; Plantilla: PET
+- Bonita decoración: después de que el kit esté terminado, puede ser una decoración perfecta para el hogar, oficina, cafetería, librería y otros lugares.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08H4YD8W6/?tag=tolees-21)
