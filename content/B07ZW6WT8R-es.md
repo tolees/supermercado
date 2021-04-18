@@ -28,10 +28,10 @@ En este momento está [Garnier Fructis Hair Food Mascarilla Capilar 3 en 1 Aloe 
 
 🔎:
 
+- Ligero como un acondicionador, intensivo como una mascarilla y eficaz como un tratamiento; Pelo hidratado en profundidad y suave durante más tiempo
+- 98% de ingredientes de origen natural y vegano; Formulado con Aloe Vera hidratante
 - El Compromiso Fructis: fórmulas hasta un 97% biodegradables y testadas bajo control dermatológico, envases con un 50% de plástico reciclado, 100% reciclables y producidos en fábricas comprometidas con el desarrollo sostenible
 - 390 ml
-- 98% de ingredientes de origen natural y vegano; Formulado con Aloe Vera hidratante
 - 3en1: Como acondicionador sobre pelo húmedo para desenredar, como mascarilla dejándolo actuar 1-3 min; para nutrir o como tratamiento sin aclarado para prolongar la nutrición
-- Ligero como un acondicionador, intensivo como una mascarilla y eficaz como un tratamiento; Pelo hidratado en profundidad y suave durante más tiempo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZW6WT8R/?tag=tolees-21)

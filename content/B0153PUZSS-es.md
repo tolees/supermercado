@@ -28,10 +28,10 @@ En este momento está [Caja de Tés de Degustación de Tea Forte de Tea Forte  C
 
 🔎:
 
-- Petite presentation box tea sampler has 10 assorted pyramid tea bag infusers, handcrafted to allow the delicate leaves to luxuriantly unfurl in hot water, producing a deliciously aromatic, flavorful cup
-- Wrapped in elegant, embossed pattern gift box with a satin ribbon, open the lid to reveal a tea tasting menu with blend descriptions
-- Diverse, subtle flavors from only the finest whole tea leaves in the world, blended with aromatic fruits, spices and herbs
 - Tea tasting assortment with ten varieties of our most popular tea blends - black currant, earl grey, green mango peach, jasmine green, white ambrosia, white ginger pear, african solstice, chamomile citron, ginger lemongrass, raspberry nectar
 - Delightful tea gift set offers a variety of premium gourmet teas, a most welcomed hostess gift or gift for tea lovers
+- Petite presentation box tea sampler has 10 assorted pyramid tea bag infusers, handcrafted to allow the delicate leaves to luxuriantly unfurl in hot water, producing a deliciously aromatic, flavorful cup
+- Diverse, subtle flavors from only the finest whole tea leaves in the world, blended with aromatic fruits, spices and herbs
+- Wrapped in elegant, embossed pattern gift box with a satin ribbon, open the lid to reveal a tea tasting menu with blend descriptions
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0153PUZSS/?tag=tolees-21)
