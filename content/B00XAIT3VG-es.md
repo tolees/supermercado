@@ -28,9 +28,9 @@ En este momento está [Gotas Frescas Colonia Concentrada - Instituto Español 80
 
 🔎:
 
-- Colonia Concentrada con Alta Duración
-- Notas de Bergamota y Mandarina
 - Elaborada con Esencias Naturales
+- Colonia Concentrada con Alta Duración
 - Atemporal y para toda la Familia
+- Notas de Bergamota y Mandarina
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XAIT3VG/?tag=tolees-21)
