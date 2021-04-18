@@ -28,8 +28,8 @@ En este momento está [Haribo Frutissima - 100 gr](https://www.amazon.es/dp/B072
 
 🔎:
 
+- Caramelos de goma sabor frutas
 - Deliciosas piezas en forma de frutas recubiertas de azúcar
 - Irresistible sabor a frutas
-- Caramelos de goma sabor frutas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B072BGCNX3/?tag=tolees-21)
