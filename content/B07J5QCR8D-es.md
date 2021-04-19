@@ -28,10 +28,10 @@ En este momento está [Air Wick Eléctrico - Recambios de ambientador automátic
 
 🔎:
 
-- Descubre el resto de fragancias Air Wick Eléctrico con Essential Oils
-- Fragancia Lirio de Luna; descubre una lujosa combinación de lirios, rosas y peonias envueltas en suaves notas de vainilla
-- Pack de recambios para ambientadores eléctricos Air Wick
 - Elige entre los diferentes niveles de intensidad para conseguir tu nivel de fragancia adecuada
+- Fragancia Lirio de Luna; descubre una lujosa combinación de lirios, rosas y peonias envueltas en suaves notas de vainilla
 - Disfruta de un aroma duradero y consistente para tu hogar
+- Descubre el resto de fragancias Air Wick Eléctrico con Essential Oils
+- Pack de recambios para ambientadores eléctricos Air Wick
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07J5QCR8D/?tag=tolees-21)
