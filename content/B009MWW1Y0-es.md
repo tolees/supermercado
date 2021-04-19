@@ -28,8 +28,8 @@ Tienes [Gullón Galleta Chocolate Chips sin Azúcar Diet Nature  125g](https://w
 
 ℹ️:
 
-- Sin azúcares y su delicioso sabor, se convierten en la opción perfecta cualquier momento.
 - Las galletas Chip Choco de Gullón son una fuente de fibra acompañada de pepitas de chocolate.
+- Sin azúcares y su delicioso sabor, se convierten en la opción perfecta cualquier momento.
 - Fabricado por Galletas Gullón.
 - Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
 
