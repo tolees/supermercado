@@ -28,10 +28,10 @@ En este momento está [Eleglide - Dispensador Jabon Automático  Dispensador Aut
 
 🔎:
 
+- 【Impermeable】Resistente al agua con el nivel de IPX4, evitar que entre agua en la caja de la batería, prevenir daños en el dispositivo.
+- 【Operacion rapida】3 niveles de volumen ajustables, ajustar la dosis de loción de manera más eficiente. Mas economico,cambia automáticamente al modo de espera cuando no se usa.
 - 【Sensor automático】Funciona mediante sensor de infrarrojos automático, sin contacto, solo pon tu manodebajo del área del sensor, la máquina arranca, evitando el caso de infección cruzada. Muy rápido, solo 2 segundos para deshacerse de la loción.
 - 【Uso extensivo】Compatible con soluciones líquidas como líquido hidroalcohólico, en spray. Aplicar ampliamente en cocina, baño, oficina, escuela, hospital, hotel...
 - 【Gran capacidad】La capacidad del dosificador alcanza 480 ml. Cuerpo transparente, conveniente para que agregue el gel a tiempo a través de esta ventana visual. Batería de larga duración, utilizable por un máximo de 10 meses.
-- 【Impermeable】Resistente al agua con el nivel de IPX4, evitar que entre agua en la caja de la batería, prevenir daños en el dispositivo.
-- 【Operacion rapida】3 niveles de volumen ajustables, ajustar la dosis de loción de manera más eficiente. Mas economico,cambia automáticamente al modo de espera cuando no se usa.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JHY7BN8/?tag=tolees-21)

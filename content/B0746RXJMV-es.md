@@ -28,10 +28,10 @@ Está [Renova Rollo de Cocina - 24 Rollos](https://www.amazon.es/dp/B0746RXJMV/?
 
 ℹ️:
 
+- Rollo Cocina
 - Decorados aleatoriamente
 - 24 Rollos
 - Sencillo
 - 40 servicios
-- Rollo Cocina
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0746RXJMV/?tag=tolees-21)
