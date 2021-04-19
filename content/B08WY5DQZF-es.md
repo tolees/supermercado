@@ -28,10 +28,10 @@ Tienes [Mimosín Suavizante Concentrado Caricias- 60 Lavados 1200 g - Pack de 8]
 
 ℹ️:
 
-- Es un producto que respeta las pieles sensibles y permite obtener un suavizado dermotestado seguro para los bebés
-- Mimosín Suavizante Concentrado Carcias 60 lavados
 - Mimosin Caricias es un suavizante concentrado que contiene una fragancia más ligera y sin tintes
 - Es un producto testado dermatológicamente que mantiene el color y el brillo, y promueve el secado rápido
+- Es un producto que respeta las pieles sensibles y permite obtener un suavizado dermotestado seguro para los bebés
+- Mimosín Suavizante Concentrado Carcias 60 lavados
 - Está desarrollado para las mamás y papás y sus recién nacidos y ofrece suavidad estupenda en cada lavado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08WY5DQZF/?tag=tolees-21)

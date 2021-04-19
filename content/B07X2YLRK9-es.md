@@ -28,9 +28,9 @@ Tienes [Starbucks Single Origin Colombia De Nespresso Cápsulas De Café De Tost
 
 🔎:
 
-- Este café 100 % Colombia tiene un sabor intenso, un sabor espléndido y un regusto único de frutos secos
-- Cápsulas de café de STARBUCKS de NESPRESSO, equilibrado y con notas a frutos secos
 - Con un toque de flores y frutos secos, un óptimo equilibrio y una gran complejidad
+- Cápsulas de café de STARBUCKS de NESPRESSO, equilibrado y con notas a frutos secos
+- Este café 100 % Colombia tiene un sabor intenso, un sabor espléndido y un regusto único de frutos secos
 - Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
 - Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 
