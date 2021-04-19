@@ -28,10 +28,10 @@ Está [Colon - Detergente para lavadora profesional  adecuado para ropa blanca y
 
 ℹ️:
 
-- Elimina las manchas y es idoneo para todo tipo de ropa
 - Detergente lavadora líquido para ropa formato profesional de 9 kg
-- El gel activo es para ropa blanca y de color
-- Proporciona un toque extra de luminosidad en tu colada
 - Eficaz incluso en agua fría
+- Elimina las manchas y es idoneo para todo tipo de ropa
+- Proporciona un toque extra de luminosidad en tu colada
+- El gel activo es para ropa blanca y de color
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BMCT1ZY/?tag=tolees-21)
