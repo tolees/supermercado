@@ -28,8 +28,8 @@ Tienes [Monsoy - Bebida De Soja BIO - Caja de 6 x 1L](https://www.amazon.es/dp/B
 
 🔎:
 
-- Ingredientes: Agua del parque natural Montseny, Soja* (13,5%), Sal Marina; *de agricultura ecológica
 - Sin azúcares añadidos (contiene azúcares naturalmente presentes) y con bajo contenido en sal
 - Bebida 100% vegetal BIO, sin lactosa, sin azúcares añadidos, sin aditivos, hecha con agua del parque natural del Montseny
+- Ingredientes: Agua del parque natural Montseny, Soja* (13,5%), Sal Marina; *de agricultura ecológica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CW424GY/?tag=tolees-21)
