@@ -28,10 +28,10 @@ Tienes [Lavazza A Modo Mio Lavazza - Máquina de café Modelo Tiny - 1450 W de P
 
 ℹ️:
 
-- Incluye nueve cápsulas de inicio
-- Función de apagado automático (9 min)
 - La máquina más pequeña y silenciosa de la casa Lavazza
+- Función de apagado automático (9 min)
 - Un contenedor de agua transparente (0.6 L)
 - Disponible en cuatro colores, blanco, rojo, azul claro, lima
+- Incluye nueve cápsulas de inicio
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07B11KL5G/?tag=tolees-21)

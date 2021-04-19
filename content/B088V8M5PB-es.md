@@ -29,8 +29,8 @@ Tienes [Aussie Champú  Hydrate  Hidratación Profunda  3 Champús 300 ml](https
 ℹ️:
 
 - Calma la sed de tu pelo con el Champú Hydrate de Aussie
+- Con A de Aussie, de Australia, de ingredientes Auténticos y de Asombrosa Actitud Australiana
 - Con aceite de nuez de Macadamia australiana, hidrata profundamente el pelo seco
 - El Champú hidratante de Aussie revitaliza completamente el pelo extremadamente seco
-- Con A de Aussie, de Australia, de ingredientes Auténticos y de Asombrosa Actitud Australiana
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B088V8M5PB/?tag=tolees-21)

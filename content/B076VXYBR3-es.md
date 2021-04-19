@@ -28,8 +28,8 @@ En este momento está [Edradour Ballechin Whisky Double Malt - 700 ml](https://w
 
 🔎:
 
-- Whiksy de doble single Malt (Edradour + Ballechin)
 - Capacidad: 70 cl
+- Whiksy de doble single Malt (Edradour + Ballechin)
 - Graduación 46
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076VXYBR3/?tag=tolees-21)
