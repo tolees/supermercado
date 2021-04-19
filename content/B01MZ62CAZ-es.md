@@ -28,11 +28,11 @@ Ahora mismo tienes [Practicosa - Gel Hidroalcohólico 60ML 70% Alcohol  Lavanda 
 
 🔎:
 
-- No pegajoso.
 - Alto contenido en alcohol 70%
-- Aroma Lavanda
-- Fabricado en España
 - Cuidado y protección con el mejor aroma
+- Aroma Lavanda
+- No pegajoso.
 - Rápido secado.
+- Fabricado en España
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MZ62CAZ/?tag=tolees-21)
