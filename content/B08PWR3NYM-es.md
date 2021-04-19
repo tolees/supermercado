@@ -28,13 +28,13 @@ En este momento está [Pernigotti Snack De Chocolate Negro  Avellana  105 Gramo]
 
 🔎:
 
-- Sin aceite de palma
-- Pernigotti - wafer chocolate negro: barquillo de 35g recubierto con crema de avellana
 - Advertencia de seguridad: Producido en una fábrica que también utiliza frutos secos (avellanas, almendras y pistacho)
+- País de origen: turquía
+- Información de alérgenos: wheat
 - Ingredientes: Ingredientes: Azúcar, harina de TRIGO, pasta de cacao, aceite vegetal (coco,karité) AVELLANAS (5%) cacao magro en polvo, SUERO DE LECHE en polvo, manteca de cacao, emulsionante: lecitina de girasol, agente fermentador: bicarbonato de sodio, sal, aroma natural
 - Alérgenos: leche y productos derivados (incluida la lactosa) frutos con cásccara
-- Información de alérgenos: wheat
+- Sin aceite de palma
 - Conservar en lugar fresco y seco, preferiblemente entre 18ºc y 20ºc y alejado de olores
-- País de origen: turquía
+- Pernigotti - wafer chocolate negro: barquillo de 35g recubierto con crema de avellana
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PWR3NYM/?tag=tolees-21)
