@@ -28,10 +28,10 @@ Ahora mismo tienes [Navidul Jamón de Cebo Ibérico  Jamonero y Cuchillo - 8.25 
 
 🔎:
 
-- Mantener en un lugar fresco y seco
+- Ausencia de alérgenos
 - El Jamón Navidul de cebo ibérico, elaborado con materia prima de gran calidad cuenta con un proceso de larga curación superior a 24 meses. Estos factores influyen de manera clave en el aspecto, el olor, el tacto y el gusto; proporcionando al consumidor un producto de máxima calidad.
 - Su aroma intenso y persistente, junto con su exquisito sabor hacen del Jamón de cebo ibérico Navidul una pieza extraordinaria.
-- Ausencia de alérgenos
+- Mantener en un lugar fresco y seco
 - Jamonero y cuchillo de regalo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C8V2XQ7/?tag=tolees-21)
