@@ -28,10 +28,10 @@ En este momento está [Rexona Desodorante en spray Shower Fresh antitranspirante
 
 🔎:
 
-- Cuanto más se mueve, más protege
 - Dura tanto como la variante de 150 ml y protege el medio ambiente
-- Con la tecnología probada motionsense
 - 48 horas de protección contra el sudor y el olor corporal
 - Para una sensación de ducha fresca con un discreto aroma femenino
+- Con la tecnología probada motionsense
+- Cuanto más se mueve, más protege
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PLZ78FZ/?tag=tolees-21)
