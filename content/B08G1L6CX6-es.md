@@ -29,7 +29,7 @@ Está [Maybelline New York Superstay Matte Ink - Pintalabios Líquido  270 Cocoa
 ℹ️:
 
 - Pintalabios mate de larga duración efecto tinta líquida que no transfiere  
-- Sella el mate en tus labios con el color ink saturado  
 - Acabado mate de larga duración Efecto tinta líquida No reseca ni cuartea  
+- Sella el mate en tus labios con el color ink saturado  
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G1L6CX6/?tag=tolees-21)
