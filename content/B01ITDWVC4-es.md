@@ -28,9 +28,9 @@ Tienes [Hero Baby Manzana y Pera  120g](https://www.amazon.es/dp/B01ITDWVC4/?tag
 
 🔎:
 
-- 100% Eco
 - 100% fruta
-- Desde los 4 meses
 - Sin gluten
+- Desde los 4 meses
+- 100% Eco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01ITDWVC4/?tag=tolees-21)

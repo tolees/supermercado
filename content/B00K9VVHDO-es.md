@@ -28,8 +28,8 @@ Tienes [Mantovani - Jabón intimo con bisabolol - 200 ml](https://www.amazon.es/
 
 🔎:
 
-- Limpia y hidrata
 - Sensación de frescura y comodidad
+- Limpia y hidrata
 - Volumen: 200 ml
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00K9VVHDO/?tag=tolees-21)
