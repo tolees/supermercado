@@ -28,8 +28,8 @@ Ahora mismo tienes [Albal Papel Aluminio Extra-Resistente y Fácil de Cortar  10
 
 🔎:
 
+- 10 metros
 - Papel Aluminio
 - Papel Aluminio Albal extra-resistente y fácil de cortar - 10 metros
-- 10 metros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QCQB7VG/?tag=tolees-21)

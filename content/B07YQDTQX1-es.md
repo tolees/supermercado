@@ -28,10 +28,10 @@ Está [Hero Solo - Hero Baby Solo Bolsita de Manzana  Plátano y Zanahoria Puré
 
 ℹ️:
 
+- Elaborado con ingredientes 100% ecológicos y nada más. Materias primas de calidad baby adaptadas nutricionalmente para tu bebé
 - Sin azúcares añadidos, sin aceite de palma. No contiene leche, gluten ni huevo
-- Formato 100 g. Para bebés a partir de 4 meses
 - La gama de bolsitas Hero Solo cuenta con una amplia variedad de bolsitas de puré de frutas en un formato práctico para consumir donde sea. Cada bolsita esta compuesta por solo frutas de cultivo ecoógico y nada más
 - Ingredientes: puré de manzana ecológico (41,9%), puré de plátano ecológico (29%), puré de zanahoria ecológico (29%) y zumo de limón ecológico a partir de concentrad
-- Elaborado con ingredientes 100% ecológicos y nada más. Materias primas de calidad baby adaptadas nutricionalmente para tu bebé
+- Formato 100 g. Para bebés a partir de 4 meses
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YQDTQX1/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [ThunderX3 BC1 BOSS  siilla gaming tecnología AIR  color café](https://
 
 ℹ️:
 
-- Espuma de alta densidad y reposabrazos acolchados
-- Pistón de clase 3 aprobado por BIFMA y mecanismo oscilante 18°
 - Diseño ergonómico para una comodidad total
+- Pistón de clase 3 aprobado por BIFMA y mecanismo oscilante 18°
 - Silla gaming con superficie transpirable de tecnología Air Tech
+- Espuma de alta densidad y reposabrazos acolchados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07WCLD7N5/?tag=tolees-21)
