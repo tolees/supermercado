@@ -31,7 +31,7 @@ Ahora mismo tienes [InnovaGoods Ball Dispensador de Cerveza Refrigerante  PMMA  
 - Diámetro x altura aproximativa: 24 x 42 cm
 - Fabricado de PMMA (libre de BPA)
 - Depósito interior cerrado y extraíble para hielo
-- Cómodo y práctico grifo para servir
 - Capacidad aproximativa: 3,5 L
+- Cómodo y práctico grifo para servir
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078BT2JCY/?tag=tolees-21)
