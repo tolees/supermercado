@@ -28,10 +28,10 @@ Tienes [Marca Amazon - Happy Belly Láminas de chocolate negro belga  4x125g](ht
 
 🔎:
 
-- Este envase contiene 5 porciones
 - RAINFOREST ALLIANCE CERTIFIED: El cacao que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: come mejor, hazlo mejor
-- Chocolate negro con arroz inflado crujiente
+- Este envase contiene 5 porciones
 - Fabricado en Bélgica
 - Apto para dietas vegetarianas y veganas
+- Chocolate negro con arroz inflado crujiente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZRSN9BR/?tag=tolees-21)

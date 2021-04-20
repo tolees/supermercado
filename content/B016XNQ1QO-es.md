@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cardenal Mendoza Licores Angelus - 700 m al 26.42 % de descuento'
-date: 2021-04-15 08:06:13
+date: 2021-04-20 07:20:45
 image: 'https://m.media-amazon.com/images/I/41Or4+IeF7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Cardenal Mendoza Licores Angelus - 700 ml](https://www.amazon.es/dp/B016X
 
 ℹ️:
 
-- Caoba con reflejos ambar, brillante y luminoso
 - Capacidad: 70CL
+- Caoba con reflejos ambar, brillante y luminoso
 - Licor de Brandy naranja amarga
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016XNQ1QO/?tag=tolees-21)
