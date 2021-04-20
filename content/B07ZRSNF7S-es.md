@@ -28,11 +28,11 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Láminas de chocolate con leche b
 
 🔎:
 
-- Apto para dietas vegetarianas
-- Este envase contiene 5 porciones
 - Fabricado en Bélgica
 - No apto para alérgicos a los frutos de cáscara debido al método de producción
-- Chocolate con leche con arroz inflado crujiente
+- Apto para dietas vegetarianas
 - RAINFOREST ALLIANCE CERTIFIED: El cacao que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: come mejor, hazlo mejor
+- Este envase contiene 5 porciones
+- Chocolate con leche con arroz inflado crujiente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZRSNF7S/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Colgate Max White Expert Instantáneo  Enjuague Bucal Bla
 
 🔎:
 
-- No contiene alcohol etílico
 - Efecto óptico blanqueador
-- Contiene flúor para proteger contra la caries
 - Protección duradera frente a las manchas
+- Contiene flúor para proteger contra la caries
 - Enjuague bucal para dientes más blancos al instante
+- No contiene alcohol etílico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FBVGV3H/?tag=tolees-21)
