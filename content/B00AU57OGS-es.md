@@ -28,9 +28,9 @@ Ahora mismo tienes [Jägermeister Licor 35% Vol  70cl](https://www.amazon.es/dp/
 
 🔎:
 
+- Perfecto como un regalo
 - Producto sometido a estrictos controles de calidad
 - Ideal para disfrutar por ti mismo
-- Perfecto como un regalo
 - El jägermeister se bebe puro y luego helado o como una bebida mezclada; además de los clásicos tragos largos con jugo de naranja, cola, etc, hay una variedad de recetas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00AU57OGS/?tag=tolees-21)
