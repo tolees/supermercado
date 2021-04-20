@@ -31,7 +31,7 @@ Ahora mismo tienes [Eukanuba Alimento seco para perros adultos activos de raza m
 - L-carnitina para ayudar a metabolizar las grasas
 - Una forma de croqueta especial con DentaDefense para mantener los dientes limpios y sanos
 - Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos; Vitaminas E y C, antioxidantes para reforzar el sistema inmunitario
-- Prebióticos FOS y pulpa de remolacha para favorecer una digestión sana
 - Pollo fresco y rico en proteínas para construir músculos fuertes y magros
+- Prebióticos FOS y pulpa de remolacha para favorecer una digestión sana
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01DPD81W2/?tag=tolees-21)
