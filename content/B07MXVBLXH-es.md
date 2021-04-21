@@ -28,10 +28,10 @@ Ahora mismo tienes [Dewel Pigmentos para Resina Epoxi 15 * 10g  Mica en Polvo  C
 
 🔎:
 
-- 【Facil de usar】: Solo necesita agregar los pigmentos de mica en cualquier sistema de agua, y cambia la cantidad del polvo que agrega según la profundidad del color deseada, y puede dar color brillante a su diseño de arte.
 - 【Multifuncional y Creativo】: La mica en polvo de colores brillantes se pueden usar en muchos lugares y da más color y brillo a su obra de diseño. Puede usarlos en teñir Resina Epoxi, Hacer Slimo, Jabón, Bombas de Baño, Maquillaje, Uñas, Cosmético.etc.
-- 【Garantía】: Si hay cualquier problema, no duda en ponerse en contacto con nosotros para resolverlo, estamos encantados de ayudarle.
 - 【Mica en polvo No tóxico】: Los pigmentos de mica es un mineral de silicato que se ha usado hace siglos, es un tipo de piedra en polvo natural y no tóxico, puede usarlo en su piel para manquillarse.
+- 【Facil de usar】: Solo necesita agregar los pigmentos de mica en cualquier sistema de agua, y cambia la cantidad del polvo que agrega según la profundidad del color deseada, y puede dar color brillante a su diseño de arte.
 - 【El paquete contiene】 15 botes 10g pigmento de mica en polvo. Los 15 colores diversos puede satisfacer sus necesidades para diferentes tipos de diseños. Tambien puede mezclarlos para obtener un color completamente nuevo y crear tu propio color.
+- 【Garantía】: Si hay cualquier problema, no duda en ponerse en contacto con nosotros para resolverlo, estamos encantados de ayudarle.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MXVBLXH/?tag=tolees-21)

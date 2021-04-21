@@ -28,10 +28,10 @@ En este momento está [Nestlé Nesquik 5 7Kg](https://www.amazon.es/dp/B08JHPNLJ
 
 🔎:
 
+- Nestlé Nesquik es un preparado alimentício al cacao que se diluye instantáneamente, y le aporta un delicioso sabor a chocolate
 - Azúcar, cacao natural desgrasado en polvo (23%), emulgente (lecticina de soja), sal, vitaminas (c,d), aroma natural, canela
 - Chocolatea tu leche al instante con Nestlé Nesquik disfruta de su sabor a chocolate
 - Lecitina de soja
-- Nestlé Nesquik es un preparado alimentício al cacao que se diluye instantáneamente, y le aporta un delicioso sabor a chocolate
 - España
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JHPNLJP/?tag=tolees-21)
