@@ -28,8 +28,8 @@ Está [Renova Toalla Secamanos Zig-Zag - 20 Paquetes de 160 Unidades](https://ww
 
 ℹ️:
 
+- Dimensión de la hoja: 240 x 210mm
 - 160 hojas por pack, 20 packs por caja (3200 hojas en total)
 - Doble Capa
-- Dimensión de la hoja: 240 x 210mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HVZNJY/?tag=tolees-21)

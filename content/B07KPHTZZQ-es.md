@@ -28,9 +28,9 @@ Ahora mismo tienes [Nestlé Kit Kat Pop Choc 140g - Pack de 17](https://www.amaz
 
 🔎:
 
-- Grasa láctea, cacahuete, frutos de cáscara
-- Tómate un respiro y compártelo con el Kitkat pop choc: deliciosas bolitas crujientes recubiertas de chocolate con leche que al comerlas, hacen pop en tu boca
-- Kitkat pop choc es el snack adecuado para disfrutar y compartir con los amigos y toda la familia; Además, es un topping magnífico para completar tus helados, crepes y todo tipo de postres
 - Azúcar, harina de trigo, leche desnatada en polvo, manteca de cacao, grasas vegetales (palma, shea), cacao desgrasado, grasa láctea, agentes de recubrimiento (goma arábiga, goma laca)
+- Grasa láctea, cacahuete, frutos de cáscara
+- Kitkat pop choc es el snack adecuado para disfrutar y compartir con los amigos y toda la familia; Además, es un topping magnífico para completar tus helados, crepes y todo tipo de postres
+- Tómate un respiro y compártelo con el Kitkat pop choc: deliciosas bolitas crujientes recubiertas de chocolate con leche que al comerlas, hacen pop en tu boca
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KPHTZZQ/?tag=tolees-21)

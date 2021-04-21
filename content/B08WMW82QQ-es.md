@@ -28,10 +28,10 @@ Ahora mismo tienes [NEUTROMED - Jabón de Manos - 12uds de 300ml  3.600ml  – C
 
 🔎:
 
-- Con té verde: reconocido por sus propiedades antibacterianas y de protección
-- Limpia suavemente a la vez que ayuda a combatir las bacterias; respetuoso con la piel
-- El jabón líquido de Neutromed contiene antibacteriano natural y glicerina
-- Dermatológicamente probado
 - Con glicerina: repone la pérdida de agua de la piel, incluso en las pieles secas
+- Limpia suavemente a la vez que ayuda a combatir las bacterias; respetuoso con la piel
+- Dermatológicamente probado
+- Con té verde: reconocido por sus propiedades antibacterianas y de protección
+- El jabón líquido de Neutromed contiene antibacteriano natural y glicerina
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08WMW82QQ/?tag=tolees-21)

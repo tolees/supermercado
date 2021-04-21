@@ -28,10 +28,10 @@ En este momento está [Vermouth Padró & Co - Vermouth Myrrha Rojo Bag in Box  v
 
 🔎:
 
-- Notas balsámicas, anisadas, hierbas de montaña; especias como clavo y vainilla. Fondo de caramelo y frutas pasificadas.
 - Origen: Zona/Región vinícola Tarragona
+- Ideal acompañado con una rodaja de naranja.
+- Notas balsámicas, anisadas, hierbas de montaña; especias como clavo y vainilla. Fondo de caramelo y frutas pasificadas.
 - Ideal para combinar con quesos curados y aperitivos. Servir frío.
 - Graduación: 15% vol.
-- Ideal acompañado con una rodaja de naranja.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086LYQZ8L/?tag=tolees-21)
