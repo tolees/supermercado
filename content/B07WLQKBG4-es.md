@@ -28,11 +28,11 @@ Tienes [Marca Amazon - Happy Belly Chocolate negro suizo con turrón 100g x 15](
 
 🔎:
 
-- Este envase contiene 4 porciones
-- RAINFOREST ALLIANCE CERTIFIED: El cacao que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: come mejor, hazlo mejor
 - Chocolate negro suizo con turrón (10 %)
-- No apto para alérgicos a otros frutos de cáscara ni a la leche debido al método de producción
+- RAINFOREST ALLIANCE CERTIFIED: El cacao que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: come mejor, hazlo mejor
 - Fabricado en Suiza
+- Este envase contiene 4 porciones
 - Apto para dietas vegetarianas
+- No apto para alérgicos a otros frutos de cáscara ni a la leche debido al método de producción
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WLQKBG4/?tag=tolees-21)

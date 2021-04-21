@@ -30,8 +30,8 @@ Está [Sanytol Desinfectante para el Hogar Sin Blanqueador  1200 ml  Paquete de 
 
 - No desprende vapores, no mancha la ropa y no daña las superficies (incluso parquet) y está testado dermatológicamente
 - Limpia y desinfecta SIN LEJÍA tanto los suelos como superficies
-- Ideal para desinfectar incluso las zonas de bebés o mascotas
-- Puede utilizarse en todo tipo de superficies incluso delicadas como madera o mármol
 - Deja un agradable perfume a limpio
+- Puede utilizarse en todo tipo de superficies incluso delicadas como madera o mármol
+- Ideal para desinfectar incluso las zonas de bebés o mascotas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DUWQRA6/?tag=tolees-21)
