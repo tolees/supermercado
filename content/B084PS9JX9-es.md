@@ -28,11 +28,11 @@ Tienes [Mastro Lindo Detergente para suelos  limón  tamaño grande  6 unidades 
 
 🔎:
 
-- Elimina hasta un 100% de suciedad, grasa e impurezas
 - Mastro Lindo Multiusos es una solución universal, óptima para toda la casa
 - Eficaz limpiador multisuperficie
 - Deja una intensa frescura y un brillo insuperable
 - Eficaz incluso con agua fría para ahorrar energía
+- Elimina hasta un 100% de suciedad, grasa e impurezas
 - Disponible en diferentes fragancias
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084PS9JX9/?tag=tolees-21)
