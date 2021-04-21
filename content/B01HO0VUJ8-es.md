@@ -28,10 +28,10 @@ En este momento está [Milka Bubbly Chocolate con Leche en Textura Tierna con Bu
 
 🔎:
 
-- Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso
-- Alérgenos: Contiene leche, soja y avellanas, puede contener otros frutos de cáscara y trigo
-- Conservar en lugar fresco y seco
-- Con suaves burbujas de aire por dentro y por fuera, que aportan una textura extratierna
 - Chocolate con leche aireado de la marca Milka, en una tableta de 90 g
+- Conservar en lugar fresco y seco
+- Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso
+- Con suaves burbujas de aire por dentro y por fuera, que aportan una textura extratierna
+- Alérgenos: Contiene leche, soja y avellanas, puede contener otros frutos de cáscara y trigo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01HO0VUJ8/?tag=tolees-21)
