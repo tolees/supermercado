@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en REVLON PROFESSIONAL Super Lustrous Pinta'
-date: 2021-04-18 20:26:14
+date: 2021-04-22 14:01:39
 image: 'https://m.media-amazon.com/images/I/31aLu-JRI3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

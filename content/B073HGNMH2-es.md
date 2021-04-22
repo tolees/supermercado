@@ -29,9 +29,9 @@ Ahora mismo tienes [Maybelline New York Superstay Matte Ink  Pintalabios Mate de
 🔎:
 
 - Pintalabios mate de larga duración
-- Cobertura total en una sola pasada y sin retoques
 - El color ink más saturado, para dejar tu sello de forma permanente
 - Aplica empezando por el centro de tu labio superior, luego hacia las comisuras, siguiendo el contorno de tu boca. Finalmente, desliza el color por el labio inferior
 - Aplicador en forma flecha para condensar más cantidad de producto
+- Cobertura total en una sola pasada y sin retoques
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073HGNMH2/?tag=tolees-21)

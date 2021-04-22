@@ -28,11 +28,11 @@ Ahora mismo tienes [Lacasitos - Chocolate - Gracera de chocolate con leche recub
 
 🔎:
 
-- Grageas de chocolate
 - Especialidad: vegetariano
-- Unidades: 1000.0
+- Grageas de chocolate
 - Siete colores diferentes
 - Cubiertas con una fina capa de azúcar
+- Unidades: 1000.0
 - Unidad de medida: gramo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XA72Z7Q/?tag=tolees-21)
