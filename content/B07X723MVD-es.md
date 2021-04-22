@@ -28,11 +28,11 @@ En este momento está [Starbucks Espresso Dark Roast Café De Grano Entero De To
 
 🔎:
 
-- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
 - Nuevo diseño disponible desde Febrero 2021
-- Los cafés de tostado intenso de STARBUCKS tienen más intensidad y carácter
-- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
-- Café de grano entero de STARBUCKS con intensas notas a caramelo
 - Intenso y con un toque de caramelo, este café es el que más empleamos para nuestro latte
+- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
+- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
+- Café de grano entero de STARBUCKS con intensas notas a caramelo
+- Los cafés de tostado intenso de STARBUCKS tienen más intensidad y carácter
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X723MVD/?tag=tolees-21)
