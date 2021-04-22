@@ -28,10 +28,10 @@ Ahora mismo tienes [NIVEA Pack Body Q10 con loción reafirmante  1 x 400 ml   cr
 
 🔎:
 
-- Desodorante roll-on – El desodorante antitranspirante protege contra las manchas blancas y amarillas, puede usarse tras la depilación y deja la piel suave
-- Mascarilla antiarrugas – la mascarilla hidratante de la caja de regalo reduce visiblemente las arrugas para lucir una piel radiante y con un aspecto más joven
 - Loción corporal – con coenzima Q10 y vitamina C, la loción hidratante de este set de regalo hidrata durante 48 horas, aporta elasticidad y reafirma la piel
 - Crema para manos – la crema antiedad para manos hidrata la piel seca y previene los signos de envejecimiento y las manchas provocadas por la radiación solar
+- Mascarilla antiarrugas – la mascarilla hidratante de la caja de regalo reduce visiblemente las arrugas para lucir una piel radiante y con un aspecto más joven
+- Desodorante roll-on – El desodorante antitranspirante protege contra las manchas blancas y amarillas, puede usarse tras la depilación y deja la piel suave
 - Contenido del envío – NIVEA Pack Body Q10 con loción corporal reafirmante (1 x 400 ml), crema de manos (1 x 100 ml), desodorante roll-on (1 x 50 ml) y mascarilla antiarrugas (1 x 15 ml), neceser
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZHNXVF7/?tag=tolees-21)
