@@ -28,8 +28,8 @@ Tienes [Semillas Batlle - Semillas Hortícolas - Girasol para pipas - Batlle](ht
 
 🔎:
 
-- Excelente variedad hibrida de pipa para consumo de gran tamaño (2-3 cm) y cascara blanca con rayas oscuras
 - Sobre
+- Excelente variedad hibrida de pipa para consumo de gran tamaño (2-3 cm) y cascara blanca con rayas oscuras
 - Forma de cultivo: Directamente sobre el terreno definitivo al marco de 75x15 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ID4ORYK/?tag=tolees-21)
