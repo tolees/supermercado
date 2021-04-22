@@ -28,10 +28,10 @@ En este momento está [Maybelline New York Barra de Labios Mate Superstay Matte 
 
 🔎:
 
-- Barra de labios mate fija: sella con el color ink más saturado
 - Aplicador en forma de flecha: condensa más cantidad de producto y cubre en una sola pasada
-- Fórmula de tinta elástica que no reseca ni cuartea tus labios
 - Efecto tinta líquida: solo se fija en tus labios
+- Fórmula de tinta elástica que no reseca ni cuartea tus labios
+- Barra de labios mate fija: sella con el color ink más saturado
 - La gama de Mates líquidos de larga duración con más de 20 tonos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FSN8X3L/?tag=tolees-21)

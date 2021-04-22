@@ -28,10 +28,10 @@ Está [Maybelline New York - Superstay Matte Ink City Edition  Pintalabios  Tono
 
 ℹ️:
 
-- Su tecnología tinta elástica permite un agarre cómodo.
-- Enriquecido con pigmentos altamente concentrados, la fórmula de las superstay Matte Ink un-nude cubre sus labios de un color nude vibrante, atrevido y moderno
-- Un acabado mate aterciopelado larga celebrada en un solo gesto.
-- La aplicación Flecha permite un trazado preciso y se desliza sobre los labios para proporcionar ficha capa de fórmula.
 - Tinta con labios mate larga ajuste
+- Su tecnología tinta elástica permite un agarre cómodo.
+- La aplicación Flecha permite un trazado preciso y se desliza sobre los labios para proporcionar ficha capa de fórmula.
+- Un acabado mate aterciopelado larga celebrada en un solo gesto.
+- Enriquecido con pigmentos altamente concentrados, la fórmula de las superstay Matte Ink un-nude cubre sus labios de un color nude vibrante, atrevido y moderno
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F9Q8L1W/?tag=tolees-21)

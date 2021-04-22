@@ -29,8 +29,8 @@ Tienes [REVLON PROFESSIONAL Super Lustrous Pintalabios Pearl Caramel Glace 103](
 ℹ️:
 
 - Dimensiones del producto: 1,9 x 1,9 x 7 cm
-- Color: Marrón
 - 9,07 g
 - facil de usar
+- Color: Marrón
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000H3CPN0/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Revlon Super Lustrous Lipstick 535 Rum Raisin - 3.7 gr](https://www.amaz
 
 ℹ️:
 
-- Infundido con mega-humectantes para sellar en color y suavidad
 - Infundido con seda y vitaminas
 - Textura cremosa y suave como la seda
 - Proporciona un color liviano y un brillo hidratante
+- Infundido con mega-humectantes para sellar en color y suavidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000V5OQNG/?tag=tolees-21)

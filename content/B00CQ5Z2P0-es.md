@@ -28,8 +28,8 @@ Tienes [Revlon Super Lustrous Pintalabios Tono 25 Lovers Coral - 3.7 gr](https:/
 
 ℹ️:
 
-- Género: Mujer
 - Marca: Revlon
 - Tipo de producto: Pintalabios
+- Género: Mujer
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CQ5Z2P0/?tag=tolees-21)
