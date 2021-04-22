@@ -28,9 +28,9 @@ Ahora mismo tienes [Revlon ColorStay Delineador Labial  #675 Red ](https://www.a
 
 🔎:
 
-- Práctico mecanismo retráctil
+- No transfiere, no mancha
 - Color intenso con alta pigmentación
 - Se desliza suavemente sobre los labios, logrando líneas precisas y resistentes
-- No transfiere, no mancha
+- Práctico mecanismo retráctil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000H3I2LO/?tag=tolees-21)

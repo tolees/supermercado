@@ -28,9 +28,9 @@ Tienes [Revlon ColorStay Creme Gel Delineador de Ojos  #006 Private Island ](htt
 
 🔎:
 
-- Infusionado con ingredientes hidratantes: aceite de la jojoba, vitamina e, aceite de semilla de algodón
 - La fórmula dura todo el día, hasta 24 horas
-- Resistente al agua y probado por oftalmólogos
 - Deslizamiento suave y la fórmula altamente pigmentada
+- Infusionado con ingredientes hidratantes: aceite de la jojoba, vitamina e, aceite de semilla de algodón
+- Resistente al agua y probado por oftalmólogos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B4HJLLW/?tag=tolees-21)

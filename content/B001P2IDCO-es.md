@@ -30,8 +30,8 @@ Ahora mismo tienes [Revlon Super Lustrous Pintalabios Hidratante  #740 Certainly
 
 - Acabado satinado
 - Sin fragancia
-- La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
 - Extra sedoso e hidratante
 - Enriquecido con Aloe, Vitaminas A, C y E
+- La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001P2IDCO/?tag=tolees-21)
