@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mantovani - Jabón intimo con bisabolol - al 0.00 % de rebaja'
-date: 2021-04-20 16:40:17
+date: 2021-04-22 20:19:23
 image: 'https://m.media-amazon.com/images/I/41yqkgUgS7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Mantovani - Jabón intimo con bisabolol - 200 ml](https://www.amazon.es/
 
 🔎:
 
+- Volumen: 200 ml
 - Sensación de frescura y comodidad
 - Limpia y hidrata
-- Volumen: 200 ml
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00K9VVHDO/?tag=tolees-21)
