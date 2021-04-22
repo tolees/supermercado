@@ -28,9 +28,9 @@ Está [REVLON Super Lustrous Lipstick 044 Bare Affair  4.2 g](https://www.amazon
 
 ℹ️:
 
-- Aplicación lisa, deslizante
-- Fórmula hidratante con vitamina E y aceite de aguacate
 - Formulado con pigmentos microfinos para un color de alto impacto
+- Aplicación lisa, deslizante
 - Complejo LiquiShine reflejante de la luz, que contiene aceite abisinio
+- Fórmula hidratante con vitamina E y aceite de aguacate
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075G1RCBH/?tag=tolees-21)

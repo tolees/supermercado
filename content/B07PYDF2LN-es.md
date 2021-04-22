@@ -28,10 +28,10 @@ Ahora mismo tienes [Sanytol Désinfectant Du Linge Fleurs Blanches Format Famili
 
 🔎:
 
-- Fórmula concentrada eficaz desde 20 °C.
-- Elimina el 99, 9% de los microbios que causan malos olores y enfermedades o irritaciones de la piel.
-- Formato familiar.
 - No usar lejía.
+- Formato familiar.
+- Fórmula concentrada eficaz desde 20 °C.
 - Perfume de flores blancas.
+- Elimina el 99, 9% de los microbios que causan malos olores y enfermedades o irritaciones de la piel.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PYDF2LN/?tag=tolees-21)
