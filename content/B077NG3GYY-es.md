@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Maybelline New York - Superstay Matte In con un 30.53 % de descuento'
-date: 2020-02-12 11:56:06
-image: 'https://m.media-amazon.com/images/I/31wVIwMIPRL._AC_._SL400_.jpg'
+title: 'Maybelline New York SuperStay Matte Ink  con un 49.75 % de descuento'
+date: 2021-04-22 13:49:59
+image: 'https://m.media-amazon.com/images/I/31e7C0+PkaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B077NG3GYY-es Maybelline New York - Superstay Matte Ink The Nudes Barra...'
+slug: 'B077NG3GYY-es Maybelline New York SuperStay Matte Ink Pintalabios Mate...'
 sku: 'B077NG3GYY-es'
-tags: [ 'maybelline', ]
-actualPrice: 6.94 EUR
+tags: [ 'Belleza','Maquillaje','Maquillajes labiales','Pintalabios','maybelline','maybelline new york', ]
+actualPrice: 5.02 EUR
 currency: EUR
-price: 6.94
+price: 5.02
 comparePrice: 9.99 EUR
-prodname: 'Maybelline New York - Superstay Matte Ink The Nudes  Barra de Labios Mate  Tono 95 Visionary'
+prodname: 'Maybelline New York SuperStay Matte Ink  Pintalabios Mate de Larga Duración  Tono 95 - Visionary  Lila'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Maybelline New York'
 buyurl: 'https://www.amazon.es/dp/B077NG3GYY/?tag=tolees-21'
-descuento: '30.53'
-average: '5.772500000000001'
+descuento: '49.75'
+average: '5.622'
 ---
 
-En este momento está [Maybelline New York - Superstay Matte Ink The Nudes  Barra de Labios Mate  Tono 95 Visionary](https://www.amazon.es/dp/B077NG3GYY/?tag=tolees-21) a 6.94 EUR (original: 9.99 EUR) (30.53 %  de descuento) en el siguiente enlace!
+En este momento está [Maybelline New York SuperStay Matte Ink  Pintalabios Mate de Larga Duración  Tono 95 - Visionary  Lila](https://www.amazon.es/dp/B077NG3GYY/?tag=tolees-21) a 5.02 EUR (original: 9.99 EUR) (49.75 %  de descuento) en el siguiente enlace!
 
-[![Maybelline New York - Superstay Matte In](https://m.media-amazon.com/images/I/31wVIwMIPRL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B077NG3GYY/?tag=tolees-21)
+[![Maybelline New York SuperStay Matte Ink ](https://m.media-amazon.com/images/I/31e7C0+PkaL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B077NG3GYY/?tag=tolees-21)
 
 🔎:
 
+- Contenido: 1x Pintalabios Superstay Matte Ink Maybelline New-York, Tono 95 - Visionary, Lila, Cantidad: 5 ml
+- Disponible en más de 20 tonos, Sin olor y testado dermatológicamente
+- Sella el mate con su cobertura total que no transfiere, Fórmula enriquecida con una alta concentración de pigmentos para un color intenso y vibrante
+- Pintalabios líquido de acabado mate terciopelo con hasta 16 horas de duración gracias a su tecnología de tinta elástica
+- Su aplicador en forma de flecha permite un trazado preciso y sin excesos para una cobertura perfecta sin retoques, Desmaquillar con un desmaquillante bifásico waterproof
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077NG3GYY/?tag=tolees-21)
