@@ -28,7 +28,7 @@ En este momento está [ElPozo Bienstar Jamón Cocido Bajo en Grasa  90g](https:/
 
 🔎:
 
-- Mantener refrigerado
 - Proteger de la luz solar
+- Mantener refrigerado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00MILJAR8/?tag=tolees-21)

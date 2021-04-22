@@ -29,9 +29,9 @@ En este momento está [NICK S Join our Fight on Sugar - NICKS Coconut - Barrita 
 🔎:
 
 - BOCADILLO PERFECTO para comer sobre la marcha. Te transporta a los trópicos gracias al coco de Sri Lanka, y está recubierto de cremoso chocolate con leche
-- LIBRE DE GLUTEN porque el trigo, al ingresar en tu cuerpo, se transforma en azúcar. El trigo y otros "carbohidratos vacíos" hacen que tu nivel de azúcar en la sangre aumente rápidamente
 - DELICIOSA barra húmeda, suave y dulce, rellena de coco y recubierta en un rico y cremoso chocolate con leche
-- SIN AZÚCAR AÑADIDO, utilizamos edulcorantes a base de plantas que dan a las barras una sensación dulce en la boca, pero tiene un efecto mínimo sobre el nivel de azúcar en la sangre
 - Bajo en carbohidratos y amigable con dietas keto, ya que contiene sólo 3,5 g de carbohidratos netos y 163 kcal
+- SIN AZÚCAR AÑADIDO, utilizamos edulcorantes a base de plantas que dan a las barras una sensación dulce en la boca, pero tiene un efecto mínimo sobre el nivel de azúcar en la sangre
+- LIBRE DE GLUTEN porque el trigo, al ingresar en tu cuerpo, se transforma en azúcar. El trigo y otros "carbohidratos vacíos" hacen que tu nivel de azúcar en la sangre aumente rápidamente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08T9VC68K/?tag=tolees-21)
