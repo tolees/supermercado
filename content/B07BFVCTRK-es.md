@@ -28,9 +28,9 @@ Ahora mismo tienes [CupCup - 100 Vasos Desechables de Café para Llevar - Vasos 
 
 🔎:
 
-- CONJUNTO de vaso café 100% desechables que no contienen metales pesados y sustancias peligrosas
-- TAZAS cafe 240 ml, sola pared, descartables hechos del cartón de la densidad de 280 g/sq.m
 - VASOS de café descartables ideales para servir gran cantidad de bebidas en poco tiempo.
+- TAZAS cafe 240 ml, sola pared, descartables hechos del cartón de la densidad de 280 g/sq.m
+- CONJUNTO de vaso café 100% desechables que no contienen metales pesados y sustancias peligrosas
 - PERFECTO para vasos café, de té, de bebidas calientes y frías, para uso de oficina, en cualquier fiesta o evento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BFVCTRK/?tag=tolees-21)
