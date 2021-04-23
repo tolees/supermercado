@@ -28,8 +28,8 @@ Está [Vivesoy Frutos Secos sin Azúcar Pack  6 x 1L](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Sin conservantes
 - Sin azúcar
 - Combinación de sabores
+- Sin conservantes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07S6XTT36/?tag=tolees-21)

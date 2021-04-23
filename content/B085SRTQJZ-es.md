@@ -28,10 +28,10 @@ Tienes [Sanytol – Botella Desinfectante Limpiahogar  Elimina Bacterias  Hongos
 
 ℹ️:
 
-- Elimina los malos olores y deja un agradable aroma a Eucaliptus.
-- Limpiador desinfectante limpiahogar eficaz contra bacterias, como S. Aureus o E-coli, hongos y virus envueltos.
 - No desprende vapores, no mancha textiles, no daña superficies y está testado dermatológicamente. Sin fosfatos, ftalatos ni disruptores endocrinos.
+- Limpiador desinfectante limpiahogar eficaz contra bacterias, como S. Aureus o E-coli, hongos y virus envueltos.
 - Apto para todo tipo de superficies y suelos, incluso delicados como parquet o mármol.
+- Elimina los malos olores y deja un agradable aroma a Eucaliptus.
 - Limpia y desinfecta sin lejía y de una sola pasada todo tipo de superficies, eliminando la suciedad y acabando con el 99,9% de los gérmenes más comunes en el hogar.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085SRTQJZ/?tag=tolees-21)

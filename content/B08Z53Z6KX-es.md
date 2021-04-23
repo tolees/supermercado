@@ -28,11 +28,11 @@ Está [Head & Shoulders - H&S Champú Citrus Fresh Anticaspa para Pelo Graso 180
 
 ℹ️:
 
-- Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo
-- Mejor juntos. Utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito
+- Bueno para el planeta: botella reciclable (sin incluir el tapón y en función de las instalaciones de reciclaje)
 - Hasta 72 horas de protección frente a la caspa, la sequedad y el picor (caspa visible, con uso regular; picor debido a la caspa)
+- Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo
 - El champú anticaspa Citrus Fresh limpia el pelo graso y el cuero cabelludo aceitoso dejando un aroma cítrico duradero
 - Combate la causa principal de la caspa para un pelo totalmente libre de caspa, probado clínicamente (con uso regular)
-- Bueno para el planeta: botella reciclable (sin incluir el tapón y en función de las instalaciones de reciclaje)
+- Mejor juntos. Utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08Z53Z6KX/?tag=tolees-21)
