@@ -28,10 +28,10 @@ Tienes [L Oreal Paris - L Oréal Paris Excellence Coloración Crème Triple Prot
 
 ℹ️:
 
-- Excellence Creme Triple Cuidado asegura un 100% de cobertura de canas cuidando tu cabello en cada etapa de la coloracion
-- Cuida, protege y nutre el cabello
 - En solo 3 pasos consigue un color rico y duradero
+- Excellence Creme Triple Cuidado asegura un 100% de cobertura de canas cuidando tu cabello en cada etapa de la coloracion
 - Color rico y radiante
+- Cuida, protege y nutre el cabello
 - 100% cobertura de canas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00X9X5ZWI/?tag=tolees-21)
