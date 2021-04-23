@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gullón Vitalday Frutos Rojos Galleta Des al 29.61 % de descuento'
-date: 2021-04-22 20:43:11
+date: 2021-04-23 22:04:39
 image: 'https://m.media-amazon.com/images/I/513t7HnTMML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Gullón Vitalday Frutos Rojos Galleta Desayuno y Merienda - Paquete de 6 
 
 ℹ️:
 
-- Alto en fibra
-- País de Origen: España
 - Elaborada con aceite de girasol alto oleico
+- País de Origen: España
+- Alto en fibra
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XDQ1UTS/?tag=tolees-21)
