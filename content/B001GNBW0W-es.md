@@ -28,8 +28,8 @@ Tienes [Max Factor 2000 Calorie Dramatic Máscara de Pestañas Tono Black - 9 ml
 
 ℹ️:
 
-- Género: Mujer
 - Tipo de producto: Mascara de pestañas
+- Género: Mujer
 - Marca: Max Factor
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001GNBW0W/?tag=tolees-21)

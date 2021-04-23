@@ -28,15 +28,15 @@ Tienes [Damm Cerveza Estrella Lata  24 uds](https://www.amazon.es/dp/B01AY3JJP4/
 
 🔎:
 
-- Procedencia: spain
-- Como servir: consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su caracter refrescante.
-- Volumen paquete: 7.92 liters; tipo de alcohol: lagers
-- Es una cerveza versátil, ligera, refrescante y con un aroma limpio y respetuoso con la cebada.
-- Volumen: 7920.0 milliliters
-- Contenido de alcohol (alc/vol): 5.4 percent_by_volume
-- Estrella damm se elabora utilizando la receta original de 1876 resultado de la combinación de malta de cebada, arroz y lúpulo, 100% ingredientes naturales.
-- Unidades: 7920.0
-- Número de items: 1
 - Sin aditivos, ni conservantes, ni sulfitos añadidos.
+- Contenido de alcohol (alc/vol): 5.4 percent_by_volume
+- Volumen paquete: 7.92 liters; tipo de alcohol: lagers
+- Unidades: 7920.0
+- Estrella damm se elabora utilizando la receta original de 1876 resultado de la combinación de malta de cebada, arroz y lúpulo, 100% ingredientes naturales.
+- Como servir: consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su caracter refrescante.
+- Es una cerveza versátil, ligera, refrescante y con un aroma limpio y respetuoso con la cebada.
+- Número de items: 1
+- Volumen: 7920.0 milliliters
+- Procedencia: spain
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01AY3JJP4/?tag=tolees-21)

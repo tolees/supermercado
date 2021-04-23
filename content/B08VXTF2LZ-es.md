@@ -29,9 +29,9 @@ Ahora mismo tienes [Somat Todo en 1 Pastillas Detergente para Lavavajillas  Pack
 🔎:
 
 - Fácil disolución: resultados óptimos en todos los programas de lavado
-- Protección del cristal frente a posibles daños por corrosión
 - Fórmula con esmalte y abrillantador
-- Eficaces a bajas temperaturas (40°) y tienen una función protectora fundamental para la vajilla
 - Pastilla multifuncional para obtener resultados de limpieza óptimos
+- Protección del cristal frente a posibles daños por corrosión
+- Eficaces a bajas temperaturas (40°) y tienen una función protectora fundamental para la vajilla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08VXTF2LZ/?tag=tolees-21)
