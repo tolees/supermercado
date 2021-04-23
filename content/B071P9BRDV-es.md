@@ -28,9 +28,9 @@ Tienes [Max Factor Colour Elixir Honey Lacquer Gloss Brillo de Labios Tono 35 Bl
 
 🔎:
 
+- Disponible en varios colores
 - Con acabado de alto brillo y ilusión de plenitud
 - Color de un lápiz labial
 - Suave como un bálsamo labial
-- Disponible en varios colores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071P9BRDV/?tag=tolees-21)

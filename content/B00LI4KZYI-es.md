@@ -30,8 +30,8 @@ Tienes [Max Factor Mastertouch Concealer  Corrector  Tono: 303 - 7.8 ml](https:/
 
 - Contiene una esponja de precisón para aplicar la cantidad exacta
 - Dermatológicamente testado, apto para pieles sensibles
+- Polímeros que se mezclan perfectamente con la piel
 - Corrector líquido para oculta las ojeras e imperfecciones
 - Fórmula no-comedogénica, no obstruye los poros
-- Polímeros que se mezclan perfectamente con la piel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00LI4KZYI/?tag=tolees-21)

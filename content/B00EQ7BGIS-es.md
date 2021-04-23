@@ -30,7 +30,7 @@ Ahora mismo tienes [KLORANE Champú a la Ortiga Seborreguladora 400 ml](https://
 
 - Aplicar una pequeña cantidad mediante un suave masaje y dejar actuar unos minutos
 - Indicado para cabello graso
-- Base levante extremadamente suave, desenredante y voluminadora
 - Reequilibra la secreción de las glándulas sebáceas y retarda la migración del sebo a lo largo de la fibra capilar
+- Base levante extremadamente suave, desenredante y voluminadora
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00EQ7BGIS/?tag=tolees-21)
