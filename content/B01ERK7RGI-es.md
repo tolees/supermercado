@@ -28,10 +28,10 @@ Ahora mismo tienes [Pascual Yogur Liquido FresaPlátano  Pack de 2 x 80g](https:
 
 🔎:
 
-- Sabor fresa plátano. 85% Yogur + fruta en puré, sin trocitos + vitaminas E, A, B9, D
-- No necesitan refrigeración, excepto una vez abierto. Una vez abierto consumir antes de 24 horas
-- Yogur pasteurizado después de la fermentación con fresas y plátano, enriquecido en vitaminas A, D, E y B9
 - Sin colorantes. La vitamina D es necesaria para el crecimiento y el desarrollo normales de los huesos de los niños
+- Sabor fresa plátano. 85% Yogur + fruta en puré, sin trocitos + vitaminas E, A, B9, D
 - Mantener el tapón fuera del alcance de los niños
+- Yogur pasteurizado después de la fermentación con fresas y plátano, enriquecido en vitaminas A, D, E y B9
+- No necesitan refrigeración, excepto una vez abierto. Una vez abierto consumir antes de 24 horas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ERK7RGI/?tag=tolees-21)
