@@ -28,10 +28,10 @@ Tienes [Optimum Nutrition Gold Standard Pre Workout en Polvo  Bebida Energética
 
 ℹ️:
 
-- La cafeína de origen natural, junto con la L-Carnitina y N-Acetil-Tirosina ayudan a agudizar tu estado de alerta y concentración mientras ayudan a tu cuerpo a entrenar al más alto nivel
 - Una opción fundamentada y probada contra sustancias prohibidas, un producto en polvo premezclado para atletas que trabajan la fuerza, la resistencia, practican deportes de equipo, los que van al gimnasio o incluso lo más polifacéticos
+- Citrulina malato, un precursor de la producción de óxido nítrico
 - Las vitaminas B1, B3, B5, B6, B12 ayudan a que tu metabolismo funcione al máximo
 - El monohidrato de creatina ayuda a mantener la potencia y el rendimiento generales
-- Citrulina malato, un precursor de la producción de óxido nítrico
+- La cafeína de origen natural, junto con la L-Carnitina y N-Acetil-Tirosina ayudan a agudizar tu estado de alerta y concentración mientras ayudan a tu cuerpo a entrenar al más alto nivel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TFB0YGA/?tag=tolees-21)
