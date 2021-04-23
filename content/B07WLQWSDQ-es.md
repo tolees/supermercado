@@ -28,11 +28,11 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Almendras con chocolate 130g x 6]
 
 🔎:
 
-- Almendras recubiertas de chocolate negro, chocolate blanco y chocolate con leche
-- Deliciosas almendras recubiertas de chocolate
 - Apto para dietas vegetarianas
-- Los niños pequeños se pueden atragantar con los frutos secos
+- Almendras recubiertas de chocolate negro, chocolate blanco y chocolate con leche
 - No apto para alérgicos a otros frutos de cáscara debido al método de producción
+- Los niños pequeños se pueden atragantar con los frutos secos
 - RAINFOREST ALLIANCE CERTIFIED: El cacao que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: come mejor, hazlo mejor
+- Deliciosas almendras recubiertas de chocolate
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WLQWSDQ/?tag=tolees-21)

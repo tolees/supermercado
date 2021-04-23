@@ -28,9 +28,9 @@ En este momento está [Valda Caramelos Suavizantes sin Azúcar - 50 Pastillas](h
 
 🔎:
 
-- Formato de bolsillo
-- 50 pastillas
 - Refrescan, suavizan y despejan la garganta
+- 50 pastillas
 - Lea las instrucciones de uso antes de utilizar el producto
+- Formato de bolsillo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00GY2CK38/?tag=tolees-21)

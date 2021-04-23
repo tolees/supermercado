@@ -28,9 +28,9 @@ Tienes [Gullón Galleta María sin Azúcar Diet Nature Pack de 2  400g](https://
 
 ℹ️:
 
-- 400 gr
-- País de Origen: España
 - Elaborada con aceite de girasol alto oleico
 - Fuente de Fibra
+- 400 gr
+- País de Origen: España
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005SYSMWG/?tag=tolees-21)
