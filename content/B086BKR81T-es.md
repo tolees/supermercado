@@ -28,10 +28,10 @@ Está [Relaxdays Decantador de whisky  Jarra con tapa  Dispensador de licor  900
 
 ℹ️:
 
-- Clásico: el decantador de whisky es el lugar de almacenaje ideal para tu licor favorito
+- Denso: decantador transparente con una tapa de cierre seguro para conservar el aroma y sabor
 - Regalo: la jarra de bar es un regalo genial para los amantes de la coctelería o de los licores
 - Elegante: jarra de cristal para el bar en casa; recipiente para whisky, coñac, ron y otras bebidas
+- Clásico: el decantador de whisky es el lugar de almacenaje ideal para tu licor favorito
 - Detalles: botella para whisky con una capacidad total de aprox. 900 ml; aprox. 23 x 9 x 9 cm
-- Denso: decantador transparente con una tapa de cierre seguro para conservar el aroma y sabor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086BKR81T/?tag=tolees-21)

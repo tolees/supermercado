@@ -28,8 +28,8 @@ Tienes [Mexifoods Tortillas de Trigo  8 uds  320g](https://www.amazon.es/dp/B07Y
 
 🔎:
 
-- Alérgenos: harina de trigo, cereales que contienen gluten
 - País de origen: España
+- Alérgenos: harina de trigo, cereales que contienen gluten
 - Mantener en un lugar fresco y seco
 - Ingredientes: Harina de TRIGO (56%), agua, aceite vegetal (aceite girasol alto oleico)
 
