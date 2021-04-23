@@ -28,9 +28,9 @@ Tienes [Haribo Maoam Joystixx Caramelos - 200 gr](https://www.amazon.es/dp/B007B
 
 🔎:
 
-- Caramelos masticables
 - Irresistible mix de sabores
-- Origen: Alemania
 - Deliciosas piezas de caramelo blando
+- Origen: Alemania
+- Caramelos masticables
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007BL4DRC/?tag=tolees-21)
