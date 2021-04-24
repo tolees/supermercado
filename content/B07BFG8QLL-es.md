@@ -28,9 +28,9 @@ En este momento está [Leste - 400 unidades. Coffee to go - Vasos de café recic
 
 🔎:
 
-- Vasos de cartón: 180ml.
 - Ideales para la oficina, negocios, trabajo, eventos etc.
 - Vasos perfectos para máquinas de vending, maquinas de café, cafeteras
 - Nespresso Delonghi Tassimo Bosch Krups Dolce Gusto Philips
+- Vasos de cartón: 180ml.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BFG8QLL/?tag=tolees-21)
