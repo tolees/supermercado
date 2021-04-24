@@ -28,10 +28,10 @@ Tienes [YourSurprise - Toblerone personalizado con Nombre - Barra de Toblerone l
 
 🔎:
 
-- Chocolate para disfrutar sin límites
-- Alerta de temperatura - Cuando la temperatura exterior sea de 25°C o superior, no podremos garantizar la calidad del chocolate. Si tienes alguna pregunta sobre pedidos de chocolate, comunícate con nuestro equipo de atención al cliente
 - Chocolate: leche y chocolate, miel, almendras y turrón.
-- Regalo original de chocolate
 - Personalizado con nombre o texto, ¡tú eliges!
+- Chocolate para disfrutar sin límites
+- Regalo original de chocolate
+- Alerta de temperatura - Cuando la temperatura exterior sea de 25°C o superior, no podremos garantizar la calidad del chocolate. Si tienes alguna pregunta sobre pedidos de chocolate, comunícate con nuestro equipo de atención al cliente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MQTG4MH/?tag=tolees-21)
