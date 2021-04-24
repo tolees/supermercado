@@ -28,10 +28,10 @@ Está [Vernel Suavizante Concentrado para la Ropa Cielo Azul - 54+3 Lavados  1.1
 
 ℹ️:
 
-- Pack eco-sostenible: El pack del Suavizante Vernel Cielo Azul facilita el reciclaje -botella hecha con 100% plástico reciclado
-- Experiencia aromática: Con el Suavizante Vernel Cielo Azul disfruta de una experiencia aromática que dura hasta 200 días (en ropa guardada en el armario) y le da a tu ropa la sensación de frescor como recién lavado
 - El Suavizante Vernel Cielo Azul está dermatológicamente aprobado
+- Experiencia aromática: Con el Suavizante Vernel Cielo Azul disfruta de una experiencia aromática que dura hasta 200 días (en ropa guardada en el armario) y le da a tu ropa la sensación de frescor como recién lavado
 - Fórmula Duo-Cap: La fórmula especialmente desarrollada del Suavizante Vernel Cielo Azul contiene cápsulas de perfume Duo-Cap únicas que se activan con cada movimiento y liberan un aroma adicional incluso días después del lavado
+- Pack eco-sostenible: El pack del Suavizante Vernel Cielo Azul facilita el reciclaje -botella hecha con 100% plástico reciclado
 - Suavidad garantizada: La cremosa fórmula del Suavizante Vernel Cielo Azul garantiza una suavidad increíble para tu ropa, protege las fibras y facilita el planchado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00X9UOZ6S/?tag=tolees-21)
