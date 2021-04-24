@@ -28,8 +28,8 @@ En este momento está [Lagarto Suavizante Talco Concentrado 70 Lavados 1500 g](h
 
 🔎:
 
-- Extra suavidad
 - Suavizante concentrado
+- Extra suavidad
 - Complemento del lavado a máquina
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BVDMR3P/?tag=tolees-21)
