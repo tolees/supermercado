@@ -29,9 +29,9 @@ En este momento está [Lavazza Café Molido Espresso Qualità Rossa  250 g](http
 🔎:
 
 - MIRAR Crema dorada y color cálido - AROMA Toques de chocolate - SABOR Redondo y de gran cuerpo
+- Con un aroma inconfundible que le da energía renovada y crea momentos mágicos
 - Lavazza café molido Espresso Qualità Rossa, 1 lata x 250 g
 - Arábica y Robusta, tostado medio, delicada intensidad (5)
-- Con un aroma inconfundible que le da energía renovada y crea momentos mágicos
 - Qualità Rossa es el placer de un buen café que las familias italianas siempre quieren tener a mano a la hora de la pausa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DDTJZYF/?tag=tolees-21)

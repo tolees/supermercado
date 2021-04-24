@@ -28,13 +28,13 @@ En este momento está [Pantene Pro-V Rizos Definidos Champú  Acondicionador Y T
 
 🔎:
 
+- Aporta al pelo Nutrientes ProV activos para fortalecerlo desde el interior
+- Sin aceites minerales y sin colorantes
+- Ayuda contra los daños causados por el peinado
+- Convierte las ondas encrespadas en rizos definidos, brillantes y flexibles
+- Champú, acondicionador y tratamiento 3 en 1 para pelo encrespado y rebelde
 - Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
 - Deja el pelo hidratado, suave y flexible
 - Testado por el Swiss Vitamin Institute
-- Sin aceites minerales y sin colorantes
-- Champú, acondicionador y tratamiento 3 en 1 para pelo encrespado y rebelde
-- Aporta al pelo Nutrientes ProV activos para fortalecerlo desde el interior
-- Ayuda contra los daños causados por el peinado
-- Convierte las ondas encrespadas en rizos definidos, brillantes y flexibles
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08YGB9X3Y/?tag=tolees-21)
