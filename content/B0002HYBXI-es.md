@@ -28,8 +28,8 @@ Ahora mismo tienes [Pustefix- Juego para Hacer pompas de jabón  70 ml  Multicol
 
 🔎:
 
-- Fabricado en Alemania
 - Estimula la creatividad del niño
+- Fabricado en Alemania
 - Gran calidad y diseño
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0002HYBXI/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Consuelo - cápsulas de café compatibles con Nespresso* - S
 
 🔎:
 
-- Envase de 100 cápsulas (10 cajas de 10 cápsulas)
-- Tostado y envasado en Italia
 - Composición: 100% granos de café Arábica seleccionados
+- Tostado y envasado en Italia
 - Intensidad 8
 - Una mezcla de los mejores granos 100% Arábica, dedicada a los amantes de los cafés afrutados y especiados.
+- Envase de 100 cápsulas (10 cajas de 10 cápsulas)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KSPXGKJ/?tag=tolees-21)
