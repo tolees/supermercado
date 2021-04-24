@@ -28,10 +28,10 @@ Está [ColaCao Turbo: Cacao Instantáneo y sin Grumitos - 1kg](https://www.amazo
 
 ℹ️:
 
-- Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente.
 - Tómatelo por la mañana o entre horas porque ya sabes que en poco tiempo está listo
-- Alérgenos: contiene trigo y soja; mantener en lugar fresco y seco
-- Se disuelve rápidamente en leche caliente y en leche fría, para que hagas eso tan tuyo ahora sin grumos
 - 71 raciones en su envase de 1kg, formato ahorro en su envase refill: 85% menos de plástico que un bote
+- Se disuelve rápidamente en leche caliente y en leche fría, para que hagas eso tan tuyo ahora sin grumos
+- Alérgenos: contiene trigo y soja; mantener en lugar fresco y seco
+- Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ITRZEYC/?tag=tolees-21)
