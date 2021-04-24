@@ -28,8 +28,8 @@ Está [ProYou Care - Revlon Proyou White Hair Shampoo Champú - 350 ml](https://
 
 ℹ️:
 
-- Tipo de producto: Champú
 - Marca: Revlon
 - Género: Mujer
+- Tipo de producto: Champú
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0036YDYPA/?tag=tolees-21)
