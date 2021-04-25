@@ -28,10 +28,10 @@ Tienes [Altos De Tamaron Vino Tinto D.O. Ribera del Duero Joven - 750 ml](https:
 
 ℹ️:
 
-- Joven
 - Tempranillo
-- 2009
 - DO Ribera del Duero
+- Joven
 - Vino tinto
+- 2009
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005GBDOII/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Hero Bolsita de Fruta Nanos Merienda Yogur Plátano Fresa
 
 🔎:
 
-- Sin aceite de palma, con proteinas y calcio ideales para el desarrollo de los más pequeños
-- La gama de bolsitas Hero mi merienda cuenta con una gran variedad de recetas ideales para la merienda de tu bebé. Presentados en un formato cómodo, práctico y divertido para mamás y bebés
 - Elaborado con frutas especialmente seleccionadas y calcio que aporta el yogur. Una mezcla de sabores y texturas ricas y agradables para tu bebé
+- La gama de bolsitas Hero mi merienda cuenta con una gran variedad de recetas ideales para la merienda de tu bebé. Presentados en un formato cómodo, práctico y divertido para mamás y bebés
+- Sin aceite de palma, con proteinas y calcio ideales para el desarrollo de los más pequeños
 - Formato bolsita 100 g. Para bebés a partir de 12 meses
 - Ingredientes: yogur pasteurizado Después De La Fermentación (42%), Purés Y Zumos De Fruta (40%) (Puré De Plátano (11%), Puré De Fresa (10%), Zumos De Pera Y Uva A Partir De Concentrado), Azúcar, Almidones (Maíz Y Arroz), Zumo De Limón A Partir De Concentrado, Mieral (Citrato Cálcico), Concentrado De Zanahoria Morada Y Rosella Negra Y Aromas Naturales
 
