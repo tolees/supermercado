@@ -28,10 +28,10 @@ En este momento está [Garnier Hyaluron Shot  Mascarilla antiestrés relajante p
 
 🔎:
 
-- Embellece el aspecto general de la piel
-- Hidrata en profundidad y nutre intensamente
-- Dermatológicamente probado
 - Restaura la elasticidad y la sensación de confort
 - Mascarilla para pieles secas
+- Dermatológicamente probado
+- Hidrata en profundidad y nutre intensamente
+- Embellece el aspecto general de la piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WL64YP8/?tag=tolees-21)
