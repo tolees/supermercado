@@ -28,9 +28,9 @@ En este momento está [Herbal Essences Sin Sulfatos Ni Siliconas  Ingredientes N
 
 🔎:
 
+- 1 x Acondicionador Herbal Essences 275 ml Sin sulfatos con aloe puro y cáñamo que ayuda a restaurar la suavidad del cabello
 - 2 x Champú Herbal Essences 380 ml para el cabello Sin Sulfatos ni Siliconas con aloe puro y hemp (cáñamo) que ayuda a restaurar la suavidad del cabello champú y controlar el encrespamiento
 - El sistema de champú y acondicionador sin sulfatos de Herbal Essences suaviza y ayuda a reparar los daños de la superficie con un 94%* de ingredientes de origen natural con agua purificada *(materiales de ingredientes de origen natural con un procesamiento limitado)
 - Nuestros productos están certificados por PETA.ORG por estar libres de crueldad animal
-- 1 x Acondicionador Herbal Essences 275 ml Sin sulfatos con aloe puro y cáñamo que ayuda a restaurar la suavidad del cabello
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DDFBNGJ/?tag=tolees-21)

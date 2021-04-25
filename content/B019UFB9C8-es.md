@@ -28,9 +28,9 @@ En este momento está [ZenPur Almohada Cervical Viscoelástica Bambú Orgánico 
 
 🔎:
 
-- ✔GARANTÍA: Marca francesa cuyos productos están fabricados en Europa e incluyen una garantía de 5 años, para que puedas comprar con confianza. Si no estás completamente satisfecho con nuestro producto o servicio por favor contáctanos de inmediato y te reembolsaremos tu dinero. Sólo los productos vendidos por ZenWorld España disfrutarán de la garantía ofrecida
 - ✔ALMOHADA MEMORY FOAM rellena de una espuma viscoelástica de alta densidad (40 kg/m3), que absorbe la electricidad estática acumulada durante el día y te permite tener un descanso más relajante y un sueño más profundo
 - ✔ALMOHADA ANTITRANSPIRANTE que permanecerá siempre seca y limpia, evitando la proliferación de bacterias y los malos olores tras una noche de sudor intenso
+- ✔GARANTÍA: Marca francesa cuyos productos están fabricados en Europa e incluyen una garantía de 5 años, para que puedas comprar con confianza. Si no estás completamente satisfecho con nuestro producto o servicio por favor contáctanos de inmediato y te reembolsaremos tu dinero. Sólo los productos vendidos por ZenWorld España disfrutarán de la garantía ofrecida
 - ✔ESTRUCTURA MICROPERFORADA: Los microporos de la Almohada Viscoelástica regulan la humedad garantizando una transpiración óptima y un control de la temperatura ideal
 - ✔ FUNDA DE BAMBÚ que sirven para evitar la proliferación de bacterias de manera activa. Lavable a máquina a 30º. Materiales no tóxicos con Certificados de cumplimiento Oeko-Tex Standard 100, que es la etiqueta ecológica líder mundial que asegura la calidad humano-ecológica de textiles
 

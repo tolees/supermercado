@@ -28,10 +28,10 @@ Tienes [Renova Servilletas De Papel Amarillas - 70 Servilletas](https://www.amaz
 
 ℹ️:
 
-- Extra Suaves
-- 1 Capa
-- Tamaño Medio (32x30cm servilleta abierta)
-- Color Amarillo
 - 70 Servilletas
+- Tamaño Medio (32x30cm servilleta abierta)
+- 1 Capa
+- Extra Suaves
+- Color Amarillo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XVKWQJE/?tag=tolees-21)
