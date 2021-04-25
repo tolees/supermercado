@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ElPozo Bienstar Jamón Cocido Bajo en Gra con un 19.00 % de descuento'
-date: 2021-04-22 17:28:28
+date: 2021-04-25 09:10:32
 image: 'https://m.media-amazon.com/images/I/41jdtLnyDGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [ElPozo Bienstar Jamón Cocido Bajo en Grasa  90g](https:/
 
 🔎:
 
-- Mantener refrigerado
 - Proteger de la luz solar
+- Mantener refrigerado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00MILJAR8/?tag=tolees-21)
