@@ -28,10 +28,10 @@ En este momento está [Sobres Bebidas Mix 9gr Sin Azucar - Todos los Sabores- Ch
 
 🔎:
 
-- LA BEBIDA IDEAL PARA TODA LA FAMILIA: Bebidas Mix es la alternativa saludable ideal para tod@s. Niños, adolescentes, adultos, personas Mayores.. Perfectas para incorporar en la Dieta. Sin Edulcorantes y sin Acesulfamo K
-- BEBIDAS INTANTANEAS SIN AZUCAR BAJAS EN KCAL: Todo el Sabor , Cero arrepentimientos. Con un sobre de Bebidas Mix de 9gr podrás Elaborár de forma inmediata un refresco de 1,5 litros o un batido de 0,75 litros
 - IDEALES PARA ELABORAR RECETAS: Con los sobres de Bebidas Mix y tu imaginación al poder, podrás crear Cientos de Platos saludables, Postres, Helados, Batidos..
 - SELECCIONA TUS SABORES FAVORITOS: Escoge los sobres de Bebidas Mix que más te gusten sin necesidad de comprar cajas de 12 o 24 unidades del mismo sabor.
+- BEBIDAS INTANTANEAS SIN AZUCAR BAJAS EN KCAL: Todo el Sabor , Cero arrepentimientos. Con un sobre de Bebidas Mix de 9gr podrás Elaborár de forma inmediata un refresco de 1,5 litros o un batido de 0,75 litros
 - MAS DE 60 SABORES: Entre los sabores de bebidas mix encontrarás todo tipo frutas y sabores dulces incluyendo muchos de los snacks más famosos.
+- LA BEBIDA IDEAL PARA TODA LA FAMILIA: Bebidas Mix es la alternativa saludable ideal para tod@s. Niños, adolescentes, adultos, personas Mayores.. Perfectas para incorporar en la Dieta. Sin Edulcorantes y sin Acesulfamo K
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TCB3YTB/?tag=tolees-21)
