@@ -28,8 +28,8 @@ En este momento está [Orlando Tomate Frito 295 g](https://www.amazon.es/dp/B084
 
 🔎:
 
-- No contiene
-- Ingredientes: tomate (170 g de tomate por 100 g de tomate frito), aceite de oliva virgen extra 3,5% (sofrito con cebolla y ajos frescos), azúcar, sal y fibra
 - País de origen: España
+- Ingredientes: tomate (170 g de tomate por 100 g de tomate frito), aceite de oliva virgen extra 3,5% (sofrito con cebolla y ajos frescos), azúcar, sal y fibra
+- No contiene
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084N3JJFR/?tag=tolees-21)
