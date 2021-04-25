@@ -28,10 +28,10 @@ Tienes [Elizabeth Arden - 5TH AVENUE UPTOWN NYC edp vaporizador](https://www.ama
 
 🔎:
 
-- Esencia con glamour
-- Fragancia intrigante que atrae al hombre moderno
 - Es una fragancia ideal para todos los días
 - Absorción rápida que ofrece a a la piel el perfume perfecto en balance
+- Esencia con glamour
 - Representa a una mujer con mucha presencia y fuerte personalidad
+- Fragancia intrigante que atrae al hombre moderno
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06Y5LT4MS/?tag=tolees-21)
