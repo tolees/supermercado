@@ -28,10 +28,10 @@ Tienes [NATURAL ZERO Syrup Chocolate - 4500 gr](https://www.amazon.es/dp/B07KQLX
 
 🔎:
 
-- Pack de 15 unidades. Cada unidad contiene 300 gramos, lo que equivale a unas 20 raciones aproximadamente.
-- El Sirope de Chocolate NaturalZERO puede ser utilizado en tu postre favorito, para hacer batidos o para poner la guinda final a tus tortitas de avena, frutas, crêpes, gofres, bizcochos, flanes, todo tipo de quesos, etc.
-- La alternativa perfecta para reducir calorías en la dieta, que hará que tus postres sean más dulces y sabrosos.
-- Sin grasas, sin azúcares, bajo valor energético, sin gluten, sin lactosa, apto para veganos, con stevia.
 - Envase cómodo y fácil de usar, con tapón antigoteo para evitar fugas y manchas.
+- El Sirope de Chocolate NaturalZERO puede ser utilizado en tu postre favorito, para hacer batidos o para poner la guinda final a tus tortitas de avena, frutas, crêpes, gofres, bizcochos, flanes, todo tipo de quesos, etc.
+- Sin grasas, sin azúcares, bajo valor energético, sin gluten, sin lactosa, apto para veganos, con stevia.
+- Pack de 15 unidades. Cada unidad contiene 300 gramos, lo que equivale a unas 20 raciones aproximadamente.
+- La alternativa perfecta para reducir calorías en la dieta, que hará que tus postres sean más dulces y sabrosos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KQLXR9S/?tag=tolees-21)
