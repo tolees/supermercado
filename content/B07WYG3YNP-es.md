@@ -29,9 +29,9 @@ En este momento está [Note d Espresso Italiano - Cápsulas de café de Nicaragu
 🔎:
 
 - Un café 100 % natural tostado y molido en Italia
+- Dosis recomendada de agua 40 ml
 - Un expreso italiano tradicional en una pequeña cápsula de 7 gramos
 - Práctica caja de 96 unidades
 - Exclusivamente Compatibles con cafeteras de cápsulas Nescafé* y Dolce Gusto* (* No registrado en Amazon EU S.a.r.l.)
-- Dosis recomendada de agua 40 ml
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WYG3YNP/?tag=tolees-21)
