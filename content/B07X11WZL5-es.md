@@ -28,9 +28,9 @@ Tienes [Note d Espresso Italiano - Bolsitas de Café de Brasil - 150 x 7 g  Tota
 
 ℹ️:
 
-- Para disfrutar de un café de calidad
-- Hechos en Italia
 - Compatibles con bolsitas de papel de 44 mm
 - Un café 100 % natural tostado en Italia
+- Para disfrutar de un café de calidad
+- Hechos en Italia
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07X11WZL5/?tag=tolees-21)
