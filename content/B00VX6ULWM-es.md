@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VX6ULWM-es Revlon ColorStay Base de Maquillaje piel normal/seca FPS20...'
 sku: 'B00VX6ULWM-es'
-tags: [ 'revlon', ]
+tags: [ 'maquillaje','revlon', ]
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

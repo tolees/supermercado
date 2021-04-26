@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZCPCBD-es Almohadillas Desmaquilladoras Reutilizables Bambú Suave O...'
 sku: 'B07QZCPCBD-es'
-tags: [ 'desmaquilladoras', ]
+tags: [ 'desmaquilladoras','maquillaje', ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

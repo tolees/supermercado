@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074N2PHP9-es L Oréal Paris Accord Parfait Base de maquillaje acabado...'
 sku: 'B074N2PHP9-es'
-tags: [ 'oréal', ]
+tags: [ 'maquillaje','oréal', ]
 actualPrice: 6.76 EUR
 currency: EUR
 price: 6.76

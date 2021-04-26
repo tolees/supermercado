@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0047X8LSE-es Rimmel London Lasting Finish Foundation 25H Base de...'
 sku: 'B0047X8LSE-es'
-tags: [ 'finish', ]
+tags: [ 'finish','maquillaje', ]
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25
