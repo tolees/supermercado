@@ -29,8 +29,8 @@ Está [Ymea Vientre Plano - Tratamiento de la Menopausia  Apto para uso prolonga
 ℹ️:
 
 - Enriquecido con Lactaserum
+- Contiene 64 cápsulas
 - Formulado con ácido L-Láctico biológico
 - Ayuda a quemar la grasa y a aliviar la hinchazón abdominal
-- Contiene 64 cápsulas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08WDCR326/?tag=tolees-21)

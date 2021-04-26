@@ -29,9 +29,9 @@ Ahora mismo tienes [Gel de higiene íntima diario Lactacyd Íntimo 400 ml  pH eq
 🔎:
 
 - Indicado para la higiene íntima diaria: hipoalergénico, no contiene jabón ni sustancias alcalinas
-- Formulado con Ácido L-Láctico biológico (pH=4.7). DermatológicamentFormulado con Ácido L-Láctico biológico (pH=4.7). Dermatológicamente testadoe testado
-- Respeta el equilibrio natural de la zona íntima
-- Formato 400ml. Regalo: 10 toallitas individuales
 - Enriquecido con Lactoserum
+- Formulado con Ácido L-Láctico biológico (pH=4.7). DermatológicamentFormulado con Ácido L-Láctico biológico (pH=4.7). Dermatológicamente testadoe testado
+- Formato 400ml. Regalo: 10 toallitas individuales
+- Respeta el equilibrio natural de la zona íntima
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00X3Y2PGW/?tag=tolees-21)
