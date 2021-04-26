@@ -28,9 +28,9 @@ Tienes [Ymea Vientre Plano | Tratamiento de la Menopausia | Control de Sofocos y
 
 ℹ️:
 
+- Hinchazon abdominal - Ayuda a quemar la grasa y a aliviar la hinchazón abdominal
 - Contiene una exclusiva mezcla de extractos de orifen natural, vitaminas y minerales
 - NO CONTIENE: estrógenos, soja o conservantes
-- Hinchazon abdominal - Ayuda a quemar la grasa y a aliviar la hinchazón abdominal
 - Apto para un uso prolongado
 - Control de los Sofocos - Ayuda a reducir los sofocos, los sudores nocturnos y los cambios de humor
 
