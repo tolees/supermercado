@@ -28,10 +28,10 @@ Ahora mismo tienes [Bolero Sticks  12 x 3g   Orange](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Sin calorías, por lo que puede ser un gran apoyo durante la dieta
-- Con los Bolero Sticks, la degustación de agua puede transformarse en un verdadero placer, perfecto en la vida diaria o en el deporte
-- Con un sabor delicioso y único, disponible en muchos sabores diferentes
 - Para un refresco óptimo en la vida diaria o durante el deporte
+- Con los Bolero Sticks, la degustación de agua puede transformarse en un verdadero placer, perfecto en la vida diaria o en el deporte
+- Sin calorías, por lo que puede ser un gran apoyo durante la dieta
 - Completamente sin azúcar, contiene sólo edulcorantes y stevia
+- Con un sabor delicioso y único, disponible en muchos sabores diferentes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073YF3TC2/?tag=tolees-21)

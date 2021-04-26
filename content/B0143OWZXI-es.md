@@ -29,9 +29,9 @@ En este momento está [Ginebra premium Ampersand London Dry Gin - 1 botella de 7
 🔎:
 
 - Acabado: Larga duración.
-- Nariz: Aromas frutales, frescos, cítricos intensos, enebro.
 - Color: claro.
-- Sabor: Armonioso, fresco y afrutado, notas de enebro, cítricos.
+- Nariz: Aromas frutales, frescos, cítricos intensos, enebro.
 - perfecto como un regalo
+- Sabor: Armonioso, fresco y afrutado, notas de enebro, cítricos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0143OWZXI/?tag=tolees-21)

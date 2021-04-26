@@ -29,8 +29,8 @@ Tienes [AXE Bodyspray Desodorante Leather and Cookies 200 ml - Pack de 6](https:
 ℹ️:
 
 - Una mezcla inesperada de cuero y cookies, con toques de mandarina, cardamomo y cuero
-- Mantente fresco por más tiempo
 - AXE Desodorante Bodyspray Leather & Cookies 200ml
+- Mantente fresco por más tiempo
 - Axe Leather & Cookies, no debería funcionar pero funciona
 - Cuero y cookies: dos ingredientes que chocan y que parece que no funcionen, pero que crean una fragancia
 
