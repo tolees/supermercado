@@ -28,9 +28,9 @@ Tienes [Baileys Chocolat Luxe Crema de Whisky  500ml](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Sírvalo con hielo y una frambuesa fresca para obtener una presentación Rococco
-- Medalla de oro en la San Francisco Spirits Competition 2014
 - Baileys Chocolat Luxe, desarrollado durante tres años, contiene 30 g de chocolate belga en cada botella
+- Sírvalo con hielo y una frambuesa fresca para obtener una presentación Rococco
 - Un lujoso capricho de cacao amargo con el delicioso toque de caramelo del Baileys original
+- Medalla de oro en la San Francisco Spirits Competition 2014
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00F0SJRG0/?tag=tolees-21)

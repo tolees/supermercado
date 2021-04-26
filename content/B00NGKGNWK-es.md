@@ -28,9 +28,9 @@ Tienes [Lactacyd Pharma Delicado - Cuidado especial de uso diario para mucosa se
 
 ℹ️:
 
+- Descripción detallada más abajo.
+- Sin jabón. Dermatológicamente testado
 - Formato 250ml
 - Formulado con Ácido L-Láctico biológico (pH=3.5). Sin perfume
-- Sin jabón. Dermatológicamente testado
-- Descripción detallada más abajo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NGKGNWK/?tag=tolees-21)
