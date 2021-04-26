@@ -28,9 +28,9 @@ Ahora mismo tienes [Ymea Vientre Plano - Tratamiento de la Menopausia  Control d
 
 🔎:
 
+- Contiene 64 cápsulas
+- Formulado con ácido L-Láctico biológico
 - Ayuda a quemar la grasa y a aliviar la hinchazón abdominal
 - Enriquecido con complejo L2Gtm hidratante
-- Formulado con ácido L-Láctico biológico
-- Contiene 64 cápsulas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08WD9LX57/?tag=tolees-21)

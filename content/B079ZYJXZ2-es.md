@@ -28,11 +28,11 @@ Ahora mismo tienes [BONKA Café Molido de Tueste Natural Puro Colombia y Cultivo
 
 🔎:
 
+- Un café 100% arábica
 - En BONKA, buscamos y seleccionamos el café en el lugar donde confluyen las condiciones idóneas para su cultivo, y ese lugar es el TRÓPICO Allí crecen los mejores granos de Robusta, más estimulantes, y con fuerza, y de Arábica, más delicados y suaves
 - Con BONKA, no renuncias a disfrutar del auténtico carácter del café, la intensidad y el aroma que el trópico aporta a cada taza
-- BONKA es el café óptimo para cualquier momento del día: desayuno, sobremesa o una pausa
 - Café recomendado para cafetera italiana, de filtro y express
-- Un café 100% arábica
 - BONKA es un café cumple con todos los estándares de sostenibilidad definidos en el Código de Conducta 4C
+- BONKA es el café óptimo para cualquier momento del día: desayuno, sobremesa o una pausa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079ZYJXZ2/?tag=tolees-21)
