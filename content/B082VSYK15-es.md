@@ -28,8 +28,8 @@ Tienes [Haribo Favoritos Pica Caramelos de Goma  275g](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Irresistible mix de sabores
 - Delicioso mix de diferentes piezas recubiertas de pica
+- Irresistible mix de sabores
 - Caramelos de goma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B082VSYK15/?tag=tolees-21)

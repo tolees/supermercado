@@ -29,7 +29,7 @@ En este momento está [La Virgen Cerveza Artesana IPA  Botella  330ml](https://w
 🔎:
 
 - Cerveza lupulada en fresco con lupulos citra y cascade
-- Disponible todo el ano
 - Intenso sabor a lúpulo y equilibrio maltoso
+- Disponible todo el ano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PCDWST3/?tag=tolees-21)
