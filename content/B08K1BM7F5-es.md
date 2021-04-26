@@ -29,11 +29,11 @@ Tienes [Ron premium Flor de Caña 12 años 70cl - estuche con copa Flor de Caña
 ℹ️:
 
 - Naturalmente añejado sin ingredientes artificiales
+- Contenido de alcohol (alc/vol.): 40.0 porcentaje por volumen
 - Flor de Caña ha ganado más de 180 premios a nivel internacional, convirtiéndolo en unos de los rones Premium más premiados del mundo
-- Un ron de 12 años producido de manera sostenible (certificado Carbono Neutral y Fair Trade) y con cero contenido de azúcar
 - Flor de Caña es un ron producido de manera sostenible, certificado Carbono Neutral y Fair Trade
 - Producido de Manera Sostenible, del Campo a la Botella
+- Un ron de 12 años producido de manera sostenible (certificado Carbono Neutral y Fair Trade) y con cero contenido de azúcar
 - Volumen: 0.7 liters
-- Contenido de alcohol (alc/vol.): 40.0 porcentaje por volumen
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08K1BM7F5/?tag=tolees-21)
