@@ -28,10 +28,10 @@ Tienes [Chivas Regal Extra Whisky Escocés de Mezcla - 700 ml](https://www.amazo
 
 🔎:
 
+- Sabor: fruta, vainilla, caramelo, caramelo, canela, almendras.
+- Acabado: Larga duración.
 - Nariz: Ricos aromas, peras maduras, vainilla, caramelo.
 - Color: Ámbar brillante.
-- Sabor: fruta, vainilla, caramelo, caramelo, canela, almendras.
 - perfecto como un regalo
-- Acabado: Larga duración.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B013H2TO4U/?tag=tolees-21)

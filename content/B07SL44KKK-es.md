@@ -28,14 +28,14 @@ Tienes [Ginebra premium Ampersand Gin sabor arándanos 37.5º 70 cl](https://www
 
 🔎:
 
-- Procedencia: Spain
-- Contenido de alcohol (alc/vol): 37.5 percent by volume
-- Sabor: equilibrado, floral, afrutado, arándano
-- Acabado: larga duración, suave
 - Nariz: frutal, notas de arándanos jugosos, frutas del bosque
+- Sabor: equilibrado, floral, afrutado, arándano
+- Tipo de alcohol: Liquors
 - Color: azul claro
 - Como servir: Serve at room temperature
 - Perfecto como un regalo
-- Tipo de alcohol: Liquors
+- Acabado: larga duración, suave
+- Procedencia: Spain
+- Contenido de alcohol (alc/vol): 37.5 percent by volume
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SL44KKK/?tag=tolees-21)

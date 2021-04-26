@@ -29,9 +29,9 @@ Ahora mismo tienes [Nocilla Fluida Blanca - 2kg](https://www.amazon.es/dp/B085QM
 🔎:
 
 - Fórmula fluida sin necesidad de calentar. Sin aceite de palma.
-- Alérgenos: Este producto contiene leche, avellanas y soja y puede contener frutos de cáscara. Mantener fuera del frigorífico, en lugar fresco y seco
-- Envase de 2kg dando un rendimiento de 67 crepes o croissants aproximadamente. Apta también para el sector profesional para cubetas, inyectoras y mangas pasteleras
-- Ideal para rellenar croissants, magdalenas, coulants, buñuelos,... o como topping para helados, pasteles, crepes o gofres
 - Nocillear es convertir un alimento rico en algo aún más delicioso, añadiendo Nocilla para crear un momento de felicidad de la buena y sin aceite de palma
+- Envase de 2kg dando un rendimiento de 67 crepes o croissants aproximadamente. Apta también para el sector profesional para cubetas, inyectoras y mangas pasteleras
+- Alérgenos: Este producto contiene leche, avellanas y soja y puede contener frutos de cáscara. Mantener fuera del frigorífico, en lugar fresco y seco
+- Ideal para rellenar croissants, magdalenas, coulants, buñuelos,... o como topping para helados, pasteles, crepes o gofres
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085QMMKF2/?tag=tolees-21)

@@ -29,9 +29,9 @@ En este momento está [Fairy Extra Higiene Lavavajillas a Mano  Antibacterial  4
 🔎:
 
 - Espuma abundante con una sola gota y aclarado fácil
-- Lavavajillas líquido, fórmula concentrada que actúa inmediatamente contra la grasa para dejar los platos limpios y relucientes mientras que protege la esponja contra las bacterías durante 24 horas
 - Aroma eucaplípto
-- Nuestra fórmula respeta la piel por lo que no es necesario usar guantes
 - Limpieza eficaz; elimina los restos de grasa por completo sin necesidad de dejar los platos y cubiertos a remojo
+- Nuestra fórmula respeta la piel por lo que no es necesario usar guantes
+- Lavavajillas líquido, fórmula concentrada que actúa inmediatamente contra la grasa para dejar los platos limpios y relucientes mientras que protege la esponja contra las bacterías durante 24 horas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MMCQQR8/?tag=tolees-21)
