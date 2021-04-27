@@ -28,10 +28,10 @@ Ahora mismo tienes [Estrella 2 en 1 Lejía con Detergente Pino  Desinfección y 
 
 🔎:
 
-- Desinfección y limpieza sin huella: Estrella Lejía y Detergente Pino Limpiador para el Hogar es un producto contra virus, hongos y bacterias
-- Combate los malos olores dejando una fragancia fresca para tu hogar gracias a Estrella Lejía y Detergente Pino Limpiador para el Hogar
 - Estrella Lejía y Detergente Pino Limpiador para el Hogar 2 en 1: El Limpiahogar Estrella Pino contiene tanto lejía como detergente ofreciendo resultados óptimos
 - Garantiza la higiene óptima de todo el hogar con Estrella Lejía y Detergente Pino Limpiador para el Hogar
+- Desinfección y limpieza sin huella: Estrella Lejía y Detergente Pino Limpiador para el Hogar es un producto contra virus, hongos y bacterias
 - Garantiza la máxima desinfección y limpia en profundidad dejando tu hogar impecable con Estrella Lejía y Detergente Pino Limpiador para el Hogar
+- Combate los malos olores dejando una fragancia fresca para tu hogar gracias a Estrella Lejía y Detergente Pino Limpiador para el Hogar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082PGMXKH/?tag=tolees-21)
