@@ -28,11 +28,11 @@ Tienes [Antaño Viura - Vino Blanco D.O. Rioja - Caja de 6 Botellas x 750 ml](ht
 
 ℹ️:
 
-- Maridaje: Antaño Blanco es un acompañante ideal para pescados blancos, mariscos, verduras y patés.
-- Gusto: La entrada en boca es fresca, con una acidez equilibrada, mostrando posteriormente una agradable y persistente evolución.
 - Apariencia: Antaño Cosecha Blanco es un vino de color amarillo pálido, con leves tonos pajizos.
-- Tipo de uva: Este vino blanco, es elaborado a partir de la selección de las uvas viura.
-- Aroma: Su aroma aparece franco, afrutado, meloso y ligeramente herbáceo, con matices característicos de la variedad Viura.
+- Maridaje: Antaño Blanco es un acompañante ideal para pescados blancos, mariscos, verduras y patés.
 - Consumo: Recomendamos servir el vino Antaño Rioja Blanco entre 8 y 10º C.
+- Aroma: Su aroma aparece franco, afrutado, meloso y ligeramente herbáceo, con matices característicos de la variedad Viura.
+- Gusto: La entrada en boca es fresca, con una acidez equilibrada, mostrando posteriormente una agradable y persistente evolución.
+- Tipo de uva: Este vino blanco, es elaborado a partir de la selección de las uvas viura.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07C5DLMVW/?tag=tolees-21)
