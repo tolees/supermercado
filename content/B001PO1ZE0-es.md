@@ -28,10 +28,10 @@ Tienes [Tanqueray Rangpur Ginebra  1000ml](https://www.amazon.es/dp/B001PO1ZE0/?
 
 ℹ️:
 
-- Nariz: Fresca y afrutada, con toques de enebro
 - Color: claro
-- ¡Se disfruta mejor con un agua tónica de primera calidad y una rodaja de lima!
 - Sabor: Suave e intenso aroma a cítricos, a lima
+- ¡Se disfruta mejor con un agua tónica de primera calidad y una rodaja de lima!
+- Nariz: Fresca y afrutada, con toques de enebro
 - Acabado: Larga duración
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001PO1ZE0/?tag=tolees-21)
