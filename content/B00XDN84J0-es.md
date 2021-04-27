@@ -28,8 +28,8 @@ Tienes [Cheetos Rizos Aperitivo de Maíz Horneado  100g](https://www.amazon.es/d
 
 ℹ️:
 
+- Contiene lactosa
 - Puede contener trazas de gluten
 - Conservar en lugar fresco y seco
-- Contiene lactosa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDN84J0/?tag=tolees-21)
