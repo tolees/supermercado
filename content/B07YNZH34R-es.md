@@ -28,8 +28,8 @@ Tienes [Axe déodorant homme spray Provocation 150 ml](https://www.amazon.es/dp/
 
 🔎:
 
+- Tipo de producto - Desodorante spray
 - Marca - Axe
 - Género - Hombre
-- Tipo de producto - Desodorante spray
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YNZH34R/?tag=tolees-21)
