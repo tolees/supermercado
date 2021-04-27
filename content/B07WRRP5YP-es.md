@@ -29,7 +29,7 @@ Tienes [Haribo Mega Torcidas Fresa Sin Gluten 175 g](https://www.amazon.es/dp/B0
 ℹ️:
 
 - Geles dulces
-- Deliciosas piezas largas en forma de stick de regaliz rojo
 - Con un irresistible sabor a fresa; sin gluten
+- Deliciosas piezas largas en forma de stick de regaliz rojo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07WRRP5YP/?tag=tolees-21)
