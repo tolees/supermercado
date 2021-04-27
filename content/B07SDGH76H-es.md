@@ -28,11 +28,11 @@ Está [Marca Amazon – Happy Belly Select Bolsitas de té negro Earl Grey  6 x
 
 ℹ️:
 
-- Con hojas de té negro enrolladas
-- Infusión de tonos claros rojizo y ámbar, con toques cobrizos
-- Té negro. Earl Grey. Con certificado UTZ
-- Contenido: 6 paquetes de 25 pirámides cada uno
-- Con el punto reconfortante, agradable y relajante de la bergamota
 - Elaborado únicamente con ingredientes naturales
+- Té negro. Earl Grey. Con certificado UTZ
+- Con el punto reconfortante, agradable y relajante de la bergamota
+- Infusión de tonos claros rojizo y ámbar, con toques cobrizos
+- Con hojas de té negro enrolladas
+- Contenido: 6 paquetes de 25 pirámides cada uno
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SDGH76H/?tag=tolees-21)

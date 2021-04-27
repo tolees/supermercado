@@ -31,8 +31,8 @@ Tienes [Marca Amazon – Happy Belly Select Bolsitas de té con frutos del bosqu
 - Té frutal. Frutos del bosque
 - Elaborado únicamente con ingredientes naturales
 - Contenido: 4 paquetes de 15 pirámides cada uno
-- Con hojas y flores
 - Infusión de tono rojizo, rica en sabores afrutados
 - Dulce, ligeramente ácida y con un toque floral
+- Con hojas y flores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SC9W9SV/?tag=tolees-21)
