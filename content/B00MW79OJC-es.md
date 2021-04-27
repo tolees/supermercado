@@ -28,9 +28,9 @@ Tienes [Yankee Candle Vela en un Vaso Doze  Espumoso de Canela  Rojo  Frasco gra
 
 🔎:
 
-- El perfume es de ingredientes con aceites esenciales naturales
 - Vela perfumada en jarra de cristal
-- Tiempo de quemado entre 110 y 150 horas
 - Con cera parafina que proporciona una quemadura limpia y consistente
+- Tiempo de quemado entre 110 y 150 horas
+- El perfume es de ingredientes con aceites esenciales naturales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00MW79OJC/?tag=tolees-21)

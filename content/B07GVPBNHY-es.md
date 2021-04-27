@@ -28,9 +28,9 @@ Ahora mismo tienes [Dicora UrbanFit - Dicora Urban Fit® Jabón De Manos Vitamin
 
 🔎:
 
-- Extractos naturales: nueces y almendras
-- Jabón de manos nutritivo con esencia exquisita de nueces y leche de almendras.
 - Cuidado extra hidratante para una piel en forma.
+- Jabón de manos nutritivo con esencia exquisita de nueces y leche de almendras.
 - La vitamina B ayuda a conseguir un alto rendimiento a lo largo del día y es idónea para afrontar una actividad física.
+- Extractos naturales: nueces y almendras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GVPBNHY/?tag=tolees-21)

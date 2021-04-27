@@ -28,9 +28,9 @@ Ahora mismo tienes [Maizena Potax Preparado para Flanes y Natillas  192g](https:
 
 🔎:
 
+- Sabor vainilla
 - Puede contener Huevos y/o productos a base de huevos
 - Ideal para tus postres
-- Sabor vainilla
 - Te ayudan preparar de forma rápida y sencilla deliciosos platos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BLP7RSG/?tag=tolees-21)
