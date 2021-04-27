@@ -28,10 +28,10 @@ En este momento está [Nivea Hyaluron Cellular Filler Cuidado de Día FP15  Anti
 
 🔎:
 
-- Contenido del envío: Nivea Hyaluron Cellular Filler Cuidado de Día FP15, con ácido hialurónico y creatina, 1 x 50 ml, bote
-- Todo tipo de pieles - la crema hidratante antiarrugas Nivea Hyaluron Cellular Filler está pensada para todo tipo de pieles y aporta la hidratación necesaria
 - Cuidado de día - esta crema de día con ácido hialurónico de Nivea mantiene la piel suave y sedosa, aportándole la firmeza que necesita día a día
-- Protección solar - gracias al FP15, esta crema hidratante facial previene el daño celular y evita la aparición de las manchas producidas por el sol
+- Todo tipo de pieles - la crema hidratante antiarrugas Nivea Hyaluron Cellular Filler está pensada para todo tipo de pieles y aporta la hidratación necesaria
+- Contenido del envío: Nivea Hyaluron Cellular Filler Cuidado de Día FP15, con ácido hialurónico y creatina, 1 x 50 ml, bote
 - Crema antienvejecimiento - con su fórmula con ácido hialurónico y creatina, esta crema hidratante con protector solar rellena las arrugas desde el interior
+- Protección solar - gracias al FP15, esta crema hidratante facial previene el daño celular y evita la aparición de las manchas producidas por el sol
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XJP8V18/?tag=tolees-21)

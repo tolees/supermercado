@@ -28,10 +28,10 @@ Ahora mismo tienes [TATAY 1167101 - Portasandwich - Porta bocadillos para pan de
 
 🔎:
 
+- 14 x 4 x 18
 - Colores surtidos
 - Ecológico y reutilizable. Libre de BPA
 - Hermético
-- 14 x 4 x 18
 - Apto para microondas, congelador y lavavajillas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XA942YI/?tag=tolees-21)
