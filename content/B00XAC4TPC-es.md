@@ -29,9 +29,9 @@ Tienes [Colgate - Triple Action - Enjuague bucal - 500 ml](https://www.amazon.es
 🔎:
 
 - Proporciona aliento fresco
-- Fortalece el esmalte
-- Ayuda a combatir las caries
-- Enjuague bucal con flúor y triple acción
 - Elimina eficazmente la placa bacteriana
+- Enjuague bucal con flúor y triple acción
+- Ayuda a combatir las caries
+- Fortalece el esmalte
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XAC4TPC/?tag=tolees-21)
