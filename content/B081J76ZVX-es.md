@@ -29,9 +29,9 @@ Está [L Oréal - Infalible 24h Matte Cover base de maquillaje](https://www.amaz
 ℹ️:
 
 - Textura fluida que se adapta a tu piel
-- Aplicar sobre la piel lavada, en todo el rostro y cuello para un tono y acabado uniforme
 - Máxima cobertura mate durante todo el día para una piel sin brillos 24h
-- Base de maquillaje mate de larga duración
+- Aplicar sobre la piel lavada, en todo el rostro y cuello para un tono y acabado uniforme
 - Resiste al agua, resistente al sudor, resistente al calor
+- Base de maquillaje mate de larga duración
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081J76ZVX/?tag=tolees-21)

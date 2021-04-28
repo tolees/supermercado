@@ -29,7 +29,7 @@ Tienes [L Oréal Paris Elvive Dream Long Sérum Stop Frizz Anti Encrespamiento -
 🔎:
 
 - Anti encrespamiento y anti electricidad estática
-- Alarga tu melena hasta 4 cm
 - Sérum anti encrespamiento para cabello largo sin aclarado; protege hasta 230 grados Celsius
+- Alarga tu melena hasta 4 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084K39WSG/?tag=tolees-21)
