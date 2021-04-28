@@ -28,10 +28,10 @@ En este momento está [Outsunny Juego de 2 Mesas de Café Φ70x50 cm y Φ50x43 c
 
 🔎:
 
+- ✅MEDIDAS TOTALES: (Grande) Φ70x50 cm (DiámxAL), (Pequeño) Φ50x43 cm (DiámxAL); Peso máximo soportado: 25 kg
+- ✅CONJUNTO DE MESAS: Ahórrate problemas de combinación entre tu mobiliario, con este conjunto de dos mesitas. Puedes usarlas juntas o por separado y darles diferentes funcionalidades. Úsalas cómo mesitas de noche, mesas auxiliares en la zona de sofás, mesas de centro y más
+- ✅FÁCILES DE MONTAR: Este conjunto de mesitas requiere de un montaje fácil y rápido. Siguiendo las instrucciones adjuntas tendrá montada sus mesas en minutos, listas para usarlas en su sala de estar, dormitorio, etc.
 - ✅AHORRO DE ESPACIO: Úsalas de forma conjunta o separada según tus necesidades. Y cuando no vayas a usarlas o las quieras transportar o almacenar, puedes poner la pequeña debajo de la grande ahorrando espacio de uso y facilitando su traslado
 - ✅ELEGANTES Y MODERNAS: Estas mesas de estilo moderno y elegante, están hechas de metal resistente y lacadas en color blanco. Aptas para usar en interior y exterior
-- ✅MEDIDAS TOTALES: (Grande) Φ70x50 cm (DiámxAL), (Pequeño) Φ50x43 cm (DiámxAL); Peso máximo soportado: 25 kg
-- ✅FÁCILES DE MONTAR: Este conjunto de mesitas requiere de un montaje fácil y rápido. Siguiendo las instrucciones adjuntas tendrá montada sus mesas en minutos, listas para usarlas en su sala de estar, dormitorio, etc.
-- ✅CONJUNTO DE MESAS: Ahórrate problemas de combinación entre tu mobiliario, con este conjunto de dos mesitas. Puedes usarlas juntas o por separado y darles diferentes funcionalidades. Úsalas cómo mesitas de noche, mesas auxiliares en la zona de sofás, mesas de centro y más
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RYCTBRD/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [Rimmel London Lasting Finish Foundation 25H Base de Maquillaje Tono 203 
 ℹ️:
 
 - Indicado para pieles secas
-- Alta cobertura para un acabado perfecto
+- 25 horas de acabado perfecto
 - Fórmula resistente al calor, la humedad y no mancha. SPF 20
 - Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior del rostro
-- 25 horas de acabado perfecto
+- Alta cobertura para un acabado perfecto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00C2U9HP0/?tag=tolees-21)
