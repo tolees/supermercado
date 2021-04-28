@@ -28,10 +28,10 @@ Está [Tableta de chocolate negro Lindt Excellence 85% Cacao - 100 g  pack de 5]
 
 ℹ️:
 
+- Elaborado con los mejores ingredientes, incluidas habas de cacao puro procedentes de fuentes sostenibles
 - Disfruta de un placer para los sentidos con un chocolate vegano finísimo, pero excepcionalmente intenso, con un alto contenido en cacao puro
 - Tableta de chocolate negro Lindt Excellence 85% Cacao con un fuerte aroma y intenso sabor a cacao.
-- Lindt lleva perfeccionando el arte del más exquisito chocolate negro desde los años 80
-- Elaborado con los mejores ingredientes, incluidas habas de cacao puro procedentes de fuentes sostenibles
 - Para verdaderos expertos en chocolate, ideal para disfrutarlo con amigos o acompañado de una taza de buen café
+- Lindt lleva perfeccionando el arte del más exquisito chocolate negro desde los años 80
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IURPOFK/?tag=tolees-21)

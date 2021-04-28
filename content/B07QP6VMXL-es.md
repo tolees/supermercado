@@ -28,10 +28,10 @@ Está [SIGHTLING - PHOERA 30ml Maquillaje Correctores Líquido para Ojeras Acné
 
 ℹ️:
 
-- Es conveniente para almacenar y transportar, ideal para viajar. Cobertura natural que deja la piel fresca, respirable y natural.
 - Textura fina y suave, maquillaje delicado pero con un aspecto natural. El mejor regalo para su esposa, novia, madre, hermana, amigos y todos los amantes de la belleza.
-- Puede cubrir las manchas, la piel oscura y gruesa, los poros voluminosos, etc. Duradero, corrector, aceite, abrillantador, humectante.
+- Es conveniente para almacenar y transportar, ideal para viajar. Cobertura natural que deja la piel fresca, respirable y natural.
 - Contiene una composición reparadora blanqueadora e hidratante, protege la piel. Foundation es un tratamiento de base ligero que aumenta la luminosidad para dejar la piel suave y sedosa.
 - Textura suave, duradera, blanqueadora. Nutriente hidratante refrescante. Haz que tu piel se vea mucho más perfecta. Cobertura total, pueden las pestañas y los defectos invisibles.
+- Puede cubrir las manchas, la piel oscura y gruesa, los poros voluminosos, etc. Duradero, corrector, aceite, abrillantador, humectante.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QP6VMXL/?tag=tolees-21)

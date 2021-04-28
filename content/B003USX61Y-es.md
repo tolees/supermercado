@@ -28,8 +28,8 @@ Está [Catunambú - Café Natural de Grano Tostado  Original  500 Gramos](https:
 
 ℹ️:
 
-- Alérgenos: No posee
 - Ingredientes: café
+- Alérgenos: No posee
 - Una vez abierto, conservar en lugar fresco y seco
 - País de origen: España
 

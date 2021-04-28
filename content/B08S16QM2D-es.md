@@ -28,9 +28,9 @@ Ahora mismo tienes [TOPICO 56-0304260 Strongly - Taza de café  bambú y plásti
 
 🔎:
 
-- Taza de café Strongly
 - Capacidad: aprox. 300 ml
 - Con asa
 - Compuesto de materias primas renovables y polipropileno
+- Taza de café Strongly
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08S16QM2D/?tag=tolees-21)

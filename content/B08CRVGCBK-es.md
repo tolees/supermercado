@@ -28,10 +28,10 @@ En este momento está [ELBBUB - Fresh Wear Base de Maquillaje de Larga Duración
 
 🔎:
 
-- ✔️【¡UN POQUITO BASTA! 】 Con la aplicación de una cantidad muy pequeña de nuestra crema líquida, puede cubrir un área grande de la piel.
+- ✔️【HIPOALERGÉNICO, SIN PARABENOS O CONSERVANTES】Aplica una pequeña cantidad en el centro de la frente, nariz, barbilla y mejillas; repártela uniformemente por todo el rostro con ayuda de las yemas de tus dedos o nuestra brocha
 - ✔️【EL TONO PERFECTO】Apto para pieles grasas y sensibles gracias a su textura fina y no grasa, no comedogénica
 - ✔️【CONVENIENCIA】Es conveniente para almacenar y transportar, ideal para viajar. Cobertura natural que deja la piel fresca, respirable y natural.
 - ✔️【OTAL COBERTURA】La base de maquillaje sin efecto máscara, de alta cobertura y acabado mate para un resultado excelente las 24 horas
-- ✔️【HIPOALERGÉNICO, SIN PARABENOS O CONSERVANTES】Aplica una pequeña cantidad en el centro de la frente, nariz, barbilla y mejillas; repártela uniformemente por todo el rostro con ayuda de las yemas de tus dedos o nuestra brocha
+- ✔️【¡UN POQUITO BASTA! 】 Con la aplicación de una cantidad muy pequeña de nuestra crema líquida, puede cubrir un área grande de la piel.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CRVGCBK/?tag=tolees-21)

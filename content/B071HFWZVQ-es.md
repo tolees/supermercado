@@ -28,10 +28,10 @@ Está [Johnson s - Gel de ducha Vita-Rich revitalizante con extracto de Semilla 
 
 ℹ️:
 
-- Para un resultado mejor, aplícalo junto con tu loción corporal Vita-Rich preferida
-- Suavidad duradera
-- Aspecto visiblemente saludable
 - Piel hidratada y revitalizada
 - Gel de baño revitalizante que aporta 24 horas de confort
+- Aspecto visiblemente saludable
+- Suavidad duradera
+- Para un resultado mejor, aplícalo junto con tu loción corporal Vita-Rich preferida
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071HFWZVQ/?tag=tolees-21)
