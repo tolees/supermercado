@@ -29,9 +29,9 @@ Está [L Oreal Paris Make-up Designer - L Oréal Paris Super Liner Perfect Slim 
 ℹ️:
 
 - orma ergonómica que se adapta a la forma de tu ojo
-- Gracias a la punta de alta precisión dibuja un trazo preciso, intenso y modulable
-- Perfilador líquido con trazo fino de color azul, para un toque más atrevido
-- Punta de pluma extra fina para conseguir un trazo más delicado y elegante
 - Aplicación fácil y rápida en una sola pasada
+- Perfilador líquido con trazo fino de color azul, para un toque más atrevido
+- Gracias a la punta de alta precisión dibuja un trazo preciso, intenso y modulable
+- Punta de pluma extra fina para conseguir un trazo más delicado y elegante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00M1HMXNW/?tag=tolees-21)

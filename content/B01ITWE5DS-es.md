@@ -28,11 +28,11 @@ Tienes [La Estrella Café Tostado Molido Mezcla Intenso 2X250G](https://www.amaz
 
 ℹ️:
 
-- Café recomendado para cafetera italiana, de filtro y express
 - la estrella es el café ideal para cualquier momento del día: desayuno, sobremesa o una pausa
-- Café de tueste medio y de perfil intenso y con cuerpo
 - Un café que se transmite de generación en generación, que te conecta con el pasado, con el presente y con los que te rodean
-- Café tostado donde resaltan las notas caramelizadas propias del café torrefacto
 - Cafés la estrella, una marca pionera, auténtica, que lleva a tu lado acompañándote desde 1887
+- Café de tueste medio y de perfil intenso y con cuerpo
+- Café recomendado para cafetera italiana, de filtro y express
+- Café tostado donde resaltan las notas caramelizadas propias del café torrefacto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01ITWE5DS/?tag=tolees-21)
