@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9IJW31-es Bourjois Healthy Mix Base de Maquillaje Tono 54 Beige - 30 ml'
 sku: 'B01N9IJW31-es'
-tags: [ 'maquillaje', ]
+tags: [ 'bourjois','maquillaje', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99
