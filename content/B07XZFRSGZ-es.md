@@ -28,10 +28,10 @@ Ahora mismo tienes [LA&V - Lav - Juego de 6 tazas para bebidas calientes  base d
 
 🔎:
 
+- Alta calidad y apto para lavavajillas.
 - Capacidad/volumen del producto: 225 cc.
+- Altura: 95 mm / Diámetro superior: 79 mm
 - 6 vasos con base de colores diferentes y parte superior transparente.
 - Perfectas para cocina doméstica o uso profesional en restaurantes y cafeterías, para una presentación inconfundible de café lattes, licores de café y cafés irlandeses.
-- Alta calidad y apto para lavavajillas.
-- Altura: 95 mm / Diámetro superior: 79 mm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XZFRSGZ/?tag=tolees-21)
