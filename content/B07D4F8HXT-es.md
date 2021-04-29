@@ -28,8 +28,8 @@ En este momento está [Dulcesol Macarons de Limon - 80 g](https://www.amazon.es/
 
 🔎:
 
-- Envase de 4 unidades
 - Macarons Dulcesol Black
 - Sabor limón
+- Envase de 4 unidades
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D4F8HXT/?tag=tolees-21)
