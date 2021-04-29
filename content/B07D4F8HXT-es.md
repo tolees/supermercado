@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dulcesol Macarons de Limon - 80 g con un 0.00 % de descuento'
-date: 2021-04-27 13:40:13
+date: 2021-04-29 18:52:48
 image: 'https://m.media-amazon.com/images/I/31kb7gFd9cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Dulcesol Macarons de Limon - 80 g](https://www.amazon.es/
 
 🔎:
 
+- Envase de 4 unidades
 - Macarons Dulcesol Black
 - Sabor limón
-- Envase de 4 unidades
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D4F8HXT/?tag=tolees-21)
