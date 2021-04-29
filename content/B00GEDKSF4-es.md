@@ -28,9 +28,9 @@ Tienes [Gullón Galleta María Dorada Pack de 3  600g](https://www.amazon.es/dp/
 
 🔎:
 
+- Disfruta del desayuno perfecto con el sabor de siempre.
 - Fabricado por Galletas Gullón.
 - Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
-- Disfruta del desayuno perfecto con el sabor de siempre.
 - Las galletas María Dorada de Gullón mantienen su sabor tradicional.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00GEDKSF4/?tag=tolees-21)

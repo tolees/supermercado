@@ -28,10 +28,10 @@ Ahora mismo tienes [Armix - Gamuza antivaho Gafas  Toallitas antivaho Gafas  Spr
 
 🔎:
 
+- VERSATIL: se puede utilizar para gafas graduadas, de sol, de buceo, lentes de cámara, visores de cascos, binoculares y mucho más. 2 UNIDADES
+- REUTILIZABLE: 300 veces de uso.
+- SIN liquidos adicionales
 - ALTA DURABILIDAD: 10 horas de efecto
 - RECOMENDABLE guardar en la bolsa cerrada y no lavar
-- SIN liquidos adicionales
-- REUTILIZABLE: 300 veces de uso.
-- VERSATIL: se puede utilizar para gafas graduadas, de sol, de buceo, lentes de cámara, visores de cascos, binoculares y mucho más. 2 UNIDADES
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KTDWS7X/?tag=tolees-21)

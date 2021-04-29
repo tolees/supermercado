@@ -28,10 +28,10 @@ En este momento está [guansheng Kit Cocteleria Cocktail Shaker 18Pcs Cocktail K
 
 🔎:
 
-- 🎁❤️ Nota: Cuando reciba Cocktail Shaker Acero Inoxida , la base acrílica tiene una película protectora. Debe quitar la película protectora y la base se volverá negra.si tiene alguna pregunta, no dude en hacérnoslo saber. Haremos todo lo posible para ayudarlo.
 - 🍸 Coincidencia profesional de coctelería:Kit Cocteleria Profesional Martini consta de 18 accesorios de coctelería, que son profesionales y prácticos. Están hechos a medida para diferentes amantes del bartender. este juego de cócteles es un regalo ideal para tus amigos y familiares para todas las ocasiones como Navidad, Año Nuevo, Cumpleaños, día de San Valentín, bodas, aniversario, fiestas o simplemente un regalo
-- ❤️ Selección de materiales de alta calidad: Kit Cocteleria Fabricado en acero inoxidable espesante,resistente a la corrosión y fácil de limpiar,fácil de limpiar, resistente a la humedad y al moho, no es fácil de deformar y tiene una larga vida útil.
-- 🍹 Juego de cóctel de 18 piezas: el juego para hacer cócteles incluye coctelera * 1, cuchara de cóctel * 1, taza medidora * 1 colador de hielo * 1, clip para hielo * 1, barra de hielo picado * 1, sacacorchos * 1, pico de vino * 3. Cuchillo de caballito de mar * 1, tenedor de frutas * 6, base acrílica * 1, que puede satisfacer sus necesidades básicas de barman.
 - 🥃Utilice ocasiones: Cocktail Shaker son adecuados para su uso en bares, familias, restaurantes, hoteles y otras ocasiones. Es fácil de usar y simple de operar. Es utilizado por principiantes, bartenders y bartenders.Puedes hacer todas tus bebidas favoritas como Margaritas, Martini, Daiquiris, Cosmopolitan y Mojitos en casa o en el bar
+- ❤️ Selección de materiales de alta calidad: Kit Cocteleria Fabricado en acero inoxidable espesante,resistente a la corrosión y fácil de limpiar,fácil de limpiar, resistente a la humedad y al moho, no es fácil de deformar y tiene una larga vida útil.
+- 🎁❤️ Nota: Cuando reciba Cocktail Shaker Acero Inoxida , la base acrílica tiene una película protectora. Debe quitar la película protectora y la base se volverá negra.si tiene alguna pregunta, no dude en hacérnoslo saber. Haremos todo lo posible para ayudarlo.
+- 🍹 Juego de cóctel de 18 piezas: el juego para hacer cócteles incluye coctelera * 1, cuchara de cóctel * 1, taza medidora * 1 colador de hielo * 1, clip para hielo * 1, barra de hielo picado * 1, sacacorchos * 1, pico de vino * 3. Cuchillo de caballito de mar * 1, tenedor de frutas * 6, base acrílica * 1, que puede satisfacer sus necesidades básicas de barman.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HPBTGF3/?tag=tolees-21)
