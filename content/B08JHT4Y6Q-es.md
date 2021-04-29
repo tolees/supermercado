@@ -28,8 +28,8 @@ Está [Nestlé Purina Felix Crunchy and Soft con Salmón  Atún y Verduras Comid
 
 ℹ️:
 
-- Completo y Equilibrado
 - Un pelaje precioso gracias a los ácidos esenciales para ayudarle a brillar; Músculos tonificados listos para jugar gracias a proteína de calidad
+- Completo y Equilibrado
 - Una irresistible combinación de deliciosa croquetas crujientes y bocados más suaves y tiernos
 - Sin colorantes, aromatizantes y conservantes artificiales añadidos
 
