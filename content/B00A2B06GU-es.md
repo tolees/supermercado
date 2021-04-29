@@ -29,7 +29,7 @@ Está [Calvo Mejillones en Escabeche  13/18 uds](https://www.amazon.es/dp/B00A2B
 ℹ️:
 
 - Sabor Intenso
-- En escabeche
 - Gran calidad
+- En escabeche
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00A2B06GU/?tag=tolees-21)
