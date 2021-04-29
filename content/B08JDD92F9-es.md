@@ -28,10 +28,10 @@ Tienes [Marca Amazon - Presto! Papel higiénico de 3 capas ECO - 48  6x8  rollos
 
 🔎:
 
+- Certificado de reciclado FSC: papel fabricado a partir de materiales reciclados
 - Celulosa 100% reciclada
 - Tejido suave e higiénico
-- 200 hojas de 3 capas por rollo
 - 6 paquetes de 8 rollos
-- Certificado de reciclado FSC: papel fabricado a partir de materiales reciclados
+- 200 hojas de 3 capas por rollo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08JDD92F9/?tag=tolees-21)

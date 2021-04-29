@@ -29,9 +29,9 @@ Tienes [Embutidos Ezequiel Chorizo Picante de León  425 Gramos](https://www.ama
 🔎:
 
 - Chorizo Picante Ahumado Elaboración 100% artesanal, al estilo tradicional, Nuestra materia prima son los cerdos origen 100% de Castilla y León de primera calidad. Curados en nuestras bodegas naturales situadas en la montaña leonesa. Origen Español.
+- En cuanto a su sabor es intenso y persistente, pero en su justa medida de grasa, aportanto el toque picante que le da el pimentón de la vera.
 - Este delicioso embutido se puede comer solo o en bocadillo, cocido, de tapa, en guisos… Tambien marida con vinos tintos y todo tipo de quesos de la zona.
 - Sin gluten, sin lactosa, sin conservantes. Alto contenido proteico.Hacen que sea un producto natural, apto para las dietas mediterráneas y una vida saludable.
 - Receta original desde 1945. Empresa de tradicion familiar máximo cuidado de los procesos, respeto al producto.
-- En cuanto a su sabor es intenso y persistente, pero en su justa medida de grasa, aportanto el toque picante que le da el pimentón de la vera.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085TYJJF4/?tag=tolees-21)
