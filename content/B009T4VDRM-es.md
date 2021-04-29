@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Mozart Liqueur White Chocolate - 700 ml al 33.09 % de rebaja'
+date: 2021-04-29 06:53:23
+image: 'https://m.media-amazon.com/images/I/21z+7xYHUQL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B009T4VDRM-es Mozart Liqueur White Chocolate - 700 ml'
+sku: 'B009T4VDRM-es'
+tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Licores','chocolate','mozart', ]
+actualPrice: 14.6 EUR
+currency: EUR
+price: 14.6
+comparePrice: 21.82 EUR
+prodname: 'Mozart Liqueur White Chocolate - 700 ml'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Mozart'
+buyurl: 'https://www.amazon.es/dp/B009T4VDRM/?tag=tolees-21'
+descuento: '33.09'
+average: '14.6'
+---
+
+Tienes [Mozart Liqueur White Chocolate - 700 ml](https://www.amazon.es/dp/B009T4VDRM/?tag=tolees-21) con precio final de  14.6 EUR (original: 21.82 EUR) (33.09 %  de rebaja) aqui!
+
+[![Mozart Liqueur White Chocolate - 700 ml](https://m.media-amazon.com/images/I/21z+7xYHUQL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B009T4VDRM/?tag=tolees-21)
+
+🔎:
+
+- Se debe conservar en un lugar fresco y seco
+- El licor de chocolate blanco contiene crema fresca, manteca de cacao, vainilla Bourbon y azúcar granulada
+- Contiene 15 % alcohol
+- País de origen: Austria
+- La manteca de cacao se agrega a la crema fresca descremada creando un contenido bajo en grasa
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B009T4VDRM/?tag=tolees-21)
