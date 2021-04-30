@@ -28,8 +28,8 @@ Ahora mismo tienes [HARIBO Favoritos  1 X 1.00 Kg](https://www.amazon.es/dp/B08K
 
 🔎:
 
-- Mix de caramelos de goma
 - Combinación de piezas de diferentes texturas y sabores con recubrimiento de azúcar
+- Mix de caramelos de goma
 - Incluye: Ositos de Oro, Corazón-melocotón, Fresa-nata, Platanito, Besito
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KFMG7PY/?tag=tolees-21)
