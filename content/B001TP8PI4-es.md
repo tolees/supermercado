@@ -29,9 +29,9 @@ Tienes [Propiedad de Bodegas Torres - Sangre de Toro  Vino Tinto  75cl  750ml](h
 🔎:
 
 - Delicioso aroma de frutos rojos con una nota especiada (pimienta negra). En boca es cálido, firme, con una fina acidez.
-- Graduación: 13,5% vol.
-- Origen: DO Catalunya
-- Perfecto con carnes estofadas y de caza, las paellas de carne y los quesos semicurados. Servir a 14°-15°C.
 - Puede disfrutarlo desde ahora, bien conservado aguantará 5-8 años.
+- Perfecto con carnes estofadas y de caza, las paellas de carne y los quesos semicurados. Servir a 14°-15°C.
+- Origen: DO Catalunya
+- Graduación: 13,5% vol.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001TP8PI4/?tag=tolees-21)

@@ -29,13 +29,13 @@ Tienes [Marca Amazon - Solimo Champú y acondicionador anticaspa 2 en 1  Energí
 🔎:
 
 - Energía de cítricos
-- Champú y acondicionador anticaspa 2 en 1
-- Aplicar generosamente en el cabello mojado, masajear suavemente el cuero cabelludo y la raíz con las yemas de los dedos. Aclarar bien
-- Dermatológicamente probad
-- 6 Botellas x 400 ml
-- Reduce la caspa desde el primer lavado
 - En caso de contacto con los ojos, lavar bien con agua
 - Una reducción de caspa de hasta el 100 % con el uso habitual
+- Reduce la caspa desde el primer lavado
+- Dermatológicamente probad
+- 6 Botellas x 400 ml
+- Aplicar generosamente en el cabello mojado, masajear suavemente el cuero cabelludo y la raíz con las yemas de los dedos. Aclarar bien
 - Únicamente para uso externo
+- Champú y acondicionador anticaspa 2 en 1
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NGJK1J9/?tag=tolees-21)
