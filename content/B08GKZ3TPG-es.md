@@ -28,10 +28,10 @@ En este momento está [FERRETERIA LEPANTO JAMONERO Bodega Lacado wengué + Cuchi
 
 🔎:
 
-- ✅Su diseño nos permite un corte horizontal fácil y cómodo.
-- ✅Con el sistema de sujeción mediante 4 palometas conseguimos un seguro y perfecto anclaje del jamón.
-- 🍗Jamonero fabricado en ESPAÑA con madera de pino insigne chileno de primera calidad. Los herrajes y los pinchos son de acero con el acabado de la superficie en cromo brillo.
-- 🍴🔪Incluye set cuchillo y chaira + cubre jamón.
 - ✅Para una perfecta sujeción del jamonero, hemos equipado su base con cuatro patas antideslizantes de silicon
+- 🍗Jamonero fabricado en ESPAÑA con madera de pino insigne chileno de primera calidad. Los herrajes y los pinchos son de acero con el acabado de la superficie en cromo brillo.
+- ✅Su diseño nos permite un corte horizontal fácil y cómodo.
+- 🍴🔪Incluye set cuchillo y chaira + cubre jamón.
+- ✅Con el sistema de sujeción mediante 4 palometas conseguimos un seguro y perfecto anclaje del jamón.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GKZ3TPG/?tag=tolees-21)

@@ -30,8 +30,8 @@ Ahora mismo tienes [Green s Culture - Kit de Hierbas Aromáticas - Cultiva tu Pr
 
 - 🌿 INICIACIÓN AL HUERTO URBANO: Aprende de manera divertida y rápida a cultivar tus propios alimentos. Con dedicación y paciencia conseguirás tener tu propio huerto urbano con los imprescindibles alimentos de tus recetas.
 - 🎁 PERFECTO KIT DE REGALO: Un regalo original y divertido para los amantes de la naturaleza. Sorprende a los que mas quieres con este kit y su variedad de semillas: albahaca, cilantro, menta, cebollino.
-- 🍀 BENEFICIOS PARA TU SALUD: Añade sabor y aroma a tus alimentos y aumenta la calidad de tu dieta con alimentos frescos y naturales. Nuestras hierbas aromáticas son ricas en vitaminas C, B2, K, calcio, sodio y hierro. También tienen propiedades antibacterianas, antisépticas y antioxidantes.
 - 🌱 CULTIVA TUS PROPIAS HIERBAS: Con Greens Culture, podrás cultivar tus propias hierbas aromáticas y decorar tus mejores platos con ellas. Un kit completo que te permitirá crear tu propio jardín interior en casa sin experiencia previa en jardinería.
+- 🍀 BENEFICIOS PARA TU SALUD: Añade sabor y aroma a tus alimentos y aumenta la calidad de tu dieta con alimentos frescos y naturales. Nuestras hierbas aromáticas son ricas en vitaminas C, B2, K, calcio, sodio y hierro. También tienen propiedades antibacterianas, antisépticas y antioxidantes.
 - 🏡 COMO QUIERAS Y DONDE QUIERAS: Da igual si vives en medio de la ciudad o si tienes poco espacio. Gracias a los pequeños cestos de cultivo vas a poder tener tu propio mini jardín como quieras y donde quieras de tu casa.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08J87V2SV/?tag=tolees-21)
