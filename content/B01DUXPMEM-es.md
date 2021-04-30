@@ -28,10 +28,10 @@ Está [Dani - Cebolla frita 120 gr.](https://www.amazon.es/dp/B01DUXPMEM/?tag=to
 
 ℹ️:
 
-- Ingredientes: Cebolla, aceite, harina de trigo, sal
 - Bolsa con auto-cierre (zip-lock) para varios usos
-- Información de alérgenos: wheat
-- Alérgenos: contiene trigo (gluten)
 - Añade sabor a tus ensaladas y sirve de acompañante o adorno de muchas elaboraciones como los perritos calientes o las hamburguesas
+- Alérgenos: contiene trigo (gluten)
+- Información de alérgenos: wheat
+- Ingredientes: Cebolla, aceite, harina de trigo, sal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DUXPMEM/?tag=tolees-21)
