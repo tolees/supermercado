@@ -29,9 +29,9 @@ Está [IGLESIAS ASI DA GUSTO - IGLESIAS - Lote Regalo Jamón Cebo Ibérico 50% R
 ℹ️:
 
 - Alérgenos: puede contener trazas de Leche y sus derivados (incluida lactosa)
-- Mantener en un lugar fresco y seco
-- Chorizo y Lomo elaborados con pimentón de la Vera
-- Apto para Celiacos
 - Incluye caja de presentación
+- Chorizo y Lomo elaborados con pimentón de la Vera
+- Mantener en un lugar fresco y seco
+- Apto para Celiacos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07R6SPNZX/?tag=tolees-21)
