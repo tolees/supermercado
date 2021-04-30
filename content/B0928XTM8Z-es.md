@@ -28,10 +28,10 @@ En este momento está [Snufeve6 - Infusor de té  colador de filtro de té  caf�
 
 🔎:
 
-- Filtro de calidad alimentaria, diseño ecológico, se despide del uso de bolsitas de té desechables, se puede reutilizar.
 - Es saludable y duradero, no se filtra ni destruye el sabor del té y puede garantizar el sabor original del té.
-- El diseño pequeño y único es un gran regalo para las personas y seguirá siendo un tema de discusión.
 - Es fácil de limpiar, no es necesario perder tiempo ni esfuerzo para limpiar el filtro y no es fácil ensuciarse.
 - Los pasos son fáciles de usar, simplemente retire la parte inferior del filtro, llénelo con sus hojas de té favoritas y luego sumérjalo en la taza.
+- El diseño pequeño y único es un gran regalo para las personas y seguirá siendo un tema de discusión.
+- Filtro de calidad alimentaria, diseño ecológico, se despide del uso de bolsitas de té desechables, se puede reutilizar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0928XTM8Z/?tag=tolees-21)
