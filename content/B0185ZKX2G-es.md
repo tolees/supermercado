@@ -29,8 +29,8 @@ Ahora mismo tienes [Renova Papel higiénico Super Blanco - 12 rollos de papel](h
 🔎:
 
 - Doble capa
-- 12 rollos por paquete
 - Muy suave
+- 12 rollos por paquete
 - Muy resistente
 - Suave y absorbente
 
