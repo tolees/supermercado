@@ -28,11 +28,11 @@ Está [biotasty - café molido 100% arábico ECOLOGICO   cafe molido cafe 100% �
 
 ℹ️:
 
-- Selección de los mejores cafés cultivados en las montañas de América del Sur y central , respetando el medio ambiente y de una forma ecológica.
-- Ideal para cualquier tipo de cafeteras adaptándose perfecta me a las necesidades en restauración como para el uso personal.
 - Nos comprometemos a ofrecer la máxima calidad posible siendo esta una marca Española que esta al día en todos los registros sanitarios y los premisos necesarios.Si tiene alguna pregunta o problema, no dude en ponerse en contacto con nosotros
 - Nuestro envase hecho con cartón 100% reciclado permite conservar los granos durante un año sin que pierda ningún tipo de aroma ni sabor. Esto permite que nuestro envase sea sostenible con el medioambiente.
 - Café con tostado natural con ningún tipo de torrefacción con azúcar y coma café arábico 100% ecológico. Tazas de café con este pack 140.
+- Ideal para cualquier tipo de cafeteras adaptándose perfecta me a las necesidades en restauración como para el uso personal.
+- Selección de los mejores cafés cultivados en las montañas de América del Sur y central , respetando el medio ambiente y de una forma ecológica.
 - Café molido 100 % arábico ecológico suave con un pos gusto cremosos y prolongado, un teste artesanal que le aporto notas de frutos secos y cacao y un toque de acidez.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B091ZBRXDK/?tag=tolees-21)

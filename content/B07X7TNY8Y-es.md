@@ -28,11 +28,11 @@ En este momento está [Kijimea Colon Irritable Pro  Una Terapia Contra el Síndr
 
 🔎:
 
-- MAYOR CALIDAD DE VIDA - La diarrea recurrente, el dolor abdominal, la flatulencia o el estreñimiento pueden hacer que disminuya mucho la calidad de vida. Un reciente estudio clínico2 demostró que Kijimea Colon Irritable PRO es capaz de mejorar significativamente la calidad de vida de los afectados.
 - AYUDA EFICAZ - La eficacia de Kijimea Colon Irritable PRO para la diarrea recurrente, el dolor abdominal, la flatulencia y el estreñimiento fue demostrada por científicos alemanes en el mayor estudio de productos de venta libre del mundo1 sobre el síndrome del intestino irritable2.
+- SIN EFECTOS ADVERSOS CONOCIDOS - Kijimea Colon Irritable PRO tiene buena tolerabilidad y se desconocen efectos adversos o interacciones con otros medicamentos. Es un producto vegano que no contiene ni gluten ni lactosa. Es apto para pacientes con diabetes.
+- Kijimea Colon Irritable cumple con la normativa vigente sobre los productos sanitarios. Se requiere un primer diagnóstico médico del colon irritable. CPSPXXXXX
 - Eficacia clínicamente probada
 - COMO UN PARCHE PARA EL INTESTINO - Las exclusivas bifidobacterias B. bifidum HI-MIMBbb75 se adhieren a las zonas dañadas de la pared intestinal, como un parche. Lo especial: bajo este parche puede regenerarse la pared intestinal. Las típicas molestias intestinales disminuyen.
-- Kijimea Colon Irritable cumple con la normativa vigente sobre los productos sanitarios. Se requiere un primer diagnóstico médico del colon irritable. CPSPXXXXX
-- SIN EFECTOS ADVERSOS CONOCIDOS - Kijimea Colon Irritable PRO tiene buena tolerabilidad y se desconocen efectos adversos o interacciones con otros medicamentos. Es un producto vegano que no contiene ni gluten ni lactosa. Es apto para pacientes con diabetes.
+- MAYOR CALIDAD DE VIDA - La diarrea recurrente, el dolor abdominal, la flatulencia o el estreñimiento pueden hacer que disminuya mucho la calidad de vida. Un reciente estudio clínico2 demostró que Kijimea Colon Irritable PRO es capaz de mejorar significativamente la calidad de vida de los afectados.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X7TNY8Y/?tag=tolees-21)
