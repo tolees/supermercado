@@ -28,9 +28,9 @@ Tienes [REVLON Super Lustrous - Pintalabios  4 2 g ](https://www.amazon.es/dp/B0
 
 🔎:
 
+- Proporciona un acabado liso y duradero
 - Ofrece hidratación y se seca fácilmente
 - Adecuado para cualquier ocasión
-- Proporciona un acabado liso y duradero
 - Lápiz labial con formula pigmentada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00PXK9YHW/?tag=tolees-21)

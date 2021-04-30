@@ -28,10 +28,10 @@ Tienes [Revlon Flex - Crema Suavizante Cabellos Normales - 650 ml](https://www.a
 
 🔎:
 
-- Cantidad por paquete: 1 pieza
-- Producto para el cuidado personal
-- Producto de la colección Revlon Flex
-- Para todo tipo de cabellos
 - Sistema de cuidado que protege el pelo
+- Producto de la colección Revlon Flex
+- Producto para el cuidado personal
+- Para todo tipo de cabellos
+- Cantidad por paquete: 1 pieza
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XDPMXZ4/?tag=tolees-21)

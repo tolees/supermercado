@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Haribo Maxibox Surtido de Caramelos de G al 0.00 % de descuento'
-date: 2021-04-06 09:58:27
-image: 'https://m.media-amazon.com/images/I/51mKrnnHigL._SL400_.jpg'
+date: 2021-04-30 17:49:48
+image: 'https://m.media-amazon.com/images/I/51mKrnnHigL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,12 +24,12 @@ average: '3.83'
 
 Está [Haribo Maxibox Surtido de Caramelos de Goma  600g](https://www.amazon.es/dp/B01ER531HM/?tag=tolees-21) con 0.00 de descuento por 3.83 EUR (original:  EUR) en el siguiente enlace!
 
-[![Haribo Maxibox Surtido de Caramelos de G](https://m.media-amazon.com/images/I/51mKrnnHigL._SL400_.jpg)](https://www.amazon.es/dp/B01ER531HM/?tag=tolees-21)
+[![Haribo Maxibox Surtido de Caramelos de G](https://m.media-amazon.com/images/I/51mKrnnHigL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01ER531HM/?tag=tolees-21)
 
 ℹ️:
 
-- Delicioso mix de diferentes piezas recubiertas de azúcar
 - Surtido de caramelos de goma
+- Delicioso mix de diferentes piezas recubiertas de azúcar
 - Irresistible mix de sabores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ER531HM/?tag=tolees-21)
