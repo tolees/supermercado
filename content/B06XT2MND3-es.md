@@ -30,8 +30,8 @@ En este momento está [El Zagal Pieza De Sobrasada De Mallorca Tradicional  250 
 
 - País de origen: España
 - Recetario amplio y variado
-- Tocino y magro de cerdo, pimentón, sal, dextrosa, aroma natural de romero y antioxidantes (extracto rico en tocoferoles, ésteres de ácidos grasos de ácido ascórbico).
 - Mantener en un lugar fresco entre 2 y 8 º
+- Tocino y magro de cerdo, pimentón, sal, dextrosa, aroma natural de romero y antioxidantes (extracto rico en tocoferoles, ésteres de ácidos grasos de ácido ascórbico).
 - Alérgenos:no contiene ningún alégeno presente en productos alimenticios definidos por la Unión Europea (Real Decreto 1169/2011)Leche y derivados,incluida la lactosa.Huevo y productos a base de huevo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XT2MND3/?tag=tolees-21)
