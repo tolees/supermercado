@@ -30,8 +30,8 @@ Está [Beauty Glazed - BELLEZA ESMALTADA 6 piezas/juego Brillo labial líquido H
 
 - Set de 6 barras de labios, brillo de labios de tamaño completo de los colores más populares, atractivo y de larga duración matificante, fácil de quitar con aceite desmaquillador de labios. !
 - INGREDIENTES NATURALES: Es sedoso e hidratante. Va suave, suave y nunca pegajoso. Puedes usar lápiz labial solo o en capas para obtener un color brillante.
+- Lápiz labial líquido muy brillante, resistente al agua, antiadherente en la taza, no se mancha fácilmente y no tiene miedo de agrietarse, el poder permanece en su lugar durante 8 horas.
 - Impermeable y muy duradero, no se desvanece fácilmente. Regálate una experiencia sexy. Es sedoso, exquisito y elegante, fácil de usar, adecuado para el maquillaje de todas las estaciones. El diseño compacto es un juego de maquillaje de labios muy práctico y hermoso para llevar.
 - VERDADERO COLOR: El tubo transparente puede ver con precisión el color del interior. Tienen hermosos matices atrevidos e hidratación intensa, fijación ligera y cómoda.
-- Lápiz labial líquido muy brillante, resistente al agua, antiadherente en la taza, no se mancha fácilmente y no tiene miedo de agrietarse, el poder permanece en su lugar durante 8 horas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZKR7D1Y/?tag=tolees-21)
