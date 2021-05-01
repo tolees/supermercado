@@ -28,10 +28,10 @@ Está [Garnier Skin Active Pure Active Sensitive Limpiador de poros sin Jabón A
 
 ℹ️:
 
+- Enriquecido de zinc purificante y extracto de hamamelis, consigue calmar el rostro y evitar la aparición de brillos
 - Eficacia probada: Piel limpia y matificada después de 4 semanas, elimina los residuos sin resecar ni dañar
 - Gel limpiador de poros sin jabón, para pieles sensibles
-- Enriquecido de zinc purificante y extracto de hamamelis, consigue calmar el rostro y evitar la aparición de brillos
-- Adecuada para pieles sensibles con tendencia a sufrir imperfecciones
 - Aplicar el limpiador diariamente sobre el rostro húmedo emulsionando el gel sobre todo el rostro, aclarar con abundante agua
+- Adecuada para pieles sensibles con tendencia a sufrir imperfecciones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XDGYSWP/?tag=tolees-21)
