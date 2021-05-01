@@ -28,10 +28,10 @@ Ahora mismo tienes [Banquet Reciclado 100 Bolsas de basura de cocina altos con a
 
 🔎:
 
+- Contiene más del 50% de plástico reciclado.
 - Se adapta a contenedores de cocina de hasta 50 l
 - Asa de corbata
-- Profundidad 1 m, borde 1,22 m.
-- Contiene más del 50% de plástico reciclado.
 - 100 bolsas de basura (rollo)
+- Profundidad 1 m, borde 1,22 m.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003O7ZKBU/?tag=tolees-21)
