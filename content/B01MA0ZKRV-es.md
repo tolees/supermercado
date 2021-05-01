@@ -28,10 +28,10 @@ Tienes [Dolovemk 2 esponjas de mezcla de maquillaje de belleza para debajo de lo
 
 ℹ️:
 
-- ❤️Regalo ideal para niñas, esponja de belleza reutilizable. Nuestro compromiso: si no estás satisfecho con nuestros productos, te devolveremos de forma gratuita, por favor ten la seguridad de comprar.
-- ❤️La esponja de belleza se vuelve más grande en el agua, y se siente elástica y no se deforma fácilmente.
-- Esponja de maquillaje sin látex, 2 esponjas de maquillaje en forma de lágrima.
 - El tamaño de cada esponja de maquillaje antes de humedecerla es de aproximadamente 5 cm, peso 5 g.
+- ❤️La esponja de belleza se vuelve más grande en el agua, y se siente elástica y no se deforma fácilmente.
+- ❤️Regalo ideal para niñas, esponja de belleza reutilizable. Nuestro compromiso: si no estás satisfecho con nuestros productos, te devolveremos de forma gratuita, por favor ten la seguridad de comprar.
 - Esponja de base suave e impecable, absorbe el aceite de la piel. Adecuado para todo tipo de cosméticos: base, crema BB, polvo prensado, corrector, material aislante, líquido, etc.
+- Esponja de maquillaje sin látex, 2 esponjas de maquillaje en forma de lágrima.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MA0ZKRV/?tag=tolees-21)
