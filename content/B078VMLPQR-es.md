@@ -28,9 +28,9 @@ En este momento está [Neutrogena Hydro Boost Bálsamo Corporal - 200 ml.](https
 
 🔎:
 
-- Proporciona horas de hidratación
 - Enriquecida con ácido hialurónico
-- Sin dejar una sensación grasosa
 - Fórmula que se seca rápidamente
+- Sin dejar una sensación grasosa
+- Proporciona horas de hidratación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078VMLPQR/?tag=tolees-21)
