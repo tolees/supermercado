@@ -28,10 +28,10 @@ Tienes [Dove Jabón para manos dispensador  con 1/4 de crema hidratante  Pack de
 
 🔎:
 
+- Apto para el uso diario
+- También es adecuado para la limpieza de la cara
 - Dermatológicamente comprobado
 - Jabón liquido con dosificador que limpia de forma efectiva la piel de las manos
 - Junto con su 1/4 de crema hidratante consigue mantener una sensación suave y hidratada de la piel
-- Apto para el uso diario
-- También es adecuado para la limpieza de la cara
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00N0O1NK4/?tag=tolees-21)

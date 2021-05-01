@@ -29,9 +29,9 @@ Ahora mismo tienes [NYX Professional Makeup Base de maquillaje Total Control Dro
 🔎:
 
 - Base de maquillaje líquida y transpirable para una cobertura de ligera a total con suave acabado mate
-- Cuentagotas incluido para aplicar la cantidad justa de producto, Utiliza una esponja o brocha de maquillaje y extiende sobre la piel dando toquecitos, Añade más cantidad para aumentar la cobertura
-- Fórmula vegana de textura cremosa que se extiende con facilidad
-- Adecuada para todos los tonos y matices de piel, Apta para pieles normales, grasas y mixtas
 - Contenido: 1x NYX Professional Makeup Base de maquillaje Total Control Drop Foundation, Tono: Natural, 13 ml
+- Adecuada para todos los tonos y matices de piel, Apta para pieles normales, grasas y mixtas
+- Fórmula vegana de textura cremosa que se extiende con facilidad
+- Cuentagotas incluido para aplicar la cantidad justa de producto, Utiliza una esponja o brocha de maquillaje y extiende sobre la piel dando toquecitos, Añade más cantidad para aumentar la cobertura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MZCHK7J/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Sensodyne Sensibilidad & Encías Pasta de Dientes para el Alivio de la S
 
 ℹ️:
 
-- Localiza y elimina la placa bacteriana
-- Fórmula clínicamente probada para aliviar la sensibilidad dental y ayudar a reducir los problemas de encías
 - Crea una capa protectora sobre las zonas sensibles, aliviando la sensibilidad dental
+- Fórmula clínicamente probada para aliviar la sensibilidad dental y ayudar a reducir los problemas de encías
+- Localiza y elimina la placa bacteriana
 - Pasta de dientes Sensodyne de doble alivio para la sensibilidad dental y los problemas de encías
 - Con cepillado dos veces al día, ayuda a eliminar las manchas para unos dientes más blancos
 
