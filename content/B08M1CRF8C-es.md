@@ -28,8 +28,8 @@ En este momento está [HARIBO Starmix  1 x150 g](https://www.amazon.es/dp/B08M1C
 
 🔎:
 
+- Mix de caramelos de goma
 - Combinación de piezas de diferentes texturas y sabores
 - Incluye: ositos de oro, huevo, happy cola, anillos y mini corazones
-- Mix de caramelos de goma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08M1CRF8C/?tag=tolees-21)

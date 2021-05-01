@@ -28,10 +28,10 @@ Está [Estuche de almacenamiento de aceite esencial Dolovemk  estuche de maquill
 
 ℹ️:
 
-- La bolsa de transporte perfecta: ligera y portátil, con asas flexibles y cremallera resistente. Fácil de transportar. Tamaño: 10 x 7,5 x 3,5 cm. Peso: 53 g.
-- Caja de almacenamiento ideal: suficiente espacio de almacenamiento, bien organizado, limpio y ordenado. El diseño de la base extraíble facilita la limpieza de la caja.
 - Viaja con precaución: protege tu aceite de la rotura durante el viaje. La carcasa exterior de la caja de aceite esencial está hecha de material metálico, resistente y a prueba de golpes. La carcasa antigolpes y la esponja elástica de espuma de alta densidad pueden garantizar la seguridad de tus aceites esenciales.
+- Caja de almacenamiento ideal: suficiente espacio de almacenamiento, bien organizado, limpio y ordenado. El diseño de la base extraíble facilita la limpieza de la caja.
 - La botella de aceite esencial tiene 12 agujeros y la resistente bolsa de transporte de aceites esenciales puede contener 12 botellas de 3 ml y viene con un sacacorchos.
 - Es muy adecuado para viajar o para el hogar. Es muy adecuado para guardar en casa todas tus viales de aceites esenciales o esmaltes favoritos. También se adapta a tu maleta y se puede guardar fácilmente en tu bolsillo.
+- La bolsa de transporte perfecta: ligera y portátil, con asas flexibles y cremallera resistente. Fácil de transportar. Tamaño: 10 x 7,5 x 3,5 cm. Peso: 53 g.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08F5C3H6V/?tag=tolees-21)
