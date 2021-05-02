@@ -28,9 +28,9 @@ Tienes [Familia Torres - Coronas Crianza  Vino Tinto - 750 ml](https://www.amazo
 
 ℹ️:
 
-- Armonioso en boca, con cuerpo medio y taninos suaves
 - Intensos aromas de frutas negras y del bosque, con sutiles notas vegetales y de especias
 - Se presenta en una botella de 75 cl
+- Armonioso en boca, con cuerpo medio y taninos suaves
 - Tiene la graduación de 13.5 %
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B015STFCLE/?tag=tolees-21)
