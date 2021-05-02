@@ -28,10 +28,10 @@ Ahora mismo tienes [Instituto Español - Poseidon Hombre Edición Essenza - Eau 
 
 🔎:
 
-- Fragancia inolvidable, como una poderosa seducción.
-- Fabricado por Instituto Español, expertos perfumistas desde 1903.
 - Una irresistible e infinita combinación que se libera progresivamente, seduciendo todos los sentidos.
-- Gran durabilidad.
 - Eau de Toilette 150 ml.
+- Gran durabilidad.
+- Fabricado por Instituto Español, expertos perfumistas desde 1903.
+- Fragancia inolvidable, como una poderosa seducción.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XZFPG7K/?tag=tolees-21)
