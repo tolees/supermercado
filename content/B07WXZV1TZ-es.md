@@ -28,8 +28,8 @@ Está [Haribo Mega Torcidas Cereza 75 g](https://www.amazon.es/dp/B07WXZV1TZ/?ta
 
 ℹ️:
 
-- Geles dulces
 - Deliciosas piezas largas en forma de stick de regaliz con intenso sabor a cereza
+- Geles dulces
 - Con un irresistible sabor a fresa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WXZV1TZ/?tag=tolees-21)

@@ -31,8 +31,8 @@ En este momento está [Nestlé Extrafino Chocolate Con Leche 270g - Pack de 15](
 - España
 - Ingredientes: Azúcar, manteca de cacao, leche (18%) cacao, suero de leche en polvo, emulgente (lecitina de girasol) aroma natural de vainilla. Puede contener frutos de cáscara. Cacao: 30% mínimo
 - Chocolate con leche Nestlé fino; el chocolate con leche de las meriendas de toda la vida
-- Leche, frutos de cáscara
 - Instrucciones para su uso adecuado: Conservar en lugar fresco y seco
 - Azúcar, manteca de cacao, leche (18%) cacao, suero de leche en polvo, emulgente (lecitina de girasol) aroma naural de vainilla; puede contener frutos de cáscara; cacao: 30% mínimo
+- Leche, frutos de cáscara
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JHSQD3S/?tag=tolees-21)
