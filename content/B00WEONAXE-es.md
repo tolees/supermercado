@@ -28,10 +28,10 @@ Tienes [Ausonia Normal Protegeslips 40 Unidades  Sistema No Olor  Máxima Protec
 
 ℹ️:
 
-- Protegeslips con zonas de protección lateral
-- Núcleo absorbente que te mantiene seca
 - Neutralizan el olor
+- Protegeslips con zonas de protección lateral
 - Se mantienen en su sitio
+- Núcleo absorbente que te mantiene seca
 - Gran calidad a un precio excepcional
 - Protegeslips dermatológicamente testados para ser suaves
 
