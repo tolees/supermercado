@@ -28,9 +28,9 @@ En este momento está [Crema de untar de galleta Lotus Biscoff - 8 tarros de 400
 
 🔎:
 
+- La original crema de galleta caramelizada
 - Ideal para untar en pan o como ingrediente en repostería
 - Crema de untar de galleta caramelizada con sabor único.
-- La original crema de galleta caramelizada
 - Sin lactosa, sin colorantes, sin aromas añadidos, apta para veganos. Contiene Glutén.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G2L8VHJ/?tag=tolees-21)

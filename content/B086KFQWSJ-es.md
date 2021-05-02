@@ -28,8 +28,8 @@ Está [Haribo Sour Streamers  130g](https://www.amazon.es/dp/B086KFQWSJ/?tag=tol
 
 ℹ️:
 
+- Naranja, manzana, cereza y frambuesa.
 - 4 Colores Y Sabores Diferentes En Una Misma Bolsa.
 - Geles dulces en forma de tiras
-- Naranja, manzana, cereza y frambuesa.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086KFQWSJ/?tag=tolees-21)
