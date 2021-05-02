@@ -29,7 +29,7 @@ Tienes [L Oreal Paris Elvive Low Shampoo Champú  para cabello teñido - 400 ml]
 🔎:
 
 - Desenredo excepcional: su textura en crema transforma el cabello seco dejándolo perfectamente desenredado y disciplinado
-- Lavado delicado: su fórmula sin espuma y sin sulfatos, disuelve las impurezas con total suavidad, sin agresiones
 - Nutrición y suavidad infinita: un baño de nutrición intensa sin efecto graso y sin apelmazar, Cabello suave y con movimiento
+- Lavado delicado: su fórmula sin espuma y sin sulfatos, disuelve las impurezas con total suavidad, sin agresiones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M9JPHYF/?tag=tolees-21)

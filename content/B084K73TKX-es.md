@@ -28,10 +28,10 @@ En este momento está [Finish  360 pastillas para lavavajillas Classic  4 paquet
 
 🔎:
 
-- Las pastillas clásicas para lavavajillas contienen la acción pre-tratante que ayuda a obtener óptimos resultados de limpieza en las manchas de comida.
-- Los detergentes presentes en las pastillas lavavajillas Classic limpian los restos de comida, dejando tus platos limpios cada día.
-- Gracias a la tecnología Finish Powerball, las pastillas para lavavajillas con acción pre-tratante para eliminar la suciedad persistente.
 - Para un resultado óptimo, úsalo junto con Finish sal y Finish abrillantador
 - La caja contiene 360 pastillas con una agradable fragancia de limón, cada una en un práctico formato monodosis que necesita ser desechada.
+- Los detergentes presentes en las pastillas lavavajillas Classic limpian los restos de comida, dejando tus platos limpios cada día.
+- Gracias a la tecnología Finish Powerball, las pastillas para lavavajillas con acción pre-tratante para eliminar la suciedad persistente.
+- Las pastillas clásicas para lavavajillas contienen la acción pre-tratante que ayuda a obtener óptimos resultados de limpieza en las manchas de comida.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084K73TKX/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Haribo - Mini Ositos Oro  Estuche de 100 Bolsitas  1000 gr.](https://www
 
 🔎:
 
-- Caramelos desde Holanda.
+- Haribo
 - Caramelos holandeses.és
 - Caramelos Haribo.
-- Haribo
 - jellybeansGrageas.
+- Caramelos desde Holanda.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007JTC9JA/?tag=tolees-21)
