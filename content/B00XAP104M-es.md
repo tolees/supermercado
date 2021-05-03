@@ -28,9 +28,9 @@ Tienes [Haribo Funky Mix - 1 kg](https://www.amazon.es/dp/B00XAP104M/?tag=tolees
 
 🔎:
 
-- Mantener en lugar fresco y seco
-- Surtido de golosinas
-- Delicioso mix de diferentes piezas y sabores
 - Bolsa de 1 kg
+- Surtido de golosinas
+- Mantener en lugar fresco y seco
+- Delicioso mix de diferentes piezas y sabores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XAP104M/?tag=tolees-21)
