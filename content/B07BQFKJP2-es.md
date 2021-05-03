@@ -28,9 +28,9 @@ Ahora mismo tienes [Scottex Collection Servilletas - 1500 unidades](https://www.
 
 🔎:
 
-- Con diseños elegantes y sofisticados
 - 1500 servilletas
-- 2 capas
 - Con la calidad de Scottex
+- 2 capas
+- Con diseños elegantes y sofisticados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BQFKJP2/?tag=tolees-21)
