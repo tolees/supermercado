@@ -28,10 +28,10 @@ Tienes [FASCINATE - Espejo Maquillaje con Luz LED Aumento 1X/10X  Espejo Cosmét
 
 🔎:
 
-- 【21 LED Brillantes】FASCINATE espejo maquillaje iluminado está integrado con 21 luces LED ajustables brillantes, le permite maquillarse en diversas situaciones de iluminación como durante el día, la noche, el hogar y la oficina, brillante pero no deslumbrante, protegiendo sus ojos.
-- 【Fuente de Alimentación Doble】 El espejo de maquillaje LED funciona con 4 pilas AA (no incluidas) o cable USB (incluido). El espejo en sí no puede almacenar energía.
-- 【Smart Touch Dimmable】 Las luces LED se controlan mediante el interruptor del sensor táctil. Una pulsación larga puede ajustar el brillo.
 - 【Rotación Libre de 180 Grados】 Este espejo iluminado se coloca en su encimera y se puede ajustar libremente. Esto se fija en un ángulo de visión perfecto y cómodo. Es un regalo ideal para madre, hermana, esposa, novia, maquilladora, etc.en el Día de San Valentín, Día de la Madre, Navidad, aniversarios u otras ocasiones especiales.
 - 【Con Espejo Redondo de 10X Aumento 】 El espejo de aumento de 10X desmontable le ayuda a ver cada detalle con claridad y aplicar maquillaje delicado como rímel, delineador de ojos, cejas y lápiz labial. Se pueden montar 2 ventosas espejo sobre cristal o espejo grande.
+- 【21 LED Brillantes】FASCINATE espejo maquillaje iluminado está integrado con 21 luces LED ajustables brillantes, le permite maquillarse en diversas situaciones de iluminación como durante el día, la noche, el hogar y la oficina, brillante pero no deslumbrante, protegiendo sus ojos.
+- 【Smart Touch Dimmable】 Las luces LED se controlan mediante el interruptor del sensor táctil. Una pulsación larga puede ajustar el brillo.
+- 【Fuente de Alimentación Doble】 El espejo de maquillaje LED funciona con 4 pilas AA (no incluidas) o cable USB (incluido). El espejo en sí no puede almacenar energía.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08TWZ9TMB/?tag=tolees-21)
