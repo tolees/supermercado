@@ -28,10 +28,10 @@ Tienes [GRANELL CAFES-1940 - Cafés Granell 1940 - Cafe Canela | Pack Café Moli
 
 ℹ️:
 
-- Cafe tostado natural, envasado en atmosfera protectora inmediatamente después de tostado
 - Cafe Aromatizado: disfruta del café con notas a Canela gracias a este pack de 4 paquetes de café Aroma Canela de 250 gramos cada uno | Sin Azúcar | Café Molido Natural - tostado artesanalmente cuidando todo el proceso
-- Información de alérgenos: Sin gluten
 - Cafe molido arabica 100% que combina el mejor café con la fragancia y sabor únicos de la Canela | Prepara una taza de café espresso con todo el sabor de la canela | Perfecto para dar un capricho a tu paladar
 - Cafe Espresso Molido: con este café podrás preparar deliciosos espressos, café en cafeteras italianas o café en cafetera de filtro y deleitarte con su sabor
+- Información de alérgenos: Sin gluten
+- Cafe tostado natural, envasado en atmosfera protectora inmediatamente después de tostado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08RKY5NLN/?tag=tolees-21)
