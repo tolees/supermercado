@@ -30,7 +30,7 @@ Ahora mismo tienes [Hero Corny Chocolate Negro. 10 estuches con 6 barritas 10x 6
 
 - Sin conservantes
 - Cacao Sostenible Rainforest Alliance
-- Sin aceite de palma
 - Con cereales de grano completo
+- Sin aceite de palma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FQMCC7X/?tag=tolees-21)
