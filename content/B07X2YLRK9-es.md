@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Starbucks Single Origin Colombia De Nesp al 25.26 % de rebaja'
-date: 2021-04-26 09:22:03
+date: 2021-05-03 11:43:12
 image: 'https://m.media-amazon.com/images/I/511Cgc8GBaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STARBUCKS'
 buyurl: 'https://www.amazon.es/dp/B07X2YLRK9/?tag=tolees-21'
 descuento: '25.26'
-average: '24.3'
+average: '24.1244444444444'
 ---
 
 Tienes [Starbucks Single Origin Colombia De Nespresso Cápsulas De Café De Tostado Medio 8 X Tubo De 10 Unidades](https://www.amazon.es/dp/B07X2YLRK9/?tag=tolees-21) con precio final de  22.72 EUR (original: 30.4 EUR) (25.26 %  de rebaja) aqui!
