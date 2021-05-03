@@ -30,8 +30,8 @@ En este momento está [Santal Bebida Vegetal de Almendra sin Azúcar - pack 6 x 
 
 - País de Origen: España
 - Delicosa y saludable, suave, sedosa y aromática leche de almendra.
-- Bebidas deliciosas, con envase Sostenible bio-based, 100% vegetales y saludables sin azúcar y enriquecidas para cuidar de ti y de tu entorno
-- Conservar en lugar fresco y seco. Una vez abierto el envase debe conservarse en frío, siendo aconsejable su consumo en los dos ó tres días siguientes.
 - Revoluciona tus desayunos con el delicioso sabor de Santal, mientras cuidas tu salud y la de tu entorno. Disfrutar de ti y del planeta es sencillo con Santal.
+- Conservar en lugar fresco y seco. Una vez abierto el envase debe conservarse en frío, siendo aconsejable su consumo en los dos ó tres días siguientes.
+- Bebidas deliciosas, con envase Sostenible bio-based, 100% vegetales y saludables sin azúcar y enriquecidas para cuidar de ti y de tu entorno
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088PKDQMF/?tag=tolees-21)
