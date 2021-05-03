@@ -28,9 +28,9 @@ Está [Hero - Corny Chocolate con Leche. 10 estuches con 6 barritas 10x 6x25g ](
 
 ℹ️:
 
-- Sin conservantes
-- Sin aceite de palma
 - Con cereales de grano completo
 - Cacao Sostenible Rainforest Alliance
+- Sin conservantes
+- Sin aceite de palma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FR1TYJX/?tag=tolees-21)
