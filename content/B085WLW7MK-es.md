@@ -30,8 +30,8 @@ Ahora mismo tienes [PINPOXE - Highlighter Palette  Highlighter Powder  Highlight
 
 - sombra de ojos de maquillaje: polvo de brillo de diamante, el efecto del color es bueno. el color es muy brillante y gorgous y el polvo es delgado y prensado.
 - fácil de aplicar: maquillaje resaltador para deslizar y mezclar para obtener el brillo
-- calidad del polvo: la textura fina y suave con un factor de brillo duradero te hace deslumbrantemente brillante para un momento de fiesta.
-- aplicación fácil sobre la marcha: empaquetada en una práctica funda pequeña y elegante y diseño portátil delgado y liviano con tapa magnética. Tamaño de viaje amigable.
 - perfecto en las áreas que desea resaltar: pómulos, nariz, arco de Cupido, arco de cejas y clavícula.Maquillaje para todas las ocasiones: principalmente adecuado para ojos, labios, mejillas y adecuado para todo tipo de piel, no para el cuerpo y las uñas, solo aplique el color directamente con el pincel o los dedos.
+- aplicación fácil sobre la marcha: empaquetada en una práctica funda pequeña y elegante y diseño portátil delgado y liviano con tapa magnética. Tamaño de viaje amigable.
+- calidad del polvo: la textura fina y suave con un factor de brillo duradero te hace deslumbrantemente brillante para un momento de fiesta.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085WLW7MK/?tag=tolees-21)

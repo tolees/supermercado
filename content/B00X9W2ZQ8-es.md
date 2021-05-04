@@ -28,8 +28,8 @@ En este momento está [L Oreal Paris Men Expert - L Oréal Paris Men Expert Hydr
 
 🔎:
 
-- Hidrata continuamente la piel
 - Protege de las agresiones y vuelve la piel más fuerte
+- Hidrata continuamente la piel
 - Tono fresco y piel lisa
 - No grasa, no pegajosa, penetra rápidamente
 - Textura ultra-refrescante

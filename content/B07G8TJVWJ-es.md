@@ -28,10 +28,10 @@ En este momento está [L Oreal Paris Men Expert Gel de Ducha para Hombre Efecto 
 
 🔎:
 
-- Potenciado con Cryo-Caps para una sensación de -4ºC en la piel, al entrar en contacto con el agua las cápsulas liberan un agente refrescante para una sensación de frescor extremo
-- Gel de Ducha Efecto Hielo Frescor Extremo Cool Power, potenciado con tecnología Cryo-CapsTM para una sensación de -4ºC en la piel 
-- Formulado con Cryo-Caps
-- Ponte las pilas con los nuevos geles de ducha de LOreál Men Expert, 100 % diseñados para hombres 
 - Cantidad 300 ml
+- Formulado con Cryo-Caps
+- Gel de Ducha Efecto Hielo Frescor Extremo Cool Power, potenciado con tecnología Cryo-CapsTM para una sensación de -4ºC en la piel 
+- Potenciado con Cryo-Caps para una sensación de -4ºC en la piel, al entrar en contacto con el agua las cápsulas liberan un agente refrescante para una sensación de frescor extremo
+- Ponte las pilas con los nuevos geles de ducha de LOreál Men Expert, 100 % diseñados para hombres 
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G8TJVWJ/?tag=tolees-21)

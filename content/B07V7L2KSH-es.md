@@ -28,10 +28,10 @@ Ahora mismo tienes [NYX Professional Makeup Kit de maquillaje de labios Copenhag
 
 🔎:
 
-- 1 x Prebase de labios Nude Lip Primer para crear un lienzo uniforme que aumente la intensidad del color
-- 1 x Perfilador de labios Suede Matte Lip Liner en tono Copenhagen para conseguir un efecto mate
-- Set de maquillaje de labios con 3 productos para conseguir un resultado perfecto
-- 1 x Pintalabios cremoso Soft Matte Lip cream en tono Copenhagen para dar a tus labios una explosión de color, Práctico pincel aplicador
 - Contenido: 1x NYX Professional Makeup Kit de maquillaje de labios Copenhagen, Soft matte Lip Cream, Suede Matte Lip Liner, Lip Primer, Set de 3 productos
+- 1 x Pintalabios cremoso Soft Matte Lip cream en tono Copenhagen para dar a tus labios una explosión de color, Práctico pincel aplicador
+- 1 x Prebase de labios Nude Lip Primer para crear un lienzo uniforme que aumente la intensidad del color
+- Set de maquillaje de labios con 3 productos para conseguir un resultado perfecto
+- 1 x Perfilador de labios Suede Matte Lip Liner en tono Copenhagen para conseguir un efecto mate
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07V7L2KSH/?tag=tolees-21)

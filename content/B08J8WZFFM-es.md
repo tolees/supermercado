@@ -29,8 +29,8 @@ En este momento está [Sanex Men Active Control  Desodorante Hombre  Roll-on  Pa
 🔎:
 
 - Mantiene la piel sana y protegida durante 48h
-- Desodorante roll-on antitranspirante para los hombres
 - Testado dermatológicamente
+- Desodorante roll-on antitranspirante para los hombres
 - No contiene alcohol etílico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08J8WZFFM/?tag=tolees-21)

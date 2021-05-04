@@ -28,10 +28,10 @@ En este momento está [Blevit Barriguitas Felices  Infusión en monodosis para l
 
 🔎:
 
-- La manzanilla, preparada en forma de infusión alivia las molestias digestivas que pueden aparecer en casos de flatulencias y espasmos intestinales.También posee un efecto ligeramente tranquilizante
-- Preparación instantánea,en frío y en caliente,elaborada a partir de ingredientes naturales y no contiene aromas artificiales. Agradable sabor,facilita la toma de líquido favoreciendo la rehidratación.
+- La manzanilla y el hinojo son plantas conocidas por favorecer la digestión y aliviar los cólicos y otras molestias digestivas ya que tienen acción carminativa, eupéptica y antiespasmódica
 - El hinojo, por su parte, es útil para la aerofagia y la flatulencia. 0% azúcares añadidos, solo contiene azúcares naturalmente presentes. Evitamos que el bebé se acostumbre a sabores tan dulces
 - Blevit Barriguitas Felices es una infusión monodosis e instantánea elaborada a base de extractos solubles de plantas (manzanilla e hinojo) que han sido rigurosamente seleccionadas y controladas.
-- La manzanilla y el hinojo son plantas conocidas por favorecer la digestión y aliviar los cólicos y otras molestias digestivas ya que tienen acción carminativa, eupéptica y antiespasmódica
+- Preparación instantánea,en frío y en caliente,elaborada a partir de ingredientes naturales y no contiene aromas artificiales. Agradable sabor,facilita la toma de líquido favoreciendo la rehidratación.
+- La manzanilla, preparada en forma de infusión alivia las molestias digestivas que pueden aparecer en casos de flatulencias y espasmos intestinales.También posee un efecto ligeramente tranquilizante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08C88XQXM/?tag=tolees-21)
