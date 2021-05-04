@@ -28,11 +28,11 @@ Tienes [Litoral Plato Preparado de Cocido Madrileño  sin Gluten  440g](https://
 
 ℹ️:
 
-- Disponible en formato lata: 445g
-- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
-- LITORAL Cocido Madrileño con un selecto embutido elaborado en Asturias
 - Comida española fácil de preparar: al baño maria, en cazo o al microondas
+- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
+- Disponible en formato lata: 445g
 - Una deliciosa receta casera y sabrosa, fácil de preparar y con la calidad de LITORAL.
 - Ingredientes 100% naturales sin gluten, ni aditivos
+- LITORAL Cocido Madrileño con un selecto embutido elaborado en Asturias
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B004X0KWYW/?tag=tolees-21)

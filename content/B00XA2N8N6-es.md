@@ -29,7 +29,7 @@ Está [Cuétara Galletas Maria Oro  800g](https://www.amazon.es/dp/B00XA2N8N6/?t
 ℹ️:
 
 - Para un desayuno completo y equilibrado
-- Peto neso 800 g
 - Contiene 127 galletas -aprox
+- Peto neso 800 g
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XA2N8N6/?tag=tolees-21)
