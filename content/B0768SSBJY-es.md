@@ -28,10 +28,10 @@ En este momento está [L Oréal Paris Men Expert - Barber Club Aceite hidratante
 
 🔎:
 
-- Enriquecido con aceite esencial de madera de cedro para conseguir una barba nutrida y disciplinada
-- En la barba disciplina, suaviza y fortalece el vello facial, sin efecto graso
 - Aceite hidratante para barba larga y rostro
 - Aplica dos o tres presiones en la palma de la mano y masajea sobre la barba hasta hacer contacto con la piel de debajo
+- Enriquecido con aceite esencial de madera de cedro para conseguir una barba nutrida y disciplinada
+- En la barba disciplina, suaviza y fortalece el vello facial, sin efecto graso
 - En la piel alivia la sensación de picor y nutre la de debajo de la barba
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0768SSBJY/?tag=tolees-21)

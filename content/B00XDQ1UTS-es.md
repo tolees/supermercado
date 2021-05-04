@@ -28,8 +28,8 @@ Está [Gullón Vitalday Frutos Rojos Galleta Desayuno y Merienda - Paquete de 6 
 
 ℹ️:
 
+- País de Origen: España
 - Alto en fibra
 - Elaborada con aceite de girasol alto oleico
-- País de Origen: España
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XDQ1UTS/?tag=tolees-21)
