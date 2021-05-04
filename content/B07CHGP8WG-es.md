@@ -29,7 +29,7 @@ En este momento está [Axe Gel de ducha Black 400ml  pack de 3x400ml](https://ww
 🔎:
 
 - Combínalo con el Desodorante spray axe black
-- El Axe gel ducha black, gel con una sutil y elegante fragancia. purifica tu cuerpo y mente
 - El frescor de Axe en un jabón de cuerpo para un olor dulce y cautivador todo el día
+- El Axe gel ducha black, gel con una sutil y elegante fragancia. purifica tu cuerpo y mente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CHGP8WG/?tag=tolees-21)

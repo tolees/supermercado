@@ -28,10 +28,10 @@ Tienes [Lehoo Castle Velas Aromaticas  Regalos para Madres  Cera de Soja para Ve
 
 🔎:
 
-- VELA DECORATIVA PORTÁTIL PARA REUTILIZAR: El tamaño adecuado de cada vela ahorrará espacio y será un compañero de viaje perfecto. Después de que se queme el juego de velas perfumadas, la lata se puede usar para guardar las velas hechas a mano, joyas o plantas suculentas.
-- LA GRAN CAPACIDAD PROPORCIONA UNA LARGA DURACIÓN: La vela biodegradable y ecológica de 2.2 oz se quemará durante 15-18 horas, le brindará una quemadura limpia y una fragancia duradera.
 - EXQUISITAS velas aromáticas para regalo: El juego de velas olor del Castillo de Lehoo viene con una tarjeta de felicitación. Es un regalo ideal para el Día de la Madre, San Valentín, aniversario y cumpleaños. Traiga a su madre o esposa un juego de velas refrescantes para SPA, yoga, relajación, sueño, fiesta de cumpleaños, boda y oficina.
+- LA GRAN CAPACIDAD PROPORCIONA UNA LARGA DURACIÓN: La vela biodegradable y ecológica de 2.2 oz se quemará durante 15-18 horas, le brindará una quemadura limpia y una fragancia duradera.
 - Perfecto para este tiempo estresante - Después de la cuarentena la gente necesita ser feliz. ¡Han sido unos meses muy estresantes! Un juego te permite disfrutar de 9 maravillosos aromas, alivie su fatiga después de un día de trabajo y disfrute de su maravilloso tiempo en un hogar fragante.
+- VELA DECORATIVA PORTÁTIL PARA REUTILIZAR: El tamaño adecuado de cada vela ahorrará espacio y será un compañero de viaje perfecto. Después de que se queme el juego de velas perfumadas, la lata se puede usar para guardar las velas hechas a mano, joyas o plantas suculentas.
 - VELA DE CERA DE SOJA 100% NATURAL: Hecho de cera de soja pura 100% naturalmente biodegradable y núcleo de algodón orgánico sin plomo. Cree una atmósfera agradable, ecológica y libre de humo para cada momento de su vida.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08G82F4HB/?tag=tolees-21)

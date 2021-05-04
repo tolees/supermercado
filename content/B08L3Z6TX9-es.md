@@ -28,8 +28,8 @@ Tienes [Hero Baby - Hero Nanos Bolsita Merienda Yogur Manzana con Fresa 100 gr](
 
 🔎:
 
-- A partir de 12 meses
-- Manzana con Fresa
 - Bolsita de Yogur y Manzana con Fresa
+- Manzana con Fresa
+- A partir de 12 meses
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L3Z6TX9/?tag=tolees-21)
