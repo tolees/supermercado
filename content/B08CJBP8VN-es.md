@@ -28,10 +28,10 @@ En este momento está [DESTAVERD Desinfectante Frutas y Verduras SIN LEJÍA y Es
 
 🔎:
 
-- 🍼 Permite ESTERILIZAR EN FRÍO biberones y tetinas, con total seguridad
-- 🕑 Desinfecta las frutas y verduras en SOLO 7 MINUTOS
+- ✅ Elimina todo tipo de microorganismos: virus, gérmenes, bacterias, hongos, etc. Destruye productos químicos nocivos como los pesticidas y elimina los precursores de los trihalometanos, compuestos considerados cancerígenos.
 - 💯 Más de 100 tratamientos con UNA sola botella. Dosificación sencilla y fácil de usar
 - ❌ NO CONTIENE LEJÍA, ni ningún derivado. NO ES IRRITANTE NI CORROSIVO. No tiene olor ni añade sabores extraños. No deja productos tóxicos residuales
-- ✅ Elimina todo tipo de microorganismos: virus, gérmenes, bacterias, hongos, etc. Destruye productos químicos nocivos como los pesticidas y elimina los precursores de los trihalometanos, compuestos considerados cancerígenos.
+- 🍼 Permite ESTERILIZAR EN FRÍO biberones y tetinas, con total seguridad
+- 🕑 Desinfecta las frutas y verduras en SOLO 7 MINUTOS
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CJBP8VN/?tag=tolees-21)
