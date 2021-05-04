@@ -28,10 +28,10 @@ En este momento está [Puleva Max Leche Blanca de Crecimiento Y Desarrollo - 10 
 
 🔎:
 
-- País de Origen: España
 - Puleva: bienestar para disfrutar de la vida
-- Contiene: Omega 3 DHA y hierro para favorecer el correcto desarrollo cognitivo, calcio para favorecer el correcto desarrollo físico y 12 vitaminas para reforzar sus defensas
-- Un vaso de Puleva Max aporta el 44% de las cantidades diarias recomendadas de calcio y el 75% de las cantidades diarias recomendadas de vitamina D
 - Está adaptada nutricionalmente para niños a partir de 3 años
+- Un vaso de Puleva Max aporta el 44% de las cantidades diarias recomendadas de calcio y el 75% de las cantidades diarias recomendadas de vitamina D
+- País de Origen: España
+- Contiene: Omega 3 DHA y hierro para favorecer el correcto desarrollo cognitivo, calcio para favorecer el correcto desarrollo físico y 12 vitaminas para reforzar sus defensas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088PJXXND/?tag=tolees-21)

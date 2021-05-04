@@ -28,10 +28,10 @@ En este momento está [L Oreal Paris Men Expert - L Oréal Paris Men Expert - Ba
 
 🔎:
 
-- Enriquecido con aceite esencial de Madera de Cedro, textura ligera efecto gel, no grasa, ni pegajosa
+- En la barba alivia la tirantez y suaviza el vello facial, en la piel hidrata el rostro durante todo el día
 - Aplica el gel sobre la palma de la mano y frota las manos para una distribución uniforme; masajea suavemente sobre la barba y la piel de manera ascendente, hasta que se absorba
 - Barba más suave y un rostro hidratado durante todo el día
 - Gel hidratante para barbas cortas y piel
-- En la barba alivia la tirantez y suaviza el vello facial, en la piel hidrata el rostro durante todo el día
+- Enriquecido con aceite esencial de Madera de Cedro, textura ligera efecto gel, no grasa, ni pegajosa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0768MMMXG/?tag=tolees-21)
