@@ -28,9 +28,9 @@ En este momento está [Sanex Invisible  Desodorante Hombre o Mujer  Desodorante 
 
 🔎:
 
-- Tipo de piel: normal
 - Protección eficaz durante 24h
-- Desodorante roll-on antimanchas blancas
 - Actúa contra las bacterias causantes del mal olor
+- Desodorante roll-on antimanchas blancas
+- Tipo de piel: normal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07C6K3BJG/?tag=tolees-21)
