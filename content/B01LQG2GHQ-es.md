@@ -29,9 +29,9 @@ Ahora mismo tienes [Ramón Bilbao - Crianza Vino Tinto Do Rioja Botella 75 Cl](h
 🔎:
 
 - Designaciones varietales: Tempranillo
+- Contenido de alcohol (alc/vol.): 14.0 percent by volume
 - Ingredientes: zumo de uva, levaduras y derivados
 - Grado de alcohol: 13,5%
-- Contenido de alcohol (alc/vol.): 14.0 percent by volume
 - País de origen: España
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LQG2GHQ/?tag=tolees-21)
