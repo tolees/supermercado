@@ -28,10 +28,10 @@ Está [Garnier Bio  Kit Antiedad Crema Regeneradora con Aceite Esencial Lavanda 
 
 ℹ️:
 
-- Contenido: Kit Antiedad Garnier Bio 1 x Crema Hidratante Antiedad con Aceite Esencial de Lavanda y Vitamina E, 50 ml + 1 x Aceite de Rostro Reafirmante con Lavanda, 30 ml
 - Kit antiedad con crema de día anti-edad con aceite esencial de lavanda y vitamina E antioxidante y aceite de rostro reafirmante
 - Arrugas visiblemente más lisas, Piel suave, firme e iluminada, Nutre e hidrata el rostro al instante
-- Fórmula vegana sin ingredientes de origen animal, Certificado Ecológico Cosmos de Ecocert Greenlife
+- Contenido: Kit Antiedad Garnier Bio 1 x Crema Hidratante Antiedad con Aceite Esencial de Lavanda y Vitamina E, 50 ml + 1 x Aceite de Rostro Reafirmante con Lavanda, 30 ml
 - Crema anti-edad: aplicar una pequeña cantidad sobre el rostro limpio y masajear haciendo movimientos circulares, Aceite facial: aplicar por la mañana y/o por la noche unas pequeñas gotas sobre el rostro
+- Fórmula vegana sin ingredientes de origen animal, Certificado Ecológico Cosmos de Ecocert Greenlife
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086VPKTPQ/?tag=tolees-21)
