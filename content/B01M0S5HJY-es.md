@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0S5HJY-es Cuétara - Napolitanas - Con un toque de deliciosa canela...'
 sku: 'B01M0S5HJY-es'
-tags: [ 'canela', ]
+tags: [ 'canela','cuétara', ]
 actualPrice: 2.22 EUR
 currency: EUR
 price: 2.22
