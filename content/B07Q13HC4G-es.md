@@ -28,9 +28,9 @@ Tienes [Fa - Desodorante Roll-On Fiji Dream - Fragancia de Sandia e ylang ylang 
 
 🔎:
 
-- Asegura hasta 24 horas de protección
-- Fragancia de sandía e ylang ylang
 - Aroma fresco y tropical
 - Desodorante con 48h de protección contra la transpiración
+- Fragancia de sandía e ylang ylang
+- Asegura hasta 24 horas de protección
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Q13HC4G/?tag=tolees-21)
