@@ -28,11 +28,11 @@ Ahora mismo tienes [Nestlé Extrafino Dulce de Leche - Tableta de Chocolate - 25
 
 🔎:
 
-- Chocolate con 100% aromas naturales
-- 100% cacao de cultivo sostenible seleccionado a través de NM21:Q21ESTLE Cocoa Plan Certificado UTZ
 - Exquisita tableta rellena con una receta que te envolverá
 - Esta caja contiene 25 tabletas de chocolate con dulce de leche de 120g
+- Chocolate con 100% aromas naturales
 - Deliciosa tableta de chocolate con leche extrafino rellena de cremoso dulce de leche
+- 100% cacao de cultivo sostenible seleccionado a través de NM21:Q21ESTLE Cocoa Plan Certificado UTZ
 - Un sabor único e inolvidable que apasiona a toda la familia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B17YXRL/?tag=tolees-21)

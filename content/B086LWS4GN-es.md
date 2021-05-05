@@ -28,10 +28,10 @@ Tienes [Hero Baby Mi Merienda - Bolsita de Yogurín con Fresa  Sin Azúcares Añ
 
 🔎:
 
-- Conservación y esterilización natural al baño María
-- Su formato de bolsita no necesita frío, además de ser muy cómodo para transportar y consumir, solo hay que abrir y disfrutar
-- Descubre la amplia gama de bolsitas Mi Merienda, perfectas para complementar sus comidas de la forma más divertida
-- Alimento a base de frutas y yogur pasteurizado para bebés a partir de los 12 meses
 - Elaboradas con la mejor selección de frutas y yogur pasteurizado, 100 % natural. No incluye aceite de palma ni azúcares añadidos
+- Conservación y esterilización natural al baño María
+- Alimento a base de frutas y yogur pasteurizado para bebés a partir de los 12 meses
+- Descubre la amplia gama de bolsitas Mi Merienda, perfectas para complementar sus comidas de la forma más divertida
+- Su formato de bolsita no necesita frío, además de ser muy cómodo para transportar y consumir, solo hay que abrir y disfrutar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086LWS4GN/?tag=tolees-21)
