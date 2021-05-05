@@ -28,10 +28,10 @@ Está [Colon Gel Original - Detergente para Lavadora  Formato Gel Profesional  p
 
 ℹ️:
 
-- Apto para ropa blanca y de color
-- Fórmula profesional, especialmente diseñada para las manchas difíciles de la hostelería y la restauración como aceite, grasas y restos de comida
 - Descubre el resto de detergentes y limpialavadoras de Colon
 - Eficacia en agua fría
+- Fórmula profesional, especialmente diseñada para las manchas difíciles de la hostelería y la restauración como aceite, grasas y restos de comida
+- Apto para ropa blanca y de color
 - Detergente para la lavadora en formato gel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XA6IWOC/?tag=tolees-21)

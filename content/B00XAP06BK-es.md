@@ -29,7 +29,7 @@ Está [Haribo - Frutas Tropicales Super - Caramelos de goma - 1 kg](https://www.
 ℹ️:
 
 - Deliciosas piezas en forma de frutas tropicales
-- Caramelos de goma
 - Irresistible sabor a frutas tropicales
+- Caramelos de goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XAP06BK/?tag=tolees-21)
