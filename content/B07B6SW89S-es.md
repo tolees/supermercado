@@ -28,11 +28,11 @@ Tienes [Nestlé Chocolate Extrafino 3 Chocolates - 25 x 120g](https://www.amazon
 
 🔎:
 
-- Deliciosa tableta de chocolate con leche, con un relleno único
-- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
-- Esta caja contiene 25 tabletas de chocolate con tres chocolates 120g
 - Un sabor único e inolvidable que apasiona a toda la familia
+- Esta caja contiene 25 tabletas de chocolate con tres chocolates 120g
+- Deliciosa tableta de chocolate con leche, con un relleno único
 - Chocolate con 100% aromas naturales
 - Deliciosa tableta de chocolate con leche extrafino relleno de tres chocolates
+- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B6SW89S/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Tirma Chocogalletas Blanco  Chocolate  160 Gramos](https://www.amazon.es
 
 ℹ️:
 
-- Información de alérgenos: soy
 - Deliciosa galleta rectangular combinada con una suave y cremosa mini tableta de chocolate blanco tirma
+- Información de alérgenos: soy
 - Una galleta ideal para tomar con tu té o café con una textura crujiente y un chocolate cremoso, óptimo para picar entre horas
-- Saborea el paraíso con este producto elaborado en canarias y entregado a la comodidad de tu puerta
 - Un snack vegetariano (no contiene huevo); hechas para regalar y compartir; conservar en un lugar fresco y seco
+- Saborea el paraíso con este producto elaborado en canarias y entregado a la comodidad de tu puerta
 - Las galletas vienen empaquetadas en una bandeja de plástico, resistente a la humedad, con 4 divisores y 2 galletas en cada divisor (8 galletas por paquete)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01IV5Y0VK/?tag=tolees-21)
