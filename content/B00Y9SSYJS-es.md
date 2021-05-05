@@ -28,11 +28,11 @@ Tienes [PURINA Pro Plan - Purina ProPlan Small Balance pienso para Perro Adulto 
 
 🔎:
 
-- Formulado para una higiene dental total
-- Alimento completo para perros adultos de razas pequeñas y miniatura
-- Una concentración de nutrientes especialmente adaptada para apoyar el rápido metabolismo de los perros pequeños
 - Una combinación de nutrientes clave que ayuda a mantener unas articulaciones saludables para el estilo de vida activo de tu perro
 - Contiene pollo de alta calidad que ayuda en su camino hacia la etapa adulta
+- Formulado para una higiene dental total
+- Alimento completo para perros adultos de razas pequeñas y miniatura
 - Ayuda a mantener un corazón saludable
+- Una concentración de nutrientes especialmente adaptada para apoyar el rápido metabolismo de los perros pequeños
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00Y9SSYJS/?tag=tolees-21)
