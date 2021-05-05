@@ -29,8 +29,8 @@ En este momento está [Nestlé Caja Roja Bombons Can 500 g - Pack de 4](https://
 🔎:
 
 - Nestlé caja roja se fabrica en la penilla (cantabria), con leche fresca recogida diariamente en la cornisa cantábrica
+- 100% cacao de cultivo sostenible seleccionado a través de Nestlé cocoa plan; certificado UTZ
 - Delicioso surtido de 28 bombones de chocolate con leche, negro y blanco de excelente calidad; bombones 100 % aromas naturales
 - Bombones especialmente pensados para regalar, con Caja Roja siempre quedas bien en cualquier celebración
-- 100% cacao de cultivo sostenible seleccionado a través de Nestlé cocoa plan; certificado UTZ
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YQ84F8R/?tag=tolees-21)

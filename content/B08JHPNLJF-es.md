@@ -28,10 +28,10 @@ En este momento está [Nestlé Dark Tableta 85% Cacao 120g - Pack de 25](https:/
 
 🔎:
 
-- Cacao, azúcar, manteca de cacao, cacao desgrasado en polvo, aroma natural de vainilla; Puede contener leche y frutos de cáscara; Cacao: 85% mínimo
-- Leche, frutos de cáscara
-- España
 - Tableta con un 70% de cacao, adecuada para los paladares mas intensos; Hecho con habas de cacao de calidad gracias a la distribución de 15.5 millones de plantas de alto rendimiento
+- Cacao, azúcar, manteca de cacao, cacao desgrasado en polvo, aroma natural de vainilla; Puede contener leche y frutos de cáscara; Cacao: 85% mínimo
+- España
 - 100% cacao de cultivo sostenible seleccionado a través de Nestle cocoa plan
+- Leche, frutos de cáscara
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JHPNLJF/?tag=tolees-21)
