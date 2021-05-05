@@ -28,9 +28,9 @@ Ahora mismo tienes [Note d Espresso - Cápsulas de café para las cafeteras Lava
 
 🔎:
 
-- Compatibles con las cafeteras Lavazza y A Modo Mio, añadir entre 25 y 40 ml de agua por cápsula
-- Rico aroma y delicioso sabor
 - Perfectas para el desayuno o para hacer una pausa cuando te apetezca
+- Rico aroma y delicioso sabor
+- Compatibles con las cafeteras Lavazza y A Modo Mio, añadir entre 25 y 40 ml de agua por cápsula
 - Un café 100 % natural tostado en Italia
 - La caja contiene 100 cápsulas
 

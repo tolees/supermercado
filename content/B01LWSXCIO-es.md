@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cereales Nestlé Fitness Original - 1 paq al 3.72 % de descuento'
-date: 2021-05-04 11:05:31
+date: 2021-05-05 21:33:34
 image: 'https://m.media-amazon.com/images/I/51IU7g50ZTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Cereales Nestlé Fitness Original - 1 paquete de 450 g](https://www.amazo
 
 ℹ️:
 
-- Cereales integrales como ingrediente número 1 (58 % cereales integrales)
-- Cada estuche contiene, aproximadamente, 15 porciones de 30 g
 - Son fuente de fibra, no contienen aceite de palma, ni colorantes, ni aromas artificiales
+- Cada estuche contiene, aproximadamente, 15 porciones de 30 g
+- Cereales integrales como ingrediente número 1 (58 % cereales integrales)
 - Con un 30 % menos de azúcar que la media de cereales similares
 - Deliciosos copos de trigo integral, arroz y avena integral con vitaminas del grupo B (B2, B3, B5 y B6) que contribuyen al metabolismo energético normal
 

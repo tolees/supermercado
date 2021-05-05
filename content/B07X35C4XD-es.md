@@ -29,8 +29,8 @@ Tienes [Note d Espresso Italiano - Cápsulas de café de Guatemala Compatibles c
 🔎:
 
 - Exclusivamente Compatibles con cafeteras de cápsulas Nescafé* y Dolce Gusto* (* No registrado en Amazon EU S.a.r.l.)
-- Un café 100 % natural tostado en Italia
 - Practical pack of 48 capsules
+- Un café 100 % natural tostado en Italia
 - Dosis recomendada de agua 40 ml
 - The delicious flavour and aroma of coffee in a convenient 7 gram capsule
 
