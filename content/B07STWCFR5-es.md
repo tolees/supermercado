@@ -28,10 +28,10 @@ Tienes [Max Factor Coverstick Concealer. Corrector; Tono 001 - 4.5 gr](https://w
 
 ℹ️:
 
-- Ideal para todo tipo de pieles
 - Neutraliza y camufla las imperfecciones
-- Un corrector mate que combina con tu piel a la perfección
 - Cobertura total con acabado mate
 - No obstruye los poros
+- Ideal para todo tipo de pieles
+- Un corrector mate que combina con tu piel a la perfección
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07STWCFR5/?tag=tolees-21)
