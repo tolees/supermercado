@@ -29,7 +29,7 @@ Tienes [Colgate Dentr One 75 ml Mwhite Carbon 1 Unidad  75 ml](https://www.amazo
 🔎:
 
 - La mejor calidad en productos de cuidado personal
-- Dentr Colgate One 75 ml White Carbon
 - Productos para el higiene y aseo, tanto para hombres como para mujeres
+- Dentr Colgate One 75 ml White Carbon
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V6PZZ9J/?tag=tolees-21)
