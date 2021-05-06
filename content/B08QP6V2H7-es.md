@@ -29,9 +29,9 @@ Ahora mismo tienes [Botanica by Air Wick - Botanica de Air Wick - Ambientador Pu
 🔎:
 
 - Descubre el resto de fragancias y ambientadores de Botanica by Air Wick
-- Botellas fabricadas con hasta un 99% de plástico reciclado
 - Spray ambientador Botanica by Air Wick con ingredientes de fragancias naturales y producido de forma sostenible
 - Fragancia pomelo y menta marroquí, mezcla aromática que recuerda a la menta escondida en los jardines de Marruecos
 - Producto final sin testar en animales, libre de acetona, colorantes, ftalatos, propelente
+- Botellas fabricadas con hasta un 99% de plástico reciclado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08QP6V2H7/?tag=tolees-21)

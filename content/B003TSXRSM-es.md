@@ -28,10 +28,10 @@ En este momento está [Fanta Limón Zero Azúcares - Refresco de limón  zero az
 
 🔎:
 
-- Deliciosa bebida refrescante con gas sabor Limón, sin azúcares añadidos y sin calorías
 - Tóma tu refresco solo o mezclado, bien frío con mucho hielo y una rodaja de limón
-- Formato lata 330 ml. ideal para disfrutarla en cualquier momento, lugar y ocasión
 - Sin azúcar añadido. Sin calorías
+- Formato lata 330 ml. ideal para disfrutarla en cualquier momento, lugar y ocasión
+- Deliciosa bebida refrescante con gas sabor Limón, sin azúcares añadidos y sin calorías
 - Fanta lata 330 ml. ideal para disfrutarla en cualquier momento, lugar y ocasión
 - Refresco sin azúcares añadidos y sin calorías
 - Envase 100% reciclable (contenedor amarillo)

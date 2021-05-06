@@ -28,8 +28,8 @@ Tienes [J&B Rare Whisky Escoces  1L](https://www.amazon.es/dp/B00ORW5HVO/?tag=to
 
 ℹ️:
 
+- Suave, con un persistente toque amaderado dulce y un delicado ahumado
 - Servir frío mezclado con cola, ginger ale o hielo
 - Whisky escocés suave elaborado con los mejores whiskies de malta y grano de speyside
-- Suave, con un persistente toque amaderado dulce y un delicado ahumado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ORW5HVO/?tag=tolees-21)

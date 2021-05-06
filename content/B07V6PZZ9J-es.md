@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Dentr One 75 ml Mwhite Carbon 1  al 11.43 % de rebaja'
-date: 2021-04-29 16:17:09
+date: 2021-05-06 11:02:40
 image: 'https://m.media-amazon.com/images/I/51brvKDQjkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'COLGATE'
 buyurl: 'https://www.amazon.es/dp/B07V6PZZ9J/?tag=tolees-21'
 descuento: '11.43'
-average: '2.96733333333333'
+average: '2.95625'
 ---
 
 Tienes [Colgate Dentr One 75 ml Mwhite Carbon 1 Unidad  75 ml](https://www.amazon.es/dp/B07V6PZZ9J/?tag=tolees-21) con precio final de  2.79 EUR (original: 3.15 EUR) (11.43 %  de rebaja) aqui!
