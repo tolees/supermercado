@@ -28,10 +28,10 @@ Está [SERRATS - 6 Unidades - Filetes de Anchoas del Cantábrico en Aceite de Ol
 
 ℹ️:
 
-- Elaborado de forma artesanal por Conservas Serrats. Empresa conservera desde 1890
-- Filetes de Anchoas del Cantábrico
-- 6 Latas Dingley de 85g
 - Cubiertos con Aceite de Oliva. Sin aditivos, 100% natural
+- Filetes de Anchoas del Cantábrico
+- Elaborado de forma artesanal por Conservas Serrats. Empresa conservera desde 1890
 - Pescado durante la costera del Cantábrico
+- 6 Latas Dingley de 85g
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08WQ62J6P/?tag=tolees-21)
