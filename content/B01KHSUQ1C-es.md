@@ -28,10 +28,10 @@ Está [Revlon Ultra HD Gel Pintalabios  Rhubarb ](https://www.amazon.es/dp/B01KH
 
 ℹ️:
 
+- Pigmentos de color de alta definición
 - Sensación sedosa y ligera
 - Tiene tecnología HD alta definición con fórmula base gel ultra hidratante
-- Pigmentos de color de alta definición
-- Punta de precisión para una aplicación precisa en los labios
 - Gel Ultra hidratante con pigmentos de color de alta definición.
+- Punta de precisión para una aplicación precisa en los labios
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01KHSUQ1C/?tag=tolees-21)
