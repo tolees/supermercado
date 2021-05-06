@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nestlé NATIVA 2- Leche de continuación e al 23.88 % de descuento'
-date: 2021-05-04 11:55:14
+date: 2021-05-06 06:39:33
 image: 'https://m.media-amazon.com/images/I/51ZHeFfy+QS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nestlé Nativa'
 buyurl: 'https://www.amazon.es/dp/B088PJRG97/?tag=tolees-21'
 descuento: '23.88'
-average: '16.8922222222222'
+average: '16.902'
 ---
 
 Ahora mismo tienes [Nestlé NATIVA 2- Leche de continuación en polvo- Fórmula para bebés- A partir de los 6 meses - pack de 3 latas x800 gr - Total: 2400 gr](https://www.amazon.es/dp/B088PJRG97/?tag=tolees-21) a 16.99 EUR (original: 22.32 EUR) (23.88 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Nestlé NATIVA 2- Leche de continuación en polvo- Fórmula 
 
 🔎:
 
+- Aporta a peques los nutrientes que necesita
+- Para bebés a partir de los seis meses
 - Contiene DHA (Omega 3), calcio, vitamina D y vitaminas A y C
 - Leche de continuación en polvo
-- Para bebés a partir de los seis meses
-- Aporta a peques los nutrientes que necesita
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088PJRG97/?tag=tolees-21)
