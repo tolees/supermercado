@@ -28,11 +28,11 @@ Tienes [CAMPOS Conserva De Bonito Del Norte De Pesca Certificada Msc En Aceite D
 
 🔎:
 
-- bonito del norte proveniente de pesca sostenible msc certificado por el marine stewarship council
-- práctica lata individual de 80 g peso neto con tapa fácil apertura
-- tradicional bonito del norte en aceite de oliva elaborado con el buen hacer y la tradición acumulada en bermeo desde 1921
 - Información de alérgenos: fish
-- país de origen: españa, producto natural sin conservantes ni colorantes
+- tradicional bonito del norte en aceite de oliva elaborado con el buen hacer y la tradición acumulada en bermeo desde 1921
 - pescado con caña y anzuelo. ver zona de pesca en la lata
+- bonito del norte proveniente de pesca sostenible msc certificado por el marine stewarship council
+- país de origen: españa, producto natural sin conservantes ni colorantes
+- práctica lata individual de 80 g peso neto con tapa fácil apertura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S1C4ZJJ/?tag=tolees-21)

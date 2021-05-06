@@ -28,10 +28,10 @@ En este momento está [Velas Perfumadas para Mujer  MMTX 4.0 OZ Vela Aromática 
 
 🔎:
 
+- 🎁 Regalo Ideal: muy adecuado para el Día de la Madre, el Día del Padre, Aniversario, Cumpleaños, Halloween, Acción de Gracias, Navidad y otras festividades. El juego de velas perfumadas es muy adecuado para descansar, bañarse, hacer yoga y fiestas.
 - 🌸 Soja Natural : la cera de cera de soja natural consta exclusivamente de ingredientes de origen vegetal, vela de soja 100% natural.Nuestra cera es renovable y degradable sin humo negro y, por lo tanto, llena su hogar con una fragancia duradera.
 - 💌Servicio al Cliente: si por alguna razón no está satisfecho con el juego de velas perfumadas MMTX o nuestro servicio, comuníquese con nosotros y nos aseguraremos de que todos sus problemas se resuelvan.
-- 🎁 Regalo Ideal: muy adecuado para el Día de la Madre, el Día del Padre, Aniversario, Cumpleaños, Halloween, Acción de Gracias, Navidad y otras festividades. El juego de velas perfumadas es muy adecuado para descansar, bañarse, hacer yoga y fiestas.
-- 🌸 Regalo de Velas Perfumadas Portátiles: 6.49 * 6.10 * 2.63 pulgadas Paquete exquisito, las velas de aromaterapia de 4.0 oz pueden arder durante 30-35 horas. La aromaterapia crea un ambiente agradable y le brinda relajación a usted y a sus invitados.
 - 🌸4 velas perfumadas de larga duración:Vainilla,Lavanda,Fresia,Rosa, el aroma floral de larga duración llena tu habitación y te ofrece un ambiente cálido y confortable, diferentes aromas florales traen diferentes sensaciones, las velas de aromaterapia pueden mejorar tu calidad de vida
+- 🌸 Regalo de Velas Perfumadas Portátiles: 6.49 * 6.10 * 2.63 pulgadas Paquete exquisito, las velas de aromaterapia de 4.0 oz pueden arder durante 30-35 horas. La aromaterapia crea un ambiente agradable y le brinda relajación a usted y a sus invitados.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XQ3XJXQ/?tag=tolees-21)
