@@ -28,10 +28,10 @@ En este momento está [Antree Molinillo de alimentos y tubo de relleno de salchi
 
 🔎:
 
-- La lista de productos incluye 1 amoladora, 2 placas de molienda (una pequeña y una grande), 1 cuchilla de molienda, 2 tubos de relleno de salchichas, 1 empujador de alimentos (plástico) y 1 cepillo (para regalo) Garantía de 12 meses y servicio al cliente sin preocupaciones. Solo vendemos archivos adjuntos, pero no vendemos el anfitrión rojo en la imagen. Gracias.
 - Compatible con cualquier mezclador de soporte KitchenAid para el hogar. No vendemos máquinas por separado, sólo vendemos accesorios, gracias.
-- Los fabricantes de salchichas vienen en dos tamaños, el mismo diámetro del tubo es de 2-1/4 pulgadas, relleno de salchichas pequeñas: 3/8 pulgadas de diámetro x 4-3/5 pulgadas de largo, relleno de salchichas grande - 5/8 pulgadas de diámetro x 4-3/5 pulgadas de largo.
-- Relleno de salchichas: se utiliza con el molinillo de alimentos para ayudarte a hacer una variedad de salchichas, puedes usar tubos estrechos para pequeñas conexiones de desayuno o tubos grandes para salchichas de venado caseras o bratwurst.
 - Máquina de molienda de alimentos - Las placas de molienda gruesas son adecuadas para moler carnes crudas o cocidas, verduras y quesos; las placas de molienda finas son adecuadas para moler carne cruda, untar carnes cocidas y pan rallado. 10,6 cm de largo x 20,6 cm de ancho x 7,3 cm de alto.
+- La lista de productos incluye 1 amoladora, 2 placas de molienda (una pequeña y una grande), 1 cuchilla de molienda, 2 tubos de relleno de salchichas, 1 empujador de alimentos (plástico) y 1 cepillo (para regalo) Garantía de 12 meses y servicio al cliente sin preocupaciones. Solo vendemos archivos adjuntos, pero no vendemos el anfitrión rojo en la imagen. Gracias.
+- Relleno de salchichas: se utiliza con el molinillo de alimentos para ayudarte a hacer una variedad de salchichas, puedes usar tubos estrechos para pequeñas conexiones de desayuno o tubos grandes para salchichas de venado caseras o bratwurst.
+- Los fabricantes de salchichas vienen en dos tamaños, el mismo diámetro del tubo es de 2-1/4 pulgadas, relleno de salchichas pequeñas: 3/8 pulgadas de diámetro x 4-3/5 pulgadas de largo, relleno de salchichas grande - 5/8 pulgadas de diámetro x 4-3/5 pulgadas de largo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K8HWRLW/?tag=tolees-21)
