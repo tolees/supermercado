@@ -28,10 +28,10 @@ Tienes [GARNIER DELIAL Sensitive Advanced - Crema Facial Hidratante Alta Protecc
 
 🔎:
 
-- Aplicar en rostro y escote justo antes de la exposición solar y reaplica con frecuencia sobre todo después del baño, transpirar o secarte con una toalla
+- Crema solar con muy alta protección para la cara y el escote
 - Resistente al agua, no deja manchas blancas ni sensación grasa
 - Protege de forma inmediata de los rayos UVA largos, previene las quemaduras solares y los daños cutáneos a largo plazo
+- Aplicar en rostro y escote justo antes de la exposición solar y reaplica con frecuencia sobre todo después del baño, transpirar o secarte con una toalla
 - Textura ligera y no pegajosa, de fácil aplicación y rápida absorción
-- Crema solar con muy alta protección para la cara y el escote
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00X9TXURY/?tag=tolees-21)
