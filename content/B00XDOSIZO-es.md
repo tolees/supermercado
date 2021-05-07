@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 16.67 % en Colgate Protección Caries  Pasta de Dien'
-date: 2021-05-03 08:40:24
+date: 2021-05-07 11:40:34
 image: 'https://m.media-amazon.com/images/I/51A-04yowML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Colgate Protección Caries  Pasta de Dientes con flúor activo y calcio 
 
 ℹ️:
 
-- Fantástico sabor menta
+- Contiene flúor activo y calcio líquido
+- Siéntete cómodo con aliento fresco
 - Dientes fuertes
 - Protección contra la caries
-- Siéntete cómodo con aliento fresco
-- Contiene flúor activo y calcio líquido
+- Fantástico sabor menta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDOSIZO/?tag=tolees-21)
