@@ -28,12 +28,12 @@ Tienes [Beaphar Champú Alta Cosmética Perros Pelo Blanco  Un tamaño 750 ml 75
 
 ℹ️:
 
-- Sin parabenos.
-- Proporciona un pelo brillante, realza el color natural y evita que adquiera un color amarillento.
-- Ph neutro.
-- Especialmente para perros de pelaje blanco o claro.
 - Con Edelweis y Exctractos de Leche de Karité.
-- Rango de edad: Todas las edades
+- Sin parabenos.
 - Características especiales: Fácil de usar
+- Especialmente para perros de pelaje blanco o claro.
+- Proporciona un pelo brillante, realza el color natural y evita que adquiera un color amarillento.
+- Rango de edad: Todas las edades
+- Ph neutro.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TORLMKM/?tag=tolees-21)

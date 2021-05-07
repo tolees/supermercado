@@ -29,9 +29,9 @@ En este momento está [Energy Feelings Azúcar de Coco Ecológico  XXL - 1000 gr
 🔎:
 
 - Bajo índice glucémico (IG:35). Adecuado en dietas de control de peso y niveles de azúcar en sangre
-- Delicioso aroma y exquisito sabor (notas de caramelo)
 - Rico en potasio, magnesio, zinc y hierro
-- Rico en glutamina: apoya el equilibrio ácido/alcalino y ayuda a controlar los impulsos de ingerir dulce
 - Fuente natural de vitaminas B1, B2, B3, B6 y C
+- Delicioso aroma y exquisito sabor (notas de caramelo)
+- Rico en glutamina: apoya el equilibrio ácido/alcalino y ayuda a controlar los impulsos de ingerir dulce
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N1UC3SV/?tag=tolees-21)

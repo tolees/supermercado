@@ -28,11 +28,11 @@ Está [Coca-Cola Sabor Original Sin Cafeína - Refresco de cola - botella 2L](ht
 
 ℹ️:
 
-- Botella elaborada con 25% de material reciclado
-- Coca-Cola botella de 2 litros para que disfrute toda la familia de su refresco
-- Bebida refrescante con el sabor inconfundible de tu Coca-Cola de siempre, desde 1886
 - Refresco sin cafeína
-- Envase 100% reciclable (contenedor amarillo)
+- Bebida refrescante con el sabor inconfundible de tu Coca-Cola de siempre, desde 1886
+- Coca-Cola botella de 2 litros para que disfrute toda la familia de su refresco
 - Toma tu refresco frío con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
+- Envase 100% reciclable (contenedor amarillo)
+- Botella elaborada con 25% de material reciclado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XDNZTQ6/?tag=tolees-21)
