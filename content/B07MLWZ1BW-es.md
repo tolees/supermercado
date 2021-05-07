@@ -28,10 +28,10 @@ Está [Consuelo Gran Crema - Café molido italiano - 4 x 250g](https://www.amazo
 
 ℹ️:
 
-- Tostado y envasado en Italia
+- Composición: alto porcentaje de excelentes variedades de robusta
 - 4 paquetes de café molido de 250 g cada uno
 - Intensidad: 6/6
-- Composición: alto porcentaje de excelentes variedades de robusta
 - Esta mezcla tiene un carácter fuerte y un cuerpo bien desarrollado en taza y un sabor duradero.
+- Tostado y envasado en Italia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MLWZ1BW/?tag=tolees-21)
