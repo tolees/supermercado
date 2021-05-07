@@ -28,10 +28,10 @@ Está [Coca-Cola Zero Azúcar Zero cafeína - Refresco de cola sin azúcar  sin 
 
 ℹ️:
 
-- Envase 100% reciclable (contenedor amarillo)
+- Toma tu refresco frío con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
 - Con el refrescante sabor original de Coca-Cola, refresco sin azúcar y sin calorías
 - Refresco sin cafeína
+- Envase 100% reciclable (contenedor amarillo)
 - Coca-Cola Zero Zero pack de 12 unidades, para disfrutarla en cualquier momento, lugar y ocasión
-- Toma tu refresco frío con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ITTEVDA/?tag=tolees-21)
