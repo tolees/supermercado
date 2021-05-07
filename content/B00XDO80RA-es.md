@@ -28,10 +28,10 @@ Tienes [Berberana T&T VTC Vino tinto - 750 ml](https://www.amazon.es/dp/B00XDO80
 
 ℹ️:
 
+- Capacidad: 750 ml.
 - Temperatura de servicio: entre 16º - 17º
+- Tipo de uva: 100% tempranillo
 - Maridaje: Ideal para tomar con todo tipo de tapas, quesos y embutidos.
 - Origen: Vino de la Tierra de Castilla
-- Capacidad: 750 ml.
-- Tipo de uva: 100% tempranillo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDO80RA/?tag=tolees-21)

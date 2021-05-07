@@ -28,10 +28,10 @@ Tienes [Colgate Protección Caries  Pasta de Dientes con flúor activo y calcio 
 
 ℹ️:
 
+- Fantástico sabor menta
+- Protección contra la caries
+- Dientes fuertes
 - Contiene flúor activo y calcio líquido
 - Siéntete cómodo con aliento fresco
-- Dientes fuertes
-- Protección contra la caries
-- Fantástico sabor menta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDOSIZO/?tag=tolees-21)
