@@ -28,9 +28,9 @@ Está [Note d Espresso Italiano - Café de origen molido de Nicaragua  250 g  c
 
 ℹ️:
 
+- 4 paquetes de 250 gramos
 - Disfruta de café de origen de primera calidad procedente de distintas partes del mundo en tu propia casa
 - Hechos en Italia
-- 4 paquetes de 250 gramos
 - Un café 100 % natural tostado en Italia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X5CSBK6/?tag=tolees-21)
