@@ -28,10 +28,10 @@ En este momento está [PINPOXE - Limpiador de orejas  eliminador de ceras de oí
 
 🔎:
 
+- 1. Efecto de microespuma con eliminación segura y eficaz de la cera.
+- 3. Se utiliza para limpiar la inflamación, aliviar el picor y evitar una infección.
 - 2. Eliminación de cera gotas, eficaz para evitar y aliviar el oído exterior.
 - 5. Nuestras suaves fórmula homeopática se fabrican con todos los principios activos naturales. No se conocen efectos secundarios y no se contradicen con los medicamentos que se toman.
 - 4. Limpia fácilmente el oído con microespuma.
-- 1. Efecto de microespuma con eliminación segura y eficaz de la cera.
-- 3. Se utiliza para limpiar la inflamación, aliviar el picor y evitar una infección.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Q6RQLL3/?tag=tolees-21)
