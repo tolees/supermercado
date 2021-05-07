@@ -28,9 +28,9 @@ Ahora mismo tienes [Ballantine`s - Ballantine’s Light Bebida Espirituosa - 700
 
 🔎:
 
-- Con los mismos aromas, contiene 20% de volumen de alcohol, pero mantiene el sabor de Ballantine’s Finest
-- Se recomienda tomar Ballantines Light solo, con hielo o combinarlo con tu refresco habitual
 - Encaja con un estilo de vida tranquilo en el que disfrutar de unas copas por la noche, sin que sea un impedimento para realizar diferentes actividades al día siguiente
 - Ballantines Light mantiene el sabor tradicional de tu Ballantine s de siempre
+- Con los mismos aromas, contiene 20% de volumen de alcohol, pero mantiene el sabor de Ballantine’s Finest
+- Se recomienda tomar Ballantines Light solo, con hielo o combinarlo con tu refresco habitual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TNT2XTR/?tag=tolees-21)

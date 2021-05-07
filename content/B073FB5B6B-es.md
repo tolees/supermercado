@@ -28,9 +28,9 @@ Está [Bionsan Frijoles con Arroz Integral - 6 Paquetes de 220 gr - Total: 1320 
 
 ℹ️:
 
-- Apto para vegetarianos
+- Alimentos ecológicos
 - Sin conservantes ni aditivos químicos
 - Elaborado, preparado y envasado según los métodos de respeto del medio ambiente
-- Alimentos ecológicos
+- Apto para vegetarianos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073FB5B6B/?tag=tolees-21)
