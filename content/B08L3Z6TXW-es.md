@@ -28,8 +28,8 @@ Está [Calvo - Atun claro aceite girasol - 80g](https://www.amazon.es/dp/B08L3Z6
 
 ℹ️:
 
-- Fuente Ácidos Grasos Omega3
 - Fuente Omega3
+- Fuente Ácidos Grasos Omega3
 - Contiene Pescado y/o productos a base de pescados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08L3Z6TXW/?tag=tolees-21)
