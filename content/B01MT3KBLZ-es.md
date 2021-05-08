@@ -28,8 +28,8 @@ En este momento está [Nestlé - Chocolate con Leche Extrafino - Pack de 3 x 125
 
 🔎:
 
-- Chocolate con leche Nestlé Extrafino
-- Un chocolate cremoso, suave y dulce, hecho con leche fresca recogida de Cantabria que garantiza su sabor único e inconfundible
 - Compramos cacao de cultivo sostenible para su elaboración; apto para una dieta sin gluten
+- Un chocolate cremoso, suave y dulce, hecho con leche fresca recogida de Cantabria que garantiza su sabor único e inconfundible
+- Chocolate con leche Nestlé Extrafino
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MT3KBLZ/?tag=tolees-21)
