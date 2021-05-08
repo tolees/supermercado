@@ -28,10 +28,10 @@ En este momento está [Sanytol Desinfectante para Ropa - 500 ml](https://www.ama
 
 🔎:
 
-- La solución más eficaz parar eliminar el mal olor de la ropa o los textiles de raíz, ya que elimina los gérmenes que los provocan
-- Funciona a cualquier temperatura y es apto para todo tipo de ropa
-- Ideal para ropa interior; ropa de deporte; ropa de bebé y niños; ropa del hogar y textiles lavables en contacto con mascotas
 - Para usar en lavadora o a mano
+- Ideal para ropa interior; ropa de deporte; ropa de bebé y niños; ropa del hogar y textiles lavables en contacto con mascotas
+- Funciona a cualquier temperatura y es apto para todo tipo de ropa
+- La solución más eficaz parar eliminar el mal olor de la ropa o los textiles de raíz, ya que elimina los gérmenes que los provocan
 - Deja un agradable y duradero perfume
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01IVN4P08/?tag=tolees-21)
