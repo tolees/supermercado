@@ -28,13 +28,13 @@ Está [Ballantine`s - Ballantine’s Finest Joshua Vides Limited Edition - Whisk
 
 ℹ️:
 
-- Equilibrado, con sabores de chocolate con leche, manzana roja y vainilla; en nariz se perciben aromas suaves y elegantes de miel de brezo con un toque de especias
-- Al igual que ballantines busca romper los códigos convencionales del whisky y desafiar las percepciones de la gente, joshua hace lo mismo a través de su visual que altera la perspectiva, lo que hace que no te puedas perder esta edición limitada
-- Ballantines se ha mantenido fiel a su receta original, el"finest", desde 1910; una mezcla de más de 40 maltas y whiskies de grano, es un whisky tan suave
 - Como servir: Se recomienda servir solo o con hielo en un vaso de cristal ancho
-- Contenido de alcohol (alc/vol): 40.0 percent by volume
 - Fiel a su estilo de reinterpretar objetos cotidianos para hacerlos únicos, vides ha sido invitado por ballantines a reinterpretar su icónica botella finest, así como otros elementos únicos del rico legado y el espíritu pionero de la marca
-- Procedencia: Scotland
+- Equilibrado, con sabores de chocolate con leche, manzana roja y vainilla; en nariz se perciben aromas suaves y elegantes de miel de brezo con un toque de especias
+- Contenido de alcohol (alc/vol): 40.0 percent by volume
+- Ballantines se ha mantenido fiel a su receta original, el"finest", desde 1910; una mezcla de más de 40 maltas y whiskies de grano, es un whisky tan suave
+- Al igual que ballantines busca romper los códigos convencionales del whisky y desafiar las percepciones de la gente, joshua hace lo mismo a través de su visual que altera la perspectiva, lo que hace que no te puedas perder esta edición limitada
 - El whisky escocés ballantines se ha asociado con el mundialmente conocido artista monocromático joshua vides, que aporta su característico toque en blanco y negro a esta última edición limitada
+- Procedencia: Scotland
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08TNTHL1B/?tag=tolees-21)

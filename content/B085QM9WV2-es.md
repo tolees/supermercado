@@ -28,10 +28,10 @@ Ahora mismo tienes [Cola Cao Mocca Café & Cacao  270g](https://www.amazon.es/dp
 
 🔎:
 
-- Alérgenos: contiene leche, trigo y soja; mantener en lugar fresco y seco
-- Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente.
 - Selección de café y ColaCao; sin azúcares añadidos. 1 taza de ColaCao Mocca contiene la misma cafeína que un café soluble
-- El placer de tomar un ColaCao con un toque de café; disfrútalo en caliente para empezar bien el día, o en frío para saborear los deliciosos grumitos de ColaCao Mocca con cafeína
+- Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente.
 - 18 raciones en su envase zip autocierre de 270 gramos
+- Alérgenos: contiene leche, trigo y soja; mantener en lugar fresco y seco
+- El placer de tomar un ColaCao con un toque de café; disfrútalo en caliente para empezar bien el día, o en frío para saborear los deliciosos grumitos de ColaCao Mocca con cafeína
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085QM9WV2/?tag=tolees-21)
