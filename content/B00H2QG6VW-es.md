@@ -28,10 +28,10 @@ Está [Ziaja Manteca De Naranja Jabón Cremoso De Baño 500 Ml  Multicolor](http
 
 ℹ️:
 
+- Hidrata intensamente y cuida el pH fisiológico de la piel.
+- Apto para veganos.
 - Limpia y Lubrica suavemente visiblemente la piel.
 - Ingredientes activos: provitamina B5 (d-panthenol), manteca de naranja, coco-glucósido
-- Apto para veganos.
 - Jabón cremoso para baño y ducha, apto para todo tipo de pieles.
-- Hidrata intensamente y cuida el pH fisiológico de la piel.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00H2QG6VW/?tag=tolees-21)
