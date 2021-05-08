@@ -28,8 +28,8 @@ En este momento está [Garnier Fructis Cofre Hair Food Banana Nutritiva para Pel
 
 🔎:
 
-- ¡Pelo intensamente nutrido y saludable
 - ¡Crea tu menú capilar!
 - Descubre el nuevo pack Fructis Hair Food Menu Banana Nutritiva, la nueva nutrición para el pelo hambriento con un 98% de origen natural.
+- ¡Pelo intensamente nutrido y saludable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0861SRLP3/?tag=tolees-21)

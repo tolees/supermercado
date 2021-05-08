@@ -28,8 +28,8 @@ En este momento está [Colgate Elixir Encias Revitalizante  500 ml](https://www.
 
 🔎:
 
-- La mejor calidad en productos de cuidado personal.
 - Productos para el higiene y aseo, tanto para hombres como para mujeres.
 - Elixir Colgate 500 Ml Encias Revitalizante
+- La mejor calidad en productos de cuidado personal.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B085FBZQ8S/?tag=tolees-21)

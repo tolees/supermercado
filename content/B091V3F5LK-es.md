@@ -28,7 +28,7 @@ Tienes [Affinity Brekkies con Salmón Atún Verduras Y Cereales Alimento para Ga
 
 ℹ️:
 
-- Peso(gr): 1500
 - El artículo que hace juego con éste, es un accesorio o un complemento, es el modelo [AD1226]
+- Peso(gr): 1500
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B091V3F5LK/?tag=tolees-21)
