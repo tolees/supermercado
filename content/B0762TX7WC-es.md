@@ -28,15 +28,15 @@ Ahora mismo tienes [1906 Reserva Especial Cerveza - Pack de 24 botellas x 330 ml
 
 🔎:
 
+- 1906 Reserva Especial Cerveza - Pack de 24 botellas x 330 ml
+- Alcohol 6,5%
+- Con una espuma blanca, abundante y cremosa, cuerpo color ámbar oscuro, limpio y transparente
+- Clasificación Helles Bock
+- Tradición cervecera, carácter único y las mejores materias primas se unen para dar lugar una elegante lager extra con agradables notas tostadas
+- Color 15,5 EBC
+- Elaborada a partir de un mosto específico, en el único centro de producción de Hijos de Rivera, en LA Coruña
 - Materias primas Agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), maíz y lúpulo Perle Hallertau. Levadura seleccionada Hijos de Rivera.
 - Toda nuestra herencia resumida en una cerveza extraordinaria. Maltas tostadas, lúpulo aromático y una guarda prolongada para crear un sabor y aroma con carácter único.
-- Con una espuma blanca, abundante y cremosa, cuerpo color ámbar oscuro, limpio y transparente
 - Amargor 25 EBU
-- 1906 Reserva Especial Cerveza - Pack de 24 botellas x 330 ml
-- Color 15,5 EBC
-- Tradición cervecera, carácter único y las mejores materias primas se unen para dar lugar una elegante lager extra con agradables notas tostadas
-- Clasificación Helles Bock
-- Alcohol 6,5%
-- Elaborada a partir de un mosto específico, en el único centro de producción de Hijos de Rivera, en LA Coruña
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0762TX7WC/?tag=tolees-21)

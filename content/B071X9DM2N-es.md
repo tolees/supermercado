@@ -28,9 +28,9 @@ Ahora mismo tienes [Magno - Gel de ducha Black Energy - 550ml  pack de 6  Total:
 
 🔎:
 
-- Es adecuado para cuidado diario
 - Viene con una formula cremosa
-- Tiene una fragancia energizante con toque cítrico
 - Cuenta con una combinación de toques silvestres y hierbas aromática
+- Es adecuado para cuidado diario
+- Tiene una fragancia energizante con toque cítrico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071X9DM2N/?tag=tolees-21)
