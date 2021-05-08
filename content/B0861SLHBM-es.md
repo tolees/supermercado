@@ -28,10 +28,10 @@ Está [Garnier Fructis Hair Food - Pack Champú + Acondicionador + Mascarilla pa
 
 ℹ️:
 
-- Aplicar el champú sobre el cabello mojado y aclarar, Después, aplicar el acondicionador y aclarar, Para conseguir una hidratación más intensa, aplica la Mascarilla 3 en 1 con y sin aclarado para desenredar o nutrir en profundidad
-- Pelo profundamente hidratado, suave y sin apelmazar por más tiempo, Cabello desenredado sin peso en las puntas
 - Contenido: 1 x Champú Garnier Fructis Hair Food Menú Aloe Hidratante - 350 ml + 1 x Acondicionador Garnier Fructis Hair Food Menú Aloe Hidratante - 350 ml + 1 x Mascarilla Garnier Fructis Hair Food Menú Aloe Hidratante - 390 ml
+- Pelo profundamente hidratado, suave y sin apelmazar por más tiempo, Cabello desenredado sin peso en las puntas
 - Fórmula enriquecida con aloe vera, conocido por sus propiedades hidratantes y refrescantes y un 98% origen natural, Vegano, biodegradable y reciclable, Sin siliconas, Testado dermatológicamente
+- Aplicar el champú sobre el cabello mojado y aclarar, Después, aplicar el acondicionador y aclarar, Para conseguir una hidratación más intensa, aplica la Mascarilla 3 en 1 con y sin aclarado para desenredar o nutrir en profundidad
 - Pack de champú, acondicionador y mascarilla de aloe vera hidratante para pelo normal a seco, Limpia, suaviza y nutre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0861SLHBM/?tag=tolees-21)

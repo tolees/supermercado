@@ -29,9 +29,9 @@ Tienes [TOPICO Geo Cup Taza de café  Plástico  bambú y Silicona  gris](https:
 🔎:
 
 - Principalmente compuesto de materias primas renovables
-- Tapa extraíble de color con apertura para beber integrada
 - Manguito de silicona para un agarre óptimo
-- Capacidad: aprox. 400 ml
 - Taza de café Geo Cup
+- Capacidad: aprox. 400 ml
+- Tapa extraíble de color con apertura para beber integrada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08S1CP9R9/?tag=tolees-21)
