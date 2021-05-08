@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Fructis Cofre Hair Food Banana N con un 20.02 % de descuento'
-date: 2021-05-07 09:13:23
+date: 2021-05-08 10:43:46
 image: 'https://m.media-amazon.com/images/I/51C6NDvxOjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

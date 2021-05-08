@@ -28,9 +28,9 @@ Ahora mismo tienes [Finish Classic Original - Pastillas para el Lavavajillas  Fo
 
 🔎:
 
+- Marca recomendada por los principales fabricantes de lavavajillas
 - Acción de remojo previo que alcanza hasta las manchas más difíciles para que pueda ser eliminadas por completo
 - Para unos mejores resultados combínalo con Finish Sal y Finish Abrillantador
-- Marca recomendada por los principales fabricantes de lavavajillas
 - Desincrusta y elimina los restos de comida
 - Finish Classic Original son las pastillas para el lavavajillas que incluyen acción de prelavado
 

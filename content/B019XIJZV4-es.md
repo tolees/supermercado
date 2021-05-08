@@ -29,7 +29,7 @@ Tienes [Heno de Pravia Original - Jabón de manos  300 ml](https://www.amazon.es
 🔎:
 
 - Productos para el higiene y aseo, tanto para hombres como para mujeres
-- Con productos 100% naturales
 - Jabon líquido de manos Heno de Pravia 300 ml
+- Con productos 100% naturales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B019XIJZV4/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Fairy Original  Pastillas Lavavajillas  125 cápsulas  5 x 25  Limón  M
 
 🔎:
 
-- Contienen sal que garantiza un aclarado completo a la vez que protege el cristal y la plata
+- Pastillas lavavajillas, limpieza que elimina la grasa incrustada a la primera
 - Poderosa acción limpiadora con líquido quitagrasas que garantiza un acabado optimo
 - Mantinen un aroma limpio y fresco en el lavavajillas
-- Pastillas lavavajillas, limpieza que elimina la grasa incrustada a la primera
+- Contienen sal que garantiza un aclarado completo a la vez que protege el cristal y la plata
 - Monodosis listas para usar sin necesidad de retirar el envoltorio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074KL1KS4/?tag=tolees-21)
