@@ -28,10 +28,10 @@ Tienes [LABISTS Magic Mirror Raspberry Pi  un Espejo mágico de Maquillaje con D
 
 🔎:
 
-- No solo un magic mirror, sino también un marco digital electrónico que se puede utilizar como decoración, es adecuado para una variedad de escenas. Puede ponerlo en el dormitorio, la sala de estar o la oficina. Cuando le levanta, descansa y trabaja, siempre puede ver cada hermoso momento de su vida en los fotos y videos.
-- Este espejo mágico no solo dirá que eres el más lindo de todos. También le notificará la hora, la fecha, el clima externo e incluso reproducirá música a través de su teléfono. Puedes personalizarlo totalmente, pensado para cualquier ámbito sea tu casa o tu empresa.
-- El kit Incluido: Magic Mirrorx1, Soporte para Espejo x1, Tornillo para Pared x1, Cable HDMI x1, Cable Tipo C x1, Cable de Alimentación x1, Velcro x1, Tarjeta de Memoria 16GB x1, Manual x1. Nota: No incluye placa Raspberry Pi ni banco de energía.
 - Altavoces dobles incorporada también son elementos destacables de este magic mirror. La pantalla portátil USB C emplea dos altavoces estéreo para que podamos obtener el mejor audio de sus películas, canciones y juegos. Además, cuenta con un conector mini jack de 3,5 mm para escuchar el sonido por los auriculares.
+- No solo un magic mirror, sino también un marco digital electrónico que se puede utilizar como decoración, es adecuado para una variedad de escenas. Puede ponerlo en el dormitorio, la sala de estar o la oficina. Cuando le levanta, descansa y trabaja, siempre puede ver cada hermoso momento de su vida en los fotos y videos.
+- El kit Incluido: Magic Mirrorx1, Soporte para Espejo x1, Tornillo para Pared x1, Cable HDMI x1, Cable Tipo C x1, Cable de Alimentación x1, Velcro x1, Tarjeta de Memoria 16GB x1, Manual x1. Nota: No incluye placa Raspberry Pi ni banco de energía.
+- Este espejo mágico no solo dirá que eres el más lindo de todos. También le notificará la hora, la fecha, el clima externo e incluso reproducirá música a través de su teléfono. Puedes personalizarlo totalmente, pensado para cualquier ámbito sea tu casa o tu empresa.
 - Este espejo mágico no solo dirá que eres el más lindo de todos. También le notificará la hora, la fecha, el clima externo e incluso reproducirá música a través de su teléfono. Puedes personalizarlo totalmente, pensado para cualquier ámbito sea tu casa o tu empresa.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08N6M9RRH/?tag=tolees-21)
