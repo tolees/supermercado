@@ -29,12 +29,12 @@ Está [Amfit Nutrition Barrita de proteína baja en azúcar  19 6gr proteina0 8g
 ℹ️:
 
 - Product 1: Menos que 1g azúcar y menos que 20g de hidratos de carbono por barrita
-- Product 1: Pack de 12 (12x60g)
-- Product 2: Sabor Plátano - 1kg
-- Product 1: Barrita de proteínas sabor a fondant de chocolate con una capa de caramelo sabor chocolate y cobertura sabor chocolate negro, con edulcorantes
 - Product 2: Este producto era anteriormente un producto de PBN. Ahora pertenece a la marca Amfit Nutrition y tiene exactamente la misma fórmula, tamaño y calidad
-- Product 2: Las proteínas contribuyen a conservar y a que aumente la masa muscular
-- Product 1: Alto contenido de proteínas, que contribuyen a que aumente la masa muscular. Mas de 19g de proteínas y solo 192 calorías por barrita
+- Product 2: Sabor Plátano - 1kg
 - Product 2: Este envase contiene 33 porciones
+- Product 1: Barrita de proteínas sabor a fondant de chocolate con una capa de caramelo sabor chocolate y cobertura sabor chocolate negro, con edulcorantes
+- Product 1: Alto contenido de proteínas, que contribuyen a que aumente la masa muscular. Mas de 19g de proteínas y solo 192 calorías por barrita
+- Product 1: Pack de 12 (12x60g)
+- Product 2: Las proteínas contribuyen a conservar y a que aumente la masa muscular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B091GBVNVQ/?tag=tolees-21)
