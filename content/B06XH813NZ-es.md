@@ -28,10 +28,10 @@ En este momento está [Oreo galletas finas de chocolate rellenas de crema caja 1
 
 🔎:
 
-- Combina la textura crujiente de las láminas de galleta con la suavidad y la cremosidad de la nata
+- Formato de 4 prácticas bolsitas individuales con 2 unidades, óptimas para llevar y disfrutar donde quieras
 - Conservar en lugar fresco y seco
 - La versión fina de lás clásicas galletas de cacao rellenas de una deliciosa crema con sabor a vainilla
+- Combina la textura crujiente de las láminas de galleta con la suavidad y la cremosidad de la nata
 - Alérgenos: contiene leche, soja y gluten
-- Formato de 4 prácticas bolsitas individuales con 2 unidades, óptimas para llevar y disfrutar donde quieras
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XH813NZ/?tag=tolees-21)
