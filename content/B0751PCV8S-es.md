@@ -28,10 +28,10 @@ En este momento está [Lavazza Café en Grano Espresso Qualità Rossa  Paquete d
 
 🔎:
 
-- CALIDAD LAVAZZA: Elaborado al 100 % a partir de granos de Arábica especialmente seleccionados, este blend produce un sabor oscuro, intensamente aromático
-- El café espresso definitivo para disfrutar a cualquier hora del día
-- ENVASE: Lavazza café en grano para cafetera espresso Qualità Rossa, paquete de 2 x 500 g (total: 1 kg)
 - ASPECTO: Espuma dorada y color cálido - AROMA: Notas de frutas y flores - SABOR Suave y rico
+- El café espresso definitivo para disfrutar a cualquier hora del día
 - MEZCLA: 100% Arábica - Tueste: Medio - Intensidad: 5 Delicado
+- ENVASE: Lavazza café en grano para cafetera espresso Qualità Rossa, paquete de 2 x 500 g (total: 1 kg)
+- CALIDAD LAVAZZA: Elaborado al 100 % a partir de granos de Arábica especialmente seleccionados, este blend produce un sabor oscuro, intensamente aromático
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0751PCV8S/?tag=tolees-21)
