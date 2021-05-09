@@ -28,10 +28,10 @@ Está [Full Marks Kit Tratamiento Antipiojos para Niños  Elimina los Piojos  Co
 
 ℹ️:
 
-- 100% eficaz contra piojos y liendres; Basado en estudio in vitro y la aplicación adecuada de la loción/spray con el uso posterior de la lendrera
-- Cómodo y fácil de usar, incluso en pelo largo
 - El champú facilita el desprendimiento de liendres y piojos muertos, con ayuda de la lendrera
 - Tratamiento antipiojos completo: Loción Contra Piojos y Liendres, Champú Post-tratamiento y lendrera metálica de gran calidad
+- Cómodo y fácil de usar, incluso en pelo largo
+- 100% eficaz contra piojos y liendres; Basado en estudio in vitro y la aplicación adecuada de la loción/spray con el uso posterior de la lendrera
 - Sin pesticidas: no daña el cuero cabelludo ni crea resistencias
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BMLRSGO/?tag=tolees-21)
