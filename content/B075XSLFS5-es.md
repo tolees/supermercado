@@ -28,9 +28,9 @@ Tienes [TASSIMO Marcilla Café Descafeinado - 5 paquetes de 16 cápsulas: Total 
 
 ℹ️:
 
-- Si algo nos caracteriza en Marcilla es nuestra pasión por elaborar el mejor café. Una pasión que empezó en 1907 y que ha servido para que hoy, más de cien años después, podamos seguir ofreciéndote a ti y a los tuyos todo el aroma y sabor del mejor café, ahora también en Tassimo.
 - Peso neto 1 paquete: 118.4 g (Peso 5 paquetes: 592 g)
-- Cápsulas compatibles con cafeteras Tassimo Bosch
+- Si algo nos caracteriza en Marcilla es nuestra pasión por elaborar el mejor café. Una pasión que empezó en 1907 y que ha servido para que hoy, más de cien años después, podamos seguir ofreciéndote a ti y a los tuyos todo el aroma y sabor del mejor café, ahora también en Tassimo.
 - Disfruta de tu DESCAFEINADO MARCILLA de Tassimo sin perder el sueño
+- Cápsulas compatibles con cafeteras Tassimo Bosch
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075XSLFS5/?tag=tolees-21)
