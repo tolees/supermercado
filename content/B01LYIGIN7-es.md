@@ -28,10 +28,10 @@ Ahora mismo tienes [Hero Baby - Baby Natur. Seleccion De Tres Frutas. Alimento I
 
 🔎:
 
+- Ingredientes 100% naturales, sin conservantes ni colorantes
+- Ingredientes controlados desde que se planta la semilla hasta que son recogidos
 - Conservación natural, como lo harías en casa, al baño maría.
 - Recetas con el equilibrio nutricional específico para cada etapa
-- Ingredientes controlados desde que se planta la semilla hasta que son recogidos
-- Ingredientes 100% naturales, sin conservantes ni colorantes
 - Sin aceite de palma, sin almidón, sin azúcar añadido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LYIGIN7/?tag=tolees-21)
