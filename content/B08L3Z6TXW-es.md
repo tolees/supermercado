@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvo - Atun claro aceite girasol - 80g al 0.00 % de descuento'
-date: 2021-05-08 16:24:07
+date: 2021-05-10 07:20:00
 image: 'https://m.media-amazon.com/images/I/419tOojbSuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Calvo - Atun claro aceite girasol - 80g](https://www.amazon.es/dp/B08L3Z6
 
 ℹ️:
 
-- Fuente Omega3
 - Fuente Ácidos Grasos Omega3
+- Fuente Omega3
 - Contiene Pescado y/o productos a base de pescados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08L3Z6TXW/?tag=tolees-21)
