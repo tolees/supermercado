@@ -28,10 +28,10 @@ Está [Donpow Dispensador de jabón automático  con batería Sensor de Montaje 
 
 ℹ️:
 
+- Max. capacidad: 600 ml. Ideal para lociones jabones líquidos o desinfectantes, etc.
 - Detección automática: sensor inteligente de infrarrojos incorporado, operación totalmente automática y sin contacto, sin más contacto para evitar la segunda infección cruzada.
 - Perfecto para usar en baños, cocinas, jardines de infancia, oficinas, escuelas, hospitales, aeropuertos, hoteles y restaurantes.
 - Fácil y seguro de usar: viene con accesorio de instalación, montado en la pared, fácil de instalar, alimentado por batería 4 * AA (no incluida). Con luz indicadora LED, más conveniente de usar por la noche.
 - SIN desperdicio: Seleccione el líquido 1 ml, elimine el desperdicio y la suciedad de la encimera.
-- Max. capacidad: 600 ml. Ideal para lociones jabones líquidos o desinfectantes, etc.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081C1GT6D/?tag=tolees-21)

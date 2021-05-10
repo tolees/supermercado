@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lindt Swiss Luxury Selection  445gr al 24.47 % de descuento'
-date: 2021-05-09 11:57:56
+date: 2021-05-10 17:45:45
 image: 'https://m.media-amazon.com/images/I/41RmEMw+0ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
