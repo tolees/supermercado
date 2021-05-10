@@ -28,8 +28,8 @@ Tienes [San Miguel Cerveza - Paquete de 24 x 330 ml - Total: 7920 ml](https://ww
 
 ℹ️:
 
-- 0
 - Graduación: 5.4º
 - Capacidad: 33 CL
+- 0
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01B1FIA0E/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Granini sin azúcar zumo 100 % frutas  zumo manzana sin a
 
 🔎:
 
-- Agitar antes de abrir. Una vez abierto conservar en el frigorífico.
 - Todo el sabor de la fruta sin aditivos ni azúcares añadidos
 - Solo contiene los azucares naturalmente presentes en la fruta
-- La manzana es rica en vitaminas A y C, agua, potasio y fibra
+- Agitar antes de abrir. Una vez abierto conservar en el frigorífico.
 - Contenido de fruta: 100%
+- La manzana es rica en vitaminas A y C, agua, potasio y fibra
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WL73HXN/?tag=tolees-21)

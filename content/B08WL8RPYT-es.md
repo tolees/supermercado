@@ -28,10 +28,10 @@ En este momento está [Granini sin azúcar zumo 100 % frutas  zumo piña sin az�
 
 🔎:
 
-- Agitar antes de abrir. Una vez abierto conservar en el frigorífico.
-- Solo contiene los azucares naturalmente presentes en la fruta
 - Contenido de fruta: 100%
 - La piña es rica en vitaminas A y C, minerales, bromelina y agua
+- Agitar antes de abrir. Una vez abierto conservar en el frigorífico.
+- Solo contiene los azucares naturalmente presentes en la fruta
 - Todo el sabor de la fruta sin azúcares añadidos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WL8RPYT/?tag=tolees-21)

@@ -29,9 +29,9 @@ En este momento está [James Wellbeloved Alimento seco para Gatos para Adultos y
 🔎:
 
 - Hipoalergénico: ideal para gatos con piel o sensibilidad digestiva
-- Contiene extracto de arándano: beneficioso para el tracto urinario
-- Promueve una capa sana y brillante: una mezcla de ácidos grasos Omega 3 y Omega 6
-- Ayuda a reducir el olor de las heces: con extracto de yuca añadido
 - Taurina añadida: un ácido graso esencial para gatos, apoyo a los ojos y el corazón
+- Ayuda a reducir el olor de las heces: con extracto de yuca añadido
+- Promueve una capa sana y brillante: una mezcla de ácidos grasos Omega 3 y Omega 6
+- Contiene extracto de arándano: beneficioso para el tracto urinario
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075MCY3DW/?tag=tolees-21)
