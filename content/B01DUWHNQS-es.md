@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Calvo Sardinillas en Aceite de Oliva Baj al 33.33 % de descuento'
-date: 2021-04-29 11:17:25
+title: 'Calvo Sardinillas en Aceite de Oliva Baj al 0.00 % de descuento'
+date: 2021-05-10 15:02:46
 image: 'https://m.media-amazon.com/images/I/51Da8XpFeoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Alimentación y bebidas','Conservas','Conservas de pescado','Conservas 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0
-comparePrice: 1.5 EUR
+comparePrice:  EUR
 prodname: 'Calvo Sardinillas en Aceite de Oliva Baja en Sal  60g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Calvo'
 buyurl: 'https://www.amazon.es/dp/B01DUWHNQS/?tag=tolees-21'
-descuento: '33.33'
-average: '1.175'
+descuento: '0.00'
+average: '1.14'
 ---
 
-Está [Calvo Sardinillas en Aceite de Oliva Baja en Sal  60g](https://www.amazon.es/dp/B01DUWHNQS/?tag=tolees-21) con 33.33 de descuento por 1.0 EUR (original: 1.5 EUR) en el siguiente enlace!
+Está [Calvo Sardinillas en Aceite de Oliva Baja en Sal  60g](https://www.amazon.es/dp/B01DUWHNQS/?tag=tolees-21) con 0.00 de descuento por 1.0 EUR (original:  EUR) en el siguiente enlace!
 
 [![Calvo Sardinillas en Aceite de Oliva Baj](https://m.media-amazon.com/images/I/51Da8XpFeoL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01DUWHNQS/?tag=tolees-21)
 

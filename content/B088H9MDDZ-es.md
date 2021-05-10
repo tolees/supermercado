@@ -28,10 +28,10 @@ Tienes [LDREAMAM - Kit de pestañas  Kit de Permanente de Pestañas  Maquillaje 
 
 🔎:
 
-- Seguro y efectivo: nuestra herramienta para rizar pestañas tiene una fragancia suave y poca irritación, por lo que es muy segura de usar. Se recomienda que realice una prueba cutánea en los párpados antes de usarlo por primera vez. Si no hay molestias o irritación, puede usarlo.
 - Adecuado para fiestas o bodas: el levantamiento de pestañas es una forma novedosa e innovadora de mantener las pestañas rizadas rápidamente y lucir más jóvenes
+- Seguro y efectivo: nuestra herramienta para rizar pestañas tiene una fragancia suave y poca irritación, por lo que es muy segura de usar. Se recomienda que realice una prueba cutánea en los párpados antes de usarlo por primera vez. Si no hay molestias o irritación, puede usarlo.
+- Curva de apariencia natural: use nuestra herramienta de permanente para que sus pestañas se vean más naturales, ayude a que sus ojos sean más grandes, más hermosos y llenos de espíritu
 - Herramientas profesionales para rizar pestañas: las herramientas para rizar incluyen pegamento, nutrientes, fijadores, líquido nutritivo, herramientas de limpieza
 - Fácil de usar: Este kit de permanente de pestaña utiliza almohadillas de silicona en lugar de las pestañas normales. Más fácil de trabajar y menos daño y desorden permiten que el rizo se curve naturalmente de forma hermosa.
-- Curva de apariencia natural: use nuestra herramienta de permanente para que sus pestañas se vean más naturales, ayude a que sus ojos sean más grandes, más hermosos y llenos de espíritu
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088H9MDDZ/?tag=tolees-21)

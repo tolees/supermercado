@@ -28,9 +28,9 @@ En este momento está [Hendrick S Ginebra Botella  700ml](https://www.amazon.es/
 
 🔎:
 
-- Graduación de 44º
 - Fue galardonado con la medalla de plata por el International Wine and Spirit Competition (2010)
-- Capacidad de 700 ml
+- Graduación de 44º
 - Los aromas se compone de flores, raíces, frutos y semillas que complementa las dos infusiones principales de pétalo de rosa y pepino
+- Capacidad de 700 ml
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004LLZP3Q/?tag=tolees-21)
