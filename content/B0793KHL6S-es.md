@@ -28,8 +28,8 @@ Está [Dove Aceite de Coco y Leche de Almendras Crema de Manos  paquete de 6  75
 
 ℹ️:
 
-- Contenido de 75 ml
 - De uso diario para restablecer la máxima suavidad de las manos
+- Contenido de 75 ml
 - Transforma la piel seca en una piel aterciopelada, luminosa y de aspecto uniforme
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0793KHL6S/?tag=tolees-21)

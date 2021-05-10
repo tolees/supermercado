@@ -28,10 +28,10 @@ Tienes [Note d Espresso Italiano - Cápsulas de Café Nescafé e Dolce Gusto  co
 
 ℹ️:
 
-- Práctica caja de 96 unidades
 - Un café 100 % natural tostado y molido en Italia
+- Dosis recomendada de agua 40 ml
 - Un expreso italiano tradicional en una pequeña cápsula de 7 gramos
 - Exclusivamente Compatibles con cafeteras de cápsulas Nescafé* y Dolce Gusto* (* No registrado en Amazon EU S.a.r.l.)
-- Dosis recomendada de agua 40 ml
+- Práctica caja de 96 unidades
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07WVCKS5Y/?tag=tolees-21)
