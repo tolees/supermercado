@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dove Invisible Dry - Desodorante stick   al 0.00 % de descuento'
-date: 2021-05-07 10:35:48
+date: 2021-05-10 09:32:20
 image: 'https://m.media-amazon.com/images/I/31jo4+CM+sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Dove Invisible Dry - Desodorante stick  40 ml  empaque puede variar ](htt
 
 ℹ️:
 
-- Marca: Dove
 - Género: Unisex Adultos
 - Tipo de producto: Desodorante
+- Marca: Dove
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006EHVDWW/?tag=tolees-21)

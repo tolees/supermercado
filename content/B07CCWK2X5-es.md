@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.01 % en Scottex Megarollo Papel Higiénico  48 Me'
-date: 2021-05-08 11:35:22
+date: 2021-05-10 09:40:59
 image: 'https://m.media-amazon.com/images/I/51VxU2OHB7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Scottex'
 buyurl: 'https://www.amazon.es/dp/B07CCWK2X5/?tag=tolees-21'
 descuento: '20.01'
-average: '25.1915841584153'
+average: '25.1792105263152'
 ---
 
 Tienes [Scottex Megarollo Papel Higiénico  48 Megarollos  equivale a 96 rollos estándar ](https://www.amazon.es/dp/B07CCWK2X5/?tag=tolees-21) con un 20.01 % de descuento con precio de oferta de 21.43 EUR (original: 26.79 EUR) en el siguiente enlace!
