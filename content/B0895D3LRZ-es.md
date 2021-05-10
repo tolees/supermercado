@@ -28,10 +28,10 @@ En este momento está [DonnaPlus Embarazo 30 perlas  Complemento alimenticio par
 
 🔎:
 
-- Tomar 1 perla al día, en una de las comidas principales.
 - La nueva fórmula DONNAplus Embarazo aporta 600 UI de vitamina D y 28 mg de hierro aminoquelado para daptarse a las recomendaciones de la Sociedad Española de Ginecología y Obstetricia (SEGO).
 - El DHA es un ácido graso poliinsaturado Omega-3. El aporte de 200 mg de este compuesto contribuye al normal desarrollo cerebral y visual del feto y lactante, alimentados con lactancia materna*.
-- Por su completa composición, DONNAplus Embarazo resulta una excelente alternativa para ayudar a cubrir estos requerimientos gracias a que aporta DHA, 11 vitaminas y 5 minerales.
 - DONNAPlus Embarazo aporta esta cantidad de DHA procedente de microalgas, fuente lipídica que destaca por su elevado grado de pureza y concentración.
+- Por su completa composición, DONNAplus Embarazo resulta una excelente alternativa para ayudar a cubrir estos requerimientos gracias a que aporta DHA, 11 vitaminas y 5 minerales.
+- Tomar 1 perla al día, en una de las comidas principales.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0895D3LRZ/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [STARBUCKS Espresso Roast De Nescafe Dolce Gusto Cápsulas De Café De To
 
 🔎:
 
-- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
-- Cápsulas de café de STARBUCKS de NESCAFE DOLCE GUSTO con intensas notas a caramelo
-- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
-- Cápsulas de café compatibles con cafeteras NESCAFE DOLCE GUSTO
 - Intenso y con un toque de caramelo, este café es el que más empleamos para nuestro latte
+- Cápsulas de café de STARBUCKS de NESCAFE DOLCE GUSTO con intensas notas a caramelo
+- Cápsulas de café compatibles con cafeteras NESCAFE DOLCE GUSTO
+- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
+- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WZV4DSH/?tag=tolees-21)

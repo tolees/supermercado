@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Haribo Balla Stixx Fresa Sin Gluten 175  con un 37.11 % de descuento'
-date: 2021-04-27 11:45:29
+title: 'Haribo Balla Stixx Fresa Sin Gluten 175  con un 0.00 % de descuento'
+date: 2021-05-10 10:40:20
 image: 'https://m.media-amazon.com/images/I/51AYmRWyvRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Alimentación y bebidas','Chicles y golosinas','Dulces, chocolates y ch
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0
-comparePrice: 1.59 EUR
+comparePrice:  EUR
 prodname: 'Haribo Balla Stixx Fresa Sin Gluten 175 g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B07WSWWFG3/?tag=tolees-21'
-descuento: '37.11'
-average: '1.384'
+descuento: '0.00'
+average: '1.32'
 ---
 
-En este momento está [Haribo Balla Stixx Fresa Sin Gluten 175 g](https://www.amazon.es/dp/B07WSWWFG3/?tag=tolees-21) a 1.0 EUR (original: 1.59 EUR) (37.11 %  de descuento) en el siguiente enlace!
+En este momento está [Haribo Balla Stixx Fresa Sin Gluten 175 g](https://www.amazon.es/dp/B07WSWWFG3/?tag=tolees-21) a 1.0 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
 
 [![Haribo Balla Stixx Fresa Sin Gluten 175 ](https://m.media-amazon.com/images/I/51AYmRWyvRL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07WSWWFG3/?tag=tolees-21)
 

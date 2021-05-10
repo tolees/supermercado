@@ -28,10 +28,10 @@ En este momento está [Lactovit - Gel + Loción DUO Lactourea  con un 50% de Loc
 
 🔎:
 
-- Compromiso Lactovit; activos 100% naturales de la leche y altamente biodegradables, mejorando la reciclabilidad de nuestros envases y cuidando del medio ambiente.
-- Desde el primer día, notarás tu piel hidratada, más suave y reparada, además de disfrutar durante todo el día de su delicioso perfume lácteo.
-- Gel + loción DUO reparador con un 50% de loción corporal, mantiene la piel hidratada hasta 24h después de su uso
 - Gracias a su fórmula con Lactourea, notarás una sensación ultra-hidratante y reparadora en tu piel durante 24h, el único producto que fusiona higiene y nutrición.
+- Gel + loción DUO reparador con un 50% de loción corporal, mantiene la piel hidratada hasta 24h después de su uso
+- Compromiso Lactovit; activos 100% naturales de la leche y altamente biodegradables, mejorando la reciclabilidad de nuestros envases y cuidando del medio ambiente.
 - Formulado con PROTEIN CALCIUM, que refuerza y nutre la piel para mantenerla fuerte y joven. Piel más hidratada, elástica y firme. Una piel reparada es el secreto de una piel joven.
+- Desde el primer día, notarás tu piel hidratada, más suave y reparada, además de disfrutar durante todo el día de su delicioso perfume lácteo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QVKRJK3/?tag=tolees-21)
