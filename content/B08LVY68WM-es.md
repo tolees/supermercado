@@ -28,10 +28,10 @@ En este momento está [MITALY - CÁPSULAS COMPOSTABLES - Caja de 100 cápsulas C
 
 🔎:
 
-- Cápsula barrera AROMA PROTECT Made in Italy 🇮🇹 Envasada en atmósfera protegida
 - 🌱 CÁPSULAS DE MESA PARA COMPOST - OK COMPOST 🌱 CERTIFICADAS PARA COMPOSTE POR TÜV AUSTRIA (para ser desechadas después de su uso en la industria orgánica)
-- Café Arábica tostado y molido de Brasil y Centroamérica en cápsulas compostables
 - 🔥 100 CÁPSULAS COMPOSTABLES Compatible con el sistema Nespresso
+- Café Arábica tostado y molido de Brasil y Centroamérica en cápsulas compostables
+- Cápsula barrera AROMA PROTECT Made in Italy 🇮🇹 Envasada en atmósfera protegida
 - Café con cuerpo que revela deliciosas notas de muesli y caramelo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LVY68WM/?tag=tolees-21)

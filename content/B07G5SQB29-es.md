@@ -28,17 +28,17 @@ Tienes [Baby Dove Champú Hipoalergénico Hidratación Profunda - Pack de 6 x 40
 
 🔎:
 
-- Fórmula hipoalergénica con pH neutro para la piel del bebé
 - Repone la hidratación y nutrientes esenciales de la piel del bebé
-- Sin lágrimas
-- Con hidratante prebiótico
-- Formulado con ingredientes que mantienen el cuero cabelludo hidratado y visiblemente saludable, además de suave y acondicionado
-- Con ¼ de crema hidratante
 - Dermatológica, pediátrica y oftalmológicamente testado
+- Fórmula hipoalergénica con pH neutro para la piel del bebé
+- Con ¼ de crema hidratante
 - Tan suave como el agua; Clínicamente probado
-- Formulado con limpiadores suaves, sin sulfatos SLES
-- Con nutrientes 100% naturalmente presentes en la piel del bebé
+- Con hidratante prebiótico
 - Champú para bebés adecuado para recién nacidos
 - Sin colorantes artificiales
+- Formulado con ingredientes que mantienen el cuero cabelludo hidratado y visiblemente saludable, además de suave y acondicionado
+- Sin lágrimas
+- Formulado con limpiadores suaves, sin sulfatos SLES
+- Con nutrientes 100% naturalmente presentes en la piel del bebé
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07G5SQB29/?tag=tolees-21)
