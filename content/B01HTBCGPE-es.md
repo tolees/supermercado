@@ -29,8 +29,8 @@ Está [Pulvera - Puleva Omega 3 Leche con Nueces  6 x 1L](https://www.amazon.es/
 ℹ️:
 
 - Las nueces, con alto contenido en ácido oléico, le aportan un sabor único y natural.
-- Unidad de consumo 1 litro
 - Único lácteo Omega 3 con ácido oleico.
+- Unidad de consumo 1 litro
 - Fuente de ácidos grasos Omega 3.
 - 1 vaso aporta el 50% de la CDR de Omega 3.
 
