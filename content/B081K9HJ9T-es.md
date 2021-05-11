@@ -28,15 +28,15 @@ Tienes [Nutribén EcoPotitos De Verduras De Huerta con Pavo Desde Los 6 Meses Pa
 
 🔎:
 
-- Los Ecopotitos.estan certificados con los sellos de la agricultura ecológica, que avalan el origen de los ingredientes procedentes de la agricultura ecológica.
-- Los potitos marca registrada Nutribén
-- con aceite de oliva virgen extra de origen ecológico
+- Sin gluten, sin leche, sin aromas ni especias, sin conservantes ni colorante, sin sal ni azúcares añadidos. Contiene azúcares naturalmente presentes
 - Libre de BPA (Bisfenol A)
 - Pack de 6 x 235gr
 - Nuevos nombres más intuitivos y explicativos de lo que contiene cada receta
-- Sin gluten, sin leche, sin aromas ni especias, sin conservantes ni colorante, sin sal ni azúcares añadidos. Contiene azúcares naturalmente presentes
-- Elaborado con ingredientes ecológicos
-- Los EcoPotitos ofrecen una alimentacion completa y equilibrada, ofreciendo la máxima calidad y seguridad.
+- con aceite de oliva virgen extra de origen ecológico
 - Nuevo envase de etiqueta transparente y boca más ancha
+- Los Ecopotitos.estan certificados con los sellos de la agricultura ecológica, que avalan el origen de los ingredientes procedentes de la agricultura ecológica.
+- Los EcoPotitos ofrecen una alimentacion completa y equilibrada, ofreciendo la máxima calidad y seguridad.
+- Los potitos marca registrada Nutribén
+- Elaborado con ingredientes ecológicos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081K9HJ9T/?tag=tolees-21)

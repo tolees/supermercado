@@ -28,8 +28,8 @@ Tienes [Note d Espresso Italiano - Café de origen de Brasil en grano  250 g  c
 
 🔎:
 
-- Un café 100 % natural tostado en Italia
 - Disfruta de café de origen de primera calidad procedente de distintas partes del mundo en tu propia casa
+- Un café 100 % natural tostado en Italia
 - 4 paquetes de 250 gramos
 - Hechos en Italia
 
