@@ -28,13 +28,13 @@ En este momento está [BODEGA CUATRO RAYAS - Descomunal Verdejo Vino blanco D.O 
 
 🔎:
 
-- Alérgenos: Contiene sulfitos
-- Maridaje: Pescado, marisco fresco y ensaladas templadas.
-- Temperatura de servicio: 6 – 8ºC.
 - En boca es redondo y persistente, con notas de fruta de hueso.
-- Elaborado a partir de una selección de verdejos provenientes de la zona de Valladolid, con suelo cascajoso. Vendimia nocturna mecanizada. Fermentación en depósito de acero inoxidable. Temperatura de fermentación: 15ºC. Duración de la fermentación 21 días. Maceración en frío: 4 horas 6ºC.
-- D.O. Rueda
+- Alérgenos: Contiene sulfitos
 - En nariz es potente y fresco, con aromas a plátano y melocotón, así como heno fresco.
+- Temperatura de servicio: 6 – 8ºC.
+- D.O. Rueda
+- Elaborado a partir de una selección de verdejos provenientes de la zona de Valladolid, con suelo cascajoso. Vendimia nocturna mecanizada. Fermentación en depósito de acero inoxidable. Temperatura de fermentación: 15ºC. Duración de la fermentación 21 días. Maceración en frío: 4 horas 6ºC.
+- Maridaje: Pescado, marisco fresco y ensaladas templadas.
 - Color Amarillo pajizo con reflejos verdosos, brillante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QKBDCGM/?tag=tolees-21)
