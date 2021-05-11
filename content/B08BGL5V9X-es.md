@@ -30,8 +30,8 @@ Tienes [Dixan Duo Caps Aromaterapia Frescor Sensual 14 Lavados - Pack de 8  Tota
 
 - Luminosidad para toda la ropa: blancos y colores
 - Olor fresco y duradero, gracias a su tecnología exclusiva que mantiene la ropa fresca incluso tras 12h dentro de la lavadora
-- Fáciles de transportar y de almacenar; los packs son menos pesados y más cómodosocuparán menos en tu bolsa de la compra y en casa
 - Gran poder en eliminación de manchas
 - Formato sostenible; menos plástico en su producción, menos emisiones y en un práctico envase reutilizable
+- Fáciles de transportar y de almacenar; los packs son menos pesados y más cómodosocuparán menos en tu bolsa de la compra y en casa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BGL5V9X/?tag=tolees-21)
