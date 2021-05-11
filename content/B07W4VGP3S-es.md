@@ -28,10 +28,10 @@ En este momento está [Dr. Oetker Molde Bundt  aluminio fundido con revestimient
 
 🔎:
 
-- Dimensiones: 24x24x10cm
-- APLICACIÓN: con forma de flor que dará resultado a unos pasteles originales y divertidos; las paredes del molde son especialmente resistente con un excelente revestimiento antiadherente que fácil ita el desmolde del pastel
-- PRÁCTICO: resistente hasta 230ºc., lavar a mano y secar muy bien. 5 años de garantía; calidad testada en las cocinas de dr; oetker con más de 100 años de experiencia
 - INCLUYE: 1 x molde bundt
+- Dimensiones: 24x24x10cm
 - MATERIAL: aluminio fundido con revestimiento antiadherente
+- PRÁCTICO: resistente hasta 230ºc., lavar a mano y secar muy bien. 5 años de garantía; calidad testada en las cocinas de dr; oetker con más de 100 años de experiencia
+- APLICACIÓN: con forma de flor que dará resultado a unos pasteles originales y divertidos; las paredes del molde son especialmente resistente con un excelente revestimiento antiadherente que fácil ita el desmolde del pastel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W4VGP3S/?tag=tolees-21)

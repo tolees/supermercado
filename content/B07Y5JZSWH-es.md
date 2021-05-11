@@ -28,9 +28,9 @@ Tienes [Der-Franz - Café Melange con certificación UTZ  en grano  1000 g](http
 
 ℹ️:
 
+- Tostado con pasión y siguiendo la experta tradición vienesa desde 1929; suavemente aromatizado con un tostado de tambor a largo plazo
+- Todas nuestras variedades tienen la certificación UTZ como parte de Rainforest Alliance; llevamos la sostenibilidad y la responsabilidad medioambiental en nuestro corazón
 - Una mezcla vienesa tradicional, 100 % arábica, con un sabor redondo y mucho cuerpo, y un bajo nivel de taninos para una fácil digestión
 - Der-Franz Melange: café tostado en granos enteros; intensidad 3 de 5; tostado 3 de 5; acidez 3 de 5; mezcla perfecta para Espresso, Lungo o Cappuccino
-- Todas nuestras variedades tienen la certificación UTZ como parte de Rainforest Alliance; llevamos la sostenibilidad y la responsabilidad medioambiental en nuestro corazón
-- Tostado con pasión y siguiendo la experta tradición vienesa desde 1929; suavemente aromatizado con un tostado de tambor a largo plazo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Y5JZSWH/?tag=tolees-21)

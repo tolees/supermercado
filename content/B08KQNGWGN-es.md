@@ -28,13 +28,13 @@ En este momento está [Hendrick s Ginebra Edición Limitada - 700 ml](https://ww
 
 🔎:
 
-- Como servir: Para el clásico gin tonic, servir con mucho hielo, tónica y rodajas de pepino
-- Contenido de alcohol (alc/vol.) : 44.0 percent by volume
 - Diseño vintage – la ginebra perfecta para regalo
-- Procedencia: Scotland
-- Suave, con un balance de sutiles sabores – perfecto para gin tonics y perfecto para cócteles
+- Contenido de alcohol (alc/vol.) : 44.0 percent by volume
 - Sabor único con notas a refrescante pepino y rosa
 - Ninguna otra ginebra sabe cómo hendricks porque ninguna otra ginebra está hecha como hendricks
+- Suave, con un balance de sutiles sabores – perfecto para gin tonics y perfecto para cócteles
 - Tipo de alcohol: Gins
+- Procedencia: Scotland
+- Como servir: Para el clásico gin tonic, servir con mucho hielo, tónica y rodajas de pepino
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KQNGWGN/?tag=tolees-21)
