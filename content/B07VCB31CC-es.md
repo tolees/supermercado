@@ -29,9 +29,9 @@ Está [L Oréal - NYX PMU - Paleta de sombras en crema Glitter Goals Cream Pro P
 ℹ️:
 
 - Glitter fácil de aplicar
-- Gracias a su fórmula crema es muy fácil de aplicar, úsalo solo o combina los colores entre si
 - Consigue un look brillante
 - Paleta de glitter de alta pigmentación
 - Saca tu lado glitter con Glitter Goals
+- Gracias a su fórmula crema es muy fácil de aplicar, úsalo solo o combina los colores entre si
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VCB31CC/?tag=tolees-21)

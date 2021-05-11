@@ -28,10 +28,10 @@ Ahora mismo tienes [TMISHION - Crema Hidratante  Crema Facial Cuidado 50g  Crema
 
 🔎:
 
-- Textura delicada y ligera, fácil de absorber.
-- Ayuda a mejorar la sequedad de la piel y la escasez de agua, nutre y cuida la piel, la suaviza y la llena.
-- Línea de tratamiento antiedad con fórmulas que ofrecen toda la eficacia antiarrugas y firmeza.
-- Con el efecto hidratante, nutritivo e hidratante, hará que su piel sea suave y delicada.
 - Aplicar diariamente sobre todo el rostro y cuello previamente limpios.
+- Textura delicada y ligera, fácil de absorber.
+- Línea de tratamiento antiedad con fórmulas que ofrecen toda la eficacia antiarrugas y firmeza.
+- Ayuda a mejorar la sequedad de la piel y la escasez de agua, nutre y cuida la piel, la suaviza y la llena.
+- Con el efecto hidratante, nutritivo e hidratante, hará que su piel sea suave y delicada.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VJ28MM7/?tag=tolees-21)

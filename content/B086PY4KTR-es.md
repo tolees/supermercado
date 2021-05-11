@@ -28,10 +28,10 @@ Tienes [LNIEGE Antiadherente Lavavajillas Paño de Limpieza Estropajo la Toalla 
 
 🔎:
 
-- Ampliamente utilizado en la limpieza de los platos, ollas, sartenes, utensilios de cocina, vajilla, cerámica, muebles, etc., sin arañazos y marcas.
-- Tamaño: 25 x 25 cm
 - Nombre: paño de fregado
 - La fibra de bambú tiene gran absorción, antibacteriana y mildewproof.
+- Tamaño: 25 x 25 cm
+- Ampliamente utilizado en la limpieza de los platos, ollas, sartenes, utensilios de cocina, vajilla, cerámica, muebles, etc., sin arañazos y marcas.
 - Son durables y hechos para durar cientos de lavados. Son ligeros, súper absorbente y se secan rápidamente, utilizan todos los días para disfrutar de su limpieza.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086PY4KTR/?tag=tolees-21)
