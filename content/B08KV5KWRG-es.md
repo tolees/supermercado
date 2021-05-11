@@ -28,8 +28,8 @@ Tienes [Bimbo Mini Tostas Redondas 100 gr  Pack de 24](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Contiene Gluten
-- Trigo; contiene Gluten
 - España
+- Trigo; contiene Gluten
+- Contiene Gluten
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08KV5KWRG/?tag=tolees-21)
