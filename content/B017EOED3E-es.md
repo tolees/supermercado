@@ -28,10 +28,10 @@ En este momento está [El Granero Integral JENGIBRE BIO 500 mg 90 Caps  0](https
 
 🔎:
 
+- 1 pack tiene 90 cápsulas
+- Un producto bio
 - Ingredientes: 400 mg de polvo de raíz de jengibre. 20 mg de extracto seco de jengibre
 - Jengibre 500mg
-- Un producto bio
-- 1 pack tiene 90 cápsulas
 - Apto para venganos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B017EOED3E/?tag=tolees-21)

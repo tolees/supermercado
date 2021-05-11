@@ -29,8 +29,8 @@ Ahora mismo tienes [Corrector de ojeras Maybelline número 4 de 6 8 ml  color m
 🔎:
 
 - Se puede usar con o sin base de maquillaje.
-- Elimina las ojeras y líneas finas al instante.
 - Los pigmentos de color cubren la zona de debajo de los ojos a la perfección.
+- Elimina las ojeras y líneas finas al instante.
 - Disminuye visiblemente las bolsas de debajo de los ojos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06Y3T2GQK/?tag=tolees-21)
