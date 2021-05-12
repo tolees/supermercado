@@ -28,10 +28,10 @@ En este momento está [Beyonda - Decantador de vino tinto de 1 5 l  sin plomo  d
 
 🔎:
 
-- Excepcional forma de cisne – la jarra de vino convence por su extraordinaria forma. En el cuello largo, el aire circula por lo que el ramo no se escapa. Y sin embargo, el vino en el cuerpo del decantador recibe suficiente oxígeno para una ventilación óptima.
 - Gran capacidad de 1500 ml: además este decantador de vino tiene una capacidad especialmente grande. Pesa 620 gramos y tiene una capacidad de 1500 mililitros. Permite que el vino respire y libera aroma y ramo del vino.
-- Fácil limpieza y 100% satisfacción: la jarra decantadora se puede lavar en el lavavajillas. Cada producto de nosotros pasa por estrictos controles de calidad, si hay problemas de calidad, recibirá un reembolso completo. Si tienes alguna pregunta, por favor, ponte en contacto con nosotros
 - Fácil de manejar y regar: el decantador en forma de cisne es el mejor para karaffificar. Los vinos frescos y más jóvenes están bien recogidos en el recipiente, ya que entran en contacto con el aire. El vertido de líquido puede resultar más complicado debido a su forma inusual.
+- Fácil limpieza y 100% satisfacción: la jarra decantadora se puede lavar en el lavavajillas. Cada producto de nosotros pasa por estrictos controles de calidad, si hay problemas de calidad, recibirá un reembolso completo. Si tienes alguna pregunta, por favor, ponte en contacto con nosotros
+- Excepcional forma de cisne – la jarra de vino convence por su extraordinaria forma. En el cuello largo, el aire circula por lo que el ramo no se escapa. Y sin embargo, el vino en el cuerpo del decantador recibe suficiente oxígeno para una ventilación óptima.
 - Decantador antigoteo: el vino se rellena en esta decantadora de vino tinto por el lado más ancho del cuello y se regala en el vaso por el lado más fino. Así se garantiza un vertido sin goteo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0924DTYC3/?tag=tolees-21)

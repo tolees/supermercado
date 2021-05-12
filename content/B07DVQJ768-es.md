@@ -28,10 +28,10 @@ En este momento está [Don Simon Sangría Premium - Pack de 6 Botellas x 750 ml]
 
 🔎:
 
-- Su elaboración es una cuidada selección de vino base, obtenido mediante fermentación tradicional
-- Para disfrutar de sus cualidades óptimas, recomendamos servir muy fría, añadiendo trozos de fruta y hielo
 - Se trata de una sangría potente, con un toque de gas carbónico en boca y un dulce aroma a vainilla, canela y frutas, con toques de vino tinto
-- En nariz tiene intensos aromas sabrosos y afrutados, con un retrogusto dulce
 - La Sangría Don Simón es una bebida clásica a base de vino tinto español y frutas, de color rojo cereza y aspecto brillante
+- En nariz tiene intensos aromas sabrosos y afrutados, con un retrogusto dulce
+- Para disfrutar de sus cualidades óptimas, recomendamos servir muy fría, añadiendo trozos de fruta y hielo
+- Su elaboración es una cuidada selección de vino base, obtenido mediante fermentación tradicional
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DVQJ768/?tag=tolees-21)
