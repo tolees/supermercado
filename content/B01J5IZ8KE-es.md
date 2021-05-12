@@ -28,8 +28,8 @@ En este momento está [Calvo - Atún Claro en Aceite de Girasol  80 gr  paquete 
 
 🔎:
 
+- Atún claro en aceite de girasol
 - Alergenos: pescado
 - País de origen: España
-- Atún claro en aceite de girasol
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01J5IZ8KE/?tag=tolees-21)
