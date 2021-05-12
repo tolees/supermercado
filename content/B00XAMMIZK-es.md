@@ -28,8 +28,8 @@ Tienes [Sensodyne Extra Fresh Enjuague Bucal Sin Alcohol  Fortalece los Dientes 
 
 ℹ️:
 
-- Marca Sensodyne
 - Tipo de producto Enjuague bucal
+- Marca Sensodyne
 - Sensodyne es un nombre de marca reconocido
 - Género Unisex Adulto
 
