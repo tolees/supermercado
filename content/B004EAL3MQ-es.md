@@ -28,9 +28,9 @@ En este momento está [Lepanto Solera Gran Reserva Brandy de Jerez  700ml](https
 
 🔎:
 
-- Nota de cata: color topacio con tonos naranjas y dorados; ofrece toques de caramelo y vainilla que se combinan con aromas tostados y pistas de vino
 - Producto que combina tradición e innovación
 - Recomendaciones: servir en copa de brandy, solo o con hielo
+- Nota de cata: color topacio con tonos naranjas y dorados; ofrece toques de caramelo y vainilla que se combinan con aromas tostados y pistas de vino
 - Crianza: las holandas de lepanto envejecen en botas de roble americano durante un mínimo de 12 años, siguiendo el tradicional sistema de soleras y criaderas, el mismo sistema de crianza usado para los vinos de jerez
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004EAL3MQ/?tag=tolees-21)

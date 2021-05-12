@@ -29,8 +29,8 @@ Está [Scottex Sensitive Aloe Vera Papel Higiénico Húmedo - 12 Paquetes de 40 
 ℹ️:
 
 - Complemento de tu Scottex seco para una higiene adecuada
-- Con efecto calmante Aloe Vera y PH neutro
-- Cada paquete contiene 40 unidades
 - Desechable por el WC
+- Cada paquete contiene 40 unidades
+- Con efecto calmante Aloe Vera y PH neutro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PJ6YDRX/?tag=tolees-21)

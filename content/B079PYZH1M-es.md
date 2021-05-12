@@ -28,10 +28,10 @@ Está [Cafeína Anhidra de HSN | 200mg | Suministro para 4 Meses | Efecto Rápid
 
 ℹ️:
 
-- 💦 ACTIVADOR NATURAL. La cafeína es el mejor suplemento termogénico para elevar el metabolismo y aumentar el consumo calórico. Con Efecto Diurético.
-- 🧠 AUMENTA LA CONCENTRACIÓN. Ideal para tareas cognitivas. Fomenta el Estado de Alerta. Ayuda al estudio. Efecto Nootrópico.
-- ☀️ FABRICACIÓN PROPIA. Laboratorios con Certificación de la U.E. Sin OGM (Organismos Modificados Genéticamente). Buenas prácticas de fabricación (GMP). Bote con tapa a rosca. Suministro para 4 meses.
-- 🚀 CAFEÍNA ANHIDRA EN TABLETAS. Suplemento a base Cafeína Anhidra de rápida acción. Apto Vegano/Vegetariano. 120 Dosis de 200mg. Recomendado para actividades físicas de alta intensidad y resistencia. Para tareas de índole cognitivo para reducir la fatiga mental.
 - 🏃 MEJORA EL RENDIMIENTO DEPORTIVO. Reduce la percepción de la fatiga física. Alarga el umbral del cansancio en actividades resistivas. Se recomienda tomar como Pre-Entreno, es decir, antes de realizar el ejercicio físico.
+- 🚀 CAFEÍNA ANHIDRA EN TABLETAS. Suplemento a base Cafeína Anhidra de rápida acción. Apto Vegano/Vegetariano. 120 Dosis de 200mg. Recomendado para actividades físicas de alta intensidad y resistencia. Para tareas de índole cognitivo para reducir la fatiga mental.
+- 💦 ACTIVADOR NATURAL. La cafeína es el mejor suplemento termogénico para elevar el metabolismo y aumentar el consumo calórico. Con Efecto Diurético.
+- ☀️ FABRICACIÓN PROPIA. Laboratorios con Certificación de la U.E. Sin OGM (Organismos Modificados Genéticamente). Buenas prácticas de fabricación (GMP). Bote con tapa a rosca. Suministro para 4 meses.
+- 🧠 AUMENTA LA CONCENTRACIÓN. Ideal para tareas cognitivas. Fomenta el Estado de Alerta. Ayuda al estudio. Efecto Nootrópico.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079PYZH1M/?tag=tolees-21)
