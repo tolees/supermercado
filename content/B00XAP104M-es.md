@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Funky Mix - 1 kg al 5.26 % de rebaja'
-date: 2021-05-02 22:18:09
+date: 2021-05-12 18:55:23
 image: 'https://m.media-amazon.com/images/I/51n-RTZgeLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Haribo Funky Mix - 1 kg](https://www.amazon.es/dp/B00XAP104M/?tag=tolees
 
 🔎:
 
-- Bolsa de 1 kg
-- Surtido de golosinas
 - Mantener en lugar fresco y seco
+- Bolsa de 1 kg
 - Delicioso mix de diferentes piezas y sabores
+- Surtido de golosinas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XAP104M/?tag=tolees-21)

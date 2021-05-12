@@ -29,9 +29,9 @@ En este momento está [Aceite puro de coco virgen extra orgánico MeaVita 1 Litr
 🔎:
 
 - Producido a partir de carne de coco fresca cruda
-- Aceite de coco virgen extra de la mejor calidad
-- Nuestro aceite de coco es trabajado en frío y no modificados genéticamente
-- Apto para veganos, vegetarianos, sin gluten, sin lácteos y dietas Paleo
 - Maravilloso aroma y el sabor de coco ligera
+- Apto para veganos, vegetarianos, sin gluten, sin lácteos y dietas Paleo
+- Nuestro aceite de coco es trabajado en frío y no modificados genéticamente
+- Aceite de coco virgen extra de la mejor calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B013GBN8MG/?tag=tolees-21)
