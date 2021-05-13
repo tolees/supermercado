@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOPICO Geo Cup Taza de café  Plástico  b al 0.00 % de rebaja'
-date: 2021-05-08 10:16:01
+date: 2021-05-13 21:21:08
 image: 'https://m.media-amazon.com/images/I/31qD5OclS8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [TOPICO Geo Cup Taza de café  Plástico  bambú y Silicona  gris](https:
 
 🔎:
 
+- Taza de café Geo Cup
 - Principalmente compuesto de materias primas renovables
 - Manguito de silicona para un agarre óptimo
-- Taza de café Geo Cup
 - Capacidad: aprox. 400 ml
 - Tapa extraíble de color con apertura para beber integrada
 
