@@ -28,10 +28,10 @@ Tienes [Lagarto Jabón Natural - Paquete de 48 x 250 gr - Total: 12000 gr](https
 
 🔎:
 
-- Natural 100%
-- Muy cuidadoso con los tejidos
-- Perfecto para lavar prendas delicadas
 - Elimina las manchas más difíciles
+- Muy cuidadoso con los tejidos
+- Natural 100%
+- Perfecto para lavar prendas delicadas
 - Producto respetuoso con el medio ambiente pues es 100% biodegradable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01HD5AD24/?tag=tolees-21)

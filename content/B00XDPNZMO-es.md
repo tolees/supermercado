@@ -29,8 +29,8 @@ Tienes [Purina Friskies Pienso para Perro Adulto Aves y Verduras 10 Kg](https://
 ℹ️:
 
 - Alimento completo para perros adultos
-- Creado por nuestros expertos
-- Ayuda a mantener las defensas naturales
 - Alimento 100% completo y equilibrado
+- Ayuda a mantener las defensas naturales
+- Creado por nuestros expertos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDPNZMO/?tag=tolees-21)
