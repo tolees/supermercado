@@ -28,15 +28,15 @@ Tienes [Marca Amazon - Solimo Dolce Gusto LATTE MACCHIATO - Certificada UTZ - 96
 
 🔎:
 
-- NESCAFÉ Dolce Gusto no está vinculado a Amazon EU S.a.r.l.
 - Sabor dulce y cremoso
-- Intensidad 4/5
-- Hecho en Italia. 96 cápsulas (6 x 16)
-- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
 - RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
+- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
+- NESCAFÉ Dolce Gusto no está vinculado a Amazon EU S.a.r.l.
+- Intensidad 4/5
 - Mezcla de café soluble y leche en cápsulas
-- Receta mejorada
 - Consumir preferentemente antes del: ver lateral del envase. Conservar en un lugar fresco y seco
 - Café: Envasado en atmósfera protectora para mantener su frescura
+- Receta mejorada
+- Hecho en Italia. 96 cápsulas (6 x 16)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084N1PN4Z/?tag=tolees-21)

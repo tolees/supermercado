@@ -28,12 +28,12 @@ Tienes [Victrola Empire  6-In-1 Tocadiscos Bluetooth  Color Café](https://www.a
 
 🔎:
 
-- Bluetooth que transmite de forma inalámbrica tu música
 - Mezcla perfecta de tecnología moderna y diseño vintage
-- Giradiscos de 3 velocidades (33 1/3, 45, 78 rpm)
-- Altavoces estéreo incorporados
 - Entrada auxiliar, salida de línea rca y conector para auriculares
-- Radio fm con sintonizador analógico
 - Reproductor de cd y cassette
+- Altavoces estéreo incorporados
+- Bluetooth que transmite de forma inalámbrica tu música
+- Giradiscos de 3 velocidades (33 1/3, 45, 78 rpm)
+- Radio fm con sintonizador analógico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JBRT4QN/?tag=tolees-21)
