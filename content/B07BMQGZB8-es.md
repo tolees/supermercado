@@ -28,10 +28,10 @@ En este momento está [Arraigo sin filtrar - Aceite de Oliva Virgen Extra Premiu
 
 🔎:
 
-- COMENTARIO DESTACADO DE CLIENTES. "Son pocas las 5 estrellas que ponéis para valorar esta delicia para el paladar y para la salud. Tengo una edad suficiente para haber probado muchos aceites porque me gusta mucho y mi familia siempre desayuna con aceite de oliva virgen y de verdad que me quedé sorprendido y nada mas recibirlo lo probé y no sabéis el agradecimiento que sentí por haberos encontrado. FELICIDADES."
-- RECIEN ENVASADO. CAMPAÑA 202/21. Conservamos el aceite en depósitos de acero inoxidable, y lo envasamos en función de la demanda.
-- ACEITE DE OLIVA VIRGEN EXTRA PREMIUM SIN FILTRAR, elaborado con aceitunas de las variedades Hojiblanca, Picual y Picuda
-- 100% GARANTIZADO. Si no queda satisfecho le devolvemos el dinero.
 - PRODUCTO NATURAL. Obtenido de aceitunas de la comarca de Puente Genil, cultivadas de forma tradicional y mediante un proceso de primera extracción en frío, lo que hace que tenga una gran concentración en polifenoles, ácido oleico, y antioxidantes naturales.
+- ACEITE DE OLIVA VIRGEN EXTRA PREMIUM SIN FILTRAR, elaborado con aceitunas de las variedades Hojiblanca, Picual y Picuda
+- COMENTARIO DESTACADO DE CLIENTES. "Son pocas las 5 estrellas que ponéis para valorar esta delicia para el paladar y para la salud. Tengo una edad suficiente para haber probado muchos aceites porque me gusta mucho y mi familia siempre desayuna con aceite de oliva virgen y de verdad que me quedé sorprendido y nada mas recibirlo lo probé y no sabéis el agradecimiento que sentí por haberos encontrado. FELICIDADES."
+- 100% GARANTIZADO. Si no queda satisfecho le devolvemos el dinero.
+- RECIEN ENVASADO. CAMPAÑA 202/21. Conservamos el aceite en depósitos de acero inoxidable, y lo envasamos en función de la demanda.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BMQGZB8/?tag=tolees-21)
