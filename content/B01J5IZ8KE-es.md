@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvo - Atún Claro en Aceite de Girasol  con un 23.64 % de descuento'
-date: 2021-05-12 09:44:22
+date: 2021-05-13 11:30:58
 image: 'https://m.media-amazon.com/images/I/41ubjqFdzNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvo'
 buyurl: 'https://www.amazon.es/dp/B01J5IZ8KE/?tag=tolees-21'
 descuento: '23.64'
-average: '18.11'
+average: '17.512'
 ---
 
 En este momento está [Calvo - Atún Claro en Aceite de Girasol  80 gr  paquete de 24  total: 1920 gr](https://www.amazon.es/dp/B01J5IZ8KE/?tag=tolees-21) a 15.12 EUR (original: 19.8 EUR) (23.64 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Calvo - Atún Claro en Aceite de Girasol  80 gr  paquete 
 
 🔎:
 
-- País de origen: España
 - Alergenos: pescado
+- País de origen: España
 - Atún claro en aceite de girasol
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01J5IZ8KE/?tag=tolees-21)
