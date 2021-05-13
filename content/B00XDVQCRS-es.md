@@ -28,10 +28,10 @@ Tienes [Nivea Sun Protege & Broncea Leche Solar Activadora del Bronceado FP50  2
 
 ℹ️:
 
-- Contenido del envío: Nivea Sun Protege & Broncea Leche Solar Activadora del Bronceado FP50, resistente al agua, 1 x 200 ml, botella
-- Activador del bronceado - esta leche solar estimula la producción de melanina de la propia piel para lograr un bronceado bonito, saludable y uniforme
-- Fórmula no grasa - la fórmula ligera y no grasa de esta leche con factor de protección 50 es resistente al agua y deja una sensación lisa y sedosa en la piel
-- Protección solar avanzada - gracias al protector solar 50 y a la protección UVA/UVB, este acelerador del bronceado protege la piel de la radiación solar
 - 0% autobronceador - esta leche hidratante para el cuidado de la piel no contiene autobronceadores, que suelen dejar manchas en algunas zonas de la piel
+- Protección solar avanzada - gracias al protector solar 50 y a la protección UVA/UVB, este acelerador del bronceado protege la piel de la radiación solar
+- Fórmula no grasa - la fórmula ligera y no grasa de esta leche con factor de protección 50 es resistente al agua y deja una sensación lisa y sedosa en la piel
+- Activador del bronceado - esta leche solar estimula la producción de melanina de la propia piel para lograr un bronceado bonito, saludable y uniforme
+- Contenido del envío: Nivea Sun Protege & Broncea Leche Solar Activadora del Bronceado FP50, resistente al agua, 1 x 200 ml, botella
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDVQCRS/?tag=tolees-21)
