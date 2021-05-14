@@ -28,11 +28,11 @@ Ahora mismo tienes [Puleva Batido de Chocolate - 6 x 200 ml](https://www.amazon.
 
 🔎:
 
+- Con una cuidada selección de los mejores cacaos
 - Batidos Puleva, ningún batido es más saludable y divertido
-- Fuente de Calcio,  Vitaminas D y proteínas
 - 90% de Leche,  30% menos de azúcar y sin edulcorantes
 - Con un sabor sensacional
 - Para disfrutarlo en cualquier lugar gracias a su envase especial
-- Con una cuidada selección de los mejores cacaos
+- Fuente de Calcio,  Vitaminas D y proteínas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01K7QFT52/?tag=tolees-21)
