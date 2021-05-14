@@ -29,7 +29,7 @@ Ahora mismo tienes [AXE Déodorant Homme Spray Apollo Frais 48h  Lot de 6x150ml 
 🔎:
 
 - 3 x 150 ml
-- Protege contra la humedad y el olor, aporta el refrescante aroma del apollo
 - Desodorante Axe "Apollo" para hombre, 150 ml
+- Protege contra la humedad y el olor, aporta el refrescante aroma del apollo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06Y57TC7S/?tag=tolees-21)
