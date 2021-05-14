@@ -28,8 +28,8 @@ Tienes [Scottex Original Papel Higiénico - 16 Rollos](https://www.amazon.es/dp/
 
 🔎:
 
-- 16 rollos
 - Suavidad irresistible
+- 16 rollos
 - Equilibrio perfecto, suavidad y resistencia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B016MKNZ9O/?tag=tolees-21)
