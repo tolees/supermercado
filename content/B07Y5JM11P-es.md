@@ -28,9 +28,9 @@ Está [Der-Franz - Café Crema con certificación UTZ  en grano  3 x 500 g](http
 
 ℹ️:
 
-- Tostado con pasión y siguiendo la experta tradición vienesa desde 1929; suavemente aromatizado con un tostado de tambor a largo plazo
-- Der-Franz Crema: café tostado en granos enteros; intensidad 4 de 5; tostado 3 de 5; acidez 2 de 5; mezcla perfecta para Espresso, Lungo o Cappuccino
 - Todas nuestras variedades tienen la certificación UTZ como parte de Rainforest Alliance; llevamos la sostenibilidad y la responsabilidad medioambiental en nuestro corazón
+- Der-Franz Crema: café tostado en granos enteros; intensidad 4 de 5; tostado 3 de 5; acidez 2 de 5; mezcla perfecta para Espresso, Lungo o Cappuccino
+- Tostado con pasión y siguiendo la experta tradición vienesa desde 1929; suavemente aromatizado con un tostado de tambor a largo plazo
 - Granos de café highland-arábica cuidadosamente seleccionados (100 %) para obtener un sabor ligero y afrutado, un aroma perfecto y una acidez equilibrada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Y5JM11P/?tag=tolees-21)
