@@ -28,10 +28,10 @@ Está [TOFU Kit de Fabricación de Velas  Hacer 6 Velas Grandes de Soja Perfumad
 
 ℹ️:
 
-- Sin riesgos: me encanta o le devolvemos su dinero. 100% de garantía de satisfacción.
-- No se necesita experiencia: nuestras sencillas instrucciones paso a paso lo guiarán a lo largo de todo el proceso.
 - Más que un simple regalo: es un nuevo pasatiempo. Consíguelo para tus seres queridos: les encantará hacer sus propias velas.
+- Sin riesgos: me encanta o le devolvemos su dinero. 100% de garantía de satisfacción.
 - Contiene todo lo que necesitas: nuestro kit para hacer velas tiene todo lo que necesitas para hacer tus propias velas perfumadas.
 - Agregue fragancia a su hogar: llene cada habitación de su casa con los increíbles aromas de nuestras velas.
+- No se necesita experiencia: nuestras sencillas instrucciones paso a paso lo guiarán a lo largo de todo el proceso.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085HF1TTN/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Colon Total Power Gel Caps Nenuco Detergente Para Lavadora  
 
 🔎:
 
-- Con aroma fresco Nenuco que te transportará a tu infancia y al mundo de los bebés
-- Cápsulas monodosis fáciles de utilizar y de rápida disolución para una ropa limpia, sin manchas y con fragancia extra
-- Detergente para la lavadora en formato cápsulas apto para ropa blanca y de color
 - Poder antimanchas para una limpieza profunda que elimina las manchas de tu ropa
+- Con aroma fresco Nenuco que te transportará a tu infancia y al mundo de los bebés
 - Descubre el resto de productos de la marca Colon para una colada óptima
+- Detergente para la lavadora en formato cápsulas apto para ropa blanca y de color
+- Cápsulas monodosis fáciles de utilizar y de rápida disolución para una ropa limpia, sin manchas y con fragancia extra
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08VG6VZY7/?tag=tolees-21)
