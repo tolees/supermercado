@@ -28,8 +28,8 @@ Tienes [Nivea Sun Protección Facial Control de Brillos FP50  50ml](https://www.
 
 ℹ️:
 
-- La fórmula de este protector facial solar tiene un efecto matificante instantáneo y absorbe el exceso de grasa de la superficie cutánea
 - La textura ligera de este protector solar facial proporciona a la piel del rostro una sensación no grasa, no pegajosa e invisible
+- La fórmula de este protector facial solar tiene un efecto matificante instantáneo y absorbe el exceso de grasa de la superficie cutánea
 - Esta crema facial solar con FP50, protección UVA/UVB y derivados naturales antioxidantes protege la piel de los rayos solares
 - Esta crema facial con protector solar hidrata intensivamente y es adecuado para un uso diario
 - Contenido del envío: Nivea Sun Protección Facial UV Control de Brillos FP50, 0% sensación pegajosa, 50ml

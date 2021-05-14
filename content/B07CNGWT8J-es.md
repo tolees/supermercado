@@ -28,10 +28,10 @@ En este momento está [Nivea Sun Protege & Broncea Activador del Bronceado FP50 
 
 🔎:
 
-- Gracias al extracto natural promelanina, este protector solar en spray estimula el proceso natural de bronceado de la piel
-- La fórmula ligera de este protector hidratante permite una absorción rápida y una protección inmediata; además, es resistente al agua
 - Contenido del envío: Nivea Sun Protege & Broncea Spray Solar FP50, activador del bronceado, 300ml
-- Para proteger la piel de la radiación solar, el spray potenciador del bronceado cuenta con protector solar FP50 y protección UVA/UVB
+- La fórmula ligera de este protector hidratante permite una absorción rápida y una protección inmediata; además, es resistente al agua
+- Gracias al extracto natural promelanina, este protector solar en spray estimula el proceso natural de bronceado de la piel
 - Este spray solar ayuda a conseguir un bronceado bonito y uniforme sin necesidad de autobronceadores, que suelen dejar manchas en la piel
+- Para proteger la piel de la radiación solar, el spray potenciador del bronceado cuenta con protector solar FP50 y protección UVA/UVB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CNGWT8J/?tag=tolees-21)

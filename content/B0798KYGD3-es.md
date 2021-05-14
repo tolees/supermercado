@@ -29,8 +29,8 @@ En este momento está [HAWAIIAN Tropic - Banana Boat BABY Advanced Protection MI
 🔎:
 
 - Protector solar Cuidado personal Unisex Infantil
-- número de items: 1
 - Protector solar HAWAIIAN TROPIC
+- número de items: 1
 - HAWAIIAN TROPIC BABY SUN LOTION ADVANCES PROTECTION SPF50 60ML (5391518270234)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0798KYGD3/?tag=tolees-21)

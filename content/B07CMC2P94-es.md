@@ -28,10 +28,10 @@ Tienes [Nivea Sun Protege & Broncea Spray Solar FP30  300ml](https://www.amazon.
 
 🔎:
 
-- Este spray solar ayuda a conseguir un bronceado bonito y uniforme sin necesidad de autobronceadores, que suelen dejar manchas en la piel
-- La fórmula ligera de este protector hidratante permite una absorción rápida y una protección inmediata y además, es resistente al agua
 - Gracias al extracto natural promelanina, este protector solar en spray estimula el proceso natural de bronceado de la piel
-- Para proteger la piel de la radiación solar, el spray potenciador del bronceado cuenta con protector solar 30 y protección UVA/UVB
+- La fórmula ligera de este protector hidratante permite una absorción rápida y una protección inmediata y además, es resistente al agua
 - Contenido del envío: Nivea Sun Protege & Broncea Spray Solar FP30, protector solar activador del bronceado, 300ml
+- Este spray solar ayuda a conseguir un bronceado bonito y uniforme sin necesidad de autobronceadores, que suelen dejar manchas en la piel
+- Para proteger la piel de la radiación solar, el spray potenciador del bronceado cuenta con protector solar 30 y protección UVA/UVB
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CMC2P94/?tag=tolees-21)
