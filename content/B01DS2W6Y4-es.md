@@ -28,10 +28,10 @@ Tienes [Garnier Delial Niños Sensitive Advanced - Protector Solar Leche Wet Ski
 
 🔎:
 
-- Resistente al aguay la transpiración, previene las quemaduras causadas por el sol mientras actúa contra los rayos infrarrojos
-- Su suave textura es ligera, nada pegajosa y no lleva perfume, se absorbe rapidamente en la piel más sensible
 - Dermatológicamente testado y gracias a su fórmula hipoalergénica, es ideal para los niños de pieles sensibles o intolerantes al sol
 - Crema solar para niños de muy alta protección, diseñada contra los rayos UVA, UVB y UVA largos
+- Resistente al aguay la transpiración, previene las quemaduras causadas por el sol mientras actúa contra los rayos infrarrojos
 - Su formulación sin aceites te ofrece una crema fluida no grasa y está testada bajo control pediátrico
+- Su suave textura es ligera, nada pegajosa y no lleva perfume, se absorbe rapidamente en la piel más sensible
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01DS2W6Y4/?tag=tolees-21)
