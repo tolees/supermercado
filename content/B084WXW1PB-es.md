@@ -28,10 +28,10 @@ Está [Outsunny 3 Piezas de Mesa y Sillas de Café Plegable para Exterior Conjun
 
 ℹ️:
 
+- ✅FÁCIL DE LIMPIAR: Simplemente pásales un paño húmedo.
+- ✅COMPACTAS: Son muebles con medidas reducidas, pero que ofrecen comodidad. Tienen las medidas justas para estar cómodos, pero no ocupar demasiado.
 - ✅PLEGABLES: Cuando no se utilizan, se pueden plegar y apartar a un rincón del balcón. Dejando libre todo el espacio.
 - ✅CONJUNTO DE MESA Y DOS SILLAS PLEGABLES DE EXTERIOR: Perfectas para sacar el máximo partido a tu balcón creando un agradable comedor de exterior.
-- ✅COMPACTAS: Son muebles con medidas reducidas, pero que ofrecen comodidad. Tienen las medidas justas para estar cómodos, pero no ocupar demasiado.
 - ✅MEDIDAS: Mesa 61.6x61.6x74 cm (LxAnxAl). Silla: 57x44,5x81 cm (LxAnxAl) No requiere montaje.
-- ✅FÁCIL DE LIMPIAR: Simplemente pásales un paño húmedo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084WXW1PB/?tag=tolees-21)
