@@ -28,10 +28,10 @@ Tienes [Anself- Dispensador de jabón manual montado en la pared para champú y 
 
 🔎:
 
-- Diseño de seguridad: la parte superior del dispensador posee un orificio para llave de seguridad0 Se fija a la pared, función de erogación manual.
-- Con boquilla de salida de líquido independiente que evita pérdidas y desechos. Botella reutilizable e independiente que se puede extraer del dispensador de jabón.
-- Plástico de ingeniería ambiental ABS. Perfecto para utilizar en baños, cocinas, oficinas, escuelas, bancos, hospitales, hoteles y restaurantes.
 - Elimina el desorden de frascos en la ducha y olvídate de las engorrosos botellas de lociones desparramadas por todas partes. El cuerpo del dispensador de jabón líquido es transparente para poder comprobar fácilmente la cantidad de líquido y eventualmente rellenar.
 - Dispensador de jabón de lujo, elegante y duradero. Ideal para jabones líquidos, lociones o desinfectantes, geles de ducha, champús, etc.
+- Con boquilla de salida de líquido independiente que evita pérdidas y desechos. Botella reutilizable e independiente que se puede extraer del dispensador de jabón.
+- Plástico de ingeniería ambiental ABS. Perfecto para utilizar en baños, cocinas, oficinas, escuelas, bancos, hospitales, hoteles y restaurantes.
+- Diseño de seguridad: la parte superior del dispensador posee un orificio para llave de seguridad0 Se fija a la pared, función de erogación manual.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N4K9I4R/?tag=tolees-21)

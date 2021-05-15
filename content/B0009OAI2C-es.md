@@ -28,9 +28,9 @@ Ahora mismo tienes [Elizabeth Arden ArdenBeauty Eau De Parfum Spray 100 ml](http
 
 🔎:
 
-- Notas de salida: iris, bergamota, flor de arroz y notas verdes
-- Es una fragancia de la familia olfativa Floral Verde para mujeres
 - Notas de corazón: orquídea, jengibre, ruibarbo, flor de loto y azucena
+- Es una fragancia de la familia olfativa Floral Verde para mujeres
+- Notas de salida: iris, bergamota, flor de arroz y notas verdes
 - Notas de fondo: sándalo, ámbar y almizcle
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0009OAI2C/?tag=tolees-21)
