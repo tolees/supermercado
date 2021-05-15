@@ -29,8 +29,8 @@ Ahora mismo tienes [Style Girlz - Set de Maquillaje para niños Que se Hacen Pas
 🔎:
 
 - Incluye 14 magníficas piezas de NYC y un neceser glandular con cremallera; una sombra de ojos de cuatro compartimentos con aplicador, un colorete compacto con espejo, un pintalabios rojo cálido, un pintalabios rosa cálido, 2 esmaltes de uñas, un juego de 3 brochas de maquillaje, 3 compactos de purpurina y un frasco de maquillaje líquido.
-- Un juego completo de piezas de maquillaje de alta calidad, ¡pero sin daños! 100% pseudo maquillaje.
 - A las chicas les encanta jugar con el maquillaje. Este conjunto permite que su imaginación se exprese, pero sin el riesgo de desbordarse.
+- Un juego completo de piezas de maquillaje de alta calidad, ¡pero sin daños! 100% pseudo maquillaje.
 - Cada pieza súper realista no contiene maquillaje, sólo espuma EVA sin residuos y respetuosa con el medio ambiente.
 - ¡Este juguetón set de maquillaje es el regalo perfecto para cualquier ocasión!
 
