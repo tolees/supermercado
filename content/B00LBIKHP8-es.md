@@ -28,10 +28,10 @@ En este momento está [Delta - Lote Chávena Café Molido De Tueste Natural. For
 
 🔎:
 
+- Café molido de tueste natural
 - Aroma 6 / Cuerpo 8 / Acidez 6 / Intesidad 3
 - Tostado y envasado en Portugal
 - Tostado y envasado en Portugal
-- Café molido de tueste natural
 - Molienda Universal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00LBIKHP8/?tag=tolees-21)
