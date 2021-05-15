@@ -28,9 +28,9 @@ Tienes [American Crew Classic Gel de Fijación Fuerte 1000 ml](https://www.amazo
 
 ℹ️:
 
-- El producto representa un gel de fijación
-- Es formulado sin alcohol
 - No deja residuos
+- Es formulado sin alcohol
 - La marca del producto es American Crew
+- El producto representa un gel de fijación
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B002N5MIF0/?tag=tolees-21)
