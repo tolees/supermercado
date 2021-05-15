@@ -28,10 +28,10 @@ Tienes [Garnier Delial Niños Sensitive Advanced Protector Solar en Spray para N
 
 🔎:
 
-- Muy alta protección solar para niños de rápida absorción contra los efectos dañiños de los rayos UVA y UVB
-- Gracias a su textura ligera, su aplicación no resulta pegajosa
 - Fórmula hipoalergénica  testada bajo control pediátrico
-- Garnier Delial Protector Solar de Spray para Niños es adecuado para todo tipo de pieles, incluso las más sensibles
 - Resistente al agua: aplicable sobre piel mojada o seca, rápida absorción, resiste 80 minuntos en el agua
+- Gracias a su textura ligera, su aplicación no resulta pegajosa
+- Muy alta protección solar para niños de rápida absorción contra los efectos dañiños de los rayos UVA y UVB
+- Garnier Delial Protector Solar de Spray para Niños es adecuado para todo tipo de pieles, incluso las más sensibles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00X9TTEQA/?tag=tolees-21)
