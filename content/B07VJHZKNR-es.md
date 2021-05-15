@@ -28,11 +28,11 @@ Ahora mismo tienes [Tulipán Negro Desodorante Roll on Algodón y Talco  Azul  1
 
 🔎:
 
-- Evita la humedad y ofrece una intensa protección durante todo el día que aumentará tu confianza.
+- Tipo de piel: normal
 - Desodorante muy perfumado y fresco. Algodón y talco.
 - No testado en animales. Vegano. Fabricación íntegra en españa.
 - Género; unisex. Adulto y adolescente.
-- Tipo de piel: normal
 - 0% alcohol. Libre de sales de aluminio, parabenos y colorantes. Dermatológicamente testado.
+- Evita la humedad y ofrece una intensa protección durante todo el día que aumentará tu confianza.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VJHZKNR/?tag=tolees-21)

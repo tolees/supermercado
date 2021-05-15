@@ -28,10 +28,10 @@ En este momento está [DonnaPlus Menocífuga Noche 30 comprimidos  complemento a
 
 🔎:
 
-- Contraresta los efectos inmunodepresores del estrés
 - Acción relajante natural y antiestrés al reducir la ansiedad e irritabilidad
-- Aumenta el tiempo total de sueño y reduce la latencia de sueño en pacientes con insomnio
-- Incrementa el tiempo total de sueño no rem
 - Acorta significativamente la latencia del sueño
+- Aumenta el tiempo total de sueño y reduce la latencia de sueño en pacientes con insomnio
+- Contraresta los efectos inmunodepresores del estrés
+- Incrementa el tiempo total de sueño no rem
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FDYP23F/?tag=tolees-21)

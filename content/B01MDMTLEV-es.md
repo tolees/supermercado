@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maggi - Fideos Yakisoba Classic  120 g al 34.87 % de descuento'
-date: 2021-04-28 18:31:52
+date: 2021-05-15 18:05:55
 image: 'https://m.media-amazon.com/images/I/51M13AXYwXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MAGGI'
 buyurl: 'https://www.amazon.es/dp/B01MDMTLEV/?tag=tolees-21'
 descuento: '34.87'
-average: '0.996666666666667'
+average: '0.995'
 ---
 
 Está [Maggi - Fideos Yakisoba Classic  120 g](https://www.amazon.es/dp/B01MDMTLEV/?tag=tolees-21) con 34.87 de descuento por 0.99 EUR (original: 1.52 EUR) en el siguiente enlace!
