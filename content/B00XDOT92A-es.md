@@ -28,8 +28,8 @@ Ahora mismo tienes [Colgate Triple Action Dentífrico - 2 X 75 ml](https://www.a
 
 🔎:
 
-- Marca - COLGATE
-- Tipo de producto - Dentífrico
 - Género - Unisex
+- Tipo de producto - Dentífrico
+- Marca - COLGATE
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XDOT92A/?tag=tolees-21)
