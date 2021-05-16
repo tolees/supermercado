@@ -30,8 +30,8 @@ Ahora mismo tienes [Gillette Mach3 Cuchillas de Afeitar  Paquete de 18 Cuchillas
 
 - Afeitado más apurado y sin irritación (comparado con la desechable Gillette Blue II Plus)
 - Paquete apto para el buzón de correos
-- 3 hojas DuraComfort, para una comodidad duradera
 - Se adapta a cualquier mango Mach3
+- 3 hojas DuraComfort, para una comodidad duradera
 - La banda de gel deslizante ayuda a proteger tu piel contra la irritación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0773C7ZFL/?tag=tolees-21)
