@@ -28,10 +28,10 @@ En este momento está [Vileda Windomatic Power Set limpia ventanas  Azul  200 ml
 
 🔎:
 
-- Medidas 17.5 x 12 x 32 cm,azul y negro
-- Mango ergonómico, depósito lavable en lavavajillas hasta 45º, óptima potencia de aspiración y batería recargable de Li-ion de gran durabilidad, que permite limpiar hasta 120 ventanas
-- Cabezal flexible del aspirador que permite secar tanto en los bordes como en las esquinas, depósito de agua integrado y extraíble, botón "max" para una potencia de succión de +50%
-- La mopa de microfibras con spray tiene una forma trapezoidal con fibras blancas, rojas y azules para limpiar todos los tipos de suciedad, incluso la más resistente, lavable en lavadora hasta 60°
 - Contenido del envío: Set 2 en 1 Vileda Windomatic Power Aspiradora con mopa de microfibras y spray + cargador; cuello flexible, clase energética A+++, peso 640 gr
+- Medidas 17.5 x 12 x 32 cm,azul y negro
+- La mopa de microfibras con spray tiene una forma trapezoidal con fibras blancas, rojas y azules para limpiar todos los tipos de suciedad, incluso la más resistente, lavable en lavadora hasta 60°
+- Cabezal flexible del aspirador que permite secar tanto en los bordes como en las esquinas, depósito de agua integrado y extraíble, botón "max" para una potencia de succión de +50%
+- Mango ergonómico, depósito lavable en lavavajillas hasta 45º, óptima potencia de aspiración y batería recargable de Li-ion de gran durabilidad, que permite limpiar hasta 120 ventanas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZTY3S3Z/?tag=tolees-21)
