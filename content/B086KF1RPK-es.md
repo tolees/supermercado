@@ -28,9 +28,9 @@ Está [Ariel Pods Detergente Lavadora Cápsulas  108 Lavados  Pack de 6 x 18   F
 
 ℹ️:
 
-- Fragancia intensa
-- Limpieza e higiene profundas; eficaz en frío (incluso a 30 °C)
 - Depositar la cápsula en el tambor de la lavadora antes de la ropa
+- Limpieza e higiene profundas; eficaz en frío (incluso a 30 °C)
+- Fragancia intensa
 - El recubrimiento de la cápsula se disuelve totalmente al entrar en contacto con el agua
 - Resultados increíbles con una sola cápsula de detergente concentrado
 

@@ -28,11 +28,11 @@ Está [Royal Salute Snow Polo Edition whisky escocés de lujo - 700ml](https://w
 
 ℹ️:
 
-- Royal salute snow polo edition tiene un aroma rebosante a caramelo cremoso, melocotones suaves y frambuesas jugosas mezcladas con helado cremoso de vainilla
-- Royal salute 21 años snow polo edition fue creado para conmemorar la coronación de la reina isabell ii en 1953, y tiene una larga afinidad con el polo: el deporte de reyes
 - El rey del whisky honrando el deporte de los reyes con el lanzamiento de royal salute snow polo de 21 años, la tercera colección, y el primer whisky escocés de grano mezclado de esta gama
-- En el paladar royal salute 21 años snow polo edition whisky escocés de lujo se presentan en capas: miel de flor clara, mermelada de naranja y un toque de avellanas tostadas
-- Tipo de alcohol: Whiskey
+- Royal salute snow polo edition tiene un aroma rebosante a caramelo cremoso, melocotones suaves y frambuesas jugosas mezcladas con helado cremoso de vainilla
 - El final de royal salute 21 años snow polo edition es equilibrado y dulce
+- Tipo de alcohol: Whiskey
+- En el paladar royal salute 21 años snow polo edition whisky escocés de lujo se presentan en capas: miel de flor clara, mermelada de naranja y un toque de avellanas tostadas
+- Royal salute 21 años snow polo edition fue creado para conmemorar la coronación de la reina isabell ii en 1953, y tiene una larga afinidad con el polo: el deporte de reyes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XQ9PMS6/?tag=tolees-21)

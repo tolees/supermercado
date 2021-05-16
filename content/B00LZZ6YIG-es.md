@@ -29,9 +29,9 @@ Está [Garnier Delial Clear Protect Spray Protector Solar Corporal Transparente 
 ℹ️:
 
 - Protección muy alta contra los efectos dañinos de los rayos UVA y UVB
-- Formato spray de 200 ml, fácil y rápido de aplicar para toda la familia
-- Spray de protección solar transparente con SPF 50+ para cuerpo, que protege la piel sin dejar manchas
 - Textura ligera no pegajosa que se absorbe rápidamente, no deja manchas blancas y es resistente al agua
 - Fórmula suave y sin perfume, adecuada para todo tipo de pieles, incluso las más sensibles
+- Spray de protección solar transparente con SPF 50+ para cuerpo, que protege la piel sin dejar manchas
+- Formato spray de 200 ml, fácil y rápido de aplicar para toda la familia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00LZZ6YIG/?tag=tolees-21)
