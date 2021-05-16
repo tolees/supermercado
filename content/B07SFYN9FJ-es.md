@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Biocop Galleta Espelta Integral Jengibre al 28.51 % de rebaja'
-date: 2021-05-07 18:47:50
+title: 'Biocop Galleta Espelta Integral Jengibre al 0.00 % de rebaja'
+date: 2021-05-16 08:20:28
 image: 'https://m.media-amazon.com/images/I/311itwH-q-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,24 +12,24 @@ tags: [ 'Alimentación y bebidas','Aperitivos','Galletas de Aperitivos','biocop'
 actualPrice: 1.78 EUR
 currency: EUR
 price: 1.78
-comparePrice: 2.49 EUR
+comparePrice:  EUR
 prodname: 'Biocop Galleta Espelta Integral Jengibre Limón - 250 g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Biocop'
 buyurl: 'https://www.amazon.es/dp/B07SFYN9FJ/?tag=tolees-21'
-descuento: '28.51'
+descuento: '0.00'
 average: '1.78'
 ---
 
-Tienes [Biocop Galleta Espelta Integral Jengibre Limón - 250 g](https://www.amazon.es/dp/B07SFYN9FJ/?tag=tolees-21) con precio final de  1.78 EUR (original: 2.49 EUR) (28.51 %  de rebaja) aqui!
+Tienes [Biocop Galleta Espelta Integral Jengibre Limón - 250 g](https://www.amazon.es/dp/B07SFYN9FJ/?tag=tolees-21) con precio final de  1.78 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
 
 [![Biocop Galleta Espelta Integral Jengibre](https://m.media-amazon.com/images/I/311itwH-q-L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07SFYN9FJ/?tag=tolees-21)
 
 🔎:
 
-- Producto de la marca biocop
 - Galleta espelta int; jengibre limón 250 gr envase de 250 gramos
+- Producto de la marca biocop
 - Producto Para El Cuidado Y Bienestar De Tu Cuerpo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SFYN9FJ/?tag=tolees-21)
