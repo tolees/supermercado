@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Mega Torcidas Cereza  1x 175 g con un 0.00 % de descuento'
-date: 2021-04-19 18:30:15
+date: 2021-05-16 16:00:02
 image: 'https://m.media-amazon.com/images/I/514jiWOr5eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [HARIBO Mega Torcidas Cereza  1x 175 g](https://www.amazon
 
 🔎:
 
-- Geles dulces
 - Deliciosas piezas largas en forma de stick de regaliz con intenso sabor a cereza
 - Con un irresistible sabor a fresa; descúbrelas
+- Geles dulces
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WRRP3ZX/?tag=tolees-21)

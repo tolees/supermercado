@@ -28,9 +28,9 @@ Tienes [Pantene Suave Y Liso  Mascarilla Antiencrespamiento Cabello  Tratamiento
 
 ℹ️:
 
+- Testado por el instituto suizo de la vitamina
 - Hasta 72 horas de brillo y suavidad en el pelo con un solo uso
 - Mascarilla pelo para controlar el encrespamiento y lucir un pelo suave y sedoso
-- Testado por el instituto suizo de la vitamina
 - MASCARILLA PELO SECO Y DAÑADO: tratamiento reconstructor de keratina
 - Como vitaminas para el cabello
 
