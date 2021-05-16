@@ -28,9 +28,9 @@ Tienes [Max Factor Creme Puff Blush Tono 5 Lovely Pink Colorete - 1.5 gr](https:
 
 ℹ️:
 
-- Los pigmentos multi-tonales trabajan con tu tono de piel
-- Textura fina y molida con acabado porcelana
 - Fórmula gradual que permite controlar el nivel de intensidad que buscas
 - Es mezclable y no se ven los trazos del colorete
+- Los pigmentos multi-tonales trabajan con tu tono de piel
+- Textura fina y molida con acabado porcelana
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00VALYBS0/?tag=tolees-21)
