@@ -28,8 +28,8 @@ Tienes [Lay S Patatas Fritas Al Punto de Sal  282g](https://www.amazon.es/dp/B01
 
 🔎:
 
-- Un vez abierto consumir antes de 7 días
 - Conservar en lugar fresco y seco
 - Producto sin gluten
+- Un vez abierto consumir antes de 7 días
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014WKCWYK/?tag=tolees-21)
