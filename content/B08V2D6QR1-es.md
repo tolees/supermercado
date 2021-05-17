@@ -28,11 +28,11 @@ Está [Lysol Toallitas Desinfectantes Superficies Multiusos  elimina bacterias y
 
 ℹ️:
 
+- En Lysol llevamos MÁS DE 130 AÑOS desinfectando los hogares de todo el mundo
 - FÁCILES Y CÓMODAS DE USAR, adecuadas para la mayoría de las superficies ya que no deja residuos químicos abrasivos en las superficies
-- Elimina BACTERIAS (S.aureus MRSA, E. hirae, P. aeruginosa y E. coli), HONGOS ( A. Brasilinesis y C.Albicans Candidiasis) y ALÉRGENOS comunes: ácaros del polvo, polen y pelos de mascotas
+- Toallitas BIODEGRADABLES (según la norma EN 13432) hechas de fibra 100% derivada de plantas
 - Las TOALLITAS DESINFECTANTES MULTISUPERFICIES de Lysol eliminan el 99.9 % de bacterias y hongos y son indicadas para la mayoría de las superficies del hogar
 - Limpia la suciedad y las manchas y desinfecta tu hogar SIN LEJÍA, fosfatos ni colorantes
-- Toallitas BIODEGRADABLES (según la norma EN 13432) hechas de fibra 100% derivada de plantas
-- En Lysol llevamos MÁS DE 130 AÑOS desinfectando los hogares de todo el mundo
+- Elimina BACTERIAS (S.aureus MRSA, E. hirae, P. aeruginosa y E. coli), HONGOS ( A. Brasilinesis y C.Albicans Candidiasis) y ALÉRGENOS comunes: ácaros del polvo, polen y pelos de mascotas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08V2D6QR1/?tag=tolees-21)

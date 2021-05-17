@@ -28,8 +28,8 @@ Tienes [Mical Profesional - Bayeta multiusos amarilla - Súper absorbente  38 x 
 
 ℹ️:
 
-- El paquete incluye 10 unidades
-- El producto viene en color amarillo
 - Tipo de producto: bayeta multiusos
+- El producto viene en color amarillo
+- El paquete incluye 10 unidades
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAAFEEY/?tag=tolees-21)
