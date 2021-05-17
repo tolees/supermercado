@@ -28,10 +28,10 @@ Tienes [Garnier Delial UV Water Bruma Protectora Refrescante Alta Protección Cu
 
 ℹ️:
 
+- El Aloe Vera es un ingrediente de origen natural que crece en las regiones áridas de México. Famoso por su capacidad de retener agua, posee reconocidas propiedades hidratantes y refrescantes
 - Textura fresca y nada pegajosa, invisible en la piel y resistente al agua, que aporta hasta 24 horas de hidratación
 - Bruma refrescante de protección solar para cuerpo y rostro con difusor de 360°, que permite una aplicación rápida, fácil y precisa
-- El Aloe Vera es un ingrediente de origen natural que crece en las regiones áridas de México. Famoso por su capacidad de retener agua, posee reconocidas propiedades hidratantes y refrescantes
-- Con SPF 30, que protege tu piel de los daños solares causados por los rayos UVB y UVA
 - Su fórmula enriquecida con aloe vera aporta una hidratación intensa, dejando una sensación de frescor inmediata de -2 grados
+- Con SPF 30, que protege tu piel de los daños solares causados por los rayos UVB y UVA
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07P5LVCXH/?tag=tolees-21)
