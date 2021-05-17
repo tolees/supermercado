@@ -28,10 +28,10 @@ Está [Colgate Total Original  Pasta de Dientes  Duplo 2 Unidades x 75ml](https:
 
 ℹ️:
 
-- Garantiza una protección eficaz y duradera frente a la sensibilidad al sellar los pequeños orificios de la dentina expuesta
-- Reduce las manchas de la superficie para mejorar el efecto blanqueador
-- 12 horas de protección en dientes, lengua, mejillas y encías
 - Ayuda a reparar y remineralizar el esmalte debilitado y protege los dientes de los azúcares y de los alimentos ácidos
+- Reduce las manchas de la superficie para mejorar el efecto blanqueador
+- Garantiza una protección eficaz y duradera frente a la sensibilidad al sellar los pequeños orificios de la dentina expuesta
+- 12 horas de protección en dientes, lengua, mejillas y encías
 - Combate activamente las bacterias para reducir en mayor medida la placa, la gingivitis y la formación de sarro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0881SJDXP/?tag=tolees-21)
