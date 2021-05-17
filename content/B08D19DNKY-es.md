@@ -28,9 +28,9 @@ Tienes [Lagarto Jabon Natural Liquido   Marrón Transparente  1000 ml](https://w
 
 🔎:
 
-- Limpieza en profundidad de todo tipo de superficies y tejidos
-- Aplicación sobre manchas, como detergente o aditivo del lavado
 - La etiqueta puede variar
 - Apto para todo tipo de suelos
+- Aplicación sobre manchas, como detergente o aditivo del lavado
+- Limpieza en profundidad de todo tipo de superficies y tejidos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D19DNKY/?tag=tolees-21)
