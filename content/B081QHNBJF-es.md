@@ -29,8 +29,8 @@ Está [Neutrogena Cellular Boost Anti-Edad  Crema de Día SPF 20 con Vitamina C 
 ℹ️:
 
 - Para mejores resultados, aplicar dos veces al día
-- Aplicar diariamente sobre la cara y el cuello limpios como paso final de tu rutina
 - Esta fórmula con SPF 20 disminuye los signos visibles de la edad causados por el “desgaste celular”
+- Aplicar diariamente sobre la cara y el cuello limpios como paso final de tu rutina
 - Masajear con movimientos circulares para una mejor absorción
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081QHNBJF/?tag=tolees-21)

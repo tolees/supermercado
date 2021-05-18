@@ -28,9 +28,9 @@ Está [Neutrogena Cellular Boost Anti-Edad  Crema De Noche Regeneradora  Para La
 
 ℹ️:
 
-- Aplicar sobre la cara y el cuello limpios
 - Para mejores resultados, usar con Crema de Día Anti-edad SPF 20
 - Fórmula antiedad, corrige el tono desigual de la piel y mejora la elasticidad
+- Aplicar sobre la cara y el cuello limpios
 - Masajear con movimientos circulares para una mejor absorción
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081QHBVYG/?tag=tolees-21)
