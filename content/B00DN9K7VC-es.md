@@ -28,10 +28,10 @@ Ahora mismo tienes [Sotya Batido Saciante Chocolate - 700 gr](https://www.amazon
 
 🔎:
 
-- Alimento complementario recomendado en dietas de adelgazamiento
-- Aporte adicional de nutrientes en estados carenciales
-- Diurético y depurativo
 - De la marca Sotya
+- Aporte adicional de nutrientes en estados carenciales
 - Ayudan a regular el sistema nervioso eliminando la ansiedad
+- Diurético y depurativo
+- Alimento complementario recomendado en dietas de adelgazamiento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00DN9K7VC/?tag=tolees-21)
