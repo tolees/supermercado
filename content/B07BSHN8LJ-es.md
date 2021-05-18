@@ -28,10 +28,10 @@ En este momento está [Vitamina E Natural 400 UI  D-Alfa-Tocoferol m 200 Perlas 
 
 🔎:
 
-- ABSORCIÓN Y BIODISPONIBILIDAD ÓPTIMAS: 200 Perlas a base de Aceite de Oliva Virgen Extra, con Vitamina E Natural (D-Alfa-Tocoferol), la forma más fácil de ser asimiladas.
-- FÓRMULA con Vitamina E 400 UI (2233% VRN*) como Vitamina E Natural (D-Alfa-Tocoferol) 268 mg, Aceite de Oliva Virgen Extra 60 mg, cápsula (gelatina, glicerina). *VRN: Valores de referencia de nutrientes.
-- NUESTRA VITAMINA E NATURAL (D-Alfa-Tocoferol) es un popular antioxidante que protege las células contra el daño de los radicales libres.
-- 100% SATISFACCIÓN GARANTIZADA: ¡Si no quedas completamente satisfecho, te devolvemos tu dinero!
 - 100% NATURAL: Nuestra versión natural de Vitamina E (D-alfa-tocoferol) es más efectiva que la sintética. Usamos ingredientes No GMO, sin conservantes ni colorantes. Sin gluten ni productos lácteos. También está libre de conservantes, edulcorantes y sabores artificiales. Seguimos el estricto protocolo de buenas prácticas de fabricación (GMP en inglés). Fabricado en España bajo los más altos estándares de calidad. Empresa Registrada Nº RGSEAA: 26.019011/B.
+- NUESTRA VITAMINA E NATURAL (D-Alfa-Tocoferol) es un popular antioxidante que protege las células contra el daño de los radicales libres.
+- FÓRMULA con Vitamina E 400 UI (2233% VRN*) como Vitamina E Natural (D-Alfa-Tocoferol) 268 mg, Aceite de Oliva Virgen Extra 60 mg, cápsula (gelatina, glicerina). *VRN: Valores de referencia de nutrientes.
+- 100% SATISFACCIÓN GARANTIZADA: ¡Si no quedas completamente satisfecho, te devolvemos tu dinero!
+- ABSORCIÓN Y BIODISPONIBILIDAD ÓPTIMAS: 200 Perlas a base de Aceite de Oliva Virgen Extra, con Vitamina E Natural (D-Alfa-Tocoferol), la forma más fácil de ser asimiladas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BSHN8LJ/?tag=tolees-21)
