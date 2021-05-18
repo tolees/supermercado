@@ -28,9 +28,9 @@ Tienes [Neutrogena Crema Para Manos - 75 ml.](https://www.amazon.es/dp/B00DYP8YM
 
 🔎:
 
-- La crema de manos concentrada alivia las manos secas y dañadas
-- Dermatológicamente comprobado
-- Enriquecido con glicerina, alivia y protege las manos secas
 - Concentrado para 300 aplicaciones
+- La crema de manos concentrada alivia las manos secas y dañadas
+- Enriquecido con glicerina, alivia y protege las manos secas
+- Dermatológicamente comprobado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00DYP8YM4/?tag=tolees-21)
