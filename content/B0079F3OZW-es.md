@@ -29,8 +29,8 @@ En este momento está [Gourmet Purina - Purina Gourmet Gold - Pasta Fina para Ga
 🔎:
 
 - Comida húmeda para gatos adultos
-- Contiene vitamina A para mantener la vista
 - Composición: carnes y subproductos animales, subproductos de origen vegetal, azúcares
+- Contiene vitamina A para mantener la vista
 - Dientes y huesos fuertes con la ayuda de Vitamina D y minerales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0079F3OZW/?tag=tolees-21)
