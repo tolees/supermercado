@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gourmet Purina - Purina Gourmet Gold - P con un 0.00 % de descuento'
-date: 2021-05-05 16:24:44
+date: 2021-05-18 19:54:39
 image: 'https://m.media-amazon.com/images/I/41gDR7qUiYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ En este momento está [Gourmet Purina - Purina Gourmet Gold - Pasta Fina para Ga
 
 - Comida húmeda para gatos adultos
 - Contiene vitamina A para mantener la vista
-- Dientes y huesos fuertes con la ayuda de Vitamina D y minerales
 - Composición: carnes y subproductos animales, subproductos de origen vegetal, azúcares
+- Dientes y huesos fuertes con la ayuda de Vitamina D y minerales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0079F3OZW/?tag=tolees-21)
