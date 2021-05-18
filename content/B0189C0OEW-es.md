@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.88 % en Cheetos Pelotazos  130g'
-date: 2021-04-24 13:30:55
+date: 2021-05-18 13:45:14
 image: 'https://m.media-amazon.com/images/I/51L0nBPtFIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cheetos'
 buyurl: 'https://www.amazon.es/dp/B0189C0OEW/?tag=tolees-21'
 descuento: '34.88'
-average: '1.0123076923077'
+average: '1.00000000000001'
 ---
 
 Tienes [Cheetos Pelotazos  130g](https://www.amazon.es/dp/B0189C0OEW/?tag=tolees-21) con un 34.88 % de descuento con precio de oferta de 0.84 EUR (original: 1.29 EUR) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Funky Mix  1 x 150 g al 31.03 % de descuento'
-date: 2021-04-29 14:50:16
+date: 2021-05-18 11:30:27
 image: 'https://m.media-amazon.com/images/I/51vodsbn2bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Haribo Funky Mix  1 x 150 g](https://www.amazon.es/dp/B08M19H1ZQ/?tag=tol
 
 ℹ️:
 
-- Mix de caramelos de goma.
-- Combinación de piezas de diferentes texturas y sabores.
 - Incluye: Ositos de Oro, Huevo, Fresones, Balla-Balla Duo y Balla-Balla Fresa.
+- Combinación de piezas de diferentes texturas y sabores.
+- Mix de caramelos de goma.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08M19H1ZQ/?tag=tolees-21)

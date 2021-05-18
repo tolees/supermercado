@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Starmix  1 x150 g con un 31.03 % de descuento'
-date: 2021-05-01 21:32:49
+date: 2021-05-18 13:38:47
 image: 'https://m.media-amazon.com/images/I/51OXddLNcpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [HARIBO Starmix  1 x150 g](https://www.amazon.es/dp/B08M1C
 
 🔎:
 
-- Combinación de piezas de diferentes texturas y sabores
 - Mix de caramelos de goma
 - Incluye: ositos de oro, huevo, happy cola, anillos y mini corazones
+- Combinación de piezas de diferentes texturas y sabores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08M1CRF8C/?tag=tolees-21)
