@@ -28,10 +28,10 @@ En este momento está [Vela Citronela Exterior  Aottom Juego de Velas de Citrone
 
 🔎:
 
-- 🍀【REUTILIZABLE Y PORTÁTIL】 Cada citronela velas llena un bote. Cada vela se puede encender muchas veces y cuando no la estés usando, solo tienes que apagar la vela. después de quemar la vela se puede almacenar en la caja de monedas, cable de datos, etc. También es posible cultivar plantas para decorar la habitación.
 - 🍀【MATERIALES NATURALES】 Las velas perfumadas de citronela jardín para exteriores están hechas de 95% de cera de soja natural y 5% de aceite de citronela. 100% algodón sin plomo, la mecha de la vela no se rompe cuando se quema y no produce humo negro, asegura una combustión más limpia y más prolongada.
-- 🍀【TIEMPO DE CONSUMO LARGO】 Cada vela de citronela jardín puede arder durante 10-15 horas, y el tiempo de combustión total puede alcanzar las 80-120 horas. Cuando la vela de hierba de limón esté encendida, habrá una combustión completa del bloque de cera, no se dejará.
 - 🍀【MEJOR COMPAÑERO DE VERANO】 cuando se usa en interiores y exteriores, coloque estas candle citronela en el jardín, comidas en el patio, picnics, campamentos, barbacoas y reuniones familiares. el diseño compacto para llevar y su practicidad en verano lo convierten en un regalo ideal.
+- 🍀【TIEMPO DE CONSUMO LARGO】 Cada vela de citronela jardín puede arder durante 10-15 horas, y el tiempo de combustión total puede alcanzar las 80-120 horas. Cuando la vela de hierba de limón esté encendida, habrá una combustión completa del bloque de cera, no se dejará.
+- 🍀【REUTILIZABLE Y PORTÁTIL】 Cada citronela velas llena un bote. Cada vela se puede encender muchas veces y cuando no la estés usando, solo tienes que apagar la vela. después de quemar la vela se puede almacenar en la caja de monedas, cable de datos, etc. También es posible cultivar plantas para decorar la habitación.
 - 🍀【CITRONELLA VELA NATURAL】 9 juegos de velas de citronela regalos Estas velas de citronela se queman para purificar el aire con fragancia, salud y limpiador, no son tóxicas y seguras de usar. Fácil de usar, puede usarlo en interiores y exteriores.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXS3MYB/?tag=tolees-21)
