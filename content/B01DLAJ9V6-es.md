@@ -28,10 +28,10 @@ Está [Quesos Romero - Queso de Oveja y Cabra "Ocaña"](https://www.amazon.es/dp
 
 ℹ️:
 
-- Queso único, riquísimo.
 - Queso de Oveja y Cabra "Ocaña"
 - Sabor Fuerte.
 - Queso Entero.
 - Peso: 2,60 Kg aprox.
+- Queso único, riquísimo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DLAJ9V6/?tag=tolees-21)

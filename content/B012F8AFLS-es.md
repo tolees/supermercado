@@ -28,10 +28,10 @@ En este momento está [Nivea Sun Leche Solar Zanahoria FP6  200ml](https://www.a
 
 🔎:
 
-- Protección avanzada - gracias al FP6 y a la protección UVA/UVB inmediata y altamente eficaz, este protector solar bronceador protege de quemaduras solares
-- Contenido del envío: Nivea Sun Leche Solar Zanahoria FP6, para un bronceado dorado, bonito y saludable, 1 x 200 ml, botella
 - Bronceado solar - esta crema solar con extracto de caroteno y vitamina E proporciona un bronceado intensivo y duradero, dejando un bonito brillo en la piel
-- Leche hidratante - este protector solar activador del bronceado con factor de protección 6 hidrata la piel y deja una sensación suave y sedosa
+- Protección avanzada - gracias al FP6 y a la protección UVA/UVB inmediata y altamente eficaz, este protector solar bronceador protege de quemaduras solares
 - Resistente al agua - apta para pieles normales, esta leche solar para el cuidado de la piel es resistente al agua para que no desaparezca con el primer baño
+- Leche hidratante - este protector solar activador del bronceado con factor de protección 6 hidrata la piel y deja una sensación suave y sedosa
+- Contenido del envío: Nivea Sun Leche Solar Zanahoria FP6, para un bronceado dorado, bonito y saludable, 1 x 200 ml, botella
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B012F8AFLS/?tag=tolees-21)

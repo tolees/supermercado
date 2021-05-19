@@ -28,10 +28,10 @@ En este momento está [Garnier Delial Leche Protectora Hidratante 24 Horas  con 
 
 🔎:
 
+- Textura ligera no grasa que se absorbe rápidamente, no deja manchas blancas y es resistente al agua
 - Protección baja contra los efectos dañinos de los rayos UVA y UVB
-- Fórmula enriquecida con glicerina vegetal y manteca de karité para mantener la piel hidratada y evitar la sequedad producida por el sol
 - Acabado suave y sedoso, en un formato grande de 200 ml
 - Leche de protección solar hidratante con SPF 10, especialmente indicada para pieles morenas ya bronceadas
-- Textura ligera no grasa que se absorbe rápidamente, no deja manchas blancas y es resistente al agua
+- Fórmula enriquecida con glicerina vegetal y manteca de karité para mantener la piel hidratada y evitar la sequedad producida por el sol
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00X9TOD8O/?tag=tolees-21)

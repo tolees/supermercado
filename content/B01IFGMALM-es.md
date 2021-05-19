@@ -28,9 +28,9 @@ Está [Neutrogena Crema de Manos Reparadora para Grietas  Pack 2 x 75 ml](https:
 
 ℹ️:
 
-- Nutre, protege y repara manos secas y estropeadas
 - La dimeticona proporciona una absorción inmediata
-- La vaselina contenida hidrata y suaviza
 - La fórmula contiene glicerina que nutre, repara y protege la piel
+- La vaselina contenida hidrata y suaviza
+- Nutre, protege y repara manos secas y estropeadas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IFGMALM/?tag=tolees-21)
