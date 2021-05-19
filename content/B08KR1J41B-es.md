@@ -28,10 +28,10 @@ Está [Lysol - Spray desinfectante y limpiador multiusos  mata virus y bacterias
 
 ℹ️:
 
-- SPRAY DESINFECTANTE indicado para la limpieza y desinfección de múltiples superficies del hogar, con un agradable aroma a manzana
-- LIMPIA TU HOGAR SIN LEJÍA, elimina la suciedad y las manchas de múltiples superficies de tu hogar
-- ELIMINA VIRUS como Rhinovirus (resfriado) Influenza A H1N1 (gripe) y el 99.9 % de BACTERIAS como E-coli (diarrea),​ Saureus,​ Paeruginosa,​ Ehirae​ (Salmonella entérica)
 - En Lysol llevamos MÁS DE 130 AÑOS desinfectando los hogares de todo el mundo
+- ELIMINA VIRUS como Rhinovirus (resfriado) Influenza A H1N1 (gripe) y el 99.9 % de BACTERIAS como E-coli (diarrea),​ Saureus,​ Paeruginosa,​ Ehirae​ (Salmonella entérica)
+- LIMPIA TU HOGAR SIN LEJÍA, elimina la suciedad y las manchas de múltiples superficies de tu hogar
 - NO DEJA QUÍMICOS ABRASIVOS en la superficie, sin fosfatos ni colorantes, apto para baños, cocinas, superficies de madera y vidrio, tiradores y pomos, muebles, sillas y pavimentos
+- SPRAY DESINFECTANTE indicado para la limpieza y desinfección de múltiples superficies del hogar, con un agradable aroma a manzana
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KR1J41B/?tag=tolees-21)

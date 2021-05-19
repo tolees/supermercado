@@ -28,10 +28,10 @@ Está [Garnier Delial Clear Protect Bronceado Sublime  Spray Protector Solar Cor
 
 ℹ️:
 
-- Fórmula protectora enriquecida con betacaroteno de origen natural, que proporciona un bronceado uniforme, luminoso y natural
 - Previene los daños cutáneos a largo plazo y se seca 5 segundos después de su aplicación
-- Textura ligera y no pegajosa que se absorbe al instante y deja una sensación cómoda en la piel
-- Resistente al agua, consistencia transparente e invisible en la piel que no deja marcas blancas
 - Spray protector solar transparente que realza el bronceado, indicado para todo tipo de pieles, incluso las más sensibles
+- Resistente al agua, consistencia transparente e invisible en la piel que no deja marcas blancas
+- Textura ligera y no pegajosa que se absorbe al instante y deja una sensación cómoda en la piel
+- Fórmula protectora enriquecida con betacaroteno de origen natural, que proporciona un bronceado uniforme, luminoso y natural
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086FGLPXJ/?tag=tolees-21)
