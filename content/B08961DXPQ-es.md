@@ -28,10 +28,10 @@ Está [PINPOXE - Exfoliante Corporal Natural  Acné Exfoliante Corporal  Exfolia
 
 ℹ️:
 
+- EXCURSIÓN CORPORAL PARA TODO TIPO DE PIEL - Especialmente para pieles sensibles y secas, eliminando las células muertas y promoviendo una piel fresca y saludable, asegurando que su piel esté nutrida y limpia.
 - FREGADO DE CAFÉ NATURAL: aroma de café, la limpieza profunda puede exfoliar, celulitis, relajar los nervios, tensar la piel, venas de araña, arrugas, manchas de la edad, círculos oscuros, hinchazón de los ojos, estrías, piel lisa.
 - USO ANCHO: aplique 1-3 cucharadas, masajee con suaves movimientos circulares, use para exfoliante de manos, exfoliante de espalda, exfoliante de rodilla, exfoliante de pies, exfoliante de codo, asegurándose de que su piel esté nutrida y limpia.
-- TRATAMIENTO EXFOLIANTE DE FREGADO Y CUIDADO DE LA PIEL - Exfoliar su piel mejora la circulación y ayuda a eliminar la suciedad residual, dándole una apariencia más fresca, más joven y más hidratada. ayuda a eliminar la piel muerta para revelar la piel nueva y saludable que se encuentra debajo.
-- EXCURSIÓN CORPORAL PARA TODO TIPO DE PIEL - Especialmente para pieles sensibles y secas, eliminando las células muertas y promoviendo una piel fresca y saludable, asegurando que su piel esté nutrida y limpia.
 - EXFOLIANTE CORPORAL CELULITA: nuestro exfoliante corporal y facial natural hecho de café activado combinado con sales del Mar Muerto para ofrecer a su piel la máxima limpieza con aceite e impurezas.
+- TRATAMIENTO EXFOLIANTE DE FREGADO Y CUIDADO DE LA PIEL - Exfoliar su piel mejora la circulación y ayuda a eliminar la suciedad residual, dándole una apariencia más fresca, más joven y más hidratada. ayuda a eliminar la piel muerta para revelar la piel nueva y saludable que se encuentra debajo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08961DXPQ/?tag=tolees-21)
