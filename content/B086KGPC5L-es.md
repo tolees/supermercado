@@ -29,8 +29,8 @@ Tienes [Listerine Dental Avanzado con Blanqueador  Enjuague Bucal  Pack 2 x 1000
 ℹ️:
 
 - Los aceites esenciales penetran y reducen las bacterias que forman la placa para limpiar la superficie de los dientes
-- Listerine Blanqueador Nuevo reduce y previene las manchas difíciles para proporcionar unos dientes más blancos en tan solo 2 semanas
 - Contiene 2 x Listerine Blanqueador Nuevo de 1000ml, para el uso diario
+- Listerine Blanqueador Nuevo reduce y previene las manchas difíciles para proporcionar unos dientes más blancos en tan solo 2 semanas
 - Forma un escudo protector que ayuda a prevenir la formación de nuevas manchas en la superficie de los dientes
 - Contiene flúor que aumenta la resistencia del esmalte y ayuda a la remineralización de los dientes
 
