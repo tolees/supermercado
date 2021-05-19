@@ -28,9 +28,9 @@ Ahora mismo tienes [NIVEA Protege & Cuida Spray en pack de 6  6 x 200 ml   desod
 
 🔎:
 
-- 0% alcohol – La fórmula de rápida absorción de este desodorante 48h es suave con tu piel, deja la piel de las axilas seca y contiene un 0% alcohol.
-- Fragancia NIVEA – Elaborado con los ingredientes y aromas únicos de la crema NIVEA Creme, este desodorante spray dejará una fragancia familiar en tu piel.
 - Contenido del envío – NIVEA Protege & Cuida Spray, desodorante antitranspirante con la fragancia de NIVEA Creme, pack de 6, 6 x 200 ml, spray.
+- Fragancia NIVEA – Elaborado con los ingredientes y aromas únicos de la crema NIVEA Creme, este desodorante spray dejará una fragancia familiar en tu piel.
+- 0% alcohol – La fórmula de rápida absorción de este desodorante 48h es suave con tu piel, deja la piel de las axilas seca y contiene un 0% alcohol.
 - Protección 48 horas – Este desodorante sin alcohol ofrece a tu piel una protección eficaz durante 48 horas y el cuidado más delicado de NIVEA.
 - Rápida absorción – Este desodorante suave se seca rápidamente al aplicarlo y deja una sensación de frescor y cuidado en las axilas durante todo el día.
 
