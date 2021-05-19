@@ -28,9 +28,9 @@ Tienes [Fairy Espuma Activa - Lavavajillas  375 ml](https://www.amazon.es/dp/B0
 
 🔎:
 
-- La intensa espuma permite lavar de forma rápida y sencilla todo tipo de platos
-- Puede usarse directamente sobre la esponja
 - Absorbe la grasa como si fuera un imán
+- La intensa espuma permite lavar de forma rápida y sencilla todo tipo de platos
 - La botella de 375 ml ofrece 240 lavados
+- Puede usarse directamente sobre la esponja
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XAGGE9W/?tag=tolees-21)

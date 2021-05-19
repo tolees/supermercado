@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lagarto Jabon Natural Liquido   Marrón T al 16.72 % de rebaja'
-date: 2021-05-17 10:19:58
+date: 2021-05-19 08:25:45
 image: 'https://m.media-amazon.com/images/I/410LjkTfpPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lagarto'
 buyurl: 'https://www.amazon.es/dp/B08D19DNKY/?tag=tolees-21'
 descuento: '16.72'
-average: '2.82333333333333'
+average: '2.74'
 ---
 
 Tienes [Lagarto Jabon Natural Liquido   Marrón Transparente  1000 ml](https://www.amazon.es/dp/B08D19DNKY/?tag=tolees-21) con precio final de  2.49 EUR (original: 2.99 EUR) (16.72 %  de rebaja) aqui!
@@ -30,7 +30,7 @@ Tienes [Lagarto Jabon Natural Liquido   Marrón Transparente  1000 ml](https://w
 
 - La etiqueta puede variar
 - Apto para todo tipo de suelos
-- Aplicación sobre manchas, como detergente o aditivo del lavado
 - Limpieza en profundidad de todo tipo de superficies y tejidos
+- Aplicación sobre manchas, como detergente o aditivo del lavado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D19DNKY/?tag=tolees-21)

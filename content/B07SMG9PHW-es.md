@@ -28,10 +28,10 @@ Tienes [LDREAMAM - Base Líquida Base de Maquillaje Hidratante Líquido Base Bas
 
 🔎:
 
+- 【Silky Illuminating】- está diseñado para uso diario y le dará a su piel el acabado sedoso e iluminador que otras fundaciones simplemente no brindan.
+- 【Hidratación y protección solar SPF 15】- Esta base contiene protección solar SPF 15 para proteger su piel de los dañinos rayos UVA y UVB.
 - 【Autoajuste de color instantáneo】- La base de cambio de color perfecta es una nueva y revolucionaria base líquida que se pone de color blanco y se autoajusta instantáneamente para adaptarse a su tono de piel EXACTO.
 - 【Nueva tecnología】 - La tecnología exclusiva contiene perlas que detectan la sombra y son pigmentos encapsulados que brindan una transformación perfecta de la tonalidad al mezclarse con la piel.
 - 【Fácil de usar】- tome una pequeña cantidad en el dorso de la mano y aplíquela suavemente a la cara, trabajando hacia afuera para nivelar las arrugas y las líneas suaves. Cambiará para embellecer tu piel e iluminarla.
-- 【Hidratación y protección solar SPF 15】- Esta base contiene protección solar SPF 15 para proteger su piel de los dañinos rayos UVA y UVB.
-- 【Silky Illuminating】- está diseñado para uso diario y le dará a su piel el acabado sedoso e iluminador que otras fundaciones simplemente no brindan.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SMG9PHW/?tag=tolees-21)
