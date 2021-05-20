@@ -28,9 +28,9 @@ Está [Colgate Encías Revitalizantes  Pasta de Dientes Encías  Protección Enc
 
 ℹ️:
 
-- Clínicamente probado
 - Reduce las bacterias en la línea de las encías para fortalecerlas progresivamente
 - Contiene minerales y extracto de ginseng
+- Clínicamente probado
 - Pasta de dientes para la protección de las encías y dientes firmemente protegidos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FBVRK1D/?tag=tolees-21)
