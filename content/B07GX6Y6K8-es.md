@@ -29,7 +29,7 @@ En este momento está [Chicco Suavizante Tenera Carezza  Amarillo – Lote de 
 🔎:
 
 - fórmula concentrada que garantiza 30 lavados.
-- dermatológicamente testado en pieles sensibles
 - hipoalergénico
+- dermatológicamente testado en pieles sensibles
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GX6Y6K8/?tag=tolees-21)
