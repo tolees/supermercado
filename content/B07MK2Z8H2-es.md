@@ -28,8 +28,8 @@ Ahora mismo tienes [Tanqueray Flor de Sevilla - Ginebra  1000 ml](https://www.am
 
 🔎:
 
+- Capacidad: 100CL
 - Sabor excelente y agradable
 - Graduación: 41.3º
-- Capacidad: 100CL
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MK2Z8H2/?tag=tolees-21)
