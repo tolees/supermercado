@@ -28,8 +28,8 @@ Está [Omabeta - Batidor de té de bambú natural Chasen Preparando Matcha Polvo
 
 ℹ️:
 
-- * 【HECHO DE BAMBÚ DE ALTA CALIDAD】 Nuestra herramienta de cepillo de polvo matcha de preparación está hecha de bambú de alta calidad, que es fácil de limpiar y seguro de usar. Nuestro batidor de té está hecho a mano con piezas de bambú cortadas con precisión con bambú dorado resistente y duradero.
 - * 【INSTRUCCIONES DE USO】 Después de remojar en agua caliente y antes de usar la licuadora de té verde matcha por primera vez, los hilos de bambú se dispersarán. Esto es normal y no es un problema de calidad.
+- * 【HECHO DE BAMBÚ DE ALTA CALIDAD】 Nuestra herramienta de cepillo de polvo matcha de preparación está hecha de bambú de alta calidad, que es fácil de limpiar y seguro de usar. Nuestro batidor de té está hecho a mano con piezas de bambú cortadas con precisión con bambú dorado resistente y duradero.
 - * 【HAGA UNA ESPUMA DE MATCHA EXQUISITA】 Nuestro batidor de té de bambú natural ayuda a batir el polvo de Matcha en espuma espumosa, resalta la suavidad interior del té. La mezcla y la formación de espuma facilitan la elaboración de una delicada y rica espuma de matcha.
 - * 【VIENE CON UN AGARRE CÓMODO】 Nuestro batidor de té de bambú natural es una herramienta tradicional para hacer té con un mango cómodo, que es muy fácil de usar y ahorra tiempo y esfuerzo. El té producirá matcha denso según la cantidad de raíces de bambú.
 - * 【SUPERFICIE SUAVE】 Nuestro batidor de té de bambú natural tiene una superficie lisa y no es fácil caerse de las astillas de madera. Utilice este batidor de té de bambú natural para preparar su té sin impurezas.

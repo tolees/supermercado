@@ -28,8 +28,8 @@ Está [Exitenn Regulador Champú para Cabellos Grasos - 1000 ml](https://www.ama
 
 ℹ️:
 
-- Género - Unisex
 - Tipo de producto - Champú
 - Marca - Exitenn
+- Género - Unisex
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GGJT1JO/?tag=tolees-21)
