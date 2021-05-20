@@ -30,8 +30,8 @@ En este momento está [TRUSTLIFE Espejo de Maquillaje Plegable con 22 Luces LED 
 
 - ❤ ROTACIÓN DE 180 °: al ser giratorio de 180 grados, encuentra el ángulo de visión perfecto para maquillaje, afeitado o peluquería. El hueco de la base puede contener cosméticos, etc.
 - ❤ ESPEJO DE AUMENTO 2X Y 3X: el aumento 1X / 2X / 3X utilizado en conjunto permite ver claramente sus rasgos faciales y los detalles más pequeños, especialmente adecuado para el maquillaje de ojos, como delineador de ojos, cejas o rímel.
-- ❤ FUENTE DE ALIMENTACIÓN DUAL: este espejo LED puede funcionar con un cable USB o baterías (no incluidas en el paquete) para que funcione, tenga en cuenta que este espejo cosmético iluminado no puede almacenar energía) .
 - ❤ CLARIDAD DE ALTA DEFINICIÓN: nuestro espejo de maquillaje está diseñado con 22 luces LED suaves y el espejo de alta definición, que es tan claro que puede ver cada detalle de su rostro. Opción ideal para maquillarse, afeitarse, cepillarse los dientes, usar hilo dental, exfoliar y más.
+- ❤ FUENTE DE ALIMENTACIÓN DUAL: este espejo LED puede funcionar con un cable USB o baterías (no incluidas en el paquete) para que funcione, tenga en cuenta que este espejo cosmético iluminado no puede almacenar energía) .
 - ❤ PANTALLA TÁCTIL Y REGULACIÓN: interruptor de pantalla táctil (primero encienda el interruptor trasero, toque el interruptor circular frontal, la luz se encenderá, toque de nuevo para apagar) y atenuación inteligente (después de que la luz LED esté encendida, mantenga presionado el interruptor táctil circular frontal para aumentar o disminuir el brillo).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08V4R8QM3/?tag=tolees-21)
