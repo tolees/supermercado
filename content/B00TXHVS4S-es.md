@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Catunambú - Café Molido Natural  250 Gra al 0.00 % de rebaja'
-date: 2021-05-03 12:05:24
+date: 2021-05-20 09:42:44
 image: 'https://m.media-amazon.com/images/I/41CuO73WxUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Catunambú'
 buyurl: 'https://www.amazon.es/dp/B00TXHVS4S/?tag=tolees-21'
 descuento: '0.00'
-average: '1.55266666666667'
+average: '1.555'
 ---
 
 Tienes [Catunambú - Café Molido Natural  250 Gramos](https://www.amazon.es/dp/B00TXHVS4S/?tag=tolees-21) con precio final de  1.59 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [Catunambú - Café Molido Natural  250 Gramos](https://www.amazon.es/dp/
 
 🔎:
 
-- Una vez abierto, conservar en lugar fresco y seco
-- Ingredientes: café
 - País de origen: España
+- Ingredientes: café
+- Una vez abierto, conservar en lugar fresco y seco
 - Alérgenos: No posee
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00TXHVS4S/?tag=tolees-21)
