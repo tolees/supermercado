@@ -28,10 +28,10 @@ Tienes [Nivea Sun Leche Solar Niños Protege & Juega FP50+  200ml](https://www.a
 
 ℹ️:
 
-- Protectores solares: esta fórmula no contiene los filtros octinoxato ni oxibenzona, siendo así una crema respetuosa con el arrecife de coral de Hawái
-- Protección avanzada: con su sistema de filtros UVA/UVB, este protector solar para niños fortalece la barrera protectora de la piel, protegiéndola del sol
+- Hidratación profunda: este protector hidratante con factor de protección 50+ reduce el riesgo de alergias solares e hidrata de forma profunda y prolongada
 - Resistente al agua: este protector solar hidratante es extra resistente al agua y se absorbe rápidamente para proporcionar una protección inmediata
 - Contenido del envío: Nivea Sun Leche Solar Niños Protege & Juega FP50+, con protección UVA/UVB y resistente al agua, 1 x 200 ml, botella
-- Hidratación profunda: este protector hidratante con factor de protección 50+ reduce el riesgo de alergias solares e hidrata de forma profunda y prolongada
+- Protección avanzada: con su sistema de filtros UVA/UVB, este protector solar para niños fortalece la barrera protectora de la piel, protegiéndola del sol
+- Protectores solares: esta fórmula no contiene los filtros octinoxato ni oxibenzona, siendo así una crema respetuosa con el arrecife de coral de Hawái
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDVQYMQ/?tag=tolees-21)
