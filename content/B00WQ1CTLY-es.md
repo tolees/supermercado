@@ -28,9 +28,9 @@ Está [Friskies - CatFresh Classic - Arena para Gatos - 8 l](https://www.amazon.
 
 ℹ️:
 
+- Tamaño medio de grano
 - Hecho de mezcla de arcillas naturales
 - Ofrece la máxima higiene con un control de olores activa
 - Contenido de 8 litros
-- Tamaño medio de grano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00WQ1CTLY/?tag=tolees-21)
