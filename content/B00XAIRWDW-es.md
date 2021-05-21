@@ -28,8 +28,8 @@ Tienes [Instituto Español Gel de Ducha con Argán - 750 ml](https://www.amazon.
 
 ℹ️:
 
-- Marca: Instituto Español
 - Género: Unisex Adulto
+- Marca: Instituto Español
 - Tipo de producto: Gel de baño
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAIRWDW/?tag=tolees-21)
