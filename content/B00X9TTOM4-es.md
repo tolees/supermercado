@@ -28,10 +28,10 @@ Tienes [Garnier SkinActive  BB Cream Matificante Crema Correctora y Anti Imperfe
 
 🔎:
 
-- Fórmula oil free especialmente diseñada para la piel grasa a mixta, Enriquecida con extracto de pomelo, perlite absorbente y pigmentos minerales
-- Utilizar sobre la piel limpia y seca, Aplicar a diario sobre el rostro y el cuello, Masajear suavemente con movimientos circulares desde el centro del rostro hacia fuera y hacia arriba en el cuello
-- Contenido: 1 x BB Cream Matificante Crema Correctora y Anti Imperfecciones Pieles Mixtas a Grasas Tono Medio con Vitamina C Garnier SkinActive, 40ml
 - Matifica, Unifica, Reduce Poros e Hidrata, con protección SPF 20
+- Fórmula oil free especialmente diseñada para la piel grasa a mixta, Enriquecida con extracto de pomelo, perlite absorbente y pigmentos minerales
+- Contenido: 1 x BB Cream Matificante Crema Correctora y Anti Imperfecciones Pieles Mixtas a Grasas Tono Medio con Vitamina C Garnier SkinActive, 40ml
 - BB Cream Matificante, hidratante diario con color con tecnología todo en uno y Vitamina C para un efecto buena cara al instante
+- Utilizar sobre la piel limpia y seca, Aplicar a diario sobre el rostro y el cuello, Masajear suavemente con movimientos circulares desde el centro del rostro hacia fuera y hacia arriba en el cuello
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00X9TTOM4/?tag=tolees-21)

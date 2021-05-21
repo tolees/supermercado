@@ -28,13 +28,13 @@ Tienes [Circense Verdejo Vino Blanco D.O Rueda  Pack de 6 Botellas de 750 ml  To
 
 🔎:
 
-- Elaborado a partir de una selección de verdejos provenientes de la zona de Valladolid, con suelo cascajoso. Vendimia nocturna mecanizada. Fermentación en depósito de acero inoxidable. Temperatura de fermentación: 15ºC. Duración de la fermentación 21 días. Maceración en frío: 4 horas 6ºC.
-- Maridaje: Pescado, marisco fresco y ensaladas templadas.
-- En nariz es potente y fresco, con aromas a plátano y melocotón, así como heno fresco.
-- Color amarillo pajizo con reflejos verdosos, brillante.
-- Temperatura de servicio: 6 – 8ºC.
-- D.O. Rueda
 - En boca es redondo y persistente, con notas de fruta de hueso.
+- Color amarillo pajizo con reflejos verdosos, brillante.
 - Alérgenos: Contiene sulfitos
+- Elaborado a partir de una selección de verdejos provenientes de la zona de Valladolid, con suelo cascajoso. Vendimia nocturna mecanizada. Fermentación en depósito de acero inoxidable. Temperatura de fermentación: 15ºC. Duración de la fermentación 21 días. Maceración en frío: 4 horas 6ºC.
+- D.O. Rueda
+- Maridaje: Pescado, marisco fresco y ensaladas templadas.
+- Temperatura de servicio: 6 – 8ºC.
+- En nariz es potente y fresco, con aromas a plátano y melocotón, así como heno fresco.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08QK79ZGS/?tag=tolees-21)

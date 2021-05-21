@@ -28,11 +28,11 @@ En este momento está [Cajoline Suavizante concentrado Intense Passion Gourmande
 
 🔎:
 
-- Un suavizante que conserva el brillo y el color de la ropa
-- Más ecológico* * en comparación con Cajoline 1,5 L 60 lavados
-- Botella más práctica* * en comparación con Cajoline 1,5 L 60 lavados
-- Frescura duradera, incluso cuando llevas la ropa
 - Cajoline Intense Suavizante Concentrado Passion Gourmande te ofrece una explosión de frescor en cada gota
+- Botella más práctica* * en comparación con Cajoline 1,5 L 60 lavados
+- Más ecológico* * en comparación con Cajoline 1,5 L 60 lavados
+- Frescura duradera, incluso cuando llevas la ropa
 - Suavizante ropa ultraconcentrada: más lavados* en una pequeña botella * en comparación con Cajoline 1,5 L 60 lavados
+- Un suavizante que conserva el brillo y el color de la ropa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BZB8SVB/?tag=tolees-21)
