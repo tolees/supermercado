@@ -28,10 +28,10 @@ Tienes [Garnier Delial Spray Protector Hidratante 24 Horas  con SPF30 - 300 ml](
 
 🔎:
 
-- Spray de protección solar hidratante con SPF 30, especialmente indicado para pieles claras que se broncean fácilmente
-- Protección alta contra los efectos dañinos de los rayos UVA y UVB
-- Fórmula enriquecida con glicerina vegetal y manteca de karité para mantener la piel hidratada y evitar la sequedad producida por el sol
 - Acabado suave y sedoso, en un formato grande de 300 ml
 - Textura ligera no grasa que se absorbe rápidamente, no deja manchas blancas y es resistente al agua
+- Spray de protección solar hidratante con SPF 30, especialmente indicado para pieles claras que se broncean fácilmente
+- Fórmula enriquecida con glicerina vegetal y manteca de karité para mantener la piel hidratada y evitar la sequedad producida por el sol
+- Protección alta contra los efectos dañinos de los rayos UVA y UVB
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00X9TNKIS/?tag=tolees-21)
