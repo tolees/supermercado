@@ -28,9 +28,9 @@ En este momento está [Extravaganza - Café soluble Crema  80 g  lote de 6 ](htt
 
 🔎:
 
+- Espuma cremosa y sabor intenso
 - Disfruta de la calidad del café elaborado por profesionales en tu propio hogar
 - Café soluble Crema
 - Sabor sofisticado con un delicado aroma
-- Espuma cremosa y sabor intenso
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X5BCD58/?tag=tolees-21)

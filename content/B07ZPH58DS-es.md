@@ -28,14 +28,14 @@ En este momento está [Marca Amazon - Solimo - Crema depilatoria para pieles nor
 
 🔎:
 
-- Eficacia testada y probada con vello corto
 - Exfolia e hidrata la piel
+- El vello crece más fino
+- Para todo tipo de pieles
+- Eficacia testada y probada con vello corto
+- Deja la piel radiante y suave después de la depilación
 - Pack de 4 (4 unidades x 200 ml)
 - Depilación de 3 a 6 minutos
-- El vello crece más fino
-- Deja la piel radiante y suave después de la depilación
-- Depilación de efecto duradero
-- Para todo tipo de pieles
 - Dermatológicamente testado
+- Depilación de efecto duradero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZPH58DS/?tag=tolees-21)
