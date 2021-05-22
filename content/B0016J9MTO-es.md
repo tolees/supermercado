@@ -29,7 +29,7 @@ Tienes [Chocolate Amatller - Tableta de chocolate  70% cacao Ecuador  - 30 table
 🔎:
 
 - País de origen: España
-- Ingredientes: Pasta de cacao ecuador, Azúcar; cacao: 70% mínimo
 - Sin Gluten
+- Ingredientes: Pasta de cacao ecuador, Azúcar; cacao: 70% mínimo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0016J9MTO/?tag=tolees-21)

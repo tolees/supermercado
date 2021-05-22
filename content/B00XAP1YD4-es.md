@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo - Mini Tropifrutti - Caramelos de al 0.00 % de rebaja'
-date: 2021-05-12 18:55:25
+date: 2021-05-22 08:46:13
 image: 'https://m.media-amazon.com/images/I/51LvOI6JPDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Haribo - Mini Tropifrutti - Caramelos de goma - 1 kg](https://www.amazon
 
 🔎:
 
-- Deliciosas piezas en forma de mini frutas tropicales
 - Contenido de 1 kg
-- Irresistible sabor a frutas tropicales
+- Deliciosas piezas en forma de mini frutas tropicales
 - Conservar en lugar fresco y seco
+- Irresistible sabor a frutas tropicales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XAP1YD4/?tag=tolees-21)

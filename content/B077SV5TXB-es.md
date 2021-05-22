@@ -28,10 +28,10 @@ Tienes [Maeloc Sidra Dulce Ecológica - 750 ml](https://www.amazon.es/dp/B077SV5
 
 ℹ️:
 
-- Ecológica, vegana y sin gluten.
+- Procede de mosto fresco de manzana y no de concentrado.
 - Sidra gallega, elaborada con manzanas ecológicas 100% gallegas de más de 150 cultivadores autóctonos.
 - Servir fría o con hielo.
+- Ecológica, vegana y sin gluten.
 - Contenido de alcohol 4,1%.
-- Procede de mosto fresco de manzana y no de concentrado.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B077SV5TXB/?tag=tolees-21)
