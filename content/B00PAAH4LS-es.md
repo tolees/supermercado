@@ -28,9 +28,9 @@ Tienes [Nuit des Vosges 2101218 Cotoval Sábana Bajera Algodón Liso Trigo 90 x 
 
 🔎:
 
-- Medidas : 90 x 190 cm
 - 100 % algodón
 - Mantenimiento: Lavar a 60° - Se puede usar secadora
+- Medidas : 90 x 190 cm
 - Color : Trigo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00PAAH4LS/?tag=tolees-21)
