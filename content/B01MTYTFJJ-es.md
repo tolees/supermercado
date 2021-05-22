@@ -28,10 +28,10 @@ Está [Martini Vermouth Rosso - 1L](https://www.amazon.es/dp/B01MTYTFJJ/?tag=tol
 
 ℹ️:
 
+- El MARTINI Rosso es un vermouth agridulce con un sabor peculiar Los botánicos le confieren un carácter potente y rico
 - La receta original de Luigi Rossi se desarrolló en la década de 1860 y fue transmitida por nuestro maestro herbolario
 - Su esencia encierra una gran proporción de hierbas italianas: salvia, ajedrea y orégano de Creta equilibradas con exóticas notas agridulces de madera
-- Martini: Un verdadero icono italiano que se disfruta en todo el mundo y que se conoce como la bebida carismática de estilo propio
-- El MARTINI Rosso es un vermouth agridulce con un sabor peculiar Los botánicos le confieren un carácter potente y rico
 - MARTINI ha estado en el centro de la excelencia de la producción de vermouth durante 150 años, desde su fundación en 1863
+- Martini: Un verdadero icono italiano que se disfruta en todo el mundo y que se conoce como la bebida carismática de estilo propio
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MTYTFJJ/?tag=tolees-21)
