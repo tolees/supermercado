@@ -28,10 +28,10 @@ Tienes [Nestlé Extrafino Dinosaurus  120g](https://www.amazon.es/dp/B085PFRHB9/
 
 🔎:
 
-- Delicioso chocolate con leche Nestlé Extrafino con relleno cremoso y trocitos de galleta Tosta Rica
-- El chocolate Nestlé Extrafino de siempre, ¡ahora con galleta Tosta Rica
 - Nuestro chocolate de siempre y el único con un gran vaso de leche fresca recogida a diario en los valles de Cantabria
-- Certificado UTZ
+- El chocolate Nestlé Extrafino de siempre, ¡ahora con galleta Tosta Rica
 - 100% Cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan
+- Certificado UTZ
+- Delicioso chocolate con leche Nestlé Extrafino con relleno cremoso y trocitos de galleta Tosta Rica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085PFRHB9/?tag=tolees-21)
