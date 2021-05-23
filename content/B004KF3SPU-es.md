@@ -28,9 +28,9 @@ En este momento está [Himalaya Jabón para crema y miel  75 g](https://www.amaz
 
 🔎:
 
-- Brand: Himalaya
 - Jabón Nutritivo de Crema y Miel 75 g
 - Alta calidad
+- Brand: Himalaya
 - Nombre de la fragancia: Honey
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004KF3SPU/?tag=tolees-21)
