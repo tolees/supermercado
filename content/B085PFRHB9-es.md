@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nestlé Extrafino Dinosaurus  120g al 24.03 % de rebaja'
-date: 2021-05-21 21:36:22
+date: 2021-05-23 08:29:49
 image: 'https://m.media-amazon.com/images/I/41A360av5XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [Nestlé Extrafino Dinosaurus  120g](https://www.amazon.es/dp/B085PFRHB9/
 🔎:
 
 - Delicioso chocolate con leche Nestlé Extrafino con relleno cremoso y trocitos de galleta Tosta Rica
-- Certificado UTZ
-- 100% Cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan
 - El chocolate Nestlé Extrafino de siempre, ¡ahora con galleta Tosta Rica
 - Nuestro chocolate de siempre y el único con un gran vaso de leche fresca recogida a diario en los valles de Cantabria
+- Certificado UTZ
+- 100% Cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085PFRHB9/?tag=tolees-21)

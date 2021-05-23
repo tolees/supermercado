@@ -28,10 +28,10 @@ En este momento está [CupCup - 280 Vasos Carton Desechables para Café Espresso
 
 🔎:
 
-- COMPATIBLE con muchas cafeteras de una porción conocidas – Nespresso compatible, Tassimo compatible, Dolce Gusto compatible, illy Iperespresso compatible, Lavazza Mio compatible etc.
+- TAMAÑOS DE ESPRESSO A LUNGO – con los vasos de papel de 4 onzas (110 ml) puede servir el café espresso simple o doble o el café espresso lungo
 - FÁCIL DE USAR – vasos para café espresso se suministran con un manojo de agitadores de madera que pueden ser usados para remover el azúcar o la crema a su opción
 - ECOLÓGICO – juego de vasos para café 100% reciclable, sin metales pesados y sustancias peligrosas
-- TAMAÑOS DE ESPRESSO A LUNGO – con los vasos de papel de 4 onzas (110 ml) puede servir el café espresso simple o doble o el café espresso lungo
 - ALTA CALIDAD – usamos el cartón fabricado por la cartonería Umka d.o.o. para nuestros vasos de café desechables
+- COMPATIBLE con muchas cafeteras de una porción conocidas – Nespresso compatible, Tassimo compatible, Dolce Gusto compatible, illy Iperespresso compatible, Lavazza Mio compatible etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08W1S3XYF/?tag=tolees-21)
