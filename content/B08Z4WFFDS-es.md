@@ -28,11 +28,11 @@ Tienes [Catunambú Descafeinado - Cápsulas Compatibles con Máquinas Nespresso 
 
 🔎:
 
-- Advertencia de seguridad: Dosis máxima recomendada: 3/4 tazas al día
 - Cápsulas de aluminio, compatibles con máquinas nespresso(r) marca no relacionada con global coffee industries s.a
-- Alérgenos: sin gluten ni frutos secos
 - Instrucciones para su uso adecuado: Adultos
+- Alérgenos: sin gluten ni frutos secos
 - Especialidad: Sin cafeína
 - Ingredientes: café descafeinado, intensidad 8
+- Advertencia de seguridad: Dosis máxima recomendada: 3/4 tazas al día
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08Z4WFFDS/?tag=tolees-21)

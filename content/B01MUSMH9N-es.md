@@ -28,8 +28,8 @@ Tienes [Schwarzkopf - Gliss - Mascarilla Fiber Therapy para cabello sobreprocesa
 
 🔎:
 
-- Reconstruye la estructura del cabello
 - Previene los futuros daños
+- Reconstruye la estructura del cabello
 - Tiene una textura cremosa
 - Ofrece hasta 90% mas resistencia y brillo
 
