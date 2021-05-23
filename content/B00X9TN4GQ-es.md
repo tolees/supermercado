@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Delial Aceite Bronceador Intenso al 34.90 % de rebaja'
-date: 2021-05-22 07:46:02
+date: 2021-05-23 11:58:05
 image: 'https://m.media-amazon.com/images/I/41E-ILXZEsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GARNIER DELIAL'
 buyurl: 'https://www.amazon.es/dp/B00X9TN4GQ/?tag=tolees-21'
 descuento: '34.90'
-average: '5.02'
+average: '5.00692307692308'
 ---
 
 Tienes [Garnier Delial Aceite Bronceador Intenso Nutritivo Hidratante con Aroma a Coco - 200 ml](https://www.amazon.es/dp/B00X9TN4GQ/?tag=tolees-21) con precio final de  4.85 EUR (original: 7.45 EUR) (34.90 %  de rebaja) aqui!
