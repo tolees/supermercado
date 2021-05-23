@@ -28,9 +28,9 @@ Tienes [Old Spice Original Gel de Ducha para Hombres 400 ml  Pack x 6](https://w
 
 🔎:
 
-- Espuma refrescante que elimina la suciedad y el mal olor
-- Sumérgete en el poder de Old Spice. Gel de ducha Old Spice. Poder. Deseado por todos
-- Limpieza legendaria para hombres legendarios
 - La exquisita fragancia de Old Spice te hará inolvidable, como si fueras el centro del mundo
+- Sumérgete en el poder de Old Spice. Gel de ducha Old Spice. Poder. Deseado por todos
+- Espuma refrescante que elimina la suciedad y el mal olor
+- Limpieza legendaria para hombres legendarios
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VCG4TFQ/?tag=tolees-21)
