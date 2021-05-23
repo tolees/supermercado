@@ -28,8 +28,8 @@ Tienes [Elizabeth Arden - Christina Aguilera Red Sin Eau De Parfum 50 ml](https:
 
 ℹ️:
 
-- Notas de corazón de ciclamen
 - Notas base de jengibre rojo, almizcle y sándalo
+- Notas de corazón de ciclamen
 - Notas altas de manzana roja y canela
 - Adecuado para el otoño o el invierno
 
