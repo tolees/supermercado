@@ -28,8 +28,8 @@ Tienes [Naturitas Eritritol | 1kg | No tiene calorías | Apto para veganos | Per
 
 ℹ️:
 
-- Tiene el 70% de la dulzura del azúcar por lo que no notarás apenas la diferencia
 - Apto para veganos | No contiene ingredientes GMO | Sin gluten
 - El eritritol tiene un índice glucémico 0. No aumenta los niveles de azúcar en sangre y por lo tanto no se metaboliza en glucosa, siendo un complemento apto para diabéticos.
+- Tiene el 70% de la dulzura del azúcar por lo que no notarás apenas la diferencia
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08P535BJC/?tag=tolees-21)

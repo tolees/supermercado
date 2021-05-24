@@ -28,9 +28,9 @@ Está [Sanex Advanced Atopiderm  Gel de Ducha o Baño para Pieles Reactivas  Pac
 
 ℹ️:
 
+- Hipoalergénico con lípidos idénticos a los de la piel y emolientes
 - Fórmula que combina cuidado e higiene
 - Desarrollado con dermatólogos y probado clínicamente
 - Gel de ducha para pieles reactivas y con tendencia atópica
-- Hipoalergénico con lípidos idénticos a los de la piel y emolientes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08TK1KB6D/?tag=tolees-21)
