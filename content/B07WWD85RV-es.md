@@ -28,10 +28,10 @@ Tienes [GOTONE Purpurinas Polvo  Brillante Chunky Glitter Flakes paillette para 
 
 ℹ️:
 
+- ღ Característica: cada color con un pequeño frasco transparente, muy conveniente para llevar y almacenar, el mejor regalo para un amigo.
+- ღ Contenido del paquete: 12 cajas / set polvo del brillo, Capacidad: Aprox. 10ml.
 - ღ Alta calidad: el aseguramiento de la calidad y nuestro producto están hechos de materiales ecológicos y no contaminantes sin daños.
 - ღ Tamaño: El tamaño de la caja: Aprox. 2.5 * 2.9 cm, tamaño del polvo de brillo: 1 mm y 2 mm y 3 mm mezclado.
-- ღ Contenido del paquete: 12 cajas / set polvo del brillo, Capacidad: Aprox. 10ml.
 - ღ Múltiples Usos: Se puede utilizar el brillo grueso para decorar su hogar, gafas, tarjeta de invitación, caja del teléfono celular, arte corporal, maquillaje, bolsas, vestido, proyecto de arte, pintura, etc.
-- ღ Característica: cada color con un pequeño frasco transparente, muy conveniente para llevar y almacenar, el mejor regalo para un amigo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07WWD85RV/?tag=tolees-21)

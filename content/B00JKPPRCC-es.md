@@ -28,10 +28,10 @@ Tienes [Milka Oreo Tierno Chocolate  100g](https://www.amazon.es/dp/B00JKPPRCC/?
 
 ℹ️:
 
-- Tierno chocolate con leche de la marca Milka y galletas Oreo original, en una tableta de 100 g
+- Alérgenos: Contiene leche, soja, cacahuetes y avellanas, puede contener otros frutos de cáscara y trigo
 - Conservar en lugar fresco y seco
+- Tierno chocolate con leche de la marca Milka y galletas Oreo original, en una tableta de 100 g
 - Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso
 - Con deliciosos trozos de galleta Oreo, para una exquisita combinación de sabores y texturas
-- Alérgenos: Contiene leche, soja, cacahuetes y avellanas, puede contener otros frutos de cáscara y trigo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JKPPRCC/?tag=tolees-21)
