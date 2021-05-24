@@ -28,8 +28,8 @@ Ahora mismo tienes [GARNIER DELIAL - Garnier - Ambre solaire sensitive expert pl
 
 🔎:
 
-- Tipo de producto: protectores solares para niños
 - Capacidad: 200 ml
+- Tipo de producto: protectores solares para niños
 - Protege contra los rayos dañinos del sol
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00T47XELW/?tag=tolees-21)
