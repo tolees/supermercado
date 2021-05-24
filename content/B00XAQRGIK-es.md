@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Haribo Sandías - 1750 gr'
-date: 2021-05-12 18:55:38
+date: 2021-05-24 19:05:51
 image: 'https://m.media-amazon.com/images/I/51+dXE9eWGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B00XAQRGIK/?tag=tolees-21'
 descuento: '0.00'
-average: '7.68'
+average: '7.91333333333333'
 ---
 
 Tienes [Haribo Sandías - 1750 gr](https://www.amazon.es/dp/B00XAQRGIK/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 8.38 EUR (original:  EUR) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [Haribo Sandías - 1750 gr](https://www.amazon.es/dp/B00XAQRGIK/?tag=tole
 ℹ️:
 
 - Caramelos de goma sabor sandía
-- Deliciosas piezas en forma de tajada de sandía recubiertos de azúcar
 - Irresistible sabor a sandía
+- Deliciosas piezas en forma de tajada de sandía recubiertos de azúcar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAQRGIK/?tag=tolees-21)

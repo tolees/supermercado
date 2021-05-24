@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Burn Original - Bebida energética - Lata al 0.00 % de rebaja'
-date: 2021-05-23 18:11:52
+date: 2021-05-24 19:38:10
 image: 'https://m.media-amazon.com/images/I/41VPjgwflXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Burn'
 buyurl: 'https://www.amazon.es/dp/B00XA0G9JI/?tag=tolees-21'
 descuento: '0.00'
-average: '1.0172'
+average: '1.01538461538462'
 ---
 
 Tienes [Burn Original - Bebida energética - Lata 500 ml](https://www.amazon.es/dp/B00XA0G9JI/?tag=tolees-21) con precio final de  0.97 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [Burn Original - Bebida energética - Lata 500 ml](https://www.amazon.es/
 
 🔎:
 
-- Sirve tu bebida fría para refrescarte
+- Bebida energética carbonatada con cafeína. La cafeína puede contribuir a aumentar la concentración y el estado de alerta
 - Burn sabor original lata de 500 ml
 - Este refresco energético contiene taurina + guaraná + vitaminas B. Las vitaminas B6 y B12 puede contribuir a la disminuir el cansancio y la fatiga y al metabolismo energético normal
-- Bebida energética carbonatada con cafeína. La cafeína puede contribuir a aumentar la concentración y el estado de alerta
+- Sirve tu bebida fría para refrescarte
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XA0G9JI/?tag=tolees-21)

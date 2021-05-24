@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Ositos - Caramelos de Goma  Mezcl al 0.00 % de descuento'
-date: 2021-05-13 20:11:19
+date: 2021-05-24 19:05:25
 image: 'https://m.media-amazon.com/images/I/61YDSicxA9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Ahora mismo tienes [HARIBO Ositos - Caramelos de Goma  Mezcla de Frutas  1000 Gr
 
 - Caramelos de goma
 - Irresistible sabor a frutas
-- 1 kg
 - Deliciosas piezas en forma de ositos
+- 1 kg
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082VT6X2H/?tag=tolees-21)

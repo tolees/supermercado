@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Haribo - Fresones Super - Caramelos de g'
-date: 2021-05-12 18:55:14
+date: 2021-05-24 19:05:22
 image: 'https://m.media-amazon.com/images/I/51ME4rgE7xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B00XAQRPPY/?tag=tolees-21'
 descuento: '0.00'
-average: '7.68'
+average: '7.91333333333333'
 ---
 
 Tienes [Haribo - Fresones Super - Caramelos de goma con sabor a fresa - 1825 g](https://www.amazon.es/dp/B00XAQRPPY/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 8.38 EUR (original:  EUR) en el siguiente enlace!
