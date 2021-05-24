@@ -28,13 +28,13 @@ Tienes [Marca Amazon - Solimo - Pasta dentífrica Cuidado Básico - Original  4x
 
 🔎:
 
-- Odontológicamente testado
-- Refresca el aliento
-- No tragar. Mantener fuera del alcance de los niños. Conservar en un lugar fresco y seco
-- No utilizar en caso de hipersensibilidad a alguno de los ingredientes de este producto. Indicado para adultos y niños de 6 años o mayores.
 - Pasta dentífrica con flúor
-- Envase de 4
-- Fortalece los dientes
 - El sabor a menta refresca el aliento y su formulación ayuda a prevenir las caries en los dientes. Contiene fluoruro sódico
+- Envase de 4
+- No tragar. Mantener fuera del alcance de los niños. Conservar en un lugar fresco y seco
+- Odontológicamente testado
+- Fortalece los dientes
+- No utilizar en caso de hipersensibilidad a alguno de los ingredientes de este producto. Indicado para adultos y niños de 6 años o mayores.
+- Refresca el aliento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZD94XLX/?tag=tolees-21)

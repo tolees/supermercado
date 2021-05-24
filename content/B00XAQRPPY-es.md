@@ -28,8 +28,8 @@ Tienes [Haribo - Fresones Super - Caramelos de goma con sabor a fresa - 1825 g](
 
 ℹ️:
 
-- Caramelos de goma sabor fresa
-- Deliciosas piezas en forma de fresones
 - Irresistible sabor a fresa
+- Deliciosas piezas en forma de fresones
+- Caramelos de goma sabor fresa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAQRPPY/?tag=tolees-21)

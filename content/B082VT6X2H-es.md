@@ -28,9 +28,9 @@ Ahora mismo tienes [HARIBO Ositos - Caramelos de Goma  Mezcla de Frutas  1000 Gr
 
 🔎:
 
-- Caramelos de goma
 - Irresistible sabor a frutas
-- Deliciosas piezas en forma de ositos
+- Caramelos de goma
 - 1 kg
+- Deliciosas piezas en forma de ositos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082VT6X2H/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [HARIBO - Frutas Tropicales Super  Caramelos de Goma  Surtido  1 g](https:
 
 ℹ️:
 
-- Caramelos de goma
 - Deliciosas piezas en forma de frutas tropicales
+- Caramelos de goma
 - Irresistible sabor a frutas tropicales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XAP06BK/?tag=tolees-21)

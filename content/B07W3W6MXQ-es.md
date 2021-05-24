@@ -28,10 +28,10 @@ Está [Fun Water Spicy Addiction - Desodorante para hombre  100 ml  pack de 2 ](
 
 ℹ️:
 
-- Un viaje aromático y audaz
-- Precauciones: Evitar rociar hacia los ojos o sobre pieles sensibles. No rociar sobre una llama o cualquier material incandescente. Emplear exclusivamente para el uso previsto
-- Notas de la fragancia: Salida: Bergamota, Notas Frutales. Corazón: Cedro, Canela. Fondo: Vainilla, Sándalo, Ámbar
-- Vibrante y fácil de llevar
 - Aplicar en las muñecas y el cuello
+- Precauciones: Evitar rociar hacia los ojos o sobre pieles sensibles. No rociar sobre una llama o cualquier material incandescente. Emplear exclusivamente para el uso previsto
+- Vibrante y fácil de llevar
+- Notas de la fragancia: Salida: Bergamota, Notas Frutales. Corazón: Cedro, Canela. Fondo: Vainilla, Sándalo, Ámbar
+- Un viaje aromático y audaz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W3W6MXQ/?tag=tolees-21)

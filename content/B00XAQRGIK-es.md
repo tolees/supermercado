@@ -28,8 +28,8 @@ Tienes [Haribo Sandías - 1750 gr](https://www.amazon.es/dp/B00XAQRGIK/?tag=tole
 
 ℹ️:
 
-- Caramelos de goma sabor sandía
 - Irresistible sabor a sandía
+- Caramelos de goma sabor sandía
 - Deliciosas piezas en forma de tajada de sandía recubiertos de azúcar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAQRGIK/?tag=tolees-21)
