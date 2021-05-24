@@ -28,10 +28,10 @@ En este momento está [ColaCao Puro: 100% Cacao Natural y sin Aditivos - Negro  
 
 🔎:
 
+- Muy recomendado para elaborar deliciosos postres, como tartas, pasteles, batidos… ideal para repostería y hostelería. ¡Espolvoréalo en tu yogur o en el café
 - Sin gluten; mantener en lugar fresco y seco
+- Sin Azúcares Añadidos, Sin Aditivos ni Tratamientos Químicos.Envase autocierre zip de 250 gramos
 - Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente.
 - Gracias a esta elaboración natural mantiene sus propiedades, sus matices ácidos de sabor y el color original del cacao
-- Muy recomendado para elaborar deliciosos postres, como tartas, pasteles, batidos… ideal para repostería y hostelería. ¡Espolvoréalo en tu yogur o en el café
-- Sin Azúcares Añadidos, Sin Aditivos ni Tratamientos Químicos.Envase autocierre zip de 250 gramos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZC18NRN/?tag=tolees-21)

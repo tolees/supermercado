@@ -28,9 +28,9 @@ Tienes [Birra Moretti cerveza lager italiana caja 24 botellas 33 cl - 7920 ml](h
 
 🔎:
 
-- Consumirla entre 2 y 4 grados C para obtener sus máximas cualidades
 - Ingredientes: agua, malta de cebada, maiz, lúpulo y la exclusiva levadura Moretti
-- De color dorado tenue brillante, con una espuma densa blanca
 - Obtenida mediante un proceso de baja fermentación
+- De color dorado tenue brillante, con una espuma densa blanca
+- Consumirla entre 2 y 4 grados C para obtener sus máximas cualidades
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075D9DNN9/?tag=tolees-21)
