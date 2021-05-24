@@ -29,10 +29,10 @@ Tienes [Rexona Desodorante Antitranspirante Cobalt Roll On 50ml Pack de 6: Total
 ℹ️:
 
 - Marca de Desodorantes nº1 en ventas en todo el mundo
-- Protección eficaz 48h contra el sudor y el mal olor corporal
 - Protección eficaz en formato roll-on
 - Una enérgica fragancia de hierbabuena y almizcle
-- Desodorante antitranspirante dermatológicamente testado
 - Único con tecnología de encapsulación patentada MotionSense que se activa con el movimiento Cuanto más te mueves, más te protege
+- Desodorante antitranspirante dermatológicamente testado
+- Protección eficaz 48h contra el sudor y el mal olor corporal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FONESLU/?tag=tolees-21)
