@@ -28,13 +28,13 @@ En este momento está [Zumosol Néctar de Melocotón 1L  1 unidad](https://www.a
 
 🔎:
 
-- Temperaturas superiores a 35 º c pueden causar deterioro organoléptico en el producto
-- Instrucciones para su uso adecuado: Agitar antes de usa
-- Ingredientes: Ingredientes: Puré de melocotón (45 %) zumo de melocotón a partir de concentrado (5%) agua, azúcar, acidulante (ácido cítrico) estabilizador (pectina) vitamina Cy aroma
-- País de origen: España
 - Advertencia de seguridad: Situación del lote y la fecha de consumo preferente: Parte superior del envase
+- Néctar de melocotón
+- Temperaturas superiores a 35 º c pueden causar deterioro organoléptico en el producto
 - Almacenar en lugar fresco y seco
 - Una vez abierto, consumir completamente tan pronto como sea posible o guardar refrigerado y consumir en un máximo de 4 días
-- Néctar de melocotón
+- Instrucciones para su uso adecuado: Agitar antes de usa
+- País de origen: España
+- Ingredientes: Ingredientes: Puré de melocotón (45 %) zumo de melocotón a partir de concentrado (5%) agua, azúcar, acidulante (ácido cítrico) estabilizador (pectina) vitamina Cy aroma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PR5WXG3/?tag=tolees-21)
