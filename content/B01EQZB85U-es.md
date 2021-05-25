@@ -28,10 +28,10 @@ Tienes [bosch TIERNAHRUNG - bosch HPC Adult | con Cordero y Arroz | Comida seca 
 
 ℹ️:
 
+- Comida completa para todas las razas.
 - Sin trigo & sin azúcar
-- Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
 - Extractos de mejillones para fortalecer cartílagos, articulaciones y huesos
 - Fácilmente digerible y amigable para el estómago
-- Comida completa para todas las razas.
+- Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01EQZB85U/?tag=tolees-21)
