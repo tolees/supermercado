@@ -28,10 +28,10 @@ Está [Johnson s Baby Champú Clásico  Pelo Suave  Brillante e Hidratado  300 m
 
 ℹ️:
 
-- Champú probado por pediatras y dermatólogos
-- Champú sin colorantes, ftalatos, sulfatos, alcohol y jabón
 - Ideal también para niños y adultos
 - Fórmula hipoalergénica y con pH equilibrado, ¡ideal para el cabello del bebé!
+- Champú sin colorantes, ftalatos, sulfatos, alcohol y jabón
 - Champú para bebés que deja el pelo suave, brillante e hidratado
+- Champú probado por pediatras y dermatólogos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082VQ6HRF/?tag=tolees-21)

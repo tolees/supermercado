@@ -29,7 +29,7 @@ Está [Pulvera - Puleva Batido de Chocolate  6 x 1L](https://www.amazon.es/dp/B0
 ℹ️:
 
 - Con una cuidada selección de los mejores cacaos
-- Disfruta todo el sabor de la receta original
 - Batidos Puleva Cacao con 90% leche
+- Disfruta todo el sabor de la receta original
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N2GMFK1/?tag=tolees-21)
