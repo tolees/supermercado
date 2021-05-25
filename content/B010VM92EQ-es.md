@@ -28,9 +28,9 @@ Ahora mismo tienes [Sanex Dermo Sensitive Desodorante Roll-On  50ml](https://www
 
 🔎:
 
-- Género - Unisex
-- Marca - Sanex
 - Diseño funcional
+- Género - Unisex
 - Tipo de producto - Desodorante roll on
+- Marca - Sanex
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B010VM92EQ/?tag=tolees-21)

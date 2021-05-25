@@ -28,10 +28,10 @@ Está [BEAKEY Esponja Maquillaje  Set de Makeup Blender Beauty para Base de Maqu
 
 ℹ️:
 
-- DOBLE USO HÚMEDO Y SECO: La esponja de la licuadora se agranda después de mojarse por completo, es elástica y no se deforma fácilmente
-- EVITE EL DESPERDICIO: El tamaño de los poros es uniforme y fino, se puede usar para el maquillaje para ahorrar la cantidad de sus preciosos cosméticos
-- MATERIAL SIN LÁTEX: la esponja de belleza está hecha de material sin látex con una abertura fina. Huevos de esponja de belleza de sensación suave, le brindan una aplicación de maquillaje perfecta
 - REUTILIZABLE Y DURADERO: Es fácil de limpiar y secar. Le sugerimos que lo limpie después de cada uso para mantener el elástico
 - PARA TODO TIPO DE PARA TODO TIPO DE COSMÉTICOS: Esponjas de maquillaje de BEAKEY perfectas tanto para cosméticos en polvo como cremosos como base, crema BB, polvos, correctores, etc
+- DOBLE USO HÚMEDO Y SECO: La esponja de la licuadora se agranda después de mojarse por completo, es elástica y no se deforma fácilmente
+- MATERIAL SIN LÁTEX: la esponja de belleza está hecha de material sin látex con una abertura fina. Huevos de esponja de belleza de sensación suave, le brindan una aplicación de maquillaje perfecta
+- EVITE EL DESPERDICIO: El tamaño de los poros es uniforme y fino, se puede usar para el maquillaje para ahorrar la cantidad de sus preciosos cosméticos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01F36JEXE/?tag=tolees-21)
