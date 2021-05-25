@@ -28,11 +28,11 @@ Tienes [Flota Detergente Pastilla para Lavavajillas - 50 uds](https://www.amazon
 
 🔎:
 
-- Estuche 50 pastillas para Lavavajillas Automática
-- Pastilla con film hidrosolube
 - Poder Desengrasante
-- Cuidado de la Vajilla
-- Formato Familiar Económico
+- Estuche 50 pastillas para Lavavajillas Automática
 - Limpieza Total
+- Formato Familiar Económico
+- Pastilla con film hidrosolube
+- Cuidado de la Vajilla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SBS3QN4/?tag=tolees-21)
