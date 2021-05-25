@@ -28,10 +28,10 @@ En este momento está [STARBUCKS Cappuccino De Nescafe Dolce Gusto Cápsulas De 
 
 🔎:
 
-- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Cápsulas de café de STARBUCKS de NESCAFE DOLCE GUSTO, intenso y cremoso
-- Comprometidos con el abastecimiento ético de café al 100 % en colaboración con Conservation International
-- Cápsulas de café compatibles con cafeteras NESCAFE DOLCE GUSTO
 - Inspirado por el Cappuccino de STARBUCKS que tanto te gusta: equilibrado, refinado y deliciosamente familiar
+- Cápsulas de café compatibles con cafeteras NESCAFE DOLCE GUSTO
+- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
+- Comprometidos con el abastecimiento ético de café al 100 % en colaboración con Conservation International
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WZV318F/?tag=tolees-21)

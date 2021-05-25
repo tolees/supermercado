@@ -28,10 +28,10 @@ Tienes [Fa - Desodorante Spray Fiji Dream - 2 uds de 200 ml](https://www.amazon.
 
 🔎:
 
-- Lucha contra las manchas
 - Tiene una fórmula suave con la piel
 - No contiene sales de aluminio
-- Protege hasta 48h de protección contra la transpiración
 - Es dermatológicamente probado
+- Lucha contra las manchas
+- Protege hasta 48h de protección contra la transpiración
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NRH4KT4/?tag=tolees-21)
