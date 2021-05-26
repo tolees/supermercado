@@ -28,10 +28,10 @@ Tienes [Garnier Original Remedies  Champú Sólido  Tesoros de Miel para Cabello
 
 🔎:
 
-- Cómo se usa: Moja tu pelo y el champú sólido para que haga espuma, Enjabona el pelo de raíces a puntas, Masajea el cuero cabelludo y después aclara
-- Contenido del pack: 2 x Champús Sólidos Tesoros de Miel Garnier Original Remedies, 60 g
-- Fórmula 97% biodegradable, 94% origen vegetal, Envase cero plástico
-- Cabello nutrido y reparado, Fácil de desenredar y sin efecto áspero
 - Pack de 2 champús sólidos reparadores con miel reparadora y cera de abeja protectora, Nutre y repara el cabello dañado y quebradizo, Hasta 48 usos
+- Cómo se usa: Moja tu pelo y el champú sólido para que haga espuma, Enjabona el pelo de raíces a puntas, Masajea el cuero cabelludo y después aclara
+- Cabello nutrido y reparado, Fácil de desenredar y sin efecto áspero
+- Fórmula 97% biodegradable, 94% origen vegetal, Envase cero plástico
+- Contenido del pack: 2 x Champús Sólidos Tesoros de Miel Garnier Original Remedies, 60 g
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L4NWTCX/?tag=tolees-21)

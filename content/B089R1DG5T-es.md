@@ -28,8 +28,8 @@ Tienes [Koei Tecmo Europe Limited - Fairy Tail](https://www.amazon.es/dp/B089R1D
 
 ℹ️:
 
-- La edición Fairy Tail Special Edition incluye la película en formato bluray Fairy Tail Dragon Cry
 - Crea un equipo con una selección de 10 personajes icónicos de la serie incluyendo a Natsu Dragneel Lucy Heartfilia Gray Fullbuster Titania, Erza Scarlet y a Wendy Marvell
+- La edición Fairy Tail Special Edition incluye la película en formato bluray Fairy Tail Dragon Cry
 - Experimenta como nunca antes la historia original además de misiones secundarias hechas especialmente para el juego
 - Sube de nivel tu rango en el gremio y aumenta el nivel del gremio Fairy Tail para realizar más misiones cada vez más complicadas y desafiantes para llegar a convertirte en el mejor gremio de Fiore
 
