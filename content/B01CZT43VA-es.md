@@ -28,9 +28,9 @@ En este momento está [Guerlain Aqua Allegoria Pera Granita Edt Vapo 75 Ml 1 Uni
 
 🔎:
 
-- El espíritu de la bergamota con una nota de pera
-- Fragancias delicadas y alegres que representan momentos dulces y felices
 - Su botella pura y refinada con una malla de oro celebra la icónica botella de abeja Guerlain
+- Fragancias delicadas y alegres que representan momentos dulces y felices
+- El espíritu de la bergamota con una nota de pera
 - Fórmula de intensidad y frescura, entre simplicidad y sofisticación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01CZT43VA/?tag=tolees-21)
