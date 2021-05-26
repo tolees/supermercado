@@ -28,11 +28,11 @@ Ahora mismo tienes [Don Luciano Tempranillo - Vino Tinto D.O. La Mancha - Caja d
 
 🔎:
 
-- Aroma: Perfil aromático donde se aprecian tonos típicamente varietales; frutos rojos, bayas maduras y monte mediterráneo
 - Maridaje: Este vino combina muy bien con patés, ahumados, carnes y estofados de la cocina mediterránea
-- Apariencia: Vino tinto de color rojo con reflejos azules y capa alta
-- Gusto: En boca es un vino equilibrado, sabroso y con la tanicidad típica de la uva tempranillo
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos consumir entre 12ºC y 14ºC
 - Tipo de uva: Elaborado con una selección de uvas Tempranillo; el vino recién fermentado se trasiega y permanece en reposo hasta completar la fermentación maloláctica
+- Gusto: En boca es un vino equilibrado, sabroso y con la tanicidad típica de la uva tempranillo
+- Apariencia: Vino tinto de color rojo con reflejos azules y capa alta
+- Aroma: Perfil aromático donde se aprecian tonos típicamente varietales; frutos rojos, bayas maduras y monte mediterráneo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B12HMLH/?tag=tolees-21)
