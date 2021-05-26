@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mexifoods Tortillas de Trigo  8 uds  320 al 0.00 % de rebaja'
-date: 2021-05-24 13:50:39
+date: 2021-05-26 00:55:08
 image: 'https://m.media-amazon.com/images/I/51Wc9WMWtnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Mexifoods Tortillas de Trigo  8 uds  320g](https://www.amazon.es/dp/B07Y
 
 🔎:
 
-- País de origen: España
 - Ingredientes: Harina de TRIGO (56%), agua, aceite vegetal (aceite girasol alto oleico)
 - Mantener en un lugar fresco y seco
 - Alérgenos: harina de trigo, cereales que contienen gluten
+- País de origen: España
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YQDB4NB/?tag=tolees-21)
