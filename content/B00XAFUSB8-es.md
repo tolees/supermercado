@@ -28,8 +28,8 @@ En este momento está [Oral-B Dentífrico Pro Expert pasta dentífrica Limpieza 
 
 🔎:
 
+- Refresca el aliento y blanquea los dientes eliminando las manchas superficiales
 - Dentífrico Pro-Expert Deep Clean: Previene la caries, los problemas de encías, la sensibilidad dental, la erosión del esmalte y el sarro
 - Con micropartículas activas que se disuelven para conseguir una limpieza en profundidad superior a la que te ofrece el dentífrico normal
-- Refresca el aliento y blanquea los dientes eliminando las manchas superficiales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XAFUSB8/?tag=tolees-21)

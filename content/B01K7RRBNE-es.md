@@ -28,10 +28,10 @@ Ahora mismo tienes [Hero Diet Confitura de Arándanos y Frambuesas Sin Conservan
 
 🔎:
 
-- Elaborado de forma natural y casera
 - Sin conservantes ni colorantes artificiales
-- Formato 280 g
 - 0% azúcares añadidos y con menos calorías
 - Endulzado con stevia
+- Formato 280 g
+- Elaborado de forma natural y casera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01K7RRBNE/?tag=tolees-21)
