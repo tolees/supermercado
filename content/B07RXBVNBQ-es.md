@@ -28,10 +28,10 @@ Ahora mismo tienes [Shatchi 2 m de largo 20 LED blanco cálido micro arroz oro a
 
 🔎:
 
-- LED impermeable para uso en interiores
-- Eficiencia energética, sin problemas de calor: el alambre de cobre ultrafino, flexible pero resistente con luces LED es resistente al agua.
 - 20 luces LED de color blanco cálido
-- Fácil de moldear y moldear: caja de batería transparente y pequeña que es fácil de ocultar, requiere 2 pilas AA (no incluidas).
+- Eficiencia energética, sin problemas de calor: el alambre de cobre ultrafino, flexible pero resistente con luces LED es resistente al agua.
 - 2 m de longitud
+- LED impermeable para uso en interiores
+- Fácil de moldear y moldear: caja de batería transparente y pequeña que es fácil de ocultar, requiere 2 pilas AA (no incluidas).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RXBVNBQ/?tag=tolees-21)

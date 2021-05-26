@@ -28,9 +28,9 @@ Está [Vino Tinto D.O. Tierra De Castilla Solaz tinto variedad uva Tempranillo y
 
 ℹ️:
 
-- Aroma y sabor: Elegante y equilibrado
-- Cosecha del año 2015-2019
 - Calidad adecuada de la bebida garantizada por el fabricante
+- Cosecha del año 2015-2019
+- Aroma y sabor: Elegante y equilibrado
 - Apariencia: Intenso color rojo cereza, nítido
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DWC01WY/?tag=tolees-21)

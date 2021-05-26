@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Raimat Abadia Ecológico - Vino Tinto - 7 con un 24.46 % de descuento'
-date: 2021-05-21 08:57:59
+date: 2021-05-26 20:09:21
 image: 'https://m.media-amazon.com/images/I/316p2LSYNSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Raimat Abadia Ecológico - Vino Tinto - 75cl](https://www
 
 🔎:
 
+- Nota de cata (vista): Color rojo picota intenso con matices violáceos que denotan su juventud.
+- Nota de cata (boca): Postgusto largo con un agradable final especiado.
 - Varietales: Cabernet Sauvignon y Tempranillo
 - Maridaje: Buen aliado de platos que contienen quesos curados, verduras, carnes, legumbres o todo tipo de pasta.
-- Nota de cata (boca): Postgusto largo con un agradable final especiado.
 - Ecológico, D.O. Costers del Segre
-- Nota de cata (vista): Color rojo picota intenso con matices violáceos que denotan su juventud.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077YHLY3X/?tag=tolees-21)

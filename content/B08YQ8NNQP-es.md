@@ -28,10 +28,10 @@ En este momento está [Lactovit - Jabón de Manos Lactourea con Protección Higi
 
 🔎:
 
-- Formulado con Protein Calcium, que refuerza y nutre la piel en profundidad para mantenerla fuerte y joven
-- Las proteínas y el calcio penetran en las capas más profundas de la epidermis preservando la hidratación de la piel y protegiendo la barrera lipídica
-- Testado y probado dermatológicamente
 - Compromiso Lactovit; activos 100% naturales de la leche y altamente biodegradables, mejorando la reciclabilidad de nuestros envases y cuidando del medio ambiente
+- Testado y probado dermatológicamente
+- Las proteínas y el calcio penetran en las capas más profundas de la epidermis preservando la hidratación de la piel y protegiendo la barrera lipídica
 - Jabón de manos reparador con Lactourea, complejo con Ácido Láctico y Urea Pura que repara la piel en profundidad gracias a sus propiedades reparadoras
+- Formulado con Protein Calcium, que refuerza y nutre la piel en profundidad para mantenerla fuerte y joven
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08YQ8NNQP/?tag=tolees-21)
