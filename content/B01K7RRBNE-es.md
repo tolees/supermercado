@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hero Diet Confitura de Arándanos y Framb al 0.00 % de descuento'
-date: 2021-05-20 09:22:52
+date: 2021-05-26 08:43:18
 image: 'https://m.media-amazon.com/images/I/51tsdUw3dSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hero'
 buyurl: 'https://www.amazon.es/dp/B01K7RRBNE/?tag=tolees-21'
 descuento: '0.00'
-average: '1.54846153846154'
+average: '1.55370370370371'
 ---
 
 Ahora mismo tienes [Hero Diet Confitura de Arándanos y Frambuesas Sin Conservantes ni Colorantes  Sabor Auténtico 280 g](https://www.amazon.es/dp/B01K7RRBNE/?tag=tolees-21) a 1.69 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [Hero Diet Confitura de Arándanos y Frambuesas Sin Conservan
 🔎:
 
 - Elaborado de forma natural y casera
-- Formato 280 g
 - Sin conservantes ni colorantes artificiales
+- Formato 280 g
 - 0% azúcares añadidos y con menos calorías
 - Endulzado con stevia
 
