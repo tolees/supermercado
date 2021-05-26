@@ -28,11 +28,11 @@ Tienes [Syoss Rizos Pro Acondicionador para Cabello Rizado y Encaracolado - 6 Un
 
 ℹ️:
 
-- Acondicionador para un cabello como recién salido de la peluquería, adecuado cada día; definición e hidratación óptimas; cabello disciplinado
-- Cabello como recién salido de la peluquería
-- Modo de empleo: aplicar sobre el cabello mojado y aclarar con abundante agua
-- Las nuevas fórmulas de Syoss combinan ingredientes naturales inspirados en los principios de belleza japoneses con la tecnología AMINO COMPLEX, que refuerza el cabello desde el interior
-- Rehidrata las zonas más secas del cabello; efecto anti-encrespamiento duradero sin uso del secador; rizos definidos, disciplinados e hidratados
 - El acondicionador Rizos Pro de Syoss es adecuado para cabellos rizados
+- Rehidrata las zonas más secas del cabello; efecto anti-encrespamiento duradero sin uso del secador; rizos definidos, disciplinados e hidratados
+- Modo de empleo: aplicar sobre el cabello mojado y aclarar con abundante agua
+- Cabello como recién salido de la peluquería
+- Acondicionador para un cabello como recién salido de la peluquería, adecuado cada día; definición e hidratación óptimas; cabello disciplinado
+- Las nuevas fórmulas de Syoss combinan ingredientes naturales inspirados en los principios de belleza japoneses con la tecnología AMINO COMPLEX, que refuerza el cabello desde el interior
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08F5TN95T/?tag=tolees-21)

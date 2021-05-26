@@ -28,8 +28,8 @@ Está [Red Bull Zero  Bebida energética - 24 de 250 ml.  Total 6000 ml. ](https
 
 ℹ️:
 
+- 24 de 250ml
 - Red Bull Zero Azúcar
 - Total 6000ml
-- 24 de 250ml
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086VXHFHJ/?tag=tolees-21)
