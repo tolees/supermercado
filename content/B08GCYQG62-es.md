@@ -28,9 +28,9 @@ Ahora mismo tienes [Dove - Pack Ahorro Desodorante Original  200 ml](https://www
 
 🔎:
 
-- Apto para piel sensible
-- Contiene 1/4 de crema hidratante
 - 48 horas de protección
 - Dove original desodorante 200 ML
+- Contiene 1/4 de crema hidratante
+- Apto para piel sensible
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GCYQG62/?tag=tolees-21)

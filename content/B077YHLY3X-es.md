@@ -28,10 +28,10 @@ En este momento está [Raimat Abadia Ecológico - Vino Tinto - 75cl](https://www
 
 🔎:
 
-- Nota de cata (vista): Color rojo picota intenso con matices violáceos que denotan su juventud.
-- Nota de cata (boca): Postgusto largo con un agradable final especiado.
 - Varietales: Cabernet Sauvignon y Tempranillo
-- Maridaje: Buen aliado de platos que contienen quesos curados, verduras, carnes, legumbres o todo tipo de pasta.
+- Nota de cata (boca): Postgusto largo con un agradable final especiado.
+- Nota de cata (vista): Color rojo picota intenso con matices violáceos que denotan su juventud.
 - Ecológico, D.O. Costers del Segre
+- Maridaje: Buen aliado de platos que contienen quesos curados, verduras, carnes, legumbres o todo tipo de pasta.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077YHLY3X/?tag=tolees-21)
