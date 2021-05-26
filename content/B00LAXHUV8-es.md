@@ -28,8 +28,8 @@ En este momento está [Brabantia 363641 - Cuchara de Espagueti  Acero y Nylon  C
 
 🔎:
 
-- Cuchara de espagueti
 - Fabricada con nylon de alta calidad y resistente al calor (máximo 220 °C)
+- Cuchara de espagueti
 - Apto para el lavavajillas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00LAXHUV8/?tag=tolees-21)
