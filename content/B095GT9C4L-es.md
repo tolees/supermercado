@@ -28,10 +28,10 @@ Tienes [Cobizi Billetera Hombre Cuero Sintético Cartera Piel para Hombre Dinero
 
 🔎:
 
-- Material: cuero sintético + cuero genuino
 - Tamaño abierto: 25x10cm-9.75x3.9 "(largo x ancho)
 - Contenido del paquete: 1 x bolsillos para hombres titular de las tarjetas de crédito billetera monedero
 - Color: café
 - Tamaño aproximado: 12x10cmx2cm-4.68x3.9x0.78 "(LxWxH)
+- Material: cuero sintético + cuero genuino
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B095GT9C4L/?tag=tolees-21)
