@@ -28,12 +28,12 @@ Está [L Or Espresso Café Or Noir Intensidad 11  100 cápsulas de cafe](https:/
 
 ℹ️:
 
-- Intensidad 11
+- Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso
 - 100 cápsulas repartidas en 10 paquetes de 10 cápsulas cada uno. Peso neto de 1 paquete: 52 g. Total 10 paquetes = 520 gr
 - OR Noir, el espresso más misterioso de nuestra gama. Una fusión de intensos sabores y un característico toque tostado, con notas de chocolate negro amargo que dejan en tu paladar un exiquisito sabor
-- Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
-- Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso
-- Compatibles con máquinas Nespresso
+- Intensidad 11
 - Intenso- Inconfundible- Místico
+- Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
+- Compatibles con máquinas Nespresso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00KH1KPHU/?tag=tolees-21)
