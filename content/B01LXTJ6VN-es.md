@@ -29,8 +29,8 @@ Está [Hero Baby - Lenguado con Crema de Bechamel Tarritos de Puré para Bebés 
 ℹ️:
 
 - Recetas con el equilibrio nutricional específico para cada etapa
-- Ingredientes controlados desde que se planta la semilla hasta que son recogidos
 - Sin aceite de palma, sin almidón, sin sal añadida
+- Ingredientes controlados desde que se planta la semilla hasta que son recogidos
 - Ingredientes 100% naturales, sin conservantes ni colorantes
 - Conservación natural, como lo harías en casa, al baño maría.
 

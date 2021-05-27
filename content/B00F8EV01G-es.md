@@ -28,10 +28,10 @@ Está [Coca-Cola Sabor Original - Refresco de cola - Pack 2 botellas 2 L](https:
 
 ℹ️:
 
-- Coca-Cola Multipack de 2 botellas de 2 litros para que disfrute toda la familia de su refresco favorito
-- Bebida refrescante con el sabor inconfundible de tu Coca-Cola de siempre, desde 1886
-- Toma tu refresco frío con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
 - Envase 100% reciclable (contenedor amarillo)
+- Coca-Cola Multipack de 2 botellas de 2 litros para que disfrute toda la familia de su refresco favorito
 - Botella elaborada con 25% de material reciclado
+- Toma tu refresco frío con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
+- Bebida refrescante con el sabor inconfundible de tu Coca-Cola de siempre, desde 1886
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00F8EV01G/?tag=tolees-21)
