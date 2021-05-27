@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jägermeister Licor de Hierbas - 700 ml al 13.86 % de descuento'
-date: 2021-05-26 09:04:51
+date: 2021-05-27 13:55:47
 image: 'https://m.media-amazon.com/images/I/41umIpgHLeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jägermeister'
 buyurl: 'https://www.amazon.es/dp/B073RMVBX2/?tag=tolees-21'
 descuento: '13.86'
-average: '12.71'
+average: '12.3066666666667'
 ---
 
 Ahora mismo tienes [Jägermeister Licor de Hierbas - 700 ml](https://www.amazon.es/dp/B073RMVBX2/?tag=tolees-21) a 11.5 EUR (original: 13.35 EUR) (13.86 %  de descuento) en el siguiente enlace!
