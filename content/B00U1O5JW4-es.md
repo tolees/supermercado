@@ -28,8 +28,8 @@ Tienes [Wint & Lila Ginebra London Dry - 700 gr](https://www.amazon.es/dp/B00U1O
 
 🔎:
 
-- Capacidad: 70cl
 - Transparente
+- Capacidad: 70cl
 - Graduación:40º
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00U1O5JW4/?tag=tolees-21)

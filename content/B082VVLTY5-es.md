@@ -28,9 +28,9 @@ Tienes [Café FORTALEZA - Cápsulas de café con Aroma Vainilla Compatibles con 
 
 ℹ️:
 
+- País de origen: España
+- Ingredientes: Café molido 100% arábica
 - Compatible con sistema Nespresso
 - Conservar en un lugar fresco, seco y protegido del sol
-- Ingredientes: Café molido 100% arábica
-- País de origen: España
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B082VVLTY5/?tag=tolees-21)

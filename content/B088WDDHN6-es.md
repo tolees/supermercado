@@ -28,10 +28,10 @@ Está [DaMohony Manteles Individuales Manteles Individuales de Silicona Aislante
 
 ℹ️:
 
-- 5. GARANTÍA DE SERVICIO: Contamos con reemplazo profesional de posventa premium. Cualquier problema de este producto, puede enviar correos electrónicos lo antes posible. Le brindaremos un excelente servicio al cliente y una garantía de satisfacción del 100%.
-- 4.FÁCIL DE USAR: fácil de limpiar, apto para lavavajillas, solo lávelo con agua y jabón y deje que se seque al aire. Flexible, fácil de plegar y almacenar en un espacio pequeño.
-- 3.DURABLE: resistente al calor para proteger su mesa, ideal para niños pequeños y bebés que recién comienzan a comer.
 - 1. DISEÑO: El diseño simple y los lindos colores complementan cualquier cocina. Proporciona superficie antiadherente a cualquier sartén.
+- 4.FÁCIL DE USAR: fácil de limpiar, apto para lavavajillas, solo lávelo con agua y jabón y deje que se seque al aire. Flexible, fácil de plegar y almacenar en un espacio pequeño.
+- 5. GARANTÍA DE SERVICIO: Contamos con reemplazo profesional de posventa premium. Cualquier problema de este producto, puede enviar correos electrónicos lo antes posible. Le brindaremos un excelente servicio al cliente y una garantía de satisfacción del 100%.
+- 3.DURABLE: resistente al calor para proteger su mesa, ideal para niños pequeños y bebés que recién comienzan a comer.
 - 2.MATERIAL: material de silicona de grado alimenticio, antideslizante resistente al agua, duradero y de larga duración.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088WDDHN6/?tag=tolees-21)

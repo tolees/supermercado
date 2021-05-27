@@ -28,10 +28,10 @@ En este momento está [Kativa Colageno Champú Revitalizante y Reestructurante -
 
 🔎:
 
-- Fórmulción sin parabenos, gluten, sales o sulfatos
-- Revitaliza y reestructura el cabello desde la raíz
 - Devuelve elasticidad, hidratación y brillo al cabello
+- Fórmulción sin parabenos, gluten, sales o sulfatos
 - Limpia el cabello profundamente sin maltratarlo
 - Ayuda a que el cabello complete el ciclo de vida
+- Revitaliza y reestructura el cabello desde la raíz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00UE28ZWY/?tag=tolees-21)
