@@ -28,10 +28,10 @@ En este momento está [KOFFIE CUP EST. 2020 - Koffie Cup Colombia - 40 cápsulas
 
 🔎:
 
-- Receta Colombia, intensidad 7- cultivado exclusivamente en cafetales colombianos
-- Cápsulas compatibles para máquinas Nespresso*, marca registrada de Société des Produits Nestlé S.A.
-- Nuestras cápsulas son de aluminio asegurando una funcionalidad óptima y son 100% reciclables
 - Una taza que combina un toque de acidez cítrica con notas dulces gracias a su aroma frutal, a chocolate y a caramelo
+- Cápsulas compatibles para máquinas Nespresso*, marca registrada de Société des Produits Nestlé S.A.
 - Pack de 4 estuches de 10 cápsulas de café de aluminio. Total de 40 cápsulas de 5g/ cápsula
+- Receta Colombia, intensidad 7- cultivado exclusivamente en cafetales colombianos
+- Nuestras cápsulas son de aluminio asegurando una funcionalidad óptima y son 100% reciclables
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WH8WQ8Y/?tag=tolees-21)
