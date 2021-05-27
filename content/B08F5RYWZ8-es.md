@@ -28,11 +28,11 @@ En este momento está [Syoss Champú Men Cool para Cabello Normal o Graso  Refre
 
 🔎:
 
-- Modo de empleo: masajear sobre el cabello mojado y aclarar con abundante agua
-- Cabello como recién salido de la peluquería
 - Las nuevas fórmulas de Syoss combinan ingredientes naturales inspirados en los principios de belleza japoneses con la tecnología AMINO COMPLEX, que refuerza el cabello desde el interior
-- Limpia el cuero cabelludo de los residuos y le da un efecto de frescor intenso gracias al mentol
+- Cabello como recién salido de la peluquería
 - El champú Men Cool es adecuado para cabello normal o graso
+- Limpia el cuero cabelludo de los residuos y le da un efecto de frescor intenso gracias al mentol
 - Ofrece una limpieza en profundidad con efecto refrescante
+- Modo de empleo: masajear sobre el cabello mojado y aclarar con abundante agua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08F5RYWZ8/?tag=tolees-21)

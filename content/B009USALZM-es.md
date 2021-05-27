@@ -28,9 +28,9 @@ Tienes [Vichy Dercos Champú Anti Caspa - 200 ml](https://www.amazon.es/dp/B009U
 
 🔎:
 
-- De la marca Vichy
-- Este producto está indicado tanto para mujeres como para hombres.
 - De la marca Vichy.
+- Este producto está indicado tanto para mujeres como para hombres.
+- De la marca Vichy
 - Contiene 200 m.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009USALZM/?tag=tolees-21)
