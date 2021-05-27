@@ -28,15 +28,15 @@ Está [BOCONO SPECIALTY COFFEE - Boconó Specialty Coffee Brasil 1 Kilo Café De
 
 ℹ️:
 
-- ARABICA 100%
-- Varietal: Bourbon Rojo
 - Región: Espiritu Santo Del Phinal
+- CAFE EN GRANO NATURAL
 - Notas De Cata: Dulce - Frutos Secos - Frutas Maduras
+- Tostado Artesanalmente en Madrid - España
 - 1300 mt de Altitud
 - Tueste Medio para Espresso o Filtros
-- Tostado Artesanalmente en Madrid - España
-- CAFE EN GRANO NATURAL
-- Café de Brasil
 - Proceso Natural
+- Café de Brasil
+- Varietal: Bourbon Rojo
+- ARABICA 100%
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0871NKFCD/?tag=tolees-21)

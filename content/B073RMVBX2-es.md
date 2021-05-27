@@ -28,9 +28,9 @@ Ahora mismo tienes [Jägermeister Licor de Hierbas - 700 ml](https://www.amazon.
 
 🔎:
 
-- Capacidad 700 ml
-- Tipo crema
-- Ingredientes: alcohol, azúcar, extractos de hierbas
 - Contiene 35% vol. Alcohol
+- Tipo crema
+- Capacidad 700 ml
+- Ingredientes: alcohol, azúcar, extractos de hierbas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073RMVBX2/?tag=tolees-21)

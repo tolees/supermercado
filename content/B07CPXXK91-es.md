@@ -28,10 +28,10 @@ Está [Somat Oro Gel Lavavajillas Vinagre - 70 Lavados](https://www.amazon.es/dp
 
 ℹ️:
 
-- Efecto remojo que consigue eliminar las manchas de grasa quemada sin necesidad de pre-tratar
 - Fácil disolución, para una limpieza impecable incluso en ciclos cortos
+- Efecto remojo que consigue eliminar las manchas de grasa quemada sin necesidad de pre-tratar
+- Permite dosificar, para medias cargas o ciclos cortos
 - Somat gel con deep clean technology que penetra y ayuda a eliminar las suciedades resecas y difíciles
 - Vinagre - elimina los malos olores
-- Permite dosificar, para medias cargas o ciclos cortos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CPXXK91/?tag=tolees-21)
