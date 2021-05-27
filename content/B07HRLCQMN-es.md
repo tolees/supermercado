@@ -30,8 +30,8 @@ Ahora mismo tienes [Y.F.M 12 Colores Pinturas Faciales y Corporales  Lapices Fac
 
 - 🎨 【Conveniente de Usar 】- Desenchufe la tapa y gire la pluma para usarla. Después del uso, atornille la pluma y cubra la pluma.
 - 🎨【Lavado Fácil】 - No te preocupes por ensuciarte las manos o la ropa después de usar este maquillaje para niños. Puede usar un pañuelo de papel para limpiarse las manos y luego lavarse con agua y jabón.
+- 🎨【Materiales Seguros y No Tóxicos】100% Seguro - Garantía no tóxica, ecológica e hipoalergénica. No hay peligro para la piel, ideal para adultos y niños.
 - 🐾 【Multiples Ocasiones】 - Fiesta de cumpleaños, presentación teatral, fiesta de disfraces, maquillaje de celebraciones festivas, dibujo de rostros, tatuaje temporal, fiestas de gallinas, baby shower, fiestas de disfraces para niños, maquillaje de eventos corporativos, promociones comerciales, pinturas prenatales para el vientre.
 - 🎨 【Multicolores y Brillantes】 - El kit contiene 12 lápices faciales de colores brillantes, puedes crear bellos patrones en tu rostro y también pintar varios patrones de diseño.
-- 🎨【Materiales Seguros y No Tóxicos】100% Seguro - Garantía no tóxica, ecológica e hipoalergénica. No hay peligro para la piel, ideal para adultos y niños.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HRLCQMN/?tag=tolees-21)
