@@ -30,8 +30,8 @@ En este momento está [Renova Papel Higiénico Blanco - 48 Rollos](https://www.a
 
 - Blanco
 - Super
-- Papel higiénico
 - Alta calidad
+- Papel higiénico
 - 48 Rollos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00VKPK8II/?tag=tolees-21)

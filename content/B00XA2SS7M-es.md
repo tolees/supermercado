@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cola Cao - ColaCao Original: con Cacao N al 12.63 % de descuento'
-date: 2021-05-24 08:05:32
+date: 2021-05-28 15:33:51
 image: 'https://m.media-amazon.com/images/I/51YC-sgQMjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cola Cao'
 buyurl: 'https://www.amazon.es/dp/B00XA2SS7M/?tag=tolees-21'
 descuento: '12.63'
-average: '19.5804000000001'
+average: '19.5615384615386'
 ---
 
 Ahora mismo tienes [Cola Cao - ColaCao Original: con Cacao Natural - Formato Ahorro - 5 7kg](https://www.amazon.es/dp/B00XA2SS7M/?tag=tolees-21) a 19.09 EUR (original: 21.85 EUR) (12.63 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Cola Cao - ColaCao Original: con Cacao Natural - Formato Aho
 
 🔎:
 
-- El ColaCao de siempre, eso tan tuyo. Con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos. Ideal para cualquier momento: desayuno, merienda, cena o como snack.
-- Alérgenos: contiene trigo y cebada. Mantener en lugar fresco y seco.
 - 407 raciones en su estuche de 5,7kg (contiene 3 bolsas).
 - Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos.
+- El ColaCao de siempre, eso tan tuyo. Con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos. Ideal para cualquier momento: desayuno, merienda, cena o como snack.
 - Con cacao certificado UTZ. Al comprar cacao UTZ, ColaCao apoya el cultivo sostenible de cacao. Los agricultores certificados por UTZ implementan mejores prácticas agrícolas, con respeto a la gente y al planeta.
+- Alérgenos: contiene trigo y cebada. Mantener en lugar fresco y seco.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XA2SS7M/?tag=tolees-21)
