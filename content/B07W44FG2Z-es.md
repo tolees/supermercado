@@ -28,10 +28,10 @@ Ahora mismo tienes [LAPASION - Bizcocho plum cake de chocolate | 2 Kg](https://w
 
 🔎:
 
-- 🍫 INGREDIENTES | Harina de trigo, azúcar, huevos, aceite de girasol, cacao en polvo, leche en polvo, harina de maíz, glucosa, sorbitol, gasificantes (E450, E500ii), conservador (E-200, E-281) y aromas.
-- 📅 FECHA DE CONSUMO PREFERENTE y condiciones de CONSERVACIÓN | 4 meses. Almacenar bien cerrado en lugar fresco, seco y alejado de los rayos directos del sol y otras fuentes de calor.
-- 🇪🇸 PRODUCIDOS EN ESPAÑA | Estos dulces han sido producidos en España.
 - 🎂 Delicioso bizcocho de chocolate estilo plum cake. Ideal para desayuno, almuerzo y merienda. Vienen envueltos individualmente para asegurar su conservación durante mucho más tiempo.
+- 🍫 INGREDIENTES | Harina de trigo, azúcar, huevos, aceite de girasol, cacao en polvo, leche en polvo, harina de maíz, glucosa, sorbitol, gasificantes (E450, E500ii), conservador (E-200, E-281) y aromas.
+- 🇪🇸 PRODUCIDOS EN ESPAÑA | Estos dulces han sido producidos en España.
+- 📅 FECHA DE CONSUMO PREFERENTE y condiciones de CONSERVACIÓN | 4 meses. Almacenar bien cerrado en lugar fresco, seco y alejado de los rayos directos del sol y otras fuentes de calor.
 - ✔️ CALIDAD SUPREMA | Repostería elaborada a partir de masa de harina con aceite de girasol y cacao horneada con forma de bizcocho estilo inglés.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W44FG2Z/?tag=tolees-21)
