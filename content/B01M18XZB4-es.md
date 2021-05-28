@@ -28,10 +28,10 @@ Tienes [PARFUMS SAPHIR Fruit Attraction Té Verde - Eau de Toilette para Mujeres
 
 🔎:
 
-- Fruit Attraction Té Verde, contine propiedades tonificantes y un intenso aroma floral a té verde natural, que persiste en la piel por su elevada concentración de aceites esenciales
-- Fragancia que nos transporta a un jardín de notas refrescantes, cítricas y florales que nos regala la naturaleza creando un aroma adecuada en cada piel
 - Óptimo para uso diario gracias a su practico envase de 100 ml con vaporizador
 - Con solo aplicar unos toques en las muñecas y el cuello, conseguirás que la fragancia te acompañe todo el día
+- Fruit Attraction Té Verde, contine propiedades tonificantes y un intenso aroma floral a té verde natural, que persiste en la piel por su elevada concentración de aceites esenciales
+- Fragancia que nos transporta a un jardín de notas refrescantes, cítricas y florales que nos regala la naturaleza creando un aroma adecuada en cada piel
 - Agua de colonia joven y vital con notas afrutadas para todas las edades
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M18XZB4/?tag=tolees-21)
