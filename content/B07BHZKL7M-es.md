@@ -28,10 +28,10 @@ Ahora mismo tienes [Colon Gel Original Profesional - Detergente para lavadora  a
 
 🔎:
 
-- Gel concentrado con poder quitamanchas, ropa limpia y fresca en cada lavado
-- Descubre el resto de detergentes y aditivos para la lavadora de Colon
-- Actúa incluso en agua fría
-- Detergente para la lavadora concentrado original
 - Apto para ropa blanca y de color
+- Descubre el resto de detergentes y aditivos para la lavadora de Colon
+- Detergente para la lavadora concentrado original
+- Gel concentrado con poder quitamanchas, ropa limpia y fresca en cada lavado
+- Actúa incluso en agua fría
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BHZKL7M/?tag=tolees-21)
