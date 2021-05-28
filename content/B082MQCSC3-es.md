@@ -28,10 +28,10 @@ En este momento está [Tea Forté Single Steeps Hanami Assortment | 15 Bolsas de
 
 🔎:
 
-- Ligero y fresco con notas de primavera, cada taza de té invita a los amantes de todo el mundo para respirar y apreciar la belleza efímera de flores de primavera en flor
-- Hojas sueltas TEA Sampler con 15 preportioned bolsitas con porciones individuales por caja de regalo
-- DELIGHTFUL TEA regalo fija con una colección de alta calidad de tés gourmet, un regalo de la presentadora más acogido o regalo para los amantes del té
 - cada bolsa contiene la medida perfecta para una taza perfecta o 12 oz taza de té
 - Té verde orgánico MUESTREADOR con té verde Hanami, medalla de plata en el Campeonato Mundial del té 2018, y nombrado para el festival anual de la flor de cerezo japonés
+- Hojas sueltas TEA Sampler con 15 preportioned bolsitas con porciones individuales por caja de regalo
+- Ligero y fresco con notas de primavera, cada taza de té invita a los amantes de todo el mundo para respirar y apreciar la belleza efímera de flores de primavera en flor
+- DELIGHTFUL TEA regalo fija con una colección de alta calidad de tés gourmet, un regalo de la presentadora más acogido o regalo para los amantes del té
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082MQCSC3/?tag=tolees-21)

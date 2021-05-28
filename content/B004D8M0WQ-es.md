@@ -28,9 +28,9 @@ Tienes [Orlando Tomate Frito Clásico Brik de 3 x 210 g](https://www.amazon.es/d
 
 ℹ️:
 
-- Sin conservantes
+- Sin Gluten
 - Apto para Vegetariano y Veganos
 - Preparado para su consumo
-- Sin Gluten
+- Sin conservantes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B004D8M0WQ/?tag=tolees-21)

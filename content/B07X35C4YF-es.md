@@ -30,8 +30,8 @@ Tienes [Note d Espresso Italiano - Cápsulas de tisana de ciruela y canela  3 g
 
 - Práctica caja de 100 Cápsulas de nueva generación totalmente certificadas con barrera de oxígeno (no es necesario guardarlas en bolsas, pueden permanecer afuera en la cocina sin ningún problema)
 - Exclusivamente Compatible con cafeteras Nespresso* (* No registrado en Amazon EU S.a.r.l.)
-- Hechos en Italia
 - Dosis recomendada de agua 150 ml
+- Hechos en Italia
 - El delicioso sabor y aroma de la ciruela y la canela en una pequeña cápsula de 3 gramos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07X35C4YF/?tag=tolees-21)

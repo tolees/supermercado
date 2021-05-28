@@ -28,10 +28,10 @@ En este momento está [BELLY OUR MUTUAL FRIEND - Belly Champu Perros  Fragancia 
 
 🔎:
 
-- 🐶 CHAMPÚ PERROS LIMPIEZA E HIDRATACIÓN: Nuestro champú para perros de BELLY es la solución natural perfecta para tu mascota, que limpia, hidrata y nutre su pelaje suavemente; Gracias su formulación natural, el pelaje de tu perro lucirá suave, bonito y brillante, dejándole un aroma agradable duradero
 - 🐶 ADECUADO PARA TODO TIPO DE PERROS: A diferencia de otros champus para perros, nuestro shampoo para perros es adecuado para todo tipo de tamaños y pelajes; Podrás usar BELLY Dirty Dog como champú perros pelo blanco y negro, champú para perros pelo largo y corto, y como champu cachorros perro y adultos
+- 🐶 CHAMPÚ PERROS LIMPIEZA E HIDRATACIÓN: Nuestro champú para perros de BELLY es la solución natural perfecta para tu mascota, que limpia, hidrata y nutre su pelaje suavemente; Gracias su formulación natural, el pelaje de tu perro lucirá suave, bonito y brillante, dejándole un aroma agradable duradero
 - 🐶 CHAMPU PERROS PIEL SENSIBLE: Nuestro champu ha sido formulado solo con ingredientes naturales que respetan la piel de tu mascota, sin componentes agresivos que podrían irritar su piel; Rico en Aloe Vera, BELLY Dirty Dog es ideal como champu piel atopica perros, respetando su piel sensible y delicada
-- 🐶 FRAGANCIA DURADERA, LIGERA Y SUTIL: Enriquecido con extractos de lavanda y pomelo, BELLY Dirty Dog libera un dulce aroma en el pelaje de tu amigo de cuatro patas; El agradable y delicado aroma de nuestro champú orgánico y ecológico para perros proporciona una frescura y una limpieza duraderas
 - 🐶 FABRICADO EN ALEMANIA: Este champú para perros ha sido fabricado en Alemania por nuestro equipo de expertos de acuerdo con los mejores estándares de la industria para obtener productos de alta calidad y libres de crueldad animal, basados ​​en ingredientes cuidadosamente seleccionados
+- 🐶 FRAGANCIA DURADERA, LIGERA Y SUTIL: Enriquecido con extractos de lavanda y pomelo, BELLY Dirty Dog libera un dulce aroma en el pelaje de tu amigo de cuatro patas; El agradable y delicado aroma de nuestro champú orgánico y ecológico para perros proporciona una frescura y una limpieza duraderas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QXYWXTD/?tag=tolees-21)

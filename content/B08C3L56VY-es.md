@@ -28,10 +28,10 @@ Está [Montecillo Singladuras Vino blanco Denominación de origen Riax Baixas uv
 
 ℹ️:
 
-- Nariz muy elegante, destacan las notas de jazmín y azahar, manzana dulce y hierbas secas acompañadas siempre de un fondo salino.
-- Selección de viñedos de la zona de El Salnés. Vendimia manual en pequeñas cajas. Maceración previa a un prensado suave. Lenta fermentación alcohólica con levaduras autóctonas a baja temperatura.
-- Extremadamente versátil para acompañar platos de la cocina india, mexicana o tailandesa como pollo tikka masala o pad thai, o bien un maridaje más tradicional como mariscos, almejas u ostras.
-- El origen de Montecillo se encuentra en Fuenmayor, uno de los pueblos de mayor tradición vitícola de la Rioja Alta. Rodeado de viñas y muy cerca de las aguas de un río sereno, el majestuoso Ebro.
 - Cuerpo untuoso, sabroso y glicérico. Viva acidez envuelta en notas cítricas, florales y de hierbas aromáticas. Largo y equilibrado.
+- Selección de viñedos de la zona de El Salnés. Vendimia manual en pequeñas cajas. Maceración previa a un prensado suave. Lenta fermentación alcohólica con levaduras autóctonas a baja temperatura.
+- Nariz muy elegante, destacan las notas de jazmín y azahar, manzana dulce y hierbas secas acompañadas siempre de un fondo salino.
+- El origen de Montecillo se encuentra en Fuenmayor, uno de los pueblos de mayor tradición vitícola de la Rioja Alta. Rodeado de viñas y muy cerca de las aguas de un río sereno, el majestuoso Ebro.
+- Extremadamente versátil para acompañar platos de la cocina india, mexicana o tailandesa como pollo tikka masala o pad thai, o bien un maridaje más tradicional como mariscos, almejas u ostras.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08C3L56VY/?tag=tolees-21)
