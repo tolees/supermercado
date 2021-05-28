@@ -28,10 +28,10 @@ Ahora mismo tienes [Ginebra Puerto de Indias Pure Black Edition  70 Cl](https://
 
 🔎:
 
+- Envase de vidrio
 - Capacidad de 70 cl
 - Ginebra Premium inspirada en la primavera para un público más tradicional y purista con mayor predilección por sabores más intensos y fuertes.
 - Ginebra Puerto de Indias Pure Black Edition
-- Envase de vidrio
 - Predominio de enebro acompañado de notas de cáscara de limón y naranja, vainilla y flores primaverales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01C2ZRTRC/?tag=tolees-21)
