@@ -28,9 +28,9 @@ Tienes [Note d Espresso Italiano - Café clásico envasado al vacío  250 g  ca
 
 ℹ️:
 
-- 4 paquetes de 250 gramos
-- Hechos en Italia
 - Disfruta de café molido de calidad profesional en tu propia casa
 - Un café 100 % natural tostado en Italia
+- 4 paquetes de 250 gramos
+- Hechos en Italia
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07X35HLJY/?tag=tolees-21)

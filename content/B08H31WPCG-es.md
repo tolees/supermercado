@@ -29,9 +29,9 @@ Está [NESCAFÉ 3 EN 1  café soluble natural con leche y azúcar  Pack de 9 bol
 ℹ️:
 
 - Puedes tomar NESCAFÉ 3 EN 1 estés donde estés gracias al formato de sobre; podrás disfrutar de un delicioso café con leche y azúcar donde y cuando quieras
-- Cada Bolsa de 170 g de NESCAFÉ 3 EN 1 contiene 10 sobres de café soluble natural con leche y azúcar
 - NESCAFÉ 3 EN 1 es bueno para llevar allá donde quieras
 - NESCAFÉ 3 EN 1 incluye café soluble, leche y azúcar en un práctico formato stick
 - Con NESCAFÉ 3 EN 1 te lo ponemos muy fácil; solo tienes que añadir agua y listo
+- Cada Bolsa de 170 g de NESCAFÉ 3 EN 1 contiene 10 sobres de café soluble natural con leche y azúcar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08H31WPCG/?tag=tolees-21)
