@@ -28,8 +28,8 @@ Tienes [Colgate Premier White Cepillo de Dientes Medium - 125 gr](https://www.am
 
 ℹ️:
 
-- Marca - COLGATE
-- Tipo de producto - Cepillo de dientes #medium
 - Género - Unisex
+- Tipo de producto - Cepillo de dientes #medium
+- Marca - COLGATE
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00P90FUUG/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.89 % en Eudermin Manos Crema Protectora - 75 ml'
-date: 2021-05-27 21:52:43
+date: 2021-05-29 10:20:48
 image: 'https://m.media-amazon.com/images/I/41dIMSxK5wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Eudermin'
 buyurl: 'https://www.amazon.es/dp/B00BFSQXMU/?tag=tolees-21'
 descuento: '28.89'
-average: '1.68799999999999'
+average: '1.68461538461537'
 ---
 
 Tienes [Eudermin Manos Crema Protectora - 75 ml](https://www.amazon.es/dp/B00BFSQXMU/?tag=tolees-21) con un 28.89 % de descuento con precio de oferta de 1.6 EUR (original: 2.25 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [Eudermin Manos Crema Protectora - 75 ml](https://www.amazon.es/dp/B00BFS
 
 ℹ️:
 
+- Género: unisex
 - Marca: Eudermin
 - Tipo de producto: crema protectora
-- Género: unisex
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BFSQXMU/?tag=tolees-21)

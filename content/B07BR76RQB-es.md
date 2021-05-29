@@ -30,8 +30,8 @@ Está [Maybelline New York  Máscara de Pestañas Volumen Waterproof  Total Temp
 
 - Pestañas estiradas, llenas de volumen y sin grumos capa tras capa para una mirada irresistible, Pestañas más suaves y flexibles
 - Cepillo amplio y fórmula waterproof enriquecida con extracto de coco para una aplicación con un aroma atrayente, Probado oftalmológicamente, Apto para ojos sensibles y el uso de lentes de contacto
+- Máscara de pestañas volumen waterpoof negro para unas pestañas abundantes y un volumen desmesurado
 - Aplica la máscara resistente al agua desde la raíz hacia los extremos extendiendo las pestañas al máximo, Repite para un mayor impacto
 - Contenido: 1x máscara de pestañas Maybelline New York Total Temptation, Tono: Negro, 9,4 ml
-- Máscara de pestañas volumen waterpoof negro para unas pestañas abundantes y un volumen desmesurado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BR76RQB/?tag=tolees-21)
