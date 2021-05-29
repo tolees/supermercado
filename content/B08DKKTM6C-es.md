@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanytol - Eco Recarga de Jabón de Manos  al 50.25 % de descuento'
-date: 2021-05-28 15:40:33
+date: 2021-05-29 17:16:10
 image: 'https://m.media-amazon.com/images/I/41EcDMN9luL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sanytol'
 buyurl: 'https://www.amazon.es/dp/B08DKKTM6C/?tag=tolees-21'
 descuento: '50.25'
-average: '1.40941176470588'
+average: '1.38611111111111'
 ---
 
 Está [Sanytol - Eco Recarga de Jabón de Manos Hidratante con Protección Total Contra Agentes Externos - Envase de 200 ml](https://www.amazon.es/dp/B08DKKTM6C/?tag=tolees-21) con 50.25 de descuento por 0.99 EUR (original: 1.99 EUR) en el siguiente enlace!

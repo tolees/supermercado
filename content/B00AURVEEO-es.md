@@ -28,10 +28,10 @@ Tienes [Gullón Galleta Sándwich Chocolate ZERO sin Azúcares  250g](https://ww
 
 ℹ️:
 
-- Prueba este delicioso sándwich relleno de chocolate y fuente de fibra
 - Producto elaborado con aceite de girasol alto oleico
-- Galletas en sandwich de chocolate Diet Nature sin azúcares añadidos
-- Fabricado por Galletas Gullón
+- Prueba este delicioso sándwich relleno de chocolate y fuente de fibra
 - Sin azúcares añadidos, la elección perfecta para darte un capricho
+- Fabricado por Galletas Gullón
+- Galletas en sandwich de chocolate Diet Nature sin azúcares añadidos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AURVEEO/?tag=tolees-21)

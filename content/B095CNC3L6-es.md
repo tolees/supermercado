@@ -28,8 +28,8 @@ Está [Oral-B CrossAction Cabezales de Recambio Tamaño Buzón  Pack de 8 Recamb
 
 ℹ️:
 
-- Elimina hasta el 100% de las manchas superficiales
 - Gracias a la tecnología CleanMaximiser, los filamentos verdes se vuelven amarillas cuando llega el momento de reemplazar el cabezal
+- Elimina hasta el 100% de las manchas superficiales
 - Eliminación de la placa y encías más sanas hasta un 100 % más que con un cepillo de dientes manual normal
 - Kit de 4 pastas dentífricas Oral-B 3DWhite Luxe Perfección enviado en un cartón reciclado
 
