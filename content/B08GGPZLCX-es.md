@@ -29,7 +29,7 @@ En este momento está [Liposan Cuidado de Labios  Sabor Fresa - 4.8 gr](https://
 🔎:
 
 - FPS 10 protege los labios de los rayos UVA y UVB
-- Compatibilidad de la piel dermatológicamente aprobada
 - Hidratación duradera para labios suaves y tersos
+- Compatibilidad de la piel dermatológicamente aprobada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GGPZLCX/?tag=tolees-21)
