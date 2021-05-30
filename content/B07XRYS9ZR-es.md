@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koei Tecmo Europe Limited - Fairy Tail al 0.00 % de rebaja'
-date: 2021-05-26 06:49:21
+date: 2021-05-30 14:47:16
 image: 'https://m.media-amazon.com/images/I/51Zc42b0gEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koei Tecmo Europe Limited'
 buyurl: 'https://www.amazon.es/dp/B07XRYS9ZR/?tag=tolees-21'
 descuento: '0.00'
-average: '43.956'
+average: '42.6827272727273'
 ---
 
 Tienes [Koei Tecmo Europe Limited - Fairy Tail](https://www.amazon.es/dp/B07XRYS9ZR/?tag=tolees-21) con precio final de  29.95 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
