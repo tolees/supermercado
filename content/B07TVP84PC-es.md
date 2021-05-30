@@ -28,10 +28,10 @@ Tienes [Max Factor Lasting Kajal; Delinador de Ojos. Tono 092 - 1.3 gr](https://
 
 🔎:
 
-- Delineador de larga duración y resistente al agua
 - Ofrece un acabado brillante
 - Ofrece una aplicación ultra suave
-- Perfect Stay Waterproof & Long Lasting es un delineador de larga duración
+- Delineador de larga duración y resistente al agua
 - No mancha, no se mueve y es fácil de difuminar
+- Perfect Stay Waterproof & Long Lasting es un delineador de larga duración
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TVP84PC/?tag=tolees-21)
