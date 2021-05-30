@@ -28,12 +28,12 @@ Tienes [Amazon Brand - Happy Belly - Albahaca seca - 4x15g](https://www.amazon.e
 
 🔎:
 
-- Condimentogeneral pararealzar salsas yampliamenteutilizado en lascocinas francesa ymediterránea
+- No apto paraalérgicos al apio nia la mostaza,debido al métodode producción
 - Albahaca seca
 - Albahaca secada ypicada, tiene unsaborcaracterísticoaromático dulce
-- No apto paraalérgicos al apio nia la mostaza,debido al métodode producción
 - Apto para dietasvegetarianas yveganas
-- Conservar en unlugar fresco,oscuro y seco
 - Envase de 4: 4 x 15g
+- Conservar en unlugar fresco,oscuro y seco
+- Condimentogeneral pararealzar salsas yampliamenteutilizado en lascocinas francesa ymediterránea
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WTBZ4M9/?tag=tolees-21)

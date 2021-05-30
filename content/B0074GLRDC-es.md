@@ -28,10 +28,10 @@ Tienes [Príncipe Galletas Estrellas con Chocolate Blanco  6 Bolsitas  225g](htt
 
 🔎:
 
+- Práctico formato de 6 paquetes para llevar, ideal para la merienda
 - Conservar en lugar fresco y seco
 - Su textura crujiente e inimitable sabor a chocolate blanco son de otra galaxia
-- Galletas con delicioso chocolate blanco en forma de estrella
 - Alérgenos: huevos, leche, frutos de cáscara, harina de trigo
-- Práctico formato de 6 paquetes para llevar, ideal para la merienda
+- Galletas con delicioso chocolate blanco en forma de estrella
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0074GLRDC/?tag=tolees-21)
