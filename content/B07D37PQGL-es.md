@@ -28,9 +28,9 @@ Ahora mismo tienes [OLAPLEX No.4 Bond Maintenance Champú  250 ml](https://www.a
 
 🔎:
 
-- facil de usar
 - Producto de calidad
 - Para el cabello: Dañado Rizado
+- facil de usar
 - Cantidad 250 ml
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D37PQGL/?tag=tolees-21)
