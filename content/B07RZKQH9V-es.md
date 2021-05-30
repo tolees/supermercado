@@ -28,10 +28,10 @@ Tienes [Johnson s Baby Champú Camomila  ideal para toda la familia - 3 x 300 ml
 
 🔎:
 
-- Champú sin colorantes, ftalatos, sulfatos, alcohol ni jabón
-- Ideal para toda la familia
-- Deja el pelo limpio y con aspecto saludable
-- Champú de camomila hipoalergénico y con pH equilibrado
 - Nuestra fórmula No Llores Más evita las lágrimas y es tan suave en los ojos como el agua más pura
+- Ideal para toda la familia
+- Champú de camomila hipoalergénico y con pH equilibrado
+- Champú sin colorantes, ftalatos, sulfatos, alcohol ni jabón
+- Deja el pelo limpio y con aspecto saludable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RZKQH9V/?tag=tolees-21)

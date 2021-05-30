@@ -29,9 +29,9 @@ Tienes [Babaria - Jabón intimo - Con aceite de almendras dulces - 300 ml](https
 ℹ️:
 
 - Producto desarrollado para el cuidado delicado de la zona íntima.
+- Respetuoso con el Ph íntimo
+- Su base suave y su textura cremosa aseguran una higiene óptima.
 - Testado bajo control ginecológico
 - Respetan las zonas sensibles que merecen una atención particular.
-- Su base suave y su textura cremosa aseguran una higiene óptima.
-- Respetuoso con el Ph íntimo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00WBEFWEM/?tag=tolees-21)
