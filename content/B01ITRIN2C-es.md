@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana Leche Semidesn al 5.60 % de descuento'
-date: 2021-05-27 09:59:33
+date: 2021-05-30 11:16:09
 image: 'https://m.media-amazon.com/images/I/51xQ+IdHQXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Central Lechera Asturiana'
 buyurl: 'https://www.amazon.es/dp/B01ITRIN2C/?tag=tolees-21'
 descuento: '5.60'
-average: '14.021186440678'
+average: '13.9055'
 ---
 
 Ahora mismo tienes [Central Lechera Asturiana Leche Semidesnatada  6 x 1 5L](https://www.amazon.es/dp/B01ITRIN2C/?tag=tolees-21) a 7.08 EUR (original: 7.5 EUR) (5.60 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Central Lechera Asturiana Leche Semidesnatada  6 x 1 5L](htt
 
 🔎:
 
+- Tradicional
 - Leche UHT
 - Semidesnatada
-- Tradicional
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ITRIN2C/?tag=tolees-21)
