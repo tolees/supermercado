@@ -28,8 +28,8 @@ En este momento está [Damm Cerveza Estrella Lata  12 uds](https://www.amazon.es
 
 🔎:
 
-- Es una cerveza versátil, ligera, refrescante y con un aroma limpio y respetuoso con la cebada.
 - Sin aditivos, ni conservantes, ni sulfitos añadidos.
+- Es una cerveza versátil, ligera, refrescante y con un aroma limpio y respetuoso con la cebada.
 - Estrella Damm se elabora utilizando la receta original de 1876 resultado de la combinación de malta de cebada, arroz y lúpulo, 100% ingredientes naturales.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01AY3JJOA/?tag=tolees-21)
