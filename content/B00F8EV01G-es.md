@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Coca-Cola Sabor Original - Refresco de c al 0.00 % de descuento'
-date: 2021-05-28 18:20:45
+date: 2021-05-30 06:38:19
 image: 'https://m.media-amazon.com/images/I/418BEOA2VNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Coca-Cola Sabor Original - Refresco de cola - Pack 2 botellas 2 L](https:
 
 ℹ️:
 
-- Bebida refrescante con el sabor inconfundible de tu Coca-Cola de siempre, desde 1886
-- Toma tu refresco frío con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
 - Botella elaborada con 25% de material reciclado
+- Toma tu refresco frío con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
 - Envase 100% reciclable (contenedor amarillo)
+- Bebida refrescante con el sabor inconfundible de tu Coca-Cola de siempre, desde 1886
 - Coca-Cola Multipack de 2 botellas de 2 litros para que disfrute toda la familia de su refresco favorito
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00F8EV01G/?tag=tolees-21)
