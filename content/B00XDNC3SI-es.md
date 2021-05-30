@@ -29,9 +29,9 @@ En este momento está [Campos  Conserva de atún claro pack de 6 latas de 80 g](
 🔎:
 
 - Lata ideal para consumo individual
-- Pack de 6 latas individuales de 80 g, con tapa fácil apertura
-- País de origen: España, producto natural sin conservantes ni colorantes
-- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - Conserva de atún claro en aceite de oliva
+- Pack de 6 latas individuales de 80 g, con tapa fácil apertura
+- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
+- País de origen: España, producto natural sin conservantes ni colorantes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XDNC3SI/?tag=tolees-21)
