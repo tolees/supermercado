@@ -28,10 +28,10 @@ En este momento está [LIVOO Feel good moments - Yogurtera de Queso| Yogur caser
 
 🔎:
 
-- 1 cuba de 1,2 L de capacidad con escurridero para realizar quesos blancos, encellas y yogures filtrados
 - Interruptor marcha/parada con testimonio luminoso de funcionamiento
+- 1 cuba de 1,2 L de capacidad con escurridero para realizar quesos blancos, encellas y yogures filtrados
+- 12 potes de yogur de vidrio con tapa que hay que atornillar con 0.21 L de capacidad
 - Yogurtera y quesera
 - Tapa transparente
-- 12 potes de yogur de vidrio con tapa que hay que atornillar con 0.21 L de capacidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01GJQL8VS/?tag=tolees-21)
