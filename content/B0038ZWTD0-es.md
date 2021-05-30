@@ -28,9 +28,9 @@ Tienes [Elizabeth Arden 37965 Agua de perfume  125 ml  Multicolor](https://www.a
 
 ℹ️:
 
-- Elizabeth Arden es un nombre de marca reconocido
-- Productos de belleza y el cuidado personal
-- Marca Elizabeth Arden
 - Tipo de producto Agua de perfume
+- Elizabeth Arden es un nombre de marca reconocido
+- Marca Elizabeth Arden
+- Productos de belleza y el cuidado personal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0038ZWTD0/?tag=tolees-21)
