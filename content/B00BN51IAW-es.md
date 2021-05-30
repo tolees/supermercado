@@ -28,10 +28,10 @@ Está [Theo Klein 5240 Cabeza de maquillaje y peluquería «Sophia»  de la Prin
 
 ℹ️:
 
-- Esta cabeza es óptima para los pequeños peluqueros y maquilladores: el pelo largo se puede cepillar, peinar y lavar como se desee.
 - La bonita cara puede maquillarse con los colores del set de cosméticos del estuche en forma de corazón y también se puede lavar fácilmente
+- Esta cabeza es óptima para los pequeños peluqueros y maquilladores: el pelo largo se puede cepillar, peinar y lavar como se desee.
+- Medidas: 23.5 cm x 13 cm x 27 cm, apto para niños a partir de tres años
 - El brillo de labios, la sombra de ojos y el colorete están testados dermatológicamente, y las pinzas para el pelo, los pasadores y los mechones de pelo son elegantes y modernos
 - Con el corazón de maquillaje, el peine, el cepillo, las pinzas para el pelo, las horquillas, los abalorios para el pelo y la aguja para el pelo se pueden ejercitar las habilidades motoras y la creatividad
-- Medidas: 23.5 cm x 13 cm x 27 cm, apto para niños a partir de tres años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BN51IAW/?tag=tolees-21)
