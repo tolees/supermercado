@@ -30,8 +30,8 @@ Está [Hero Baby - Tarrito de Frutas Variadas  Ingredientes Naturales  para Beb�
 
 - Ingredientes controlados desde que se planta la semilla hasta que son recogidos
 - Ingredientes 100% naturales, sin conservantes ni colorantes
-- Sin aceite de palma, sin almidón, sin azúcar añadido
 - Recetas con el equilibrio nutricional específico para cada etapa
+- Sin aceite de palma, sin almidón, sin azúcar añadido
 - Conservación natural, como lo harías en casa, al baño maría.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LXUZRYS/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [FASCINATE - Espejo Maquillaje con Luz Espejo con Sets Brochas Maquillaje 
 
 ℹ️:
 
-- 1.36 Luz natural diurna LED Interruptor de luces LED y sensor de pantalla --- La luz es natural y suave, más brillante pero no deslumbrante, protegiendo sus ojos. Cambie fácilmente el sensor táctil para ajustar el brillo para ver qué aspecto tendrá exactamente su maquillaje en diversas situaciones de iluminación como el día, la noche, el hogar y la oficina.
 - 4. Juego de pinceles versátiles---juego de 9 pinceles de fibra sintética de alta calidad (pinceles de maquillaje kabuki de 4 piezas con pincel de maquillaje preciso de 5 piezas) Cubra todos los tamaños y formas de pinceles para tallar y esculpir la cara para una dimensión impecable. Ideal para contornear, mezclar, sombrear y resaltar, este kit de cepillos incluye todo lo que necesita para una aplicación de maquillaje de rostro y ojos de apariencia natural, lo mejor para artistas de maquillaje ta
 - 3.Rotación libre de 180 ° y fuente de alimentación doble --- este espejo cosmético se puede alimentar mediante un cable USB que se conecta a un banco de energía o un cargador de teléfono o inserta 4 piezas de baterías AAA (no incluidas) para encenderlo. Es perfecto para viajes u otras actividades al aire libre, ya que no se puede cargar en ningún lugar. Tenga en cuenta que el espejo de mesa no puede almacenar energía por sí mismo.
 - 2. Espejo de aumento de 1X / 2X / 3X de maquillaje con espejo compacto de 10X --- La parte diferente del espejo de aumento le hace ver todos los detalles de sus rasgos faciales. El espejo de tocador iluminado es perfecto para delineador de ojos, rímel, maquillaje, lápiz labial y otros tratamientos faciales.
+- 1.36 Luz natural diurna LED Interruptor de luces LED y sensor de pantalla --- La luz es natural y suave, más brillante pero no deslumbrante, protegiendo sus ojos. Cambie fácilmente el sensor táctil para ajustar el brillo para ver qué aspecto tendrá exactamente su maquillaje en diversas situaciones de iluminación como el día, la noche, el hogar y la oficina.
 - 5. Certificacion de Seguridad Y Respetuoso del Medio Ambiente -- Marca 100% nueva, certificado CE ROHS FCC, servicio al cliente amigable y rápido, el problema se resolverá rápidamente.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07R9ZRVZ6/?tag=tolees-21)
