@@ -28,10 +28,10 @@ Tienes [Adidas Control Desodorante para Mujer - 150 ml](https://www.amazon.es/dp
 
 🔎:
 
-- Desodorante formato spray para mujer - 150 ml
-- Desodorante que ofrece ultra protección
 - Fórmula dermatológicamente probada y con 0% de alcohol que respeta el pH de la piel
-- Hasta 48h de protección contra la humedad y el olor
 - Fórmula Cool & Care desarrollada para cuidar tu piel y ayudarte a mantenerte fresco todo el día
+- Desodorante formato spray para mujer - 150 ml
+- Hasta 48h de protección contra la humedad y el olor
+- Desodorante que ofrece ultra protección
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00MC9NQXA/?tag=tolees-21)

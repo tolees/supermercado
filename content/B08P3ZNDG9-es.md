@@ -31,7 +31,7 @@ Tienes [Selvanat - Maca Gelatinizada en polvo 500 g  Pack 2 unidades de 250 g . 
 - La Maca Gelatinizada concentra todos sus nutrientes. No es un extracto. Se necesita 5 kg de maca cruda para obtener 4 kg de la mejor maca gelatinizada. Información brindada por nuestro proveedor
 - Rica en proteína, vitaminas, aminoácidos, minerales, esteroles, ácidos grasos. Mejora el aprendizaje y la memoria
 - Apoya a la salud sexual y reproductiva en mujeres y hombres. Incrementa la resistencia física retardando la fatiga
-- Mezcla de maca negra, roja y amarilla para una máxima efectividad
 - Antioxidante y energizante natural. Reduce el estrés, la ansiedad
+- Mezcla de maca negra, roja y amarilla para una máxima efectividad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08P3ZNDG9/?tag=tolees-21)

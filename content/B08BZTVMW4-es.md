@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Duron - Durón – Vino Tinto Crianza 2016  al 0.00 % de rebaja'
-date: 2021-05-28 14:50:56
+date: 2021-05-31 10:13:25
 image: 'https://m.media-amazon.com/images/I/41QV3ZywIPS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [Duron - Durón – Vino Tinto Crianza 2016 Denominación de Origen Riber
 🔎:
 
 - CRIANZA: Crianza de 12 meses en barrica de roble americano y francés
-- Variedad de uva: 100% Tinta del país
-- COLOR: Limpio y brillante, tonalidades rojo picota con ribetes color rubí.
-- AROMA: Varietales a frutos negros (mora), matices especiados y de madera de roble bien integrados.
 - BOCA: Equilibrado, sabroso, redondo y estructurado. Largo, con taninos muy pulidos y notable persistencia aromática.
+- Variedad de uva: 100% Tinta del país
+- AROMA: Varietales a frutos negros (mora), matices especiados y de madera de roble bien integrados.
+- COLOR: Limpio y brillante, tonalidades rojo picota con ribetes color rubí.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BZTVMW4/?tag=tolees-21)

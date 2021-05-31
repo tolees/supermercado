@@ -28,9 +28,9 @@ Está [Gallo Espagueti Integrales  450g](https://www.amazon.es/dp/B00XDPTK96/?ta
 
 ℹ️:
 
-- Mantener En Lugar Fresco Y Seco
-- Pais de Orgien España
-- Sémola integral de trigo duro
 - ALERGENOS: Contiene trigo; puede contener trazas de huevo
+- Mantener En Lugar Fresco Y Seco
+- Sémola integral de trigo duro
+- Pais de Orgien España
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XDPTK96/?tag=tolees-21)
