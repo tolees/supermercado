@@ -28,10 +28,10 @@ Ahora mismo tienes [NIVEA Men Energy Fresh Effect - Champú de ducha  6 unidades
 
 🔎:
 
-- Frescura a largo plazo: el champú refrescante también se transforma en una energizante espuma para el cuerpo, con una acción que dura todo el día.
-- Respetuoso con la piel: este limpiador de ducha tiene una tolerancia cutánea dermatológicamente probada y un pH en equilibrio con el de la piel.
-- Contenido del producto – Champú de ducha Nivea Men Energy Fresh Effect para hombre en paquete de 6 botellas de 250 ml
-- Perfume hidratante: el gel de ducha y champú para hombre deja en la piel un fresco aroma masculino, dándole los extractos de menta.
 - Todo en uno: este champú de ducha para hombre es muy práctico, ya que ha sido desarrollado especialmente para limpiar la cara, el cuerpo y el cabello.
+- Perfume hidratante: el gel de ducha y champú para hombre deja en la piel un fresco aroma masculino, dándole los extractos de menta.
+- Contenido del producto – Champú de ducha Nivea Men Energy Fresh Effect para hombre en paquete de 6 botellas de 250 ml
+- Respetuoso con la piel: este limpiador de ducha tiene una tolerancia cutánea dermatológicamente probada y un pH en equilibrio con el de la piel.
+- Frescura a largo plazo: el champú refrescante también se transforma en una energizante espuma para el cuerpo, con una acción que dura todo el día.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07J6BR2NF/?tag=tolees-21)
