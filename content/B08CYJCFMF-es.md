@@ -28,10 +28,10 @@ En este momento está [Mimosín Collection Parfum Suavizante Nº 3  52 Lavados 8
 
 🔎:
 
-- Lávate y sécate las manos después de usarlo
 - Suavizante ultra concentrado
 - No lo utilices directamente sobre la ropa; No necesita ser diluido en agua
-- Dosifica el cajetín de tu lavadora
 - Mimosín Collection Parfum Nº 3
+- Dosifica el cajetín de tu lavadora
+- Lávate y sécate las manos después de usarlo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CYJCFMF/?tag=tolees-21)

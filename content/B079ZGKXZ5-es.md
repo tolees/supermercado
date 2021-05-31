@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en HARIBO Balla-Balla Negros  1000 Gramos'
-date: 2021-05-09 22:06:17
+date: 2021-05-31 12:33:30
 image: 'https://m.media-amazon.com/images/I/61JMYHUCl9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B079ZGKXZ5/?tag=tolees-21'
 descuento: '0.00'
-average: '5.62555555555556'
+average: '5.558'
 ---
 
 Tienes [HARIBO Balla-Balla Negros  1000 Gramos](https://www.amazon.es/dp/B079ZGKXZ5/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 4.95 EUR (original:  EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [HARIBO Balla-Balla Negros  1000 Gramos](https://www.amazon.es/dp/B079ZGK
 
 ℹ️:
 
-- Irresistible mix de sabores.
 - Deliciosas piezas rellenas de un irresistible sabor a fresa y limón recubiertos de un intenso sabor a regaliz negro.
+- Irresistible mix de sabores.
 - Geles dulces
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079ZGKXZ5/?tag=tolees-21)
