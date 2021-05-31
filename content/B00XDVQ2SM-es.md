@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDVQ2SM-es NIVEA SUN Protege & Refresca Spray Bruma Solar FP50 1 x...'
 sku: 'B00XDVQ2SM-es'
-tags: [ 'nivea', ]
+tags: [ 'nivea','protector','solar', ]
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

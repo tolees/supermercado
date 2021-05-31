@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CBL4R5J-es Bella Aurora Crema Facial Protector Solar Pre-Base...'
 sku: 'B07CBL4R5J-es'
-tags: [ 'maquillaje', ]
+tags: [ 'maquillaje','protector','solar', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95
