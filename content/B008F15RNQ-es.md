@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en TWIX mini barritas chocolate con leche b'
-date: 2021-05-24 08:28:53
+date: 2021-05-31 21:55:30
 image: 'https://m.media-amazon.com/images/I/41RixuY4o8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

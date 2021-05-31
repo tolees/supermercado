@@ -28,10 +28,10 @@ Tienes [Yogi Tea - Detox  Infusión Ayurvédica de Hierbas con Regaliz  Diente d
 
 🔎:
 
-- Vierte 250 ml de agua recién hervida sobre la bolsita, déjala durante 5 a 6 minutos o más para un sabor más intenso
-- El regaliz tiene un poder edulcorante superior al del azúcar, su sabor es suave dulzón y agrio amargo
-- La canela se obtiene de la corteza del canelo del sudeste asiático, tiene un sabor dulce aromático y contiene valiosos aceites esenciales
-- Infusión regeneradora, liberadora y purificadora formulada con diente de león combinado con regaliz y jengibre para crear una deliciosa mezcla de hierbas y especias
 - El diente de león pertenece a las plantas silvestres y sus hojas tienen un sabor muy aromático, ligeramente amargo y algo agrio
+- La canela se obtiene de la corteza del canelo del sudeste asiático, tiene un sabor dulce aromático y contiene valiosos aceites esenciales
+- Vierte 250 ml de agua recién hervida sobre la bolsita, déjala durante 5 a 6 minutos o más para un sabor más intenso
+- Infusión regeneradora, liberadora y purificadora formulada con diente de león combinado con regaliz y jengibre para crear una deliciosa mezcla de hierbas y especias
+- El regaliz tiene un poder edulcorante superior al del azúcar, su sabor es suave dulzón y agrio amargo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00DN9KOWY/?tag=tolees-21)
