@@ -28,10 +28,10 @@ Está [HOTERB 4 en 1 Cortador de Verdura Actualizado Rallador de Verduras Espira
 
 ℹ️:
 
-- 【Cortador Manual 4 en 1】Está fabricado en plástico ABS y cuchillo de acero y muy fácil de manejar.Puedes elegir la medida con los botones,además de quedar muy bien fijado a la encumbra ya que lleva unas ventosas que lo sujetan fenomenal.Super cómodo pa preparar ensaladas y cocinar con espaguetis de verdura.
-- 【Platos Saludables】Con calabacines,pepinos,calabaza y zanahorias puedes hacer muchas recetas de espaguetis bajas en calorías ademas.Se pueden hacer cortes divertidos: en espiral, a la juliana,espaguetis,tallarines,cintas y fideos.Además puedes crear nuevos platos muy saludables sin tener que cocer algunas verduras.
-- 【Fácil de Usar】Es muy fácil de utilizar, lo mejor es que no tiene que cambiar y guardar accesorios,solo presione el botón, puede cambiar a la forma que desee.Se limpia fácilmente siempre que lo hagas justo al terminar de utilizarlo.Es apto para el lavavajillas.
 - 【Cortador de Verduras】El cortador de patatas es muy versátil y útil porque tiene 4 modos para cortar la verdura según cómo quieras el grosor y la forma.Corta perfectamente y viene con utensilio para no cortar los dedos.Muy bueno para hacer espirales de calabacín o pepino zanahoria y demás para ensaladas.
 - 【Ralladores de Cocina】Puedes usarlo montado y que la verdura caiga al bote para taparlo y guardarlo o desmontado y que la comida caiga a plato o sarten.Tiene una tapa para usar el recipiente como envase muy útil,y del tamaño destacar que es pequeñito ideal para guardar en cualquier parte .
+- 【Platos Saludables】Con calabacines,pepinos,calabaza y zanahorias puedes hacer muchas recetas de espaguetis bajas en calorías ademas.Se pueden hacer cortes divertidos: en espiral, a la juliana,espaguetis,tallarines,cintas y fideos.Además puedes crear nuevos platos muy saludables sin tener que cocer algunas verduras.
+- 【Fácil de Usar】Es muy fácil de utilizar, lo mejor es que no tiene que cambiar y guardar accesorios,solo presione el botón, puede cambiar a la forma que desee.Se limpia fácilmente siempre que lo hagas justo al terminar de utilizarlo.Es apto para el lavavajillas.
+- 【Cortador Manual 4 en 1】Está fabricado en plástico ABS y cuchillo de acero y muy fácil de manejar.Puedes elegir la medida con los botones,además de quedar muy bien fijado a la encumbra ya que lleva unas ventosas que lo sujetan fenomenal.Super cómodo pa preparar ensaladas y cocinar con espaguetis de verdura.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08XLX2Q1V/?tag=tolees-21)
