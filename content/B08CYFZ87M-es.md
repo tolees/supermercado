@@ -28,10 +28,10 @@ Ahora mismo tienes [Mimosín Collection Parfum Suavizante Nº 7  52 Lavados 870 
 
 🔎:
 
-- No lo utilices directamente sobre la ropa; No necesita ser diluido en agua
+- Mimosín Collection Parfum Nº 7
 - Suavizante ultra concentrado
+- No lo utilices directamente sobre la ropa; No necesita ser diluido en agua
 - Dosifica el cajetín de tu lavadora
 - Lávate y sécate las manos después de usarlo
-- Mimosín Collection Parfum Nº 7
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CYFZ87M/?tag=tolees-21)

@@ -28,13 +28,13 @@ Tienes [Optimum Nutrition High Protein Shake  Batidos de Proteinas para Aumentar
 
 🔎:
 
-- Envase cómodo para el viaje, el gym y el trabajo
-- 25 g de proteína por cada 330 ml de batido, bajo en grasas, sin azúcares añadidos; contiene azúcares naturales
-- Disponible en tres sabrosos sabores: vainilla, fresa, chocolate
-- Puede consumirse en cualquier momento del día como snack de proteínas o puede ser un óptimo batido post-entrenamiento
-- Deliciosos shakes de alta proteína listos para beber de Optimum Nutrition, la marca de polvo de proteína deportiva más vendida del mundo
-- Mass gainer que contribuye al mantenimiento de la masa muscular y huesos normales
-- Fuente: Euromonitor International Limited; consumer Health Edición 2020, categoría Polvo de Proteína Deportiva, % VALOR AL POR MENOR, DATOS DE 2019
 - Fuente: REGLAMENTO DE LA COMISIÓN (UE) Nº 432/2012 de 16 de mayo de 2012
+- Disponible en tres sabrosos sabores: vainilla, fresa, chocolate
+- 25 g de proteína por cada 330 ml de batido, bajo en grasas, sin azúcares añadidos; contiene azúcares naturales
+- Fuente: Euromonitor International Limited; consumer Health Edición 2020, categoría Polvo de Proteína Deportiva, % VALOR AL POR MENOR, DATOS DE 2019
+- Puede consumirse en cualquier momento del día como snack de proteínas o puede ser un óptimo batido post-entrenamiento
+- Mass gainer que contribuye al mantenimiento de la masa muscular y huesos normales
+- Deliciosos shakes de alta proteína listos para beber de Optimum Nutrition, la marca de polvo de proteína deportiva más vendida del mundo
+- Envase cómodo para el viaje, el gym y el trabajo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VDHP6Y4/?tag=tolees-21)
