@@ -28,10 +28,10 @@ Ahora mismo tienes [Sanytol - Limpia Lavadoras Higienizante - 250ml](https://www
 
 🔎:
 
+- Sanytol limpiador higienizante para lavadoras
+- Deja un agradable perfume y protege las partes internas de la lavadora
 - Elimina los malos olores de raíz
 - 250 ml
-- Deja un agradable perfume y protege las partes internas de la lavadora
-- Sanytol limpiador higienizante para lavadoras
 - Elimina la suciedad, los residuos y la cal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082VV22LK/?tag=tolees-21)

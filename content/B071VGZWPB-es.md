@@ -28,15 +28,15 @@ Está [HAWAIIAN Tropic Silk Hydration Air Soft Face Spf 30 - Loción Solar Prote
 
 ℹ️:
 
-- Envase inspirado en productos cosméticos: 50 ml
-- Fórmula no grasa, no obstruye los poros
-- Loción solar protectora con lazos hidratantes adaptada a la sensibilidad de la cara
-- Muy resistente al agua
-- Diseñada para actuar debajo del maquillaje
-- Recomendado por la Asociación contra el Cancer de Piel
-- 12 horas de hidratación y protección intensa
-- Con la garantía de calidad de Hawaiian Tropic
-- Fragancia tropical y sensación ligera
 - Protección eficaz UVA / UVB con SPF 30
+- Diseñada para actuar debajo del maquillaje
+- Con la garantía de calidad de Hawaiian Tropic
+- 12 horas de hidratación y protección intensa
+- Muy resistente al agua
+- Fragancia tropical y sensación ligera
+- Envase inspirado en productos cosméticos: 50 ml
+- Loción solar protectora con lazos hidratantes adaptada a la sensibilidad de la cara
+- Recomendado por la Asociación contra el Cancer de Piel
+- Fórmula no grasa, no obstruye los poros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071VGZWPB/?tag=tolees-21)
