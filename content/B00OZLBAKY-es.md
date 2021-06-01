@@ -28,9 +28,9 @@ Tienes [Lenny & Larry s The Complete Cookie White Chocolate Macademia - 12 Barra
 
 ℹ️:
 
-- Las galletas tienen un sabor delicioso y fresco y ricas en proteínas y fibra
-- El paquete de "The Complete Cookie" de Lenny & Larry de 12 galletas empaquetadas individualmente, cada una de 113 g (12 x 113 g = 1356 g)
 - Hechas con ingredientes naturales, sin ingeniería genética, sin lactosa. Producto vegan y kosher
 - Como proveedor de energía, como snack. Disfrutar un bocadillo sin remordimientos
+- El paquete de "The Complete Cookie" de Lenny & Larry de 12 galletas empaquetadas individualmente, cada una de 113 g (12 x 113 g = 1356 g)
+- Las galletas tienen un sabor delicioso y fresco y ricas en proteínas y fibra
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00OZLBAKY/?tag=tolees-21)
