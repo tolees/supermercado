@@ -29,8 +29,8 @@ Ahora mismo tienes [SYOSS - Champú puro  volumen normal a fino  500 ml  lote de
 🔎:
 
 - Limpia suavemente el cabello y el cuero cabelludo.
+- Aporta volumen, movimiento y ligereza.
 - Aplicar sobre el cabello mojado y luego enjuagar con cuidado.
 - Champú micelar – Volumen aéreo y flexibilidad.
-- Aporta volumen, movimiento y ligereza.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NKVW2SV/?tag=tolees-21)
