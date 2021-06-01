@@ -28,10 +28,10 @@ Ahora mismo tienes [Relaxdays Molinillo Pimienta Vintage Muela Cerámica  Madera
 
 🔎:
 
-- Especias frescas: Molinillo de semillas y especias secas como pimienta, sal marina o sal gorda
-- Manejable: Molinillo de sal con tamaño óptimo para el agarre. Máxima diversión cocinando
 - Diseño: Molinillo manual marrón chocolate con diseño clásico de madera de abedul muy decorativo
-- Muela: Salpimentero molinillo estable con muela de cerámica estable y robusta para una larga duración
+- Especias frescas: Molinillo de semillas y especias secas como pimienta, sal marina o sal gorda
 - Estiloso y práctico: Molino pimienta con un largo de 40 cm y un diámetro de 6 cm
+- Manejable: Molinillo de sal con tamaño óptimo para el agarre. Máxima diversión cocinando
+- Muela: Salpimentero molinillo estable con muela de cerámica estable y robusta para una larga duración
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D8YLF2T/?tag=tolees-21)
