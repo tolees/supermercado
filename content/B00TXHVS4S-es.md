@@ -28,9 +28,9 @@ Tienes [Catunambú - Café Molido Natural  250 Gramos](https://www.amazon.es/dp/
 
 🔎:
 
-- Ingredientes: café
-- País de origen: España
 - Alérgenos: No posee
 - Una vez abierto, conservar en lugar fresco y seco
+- País de origen: España
+- Ingredientes: café
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00TXHVS4S/?tag=tolees-21)
