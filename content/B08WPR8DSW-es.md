@@ -28,10 +28,10 @@ En este momento está [Paquete variado de cápsulas de café espresso Saimaza - 
 
 🔎:
 
-- Las cápsulas contienen café 100% certificado UTZ
-- Compatible con cafeteras Nespresso *. * Marca registrada de un tercero, no relacionada con JACOBS DOUWE EGBERTS
-- 3 x Saimaza Extra Fuerte Espresso 11
 - 2 x Saimaza Fuerte Espresso 9, 1 x Saimaza Descafeinado Espresso 6
 - 20 cápsulas de 5,2gr (Peso Neto: 104g) 6 paquetes = 624g, 120 bebidas en total.
+- Compatible con cafeteras Nespresso *. * Marca registrada de un tercero, no relacionada con JACOBS DOUWE EGBERTS
+- 3 x Saimaza Extra Fuerte Espresso 11
+- Las cápsulas contienen café 100% certificado UTZ
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WPR8DSW/?tag=tolees-21)
