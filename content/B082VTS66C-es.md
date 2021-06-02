@@ -28,9 +28,9 @@ Está [Haribo - Funky Mix - Surtido de golosinas - 100 g](https://www.amazon.es/
 
 ℹ️:
 
-- Se deben mantener en lugar fresco y seco
+- Tienen varios sabores
 - Sin colorantes y conservantes
 - Surtido de golosinas de 100 g
-- Tienen varios sabores
+- Se deben mantener en lugar fresco y seco
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082VTS66C/?tag=tolees-21)
