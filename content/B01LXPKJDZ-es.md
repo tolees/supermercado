@@ -28,10 +28,10 @@ Está [Garnier Skin Active Pure Active Gel 3 en 1 para Pieles Mixtas con Imperfe
 
 ℹ️:
 
+- El limpiador integral 3 en 1 ofrece 3 acciones en un solo producto: limpiador, exfoliante y mascarilla
 - El limpiador integral 3 en 1 de Garnier SkinActive es un producto testado dermatológicamente
 - Limpiador: aplicar diariamente sobre el rostro húmedo; masajear ligeramente y aclarar con abundante agua; Exfoliante: masajear cada día realizando movimientos internos circulares e insistir sobre la frente, nariz y mentón; aclarar con agua; Mascarilla: aplicar sobre el rostro húmedo y dejar secar durante 3 minutos; aclarar con agua
-- Gracias a su poder exfoliante, elimina las imperfecciones del rostro
 - El limpiador integral 3 en 1 de Garnier Skin Active tiene acción anti-reaparición 7 días
-- El limpiador integral 3 en 1 ofrece 3 acciones en un solo producto: limpiador, exfoliante y mascarilla
+- Gracias a su poder exfoliante, elimina las imperfecciones del rostro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LXPKJDZ/?tag=tolees-21)
