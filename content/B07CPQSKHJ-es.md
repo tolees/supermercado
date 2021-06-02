@@ -28,10 +28,10 @@ Ahora mismo tienes [FASCINATE Espejo Maquillaje con Luz  Espejo de Mesa Tríptic
 
 🔎:
 
-- 【Iluminación Natural】Espejos tienen 21 luces LED y botón de encendido/apagado en la pantalla, cuando te maquillajes, se permite elevar la iluminación y ilumina la cara, lo que se hace más fácil gracias a que puede girar hasta 180º y permite que se pueda colocar en el ángulo de visión necesario
-- 【Garantía】El espejo de maquillaje está hecho en materiales ecológicos ABS y vidrio para asegurar una apariencia agradable, peso ligero y uso seguro para todas aquellas personas a las que les gusta la belleza y el cuidado personal.
 - <p><b>Caracteristicas de producto</b></p> <p> Apariencia de moda.</p> <p> El espejo de maquillaje con luces LED, para que puedas maquillarte en cualquier lugar: pub, coche, zonas con poca iluminación. </p> <p> 10x,2X y 3X espejos de magnificación. </p> <p> Plegable, desmontable y giratorio. </p> <p> Su forma rectangular proporciona más ángulo de visión que los espejos redondos. </p> <p> Su LED Premium emite su luz uniformemente para garantizar la protección de tus ojos.
-- 【Alimentación USB o Bateria】Funciona con 4 pilas AAA o con un cable usb para espejos, lo que hace más cómo su uso en cualquier ocasión, tanto en casa como en la oficina, si quieres otro modelo de espejo de FASCINATE con ASin: B077PYNQ1R
+- 【Iluminación Natural】Espejos tienen 21 luces LED y botón de encendido/apagado en la pantalla, cuando te maquillajes, se permite elevar la iluminación y ilumina la cara, lo que se hace más fácil gracias a que puede girar hasta 180º y permite que se pueda colocar en el ángulo de visión necesario
 - 【Diseño Moderno】El espejo de maquillaje FASCINATE está hecho con materiales ecológicos y vidrio para asegurar una apariencia agradable como regalo original, puede girar por 180 grados que se ajusta a cualquier posición según su necesario
+- 【Garantía】El espejo de maquillaje está hecho en materiales ecológicos ABS y vidrio para asegurar una apariencia agradable, peso ligero y uso seguro para todas aquellas personas a las que les gusta la belleza y el cuidado personal.
+- 【Alimentación USB o Bateria】Funciona con 4 pilas AAA o con un cable usb para espejos, lo que hace más cómo su uso en cualquier ocasión, tanto en casa como en la oficina, si quieres otro modelo de espejo de FASCINATE con ASin: B077PYNQ1R
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CPQSKHJ/?tag=tolees-21)
