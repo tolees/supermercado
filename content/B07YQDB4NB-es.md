@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mexifoods Tortillas de Trigo  8 uds  320 al 0.00 % de rebaja'
-date: 2021-05-26 00:55:08
+date: 2021-06-02 17:24:33
 image: 'https://m.media-amazon.com/images/I/51Wc9WMWtnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,9 +9,9 @@ author: 'tole.es'
 slug: 'B07YQDB4NB-es Mexifoods Tortillas de Trigo 8 uds 320g'
 sku: 'B07YQDB4NB-es'
 tags: [ 'Alimentación y bebidas','Pan','Pan plano','Panadería y bollería','mexifoods','trigo', ]
-actualPrice: 0.99 EUR
+actualPrice: 1.05 EUR
 currency: EUR
-price: 0.99
+price: 1.05
 comparePrice:  EUR
 prodname: 'Mexifoods Tortillas de Trigo  8 uds  320g'
 country: 'es'
@@ -19,10 +19,10 @@ flag: '🇪🇸'
 brand: 'Mexifoods'
 buyurl: 'https://www.amazon.es/dp/B07YQDB4NB/?tag=tolees-21'
 descuento: '0.00'
-average: '0.99'
+average: '1.005'
 ---
 
-Tienes [Mexifoods Tortillas de Trigo  8 uds  320g](https://www.amazon.es/dp/B07YQDB4NB/?tag=tolees-21) con precio final de  0.99 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
+Tienes [Mexifoods Tortillas de Trigo  8 uds  320g](https://www.amazon.es/dp/B07YQDB4NB/?tag=tolees-21) con precio final de  1.05 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
 
 [![Mexifoods Tortillas de Trigo  8 uds  320](https://m.media-amazon.com/images/I/51Wc9WMWtnL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07YQDB4NB/?tag=tolees-21)
 

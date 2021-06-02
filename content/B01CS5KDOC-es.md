@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 24.76 % en Instituto Español Champú para Piel Atópi'
-date: 2021-05-17 17:08:21
+date: 2021-06-02 17:40:40
 image: 'https://m.media-amazon.com/images/I/318ofIDG3FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B01CS5KDOC/?tag=tolees-21'
 descuento: '24.76'
-average: '3.87'
+average: '3.8725'
 ---
 
 Tienes [Instituto Español Champú para Piel Atópica- 300 ML  1 unidad](https://www.amazon.es/dp/B01CS5KDOC/?tag=tolees-21) con un 24.76 % de descuento con precio de oferta de 3.95 EUR (original: 5.25 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [Instituto Español Champú para Piel Atópica- 300 ML  1 unidad](https:/
 
 ℹ️:
 
-- No irrita, calma el picor
 - Marca: Instituto Español
+- No irrita, calma el picor
 - Tipo de producto: Champú
 - Género: Unisex Adulto
 
