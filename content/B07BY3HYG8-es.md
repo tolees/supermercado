@@ -28,8 +28,8 @@ En este momento está [Haribo Huevos - Bolsa 1kg](https://www.amazon.es/dp/B07BY
 
 🔎:
 
-- Deliciosas y suaves piezas en forma de huevo
 - Base de espuma y una yema de goma con intenso sabor a naranja
+- Deliciosas y suaves piezas en forma de huevo
 - Caramelos de goma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BY3HYG8/?tag=tolees-21)

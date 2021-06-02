@@ -28,10 +28,10 @@ Ahora mismo tienes [Sanex – Gel de ducha corporal y cara Dermo Sensitive piele
 
 🔎:
 
-- Expertos en piel sana: la marca Sanex te ayuda a mantener una piel sana gracias a su amplia gama de productos de higiene con formulaciones no agresivas que ayudan a cuidar tu piel a diario.
-- Fortalece las defensas naturales de la piel: la fórmula de este gel de ducha ayuda a fortalecer las defensas cutáneas naturales y a mantener la barrera protectora fisiológica de la piel.
 - Gel de ducha para piel sensible: el gel de ducha Sanex Dermo Sensitive contiene ingredientes cuidadosamente seleccionados para cuidar las pieles sensibles y limpiarlas suavemente.
-- Modo de empleo: utiliza este gel de ducha según tus hábitos como cualquier producto de lavado clásico. Enjuagar abundantemente con agua limpia después del aseo y evitar el contacto con los ojos.
+- Fortalece las defensas naturales de la piel: la fórmula de este gel de ducha ayuda a fortalecer las defensas cutáneas naturales y a mantener la barrera protectora fisiológica de la piel.
 - RESPECTOR DE LA PIel: Este gel de ducha hidratante conserva el equilibrio natural de la piel así como su pH fisiológico.
+- Expertos en piel sana: la marca Sanex te ayuda a mantener una piel sana gracias a su amplia gama de productos de higiene con formulaciones no agresivas que ayudan a cuidar tu piel a diario.
+- Modo de empleo: utiliza este gel de ducha según tus hábitos como cualquier producto de lavado clásico. Enjuagar abundantemente con agua limpia después del aseo y evitar el contacto con los ojos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BYGTXCG/?tag=tolees-21)
