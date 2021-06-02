@@ -28,9 +28,9 @@ Tienes [Instituto Español Champú para Piel Atópica- 300 ML  1 unidad](https:/
 
 ℹ️:
 
-- No irrita, calma el picor
+- Género: Unisex Adulto
 - Marca: Instituto Español
 - Tipo de producto: Champú
-- Género: Unisex Adulto
+- No irrita, calma el picor
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01CS5KDOC/?tag=tolees-21)
