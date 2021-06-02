@@ -28,10 +28,10 @@ Está [Amstel Cerveza  1L](https://www.amazon.es/dp/B00XA6FXOE/?tag=tolees-21) c
 
 ℹ️:
 
-- Con aroma ligero frutal, con cuerpo ligero y final amargo
 - 5% de alcohol en volumen
-- Consumirla entre 0° y 3°C para obtener sus óptimas cualidades
+- Con aroma ligero frutal, con cuerpo ligero y final amargo
 - De color dorado claro y espuma blanca intensa
+- Consumirla entre 0° y 3°C para obtener sus óptimas cualidades
 - Cerveza tipo Lager y estilo rubia; 100% Malta
 - Ingredientes naturales: agua, malta de cebada, lúpulo y la levadura Amstel
 
