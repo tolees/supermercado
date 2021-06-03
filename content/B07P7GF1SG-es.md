@@ -28,10 +28,10 @@ Está [Filtro de café vertido sobre papel inoxidable sin papel  filtro de café
 
 ℹ️:
 
+- FÁCIL DE LIMPIAR: simplemente deseche el café molido después de cada uso y enjuague el filtro con agua tibia. Cada 2 semanas más o menos, descalcifique el filtro remojándolo con vinagre blanco destilado y agua tibia.
+- AJUSTA Y EXCELENTE: nuestro filtro de café de acero inoxidable está cuidadosamente diseñado para adaptarse a la mayoría de las cafeteras de marca, incluidas las cafeteras de 6, 8 y 10 tazas.
 - BUENO PARA EL MEDIO AMBIENTE: nuestro filtro de café de acero inoxidable es una opción ecológica y elimina la necesidad de filtros de papel desechables que son caros, derrochadores y que evitan que los aceites sabrosos en sus granos pasen a su taza de café.
 - MANGO DE SILICONA RESISTENTE AL CALOR: nuestro mango de silicona extraíble sin BPA complementa su Chemex de madera o vidrio y sujeta el borde de vidrio de forma segura.
 - MALLA DOBLE DE ACERO INOXIDABLE: acero inoxidable 304 de alta calidad con doble filtración: una fina malla de alta calidad en el interior y un filtro cortado con láser en el exterior. Este diseño evita que el café ingrese en el suelo, al tiempo que permite que los aceites y nutrientes pasen a su taza, asegurando una taza de café de mejor sabor.
-- FÁCIL DE LIMPIAR: simplemente deseche el café molido después de cada uso y enjuague el filtro con agua tibia. Cada 2 semanas más o menos, descalcifique el filtro remojándolo con vinagre blanco destilado y agua tibia.
-- AJUSTA Y EXCELENTE: nuestro filtro de café de acero inoxidable está cuidadosamente diseñado para adaptarse a la mayoría de las cafeteras de marca, incluidas las cafeteras de 6, 8 y 10 tazas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P7GF1SG/?tag=tolees-21)
