@@ -28,10 +28,10 @@ En este momento está [EIVOTOR Luz de Anillo LED 10" fotográfica de Escritorio 
 
 🔎:
 
+- 【Servicio al Cliente】 podemos proporcionar un reembolso de 30 días y un servicio de reemplazo de 6 meses. Si tiene alguna pregunta, no dude en contactarnos directamente.
+- 【 Portátil & Uso Extenso】 Esta luz de anillo se puede usar para videos de YouTube, transmisión en vivo, maquillaje, escritorio, selfie, retrato, maquillaje, etc. Y el producto es desmontable, fácil de instalar y transportar, solo sal y ponlo en la bolsa para está listo para tus selfies y disparos en cualquier momento.
 - 【3 Modos de Luz & 10 Niveles de Brillo】está diseñada con 3 modos de iluminación：blanco, blanco cálido, luz cálida. Cada modo tiene 10 niveles de brillo con un amplio rango de atenuación del 1% al 100%, que se puede ajustar para satisfacer sus diferentes necesidades de iluminación.
 - 【Seguridad USB Alimentada & Operación Fácil 】Luz de anillo selfie es con puerto USB. Plug and play. Fuente de alimentación simple y seguro. Puede enchufar el conector USB en la PC, adaptador o Powerband. Se puede usar directamente después de conectar el cable USB.
-- 【 Portátil & Uso Extenso】 Esta luz de anillo se puede usar para videos de YouTube, transmisión en vivo, maquillaje, escritorio, selfie, retrato, maquillaje, etc. Y el producto es desmontable, fácil de instalar y transportar, solo sal y ponlo en la bolsa para está listo para tus selfies y disparos en cualquier momento.
-- 【Servicio al Cliente】 podemos proporcionar un reembolso de 30 días y un servicio de reemplazo de 6 meses. Si tiene alguna pregunta, no dude en contactarnos directamente.
 - 【Accesorios flexibles】 Luz de anillo se puede girar fácilmente , que permite crear los ángulos según sus necesidades. El Abrazadera universal para teléfono móvil es ajustable y adecuado para la mayoría de los teléfonos móviles. El trípode de bloqueo se puede plegar libremente.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FFQPFMW/?tag=tolees-21)
