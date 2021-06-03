@@ -28,8 +28,8 @@ Está [Out of the blue Finest Selection - Latas Rectangulares  de café  té y a
 
 ℹ️:
 
+- Latas rectangulares de café, azúcar y té, color negro
 - Logo de «Finest Selection» (Selección gourmet).
 - Lote de 3.
-- Latas rectangulares de café, azúcar y té, color negro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ELP1DVE/?tag=tolees-21)
