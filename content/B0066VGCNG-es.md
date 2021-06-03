@@ -28,10 +28,10 @@ Está [Paco & Lola Vino Blanco  Rías Baixas  75cl](https://www.amazon.es/dp/B00
 
 ℹ️:
 
-- Ideal para combinar con pescado, marisco, queso, pulpo.
-- Origen: DO Rías Baixas
-- Puede disfrutarlo desde ahora, bien conservado aguantará 2 años.
-- Color amarillo. Floral (azahar), cítricos, tropical (mango, lichis) y frutas de hueso.
 - Graduación: 13% vol.
+- Puede disfrutarlo desde ahora, bien conservado aguantará 2 años.
+- Ideal para combinar con pescado, marisco, queso, pulpo.
+- Color amarillo. Floral (azahar), cítricos, tropical (mango, lichis) y frutas de hueso.
+- Origen: DO Rías Baixas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0066VGCNG/?tag=tolees-21)

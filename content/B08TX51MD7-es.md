@@ -28,10 +28,10 @@ Ahora mismo tienes [Harina de Almendra Keto nut&me | Sin Gluten | Vegano | 1 KG 
 
 🔎:
 
-- 🍰 REPOSTERÍA SALUDABLE: la harina de almendra nut&me se utiliza como ingrediente principal en recetas saludables☺.
 - 🍰 CONSERVACIÓN :en un lugar fresco y seco. Una vez abierto, conservar en un recipiente hermético.
-- 🍰 100 % ALMENDRA MOLIDA: No contiene nada más que almendras molidas. Sin ningún aditivo, conservante, OGM u otros ingredientes artificiales😎 para ser lo más saludable posible.
+- 🍰 REPOSTERÍA SALUDABLE: la harina de almendra nut&me se utiliza como ingrediente principal en recetas saludables☺.
 - 🍰 DIETA KETO: harina de almendra keto, baja en carbohidratos💪 será tu aliada para llevar a cabo una dieta cetogénica
 - 🍰 VEGANA: la harina de almendra keto nut&me está hecha de 100 % almendra molida, lo que la hace apta para dietas veganas🥗 y vegetarianas.
+- 🍰 100 % ALMENDRA MOLIDA: No contiene nada más que almendras molidas. Sin ningún aditivo, conservante, OGM u otros ingredientes artificiales😎 para ser lo más saludable posible.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TX51MD7/?tag=tolees-21)

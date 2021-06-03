@@ -28,10 +28,10 @@ Está [Babaria - Gel de Baño con Rosa Mosqueta - 600 ml](https://www.amazon.es/
 
 ℹ️:
 
+- Ingredientes respetuosos y de calidad
 - Formato: 600ml
 - Para todo tipo de pieles
-- Hidratada tras el baño o la ducha.
 - Limpia eficazmente la piel
-- Ingredientes respetuosos y de calidad
+- Hidratada tras el baño o la ducha.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075WFLS6L/?tag=tolees-21)

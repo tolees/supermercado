@@ -28,10 +28,10 @@ Ahora mismo tienes [Moussel - Gel Ducha Clasico  Pack de 4x900ml](https://www.am
 
 🔎:
 
-- Gel de ducha Moussel Clasico
-- Textura cremosa
-- Aporta frescor y bienestar
 - Aroma suave
+- Aporta frescor y bienestar
+- Textura cremosa
 - Mantiena la tersura e hidratación natural
+- Gel de ducha Moussel Clasico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BJGNCHV/?tag=tolees-21)

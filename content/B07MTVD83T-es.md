@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexona Men Aero Cobalt 100 ml  Pack de 6 con un 0.00 % de descuento'
-date: 2021-06-01 10:31:29
+date: 2021-06-03 10:10:40
 image: 'https://m.media-amazon.com/images/I/51gEhB6KpvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Rexona Men Aero Cobalt 100 ml  Pack de 6](https://www.ama
 
 🔎:
 
+- Fresca y energizante fragancia a hierbabuena y almizcle
+- Protección en formato spray para seguir en movimiento todo el día
 - Protección eficaz 48h contra el sudor y el mal olor corporal
 - Con tecnología de encapsulación patentada motionsense que se activa con el movimiento; cuanto más te mueves, más te protege
 - Óptimo para situaciones de viaje o aquellas en que debas llevar el desodorante contigo
-- Protección en formato spray para seguir en movimiento todo el día
-- Fresca y energizante fragancia a hierbabuena y almizcle
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MTVD83T/?tag=tolees-21)
