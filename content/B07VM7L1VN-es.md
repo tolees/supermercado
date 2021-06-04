@@ -28,10 +28,10 @@ Está [Kativa Pack Ahorro Kit Alisado Brasileño com Champú Post Alisado - Trat
 
 ℹ️:
 
+- El pack se ha formulado a base de aceite orgánico de argán, manteca de karité, proteína de keratina vegetal, aminoácidos y gyoxilic. La proteína de keratina vegetal ayuda a hidratar, dar brillo y suavidad al cabello gracias a los aminoácidos de trigo y soja.
 - El pack contiene un kit de alisado (con el champú pre-tratamiento 15ml, la máscara alisado de 150ml, el champú post de 30ml y el acondicionador de 30ml) y un champú post alisado con keratina que alarga la duración del tratamiento del resultado alisado japonés.
-- Kit de alisado en casa para conseguir un cabello liso, con movimiento natural y brillante. Además hidrata en profundida y proporciona un efecto sedoso. Resultados probados.
 - Es libre de sulfatos, sales y parabenos. No está testado en animales. Tiene certificación cruelty free.
 - La duración del alisado en casa es hasta 12 semanas. Es fácil de aplicar y tiene resultado profesional. Es apto para todo tipo de cabello.
-- El pack se ha formulado a base de aceite orgánico de argán, manteca de karité, proteína de keratina vegetal, aminoácidos y gyoxilic. La proteína de keratina vegetal ayuda a hidratar, dar brillo y suavidad al cabello gracias a los aminoácidos de trigo y soja.
+- Kit de alisado en casa para conseguir un cabello liso, con movimiento natural y brillante. Además hidrata en profundida y proporciona un efecto sedoso. Resultados probados.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VM7L1VN/?tag=tolees-21)

@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Forticoll Colágeno Péptidos bioactivos e con un 5.50 % de descuento'
-date: 2020-10-12 15:16:16
-image: 'https://m.media-amazon.com/images/I/41GU7tLxzZL._SL400_.jpg'
+title: 'NATURGREEN - Forticoll Colágeno Péptidos con un 24.87 % de descuento'
+date: 2021-06-04 16:02:09
+image: 'https://m.media-amazon.com/images/I/41T7UQm1PvS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00UMZH4J8-es Forticoll Colágeno Péptidos bioactivos en polvo sin gluten...'
+slug: 'B00UMZH4J8-es NATURGREEN - Forticoll Colágeno Péptidos bioactivos en...'
 sku: 'B00UMZH4J8-es'
-tags: [ 'gluten','sin', ]
-actualPrice: 12.55 EUR
+tags: [ 'Alimentación y bebidas','Bebidas de recuperación e hidratación','Bebidas nutritivas para deportistas','Café, té y bebidas','gluten','naturgreen','sin', ]
+actualPrice: 14.95 EUR
 currency: EUR
-price: 12.55
-comparePrice: 13.28 EUR
-prodname: 'Forticoll Colágeno Péptidos bioactivos en polvo sin gluten o lactosa  sabor Original  300 gr'
+price: 14.95
+comparePrice: 19.9 EUR
+prodname: 'NATURGREEN - Forticoll Colágeno Péptidos bioactivos en polvo sin gluten o lactosa  sabor Original  300 gr'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'NATURGREEN'
 buyurl: 'https://www.amazon.es/dp/B00UMZH4J8/?tag=tolees-21'
-descuento: '5.50'
-average: '11.156666666666665'
+descuento: '24.87'
+average: '11.536'
 ---
 
-En este momento está [Forticoll Colágeno Péptidos bioactivos en polvo sin gluten o lactosa  sabor Original  300 gr](https://www.amazon.es/dp/B00UMZH4J8/?tag=tolees-21) a 12.55 EUR (original: 13.28 EUR) (5.50 %  de descuento) en el siguiente enlace!
+En este momento está [NATURGREEN - Forticoll Colágeno Péptidos bioactivos en polvo sin gluten o lactosa  sabor Original  300 gr](https://www.amazon.es/dp/B00UMZH4J8/?tag=tolees-21) a 14.95 EUR (original: 19.9 EUR) (24.87 %  de descuento) en el siguiente enlace!
 
-[![Forticoll Colágeno Péptidos bioactivos e](https://m.media-amazon.com/images/I/41GU7tLxzZL._SL400_.jpg)](https://www.amazon.es/dp/B00UMZH4J8/?tag=tolees-21)
+[![NATURGREEN - Forticoll Colágeno Péptidos](https://m.media-amazon.com/images/I/41T7UQm1PvS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00UMZH4J8/?tag=tolees-21)
 
 🔎:
 
+- Sin gluten
+- Sin frutos secos
+- Sin proteína láctea
+- Sin azúcares añadidos
+- Ingredientes naturales y ecológicos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00UMZH4J8/?tag=tolees-21)

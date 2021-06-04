@@ -28,10 +28,10 @@ Ahora mismo tienes [Rimmel London - Rimmel Lasting Matte Foundation  Base de Maq
 
 🔎:
 
-- Piel perfecta y suave
-- Fórmula cobertura total
 - Difumina las imperfecciones
-- Máxima ligereza y ultra confortable
 - Controla los brillos gracias a su tecnología polvo de triple balance
+- Fórmula cobertura total
+- Máxima ligereza y ultra confortable
+- Piel perfecta y suave
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VB2YJVJ/?tag=tolees-21)

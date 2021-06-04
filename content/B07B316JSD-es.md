@@ -30,8 +30,8 @@ Está [ColaCao 0% Azúcares añadidos - 700g](https://www.amazon.es/dp/B07B316JS
 
 - Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente.
 - Disfruta de todo el sabor y sin azúcares añadidos en cualquier momento: desayuno, merienda, cena o como snack.
-- Con cacao natural recolectado a mano; secado al sol; tostado y prensado; mezclado de forma tradicional con el resto de ingredientes.
-- 93 raciones en su envase de 700 gramos.
 - Alérgenos: contiene trigo, cebada y soja. Mantener en lugar fresco y seco.
+- 93 raciones en su envase de 700 gramos.
+- Con cacao natural recolectado a mano; secado al sol; tostado y prensado; mezclado de forma tradicional con el resto de ingredientes.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B316JSD/?tag=tolees-21)
