@@ -28,9 +28,9 @@ Tienes [EL NOGAL Frutos Secos Cacahuete Repelado Tostado Sin Sal Bolsa  130 G](h
 
 🔎:
 
-- Ingredientes: CACAHUETE repelado
-- Conservar en lugar limpio, fresco y seco. Mantener alejado de la acción directa de la luz solar.
 - Alérgenos: Puede contener trazas de frutos de cáscara, soja, leche y derivados.
+- Conservar en lugar limpio, fresco y seco. Mantener alejado de la acción directa de la luz solar.
 - País de Origen: Argentina/Brasil
+- Ingredientes: CACAHUETE repelado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B091G4V4RB/?tag=tolees-21)

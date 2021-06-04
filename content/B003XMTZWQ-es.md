@@ -28,9 +28,9 @@ En este momento está [La Toja - Barra de afeitar  fácil aplicación con brocha
 
 🔎:
 
-- Contiene sales minerales
 - Tiene una fórmula dermatológicamente probada
-- Ofrece un afeitado optimo
 - Produce espuma
+- Contiene sales minerales
+- Ofrece un afeitado optimo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003XMTZWQ/?tag=tolees-21)
