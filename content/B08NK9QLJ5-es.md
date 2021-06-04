@@ -28,10 +28,10 @@ Tienes [Rimmel London Lasting Finish Foundation 25H  Base de Maquillaje Tono 70 
 
 ℹ️:
 
+- Indicado para pieles secas
 - Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior del rostro
+- 25 horas de acabado óptimo
 - Fórmula resistente al calor, la humedad y no mancha
 - Alta cobertura para un acabado óptimo
-- Indicado para pieles secas
-- 25 horas de acabado óptimo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08NK9QLJ5/?tag=tolees-21)

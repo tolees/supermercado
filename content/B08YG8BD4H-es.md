@@ -28,10 +28,10 @@ Tienes [Herbal Essences bio:renew Leche De Coco Hidratación Champú  En Colabor
 
 🔎:
 
-- 90.% de ingredientes de origen natural (.agua purificada y materiales con ingredientes de origen natural poco procesados)
-- Este champú tiene un 0.% de parafinas, colorantes y siliconas
-- En asociación con El Real Jardín Botánico de Kew, una autoridad mundial líder en botánica que avala los productos realmente vegetales
-- pH equilibrado y seguro para cabellos teñidos
 - El champú con leche de coco ayuda a hidratar el cabello
+- En asociación con El Real Jardín Botánico de Kew, una autoridad mundial líder en botánica que avala los productos realmente vegetales
+- Este champú tiene un 0.% de parafinas, colorantes y siliconas
+- pH equilibrado y seguro para cabellos teñidos
+- 90.% de ingredientes de origen natural (.agua purificada y materiales con ingredientes de origen natural poco procesados)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08YG8BD4H/?tag=tolees-21)

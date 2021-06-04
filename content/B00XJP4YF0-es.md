@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en NB Palmolive Leche y Miel  Gel de Ducha '
-date: 2021-05-22 09:22:04
+date: 2021-06-04 18:32:05
 image: 'https://m.media-amazon.com/images/I/31C9+PtRRDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Palmolive'
 buyurl: 'https://www.amazon.es/dp/B00XJP4YF0/?tag=tolees-21'
 descuento: '0.00'
-average: '0.895'
+average: '0.906666666666667'
 ---
 
 Tienes [NB Palmolive Leche y Miel  Gel de Ducha o Baño - 250 ml](https://www.amazon.es/dp/B00XJP4YF0/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 1.0 EUR (original:  EUR) en el siguiente enlace!
