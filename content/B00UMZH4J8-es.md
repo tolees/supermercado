@@ -30,8 +30,8 @@ En este momento está [NATURGREEN - Forticoll Colágeno Péptidos bioactivos en 
 
 - Sin gluten
 - Sin frutos secos
-- Sin proteína láctea
 - Sin azúcares añadidos
+- Sin proteína láctea
 - Ingredientes naturales y ecológicos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00UMZH4J8/?tag=tolees-21)
