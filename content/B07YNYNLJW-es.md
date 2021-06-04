@@ -29,9 +29,9 @@ Ahora mismo tienes [Axe Gel de Ducha Ice Chill 400ml - Pack de 6](https://www.am
 🔎:
 
 - Gel de baño formulado con 87% ingredientes de origen natural
-- Dermatológicamente testado
-- Ayuda a combatir las bacterias que causan el mal olor
 - Gel de ducha 3 en 1 que limpia el cuerpo, cara y cabello
+- Ayuda a combatir las bacterias que causan el mal olor
+- Dermatológicamente testado
 - Gel de ducha relajante con botella hecha con plástico 100% reciclado
 - Gel de ducha envolvente con fragancia cautivadora e irresistible a menta y limón que dura todo el día
 

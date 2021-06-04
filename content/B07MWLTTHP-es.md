@@ -29,7 +29,7 @@ Ahora mismo tienes [Glooke Selected Juego de 4 Soft Líquido almizcle 2.5 LT d
 🔎:
 
 - Marca: glooke Selected
-- tamaño: 40 x 30 x 20 cm
 - Hogar, decoración y bricolaje
+- tamaño: 40 x 30 x 20 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MWLTTHP/?tag=tolees-21)

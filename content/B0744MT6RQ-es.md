@@ -28,12 +28,12 @@ Está [Holle Barritas Manzana & Plátano  35 Barritas](https://www.amazon.es/dp/
 
 ℹ️:
 
+- Ingredientes: ingredientes: zumo de manzana concentrado 43%, plátano en polvo36%, harina de arroz, grasa de palma, oblea de espelta integral5% harina integral de espelta, almidón de patata; de agricultura ecológica
+- Perfecta para comer entre horas y para masticar
 - Alérgenos: trazas frutos secos sin cacahuetes, soja, leche y sésamo
+- Información de alérgenos: spelt
+- Especialidad: orgánico
 - Fabricado en alemania
 - Advertencia de seguridad: vigile al niño mientras come; no le dé barritas cuando esté tumbado o caminando, para evitar que se atragante
-- Especialidad: orgánico
-- Información de alérgenos: spelt
-- Perfecta para comer entre horas y para masticar
-- Ingredientes: ingredientes: zumo de manzana concentrado 43%, plátano en polvo36%, harina de arroz, grasa de palma, oblea de espelta integral5% harina integral de espelta, almidón de patata; de agricultura ecológica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0744MT6RQ/?tag=tolees-21)
