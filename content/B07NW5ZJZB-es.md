@@ -28,9 +28,9 @@ Tienes [Somat Oro Gel Lavavajillas Vinagre – Pack de 4  Total: 200 lavados  3.
 
 ℹ️:
 
+- Vinagre - elimina los malos olores
 - Fácil disolución, para una limpieza impecable incluso en ciclos cortos
 - Permite dosificar, para medias cargas o ciclos cortos
-- Vinagre - elimina los malos olores
 - Efecto remojo que consigue eliminar las manchas de grasa quemada sin necesidad de pre-tratar
 - Somat Gel con Deep Clean Technology que penetra y ayuda a eliminar las suciedades resecas y difíciles
 
