@@ -28,13 +28,13 @@ Ahora mismo tienes [ECCO Offroad  Sandalias con Punta Abierta Mujer  Azul  57807
 
 🔎:
 
-- Material de la suela: Goma
-- Material exterior: Cuero
-- Composición: Cuero
 - Revestimiento: Tela
+- Material exterior: Cuero
 - Tipo de tacón: Fornido
-- Anchura del zapato: Normal
 - Cierre: Velcro
+- Composición: Cuero
 - Tipo de tacón: Plano
+- Material de la suela: Goma
+- Anchura del zapato: Normal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007VUWTVA/?tag=tolees-21)
