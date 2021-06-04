@@ -28,9 +28,9 @@ En este momento está [none brand - GY Bombilla de LED maíz E27 6400K Luz diurn
 
 🔎:
 
+- Ahorro de energía: en comparación con las lámparas incandescentes tradicionales de 60 W, las lámparas LED pueden ahorrar hasta un 85% del consumo de electricidad. Baja potencia calorífica y larga vida útil (20000h). Los materiales de alta calidad pueden reducir la frecuencia de reemplazo.
 - Descripción del producto: Hecho con vidrio y plástico transparentes ultrafinos y base mediana E27. 6400K luz diurna blanco frío .50 / 60HZ. Tamaño: 58 * 176 mm 4 piezas / juego.
 - adecuado para diversas iluminaciones en el hogar y al aire libre. interior / exterior. Es ampliamente utilizado en viviendas, garajes, sótanos, guardias de seguridad, almacenes, fábricas, supermercados, oficinas, estacionamientos, gasolineras, salas de exposición y gimnasios que requieren una iluminación suficiente.
-- Ahorro de energía: en comparación con las lámparas incandescentes tradicionales de 60 W, las lámparas LED pueden ahorrar hasta un 85% del consumo de electricidad. Baja potencia calorífica y larga vida útil (20000h). Los materiales de alta calidad pueden reducir la frecuencia de reemplazo.
 - Protección para los ojos: la luz es estable, no parpadea y no daña los ojos. Crea un entorno de iluminación seguro. Bueno para la salud.
 - Garantía de servicio: Estamos comprometidos a proporcionar a los clientes productos de alta calidad y garantizar su completa satisfacción. Si tiene alguna pregunta, comuníquese con nosotros, resolveremos el problema para usted lo antes posible.
 
