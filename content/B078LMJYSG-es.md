@@ -28,10 +28,10 @@ En este momento está [Fackelmann Franela con Mango y aro en Polietileno  Colado
 
 🔎:
 
-- INCLUYE: 1 x colador de franela calidad Fackelmann.
 - APLICACIÓN: Excelente para preparar té o infusiones.
-- MATERIAL: Malla de franela blanca, mango y aro en polietileno blanco.
 - DIMENSIONES: Aproximadamente 22,5 cm de largo y unos 12 cm de ancho.
 - PRÁCTICO: La capa de franela ayuda a colar el té, la infusión o el café, a la vez que permite mantener el sabor y extraer toda la esencia del café o té. Se debe lavar a mano.
+- INCLUYE: 1 x colador de franela calidad Fackelmann.
+- MATERIAL: Malla de franela blanca, mango y aro en polietileno blanco.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078LMJYSG/?tag=tolees-21)
