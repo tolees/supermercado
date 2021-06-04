@@ -28,10 +28,10 @@ En este momento está [Gullón Galleta ZERO sin Azúcares Digestive  400 Gramos]
 
 🔎:
 
-- Las galletas Digestive Diet Nature están elaboradas con harina integral de trigo.
+- Fabricado por Galletas Gullón.
 - Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
 - La galleta perfecta para personas que no quieren renunciar a los pequeños placeres.
-- Fabricado por Galletas Gullón.
+- Las galletas Digestive Diet Nature están elaboradas con harina integral de trigo.
 - Sin azúcares y con un alto contenido en fibra.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005I3QLDO/?tag=tolees-21)
