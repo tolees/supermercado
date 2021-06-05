@@ -28,10 +28,10 @@ En este momento está [PINPOXE - Mascarilla para espinillas  puntos negros  exfo
 
 🔎:
 
-- Función: Fórmula para limpieza en profundidad, elimina las sustancias tóxicas. Absorbe la grasa rápidamente, renueva e hidrata tu piel.
-- Dosificación: Se debe medir la dosis. Si la capa es demasiado fina, no resulta fácil retirar la mascarilla de toda una pieza. Si la capa es demasiado gruesa, el efecto no es evidente. Si el tiempo de aplicación es demasiado largo, se recomienda aplicar mucha cantidad para cubrir la piel.
-- El tratado de aloe ayuda a tu piel a ponerse más sana, más clara, más húmeda y elástica.
 - Ideal para piel seca y apagada: Contiene extracto de fruta de aloe que calma y estimula tu piel cansada.
+- Dosificación: Se debe medir la dosis. Si la capa es demasiado fina, no resulta fácil retirar la mascarilla de toda una pieza. Si la capa es demasiado gruesa, el efecto no es evidente. Si el tiempo de aplicación es demasiado largo, se recomienda aplicar mucha cantidad para cubrir la piel.
+- Función: Fórmula para limpieza en profundidad, elimina las sustancias tóxicas. Absorbe la grasa rápidamente, renueva e hidrata tu piel.
 - Mascarilla de hidratación de hoja de aloe: Ilumina tu cara y tu día.
+- El tratado de aloe ayuda a tu piel a ponerse más sana, más clara, más húmeda y elástica.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Q5MJHX8/?tag=tolees-21)
