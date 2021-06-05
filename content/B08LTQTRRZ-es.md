@@ -29,9 +29,9 @@ En este momento está [Bowmore 15 Años Whisky Escoces con 2 Vasos  700ml](https
 🔎:
 
 - Bowmore 15y + estuche con 2 vasos
-- 700 ml
-- Contenido de alcohol (alc/vol): 40.0 percent_by_volume
-- Tipo de alcohol: gift baskets spirits
 - Bowmore 15y
+- Contenido de alcohol (alc/vol): 40.0 percent_by_volume
+- 700 ml
+- Tipo de alcohol: gift baskets spirits
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LTQTRRZ/?tag=tolees-21)
