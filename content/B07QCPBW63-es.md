@@ -28,10 +28,10 @@ En este momento está [Catunambú  Cápsulas de Café - 100.8 gr](https://www.am
 
 🔎:
 
-- País de origen: España
-- Para adultos
-- Una vez abierto, conservar en lugar fresco y seco
-- Alérgenos: No posee
 - Ingredientes: café
+- Para adultos
+- Alérgenos: No posee
+- Una vez abierto, conservar en lugar fresco y seco
+- País de origen: España
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QCPBW63/?tag=tolees-21)
