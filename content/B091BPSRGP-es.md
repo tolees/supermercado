@@ -28,10 +28,10 @@ Está [Trident Extreme Menthol - Chicles sin Azúcar con Sabor a Menta - Paquete
 
 ℹ️:
 
-- Sabor intenso y refrescante que cuida tu aliento y tu salud dental
 - Alérgenos: Sin azúcar, con edulcorantes. Contiene sorbitol y una fuente de fenilalanina
+- Formato pack de 24 envases de chicles sueltos tipo gragea rellena
 - Conservar en lugar fresco y seco
 - Chicles refrescantes sin azúcar con sabor a menta de powder
-- Formato pack de 24 envases de chicles sueltos tipo gragea rellena
+- Sabor intenso y refrescante que cuida tu aliento y tu salud dental
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B091BPSRGP/?tag=tolees-21)

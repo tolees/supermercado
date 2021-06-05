@@ -28,9 +28,9 @@ Tienes [Rexona Desodorante Antitranspirante Aloe Vera Roll On 50ml - 3unidades](
 
 🔎:
 
-- Proporciona protección y suavidad
-- Dermatológicamente comprobado
 - Ofrece protección hasta 46 horas
+- Dermatológicamente comprobado
 - Apto para el uso diario
+- Proporciona protección y suavidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0049MMAYE/?tag=tolees-21)
