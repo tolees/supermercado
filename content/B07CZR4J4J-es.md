@@ -29,9 +29,9 @@ Tienes [NEUTRO ROBERTS Champú tonificante de ducha – 6 paquetes de 250 ml –
 🔎:
 
 - Sin silicona. Sin jabón.
-- pH fisiológico.
+- Piel y cabello más nutridos.
 - Ducha champú tonificante
 - Con vitaminas de fruta.
-- Piel y cabello más nutridos.
+- pH fisiológico.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CZR4J4J/?tag=tolees-21)

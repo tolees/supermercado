@@ -28,10 +28,10 @@ Está [none brand - GY Bombilla LED de 6W  equivalente a una lámpara incandesce
 
 ℹ️:
 
-- Amplia gama de usos & Excelente rendimiento: bombillas LED universales fáciles de instalar. Las bombillas serán adecuadas para lámpara de mesa, lámpara de pie, baño, sala de estar, cocina, etc, viviendas o lugares comerciales. puede proporcionar una eficiencia luminosa rápida y estable sin tiempo de precalentamiento; no contiene mercurio, plomo, ultravioleta ni infrarrojos, Sin deslumbramiento, sin parpadeo, pueden brindarle una experiencia segura y respetuosa con el medio ambiente.
 - medioambientalmente amigable: carcasa de vidrio transparente, alta transmitancia de luz. Sin mercurio, sin plomo, sin ultravioleta, sin infrarrojos, excelente rendimiento de disipación de calor, brindándole una experiencia segura y respetuosa.
+- Amplia gama de usos & Excelente rendimiento: bombillas LED universales fáciles de instalar. Las bombillas serán adecuadas para lámpara de mesa, lámpara de pie, baño, sala de estar, cocina, etc, viviendas o lugares comerciales. puede proporcionar una eficiencia luminosa rápida y estable sin tiempo de precalentamiento; no contiene mercurio, plomo, ultravioleta ni infrarrojos, Sin deslumbramiento, sin parpadeo, pueden brindarle una experiencia segura y respetuosa con el medio ambiente.
 - Duradero: reemplaza la vieja lámpara incandescente y consigue un efecto de ahorro de energía excelente. Salida de calor es baja y la vida útil media es de 20.000 horas, lo cual reduciría el número de veces tienen que volver a instalarlas .
-- Bajo consumo de energía: T3 Bombillas de LED maíz es un sustituto ideal de la lámpara incandescente de 60 W, brillo de 480 lm, que ahorra un 85% de la factura de electricidad de iluminación
 - Comprar con confianza: Estamos comprometidos a crear productos de alta calidad y su satisfacción es nuestro eterno objetivo. si hay algún problema, No dude en contactarnos, resolveremos para usted el problema lo antes posible.
+- Bajo consumo de energía: T3 Bombillas de LED maíz es un sustituto ideal de la lámpara incandescente de 60 W, brillo de 480 lm, que ahorra un 85% de la factura de electricidad de iluminación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CRHR1DQ/?tag=tolees-21)
