@@ -29,9 +29,9 @@ En este momento está [Sensodyne - Juego de 4 cepillos interdentales para diente
 🔎:
 
 - Caña fina para la extracción de la placa en las zonas inaccesibles con el cepillo de dientes, respeto del esmalte y las encías.
-- Cabezal del cepillo para introducir delicadamente entre los dientes, frotar hacia adelante y hacia atrás para retirar la placa, no forzar la introducción del cepillo en los espacios interdentales, enjuagar el cepillo después de su uso.
-- Contenido: 4 cabezales interdentales Sensodyne, 2 mm de diámetro, incluye 1 tapa.
 - Cepillos para la limpieza eficaz y suave de los espacios interdentales, especialmente diseñados para la prevención contra la sensibilidad dental, apto para los dientes sensibles.
+- Cabezal del cepillo para introducir delicadamente entre los dientes, frotar hacia adelante y hacia atrás para retirar la placa, no forzar la introducción del cepillo en los espacios interdentales, enjuagar el cepillo después de su uso.
 - Diseño cónico redondeado para un fácil agarre. Cierre higiénico del cepillo gracias a la tapa incluida.
+- Contenido: 4 cabezales interdentales Sensodyne, 2 mm de diámetro, incluye 1 tapa.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L92CGB3/?tag=tolees-21)

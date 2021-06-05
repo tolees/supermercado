@@ -28,13 +28,13 @@ En este momento está [Mahou - 5 Estrellas - Cerveza Dorada Lager  5.5% de Volum
 
 🔎:
 
+- Su sabor es equilibrado y consistente, con un amargor moderado y ligera acidez
+- Elaborada con una cuidada selección de maltas pilsen de tueste bajo, lúpulos amargos semiaromáticos de origen europeo y levadura
+- Para un mayor disfrute consumir entre 4º y 6º C
+- Recomendamos servir esta cerveza a 5-6º C para disfrutar al máximo de sus matices
 - Aroma afrutado, suave y fresco, con toques de fragancia seca y levadura, el lúpulo aporta notas florales que se aprecian en boca
 - Cerveza dorada y brillante con espuma cremosa y consistente
-- Para un mayor disfrute consumir entre 4º y 6º C
-- Elaborada con una cuidada selección de maltas pilsen de tueste bajo, lúpulos amargos semiaromáticos de origen europeo y levadura
-- Su sabor es equilibrado y consistente, con un amargor moderado y ligera acidez
 - En boca, tiene fuerza, consistencia y resulta muy equilibrada, con un amargor moderado y una ligera acidez
 - En Mahou llevamos desde 1890 cumpliendo las altas expectativas de los amantes de la cerveza
-- Recomendamos servir esta cerveza a 5-6º C para disfrutar al máximo de sus matices
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XDNTV88/?tag=tolees-21)
