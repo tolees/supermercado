@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexona Desodorante Antitranspirante Aloe al 0.00 % de rebaja'
-date: 2021-06-01 22:29:06
+date: 2021-06-05 06:40:59
 image: 'https://m.media-amazon.com/images/I/41eOVKu8R5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
