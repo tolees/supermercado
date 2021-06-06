@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Catunambú  Cápsulas de café  Leche  - 16 al 14.33 % de rebaja'
-date: 2021-06-05 09:21:19
+date: 2021-06-06 10:25:34
 image: 'https://m.media-amazon.com/images/I/41yeigWwTgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Catunambú'
 buyurl: 'https://www.amazon.es/dp/B07QGVY6M4/?tag=tolees-21'
 descuento: '14.33'
-average: '3.046'
+average: '3.04333333333333'
 ---
 
 Tienes [Catunambú  Cápsulas de café  Leche  - 160 gr](https://www.amazon.es/dp/B07QGVY6M4/?tag=tolees-21) con precio final de  2.99 EUR (original: 3.49 EUR) (14.33 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Catunambú  Cápsulas de café  Leche  - 160 gr](https://www.amazon.es/d
 
 🔎:
 
-- Una vez abierto, conservar en lugar fresco y seco
 - País de origen: España
+- Una vez abierto, conservar en lugar fresco y seco
 - Alérgenos: no posee
 - Ingredientes: café
 
