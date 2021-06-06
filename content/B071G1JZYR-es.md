@@ -28,8 +28,8 @@ Está [Haribo Discos Multicolor 2000 g](https://www.amazon.es/dp/B071G1JZYR/?tag
 
 ℹ️:
 
+- Deliciosas piezas de regaliz enrolladas en forma de disco
 - De distintos sabores y colores
 - Geles dulces
-- Deliciosas piezas de regaliz enrolladas en forma de disco
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071G1JZYR/?tag=tolees-21)
