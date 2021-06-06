@@ -28,9 +28,9 @@ Tienes [anagenactive - Anagen Active Loción - Anticaída  Regenerador y Acondic
 
 ℹ️:
 
-- Es normal que se caigan alrededor de 100 cabellos al día, cuando se tiene calvicie el ciclo folicular se altera y la caída es más notoria.
-- Sobre el cuero cabelludo lograrás aumentar el flujo sanguíneo en los folículos capilares, acelerando la etapa de caída (telógena) para llegar a la etapa de crecimiento (anágena)
 - Por lo que, sin el tratamiento el proceso de la calvicie común sigue su curso normal y por eso continúa la pérdida capilar.
 - Para estimular el crecimiento de cabello y disminuir la caída es importante el uso continuo de Anagen Active Loción
+- Es normal que se caigan alrededor de 100 cabellos al día, cuando se tiene calvicie el ciclo folicular se altera y la caída es más notoria.
+- Sobre el cuero cabelludo lograrás aumentar el flujo sanguíneo en los folículos capilares, acelerando la etapa de caída (telógena) para llegar a la etapa de crecimiento (anágena)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CRRVJ5H/?tag=tolees-21)
