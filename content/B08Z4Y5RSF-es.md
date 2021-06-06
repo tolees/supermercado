@@ -28,10 +28,10 @@ Tienes [Catunambú Espresso - Cápsulas Compatibles con Máquinas Nespresso  Caf
 
 ℹ️:
 
-- Cápsulas de aluminio, compatibles con máquinas nespresso(r) marca no relacionada con global coffee industries s.a
-- Instrucciones para su uso adecuado: Adultos
-- Advertencia de seguridad: Dosis máxima recomendada: 3/4 tazas al día
-- Ingredientes: café, intensidad 8
 - Alérgenos: sin gluten ni frutos secos
+- Advertencia de seguridad: Dosis máxima recomendada: 3/4 tazas al día
+- Instrucciones para su uso adecuado: Adultos
+- Ingredientes: café, intensidad 8
+- Cápsulas de aluminio, compatibles con máquinas nespresso(r) marca no relacionada con global coffee industries s.a
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08Z4Y5RSF/?tag=tolees-21)
