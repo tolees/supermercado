@@ -28,10 +28,10 @@ Tienes [Marca Amazon- Solimo Maquinilla de afeitar de 5 hojas para mujer](https:
 
 🔎:
 
-- Para un rendimiento optimo, almacenar el producto en un ambiente seco después de cada uso
 - Paquete abrefácil: es fácil de abrir y cabe en buzones estándar; embalaje exterior 100 % reciclable
-- Utilizar con gel o espuma de afeitar
 - Reemplazar el cabezal de hojas con cabezales de recambio Solimo
+- Para un rendimiento optimo, almacenar el producto en un ambiente seco después de cada uso
+- Utilizar con gel o espuma de afeitar
 - Ideal para pieles sensibles
 - Cabezales anti obstrucción con hojas fáciles de enjuagar diseñados para facilitar la limpieza con agua
 - Cuchillas fabricadas en los EEUU. Mango fabricado en China
