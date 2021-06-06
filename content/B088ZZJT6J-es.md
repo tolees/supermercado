@@ -29,9 +29,9 @@ Está [Puleva Café con Leche Zero Sin Azúcar pack 6x1L](https://www.amazon.es/
 ℹ️:
 
 - Listo para tomar (frío o caliente)
-- Mezcla de los mejores cafés arábica y robusta
-- Bienestar para disfrutar de la vida
 - País de origen: España
+- Bienestar para disfrutar de la vida
 - Conservar en lugar fresco y seco, una vez abierto el envase debe conservarse en frío, siendo aconsejable su consumo en los dos ó tres días siguientes
+- Mezcla de los mejores cafés arábica y robusta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088ZZJT6J/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Revlon Colorstay 24H  Base de maquillaje para rostro  par
 
 🔎:
 
+- Viene en frasco de 30 ml en varios tonos, para combinar con cualquier tono de piel
 - Proporciona una sensación cómoda y al mismo tiempo ilumina la piel
 - Especialmente formulado para mixta o grasa, esta fórmula hidratante mantiene su humedad de la piel nivel equilibrado con un hermoso acabado satinado
 - Fabricada específicamente para la piel mixta o grasa para controlar el brillo y la absorción de aceite
-- Viene en frasco de 30 ml en varios tonos, para combinar con cualquier tono de piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01DLZJAD8/?tag=tolees-21)
