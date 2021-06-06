@@ -28,8 +28,8 @@ Está [Dove Original  Crema de belleza en barra  1 x 100 g](https://www.amazon.e
 
 ℹ️:
 
-- Por eso, es importante utilizar productos que no resequen la piel
 - Tipo de piel: seca
+- Por eso, es importante utilizar productos que no resequen la piel
 - No hay nada como sentir tu piel suave y sedosa
 - Con los productos adecuados puedes experimentar esta sensación todos los días
 
