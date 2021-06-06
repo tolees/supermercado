@@ -28,8 +28,8 @@ Tienes [Lagarto Suavizante Azul Concentrado 70 Lavados 1 5l- Paquete 6 Unidades 
 
 🔎:
 
-- De la marca Lagarto
 - Aporte extra de suavidad
+- De la marca Lagarto
 - Aroma fresco
 - Complementa el lavado
 
