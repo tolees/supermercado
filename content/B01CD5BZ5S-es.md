@@ -28,9 +28,9 @@ Tienes [Ultimate - Juego de 40 bolsas de basura con cordón  50 unidades  color 
 
 ℹ️:
 
-- Bolsas de basura ultra resistentes
-- Práctico cierre de cordón.
 - Color: blanco.
+- Práctico cierre de cordón.
+- Bolsas de basura ultra resistentes
 - Hecho de plástico multicapa para alta resistencia y resistencia al desgarro.
 - Capacidad: 50 litros
 
