@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ruffles Original Patatas Fritas con Sal  con un 24.24 % de descuento'
-date: 2021-06-03 21:07:41
+date: 2021-06-07 14:47:06
 image: 'https://m.media-amazon.com/images/I/512h8x7mXTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ruffles'
 buyurl: 'https://www.amazon.es/dp/B00XDQW3Z8/?tag=tolees-21'
 descuento: '24.24'
-average: '1.055'
+average: '1.044'
 ---
 
 En este momento está [Ruffles Original Patatas Fritas con Sal  160g](https://www.amazon.es/dp/B00XDQW3Z8/?tag=tolees-21) a 1.0 EUR (original: 1.32 EUR) (24.24 %  de descuento) en el siguiente enlace!

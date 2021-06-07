@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOCONO SPECIALTY COFFEE - Café en Grano  al 0.00 % de rebaja'
-date: 2021-05-17 08:26:13
+date: 2021-06-07 15:02:26
 image: 'https://m.media-amazon.com/images/I/317r0JAeYUS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,15 @@ Tienes [BOCONO SPECIALTY COFFEE - Café en Grano Boconó Specialty Coffee Colomb
 
 🔎:
 
-- Región: Huila
-- Notas de cata: Floral - Frutos secos - Muy dulce
-- 1700 mt de Altitud
 - Tostado Artesanalmente en Madrid - España
+- Tueste medio
+- 1700 mt de Altitud
 - ARABICA
+- Notas de cata: Floral - Frutos secos - Muy dulce
 - País: Colombia
 - EN GRANO
-- Variedad Caturra
-- Tueste medio
+- Región: Huila
 - Proceso de cosecha: Lavado
+- Variedad Caturra
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08JK6XZ9D/?tag=tolees-21)
