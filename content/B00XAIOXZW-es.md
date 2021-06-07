@@ -28,8 +28,8 @@ Tienes [INSTITUTO ESPAÑOL gel de ducha piel sana botella 1250 ml](https://www.a
 
 ℹ️:
 
-- Género: Unisex Adulto
 - Marca: Instituto Español
 - Tipo de producto: Gel de baño
+- Género: Unisex Adulto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAIOXZW/?tag=tolees-21)
