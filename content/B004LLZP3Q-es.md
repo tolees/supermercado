@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hendrick S Ginebra Botella  700ml con un 21.04 % de descuento'
-date: 2021-05-29 12:34:56
+date: 2021-06-07 07:23:14
 image: 'https://m.media-amazon.com/images/I/4147dDiahSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hendricks'
 buyurl: 'https://www.amazon.es/dp/B004LLZP3Q/?tag=tolees-21'
 descuento: '21.04'
-average: '28.1377777777778'
+average: '28.0115789473684'
 ---
 
 En este momento está [Hendrick S Ginebra Botella  700ml](https://www.amazon.es/dp/B004LLZP3Q/?tag=tolees-21) a 25.74 EUR (original: 32.6 EUR) (21.04 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Hendrick S Ginebra Botella  700ml](https://www.amazon.es/
 
 🔎:
 
+- Capacidad de 700 ml
+- Graduación de 44º
 - Los aromas se compone de flores, raíces, frutos y semillas que complementa las dos infusiones principales de pétalo de rosa y pepino
 - Fue galardonado con la medalla de plata por el International Wine and Spirit Competition (2010)
-- Graduación de 44º
-- Capacidad de 700 ml
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004LLZP3Q/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Protos Crianza  Estuche Vino Tinto 2 botellas 75cl](https
 
 🔎:
 
-- 14 meses de crianza en roble francés (60%) y americano (40%) y otros 12 meses en la botella para culminar su crianza.
-- Es un vino envolvente, sabroso, equilibrado, con finura y grata madurez. Final de boca con recuerdos de fruta madura
-- Coupage de diferentes parcelas para lograr una expresión de nuestros terruños en los vinos. Parcelas de edad media entre 30 y 35 años.
-- Rojo picota con destellos morados que indican juventud. Alta intensidad aromática, con aroma de frutos maduros bien ensamblados con la madera que aporta aromas de especias dulces y tostados.
 - Marida con vegetales y carnes asadas, carpaccio, fabada, chorizo, jamón ibérico, mariscos al ajillo.
+- Coupage de diferentes parcelas para lograr una expresión de nuestros terruños en los vinos. Parcelas de edad media entre 30 y 35 años.
+- 14 meses de crianza en roble francés (60%) y americano (40%) y otros 12 meses en la botella para culminar su crianza.
+- Rojo picota con destellos morados que indican juventud. Alta intensidad aromática, con aroma de frutos maduros bien ensamblados con la madera que aporta aromas de especias dulces y tostados.
+- Es un vino envolvente, sabroso, equilibrado, con finura y grata madurez. Final de boca con recuerdos de fruta madura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VXXZKFD/?tag=tolees-21)
