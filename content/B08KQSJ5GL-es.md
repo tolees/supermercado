@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.01 % en Lysol - Spray desinfectante y limpiador '
-date: 2021-05-16 12:50:28
+date: 2021-06-07 09:02:27
 image: 'https://m.media-amazon.com/images/I/51fqXnev9hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lysol'
 buyurl: 'https://www.amazon.es/dp/B08KQSJ5GL/?tag=tolees-21'
 descuento: '20.01'
-average: '20.02'
+average: '20.014'
 ---
 
 Tienes [Lysol - Spray desinfectante y limpiador quitagrasas cocina  mata virus y bacterias sin lejía  aroma Limón - Pack de 6 x 1L - Total 6 L](https://www.amazon.es/dp/B08KQSJ5GL/?tag=tolees-21) con un 20.01 % de descuento con precio de oferta de 19.99 EUR (original: 24.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Lysol - Spray desinfectante y limpiador quitagrasas cocina  mata virus y
 
 ℹ️:
 
-- En Lysol llevamos más de 130 años desinfectando los hogares de todo el mundo
-- Limpia tu cocina: elimina la suciedad y las manchas de grasa
 - Spray desinfectante y desengrasante indicado para la limpieza y desinfección de la cocina, con un agradable aroma a limón
 - Sin lejía, fosfatos ni colorantes, no deja químicos abrasivos que pueda dañar las superficies y es apto para encimeras, tablas de cortas y otras superficies de la cocina
+- Limpia tu cocina: elimina la suciedad y las manchas de grasa
 - Desinfecta: elimina el 99.9 % de bacterias como E; coli (diarrea),​ S; aureus,​ P; aeruginosa,​ E; hirae​ (Salmonella entérica), y virus como Rhinovirus (resfriado) Influenza A H1N1 (gripe)
+- En Lysol llevamos más de 130 años desinfectando los hogares de todo el mundo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08KQSJ5GL/?tag=tolees-21)
