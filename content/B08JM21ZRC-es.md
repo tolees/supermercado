@@ -28,10 +28,10 @@ Está [Anmossi Bombillas LED E27 3000K 12W LED maíz Bombilla equivalente a 100W
 
 ℹ️:
 
-- Bombilla LED E27 de ahorro de energía: el brillo de la bombilla LED tipo maíz E27 de 12 W es equivalente al de una lámpara incandescente de 100 W y es un reemplazo ideal para las lámparas incandescentes, ahorrando más del 85% en costos de electricidad.
 - Garantía sin preocupaciones: Nos dedicamos a brindar la mejor experiencia de usuario, nuestra lámpara LED E27 está certificada por CE y RoHS y tiene una garantía de servicio al cliente de 12 meses.Si tiene alguna pregunta, el equipo de servicio al cliente de Anmossi hará todo lo posible para resolver el problema. en 24 horas.
-- Materiales de protección ambiental: Bombillas LED tipo maíz E27 hechas de aluminio de aviación y plástico para PC, con buena disipación de calor, sin plomo ni mercurio dañinos, sin rayos UV, IR u otras radiaciones nocivas.
-- Larga vida útil: Las bombillas LED tienen una vida útil de más de 30,000 horas, 80 perlas de lámpara con alto brillo, bajo consumo de energía, AC100-240V, 1200Lm, blanco cálido 3000K, no regulable, ángulo de haz de 360 °, CRI> 80 y no parpadeo, puede proteger mejor los ojos.
 - Ampliamente utilizado: Contiene 4 bombillas LED E27, es adecuado para dormitorio, sala de estar, cocina, candelabros, cafés, bares, exposiciones, comedores, museos, etc., creando un ambiente cómodo y suave, ideal para la decoración de interiores.
+- Materiales de protección ambiental: Bombillas LED tipo maíz E27 hechas de aluminio de aviación y plástico para PC, con buena disipación de calor, sin plomo ni mercurio dañinos, sin rayos UV, IR u otras radiaciones nocivas.
+- Bombilla LED E27 de ahorro de energía: el brillo de la bombilla LED tipo maíz E27 de 12 W es equivalente al de una lámpara incandescente de 100 W y es un reemplazo ideal para las lámparas incandescentes, ahorrando más del 85% en costos de electricidad.
+- Larga vida útil: Las bombillas LED tienen una vida útil de más de 30,000 horas, 80 perlas de lámpara con alto brillo, bajo consumo de energía, AC100-240V, 1200Lm, blanco cálido 3000K, no regulable, ángulo de haz de 360 °, CRI> 80 y no parpadeo, puede proteger mejor los ojos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08JM21ZRC/?tag=tolees-21)

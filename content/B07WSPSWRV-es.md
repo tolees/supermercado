@@ -28,10 +28,10 @@ Ahora mismo tienes [Melatonina + Valeriana + Pasiflora + Melisa - Relajante Natu
 
 🔎:
 
-- GARANTIA DE SATISFACCIÓN: Los productos Aquisana son de fabricación en España con estricto control de calidad y todos los permisos sanitarios de Ley. Garantía y máxima calidad para nuestros clientes.
-- RELAJANTE : Hay diversas plantas medicinales, entre ellas la pasiflora que contienen alcaloides y flavonoides que son relajantes.
-- COMPLEMENTO VITAMINICO : Los comprimidos de Melatonina de Aquisana contienen Valeriana, Pasiflora Y Melisa. Su eficacia proporciona el mejor complemento para conciliar el descanso. 60 Cápsulas
 - CUIDA DE TU SALUD: Uno de los complementos alimenticios más importantes para cuidar tu salud. Protege los lípidos y las proteínas de los daños, retrasando el envejecimiento.
 - PROPIEDADES: Las cápsulas de Melatonina de Aquisana contienen componentes formulados para garantizar la relajación y conciliación del descanso. suplemento conciliador con pasiflora, melisa y valeriana.
+- RELAJANTE : Hay diversas plantas medicinales, entre ellas la pasiflora que contienen alcaloides y flavonoides que son relajantes.
+- COMPLEMENTO VITAMINICO : Los comprimidos de Melatonina de Aquisana contienen Valeriana, Pasiflora Y Melisa. Su eficacia proporciona el mejor complemento para conciliar el descanso. 60 Cápsulas
+- GARANTIA DE SATISFACCIÓN: Los productos Aquisana son de fabricación en España con estricto control de calidad y todos los permisos sanitarios de Ley. Garantía y máxima calidad para nuestros clientes.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WSPSWRV/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Fairy Original All in One  Pastillas Lavavajillas  84 Cápsulas  Óptima
 
 ℹ️:
 
-- Pastillas lavavajillas, óptima limpieza, que eliminan inlcuso la grasa más incrustada a la primera
-- Contienen sal que garantiza un aclarado perfecto a la vez que protege el cristal y la plata
-- Monodosis listas para usar sin necesidad de retirar el envoltorio
 - Mantinen un aroma limpio y fresco en el lavavajillas
+- Pastillas lavavajillas, óptima limpieza, que eliminan inlcuso la grasa más incrustada a la primera
+- Monodosis listas para usar sin necesidad de retirar el envoltorio
+- Contienen sal que garantiza un aclarado perfecto a la vez que protege el cristal y la plata
 - Poderosa acción limpiadora con líquido quitagrasas que garantiza un acabado perfecto y brillante
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01L25TA5W/?tag=tolees-21)

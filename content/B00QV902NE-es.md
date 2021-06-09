@@ -30,8 +30,8 @@ Ahora mismo tienes [Prozis Cafeína Estimular la Concentración  los Niveles de 
 
 - Aumenta los reflejos y los niveles energéticos, produciendo alteraciones metabólicas y fisiológicas importantes
 - Fórmula premium elaborada con los mejores ingredientes para luchar contra la fatiga
-- Fabricado en Europa: Certificado por laboratorios independientes
 - Usado como termogénico - Debido a las propiedades de la cafeína produce un aumento en la tasa metabólica que aumenta la pérdida de peso
+- Fabricado en Europa: Certificado por laboratorios independientes
 - 200 mg de cafeína en cada dosis - Contiene el doble de cafeína que una taza normal de café
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00QV902NE/?tag=tolees-21)

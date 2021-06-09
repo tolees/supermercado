@@ -28,10 +28,10 @@ Ahora mismo tienes [Cruzcampo Cerveza Gran Reserva - Pack de 24 latas x 330 ml -
 
 🔎:
 
+- Ingredientes Naturales: Agua, malta de cebada, lúpulo, maiz y levadura
+- Cerveza estilo Pilsen
 - 4,8% de alcohol en volumen
 - De color rubio pajizo y espuma consistente. Con ligero aroma frutal y sabor balanceado de dulce de malta y amargor suave.
-- Cerveza estilo Pilsen
-- Ingredientes Naturales: Agua, malta de cebada, lúpulo, maiz y levadura
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B12YVF7/?tag=tolees-21)

@@ -29,8 +29,8 @@ Tienes [Café de Etiopía en grano Consuelo  1 kg](https://www.amazon.es/dp/B07X
 ℹ️:
 
 - Composición: granos 100 % arábica especialmente seleccionados
-- Tostado y envasado en Italia
 - Para cafeteras y molinillos automáticos
+- Tostado y envasado en Italia
 - Un café aromático con una crema de bonito color avellana, sabor intenso y sutiles notas cítricas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XWW5CJJ/?tag=tolees-21)

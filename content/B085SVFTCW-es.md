@@ -28,10 +28,10 @@ Tienes [Sanytol - Limpiador Desinfectante Multiusos  Elimina Bacterias  Hongos y
 
 ℹ️:
 
-- Limpiador Desinfectante Multiusos eficaz contra bacterias, como S. Aureus o E-coli, hongos y virus envueltos.
 - Limpia y desinfecta sin lejía y de una sola pasada todo tipo de superficies, eliminando el 99,9% de los gérmenes y neutralizando los alérgenos más comunes del hogar: ácaros del polvo, de gatos, esporas de moho y polen.
-- Elimina los malos olores y deja un agradable aroma a Eucaliptus.
-- Apto para todo tipo de suelos y superficies, incluso delicadas como parquet, madera, mármol y acero inoxidable.
 - No desprende vapores, no mancha textiles, no daña superficies y está testado dermatológicamente. Sin fosfatos, ftalatos ni disruptores endocrinos.
+- Apto para todo tipo de suelos y superficies, incluso delicadas como parquet, madera, mármol y acero inoxidable.
+- Limpiador Desinfectante Multiusos eficaz contra bacterias, como S. Aureus o E-coli, hongos y virus envueltos.
+- Elimina los malos olores y deja un agradable aroma a Eucaliptus.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085SVFTCW/?tag=tolees-21)

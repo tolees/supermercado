@@ -28,8 +28,8 @@ Está [Pompadour Té Rojo - 100 bolsitas](https://www.amazon.es/dp/B082VTHD6K/?t
 
 ℹ️:
 
+- Fácil dispencación para hostelería (100 bolsitas envueltas en sobre protector)
 - Té rojo elaborado con yemas y hojas fermentadas de la especie Camellia Sinensis
 - Mezclas equilibradas de las mejores cosechas, vigiladas in situ por nuestros especialistas en sus zonas de cultivo en Asia
-- Fácil dispencación para hostelería (100 bolsitas envueltas en sobre protector)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082VTHD6K/?tag=tolees-21)

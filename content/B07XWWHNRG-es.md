@@ -28,10 +28,10 @@ Ahora mismo tienes [Café de Brasil en grano Consuelo  2 paquetes de 1 kg](https
 
 🔎:
 
+- Tostado y envasado en Italia
+- Una mezcla de cafés arábica de Brasil cuidadosamente seleccionados que destacan por una combinación única de sabores. Un auténtico placer para el paladar con notas de chocolate, avellanas y vainilla: el compañero perfecto para tomarte un respiro
+- Para cafeteras y molinillos automáticos
 - Composición: granos 100 % arábica especialmente seleccionados
 - Paquete de 2 x 1kg
-- Una mezcla de cafés arábica de Brasil cuidadosamente seleccionados que destacan por una combinación única de sabores. Un auténtico placer para el paladar con notas de chocolate, avellanas y vainilla: el compañero perfecto para tomarte un respiro
-- Tostado y envasado en Italia
-- Para cafeteras y molinillos automáticos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XWWHNRG/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Ruavieja Licor de Hierbas - 1000 ml](https://www.amazon.es/dp/B07VPK9PFP
 
 🔎:
 
-- Para disfrutar del Licor de Hierbas Ruavieja se recomienda enfriar la botella y servir con hielo en un vaso ancho
 - El licor de hierbas de Ruavieja es un licor de gran tradición y de origen gallego
 - Este licor de hierbas se elabora con hierbas naturales previamente seleccionadas, y maceradas en aguardiente gallego de primera calidad; destaca por su aroma de hierbas maceradas en el dulce licor
-- Tiene un color amarillo intenso con reflejos verdosos
-- El Licor de Hierbas Ruavieja es el acompañante para darle importancia a lo que realmente importa, las personas
 - La entrada de este licor es dulce, y su sabor combina toques a hierbabuena, mentol y un fondo de camomila
+- El Licor de Hierbas Ruavieja es el acompañante para darle importancia a lo que realmente importa, las personas
+- Tiene un color amarillo intenso con reflejos verdosos
+- Para disfrutar del Licor de Hierbas Ruavieja se recomienda enfriar la botella y servir con hielo en un vaso ancho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VPK9PFP/?tag=tolees-21)
