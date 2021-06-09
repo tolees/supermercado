@@ -30,8 +30,8 @@ Tienes [NIVEA Exfoliante orgánico de frambuesa  limpieza facial natural con int
 
 - Fórmula natural: las frambuesas orgánicas son ricas en flavonoides y vitamina C. El exfoliante suave limpia la piel sensible sin irritarla
 - Intensidad suave: el exfoliante facial limpia suavemente los poros con una intensidad de exfoliación suave y es adecuado para pieles secas y sensibles
-- Sin microplásticos: en lugar de partículas exfoliantes de microplástico, el exfoliante natural se basa en arroz natural cultivado como partículas exfoliantes
 - Efecto protector: el ingrediente de glicerina es conocido por apoyar el equilibrio de humedad y proteger la piel de la sequedad
+- Sin microplásticos: en lugar de partículas exfoliantes de microplástico, el exfoliante natural se basa en arroz natural cultivado como partículas exfoliantes
 - Contenido y detalles: Nivea Reis Peeling Bio frambuesa (75 ml), exfoliante intensivo para piel seca y sensible, número de artículo 84928
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0875CHJ4D/?tag=tolees-21)

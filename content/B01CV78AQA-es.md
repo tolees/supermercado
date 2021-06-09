@@ -28,11 +28,11 @@ En este momento está [Schwarzkopf Professional Osis Bouncy Curls Gel With Oil G
 
 🔎:
 
-- Consistencia ligera
-- Protección térmica contra el secado
 - Control fuerte para rizos finos
+- Definición fuerte de los rizos y elasticidad
 - Tipo de cabello: con color
 - No es pegajoso ni sobrecarga el cabello
-- Definición fuerte de los rizos y elasticidad
+- Consistencia ligera
+- Protección térmica contra el secado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01CV78AQA/?tag=tolees-21)

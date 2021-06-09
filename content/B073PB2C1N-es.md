@@ -28,10 +28,10 @@ Está [Bourjois Velvet The Lipstick Barra de Labios Tono 10  Magni-fig   2.3 gr]
 
 ℹ️:
 
-- La punta en forma de lágrima permite una fácil aplicación
 - Hasta 24 horas de duración, sin sensación de sequedad
-- Barra de labios de larga duración con un intenso acabado mate
 - Enriquecido con suaves aceites hidrantes y pigmentos ricos en color que proporcionan un acabado aterciopelado
+- La punta en forma de lágrima permite una fácil aplicación
 - Acabado suave y voluminoso sin sensación de sequedad
+- Barra de labios de larga duración con un intenso acabado mate
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073PB2C1N/?tag=tolees-21)

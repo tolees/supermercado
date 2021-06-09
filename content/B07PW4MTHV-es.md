@@ -28,9 +28,9 @@ Tienes [OLAPLEX Suavizante de Enlaces Capilares No. 6](https://www.amazon.es/dp/
 
 🔎:
 
-- Hecho de material resistente para un uso prolongado
-- Producto útil y práctico
-- Calidad óptima para los requisitos del cliente
 - Olaplex Bond Smoother Nº-6 100ml. Diseño elegante y creativo
+- Calidad óptima para los requisitos del cliente
+- Producto útil y práctico
+- Hecho de material resistente para un uso prolongado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PW4MTHV/?tag=tolees-21)
