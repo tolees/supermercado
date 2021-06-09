@@ -28,14 +28,14 @@ Está [Marca Amazon - Solimo Men Limpiador facial de carbón activo con pantenol
 
 ℹ️:
 
-- Producido en Suiza
-- Envase de 4: 4 x 150ml
-- Para una sensación de piel revitalizada y renovada
-- Advertencia: Evitar la zona de los ojos
-- Formar espuma con el Gel Wash&Peel en sus manos y aplicar sobre la piel humedecida por la mañana y por la noche. Aclarar con agua tibia
 - Formulación suiza
+- Advertencia: Evitar la zona de los ojos
+- Envase de 4: 4 x 150ml
+- Producido en Suiza
 - El pantenol y la vitamina E favorecen el equilibrio de la piel
-- Este gel limpiador con carbón activo y rocas volcánicas está especialmente desarrollado para la piel del hombre
+- Para una sensación de piel revitalizada y renovada
+- Formar espuma con el Gel Wash&Peel en sus manos y aplicar sobre la piel humedecida por la mañana y por la noche. Aclarar con agua tibia
 - Advertencia: Evitar el contacto con los textiles o similares ya que puede causar decoloración
+- Este gel limpiador con carbón activo y rocas volcánicas está especialmente desarrollado para la piel del hombre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SY1WVCP/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Magno - Gel de Ducha Marine - 6uds de 650ml  3.900ml  – Regenera y rev
 
 🔎:
 
-- Un gel de ducha con un agradable frescor que gracias a su rica fórmula con extracto de Ginkgo regenera y revitaliza la piel dejándola suave
 - Aplicar sobre la piel previamente mojada y masajear con las manos o con la ayuda de una esponja; aclarar con abundante agua
-- Magno Marine te envuelve con una fragancia tonificante y refrescante que evoca las sensaciones del mar
 - Con una base de ámbar, notas frutales y florales, proporciona una sensación de frescor marino
 - Disfruta del frescor del mar durante cualquier época del año
+- Un gel de ducha con un agradable frescor que gracias a su rica fórmula con extracto de Ginkgo regenera y revitaliza la piel dejándola suave
+- Magno Marine te envuelve con una fragancia tonificante y refrescante que evoca las sensaciones del mar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WMRYD4Z/?tag=tolees-21)

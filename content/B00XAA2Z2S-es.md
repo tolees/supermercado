@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mic&Friends - Paté Con Buey - Alimento C al 0.00 % de descuento'
-date: 2021-05-27 19:55:36
+date: 2021-06-09 12:40:21
 image: 'https://m.media-amazon.com/images/I/51tC7E5wX7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [Mic&Friends - Paté Con Buey - Alimento Completo para Perros
 
 🔎:
 
-- Puede contener Gluten o presencia de cereales que contienen gluten
-- Se debe conservar en un lugar fresco y seco
-- Una vez abierto conservar en el frigorífico y consumir en dos días
 - Contiene Vitamina E
+- Una vez abierto conservar en el frigorífico y consumir en dos días
+- Se debe conservar en un lugar fresco y seco
+- Puede contener Gluten o presencia de cereales que contienen gluten
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XAA2Z2S/?tag=tolees-21)
