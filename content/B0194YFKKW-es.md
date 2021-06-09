@@ -28,8 +28,8 @@ Tienes [Scottex Original Papel Higiénico - 6 Rollos](https://www.amazon.es/dp/B
 
 🔎:
 
-- Suavidad Irresistible
-- Equilibrio perfecto, suavidad y resistencia
 - 6 rollos
+- Equilibrio perfecto, suavidad y resistencia
+- Suavidad Irresistible
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0194YFKKW/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [Café de Colombia en grano Consuelo  2 paquetes de 1 kg](https://www.ama
 🔎:
 
 - Para cafeteras y molinillos automáticos
-- Tostado y envasado en Italia
-- Composición: granos 100 % arábica especialmente seleccionados
-- El café Consuelo “Colombia” tiene el equilibrio perfecto entre fragancias a frutas frescas, almendras, nueces y tofe, y termina con un toque de cereales y pan tostado: la calidez del sol suramericano en una taza
 - 2 paquetes de 1 kg
+- El café Consuelo “Colombia” tiene el equilibrio perfecto entre fragancias a frutas frescas, almendras, nueces y tofe, y termina con un toque de cereales y pan tostado: la calidez del sol suramericano en una taza
+- Composición: granos 100 % arábica especialmente seleccionados
+- Tostado y envasado en Italia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XWW9CYT/?tag=tolees-21)

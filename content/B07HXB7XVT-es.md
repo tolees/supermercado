@@ -29,14 +29,14 @@ Ahora mismo tienes [Marca Amazon - Lifelong Complete- Alimento seco completo par
 🔎:
 
 - Con glucosamina y condroitina para mejorar las articulaciones; Con taurina para tener la vista y el corazón saludables
+- Con biotina, zinc y linaza: una fuente natural de Omega 3 para mantener la piel y el cabello sanos
 - El ingrediente nº1: pollo
+- Comida para perros adultos: nutrición 100% completa y equilibrada
 - Sin soja, cebada ni productos lácteos. Receta sabrosa con proteínas de alta calidad
+- Sin aromas, colores o conservantes artificiales
+- Con pollo fresco; carne y derivados animales: aprox. un 30%
 - Diseñada por nutricionistas de animales y revisada por veterinarios
 - Conservar en un lugar fresco, seco y oscuro. Una vez abierto, volver a sellar lo más hermético posible
 - Prebióticos naturales para mejorar la digestión sensible
-- Sin aromas, colores o conservantes artificiales
-- Comida para perros adultos: nutrición 100% completa y equilibrada
-- Con biotina, zinc y linaza: una fuente natural de Omega 3 para mantener la piel y el cabello sanos
-- Con pollo fresco; carne y derivados animales: aprox. un 30%
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HXB7XVT/?tag=tolees-21)

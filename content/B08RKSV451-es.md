@@ -28,12 +28,12 @@ Está [Optimum Nutrition Whipped Bar  Barritas Proteínas con Cobertura de Choco
 
 ℹ️:
 
-- Barrita con alto contenido en proteínas; 20 g de mezcla de proteínas compuesta de cuatro fuentes de proteínas de digestión rápida y lenta
-- Bajo contenido en azúcar, solo 2 g de azúcar por barrita
-- Whipped protein bars de optimum nutrition (on), que lleva estableciendo el gold standard en la nutrición deportiva desde hace más de 30 años
-- Se puede disfrutar sobre la marcha, en el gimnasio, antes o después del ejercicio, como snack después o antes del ejercicio y entre comidas
-- Adecuado como aporte extra para el crecimiento y el mantenimiento de la masa muscular
 - Un snack para gente activa, aficionados del fitness y atletas profesionales
+- Adecuado como aporte extra para el crecimiento y el mantenimiento de la masa muscular
+- Whipped protein bars de optimum nutrition (on), que lleva estableciendo el gold standard en la nutrición deportiva desde hace más de 30 años
+- Barrita con alto contenido en proteínas; 20 g de mezcla de proteínas compuesta de cuatro fuentes de proteínas de digestión rápida y lenta
 - La proteína contribuye al crecimiento y mantenimiento de la masa muscular; fuente: reglamento de la comisión (ue) nº 432/2012 de 16 de mayo de 2013
+- Bajo contenido en azúcar, solo 2 g de azúcar por barrita
+- Se puede disfrutar sobre la marcha, en el gimnasio, antes o después del ejercicio, como snack después o antes del ejercicio y entre comidas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RKSV451/?tag=tolees-21)

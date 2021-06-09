@@ -29,7 +29,7 @@ Está [COLGATE Herbal  Pasta de Dientes  Dientes y Encías Más Sanas con Ingred
 ℹ️:
 
 - Contiene flúor y extractos de plantas
-- Consigue unos dientes y unas encías más sanos
 - Contiene extractos de hierbas naturales: menta, manzanilla, camomila, eucalipto
+- Consigue unos dientes y unas encías más sanos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00OQKZAT6/?tag=tolees-21)

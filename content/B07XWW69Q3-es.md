@@ -28,8 +28,8 @@ En este momento está [Café orgánico en grano Consuelo de comercio justo  2 pa
 
 🔎:
 
-- Tostado y envasado en Italia
 - Composition: made from 100% specially selected organic Arabica beans
+- Tostado y envasado en Italia
 - Elaborado exclusivamente con arábica 100 % ecológico, el café Consuelo cumple con las reglas de producción del comercio justo, por lo que respeta los valores éticos. Esta mezcla destaca por su armonía sensorial
 - Para cafeteras y molinillos automáticos
 - Envase de 2 x 1kg

@@ -28,10 +28,10 @@ En este momento está [Relevo 100% Reciclado Bolsas de Basura  extra resistentes
 
 🔎:
 
-- Los certificados Angel Azul & PEFC aseguran que las Bolsas de Basura Relevo tienen un impacto medioambiental mucho menor que las bolsas de plástico virgen
-- Contiene 1 rollo con 15 bolsas. Cada bolsa mide 55 x 60 CM
 - Reciclamos 315 Gramos de plástico para producir estas 15 bolsas
-- Su sistema antigoteo permite arrojar desperdicios húmedos, evitando derrames
 - Estas bolsas ecológicas resisten hasta 25 kg y está libre de los inconvenientes de las bolsas biodegradables
+- Contiene 1 rollo con 15 bolsas. Cada bolsa mide 55 x 60 CM
+- Los certificados Angel Azul & PEFC aseguran que las Bolsas de Basura Relevo tienen un impacto medioambiental mucho menor que las bolsas de plástico virgen
+- Su sistema antigoteo permite arrojar desperdicios húmedos, evitando derrames
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078T3YLS8/?tag=tolees-21)

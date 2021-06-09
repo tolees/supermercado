@@ -28,10 +28,10 @@ Está [Tovess Ginebra de naranja y clementina - 700 ml](https://www.amazon.es/dp
 
 ℹ️:
 
-- Esta ginebra refrescante se caracteriza por sus sabores cítricos intensos
 - La ginebra Tovess de naranja y clementina tiene una graduación alcohólica de 40,0°
-- Elaborada a mano por expertos y destilado de manera tradicional con alambiques de cobre
-- Con una mezcla compleja de frutas cítricas y la frescura amarga del enebro y el cilantro
 - Se recomienda servir con tónica o limonada y decorar con una rodaja de naranja
+- Esta ginebra refrescante se caracteriza por sus sabores cítricos intensos
+- Con una mezcla compleja de frutas cítricas y la frescura amarga del enebro y el cilantro
+- Elaborada a mano por expertos y destilado de manera tradicional con alambiques de cobre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0876JF6MW/?tag=tolees-21)
