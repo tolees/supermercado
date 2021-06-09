@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pulvera - Puleva Batido de Chocolate  6  al 23.49 % de descuento'
-date: 2021-06-04 14:52:46
+date: 2021-06-08 21:16:59
 image: 'https://m.media-amazon.com/images/I/51AAcmKt-TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
