@@ -28,10 +28,10 @@ Está [L Oreal Paris Men Expert - L Oréal Paris Men Expert Hydra Power  Gel Hid
 
 ℹ️:
 
-- Fórmula enriquecida con agua de montaña francesa y ácido hialurónico para reforzar la resistencia de la piel y prevenir su deshidratación a lo largo del día
 - Protege la piel de la sensación de tensión y tirantez, para un acabado cómodo e hidratado
-- Gel hidratante refrescante que nutre y calma el rostro en profundidad
+- Fórmula enriquecida con agua de montaña francesa y ácido hialurónico para reforzar la resistencia de la piel y prevenir su deshidratación a lo largo del día
 - Textura agua-gel fresca que se transforma en agua en el momento de la aplicación y se absorbe de manera inmediata
 - Como resultado, un cuidado intenso y profundo de la piel, que se mantiene confortable e hidratada 48 horas
+- Gel hidratante refrescante que nutre y calma el rostro en profundidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01FV7PO16/?tag=tolees-21)
