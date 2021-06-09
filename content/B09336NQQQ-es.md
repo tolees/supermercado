@@ -28,10 +28,10 @@ Está [FILFEEL - Aceite esencial de masaje  aceite esencial hidratante de extrac
 
 ℹ️:
 
-- 【RELAJAR SU CUERPO Y ALIVIAR EL ESTRÉS】 Los aceites de aromaterapia naturales pueden relajar el cuerpo, aliviar la ansiedad, controlar la grasa e hidratar, y promover el metabolismo corporal, muy adecuados para hidratar la piel seca.
 - 【INSTRUCCIONES】 Los aceites esenciales no deben usarse directamente sobre la piel. Deben diluirse con aceite base o loción antes de su uso. Se recomienda mezclar 10 ml de aceite base con ≤5 gotas de aceite esencial.
-- 【RECOMENDACIONES】 Puede usar aceite de masaje para masajear su frente, palmas, cuello, espalda, pies u otras partes afectadas de su cuerpo. Después de usarlo, sentirá que su piel se vuelve delicada y firme.
-- 【RECETA DE SEGURIDAD】 Nuestro aceite esencial de masaje sin aditivos, sin rellenos, solo aceites esenciales puros, seguro de usar y no irritante, para que pueda elegir con confianza.
 - 【PREVIENE EFECTIVAMENTE LA DEGRADACIÓN】 El aceite esencial de planta Pressure Relif viene en una botella marrón de 10 ml, que mantendrá el aceite fresco y ayudará a prevenir la fotodegradación.
+- 【RELAJAR SU CUERPO Y ALIVIAR EL ESTRÉS】 Los aceites de aromaterapia naturales pueden relajar el cuerpo, aliviar la ansiedad, controlar la grasa e hidratar, y promover el metabolismo corporal, muy adecuados para hidratar la piel seca.
+- 【RECETA DE SEGURIDAD】 Nuestro aceite esencial de masaje sin aditivos, sin rellenos, solo aceites esenciales puros, seguro de usar y no irritante, para que pueda elegir con confianza.
+- 【RECOMENDACIONES】 Puede usar aceite de masaje para masajear su frente, palmas, cuello, espalda, pies u otras partes afectadas de su cuerpo. Después de usarlo, sentirá que su piel se vuelve delicada y firme.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B09336NQQQ/?tag=tolees-21)
