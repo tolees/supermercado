@@ -28,10 +28,10 @@ Está [Schwarzkopf Gliss - GLISS - Tratamiento Express 7 Segundos - Ultimate Rep
 
 ℹ️:
 
-- El tratamiento express 7 segundos de GLISS reparara sin sobrecargar el cabello
 - Para un brillo y reparación intensa
-- Tan potente como una mascarilla clásica en solo 7 segundos
 - Modo de Uso: Lávate el cabello; Usa 1 dosis para cabello corto y 1-2 para cabello largo; Aplicar directa y uniformemente en largos y puntas ; Dejar actuar durante 7 segundos; Aclarar abundantemente
+- El tratamiento express 7 segundos de GLISS reparara sin sobrecargar el cabello
 - Su fórmula se transforma de líquido a una suave crema que proporciona hasta un 90% menos de rotura del cabello durante el cepillado
+- Tan potente como una mascarilla clásica en solo 7 segundos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B091VQRY1W/?tag=tolees-21)

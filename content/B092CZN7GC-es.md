@@ -30,8 +30,8 @@ Ahora mismo tienes [LDREAMAM - Mascarilla de té verde Mascarilla sólida de Con
 
 - Mascarilla de té verde: la mascarilla de limpieza fija para té verde contiene extracto de té verde y extractos de plantas naturales que suavizan eficazmente la piel muerta, limpia y cuida, que deja la piel suave y brillante, hipoalergénica.
 - Mascarilla de té verde: la mascarilla de limpieza fija para té verde contiene extracto de té verde y extractos de plantas naturales que suavizan eficazmente la piel muerta, limpia y cuida, que deja la piel suave y brillante, hipoalergénica.
-- Mascarilla de té verde: la mascarilla de limpieza fija para té verde contiene extracto de té verde y extractos de plantas naturales que suavizan eficazmente la piel muerta, limpia y cuida, que deja la piel suave y brillante, hipoalergénica.
-- Mascarilla de té verde: la mascarilla de limpieza fija para té verde contiene extracto de té verde y extractos de plantas naturales que suavizan eficazmente la piel muerta, limpia y cuida, que deja la piel suave y brillante, hipoalergénica.
 - Comodidad: la apariencia especial del palo de té verde sólido tiene una textura fina y suave, es fácil de llevar y fácil de usar. La máscara rígida no tiene fluidez y no mancha la ropa cuando se utiliza.
+- Mascarilla de té verde: la mascarilla de limpieza fija para té verde contiene extracto de té verde y extractos de plantas naturales que suavizan eficazmente la piel muerta, limpia y cuida, que deja la piel suave y brillante, hipoalergénica.
+- Mascarilla de té verde: la mascarilla de limpieza fija para té verde contiene extracto de té verde y extractos de plantas naturales que suavizan eficazmente la piel muerta, limpia y cuida, que deja la piel suave y brillante, hipoalergénica.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B092CZN7GC/?tag=tolees-21)
