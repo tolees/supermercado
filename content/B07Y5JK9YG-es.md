@@ -28,9 +28,9 @@ Tienes [Der-Franz - Café Espresso con certificación UTZ  en grano  1000 g](htt
 
 🔎:
 
-- Tostado con pasión y siguiendo la experta tradición vienesa desde 1929; suavemente aromatizado con un tostado de tambor a largo plazo
-- Granos cuidadosamente seleccionados (70 % arábica, 30 % robusta) para obtener el café perfecto, suave y cremoso, con el auténtico sabor italiano, fuerte y ligeramente amargo.
-- Der-Franz Espresso: café tostado en granos enteros; intensidad 5 de 5; tostado 5 de 5; acidez 1 de 5; con robusta, un imprescindible para el auténtico Espresso italiano; mezcla perfecta para Ristretto, Espresso o Cappuccino
 - Todas nuestras variedades tienen la certificación UTZ como parte de Rainforest Alliance; llevamos la sostenibilidad y la responsabilidad medioambiental en nuestro corazón
+- Granos cuidadosamente seleccionados (70 % arábica, 30 % robusta) para obtener el café perfecto, suave y cremoso, con el auténtico sabor italiano, fuerte y ligeramente amargo.
+- Tostado con pasión y siguiendo la experta tradición vienesa desde 1929; suavemente aromatizado con un tostado de tambor a largo plazo
+- Der-Franz Espresso: café tostado en granos enteros; intensidad 5 de 5; tostado 5 de 5; acidez 1 de 5; con robusta, un imprescindible para el auténtico Espresso italiano; mezcla perfecta para Ristretto, Espresso o Cappuccino
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Y5JK9YG/?tag=tolees-21)

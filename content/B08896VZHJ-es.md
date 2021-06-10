@@ -28,8 +28,8 @@ Está [La Sagra Bohemia Cerveza Lager estilo Pilsener -pack 24 latas x 330 ml - 
 
 ℹ️:
 
+- Aroma lupulado
 - De color dorado y espuma firme
 - Amargor gradual con final maltoso ligero
-- Aroma lupulado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08896VZHJ/?tag=tolees-21)
