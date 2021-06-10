@@ -28,11 +28,11 @@ Está [Hero Baby Tarritos con trocitos de verdura  ternera y arroz pack de 12x23
 
 ℹ️:
 
-- Sin conservantes ni colorantes
-- Ideal para aprender a masticar
-- Sin gluten
-- Ingredientes: Verduras (54%) tomate, zanahoria y cebolla), agua de cocción,carne de ternera(8,5%), arroz (8%), aceite de oliva virgen (1,8%), y especias
-- 100% Natural
 - Sin aceite de palma
+- Sin conservantes ni colorantes
+- 100% Natural
+- Ingredientes: Verduras (54%) tomate, zanahoria y cebolla), agua de cocción,carne de ternera(8,5%), arroz (8%), aceite de oliva virgen (1,8%), y especias
+- Sin gluten
+- Ideal para aprender a masticar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088HXJRM1/?tag=tolees-21)
