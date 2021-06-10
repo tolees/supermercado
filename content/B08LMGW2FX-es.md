@@ -30,8 +30,8 @@ Ahora mismo tienes [GLISS - Champú BioTech Restore - 6uds de 370ml  2.220ml   P
 
 - El champú BioTech Restore de Gliss es adecuado para cabello sensibilizado, delicado
 - Cabello hasta un 90% más fuerte. Restaura y fortalece el cabello. Sin siliconas
-- Gama Regeneradora, con complejo de células madre vegetales + agua de rosas regenera el cabello de raíces a punta y estimula el folículo capilar
-- Aplicación: masajear sobre el cabello húmedo. Dejar actuar 1 minuto. Aclarar con abundante agua. Usar regularmente
 - 90% de ingredientes de origen natural incluyendo agua
+- Aplicación: masajear sobre el cabello húmedo. Dejar actuar 1 minuto. Aclarar con abundante agua. Usar regularmente
+- Gama Regeneradora, con complejo de células madre vegetales + agua de rosas regenera el cabello de raíces a punta y estimula el folículo capilar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08LMGW2FX/?tag=tolees-21)
