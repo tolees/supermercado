@@ -28,8 +28,8 @@ En este momento está [Caja de Marqués de la Concordia Reserva D.O Rioja Vino t
 
 🔎:
 
+- Volumen: 4.5 litros
 - Volumen paquete: 4500.0 mililitros
 - Contenido de alcohol (alc./vol.): 14 porcentaje por volumen
-- Volumen: 4.5 litros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L9KV88P/?tag=tolees-21)
