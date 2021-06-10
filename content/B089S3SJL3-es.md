@@ -28,10 +28,10 @@ En este momento está [Duron - Durón – Vino Tinto Crianza 2017 Denominación 
 
 🔎:
 
-- COLOR: Ofrece un bonito color rubí-cereza de buena intensidad
-- Variedad de uva: 100% tempranillo
 - AROMA: En nariz dominan las frutas rojas (cassis y grosella) y en un segundo plano negras (mora), especiado (clavo y pimienta)
 - CRIANZA: 12 meses en barricas de roble americano
+- Variedad de uva: 100% tempranillo
 - BOCA: Fresco en boca, equilibrado, sabroso, con un buen paso sin perder ritmo, terminando con sensaciones de taninos muy pulidos y placenteras sensaciones aromáticas que permanecen en boca
+- COLOR: Ofrece un bonito color rubí-cereza de buena intensidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089S3SJL3/?tag=tolees-21)

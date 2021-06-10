@@ -29,10 +29,10 @@ Tienes [Ballantine`s - Ballantine s Blue 12 años Whisky Escocés de Mezcla - 70
 ℹ️:
 
 - Ballantines Blue es un whisky rico, suave y complejo, mezclado con whiskeys selectos de una malta distinta y cereales
-- Se caracteriza por un sabor a miel con notas florales, y un cremoso toque de roble
 - Este whiskey es una mezcla dulce de whiskies añejados durante un mínimo de 12 años
-- Se recomienda servir solo, con hielo o con un poco de soda
 - El aroma a miel de este whiskey es dulce, con toques de roble y de vainilla
+- Se recomienda servir solo, con hielo o con un poco de soda
 - El color miel dorado es intenso, y el acabado es duradero, refrescante y dulce
+- Se caracteriza por un sabor a miel con notas florales, y un cremoso toque de roble
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005NEKMOC/?tag=tolees-21)
