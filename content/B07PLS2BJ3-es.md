@@ -28,11 +28,11 @@ En este momento está [Rexona - Antitranspirante](https://www.amazon.es/dp/B07PL
 
 🔎:
 
-- El desodorante con la tecnología probada Motionsense.
-- El spray antitranspirante de Rexona no te defraudará.
 - Hasta 48 horas de protección fiable contra el olor corporal y la humedad de las axilas.
+- Fragancia clásica y femenina.
+- El spray antitranspirante de Rexona no te defraudará.
 - Para una sensación de frescura seca bajo las axilas.
 - Para mujeres activas: cuanto más se mueve, más protege
-- Fragancia clásica y femenina.
+- El desodorante con la tecnología probada Motionsense.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PLS2BJ3/?tag=tolees-21)

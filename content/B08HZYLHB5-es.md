@@ -28,8 +28,8 @@ Tienes [L Oréal Paris Elvive Total Repair 5 Mascarilla Reparadora  pack de 3 un
 
 ℹ️:
 
-- Nuestros envases están producidos con plástico 100% reciclado y son 100% reciclables
 - 3 Mascarillas de 300 ml
+- Nuestros envases están producidos con plástico 100% reciclado y son 100% reciclables
 - Nuestra Mascarilla Reparadora intensiva potenciada con un 10% de concentrado reparador con Keratina XS, repara y refuerza el cabello para combatir los 5 signos del pelo muy dañado
 - Consigue un pelo hasta 100% reparado en sólo 5 días; RETO5DÍAS
 
