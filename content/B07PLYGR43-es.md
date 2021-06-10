@@ -28,11 +28,11 @@ En este momento está [Desodorante Rexona Men en spray Sport Defence antitranspi
 
 🔎:
 
-- Rexona no te defraudará
-- Con la tecnología probada motionsense
-- 48 horas de protección contra el olor corporal y la humedad de las axilas
-- Un aroma fresco y deportivo
 - Cuanto más se mueve, más protege Rexona
+- 48 horas de protección contra el olor corporal y la humedad de las axilas
+- Con la tecnología probada motionsense
 - Desodorante Rexona Men Sport Defence, antitranspirante, el compañero ideal durante el entrenamiento o competición
+- Un aroma fresco y deportivo
+- Rexona no te defraudará
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PLYGR43/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Sagra Bohemia Cerveza Lager estilo Pi al 24.44 % de descuento'
-date: 2021-06-09 06:26:39
+date: 2021-06-10 07:32:31
 image: 'https://m.media-amazon.com/images/I/51ENT6+UPcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'La Sagra'
 buyurl: 'https://www.amazon.es/dp/B08896VZHJ/?tag=tolees-21'
 descuento: '24.44'
-average: '14.5266666666667'
+average: '14.295'
 ---
 
 Está [La Sagra Bohemia Cerveza Lager estilo Pilsener -pack 24 latas x 330 ml - Total: 7920 ml](https://www.amazon.es/dp/B08896VZHJ/?tag=tolees-21) con 24.44 de descuento por 13.6 EUR (original: 18.0 EUR) en el siguiente enlace!
