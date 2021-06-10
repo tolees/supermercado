@@ -28,12 +28,12 @@ Tienes [Oral-B CrossAction - Cabezales de repuesto para cepillo de dientes eléc
 
 🔎:
 
+- De la marca de cepillos de dientes utilizada por dentistas
+- Número de cabezales de cepillo incluidos en el paquete: 3
+- Con la tecnología CleanMaximiser, las cerdas verdes se vuelven amarillas cuando es hora de reemplazar el cabezal
+- Compatible con todos los cepillos Oral-B, excepto Pulsonic y iO
 - Elimina la placa hasta un 100% más y las encías más saludables que un cepillo de dientes manual tradicional
 - Óptima inclinación de 16 grados para llegar a profundidad en los espacios interdentales y eliminar la placa
 - Oral-B es óptimo para una limpieza completa de la boca (excepto Oral-B iO)
-- Número de cabezales de cepillo incluidos en el paquete: 3
-- Con la tecnología CleanMaximiser, las cerdas verdes se vuelven amarillas cuando es hora de reemplazar el cabezal
-- De la marca de cepillos de dientes utilizada por dentistas
-- Compatible con todos los cepillos Oral-B, excepto Pulsonic y iO
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089KZBL4S/?tag=tolees-21)
