@@ -28,9 +28,9 @@ En este momento está [L Oreal Professionnel Paris - L Oreal Professionnel Champ
 
 🔎:
 
-- Ofrece al cabello un aspecto saludable
 - Aporta cuerpo y vigor a la fibra
 - Libera suavemente el cuero cabelludo de impurezas y residuos
 - Revitaliza el cabello
+- Ofrece al cabello un aspecto saludable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PXQ9D23/?tag=tolees-21)
