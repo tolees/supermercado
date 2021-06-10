@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NS NATURE SMART EUROPE - Jarabe de Pino| al 0.00 % de descuento'
-date: 2021-05-25 23:01:21
+date: 2021-06-10 09:20:05
 image: 'https://m.media-amazon.com/images/I/51EPFDNlJ6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [NS NATURE SMART EUROPE - Jarabe de Pino|Complemento Alimenticio con Vitam
 
 ℹ️:
 
+- -JARABE PERFECTO PARA ALIVIA LOS SÍNTOMAS DE LA TOS: El jarabe de NatureSmart está formulado con una selección y la dosis perfecta de las plantas medicinales y vitaminas para aliviar la tos y las molestias en el pecho
+- -SUAVIZA LAS MOLESTIAS EN PECHO Y GARGANTA: El jarabe de pino NatureSmart, con echinacea y propóleo alivia las molestias de la garganta durante la gripe. Sus componentes son ideales para prevenir las molestias los catarros durante el invierno.
 - -REFUERZA NUESTRAS DEFENSAS: El jarabe de pino y vitaminas, posee una combinación de de cobre y zinc ideal para reforzar las defensas .
 - -PERFECTO PARA EL INVIERNO: EL jarabe de pino es un suplemento alimenticio perfecto para tomarlo en invierno, época en la que nuestras defensas están más bajas y tendemos a tener tos y otros síntomas.
-- -SUAVIZA LAS MOLESTIAS EN PECHO Y GARGANTA: El jarabe de pino NatureSmart, con echinacea y propóleo alivia las molestias de la garganta durante la gripe. Sus componentes son ideales para prevenir las molestias los catarros durante el invierno.
 - -JARABE DE PINO 100% NATURAL PARA ALIVIAR LA TOS: El Jarabe de Pino con Propóleo, Sauce, Sauco, Tomillo y vitaminas, es una combinación de plantas eficaces para aliviar la tos. Todos sus componentes son 100% naturales formulados para suavizar los dolores de garganta, la tos y reforzar nuestras defensas.
-- -JARABE PERFECTO PARA ALIVIA LOS SÍNTOMAS DE LA TOS: El jarabe de NatureSmart está formulado con una selección y la dosis perfecta de las plantas medicinales y vitaminas para aliviar la tos y las molestias en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RFR9Q6G/?tag=tolees-21)
