@@ -28,10 +28,10 @@ Ahora mismo tienes [Gillette SkinGuard Espuma de Afeitar Hombre  200 ml - Pack d
 
 🔎:
 
-- 0 % de colorantes y 0 % de alcohol
 - Espuma de afeitado para pieles sensibles con un toque de aloe
-- Testada dermatológicamente
 - Ayuda a que tu maquinilla se deslice suavemente sobre la piel
+- Testada dermatológicamente
+- 0 % de colorantes y 0 % de alcohol
 - Ayuda a proteger tu piel contra la irritación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086Z5DG7D/?tag=tolees-21)

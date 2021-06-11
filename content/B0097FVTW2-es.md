@@ -28,10 +28,10 @@ Ahora mismo tienes [OGX Champú Aceite de Argán de Marruecos  Pelo Secos y Dañ
 
 🔎:
 
-- Su fórmula ayuda a proteger el cabello de los efectos del secador y la plancha
-- El Champú de Aceite de Argán de Marruecos de OGX ayuda a hidratar, dar vida, suavidad y fuerza al cabello
-- Cada mechón de su cabello tendrá un aspecto bonito; disfrute de un cabello más denso, más abundante y más saludable
 - Su fórmula es rica en antioxidantes y fuente natural de vitamina E, lo cual ayuda a fortalecer el pelo frágil y lo protege de los daños causados por la exposición a los rayos UV
+- El Champú de Aceite de Argán de Marruecos de OGX ayuda a hidratar, dar vida, suavidad y fuerza al cabello
+- Su fórmula ayuda a proteger el cabello de los efectos del secador y la plancha
+- Cada mechón de su cabello tendrá un aspecto bonito; disfrute de un cabello más denso, más abundante y más saludable
 - Para óptimos resultados, utilice este champú junto con el resto de productos de la gama de Argán de Marruecos de OGX
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0097FVTW2/?tag=tolees-21)

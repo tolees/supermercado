@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Caja de Marqués de la Concordia Reserva  con un 22.72 % de descuento'
-date: 2021-06-10 10:01:18
+date: 2021-06-11 10:10:49
 image: 'https://m.media-amazon.com/images/I/51g4sUG8SDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Caja de Marqués de la Concordia Reserva D.O Rioja Vino t
 
 🔎:
 
+- Contenido de alcohol (alc./vol.): 14 porcentaje por volumen
 - Volumen: 4.5 litros
 - Volumen paquete: 4500.0 mililitros
-- Contenido de alcohol (alc./vol.): 14 porcentaje por volumen
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L9KV88P/?tag=tolees-21)

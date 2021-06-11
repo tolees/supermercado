@@ -28,12 +28,12 @@ Ahora mismo tienes [Fanta Naranja - Refresco con 8% de zumo de naranja  bajo en 
 
 🔎:
 
-- Toma tu refresco solo o mezclado, bien frío con mucho hielo y una rodaja de Naranja
 - Fanta pack de 2 botellas de 2 litros para que disfrute toda la familia
-- Botella elaborada con 25% de material reciclado
-- Deliciosa bebida refrescante con gas sabor Naranja
-- Envase 100% reciclable (contenedor amarillo)
-- Refresco con un 8% de zumo de naranja
 - Nuestra bebida de naranja ahora con un 42% menos de azúcar y baja en calorías
+- Deliciosa bebida refrescante con gas sabor Naranja
+- Botella elaborada con 25% de material reciclado
+- Toma tu refresco solo o mezclado, bien frío con mucho hielo y una rodaja de Naranja
+- Refresco con un 8% de zumo de naranja
+- Envase 100% reciclable (contenedor amarillo)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00F8EE2HK/?tag=tolees-21)
