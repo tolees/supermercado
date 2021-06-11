@@ -28,8 +28,8 @@ Tienes [Veggie&Nature - Mezcla vegana para hamburguesas de espinacas sin gluten 
 
 🔎:
 
-- Ingredientes saludables y superalimentos. Las hamburguesas vegetarianas se han seleccionado sobre la base de superalimentos sin gluten de alto valor, como copos de quinoa, copos de avena, harina de garbanzo y trigo sarraceno blanco.
 - Hamburguesas a base de plantas
+- Ingredientes saludables y superalimentos. Las hamburguesas vegetarianas se han seleccionado sobre la base de superalimentos sin gluten de alto valor, como copos de quinoa, copos de avena, harina de garbanzo y trigo sarraceno blanco.
 - Ellos son una rica fuente de proteínas, fibra y magnesio.
 - Fácil de preparar y listo en solo 20 minutos, como a usted le guste.
 
