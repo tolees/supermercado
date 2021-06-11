@@ -28,8 +28,8 @@ En este momento está [Calvo - Mejillones en escabeche  3 x 80 g - [pack de 5]](
 
 🔎:
 
-- Alto Omega3
 - Contiene Moluscos y/o productos a base de moluscos
 - Alto contenido ácidos Grasos Omega3
+- Alto Omega3
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M0F8Y3M/?tag=tolees-21)
