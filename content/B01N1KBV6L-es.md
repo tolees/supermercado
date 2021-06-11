@@ -28,10 +28,10 @@ Está [HOMCOM Mesa de Centro Café Mesa Auxiliar de Salón de Forma S con Compar
 
 ℹ️:
 
-- ✅MESA DE CENTRO CUADRADA: su diseño geométrico en forma de S y su combinación de tablero de partículas y metal, le dan un aspecto actual y muy moderno. Así tendrás funcionalidad y diseño en una sola pieza de mobiliario.
-- ✅FÁCIL DE LIMPIAR: pásale un paño húmedo o seco para que tu mesa esté siempre perfecta.
-- ✅MEDIDAS: 50x50x50 cm (LxANxAL). Soporta un peso máximo total de 10 kg.
 - ✅COMPACTA: sus medidas son compactas para poderse utilizar en infinidad de espacios, ya sea como mesita de noche o como mesa auxiliar. Aunque compacta, su diseño en S le permite ofrecer un gran espacio para ordenar tus cosas.
+- ✅MEDIDAS: 50x50x50 cm (LxANxAL). Soporta un peso máximo total de 10 kg.
+- ✅FÁCIL DE LIMPIAR: pásale un paño húmedo o seco para que tu mesa esté siempre perfecta.
 - ✅DOBLE NIVEL: su diseño en diferentes niveles te ofrece un espacio extra de almacenaje, ya que además de la superficie de la mesa tienes dos estantes donde colocar, por ejemplo, el mando de la televisión o revistas.
+- ✅MESA DE CENTRO CUADRADA: su diseño geométrico en forma de S y su combinación de tablero de partículas y metal, le dan un aspecto actual y muy moderno. Así tendrás funcionalidad y diseño en una sola pieza de mobiliario.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N1KBV6L/?tag=tolees-21)
