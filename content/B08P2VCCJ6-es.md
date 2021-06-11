@@ -28,9 +28,9 @@ Está [dyc Whisky Pack + Miniatura - 1000ml](https://www.amazon.es/dp/B08P2VCCJ6
 
 ℹ️:
 
-- Óptimo equilibrio de sabores que resaltan su robustez
 - Se puede servir solo o con gaseosa y limón; si lo bebes solo, siempre en vaso bajo y mucho hielo
-- Viene con 6 botellas de whiskey
 - Producto de alta calidad
+- Óptimo equilibrio de sabores que resaltan su robustez
+- Viene con 6 botellas de whiskey
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08P2VCCJ6/?tag=tolees-21)

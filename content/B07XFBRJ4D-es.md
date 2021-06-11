@@ -28,10 +28,10 @@ Tienes [Bebida energética en polvo pre entreno  suplemento de hidratos de carbo
 
 🔎:
 
-- ➤ BEBIDA ENERGÉTICA: Fuente de hidratos de carbono de bajo índice glucémico que, tomados antes del ejercicio, permite recargar los depósitos de glucógeno y tener más combustible para la actividad física. Recomendado para el consumo en el pre entrenamiento.
-- ➤ COMPONENTES: Taurina, l-glutamina, l-arginina y l-tirosina para combatir la fatiga e incrementar tu rendimiento durante el entrenamiento. También contiene Vitaminas E, C y B (2 y 6), que evitan el desgaste muscular durante el entrenamiento. También contiene Electrolitos que facilitan una hidratación muscular correcta durante el ejercicio.
 - ➤ SUMINISTRA ENERGIA: Proporciona al cuerpo una fuente de energía de la que disponer fácilmente al realizar ejercicio. Mejora el rendimiento físico; aumenta la energía; reduce la fatiga.
 - ➤ EXCELENTE CALIDAD Y FORMULACIÓN: Muy Bajo en Grasa, Alto en Carbohidratos, Sin Gluten, Excelente Digestabilidad y Sabor Intenso.
 - ➤ PRESENTACIÓN DEL PRODUCTO ENERGÉTICO: Bebida Energética en polvo, dentro de los suplementos deportivos. Se presenta en Bote de 1,1Kg en polvo apto para disolver estés donde estés, con sabor a Naranja y dosificador incorporado.
+- ➤ BEBIDA ENERGÉTICA: Fuente de hidratos de carbono de bajo índice glucémico que, tomados antes del ejercicio, permite recargar los depósitos de glucógeno y tener más combustible para la actividad física. Recomendado para el consumo en el pre entrenamiento.
+- ➤ COMPONENTES: Taurina, l-glutamina, l-arginina y l-tirosina para combatir la fatiga e incrementar tu rendimiento durante el entrenamiento. También contiene Vitaminas E, C y B (2 y 6), que evitan el desgaste muscular durante el entrenamiento. También contiene Electrolitos que facilitan una hidratación muscular correcta durante el ejercicio.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XFBRJ4D/?tag=tolees-21)
