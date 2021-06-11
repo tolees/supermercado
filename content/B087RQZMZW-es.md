@@ -28,15 +28,15 @@ Ahora mismo tienes [Marca Amazon - Lifelong - Treats para perros  sin trigo  con
 
 🔎:
 
-- Con biotina y zinc para ayudar a mantener un pelo y piel sanos
-- Apto para todas las razas y todos los tamaños de perro, pequeños, medianos y grandes
+- Enriquecido con minerales, vitaminas A y B para favorecer un sistema inmunitario saludable
 - 960 gr (4 x 240gr)
 - Sin azúcar, saborizantes ni colorantes
-- Desarrollado por nutricionistas de mascotas y revisado por veterinarios
-- Con patata, una fuente rica de energía. Bajo contenido de materias grasas
-- Enriquecido con minerales, vitaminas A y B para favorecer un sistema inmunitario saludable
-- Hipoalergénico: Fuente única de proteína animal (pato). Sin trigo, maíz, soja, huevo, lactosa ni gluten añadido
-- Ideal para el entrenamiento. Alimento complementario que puede ser usado como recompensa en el entrenamiento
 - Enriquecido con arándano que ayuda al funcionamiento del tracto urinario. Con taurina y biotina para favorecer una vista y corazón saludables
+- Desarrollado por nutricionistas de mascotas y revisado por veterinarios
+- Con biotina y zinc para ayudar a mantener un pelo y piel sanos
+- Hipoalergénico: Fuente única de proteína animal (pato). Sin trigo, maíz, soja, huevo, lactosa ni gluten añadido
+- Con patata, una fuente rica de energía. Bajo contenido de materias grasas
+- Apto para todas las razas y todos los tamaños de perro, pequeños, medianos y grandes
+- Ideal para el entrenamiento. Alimento complementario que puede ser usado como recompensa en el entrenamiento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087RQZMZW/?tag=tolees-21)
