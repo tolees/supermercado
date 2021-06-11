@@ -29,7 +29,7 @@ Está [Fa - Desodorante Roll-On Limones del Caribe - 50ml  pack de 6  Total: 300
 ℹ️:
 
 - Anti-transpirante
-- Fresca fragancia exótica
 - Protección duradera de 48h
+- Fresca fragancia exótica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072R31PLB/?tag=tolees-21)

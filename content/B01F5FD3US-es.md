@@ -28,10 +28,10 @@ En este momento está [Ensure Nutrivigor - Complemento Alimenticio para Adultos 
 
 🔎:
 
-- ¿Buscas un complemento que incluya vitaminas, minerales y proteínas? Ensure Nutrivigor tiene una fórmula exclusiva con CaHMB, proteínas y 27 vitaminas y minerales
-- Las vitaminas B2, B6 y B12 ayudan a disminuir el cansancio y la fatiga (1)
 - Delicioso sabor a vainilla
 - Su contenido en proteínas ayuda a aumentar la masa muscular, y el de calcio y vitamina D al funcionamiento normal de la misma (1)
 - Contiene vitamina C que ayuda a la función normal de tu sistema inmunitario (1)
+- Las vitaminas B2, B6 y B12 ayudan a disminuir el cansancio y la fatiga (1)
+- ¿Buscas un complemento que incluya vitaminas, minerales y proteínas? Ensure Nutrivigor tiene una fórmula exclusiva con CaHMB, proteínas y 27 vitaminas y minerales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01F5FD3US/?tag=tolees-21)
