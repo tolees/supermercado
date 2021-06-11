@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hellmann S Gran Salsa Barbacoa  285 g al 34.21 % de descuento'
-date: 2021-05-17 15:19:23
+date: 2021-06-11 19:57:18
 image: 'https://m.media-amazon.com/images/I/41Qem9nM12L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hellmanns'
 buyurl: 'https://www.amazon.es/dp/B00XAC1ISS/?tag=tolees-21'
 descuento: '34.21'
-average: '1.16888888888889'
+average: '1.152'
 ---
 
 Está [Hellmann S Gran Salsa Barbacoa  285 g](https://www.amazon.es/dp/B00XAC1ISS/?tag=tolees-21) con 34.21 de descuento por 1.0 EUR (original: 1.52 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Hellmann S Gran Salsa Barbacoa  285 g](https://www.amazon.es/dp/B00XAC1IS
 
 ℹ️:
 
-- Contiene Pescado y/o productos a base de pescados
-- Añade un toque de distinción a tu plato
 - Puro sabor para conquistar tus platos
+- Contiene Pescado y/o productos a base de pescados
 - Salsa predilecta para la carne
+- Añade un toque de distinción a tu plato
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XAC1ISS/?tag=tolees-21)
