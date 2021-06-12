@@ -28,11 +28,11 @@ Tienes [Axe Dark Tempation Rock Desodorante - 35 ml - Pack de 12](https://www.am
 
 🔎:
 
-- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
-- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
-- Con Tecnología Dual Action: Elimina el mal olor, fragancias irresistibles
 - Fórmula sin aluminio
-- ¡Prueba toda la nueva gama Axe!
+- Con Tecnología Dual Action: Elimina el mal olor, fragancias irresistibles
+- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
 - Clásica, sofisticada a la vez que adictiva fragancia
+- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
+- ¡Prueba toda la nueva gama Axe!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WY4FBBS/?tag=tolees-21)

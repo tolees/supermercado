@@ -28,9 +28,9 @@ Tienes [Catunambú - Cápsulas de café  Descafeinado  16 unidades](https://www.
 
 🔎:
 
-- Una vez abierto, conservar en lugar fresco y seco
-- Alérgenos: No posee
-- Ingredientes: café
 - País de origen: España
+- Alérgenos: No posee
+- Una vez abierto, conservar en lugar fresco y seco
+- Ingredientes: café
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QCP9JCH/?tag=tolees-21)

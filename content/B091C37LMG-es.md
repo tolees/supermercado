@@ -28,11 +28,11 @@ Ahora mismo tienes [Lapasion Pepitos al Huevo Bizcocho  220 Gramos](https://www.
 
 🔎:
 
-- Bizcocho estilo casero cortado en piezas con soporte de papel y aroma a limón, elaborado con las mejores materias primas.
-- INGREDIENTES, Harina de trigo, azúcar, huevos, aceite vegetal de girasol o soja en proporciones variables, agua, gasificantes (Bicarbonato de Sodio, Difosfatos), jarabe (agua, azúcar, ácido cítrico), humectantes (sorbitol, dextrosa), conservantes (Ácido Sórbico, Sorbato de Potasio), aroma de limón, sal.
-- FECHA DE CONSUMO PREFERENTE y condiciones de CONSERVACIÓN, 180 días desde la fecha de fabricación. Conservar en lugar fresco, seco y aislado del suelo, lejos de fuentes de calor y libre de suciedad y contaminación.
-- CONTIENE, Siete unidades por bolsa.
 - PRODUCIDOS EN ESPAÑA, Estos dulces han sido producidos en España.
 - REPOSTERÍA DE CALIDAD, Repostería casera y tradicional. Ideal para almuerzos, desayunos, postres...
+- CONTIENE, Siete unidades por bolsa.
+- FECHA DE CONSUMO PREFERENTE y condiciones de CONSERVACIÓN, 180 días desde la fecha de fabricación. Conservar en lugar fresco, seco y aislado del suelo, lejos de fuentes de calor y libre de suciedad y contaminación.
+- INGREDIENTES, Harina de trigo, azúcar, huevos, aceite vegetal de girasol o soja en proporciones variables, agua, gasificantes (Bicarbonato de Sodio, Difosfatos), jarabe (agua, azúcar, ácido cítrico), humectantes (sorbitol, dextrosa), conservantes (Ácido Sórbico, Sorbato de Potasio), aroma de limón, sal.
+- Bizcocho estilo casero cortado en piezas con soporte de papel y aroma a limón, elaborado con las mejores materias primas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B091C37LMG/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ginebra Premium nacional Nordés Atlantic al 15.02 % de descuento'
-date: 2021-06-11 10:06:33
+date: 2021-06-12 13:35:06
 image: 'https://m.media-amazon.com/images/I/41jrZHm3agS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [Ginebra Premium nacional Nordés Atlantic Galician Gin - Pac
 
 🔎:
 
+- Perfecto para regalo, celebraciones especiales, o para disfrutar de una copa agradable en buena compañía
 - Su característica botella blanca está inspirada en la cerámica gallega de Sargadelos, elaborada tradicionalmente de manera artesanal
 - 6 copas de regalo para que puedas disfrutar Nordés de forma perfecta.
 - Ginebra gallega, fresca y aromática. Una ginebra afrutada con toques balsámicos
-- Perfecto para regalo, celebraciones especiales, o para disfrutar de una copa agradable en buena compañía
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PMLD3H7/?tag=tolees-21)

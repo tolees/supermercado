@@ -28,10 +28,10 @@ En este momento está [Desodorante Dove en spray original sin aluminio  6 unida
 
 🔎:
 
-- 24 horas de protección contra el olor corporal.
 - Sin sales de aluminio.
-- Desodorante Dove en spray original sin aluminio y sin alcohol, 150 ml
 - Un ¼ de su composición se basa en una crema para el cuidado de las axilas; ayuda a la piel, limpia y la deja maravillosamente suave. También la regenera, por ejemplo, si te afeitas con frecuencia.
+- Desodorante Dove en spray original sin aluminio y sin alcohol, 150 ml
 - 0% de alcohol, reduce la irritación.
+- 24 horas de protección contra el olor corporal.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MZGXWH3/?tag=tolees-21)

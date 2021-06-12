@@ -28,15 +28,15 @@ Tienes [Estrella Galicia 0 0 Cerveza - Pack de 24 latas x 330 ml - Total: 7.92 L
 
 🔎:
 
+- Color 8,5 EBC
 - Elaborada mediante un proceso de fermentación interrumpida, obtenemos nuestra exquisita Estrella Galicia 0,0 en lata. Esta cerveza sin alcohol resulta de un aspecto brillante que refleja el color típico de las cervezas tipo Pilsen.
-- Estrella Galicia Cerveza 00 - Pack de 24 latas x 33 cl
-- Alcohol 0,0%
 - En boca se presenta con un punto de amargor punzante y resistente, lo que le da a esta cerveza un matiz muy seco.
+- Alcohol 0,0%
 - Materias primas Agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), maíz y lúpulos Nugget y Perle Hallertau. Levadura seleccionada Hijos de Rivera
+- Amargor 17 EBU
+- Estrella Galicia Cerveza 00 - Pack de 24 latas x 33 cl
+- Temperatura de servicio 4-5ºC
 - De color amarillo dorado intenso.
 - Clasificación Lager 0,0
-- Color 8,5 EBC
-- Amargor 17 EBU
-- Temperatura de servicio 4-5ºC
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CNRF5F9/?tag=tolees-21)

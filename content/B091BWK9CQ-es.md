@@ -28,12 +28,12 @@ Tienes [LAPASION Magdalenas Suaves con Chips de Chocolate  250 Gramos  6 Unidade
 
 🔎:
 
-- FECHA DE CONSUMO PREFERENTE y condiciones de CONSERVACIÓN, 120 días desde la fecha de fabricación. Conservar en lugar fresco, seco y aislado del suelo, lejos de fuentes de calor y libre de suciedad y contaminación.
+- REPOSTERÍA DE CALIDAD, Repostería casera y tradicional. Ideal para almuerzos, desayunos, postres.
+- INGREDIENTES, Harina de trigo, azúcar, aceite vegetal de girasol, huevos, azúcar invertida (azúcar, agua y ácido cítrico), leche en polvo, gasificantes (difosfato sódico y bicarbonato sódico), conservantes (sorbato potásico y ácido sórbico), pepitas de chocolate (1%), (pasta de cacao, manteca de cacao, emulgentes (E-322), lecitina de girasol (E-470).
+- CONTIENE, Seis unidades por bolsa.
+- Magdalenas suaves y esponjosas con chispas de chocolate.
 - Instrucciones para su uso adecuado: Lista para comer; advertencia de seguridad: No es apropiado para menores de 3 años; información de alérgenos: wheat
 - PRODUCIDOS EN ESPAÑA, Estos dulces han sido producidos en España.
-- REPOSTERÍA DE CALIDAD, Repostería casera y tradicional. Ideal para almuerzos, desayunos, postres.
-- Magdalenas suaves y esponjosas con chispas de chocolate.
-- CONTIENE, Seis unidades por bolsa.
-- INGREDIENTES, Harina de trigo, azúcar, aceite vegetal de girasol, huevos, azúcar invertida (azúcar, agua y ácido cítrico), leche en polvo, gasificantes (difosfato sódico y bicarbonato sódico), conservantes (sorbato potásico y ácido sórbico), pepitas de chocolate (1%), (pasta de cacao, manteca de cacao, emulgentes (E-322), lecitina de girasol (E-470).
+- FECHA DE CONSUMO PREFERENTE y condiciones de CONSERVACIÓN, 120 días desde la fecha de fabricación. Conservar en lugar fresco, seco y aislado del suelo, lejos de fuentes de calor y libre de suciedad y contaminación.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B091BWK9CQ/?tag=tolees-21)
