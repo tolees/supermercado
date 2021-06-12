@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fa - Desodorante Roll-On Limones del Car al 24.95 % de descuento'
-date: 2021-06-11 11:32:37
+date: 2021-06-12 17:13:04
 image: 'https://m.media-amazon.com/images/I/41tTH0Fiy5S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Está [Fa - Desodorante Roll-On Limones del Caribe - 50ml  pack de 6  Total: 300
 ℹ️:
 
 - Anti-transpirante
-- Protección duradera de 48h
 - Fresca fragancia exótica
+- Protección duradera de 48h
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072R31PLB/?tag=tolees-21)
