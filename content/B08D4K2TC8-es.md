@@ -29,8 +29,8 @@ En este momento está [Healthy Boy Salsa De Chile Verde & Lima  Sin Gluten 12 Un
 🔎:
 
 - Picante
+- Sin Gluten
 - País de origen: Tailandia
 - Salsa de chile para untar, ideal para mariscos
-- Sin Gluten
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08D4K2TC8/?tag=tolees-21)
