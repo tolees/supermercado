@@ -28,9 +28,9 @@ Tienes [KH-7 | Pulverizador sin Manchas| Quitamanchas para ropa 750 ml | Pulveri
 
 🔎:
 
-- Gracias a su formulación sin lejía, puedes utilizarlo tanto en ropa blanca como de color, incluso negra
-- Quitamanchas prelavado para todo tipo de manchas
-- Puedes utilizarlo también para reforzar la acción de tu detergente habitual directamente en el tambor junto con la colada
 - Equipado con un cómodo pulverizador, aplícalo directamente sobre la mancha. Utiliza el producto sólo donde lo necesitas y la cantidad que necesitas
+- Quitamanchas prelavado para todo tipo de manchas
+- Gracias a su formulación sin lejía, puedes utilizarlo tanto en ropa blanca como de color, incluso negra
+- Puedes utilizarlo también para reforzar la acción de tu detergente habitual directamente en el tambor junto con la colada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00U2R3J9A/?tag=tolees-21)

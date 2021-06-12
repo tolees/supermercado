@@ -28,11 +28,11 @@ Tienes [Marca Amazon - Happy Belly Select - Bolsitas de té de hierbas selecto c
 
 ℹ️:
 
-- Para preparar un té de un color amarillo intenso y ligeramente opaco
-- 4x15 pirámides
-- Ingredientes 100 % naturales
-- Té de hierbas - Limón y jengibre
 - Bolsitas de té con hojas y trozos amarillos y marrones
+- Ingredientes 100 % naturales
+- Para preparar un té de un color amarillo intenso y ligeramente opaco
+- Té de hierbas - Limón y jengibre
 - Con una energizante mezcla de sabor cítrico y especiado
+- 4x15 pirámides
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SDGH5BF/?tag=tolees-21)

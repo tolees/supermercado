@@ -28,8 +28,8 @@ Ahora mismo tienes [Hero  Mermelada  Frutas del Bosque  - 345 gr.](https://www.a
 
 🔎:
 
+- Ligero, para que pueda llevarlo en diferentes ocasiones
 - Idea de regalo
 - Un equilibrio óptimo entre la necesidad del cliente y un merecido mimo
-- Ligero, para que pueda llevarlo en diferentes ocasiones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DRRDXWQ/?tag=tolees-21)
