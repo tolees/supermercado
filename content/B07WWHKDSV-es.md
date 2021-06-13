@@ -28,10 +28,10 @@ Ahora mismo tienes [NÜL - Galletas sin gluten rellenas de crema de vainilla  12
 
 🔎:
 
-- Sin OMG
 - Sin lactosa
 - Receta sin gluten
-- Aptas para veganos
 - Sin aceite de palma
+- Sin OMG
+- Aptas para veganos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WWHKDSV/?tag=tolees-21)
