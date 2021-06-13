@@ -28,9 +28,9 @@ Está [Instituto Español Avena Crema Hidratante Corporal - 50 ML](https://www.a
 
 ℹ️:
 
+- Elasticidad, Suavidad y Humectación
 - Para Cuerpo y Manos
 - Avena 100% Natural
-- Elasticidad, Suavidad y Humectación
 - En Formato Bolsillo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01FURYB16/?tag=tolees-21)

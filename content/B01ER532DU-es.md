@@ -29,7 +29,7 @@ Ahora mismo tienes [Haribo Maxibox Surtido de Golosinas  600g](https://www.amazo
 🔎:
 
 - Combinación de piezas de diferentes texturas y sabores.
-- Incluye: ositos de oro, huevo, fresones, balla-balla duo y balla-balla fresa.
 - Mix de caramelos de goma
+- Incluye: ositos de oro, huevo, fresones, balla-balla duo y balla-balla fresa.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ER532DU/?tag=tolees-21)
