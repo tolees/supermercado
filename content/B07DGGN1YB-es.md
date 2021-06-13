@@ -28,9 +28,9 @@ Está [Válquer Profesional Champú Infantil Extra Suave  Champú Zero %  Sin Su
 
 ℹ️:
 
+- Marca: Válquer
 - no testado en animales
 - fabricado con agua tratada
-- Marca: Válquer
 - laboratorio y fabricante certificado según las normas: iso 9001, iso 14001, iso 22716, aenor i + d + i y certificación halal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DGGN1YB/?tag=tolees-21)
