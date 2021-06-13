@@ -29,9 +29,9 @@ Está [Fingertoys Kit para hacer sushi  9 unidades  bambú para principiantes  -
 ℹ️:
 
 - 【Disfruta de la diversión del sushi DIY】Puedes hacer sushi con familiares y amigos, mejorar tu relación y dejar recuerdos impresionantes, incluso si lo deseas, puedes comer sushi casero.
-- 【Fácil de limpiar y almacenar】 Es más fácil de limpiar si cubre la esterilla de bambú con una película de plástico antes de esparcir algas marinas y arroz. Secar bien antes de almacenar.
 - Kit de preparación de sushi para principiantes: el kit de sushi es bueno para principiantes o amantes de los rollos de sushi. Haz sushi en casa y sorprende a tus invitados con una deliciosa cena casera de sushi que se sirve de manera tradicional.
 - Kit orgánico premium: este kit de sushi está hecho de bambú natural respetuoso con el medio ambiente sin efectos nocivos para la salud. Duradero y seguro de usar, hermosas herramientas para hacer sushi en la escuela o en la empresa y para picnic.
 - 【Regalos de cocina】Un regalo único y útil para los amantes del sushi japonés. Este juego de cocina para sushi es un regalo ideal para todas las ocasiones como Navidad, Año Nuevo, Día de San Valentín, Día de la Madre, etc.
+- 【Fácil de limpiar y almacenar】 Es más fácil de limpiar si cubre la esterilla de bambú con una película de plástico antes de esparcir algas marinas y arroz. Secar bien antes de almacenar.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08Z74ZQJ1/?tag=tolees-21)

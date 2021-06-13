@@ -28,9 +28,9 @@ Está [Note d Espresso - Cremoso - Café en Grano - 2 Paquetes de 1 kg  Total 2
 
 ℹ️:
 
-- Un café 100 % natural tostado en Italia
-- 2 paquetes de 1 kilo
 - Hechos en Italia
+- 2 paquetes de 1 kilo
 - Expreso de calidad profesional en tu propia casa
+- Un café 100 % natural tostado en Italia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X11WZJZ/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Vileda Steam - Mopa a vapor con cabezal triangular  mopa eléctrica lige
 
 ℹ️:
 
-- La mopa eléctrica Vileda Steam se calienta rápido y gracias a la posibilidad de regular el suministro de vapor, no va dejando agua por el suelo, para un secado rápido y un resultado impecable
 - Ligera y fácil de manejar, esta escoba de vapor cuenta con un cabezal triangular que permite llegar a rincones y esquinas y con un cable largo que te consiente moverte en libertad mientras limpias
+- La mopa eléctrica Vileda Steam se calienta rápido y gracias a la posibilidad de regular el suministro de vapor, no va dejando agua por el suelo, para un secado rápido y un resultado impecable
 - Contenido del envío: 1 x Mopa a Vapor Vileda Steam con cabezal triangular pivotante color rojo; accesorio para alfombras; 2 gamuzas de microfibras; dosificador
 - El funcionamiento de la mopa eléctrica Vileda Steam incluyendo el intercambio de mopas o el relleno del tanque, es muy simple y aún más cómodo ya que se queda de pié cuando se suelta
 - Vileda Steam es una mopa a vapor que limpia en profundidad cualquier tipo de suelo duro y alfombras de pelo corto, matando el 99,9% de las bacterias sólo con agua, sin utilizar producots químicos

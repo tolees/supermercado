@@ -28,8 +28,8 @@ Está [Cacique Café de Grano Tostado Arábica  1kg](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Contenido de 1 kg
 - Café en grano de tueste natural
+- Contenido de 1 kg
 - Mantener en lugar limpio, fresco y seco
 - Proteger del sol
 

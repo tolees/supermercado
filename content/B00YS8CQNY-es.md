@@ -28,10 +28,10 @@ En este momento está [Heinz Salsa Ketchup Garrafa 57 Kg](https://www.amazon.es/
 
 🔎:
 
-- Apto para vegetarianos y veganos.
+- Receta sencilla, llena de tomates.
 - No contiene conservantes artificiales, almidones ni espesantes.
 - Gran valor con grandes tamaños cómodos de usar.
 - Shelf Life de 18 meses, práctico para una buena reserva
-- Receta sencilla, llena de tomates.
+- Apto para vegetarianos y veganos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00YS8CQNY/?tag=tolees-21)

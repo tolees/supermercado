@@ -29,10 +29,10 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Select - Bolsitas de té de hierb
 🔎:
 
 - Con un atractivo aroma dulce
-- Té de hierbas - Vainilla
-- Para preparar un té claro y con un intenso color naranja
-- 4x15 pirámides
-- Bolsitas de té rellenas de hojas de un intenso color rojo
 - Ingredientes 100 % naturales
+- Té de hierbas - Vainilla
+- 4x15 pirámides
+- Para preparar un té claro y con un intenso color naranja
+- Bolsitas de té rellenas de hojas de un intenso color rojo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SDGGYV2/?tag=tolees-21)
