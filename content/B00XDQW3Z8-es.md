@@ -28,8 +28,8 @@ En este momento está [Ruffles Original Patatas Fritas con Sal  160g](https://ww
 
 🔎:
 
+- Envasado en atmósfera protectora
 - Conservar en lugar fresco y seco
 - Producto sin gluten. Apto para celiacos
-- Envasado en atmósfera protectora
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XDQW3Z8/?tag=tolees-21)
