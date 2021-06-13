@@ -28,11 +28,11 @@ Está [Beurer BS59 - Espejo maquillaje con luz LED  con brazo para pared  2 espe
 
 ℹ️:
 
-- Con brazo extensible
 - 1 cara vista con aumento (x5)
+- Con brazo extensible
 - Se puede extraer el espejo del brazo
-- 1 cara vista normal
-- Diámetro de la superficie del espejo: 11 cm
 - Luz LED brillante
+- Diámetro de la superficie del espejo: 11 cm
+- 1 cara vista normal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00336LUUW/?tag=tolees-21)

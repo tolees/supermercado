@@ -29,9 +29,9 @@ Ahora mismo tienes [Finish Powerball Quantum Max - Pastillas para el lavavajilla
 🔎:
 
 - Finish Quantum es el detergente para el lavavajillas que ofrece nuestra mejor limpieza
-- Contiene sal que protege el filtro del lavavajillas y ayuda a proteger la plata y el cristal
-- Gracias al poder desengrasante elimina hasta los restos de comida más incrustados de la vajilla
-- Con función abrillantador para que la vajilla tenga un brillo superior
 - Eliminando hasta las manchas más difíciles gracias a la doble acción del gel y el polvo
+- Contiene sal que protege el filtro del lavavajillas y ayuda a proteger la plata y el cristal
+- Con función abrillantador para que la vajilla tenga un brillo superior
+- Gracias al poder desengrasante elimina hasta los restos de comida más incrustados de la vajilla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073H72MHV/?tag=tolees-21)

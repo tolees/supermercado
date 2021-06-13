@@ -29,9 +29,9 @@ Ahora mismo tienes [Café Fortaleza – Cápsulas Compatibles con Dolce Gusto  S
 🔎:
 
 - AROMÁTICO y VERSÁTIL: disfruta del café en cápsulas con una taza redonda, aromática y con suaves notas a cereales tostados, ideal para todos los días
-- CALIDAD SUPERIOR: selección de granos de café de alta calidad para lograr unas cápsulas para cafeteras Dolce Gusto con un equilibrio redondo
-- PLENO SABOR: café en cápsulas compatibles con cafeteras Dolce Gusto, con el delicioso sabor del café con leche y una intensidad de 7/10
 - ARMONÍA en una TAZA: café con leche con una combinación perfectamente equilibrada del café Fortaleza con la suavidad de la leche, ¡listo para tomar!
+- PLENO SABOR: café en cápsulas compatibles con cafeteras Dolce Gusto, con el delicioso sabor del café con leche y una intensidad de 7/10
+- CALIDAD SUPERIOR: selección de granos de café de alta calidad para lograr unas cápsulas para cafeteras Dolce Gusto con un equilibrio redondo
 - FORMATO: cápsulas de café en envase de sellado hermético, para mantener el café fresco y conservar todos sus aromas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FPRGXVV/?tag=tolees-21)
