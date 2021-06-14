@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Triple Action Dentífrico - 2 X 7 al 6.67 % de descuento'
-date: 2021-05-25 19:30:41
+date: 2021-06-14 11:26:06
 image: 'https://m.media-amazon.com/images/I/51hboBmA8HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'COLGATE'
 buyurl: 'https://www.amazon.es/dp/B00XDOT92A/?tag=tolees-21'
 descuento: '6.67'
-average: '2.27875'
+average: '2.25888888888889'
 ---
 
 Ahora mismo tienes [Colgate Triple Action Dentífrico - 2 X 75 ml](https://www.amazon.es/dp/B00XDOT92A/?tag=tolees-21) a 2.1 EUR (original: 2.25 EUR) (6.67 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Colgate Triple Action Dentífrico - 2 X 75 ml](https://www.a
 
 🔎:
 
+- Marca - COLGATE
 - Género - Unisex
 - Tipo de producto - Dentífrico
-- Marca - COLGATE
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XDOT92A/?tag=tolees-21)

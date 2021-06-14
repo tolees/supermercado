@@ -28,9 +28,9 @@ Ahora mismo tienes [Ginebra Premium nacional Nordés Atlantic Galician Gin - Pac
 
 🔎:
 
-- Su característica botella blanca está inspirada en la cerámica gallega de Sargadelos, elaborada tradicionalmente de manera artesanal
-- Ginebra gallega, fresca y aromática. Una ginebra afrutada con toques balsámicos
-- 6 copas de regalo para que puedas disfrutar Nordés de forma perfecta.
 - Perfecto para regalo, celebraciones especiales, o para disfrutar de una copa agradable en buena compañía
+- Su característica botella blanca está inspirada en la cerámica gallega de Sargadelos, elaborada tradicionalmente de manera artesanal
+- 6 copas de regalo para que puedas disfrutar Nordés de forma perfecta.
+- Ginebra gallega, fresca y aromática. Una ginebra afrutada con toques balsámicos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PMLD3H7/?tag=tolees-21)
