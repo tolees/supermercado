@@ -29,9 +29,9 @@ Tienes [Ruavieja Licor de Hierbas  700ml](https://www.amazon.es/dp/B00ENMYEDU/?t
 ℹ️:
 
 - El Licor de Hierbas se elabora siguiendo la auténtica tradición del destilado y es ideal para endulzar el final de tus comidas
-- Su amarillo vibrante acentúa la tonalidad de los verdes de sus hierbas naturales. De ahí su aroma y sabor dulce de entrada con notas de hierbabuena, mentol sobre fondo de camomila
 - Ruavieja Licor de Hierbas 70cl (30% vol. alcohol) es el licor perfecto para compartir en la sobremesa con los que más quieres
-- Encuentra elaboraciones y recetas
 - El Licor de Hierbas Ruavieja está elaborado con hierbas naturales seleccionadas y maceradas en aguardiente de orujo, siguiendo la receta tradicional de 1889
+- Su amarillo vibrante acentúa la tonalidad de los verdes de sus hierbas naturales. De ahí su aroma y sabor dulce de entrada con notas de hierbabuena, mentol sobre fondo de camomila
+- Encuentra elaboraciones y recetas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ENMYEDU/?tag=tolees-21)
