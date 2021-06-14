@@ -29,8 +29,8 @@ Está [Pompadour Infusion Jengibre con Limón  20 Bolsitas](https://www.amazon.e
 ℹ️:
 
 - 20 bolsitas en envueltas herméticas e individuales con triple capa HS
-- La pureza y la cuidada selección de los frutos garantizan una máxima intensidad tanto en el sabor como en las propiedades naturales
-- Infusión de Jengibre (51%) con limón y regaliz
 - Aromática y ligeramente picante
+- Infusión de Jengibre (51%) con limón y regaliz
+- La pureza y la cuidada selección de los frutos garantizan una máxima intensidad tanto en el sabor como en las propiedades naturales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YQD2G41/?tag=tolees-21)
