@@ -28,13 +28,13 @@ Ahora mismo tienes [Martini Prosecco - Paquetes de 750 ml - Total: 4500 ml](http
 
 🔎:
 
-- Espumoso con burbuja muy fina que hace que sea muy fácil de beber. elaborado con uvas 85% glera, pinot noir, chardonay
-- Servir ien frío en una copa de vino con hielo
-- Contenido de alcohol (alc/vol.): 11.5 percent by volume
-- Seco, fácil de beber y afrutado. sabor perfectamente balanceado para disfrutar al momento
-- Procedencia: Italy
-- Como servir: Servir bien frio con hielo
 - Color dorado con reflejos verdes
+- Como servir: Servir bien frio con hielo
 - Fresco aroma de flores y frutas con notas de manzana verde y pera
+- Seco, fácil de beber y afrutado. sabor perfectamente balanceado para disfrutar al momento
+- Contenido de alcohol (alc/vol.): 11.5 percent by volume
+- Procedencia: Italy
+- Servir ien frío en una copa de vino con hielo
+- Espumoso con burbuja muy fina que hace que sea muy fácil de beber. elaborado con uvas 85% glera, pinot noir, chardonay
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0157DAJBY/?tag=tolees-21)
