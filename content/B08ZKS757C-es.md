@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ariel Pods Detergente Lavadora Cápsulas  al 20.00 % de descuento'
-date: 2021-06-07 08:46:04
+date: 2021-06-14 16:53:58
 image: 'https://m.media-amazon.com/images/I/51ct4lKwEUS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
