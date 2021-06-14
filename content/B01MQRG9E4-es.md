@@ -28,10 +28,10 @@ Tienes [Maquillaje con color BB Cream Perfección 9 en 1 de Rimmel.](https://w
 
 🔎:
 
-- Proporciona un acabo luminoso y natural
-- Con factor de protección solar SPF 15
-- También iguala el tono y matifica los brillos
-- BB Cream con una fórmula ligera
 - Protege la piel, corrige las manchas y cubre por complete
+- Con factor de protección solar SPF 15
+- Proporciona un acabo luminoso y natural
+- BB Cream con una fórmula ligera
+- También iguala el tono y matifica los brillos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MQRG9E4/?tag=tolees-21)

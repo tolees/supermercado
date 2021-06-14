@@ -28,10 +28,10 @@ Tienes [WENKO Dispensador de jabón Badi negro - Dispensador de jabón líquido 
 
 ℹ️:
 
+- En clásico color negro
 - Dispensador de jabón recargable para porcionar la descarga de jabón líquido o loción
+- Medidas (ancho x altura x profundidad): 9,5 x 16 x 8 cm, volumen de relleno aprox. 320 ml
 - De cerámica de alta calidad con superficie mate
 - Ideal para cuarto de baño, cocina y aseo para huéspedes
-- En clásico color negro
-- Medidas (ancho x altura x profundidad): 9,5 x 16 x 8 cm, volumen de relleno aprox. 320 ml
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07PGSZY5R/?tag=tolees-21)
