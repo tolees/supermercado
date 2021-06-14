@@ -28,10 +28,10 @@ Tienes [#Cervezanía - Kit de elaboración de cerveza artesana India Pale Ale IP
 
 🔎:
 
+- ⚒️ Materiales reutilizables. Sigue elaborando cerveza artesana con las recargas de materias primas.
 - 🍺 Con el kit IPA Cervezanía podrás elaborar una cerveza fresca, ligera, espumosa, de color ambarino y sabor afrutado, con aroma y amargor extras gracias a su elevada dosis de lúpulo. Alcohol estimado Alc. 4,7% Vol.
 - 🌾 ¿Qué diferencia el kit todo grano de otros? Vas a elaborar con la mejor malta del mundo, tal y como ya lo hacen muchos cerveceros nacionales e internacionales. Además, el lúpulo en pellet permite una mejor conservación. ¿Resultado? Elabora tal y como lo haría un profesional.
-- 🍺 8 sencillos pasos, sin conocimientos previos. Incluye un manual con todos los pasos a seguir, que deberás leer bien previamente.
-- ⚒️ Materiales reutilizables. Sigue elaborando cerveza artesana con las recargas de materias primas.
 - 📦 El kit Cervezanía contiene todo lo necesario para la elaboración de cerveza artesana en casa, tal como lo harías en una fábrica profesional. Vas a necesitar además botellines, usando unos reciclados, o adquiriendo un pack de botellines y chapas. Recuerda esterilizarlos bien.
+- 🍺 8 sencillos pasos, sin conocimientos previos. Incluye un manual con todos los pasos a seguir, que deberás leer bien previamente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01BB16DX4/?tag=tolees-21)

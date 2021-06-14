@@ -28,10 +28,10 @@ Está [Heallily lubricante anal lubricante personal a base de agua con sabor a f
 
 ℹ️:
 
+- Esta lubricación es SOLO para uso sexual, no para otro propósito.
+- Lubricar por un largo tiempo, suave pero no grasoso cuando se usa.
 - Haz que las parejas tengan más intimidad.
 - Con sabor a fruta, te hará más agradable.
 - Lubricante a base de agua, fácil de lavar sin dejar residuos.
-- Lubricar por un largo tiempo, suave pero no grasoso cuando se usa.
-- Esta lubricación es SOLO para uso sexual, no para otro propósito.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZKW9W1Z/?tag=tolees-21)

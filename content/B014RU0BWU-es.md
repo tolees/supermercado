@@ -28,10 +28,10 @@ Tienes [Tea Forte - Caja de Té Herbal Surtido de Degustación 40 infusores de T
 
 ℹ️:
 
-- NUESTRA COLECCIÓN MÁS AMPLIA de infusiones de Tea Forte, con dos infusores en forma de pirámide exclusivos, con cada té de hierbas, té oolong más populares
-- CAJA DE TÉ con muestras de té que tiene un surtido de 40 infusores de bolsas de té en forma de pirámides, hechos a mano, para permitir que las delicadas hojas se abran bien en agua caliente, produciendo una taza deliciosamente aromática y sabrosa
 - SABORES DIVERSOS, SUTILES solo de las mejores hojas de té en el mundo, mezclado con frutas aromáticas, especias y hierbas
-- PRECIOSO JUEGO REGALO DE TÉ que ofrece una variedad de tés gourmet de primera calidad, un regalo muy bien acogido y muy buen regalo para los amantes del té
 - ENVOLTORIO ELEGANTE de la caja de regalo con patrón en relieve y con una cinta de raso, la tapa se abre para mostrar un menú de degustación de té - Caja de té que se puede rellenar con bandejas de tu caja de presentación favorita de Tea Forte
+- PRECIOSO JUEGO REGALO DE TÉ que ofrece una variedad de tés gourmet de primera calidad, un regalo muy bien acogido y muy buen regalo para los amantes del té
+- CAJA DE TÉ con muestras de té que tiene un surtido de 40 infusores de bolsas de té en forma de pirámides, hechos a mano, para permitir que las delicadas hojas se abran bien en agua caliente, produciendo una taza deliciosamente aromática y sabrosa
+- NUESTRA COLECCIÓN MÁS AMPLIA de infusiones de Tea Forte, con dos infusores en forma de pirámide exclusivos, con cada té de hierbas, té oolong más populares
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B014RU0BWU/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Tubayia - Filtro de café de cerámica Reutilizable  Filtro 
 
 🔎:
 
-- Máquina de café pequeña y ligera para derramar, ideal para su uso en casa, en la oficina y al aire libre - camping, caravanas, pesca, etc.
 - Verter el tipo V60 sobre el cuenco de goteo. Calienta 1-2 tazas a la vez.
-- Cafetera manual profesional El aroma del café se puede cambiar a través de la velocidad del llenado de agua caliente y usted puede disfrutar de su café favorito recién preparado.
-- Hecho de cerámica de alta calidad, duradero, respetuoso con el medio ambiente y seguro de usar.
+- Máquina de café pequeña y ligera para derramar, ideal para su uso en casa, en la oficina y al aire libre - camping, caravanas, pesca, etc.
 - Gotas de café reutilizables, cómodas de usar y limpiar.
+- Hecho de cerámica de alta calidad, duradero, respetuoso con el medio ambiente y seguro de usar.
+- Cafetera manual profesional El aroma del café se puede cambiar a través de la velocidad del llenado de agua caliente y usted puede disfrutar de su café favorito recién preparado.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082FDWPB2/?tag=tolees-21)
