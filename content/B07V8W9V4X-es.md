@@ -28,10 +28,10 @@ Tienes [Max Factor Colour Elixir Lipstick  Barra de labios Tono 50  29 ml](https
 
 🔎:
 
-- Una mezcla con un 60% de emolientes, agentes acondicionadores, antioxidantes y vitamina E
 - Color fabuloso al instante
-- Hidrata activamente para unos labios más suaves y con volumen (comparado con labios sin maquillar)
 - Hidratación y brillo en una pasada
+- Hidrata activamente para unos labios más suaves y con volumen (comparado con labios sin maquillar)
 - Enriquecido con antioxidantes y vitamina E
+- Una mezcla con un 60% de emolientes, agentes acondicionadores, antioxidantes y vitamina E
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V8W9V4X/?tag=tolees-21)
