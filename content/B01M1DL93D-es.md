@@ -28,10 +28,10 @@ En este momento está [Hero Baby - Tarrito de Arroz con Pollo para bebés a part
 
 🔎:
 
-- Conservación natural, como lo harías en casa, al baño maría.
 - Ingredientes 100% naturales, sin conservantes ni colorantes
-- Ingredientes controlados desde que se planta la semilla hasta que son recogidos
-- Sin aceite de palma, sin almidón, sin sal añadida
 - Recetas con el equilibrio nutricional específico para cada etapa
+- Ingredientes controlados desde que se planta la semilla hasta que son recogidos
+- Conservación natural, como lo harías en casa, al baño maría.
+- Sin aceite de palma, sin almidón, sin sal añadida
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M1DL93D/?tag=tolees-21)

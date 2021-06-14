@@ -31,7 +31,7 @@ Tienes [Gourmet Purina - Purina Gourmet Nature S Creation Pescado del Oceano 24 
 - Sin colorantes, aromatizantes y conservantes artificiales añadidos
 - Alimento completo paragatos adultos
 - Alimento 100% completo y equilibrado
-- Mini Filetes cocinados lentamente
 - Preparados con ingredientes naturales seleccionados de alta calidad
+- Mini Filetes cocinados lentamente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089PBMTNC/?tag=tolees-21)

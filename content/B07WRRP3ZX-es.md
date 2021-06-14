@@ -28,8 +28,8 @@ En este momento está [HARIBO Mega Torcidas Cereza  1x 175 g](https://www.amazon
 
 🔎:
 
-- Geles dulces
 - Con un irresistible sabor a fresa; descúbrelas
+- Geles dulces
 - Deliciosas piezas largas en forma de stick de regaliz con intenso sabor a cereza
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WRRP3ZX/?tag=tolees-21)
