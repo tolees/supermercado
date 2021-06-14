@@ -28,10 +28,10 @@ Está [La Toja - Espuma Afeitar Protect 7   6uds de 300ml  1.800ml    Acción hi
 
 ℹ️:
 
-- Fórmula dermatológicamente probada
-- El resultado: Confort y suavidad en el afeitado, además de dejar la piel hidratada y cuidada
-- Enriquecida con Micro Aceites y las exclusivas Sales Minerales del Manantial de La Toja, ablanda la barba para una mayor precisión en el afeitado con un único deslizamiento de la cuchilla
-- Descubre la fórmula de la Espuma La Toja Protect 7 con sus 7 acciones protectoras: Calma, Hidrata, Fácil afeitado, Ablanda, Anti-cortes, Anti-irritación, Anti-picor
 - Aplicar sobre la piel de la cara previamente humedecida con agua y masajear hasta obtener espuma; Afeitar con la cuchilla y aclarar con agua al finalizar el afeitado
+- Descubre la fórmula de la Espuma La Toja Protect 7 con sus 7 acciones protectoras: Calma, Hidrata, Fácil afeitado, Ablanda, Anti-cortes, Anti-irritación, Anti-picor
+- Enriquecida con Micro Aceites y las exclusivas Sales Minerales del Manantial de La Toja, ablanda la barba para una mayor precisión en el afeitado con un único deslizamiento de la cuchilla
+- El resultado: Confort y suavidad en el afeitado, además de dejar la piel hidratada y cuidada
+- Fórmula dermatológicamente probada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0721QGRJF/?tag=tolees-21)
