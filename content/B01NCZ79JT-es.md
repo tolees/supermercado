@@ -28,10 +28,10 @@ Tienes [Max Factor Colour Elixir Lipliner Universal Perfilador de Labios Tono Un
 
 🔎:
 
-- Se puede combinar con cualquier color de labial
 - Lápiz fácil de aplicar
-- Perfilador de labios universal para definir tus labios
 - Fórmula invisible con acondicionadores que hidratan
+- Perfilador de labios universal para definir tus labios
 - Mantiene el color de los labios en su lugar
+- Se puede combinar con cualquier color de labial
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01NCZ79JT/?tag=tolees-21)
