@@ -28,10 +28,10 @@ Ahora mismo tienes [Bourjois Eyecatching Liner Perfilador de ojos Tono 1 Black -
 
 🔎:
 
-- Negro sedoso e intenso.
 - Escultura Cat s-eye "look
-- 1,56 ml/0,05 fl.oz.
 - Rotuladores de eyeliner
 - Fórmula de fácil deslizamiento
+- 1,56 ml/0,05 fl.oz.
+- Negro sedoso e intenso.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BC2T2TY/?tag=tolees-21)
