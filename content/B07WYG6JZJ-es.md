@@ -28,10 +28,10 @@ Está [NÜL - Galletas grandes sin gluten rellenas de crema de cacao  9 x 225 g]
 
 ℹ️:
 
-- Sin lactosa
+- Sin OMG
+- Receta sin gluten
 - Sin aceite de palma
 - Aptas para veganos
-- Receta sin gluten
-- Sin OMG
+- Sin lactosa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WYG6JZJ/?tag=tolees-21)
