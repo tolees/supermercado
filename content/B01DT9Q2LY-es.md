@@ -28,9 +28,9 @@ Ahora mismo tienes [Caffè Borbone Café Monodosis Compostable  Envase Reciclabl
 
 🔎:
 
-- Mezcla Oro
-- Paquete de 150 Monodosis Compostables
 - Compatibles E.S.E.* dm 44
+- Paquete de 150 Monodosis Compostables
 - *E.S.E. son marcas registradas por el consorcio EASY SERVING ESPRESSO. La producción de estas monodosis es independiente, no está vinculada ni directa ni indirectamente a EASY SERVING ESPRESSO.
+- Mezcla Oro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01DT9Q2LY/?tag=tolees-21)
