@@ -28,11 +28,11 @@ Ahora mismo tienes [Tulipán Negro Desodorante en Stick for Men Sport  6 Unidade
 
 🔎:
 
-- no testado en animales. vegano. fabricación íntegra en españa
-- libre de sales de aluminio y parabenos. dermatológicamente testado
-- Tipo de piel: Normal
-- género; masculino. adulto
 - desodorante perfumado y fresco. fragancia masculina
+- libre de sales de aluminio y parabenos. dermatológicamente testado
+- no testado en animales. vegano. fabricación íntegra en españa
+- género; masculino. adulto
+- Tipo de piel: Normal
 - el desodorante for men sport tulipán negro en stick ofrece una intensa protección y frescor durante todo el día gracias al sistema energy cool system. Optimopara practicar deporte
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XD5Y5H7/?tag=tolees-21)

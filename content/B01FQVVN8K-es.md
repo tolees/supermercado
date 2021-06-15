@@ -28,9 +28,9 @@ En este momento está [GINRAW Ginebra - 700 ml](https://www.amazon.es/dp/B01FQVV
 
 🔎:
 
-- Color: claro.
 - Marca: GINRAW
 - Todos los lotes son raros con la misma calidad de ginebra, cada lote tendrá un empaque diferente, por lo tanto, las imágenes en el sitio web de amazon pueden no ser las mismas que el paquete de la botella que ha pedido
+- Color: claro.
 - Nota: este producto se fabrica en pequeños lotes de 5000;
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01FQVVN8K/?tag=tolees-21)
