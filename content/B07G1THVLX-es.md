@@ -28,11 +28,11 @@ Está [Nescafé DOLCE GUSTO Café CAPPUCCINO LIGHT - Pack de 3 x 16 cápsulas - 
 
 ℹ️:
 
-- Máquina Express: sistema de café profesional de hasta 15 bares de presión.
-- Cápsulas inteligentes. Su sellado hermético mantiene el café fresco conservando todos sus aromas.
-- Las cápsulas Dolce Gusto Cappuccino Light tienen un sabor cremoso y equilibrado,
-- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
-- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto.
 - Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche.
+- Cápsulas inteligentes. Su sellado hermético mantiene el café fresco conservando todos sus aromas.
+- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto.
+- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
+- Las cápsulas Dolce Gusto Cappuccino Light tienen un sabor cremoso y equilibrado,
+- Máquina Express: sistema de café profesional de hasta 15 bares de presión.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07G1THVLX/?tag=tolees-21)

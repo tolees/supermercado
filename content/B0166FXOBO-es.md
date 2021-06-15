@@ -28,10 +28,10 @@ Está [Sol cerveza lager mejicana caja 24 botellas 33cl - 7920 ml](https://www.a
 
 ℹ️:
 
-- Ingredientes:Malta de cebada, jarabe de azúcar, maltosa, lúpulo, exclusiva levadura sol
-- Con 4,5% de alcohol en volumen
-- De color amarillo pálido pajizo y espuma blanca consistente, con un toque cítrico en su aroma; muy bebestible y refrescante
 - Cerveza tipo Lager y estilo lager clara
+- De color amarillo pálido pajizo y espuma blanca consistente, con un toque cítrico en su aroma; muy bebestible y refrescante
+- Ingredientes:Malta de cebada, jarabe de azúcar, maltosa, lúpulo, exclusiva levadura sol
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
+- Con 4,5% de alcohol en volumen
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0166FXOBO/?tag=tolees-21)

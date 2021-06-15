@@ -29,9 +29,9 @@ En este momento está [Piz Buin  Protector Solar Allergy Spray SPF 50+ Protecci�
 🔎:
 
 - Contiene Calmanelle, un complejo protector y anti-irritante que refuerza las defensas de la piel contra los rayos UV e incrementa la tolerancia al sol
-- PIZ BUIN Allergy Spray Piel Sensible SPF 50+ se ha desarrollado especialmente para la piel sensible al sol, se absorbe rápidamente y proporciona horas de hidratación para calmar la piel
-- Este protector solar ha sido desarrollado con un sistema de filtros solares UVA/UVB de Piz Buin
 - PIZ BUIN ALLERGY ha sido especialmente desarrollado bajo el control de dermatólogos
 - Contiene FEVERVEW PFE, un ingrediente calmante y antioxidante muy efectivo
+- Este protector solar ha sido desarrollado con un sistema de filtros solares UVA/UVB de Piz Buin
+- PIZ BUIN Allergy Spray Piel Sensible SPF 50+ se ha desarrollado especialmente para la piel sensible al sol, se absorbe rápidamente y proporciona horas de hidratación para calmar la piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PQHK8YC/?tag=tolees-21)
