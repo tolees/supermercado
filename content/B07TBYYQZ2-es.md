@@ -28,10 +28,10 @@ Ahora mismo tienes [Maggi Puré de Calabaza  2 x 65g](https://www.amazon.es/dp/B
 
 🔎:
 
-- Listo y delicioso en solo 5 minutos
-- Maggi puré de Calabaza, quinao y patata
-- Con ingredientes que conoces
 - También puede preparar una crema de calabaza
+- Maggi puré de Calabaza, quinao y patata
 - Sin gluten
+- Listo y delicioso en solo 5 minutos
+- Con ingredientes que conoces
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TBYYQZ2/?tag=tolees-21)
