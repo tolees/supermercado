@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skip Detergente Líquido Aloe Vera - 50 l al 0.00 % de descuento'
-date: 2021-06-14 10:10:06
+date: 2021-06-15 10:16:31
 image: 'https://m.media-amazon.com/images/I/41ZHSk7gwGS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ Ahora mismo tienes [Folat B.V. - Disney 53869 Star Wars vajilla servilletas pap
 
 🔎:
 
-- Completa la gama con vajilla a juego
+- Cada paquete contiene 16 servilletas
 - Servilletas de papel
 - Cada servilleta es de 2 capas
 - Con Star Wars
-- Cada paquete contiene 16 servilletas
+- Completa la gama con vajilla a juego
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XY7XLTT/?tag=tolees-21)
