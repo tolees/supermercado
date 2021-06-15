@@ -28,10 +28,10 @@ En este momento está [Aguila cerveza especial pack 24 latas 33cl - 7920 ml](htt
 
 🔎:
 
-- Cerveza tipo laguer Especial
 - De color dorado brillante, espuma blanca consistente; de cuerpo medio y aromas frescos y cítricos; destaca su equilibrio entre un amargor suave y matices de malta que otorgan una gran bebestibilidad
-- Ingredientes naturales: Agua, malta de cebada, maíz, levadura y lúpulo
+- Cerveza tipo laguer Especial
 - 5.5% de alcohol en volumen y sin gluten
+- Ingredientes naturales: Agua, malta de cebada, maíz, levadura y lúpulo
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NCP8MFH/?tag=tolees-21)
