@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Axe Pack Leather & Cookies Neceser Duo - con un 40.29 % de descuento'
-date: 2021-06-15 03:45:42
+date: 2021-06-16 17:07:29
 image: 'https://m.media-amazon.com/images/I/419I-YrhXbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'AXE'
 buyurl: 'https://www.amazon.es/dp/B08DRRJHBV/?tag=tolees-21'
 descuento: '40.29'
-average: '10.0455000000001'
+average: '9.99333333333343'
 ---
 
 En este momento está [Axe Pack Leather & Cookies Neceser Duo - Desodorante 150 ml + Eau de Toilette 100 ml](https://www.amazon.es/dp/B08DRRJHBV/?tag=tolees-21) a 8.95 EUR (original: 14.99 EUR) (40.29 %  de descuento) en el siguiente enlace!

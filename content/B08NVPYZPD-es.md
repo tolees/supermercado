@@ -28,10 +28,10 @@ En este momento está [HARIBO Melocotones   30 x 40.00 g](https://www.amazon.es/
 
 🔎:
 
+- Deliciosas piezas en forma de corazón-melocotón
+- Instrucciones para su uso adecuado: Para todas las edades
 - Caramelos de goma sabor melocotón recubiertos de azúcar
 - Ingredientes: Caramelos de goma sabor melocotón: Jarabe de glucosa; azúcar; agua; gelatina; zumo de frutas a partir de concentrado: limón, cereza; acidulante: ácido cítrico; aroma; concentrados de frutas y plantas: cártamo, naranja, limón, mango, fruta de la pasión, baya de saúco, grosella negra, aronia, uva; extracto de baya de saúco; puede contener trazas de LECHE, TRIGO
 - Irresistible sabor melocotón
-- Deliciosas piezas en forma de corazón-melocotón
-- Instrucciones para su uso adecuado: Para todas las edades
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NVPYZPD/?tag=tolees-21)
