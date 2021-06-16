@@ -29,8 +29,8 @@ En este momento está [Damm Cerveza Xibeca Suave  12 x 25cl](https://www.amazon.
 🔎:
 
 - Cerveza suave.
-- Caja de 12 botellas 25cl.
 - Sabrosa y delicada. Muy refrescante y suave. Su paso por boca se caracteriza el recuerdo de los cereales ligeramente tostados.
 - Alc. 4,6% vol.
+- Caja de 12 botellas 25cl.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01AY3DIQA/?tag=tolees-21)
