@@ -28,10 +28,10 @@ Tienes [HARIBO Chispa Cola  X 40.00 G  30 Unidades](https://www.amazon.es/dp/B08
 
 🔎:
 
-- Instrucciones para su uso adecuado: Para todas las edades
+- Caramelos de goma sabor cola recubiertos de pica
 - Irresistible sabor cola
 - Ingredientes: Caramelos de goma sabor cola: Jarabe de glucosa; azúcar; humectante: jarabe de sorbitol; agua; gelatina; acidulantes: ácido cítrico, ácido málico; correctores de acidez: malato ácido de sodio, citrato trisódico; gelificante: pectina amidada; aroma; jarabe de caramelo; concentrados de frutas y plantas: cártamo, limón; colorante: azul patente V; puede contener trazas de LECHE, TRIGO
+- Instrucciones para su uso adecuado: Para todas las edades
 - Deliciosas piezas en forma de botella
-- Caramelos de goma sabor cola recubiertos de pica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08NVL21H9/?tag=tolees-21)
