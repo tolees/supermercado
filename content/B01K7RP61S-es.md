@@ -28,10 +28,10 @@ Está [Hero Platos Caseros Albóndigas en Salsa con Guisantes Plato Preparado 43
 
 ℹ️:
 
-- Sin colorantes ni conservantes
+- Se puede preparar al baño maría, en microondas o a fuego lento
 - Formato para 2 raciones
 - Listo en tan solo 2 minutos. Una vez abierto se debe conservar en el frigorifico
 - Mantiene el sabor natural gracias al interior de su recipiente porcelánico
-- Se puede preparar al baño maría, en microondas o a fuego lento
+- Sin colorantes ni conservantes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01K7RP61S/?tag=tolees-21)
