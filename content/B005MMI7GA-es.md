@@ -28,10 +28,10 @@ Ahora mismo tienes [Glenfiddich Glenfiddich 15 Years Old Our Solera Fifteen Sing
 
 🔎:
 
-- Color: oro.
-- Sabor: complejo, malta, afrutado, madera de roble, clavo, miel.
 - Acabado: Larga duración, dulzura suave.
-- perfecto como un regalo
 - Nariz: potente, afrutado, picante, notas de miel, vainilla, notas de humo.
+- Sabor: complejo, malta, afrutado, madera de roble, clavo, miel.
+- Color: oro.
+- perfecto como un regalo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005MMI7GA/?tag=tolees-21)

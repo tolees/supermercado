@@ -28,12 +28,12 @@ Ahora mismo tienes [Tampax Compak Super Plus Tampones Con Aplicador  Protección
 
 🔎:
 
-- Ginecológicamente probado
 - Libre de perfumes y tintes
+- Ginecológicamente probado
 - Falda protectora para evitar que se produzcan fugas
-- Su aplicador retráctil de plástico facilita la inserción del tampón
 - Los tampones Tampax Compak ofrecen la máxima protección y discreción durante la regla
-- Han sido sometidos a un análisis independiente de sustancias nocivas por Oeko-Tex
+- Su aplicador retráctil de plástico facilita la inserción del tampón
 - Sus canales de absorción conducen el flujo hacia el interior del tampón
+- Han sido sometidos a un análisis independiente de sustancias nocivas por Oeko-Tex
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01HQVLX7O/?tag=tolees-21)

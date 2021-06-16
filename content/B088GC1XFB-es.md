@@ -28,8 +28,8 @@ Está [Oral-B Pro 1 750 - Cepillo de dientes eléctrico  incluye estuche de viaj
 
 ℹ️:
 
-- La cabeza redondeada limpia mejor para unas encías más saludables.
 - El paquete incluye: 1 mango con cargador, 1 cepillo y 1 funda de viaje.
+- La cabeza redondeada limpia mejor para unas encías más saludables.
 - Te ayuda a cepillar los dientes durante más tiempo con el temporizador integrado de 2 minutos.
 - Limpieza intensa y tecnología 3D, con oscilaciones, rotación y pulsaciones para eliminar hasta un 100% más de placa dental que un cepillo de dientes manual.
 - Batería durante hasta 10 días.
