@@ -28,10 +28,10 @@ Ahora mismo tienes [Skip Active Clean Detergente Cápsulas para Lavadora - Paque
 
 🔎:
 
-- Skip cápsulas Doble Acción es la manera más práctica de lavar tu ropa y usar la dosis correcta
-- Ahorro medioambiental importante
 - Su envase es pequeño
-- Limpieza impecable con todo el poder quitamanchas
+- Ahorro medioambiental importante
 - 1 cápsula = 1 lavado
+- Skip cápsulas Doble Acción es la manera más práctica de lavar tu ropa y usar la dosis correcta
+- Limpieza impecable con todo el poder quitamanchas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FDKDBST/?tag=tolees-21)
