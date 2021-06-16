@@ -29,10 +29,10 @@ Ahora mismo tienes [Seventh Generation Detergente Líquido Baby 2L 40 lavados - 
 🔎:
 
 - Detergente para la ropa certificado con la etiqueta ecológica de la Unión Europea y el certificado Leaping Bunny que no contiene ingredientes de origen animal y nunca ha sido testado en animales​
-- Detergente para lavadora ecológico líquido hecho con ingredientes 95% de origen vegetal
-- ​Producto de limpieza altamente eficaz, sin colorantes, sin fragancias sintéticas, sin blanqueadores ópticos
-- Dermatológicamente testado
 - Detergente líquido para la lavadora, sin fragancia, adecuado para pieles sensibles ya que no deja químicos abrasivos en la ropa
 - Envases respetuosos con el medio ambiente; pack 100 % reciclable y fabricado con plástico reciclado
+- ​Producto de limpieza altamente eficaz, sin colorantes, sin fragancias sintéticas, sin blanqueadores ópticos
+- Detergente para lavadora ecológico líquido hecho con ingredientes 95% de origen vegetal
+- Dermatológicamente testado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08WY4NG7L/?tag=tolees-21)

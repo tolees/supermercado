@@ -28,10 +28,10 @@ Tienes [RS7 Pack 0x Gel Hidroalcohólico 500ml  Incoloro](https://www.amazon.es/
 
 🔎:
 
-- Gel limpiador higienizante suave, pero muy eﬁciente para las manos.
-- Activos con propiedades muy conocidas antisépticas, hidratantes y regenerantes.
-- 1. Aplicar sobre la piel limpia y seca, una cantidad suﬁciente para toda la superﬁcie. 2. Extender realizando un masaje, sobre todo entre los dedos, superﬁcie cuticular y muñecas. 3. No aclarar.
 - Se puede usar sin agua y ofrece las propiedades antimicrobianas debido a nuestra mezcla de Metilal, Alcohol y Aloe vera ecológico.
+- 1. Aplicar sobre la piel limpia y seca, una cantidad suﬁciente para toda la superﬁcie. 2. Extender realizando un masaje, sobre todo entre los dedos, superﬁcie cuticular y muñecas. 3. No aclarar.
+- Activos con propiedades muy conocidas antisépticas, hidratantes y regenerantes.
 - Dos Formatos: 100ml/500ml.
+- Gel limpiador higienizante suave, pero muy eﬁciente para las manos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B094NVWWTG/?tag=tolees-21)

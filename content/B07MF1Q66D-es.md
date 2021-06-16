@@ -28,9 +28,9 @@ Está [PowerBar Protein Nut2 Milk Choco Hazelnut 18x 2x22 5g  - Barras de Prote�
 
 ℹ️:
 
+- Alto contenido en proteínas
 - Bajo contenido de hidratos de carbono: un 30% menos que las barritas de chocolate clásicas
 - Bajo contenido de azúcar
-- Alto contenido en proteínas
 - Dos unidades en cada envase, para picar entre comidas y compartir
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MF1Q66D/?tag=tolees-21)

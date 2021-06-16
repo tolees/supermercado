@@ -29,9 +29,9 @@ Está [Garnier Bio Pack Ritual Reafirmante Tratamiento Anti Edad con Ácido Hial
 ℹ️:
 
 - Aplicar la Crema de Día todos los días sobre la piel limpia y seca, Combinar por la noche con la crema anti edad regeneradora con aceite esencial de lavanda noche para una mayor eficacia
-- Certificado Ecológico Cosmos de Ecocert Greenlife, Testado bajo control dermatológico y apto para pieles sensibles
-- Contenido: 1x Garnier Bio, Pack Anti edad de Lavanda con Ácido Hialurónico, Incluye: 1x Crema Hidratante de Día (50 ml), 1x Crema Reafirmante de Noche (50 ml)
-- Pack de Crema Anti Edad de Día y Crema de Noche con Aceite Esencial de Lavanda Ecológico y Ácido Hialurónico
 - Arrugas visiblemente más lisas, regenera y suaviza la piel
+- Pack de Crema Anti Edad de Día y Crema de Noche con Aceite Esencial de Lavanda Ecológico y Ácido Hialurónico
+- Contenido: 1x Garnier Bio, Pack Anti edad de Lavanda con Ácido Hialurónico, Incluye: 1x Crema Hidratante de Día (50 ml), 1x Crema Reafirmante de Noche (50 ml)
+- Certificado Ecológico Cosmos de Ecocert Greenlife, Testado bajo control dermatológico y apto para pieles sensibles
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0919VHDH1/?tag=tolees-21)

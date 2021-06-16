@@ -28,10 +28,10 @@ Tienes [Baomasir - Aceitera con tapa automática  aceite de oliva  Ölspender](h
 
 ℹ️:
 
-- Si tiene alguna pregunta sobre nuestros productos, no dude en ponerse en contacto con nosotros.
-- La boquilla en forma de U te permite controlar completamente el vertido de la cantidad justa de aceite, no tienes que preocuparte por una ensalada recubierta. El aceite no gotea de la boquilla, mantiene la botella y la encimera limpias.
-- Hecho de polipropileno sin BPA y vidrio sin plomo, esta botella de aceite está bien diseñada para durar. La botella de cristal con forma de pera es gruesa y resistente, con junta de silicona sellada para evitar fugas y derrames, manteniendo la frescura del líquido almacenado.
-- Ideal para dosificar especias líquidas como aceite de oliva, vinagre, salsa, sirope, hervir vino y más. Su aspecto elegante es un complemento maravilloso para tu cocina o restaurante. También puede ser un regalo impresionante para muchas ocasiones.
 - La tapa abatible con rodillo de acero inoxidable se abre automáticamente cuando la botella se inclina y se cierra cuando está vertical, permite un vertido fácil con una mano y evita la entrada de polvo, hormigas e insectos.
+- Ideal para dosificar especias líquidas como aceite de oliva, vinagre, salsa, sirope, hervir vino y más. Su aspecto elegante es un complemento maravilloso para tu cocina o restaurante. También puede ser un regalo impresionante para muchas ocasiones.
+- Si tiene alguna pregunta sobre nuestros productos, no dude en ponerse en contacto con nosotros.
+- Hecho de polipropileno sin BPA y vidrio sin plomo, esta botella de aceite está bien diseñada para durar. La botella de cristal con forma de pera es gruesa y resistente, con junta de silicona sellada para evitar fugas y derrames, manteniendo la frescura del líquido almacenado.
+- La boquilla en forma de U te permite controlar completamente el vertido de la cantidad justa de aceite, no tienes que preocuparte por una ensalada recubierta. El aceite no gotea de la boquilla, mantiene la botella y la encimera limpias.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TWXTTT5/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Dr. Oetker Classic Alisador Tartas  Blanco  11.5x7.5x0.02 cm](https://ww
 
 ℹ️:
 
-- Muy flexible
 - Su principal uso es para alisar tartas o repostería en general
 - Apto para lavavajillas
 - Fabricado en polipropileno
+- Muy flexible
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BLU5VBG/?tag=tolees-21)

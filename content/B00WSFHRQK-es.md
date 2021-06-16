@@ -31,8 +31,8 @@ Tienes [Caso Germany Molinillo de Café](https://www.amazon.es/dp/B00WSFHRQK/?ta
 - Grado de molienda individual de grueso a muy fino (a través de la duración de la molienda)
 - Adecuado para moler y triturar café, frutos secos, especias, etc.
 - Potente motor de 200 W
-- Contenedor, cuchilla y carcasa de acero inoxidable resistente
 - Interruptor de impulso con tapa transparente
+- Contenedor, cuchilla y carcasa de acero inoxidable resistente
 - Función de seguridad: aplicación solo posible con la tapa puesta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00WSFHRQK/?tag=tolees-21)
