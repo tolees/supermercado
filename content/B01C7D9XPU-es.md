@@ -28,10 +28,10 @@ Tienes [Heineken Cerveza Lata  12 x 330ml](https://www.amazon.es/dp/B01C7D9XPU/?
 
 🔎:
 
-- Reposa en tanques horizontales durante 28 días para proporcionar la presión óptima a la levadura
-- Ingredientes naturales: agua, malta de cebada, lúpulo y la levadura tipo A característica de Heineken
 - De color amarillo brillante y espuma blanca intensa (con aroma frutal, con ligero sabor dulce y amargor suave)
+- Ingredientes naturales: agua, malta de cebada, lúpulo y la levadura tipo A característica de Heineken
 - Cerveza tipo y estilo Lager, con 5% de alcohol en volumen
 - Consumirla entre 0° y 3°C para obtener sus óptimas cualidades
+- Reposa en tanques horizontales durante 28 días para proporcionar la presión óptima a la levadura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01C7D9XPU/?tag=tolees-21)

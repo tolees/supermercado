@@ -28,10 +28,10 @@ Tienes [Alhambra - Tradicional Cerveza Lager  4.6 % Volumen de Alcohol - Pack de
 
 🔎:
 
+- En boca tiene un amargo suave de cuerpo moderado, con una mezcla sutil de sensaciones afrutadas y florales
+- Inspirada en las las cervezas alemanas tipo lager helles, incluye malta pilsen de tueste bajo, lúpulos amargos y levadura
+- Cerveza de color dorado pálido, aspecto brillante y con espuma persistente
 - Para un mayor disfrute consumir entre 4 y 6 ºc
 - Su complejo aroma integra notas suaves de fruta verde fresca, como la manzana, con toques florales de lúpulo y una ligera punta de cereal
-- Inspirada en las las cervezas alemanas tipo lager helles, incluye malta pilsen de tueste bajo, lúpulos amargos y levadura
-- En boca tiene un amargo suave de cuerpo moderado, con una mezcla sutil de sensaciones afrutadas y florales
-- Cerveza de color dorado pálido, aspecto brillante y con espuma persistente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MQH9EC4/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Garnier Skin Active Skin Active Bb Cream Anti-Manchas Spf 50-50Ml](https
 
 🔎:
 
-- Glicerina Vegetal + Vitamina E
-- La BB Cream Anti-Manchas SPF50 es una crema facial para rostro y escote con alta protección
 - Se te nota buena cara 
+- La BB Cream Anti-Manchas SPF50 es una crema facial para rostro y escote con alta protección
+- Glicerina Vegetal + Vitamina E
 - Gracias a su fórmula con SPF50 protege de los rayos UVA y UVB
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L4MNSFX/?tag=tolees-21)
