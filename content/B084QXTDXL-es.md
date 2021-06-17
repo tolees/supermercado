@@ -28,10 +28,10 @@ Tienes [Nature Blessed Aceite de Oliva Virgen Extra 5 Lt - Bedon](https://www.am
 
 🔎:
 
+- Acidez ≥ 0.2%
+- El aceite de oliva virgen extra nature blessed está certificado con declaración de propiedades saludables de la universidad de atenas.
 - Es una parte integral de la cocina y cultura mediterráneas. Se puede usar crudo en ensaladas, comidas preparadas y platos gourmet.
 - Medalla de oro por calidad, athena iooc, 2016, plata por estándar de excelencia para los polifenoles, por calidad, londres iooc 2017, athena iooc 2017
 - Variedad de aceitunas: 70% halkidikis, 10% amfissis, 10% petroelia, 10% koroneiki.
-- Acidez ≥ 0.2%
-- El aceite de oliva virgen extra nature blessed está certificado con declaración de propiedades saludables de la universidad de atenas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084QXTDXL/?tag=tolees-21)

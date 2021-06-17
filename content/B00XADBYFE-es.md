@@ -28,10 +28,10 @@ Tienes [Nenuco Jabon Líquido con olor a colonia Nenuco  dosificador - 650 ml](h
 
 ℹ️:
 
-- A la vez que cuidáis su higiene diaria, tu bebé disfrutará de los mimos y de la suave textura del jabón
 - Olor original y bienestar en el cuidado diario y de toda la familia
-- Su fórmula ha sido clínicamente testada bajo estricto control dermatológico; Nenuco garantiza la idoneidad de sus productos con estudios realizados en laboratorios independientes
+- A la vez que cuidáis su higiene diaria, tu bebé disfrutará de los mimos y de la suave textura del jabón
 - Hará que el baño sea vuestro momento único gracias a la fragancia de la colonia Nenuco
+- Su fórmula ha sido clínicamente testada bajo estricto control dermatológico; Nenuco garantiza la idoneidad de sus productos con estudios realizados en laboratorios independientes
 - Su característico olor a Nenuco estimulará los sentidos de vuestro bebé y hará del baño un momento realmente único y agradable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XADBYFE/?tag=tolees-21)
