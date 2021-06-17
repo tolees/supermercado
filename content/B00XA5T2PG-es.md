@@ -28,8 +28,8 @@ Ahora mismo tienes [Gullón - Galleta María Integral Pack de 10  600g](https://
 
 🔎:
 
-- Las galletas perfectas para un desayuno delicioso y lleno de fibra.
 - Fabricado por Galletas Gullón.
+- Las galletas perfectas para un desayuno delicioso y lleno de fibra.
 - Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
 - Las galletas María Integral están elaboradas con harina integral de trigo.
 
