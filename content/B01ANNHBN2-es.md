@@ -28,9 +28,9 @@ Ahora mismo tienes [Nacional Desde 1849 Chocomax  Chocolate  1000 G](https://www
 
 🔎:
 
+- Contiene vitaminas
+- País de origen: portugal
 - Producto que combina tradición e innovación
 - Pétalos de chocolate
-- País de origen: portugal
-- Contiene vitaminas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ANNHBN2/?tag=tolees-21)
