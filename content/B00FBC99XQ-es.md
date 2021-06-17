@@ -28,9 +28,9 @@ Tienes [Chivas Regal Mizunara Whisky Escocés de Mezcla Premium Whisky Japonés 
 
 🔎:
 
+- Final: Todavía lleno de fruta con un toque de anís escondido dentro
+- Florales y dulces, aunque los toques de especias para hornear aportan equilibrio y cuerpo
 - Una mezcla de whiskie de malta y grano
 - Nariz: durazno blanco, peras recubiertas de toffee y crema rica en vainilla
-- Florales y dulces, aunque los toques de especias para hornear aportan equilibrio y cuerpo
-- Final: Todavía lleno de fruta con un toque de anís escondido dentro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FBC99XQ/?tag=tolees-21)
