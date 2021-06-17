@@ -28,10 +28,10 @@ Está [Amstel oro 0 0 cerveza tostada pack 24 latas 33cl - 7920 ml](https://www.
 
 ℹ️:
 
-- Consumirla entre 2° y 4°C para obtener sus máximas cualidades
-- Ingredientes: agua tratada, 100% con mexcla de maltas de cebadas claras y oscuras, lúpulo y exclusiva levadura Amstel
-- 0.0 % de alcohol en volumen; maltas tostadas en 3 tiempos: secado, tostación y golpe de fuego
-- Cerveza estilo lager especial tostada sin alcohol
 - De color dorado oscuro y espuma cremosa; de cuerpo medio y amargor suave
+- Ingredientes: agua tratada, 100% con mexcla de maltas de cebadas claras y oscuras, lúpulo y exclusiva levadura Amstel
+- Cerveza estilo lager especial tostada sin alcohol
+- 0.0 % de alcohol en volumen; maltas tostadas en 3 tiempos: secado, tostación y golpe de fuego
+- Consumirla entre 2° y 4°C para obtener sus máximas cualidades
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08TP3GZJ1/?tag=tolees-21)
