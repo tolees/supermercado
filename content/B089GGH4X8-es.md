@@ -28,9 +28,9 @@ En este momento está [DUcare Brochas de Maquillaje 20 Piezas Premium Brochas Ma
 
 🔎:
 
-- 🍓PELO SINTETIDO Y SIN CRUELDAD SINTETICO, MANGO DE CEPILLO RESISTENTE Y DURADERO: Sensación suave, siempre le da una aplicación de maquillaje natural y bonita.
 - 🍓Función completa: base, mezcla, rubor, delineador de ojos y polvos faciales. Portátil y conveniente para el maquillaje diario.
-- 🍓JUEGO COMPLETO DE CEPILLOS DE MAQUILLAJE ESENCIALES PARA USO PROFESIONAL O USO DOMÉSTICO: Kit de pincel de maquillaje ideal para líquidos, polvos o cremas, creando la aplicación de maquillaje natural sin costuras.
 - 🍓LA MEJOR OPCIÓN COMO REGALO: para tu madre, esposa, amiga y hermanas. Brocha cosmética DUcare, ideal para fiestas, cumpleaños, bodas y uso diario. Actuación artística, fiesta de disfraces, cosplay y más.
+- 🍓PELO SINTETIDO Y SIN CRUELDAD SINTETICO, MANGO DE CEPILLO RESISTENTE Y DURADERO: Sensación suave, siempre le da una aplicación de maquillaje natural y bonita.
+- 🍓JUEGO COMPLETO DE CEPILLOS DE MAQUILLAJE ESENCIALES PARA USO PROFESIONAL O USO DOMÉSTICO: Kit de pincel de maquillaje ideal para líquidos, polvos o cremas, creando la aplicación de maquillaje natural sin costuras.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089GGH4X8/?tag=tolees-21)
