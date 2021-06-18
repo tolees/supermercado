@@ -28,10 +28,10 @@ Tienes [RITZENHOFF 3000012 - Copa de Vino Tinto  Color Multicolor](https://www.a
 
 ℹ️:
 
-- Producidos en Marsberg Alemania
-- Copa de vino tinto Diseño por Nicole Winter 2014
-- Copa de vino en caja de regalo con diseño hermoso.
-- Muy coleccionable
 - 24 cm x 9,5 cm.
+- Copa de vino tinto Diseño por Nicole Winter 2014
+- Muy coleccionable
+- Copa de vino en caja de regalo con diseño hermoso.
+- Producidos en Marsberg Alemania
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IKDQKWG/?tag=tolees-21)
