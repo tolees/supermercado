@@ -29,7 +29,7 @@ Tienes [LA ESPAÑOLA - Pack 12 uds. Aceitunas Rellenas de Anchoa Deluxe 150gr](h
 ℹ️:
 
 - gran tamaño
-- gran calibre
 - rellenas de anchoa
+- gran calibre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NDKP5WQ/?tag=tolees-21)
