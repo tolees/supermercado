@@ -28,10 +28,10 @@ Está [Creano Taza de Té con Tapa  Práctica para Fior di Tèlini o Bolsita de 
 
 ℹ️:
 
-- APLICACIONES: Vaso de Café / Vaso de Té / Vaso de Café con Leche / Vaso de Latte Macchiato / Taza de Café con Leche / Taza Schümli / Vaso de Café / Vaso de Té / Tazas de Café / Tazas de Café con Leche / Tazas de Café
+- OFERTA: 1x Vaso de Té de 200ml con asa y tapa de vidrio borosilicato transparente de alta calidad, que mantiene las bebidas calientes calientes un poco más. Entregado en una caja de regalo de alta calidad.
 - CARACTERÍSTICAS: Las dimensiones de la taza de té son: aprox. 9,5cm de diámetro (Ø) y aprox. 11,5cm incl. el mango, así como 7cm de altura o 8,5cm con tapa, son posibles pequeñas desviaciones debido al trabajo manual. Las tazas de té también son aptas para el lavavajillas, microondas, a prueba de heladas y especialmente resistentes a golpes y arañazos.
 - CARACTERÍSTICAS ESPECIALES: Al usar la tapa, el té se mantiene caliente por más tiempo y, por ejemplo, la bolsita de té puede ser colocada directamente en la tapa después de la infusión. Tengan cuidado al manipular el agua hirviendo, los niños deben mantenerse alejados.
-- OFERTA: 1x Vaso de Té de 200ml con asa y tapa de vidrio borosilicato transparente de alta calidad, que mantiene las bebidas calientes calientes un poco más. Entregado en una caja de regalo de alta calidad.
 - NUESTRA GARANTÍA DE SATISFACCIÓN: No dude en contactarnos. Nuestro amable y competente servicio de atención al cliente está a su disposición para cualquier problema que pueda tener y encontrará una solución 100% satisfactoria con usted!
+- APLICACIONES: Vaso de Café / Vaso de Té / Vaso de Café con Leche / Vaso de Latte Macchiato / Taza de Café con Leche / Taza Schümli / Vaso de Café / Vaso de Té / Tazas de Café / Tazas de Café con Leche / Tazas de Café
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00GJRNGX6/?tag=tolees-21)
