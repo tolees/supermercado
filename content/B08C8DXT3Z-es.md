@@ -29,9 +29,9 @@ En este momento está [ColaCao - Cola Cao Original  Con Cacao Natural-Batidora M
 🔎:
 
 - Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente.
-- El colacao de siempre, eso tan tuyo; con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos; sus grumitos se deben al cacao natural y porque no contiene aditivos
-- Alérgenos: contiene trigo y cebada; mantener en lugar fresco y seco
 - Gratis la Taza-Batidora de Mario! Aprieta el botón para batir tu ColaCao. Capacidad de 300ml. Funciona con 2 pilas AA (No incluidas)
+- Alérgenos: contiene trigo y cebada; mantener en lugar fresco y seco
+- El colacao de siempre, eso tan tuyo; con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos; sus grumitos se deben al cacao natural y porque no contiene aditivos
 - 192 raciones en su formato ahorro de 2,7kg (contiene 2 bolsas en su interior)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08C8DXT3Z/?tag=tolees-21)
