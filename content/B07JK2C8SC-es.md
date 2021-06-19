@@ -28,9 +28,9 @@ En este momento está [TASSIMO Marcilla Café Espresso - 5 paquetes de 16 cápsu
 
 🔎:
 
+- Marcilla espresso es un café corto, intenso con el sabor inconfundible de Marcilla y una deliciosa capa de crema.
 - Peso neto 1 paquete: 118 g (Peso 5 paquetes: 590 g)
 - Si algo nos caracteriza en Marcilla es nuestra pasión por elaborar el mejor café. Una pasión que empezó en 1907 y que ha servido para que hoy, más de cien años después, podamos seguir ofreciéndote a ti y a los tuyos todo el aroma y sabor del mejor café, ahora también en Tassimo.
-- Marcilla espresso es un café corto, intenso con el sabor inconfundible de Marcilla y una deliciosa capa de crema.
 - Cápsulas compatibles con cafeteras Tassimo Bosch
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JK2C8SC/?tag=tolees-21)
