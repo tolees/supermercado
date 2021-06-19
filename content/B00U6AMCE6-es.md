@@ -28,10 +28,10 @@ Está [Scotch-Brite Estropajo Basic  Verde  clásico ](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Basic salvauñas fibra verde
-- Eficacia ajustada a un precio asequible
 - Protección para las uñas
-- Para la suciedad difícil del menaje de cocina
 - Su forma especial protege las uñas durante las tareas de limpieza más duras
+- Eficacia ajustada a un precio asequible
+- Para la suciedad difícil del menaje de cocina
+- Basic salvauñas fibra verde
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00U6AMCE6/?tag=tolees-21)
