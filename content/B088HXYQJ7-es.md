@@ -28,10 +28,10 @@ Ahora mismo tienes [Ariel Pods Detergente Lavadora Cápsulas  129 Lavados  Pack 
 
 🔎:
 
-- Detergente lavadora con tecnología Odor Active que elimina los malos olores
-- Depositar la cápsula en el tambor de la lavadora antes de la ropa
 - El recubrimiento de la cápsula se disuelve totalmente al entrar en contacto con el agua
-- Limpieza profunda; eficaz en frío (incluso a 30ºC); resultados increíbles con una sola cápsula de detergente concentrado
+- Depositar la cápsula en el tambor de la lavadora antes de la ropa
 - Para un resultado óptimo, combínalo con Lenor UNstoppables perlas de perfume para la ropa
+- Detergente lavadora con tecnología Odor Active que elimina los malos olores
+- Limpieza profunda; eficaz en frío (incluso a 30ºC); resultados increíbles con una sola cápsula de detergente concentrado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088HXYQJ7/?tag=tolees-21)

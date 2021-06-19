@@ -28,10 +28,10 @@ En este momento está [Flor - Suavizante para la ropa concentrado  aroma Oceáni
 
 🔎:
 
-- Suavizante concentrado para ropa fragancia fresca Oceánico
-- Facilita el planchado y evita la electricidad estática en las prendas
-- Nuestra fragancia más fresca que te transportará a los días de verano en la playa
 - Frescor superior gracias a sus micro-cápsulas de fragancia
+- Facilita el planchado y evita la electricidad estática en las prendas
 - Megapack ahorro 530 lavados
+- Suavizante concentrado para ropa fragancia fresca Oceánico
+- Nuestra fragancia más fresca que te transportará a los días de verano en la playa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DJGSKZ3/?tag=tolees-21)

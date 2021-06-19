@@ -29,7 +29,7 @@ Tienes [Cheetos Pelotazos  130g](https://www.amazon.es/dp/B0189C0OEW/?tag=tolees
 ℹ️:
 
 - Producto sin gluten
-- Contiene lactosa
 - Conservar en lugar fresco y seco
+- Contiene lactosa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0189C0OEW/?tag=tolees-21)

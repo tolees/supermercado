@@ -28,8 +28,8 @@ Ahora mismo tienes [Cinereplicas Harry Potter - Molde Ranas de Chocolate + 6 Pla
 
 🔎:
 
-- 100% Food Grade PET
 - PRODUCTO OFICIAL HARRY POTTER bajo licencia Warner Bros.
 - ideal para un cumpleaños, fiesta temática de Harry Potter, fiesta de halloween...
+- 100% Food Grade PET
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X2GXDQS/?tag=tolees-21)
