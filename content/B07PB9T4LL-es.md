@@ -28,10 +28,10 @@ Tienes [Lypumso Dispensador de Jabón Automático  Dispensador de Jabón en Espu
 
 🔎:
 
+- 【Luz Indicadora de Batería】 Lypumso dispensador funciona con 3 pilas AA, la luz indicadora se pone azul cuando funciona correctamente, y la luz roja indica que está en batería baja, hay que cambiar las pilas.
 - 【Ahorro de Tiempo y Agua】 Ajustable tanto para Líquido como para Espumante. Para utilizar jabón líquido con este dispensador, hay que diluir el jabón con agua en una proporcioón de 1:4, agite hasta que se disuelva con el agua. Sale direcctamente la burbuja rica, limpia rápido y económico.
 - 【Nueva Forma de Limpiar--Saludable y Conveniente】 Con tan solo poner la mano en la zona de detección, se obtiene el jabón en espuma. Adiós a la propagación de bacterias y ¡Hola! a la vida saludable.
 - 【Diseño Ergonómico y Humanizado】 El diseño de elevación de 13,5° facilita la obtención de espuma de los niños. 0.5 s de tiempo de reacción evita perfectamente el caso inconsciente. Este moderno y bonito dispensador no solo es funcional, sino también sirve como un adorno en su casa. Con lo fácil de usar, los niños lo amarán y van a acostumbrarse a lavarse las manos. Buena salud, buen estilo de vida.
-- 【Luz Indicadora de Batería】 Lypumso dispensador funciona con 3 pilas AA, la luz indicadora se pone azul cuando funciona correctamente, y la luz roja indica que está en batería baja, hay que cambiar las pilas.
 - 【NOTAS】 NO LAVE el dispensador. Límpielo con un paño húmedo. Evite que objetos bloqueen el área de detección infrarroja. El volumen de líquido no debe exceder el 80% de la capacidad del tanque. Por cualquier duda, puede ponerse en contacto con nosotros.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PB9T4LL/?tag=tolees-21)
