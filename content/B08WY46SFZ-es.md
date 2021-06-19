@@ -28,9 +28,9 @@ Está [Mimosín - Mimosin Suavizante Concentrado Aloe Vera 60 lavados  Paquete d
 
 ℹ️:
 
-- El producto ayuda a mantener el color y el brillo de tu ropa y promueve el secado rápido
-- Es un producto que respeta las pieles sensibles y permite obtener un suavizado dermotestado
 - El Suavizante Concentrado Mimosin Aloe Vera es un producto que que suaviza las fibras de los tejidos dejándolos agradable al tacto
+- Es un producto que respeta las pieles sensibles y permite obtener un suavizado dermotestado
+- El producto ayuda a mantener el color y el brillo de tu ropa y promueve el secado rápido
 - Es un producto testado dermatológicamente que mantiene el color y el brillo, y promueve el secado rápidoLa película de lubricante de Mimosin actúa de modo que tu ropa no se arrugue tanto, reduciendo el tiempo de planchado
 - 60 lavados
 - Mimosín Suavizante Concentrado Aloe Vera
