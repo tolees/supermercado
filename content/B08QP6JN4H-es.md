@@ -29,9 +29,9 @@ Tienes [Botanica by Air Wick - Botanica de Air Wick - Vela Aromática Perfumada 
 🔎:
 
 - El aceite esencial de magnolia se extrae responsablemente en Yannun, a la parte Este del Himalaya y se mezcla delicadamente con vainilla
-- Descubre el resto de fragancias y ambientadores de Botanica by Air Wick
 - Diseño apto para cualquier rincón del hogar
-- Vela aromática perfumada Botanica by Air Wick con aceites esénciales y producida de forma sostenible
+- Descubre el resto de fragancias y ambientadores de Botanica by Air Wick
 - El frasco de vidrio y la tapa son reciclables
+- Vela aromática perfumada Botanica by Air Wick con aceites esénciales y producida de forma sostenible
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08QP6JN4H/?tag=tolees-21)
