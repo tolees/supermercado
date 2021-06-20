@@ -28,15 +28,15 @@ Ahora mismo tienes [Marca Amazon - Lifelong - Treats para perros  ricos en prote
 
 🔎:
 
-- 2 kg (4 x 500gr). Con pavo, vacuno, pato y cordero
-- Ideal para el entrenamiento. Alimento complementario que puede ser usado como recompensa en el entrenamiento
-- Desarrollado por nutricionistas de mascotas y revisado por veterinarios
-- Naturalmente rico en proteínas y muy nutritivo
-- Sin azúcar, saborizantes ni colorantes añadidos
-- Con taurina para favorecer una vista y corazón saludables
-- Apto para todos los tamaños de perro, pequeños, medianos y grandes
-- Sin cebada ni productos lácteos
-- Con vitamina D3 para favorecer unos huesos y dientes saludables. Con vitamina E que ayuda a mantener un buen funcionamiento del sistema inmunitario
 - Enriquecido con vitaminas, minerales y guisantes, una fuente natural de proteína
+- Con vitamina D3 para favorecer unos huesos y dientes saludables. Con vitamina E que ayuda a mantener un buen funcionamiento del sistema inmunitario
+- Sin cebada ni productos lácteos
+- Apto para todos los tamaños de perro, pequeños, medianos y grandes
+- Ideal para el entrenamiento. Alimento complementario que puede ser usado como recompensa en el entrenamiento
+- Naturalmente rico en proteínas y muy nutritivo
+- Con taurina para favorecer una vista y corazón saludables
+- Sin azúcar, saborizantes ni colorantes añadidos
+- 2 kg (4 x 500gr). Con pavo, vacuno, pato y cordero
+- Desarrollado por nutricionistas de mascotas y revisado por veterinarios
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087RRVZZP/?tag=tolees-21)

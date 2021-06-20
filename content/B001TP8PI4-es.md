@@ -28,10 +28,10 @@ Tienes [Sangre de Toro  Vino Tinto  75cl  750ml](https://www.amazon.es/dp/B001TP
 
 🔎:
 
-- Origen: DO Catalunya
-- Graduación: 13,5% vol.
 - Puede disfrutarlo desde ahora, bien conservado aguantará 5-8 años.
-- Delicioso aroma de frutos rojos con una nota especiada (pimienta negra). En boca es cálido, firme, con una fina acidez.
 - Perfecto con carnes estofadas y de caza, las paellas de carne y los quesos semicurados. Servir a 14°-15°C.
+- Graduación: 13,5% vol.
+- Origen: DO Catalunya
+- Delicioso aroma de frutos rojos con una nota especiada (pimienta negra). En boca es cálido, firme, con una fina acidez.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001TP8PI4/?tag=tolees-21)
