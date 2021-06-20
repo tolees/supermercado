@@ -29,7 +29,7 @@ En este momento está [Harimsa Harina Preparado de Churros  3 x 500 G](https://w
 🔎:
 
 - Alérgenos: Trigo, huevo y leche
-- Ingredientes: Harina de trigo, levadura seca, leche en polvo, suero de leche en polvo, sal y espesantes (E-412 y E-415).
 - País de origen: España
+- Ingredientes: Harina de trigo, levadura seca, leche en polvo, suero de leche en polvo, sal y espesantes (E-412 y E-415).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M18JUMM/?tag=tolees-21)
