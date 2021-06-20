@@ -28,9 +28,9 @@ Está [Capricho Andaluz - Aceite de oliva - Virgen Extra - 100 unidades](https:/
 
 ℹ️:
 
+- Se suministra en una caja practica
+- Obtenido directamente de aceitunas y mediante procedimientos mecánicos
 - Se despacha más rápido y es más higiénico
 - Contiene 100 unidades
-- Obtenido directamente de aceitunas y mediante procedimientos mecánicos
-- Se suministra en una caja practica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XA8V6UW/?tag=tolees-21)
