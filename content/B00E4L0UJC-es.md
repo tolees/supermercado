@@ -29,7 +29,7 @@ Tienes [Sunsilk Champú y Acondicionador 2 in 1  250 ml](https://www.amazon.es/d
 ℹ️:
 
 - Lunga Durata
-- Pulizia Donna
 - Igiene Della Persona
+- Pulizia Donna
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00E4L0UJC/?tag=tolees-21)

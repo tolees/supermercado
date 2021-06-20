@@ -28,10 +28,10 @@ Ahora mismo tienes [Gliss - Champú para pelo sensibilizado  delicado - BioTech 
 
 🔎:
 
+- El champú BioTech Restore de Gliss es adecuado para cabello sensibilizado, delicado
+- Cabello hasta un 90% más fuerte. Restaura y fortalece el cabello. Sin siliconas
+- Gama Regeneradora, con complejo de células madre vegetales + agua de rosas regenera el cabello de raíces a punta y estimula el folículo capilar
 - Aplicación: masajear sobre el cabello húmedo. Dejar actuar 1 minuto. Aclarar con abundante agua. Usar regularmente
 - 90% de ingredientes de origen natural incluyendo agua
-- El champú BioTech Restore de Gliss es adecuado para cabello sensibilizado, delicado
-- Gama Regeneradora, con complejo de células madre vegetales + agua de rosas regenera el cabello de raíces a punta y estimula el folículo capilar
-- Cabello hasta un 90% más fuerte. Restaura y fortalece el cabello. Sin siliconas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08LMGW2FX/?tag=tolees-21)

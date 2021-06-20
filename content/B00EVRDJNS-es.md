@@ -28,10 +28,10 @@ Tienes [Vileda Suave - Fregona + 30% microfibras  recambio para fregona  cabezal
 
 ℹ️:
 
-- Anclaje universal apto para cualquier palo
-- Cabezal limpia-rincones, exclusivo de Vileda, para acceder y limpiar fácilmente esquinas y rincones
-- Contenido del envío: 1 x recambio de fregona Suave + 30%, cabezal Universal, lavable hasta 60°, peso 0.13 Kg, medidas: 8 x 28 x 8 cm, color amarillo
 - La composición de fibras ricas en algodón aportan una absorción extra, haciéndola ideal para usar en superficies delicadas
+- Cabezal limpia-rincones, exclusivo de Vileda, para acceder y limpiar fácilmente esquinas y rincones
 - La Fregona suave de Vileda incorpora un 30% de microfibras que incrementa la capacidad de absorción y limpieza
+- Contenido del envío: 1 x recambio de fregona Suave + 30%, cabezal Universal, lavable hasta 60°, peso 0.13 Kg, medidas: 8 x 28 x 8 cm, color amarillo
+- Anclaje universal apto para cualquier palo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00EVRDJNS/?tag=tolees-21)
