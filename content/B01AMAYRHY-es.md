@@ -29,8 +29,8 @@ Está [Nescafé DOLCE GUSTO Magnum Café CORTADO Espresso - Cápsulas de Café -
 ℹ️:
 
 - Con cafeína
+- Su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Cuerpo redondo, combinado con notas a almendras tostadas y nueces
 - Café espresso suavizado con un toque de leche
-- Su sellado hermético mantiene el café fresco conservando todos sus aromas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AMAYRHY/?tag=tolees-21)

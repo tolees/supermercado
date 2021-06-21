@@ -28,10 +28,10 @@ Ahora mismo tienes [STARBUCKS Italian Style Roast by Nespresso Cápsulas de Caf�
 
 🔎:
 
-- Dulce e intenso, tueste italiano intenso sin ese toque ahumado
 - Disfruta de tú café STARBUCKS favorito sin salir de casa
 - Cápsulas de café compatibles con cafeteras NESPRESSO
 - Café 100% arábica; una taza de café llena de sabor para disfrutar a lo largo de todo el día; comprometidos con el abastecimiento 100% ético de café en colaboración con Conservation International
+- Dulce e intenso, tueste italiano intenso sin ese toque ahumado
 - Cápsulas de café de STARBUCKS by NESPRESSO tostado con notas dulces
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08VFMD2GZ/?tag=tolees-21)
