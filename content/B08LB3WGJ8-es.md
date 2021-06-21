@@ -28,10 +28,10 @@ En este momento está [Dreamon Kit de Maquillaje Niñas Lavables  Seguro y No T�
 
 🔎:
 
-- [Kit de Maquillaje Real]Se recomienda realizar una prueba de la oreja trasera en niños con piel sensible.
-- [Conjunto de Verniz de Unhas]Equipado com ferramentas de bricolage de unhas, pode ajudar as crianças a desenvolver a sua imaginação infinita na arte das unhas. E o verniz de unhas é fácil de descascar.
-- [Presente Ideal]Todas as princesas sonham em possuir o seu conjunto de maquilhagem, presente ideal para os seus filhos no Natal ou Aniversário.
 - [Satisfeito com a Curiosidade Infantil]Manter as crianças entretidas durante horas, satisfazendo a sua curiosidade e melhorando a consciência da percepção da beleza.
+- [Conjunto de Verniz de Unhas]Equipado com ferramentas de bricolage de unhas, pode ajudar as crianças a desenvolver a sua imaginação infinita na arte das unhas. E o verniz de unhas é fácil de descascar.
+- [Kit de Maquillaje Real]Se recomienda realizar una prueba de la oreja trasera en niños con piel sensible.
+- [Presente Ideal]Todas as princesas sonham em possuir o seu conjunto de maquilhagem, presente ideal para os seus filhos no Natal ou Aniversário.
 - [Bolsa de Cosméticos Completa]Incluindo sombra de olhos, bastão labial, esmalte de unhas, pincéis, pente, etc. Colocar todos os cosméticos no saco de pelúcia cor-de-rosa e as crianças podem realizar facilmente.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LB3WGJ8/?tag=tolees-21)

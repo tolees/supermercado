@@ -28,9 +28,9 @@ Está [El Nogal Frutos Secos Almendras con Romero Doypack  110 G](https://www.am
 
 ℹ️:
 
-- Alérgenos: Contiene almendras. Puede contener trazas de cacahuetes, de otros frutos de cáscara, soja y leche y derivados.
-- País de Origen: España
-- Ingredientes: ALMENDRA, aceite de girasol alto oleico, sal, antioxidantes (extracto natural rico en tocoferoles, extractos de romero) y hoja romero.
 - Conservar en lugar limpio, fresco y seco. Mantener alejado de la acción de la luz solar.
+- Ingredientes: ALMENDRA, aceite de girasol alto oleico, sal, antioxidantes (extracto natural rico en tocoferoles, extractos de romero) y hoja romero.
+- País de Origen: España
+- Alérgenos: Contiene almendras. Puede contener trazas de cacahuetes, de otros frutos de cáscara, soja y leche y derivados.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B091G6PBVV/?tag=tolees-21)
