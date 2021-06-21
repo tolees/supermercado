@@ -28,10 +28,10 @@ Tienes [Paranix Pack Spray Árbol De Té 250 ml + Tratamiento contra piojos y li
 
 🔎:
 
-- Paranix es una gama de productos 100% eficaz y rápida para detectar, eliminar y prevenir una infestación de piojos.
 - El árbol de té y el aceite de coco son ingredientes naturales tradicionalmente conocidos por sus propiedades protectoras.
-- Paranix protección spray protege, moldea e hidrata el cabello gracias a su fórmula exclusiva con árbol de té, aceite de coco y dimeticona.
 - Sin insecticidas, sin olor, sin alcohol, sin parabenos.
 - 100% eficaz contra piojos y liendres en 1 sola aplicación.
+- Paranix protección spray protege, moldea e hidrata el cabello gracias a su fórmula exclusiva con árbol de té, aceite de coco y dimeticona.
+- Paranix es una gama de productos 100% eficaz y rápida para detectar, eliminar y prevenir una infestación de piojos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08B6MB5Q9/?tag=tolees-21)
