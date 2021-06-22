@@ -28,13 +28,13 @@ Tienes [Dove Desodorante Aerosol Sensitive 0% 200ml Pack de 6](https://www.amazo
 
 🔎:
 
-- Sin Alcohol
-- Con Fragancia Neutra
-- Con 1/4 de crema hidratante
-- Protección 48h
-- Formato Aerosol
-- Sin sales de aluminio
-- Dove Desodorante Aerosol Sensitive 0%
 - Hipoalergénico
+- Protección 48h
+- Dove Desodorante Aerosol Sensitive 0%
+- Con Fragancia Neutra
+- Formato Aerosol
+- Con 1/4 de crema hidratante
+- Sin sales de aluminio
+- Sin Alcohol
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088CGWTT9/?tag=tolees-21)

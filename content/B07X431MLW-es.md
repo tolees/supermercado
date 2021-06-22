@@ -28,11 +28,11 @@ Está [STARBUCKS White Cup Variety Pack De Nescafe Dolce Gusto Cápsulas De Caf�
 
 ℹ️:
 
-- Esta especial variedad de cápsulas ha sido seleccionada para que puedas degustar muestra completa gama de cafés
-- Cápsulas de café compatibles con las máquinas de café NESCAFE DOLCE GUSTO
-- Comprometidos con el abastecimiento ético de café al 100 % en colaboración con Conservation International
-- Cápsulas de café STARBUCKS by NESCAFE DOLCE GUSTO, con una variedad de diferentes tipos de tueste y blends de la familia STARBUCKS
-- 18 x bebidas de Cappuccino, 12 x bebidas de Latte Macchiato, 6 x bebidas de Caramel Macchiato
 - Disfruta de STARBUCKS en casa. Tu café favorito sin salir de casa
+- Esta especial variedad de cápsulas ha sido seleccionada para que puedas degustar muestra completa gama de cafés
+- 18 x bebidas de Cappuccino, 12 x bebidas de Latte Macchiato, 6 x bebidas de Caramel Macchiato
+- Cápsulas de café STARBUCKS by NESCAFE DOLCE GUSTO, con una variedad de diferentes tipos de tueste y blends de la familia STARBUCKS
+- Comprometidos con el abastecimiento ético de café al 100 % en colaboración con Conservation International
+- Cápsulas de café compatibles con las máquinas de café NESCAFE DOLCE GUSTO
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X431MLW/?tag=tolees-21)

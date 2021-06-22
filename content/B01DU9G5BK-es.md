@@ -28,9 +28,9 @@ Tienes [Heineken Cerveza - Caja de 5 Torps Diseñado exclusivamente para THE SUB
 
 ℹ️:
 
-- La única que reposa en tanques horizontales durante 28 días para proporcionar la presión perfecta a la levadura
+- De color amarillo brillante y espuma blanca intensa. Con aroma frutal, con ligero sabor dulce y amargor suave
 - Ingredientes Naturales: Agua, malta de cebada, lúpulo y la levadura tipo A única de Heineken
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
-- De color amarillo brillante y espuma blanca intensa. Con aroma frutal, con ligero sabor dulce y amargor suave
+- La única que reposa en tanques horizontales durante 28 días para proporcionar la presión perfecta a la levadura
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DU9G5BK/?tag=tolees-21)

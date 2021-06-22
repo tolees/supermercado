@@ -28,9 +28,9 @@ Ahora mismo tienes [Skip Detergente Líquido Fragancia Moussel - 50 lavados 2500
 
 🔎:
 
-- 2.5 litros
 - Producto que combina tradición e innovación
 - Detergente líquido
+- 2.5 litros
 - 50 lavados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S6CM8F7/?tag=tolees-21)
