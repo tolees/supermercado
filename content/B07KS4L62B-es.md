@@ -28,10 +28,10 @@ Ahora mismo tienes [L Or Espresso Café Onyx Intensidad 11 - 200 cápsulas de al
 
 🔎:
 
+- Peso neto (1 paquete): 104 g
+- Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
 - Sabor Intenso - Potente - Notable
 - Un tostado intenso de granos de café, finamente molidos para revelar una mezcla profunda junto con un toque amargo a cacao
 - Intensidad 12
-- Peso neto (1 paquete): 104 g
-- Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KS4L62B/?tag=tolees-21)

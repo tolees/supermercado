@@ -28,9 +28,9 @@ En este momento está [Nescafé DOLCE GUSTO Variety Pack - 3 Estuches Espresso I
 
 🔎:
 
-- El sellado hermético mantiene el café fresco conservando las aromas
 - Cotiene 96 cápsulas
-- Contiene 3 estuches de espresso intenso y 3 estuches de café con leche
+- El sellado hermético mantiene el café fresco conservando las aromas
 - Café gourmet con el sabor Nescafé Dolce Gusto
+- Contiene 3 estuches de espresso intenso y 3 estuches de café con leche
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GTCBCPP/?tag=tolees-21)

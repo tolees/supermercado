@@ -28,10 +28,10 @@ Ahora mismo tienes [Weider Isolate Whey 100CFM. 100% aislado de proteina de suer
 
 🔎:
 
-- No contiene aspartamo, ni azúcar solo edulcorantes naturales
-- Esta magnifica proteína es perfecta para recuperar después de cada entrenamiento, y ayudarte a conseguir tus objetivos
 - 100% Pura proteina aislada de suero de leche isolac (Whey) naturalmente rica en BCAA
-- Está enriquecida con enzimas digestivas (Digezyme), que asegura que los nutrientes se absorban y asimilen mejor.
 - Elaborada a partir de leche de vacas en libertad que se alimentan en pastos (Grass-Fed)
+- No contiene aspartamo, ni azúcar solo edulcorantes naturales
+- Está enriquecida con enzimas digestivas (Digezyme), que asegura que los nutrientes se absorban y asimilen mejor.
+- Esta magnifica proteína es perfecta para recuperar después de cada entrenamiento, y ayudarte a conseguir tus objetivos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NZ7VF2D/?tag=tolees-21)
