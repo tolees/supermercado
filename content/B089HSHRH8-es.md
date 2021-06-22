@@ -28,9 +28,9 @@ En este momento está [TRESemmé Champú Cuidado Clasico 6 x 855 ML](https://www
 
 🔎:
 
-- Acabado de peluquería
 - Purifica y devuelve tu cabello a la vitalidad
 - Limpia en profundidad
+- Acabado de peluquería
 - Elimina residuos
 - Proporciona sensación de frescor
 - Champú cuidado clásico 855ml
