@@ -1,32 +1,39 @@
 ---
 layout: post
-title: 'Optimum Nutrition ON Gold Standard 100%  al 11.96 % de descuento'
-date: 2020-08-14 23:08:37
-image: 'https://m.media-amazon.com/images/I/41p6IXGU5FL._SL400_.jpg'
+title: 'Optimum Nutrition Gold Standard 100% Whe al 14.55 % de descuento'
+date: 2021-06-22 18:32:35
+image: 'https://m.media-amazon.com/images/I/51f38s9YCiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B002DYIZHG-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en...'
+slug: 'B002DYIZHG-es Optimum Nutrition Gold Standard 100% Whey Proteína en...'
 sku: 'B002DYIZHG-es'
-tags: [ 'chocolate', ]
-actualPrice: 25.85 EUR
+tags: [ 'Dieta y nutrición en medicamentos, remedios y suplementos dietéticos','Salud y cuidado personal','Suplementos para deportistas en medicamentos, remedios y suplementos dietéticos','Vitaminas, minerales y suplementos en medicamentos, remedios y suplementos dietéticos','chocolate','optimum nutrition', ]
+actualPrice: 29.9 EUR
 currency: EUR
-price: 25.85
-comparePrice: 29.36 EUR
-prodname: 'Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos  Glutamina y Aminoacidos  BCAA  Extremo Chocolate  Leche  28 Porciones  900 g  Embalaje Puede Variar'
+price: 29.9
+comparePrice: 34.99 EUR
+prodname: 'Optimum Nutrition Gold Standard 100% Whey Proteína en Polvo  Glutamina y Aminoácidos Naturales  BCAA  Extremo Chocolate  Leche  28 Porciones  896 g  Embalaje Puede Variar'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'OPTIMUM NUTRITION'
 buyurl: 'https://www.amazon.es/dp/B002DYIZHG/?tag=tolees-21'
-descuento: '11.96'
-average: '24.483333333333334'
+descuento: '14.55'
+average: '25.025'
 ---
 
-Ahora mismo tienes [Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos  Glutamina y Aminoacidos  BCAA  Extremo Chocolate  Leche  28 Porciones  900 g  Embalaje Puede Variar](https://www.amazon.es/dp/B002DYIZHG/?tag=tolees-21) a 25.85 EUR (original: 29.36 EUR) (11.96 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Optimum Nutrition Gold Standard 100% Whey Proteína en Polvo  Glutamina y Aminoácidos Naturales  BCAA  Extremo Chocolate  Leche  28 Porciones  896 g  Embalaje Puede Variar](https://www.amazon.es/dp/B002DYIZHG/?tag=tolees-21) a 29.9 EUR (original: 34.99 EUR) (14.55 %  de descuento) en el siguiente enlace!
 
-[![Optimum Nutrition ON Gold Standard 100% ](https://m.media-amazon.com/images/I/41p6IXGU5FL._SL400_.jpg)](https://www.amazon.es/dp/B002DYIZHG/?tag=tolees-21)
+[![Optimum Nutrition Gold Standard 100% Whe](https://m.media-amazon.com/images/I/51f38s9YCiL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B002DYIZHG/?tag=tolees-21)
 
 🔎:
 
+- La proteína en polvo de suero de leche instantánea Número 1 en ventas* durante más de 20 años, adecuado para aquellos que buscan una ayuda antes, durante y después de entrenar
+- Disponible en diferentes sabores: es adecuado para mezclar con tus comidas y bebidas favoritas a cualquier hora del día
+- Contiene aminoácidos ramificados BCCAS + GLUTAMINA naturales
+- El ambalaje puede variar; imagen actualizada, la misma calidad
+- Bajo contenido en Azúcar y grasa
+- Proteína de suero de absorción rápida con aislado de proteína de suero de leche como uno de sus ingredientes naturales que ayuda a la creación y recuperación musculares
+- * Fuente: Euromonitor International Limited; Edición Consumer Health 2021; Categoría proteína en polvo para deportistas; % Porción de valor minorista; Datos 2020
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002DYIZHG/?tag=tolees-21)
