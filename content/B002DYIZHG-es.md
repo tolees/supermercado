@@ -28,12 +28,12 @@ Ahora mismo tienes [Optimum Nutrition Gold Standard 100% Whey Proteína en Polvo
 
 🔎:
 
+- * Fuente: Euromonitor International Limited; Edición Consumer Health 2021; Categoría proteína en polvo para deportistas; % Porción de valor minorista; Datos 2020
 - La proteína en polvo de suero de leche instantánea Número 1 en ventas* durante más de 20 años, adecuado para aquellos que buscan una ayuda antes, durante y después de entrenar
 - Disponible en diferentes sabores: es adecuado para mezclar con tus comidas y bebidas favoritas a cualquier hora del día
-- Contiene aminoácidos ramificados BCCAS + GLUTAMINA naturales
-- El ambalaje puede variar; imagen actualizada, la misma calidad
-- Bajo contenido en Azúcar y grasa
 - Proteína de suero de absorción rápida con aislado de proteína de suero de leche como uno de sus ingredientes naturales que ayuda a la creación y recuperación musculares
-- * Fuente: Euromonitor International Limited; Edición Consumer Health 2021; Categoría proteína en polvo para deportistas; % Porción de valor minorista; Datos 2020
+- El ambalaje puede variar; imagen actualizada, la misma calidad
+- Contiene aminoácidos ramificados BCCAS + GLUTAMINA naturales
+- Bajo contenido en Azúcar y grasa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002DYIZHG/?tag=tolees-21)
