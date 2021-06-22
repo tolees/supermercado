@@ -28,10 +28,10 @@ Está [JABON DE ZORRO D AVI JABON DE ZORRO  PARA LA CARA Y EL MORRO - Jabón Zor
 
 ℹ️:
 
+- ✅HIDRATANTE y REGENERADOR: Este jabón ecológico de Vino está indicado para uso facial y corporal. Las propiedades del Vino son perfectas para calmar e hidratar la piel. De esta manera, conseguirás una piel hidratada y cuidada al mismo tiempo
 - ✅RESPETUOSOS CON EL MEDIOAMBIENTE: Nuestros productos se caracterizan por ser “zero waste”. Nos esforzamos por garantizar la sostenibilidad, gracias a la elaboración de los jabones con materias primas naturales biodegradables, envasados en cartón reciclable y vidrio. Nuestros jabones son una gran alternativa a los geles envasados en plástico o fabricados con ingredientes artificiales
+- ✅JABÓN ARTESANAL: Elaboramos nuestros jabones de manera 100% artesanal. Así, garantizamos el respeto por el medioambiente, una excelente calidad y unas propiedades que lo diferencian del resto de jabones artificiales del mercado. ¡Nuestro jabón natural es libre en parabenos, colorantes, conservantes y aromatizantes!
 - ✅INGREDIENTES NATURALES: Damos importancia al cuidado natural de la piel, por lo que utilizamos materias primas de origen natural y ecológico de la mejor calidad para crear una combinación única con cada jabón. Además, estos jabones naturales son libres de aceites minerales derivados del petróleo, como parafinas, glicerinas, parabenos o alcohol. ¡Tampoco contienen aceite de palma!
 - ✅ JABÓN SÓLIDO: Este jabón destaca por ser el acompañante perfecto para llevar en el neceser de viaje, para el día a día o incluso como jabón para regalar. Gracias a su ligero peso y tamaño pequeño, podrás incluirlo en tu rutina sin necesidad de tener un montón de productos diferentes. ¡Dura hasta 4 veces más que un gel tradicional!
-- ✅HIDRATANTE y REGENERADOR: Este jabón ecológico de Vino está indicado para uso facial y corporal. Las propiedades del Vino son perfectas para calmar e hidratar la piel. De esta manera, conseguirás una piel hidratada y cuidada al mismo tiempo
-- ✅JABÓN ARTESANAL: Elaboramos nuestros jabones de manera 100% artesanal. Así, garantizamos el respeto por el medioambiente, una excelente calidad y unas propiedades que lo diferencian del resto de jabones artificiales del mercado. ¡Nuestro jabón natural es libre en parabenos, colorantes, conservantes y aromatizantes!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08MTM6PBY/?tag=tolees-21)

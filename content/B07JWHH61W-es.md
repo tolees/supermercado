@@ -28,9 +28,9 @@ Está [Maddox Detail - Leather Care Kit - Limpiador y acondicionador de cuero y 
 
 ℹ️:
 
+- Leather Detailer es un producto de alto rendimiento y eficacia para la limpieza de la suciedad y las manchas más difíciles de tapicerías de piel y cuero
+- Leather Aconditioner es un nutriente antienvejecimiento de alta calidad que preserva el equilibrio natural, especial para asientos y revestimientos de piel y cuero
 - Kit de limpieza y restauración de cuero y piel.
 - El kit contiene dos productos Leather Detailer y Leather Aconditioner.
-- Leather Aconditioner es un nutriente antienvejecimiento de alta calidad que preserva el equilibrio natural, especial para asientos y revestimientos de piel y cuero
-- Leather Detailer es un producto de alto rendimiento y eficacia para la limpieza de la suciedad y las manchas más difíciles de tapicerías de piel y cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JWHH61W/?tag=tolees-21)
