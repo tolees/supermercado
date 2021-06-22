@@ -28,10 +28,10 @@ En este momento está [Campos  Conservas De Atún claro en aceite de oliva 750 g
 
 🔎:
 
-- En aceite de oliva, gran corte de pescado
-- Conserva de atún claro en aceite de oliva tapa easy-peel, abré ras
-- País de origen: España, producto natural sin conservantes ni colorantes
 - Lata de 750 g para un consumo de volumen, especial hostelería. Inluye tapa de plástico para cerrar una vez abierto.
 - Método de pesca: cerco. Ver especie y zona de pesca en la lata.
+- País de origen: España, producto natural sin conservantes ni colorantes
+- En aceite de oliva, gran corte de pescado
+- Conserva de atún claro en aceite de oliva tapa easy-peel, abré ras
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FY31V8G/?tag=tolees-21)

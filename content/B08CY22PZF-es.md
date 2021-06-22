@@ -28,10 +28,10 @@ Ahora mismo tienes [Filipetti Vermouth Bianco Vino - 6 Paquetes de 1000 ml - Tot
 
 🔎:
 
+- Maridaje con pastas, mariscos, quesos maduros y duros, pescado magro y carne curada
 - Un color paja transparente
+- Acabado refrescante con agradable amargor
 - Armonioso y rico aroma de hierbas, especias con notas de vainilla
 - Sabor completo y duradero
-- Maridaje con pastas, mariscos, quesos maduros y duros, pescado magro y carne curada
-- Acabado refrescante con agradable amargor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CY22PZF/?tag=tolees-21)
