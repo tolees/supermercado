@@ -29,9 +29,9 @@ Ahora mismo tienes [Alpha Foods - Proteína vegana - VAINILLA - Proteína vegeta
 🔎:
 
 - No sólo vegano sino vegetal: 100% vegetal, sin gluten, libre de contaminantes y cultivos modificados genéticamente. Completamente libre de agentes de liberación, aromas artificiales y edulcorantes, colorantes, estabilizadores, rellenos y, además, sin lactosa, sin gluten y sin conservantes.
-- Diseñado en California, fabricado en Alemania.
-- Auténtico, naturalmente delicioso: refinado con auténtica vainilla y una pizca de canela de ceilán. Sin edulcorantes artificiales como sucralosa, acesulfam-K o aspartamo.
 - Proteína vegetal: fuentes de proteínas veganas, entre otros, de arroz salvaje germinado, semillas de calabaza, semillas de girasol, linaza y guisantes amarillos.
+- Auténtico, naturalmente delicioso: refinado con auténtica vainilla y una pizca de canela de ceilán. Sin edulcorantes artificiales como sucralosa, acesulfam-K o aspartamo.
+- Diseñado en California, fabricado en Alemania.
 - Cada lote de producción probado en laboratorio: tu seguridad y nuestra prioridad es nuestra prioridad. Por eso dejamos que las materias primas y el producto final de cada lote de producción único, tanto en funcionamiento como en finalidad por un laboratorio independiente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01IPWG92M/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Lavazza Café en Grano Tostado Crema e Gusto  Café Espresso Arábica y 
 
 ℹ️:
 
-- MEZCLA: Arábica y Robusta - Tueste: Oscuro - Intensidad: 8 Media intensa
-- ENVASE: Café Lavazza en grano Crema e Gusto, paquete de 1 kg
-- CALIDAD LAVAZZA: una mezcla de café en grano suave y envolvente de la excelente variedad Arábica de Brasil y Robusta del Sudeste Asiático
-- NATURAL: No Torrefacto. En el envase aparece la palabra en italiano “torrefatto” que en español significa “tostado”.
 - ASPECTO: crema dorada y color cálido - AROMA: notas de chocolate - SABOR: persistente y equilibrado
+- ENVASE: Café Lavazza en grano Crema e Gusto, paquete de 1 kg
+- NATURAL: No Torrefacto. En el envase aparece la palabra en italiano “torrefatto” que en español significa “tostado”.
 - AROMÁTICO: sabor redondo y envolvente con notas aromáticas especiadas. El café ideal para cualquier hora del día
+- MEZCLA: Arábica y Robusta - Tueste: Oscuro - Intensidad: 8 Media intensa
+- CALIDAD LAVAZZA: una mezcla de café en grano suave y envolvente de la excelente variedad Arábica de Brasil y Robusta del Sudeste Asiático
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00EDHQQLI/?tag=tolees-21)
