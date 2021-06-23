@@ -28,10 +28,10 @@ En este momento está [Finish Abrillantador Lavavajillas Fragancia Limón - 500 
 
 🔎:
 
-- Finish es la marca recomendada por los principales fabricantes de lavavajillas
-- Consigue una vajilla y una cristalería brillante
-- Finish Abrillantador: acelera el secado y evita que la vajilla salga húmeda del lavavajillas
-- Combate las marcas de agua en la cristaleria
 - Evita los residuos del aclarado
+- Consigue una vajilla y una cristalería brillante
+- Combate las marcas de agua en la cristaleria
+- Finish Abrillantador: acelera el secado y evita que la vajilla salga húmeda del lavavajillas
+- Finish es la marca recomendada por los principales fabricantes de lavavajillas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XAEMHV8/?tag=tolees-21)
