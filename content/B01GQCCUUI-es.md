@@ -29,10 +29,10 @@ Está [Valisol Solar Champú Reparador Hidratante  Limpia y Repara Frente al Sol
 ℹ️:
 
 - Laboratorio y fabricante certificado según las normas: ISO 9001, ISO 14001, ISO 22716, Aenor I+D+i y Certificación Halal
-- Para el cabello: Tratado de color
+- No testado en animales
+- Formulado con SEA SILK (activo obtenido de algas marinas)
 - Lava suavemente el cabello eliminando totalmente los restos de sal y cloro
 - Fabricado con agua purificada
-- Formulado con SEA SILK (activo obtenido de algas marinas)
-- No testado en animales
+- Para el cabello: Tratado de color
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GQCCUUI/?tag=tolees-21)
