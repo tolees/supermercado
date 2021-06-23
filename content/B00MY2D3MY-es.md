@@ -28,10 +28,10 @@ En este momento está [Rexona Maximum Protection - Desodorante Roll On Antitrans
 
 🔎:
 
-- No es necesario volver a aplicar, incluso con sudoración intensa
-- La aplicación del producto por la noche garantiza un resultado óptimo
 - Controla la sudoración excesiva y el mal olor
 - Dermatológicamente testado para un uso diario
+- No es necesario volver a aplicar, incluso con sudoración intensa
+- La aplicación del producto por la noche garantiza un resultado óptimo
 - Rexona Máxima Protección antitranspirante
 - Proporciona 96 horas de protección duradera
 

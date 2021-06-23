@@ -29,9 +29,9 @@ Tienes [Tulipán Negro  TULRL  Champú Micelar Purificante 500 Ml  Morado](https
 ℹ️:
 
 - Libre de sulfatos, parabenos y colorantes. Dermatológicamente testado
+- No testado en animales. Vegano. Fabricación íntegra en España
+- La acción purificante del Eucalipto, normaliza el exceso de secreciones sebáceas acumuladas en el cabello dejando una melena más suelta y con menos peso
 - Género; Unisex. Adulto.
 - Limpieza suave, eficaz y respetuosa del cuero cabelludo. Cremosa espuma.
-- La acción purificante del Eucalipto, normaliza el exceso de secreciones sebáceas acumuladas en el cabello dejando una melena más suelta y con menos peso
-- No testado en animales. Vegano. Fabricación íntegra en España
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B095SY3YX5/?tag=tolees-21)
