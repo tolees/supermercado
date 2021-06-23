@@ -29,9 +29,9 @@ Tienes [Duron - Durón – Vino Tinto Crianza 2016 Denominación de Origen Riber
 🔎:
 
 - Variedad de uva: 100% Tinta del país
-- CRIANZA: Crianza de 12 meses en barrica de roble americano y francés
-- AROMA: Varietales a frutos negros (mora), matices especiados y de madera de roble bien integrados.
-- BOCA: Equilibrado, sabroso, redondo y estructurado. Largo, con taninos muy pulidos y notable persistencia aromática.
 - COLOR: Limpio y brillante, tonalidades rojo picota con ribetes color rubí.
+- CRIANZA: Crianza de 12 meses en barrica de roble americano y francés
+- BOCA: Equilibrado, sabroso, redondo y estructurado. Largo, con taninos muy pulidos y notable persistencia aromática.
+- AROMA: Varietales a frutos negros (mora), matices especiados y de madera de roble bien integrados.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BZTVMW4/?tag=tolees-21)

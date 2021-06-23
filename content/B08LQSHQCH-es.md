@@ -28,10 +28,10 @@ En este momento está [Bodegas Alavesas – Vino Tinto Crianza 2018 Denominació
 
 🔎:
 
+- Variedad de uva: 100% tempranillo
 - AROMA: Intensos aromas a frutas negras compotadas (mora y ciruela), en armonía con tonos a madera de roble especiados (clavo y vainilla) y un fondo de sotobosque
 - BOCA: Gran equilibrio y frescura, donde las sensaciones se funden en un gusto sedoso y pulido, con taninos vivos muy integrados y un final armonioso aromático
-- CRIANZA: Crianza de 12 meses en barricas de roble Americano
-- Variedad de uva: 100% tempranillo
 - COLOR: Rojo rubí intenso
+- CRIANZA: Crianza de 12 meses en barricas de roble Americano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LQSHQCH/?tag=tolees-21)
