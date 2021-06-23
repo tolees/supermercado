@@ -28,12 +28,12 @@ Ahora mismo tienes [Rexona Maximum Protection Crema Antitranspirante Stress Cont
 
 🔎:
 
+- Controla la sudoración excesiva y el mal olor
+- Proporciona 96 horas de protección duradera
 - Dermatológicamente testado para un uso diario
+- La aplicación del producto por la noche garantiza un resultado óptimo
 - 7 veces eficaz que un antitranspirante básico
 - Rexona Máxima Protección antitranspirante (Pack de 3 unidades)
-- Proporciona 96 horas de protección duradera
-- La aplicación del producto por la noche garantiza un resultado óptimo
 - No es necesario volver a aplicar, incluso con sudoración intensa
-- Controla la sudoración excesiva y el mal olor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00PUDU7DW/?tag=tolees-21)
