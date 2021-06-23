@@ -28,10 +28,10 @@ En este momento está [Brockman s ginebra botella 70 cl](https://www.amazon.es/d
 
 🔎:
 
-- Nariz: Cilantro, cítricos, bayas silvestres, jengibre.
-- Esta ginebra es muy adecuada para mezclar con tónica o ginger ale. Pero también sabe muy bien en los cócteles.
+- Color: claro.
 - Acabado: Larga duración.
 - Sabor: Bayas de enebro, arándanos, moras, cáscara de naranja.
-- Color: claro.
+- Nariz: Cilantro, cítricos, bayas silvestres, jengibre.
+- Esta ginebra es muy adecuada para mezclar con tónica o ginger ale. Pero también sabe muy bien en los cócteles.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008HKMK8U/?tag=tolees-21)
