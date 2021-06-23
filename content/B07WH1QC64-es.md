@@ -30,8 +30,8 @@ Tienes [AMEITECH - Organizador de Maquillaje  Estante de Almacenamiento Giratori
 
 - REGALO IDEAL: se mezcla fácilmente en su tocador o encimera en el baño, dormitorio o vestidor; el regalo perfecto para los miembros de su familia, amigos y seres queridos en el Día de la Madre, Navidad, San Valentín, Año Nuevo, cumpleaños y cualquier otro día festivo.
 - MEJOR SERVICIO AL CLIENTE: Cualquier problema, contáctenos directamente. Definitivamente resolveremos el problema por primera vez y le proporcionaremos una garantía de 24 meses.
-- FÁCIL DE INSTALAR: fácil de montar y desmontar, ajuste la altura de los laminados como desee.
-- ORGANIZADOR DE MAQUILLAJE ROTATIVO: organiza y almacena perfectamente sus cosméticos y accesorios.
 - GRAN CAPACIDAD: Mide 32 cm de altura y 22 cm de diámetro (base) cuando se ensambla. La placa superior con 13 compartimentos es buena para esmaltes de uñas, lápices labiales, cortaúñas, pinceles de maquillaje y más. Frascos para el cuidado de la piel de capa media, frascos de perfume, lavados.
+- ORGANIZADOR DE MAQUILLAJE ROTATIVO: organiza y almacena perfectamente sus cosméticos y accesorios.
+- FÁCIL DE INSTALAR: fácil de montar y desmontar, ajuste la altura de los laminados como desee.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WH1QC64/?tag=tolees-21)
