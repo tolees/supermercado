@@ -28,15 +28,15 @@ Ahora mismo tienes [Control Lub Gel Tropical Gel lubricante con aroma a fruta de
 
 🔎:
 
-- Formato 75 ml
-- Sin azúcar, sin gluten
-- Aroma a fruta de la pasión
 - No es graso, no mancha y es fácil de eliminar con agua
-- El contacto oral no supone un riesgo
-- Hidratante e hipoalergénico
-- Compatible con el uso del preservativo
-- Desarrollado para facilitar la penetración, permitiendo un mayor placer e intensidad durante tus relaciones sexuales.
-- Fabricado en Italia
 - Gel lubricante íntimo de base acuosa para la sequedad vaginal y genital.
+- Aroma a fruta de la pasión
+- Formato 75 ml
+- Desarrollado para facilitar la penetración, permitiendo un mayor placer e intensidad durante tus relaciones sexuales.
+- Hidratante e hipoalergénico
+- El contacto oral no supone un riesgo
+- Compatible con el uso del preservativo
+- Sin azúcar, sin gluten
+- Fabricado en Italia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P4PS8S2/?tag=tolees-21)

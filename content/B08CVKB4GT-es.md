@@ -28,10 +28,10 @@ Tienes [UHAPEER Juego de Herramientas para Cortar Jabón  Handmade Soap DIY Tool
 
 🔎:
 
-- 【Grosor ajustable】 Puede ajustar el grosor de sus rodajas. Lectura de escala clara, fácil de controlar y obtener el tamaño de jabón correcto, se adapta a la mayoría de los tamaños.
-- 【Excelente calidad】 Hecho de madera maciza con adornos delicados y hoja de acero inoxidable, fijada firmemente con tornillos, segura y duradera. Todo es para forjar este cortador de jabón de buena calidad. Herramienta esencial de bricolaje hecha a mano súper fácil de usar.
-- 【Paquete económico de juego de moldes para jabón】 Juego de 9 piezas: 1x molde para picar pino ajustable, 1x caja de madera rectangular, 1x tapa, 1x molde rectangular de silicona, 1x alambre cortador de jabón de madera de acero inoxidable, 2x moldes de silicona para jabón de trébol pequeño con cuatro hojas, 1x plano Cortador de jabón en rebanadas, 1x cortador de jabón en rebanadas onduladas
-- 【Muy divertido】 Lavar a mano con agua caliente y jabón. Enjuague y seque inmediatamente. Si eres un entusiasta del bricolaje, ¡no te pierdas este set! También son muy adecuados como regalo para tu amada.
 - 【Molde para jabón de cuatro hojas】 El molde para jabón utiliza silicona de alta calidad, es seguro, confiable y duradero. La superficie del molde de jabón es antiadherente, por lo que es fácil de liberar el jabón, la limpieza también es conveniente, se puede reciclar.
+- 【Paquete económico de juego de moldes para jabón】 Juego de 9 piezas: 1x molde para picar pino ajustable, 1x caja de madera rectangular, 1x tapa, 1x molde rectangular de silicona, 1x alambre cortador de jabón de madera de acero inoxidable, 2x moldes de silicona para jabón de trébol pequeño con cuatro hojas, 1x plano Cortador de jabón en rebanadas, 1x cortador de jabón en rebanadas onduladas
+- 【Excelente calidad】 Hecho de madera maciza con adornos delicados y hoja de acero inoxidable, fijada firmemente con tornillos, segura y duradera. Todo es para forjar este cortador de jabón de buena calidad. Herramienta esencial de bricolaje hecha a mano súper fácil de usar.
+- 【Grosor ajustable】 Puede ajustar el grosor de sus rodajas. Lectura de escala clara, fácil de controlar y obtener el tamaño de jabón correcto, se adapta a la mayoría de los tamaños.
+- 【Muy divertido】 Lavar a mano con agua caliente y jabón. Enjuague y seque inmediatamente. Si eres un entusiasta del bricolaje, ¡no te pierdas este set! También son muy adecuados como regalo para tu amada.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CVKB4GT/?tag=tolees-21)
