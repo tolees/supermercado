@@ -28,10 +28,10 @@ Tienes [Sisbrill Car  Acondicionador Multi-Top de Salpicaderos  Plásticos y Pie
 
 ℹ️:
 
-- ✅Piel: nutre el cuero y la piel proporcionando una buena hidratación con tacto SECO
-- ✅Recuperación plásticos interiores: Si queremos recuperar el color/tono original, aplicamos una cantidad dejándola que seque sola durante varios minutos después pasamos un paño para quitar sobrante.
-- ✅Sisbrill Car es el primer MULTI-TOP que se puede aplicar en materiales tan diversos como los salpicaderos, los plásticos, las gomas y el cuero/la piel logrando los mayores niveles de calidad en limpieza, abrillantado acondicionado nutrición y recuperación del color.
 - ✅En el interior: limpia y mantiene el salpicadero y los plásticos de las puertas. Una sola aplicación de Sisbrill Car Multi-Top genera una capa protectora contra los Rayos UV. Al ser antiestático ayuda a que el polvo no se adhiera.
+- ✅Piel: nutre el cuero y la piel proporcionando una buena hidratación con tacto SECO
+- ✅Sisbrill Car es el primer MULTI-TOP que se puede aplicar en materiales tan diversos como los salpicaderos, los plásticos, las gomas y el cuero/la piel logrando los mayores niveles de calidad en limpieza, abrillantado acondicionado nutrición y recuperación del color.
 - ✅En el exterior: regenera y recupera los plásticos deteriorados de la defensa, la parrilla, el motor durante muchos meses. El color original vuelve a ser visto de nuevo. Tras 24 horas de su aplicación obtiene su máxima dureza, resistiendo durante meses y meses limpiezas y lavados a presión.
+- ✅Recuperación plásticos interiores: Si queremos recuperar el color/tono original, aplicamos una cantidad dejándola que seque sola durante varios minutos después pasamos un paño para quitar sobrante.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00KWZT5OU/?tag=tolees-21)
