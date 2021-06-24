@@ -28,10 +28,10 @@ Está [CZ - Grifo de agua fría montado en la pared para baño  lavabo  bañera 
 
 ℹ️:
 
-- Calidad prémium: cartucho de disco de cerámica, cuerpo del grifo de latón, garantiza calidad y longevidad.
-- Garantía 100% satisfactoria: cualquier pregunta, por favor póngase en contacto con el equipo de servicio de Siderit para ayudarle hasta su satisfacción.
 - Diseño vintage: diseño elegante, fácil de usar, lleno de imaginación y creatividad.
 - Dimensiones de la lámpara: longitud: 15,5 cm; diámetro de la entrada de agua: 2 cm.
 - Fácil operación: diseño de palanca única para un flujo sin esfuerzo y fácil operación.
+- Calidad prémium: cartucho de disco de cerámica, cuerpo del grifo de latón, garantiza calidad y longevidad.
+- Garantía 100% satisfactoria: cualquier pregunta, por favor póngase en contacto con el equipo de servicio de Siderit para ayudarle hasta su satisfacción.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FLNYX6L/?tag=tolees-21)

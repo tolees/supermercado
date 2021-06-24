@@ -28,10 +28,10 @@ Ahora mismo tienes [Tovess Whisky escocés de mezcla 8 años - 700 ml](https://w
 
 🔎:
 
-- Clásico whisky escocés de mezcla añejado 8 años, madurado en barricas de roble para un final de boca cálido y suave
-- Whisky escocés mezclado, un clásico del grano a la copa que te hará disfrutar allá donde estés
-- Elaborado a partir de diferentes whiskys de primera calidad procedentes de las regiones escocesas de Speyside, Highland y Lowland
-- El whisky escocés mezclado de Tovess con 8 años de maduración tiene una graduación alcohólica de 40,0°
 - Con notas florales y matices dulces y especiados para un sabor excepcional
+- Whisky escocés mezclado, un clásico del grano a la copa que te hará disfrutar allá donde estés
+- El whisky escocés mezclado de Tovess con 8 años de maduración tiene una graduación alcohólica de 40,0°
+- Clásico whisky escocés de mezcla añejado 8 años, madurado en barricas de roble para un final de boca cálido y suave
+- Elaborado a partir de diferentes whiskys de primera calidad procedentes de las regiones escocesas de Speyside, Highland y Lowland
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085FK2T7T/?tag=tolees-21)
