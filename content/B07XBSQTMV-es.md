@@ -28,11 +28,11 @@ Ahora mismo tienes [Iraltone Champu Seborregulador - Normaliza la Producción de
 
 🔎:
 
-- NORMALIZA LA PRODUCCIÓN DE GRASA: Champú que permite controlar y normalizar la producción y secreción de grasa en el cabello, con potente actividad antioxidante y purificante.
-- FORMATO: 200 ML
-- APORTA SUAVIDAD, LIGEREZA Y UN ASPECTO SALUDABLE. Gracias a la limpieza en profundidad.
-- CHAMPÚ DE USO FRECUENTE. Aplicar sobre el cabello húmedo. Masajear suavemente el cuero cabelludo dejando actuar durante 2-3 minutos.
 - LIMPIA EN PROFUNDIDAD desde el cuero cabelludo hasta las puntas.
 - CHAMPÚ SEBORREGULADOR: permite controlar y normalizar la producción y secreción de grasa en el cabello, con potente actividad antioxidante y purificante, disminuyendo la producción de sebo y eliminando las impurezas acumuladas.
+- APORTA SUAVIDAD, LIGEREZA Y UN ASPECTO SALUDABLE. Gracias a la limpieza en profundidad.
+- NORMALIZA LA PRODUCCIÓN DE GRASA: Champú que permite controlar y normalizar la producción y secreción de grasa en el cabello, con potente actividad antioxidante y purificante.
+- FORMATO: 200 ML
+- CHAMPÚ DE USO FRECUENTE. Aplicar sobre el cabello húmedo. Masajear suavemente el cuero cabelludo dejando actuar durante 2-3 minutos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XBSQTMV/?tag=tolees-21)

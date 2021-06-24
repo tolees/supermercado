@@ -28,8 +28,8 @@ En este momento está [Kas Refresco Cítrico Zero Azúcar Naranja  2L](https://w
 
 🔎:
 
-- Evitar el contacto directo con el suelo
 - Conservar en lugar limpio, fresco y seco
+- Evitar el contacto directo con el suelo
 - Proteger de la luz solar y de olores agresivos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B018VMZTXQ/?tag=tolees-21)

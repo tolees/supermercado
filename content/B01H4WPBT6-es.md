@@ -28,7 +28,7 @@ Está [OXO Good Grips Cepillo Bañeras y Azulejos Extensible  Inoxidable + Estro
 
 ℹ️:
 
-- 1 de OXO Good Grips - Estropajo de Repuesto para Limpiador de Azulejos Extensible Tub and Tile, Color Rojo
 - 1 de OXO Good Grips INOXO.12126100ML, Inoxidable
+- 1 de OXO Good Grips - Estropajo de Repuesto para Limpiador de Azulejos Extensible Tub and Tile, Color Rojo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01H4WPBT6/?tag=tolees-21)

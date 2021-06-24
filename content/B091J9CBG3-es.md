@@ -28,8 +28,8 @@ En este momento está [HARIBO Nubes  Limón  80 G](https://www.amazon.es/dp/B091
 
 🔎:
 
+- Sabor a mouse de limón.
 - Caramelo de goma con textura super blanda como una nube.
 - Con forma de nube blanca por dentro y azul por fuera con recubrimiento de azúcar.
-- Sabor a mouse de limón.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B091J9CBG3/?tag=tolees-21)
