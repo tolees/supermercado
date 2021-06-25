@@ -28,8 +28,8 @@ Tienes [Energy Feelings Cúrcuma Chai Latte Ecológico  XL - 500 gr](https://www
 
 🔎:
 
-- Delicioso sabor
 - Apto para veganos
+- Delicioso sabor
 - La combinación de la cúrcuma con pimienta negra y leche de coco ofrece la máxima biodisponiblidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0774LSPDT/?tag=tolees-21)

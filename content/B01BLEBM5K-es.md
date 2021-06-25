@@ -28,8 +28,8 @@ Tienes [Instituto Español Loción Piernas Cansadas con Árnica - 500 ml](https:
 
 ℹ️:
 
+- Flor de Árnica, una especie silvestre con capacidades curativas, calmantes y beneficios circulatorios
 - Su principal componente activo es
 - Texturas: Loción
-- Flor de Árnica, una especie silvestre con capacidades curativas, calmantes y beneficios circulatorios
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BLEBM5K/?tag=tolees-21)
