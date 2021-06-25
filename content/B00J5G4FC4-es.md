@@ -28,9 +28,9 @@ Tienes [Fotoprotección Isdin - Fotoprotector Isdin Fusion Fluid MINERAL SPF 50 
 
 🔎:
 
-- Alta fotoprotección para la piel sensible, atópica o intolerante a los filtros químicos
+- Hidratación intensa; muy resistente al agua; sin perfume
 - Para rostro y zonas específicas de adultos con piel frágil; su textura Fusion Fluid se funde con la piel logrando una protección invisible
 - SEA FRIENDLY Fórmula con la mayoría de ingredientes biodegradables y/o inorgánicos
-- Hidratación intensa; muy resistente al agua; sin perfume
+- Alta fotoprotección para la piel sensible, atópica o intolerante a los filtros químicos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00J5G4FC4/?tag=tolees-21)
