@@ -28,10 +28,10 @@ En este momento está [CAMPOS Conserva de atún claro en aceite de girasol - pac
 
 🔎:
 
-- País de origen: España, producto natural sin conservantes ni colorantes
 - Lata ideal para consumo individual
-- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
-- Pack de 3 latas individuales de 80 g, con tapa fácil apertura
+- País de origen: España, producto natural sin conservantes ni colorantes
 - Conserva de atún claro en aceite de girasol
+- Pack de 3 latas individuales de 80 g, con tapa fácil apertura
+- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PY8SLKW/?tag=tolees-21)

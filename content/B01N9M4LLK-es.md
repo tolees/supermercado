@@ -28,10 +28,10 @@ Tienes [Energy Feelings Proteína de Guisante Ecológica | 82% Proteína Orgáni
 
 🔎:
 
-- 82% de proteína
-- Certificación Ecológica. Sin Gluten
 - Gran fuente de aminoácidos ramificados
 - Ideal para añadir en bebidas, en cereales, yogur, patés vegetales y postres
+- Certificación Ecológica. Sin Gluten
 - Ofrece sensación de saciedad
+- 82% de proteína
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N9M4LLK/?tag=tolees-21)

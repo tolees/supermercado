@@ -28,10 +28,10 @@ Ahora mismo tienes [NYX Professional Makeup Base de Maquillaje  30 ml  Pack de 1
 
 🔎:
 
+- Fórmula no comedogénica sin ingredientes que provoquen la aparición de imperfecciones, fórmula vegana, resistente al agua para mayor duración
 - Contenido: 1x nyx professional makeup base de maquillaje cant stop wont stop 24h full coverage foundation, tono: nude, 30 ml
 - Adecuada para cualquier tono y matiz de piel, apta para pieles normales, grasas y mixtas
-- Fórmula no comedogénica sin ingredientes que provoquen la aparición de imperfecciones, fórmula vegana, resistente al agua para mayor duración
-- Maquillaje vegano: base líquida con cobertura total mate y control de brillos durante todo el día, no transfiere
 - Práctico dosificador, fórmula cremosa que se extiende con facilidad, aplicar en todo el rostro y extender dando suaves toquecitos, añadir más producto según la cobertura deseada
+- Maquillaje vegano: base líquida con cobertura total mate y control de brillos durante todo el día, no transfiere
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JNMMVMR/?tag=tolees-21)
