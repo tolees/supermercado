@@ -28,10 +28,10 @@ En este momento está [HAFOKO - R005 Manija Superior de la Cámara Manija Superi
 
 🔎:
 
+- 3 soportes de extensión de zapata fría integrados, para agregar monitor, micrófono, luz de video, flash, receptor de micrófono u otros accesorios, etc. Adaptadores de montaje de zapata fría con diseño de dislocación para evitar interferencias
 - Esta manija está equipada con cuatro soportes de zapata en ambos extremos para colocar luces de cámara, micrófono, etc. Hay puntos de montaje de 1/4 "y 3/8" para accesorios adicionales.
 - Estructura sólida y sencilla; El mango del queso está hecho de aleación de aluminio, duradero pero ligero.
-- Un soporte de zapata fría en la parte superior, compatible con la luz de velocidad del flash, luz de video led, soporte de monitor, soporte de micrófono, soporte EVF, etc.
-- 3 soportes de extensión de zapata fría integrados, para agregar monitor, micrófono, luz de video, flash, receptor de micrófono u otros accesorios, etc. Adaptadores de montaje de zapata fría con diseño de dislocación para evitar interferencias
 - El girp de la manija superior podría montarse en la cámara directamente, firmemente y fácilmente apretado por el botón de tornillo; podría ser ampliamente utilizado con cámaras de zapata, aplicable para su Canon, Nikon, Olympus, Pentax DSLR, etc. Perfecto para fotógrafos profesionales y aficionados, camarógrafos, cineastas para hacer creaciones.
+- Un soporte de zapata fría en la parte superior, compatible con la luz de velocidad del flash, luz de video led, soporte de monitor, soporte de micrófono, soporte EVF, etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RG93DQF/?tag=tolees-21)
