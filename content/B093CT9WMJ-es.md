@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Bodegas López Morenas Soto del Realon Cr al 0.00 % de rebaja'
-date: 2021-06-24 10:50:58
-image: 'https://m.media-amazon.com/images/I/31fpTTRWQNS._SL500_._SL400_.jpg'
+date: 2021-06-25 22:16:04
+image: 'https://m.media-amazon.com/images/I/31pGkqLiU-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,7 +24,7 @@ average: '13.99'
 
 Tienes [Bodegas López Morenas Soto del Realon Crianza Vino Tinto - 6 Paquetes de 750 ml - Total: 4500 ml](https://www.amazon.es/dp/B093CT9WMJ/?tag=tolees-21) con precio final de  13.99 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
 
-[![Bodegas López Morenas Soto del Realon Cr](https://m.media-amazon.com/images/I/31fpTTRWQNS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B093CT9WMJ/?tag=tolees-21)
+[![Bodegas López Morenas Soto del Realon Cr](https://m.media-amazon.com/images/I/31pGkqLiU-S._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B093CT9WMJ/?tag=tolees-21)
 
 🔎:
 
