@@ -29,13 +29,13 @@ Está [HAWAIIAN Tropic - Banana Boat KIDS Advanced Protection - Crema solar en s
 ℹ️:
 
 - Testado pediátricamente: recomendado para niños a partir de 3 años
+- Muy resistente al agua
 - Crema solar en spray para niños que hidrata la piel y la protege de los rayos UVA/ UVB
 - Protección muy alta: SPF 50
-- Sin fragancia: indicado para la piel de los niños
 - Anti-arena: permite quitarla con facilidad
 - Recomendado por la asociación contra el cáncer de piel
-- Fórmula fotoestable Avotriplex
+- Sin fragancia: indicado para la piel de los niños
 - Formato bruma: 220 ml
-- Muy resistente al agua
+- Fórmula fotoestable Avotriplex
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071ZFVQYB/?tag=tolees-21)
