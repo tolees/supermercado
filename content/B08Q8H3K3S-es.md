@@ -28,10 +28,10 @@ En este momento está [Space Home - Platos para Pulpo  Queso  Carne - Platos de 
 
 🔎:
 
-- Se recomienda lavar a mano y dejar secar antes de guardar.
-- Calidad Premiun: cuerpo de una sola pieza hecha en madera de Pino de alta calidad
 - Garantía de calidad.
 - Diseño tradicional. Para uso profesional o doméstico. Ideal para servir pulpo, aunque se puede utilizar para otros entrantes.
 - Medidas: Diámetro 12 cm. Altura 2 cm.
+- Calidad Premiun: cuerpo de una sola pieza hecha en madera de Pino de alta calidad
+- Se recomienda lavar a mano y dejar secar antes de guardar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08Q8H3K3S/?tag=tolees-21)

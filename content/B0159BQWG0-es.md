@@ -28,9 +28,9 @@ Tienes [Ensueño Mixteco - Café Molido Premium Artesanal](https://www.amazon.es
 
 ℹ️:
 
+- España
+- Mantener en lugar fresco y seco
 - Origen D.O. Puebla
 - Café Molido
-- Mantener en lugar fresco y seco
-- España
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0159BQWG0/?tag=tolees-21)
