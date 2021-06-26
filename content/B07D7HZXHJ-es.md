@@ -29,7 +29,7 @@ Ahora mismo tienes [Cif Crema detergente  multicolor  único  16 unidades](https
 🔎:
 
 - Material principal: detergente.
-- Limpiadores y paños para la limpieza y la ropa.
 - Tamaño del producto: 30 x 30 x 20 cm.
+- Limpiadores y paños para la limpieza y la ropa.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D7HZXHJ/?tag=tolees-21)
