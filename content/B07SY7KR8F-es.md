@@ -28,10 +28,10 @@ En este momento está [Maíz Bombilla LED E14  Wowatt E14 Bombilla 2700K Blanco 
 
 🔎:
 
-- 【AHORRO DE ENERGÍA】Una bombilla maiz E14 de 16W pueden reemplazar una bombilla tradicional de 120W. Eficiencia energética A++, podrá ahorrar hasta un 90% en su consumo energético comparación con un foco halógeno comparable.
-- 100% de garantía de devolución del dinero: si hay un problema de calidad, contáctenos y le daremos una respuesta satisfecha.
-- 【FÁCIL INSTALACIÓN】Base estándar E14, dimensión del producto: φ 30 x 103 mm, Sustitución de las lámparas halógenas E14 sin problemas. El portalámparas E14 se reemplaza con menos frecuencia para reducir los costos de mantenimiento
 - 【ALTA CALIDAD】Chipset calificado a medida y vida útil de hasta 30,000 horas. índice de rendering de alto color (IRC > 80), se ofrece una luz más vívida y natural, un ángulo de haz de 360 grados, la luz homogénea, no hay área oscura, que protege los ojos. Aún así para su seguridad, sin plomo ni mercurio, sin radiación UV o IR.
+- 【AHORRO DE ENERGÍA】Una bombilla maiz E14 de 16W pueden reemplazar una bombilla tradicional de 120W. Eficiencia energética A++, podrá ahorrar hasta un 90% en su consumo energético comparación con un foco halógeno comparable.
 - 【LUZ DULCE】 temperatura de color 2700 K blanco cálido y alto rendimiento hasta 1600 lúmenes, la luz se difunde a un área más grande y más brillante. Perfecto para en lámparas de suelo, colgantes o lámparas de techo, crear un ambiente acogedor y cálido
+- 【FÁCIL INSTALACIÓN】Base estándar E14, dimensión del producto: φ 30 x 103 mm, Sustitución de las lámparas halógenas E14 sin problemas. El portalámparas E14 se reemplaza con menos frecuencia para reducir los costos de mantenimiento
+- 100% de garantía de devolución del dinero: si hay un problema de calidad, contáctenos y le daremos una respuesta satisfecha.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SY7KR8F/?tag=tolees-21)
