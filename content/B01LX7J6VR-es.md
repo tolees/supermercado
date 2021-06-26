@@ -29,8 +29,8 @@ Está [Hero Baby - Frutas Variadas Tarritos de puré para Bebés a partir de 4 m
 ℹ️:
 
 - Sin aceite de palma, sin almidón, sin azúcar añadido
-- Ingredientes controlados desde que se planta la semilla hasta que son recogidos
 - Ingredientes 100% naturales, sin conservantes ni colorantes
+- Ingredientes controlados desde que se planta la semilla hasta que son recogidos
 - Conservación natural, como lo harías en casa, al baño maría.
 - Recetas con el equilibrio nutricional específico para cada etapa
 

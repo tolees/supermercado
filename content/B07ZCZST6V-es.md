@@ -28,10 +28,10 @@ Está [PINPOXE - Brillos corporales  Purpurinas Polvo  Purpurina para Cara Cuerp
 
 ℹ️:
 
-- ✨ Atractivo brillo con lentejuelas de formas diferentes: nuestro brillo cosmético viene en una olla práctica y resellable. Hecho con una alta tasa de pigmentación y holográfico plateado, para que brille en la pista de baile como un arcoíris. Tú y tus amigos pueden encantar a los demás.
-- ✨ Fácil de usar y limpiar: a diferencia de otras marcas, nuestro gel cosmético con brillo es directamente aplicable. El gel con aplicador es fácil de usar y dura mucho y fácil de limpiar para que pueda brillar todo el fin de semana.
 - ✨ Maquillaje con brillo para la cara, el cuerpo y el cabello: nuestro maquillaje cosmético con brillo ha sido especialmente desarrollado y probado para que sea seguro y suave con la piel. El gel de lentejuelas brillantes tendrá un olor a planta, no un olor químico desagradable, no es dañino, no dude en usarlo.
+- ✨ Atractivo brillo con lentejuelas de formas diferentes: nuestro brillo cosmético viene en una olla práctica y resellable. Hecho con una alta tasa de pigmentación y holográfico plateado, para que brille en la pista de baile como un arcoíris. Tú y tus amigos pueden encantar a los demás.
 - ✨ Perfect Festival Glitter: ¡No importa qué evento, ahora siempre puedes irradiar con estilo! Nuestro impresionante y versátil maquillaje con brillo le da a tu nuevo estilo. Sé salvaje y prepárate para festivales, clubes, fiestas, decora tu ropa y más. Nuestro deslumbrante festival brilla es una necesidad para cada bolsa de cosméticos.
+- ✨ Fácil de usar y limpiar: a diferencia de otras marcas, nuestro gel cosmético con brillo es directamente aplicable. El gel con aplicador es fácil de usar y dura mucho y fácil de limpiar para que pueda brillar todo el fin de semana.
 - ✨ POR supuesto, HERMOSO: No importa qué evento, ¡ahora siempre puedes irradiar con estilo! Nuestro impresionante y versátil maquillaje con brillo le da a tu nuevo estilo. Sé salvaje y prepárate para festivales, clubes, fiestas, decora tu ropa y más
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZCZST6V/?tag=tolees-21)
