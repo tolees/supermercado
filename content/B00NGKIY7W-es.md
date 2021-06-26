@@ -28,8 +28,8 @@ Ahora mismo tienes [Sesderma Retises Ct Crema Facial Hidratante Antienvejecimien
 
 🔎:
 
-- Atenua las arrugas y mejora la elasticidad de la piel
-- Mejora las pieles fotoenvejecidas, disminuye las manchas y la profundidad de las arrugas y líneas de expresión
 - Aporta una sensación inmediata de vitalidad y frescor. Asimismo, reduce los signos de fatiga y las manchas
+- Mejora las pieles fotoenvejecidas, disminuye las manchas y la profundidad de las arrugas y líneas de expresión
+- Atenua las arrugas y mejora la elasticidad de la piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00NGKIY7W/?tag=tolees-21)
