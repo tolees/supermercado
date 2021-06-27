@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.00 % en Redenhair Acelerador Pro-Regenerativo | '
-date: 2021-06-25 20:20:47
+date: 2021-06-27 20:13:46
 image: 'https://m.media-amazon.com/images/I/41o9vovHaaS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
