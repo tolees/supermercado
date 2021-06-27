@@ -28,10 +28,10 @@ Tienes [Helix Original - Suplemento natural para dolores en las articulaciones c
 
 🔎:
 
-- 💊 FORMACIÓN DEL COLÁGENO: la vitamina C contribuye a la formación del colágeno lo que asegura una función normal de los cartílagos, disminuyendo así los dolores y molestias en las articulaciones.
 - 🌿 100% NATURAL: nuestro suplemento alimenticio está hecho con ingredientes naturales resultando en unas cápsulas vegetales que te ayudarán a mejorar el funcionamiento de tus articulaciones.
-- 🏥 ESTUDIOS CLÍNICOS: hemos realizado estudios con los diferentes componentes de nuestro complemento y 8 de cada 10 consumidores perciben mayor movilidad, elasticidad y flexibilidad en sus articulaciones.
 - 💪🏻 REPARACIÓN FIBRILAR: el caracol helix es capaz de reparar su concha con rapidez, evitando la desecación en caso de deterioro de su caparazón. La mezcla de compuestos de Helix Original es una manera natural de reparar y prevenir el daño a las articulaciones.
+- 🏥 ESTUDIOS CLÍNICOS: hemos realizado estudios con los diferentes componentes de nuestro complemento y 8 de cada 10 consumidores perciben mayor movilidad, elasticidad y flexibilidad en sus articulaciones.
+- 💊 FORMACIÓN DEL COLÁGENO: la vitamina C contribuye a la formación del colágeno lo que asegura una función normal de los cartílagos, disminuyendo así los dolores y molestias en las articulaciones.
 - 🐌 NUTRELIX: estas cápsulas naturales están compuestas en parte por Nutrelix, un extracto proteico proveniente del caracol que ayuda con las molestias de las articulaciones, así como la artritis, artrosis, entre otros.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NVLC9HP/?tag=tolees-21)
