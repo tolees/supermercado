@@ -28,10 +28,10 @@ Está [VEGA TORMES - Jamón De Cebo Ibérico 50% Raza Ibérica  8.5-9.2 Kg.](htt
 
 ℹ️:
 
+- 3 años de Curación, los últimos 2 años en bodega, un proceso de curación lento para garantizar la mejor calidad
 - Producto Certificado Por Calicer para garantizar la Normativa del Cerdo Ibérico
 - Mantener en un lugar fresco y seco
 - Producto de Salamanca
 - Envasado al vacío para su perfecta conservación en transporte. Antes de consumir sacar del vacío unas horas.
-- 3 años de Curación, los últimos 2 años en bodega, un proceso de curación lento para garantizar la mejor calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Z4YNS46/?tag=tolees-21)
