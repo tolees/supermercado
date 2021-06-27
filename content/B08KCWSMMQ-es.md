@@ -28,10 +28,10 @@ En este momento está [GGHKDD Robot Aspirador  Robot de Limpieza Compacto silenc
 
 🔎:
 
-- Función de escalada inteligente: con la función de escalada inteligente, el robot de limpieza puede superar el obstáculo de 15 mm y subir una pendiente de 25 grados, lidiando eficazmente con diferentes tipos de situaciones del piso, cambiando automáticamente la dirección de la marcha.
+- Tamaño compacto: solo tamaño de 25 * 6CM / 9.83 * 2.36 pulgadas (D * H), el robot de limpieza es compacto y lo suficientemente pequeño como para limpiar el lugar de difícil acceso, limpiando su hogar profundamente.
 - Motor potente y silencioso: Adoptando un motor sin escobillas de ahorro de energía de alta calidad, el robot de limpieza puede brindarle un poderoso servicio de absorción y silenciar la experiencia de uso, con solo 55db de ruido.
 - Diseño de fregona y cepillo lateral: hay diseños de fregona y cepillo lateral que proporcionan un mejor rendimiento de limpieza, según la función de absorción de vacío.
-- Tamaño compacto: solo tamaño de 25 * 6CM / 9.83 * 2.36 pulgadas (D * H), el robot de limpieza es compacto y lo suficientemente pequeño como para limpiar el lugar de difícil acceso, limpiando su hogar profundamente.
 - Gran batería incorporada: con una batería incorporada de 3000 mah, el robot de limpieza puede soportar hasta 90 minutos de tiempo de trabajo y cubrir un área de limpieza de 200 m2, perfecto para la limpieza de casas de gran tamaño.
+- Función de escalada inteligente: con la función de escalada inteligente, el robot de limpieza puede superar el obstáculo de 15 mm y subir una pendiente de 25 grados, lidiando eficazmente con diferentes tipos de situaciones del piso, cambiando automáticamente la dirección de la marcha.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KCWSMMQ/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [Heliocare Advanced Gel SPF 50 - Crema Solar Corporal  Textura Gel  Liger
 ℹ️:
 
 - PROTECCIÓN ALTA: crema solar corporal formulada con Fernblock, filtros solares y activos reparadores y antioxidantes, protege, neutraliza y repara el daño solar
-- SIN EFECTO BLANQUEANTE: protector solar corporal perfecto para proteger todo tipo de pieles sin dejar residuo blanco; no comedogénico
-- FÓRMULA LIGERA: fotoprotección en textura gel que facilita su aplicación y absorción inmediata, libre de aceites, deja la piel suave, lisa y sin brillos
-- NO PEGAJOSO: protección solar alta, para uso diario; textura fresca para una cobertura natural y una piel sana y radiante
 - TESTADO: protección avanzada testada bajo control dermatológico; ¡disfruta del sol sin preocupaciones!
+- NO PEGAJOSO: protección solar alta, para uso diario; textura fresca para una cobertura natural y una piel sana y radiante
+- FÓRMULA LIGERA: fotoprotección en textura gel que facilita su aplicación y absorción inmediata, libre de aceites, deja la piel suave, lisa y sin brillos
+- SIN EFECTO BLANQUEANTE: protector solar corporal perfecto para proteger todo tipo de pieles sin dejar residuo blanco; no comedogénico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HCQTCJA/?tag=tolees-21)
