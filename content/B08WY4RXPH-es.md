@@ -28,9 +28,9 @@ Tienes [Skip Detergente Líquido Active Clean  40 Lavados  Dark Blue  4 Unidades
 
 🔎:
 
+- Tipo de producto: Detergente líquido
 - Es adecuado para 40 lavados
 - Fórmula con agentes quitamanchas
 - Viene en 4 unidades
-- Tipo de producto: Detergente líquido
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WY4RXPH/?tag=tolees-21)
