@@ -28,8 +28,8 @@ En este momento está [Instituto Español Avena Crema Hidratante - 400 ml](https
 
 🔎:
 
-- Género: Unisex Adulto
-- Texturas: Crema
 - Tipo de Piel: Todo Tipo de Pieles
+- Texturas: Crema
+- Género: Unisex Adulto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00J8E6ZF8/?tag=tolees-21)

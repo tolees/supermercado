@@ -29,8 +29,8 @@ Tienes [Cereria di Giorgio - Cereria de Giorgio ch00002   68 vela Cumpleaños 
 ℹ️:
 
 - Gráficos y colores chupa chups
-- Disponen de soporte para alimentos
-- Vela alfanumérica
 - Formato gigante
+- Vela alfanumérica
+- Disponen de soporte para alimentos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075JLWBZY/?tag=tolees-21)
