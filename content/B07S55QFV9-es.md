@@ -28,15 +28,15 @@ Tienes [BODEGA CUATRO RAYAS - Cuatro Rayas Vino Blanco Verdejo Vendimia Nocturna
 
 🔎:
 
-- Nariz: es potente, con notas de fruta blanca y cítricos.
-- D.O. Rueda
-- Vino Blanco de la Variedad Verdejo
-- Boca: Paladar Fresco Equilibrado y Goloso, redondo muy frutal, con carácter y un delicado final en boca a hinojo.
-- Temperatura de servicio: 6 – 8ºC.
-- Maridaje: Pescado y marisco fresco, pastas y arroces, quesos y carnes blancas.
 - Elaboración: Viñedos seleccionados. Vendimia nocturna mecánica. Elaborado con uvas seleccionadas de la variedad verdejo provenientes de una delicada selección de fincas y pagos situadas en la D.O Rueda. Fermentación en depósito de acero inoxidable, maceración en frío durante 4 horas a 6ºC.
-- Medalla de oro, Berliner Wine Trophy 2020
+- Boca: Paladar Fresco Equilibrado y Goloso, redondo muy frutal, con carácter y un delicado final en boca a hinojo.
+- D.O. Rueda
+- Maridaje: Pescado y marisco fresco, pastas y arroces, quesos y carnes blancas.
+- Vino Blanco de la Variedad Verdejo
 - Contenido de Alcohol 13% Vol.
+- Medalla de oro, Berliner Wine Trophy 2020
 - Vista: Color Amarillo Pálido con Reflejos Verdosos.
+- Nariz: es potente, con notas de fruta blanca y cítricos.
+- Temperatura de servicio: 6 – 8ºC.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S55QFV9/?tag=tolees-21)

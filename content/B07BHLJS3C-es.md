@@ -28,9 +28,9 @@ En este momento está [Babaria Protector Solar Capilar Aloe - 100 ml  8410412000
 
 🔎:
 
+- Tipo de piel: Normal
 - Modelo BAB31815
 - De la marca Babaria
-- Tipo de piel: Normal
 - Para el cabello: Normal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BHLJS3C/?tag=tolees-21)

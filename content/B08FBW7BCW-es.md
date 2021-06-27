@@ -28,10 +28,10 @@ Ahora mismo tienes [Colgate Total Esmalte Sano  Pasta de Dientes  Pack 12 Uds x 
 
 🔎:
 
-- Clínicamente probada para la salud completa de la boca
-- Reduce las manchas de la superficie para mejorar el efecto blanqueador
 - 12 horas de protección en dientes, lengua, mejillas y encías
 - Funciona de forma natural aprovechando la bioquímica de la boca para combatir proactivamente las bacterias, manchas y ácidos de los alimentos
 - Protección frente a los ácidos. Remineraliza el esmalte debilitado y combate los problemas de encías en fase inicial
+- Clínicamente probada para la salud completa de la boca
+- Reduce las manchas de la superficie para mejorar el efecto blanqueador
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FBW7BCW/?tag=tolees-21)
