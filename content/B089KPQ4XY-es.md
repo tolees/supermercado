@@ -28,10 +28,10 @@ Tienes [AQUISANA - Probiotico - Probioticos intestinales Para Favorecer la flora
 
 🔎:
 
-- 180 COMPRIMIDOS DE PROBIOTICOS DE L. ACIDOPHILUS Y L. PARACASEI: Cada comprimido contiene 108,85 gramos de probioticos conformados por L. Acidophilus y L. Paracasei, que mejoran tu sistema digestivo, y sistema inmune.
 - AUMENTA LA FUNCIÓN INMUNE: Los suplementos de probióticos, tienen un efecto regulador del sistema inmune. Cada pastilla ayuda a defender nuestro organismo.
-- ALTOS ESTÁNDARES DE CALIDAD: Los probióticos en cápsulas con L. Acidophilus Y L. Paracasei, están fabricados bajo estrictos estándares de calidad. Todos los productos Aquisana cumplen con las normas Europeas de Fabricación y ofrecen garantía de excelencia.
-- AYUDA A MEJORAR LA DIGESTIÓN: La ingesta de probióticos ayuda a prevenir los diversos tipos de diarrea, calma sus síntomas, restablece la flora intestinal y mejora los efectos causados por el colon irritable y el estreñimiento.
 - MEJORA LA FLORA INTESTINAL: Las cápsulas de probióticos de Aquisana, contienen las bacterias ideales para promover la absorción de nutrientes. Además, estimulan la hormona GLP-1 que provoca una sensación de saciedad luego de comer
+- ALTOS ESTÁNDARES DE CALIDAD: Los probióticos en cápsulas con L. Acidophilus Y L. Paracasei, están fabricados bajo estrictos estándares de calidad. Todos los productos Aquisana cumplen con las normas Europeas de Fabricación y ofrecen garantía de excelencia.
+- 180 COMPRIMIDOS DE PROBIOTICOS DE L. ACIDOPHILUS Y L. PARACASEI: Cada comprimido contiene 108,85 gramos de probioticos conformados por L. Acidophilus y L. Paracasei, que mejoran tu sistema digestivo, y sistema inmune.
+- AYUDA A MEJORAR LA DIGESTIÓN: La ingesta de probióticos ayuda a prevenir los diversos tipos de diarrea, calma sus síntomas, restablece la flora intestinal y mejora los efectos causados por el colon irritable y el estreñimiento.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089KPQ4XY/?tag=tolees-21)
