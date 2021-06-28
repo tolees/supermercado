@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Duron - Durón – Vino Tinto Crianza 2017  con un 0.00 % de descuento'
-date: 2021-06-10 11:49:22
+date: 2021-06-28 11:36:38
 image: 'https://m.media-amazon.com/images/I/41glMSr2A9S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Duron - Durón – Vino Tinto Crianza 2017 Denominación 
 
 🔎:
 
-- CRIANZA: 12 meses en barricas de roble americano
-- Variedad de uva: 100% tempranillo
-- COLOR: Ofrece un bonito color rubí-cereza de buena intensidad
 - AROMA: En nariz dominan las frutas rojas (cassis y grosella) y en un segundo plano negras (mora), especiado (clavo y pimienta)
+- COLOR: Ofrece un bonito color rubí-cereza de buena intensidad
 - BOCA: Fresco en boca, equilibrado, sabroso, con un buen paso sin perder ritmo, terminando con sensaciones de taninos muy pulidos y placenteras sensaciones aromáticas que permanecen en boca
+- Variedad de uva: 100% tempranillo
+- CRIANZA: 12 meses en barricas de roble americano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089S3SJL3/?tag=tolees-21)
