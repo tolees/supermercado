@@ -29,9 +29,9 @@ Tienes [Vermouth Padró & Co Rojo Clásico - 3 botellas de 75 cl  Total: 2250 ml
 ℹ️:
 
 - Ideal para combinar con embutidos, quesos y snacks salados. Servir frío.
+- Graduación: 18% vol.
 - Ideal acompañado con una rodaja de naranja.
 - Origen: Zona/Región vinícola Tarragona
 - Aromas de especias dulces de canela y clavo. Fondo de frutas pasificadas. Boca cremosa y fresca con final herbáceo.
-- Graduación: 18% vol.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B088R1VQ5H/?tag=tolees-21)
