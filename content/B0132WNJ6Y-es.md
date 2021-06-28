@@ -28,8 +28,8 @@ Está [Scottex - Papel de Cocina Megarollo  3 Rollos](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Absorbe, resiste, resuelve
 - Incluye 3 rollos grandes
+- Absorbe, resiste, resuelve
 - Fácil de usar
 - con textura absorbente y resistente
 
