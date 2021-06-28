@@ -28,10 +28,10 @@ En este momento está [Black Bee Jalea Real Inmuno Kids  Complemento Alimenticio
 
 🔎:
 
-- Con 300 mg de Jalea Real por vial; Con Vitamina D que contribuye al buen funcionamiento del sistema inmunitario de los niños; Defensas para el día a día de los peques
-- Refuerza el sistema inmunitario gracias a su contenido en equinácea, vitamina C y D
 - Contiene Vitamina D, clave en el crecimiento y desarrollo de los huesos y vitaminas del grupo B que contribuyen a reducir el cansacio y la fatiga
 - Un delicioso sabor a fresa
+- Con 300 mg de Jalea Real por vial; Con Vitamina D que contribuye al buen funcionamiento del sistema inmunitario de los niños; Defensas para el día a día de los peques
 - Niños de 3 a 6 años: Tomar 1 vial al día. Niños de 7 a 12 años: Tomar 2 viales al día
+- Refuerza el sistema inmunitario gracias a su contenido en equinácea, vitamina C y D
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PTB3DYQ/?tag=tolees-21)
