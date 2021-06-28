@@ -28,7 +28,7 @@ Está [Maya 07088 - Bayeta Microfibra  Especial Cristales](https://www.amazon.es
 
 ℹ️:
 
-- Especial cristales
 - 40 x 40 cm
+- Especial cristales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CCSQ31C/?tag=tolees-21)
