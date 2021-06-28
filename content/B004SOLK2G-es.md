@@ -29,9 +29,9 @@ Ahora mismo tienes [Johnnie Walker Red Whisky Escocés - 1000 ml](https://www.am
 🔎:
 
 - Una mezcla que combina hasta 35 de los mejores whiskys de Escocia.
-- Aromas frescos, dulces y afrutados combinados con un final ahumado.
 - Disfrute este whisky como parte de un cóctel con hielo combinándolo con ginger ale, que le da un cierto algo a esta bebida alcohólica especiada. El Red Label es ideal para fiestas y noches de cócteles.
-- Johnnie Walker Red Label es el Blended Scotch Whisky más vendido del mundo y el regalo perfecto para los amantes del whisky desde 1820.
 - Ganador de más de 30 distinciones, entre ellas dos veces la Grand Gold en Le Monde Selection y tres veces el oro en la Competición Internacional de Vinos y Bebidas Alcohólicas.
+- Johnnie Walker Red Label es el Blended Scotch Whisky más vendido del mundo y el regalo perfecto para los amantes del whisky desde 1820.
+- Aromas frescos, dulces y afrutados combinados con un final ahumado.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004SOLK2G/?tag=tolees-21)
