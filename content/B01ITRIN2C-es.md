@@ -28,8 +28,8 @@ Ahora mismo tienes [Central Lechera Asturiana Leche Semidesnatada  6 x 1 5L](htt
 
 🔎:
 
-- Leche UHT
 - Semidesnatada
 - Tradicional
+- Leche UHT
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ITRIN2C/?tag=tolees-21)
