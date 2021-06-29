@@ -28,9 +28,9 @@ Tienes [ECM 89420 - Prensador de café  color plateado](https://www.amazon.es/dp
 
 🔎:
 
+- Para optimizar la presión de prensado
+- El anillo de goma asegura que el soporte del filtro se sienta suavemente y no se deslice durante el apisonamiento
 - Material: aluminio pulido (no apto para lavavajillas)
 - Garantiza una óptima extracción del expreso
-- El anillo de goma asegura que el soporte del filtro se sienta suavemente y no se deslice durante el apisonamiento
-- Para optimizar la presión de prensado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005DQVBP4/?tag=tolees-21)
