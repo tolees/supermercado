@@ -28,9 +28,9 @@ Está [Talking Tables - Tarjetas de Preguntas de Trivia de Gin | Juego de Mesa p
 
 ℹ️:
 
-- Test how well you really know your favourite alcoholic drink with Talking Tables Gin Trivia Quiz Question Cards.
-- OCCASION - The perfect dinner party table game to play with family or friends. It also makes a great Stocking Filler or Christmas Present for any Gin lover or trivia fanatic!
 - AGE - Suitable for the adults!
+- OCCASION - The perfect dinner party table game to play with family or friends. It also makes a great Stocking Filler or Christmas Present for any Gin lover or trivia fanatic!
+- Test how well you really know your favourite alcoholic drink with Talking Tables Gin Trivia Quiz Question Cards.
 - This giftable box includes a selection of the finest gin related trivia questions. Test your knowledge with questions relating to gin cocktails, garnishes and production.
 - CONTENTS - 60x Gin Themed Trivia Question Cards
 
