@@ -28,9 +28,9 @@ En este momento está [Max Factor Healthy Skin Harmony Base de Maquillaje Tono 7
 
 🔎:
 
+- Hidratación 24 horas con tecnología para controlar los brillos
 - Dertmatológicamente testado, con SPF 21
 - Fórmula no-comedogénica, no obstruye los poros
-- Hidratación 24 horas con tecnología para controlar los brillos
 - Base de maquillaje cobertura media acabado natural
 - Maquillaje con fórmula inteligente que se adapta a todos los factores de estrés que sufre la piel
 
