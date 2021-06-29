@@ -28,10 +28,10 @@ Está [OGX Acondicionador sin Sulfatos para Pelo Quebradizo  Aceite de Queratina
 
 ℹ️:
 
-- Tu cabello podrá crecer libremente, lleno de fuerza e hidratación y estará protegido del desgaste del cepillado diario
 - Para mejores resultados, utiliza este acondicionador junto con el resto de productos de la gama de Keratina de OGX.
-- El Acondicionador de Aceite de Keratina de OGX contiene una combinación exclusiva de ingredientes únicos: aceites de coco, proteínas de keratina, aceite de aguacate y manteca de cacao, los cuales trabajan al unísono para restaurar el cabello
-- Disfruta de un cabello fuerte, brillante y lleno de vida
 - Éste es optimo para cabellos frágiles y quebradizos ya que ayuda a reparar las puntas abiertas y a retener la hidratación de cada mecha de pelo
+- Tu cabello podrá crecer libremente, lleno de fuerza e hidratación y estará protegido del desgaste del cepillado diario
+- Disfruta de un cabello fuerte, brillante y lleno de vida
+- El Acondicionador de Aceite de Keratina de OGX contiene una combinación exclusiva de ingredientes únicos: aceites de coco, proteínas de keratina, aceite de aguacate y manteca de cacao, los cuales trabajan al unísono para restaurar el cabello
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01JGRBJV6/?tag=tolees-21)
