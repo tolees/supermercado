@@ -28,8 +28,8 @@ Está [Phyto - Champú rellenador densia](https://www.amazon.es/dp/B01JUUHZM6/?t
 
 ℹ️:
 
+- Marca: Phyto
 - El producto es un champú capilar
 - Volumen del producto: 200 ml
-- Marca: Phyto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01JUUHZM6/?tag=tolees-21)

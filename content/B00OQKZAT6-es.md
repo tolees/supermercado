@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'COLGATE Herbal  Pasta de Dientes  Diente al 23.65 % de descuento'
-date: 2021-06-19 11:38:27
+date: 2021-06-29 13:07:21
 image: 'https://m.media-amazon.com/images/I/41IIgeYnSfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'COLGATE'
 buyurl: 'https://www.amazon.es/dp/B00OQKZAT6/?tag=tolees-21'
 descuento: '23.65'
-average: '1.22142857142857'
+average: '1.2625'
 ---
 
 Está [COLGATE Herbal  Pasta de Dientes  Dientes y Encías Más Sanas con Ingredientes Naturales  Blanco y Verde  Menta  75 Mililitros](https://www.amazon.es/dp/B00OQKZAT6/?tag=tolees-21) con 23.65 de descuento por 1.55 EUR (original: 2.03 EUR) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [COLGATE Herbal  Pasta de Dientes  Dientes y Encías Más Sanas con Ingred
 ℹ️:
 
 - Contiene flúor y extractos de plantas
-- Consigue unos dientes y unas encías más sanos
 - Contiene extractos de hierbas naturales: menta, manzanilla, camomila, eucalipto
+- Consigue unos dientes y unas encías más sanos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00OQKZAT6/?tag=tolees-21)
