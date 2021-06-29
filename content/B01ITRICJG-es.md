@@ -29,7 +29,7 @@ Está [Central Lechera Asturiana Leche Desnatada  6 x 1L](https://www.amazon.es/
 ℹ️:
 
 - Tradicional
-- Leche UHT
 - Desnatada
+- Leche UHT
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ITRICJG/?tag=tolees-21)
