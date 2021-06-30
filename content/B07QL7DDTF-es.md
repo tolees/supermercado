@@ -28,10 +28,10 @@ Ahora mismo tienes [Bourjois Healthy Mix Foundation  Base de maquillaje  Tono 56
 
 🔎:
 
-- Contiene derivados de ácido hialurónico que proporciona hasta 16 de hidratación
-- Con polvos matificantes que proporcionan un aspecto suave y luminoso
 - Base de maquillaje de cobertura media que proporciona un acabado luminoso y antifatiga
+- Contiene derivados de ácido hialurónico que proporciona hasta 16 de hidratación
 - Fórmula antiedad con una combinación de vitamina C con efecto antifatiga, vitamina E con acción antioxidante y vitamina B5 que tonifica la piel
+- Con polvos matificantes que proporcionan un aspecto suave y luminoso
 - Apto para todo tipo de pieles, especialmente para pieles secas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QL7DDTF/?tag=tolees-21)
