@@ -28,8 +28,8 @@ Ahora mismo tienes [Listerine Enjuague Bucal Anti-Caries - 500 ml](https://www.a
 
 🔎:
 
+- Refresca el aliento con sabor a té verde natural
 - Fortalece el esmalte dental incluso en los lugares más difíciles de alcanzar para ayudar a prevenir las caries
 - Elimina los gérmenes que quedan después del cepillado y previene la placa, una de las principales causas de la gingivitis
-- Refresca el aliento con sabor a té verde natural
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BKG52TY/?tag=tolees-21)

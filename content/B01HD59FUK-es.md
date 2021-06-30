@@ -28,8 +28,8 @@ Tienes [Lagarto Lejía - Paquete De 8 X 1500 Ml  Perfumada  12000 Mililitro  8 U
 
 🔎:
 
-- Poder desinfectante
 - Desinfección general
+- Poder desinfectante
 - Suave perfume
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01HD59FUK/?tag=tolees-21)

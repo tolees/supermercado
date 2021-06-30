@@ -28,8 +28,8 @@ Tienes [Lagarto Lejía con Detergente  Azul  Paquete de 8 x 1500 ml  Total 12000
 
 🔎:
 
-- Poder desinfectante
-- Contiene detergente para una limpieza más eficaz
 - Desinfección suelos
+- Contiene detergente para una limpieza más eficaz
+- Poder desinfectante
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01HD59CKS/?tag=tolees-21)

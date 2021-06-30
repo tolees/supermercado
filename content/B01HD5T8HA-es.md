@@ -28,8 +28,8 @@ En este momento está [Lagarto Lejía Con Detergente - Paquete De X 1500 Ml - To
 
 🔎:
 
+- Desinfección suelos
 - Poder desinfectante
 - Contiene detergente para una limpieza más eficaz
-- Desinfección suelos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01HD5T8HA/?tag=tolees-21)
