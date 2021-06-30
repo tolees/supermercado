@@ -28,8 +28,8 @@ En este momento está [Instituto Español Loción After Sun Aloe Vera 300 ML](ht
 
 🔎:
 
-- Calma la piel después de la exposición solar
-- Aftersun para todo tipo de pieles
 - Prolonga el bronceado y mantiene la piel hidratada y luminosa
+- Aftersun para todo tipo de pieles
+- Calma la piel después de la exposición solar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088HNPQNF/?tag=tolees-21)

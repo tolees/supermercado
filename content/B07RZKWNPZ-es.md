@@ -28,13 +28,13 @@ Ahora mismo tienes [BODEGA CUATRO RAYAS - Vino Blanco Azumbre Verdejo D.O Rueda 
 
 🔎:
 
-- D.O. Rueda
-- En nariz es limpio y fresco, aromas dulces, frutales de fruta de hueso (albaricoque), y un fondo de hinojo.
-- Temperatura de servicio: 6 – 8ºC.
-- Color amarillo limón, brillante con reflejos verdosos.
-- En boca es sabroso envolvente y untuoso, con toques de fruta fresca, muy equilibrado y largo.
-- Alérgenos: Contiene sulfitos
-- Elaborado con una selección de viñedos viejos de la variedad Verdejo. Maceración en frio durante 4 horas. Fermentado en depósitos de acero inoxidable a una Temperatura de 15ºC. Fermentación a 15ºC con levaduras seleccionadas.
 - Maridaje: Pescados, mariscos, ensaladas
+- Elaborado con una selección de viñedos viejos de la variedad Verdejo. Maceración en frio durante 4 horas. Fermentado en depósitos de acero inoxidable a una Temperatura de 15ºC. Fermentación a 15ºC con levaduras seleccionadas.
+- D.O. Rueda
+- En boca es sabroso envolvente y untuoso, con toques de fruta fresca, muy equilibrado y largo.
+- En nariz es limpio y fresco, aromas dulces, frutales de fruta de hueso (albaricoque), y un fondo de hinojo.
+- Color amarillo limón, brillante con reflejos verdosos.
+- Temperatura de servicio: 6 – 8ºC.
+- Alérgenos: Contiene sulfitos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RZKWNPZ/?tag=tolees-21)
