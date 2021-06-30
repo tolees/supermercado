@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Estrella Galicia Cerveza Especial Mini 2 al 11.05 % de descuento'
-date: 2021-06-19 10:04:21
-image: 'https://m.media-amazon.com/images/I/51sAMznxzBL._SL500_._SL400_.jpg'
+date: 2021-06-30 21:46:27
+image: 'https://m.media-amazon.com/images/I/51LWmltsVLS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,15 +24,15 @@ average: '10.55'
 
 Está [Estrella Galicia Cerveza Especial Mini 24x20cl](https://www.amazon.es/dp/B07VCG57Y1/?tag=tolees-21) con 11.05 de descuento por 10.55 EUR (original: 11.86 EUR) en el siguiente enlace!
 
-[![Estrella Galicia Cerveza Especial Mini 2](https://m.media-amazon.com/images/I/51sAMznxzBL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07VCG57Y1/?tag=tolees-21)
+[![Estrella Galicia Cerveza Especial Mini 2](https://m.media-amazon.com/images/I/51LWmltsVLS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07VCG57Y1/?tag=tolees-21)
 
 ℹ️:
 
 - La temperatura de servicio de los botellines de estrella Galicia es de 4-5ºC y contiene una graduación de alcohol del 5,5%
-- Estrella Galicia Cerveza Especial Mini 24x20cl
-- El maridaje ideal con Estrella Galicia Especial: Quesos frescos, verduras y hortalizas frías, setas, pescados blancos y carnes
 - Materias primas de esta cerveza: Agua de A Coruña, maltas pilsen y tostada, lúpulos Nugget Perle Hallertau y levadura selección HdR
-- Para los más expertos en cerveza, Estrella Galicia Especial tiene un amargor de 25 EBU, color 9 EBC, ESP 13ºP
 - Cerveza gallega con clasificación Lager especial y color dorado brillante
+- Estrella Galicia Cerveza Especial Mini 24x20cl
+- Para los más expertos en cerveza, Estrella Galicia Especial tiene un amargor de 25 EBU, color 9 EBC, ESP 13ºP
+- El maridaje ideal con Estrella Galicia Especial: Quesos frescos, verduras y hortalizas frías, setas, pescados blancos y carnes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VCG57Y1/?tag=tolees-21)
