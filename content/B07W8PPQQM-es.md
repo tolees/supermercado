@@ -28,10 +28,10 @@ En este momento está [Marca Amazon - Happy Belly - Aceite de coco virgen ecoló
 
 🔎:
 
-- El sustituto perfecto de la mantequilla o la margarina para hornear en casa
-- Elaborado a partir de coco prensado en frío, térmicamente estable, perfecto para cocinar y asar
-- Apto para vegetarianos
-- Da un ligero toque de sabor a coco a tus platos
 - Guardar en un lugar fresco y seco
+- Da un ligero toque de sabor a coco a tus platos
+- El sustituto perfecto de la mantequilla o la margarina para hornear en casa
+- Apto para vegetarianos
+- Elaborado a partir de coco prensado en frío, térmicamente estable, perfecto para cocinar y asar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W8PPQQM/?tag=tolees-21)

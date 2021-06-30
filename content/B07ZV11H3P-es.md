@@ -28,10 +28,10 @@ En este momento está [PBN Premium Body Nutrition - PBN - Premium Body Nutrition
 
 🔎:
 
+- Apto para vegetarianos
+- Frasco de 2,27 kg de proteína de suero de leche con sabor a chocolate con avellanas
 - Hecho con ingredientes de primera calidad
 - 23 g de proteína por ración
 - Raciones por envase: 75
-- Apto para vegetarianos
-- Frasco de 2,27 kg de proteína de suero de leche con sabor a chocolate con avellanas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZV11H3P/?tag=tolees-21)
