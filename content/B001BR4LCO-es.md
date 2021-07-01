@@ -29,7 +29,7 @@ Tienes [Calvin Klein 4033 - Desodorante  75 gr](https://www.amazon.es/dp/B001BR4
 🔎:
 
 - Este producto está indicado para hombres.
-- Contiene 75 gr.
 - De la marca Calvin Klein.
+- Contiene 75 gr.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001BR4LCO/?tag=tolees-21)
