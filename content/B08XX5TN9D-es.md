@@ -28,12 +28,12 @@ Tienes [Marca Amazon - Solimo Gel de ducha sport para hombre 3 en 1  Cuerpo  car
 
 🔎:
 
-- Dermatológicamente probad
-- Únicamente para uso externo
-- 24 horas de frescor
 - 3 en 1 (Cuerpo, cara y cabello)
-- Gel de ducha para hombre
 - En caso de contacto con los ojos, lavar bien con agua
+- Gel de ducha para hombre
+- 24 horas de frescor
+- Únicamente para uso externo
+- Dermatológicamente probad
 - Refresca tu cuerpo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08XX5TN9D/?tag=tolees-21)

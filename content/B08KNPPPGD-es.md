@@ -28,10 +28,10 @@ En este momento está [Jamonprive - Jamón Ibérico de Cebo  Paleta  4 - 4.5 Kg 
 
 🔎:
 
+- Tiempo de curación: 20 meses.
 - Procedencia: Extremadura - España.
 - La paleta ibérica de cebo proviene de cerdos alimentados con piensos, constituidos fundamentalmente por cereales y leguminosas, cuya cría se realiza en granjas. En el corte se pueden apreciar pequeñas “motas” o “cristales” de color blanco, señal de una curación lenta y una baja salinidad.
 - La paleta ibérica de cebo es una pieza obtenida de las extremidades anteriores del cerdo ibérico, se caracteriza por su forma estilizada, finura de caña, con pezuña negra y grasa blanda, brillante y textura suave.
-- Tiempo de curación: 20 meses.
 - Su sabor es exquisito y delicado y en el paladar destaca su prolongado aroma.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KNPPPGD/?tag=tolees-21)
