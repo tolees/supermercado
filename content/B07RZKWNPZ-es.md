@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BODEGA CUATRO RAYAS - Vino Blanco Azumbr al 28.73 % de descuento'
-date: 2021-06-30 08:01:33
+date: 2021-07-01 09:17:05
 image: 'https://m.media-amazon.com/images/I/51b8M2AV0DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Ahora mismo tienes [BODEGA CUATRO RAYAS - Vino Blanco Azumbre Verdejo D.O Rueda 
 
 🔎:
 
-- Maridaje: Pescados, mariscos, ensaladas
-- Elaborado con una selección de viñedos viejos de la variedad Verdejo. Maceración en frio durante 4 horas. Fermentado en depósitos de acero inoxidable a una Temperatura de 15ºC. Fermentación a 15ºC con levaduras seleccionadas.
-- D.O. Rueda
-- En boca es sabroso envolvente y untuoso, con toques de fruta fresca, muy equilibrado y largo.
+- Alérgenos: Contiene sulfitos
 - En nariz es limpio y fresco, aromas dulces, frutales de fruta de hueso (albaricoque), y un fondo de hinojo.
 - Color amarillo limón, brillante con reflejos verdosos.
 - Temperatura de servicio: 6 – 8ºC.
-- Alérgenos: Contiene sulfitos
+- Elaborado con una selección de viñedos viejos de la variedad Verdejo. Maceración en frio durante 4 horas. Fermentado en depósitos de acero inoxidable a una Temperatura de 15ºC. Fermentación a 15ºC con levaduras seleccionadas.
+- Maridaje: Pescados, mariscos, ensaladas
+- En boca es sabroso envolvente y untuoso, con toques de fruta fresca, muy equilibrado y largo.
+- D.O. Rueda
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RZKWNPZ/?tag=tolees-21)

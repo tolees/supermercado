@@ -28,8 +28,8 @@ En este momento está [LAGARTO jabón pastilla natural pack 3 x 200 gr](https://
 
 🔎:
 
-- Jabón plla natural lagarto 3x200 grs
 - La mejor calidad en productos de cuidado personal
 - Productos para el higiene y aseo, tanto para hombres como para mujeres
+- Jabón plla natural lagarto 3x200 grs
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GT7Z8KX/?tag=tolees-21)
