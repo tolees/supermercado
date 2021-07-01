@@ -28,10 +28,10 @@ Tienes [Santing - Cápsula de café ecológica  cápsula de café  para café de
 
 ℹ️:
 
-- Recargable y reutilizable, ecológico y de bajo costo.
 - Es fácil de limpiar con agua corriente, viene con un cepillo de limpieza para eliminar los residuos en la malla.
+- La cápsula de café está hecha de plástico y malla de filtro de acero inoxidable, segura, no tóxica y duradera.
+- Recargable y reutilizable, ecológico y de bajo costo.
 - Regalo perfecto para tus amigos amantes del café.
 - La fina malla de filtro de acero inoxidable garantiza una buena filtración y un sabor fuerte y original.
-- La cápsula de café está hecha de plástico y malla de filtro de acero inoxidable, segura, no tóxica y duradera.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B095H55WHX/?tag=tolees-21)

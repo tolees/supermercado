@@ -28,14 +28,14 @@ Está [Marca Amazon - Amfit Nutrition Barrita de proteína baja en azúcar  19 8
 
 ℹ️:
 
-- Sabor delicioso- snack relleno de proteína para usar sobre la marcha
 - Barrita de proteínas sabor a chocolate y menta con una capa de caramelo sabor chocolate y cobertura sabor chocolate negro, con edulcorantes
-- Atención: Un consumo excesivo puede producir efectos laxantes
 - Pack de 12 (12x60g)
-- Menos que 1g azúcar y menos que 20g de hidratos de carbono por barrita
-- Alto contenido de proteínas, que contribuyen a que aumente la masa muscular. Mas de 19g de proteínas y solo 191 calorías por barrita
-- No apto para alérgicos a los frutos de cáscara, los cacahuetes y el huevo, debido al método de producción
-- Valores de nutrición por barrita: 191kcal (Proteínas 19,8g; Hidratos de carbono 19,2g; Fibra alimentaria 7,2g; Grasas: 5,2g)
 - Este producto está eleborado con aceite de palma obtenido de manera sostenible. El fabricante es miembro certificado de la Rountable on Sustainable Palm Oil (RSPO)
+- Valores de nutrición por barrita: 191kcal (Proteínas 19,8g; Hidratos de carbono 19,2g; Fibra alimentaria 7,2g; Grasas: 5,2g)
+- Sabor delicioso- snack relleno de proteína para usar sobre la marcha
+- No apto para alérgicos a los frutos de cáscara, los cacahuetes y el huevo, debido al método de producción
+- Atención: Un consumo excesivo puede producir efectos laxantes
+- Alto contenido de proteínas, que contribuyen a que aumente la masa muscular. Mas de 19g de proteínas y solo 191 calorías por barrita
+- Menos que 1g azúcar y menos que 20g de hidratos de carbono por barrita
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QVR4S1Q/?tag=tolees-21)
