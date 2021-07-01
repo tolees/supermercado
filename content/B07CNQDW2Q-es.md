@@ -28,13 +28,13 @@ Ahora mismo tienes [Ariel Original Detergente Líquido  28 DOSIS REGULAR + 3 DOS
 
 🔎:
 
-- Iluminador
-- Por razones medioambientales, las botellas no cuentan con un tapón medidor pero puedes pedirlo de forma gratuita en el sitio web de ariel
-- Quitamanchas
-- Eficaz en frío (incluso a 30ºC)
 - Fragancia intensa
+- Quitamanchas
+- Por razones medioambientales, las botellas no cuentan con un tapón medidor pero puedes pedirlo de forma gratuita en el sitio web de ariel
+- Eficaz en frío (incluso a 30ºC)
 - Limpieza profunda e higiene
-- Resultados increíbles desde el primer lavado
 - Botella 100% reciclable
+- Resultados increíbles desde el primer lavado
+- Iluminador
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CNQDW2Q/?tag=tolees-21)

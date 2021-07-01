@@ -28,10 +28,10 @@ Tienes [Hobaca® GU10 L19 * W17cm Mini Loft Proyector LED Luces de techo Luz de 
 
 🔎:
 
-- 【Fácil instalación】: Con todas las piezas de montaje para una instalación fácil y rápida. Es el sueño de un empresario!
-- 【Compra sin riesgo】: Si el producto está dañado o defectuoso cuando lo recibe, solicite una confirmación y no dude en contactarnos. Lo reemplazaremos de forma gratuita o le ofreceremos un reembolso.
 - La tienda EuSolis Vulcanus es la tienda oficial oficial de Hobaca y la única tienda de Amazon que vende productos EuSolis.【Tipo especial】: EuSolis Presenta este punto brillante, que puede ser utilizado como luz de techo o luz de pared. Hecho de alta calidad, hierro sólido, con el botón ajustable para un mejor control del brillo y la seguridad de este proyector.
-- 【No incluye las bombillas】: Debido a que la bombilla es frágil, el paquete no contiene la bombilla. Utilice el enchufe de energía E26 / E27 y el edison y 3w-12w del LED 40w-60w;
+- 【Compra sin riesgo】: Si el producto está dañado o defectuoso cuando lo recibe, solicite una confirmación y no dude en contactarnos. Lo reemplazaremos de forma gratuita o le ofreceremos un reembolso.
 - 【Aplicaciones Recomendadas】: corredor de oficina / oficina, comedor, dormitorio, dormitorio, sala de estar, restaurantes, clubes, zutéré Tamaño de la habitación: 10-15 m2
+- 【No incluye las bombillas】: Debido a que la bombilla es frágil, el paquete no contiene la bombilla. Utilice el enchufe de energía E26 / E27 y el edison y 3w-12w del LED 40w-60w;
+- 【Fácil instalación】: Con todas las piezas de montaje para una instalación fácil y rápida. Es el sueño de un empresario!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07LDT9TQV/?tag=tolees-21)

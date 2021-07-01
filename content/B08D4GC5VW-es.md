@@ -28,11 +28,11 @@ Tienes [Healthy Boy Salsa De Ostras  Sin Gluten 12 Unidades 350 g](https://www.a
 
 ℹ️:
 
-- Salsa de color marrón y de textura viscosa
-- Típica salsa de la cocina china
-- Excelente para preparar con carnes rojas o pollo
 - Instrucciones para su uso adecuado: Después de abrir conservar en la nevera y consumir en pocos días
 - Sin gluten
 - Ingredientes: Agua, extracto de ostras, azúcar, jarabe de fructosa, sal, almidón de tapioca modificado, potenciador del sabor, glutamato monosódico; colorante: caramelo amoniaco; corrector de acidez: ácido cítrico; estabilizador: xantana; conservador: Benzonato de sodio
+- Salsa de color marrón y de textura viscosa
+- Típica salsa de la cocina china
+- Excelente para preparar con carnes rojas o pollo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08D4GC5VW/?tag=tolees-21)
