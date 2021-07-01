@@ -29,9 +29,9 @@ En este momento está [Flor Original Delicado  Suavizante para la Ropa concentra
 🔎:
 
 - Efecto antiestático sobre las fibras
-- Descubre el resto de fragancias Flor y encuentra tu favorita
-- Frescor de larga duración, hasta 100 días en tu armario, gracias a su fórmula con microcápsulas de fragancia de liberación prolongada
 - Suavizante para la ropa concentrado apto para pieles sensibles, dermatológicamente testado
+- Frescor de larga duración, hasta 100 días en tu armario, gracias a su fórmula con microcápsulas de fragancia de liberación prolongada
 - Sensación de suavidad en la piel
+- Descubre el resto de fragancias Flor y encuentra tu favorita
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VG6VZY8/?tag=tolees-21)
