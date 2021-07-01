@@ -28,9 +28,9 @@ Ahora mismo tienes [Fa - Gel de ducha Yoghurt Aloe Vera - Con leche de Aloe Vera
 
 🔎:
 
-- Es adecuado para piel seca
-- Es dermatológicamente probado
 - Contiene proteína de yogur
+- Es adecuado para piel seca
 - Tiene una fórmula con aloe vera
+- Es dermatológicamente probado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P5P7W7Z/?tag=tolees-21)
