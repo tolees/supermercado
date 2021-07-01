@@ -28,10 +28,10 @@ Tienes [Bionsan Marma Germen de Trigo Natural | 2 Bolsas de 400gr | Total 800gr]
 
 🔎:
 
-- 🥙 INFORMACIÓN NUTRICIONAL (100gr): Energia: 1382KJ/330Kcal, Proteína: 31.1g., Grasa: 10g. De las cuales saturadas: 2g. Hidratos de carbono: 29g. De los cuales azúcares: 8g., Fibra: 13g., Sal: 0.07g.
 - 📦FORMATO - 2 Bolsas de 400gr.
-- 🌿CARACTERÍSTICAS - No GMO. No irradiado. Apto para vegetarianos y veganos
-- 🌱 PROPIEDADES -Es un complemento idóneo para mantener el equilibrio nutricional, y ser considerado un gran aliado en la belleza de la piel, el cabello y las uñas. Además previene la acumulación de colesterol en las arterias, ayuda a disminuir la presión arterial alta y eleva el estado de ánimo, siendo útil en casos de angustia. Mejora la circulación y la salud del corazón. Regula la presión arterial al tener potasio, puede prevenir enfermedades como el reuma y la artritis
 - 🌍 ORIGEN: España
+- 🌿CARACTERÍSTICAS - No GMO. No irradiado. Apto para vegetarianos y veganos
+- 🥙 INFORMACIÓN NUTRICIONAL (100gr): Energia: 1382KJ/330Kcal, Proteína: 31.1g., Grasa: 10g. De las cuales saturadas: 2g. Hidratos de carbono: 29g. De los cuales azúcares: 8g., Fibra: 13g., Sal: 0.07g.
+- 🌱 PROPIEDADES -Es un complemento idóneo para mantener el equilibrio nutricional, y ser considerado un gran aliado en la belleza de la piel, el cabello y las uñas. Además previene la acumulación de colesterol en las arterias, ayuda a disminuir la presión arterial alta y eleva el estado de ánimo, siendo útil en casos de angustia. Mejora la circulación y la salud del corazón. Regula la presión arterial al tener potasio, puede prevenir enfermedades como el reuma y la artritis
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073FCL2T9/?tag=tolees-21)
