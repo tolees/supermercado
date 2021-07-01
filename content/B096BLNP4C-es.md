@@ -28,10 +28,10 @@ Tienes [Gedourain - Taza de café  taza de té del aislamiento térmico 300Ml pa
 
 🔎:
 
-- ➷ 【Características】 La temperatura de reposo es de -20-302,0 ℉, resistente a altas temperaturas.
-- ➷ 【Material】 Utilizando vidrio de borosilicato de alta calidad, la textura es muy ligera y fina, de uso prolongado.
 - ➷ 【Objeto aplicable】 Taza de café para el hogar, la oficina, la cafetería, etc.
 - ➷ 【Propósito】 Es conveniente beber café o té caliente, adecuado para compartir bebidas de café con amigos.
+- ➷ 【Características】 La temperatura de reposo es de -20-302,0 ℉, resistente a altas temperaturas.
+- ➷ 【Material】 Utilizando vidrio de borosilicato de alta calidad, la textura es muy ligera y fina, de uso prolongado.
 - ➷ 【Servicio postventa】 Servicio postventa perfecto, los proveedores proporcionan productos directamente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B096BLNP4C/?tag=tolees-21)
