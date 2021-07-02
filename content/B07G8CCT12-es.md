@@ -29,9 +29,9 @@ Ahora mismo tienes [TRESemmé Liso Y Sedoso Champú 900Ml 960 g](https://www.ama
 🔎:
 
 - Ayuda a conseguir un cabello liso y sano
-- Cabello brillante
-- Suaviza el pelo y controla los mechones rebeldes
-- Mejora el aspecto del cabello seco y con tendencia a encresparse
 - Contiene proteínas de seda y aceite de argán que dan suavidad
+- Suaviza el pelo y controla los mechones rebeldes
+- Cabello brillante
+- Mejora el aspecto del cabello seco y con tendencia a encresparse
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07G8CCT12/?tag=tolees-21)

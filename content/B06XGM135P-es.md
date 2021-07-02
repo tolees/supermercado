@@ -28,10 +28,10 @@ Tienes [Maybelline New York - Polvos Matificantes Fit Me 105 Natural Ivory](http
 
 ℹ️:
 
-- Controlla brillos y borra poros
 - Para pieles normales y grasas
 - Matifica tu piel
 - Luce un acabado mate por más de 12 horas
+- Controlla brillos y borra poros
 - Fija la base de maquillaje a tu piel para una mayor duración
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06XGM135P/?tag=tolees-21)
