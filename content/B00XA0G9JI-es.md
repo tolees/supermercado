@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Burn Original - Bebida energética - Lata al 0.00 % de rebaja'
-date: 2021-06-22 09:43:10
+title: 'Burn Original - Bebida energética - Lata al 8.79 % de rebaja'
+date: 2021-07-02 12:24:28
 image: 'https://m.media-amazon.com/images/I/41VPjgwflXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: 'tole.es'
 slug: 'B00XA0G9JI-es Burn Original - Bebida energética - Lata 500 ml'
 sku: 'B00XA0G9JI-es'
 tags: [ 'Alimentación y bebidas','Bebidas energéticas','Café, té y bebidas','bebida','burn','energética', ]
-actualPrice: 0.99 EUR
+actualPrice: 0.83 EUR
 currency: EUR
-price: 0.99
-comparePrice:  EUR
+price: 0.83
+comparePrice: 0.91 EUR
 prodname: 'Burn Original - Bebida energética - Lata 500 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Burn'
 buyurl: 'https://www.amazon.es/dp/B00XA0G9JI/?tag=tolees-21'
-descuento: '0.00'
-average: '1.00172413793104'
+descuento: '8.79'
+average: '0.996000000000005'
 ---
 
-Tienes [Burn Original - Bebida energética - Lata 500 ml](https://www.amazon.es/dp/B00XA0G9JI/?tag=tolees-21) con precio final de  0.99 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
+Tienes [Burn Original - Bebida energética - Lata 500 ml](https://www.amazon.es/dp/B00XA0G9JI/?tag=tolees-21) con precio final de  0.83 EUR (original: 0.91 EUR) (8.79 %  de rebaja) aqui!
 
 [![Burn Original - Bebida energética - Lata](https://m.media-amazon.com/images/I/41VPjgwflXL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00XA0G9JI/?tag=tolees-21)
 
 🔎:
 
-- Burn sabor original lata de 500 ml
-- Este refresco energético contiene taurina + guaraná + vitaminas B. Las vitaminas B6 y B12 puede contribuir a la disminuir el cansancio y la fatiga y al metabolismo energético normal
 - Sirve tu bebida fría para refrescarte
+- Este refresco energético contiene taurina + guaraná + vitaminas B. Las vitaminas B6 y B12 puede contribuir a la disminuir el cansancio y la fatiga y al metabolismo energético normal
 - Bebida energética carbonatada con cafeína. La cafeína puede contribuir a aumentar la concentración y el estado de alerta
+- Burn sabor original lata de 500 ml
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XA0G9JI/?tag=tolees-21)
