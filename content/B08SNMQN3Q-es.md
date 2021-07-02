@@ -28,10 +28,10 @@ En este momento está [Gommy s Factory Bolsa Oso Amoroso - Loving Bear  Melocot�
 
 🔎:
 
-- formato ahorro: práctico e higiénico. ¡diviértete y disfruta de tus chuches favoritas en cualquier sitio!
+- perfectas para cualquier ocasión: nuestras gominolas son ideales para cestas de navidad, de regalo, piñatas de cumpleaños, cestas de chuches. contiene 1 pack de 90g.
 - 100% fabricación española: nuestro surtido está elaborado en españa, bajo la más estricta supervisión. nuestro control de calidad exhaustivo hace que nuestras gominolas sean tanto para jóvenes como mayores. ( no recomendado para menores de 3 años).
+- formato ahorro: práctico e higiénico. ¡diviértete y disfruta de tus chuches favoritas en cualquier sitio!
 - fácil de almacenar y conservar: conservar siempre en un lugar seco y fresco, preservar de la luz, el calor y la humedad.
 - ingredientes: azúcar, jarabe de glucosa, agua , gelatina, pulpa de fruta 4%, antioxidante E300, acidulante: acido cítrico, gelificante (pectina), acidulante (acido cítrico) colorantes E-100, E-120
-- perfectas para cualquier ocasión: nuestras gominolas son ideales para cestas de navidad, de regalo, piñatas de cumpleaños, cestas de chuches. contiene 1 pack de 90g.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SNMQN3Q/?tag=tolees-21)

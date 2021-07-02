@@ -28,10 +28,10 @@ Tienes [Babaria - Jabón Intimo - Con Aceite De S Dulces  Almendra  300 Mililitr
 
 ℹ️:
 
-- Producto desarrollado para el cuidado delicado de la zona íntima.
 - Su base suave y su textura cremosa aseguran una higiene óptima.
-- Testado bajo control ginecológico
 - Respetan las zonas sensibles que merecen una atención particular.
+- Testado bajo control ginecológico
 - Respetuoso con el Ph íntimo
+- Producto desarrollado para el cuidado delicado de la zona íntima.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00WBEFWEM/?tag=tolees-21)

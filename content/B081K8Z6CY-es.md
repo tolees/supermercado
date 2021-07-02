@@ -29,14 +29,14 @@ Está [Nutribén Potitos De Menestra De Cordero  Desde los 6 Meses  Pack 6 x 235
 ℹ️:
 
 - Enriquecidos con la cantidad de nutrientes adecuada teniendo en cuenta las necesidades nutricionales de cada etapa de tu bebé.
-- Los Potitos de Nutribén son un alimento infantil destinado a bebés a partir del 6º mes de edad, elaborados con ingredientes de la mejor calidad
-- Únicamente contiene azúcares naturalmente presentes.
-- Sin aditivos, colorantes ni conservantes y sin sal añadida acorde con las recomendaciones pediátricas.
-- Están elaborados para alimentar a tu bebé dentro de una dieta variada siguiendo las recomendaciones de la ESPGHAN y siendo sometidos a más de 1.000 controles de calidad.
 - Elaborados con ingredientes de la mejor calidad.
-- Elaborados con aceite de oliva 100% virgen extra, carne, fruta y vegetales frescos; y sin aceite de palma.
-- Pack de 6 x 235gr
-- Delicioso sabor a menestra de cordero
+- Únicamente contiene azúcares naturalmente presentes.
+- Los Potitos de Nutribén son un alimento infantil destinado a bebés a partir del 6º mes de edad, elaborados con ingredientes de la mejor calidad
+- Están elaborados para alimentar a tu bebé dentro de una dieta variada siguiendo las recomendaciones de la ESPGHAN y siendo sometidos a más de 1.000 controles de calidad.
+- Sin aditivos, colorantes ni conservantes y sin sal añadida acorde con las recomendaciones pediátricas.
 - Contienen una mezcla homogénea con la proporción adecuada de nutrientes, aportan más energía y menos agua que los purés caseros Nuevo envase de etiqueta transparente y boca más ancha para facilitar dar de comer a tu hijo.
+- Pack de 6 x 235gr
+- Elaborados con aceite de oliva 100% virgen extra, carne, fruta y vegetales frescos; y sin aceite de palma.
+- Delicioso sabor a menestra de cordero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081K8Z6CY/?tag=tolees-21)
