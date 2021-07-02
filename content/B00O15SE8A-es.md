@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kelual Champú - 100 ml con un 16.90 % de descuento'
-date: 2021-06-27 14:50:15
+date: 2021-07-02 11:57:39
 image: 'https://m.media-amazon.com/images/I/41tnLESZ-lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kelual'
 buyurl: 'https://www.amazon.es/dp/B00O15SE8A/?tag=tolees-21'
 descuento: '16.90'
-average: '12.2514285714286'
+average: '12.2075'
 ---
 
 En este momento está [Kelual Champú - 100 ml](https://www.amazon.es/dp/B00O15SE8A/?tag=tolees-21) a 11.9 EUR (original: 14.32 EUR) (16.90 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Kelual Champú - 100 ml](https://www.amazon.es/dp/B00O15S
 
 🔎:
 
-- Champú Peluquería Unisex adulto
-- Champú KELUAL
 - Kelual Ds Champú 100Ml (3282779361286)
+- Champú KELUAL
+- Champú Peluquería Unisex adulto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00O15SE8A/?tag=tolees-21)

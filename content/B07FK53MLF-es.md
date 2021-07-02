@@ -28,9 +28,9 @@ En este momento está [REVLON PROFESSIONAL - Revlon Revlonissimo Colorsmetique T
 
 🔎:
 
-- Cuida, protege y nutre el cabello
-- Contiene ingredientes antienvejecimiento
 - Tono: 6 Ceniza Natural Rubio
+- Contiene ingredientes antienvejecimiento
 - Proporciona al cabello un color intenso
+- Cuida, protege y nutre el cabello
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FK53MLF/?tag=tolees-21)
