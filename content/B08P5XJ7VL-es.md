@@ -28,10 +28,10 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Corazones de gominola  Paquete de
 
 🔎:
 
-- Paquete de 3 x 1000g
-- Perfectos para compartir con amigos y familiares
-- Este envase contiene 40 porciones
 - Con aromas naturales
 - Deliciosos corazones de gominola sabor a fruta con una base suave y espumosa en forma de corazón para regalar a sus seres queridos
+- Este envase contiene 40 porciones
+- Paquete de 3 x 1000g
+- Perfectos para compartir con amigos y familiares
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08P5XJ7VL/?tag=tolees-21)
