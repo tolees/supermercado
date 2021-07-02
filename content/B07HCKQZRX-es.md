@@ -28,10 +28,10 @@ Ahora mismo tienes [Maybelline New York - Tattoo Liner  Lápiz de ojos de cobre 
 
 🔎:
 
-- Probado bajo control oftalmológico. Adecuado para ojos sensibles y portadores de lentes.
-- Trazo intenso efecto tatuaje: su textura cremosa ultra pigmentada se desliza fácilmente para un color intenso desde la primera pasada.
-- Una mirada intensa durante 36 horas sin derramar ni migrar. Prueba del consumidor de 100 mujeres
-- Aplica el lápiz de gel Tatou en el contorno superior del ojo al ras de las pestañas.
 - Lápiz de gel resistente al agua, efecto tatuaje, duración extrema hasta 36 horas, prueba del consumidor sobre 100 mujeres
+- Aplica el lápiz de gel Tatou en el contorno superior del ojo al ras de las pestañas.
+- Probado bajo control oftalmológico. Adecuado para ojos sensibles y portadores de lentes.
+- Una mirada intensa durante 36 horas sin derramar ni migrar. Prueba del consumidor de 100 mujeres
+- Trazo intenso efecto tatuaje: su textura cremosa ultra pigmentada se desliza fácilmente para un color intenso desde la primera pasada.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HCKQZRX/?tag=tolees-21)
