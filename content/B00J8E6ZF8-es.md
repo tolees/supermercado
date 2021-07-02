@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español Avena Crema Hidratante con un 16.71 % de descuento'
-date: 2021-06-27 11:03:33
+date: 2021-07-02 07:50:49
 image: 'https://m.media-amazon.com/images/I/41wvW3JmLUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B00J8E6ZF8/?tag=tolees-21'
 descuento: '16.71'
-average: '2.79'
+average: '2.87333333333333'
 ---
 
 En este momento está [Instituto Español Avena Crema Hidratante - 400 ml](https://www.amazon.es/dp/B00J8E6ZF8/?tag=tolees-21) a 3.04 EUR (original: 3.65 EUR) (16.71 %  de descuento) en el siguiente enlace!
