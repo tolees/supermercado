@@ -29,9 +29,9 @@ Tienes [HOMCOM Espejo de Maquillaje Estilo Hollywood Espejo de Tocador con 12 Lu
 🔎:
 
 - ✅ESPEJO CON LUZ LED PARA MAQUILLAJE: perfecto para colocarlo en tocadores o en vestidores para maquillarte o peinarte de forma cómoda.
-- ✅MEDIDAS: 41,5x13,5x51 cm (LxANxAL).
-- ✅12 LUCES LED BRILLANTES: las bombillas ya vienen incluidas y su luz te será muy útil para adaptarla según la iluminación general de la habitación y así poder ver con claridad.
 - ✅TEMPERATURA DE COLOR AJUSTABLE: sus 12 bombillas tienen 3 temperaturas de color ajustables. Puedes elegir entre una luz blanca, blanca fría o blanca cálida según la necesidad de cada momento.
+- ✅12 LUCES LED BRILLANTES: las bombillas ya vienen incluidas y su luz te será muy útil para adaptarla según la iluminación general de la habitación y así poder ver con claridad.
 - ✅PANTALLA TÁCTIL: el espejo lleva dibujados unos iconos que en realidad son botones táctiles bonitos y prácticos. El central es para encender y apagar, el izquierdo sirve para ajustar el brillo y con el derecho puedes cambiar la temperatura del color.
+- ✅MEDIDAS: 41,5x13,5x51 cm (LxANxAL).
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DTLQ9DF/?tag=tolees-21)

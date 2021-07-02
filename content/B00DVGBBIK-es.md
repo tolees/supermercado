@@ -28,9 +28,9 @@ Tienes [Ibsa Preparado de Tortilla de Patata con Cebolla - 3 Unidades de 350 gr 
 
 ℹ️:
 
-- País de origen: España
-- Conservar en lugar fresco (15 – 30 ºC), seco y ventilado
 - De la marca Ibsa
+- Conservar en lugar fresco (15 – 30 ºC), seco y ventilado
 - Sin conservantes ni colorantes
+- País de origen: España
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DVGBBIK/?tag=tolees-21)
