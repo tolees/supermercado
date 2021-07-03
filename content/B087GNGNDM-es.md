@@ -29,9 +29,9 @@ Ahora mismo tienes [Hydenderma - Hygen-X Gel Hidroalcohólico Desinfectante para
 🔎:
 
 - Gel hidroalcohólico para la higiene total de las manos
-- Aplicar el producto en cantidad suficiente y frotar manos y muñecas hasta su completa evaporación
-- Cantidad de alcohol: 75%
 - Producto para el cuidado personal
+- Cantidad de alcohol: 75%
+- Aplicar el producto en cantidad suficiente y frotar manos y muñecas hasta su completa evaporación
 - Adecuado para llevarlo en el bolso cartera o en una chaqueta o abrigo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087GNGNDM/?tag=tolees-21)

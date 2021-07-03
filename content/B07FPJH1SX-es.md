@@ -28,10 +28,10 @@ Está [Excelsa Radical - Juego de 6 tazas de café con plato  porcelana  multico
 
 ℹ️:
 
-- Apto para lavavajillas y microondas.
-- Tazas: 6 cm de diámetro y 5 cm de altura.
-- Hecho de porcelana. Capacidad: 90 ml.
-- Juego de 6 tazas de café con platillo.
 - Platillo: 10,5 cm de diámetro.
+- Juego de 6 tazas de café con platillo.
+- Apto para lavavajillas y microondas.
+- Hecho de porcelana. Capacidad: 90 ml.
+- Tazas: 6 cm de diámetro y 5 cm de altura.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FPJH1SX/?tag=tolees-21)
