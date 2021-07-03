@@ -28,11 +28,11 @@ Tienes [Marca Amazon - Happy Belly Ciruelas Pasas sin Hueso  300gr x 4](https://
 
 ℹ️:
 
-- Apto para dietas vegetarianas y veganas
-- Envasado en atmósfera protectora para mantener su frescura Con cierre
-- Puede contener fragmentos del hueso de la fruta
-- No apto para alérgicos a los frutos de cáscara debido al método de producción
 - Envase de 4: 4 x 300gr
+- Apto para dietas vegetarianas y veganas
+- No apto para alérgicos a los frutos de cáscara debido al método de producción
+- Envasado en atmósfera protectora para mantener su frescura Con cierre
 - Alto contenido de fibra. Disfrútelo como bocadillo o como parte de su desayuno o cocina
+- Puede contener fragmentos del hueso de la fruta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08LLR415G/?tag=tolees-21)
