@@ -28,10 +28,10 @@ Tienes [Tejero - Conserva de Pescado | Filetes de Caballa en Aceite - 1 Lata x 1
 
 🔎:
 
+- Conservas de pescado natural producida en España, sin ningún tipo de conservantes ni aditivos
 - En Tejero la producción continúa siendo artesanal, siendo fieles a una tradición centenaria
+- Cada lata se elabora de forma artesanal y solo contiene caballa, aceite de girasol y sal
 - Filetes de caballa de Andalucía con todo el sabor del sur de España
 - Los filetes de caballa Tejero son una fuente natural de Omega 3
-- Conservas de pescado natural producida en España, sin ningún tipo de conservantes ni aditivos
-- Cada lata se elabora de forma artesanal y solo contiene caballa, aceite de girasol y sal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01IU9ZYUS/?tag=tolees-21)
