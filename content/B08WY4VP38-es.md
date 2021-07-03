@@ -29,10 +29,10 @@ En este momento está [Axe Excite Rock Desodorante - 150 ml - Pack de 6](https:/
 🔎:
 
 - Con Tecnología Dual Action: Elimina el mal olor, fragancias irresistibles
-- Fragancia Excite con aroma a madera, coco caliente, avellana y caramelo
-- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
-- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
-- Fórmula sin aluminio
 - ¡Prueba toda la nueva gama Axe!
+- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
+- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
+- Fragancia Excite con aroma a madera, coco caliente, avellana y caramelo
+- Fórmula sin aluminio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WY4VP38/?tag=tolees-21)
