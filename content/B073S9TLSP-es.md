@@ -28,11 +28,11 @@ Tienes [Revlon Flex Princess Look Acondicionador 2 Fases sin Aclarado - 400 ml](
 
 🔎:
 
-- Para un resultado óptimo se pueden leer las instrucciones en la botella
 - Se aplica tras haber secado el cabello con una toalla
-- Este acondicionador sin aclarado viene en una conveniente botella de spray para una aplicación ligera
-- Producto para el cuidado personal
 - Adecuado para todos los tipos de pelo
 - Ayuda a desenredar el pelo y proporciona suavidad
+- Producto para el cuidado personal
+- Este acondicionador sin aclarado viene en una conveniente botella de spray para una aplicación ligera
+- Para un resultado óptimo se pueden leer las instrucciones en la botella
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073S9TLSP/?tag=tolees-21)
