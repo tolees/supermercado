@@ -28,10 +28,10 @@ Ahora mismo tienes [Air Wick AntiTabaco Velas aromáticas perfumadas antiolores 
 
 🔎:
 
-- Elaborada con cera natural, extraída directamente de plantas y flores naturales
 - Exquisita fragancia afrutada con aceites esenciales
-- Fragancia que dura hasta el último instante
+- Elaborada con cera natural, extraída directamente de plantas y flores naturales
 - Vela aromática antitabaco, elimina el olor a tabaco y funciona como ambientador para el hogar
+- Fragancia que dura hasta el último instante
 - Con las fragancias Air Wick tu hogar se siente en el aire
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082BQ27ZP/?tag=tolees-21)

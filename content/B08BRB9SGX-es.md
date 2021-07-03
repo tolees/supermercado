@@ -28,10 +28,10 @@ Tienes [JEMESI 50g pigmentos en polvo de Mica para teñir resina epoxi transpare
 
 🔎:
 
-- 【Facil de usar】 -- Fácil de mezclar para crear un efecto de profundidad y brillo de varios tonos para resina epoxi, pintura acrílica, fabricación de jabón y bombas de baño e incluso para divertirse con limo de colores con sus hijos.
-- 【El Paquete Contiene】-- Cada botella de aproximadamente 50g / 1.76 oz durará mucho tiempo. Paquete de botella: fácil de almacenar y mantener seco. Envases de botellas de plástico respetuosos con el medio ambiente, resistentes y sin goteo.¡No más líos con el recipiente resellable!
-- 【Pigmentos de mica multiusos】-- La mica en polvo de colores brillantes se pueden usar en muchos lugares y da más color y brillo a su obra de diseño. Puede usarlos en teñir Resina Epoxi, Hacer Slimo, Jabón, Bombas de Baño, Maquillaje, Uñas, Joyería, Pintura, Bricolaje y manualidades.etc.
 - 【Pigmento de alta concentración】 -- Una cantidad suficientemente grande de polvo de mica para casi cualquier proyecto de tamaño. Solo una pequeña cantidad de tinte de color de resina logrará sorprendentes efectos perlados brillantes. Las propiedades sin decoloración y sin sangrado significan que su color durará para siempre.
 - 【Mica en polvo no tóxico】-- Polvo de mica de calidad cosmética profesional de primera calidad que es un pigmento en polvo no tóxico, amigable con los animales, libre de irritaciones, sin manchas y suave para la piel.
+- 【Pigmentos de mica multiusos】-- La mica en polvo de colores brillantes se pueden usar en muchos lugares y da más color y brillo a su obra de diseño. Puede usarlos en teñir Resina Epoxi, Hacer Slimo, Jabón, Bombas de Baño, Maquillaje, Uñas, Joyería, Pintura, Bricolaje y manualidades.etc.
+- 【El Paquete Contiene】-- Cada botella de aproximadamente 50g / 1.76 oz durará mucho tiempo. Paquete de botella: fácil de almacenar y mantener seco. Envases de botellas de plástico respetuosos con el medio ambiente, resistentes y sin goteo.¡No más líos con el recipiente resellable!
+- 【Facil de usar】 -- Fácil de mezclar para crear un efecto de profundidad y brillo de varios tonos para resina epoxi, pintura acrílica, fabricación de jabón y bombas de baño e incluso para divertirse con limo de colores con sus hijos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BRB9SGX/?tag=tolees-21)
