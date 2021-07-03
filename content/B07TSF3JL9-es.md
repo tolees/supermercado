@@ -28,7 +28,7 @@ Tienes [Only Onlcami S/S Loose Crochet Top Jrs Blusas  Braun  Bitter Chocolate B
 
 🔎:
 
-- Blouse with crochet details
 - Soft Viscose quality
+- Blouse with crochet details
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TSF3JL9/?tag=tolees-21)
