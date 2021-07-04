@@ -28,10 +28,10 @@ Está [Eulenspiegel - Maquillaje para niños](https://www.amazon.es/dp/B00HUX6IH
 
 ℹ️:
 
-- rentable
-- Tema de hadas.
 - Cumple con la normativa de fabricación europea.
+- Tema de hadas.
 - No apto para niños menores de 36 meses.
 - Contenido: 6 ml.
+- rentable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00HUX6IHY/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Nestlé Maxibon Black Cookie 170g - Pack de 16](https://www.
 
 🔎:
 
-- El chocolate Nestlé ahora con relleno de galleta maxibon y chocolate negro hecho con habas de cacao de calidad gracias a la distribución de 15.5 millones de plantas de alto rendimiento
-- Azúcar, cacao, grasas vegetales (palma, shea), leche desnatada en polvo, trocitos de galleta de cacao (6.5%) [azúcar, jarabe de glucosa, aceite de coco, cacao en polvo
 - España
-- Leche, trigo, grasa láctea, frutos de cáscara
+- El chocolate Nestlé ahora con relleno de galleta maxibon y chocolate negro hecho con habas de cacao de calidad gracias a la distribución de 15.5 millones de plantas de alto rendimiento
 - Trocitos de galleta en el interior de cada tableta fino maxibon 100% cacao de cultivo sostenible seleccionado a través de Nestle cocoa plan
+- Leche, trigo, grasa láctea, frutos de cáscara
+- Azúcar, cacao, grasas vegetales (palma, shea), leche desnatada en polvo, trocitos de galleta de cacao (6.5%) [azúcar, jarabe de glucosa, aceite de coco, cacao en polvo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08JHNQK7J/?tag=tolees-21)
