@@ -28,10 +28,10 @@ Tienes [CAFES GUILIS DESDE 1928 AMANTES DEL CAFE Cápsulas de café intenso - co
 
 🔎:
 
+- Cápsulas Compostables (y biodegradables) se convierten en abono para las plantas sin dejar residuo
+- Taza de sabor suave, afrutado y cuerpo ligero. Café 100% Arábica Natural
 - Compatible y ajuste perfecto con la máquina Nespresso
 - Tueste natural con una curva de tostado desarrollada
 - Origen: América Central y del Sur con un toque de las mejores culturas de África y Asia.
-- Cápsulas Compostables (y biodegradables) se convierten en abono para las plantas sin dejar residuo
-- Taza de sabor suave, afrutado y cuerpo ligero. Café 100% Arábica Natural
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WDWR634/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Red Bull Lata  4 x 250ml](https://www.amazon.es/dp/B004HOEU4M/?tag=tolee
 
 🔎:
 
-- Contiene taurina
-- Desarrollado especialmente para los momentos de mayor tensión
 - Bebida energética con alto contenido de cafeína (32 mg / 100 ml)
+- Desarrollado especialmente para los momentos de mayor tensión
+- Contiene taurina
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004HOEU4M/?tag=tolees-21)
