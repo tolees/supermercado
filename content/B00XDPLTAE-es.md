@@ -28,11 +28,11 @@ Tienes [Fanta Limón - Refresco con 6 % de zumo de limón  bajo en calorías - P
 
 ℹ️:
 
-- Nuestra bebida de limón ahora con un 48% menos de azúcar y baja en calorías
-- Fanta de Limón Pack ahorro de 9 latas de 330 ml., ideal para disfrutarla en cualquier momento, lugar y ocasión
-- Deliciosa bebida refrescante con gas sabor Limón
-- Refresco con un 6% de zumo de limón
-- Toma tu refresco solo o mezclado, bien frío con mucho hielo y una rodaja de limón
 - Envase 100% reciclable (contenedor amarillo)
+- Deliciosa bebida refrescante con gas sabor Limón
+- Toma tu refresco solo o mezclado, bien frío con mucho hielo y una rodaja de limón
+- Fanta de Limón Pack ahorro de 9 latas de 330 ml., ideal para disfrutarla en cualquier momento, lugar y ocasión
+- Refresco con un 6% de zumo de limón
+- Nuestra bebida de limón ahora con un 48% menos de azúcar y baja en calorías
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDPLTAE/?tag=tolees-21)
