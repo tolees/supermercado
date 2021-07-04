@@ -28,10 +28,10 @@ En este momento está [Innoo Tech - Aceites Esenciales  Árbol de Té  Lavanda  
 
 🔎:
 
-- 【Usos】: Perfecto con un difusor, ambientador, vaporizador o humidificador para un mejor aire; ya sea para aromaterapia, masaje personalizado, difusión, quemador de aceite, perfume, mezclas, spa o productos de limpieza y cuidado del hogar.
+- 【Compañero para difusor】: Los aceites esenciales se pueden usar con difusores o humidificadores de aromas compatibles, al agregar unas gotas de aceite combinadas con agua, el difusor y los humidificadores liberarán un vapor perfumado en la atmósfera.
 - 【Elección ideal】: Exquisito juego de Aceites Esenciales - Sin Rellenos, Aditivos, Bases o Portadores agregados Probado con GC. Así que es amistoso en casa.
 - 【Varias opciones】: La colección de 18 paquetes incluye 10 ml de árbol de té, lavanda, eucalipto, incienso, hierba de limón, romero, naranja, menta, limón, canela, bergamota, ylang-ylang, pomelo, manzanilla, rosa, vainilla, pachulí, Sabio.
-- 【Compañero para difusor】: Los aceites esenciales se pueden usar con difusores o humidificadores de aromas compatibles, al agregar unas gotas de aceite combinadas con agua, el difusor y los humidificadores liberarán un vapor perfumado en la atmósfera.
 - 【Juego de regalo perfecto】: el empaque elegante lo convierte en el regalo perfecto para Navidad, cumpleaños, aniversarios, días festivos, Día del maestro, Día del padre, Día de la madre y más.
+- 【Usos】: Perfecto con un difusor, ambientador, vaporizador o humidificador para un mejor aire; ya sea para aromaterapia, masaje personalizado, difusión, quemador de aceite, perfume, mezclas, spa o productos de limpieza y cuidado del hogar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089R8DSYY/?tag=tolees-21)
