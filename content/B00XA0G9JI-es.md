@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Burn Original - Bebida energética - Lata al 8.79 % de rebaja'
-date: 2021-07-02 12:24:28
+date: 2021-07-04 17:58:57
 image: 'https://m.media-amazon.com/images/I/41VPjgwflXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Burn'
 buyurl: 'https://www.amazon.es/dp/B00XA0G9JI/?tag=tolees-21'
 descuento: '8.79'
-average: '0.996000000000005'
+average: '0.990645161290327'
 ---
 
 Tienes [Burn Original - Bebida energética - Lata 500 ml](https://www.amazon.es/dp/B00XA0G9JI/?tag=tolees-21) con precio final de  0.83 EUR (original: 0.91 EUR) (8.79 %  de rebaja) aqui!
