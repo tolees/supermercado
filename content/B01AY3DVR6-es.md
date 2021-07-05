@@ -28,12 +28,12 @@ Está [Victoria Cerveza Lager Malagueña Latas  12 x 33cl](https://www.amazon.es
 
 ℹ️:
 
-- Sensación refrescante gracias a su óptimo equilibrio entre dulzor y amargor
-- Pack de 12 latas 33cl
 - Destaca por su color miel y su espuma de burbujas finas, blancas y brillantes
-- Temperatura recomendada: 4º a 6º
 - Densas notas a cereales tostados y levaduras que le aportan carácter
-- Alc.4,8% vol
+- Temperatura recomendada: 4º a 6º
+- Pack de 12 latas 33cl
 - Una cerveza refrescante y equilibrada en cuerpo y aroma, Optimopara tomar en cualquier momento del día
+- Sensación refrescante gracias a su óptimo equilibrio entre dulzor y amargor
+- Alc.4,8% vol
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AY3DVR6/?tag=tolees-21)
