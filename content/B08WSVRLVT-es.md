@@ -29,13 +29,13 @@ En este momento está [Marca Amazon - Solimo Recambio de jabón líquido para ma
 🔎:
 
 - Únicamente para uso externo
-- Protege la piel contra la sequedad excesiva, dejando las manos nutridas y suaves
-- Fórmula cuidado hidratante a la leche y miel
-- Destapar con cuidado y usar para rellenar el dispensador. Asegúrese de volver a cerrarlo firmemente y guardarlo fuera del alcance de los niños
-- 1 recambio = 2 botellas de jabón líquido Solimo
-- Aplicar en las manos húmedas, jabonar y enjuagar bien
-- Dermatológicamente probad
-- Con miel y proteínas de leche
 - En caso de contacto con los ojos, lavar bien con agua
+- Dermatológicamente probad
+- Destapar con cuidado y usar para rellenar el dispensador. Asegúrese de volver a cerrarlo firmemente y guardarlo fuera del alcance de los niños
+- Fórmula cuidado hidratante a la leche y miel
+- 1 recambio = 2 botellas de jabón líquido Solimo
+- Protege la piel contra la sequedad excesiva, dejando las manos nutridas y suaves
+- Aplicar en las manos húmedas, jabonar y enjuagar bien
+- Con miel y proteínas de leche
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WSVRLVT/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Deuba Mesa Auxiliar de jardín Madera de Acacia mesita de café Exterior
 
 ℹ️:
 
+- 🌞 La mesa es plegable y así ahorra espacio al guardar
 - 🌞 Este producto está aceitado antes de ser enviados para asegurar una grande longevidad
+- 🌞 Medidas: 46 x 46 x 46 cm - Material: Madera de acacia - Color : marrón
 - 🌞 Fácil de transportar y ergónomico, esta mesa es perfecta para su jardín, terraza, patio o casa...
 - 🌞 Mesa de centro de madera de Acacia perfecta para el interior y el exterior
-- 🌞 Medidas: 46 x 46 x 46 cm - Material: Madera de acacia - Color : marrón
-- 🌞 La mesa es plegable y así ahorra espacio al guardar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B004A5MIAG/?tag=tolees-21)
