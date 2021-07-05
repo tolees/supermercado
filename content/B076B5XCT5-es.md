@@ -28,14 +28,14 @@ Tienes [Artajo Estuche De Aceite De Oliva Virgen Extra Ecológico Monovarietales
 
 ℹ️:
 
-- Recolección temprana, elaborado en verde
-- Extracción en frío
-- Medalla extragold para las 6 variedades en biol 2020
-- Advertencia de seguridad: Conservar al abrigo del calor y de la luz solar directa
-- Nueva cosecha octubre 2020
-- Especialidad: Orgánico
-- Instrucciones para su uso adecuado: Consumo en crudo como aliño o cocinado como ingrediente de cocina
 - Producción propia y ecológico
+- Recolección temprana, elaborado en verde
+- Instrucciones para su uso adecuado: Consumo en crudo como aliño o cocinado como ingrediente de cocina
 - Producción propia en la almazara
+- Especialidad: Orgánico
+- Medalla extragold para las 6 variedades en biol 2020
+- Nueva cosecha octubre 2020
+- Advertencia de seguridad: Conservar al abrigo del calor y de la luz solar directa
+- Extracción en frío
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B076B5XCT5/?tag=tolees-21)

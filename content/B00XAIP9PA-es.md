@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español Gel de Baño Sales Revi al 0.00 % de rebaja'
-date: 2021-07-02 06:24:51
+date: 2021-07-05 21:50:39
 image: 'https://m.media-amazon.com/images/I/41SQiI0sP9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B00XAIP9PA/?tag=tolees-21'
 descuento: '0.00'
-average: '2.29'
+average: '2.215'
 ---
 
 Tienes [Instituto Español Gel de Baño Sales Revitalizantes - 1250 ML](https://www.amazon.es/dp/B00XAIP9PA/?tag=tolees-21) con precio final de  1.99 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Instituto Español Gel de Baño Sales Revitalizantes - 1250 ML](https://
 
 🔎:
 
-- Género: unisex adulto
-- Tipo de producto: gel de baño
 - Marca: Instituto Español
+- Tipo de producto: gel de baño
+- Género: unisex adulto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XAIP9PA/?tag=tolees-21)
