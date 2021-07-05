@@ -28,10 +28,10 @@ Está [Fairy Ultra Poder Lavavajillas Líquido a Mano  4 L  10 x 400 ml   Limpio
 
 ℹ️:
 
-- Poderosa acción limpiadora que elimina la grasa al instante
+- Nuestra fórmula respeta la piel por lo que no es necesario usar guantes
 - Aroma Naranja. Limpio y fresco
 - Espuma abundante con una sola gota y aclarado fácil
 - Fairy lavavajillas líquido ultra concentrado
-- Nuestra fórmula respeta la piel por lo que no es necesario usar guantes
+- Poderosa acción limpiadora que elimina la grasa al instante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B091FZW6SF/?tag=tolees-21)
