@@ -28,9 +28,9 @@ Tienes [Lagarto Lejía Super- Paquete De 8 X 1500 Ml - Total: Ml  12000 Mililitr
 
 🔎:
 
-- Desinfección general
 - Poder desinfectante
-- Apta para el uso alimentario
 - Efecto blanqueador
+- Desinfección general
+- Apta para el uso alimentario
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01HD59CHG/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Weber 17627 - Saco de virutas para ahuma al 4.77 % de rebaja'
-date: 2021-06-08 07:40:38
+date: 2021-07-05 11:16:38
 image: 'https://m.media-amazon.com/images/I/516NtGtmshL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
