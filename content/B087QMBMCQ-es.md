@@ -28,10 +28,10 @@ Ahora mismo tienes [Dani - Sardinillas en aceite de oliva 30% virgen extra - 12 
 
 🔎:
 
-- Sardinillas en aceite de oliva (30% virgen extra) en conserva con abrefácil. Pack 12 latas de 90 gr.
+- Pescado azul con alto contenido en Omega-3, calcio y proteínas.
 - Piezas: de 6 a 10
 - Alérgenos: contiene pescado.
+- Sardinillas en aceite de oliva (30% virgen extra) en conserva con abrefácil. Pack 12 latas de 90 gr.
 - Elaborada con aceite de oliva virgen extra.
-- Pescado azul con alto contenido en Omega-3, calcio y proteínas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087QMBMCQ/?tag=tolees-21)
