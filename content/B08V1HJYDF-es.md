@@ -29,8 +29,8 @@ Está [SHTR - Set de brochas de maquillaje profesional 12 piezas Pinceles de maq
 ℹ️:
 
 - 【Meterial】 Las brochas de maquillaje son de fibra sintética de alta calidad que se adapta a la piel, puedes disfrutar de un acabado de salón y una sensación de gran confort.
-- 【Regalo perfecto】 Este juego de pinceles es perfecto para los amantes del maquillaje, es el mejor regalo para Navidad, Día de San Valentín, aniversario, Acción de Gracias. Es el regalo más íntimo para tu hija, amiga y madre.
 - 【Soporte para brochas de viaje】 El soporte para brochas de maquillaje tiene diferentes formas de usar, guardar brochas, cómodo de llevar, buen soporte para viajes.
+- 【Regalo perfecto】 Este juego de pinceles es perfecto para los amantes del maquillaje, es el mejor regalo para Navidad, Día de San Valentín, aniversario, Acción de Gracias. Es el regalo más íntimo para tu hija, amiga y madre.
 - 【Ampliamente utilizado】 set de maquillaje profesional ,12 formas y tamaños para diferentes usos para satisfacer una amplia gama de necesidades y propósitos, portátil y conveniente para la aplicación diaria de maquillaje.El juego de brochas de maquillaje es adecuado para una amplia gama de productos y todas las necesidades de maquillaje, desde polvos, cremas, líquidos a maquillaje mineral, iluminador, brillo, de cara a ojos, nariz, labios.
 - 【Kit de cepillo】 Pincel pequeño plano oblicuo, Pincel pequeño en forma de abanico, Pincel de sombra de ojos curvo, Pincel de sombra de ojos ovalado, Sombra de ojos larga, Pincel en ángulo, Pincel de base, Pincel de polvo mediano, Pincel de polvo grande.
 
