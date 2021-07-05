@@ -28,8 +28,8 @@ Tienes [Instituto Español Gel de Baño Sales Revitalizantes - 1250 ML](https://
 
 🔎:
 
-- Marca: Instituto Español
 - Tipo de producto: gel de baño
 - Género: unisex adulto
+- Marca: Instituto Español
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XAIP9PA/?tag=tolees-21)

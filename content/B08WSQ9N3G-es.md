@@ -28,14 +28,14 @@ En este momento está [Marca Amazon - Happy Belly Café de tueste natural en gra
 
 🔎:
 
-- Intensidad: 5/5
-- Conservar en un lugar fresco y seco. Una vez abierto, conservar en el frigorífico en un recipiente hermético, alejado de olores fuertes y consumir en 3 semanas
-- Una mezcla con gran cuerpo y aroma persistente, ligeramente amargo y con notas especiadas
-- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
+- Gran cuerpo y intenso
 - Tamaño de molienda recomendado según el tipo de cafetera
 - Apto para cualquier preparación según la molienda: Espresso = fino; Filtro = medio; Moka italiana = medio; Embolo = grueso
-- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
-- Gran cuerpo y intenso
+- Intensidad: 5/5
 - Tostado y envasado en Italia
+- Conservar en un lugar fresco y seco. Una vez abierto, conservar en el frigorífico en un recipiente hermético, alejado de olores fuertes y consumir en 3 semanas
+- Una mezcla con gran cuerpo y aroma persistente, ligeramente amargo y con notas especiadas
+- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
+- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WSQ9N3G/?tag=tolees-21)

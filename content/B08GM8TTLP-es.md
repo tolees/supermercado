@@ -28,10 +28,10 @@ En este momento está [LONGZG 4 patas negras para muebles  soporta hasta 800 kg 
 
 🔎:
 
-- ☆【Contenido del paquete】4 patas de mesa, 16 tornillos, 1 destornillador.
+- ☆ 【Aplicación】 Patas de metal para mesa de bricolaje, adecuadas para diferentes muebles, como mesa de café, sofá, mueble de TV, cama, etc.
 - ☆ 【Características】 Las patas de los muebles son bonitas y elegantes en el diseño, fáciles de instalar, excelente capacidad de carga, 4 ganchos pueden soportar 800 kg, la parte inferior de las patas de la mesa tiene una alfombrilla de goma para proteger el suelo de daños.
 - ☆ 【Tamaño】 Altura de las patas: 13 cm; Diámetro del agujero del tornillo: 8 mm; Distancia entre orificios de tornillos: 58 mm.
 - Material y color: patas de muebles de hierro de alta calidad, resistente y duradero con larga vida útil. Color: negro.
-- ☆ 【Aplicación】 Patas de metal para mesa de bricolaje, adecuadas para diferentes muebles, como mesa de café, sofá, mueble de TV, cama, etc.
+- ☆【Contenido del paquete】4 patas de mesa, 16 tornillos, 1 destornillador.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GM8TTLP/?tag=tolees-21)

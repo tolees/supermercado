@@ -28,9 +28,9 @@ Tienes [AQUISANA - Jarabe de Pino|Complemento Alimenticio con Vitamina C  Propó
 
 ℹ️:
 
-- JARABE DE PINO PARA AYUDAR A ALIVIAR LA TOS: El Jarabe de Pino con Propóleo, Sauce, Sauco, Tomillo y vitaminas, es una combinación de plantas eficaces para ayudar a aliviar la tos.
-- IDEAL PARA EL INVIERNO: . EL jarabe de pino es perfecto para tomarlo en invierno, época en la que nuestras defensas están más bajas y tendemos a tener tos y otros síntomas.
 - MÁXIMA CALIDAD Y GARANTÍA - Todos los productos de Aquisana se han fabricado con productos de alta calidad y bajo la supervisión de los estándares de producción europeos.
+- IDEAL PARA EL INVIERNO: . EL jarabe de pino es perfecto para tomarlo en invierno, época en la que nuestras defensas están más bajas y tendemos a tener tos y otros síntomas.
+- JARABE DE PINO PARA AYUDAR A ALIVIAR LA TOS: El Jarabe de Pino con Propóleo, Sauce, Sauco, Tomillo y vitaminas, es una combinación de plantas eficaces para ayudar a aliviar la tos.
 - JARABE 100 % NATURAL: El jarabe de Aquisana esta formulado con una selección y la dosis perfecta de las plantas medicinales y vitaminas para aliviar molestias de tos y garganta.
 - REDUCE LAS MOLESTIAS EN GARGANTA: El jarabe de pino Aquisana, con echinacea y propóleo ayuda a reducir las molestias de la garganta
 
