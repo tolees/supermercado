@@ -28,9 +28,9 @@ Está [Nestlé Papillas - Nestlé Bolsita Puré Plátano Naranja Galleta  A Part
 
 ℹ️:
 
-- Elaborado con ingredientes 100% naturales
-- Bolsita de puré con manzana y mango
 - Tiene un práctico formato: bolsita listo para llevar
 - Para bebés a partir de los seis meses
+- Elaborado con ingredientes 100% naturales
+- Bolsita de puré con manzana y mango
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B6N3Y6K/?tag=tolees-21)

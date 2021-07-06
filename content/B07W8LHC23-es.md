@@ -28,9 +28,9 @@ En este momento está [Schwarzkopf Gliss - Gliss - Champú Long&Sublime - 400ml 
 
 🔎:
 
-- Masajear sobre el cabello húmedo; aclarar con abundante agua; usar regularmente
-- Aporta movimiento de raíces a puntas
 - Purifica y protege de daños
+- Aporta movimiento de raíces a puntas
+- Masajear sobre el cabello húmedo; aclarar con abundante agua; usar regularmente
 - Cabello largo, propenso a daños con raíces grasas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W8LHC23/?tag=tolees-21)

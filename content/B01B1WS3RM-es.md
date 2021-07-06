@@ -28,10 +28,10 @@ En este momento está [Caffè Borbone Café Monodosis Compostable  Envase Recicl
 
 🔎:
 
-- Paquete de 150 Monodosis Compostables
-- Compatibles E.S.E. dm 44
 - Mezcla Negra
 - E.S.E. son marcas registradas por el consorcio EASY SERVING ESPRESSO; la producción de estas monodosis es independiente, no está vinculada ni directa ni indirectamente a EASY SERVING ESPRESSO
+- Paquete de 150 Monodosis Compostables
+- Compatibles E.S.E. dm 44
 - EL PACKAGING PODRÍA VARIAR: Caffè Borbone está adoptando un envase cada vez más sostenible para la elaboración del café en bolsitas; así, como resultado del constante compromiso de investigación y desarrollo del departamento de calidad y control, se ha adoptado recientemente un material para su envoltorio que se puede reciclar junto con el papel sin que varíe la calidad ni el gusto de la mezcla de café
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01B1WS3RM/?tag=tolees-21)

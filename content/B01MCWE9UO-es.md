@@ -29,7 +29,7 @@ Tienes [Litoral - Lentejas con Verduras - Pack de 5 x 430 g](https://www.amazon.
 🔎:
 
 - Desde hace más de 60 años, disfruta con Litoral de nuestra cocina tradicional
-- Nunca perdamos nuestras buenas costumbres
 - Lentejas con verduras: deliciosa receta de lentejas seleccionadas y sabrosas verduras, aceite de oliva y al punto de sal 100% vegetal
+- Nunca perdamos nuestras buenas costumbres
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MCWE9UO/?tag=tolees-21)

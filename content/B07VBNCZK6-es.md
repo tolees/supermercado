@@ -28,8 +28,8 @@ Está [Hero Baby - Leche de Crecimiento  Pack de 6](https://www.amazon.es/dp/B07
 
 ℹ️:
 
-- Lípidos lácteos
-- Sin aceite de palma
 - DHA y GOS
+- Sin aceite de palma
+- Lípidos lácteos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VBNCZK6/?tag=tolees-21)

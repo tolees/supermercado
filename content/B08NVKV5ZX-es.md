@@ -29,7 +29,7 @@ Tienes [HARIBO Ladrillos Pica  X 40.00 G  30 Unidades](https://www.amazon.es/dp/
 ℹ️:
 
 - Geles dulces sabor fresa y nata recubiertos de pica
-- Deliciosas piezas en forma de ladrillos rellenos
 - Irresistible sabor fresa y nata
+- Deliciosas piezas en forma de ladrillos rellenos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08NVKV5ZX/?tag=tolees-21)
