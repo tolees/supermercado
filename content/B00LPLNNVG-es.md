@@ -30,7 +30,7 @@ Tienes [Pantene PRO-V Ampolla  45ml](https://www.amazon.es/dp/B00LPLNNVG/?tag=to
 
 - Ayuda a proteger el cabello de los daños causados por el peinado
 - Deja tu cabello brillante y con un aspecto sano, y aporta suavidad y brillo al cabello seco y dañado
-- Fórmula avanzada Pantene Pro-V
 - Un tratamiento intensivo que combate los signos del daño en solo 1 minuto
+- Fórmula avanzada Pantene Pro-V
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LPLNNVG/?tag=tolees-21)
