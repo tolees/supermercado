@@ -28,11 +28,11 @@ Tienes [Smint 2H Frutos Rojos  Caramelo Comprimido Sin Azúcar - 12 unidades de 
 
 🔎:
 
-- Descubre más sobre este y otros productos de Smint más abajo.
-- Smint 2H te ofrece 2 horas de aliento limpio con tan solo un caramelo. Disfruta de un frescor duradero con un delicioso sabor, en una lata moderna y práctica. Smint es un producto sin azúcar y sin gluten.
-- El envase práctico cabe en cualquier bolso o bolsillo del pantalón; fácil de usar y listo para darte ese golpe de frescor y sabor que necesitas.
-- Caramelo comprimido Smint 2H sin azúcar con sabor a Frutos Rojos. El producto contiene 12x35 gr. de caramelos comprimidos en una lata moderna y práctica.
 - Ideal para llevar siempre contigo y para cualquier ocasión: antes de una cita o reunión, después de una comida o un café, en el coche o en su escritorio.
+- Caramelo comprimido Smint 2H sin azúcar con sabor a Frutos Rojos. El producto contiene 12x35 gr. de caramelos comprimidos en una lata moderna y práctica.
+- El envase práctico cabe en cualquier bolso o bolsillo del pantalón; fácil de usar y listo para darte ese golpe de frescor y sabor que necesitas.
+- Smint 2H te ofrece 2 horas de aliento limpio con tan solo un caramelo. Disfruta de un frescor duradero con un delicioso sabor, en una lata moderna y práctica. Smint es un producto sin azúcar y sin gluten.
 - Si hay algo que caracteriza a Smint 2H es el golpe de frescor duradero y 2 horas de aliento limpio con sus potentes caramelos comprimidos en formato triangular tricapa.
+- Descubre más sobre este y otros productos de Smint más abajo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GX4TSH9/?tag=tolees-21)
