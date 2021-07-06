@@ -29,8 +29,8 @@ Está [COHESA TODO LO QUE NECESITAS PARA DECORAR TUS TARTAS - Levadura en Polvo 
 ℹ️:
 
 - La levadura seca Mauripande panadería seca instantánea diseñada para su uso en pan y en cualquier receta que requiera levadura seca activa: panes artesanales, pizza, pan sándwich, bagels, rollos y más
-- No hay necesidad de ajustar la cantidad, úsalo como dice la receta. Está empaquetado al vacío, el ladrillo de 500GR hace alrededor de 96 panes de pan y es amplia mente utilizado por profesionales de la panadería No requieren disolución antes de su uso
-- Simplemente mezcle con harina o agregue a la masa durante la primera etapa de mezcla. Esta levadura se presenta deshidratada y en envases que garantizan su larga duración sin necesidad de frío
 - INGREDIENTES: levadura para panificación, Emulsionante SMS E491 de origen vegetal palma/girasol/maíz)
+- Simplemente mezcle con harina o agregue a la masa durante la primera etapa de mezcla. Esta levadura se presenta deshidratada y en envases que garantizan su larga duración sin necesidad de frío
+- No hay necesidad de ajustar la cantidad, úsalo como dice la receta. Está empaquetado al vacío, el ladrillo de 500GR hace alrededor de 96 panes de pan y es amplia mente utilizado por profesionales de la panadería No requieren disolución antes de su uso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01G1PKRO6/?tag=tolees-21)

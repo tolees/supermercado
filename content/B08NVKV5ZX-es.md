@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 22.76 % en HARIBO Ladrillos Pica  X 40.00 G  30 Uni'
-date: 2021-07-05 12:12:59
+date: 2021-07-06 12:56:26
 image: 'https://m.media-amazon.com/images/I/51ThFi+FA9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [HARIBO Ladrillos Pica  X 40.00 G  30 Unidades](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Irresistible sabor fresa y nata
-- Deliciosas piezas en forma de ladrillos rellenos
 - Geles dulces sabor fresa y nata recubiertos de pica
+- Deliciosas piezas en forma de ladrillos rellenos
+- Irresistible sabor fresa y nata
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08NVKV5ZX/?tag=tolees-21)
