@@ -28,9 +28,9 @@ En este momento está [Oban 14 Bay Reserve - Whisky escocés puro de malta  Edic
 
 🔎:
 
-- Oban surge allende de un abrupto acantilado entre las Tierras Altas y las islas de Escocia, como el Castillo Negro, hogar de la Guardia de la Noche surge entre Westeros y la tierra Más Allá del Muro
-- Notas ricas de tarta de cereza y cáscara de naranja confitada se despliegan en el paladar para ceder lugar a una maravilloso sabor a crema de caramelo y un atisbo de roble carbonizado
 - El ámbar dorado y ligeramente viscoso que desciende lentamente por las paredes del vaso es una alusión a la riqueza de Oban: una caricia para el paladar
 - El regalo perfecto para los amantes del whisky y fanáticos de las series, DIAGEO y HBO lanzan la edición limitada de whiskies escoceses puros de malta inspirados en Juego de Tronos
+- Notas ricas de tarta de cereza y cáscara de naranja confitada se despliegan en el paladar para ceder lugar a una maravilloso sabor a crema de caramelo y un atisbo de roble carbonizado
+- Oban surge allende de un abrupto acantilado entre las Tierras Altas y las islas de Escocia, como el Castillo Negro, hogar de la Guardia de la Noche surge entre Westeros y la tierra Más Allá del Muro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07LG9DZ3F/?tag=tolees-21)

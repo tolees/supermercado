@@ -29,7 +29,7 @@ Ahora mismo tienes [Eudermin Pies Crema Reparadora 75 ml](https://www.amazon.es/
 🔎:
 
 - Repara y suaviza la piel en profundidad
-- Indicada para recuperar talones agrietados y eliminar durezas
 - Para todo tipo de piel, incluso piel seca o muy seca
+- Indicada para recuperar talones agrietados y eliminar durezas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00YTS8LX2/?tag=tolees-21)

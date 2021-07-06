@@ -28,13 +28,13 @@ En este momento está [Vieve Agua con Proteína 6x500ml - Naranja y Mango. 20g d
 
 🔎:
 
-- NATURALMENTE SABORIZADA Y REFRESCANTE: Esta alternativa a bebidas de proteína a base de agua es para quienes no les gustan las bebidas lácteas o los polvos
-- SIN LÁCTEOS/LACTOSA GRACIAS a FÓRMULA DE PÉPTIDO DE COLÁGENO: Contiene una fórmula única de péptido de proteína de colágeno que es rápidamente digerida por el cuerpo
-- PROTEINA SIMPLE: ¡Ni polvo ni bebida láctea; conveniente formato para llevar, que puedes tomar en cualquier lugar
-- ALTA EN PROTEÍNAS PARA GANAR MÚSCULO Y HUESOS FUERTES; lLENO MÁS TIEMPO: Apoya el crecimiento y el mantenimiento de la masa muscular; contribuye al mantenimiento de huesos normales
-- Unidades: 3000.0
-- BAJA EN CALORÍAS, SIN AZÚCAR Y SIN GRASAS: 20g de proteína, cero carbohidratos, cero azúcares, bajo en calorías, sin grasa; fuente de aminoácidos esenciales y BCAA
-- Especialidad: Sin gluten
 - Ingredientes: Agua, hidrolizado de colágeno, regulador de la acidez: Ácido cítrico, Regulador de la acidez: Ácido fosfórico, aroma natural: Naranja y mango, cloruro de sodio, edulcorante: Sucralosa, Colorante: Carotenos naturales
+- BAJA EN CALORÍAS, SIN AZÚCAR Y SIN GRASAS: 20g de proteína, cero carbohidratos, cero azúcares, bajo en calorías, sin grasa; fuente de aminoácidos esenciales y BCAA
+- NATURALMENTE SABORIZADA Y REFRESCANTE: Esta alternativa a bebidas de proteína a base de agua es para quienes no les gustan las bebidas lácteas o los polvos
+- ALTA EN PROTEÍNAS PARA GANAR MÚSCULO Y HUESOS FUERTES; lLENO MÁS TIEMPO: Apoya el crecimiento y el mantenimiento de la masa muscular; contribuye al mantenimiento de huesos normales
+- Especialidad: Sin gluten
+- SIN LÁCTEOS/LACTOSA GRACIAS a FÓRMULA DE PÉPTIDO DE COLÁGENO: Contiene una fórmula única de péptido de proteína de colágeno que es rápidamente digerida por el cuerpo
+- Unidades: 3000.0
+- PROTEINA SIMPLE: ¡Ni polvo ni bebida láctea; conveniente formato para llevar, que puedes tomar en cualquier lugar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07T8SNGBV/?tag=tolees-21)
