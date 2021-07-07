@@ -28,9 +28,9 @@ Está [Ruavieja Licor Crema de Arroz - 700 ml](https://www.amazon.es/dp/B08R8MD1
 
 ℹ️:
 
+- Ruavieja Crema de Arroz está elaborado con crema vegana con canela, limón, arroz y aguardiente de orujo. Es un producto vegano y sin lactosa
+- La crema de arroz es un producto de color blanco roto, que en nariz presenta un agradable equilibrio entre notas de canela y delicados matices de cáscara de limón
 - Para disfrutar de la experiencia del sabor de Ruavieja, enfría la botella antes de servir el licor, viértelo en un vaso ancho sobre hielo, remueve suavemente y saborea toda la singularidad de su esencia. También en chupito para “cortar” el café
 - Es dulce, cremoso y persistente en boca. Se percibe el toque a canela y ligeras notas características del orujo
-- La crema de arroz es un producto de color blanco roto, que en nariz presenta un agradable equilibrio entre notas de canela y delicados matices de cáscara de limón
-- Ruavieja Crema de Arroz está elaborado con crema vegana con canela, limón, arroz y aguardiente de orujo. Es un producto vegano y sin lactosa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08R8MD1M1/?tag=tolees-21)
