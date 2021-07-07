@@ -30,7 +30,7 @@ En este momento está [Nestlé Iogolino - Iogolino - Mini Pera A Partir De 6 Mes
 
 - Contienen más de un 80% de leche y contribuyen a cubrir las necesidades nutricionales del bebé
 - Sin conservantes ni colorantes (de acuerdo con la legislación vigente)
-- Con leche fermentada, es fuente de calcio, que favorece un correcto desarrollo de los huesos
 - Una tarrina de Iogolino mini pera aportan el 23% de los valores de referencia de calcio
+- Con leche fermentada, es fuente de calcio, que favorece un correcto desarrollo de los huesos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LY58LOV/?tag=tolees-21)

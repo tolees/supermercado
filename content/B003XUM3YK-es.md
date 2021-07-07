@@ -28,8 +28,8 @@ En este momento está [Valor Chocolates Chocolate para Hacer A La Taza  300g](ht
 
 🔎:
 
+- 300 gramos
 - Gran Sabor
 - Gran calidad
-- 300 gramos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003XUM3YK/?tag=tolees-21)

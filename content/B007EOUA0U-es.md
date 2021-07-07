@@ -28,10 +28,10 @@ Tienes [Old El Paso - Frasco Salsa Mejicana 312 g](https://www.amazon.es/dp/B007
 
 ℹ️:
 
+- Conservar en lugar fresco y seco
 - Es para cocinar
 - El producto representa salsa para cocinar
 - El "pop" que se escucha al abrir la tapa asegura el envasado hermético
 - Es de la marca Old El Paso
-- Conservar en lugar fresco y seco
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B007EOUA0U/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Finish Liquide de Rinçage Brillance et Séchage 800 ml](
 
 🔎:
 
-- Limpiar el lavavajillas una vez al mes garantiza una buena higiene y una vajilla limpia.
-- Antigoteo de agua.
 - Antihuellas.
 - Garantiza un brillo brillante y un secado rápido.
+- Limpiar el lavavajillas una vez al mes garantiza una buena higiene y una vajilla limpia.
+- Antigoteo de agua.
 - Antical.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YQFKN8N/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Norit Diario - Detergente Líquido para Todos los Tejidos y Colores - Pa
 
 🔎:
 
-- Pack de 3 botellas de 2120ml cada una = 6360ml
 - Norit Diario es cuidadoso con los tejidos y colores
 - Mantiene el aspecto, el color y la forma de los tejidos lavado tras lavado
 - Norit Diario es un detergente para lavadoras para todo tipo de ropa
+- Pack de 3 botellas de 2120ml cada una = 6360ml
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D1DZ94V/?tag=tolees-21)

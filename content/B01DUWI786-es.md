@@ -31,7 +31,7 @@ Está [Old El Paso - Sazonador para Fajitas - 30g](https://www.amazon.es/dp/B01D
 - Apto para vegetarianos
 - Suave y sin conservantes
 - Tus fajitas listas para 3-4 amigos en tan solo 15 minutos
-- Mezcla de cayena, pimiento, ajo y jengribre
 - Añade el pollo, los pimientos y la cebolla y cocínalo. Una vez cocinado, rellena tu tortilla y añade un poco de salsa. ¡empieza la fiesta mexicana!
+- Mezcla de cayena, pimiento, ajo y jengribre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DUWI786/?tag=tolees-21)
