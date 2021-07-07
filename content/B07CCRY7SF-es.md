@@ -28,10 +28,10 @@ Ahora mismo tienes [Jura Seven Wood - Whisky de Malta Escocés - 700 ml](https:/
 
 🔎:
 
-- Acabado: Larga duración, ahumado.
-- Color: Oro cálido.
 - Sabor: Regaliz, naranjas confitadas.
-- Nariz: Frutal, peras.
 - perfecto como un regalo
+- Acabado: Larga duración, ahumado.
+- Nariz: Frutal, peras.
+- Color: Oro cálido.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CCRY7SF/?tag=tolees-21)
