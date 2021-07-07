@@ -28,9 +28,9 @@ Tienes [Somat Oro Detergente para Lavavajillas  Gel con Vinagre y Frescor Anti-o
 
 ℹ️:
 
-- Efecto remojo que consigue eliminar las manchas de grasa quemada sin necesidad de pre-tratar
 - Permite dosificar, para medias cargas o ciclos cortos
 - Somat Gel con Deep Clean Technology que penetra y ayuda a eliminar las suciedades resecas y difíciles
+- Efecto remojo que consigue eliminar las manchas de grasa quemada sin necesidad de pre-tratar
 - Vinagre - elimina los malos olores
 - Fácil disolución, para una limpieza impecable incluso en ciclos cortos
 
