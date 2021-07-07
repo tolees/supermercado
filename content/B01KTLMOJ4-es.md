@@ -28,11 +28,11 @@ Tienes [Nestlé Alimentos Infantiles - Nestlé Yogolino Postre lácteo Frutas va
 
 🔎:
 
-- Yogur infantil sin aceite de palma
-- Postre lácteo para bebés, a partir de los 8 meses, sin gluten
 - Postre lácteo infantil Yogolino fuente de calcio
 - Producto lácteo sin colorantes ni conservantes, según la legislación vigente
+- Yogur infantil sin aceite de palma
 - Excelente sabor
 - No necesita frío
+- Postre lácteo para bebés, a partir de los 8 meses, sin gluten
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01KTLMOJ4/?tag=tolees-21)
