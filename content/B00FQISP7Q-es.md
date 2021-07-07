@@ -28,10 +28,10 @@ Ahora mismo tienes [Adidas Control Desodorante Roll-on para mujer - 50ml](https:
 
 🔎:
 
-- Apto para uso diario
-- Fórmula protectora sin alcohol para una sensación agradable en la piel
-- Hasta 48h de protección contra la humedad y el olor
 - Sensación refrescante gracias a cápsulas frescas y fragancias vigorizantes
+- Apto para uso diario
+- Hasta 48h de protección contra la humedad y el olor
+- Fórmula protectora sin alcohol para una sensación agradable en la piel
 - Desarrollado para mujeres activas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00FQISP7Q/?tag=tolees-21)
