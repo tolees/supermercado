@@ -28,10 +28,10 @@ Está [Don Limpio Quitagrasas Express  Detergente en Spray  7.2 L  10 x 720 ml  
 
 ℹ️:
 
-- Disuelve la grasa y la suciedad y es fácil de aclarar
-- Limpieza e higiene profunda sin residuos
-- Deja un aroma fresco a cítricos y un brillo más duradero
 - Limpiador en spray universal para toda la limpieza de la casa con un 100% de poder desengrasante
 - Ideal para encimeras de cerámica, madera laminada, placas de cocina de todo tipo así como armarios, fregaderos o superficies de cerámica y azulejos
+- Limpieza e higiene profunda sin residuos
+- Disuelve la grasa y la suciedad y es fácil de aclarar
+- Deja un aroma fresco a cítricos y un brillo más duradero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B091G6PJVW/?tag=tolees-21)

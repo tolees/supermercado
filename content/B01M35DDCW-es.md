@@ -31,7 +31,7 @@ Tienes [Cereales Nestlé - Barritas Nestlé Nesquik - 4 paquetes de 6 barritas  
 - Cada estuche contiene 6 barritas
 - Barritas de cereales integrales Nestlé Nesquik con chocolate
 - Con un rico sabor a chocolate Nesquik y una deliciosa base de chocolate con leche
-- Cereales integrales como ingrediente número 1
 - Barritas Nesquik con fibra, vitaminas del grupo B, calcio, hierro y ácido fólico
+- Cereales integrales como ingrediente número 1
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M35DDCW/?tag=tolees-21)

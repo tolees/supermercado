@@ -28,10 +28,10 @@ Ahora mismo tienes [NIVEA SUN Protege & Hidrata Leche Solar FP30  1 x 400 ml   p
 
 🔎:
 
-- Protección – Esta leche hidratante con protector solar 30 protege la piel contra las quemaduras solares y el envejecimiento prematuro
-- Resistente al agua – Este protector hidratante para el cuidado de la piel es resistente al agua y se absorbe rápidamente para ofrecer protección inmediata
-- Hidratación duradera – Con su fórmula con pantenol y glicerina, el protector solar equilibra los niveles de hidratación de la piel y reduce la pérdida de agua
-- Sostenible – Estos protectores solares son respetuosos con los océanos: sin filtros UV octinoxato, oxibenzona ni octocrileno, microplásticos, 75% biodegradable
 - Contenido del envío – NIVEA SUN Protege & Hidrata Leche Solar FP30, resistente al agua, 1 x 400 ml, botella
+- Sostenible – Estos protectores solares son respetuosos con los océanos: sin filtros UV octinoxato, oxibenzona ni octocrileno, microplásticos, 75% biodegradable
+- Resistente al agua – Este protector hidratante para el cuidado de la piel es resistente al agua y se absorbe rápidamente para ofrecer protección inmediata
+- Protección – Esta leche hidratante con protector solar 30 protege la piel contra las quemaduras solares y el envejecimiento prematuro
+- Hidratación duradera – Con su fórmula con pantenol y glicerina, el protector solar equilibra los niveles de hidratación de la piel y reduce la pérdida de agua
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00WHRCF7U/?tag=tolees-21)
