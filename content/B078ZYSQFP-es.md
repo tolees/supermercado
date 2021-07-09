@@ -29,8 +29,8 @@ En este momento está [TRESemmé Champú Liso Keratina - Paquete de 12 x 100 ml 
 🔎:
 
 - Desenredo fácil
-- Brillo deslumbrante
-- Control encrespamiento hasta 72 horas
 - La gama Liso Keratina combina el aceite de Marula y la keratina
+- Control encrespamiento hasta 72 horas
+- Brillo deslumbrante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078ZYSQFP/?tag=tolees-21)
