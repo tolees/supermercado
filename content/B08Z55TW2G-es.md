@@ -28,11 +28,11 @@ Ahora mismo tienes [H&S Classic Champú Anticaspa 1800 ml](https://www.amazon.es
 
 🔎:
 
-- Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo
-- Combate la causa principal de la caspa para un pelo totalmente libre de caspa, probado clínicamente (con uso regular)
+- Bueno para el planeta: botella reciclable (sin incluir el tapón y en función de las instalaciones de reciclaje)
 - El champú anticaspa Classic limpia tu pelo y lo mantiene fresco e increíblemente hidratado
 - Hasta 72 horas de protección frente a la caspa, la sequedad y el picor (caspa visible, con uso regular; picor debido a la caspa)
-- Bueno para el planeta: botella reciclable (sin incluir el tapón y en función de las instalaciones de reciclaje)
+- Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo
 - Mejor juntos. Utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito
+- Combate la causa principal de la caspa para un pelo totalmente libre de caspa, probado clínicamente (con uso regular)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08Z55TW2G/?tag=tolees-21)

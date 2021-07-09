@@ -28,12 +28,12 @@ En este momento está [Rexona Max Pro Roll On 50ML- Pack de 6](https://www.amazo
 
 🔎:
 
-- La aplicación del producto por la noche garantiza un resultado óptimo
-- Dermatológicamente testado para un uso diario
-- Controla la sudoración excesiva y el mal olor
 - 3 veces eficaz que un antitranspirante básico.
 - No es necesario volver a aplicar, incluso con sudoración intensa
-- Proporciona 96 horas de protección duradera
 - Rexona Máxima Protección antitranspirante
+- Controla la sudoración excesiva y el mal olor
+- La aplicación del producto por la noche garantiza un resultado óptimo
+- Dermatológicamente testado para un uso diario
+- Proporciona 96 horas de protección duradera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088CGWZCX/?tag=tolees-21)
