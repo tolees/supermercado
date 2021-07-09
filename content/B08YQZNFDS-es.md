@@ -28,10 +28,10 @@ En este momento está [ENJOYCOSMETICS - Gel hidroalcohólico de 5000 ml AROMA MA
 
 🔎:
 
-- ✅ 70% alcohol y con glicerina NATURAL para el cuidado de tu piel. Textura ligera y fácil absorción.
 - ✅ 98% de ingredientes naturales, producto vegano y no testado en animales.
-- ✅ Disponible en varios aromas y en envases de 500 ml.
-- ✅ 5000 ml. de gel hidroalcohólico con suaves aromas.
 - ✅ Producto inscrito en la AEMPS. Fabricado en España.
+- ✅ 70% alcohol y con glicerina NATURAL para el cuidado de tu piel. Textura ligera y fácil absorción.
+- ✅ 5000 ml. de gel hidroalcohólico con suaves aromas.
+- ✅ Disponible en varios aromas y en envases de 500 ml.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08YQZNFDS/?tag=tolees-21)
