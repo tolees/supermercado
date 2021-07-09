@@ -28,14 +28,14 @@ En este momento está [Marca Amazon - Amfit Nutrition Barrita de proteína baja 
 
 🔎:
 
-- Valores de nutrición por barrita: 192kcal (Proteínas 19,6g; Hidratos de carbono 19g; Fibra alimentaria 8,5g; Grasas: 5,2g)
-- Atención: Un consumo excesivo puede producir efectos laxantes
-- Este producto está eleborado con aceite de palma obtenido de manera sostenible. El fabricante es miembro certificado de la Rountable on Sustainable Palm Oil (RSPO)
-- No apto para alérgicos a los frutos de cáscara, los cacahuetes y el huevo, debido al método de producción
 - Sabor delicioso- snack relleno de proteína para usar sobre la marcha
+- Este producto está eleborado con aceite de palma obtenido de manera sostenible. El fabricante es miembro certificado de la Rountable on Sustainable Palm Oil (RSPO)
 - Pack de 12 (12x60g)
+- Valores de nutrición por barrita: 192kcal (Proteínas 19,6g; Hidratos de carbono 19g; Fibra alimentaria 8,5g; Grasas: 5,2g)
 - Alto contenido de proteínas, que contribuyen a que aumente la masa muscular. Mas de 19g de proteínas y solo 192 calorías por barrita
-- Menos que 1g azúcar y menos que 20g de hidratos de carbono por barrita
 - Barrita de proteínas sabor a fondant de chocolate con una capa de caramelo sabor chocolate y cobertura sabor chocolate negro, con edulcorantes
+- Atención: Un consumo excesivo puede producir efectos laxantes
+- Menos que 1g azúcar y menos que 20g de hidratos de carbono por barrita
+- No apto para alérgicos a los frutos de cáscara, los cacahuetes y el huevo, debido al método de producción
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FYZK1W8/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Heco Victa Prime Center 102 85W Marrón  Café expreso altavoz - Altavoc
 
 🔎:
 
-- Una cúpula de seda de 25 mm con refrigeración ferrofluida permite obtener una capacidad de carga mucho mayor y un mejor acoplamiento en el rango de medios a través del cornet corto.
-- Altavoz central de 2 vías, bajos réflex · 2 x altavoces medios/graves de 120 mm · Tweeter 20 mm · Potencia de salida máxima: 150 W
-- Los laterales ligeramente redondeados dan a este altavoz un aspecto moderno típico de la serie Victa.
-- La construcción de la carcasa a partir de capas de MDF moldeadas y pegadas ofrece las condiciones óptimas para el trabajo del chasis y una resonancia baja.
 - El altavoz de graves medios HECO de 120 mm contiene papel kraft de fibra larga, ofrece una gran estabilidad y evita distorsiones incluso en el ámbito especialmente difícil de la voz.
+- Una cúpula de seda de 25 mm con refrigeración ferrofluida permite obtener una capacidad de carga mucho mayor y un mejor acoplamiento en el rango de medios a través del cornet corto.
+- La construcción de la carcasa a partir de capas de MDF moldeadas y pegadas ofrece las condiciones óptimas para el trabajo del chasis y una resonancia baja.
+- Los laterales ligeramente redondeados dan a este altavoz un aspecto moderno típico de la serie Victa.
+- Altavoz central de 2 vías, bajos réflex · 2 x altavoces medios/graves de 120 mm · Tweeter 20 mm · Potencia de salida máxima: 150 W
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00LN4XOIC/?tag=tolees-21)
