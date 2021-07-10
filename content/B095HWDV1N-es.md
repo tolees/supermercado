@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BAQUÉ CAFÉ - Cafés Baqué - Cacaolat 10 C al 0.00 % de descuento'
-date: 2021-07-03 19:50:32
+date: 2021-07-10 08:20:36
 image: 'https://m.media-amazon.com/images/I/41ncHCV7GoS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
