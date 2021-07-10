@@ -28,10 +28,10 @@ Ahora mismo tienes [Finish Pastilles Lave-Vaisselle Powerball All in One 0% - 12
 
 🔎:
 
-- Limpia incluso las tareas más difíciles
-- Función de enjuague.
 - Fórmula sin perfumes, fosfatos ni conservantes.
+- Función de enjuague.
 - Acción desengrasante.
+- Limpia incluso las tareas más difíciles
 - Protección antical de la máquina.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RQYHHRS/?tag=tolees-21)
