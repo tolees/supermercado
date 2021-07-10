@@ -28,10 +28,10 @@ Tienes [Pantene Pack Champú Seco + Bruma Acondicionadora En Seco  Desenredante 
 
 🔎:
 
-- Suaviza y acondiciona: acondiciona el pelo seco y encrespado sin apelmazarlo; para pelo fino
-- Agítalo bien y pulverízalo sobre el pelo (evita las raíces) de manera uniforme con la boquilla a 20 - 30 cm de distancia
+- Desenredante: desenreda y nutre el pelo fino para lograr un aspecto saludable e hidratado y un tacto agradable
 - Sin residuos visibles: este lavado en 60 segundos no deja residuos visibles, solo un pelo limpio y con sensación de frescor
 - Aspecto de limpio: refresca cualquier tipo de pelo; fórmula sin parabenos y sin sulfatos añadidos
-- Desenredante: desenreda y nutre el pelo fino para lograr un aspecto saludable e hidratado y un tacto agradable
+- Agítalo bien y pulverízalo sobre el pelo (evita las raíces) de manera uniforme con la boquilla a 20 - 30 cm de distancia
+- Suaviza y acondiciona: acondiciona el pelo seco y encrespado sin apelmazarlo; para pelo fino
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08ZJXQVW4/?tag=tolees-21)

@@ -28,11 +28,11 @@ Ahora mismo tienes [TRESemmé Champú Purifica & Hidrata 6 x 685 ML](https://www
 
 🔎:
 
-- Limpia y purifica tu cabello con la gama de productos para el cabello TRESemmé Purifica e Hidrata
-- Esta tecnología hace que tu cabello se sienta saludable e hidratado durante el lavado
-- Con arcilla de caolín, conocida por absorber el sebo del cabello y combatir la producción excesiva de aceite
 - Diseñado con tecnología Micelar, nuestro champú limpia suavemente mientras hidrata proporcionando un cabello fresco y saludable
+- Con arcilla de caolín, conocida por absorber el sebo del cabello y combatir la producción excesiva de aceite
 - Enriquecido con acido hialurónico, que ayuda a mantener la humedad del cabello al restaurar el escudo protector natural del cabello
+- Esta tecnología hace que tu cabello se sienta saludable e hidratado durante el lavado
 - El Champú TRESemmé Purifica e Hidrata limpia profundamente y purifica el cabello graso, bloqueando la humedad
+- Limpia y purifica tu cabello con la gama de productos para el cabello TRESemmé Purifica e Hidrata
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089HTCY7Q/?tag=tolees-21)
