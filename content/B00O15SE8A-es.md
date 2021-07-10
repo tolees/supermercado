@@ -28,8 +28,8 @@ En este momento está [Kelual Champú - 100 ml](https://www.amazon.es/dp/B00O15S
 
 🔎:
 
-- Champú KELUAL
 - Kelual Ds Champú 100Ml (3282779361286)
 - Champú Peluquería Unisex adulto
+- Champú KELUAL
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00O15SE8A/?tag=tolees-21)
