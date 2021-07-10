@@ -28,8 +28,8 @@ Tienes [Ausonia Sensitive Normal Compresas  - 14 Unidades](https://www.amazo
 
 ℹ️:
 
-- Viene como un paquete con 14 compresas
-- Con sistema de dermo-protección con una capa superior extra suave
 - La compresa Ausonia Sensitive respeta tu piel más intima cuando más lo necesitas
+- Con sistema de dermo-protección con una capa superior extra suave
+- Viene como un paquete con 14 compresas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M0XVKHE/?tag=tolees-21)
