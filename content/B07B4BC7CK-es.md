@@ -28,11 +28,11 @@ Ahora mismo tienes [Paranix Loción Tratamiento para Piojos y Liendres - Incluye
 
 🔎:
 
-- *Donación válida del 14 de octubre de 2019 hasta el 20 de octubre de 2019 en los pedidos Vendidos y enviados por Amazon.
 - Sin insecticidas, sin olor, sin alcohol, sin parabenos
-- Incluye lendrera
-- Para más información, lea las instrucciones de uso más abajo
 - Eficacia testada
+- Para más información, lea las instrucciones de uso más abajo
+- *Donación válida del 14 de octubre de 2019 hasta el 20 de octubre de 2019 en los pedidos Vendidos y enviados por Amazon.
 - 100% eficaz contra piojos y liendres en 1 sola aplicación
+- Incluye lendrera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B4BC7CK/?tag=tolees-21)
