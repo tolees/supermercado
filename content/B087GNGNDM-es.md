@@ -28,10 +28,10 @@ Ahora mismo tienes [Hydenderma - Hygen-X Gel Hidroalcohólico Desinfectante para
 
 🔎:
 
-- Producto para el cuidado personal
-- Adecuado para llevarlo en el bolso cartera o en una chaqueta o abrigo
 - Cantidad de alcohol: 75%
 - Aplicar el producto en cantidad suficiente y frotar manos y muñecas hasta su completa evaporación
+- Producto para el cuidado personal
 - Gel hidroalcohólico para la higiene total de las manos
+- Adecuado para llevarlo en el bolso cartera o en una chaqueta o abrigo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087GNGNDM/?tag=tolees-21)
