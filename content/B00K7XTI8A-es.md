@@ -28,10 +28,10 @@ En este momento está [Wenko Conjunto para el Fregadero Empire Negro - dosificad
 
 🔎:
 
-- Con depósito de recolección para líquidos
-- Capacidad del dispensador: 250 ml
 - Incluye dispensador de jabón, cepillo, soporte
 - Medidas (ancho x altura x profundidad): 11 x 19 x 12,5 cm
 - Colorido juego para la cocina en negro
+- Capacidad del dispensador: 250 ml
+- Con depósito de recolección para líquidos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00K7XTI8A/?tag=tolees-21)

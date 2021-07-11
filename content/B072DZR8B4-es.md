@@ -28,8 +28,8 @@ Tienes [L Oreal Professionnel Paris - L Oreal Professionnel Expert Champú Refor
 
 🔎:
 
-- Aplicar sobre el cabello húmedo, repartiendo de forma uniforme; emulsionar y aclarar; repetir el mismo paso
-- Champú anti-rotura y fortificante indicado para cabello dañado o debilitado, enriquecido con vitamina B6 y biotina para la reducción instantánea de la rotura
 - Detiene la rotura y la caída del cabello; el cabello es más resistente y más fuerte con el uso continuo
+- Champú anti-rotura y fortificante indicado para cabello dañado o debilitado, enriquecido con vitamina B6 y biotina para la reducción instantánea de la rotura
+- Aplicar sobre el cabello húmedo, repartiendo de forma uniforme; emulsionar y aclarar; repetir el mismo paso
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072DZR8B4/?tag=tolees-21)
