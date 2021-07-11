@@ -29,8 +29,8 @@ Ahora mismo tienes [Pompadour Té Verde Hierba Buena Frío - 18 bolsitas](https:
 🔎:
 
 - Sin azucares añadidos ni edulcorantes
+- Para todos esos días que no tienes tiempo de preparar un desayuno tranquilo
 - Té frío Verde con Hierba Buena compuesto de dos aromáticas plantas (hierbabuena y regaliz)
 - 18 bolsitas en envueltas herméticas e individuales con triple capa HS
-- Para todos esos días que no tienes tiempo de preparar un desayuno tranquilo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YWQ777B/?tag=tolees-21)
