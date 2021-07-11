@@ -28,8 +28,8 @@ Ahora mismo tienes [Revlon Super lustrous mate N ° 58 Dark Night Queen](https:
 
 🔎:
 
-- Un de labios mate ultra-crémeux ultra-pigmenté para un color rico y absorbente. Es ligero, cómodo y hidratante. Disponible en 12 nuevas sombras mate reflejar.
 - Los pigmentos ultra-fins revelan su intensidad desde la primera aplicación.
+- Un de labios mate ultra-crémeux ultra-pigmenté para un color rico y absorbente. Es ligero, cómodo y hidratante. Disponible en 12 nuevas sombras mate reflejar.
 - Una celebración de larga duración que responde a todas tus necesidades de día como de noche.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJ9Q7BB/?tag=tolees-21)
