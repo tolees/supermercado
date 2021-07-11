@@ -29,7 +29,7 @@ Tienes [Instituto Español Champú Suave Piel Sana - Uso Frecuente - 750 ML](htt
 ℹ️:
 
 - Género: Unisex Adulto
-- Tipo de producto: Champú
 - Marca: Instituto Español
+- Tipo de producto: Champú
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAIOVCC/?tag=tolees-21)
