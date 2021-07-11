@@ -28,8 +28,8 @@ Ahora mismo tienes [La Roche Posay Kerium DS Champú Purificante Anticaspa - 125
 
 🔎:
 
-- Producto pensado para cualquier persona, ya sea hombre o mujer,
 - Marca - La Roche Posay
 - Tipo de producto - Champú
+- Producto pensado para cualquier persona, ya sea hombre o mujer,
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000Y7WIQI/?tag=tolees-21)
