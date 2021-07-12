@@ -28,8 +28,8 @@ Está [Haribo Ladrillo Classic - 2000 gr](https://www.amazon.es/dp/B0741CQJ6W/?t
 
 ℹ️:
 
+- Geles dulces
 - Irresistible sabor a fresa
 - Deliciosas piezas en forma de ladrillos
-- Geles dulces
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0741CQJ6W/?tag=tolees-21)
