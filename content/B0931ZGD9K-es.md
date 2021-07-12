@@ -30,8 +30,8 @@ Tienes [fondosub - Flotador Rueda Donuts Mordido Fresa Chocolate 60 cm  49434 ](
 
 - Parche para reparaciones incluido
 - Se recomienda respetar el nivel de inflado indicado ya que si se supera puede provocar roturas en las costuras por los efectos de la presión.
+- Peso: 100 gr
 - Válvulas con cierre de seguridad.
 - Flotador infantil diseño donuts para niños mayores 3 años
-- Peso: 100 gr
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0931ZGD9K/?tag=tolees-21)

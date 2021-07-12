@@ -28,9 +28,9 @@ Tienes [Axe Blacknight - Gel de ducha  250 ml](https://www.amazon.es/dp/B00ZU5H9
 
 🔎:
 
-- Presentación de 250 ml
-- Disfruta de una relajante ducha con el gel Black y su cálida fragancia
 - Este producto está indicado para hombres
+- Disfruta de una relajante ducha con el gel Black y su cálida fragancia
+- Presentación de 250 ml
 - Su toque frutal, sensual y delicioso, se envuelve en unos aromas maduros y profundos de madera de cedro y musgo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ZU5H9AY/?tag=tolees-21)

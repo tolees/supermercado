@@ -28,10 +28,10 @@ Está [Big Soap Factory - Jabón Natural de Algas Marinas - Jabon de Manos  Cuer
 
 ℹ️:
 
-- EXFOLIANTE FACIAL NATURAL Y CORPORAL: Con piedra pómez para una aplicación drenante y exfoliante. Para una limpieza profunda y cuidar de la piel.
-- JABÓN CON ALGAS MARINAS: con base de aceite de oliva como ingrediente vegetal que tiene la facilidad para restaurar los niveles de humedad naturales de la piel.
+- JABÓN BIODEGRADABLE: es un producto ZERO WASTE / RESIDUO CERO libre de plásticos con un envase totalmente biodegradable y compostable. Sin ingredientes sintéticos, ni detergentes agresivos, ni sustancias con alérgenos.
 - JABON ARTESANO: Hecho a mano en España con ingredientes orgánicos 100% de origen vegetal. Apto para piel grasa, sensible, seca o mixta, restaura el pH neutro de la piel. Uso para ducha y desmaquillante natural.
 - PIELES CON CELULITIS Y VARICES: El extracto de Fucus Vesiculosus es un alga conocida y apreciada sobre todo por sus propiedades anticelulíticas y antiobesidad. El Fucus está especialmente indicado para tratar los problemas circulatorios en piernas cansadas.
-- JABÓN BIODEGRADABLE: es un producto ZERO WASTE / RESIDUO CERO libre de plásticos con un envase totalmente biodegradable y compostable. Sin ingredientes sintéticos, ni detergentes agresivos, ni sustancias con alérgenos.
+- EXFOLIANTE FACIAL NATURAL Y CORPORAL: Con piedra pómez para una aplicación drenante y exfoliante. Para una limpieza profunda y cuidar de la piel.
+- JABÓN CON ALGAS MARINAS: con base de aceite de oliva como ingrediente vegetal que tiene la facilidad para restaurar los niveles de humedad naturales de la piel.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B096FWQFLQ/?tag=tolees-21)
