@@ -28,10 +28,10 @@ En este momento está [Anself Green Tea Mask Stick Mascarilla purificadora de t�
 
 🔎:
 
-- Simplemente lávese la cara, aplique barro en la cara o el cuerpo, déjelo durante unos 10 minutos y luego lávese.
 - Té verde 40g, la textura es exquisita y suave, fácil de untar y fácil de usar.
 - Adopta un diseño de cabezal giratorio, cómodo de usar y no es fácil ensuciarse las manos.
-- Limpia eficazmente la suciedad en los poros, controla el equilibrio agua-aceite, repone la humedad de la piel y nutre la piel.
 - Compacto y portátil, fácil de transportar. Apto para todo tipo de pieles.
+- Simplemente lávese la cara, aplique barro en la cara o el cuerpo, déjelo durante unos 10 minutos y luego lávese.
+- Limpia eficazmente la suciedad en los poros, controla el equilibrio agua-aceite, repone la humedad de la piel y nutre la piel.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B092S2HVL3/?tag=tolees-21)

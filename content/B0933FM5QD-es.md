@@ -28,11 +28,11 @@ Tienes [Ymea Vientre Plano Pack  Tratamiento de la Menopausia  Control de Sofoco
 
 ℹ️:
 
-- Apto para un uso prolongado
-- Hinchazon abdominal - Ayuda a quemar la grasa y a aliviar la hinchazón abdomina
-- No contiene: estrógenos, soja o conservantes
-- Control de los Sofocos - Ayuda a reducir los sofocos, los sudores nocturnos y los cambios de humor
 - Ingredientes: Por dosis: Extracto de Maca-100 mg, Equivalente a la raíz de Maca-2000 mg, Extracto de Salvia-300 mg, Equivalente a Salvia-900 mg, Extracto de Alcachofa-250 mg, Extracto de Cayena-30 mg, Vitamina D3-5 µg, Vitamina B6-1,4 mg, Zinc-10 mg
+- Hinchazon abdominal - Ayuda a quemar la grasa y a aliviar la hinchazón abdomina
+- Apto para un uso prolongado
 - Contiene una mezcla de extractos de orifen natural, vitaminas y minerales
+- Control de los Sofocos - Ayuda a reducir los sofocos, los sudores nocturnos y los cambios de humor
+- No contiene: estrógenos, soja o conservantes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0933FM5QD/?tag=tolees-21)
