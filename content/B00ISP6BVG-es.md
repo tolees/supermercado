@@ -28,11 +28,11 @@ Está [Nestlé Nidina 3 Leche de Crecimiento en Polvo Fórmula Infantil  A Parti
 
 ℹ️:
 
-- NOTA IMPORTANTE: La leche materna es la mejor para los bebés. Antes de utilizar una fórmula infantil conviene consultar a tu profesional de la salud.
-- Proceso exclusivo de calidad proteica.
-- Fórmula infantil única que contiene PROTECT PLUS con Bífidus Lactis*, una bifidobacteria que forma parte de la flora intestinal (*Bifidobacterium animalis subsp. lactis CNCM I-3446).
 - Leche para bebés con inmunonutrientes protectores (Hierro, Zinc, Vitaminas A, C y D) que contribuyen a la función normal del sistema inmunitario.
+- NOTA IMPORTANTE: La leche materna es la mejor para los bebés. Antes de utilizar una fórmula infantil conviene consultar a tu profesional de la salud.
 - Leche de crecimiento NIDINA, fórmula infantil en polvo para bebés a partir de 1 año.
 - NESTLÉ experto en nutrición infantil
+- Proceso exclusivo de calidad proteica.
+- Fórmula infantil única que contiene PROTECT PLUS con Bífidus Lactis*, una bifidobacteria que forma parte de la flora intestinal (*Bifidobacterium animalis subsp. lactis CNCM I-3446).
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00ISP6BVG/?tag=tolees-21)
