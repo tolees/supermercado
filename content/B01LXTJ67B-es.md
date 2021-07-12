@@ -28,9 +28,9 @@ Ahora mismo tienes [Nestlé Iogolino - Iogolino - Fresa A Partir De 8 Meses 4 x 
 
 🔎:
 
-- Contienen más de un 80% de leche y contribuyen a cubrir las necesidades nutricionales del bebé
 - Son ricos en calcio, que favorece un correcto desarrollo de los huesos
 - Textura suave y cremosa y no necesita frío
+- Contienen más de un 80% de leche y contribuyen a cubrir las necesidades nutricionales del bebé
 - Una tarrina de Iogolino fresa aporta el 38% de los valores de referencia de calcio
 - Sin conservantes ni colorantes (de acuerdo con la legislación vigente)
 
