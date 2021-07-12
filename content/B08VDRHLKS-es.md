@@ -30,8 +30,8 @@ En este momento está [ZoneYan Organizador Cosméticos Giratorio  Organizador de
 
 - 💄2.6 Capas con Altura Ajustable:El organizador cosmético acrílico tiene 6 capas con altura ajustable, por lo que puede ajustar la altura a una altura que pueda contener diferentes tipos y tamaños de cosméticos y productos para el cuidado de la piel.
 - 💄1.360°Giratorio:El organizador cosméticos giratorio que gira libremente 360°, que hace que los cosméticos y productos para el cuidado de la piel sean claros de un vistazo, fáciles de usar y colocar, muy conveniente.
-- 💄4.Fondo Estable:El organizador de maquillaje de la pantalla amplía el área del disco giratorio inferior, esto hace que el posicionamiento sea más estable y no se caerá, y la bola de acero giratoria en la parte inferior hace que la rotación sea más suave.
 - 💄5.Materiales de Alta Calidad:El organizador de maquillaje giratorio está hecho de material ps grueso, resistente y duradero, también se puede desmontar y limpiar para una vida útil más larga.
 - 💄3.Diseño Hueco en la Parte Superior:El disco superior del organizador de maquillaje de rotación adopta un diseño hueco, similar a un portalápices, que puede acomodar fácilmente varios cosméticos tubulares como pinceles de maquillaje, rímel y lápiz labial.
+- 💄4.Fondo Estable:El organizador de maquillaje de la pantalla amplía el área del disco giratorio inferior, esto hace que el posicionamiento sea más estable y no se caerá, y la bola de acero giratoria en la parte inferior hace que la rotación sea más suave.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VDRHLKS/?tag=tolees-21)
