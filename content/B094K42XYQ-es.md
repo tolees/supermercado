@@ -29,9 +29,9 @@ Ahora mismo tienes [NIVEA SUN Crema Solar Niños Mineral FP 50+  1 x 150 ml   pr
 🔎:
 
 - Sostenibilidad: La fórmula de esta crema de sol es respetuosa con los océanos, ya que no contiene oxibenzona, octinoxato, octocrileno ni microplásticos
-- Contenido del envío: NIVEA SUN Crema Solar Niños Mineral FP 50+, extrarresistente al agua, 100% filtros UV minerales, 1 x 150 ml, botella
 - Óptima para niños: Esta crema solar 50+ está específicamente desarrollada para proteger la delicada piel de los niños y es extrarresistente al agua
-- Fórmula vegana: Esta crema solar infantil contiene aloe vera orgánico, es vegana y no tiene perfume; Es óptima para el uso diario y no obstruye los poros
 - Protección muy alta: La crema infantil contiene únicamente filtros UV 100 % minerales que brindan una protección fiable e inmediata contra los rayos UVA y UVB
+- Contenido del envío: NIVEA SUN Crema Solar Niños Mineral FP 50+, extrarresistente al agua, 100% filtros UV minerales, 1 x 150 ml, botella
+- Fórmula vegana: Esta crema solar infantil contiene aloe vera orgánico, es vegana y no tiene perfume; Es óptima para el uso diario y no obstruye los poros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B094K42XYQ/?tag=tolees-21)
