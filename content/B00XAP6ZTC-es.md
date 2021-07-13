@@ -28,8 +28,8 @@ Está [Haribo fresones super 1 unidad x 1kg](https://www.amazon.es/dp/B00XAP6ZTC
 
 ℹ️:
 
-- Irresistible sabor a fresa
 - Deliciosas piezas en forma de fresas
 - Caramelos de goma
+- Irresistible sabor a fresa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XAP6ZTC/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Finish 0% Abrillantador para lavavajillas - formato 400 m
 
 🔎:
 
-- Acelera el secado y evita que la vajilla salga húmeda del lavavajillas
 - Evita los residuos del aclarado
-- Abrillantador para el lavavajillas sin perfume, colorantes, conservantes
+- Acelera el secado y evita que la vajilla salga húmeda del lavavajillas
 - Finish es la marca recomendada por los principales fabricantes de lavavajillas
 - Combate las marcas de agua en la cristalería
+- Abrillantador para el lavavajillas sin perfume, colorantes, conservantes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YVLDQ8V/?tag=tolees-21)

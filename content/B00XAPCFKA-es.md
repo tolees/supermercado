@@ -28,8 +28,8 @@ Tienes [HARIBO - Cerezas con Azúcar Super  Caramelo de Goma  1 Kg](https://www.
 
 ℹ️:
 
-- Caramelos de goma
 - Irresistible sabor a cerezas
+- Caramelos de goma
 - Deliciosas piezas en forma de cerezas recubiertas de azúcar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAPCFKA/?tag=tolees-21)
