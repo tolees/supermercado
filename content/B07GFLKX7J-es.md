@@ -28,15 +28,15 @@ Ahora mismo tienes [Marca Amazon - Solimo - Alimento seco completo para gatos ad
 
 🔎:
 
-- Sin aromas, colorantes ni conservantes artificiales. Sin soja, trigo ni cebada añadidos
 - Carne y derivados de origen animal: aproximadamente el 28 % (los derivados de origen animal son aptos para el consumo humano)
-- Alimento para gatos adultos: Una dieta equilibrada y completa al 100 %
-- Sistema resellable para asegurar la máxima frescura
-- Vitamina D para unos huesos fuertes
-- Biotina y zinc para una piel y pelo saludables
 - Pescados y derivados del pescado: aprox. el 8 % (los derivados de origen animal son aptos para el consumo humano)
-- Prebióticos naturales para mejorar los sistemas digestivos sensibles
+- Sistema resellable para asegurar la máxima frescura
+- Alimento para gatos adultos: Una dieta equilibrada y completa al 100 %
+- Sin aromas, colorantes ni conservantes artificiales. Sin soja, trigo ni cebada añadidos
+- Vitamina D para unos huesos fuertes
 - Diseñado por nutricionistas de animales y revisado por veterinarios
 - Una receta sabrosa con proteínas de alta calidad
+- Prebióticos naturales para mejorar los sistemas digestivos sensibles
+- Biotina y zinc para una piel y pelo saludables
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GFLKX7J/?tag=tolees-21)

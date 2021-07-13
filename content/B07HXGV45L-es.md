@@ -28,15 +28,15 @@ Tienes [Marca Amazon - Lifelong Complete- Alimento seco completo para gatos adul
 
 ℹ️:
 
-- Con glucosamina y condroitina para mejorar las articulaciones; Con taurina para tener la vista y el corazón saludables
-- Con biotina, zinc y salmón: una fuente natural de Omega 3 para mantener la piel y el cabello sanos
-- Comida para gatos adultos: nutrición 100% completa y equilibrada
-- Sin soja, cebada ni productos lácteos añadidos
 - Sin aromas, colorantes ni conservantes artificiales
-- Una receta sabrosa con proteínas de alta calidad
-- Conservar en un lugar fresco, seco y oscuro. Una vez abierto, volver a sellar lo más hermético posible
-- Con salmón fresco; carne y derivados animales: aprox. un 28%
 - Prebióticos naturales para mejorar la digestión sensible
+- Con glucosamina y condroitina para mejorar las articulaciones; Con taurina para tener la vista y el corazón saludables
+- Sin soja, cebada ni productos lácteos añadidos
+- Conservar en un lugar fresco, seco y oscuro. Una vez abierto, volver a sellar lo más hermético posible
+- Con biotina, zinc y salmón: una fuente natural de Omega 3 para mantener la piel y el cabello sanos
+- Con salmón fresco; carne y derivados animales: aprox. un 28%
+- Comida para gatos adultos: nutrición 100% completa y equilibrada
+- Una receta sabrosa con proteínas de alta calidad
 - Diseñada por nutricionistas de animales y revisada por veterinarios
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07HXGV45L/?tag=tolees-21)
