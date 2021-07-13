@@ -28,10 +28,10 @@ Tienes [Spontex Bayetas de Microfibras Surtidas - 4 Bayetas](https://www.amazon.
 
 🔎:
 
-- 4 texturas para usos diferentes, te aportan el kit completo que no puede faltar en un hogar
-- Gris: cristales y superficies brillantes, no deja rastro
-- Verde: especial suciedad difícil (como la de cocina); gracias a su relieve 3D retiene mejor la suciedad
-- Rosa: más versátil multifuncional, para cualquier superficie del hogar
 - Amarilla: con acción electroestática para atrapar y retener el polvo.
+- Rosa: más versátil multifuncional, para cualquier superficie del hogar
+- Gris: cristales y superficies brillantes, no deja rastro
+- 4 texturas para usos diferentes, te aportan el kit completo que no puede faltar en un hogar
+- Verde: especial suciedad difícil (como la de cocina); gracias a su relieve 3D retiene mejor la suciedad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XDV4EXC/?tag=tolees-21)
