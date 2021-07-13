@@ -28,10 +28,10 @@ Está [YGJT - Soportes para Cápsulas de Café Nespresso 60- Puede Contener 60 c
 
 ℹ️:
 
-- ☕【PUERTA 60 NESPRESSO CAPS LÍNEA ORIGINAL】El Nouspresso Capsule Carousel de YGJT es un portavasos giratorio diseñado para contener 60 vainas Nespresso de tamaño completo. Las seis secciones contienen hasta 10 cápsulas cada una. Cápsulas de café NO incluidas en el paquete.
-- ☕【FUERTE Y DURADO】La parte inferior es antideslizante, por lo que no tiene que preocuparse de que se caiga. Duradero y fácil de limpiar gracias al cromado de alta calidad.
 - ☕【REGALO PERFECTO EN UN HERMOSO PAQUETE】Caja de alta calidad impresa en alta resolución, Es el regalo perfecto no solo para sus familiares, sino también para sus amigos.
 - ☕【DIMENSIONES】13 x 10 x 35 cm. Pequeño y fácil llevar. No ocupará demasiado espacio y es la mejor opción ya sea que se coloque en casa o en la oficina.
+- ☕【FUERTE Y DURADO】La parte inferior es antideslizante, por lo que no tiene que preocuparse de que se caiga. Duradero y fácil de limpiar gracias al cromado de alta calidad.
 - ☕【GARANTÍA DE CALIDAD】Si tiene problemas de calidad dentro de los 90 días, puede escribirnos, resolveremos el problema lo antes posible y recibiremos un reembolso completo.
+- ☕【PUERTA 60 NESPRESSO CAPS LÍNEA ORIGINAL】El Nouspresso Capsule Carousel de YGJT es un portavasos giratorio diseñado para contener 60 vainas Nespresso de tamaño completo. Las seis secciones contienen hasta 10 cápsulas cada una. Cápsulas de café NO incluidas en el paquete.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SR2Y6TQ/?tag=tolees-21)

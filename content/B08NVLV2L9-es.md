@@ -28,8 +28,8 @@ Tienes [Maybelline New York Máscara De Pestañas The Falsies Lash Lift Ultra Bl
 
 🔎:
 
-- Más volumen, más longitud, más curvatura en tus pestañas; cepillo doble curvatura que carga y curva tus pestañas de volumen pasada tras pasada
 - Máscara de Pestañas The Falsies Lash Lift Ultra Black 
+- Más volumen, más longitud, más curvatura en tus pestañas; cepillo doble curvatura que carga y curva tus pestañas de volumen pasada tras pasada
 - Efecto lifting de pestañas 
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08NVLV2L9/?tag=tolees-21)

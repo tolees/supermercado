@@ -28,11 +28,11 @@ Está [Alessi ASG42/H GR - Portarrollos para papel de cocina  un tamaño  color 
 
 ℹ️:
 
-- Dimensiones : 20cm x 30.5cm x 16.5cm
-- En ABS , PP y surlyn
-- de color verde
-- Diseñado por Stefano Giovannoni
 - Bunny & Carrot
+- de color verde
 - Portarrollos de cocina
+- En ABS , PP y surlyn
+- Diseñado por Stefano Giovannoni
+- Dimensiones : 20cm x 30.5cm x 16.5cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000FVC2T6/?tag=tolees-21)

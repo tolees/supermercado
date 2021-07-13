@@ -28,13 +28,13 @@ En este momento está [L OR Café Grano Colombia - 4 paquetes de 500gr  2000gr ]
 
 🔎:
 
-- Intensidad 8
-- Café en grano 100% arábica
-- Advertencia de seguridad: Envasado en atmósfera protectora
 - Ingredientes: Café en grano de tueste natural
-- Aptos para ser utilizado en máquinas superautomáticas de grano; una vez molido, se puede utilizar en todo tipo de cafeteras
-- Instrucciones para su uso adecuado: Preparar el café de la forma habitual
 - El paisaje de la zona rural de Colombia y la leyenda de el dorado son la inspiración para lor Colombia, un espresso con cuerpo con un carácter complejo y ácido que perdura en el paladar
+- Café en grano 100% arábica
+- Intensidad 8
 - Contiene 4 paquetes de 500 gr cada uno (4000 gr en total)
+- Instrucciones para su uso adecuado: Preparar el café de la forma habitual
+- Advertencia de seguridad: Envasado en atmósfera protectora
+- Aptos para ser utilizado en máquinas superautomáticas de grano; una vez molido, se puede utilizar en todo tipo de cafeteras
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NFRH68Z/?tag=tolees-21)
