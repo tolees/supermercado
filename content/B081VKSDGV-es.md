@@ -28,9 +28,9 @@ Está [Amazon Brand – Eono 10 Piezas Set de Esponjas de Maquillaje  Profesiona
 
 ℹ️:
 
+- UN JUEGO PARA RESOLVER TODO EL MAQUILLAJE: Tres formas diferentes para satisfacer todas las necesidades de maquillaje, puede llegar a cada esquina de la cara.
 - CALIDAD EXQUISITA: Hecho de material sin látex, sensación suave, esponja de belleza bien hinchable, fácil de distinguir.
 - Fácil de limpiar y reutilizable: le recomendamos que las limpie y seque después de cada uso.
-- UN JUEGO PARA RESOLVER TODO EL MAQUILLAJE: Tres formas diferentes para satisfacer todas las necesidades de maquillaje, puede llegar a cada esquina de la cara.
 - USO DUAL: Se vuelen más grandes cuando se agrega agua, por favor exprima cualquier cantidad de agua adicional cuando se usa en húmedo, el corrector y la crema son la mejor opción.
 - EL SET CONTIENE 10 PIEZAS: El juego de esponjas de maquillaje incluye 2 formas de esponjas de belleza diferentes: esponja de maquillaje multicolor de pera y lágrima para todo tipo de cosméticos.
 
