@@ -28,10 +28,10 @@ Tienes [Babaria – Gel De Manos Hidroalcohólico Higienizante Vainilla – 70% 
 
 🔎:
 
-- Perfume floral
-- Aceites esenciales naturales
 - Acción hidratante y nutritivo
+- Aceites esenciales naturales
 - Protege la piel mientras la cuida
 - Gel hidroalcohólico de manos vainilla
+- Perfume floral
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08G4X6RT4/?tag=tolees-21)

@@ -28,11 +28,11 @@ En este momento está [TRESemmé Acondicionador Purifica & Hidrata 6 x 685 ML](h
 
 🔎:
 
-- Limpia y purifica tu cabello con la gama de productos para el cabello TRESemmé Purica e Hidrata
-- Este tecnología de microhojas separa las fibras capilares, lo que resulta en un desenredado fácil y una sensación suave e hidratada
 - El acondicionador TRESemmé Purifica e Hidrata proporciona hidratación ligera y suavidad al tacto
+- Este tecnología de microhojas separa las fibras capilares, lo que resulta en un desenredado fácil y una sensación suave e hidratada
+- Limpia y purifica tu cabello con la gama de productos para el cabello TRESemmé Purica e Hidrata
 - Disfrute de un cabello profundamente limpio, hidratado y suave al tacto
-- Enriquecido con acido hialurónico, que ayuda a mantener la humedad del cabello al restaurar el escudo protector natural del cabello
 - Con arcilla de caolín, conocida por absorber el sebo del cabello y combatir la producción excesiva de aceite
+- Enriquecido con acido hialurónico, que ayuda a mantener la humedad del cabello al restaurar el escudo protector natural del cabello
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089HTDRK8/?tag=tolees-21)
