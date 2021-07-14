@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lip Smacker 1308-85548 Coca Cola Lote Bá al 0.00 % de rebaja'
-date: 2021-07-12 14:34:17
+date: 2021-07-14 14:48:08
 image: 'https://m.media-amazon.com/images/I/51cI93qYvHS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Lip Smacker 1308-85548 Coca Cola Lote Bálsamo Labial - 6 gr  0050051485
 
 🔎:
 
-- Coca Cola Lote - Bálsamo labial - Lip Smacker
 - Envase de 6 gr
 - Bálsamo labial - Infantil
+- Coca Cola Lote - Bálsamo labial - Lip Smacker
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00EVGXMZ4/?tag=tolees-21)
