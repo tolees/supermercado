@@ -28,10 +28,10 @@ En este momento está [ENJOYCOSMETICS - Gel hidroalcohólico NUEVOS AROMAS 3 uni
 
 🔎:
 
-- ✅ También disponible en otros aromas y envases de 5000 ml.
-- ✅ 98% de ingredientes naturales, vegano y no testado en animales.
 - ✅ Productos inscrito en la AEMPS. Hecho en España
+- ✅ También disponible en otros aromas y envases de 5000 ml.
 - ✅ 70% alcohol y con glicerina NATURAL para el cuidado de tu piel. Textura ligera y fácil absorción.
 - ✅ 3 X 500 ml. (Total 1500 ml.) de gel hidroalcohólico
+- ✅ 98% de ingredientes naturales, vegano y no testado en animales.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08YJFXQYL/?tag=tolees-21)
