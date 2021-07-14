@@ -28,8 +28,8 @@ Está [Babaria Acetona Pura Esmaltes y Geles Permanentes Quitaesmalte  1004-0005
 
 ℹ️:
 
-- Marca: BABARIA
-- Género: Mujer
 - Tipo de producto: Quitaesmalte
+- Género: Mujer
+- Marca: BABARIA
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XXHHR1W/?tag=tolees-21)

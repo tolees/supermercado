@@ -28,10 +28,10 @@ Ahora mismo tienes [Dicora UrbanFit - Dicora Urban Fit Jabón de Manos Vitamina 
 
 🔎:
 
-- Cuidado extra hidratante para una piel en forma
+- CrueltyFree.
 - Extractos naturales: nueces y almendras
+- Cuidado extra hidratante para una piel en forma
 - abón de manos nutritivo con esencia exquisita de nueces y leche de almendras.
 - La vitamina B ayuda a conseguir un alto rendimiento a lo largo del día y es idónea para afrontar una actividad física
-- CrueltyFree.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GVPBNHY/?tag=tolees-21)

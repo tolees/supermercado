@@ -29,9 +29,9 @@ Ahora mismo tienes [Valy Cosmetics Botanical Slimmer Complemento alimenticio veg
 🔎:
 
 - 🐰 Producto vegano
-- 📅 Tratamiento mensual para bajar de peso
 - 🔗 Reduce el peso corporal, sacia, quema-grasa
 - ✔️ Tomar 3 sticks al dia, 15 minutos antes de cada una de las principales comidas, tomar con mucha agua
+- 📅 Tratamiento mensual para bajar de peso
 - 🍫 Sabor cacao
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FB7HWDZ/?tag=tolees-21)
