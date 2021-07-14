@@ -28,10 +28,10 @@ Está [AQUISANA - Colágeno Marino Hidrolizado + Glucosamina + Vitamina C| Artic
 
 ℹ️:
 
-- PIEL MÁS SANA – La piel requiere de colágeno para su mantenimiento, protección y para retrasar la aparición de arrugas. Por tanto, además de sus beneficios articulares, este producto ayuda también a retrasar el envejecimiento prematuro.
 - ❤ GARANTÍA DE CALIDAD – Todos nuestros productos se fabrican bajo las exigencias de las normativas de la Unión Europea, lo que otorga a nuestros productos el máximo reconocimiento de garantía y calidad. Producto fabricado en España.
 - AYUDA A TUS HUESOS – Las vitaminas del tipo C ayudan a la absorción del calcio en nuestras articulaciones, uno de los minerales esenciales para la formación normal de los huesos y el mantenimiento de los mismos en buenas condiciones.
 - ARTICULACIONES MÁS FUERTES – Mantén unas articulaciones más fuertes y sanas gracias a este producto. Estos comprimidos de colágeno mejoran la función y la flexibilidad de las articulaciones, reduce la incomodidad y ayuda a mejorar y proteger la densidad ósea.
 - SUPLEMENTO ALIMENTICIO – La gran fórmula concentrada este producto provoca un efecto altamente eficiente e intenso. Los ingredientes de este producto son muy benificosos para el bienestar de nuestras articulaciones y huesos, entre los cuáles podemos destacar: Vitamina C, Colágeno marino hidrolizado, Glucosamina, PEA y Boswellia. Fabricado en España.
+- PIEL MÁS SANA – La piel requiere de colágeno para su mantenimiento, protección y para retrasar la aparición de arrugas. Por tanto, además de sus beneficios articulares, este producto ayuda también a retrasar el envejecimiento prematuro.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0953RMB1J/?tag=tolees-21)
