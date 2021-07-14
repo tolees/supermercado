@@ -28,8 +28,8 @@ Tienes [Matutano Producto Aperitivo de Trigo con Sabor a Carne  84g](https://www
 
 ℹ️:
 
-- Contiene gluten
 - Conservar en lugar fresco y seco
+- Contiene gluten
 - Con sabor a carne
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDN80PI/?tag=tolees-21)
