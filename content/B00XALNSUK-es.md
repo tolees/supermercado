@@ -28,8 +28,8 @@ Tienes [Anian Dermo Jabon Liquido Manos  Desconocido  500 Mililitro](https://www
 
 ℹ️:
 
-- Género: unisex.
 - Tipo de producto: jabón.
+- Género: unisex.
 - Marca: Anian.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XALNSUK/?tag=tolees-21)
