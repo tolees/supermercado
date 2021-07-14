@@ -28,8 +28,8 @@ Ahora mismo tienes [GERILEO - Set de 20 bayetas de Microfibra de 30x40cm y Rollo
 
 🔎:
 
-- Limpieza sin detergente con las bayetas de microfibra multiusos con resultados espectaculares.
 - Set de 20 bayetas de microfibras y rollo de 5 metros de estropajo de fibra verde.
+- Limpieza sin detergente con las bayetas de microfibra multiusos con resultados espectaculares.
 - Bayetas de microfibra 100% poliéster de 30x40cm en diversos colores.
 - Rollo de estropajo de fibra de 50m. 750GR/M2.
 - Estropajo resistente y duradero para desincrustar la sociedad sobre cualquier superficie.
