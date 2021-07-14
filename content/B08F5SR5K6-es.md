@@ -28,10 +28,10 @@ Está [La Toja Naturals Gel de Baño con Kukui y Aloe Vera  550ml  12 unidades  
 
 ℹ️:
 
-- La Toja Naturals está inspirada en el poder de la naturaleza y contiene ingredientes naturales; fórmulas veganas
-- Inspirados en la naturaleza con extractos y/o aceites naturales e irresistibles fragancias que respetan el pH de la piel; dermatológicamente probados
-- Fragancias que dejan huella
-- Los geles de ducha La Toja Naturals proporcionan unas deliciosas fragancias que dejaran huella en ti y en los tuyos
 - Ingredientes Seleccionados: Aceite de Kukui (acción regenerante), Aloe Vera (hidratante natural) y Sales Minerales (beneficios termales)
+- Inspirados en la naturaleza con extractos y/o aceites naturales e irresistibles fragancias que respetan el pH de la piel; dermatológicamente probados
+- La Toja Naturals está inspirada en el poder de la naturaleza y contiene ingredientes naturales; fórmulas veganas
+- Los geles de ducha La Toja Naturals proporcionan unas deliciosas fragancias que dejaran huella en ti y en los tuyos
+- Fragancias que dejan huella
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08F5SR5K6/?tag=tolees-21)
