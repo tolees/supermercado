@@ -28,11 +28,11 @@ Tienes [Marca Amazon - Solimo - Loción corporal suavizante con extracto de manz
 
 🔎:
 
-- Envase: 4 x 500 ml
-- Su textura proporciona una rápida absorción
-- Aplicar diariamente después de la ducha o el baño con un suave masaje hasta su completa absorción
-- El extracto de manzanilla alivia y calma la piel
-- Fórmula suave. Dermatológicamente testado
 - Suave y con pH neutro, para pieles sensibles
+- El extracto de manzanilla alivia y calma la piel
+- Su textura proporciona una rápida absorción
+- Fórmula suave. Dermatológicamente testado
+- Aplicar diariamente después de la ducha o el baño con un suave masaje hasta su completa absorción
+- Envase: 4 x 500 ml
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZD9GGHC/?tag=tolees-21)

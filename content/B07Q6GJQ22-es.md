@@ -28,10 +28,10 @@ Ahora mismo tienes [Sally Hansen Airbrush Legs Maquillaje para piernas Spray Ton
 
 🔎:
 
+- Extracto de palmaria palmata para ayudar a estimular la microcirculación
+- Envase reciclable
 - Fórmula resistente al agua y que no transfiere
 - Maquillaje para piernas ultraligero
 - Tapa venas, pecas y imperfecciones
-- Extracto de palmaria palmata para ayudar a estimular la microcirculación
-- Envase reciclable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Q6GJQ22/?tag=tolees-21)
