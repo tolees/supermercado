@@ -28,10 +28,10 @@ Está [L Oréal Men Expert Pure Charcoal - Gel de lavado  contra las impurezas d
 
 ℹ️:
 
-- Contenido del envío: 1 gel de lavado diario para el rostro LOréal Paris Men Expert Pure Carbon antiimpurezas, contenido: 100 ml
-- Aplicación: aplicación diaria del gel limpiador sobre la piel húmeda, especialmente la zona T (frente, nariz, barbilla), enjuagar profundamente, evitar el área de los ojos
 - Efecto: reducción del enrojecimiento e impurezas de la piel como espinillas y puntos negros, piel clara y mate, aspecto mejorado y aspecto fresco
 - Fórmula absorbente de aceite enriquecida con carbón de roble aclarado, dermatológicamente probado, se puede combinar con exfoliante antiespinillas de carbón puro
 - Gel de lavado antiespinillas para hombres para una limpieza profunda y lucha contra las impurezas de la piel, adecuado para pieles impurezas, grasas y grasas
+- Aplicación: aplicación diaria del gel limpiador sobre la piel húmeda, especialmente la zona T (frente, nariz, barbilla), enjuagar profundamente, evitar el área de los ojos
+- Contenido del envío: 1 gel de lavado diario para el rostro LOréal Paris Men Expert Pure Carbon antiimpurezas, contenido: 100 ml
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YQ996SB/?tag=tolees-21)
