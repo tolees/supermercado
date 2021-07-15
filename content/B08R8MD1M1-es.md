@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Ruavieja Licor Crema de Arroz - 700 ml al 0.00 % de descuento'
-date: 2021-07-07 17:02:21
+title: 'Ruavieja Licor Crema de Arroz - 700 ml al 14.73 % de descuento'
+date: 2021-07-15 06:40:58
 image: 'https://m.media-amazon.com/images/I/31sNCROSskS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08R8MD1M1-es Ruavieja Licor Crema de Arroz - 700 ml'
 sku: 'B08R8MD1M1-es'
 tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Licores','arroz','ruavieja', ]
-actualPrice: 11.99 EUR
+actualPrice: 10.19 EUR
 currency: EUR
-price: 11.99
-comparePrice:  EUR
+price: 10.19
+comparePrice: 11.95 EUR
 prodname: 'Ruavieja Licor Crema de Arroz - 700 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Ruavieja'
 buyurl: 'https://www.amazon.es/dp/B08R8MD1M1/?tag=tolees-21'
-descuento: '0.00'
-average: '11.99'
+descuento: '14.73'
+average: '11.09'
 ---
 
-Está [Ruavieja Licor Crema de Arroz - 700 ml](https://www.amazon.es/dp/B08R8MD1M1/?tag=tolees-21) con 0.00 de descuento por 11.99 EUR (original:  EUR) en el siguiente enlace!
+Está [Ruavieja Licor Crema de Arroz - 700 ml](https://www.amazon.es/dp/B08R8MD1M1/?tag=tolees-21) con 14.73 de descuento por 10.19 EUR (original: 11.95 EUR) en el siguiente enlace!
 
 [![Ruavieja Licor Crema de Arroz - 700 ml](https://m.media-amazon.com/images/I/31sNCROSskS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08R8MD1M1/?tag=tolees-21)
 
