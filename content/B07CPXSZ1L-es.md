@@ -28,9 +28,9 @@ Está [Amstel Radler 0 0 Alc Cerveza  Limon  Pack de 24 x 33cl](https://www.amaz
 
 ℹ️:
 
-- Pack de 24 x 33 cl
+- Con zumo natural de limón
 - Tiene sabor dulce y suave
 - Cerveza tipo lager mezcla
-- Con zumo natural de limón
+- Pack de 24 x 33 cl
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CPXSZ1L/?tag=tolees-21)

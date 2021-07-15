@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Anian Dermo Jabon Liquido Manos  Descono'
-date: 2021-07-14 19:50:41
+date: 2021-07-15 21:42:24
 image: 'https://m.media-amazon.com/images/I/41cufxjJrSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [Anian Dermo Jabon Liquido Manos  Desconocido  500 Mililitro](https://www
 ℹ️:
 
 - Tipo de producto: jabón.
-- Género: unisex.
 - Marca: Anian.
+- Género: unisex.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XALNSUK/?tag=tolees-21)
