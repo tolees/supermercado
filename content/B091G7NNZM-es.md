@@ -29,9 +29,9 @@ Ahora mismo tienes [Don Limpio Higiene  Detergente en Spray  6.8 L  10 x 680 ml 
 🔎:
 
 - Limpieza e higiene profunda sin residuos
+- Perfecto para superficies duras y blandas. Ideal para placas de cocina, encimeras, fregaderos o superficies de cerámica
 - Disuelve la grasa y la suciedad y se puede utilizar con agua fría
 - Deja un aroma fresco a eucalipto y un brillo más duradero
 - Limpiador en spray universal para toda la limpieza de la casa
-- Perfecto para superficies duras y blandas. Ideal para placas de cocina, encimeras, fregaderos o superficies de cerámica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B091G7NNZM/?tag=tolees-21)
