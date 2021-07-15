@@ -28,8 +28,8 @@ Tienes [J&B Rare Whisky Escocés  700ml](https://www.amazon.es/dp/B004CYCLS4/?ta
 
 🔎:
 
-- Para compartir en cualquier ocasión
 - Se debe conservar en un lugar fresco y seco
 - Graduación: 40 %
+- Para compartir en cualquier ocasión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004CYCLS4/?tag=tolees-21)
