@@ -29,8 +29,8 @@ Está [BEAKEY Set de Brochas de Maquillaje  Synthetic Kabuki para Base Polvos Co
 ℹ️:
 
 - MATERIALES DE ALTA CALIDAD: Cerdas de fibras sintéticas sedosas de alta calidad, mangos de cepillo de madera natural, juntas de metal de alta calidad
-- IDEA PARA REGALO: La calidad y la apariencia perfectas serán los hermosos regalos para cumpleaños, bodas, Día de la Madre, Día de San Valentín y otros días festivos
 - JUEGO DE BROCHAS DE MAQUILLAJE: Las brochas de maquillaje incluyen brocha de base, brocha para sombra de ojos, etc., que se pueden aplicar tanto para cosméticos en polvo como cremosos
+- IDEA PARA REGALO: La calidad y la apariencia perfectas serán los hermosos regalos para cumpleaños, bodas, Día de la Madre, Día de San Valentín y otros días festivos
 - CEPILLO DE HUEVO Y ESPONJA DE MEZCLADORA: El huevo de cepillo está hecho de silicona de primera calidad para limpiar a fondo sus cerdas. La esponja usará tanto húmeda como seca
 - ATENCIÓN: Recomendamos utilizar el cepillo de huevo para limpiar los cepillos después de cada uso y secarlos al aire en un lugar ventilado
 
