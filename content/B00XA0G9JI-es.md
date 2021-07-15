@@ -29,8 +29,8 @@ Tienes [Burn Original - Bebida energética - Lata 500 ml](https://www.amazon.es/
 🔎:
 
 - Bebida energética carbonatada con cafeína. La cafeína puede contribuir a aumentar la concentración y el estado de alerta
-- Sirve tu bebida fría para refrescarte
 - Burn sabor original lata de 500 ml
+- Sirve tu bebida fría para refrescarte
 - Este refresco energético contiene taurina + guaraná + vitaminas B. Las vitaminas B6 y B12 puede contribuir a la disminuir el cansancio y la fatiga y al metabolismo energético normal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XA0G9JI/?tag=tolees-21)
