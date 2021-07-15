@@ -28,8 +28,8 @@ En este momento está [Mica Derm - Desodorante Woman - Roll-on sin alcohol - 75 
 
 🔎:
 
-- Calma, protege y cuida la piel
-- Tipo de producto: roll-on sin alcohol
 - El paquete contiene 1 unidad de 75 ml
+- Tipo de producto: roll-on sin alcohol
+- Calma, protege y cuida la piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XAA9JL8/?tag=tolees-21)
