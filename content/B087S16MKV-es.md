@@ -28,10 +28,10 @@ Está [ColaCao - Cola Cao Original  con Cacao Natural  4.5Kg  Gratis Kit Recetas
 
 ℹ️:
 
+- 321 raciones en su formato ahorro de 4,5kg (contiene 3 bolsas)
+- Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos
 - Alérgenos: contiene trigo y cebada; mantener en lugar fresco y seco
 - Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente.
-- Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos
-- 321 raciones en su formato ahorro de 4,5kg (contiene 3 bolsas)
 - ¡Edición limitada! De regalo kit recetas compuesto por 2 moldes cupcakes, 2 ice cream cups, 1 espolvoreador, 2 cucharas, 1 espátula, 1 varilla y 1 medidor.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087S16MKV/?tag=tolees-21)
