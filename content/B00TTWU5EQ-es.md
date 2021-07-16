@@ -28,9 +28,9 @@ Tienes [Farmatint Gel 3N Castaño Oscuro | Color natural y duradero | Componente
 
 ℹ️:
 
-- Avanzada tecnología dermofarmacéutica con ingredientes vegetales de máxima calidad.
-- 100% cobertura de canas; sin amoníaco, sin Parabenes, sin Siliconas ni Parafinas.
-- Única coloración que contiene Active Color Complex, un exclusivo bálsamo post coloración que gracias a su composición con 97,3% de ingredientes naturales y su filtro solar natural proporciona una protección del color y de la fibra capilar.
 - Lea las instrucciones de uso antes de utilizar el producto
+- 100% cobertura de canas; sin amoníaco, sin Parabenes, sin Siliconas ni Parafinas.
+- Avanzada tecnología dermofarmacéutica con ingredientes vegetales de máxima calidad.
+- Única coloración que contiene Active Color Complex, un exclusivo bálsamo post coloración que gracias a su composición con 97,3% de ingredientes naturales y su filtro solar natural proporciona una protección del color y de la fibra capilar.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TTWU5EQ/?tag=tolees-21)

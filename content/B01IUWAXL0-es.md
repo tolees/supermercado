@@ -28,8 +28,8 @@ Tienes [Lay S Patatas Fritas Sabor Campesinas  250g](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Sin aceite de palma
 - Patatas fritas con aromas vegetales
+- Sin aceite de palma
 - Envasado en atmosfera protectora
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01IUWAXL0/?tag=tolees-21)

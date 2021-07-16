@@ -30,8 +30,8 @@ Ahora mismo tienes [Renova Servilletas de Papel Red Label - 200 servilletas Tama
 
 - 32x30cm
 - Servilletas Blancas
-- 200 unidades
 - Una capa
+- 200 unidades
 - Ideales para un uso cotidiano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TWMVCMN/?tag=tolees-21)

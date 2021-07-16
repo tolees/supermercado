@@ -28,10 +28,10 @@ Está [Multicentrum Plus Ginseng & Ginkgo  Complemento Alimenticio Multivitamina
 
 ℹ️:
 
-- Multivitaminas sin gluten, lactosa, azúcar y fructosa
-- Envase de 30 comprimidos
 - Fórmula especialmente equilibrada con 13 vitaminas y 8 minerales, como vitamina A, C, D, E, K, un alto contenido en vitaminas B, biotina, ácido fólico, calcio, hierro y zinc, entre otros
 - Multivitamí­nico para adultos mayores de 18 años con extracto de ginseng y ginkgo biloba, que contribuyen a mejorar el rendimiento físico y mental
+- Multivitaminas sin gluten, lactosa, azúcar y fructosa
 - Con extracto de ginseng, que aumenta la resistencia física, y extracto de ginkgo biloba, que ayuda al mantenimiento de la memoria y al desarrollo de las funciones cognitivas
+- Envase de 30 comprimidos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CB6RGDJ/?tag=tolees-21)

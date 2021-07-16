@@ -29,9 +29,9 @@ Tienes [LEOTRON Vitamina C 36+18 comprimidos efervescentes - Complemento aliment
 ℹ️:
 
 - Ayuda disminuir el cansancio y la fatiga gracias a su contenido en vitamina c
-- Sin gluten, sin lactosa, sin azúcares
 - Triple protección para ayudar a tus defensas en épocas de frío, cambios de estación y malos hábitos (no dormir suficiente, estrés)
 - Comprimidos efervescentes. Sabor a naranja
 - Complemento alimenticio con vitamina C, zinc y selenio con edulcorantes
+- Sin gluten, sin lactosa, sin azúcares
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M6CQM5S/?tag=tolees-21)

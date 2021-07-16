@@ -28,10 +28,10 @@ Está [Weleda Pasta Dentifrica Salina  75 ml  surtido: paquetes aleatorios](http
 
 ℹ️:
 
-- Excelente calidad WELEDA: Con Sal Marina y Bicarbonato Sódico .
 - Sin flúor: El dentífrico estimula el flujo de saliva y con ello la auto-limpieza fisiológica. Estudios clínicos comprueban su eficacia para reducir el sarro. Respeta la flora natural de la boca.
-- Prevención de caries: Con Sal Marina y Bicarbonato Sódico natural, esta pasta neutraliza los ácidos nocivos responsables de la caries. El Aceite de Menta proporciona un aliento fresco duradero.
-- Fortalece el tejido bucal: La Mirra y la Ratania alivian y fortalecen el tejido bucal, ayudando a prevenir el retroceso de las encías.
+- Excelente calidad WELEDA: Con Sal Marina y Bicarbonato Sódico .
 - Contenido: 1 x WELEDA Pasta Dentífrica Salina
+- Fortalece el tejido bucal: La Mirra y la Ratania alivian y fortalecen el tejido bucal, ayudando a prevenir el retroceso de las encías.
+- Prevención de caries: Con Sal Marina y Bicarbonato Sódico natural, esta pasta neutraliza los ácidos nocivos responsables de la caries. El Aceite de Menta proporciona un aliento fresco duradero.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00V6HHMWK/?tag=tolees-21)

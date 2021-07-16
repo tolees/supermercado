@@ -29,9 +29,9 @@ En este momento está [Biolage Advanced  Spray KeratinDose con Pro-Keratina que 
 🔎:
 
 - Hidrata, nutre y desenreda el pelo
-- Proporciona suavidad y brillo duradero
 - Actúa contra el encrespamiento
 - Spray reparador para cabello sensible y dañado
 - Mejora la calidad y la estructura del pelo
+- Proporciona suavidad y brillo duradero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00CK2IA3K/?tag=tolees-21)

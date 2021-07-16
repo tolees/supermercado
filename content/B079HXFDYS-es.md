@@ -28,11 +28,11 @@ Tienes [Cuidados Mascarilla de cebolla. Reduce la grasa. Estimulante capilar. An
 
 🔎:
 
-- Fabricado con agua tratada:purificada
-- Estimulante capilar sin olor a cebolla. Brillo y suavidad para el cabello. Propiedades antioxidantes
-- Laboratorio y fabricante certificado según las normas: ISO 9001, ISO 14001, ISO 22716, Aenor I + D + i y Certificación Halal
-- No testado en animales
 - Número 1 en ventas
+- No testado en animales
+- Estimulante capilar sin olor a cebolla. Brillo y suavidad para el cabello. Propiedades antioxidantes
 - Repara el cabello de un modo muy efectivo, ayudando a que crezca sano, fuerte y con un brillo excepcional.
+- Fabricado con agua tratada:purificada
+- Laboratorio y fabricante certificado según las normas: ISO 9001, ISO 14001, ISO 22716, Aenor I + D + i y Certificación Halal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079HXFDYS/?tag=tolees-21)

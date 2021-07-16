@@ -28,8 +28,8 @@ Tienes [Purina Felix Fantastic - Felix - Fantastic Gelatina de Festín del Mar -
 
 ℹ️:
 
+- Tu gato disfrutará de una irresistible comida cada día
 - Nutrición completa y sabrosa
 - Elaborado con ingredientes seleccionados de calidad
-- Tu gato disfrutará de una irresistible comida cada día
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01G7G6P0O/?tag=tolees-21)
