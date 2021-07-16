@@ -29,9 +29,9 @@ Ahora mismo tienes [Saimaza Café Extra Fuerte Espresso 11 - 200 cápsulas de al
 🔎:
 
 - Un café espresso extra fuerte perfecto para disfrutar con ñeche e ideal para tus momentos de desayuno
+- Las cápsulas Saimaza de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso*(R)
 - Intensidad 11
 - *Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
 - 200 cápsulas repartidas en 10 paquetes de 20 cápsulas cada uno. Peso neto de 1 paquete: 104 g. Total 4 paquetes = 1040gr
-- Las cápsulas Saimaza de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso*(R)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079QMX87B/?tag=tolees-21)
