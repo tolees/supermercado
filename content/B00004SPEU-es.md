@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Krups F2034238 Fast Touch Molinillo de c al 27.55 % de rebaja'
-date: 2021-07-15 03:12:38
+date: 2021-07-16 15:38:26
 image: 'https://m.media-amazon.com/images/I/41D03VeTuhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
