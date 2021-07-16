@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZZRGK7-es TRESemmé Champú Botanique Macadamia - Paquete de 3 x 700...'
 sku: 'B078ZZRGK7-es'
-tags: [ 'champú','tresemmé', ]
+tags: [ 'champú','macadamia','tresemmé', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99
