@@ -28,10 +28,10 @@ En este momento está [Adidas Fruity Rythm Set Femenino contiene: Fruity Rythm E
 
 🔎:
 
-- Shower Gel Ice Dive 250 ml
-- Adidas, la verdadera marca deportiva para hombres y mujeres
-- Eau de toilette, fragancia floral y afrutada se inicia con la mezcla de las notas ácidas de frambuesa y grosella negra
 - Set que incluye, Eau de Toilette 100 ml + Shower Gel 250 ml + Desodorante formato spray 75 ml + Deo Natural Spray 75 ml
+- Adidas, la verdadera marca deportiva para hombres y mujeres
+- Shower Gel Ice Dive 250 ml
 - Desodorante formato Spray 75 ml + Deo Natural Spray 75 ml
+- Eau de toilette, fragancia floral y afrutada se inicia con la mezcla de las notas ácidas de frambuesa y grosella negra
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MBFKWNC/?tag=tolees-21)
