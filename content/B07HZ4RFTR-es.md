@@ -28,9 +28,9 @@ Tienes [Johnnie Walker Etiqueta Negra Scotch Whisky Edición de Bolsillo  200ml]
 
 🔎:
 
-- Una mezcla de más de 30 whiskies maduros procedentes de toda Escocia
-- Toques bien definidos de vainilla intensa, frutos secos y un sofisticado sabor ahumado
-- Everest de los whiskies premium según Jim Murray, autor de La Biblia del Whisky
 - Un whisky de lujo, referente para todos los demás
+- Toques bien definidos de vainilla intensa, frutos secos y un sofisticado sabor ahumado
+- Una mezcla de más de 30 whiskies maduros procedentes de toda Escocia
+- Everest de los whiskies premium según Jim Murray, autor de La Biblia del Whisky
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HZ4RFTR/?tag=tolees-21)
