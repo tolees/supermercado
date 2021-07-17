@@ -28,8 +28,8 @@ Ahora mismo tienes [LIDA Jabón 100% Natural Glicerina - 600 ml](https://www.ama
 
 🔎:
 
+- Propiedades: Hidratante
 - Tipo de Piel: Todo Tipo de Pieles
 - Texturas: Gel
-- Propiedades: Hidratante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00A2ARFLK/?tag=tolees-21)
