@@ -28,10 +28,10 @@ Ahora mismo tienes [Deconovo Cortina para Ventana  Dormitorio Juvenil  Habitaci�
 
 🔎:
 
+- INSTRUCCIONES DE CUIDADO & DECONOVO - Se puede limpiar a mano o a máquina en agua fría.Tenemos muchos años de experiencia en la industria textil y podemos brindarle una ayuda excelente y confiable. Si tiene alguna pregunta, puede comunicarse con nuestro departamento de atención al cliente. Le brindaremos soluciones de alta calidad en un plazo de 24 horas.
 - AISLAMIENTO TÉRMICO - Bloquea los rayos del sol que llegan directamente desde la ventana de su dormitorio, cocina, salón, balcón, durante el día y en verano, así como el frío del invierno para una habitación más agradable y fresca durante todo el año.
+- DIMENSIÓN - Material: 100% Poliéster, Peso: 230g / m2. Contiene 1 panel por paquete, dimensión 140 x 180 cm (ancho x alto). La altura de la cortina se mide desde la parte superior del anillo.
 - FUNCIÓN DE APAGADO - con nuestra tecnología de triple tejido, la luz está bloqueada por la parte posterior de la cortina, lo que le permite disfrutar de un interior más oscuro durante el día. Esta cortina opaca es ideal para personas con sueño frágil, niños, bebés y hogares muy soleados.
 - DISEÑO CONTEMPORÁNEO - Cortina de diseño contemporáneo, agradable al tacto, con colores ricos y generosos que combinan perfectamente con sus paredes y ventanas para un interior agradable y hermoso.
-- DIMENSIÓN - Material: 100% Poliéster, Peso: 230g / m2. Contiene 1 panel por paquete, dimensión 140 x 180 cm (ancho x alto). La altura de la cortina se mide desde la parte superior del anillo.
-- INSTRUCCIONES DE CUIDADO & DECONOVO - Se puede limpiar a mano o a máquina en agua fría.Tenemos muchos años de experiencia en la industria textil y podemos brindarle una ayuda excelente y confiable. Si tiene alguna pregunta, puede comunicarse con nuestro departamento de atención al cliente. Le brindaremos soluciones de alta calidad en un plazo de 24 horas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01GFMM87E/?tag=tolees-21)
