@@ -29,10 +29,10 @@ Está [L Or Espresso Café Or Absolu Intensidad 9 - 100 cápsulas de aluminio co
 ℹ️:
 
 - Una soberbia combinación de café que contrasta con su delicado aroma a especias y caramelo, un equilibrio perfecto y refinado
-- Intensidad 9
-- *Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
-- Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso*(R)
 - Fuerte- Fragante- Rotundo
 - 100 cápsulas repartidas en 10 paquetes de 10 cápsulas cada uno. Peso neto de 1 paquete: 52 g. Total 10 paquetes = 520 gr
+- Intensidad 9
+- Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso*(R)
+- *Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00KH1KKOI/?tag=tolees-21)
