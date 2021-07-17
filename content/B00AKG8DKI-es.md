@@ -28,10 +28,10 @@ En este momento está [Bolero Bebida Instantánea sin Azúcar  Sabor Naranja - P
 
 🔎:
 
-- Alérgenos: sin gluten, sin lactosa, sin huevo, sin frutos secos
+- Disolver cada sobre en 1.5 L de agua
+- Edulcorado con Stevia
 - Sin conservantes artificiales. Saborizantes y colorantes de origen natural
 - Bebida instantánea en polvo sin azúcar y con vitamina C. Baja en calorías y en carbohidratos
-- Edulcorado con Stevia
-- Disolver cada sobre en 1.5 L de agua
+- Alérgenos: sin gluten, sin lactosa, sin huevo, sin frutos secos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00AKG8DKI/?tag=tolees-21)
