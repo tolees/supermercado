@@ -28,9 +28,9 @@ Está [Babaria Pistola Aceite Protector Solar Zanahoria SPF6-300 ml](https://www
 
 ℹ️:
 
-- Resistente al agua.
-- Aceite Protector Protección Baja
 - Protección UVA (causantes del envejecimiento prematuro de la piel) , UVB (causantes del eritema solar- quemaduras), INFRARROJOS (provoca daños en el ADN y formación de radicales libres, causando envejecimiento cutáneo).
 - Y el B-Caroteno del aceite de zanahoria actúa junto con el Acelerador del Bronceado como precursores del bronceado.
+- Aceite Protector Protección Baja
+- Resistente al agua.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BHM1QVK/?tag=tolees-21)
