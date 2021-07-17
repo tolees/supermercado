@@ -30,8 +30,8 @@ En este momento está [Hawaiian Tropic Lip Balm - Bálsamo Protector Solar de La
 
 - Sabor Tropical
 - Protección Alta con SPF 30
-- Bálsamo labial protector de rayos UVA/UVB
-- Con un increíble olor y una textura cremosa
 - Labios hidratados y protegidos del sol
+- Con un increíble olor y una textura cremosa
+- Bálsamo labial protector de rayos UVA/UVB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0798PRSQC/?tag=tolees-21)
