@@ -28,10 +28,10 @@ Está [Living Nostalgia Kitchen Craft Tarro para café  17 cm   Color Gris](http
 
 ℹ️:
 
-- Fabricado de acero
 - Tapa con asa
 - Elegante acabado en pintura gris
-- Con palabra Coffee
 - Lavable a mano
+- Fabricado de acero
+- Con palabra Coffee
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00U1INHIS/?tag=tolees-21)
