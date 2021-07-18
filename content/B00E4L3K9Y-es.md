@@ -28,8 +28,8 @@ Tienes [Garnier Fructis Oil Repair 3  dedicado al cabello seco  150 ml](https://
 
 🔎:
 
+- Aceite milagroso para donar la nutrición.
 - ACEITE SIN ACLARADO REPARACION DE ACEITE 3
 - SUAVE Y BRILLO EN TU PELO
-- Aceite milagroso para donar la nutrición.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00E4L3K9Y/?tag=tolees-21)
