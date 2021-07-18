@@ -28,8 +28,8 @@ Ahora mismo tienes [Scottex Jumbo Papel de Cocina - 1 Rollo](https://www.amazon.
 
 🔎:
 
-- Garantizan una optima absorción
 - El rollo más grande es adecuado para todas las tareas del hogar
+- Garantizan una optima absorción
 - Eficacia multiusos: sí
 - Practico y suave en contacto con la piel
 
