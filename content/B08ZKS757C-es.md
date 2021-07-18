@@ -28,10 +28,10 @@ Ahora mismo tienes [Ariel Pods Detergente Lavadora Cápsulas  140 Lavados  Pack 
 
 🔎:
 
-- Depositar la cápsula en el tambor de la lavadora antes de la ropa
-- Resultados adecuados con una sola cápsula de detergente concentrado
 - Para un resultado óptimo, combínalo con Lenor UNstoppables perlas de perfume para la ropa
+- Depositar la cápsula en el tambor de la lavadora antes de la ropa
 - Limpieza e higine profundas; Ilumina y quita las manchas; Eficaz en frío (incluso a 30 °C)
 - El recubrimiento de la cápsula se disuelve totalmente al entrar en contacto con el agua
+- Resultados adecuados con una sola cápsula de detergente concentrado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08ZKS757C/?tag=tolees-21)
