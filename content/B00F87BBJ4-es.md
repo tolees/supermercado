@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'NR11800070008 Hi-SPEED MEMORIA USB STICK al 0.00 % de rebaja'
-date: 2020-01-04 09:31:41
-image: 'https://images-eu.ssl-images-amazon.com/images/I/316hMf0UJOL._SL400_.jpg'
+title: '818-Shop - NR11800070008 Hi-SPEED MEMORI al 0.00 % de rebaja'
+date: 2021-07-18 11:21:41
+image: 'https://m.media-amazon.com/images/I/316hMf0UJOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00F87BBJ4-es NR11800070008 Hi-SPEED MEMORIA USB STICK 8GB FLASH...'
+slug: 'B00F87BBJ4-es 818-Shop - NR11800070008 Hi-SPEED MEMORIA USB STICK 8GB...'
 sku: 'B00F87BBJ4-es'
-tags: [ 'chocolate', ]
-actualPrice: 4.77 EUR
+tags: [ '818-shop','Almacenamiento de datos','Almacenamiento de datos externo','Informática','Memorias USB','chocolate', ]
+actualPrice: 6.2 EUR
 currency: EUR
-price: 4.77
-comparePrice: 4.77 EUR
-prodname: 'NR11800070008 Hi-SPEED MEMORIA USB STICK 8GB FLASH CHOCOLATE MARRÓN FIGURA'
+price: 6.2
+comparePrice:  EUR
+prodname: '818-Shop - NR11800070008 Hi-SPEED MEMORIA USB STICK 8GB FLASH CHOCOLATE MARRÓN FIGURA'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: '818-Shop'
 buyurl: 'https://www.amazon.es/dp/B00F87BBJ4/?tag=tolees-21'
 descuento: '0.00'
-average: '4.77'
+average: '5.485'
 ---
 
-Tienes [NR11800070008 Hi-SPEED MEMORIA USB STICK 8GB FLASH CHOCOLATE MARRÓN FIGURA](https://www.amazon.es/dp/B00F87BBJ4/?tag=tolees-21) con precio final de  4.77 EUR (original: 4.77 EUR) (0.00 %  de rebaja) aqui!
+Tienes [818-Shop - NR11800070008 Hi-SPEED MEMORIA USB STICK 8GB FLASH CHOCOLATE MARRÓN FIGURA](https://www.amazon.es/dp/B00F87BBJ4/?tag=tolees-21) con precio final de  6.2 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
 
-[![NR11800070008 Hi-SPEED MEMORIA USB STICK](https://images-eu.ssl-images-amazon.com/images/I/316hMf0UJOL._SL400_.jpg)](https://www.amazon.es/dp/B00F87BBJ4/?tag=tolees-21)
+[![818-Shop - NR11800070008 Hi-SPEED MEMORI](https://m.media-amazon.com/images/I/316hMf0UJOL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00F87BBJ4/?tag=tolees-21)
 
 🔎:
 
+- Material de figura: Plástico
+- Color: Marrón
+- Hasta 8GB de capacidad
+- Transferencia de datos rápida
+- Dimensiones (AnxAlxProf): aproximadamente 52 mm x 12 mm x 17 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00F87BBJ4/?tag=tolees-21)
