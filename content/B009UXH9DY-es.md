@@ -28,11 +28,11 @@ Tienes [Fireball Cinnamon Whisky - botella de Licor de Whisky infusionado con ca
 
 🔎:
 
+- Nace en Canadá en 1984 como el primer licor de whisky infusionado con canela al que denominaron “Dr. McGillicuddy’s Fireball Cinnamon Whisky”. Se basa en la historia de un médico llamado Dr. McGillicuddy, apodado como “Dr. Shot” tras haber creado una serie de bebidas medicinales
 - Para los más atrevidos: Firebeer: Una caña o tercio de cerveza con un chupito bien frío de Fireball. Dragonade: 5cl Fireball + Limonada o Fanta de limón servido en un vaso con hielo. Fireboom: 5cl de Fireball + Redbull servido en un vaso con hielo
+- Cómo servir: Fireball Whisky se sirve en chupito muy frío, para crear un contraste entre el frío y su toque especiado y picante
 - Licor enérgico, excitante e irreverente que viene en una botella de 700ml con un diseño muy atractivo
 - Su afrodisiaco y cautivador sabor a canela, dulce, dota al licor de una versatilidad para combinar con bebidas afines y de sabores cítricos
-- Nace en Canadá en 1984 como el primer licor de whisky infusionado con canela al que denominaron “Dr. McGillicuddy’s Fireball Cinnamon Whisky”. Se basa en la historia de un médico llamado Dr. McGillicuddy, apodado como “Dr. Shot” tras haber creado una serie de bebidas medicinales
-- Cómo servir: Fireball Whisky se sirve en chupito muy frío, para crear un contraste entre el frío y su toque especiado y picante
 - Fireball Cinnamon Whisky es un licor de whisky canadiense infusionado con canela y un ligero toque picante
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009UXH9DY/?tag=tolees-21)
