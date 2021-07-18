@@ -28,10 +28,10 @@ Tienes [818-Shop - NR11800070008 Hi-SPEED MEMORIA USB STICK 8GB FLASH CHOCOLATE 
 
 🔎:
 
-- Material de figura: Plástico
 - Color: Marrón
-- Hasta 8GB de capacidad
 - Transferencia de datos rápida
+- Hasta 8GB de capacidad
+- Material de figura: Plástico
 - Dimensiones (AnxAlxProf): aproximadamente 52 mm x 12 mm x 17 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00F87BBJ4/?tag=tolees-21)
