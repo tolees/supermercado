@@ -28,9 +28,9 @@ En este momento está [Lactacyd Gel Lubricante Íntimo - Favorece Tus Relaciones
 
 🔎:
 
-- Lubricante íntimo que simula la lubricación natural
-- Compatible con preservativos
-- Ofrece hidratación y mantiene el pH natural de la zona íntima
 - Favorece las relaciones sexuales
+- Lubricante íntimo que simula la lubricación natural
+- Ofrece hidratación y mantiene el pH natural de la zona íntima
+- Compatible con preservativos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081NK6DQ8/?tag=tolees-21)
