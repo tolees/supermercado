@@ -28,9 +28,9 @@ Está [Renova Rollos de Cocina | 24 Rollos Decorados](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Papel blanco decorado y absorbente
 - Paquete de 24 rollos decorados
 - Decoraciones aleatorias, ¡descúbrelas!
+- Papel blanco decorado y absorbente
 - 40 servicios por rollo
 - Rollos de cocina con diseños coloridos y variados
 
