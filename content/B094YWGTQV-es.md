@@ -28,10 +28,10 @@ Tienes [Renova Pañuelos Faciales Renova Recycled | 30 x 72 Pañuelos  2.160 tot
 
 🔎:
 
-- Producto ECO: Certificado con FSC y Ecolabel, respetuoso con el medio ambiente
-- Papel reciclado de 3 capas, testado dermatológicamente
-- 2.160 pañuelos en total
 - 30 cajitas de cartón de 72 pañuelos faciales cada una
+- Producto ECO: Certificado con FSC y Ecolabel, respetuoso con el medio ambiente
 - Dimensión del pañuelo: 22,5x21,5cm
+- 2.160 pañuelos en total
+- Papel reciclado de 3 capas, testado dermatológicamente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B094YWGTQV/?tag=tolees-21)
