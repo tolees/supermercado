@@ -28,10 +28,10 @@ Ahora mismo tienes [TOFU - Juego de 4 velas de citronela  120 horas de combusti�
 
 🔎:
 
-- 100% cera de soja: aceite esencial de citronela vegetal puro y núcleo de algodón sin plomo, limpiador de combustión y más tiempo sin humo negro, inofensivo para humanos, mascotas y medio ambiente. La vela de soja de citronela es biodegradable y ecológica.
-- 100% satisfacción: proporcionamos reembolsos y devoluciones completas si hay algún problema después de recibir el producto.
-- Portátil y reutilizable: después de que las velas de citronela se hayan agotado, cubre los tarros para evitar que la vela se seque y acumule polvo. Estos tarros vacíos te permiten almacenar decoraciones, pulseras, alfileres de seguridad o llaves.
-- Tamaño y tiempo de combustión: 212 g x 4 combustión de larga duración de 120 horas garantizadas para ofrecerte una relajación maximizada
 - El mejor regalo de verano: perfecto para camping, viajes, barbacoas, picnics, patio trasero, dormitorio, uso en lugares interiores y exteriores. Esta vela aromática también es una opción de regalo de verano.
+- Tamaño y tiempo de combustión: 212 g x 4 combustión de larga duración de 120 horas garantizadas para ofrecerte una relajación maximizada
+- 100% satisfacción: proporcionamos reembolsos y devoluciones completas si hay algún problema después de recibir el producto.
+- 100% cera de soja: aceite esencial de citronela vegetal puro y núcleo de algodón sin plomo, limpiador de combustión y más tiempo sin humo negro, inofensivo para humanos, mascotas y medio ambiente. La vela de soja de citronela es biodegradable y ecológica.
+- Portátil y reutilizable: después de que las velas de citronela se hayan agotado, cubre los tarros para evitar que la vela se seque y acumule polvo. Estos tarros vacíos te permiten almacenar decoraciones, pulseras, alfileres de seguridad o llaves.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08RJ7GFWM/?tag=tolees-21)
