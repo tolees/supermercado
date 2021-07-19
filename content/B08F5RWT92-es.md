@@ -29,10 +29,10 @@ Ahora mismo tienes [Syoss - Champú para pelo rizado - Rizos Pro - 6uds de 440Ml
 🔎:
 
 - Las nuevas fórmulas de Syoss combinan ingredientes naturales inspirados en los principios de belleza japoneses con la tecnología AMINO COMPLEX, que refuerza el cabello desde el interior
-- Champú para una definición e hidratación adecuada; desarrollado para obtener ondas y rizos naturales sin esfuerzo
-- Cabello disciplinado; efecto anti-encrespamiento duradero sin uso del secador
-- Modo de empleo: aplicar sobre el cabello mojado y aclarar con abundante agua
-- El champú Rizos Pro de Syoss es adecuado para cabellos rizados
 - Cabello como recién salido de la peluquería
+- Modo de empleo: aplicar sobre el cabello mojado y aclarar con abundante agua
+- Cabello disciplinado; efecto anti-encrespamiento duradero sin uso del secador
+- El champú Rizos Pro de Syoss es adecuado para cabellos rizados
+- Champú para una definición e hidratación adecuada; desarrollado para obtener ondas y rizos naturales sin esfuerzo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08F5RWT92/?tag=tolees-21)

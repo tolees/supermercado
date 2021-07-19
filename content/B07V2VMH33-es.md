@@ -29,9 +29,9 @@ En este momento está [Fenteer - Niños Sofá De Felpa Cubierta De Asiento Encan
 🔎:
 
 - Notado - El precio es solo la tapa, no con relleno. Necesitas comprar guata de algodón PP y llenarlo desde detrás de la abertura.
-- Hecho de tela de terciopelo resistente, material sanitario y cómodo, seguro para el bebé.
-- Apto para niños de 6 meses a 8 años o menores de 60 kg.
 - Tamaño del asiento de la silla: 50x50cm / 20x20inch
+- Hecho de tela de terciopelo resistente, material sanitario y cómodo, seguro para el bebé.
 - Plush Animal Shape Kids Seat Sofá Cubierta Muebles Sillón Silla de bebé Bean Bag.
+- Apto para niños de 6 meses a 8 años o menores de 60 kg.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07V2VMH33/?tag=tolees-21)

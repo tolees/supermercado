@@ -28,10 +28,10 @@ En este momento está [Magno - Gel de Ducha Black Energy - 6uds de 650ml  3.900m
 
 🔎:
 
-- Magno te sorprenderá con su fragancia para hombres Magno Black
+- Aplicar sobre la piel previamente mojada y masajear con las manos o con la ayuda de una esponja; aclarar con abundante agua
 - Viene con una fórmula cremosa; es adecuado para cuidado diario
 - Fragancia masculina energizante de toques cítricos
 - El gel de ducha Magno Black Energy cuenta con una combinación de toques silvestres y hierbas aromática
-- Aplicar sobre la piel previamente mojada y masajear con las manos o con la ayuda de una esponja; aclarar con abundante agua
+- Magno te sorprenderá con su fragancia para hombres Magno Black
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WMWFCX8/?tag=tolees-21)
