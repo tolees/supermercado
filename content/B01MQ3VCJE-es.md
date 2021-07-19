@@ -28,10 +28,10 @@ En este momento está [Purina Felix Le Ghiottonerie - Guilloterias húmedas para
 
 🔎:
 
-- Fuente de ácidos grasos y Omega 6
 - Encantadores bocadillos en una suculenta gelatina
-- Alimento completo y equilibrado para gatos adultos
+- Fuente de ácidos grasos y Omega 6
 - Con ingredientes cuidadosamente seleccionados
+- Alimento completo y equilibrado para gatos adultos
 - Combinación justa de minerales equilibrados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MQ3VCJE/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Príncipe Galletas Estrellas Chocolate con Leche  6 Bolsitas  225g](http
 
 ℹ️:
 
-- Galletas con delicioso chocolate con leche en forma de estrella
-- Práctico formato de 6 paquetes para llevar, ideal para la merienda
-- Conservar en lugar fresco y seco
 - Su textura crujiente e inimitable sabor a chocolate con leche son de otra galaxia
+- Práctico formato de 6 paquetes para llevar, ideal para la merienda
 - Alérgenos: huevos, leche, frutos de cáscara, harina de trigo
+- Conservar en lugar fresco y seco
+- Galletas con delicioso chocolate con leche en forma de estrella
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DUW8J20/?tag=tolees-21)
