@@ -29,9 +29,9 @@ Está [Knockando Whisky escocés puro de malta de Speyside - 0.7 L](https://www.
 ℹ️:
 
 - perfecto como un regalo
-- Color: Ámbar claro.
 - Nariz: frutal, floral, con toques de grosella negra.
-- Sabor: Ligero, agradable, dulce, notas de acidez, almendras.
 - Acabado: Larga duración.
+- Color: Ámbar claro.
+- Sabor: Ligero, agradable, dulce, notas de acidez, almendras.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001TOEMYQ/?tag=tolees-21)

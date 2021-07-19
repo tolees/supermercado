@@ -28,10 +28,10 @@ Tienes [Bahama Ambientador y Desodorante Nevera y Lavavajillas como Accesorio Co
 
 ℹ️:
 
-- 🌲¡ SENCILLO FUNCIONAMIENTO! Rellena el Desodorizante con Bicarbonato de Sodio y Colócalo dentro de tu Nevera y Frigorífico. Si además quieres dar un toque fresco al abrir la nevera, exprime medio limón dentro del producto para lograr un aroma fresco.
-- 🌲 ¡ MATERIAL SEGURO! Apto para Alimetos y libre de BPA. Ayuda mas al medio ambiente que la utilización de productos químicos.
 - 🌲¡ MANTEN TU NEVERA LIBRE DE OLORES! Las personas somos aprensivas al olor fuerte de muchos alimentos , con la ayuda del desodorizante para neveras podrás dejar de experimentar esta sensación desde el instante que coloques el producto.
-- 🌲 ¡ DISEÑO ORIGINAL Y DIVERTIDO! Dale un toque original a tu nevera al mismo tiempo que disfruta de la ventaja de tenerla libre de cualquier olor. Su diseño entrega un resultado de aspecto divertido. No ocupa mucho espacio con lo que puede colocarse en cualquier rincón de la nevera.
+- 🌲 ¡ MATERIAL SEGURO! Apto para Alimetos y libre de BPA. Ayuda mas al medio ambiente que la utilización de productos químicos.
+- 🌲¡ SENCILLO FUNCIONAMIENTO! Rellena el Desodorizante con Bicarbonato de Sodio y Colócalo dentro de tu Nevera y Frigorífico. Si además quieres dar un toque fresco al abrir la nevera, exprime medio limón dentro del producto para lograr un aroma fresco.
 - 🌲 ¡ REUTILIZABLE ! Puedes lavarlo en el lavavajillas y recambiar el Bicarbonato de Sodio 1 vez al mes.
+- 🌲 ¡ DISEÑO ORIGINAL Y DIVERTIDO! Dale un toque original a tu nevera al mismo tiempo que disfruta de la ventaja de tenerla libre de cualquier olor. Su diseño entrega un resultado de aspecto divertido. No ocupa mucho espacio con lo que puede colocarse en cualquier rincón de la nevera.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B099KD5QPF/?tag=tolees-21)

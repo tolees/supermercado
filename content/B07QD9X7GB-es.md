@@ -28,10 +28,10 @@ Ahora mismo tienes [Finish Pastilles Lave-Vaisselle Powerball All in One 0% - 40
 
 🔎:
 
-- Desde el 30 de junio de 2021 a las 8 horas, se han vendido 311 unidades de este artículo (solo unidades vendidas y enviadas por Amazon)
-- Protección antical de la máquina
-- Artículo en sueldo. Este artículo se reproduce dentro del número de unidades que se indica a continuación. Una vez vendidas estas unidades, este artículo ya no se saldrá.
 - Limpia incluso las manchas más rebeldes
+- Artículo en sueldo. Este artículo se reproduce dentro del número de unidades que se indica a continuación. Una vez vendidas estas unidades, este artículo ya no se saldrá.
+- Desde el 30 de junio de 2021 a las 8 horas, se han vendido 311 unidades de este artículo (solo unidades vendidas y enviadas por Amazon)
 - La nueva gama Finish 0% aprovecha su eficacia en la naturaleza y el respeto del medio ambiente. Finish 0% te ofrece un rendimiento de limpieza idéntico a las tabletas Finish All In One Max, Finish 0% no contiene pasta de fosfatos, perfumes y coco
+- Protección antical de la máquina
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QD9X7GB/?tag=tolees-21)
