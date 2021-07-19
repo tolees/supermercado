@@ -29,9 +29,9 @@ Tienes [Vileda Microfibras y algodón - Recambio para fregona  ideal para suelos
 ℹ️:
 
 - La perfecta combinación entre limpieza y absorción; más duradera y estable que las fregonas 100% MF
-- Contenido del envío: 1 x recambio de fregona Microfibras y algodón, cabezal Universal, lavable hasta 60°, peso 0.193 Kg, medidas: 11 x 28 x 9 cm, color blanco y azul
-- Los cordones blancos 100% Microfibras de poliéster (fibras sintéticas) tienen una gran capacidad de limpieza
 - Los cordones de azules de algodón (fibras naturales) aportan una gran capacidad de absorción y secando del suelo rápidamente
 - Ideal para suelos duros como mármol, su perfecta combinación la hace ideal para este tipo de suelos
+- Los cordones blancos 100% Microfibras de poliéster (fibras sintéticas) tienen una gran capacidad de limpieza
+- Contenido del envío: 1 x recambio de fregona Microfibras y algodón, cabezal Universal, lavable hasta 60°, peso 0.193 Kg, medidas: 11 x 28 x 9 cm, color blanco y azul
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00EVRDEB0/?tag=tolees-21)

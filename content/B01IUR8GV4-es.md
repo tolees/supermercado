@@ -28,9 +28,9 @@ Tienes [Purina Friskies Pienso para Perro Adulto Buey  Cereales y Verduras 15 Kg
 
 🔎:
 
-- Creado por nuestros expertos
 - Ayuda a mantener las defensas naturales
-- Alimento 100% completo y equilibrado
+- Creado por nuestros expertos
 - Alimento completo para perros adultos
+- Alimento 100% completo y equilibrado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01IUR8GV4/?tag=tolees-21)
