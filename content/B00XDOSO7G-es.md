@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Herbal Original  Pasta de Diente al 16.67 % de descuento'
-date: 2021-07-18 10:22:12
+date: 2021-07-20 07:15:34
 image: 'https://m.media-amazon.com/images/I/51-VUjJu0wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Colgate Herbal Original  Pasta de Dientes para Dientes y Enc
 
 🔎:
 
-- Consigue unos dientes y unas encías más sanos
-- Contiene extractos de hierbas naturales: menta, manzanilla, camomila, eucalipto
 - Contiene flúor y extractos de plantas
+- Contiene extractos de hierbas naturales: menta, manzanilla, camomila, eucalipto
+- Consigue unos dientes y unas encías más sanos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XDOSO7G/?tag=tolees-21)
