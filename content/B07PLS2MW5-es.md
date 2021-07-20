@@ -28,11 +28,11 @@ Tienes [Rexona Desodorante en spray Invisible Aqua  6 unidades  antitranspirante
 
 ℹ️:
 
-- Nuestra mejor protección contra residuos blancos y manchas amarillas
-- Rexona no te defraudará
-- Desodorante en spray sin alcohol
-- Desodorante con 48 horas de protección contra el olor corporal y la humedad de las axilas
-- Protege la ropa: el blanco permanece blanco, el negro sigue siendo negro
 - Con la tecnología probada MotionSense: cuanto más se mueve, más protege
+- Nuestra mejor protección contra residuos blancos y manchas amarillas
+- Desodorante con 48 horas de protección contra el olor corporal y la humedad de las axilas
+- Desodorante en spray sin alcohol
+- Protege la ropa: el blanco permanece blanco, el negro sigue siendo negro
+- Rexona no te defraudará
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07PLS2MW5/?tag=tolees-21)
