@@ -29,9 +29,9 @@ Ahora mismo tienes [Ardmore Legacy Single Malt Escoces Peated Whisky  40% - 700 
 🔎:
 
 - Final: un final duradero de humo de turba, con un poco de cebada molida para una buena medida
-- En su esencia, el legado de Ardmore está hecho con 80 % de pelado y 20 % de malta no pelado
 - Boca: Más notas ahumadas y ahumadas, unidas por un roble seco, gotas de pera y sutiles toques herbáceos
 - Ardmore celebra la ubicación única de la destilería en la periferia de las Highlands, ofreciendo un whisky ligeramente picado que es dulce y estimulante
 - Nariz: se inclina más en el lado salado que en el dulce, con un carbón de barbacoa y notas terrosas por adelantado. Dulce canela, miel fresca y caramelo de vainilla flota en los puntos
+- En su esencia, el legado de Ardmore está hecho con 80 % de pelado y 20 % de malta no pelado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00OGMTNT2/?tag=tolees-21)

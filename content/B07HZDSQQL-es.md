@@ -28,9 +28,9 @@ Ahora mismo tienes [The Famous Grouse Ruby Cask Escoces Whisky  40% - 700 ml](ht
 
 🔎:
 
-- Ha sido dejado descansar en barricas especialmente seleccionadas, sazonadas con vino Oporto
-- Suavidad clásica, pero con una capa de rico dulzor de pastel de frutas gracias a las barricas de Oporto
 - El Whisky Blended Premium para uso cotidiano con un acabado de barril de Oporto
 - Volumen de líquido: 700 ml
+- Ha sido dejado descansar en barricas especialmente seleccionadas, sazonadas con vino Oporto
+- Suavidad clásica, pero con una capa de rico dulzor de pastel de frutas gracias a las barricas de Oporto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HZDSQQL/?tag=tolees-21)
