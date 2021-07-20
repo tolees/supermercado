@@ -28,8 +28,8 @@ Está [Mery 0440.01 - Fregona microfibras  color lima y morado](https://www.amaz
 
 ℹ️:
 
+- Adaptable a todos los palos estándar
 - 100% microfibras
 - Resistente a la lejía
-- Adaptable a todos los palos estándar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XGZPPZZ/?tag=tolees-21)

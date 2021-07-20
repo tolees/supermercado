@@ -29,7 +29,7 @@ Ahora mismo tienes [Colgate Herbal Original  Pasta de Dientes para Dientes y Enc
 🔎:
 
 - Contiene flúor y extractos de plantas
-- Contiene extractos de hierbas naturales: menta, manzanilla, camomila, eucalipto
 - Consigue unos dientes y unas encías más sanos
+- Contiene extractos de hierbas naturales: menta, manzanilla, camomila, eucalipto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XDOSO7G/?tag=tolees-21)
