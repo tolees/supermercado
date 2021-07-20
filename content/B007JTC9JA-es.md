@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo - Mini Ositos Oro  Estuche de 100 al 0.00 % de rebaja'
-date: 2021-07-12 19:18:08
+date: 2021-07-20 18:35:18
 image: 'https://m.media-amazon.com/images/I/618+wzXKJ8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -31,7 +31,7 @@ Tienes [Haribo - Mini Ositos Oro  Estuche de 100 Bolsitas  1000 gr.](https://www
 - Caramelos desde Holanda.
 - Caramelos Haribo.
 - jellybeansGrageas.
-- Caramelos holandeses.és
 - Haribo
+- Caramelos holandeses.és
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007JTC9JA/?tag=tolees-21)
