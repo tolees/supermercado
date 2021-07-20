@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Sipsmith London Dry Gin Ginebra  41.6% - al 16.08 % de rebaja'
-date: 2020-05-06 15:39:43
-image: 'https://m.media-amazon.com/images/I/41XAZ7ScrGL._SL400_.jpg'
+title: 'Sipsmith London Dry Gin Ginebra  41.6%   al 30.06 % de rebaja'
+date: 2021-07-20 09:15:14
+image: 'https://m.media-amazon.com/images/I/3110z59cfSS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B004EAIWMA-es Sipsmith London Dry Gin Ginebra 41.6% -700 ml'
+slug: 'B004EAIWMA-es Sipsmith London Dry Gin Ginebra 41.6% 700ml'
 sku: 'B004EAIWMA-es'
-tags: [ 'ginebra', ]
-actualPrice: 29.17 EUR
+tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Ginebras','ginebra','sipsmith', ]
+actualPrice: 24.31 EUR
 currency: EUR
-price: 29.17
+price: 24.31
 comparePrice: 34.76 EUR
-prodname: 'Sipsmith London Dry Gin Ginebra  41.6% -700 ml'
+prodname: 'Sipsmith London Dry Gin Ginebra  41.6%  700ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Sipsmith'
 buyurl: 'https://www.amazon.es/dp/B004EAIWMA/?tag=tolees-21'
-descuento: '16.08'
-average: '29.69666666666667'
+descuento: '30.06'
+average: '28.35'
 ---
 
-Tienes [Sipsmith London Dry Gin Ginebra  41.6% -700 ml](https://www.amazon.es/dp/B004EAIWMA/?tag=tolees-21) con precio final de  29.17 EUR (original: 34.76 EUR) (16.08 %  de rebaja) aqui!
+Tienes [Sipsmith London Dry Gin Ginebra  41.6%  700ml](https://www.amazon.es/dp/B004EAIWMA/?tag=tolees-21) con precio final de  24.31 EUR (original: 34.76 EUR) (30.06 %  de rebaja) aqui!
 
-[![Sipsmith London Dry Gin Ginebra  41.6% -](https://m.media-amazon.com/images/I/41XAZ7ScrGL._SL400_.jpg)](https://www.amazon.es/dp/B004EAIWMA/?tag=tolees-21)
+[![Sipsmith London Dry Gin Ginebra  41.6%  ](https://m.media-amazon.com/images/I/3110z59cfSS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B004EAIWMA/?tag=tolees-21)
 
 🔎:
 
+- Elaborada en pequeñas cantidades y de manera clásica; diez ingredientes botánicos maceran durante toda la noche para producir este London Dry de forma tradicional
+- En nariz es increíblemente suave, equilibrada y con mucha personalidad; con notas florales y cítricas que aportan frescura
+- Ginebra artesanal premium de aspecto limpio y brillante; con la expresión audaz, compleja y aromática de una ginebra tradicional
+- En paladar predominan los toques cítricos de la naranja y el enebro, que es protagonista; tiene un final con notas de limón
+- Este Dry Gin es perfecto para tomar como Gin Tonic con mucho hielo o como ingrediente de un suave Martini, rico y equilibrado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004EAIWMA/?tag=tolees-21)

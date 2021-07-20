@@ -28,8 +28,8 @@ Está [Dph Dentr Colgate Encias 75 Ml Detox 500 g](https://www.amazon.es/dp/B086
 
 ℹ️:
 
-- Contra la caries
 - Refresca el aliento
+- Contra la caries
 - Suaviza y fortalece las encías
 - Elaborado con ingredientes naturales
 
