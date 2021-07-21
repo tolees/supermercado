@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAMPOS  conservas de atún en aceite de g al 0.00 % de descuento'
-date: 2021-07-15 08:15:49
+date: 2021-07-21 19:54:32
 image: 'https://m.media-amazon.com/images/I/51KOr2ID2iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Está [CAMPOS  conservas de atún en aceite de girasol 80 g](https://www.amazon.
 
 ℹ️:
 
-- Advertencia de seguridad: Una vez abierto consumir en su totalidad
 - Ingredientes: Ingredientes: Atún claro (especie: ver lata) (pescado) aceite de girasol y sal
-- Método de pesca: cerco; ver especie y zona de pesca en la lata
-- Lata individuales, con tapa fácil apertura
-- Conserva de atún en aceite de girasol
-- Instrucciones para su uso adecuado: Mantener en lugar fresco y seco
 - Lata ideal para consumo individual
+- Instrucciones para su uso adecuado: Mantener en lugar fresco y seco
 - País de origen: España, producto natural sin conservantes ni colorantes
+- Lata individuales, con tapa fácil apertura
+- Método de pesca: cerco; ver especie y zona de pesca en la lata
+- Conserva de atún en aceite de girasol
+- Advertencia de seguridad: Una vez abierto consumir en su totalidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FY4ZHZ1/?tag=tolees-21)
