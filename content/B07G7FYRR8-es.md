@@ -28,10 +28,10 @@ En este momento está [Kärcher Fregona Eléctrica FC 5 con cable  460 W  1.055-
 
 🔎:
 
-- Reduce a la mitad el tiempo de limpieza y gracias a la escasa humedad residual el suelo seca en menos de 2 minutos
-- Friega gracias a constante la rotación de los rodillos de microfibra que se humedecen automáticamente con agua limpia
-- Friega y aspira en un solo paso todo tipo de suelos
 - la función de aspirado permite fregar sin aspirado previo y mantiene limpios los rodillos
+- Friega gracias a constante la rotación de los rodillos de microfibra que se humedecen automáticamente con agua limpia
 - Esta versión con cable permite una limpieza ilimitada; rendimiento de 60 m2 por depósito
+- Reduce a la mitad el tiempo de limpieza y gracias a la escasa humedad residual el suelo seca en menos de 2 minutos
+- Friega y aspira en un solo paso todo tipo de suelos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G7FYRR8/?tag=tolees-21)
