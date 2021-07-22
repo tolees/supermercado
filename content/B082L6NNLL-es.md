@@ -28,11 +28,11 @@ Está [Neutrogena Spot Controlling Gel Limpiador Facial  con Ácido Salicílico 
 
 ℹ️:
 
-- Su fórmula exfoliante acelera el proceso de renovación natural de la piel, dejándola lisa, tersa y suave
 - Esta crema ha sido clínicamente probada y es adecuada para pieles sensibles
-- Este limpiador refuerza la barrera natural de la piel para prevenir la aparición de nuevos brotes; es adecuado para pieles sensibles
 - Gracias a su tecnología ClearDefend, esta fórmula limpiadora combate las imperfecciones penetrando en el poro en profundidad, mientras respeta los nutrientes esenciales de la piel
+- Su fórmula exfoliante acelera el proceso de renovación natural de la piel, dejándola lisa, tersa y suave
 - Este limpiador, probado clínicamente, es óptimo para el uso diario; se debe aplicar dos veces al día sobre el rostro húmedo para conseguir una piel visiblemente más limpia y libre de granos
+- Este limpiador refuerza la barrera natural de la piel para prevenir la aparición de nuevos brotes; es adecuado para pieles sensibles
 - El limpiador facial Spot Controlling de Neutrogena ayuda a eliminar los brotes desde la primera aplicación, protegiendo las defensas de la piel para obtener como resultado una piel libre de granos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082L6NNLL/?tag=tolees-21)
