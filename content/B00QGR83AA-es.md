@@ -29,8 +29,8 @@ En este momento está [Pompadour Té Premium Selection Teekanne  180 Bolsitas](h
 🔎:
 
 - Selección de 12 variedades de infusiones
-- Bolsitas de té individuales, selladas
 - Paquete de 180 bolsitas con envueltas herméticas
 - Para disfrutar de momentos únicos de aroma
+- Bolsitas de té individuales, selladas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00QGR83AA/?tag=tolees-21)
