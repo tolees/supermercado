@@ -28,9 +28,9 @@ Tienes [Purina Cat Chow Esterilizado Gato Adulto Pollo 15 Kg](https://www.amazon
 
 🔎:
 
-- Nuestra receta es rica en pavo y fuentes de proteína especialmente seleccionadas por su calidad para satisfacer las necesidades naturales de los gatos
 - La fórmula Purina CAT Chow NaturiumTM es una combinación específica de fibras de fuentes naturales
 - Ayuda a controlar la formación de bolas de pelo de tu gato, mantener una buena higiene oral y un tracto urinario saludable con esta fórmula tres en uno
+- Nuestra receta es rica en pavo y fuentes de proteína especialmente seleccionadas por su calidad para satisfacer las necesidades naturales de los gatos
 - Cuidadosamente elaborada con ingredientes naturales (perejil, espinacas, zanahoria, cereales integrales, achicoria y levaduras) en una sabrosa receta que los gatos prefieren de forma espontánea
 - Desde 1926, los expertos de Purina han empleado su conocimiento de los requisitos naturales de las mascotas para contribuir a una vida saludable y un bienestar general a través de una nutrición completa
 
