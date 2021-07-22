@@ -28,9 +28,9 @@ Tienes [TRESemmé Champú Botanique Coco sin sulfitos 6 x 685 ml](https://www.am
 
 🔎:
 
+- Cabello hidratado, suave y 10 veces fuerte
+- Hidrata tu cabello proporcionándole un extra de fuerza
 - Nutre y fortalece con extracto natural de leche de coco y aloe vera
 - Sin siliconas ni sin colorantes
-- Hidrata tu cabello proporcionándole un extra de fuerza
-- Cabello hidratado, suave y 10 veces fuerte
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089HV1WH9/?tag=tolees-21)

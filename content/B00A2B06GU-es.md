@@ -28,8 +28,8 @@ Está [Calvo - Mejillones en escabeche 14/19 piezas - De las Rías Gallegas - 69
 
 ℹ️:
 
+- Sabor Intenso
 - En escabeche
 - Gran calidad
-- Sabor Intenso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00A2B06GU/?tag=tolees-21)
