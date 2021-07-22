@@ -29,9 +29,9 @@ Tienes [WENKO DIE BESSERE IDEE - WENKO Espejo de pie para la cosmética con luz 
 🔎:
 
 - Espejo de cosmética de alta calidad con intensidad luminosa extremadamente alta gracias a los LEDs
-- Aumento de 5 veces para el uso cosmético
-- Tecnología LED con una vida útil muy larga y regulador integrado
 - Funciona con pilas (4 x AAA) o con cable USB incluido, las pilas no se suministran
 - Medidas (ancho x altura x profundidad): 20 x 34 x 13,5 cm, superficie de espejo (ancho/altura): 16,5 cm de Ø
+- Aumento de 5 veces para el uso cosmético
+- Tecnología LED con una vida útil muy larga y regulador integrado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NW7NGS9/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Rexona Desodorante en spray Shower Fresh  antitranspirante  
 
 🔎:
 
-- Para una sensación de ducha fresca.
-- 48 horas de protección contra el olor corporal y la humedad de las axilas.
-- Aroma fresco y discreto inspirado en la ropa de algodón recién lavada.
 - Cuanto más se mueve, más protege
+- Aroma fresco y discreto inspirado en la ropa de algodón recién lavada.
+- 48 horas de protección contra el olor corporal y la humedad de las axilas.
 - Con la tecnología probada motionsense.
+- Para una sensación de ducha fresca.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PLS2MVR/?tag=tolees-21)
