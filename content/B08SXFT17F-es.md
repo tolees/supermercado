@@ -28,10 +28,10 @@ Ahora mismo tienes [STARBUCKS Espresso Roast Café De Grano Entero De Tostado In
 
 🔎:
 
+- Café de grano entero de STARBUCKS con intensas notas a caramelo
+- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Los cafés de tostado intenso de STARBUCKS tienen más intensidad y carácter
 - Intenso y con un toque de caramelo, este café es el que más empleamos para nuestro latte
-- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
-- Café de grano entero de STARBUCKS con intensas notas a caramelo
 - Comprometidos con el abastecimiento ético de café al 100 % en colaboración con Conservation International
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08SXFT17F/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Glossco Frequent Use  Champú Suavidad y Brillo 1000 ml](
 
 🔎:
 
-- Tipo de producto - Champú
 - Marca - Glossco
+- Tipo de producto - Champú
 - Producto pensado para cualquier persona, ya sea hombre o mujer,
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076LYM58Z/?tag=tolees-21)
