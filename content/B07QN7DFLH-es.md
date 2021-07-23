@@ -30,7 +30,7 @@ Ahora mismo tienes [Rexona Active Pro+ Desodorante Antitranspirante Invisible  H
 
 - Protección eficaz 48h contra el sudor y el mal olor corporal
 - Único con tecnología de encapsulación patentada MotionSense que se activa con el movimiento
-- Nuestra mejor protección en formato spray para seguir en movimiento todo el día
 - Fresca y energizante fragancia a hierbabuena y almizcle
+- Nuestra mejor protección en formato spray para seguir en movimiento todo el día
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QN7DFLH/?tag=tolees-21)
