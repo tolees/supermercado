@@ -28,9 +28,9 @@ Está [Neutrogena Crema de Pies Secos y Agrietados  Ultra Hidratante  Pack 2 x 1
 
 ℹ️:
 
-- Desde el primer día, repara visiblemente los pies y los talones; su textura de aplicación fácil es perfecta para el cuidado diario
-- Su fórmula, rica en Glicerina y Vaselina, es altamente hidratante y retarda la pérdida de agua
 - Esta también contiene el Bisabolol, que alivia inmediatamente los pies que sufren, Vitamina B5 (DPantenol), que suaviza, y Linoleato de Vitamina E (o Tocoferol), que protege la piel
+- Su fórmula, rica en Glicerina y Vaselina, es altamente hidratante y retarda la pérdida de agua
+- Desde el primer día, repara visiblemente los pies y los talones; su textura de aplicación fácil es perfecta para el cuidado diario
 - La Crema de Pies Ultra Hidratante de Neutrogena está especialmente desarrollada para reparar los talones agrietados y proteger la barrera natural de la piel, consiguiendo unos pies sanos y suaves, y proporcionando una agradable sensación de alivio
 - Además, contiene Alantoína, un ingrediente que promueve y acelera los procesos de cicatrización natural de la piel; ayuda a la piel a regenerarse a sí misma para conseguir una mayor suavidad
 

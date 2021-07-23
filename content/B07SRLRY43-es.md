@@ -28,10 +28,10 @@ En este momento está [Nescafé DOLCE GUSTO Magnum Café CAPPUCCINO - Cápsulas 
 
 🔎:
 
-- El espresso es un café negro tostado hecho de una mezcla de Arábicas de Colombia y Brasil con un toque de Robusta asiática
-- Café cultivado con respeto por los productores, sus comunidades y el planeta.
 - La cápsula hermética conserva la frescura del café y la riqueza de sus aromas.
-- 45 cápsulas de café y 45 cápsulas de leche para 45 tazas (240 ml) de capuchino Dolce Gusto NESCAFE
 - Los ricos y potentes aromas de un café espresso intenso se encuentran con la dulzura y la textura cremosa de la espuma de leche entera.
+- El espresso es un café negro tostado hecho de una mezcla de Arábicas de Colombia y Brasil con un toque de Robusta asiática
+- 45 cápsulas de café y 45 cápsulas de leche para 45 tazas (240 ml) de capuchino Dolce Gusto NESCAFE
+- Café cultivado con respeto por los productores, sus comunidades y el planeta.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SRLRY43/?tag=tolees-21)

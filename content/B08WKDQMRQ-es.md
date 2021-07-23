@@ -28,10 +28,10 @@ En este momento está [Comodynes - Autobronceador Self Tanning Fresh Water  Cara
 
 🔎:
 
-- Transparente sin colorantes, no mancha al aplicar ni transfiere a la ropa
-- Agua autobronceadora progresiva e hidratante para cara y cuerpo, rica en antioxidantes y vitaminas
 - Recomendamos 6 pulsaciones sobre rostro, 6 en brazos, 12 en piernas y 12 en torso
-- Aplicar uniformemente sobre la piel del rostro y cuerpo perfectamente seca difuminando bien el producto, sobre todo a nivel de las articulaciones para evitar sobrecargas
 - Bronceado visible a partir de las 3 horas y gradual según su uso con intensidad modulable
+- Agua autobronceadora progresiva e hidratante para cara y cuerpo, rica en antioxidantes y vitaminas
+- Transparente sin colorantes, no mancha al aplicar ni transfiere a la ropa
+- Aplicar uniformemente sobre la piel del rostro y cuerpo perfectamente seca difuminando bien el producto, sobre todo a nivel de las articulaciones para evitar sobrecargas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WKDQMRQ/?tag=tolees-21)

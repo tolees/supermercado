@@ -28,11 +28,11 @@ Está [Rexona Desodorante en spray Active Morning  6 unidades de 150 ml ](https:
 
 ℹ️:
 
-- 48 horas de protección contra el olor corporal y la humedad de las axilas
 - Cuanto más se mueve, más protege
 - Comienza con el antitranspirante Rexona Active Morning fresco al día
-- Con la tecnología probada motionsense
 - Una fragancia refrescante y fresca de melocotón y frambuesa
+- Con la tecnología probada motionsense
 - Rexona no te defraudará
+- 48 horas de protección contra el olor corporal y la humedad de las axilas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PLS2MW6/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Purina DentaLife Snack Dental para Gato con Sabor a Salm�
 
 🔎:
 
-- Científicamente probado que reduce la acumulación de Sarro
 - Ingredientes nutritivos con sabroso salmón
-- Contiene calcio, taurina y sin colorantes nio azucares añadidos
+- Científicamente probado que reduce la acumulación de Sarro
 - Bajo en grasas
+- Contiene calcio, taurina y sin colorantes nio azucares añadidos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SB8DDXZ/?tag=tolees-21)
