@@ -28,9 +28,9 @@ Está [TRESemmé Acondicionador Botanique Coco sin sulfitos 6 x 685 ml](https://
 
 ℹ️:
 
-- Cabello hidratado, suave y 10 veces fuerte
-- Sin siliconas ni sin colorantes
 - Nutre y Fortalece con extracto natural de leche de coco y aloe vera
+- Sin siliconas ni sin colorantes
 - Hidrata tu cabello proporcionándole un extra de fuerza
+- Cabello hidratado, suave y 10 veces fuerte
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089HTDBD6/?tag=tolees-21)
