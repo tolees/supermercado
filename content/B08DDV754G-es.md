@@ -28,9 +28,9 @@ Tienes [Ruffles York Eso 160 g - Pack de 19](https://www.amazon.es/dp/B08DDV754G
 
 🔎:
 
+- Paquete de 19 bolsas
+- Patatas fritas
 - Con sabor Jamón y Queso
 - Bolsa de 160 gramos
-- Patatas fritas
-- Paquete de 19 bolsas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DDV754G/?tag=tolees-21)

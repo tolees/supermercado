@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mic&Friends - Paté Con Pollo - Alimento  al 0.00 % de descuento'
-date: 2021-07-11 15:41:09
+date: 2021-07-24 11:16:45
 image: 'https://m.media-amazon.com/images/I/513WBiRphyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Mic&Friends - Paté Con Pollo - Alimento Completo para Perros - 300 g](ht
 
 ℹ️:
 
+- Se debe conservar en un lugar fresco y seco
 - Puede contener Gluten o presencia de cereales que contienen gluten
 - Una vez abierto conservar en el frigorífico y consumir en dos días
 - Contiene Vitamina E
-- Se debe conservar en un lugar fresco y seco
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XAA6VO6/?tag=tolees-21)
