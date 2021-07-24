@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eudermin - Crema de manos protectora  30 al 0.00 % de rebaja'
-date: 2021-07-05 07:40:28
+date: 2021-07-24 07:15:34
 image: 'https://m.media-amazon.com/images/I/41MURlqPFIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Eudermin'
 buyurl: 'https://www.amazon.es/dp/B00XDWG4PC/?tag=tolees-21'
 descuento: '0.00'
-average: '0.885000000000001'
+average: '0.891764705882354'
 ---
 
 Tienes [Eudermin - Crema de manos protectora  30 ml](https://www.amazon.es/dp/B00XDWG4PC/?tag=tolees-21) con precio final de  1.0 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
