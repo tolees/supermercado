@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nescafé DOLCE GUSTO CAFÉ CON LECHE DELIC al 18.21 % de rebaja'
-date: 2021-06-29 19:48:26
+date: 2021-07-24 10:04:50
 image: 'https://m.media-amazon.com/images/I/41q9ADZLSeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nescafé Dolce Gusto'
 buyurl: 'https://www.amazon.es/dp/B089BFBLDK/?tag=tolees-21'
 descuento: '18.21'
-average: '11.3152941176473'
+average: '11.3320000000002'
 ---
 
 Tienes [Nescafé DOLCE GUSTO CAFÉ CON LECHE DELICATO - Pack De 3 x 16 cápsulas - Total: 48 Cápsulas](https://www.amazon.es/dp/B089BFBLDK/?tag=tolees-21) con precio final de  11.9 EUR (original: 14.55 EUR) (18.21 %  de rebaja) aqui!
@@ -30,8 +30,8 @@ Tienes [Nescafé DOLCE GUSTO CAFÉ CON LECHE DELICATO - Pack De 3 x 16 cápsulas
 
 - Cápsulas de café inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Un café equilibrado y con notas a cereal con una sedosa capa de crema que marca la personalidad de nuestro delicioso Café con leche
+- Ingredientes: Ingredientes: LECHE EN POLVO (73,5%), café soluble (13,7%), azúcar (12,8%), estabilizadores (fosfato dipotásico, citrato trisódico), emulgente (LECITINA DE SOJA); información de alérgenos: milk
 - Cápsulas 100 % reciclables depositándolas en nuestros puntos de recogida Nescafé Dolce Gusto
 - Café de cuerpo generoso y coronado por una cremosa capa de leche que combina con la riqueza de aromas de un suave tostado
-- Ingredientes: Ingredientes: LECHE EN POLVO (73,5%), café soluble (13,7%), azúcar (12,8%), estabilizadores (fosfato dipotásico, citrato trisódico), emulgente (LECITINA DE SOJA); información de alérgenos: milk
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089BFBLDK/?tag=tolees-21)
