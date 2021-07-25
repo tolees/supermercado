@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L OR Espresso Coffee Onyx Noir Intensity al 20.00 % de descuento'
-date: 2021-07-24 12:08:25
+date: 2021-07-25 20:22:44
 image: 'https://m.media-amazon.com/images/I/41et9UozuZS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [L OR Espresso Coffee Onyx Noir Intensity 12 - Cápsulas de c
 
 🔎:
 
-- Cada paquete individual contiene 40 cápsulas de aluminio (10 paquetes x 40 cápsulas = 400 cápsulas en total)
 - Adecuado para ristretto o espresso
-- Certificado UTZ
 - Intensidad: 12
 - Intenso potente pronunciado
+- Cada paquete individual contiene 40 cápsulas de aluminio (10 paquetes x 40 cápsulas = 400 cápsulas en total)
+- Certificado UTZ
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B095J6WBY2/?tag=tolees-21)
