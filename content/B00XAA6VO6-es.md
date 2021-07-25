@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mic&Friends - Paté Con Pollo - Alimento  al 0.00 % de descuento'
-date: 2021-07-24 11:16:45
+date: 2021-07-25 21:43:18
 image: 'https://m.media-amazon.com/images/I/513WBiRphyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
