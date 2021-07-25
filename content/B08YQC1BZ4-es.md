@@ -28,10 +28,10 @@ Tienes [Ariel Pods Detergente Lavadora Cápsulas  100 Lavados  Pack 2 x 50   Act
 
 🔎:
 
-- Limpieza profunda; eficaz en frío (incluso a 30ºC); resultados increíbles con una sola cápsula de detergente concentrado
 - Para un resultado óptimo, combínalo con Lenor UNstoppables perlas de perfume para la ropa
 - Depositar la cápsula en el tambor de la lavadora antes de la ropa
 - Detergente lavadora con tecnología Odor Active que elimina los malos olores
 - El recubrimiento de la cápsula se disuelve totalmente al entrar en contacto con el agua
+- Limpieza profunda; eficaz en frío (incluso a 30ºC); resultados increíbles con una sola cápsula de detergente concentrado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08YQC1BZ4/?tag=tolees-21)
