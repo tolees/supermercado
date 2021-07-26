@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDKEN Champú All Soft para Cabellos Des con un 27.44 % de descuento'
-date: 2021-07-24 16:54:38
+date: 2021-07-26 10:52:27
 image: 'https://m.media-amazon.com/images/I/41YlmDmyljL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
