@@ -28,10 +28,10 @@ En este momento está [PATO® - WC Power Lejía Fragancia Marine  Limpiador Quit
 
 🔎:
 
-- Producto útil y práctico
-- Producto de alta calidad
-- Líquido sanitario para el tanque de aguas residuales
 - Efecto Inmediato
+- Producto de alta calidad
+- Producto útil y práctico
 - Ayuda a romper las heces y descomponer el papel higiénico
+- Líquido sanitario para el tanque de aguas residuales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07B3ZQPLC/?tag=tolees-21)

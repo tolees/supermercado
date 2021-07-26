@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDKEN Champú Blondage para el Cuidado d al 29.07 % de descuento'
-date: 2021-07-24 13:20:01
+date: 2021-07-26 08:15:41
 image: 'https://m.media-amazon.com/images/I/41QdNSFDnLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
