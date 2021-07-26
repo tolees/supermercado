@@ -28,9 +28,9 @@ En este momento está [REDKEN Champú All Soft para Cabellos Deshidratados  300 
 
 🔎:
 
-- Limpia el cabello con delicadeza
+- Aporta estructura al cabello reteniendo la hidratación
 - Suaviza el cabello seco y frágil
 - Nutre el cabello desde la raíz hasta las puntas
-- Aporta estructura al cabello reteniendo la hidratación
+- Limpia el cabello con delicadeza
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08Y1CYNF3/?tag=tolees-21)

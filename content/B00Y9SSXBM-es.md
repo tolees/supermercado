@@ -28,11 +28,11 @@ Tienes [PURINA Pro Plan - Purina ProPlan Medium Derma pienso para Perro Adulto S
 
 🔎:
 
-- Alimento completo para cachorros de razas pequeñas y miniatura con piel sensible. También es adecuado para perras en gestación / lactancia
-- Favorece el mantenimiento de un sistema inmunitario fuerte
-- Clínicamente probado que favorece una piel saludable y que ayuda a tu cachorro a mantener un pelaje brillante
-- Contiene proteínas del salmón de alta calidad que ayuda en su camino hacia la etapa adulta
-- Contiene fuentes seleccionadas de proteína para ayudar a reducir las posibles reacciones cutáneas asociadas a la sensibilidad alimentaria
 - Una combinación de nutrientes clave que favorece unas articulaciones saludables para el estilo de vida activo de su cachorro
+- Alimento completo para cachorros de razas pequeñas y miniatura con piel sensible. También es adecuado para perras en gestación / lactancia
+- Contiene proteínas del salmón de alta calidad que ayuda en su camino hacia la etapa adulta
+- Clínicamente probado que favorece una piel saludable y que ayuda a tu cachorro a mantener un pelaje brillante
+- Contiene fuentes seleccionadas de proteína para ayudar a reducir las posibles reacciones cutáneas asociadas a la sensibilidad alimentaria
+- Favorece el mantenimiento de un sistema inmunitario fuerte
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00Y9SSXBM/?tag=tolees-21)

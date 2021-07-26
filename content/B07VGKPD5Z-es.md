@@ -28,10 +28,10 @@ Tienes [Oïléna - Aceite de Hierba de San Juan. Macerado de Hipérico en Aceite
 
 ℹ️:
 
-- 🏺 ACEITE FACIAL: para curar heridas o tratar el acné. Bote reforzado que impide la acción de la luz y del aire, prolongando la vida útil del producto. Con dispensador para aplicar la cantidad justa.
-- El aceite oleato de la Hierba de San Juan es especialmente indicado para tratar pieles alérgicas y/o irritadas, quemaduras leves y para el cuidado de pieles secas y ásperas.
-- 🏺 ACEITE PURO: 100 gramos de flores de Hierba de San Juan para 1 litro de aceite de oliva. Aceite de masaje, hidratante y antiinflamatorio natural para tratar los problemas de la piel. Uso tópico para la cara y el cuerpo.
 - La Hierba de San Juan juega un papel predominante en la cosmética natural y sus beneficios son ampliamente conocidos a la hora de aliviar los síntomas de la piel seca.
+- 🏺 ACEITE PURO: 100 gramos de flores de Hierba de San Juan para 1 litro de aceite de oliva. Aceite de masaje, hidratante y antiinflamatorio natural para tratar los problemas de la piel. Uso tópico para la cara y el cuerpo.
+- 🏺 ACEITE FACIAL: para curar heridas o tratar el acné. Bote reforzado que impide la acción de la luz y del aire, prolongando la vida útil del producto. Con dispensador para aplicar la cantidad justa.
 - 🏺 ACEITE ANTI-CICATRICES: efecto sedante, analgésico, antiinflamatorio y astringente. Se utiliza para la cicatrización de la piel, heridas y eccemas; en terapia de masajes, mitiga el dolor.
+- El aceite oleato de la Hierba de San Juan es especialmente indicado para tratar pieles alérgicas y/o irritadas, quemaduras leves y para el cuidado de pieles secas y ásperas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VGKPD5Z/?tag=tolees-21)
