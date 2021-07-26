@@ -28,8 +28,8 @@ Tienes [Caffè Borbone Café Respresso  Mezcla Roja - 100 Cápsulas - Compatible
 
 🔎:
 
-- Paquete de 100 Cápsulas
 - Mezcla Roja
+- Paquete de 100 Cápsulas
 - Compatibles Nespresso*
 - *Nespresso y *Nescafé *Dolce Gusto son marcas registradas de Societé des Produits Nestlé S.A. Caffè Borbone Srl es un productor independiente no vinculado a la Societé des Produits Nestlé S.A. Las cápsulas Caffè Borbone son compatibles con máquinas de café de uso doméstico Nespresso – Nescafé Dolce Gusto .
 
