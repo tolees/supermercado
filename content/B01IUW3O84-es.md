@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lay S Patatas Fritas Al Punto de Sal  16 al 14.84 % de rebaja'
-date: 2021-07-16 15:45:46
+date: 2021-07-26 06:28:29
 image: 'https://m.media-amazon.com/images/I/51K6JqIH+qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LayS'
 buyurl: 'https://www.amazon.es/dp/B01IUW3O84/?tag=tolees-21'
 descuento: '14.84'
-average: '1.16615384615385'
+average: '1.16333333333334'
 ---
 
 Tienes [Lay S Patatas Fritas Al Punto de Sal  160g](https://www.amazon.es/dp/B01IUW3O84/?tag=tolees-21) con precio final de  1.09 EUR (original: 1.28 EUR) (14.84 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Lay S Patatas Fritas Al Punto de Sal  160g](https://www.amazon.es/dp/B01
 
 🔎:
 
-- Conservar en lugar fresco y seco
 - Un vez abierto consumir antes de 7 días
 - Producto sin gluten
+- Conservar en lugar fresco y seco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01IUW3O84/?tag=tolees-21)
