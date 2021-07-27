@@ -28,9 +28,9 @@ Tienes [Rexona - Desodorante Antitranspirante Invisible Ice Fresh - Pack Ahorro 
 
 ℹ️:
 
-- Fresca y energizante fragancia a hierbabuena y almizcle
-- Nuestra mejor protección en formato spray para seguir en movimiento todo el día
 - Protección eficaz 48h contra el sudor y el mal olor corporal
+- Nuestra mejor protección en formato spray para seguir en movimiento todo el día
 - Único con tecnología de encapsulación patentada MotionSense que se activa con el movimiento
+- Fresca y energizante fragancia a hierbabuena y almizcle
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07RT5FPSH/?tag=tolees-21)

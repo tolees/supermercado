@@ -28,10 +28,10 @@ Ahora mismo tienes [Nivea Desmaquillador de Ojos Doble Acción  125ml](https://w
 
 🔎:
 
+- Desmaquillador bifásico - gracias a su fórmula bifásica, este limpiador facial desmaquilla los ojos de manera eficaz al tiempo que protege las pestañas
 - Contenido del envío: Nivea Desmaquillador de Ojos Doble Acción, limpieza rápida y suave del contorno de los ojos, 1 x 125 ml, botella
 - Fórmula eficaz - enriquecido con extracto de aciano, este producto desmaquillante de ojos elimina el maquillaje de larga duración y la máscara waterproof
-- Cuidado facial - este producto elimina el maquillaje rápida y suavemente, sin esfuerzo y sin necesidad de frotar, además, no contiene perfume
 - Efecto calmante - este desmaquillante limpiador de ojos ha sido desarrollado para la piel sensible del contorno de ojos y proporciona un efecto calmante
-- Desmaquillador bifásico - gracias a su fórmula bifásica, este limpiador facial desmaquilla los ojos de manera eficaz al tiempo que protege las pestañas
+- Cuidado facial - este producto elimina el maquillaje rápida y suavemente, sin esfuerzo y sin necesidad de frotar, además, no contiene perfume
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XJP77KE/?tag=tolees-21)
