@@ -28,10 +28,10 @@ Está [Vileda Windomatic - Aspirador de ventanas con labio de goma  limpiacrista
 
 ℹ️:
 
-- Mango ergonómico, depósito lavable en lavavajillas hasta 45º y óptima potencia de aspiración gracias a los 12 canales de aire y a la batería recargable de Li-ion de gran durabilidad
-- Para conseguir resultados impecables, es necesario limpiar la superficie con el limpiador que se prefiera y pasar el limpia ventanas Vileda en todas las direcciones para aspirar el agua y la suciedad
-- Medidas: 17.5 x 12 x 32 cm
-- Vileda Windomatic es una aspiradora limpiacristales con cuello flexible y batería extra duradera que permite limpiar hasta 120 ventanas, ofrece resultados impecables sin esfuerzo
 - El cabezal flexible optimiza el poder de succión tanto en los bordes como en las esquinas sin agacharse y el depósito de agua integrado y extraíble permite limpiar una superficie de hasta 60 m²
+- Medidas: 17.5 x 12 x 32 cm
+- Para conseguir resultados impecables, es necesario limpiar la superficie con el limpiador que se prefiera y pasar el limpia ventanas Vileda en todas las direcciones para aspirar el agua y la suciedad
+- Vileda Windomatic es una aspiradora limpiacristales con cuello flexible y batería extra duradera que permite limpiar hasta 120 ventanas, ofrece resultados impecables sin esfuerzo
+- Mango ergonómico, depósito lavable en lavavajillas hasta 45º y óptima potencia de aspiración gracias a los 12 canales de aire y a la batería recargable de Li-ion de gran durabilidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00LPHUTM6/?tag=tolees-21)
