@@ -28,10 +28,10 @@ Tienes [Krups Essential Máquina De Café Completa  1450 W  1.7 litros  Negro](h
 
 ℹ️:
 
-- Pantalla incorporada
+- Capacidad de reservorio de agua (1,8L)
 - Función anti goteo
 - Sistema antical automático
+- Pantalla incorporada
 - Molinillo integrado
-- Capacidad de reservorio de agua (1,8L)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00UTJQLZK/?tag=tolees-21)
