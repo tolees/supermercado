@@ -28,9 +28,9 @@ Tienes [TRESemmé Champú Botanique Hidratación sin sulfitos 6 x 685 ml](https:
 
 🔎:
 
+- Hidrata tu cabello haciendolobmanejable
+- Hidrata el cabello ondulado o rizado gracias al agua de cactus y el aceite de coco
 - Sin siliconas ni sin colorantes
 - Cabello hidratado y con un acabado natural
-- Hidrata el cabello ondulado o rizado gracias al agua de cactus y el aceite de coco
-- Hidrata tu cabello haciendolobmanejable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089HRPCKT/?tag=tolees-21)
