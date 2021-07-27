@@ -28,8 +28,8 @@ En este momento está [Haribo Phantasia Surtido de Caramelos de Goma  1000 gr](h
 
 🔎:
 
+- Delicioso mix de diferentes piezas
 - Surtido de caramelos de goma
 - Irresistible mix de sabores
-- Delicioso mix de diferentes piezas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00A58MTRE/?tag=tolees-21)
