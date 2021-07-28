@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'CAMELO - Café Cubano Torrefacto Molido   al 41.60 % de rebaja'
-date: 2021-07-02 12:14:46
-image: 'https://m.media-amazon.com/images/I/51F0JqP9AKL._SL500_._SL400_.jpg'
+title: 'CAMELO - Café Cubano Torrefacto Molido   al 0.00 % de rebaja'
+date: 2021-07-28 20:08:29
+image: 'https://m.media-amazon.com/images/I/5153IYYihDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -12,19 +12,19 @@ tags: [ 'Alimentación y bebidas','Café molido','Café y expreso','Café, té y
 actualPrice: 8.76 EUR
 currency: EUR
 price: 8.76
-comparePrice: 15.0 EUR
+comparePrice:  EUR
 prodname: 'CAMELO - Café Cubano Torrefacto Molido  4x 250gr. '
 country: 'es'
 flag: '🇪🇸'
 brand: 'CAMELO'
 buyurl: 'https://www.amazon.es/dp/B08JGBRK9F/?tag=tolees-21'
-descuento: '41.60'
+descuento: '0.00'
 average: '8.76'
 ---
 
-Tienes [CAMELO - Café Cubano Torrefacto Molido  4x 250gr. ](https://www.amazon.es/dp/B08JGBRK9F/?tag=tolees-21) con precio final de  8.76 EUR (original: 15.0 EUR) (41.60 %  de rebaja) aqui!
+Tienes [CAMELO - Café Cubano Torrefacto Molido  4x 250gr. ](https://www.amazon.es/dp/B08JGBRK9F/?tag=tolees-21) con precio final de  8.76 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
 
-[![CAMELO - Café Cubano Torrefacto Molido  ](https://m.media-amazon.com/images/I/51F0JqP9AKL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08JGBRK9F/?tag=tolees-21)
+[![CAMELO - Café Cubano Torrefacto Molido  ](https://m.media-amazon.com/images/I/5153IYYihDS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08JGBRK9F/?tag=tolees-21)
 
 🔎:
 

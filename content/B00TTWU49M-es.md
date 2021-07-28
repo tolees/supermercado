@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Farmatint Gel 4N Castaño | Color natural al 33.73 % de rebaja'
-date: 2020-02-01 00:47:36
-image: 'https://m.media-amazon.com/images/I/41pqRdk2aJL._AC_._SL400_.jpg'
+title: 'Farmatint Gel de Coloración Permanente 4 al 65.28 % de rebaja'
+date: 2021-07-28 20:39:32
+image: 'https://m.media-amazon.com/images/I/41pqRdk2aJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00TTWU49M-es Farmatint Gel 4N Castaño | Color natural y duradero |...'
+slug: 'B00TTWU49M-es Farmatint Gel de Coloración Permanente 4N Castaño - 135 ml'
 sku: 'B00TTWU49M-es'
-tags: [ 'farmatint', ]
-actualPrice: 4.48 EUR
+tags: [ 'Belleza','Coloración del cabello','Coloración permanente','Cuidado del cabello','farmatint', ]
+actualPrice: 2.5 EUR
 currency: EUR
-price: 4.48
-comparePrice: 6.76 EUR
-prodname: 'Farmatint Gel 4N Castaño | Color natural y duradero | Componentes vegetales y aceites naturales | Sin amoníaco | Sin parabenos | Dermatológicamente testado'
+price: 2.5
+comparePrice: 7.2 EUR
+prodname: 'Farmatint Gel de Coloración Permanente 4N Castaño - 135 ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'farmatint'
 buyurl: 'https://www.amazon.es/dp/B00TTWU49M/?tag=tolees-21'
-descuento: '33.73'
-average: '4.48'
+descuento: '65.28'
+average: '3.49'
 ---
 
-Tienes [Farmatint Gel 4N Castaño | Color natural y duradero | Componentes vegetales y aceites naturales | Sin amoníaco | Sin parabenos | Dermatológicamente testado](https://www.amazon.es/dp/B00TTWU49M/?tag=tolees-21) con precio final de  4.48 EUR (original: 6.76 EUR) (33.73 %  de rebaja) aqui!
+Tienes [Farmatint Gel de Coloración Permanente 4N Castaño - 135 ml](https://www.amazon.es/dp/B00TTWU49M/?tag=tolees-21) con precio final de  2.5 EUR (original: 7.2 EUR) (65.28 %  de rebaja) aqui!
 
-[![Farmatint Gel 4N Castaño | Color natural](https://m.media-amazon.com/images/I/41pqRdk2aJL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00TTWU49M/?tag=tolees-21)
+[![Farmatint Gel de Coloración Permanente 4](https://m.media-amazon.com/images/I/41pqRdk2aJL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00TTWU49M/?tag=tolees-21)
 
 🔎:
 
+- Única coloración que contiene Active Color Complex, un exclusivo bálsamo post coloración que gracias a su composición con 97,3% de ingredientes naturales y su filtro solar natural proporciona una protección del color y de la fibra capilar.
+- Lea las instrucciones de uso antes de utilizar el producto
+- Avanzada tecnología dermofarmacéutica con ingredientes vegetales de máxima calidad.
+- 100% cobertura de canas; sin amoníaco, sin Parabenes, sin Siliconas ni Parafinas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00TTWU49M/?tag=tolees-21)
