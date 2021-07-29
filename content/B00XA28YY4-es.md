@@ -28,8 +28,8 @@ Tienes [Gallo Harina de Trigo  1kg](https://www.amazon.es/dp/B00XA28YY4/?tag=tol
 
 🔎:
 
-- Especial Pizza, bizcochos, salsas, galletas, churros
-- Harina de trigo
 - Múltiples Usos
+- Harina de trigo
+- Especial Pizza, bizcochos, salsas, galletas, churros
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XA28YY4/?tag=tolees-21)
