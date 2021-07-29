@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Colgate Premier White Cepillo de Dientes'
-date: 2021-07-17 14:39:45
+date: 2021-07-29 10:40:25
 image: 'https://m.media-amazon.com/images/I/41INvpF9oNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
