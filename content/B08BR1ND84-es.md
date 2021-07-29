@@ -28,9 +28,9 @@ Tienes [HOCOSY - Cepillo para el Pelo  Masajeador Cuero Cabelludo  Peine Plásti
 
 🔎:
 
-- Peinado de la confusión: El resultado de la tecnología detrás de esta forma curva y cepillo flexible es una mejora de los puntos de contacto en la base de los folículos pilosos, estimula los aceites naturales del cuero cabelludo, un peinado brillante, suave y saludable.
-- Sensación y peso ligero: este juego de peines ofrece diferentes estilos que le permiten abrir fácilmente el cabello anudado sin tirar del cabello para causar daño.
 - Para todo tipo de cabello: mujer, hombre, niño o adulto, corto o largo, liso o rizado, grueso o fino, húmedo o seco.
+- Sensación y peso ligero: este juego de peines ofrece diferentes estilos que le permiten abrir fácilmente el cabello anudado sin tirar del cabello para causar daño.
+- Peinado de la confusión: El resultado de la tecnología detrás de esta forma curva y cepillo flexible es una mejora de los puntos de contacto en la base de los folículos pilosos, estimula los aceites naturales del cuero cabelludo, un peinado brillante, suave y saludable.
 - Buen material: la liberación de cabello aniónico activo cura eficazmente, promueve la circulación sanguínea, reduce la caspa y previene la caída del cabello.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BR1ND84/?tag=tolees-21)
