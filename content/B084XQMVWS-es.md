@@ -30,8 +30,8 @@ Tienes [Ymea Día y Noche | Control de Sofocos y Ayuda a Dormir Bien por la Noch
 
 - NO CONTIENE: estrógenos, soja o conservantes
 - Dormir bien por la noche - Ayuda a: aliviar los sudores nocturnos, a conciliar el sueño, a tener un sueño reparador y a despertarte bien descansada
-- Contiene una exclusiva mezcla de extractos de orifen natural, vitaminas y minerales
-- Apto para un uso prolongado
 - Control de los Sofocos - Ayuda a reducir los sofocos, los cambios de humor y la irritabilidad
+- Apto para un uso prolongado
+- Contiene una exclusiva mezcla de extractos de orifen natural, vitaminas y minerales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084XQMVWS/?tag=tolees-21)

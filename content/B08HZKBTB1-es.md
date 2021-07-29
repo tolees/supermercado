@@ -29,8 +29,8 @@ Está [Airesano Duroc Centro Jamón Duroc Merma 0 Block 5300 g](https://www.amaz
 ℹ️:
 
 - Centro Jamon de de Cerdos de cebo de raza: MADRE (Landrace con Largue White) y PADRE (100 % Duroc).
-- TRAZABILIDAD: Sigue el proceso de trazabilidad total propio de los productos Aire Sano que permite garantizar que se siguen los máximos estándares de calidad en todo momento.
-- CONSERVACIÓN: Conservar en lugar fresco y seco con un consumo preferentemente de 6 meses.
 - CARACTERÍSTICAS: Producto caracterizado por poseer filtraciones grasas, que aportan un óptimo sabor . Sin gluten, sin lactosa, sin conservantes añadidos y reducido en grasas saturadas.
+- CONSERVACIÓN: Conservar en lugar fresco y seco con un consumo preferentemente de 6 meses.
+- TRAZABILIDAD: Sigue el proceso de trazabilidad total propio de los productos Aire Sano que permite garantizar que se siguen los máximos estándares de calidad en todo momento.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HZKBTB1/?tag=tolees-21)
