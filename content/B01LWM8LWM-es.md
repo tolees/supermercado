@@ -28,11 +28,11 @@ En este momento está [Señorío de los Llanos Tempranillo – Vino Tinto D.O. V
 
 🔎:
 
-- Maridaje: Señorío de los Llanos Cosecha Tinto acompaña bien muchas comidas, especialmente adecuado para segundos de carne.
-- Aroma: Intensos aromas primarios de frutas del bosque con algunas notas lácticas.
 - Apariencia: Brillante color cereza con ribete morado.
 - Gusto: Volumen y equilibrio con taninos suaves que lo hacen muy agradable y fácil de beber.
-- Consumo: Recomendamos servir este Señorío de los Llanos Cosecha a una temperatura entre 12 y 14ºC.
 - Tipo de uva: Tempranillo, tinto cosecha.
+- Aroma: Intensos aromas primarios de frutas del bosque con algunas notas lácticas.
+- Maridaje: Señorío de los Llanos Cosecha Tinto acompaña bien muchas comidas, especialmente adecuado para segundos de carne.
+- Consumo: Recomendamos servir este Señorío de los Llanos Cosecha a una temperatura entre 12 y 14ºC.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LWM8LWM/?tag=tolees-21)

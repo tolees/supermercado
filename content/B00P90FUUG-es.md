@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Colgate Premier White Cepillo de Dientes'
-date: 2021-07-29 10:40:25
+date: 2021-07-31 09:45:39
 image: 'https://m.media-amazon.com/images/I/41INvpF9oNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Colgate Premier White Cepillo de Dientes Medium - 125 gr](https://www.am
 
 ℹ️:
 
-- Marca - COLGATE
-- Tipo de producto - Cepillo de dientes #medium
 - Género - Unisex
+- Tipo de producto - Cepillo de dientes #medium
+- Marca - COLGATE
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00P90FUUG/?tag=tolees-21)
