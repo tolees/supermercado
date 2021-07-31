@@ -28,10 +28,10 @@ Tienes [Navitplus QUALITY SUPPLEMENT - Garcinia Cambogia extra fuerte pura + l C
 
 🔎:
 
-- PLUS DE ENERGÍA: Gracias al extracto de Té verde y su pequeña concentración de Cafeína, llegarás con energía al final del día, favoreciendo la función cerebral y el rendimiento físico. Además, ambos ingredientes facilitan la combustión de las grasas.
 - PERDIDA DE PESO Y VOLUMEN: Fuimos los primeros en incorporar l-carnitina a nuestro suplemento de Garcinia cambogia. Con esto conseguimos aumentar el rendimiento deportivo en tus sesiones de entrenamiento y metabolizar la grasas de manera mas eficiente, aumentando la perdida de peso, volumen y promoviendo una mayor tonificación.
-- CONTROL DEL APETIDO: Nuestro ingrediente principal, la Garcinia cambogia de Navit Plus, contiene un alto contenido HCA (60%). Actúa como inhidor natural del apetido, aumentando la saciedad durante las comidas, lo que se traduce en un mayor control de las cantidades ingeridas.
+- PLUS DE ENERGÍA: Gracias al extracto de Té verde y su pequeña concentración de Cafeína, llegarás con energía al final del día, favoreciendo la función cerebral y el rendimiento físico. Además, ambos ingredientes facilitan la combustión de las grasas.
 - MARCA PRESENTE EN FARMACIAS ESPAÑOLAS: Nuestros productos cumplen con los reglamentos EUROPEOS (CE) y poseen Código Nacional otorgado por el Colegio Oficial de Farmacéuticos. Estamos presentes en 5 Países de la Unión Europea y nuestros laboratorios con base Nacional, poseen certificaciones ISO9001 y GMP. Nº RGSEAA: 26.018330/M.
+- CONTROL DEL APETIDO: Nuestro ingrediente principal, la Garcinia cambogia de Navit Plus, contiene un alto contenido HCA (60%). Actúa como inhidor natural del apetido, aumentando la saciedad durante las comidas, lo que se traduce en un mayor control de las cantidades ingeridas.
 - GARCINIA CAMBOGIA EXTRA FUERTE NAVIT PLUS: Fórmula cuidadosamente desarrollada con extractos de plantas. Resultados reales. Incluye l-carnitina tartrato y té verde para potenciar sus efectos y reforzar un estilo de vida saludable. Suplemento de Garcinia cambogia cápsulas con Código Nacional de Farmacia: 194557.0
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B096B6XJS9/?tag=tolees-21)
