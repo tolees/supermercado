@@ -28,9 +28,9 @@ Está [Instituto Español - TARRO CREMA PIEL SANA 50 ML](https://www.amazon.es/d
 
 ℹ️:
 
+- Manos y pies Instituto Español
+- Manos y pies Instituto Español
 - Tipo de piel; seca
 - Resistente y con diseño funcional
-- Manos y pies Instituto Español
-- Manos y pies Instituto Español
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XYWQRXN/?tag=tolees-21)
