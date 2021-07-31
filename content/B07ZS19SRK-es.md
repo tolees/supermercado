@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vermouth Padró & Co - Vermouth Myrrha Ro al 0.00 % de rebaja'
-date: 2021-07-28 16:04:37
+date: 2021-07-31 20:38:11
 image: 'https://m.media-amazon.com/images/I/31+QOahnqaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vermouth Padró & Co'
 buyurl: 'https://www.amazon.es/dp/B07ZS19SRK/?tag=tolees-21'
 descuento: '0.00'
-average: '7.17'
+average: '6.8'
 ---
 
 Tienes [Vermouth Padró & Co - Vermouth Myrrha Rojo - 1 L](https://www.amazon.es/dp/B07ZS19SRK/?tag=tolees-21) con precio final de  4.95 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
