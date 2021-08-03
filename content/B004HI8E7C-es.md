@@ -29,7 +29,7 @@ Ahora mismo tienes [Olympia cf269 mejillones Pot](https://www.amazon.es/dp/B004
 🔎:
 
 - hobs a la mesa
-- Tapa puede ser utilizado para la eliminación de conchas.
 - Incluye tapa y sartén
+- Tapa puede ser utilizado para la eliminación de conchas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004HI8E7C/?tag=tolees-21)
