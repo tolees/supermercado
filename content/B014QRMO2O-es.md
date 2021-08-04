@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revlon ColorStay Base de Maquillaje piel al 26.32 % de descuento'
-date: 2021-08-01 10:08:46
+date: 2021-08-04 15:28:23
 image: 'https://m.media-amazon.com/images/I/31Y4peSNtKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [Revlon ColorStay Base de Maquillaje piel mixta/grasa FPS15  
 
 🔎:
 
-- Con protección contra rayos UVA SPF 15. Resistente al sudor, a la humedad y al agua
-- Adecuada para piel mixta/grasa. Fórmula libre de aceites y fragancias, oil free
-- Evita la aparición de grietas, proporcionando un adecuado confort en la piel
 - Piel sin brillos e hidratada con un acabado mate que dura hasta 24H
 - Textura ligera, cubre las imperfecciones, sin obstruir los poros. Cobertura media/alta
+- Adecuada para piel mixta/grasa. Fórmula libre de aceites y fragancias, oil free
+- Con protección contra rayos UVA SPF 15. Resistente al sudor, a la humedad y al agua
+- Evita la aparición de grietas, proporcionando un adecuado confort en la piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B014QRMO2O/?tag=tolees-21)
