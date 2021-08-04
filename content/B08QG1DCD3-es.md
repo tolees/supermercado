@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nescafé DOLCE GUSTO Café LATTE MACCHIATO con un 17.59 % de descuento'
-date: 2021-07-18 13:46:19
+date: 2021-08-04 09:35:52
 image: 'https://m.media-amazon.com/images/I/51ihQeGvDAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,6 @@ En este momento está [Nescafé DOLCE GUSTO Café LATTE MACCHIATO CARAMEL - Pack
 
 🔎:
 
-- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida Nescafé Dolce Gusto
-- Las cápsulas Nescafé Dolce Gusto Caramel Macchiato incluyen granos brasileños y colombianos, y una cápsula de leche entera muy espumosa con un delicioso toque de caramelo
-- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor Nescafé Dolce Gusto
-- Descubre más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
-- Cápsulas de café inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
+- CAJA NESTLE CARAMEL LATTE MACCHIATO DOLCE GUSTO
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QG1DCD3/?tag=tolees-21)
