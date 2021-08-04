@@ -28,10 +28,10 @@ En este momento está [Marqués de la Concordia Reserva D.O Rioja Vino tinto - 7
 
 🔎:
 
+- Maridaje: Ideal para acompañar con platos de caza, asados, aves y quesos curados. Se aconseja su conservación en un lugar fresco y húmedo, lo cual garantiza el mantenimiento de su calidad durante años.
+- Capacidad: 750 ml.
 - Temperatura de servicio: 18º C
 - Origen: D.O. Ca. Rioja
 - Tipo de uva: 100% tempranillo
-- Maridaje: Ideal para acompañar con platos de caza, asados, aves y quesos curados. Se aconseja su conservación en un lugar fresco y húmedo, lo cual garantiza el mantenimiento de su calidad durante años.
-- Capacidad: 750 ml.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01EARW3GW/?tag=tolees-21)
