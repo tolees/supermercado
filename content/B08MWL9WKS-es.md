@@ -31,7 +31,7 @@ Tienes [San Jamón - Cesta Regalo Gourmet Ibérica  Tirón. Jamón  Chorizo y Lo
 - Una deliciosa selección de productos gourmet ibéricos
 - Cesta de Productos Gourmet
 - Disfruta de los mejores jamones y embutidos ibéricos de San Jamón
-- El regalo perfecto para esta Navidad
 - Jamón, Chorizo y Salchichón Ibéricos. Cortado a mano. Vino
+- El regalo perfecto para esta Navidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MWL9WKS/?tag=tolees-21)
