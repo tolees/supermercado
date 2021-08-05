@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Victoria Cerveza Lager Malagueña Latas   al 10.71 % de descuento'
-date: 2021-08-04 10:06:15
+date: 2021-08-05 11:44:47
 image: 'https://m.media-amazon.com/images/I/41gkZXuLdBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Está [Victoria Cerveza Lager Malagueña Latas  12 x 33cl](https://www.amazon.es
 
 ℹ️:
 
-- Pack de 12 latas 33cl
-- Una cerveza refrescante y equilibrada en cuerpo y aroma, Optimopara tomar en cualquier momento del día
-- Sensación refrescante gracias a su óptimo equilibrio entre dulzor y amargor
 - Alc.4,8% vol
+- Densas notas a cereales tostados y levaduras que le aportan carácter
+- Pack de 12 latas 33cl
+- Sensación refrescante gracias a su óptimo equilibrio entre dulzor y amargor
+- Una cerveza refrescante y equilibrada en cuerpo y aroma, Optimopara tomar en cualquier momento del día
 - Destaca por su color miel y su espuma de burbujas finas, blancas y brillantes
 - Temperatura recomendada: 4º a 6º
-- Densas notas a cereales tostados y levaduras que le aportan carácter
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AY3DVR6/?tag=tolees-21)
