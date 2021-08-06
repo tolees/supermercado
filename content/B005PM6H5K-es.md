@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 69.53 % en Haribo Happy Cola  Gominolas de Fruta  1'
-date: 2021-08-03 07:21:44
+date: 2021-08-06 22:16:51
 image: 'https://m.media-amazon.com/images/I/51vzCeT9adL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
