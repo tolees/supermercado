@@ -28,9 +28,9 @@ En este momento está [Babaria Rosa Mosqueta Aceite Puro Facial  Blanco  50 Mili
 
 🔎:
 
+- Tipo de producto - aceite puro facial
 - Género - mujer
 - Marca - babaria
 - Alta calidad
-- Tipo de producto - aceite puro facial
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B001L98SNK/?tag=tolees-21)
