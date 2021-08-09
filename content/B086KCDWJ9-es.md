@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1906 Reserva Especial Cerveza - Paquete  al 9.43 % de rebaja'
-date: 2021-08-06 08:41:58
+date: 2021-08-09 15:38:50
 image: 'https://m.media-amazon.com/images/I/515Ay428MVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: '1906'
 buyurl: 'https://www.amazon.es/dp/B086KCDWJ9/?tag=tolees-21'
 descuento: '9.43'
-average: '19.5844155844158'
+average: '19.5819354838712'
 ---
 
 Tienes [1906 Reserva Especial Cerveza - Paquete de 24 x 330 ml - Total: 7 92 L](https://www.amazon.es/dp/B086KCDWJ9/?tag=tolees-21) con precio final de  19.2 EUR (original: 21.2 EUR) (9.43 %  de rebaja) aqui!
@@ -28,15 +28,15 @@ Tienes [1906 Reserva Especial Cerveza - Paquete de 24 x 330 ml - Total: 7 92 L](
 
 🔎:
 
-- Temperatura recomendada 5-6 grados. Mantener en lugar fresco y seco
 - 1906 Reserva Especial Cerveza - Pack de 24 latas x 330 ml
+- Alcohol 6,5%
+- Aromas a malta tostada con suaves notas de caramelo y café. El lúpulo aparece en nariz con ligeros matices florales y herbales.
+- Elaborada a partir de un mosto específicos, en la fábrica de Hijos de Rivera, en A Coruña. La cerveza 1906 Reserva Especial cuenta con uno de los períodos de maduración más largos entre las cervezas lager nacionales.
+- Clasificación Helles Bock
 - Ingredientes: agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), maíz y lúpulo Perle Hallertau. Levadura seleccionada Hijos de Rivera.
+- Temperatura recomendada 5-6 grados. Mantener en lugar fresco y seco
+- Toda nuestra herencia resumida en una cerveza extraordinaria. Maltas tostadas, lúpulo aromático y una guarda prolongada para crear un sabor y aroma con carácter único.
 - Amargor 25 EBU
 - Color 15,5 EBC
-- Clasificación Helles Bock
-- Elaborada a partir de un mosto específicos, en la fábrica de Hijos de Rivera, en A Coruña. La cerveza 1906 Reserva Especial cuenta con uno de los períodos de maduración más largos entre las cervezas lager nacionales.
-- Toda nuestra herencia resumida en una cerveza extraordinaria. Maltas tostadas, lúpulo aromático y una guarda prolongada para crear un sabor y aroma con carácter único.
-- Aromas a malta tostada con suaves notas de caramelo y café. El lúpulo aparece en nariz con ligeros matices florales y herbales.
-- Alcohol 6,5%
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086KCDWJ9/?tag=tolees-21)

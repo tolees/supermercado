@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ruffles Jamon Patatas Fritas  160g al 6.08 % de rebaja'
-date: 2021-07-26 06:31:22
+date: 2021-08-09 14:10:17
 image: 'https://m.media-amazon.com/images/I/51nS4GW+RUS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ruffles'
 buyurl: 'https://www.amazon.es/dp/B084LCBGHR/?tag=tolees-21'
 descuento: '6.08'
-average: '1.31888888888889'
+average: '1.326'
 ---
 
 Tienes [Ruffles Jamon Patatas Fritas  160g](https://www.amazon.es/dp/B084LCBGHR/?tag=tolees-21) con precio final de  1.39 EUR (original: 1.48 EUR) (6.08 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [Ruffles Jamon Patatas Fritas  160g](https://www.amazon.es/dp/B084LCBGHR/
 
 🔎:
 
-- Patatas fritas
-- Contiene leche y sus derivados, soja y sus derivados
-- Sabor Jamon
 - Bolsa de 160g
+- Patatas fritas
+- Sabor Jamon
+- Contiene leche y sus derivados, soja y sus derivados
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084LCBGHR/?tag=tolees-21)
