@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.51 % en The Macallan Whisky Rare Cask Black - 70'
-date: 2021-07-31 11:04:24
+date: 2021-08-10 14:27:56
 image: 'https://m.media-amazon.com/images/I/41QLot9DHLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [The Macallan Whisky Rare Cask Black - 700 ml](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Nariz: combinación de frutos secos, nuez moscada, jengibre y roble
+- Paladar: un humo seco se revela cediendo a tonos de roble más suaves
+- Color: hojas otoñales
 - Final: largo y afrutado con un elegante humo de madera
 - Contenido de alcohol: 48 %
-- Color: hojas otoñales
-- Paladar: un humo seco se revela cediendo a tonos de roble más suaves
+- Nariz: combinación de frutos secos, nuez moscada, jengibre y roble
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B017HKYZG0/?tag=tolees-21)
