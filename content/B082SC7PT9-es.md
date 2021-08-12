@@ -28,10 +28,10 @@ Tienes [Dicora UrbanFit - Dicora Urban Fit Bote Higienizante de manos Gel Cítri
 
 🔎:
 
-- Gel higienizante de manos sin aclarado con 70% de alcohol y Cítricos & Melocotón.
-- Modo de empleo: Aplicar en las manos la cantidad de gel necesaria y frotar hasta que el producto se haya evaporado.
-- Las propiedades de los cítricos y el melocotón dejan la piel hidratada y aterciopelada.
 - Limpia e hidrata tus manos al instante
 - Gel higienizante 200ml
+- Las propiedades de los cítricos y el melocotón dejan la piel hidratada y aterciopelada.
+- Modo de empleo: Aplicar en las manos la cantidad de gel necesaria y frotar hasta que el producto se haya evaporado.
+- Gel higienizante de manos sin aclarado con 70% de alcohol y Cítricos & Melocotón.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082SC7PT9/?tag=tolees-21)
