@@ -28,10 +28,10 @@ Tienes [CLAIRECEUTICALS Serum Acido Glicolico 10% - Peeling Quimico No Invasivo 
 
 ℹ️:
 
-- ✅ REDUCE LOS SIGNOS DEL ACNÉ Y LAS ARRUGAS: Este peeling facial acido actúa contra todo tipo de marcas y costras debido al acné, además de disminuir las arrugas. Gracias a su fórmula rica en acido glicolico puro al 10%, ácido hialurónico y té verde, es el sérum ideal para mejorar el aspecto estético de la piel.
-- ✅ FÓRMULA MÁS LIGERA Y CONCENTRADA: A diferencia de la crema acido glicolico o el exfoliante acido glicolico, nuestro suero tiene una consistencia más ligera que penetra más profundamente en la piel. Además, hidrata la piel, reduce los poros dilatados, mejora el tono de la piel e ilumina la tez apagada.
 - ✅ HECHO EN ALEMANIA: Todos nuestros productos fueron creados y probados en Alemania. Utilizamos solo ingredientes de la más alta calidad y mejoramos constantemente las fórmulas utilizadas, para crear los mejores productos posibles.
-- ✅ FÁCIL Y CÓMODO DE APLICAR: Nuestro producto Claireceuticals Glycolic Acid 10% viene con un aplicador cuentagotas que te permite aplicarlo cómodamente en la piel limpia del rostro y el cuello. Para obtener resultados efectivos, úsalo todos los días por la noche antes de acostarte y ya notarás el cambio.
+- ✅ FÓRMULA MÁS LIGERA Y CONCENTRADA: A diferencia de la crema acido glicolico o el exfoliante acido glicolico, nuestro suero tiene una consistencia más ligera que penetra más profundamente en la piel. Además, hidrata la piel, reduce los poros dilatados, mejora el tono de la piel e ilumina la tez apagada.
 - ✅ PEELING CON ÁCIDO GLICOLICO: Claireceuticals Glycolic Acid es el peeling glicolico no inavasivo ideal para el tratamiento natural de la piel. Nuestro peeling facial quimico elimina las células muertas y estimula la renovación celular, exfolia la piel y elimina las imperfecciones del rostro sin dejar heridas.
+- ✅ FÁCIL Y CÓMODO DE APLICAR: Nuestro producto Claireceuticals Glycolic Acid 10% viene con un aplicador cuentagotas que te permite aplicarlo cómodamente en la piel limpia del rostro y el cuello. Para obtener resultados efectivos, úsalo todos los días por la noche antes de acostarte y ya notarás el cambio.
+- ✅ REDUCE LOS SIGNOS DEL ACNÉ Y LAS ARRUGAS: Este peeling facial acido actúa contra todo tipo de marcas y costras debido al acné, además de disminuir las arrugas. Gracias a su fórmula rica en acido glicolico puro al 10%, ácido hialurónico y té verde, es el sérum ideal para mejorar el aspecto estético de la piel.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08XZJP5QW/?tag=tolees-21)
