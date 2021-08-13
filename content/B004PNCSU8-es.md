@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WELLA PROFESSIONALS - WELLA Sp Color Sav con un 15.30 % de descuento'
-date: 2021-08-09 15:25:31
+date: 2021-08-13 17:25:19
 image: 'https://m.media-amazon.com/images/I/314KoukKmHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'WELLA PROFESSIONALS'
 buyurl: 'https://www.amazon.es/dp/B004PNCSU8/?tag=tolees-21'
 descuento: '15.30'
-average: '21.44'
+average: '21.726'
 ---
 
 En este momento está [WELLA PROFESSIONALS - WELLA Sp Color Save Champú para Cabello Teñido - 1000 ml](https://www.amazon.es/dp/B004PNCSU8/?tag=tolees-21) a 22.87 EUR (original: 27.0 EUR) (15.30 %  de descuento) en el siguiente enlace!
@@ -30,7 +30,7 @@ En este momento está [WELLA PROFESSIONALS - WELLA Sp Color Save Champú para Ca
 
 - Marca: Wella
 - Género: Hombre
-- Tipo de piel: normal
 - Tipo de Cabello: Cabello Teñido /, Cabello con Mechas
+- Tipo de piel: normal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004PNCSU8/?tag=tolees-21)

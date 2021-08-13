@@ -28,8 +28,8 @@ Está [Neutrogena Reparación Intensiva Para La Piel Seca  200 ml. ](https://www
 
 ℹ️:
 
-- Meta: uso para pieles secas a muy secas – textura bálsamo más rica
 - La piel se repara desde la primera aplicación, efecto «apósito reparador»
 - Este bálsamo está dedicado a las necesidades de las pieles muy secas.
+- Meta: uso para pieles secas a muy secas – textura bálsamo más rica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00I21UTKK/?tag=tolees-21)
