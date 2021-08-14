@@ -28,8 +28,8 @@ Tienes [Sanex Desodorante Spray  Dermo Invisible 24H  2 x 200ml](https://www.ama
 
 ℹ️:
 
-- Género: Mujer
 - Tipo de Piel: Todo Tipo de Pieles
 - Formato: Spray
+- Género: Mujer
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDRHDQQ/?tag=tolees-21)

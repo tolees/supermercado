@@ -29,8 +29,8 @@ Ahora mismo tienes [TIRMA  S.A. - Tirma Chocolate con Leche 50% Cacao Mini con 3
 🔎:
 
 - Un chocolate cremoso, que no defrauda a los amantes de chocolate con leche
-- Ideal para cualquiera que este buscando una alternativa más saludable y sabrosa
 - Saborea el paraíso con este producto hecho en Gran Canaria y entregado a la comodidad de su puerta
+- Ideal para cualquiera que este buscando una alternativa más saludable y sabrosa
 - Date un capricho con este pack de mini-tabletas de chocolate excepcionalmente ricas con un 50% de contenido de cacao y 30% menos de azúcar
 - Empaquetado y presentado para compartir en una bolsa de 14 unidades de 15g
 
