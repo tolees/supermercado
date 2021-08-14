@@ -28,8 +28,8 @@ En este momento está [Serpis Aceituna Cacereñas Negras sin Hueso  350g](https:
 
 🔎:
 
-- Se debe conservar en un lugar fresco y seco
 - Peso neto de 350 g, Peso escurrido de 150 g
 - Una vez abierto, conservar en el frigorifico
+- Se debe conservar en un lugar fresco y seco
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008RHQMDM/?tag=tolees-21)

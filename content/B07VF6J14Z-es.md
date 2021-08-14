@@ -28,10 +28,10 @@ Tienes [Liposan Bálsamo Labial con Aroma a Vainilla  4.8g](https://www.amazon.e
 
 🔎:
 
+- 24 horas hidratacion intensa
 - Aplicar suavemente sobre los labios cada día para mantener su hidratación
 - Sabor vainilla
 - Bálsamo labial con aceites naturales
 - Contenido del envío: Liposan Bálsamo labial, 48g
-- 24 horas hidratacion intensa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VF6J14Z/?tag=tolees-21)
