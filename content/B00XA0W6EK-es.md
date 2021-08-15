@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Príncipe Galletas Rellenas de Chocolate  al 4.52 % de descuento'
-date: 2021-08-09 19:10:53
+date: 2021-08-15 12:30:33
 image: 'https://m.media-amazon.com/images/I/415QwdTBPeS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Príncipe'
 buyurl: 'https://www.amazon.es/dp/B00XA0W6EK/?tag=tolees-21'
 descuento: '4.52'
-average: '1.648'
+average: '1.655'
 ---
 
 Está [Príncipe Galletas Rellenas de Chocolate con Leche  250g](https://www.amazon.es/dp/B00XA0W6EK/?tag=tolees-21) con 4.52 de descuento por 1.69 EUR (original: 1.77 EUR) en el siguiente enlace!
