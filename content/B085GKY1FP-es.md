@@ -28,10 +28,10 @@ Está [Ariel Pods Detergente Lavadora Cápsulas  90 Lavados  Pack 2 x 45   Fraga
 
 ℹ️:
 
-- Para un resultado óptimo, combínalo con Lenor UNstoppables perlas de perfume para la ropa
 - Detergente lavadora con fragancia intensa
-- Depositar la cápsula en el tambor de la lavadora antes de la ropa
+- Para un resultado óptimo, combínalo con Lenor UNstoppables perlas de perfume para la ropa
 - El recubrimiento de la cápsula se disuelve totalmente al entrar en contacto con el agua
 - Limpieza profunda; eficaz en frío (incluso a 30ºC); resultados increíbles con una sola cápsula de detergente concentrado
+- Depositar la cápsula en el tambor de la lavadora antes de la ropa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085GKY1FP/?tag=tolees-21)
