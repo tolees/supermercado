@@ -28,9 +28,9 @@ Ahora mismo tienes [Inglot - Base de Maquillaje - Cream Foundation YSM  52  - 30
 
 🔎:
 
-- Para todo tipo de pieles
 - Sus ingredientes especiales dejan la piel confortable y satinada. Agente extra-matificante. Extracto de melocotón
-- Base fina y ligera, con un acabado unificado y natural.
+- Para todo tipo de pieles
 - Tonos radiantes y de larga duración.
+- Base fina y ligera, con un acabado unificado y natural.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00VXD7OSY/?tag=tolees-21)
