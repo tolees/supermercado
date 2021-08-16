@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lay S Gourmet Patatas Fritas con Sal  18 al 25.88 % de rebaja'
-date: 2021-08-15 11:50:37
+date: 2021-08-16 19:16:14
 image: 'https://m.media-amazon.com/images/I/41UfRgJfTIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LayS Gourmet'
 buyurl: 'https://www.amazon.es/dp/B00XDQPBX4/?tag=tolees-21'
 descuento: '25.88'
-average: '1.54666666666667'
+average: '1.56714285714286'
 ---
 
 Tienes [Lay S Gourmet Patatas Fritas con Sal  180g](https://www.amazon.es/dp/B00XDQPBX4/?tag=tolees-21) con precio final de  1.69 EUR (original: 2.28 EUR) (25.88 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Lay S Gourmet Patatas Fritas con Sal  180g](https://www.amazon.es/dp/B00
 
 🔎:
 
-- Producto sin gluten. Apto para celiacos
-- Conservar en lugar fresco y seco
 - Envasado en atmósfera protectora
+- Conservar en lugar fresco y seco
+- Producto sin gluten. Apto para celiacos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XDQPBX4/?tag=tolees-21)

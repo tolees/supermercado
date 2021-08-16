@@ -28,10 +28,10 @@ Está [Karcher - Kärcher Champú para coches detergente 619 5 L  6.295-360.0 ](
 
 ℹ️:
 
-- Para una limpieza a fondo de delicada pintura y las superficies de plástico
-- Ready touse productos de limpieza (rtu)
 - Detergente ligeramente alcalino, no hay sustancias peligrosas
+- Ready touse productos de limpieza (rtu)
 - Muy suave en el material
+- Para una limpieza a fondo de delicada pintura y las superficies de plástico
 - Los tensioactivos son biodegradables según la ocde
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0056A6ZEO/?tag=tolees-21)

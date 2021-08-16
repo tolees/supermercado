@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Vino Tinto D.O. Tierra De Castilla Solaz al 24.30 % de descuento'
-date: 2021-08-03 13:33:34
+title: 'Vino Tinto D.O. Tierra De Castilla Solaz al 0.00 % de descuento'
+date: 2021-08-16 19:20:50
 image: 'https://m.media-amazon.com/images/I/31yrh7dcR-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,25 +12,25 @@ tags: [ 'Alimentación y bebidas','Cervezas, vinos y licores','Vinos','Vinos tin
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99
-comparePrice: 3.95 EUR
+comparePrice:  EUR
 prodname: 'Vino Tinto D.O. Tierra De Castilla Solaz tinto variedad uva Tempranillo y Cabernet Sauvignon 75 cl'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Solaz'
 buyurl: 'https://www.amazon.es/dp/B01DWC01WY/?tag=tolees-21'
-descuento: '24.30'
-average: '3.39222222222222'
+descuento: '0.00'
+average: '3.352'
 ---
 
-Está [Vino Tinto D.O. Tierra De Castilla Solaz tinto variedad uva Tempranillo y Cabernet Sauvignon 75 cl](https://www.amazon.es/dp/B01DWC01WY/?tag=tolees-21) con 24.30 de descuento por 2.99 EUR (original: 3.95 EUR) en el siguiente enlace!
+Está [Vino Tinto D.O. Tierra De Castilla Solaz tinto variedad uva Tempranillo y Cabernet Sauvignon 75 cl](https://www.amazon.es/dp/B01DWC01WY/?tag=tolees-21) con 0.00 de descuento por 2.99 EUR (original:  EUR) en el siguiente enlace!
 
 [![Vino Tinto D.O. Tierra De Castilla Solaz](https://m.media-amazon.com/images/I/31yrh7dcR-L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01DWC01WY/?tag=tolees-21)
 
 ℹ️:
 
-- Cosecha del año 2015-2019
-- Apariencia: Intenso color rojo cereza, nítido
 - Calidad adecuada de la bebida garantizada por el fabricante
+- Apariencia: Intenso color rojo cereza, nítido
+- Cosecha del año 2015-2019
 - Aroma y sabor: Elegante y equilibrado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DWC01WY/?tag=tolees-21)
