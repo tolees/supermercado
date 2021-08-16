@@ -28,9 +28,9 @@ Ahora mismo tienes [Axe Pack Rutina con Peine Bodyspray Ice Chill 150 ml + Gel d
 
 🔎:
 
-- Cera axe classic look (75ml) aporta al cabello carácter y actitud
 - Peine para salir de casa preparado para afrontar cualquier situación
-- Ice chill bodyspray (150ml) + gel de ducha (250ml) con un refrescante aroma a menta y limón
+- Cera axe classic look (75ml) aporta al cabello carácter y actitud
 - Espuma para un buen afeitado
+- Ice chill bodyspray (150ml) + gel de ducha (250ml) con un refrescante aroma a menta y limón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZG7FPG2/?tag=tolees-21)

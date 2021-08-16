@@ -30,8 +30,8 @@ Ahora mismo tienes [FReatech Cepillo Pelo de Silicona para Champú y Masaje Cabe
 
 - 【Caracteristicas de Diseño】 Cepillo de masaje manual para cabeza y cuero cabelludo seco y húmedo (no requiere batería y resistente al agua), Diseño de mango redondo para un fácil agarre (si la mano izquierda o derecha), Las cerdas desiguales se ajustan perfectamente al cuero cabelludo
 - 【Servicio al Cliente】 Prometemos 12 meses de garantía y un servicio al cliente amigable para garantizar la experiencia de compra de los clientes
-- 【Portatil y Practico】 El tamaño de este cepillo es de 3 x 3 x 2.7 pulgadas y pesa solo 1.8 oz. Ya sea que esté de viaje, en casa o en la oficina, su cuero cabelludo puede ser masajeado y relajado
 - 【Funciones Multiples】 Cepillo para tratamiento del cuero cabelludo puede masajear y limpiar cuero cabelludo, promover la circulación sanguínea de cabeza, ayuda al crecimiento del cabello, alivia la pérdida del cabello, exfolia y elimina la caspa, alivia el estrés y los rasguños (Prevenga las alergias y nunca lastime su cabello y cuero cabelludo)
 - 【Grupo Aplicable】 Cepillo de pelo es adecuado para hombres, mujeres, niños y mascotas, también se aplica a cualquier tipo de cuero cabelludo y cabello (si tu cabello es grueso o delgado, corto o largo, graso o seco). Tu mascota también disfrutará de este pincel
+- 【Portatil y Practico】 El tamaño de este cepillo es de 3 x 3 x 2.7 pulgadas y pesa solo 1.8 oz. Ya sea que esté de viaje, en casa o en la oficina, su cuero cabelludo puede ser masajeado y relajado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Y7H22VB/?tag=tolees-21)

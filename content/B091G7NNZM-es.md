@@ -28,10 +28,10 @@ Ahora mismo tienes [Don Limpio Limpieza Impecable  Detergente en Spray  Elimina 
 
 🔎:
 
-- Perfecto para superficies duras y blandas. Ideal para placas de cocina, encimeras, fregaderos o superficies de cerámica
-- Limpieza e higiene profunda sin residuos
-- Limpiador en spray universal para toda la limpieza de la casa
-- Disuelve la grasa y la suciedad y se puede utilizar con agua fría
 - Deja un aroma fresco a eucalipto y un brillo más duradero
+- Disuelve la grasa y la suciedad y se puede utilizar con agua fría
+- Limpiador en spray universal para toda la limpieza de la casa
+- Limpieza e higiene profunda sin residuos
+- Perfecto para superficies duras y blandas. Ideal para placas de cocina, encimeras, fregaderos o superficies de cerámica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B091G7NNZM/?tag=tolees-21)
