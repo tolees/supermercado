@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Jabón potásico 750 ml. listo para usar con un 23.17 % de descuento'
-date: 2020-05-23 13:08:49
-image: 'https://m.media-amazon.com/images/I/313ZeNlFFcL._SL400_.jpg'
+title: 'CASTALIA Jabon Negro Spray 750 ml  Están con un 20.11 % de descuento'
+date: 2021-08-17 14:16:01
+image: 'https://m.media-amazon.com/images/I/31iwU0rTQFS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01AO9C8BU-es Jabón potásico 750 ml. listo para usar'
+slug: 'B01AO9C8BU-es CASTALIA Jabon Negro Spray 750 ml Estándar Único'
 sku: 'B01AO9C8BU-es'
-tags: [ 'jabón', ]
-actualPrice: 9.45 EUR
+tags: [ 'Control de insectos','Control de insectos al aire libre','Control de plagas y protección de plantas','Control de polillas al aire libre','Cuidado y limpieza del hogar','Jardinería','Jardín','Productos de limpieza para el hogar','Salud y cuidado personal','castalia','jabon', ]
+actualPrice: 6.99 EUR
 currency: EUR
-price: 9.45
-comparePrice: 12.3 EUR
-prodname: 'Jabón potásico 750 ml. listo para usar'
+price: 6.99
+comparePrice: 8.75 EUR
+prodname: 'CASTALIA Jabon Negro Spray 750 ml  Estándar  Único'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'CASTALIA'
 buyurl: 'https://www.amazon.es/dp/B01AO9C8BU/?tag=tolees-21'
-descuento: '23.17'
-average: '9.45'
+descuento: '20.11'
+average: '8.22'
 ---
 
-En este momento está [Jabón potásico 750 ml. listo para usar](https://www.amazon.es/dp/B01AO9C8BU/?tag=tolees-21) a 9.45 EUR (original: 12.3 EUR) (23.17 %  de descuento) en el siguiente enlace!
+En este momento está [CASTALIA Jabon Negro Spray 750 ml  Estándar  Único](https://www.amazon.es/dp/B01AO9C8BU/?tag=tolees-21) a 6.99 EUR (original: 8.75 EUR) (20.11 %  de descuento) en el siguiente enlace!
 
-[![Jabón potásico 750 ml. listo para usar](https://m.media-amazon.com/images/I/313ZeNlFFcL._SL400_.jpg)](https://www.amazon.es/dp/B01AO9C8BU/?tag=tolees-21)
+[![CASTALIA Jabon Negro Spray 750 ml  Están](https://m.media-amazon.com/images/I/31iwU0rTQFS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01AO9C8BU/?tag=tolees-21)
 
 🔎:
 
+- CASTALIA Jabon Negro Spray 750 ml
+- Utilice los biocidas de forma segura
+- Provoca irritación cutánea
+- producto de alta calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01AO9C8BU/?tag=tolees-21)
