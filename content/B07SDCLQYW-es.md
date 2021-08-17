@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Decdeal 1 - Dispensador de Jabón de Pare al 11.77 % de descuento'
-date: 2021-08-16 15:15:54
+date: 2021-08-17 16:22:47
 image: 'https://m.media-amazon.com/images/I/31DUGoP+vVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,5 @@ Ahora mismo tienes [Decdeal 1 - Dispensador de Jabón de Pared  Ducha  Champú  
 
 🔎:
 
-- ⚫La botella y la boquilla se pueden sacar y separar para rellenar y limpiar fácilmente.
-- ⚫Diseñado con una ventana transparente, que le permite controlar fácilmente el nivel de jabón.
-- ⚫Estilo montado en la pared y tamaño compacto, fácil de instalar, perfecto para hoteles, oficinas, hogares, centros de salud, etc.
-- ⚫Dispensador manual de jabón de 300 ml de una sola cabeza, dispensa 0,8 ml cada vez.
-- ⚫Ideal para líquidos o geles, como gel de ducha, champú líquido, jabón líquido, desinfectante, etc.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SDCLQYW/?tag=tolees-21)

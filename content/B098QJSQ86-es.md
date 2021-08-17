@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desconocido - Hidrolimpiadora de Gasolin al 0.00 % de descuento'
-date: 2021-08-15 18:33:40
+date: 2021-08-17 17:12:36
 image: 'https://m.media-amazon.com/images/I/61S4fH7z6GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Desconocido - Hidrolimpiadora de Gasolina  2800 PSI/190 Bar  480 L/H  Mot
 
 ℹ️:
 
-- MULTI-USO Y FÁCIL DE MOVER - Cinco boquillas intercambiables (0°, 15°, 25°, 40° y jabón), hacen posible la limpieza de su casa, madera, coches, barcos, patios y revestimientos con sólo esta hidrolimpiadora. La hidrolimpiadora de gas incluye unas duraderas ruedas de 11 pulgadas, perfectas para cualquier terreno
-- CUMPLE CON EL CARB - Las hidrolimpiadoras que cumplen con el CARB son más limpias y seguras, además de que producen menos emisiones durante su funcionamiento, reducen el riesgo de enfermedades respiratorias
-- ELECCIÓN PROFESIONAL - Al ser una hidrolimpiadora de alta presión con motor OHV de 4 tiempos de 209 cc, proporciona suficiente potencia, fácil de alcanzar y satisface las necesidades de su familia. Con una manguera de 762 cm de grosor y un depósito de detergente de 0,6 L
 - POTENTE CAPACIDAD DE LIMPIEZA - 190 bares y 480 l/h de capacidad de limpieza profunda con 6,5 CV, que le ayudan a realizar el trabajo más rápidamente. Llena fácilmente el depósito de gasolina de 1,5 L, ahorrando tiempo y dinero
 - LO QUE OBTIENE - 1 x Lavadora a presión de gasolina de 209cc, 1 x Limpiador metálico portátil, 5 x Boquillas intercambiables, 2 x Ruedas de 28cm, 1 x Manguera de presión M22 de 762cm
+- ELECCIÓN PROFESIONAL - Al ser una hidrolimpiadora de alta presión con motor OHV de 4 tiempos de 209 cc, proporciona suficiente potencia, fácil de alcanzar y satisface las necesidades de su familia. Con una manguera de 762 cm de grosor y un depósito de detergente de 0,6 L
+- CUMPLE CON EL CARB - Las hidrolimpiadoras que cumplen con el CARB son más limpias y seguras, además de que producen menos emisiones durante su funcionamiento, reducen el riesgo de enfermedades respiratorias
+- MULTI-USO Y FÁCIL DE MOVER - Cinco boquillas intercambiables (0°, 15°, 25°, 40° y jabón), hacen posible la limpieza de su casa, madera, coches, barcos, patios y revestimientos con sólo esta hidrolimpiadora. La hidrolimpiadora de gas incluye unas duraderas ruedas de 11 pulgadas, perfectas para cualquier terreno
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B098QJSQ86/?tag=tolees-21)
