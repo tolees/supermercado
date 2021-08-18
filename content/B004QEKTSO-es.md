@@ -28,10 +28,10 @@ Tienes [Johnnie Walker Black Label Whisky - 1000 ml](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Disfrútelo con hielo, agua o como combinado largo con un chorrito de ginger ale
-- Everest de los whiskies premium» según Jim Murray, autor de La Biblia del Whisky
 - Toques bien definidos de vainilla intensa, frutos secos y un sofisticado sabor ahumado
 - Una mezcla de más de 30 whiskies maduros procedentes de toda Escocia
+- Disfrútelo con hielo, agua o como combinado largo con un chorrito de ginger ale
+- Everest de los whiskies premium» según Jim Murray, autor de La Biblia del Whisky
 - Un whisky de lujo, referente para todos los demás
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004QEKTSO/?tag=tolees-21)

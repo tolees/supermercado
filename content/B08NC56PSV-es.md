@@ -30,8 +30,8 @@ Está [JOSEKO Vela de aromaterapia para mujer  juego de regalo  cera de soja nat
 
 - 4 populares fragancias set de regalo con velas perfumadas y 4 paquetes, 4 fragancias incluyendo rosa, lavanda, limón y perfume Miss Coco.
 - Cera de soja 100 % natural hecha de cera de soja 100 % pura, quema más limpia y dura más tiempo. Se quema uniformemente, no produce humo negro y es inofensivo para el cuerpo humano y el medio ambiente. Está hecho de núcleo de plomo y algodón y aceites esenciales de alta calidad, suaves y altamente refinados en calidad de perfume y te ofrece productos respetuosos con el medio ambiente que pueden traerte una alegría aromática duradera.
-- Juego de regalo perfecto: la vela de aromaterapia contiene fragancias ricas y un hermoso embalaje es una buena opción para regalos de cumpleaños de la madre. Son adecuados para cualquier día festivo u ocasión especial, como Navidad, cumpleaños, vacaciones, aniversario, día de la madre o simplemente regalos para ellos y agradecimiento.
 - Contenido de cera de larga duración de 125 g por pieza, 25 – 30 horas de combustión. Total de 100 120 horas de combustión. Crea un ambiente que mejora el estado de ánimo, relájate. Recorta las mechas para lograr una combustión uniforme y prolongar el tiempo de combustión.
+- Juego de regalo perfecto: la vela de aromaterapia contiene fragancias ricas y un hermoso embalaje es una buena opción para regalos de cumpleaños de la madre. Son adecuados para cualquier día festivo u ocasión especial, como Navidad, cumpleaños, vacaciones, aniversario, día de la madre o simplemente regalos para ellos y agradecimiento.
 - Los recipientes de vela de aromaterapia portátiles y reutilizables son bonitos y atractivos, adecuados para decorar tu hogar o para guardar algunas cosas pequeñas cuando se usan.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08NC56PSV/?tag=tolees-21)
