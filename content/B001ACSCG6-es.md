@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sonett 6031 - Jabón de bilis Sonett  100 al 11.61 % de descuento'
-date: 2021-08-05 13:50:24
+date: 2021-08-18 13:15:58
 image: 'https://m.media-amazon.com/images/I/31-u1mDURPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -30,7 +30,7 @@ Tienes [Catunambú Ristretto - Cápsulas Compatibles con Máquinas Nespresso  Ca
 
 - Ingredientes: café, intensidad 9
 - Cápsulas de aluminio, compatibles con máquinas nespresso(r), marca no relacionada con global coffee industries s. a.
-- producto de alta calidad
 - Alérgenos: sin gluten ni frutos secos
+- producto de alta calidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08Z4VSFV9/?tag=tolees-21)
