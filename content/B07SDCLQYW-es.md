@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Decdeal 1 - Dispensador de Jabón de Pare al 11.77 % de descuento'
-date: 2021-08-17 16:22:47
+date: 2021-08-19 12:50:32
 image: 'https://m.media-amazon.com/images/I/31DUGoP+vVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
