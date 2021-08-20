@@ -28,10 +28,10 @@ Ahora mismo tienes [Laboratorios Babé - Champú Costra Láctea Pediátrico 200 
 
 🔎:
 
-- Cuida y respeta delicadamente el cuero cabelludo y el cabello.
 - Cuida y respeta delicadamente el cuero cabelludo y el cabello, aportando suavidad y brillo.
 - Fórmula con potentes activos que actúan sobre los desencadenantes de la costra láctea.
 - Previene y ayuda a eliminar la costra láctea.
+- Cuida y respeta delicadamente el cuero cabelludo y el cabello.
 - Aplicar sobre el cuero cabelludo previamente mojado. Realizar un suave masaje. Dejar actuar unos minutos. Aclarar abundantemente. Usar 2 - 3 veces por semana. Evitar el contacto con los ojos. Alternar con el Champú Extrasuave Pediátrico.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0068IOJI2/?tag=tolees-21)

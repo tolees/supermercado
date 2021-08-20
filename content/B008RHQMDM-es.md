@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Serpis Aceituna Cacereñas Negras sin Hue con un 33.56 % de descuento'
-date: 2021-08-14 09:40:39
+date: 2021-08-20 19:50:37
 image: 'https://m.media-amazon.com/images/I/51Wtf9mnOzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Serpis Aceituna Cacereñas Negras sin Hueso  350g](https:
 
 🔎:
 
-- Peso neto de 350 g, Peso escurrido de 150 g
 - Una vez abierto, conservar en el frigorifico
+- Peso neto de 350 g, Peso escurrido de 150 g
 - Se debe conservar en un lugar fresco y seco
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008RHQMDM/?tag=tolees-21)

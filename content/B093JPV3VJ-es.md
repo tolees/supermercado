@@ -28,8 +28,8 @@ En este momento está [Aussie Tratamiento Acondicionador Intensivo Para El Cuida
 
 🔎:
 
-- Superfrutas australianas milagrosas para auténticas emergencias capilares
 - Repara y revive
+- Superfrutas australianas milagrosas para auténticas emergencias capilares
 - Tratamiento intensivo con mirto limón australiano
 - Tratamiento intensivo SOS repair
 
