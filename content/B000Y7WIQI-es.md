@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Roche-Posay - La Roche Posay Kerium D al 29.71 % de descuento'
-date: 2021-08-15 08:54:00
+date: 2021-08-20 12:33:26
 image: 'https://m.media-amazon.com/images/I/31vsqb8aGDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'La Roche-Posay'
 buyurl: 'https://www.amazon.es/dp/B000Y7WIQI/?tag=tolees-21'
 descuento: '29.71'
-average: '12.964'
+average: '12.9683333333333'
 ---
 
 Ahora mismo tienes [La Roche-Posay - La Roche Posay Kerium DS Champú Purificante Anticaspa - 125 ml](https://www.amazon.es/dp/B000Y7WIQI/?tag=tolees-21) a 12.99 EUR (original: 18.48 EUR) (29.71 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [La Roche-Posay - La Roche Posay Kerium DS Champú Purificant
 
 🔎:
 
-- Marca - La Roche Posay
-- Tipo de producto - Champú
 - Producto pensado para cualquier persona, ya sea hombre o mujer,
+- Tipo de producto - Champú
+- Marca - La Roche Posay
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000Y7WIQI/?tag=tolees-21)
