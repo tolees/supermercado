@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Babaria - Aloe Vera Balsamo Reparador  2 al 34.00 % de descuento'
-date: 2021-08-13 11:37:37
+date: 2021-08-21 11:50:13
 image: 'https://m.media-amazon.com/images/I/41qCLwA-HOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Babaria'
 buyurl: 'https://www.amazon.es/dp/B001L97KRU/?tag=tolees-21'
 descuento: '34.00'
-average: '4.80916666666667'
+average: '4.82'
 ---
 
 Ahora mismo tienes [Babaria - Aloe Vera Balsamo Reparador  250 ml](https://www.amazon.es/dp/B001L97KRU/?tag=tolees-21) a 4.95 EUR (original: 7.5 EUR) (34.00 %  de descuento) en el siguiente enlace!

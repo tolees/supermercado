@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pompadour Té Verde Hierba Buena Frío - 1 al 0.00 % de descuento'
-date: 2021-08-13 11:48:24
+date: 2021-08-21 12:11:30
 image: 'https://m.media-amazon.com/images/I/51ir11e19RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pompadour'
 buyurl: 'https://www.amazon.es/dp/B07YWQ777B/?tag=tolees-21'
 descuento: '0.00'
-average: '2.0975'
+average: '2.08555555555556'
 ---
 
 Ahora mismo tienes [Pompadour Té Verde Hierba Buena Frío - 18 bolsitas](https://www.amazon.es/dp/B07YWQ777B/?tag=tolees-21) a 1.99 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [Pompadour Té Verde Hierba Buena Frío - 18 bolsitas](https:
 🔎:
 
 - Té frío Verde con Hierba Buena compuesto de dos aromáticas plantas (hierbabuena y regaliz)
-- Sin azucares añadidos ni edulcorantes
-- Para todos esos días que no tienes tiempo de preparar un desayuno tranquilo
 - 18 bolsitas en envueltas herméticas e individuales con triple capa HS
+- Para todos esos días que no tienes tiempo de preparar un desayuno tranquilo
+- Sin azucares añadidos ni edulcorantes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YWQ777B/?tag=tolees-21)
