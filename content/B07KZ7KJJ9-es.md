@@ -28,9 +28,9 @@ Tienes [PBN Premium Body Nutrition - Paquete de proteína de suero de leche ligh
 
 🔎:
 
+- Deliciosa proteína de suero de leche light con sabor a chocolate para deportistas que deseen aumentar su ingesta de proteína
 - Ingredientes de excelente calidad
 - Raciones por envase: 33
-- Deliciosa proteína de suero de leche light con sabor a chocolate para deportistas que deseen aumentar su ingesta de proteína
 - PBN - Paquete de proteína de suero de leche light, 1 kg (sabor chocolate)
 - Proteína light para ayudar con la pérdida de peso
 
