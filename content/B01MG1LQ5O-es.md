@@ -28,9 +28,9 @@ Tienes [Kas Bebida Refrescante de Zumo de Limón con Edulcorantes  sin Azúcares
 
 ℹ️:
 
-- Conservar en lugar limpio, fresco y seco
-- No congelar
 - Evitar el contacto directo con el suelo
+- No congelar
+- Conservar en lugar limpio, fresco y seco
 - Proteger de la luz solar y de olores agresivos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MG1LQ5O/?tag=tolees-21)
