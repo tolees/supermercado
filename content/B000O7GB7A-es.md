@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lancaster Cb Soft Cleansing Foam 150 ml al 0.00 % de descuento'
-date: 2021-08-10 21:29:07
+date: 2021-08-23 08:16:17
 image: 'https://m.media-amazon.com/images/I/31JuBrovFcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lancaster'
 buyurl: 'https://www.amazon.es/dp/B000O7GB7A/?tag=tolees-21'
 descuento: '0.00'
-average: '14.5366666666667'
+average: '14.14'
 ---
 
 Ahora mismo tienes [Lancaster Cb Soft Cleansing Foam 150 ml](https://www.amazon.es/dp/B000O7GB7A/?tag=tolees-21) a 12.95 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Lancaster Cb Soft Cleansing Foam 150 ml](https://www.amazon.
 
 🔎:
 
+- Este producto está indicado para mujeres.
 - Este producto está indicado para todo tipo de pieles.
 - De la marca Lancaster.
 - Contiene 150 ml.
-- Este producto está indicado para mujeres.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000O7GB7A/?tag=tolees-21)
