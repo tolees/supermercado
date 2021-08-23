@@ -28,9 +28,9 @@ Ahora mismo tienes [Nestlé NATIVA 2- Leche de continuación en polvo- Fórmula 
 
 🔎:
 
-- Aporta a peques los nutrientes que necesita
-- Leche de continuación en polvo
 - Contiene DHA (Omega 3), calcio, vitamina D y vitaminas A y C
+- Leche de continuación en polvo
+- Aporta a peques los nutrientes que necesita
 - Para bebés a partir de los seis meses
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088PJRG97/?tag=tolees-21)
