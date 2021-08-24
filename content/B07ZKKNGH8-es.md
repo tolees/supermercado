@@ -28,14 +28,14 @@ En este momento está [Gin Puerto de Indias - Gin Guadalquivir - Ginebra Premium
 
 🔎:
 
+- Final: enérgico y refrescante a la vez
+- En boca: redondo con un intenso sabor afrutado y toques de cítricos y enebro
 - Sabor: Ginebra de melocotón con toques cítricos
+- Ginebra Premium Puerto de Indias de melocotón. VOL 70cl
+- En nariz: afrutado con aromas a melocotón y un olor de fondo a naranja y enebro que combina con el inconfundible olor avainillado del saúco
+- A la vista: color melocotón atardecer
+- ¿Cómo tomarla? Combínala con tónica o 7up y añade una rodaja de naranja
 - Una ginebra con armonía y personalidad propia en la que se mezclan el melocotón, la flor de sauco y la naranja para hacerte descubrir nuevas sensaciones
 - Puerto de Indias es la marca de la primera ginebra de fresas que inspiró una nueva categoría
-- En boca: redondo con un intenso sabor afrutado y toques de cítricos y enebro
-- Ginebra Premium Puerto de Indias de melocotón. VOL 70cl
-- ¿Cómo tomarla? Combínala con tónica o 7up y añade una rodaja de naranja
-- A la vista: color melocotón atardecer
-- Final: enérgico y refrescante a la vez
-- En nariz: afrutado con aromas a melocotón y un olor de fondo a naranja y enebro que combina con el inconfundible olor avainillado del saúco
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZKKNGH8/?tag=tolees-21)

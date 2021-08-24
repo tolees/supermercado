@@ -28,9 +28,9 @@ En este momento está [Helios - Mermelada de Frambuesa Extra  340 gr](https://ww
 
 🔎:
 
-- Sin conservantes
+- Con un 60% de fruta
 - Sin lactosa
 - Sin gluten. Apto para celíacos
-- Con un 60% de fruta
+- Sin conservantes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00H8LRYOY/?tag=tolees-21)

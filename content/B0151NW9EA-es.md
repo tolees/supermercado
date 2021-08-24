@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline  Máscara - 1 unidad al 0.00 % de rebaja'
-date: 2021-08-23 09:33:33
+date: 2021-08-24 09:50:18
 image: 'https://m.media-amazon.com/images/I/31i+LIPxUJS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Maybelline  Máscara - 1 unidad](https://www.amazon.es/dp/B0151NW9EA/?ta
 
 🔎:
 
-- Mascara de pestañas Maquillaje Mujer
-- Mascara for multiplication of algae (Sensational Lash Mascara Lash multiplying) 9.5 ml - Shade: Intense B (3600531230906)
 - Mascara de pestañas Maybelline
+- Mascara for multiplication of algae (Sensational Lash Mascara Lash multiplying) 9.5 ml - Shade: Intense B (3600531230906)
+- Mascara de pestañas Maquillaje Mujer
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0151NW9EA/?tag=tolees-21)
