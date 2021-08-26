@@ -28,10 +28,10 @@ Tienes [Sanytol – Limpiador Desinfectante Antical Baños  Elimina Bacterias  H
 
 🔎:
 
-- No desprende vapores, no mancha textiles, no daña superficies, y está testado dermatológicamente. Sin fosfatos, ftalatos ni disruptores endocrinos.
-- Elimina los malos olores y deja un agradable aroma a Eucaliptus.
 - Limpia, elimina la cal y desinfecta sin lejía de una sola pasada todo tipo de superficies.
 - Ideal para una limpieza en profundidad de bañeras, lavabos, sanitarios, griferías, juntas y azulejos.
+- No desprende vapores, no mancha textiles, no daña superficies, y está testado dermatológicamente. Sin fosfatos, ftalatos ni disruptores endocrinos.
 - Limpiador Desinfectante Baños eficaz contra bacterias, hongos, como los responsables de la formación del moho, y virus envueltos.
+- Elimina los malos olores y deja un agradable aroma a Eucaliptus.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085SV6N9G/?tag=tolees-21)
