@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Hydro boost crema corporal. P al 0.00 % de descuento'
-date: 2021-08-23 08:00:30
+date: 2021-08-26 21:43:33
 image: 'https://m.media-amazon.com/images/I/41Jh8qiAiHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Neutrogena'
 buyurl: 'https://www.amazon.es/dp/B07CRLJVWR/?tag=tolees-21'
 descuento: '0.00'
-average: '4.524'
+average: '4.06857142857143'
 ---
 
 Ahora mismo tienes [Neutrogena Hydro boost crema corporal. Piel seca refrescante 200 ml](https://www.amazon.es/dp/B07CRLJVWR/?tag=tolees-21) a 2.93 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
