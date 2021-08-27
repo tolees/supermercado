@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Ositos De Oro Azúcar  1 x 150 g al 45.45 % de descuento'
-date: 2021-08-20 08:08:12
+date: 2021-08-27 11:18:40
 image: 'https://m.media-amazon.com/images/I/51QWRkwSFPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B07WSWVJQF/?tag=tolees-21'
 descuento: '45.45'
-average: '0.990909090909091'
+average: '0.976923076923077'
 ---
 
 Ahora mismo tienes [HARIBO Ositos De Oro Azúcar  1 x 150 g](https://www.amazon.es/dp/B07WSWVJQF/?tag=tolees-21) a 0.9 EUR (original: 1.65 EUR) (45.45 %  de descuento) en el siguiente enlace!
