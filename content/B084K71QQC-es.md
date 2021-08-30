@@ -28,10 +28,10 @@ Está [Parodontax  Herbal Fresh  Pasta de Dientes  Ayuda a Detener y Prevenir el
 
 ℹ️:
 
-- Pack de 3 unidades de 75 ml cada unidad
 - Su fórmula elimina la placa bacteriana con una eficacia 4 veces mayor que una pasta convencional
 - Tiene un nuevo aroma con menta y jengibre, que proporciona un sabor fresco y mejorado
 - Pasta de dientes con flúor que ayuda a fortalecer los dientes y prevenir el sangrado de encías
+- Pack de 3 unidades de 75 ml cada unidad
 - Su uso diario, 2 veces al día, ayuda a mantener una protección duradera contra la sensibilidad dental y la placa bacteriana
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084K71QQC/?tag=tolees-21)
