@@ -29,8 +29,8 @@ En este momento está [Rexona Desodorante Antitranspirante Shower Fresh - Pack d
 🔎:
 
 - Fresca y energizante fragancia a hierbabuena y almizcle
-- Protección eficaz 48h contra el sudor y el mal olor corporal
-- Nuestra mejor protección en formato spray para seguir en movimiento todo el día
 - Único con tecnología de encapsulación patentada MotionSense que se activa con el movimiento
+- Nuestra mejor protección en formato spray para seguir en movimiento todo el día
+- Protección eficaz 48h contra el sudor y el mal olor corporal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QL8YXYB/?tag=tolees-21)

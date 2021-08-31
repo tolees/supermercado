@@ -28,9 +28,9 @@ Tienes [Red Bull Bebida Energética  Sandía  12 Latas de 250Mililitros  3000 Mi
 
 🔎:
 
+- Bebida Energética
+- Red Bull con sabor de Sandía
 - País de origen: Austria
 - 12 latas de 250ml
-- Red Bull con sabor de Sandía
-- Bebida Energética
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VY5Q24C/?tag=tolees-21)
