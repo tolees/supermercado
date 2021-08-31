@@ -28,8 +28,8 @@ Está [Nestlé Nesquik All Natural Fresa Ready to Drink 3x180 ml - Pack de 8 - T
 
 ℹ️:
 
-- España
 - Conservar en un lugar fresco y seco. Una vez abierto conservar refrigerado y consumir antes de 48h
+- España
 - Alérgenos: leche
 - Leche parcialmente desnatada (0.9% materia grasa) (88%), puré de fresa (5%), azúcar moreno de caña integral (2.6%), aroma natural. Sin Gluten
 
