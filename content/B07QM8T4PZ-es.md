@@ -28,9 +28,9 @@ Tienes [Rexona Invisible Desodorante Antitranspirante Black&White - Pack de 6 x 
 
 🔎:
 
+- Fresca y energizante fragancia a hierbabuena y almizcle
 - Protección eficaz 48h contra el sudor y el mal olor corporal
 - Nuestra mejor protección en formato spray para seguir en movimiento todo el día
-- Fresca y energizante fragancia a hierbabuena y almizcle
 - Único con tecnología de encapsulación patentada MotionSense que se activa con el movimiento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QM8T4PZ/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [FRCOLOR - Eyeliner plantilla plantilla Shaper Eyeline maq
 
 🔎:
 
+- Mantenga estable y disminuir batidos al dibujar la línea del ojo.
 - Usted puede elegir un lado con el mejor efecto que te gusta al hacer para arriba.
+- Una herramienta de maquillaje maravilloso para el principiante.
 - Dos tipos de curvas y ángulos en ambos lados de este bafle.
 - Color: Pink.Material: ABS. Tamaño: 8 * 3. 5 cm.
-- Una herramienta de maquillaje maravilloso para el principiante.
-- Mantenga estable y disminuir batidos al dibujar la línea del ojo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071QWG8QS/?tag=tolees-21)

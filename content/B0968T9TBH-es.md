@@ -30,8 +30,8 @@ Tienes [Tomantery - Cápsula de café  cápsula recargable reutilizable para má
 
 - Los orificios inferiores aseguran una buena filtración y un fuerte sabor original del café.
 - Antióxido, resistente a la corrosión y fácil de limpiar.
+- Hecho de acero inoxidable de primera calidad, seguro y saludable, duradero de usar
 - Con este filtro de cápsulas de café, puedes hacer tus bebidas de café favoritas en casa.
 - Es recargable, se puede utilizar repetidamente.
-- Hecho de acero inoxidable de primera calidad, seguro y saludable, duradero de usar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0968T9TBH/?tag=tolees-21)
