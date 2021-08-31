@@ -28,10 +28,10 @@ Tienes [Cereales Nestlé Chocapic - 14 paquetes de 375 g](https://www.amazon.es/
 
 🔎:
 
-- Los cereales de siempre, con el inconfundible sabor a CHOCAPIC
-- Cada estuche contiene, aproximadamente, 12 porciones de 30 g
-- Cereales integrales como ingrediente número 1
-- Sin aceite de palma, ni colorantes, ni aromas artificiales
 - Son fuente de fibra y tienen vitaminas del grupo B, calcio, hierro y ácido fólico
+- Los cereales de siempre, con el inconfundible sabor a CHOCAPIC
+- Sin aceite de palma, ni colorantes, ni aromas artificiales
+- Cereales integrales como ingrediente número 1
+- Cada estuche contiene, aproximadamente, 12 porciones de 30 g
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B184FMN/?tag=tolees-21)
