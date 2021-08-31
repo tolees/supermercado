@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hellmann s - Salsa Barbacoa Bocabajo  28 al 28.95 % de descuento'
-date: 2021-08-23 14:55:17
+date: 2021-08-31 07:16:59
 image: 'https://m.media-amazon.com/images/I/41rTF80ENeS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hellmanns'
 buyurl: 'https://www.amazon.es/dp/B00XAC1ISS/?tag=tolees-21'
 descuento: '28.95'
-average: '1.13407407407408'
+average: '1.13034482758621'
 ---
 
 Está [Hellmann s - Salsa Barbacoa Bocabajo  285 gr](https://www.amazon.es/dp/B00XAC1ISS/?tag=tolees-21) con 28.95 de descuento por 1.08 EUR (original: 1.52 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [Hellmann s - Salsa Barbacoa Bocabajo  285 gr](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Sin colorantes artificiales​
-- Con tomates cultivados de forma sostenible​
-- Salsa barbacoa para realzar el sabor ahumado de la carne
-- Disfruta del auténtico sabor Hellmann’s en tus barbacoas
 - Botella 100% reciclable
+- Disfruta del auténtico sabor Hellmann’s en tus barbacoas
 - Óptimo con costillas a la brasa, alitas de pollo y hamburguesas
+- Salsa barbacoa para realzar el sabor ahumado de la carne
+- Con tomates cultivados de forma sostenible​
+- Sin colorantes artificiales​
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XAC1ISS/?tag=tolees-21)
