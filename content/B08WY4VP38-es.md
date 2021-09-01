@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Axe Excite Rock Desodorante - 150 ml - P con un 26.27 % de descuento'
-date: 2021-08-31 10:03:37
+date: 2021-09-01 12:26:29
 image: 'https://m.media-amazon.com/images/I/41tkT69UIRS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'AXE'
 buyurl: 'https://www.amazon.es/dp/B08WY4VP38/?tag=tolees-21'
 descuento: '26.27'
-average: '15.4'
+average: '15.0642857142857'
 ---
 
 En este momento está [Axe Excite Rock Desodorante - 150 ml - Pack de 6](https://www.amazon.es/dp/B08WY4VP38/?tag=tolees-21) a 13.05 EUR (original: 17.7 EUR) (26.27 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [Axe Excite Rock Desodorante - 150 ml - Pack de 6](https:/
 
 🔎:
 
-- Fórmula sin aluminio
-- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
-- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
-- ¡Prueba toda la nueva gama Axe!
 - Fragancia Excite con aroma a madera, coco caliente, avellana y caramelo
 - Con Tecnología Dual Action: Elimina el mal olor, fragancias irresistibles
+- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
+- ¡Prueba toda la nueva gama Axe!
+- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
+- Fórmula sin aluminio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WY4VP38/?tag=tolees-21)
