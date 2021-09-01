@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bitter KAS - Kas Refresco de Zumo de Lim al 20.39 % de rebaja'
-date: 2021-08-29 13:29:20
+date: 2021-09-01 19:35:54
 image: 'https://m.media-amazon.com/images/I/41-eUKxpv4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bitter KAS'
 buyurl: 'https://www.amazon.es/dp/B089BJD2D4/?tag=tolees-21'
 descuento: '20.39'
-average: '12.04'
+average: '12.1688888888889'
 ---
 
 Tienes [Bitter KAS - Kas Refresco de Zumo de Limón - Paquete de 24 x 330 ml](https://www.amazon.es/dp/B089BJD2D4/?tag=tolees-21) con precio final de  13.2 EUR (original: 16.58 EUR) (20.39 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [Bitter KAS - Kas Refresco de Zumo de Limón - Paquete de 24 x 330 ml](ht
 
 🔎:
 
-- Conservar en lugar limpio, fresco y seco
-- No congelar
-- Proteger de la luz solar y de olores agresivos
 - Evitar el contacto directo con el suelo
+- Conservar en lugar limpio, fresco y seco
+- Proteger de la luz solar y de olores agresivos
+- No congelar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089BJD2D4/?tag=tolees-21)
