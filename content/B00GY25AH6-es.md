@@ -28,8 +28,8 @@ Está [Isdin Zincation Champú Anticaspa Uso frecuente - 1 x 400ml](https://www.
 
 ℹ️:
 
-- Champú anticaspa de uso diario
 - Elimina la caspa visible; con ingredientes suavizantes, protectores y acondicionadores que dejan el cabello limpio y manejable
+- Champú anticaspa de uso diario
 - Formulado con zinc pyrithione especialmente dirigido a la eliminación de la caspa visible
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00GY25AH6/?tag=tolees-21)

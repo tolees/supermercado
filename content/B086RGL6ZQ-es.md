@@ -29,9 +29,9 @@ Está [Germinal Galletas de Trigo Sarraceno Rellenas de Albaricoque  sin Gluten 
 ℹ️:
 
 - Certificado gluten free, apto para dietas celiacas
-- Elaborado con ingredientes procedentes de agricultura ecológica
-- Sin aceite de palma
-- Contiene huevos. Puede contener trazas de soja.
 - Rellenas de crema de albaricoque
+- Elaborado con ingredientes procedentes de agricultura ecológica
+- Contiene huevos. Puede contener trazas de soja.
+- Sin aceite de palma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086RGL6ZQ/?tag=tolees-21)
