@@ -28,10 +28,10 @@ Ahora mismo tienes [Bosch Home and Garden - Bosch Hidrolimpiadora de alta presi�
 
 🔎:
 
+- El accesorio de chorro plano se puede ajustar individualmente para regular la potencia del lavado
+- Las herramientas Easy para jardín de Bosch: para jardines de tamaño medio y tamaño pequeño
 - Incluye: EasyAquatak 100, boquilla de 360° con depósito para detergente, caja de cartón
 - Manejable y compacta gracias a su diseño estable y al sistema de almacenaje de la manguera de limpieza, que ayuda ahorrar espacio
-- Las herramientas Easy para jardín de Bosch: para jardines de tamaño medio y tamaño pequeño
 - Limpiadora de alta presión EasyAquatak 100: limpieza eficaz, cómoda y sencilla gracias a la boquilla ajustable de 360°
-- El accesorio de chorro plano se puede ajustar individualmente para regular la potencia del lavado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077ZL67RM/?tag=tolees-21)
