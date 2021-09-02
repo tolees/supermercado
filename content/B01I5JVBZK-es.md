@@ -28,9 +28,9 @@ Tienes [LITORAL Hoy Legumbres Lentejas con su sofrito - Plato Preparado Sin Glut
 
 ℹ️:
 
-- Contiene lentejas cocidas y salsa sofrito
-- Plato preparado con ingredientes naturales
 - Un plato típico de la gastronomía española
+- Plato preparado con ingredientes naturales
 - No contienen gluten ni aditivos
+- Contiene lentejas cocidas y salsa sofrito
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01I5JVBZK/?tag=tolees-21)
