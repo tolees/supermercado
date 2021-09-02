@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Magno - Gel de Ducha Black Energy - 6uds con un 23.82 % de descuento'
-date: 2021-08-28 17:35:32
+date: 2021-09-02 19:23:17
 image: 'https://m.media-amazon.com/images/I/51nmpi9wBLS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
