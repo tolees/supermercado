@@ -28,10 +28,10 @@ Ahora mismo tienes [ECG RZ 11 Cocedora de arroz](https://www.amazon.es/dp/B01F6N
 
 🔎:
 
-- Olla arrocera ECG RZ 11. Destinada para preparar todos los tipos de arroz, capacidad de 1 l, 700 g de arroz como maximo (peso antes de la coccion), recipiente extraible con superficie antiadherente
-- La arrocera es una olla especial para preparar arroz. La capacidad de la olla representa 1 litro y 700 g de arroz
-- Mantenimiento automatico de temperatura (hasta por 5 horas), conmutador de seguridad, proteccion contra el sobrecalentamiento, potencia absorbida de 400 W.
 - Recipiente extraible con superficie antiadherente, mantenimiento automatico de temperatura hasta por 5 horas, conmutador de seguridad, dosificador - cuchara para remover y servir
 - Esta olla especial dispone de la función del mantenimiento automático de temperatura, por el tiempo de 5 horas. Gracias a esta función, el arroz no queda seco y se mantiene caliente
+- Mantenimiento automatico de temperatura (hasta por 5 horas), conmutador de seguridad, proteccion contra el sobrecalentamiento, potencia absorbida de 400 W.
+- Olla arrocera ECG RZ 11. Destinada para preparar todos los tipos de arroz, capacidad de 1 l, 700 g de arroz como maximo (peso antes de la coccion), recipiente extraible con superficie antiadherente
+- La arrocera es una olla especial para preparar arroz. La capacidad de la olla representa 1 litro y 700 g de arroz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01F6NNGJ2/?tag=tolees-21)

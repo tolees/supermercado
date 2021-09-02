@@ -28,8 +28,8 @@ En este momento está [Instituto Español Loción Corporal de Colágeno Reafirma
 
 🔎:
 
-- Género: Unisex Adulto
-- Texturas: Loción
 - Tipo de Piel: Todo Tipo de Pieles
+- Texturas: Loción
+- Género: Unisex Adulto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00JA5MOR8/?tag=tolees-21)
