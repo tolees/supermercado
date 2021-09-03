@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scholl Lima Eléctrica Durezas Pies Velve al 11.23 % de descuento'
-date: 2021-09-02 12:51:19
+date: 2021-09-03 22:42:19
 image: 'https://m.media-amazon.com/images/I/511mzF75ugL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Scholl'
 buyurl: 'https://www.amazon.es/dp/B01C6ZC2NE/?tag=tolees-21'
 descuento: '11.23'
-average: '19.0969047619047'
+average: '19.0479069767441'
 ---
 
 Ahora mismo tienes [Scholl Lima Eléctrica Durezas Pies Velvet Smooth con Cabezal Exfoliante para Pies y Piernas Secas  Color Rosa](https://www.amazon.es/dp/B01C6ZC2NE/?tag=tolees-21) a 16.99 EUR (original: 19.14 EUR) (11.23 %  de descuento) en el siguiente enlace!
