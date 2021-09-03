@@ -28,8 +28,8 @@ En este momento está [Torres Patatas Fritas con Trufa Negra - 20 Bolsas](https:
 
 🔎:
 
-- Premium Potato Chips
 - Pais de origen: España
 - Con Trufa Negra
+- Premium Potato Chips
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078QFXLZG/?tag=tolees-21)
