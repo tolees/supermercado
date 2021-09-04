@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Herbal Original Pasta de Dientes al 12.00 % de descuento'
-date: 2021-09-02 14:14:29
+date: 2021-09-04 19:24:10
 image: 'https://m.media-amazon.com/images/I/51-VUjJu0wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Colgate'
 buyurl: 'https://www.amazon.es/dp/B00XDOSO7G/?tag=tolees-21'
 descuento: '12.00'
-average: '2.16'
+average: '2.115'
 ---
 
 Ahora mismo tienes [Colgate Herbal Original Pasta de Dientes  para Dientes y Encías  Blanco  2 x 75ml](https://www.amazon.es/dp/B00XDOSO7G/?tag=tolees-21) a 1.98 EUR (original: 2.25 EUR) (12.00 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Colgate Herbal Original Pasta de Dientes  para Dientes y Enc
 
 🔎:
 
-- Contiene flúor y extractos de plantas
-- Consigue unos dientes y unas encías más sanos
 - Contiene extractos de hierbas naturales: menta, manzanilla, camomila, eucalipto
+- Consigue unos dientes y unas encías más sanos
+- Contiene flúor y extractos de plantas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XDOSO7G/?tag=tolees-21)
