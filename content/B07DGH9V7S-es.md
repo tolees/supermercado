@@ -28,8 +28,8 @@ Ahora mismo tienes [Oral-B Vitality 100 Cepillo De Dientes Eléctrico  1 Mango B
 
 🔎:
 
-- Contenido: 1 mango de cepillo de dientes, 1 cabezal
 - Vibra cada 30 segundos para avisarte de que cambies la zona que te estás cepillando
+- Contenido: 1 mango de cepillo de dientes, 1 cabezal
 - Elimina más placa que un cepillo manual normal
 - El cepillo esencial para conseguir una limpieza diaria
 
