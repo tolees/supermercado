@@ -28,11 +28,11 @@ Está [Amazon Basic Care Crema de pies cuidado diario con aguacate - Pack de 4  
 
 ℹ️:
 
-- Sin perfume
-- 4 tubos de 75 ml
 - Hidrata la piel gracias a una combinación de urea al 5%, glicerina y pantenol
-- Con aloe vera calmante (y pantenol).Con aceite de aguacate y manteca de karité
-- Dermatológicamente testado
 - Cuidado hidratante sin sensación grasa
+- 4 tubos de 75 ml
+- Con aloe vera calmante (y pantenol).Con aceite de aguacate y manteca de karité
+- Sin perfume
+- Dermatológicamente testado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LQWYT6P/?tag=tolees-21)
