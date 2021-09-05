@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Krups VB7008 5L Dispensador de cerveza d al 26.98 % de descuento'
-date: 2020-09-03 12:24:59
-image: 'https://m.media-amazon.com/images/I/41GisSWrlcL._SL400_.jpg'
+title: 'Krups VB700800 BeerTender Dispensador de al 0.00 % de descuento'
+date: 2021-09-05 10:14:46
+image: 'https://m.media-amazon.com/images/I/41GisSWrlcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01CI2JTDG-es Krups VB7008 5L Dispensador de cerveza de barril - Tirador...'
+slug: 'B01CI2JTDG-es Krups VB700800 BeerTender Dispensador de cerveza...'
 sku: 'B01CI2JTDG-es'
-tags: [ 'cerveza', ]
-actualPrice: 230.61 EUR
+tags: [ 'Grandes electrodomésticos','Minitirador de cerveza','Vinotecas y frigoríficos para barriles de cerveza','cerveza','krups', ]
+actualPrice: 263.36 EUR
 currency: EUR
-price: 230.61
-comparePrice: 315.81 EUR
-prodname: 'Krups VB7008 5L Dispensador de cerveza de barril - Tirador de cerveza  5 38 kg  300 x 452 x 494 mm  61 W  Poder '
+price: 263.36
+comparePrice:  EUR
+prodname: 'Krups VB700800 BeerTender Dispensador de cerveza termoplástico  color negro'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Krups'
 buyurl: 'https://www.amazon.es/dp/B01CI2JTDG/?tag=tolees-21'
-descuento: '26.98'
-average: '230.61'
+descuento: '0.00'
+average: '241.526666666667'
 ---
 
-Ahora mismo tienes [Krups VB7008 5L Dispensador de cerveza de barril - Tirador de cerveza  5 38 kg  300 x 452 x 494 mm  61 W  Poder ](https://www.amazon.es/dp/B01CI2JTDG/?tag=tolees-21) a 230.61 EUR (original: 315.81 EUR) (26.98 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Krups VB700800 BeerTender Dispensador de cerveza termoplástico  color negro](https://www.amazon.es/dp/B01CI2JTDG/?tag=tolees-21) a 263.36 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
 
-[![Krups VB7008 5L Dispensador de cerveza d](https://m.media-amazon.com/images/I/41GisSWrlcL._SL400_.jpg)](https://www.amazon.es/dp/B01CI2JTDG/?tag=tolees-21)
+[![Krups VB700800 BeerTender Dispensador de](https://m.media-amazon.com/images/I/41GisSWrlcL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01CI2JTDG/?tag=tolees-21)
 
 🔎:
 
+- diseñado con barril presurizado, indicador de temperatura y un indicador de volumen restante
+- Dispensador de cerveza con un volumen de 5 L
+- Equipado con un tirador extraíble para seguridad infantil y una bandeja escurridora de acero inoxidable removible
+- Barriles compatibles con Heineken Pelforth rubia, Affligem y Desperados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01CI2JTDG/?tag=tolees-21)
