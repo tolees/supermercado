@@ -28,11 +28,11 @@ Ahora mismo tienes [Detergente Liquido Flota Marsella 180 Lavados](https://www.a
 
 🔎:
 
-- Formato Familiar Ahorro
-- Det. Líquido Lavado Ropa 2x90 Dosis (2X4,95L)
 - Indicado para Ropa Blanca y Color
-- Perfume Tradicional Duradero
-- Resultados también en Ciclos Cortos
+- Det. Líquido Lavado Ropa 2x90 Dosis (2X4,95L)
 - Limpieza Eficaz contra las manchas
+- Resultados también en Ciclos Cortos
+- Formato Familiar Ahorro
+- Perfume Tradicional Duradero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KJHHQMJ/?tag=tolees-21)
