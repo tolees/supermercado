@@ -28,11 +28,11 @@ Está [CAMPOS  Conserva de atún en aceite de girasol - lata de 400 g  320401002
 
 ℹ️:
 
+- Alto contenido en proteína, proteína barata, ideal para deportistas
 - Método de pesca: cerco; ver especie y zona de pesca en la lata
+- Lata ideal para consumo de varias personas dependiendo de su uso
 - País de origen: españa, producto natural sin conservantes ni colorantes
 - Conserva de atún en aceite de girasol
-- Alto contenido en proteína, proteína barata, ideal para deportistas
 - Práctica lata individual de 400 g peso neto con tapa fácil apertura.
-- Lata ideal para consumo de varias personas dependiendo de su uso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NRQ6RLM/?tag=tolees-21)
