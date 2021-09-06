@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VICHY Desodorante Frescor Extremo Vapori con un 16.00 % de descuento'
-date: 2021-08-14 18:25:38
+date: 2021-09-06 11:56:23
 image: 'https://m.media-amazon.com/images/I/31LP-JtzthL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
