@@ -29,9 +29,9 @@ Tienes [Maybelline New York - Maybelline Master Stick Contour  Tono: 1 Light - 7
 ℹ️:
 
 - Nombre del color: light
-- Adecuado para los tipos de piel
 - Tipo de dispensador: lápiz
-- Número de colores: 2
 - Dirigido a las mujeres
+- Adecuado para los tipos de piel
+- Número de colores: 2
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01E3ESSW0/?tag=tolees-21)

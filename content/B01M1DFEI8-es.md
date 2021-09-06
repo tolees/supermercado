@@ -29,8 +29,8 @@ En este momento está [Scottex Collection Doble Capa Servilletas  Colores Surtid
 🔎:
 
 - Diseño elegante y sofisticado
-- Número de modelo del producto: 5829191
-- 50 Unidades
 - Con dos capas
+- 50 Unidades
+- Número de modelo del producto: 5829191
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M1DFEI8/?tag=tolees-21)

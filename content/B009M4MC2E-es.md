@@ -28,11 +28,11 @@ Ahora mismo tienes [Otc - Ferrer Otc Antipiojos Champu Permetrina  15% 125 ml  P
 
 🔎:
 
-- Mínima absorción cutánea
 - Champú de efecto ANTIPARASITARIO
-- EFICACIA contra los piojos de un 97-99% y contra las liendres de un 70-80%
 - Apto para adultos y niños A PARTIR DE 2 AÑOS; pediculicida apto para mujeres embarazadas
-- CONTIENE PERMETRINA, activo pediculicida recomendado por la oms en una concentración al 1,5% que garantiza la máxima eficacia
+- Mínima absorción cutánea
+- EFICACIA contra los piojos de un 97-99% y contra las liendres de un 70-80%
 - Tratamiento para ELIMINAR PIOJOS y liendres
+- CONTIENE PERMETRINA, activo pediculicida recomendado por la oms en una concentración al 1,5% que garantiza la máxima eficacia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B009M4MC2E/?tag=tolees-21)

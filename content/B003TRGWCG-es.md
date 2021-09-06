@@ -28,9 +28,9 @@ En este momento está [Cereales Nestlé Fitness Chocolate con Leche - 1 paquete 
 
 🔎:
 
-- Son fuente de fibra, no contienen aceite de palma, ni colorantes, ni aromas artificiales
 - Deliciosos copos de trigo integral, arroz y avena integral, recubiertos de chocolate con leche (32,7 %) y con vitaminas del grupo B (B2, B3, B5 y B6) que contribuyen al metabolismo energético normal
-- Cada estuche contiene, aproximadamente, 12 porciones de 30 g
+- Son fuente de fibra, no contienen aceite de palma, ni colorantes, ni aromas artificiales
 - Cereales integrales como ingrediente número 1
+- Cada estuche contiene, aproximadamente, 12 porciones de 30 g
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003TRGWCG/?tag=tolees-21)
