@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Illycaffè Illy Classico - Café Molido de con un 11.78 % de descuento'
-date: 2021-08-29 13:34:37
+date: 2021-09-06 07:24:38
 image: 'https://m.media-amazon.com/images/I/411+l95JoSS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [Illycaffè Illy Classico - Café Molido del Tueste  1 Lat
 
 🔎:
 
+- El café se conserva en lata presurizadas
 - Café illy 100 % Arabica
 - País de origen: Italia
-- El café se conserva en lata presurizadas
 - Una vez abierta la lata se conseja de guardar el producto en la nevera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FSR1VB3/?tag=tolees-21)
