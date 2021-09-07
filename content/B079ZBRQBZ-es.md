@@ -28,10 +28,10 @@ Tienes [Oral-B Baby Winnie The Pooh Pasta Dentífrica  75 ml  de 0 a 2 Años](
 
 🔎:
 
+- Pasta dentífrica sin azúcar
 - Indicada para los dientes de leche
 - Pasta dentífrica con flúor
-- Adecuado para bebés y niños de hasta 2 años
 - Sabor suave
-- Pasta dentífrica sin azúcar
+- Adecuado para bebés y niños de hasta 2 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079ZBRQBZ/?tag=tolees-21)
