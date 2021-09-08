@@ -28,10 +28,10 @@ En este momento está [Air Wick Eléctrico - Recambios de ambientador eléctrico
 
 🔎:
 
-- Pack de recambios para ambientador difusor eléctrico Air Wick
 - Aroma White Bouquet, rodéate con la delicada fragancia floral de White Bouquet, inspirado en el fresco aroma de las flores blancas recién cortadas
-- Descubre el resto de fragancias Air Wick Eléctrico con aceites esenciales
-- Disfruta de un aroma duradero y consistente para tu hogar
 - Elige entre los diferentes niveles de intensidad para conseguir tu nivel de fragancia adecuada
+- Pack de recambios para ambientador difusor eléctrico Air Wick
+- Disfruta de un aroma duradero y consistente para tu hogar
+- Descubre el resto de fragancias Air Wick Eléctrico con aceites esenciales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08YSRNYRQ/?tag=tolees-21)
