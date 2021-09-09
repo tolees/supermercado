@@ -28,9 +28,9 @@ En este momento está [Haribo Funky Mix  1kg](https://www.amazon.es/dp/B08KFJDPL
 
 🔎:
 
-- Producto de la marca HARIBO
-- Mix de caramelos de goma.
-- Combinación de piezas de diferentes texturas y sabores.
 - Incluye: ositos de oro, huevo, fresones, balla-balla duo y balla-balla fresa.
+- Producto de la marca HARIBO
+- Combinación de piezas de diferentes texturas y sabores.
+- Mix de caramelos de goma.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KFJDPLN/?tag=tolees-21)
