@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bodegas López Morenas Soto del Realon Cr al 0.00 % de rebaja'
-date: 2021-09-01 09:58:38
+date: 2021-09-09 21:35:32
 image: 'https://m.media-amazon.com/images/I/31pGkqLiU-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Bodegas López Morenas Soto del Realon Crianza Vino Tinto - 6 Paquetes d
 
 🔎:
 
-- Un vino clásico de color rojo brillante, vivo y fresco
 - Vino tinto elaborado con uvas de la variedad Tempranillo
+- Un vino clásico de color rojo brillante, vivo y fresco
 - Excelente sabor
 - Aroma de gran intensidad y persistencia, muy elegantes notas florales
 
