@@ -28,9 +28,9 @@ En este momento está [Spontex - Bayeta Microfibra economic 1+1](https://www.ama
 
 🔎:
 
-- Elimina fácilmente la suciedad y la grasa
 - Bayetas de limpieza multiusos que eliminan fácilmente la suciedad y la grasa
 - Composición: 80% poliéster, 20% poliamida
+- Elimina fácilmente la suciedad y la grasa
 - Tamaño: XXL
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01CQN2QH8/?tag=tolees-21)
