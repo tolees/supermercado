@@ -28,9 +28,9 @@ Tienes [Instituto Español - Pieles Atópicas - Crema cuidado integral - 50 ml](
 
 🔎:
 
+- No irrita
 - Hipoalergénico
 - Especial piel atópica
-- No irrita
 - Regenera progresivamente la piel
 - Calma el picor
 - Acción anti-sequedad
