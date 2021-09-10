@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Farmatint Gel de Coloración Capilar Perm con un 0.00 % de descuento'
-date: 2021-09-06 07:22:39
+date: 2021-09-10 19:58:57
 image: 'https://m.media-amazon.com/images/I/51apMIpfLJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'farmatint'
 buyurl: 'https://www.amazon.es/dp/B00J5FY8BI/?tag=tolees-21'
 descuento: '0.00'
-average: '7.8375'
+average: '7.834'
 ---
 
 En este momento está [Farmatint Gel de Coloración Capilar Permanente  5N Castaño Claro](https://www.amazon.es/dp/B00J5FY8BI/?tag=tolees-21) a 7.82 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
