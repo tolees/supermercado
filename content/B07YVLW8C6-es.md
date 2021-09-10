@@ -28,10 +28,10 @@ Está [Botanical Origin Suavizante para ropa ecológico apto para pieles sensibl
 
 ℹ️:
 
-- Suavizante para ropa ecológico con ingredientes de origen botánico y agradable fragancia a flor de naranjo y hojas cítricas
-- Envases respetuosos con el medio ambiente; pack 100 % reciclable y fabricado con hasta un 50 % de material reciclado
 - Apto para pieles sensibles; no deja químicos abrasivos en la ropa que puedan causar una reacción adversa en pieles sensibles; dermatológicamente testado
 - Fragancia duradera en tus prendas gracias a sus aceites esenciales con aroma a flor de naranjo y hojas cítricas
+- Envases respetuosos con el medio ambiente; pack 100 % reciclable y fabricado con hasta un 50 % de material reciclado
 - Formulado con un 92 % de ingredientes de origen natural y 0 % colorantes
+- Suavizante para ropa ecológico con ingredientes de origen botánico y agradable fragancia a flor de naranjo y hojas cítricas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YVLW8C6/?tag=tolees-21)

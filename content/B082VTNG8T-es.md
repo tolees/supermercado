@@ -29,9 +29,9 @@ En este momento está [Johnson s Baby Champú Camomila  Ideal para Toda la Famil
 🔎:
 
 - Deja el pelo limpio y con aspecto saludable
-- Contiene la fórmula No Llores Más, que evita las lágrimas y es tan suave en los ojos como el agua más pura
-- JOHNSON’S Baby Champú Camomila limpia suavemente el cabello delicado, dejándolo ligero, suave y saludable
-- Ideal para toda la familia
 - Champú de camomila hipoalergénico y con pH equilibrado
+- Ideal para toda la familia
+- JOHNSON’S Baby Champú Camomila limpia suavemente el cabello delicado, dejándolo ligero, suave y saludable
+- Contiene la fórmula No Llores Más, que evita las lágrimas y es tan suave en los ojos como el agua más pura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082VTNG8T/?tag=tolees-21)
