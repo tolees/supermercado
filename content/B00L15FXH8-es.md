@@ -28,9 +28,9 @@ En este momento está [Garnier - Olia - Coloration Permanente à l’Huile Sans 
 
 🔎:
 
-- Mejora la calidad del cabello y aclara hasta 3 tonos
-- Contiene un aplicador ergonómico y práctico para una mayor precisión
-- Coloración con aceites potenciadores del color
 - Fórmula sin amoniaco y con 60% aceites florales
+- Coloración con aceites potenciadores del color
+- Contiene un aplicador ergonómico y práctico para una mayor precisión
+- Mejora la calidad del cabello y aclara hasta 3 tonos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00L15FXH8/?tag=tolees-21)
