@@ -28,9 +28,9 @@ Ahora mismo tienes [MOM Rocks - Ginebra Premium - 700 ml](https://www.amazon.es/
 
 🔎:
 
-- Notas aromáticas de enebro y coriandro
-- Contenido de alcohol: 37.5%
-- Recomendamos servir como Gin & Tonic con twist de lima y un toque de pimienta negra
 - Para disfrutar de una ginebra a la vez clásica y atrevida
+- Recomendamos servir como Gin & Tonic con twist de lima y un toque de pimienta negra
+- Contenido de alcohol: 37.5%
+- Notas aromáticas de enebro y coriandro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082VSRFXC/?tag=tolees-21)
