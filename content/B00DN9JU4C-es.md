@@ -28,10 +28,10 @@ Tienes [SOTYA - SOTYA Té Verde  Té Rojo y Piña 60 cápsulas 500 mg](https://w
 
 🔎:
 
-- Favorece la circulación sanguínea y estimulan el hígado
-- De la marca Sotya
 - Reduce la tensión y protegiendo así de problemas cardiovasculares
-- Reducen el colesterol en sangre
 - Mejora la digestión
+- De la marca Sotya
+- Reducen el colesterol en sangre
+- Favorece la circulación sanguínea y estimulan el hígado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00DN9JU4C/?tag=tolees-21)
