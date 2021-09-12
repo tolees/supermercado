@@ -29,10 +29,10 @@ En este momento está [MOM Rocks Ginebra Premium - 700 ml + Love Ginebra Premium
 🔎:
 
 - El Cítrico aromatica la copa, un buen preludio para disfrutar de una ginebra a la vez clásica y atrevida
-- Su excitante personalidad es el resultado de infusionarla con fresas tras cuatro destilaciones
-- Su dulzura única, vibrante gusto a fresas y suave final, se obtienen tras un cuidado proceso de elaboración
-- Ginebra muy fragante en la que destacan, entre otras cosas, notas aromáticas de enebro y coriandro
 - Recomendamos servir como Gin & Tonic en copa de balón muy fría, con twist de lima y un toque de pimienta negra
+- Su dulzura única, vibrante gusto a fresas y suave final, se obtienen tras un cuidado proceso de elaboración
 - Una ginebra Premium elaborada con fresas y exóticos ingredientes botánicos para conseguir su suave carácter
+- Ginebra muy fragante en la que destacan, entre otras cosas, notas aromáticas de enebro y coriandro
+- Su excitante personalidad es el resultado de infusionarla con fresas tras cuatro destilaciones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084S6WZ8P/?tag=tolees-21)
