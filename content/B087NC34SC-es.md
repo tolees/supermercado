@@ -29,7 +29,7 @@ Tienes [CINCOJOTAS - Cinco Jotas - Jamón Bellota 100% Ibérico 5J  tramo de 7 a
 🔎:
 
 - ✅ Vive una auténtica experiencia Cinco Jotas. ➡️ Origen y hogar del auténtico Jamón/Paleta 100% Ibérico Cinco Jotas Un Jamón/Paleta de Bellota 100% Ibérico de Cinco Jotas puede ser apreciado por cada uno de los cinco sentidos: su cálido tacto al cogerlo con los dedos, su textura jugosa y untuosa al fundirse en la boca, el aroma largo e intenso con recuerdos a bellota y tomillo y finalmente su increíble sabor, que persiste en el paladar hasta mucho después de haber terminado.
-- ✅ Peso: 7-8 Kg aprox.
 - ✅ JJAMÓN DE BELLOTA 100% IBÉRICO CINCO JOTAS "PATA NEGRA" - 5J - de 8,0-8,5 Kg. aprox. ➡️ Disfruta del sabor auténtico de nuestro Jamón de Bellota 100% Ibérica. Escúlpela delicadamente, corte a corte y degusta un sabor auténtico que rinde culto a nuestra tierra. Disfruta con cada uno de los matices de este viaje sensorial hacia la tradición centenaria de nuestro país y deja que tus sentidos se dejen llevar por la magia del momento.
+- ✅ Peso: 7-8 Kg aprox.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B087NC34SC/?tag=tolees-21)
