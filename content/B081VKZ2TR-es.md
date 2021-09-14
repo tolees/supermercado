@@ -28,10 +28,10 @@ Ahora mismo tienes [Amazon Brand – Eono Set de Brochas de Maquillaje Profesion
 
 🔎:
 
-- PELO SINTETIDO Y SIN CRUELDAD SINTETICO, MANGO DE CEPILLO RESISTENTE Y DURADERO. Sensación suave, siempre le da una aplicación de maquillaje natural y bonita.
 - JUEGO COMPLETO DE CEPILLOS DE MAQUILLAJE ESENCIALES PARA USO PROFESIONAL O USO DOMÉSTICO. Kit de pincel de maquillaje ideal para líquidos, polvos o cremas.
 - ESPONJA DE MAQUILLAJE SIN LATEX CON FORMA DE LÁGRIMA. Use el fondo plano para la frente y las mejillas, el extremo puntiagudo es para apuntar a áreas pequeñas.
 - Un set de pinceles de maquillaje esencial tanto para profesionales como para usuarios de bricolaje. Crea una aplicación de maquillaje perfecta y natural.
 - También hay esponjas de maquillaje que vienen con el juego de brochas de maquillaje en diferentes colores.
+- PELO SINTETIDO Y SIN CRUELDAD SINTETICO, MANGO DE CEPILLO RESISTENTE Y DURADERO. Sensación suave, siempre le da una aplicación de maquillaje natural y bonita.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081VKZ2TR/?tag=tolees-21)

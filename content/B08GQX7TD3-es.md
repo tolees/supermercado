@@ -28,10 +28,10 @@ En este momento está [Markwins - Maletín de Maquillaje Bon Voyage Makeup Set -
 
 🔎:
 
+- UNA LARGA HISTORIA - Hace más de tres décadas que The Color Workshop ofrece una amplia gama de artículos de belleza innovadores y asequibles, inspirados en las últimas tendencias de belleza y moda
 - UN REGALO ESPECIAL PARA TUS AMIGOS - Un atrevido embalaje con un diseño especial para un colorido kit de maquillaje: el regalo perfecto para todos los amantes de la belleza que quieren viajar con todo
 - NO FALTA NADA - Un maletín rosa con espejo que incluye 24 tonos de sombras de ojos, 3 tonos de colorete, 4 tonos de esmalte de uñas, 4 lápices de labios, 6 pinceles de maquillaje
 - SIEMPRE DE MODA - Exterior plateado con bordes y asa metalizados en el mismo color Plata. Un tamaño perfecto que te permite no solo guardar el maquillaje sino otros complementos
 - SEGURO - El maquillaje The Color Workshop es apto para todo tipo de pieles y cumple con las normas EU. Siempre hemos cuidado la seguridad y la calidad de nuestros productos
-- UNA LARGA HISTORIA - Hace más de tres décadas que The Color Workshop ofrece una amplia gama de artículos de belleza innovadores y asequibles, inspirados en las últimas tendencias de belleza y moda
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GQX7TD3/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Max Factor Khol Pencil Eyeliner Lápiz de Ojos Tono 20 Black - 4 gr](http
 
 ℹ️:
 
-- Lápiz kohl clásico en negro con fórmula cremosa que se aplica fácilmente y sin problemas
-- Mezcla fácilmente para dar un aspecto natural suave
 - Fácilmente afilado a punto de precisión
 - Con un largo uso sin desvanecimiento o manchas
+- Mezcla fácilmente para dar un aspecto natural suave
+- Lápiz kohl clásico en negro con fórmula cremosa que se aplica fácilmente y sin problemas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001IZYQQU/?tag=tolees-21)
