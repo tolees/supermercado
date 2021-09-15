@@ -28,10 +28,10 @@ Tienes [Ma-Fra cleanshine – Pulido detergente para Moto](https://www.amazon.
 
 ℹ️:
 
-- Adecuado para scooters
-- Fabricado en Italia.
-- anti-UVA acción
 - 2 en 1 producto
 - Seguro en todas las motocicletas
+- anti-UVA acción
+- Adecuado para scooters
+- Fabricado en Italia.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GMHMKIK/?tag=tolees-21)
