@@ -28,11 +28,11 @@ Está [Pantene Espuma Rizos Definidos  24H de duración  Nivel de fijación 5  3
 
 ℹ️:
 
+- Ayuda a proteger los rizos del encrespamiento durante el día
+- Nivel de fijación 05/4
 - Espuma de peinado con fórmula avanzada Pro-V que define tus rizos
 - Convierte las ondas rebeldes en rizos flexibles perfectamente definidos
-- Ayuda a proteger los rizos del encrespamiento durante el día
-- Deja tu pelo brillante
-- Nivel de fijación 05/4
 - 24H de duración
+- Deja tu pelo brillante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RMK5ZZ6/?tag=tolees-21)
