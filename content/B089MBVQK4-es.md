@@ -28,12 +28,12 @@ Tienes [Oral-B Pulsonic Slim Clean 2500 - Cepillo de dientes eléctrico sónico 
 
 🔎:
 
-- Protección adicional de las encías gracias a las cerdas redondeadas y vibratorias.
-- El temporizador ayuda a mantener el tiempo de limpieza recomendado por dentistas de 2 minutos.
-- Ideal para viajes. Con el estuche de viaje ultrafino.
+- 2 semanas de duración de la batería con una sola carga.
 - Contenido del envío: cepillo de dientes sónico recargable, estación de carga, 1 cepillo Pulsonic Clean, 1 cepillo Pulsonic Sensitive, estuche de viaje.
+- El temporizador ayuda a mantener el tiempo de limpieza recomendado por dentistas de 2 minutos.
+- Protección adicional de las encías gracias a las cerdas redondeadas y vibratorias.
+- Ideal para viajes. Con el estuche de viaje ultrafino.
 - 2 programas de limpieza: limpieza diaria, aclarado.
 - Elimina más placa que un cepillo de dientes manual tradicional con 62.000 movimientos de cabeza por minuto.
-- 2 semanas de duración de la batería con una sola carga.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089MBVQK4/?tag=tolees-21)
