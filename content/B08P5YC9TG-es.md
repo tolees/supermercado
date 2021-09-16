@@ -29,9 +29,9 @@ Tienes [Marca Amazon - Happy Belly Chupa chups sabor a fruta  100 x 14g](https:/
 🔎:
 
 - Envase ideal para compartir en cualquier ocasión, desde regalos familiares hasta grandes celebraciones
-- Elija su sabor a fruta favorito entre limón, plátano, fresa y manzana
+- Este envase contiene 100 porciones
 - Sin colorantes artificiales
 - No recomendado para niños menores de 36 meses
-- Este envase contiene 100 porciones
+- Elija su sabor a fruta favorito entre limón, plátano, fresa y manzana
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08P5YC9TG/?tag=tolees-21)

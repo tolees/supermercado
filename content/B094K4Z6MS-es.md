@@ -29,8 +29,8 @@ Está [Red Bull Bebida Energética  12 Latas De 250s  S  Fruta Del Dragon  3000 
 ℹ️:
 
 - 12 latas de 250ml
-- Red Bull con sabor de Fruta del Dragon
 - Pais de origen Austria
+- Red Bull con sabor de Fruta del Dragon
 - Bebida Energética
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B094K4Z6MS/?tag=tolees-21)

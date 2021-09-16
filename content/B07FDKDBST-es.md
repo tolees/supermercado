@@ -28,11 +28,11 @@ Ahora mismo tienes [Skip Detergente en Cápsulas Active Clean Doble Líquido 28 
 
 🔎:
 
-- detergente para lavadora para ciclos cortos de 30 minutos
-- Detergente en Cápsulas Skip Active Clean Doble Líquido 28 lavados
-- Doble acción: detergente concentrado y poder quitamanchas
-- Diseñado especialmente para quitar las manchas mientras cuida de tu ropa
 - 1 cápsula = 1 lavado; rinde para 28 lavados
 - Detergente en Cápsulas Skip Active Clean también está disponible en formato líquido
+- Detergente en Cápsulas Skip Active Clean Doble Líquido 28 lavados
+- Doble acción: detergente concentrado y poder quitamanchas
+- detergente para lavadora para ciclos cortos de 30 minutos
+- Diseñado especialmente para quitar las manchas mientras cuida de tu ropa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FDKDBST/?tag=tolees-21)
