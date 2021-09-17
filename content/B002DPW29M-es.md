@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Old El Paso Tortilla de Maíz y Trigo  33 al 0.00 % de rebaja'
-date: 2021-09-14 15:51:56
+date: 2021-09-17 08:33:38
 image: 'https://m.media-amazon.com/images/I/51b-dCi9boL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Old El Paso Tortilla de Maíz y Trigo  335g](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Aptas para vegetarianos
-- Ideal para enchiladas y quesadillas
 - Extra tiernas y flexibles
+- Ideal para enchiladas y quesadillas
 - Calienta durante 40 segundos a potencia máxima, pon tu relleno favorito y ¡voilà!
 - Elaboradas de la manera más auténtica
+- Aptas para vegetarianos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B002DPW29M/?tag=tolees-21)
