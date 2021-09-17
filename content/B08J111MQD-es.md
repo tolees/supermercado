@@ -28,10 +28,10 @@ Está [L Oréal Paris Elvive Dream Long Mascarilla Reconstructora  Para Pelo Lar
 
 ℹ️:
 
-- Pelo fuerte como recién cortado, Nutre y repara intesamente tu pelo dañado
-- Mascarilla reconstructora para pelo largo y dañado, es perfecta para decir adiós a los largos que se afinan y se dañan
 - Fórmula enriquecida con Keratina vegetal, Vitaminas y Aceite de Ricino, En caso de contacto con los ojos lavar inmediatamente con abundante agua
 - Reparte sobre largos y puntas, Déjalo actuar durante 2-3 minutos y luego aclara, Completa tu rutina con la crema Stop Tijeras
+- Mascarilla reconstructora para pelo largo y dañado, es perfecta para decir adiós a los largos que se afinan y se dañan
+- Pelo fuerte como recién cortado, Nutre y repara intesamente tu pelo dañado
 - Contenido: 3 x LOréal Paris Elvive Dream Long Mascarillas Reconstructoras, Cada envase contiene 300 ml, Total: 900 ml
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08J111MQD/?tag=tolees-21)
