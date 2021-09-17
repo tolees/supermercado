@@ -28,10 +28,10 @@ Ahora mismo tienes [Flor Elixir secadoras - Suavizante acondicionador especial p
 
 🔎:
 
-- Toallitas para la secadora on efecto suavizante acondicionador
+- Descubre el resto de aditivos y suavizantes de la gama Flor Elixir
+- Eliminan la electricidad estática de la ropa
 - La colada con un plus extra de frescor
 - Aporta suavizad a las prendas y le deja un ligero y fresco aroma
-- Eliminan la electricidad estática de la ropa
-- Descubre el resto de aditivos y suavizantes de la gama Flor Elixir
+- Toallitas para la secadora on efecto suavizante acondicionador
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003XMZM32/?tag=tolees-21)

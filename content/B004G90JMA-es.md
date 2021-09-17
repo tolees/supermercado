@@ -28,9 +28,9 @@ Tienes [Old El Paso Judías Refritas  435g](https://www.amazon.es/dp/B004G90JMA/
 
 ℹ️:
 
-- Pruébalas con tus fajitas o burritos
 - Aportan un ingrediente esencial en nuestra dieta: las legumbres y ¡ayudan a rebajar el picante de tus recetas!
-- Aptas para vegetarianos
 - Suaves
+- Pruébalas con tus fajitas o burritos
+- Aptas para vegetarianos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B004G90JMA/?tag=tolees-21)

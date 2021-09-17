@@ -28,10 +28,10 @@ Tienes [Old El Paso Tortilla de Maíz y Trigo  335g](https://www.amazon.es/dp/B0
 
 🔎:
 
+- Aptas para vegetarianos
 - Extra tiernas y flexibles
 - Ideal para enchiladas y quesadillas
 - Calienta durante 40 segundos a potencia máxima, pon tu relleno favorito y ¡voilà!
 - Elaboradas de la manera más auténtica
-- Aptas para vegetarianos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B002DPW29M/?tag=tolees-21)
