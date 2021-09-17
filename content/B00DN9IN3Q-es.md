@@ -29,7 +29,7 @@ En este momento está [Kölln Muesli de Avena con Chocolate y Avellanas  500g](h
 🔎:
 
 - Contiene 500 g
-- Disfruta de tus mueslis de avena chocolate, con leche, yogur, snack o como ingrediente para tus recetas
 - Alérgenos: Puede contener trazas de otros frutos secos (nueces) y cacahuete
+- Disfruta de tus mueslis de avena chocolate, con leche, yogur, snack o como ingrediente para tus recetas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00DN9IN3Q/?tag=tolees-21)

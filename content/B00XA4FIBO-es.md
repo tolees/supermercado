@@ -29,8 +29,8 @@ Tienes [Maizena Levadura Panadería  27.5g](https://www.amazon.es/dp/B00XA4FIBO/
 🔎:
 
 - Fácil preparación de platos
-- 1 unidad = 5 sobres x 5.5 g
-- Éxito asegurado en tus comidas
 - Permite mayor absorción de la salsa
+- Éxito asegurado en tus comidas
+- 1 unidad = 5 sobres x 5.5 g
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XA4FIBO/?tag=tolees-21)
