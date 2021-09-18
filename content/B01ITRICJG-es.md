@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana Leche Desnatad al 5.06 % de descuento'
-date: 2021-08-28 20:50:36
+date: 2021-09-18 10:03:09
 image: 'https://m.media-amazon.com/images/I/51GhckeqlDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Central Lechera Asturiana'
 buyurl: 'https://www.amazon.es/dp/B01ITRICJG/?tag=tolees-21'
 descuento: '5.06'
-average: '4.56'
+average: '4.54909090909091'
 ---
 
 Está [Central Lechera Asturiana Leche Desnatada  6 x 1L](https://www.amazon.es/dp/B01ITRICJG/?tag=tolees-21) con 5.06 de descuento por 4.5 EUR (original: 4.74 EUR) en el siguiente enlace!
