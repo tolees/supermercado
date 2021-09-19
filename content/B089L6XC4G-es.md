@@ -28,10 +28,10 @@ Tienes [Martini Aperitivo Fiero  750ml](https://www.amazon.es/dp/B089L6XC4G/?tag
 
 🔎:
 
-- Color rojo anaranjado
+- El nuevo aperitivo vermouth de la familia Martini con sabor a naranja amarga. Elaborado con naranjas del país, cortadas a mano, lo cual bridan a Martini Fiero toda la riqueza de sus notas cítricas
 - Aperitivo moderno con aromas y colores 100% naturales
 - Maceración lenta de una mezcla de vinos blancos finos y botánicos, incluida la piel de naranja, durante 2 meses
-- El nuevo aperitivo vermouth de la familia Martini con sabor a naranja amarga. Elaborado con naranjas del país, cortadas a mano, lo cual bridan a Martini Fiero toda la riqueza de sus notas cítricas
 - Su composición es adecuada para la asociación con tónica porque permite una alianza perfecta con la quinina. Para un cocktail ligero, fresco y largo a consumir en cualquier momento del año
+- Color rojo anaranjado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089L6XC4G/?tag=tolees-21)

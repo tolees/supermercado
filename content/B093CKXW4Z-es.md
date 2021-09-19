@@ -28,11 +28,11 @@ Tienes [SiempreClean Gel Hidroalcohólico con Dosificador Olor  Higienizante  Su
 
 🔎:
 
-- Diseñado para todo tipo de pieles
-- Suave con la piel, incluso después de un uso continuado
-- Textura fresca y olor agradable
-- Unidades: 1.0
 - Gel desinfectante hidroalcohólico
 - Contiene más del 73% de alcohol etílico
+- Unidades: 1.0
+- Suave con la piel, incluso después de un uso continuado
+- Textura fresca y olor agradable
+- Diseñado para todo tipo de pieles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B093CKXW4Z/?tag=tolees-21)
