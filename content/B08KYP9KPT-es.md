@@ -28,10 +28,10 @@ Tienes [Segafredo Zanetti Coffee System - Máquina para café expreso 1 Plus gri
 
 🔎:
 
-- Control inmediato del nivel de agua y facilidad de llenado
 - Ideal para aquellos que buscan un expreso perfecto como en el bar
-- 60 cápsulas de aroma cremoso y con cuerpo y sabor inconfundible. Nuestras cápsulas están embaladas individualmente en atmósfera protectora para garantizar altos estándares higiénicos y mantener todo el sabor del café recién tostado. Cápsulas compatibles exclusivamente con las máquinas Segafredo Zanetti Coffee System
-- Uso inmediato e intuitivo gracias a la presencia de tres botones automáticos: café expreso, café largo y botón para bebidas solubles o café americano
 - Ahorro de energía después de 15 minutos de la última dispensación
+- Uso inmediato e intuitivo gracias a la presencia de tres botones automáticos: café expreso, café largo y botón para bebidas solubles o café americano
+- 60 cápsulas de aroma cremoso y con cuerpo y sabor inconfundible. Nuestras cápsulas están embaladas individualmente en atmósfera protectora para garantizar altos estándares higiénicos y mantener todo el sabor del café recién tostado. Cápsulas compatibles exclusivamente con las máquinas Segafredo Zanetti Coffee System
+- Control inmediato del nivel de agua y facilidad de llenado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KYP9KPT/?tag=tolees-21)
