@@ -28,10 +28,10 @@ Tienes [AEG EZS 5664 - Cepillo de dientes con tecnología sónica y temporizador
 
 🔎:
 
-- Interruptor 5 niveles (On / Limpieza / Sensible / Masaje / Off)
-- Incl. 2 contador de minutos (Tiempo de cepillado recomendado por los dentistas)
+- Carga por inducción sin contacto de la batería, protegido contra agua salpicante. Carcasa resistente al agua (IPX7)
 - Cepillo de dientes Sónico de rápida oscilación, (bidireccional) para una eliminación suave y efectiva de la placa y las manchas
 - Cepillo con filamentos de calidad redondeados Tynex DuPont, para un cepillado suave de los dientes y las encías
-- Carga por inducción sin contacto de la batería, protegido contra agua salpicante. Carcasa resistente al agua (IPX7)
+- Incl. 2 contador de minutos (Tiempo de cepillado recomendado por los dentistas)
+- Interruptor 5 niveles (On / Limpieza / Sensible / Masaje / Off)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00S6CWD4U/?tag=tolees-21)
