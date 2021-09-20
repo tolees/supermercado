@@ -29,10 +29,10 @@ Está [Antaño Tempranillo - Vino Tinto D.O Rioja - Caja de 6 Botellas x 750 ml]
 ℹ️:
 
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos servir entre 12ºC y 14ºC.
+- Maridaje: Es un vino que combina muy bien con tapas, comida italiana como las pastas, legumbres, embutidos, fiambres y carnes a la plancha.
+- Tipo de uva: Elaborado a base de una selección de uvas Tempranillo, Graciano y Mazuelo; la fermentación se realiza en depósitos a 28ºC, con una maceración de 8 días y una descubación durante todo el invierno.
+- Aroma: Perfil aromático muy limpio e intenso, con frutos rojos silvestres y notas florales.
 - Apariencia: Vino tinto de color rubí intenso con reflejos púrpuras.
 - Gusto: En boca tiene buen cuerpo, lleno de sabor, afrutado y estructurado con buena persistencia.
-- Aroma: Perfil aromático muy limpio e intenso, con frutos rojos silvestres y notas florales.
-- Tipo de uva: Elaborado a base de una selección de uvas Tempranillo, Graciano y Mazuelo; la fermentación se realiza en depósitos a 28ºC, con una maceración de 8 días y una descubación durante todo el invierno.
-- Maridaje: Es un vino que combina muy bien con tapas, comida italiana como las pastas, legumbres, embutidos, fiambres y carnes a la plancha.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00FRHID46/?tag=tolees-21)
