@@ -28,8 +28,8 @@ En este momento está [Tecnhogar 00778 Filtro café nylon  Gris](https://www.ama
 
 🔎:
 
-- 1 unidad por envase
-- Filtro café permanente nylon nº 2 cafetera eléctrica
 - Fabricado en papel
+- Filtro café permanente nylon nº 2 cafetera eléctrica
+- 1 unidad por envase
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00ITVX8QK/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [La Croquetera LC034 cedazo para harina o Pan rallado-100% español : Pat
 🔎:
 
 - Es perfecto para preparar tus frituras (pescado, verduras, carnes, croquetas, etc) con el rebozado adecuado: sin excesos de harina o pan rallado, va a proporcionarte fritos más crujientes y perfectos; así, además, mantendrás el aceite limpio durante más tiempo.
-- Dispone de una tapa para guardar el resto de material no utilizado para una próxima ocasión.
+- Tamaño ideal para uso doméstico: 33 x 23 x 9 cm.
 - Así, se convierte en un accesorio ideal para franquicias, restaurantes, y para uso doméstico. Quedarás como un profesional en tus citas, reuniones, etc, con unos rebozados perfectos.
 - El cedazo de La Croquetera es un utensilio utensilio de cocina ideal, que sirve para cribar la harina o pan rallado de los alimentos en tus rebozados. Plástico
-- Tamaño ideal para uso doméstico: 33 x 23 x 9 cm.
+- Dispone de una tapa para guardar el resto de material no utilizado para una próxima ocasión.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K49HPRW/?tag=tolees-21)

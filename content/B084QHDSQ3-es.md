@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juego de regalo de vela perfumada YMing  con un 27.29 % de descuento'
-date: 2021-08-26 06:57:31
+date: 2021-09-20 20:45:18
 image: 'https://m.media-amazon.com/images/I/61YjBxFiSFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'YMing'
 buyurl: 'https://www.amazon.es/dp/B084QHDSQ3/?tag=tolees-21'
 descuento: '27.29'
-average: '16.5471428571429'
+average: '16.4986956521739'
 ---
 
 En este momento está [Juego de regalo de vela perfumada YMing  cera de soja natural  vela de regalo con fragancia fuerte para mujeres  higo  limón  primavera  lavanda para aliviar el estrés y relajación con aromaterapia.](https://www.amazon.es/dp/B084QHDSQ3/?tag=tolees-21) a 15.99 EUR (original: 21.99 EUR) (27.29 %  de descuento) en el siguiente enlace!

@@ -28,9 +28,9 @@ Tienes [Revlon ColorStay Base de Maquillaje piel mixta/grasa FPS15 30ml  #330 Na
 
 🔎:
 
-- Textura ligera, cubre las imperfecciones, sin obstruir los poros. Cobertura media/alta
-- Adecuada para piel mixta/grasa. Fórmula libre de aceites y fragancias, oil free
 - Piel sin brillos e hidratada con un acabado mate que dura hasta 24H
+- Adecuada para piel mixta/grasa. Fórmula libre de aceites y fragancias, oil free
+- Textura ligera, cubre las imperfecciones, sin obstruir los poros. Cobertura media/alta
 - Evita la aparición de grietas, proporcionando un adecuado confort en la piel
 - Con protección contra rayos UVA SPF 15. Resistente al sudor, a la humedad y al agua
 
