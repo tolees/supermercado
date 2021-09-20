@@ -29,9 +29,9 @@ Está [La Toja - Gel de Ducha + Body Milk Avocado - 6Uds de 650 ml  3.900 ml  - 
 ℹ️:
 
 - El resultado: Una piel ultrasuave.Mantiene el pH neutro de la piel. Fórmula dermatológicamente probada. Fórmula vegana con 92% de ingredientes de origen natural.
-- La fórmula del Gel de Ducha + Body Milk cuida intensamente la piel aportándole la hidratación necesaria para una piel radiante, suave y saludable, respetando la barrera protectora natural de la piel.
 - El aroma a Aguacate envuelve tus sentidos para una sensación de cuidado inolvidable.
-- El Gel Crema de Ducha + Body Milk contiene Sales Minerales de Agua Termal.
 - Aplicar sobre la piel previamente mojada y masajear con las manos o con la ayuda de una esponja. Aclarar con abundante agua.
+- El Gel Crema de Ducha + Body Milk contiene Sales Minerales de Agua Termal.
+- La fórmula del Gel de Ducha + Body Milk cuida intensamente la piel aportándole la hidratación necesaria para una piel radiante, suave y saludable, respetando la barrera protectora natural de la piel.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B091DKSCYJ/?tag=tolees-21)

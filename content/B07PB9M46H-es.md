@@ -28,11 +28,11 @@ Está [Head & Shoulders - H&S Champú Classic 2 En 1 Anticaspa Champú para todo
 
 ℹ️:
 
-- Marca de champú número 1 del mundo
-- Mantiene la belleza del cabello y lo deja 100 % libre de caspa; con un uso regular
-- Fórmula Derma&Pure que combate con eficacia el cuero cabelludo seco, graso y con picor para detener la caspa antes de que aparezca
-- El champú anticaspa Classic 2 en 1 limpia el cabello y lo mantiene hidratado y bonito
 - Fórmula sin ingredientes no deseados: 0 % de parabenos, fosfatos y parafinas
 - Probado dermatológicamente, pH equilibrado y mejorado con antioxidantes para tratar con suavidad el cabello y el cuero cabelludo
+- Fórmula Derma&Pure que combate con eficacia el cuero cabelludo seco, graso y con picor para detener la caspa antes de que aparezca
+- Mantiene la belleza del cabello y lo deja 100 % libre de caspa; con un uso regular
+- El champú anticaspa Classic 2 en 1 limpia el cabello y lo mantiene hidratado y bonito
+- Marca de champú número 1 del mundo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PB9M46H/?tag=tolees-21)
