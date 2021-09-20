@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Isdin Daylisdin Champú - Fórmula Suave p con un 0.00 % de descuento'
-date: 2021-09-17 08:33:50
+date: 2021-09-20 02:16:41
 image: 'https://m.media-amazon.com/images/I/31E7NbKKjlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
