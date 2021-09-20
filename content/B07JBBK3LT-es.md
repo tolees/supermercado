@@ -28,10 +28,10 @@ En este momento está [Dr. Tree | Acondicionador Hidratante Cueros Cabelludos Se
 
 🔎:
 
-- Acondicionador hidratante para cueros cabelludos sensibles. Aporta fuerza y brillo, el cabello se vuelve sedoso, suave y fácil de peinar. Formulado específicamente para cueros cabelludos sensibles. Restaura la barrera cutánea.
-- Contiene α-OLIGOGLUCAN, prebiótico que estimula las defensas naturales reforzando el microbioma de la piel. Refuerza la función barrera.
+- ECOCERT. 99% de Ingredientes naturales. Hipoalergénico. Testado dermatológicamente. MODO DE EMPLEO. Aplicar sobre el cabello húmedo de la raíz a las puntas. Dejar actuar durante 4 minutos y aclarar con agua.
 - Con Complejo de hidratación natural, Manteca de Karité Bío e Hidrolizado de Proteínas de Cereales que aportan fuerza y volumen, gracias a su aporte en vitaminas A, D, E y F, nutren en profundidad. Hidratan, suavizan y reducen la descamación.
 - Formulado con ingredientes de origen natural. Con Extracto de Semilla de Chía y Extracto de Margarita Azul, que generan una potente barrera antioxidante que protege al cabello frente a los radicales libres generados por la radiación UV. El cabello conserva su brillo y juventud. Calma el cuero cabelludo y retarda el envejecimiento cutáneo. Disminuye la molestia y la reacción de las pieles sensibles.
-- ECOCERT. 99% de Ingredientes naturales. Hipoalergénico. Testado dermatológicamente. MODO DE EMPLEO. Aplicar sobre el cabello húmedo de la raíz a las puntas. Dejar actuar durante 4 minutos y aclarar con agua.
+- Acondicionador hidratante para cueros cabelludos sensibles. Aporta fuerza y brillo, el cabello se vuelve sedoso, suave y fácil de peinar. Formulado específicamente para cueros cabelludos sensibles. Restaura la barrera cutánea.
+- Contiene α-OLIGOGLUCAN, prebiótico que estimula las defensas naturales reforzando el microbioma de la piel. Refuerza la función barrera.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JBBK3LT/?tag=tolees-21)

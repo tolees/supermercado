@@ -30,8 +30,8 @@ Tienes [Isdin Lambdapil Champú Anticaída  Ayuda a Reducir la Caída del Cabell
 
 - Reactiva la raíz, el pelo vuelve a estar fuerte, sano y con volumen
 - Probado dermatológicamente
-- Deja el pelo limpio, sin residuo graso, con más fuerza y volumen, y fácil de peinar
 - Ayuda a prevenir y frenar la caída del cabello
+- Deja el pelo limpio, sin residuo graso, con más fuerza y volumen, y fácil de peinar
 - Estimula el crecimiento capilar, nutriendo y fortaleciendo el pelo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TTX0YNM/?tag=tolees-21)

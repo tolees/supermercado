@@ -28,9 +28,9 @@ En este momento está [Farmatint Gel de Coloración Capilar Permanente  5N Casta
 
 🔎:
 
+- Única coloración que contiene Active Color Complex, un exclusivo bálsamo post coloración que gracias a su composición con 97,3% de ingredientes naturales y su filtro solar natural proporciona una protección del color y de la fibra capilar.
+- 100% cobertura de canas; sin amoníaco, sin Parabenes, sin Siliconas ni Parafinas.
 - Lea las instrucciones de uso antes de utilizar el producto
 - Avanzada tecnología dermofarmacéutica con ingredientes vegetales de máxima calidad.
-- 100% cobertura de canas; sin amoníaco, sin Parabenes, sin Siliconas ni Parafinas.
-- Única coloración que contiene Active Color Complex, un exclusivo bálsamo post coloración que gracias a su composición con 97,3% de ingredientes naturales y su filtro solar natural proporciona una protección del color y de la fibra capilar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00J5FY8BI/?tag=tolees-21)

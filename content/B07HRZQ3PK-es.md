@@ -28,9 +28,9 @@ En este momento está [Valquer Profesional - Válquer Profesional Siver Platinum
 
 🔎:
 
-- Tipo de cabello: Tratado de color
 - Con la garantía del mejor AGUA: purificada (emulsiones) osmotizada (oxidantes y tintes) y/o descalcificada (champús)
-- No testado en animales y respetuosos con el Medio Ambiente según certificado ISO 14088
 - Laboratorio y fabricante certificado según las normas: ISO 9001, iSO 14001, iSO 22716, aenor I+D+i y Certificación Halal
+- Tipo de cabello: Tratado de color
+- No testado en animales y respetuosos con el Medio Ambiente según certificado ISO 14088
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HRZQ3PK/?tag=tolees-21)

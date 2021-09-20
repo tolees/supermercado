@@ -28,10 +28,10 @@ Tienes [Maybelline New York - Brow Satin  Lápiz de cejas  Tono 02 Medium Brown]
 
 ℹ️:
 
-- El resultado: ceja rellena, matizada y uniforme
-- Su fórmula del lápiz es una cera con color que diseña la ceja de manera natural y fija la sombra del segundo paso
-- El lápizde cejas Brow Satin duo rellena y matiza las cejas
-- Acabado natural
 - Su punta automática, a la que no se le tiene que sacar punta, diseña la ceja
+- Acabado natural
+- El resultado: ceja rellena, matizada y uniforme
+- El lápizde cejas Brow Satin duo rellena y matiza las cejas
+- Su fórmula del lápiz es una cera con color que diseña la ceja de manera natural y fija la sombra del segundo paso
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00P9GANM0/?tag=tolees-21)

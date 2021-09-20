@@ -28,10 +28,10 @@ En este momento está [L Oreal Paris Stylista - L Oréal Paris Stylista Serum Sl
 
 🔎:
 
-- Textura serum
 - Serum para pelo liso
+- Textura serum
+- Aporta brillo y suavidad
 - LOreal Paris Stylista Sleek Serum
 - Anti-encrespamiento 24H
-- Aporta brillo y suavidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078GGJGBL/?tag=tolees-21)
