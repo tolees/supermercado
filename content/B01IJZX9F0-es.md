@@ -30,7 +30,7 @@ Tienes [Maybelline New York Master Strobing Stick Iluminador  Tono:200 Medium - 
 
 - Textura cremosa en formato stic
 - Es un iluminador en stick cremoso que marca y realza facciones iluminándolas
-- Efecto buena cara inmediato
 - Aplicación fácil
+- Efecto buena cara inmediato
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01IJZX9F0/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [Blevit Digest - Infusión Instantánea con Manzanilla e Hinojo - Sin Glu
 🔎:
 
 - CÓMO PREPARAR: Disolver el granulado en agua fría o caliente, o añadirlo a la bebida habitual, como puede ser zumo de fruta, o leche; en el caso de los lactantes, puede adicionarse a los biberones de la leche infantil
+- QUIÉN PUEDE TOMAR BLEVIT DIGEST: Lactantes, niños, adolescentes y adultos, incluidas las embarazadas, para ayudar a aliviar molestias del embarazo como los gases y las digestiones pesadas; se aconseja consumir después de las comidas
 - CÓMO DOSIFICAR: Hasta 2 meses: 1 Cucharilla de café colmada en 50 ml de agua; 2 a 6 meses: 1 cucharilla de postre colmada en 50 a 100 ml; Hasta 1 año: 2 cucharillas de postre colmadas en 100 ml; 1 a 8 años: 1 ó 2 cucharadas soperas colmadas en taza o vaso(200 ml); Más de 8 años: 2 ó 3 cucharadas soperas colmadas en taza o vaso
 - SIN GLUTEN Y SIN AZÚCARES AÑADIDOS: Blevit Digest no contiene Gluten ni Aromas Artificiales ni Sacarosa
 - FAVORECE LA DIGESTIÓN Y AYUDA A ELIMINAR LOS GASES: Por el hinojo y la manzanilla es la infusión perfecta para trastornos digestivos leves que pueden causar malestar en los bebés; facilita la expulsión de gases acumulados
-- QUIÉN PUEDE TOMAR BLEVIT DIGEST: Lactantes, niños, adolescentes y adultos, incluidas las embarazadas, para ayudar a aliviar molestias del embarazo como los gases y las digestiones pesadas; se aconseja consumir después de las comidas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009SM4VZG/?tag=tolees-21)

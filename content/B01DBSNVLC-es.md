@@ -28,9 +28,9 @@ Está [Old El Paso - Barquitas 8 unidades  193g](https://www.amazon.es/dp/B01DBS
 
 ℹ️:
 
+- Sin conservantes
 - Una experiencia mexicana totalmente nueva
 - Aptas para vegetarianos
-- Sin conservantes
 - Con el mismo sabor y textura de la tortilla regular, pero mucho más sencillas de rellenar... ¡y aún más fáciles de comer!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DBSNVLC/?tag=tolees-21)

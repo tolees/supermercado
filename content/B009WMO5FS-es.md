@@ -28,10 +28,10 @@ Tienes [Gaggia RI8525 / 01 Carezza Deluxe Máquina de café expreso manual  para
 
 ℹ️:
 
+- 2 filtros incluidos: 1 filtro para café molido, para 1 o 2 tazas y 1 filtro para monodosis de papel, con adaptador
+- El espumador de leche clásico de acero inoxidable dispensa vapor para emulsionar la leche o el agua caliente para preparar té y tés de hierbas
+- Alerta de descalcificación y función de preparación previa
 - Cafetera manual con portafiltros presurizado
 - Producto destinado a uso doméstico
-- 2 filtros incluidos: 1 filtro para café molido, para 1 o 2 tazas y 1 filtro para monodosis de papel, con adaptador
-- Alerta de descalcificación y función de preparación previa
-- El espumador de leche clásico de acero inoxidable dispensa vapor para emulsionar la leche o el agua caliente para preparar té y tés de hierbas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B009WMO5FS/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Lagarto Suavizante Concentrado  Azul  Estándar  70 Lavad
 
 🔎:
 
+- Extra suavidad
 - Suavizante concentrado
 - Complemento del lavado a máquina
-- Extra suavidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BVFBXZY/?tag=tolees-21)

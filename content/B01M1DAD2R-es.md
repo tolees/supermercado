@@ -28,10 +28,10 @@ Ahora mismo tienes [Scottex Sensitive Aloe Vera Papel higiénico húmedo - 66 Se
 
 🔎:
 
+- Utilízalo en combinación a tu papel higiénico seco Scottex para una higiene perfecta
+- Desechable por el wc
 - PH neutro de la piel
 - Fabricado con papel procedente de bosques responsables
-- Desechable por el wc
-- Utilízalo en combinación a tu papel higiénico seco Scottex para una higiene perfecta
 - Con efecto calmante Aloe Vera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M1DAD2R/?tag=tolees-21)

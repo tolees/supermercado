@@ -28,9 +28,9 @@ Tienes [Rhinomer  Spray Nasal 100% Agua de Mar  Fuerza Media 2  para Adultos y N
 
 🔎:
 
-- Ayuda a limpiar, hidratar y aliviar la congestión nasal, ideal para la limpieza nasal diaria de toda la familia
 - Con válvula antirretorno que permite conservar la esterilidad, nuestro envase innovador no precisa un gas propelente ni el uso de conservantes
 - Adecuado para adultos y niños a partir de 2 años, con una nebulización de fuerza media
+- Ayuda a limpiar, hidratar y aliviar la congestión nasal, ideal para la limpieza nasal diaria de toda la familia
 - Conserva todos los minerales y oligoelementos del mar, no incluye medicamentos, contiene 135 ml
 - Spray nasal de agua de mar 100% natural indicado para la limpieza diaria, que alivia la congestión nasal
 

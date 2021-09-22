@@ -28,10 +28,10 @@ Ahora mismo tienes [Renova Servilletas de Papel Red Label  200 Servilletas Blanc
 
 🔎:
 
-- Servilletas Blancas
 - Una capa
+- Servilletas Blancas
+- 200 unidades
 - Ideales para un uso cotidiano
 - 32x30cm
-- 200 unidades
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TWMVCMN/?tag=tolees-21)

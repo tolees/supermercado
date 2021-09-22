@@ -28,9 +28,9 @@ Tienes [KH-7 | Crema para la Limpieza la Vitrocerámica | 3 Recipientes de 450 m
 
 🔎:
 
-- Su fórmula desengrasante desincrusta y protege la vitrocerámica
 - Su formulación con partículas abrasivas, lo hace ideal para la limpieza de superficies de acero inoxidable, y bases de ollas, sartenes de acero inoxidable
-- Ingredientes: WATER - POLYVINYL CHLORIDE RESIN - ALUMINE OXIDE - FATTY ETHOXYLATED ALCOHOL - POLYDIMETHYLSILOXANE - N-PROPANOL - MAGNESIUM ALUMINIUM SILICATE - CITRIC ACID - XANTANE GUM - FRAGRANCE - 1,2-BENZOISOTHIAZOL-3-ONE - METHYLCHLOROISOTHIAZOLINONE - METHYLISOTHIAZOLINONE - DIETHYLENETRIAMINEPENTAMETHYLPHOSPHONIC ACID - DYE - LINALOOL - GERANIOL - CITRAL
+- Su fórmula desengrasante desincrusta y protege la vitrocerámica
 - Kh-7 vitro cerámica es una crema limpiadora que elimina muy fácilmente la suciedad incrustada de la vitrocerámica
+- Ingredientes: WATER - POLYVINYL CHLORIDE RESIN - ALUMINE OXIDE - FATTY ETHOXYLATED ALCOHOL - POLYDIMETHYLSILOXANE - N-PROPANOL - MAGNESIUM ALUMINIUM SILICATE - CITRIC ACID - XANTANE GUM - FRAGRANCE - 1,2-BENZOISOTHIAZOL-3-ONE - METHYLCHLOROISOTHIAZOLINONE - METHYLISOTHIAZOLINONE - DIETHYLENETRIAMINEPENTAMETHYLPHOSPHONIC ACID - DYE - LINALOOL - GERANIOL - CITRAL
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M9J4EXJ/?tag=tolees-21)

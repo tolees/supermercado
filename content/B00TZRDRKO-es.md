@@ -28,8 +28,8 @@ Tienes [MTL 79535 - Tinta tampones y sellos  30 ml  color azul](https://www.amaz
 
 ℹ️:
 
-- Para entintado y recarga de tampones de sellado
-- Tinta sin aceite y secado rápido de color intenso
 - Azul
+- Tinta sin aceite y secado rápido de color intenso
+- Para entintado y recarga de tampones de sellado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TZRDRKO/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Ana María Lajusticia - Ana Maria Lajusticia - Aceite de hígado de bacal
 
 ℹ️:
 
-- Problemas de piel y toda clase de mucosas
-- Indicado para el control del colesterol y placas de ateroma. Estados de raquitismo, ceguera nocturna y cataratas.
-- Aporte de Vitamina D, A, E y Omega 3
 - Se recomienda en invierno cuando la producción de vitamina D a través del sol es menor.
+- Indicado para el control del colesterol y placas de ateroma. Estados de raquitismo, ceguera nocturna y cataratas.
+- Problemas de piel y toda clase de mucosas
+- Aporte de Vitamina D, A, E y Omega 3
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XO26VFE/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Neutrex Lejía Futura Acción total para la lavadora - 1.8 L](https://ww
 
 🔎:
 
-- Garantiza la higiene perfecta de toda la colada y del hogar
-- Su fórmula densoactiva es más fácil de controlar, eliminando al máximo el riesgo de salpicaduras
-- Su fórmula con fibroprotectores protege tus tejidos para que tu ropa dure más
 - Actúa directamente sobre las manchas y las elimina con facilidad
+- Garantiza la higiene perfecta de toda la colada y del hogar
+- Su fórmula con fibroprotectores protege tus tejidos para que tu ropa dure más
 - Devuelve en cada lavado la blancura del primer día.
+- Su fórmula densoactiva es más fácil de controlar, eliminando al máximo el riesgo de salpicaduras
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082PG14NS/?tag=tolees-21)

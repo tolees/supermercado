@@ -28,8 +28,8 @@ Tienes [Corny Barritas de Chocolate Negro - Pack de 6x23g](https://www.amazon.es
 
 ℹ️:
 
-- Sin aceite de palma
 - Cacao sostenible rainforest alliance
 - Sin conservantes
+- Sin aceite de palma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDNE00M/?tag=tolees-21)
