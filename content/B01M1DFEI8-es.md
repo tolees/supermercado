@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scottex Collection Doble Capa Servilleta con un 4.80 % de descuento'
-date: 2021-09-06 07:37:25
+date: 2021-09-22 09:06:55
 image: 'https://m.media-amazon.com/images/I/51IGMJsKLxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
