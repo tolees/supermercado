@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIVEA Creme crema hidratante universal t con un 65.49 % de descuento'
-date: 2021-08-29 08:03:26
+date: 2021-09-22 07:26:41
 image: 'https://m.media-amazon.com/images/I/316gacRabvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIVEA'
 buyurl: 'https://www.amazon.es/dp/B072KT3K3S/?tag=tolees-21'
 descuento: '65.49'
-average: '2.00904761904762'
+average: '1.99521739130435'
 ---
 
 En este momento está [NIVEA Creme crema hidratante universal todo tipo de pieles lata 150 ml](https://www.amazon.es/dp/B072KT3K3S/?tag=tolees-21) a 1.85 EUR (original: 5.36 EUR) (65.49 %  de descuento) en el siguiente enlace!
