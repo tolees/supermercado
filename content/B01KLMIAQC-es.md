@@ -28,8 +28,8 @@ Está [Garnier Skin Active  Agua micelar  piel grasa  en aceite waterproof  - 40
 
 ℹ️:
 
-- Tipo de Piel: Todo Tipo de Pieles
-- Formato: Bifásico
 - Formulación: Sin Parabenos
+- Formato: Bifásico
+- Tipo de Piel: Todo Tipo de Pieles
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01KLMIAQC/?tag=tolees-21)
