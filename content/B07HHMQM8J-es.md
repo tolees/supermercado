@@ -28,10 +28,10 @@ En este momento está [Maeloc Sidra con Mora - Pack de 4 x 200 ml](https://www.a
 
 🔎:
 
-- Servir fría o con hielo.
-- Vegana y sin gluten.
-- Sidra de manzana con zumo de mora.
 - Contenido de alcohol 4%.
+- Servir fría o con hielo.
+- Sidra de manzana con zumo de mora.
+- Vegana y sin gluten.
 - Sidra gallega, elaborada con manzanas 100% gallegas de más de 1000 cultivadores autóctonos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HHMQM8J/?tag=tolees-21)
