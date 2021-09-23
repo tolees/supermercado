@@ -28,9 +28,9 @@ Ahora mismo tienes [INIBSA - Gel De Ducha Para El Cuidado De La Piel Y El Cabell
 
 🔎:
 
-- Piel más suave y lisa
-- Mejora la hidratación de la piel
 - Cuidado de la piel y el cabello
 - Dermatológicamete testado
+- Mejora la hidratación de la piel
+- Piel más suave y lisa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01HZN1O2M/?tag=tolees-21)
