@@ -29,7 +29,7 @@ En este momento está [Elizabeth Arden Retinol Ceramide Night Serum Capsulas 90 
 🔎:
 
 - Ayuda a fortalecer la barrera de protección y mantiene el nivel de humedad de la piel
-- Admite la formación de colágeno natural
 - Minimiza la aparición de líneas y arrugas
+- Admite la formación de colágeno natural
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TN8WFZJ/?tag=tolees-21)

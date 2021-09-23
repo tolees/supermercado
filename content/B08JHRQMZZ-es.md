@@ -29,8 +29,8 @@ En este momento está [La Lechera Veggie 370g - Pack de 6](https://www.amazon.es
 🔎:
 
 - España
-- Base vegetal de avena y arroz para repostería
-- Avena, leche
 - Azúcar, agua, harina de arroz hidratada (10%), aceite de girasol alto oleico, harina de avena sin gluten (7%); Puede contener leche
+- Avena, leche
+- Base vegetal de avena y arroz para repostería
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JHRQMZZ/?tag=tolees-21)

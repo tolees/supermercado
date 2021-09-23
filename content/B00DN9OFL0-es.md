@@ -28,10 +28,10 @@ Tienes [Trident Fresh Gragea Hierbabuena- Chicles sin Azúcar con Sabor a Hierba
 
 ℹ️:
 
-- Sabor intenso y refrescante que cuida tu aliento y tu salud dental
 - Alérgenos: Sin azúcar, con edulcorantes. Contiene sorbitol y una fuente de fenilalanina
-- Conservar en lugar fresco y seco
 - Formato pack de 24 envases de chicles sueltos tipo gragea rellena de powder
 - Chicles refrescantes sin azúcar con sabor a hierbabuena
+- Conservar en lugar fresco y seco
+- Sabor intenso y refrescante que cuida tu aliento y tu salud dental
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DN9OFL0/?tag=tolees-21)
