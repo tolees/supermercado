@@ -28,10 +28,10 @@ En este momento está [Morgan Mentos  Jersey para Mujer  Negro  L](https://www.a
 
 🔎:
 
-- Mangas largas
-- Malla unida Fine Gauge
-- Bandas incrustées a la pecho
 - Corte Slim
 - Pull Slim fina malla negro
+- Mangas largas
+- Bandas incrustées a la pecho
+- Malla unida Fine Gauge
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00D043JFG/?tag=tolees-21)
