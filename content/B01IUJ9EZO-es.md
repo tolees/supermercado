@@ -28,12 +28,12 @@ Tienes [ORLANDO Tomate Frito Brik 3 x 350g](https://www.amazon.es/dp/B01IUJ9EZO/
 
 🔎:
 
-- Una vez abierto conservar en frigorífico
-- Sin Gluten
-- Sin conservantes
-- Apto para Vegetarianos y Veganos
 - Ingredientes: Tomate (160 g por 100 g de tomate frito), aceite de girasol (3,4%) (sofrito con cebolla y ajos frescos), azúcar, almidón modificado de maíz y sal
+- Apto para Vegetarianos y Veganos
+- Sin conservantes
 - Listo para consumir
+- Sin Gluten
+- Una vez abierto conservar en frigorífico
 - Sin trozos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01IUJ9EZO/?tag=tolees-21)

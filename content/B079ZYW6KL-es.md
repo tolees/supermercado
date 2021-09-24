@@ -28,11 +28,11 @@ Está [Nestlé Papillas - Nestlé Bolsita de puré de frutas  variedad 4 Frutas 
 
 ℹ️:
 
-- Bolsita de puré de frutas para bebés a partir de 4 meses 100% natural con vitamina C
-- Sin colorantes y sin conservantes, de acuerdo con la legislación vigente
 - Alimento infantil elaborado 100% con fruta natural madurada en el árbol lista para tomar
-- Sin aceite de palma y sin gluten
-- Alimento para bebés a partir de 4 meses
 - Sin azúcares añadidos** y sin espesantes, como lo haces en casa
+- Sin aceite de palma y sin gluten
+- Bolsita de puré de frutas para bebés a partir de 4 meses 100% natural con vitamina C
+- Alimento para bebés a partir de 4 meses
+- Sin colorantes y sin conservantes, de acuerdo con la legislación vigente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079ZYW6KL/?tag=tolees-21)

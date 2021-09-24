@@ -29,8 +29,8 @@ Ahora mismo tienes [Doritos Tex-Mex 260g - Sabor a Queso - Pack de 14](https://w
 🔎:
 
 - Atrévete con el crujido de Doritos y su intenso sabor a queso
-- Los Doritos sabor Tex Mex son un snack adecuado para picotear o dipear con forma triangular para acompañar con la salsa que prefieras
-- Paquete de 14 bolsas
 - Esta caja de Doritos es la óptima forma de tener siempre un aperitivo listo para disfrutar allá donde quieras y con quien quieras
+- Paquete de 14 bolsas
+- Los Doritos sabor Tex Mex son un snack adecuado para picotear o dipear con forma triangular para acompañar con la salsa que prefieras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B4KG62C/?tag=tolees-21)

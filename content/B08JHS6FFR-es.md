@@ -29,8 +29,8 @@ Está [Nestlé Nesquik Intenso 70% Cacao - 6 x 300g](https://www.amazon.es/dp/B0
 ℹ️:
 
 - Cacao en polvo (42%), azúcar, cacao desgrasado en polvo (28%), aroma natural, canela; Puede contener soja
-- España
 - Prueba el Nesquik intenso 70% cacao; Cacao cuidadosamente seleccionado; Nesquik intenso 70%; Cacao apto para dietas sin gluten
 - Alérgenos: soja
+- España
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08JHS6FFR/?tag=tolees-21)

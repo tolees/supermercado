@@ -28,10 +28,10 @@ Tienes [Nestlé Nesquik Intenso 40% Cacao - 6 x 330g](https://www.amazon.es/dp/B
 
 🔎:
 
-- Lecitina de soja
+- Instrucciones para su uso adecuado: Añade 2 cucharaditas (9 g) en 200 ml de leche semidesnatada caliente, remueve y disfruta; sin gluten; sin lactosa
 - Prueba el Nesquik intenso 40% cacao; cacao cuidadosamente seleccionado; nesquik intenso 40% cacao apto para dietas sin gluten
 - España
-- Instrucciones para su uso adecuado: Añade 2 cucharaditas (9 g) en 200 ml de leche semidesnatada caliente, remueve y disfruta; sin gluten; sin lactosa
+- Lecitina de soja
 - Azúcar, cacao en polvo (40%) emulgente (lecitina de soja) aroma natural, canela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08JHQPS74/?tag=tolees-21)
