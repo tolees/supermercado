@@ -28,10 +28,10 @@ En este momento está [NIVEA MEN Roll on Alu Free Ocean Desodorante Sin Aluminio
 
 🔎:
 
-- 48h protección
 - 0% alcohol
-- Dermatológicamente comprobado
 - Secado rápido
+- Dermatológicamente comprobado
 - 0% aluminio (ach)
+- 48h protección
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SF91Q8N/?tag=tolees-21)
