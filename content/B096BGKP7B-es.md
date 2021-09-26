@@ -28,14 +28,14 @@ Ahora mismo tienes [Gin Puerto de Indias - BlackBerry Premium Gin - Ginebra Prem
 
 🔎:
 
-- Ginebra Premium Puerto de Indias de mora. VOL 70cl
-- La violeta aporta a esta ginebra Premium de Puerto de Indias inconfundibles notas florales, suaves y aterciopeladas junto a la canela, que aparece en esta composición para dar un sabor fragante y cálido con detalles dulces y toques amargos
 - ¿Cómo tomarla? Combínala con refresco de lima limón y decora con canela y mora.
 - En nariz: destacan las notas frutales de la mora subrayadas por finos recuerdos a caramelo de violeta, sobre un fondo fresco y cítrico
 - Sabor: Ginebra de mora, suave y dulce
 - A la vista: apariencia translúcida
-- Una ginebra en la que se mezclan la esencia de las moras y una cuidadosa selección de ingredientes que completan y perfilan el producto
-- Puerto de Indias es la marca de la primera ginebra de fresas que inspiró la categoría de la ginebra rosa
+- Ginebra Premium Puerto de Indias de mora. VOL 70cl
 - En boca: tras una entrada fina y aterciopelada, las notas complejas de los frutos negros silvestres se abren paso con sus matices suaves, intensos, agridulces, culminando con el ligerísimo toque característico de la canela
+- Una ginebra en la que se mezclan la esencia de las moras y una cuidadosa selección de ingredientes que completan y perfilan el producto
+- La violeta aporta a esta ginebra Premium de Puerto de Indias inconfundibles notas florales, suaves y aterciopeladas junto a la canela, que aparece en esta composición para dar un sabor fragante y cálido con detalles dulces y toques amargos
+- Puerto de Indias es la marca de la primera ginebra de fresas que inspiró la categoría de la ginebra rosa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B096BGKP7B/?tag=tolees-21)

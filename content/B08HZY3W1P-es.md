@@ -29,9 +29,9 @@ Está [Max Factor Facefinity - Polvos Iluminadores  tono 0  40 G  Highlighter  V
 ℹ️:
 
 - Iluminación libre de imperfecciones
-- Polvos ligeros para un brillo saludable y radiante
 - Tono universal, apto para todo tipo de pieles
 - Adecuado para todo tipo de pieles
+- Polvos ligeros para un brillo saludable y radiante
 - Textura sedosa y ligera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HZY3W1P/?tag=tolees-21)

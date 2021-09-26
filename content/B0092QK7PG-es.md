@@ -28,8 +28,8 @@ Ahora mismo tienes [Maybelline New York Pintalabios mate  color intenso y cómod
 
 🔎:
 
-- Pintalabios de color marrón rojizo con acabado mate y textura de gel que se funde, disponible en diferentes matices, adecuado para todos los tipos de piel
 - Fórmula ligera enriquecida con pigmentos de alta concentración y polvo ultrafino, fabricado según las normas de la UE
+- Pintalabios de color marrón rojizo con acabado mate y textura de gel que se funde, disponible en diferentes matices, adecuado para todos los tipos de piel
 - Incluye: 1 pintalabios Maybelline New York Color Sensational Ultimate, color: nº 899 More Rust (rojo marrón). Contenido: 2 g. Fabricado en Francia
 - Resultado: Color labial intenso definitivo con acabado mate y máxima comodidad sin que se seque ni se desprenda
 - Aplicación precisa gracias a la punta en ángulo: Aplicar el pintalabios primero por el labio superior desde el interior hacia el exterior, luego rellenar el labio inferior
