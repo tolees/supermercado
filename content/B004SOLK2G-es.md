@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnnie Walker Red Whisky Escocés - 1000 al 47.84 % de descuento'
-date: 2021-09-05 08:21:21
+date: 2021-09-26 16:12:42
 image: 'https://m.media-amazon.com/images/I/41BBoTWzVhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Johnnie Walker'
 buyurl: 'https://www.amazon.es/dp/B004SOLK2G/?tag=tolees-21'
 descuento: '47.84'
-average: '13.572'
+average: '13.6018181818182'
 ---
 
 Ahora mismo tienes [Johnnie Walker Red Whisky Escocés - 1000 ml](https://www.amazon.es/dp/B004SOLK2G/?tag=tolees-21) a 13.9 EUR (original: 26.65 EUR) (47.84 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Johnnie Walker Red Whisky Escocés - 1000 ml](https://www.am
 
 🔎:
 
-- Chispeante y especiado, con una explosión de sabores vibrantes y ahumados
 - Contiene hasta 35 whiskies diferentes seleccionados de las mejores destilerías de Escocia
 - Disfrútelo en vaso alto con hielo y ginger ale
 - El whisky escocés de mezcla más vendido del mundo
+- Chispeante y especiado, con una explosión de sabores vibrantes y ahumados
 - Versátil y con un atractivo universal, tiene un sabor acentuado y lleno de carácter
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004SOLK2G/?tag=tolees-21)
