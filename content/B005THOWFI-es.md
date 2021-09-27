@@ -28,8 +28,8 @@ Tienes [Beaphar Dog-a-Dent Cepillo de Dientes](https://www.amazon.es/dp/B005THOW
 
 ℹ️:
 
-- Adecuado para perros y gatos.
-- Dimensiones: 21 x 21 x 3 cm.
 - Combate la placa y protege contra el sarro
+- Dimensiones: 21 x 21 x 3 cm.
+- Adecuado para perros y gatos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005THOWFI/?tag=tolees-21)
