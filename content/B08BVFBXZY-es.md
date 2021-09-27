@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lagarto Suavizante Concentrado  Azul  Es con un 0.00 % de descuento'
-date: 2021-09-22 08:42:15
+date: 2021-09-27 10:38:45
 image: 'https://m.media-amazon.com/images/I/31lK66Di+rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lagarto'
 buyurl: 'https://www.amazon.es/dp/B08BVFBXZY/?tag=tolees-21'
 descuento: '0.00'
-average: '1.74444444444444'
+average: '1.73333333333334'
 ---
 
 En este momento está [Lagarto Suavizante Concentrado  Azul  Estándar  70 Lavados  1540 ml](https://www.amazon.es/dp/B08BVFBXZY/?tag=tolees-21) a 1.7 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!

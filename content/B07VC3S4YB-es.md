@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'Heinz Salsa Spicy Paprika & Chilli Mayo  al 0.00 % de rebaja'
+date: 2021-09-27 10:33:59
+image: 'https://m.media-amazon.com/images/I/41LLz2h-43S._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07VC3S4YB-es Heinz Salsa Spicy Paprika & Chilli Mayo envase 875ml'
+sku: 'B07VC3S4YB-es'
+tags: [ 'Alimentación y bebidas','Salsa de chile','Salsas','Salsas para servir y cocinar','heinz', ]
+actualPrice: 8.52 EUR
+currency: EUR
+price: 8.52
+comparePrice:  EUR
+prodname: 'Heinz Salsa Spicy Paprika & Chilli Mayo envase 875ml'
+country: 'es'
+flag: '🇪🇸'
+brand: 'HEINZ'
+buyurl: 'https://www.amazon.es/dp/B07VC3S4YB/?tag=tolees-21'
+descuento: '0.00'
+average: '8.52'
+---
+
+Tienes [Heinz Salsa Spicy Paprika & Chilli Mayo envase 875ml](https://www.amazon.es/dp/B07VC3S4YB/?tag=tolees-21) con precio final de  8.52 EUR (original:  EUR) (0.00 %  de rebaja) aqui!
+
+[![Heinz Salsa Spicy Paprika & Chilli Mayo ](https://m.media-amazon.com/images/I/41LLz2h-43S._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07VC3S4YB/?tag=tolees-21)
+
+🔎:
+
+- Cremosa Salsa de Mayonesa con Pimenton y Chili
+- Apto para vegetarianos
+- Aporta un toque picante y de gran sabor a cualquier plato
+- Aceite de colza, agua, vinagre de alcohol, azúcar, cebolla deshidratada, puré de tomate, yema de huevo*, sal, cebolla en polvo, harina de maíz modificada, pimentón en polvo, chili, conservante (sorbato potásico), acido cítrico, antioxidante (Calcium-Disodium- EDTA), espesantes (goma chantana, goma guar), extracto de chilli. *de gallinas camperas
+- Adecuada con pollo, patatas fritas y burritos
+- Una vez abierto conservar en frigorífico
+- Alérgenos: Huevo
+- Sin colorantes ni saborizantes artificiales
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07VC3S4YB/?tag=tolees-21)

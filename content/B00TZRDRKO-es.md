@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en MTL 79535 - Tinta tampones y sellos  30 '
-date: 2021-09-22 09:06:36
+date: 2021-09-27 10:15:11
 image: 'https://m.media-amazon.com/images/I/414yYQL0sXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
