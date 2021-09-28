@@ -28,11 +28,11 @@ Ahora mismo tienes [Deox - Suavizante para lavadora concentrado  prendas suaves 
 
 🔎:
 
-- Producto: suavizante concentrado Deox aporta suavidad y un perfume envolvente a las prendas, elimina eficazmente los malos olores y previene la formación incluso mientras los llevas puestos
-- Sostenibilidad: el envase es totalmente reciclable y el frasco está compuesto de un 50% de plástico reciclado
-- Fragancia: contiene microcápsulas de perfume que se activan con cada movimiento, envolviendo las prendas en una agradable fragancia de vainilla y argán que dura mucho tiempo
 - Modo de empleo: añade el suavizante en el último enjuague, ya sea para la ropa a mano o en la lavadora. Seguir las dosis recomendadas en el envase
-- Delicado: el suavizante concentrado Deox está dermatológicamente probado, apto para la ropa de toda la familia
+- Sostenibilidad: el envase es totalmente reciclable y el frasco está compuesto de un 50% de plástico reciclado
 - Tecnología Fresh Protection: la exclusiva fórmula patentada antiolor desprende un impalpable velo protector sobre las fibras, protegiendo las prendas de los malos olores como el sudor, el humo y el cierre
+- Delicado: el suavizante concentrado Deox está dermatológicamente probado, apto para la ropa de toda la familia
+- Producto: suavizante concentrado Deox aporta suavidad y un perfume envolvente a las prendas, elimina eficazmente los malos olores y previene la formación incluso mientras los llevas puestos
+- Fragancia: contiene microcápsulas de perfume que se activan con cada movimiento, envolviendo las prendas en una agradable fragancia de vainilla y argán que dura mucho tiempo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08SS6R9S2/?tag=tolees-21)

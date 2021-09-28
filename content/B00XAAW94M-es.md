@@ -28,8 +28,8 @@ Tienes [Knorr - Caldo de la Abuela Pollo  1L](https://www.amazon.es/dp/B00XAAW94
 
 🔎:
 
-- Delicioso caldo de pollo
 - Sin conservantes, sin colorantes, bajo en grasa y bajo en calorias
+- Delicioso caldo de pollo
 - Knorr caldo líquido de la abuela pollo1l
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XAAW94M/?tag=tolees-21)
