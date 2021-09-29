@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Aguila Cerveza Especial sin Filtrar   con un 24.91 % de descuento'
-date: 2021-09-27 17:15:53
+date: 2021-09-29 14:13:28
 image: 'https://m.media-amazon.com/images/I/51CPAsgtsjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Aguila'
 buyurl: 'https://www.amazon.es/dp/B0876BRC3C/?tag=tolees-21'
 descuento: '24.91'
-average: '15.60851590106'
+average: '15.6023943661971'
 ---
 
 En este momento está [El Aguila Cerveza Especial sin Filtrar  Paquete de 24 x 330ml](https://www.amazon.es/dp/B0876BRC3C/?tag=tolees-21) a 13.87 EUR (original: 18.47 EUR) (24.91 %  de descuento) en el siguiente enlace!
