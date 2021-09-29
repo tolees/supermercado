@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heinz Salsa Spicy Paprika & Chilli Mayo  al 0.00 % de rebaja'
-date: 2021-09-27 10:33:59
+date: 2021-09-29 10:39:30
 image: 'https://m.media-amazon.com/images/I/41LLz2h-43S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Tienes [Heinz Salsa Spicy Paprika & Chilli Mayo envase 875ml](https://www.amazo
 
 🔎:
 
-- Cremosa Salsa de Mayonesa con Pimenton y Chili
 - Apto para vegetarianos
-- Aporta un toque picante y de gran sabor a cualquier plato
-- Aceite de colza, agua, vinagre de alcohol, azúcar, cebolla deshidratada, puré de tomate, yema de huevo*, sal, cebolla en polvo, harina de maíz modificada, pimentón en polvo, chili, conservante (sorbato potásico), acido cítrico, antioxidante (Calcium-Disodium- EDTA), espesantes (goma chantana, goma guar), extracto de chilli. *de gallinas camperas
-- Adecuada con pollo, patatas fritas y burritos
-- Una vez abierto conservar en frigorífico
-- Alérgenos: Huevo
 - Sin colorantes ni saborizantes artificiales
+- Aceite de colza, agua, vinagre de alcohol, azúcar, cebolla deshidratada, puré de tomate, yema de huevo*, sal, cebolla en polvo, harina de maíz modificada, pimentón en polvo, chili, conservante (sorbato potásico), acido cítrico, antioxidante (Calcium-Disodium- EDTA), espesantes (goma chantana, goma guar), extracto de chilli. *de gallinas camperas
+- Alérgenos: Huevo
+- Una vez abierto conservar en frigorífico
+- Adecuada con pollo, patatas fritas y burritos
+- Aporta un toque picante y de gran sabor a cualquier plato
+- Cremosa Salsa de Mayonesa con Pimenton y Chili
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VC3S4YB/?tag=tolees-21)

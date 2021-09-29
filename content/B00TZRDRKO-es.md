@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en MTL 79535 - Tinta tampones y sellos  30 '
-date: 2021-09-27 10:15:11
+date: 2021-09-29 10:41:32
 image: 'https://m.media-amazon.com/images/I/414yYQL0sXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [MTL 79535 - Tinta tampones y sellos  30 ml  color azul](https://www.amaz
 
 ℹ️:
 
+- Para entintado y recarga de tampones de sellado
 - Azul
 - Tinta sin aceite y secado rápido de color intenso
-- Para entintado y recarga de tampones de sellado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TZRDRKO/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heinz Ketchup 450 g al 0.00 % de descuento'
-date: 2021-09-27 10:31:02
+date: 2021-09-29 10:31:31
 image: 'https://m.media-amazon.com/images/I/41A8oqdXgLS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Heinz Ketchup 450 g](https://www.amazon.es/dp/B01E6YJQIM/?tag=tolees-21) 
 
 ℹ️:
 
-- El Ketchup numero 1 en el Mundo
 - Absolutamente sin colorantes, aromas, conservantes o espesantes artificiales
 - Alergenos: Apio
 - Adecuado con una hamburguesa y patatas fritas o como un glaseado para alitas de pollo
+- El Ketchup numero 1 en el Mundo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01E6YJQIM/?tag=tolees-21)

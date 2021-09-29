@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Heinz Salsa Ensalada Miel y Mostaza  405'
-date: 2021-09-27 10:07:24
+date: 2021-09-29 10:30:42
 image: 'https://m.media-amazon.com/images/I/41Nb1GE+eFS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Heinz Salsa Ensalada Miel y Mostaza  405g](https://www.amazon.es/dp/B00X
 
 ℹ️:
 
-- Ideal para ensaladas y sándwiches, con salmón y ahumados
-- Contiene leche, mostaza y apio
-- Apto para vegetarianos
 - Una vez abierto conservar en frigorífico
+- Contiene leche, mostaza y apio
+- Ideal para ensaladas y sándwiches, con salmón y ahumados
+- Apto para vegetarianos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDQ4JA0/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Heinz Ketchup  Menos Azúcar y Sal  555g'
-date: 2021-09-27 10:18:43
+date: 2021-09-29 10:26:54
 image: 'https://m.media-amazon.com/images/I/410sGVK+ZHS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Tienes [Heinz Ketchup  Menos Azúcar y Sal  555g](https://www.amazon.es/dp/B01DU
 
 ℹ️:
 
-- Apto para veganos y vegetarianos
+- Disfruta el inconfundible sabor de Kétchup con 50% menos Azúcar y Sal que la Kétchup estándar
 - Una vez abierto conservar en frigorífico
-- Tomates, vinagre de alcohol, azúcar, sal, extracto de especias y hierbas aromáticas, especia
 - Sin colorantes, saborizantes ni conservantes artificiales.
 - Sin gluten
 - Adecuada para hamburguesas, patatas fritas y sándwiches
+- Apto para veganos y vegetarianos
+- Tomates, vinagre de alcohol, azúcar, sal, extracto de especias y hierbas aromáticas, especia
 - Alérgenos: Apio
-- Disfruta el inconfundible sabor de Kétchup con 50% menos Azúcar y Sal que la Kétchup estándar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DUWM95S/?tag=tolees-21)

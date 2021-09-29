@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HEINZ Ketchup Caja 200 sobres 10 ml al 0.00 % de rebaja'
-date: 2021-09-27 10:05:12
+date: 2021-09-29 10:33:22
 image: 'https://m.media-amazon.com/images/I/41MmbOpO76L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,14 +28,14 @@ Tienes [HEINZ Ketchup Caja 200 sobres 10 ml](https://www.amazon.es/dp/B08ZPMLYV4
 
 🔎:
 
-- Sin ingredientes que contengan gluten.
-- Ingredientes: Tomates, vinagre de alcohol, azúcar, sal, extracto de especias y hierbas aromáticas, especia.
+- Ideal para hamburguesas, patatas fritas y sándwiches.
+- Alérgenos: Apio.
 - Apto para veganos y vegetarianos.
+- Sin gluten.
+- Sin ingredientes que contengan gluten.
+- Ingredientes: Ingredientes: Tomates (148 g por 100 g ketchup) vinagre de alcohol, azúcar, sal, extracto de especias y hierbas aromáticas (contiene apio) especia. Advertencia de seguridad: Para todas las edades; Instrucciones para su uso adecuado: Preparado para su consumo
 - Caja 200 bolsitas unitarias de 10ml.
 - El Kétchup no. 1 en el Mundo.
-- Ideal para hamburguesas, patatas fritas y sándwiches.
-- Sin gluten.
-- Ingredientes: Ingredientes: Tomates (148 g por 100 g ketchup) vinagre de alcohol, azúcar, sal, extracto de especias y hierbas aromáticas (contiene apio) especia. Advertencia de seguridad: Para todas las edades; Instrucciones para su uso adecuado: Preparado para su consumo
-- Alérgenos: Apio.
+- Ingredientes: Tomates, vinagre de alcohol, azúcar, sal, extracto de especias y hierbas aromáticas, especia.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08ZPMLYV4/?tag=tolees-21)
