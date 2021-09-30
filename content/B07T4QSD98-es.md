@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carlos I Brandy de Jerez Solera Gran Res con un 18.48 % de descuento'
-date: 2021-09-27 07:27:45
+date: 2021-09-30 06:44:04
 image: 'https://m.media-amazon.com/images/I/4192to47FIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [Carlos I Brandy de Jerez Solera Gran Reserva 1520 70 cl](
 
 🔎:
 
+- Creado artesanalmente por nuestro maestro mezclador.
 - Brandy de Jerez Solera Gran Reserva
 - 41,1º
 - Con notas destacadas de madera noble, caoba y con marcados toques especiados.
-- Creado artesanalmente por nuestro maestro mezclador.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07T4QSD98/?tag=tolees-21)
