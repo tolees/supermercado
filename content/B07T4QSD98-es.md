@@ -29,8 +29,8 @@ En este momento está [Carlos I Brandy de Jerez Solera Gran Reserva 1520 70 cl](
 🔎:
 
 - Creado artesanalmente por nuestro maestro mezclador.
+- Con notas destacadas de madera noble, caoba y con marcados toques especiados.
 - Brandy de Jerez Solera Gran Reserva
 - 41,1º
-- Con notas destacadas de madera noble, caoba y con marcados toques especiados.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07T4QSD98/?tag=tolees-21)

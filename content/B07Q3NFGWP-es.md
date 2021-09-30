@@ -28,8 +28,8 @@ En este momento está [Axe Collision Bodyspray Desodorante Leather & Cookies par
 
 🔎:
 
-- Mantente fresco por más tiempo
 - Una moderna fragancia masculina que te ayuda a expresar aquello que te hace único
 - AXE Bodyspray Leather & Cookies - 150 ml
+- Mantente fresco por más tiempo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Q3NFGWP/?tag=tolees-21)

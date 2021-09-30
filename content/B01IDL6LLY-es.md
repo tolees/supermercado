@@ -28,8 +28,8 @@ Está [Calvo Atún Claro en Aceite de Oliva - Paquete de 4 x 3 x 80 gr](https://
 
 ℹ️:
 
-- Alergenos: pescado
 - Pa?s de origen: Espa?a
 - Pack 4 x 3 x 80 g
+- Alergenos: pescado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IDL6LLY/?tag=tolees-21)
