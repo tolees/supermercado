@@ -28,9 +28,9 @@ Tienes [Aussie Tratamiento Acondicionador Intensivo Para El Cuidado Del Cabello 
 
 🔎:
 
-- Tratamiento intensivo con mirto limón australiano
-- Repara y revive
 - Superfrutas australianas milagrosas para auténticas emergencias capilares
 - Tratamiento intensivo SOS repair
+- Repara y revive
+- Tratamiento intensivo con mirto limón australiano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B093JGVR9J/?tag=tolees-21)
