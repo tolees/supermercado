@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Lactovit  Loción corporal - 400 gr. con un 9.00 % de descuento'
-date: 2020-06-04 18:31:38
-image: 'https://m.media-amazon.com/images/I/31mjLj5l2HL._SL400_.jpg'
+title: 'Lactovit - Leche Corporal Reparadora Lac con un 48.84 % de descuento'
+date: 2021-10-01 08:57:25
+image: 'https://m.media-amazon.com/images/I/31a7RpdYfyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01GIA03EI-es Lactovit Loción corporal - 400 gr.'
+slug: 'B01GIA03EI-es Lactovit - Leche Corporal Reparadora Lactourea con Protein...'
 sku: 'B01GIA03EI-es'
-tags: [ 'lactovit', ]
-actualPrice: 3.54 EUR
+tags: [ 'Agua','Alimentación y bebidas','Café, té y bebidas','Tónicas','lactovit', ]
+actualPrice: 1.99 EUR
 currency: EUR
-price: 3.54
+price: 1.99
 comparePrice: 3.89 EUR
-prodname: 'Lactovit  Loción corporal - 400 gr.'
+prodname: 'Lactovit - Leche Corporal Reparadora Lactourea con Protein Calcium  para Pieles Secas y Extra Secas - 400 ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Lactovit'
 buyurl: 'https://www.amazon.es/dp/B01GIA03EI/?tag=tolees-21'
-descuento: '9.00'
-average: '3.54'
+descuento: '48.84'
+average: '3.02333333333333'
 ---
 
-En este momento está [Lactovit  Loción corporal - 400 gr.](https://www.amazon.es/dp/B01GIA03EI/?tag=tolees-21) a 3.54 EUR (original: 3.89 EUR) (9.00 %  de descuento) en el siguiente enlace!
+En este momento está [Lactovit - Leche Corporal Reparadora Lactourea con Protein Calcium  para Pieles Secas y Extra Secas - 400 ml](https://www.amazon.es/dp/B01GIA03EI/?tag=tolees-21) a 1.99 EUR (original: 3.89 EUR) (48.84 %  de descuento) en el siguiente enlace!
 
-[![Lactovit  Loción corporal - 400 gr.](https://m.media-amazon.com/images/I/31mjLj5l2HL._SL400_.jpg)](https://www.amazon.es/dp/B01GIA03EI/?tag=tolees-21)
+[![Lactovit - Leche Corporal Reparadora Lac](https://m.media-amazon.com/images/I/31a7RpdYfyL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01GIA03EI/?tag=tolees-21)
 
 🔎:
 
+- Formulada con Protein Calcium y Urea Pura, que proporcionan elasticidad y firmeza a la piel creando un efecto barrera que matiene la hidratación.
+- Desde el primer día, notarás una piel más reparada, elástica y fuerte, además de disfrutar durante todo el día de su delicado perfume
+- Formulado con PROTEIN CALCIUM, que refuerza y nutre la piel para mantenerla fuerte y joven. Piel más hidratada, elástica y firme. Una piel reparada es el secreto de una piel joven.
+- Leche corporal reparadora con urea, para pieles secas y extra-secas que necesitan un extra de reparación
+- Compromiso Lactovit; activos 100% naturales de la leche y altamente biodegradables, mejorando la reciclabilidad de nuestros envases y cuidando del medio ambiente.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01GIA03EI/?tag=tolees-21)
