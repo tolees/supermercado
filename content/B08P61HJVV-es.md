@@ -28,10 +28,10 @@ Está [Pernigotti Crema Cremino 350 G](https://www.amazon.es/dp/B08P61HJVV/?tag=
 
 ℹ️:
 
-- Conservar en lugar fresco y seco (preferiblemente 18-20°C) y alejado de olores.
-- Solo aromas naturales
-- Alergenos: leche y productos derivados (incluida la lactosa), frutos con cáscara
 - Sin aceite de palma
+- Solo aromas naturales
 - País de origen: Turquía
+- Alergenos: leche y productos derivados (incluida la lactosa), frutos con cáscara
+- Conservar en lugar fresco y seco (preferiblemente 18-20°C) y alejado de olores.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08P61HJVV/?tag=tolees-21)
