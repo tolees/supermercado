@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'American Crew Gel Spray  Fijación Media  con un 17.99 % de descuento'
-date: 2020-05-24 17:41:39
-image: 'https://m.media-amazon.com/images/I/317QKVHcqkL._SL400_.jpg'
+title: 'American Crew Gel Spray  Fijación Media  con un 36.45 % de descuento'
+date: 2021-10-01 02:32:31
+image: 'https://m.media-amazon.com/images/I/31nv+Qx48OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0009ET3QO-es American Crew Gel Spray Fijación Media 250ml'
 sku: 'B0009ET3QO-es'
-tags: [ 'american','crew', ]
-actualPrice: 10.99 EUR
+tags: [ 'Belleza','Cuidado del cabello','Gominas y geles','Productos de peinado','american','american crew','crew', ]
+actualPrice: 11.82 EUR
 currency: EUR
-price: 10.99
-comparePrice: 13.4 EUR
+price: 11.82
+comparePrice: 18.6 EUR
 prodname: 'American Crew Gel Spray  Fijación Media  250ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'American Crew'
 buyurl: 'https://www.amazon.es/dp/B0009ET3QO/?tag=tolees-21'
-descuento: '17.99'
-average: '11.16'
+descuento: '36.45'
+average: '11.325'
 ---
 
-En este momento está [American Crew Gel Spray  Fijación Media  250ml](https://www.amazon.es/dp/B0009ET3QO/?tag=tolees-21) a 10.99 EUR (original: 13.4 EUR) (17.99 %  de descuento) en el siguiente enlace!
+En este momento está [American Crew Gel Spray  Fijación Media  250ml](https://www.amazon.es/dp/B0009ET3QO/?tag=tolees-21) a 11.82 EUR (original: 18.6 EUR) (36.45 %  de descuento) en el siguiente enlace!
 
-[![American Crew Gel Spray  Fijación Media ](https://m.media-amazon.com/images/I/317QKVHcqkL._SL400_.jpg)](https://www.amazon.es/dp/B0009ET3QO/?tag=tolees-21)
+[![American Crew Gel Spray  Fijación Media ](https://m.media-amazon.com/images/I/31nv+Qx48OL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0009ET3QO/?tag=tolees-21)
 
 🔎:
 
+- Aporta brillo
+- Gel de fijación media
+- Fija el peinado
+- Protege de los daños causados por el sol
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0009ET3QO/?tag=tolees-21)
