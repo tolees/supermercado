@@ -28,10 +28,10 @@ Está [Pernigotti Crema Cremino 350 G](https://www.amazon.es/dp/B08P61HJVV/?tag=
 
 ℹ️:
 
-- Sin aceite de palma
-- Solo aromas naturales
-- País de origen: Turquía
 - Alergenos: leche y productos derivados (incluida la lactosa), frutos con cáscara
+- País de origen: Turquía
+- Solo aromas naturales
 - Conservar en lugar fresco y seco (preferiblemente 18-20°C) y alejado de olores.
+- Sin aceite de palma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08P61HJVV/?tag=tolees-21)

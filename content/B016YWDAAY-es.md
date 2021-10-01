@@ -29,9 +29,9 @@ Está [JOE WEIDER VICTORY - Weider Proteína Vegana  Sabor Brownie Chocolate - 7
 ℹ️:
 
 - Con un plus de extractos vegetales y de cereales orgánicos
+- Proteínas de guisante (Pisane C9) y arroz de alta calidad
+- Sin lactosa, sin gluten, sin colesterol y libre de disolventes químicos
 - Cada batido contiene hasta 23 g de proteína vegana
 - Enriquecido con Vitamina B12
-- Sin lactosa, sin gluten, sin colesterol y libre de disolventes químicos
-- Proteínas de guisante (Pisane C9) y arroz de alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016YWDAAY/?tag=tolees-21)
