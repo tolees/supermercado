@@ -28,8 +28,8 @@ Tienes [Mum Mum - Mum Desodorante Rollon Sensitive  75 ml](https://www.amazon.es
 
 ℹ️:
 
-- Los mejores productos para tu cuidado personal
 - Calidad y nunca antes tan irresistibles.
+- Los mejores productos para tu cuidado personal
 - Deo Mum Rollon 75 ml
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XIJFL5E/?tag=tolees-21)
