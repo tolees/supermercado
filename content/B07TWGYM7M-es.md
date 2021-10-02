@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DOVE Men Gel Clean Comfort 55  Negro  Es al 0.00 % de descuento'
-date: 2021-09-27 17:56:42
+date: 2021-10-02 18:10:40
 image: 'https://m.media-amazon.com/images/I/41Lf6e3URNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
