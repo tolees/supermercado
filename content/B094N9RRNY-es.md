@@ -28,10 +28,10 @@ Tienes [STIGMA Jabón Azul para Tatuaje 4OZ con Botella de Espuma 100ml Solució
 
 🔎:
 
-- Múltiples usos, lavado de manos, lavado de paños, limpieza diaria de la máquina.
-- Le ayuda a obtener un mejor color de tatuaje después de lavarlo con jabón azul para tatuajes, huele mejor que el jabón verde.
-- Tatuaje de jabón azul altamente concentrado de 4 oz, 120 ml, con botella de espuma de 100 ml, la dilución es 1: 9 con agua pura.
-- Jabón profesional para limpieza y postratamiento de tatuajes, diluya el jabón azul con 9 veces de agua pura.
 - Eliminación de sangre seca y suciedad proteica de la piel y el cuero cabelludo, eficaz para limpiar instrumentos quirúrgicos y aparatos quirúrgicos antes de la esterilización.
+- Múltiples usos, lavado de manos, lavado de paños, limpieza diaria de la máquina.
+- Tatuaje de jabón azul altamente concentrado de 4 oz, 120 ml, con botella de espuma de 100 ml, la dilución es 1: 9 con agua pura.
+- Le ayuda a obtener un mejor color de tatuaje después de lavarlo con jabón azul para tatuajes, huele mejor que el jabón verde.
+- Jabón profesional para limpieza y postratamiento de tatuajes, diluya el jabón azul con 9 veces de agua pura.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B094N9RRNY/?tag=tolees-21)

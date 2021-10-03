@@ -28,9 +28,9 @@ Tienes [Joe Weider Victory Multivit Up 80 gummies  Sabor naranja y limón  Sin a
 
 ℹ️:
 
-- Tomar 2 gominolas al día.
-- Suplemento alimenticio
 - Seguir las instrucciones de uso
+- Tomar 2 gominolas al día.
 - Número de modelo del producto: WGU.102100
+- Suplemento alimenticio
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01IVQ25YI/?tag=tolees-21)
