@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 18.46 % en Lavazza Café en Grano  Qualità Oro Perfe'
-date: 2021-09-28 16:40:20
+date: 2021-10-03 16:57:40
 image: 'https://m.media-amazon.com/images/I/41CzGvQn31L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lavazza'
 buyurl: 'https://www.amazon.es/dp/B0049U0DMC/?tag=tolees-21'
 descuento: '18.46'
-average: '14.9436842105264'
+average: '15.0115000000001'
 ---
 
 Tienes [Lavazza Café en Grano  Qualità Oro Perfect Symphony  Café Espresso 100% Arábica Redondo y Aromático  Paquete de 1 Kg](https://www.amazon.es/dp/B0049U0DMC/?tag=tolees-21) con un 18.46 % de descuento con precio de oferta de 16.3 EUR (original: 19.99 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [Lavazza Café en Grano  Qualità Oro Perfect Symphony  Café Espresso 10
 
 ℹ️:
 
+- ASPECTO: “Crema” dorada y un color cálido, AROMA: Notas de frutas y flores, SABOR: Intenso
 - CALIDAD LAVAZZA: Una combinación única de seis variedades de granos de arábica de los mejores de Centroamérica y Sudamérica, elaborada por expertos y perfectamente mezclada
 - La sinfonía perfecta para un sabor excepcional, desde 1956. Un blend histórico de Lavazza, para aquellos a los que les gusta disfrutar de un buen café todos los días
-- ASPECTO: “Crema” dorada y un color cálido, AROMA: Notas de frutas y flores, SABOR: Intenso
 - Paquete de 1 Kg. Para máquinas de café automáticas y molinillos de café
 - MEZCLA: 100 % Arábica - Tueste: Medio, Intensidad: 5 Delicado
 
