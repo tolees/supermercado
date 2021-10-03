@@ -31,7 +31,7 @@ Tienes [Oral-B PRO 600 CrossAction - Cepillo de dientes eléctrico recargable  c
 - Satisfacción garantizada o te devolvemos tu dinero: Pruébalo durante 60 días sin compromiso; Si no quedas 100 % satisfecho, te devolvemos tu dinero; ás información en el embalaje
 - La acción de limpieza 3D clínicamente probada oscila, rota y emite pulsaciones para eliminar hasta un 100 % más de placa que un cepillo de dientes manual normal
 - Elimina hasta un 100 % más de placa que un cepillo manual normal
-- El pack incluye: 1 mango de cepillo de dientes eléctrico recargable, 1 cabezal de recambio CrossAction y 1 cargador
 - Cepillo de dientes eléctrico recargable con 1 modo: Limpieza Diaria
+- El pack incluye: 1 mango de cepillo de dientes eléctrico recargable, 1 cabezal de recambio CrossAction y 1 cargador
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00KBWBPRY/?tag=tolees-21)

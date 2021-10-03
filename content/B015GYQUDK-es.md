@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en L Oreal Paris Make-up Designer - L Oréal'
-date: 2021-09-29 10:23:40
+date: 2021-10-03 11:12:49
 image: 'https://m.media-amazon.com/images/I/31DqWqEA+LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LOreal Paris Make-up Designer'
 buyurl: 'https://www.amazon.es/dp/B015GYQUDK/?tag=tolees-21'
 descuento: '25.00'
-average: '10.5096629213484'
+average: '10.5259340659342'
 ---
 
 Tienes [L Oreal Paris Make-up Designer - L Oréal Paris Accord Perfect Maquillaje Fluido  Tono Beige Dore 3D - 30 ml](https://www.amazon.es/dp/B015GYQUDK/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 11.25 EUR (original: 15.0 EUR) en el siguiente enlace!

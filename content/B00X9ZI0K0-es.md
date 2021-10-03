@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Pompadour Té de Tila  25 Bolsitas'
-date: 2021-09-29 10:38:00
+date: 2021-10-03 11:13:04
 image: 'https://m.media-amazon.com/images/I/41mcGmC06kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [Pompadour Té de Tila  25 Bolsitas](https://www.amazon.es/dp/B00X9ZI0K0/
 ℹ️:
 
 - Desde 1913
-- Conservar en un lugar fresco, seco y protegido del sol
 - Vegetariano
+- Conservar en un lugar fresco, seco y protegido del sol
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00X9ZI0K0/?tag=tolees-21)
