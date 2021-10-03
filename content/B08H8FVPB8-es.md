@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heinz Salsa Queso Azul envase 875ml con un 0.00 % de descuento'
-date: 2021-09-29 10:32:37
+date: 2021-10-03 12:34:23
 image: 'https://m.media-amazon.com/images/I/41T8F+CtECL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ En este momento está [Heinz Salsa Queso Azul envase 875ml](https://www.amazon.e
 
 🔎:
 
+- Apto para vegetarianos.
+- Ingredientes:Agua, aceite vegetal, azúcar, queso Roquefort D.O. 3,5%, yema de huevo, sal, vinagre de alcohol, corrector de acidez (E270), semilla de mostaza, almidón modificado de maíz, estabilizador (E415), conservador (E202), aroma, planta aromática, antioxidantes (E385, E306).
+- Sin gluten.
+- Alérgenos: Huevo, Leche y Mostaza
+- Una vez abierto conservar en frigorífico.
 - Salsa de Queso Azul dedicada a los amante del queso.
 - Ideal para ensaldas, carnes y dippear con vegetales.
-- Alérgenos: Huevo, Leche y Mostaza
-- Apto para vegetarianos.
-- Sin gluten.
-- Ingredientes:Agua, aceite vegetal, azúcar, queso Roquefort D.O. 3,5%, yema de huevo, sal, vinagre de alcohol, corrector de acidez (E270), semilla de mostaza, almidón modificado de maíz, estabilizador (E415), conservador (E202), aroma, planta aromática, antioxidantes (E385, E306).
-- Una vez abierto conservar en frigorífico.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08H8FVPB8/?tag=tolees-21)
