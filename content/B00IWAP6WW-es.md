@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dove  Sensitive Skin micellar Jabón  2 U al 32.73 % de descuento'
-date: 2021-10-02 13:11:31
+date: 2021-10-04 06:33:43
 image: 'https://m.media-amazon.com/images/I/41dvEPm6zpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Está [Dove  Sensitive Skin micellar Jabón  2 Unidades](https://www.amazon.es/d
 ℹ️:
 
 - Género - Unisex
-- Marca - Dove
 - Tipo de producto - Lote 2 piezas jabón crema
+- Marca - Dove
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00IWAP6WW/?tag=tolees-21)
