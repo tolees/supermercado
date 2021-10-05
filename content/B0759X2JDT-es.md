@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soivre Cosmetics - Jabón Antidurezas con al 43.49 % de descuento'
-date: 2021-09-25 09:20:53
+date: 2021-10-05 15:38:36
 image: 'https://m.media-amazon.com/images/I/41x4pelgz+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

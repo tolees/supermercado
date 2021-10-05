@@ -28,10 +28,10 @@ Tienes [RIVES Pink ginebra botella 70 cl](https://www.amazon.es/dp/B00XABGFKK/?t
 
 ℹ️:
 
-- Mezclador optimó: Indian Tonic Water, Mediterranean Tonic Water
-- Contenido de alcohol 37.5 %
-- Botella de 70 cl
-- Nariz: fresas frescas
 - Boca: fresa dulce fresca con enebro subyacente
+- Nariz: fresas frescas
+- Mezclador optimó: Indian Tonic Water, Mediterranean Tonic Water
+- Botella de 70 cl
+- Contenido de alcohol 37.5 %
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XABGFKK/?tag=tolees-21)

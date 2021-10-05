@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepsi MAX 1.75L - Refresco de Cola con Z al 3.10 % de descuento'
-date: 2021-09-16 10:21:55
+date: 2021-10-05 16:03:35
 image: 'https://m.media-amazon.com/images/I/41TuFJCQO7S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Pepsi MAX 1.75L - Refresco de Cola con Zero Azúcar - Bipack](https://www
 
 ℹ️:
 
-- Evitar el contacto directo con el suelo.
 - No congelar
 - Proteger de la luz solar y de olores agresivos.
+- Evitar el contacto directo con el suelo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ITU3VC6/?tag=tolees-21)
