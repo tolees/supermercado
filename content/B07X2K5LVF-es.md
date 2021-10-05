@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en Heinz Salsa Curry Mango envase 875ml'
-date: 2021-09-29 10:43:49
+date: 2021-10-05 12:17:01
 image: 'https://m.media-amazon.com/images/I/41UNDuRCkpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [Heinz Salsa Curry Mango envase 875ml](https://www.amazon.es/dp/B07X2K5LV
 
 ℹ️:
 
-- Ideal para platos con pollo, cerdo y verduras.
-- Realza el sabor de tus platos con un toque dulce y ligeramente picante inspirado en la cocina india.
-- Ingredientes: Aceite de girasol, agua, vinagre de alcohol, azúcar, suero de leche en polvo, mango, cebola,albaricoque, curry (contiene apio y mostaza), sal, almidón modificado, especia,acidulante (ácido cítrico),espesante (goma xantana), colorante (betacaroteno).
-- Alérgenos: Apio, Mostaza y Leche y sus derivados.
 - Una vez abierto conservar en frigorífico.
 - Salsa afrutada con mango y sazonada con el sabor del curry.
+- Ideal para platos con pollo, cerdo y verduras.
+- Ingredientes: Aceite de girasol, agua, vinagre de alcohol, azúcar, suero de leche en polvo, mango, cebola,albaricoque, curry (contiene apio y mostaza), sal, almidón modificado, especia,acidulante (ácido cítrico),espesante (goma xantana), colorante (betacaroteno).
+- Alérgenos: Apio, Mostaza y Leche y sus derivados.
+- Realza el sabor de tus platos con un toque dulce y ligeramente picante inspirado en la cocina india.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07X2K5LVF/?tag=tolees-21)
