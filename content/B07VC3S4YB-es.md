@@ -28,13 +28,13 @@ Tienes [Heinz Salsa Spicy Paprika & Chilli Mayo envase 875ml](https://www.amazo
 
 🔎:
 
-- Alérgenos: Huevo
-- Una vez abierto conservar en frigorífico
-- Aporta un toque picante y de gran sabor a cualquier plato
-- Sin colorantes ni saborizantes artificiales
-- Aceite de colza, agua, vinagre de alcohol, azúcar, cebolla deshidratada, puré de tomate, yema de huevo*, sal, cebolla en polvo, harina de maíz modificada, pimentón en polvo, chili, conservante (sorbato potásico), acido cítrico, antioxidante (Calcium-Disodium- EDTA), espesantes (goma chantana, goma guar), extracto de chilli. *de gallinas camperas
-- Apto para vegetarianos
 - Adecuada con pollo, patatas fritas y burritos
 - Cremosa Salsa de Mayonesa con Pimenton y Chili
+- Apto para vegetarianos
+- Aporta un toque picante y de gran sabor a cualquier plato
+- Una vez abierto conservar en frigorífico
+- Sin colorantes ni saborizantes artificiales
+- Aceite de colza, agua, vinagre de alcohol, azúcar, cebolla deshidratada, puré de tomate, yema de huevo*, sal, cebolla en polvo, harina de maíz modificada, pimentón en polvo, chili, conservante (sorbato potásico), acido cítrico, antioxidante (Calcium-Disodium- EDTA), espesantes (goma chantana, goma guar), extracto de chilli. *de gallinas camperas
+- Alérgenos: Huevo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VC3S4YB/?tag=tolees-21)

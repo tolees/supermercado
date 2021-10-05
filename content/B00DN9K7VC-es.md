@@ -30,8 +30,8 @@ Ahora mismo tienes [Sotya Batido Saciante Chocolate - 700 gr](https://www.amazon
 
 - Ayudan a regular el sistema nervioso eliminando la ansiedad
 - Aporte adicional de nutrientes en estados carenciales
-- De la marca Sotya
 - Alimento complementario recomendado en dietas de adelgazamiento
+- De la marca Sotya
 - Diurético y depurativo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00DN9K7VC/?tag=tolees-21)

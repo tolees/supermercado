@@ -28,10 +28,10 @@ Está [Hero Baby Leche 3 -Para niños a partir de 12 meses - 800 gr](https://www
 
 ℹ️:
 
-- Su fórmula contiene Lípidos Lácteos y DHA, naturalmente presentes en la leche materna; además no incluye aceite de palma
-- Desarrollada por expertos del Instituto Hero de Nutrición Infantil
-- Leche de crecimiento especialmente indicada para bebés a partir de los 12 meses
 - DHA es un ácido graso polinsaturado que contribuye al correcto desarrollo visual de los niños; la leche materna contiene DHA esencial para el desarrollo de tu bebé
 - Los lípidos lácteos son uno de los ingredientes más importantes presentes en la leche materna, que desempeñan un papel crucial en el desarrollo del cerebro y el sistema inmunológico de los bebés
+- Desarrollada por expertos del Instituto Hero de Nutrición Infantil
+- Leche de crecimiento especialmente indicada para bebés a partir de los 12 meses
+- Su fórmula contiene Lípidos Lácteos y DHA, naturalmente presentes en la leche materna; además no incluye aceite de palma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XDQ7R1I/?tag=tolees-21)

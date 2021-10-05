@@ -28,12 +28,12 @@ En este momento está [Heinz Salsa César envase 875ml](https://www.amazon.es/dp
 
 🔎:
 
+- Una vez abierto conservar en frigorífico
 - Adecuada para ensaladas, pescado y verduras
-- Alérgenos: Huevo, Leche, Mostaza, Cebada y Pescado
 - Cremosa Salsa César con queso parmesano
-- Eleva cualqueir ensalada con la deliciosa Salsa César que aportará cremosidad y sabor gracias a su receta con queso parmesano, anchoas y ajo
 - Aceite de soja, agua, azúcar, vinagre de vino, queso Parmesano (leche), yema de huevo, sal, vinagre de alcohol, aromas, acidulante (ácido láctico), semillas de mostaza, ajo en polvo, espesante (goma xantanta), conservador (sorbato potásico), colorante (caramelo natural), especias, vinagre de malta (cebada), melaza, cebolla en polvo, anchoa (pescado), tamarindo, antioxidantes (EDTA de calcio y disodio, extracto rico en tocoferoles)
 - Apto para vegetarianos
-- Una vez abierto conservar en frigorífico
+- Eleva cualqueir ensalada con la deliciosa Salsa César que aportará cremosidad y sabor gracias a su receta con queso parmesano, anchoas y ajo
+- Alérgenos: Huevo, Leche, Mostaza, Cebada y Pescado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QCTSD3W/?tag=tolees-21)

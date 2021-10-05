@@ -28,8 +28,8 @@ Tienes [Pompadour Té de Tila  25 Bolsitas](https://www.amazon.es/dp/B00X9ZI0K0/
 
 ℹ️:
 
-- Desde 1913
-- Conservar en un lugar fresco, seco y protegido del sol
 - Vegetariano
+- Conservar en un lugar fresco, seco y protegido del sol
+- Desde 1913
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00X9ZI0K0/?tag=tolees-21)

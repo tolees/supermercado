@@ -28,11 +28,11 @@ Tienes [Heinz Salsa Curry Mango envase 875ml](https://www.amazon.es/dp/B07X2K5LV
 
 ℹ️:
 
-- Una vez abierto conservar en frigorífico.
-- Salsa afrutada con mango y sazonada con el sabor del curry.
-- Ideal para platos con pollo, cerdo y verduras.
-- Ingredientes: Aceite de girasol, agua, vinagre de alcohol, azúcar, suero de leche en polvo, mango, cebola,albaricoque, curry (contiene apio y mostaza), sal, almidón modificado, especia,acidulante (ácido cítrico),espesante (goma xantana), colorante (betacaroteno).
 - Alérgenos: Apio, Mostaza y Leche y sus derivados.
+- Ideal para platos con pollo, cerdo y verduras.
+- Salsa afrutada con mango y sazonada con el sabor del curry.
+- Ingredientes: Aceite de girasol, agua, vinagre de alcohol, azúcar, suero de leche en polvo, mango, cebola,albaricoque, curry (contiene apio y mostaza), sal, almidón modificado, especia,acidulante (ácido cítrico),espesante (goma xantana), colorante (betacaroteno).
 - Realza el sabor de tus platos con un toque dulce y ligeramente picante inspirado en la cocina india.
+- Una vez abierto conservar en frigorífico.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07X2K5LVF/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Damm Malquerida - Cerveza Roja Fresca  Caja de 24 Botellas 25cl Cerveza 
 
 🔎:
 
-- Cerveza Roja Fresca.
-- Elaborada con flor de Jamaica, malta, trigo, maíz y naranja.
 - Alc. 5% vol.
-- Creada por los Maestros Cerveceros de Damm, Ferran Adrià, Albert Adrià y su equipo.
+- Cerveza Roja Fresca.
 - Maridaje ideal para la gastronomía latina, caracterizada por platos extremos, picantes, potentes y ácidos.
+- Elaborada con flor de Jamaica, malta, trigo, maíz y naranja.
+- Creada por los Maestros Cerveceros de Damm, Ferran Adrià, Albert Adrià y su equipo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L9VJGLG/?tag=tolees-21)

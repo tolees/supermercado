@@ -28,10 +28,10 @@ Tienes [NaturGreen - Sirope Agave Crudo Bio  500 ml](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Almacenar a en lugar fresco y seco (Tª< 25º C).
 - Modo de empleo: Producto apto para ser consumido directamente o para ser utilizado como ingrediente en preparaciones culinarias.
+- Ingredientes: Sirope de agave. Ingredientes procedentes de la Agricultura Ecológica.
 - El sirope ecológico de agave es un endulzante natural perfecto para sustituir al azúcar refinado. Procedede las hojas de agave, una planta parecida al aloe vera, tiene un gran poder endulzante.
 - Producto apto para ser consumido directamente o para ser utilizado como ingrediente en preparaciones culinarias. ¡No te quedes sin probarlo!
-- Ingredientes: Sirope de agave. Ingredientes procedentes de la Agricultura Ecológica.
+- Almacenar a en lugar fresco y seco (Tª< 25º C).
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M9FLB80/?tag=tolees-21)

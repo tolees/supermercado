@@ -28,13 +28,13 @@ Ahora mismo tienes [Heinz Ketchup  1000 G](https://www.amazon.es/dp/B00F2MOGGU/?
 
 🔎:
 
-- Ideal para hamburguesas, patatas fritas y sándwiches.
 - Alérgenos: Apio.
-- Apto para veganos y vegetarianos.
-- Sin colorantes, saborizantes ni conservantes artificiales.
 - El Kétchup #1 en el Mundo.
+- Ideal para hamburguesas, patatas fritas y sándwiches.
 - Una vez abierto conservar en frigorífico.
+- Apto para veganos y vegetarianos.
 - Sin gluten.
+- Sin colorantes, saborizantes ni conservantes artificiales.
 - Ingredientes: Tomates, vinagre de alcohol, azúcar, sal, extracto de especias y hierbas aromáticas, especia.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00F2MOGGU/?tag=tolees-21)

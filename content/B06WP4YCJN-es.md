@@ -28,12 +28,12 @@ Tienes [1 caja de 200 unidades Heinz Mostaza Suave bolsita 10ml](https://www.ama
 
 🔎:
 
-- Ideal para carnes y pesacados.
-- Sin colorantes, saborizantes ni conservantes artificiales.
-- Caja 200 bolsitas unitarias de 10ml.
+- Apto para vegetarianos.
 - Ingredientes: agua, semillas de mostaza, vinagre de alcohol, vinagre de malta (de la cebada), azúcar, sal, miel, especias, aromatizante, astabilizador (Goma Xantana), axtracto de pimentón.
 - Mostaza americana con sabor suave.
+- Ideal para carnes y pesacados.
+- Caja 200 bolsitas unitarias de 10ml.
 - Alérgenos: Gluten y Mostaza.
-- Apto para vegetarianos.
+- Sin colorantes, saborizantes ni conservantes artificiales.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06WP4YCJN/?tag=tolees-21)
