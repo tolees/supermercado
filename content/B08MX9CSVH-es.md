@@ -29,7 +29,7 @@ Tienes [Doritos Tex-Mex 140g - Sabor a Queso - Pack de 9](https://www.amazon.es/
 🔎:
 
 - Los Doritos sabor TEX MEX son un snack adecuado para picotear o dipear con forma triangular para acompañar con la salsa que prefieras
-- Esta caja de Doritos es la mejor forma de tener siempre un aperitivo listo para disfrutar allá donde quieras y con quien quieras
 - Atrévete con el crujido de Doritos y su intenso sabor a queso
+- Esta caja de Doritos es la mejor forma de tener siempre un aperitivo listo para disfrutar allá donde quieras y con quien quieras
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MX9CSVH/?tag=tolees-21)

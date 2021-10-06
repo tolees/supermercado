@@ -28,14 +28,14 @@ Tienes [HEINZ Ketchup Caja 200 sobres 10 ml](https://www.amazon.es/dp/B08ZPMLYV4
 
 🔎:
 
-- Sin gluten.
-- Alérgenos: Apio.
 - Ideal para hamburguesas, patatas fritas y sándwiches.
-- El Kétchup no. 1 en el Mundo.
 - Ingredientes: Ingredientes: Tomates (148 g por 100 g ketchup) vinagre de alcohol, azúcar, sal, extracto de especias y hierbas aromáticas (contiene apio) especia. Advertencia de seguridad: Para todas las edades; Instrucciones para su uso adecuado: Preparado para su consumo
-- Sin ingredientes que contengan gluten.
-- Caja 200 bolsitas unitarias de 10ml.
 - Apto para veganos y vegetarianos.
+- El Kétchup no. 1 en el Mundo.
+- Sin ingredientes que contengan gluten.
+- Alérgenos: Apio.
+- Caja 200 bolsitas unitarias de 10ml.
 - Ingredientes: Tomates, vinagre de alcohol, azúcar, sal, extracto de especias y hierbas aromáticas, especia.
+- Sin gluten.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08ZPMLYV4/?tag=tolees-21)

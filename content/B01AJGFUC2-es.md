@@ -28,8 +28,8 @@ Ahora mismo tienes [Desconocido - 1866 Brandy Solera Gran Reserva  70cl](https:/
 
 🔎:
 
-- Intensidad aromática, profundo con ligeras notas de vainilla, cacao, y frutos secos
 - Este brandy de limitada elaboración es fruto de nuestra larga experiencia y tradición de más de 100 años
+- Intensidad aromática, profundo con ligeras notas de vainilla, cacao, y frutos secos
 - Su envejecimiento en botas de roble americano hacen que 1866 haya conseguido toda su armonia y suvidad que lo distingue de los demás brandis
 - Color ámbar dorado con ribetes yodados; gran lujo
 

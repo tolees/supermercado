@@ -28,11 +28,11 @@ En este momento está [Fanta Limón Zero Azúcares - Refresco de limón  zero az
 
 🔎:
 
-- Envase 100% reciclable (contenedor amarillo)
-- Refresco sin azúcares añadidos y sin calorías
 - Toma tu refresco solo o mezclado, bien frío con mucho hielo y una rodaja de limón
+- Envase 100% reciclable (contenedor amarillo)
 - Fanta Limón Zero botella de 2 litros para que disfrute toda la familia
-- Botella elaborada con 25% de material reciclado
 - Deliciosa bebida refrescante con gas sabor Limón
+- Botella elaborada con 25% de material reciclado
+- Refresco sin azúcares añadidos y sin calorías
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003TT1D3W/?tag=tolees-21)

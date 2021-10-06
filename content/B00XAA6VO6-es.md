@@ -28,9 +28,9 @@ Está [Mic&Friends - Paté Con Pollo - Alimento Completo para Perros - 300 g](ht
 
 ℹ️:
 
-- Puede contener Gluten o presencia de cereales que contienen gluten
-- Se debe conservar en un lugar fresco y seco
-- Una vez abierto conservar en el frigorífico y consumir en dos días
 - Contiene Vitamina E
+- Una vez abierto conservar en el frigorífico y consumir en dos días
+- Se debe conservar en un lugar fresco y seco
+- Puede contener Gluten o presencia de cereales que contienen gluten
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XAA6VO6/?tag=tolees-21)

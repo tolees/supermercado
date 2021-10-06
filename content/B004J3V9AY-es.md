@@ -29,14 +29,14 @@ Tienes [Staropramen Premium Cerveza Lager - 24 botellas de 0.33 ml - Total: 7920
 🔎:
 
 - Volumen paquete: 7925.0 milliliters
-- Volumen: 0.33 liters
-- Unidades: 24
-- Procedencia: czech republic
-- Tipo de alcohol: malt beers
-- Alc. 5.0% vol.
-- Como servir: servir entre 3 y 6
-- Su ambición siempre ha sido atraer a los amantes de la cerveza con su sabor único, apetitoso y redondo.
-- Contenido de alcohol (alc/vol): 5.0 percent_by_volume
 - Staropramen es una cerveza ligera de praga, producida con amor y pasión durante casi 150 años.
+- Tipo de alcohol: malt beers
+- Volumen: 0.33 liters
+- Procedencia: czech republic
+- Unidades: 24
+- Contenido de alcohol (alc/vol): 5.0 percent_by_volume
+- Su ambición siempre ha sido atraer a los amantes de la cerveza con su sabor único, apetitoso y redondo.
+- Como servir: servir entre 3 y 6
+- Alc. 5.0% vol.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004J3V9AY/?tag=tolees-21)
