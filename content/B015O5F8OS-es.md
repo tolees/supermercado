@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heinz Judías cocidas en Salsa de Tomate  con un 0.00 % de descuento'
-date: 2021-10-05 15:28:17
+date: 2021-10-06 17:39:34
 image: 'https://m.media-amazon.com/images/I/41syfIoSxPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HEINZ'
 buyurl: 'https://www.amazon.es/dp/B015O5F8OS/?tag=tolees-21'
 descuento: '0.00'
-average: '2.282'
+average: '2.27666666666667'
 ---
 
 En este momento está [Heinz Judías cocidas en Salsa de Tomate lata 415g](https://www.amazon.es/dp/B015O5F8OS/?tag=tolees-21) a 2.25 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
@@ -28,13 +28,13 @@ En este momento está [Heinz Judías cocidas en Salsa de Tomate lata 415g](https
 
 🔎:
 
+- Alérgenos: Legumbres, Maíz, Cebolla
 - Alubias (51%), tomate (34%), agua, azúcar, almidón modificado de maíz, sal, vinagre de alcohol, especias y plantas aromáticas
-- Naturalmente alto en fibra y proteína
+- Sin colorantes, saborizantes ni conservantes artificiales
 - Judías en deliciosa salsa de tomate
+- Apto para veganos y vegetarianos
 - Sin Gluten
 - Una vez abierto conservar en frigorífico en un envase cerrado y consumir en un plazo de 2 días
-- Sin colorantes, saborizantes ni conservantes artificiales
-- Alérgenos: Legumbres, Maíz, Cebolla
-- Apto para veganos y vegetarianos
+- Naturalmente alto en fibra y proteína
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B015O5F8OS/?tag=tolees-21)
