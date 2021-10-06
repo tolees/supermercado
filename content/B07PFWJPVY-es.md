@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'La Sagra Pack Cerveza Artesanal 6 Estilo al 15.22 % de descuento'
-date: 2021-09-12 20:07:01
+title: 'La Sagra Pack Cerveza Artesanal 6 Estilo al 20.10 % de descuento'
+date: 2021-10-06 20:48:05
 image: 'https://m.media-amazon.com/images/I/51HKrN5IT7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,24 +12,24 @@ tags: [ 'Alimentación y bebidas','Cervezas','Cervezas, vinos y licores','cervez
 actualPrice: 15.54 EUR
 currency: EUR
 price: 15.54
-comparePrice: 18.33 EUR
+comparePrice: 19.45 EUR
 prodname: 'La Sagra Pack Cerveza Artesanal 6 Estilos  Botella  12 x 330ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'La Sagra'
 buyurl: 'https://www.amazon.es/dp/B07PFWJPVY/?tag=tolees-21'
-descuento: '15.22'
-average: '17.2368965517242'
+descuento: '20.10'
+average: '17.2052747252747'
 ---
 
-Ahora mismo tienes [La Sagra Pack Cerveza Artesanal 6 Estilos  Botella  12 x 330ml](https://www.amazon.es/dp/B07PFWJPVY/?tag=tolees-21) a 15.54 EUR (original: 18.33 EUR) (15.22 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [La Sagra Pack Cerveza Artesanal 6 Estilos  Botella  12 x 330ml](https://www.amazon.es/dp/B07PFWJPVY/?tag=tolees-21) a 15.54 EUR (original: 19.45 EUR) (20.10 %  de descuento) en el siguiente enlace!
 
 [![La Sagra Pack Cerveza Artesanal 6 Estilo](https://m.media-amazon.com/images/I/51HKrN5IT7L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07PFWJPVY/?tag=tolees-21)
 
 🔎:
 
+- 2 botellas de 6 variedades de la Sagra
 - según disponibilidad, puede haber algún cambio de estilo cervecero por otro de igual o mayor precio, garantizando siempre 6 estilos diferentes
 - Fabricada en España
-- 2 botellas de 6 variedades de la Sagra
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PFWJPVY/?tag=tolees-21)

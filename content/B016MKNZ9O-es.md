@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scottex Original Papel Higiénico - 16 Ro al 23.31 % de rebaja'
-date: 2021-10-05 17:00:04
+date: 2021-10-06 19:50:32
 image: 'https://m.media-amazon.com/images/I/41+yA9P3vaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Scottex'
 buyurl: 'https://www.amazon.es/dp/B016MKNZ9O/?tag=tolees-21'
 descuento: '23.31'
-average: '4.49476190476192'
+average: '4.47593750000001'
 ---
 
 Tienes [Scottex Original Papel Higiénico - 16 Rollos](https://www.amazon.es/dp/B016MKNZ9O/?tag=tolees-21) con precio final de  3.29 EUR (original: 4.29 EUR) (23.31 %  de rebaja) aqui!
