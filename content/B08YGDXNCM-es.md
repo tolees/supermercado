@@ -28,11 +28,11 @@ En este momento está [Pantene Pro-V Miracles Crecimiento con Fuerza Champú Con
 
 🔎:
 
+- Testado por el Swiss Vitamin Institute
+- Champú que ayuda a reducir la caída del pelo debida a la rotura
+- Sin aceites minerales y sin colorantes
+- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
 - Enriquecido con bambú y biotina
 - Champú para la caída del pelo
-- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
-- Testado por el Swiss Vitamin Institute
-- Sin aceites minerales y sin colorantes
-- Champú que ayuda a reducir la caída del pelo debida a la rotura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08YGDXNCM/?tag=tolees-21)

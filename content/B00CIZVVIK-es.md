@@ -28,8 +28,8 @@ Tienes [Tecnhogar 00777 Filtro café Nylon  Papel  Gris](https://www.amazon.es/d
 
 ℹ️:
 
-- Fabricado en papel
 - 1 unidad por envase
 - Filtro café permanente nylon nº 4cafetera eléctrica
+- Fabricado en papel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CIZVVIK/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Pantene Pro-V Miracles Adiós Frizz Champú | Con Biotina  Extracto De Ca
 
 ℹ️:
 
-- Champú Adiós Frizz con biotina, extracto de cactus y aceite de argán
 - Ayuda a prevenir el encrespamiento antes de que aparezca. Para equilibrar la hidratación
-- Para un pelo suave y disciplinado
-- Champú Pantene Pro-V Miracles con un complejo resistente a la humedad
 - Testado por el Swiss Vitamin Institute
+- Champú Pantene Pro-V Miracles con un complejo resistente a la humedad
+- Champú Adiós Frizz con biotina, extracto de cactus y aceite de argán
+- Para un pelo suave y disciplinado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08YGC9T11/?tag=tolees-21)
