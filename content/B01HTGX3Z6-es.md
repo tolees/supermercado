@@ -28,10 +28,10 @@ Está [Cafés Baqué - 10 Capsulas Compatibles Dolce Gusto. Con Leche](https://w
 
 ℹ️:
 
-- Contiene 10 capsulas
 - Nescafe dolce gusto capsulas compatibles. Capsulas de café con leche
-- Leche en polvo con café soluble para tener un rico café con leche al instante
+- Contiene 10 capsulas
 - Alérgenos - Leche y derivados. Sin Gluten. Puede contener trazas de soja
 - Café cremoso y rico sabor con el que deleitarse en cualquier momento del día
+- Leche en polvo con café soluble para tener un rico café con leche al instante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HTGX3Z6/?tag=tolees-21)

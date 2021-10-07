@@ -28,12 +28,12 @@ Ahora mismo tienes [Bull´s Eye Salsa Barbacoa Original 355g](https://www.amazon
 
 🔎:
 
+- Alérgenos: Mostaza
+- Deliciosa salsa barbacoa con un toque dulce y ahumado
 - Una vez abierto conservar en frigorífico
 - Apto para vegetarianos
-- Alérgenos: Mostaza
 - Adecuada para untar y marinar carnes
-- Aporta el verdadero sabor de la barbacoa a cualquiera de tus platos
-- Deliciosa salsa barbacoa con un toque dulce y ahumado
 - puré de tomate, azúcar, vinagre de alcohol, melazas, cebolla, almidón modificado, sal, semillas de mostaza, maltodextrina, humo, aroma de humo, especias, ajo
+- Aporta el verdadero sabor de la barbacoa a cualquiera de tus platos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07V6BG3B2/?tag=tolees-21)

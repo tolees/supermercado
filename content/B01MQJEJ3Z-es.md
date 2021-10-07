@@ -28,9 +28,9 @@ En este momento está [ORLANDO Tomate Frito Brik 2.1 kg  Pack de 3 ](https://www
 
 🔎:
 
-- Más cómodo, más eficiente, más limpio
 - Producto sometido a estrictos controles de calidad
 - Ingredientes naturales de primera calidad
+- Más cómodo, más eficiente, más limpio
 - Sin gluten
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MQJEJ3Z/?tag=tolees-21)
