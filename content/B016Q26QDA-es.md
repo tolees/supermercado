@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MULTI BRAND - Toblerone miniaturas Mix.  al 25.01 % de descuento'
-date: 2021-10-06 12:08:10
+date: 2021-10-07 18:20:19
 image: 'https://m.media-amazon.com/images/I/51ch9NqJsGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
