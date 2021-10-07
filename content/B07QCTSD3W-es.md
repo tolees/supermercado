@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heinz Salsa César envase 875ml con un 0.00 % de descuento'
-date: 2021-10-06 14:46:30
+date: 2021-10-07 16:30:31
 image: 'https://m.media-amazon.com/images/I/41ZUJ0jn+QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ En este momento está [Heinz Salsa César envase 875ml](https://www.amazon.es/dp
 
 🔎:
 
+- Una vez abierto conservar en frigorífico
+- Apto para vegetarianos
+- Aceite de soja, agua, azúcar, vinagre de vino, queso Parmesano (leche), yema de huevo, sal, vinagre de alcohol, aromas, acidulante (ácido láctico), semillas de mostaza, ajo en polvo, espesante (goma xantanta), conservador (sorbato potásico), colorante (caramelo natural), especias, vinagre de malta (cebada), melaza, cebolla en polvo, anchoa (pescado), tamarindo, antioxidantes (EDTA de calcio y disodio, extracto rico en tocoferoles)
 - Adecuada para ensaladas, pescado y verduras
 - Eleva cualqueir ensalada con la deliciosa Salsa César que aportará cremosidad y sabor gracias a su receta con queso parmesano, anchoas y ajo
 - Cremosa Salsa César con queso parmesano
 - Alérgenos: Huevo, Leche, Mostaza, Cebada y Pescado
-- Una vez abierto conservar en frigorífico
-- Aceite de soja, agua, azúcar, vinagre de vino, queso Parmesano (leche), yema de huevo, sal, vinagre de alcohol, aromas, acidulante (ácido láctico), semillas de mostaza, ajo en polvo, espesante (goma xantanta), conservador (sorbato potásico), colorante (caramelo natural), especias, vinagre de malta (cebada), melaza, cebolla en polvo, anchoa (pescado), tamarindo, antioxidantes (EDTA de calcio y disodio, extracto rico en tocoferoles)
-- Apto para vegetarianos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QCTSD3W/?tag=tolees-21)

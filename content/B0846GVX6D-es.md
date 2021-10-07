@@ -28,10 +28,10 @@ Está [Oral-B Genius 8000 Oral Center - Cepillo de dientes e hidropulsor Aquacar
 
 ℹ️:
 
-- Cabezal redondo: rodea y envuelve cada diente para una limpieza superior respecto a un cepillo manual
-- Temporizador: indica 2 minutos de cepillado, como lo recomiendan tu dentista
-- Irrigador que ayuda a mejorar la salud de las encías enriqueciendo el agua de microburbujas de aire purificado
 - Sistema de limpieza de Oral-B, la marca de cepillos más utilizada por dentistas en el mundo
 - Contenido: 1 irrigador Acqua Care 6, 1 cepillo eléctrico
+- Temporizador: indica 2 minutos de cepillado, como lo recomiendan tu dentista
+- Cabezal redondo: rodea y envuelve cada diente para una limpieza superior respecto a un cepillo manual
+- Irrigador que ayuda a mejorar la salud de las encías enriqueciendo el agua de microburbujas de aire purificado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0846GVX6D/?tag=tolees-21)

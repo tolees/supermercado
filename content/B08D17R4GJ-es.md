@@ -28,8 +28,8 @@ Tienes [Lagarto Suavizante Concentrado Mimos Al Jabon 60 Lavados Hipoalergenico 
 
 🔎:
 
-- Diseñado para respetar pieles sensibles
-- Perfume sin alérgenos
 - Testado dermatológicamente
+- Perfume sin alérgenos
+- Diseñado para respetar pieles sensibles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D17R4GJ/?tag=tolees-21)

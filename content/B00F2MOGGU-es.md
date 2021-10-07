@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heinz Ketchup  1000 G al 0.00 % de descuento'
-date: 2021-10-06 14:40:15
+date: 2021-10-07 16:22:13
 image: 'https://m.media-amazon.com/images/I/4196ltXLLdS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Ahora mismo tienes [Heinz Ketchup  1000 G](https://www.amazon.es/dp/B00F2MOGGU/?
 
 🔎:
 
-- Alérgenos: Apio.
-- Una vez abierto conservar en frigorífico.
-- Sin colorantes, saborizantes ni conservantes artificiales.
-- Apto para veganos y vegetarianos.
-- Ingredientes: Tomates, vinagre de alcohol, azúcar, sal, extracto de especias y hierbas aromáticas, especia.
-- El Kétchup #1 en el Mundo.
 - Ideal para hamburguesas, patatas fritas y sándwiches.
+- Una vez abierto conservar en frigorífico.
+- Ingredientes: Tomates, vinagre de alcohol, azúcar, sal, extracto de especias y hierbas aromáticas, especia.
+- Apto para veganos y vegetarianos.
+- Alérgenos: Apio.
 - Sin gluten.
+- El Kétchup #1 en el Mundo.
+- Sin colorantes, saborizantes ni conservantes artificiales.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00F2MOGGU/?tag=tolees-21)

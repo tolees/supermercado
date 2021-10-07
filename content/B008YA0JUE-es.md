@@ -28,9 +28,9 @@ Tienes [HEINZ Salsa Yogur  caja de 30 monodosis  50 ml](https://www.amazon.es/dp
 
 ℹ️:
 
+- Formato de 1 solo uso
 - Contiene alérgenos: leche y huevo
 - Perfecto para ensaladas
 - Sin gluten.
-- Formato de 1 solo uso
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B008YA0JUE/?tag=tolees-21)
