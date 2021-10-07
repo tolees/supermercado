@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Maoam Kracher Caramelos - 160 gr al 0.00 % de descuento'
-date: 2021-10-06 12:32:45
+date: 2021-10-07 13:48:28
 image: 'https://m.media-amazon.com/images/I/51tVicc-0eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ Está [L OREAL - L Oréal Paris Maquillaje Accord Parfait Sérum con Color Tono 
 
 ℹ️:
 
+- Su fórmula con 1% de Ácido Hialurónico Puro proporciona una textura ligera y cobertura modulable
+- Aplicación: Aplicar sobre la piel limpia e hidratada en todo el rostro y el cuello para un tono y acabado uniforme.
 - Contenido: 1x L’Oréal Paris Sérum con Color Accord Parfait Tono 0,5-2 Muy-Claro.
 - Descubre el nuevo Accord Parfait Sérum con Color con doble beneficio: Cuida como un sérum y unifica el tono como un maquillaje. Disponible en 6 tonos, apto para todo tipo de pieles.
 - ¿Resultados? Como Maquillaje: Acabado natural y luminoso, textura ligera y cobertura modulable. Como Sérum: Piel +8% más rellena y +18% más suavizada en tres semanas* *Autoevaluación en 103 mujeres tras 21 días
-- Aplicación: Aplicar sobre la piel limpia e hidratada en todo el rostro y el cuello para un tono y acabado uniforme.
-- Su fórmula con 1% de Ácido Hialurónico Puro proporciona una textura ligera y cobertura modulable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B097WL6QWV/?tag=tolees-21)
