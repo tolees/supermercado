@@ -28,9 +28,9 @@ En este momento está [Antiu Xixona Premium - Chocolate con Leche  125 Gramos](h
 
 🔎:
 
-- Crea un chocolate rico y refinado de sabor intenso y textura elegante
-- Deliciosa barra de chocolate con un sabor muy rico
-- Opción ideal para los amantes del chocolate
 - Ideal para regalar o para ti mismo
+- Crea un chocolate rico y refinado de sabor intenso y textura elegante
+- Opción ideal para los amantes del chocolate
+- Deliciosa barra de chocolate con un sabor muy rico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08YP24Y3M/?tag=tolees-21)
