@@ -28,10 +28,10 @@ En este momento está [Arquivet Heno prensado para roedores y pequeños mamífer
 
 🔎:
 
-- Completa la dieta y fortalece a tu pequeña mascota con heno.
 - Alimento perfecto para complementar su dieta.
+- Selección de hierbas naturales para roedores y pequeños mamíferos.
 - Masticando heno, los roedores desgastan y limpian sus dientes de forma natural.
 - Cantidad: 1 Kg.
-- Selección de hierbas naturales para roedores y pequeños mamíferos.
+- Completa la dieta y fortalece a tu pequeña mascota con heno.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01G7G8VVK/?tag=tolees-21)

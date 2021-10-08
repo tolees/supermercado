@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lagarto Lejía Normal - Super  Transparen al 0.00 % de rebaja'
-date: 2021-10-06 20:17:53
+date: 2021-10-07 23:33:39
 image: 'https://m.media-amazon.com/images/I/41jzoKPNntL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Lagarto Lejía Normal - Super  Transparente  Paquete de 3 X 5000 Mililit
 
 🔎:
 
-- Efecto blanqueador
 - Poder desinfectante
-- Desinfección general
+- Efecto blanqueador
 - Apta para el uso alimentario
+- Desinfección general
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01HD59CKI/?tag=tolees-21)

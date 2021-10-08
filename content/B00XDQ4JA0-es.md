@@ -28,9 +28,9 @@ Tienes [Heinz Salsa Ensalada Miel y Mostaza  405g](https://www.amazon.es/dp/B00X
 
 ℹ️:
 
-- Una vez abierto conservar en frigorífico
-- Apto para vegetarianos
-- Ideal para ensaladas y sándwiches, con salmón y ahumados
 - Contiene leche, mostaza y apio
+- Apto para vegetarianos
+- Una vez abierto conservar en frigorífico
+- Ideal para ensaladas y sándwiches, con salmón y ahumados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDQ4JA0/?tag=tolees-21)
