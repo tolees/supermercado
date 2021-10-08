@@ -28,10 +28,10 @@ Está [Kikkoman - Salsa de Soja con Menos Sal  Fermentación Natural  Salsa de S
 
 ℹ️:
 
-- Formato: 1L
-- Kikkoman, líder mundial de salsa de soja japonesa con más de 300 años de tradición
 - Realza el sabor de los platos de carne, pescado o verduras, así como sopas, aderezos para ensaladas y adobos, pero con menos sal
 - Ingredientes: Agua, Habas de soja, Trigo, Sal, Vinagre de alcohol, Alcohol, Azúcar
+- Kikkoman, líder mundial de salsa de soja japonesa con más de 300 años de tradición
 - Salsa de soja naturalmente fermentada con 43% menos de sal, perfecta para todos aquellos que valoran una dieta baja en sal sin querer renunciar al sabor
+- Formato: 1L
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004SGTTI6/?tag=tolees-21)

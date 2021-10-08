@@ -28,10 +28,10 @@ Tienes [Maybelline New York  SuperStay Matte Ink  Pintalabios Mate de Larga Dura
 
 🔎:
 
-- Color fijo: sella el mate con el color ink saturado
 - No reseca y no se cuartea
+- Deja tu sello con tinta permanente
+- Color fijo: sella el mate con el color ink saturado
 - Fórmula efecto tinta líquida: solo se fija en tus labios
 - Aplicador de alta precisión: en forma de flecha para condensar cantidad de producto y conseguir una cobertura total en una sola pasada y sin retoques
-- Deja tu sello con tinta permanente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F44CVFQ/?tag=tolees-21)

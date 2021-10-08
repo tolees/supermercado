@@ -28,10 +28,10 @@ En este momento está [MPM MMK-02M Molinillo café eléctrico pequeño  Semillas
 
 🔎:
 
-- El depósito de café en grano tiene una capacidad para moler hasta 50 g de café de una sola vez.
-- La función pulso te permite ajustar el grosor del molido a tus necesidades, cuando más tiempo lo mantengas pulsado, más fino quedará el grano de café
 - Eficiencia: 115 gramos / minuto
+- La función pulso te permite ajustar el grosor del molido a tus necesidades, cuando más tiempo lo mantengas pulsado, más fino quedará el grano de café
 - Su parte inferior está preparada para almacenar el cable y guardarlo más comodamente, sus pies antideslizantes proporcionan estabilidad al aparato
 - El molinillo de café automático MMK-05 tiene un cuerpo diseñado en acero inoxidable para aumentar la durabilidad y resistencia del equipo.
+- El depósito de café en grano tiene una capacidad para moler hasta 50 g de café de una sola vez.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00ZYDZ918/?tag=tolees-21)

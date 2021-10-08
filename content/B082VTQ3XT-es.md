@@ -28,9 +28,9 @@ En este momento está [Casa Gispert - Jengibre Deshidratado  500 gr](https://www
 
 🔎:
 
-- fácil de usar
-- producto de calidad
-- 500 gr
 - Frutos Secos
+- fácil de usar
+- 500 gr
+- producto de calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082VTQ3XT/?tag=tolees-21)

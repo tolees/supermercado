@@ -29,8 +29,8 @@ Ahora mismo tienes [Lactacyd Íntimo  Gel de Higiene Íntima Diario  pH Equilibr
 🔎:
 
 - Formulado con Ácido L-Láctico biológico (pH=4.7). Dermatológicamente testado
-- Indicado para la higiene íntima diaria: hipoalergénico, no contiene jabón ni sustancias alcalinas
 - Descripción detallada más abajo.
 - Pack 200ml + 2ª unidad
+- Indicado para la higiene íntima diaria: hipoalergénico, no contiene jabón ni sustancias alcalinas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00P2HSJZE/?tag=tolees-21)
