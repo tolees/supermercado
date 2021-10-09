@@ -28,10 +28,10 @@ Tienes [Tejero - Conserva de pescado | Melva de Almadraba en Aceite de Oliva - 5
 
 ℹ️:
 
-- Cada lata se elabora de forma artesanal y solo contiene melva, aceite de oliva y sal
-- Los filetes de melva de Almadraba del Príncipe Tejero son una fuente natural de Omega 3
 - Conservas de pescado natural producida en España, sin ningún tipo de conservantes ni aditivos
 - Pack de 5 latas de melva en aceite de oliva con el mejor sabor de Andalucía
+- Cada lata se elabora de forma artesanal y solo contiene melva, aceite de oliva y sal
+- Los filetes de melva de Almadraba del Príncipe Tejero son una fuente natural de Omega 3
 - En Tejero la producción continúa siendo artesanal, siendo fieles a una tradición centenaria
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07J9VPZ5F/?tag=tolees-21)

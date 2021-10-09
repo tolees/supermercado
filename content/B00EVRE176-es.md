@@ -28,10 +28,10 @@ Está [Vileda - Palo universal para fregonas  140 cm de longitud  diseño de anc
 
 ℹ️:
 
-- Palo de 140 cm de alto, permite fregar con la máxima comodidad y sin tener que doblar la espalda
-- Tratamiento rugoso y antideslizante para un mejor agarre durante el fregado
 - El anclaje universal permite adaptarse a la mayoría de cepillos y fregonas del mercado
 - Protegido con una doble capa de pintura anticorrosión para que no se oxide y dure más
 - Incorpora un lazo en la parte superior para colgar el palo
+- Palo de 140 cm de alto, permite fregar con la máxima comodidad y sin tener que doblar la espalda
+- Tratamiento rugoso y antideslizante para un mejor agarre durante el fregado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00EVRE176/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [MOUSSEL gel de ducha purificante aloe vera envase 600 ml](ht
 
 🔎:
 
-- Tipo de producto: Gel de ducha
-- Contiene ingredientes hidratantes
 - Deja la piel suave y calmada
 - Es formulado con aloe vera
+- Contiene ingredientes hidratantes
+- Tipo de producto: Gel de ducha
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TRNMKGN/?tag=tolees-21)
