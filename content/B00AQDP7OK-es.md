@@ -29,9 +29,9 @@ Ahora mismo tienes [L Oreal Paris Make-up Designer - L Oréal Paris Pintalabios 
 🔎:
 
 - Color permanente hasta 24 horas disponible en 22 tonos
+- Resistencia absoluta para unos labios hidratados y confortables, sin retoques
 - Primero aplica el color con pigmentos mate y cuando se seque, aplica el hidratante potenciador del color
 - Su textura líquida enriquecida con ácido hialurónico se fija en tus labios sin manchar o agrietarse
-- Resistencia absoluta para unos labios hidratados y confortables, sin retoques
 - Pintalabios de larga duración para un resultado mate intacto 24 horas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00AQDP7OK/?tag=tolees-21)
