@@ -28,10 +28,10 @@ Está [Príncipe Galletas Rellenas de Chocolate con Leche  250g](https://www.ama
 
 ℹ️:
 
-- Combina la galleta crujiente con la suavidad de la crema de chocolate
-- Práctico sistema de abre y cierra, que ayuda a una mejor conservación
 - Alérgenos: soja, huevos, leche, frutos de cáscara, harina de trigo.
 - Las clásicas galletas Príncipe con el doble de relleno de chocolate con leche
+- Práctico sistema de abre y cierra, que ayuda a una mejor conservación
 - Conservar en lugar fresco y seco
+- Combina la galleta crujiente con la suavidad de la crema de chocolate
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XA0W6EK/?tag=tolees-21)

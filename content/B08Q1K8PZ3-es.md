@@ -28,9 +28,9 @@ En este momento está [Colgate Max White One  Pasta de Dientes Blanqueante  Pack
 
 🔎:
 
-- Pasta de dientes blanqueante
-- Tecnología Colgate: Contiene un sistema avanzado que elimina hasta el 100% de las manchas superficiales
 - Pruebas clínicas: clínicamente probado
 - Dientes más blancos: Consigue un tono más blanco en una semana
+- Pasta de dientes blanqueante
+- Tecnología Colgate: Contiene un sistema avanzado que elimina hasta el 100% de las manchas superficiales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08Q1K8PZ3/?tag=tolees-21)

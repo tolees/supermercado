@@ -28,10 +28,10 @@ Tienes [Bombay Sapphire Ginebra  700ml](https://www.amazon.es/dp/B003RUSKH0/?tag
 
 ℹ️:
 
-- Los botánicos de Bombay Sapphire se añaden solamente durante el proceso de destilación, nunca después Es una auténtica ginebra London Dry
-- La ginebra Bombay Sapphire utiliza un delicado proceso de infusión al vapor para expresar el carácter natural de cada ingrediente
+- Laverstoke, la cuna de Bombay Sapphire, se diseñó para ser ecológicamente eficiente y sostenible, lo que le ha valido el prestigioso premio BREEAM
 - La ginebra Bombay Sapphire combina con versatilidad y equilibrio diez botánicos seleccionados a mano procedentes todo el mundo
 - Seleccionamos minuciosamente los botánicos y los infusionamos al vapor para lograr un sabor más suave y equilibrado
-- Laverstoke, la cuna de Bombay Sapphire, se diseñó para ser ecológicamente eficiente y sostenible, lo que le ha valido el prestigioso premio BREEAM
+- La ginebra Bombay Sapphire utiliza un delicado proceso de infusión al vapor para expresar el carácter natural de cada ingrediente
+- Los botánicos de Bombay Sapphire se añaden solamente durante el proceso de destilación, nunca después Es una auténtica ginebra London Dry
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003RUSKH0/?tag=tolees-21)
