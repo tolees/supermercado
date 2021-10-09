@@ -29,9 +29,9 @@ Ahora mismo tienes [Playbrush Smart One - Cepillo de dientes eléctrico  interac
 🔎:
 
 - Feedback luminoso (presión, velocidad, batería) y con vibración
+- Controla la limpieza desde la aplicación.
 - Hasta 40.000 movimientos de hidrolimpieza sónica.
 - Interdent+ indicador de desgaste
 - Cepillo de dientes interactivo que se conecta a través de Bluetooth a la aplicación
-- Controla la limpieza desde la aplicación.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WFHNQCS/?tag=tolees-21)

@@ -29,7 +29,7 @@ Está [Trina Naranja Botella  1.5L](https://www.amazon.es/dp/B00XA87SD6/?tag=tol
 ℹ️:
 
 - A base de naranja
-- 10% zumo
 - Fuente de Vitamina C
+- 10% zumo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XA87SD6/?tag=tolees-21)
