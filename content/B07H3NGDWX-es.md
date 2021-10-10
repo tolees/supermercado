@@ -28,10 +28,10 @@ En este momento está [Ariel Detergente Líquido para Lavadora  Frescor Los Alpe
 
 🔎:
 
+- Botella 100 % reciclable
+- Por razones medioambientales, las botellas no cuentan con un tapón medidor pero puedes pedirlo de forma gratuita en el sitio web del fabricante
+- Diseñado con el frescor de los Alpes
 - Blancos más blancos
 - Detergente líquido con un buen poder quitaimanchas desde el primer lavado, incluso a 30 °C
-- Botella 100 % reciclable
-- Diseñado con el frescor de los Alpes
-- Por razones medioambientales, las botellas no cuentan con un tapón medidor pero puedes pedirlo de forma gratuita en el sitio web del fabricante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07H3NGDWX/?tag=tolees-21)
