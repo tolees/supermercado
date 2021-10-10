@@ -29,8 +29,8 @@ Ahora mismo tienes [Colgate Triple Acción Menta Original Pasta de Dientes  2 x 
 🔎:
 
 - Pasta de dientes con flúor que aporta un triple beneficio
-- Protección anticaries probada
-- Previene el mal aliento
 - Consigue dientes más blancos
+- Previene el mal aliento
+- Protección anticaries probada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XDOT92A/?tag=tolees-21)
