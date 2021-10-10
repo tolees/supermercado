@@ -28,9 +28,9 @@ Está [Kölln - Muesli de Avena con Frutas  Cereales Integrales  Avena con Pasas
 
 ℹ️:
 
+- Mantener en un lugar fresco y seco
 - Muesli de avena de fruta
 - Alérgenos: trigo, avena, cebada, puede contener frutos de cáscara y leche
 - País de origen: Alemania
-- Mantener en un lugar fresco y seco
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00DN9IS86/?tag=tolees-21)
