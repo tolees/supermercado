@@ -28,10 +28,10 @@ Ahora mismo tienes [Fairy Ultra Lavavajillas Líquido a Mano  6.2 L  8 x 780 ml 
 
 🔎:
 
-- Espuma abundante con una sola gota y aclarado fácil
-- Aroma limpio y fresco
-- Poderosa acción limpiadora que elimina la grasa al instante
-- Fairy lavavajillas líquido ultra concentrado
 - Nuestra fórmula respeta la piel por lo que no es necesario usar guantes
+- Fairy lavavajillas líquido ultra concentrado
+- Aroma limpio y fresco
+- Espuma abundante con una sola gota y aclarado fácil
+- Poderosa acción limpiadora que elimina la grasa al instante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B091G2TMKK/?tag=tolees-21)
