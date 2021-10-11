@@ -29,8 +29,8 @@ Tienes [Pepsi Max 330ml - Refresco de Cola con Zero Azúcar  Pack de 9](https://
 🔎:
 
 - Bebida refrescante aromatizada con edulcorantes
+- Paquete
 - Conservar en lugar limpio, fresco y seco
 - Zero azúcar
-- Paquete
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01FJXB754/?tag=tolees-21)

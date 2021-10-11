@@ -28,11 +28,11 @@ En este momento está [Ruavieja Licor de Café  700ml](https://www.amazon.es/dp/
 
 🔎:
 
+- El sabor es intenso, sabroso y presenta una textura cremosa muy agradable al gusto
 - Se elabora con productos seleccionados y siguiendo los métodos tradicionales de la familia rodríguez-ovalle
 - Se caracteriza por un color marrón oscuro y unos aromas a toffee dulce y a café molido.
-- El sabor es intenso, sabroso y presenta una textura cremosa muy agradable al gusto
-- Para disfrutar del Licor de Café Ruavieja, se recomienda enfriar la botella y servir en un vaso ancho solo o con hielo
 - El Licor de Café Ruavieja es el acompañante perfecto para darle importancia a lo que realmente importa, las personas
 - El licor de café de ruavieja se produce a partir de cafés de calidad cuidadosamente seleccionados y usando como base el aguardiente ruavieja
+- Para disfrutar del Licor de Café Ruavieja, se recomienda enfriar la botella y servir en un vaso ancho solo o con hielo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B009BBCI8G/?tag=tolees-21)
