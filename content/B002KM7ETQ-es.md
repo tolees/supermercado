@@ -28,10 +28,10 @@ Ahora mismo tienes [Catunambú - Café Molido Mezcla  250 Gramos](https://www.am
 
 🔎:
 
-- Posee azúcar
-- Ingredientes: café
-- Ingredientes: café
 - Información de alérgenos: gluten_free
 - Una vez abierto, conservar en lugar fresco y seco
+- Ingredientes: café
+- Ingredientes: café
+- Posee azúcar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002KM7ETQ/?tag=tolees-21)
