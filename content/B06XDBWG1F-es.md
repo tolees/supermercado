@@ -28,9 +28,9 @@ Está [El Bandarra Rojo Vermut 100 cl. Botella de 1 litro  Vermouth de Barcelona
 
 ℹ️:
 
-- Sin gluten ni lactosa y con certificación vegana
 - Color caoba con reflejos anaranjados, limpio y glicérico
-- Entrada muy suave y golosa
 - Aromas a regaliz, toques cítricos y clavo
+- Sin gluten ni lactosa y con certificación vegana
+- Entrada muy suave y golosa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XDBWG1F/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Babaria Champú Niños Manzanilla  Blanco  Aromatic  600 Mililitros](http
 
 ℹ️:
 
+- La manzanilla es altamente beneficiosa contra las afecciones del cuero cabelludo, consiguiendo que el cabello esté más suave; a la vez, otorga a los cabellos unos reflejos claros y luminosos
 - Se puede usar a diario; testado desmatológicamente; no testado en animales; vegano
 - Con extracto de manzanilla
-- La manzanilla es altamente beneficiosa contra las afecciones del cuero cabelludo, consiguiendo que el cabello esté más suave; a la vez, otorga a los cabellos unos reflejos claros y luminosos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XAHII86/?tag=tolees-21)
