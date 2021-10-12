@@ -28,10 +28,10 @@ En este momento está [Nescafé DOLCE GUSTO Café ALMENDRA LATTE - Pack De 3 x 1
 
 🔎:
 
-- Cápsulas de café inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
-- Café gourmet seleccionando con el sabor Nescafé Dolce Gusto
-- Descubre más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche y bebidas vegetales
-- Equilibrio entre los cremosos matices de la almendra y las aromáticas notas de los granos de café del sudeste asiático que han sido seleccionados y tostados
 - Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida Nescafé Dolce Gusto
+- Café gourmet seleccionando con el sabor Nescafé Dolce Gusto
+- Equilibrio entre los cremosos matices de la almendra y las aromáticas notas de los granos de café del sudeste asiático que han sido seleccionados y tostados
+- Cápsulas de café inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
+- Descubre más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche y bebidas vegetales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TD95RF8/?tag=tolees-21)
