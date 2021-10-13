@@ -28,10 +28,10 @@ Tienes [Nocilla Fluida Original - 2kg](https://www.amazon.es/dp/B085QMPY4L/?tag=
 
 🔎:
 
-- Nocillear es convertir un alimento rico en algo aún más delicioso, añadiendo Nocilla para crear un momento de felicidad de la buena y sin aceite de palma.
 - Alérgenos: Este producto contiene leche, avellanas y soja y puede contener frutos de cáscara. Mantener fuera del frigorífico, en lugar fresco y seco.
-- Envase de 2kg dando un rendimiento de 67 crepes o croissants aproximadamente. Apta también para el sector profesional para cubetas, inyectoras y mangas pasteleras
-- Ideal para rellenar croissants, magdalenas, coulants, buñuelos,... o como topping para helados, pasteles, crepes o gofres
 - Fórmula fluida sin necesidad de calentar. Sin aceite de palma.
+- Nocillear es convertir un alimento rico en algo aún más delicioso, añadiendo Nocilla para crear un momento de felicidad de la buena y sin aceite de palma.
+- Ideal para rellenar croissants, magdalenas, coulants, buñuelos,... o como topping para helados, pasteles, crepes o gofres
+- Envase de 2kg dando un rendimiento de 67 crepes o croissants aproximadamente. Apta también para el sector profesional para cubetas, inyectoras y mangas pasteleras
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085QMPY4L/?tag=tolees-21)
