@@ -28,9 +28,9 @@ Ahora mismo tienes [Hemp Help HEMP COSMETIC Bálsamo labial de cáñamo orgánic
 
 🔎:
 
+- Hidratante: Hecho con cera de abejas, vitamina E y un poco de aceite de menta, así como manteca de cacao y aceite de oliva virgen, para hidratar y nutrir los labios secos y agrietados.
 - Bálsamo labial suave y regenerativo: Con sólo un toque de este acondicionador labial, tus labios estarán suaves y frescos durante todo el día. Nuestro exclusivo extracto de cáñamo ayuda a proteger tus labios contra los dañinos rayos ultravioleta, los radicales libres con factor de protección natural 10.
 - Cuidado superior de los labios: Rebosante de frescura de menta y manteca de cacao, refresca y cuida tus labios con nuestra exclusiva fórmula 2.0.
 - Fórmula totalmente natural: Enriquecido con ingredientes 100% naturales y orgánicos, este bálsamo labial natural está formulado sin parabenos, ftalatos, petrolato o SLS y no ha sido probado en animales.
-- Hidratante: Hecho con cera de abejas, vitamina E y un poco de aceite de menta, así como manteca de cacao y aceite de oliva virgen, para hidratar y nutrir los labios secos y agrietados.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZHDDSDW/?tag=tolees-21)
