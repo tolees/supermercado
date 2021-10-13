@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Cola Cao - ColaCao Original: con Cacao N con un 0.00 % de descuento'
-date: 2021-10-12 14:41:06
+title: 'Cola Cao - ColaCao Original: con Cacao N con un 14.72 % de descuento'
+date: 2021-10-13 16:30:11
 image: 'https://m.media-amazon.com/images/I/51WCPl0z9IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B083KHCRMB-es Cola Cao - ColaCao Original: con Cacao Natural - Formato...'
 sku: 'B083KHCRMB-es'
 tags: [ 'Alimentación y bebidas','Bebidas en polvo','Café, té y bebidas','Chocolate en polvo','cola cao','colacao', ]
-actualPrice: 29.85 EUR
+actualPrice: 24.69 EUR
 currency: EUR
-price: 29.85
-comparePrice:  EUR
+price: 24.69
+comparePrice: 28.95 EUR
 prodname: 'Cola Cao - ColaCao Original: con Cacao Natural - Formato Ahorro - 7 1kg'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Cola Cao'
 buyurl: 'https://www.amazon.es/dp/B083KHCRMB/?tag=tolees-21'
-descuento: '0.00'
-average: '28.13'
+descuento: '14.72'
+average: '27.27'
 ---
 
-En este momento está [Cola Cao - ColaCao Original: con Cacao Natural - Formato Ahorro - 7 1kg](https://www.amazon.es/dp/B083KHCRMB/?tag=tolees-21) a 29.85 EUR (original:  EUR) (0.00 %  de descuento) en el siguiente enlace!
+En este momento está [Cola Cao - ColaCao Original: con Cacao Natural - Formato Ahorro - 7 1kg](https://www.amazon.es/dp/B083KHCRMB/?tag=tolees-21) a 24.69 EUR (original: 28.95 EUR) (14.72 %  de descuento) en el siguiente enlace!
 
 [![Cola Cao - ColaCao Original: con Cacao N](https://m.media-amazon.com/images/I/51WCPl0z9IL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B083KHCRMB/?tag=tolees-21)
 
