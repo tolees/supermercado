@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.43 % en Matutano Producto Aperitivo de Trigo - 8'
-date: 2021-10-06 23:36:37
+date: 2021-10-13 08:56:34
 image: 'https://m.media-amazon.com/images/I/51RUYudpeTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Matutano'
 buyurl: 'https://www.amazon.es/dp/B00XDN80PI/?tag=tolees-21'
 descuento: '32.43'
-average: '1.0571052631579'
+average: '1.05564102564103'
 ---
 
 Tienes [Matutano Producto Aperitivo de Trigo - 84g](https://www.amazon.es/dp/B00XDN80PI/?tag=tolees-21) con un 32.43 % de descuento con precio de oferta de 1.0 EUR (original: 1.48 EUR) en el siguiente enlace!
