@@ -29,9 +29,9 @@ Tienes [Magister Formula - Crema Hidratante Facial Oil Free 50 ml | Especial par
 ℹ️:
 
 - ORIGEN NATURAL y ORGÁNICO: La crema hidratante Oil Free de Magister Formula está formulada en base a extractos de ingredientes naturales y ecológicos que cuidará de las pieles más sensibles. Además, está formulada sin parabenos.
-- REPARA Y PROTEGE: Gracias a sus ingredientes como Aloe Vera, Vitamina E y Colágeno, es el mejor tratamiento antiedad y protege contra el daño causado por el sol y la contaminación. La crema antiedad de Magister Formula regenera el tejido y protege la piel.
-- CALIDAD DE COSMÉTICA PROFESIONAL: En Magister Formula nos tomamos muy en serio la calidad cosmética de nuestras cremas. Contamos con más de 130 años (desde 1886) de experiencia en cosmética para farmacias y perfumerías de toda España. Por lo tanto puedes contar con GARANTÍA 100% de SATISFACCIÓN y con ENVÍOS GRATIS
-- EFECTO MATIFICANTE: gracias a la fórmula de la Crema Oil Free la piel mantiene el nivel óptimo de hidratación en el interior y un efecto mate en la superficie. Consigue un efecto antiarrugas facial y ayuda a rejuvenecerla aportando un efecto lifting y antienvejecimiento.
 - CUIDA Y REGENERA: La piel grasa necesita hidratación, pero es importante que elijamos bien la crema para no crear más sebo, obstruir los poros o que nos aparezcan brillos.Es por eso que esta crema facial cuida las pieles grasas y reactivas aportando hidratación y regeneración sin grasas ni aceites para la piel.
+- REPARA Y PROTEGE: Gracias a sus ingredientes como Aloe Vera, Vitamina E y Colágeno, es el mejor tratamiento antiedad y protege contra el daño causado por el sol y la contaminación. La crema antiedad de Magister Formula regenera el tejido y protege la piel.
+- EFECTO MATIFICANTE: gracias a la fórmula de la Crema Oil Free la piel mantiene el nivel óptimo de hidratación en el interior y un efecto mate en la superficie. Consigue un efecto antiarrugas facial y ayuda a rejuvenecerla aportando un efecto lifting y antienvejecimiento.
+- CALIDAD DE COSMÉTICA PROFESIONAL: En Magister Formula nos tomamos muy en serio la calidad cosmética de nuestras cremas. Contamos con más de 130 años (desde 1886) de experiencia en cosmética para farmacias y perfumerías de toda España. Por lo tanto puedes contar con GARANTÍA 100% de SATISFACCIÓN y con ENVÍOS GRATIS
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00KQFWNFO/?tag=tolees-21)
