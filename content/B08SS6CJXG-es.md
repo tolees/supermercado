@@ -28,10 +28,10 @@ Está [Garnier Fructis Hair Food  Champú Sandía Revitalizante  Limpia y Revita
 
 ℹ️:
 
+- Cabello limpio, revitalizado y sin apelmazar con aspecto saludable
+- Aplicar sobre el cabello húmedo, hacer espuma y aclarar cuidadosamente hasta haber eliminado el producto
 - Fórmula 96% de origen natural, vegana y sin siliconas, Dermatológicamente testado, Envase con 50% de plástico reciclado
 - Champú con sandía revitalizante, Aporta energía, nutre, revitaliza y limpia el cabello apagado y sin vida, Sin apelmazar
 - Contenido: 1x Garnier Fructis Hair Food Champú de Sandía Revitalizante, 350ml
-- Aplicar sobre el cabello húmedo, hacer espuma y aclarar cuidadosamente hasta haber eliminado el producto
-- Cabello limpio, revitalizado y sin apelmazar con aspecto saludable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08SS6CJXG/?tag=tolees-21)
