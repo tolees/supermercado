@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 14.53 % en Colgate Cavity Protection Pasta de Dient'
-date: 2021-10-04 18:46:55
+date: 2021-10-16 11:41:27
 image: 'https://m.media-amazon.com/images/I/417KWRooW6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Colgate Cavity Protection Pasta de Dientes - 100 ml](https://www.amazon.
 
 ℹ️:
 
-- Buen sabor
 - Fresca
 - Anticaries
+- Buen sabor
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00H5IMNYG/?tag=tolees-21)
