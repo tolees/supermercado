@@ -28,11 +28,11 @@ Está [Chocolate Amatller S Variados Carteles Gr En Cesta Regalo - Regalo Origin
 
 ℹ️:
 
-- Elaboración con ingredientes de calidad y producción bean to bar, desde el haba de cacao.
-- Cesta regalo con 5 tipos de chocolate compuesta por: 1 Tableta de Chocolate Negro 70% Cacao + 1 Tableta de Chocolate con Leche + 2 Chocolatinas + Caja Hojas de Chocolate con Leche
 - Chocolate Gourmet especial para los verdaderos amantes del chocolate. Elaborados en nuestras fábricas desde el proceso de selección y tostado del grano, de la haba de cacao directo a tu hogar.
 - Fabricado íntegramente en España. En Amatller solo utilizamos ingredientes de calidad. Ingredientes Chocolate: pasta de cacao, azúcar. Ingredientes Amatllons: chocolate blanco, almendras, azúcar y cacao en polvo.
+- Elaboración con ingredientes de calidad y producción bean to bar, desde el haba de cacao.
 - Nuestros chocolates y cacaos, en sus diferentes formatos, son la idea perfecta para regalar. Un regalo original y sofisiticado para familiares y amigos, en toda ocasión o época del año.
+- Cesta regalo con 5 tipos de chocolate compuesta por: 1 Tableta de Chocolate Negro 70% Cacao + 1 Tableta de Chocolate con Leche + 2 Chocolatinas + Caja Hojas de Chocolate con Leche
 - En la elaboración de nuestros productos no utilizamos aceite de palma. Además, los chocolates Amatller no contienen gluten, lo que lo convierten en un chocolate apto para celíacos.
 - Una caja regalo completa y perfectamente diseñada para sorprender en ocasiones especiales. Un detalle único y dulce para satisfacer los paladares más sofisticados y exigentes.
 
