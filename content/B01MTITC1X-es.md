@@ -31,7 +31,7 @@ Está [American Crew Accumen Champú Densificante Uso Diario 290ml](https://www.
 - Los mejores productos para que te sientas bien contigo mismo
 - Belleza y cuidado van de la mano para proporcionarte una sensación de bienestar única
 - Acumen Daily Thickening Shampoo 290 ml
-- Para el cabello: fino
 - American Crew es un nombre de marca reconocido
+- Para el cabello: fino
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MTITC1X/?tag=tolees-21)
