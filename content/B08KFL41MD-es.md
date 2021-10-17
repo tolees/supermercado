@@ -28,10 +28,10 @@ Está [Kinoko life - Vitamina D3 5000 UI | 365 Cápsulas | Vitamina D Natural Co
 
 ℹ️:
 
-- VITAMINA D3 NATURAL: Sin Estereatos de magnesio y otros aditivos : 100% libre de estearatos de magnesio (sales de magnesio de ácidos grasos), sin ingeniería genética, pesticidas y fungicidas u otros aditivos indeseables. Perfecto también como suplemento de una dieta vegetariana y dieta KETO. Sin Gluten, Lactosa y NON GMO. (no modificado geneticamente) Vit d3
-- FÓRMULA PREMIUM: Vitamina D3 5000 iu pura con máxima biodisponiblidad en forma de Colecalciferol y Aceite de Oliva Virgen Extra. Cápsulas blandas (Sofgels) de fácil absorción ,se digieren de manera rápida y eficiente. High Ultra Pure D3 Vitamin..
 - OFERTAS Y PROMOCIONES: Te ofrecemos los mejores descuentos por cantidad, rebajas u ofertas . No lo dudes en consultarnos. De todas formas , si ya eres cliente de Kinoko Life y quieres probar este producto, escríbenos y te enviaremos un cupón descuento.
+- VITAMINA D3 NATURAL: Sin Estereatos de magnesio y otros aditivos : 100% libre de estearatos de magnesio (sales de magnesio de ácidos grasos), sin ingeniería genética, pesticidas y fungicidas u otros aditivos indeseables. Perfecto también como suplemento de una dieta vegetariana y dieta KETO. Sin Gluten, Lactosa y NON GMO. (no modificado geneticamente) Vit d3
 - LA MEJOR D3 VITAMINA: Las personas que por su trabajo o estilo de vida se exponen poco a la luz del sol deberían tomar Vitamina D3 5000 UI. Los beneficios de la “vitamina del sol” son muchos y están bien documentados, por eso está especialmente indicada para un sistema inmunitario sano.
 - MÁXIMO AHORRO: En formato de 365 perlas. Consiguirás el máximo ahorro. Con la Vitamina D3 de Kinoko Life te ayuda a la absorción del Calcio y Fósforo para las articulaciones y huesos. Además de fortalecer nuestro sistema inmune. Vitamina D de 5000 ui en vez de 4000 ui
+- FÓRMULA PREMIUM: Vitamina D3 5000 iu pura con máxima biodisponiblidad en forma de Colecalciferol y Aceite de Oliva Virgen Extra. Cápsulas blandas (Sofgels) de fácil absorción ,se digieren de manera rápida y eficiente. High Ultra Pure D3 Vitamin..
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KFL41MD/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Schwarzkopf - Gliss - Champú para pelo rebelde o difíci
 
 🔎:
 
-- Cabello visiblemente más liso; efecto anti-encrespamiento y anti-humedad
-- Aplicación: masajear sobre el cabello húmedo. Aclarar con abundante agua. Usar regularmente
+- 90% ingredientes de origen natural, incluyendo agua
 - El champú Liso Asiático de Gliss es adecuado para cabello rebelde o difícil de alisar
 - Gama Alisado Fácil, con complejo lípido + esencia de flor asiática, suaviza el cabello áspero y desigual y repara y sella la estructura capilar
-- 90% ingredientes de origen natural, incluyendo agua
+- Cabello visiblemente más liso; efecto anti-encrespamiento y anti-humedad
+- Aplicación: masajear sobre el cabello húmedo. Aclarar con abundante agua. Usar regularmente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LMCKYKD/?tag=tolees-21)
