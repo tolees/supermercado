@@ -28,10 +28,10 @@ Está [Universal Soporte para cápsulas de café Passionale&quot Lavazza A Modo 
 
 ℹ️:
 
-- Capacidad para 32 cápsulas en 4 filas.
 - También sirve para guardar cápsulas de café A Modo Mio de "Dec Creosol", "Delizioso", "Intense", "Magi", "Tierra", "Divine" y "Dolce".
 - Soporte para cápsulas con base de fieltro giratoria de 360° para un fácil acceso.
-- Este elegante y moderno soporte para cápsulas está hecho de alambre de alta calidad chapado en cromo y es ideal tanto para el trabajo como para casa.
 - Para cápsulas de café "Passionale" A Modo Mio.
+- Capacidad para 32 cápsulas en 4 filas.
+- Este elegante y moderno soporte para cápsulas está hecho de alambre de alta calidad chapado en cromo y es ideal tanto para el trabajo como para casa.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MEI1J36/?tag=tolees-21)
