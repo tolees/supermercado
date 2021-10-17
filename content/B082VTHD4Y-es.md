@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo - Mega Torcidas  Sabor Regaliz  2 al 0.00 % de rebaja'
-date: 2021-10-08 23:01:59
+date: 2021-10-17 15:54:40
 image: 'https://m.media-amazon.com/images/I/41KQqDSK1qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
