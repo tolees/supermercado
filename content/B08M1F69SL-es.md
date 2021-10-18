@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Favoritos Classic  1 x 150 g al 39.39 % de rebaja'
-date: 2021-10-15 10:57:46
+date: 2021-10-18 21:51:21
 image: 'https://m.media-amazon.com/images/I/51DBMi9o7FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [HARIBO Favoritos Classic  1 x 150 g](https://www.amazon.es/dp/B08M1F69SL
 
 🔎:
 
-- Producto que combina tradición e innovación
-- Surtido de golosinas
 - Irresistible mix de sabores
 - Delicioso mix de diferentes piezas
+- Producto que combina tradición e innovación
+- Surtido de golosinas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08M1F69SL/?tag=tolees-21)

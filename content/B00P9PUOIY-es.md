@@ -28,8 +28,8 @@ Tienes [American Crew Champú Diario 250 ml](https://www.amazon.es/dp/B00P9PUOIY
 
 🔎:
 
-- alta calidad
-- producto cosmético
 - hecho en los Estados Unidos
+- producto cosmético
+- alta calidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00P9PUOIY/?tag=tolees-21)
