@@ -28,8 +28,8 @@ Tienes [Victoria Cerveza - Paquete de 24 x 330 ml - Total: 7920 ml](https://www.
 
 🔎:
 
-- Elaborada mediante procedimiento tradicional de maduración lenta con un mínimo de 2 semanas de guarda que asegura la elevada calidad del producto.
-- Es dorada y brillante, con burbujas finas y abundantes. Suave, con densas notas de cereales tostados y eminentemente fresca.
 - Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
+- Es dorada y brillante, con burbujas finas y abundantes. Suave, con densas notas de cereales tostados y eminentemente fresca.
+- Elaborada mediante procedimiento tradicional de maduración lenta con un mínimo de 2 semanas de guarda que asegura la elevada calidad del producto.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D3ZNX84/?tag=tolees-21)

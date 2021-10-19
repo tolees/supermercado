@@ -28,8 +28,8 @@ En este momento está [Sanex Men Zero% Desodorante Roll-On  50ml](https://www.am
 
 🔎:
 
-- Siéntate fresco y protegido durante 24 horas
-- Inhibe la formación de olores corporales con ingredientes antibacterianos suaves, ralentiza la liberación de olores corporales, atrapa y minimiza el olor residual
 - 0% de sales de aluminio, 0% de alcohol, sin alérgenos
+- Inhibe la formación de olores corporales con ingredientes antibacterianos suaves, ralentiza la liberación de olores corporales, atrapa y minimiza el olor residual
+- Siéntate fresco y protegido durante 24 horas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XXD8CDB/?tag=tolees-21)
