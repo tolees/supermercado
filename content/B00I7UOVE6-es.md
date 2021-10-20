@@ -30,8 +30,8 @@ Está [L Or Espresso Café Fortissimo Intensidad 10 - 200 cápsulas de aluminio 
 
 - Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso
 - Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
-- 200 cápsulas repartidas en 20 paquetes de 10 cápsulas cada uno. Peso neto de 1 paquete: 52 g. Total 20 paquetes = 1040 gr
 - El corpulento e intenso FORTISSIMO combina la emoción de las especias y la fuerza de un tostado intenso para crear una larga y cautivadora experiencia cafetera
 - Sabor Fragante - Intenso - Fascinante
+- 200 cápsulas repartidas en 20 paquetes de 10 cápsulas cada uno. Peso neto de 1 paquete: 52 g. Total 20 paquetes = 1040 gr
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00I7UOVE6/?tag=tolees-21)
