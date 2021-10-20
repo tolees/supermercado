@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Viña Esmeralda  Vino Blanco - 6 botellas con un 16.98 % de descuento'
-date: 2021-10-14 17:35:54
+date: 2021-10-20 09:36:12
 image: 'https://m.media-amazon.com/images/I/41neqU6OaOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Viña Esmeralda'
 buyurl: 'https://www.amazon.es/dp/B088R2MY8T/?tag=tolees-21'
 descuento: '16.98'
-average: '36.9666666666667'
+average: '37.625'
 ---
 
 En este momento está [Viña Esmeralda  Vino Blanco - 6 botellas de 75 cl  Total: 4500 ml](https://www.amazon.es/dp/B088R2MY8T/?tag=tolees-21) a 39.6 EUR (original: 47.7 EUR) (16.98 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [Viña Esmeralda  Vino Blanco - 6 botellas de 75 cl  Total
 🔎:
 
 - Sublime con aperitivos de marisco, pescado y patés. A probar con platos de cocina oriental. Servir a 11°C.
-- Puede disfrutarlo desde ahora, bien conservado aguantará 2 años.
 - Muy fragante, con delicadas notas florales (rosa) y frutales (lichi). En boca es suave, seductor, con un final goloso.
-- Origen: DO Catalunya
+- Puede disfrutarlo desde ahora, bien conservado aguantará 2 años.
 - Graduación: 11,5% vol.
+- Origen: DO Catalunya
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088R2MY8T/?tag=tolees-21)
