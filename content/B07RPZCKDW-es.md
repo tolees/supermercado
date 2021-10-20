@@ -30,8 +30,8 @@ Ahora mismo tienes [Ariel Detergente Lavadora Líquido  160 Lavados  Pack 4 x 40
 
 - No deja residuos visibles en las telas y aporta una fragancia suave que dura todo el día
 - Detergente lavadora con tecnología Odor Active que elimina los malos olores
+- Detergente líquido para una limpieza profunda; eficaz en frío (incluso a 30 °C) y en lavados cortos
 - Para un resultado óptimo, combínalo con Lenor UNstoppables perlas de perfume para la ropa
 - Botella 100% reciclable
-- Detergente líquido para una limpieza profunda; eficaz en frío (incluso a 30 °C) y en lavados cortos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RPZCKDW/?tag=tolees-21)
