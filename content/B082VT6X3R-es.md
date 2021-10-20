@@ -28,10 +28,10 @@ En este momento está [TIRMA  S.A. - Tirma Ambrosías con Relleno Cubiertas de C
 
 🔎:
 
-- Consumo directo
-- Producto de calidad
 - País de origen: españa
 - Información de alérgenos: soy
+- Producto de calidad
+- Consumo directo
 - Alérgenos: gluten, leche, soja y frutos de cáscara (almendras y avellanas)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082VT6X3R/?tag=tolees-21)
