@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo 000500 Favoritos Red&White  1 x 1 con un 0.00 % de descuento'
-date: 2021-10-17 13:53:48
+date: 2021-10-20 10:27:21
 image: 'https://m.media-amazon.com/images/I/51GIxHja5CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [Haribo 000500 Favoritos Red&White  1 x 150 g](https://www
 
 🔎:
 
-- Marca: Haribo
-- Mix de piezas de regaliz rojo con sabor a fresa y nata
 - Geles dulces
+- Marca: Haribo
 - Discos fresa, balla-balla fresa, ladrillo fresa-nata, mini torcidas fresa, balla-balla creamy
+- Mix de piezas de regaliz rojo con sabor a fresa y nata
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KBGJ8WK/?tag=tolees-21)
