@@ -28,10 +28,10 @@ Está [Johnnie Walker - Black Label Whisky Escocés  700 ml](https://www.amazon.
 
 ℹ️:
 
-- Sabores ricos, afrutados y picantes equilibrarse con las notas de toffee, suave y cremosa, con un acabado ahumado
-- Se debe conservar en un lugar fresco y seco
-- Contiene 40 % alcohol
-- Un whisky para compartir en cualquier ocasión
 - Creado usando solo whiskies de mínimo 12 años de añejamiento de los 4 rincones de Escocia
+- Se debe conservar en un lugar fresco y seco
+- Un whisky para compartir en cualquier ocasión
+- Contiene 40 % alcohol
+- Sabores ricos, afrutados y picantes equilibrarse con las notas de toffee, suave y cremosa, con un acabado ahumado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001TPAKHS/?tag=tolees-21)
