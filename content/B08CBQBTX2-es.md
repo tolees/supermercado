@@ -28,10 +28,10 @@ Ahora mismo tienes [ColaCao Mocca: Café y Cacao - 6 Envases de 270g  1.620 g ](
 
 🔎:
 
-- 18 raciones en su envase zip autocierre de 270 gramos.
 - El placer de tomar un ColaCao con un toque de café. Disfrútalo en caliente para empezar bien el día, o en frío para saborear los deliciosos grumitos de ColaCao Mocca. Con cafeína.
 - Alérgenos: contiene leche, trigo y soja. Mantener en lugar fresco y seco.
-- Selección de café y cacao. Sin azúcares añadidos. 1 taza de ColaCao Mocca contiene la misma cafeína que un café soluble.
 - Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente
+- Selección de café y cacao. Sin azúcares añadidos. 1 taza de ColaCao Mocca contiene la misma cafeína que un café soluble.
+- 18 raciones en su envase zip autocierre de 270 gramos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CBQBTX2/?tag=tolees-21)
