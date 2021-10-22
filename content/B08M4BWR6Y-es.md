@@ -28,13 +28,13 @@ Está [Doña Jimena - Turrón de Cacahuete Elaborado com Cacahuete y Miel  Textu
 
 ℹ️:
 
-- Diferenciadores - somos el único turrón de cacahuete en el mercado elaborado con miel 100%; turrón sin gluten. ¡ideal para toda la familia
 - PLACER EN FAMILIA - disfruta de nuestros dulces y turrones tradicionales en cualquier momento y lugar, Doña Jimena para ti y tu familia; visita nuestra store y conoce toda nuestra amplia gama de productos.
-- Instrucciones para su uso adecuado: Lista para comer
+- Información de alérgenos: Peanuts
 - Certificado de calidad - elaborado en planta productiva con certificación ifs foods, gluten free, certificación de artesanía de la comunidad valenciana que avala la seguridad y calidad de todos nuestros productos alimenticios
+- Diferenciadores - somos el único turrón de cacahuete en el mercado elaborado con miel 100%; turrón sin gluten. ¡ideal para toda la familia
+- Ingredientes: CACAHUETE Tostados (64%) jarabe de glucosa y fructosa, azúcar, miel, clara de HUEVO. Puede contener trazas de otros frutos de cascara (ALMENDRA, AVELLANA, PISTACHO)
+- Instrucciones para su uso adecuado: Lista para comer
 - Receta tradicional - desde doña Jimena apostamos por la fabricación de chocolates, especialidades y dulces navideños respetando y usando recetas tradicionales que satisfagan a toda la familia; producto típico español
 - Ingredientes - turrón artesanal elaborado siguiendo la receta tradicional con cacahuete (64%) y miel; sin gluten; calidad suprema; producto típico de navidad
-- Información de alérgenos: Peanuts
-- Ingredientes: CACAHUETE Tostados (64%) jarabe de glucosa y fructosa, azúcar, miel, clara de HUEVO. Puede contener trazas de otros frutos de cascara (ALMENDRA, AVELLANA, PISTACHO)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08M4BWR6Y/?tag=tolees-21)
