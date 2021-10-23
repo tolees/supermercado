@@ -28,10 +28,10 @@ En este momento está [Miguel Torres Chile Las Mulas Cabernet Sauvignon  Vino Ti
 
 🔎:
 
+- Ideal con carnes rojas, empanadas y parrilladas. Servir a 18°C.
+- Origen: DO Central Valley Regions
 - Puede disfrutarlo desde ahora, bien conservado aguantará 2 años.
 - Graduación: 14% vol.
 - Aromas a frutos rojos con notas de especias. Paladar con taninos elegantes y redondos.
-- Ideal con carnes rojas, empanadas y parrilladas. Servir a 18°C.
-- Origen: DO Central Valley Regions
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MQLWN3V/?tag=tolees-21)
