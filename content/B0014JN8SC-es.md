@@ -28,9 +28,9 @@ En este momento está [La Toja Jabón de Manos Hidrotermal - Relaja  renueva y r
 
 🔎:
 
+- INGREDIENTS: Sodium Tallowate · Aqua · Sodium Palm Kernelate · Talc · Glycerin · Palmkernel Acid · Parfum · Sodium Chloride
 - · Limonene· Geraniol · Coumarin · Citronellol · Eugenol · TetrasodiumGlutamate Diacetate · Tetrasodium Etidronate · Linalool · MineralSalts · CI 77891 · CI 15510
 - Relaja renueva y revitaliza.Para todo tipo de piel
-- INGREDIENTS: Sodium Tallowate · Aqua · Sodium Palm Kernelate · Talc · Glycerin · Palmkernel Acid · Parfum · Sodium Chloride
 - Su fórmula única aporta un cuidado completo para tu piel. El jabón de tocador te relaja te renueva y te llena de vitalidad con la exclusiva fragancia de La Toja.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0014JN8SC/?tag=tolees-21)
