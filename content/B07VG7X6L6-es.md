@@ -28,10 +28,10 @@ Está [Sanex – Gel de ducha para niños sin jabón  cero 0 %  cuerpo y cabello
 
 ℹ️:
 
+- Fórmula biodegradable: este gel de ducha para niños tiene una fórmula biodegradable que no contamina el planeta y conserva el equilibrio natural de la piel así como su pH fisiológico
+- Gel de ducha para niños: el gel de ducha Sanex 0% contiene ingredientes cuidadosamente seleccionados para cuidar las pieles de los más jóvenes y limpiarlas suavemente y contribuir al respeto del medio ambiente
+- Modo de empleo: utiliza este gel de ducha sin jabón según tus hábitos como cualquier producto de lavado clásico. Enjuagar abundantemente con agua limpia después del aseo y evitar el contacto con los ojos
 - 100% ingredientes esenciales: sin colorantes ni jabón, para limitar el riesgo de reacciones alérgicas y proteger la barrera cutánea natural
 - Expertos en piel sana: la marca Sanex te ayuda a mantener una piel sana gracias a su amplia gama de productos de higiene con formulaciones no agresivas que ayudan a cuidar tu piel a diario
-- Fórmula biodegradable: este gel de ducha para niños tiene una fórmula biodegradable que no contamina el planeta y conserva el equilibrio natural de la piel así como su pH fisiológico
-- Modo de empleo: utiliza este gel de ducha sin jabón según tus hábitos como cualquier producto de lavado clásico. Enjuagar abundantemente con agua limpia después del aseo y evitar el contacto con los ojos
-- Gel de ducha para niños: el gel de ducha Sanex 0% contiene ingredientes cuidadosamente seleccionados para cuidar las pieles de los más jóvenes y limpiarlas suavemente y contribuir al respeto del medio ambiente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VG7X6L6/?tag=tolees-21)
