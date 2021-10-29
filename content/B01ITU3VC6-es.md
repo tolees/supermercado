@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepsi MAX 1.75L - Refresco de Cola con Z al 3.10 % de descuento'
-date: 2021-10-05 16:03:35
+date: 2021-10-29 17:00:34
 image: 'https://m.media-amazon.com/images/I/41TuFJCQO7S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
