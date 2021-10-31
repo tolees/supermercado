@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'illycaffè Illy Classico - Café Molido Mo al 29.23 % de descuento'
-date: 2021-10-25 12:10:10
+date: 2021-10-31 20:55:26
 image: 'https://m.media-amazon.com/images/I/31JvLBhr8IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [illycaffè Illy Classico - Café Molido Moka del Tueste  1 Lata de 250 G]
 ℹ️:
 
 - Café illy 100 % Arabica
+- Una vez abierta la lata se conseja de guardar el producto en la nevera
 - El café se conserva en lata presurizadas
 - País de origen: Italia
-- Una vez abierta la lata se conseja de guardar el producto en la nevera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XKCCDZF/?tag=tolees-21)
