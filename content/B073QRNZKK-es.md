@@ -28,11 +28,11 @@ En este momento está [Mimosín - Mimosin Suavizante Concentrado Caricias 78+11 
 
 🔎:
 
-- Mimosín Caricias es un suavizante concentrado que contiene una fragancia más ligera y sin tintes
-- El producto ayuda a mantener el color y el brillo de tu ropa y promueve el secado rápido
 - Mimosín Suavizante Concentrado Caricias 78+11 lavados
 - Es un producto testado dermatológicamente que respeta las pieles sensibles y ofrece una suavidad estupenda en cada lavado
-- Suavizante concentrado delicado incluso con ropa de bebé
+- El producto ayuda a mantener el color y el brillo de tu ropa y promueve el secado rápido
+- Mimosín Caricias es un suavizante concentrado que contiene una fragancia más ligera y sin tintes
 - Está desarrollado para las mamás y papás y sus recién nacidos
+- Suavizante concentrado delicado incluso con ropa de bebé
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073QRNZKK/?tag=tolees-21)
