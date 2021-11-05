@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ejove EJ048 Jabón de Rosa Mosqueta 125 g al 23.39 % de rebaja'
-date: 2021-10-30 19:51:03
+date: 2021-11-05 02:49:23
 image: 'https://m.media-amazon.com/images/I/51tZf09GnNS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ejove'
 buyurl: 'https://www.amazon.es/dp/B073Q79JLZ/?tag=tolees-21'
 descuento: '23.39'
-average: '2.72804054054054'
+average: '2.72525252525252'
 ---
 
 Tienes [Ejove EJ048 Jabón de Rosa Mosqueta 125 gr](https://www.amazon.es/dp/B073Q79JLZ/?tag=tolees-21) con precio final de  1.9 EUR (original: 2.48 EUR) (23.39 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Ejove EJ048 Jabón de Rosa Mosqueta 125 gr](https://www.amazon.es/dp/B07
 
 🔎:
 
-- Cantidad: 125 g
 - Jabón Natural de Rosa Mosqueta
 - El aceite vegetal de rosa mosqueta que contiene este jabón natural y artesanal es un potente regenerador de células cutáneas
+- Cantidad: 125 g
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073Q79JLZ/?tag=tolees-21)
