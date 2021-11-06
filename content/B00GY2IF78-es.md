@@ -28,10 +28,10 @@ En este momento está [FotoUltra Isdin - FotoUltra 100 ISDIN Active Unify Color 
 
 🔎:
 
-- Previene la formación de nuevas manchas gracias a su protección UVA, contiene alantoína, que promueve la regeneración de la piel
-- Textura Fusion Fluid que se funde con la piel, disimula imperfecciones y uniﬁca el tono como una base de maquillaje
-- Testado dermatológicamente, resistente al agua
-- Con triple acción despigmentante, aclara y uniﬁca el tono de la piel, ayuda a reducir las manchas solares gracias al dp3-unify complex
 - Para tratar las manchas debidas al sol de la zona de la frente, las mejillas y el labio superior y pieles que actualmente tienen manchas solares
+- Textura Fusion Fluid que se funde con la piel, disimula imperfecciones y uniﬁca el tono como una base de maquillaje
+- Previene la formación de nuevas manchas gracias a su protección UVA, contiene alantoína, que promueve la regeneración de la piel
+- Con triple acción despigmentante, aclara y uniﬁca el tono de la piel, ayuda a reducir las manchas solares gracias al dp3-unify complex
+- Testado dermatológicamente, resistente al agua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00GY2IF78/?tag=tolees-21)

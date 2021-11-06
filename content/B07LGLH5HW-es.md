@@ -28,12 +28,12 @@ Tienes [Pantene Pro-V Anti-Caspa Champú  Acondicionador y Tratamiento 3 en 1  
 
 ℹ️:
 
-- Champú, acondicionador y tratamiento 3 en 1 para todo tipo de pelo
-- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
 - Testado por el Swiss Vitamin Institute
-- Aporta al pelo Nutrientes Pro-V activos para fortalecerlo desde el interior
-- Sin aceites minerales y sin colorantes
-- Combate la caspa
 - Deja un pelo con un aspecto sano, brillante e increíblemente limpio
+- Combate la caspa
+- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
+- Champú, acondicionador y tratamiento 3 en 1 para todo tipo de pelo
+- Sin aceites minerales y sin colorantes
+- Aporta al pelo Nutrientes Pro-V activos para fortalecerlo desde el interior
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07LGLH5HW/?tag=tolees-21)
