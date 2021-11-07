@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWNSY4Z-es Grefusa 109996 Mezcla de Productos de Aperitivos Horneados...'
 sku: 'B07SWNSY4Z-es'
-tags: [ 'grefusa', ]
+tags: [ 'grefusa','queso', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

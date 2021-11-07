@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FFU0VFI-es True Instinct Original Medium-Maxi Junior - Pienso para...'
 sku: 'B01FFU0VFI-es'
-tags: [ 'arroz', ]
+tags: [ 'arroz','integral', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

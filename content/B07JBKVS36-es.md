@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JBKVS36-es Suplemento Para Articulaciones Vegavero® | 100% VEGETAL |...'
 sku: 'B07JBKVS36-es'
-tags: [ 'cebolla','cúrcuma', ]
+tags: [ 'cebolla','cúrcuma','jengibre', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

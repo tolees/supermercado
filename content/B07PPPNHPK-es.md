@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPPNHPK-es L OR Espresso Café Espresso paquete de amante - Nespresso®...'
 sku: 'B07PPPNHPK-es'
-tags: [ 'café', ]
+tags: [ 'café','cápsulas','de', ]
 actualPrice: 32.71 EUR
 currency: EUR
 price: 32.71

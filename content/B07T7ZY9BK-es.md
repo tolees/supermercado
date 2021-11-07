@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T7ZY9BK-es Marcilla Espresso Intenso Cápsulas de café - 3 paquetes x...'
 sku: 'B07T7ZY9BK-es'
-tags: [ 'café', ]
+tags: [ 'café','cápsulas','de','marcilla', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

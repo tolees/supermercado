@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BV6QV2I-es Nescafé Dolce Gusto Café Cortado Espresso Macchiato Pack...'
 sku: 'B00BV6QV2I-es'
-tags: [ 'café', ]
+tags: [ 'café','cápsulas','de','dolce','gusto','nescafé', ]
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25
