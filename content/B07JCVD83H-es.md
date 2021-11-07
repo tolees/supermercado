@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JCVD83H-es Cesar elección del Chef Ternera A La Rejilla con arroz...'
 sku: 'B07JCVD83H-es'
-tags: [ 'arroz','integral', ]
+tags: [ 'arroz', ]
 actualPrice: 12.13 EUR
 currency: EUR
 price: 12.13

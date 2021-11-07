@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X476DDN-es Smint Tin Frutos Rojos Caramelo Comprimido Sin Azúcar - 2...'
 sku: 'B07X476DDN-es'
-tags: [ 'azúcar','smint', ]
+tags: [ 'azúcar', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

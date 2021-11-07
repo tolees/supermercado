@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JGFDM2M-es Bourjois Primer Base de Maquillaje Tono 1 - 68 gr.'
 sku: 'B01JGFDM2M-es'
-tags: [ 'bourjois','maquillaje', ]
+tags: [ 'bourjois', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

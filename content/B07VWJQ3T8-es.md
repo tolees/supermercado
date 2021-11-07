@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWJQ3T8-es LOCCO - Gotas dulces con gusto a chocolate sin azúcar...'
 sku: 'B07VWJQ3T8-es'
-tags: [ 'azúcar','chocolate', ]
+tags: [ 'azúcar', ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

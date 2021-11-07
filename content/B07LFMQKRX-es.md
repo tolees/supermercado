@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFMQKRX-es SYOSS - Pack de Regalo SalonPlex - Champú 500ml +...'
 sku: 'B07LFMQKRX-es'
-tags: [ 'acondicionador','champú', ]
+tags: [ 'acondicionador', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

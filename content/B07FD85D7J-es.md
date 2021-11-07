@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FD85D7J-es Dove Gel de ducha Agua Micelar Anti-Estrés - 4 unidades de...'
 sku: 'B07FD85D7J-es'
-tags: [ 'de','dove','ducha','gel', ]
+tags: [ 'dove', ]
 actualPrice: 9.57 EUR
 currency: EUR
 price: 9.57
