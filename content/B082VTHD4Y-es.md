@@ -28,9 +28,9 @@ Tienes [Haribo - Mega Torcidas  Sabor Regaliz  200 gr](https://www.amazon.es/dp/
 
 🔎:
 
-- Deliciosas piezas de regaliz en forma de stick
+- Dulces de regaliz
 - 200 gr
 - Irresistible sabor a regaliz
-- Dulces de regaliz
+- Deliciosas piezas de regaliz en forma de stick
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082VTHD4Y/?tag=tolees-21)
