@@ -28,9 +28,9 @@ Está [Bock Damm - Damm - Cerveza Negra Bock-Damm  Caja de 24 Botellas 25cl | Ce
 
 ℹ️:
 
-- Caja de 24 botellas 25cl.
-- 100% Ingredientes naturales.
-- Cerveza negra estilo Múnich, elaborada con 3 tipos de maltas diferentes: torrefactas, caramelo y pilsen.
 - Alc. 5,9% vol.
+- Caja de 24 botellas 25cl.
+- Cerveza negra estilo Múnich, elaborada con 3 tipos de maltas diferentes: torrefactas, caramelo y pilsen.
+- 100% Ingredientes naturales.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LB1GY6M/?tag=tolees-21)

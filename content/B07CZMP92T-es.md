@@ -29,8 +29,8 @@ Ahora mismo tienes [Cerveza Alsaciana A.K. Damm Caja de 24 Botellas 33cl](https:
 🔎:
 
 - En la etiqueta de A.K.Damm aparece una cigüeña porque es el símbolo de Alsacia, lugar de origen de August Kuentzmann Damm, fundador de Damm, a quien homenajea esta cerveza
+- Una combinación perfecta de refinamiento francés y carácter alemán
 - Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante
 - Cerveza elaborada según el método Alsaciano que destaca por la combinación de una cuidada selección de ingredientes 100% naturales y una lenta maduración en bodega
-- Una combinación perfecta de refinamiento francés y carácter alemán
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CZMP92T/?tag=tolees-21)
