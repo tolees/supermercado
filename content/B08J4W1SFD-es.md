@@ -28,9 +28,9 @@ Está [PACK X4 Old Spice Original Desodorante en Barra para Hombres  50 ml](http
 
 ℹ️:
 
-- El desodorante Old Spice dura todo el día, porque se suele tener el mismo cuerpo para todo el día
 - La exquisita fragancia de Old Spice te hará inolvidable, como si fueras el centro del mundo
 - El desodorante Old Spice es como un campo de fuerza que repele las marcas blancas y las manchas amarillentas
 - La tecnología de Old Spice evita que la fragancia desaparezca a lo largo del día, para que huelas bien hasta que vuelvas a casa
+- El desodorante Old Spice dura todo el día, porque se suele tener el mismo cuerpo para todo el día
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08J4W1SFD/?tag=tolees-21)

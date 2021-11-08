@@ -28,10 +28,10 @@ Está [Max Factor False Lash Effect Deep Raven Black Mascara de pestañas  Tono 
 
 ℹ️:
 
-- Ojos más intensos y brillantes, pestañas negras e impactantes
 - Mayor volumen, grosor, longitud y definición
-- Pigmentos raven que ayudan a intensificar el brillo natural de tus ojos
-- Fórmula con Provitamina B5 hidratante
 - Recupera el impacto de tus pestañas, efecto mirada negra intensa
+- Pigmentos raven que ayudan a intensificar el brillo natural de tus ojos
+- Ojos más intensos y brillantes, pestañas negras e impactantes
+- Fórmula con Provitamina B5 hidratante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081SWBLMJ/?tag=tolees-21)

@@ -30,9 +30,9 @@ Tienes [Marca Amazon - Solimo Gel antiedad & antifatiga  envase de 2 x 50ml](htt
 
 - Contiene cafeína, lecitina y aceite de almendras
 - Envase de 2 x 50ml
+- Para uso externo. Evitar el contacto con los ojos y la zona de su contorno. Mantener fuera del alcance de los niños
 - El Gel facial 5 acciones antifatiga y antiedad Solimo deja la piel hidratada y suave. Esta fórmula contiene una mezcla de ingredientes naturales que ayudan a combatir los signos del cansancio, las molestias y los signos de fatiga, dando a la piel 24 h de hidratación
 - Durante el día o la noche: reduce las ojeras, hidrata, tensa y mejora la piel
 - Contiene ingredientes antioxidantes y refuerza la función barrera de la piel
-- Para uso externo. Evitar el contacto con los ojos y la zona de su contorno. Mantener fuera del alcance de los niños
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08KYJPL5M/?tag=tolees-21)
