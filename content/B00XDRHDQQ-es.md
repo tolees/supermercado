@@ -28,8 +28,8 @@ Tienes [Sanex pH Balance Dermo Invisible Desodorante Spray  2 x 200ml](https://w
 
 ℹ️:
 
-- Es anti-transpirante y te protege eficazmente durante 24 horas
 - Para todo tipo de pieles
+- Es anti-transpirante y te protege eficazmente durante 24 horas
 - Desodorante para mujer
 - Formato spray
 
