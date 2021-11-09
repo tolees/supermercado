@@ -28,9 +28,9 @@ Tienes [Oaieltj Taza cambiante de calor  lindas flores margaritas personalizadas
 
 🔎:
 
+- Estas tazas muy versátiles sirven como grandes vasos para cerveza, vino, whisky, café, té, agua, vodka, ron, tequila, ginebra, brillo de la luna, sopa, cereales y literalmente cualquier líquido o aperitivo que puedas imaginar.
 - Tiempo de entrega: 7 – 14 días laborables en general. Esta taza de cielo estrellado sensible al calor se lava a mano, no es apta para lavavajillas, microondas y horno.
 - Gran regalo para amigos: nuestra taza de café es un regalo perfecto para tu hermana, hermano, mamá, papá, abuelo, abuela, mejor amigo, novio, novia, hijo, tía, tíos, jefe, hija, prometida, esposa, en leyes, primos, compañeros de trabajo, también puedes regalársela a cualquier persona
-- Estas tazas muy versátiles sirven como grandes vasos para cerveza, vino, whisky, café, té, agua, vodka, ron, tequila, ginebra, brillo de la luna, sopa, cereales y literalmente cualquier líquido o aperitivo que puedas imaginar.
 - La curva del cuerpo de la copa es suave, el revestimiento es firme y no se desvanece, el patrón único de impresión, permite que tu taza no sea apretada, es la taza, es tu colección
 - Material: esta taza de café está hecha de material de cerámica de alta calidad, protección del medio ambiente, seguridad, sin olor.
 

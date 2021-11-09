@@ -28,10 +28,10 @@ Está [Max Factor Crème Puff Polvos Compactos Tono 005 Translucent  21 gr.](htt
 
 ℹ️:
 
-- La fórmula absorbe el exceso de aceites
 - Apto para todo los tipos de piel
-- Óptima para retoques diarios, adecuado para llevar en el bolso
+- La fórmula absorbe el exceso de aceites
 - Polvos compactos, cobertura media-baja y acabado mate
 - Se puede usar solo como maquillaje hidrantante o encima de una base
+- Óptima para retoques diarios, adecuado para llevar en el bolso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001GNBVPI/?tag=tolees-21)
