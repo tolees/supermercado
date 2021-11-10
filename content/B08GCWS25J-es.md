@@ -28,10 +28,10 @@ Tienes [AXE - AX Deospray para una sensación de frescura duradera Alaska 0% sal
 
 ℹ️:
 
-- Protección eficaz contra el olor corporal.
-- Axe Alaska – un toque de brisa ártica.
-- Diseño deportivo y seguro de sí mismo.
-- Sin sales de aluminio.
 - Axe Alaska - Desodorante en spray sin sales de aluminio, 150 ml
+- Axe Alaska – un toque de brisa ártica.
+- Sin sales de aluminio.
+- Diseño deportivo y seguro de sí mismo.
+- Protección eficaz contra el olor corporal.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08GCWS25J/?tag=tolees-21)

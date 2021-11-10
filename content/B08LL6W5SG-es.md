@@ -31,7 +31,7 @@ Tienes [AXE 1711702 3D Ambientador Negro  Negro](https://www.amazon.es/dp/B08LL6
 - Fácil colocación mediante un sistema de ganchos
 - Mantiene el frescor hasta 30 días
 - El aroma se libera gradualmente
-- Fragancia: un toque de sandía, romero y bergamota. Con notas adicionales de madera de cedro, musgo y pachulí
 - Diseño elegante y moderno
+- Fragancia: un toque de sandía, romero y bergamota. Con notas adicionales de madera de cedro, musgo y pachulí
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08LL6W5SG/?tag=tolees-21)
