@@ -28,13 +28,13 @@ Ahora mismo tienes [Pantene Pro-V Superalimento Champú  Acondicionador y Tratam
 
 🔎:
 
-- Los antioxidantes protegen el pelo de la rotura; los lípidos nutren para ayudar a mantener la integridad estructural del pelo
-- Testado por el Swiss Vitamin Institute
-- Champú, acondicionador y tratamiento 3 en 1 para pelo dañado
-- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
-- Sin aceites minerales y sin colorantes
-- Transforma el pelo debilitado
 - La mezcla Pro-V recupera la fortaleza del pelo contra los daños causados por el peinado
+- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
 - Aporta al pelo Nutrientes Pro-V activos para fortalecerlo desde el interior
+- Los antioxidantes protegen el pelo de la rotura; los lípidos nutren para ayudar a mantener la integridad estructural del pelo
+- Sin aceites minerales y sin colorantes
+- Testado por el Swiss Vitamin Institute
+- Transforma el pelo debilitado
+- Champú, acondicionador y tratamiento 3 en 1 para pelo dañado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LGCDRKJ/?tag=tolees-21)

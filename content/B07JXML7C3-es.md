@@ -28,8 +28,8 @@ En este momento está [Dove - Loción Corporal Piel Extra Seca  400 ml](https://
 
 🔎:
 
-- Fórmula efectiva y no grasa
-- Fórmula olea-nutritiva
 - Combina rica crema hidratante y aceite nutritivo corporal
+- Fórmula olea-nutritiva
+- Fórmula efectiva y no grasa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JXML7C3/?tag=tolees-21)

@@ -29,8 +29,8 @@ Tienes [Dove Original- Desodorante Roll On 2x 50 ml](https://www.amazon.es/dp/B0
 ℹ️:
 
 - Contiene 1/4 de crema hidratante
-- Apto para piel sensible
-- Dove original desodorante roll on 50ml
 - 48 horas de protección
+- Dove original desodorante roll on 50ml
+- Apto para piel sensible
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08695FCSD/?tag=tolees-21)

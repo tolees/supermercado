@@ -29,8 +29,8 @@ Está [Neutrogena Crema de Manos Reparadora para Grietas Fórmula Noruega  Rápi
 ℹ️:
 
 - La vaselina contenida hidrata y suaviza
-- Nutre, protege y repara manos secas y estropeadas
 - La dimeticona proporciona una absorción inmediata
+- Nutre, protege y repara manos secas y estropeadas
 - La fórmula contiene glicerina que nutre, repara y protege la piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IFGMALM/?tag=tolees-21)

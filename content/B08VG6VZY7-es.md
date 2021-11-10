@@ -28,10 +28,10 @@ Ahora mismo tienes [Colon Nenuco Detergente para la lavadora  adecuado para ropa
 
 🔎:
 
-- Detergente para lavadora en formato cápsula con fragancia Nenuco y acción todo en 1
+- Apto para ropa blanca y de color, no daña los tejidos y deja una fragancia fresca en tu ropa
+- Eficacia en agua fría y ciclos cortos
 - Limpieza profunda y extra frescor gracias al aroma característico de Nenuco
 - Las cápsulas de detergente para la ropa te permiten utilizar la dosis óptima para tu colada
-- Eficacia en agua fría y ciclos cortos
-- Apto para ropa blanca y de color, no daña los tejidos y deja una fragancia fresca en tu ropa
+- Detergente para lavadora en formato cápsula con fragancia Nenuco y acción todo en 1
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08VG6VZY7/?tag=tolees-21)
