@@ -28,10 +28,10 @@ Tienes [Chivas Regal 12 años Whisky Escocés Blending Kit - 350 ml](https://www
 
 ℹ️:
 
-- Disfruta de la variedad que ofrece este pack para probar a hacer diferentes mezclas de Whisky y experimentar las poibilidades que ofrece el Blending Kit de Chivas Regal 12 años.
+- Es un Whisky con un aroma de hierbas silvestres, brezo, miel y frutas. Se caracteriza por un color ámbar radiante y cálido
+- Se recomienda colocar las rodajas de manzana en el fondo del vaso y verter Whisky Chivas Regal 12 años, dejar reposar durante unos pocos minutos y disfrutar su intenso sabor
 - Es un Whisky Escocés de lujo superior, con una textura cremosa en el paladar y notas de miel, vainilla y manzana madura
 - Sorprende a tu padre con este Blending Kit exclusivo de Chivas Regal 12 por el Día del Padre.
-- Se recomienda colocar las rodajas de manzana en el fondo del vaso y verter Whisky Chivas Regal 12 años, dejar reposar durante unos pocos minutos y disfrutar su intenso sabor
-- Es un Whisky con un aroma de hierbas silvestres, brezo, miel y frutas. Se caracteriza por un color ámbar radiante y cálido
+- Disfruta de la variedad que ofrece este pack para probar a hacer diferentes mezclas de Whisky y experimentar las poibilidades que ofrece el Blending Kit de Chivas Regal 12 años.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07L5MTD5Y/?tag=tolees-21)
