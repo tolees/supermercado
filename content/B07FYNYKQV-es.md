@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FairytaleMM Figura Forma Horno Microonda al 0.00 % de descuento'
-date: 2021-10-17 06:45:32
+date: 2021-11-10 23:25:07
 image: 'https://m.media-amazon.com/images/I/41YeFC16O8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
