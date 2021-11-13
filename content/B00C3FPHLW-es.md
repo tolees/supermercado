@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rives Ginebra Especial Negra - 700 ml con un 17.93 % de descuento'
-date: 2021-11-12 17:25:07
+date: 2021-11-13 20:05:03
 image: 'https://m.media-amazon.com/images/I/317fbGP6yJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rives'
 buyurl: 'https://www.amazon.es/dp/B00C3FPHLW/?tag=tolees-21'
 descuento: '17.93'
-average: '17.5666666666667'
+average: '17.6071428571429'
 ---
 
 En este momento está [Rives Ginebra Especial Negra - 700 ml](https://www.amazon.es/dp/B00C3FPHLW/?tag=tolees-21) a 17.85 EUR (original: 21.75 EUR) (17.93 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Rives Ginebra Especial Negra - 700 ml](https://www.amazon
 
 🔎:
 
-- PRODUCTOR: Rives Pitman Sa
-- Olor: aromas limpios, suave complejidad, tonos de enebro
-- DETALLES DE ELABORACIÓN: elaborado con 11 botánicos, triple destilación
 - Sabor: equilibrio entre el alcohol y riqueza de matices; postgusto fresco y personal con predominio a almendras tostadas
+- DETALLES DE ELABORACIÓN: elaborado con 11 botánicos, triple destilación
+- Olor: aromas limpios, suave complejidad, tonos de enebro
 - Color: transparente
+- PRODUCTOR: Rives Pitman Sa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00C3FPHLW/?tag=tolees-21)
