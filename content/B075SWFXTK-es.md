@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 0.00 % en MOUSSEL Agua Fresca de Colonia  240 ml'
-date: 2021-11-10 21:28:41
+date: 2021-11-14 11:02:07
 image: 'https://m.media-amazon.com/images/I/41VWxWiwrYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MOUSSEL'
 buyurl: 'https://www.amazon.es/dp/B075SWFXTK/?tag=tolees-21'
 descuento: '0.00'
-average: '2.98918032786885'
+average: '3.00145161290322'
 ---
 
 Tienes [MOUSSEL Agua Fresca de Colonia  240 ml](https://www.amazon.es/dp/B075SWFXTK/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 3.75 EUR (original:  EUR) en el siguiente enlace!
