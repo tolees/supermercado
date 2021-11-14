@@ -28,10 +28,10 @@ Ahora mismo tienes [Sekey® Sombrilla 200 x 125cm Parasole para Terraza Jardín 
 
 🔎:
 
+- Eje soporte de dos piezas 28/32mm Ø
+- Diámetro de la sombrilla: 200x125cm, altura de la sombrilla: 235cm
+- La tela de la sombrilla está hecha de poliester; tejido: 100% poliester aprox. 160g/m², tejido con faldilla y bordeado.
 - Fácil de doblar gracias a una sólida junta rotatoria, provee también protección contra el sol cuando se ubica a una baja altura.
 - Fácil ensamble y desensamble, ahorro de espacio
-- Diámetro de la sombrilla: 200x125cm, altura de la sombrilla: 235cm
-- Eje soporte de dos piezas 28/32mm Ø
-- La tela de la sombrilla está hecha de poliester; tejido: 100% poliester aprox. 160g/m², tejido con faldilla y bordeado.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ESKXK72/?tag=tolees-21)

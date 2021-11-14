@@ -28,10 +28,10 @@ Tienes [L Oreal Paris Make-up Designer - L Oréal Paris  Pack de Máscara de Pes
 
 🔎:
 
-- Fórmula con aceite de camelia y orquídea negra que cubre las pestañas suavemente, Cepillo millonizador que milloniza y eleva las pestañas para un volumen definido pestaña a pestaña, Testado oftalmológicamente
-- Cierra el ojo y aplica la máscara de la raíz a la punta desde la parte exterior de las pestañas
-- Consigue una mirada con un volumen extremo en tus pestañas negro intenso para un look elegante y definido
 - Pack de dos máscaras de pestañas LOréal Paris Volume Million Lashes de color negro brillante para un volumen extremo y sin grumos para cautivar con la mirada
+- Consigue una mirada con un volumen extremo en tus pestañas negro intenso para un look elegante y definido
+- Cierra el ojo y aplica la máscara de la raíz a la punta desde la parte exterior de las pestañas
+- Fórmula con aceite de camelia y orquídea negra que cubre las pestañas suavemente, Cepillo millonizador que milloniza y eleva las pestañas para un volumen definido pestaña a pestaña, Testado oftalmológicamente
 - Contenido: 1 x Pack de 2 máscaras de pestañas LOréal Paris Volume Million Lashes Extra Black, Volumen extremo, Tono: Negro brillante, Cantidad: 2 x 10,7 ml
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L4NSHJ4/?tag=tolees-21)
