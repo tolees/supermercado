@@ -28,10 +28,10 @@ Está [L Oreal Paris Dermo Expertise - L Oréal Paris Age Perfect Golden Age  Lo
 
 ℹ️:
 
-- Resultados: Piel instantáneamente hidratada y más suavizada, Textura de la piel restablecida y refinada día tras día, Tono y elasticidad restaurados, Piel iluminada
-- Contenido: 1x LOréal Paris Age Perfect Golden Age, Loción Sérum, 125 ml
 - Fórmula enriquecida con Calcio con propiedades fortificantes que aporta consistencia y densidad a la piel, Micro-Perlas rosadas para una eficacia completa en pieles afinadas por la edad
 - Aplicar de 2 a 3 gotas por la mañana, después de la limpieza y antes del tratamiento de día, Simplemente presionando el rostro con las palmas de las manos, Golpear ligeramente para estimular la microcirculación
+- Contenido: 1x LOréal Paris Age Perfect Golden Age, Loción Sérum, 125 ml
 - Loción hidratante para potenciar la luminosidad del rostro y despertar incluso las pieles más apagadas
+- Resultados: Piel instantáneamente hidratada y más suavizada, Textura de la piel restablecida y refinada día tras día, Tono y elasticidad restaurados, Piel iluminada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01H5VO7E6/?tag=tolees-21)
