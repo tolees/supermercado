@@ -28,10 +28,10 @@ Tienes [Blanxart Tableta de Chocolate Negro Ecológico - Congo 82% Cacao 1 Unida
 
 🔎:
 
-- Chocolate negro de alto porcentaje de cacao
-- Chocolate ecológico, vegano y sin gluten
-- Single origins: elaborado con cacao procedente de monts de la lune (Congo), seleccionado por sus características organolépticas
 - Fabricación artesanal: preservamos las mejores virtudes del método artesano
+- Chocolate negro de alto porcentaje de cacao
+- Single origins: elaborado con cacao procedente de monts de la lune (Congo), seleccionado por sus características organolépticas
 - Bean to bar: proceso de elaboración realizado íntegramente en nuestras instalaciones, desde el tueste del grano de cacao hasta la finalización de la tableta
+- Chocolate ecológico, vegano y sin gluten
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0051WYEF4/?tag=tolees-21)

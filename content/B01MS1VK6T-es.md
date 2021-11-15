@@ -28,9 +28,9 @@ Está [Litoral - Patatas Riojana - Pack de 5 x 425 g](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Se puede preparar al microondas
-- Son unas patatas a la riojana
-- Es apto para una dieta sin gluten
 - Es un plato cocinado
+- Se puede preparar al microondas
+- Es apto para una dieta sin gluten
+- Son unas patatas a la riojana
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MS1VK6T/?tag=tolees-21)
