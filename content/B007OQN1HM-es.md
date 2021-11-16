@@ -28,9 +28,9 @@ Está [Helios Mermelada Extra Arándano - 340 gr](https://www.amazon.es/dp/B007O
 
 ℹ️:
 
-- Con un 60% de fruta
-- Sin lactosa
-- Sin conservantes
 - Sin gluten. Apto para celíacos
+- Con un 60% de fruta
+- Sin conservantes
+- Sin lactosa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B007OQN1HM/?tag=tolees-21)
