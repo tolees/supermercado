@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Charlie Y La Fábrica De Chocolate [DVD] al 26.94 % de descuento'
-date: 2021-11-15 01:11:04
+date: 2021-11-16 02:03:14
 image: 'https://m.media-amazon.com/images/I/51qwqSYNuoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JBFRQAG/?tag=tolees-21'
 descuento: '26.94'
-average: '9.01333333333332'
+average: '8.91199999999999'
 ---
 
 Está [Charlie Y La Fábrica De Chocolate [DVD]](https://www.amazon.es/dp/B01JBFRQAG/?tag=tolees-21) con 26.94 de descuento por 8.0 EUR (original: 10.95 EUR) en el siguiente enlace!
