@@ -28,10 +28,10 @@ Ahora mismo tienes [LUXFURNI Hollywood - Espejo de maquillaje vintage con 12 luc
 
 🔎:
 
-- [Recargable por USB] Alimentado por toma USB o banco de energía. La salida del adaptador debe ser de 5 V-2 A (el adaptador no está incluido); función de apagado automático de 15 minutos para ahorrar energía.
 - Tamaño grande: 48 cm de largo x 58 cm de alto x 5 cm de profundidad. Este espejo de tocador tiene un tamaño perfecto que te proporciona una vista superior perfecta.
-- Control táctil inteligente y función de memoria: solo tienes que pulsar o presionar los botones táctiles que pueden encender/apagar y encender la luz; la función de memoria mantiene tus luces como tu último uso.
+- [Recargable por USB] Alimentado por toma USB o banco de energía. La salida del adaptador debe ser de 5 V-2 A (el adaptador no está incluido); función de apagado automático de 15 minutos para ahorrar energía.
 - [12 bombillas LED y 3 modos de luces] El espejo cosmético iluminado proporciona un brillo de luz profesional, con luz cálida/luz de día/luz fría ajustes de tres tonos, brillo ajustable simplemente te ayuda a lograr un maquillaje impecable para varias ocasiones.
+- Control táctil inteligente y función de memoria: solo tienes que pulsar o presionar los botones táctiles que pueden encender/apagar y encender la luz; la función de memoria mantiene tus luces como tu último uso.
 - Rotación de 90 ° El diseño ergonómico te permite ajustar el ángulo del espejo de acuerdo a tus preferencias con tanta facilidad. Ponerse en tu maquillaje nunca ha sido tan cómodo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083QHJJQ7/?tag=tolees-21)

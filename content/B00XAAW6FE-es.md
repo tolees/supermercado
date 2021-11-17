@@ -28,10 +28,10 @@ Está [Albo Sardinas Picantonas  85g](https://www.amazon.es/dp/B00XAAW6FE/?tag=t
 
 ℹ️:
 
+- Dunekacke & Wilms Nachf. GmbH & Co. KG, 22041 Hamburgo.
 - Fabricado en España.
 - Método de captura: cintura.
-- Dunekacke & Wilms Nachf. GmbH & Co. KG, 22041 Hamburgo.
-- Albo desde 1869 – Sardinas en salsa picante.
 - Zona de captura: FAO 27.
+- Albo desde 1869 – Sardinas en salsa picante.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XAAW6FE/?tag=tolees-21)
