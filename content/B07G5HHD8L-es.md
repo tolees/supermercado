@@ -28,10 +28,10 @@ En este momento está [Baby Dove - Dove Baby Hidratación Profunda Gel de Baño 
 
 🔎:
 
-- Sin lágrimas
-- Fórmula hipoalergénica y neutra PH
 - Fragancia desarrollada para la piel delicada del bebé
+- Fórmula hipoalergénica y neutra PH
 - Testado por oftalmólogos, dermatólogos y pediatras
+- Sin lágrimas
 - Ayuda a retener la hidratación en la piel del bebé hasta 24 horas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G5HHD8L/?tag=tolees-21)
