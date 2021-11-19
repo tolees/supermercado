@@ -28,11 +28,11 @@ Tienes [Jaume Serra Brut Nature Reserva - Cava Premium - 6 Botella x 750 ml](htt
 
 🔎:
 
+- Apariencia: Color pajizo con burbuja fina y abundante, de aspecto limpio y brillante
 - Aroma: Destacan los aromas afrutados de la manzana, pera y membrillo, combinados con notas de brioche y miel
+- Gusto: Agradable en el paladar; fresco, equilibrado y con un final largo y persistente
 - Maridaje: Este cava es adecuado para disfrutarlo solo o acompañado de carnes blancas, marisco y pescado; por ejemplo: roastbeef con alcaparras, arroz a banda o conejo a la brasa con alioli
 - Tipo de uva: Elaborado a partir de una selección de variedades de uva Chardonnay, Xarel-lo y Macabeo, siguiendo un proceso de maduración de 15 meses bajo un estricto control de temperatura
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo frío, entre 4 y 6 ºC y conservarlo en un lugar fresco y seco
-- Gusto: Agradable en el paladar; fresco, equilibrado y con un final largo y persistente
-- Apariencia: Color pajizo con burbuja fina y abundante, de aspecto limpio y brillante
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01ET9VGXM/?tag=tolees-21)
