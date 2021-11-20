@@ -28,8 +28,8 @@ Ahora mismo tienes [Huesitos Tableta de Chocolate con Leche  125g](https://www.a
 
 🔎:
 
-- Estas tabletas pretenden enamorar tanto al público más familiar como a las generaciones jóvenes
-- El snack típico de la infancia
 - Creado con un molde único
+- El snack típico de la infancia
+- Estas tabletas pretenden enamorar tanto al público más familiar como a las generaciones jóvenes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B09GVPND2T/?tag=tolees-21)

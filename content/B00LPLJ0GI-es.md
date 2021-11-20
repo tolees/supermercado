@@ -28,8 +28,8 @@ Tienes [Instituto Español Desodorante Roll On de Aloe Vera - 75 ml](https://www
 
 ℹ️:
 
+- Tipo de producto: Desodorante roll on
 - Género: Unisex Adulto
 - Marca: Instituto Español
-- Tipo de producto: Desodorante roll on
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LPLJ0GI/?tag=tolees-21)
