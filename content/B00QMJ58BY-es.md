@@ -28,9 +28,9 @@ En este momento está [KATIVA Argan Oil Champú Protector - 250 ml](https://www.
 
 🔎:
 
-- Con aceite de argán, vitamina E, antioxidantes y omega 3 y 9
 - Da brillo y flexibilidad
 - Champú hidratante y regenerador, para cabellos secos, dañados o tratados químicamente
 - Protege el cabello del daño ambiental
+- Con aceite de argán, vitamina E, antioxidantes y omega 3 y 9
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00QMJ58BY/?tag=tolees-21)

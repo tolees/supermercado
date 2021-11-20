@@ -28,11 +28,11 @@ Tienes [ElPozo Legado Ibérico Maletín De Jamón De Cebo Ibérico  50% Raza Ib�
 
 🔎:
 
-- 15 sobres de 60 gramos cada uno (900 gramos total)
-- Alto oleico, Proteínas de alta calidad
-- Sin Gluten, Sin Lactosa
-- Sobres envasados al vacío que contribuyen a una mejor conservación del sabor.
 - Jamón de Cebo Ibérico, 50% raza ibérica (Certificado por CERTICALIDAD S.L.)
+- Sobres envasados al vacío que contribuyen a una mejor conservación del sabor.
+- 15 sobres de 60 gramos cada uno (900 gramos total)
+- Sin Gluten, Sin Lactosa
 - Cortado en medias lonchas con separador, listo para consumir.
+- Alto oleico, Proteínas de alta calidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HRN69XF/?tag=tolees-21)

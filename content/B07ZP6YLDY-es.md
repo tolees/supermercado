@@ -28,9 +28,9 @@ Está [1880 - Polvorones de Almendra com Aceite de Oliva  Calidad Suprema Típic
 
 ℹ️:
 
-- Receta tradicional- apostamos por respetar las recetas, los valores y los sabores tradicionales
-- País de origen: España
 - Placer en familia- disfruta de nuestros dulces y turrones tradicionales en cualquier momento y lugar,1880 para ti y tu familia
 - Completa selección 1880 de turrones clásicos que lo convierten en un regalo navideño
+- País de origen: España
+- Receta tradicional- apostamos por respetar las recetas, los valores y los sabores tradicionales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZP6YLDY/?tag=tolees-21)

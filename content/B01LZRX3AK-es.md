@@ -28,11 +28,11 @@ En este momento está [Hellmann s Gran Mayonesa Tarro 825ml - Pack de 2](https:/
 
 🔎:
 
-- Nº1 del mundo en ventas (marca líder en volumen de ventas. Fuente: consultora externa, Septiembre 2018)
-- Ingredientes de gran calidad, sabor inconfundible
-- Con aceite sostenible
-- Gran Mayonesa Hellmanns 825ml
 - Una mayonesa hecha con huevos de calidad y vinagre de vino blanco
 - Apta para vegetarianos y sin gluten
+- Nº1 del mundo en ventas (marca líder en volumen de ventas. Fuente: consultora externa, Septiembre 2018)
+- Con aceite sostenible
+- Gran Mayonesa Hellmanns 825ml
+- Ingredientes de gran calidad, sabor inconfundible
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LZRX3AK/?tag=tolees-21)
