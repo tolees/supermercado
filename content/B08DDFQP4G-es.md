@@ -30,11 +30,11 @@ Tienes [Pantene Champu  Repara Y Protege  2 x 1 litro  Como Vitaminas Para El Ca
 
 - Previene la aparición de puntas abiertas
 - Devuelve la fuerza al pelo; repara el pelo dañado causado por el peinado; PELO 100% MÁS FUERTE
-- PANTENE REPARA Y PROTEGE: champú para pelo seco y dañado
+- 0% sin siliconas, 0% sin aceites minerales, 0% sin colorantes, PELO 100% MÁS FUERTE
 - Testado por el instituto suizo de la vitamina
 - Sin siliconas, sin aceites minerales y sin colorantes
-- 0% sin siliconas, 0% sin aceites minerales, 0% sin colorantes, PELO 100% MÁS FUERTE
 - Hace que el pelo tenga un aspecto brillante, sano y suave
 - Botella 100% reciclable, hecha con un 25% de plástico reciclado (excepto el tapón)
+- PANTENE REPARA Y PROTEGE: champú para pelo seco y dañado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DDFQP4G/?tag=tolees-21)
