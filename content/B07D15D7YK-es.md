@@ -28,11 +28,11 @@ Ahora mismo tienes [Pata Negra Tempranillo Premium - Vino Tinto D.O. Valdepeñas
 
 🔎:
 
-- Consumo: Para disfrutar de sus cualidades óptimas y temperatura óptima, recomendamos su consumo entre 14ºC y 16ºC
 - Tipo de uva: Elaborado con una selección de uvas de la variedad Tempranillo, sigue una cuidada elaboración de 3 meses de crianza en barrica de roble americano
 - Apariencia: Vino tinto de color rubí y buena estructura
+- Consumo: Para disfrutar de sus cualidades óptimas y temperatura óptima, recomendamos su consumo entre 14ºC y 16ºC
+- Maridaje: Es adecuado para acompañar carnes rojas asadas, lasaña y quesos curados
 - Gusto: Se trata de un vino equilibrado y agradable en boca es un Roble envolvente y con un largo postgusto
 - Aroma: En nariz sobresalen en un primer momento los aromas varietales complementados con un tono de crianza, a vainilla y ahumados
-- Maridaje: Es adecuado para acompañar carnes rojas asadas, lasaña y quesos curados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D15D7YK/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Micolor Detergente Gel Fresh - 30 Lavados](https://www.amazo
 
 🔎:
 
-- Sin colorantes añadidos.
 - Revive y Protege: Limpia en Profundidad y Protege los Colores.
-- Evita las transferencias: Previene que las Partículas de Color sueltas en el agua se impregnen de nuevo en la ropa decolorándola.
 - Recupera los Colores: Alisa las Fibras de modo que los Colores vuelven a Brillar. Sin colorantes añadidos.
+- Evita las transferencias: Previene que las Partículas de Color sueltas en el agua se impregnen de nuevo en la ropa decolorándola.
 - Experto en Limpieza: Experto en mantener y en eliminar la suciedad de la ropa.
+- Sin colorantes añadidos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082PGSHQW/?tag=tolees-21)
