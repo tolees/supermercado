@@ -29,10 +29,10 @@ Tienes [Bialetti Gioia Acchina de café expreso para cápsulas de Aluminio  Vari
 ℹ️:
 
 - Funciona exclusivamente con cápsulas originales Bialetti Caffè dItalia de aluminio
+- Creada para quienes quieren disfrutar también en casa del auténtico expreso italiano. Pequeña, elegante y supercompacta, perfecta para cualquier cocina. Automática: elige tu café largo o corto y personaliza la cantidad que se sirve en la taza con el Flow Meter
+- Compacta y con gran capacidad, pequeña y perfecta para cualquier espacio, equipada con un depósito de 0,5 litros y un cajón para hasta 8 cápsulas
+- - -
 - El café expreso como en el bar, cremoso y homogéneo, gracias a la bomba de 20 bares El sistema Thermoblock garantiza la mejor temperatura para el café en todo momento
 - Líneas elegantes, atención al detalle y soporte de taza extraíble
-- Creada para quienes quieren disfrutar también en casa del auténtico expreso italiano. Pequeña, elegante y supercompacta, perfecta para cualquier cocina. Automática: elige tu café largo o corto y personaliza la cantidad que se sirve en la taza con el Flow Meter
-- - -
-- Compacta y con gran capacidad, pequeña y perfecta para cualquier espacio, equipada con un depósito de 0,5 litros y un cajón para hasta 8 cápsulas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08WC9DYY5/?tag=tolees-21)
