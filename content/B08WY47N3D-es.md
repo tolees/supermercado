@@ -28,11 +28,11 @@ En este momento está [Dove Cuida y Protege Gel de Ducha Antibacteriano 750ml - 
 
 🔎:
 
+- Gel de ducha con ingredientes naturalmente presentes en la piel
+- Gel de baño formulado con ingrediente antibacteriano que elimina 99,9% las bacterias
+- Gel de ducha indicado para todo tipo de pieles
+- Dermatológicamente testado
 - Gel de ducha que limpia, hidrata y protege la piel instantáneamente
 - Gel de ducha hidratante con un efecto de larga duración
-- Gel de ducha con ingredientes naturalmente presentes en la piel
-- Dermatológicamente testado
-- Gel de ducha indicado para todo tipo de pieles
-- Gel de baño formulado con ingrediente antibacteriano que elimina 99,9% las bacterias
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WY47N3D/?tag=tolees-21)
