@@ -28,9 +28,9 @@ Ahora mismo tienes [Southern Comfort® - Southern Comfort Whisky - 1 x 1 l](http
 
 🔎:
 
+- Alcohol: 35%
 - Servir frío mezclado con cola
 - Producto de calidad
 - Notas de frutos rojos frescos y melocotones, complementados con acentos de vainilla y cáscara de naranja
-- Alcohol: 35%
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01FSKN7AQ/?tag=tolees-21)
