@@ -28,10 +28,10 @@ Está [Suchard - Turrón Chocolate Negro con Naranja  260 g](https://www.amazon.
 
 ℹ️:
 
+- País de origen: Austria
 - Ingredientes: turrón, chocolate negro, naranja, almendras, avellanas, arroz inflado, leche
 - Conservar en lugar fresco
-- Alérgenos: Leche, Avellanas, Almendras, Gluten, Soja, Trigo
 - Suchard es una marca que ayuda a mejorar las condiciones de vida y prácticas agrícolas de los agricultores de Cacao Cocoa Life
-- País de origen: Austria
+- Alérgenos: Leche, Avellanas, Almendras, Gluten, Soja, Trigo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MDNFKDP/?tag=tolees-21)
