@@ -28,10 +28,10 @@ En este momento está [Full Marks Champú Post-Tratamiento Piojos  Limpia el cab
 
 🔎:
 
-- CHAMPÚ POST TRATAMIENTO: Recomendado tras utilizar Loción/Spray Antipiojos FullMarks
 - ELIMINA RESIDUOS Y LIMPIA EL CABELLO: Limpia el cabello, eliminando los residuos grasos de la Loción/Spray Antipiojos FullMarks
-- USO A PARTIR DE 3 AÑOS: Puede ser utilizado para la higiene de todos los miembros de la familia mayores de tres años
 - FACILITA EL DESPRENDIMIENTO DE LIENDRES: Facilita el desprendimiento de liendres y piojos muertos, con ayuda de la lendrera
+- CHAMPÚ POST TRATAMIENTO: Recomendado tras utilizar Loción/Spray Antipiojos FullMarks
 - BUEN OLOR: Agradable olor a frutas y extractos naturales
+- USO A PARTIR DE 3 AÑOS: Puede ser utilizado para la higiene de todos los miembros de la familia mayores de tres años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00WIBJA78/?tag=tolees-21)
