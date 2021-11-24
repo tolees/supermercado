@@ -28,8 +28,8 @@ Tienes [Haribo  Golosinas Cerezas 100 g](https://www.amazon.es/dp/B0883SG9PL/?ta
 
 🔎:
 
-- Sabor cereza
-- Bolsa de 100g
 - Caramelos de goma
+- Bolsa de 100g
+- Sabor cereza
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0883SG9PL/?tag=tolees-21)
