@@ -28,10 +28,10 @@ En este momento está [L Or Espresso Café Onyx Intensidad 12 - 100 cápsulas de
 
 🔎:
 
-- El intenso ONYX es una oda a la máxima esencia del puro espresso: un tostado intenso de granos de café, finamente molidos para revelar una mezcla profunda y especiada junto con un espléndido toque amargo a cacao.
+- Cápsulas compatibles para máquinas Nespresso(R) *.(R)*La marca registrada utilizada es de un tercero, no relacionada con Jacobs Douwe Egberts
+- 10 cápsulas de 5,2gr (Peso neto: 52g) 100 bebidas en total
 - INTENSIDAD 12: INTENSO - ESPECIADO
 - Ristretto (25ml) / Espresso (40ml)
-- 10 cápsulas de 5,2gr (Peso neto: 52g) 100 bebidas en total
-- Cápsulas compatibles para máquinas Nespresso(R) *.(R)*La marca registrada utilizada es de un tercero, no relacionada con Jacobs Douwe Egberts
+- El intenso ONYX es una oda a la máxima esencia del puro espresso: un tostado intenso de granos de café, finamente molidos para revelar una mezcla profunda y especiada junto con un espléndido toque amargo a cacao.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082VWJD8L/?tag=tolees-21)
