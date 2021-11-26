@@ -29,8 +29,8 @@ En este momento está [Nestlé Nan Supremepro 3 Leche de Crecimiento en Polvo  3
 🔎:
 
 - Contiene ingredientes que contribuyen a la función normal de su sistema inmunitario: Zinc, Hierro y Vitaminas A, C y D
-- Desde los 12 meses
-- sin aceite de palma
 - 100 % lactosa y sin azucares añadidos
+- sin aceite de palma
+- Desde los 12 meses
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HK2W8GV/?tag=tolees-21)

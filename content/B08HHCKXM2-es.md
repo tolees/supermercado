@@ -28,9 +28,9 @@ Ahora mismo tienes [Nestlé Nan Optipro 2 Leche de Continuación en Polvo  3 x 8
 
 🔎:
 
-- Alérgenos: leche, lactosa, soja y pescado
 - sin aceite de palma
-- Leche de continuación para bebés
+- Alérgenos: leche, lactosa, soja y pescado
 - A partir de los 6 meses
+- Leche de continuación para bebés
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HHCKXM2/?tag=tolees-21)

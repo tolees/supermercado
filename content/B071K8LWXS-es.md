@@ -28,10 +28,10 @@ En este momento está [FRHOME - 96 Cápsulas de café compatibles con maquinas D
 
 🔎:
 
-- Paquete de 96 cápsulas compatible Nescafé Dolce Gusto surtidos
-- Un recorrido por los diferentes tipos de café para todos los gustos
 - 6 mezclas diferentes con diferentes sabores e intensidades, compatibles con todas las máquinas de café Nescafé Dolce Gusto
-- El paquete contiene 6 paquetes de 16 cápsulas de café cada Napoli, Roma, Trieste, Firenze, Venezia y descafeinado
+- Un recorrido por los diferentes tipos de café para todos los gustos
+- Paquete de 96 cápsulas compatible Nescafé Dolce Gusto surtidos
 - Mezcla estudiada por los maestros tostadores desde 1870
+- El paquete contiene 6 paquetes de 16 cápsulas de café cada Napoli, Roma, Trieste, Firenze, Venezia y descafeinado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071K8LWXS/?tag=tolees-21)
