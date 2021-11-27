@@ -29,9 +29,9 @@ Está [Helios Tomate Frito Mediterraneo con Aceite de Oliva Virgen Extra  560g](
 ℹ️:
 
 - Sin lactosa
-- Sin gluten
-- Apto para celiacos
 - Realizado con tomate frito y aceite de oliva
 - Sin conservantes
+- Sin gluten
+- Apto para celiacos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01C8WI71G/?tag=tolees-21)
