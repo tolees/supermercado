@@ -28,10 +28,10 @@ En este momento está [Cola Cao - ColaCao Original: con Cacao Natural - Formato 
 
 🔎:
 
+- Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente
+- Alérgenos: contiene trigo y cebada. mantener en lugar fresco y seco.
 - El colacao de siempre, eso tan tuyo. la mezcla de sus ingredientes se realiza de manera natural y sin añadir aditivos. ideal para cualquier momento: desayuno, merienda, cena o como snack.
 - Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos.
 - 507 raciones en su estuche de 7,1kg (contiene 4 bolsas).
-- Alérgenos: contiene trigo y cebada. mantener en lugar fresco y seco.
-- Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083KHCRMB/?tag=tolees-21)

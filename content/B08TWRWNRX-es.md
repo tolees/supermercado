@@ -28,9 +28,9 @@ En este momento está [Olaplex No. 6 Suavizante de enlaces capilares](https://ww
 
 🔎:
 
+- Hidrata y acelera los tiempos de secado
 - Proporciona fuerza y elasticidad al cabello
 - Adecuado para cualquier tipo de cabello
 - Elimina el frizz y los cabellos sueltos
-- Hidrata y acelera los tiempos de secado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TWRWNRX/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Café FORTALEZA - Cápsulas de Café Etiopia Compatibles 
 
 🔎:
 
-- País de origen: España
-- Cápsulas de café compatibles con el sistema Dolce Gusto
 - Recomendamos guardar estas cápsulas de café en un lugar fresco, seco y protegido del sol.
+- País de origen: España
 - Café natural en cápsulas molido 100% arábica.
+- Cápsulas de café compatibles con el sistema Dolce Gusto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082VTW3QB/?tag=tolees-21)
