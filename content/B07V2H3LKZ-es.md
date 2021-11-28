@@ -28,10 +28,10 @@ En este momento está [Iberitos - 18 Monodosis de Tomate Natural con Aceite de O
 
 🔎:
 
-- 18 monodosis de tomate natural, aceite de oliva virgen extra y ajo para consumo directo en ensaladas u otras preparaciones o para untar en tostadas y bocadillos
 - Tomate natural, aceite de oliva virgen extra y ajo de Iberitos | Fabricado en España
 - Formato - monodosis
-- Producto elaborado de forma artesanal y listo para consumir
 - No contiene gluten | No contiene OGM | No contiene alérgenos
+- 18 monodosis de tomate natural, aceite de oliva virgen extra y ajo para consumo directo en ensaladas u otras preparaciones o para untar en tostadas y bocadillos
+- Producto elaborado de forma artesanal y listo para consumir
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07V2H3LKZ/?tag=tolees-21)
