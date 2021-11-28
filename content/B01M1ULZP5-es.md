@@ -28,9 +28,9 @@ Tienes [Whole Earth Refresco de Jengibre  24 x 330ml  Bio ](https://www.amazon.e
 
 ℹ️:
 
-- Delicioso refresco de jengibre
-- Vegano, sin gluten, sin leche, sin lactosa, sin huevo, sin azúcar añadido
-- De cultivo ecológico
 - Se recomienda tomar muy frío
+- De cultivo ecológico
+- Vegano, sin gluten, sin leche, sin lactosa, sin huevo, sin azúcar añadido
+- Delicioso refresco de jengibre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M1ULZP5/?tag=tolees-21)
