@@ -29,10 +29,10 @@ En este momento está [Ginebra Premium nacional Nordés Gin - Pack Exclusivo Vas
 🔎:
 
 - Nordés es una ginebra gallega que, como el viento que inspira su nombre, viene a refrescar el mundo de las ginebras premium
-- Graduación: 40º
-- Su receta única, utiliza además 11 botánicos naturales , 6 de ellos gallegos, que le otorgan su carácter fresco y equilibrado.
-- Capacidad: 70cl
 - Uno de los secretos de nordés reside en la uva albariño, corazón y alma de su destilado.
+- Capacidad: 70cl
+- Su receta única, utiliza además 11 botánicos naturales , 6 de ellos gallegos, que le otorgan su carácter fresco y equilibrado.
 - Como servir: se recomienda tomar nordes en gin tonic, con tonica neutra y decorado con una brocheta de uva blanca para resaltar los aromas propios de la ginebra.
+- Graduación: 40º
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WMT94H8/?tag=tolees-21)

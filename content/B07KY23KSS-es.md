@@ -28,9 +28,9 @@ En este momento está [Colgate Triple Acción Pasta de Dientes  75ml](https://ww
 
 🔎:
 
-- Protección anticaries probada
 - Siéntete cómodo con aliento fresco
 - Pasta de dientes con micropartículas pulidoras para dientes más blancos
 - Elimina las manchas de la superficie
+- Protección anticaries probada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KY23KSS/?tag=tolees-21)
