@@ -29,9 +29,9 @@ Está [REVITALE - Jabón exfoliante con ácido salicílico poro exfoliante  luch
 ℹ️:
 
 - Especialmente formulado para suavizar los callos y alisar la piel áspera.
-- Revitale Salicylic Acid Scrub Soap contiene granos de albaricoque que trabajan con el jabón para limpiar a fondo los aceites y las toxinas excesivos que conducen a los brotes de acné.
 - Deja la piel sintiéndose completamente limpia, sin aceite y refrescada.
-- Exfoliante de poros, lucha contra el acné, piel suavizante, antimanchas, elimina las verrugas
 - Ayuda a prevenir las manchas de acné al destapar la piel congestionada.
+- Revitale Salicylic Acid Scrub Soap contiene granos de albaricoque que trabajan con el jabón para limpiar a fondo los aceites y las toxinas excesivos que conducen a los brotes de acné.
+- Exfoliante de poros, lucha contra el acné, piel suavizante, antimanchas, elimina las verrugas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XW6GCD6/?tag=tolees-21)

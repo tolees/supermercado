@@ -28,10 +28,10 @@ Ahora mismo tienes [Cafés Baqué - 10 Capsulas Compatibles Dolce Gusto. Espress
 
 🔎:
 
-- Cafe espresso con crema, cuerpo y sabor intenso con agradables notas a café tostado
+- Nescafe dolce gusto capsulas compatibles. Café molido de tueste natural
 - Contiene 10 capsulas
 - Intensidad 8/10
-- Nescafe dolce gusto capsulas compatibles. Café molido de tueste natural
 - Sin alérgenos
+- Cafe espresso con crema, cuerpo y sabor intenso con agradables notas a café tostado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01HTGX3E2/?tag=tolees-21)

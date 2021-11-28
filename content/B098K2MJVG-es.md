@@ -28,10 +28,10 @@ Ahora mismo tienes [Colgate Triple Acción  Pasta de Dientes con Flúor  Protecc
 
 🔎:
 
-- Ayuda a eliminar las manchas de la superficie: Consigue dientes más blancos
-- Sabor menta original
 - Ayuda a prevenir la caries: Protección anticaries probada
-- Aliento fresco: Previene el mal aliento
+- Sabor menta original
+- Ayuda a eliminar las manchas de la superficie: Consigue dientes más blancos
 - Cuidado avanzado: Pasta de dientes con flúor que aporta un triple beneficio
+- Aliento fresco: Previene el mal aliento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B098K2MJVG/?tag=tolees-21)
