@@ -28,9 +28,9 @@ Está [Weider Mega Mass 4000 Sabor Chocolate  4000 g . 69% de hidratos.Enriqueci
 
 ℹ️:
 
-- Contenido del paquete: una unidad
-- Marca: Weider
 - Complemento nutricional clínicamente testado
+- Marca: Weider
+- Contenido del paquete: una unidad
 - Convierte el entrenamiento en tu forma de vida
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0762XPSM1/?tag=tolees-21)
