@@ -28,13 +28,13 @@ En este momento está [Heinz Judías cocidas en Salsa de Tomate lata 415g](https
 
 🔎:
 
-- Una vez abierto conservar en frigorífico en un envase cerrado y consumir en un plazo de 2 días
-- Apto para veganos y vegetarianos
-- Judías en deliciosa salsa de tomate
 - Alubias (51%), tomate (34%), agua, azúcar, almidón modificado de maíz, sal, vinagre de alcohol, especias y plantas aromáticas
-- Sin colorantes, saborizantes ni conservantes artificiales
+- Apto para veganos y vegetarianos
 - Alérgenos: Legumbres, Maíz, Cebolla
 - Sin Gluten
+- Sin colorantes, saborizantes ni conservantes artificiales
+- Judías en deliciosa salsa de tomate
 - Naturalmente alto en fibra y proteína
+- Una vez abierto conservar en frigorífico en un envase cerrado y consumir en un plazo de 2 días
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B015O5F8OS/?tag=tolees-21)
