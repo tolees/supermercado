@@ -28,10 +28,10 @@ En este momento está [Chupa Chups Original Caramelo con Palo  de Sabores Variad
 
 🔎:
 
+- No contiene gluten
+- Con ingredientes de la mejor calidad
 - Práctico e higiénico
 - Ideal para cualquier ocasión y evento, para compartir y regalar
-- No contiene gluten
 - Bolsa de caramelos con palo de sabores surtidos
-- Con ingredientes de la mejor calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JYC5XT3/?tag=tolees-21)

@@ -29,7 +29,7 @@ En este momento está [Axe - Dark Temptation - Gel de ducha refrescante - 400 ml
 🔎:
 
 - Contiene 400 ml
-- De la marca Axe
 - Este producto está indicado para hombres
+- De la marca Axe
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YQ99H8G/?tag=tolees-21)

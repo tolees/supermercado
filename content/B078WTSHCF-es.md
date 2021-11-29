@@ -30,8 +30,8 @@ En este momento está [Finish Powerball All in 1 Max - Pastillas para el lavavaj
 
 - LIMPIEZA POTENTE A LA PRIMERA en tu vajilla
 - EFICAZ FRENTE A LAS MANCHAS DIFÍCILES gracias a su tecnología powerball, es eficaz incluso con el agua más dura
-- PASTILLAS PARA EL LAVAVAJILLAS todo en uno
 - FINISH MARCA RECOMENDADA por los principales fabricantes de lavavajillas
 - ACCIÓN DESENGRASANTE para eliminar los restos de comida más incrustados en la vajilla incluso en agua fría
+- PASTILLAS PARA EL LAVAVAJILLAS todo en uno
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WTSHCF/?tag=tolees-21)

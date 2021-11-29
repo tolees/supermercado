@@ -31,7 +31,7 @@ Ahora mismo tienes [Scottex Fresh Papel Higiénico Húmedo - 12 packs x 38  456 
 - Frescor e higiene
 - Enriquecido con vitamina E y PH neutro
 - Scottex respetan el medio ambiente, siendo muchos de ellos producidos en bosques certificados
-- Desechable por el WC
 - Complemento de tu Scottex seco para su higiene
+- Desechable por el WC
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CCWCNFR/?tag=tolees-21)
