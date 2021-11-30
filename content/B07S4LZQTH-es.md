@@ -28,10 +28,10 @@ Tienes [Martini Vermouth Premium Riserva Ambrato con Canister - 750 ml](https://
 
 🔎:
 
-- En los bellos campos de Pancalieri, los maestros herbolarios recolectan la manzanilla romana necesaria para crear el equilibrio entre dulce y amargo
 - Disfruta los sabores de Ambrato con una sencilla mezcla con tónica (mitad/mitad). Áñadele hielo y piel de limón
-- Lata de regalo
 - Más de 150 años de experiencia. Un nuevo Vermouth di Torino, que nos remonta a los tiempos de la artesanía local con su sabia combinación de hierbas aromáticas y especias
+- Lata de regalo
 - Ambrato, es un estilo de vermú di Torino que tiene un cuerpo suave pero consistente, ligeramente amargo y floral, que te deja un último sabor a miel
+- En los bellos campos de Pancalieri, los maestros herbolarios recolectan la manzanilla romana necesaria para crear el equilibrio entre dulce y amargo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S4LZQTH/?tag=tolees-21)

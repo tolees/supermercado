@@ -28,10 +28,10 @@ Ahora mismo tienes [MÄSER 931900 Serie Nottingham Vintage - Juego de tazas de c
 
 🔎:
 
-- Como toda la colección Nottingham, todas las piezas de este juego de tazas de café son aptas para lavavajillas y microondas
-- Este juego de 4 para tu café se puede complementar perfectamente con otros servicios de la serie "Nottingham" de la tradicional marca austriaca MÄSER
 - Gracias al esmalte reactivo aplicado a mano y a las formas orgánicas de los platillos (sin bordes redondeados), cada taza y cada platillo es un ejemplar único
 - El juego de líneas en espiral en color gris sobre el barniz base beige y los bordes marrones mate dan a este juego de tazas de la colección "Nottingham" un diseño retro moderno y discreto
 - Este juego de tazas de 8 piezas con platillos de aspecto vintage está hecho de gres de alta calidad compuesto por 4 tazas de café o té (220 ml, 9 cm de diámetro) y 4 platillos (15,5 cm de diámetro)
+- Este juego de 4 para tu café se puede complementar perfectamente con otros servicios de la serie "Nottingham" de la tradicional marca austriaca MÄSER
+- Como toda la colección Nottingham, todas las piezas de este juego de tazas de café son aptas para lavavajillas y microondas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08WWLY4V7/?tag=tolees-21)
