@@ -29,7 +29,7 @@ Ahora mismo tienes [Gaggia Viva Style - Máquina de café  Negro  20 x 29 7 x 26
 🔎:
 
 - Depósito de agua Integrado y extraíble
-- Accesorio Cappuccino/Agua Caliente: Espumador de leche
 - Soporte del filtro Bajo presión "Crema Perfecta"
+- Accesorio Cappuccino/Agua Caliente: Espumador de leche
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B3RPKD7/?tag=tolees-21)
