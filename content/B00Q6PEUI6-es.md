@@ -28,10 +28,10 @@ Está [HEAVENLY SWEETS - Heavenly Cesta de Dulces y Chocolate Americanos - Set d
 
 ℹ️:
 
-- 🍫 BEST BEFORE DATE – END of JANUARY 2022
 - 🍫 ANTOJO MERECIDO - No ofrecemos dulces comunes. Desde Nerds hasta Reeses, nuestra cesta está repleta de dulces y chocolates clásicos de los Estados Unidos amados por familias de todo el mundo.
+- 🍫 DELICIA QUE VALE LA PENA - ¡Buen ánimo asegurado! Hecho para toda ocasión, el set de regalo de caramelos retro y chocolate es perfecto para Semana Santa, Navidad, San Valentín cumpleaños y bodas.
 - 🍫 FELIZ CON UNA CAJA! - Ansioso por esa energía que viene con un subidón de azúcar? Nuestra caja de dulces y chocolates que inducen a la dopamina te trae suculentas alegrías y delicias amargas.
 - 🍫 ORIGINAL Y NOSTÁLGICA - Nuestras cajas de caramelos americanas te da el encanto con sus vibras retro vintage y vanguardistas. Es elegante sin ser llamativa. ¡Nunca querrás tirarla a la basura!
-- 🍫 DELICIA QUE VALE LA PENA - ¡Buen ánimo asegurado! Hecho para toda ocasión, el set de regalo de caramelos retro y chocolate es perfecto para Semana Santa, Navidad, San Valentín cumpleaños y bodas.
+- 🍫 BEST BEFORE DATE – END of JANUARY 2022
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00Q6PEUI6/?tag=tolees-21)
