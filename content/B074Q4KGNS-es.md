@@ -28,10 +28,10 @@ Tienes [Garnier Fructis Nutri Repair Butter Champú Pelo Muy Seco y Dañado - 36
 
 🔎:
 
-- El Compromiso Fructis: fórmulas testadas bajo control dermatológico, envases con un 50% de plástico reciclado, 100% reciclables y producidos en fábricas comprometidas con el desarrollo sostenible
-- El champú Fructis Nutri Repair Butter deja tu pelo nutrido y suave desde el interior consiguiendo un cabello suelto y brillante sin apelmazar
-- Aplicar sobre cabello mojado, masajear suavemente el cuero cabelludo y después aclarar; En caso de contacto con los ojos, lávense inmediata y abundantemente con agua
-- Formulado con manteca de karité, 3-glyceride + 3 aceites: oliva, aguacate y karité
 - 360 ml
+- El Compromiso Fructis: fórmulas testadas bajo control dermatológico, envases con un 50% de plástico reciclado, 100% reciclables y producidos en fábricas comprometidas con el desarrollo sostenible
+- Formulado con manteca de karité, 3-glyceride + 3 aceites: oliva, aguacate y karité
+- Aplicar sobre cabello mojado, masajear suavemente el cuero cabelludo y después aclarar; En caso de contacto con los ojos, lávense inmediata y abundantemente con agua
+- El champú Fructis Nutri Repair Butter deja tu pelo nutrido y suave desde el interior consiguiendo un cabello suelto y brillante sin apelmazar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074Q4KGNS/?tag=tolees-21)
