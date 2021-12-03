@@ -28,9 +28,9 @@ Tienes [Lindt Mini Pralines Caja de Bombones Surtidos  100g](https://www.amazon.
 
 🔎:
 
-- A partir de cacao puro de la mejor calidad y los mejores ingredientes
-- Creatividad, pasión y talento perfectamente combinados en deliciosos momentos de chocolate
 - Adecuada para tener el detalle perfecto con tus seres queridos
+- A partir de cacao puro de la mejor calidad y los mejores ingredientes
 - Una selección de mini bombones surtidos
+- Creatividad, pasión y talento perfectamente combinados en deliciosos momentos de chocolate
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001E5L4KK/?tag=tolees-21)

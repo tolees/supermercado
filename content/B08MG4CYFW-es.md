@@ -28,12 +28,12 @@ Tienes [Gullón - Galletas cereales Dibus Mini Puzzle Pin y Pon  3000 g  Pack de
 
 🔎:
 
-- No contienen lactosa ni proteínas de leche, tampoco huevo ni frutos secos
-- Mini galletas multi-cereales con chocolate; en forma de puzzle con los personajes de pinypon
-- Alto contenido en hierro y vitaminas b, d y e
-- Sin aceite de palma; producto elaborado con aceite de girasol alto oleico; fabricado por galletas Gullón
-- Estas deliciosas galletas son una fuente de fibra, el mejor desayuno para los más pequeños
-- Ingredientes: Cereales 54,5% (harina de trigo, fibra de maíz, salvado de avena, harina de centeno) azúcar, aceite vegetal (girasol alto oleico) 15,5%, cacao en polvo, jarabe de glucosa y fructosa, colorante (caramelo de sulfito amónico) gasificantes (carbonato ácido de amonio, carbonato de calcio, carbonato ácido de sodio) sal, aroma de vainilla, vitaminas y minerales (Vitamina A, Tiamina, Rivoflavina, Niacina, Ácido pantoténico, Vitamina B6, Ácido fólico, Vitamina B 12, Vitamina D, Vitamina E, Calcio y Hierro). Puede contener trazas de soja
 - Información de alérgenos: wheat
+- No contienen lactosa ni proteínas de leche, tampoco huevo ni frutos secos
+- Ingredientes: Cereales 54,5% (harina de trigo, fibra de maíz, salvado de avena, harina de centeno) azúcar, aceite vegetal (girasol alto oleico) 15,5%, cacao en polvo, jarabe de glucosa y fructosa, colorante (caramelo de sulfito amónico) gasificantes (carbonato ácido de amonio, carbonato de calcio, carbonato ácido de sodio) sal, aroma de vainilla, vitaminas y minerales (Vitamina A, Tiamina, Rivoflavina, Niacina, Ácido pantoténico, Vitamina B6, Ácido fólico, Vitamina B 12, Vitamina D, Vitamina E, Calcio y Hierro). Puede contener trazas de soja
+- Estas deliciosas galletas son una fuente de fibra, el mejor desayuno para los más pequeños
+- Sin aceite de palma; producto elaborado con aceite de girasol alto oleico; fabricado por galletas Gullón
+- Alto contenido en hierro y vitaminas b, d y e
+- Mini galletas multi-cereales con chocolate; en forma de puzzle con los personajes de pinypon
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MG4CYFW/?tag=tolees-21)
