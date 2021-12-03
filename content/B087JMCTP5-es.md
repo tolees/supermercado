@@ -28,10 +28,10 @@ Tienes [MENNYO Pigmento para Resina Epoxi  Colorante Jabones 50g Color Verde Azu
 
 ℹ️:
 
-- ✨ ALTA CALIDAD: el pigmento de resina epoxi es extremadamente resistente al color y estable, y se puede incorporar fácilmente en todos los medios viscosos o más gruesos, dando brillo y brillo a las obras de arte. Simplemente agregue el polvo al proyecto y cambie la cantidad de acuerdo con la profundidad deseada del color. Asegúrese de mezclar bien para evitar grumos al agregar tintes.
 - 🧼 DESBLOQUEA TU CREATIVIDAD: el colorante en polvo de mica de colores brillantes es versátil y agrega un brillo metálico a las obras de arte. Puede usarlos en resina epoxi, vela, jabón, esmalte de uñas, pintura, sombra de ojos, brillo labial, bálsamo labial, barro, arcilla de cerámica, joyas, gofrado, corte, fibra de vidrio, bomba de baño, plásticos, loción, látex, pegamento para manualidades y más proyectos de bricolaje.
-- 🎨 GRAN CANTIDAD: 50 g pigmento de resina epoxi a un precio asequible es perfecto para usted y sus amigos a quienes les gusta crear grandes o muchas artesanías coloridas y metálicas. Los pigmentos de mica en polvo son esenciales.
-- 💅🏻 BOTELLA FÁCIL DE USAR: La botella especial de grado alimenticio está diseñada para un fácil control de la dosificación. La pasta de sellado evita la humedad del polvo de pigmento de resina epoxi. La botella es completamente fácil de usar y almacenar.
 - 🕯 NO TÓXICO Y SIN PARABENOS: ¿Qué es el polvo de mica? La mica es un mineral de silicato utilizado durante siglos y el polvo de mica es un tipo de piedra en polvo, es natural, no tóxico, sin parabenos y vegetariano. NOTA: Solo para uso externo. Mantener fuera del alcance de los niños y animales domésticos. No lo inhales
+- 💅🏻 BOTELLA FÁCIL DE USAR: La botella especial de grado alimenticio está diseñada para un fácil control de la dosificación. La pasta de sellado evita la humedad del polvo de pigmento de resina epoxi. La botella es completamente fácil de usar y almacenar.
+- 🎨 GRAN CANTIDAD: 50 g pigmento de resina epoxi a un precio asequible es perfecto para usted y sus amigos a quienes les gusta crear grandes o muchas artesanías coloridas y metálicas. Los pigmentos de mica en polvo son esenciales.
+- ✨ ALTA CALIDAD: el pigmento de resina epoxi es extremadamente resistente al color y estable, y se puede incorporar fácilmente en todos los medios viscosos o más gruesos, dando brillo y brillo a las obras de arte. Simplemente agregue el polvo al proyecto y cambie la cantidad de acuerdo con la profundidad deseada del color. Asegúrese de mezclar bien para evitar grumos al agregar tintes.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B087JMCTP5/?tag=tolees-21)
