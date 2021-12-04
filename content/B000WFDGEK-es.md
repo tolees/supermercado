@@ -28,8 +28,8 @@ Tienes [TRIXIE Schoko Drops  Chocolate  Vitaminados  350 g  Perro](https://www.a
 
 ℹ️:
 
-- Con vitaminas esenciales
 - Tienen un contenido de teobromina reducido
 - Bolsa con autocierre
+- Con vitaminas esenciales
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000WFDGEK/?tag=tolees-21)
