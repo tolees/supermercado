@@ -29,7 +29,7 @@ Tienes [Skol Cerveza - Paquete de 24 x 330 ml - Total: 7920 ml](https://www.amaz
 ℹ️:
 
 - El nombre de la marca tiene su origen en la palabra sueca Skâl, que significa “A tu salud!”.
-- Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
 - Un sabor universal y un precio muy competitivo son los secretos de su éxito
+- Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01B1FID5G/?tag=tolees-21)
