@@ -28,10 +28,10 @@ Está [Vahdam Té verde Matcha de menta | Polvo de té Matcha 100% PURO de orige
 
 ℹ️:
 
-- MATCHA AUTÉNTICA AL 100% - VAHDAM El té Matcha se obtiene e importa directamente de la región de Uji en Japón, se procesa y envasa en una planta de té certificada por HACCP / BRC y, naturalmente, no es OGM, es libre de gluten y es natural.
-- THE SUPER FOOD HEALTHIEST - Auténtico polvo de té verde Matcha que se obtiene directamente de la región de Uji en Japón. El té verde Matcha es rico en antioxidantes, ayuda a estimular el metabolismo, fuente de energía natural, rico en catequinas, vitaminas y minerales.
+- SATISFACCIÓN GARANTIZADA - 100% GARANTÍA DE REEMBOLSO - Si no te gusta el té, emitiremos un REEMBOLSO del 100% inmediatamente. No se hicieron preguntas.
 - MÁS QUE SOLO UN NEGOCIO, el 1% de nuestros ingresos se redirige hacia la educación de los hijos de los cultivadores de té de la India. Nuestros agricultores, como cualquier otro padre, desean que su progenie tenga una vida mejor que ellos. Nosotros en Vahdam Teas con nuestra iniciativa social, TEAch Me, simplemente deseamos honrar esta aspiración.
 - MARCA MUNDIAL DEL TÉ DE LA INDIA - Establecida por un empresario de té de 4 años y 4ta generación con un linaje de más de 80 años en la industria del té, Vahdam Teas es la puerta de la marca de té líder en la India, premiada e integrada verticalmente, que ofrece las hojas de té más frescas del mundo a los consumidores en más de 85 países.
-- SATISFACCIÓN GARANTIZADA - 100% GARANTÍA DE REEMBOLSO - Si no te gusta el té, emitiremos un REEMBOLSO del 100% inmediatamente. No se hicieron preguntas.
+- THE SUPER FOOD HEALTHIEST - Auténtico polvo de té verde Matcha que se obtiene directamente de la región de Uji en Japón. El té verde Matcha es rico en antioxidantes, ayuda a estimular el metabolismo, fuente de energía natural, rico en catequinas, vitaminas y minerales.
+- MATCHA AUTÉNTICA AL 100% - VAHDAM El té Matcha se obtiene e importa directamente de la región de Uji en Japón, se procesa y envasa en una planta de té certificada por HACCP / BRC y, naturalmente, no es OGM, es libre de gluten y es natural.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K1WMWQC/?tag=tolees-21)

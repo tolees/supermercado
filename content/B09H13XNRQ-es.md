@@ -28,10 +28,10 @@ En este momento está [Jamón Serrano Duroc Curado Deshuesado Gran Reserva 1 Kg 
 
 🔎:
 
-- El chorizo está elaborado con ingredientes 100% naturales: magro de cerdo, pimentón de La Vera, ajo y sal. El chorizo se presenta en forma de herradura y embutido en tripa natural de cerdo.
 - El jamón curado es un producto elaborado a partir de las mejores piezas del cerdo cuidadosamente seleccionadas para obtener un producto totalmente natural después del proceso de salazón y curación y así conseguir el mejor sabor.
-- El salchichón extra de media curación realizado con carne magra de cerdo y condimentado con sal y pimienta.
-- Presenta un sabor delicado, poco salado y aroma agradable y propio de un buen jamón serrano. Su textura es homogénea y poco fibrosa.
 - Posee un color característico que pasa del rosa al rojo púrpura en parte magra y aspecto brillante de la grasa.
+- El salchichón extra de media curación realizado con carne magra de cerdo y condimentado con sal y pimienta.
+- El chorizo está elaborado con ingredientes 100% naturales: magro de cerdo, pimentón de La Vera, ajo y sal. El chorizo se presenta en forma de herradura y embutido en tripa natural de cerdo.
+- Presenta un sabor delicado, poco salado y aroma agradable y propio de un buen jamón serrano. Su textura es homogénea y poco fibrosa.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B09H13XNRQ/?tag=tolees-21)
