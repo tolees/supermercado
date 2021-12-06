@@ -28,15 +28,15 @@ En este momento está [Gullón Galleta Digestive Chocolate  ZERO sin azúcares  
 
 🔎:
 
-- Fabricado por galletas gullón
-- Sin azúcar y con un alto contenido en fibra, la combinación perfecta para disfrutar
 - Advertencia de seguridad: Todos los publicos
-- Sin aceite de palma; producto elaborado con aceite de girasol alto oleico
 - Galletas digestive con cobertura de chocolate negro
-- Instrucciones para su uso adecuado: Todos los publicos
 - Especialidad: Sin azúcares añadidos
+- Instrucciones para su uso adecuado: Todos los publicos
 - Procedencia: ESPAÑA
-- Las galletas perfectas para darte un capricho entre horas
+- Sin aceite de palma; producto elaborado con aceite de girasol alto oleico
 - Ingredientes: Harina de trigo, chocolate negro sin azúcares (pasta de cacao, edulcorante (maltitol) manteca de cacao, materia grasa láctea anhidra (leche) emulgente (lecitina de girasol)) edulcorante (maltitol) aceite vegetal (aceite girasol alto oleico) salvado de trigo, oligofructosa, gasificantes (carbonato ácido de sodio, carbonato ácido de amonio) sal, aroma; puede contener trazas de soja y frutos secos
+- Sin azúcar y con un alto contenido en fibra, la combinación perfecta para disfrutar
+- Fabricado por galletas gullón
+- Las galletas perfectas para darte un capricho entre horas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00AURSA3M/?tag=tolees-21)
