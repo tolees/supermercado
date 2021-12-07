@@ -28,13 +28,13 @@ Está [LANCASTER EAU DE LANCASTER - Desodorante en crema para hombre y mujer - P
 
 ℹ️:
 
-- Número de items: 1
-- Ingredientes: aqua, aluminium chlorohydrate, ceteraryl alcohol, capric triglyceride, propylene glycol, bht, citral, citronellol, coumarin, eugenol, evernia prunastri extract, geraniol, hexyl cinnamal, limonele, linalool, tocopherol, parfum
-- Este producto está indicado para mujeres
-- Contiene 125 ml
 - Unidad de medida: mililitro
-- De la marca lancaster
+- Ingredientes: aqua, aluminium chlorohydrate, ceteraryl alcohol, capric triglyceride, propylene glycol, bht, citral, citronellol, coumarin, eugenol, evernia prunastri extract, geraniol, hexyl cinnamal, limonele, linalool, tocopherol, parfum
+- Contiene 125 ml
+- Este producto está indicado para mujeres
 - Tipo de piel: Todo tipo de pieles
+- Número de items: 1
 - Unidades: 125.0
+- De la marca lancaster
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001KYYFLK/?tag=tolees-21)

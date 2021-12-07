@@ -28,12 +28,12 @@ Ahora mismo tienes [Chocolate Amatller Chocolates Variados en Cesta Regalo Oríg
 
 🔎:
 
-- Nuestros chocolates, en sus diferentes formatos, son la idea perfecta para regalar. Un regalo original y sofisiticado para parejas y amigos, en cualquier ocasión o época del año.
+- Chocolate Amatller es una marca con experiencia en la fabricación y artesanía del chocolate desde 1800. La tradición y el I+D para obtener un excepcional e inconfundible sabor.
 - En la elaboración de nuestros productos no utilizamos aceite de palma. Además, los chocolates Amatller no contienen gluten, lo que lo convierten en un chocolate apto para celíacos.
-- Una cesta regalo completa y perfectamente diseñada para sorprender en ocasiones especiales. Un regalo original, único y dulce para satisfacer los paladares más sofisticados y exigentes.
+- Nuestros chocolates, en sus diferentes formatos, son la idea perfecta para regalar. Un regalo original y sofisiticado para parejas y amigos, en cualquier ocasión o época del año.
 - Chocolate Gourmet especial para los verdaderos amantes del chocolate. Elaborados en nuestras fábricas desde el proceso de selección y tostado del grano, de la haba de cacao directo a tu hogar.
 - Caja regalo compuesta por: 1 Tableta de Chocolate Negro 85% Cacao origen Ghana + 1 Tableta de Chocolate Negro 85% cacao origen Ecuador + 2 Chocolatinas 70% Cacao Orígenes + Caja de deliciosos Amatllons
-- Chocolate Amatller es una marca con experiencia en la fabricación y artesanía del chocolate desde 1800. La tradición y el I+D para obtener un excepcional e inconfundible sabor.
 - Fabricado íntegramente en España. En Amatller solo utilizamos ingredientes de calidad. Ingredientes Chocolate: pasta de cacao, azúcar. Ingredientes Amatllons: chocolate blanco, almendras, azúcar y cacao en polvo.
+- Una cesta regalo completa y perfectamente diseñada para sorprender en ocasiones especiales. Un regalo original, único y dulce para satisfacer los paladares más sofisticados y exigentes.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CX87NRP/?tag=tolees-21)
