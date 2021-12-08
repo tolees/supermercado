@@ -28,13 +28,13 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Select Colección de cítricos  n
 
 🔎:
 
+- Estas extraordinarias mermeladas y confituras han llegado para mejorar tus desayunos, dar un toque de frescura a tus aperitivos o añadir un sabor afrutado a cualquiera de tus deliciosas creaciones
+- Surtido de confitura de naranja, confitura de mandarina y confitura de bergamota con naranja
+- Aptas para dietas vegetarianas y veganas
+- Una mermelada y una confitura con los característicos trocitos de fruta fresca y un sabor excepcional, elaboradas con las mejores cosechas de frutas cultivadas y maduradas en las costas del Mediterráneo
 - Paquete de 3: 180 g x 3 (cada paquete contiene 9 raciones)
 - Cocinadas de forma moderada y con cuidado para conservar toda la intensidad de sabor, la frescura y los aromas de la fruta: un producto «casero» que se convierte en un delicioso capricho comercial
-- Una mermelada y una confitura con los característicos trocitos de fruta fresca y un sabor excepcional, elaboradas con las mejores cosechas de frutas cultivadas y maduradas en las costas del Mediterráneo
 - El botón de seguridad salta cuando se rompe el sello
-- Aptas para dietas vegetarianas y veganas
-- Estas extraordinarias mermeladas y confituras han llegado para mejorar tus desayunos, dar un toque de frescura a tus aperitivos o añadir un sabor afrutado a cualquiera de tus deliciosas creaciones
 - Elaboradas con un alto contenido de fruta (75 %) y sin pectinas, gluten, colorantes, saborizantes ni conservantes artificiales
-- Surtido de confitura de naranja, confitura de mandarina y confitura de bergamota con naranja
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083ZWLF7Z/?tag=tolees-21)
