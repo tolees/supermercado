@@ -28,10 +28,10 @@ Ahora mismo tienes [Black Bee Jalea Real Inmuno Plus  Complemento Alimenticio co
 
 🔎:
 
+- Ayuda a la inmunidad, especialmente durante los resfriados gracias a la Equinácea
+- Con 2.000 mg de Jalea Real y Vitaminas C y D que contribuyen al funcionamiento normal del sistema inmunitario
 - La fórmula se completa con ingredientes de conocidas propiedades: Reishi, Própolis y Eucalipto
 - Contiene Reishi, un hongo que contribuye a las defensas naturales del organismo
-- Con 2.000 mg de Jalea Real y Vitaminas C y D que contribuyen al funcionamiento normal del sistema inmunitario
-- Ayuda a la inmunidad, especialmente durante los resfriados gracias a la Equinácea
 - Tomar 1 vial al día directamente o disuelto en agua o zumo, preferiblemente en ayunas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PTDRRPG/?tag=tolees-21)
