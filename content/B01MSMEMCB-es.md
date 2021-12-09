@@ -28,11 +28,11 @@ Está [SOLIS Tomate Frito Estilo Casero 0% Sal y Azúcares Añadidos Frasco Cris
 
 ℹ️:
 
-- Tomates de cultivo local procedentes de las Vegas del Guadiana (Extremadura)
 - Salsa de tomate frito estilo casero con aceite de oliva y sin sal ni azúcares añadidos; sin aditivos y sin gluten
-- Tomate frito con sabor 100% natural
 - Disponible en formato frasco cristal
+- Tomate frito con sabor 100% natural
 - Salsa de tomate frito Solís para la base de tus recetas favoritas: almejas a la marinera, paella o empanada de atún o acompañar tus platos de pasta, arroz, albóndigas, etc
+- Tomates de cultivo local procedentes de las Vegas del Guadiana (Extremadura)
 - Frasco de cristal reciclable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MSMEMCB/?tag=tolees-21)
