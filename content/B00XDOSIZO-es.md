@@ -28,9 +28,9 @@ Tienes [Colgate Protección Caries Pasta de Dientes  2 x 75ml](https://www.amazo
 
 ℹ️:
 
-- Fantástico sabor menta
-- Siéntete cómodo con aliento fresco
 - Contiene flúor activo y calcio líquido
+- Siéntete cómodo con aliento fresco
+- Fantástico sabor menta
 - Dientes fuertes
 - Protección contra la caries
 
