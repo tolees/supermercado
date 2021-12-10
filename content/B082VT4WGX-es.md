@@ -29,10 +29,10 @@ Tienes [Marca Amazon - Happy Belly Nueces de macadamia  7 x 100g](https://www.am
 🔎:
 
 - Apto para dietas vegetarianas y veganas
-- Paquete de 7 x 100 g
-- No apto para alérgicos a otros frutos de cáscara y los cacahuetes, ni para celíacos, debido al método de producción
-- Envasado en atmósfera protectora para mantener su frescura
-- Alto contenido de fibra
 - Nueces de macadamia crudas y sin sal para picar en cualquier momento del día
+- No apto para alérgicos a otros frutos de cáscara y los cacahuetes, ni para celíacos, debido al método de producción
+- Alto contenido de fibra
+- Envasado en atmósfera protectora para mantener su frescura
+- Paquete de 7 x 100 g
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082VT4WGX/?tag=tolees-21)
