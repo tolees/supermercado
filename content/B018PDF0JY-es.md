@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 0.00 % en Olay Regenerist 3 Punto Antienvejecimien'
+title: 'Olay Regenerist 3 Punto Antienvejecimiento Noche Crema hidratante  50ml'
 date: 2020-01-03 19:36:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413VO0AQQQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '28.5'
 ---
 
-Tienes [Olay Regenerist 3 Punto Antienvejecimiento Noche Crema hidratante  50ml](https://www.amazon.es/dp/B018PDF0JY/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 28.5 EUR (original: 28.5 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Olay Regenerist 3 Punto Antienvejecimien](https://images-eu.ssl-images-amazon.com/images/I/413VO0AQQQL._SL400_.jpg)](https://www.amazon.es/dp/B018PDF0JY/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B018PDF0JY/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

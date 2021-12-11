@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rocita Set de Polvo de Uñas Polvo del Br al 0.00 % de rebaja'
+title: 'Rocita Set de Polvo de Uñas Polvo del Brillo de Arte Nail Art Brillo de la Decoración Maquillaje de Uñas Pintura de DIY en Diversos 12 Colores'
 date: 2020-01-01 20:08:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61DnUKKQrCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '2.39'
 ---
 
-Tienes [Rocita Set de Polvo de Uñas Polvo del Brillo de Arte Nail Art Brillo de la Decoración Maquillaje de Uñas Pintura de DIY en Diversos 12 Colores](https://www.amazon.es/dp/B07F8TG4SW/?tag=tolees-21) con precio final de  2.39 EUR (original: 2.39 EUR) (0.00 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Rocita Set de Polvo de Uñas Polvo del Br](https://images-eu.ssl-images-amazon.com/images/I/61DnUKKQrCL._SL400_.jpg)](https://www.amazon.es/dp/B07F8TG4SW/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07F8TG4SW/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

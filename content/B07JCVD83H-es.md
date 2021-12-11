@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cesar elección del Chef Ternera A La Rej con un 0.00 % de descuento'
+title: 'Cesar elección del Chef Ternera A La Rejilla con arroz Integral y Verduras - Paquete de 14 Unidades'
 date: 2020-01-09 15:00:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411R6Mjd8kL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '12.13'
 ---
 
-En este momento está [Cesar elección del Chef Ternera A La Rejilla con arroz Integral y Verduras - Paquete de 14 Unidades](https://www.amazon.es/dp/B07JCVD83H/?tag=tolees-21) a 12.13 EUR (original: 12.13 EUR) (0.00 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Cesar elección del Chef Ternera A La Rej](https://images-eu.ssl-images-amazon.com/images/I/411R6Mjd8kL._SL400_.jpg)](https://www.amazon.es/dp/B07JCVD83H/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07JCVD83H/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

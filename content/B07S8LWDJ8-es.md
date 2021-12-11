@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skip Cápsulas Ultimate Poder KH7 22 +2 l con un 0.00 % de descuento'
+title: 'Skip Cápsulas Ultimate Poder KH7 22 +2 lavados gratis'
 date: 2020-01-06 10:18:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WIzlgzrNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '6.335'
 ---
 
-En este momento está [Skip Cápsulas Ultimate Poder KH7 22 +2 lavados gratis](https://www.amazon.es/dp/B07S8LWDJ8/?tag=tolees-21) a 6.25 EUR (original: 6.25 EUR) (0.00 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Skip Cápsulas Ultimate Poder KH7 22 +2 l](https://images-eu.ssl-images-amazon.com/images/I/41WIzlgzrNL._SL400_.jpg)](https://www.amazon.es/dp/B07S8LWDJ8/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07S8LWDJ8/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

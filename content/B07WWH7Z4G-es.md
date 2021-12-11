@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Note D Espresso - Cápsulas de té verde c al 0.00 % de rebaja'
+title: 'Note D Espresso - Cápsulas de té verde compatibles con cafeteras Nespresso  3 g  caja de 40 unidades '
 date: 2020-01-04 10:29:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51TGgxSMQiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '6.0'
 ---
 
-Tienes [Note D Espresso - Cápsulas de té verde compatibles con cafeteras Nespresso  3 g  caja de 40 unidades ](https://www.amazon.es/dp/B07WWH7Z4G/?tag=tolees-21) con precio final de  6 EUR (original: 6 EUR) (0.00 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Note D Espresso - Cápsulas de té verde c](https://images-eu.ssl-images-amazon.com/images/I/51TGgxSMQiL._SL400_.jpg)](https://www.amazon.es/dp/B07WWH7Z4G/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07WWH7Z4G/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

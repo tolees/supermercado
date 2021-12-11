@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lápices para la Cara/Cuerpo Caja de Crey al 0.00 % de descuento'
+title: 'Lápices para la Cara/Cuerpo Caja de Creyones Maquillaje para la Cara y el Cuerpo por Moon Creations - 3.5g - Negro'
 date: 2020-01-04 12:29:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/317mZdZDQhL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '5.99'
 ---
 
-Está [Lápices para la Cara/Cuerpo Caja de Creyones Maquillaje para la Cara y el Cuerpo por Moon Creations - 3.5g - Negro](https://www.amazon.es/dp/B07D19S1XZ/?tag=tolees-21) con 0.00 de descuento por 5.99 EUR (original: 5.99 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Lápices para la Cara/Cuerpo Caja de Crey](https://images-eu.ssl-images-amazon.com/images/I/317mZdZDQhL._SL400_.jpg)](https://www.amazon.es/dp/B07D19S1XZ/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07D19S1XZ/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

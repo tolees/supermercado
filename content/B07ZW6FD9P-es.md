@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jardín Bio Muesli Bio al Chocolate y Sem al 0.00 % de rebaja'
+title: 'Jardín Bio Muesli Bio al Chocolate y Semillas de Lino - 375 gr'
 date: 2020-01-04 20:37:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514kocUCOaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '1.65'
 ---
 
-Tienes [Jardín Bio Muesli Bio al Chocolate y Semillas de Lino - 375 gr](https://www.amazon.es/dp/B07ZW6FD9P/?tag=tolees-21) con precio final de  1.65 EUR (original: 1.65 EUR) (0.00 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Jardín Bio Muesli Bio al Chocolate y Sem](https://images-eu.ssl-images-amazon.com/images/I/514kocUCOaL._SL400_.jpg)](https://www.amazon.es/dp/B07ZW6FD9P/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07ZW6FD9P/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

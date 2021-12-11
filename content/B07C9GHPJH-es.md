@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Celorrio 20 - 20018 Piña En Almibar Roda al 0.00 % de rebaja'
+title: 'Celorrio 20 - 20018 Piña En Almibar Rodajas 50-60 Lata A-10 - 3 kg'
 date: 2020-01-08 20:18:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51bTrAT4dlL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '5.89'
 ---
 
-Tienes [Celorrio 20 - 20018 Piña En Almibar Rodajas 50-60 Lata A-10 - 3 kg](https://www.amazon.es/dp/B07C9GHPJH/?tag=tolees-21) con precio final de  5.89 EUR (original: 5.89 EUR) (0.00 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Celorrio 20 - 20018 Piña En Almibar Roda](https://images-eu.ssl-images-amazon.com/images/I/51bTrAT4dlL._SL400_.jpg)](https://www.amazon.es/dp/B07C9GHPJH/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07C9GHPJH/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

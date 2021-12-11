@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Slibrat Polvo de la ceja Paleta  con una al 0.00 % de descuento'
+title: 'Slibrat Polvo de la ceja Paleta  con una duración de la ceja Paleta  Maquillaje Enhancer con el Cepillo  Maquillaje Brow Tamer  2 '
 date: 2020-01-03 17:29:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412rZggKbIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '7.96'
 ---
 
-Ahora mismo tienes [Slibrat Polvo de la ceja Paleta  con una duración de la ceja Paleta  Maquillaje Enhancer con el Cepillo  Maquillaje Brow Tamer  2 ](https://www.amazon.es/dp/B083BMLSG7/?tag=tolees-21) a 7.96 EUR (original: 7.96 EUR) (0.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Slibrat Polvo de la ceja Paleta  con una](https://images-eu.ssl-images-amazon.com/images/I/412rZggKbIL._SL400_.jpg)](https://www.amazon.es/dp/B083BMLSG7/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B083BMLSG7/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 0.00 % en HeroNeo - Juego de plantillas para decor'
+title: 'HeroNeo - Juego de plantillas para decoración de café  16 unidades '
 date: 2020-01-09 14:35:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dk7ELq%2B3L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '0.94'
 ---
 
-Tienes [HeroNeo - Juego de plantillas para decoración de café  16 unidades ](https://www.amazon.es/dp/B00JE0ZCIC/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 0.94 EUR (original: 0.94 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![HeroNeo - Juego de plantillas para decor](https://images-eu.ssl-images-amazon.com/images/I/41Dk7ELq%2B3L._SL400_.jpg)](https://www.amazon.es/dp/B00JE0ZCIC/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JE0ZCIC/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jura Journey Single Malt Scotch Whisky - al 32.67 % de descuento'
+title: 'Jura Journey Single Malt Scotch Whisky - 0.7 L'
 date: 2020-01-10 09:52:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zKsdIOE1L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.67'
 average: '21.913333333333334'
 ---
 
-Está [Jura Journey Single Malt Scotch Whisky - 0.7 L](https://www.amazon.es/dp/B07BPQY7W1/?tag=tolees-21) con 32.67 de descuento por 20.3 EUR (original: 30.15 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Jura Journey Single Malt Scotch Whisky -](https://images-eu.ssl-images-amazon.com/images/I/41zKsdIOE1L._SL400_.jpg)](https://www.amazon.es/dp/B07BPQY7W1/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BPQY7W1/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

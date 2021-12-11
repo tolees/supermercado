@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Klorane APF-129  Champú con pulpa de cít al 20.75 % de rebaja'
+title: 'Klorane APF-129  Champú con pulpa de cítricos  400 ml'
 date: 2020-01-06 16:36:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fjaBmSBdL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.75'
 average: '11.425'
 ---
 
-Tienes [Klorane APF-129  Champú con pulpa de cítricos  400 ml](https://www.amazon.es/dp/B001LFKSV4/?tag=tolees-21) con precio final de  12.6 EUR (original: 15.9 EUR) (20.75 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Klorane APF-129  Champú con pulpa de cít](https://images-eu.ssl-images-amazon.com/images/I/41fjaBmSBdL._SL400_.jpg)](https://www.amazon.es/dp/B001LFKSV4/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B001LFKSV4/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

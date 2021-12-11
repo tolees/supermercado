@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rialto Picatostes Picagrill Queso Y Sésa al 0.00 % de rebaja'
+title: 'Rialto Picatostes Picagrill Queso Y Sésamo 75 g Pack de 24'
 date: 2020-01-02 09:03:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BI9fcLpGL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '22.6'
 ---
 
-Tienes [Rialto Picatostes Picagrill Queso Y Sésamo 75 g Pack de 24](https://www.amazon.es/dp/B07XS4MKZD/?tag=tolees-21) con precio final de  22.6 EUR (original: 22.6 EUR) (0.00 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Rialto Picatostes Picagrill Queso Y Sésa](https://images-eu.ssl-images-amazon.com/images/I/51%2BI9fcLpGL._SL400_.jpg)](https://www.amazon.es/dp/B07XS4MKZD/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07XS4MKZD/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

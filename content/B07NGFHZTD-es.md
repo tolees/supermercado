@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marca Amazon -  Solimo Champú y acondici al 0.00 % de descuento'
+title: 'Marca Amazon -  Solimo Champú y acondicionador anticaspa 2 en 1  con mentol refrescante- Paquete de 6  6 Botellas x 400 ml '
 date: 2020-01-01 19:37:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41II8C2kgeL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '8.88'
 ---
 
-Ahora mismo tienes [Marca Amazon -  Solimo Champú y acondicionador anticaspa 2 en 1  con mentol refrescante- Paquete de 6  6 Botellas x 400 ml ](https://www.amazon.es/dp/B07NGFHZTD/?tag=tolees-21) a 7.37 EUR (original: 7.37 EUR) (0.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Marca Amazon -  Solimo Champú y acondici](https://images-eu.ssl-images-amazon.com/images/I/41II8C2kgeL._SL400_.jpg)](https://www.amazon.es/dp/B07NGFHZTD/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07NGFHZTD/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

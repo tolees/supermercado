@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ausonia Discreet Maxi Noche Compresas Pa al 20.13 % de descuento'
+title: 'Ausonia Discreet Maxi Noche Compresas Para Pérdidas De Orina x 12 unidades'
 date: 2020-01-05 06:09:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51QyB-CGNsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.13'
 average: '5.99'
 ---
 
-Ahora mismo tienes [Ausonia Discreet Maxi Noche Compresas Para Pérdidas De Orina x 12 unidades](https://www.amazon.es/dp/B01DWB5FV2/?tag=tolees-21) a 5.99 EUR (original: 7.5 EUR) (20.13 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Ausonia Discreet Maxi Noche Compresas Pa](https://images-eu.ssl-images-amazon.com/images/I/51QyB-CGNsL._SL400_.jpg)](https://www.amazon.es/dp/B01DWB5FV2/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B01DWB5FV2/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

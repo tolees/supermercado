@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 0.00 % en Revlon Super Lustrous Lipstick Pearl Ipa'
+title: 'Revlon Super Lustrous Lipstick Pearl Ipanema Beach 210'
 date: 2020-01-09 16:05:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31UOQQ-MubL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '1.99'
 ---
 
-Tienes [Revlon Super Lustrous Lipstick Pearl Ipanema Beach 210](https://www.amazon.es/dp/B00JQEP060/?tag=tolees-21) con un 0.00 % de descuento con precio de oferta de 1.99 EUR (original: 1.99 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Revlon Super Lustrous Lipstick Pearl Ipa](https://images-eu.ssl-images-amazon.com/images/I/31UOQQ-MubL._SL400_.jpg)](https://www.amazon.es/dp/B00JQEP060/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JQEP060/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

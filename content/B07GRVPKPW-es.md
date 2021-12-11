@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dolce Gusto 32 - Soporte giratorio para  al 0.00 % de descuento'
+title: 'Dolce Gusto 32 - Soporte giratorio para cápsulas de café'
 date: 2020-01-01 16:30:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418HnUc7fML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '13.4'
 ---
 
-Ahora mismo tienes [Dolce Gusto 32 - Soporte giratorio para cápsulas de café](https://www.amazon.es/dp/B07GRVPKPW/?tag=tolees-21) a 13.4 EUR (original: 13.4 EUR) (0.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Dolce Gusto 32 - Soporte giratorio para ](https://images-eu.ssl-images-amazon.com/images/I/418HnUc7fML._SL400_.jpg)](https://www.amazon.es/dp/B07GRVPKPW/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07GRVPKPW/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

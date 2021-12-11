@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Love Beauty and Planet Champú para Cabel con un 0.00 % de descuento'
+title: 'Love Beauty and Planet Champú para Cabello teñido  Manteca de Murumuru y Rosa Vegano - Pack de 3 x 400 ml  Total: 1200 ml '
 date: 2020-01-03 07:10:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mPKIHs4CL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '16.365000000000002'
 ---
 
-En este momento está [Love Beauty and Planet Champú para Cabello teñido  Manteca de Murumuru y Rosa Vegano - Pack de 3 x 400 ml  Total: 1200 ml ](https://www.amazon.es/dp/B07QM8VTYJ/?tag=tolees-21) a 15.95 EUR (original: 15.95 EUR) (0.00 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Love Beauty and Planet Champú para Cabel](https://images-eu.ssl-images-amazon.com/images/I/41mPKIHs4CL._SL400_.jpg)](https://www.amazon.es/dp/B07QM8VTYJ/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07QM8VTYJ/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

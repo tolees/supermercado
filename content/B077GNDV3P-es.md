@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kit de Brochas Maquillaje 15 Piezas Doco con un 0.00 % de descuento'
+title: 'Kit de Brochas Maquillaje 15 Piezas Docolor Cerdas de Fibra Sintética Suave con bolsa de cosméticos de oro rosa'
 date: 2020-01-06 14:29:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51XwHLVQZ-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '20.7'
 ---
 
-En este momento está [Kit de Brochas Maquillaje 15 Piezas Docolor Cerdas de Fibra Sintética Suave con bolsa de cosméticos de oro rosa](https://www.amazon.es/dp/B077GNDV3P/?tag=tolees-21) a 20.7 EUR (original: 20.7 EUR) (0.00 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Kit de Brochas Maquillaje 15 Piezas Doco](https://images-eu.ssl-images-amazon.com/images/I/51XwHLVQZ-L._SL400_.jpg)](https://www.amazon.es/dp/B077GNDV3P/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B077GNDV3P/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

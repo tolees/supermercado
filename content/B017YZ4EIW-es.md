@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tassimo Hot Choco Bundle Cápsulas - Cadb al 0.00 % de rebaja'
+title: 'Tassimo Hot Choco Bundle Cápsulas - Cadbury  Oreo  Milka  Suchard - 4 Paquetes  40 Porciones '
 date: 2020-01-01 08:02:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Q9o7OuPrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '17.475'
 ---
 
-Tienes [Tassimo Hot Choco Bundle Cápsulas - Cadbury  Oreo  Milka  Suchard - 4 Paquetes  40 Porciones ](https://www.amazon.es/dp/B017YZ4EIW/?tag=tolees-21) con precio final de  17.96 EUR (original: 17.96 EUR) (0.00 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Tassimo Hot Choco Bundle Cápsulas - Cadb](https://images-eu.ssl-images-amazon.com/images/I/51Q9o7OuPrL._SL400_.jpg)](https://www.amazon.es/dp/B017YZ4EIW/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B017YZ4EIW/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

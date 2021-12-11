@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marca Amazon - Solimo Gel de ducha para  al 0.00 % de descuento'
+title: 'Marca Amazon - Solimo Gel de ducha para hombre con iones de plata y aceite de almendra- Paquete de 6  6 Botellas x 400 ml '
 date: 2020-01-02 17:04:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41P7TdZh1jL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '9.74'
 ---
 
-Ahora mismo tienes [Marca Amazon - Solimo Gel de ducha para hombre con iones de plata y aceite de almendra- Paquete de 6  6 Botellas x 400 ml ](https://www.amazon.es/dp/B07NGCRCHM/?tag=tolees-21) a 9.74 EUR (original: 9.74 EUR) (0.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Marca Amazon - Solimo Gel de ducha para ](https://images-eu.ssl-images-amazon.com/images/I/41P7TdZh1jL._SL400_.jpg)](https://www.amazon.es/dp/B07NGCRCHM/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07NGCRCHM/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

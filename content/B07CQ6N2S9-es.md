@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brillante Arroz Largo -  Pack de 16 vasi al 0.00 % de rebaja'
+title: 'Brillante Arroz Largo -  Pack de 16 vasitos X 200 Gr - Total 3200 Gr'
 date: 2020-01-03 08:21:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4159PRJ%2BN5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '0.00'
 average: '16.4'
 ---
 
-Tienes [Brillante Arroz Largo -  Pack de 16 vasitos X 200 Gr - Total 3200 Gr](https://www.amazon.es/dp/B07CQ6N2S9/?tag=tolees-21) con precio final de  16.4 EUR (original: 16.4 EUR) (0.00 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Brillante Arroz Largo -  Pack de 16 vasi](https://images-eu.ssl-images-amazon.com/images/I/4159PRJ%2BN5L._SL400_.jpg)](https://www.amazon.es/dp/B07CQ6N2S9/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07CQ6N2S9/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})
