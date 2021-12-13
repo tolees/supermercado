@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acción desengrasante.
 - Fórmula sin perfumes, fosfatos ni conservantes.
+- Protección antical de la máquina.
 - Limpia incluso las tareas más difíciles
 - Función de enjuague.
-- Protección antical de la máquina.
+- Acción desengrasante.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
