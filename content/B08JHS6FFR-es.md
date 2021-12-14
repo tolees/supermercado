@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cacao en polvo (42%), azúcar, cacao desgrasado en polvo (28%), aroma natural, canela; Puede contener soja
-- Prueba el Nesquik intenso 70% cacao; Cacao cuidadosamente seleccionado; Nesquik intenso 70%; Cacao apto para dietas sin gluten
 - España
+- Prueba el Nesquik intenso 70% cacao; Cacao cuidadosamente seleccionado; Nesquik intenso 70%; Cacao apto para dietas sin gluten
 - Alérgenos: soja
+- Cacao en polvo (42%), azúcar, cacao desgrasado en polvo (28%), aroma natural, canela; Puede contener soja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
