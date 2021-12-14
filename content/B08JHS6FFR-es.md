@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nestlé Nesquik Intenso 70% Cacao - 6 x 300g'
-date: 2021-12-13 11:45:31
+date: 2021-12-14 19:53:36
 image: 'https://m.media-amazon.com/images/I/41XALmiFJqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nesquik'
 buyurl: 'https://www.amazon.es/dp/B08JHS6FFR/?tag=tolees-21'
 descuento: '23.44'
-average: '19.7554545454545'
+average: '19.5216666666666'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alérgenos: soja
 - Cacao en polvo (42%), azúcar, cacao desgrasado en polvo (28%), aroma natural, canela; Puede contener soja
 - Prueba el Nesquik intenso 70% cacao; Cacao cuidadosamente seleccionado; Nesquik intenso 70%; Cacao apto para dietas sin gluten
 - España
+- Alérgenos: soja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
