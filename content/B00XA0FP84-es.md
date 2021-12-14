@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Coca-Cola lata 330 ml adecuado para disfrutarla en cualquier momento, lugar y ocasión
-- Muy refrescante y con el sabor inconfundible de Coca-Cola Light
-- Envase 100% reciclable (contenedor amarillo)
 - Toma tu refresco frío con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
 - Refresco sin azúcar y sin calorías
 - Refresco sin cafeína
+- Muy refrescante y con el sabor inconfundible de Coca-Cola Light
+- Envase 100% reciclable (contenedor amarillo)
+- Coca-Cola lata 330 ml adecuado para disfrutarla en cualquier momento, lugar y ocasión
 
 [🛒 Comprar!!!]({{< param buyurl >}})
