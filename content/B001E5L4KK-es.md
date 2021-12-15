@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuada para tener el detalle perfecto con tus seres queridos
 - Creatividad, pasión y talento perfectamente combinados en deliciosos momentos de chocolate
-- Una selección de mini bombones surtidos
+- Adecuada para tener el detalle perfecto con tus seres queridos
 - A partir de cacao puro de la mejor calidad y los mejores ingredientes
+- Una selección de mini bombones surtidos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
