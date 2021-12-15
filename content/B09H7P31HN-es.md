@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mejor juntos. Utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito
 - Hasta 72 horas de protección frente a la caspa, la sequedad y el picor (caspa visible, con uso regular; picor debido a la caspa)
 - Combate la causa principal de la caspa para un pelo totalmente libre de caspa, probado clínicamente (con uso regular)
-- El champú Apple Fresh limpia tu pelo dejando una sensación fresca y un aroma de manzana duradero
 - Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo
+- Mejor juntos. Utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito
+- El champú Apple Fresh limpia tu pelo dejando una sensación fresca y un aroma de manzana duradero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
