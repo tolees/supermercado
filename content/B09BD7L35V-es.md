@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Anti-manchas oscuras. Eficacia probada por laboratorios en 6 días
-- Sérum con poderosos activos dermatológicos, 3,5% (Niacinamida + Vitamina C* + Ácido Salícilico), que ayudan a reducir visiblemente las manchas oscuras y a potenciar la luminosidad del rostro. *Vitamina C = derivado de la vitamina C. Citrus, una poderosa super fruta conocida por sus propiedades iluminadoras.
 - Con ácido hialurónico, activo conocido por sus propiedades hidratantes
+- Sérum con poderosos activos dermatológicos, 3,5% (Niacinamida + Vitamina C* + Ácido Salícilico), que ayudan a reducir visiblemente las manchas oscuras y a potenciar la luminosidad del rostro. *Vitamina C = derivado de la vitamina C. Citrus, una poderosa super fruta conocida por sus propiedades iluminadoras.
 - Aplicar una vez por la mañana y una por la noche.
+- Anti-manchas oscuras. Eficacia probada por laboratorios en 6 días
 - Eficacia aprobada por laboratorios: - Desde el 3 día, la piel está visiblemente más unificada y suave. - Tras 6 días, las manchas oscuras se reducen visiblemente. - Después de 56 días, -43% de contraste en manchas oscuras. **Test clínico en 74 personas, resultados medios en una marca de acné. Los resultados pueden variar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
