@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con suaves burbujas de aire por dentro y por fuera, que aportan una textura extratierna
-- Alérgenos: Contiene leche, soja y avellanas, puede contener otros frutos de cáscara y trigo
+- Conservar en lugar fresco y seco
 - Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso
 - Chocolate con leche aireado de la marca Milka, en una tableta de 90 g
-- Conservar en lugar fresco y seco
+- Con suaves burbujas de aire por dentro y por fuera, que aportan una textura extratierna
+- Alérgenos: Contiene leche, soja y avellanas, puede contener otros frutos de cáscara y trigo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
