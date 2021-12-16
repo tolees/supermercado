@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Air Wick AntiTabaco Velas aromáticas perfumadas antiolores  ambientador esencia para casa con aroma afrutado - Megapack 12 unidades'
-date: 2021-12-15 12:10:59
+date: 2021-12-16 13:24:45
 image: 'https://m.media-amazon.com/images/I/41ZuS5q81TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Air Wick'
 buyurl: 'https://www.amazon.es/dp/B082BQ27ZP/?tag=tolees-21'
 descuento: '24.01'
-average: '17.8466666666666'
+average: '17.6423076923076'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Exquisita fragancia afrutada con aceites esenciales
 - Vela aromática antitabaco, elimina el olor a tabaco y funciona como ambientador para el hogar
 - Fragancia que dura hasta el último instante
+- Exquisita fragancia afrutada con aceites esenciales
 - Con las fragancias Air Wick tu hogar se siente en el aire
 - Elaborada con cera natural, extraída directamente de plantas y flores naturales
 
