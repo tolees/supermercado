@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'J&B Blended Scotch Whisky  700ml'
-date: 2021-12-16 13:20:21
+date: 2021-12-17 15:27:34
 image: 'https://m.media-amazon.com/images/I/41bsHJ1TaxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'J&B'
 buyurl: 'https://www.amazon.es/dp/B00MTFL71A/?tag=tolees-21'
 descuento: '25.58'
-average: '16.7375675675677'
+average: '16.7642105263159'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El Rey Jorge III concedió a J&B su primera Autorización Real, costumbre que han mantenido los sucesivos monarcas
-- J&B Rare contiene los mejores whiskies de malta de Speyside, confiriendo una extraordinaria suavidad a la mezcla
 - Creado para satisfacer a los estadounidenses que reclamaban un whisky escocés suave y de calidad
 - El equilibrio de la elegante, compleja y singular mezcla de whiskies puros de malta y grano hace de J&B Rare el mejor whisky para combinar
+- El Rey Jorge III concedió a J&B su primera Autorización Real, costumbre que han mantenido los sucesivos monarcas
+- J&B Rare contiene los mejores whiskies de malta de Speyside, confiriendo una extraordinaria suavidad a la mezcla
 - Suave, con un persistente toque amaderado dulce y un delicado ahumado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
