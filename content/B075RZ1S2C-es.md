@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WEILY Espejo de Maquillaje  1x / 2X / 3X Magnificación Triple Espejo Plegable Lámpara LED con 36 Luces LED Pantalla táctil y Carga USB Rotación de 180 Grados con mostrador  Oro Rosa '
-date: 2021-12-16 18:06:31
+date: 2021-12-18 00:14:46
 image: 'https://m.media-amazon.com/images/I/31j6YIqBNCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'WEILY'
 buyurl: 'https://www.amazon.es/dp/B075RZ1S2C/?tag=tolees-21'
 descuento: '32.62'
-average: '23.2845141065834'
+average: '23.3085937500003'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
