@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene la fórmula No Llores Más, que evita las lágrimas y es tan suave en los ojos como el agua más pura
-- JOHNSON’S Baby Champú Camomila limpia suavemente el cabello delicado, dejándolo ligero, suave y saludable
-- Deja el pelo limpio y con aspecto saludable
-- Champú de camomila hipoalergénico y con pH equilibrado
 - Ideal para toda la familia
+- Contiene la fórmula No Llores Más, que evita las lágrimas y es tan suave en los ojos como el agua más pura
+- Deja el pelo limpio y con aspecto saludable
+- JOHNSON’S Baby Champú Camomila limpia suavemente el cabello delicado, dejándolo ligero, suave y saludable
+- Champú de camomila hipoalergénico y con pH equilibrado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
