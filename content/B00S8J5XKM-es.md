@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin alcohol, sin apelmazar.
 - Crema solar en spray nebulizador.
 - Efecto de piel seca: no se siente en la piel, absorción óptima.
-- De 15 de junio a 30 de septiembre, para cada producto vendido LOréal dará una comida al Banco Alimentario.
 - Resistente al agua.
+- De 15 de junio a 30 de septiembre, para cada producto vendido LOréal dará una comida al Banco Alimentario.
+- Sin alcohol, sin apelmazar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
