@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Envase de 750 gramos dando un rendimiento de 25 crepes aproximadamente. Cierre higiénico antigoteo consiguiendo una dosificación precisa.
 - Indicado como decoración y toppings para helados, frutas, pasteles, yogures, gofres, crepes y para el café
 - Formato para toppings y decoración. Fórmula fluida sin necesidad de calentar. Sin aceite de palma.
 - Nocillear es convertir un alimento rico en algo aún más delicioso, añadiendo Nocilla para crear un momento de felicidad de la buena y sin aceite de palma.
-- Envase de 750 gramos dando un rendimiento de 25 crepes aproximadamente. Cierre higiénico antigoteo consiguiendo una dosificación precisa.
 - Alérgenos: Este producto contiene leche, avellanas y soja y puede contener frutos de cáscara. Mantener fuera del frigorífico, en lugar fresco y seco.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
