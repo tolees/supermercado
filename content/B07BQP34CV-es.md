@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tratamiento capilar intensivo reparador 1 Minute Miracle, con complejo Pro-V, antioxidantes y lípidos frente a champú sin acondicionador
-- También se vende en paquetes de 12 ampollas para un tratamiento de 3 meses
-- Los antioxidantes protegen el pelo de los radicales libres para ayudar a evitar la rotura
-- Los lípidos nutren para ayudar a mantener la integridad estructural del pelo
 - Las Ampollas Rescate Pantene Pro-V Suave & Liso ayudan a suave y liso en profundidad el pelo dañado
 - La fórmula Pro-V ayuda a restaurar la fuerza del pelo (frente a los daños causados por el peinado) y combate al instante los signos del daño
+- Los lípidos nutren para ayudar a mantener la integridad estructural del pelo
+- Los antioxidantes protegen el pelo de los radicales libres para ayudar a evitar la rotura
+- También se vende en paquetes de 12 ampollas para un tratamiento de 3 meses
+- Tratamiento capilar intensivo reparador 1 Minute Miracle, con complejo Pro-V, antioxidantes y lípidos frente a champú sin acondicionador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
