@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Lagartones Super Caramelos de Goma - 1000 gr'
-date: 2021-12-11 22:57:42
+date: 2021-12-21 16:04:37
 image: 'https://m.media-amazon.com/images/I/51ur0EIvz2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B01CP8PPAE/?tag=tolees-21'
 descuento: '49.04'
-average: '5.33'
+average: '5.15'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Deliciosas piezas en forma de lagartones
-- Irresistible mix de sabores
 - Caramelos de goma
+- Irresistible mix de sabores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
