@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mix de tus piezas favoritas recubiertas de pica
 - Caramelos de goma
 - Marca: Haribo
 - Crocos, chupetes, cerezas y chispa cola
+- Mix de tus piezas favoritas recubiertas de pica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
