@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Función:hidratante,puede reducir eficazmente los puntos negros,controlar la grasa,mejorar la opacidad facial e iluminar el tono de la piel.
-- Fácil de transportar:pequeño y ligero,fácil de transportar.Adecuado para uso familiar,viajes,etc.
-- Potentes extractos de té verde: El tratamiento facial para el acné sólido de té verde contiene extractos de té verde, que pueden aliviar eficazmente el crecimiento del acné facial y reducir la formación de acné y puntos negros.
-- Green Tea Mask Stick:la mascarilla limpiadora sólida de té verde contiene extracto de té verde,que puede limpiar eficazmente los poros de la piel,limpiar profundamente la suciedad de la piel,ajustar el equilibrio de agua y aceite de la piel,reponer la humedad de la piel y nutrirla.
 - Fácil de usar:Simplemente lávese la cara,aplique barro en la cara o el cuerpo,déjelo actuar durante unos 10-15 minutos y luego lávelo.La textura es fina y suave,fácil de untar y fácil de usar.
+- Fácil de transportar:pequeño y ligero,fácil de transportar.Adecuado para uso familiar,viajes,etc.
+- Green Tea Mask Stick:la mascarilla limpiadora sólida de té verde contiene extracto de té verde,que puede limpiar eficazmente los poros de la piel,limpiar profundamente la suciedad de la piel,ajustar el equilibrio de agua y aceite de la piel,reponer la humedad de la piel y nutrirla.
+- Potentes extractos de té verde: El tratamiento facial para el acné sólido de té verde contiene extractos de té verde, que pueden aliviar eficazmente el crecimiento del acné facial y reducir la formación de acné y puntos negros.
+- Función:hidratante,puede reducir eficazmente los puntos negros,controlar la grasa,mejorar la opacidad facial e iluminar el tono de la piel.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
