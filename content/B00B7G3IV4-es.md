@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseñado con una bola metálica para proporcionar un masaje drenante y refrescante en el contorno de los ojos
-- su fórmula gel efecto hielo ayuda a deshinchar las bolsas de los ojos, consiguiendo un efecto "8 horas de sueño"
-- con vitamina cg y pro b5, para aclarar las ojeras e hidratar la zona en profundidad
-- Men expert hydra energetic roll-on de ojos anti-bolsas y anti-ojeras
 - Ayuda a combatir las ojeras y las bolsas del contorno de los ojos
+- su fórmula gel efecto hielo ayuda a deshinchar las bolsas de los ojos, consiguiendo un efecto "8 horas de sueño"
+- Men expert hydra energetic roll-on de ojos anti-bolsas y anti-ojeras
+- Diseñado con una bola metálica para proporcionar un masaje drenante y refrescante en el contorno de los ojos
+- con vitamina cg y pro b5, para aclarar las ojeras e hidratar la zona en profundidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

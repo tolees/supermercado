@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rexona Antitranspirante en aerosol Aloe Vera proporciona 48 horas de protección gracias a la tecnología MotionSense que libera fragancia cuando te mueves
-- Di adiós al olor corporal y disfruta de una piel suave y cuidada en tus axilas gracias a su combinación de MotionSense y su fórmula con aloe vera
 - El extracto de aloe vera de estos desodorantes previene la irritación de las pieles más sensibles, y ayuda a relajar las pieles dañadas por la depilación o el roce
-- Siéntete protegida del sudor todo el día y en cualquier situación, durante el trabajo, las noches de fiesta e incluso durante la actividad física intensa
+- Rexona Antitranspirante en aerosol Aloe Vera proporciona 48 horas de protección gracias a la tecnología MotionSense que libera fragancia cuando te mueves
 - Y recuerda: el desodorante Rexona no te abandona
+- Di adiós al olor corporal y disfruta de una piel suave y cuidada en tus axilas gracias a su combinación de MotionSense y su fórmula con aloe vera
+- Siéntete protegida del sudor todo el día y en cualquier situación, durante el trabajo, las noches de fiesta e incluso durante la actividad física intensa
 - Este antitranspirante con una fragancia ligera y una fresca esencia de aloe vera dejará tu piel relajada y con una sensación de frescura muy relajante
 
 [🛒 Aquí!!!]({{< param buyurl >}})

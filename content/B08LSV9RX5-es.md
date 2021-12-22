@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Perfecto para preparar una bebida en tu propia cocina en casa o para pasar el rato. La taza está hecha con cerámica de alta calidad y tiene capacidad para 325 ml
 - Auténtico equipo de Blizzard: producto oficial de World of Warcraft; diseñado y creado por Jinx
+- Para el caballo: exterior negro con interior rojo; logotipo de Horde rojo en un lado con el icono clásico "W" en el otro lado; diseño oculto "For the Horde" en el interior/parte inferior de la taza
 - Fácil cuidado: apto para microondas y lavaplatos; a partir de 15 años
 - Para el caballo: la taza viene en un paquete recortado, ideal para coleccionistas y como regalo para amigos, familiares y otros fanáticos del videojuego
-- Perfecto para preparar una bebida en tu propia cocina en casa o para pasar el rato. La taza está hecha con cerámica de alta calidad y tiene capacidad para 325 ml
-- Para el caballo: exterior negro con interior rojo; logotipo de Horde rojo en un lado con el icono clásico "W" en el otro lado; diseño oculto "For the Horde" en el interior/parte inferior de la taza
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

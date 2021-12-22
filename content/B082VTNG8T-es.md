@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ideal para toda la familia
-- Champú de camomila hipoalergénico y con pH equilibrado
 - Deja el pelo limpio y con aspecto saludable
 - JOHNSON’S Baby Champú Camomila limpia suavemente el cabello delicado, dejándolo ligero, suave y saludable
+- Champú de camomila hipoalergénico y con pH equilibrado
 - Contiene la fórmula No Llores Más, que evita las lágrimas y es tan suave en los ojos como el agua más pura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
