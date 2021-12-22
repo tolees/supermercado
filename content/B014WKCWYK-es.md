@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lay S Patatas Fritas Al Punto de Sal  282g'
-date: 2021-12-12 19:39:41
+date: 2021-12-22 06:20:15
 image: 'https://m.media-amazon.com/images/I/41yWxGYZNFS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LayS'
 buyurl: 'https://www.amazon.es/dp/B014WKCWYK/?tag=tolees-21'
 descuento: '17.89'
-average: '1.798'
+average: '1.7975'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin gluten
 - Conservar en lugar fresco y seco
 - Un vez abierto consumir antes de 7 días
+- Sin gluten
 
 [🛒 Comprar!!!]({{< param buyurl >}})
