@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Envase de 2kg dando un rendimiento de 67 crepes o croissants aproximadamente; apta para cubetas, inyectoras y mangas pasteleras
-- Alérgenos: este producto contiene leche, avellanas y soja y puede contener frutos de cáscara; mantener fuera del frigorífico, en lugar fresco y seco
 - Nocillear es convertir un alimento rico en algo aún más delicioso, añadiendo nocilla para crear un momento de felicidad de la buena y sin aceite de palma
+- Alérgenos: este producto contiene leche, avellanas y soja y puede contener frutos de cáscara; mantener fuera del frigorífico, en lugar fresco y seco
 - Formato ideal para toppings y rellenos; fórmula fluida sin necesidad de calentar; sin aceite de palma
 - Ideal para rellenar croissants, magdalenas, coulants, buñuelos, o como topping para helados, pasteles, crepes o gofres
+- Envase de 2kg dando un rendimiento de 67 crepes o croissants aproximadamente; apta para cubetas, inyectoras y mangas pasteleras
 
 [🛒 Visítala!!!]({{< param buyurl >}})
