@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alta calidad
-- Brand: Organic Shop
 - Ingredientes seleccionados
+- Brand: Organic Shop
+- Alta calidad
 - Champú néctar de seda eco 280ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

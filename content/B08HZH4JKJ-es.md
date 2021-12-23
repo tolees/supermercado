@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TENSIOACTIVOS NO AGRESIVOS: elaborado con fórmulas biodegradables y envasado en botellas de PET reciclado; cuida de tu hermoso pelo y del planeta.
-- PUREZA Y SOFISTICACIÓN: este producto no contiene sulfatos y no ha sido testado en animales; se elabora en instalaciones con certificado de buenas prácticas de fabricación de la UE y se adhiere a la promesa para un cuidado del cabello "Natural-Verde-Sofisticado".
-- INGREDIENTES 95 % NATURALES: seguro, puro y eficaz; el aceite de coco nutre, mantiene a raya el encrespamiento y define los rizos; una creación que cuida el pelo y el medio ambiente.
-- SUNTUOSA TEXTURA DEL COCO: un auténtico salvavidas diario para definir el pelo rizado y eliminar el encrespamiento; cuida el cabello y lo deja suave como la seda para presumir de unos rizos dignos de los ángeles.
 - 100 % VEGANO: formulado con ingredientes puros y naturales de primera calidad; no contiene compuestos nocivos, conservantes agresivos ni sustancias químicas tóxicas.
+- INGREDIENTES 95 % NATURALES: seguro, puro y eficaz; el aceite de coco nutre, mantiene a raya el encrespamiento y define los rizos; una creación que cuida el pelo y el medio ambiente.
+- TENSIOACTIVOS NO AGRESIVOS: elaborado con fórmulas biodegradables y envasado en botellas de PET reciclado; cuida de tu hermoso pelo y del planeta.
+- SUNTUOSA TEXTURA DEL COCO: un auténtico salvavidas diario para definir el pelo rizado y eliminar el encrespamiento; cuida el cabello y lo deja suave como la seda para presumir de unos rizos dignos de los ángeles.
+- PUREZA Y SOFISTICACIÓN: este producto no contiene sulfatos y no ha sido testado en animales; se elabora en instalaciones con certificado de buenas prácticas de fabricación de la UE y se adhiere a la promesa para un cuidado del cabello "Natural-Verde-Sofisticado".
 
 [🛒 Comprar!!!]({{< param buyurl >}})
