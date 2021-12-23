@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esta botella recargable ya incluye el champú Herbal Essences; gira el dosificador para abrirla
 - Orgullosos de estar asociados con el Royal Botanic Gardens de Kew, autoridad mundial líder en botánica, es un champú fabricado respetando a los animales, con certificación de la PETA
-- Este champú con aceite de argán de Marruecos tiene el pH equilibrado y es seguro para el pelo teñido
-- Vierte la recarga Good Refill de champú en la botella recargable limpia y vacía
 - Ayuda a reparar el pelo dañado (reparando los daños causados por el peinado) y lo deja brillante y suave
+- Vierte la recarga Good Refill de champú en la botella recargable limpia y vacía
+- Esta botella recargable ya incluye el champú Herbal Essences; gira el dosificador para abrirla
+- Este champú con aceite de argán de Marruecos tiene el pH equilibrado y es seguro para el pelo teñido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

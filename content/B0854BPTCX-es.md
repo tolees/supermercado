@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con un cuerpo sutilmente especiado y un final afrutado suave
-- Producto que combina tradición e innovación
-- Parte de la serie de whiskies escoceses de las 4 principales regiones productoras de whisky de escocia
 - Notas de cata: destacan la vainilla cremosa y dulce, tofe
+- Parte de la serie de whiskies escoceses de las 4 principales regiones productoras de whisky de escocia
+- Producto que combina tradición e innovación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
