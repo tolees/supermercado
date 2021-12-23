@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Set de Baño Mujer  Body & Earth Caja de Rgalo Mujer 5 Piezas Fragancia a Rosas Incluye Gel de Ducha  Manteca Corporal  Crema de Manos  Loción Corporal y Jabón Cestas Regalo Mujer Ideal para Hogar Spa'
-date: 2021-12-22 13:52:43
+date: 2021-12-23 14:13:57
 image: 'https://m.media-amazon.com/images/I/51Y+S9dUNmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BODY & EARTH'
 buyurl: 'https://www.amazon.es/dp/B07QNVTMW8/?tag=tolees-21'
 descuento: '23.11'
-average: '19.3917857142857'
+average: '19.2796551724138'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

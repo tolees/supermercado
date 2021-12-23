@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ballantine`s - Ballantine s Blue 12 años Whisky Escocés de Mezcla - 700 ml'
-date: 2021-12-20 17:30:57
+date: 2021-12-23 14:22:24
 image: 'https://m.media-amazon.com/images/I/411xJiRo9bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ballantine`s'
 buyurl: 'https://www.amazon.es/dp/B005NEKMOC/?tag=tolees-21'
 descuento: '15.00'
-average: '15.998'
+average: '16.0233333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El aroma a miel de este whiskey es dulce, con toques de roble y de vainilla
-- El color miel dorado es intenso, y el acabado es duradero, refrescante y dulce
-- Ballantines Blue es un whisky rico, suave y complejo, mezclado con whiskeys selectos de una malta distinta y cereales
-- Se caracteriza por un sabor a miel con notas florales, y un cremoso toque de roble
-- Este whiskey es una mezcla dulce de whiskies añejados durante un mínimo de 12 años
 - Se recomienda servir solo, con hielo o con un poco de soda
+- Este whiskey es una mezcla dulce de whiskies añejados durante un mínimo de 12 años
+- El color miel dorado es intenso, y el acabado es duradero, refrescante y dulce
+- Se caracteriza por un sabor a miel con notas florales, y un cremoso toque de roble
+- Ballantines Blue es un whisky rico, suave y complejo, mezclado con whiskeys selectos de una malta distinta y cereales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
