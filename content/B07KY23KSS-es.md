@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Protección anticaries probada
-- Elimina las manchas de la superficie
-- Pasta de dientes con micropartículas pulidoras para dientes más blancos
 - Siéntete cómodo con aliento fresco
+- Pasta de dientes con micropartículas pulidoras para dientes más blancos
+- Elimina las manchas de la superficie
 
 [🛒 Aquí!!!]({{< param buyurl >}})
