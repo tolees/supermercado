@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnnie Walker Red Whisky Escocés - 1000 ml'
-date: 2021-12-21 08:22:30
+date: 2021-12-24 18:35:08
 image: 'https://m.media-amazon.com/images/I/41BBoTWzVhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Johnnie Walker'
 buyurl: 'https://www.amazon.es/dp/B004SOLK2G/?tag=tolees-21'
 descuento: '0.00'
-average: '13.8431578947368'
+average: '13.846'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aromas frescos, dulces y afrutados combinados con un final ahumado.
 - El blended scotch más vendido del mundo y el regalo perfecto para los amantes del whisky desde 1820.
+- Aromas frescos, dulces y afrutados combinados con un final ahumado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
