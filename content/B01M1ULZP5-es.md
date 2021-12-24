@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Whole Earth Refresco de Jengibre  24 x 330ml  Bio '
-date: 2021-12-21 09:38:17
+date: 2021-12-24 09:02:52
 image: 'https://m.media-amazon.com/images/I/41gc8I8hriL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Whole Earth'
 buyurl: 'https://www.amazon.es/dp/B01M1ULZP5/?tag=tolees-21'
 descuento: '0.00'
-average: '19.2525'
+average: '18.2455555555556'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Delicioso refresco de jengibre
 - De cultivo ecológico
 - Vegano, sin gluten, sin leche, sin lactosa, sin huevo, sin azúcar añadido
-- Delicioso refresco de jengibre
 - Se recomienda tomar muy frío
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
