@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El blended scotch más vendido del mundo y el regalo perfecto para los amantes del whisky desde 1820.
 - Aromas frescos, dulces y afrutados combinados con un final ahumado.
+- El blended scotch más vendido del mundo y el regalo perfecto para los amantes del whisky desde 1820.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

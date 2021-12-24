@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Max White Carbón Pasta de Dientes  75ml'
-date: 2021-12-23 10:40:39
+date: 2021-12-24 20:56:11
 image: 'https://m.media-amazon.com/images/I/41LI72HpUCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Colgate'
 buyurl: 'https://www.amazon.es/dp/B07V6PZZ9J/?tag=tolees-21'
 descuento: '8.25'
-average: '2.92238095238095'
+average: '2.92090909090909'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suavemente eliminan hasta el 100% de las manchas superficiales
 - Tecnología clínicamente probada
+- Suavemente eliminan hasta el 100% de las manchas superficiales
 - Sus micro-partículas minerales limpian a fondo los dientes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
