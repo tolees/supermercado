@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tecnología clínicamente probada
-- Suavemente eliminan hasta el 100% de las manchas superficiales
 - Sus micro-partículas minerales limpian a fondo los dientes
+- Suavemente eliminan hasta el 100% de las manchas superficiales
+- Tecnología clínicamente probada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
