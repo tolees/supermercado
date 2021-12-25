@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado: Larga duración, picante
-- Nariz: especias, fruta, clavos, algo de humo
-- Color: oro
 - Perfecto como un regalo
+- Acabado: Larga duración, picante
+- Color: oro
 - Sabor: Suave, denso, picante, ahumado, pimienta, crema de vainilla, flores
+- Nariz: especias, fruta, clavos, algo de humo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
