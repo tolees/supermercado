@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Producto que combina tradición e innovación
-- Sabor: Chocolate
 - Para tomar con leche o con tu bebida vegetal favorita, es el escalón perfecto para aquellos que comienzan a reducir el azúcar en su consumo diario. Ya no habrá vuelta atrás…
-- Con cacao natural
+- Sabor: Chocolate
 - ¿Pensabas que todos los cacaos solubles tenían la misma cantidad de cacao? Por fin una receta única y deliciosa con más cacao que las alternativas habituales del mercado. Ideal para los que quieren dar el salto a los Auténticos Cacaos.
+- Con cacao natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})

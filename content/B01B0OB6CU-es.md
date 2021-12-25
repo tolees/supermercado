@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Todos los recambios Gillette Fusion pueden usarse con máquinas Gillette Fusion para hombre.
-- Con banda lubricante para un afeitado mas apurado
-- Un recambio equivale a un mes de afeitados
 - 5 hojas de precisión que ayudan a reducir la presión por hoja, para un afeitado más cómodo (en comparación con Mach3)
+- Con banda lubricante para un afeitado mas apurado
 - Recortador de precisión en la parte trasera, perfecto para perfilar las zonas más difíciles (nariz y patillas)
+- Todos los recambios Gillette Fusion pueden usarse con máquinas Gillette Fusion para hombre.
+- Un recambio equivale a un mes de afeitados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
