@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fresh Forrest & Graffiti.
-- Gel de ducha pH neutro para la piel.
-- Gel de ducha para hombres.
 - Gel de ducha dermatológicamente probado.
+- Gel de ducha para hombres.
+- Gel de ducha pH neutro para la piel.
+- Fresh Forrest & Graffiti.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
