@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Four Roses Single Barrel Whisky de Bourbon - 700 ml'
-date: 2021-12-16 18:51:21
+date: 2021-12-25 15:04:18
 image: 'https://m.media-amazon.com/images/I/317elW6jy2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El sabor es robusto y con mucho cuerpo, con notas de pera, ciruela y cereza, y un equilibrio de miel
 - Este whiskey de bourbon destaca por un aroma afrutado y picante, con notas de madera, vainilla, pera y cacao
-- Solo Four Roses añeja su Bourbon apilando un máximo de 6 barricas
+- El sabor es robusto y con mucho cuerpo, con notas de pera, ciruela y cereza, y un equilibrio de miel
+- Se recomienda servir este bourbon solo, o puede suavizarse un poco con hielo o, disfrutar de la mezcla con ginger ale o bebidas de cola
 - El final es largo y suave, con notas de melocotón y madera
 - Este whiskey de bourbon de Kentucky tiene un color ámbar rojizo
-- Se recomienda servir este bourbon solo, o puede suavizarse un poco con hielo o, disfrutar de la mezcla con ginger ale o bebidas de cola
+- Solo Four Roses añeja su Bourbon apilando un máximo de 6 barricas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
