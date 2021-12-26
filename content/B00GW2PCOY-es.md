@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cacique Añejo Ron  700ml'
-date: 2021-12-19 15:35:44
+date: 2021-12-26 13:27:16
 image: 'https://m.media-amazon.com/images/I/31ixKaHzzmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cacique'
 buyurl: 'https://www.amazon.es/dp/B00GW2PCOY/?tag=tolees-21'
 descuento: '7.57'
-average: '10.687'
+average: '10.7145454545455'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Elaborado de forma artesanal y con las mejores materias primas que la naturaleza puede dar: agua pura manantial mejor caña azúcar
 - El Ron Cacique es un Añejo superior
-- El clima d entorno selvático idóneo para elaboración del Ron, hace tenga sabor único, equilibrado personalidad
 - Disfrútalo en vaso alto, hielo cola
+- El clima d entorno selvático idóneo para elaboración del Ron, hace tenga sabor único, equilibrado personalidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
