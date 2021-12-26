@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fairy Ultra Poder Lavavajillas Líquido a Mano Limpieza Profunda  4L  8 X 500 ML   Aroma a Eucalipto'
-date: 2021-12-25 11:55:14
+date: 2021-12-26 19:17:21
 image: 'https://m.media-amazon.com/images/I/51w-11np9IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Cuidado y limpieza del hogar','Lavavajillas','Salud y cuidado personal'
 actualPrice: 13.32 EUR
 currency: EUR
 price: 13.32
-comparePrice: 17.76 EUR
+comparePrice: 19.45 EUR
 prodname: 'Fairy Ultra Poder Lavavajillas Líquido a Mano Limpieza Profunda  4L  8 X 500 ML   Aroma a Eucalipto'
 country: 'es'
 flag: '🇪🇸'
 brand: 'FAIRY'
 buyurl: 'https://www.amazon.es/dp/B08WY34X5S/?tag=tolees-21'
-descuento: '25.00'
-average: '15.235'
+descuento: '31.52'
+average: '15.1223529411765'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
