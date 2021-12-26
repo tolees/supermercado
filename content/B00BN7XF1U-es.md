@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español Gel de Baño y Ducha 10% Urea para Piel Seca - 1250 ML'
-date: 2021-12-22 06:41:09
+date: 2021-12-26 11:44:00
 image: 'https://m.media-amazon.com/images/I/41ItKbZdGCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B00BN7XF1U/?tag=tolees-21'
 descuento: '0.00'
-average: '2.3225'
+average: '2.53705882352941'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este producto está indicado tanto para mujeres como para hombres.
-- Contiene 1250 ml.
 - De la marca Instituto Español.
+- Contiene 1250 ml.
+- Este producto está indicado tanto para mujeres como para hombres.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
