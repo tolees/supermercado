@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español Pieles Atópicas Crema Cuidado Integral  50ml'
-date: 2021-12-25 19:59:27
+date: 2021-12-27 02:49:17
 image: 'https://m.media-amazon.com/images/I/41yzdPxkLPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No irrita
-- Calma el picor
-- Acción anti-sequedad
-- Especial piel atópica
-- Regenera progresivamente la piel
-- Hipoalergénico
+- Beauty products
+- Body - moisturizing creams
+- Products by INSTITUTO ESPAÑOL
 
 [🛒 Comprar!!!]({{< param buyurl >}})
