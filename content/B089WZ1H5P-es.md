@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Compuesto Ultra Comfort que refresca para calmar tu piel y ayuda a protegerla durante el afeitado
+- Gel de afeitado que proporciona una comodidad increíble en la piel
 - La fórmula del gel es apta para pieles sensibles
 - Pack de 6 botellas de gel de afeitar
 - Deja una sensación limpia y agradable en la piel
-- Gel de afeitado que proporciona una comodidad increíble en la piel
-- Compuesto Ultra Comfort que refresca para calmar tu piel y ayuda a protegerla durante el afeitado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
