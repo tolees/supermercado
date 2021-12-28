@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Sérum Anti Manchas con 3 5% de Vitamina C  Niacinamida y Ácido Salicílico. En 6 días reduce visiblemente las manchas oscuras y aporta luminosidad. Eficacia aprobada por laboratorios'
-date: 2021-12-16 10:48:22
+date: 2021-12-28 15:21:06
 image: 'https://m.media-amazon.com/images/I/4195F4DIRBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BD7L35V-es Garnier Sérum Anti Manchas con 3 5% de Vitamina C...'
 sku: 'B09BD7L35V-es'
 tags: [ 'Belleza','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Sérums faciales','garnier', ]
-actualPrice: 8.99 EUR
+actualPrice: 12.95 EUR
 currency: EUR
-price: 8.99
+price: 12.95
 comparePrice: 12.95 EUR
 prodname: 'Garnier Sérum Anti Manchas con 3 5% de Vitamina C  Niacinamida y Ácido Salicílico. En 6 días reduce visiblemente las manchas oscuras y aporta luminosidad. Eficacia aprobada por laboratorios'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Garnier'
 buyurl: 'https://www.amazon.es/dp/B09BD7L35V/?tag=tolees-21'
-descuento: '30.58'
-average: '9.75181818181818'
+descuento: '0.00'
+average: '10.0183333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
