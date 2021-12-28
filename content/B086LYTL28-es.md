@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Intenso, con aromas a frutos rojos y tostados. En boca es fresco, equilibrado y elegante.
+- Origen: DO Rioja
 - Puede disfrutarlo desde ahora, bien conservado aguantará 2-7 años.
 - Graduación: 14% vol.
-- Origen: DO Rioja
-- Intenso, con aromas a frutos rojos y tostados. En boca es fresco, equilibrado y elegante.
 - Marida con las nuevas tendencias de cocina de vanguardia, especialmente pescados azules, quesos y embutidos Ibéricos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
