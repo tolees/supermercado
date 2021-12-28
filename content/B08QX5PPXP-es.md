@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Algo que se nota en el primer sorbo
-- Denso y brillante, con una capa cromática tostada
-- Elaborado con ingredientes 100% naturales
 - Carácter eminentemente refrescante
 - Cerveza de doble malta de color roble con reflejos anaranjados
+- Elaborado con ingredientes 100% naturales
+- Denso y brillante, con una capa cromática tostada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

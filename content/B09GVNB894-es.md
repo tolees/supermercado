@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Contiene leche, gluten y soja
-- El snack típico de la infancia
-- Estas tabletas pretenden enamorar tanto al público más familiar como a las generaciones jóvenes
 - Conservar en un lugar fresco, seco y aislado del suelo
 - Creado con un molde único
+- El snack típico de la infancia
+- Estas tabletas pretenden enamorar tanto al público más familiar como a las generaciones jóvenes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
