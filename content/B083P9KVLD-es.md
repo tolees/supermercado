@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Limpieza: Micolor Detergente Gel Adiós al Separar es especializado en mantener y eliminar la suciedad de la ropa
-- Recupera los Colores: Micolor Detergente Gel Adiós al Separar alisa las fibras de modo que los colores vuelven a brillar
-- Revive y Protege: Micolor Detergente Gel Adiós al Separar limpia en profundidad y protege los colores
-- Evita las transferencias: Micolor Detergente Gel Adiós al Separar previene que las partículas de color sueltas en el agua se impregnen en la ropa decolorándola
 - Micolor Detergente Gel Adiós al Separar no lleva colorantes añadidos
+- Recupera los Colores: Micolor Detergente Gel Adiós al Separar alisa las fibras de modo que los colores vuelven a brillar
+- Evita las transferencias: Micolor Detergente Gel Adiós al Separar previene que las partículas de color sueltas en el agua se impregnen en la ropa decolorándola
+- Limpieza: Micolor Detergente Gel Adiós al Separar es especializado en mantener y eliminar la suciedad de la ropa
+- Revive y Protege: Micolor Detergente Gel Adiós al Separar limpia en profundidad y protege los colores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
