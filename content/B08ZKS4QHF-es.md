@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para un resultado óptimo, combínalo con Lenor UNstoppables perlas lavadora perfumadas
 - Botella 100% reciclable
-- Detergente lavadora líquido para una limpieza profunda; eficaz en frío (incluso a 30 °C) y en lavados cortos
-- Detergente lavadora, ilumina y quita las manchas
 - No deja residuos visibles en las telas y aporta una fragancia suave que dura todo el día
+- Detergente lavadora, ilumina y quita las manchas
+- Para un resultado óptimo, combínalo con Lenor UNstoppables perlas lavadora perfumadas
+- Detergente lavadora líquido para una limpieza profunda; eficaz en frío (incluso a 30 °C) y en lavados cortos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

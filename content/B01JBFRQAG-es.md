@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Charlie Y La Fábrica De Chocolate [DVD]'
-date: 2021-12-28 14:57:54
+date: 2021-12-29 21:10:37
 image: 'https://m.media-amazon.com/images/I/51qwqSYNuoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JBFRQAG/?tag=tolees-21'
 descuento: '0.00'
-average: '8.39652173913041'
+average: '8.37999999999998'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
