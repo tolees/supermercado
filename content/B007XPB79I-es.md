@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Advance Mini Senior rico en Pollo y Arroz 3Kg'
-date: 2021-12-27 13:00:11
+date: 2021-12-29 08:45:24
 image: 'https://m.media-amazon.com/images/I/41oKChm-TnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Advance'
 buyurl: 'https://www.amazon.es/dp/B007XPB79I/?tag=tolees-21'
 descuento: '55.03'
-average: '10.645'
+average: '10.314'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
