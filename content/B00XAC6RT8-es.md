@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Protección hasta 48 horas
-- Contra el mal olor
 - Desodorante roll-on
+- Contra el mal olor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
