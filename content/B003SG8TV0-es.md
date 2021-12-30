@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Merci Bombones Selección  250g'
-date: 2021-12-28 15:14:00
+date: 2021-12-30 11:11:29
 image: 'https://m.media-amazon.com/images/I/41FCOW5gBvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'merci'
 buyurl: 'https://www.amazon.es/dp/B003SG8TV0/?tag=tolees-21'
 descuento: '0.00'
-average: '5.0475'
+average: '4.97444444444444'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene frutos secos
 - Chocolate con leche, negro, avellanas, praline
-- Surtido variado de chocolates
+- Contiene frutos secos
 - Barritas envueltas individualmente
+- Surtido variado de chocolates
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

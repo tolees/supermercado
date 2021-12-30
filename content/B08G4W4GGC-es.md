@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Acción hidratante y nutritivo
-- Protege la piel mientras la cuida
 - Gel hidroalcohólico de manos cotton
 - Aceites esenciales naturales
+- Protege la piel mientras la cuida
 - Perfume floral
 
 [🛒 Comprar!!!]({{< param buyurl >}})
