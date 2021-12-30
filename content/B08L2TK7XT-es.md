@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Combina el poder de un sérum con la comodidad de una crema
 - Indicado para piel seca; aplicar mañana y noche en rostro y cuello
+- Protege, restaura y repara la piel seca durante 48 horas aportando hidratación intensa y elasticidad
+- Combina el poder de un sérum con la comodidad de una crema
 - Enriquecido con Ácido Hialurónico, Trehalosa Vegetal y Antioxidantes
 - Ayuda a la piel a fortalecer su barrera de hidratación
-- Protege, restaura y repara la piel seca durante 48 horas aportando hidratación intensa y elasticidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
