@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Base levante extremadamente suave, desenredante y voluminadora
+- Indicado para cabello graso
 - Reequilibra la secreción de las glándulas sebáceas y retarda la migración del sebo a lo largo de la fibra capilar
 - Aplicar una pequeña cantidad mediante un suave masaje y dejar actuar unos minutos
-- Indicado para cabello graso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
