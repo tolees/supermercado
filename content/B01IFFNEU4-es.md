@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maeloc Sidra Extra Ecológica - 750 ml'
-date: 2021-12-28 18:37:26
+date: 2022-01-01 20:47:20
 image: 'https://m.media-amazon.com/images/I/31-vURhdTPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Contenido de alcohol 4.1%.
+- Ecológica, vegana y sin gluten.
+- Sidra gallega, elaborada con manzanas ecológicas 100% gallegas de más de 150 cultivadores autóctonos.
 - Servir fría.
 - Procede de mosto fresco de manzana y no de concentrado.
-- Ecológica, vegana y sin gluten.
-- Contenido de alcohol 4.1%.
-- Sidra gallega, elaborada con manzanas ecológicas 100% gallegas de más de 150 cultivadores autóctonos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
