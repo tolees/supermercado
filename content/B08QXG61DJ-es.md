@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Maridaje: Versátil de maridar con carnes, pescador, quesos o ibéricos
+- Variedad: Tempranillo con graduación de 13.5º
 - Temperatura de servicio: 16 - 18ºC.
 - Nota de cata: Presenta en copa un color cereza brillante limpio, con borde granate. En nariz mantiene la frescura de la fruta, apreciándose la vainilla y los aromas más emblemáticos del roble tostado. En boca es sedoso y persistente presentado sabores especiados bien ensamblados. Redondo, frutal y equilibrado.
 - Capacidad: 6 botellas de 750 ml
-- Maridaje: Versátil de maridar con carnes, pescador, quesos o ibéricos
-- Variedad: Tempranillo con graduación de 13.5º
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
