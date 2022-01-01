@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Sagra Pack Cerveza Artesanal 6 Estilos  Botella  12 x 330ml'
-date: 2021-12-30 21:15:19
+date: 2022-01-01 03:14:44
 image: 'https://m.media-amazon.com/images/I/51UTJF8rOOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07PFWJPVY-es La Sagra Pack Cerveza Artesanal 6 Estilos Botella 12 x 330ml'
 sku: 'B07PFWJPVY-es'
 tags: [ 'Alimentación y bebidas','Cervezas','Cervezas, vinos y licores','cerveza','la sagra', ]
-actualPrice: 19.43 EUR
+actualPrice: 21.18 EUR
 currency: EUR
-price: 19.43
-comparePrice: 19.43 EUR
+price: 21.18
+comparePrice: 21.18 EUR
 prodname: 'La Sagra Pack Cerveza Artesanal 6 Estilos  Botella  12 x 330ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'La Sagra'
 buyurl: 'https://www.amazon.es/dp/B07PFWJPVY/?tag=tolees-21'
 descuento: '0.00'
-average: '17.382358490566'
+average: '17.4178504672897'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
