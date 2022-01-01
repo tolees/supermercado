@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ginebra Premium nacional Nordés - 1 botella de 1L'
-date: 2021-12-30 10:54:13
+date: 2022-01-01 21:35:52
 image: 'https://m.media-amazon.com/images/I/41fTk36FCIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nordés'
 buyurl: 'https://www.amazon.es/dp/B01N32MNUM/?tag=tolees-21'
 descuento: '38.47'
-average: '26.114'
+average: '25.905'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nariz: Floral, limón, romero, canela, toques de enebro.
-- Color: claro.
-- Acabado: Larga duración, leñoso, seco, canela.
-- Esta ginebra sabe especialmente bien como gin-tonic, pero también es un verdadero placer cuando se sirve pura.
 - Sabor: Suave, fresco, afrutado, floral, notas de enebro y cilantro,
+- Color: claro.
+- Nariz: Floral, limón, romero, canela, toques de enebro.
+- Esta ginebra sabe especialmente bien como gin-tonic, pero también es un verdadero placer cuando se sirve pura.
+- Acabado: Larga duración, leñoso, seco, canela.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
