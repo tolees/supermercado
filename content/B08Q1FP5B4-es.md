@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Sanex Sensitive  Desodorante Hombre o Mujer  Desodorante Roll-On  Pack 6 Uds x 50ml'
-date: 2021-12-26 19:30:55
-image: 'https://m.media-amazon.com/images/I/41NtKb0B47S._SL500_._SL400_.jpg'
+date: 2022-01-02 12:43:19
+image: 'https://m.media-amazon.com/images/I/41UgyRYGaYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sanex'
 buyurl: 'https://www.amazon.es/dp/B08Q1FP5B4/?tag=tolees-21'
 descuento: '33.62'
-average: '12.4725'
+average: '12.0233333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
