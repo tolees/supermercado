@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Minimiza la apariencia de los poros y suaviza las imperfecciones perfeccionando el aspecto de la piel y así obtener un maquillaje perfecto e impecable a lo largo de las horas
-- Primer matificante y minimizador de poros
-- Consigue el maquillaje perfecto aplicando el primer antes de la base de maquillaje
-- Su tecnología a abase de polvos matificantes ayudan a equilibrar la piel
-- Controla los brillos para ofrecer un acabado mate y libre de brillos
 - Tipo de piel: Normal
+- Controla los brillos para ofrecer un acabado mate y libre de brillos
+- Su tecnología a abase de polvos matificantes ayudan a equilibrar la piel
+- Minimiza la apariencia de los poros y suaviza las imperfecciones perfeccionando el aspecto de la piel y así obtener un maquillaje perfecto e impecable a lo largo de las horas
+- Consigue el maquillaje perfecto aplicando el primer antes de la base de maquillaje
+- Primer matificante y minimizador de poros
 
 [🛒 Comprar!!!]({{< param buyurl >}})

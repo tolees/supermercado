@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cura intensiva para un pelo más fuerte
 - Mascarilla capilar para pelo dañado y frágil
+- Fortalece el pelo con el complejo Pro-V, antioxidantes y lípidos
 - Testada por el Swiss Vitamin Institute
 - Pelo un 100 % más fuerte en un solo uso (fortaleza contra los daños causados por el peinado)
-- Fortalece el pelo con el complejo Pro-V, antioxidantes y lípidos
-- Cura intensiva para un pelo más fuerte
 
 [🛒 Visítala!!!]({{< param buyurl >}})
