@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Notas de salida: lila, brotes de tilo, magnolia matutina, lirio de los valles, mandarina exótica y bergamota
-- Tipo de producto: chispeante y ligero perfume floral de sutil calidez y riqueza
 - Notas de corazón: rosa damascena, violeta, ylang-ylang, jazmín, nardo, melocotón, clavo y nuez moscada
 - Notas de fondo: ámbar, almizcle tibetano, sándalo, iris y vainilla
+- Tipo de producto: chispeante y ligero perfume floral de sutil calidez y riqueza
+- Notas de salida: lila, brotes de tilo, magnolia matutina, lirio de los valles, mandarina exótica y bergamota
 
 [🛒 Aquí!!!]({{< param buyurl >}})
