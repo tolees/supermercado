@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carlos I - Imperial XO Brandy Solera Gran Reserva D.O. Jerez  70 cl'
-date: 2021-12-30 14:00:37
+date: 2022-01-02 18:49:25
 image: 'https://m.media-amazon.com/images/I/51NahmCvgbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Carlos I'
 buyurl: 'https://www.amazon.es/dp/B01MXL14UT/?tag=tolees-21'
 descuento: '25.16'
-average: '34.5'
+average: '34.45'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El exclusivo sistema de envejecimiento de Criaderas y Solera, proceso artesanal que combina arte y experiencia, garantiza un brandy de extraordinaria calidad y complejidad aromática.
+- En paladar es extremadamente sedoso, con un final lujoso y sofisticado.
+- Medallas de Oro y Plata en diversas competiciones internacionales
 - Enjevecido en botas de roble que previamente contuvieron nuestros más selectos vinos de Jerez, olorosos y amontillados.
 - A la nariz, se despliegan aromas de maderas nobles, con notas de nuez, higo y avellana.
-- Medallas de Oro y Plata en diversas competiciones internacionales
-- En paladar es extremadamente sedoso, con un final lujoso y sofisticado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

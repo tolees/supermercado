@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Monkey 47 Ginebra - 500ml'
-date: 2021-12-30 14:00:07
+date: 2022-01-02 18:49:01
 image: 'https://m.media-amazon.com/images/I/41Pp0lzARvS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B008JAAT5Y-es Monkey 47 Ginebra - 500ml'
 sku: 'B008JAAT5Y-es'
 tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Ginebras','ginebra','monkey 47', ]
-actualPrice: 33.92 EUR
+actualPrice: 39.9 EUR
 currency: EUR
-price: 33.92
+price: 39.9
 comparePrice: 46.75 EUR
 prodname: 'Monkey 47 Ginebra - 500ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Monkey 47'
 buyurl: 'https://www.amazon.es/dp/B008JAAT5Y/?tag=tolees-21'
-descuento: '27.44'
-average: '33.1615151515151'
+descuento: '14.65'
+average: '33.3597058823529'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene un sabor complejo, que combina notas de pimientas y flores como jazmín y saúco, con toques cítricos y de frutos rojos
 - Monkey 47 es una ginebra premium preparada con 47 productos botánicos que provienen de la Selva Negra
+- Es la ginebra con más ingredientes en su receta, con tres destilaciones y una maceración en recipientes de barro tradicionales
 - Entre algunos de los 47 botánicos de esta ginebra premium, se pueden encontar: camomila, salvia, bayas de espino, bayas de enebro, jengibre, almendra, nuez moscada, acacias de la Selva Negra, lavanda, madreselva salvaje y flor de de Monarda de América del Norte, escaramujo, regaliz y cálamo aromático, cardamomo, clavo, canela de Ceilán, semillas de Angélica, bálsamo de naranja y de limón, y muchos otros que completan esta original receta
 - Monkey 47 es la ginebra perfecta para tomar en un Gin-tonic en copa de balón de cristal fino deleitando los sentidos con sus aromas cítricos, de frutos rojos ácidos y notas picantes, sin invadir con condimentos para disfrutar la explosión de sabores
 - Su sabor es una combinación exótica de notas dulces con toques amargos
-- Es la ginebra con más ingredientes en su receta, con tres destilaciones y una maceración en recipientes de barro tradicionales
+- Tiene un sabor complejo, que combina notas de pimientas y flores como jazmín y saúco, con toques cítricos y de frutos rojos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

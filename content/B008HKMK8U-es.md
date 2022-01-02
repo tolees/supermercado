@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brockman s ginebra botella 70 cl'
-date: 2022-01-01 18:16:27
+date: 2022-01-02 18:48:03
 image: 'https://m.media-amazon.com/images/I/41FrGcPurnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Brockmans'
 buyurl: 'https://www.amazon.es/dp/B008HKMK8U/?tag=tolees-21'
 descuento: '36.68'
-average: '26.733076923077'
+average: '26.5521428571429'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Nariz: Cilantro, cítricos, bayas silvestres, jengibre.
-- Sabor: Bayas de enebro, arándanos, moras, cáscara de naranja.
-- Esta ginebra es muy adecuada para mezclar con tónica o ginger ale. Pero también sabe muy bien en los cócteles.
-- Acabado: Larga duración.
 - Color: claro.
+- Acabado: Larga duración.
+- Esta ginebra es muy adecuada para mezclar con tónica o ginger ale. Pero también sabe muy bien en los cócteles.
+- Sabor: Bayas de enebro, arándanos, moras, cáscara de naranja.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
