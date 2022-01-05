@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y idades de espresso con leche
+- Aprecia el sabor, tono y el aroma de este ristretto; una deliciosa taza de café
 - Cápsulas inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor Nescafé Dolce Gusto
-- Aprecia el sabor, tono y el aroma de este ristretto; una deliciosa taza de café
-- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y idades de espresso con leche
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
