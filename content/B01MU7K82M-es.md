@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revlon ColorStay Base de Maquillaje piel mixta/grasa FPS15 30ml  #240 Medium Beige'
-date: 2021-12-29 18:34:58
+date: 2022-01-06 11:02:17
 image: 'https://m.media-amazon.com/images/I/41pLHOIP7YS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'REVLON'
 buyurl: 'https://www.amazon.es/dp/B01MU7K82M/?tag=tolees-21'
 descuento: '59.07'
-average: '5.135'
+average: '5.15857142857143'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
