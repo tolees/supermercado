@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Increíble contra las manchas lavado tras lavado.
-- Detergente líquido que se puede utilizar para pretratamiento.
-- Blanco brillante.
 - Detergente líquido con acción higienizante.
+- Increíble contra las manchas lavado tras lavado.
+- Blanco brillante.
+- Detergente líquido que se puede utilizar para pretratamiento.
 - Fácil de dosificar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
