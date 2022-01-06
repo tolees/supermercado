@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polvos compactos makeup revolution
 - Polvos compactos maquillaje mujer
+- Polvos compactos makeup revolution
 - Mur highlighter golden goddess 10g
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

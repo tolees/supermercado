@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Marca: BABARIA
-- Género: Unisex Adulto
 - Tipo de Piel: Todo Tipo de Pieles
+- Género: Unisex Adulto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

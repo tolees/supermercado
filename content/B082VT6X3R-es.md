@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alérgenos: gluten, leche, soja y frutos de cáscara (almendras y avellanas)
-- Producto de calidad
-- Consumo directo
 - País de origen: españa
+- Consumo directo
+- Alérgenos: gluten, leche, soja y frutos de cáscara (almendras y avellanas)
 - Información de alérgenos: soy
+- Producto de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

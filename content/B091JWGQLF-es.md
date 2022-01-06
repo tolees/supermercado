@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Base de maquillaje fluida y ligera con una duración de hasta 24 horas, no-transfer
-- Perfecta para dar a tu rostro un aspecto inmejorable que resiste todo el día, sin necesidad de retoques
 - Garantiza una comodidad que dura todo el día, sin sentir la piel tirante
-- Es adecuada para todo tipo de pieles y cuenta con un acabado mate natural y una cobertura modulable para conseguir un resultado muy profesional
+- Perfecta para dar a tu rostro un aspecto inmejorable que resiste todo el día, sin necesidad de retoques
+- Base de maquillaje fluida y ligera con una duración de hasta 24 horas, no-transfer
 - Su textura ofrece un tacto suave y aterciopelado y una aplicación extremadamente deslizante y sensorial
+- Es adecuada para todo tipo de pieles y cuenta con un acabado mate natural y una cobertura modulable para conseguir un resultado muy profesional
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con auténtica Nocilla por dentro, las nuevas galletas de Nocilla se convertirán en la mejor merienda acompañado.
-- Llévatelas contigo dónde quieras. Cada paquete se compone de 6 galletas.
 - Súper crujiente cookie por fuera y cremosa Nocilla por dentro! y SIN ACEITE DE PALMA! ¿Nocilleamos?
-- Nocillear es convertir un alimento rico en algo aún más delicioso, añadiendo Nocilla para crear un momento de felicidad de la buena y sin aceite de palma.
 - Alérgenos: Contiene trigo, mantequilla, soja, avellanas, huevo, leche. Conservar en lugar fresco, seco y alejado de los rayos solares.
+- Llévatelas contigo dónde quieras. Cada paquete se compone de 6 galletas.
+- Con auténtica Nocilla por dentro, las nuevas galletas de Nocilla se convertirán en la mejor merienda acompañado.
+- Nocillear es convertir un alimento rico en algo aún más delicioso, añadiendo Nocilla para crear un momento de felicidad de la buena y sin aceite de palma.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
