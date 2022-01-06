@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scottex - Papel de Cocina Megarollo  3 Rollos'
-date: 2022-01-04 21:07:54
+date: 2022-01-06 03:18:11
 image: 'https://m.media-amazon.com/images/I/51Ia7IsrQtS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Scottex'
 buyurl: 'https://www.amazon.es/dp/B0132WNJ6Y/?tag=tolees-21'
 descuento: '0.00'
-average: '1.6617037037037'
+average: '1.66272058823529'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
