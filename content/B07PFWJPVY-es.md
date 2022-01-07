@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Sagra Pack Cerveza Artesanal 6 Estilos  Botella  12 x 330ml'
-date: 2022-01-06 09:42:09
+date: 2022-01-07 10:06:49
 image: 'https://m.media-amazon.com/images/I/51UTJF8rOOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'La Sagra'
 buyurl: 'https://www.amazon.es/dp/B07PFWJPVY/?tag=tolees-21'
 descuento: '0.00'
-average: '17.5662162162162'
+average: '17.605'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fabricada en España
-- 2 botellas de 6 variedades de la Sagra
 - según disponibilidad, puede haber algún cambio de estilo cervecero por otro de igual o mayor precio, garantizando siempre 6 estilos diferentes
+- 2 botellas de 6 variedades de la Sagra
 
 [🛒 Visítala!!!]({{< param buyurl >}})
