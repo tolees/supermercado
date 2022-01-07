@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Comida española fácil de preparar: al baño maria, en cazo o al microondas
-- LITORAL Callos Madrileña con un selecto embutido elaborado en Asturias
-- Ingredientes 100% naturales sin gluten, ni aditivos
 - Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
+- Ingredientes 100% naturales sin gluten, ni aditivos
+- LITORAL Callos Madrileña con un selecto embutido elaborado en Asturias
 - Disponible en formato lata: 380g
 - Una deliciosa receta casera y sabrosa, fácil de preparar y con la calidad de LITORAL.
+- Comida española fácil de preparar: al baño maria, en cazo o al microondas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
