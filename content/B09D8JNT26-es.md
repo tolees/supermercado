@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con hidratos de carbono de frutas y cereales
 - 12 Barrita de frutas y cereales con trozos de manzana deshidratada, con vitamina C
-- La vitamina C contribuye al metabolismo energético normal
-- Alimente su sensación de bienestar con nuestra deliciosa y práctica barrita energética de gran sabor con hidratos de carbono de los dátiles, la avena y la manzana
-- No apto para alérgicos a los cacahuetes y el huevo, ni para celíacos, debido al método de producción
 - Energía en movimiento
+- La vitamina C contribuye al metabolismo energético normal
+- No apto para alérgicos a los cacahuetes y el huevo, ni para celíacos, debido al método de producción
+- Alimente su sensación de bienestar con nuestra deliciosa y práctica barrita energética de gran sabor con hidratos de carbono de los dátiles, la avena y la manzana
+- Con hidratos de carbono de frutas y cereales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LITORAL Plato Preparado de Callos Madrileña  Sin Gluten  380g'
-date: 2022-01-05 21:53:07
+date: 2022-01-07 13:47:14
 image: 'https://m.media-amazon.com/images/I/51RfAaA+MXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Litoral'
 buyurl: 'https://www.amazon.es/dp/B00XA0S8LK/?tag=tolees-21'
 descuento: '12.62'
-average: '2.7'
+average: '2.735'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
-- Una deliciosa receta casera y sabrosa, fácil de preparar y con la calidad de LITORAL.
 - Comida española fácil de preparar: al baño maria, en cazo o al microondas
 - LITORAL Callos Madrileña con un selecto embutido elaborado en Asturias
-- Disponible en formato lata: 380g
 - Ingredientes 100% naturales sin gluten, ni aditivos
+- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
+- Disponible en formato lata: 380g
+- Una deliciosa receta casera y sabrosa, fácil de preparar y con la calidad de LITORAL.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
