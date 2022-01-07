@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bourjois Loose Powder 01 Peach Sypki puder do twarzy'
-date: 2022-01-06 07:34:23
+date: 2022-01-07 09:37:38
 image: 'https://m.media-amazon.com/images/I/31pOM7gu0KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00ID6PRL0-es Bourjois Loose Powder 01 Peach Sypki puder do twarzy'
 sku: 'B00ID6PRL0-es'
 tags: [ 'Belleza','Maquillaje','Maquillaje en polvo','Maquillaje facial','bourjois', ]
-actualPrice: 4.48 EUR
+actualPrice: 4.18 EUR
 currency: EUR
-price: 4.48
-comparePrice: 6.48 EUR
+price: 4.18
+comparePrice: 5.86 EUR
 prodname: 'Bourjois Loose Powder 01 Peach Sypki puder do twarzy'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Bourjois'
 buyurl: 'https://www.amazon.es/dp/B00ID6PRL0/?tag=tolees-21'
-descuento: '30.86'
-average: '4.48'
+descuento: '28.67'
+average: '4.33'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
