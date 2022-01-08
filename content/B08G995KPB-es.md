@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Café 100% Arábica
-- Mezclas elegantes y suaves para un sabor aún más suave y ligero
 - Aroma: suave, con cuerpo ligero y notas florales
+- Mezclas elegantes y suaves para un sabor aún más suave y ligero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
