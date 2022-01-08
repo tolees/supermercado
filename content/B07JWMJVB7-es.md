@@ -30,11 +30,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Limpia y fortalece el pelo con nutrientes Pro-V activos y combate al instante los signos del daño
 - Aporta al pelo Nutrientes Pro-V activos para fortalecerlo desde el interior
-- Testado por el Swiss Vitamin Institute
-- Champú, acondicionador y tratamiento 3 en 1 para pelo dañado
-- Previene la aparición de puntas abiertas
 - Sin aceites minerales y sin colorantes
-- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
 - Hace que el pelo tenga un aspecto brillante, sano y suave
+- Champú, acondicionador y tratamiento 3 en 1 para pelo dañado
+- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
+- Testado por el Swiss Vitamin Institute
+- Previene la aparición de puntas abiertas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

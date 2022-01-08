@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Champú para pelo dañado
-- Sin siliconas, sin aceites minerales y sin colorantes
+- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
+- Hace que el pelo tenga un aspecto hermoso, sano y suave
 - Limpia y fortalece el pelo con nutrientes Pro-V activos y combate al instante los signos del daño
 - Aumenta la fortaleza del pelo con un champú con nutrientes Pro-V
-- Hace que el pelo tenga un aspecto hermoso, sano y suave
-- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
-- Previene la aparición de puntas abiertas
 - Testado por el Swiss Vitamin Institute
+- Previene la aparición de puntas abiertas
+- Champú para pelo dañado
+- Sin siliconas, sin aceites minerales y sin colorantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

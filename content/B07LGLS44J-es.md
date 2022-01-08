@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
-- Convierte las ondas encrespadas en rizos definidos, brillantes y flexibles
-- Ayuda contra los daños causados por el peinado
-- Testado por el Swiss Vitamin Institute
 - Deja el pelo hidratado, suave y flexible
+- Convierte las ondas encrespadas en rizos definidos, brillantes y flexibles
+- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
 - Aporta al pelo Nutrientes Pro-V activos para fortalecerlo desde el interior
 - Sin aceites minerales y sin colorantes
 - Champú, acondicionador y tratamiento 3 en 1 para pelo encrespado y rebelde
+- Testado por el Swiss Vitamin Institute
+- Ayuda contra los daños causados por el peinado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

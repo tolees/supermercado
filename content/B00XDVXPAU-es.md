@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para el cabello normal o mixto
+- Hidratación equilibrada para cabello normal o mixto
+- Champú Pantene Pro-V Cuidado Clásico
 - Deja el cabello con movimiento y fácil de peinar
 - Realza el brillo de aspecto sano
-- Champú Pantene Pro-V Cuidado Clásico
-- Hidratación equilibrada para cabello normal o mixto
-- Para el cabello normal o mixto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ayuda a proteger el pelo de la humedad y lo deja fácil de peinar
 - Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
 - Deja el pelo increíblemente suave, liso e hidratado
+- Testado por el Swiss Vitamin Institute
 - Sin aceites minerales y sin colorantes
 - Ofrece una increíble suavidad y control del encrespamiento
 - Champú, acondicionador y tratamiento 3 en 1 para pelo apagado o encrespado
+- Ayuda a proteger el pelo de la humedad y lo deja fácil de peinar
 - Aporta al pelo Nutrientes Pro-V activos para fortalecerlo desde el interior
-- Testado por el Swiss Vitamin Institute
 
 [🛒 Aquí!!!]({{< param buyurl >}})

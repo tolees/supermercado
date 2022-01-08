@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para cabellos rizados, secos y sin brillo
-- Fórmula lujosa y generosa que limpia suavemente y deja rizos hermosos y definidos.
-- Probado por el Swiss Vitamin Institute
-- Champú reconstructor de queratina que ayuda a reparar (el daño causado por el peinado) el cabello seco y sin brillo
 - Este producto contiente 1x Pantene - Champú Miracle Repara Protege - 270 ml
+- Fórmula lujosa y generosa que limpia suavemente y deja rizos hermosos y definidos.
+- Champú reconstructor de queratina que ayuda a reparar (el daño causado por el peinado) el cabello seco y sin brillo
+- Probado por el Swiss Vitamin Institute
+- Ideal para cabellos rizados, secos y sin brillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

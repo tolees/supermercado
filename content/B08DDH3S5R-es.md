@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Como vitaminas para el cabello
+- Mascarilla pelo que ayuda a combatir los signos del daño con 1 solo uso
+- Testado por el instituto suizo de la vitamina
 - MASCARILLA PELO SECO Y DAÑADO: tratamiento reconstructor de keratina
 - Suavidad de un tratamiento de peluquería desde el primer uso
-- Testado por el instituto suizo de la vitamina
-- Mascarilla pelo que ayuda a combatir los signos del daño con 1 solo uso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

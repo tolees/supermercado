@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deja el pelo increíblemente limpio y con un aspecto sano
-- El champú limpia el pelo de la suciedad diaria y de las impurezas
 - Champú para pelo con tendencia a engrasarse
+- Deja el pelo increíblemente limpio y con un aspecto sano
 - Aumenta la fortaleza del pelo con un champú con nutrientes Pro-V
+- El champú limpia el pelo de la suciedad diaria y de las impurezas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

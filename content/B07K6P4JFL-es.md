@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Deja el pelo fresco, ligero y con movimiento
-- Limpia en profundidad y proporciona una nutrición ligera
 - Envase 100 % reciclable (excepto el tapón)
-- Testado por el Swiss Vitamin Institute
-- Aumenta la fortaleza del pelo con un champú con nutrientes Pro-V
-- Champú para pelo con tendencia a engrasarse
+- Limpia en profundidad y proporciona una nutrición ligera
 - Limpia las impurezas en profundidad
 - Sin siliconas, sin aceites minerales y sin colorantes
+- Aumenta la fortaleza del pelo con un champú con nutrientes Pro-V
+- Deja el pelo fresco, ligero y con movimiento
+- Champú para pelo con tendencia a engrasarse
+- Testado por el Swiss Vitamin Institute
 
 [🛒 Comprar!!!]({{< param buyurl >}})

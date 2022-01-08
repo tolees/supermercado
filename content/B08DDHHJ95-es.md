@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MASCARILLA PELO SECO Y DAÑADO: tratamiento reconstructor de keratina
-- Como vitaminas para el cabello
-- Hasta 72 horas de brillo y suavidad en el pelo con un solo uso
 - Mascarilla pelo para controlar el encrespamiento y lucir un pelo suave y sedoso
+- Como vitaminas para el cabello
 - Testado por el instituto suizo de la vitamina
+- Hasta 72 horas de brillo y suavidad en el pelo con un solo uso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

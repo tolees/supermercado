@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para el cabello: Fino
-- Convierte las ondas encrespadas en rizos definidos, brillantes y flexibles
-- Sin aceites minerales y sin colorantes
+- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
+- Deja el pelo hidratado, suave y flexible
 - Champú para rizos encrespados y rebeldes
 - Aumenta la fortaleza del pelo con un champú con nutrientes Pro-V
-- Ayuda contra los daños causados por el peinado
-- Deja el pelo hidratado, suave y flexible
-- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
+- Sin aceites minerales y sin colorantes
+- Para el cabello: Fino
 - Testado por el Swiss Vitamin Institute
+- Convierte las ondas encrespadas en rizos definidos, brillantes y flexibles
+- Ayuda contra los daños causados por el peinado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

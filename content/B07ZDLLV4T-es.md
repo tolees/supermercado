@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Molinillos 100% cerámicos, ajustables en 10 niveles para un sabor a medida, desde un molido fino para un café intenso (nivel 1) hasta un molido grueso para un café ligero (nivel 10)
 - Cafetera automática, 100% diseñada y fabricada en Italia.
-- Producto para uso doméstico.
-- 6 bebidas disponibles y personalizables: espresso, expreso largo, café, americano, estrecho, agua caliente.
-- Entre las opciones personalizables: la intensidad del aroma, la cantidad de café, la cantidad de agua, el suministro de una o dos tazas al mismo tiempo, la opción de café premolido.
 - 4 perfiles de usuario para almacenar tus bebidas favoritas y encontrarlas en cada uso.
+- Producto para uso doméstico.
+- Entre las opciones personalizables: la intensidad del aroma, la cantidad de café, la cantidad de agua, el suministro de una o dos tazas al mismo tiempo, la opción de café premolido.
+- 6 bebidas disponibles y personalizables: espresso, expreso largo, café, americano, estrecho, agua caliente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
