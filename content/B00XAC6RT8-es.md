@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanex Dermo Extra-Control Desodorante Roll-on  50 ml'
-date: 2021-12-29 18:43:40
+date: 2022-01-08 15:13:29
 image: 'https://m.media-amazon.com/images/I/41pFb+qjPrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sanex'
 buyurl: 'https://www.amazon.es/dp/B00XAC6RT8/?tag=tolees-21'
 descuento: '27.50'
-average: '1.486875'
+average: '1.48470588235294'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Protección hasta 48 horas
 - Desodorante roll-on
+- Protección hasta 48 horas
 - Contra el mal olor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza A Modo Mio Café Espresso Soave 100% Arabica  Paquete de 16 cápsulas monodosis de café molido'
-date: 2022-01-07 06:39:38
+date: 2022-01-08 16:51:57
 image: 'https://m.media-amazon.com/images/I/51U8rGe-PjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Café 100% Arábica
 - Mezclas elegantes y suaves para un sabor aún más suave y ligero
 - Aroma: suave, con cuerpo ligero y notas florales
-- Café 100% Arábica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

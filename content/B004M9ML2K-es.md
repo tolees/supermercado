@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula suave y cremosa para un uso cómodo durante todo el día
-- Color duradero y labio sedoso
-- Color intenso hasta 8 horas
 - Tecnología Color Protect para proteger el color
+- Color intenso hasta 8 horas
+- Color duradero y labio sedoso
+- Fórmula suave y cremosa para un uso cómodo durante todo el día
 - Colores intensos que llaman la atención
 
 [🛒 Visítala!!!]({{< param buyurl >}})
