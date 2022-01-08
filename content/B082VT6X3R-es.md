@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TIRMA  S.A. - Tirma Ambrosías con Relleno Cubiertas de Chocolate con Leche - 35 Barritas'
-date: 2022-01-07 08:30:16
+date: 2022-01-08 20:11:33
 image: 'https://m.media-amazon.com/images/I/51IW-l6r6xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de calidad
-- Consumo directo
 - Información de alérgenos: soy
+- Producto de calidad
 - País de origen: españa
 - Alérgenos: gluten, leche, soja y frutos de cáscara (almendras y avellanas)
+- Consumo directo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
