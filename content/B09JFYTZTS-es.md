@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ISMAY - Cepillo de dientes de bambú 100% natural Sin BPA paquete de 10 cepillos de dientes de bambú versión mejorada con cerdas de carbón suave incluye 2 cepillos para lengua 2 cepillos para alveolar trasero'
-date: 2022-01-07 12:35:14
+date: 2022-01-09 13:32:18
 image: 'https://m.media-amazon.com/images/I/41cmb7mmyfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
