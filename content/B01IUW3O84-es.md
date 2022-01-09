@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lay S Patatas Fritas Al Punto de Sal  160g'
-date: 2022-01-08 00:44:48
+date: 2022-01-09 08:10:25
 image: 'https://m.media-amazon.com/images/I/51K6JqIH+qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LayS'
 buyurl: 'https://www.amazon.es/dp/B01IUW3O84/?tag=tolees-21'
 descuento: '7.03'
-average: '1.16517241379311'
+average: '1.16600000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Envasado en atmósfera protectora
 - Apto para compartir
 - Ideal para llevar de picnic
-- Snack de patatas
 - Crujiente y salado
-- Envasado en atmósfera protectora
+- Snack de patatas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
