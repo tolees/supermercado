@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Babaria - Desodorante Spray Pies - Control de sudoración y humedad de los pies - 150ml'
-date: 2022-01-05 16:09:07
+date: 2022-01-09 04:31:52
 image: 'https://m.media-amazon.com/images/I/31uECDiZFzS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Babaria'
 buyurl: 'https://www.amazon.es/dp/B00BEXE7HO/?tag=tolees-21'
 descuento: '0.00'
-average: '1.94333333333333'
+average: '1.964'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
