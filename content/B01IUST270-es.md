@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No contienen lactosa ni proteínas de leche, tampoco huevo ni frutos secos.
-- Mini galletas con 6 cereales, con forma de los personajes de Angry Birds.
-- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico. Fabricado por Galletas Gullón.
-- Estas deliciosas galletas son una fuente de fibra, el mejor desayuno para los más pequeños.
 - Con vitaminas y hierro.
+- Estas deliciosas galletas son una fuente de fibra, el mejor desayuno para los más pequeños.
+- No contienen lactosa ni proteínas de leche, tampoco huevo ni frutos secos.
+- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico. Fabricado por Galletas Gullón.
+- Mini galletas con 6 cereales, con forma de los personajes de Angry Birds.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

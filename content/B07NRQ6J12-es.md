@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
-- Lata ideal para consumo individual
+- Pack de 3 latas individuales, con tapa fácil apertura
 - País de origen: españa, producto natural sin conservantes ni colorantes
 - Conserva de atún en aceite de girasol
-- Pack de 3 latas individuales, con tapa fácil apertura
+- Lata ideal para consumo individual
+- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
