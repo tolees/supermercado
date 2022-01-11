@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Maximiza el volumen de tu melena creando un efecto de densidad, volumen y densidad durante todo el día; fijación 24 h
 - Aplicar 2 o 3 avellanas de producto sobre cabello húmedo desde la raíz a las puntas, secar con secador; para un mejor resultado secar utilizando un cepillo levantando las raíces
 - Formulado con polímeros de duración duradera
-- Maximiza el volumen de tu melena creando un efecto de densidad, volumen y densidad durante todo el día; fijación 24 h
 - 200 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
