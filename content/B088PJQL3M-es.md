@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Santal Bebida Vegetal de Avena  sin Azúcar  6 x 1L'
-date: 2022-01-11 07:53:23
+date: 2022-01-12 08:56:22
 image: 'https://m.media-amazon.com/images/I/411wrcWU5cS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una vez abierto el envase debe conservarse en frío, siendo aconsejable su consumo en los 2 ó 3 días siguientes
-- País de Origen: España
 - Conservar en lugar fresco y seco
 - Santal Avena es una bebida vegetal sin azúcar
 - Bebidas deliciosas, con envase Sostenible bio-based, 100% vegetales y saludables sin azúcar
+- País de Origen: España
+- Una vez abierto el envase debe conservarse en frío, siendo aconsejable su consumo en los 2 ó 3 días siguientes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
