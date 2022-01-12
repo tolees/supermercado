@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- ASPECTO: Espuma ligera y color dorado, AROMA: Notas florales y afrutadas, SABOR: Dulce y refinado
 - Paquete de 10 cápsulas de café; La excelencia de Lavazza en una cápsula de café compatible
+- MEZCLA: 100 % Arábica - Tueste: Oscuro, Intensidad: 5 Delicado
 - El tueste oscuro y un toque de Robusta en las regiones del sudeste asiático dan un equilibrio aromático que revela apreciados toques de cacao
 - CALIDAD LAVAZZA: El sabor redondo de los granos originarios de Centroamérica y Sudamérica se mezclan con el sabor aromático de los granos de café arábica africano para crear una combinación con un sabor aterciopelado
-- MEZCLA: 100 % Arábica - Tueste: Oscuro, Intensidad: 5 Delicado
-- ASPECTO: Espuma ligera y color dorado, AROMA: Notas florales y afrutadas, SABOR: Dulce y refinado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
