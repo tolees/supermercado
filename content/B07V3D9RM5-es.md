@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Galardonado con la medalla de oro de Womens Wine & Spirits Awards 2020
-- Graduación alcohólica de 41,5 %
-- Destilación única por lote realizada en las afueras de la dinámica Birmingham con algunas de las cacerolas de cobre aún en uso en el Reino Unido
-- Hecho a mano con cáscara de lima y pomelo destiladas individualmente para lograr un verdadero refresco con notas cítricas
 - Con sabores intensos a lima y pomelo, esta ginebra seca es perfecta en gin-tonics y otros cócteles refrescantes
+- Graduación alcohólica de 41,5 %
+- Galardonado con la medalla de oro de Womens Wine & Spirits Awards 2020
+- Hecho a mano con cáscara de lima y pomelo destiladas individualmente para lograr un verdadero refresco con notas cítricas
+- Destilación única por lote realizada en las afueras de la dinámica Birmingham con algunas de las cacerolas de cobre aún en uso en el Reino Unido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Maridaje: las cualidades organolépticas de este aceite resultan ideales para su uso en ensaladas frescas y templadas, mayonesas, repostería o tostadas
-- Variedad: aceite de oliva virgen extra elaborado on aceitunas de la variedad arbequina
 - Nota de cata: frutado; la entrada en boca marca su personalidad con un sabor suave, perfecto para iniciar a los niños en el consumo de aceite en crudo
+- Variedad: aceite de oliva virgen extra elaborado on aceitunas de la variedad arbequina
+- Maridaje: las cualidades organolépticas de este aceite resultan ideales para su uso en ensaladas frescas y templadas, mayonesas, repostería o tostadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
