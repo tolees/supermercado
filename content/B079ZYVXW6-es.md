@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cereales Nestlé Fitness Original - 12 paquetes de 450 g'
-date: 2022-01-12 08:01:04
+date: 2022-01-13 19:11:22
 image: 'https://m.media-amazon.com/images/I/51IdbBM8B0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cereales Nestlé'
 buyurl: 'https://www.amazon.es/dp/B079ZYVXW6/?tag=tolees-21'
 descuento: '20.01'
-average: '27.4514285714286'
+average: '27.4325'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cada estuche contiene, aproximadamente, 15 porciones de 30 g
-- Cereales integrales como ingrediente número 1 (58 % cereales integrales)
 - Son fuente de fibra, no contienen aceite de palma, ni colorantes, ni aromas artificiales
-- Con un 30 % menos de azúcar que la media de cereales similares
+- Cereales integrales como ingrediente número 1 (58 % cereales integrales)
 - Deliciosos copos de trigo integral, arroz y avena integral con vitaminas del grupo B (B2, B3, B5 y B6) que contribuyen al metabolismo energético normal
+- Con un 30 % menos de azúcar que la media de cereales similares
+- Cada estuche contiene, aproximadamente, 15 porciones de 30 g
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
