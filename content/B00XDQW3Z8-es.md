@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ruffles Original Patatas Fritas con Sal  160g'
-date: 2022-01-09 12:53:14
+date: 2022-01-13 09:50:26
 image: 'https://m.media-amazon.com/images/I/512h8x7mXTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ruffles'
 buyurl: 'https://www.amazon.es/dp/B00XDQW3Z8/?tag=tolees-21'
 descuento: '24.24'
-average: '1.06190476190475'
+average: '1.0590909090909'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Producto sin gluten
-- Conservar en lugar fresco y seco
+- Proteger de la luz solar
 - Envasado en atmósfera protectora
 - Apto para celiacos
-- Proteger de la luz solar
+- Conservar en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

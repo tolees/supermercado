@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto está indicado tanto para mujeres como para hombres
-- Tipo de piel: Todas
-- Número de modelo del producto: 8410412027021
 - facil de usar
+- Número de modelo del producto: 8410412027021
 - 500 g
+- Tipo de piel: Todas
+- Este producto está indicado tanto para mujeres como para hombres
 
 [🛒 Visítala!!!]({{< param buyurl >}})
