@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CALVO - Sardinillas En Aceite De Oliva Baja En Sal Lata 60 G'
-date: 2022-01-08 16:10:50
+date: 2022-01-14 09:57:52
 image: 'https://m.media-amazon.com/images/I/51Da8XpFeoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvo'
 buyurl: 'https://www.amazon.es/dp/B01DUWHNQS/?tag=tolees-21'
 descuento: '15.97'
-average: '1.10692307692308'
+average: '1.09928571428572'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sardinilla en aceite de oliva
-- Baja en sal
 - País de origen: España
 - Una vez abierto conservar en el frigorífico y consumir en 24 horas
+- Sardinilla en aceite de oliva
+- Baja en sal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
