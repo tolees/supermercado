@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Un café ristretto intenso con notas a pimienta
+- Podrás preparar 30 tazas de café Ristretto Ardenza
 - La cápsula hermética conserva la frescura del café
 - Ingredientes: café molido de tueste natural
-- Podrás preparar 30 tazas de café Ristretto Ardenza
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Los ricos y potentes aromas de un café espresso intenso se encuentran con la dulzura y la textura cremosa de la espuma de leche entera
 - Café cultivado con respeto por los productores, sus comunidades y el planeta.
-- Puede contener soja
 - El espresso es un café negro tostado hecho de una mezcla de Arábicas de Colombia y Brasil con un toque de Robusta asiática
+- Puede contener soja
 
 [🛒 Aquí!!!]({{< param buyurl >}})

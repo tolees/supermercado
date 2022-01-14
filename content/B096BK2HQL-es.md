@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida Nescafé Dolce Gusto
-- Su perfil equilibrado despertará tus sentidos con suaves y redondeadas notas de cereal malteado en el paladar
-- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche y bebidas vegetales
 - Café 100% Arábica combinado con Achicoria tostada para un sabor único y refrescante
 - Cold Brew, una forma única de preparar café, macerándolo en agua fría para liberar un sabor extraordinario
+- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche y bebidas vegetales
+- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida Nescafé Dolce Gusto
+- Su perfil equilibrado despertará tus sentidos con suaves y redondeadas notas de cereal malteado en el paladar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

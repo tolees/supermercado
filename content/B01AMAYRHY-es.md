@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Café espresso suavizado con un toque de leche
 - Con cafeína
-- Su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Cuerpo redondo, combinado con notas a almendras tostadas y nueces
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
