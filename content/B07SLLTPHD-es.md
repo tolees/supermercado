@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nescafé DOLCE GUSTO Magnum ESPRESSO INTENSO - Cápsulas de Café 3 x 30 - 90 Cápsulas'
-date: 2022-01-12 09:19:30
+date: 2022-01-14 12:16:06
 image: 'https://m.media-amazon.com/images/I/41jW4hDCjYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dolce Gusto'
 buyurl: 'https://www.amazon.es/dp/B07SLLTPHD/?tag=tolees-21'
 descuento: '13.48'
-average: '21.0135897435897'
+average: '20.98575'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
