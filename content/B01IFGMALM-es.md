@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La vaselina contenida hidrata y suaviza
 - Nutre, protege y repara manos secas y estropeadas
 - La dimeticona proporciona una absorción inmediata
 - La fórmula contiene glicerina que nutre, repara y protege la piel
-- La vaselina contenida hidrata y suaviza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
