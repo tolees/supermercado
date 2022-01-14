@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Alternativa sencilla y fácil de aplicar en casa, pues gracias a su formato en aerosol y en solo 5 pasos podrás completar el tratamiento
 - Elimina las verrugas en una sola aplicación; un tratamiento puede ser suficiente; sin embargo, para las verrugas plantares pueden ser necesarias aplicaciones adicionales
 - Método rápido de congelación mediante crioterapia, que provoca la caída de la verruga
-- Scholl Stop Verrugas se basa en el método de rápida congelación usado por profesionales sanitarios
-- Alternativa sencilla y fácil de aplicar en casa, pues gracias a su formato en aerosol y en solo 5 pasos podrás completar el tratamiento
 - Con nitrógeno líquido a una temperatura de -57º
+- Scholl Stop Verrugas se basa en el método de rápida congelación usado por profesionales sanitarios
 
 [🛒 Comprar!!!]({{< param buyurl >}})
