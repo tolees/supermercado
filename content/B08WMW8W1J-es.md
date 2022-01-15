@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Aplicar sobre la piel previamente mojada y masajear con las manos o con la ayuda de una esponja; aclarar con abundante agua
 - La fuerte personalidad de su fragancia, no te dejará indiferente
-- Deja la piel tersa y suave; un gel de ducha cremoso y agradable, con delicada y abundante espuma
-- Con más de 30 años de historia sigue siendo un placer diario
 - El Gel de ducha Magno Classic es conocido por su fragancia, no pasa de moda; con una base de ámbar, notas florales y cítricas disfrutarás de su aroma
+- Con más de 30 años de historia sigue siendo un placer diario
+- Deja la piel tersa y suave; un gel de ducha cremoso y agradable, con delicada y abundante espuma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
