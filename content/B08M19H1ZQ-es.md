@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Instrucciones para su uso adecuado: Para todas las edades
-- Ingredientes: Surtido de golosinas: Azúcar; jarabe de glucosa y fructosa; agua; harina de TRIGO; dextrosa; gelatina; melaza; humectante: jarabe de sorbitol; almidón de maíz; almidón de TRIGO; grasa de palma; acidulante: ácido cítrico; emulgente: monoglicéridos y diglicéridos de ácidos grasos; zumo de frutas a partir de concentrado: frambuesa, manzana, naranja, limón, fresa, piña; extracto de regaliz; sal; conservador: sorbato potásico; corrector de acidez: carbonato ácido de sodio; aroma; concentrados de frutas y plantas: rábano, grosella negra, baya de saúco, aronia, uva, cártamo, naranja, limón, mango, fruta de la pasión, espirulina, manzana, kiwi; extracto de baya de saúco; colorantes: curcumina, carmín, azul patente V, carbón vegetal, dióxido de titanio; agentes de recubrimiento: cera de abeja blanca y amarilla, cera de carnauba; puede contener trazas de LECHE
-- Combinación de piezas de diferentes texturas y sabores
 - Mix de caramelos de goma
 - Información de alérgenos: wheat
 - Incluye: ositos de oro, huevo, fresones, balla-balla duo y balla-balla fresa
+- Instrucciones para su uso adecuado: Para todas las edades
+- Ingredientes: Surtido de golosinas: Azúcar; jarabe de glucosa y fructosa; agua; harina de TRIGO; dextrosa; gelatina; melaza; humectante: jarabe de sorbitol; almidón de maíz; almidón de TRIGO; grasa de palma; acidulante: ácido cítrico; emulgente: monoglicéridos y diglicéridos de ácidos grasos; zumo de frutas a partir de concentrado: frambuesa, manzana, naranja, limón, fresa, piña; extracto de regaliz; sal; conservador: sorbato potásico; corrector de acidez: carbonato ácido de sodio; aroma; concentrados de frutas y plantas: rábano, grosella negra, baya de saúco, aronia, uva, cártamo, naranja, limón, mango, fruta de la pasión, espirulina, manzana, kiwi; extracto de baya de saúco; colorantes: curcumina, carmín, azul patente V, carbón vegetal, dióxido de titanio; agentes de recubrimiento: cera de abeja blanca y amarilla, cera de carnauba; puede contener trazas de LECHE
+- Combinación de piezas de diferentes texturas y sabores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
