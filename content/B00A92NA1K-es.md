@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una vez abierto conservar en frigorífico
+- Sin conservantes
+- Sin trozos
 - Contiene Leche
-- Ingredientes: Tomate (160 g por 100 g de producto) aceite de girasol 4% (sofrito con cebollas y ajos frescos), almidón modificado de maíz y aroma (contiene leche)
 - Sin Gluten
 - Elaborado sin sal ni azúcares añadidos
-- Sin trozos
-- Sin conservantes
+- Una vez abierto conservar en frigorífico
+- Ingredientes: Tomate (160 g por 100 g de producto) aceite de girasol 4% (sofrito con cebollas y ajos frescos), almidón modificado de maíz y aroma (contiene leche)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
