@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cruzcampo Especial Sin Gluten cerveza pack 12 botellas 33cl - 3960 ml'
-date: 2022-01-15 08:29:47
+date: 2022-01-16 14:42:22
 image: 'https://m.media-amazon.com/images/I/41THR+7fXTS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5,6% de alcohol en volumen
 - Color rubio pálido, refrescante, sabor suave, con un ligero a moderado aroma afrutado, personalidad propia aportada por la exclusiva levadura usada en su fabricación; amargor moderado y aromático
+- 5,6% de alcohol en volumen
+- Cerveza laguer especial SIN GLUTEN, apta para celíacos
 - Ingredientes Naturales: Agua, malta de cebada, maiz, levadura, lúpulo y extracto de lúpulo; sIN GLUTEN
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
-- Cerveza laguer especial SIN GLUTEN, apta para celíacos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
