@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color rubio pálido, refrescante, sabor suave, con un ligero a moderado aroma afrutado, personalidad propia aportada por la exclusiva levadura usada en su fabricación; amargor moderado y aromático
+- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 - 5,6% de alcohol en volumen
 - Cerveza laguer especial SIN GLUTEN, apta para celíacos
+- Color rubio pálido, refrescante, sabor suave, con un ligero a moderado aroma afrutado, personalidad propia aportada por la exclusiva levadura usada en su fabricación; amargor moderado y aromático
 - Ingredientes Naturales: Agua, malta de cebada, maiz, levadura, lúpulo y extracto de lúpulo; sIN GLUTEN
-- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

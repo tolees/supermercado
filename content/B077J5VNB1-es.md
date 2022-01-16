@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Novex Queratina Brasileña  Mascarilla Capilar - 400 gr.'
-date: 2022-01-14 22:48:26
+date: 2022-01-16 15:41:32
 image: 'https://m.media-amazon.com/images/I/41XqSoK6u+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NOVEX'
 buyurl: 'https://www.amazon.es/dp/B077J5VNB1/?tag=tolees-21'
 descuento: '10.59'
-average: '4.94307692307693'
+average: '5.03642857142858'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

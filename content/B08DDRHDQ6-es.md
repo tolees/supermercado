@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso
-- Delicioso relleno de crema con sabor a caramelo y avellanas enteras, para una exquisita combinación de texturas
 - Alérgenos: Contiene leche, soja y avellanas, puede contener otros frutos de cáscara y trigo
-- Tierno chocolate con leche de la marca Milka, relleno de caramelo y avellana en formato tableta grande de 300 g
 - Conservar en lugar fresco y seco
+- Tierno chocolate con leche de la marca Milka, relleno de caramelo y avellana en formato tableta grande de 300 g
+- Delicioso relleno de crema con sabor a caramelo y avellanas enteras, para una exquisita combinación de texturas
+- Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
