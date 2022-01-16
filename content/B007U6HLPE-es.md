@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Género: Hombre
 - Marca: Dove
 - Formato: Roll-on
-- Género: Hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

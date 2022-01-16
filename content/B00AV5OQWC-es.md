@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las galletas Chip Choco de Gullón son una fuente de fibra sin gluten y sin azúcar.
-- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
-- Sin lactosa ni proteínas de leche. Sin frutos secos.
 - Fabricado por Galletas Gullón.
+- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
+- Las galletas Chip Choco de Gullón son una fuente de fibra sin gluten y sin azúcar.
+- Sin lactosa ni proteínas de leche. Sin frutos secos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

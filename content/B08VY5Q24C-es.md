@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Red Bull Bebida Energética  Sandía  12 Latas de 250Mililitros  3000 Mililitros'
-date: 2022-01-09 18:23:17
+date: 2022-01-16 22:33:41
 image: 'https://m.media-amazon.com/images/I/51l1KoerwmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Red Bull'
 buyurl: 'https://www.amazon.es/dp/B08VY5Q24C/?tag=tolees-21'
 descuento: '29.37'
-average: '12.5528571428571'
+average: '12.48375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 12 latas de 250ml
-- Bebida Energética
 - Red Bull con sabor de Sandía
+- Bebida Energética
+- 12 latas de 250ml
 - País de origen: Austria
 
 [🛒 Comprar!!!]({{< param buyurl >}})
