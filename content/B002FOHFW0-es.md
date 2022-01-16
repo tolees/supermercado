@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'SIS Science in Sport - SiS GO ELECTRO Bebida Energética en Polvo  Suplemento Isotónico con Carbohidratos y Electrolitos para Hidratación y Energía en el Deporte  Vegano y Sin Gluten 1.6 kg  40 Porciones  Lima Limón'
-date: 2022-01-03 16:30:09
-image: 'https://m.media-amazon.com/images/I/31boTeJUFuL._SL500_._SL400_.jpg'
+date: 2022-01-16 17:08:51
+image: 'https://m.media-amazon.com/images/I/31T+XYKy1mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BEBIDA ENERGÉTICA DE SCIENCE IN SPORT: este suplemento en polvo te proporciona los carbohidratos y electrolitos necesarios al instante cuando haces ejercicio. Dispone de 1.6 kg con sabor lima limón.
-- ENERGÍA AL INSTANTE: para una rápida hidratación energética, esta bebida te protege contra los calambres y mantiene tu rendimiento en ejercicios de larga distancia como el ciclismo o carreras.
-- PREPARACIÓN: disuelve 40 g de GO electrolitos en 500 ml de agua. Es recomendado ingerir 500 ml cada 45-60 minutos de ejercicio o cuando sea necesario. Consumir el preparado en 24 horas máximo.
-- CONTIENE: 1.6 kg de bebida energética en polvo con electrolitos. Apto para veganos y vegetarianos, está elaborado sin lactosa, sin gluten, sin trigo, sin frutos secos y sin soja.
 - ALTO CONTENIDO EN SODIO: favorece la hidratación y te ofrece un suplemento óptimo en cada entrenamiento. Dispone de 36 g de carbohidratos, 20 mmol/l de sodio y 146 calorías por ración.
+- PREPARACIÓN: disuelve 40 g de GO electrolitos en 500 ml de agua. Es recomendado ingerir 500 ml cada 45-60 minutos de ejercicio o cuando sea necesario. Consumir el preparado en 24 horas máximo.
+- ENERGÍA AL INSTANTE: para una rápida hidratación energética, esta bebida te protege contra los calambres y mantiene tu rendimiento en ejercicios de larga distancia como el ciclismo o carreras.
+- BEBIDA ENERGÉTICA DE SCIENCE IN SPORT: este suplemento en polvo te proporciona los carbohidratos y electrolitos necesarios al instante cuando haces ejercicio. Dispone de 1.6 kg con sabor lima limón.
+- CONTIENE: 1.6 kg de bebida energética en polvo con electrolitos. Apto para veganos y vegetarianos, está elaborado sin lactosa, sin gluten, sin trigo, sin frutos secos y sin soja.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
