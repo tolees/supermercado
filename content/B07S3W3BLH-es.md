@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contenido de alcohol (alc/vol): 13.0% VOL
 - Variedad Verdejo de Color Amarillo Pálido Alimonado con Tonos Verdosos
+- Contenido de alcohol (alc/vol): 13.0% VOL
+- Vino Blanco de Graduación: 13.5º
 - Nota de Cata: En nariz es intenso y limpio con un fuerte aroma a los verdejo tradicionales, hinojo y frutas bancas
+- Botella Bordelesa de Capacidad: 0.75L
 - Maridaje: carnes blancas, ensaladas y atún
 - Volumen: 0.75 litros
-- Botella Bordelesa de Capacidad: 0.75L
-- Vino Blanco de Graduación: 13.5º
 
 [🛒 Aquí!!!]({{< param buyurl >}})
