@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ver la descripción completa más abajo
-- Mercancía francesa
 - Esterilizador de gas con 24 tarros galvanizados Guillouard.
+- Mercancía francesa
+- Ver la descripción completa más abajo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
