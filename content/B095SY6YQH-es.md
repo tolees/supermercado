@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Rico en propiedades antioxidantes y extractos de Creatina, que evitan la sequedad del cabello disminuyendo la rotura del mismo. El resultado es un cabello más resistente, fuerte y brillante
-- No testado en animales. Vegano. Fabricación íntegra en España
-- Libre de sulfatos, parabenos y colorantes. Dermatológicamente testado
 - Género; Unisex. Adulto.
 - Limpieza suave, eficaz y respetuosa del cuero cabelludo. Cremosa espuma.
+- Libre de sulfatos, parabenos y colorantes. Dermatológicamente testado
+- No testado en animales. Vegano. Fabricación íntegra en España
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
