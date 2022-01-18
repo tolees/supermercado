@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dove 0% Desodorante Pepino - Pack de 3 x 200 ml - Total: 600 ml'
-date: 2022-01-16 21:26:30
+date: 2022-01-17 22:20:03
 image: 'https://m.media-amazon.com/images/I/41UpcSOWNbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aroma a té verde y pepino
-- No contiene sales de aluminio ni alcohol
-- Dove desodorante 0%
 - 1/4 de crema hidratante
+- Dove desodorante 0%
+- No contiene sales de aluminio ni alcohol
+- Aroma a té verde y pepino
 
 [🛒 Comprar!!!]({{< param buyurl >}})
