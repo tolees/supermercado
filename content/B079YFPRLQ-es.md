@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con dulce nana
-- Alta calidad
-- Práctica tira para enganchar a la cuna
-- Tejido suave
 - Simpático carillón de pera
+- Tejido suave
+- Práctica tira para enganchar a la cuna
+- Alta calidad
+- Con dulce nana
 
 [🛒 Comprar!!!]({{< param buyurl >}})
