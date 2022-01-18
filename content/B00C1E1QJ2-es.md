@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Marca: Schwarzkopf
 - Género: Mujer
 - Tipo de producto: Tratamiento capilar
-- Marca: Schwarzkopf
 
 [🛒 Visítala!!!]({{< param buyurl >}})
