@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo 000500 Favoritos Red&White  1 x 150 g'
-date: 2022-01-06 13:06:17
+date: 2022-01-18 20:37:35
 image: 'https://m.media-amazon.com/images/I/51GIxHja5CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Alimentación y bebidas','Chicles y golosinas','Dulces, chocolates y ch
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0
-comparePrice: 1.29 EUR
+comparePrice: 1.25 EUR
 prodname: 'Haribo 000500 Favoritos Red&White  1 x 150 g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B07KBGJ8WK/?tag=tolees-21'
-descuento: '22.48'
-average: '1.03571428571429'
+descuento: '20.00'
+average: '1.03125'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: Haribo
 - Geles dulces
-- Discos fresa, balla-balla fresa, ladrillo fresa-nata, mini torcidas fresa, balla-balla creamy
 - Mix de piezas de regaliz rojo con sabor a fresa y nata
+- Marca: Haribo
+- Discos fresa, balla-balla fresa, ladrillo fresa-nata, mini torcidas fresa, balla-balla creamy
 
 [🛒 Aquí!!!]({{< param buyurl >}})

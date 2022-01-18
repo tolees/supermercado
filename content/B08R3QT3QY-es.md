@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Maridaje: las cualidades organolépticas de este aceite resultan ideales para la elaboración de cualquier tipo de plato, desde guisos o asados hasta fritos
-- Nota de cata: frutado, versátil y equilibrado; la entrada en boca marca su fuerte personalidad con un sabor auténtico, complejo y persistente
 - Variedad: aceite de oliva virgen extra coupage elaborado en su mayoría con aceituna de la variedad hojiblanca
+- Nota de cata: frutado, versátil y equilibrado; la entrada en boca marca su fuerte personalidad con un sabor auténtico, complejo y persistente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

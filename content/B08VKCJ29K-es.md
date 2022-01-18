@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Variedad: aceite de oliva virgen extra ecológico elaborado a partir de distintas variedades de aceitunas
-- Maridaje: las cualidades organolépticas de este aceite resultan ideales para la elaboración de cualquier tipo de plato, desde guisos o asados hasta fritos
 - Nota de cata: frutado y ligero; la entrada en boca es ligeramente dulce, con un toque amargo y un picante de intensidad media
+- Maridaje: las cualidades organolépticas de este aceite resultan ideales para la elaboración de cualquier tipo de plato, desde guisos o asados hasta fritos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
