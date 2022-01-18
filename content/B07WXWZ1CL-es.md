@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Favoritos Red Pica  1 x 150 g'
-date: 2022-01-16 20:16:09
+date: 2022-01-18 14:16:38
 image: 'https://m.media-amazon.com/images/I/51FmZwiqlIS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un irresistible mix de sabores y colores con recubrimiento pica
 - Delicioso surtido de diferentes piezas clasicas
 - Geles dulces
+- Con un irresistible mix de sabores y colores con recubrimiento pica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
