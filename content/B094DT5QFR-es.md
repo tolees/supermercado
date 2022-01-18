@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nescafé DOLCE GUSTO Café AMERICANO - Pack de 3 x 16 cápsulas - Total: 48 Cápsulas'
-date: 2022-01-16 12:08:45
+date: 2022-01-18 18:19:59
 image: 'https://m.media-amazon.com/images/I/51VikzrTrvS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nescafé Dolce Gusto'
 buyurl: 'https://www.amazon.es/dp/B094DT5QFR/?tag=tolees-21'
 descuento: '25.77'
-average: '11.11'
+average: '11.0583333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
