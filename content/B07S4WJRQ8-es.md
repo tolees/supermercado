@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Acondicionador en spray para niños que elimina los nudos y enredos del cabello fácilmente
-- Acondicionador sin colorantes, ftalatos, sulfatos y jabón
-- Nuestra fórmula No Llores Más evita las lágrimas y es tan suave en los ojos como el agua más pura.
-- Facilita el peinado incluso en cabellos largos o rizados
 - Probado por pediatras y dermatólogos
+- Facilita el peinado incluso en cabellos largos o rizados
+- Nuestra fórmula No Llores Más evita las lágrimas y es tan suave en los ojos como el agua más pura.
+- Acondicionador sin colorantes, ftalatos, sulfatos y jabón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
