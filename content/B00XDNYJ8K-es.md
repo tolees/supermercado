@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elaborados con los mejores ingredientes
 - Con cacao puro de calidad superior
-- El chocolate más fino y exquisito
 - Para verdaderos expertos en chocolate
+- Elaborados con los mejores ingredientes
+- El chocolate más fino y exquisito
 - Porciones individuales rellenas de un tierno corazón de chocolate con leche
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Producto Para El Cuidado Y Bienestar De Tu Cuerpo
-- Producto de la marca BIOCOP
 - Elaborado con productos naturales
+- Producto de la marca BIOCOP
 
 [🛒 Comprar!!!]({{< param buyurl >}})
