@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Desmaquilla, limpia y alivia
 - Apta para usarías de lentillas
 - Sin parabenos
-- Desmaquilla, limpia y alivia
 - Elimina maquillaje waterproof
 - Apta para pieles y ojos muy sensibles
 

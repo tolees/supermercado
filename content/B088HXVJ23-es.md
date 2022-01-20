@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pernigotti - Crema De Gianduia Negra  350 g'
-date: 2022-01-08 20:40:47
+date: 2022-01-20 21:19:29
 image: 'https://m.media-amazon.com/images/I/41l6g45ykVS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pernigotti'
 buyurl: 'https://www.amazon.es/dp/B088HXVJ23/?tag=tolees-21'
 descuento: '25.06'
-average: '3.80818181818182'
+average: '3.74'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Solo aromas naturales (sin vainillina, ni otros aromas artificiales) . Solo grasas vegetales seleccionadas (principalmente de coco y nueces). Nunca hidrogenadas ni refinadas.
 - Sin aceite de palma.
-- Alérgenos: leche y productos derivados (incluida la lactosa), frutos con cáscara.
 - Sin gluten.
+- Alérgenos: leche y productos derivados (incluida la lactosa), frutos con cáscara.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

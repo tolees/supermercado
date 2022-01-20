@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alto contenido de Fibra
-- Apto para veganos
 - Sin colorantes ni aromas artificiales
+- Apto para veganos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
