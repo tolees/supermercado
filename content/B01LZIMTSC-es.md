@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana Leche Entera  6 x 1 L'
-date: 2022-01-13 07:30:36
+date: 2022-01-21 09:10:29
 image: 'https://m.media-amazon.com/images/I/511-tctve0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Central Lechera Asturiana'
 buyurl: 'https://www.amazon.es/dp/B01LZIMTSC/?tag=tolees-21'
 descuento: '0.00'
-average: '12.0119672131148'
+average: '11.9523577235773'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso neto de 1 L
-- origen: España
 - Contiene leche o derivados de la leche (lactosa)
+- origen: España
+- Peso neto de 1 L
 - Una vez abierto conservar en el frigorifico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
