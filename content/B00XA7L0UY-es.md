@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los cafés mezcla contienen una parte de granos tostados al natural y una pequeña parte de granos torrefactos, es decir, tostados con una capa de azúcar
 - Café molido de tueste natural (70%) y torrefacto (30%)
-- Bonka es el café óptimo para cualquier momento del día: desayuno, sobremesa o una pausa
 - Café de cultivo sostenible
+- Los cafés mezcla contienen una parte de granos tostados al natural y una pequeña parte de granos torrefactos, es decir, tostados con una capa de azúcar
 - Bonka fomenta las buenas prácticas en el cultivo del café promoviendo una agricultura responsable y sostenible; Bonka Café cumple con todos los estándares de sostenibilidad
+- Bonka es el café óptimo para cualquier momento del día: desayuno, sobremesa o una pausa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

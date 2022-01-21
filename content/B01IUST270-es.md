@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gullón Galletas Cereales Dibus Mini Angry Birds  250g'
-date: 2022-01-09 20:34:06
+date: 2022-01-21 18:29:48
 image: 'https://m.media-amazon.com/images/I/51o3M6hBMTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gullón'
 buyurl: 'https://www.amazon.es/dp/B01IUST270/?tag=tolees-21'
 descuento: '45.05'
-average: '1.01023255813953'
+average: '1.01'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mini galletas con 6 cereales, con forma de los personajes de Angry Birds.
+- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico. Fabricado por Galletas Gullón.
 - Con vitaminas y hierro.
 - Estas deliciosas galletas son una fuente de fibra, el mejor desayuno para los más pequeños.
 - No contienen lactosa ni proteínas de leche, tampoco huevo ni frutos secos.
-- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico. Fabricado por Galletas Gullón.
-- Mini galletas con 6 cereales, con forma de los personajes de Angry Birds.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

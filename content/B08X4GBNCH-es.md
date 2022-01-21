@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 4.Este moderno espejo de luz LED se ve hermoso y de excelente calidad, máscara acrílica sólida, resistencia a altas temperaturas, luz transparente, impermeable y antivaho, ajuste de ángulo de 120 ° posible, aplicable a la iluminación de espejos de baños, dormitorios, murales, inodoros y arte exposiciones.
-- 5. La satisfacción de nuestros clientes es muy importante para nosotros y si encuentra algún problema o comentario, estaremos encantados de escucharle.
-- 2. Larga vida, ahorro de energía: con una vida media de 30.000 horas, fuente de luz LED de alta calidad, segura y ecológica. El chip LED de alta calidad y la tecnología LED de alta eficiencia ahorran hasta un 80% de energía en comparación con las bombillas tradicionales.
 - 1. material y tamaño: aluminio, acrílico, arte de hierro ； Tamaño: 12W / 50CM; Voltaje: AC100-240V.
+- 4.Este moderno espejo de luz LED se ve hermoso y de excelente calidad, máscara acrílica sólida, resistencia a altas temperaturas, luz transparente, impermeable y antivaho, ajuste de ángulo de 120 ° posible, aplicable a la iluminación de espejos de baños, dormitorios, murales, inodoros y arte exposiciones.
 - 3. Fácil de instalar: el paquete contiene todo el hardware de montaje (soporte de montaje, tornillos), para una instalación rápida y fácil, pero para su seguridad, instálelo bajo la supervisión de un profesional. Nota: el "soporte de instalación" se encuentra debajo del base de lámpara.
+- 2. Larga vida, ahorro de energía: con una vida media de 30.000 horas, fuente de luz LED de alta calidad, segura y ecológica. El chip LED de alta calidad y la tecnología LED de alta eficiencia ahorran hasta un 80% de energía en comparación con las bombillas tradicionales.
+- 5. La satisfacción de nuestros clientes es muy importante para nosotros y si encuentra algún problema o comentario, estaremos encantados de escucharle.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

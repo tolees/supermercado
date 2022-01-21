@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 0 % de parabenos, siliconas y colorantes
-- Champú para puntas dañadas y raíces grasas
-- Pantene Hair Biology, para lucir un pelo increíble cada día
 - Nutre las puntas dañadas
-- Con agua de rosas, agua micelar y complejo ProV
 - Deja el pelo con aspecto sano y con movimiento
+- Pantene Hair Biology, para lucir un pelo increíble cada día
 - Purifica las raíces en profundidad
+- 0 % de parabenos, siliconas y colorantes
+- Con agua de rosas, agua micelar y complejo ProV
+- Champú para puntas dañadas y raíces grasas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
