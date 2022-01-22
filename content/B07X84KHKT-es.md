@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplicar sobre el cabello húmedo, repartiendo de forma uniforme; Emulsionar y aclarar; Repetir el mismo paso
 - Champú perfeccionador del color para cabello coloreado formulado con resveratrol y panthenol; Lava, suaviza y purifica aportando brillo infinito y luminosidad
+- Aplicar sobre el cabello húmedo, repartiendo de forma uniforme; Emulsionar y aclarar; Repetir el mismo paso
 - Protege el color hasta 8 semanas para unos resultados radiantes durante más tiempo; Además, sella el color aportando hasta 6 veces más brillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

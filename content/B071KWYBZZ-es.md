@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Shampoo 500 ml
-- Producido por LOreal Professionnel
 - Producto de cuidado del cabello de calidad
+- Producido por LOreal Professionnel
+- Shampoo 500 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
