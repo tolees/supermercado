@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Café Santa Cristina Café Tostado Molido natural - Paquete de 250 gr'
-date: 2022-01-21 17:21:10
+date: 2022-01-22 20:09:35
 image: 'https://m.media-amazon.com/images/I/41NN5ely-XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un café molido tradicional y malagueño
-- Santa Cristina es el café óptimo para cualquier momento del día: desayuno, sobremesa o una pausa
-- Café molido de tueste natural
-- Café recomendado para cafetera italiana, de filtro y express
 - Café aromático y equilibrado,
 - Disfruta del placer de tomar un buen café Santa Cristina en tu desayuno o a cualquier hora
+- Café recomendado para cafetera italiana, de filtro y express
+- Santa Cristina es el café óptimo para cualquier momento del día: desayuno, sobremesa o una pausa
+- Café molido de tueste natural
+- Un café molido tradicional y malagueño
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
