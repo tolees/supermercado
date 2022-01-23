@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Limpieza suave: con el uso regular, el gel de lavado evita los poros obstruidos y ayuda a prevenir impurezas. El pelo de la barba también se vuelve suave y flexible
-- Contenido y detalles: gel de lavado Nivea Men Sensitive de 100 ml, gel de lavado suave para la cara, para hombres con piel sensible. Número de artículo: 88875
-- Manzanilla y vitamina E: con manzanilla y vitamina E, el gel de lavado calma los 5 signos de irritación de la piel: ardor, enrojecimiento, sequedad, sensación tensa y picazón
 - Gel de lavado sensible: el gel de lavado es ideal para hombres con piel facial sensible. Limpia suavemente y a fondo la piel de la suciedad y el exceso de sebo
 - 0% de alcohol: el gel limpiador sin alcohol* deja la piel fresca. Se confirma la compatibilidad de la piel en hombres con piel sensible. (*Sin alcohol etílico)
+- Contenido y detalles: gel de lavado Nivea Men Sensitive de 100 ml, gel de lavado suave para la cara, para hombres con piel sensible. Número de artículo: 88875
+- Limpieza suave: con el uso regular, el gel de lavado evita los poros obstruidos y ayuda a prevenir impurezas. El pelo de la barba también se vuelve suave y flexible
+- Manzanilla y vitamina E: con manzanilla y vitamina E, el gel de lavado calma los 5 signos de irritación de la piel: ardor, enrojecimiento, sequedad, sensación tensa y picazón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Limpieza en profundidad, elimina las manchas más difíciles
 - Descubre el resto de detergentes y complementos para el lavado de Colon
 - Detergente para la lavadora concentrado en formato gel higiene
+- Limpieza en profundidad, elimina las manchas más difíciles
 - Apto para ropa blanca y de color
 - Higieniza los tejidos y elimina los malos olores de tu ropa gracias a sus activos higiénicos
 

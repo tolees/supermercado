@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- El Acondicionador Express sin aclarado proporciona un peinado inmediato y efecto antiestático.
+- Gama especialmente adaptada a las necesidades del cabello dañado por el invierno. Repara los daños del invierno gracias a que contiene microlípidos y suero botánico.
 - Neceser Winter Repair de Gliss compuesto por Champú Winter Repair 250ml, Mascarilla Winter Repair 300ml y Acondicionador Exprés Bifásico Winter Repair 200ml
 - El Champú, Acondicionador Exprés y la Mascarilla Winter Repair de Gliss, proporcionan mayor cuidado y protección.
-- Gama especialmente adaptada a las necesidades del cabello dañado por el invierno. Repara los daños del invierno gracias a que contiene microlípidos y suero botánico.
-- El Acondicionador Express sin aclarado proporciona un peinado inmediato y efecto antiestático.
 - Protege de una sensación seca del cabello.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
