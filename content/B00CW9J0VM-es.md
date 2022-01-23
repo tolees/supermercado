@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ederra Crianza - Vino tinto DO Rioja  100% Tempranillo -75cl'
-date: 2022-01-14 14:20:20
+date: 2022-01-23 10:07:45
 image: 'https://m.media-amazon.com/images/I/31oRkba2mJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Crianza, D.O.Ca. Rioja
-- Varietales: Tempranillo y Garnacha
-- Nota de cata (boca): Se trata de un vino con entrada en boca amable, con tanino ligero, muy pulido. Balanceado y con recuerdos frutales y una persistencia intermedia
 - Nota de cata (vista): Color granate-cereza de intensidad media y destellos violáceos
+- Nota de cata (boca): Se trata de un vino con entrada en boca amable, con tanino ligero, muy pulido. Balanceado y con recuerdos frutales y una persistencia intermedia
+- Varietales: Tempranillo y Garnacha
 - Maridaje: Combina con los quesos cremosos y los semicurados. Los embutidos, setas, platos de legumbres o una tortilla de patatas, además del clásico maridaje: platos de carne con un crianza de Rioja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
