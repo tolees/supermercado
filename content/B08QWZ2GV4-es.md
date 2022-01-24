@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Yzaguirre rojo es un vermut de formulación original, raiz mediterranea y estimulante paladar
-- Como servir: Ideal para ser consumido solo con hielo, adornado con una aceituna rellena y una rodaja de naranja
-- Procedencia: Spain
 - Formato bag in box 3l; original diseño
 - Se elabora siguiendo un proceso de producción artesanal, donde se cuidan todos los detalles, desde la selección de ingredientes hasta el embotellado
-- De color caoba con reflejos anaranjados, presenta un aroma intenso, con notas cítricas y especiadas y ligeros toques balsámicos
 - Contenido de alcohol (alc/vol): 15.0 percent by volume
+- Procedencia: Spain
+- Yzaguirre rojo es un vermut de formulación original, raiz mediterranea y estimulante paladar
 - Muy buena intensidad en boca, bien equilibrada con la acidez.un largo regusto levemente amargo e intenso
+- Como servir: Ideal para ser consumido solo con hielo, adornado con una aceituna rellena y una rodaja de naranja
+- De color caoba con reflejos anaranjados, presenta un aroma intenso, con notas cítricas y especiadas y ligeros toques balsámicos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
