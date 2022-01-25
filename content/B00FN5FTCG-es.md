@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Combina la textura crujiente de las láminas de galleta con la suavidad y la cremosidad de la nata
-- Alérgenos: contiene cereales con gluten y soja; puede contener leche
-- Conservar en lugar fresco y seco
 - Oreo original en 1 paquete de 154 g, las galletas adecuadas para acompañar con un vaso de leche
 - Galletas de cacao rellenas de una deliciosa crema con sabor a vainilla
+- Conservar en lugar fresco y seco
+- Alérgenos: contiene cereales con gluten y soja; puede contener leche
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
