@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El diámetro del cristal es de 11,6 cm
-- El vaso de globo Gin Tonic de la serie Bar Special de la marca Schott Zwiesel es adecuado tanto para profesionales como para cualquier bar en casa
 - La forma abombada ofrece mucho espacio para crear una bebida de moda
 - Dos vasos para ginebra de la marca Schott Zwiesel
 - El volumen es de 710 ml
+- El diámetro del cristal es de 11,6 cm
+- El vaso de globo Gin Tonic de la serie Bar Special de la marca Schott Zwiesel es adecuado tanto para profesionales como para cualquier bar en casa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

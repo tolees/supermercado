@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proporciona un afeitado extra-confortable y apurado
 - Protección contra pequeños cortes e irritaciones
 - Ablanda la barba para un deslizamiento más eficaz de la cuchilla
+- Proporciona un afeitado extra-confortable y apurado
 - Dermatológicamente comprobado
 - Previene la sequedad de la piel gracias a su fórmula con Aloe Vera, Vitaminas y Activos Hidratantes
 
