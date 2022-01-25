@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin conservantes.
+- Knorr vietnamese pho 60g.
 - Cena equilibrada y deliciosa lista en 5 minutos.
 - Sin glutamato.
-- Knorr vietnamese pho 60g.
+- Sin conservantes.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
