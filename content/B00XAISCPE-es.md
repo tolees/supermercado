@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Formato: Dosificador
-- Texturas: Loción
 - Tipo de Piel: Todo Tipo de Pieles
+- Texturas: Loción
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
