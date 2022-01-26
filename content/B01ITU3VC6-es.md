@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepsi MAX 1.75L - Refresco de Cola con Zero Azúcar - Bipack'
-date: 2022-01-20 20:21:56
+date: 2022-01-26 16:30:40
 image: 'https://m.media-amazon.com/images/I/41TuFJCQO7S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PERNIGOTTI Cremino - Crema de gianduia y avellanas  350g '
-date: 2022-01-25 13:29:22
+date: 2022-01-26 15:59:56
 image: 'https://m.media-amazon.com/images/I/41ytJRFGqVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin aceite de palma.
-- Solo aromas naturales (sin vainillina, ni otros aromas artificiales) . Solo grasas vegetales seleccionadas (principalmente de coco y nueces). Nunca hidrogenadas ni refinadas.
 - Alérgenos: leche y productos derivados (incluida la lactosa), frutos con cáscara.
+- Solo aromas naturales (sin vainillina, ni otros aromas artificiales) . Solo grasas vegetales seleccionadas (principalmente de coco y nueces). Nunca hidrogenadas ni refinadas.
 - Sin gluten.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
