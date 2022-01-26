@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vileda JetClean Limpiador de Suelos  400 W  5.3 tons  Microfibra  Negro'
-date: 2022-01-23 08:46:14
+date: 2022-01-26 21:01:24
 image: 'https://m.media-amazon.com/images/I/31LEYBX3K1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vileda'
 buyurl: 'https://www.amazon.es/dp/B07WTR2VGQ/?tag=tolees-21'
 descuento: '0.00'
-average: '240.397222222222'
+average: '237.744736842105'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
