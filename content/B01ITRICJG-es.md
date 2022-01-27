@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana Leche Desnatada  6 x 1L'
-date: 2022-01-26 09:35:34
+date: 2022-01-27 10:01:54
 image: 'https://m.media-amazon.com/images/I/51D0AaZxBTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Central Lechera Asturiana'
 buyurl: 'https://www.amazon.es/dp/B01ITRICJG/?tag=tolees-21'
 descuento: '0.00'
-average: '4.56923076923077'
+average: '4.57714285714286'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desnatada
 - Viene en un moderno envase de cartón
 - Leche UHT
 - Para los que se cuidan sin obsesiones y sin renunciar al sabo
 - Tradicional
+- Desnatada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
