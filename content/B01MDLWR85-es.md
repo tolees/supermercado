@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trapa Tableta de Chocolate Extrafino con Leche y Almendra  con Stevia  75 g'
-date: 2022-01-26 16:19:09
+date: 2022-01-27 20:51:31
 image: 'https://m.media-amazon.com/images/I/41qxjOgScDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trapa'
 buyurl: 'https://www.amazon.es/dp/B01MDLWR85/?tag=tolees-21'
 descuento: '0.00'
-average: '1.0'
+average: '0.975'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Temperatura ideal de conservación: 2ºC - 8ºC
+- Chocolate con Stevia
 - Conservar en lugar fresco, seco, alejado de olores y protegido de la luz solar
 - Sin gluten
+- Temperatura ideal de conservación: 2ºC - 8ºC
 - Sin Grasas Trans
-- Chocolate con Stevia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

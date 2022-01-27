@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ORLANDO Salsa Cheddar Con Bacon envase 235g'
-date: 2022-01-26 16:11:13
+date: 2022-01-27 20:37:33
 image: 'https://m.media-amazon.com/images/I/410679UVmGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ORLANDO'
 buyurl: 'https://www.amazon.es/dp/B07GWXH6LC/?tag=tolees-21'
 descuento: '9.15'
-average: '1.35'
+average: '1.37333333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene gluten
-- Ingredientes: Agua, Aceite de nabina, Vinagre de alcohol, azúcar, almidón modificado,yema de huevo, mostaza dulce (agua, semillas de mostaza, vinagre de alcohol, sal), sal, estabilizador: goma xantana, aromas y aromas a ahumado, colorantes,extracto de pimentón, antioxidante: E385 Agua, Aceite de nabina, Vinagre de alcohol, azúcar, almidón modificado,yema de huevo, mostaza dulce (agua, semillas de mostaza, vinagre de alcohol, sal), sal, estabilizador: goma xantana, aromas y aromas a ahumado, colorantes,extracto de pimentón, antioxidante: E385
 - Sin trozos
-- Con conservantes
-- Listo para consumir
 - Una vez abierto conservar en frigorífico
+- Contiene gluten
+- Listo para consumir
+- Con conservantes
 - Apto para Vegetarianos
+- Ingredientes: Agua, Aceite de nabina, Vinagre de alcohol, azúcar, almidón modificado,yema de huevo, mostaza dulce (agua, semillas de mostaza, vinagre de alcohol, sal), sal, estabilizador: goma xantana, aromas y aromas a ahumado, colorantes,extracto de pimentón, antioxidante: E385 Agua, Aceite de nabina, Vinagre de alcohol, azúcar, almidón modificado,yema de huevo, mostaza dulce (agua, semillas de mostaza, vinagre de alcohol, sal), sal, estabilizador: goma xantana, aromas y aromas a ahumado, colorantes,extracto de pimentón, antioxidante: E385
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
