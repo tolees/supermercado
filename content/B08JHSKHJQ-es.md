@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Azúcar, leche en polvo, manteca de cacao, emulgente (lecitinas), aroma natural de vainilla; Puede contener cacahuete, frutos de cáscara y soja
 - Leche, cacahuete, frutos de cáscara, soja
 - Esta tableta de chocolate blanco para repostería Nestlé postres, está pensada para elaborar todo tipo de postres caseros y recetas de chocolate
-- Un chocolate blanco con un gusto equilibrado adecuado para combinar con sabores frescos y afrutados como fresas o frutos del bosque
 - España
+- Un chocolate blanco con un gusto equilibrado adecuado para combinar con sabores frescos y afrutados como fresas o frutos del bosque
+- Azúcar, leche en polvo, manteca de cacao, emulgente (lecitinas), aroma natural de vainilla; Puede contener cacahuete, frutos de cáscara y soja
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Modo de empleo: aplicar sobre la piel limpia y seca masajeando suavemente hasta su total absorción
-- Crema multiacción para cara y cuerpo muy hidratante gracias a su contenido en aloe vera que evita la sequedad y conserva el equilibrio lipo-proteínico de la piel
-- Para la cara y el cuerpo
 - Aloe vera bio procedente de cultivo ecológico español certificado
-- De efecto prolongado y adecuada para todo tipo de pieles
 - Hidrata la piel protegiéndola de los agentes externos
+- Crema multiacción para cara y cuerpo muy hidratante gracias a su contenido en aloe vera que evita la sequedad y conserva el equilibrio lipo-proteínico de la piel
+- De efecto prolongado y adecuada para todo tipo de pieles
+- Para la cara y el cuerpo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
