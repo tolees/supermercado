@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 200 cápsulas repartidas en 10 paquetes de 20 cápsulas cada uno; peso neto de 1 paquete: 104 g; total 20 paquetes = 1040 g
-- Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso
-- Intensidad 11
 - Ristretto deslumbra los sentidos con su personalidad vivaz y fresca con un potente aroma especiado; una mezcla optima que, en busca de la perfección del espresso, te llevará a un viaje intensamente inolvidable
+- Intensidad 11
 - Sabor Potente, Con Carácter, Redondo
 - Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
+- Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
