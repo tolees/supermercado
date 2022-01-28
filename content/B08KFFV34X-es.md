@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dulces de regaliz
 - Apto para vegetarianos
-- Piezas en forma de stick largos de regaliz negro; con un 3% de extracto de regaliz
 - De la marca Haribo
+- Dulces de regaliz
+- Piezas en forma de stick largos de regaliz negro; con un 3% de extracto de regaliz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
