@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nesquik Noche - Cacao Soluble Instantáneo - 400 g'
-date: 2022-01-26 17:51:22
+date: 2022-01-29 00:22:27
 image: 'https://m.media-amazon.com/images/I/51-1EmNukGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nesquik'
 buyurl: 'https://www.amazon.es/dp/B095KLSKCN/?tag=tolees-21'
 descuento: '0.00'
-average: '2.87'
+average: '2.87666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin gluten
-- Instantáneo
 - Contiene melisa, tila y manzanilla
+- Instantáneo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

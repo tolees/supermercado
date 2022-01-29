@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes: zumo exprimido de naranja.
-- Temperaturas superiores a 35 º c pueden causar deterioro organoléptico en el producto
-- Ingredientes: Ingredientes: Zumo exprimido de Naranja
 - Advertencia de seguridad: Situación del lote y la fecha de consumo preferente: Parte superior del envase
-- Instrucciones para su uso adecuado: Agitar antes de usa
 - País de origen: España
-- Una vez abierto, consumir completamente tan pronto como sea posible o guardar refrigerado y consumir en un máximo de 4 días
+- Temperaturas superiores a 35 º c pueden causar deterioro organoléptico en el producto
 - Zumo 100% Exprimido de Naranja Sin Pulpa
+- Una vez abierto, consumir completamente tan pronto como sea posible o guardar refrigerado y consumir en un máximo de 4 días
+- Instrucciones para su uso adecuado: Agitar antes de usa
+- Ingredientes: Ingredientes: Zumo exprimido de Naranja
+- Ingredientes: zumo exprimido de naranja.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

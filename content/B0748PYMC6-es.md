@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alérgenos: contiene trigo y cebada; mantener en lugar fresco y seco
-- Con cacao certificado UTZ; al comprar cacao UTZ, ColaCao apoya el cultivo sostenible de cacao; los agricultores certificados por UTZ implementan mejores prácticas agrícolas, con respeto a la gente y al planeta
 - El ColaCao de siempre, eso tan tuyo; con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos; ideal para cualquier momento: desayuno, merienda, cena o como snack
 - Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos
+- Con cacao certificado UTZ; al comprar cacao UTZ, ColaCao apoya el cultivo sostenible de cacao; los agricultores certificados por UTZ implementan mejores prácticas agrícolas, con respeto a la gente y al planeta
 - 50 sobres de 18 gramos por envase "faro"; ideal para el sector hostelero, bares, restaurantes
+- Alérgenos: contiene trigo y cebada; mantener en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

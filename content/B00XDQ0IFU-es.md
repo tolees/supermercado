@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - No contienen lactosa ni proteínas de leche, tampoco huevo ni frutos secos.
-- Estas deliciosas galletas son fuente calcio y Vitamina A, el mejor desayuno para los más pequeños.
 - Las mini galletas Dibus de Gullón multicereales y sabor a chocolate.
-- Alto contenido en hierro y vitaminas B, D y E.
 - Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico. Fabricado por Galletas Gullón.
+- Estas deliciosas galletas son fuente calcio y Vitamina A, el mejor desayuno para los más pequeños.
+- Alto contenido en hierro y vitaminas B, D y E.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
