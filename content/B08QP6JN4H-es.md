@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - CON ACEITES ESENCIALES, el aceite esencial de magnolia se extrae responsablemente en Yannun, a la parte Este del Himalaya y se mezcla delicadamente con vainilla
-- VELA AROMÁTICA PERFUMADA con aceites esenciales y producida de forma sostenible
-- DECORATIVA, diseño apto para cualquier rincón del hogar
-- RECICLABLE, tanto el frasco de vidrio como la tapa
 - Descubre el resto de fragancias y ambientadores de Botanica by Air Wick
+- DECORATIVA, diseño apto para cualquier rincón del hogar
+- VELA AROMÁTICA PERFUMADA con aceites esenciales y producida de forma sostenible
+- RECICLABLE, tanto el frasco de vidrio como la tapa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
