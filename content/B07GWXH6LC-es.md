@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ORLANDO Salsa Cheddar Con Bacon envase 235g'
-date: 2022-01-27 20:37:33
+date: 2022-01-30 20:50:42
 image: 'https://m.media-amazon.com/images/I/410679UVmGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ORLANDO'
 buyurl: 'https://www.amazon.es/dp/B07GWXH6LC/?tag=tolees-21'
 descuento: '9.15'
-average: '1.37333333333333'
+average: '1.39'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin trozos
-- Una vez abierto conservar en frigorífico
-- Contiene gluten
-- Listo para consumir
-- Con conservantes
 - Apto para Vegetarianos
+- Una vez abierto conservar en frigorífico
 - Ingredientes: Agua, Aceite de nabina, Vinagre de alcohol, azúcar, almidón modificado,yema de huevo, mostaza dulce (agua, semillas de mostaza, vinagre de alcohol, sal), sal, estabilizador: goma xantana, aromas y aromas a ahumado, colorantes,extracto de pimentón, antioxidante: E385 Agua, Aceite de nabina, Vinagre de alcohol, azúcar, almidón modificado,yema de huevo, mostaza dulce (agua, semillas de mostaza, vinagre de alcohol, sal), sal, estabilizador: goma xantana, aromas y aromas a ahumado, colorantes,extracto de pimentón, antioxidante: E385
+- Contiene gluten
+- Con conservantes
+- Listo para consumir
+- Sin trozos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gel muy perfumado crema de jabón. Con olor a limpio. Deja la piel radiante e hidratada
-- Gel de baño y ducha máxima hidratación, con Glicerina y Vitamina E, nutre profundamente la piel y le aporta suavidad, ayudando a regenerarla. Agradable y suave fragancia.
 - No testado en animales. Vegano. Fabricación íntegra en España
-- Género; Unisex. Adulto e infantil
 - Libre de parabenos y colorantes. Dermatológicamente testado. Crea mucha espuma
+- Gel de baño y ducha máxima hidratación, con Glicerina y Vitamina E, nutre profundamente la piel y le aporta suavidad, ayudando a regenerarla. Agradable y suave fragancia.
+- Género; Unisex. Adulto e infantil
+- Gel muy perfumado crema de jabón. Con olor a limpio. Deja la piel radiante e hidratada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
