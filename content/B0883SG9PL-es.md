@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo  Golosinas Cerezas 100 g'
-date: 2022-01-18 20:37:42
+date: 2022-01-30 14:58:35
 image: 'https://m.media-amazon.com/images/I/51UBQm5rsEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B0883SG9PL/?tag=tolees-21'
 descuento: '0.00'
-average: '1.0'
+average: '0.996666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
