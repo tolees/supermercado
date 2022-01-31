@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ColaCao - Cola Cao Original  con Cacao Natural  2.7Kg  Altavoz con luz '
-date: 2022-01-26 17:14:07
+date: 2022-01-31 19:33:11
 image: 'https://m.media-amazon.com/images/I/51-LdbIrLcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ColaCao'
 buyurl: 'https://www.amazon.es/dp/B091GN6P5M/?tag=tolees-21'
 descuento: '0.00'
-average: '12.975'
+average: '13.37'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alérgenos: contiene trigo y cebada. Mantener en lugar fresco y seco
 - 192 raciones en su formato ahorro de 2,7kg (contiene 2 bolsas en su interior)
+- Alérgenos: contiene trigo y cebada. Mantener en lugar fresco y seco
+- El ColaCao de siempre, eso tan tuyo. Con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos. Ideal para cualquier momento: desayuno, merienda, cena o como snack. Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos
 - Gratis auriculares con micrófono integrado. Cómodo diseño plegable. Con botón play/parar música colgar/descolgar llamadas. Diadema ajustable. Cable 3,5 mm
 - Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente
-- El ColaCao de siempre, eso tan tuyo. Con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos. Ideal para cualquier momento: desayuno, merienda, cena o como snack. Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

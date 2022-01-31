@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Creado con algunos de los MEJORES CACAOS del MUNDO
 - BLEND exclusivo de valor creado por nuestros maestros chocolateros de Valor
-- SIN GLUTEN. Apto para celíacos.
 - TRADICIONALES, gama de tradicionales es la icónica gama de Valor.
 - AÚTENTICO Chocolate Negro 82%
+- SIN GLUTEN. Apto para celíacos.
+- Creado con algunos de los MEJORES CACAOS del MUNDO
 - APTO sólo para amantes de los altos porcentajes de cacao
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

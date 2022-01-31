@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Verter las perlas de perfume Lenor y las cápsulas de detergente directamente en el tambor vacío antes de la colada
 - Detergente lavadora con tecnología Odor Active que elimina los malos olores y perlas de perfume Lenor fragancia Fresh
 - Lenor Unstoppables impulsor de fragancia con tecnología odor-shield que bloquea los malos olores garantizando una mayor frescura entre lavados
-- Verter las perlas de perfume Lenor y las cápsulas de detergente directamente en el tambor vacío antes de la colada
 - El recubrimiento de la cápsula se disuelve totalmente al entrar en contacto con el agua
 - Limpieza profunda; eficaz en frío (incluso a 30ºC); resultados increíbles con una sola cápsula de detergente lavadora concentrado
 

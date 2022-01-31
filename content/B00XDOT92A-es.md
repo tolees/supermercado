@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protección anticaries probada
-- Pasta de dientes con flúor que aporta un triple beneficio
 - Previene el mal aliento
 - Consigue dientes más blancos
+- Protección anticaries probada
+- Pasta de dientes con flúor que aporta un triple beneficio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
