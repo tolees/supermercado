@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- País de Origen: España
 - 400 gr
+- País de Origen: España
 - Fuente de Fibra
 - Elaborada con aceite de girasol alto oleico
 
