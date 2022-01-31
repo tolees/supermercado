@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Werther S Original - Caramelos clásicos de nata - Sin azúcar - 1000 g'
-date: 2022-01-18 08:17:28
+date: 2022-01-31 11:06:21
 image: 'https://m.media-amazon.com/images/I/51jSqcDm6GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin gluten
-- 312 caramelos por bolsa
-- Caramelos de mantequilla y nata fresca sin azúcar
 - Aporte calórico de 290 kcal/100g
+- Sin gluten
+- Caramelos de mantequilla y nata fresca sin azúcar
+- 312 caramelos por bolsa
 - Pais de origen: Alemania
 
 [🛒 Comprar!!!]({{< param buyurl >}})
