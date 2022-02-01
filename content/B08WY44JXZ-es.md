@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Respira un fresco aroma primaveral con la fragancia de Lenor inspirada en las notas de chipre que saben de limpio y refrescante bergamota
 - 320 lavados (8 x 40)
 - Dermatológicamente probado
-- Respira un fresco aroma primaveral con la fragancia de Lenor inspirada en las notas de chipre que saben de limpio y refrescante bergamota
-- Botella fabricada con 100% plástico reciclado, se puede reciclar
 - Suavizante que aporta una sensación de suavidad y comodidad, menos arrugas y facilita el planchado
 - Suavizante que ofrece una frescura duradera y sábanas como recién lavadas cada noche hasta 1 semana
+- Botella fabricada con 100% plástico reciclado, se puede reciclar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
