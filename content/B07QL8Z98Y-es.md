@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rexona te impulsa para que disfrutes del movimiento y que nada te detenga
-- Rexona Woman Desodorante Antitranspirante Cotton Dry 200ml
 - Elaborado con tecnología motionsense que se activa con el movimiento
 - Desodorante que ofrece 48 horas de protección antitranspirante
+- Rexona te impulsa para que disfrutes del movimiento y que nada te detenga
+- Rexona Woman Desodorante Antitranspirante Cotton Dry 200ml
 - Desodorante pra mujer con un 0% de alcohol
 - Desodorante para piel sensible de secado rápido
 
