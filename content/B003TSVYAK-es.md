@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kas Naranja Bebida Refrescante de Zumo de Fruta  2L'
-date: 2022-01-30 22:07:33
+date: 2022-02-02 03:44:09
 image: 'https://m.media-amazon.com/images/I/312GgCv3yFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Evitar el contacto directo con suelo
-- Proteger de la luz solar y olores agresivos
 - No congelar
+- Proteger de la luz solar y olores agresivos
 - Conservar en lugar limpio, fresco seco
+- Evitar el contacto directo con suelo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

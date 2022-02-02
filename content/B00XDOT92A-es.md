@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Triple Acción Menta Original Pasta de Dientes  2 x 75ml'
-date: 2022-01-31 17:46:14
+date: 2022-02-02 03:58:49
 image: 'https://m.media-amazon.com/images/I/51NjMyNYp8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Colgate'
 buyurl: 'https://www.amazon.es/dp/B00XDOT92A/?tag=tolees-21'
 descuento: '21.60'
-average: '2.41535714285714'
+average: '2.40965517241379'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
