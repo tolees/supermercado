@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Campos  Conserva de atún en aceite de girasol - pack de 3 latas de 80 gr.'
-date: 2022-01-31 12:50:50
+date: 2022-02-03 21:38:26
 image: 'https://m.media-amazon.com/images/I/41CMv2eyeDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Campos'
 buyurl: 'https://www.amazon.es/dp/B07NRQ6J12/?tag=tolees-21'
 descuento: '7.95'
-average: '2.15555555555556'
+average: '2.15789473684211'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conserva de atún en aceite de girasol
-- Pack de 3 latas individuales, con tapa fácil apertura
 - Lata ideal para consumo individual
-- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - País de origen: españa, producto natural sin conservantes ni colorantes
+- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
+- Pack de 3 latas individuales, con tapa fácil apertura
+- Conserva de atún en aceite de girasol
 
 [🛒 Visítala!!!]({{< param buyurl >}})
