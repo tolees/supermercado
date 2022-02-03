@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pack Nikka Whisky Japonés From The Barrel de 50 cl + 2 vasos & boquilla de vertido'
-date: 2022-02-02 11:15:29
+date: 2022-02-03 16:40:49
 image: 'https://m.media-amazon.com/images/I/31nYZHl8MfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nikka'
 buyurl: 'https://www.amazon.es/dp/B085B5JBMW/?tag=tolees-21'
 descuento: '28.33'
-average: '46.75'
+average: '45.5'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para disfrutar sólo con hielo, con agua o en formato cóctel con un refrescante Horses Neck
+- Potente y firme; especiado; con notas de madera; recuerdos de fruta madura, manzana caramelizada y flores; final largo
+- Contenido de alcohol (alc/vol): 51.4 percent by volume
+- Graduación: 51,4% vol
 - Origen: Miyagikyo/Yoichi
 - Incluye: Nikka Whisky From The Barrel 50 cl + dos vasos + una boquilla de vertido
-- Contenido de alcohol (alc/vol): 51.4 percent by volume
-- Potente y firme; especiado; con notas de madera; recuerdos de fruta madura, manzana caramelizada y flores; final largo
-- Graduación: 51,4% vol
+- Para disfrutar sólo con hielo, con agua o en formato cóctel con un refrescante Horses Neck
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
