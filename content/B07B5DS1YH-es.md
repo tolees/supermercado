@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marqués de la Concordia - Caja de Berberana Carta de Plata Vino tinto - 6 botellas x 750 ml. - 4500 ml'
-date: 2022-02-02 14:56:26
+date: 2022-02-03 17:14:55
 image: 'https://m.media-amazon.com/images/I/41LlT+tNFvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Marqués de la Concordia'
 buyurl: 'https://www.amazon.es/dp/B07B5DS1YH/?tag=tolees-21'
 descuento: '14.57'
-average: '15.77'
+average: '15.9672727272727'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vino de color cereza con ribetes violáceos. Aromas a frutos maduros,agradable,con matices cremosos de buena madera y toques de vainilla.
-- Ideal para tomar con todo tipo de tapas
 - Temperatura de servicio 18º.
+- Ideal para tomar con todo tipo de tapas
+- Vino de color cereza con ribetes violáceos. Aromas a frutos maduros,agradable,con matices cremosos de buena madera y toques de vainilla.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
