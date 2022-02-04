@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Black Edition  1 x 100 gr'
-date: 2022-01-26 15:25:53
+date: 2022-02-04 18:17:58
 image: 'https://m.media-amazon.com/images/I/51N10uXmv1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
