@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Delaviuda Bombones de Chocolate - 180 gr'
-date: 2022-02-04 11:09:57
+date: 2022-02-05 22:29:30
 image: 'https://m.media-amazon.com/images/I/41AWqDkI4cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantener en un lugar fresco y seco
+- Elaborado con el mejor cacao
 - País de origen: España
 - Elaborado artesanalmente
-- Elaborado con el mejor cacao
+- Mantener en un lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
