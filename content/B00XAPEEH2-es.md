@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo  Favoritos Red&White 90g.'
-date: 2022-01-23 20:10:24
+date: 2022-02-07 20:29:20
 image: 'https://m.media-amazon.com/images/I/51uI6bjN8cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Mix de las piezas mas clásicas para los amantes del regaliz rojo.
 - Geles dulces.
 - Con sabor a fresa y nata.
-- Mix de las piezas mas clásicas para los amantes del regaliz rojo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
