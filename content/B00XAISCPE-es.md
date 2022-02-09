@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INSTITUTO ESPAÑOL loción hidratante aloe vera dosificador 950 ml'
-date: 2022-02-05 08:19:48
+date: 2022-02-09 08:33:40
 image: 'https://m.media-amazon.com/images/I/31tc+9wCReL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B00XAISCPE/?tag=tolees-21'
 descuento: '19.39'
-average: '3.694'
+average: '3.74333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de Piel: Todo Tipo de Pieles
 - Texturas: Loción
 - Formato: Dosificador
+- Tipo de Piel: Todo Tipo de Pieles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
