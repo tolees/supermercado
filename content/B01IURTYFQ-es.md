@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lindt Lindor Lata Corazón de San Valentín - Bombones de chocolate con leche  250gr'
-date: 2022-02-07 23:07:31
+date: 2022-02-09 11:13:47
 image: 'https://m.media-amazon.com/images/I/41tMiIfdYHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lindt'
 buyurl: 'https://www.amazon.es/dp/B01IURTYFQ/?tag=tolees-21'
 descuento: '22.52'
-average: '9.41916666666667'
+average: '9.40923076923077'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El mejor regalo para San Valentín
 - Fabricado en Italia
-- Lata con forma de corazón que contiene los exquisitos bombones Lindor de chocolate con leche
 - El envase contiene: 20 bombones Lindor Leche
 - Puede contener avellanas y otros frutos de cáscara
+- Lata con forma de corazón que contiene los exquisitos bombones Lindor de chocolate con leche
+- El mejor regalo para San Valentín
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
