@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOUSSEL - Dior Douche creme gel dermo hidratante 900 ml - 900 ml'
-date: 2022-02-08 16:09:53
+date: 2022-02-10 22:34:48
 image: 'https://m.media-amazon.com/images/I/31Kao1basjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MOUSSEL'
 buyurl: 'https://www.amazon.es/dp/B07L6K5QZQ/?tag=tolees-21'
 descuento: '48.80'
-average: '3.94'
+average: '3.80428571428571'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
