@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INSTITUTO ESPAÑOL - Atopische Haut- Creme 50 ml - unisex'
-date: 2022-02-12 06:38:06
+date: 2022-02-13 06:40:46
 image: 'https://m.media-amazon.com/images/I/41yzdPxkLPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B00XAIPYV4/?tag=tolees-21'
 descuento: '76.65'
-average: '0.98537037037037'
+average: '0.985454545454545'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Calma el picor
-- Acción anti-sequedad
 - Especial piel atópica
-- Regenera progresivamente la piel
 - Hipoalergénico
 - No irrita
+- Regenera progresivamente la piel
+- Acción anti-sequedad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
