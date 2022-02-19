@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Doritos Tex Mex Sabor a Queso -260g'
-date: 2022-02-16 12:28:31
+date: 2022-02-19 11:16:57
 image: 'https://m.media-amazon.com/images/I/51Iq41ENWDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Doritos'
 buyurl: 'https://www.amazon.es/dp/B01LYEYYA4/?tag=tolees-21'
 descuento: '0.00'
-average: '2.62'
+average: '2.64333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aperitivo listo para disfrutar en cualquier momento
-- Mantener en lugar fresco y seco
-- Snack adecuado para picotear o dipear
 - Con forma triangular para acompañar con la salsa que prefieras
+- Mantener en lugar fresco y seco
 - Con intenso sabor y rompedor crujido
+- Snack adecuado para picotear o dipear
+- Aperitivo listo para disfrutar en cualquier momento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
