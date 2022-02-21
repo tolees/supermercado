@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bodegas Bocopa - LAUDUM MONASTRELL ROBLE - CAJA 6 BOTELLAS - VINO TINTO ALICANTE DOP - 4 MESES CRIANZA - 100% MONASTRELL'
-date: 2022-02-19 17:25:26
+date: 2022-02-21 21:03:38
 image: 'https://m.media-amazon.com/images/I/31wDK+Qq-sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- PREMIOS: MEDALLA DE ORO GILBERT & GAILLARD. 88 PUNTOS GUÍA PEÑÍN
 - Vino apto para veganos. Vino procedente de viñedos cultivados de forma sostenible en el interior de Alicante.
 - Vino tinto mediterráneo con 4 meses de crianza en las mejores barricas de roble francés y húngaro.
 - Maridaje: Ideal para tapas y aperitivos, jamón, embutidos, quesos y carnes. Perfecto acompañante de paellas y arroces.
-- PREMIOS: MEDALLA DE ORO GILBERT & GAILLARD. 88 PUNTOS GUÍA PEÑÍN
 
 [🛒 Visítala!!!]({{< param buyurl >}})
