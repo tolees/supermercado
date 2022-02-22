@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborado con ingredientes seleccionados de calidad
-- Elaborado con pollo natural
-- Alimento complementario para gatos adultos - servir adicionalmente al alimento completo
-- Sin aromatizantes, conservantes o colorantes artificiales añadidos.
 - Servido en un suave caldo
+- Sin aromatizantes, conservantes o colorantes artificiales añadidos.
+- Elaborado con pollo natural
+- Elaborado con ingredientes seleccionados de calidad
+- Alimento complementario para gatos adultos - servir adicionalmente al alimento completo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

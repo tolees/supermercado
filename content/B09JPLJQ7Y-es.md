@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Alta calidad
-- Brand: La Sagra
 - Contenido de alcohol (alc/vol): 7.0 percent by volume
 - Cerveza artesanal de estilo Pumpkin Ale. De cuerpo denso y aterciopelado, aroma intenso, dulce y afrutado.
+- Brand: La Sagra
 
 [🛒 Visítala!!!]({{< param buyurl >}})
