@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Combate el daño desde el primer lavado
-- Pelo hidratado intensamente de la raíz a las puntas
 - Su fórmula incluye diferentes ingredientes anticaspa eficaces incluso para el pelo largo
-- Fórmula sin ingredientes no deseados: 0 % de parabenos, fosfatos y parafinas
 - Acondicionador con agentes hidratantes y aceite de argán
+- Fórmula sin ingredientes no deseados: 0 % de parabenos, fosfatos y parafinas
+- Pelo hidratado intensamente de la raíz a las puntas
+- Combate el daño desde el primer lavado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

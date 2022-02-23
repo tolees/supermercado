@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes seleccionados
-- Alta calidad
 - Nestle 12281212 capsula cafe espresso decaff.316
 - Brand: Nescafé Dolce Gusto
+- Alta calidad
+- Ingredientes seleccionados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
