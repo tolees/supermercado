@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOM Love - Ginebra Premium - 700 ml'
-date: 2022-02-22 19:22:42
+date: 2022-02-23 19:41:15
 image: 'https://m.media-amazon.com/images/I/41hYcfZMsoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MOM'
 buyurl: 'https://www.amazon.es/dp/B07SHTJL4F/?tag=tolees-21'
 descuento: '17.02'
-average: '11.8363157894737'
+average: '11.759'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- perfecto como un regalo
-- Sabor: Suave, dulce, aromas de fresa.
-- Acabado: Larga duración, suave.
 - Color: Rosa claro.
 - Nariz: Frutal, veraniega, de bayas.
+- Sabor: Suave, dulce, aromas de fresa.
+- Acabado: Larga duración, suave.
+- perfecto como un regalo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
