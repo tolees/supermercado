@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Artiach Filipinos Galleta Bañada con Chocolate Blanco  100g'
-date: 2022-02-21 20:42:04
+date: 2022-02-22 21:46:55
 image: 'https://m.media-amazon.com/images/I/414jnzukLvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contiene leche o derivados de la leche
-- Conservar en un lugar fresco y seco
-- Irresistible agujero con auténtico chocolate
 - Disfrútalos donde quieras y como quieras
 - Puede contener huevos
+- Irresistible agujero con auténtico chocolate
+- Conservar en un lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
