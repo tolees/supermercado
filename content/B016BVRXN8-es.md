@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lagunilla Reserva Vino Tinto Reserva D.O Rioja - 3 botellas x 750 ml - 2250 ml'
-date: 2022-02-18 17:29:54
+date: 2022-02-24 19:27:02
 image: 'https://m.media-amazon.com/images/I/516D90PkXAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lagunilla'
 buyurl: 'https://www.amazon.es/dp/B016BVRXN8/?tag=tolees-21'
 descuento: '6.01'
-average: '18.0218181818181'
+average: '18.0952173913043'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para tomar asados, ternera, cordero, piezas de caza, pastas con salsas de tomate
 - El año de cosecha puede variar entre 2011-2015
-- Temperatura servicio 17º
 - Redondo, potente, muy aromático con un postgusto persistente
+- Temperatura servicio 17º
+- Ideal para tomar asados, ternera, cordero, piezas de caza, pastas con salsas de tomate
 - Aromas terrosos. Frescas y suaves notas de frutas rojas del bosque en equilibrio con roble de especias.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
