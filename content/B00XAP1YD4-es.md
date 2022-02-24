@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Contenido de 1 kg
 - Irresistible sabor a frutas tropicales
 - Conservar en lugar fresco y seco
-- Contenido de 1 kg
 - Deliciosas piezas en forma de mini frutas tropicales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

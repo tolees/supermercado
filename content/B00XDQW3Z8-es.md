@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto sin gluten
-- Envasado en atmósfera protectora
 - Apto para celiacos
 - Conservar en lugar fresco y seco
+- Producto sin gluten
+- Envasado en atmósfera protectora
 - Proteger de la luz solar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
