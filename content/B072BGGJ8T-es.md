@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mexifoods - Tortillas de Maíz para Tacos  250 g'
-date: 2022-02-21 18:55:24
+date: 2022-02-24 21:27:50
 image: 'https://m.media-amazon.com/images/I/51qHtZPik2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mexifoods'
 buyurl: 'https://www.amazon.es/dp/B072BGGJ8T/?tag=tolees-21'
 descuento: '10.58'
-average: '1.59666666666667'
+average: '1.62'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alérgenos: puede contener trazas de gluten y soja
 - Tortilla de maíz, harina de maíz(47%), agua, sal, estabilizantes: (E466, E412), conservadores (E282, E202). Corrector de acidez E296. Envasado atmosfera protectora.
-- Mantener en un lugar fresco y seco
 - País de origen: España
+- Alérgenos: puede contener trazas de gluten y soja
+- Mantener en un lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
