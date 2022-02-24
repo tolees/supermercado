@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnnie Walker Black Label Whisky - 1000 ml'
-date: 2022-02-16 17:58:11
+date: 2022-02-24 12:58:12
 image: 'https://m.media-amazon.com/images/I/41BLgBf8a5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B004QEKTSO-es Johnnie Walker Black Label Whisky - 1000 ml'
 sku: 'B004QEKTSO-es'
 tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Whisky','johnnie','johnnie walker','walker','whisky', ]
-actualPrice: 32.95 EUR
+actualPrice: 24.5 EUR
 currency: EUR
-price: 32.95
+price: 24.5
 comparePrice: 35.99 EUR
 prodname: 'Johnnie Walker Black Label Whisky - 1000 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Johnnie Walker'
 buyurl: 'https://www.amazon.es/dp/B004QEKTSO/?tag=tolees-21'
-descuento: '8.45'
-average: '26.7556666666667'
+descuento: '31.93'
+average: '26.6829032258065'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
