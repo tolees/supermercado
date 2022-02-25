@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- No deja residuos visibles después del cepillado
+- 24h de efecto anti-grasa
 - El Champú Seco de Gliss es adecuado para utilizar entre lavados ya que sus fórmulas consiguen aportar 1 día extra de frescor o volumen sin necesidad de lavarlo
 - Aplicación: cubre tus hombros con una toalla y cepilla tu cabello, agita el envase y vaporiza sobre la raíz capa a capa a una distancia de 20cm; Déjalo actuar y cepilla bien
 - ¡El secreto para estar siempre adecuada! Cabello limpio al instante
-- No deja residuos visibles después del cepillado
-- 24h de efecto anti-grasa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

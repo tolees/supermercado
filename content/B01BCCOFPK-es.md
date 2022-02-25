@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ☀️ [ FABRICACIÓN EN ESPAÑA ] Fabricado en laboratorio certificado con IFS. Sin OGM (Organismos Modificados Genéticamente). Buenas prácticas de fabricación (GMP). NO Contiene: Gluten, Pescado, Lactosa, Lácteos, Soja, Frutos Secos, Huevo.
+- 🔝 [ ÁCIDO LINOLÉICO CONJUGADO PERLAS ] Aporta 2400mg de CLA por dosis diaria compuesta de 3 perlas blandas (cantidad recomendada para optimizar los efectos) a partir de 3000 mg de Aceite de Semilla de Cártamo (80% CLA) → Rico en ácidos grasos poliinsaturados Omega 6.
+- ⭐ [ FÓRMULA HSN ] La forma de CLA empleada para el desarrollo de nuestro producto es aquella que ha sido utilizada en la mayoría de los estudios científicos de alta calidad metodológica → concentración equimolar de isómeros c9, t11 y t10, c12.
 - 🏆 [ CÓMODAS PERLAS ] Muy fácil de tomar con agente de recubrimiento → No tienen sabor ni producen reflujo como otros aceites grasos.
 - ✔️ [ NO ENGAÑAMOS EN LA ETIQUETA ] Otros fabricantes especifican la cantidad de Aceite de Semilla de Cártamo, no el CLA. Desde HSN ofrecemos la información transparente al cliente final → 2400 mg de CLA por Dosis Diaria.
-- 🔝 [ ÁCIDO LINOLÉICO CONJUGADO PERLAS ] Aporta 2400mg de CLA por dosis diaria compuesta de 3 perlas blandas (cantidad recomendada para optimizar los efectos) a partir de 3000 mg de Aceite de Semilla de Cártamo (80% CLA) → Rico en ácidos grasos poliinsaturados Omega 6.
-- ☀️ [ FABRICACIÓN EN ESPAÑA ] Fabricado en laboratorio certificado con IFS. Sin OGM (Organismos Modificados Genéticamente). Buenas prácticas de fabricación (GMP). NO Contiene: Gluten, Pescado, Lactosa, Lácteos, Soja, Frutos Secos, Huevo.
-- ⭐ [ FÓRMULA HSN ] La forma de CLA empleada para el desarrollo de nuestro producto es aquella que ha sido utilizada en la mayoría de los estudios científicos de alta calidad metodológica → concentración equimolar de isómeros c9, t11 y t10, c12.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

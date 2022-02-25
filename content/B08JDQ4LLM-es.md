@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Labial de larga duración
+- Con vitamina E, aceite de coco y aloe vera; para una aplicación y llevado confortable
+- Formulado con una mezcla de polvos matificantes y microesferas para una apariencia mate suave y favorecedora
 - Con un acabado mate suave
 - Color de impacto con tan sólo una pasada
-- Formulado con una mezcla de polvos matificantes y microesferas para una apariencia mate suave y favorecedora
-- Con vitamina E, aceite de coco y aloe vera; para una aplicación y llevado confortable
+- Labial de larga duración
 
 [🛒 Comprar!!!]({{< param buyurl >}})
