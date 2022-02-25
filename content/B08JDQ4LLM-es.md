@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Lasting Finish Extreme Matte lipstick  barra de labios  tono 220 - 21 g'
-date: 2022-02-23 20:58:46
+date: 2022-02-25 09:42:48
 image: 'https://m.media-amazon.com/images/I/31R3hGlevDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con vitamina E, aceite de coco y aloe vera; para una aplicación y llevado confortable
 - Labial de larga duración
 - Con un acabado mate suave
-- Formulado con una mezcla de polvos matificantes y microesferas para una apariencia mate suave y favorecedora
 - Color de impacto con tan sólo una pasada
+- Formulado con una mezcla de polvos matificantes y microesferas para una apariencia mate suave y favorecedora
+- Con vitamina E, aceite de coco y aloe vera; para una aplicación y llevado confortable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
