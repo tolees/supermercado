@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para un resultado óptimo, combínalo con Lenor UNstoppables perlas de perfume para la ropa
-- Detergente lavadora con tecnología Ultra Oxi, extra poder quitamanchas, que elimina las manchas más difíciles
 - No deja residuos visibles en las telas y aporta una fragancia suave que dura todo el día
-- Detergente lavadora líquido para una limpieza profunda; eficaz en frío (incluso a 30 °C) y en lavados cortos
 - Botella 100% reciclable
+- Detergente lavadora con tecnología Ultra Oxi, extra poder quitamanchas, que elimina las manchas más difíciles
+- Detergente lavadora líquido para una limpieza profunda; eficaz en frío (incluso a 30 °C) y en lavados cortos
+- Para un resultado óptimo, combínalo con Lenor UNstoppables perlas de perfume para la ropa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
