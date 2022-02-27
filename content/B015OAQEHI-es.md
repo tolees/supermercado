@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español Leche Hidratante de Urea  950ml'
-date: 2022-02-25 09:32:33
+date: 2022-02-27 14:32:02
 image: 'https://m.media-amazon.com/images/I/41G2whOEdyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B015OAQEHI/?tag=tolees-21'
 descuento: '34.51'
-average: '3.93929411764706'
+average: '3.93379310344828'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Género: Unisex Adulto
 - Texturas: Leche
 - Tipo de Piel: Seca
+- Género: Unisex Adulto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
