@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Stay Matte Powder Polvos de maquillaje Tono 5 - 14 gr'
-date: 2022-02-26 03:48:10
+date: 2022-02-27 04:44:31
 image: 'https://m.media-amazon.com/images/I/51MkCJT2YNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rimmel London'
 buyurl: 'https://www.amazon.es/dp/B006EHWDEE/?tag=tolees-21'
 descuento: '28.07'
-average: '3.13010050251256'
+average: '3.13495'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Acabado mate sin brillos
 - Hasta 9 horas de duración
 - Ayuda a minimizar la apariencia de los poros
-- Acabado mate sin brillos
-- Dermatológicamente testado
 - Polvo compacto matificante con minerales naturales
+- Dermatológicamente testado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
