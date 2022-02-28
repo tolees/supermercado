@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Hogar - Bosch TSM6A013B - Molinillo de café eléctrico  180 W  capacidad 75 gramos  color negro'
-date: 2022-02-27 05:21:25
+date: 2022-02-28 13:13:00
 image: 'https://m.media-amazon.com/images/I/31Eeni7K7xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Hogar'
 buyurl: 'https://www.amazon.es/dp/B07J6JLW11/?tag=tolees-21'
 descuento: '31.46'
-average: '21.7895'
+average: '21.8942857142857'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuchillas de acero inoxidable para un molido fino y preciso
 - Seguro: funciona solo cuando la tapa está correctamente cerrada
+- Podrás moler hasta 75 gramos de café en grano
 - Fácil de usar y de guardar gracias a su reducido tamaño: solo 9 cm de diámetro y 17 cm de altura
 - Interruptor de seguridad para evitar accidentes
-- Cuchillas de acero inoxidable para un molido fino y preciso
-- Podrás moler hasta 75 gramos de café en grano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
