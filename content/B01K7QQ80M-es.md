@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aroma: Aromas frutales de manzana verde, frutas de hueso maduras y cítricos.
+- Maridaje: Comida diaria, pescado, arroz, ensaladas.
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos servir entre 6ºC y 8ºC.
 - Gusto: Refrescante acidez con buen equilibrio, las notas afrutadas vuelven en el retrogusto.
-- Apariencia: Color amarillo pálido.
 - Tipo de uva: variedad Airen
-- Maridaje: Comida diaria, pescado, arroz, ensaladas.
+- Aroma: Aromas frutales de manzana verde, frutas de hueso maduras y cítricos.
+- Apariencia: Color amarillo pálido.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
