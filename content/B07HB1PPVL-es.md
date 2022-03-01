@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MAESTROS ACEITEROS: Coosur tiene una dilatada historia de más de 50 años. Sus orígenes se sitúan en la provincia andaluza de Jaén, la mayor región productora de aceite de oliva de todo el mundo.
 - CONSERVACIÓN: Para mantener las cualidades organolépticas del producto es imprescindible garantizar su correcta conservación preservando el aceite de oliva en un lugar seco, fresco y alejado de la luz.
-- AOVE DE CALIDAD SUPERIOR: Este aceite coupage ha sido elaborado a partir de una rigurosa selección de aceitunas y cuidando con detalle cada proceso para obtener un zumo de aceituna 100 % de gran sabor y aroma.
+- MAESTROS ACEITEROS: Coosur tiene una dilatada historia de más de 50 años. Sus orígenes se sitúan en la provincia andaluza de Jaén, la mayor región productora de aceite de oliva de todo el mundo.
 - USO: El compañero ideal para tus recetas. Este aceite de oliva virgen extra es perfecto para utilizar en platos en crudo, cremas de verduras, sopas frías y frituras. También puedes emplearlo en verduras tanto crudas como hervidas o asadas.
+- AOVE DE CALIDAD SUPERIOR: Este aceite coupage ha sido elaborado a partir de una rigurosa selección de aceitunas y cuidando con detalle cada proceso para obtener un zumo de aceituna 100 % de gran sabor y aroma.
 - UN GRAN FORMATO PARA UN GRAN ACEITE: El aceite de oliva virgen extra es un ingrediente de uso diario en nuestra cocina. Con esta garrafa podrás preparar una gran cantidad de platos sin miedo a quedarte sin él. Envase de 5 litros disponible en formato PET.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
