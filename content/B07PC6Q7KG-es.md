@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Conecta contigo!
 - Una fragancia única, llena de placer
-- Una textura suave y cremosa que mantiene la tersura natural de tu piel
 - Envuélvete en su abundante espuma y resérvate ese ratito de positividad cada día
-- Con Aloe Vera 100% natural, para purificar tu piel y dejarla visiblemente sana
+- ¡Conecta contigo!
 - Gel de Ducha Moussel Purificante con Aloe Vera Formato Familiar
+- Una textura suave y cremosa que mantiene la tersura natural de tu piel
+- Con Aloe Vera 100% natural, para purificar tu piel y dejarla visiblemente sana
 
 [🛒 Visítala!!!]({{< param buyurl >}})
