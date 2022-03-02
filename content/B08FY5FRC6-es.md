@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAMPOS Pack De 4 Latas De 80 G De Atún Claro De Pesca Responsable Apr En Aceite De Oliva  340 ml - Pack de 4'
-date: 2022-03-01 09:45:10
+date: 2022-03-02 11:47:13
 image: 'https://m.media-amazon.com/images/I/41jau-f-oPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Advertencia de seguridad: Una vez abierto consumir en su totalidad
 - Información de alérgenos: fish
 - País de origen: España, producto natural sin conservantes ni colorantes
-- Advertencia de seguridad: Una vez abierto consumir en su totalidad
-- Lata ideal para consumo individual
-- Instrucciones para su uso adecuado: Mantener en lugar fresco y seco
-- Conserva de atún claro de pesca responsable APR en aceite de oliva
 - Pack de 4 latas individuales de 80 g, con tapa fácil apertura
+- Lata ideal para consumo individual
+- Conserva de atún claro de pesca responsable APR en aceite de oliva
 - Ingredientes: Ingredientes: Atún claro (especie: ver lata) (pescado) aceite de oliva y sal
 - Método de pesca: cerco. ver especie y zona de pesca en la lata
+- Instrucciones para su uso adecuado: Mantener en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
