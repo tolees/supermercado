@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El lubricante ideal para juguetes: ¡Con la base acuosa se puede usar con cualquier juguete, incluso de silicona! 100% apto para condones de látex
-- Sin grasa ni colorantes, fácil de lavar, sensación agradable sobre la piel. El mejor lubricante para una experiencia sensual, muy fructífero
-- Cierre dosificador una mano: El lubricante sin silicona es hidrosoluble y cumple los estrictos estándares alemanes. Composición vegana, clínicamente testado
-- El lubricante ideal para sexo oral: El sabor sensual a chocolate para que no acabe nunca el francés y los preliminares sean inolvidables.
 - Gel lubricante Deluxe para sexo pasional con un aroma afrodisíaco y sabor a chocolate. Composición acuosa con deslizamiento de larga duración
+- Cierre dosificador una mano: El lubricante sin silicona es hidrosoluble y cumple los estrictos estándares alemanes. Composición vegana, clínicamente testado
+- Sin grasa ni colorantes, fácil de lavar, sensación agradable sobre la piel. El mejor lubricante para una experiencia sensual, muy fructífero
+- El lubricante ideal para sexo oral: El sabor sensual a chocolate para que no acabe nunca el francés y los preliminares sean inolvidables.
+- El lubricante ideal para juguetes: ¡Con la base acuosa se puede usar con cualquier juguete, incluso de silicona! 100% apto para condones de látex
 
 [🛒 Aquí!!!]({{< param buyurl >}})

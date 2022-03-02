@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ayuda al correcto crecimiento y desarrollo de tu bebé gracias a que contiene una combinación de lípidos lácteos y otros nutrientes esenciales
 - Leche de Continuación Hero Baby 2; ayuda a reforzar las defensas y a un óptimo desarrollo
+- En Hero Baby llevamos más de 80 años de investigación en nutrición infantil, contribuyendo a una vida saludable a través de la ciencia; la nutrición temprana tiene una influencia decisiva sobre el desarrollo posterior del bebé en la edad adulta
 - Desde Hero creemos que la leche materna es la mejor y más importante para tu bebé por eso recomendamos que antes de utilizar esta o cualquier fórmula infantil consultes con tu profesional de salud
 - Su fórmula contiene Lípidos Lácteos, DHA, ARA y Galacto-oligosacáridos (GOS), naturalmente presentes en la leche materna, vitamina A,C y D; además no incluye aceite de palma
-- En Hero Baby llevamos más de 80 años de investigación en nutrición infantil, contribuyendo a una vida saludable a través de la ciencia; la nutrición temprana tiene una influencia decisiva sobre el desarrollo posterior del bebé en la edad adulta
+- Ayuda al correcto crecimiento y desarrollo de tu bebé gracias a que contiene una combinación de lípidos lácteos y otros nutrientes esenciales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
