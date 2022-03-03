@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexona  Desodorante Aerosol Antitranspirante para hombre Cobalt Dry Compressed 100ml - Pack de 6'
-date: 2022-02-16 06:10:52
+date: 2022-03-02 22:17:52
 image: 'https://m.media-amazon.com/images/I/51KwoAPi1PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07MTVD83T-es Rexona Desodorante Aerosol Antitranspirante para hombre...'
 sku: 'B07MTVD83T-es'
 tags: [ 'Baño e higiene personal','Belleza','Desodorante','Desodorantes y antitranspirantes','desodorante','rexona', ]
-actualPrice: 9.54 EUR
+actualPrice: 6.0 EUR
 currency: EUR
-price: 9.54
+price: 6.0
 comparePrice: 11.94 EUR
 prodname: 'Rexona  Desodorante Aerosol Antitranspirante para hombre Cobalt Dry Compressed 100ml - Pack de 6'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Rexona'
 buyurl: 'https://www.amazon.es/dp/B07MTVD83T/?tag=tolees-21'
-descuento: '20.10'
-average: '11.54'
+descuento: '49.75'
+average: '10.7485714285714'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elaborado con tecnología motionsense que se activa con el movimiento
 - Desodorante antitranspirante que ofrece la mayor protección por hasta 48 horas
-- Desodorante en spray para hombre de secado rápido
 - Rexona te impulsa para que disfrutes del movimiento y que nada te detenga
-- Rexona Men Desodorante Antitranspirante Compressed Cobalt Dry 100ml
+- Desodorante en spray para hombre de secado rápido
+- Elaborado con tecnología motionsense que se activa con el movimiento
 - Desodorante 0% alcohol para hombre
+- Rexona Men Desodorante Antitranspirante Compressed Cobalt Dry 100ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
