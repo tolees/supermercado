@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Vino Blanco de Graduación: 13.5º
 - Variedad Verdejo de Color Dorado Pálido
 - D.O. Rueda
-- Vino Blanco de Graduación: 13.5º
-- Nota de Cata: En Nariz es Perfumado con Aromas de Hinojo
 - Botella Bordelesa Tradición Light con Capacidad de 750 ml (0.75 L)
+- Nota de Cata: En Nariz es Perfumado con Aromas de Hinojo
 - Maridaje: Pasta, Arroz o Quesos Suaves.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
