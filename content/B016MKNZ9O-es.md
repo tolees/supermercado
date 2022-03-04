@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Suavidad irresistible
 - Equilibrio perfecto, suavidad y resistencia
-- 16 rollos
 - Recuerda incluir Papel Higiénico Húmedo Scottex en tu rutina diaria para una higiene adecuada
+- 16 rollos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
