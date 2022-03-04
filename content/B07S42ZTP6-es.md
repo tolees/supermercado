@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Poema Verdejo Vino Blanco D.O Rueda-6 botellas de 750 ml  Total 4.5 L  BODEGA CUATRO RAYAS'
-date: 2022-03-03 08:17:51
+date: 2022-03-04 12:48:16
 image: 'https://m.media-amazon.com/images/I/51pt9uzj4HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botella Bordelesa Tradición Light con Capacidad de 750 ml (0.75 L)
 - Variedad Verdejo de Color Dorado Pálido
+- D.O. Rueda
 - Vino Blanco de Graduación: 13.5º
 - Nota de Cata: En Nariz es Perfumado con Aromas de Hinojo
-- D.O. Rueda
+- Botella Bordelesa Tradición Light con Capacidad de 750 ml (0.75 L)
 - Maridaje: Pasta, Arroz o Quesos Suaves.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
