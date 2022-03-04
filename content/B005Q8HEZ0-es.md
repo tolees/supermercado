@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor: regaliz, especias, brezo, notas de humo.
 - Acabado: Larga duración, suave, con toques de fruta seca.
 - Color: oro rojo.
 - Nariz: Compleja, dulce como la miel, con toques de manzana.
+- Sabor: regaliz, especias, brezo, notas de humo.
 - perfecto como un regalo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
