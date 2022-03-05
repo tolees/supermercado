@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exclusivo neceser de Bourjois
 - Conotur Clubbing Waterproof Black, el eyelinerde larga duración y resistente al agua
-- Little Round Pot, el colerete icónico de Bourjois
 - Volume Glamour Red, la máscara de pestañas que proporciona el máximo volumen a tus pestañas
+- Little Round Pot, el colerete icónico de Bourjois
 - Velvet Ink Tono 003, el labial liquido de acabado mate permanente
+- Exclusivo neceser de Bourjois
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

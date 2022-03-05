@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- El regalo ideal para iniciarse en el mundo de Dalwhinnie y los whiskies puros de malta
 - Dalwhinnie 15 Year Old es un whisky puro de malta de las Tierras Altas que procede de la destilería escocesa más fría y situada a más altitud
 - El sabor limpio del brezo es adecuado para disfrutarlo solo o con un poco de agua sin gas
-- Ganador de la medalla de oro en la San Francisco World Spirits Competition de 2016
 - Envejecido en la destilería escocesa más fría y situada a más altitud para liberar su carácter meloso y sus suaves notas de brezo
-- El regalo ideal para iniciarse en el mundo de Dalwhinnie y los whiskies puros de malta
+- Ganador de la medalla de oro en la San Francisco World Spirits Competition de 2016
 
 [🛒 Visítala!!!]({{< param buyurl >}})
