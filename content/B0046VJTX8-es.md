@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplícalo en forma de triangulo bajo la ojera y difumina a toquecitos con el dedo hasta que quede fundido con la piel y después aplica tu base de maquillaje habitual
 - Corrector de ojeras e imperfecciones Fit Me para un acabado natural
+- Aplícalo en forma de triangulo bajo la ojera y difumina a toquecitos con el dedo hasta que quede fundido con la piel y después aplica tu base de maquillaje habitual
 - Utilízalo también para corregir pequeños errores de maquillaje, o como primer en los párpados o labios
-- Formulado con una base matificante y traslúcida con pigmentos ligeros para adaptarse a la textura y tono de la piel
 - Acabado natural, adaptado al tono y a la textura de la piel y una cobertura uniforme, con un punto de luz
+- Formulado con una base matificante y traslúcida con pigmentos ligeros para adaptarse a la textura y tono de la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

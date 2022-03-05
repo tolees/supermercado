@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Combinación, perfecta para combinar en tus mejores platos
+- Oliva, aceite de Oliva con un máximo de acidez de 1º.
+- Cómodo, uso sencillo y Cómodo gracias a nuestro pack de 5 botellas.
 - Preservar del calor y del exceso de luz
 - Sabor, intenso aceite que le da un carácter para ser uno de los líderes del mercado
-- Cómodo, uso sencillo y Cómodo gracias a nuestro pack de 5 botellas.
-- Oliva, aceite de Oliva con un máximo de acidez de 1º.
-- Combinación, perfecta para combinar en tus mejores platos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
