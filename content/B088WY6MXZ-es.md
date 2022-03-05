@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Date un capricho con esta tableta de chocolate excepcionalmente rica con un 70% de contenido de cacao
-- Empacado de calidad en una caja de cartón que facilita la consumición y el almacenaje
 - Saborea el paraíso con este producto hecho en Gran Canaria y entregado a la comodidad de su puerta
 - Un chocolate negro cremoso, de sabor intenso, con alto porcentaje de cacao (70%) que deleita el paladar de todos
-- Procedencia: ESPAÑA; ingredientes: Pasta de cacao, azúcar, manteca de cacao, cacao desgrasado en polvo, emulgente (lecitina de soja) y aromas; puede contener trazas de frutos de cáscara y leche; advertencia de seguridad: Puede contener: leche, almendras y avellanas; instrucciones para su uso adecuado: Se recomienda un almacenamiento entre 16 y 20°C (fresco y seco) y sin exposición directa a la luz solar; las temperaturas no deben superar los 26°C durante largo tiempo; especialidad: Sin modificaciones genéticas (GMO free); información de alérgenos: soy
 - ¡Es un regalo ideal para cualquier amante del chocolate negro intenso!
+- Empacado de calidad en una caja de cartón que facilita la consumición y el almacenaje
+- Procedencia: ESPAÑA; ingredientes: Pasta de cacao, azúcar, manteca de cacao, cacao desgrasado en polvo, emulgente (lecitina de soja) y aromas; puede contener trazas de frutos de cáscara y leche; advertencia de seguridad: Puede contener: leche, almendras y avellanas; instrucciones para su uso adecuado: Se recomienda un almacenamiento entre 16 y 20°C (fresco y seco) y sin exposición directa a la luz solar; las temperaturas no deben superar los 26°C durante largo tiempo; especialidad: Sin modificaciones genéticas (GMO free); información de alérgenos: soy
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

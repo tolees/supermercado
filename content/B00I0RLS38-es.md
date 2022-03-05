@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- País de origen: Colombia
 - Contiene 29% alcohol
+- País de origen: Colombia
 - No contiene azúcar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
