@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Monodosis listas para usar sin necesidad de retirar el envoltorio
-- Pastillas lavavajillas todo en uno, óptima limpieza, que eliminan inlcuso la grasa más incrustada a la primera
 - Ayudan a prevenir la acumulación de grasa en el sistema de drenaje, en los filtros y en el brazo rociador
 - Mantinen un aroma limpio y fresco en el lavavajillas
 - Contienen sal que garantiza un aclarado perfecto a la vez que protege el cristal y la plata
+- Pastillas lavavajillas todo en uno, óptima limpieza, que eliminan inlcuso la grasa más incrustada a la primera
+- Monodosis listas para usar sin necesidad de retirar el envoltorio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

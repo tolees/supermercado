@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1. 48 horas de hidratación intensiva
-- 3. Nutre intensamente la piel durante 48 horas y reduce visiblemente la aspereza de la piel muy seca-tras una sola aplicación.
 - 2. Fórmula infusionada con serum de hidratación profunda y manteca de karité.
+- 3. Nutre intensamente la piel durante 48 horas y reduce visiblemente la aspereza de la piel muy seca-tras una sola aplicación.
+- 1. 48 horas de hidratación intensiva
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
