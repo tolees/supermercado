@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Final: Largo final, fruta oscura.
+- Sabor: roble seco, bourbon, canela, arce.
 - Nariz: vainilla cremosa, manzanas, canela.
 - perfecto como un regalo
 - Color: Ámbar.
-- Sabor: roble seco, bourbon, canela, arce.
-- Final: Largo final, fruta oscura.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
