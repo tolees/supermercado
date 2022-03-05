@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pigmento Resina Epoxi  Colorante Jabones 18ml*16 Colores - LIUCOLI Mica en Polvo Metálico Natural para Kit Hacer Velas  Slime  Pintura  Jabon Aceite'
-date: 2022-02-22 12:15:08
+date: 2022-03-05 08:40:22
 image: 'https://m.media-amazon.com/images/I/51yr38QGgdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DESATA TU CREATIVIDAD: Los coloridos pigmentos en mica en polvo son versátiles y dan color y brillo a las obras de arte. Puede usarlo en pigmento resina epoxi, colorante jabones, velas, pigmentos slime, esmalte de uñas, sombra de ojos, brillo de labios, arcilla, joyas, pintura y otros proyectos de bricolaje.
-- GLITTER BLING BLING POWDER: Viene en una botella de polvo brillante para agregar brillo a tu obra de arte. El polvo de brillo plateado agrega más capas a su obra de arte, hace que las posibilidades de belleza sean infinitas y hace que su obra de arte llame la atención.
 - ALTA CALIDAD: Mica en polvo natural ultrafino de 10-60m con tono metálico y efecto brillo. Cada vial puede contener hasta 18 ml/más de 5 g de pigmento en polvo. 16 hermosos colores que se adaptan a ti. Cada vial está bien cerrado, el vial que reciba no derramará ningún polvo ni decolorará toda la caja.
 - NO TÓXICO Y SIN PARABENOS: La mica es un mineral de silicato que se ha utilizado durante siglos y el mica en polvo es resistente a la luz y estable y le da brillo y brillo a las obras de arte. Nuestromica en mica en polvo es natural, no tóxico, sin parabenos, vegetariano y fácil de limpiar. NOTA: Solo para uso externo. No lo inhales.
+- GLITTER BLING BLING POWDER: Viene en una botella de polvo brillante para agregar brillo a tu obra de arte. El polvo de brillo plateado agrega más capas a su obra de arte, hace que las posibilidades de belleza sean infinitas y hace que su obra de arte llame la atención.
 - DISEÑO ESPECIAL DE DOBLE TAPA ABIERTA: dos tipos de tapas de botella de tamaño de apertura para verter fácilmente el polvo de pigmento, lo que le brinda un buen control de la cantidad de polvo de mica según el tamaño de cada producto y la profundidad de color que desee.
+- DESATA TU CREATIVIDAD: Los coloridos pigmentos en mica en polvo son versátiles y dan color y brillo a las obras de arte. Puede usarlo en pigmento resina epoxi, colorante jabones, velas, pigmentos slime, esmalte de uñas, sombra de ojos, brillo de labios, arcilla, joyas, pintura y otros proyectos de bricolaje.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
