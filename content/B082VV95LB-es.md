@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un producto 100% natural, procedentes de lomos de enteros de pescado cocido
 - El Atun Claro que CONSORCIO comercializa procede exclusivamente de las aguas del Atlantico, un origen de reconocido prestigio por su alta calidad
-- Tarro de Atún Claro al Natural. Tarro 195gr
-- Ingredientes: Atún Claro, Agua y Sal
 - Todo el sabor del Atlántico
+- Ingredientes: Atún Claro, Agua y Sal
+- Tarro de Atún Claro al Natural. Tarro 195gr
+- Un producto 100% natural, procedentes de lomos de enteros de pescado cocido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
