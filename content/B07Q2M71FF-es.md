@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lata ideal para consumo de 1 o 2 personas
-- País de origen: España, producto natural sin conservantes ni colorantes
-- Conserva de atún en aceite de girasol
 - Práctica lata individual de 111 g peso neto con tapa fácil apertura
+- Lata ideal para consumo de 1 o 2 personas
 - Método de pesca: cerco. Ver especie y zona de pesca en la lata.
+- Conserva de atún en aceite de girasol
+- País de origen: España, producto natural sin conservantes ni colorantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
