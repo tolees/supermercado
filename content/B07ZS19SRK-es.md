@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZS19SRK-es Vermouth Padró & Co - Vermouth Myrrha Rojo - 1 L'
 sku: 'B07ZS19SRK-es'
-tags: [ 'vermouth', ]
+tags: [ 'Alimentación y bebidas','Cervezas, vinos y licores','Vinos','Vinos fortificados y de postre','vermouth','vermouth padró & co', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95
@@ -16,7 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'Vermouth Padró & Co - Vermouth Myrrha Rojo - 1 L'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Vermouth Padró & Co'
 buyurl: 'https://www.amazon.es/dp/B07ZS19SRK/?tag=tolees-21'
 descuento: '0.00'
 average: '6.3375'
