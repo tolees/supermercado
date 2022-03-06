@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Campos Conserva De Atún En Tomate  80 g - Pack de 3'
-date: 2022-03-04 21:51:54
+date: 2022-03-06 14:51:24
 image: 'https://m.media-amazon.com/images/I/41YuXeqM9AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Atún en deliciosa salsa de tomate
-- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - Lata ideal para consumo individual
+- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
+- Atún en deliciosa salsa de tomate
 - Pack de 3 latas individuales, con tapa fácil apertura
 - País de origen: españa, producto natural sin conservantes ni colorantes
 
