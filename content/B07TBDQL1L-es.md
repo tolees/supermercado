@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 💎 MACETA INTERIOR DE PRIMERA CALIDAD Y SIN QUEMAR - Recipiente interior de alta calidad de acero inoxidable y doble revestimiento cerámico antiadherente. Distribución de calor en 3D para un arroz uniforme y perfectamente cocido.
-- 🍚 MÁS QUE COCINAR ARROZ - La arrocera eléctrica tiene 8 programas de cocción. No sólo puede cocinar especialidades de arroz como el sushi o el tahdig (arroz crujiente persa) con sólo pulsar un botón. También puedes preparar quinoa u otros cereales, cocinar al vapor verduras, pescado y carne u hornear un pastel.
-- 💯 ARROZ PERFECTO CON SÓLO PULSAR UN BOTÓN - Sabor a arroz, consistencia perfecta y preparación nutritiva gracias a la innovadora tecnología de cocción de 7 fases.
 - ⭐ POTENTE OLLA DE ARROZ DE ALTA CALIDAD - Larga vida útil / Mano de obra de alta calidad / Pantalla LED de fácil lectura / Capacidad de 0,6 litros para hasta 3 personas / 350 W / 220 V / Dimensiones: 26 x 22 x 21 cm / Peso: 3,02 kg / Incl. vaso medidor, cuchara de cocina de arroz, inserto para vaporizador / Instrucciones de uso detalladas
 - 🕐 ÚTIL TEMPORIZADOR Y FUNCIÓN DE MANTENIMIENTO DEL CALOR - Arroz delicioso a la hora que desee con un funcionamiento intuitivo. Con el botón del temporizador puede retrasar el proceso de cocción hasta 24 horas. Después de la cocción, la olla programable pasa automáticamente al modo de mantenimiento del calor.
+- 🍚 MÁS QUE COCINAR ARROZ - La arrocera eléctrica tiene 8 programas de cocción. No sólo puede cocinar especialidades de arroz como el sushi o el tahdig (arroz crujiente persa) con sólo pulsar un botón. También puedes preparar quinoa u otros cereales, cocinar al vapor verduras, pescado y carne u hornear un pastel.
+- 💎 MACETA INTERIOR DE PRIMERA CALIDAD Y SIN QUEMAR - Recipiente interior de alta calidad de acero inoxidable y doble revestimiento cerámico antiadherente. Distribución de calor en 3D para un arroz uniforme y perfectamente cocido.
+- 💯 ARROZ PERFECTO CON SÓLO PULSAR UN BOTÓN - Sabor a arroz, consistencia perfecta y preparación nutritiva gracias a la innovadora tecnología de cocción de 7 fases.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

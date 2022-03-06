@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Debe ser servido a una temperatura entre 15º y 16º C bien solo o acompañando a carnes rojas, embutidos ibéricos, quesos curados y platos de caza
-- Su paso por boca nos muestra su complejidad y estructura. El perfecto equilibrio entre acidez, dulzor y tanicidad, dan lugar a un vino con gran elegancia y personalidad
-- Sorprende su intenso color rojo cereza con ligeros tonos púrpuras característico de la variedad Graciano
 - El intenso aroma a frutas negras junto con notas florales de violetas, armonizan con tonos minerales, que evolucionan a aromas balsámicos y cacaos
+- Debe ser servido a una temperatura entre 15º y 16º C bien solo o acompañando a carnes rojas, embutidos ibéricos, quesos curados y platos de caza
+- Sorprende su intenso color rojo cereza con ligeros tonos púrpuras característico de la variedad Graciano
+- Su paso por boca nos muestra su complejidad y estructura. El perfecto equilibrio entre acidez, dulzor y tanicidad, dan lugar a un vino con gran elegancia y personalidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

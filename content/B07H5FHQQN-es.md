@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Clara hecha según la receta tradicional mediterránea: 6 partes de cerveza mediterránea de malta, arroz y lúpulo por 4 partes de limón con un toque de lima.
 - Alc. 3,2% vol.
 - Los limones de Damm Lemon son de la variedad “Primafiori” del mediterráneo. Añadimos un ligero toque de lima del Caribe, que hace el sabor más refrescante y sofisticado.
-- Clara hecha según la receta tradicional mediterránea: 6 partes de cerveza mediterránea de malta, arroz y lúpulo por 4 partes de limón con un toque de lima.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
