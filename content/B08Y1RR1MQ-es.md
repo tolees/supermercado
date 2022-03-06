@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este paquete te permite explorar cafés más intensos con diferentes características
+- Café de fuera de la UE. Tostado en Bélgica y envasado en Italia
 - 20 Espresso Intenso cápsulas + 20 Nespresso Decaff + 20 Ristretto Intenso cápsulas + 20 Lungo Intenso cápsulas
 - Apto para dietas vegetarianas y veganas
 - RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
-- Envasado en atmósfera protectora para mantener su frescura
 - Con una variedad de sabores, la mayoría de estos cafés se caracterizan por su intensidad y sus aromas a caramelo o chocolate
-- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera. Conservar en un lugar fresco y seco
-- Café de fuera de la UE. Tostado en Bélgica y envasado en Italia
 - Cápsulas compatibles con Nespresso* (* No registrada por Amazon EU S.a.r.l.) No es compatible con las máquinas Nespresso Vertuo
+- Este paquete te permite explorar cafés más intensos con diferentes características
+- Envasado en atmósfera protectora para mantener su frescura
+- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera. Conservar en un lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

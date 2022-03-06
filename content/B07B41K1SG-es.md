@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tableta de chocolate blanco
-- Conservar en lugar fresco y seco
-- Puede contener gluten y frutos secos
 - El sabor y textura ideal
 - Contiene leche
+- Conservar en lugar fresco y seco
+- Tableta de chocolate blanco
+- Puede contener gluten y frutos secos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
