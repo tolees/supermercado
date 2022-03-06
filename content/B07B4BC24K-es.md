@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Para niñas a partir de 3 años
 - Con activos de acción calmante e hidratante
 - Con aloe vera & extracto de melocotón
 - Sin jabón y sin alcohol
-- Para niñas a partir de 3 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})

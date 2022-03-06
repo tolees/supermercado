@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Force-Stone ayuda a la corrección de toxicidades ocasionadas por exceso de aluminio, hierro o manganeso.
 - El force-Stone polvo de basalto ecoforce es una roca ígnea de origen volcánico rica en sílice, calcio, magnesio y hierro, para uso en agricultura convencional y ecológica.
 - Polvo de basalto. Fertilizantes a base de silicio. Aporte de microelementos para todo tipo de plantas.
 - Aplicaciones periódicas de Force-Stone en suelos pobres, mejora la capacidad de intercambio catiónico y la retención de nutrientes.
-- Force-Stone ayuda a la corrección de toxicidades ocasionadas por exceso de aluminio, hierro o manganeso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

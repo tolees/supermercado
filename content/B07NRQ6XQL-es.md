@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Atún en deliciosa salsa de tomate
 - País de origen: españa, producto natural sin conservantes ni colorantes
+- Atún en deliciosa salsa de tomate
+- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - Pack de 3 latas individuales, con tapa fácil apertura
 - Lata ideal para consumo individual
-- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
