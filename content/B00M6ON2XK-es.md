@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pata Negra Reserva Vino Tinto D.O Ribera del Duero - Pack de 3 Botellas x 750 ml'
-date: 2022-03-04 13:02:04
+date: 2022-03-07 14:48:45
 image: 'https://m.media-amazon.com/images/I/41wEMc0UyAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gusto: En boca es redondo, sedoso y amplio, con un retrogusto afrutado, tiene un tanino dulce, elegante y persistente.
-- Aroma: Perfil aromático limpio donde se perciben notas de frutos silvestres, toques de vainilla y torrefactos de una madera bien ensamblada.
-- Tipo de uva: Elaborado con uvas Tinta del País, Merlot y Cabernet Sauvignon, tras la maceración, la crianza se realiza en barricas de roble americano y francés durante 24 meses, posteriormente permanece 12 meses en botella.
 - Apariencia: Vino tinto de color intenso rojo picota de capa alta.
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos consumirlo entre los 16ºC y 18ºC.
+- Tipo de uva: Elaborado con uvas Tinta del País, Merlot y Cabernet Sauvignon, tras la maceración, la crianza se realiza en barricas de roble americano y francés durante 24 meses, posteriormente permanece 12 meses en botella.
+- Gusto: En boca es redondo, sedoso y amplio, con un retrogusto afrutado, tiene un tanino dulce, elegante y persistente.
 - Maridaje: Este vino combina muy bien con carnes rojas y asados.
+- Aroma: Perfil aromático limpio donde se perciben notas de frutos silvestres, toques de vainilla y torrefactos de una madera bien ensamblada.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

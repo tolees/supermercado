@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Zagal Pieza De Sobrasada De Mallorca Tradicional  250 g'
-date: 2022-03-05 12:38:11
+date: 2022-03-07 13:45:21
 image: 'https://m.media-amazon.com/images/I/41ONfMMDmIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'El Zagal'
 buyurl: 'https://www.amazon.es/dp/B06XT2MND3/?tag=tolees-21'
 descuento: '0.00'
-average: '2.68240000000002'
+average: '2.67923076923079'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Recetario amplio y variado
-- Alérgenos:no contiene ningún alégeno presente en productos alimenticios definidos por la Unión Europea (Real Decreto 1169/2011)Leche y derivados,incluida la lactosa.Huevo y productos a base de huevo
-- País de origen: España
 - Mantener en un lugar fresco entre 2 y 8 º
 - Tocino y magro de cerdo, pimentón, sal, dextrosa, aroma natural de romero y antioxidantes (extracto rico en tocoferoles, ésteres de ácidos grasos de ácido ascórbico).
+- Alérgenos:no contiene ningún alégeno presente en productos alimenticios definidos por la Unión Europea (Real Decreto 1169/2011)Leche y derivados,incluida la lactosa.Huevo y productos a base de huevo
+- País de origen: España
 
 [🛒 Aquí!!!]({{< param buyurl >}})
