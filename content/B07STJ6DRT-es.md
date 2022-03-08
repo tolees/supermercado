@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- BELLEZA ECO-RESPONSABLE: BOLD UNIQ se esfuerza por ofrecerte opciones de belleza sostenibles. Estamos orgullosos de ser libres de parabenos y sulfatos. Estamos aprobados por PETA como libres de crueldad y 100% veganos. Y eso no es todo, nuestros frascos y tarros están hechos de plástico reciclado post-consumo. Comprometidos con la salud del cabello y el medio ambiente.
 - BOLD UNIQ ¡El único acondicionador violeta vegano y libre de parabenos/sulfatos aprobado por PETA en Amazon! Tiene pigmentos violetas intensos para contrarrestar los tonos amarillos. Cabello rubio, platino y gris/plateado.
+- TIPO PELUQUERÍA: Obtén un color fresco con el brillo y la luminosidad que esperas de un tratamiento profesional. Nuestro acondicionador tiene una eficaz mezcla de pigmentos violetas para aumentar la vibración de los mechones estresados, y nuestra fórmula rica en aceites suaviza el folículo piloso para mejorar la manejabilidad.
 - NO MÁS CABELLO SECO Y DAÑADO: La fórmula hidratante de aceites naturales brinda nutrición intensa para fortalecer y suavizar las hebras de cabello seco y dañado, y el pigmento violeta tonifica el cabello para neutralizar tonos amarillos.
 - QUITA TONOS AMARILLOS: El acondicionador violeta también desenreda, humedece, reduce el encrespamiento y repara las puntas abiertas, dejando tu cabello suave, sedoso, radiante y brillante.
-- TIPO PELUQUERÍA: Obtén un color fresco con el brillo y la luminosidad que esperas de un tratamiento profesional. Nuestro acondicionador tiene una eficaz mezcla de pigmentos violetas para aumentar la vibración de los mechones estresados, y nuestra fórmula rica en aceites suaviza el folículo piloso para mejorar la manejabilidad.
-- BELLEZA ECO-RESPONSABLE: BOLD UNIQ se esfuerza por ofrecerte opciones de belleza sostenibles. Estamos orgullosos de ser libres de parabenos y sulfatos. Estamos aprobados por PETA como libres de crueldad y 100% veganos. Y eso no es todo, nuestros frascos y tarros están hechos de plástico reciclado post-consumo. Comprometidos con la salud del cabello y el medio ambiente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

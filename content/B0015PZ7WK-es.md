@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Una forma de croqueta especial con DentaDefense para mantener los dientes limpios y sanos
-- Prebióticos FOS y pulpa de remolacha para favorecer una digestión sana
 - Proteína animal para ayudar a fomentar una musculatura compacta; fuentes naturales de omega 6 y 3 para una piel y un pelo sanos
-- L-carnitina para ayudar a quemar grasa y mantener una musculatura compacta
 - Glucosamina y condroitina para ayudar a mantener las articulaciones sanas y una movilidad activa
+- L-carnitina para ayudar a quemar grasa y mantener una musculatura compacta
+- Prebióticos FOS y pulpa de remolacha para favorecer una digestión sana
 
 [🛒 Visítala!!!]({{< param buyurl >}})
