@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene soja o productos a base de soja
-- Sin azúcar
-- Producto de España
 - Sabor de hierbabuena
+- Contiene soja o productos a base de soja
+- Producto de España
 - Chicles de mentol
+- Sin azúcar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
