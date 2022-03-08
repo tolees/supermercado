@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Champú libre de sulfatos: sin sulfatos ni parabenos, la fórmula de este champú morado incluye derivados de la vitamina B5 para suavizar mechas y darle un brillo natural a cabellos rubios naturales y coloreados.
-- Combate esos indeseables tonos amarillo chillón: el champú morado contiene pigmentos de color violeta intenso para contrarrestar los tintes amarillos.
-- Innovadores filtros UV: protege tu pelo para que no pierda color por la radiación ultravioleta y mantengas tu tono rubio en perfectas condiciones
 - Consigue un color radiante y lleno de vida: el champú matizador morado se puede utilizar en cabellos grises, rubios, decolorados, con mechas o teñidos para conseguir un color más radiante y brillante
+- Innovadores filtros UV: protege tu pelo para que no pierda color por la radiación ultravioleta y mantengas tu tono rubio en perfectas condiciones
 - Mejora el color del cabello: este champú matizador se puede utilizar para conseguir que el cabello adquiera un color plateado o tonos gris ceniza
+- Combate esos indeseables tonos amarillo chillón: el champú morado contiene pigmentos de color violeta intenso para contrarrestar los tintes amarillos.
+- Champú libre de sulfatos: sin sulfatos ni parabenos, la fórmula de este champú morado incluye derivados de la vitamina B5 para suavizar mechas y darle un brillo natural a cabellos rubios naturales y coloreados.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

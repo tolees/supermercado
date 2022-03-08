@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Natural y sin sal
-- Los anacardos enteros de Happy Belly tienen un delicado aroma y una firme textura que les dan un sabor de gran riqueza
 - IMPORTANTE: El embalaje del producto puede variar en color
+- Los anacardos enteros de Happy Belly tienen un delicado aroma y una firme textura que les dan un sabor de gran riqueza
 - 7 x 200gr
+- Natural y sin sal
 - Advertencia: puede contener traza de cáscara de fruto seco
 - Estos anacardos enteros son de calidad suprema
 

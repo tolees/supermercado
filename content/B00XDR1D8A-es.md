@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dermatológicamente comprobado
 - su fórmula ligera, no grasa y de rápida absorción proporciona una fresca fragancia masculina
+- Dermatológicamente comprobado
 - Desarrollada especialmente para la piel del hombre, deja la piel hidratada y con un aspecto saludable
 - Ideal para la aplicación en el rostro, y también recomendable para el uso en todo el cuerpo
 
