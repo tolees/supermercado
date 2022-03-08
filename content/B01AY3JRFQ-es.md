@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alc. 7,2% vol.
-- La doble cantidad de men la receta hace que sea un producto con mucha fuerza. Con el doble de sabor. El doble de cuerpo. Es algo que se nota en el primer sorbo.
-- Elaborada con 100% ingredientes naturales.
 - Cerveza Doble Malta. Estilo Märzenbier.
+- La doble cantidad de men la receta hace que sea un producto con mucha fuerza. Con el doble de sabor. El doble de cuerpo. Es algo que se nota en el primer sorbo.
+- Alc. 7,2% vol.
 - Pack de 12 latas 33cl.
+- Elaborada con 100% ingredientes naturales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

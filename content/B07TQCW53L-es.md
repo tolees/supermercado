@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con extracto de Gingko Biloba y complejo de ginseng iluminador
-- Es adecuado para todos los tipos de piel, incluyendo piel sensible
 - Protege contra la contaminación, los rayos UVA/UVB y la luz azul con SPF30 PA+++
 - Contiene un complejo anticontaminación
+- Es adecuado para todos los tipos de piel, incluyendo piel sensible
 - Prepara y extiende el desgaste del maquillaje
+- Cuenta con extracto de Gingko Biloba y complejo de ginseng iluminador
 
 [🛒 Aquí!!!]({{< param buyurl >}})
