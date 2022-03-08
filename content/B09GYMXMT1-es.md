@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto 1: Cápsulas Tassimo de especialidad láctea para obtener una lujosa espuma cremosa
-- producto 1: Cápsulas compatibles con cafeteras Tassimo Bosch
 - producto 1: Peso neto 1 paquete: 344 g (Peso 5 paquetes: 1720 g)
-- producto 2: Si algo nos caracteriza en Marcilla es nuestra pasión por elaborar el mejor café. Una pasión que empezó en 1907 y que ha servido para que hoy, más de cien años después, podamos seguir ofreciéndote a ti y a los tuyos todo el aroma y sabor del mejor café, ahora también en Tassimo.
-- producto 2: Cápsulas compatibles con cafeteras Tassimo Bosch
 - producto 2: Disfruta de tu DESCAFEINADO MARCILLA de Tassimo sin perder el sueño
+- producto 2: Si algo nos caracteriza en Marcilla es nuestra pasión por elaborar el mejor café. Una pasión que empezó en 1907 y que ha servido para que hoy, más de cien años después, podamos seguir ofreciéndote a ti y a los tuyos todo el aroma y sabor del mejor café, ahora también en Tassimo.
+- producto 1: Cápsulas Tassimo de especialidad láctea para obtener una lujosa espuma cremosa
 - producto 2: Peso neto 1 paquete: 118.4 g (Peso 5 paquetes: 592 g)
+- producto 2: Cápsulas compatibles con cafeteras Tassimo Bosch
+- producto 1: Cápsulas compatibles con cafeteras Tassimo Bosch
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
