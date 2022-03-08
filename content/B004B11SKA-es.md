@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se recomienda servir solo o con hielo, para disfrutar de toda la complejidad de este whiskey escocés premium
-- Destaca por su color dorado brillante, y un tentador aroma frutal a naranjas dulces, seguido de notas de mazapán y nueces
 - Este whisky escocés premium ofrece un final largo, suave y equilibrado
-- Chivas Regal 25 años es un whisky premium elaborado a partir de una seductora mezcla frutal y mezcla whiskies de más de 25 años
+- Destaca por su color dorado brillante, y un tentador aroma frutal a naranjas dulces, seguido de notas de mazapán y nueces
 - Chivas Regal 25 años es un homenaje a la primera mezcla de este whiskey que se lanzó en Nueva York en 1909
+- Chivas Regal 25 años es un whisky premium elaborado a partir de una seductora mezcla frutal y mezcla whiskies de más de 25 años
+- Se recomienda servir solo o con hielo, para disfrutar de toda la complejidad de este whiskey escocés premium
 - Tiene sabrosos toques a rico chocolate con leche, naranja y cremoso fondant
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
