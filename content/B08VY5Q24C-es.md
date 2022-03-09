@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 12 latas de 250ml
+- País de origen: Austria
 - Red Bull con sabor de Sandía
 - Bebida Energética
-- País de origen: Austria
 
 [🛒 Comprar!!!]({{< param buyurl >}})
