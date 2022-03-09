@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suavidad y máximo cuidado para tu ropa
-- Ideal para ropa blanca y de color
 - Detergente concentrado que te ayuda a eliminar las manchas aportando un agradable y fresco perfume a la ropa
 - Tu colada más limpia y con una frescura excepcional
+- Ideal para ropa blanca y de color
 
 [🛒 Comprar!!!]({{< param buyurl >}})
