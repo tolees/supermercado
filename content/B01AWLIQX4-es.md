@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Citadelle Ginebra Original  70 cl - 700 ml'
-date: 2022-03-04 17:56:19
+date: 2022-03-09 17:04:03
 image: 'https://m.media-amazon.com/images/I/414KQdqWlAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Citadelle'
 buyurl: 'https://www.amazon.es/dp/B01AWLIQX4/?tag=tolees-21'
 descuento: '38.84'
-average: '17.9349999999999'
+average: '17.7772727272727'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Origen: Cognac
-- Graduación: 44% vol.
 - Perfectamente equilibrada. Flores frescas resaltadas por notas cítricas. Resulta elegante, suave y persistente en boca.
+- Graduación: 44% vol.
 - Gin Citadelle y Tónica con un toque de limón. .
+- Origen: Cognac
 - El maridaje estrella para Citadelle Gin son las ostras.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
