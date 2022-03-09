@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nivea - Soft  crema dispensador  250 ml'
-date: 2022-03-06 13:56:22
+date: 2022-03-09 08:53:46
 image: 'https://m.media-amazon.com/images/I/31ZaN1Y6ChL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con aceite de almendras hidratante y un aroma suave
-- Nivea Crema de lavado de manos líquido suave, 250 ml
-- 1 unidad
-- pH equilibrado para la piel
 - Nivea Jabón líquido suave, 250 ml
+- Con aceite de almendras hidratante y un aroma suave
+- 1 unidad
+- Nivea Crema de lavado de manos líquido suave, 250 ml
+- pH equilibrado para la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
