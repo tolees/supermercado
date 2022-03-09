@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Instrucciones para su uso adecuado: Añade 2 cucharaditas (9 g) en 200 ml de leche semidesnatada caliente, remueve y disfruta; sin gluten; sin lactosa
+- Lecitina de soja
+- España
 - Prueba el Nesquik intenso 40% cacao; cacao cuidadosamente seleccionado; nesquik intenso 40% cacao apto para dietas sin gluten
 - Azúcar, cacao en polvo (40%) emulgente (lecitina de soja) aroma natural, canela
-- España
-- Lecitina de soja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
