@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nivea Jabón líquido suave, 250 ml
-- Con aceite de almendras hidratante y un aroma suave
-- 1 unidad
 - Nivea Crema de lavado de manos líquido suave, 250 ml
+- 1 unidad
+- Nivea Jabón líquido suave, 250 ml
 - pH equilibrado para la piel
+- Con aceite de almendras hidratante y un aroma suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
