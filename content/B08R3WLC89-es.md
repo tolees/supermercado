@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cómo funciona: Los sulfatos reducen el brillo y la vitalidad del cabello teñido, por lo que nuestros productos no contienen estas sustancias nocivas. Además de no contener sulfatos, este champú Color Saviour tiene una base de pH neutro. Esto ayuda al cabello a mantener una base equilibrada para el color.
 - Para todo cabello teñido: Desde los marrones chocolate hasta los rosas vibrantes, esta fórmula ayuda a mantener un espectro completo de colores. También es perfecto para el cabello que ha sido teñido en el pasado.
+- Belleza eco-responsable: Este champú de color ha sido creado para mantener el cabello teñido con un aspecto vibrante y lleno de vida, y BOLD UNIQ se esfuerza por ofrecerte opciones de belleza sostenibles. Estamos orgullosos de estar libres de parabenos y sulfatos. Aprobado por PETA como libre de crueldad y 100% vegano. Además, nuestros frascos y tarros están hechos de plástico reciclado.
 - Momentos de bayas: La suave fórmula está repleta de un equipo de extractos de bayas amantes del brillo, junto a un cálido y rico aroma de moras maduras con toques de frambuesa y ciruela.
 - Activos para el color: Contiene una serie de ingredientes naturales que favorecen el color. Esta mezcla cuidadosamente seleccionada utiliza extractos de Acai, Granada y Goji para encapsular los tonos vibrantes que te gustan, manteniendo un cuerpo y un brillo de salón.
-- Belleza eco-responsable: Este champú de color ha sido creado para mantener el cabello teñido con un aspecto vibrante y lleno de vida, y BOLD UNIQ se esfuerza por ofrecerte opciones de belleza sostenibles. Estamos orgullosos de estar libres de parabenos y sulfatos. Aprobado por PETA como libre de crueldad y 100% vegano. Además, nuestros frascos y tarros están hechos de plástico reciclado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
