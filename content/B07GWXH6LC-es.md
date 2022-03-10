@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una vez abierto conservar en frigorífico
-- Contiene gluten
-- Sin trozos
-- Ingredientes: Agua, Aceite de nabina, Vinagre de alcohol, azúcar, almidón modificado,yema de huevo, mostaza dulce (agua, semillas de mostaza, vinagre de alcohol, sal), sal, estabilizador: goma xantana, aromas y aromas a ahumado, colorantes,extracto de pimentón, antioxidante: E385 Agua, Aceite de nabina, Vinagre de alcohol, azúcar, almidón modificado,yema de huevo, mostaza dulce (agua, semillas de mostaza, vinagre de alcohol, sal), sal, estabilizador: goma xantana, aromas y aromas a ahumado, colorantes,extracto de pimentón, antioxidante: E385
 - Listo para consumir
-- Apto para Vegetarianos
+- Ingredientes: Agua, Aceite de nabina, Vinagre de alcohol, azúcar, almidón modificado,yema de huevo, mostaza dulce (agua, semillas de mostaza, vinagre de alcohol, sal), sal, estabilizador: goma xantana, aromas y aromas a ahumado, colorantes,extracto de pimentón, antioxidante: E385 Agua, Aceite de nabina, Vinagre de alcohol, azúcar, almidón modificado,yema de huevo, mostaza dulce (agua, semillas de mostaza, vinagre de alcohol, sal), sal, estabilizador: goma xantana, aromas y aromas a ahumado, colorantes,extracto de pimentón, antioxidante: E385
+- Sin trozos
 - Con conservantes
+- Contiene gluten
+- Apto para Vegetarianos
+- Una vez abierto conservar en frigorífico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

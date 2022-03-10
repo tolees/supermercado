@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acabado: Larga duración.
 - Sabor: Seco, chocolate, ligeramente malteado, vainilla, notas de humo.
-- Nariz: afrutada, cítrica, con toques de humo.
-- Color: ámbar oscuro.
+- Acabado: Larga duración.
 - Perfecto Como Un Regalo
+- Color: ámbar oscuro.
+- Nariz: afrutada, cítrica, con toques de humo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

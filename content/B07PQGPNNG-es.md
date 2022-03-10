@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Platillo: 10,5 cm de diámetro.
 - Juego de 6 tazas de café con platillo.
 - Tazas: 6 cm de diámetro y 5 cm de altura.
 - Apto para lavavajillas y microondas.
-- Platillo: 10,5 cm de diámetro.
 - Hecho de porcelana. Capacidad: 90 ml.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
