@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Haribo - Funky Mix - Surtido de golosinas - 100 g'
-date: 2022-02-24 07:13:44
+date: 2022-03-10 12:39:46
 image: 'https://m.media-amazon.com/images/I/51dXY8+QzqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B082VTS66C-es Haribo - Funky Mix - Surtido de golosinas - 100 g'
 sku: 'B082VTS66C-es'
-tags: [ 'haribo', ]
+tags: [ 'Alimentación y bebidas','Dulces, chocolates y chicles','Snacks y dulces','haribo', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99
-comparePrice: 0.99 EUR
+comparePrice: 1.07 EUR
 prodname: 'Haribo - Funky Mix - Surtido de golosinas - 100 g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B082VTS66C/?tag=tolees-21'
-descuento: '0.00'
-average: '0.972105263157896'
+descuento: '7.48'
+average: '0.973000000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se deben mantener en lugar fresco y seco
-- Tienen varios sabores
 - Sin colorantes y conservantes
+- Tienen varios sabores
 - Surtido de golosinas de 100 g
+- Se deben mantener en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

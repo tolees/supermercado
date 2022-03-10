@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: Pantene
 - Tipo de producto: Champú
 - Género: Hombre
+- Marca: Pantene
 
 [🛒 Comprar!!!]({{< param buyurl >}})
