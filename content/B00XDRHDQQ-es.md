@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Desodorante para mujer
 - Para todo tipo de pieles
 - Es anti-transpirante y te protege eficazmente durante 24 horas
-- Desodorante para mujer
 - Formato spray
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

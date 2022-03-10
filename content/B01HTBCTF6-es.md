@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Apta para niños y adultos intolerantes a la lactosa
 - Leche sin lactosa facil de digerir desnatada
 - Mas fácil de coger, abrir y servir
-- Apta para niños y adultos intolerantes a la lactosa
 - Unica Sin Lactosa en botella de 1L con tapón de rosca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
