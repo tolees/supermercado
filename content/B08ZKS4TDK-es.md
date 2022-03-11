@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Depositar la cápsula en el tambor de la lavadora antes de la ropa
+- Limpieza profunda; eficaz en frío (incluso a 30ºC); resultados increíbles con una sola cápsula de detergente lavadora concentrado
+- Detergente lavadora con fragancia intensa y duradera de Lenor UNstoppables
 - El recubrimiento de la cápsula se disuelve totalmente al entrar en contacto con el agua
 - Para un resultado óptimo, combínalo con las perlas lavadora perfumadas para la ropa de Lenor Unstoppables
-- Detergente lavadora con fragancia intensa y duradera de Lenor UNstoppables
-- Limpieza profunda; eficaz en frío (incluso a 30ºC); resultados increíbles con una sola cápsula de detergente lavadora concentrado
-- Depositar la cápsula en el tambor de la lavadora antes de la ropa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
