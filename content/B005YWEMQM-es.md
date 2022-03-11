@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DULCES SONRISAS POR TODO EL MUNDO – Desde 1973, Lip Smacker ha hecho sonreír a labios de todo el mundo. Esperamos que nuestros auténticos sabores, aromas y productos de diseño colorido te hagan feliz
 - BÁLSAMO LABIAL DE GRAN SABOR – El sabor auténtico de tus refrescos favoritos en este set de 6 bálsamos de labios, todos con un sabor tan bueno como sus ventajas: hidrata, suaviza y refresca a la vez
+- DULCES SONRISAS POR TODO EL MUNDO – Desde 1973, Lip Smacker ha hecho sonreír a labios de todo el mundo. Esperamos que nuestros auténticos sabores, aromas y productos de diseño colorido te hagan feliz
+- COLECCIÓN DE COCA-COLA EN LATA – ¡Disfruta de los sabores que te encantan! Esta colección consta de 6 de tus labiales favoritos de Coca-Cola, en una lata coleccionable perfecta para regalar o para ti
 - LABIOS SUAVES, BRILLANTES E HIDRATADOS - Este reparador labial con el auténtico sabor a Coca-Cola ofrece además una gran hidratación y refresca tus labios
 - CONSEJOS DE USO – Esta lata de productos para el cuidado de los labios inspirado en Coca-Cola es perfecto para regalar. ¡El icónico diseño de la lata causará sensación!
-- COLECCIÓN DE COCA-COLA EN LATA – ¡Disfruta de los sabores que te encantan! Esta colección consta de 6 de tus labiales favoritos de Coca-Cola, en una lata coleccionable perfecta para regalar o para ti
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

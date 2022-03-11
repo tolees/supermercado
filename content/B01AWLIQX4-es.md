@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El maridaje estrella para Citadelle Gin son las ostras.
-- Perfectamente equilibrada. Flores frescas resaltadas por notas cítricas. Resulta elegante, suave y persistente en boca.
-- Graduación: 44% vol.
 - Gin Citadelle y Tónica con un toque de limón. .
 - Origen: Cognac
+- Perfectamente equilibrada. Flores frescas resaltadas por notas cítricas. Resulta elegante, suave y persistente en boca.
+- Graduación: 44% vol.
+- El maridaje estrella para Citadelle Gin son las ostras.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
