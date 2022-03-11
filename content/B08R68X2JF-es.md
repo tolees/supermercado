@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Babaria – Crema facial con Vitaminas C y E – 50 ml'
-date: 2022-03-09 23:49:56
+date: 2022-03-11 06:02:01
 image: 'https://m.media-amazon.com/images/I/41IC5Im5GDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Recomendada para todas las edades y pieles grasas
 - Vitamina C y E
 - Poder antioxidante, aporta luminosidad al rostro
-- Recomendada para todas las edades y pieles grasas
 - Protege frente a la luz azul y la polución
 - Recomendada para todas las edades y pieles grasas
 
