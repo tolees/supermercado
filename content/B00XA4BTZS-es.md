@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Isabel Atún en Aceite Vegetal  Pack de 3 x 70g'
-date: 2022-02-28 13:47:28
+date: 2022-03-11 08:10:10
 image: 'https://m.media-amazon.com/images/I/41nsbN15zYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene pescado y/o productos a base de pescados
-- Mantener en un lugar fresco y seco
-- Certificación APR de pesca responsable por AENOR
-- Atún en aceite de girasol
 - Origen español
+- Atún en aceite de girasol
+- Contiene pescado y/o productos a base de pescados
+- Certificación APR de pesca responsable por AENOR
+- Mantener en un lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})

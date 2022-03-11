@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gran intensidad con granos de óptima calidad, cosecha cuidadosamente seleccionada y tostado suave
 - Cápsulas de café Nescafé Dolce Gusto Espresso Intenso
 - Descubre más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
 - Café gourmet seleccionando los orígenes de óptima calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
+- Gran intensidad con granos de óptima calidad, cosecha cuidadosamente seleccionada y tostado suave
 - Con sistema de sellado hermético inteligente para el café fresco conservando todos sus aromas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
