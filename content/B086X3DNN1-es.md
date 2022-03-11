@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tapa abre-ras, easy pil, tapa salva gustos de regalo
-- Método de pesca: cerco; ver especie y zona de pesca en la lata
-- Conserva de atún en aceite de girasol, gran corte de pescado
 - País de origen: España, producto natural sin conservantes ni colorantes
 - Lata de 650 g de peso escurrido/ 750 g peso neto para un consumo de volumen, hostelería
+- Método de pesca: cerco; ver especie y zona de pesca en la lata
+- Conserva de atún en aceite de girasol, gran corte de pescado
+- Tapa abre-ras, easy pil, tapa salva gustos de regalo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
