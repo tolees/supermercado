@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con ingredientes adaptados a las necesidades nutricionales de su gato, sin cereales, sin azúcar, ni conservantes, ni colorantes
-- Alimento completo para gatos con exquisitos bocaditos de pavo cubiertos con deliciosa salsa de queso
 - El original formato de la tarrina en forma de corazón son una dosis de amor extra diaria para tu gato
-- Recomendación de empleo, un gato de 4 kg de peso necesita aproximadamente 2 latitas por día, dependiendo de la actividad, edad y raza del animal
+- Con ingredientes adaptados a las necesidades nutricionales de su gato, sin cereales, sin azúcar, ni conservantes, ni colorantes
 - Su alta calidad, su deliciosa salsa y su fácil reconocimiento de ingredientes la hacen muy apetitosa para los gatos
+- Recomendación de empleo, un gato de 4 kg de peso necesita aproximadamente 2 latitas por día, dependiendo de la actividad, edad y raza del animal
+- Alimento completo para gatos con exquisitos bocaditos de pavo cubiertos con deliciosa salsa de queso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
