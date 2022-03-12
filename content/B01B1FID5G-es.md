@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El nombre de la marca tiene su origen en la palabra sueca Skâl, que significa “A tu salud!”.
 - Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
+- El nombre de la marca tiene su origen en la palabra sueca Skâl, que significa “A tu salud!”.
 - Un sabor universal y un precio muy competitivo son los secretos de su éxito
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
