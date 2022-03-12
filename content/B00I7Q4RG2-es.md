@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 200 cápsulas repartidas en 20 paquetes de 10 cápsulas cada uno. Peso neto de 1 paquete: 52 g. Total 20 paquetes = 1040 gr
-- Sabor Floral - Almendrado - Inspirador
-- Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso
-- Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
 - Intensidad 8
+- Sabor Floral - Almendrado - Inspirador
+- 200 cápsulas repartidas en 20 paquetes de 10 cápsulas cada uno. Peso neto de 1 paquete: 52 g. Total 20 paquetes = 1040 gr
+- Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
 - El exquisito SONTUOSO es un espresso clásico con notas de almendras tostadas y un estilo floral inspirador, acabado con el brillo ámbar de una rica y sedosa capa de crema
+- Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
