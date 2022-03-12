@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla acolchada y extraíble Touch-it
 - Altura del tacón: 4,5 cm
-- Tipo de tacón: cuña
-- Material exterior de piel auténtica
 - Piel procesada de manera sostenible
+- Material exterior de piel auténtica
+- Tipo de tacón: cuña
+- Plantilla acolchada y extraíble Touch-it
 
 [🛒 Comprar!!!]({{< param buyurl >}})
