@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El contraste entre sus ingredientes, con el exótico toque del coco, te trasladarán durante un momento a lugares de paz y tranquilidad.
-- Es un snack ideal para tomar en cualquier lugar y en cualquier momento. Tienta a tus sentidos con el sabor del tropical paraíso.
-- Ingredientes de alta calidad, libre de conservantes artificiales.
 - Deliciosa barra de chocolate con leche rellena de coco, que le un inigualable toque exótico a esta chocolatina.
+- Es un snack ideal para tomar en cualquier lugar y en cualquier momento. Tienta a tus sentidos con el sabor del tropical paraíso.
+- El contraste entre sus ingredientes, con el exótico toque del coco, te trasladarán durante un momento a lugares de paz y tranquilidad.
 - Snack apto para vegetarianos
+- Ingredientes de alta calidad, libre de conservantes artificiales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
