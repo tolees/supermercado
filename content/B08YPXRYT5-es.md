@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Testado y probado dermatológicamente
 - Formulado con Protein Calcium, que refuerza y nutre la piel en profundidad para mantenerla fuerte y joven
-- Las proteínas y el calcio penetran en las capas más profundas de la epidermis preservando la hidratación de la piel y protegiendo la barrera lipídica
-- Jabón de manos nutritivo, refuerza la piel nutriéndola intensamente. Con activos 100% naturales de la leche
 - Compromiso Lactovit; activos 100% naturales de la leche y altamente biodegradables, mejorando la reciclabilidad de nuestros envases y cuidando del medio ambiente
+- Las proteínas y el calcio penetran en las capas más profundas de la epidermis preservando la hidratación de la piel y protegiendo la barrera lipídica
+- Testado y probado dermatológicamente
+- Jabón de manos nutritivo, refuerza la piel nutriéndola intensamente. Con activos 100% naturales de la leche
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
