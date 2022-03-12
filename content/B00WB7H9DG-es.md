@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula no pegajosa
-- Resistente al agua.
-- Tacto ligero y absorción rápida
-- Alivia las irritaciones y reduce el enrojecimiento
 - Testado dermatológicamente
+- Tacto ligero y absorción rápida
+- Fórmula no pegajosa
+- Alivia las irritaciones y reduce el enrojecimiento
+- Resistente al agua.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

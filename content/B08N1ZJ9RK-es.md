@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cabezal reemplazable con cerdas indicadoras cuyo color se desvanece con el uso.
 - Compatible con recambios Oral B; Dental Source total clean, sensitive y perfect angle. Pilas fáciles de cambiar reemplazables, 2 pilas incluidas
+- Cabezal reemplazable con cerdas indicadoras cuyo color se desvanece con el uso.
 - Cepillo de dientes a pilas para una limpieza dental minuciosa y suave al mismo tiempo.
 - Clínicamente testado
 
