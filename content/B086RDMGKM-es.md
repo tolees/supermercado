@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vino Tinto D.O. Rioja Montecillo Reserva - estuche de madera de 3 botellas de 75 cl - Total: 225 cl'
-date: 2022-03-11 07:57:16
+date: 2022-03-12 08:47:33
 image: 'https://m.media-amazon.com/images/I/412PKaavNTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Aroma y gusto: notas especiadas, vainilla y frutos negros combinados con matices de regaliz y menta; buena estructura y taninos elegantes con largo postgusto
 - Limpio y brillante color rojo cereza intenso con ribete rojizo
-- Fundada en 1870, somos una de las bodegas más antiguas de Fuenmayor y la tercera de Rioja; llevamos más de 140 años elaborando vino
 - Un Rioja honesto de elaboración extraordinaria que combina intensidad y fineza aromática
+- Fundada en 1870, somos una de las bodegas más antiguas de Fuenmayor y la tercera de Rioja; llevamos más de 140 años elaborando vino
 - Para acompañar con la carne roja al grill o en barbacoa, todo tipo de guisos, incluidos platos ligeramente picantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
