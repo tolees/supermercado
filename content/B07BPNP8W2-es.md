@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nariz: Dulce, aromas de chocolate.
-- Sabor: Floral, ligeramente ahumado, chocolate negro.
-- Acabado: Larga duración.
 - Color: Oro cálido.
 - perfecto como un regalo
+- Sabor: Floral, ligeramente ahumado, chocolate negro.
+- Acabado: Larga duración.
+- Nariz: Dulce, aromas de chocolate.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
