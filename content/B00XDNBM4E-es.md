@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- País de origen: España, producto natural sin conservantes ni colorantes
 - Práctica lata de 266 g con tapa de fácil apertura
 - Conserva de atún claro en aceite de girasol
 - Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - Lata ideal para consumo individual o 2/3 personas dependiendo de su uso
+- País de origen: España, producto natural sin conservantes ni colorantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
