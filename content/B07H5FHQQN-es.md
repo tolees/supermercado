@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Damm Lemon Cerveza Clara Mediterránea - Pack de 24 x 250 ml  Total: 6000 ml'
-date: 2022-03-07 15:36:46
+date: 2022-03-12 19:45:45
 image: 'https://m.media-amazon.com/images/I/517ot1FqtML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Damm'
 buyurl: 'https://www.amazon.es/dp/B07H5FHQQN/?tag=tolees-21'
 descuento: '31.25'
-average: '9.18416666666668'
+average: '9.13769230769232'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

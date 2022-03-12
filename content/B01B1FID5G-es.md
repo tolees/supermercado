@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skol Cerveza - Paquete de 24 x 330 ml - Total: 7920 ml'
-date: 2022-03-02 18:46:26
+date: 2022-03-12 19:33:45
 image: 'https://m.media-amazon.com/images/I/41dS9ndlanL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skol'
 buyurl: 'https://www.amazon.es/dp/B01B1FID5G/?tag=tolees-21'
 descuento: '30.95'
-average: '7.26142857142857'
+average: '7.24133333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un sabor universal y un precio muy competitivo son los secretos de su éxito
-- Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
 - El nombre de la marca tiene su origen en la palabra sueca Skâl, que significa “A tu salud!”.
+- Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
+- Un sabor universal y un precio muy competitivo son los secretos de su éxito
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Atún aceite campos lata 266gr'
-date: 2022-03-09 20:49:07
+date: 2022-03-12 20:41:13
 image: 'https://m.media-amazon.com/images/I/51CApj0XjDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - Práctica lata de 266 g con tapa de fácil apertura
-- País de origen: España, producto natural sin conservantes ni colorantes
 - Lata ideal para consumo individual o 2/3 personas dependiendo de su uso
+- País de origen: España, producto natural sin conservantes ni colorantes
+- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - Conserva de atún claro en aceite de girasol
 
 [🛒 Comprar!!!]({{< param buyurl >}})
