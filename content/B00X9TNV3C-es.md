@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formulado con extracto de bambú
-- Devuélvele la vitalidad a tus rizos nutriéndolos a la vez que les das forma; en tan sólo unos minutos consigue una definición con un volumen bajo control
 - 200 ml
+- Devuélvele la vitalidad a tus rizos nutriéndolos a la vez que les das forma; en tan sólo unos minutos consigue una definición con un volumen bajo control
+- Formulado con extracto de bambú
 - Calentar una avellana del producto en las manos y repartir sobre el cabello húmedo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
