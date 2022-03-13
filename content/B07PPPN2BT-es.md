@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - LOR Espresso Coffee Forza 09, LOR Espresso Coffee Ristretto 11
 - Disfruta de una variedad de sabores de café en este paquete.
-- 40 cápsulas de 5,2gr (Peso neto: 208g) 6 paquetes = 1248g, 240 bebidas en total
 - Cápsulas compatibles para máquinas Nespresso(R) *.(R)*La marca registrada utilizada es de un tercero, no relacionada con Jacobs Douwe Egberts
 - Para los cafés espresso, ristretto
+- 40 cápsulas de 5,2gr (Peso neto: 208g) 6 paquetes = 1248g, 240 bebidas en total
 
 [🛒 Visítala!!!]({{< param buyurl >}})

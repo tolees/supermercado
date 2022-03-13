@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene 3 barritas de 35g cada una.
-- Sin aceite de palma
 - Alérgenos: leche y productos derivados (incluida la lactosa) frutos con cásccara
 - Pack de 3 snacks de barquillo recubierto de chocolate negro con crema de avellanas.
+- Contiene 3 barritas de 35g cada una.
+- Sin aceite de palma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Aplicar la mascarilla novex queratina brasileña dejar actuar durante 10 minutos; enjuagar
 - La queratina brasileña proporciona una rápida absorción, garantizando cabellos sanos y resistentes
 - Se recomienda su uso para el cabello dañado y quebradizo
-- Aplicar la mascarilla novex queratina brasileña dejar actuar durante 10 minutos; enjuagar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

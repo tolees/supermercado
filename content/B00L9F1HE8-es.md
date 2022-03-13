@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto que combina tradición e innovación
-- Beneficios: suavizar, fortalecer y ayudar a reparar el daño causado por el calor y los productos químicos.
 - Uso sugerido: spread tigi bed head antidotes urban resurrection treatment máscara entre las manos y aplicar desde medias longitudes hasta los extremos. dejar durante 3-5 minutos y luego enjuague.utilizar semanalmente como un tratamiento de reparación intensiva para dar el pelo el beso de la vida.
+- Producto que combina tradición e innovación
 - Descripción: da una dosis completa de reparación al cabello severamente dañado
+- Beneficios: suavizar, fortalecer y ayudar a reparar el daño causado por el calor y los productos químicos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Depositar la cápsula de detergente en el tambor de la lavadora antes de la ropa
 - Detergente lavadora con tecnología Odor Active que elimina los malos olores
 - El recubrimiento de la cápsula se disuelve totalmente al entrar en contacto con el agua
-- Depositar la cápsula de detergente en el tambor de la lavadora antes de la ropa
 - Para un resultado óptimo, combínalo con las perlas lavadora perfumadas para la ropa de Lenor Unstoppables
 - Limpieza profunda; eficaz en frío (incluso a 30ºC); resultados increíbles con una sola cápsula de detergente lavadora concentrado
 
