@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Simplemente coloque las hojas de té sueltas en el colador, sumérjalas en una taza de agua caliente, presione el émbolo para maximizar la liberación de un rico sabor y retírelas de la taza.
-- Aproveche al máximo su experiencia de beber té. Prepara completamente el sabor del té, dejándote con regustos infinitos. La hoja suelta permite todo eso.
 - Es respetuoso con el medio ambiente, no es necesario utilizar bolsitas de té desechables y es más conveniente utilizar coladores de té.
 - Especificación: Tipo de artículo: Té Material del filtro: Silicona Color: Verde Tamaño del producto: Aprox.17cm / 6.7in Peso: Aprox.23g / 0.8oz
+- Simplemente coloque las hojas de té sueltas en el colador, sumérjalas en una taza de agua caliente, presione el émbolo para maximizar la liberación de un rico sabor y retírelas de la taza.
+- Aproveche al máximo su experiencia de beber té. Prepara completamente el sabor del té, dejándote con regustos infinitos. La hoja suelta permite todo eso.
 - Compatible con todos los tipos y sabores de té de hojas sueltas, como té verde, té negro, té blanco, té de desayuno, té oolong, té de hierbas, té Pu-Erh, té de lavanda, té de manzanilla o de menta.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

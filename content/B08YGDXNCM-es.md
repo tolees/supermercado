@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Champú que ayuda a reducir la caída del pelo debida a la rotura
 - Sin aceites minerales y sin colorantes
 - Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
-- Champú para la caída del pelo
-- Champú que ayuda a reducir la caída del pelo debida a la rotura
-- Testado por el Swiss Vitamin Institute
 - Enriquecido con bambú y biotina
+- Champú para la caída del pelo
+- Testado por el Swiss Vitamin Institute
 
 [🛒 Aquí!!!]({{< param buyurl >}})
