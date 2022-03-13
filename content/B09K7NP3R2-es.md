@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Se recomienda servir muy frío, solo o con unos cubitos de hielo
+- Ruavieja Cremosa Light libera un intenso aroma a notas de cacao y leche, acompañado de suaves pinceladas de caramelo, café, aguardiente de orujo y frutos secos
+- Su dulce y equilibrada cremosidad persistente en boca la convierte en una crema exquisita y fácil de tomar
+- Posee un atractivo aspecto brillante opaco y de color marrón claro-latte
 - Nueva Cremosa Light, con 60% menos azúcares que en Crema Ruavieja
 - Contenido de alcohol (alc/vol): 14.5 percent by volume
-- Su dulce y equilibrada cremosidad persistente en boca la convierte en una crema exquisita y fácil de tomar
-- Ruavieja Cremosa Light libera un intenso aroma a notas de cacao y leche, acompañado de suaves pinceladas de caramelo, café, aguardiente de orujo y frutos secos
-- Se recomienda servir muy frío, solo o con unos cubitos de hielo
-- Posee un atractivo aspecto brillante opaco y de color marrón claro-latte
 
 [🛒 Visítala!!!]({{< param buyurl >}})
