@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin necesidad de retirar el envoltorio
+- También funciona en ciclos de lavado cortos
+- Ayuda a prevenir la acumulación de grasa en el sistema de drenaje, los filtros y el brazo rociador
 - Las cápsulas contienen una película de PVA de disolución rápida
 - Con función de abrillantador
-- Ayuda a prevenir la acumulación de grasa en el sistema de drenaje, los filtros y el brazo rociador
-- También funciona en ciclos de lavado cortos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
