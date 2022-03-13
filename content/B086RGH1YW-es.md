@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Aroma y gusto: en nariz es muy perfumado con aromas de fruta madura; complejo y elegante; elegante y refinado con final largo y postgusto con notas de regaliz
 - Ideal para todo tipo de carne, en especial la de caza; es un vino de gran elegancia que mejora los guisos y platos de pescado graso como salmón y bonito
-- De los viñedos muy viejos de la zona, un clásico contundente y elegantemente complejo
 - Fundada en 1870, somos una de las bodegas más antiguas de Fuenmayor y la tercera de Rioja; llevamos más de 140 años elaborando vino
 - De color limpio y brillante; rojo rubí intenso con buena densidad de color
-- Aroma y gusto: en nariz es muy perfumado con aromas de fruta madura; complejo y elegante; elegante y refinado con final largo y postgusto con notas de regaliz
+- De los viñedos muy viejos de la zona, un clásico contundente y elegantemente complejo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

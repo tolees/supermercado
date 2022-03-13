@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un Rioja honesto de elaboración extraordinaria que combina intensidad y fineza aromática
-- Limpio y brillante color rojo cereza intenso con ribete rojizo
 - Fundada en 1870, somos una de las bodegas más antiguas de Fuenmayor y la tercera de Rioja; llevamos más de 140 años elaborando vino
-- Aroma y gusto: notas especiadas, vainilla y frutos negros combinados con matices de regaliz y menta; buena estructura y taninos elegantes con largo postgusto
 - Para acompañar con la carne roja al grill o en barbacoa, todo tipo de guisos, incluidos platos ligeramente picantes
+- Un Rioja honesto de elaboración extraordinaria que combina intensidad y fineza aromática
+- Aroma y gusto: notas especiadas, vainilla y frutos negros combinados con matices de regaliz y menta; buena estructura y taninos elegantes con largo postgusto
+- Limpio y brillante color rojo cereza intenso con ribete rojizo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

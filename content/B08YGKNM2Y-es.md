@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Textura no grasa ni pegajosa que penetra fácilmente en la piel
 - Nueva fragancia refrescante
+- Textura no grasa ni pegajosa que penetra fácilmente en la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

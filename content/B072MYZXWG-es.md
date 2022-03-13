@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Grageas de chocolate con leche
+- Mantener en lugar fresco y seco
+- Ideal para una merienda
 - Contiene lactosa y soja
 - Puede contener maní, avellana y almendra
-- Mantener en lugar fresco y seco
-- Grageas de chocolate con leche
-- Ideal para una merienda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
