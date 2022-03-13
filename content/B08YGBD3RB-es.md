@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Principal marca de champú del mundo (cálculo de P&G basado en las ventas externas anuales de la categoría de champú)
-- Mejor juntos. Utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito
-- Combate la causa principal de la caspa para un pelo totalmente libre de caspa, probado clínicamente (con uso regular)
-- Hasta 72 horas de protección frente a la caspa, la sequedad y el picor (caspa visible, con uso regular; picor debido a la caspa)
 - Bueno para el planeta: botella reciclable (sin incluir el tapón y en función de las instalaciones de reciclaje)
-- Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo
+- Hasta 72 horas de protección frente a la caspa, la sequedad y el picor (caspa visible, con uso regular; picor debido a la caspa)
+- Principal marca de champú del mundo (cálculo de P&G basado en las ventas externas anuales de la categoría de champú)
 - Champú Prevención Caída que ayuda a prevenir la caída del pelo debido a la caspa y la rotura capilar
+- Mejor juntos. Utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito
+- Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo
+- Combate la causa principal de la caspa para un pelo totalmente libre de caspa, probado clínicamente (con uso regular)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

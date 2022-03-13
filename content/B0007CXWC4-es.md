@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cetyl Palmitate: un emoliente que proporciona una sensación suave después
-- Cera de abejas: protege contra la pérdida de humedad al tiempo que proporciona un control total
 - Ceteareth-20: un buen acondicionador y un excelente emulsionante
 - Humectante y emoliente responsable de una retención sin igual
+- Cera de abejas: protege contra la pérdida de humedad al tiempo que proporciona un control total
 
 [🛒 Comprar!!!]({{< param buyurl >}})

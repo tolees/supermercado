@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con activos de acción calmante e hidratante
 - Sin jabón y sin alcohol
+- Con activos de acción calmante e hidratante
 - Para niñas a partir de 3 años
 - Con aloe vera & extracto de melocotón
 
