@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Elaborado de forma artesanal y con las mejores materias primas que la naturaleza puede dar: agua pura manantial mejor caña azúcar
 - Disfrútalo en vaso alto, hielo cola
 - El clima d entorno selvático idóneo para elaboración del Ron, hace tenga sabor único, equilibrado personalidad
-- Elaborado de forma artesanal y con las mejores materias primas que la naturaleza puede dar: agua pura manantial mejor caña azúcar
 - El Ron Cacique es un Añejo superior
 
 [🛒 Visítala!!!]({{< param buyurl >}})
