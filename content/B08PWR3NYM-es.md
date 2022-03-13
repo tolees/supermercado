@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PERNIGOTTI Wafer Nero - Snack de barquillo y chocolate negro  pack de 3 '
-date: 2022-02-28 19:08:42
+date: 2022-03-13 15:01:43
 image: 'https://m.media-amazon.com/images/I/31XZM+H9EtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alérgenos: leche y productos derivados (incluida la lactosa) frutos con cásccara
 - Contiene 3 barritas de 35g cada una.
-- Pack de 3 snacks de barquillo recubierto de chocolate negro con crema de avellanas.
 - Sin aceite de palma
+- Alérgenos: leche y productos derivados (incluida la lactosa) frutos con cásccara
+- Pack de 3 snacks de barquillo recubierto de chocolate negro con crema de avellanas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
