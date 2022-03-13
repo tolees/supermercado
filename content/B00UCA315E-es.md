@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Spontex Bayeta Multifácil 2+1  Amarillo  3 Unidad'
-date: 2022-03-08 19:10:11
+date: 2022-03-13 08:51:19
 image: 'https://m.media-amazon.com/images/I/51VkKuBMEvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Spontex'
 buyurl: 'https://www.amazon.es/dp/B00UCA315E/?tag=tolees-21'
 descuento: '46.24'
-average: '1.0106451612903'
+average: '1.01031249999998'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
