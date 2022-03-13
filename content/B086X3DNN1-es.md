@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Campos Atún En Aceite De Girasol Lata De 650 G Peso Escurrido  750 g'
-date: 2022-03-11 17:28:29
+date: 2022-03-13 20:58:17
 image: 'https://m.media-amazon.com/images/I/41+57hf80VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Campos'
 buyurl: 'https://www.amazon.es/dp/B086X3DNN1/?tag=tolees-21'
 descuento: '24.18'
-average: '6.38833333333333'
+average: '6.33142857142857'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- País de origen: España, producto natural sin conservantes ni colorantes
 - Lata de 650 g de peso escurrido/ 750 g peso neto para un consumo de volumen, hostelería
-- Método de pesca: cerco; ver especie y zona de pesca en la lata
-- Conserva de atún en aceite de girasol, gran corte de pescado
+- País de origen: España, producto natural sin conservantes ni colorantes
 - Tapa abre-ras, easy pil, tapa salva gustos de regalo
+- Conserva de atún en aceite de girasol, gran corte de pescado
+- Método de pesca: cerco; ver especie y zona de pesca en la lata
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
