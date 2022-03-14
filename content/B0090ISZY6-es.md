@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En boca ofrece equilibrio y elegancia, con cuerpo y amargor moderados
-- Recomendamos servir esta cerveza a 4-6º C para disfrutar al máximo de su carácter
-- Aromáticamente tiene delicados tintes a frutas blancas, plátano y manzana, con suaves toques a pan blanco sobre fondo floral
-- Pack de 24 latas de 33 centilitros cada uno de San Miguel Especial
 - Compuesta por una combinación de malta Pilsen y tostada, de cebadas seleccionadas; aportan un color dorado ligero y un toque de cereal y notas de pan blanco
-- Su aspecto se caracteriza por un color dorado, brillante, con espuma cremosa y consistente
+- Pack de 24 latas de 33 centilitros cada uno de San Miguel Especial
+- En boca ofrece equilibrio y elegancia, con cuerpo y amargor moderados
 - En San Miguel llevamos desde 1890 cumpliendo las altas expectativas de los amantes de la cerveza
 - Elaborada con un coupage de lúpulos que aportan un fondo floral y un amargor moderado; variedades de origen de la región del Hallertau en Baviera (Sur de Alemania) y el estado de Oregón en EE. UU.
+- Recomendamos servir esta cerveza a 4-6º C para disfrutar al máximo de su carácter
+- Aromáticamente tiene delicados tintes a frutas blancas, plátano y manzana, con suaves toques a pan blanco sobre fondo floral
+- Su aspecto se caracteriza por un color dorado, brillante, con espuma cremosa y consistente
 - San Miguel Especial es una cerveza con 5,4% de grado alcohólico, con un sabor y espíritu aventurero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
