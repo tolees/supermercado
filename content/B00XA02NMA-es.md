@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Beefeater London Dry es una ginebra reconocida y con trayectoria a nivel mundial
 - Destilada en el corazón de Londres, Beefeater London Dry Gin mantiene la receta tradicional desde 1820
-- La ginebra Beefeater London Dry se destaca por su sabor y carácter de enebro fuerte equilibrado con notas de cítricos de limón y naranja
 - Para disfrutar Beefeater London Dry Ginebra se recomienda preparar un gin tonic con tónica y un twist de limón
 - Entre los ingredientes de esta ginebra destacan sus 9 extractos naturales como el enebro, la cáscara de naranja de Sevilla, la piel de limón, la raíz de regaliz, almendra y la raíz de angélica
-- Beefeater London Dry es una ginebra reconocida y con trayectoria a nivel mundial
+- La ginebra Beefeater London Dry se destaca por su sabor y carácter de enebro fuerte equilibrado con notas de cítricos de limón y naranja
 
 [🛒 Visítala!!!]({{< param buyurl >}})

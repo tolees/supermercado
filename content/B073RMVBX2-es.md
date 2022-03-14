@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Capacidad 700 ml
+- Ingredientes: alcohol, azúcar, extractos de hierbas
 - Contiene 35% vol. Alcohol
 - Tipo crema
-- Ingredientes: alcohol, azúcar, extractos de hierbas
-- Capacidad 700 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
