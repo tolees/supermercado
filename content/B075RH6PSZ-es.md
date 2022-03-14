@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Descubre toda la gama Hydro Boost de Neutrogena para cuerpo, manos y rostro, y convierte la hidratación en una parte esencial de tu rutina diaria
-- La Crema Contorno de Ojos Hydro Boost de Neutrogena te ayuda a iniciar el día gracias a la sensación de frescor que proporciona su hidratación; su triple acción proporciona una mirada despierta sin signos de fatiga
-- Ésta proporciona una dosis de hidratación intensa que revitaliza al instante la piel del contorno de ojos ya que está enriquecida con ácido hialurónico
-- Es adecuada para pieles sensibles y su pequeño tamaño permite llevarla en el bolso para disfrutar de una dosis de hidratación en cualquier momento del día
 - Su ligera fórmula en gel despierta los ojos cansados y ayuda a eliminar los signos de fatiga y se absorbe rápidamente como paso previo al maquillaje
+- La Crema Contorno de Ojos Hydro Boost de Neutrogena te ayuda a iniciar el día gracias a la sensación de frescor que proporciona su hidratación; su triple acción proporciona una mirada despierta sin signos de fatiga
+- Es adecuada para pieles sensibles y su pequeño tamaño permite llevarla en el bolso para disfrutar de una dosis de hidratación en cualquier momento del día
+- Ésta proporciona una dosis de hidratación intensa que revitaliza al instante la piel del contorno de ojos ya que está enriquecida con ácido hialurónico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

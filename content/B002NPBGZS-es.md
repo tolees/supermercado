@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Está diseñado para crear una apariencia dramática que deja los labios sintiéndose nutridos
-- El néctar nutritivo de miel en el lápiz de labios proporciona a los labios la humedad y los nutre
-- Tiene un color nítido creado por la tecnología del pigmento
 - Colores ricos con suavidad cremosa
+- Tiene un color nítido creado por la tecnología del pigmento
+- El néctar nutritivo de miel en el lápiz de labios proporciona a los labios la humedad y los nutre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
