@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 4. Tamaño pequeño: este producto tiene una parte suspendida, que es lo suficientemente pequeña como para no ocupar mucho espacio.
 - 1. Material de grado alimenticio: Este producto está hecho de silicona de grado alimenticio, libre de BPA, no tóxico e inodoro.
-- 5. Mango cómodo: El mango tiene un diseño ergonómico, nunca se desvanece y se siente suave. La base plana de acero del mango hace que apisonar el café sea más fácil.
-- 2. Diseño compacto: este producto tiene un tamaño compacto, lo hace adecuado para todo tipo de mesas de café y evita deslizamientos durante el uso.
+- 4. Tamaño pequeño: este producto tiene una parte suspendida, que es lo suficientemente pequeña como para no ocupar mucho espacio.
 - 3. Aplicación: Este producto es perfecto para aquellos a quienes les gusta presionar manualmente el poder del café en el borde de la mesa.
+- 2. Diseño compacto: este producto tiene un tamaño compacto, lo hace adecuado para todo tipo de mesas de café y evita deslizamientos durante el uso.
+- 5. Mango cómodo: El mango tiene un diseño ergonómico, nunca se desvanece y se siente suave. La base plana de acero del mango hace que apisonar el café sea más fácil.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
