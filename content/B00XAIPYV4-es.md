@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Regenera progresivamente la piel
-- Hipoalergénico
-- Especial piel atópica
 - No irrita
+- Especial piel atópica
+- Hipoalergénico
 - Calma el picor
 - Acción anti-sequedad
 
