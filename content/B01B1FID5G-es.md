@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skol Cerveza - Paquete de 24 x 330 ml - Total: 7920 ml'
-date: 2022-03-12 19:33:45
+date: 2022-03-14 09:42:55
 image: 'https://m.media-amazon.com/images/I/41dS9ndlanL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skol'
 buyurl: 'https://www.amazon.es/dp/B01B1FID5G/?tag=tolees-21'
 descuento: '30.95'
-average: '7.24133333333333'
+average: '7.22375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

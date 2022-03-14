@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Nogal Frutos Secos Cóctel de Frutos Secos Sabor Tex-Mex Bolsa  125 G'
-date: 2022-03-10 08:10:37
+date: 2022-03-14 09:19:51
 image: 'https://m.media-amazon.com/images/I/413z3uwkN1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EL NOGAL'
 buyurl: 'https://www.amazon.es/dp/B091G5V3ZK/?tag=tolees-21'
 descuento: '20.00'
-average: '1.07142857142857'
+average: '1.0625'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Conservar en lugar limpio, fresco y seco.
-- Alérgenos: Puede contener trazas de otros frutos de cáscara, leche, soja y derivados
 - Varios orígenes: Argentina/España/Perú
 - Ingredientes: CACAHUETES y deliciosos frutos secos tex mex y bbq.
+- Alérgenos: Puede contener trazas de otros frutos de cáscara, leche, soja y derivados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
