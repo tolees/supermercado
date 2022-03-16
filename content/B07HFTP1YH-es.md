@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Plax Enjuague Bucal  250ml'
-date: 2022-03-14 16:22:52
+date: 2022-03-15 22:15:41
 image: 'https://m.media-amazon.com/images/I/41asajl5+mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Colgate'
 buyurl: 'https://www.amazon.es/dp/B07HFTP1YH/?tag=tolees-21'
 descuento: '0.00'
-average: '2.16222222222222'
+average: '2.245'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

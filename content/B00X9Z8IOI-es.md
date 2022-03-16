@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Purina Friskies Perro - Friskies - Alimento para Perros Snacks Variety - 126 g  Paquete de 1 '
-date: 2022-03-10 20:56:06
+date: 2022-03-15 22:20:48
 image: 'https://m.media-amazon.com/images/I/51mFJTCsoiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Purina Friskies Perro'
 buyurl: 'https://www.amazon.es/dp/B00X9Z8IOI/?tag=tolees-21'
 descuento: '49.75'
-average: '1.325'
+average: '1.30789473684211'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Antioxidantes para mantener las defensas naturales
-- Una deliciosa selección de snacks llenos de jugosidad
 - Elaborado con ingredientes de calidad
+- Una deliciosa selección de snacks llenos de jugosidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
