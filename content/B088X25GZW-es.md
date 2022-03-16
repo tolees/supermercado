@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vermouth Padró & Co Rojo Clásico - 750 ml'
-date: 2022-03-14 14:39:36
+date: 2022-03-16 16:35:05
 image: 'https://m.media-amazon.com/images/I/41rmBf4yNfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vermouth Padró & Co'
 buyurl: 'https://www.amazon.es/dp/B088X25GZW/?tag=tolees-21'
 descuento: '22.33'
-average: '7.88'
+average: '7.83285714285714'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soto del Realon Crianza Tempranillo Vino Tinto - D.O. Ribera del Guadiana - 6 Unidades de 750 ml - Total: 4500 ml - Bodegas López Morenas.'
-date: 2022-03-14 09:11:51
+date: 2022-03-16 16:40:06
 image: 'https://m.media-amazon.com/images/I/41H-F2ksSWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bodegas López Morenas'
 buyurl: 'https://www.amazon.es/dp/B093CT9WMJ/?tag=tolees-21'
 descuento: '14.94'
-average: '13.5718181818182'
+average: '13.4325'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- NOTA: El embalaje puede variar!
-- Vino tinto elaborado con uvas de la variedad Tempranillo
 - Un vino clásico de color rojo brillante, vivo y fresco
 - Aroma de gran intensidad y persistencia, muy elegantes notas florales
+- Vino tinto elaborado con uvas de la variedad Tempranillo
+- NOTA: El embalaje puede variar!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
