@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Color ámbar, de aspecto brillante y espuma cremosa y consistente. Carácter lupulado intenso con gran variedad de matices, entre los que destacan los aromas herbales, florales y a resina, con toques de fruta tropical. En segundo plano se aprecian sabores a caramelo y tostado de las maltas. Al tragar se potencian las notas lupuladas, y aparecen ciertas notas de fragancia alcohólica. En boca es equilibrada en cuerpo e intensidad de amargo. La persistencia es ligera y seca.
-- Manila de San Miguel mezcla lo mejor de una IPA y lo mejor de una lager. Es una cerveza India Pale Lager que combina los matices lupulados de las IPAs con la suavidad y el equilibrio de las lager.
-- Elaborada con maltas con un grado mayor de tueste, que aportan intensidad de color y notas tostadas y caramelizadas; con Lúpulos aromáticos que proporcionan aromas herbales, florales y a resina, con toques de fruta tropical y lúpulos amargos que proporcionan el amargor equilibrado y ligeramente persistente; y con levadura.
 - Pack de 24 latas de 33 centilitros cada uno de San Miguel Manila, con 5,8% de alcohol.
+- Elaborada con maltas con un grado mayor de tueste, que aportan intensidad de color y notas tostadas y caramelizadas; con Lúpulos aromáticos que proporcionan aromas herbales, florales y a resina, con toques de fruta tropical y lúpulos amargos que proporcionan el amargor equilibrado y ligeramente persistente; y con levadura.
 - Para un mayor disfrute, se recomienda consumir entre 4º y 6º grados.
+- Manila de San Miguel mezcla lo mejor de una IPA y lo mejor de una lager. Es una cerveza India Pale Lager que combina los matices lupulados de las IPAs con la suavidad y el equilibrio de las lager.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

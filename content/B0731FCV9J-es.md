@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pierde quien hace caer el Yeti en el cuenco
 - Cuenco Yeti para espaguetis
-- Número de jugadores: 4
+- Pierde quien hace caer el Yeti en el cuenco
 - Hay que ser valiente para quitar los espaguetis y no hacer caer al Yeti
+- Número de jugadores: 4
 
 [🛒 Comprar!!!]({{< param buyurl >}})
