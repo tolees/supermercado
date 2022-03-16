@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Accesorio Cappuccino/Agua Caliente: Espumador de leche
 - Depósito de agua Integrado y extraíble
 - Soporte del filtro Bajo presión "Crema Perfecta"
+- Accesorio Cappuccino/Agua Caliente: Espumador de leche
 
 [🛒 Visítala!!!]({{< param buyurl >}})

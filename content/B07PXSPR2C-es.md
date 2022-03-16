@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Muy aromático y refrescante, es la opción optima para acompañar tus tardeos y momentos más especiales
-- Aroma delicado, agradable y con notas frutales; Sabor muy suave, complejo y persistente, muy equilibrado
+- Su versatilidad lo convierte en un producto adecuado para mezclar en combinados, cócteles y con zumos
 - Terry White Brandy es el primer brandy blanco español, toda una innovación en su categoría
 - Un producto de origen local, elaborado 100% con destilado de uva
-- Su versatilidad lo convierte en un producto adecuado para mezclar en combinados, cócteles y con zumos
+- Muy aromático y refrescante, es la opción optima para acompañar tus tardeos y momentos más especiales
+- Aroma delicado, agradable y con notas frutales; Sabor muy suave, complejo y persistente, muy equilibrado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Natural, sin granos, sin gluten: también apto para gatos sensibles
-- Sin gluten y sin colorantes artificiales ni conservantes.
+- No probado en animales
 - Ingredientes de alta calidad
 - Adecuado para gatos sensibles
-- Contiene valiosas proteínas, vitaminas y minerales
-- No probado en animales
-- Preparado con ingredientes de alta calidad adecuados para comida de mascotas
 - Almo Nature es el alimento para mascotas, producido con ingredientes naturales, que devuelve el 100% de sus ganancias a gatos, perros y biodiversidad a través de los proyectos de la Fondazione Capellino.
+- Preparado con ingredientes de alta calidad adecuados para comida de mascotas
+- Contiene valiosas proteínas, vitaminas y minerales
+- Sin gluten y sin colorantes artificiales ni conservantes.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
