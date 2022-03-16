@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ESTÍMULA TUS SENTIDOS gracias a su suave textura, olor y a tus mimos que tanto os gustan para toda la familia
-- FRAGANCIA ORIGINAL NENUCO: con el Gel de Ducha Nenuco Classic podrás disfrutar del olor de Nenuco
-- EXTRACTO DE ALOE VERA: Suavidad y cuidado para la piel
-- TESTADO DERMATOLÓGICAMENTE
 - PARA TODA LA FAMILIA, adecuado tanto para niños como para adultos
+- TESTADO DERMATOLÓGICAMENTE
+- EXTRACTO DE ALOE VERA: Suavidad y cuidado para la piel
+- FRAGANCIA ORIGINAL NENUCO: con el Gel de Ducha Nenuco Classic podrás disfrutar del olor de Nenuco
+- ESTÍMULA TUS SENTIDOS gracias a su suave textura, olor y a tus mimos que tanto os gustan para toda la familia
 
 [🛒 Comprar!!!]({{< param buyurl >}})

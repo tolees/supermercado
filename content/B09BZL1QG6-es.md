@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puede contener otros frutos de cáscara
 - Contiene leche y avellanas
+- Puede contener otros frutos de cáscara
 - Pais de origen: España
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
