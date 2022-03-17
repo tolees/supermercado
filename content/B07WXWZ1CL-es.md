@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Delicioso surtido de diferentes piezas clasicas
 - Con un irresistible mix de sabores y colores con recubrimiento pica
+- Delicioso surtido de diferentes piezas clasicas
 - Geles dulces
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
