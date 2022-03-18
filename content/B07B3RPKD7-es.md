@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gaggia Viva Style - Máquina de café  Negro  20 x 29 7 x 26 5 cm'
-date: 2022-03-15 23:30:12
+date: 2022-03-18 12:14:20
 image: 'https://m.media-amazon.com/images/I/312n9uu94ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gaggia'
 buyurl: 'https://www.amazon.es/dp/B07B3RPKD7/?tag=tolees-21'
 descuento: '16.79'
-average: '116.821875'
+average: '116.708235294118'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
