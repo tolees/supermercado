@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elimina los malos olores de raíz y deja un agradable aroma a frescor herbal en el ambiente.
-- Ideal para ambientes cerrados, baños, desagües, cocina, armarios, tapicerías de coche, etc. Especialmente eficaz contra malos olores persistentes causados por bacterias como humedad, sudor corporal, olor a tabaco, mascotas, orina o vómito.
-- Aerosol Desinfectante para hogar y tejidos eficaz contra hongos y bacterias más comunes en el hogar, como S. aureus o E. coli, y también virus.
-- Desinfecta y desodoriza tejidos no lavables como alfombras, sofás, cortinas, cojines, colchones, almohadas, mochilas, zapatos, etc.
 - Gracias a su triple acción elimina los males olores de raíz, acabando con el 99,9% de los gérmenes a la vez que perfuma el ambiente.
+- Elimina los malos olores de raíz y deja un agradable aroma a frescor herbal en el ambiente.
+- Desinfecta y desodoriza tejidos no lavables como alfombras, sofás, cortinas, cojines, colchones, almohadas, mochilas, zapatos, etc.
+- Aerosol Desinfectante para hogar y tejidos eficaz contra hongos y bacterias más comunes en el hogar, como S. aureus o E. coli, y también virus.
+- Ideal para ambientes cerrados, baños, desagües, cocina, armarios, tapicerías de coche, etc. Especialmente eficaz contra malos olores persistentes causados por bacterias como humedad, sudor corporal, olor a tabaco, mascotas, orina o vómito.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

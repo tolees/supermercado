@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desodorante en stick 50 ml. No testado en animales. Vegano. Fabricación íntegra en España.
-- Libre de Sales de aluminio y parabenos. Dermatológicamente testado.
-- Unidades: 1.0
 - Desodorante muy perfumado y dulce. Perfume algodón de azúcar.
-- El Desodorante Nube De Algodón Tulipán Negro en stick ofrece una intensa protección durante todo el día que aumentará tu confianza y tu protección.
+- Libre de Sales de aluminio y parabenos. Dermatológicamente testado.
 - Género; Unisex. Adulto.
+- Unidades: 1.0
+- El Desodorante Nube De Algodón Tulipán Negro en stick ofrece una intensa protección durante todo el día que aumentará tu confianza y tu protección.
+- Desodorante en stick 50 ml. No testado en animales. Vegano. Fabricación íntegra en España.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
