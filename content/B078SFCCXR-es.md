@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Peso: 5 kg
 - Para lavar tejidos y superficies
-- Detergente atomizado que garantiza la limpieza uniforme de los tejidos
+- Peso: 5 kg
 - Formato de facil manejo
+- Detergente atomizado que garantiza la limpieza uniforme de los tejidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

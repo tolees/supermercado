@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Formulado con PROTEIN CALCIUM, que refuerza y nutre la piel para mantenerla fuerte y joven. Piel más hidratada, elástica y firme. Una piel reparada es el secreto de una piel joven.
+- Su fórmula con Ácido Láctico y Urea Pura repara la piel en profundidad gracias a sus propiedades reparadoras
+- Gel de ducha lácteo Lactourea, nº1 en urea, para pieles secas y extra-secas que necesitan un extra de reparación
 - Desde el primer día, notarás una piel más reparada, elástica y fuerte, además de disfrutar durante todo el día de su delicado perfume
 - Compromiso Lactovit; activos 100% naturales de la leche y altamente biodegradables, mejorando la reciclabilidad de nuestros envases y cuidando del medio ambiente.
-- Gel de ducha lácteo Lactourea, nº1 en urea, para pieles secas y extra-secas que necesitan un extra de reparación
-- Su fórmula con Ácido Láctico y Urea Pura repara la piel en profundidad gracias a sus propiedades reparadoras
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SUAVIZA E HIDRATA la piel gracias a sus apreciados ingredientes naturales: Aloe Vera orgánico, avena y lavanda. Rico en vitaminas A y E que le dejan el pelo ligero y con un brillo hermoso.
 - PERFECTO LAVADO EN SECO DESPUÉS DE UN PASEO: Formulado para separar con facilidad la suciedad del pelaje de su perro y evaporarse rápidamente. PH equilibrado. Apto para perros adultos y cachorros. Botella de 250 ml con más de 1000 dosis de rocío.
-- FÓRMULA 100% NATURAL sin SLS ni SLES, suave con la piel y el pelo. Aroma a polvo de talco.
-- GARANTÍA DE CALIDAD PREMIUM: fabricados en Italia, nuestros productos son naturales, aprobados por veterinarios y cumplen con las regulaciones y los más altos estándares de la UE. En caso de que usted o su perro no estén satisfechos con este producto, puede devolverlo y obtener un reembolso completo sin preguntas.
 - SIN MOJAR O ACLARAR CON AGUA: Aplicar rociando sobre el cuerpo y cepillar o limpiar con una toalla seca. La solución se evapora más rápido que el agua, dejando el pelaje limpio y esponjoso.
+- GARANTÍA DE CALIDAD PREMIUM: fabricados en Italia, nuestros productos son naturales, aprobados por veterinarios y cumplen con las regulaciones y los más altos estándares de la UE. En caso de que usted o su perro no estén satisfechos con este producto, puede devolverlo y obtener un reembolso completo sin preguntas.
+- FÓRMULA 100% NATURAL sin SLS ni SLES, suave con la piel y el pelo. Aroma a polvo de talco.
+- SUAVIZA E HIDRATA la piel gracias a sus apreciados ingredientes naturales: Aloe Vera orgánico, avena y lavanda. Rico en vitaminas A y E que le dejan el pelo ligero y con un brillo hermoso.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
