@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formato de facil manejo
 - Peso: 5 kg
 - Para lavar tejidos y superficies
 - Detergente atomizado que garantiza la limpieza uniforme de los tejidos
+- Formato de facil manejo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
