@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kärcher Champú para coches detergente 619 5 L  6.295-360.0 '
-date: 2022-03-16 23:33:28
+date: 2022-03-18 10:17:13
 image: 'https://m.media-amazon.com/images/I/41pNXDVJJxS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kärcher'
 buyurl: 'https://www.amazon.es/dp/B0056A6ZEO/?tag=tolees-21'
 descuento: '0.00'
-average: '11.238'
+average: '11.1983333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detergente ligeramente alcalino, no hay sustancias peligrosas
-- Muy suave en el material
+- Los tensioactivos son biodegradables según la ocde
 - Para una limpieza a fondo de delicada pintura y las superficies de plástico
 - Ready touse productos de limpieza (rtu)
-- Los tensioactivos son biodegradables según la ocde
+- Detergente ligeramente alcalino, no hay sustancias peligrosas
+- Muy suave en el material
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

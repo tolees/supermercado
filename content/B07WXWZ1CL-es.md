@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Favoritos Red Pica  1 x 150 g'
-date: 2022-03-16 23:40:58
+date: 2022-03-18 09:35:12
 image: 'https://m.media-amazon.com/images/I/51FmZwiqlIS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B07WXWZ1CL/?tag=tolees-21'
 descuento: '44.13'
-average: '1.10666666666667'
+average: '1.09142857142857'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

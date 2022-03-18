@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepsi MAX 1.75L - Refresco de Cola con Zero Azúcar - Bipack'
-date: 2022-03-07 14:26:13
+date: 2022-03-18 10:21:55
 image: 'https://m.media-amazon.com/images/I/41TuFJCQO7S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepsi Max'
 buyurl: 'https://www.amazon.es/dp/B01ITU3VC6/?tag=tolees-21'
 descuento: '8.91'
-average: '2.51055555555556'
+average: '2.5021052631579'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No congelar
 - Evitar el contacto directo con el suelo.
+- No congelar
 - Proteger de la luz solar y de olores agresivos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
