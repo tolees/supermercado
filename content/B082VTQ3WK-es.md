@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvo - Atún Claro Escabeche  Pack 3 x 80 g'
-date: 2022-03-10 14:29:33
+date: 2022-03-17 23:02:18
 image: 'https://m.media-amazon.com/images/I/41XOZteb8LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alto contenido ácidos Grasos Omega3
-- Pack 3 x 80 g
-- Contiene Pescado y/o productos a base de pescados
 - no tiene café
+- Pack 3 x 80 g
+- Alto contenido ácidos Grasos Omega3
+- Contiene Pescado y/o productos a base de pescados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
