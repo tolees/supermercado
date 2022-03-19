@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula sin ingredientes no deseados: 0 % de parabenos, fosfatos, parafinas y tintes
-- Probado dermatológicamente, pH equilibrado y mejorado con antioxidantes para tratar con suavidad el cabello y el cuero cabelludo
-- Fórmula Derma&Pure que combate con eficacia el cuero cabelludo seco, graso y con picor para detener la caspa antes de que aparezca
 - Mantiene la belleza del cabello y lo deja 100 % libre de caspa; con un uso regular
 - El champú anticaspa Classic limpia el cabello y lo mantiene fresco, hidratado y bonito
+- Fórmula Derma&Pure que combate con eficacia el cuero cabelludo seco, graso y con picor para detener la caspa antes de que aparezca
+- Probado dermatológicamente, pH equilibrado y mejorado con antioxidantes para tratar con suavidad el cabello y el cuero cabelludo
+- Fórmula sin ingredientes no deseados: 0 % de parabenos, fosfatos, parafinas y tintes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
