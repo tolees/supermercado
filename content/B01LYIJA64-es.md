@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Estimula el cuero cabelludo
-- Eficacia científicamente demostrada
 - Revitaliza el cabello
 - El cabello es más resistente
+- Eficacia científicamente demostrada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

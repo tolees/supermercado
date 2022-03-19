@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Estrella del Sur Cerveza - Pack de 24 Botellas 25cl'
-date: 2022-03-10 07:26:44
+date: 2022-03-19 12:19:08
 image: 'https://m.media-amazon.com/images/I/51w0K+34QaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Estrella Del Sur'
 buyurl: 'https://www.amazon.es/dp/B07BH8NBW5/?tag=tolees-21'
 descuento: '0.00'
-average: '6.272'
+average: '6.24166666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alcohol 4,6 vol.
 - Una cerveza de color ámbar claro brillante con una espuma persistente y pálida.
 - Notas a levadura y lúpulo.
 - Temperatura recomendada: 4 a 6º.
+- Alcohol 4,6 vol.
 - Muy refrescante, especial para las altas temperaturas del sur.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
