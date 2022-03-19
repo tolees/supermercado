@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pastillas lavavajillas Fairy Original que limpian a la primera y son efectivas incluso en grasa reseca
-- Nuestra planta funciona con electricidad comprada 100 % renovable
 - Mantiene un aroma limpio y fresco en tu lavavajillas
 - Detergente lavavajillas con sal incoporada. Ayuda al aclarado, también protege el cristal y la plata
 - Pastillas lavavajillas altamente solubles se disuelven rápido
+- Nuestra planta funciona con electricidad comprada 100 % renovable
+- Pastillas lavavajillas Fairy Original que limpian a la primera y son efectivas incluso en grasa reseca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
