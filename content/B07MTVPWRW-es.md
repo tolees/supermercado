@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para de Bellas mails y suaves hydratées, incluso lavar con frecuencia.
-- fácil de usar
 - Una fórmula de mantequilla de karité y a la vainilla que lava tus manos suavemente y los protege del sequedad día tras día.
 - Crema lavante bomba karité
+- fácil de usar
+- Para de Bellas mails y suaves hydratées, incluso lavar con frecuencia.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

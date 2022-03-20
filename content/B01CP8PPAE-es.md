@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caramelos de goma
 - Deliciosas piezas en forma de lagartones
 - Irresistible mix de sabores
+- Caramelos de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
