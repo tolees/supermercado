@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para disfrutar de una ginebra a la vez clásica y atrevida
-- Recomendamos servir como Gin & Tonic con twist de lima y un toque de pimienta negra
 - Contenido de alcohol: 37.5%
+- Recomendamos servir como Gin & Tonic con twist de lima y un toque de pimienta negra
 - Notas aromáticas de enebro y coriandro
+- Para disfrutar de una ginebra a la vez clásica y atrevida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
