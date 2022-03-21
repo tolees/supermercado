@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para una limpieza facial intensiva de las espinillas: Este gel de lavado sin aceite limpia eficazmente la piel. Libera la piel de granos e impurezas. El gel de lavado también ayuda a prevenir nuevas espinillas; para una tez más pura y favorecedora.
 - Resultados después de la aplicación: Científicamente probado: Ayuda a partir del primer día, incluso las espinillas más rebeldes y mantiene la barrera protectora de la piel. Así la piel se vuelve más resistente a los nuevos granos.
-- Incluye: Limpiador diario antiespinillas de 200 ml Neutrogena con ácido salicílico purificador para una limpieza eficaz y refrescante de la piel.
 - Uso económico: Gracias al práctico dispensador de bomba, la cantidad se puede dosificar fácilmente. Basta con un bombeo y ya se puede aplicar gel de lavado.
+- Para una limpieza facial intensiva de las espinillas: Este gel de lavado sin aceite limpia eficazmente la piel. Libera la piel de granos e impurezas. El gel de lavado también ayuda a prevenir nuevas espinillas; para una tez más pura y favorecedora.
+- Incluye: Limpiador diario antiespinillas de 200 ml Neutrogena con ácido salicílico purificador para una limpieza eficaz y refrescante de la piel.
 - Fácil de utilizar: Aplicar por la mañana y por la noche. Humedece la cara y masajea suavemente el gel de lavado sobre la cara. Enjuagar de inmediato con abundante agua.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

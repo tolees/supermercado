@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Nestlé Jungly Blanco 125g'
-date: 2022-03-10 20:56:34
+date: 2022-03-21 19:11:49
 image: 'https://m.media-amazon.com/images/I/51AVLXBJzLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09RP9QBC6-es Nestlé Jungly Blanco 125g'
 sku: 'B09RP9QBC6-es'
-tags: [ 'Alimentación y bebidas','Chocolates','Snacks y dulces','nestlé','nestlé jungly', ]
-actualPrice: 1.49 EUR
+tags: [ 'Alimentación y bebidas','Barritas de chocolate','Bloques de chocolate','Chocolates','Snacks y dulces','nestlé','nestlé jungly', ]
+actualPrice: 1.39 EUR
 currency: EUR
-price: 1.49
+price: 1.39
 comparePrice: 1.49 EUR
 prodname: 'Nestlé Jungly Blanco 125g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nestlé Jungly'
 buyurl: 'https://www.amazon.es/dp/B09RP9QBC6/?tag=tolees-21'
-descuento: '0.00'
-average: '1.475'
+descuento: '6.71'
+average: '1.458'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Certificado Rainforest Alliance.
 - Con un irresistible chocolate blanco y crujiente galleta, disfruta del divertido retorno de Jungly.
 - Tu NESTLÉ JUNGLY ¡Ahora con chocolate blanco!
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan.
+- Certificado Rainforest Alliance.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
