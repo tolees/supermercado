@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kerzo Champú Anticaída Fortificante para Cabellos Normales - 400 ml'
-date: 2022-03-19 11:44:35
+date: 2022-03-21 20:07:48
 image: 'https://m.media-amazon.com/images/I/41rkGYkPsOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kerzo'
 buyurl: 'https://www.amazon.es/dp/B01LYIJA64/?tag=tolees-21'
 descuento: '24.30'
-average: '2.8425925925926'
+average: '2.84785714285715'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Eficacia científicamente demostrada
+- El cabello es más resistente
 - Estimula el cuero cabelludo
 - Revitaliza el cabello
-- El cabello es más resistente
-- Eficacia científicamente demostrada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
