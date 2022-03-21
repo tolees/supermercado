@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ✅ResActiv es un complemento alimenticio compuesto a base de extractos de plantas (CARDO MARIANO y extractos de GRANADA) y VITAMINAS (A, C y E), que ayudan a PREVENIR y PROTEGER tu salud frente a un consumo excesivo.
-- ✅Con ResActiv pensamos en ayudar a mantener tu estilo de vida activo y contribuyendo a cuidar tu salud. ANTICÍPATE Y MANTENTE ACTIVO.
-- ✅Modo de consumo: Tomar DOS cápsulas previamente al momento de consumo. (*Recomendable: si el consumo se alarga durante más de 2 horas, tomar otras DOS cápsulas una vez finalizado dicho consumo)..
 - ✅ResActiv es un producto fabricado en España y registrado en la Unión Europea (UE). La formulación de ResActiv la hemos desarrollado con profesionales del mundo de la farmacia y de la enología, buscando un producto natural que reduzca los síntomas derivados de un consumo excesivo.
 - ✅ResActiv tiene una doble función: PREVENIR (Ayuda a reducir los síntomas derivados de un consumo excesivo por la acción ANTIOXIDANTE del extracto de granada y las vitaminas) y PROTEGER (Protege las células hepáticas por la acción del CARDO MARIANO)
+- ✅Modo de consumo: Tomar DOS cápsulas previamente al momento de consumo. (*Recomendable: si el consumo se alarga durante más de 2 horas, tomar otras DOS cápsulas una vez finalizado dicho consumo)..
+- ✅Con ResActiv pensamos en ayudar a mantener tu estilo de vida activo y contribuyendo a cuidar tu salud. ANTICÍPATE Y MANTENTE ACTIVO.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
