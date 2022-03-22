@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un irresistible chocolate blanco y crujiente galleta, disfruta del divertido retorno de Jungly.
-- Certificado Rainforest Alliance.
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan.
 - Tu NESTLÉ JUNGLY ¡Ahora con chocolate blanco!
+- Certificado Rainforest Alliance.
+- Con un irresistible chocolate blanco y crujiente galleta, disfruta del divertido retorno de Jungly.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
