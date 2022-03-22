@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nestlé Jungly Blanco 125g'
-date: 2022-03-21 19:11:49
+date: 2022-03-22 19:34:07
 image: 'https://m.media-amazon.com/images/I/51AVLXBJzLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nestlé Jungly'
 buyurl: 'https://www.amazon.es/dp/B09RP9QBC6/?tag=tolees-21'
 descuento: '6.71'
-average: '1.458'
+average: '1.44666666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con un irresistible chocolate blanco y crujiente galleta, disfruta del divertido retorno de Jungly.
-- Tu NESTLÉ JUNGLY ¡Ahora con chocolate blanco!
-- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan.
 - Certificado Rainforest Alliance.
+- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan.
+- Tu NESTLÉ JUNGLY ¡Ahora con chocolate blanco!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
