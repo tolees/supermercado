@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Babaria Crema De Manos Aceite De Oliva - 75 ml'
-date: 2022-03-16 09:12:42
+date: 2022-03-22 12:18:55
 image: 'https://m.media-amazon.com/images/I/41NkzYsTaXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Alivia las irritaciones y reduce el enrojecimiento
-- Resistente al agua.
-- Tacto ligero y absorción rápida
 - Fórmula no pegajosa
+- Tacto ligero y absorción rápida
+- Resistente al agua.
 - Testado dermatológicamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
