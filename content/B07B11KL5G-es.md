@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La máquina más pequeña y silenciosa de la casa Lavazza
-- Función de apagado automático (9 min)
-- Incluye nueve cápsulas de inicio
 - Disponible en cuatro colores, blanco, rojo, azul claro, lima
+- Incluye nueve cápsulas de inicio
+- Función de apagado automático (9 min)
+- La máquina más pequeña y silenciosa de la casa Lavazza
 - Un contenedor de agua transparente (0.6 L)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
