@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nariz: afrutada, cítrica, con toques de humo.
 - Color: ámbar oscuro.
+- Perfecto Como Un Regalo
+- Nariz: afrutada, cítrica, con toques de humo.
 - Sabor: Seco, chocolate, ligeramente malteado, vainilla, notas de humo.
 - Acabado: Larga duración.
-- Perfecto Como Un Regalo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
