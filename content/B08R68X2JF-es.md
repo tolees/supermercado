@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vitamina C y E
-- Poder antioxidante, aporta luminosidad al rostro
-- Recomendada para todas las edades y pieles grasas
-- Recomendada para todas las edades y pieles grasas
 - Protege frente a la luz azul y la polución
+- Vitamina C y E
+- Recomendada para todas las edades y pieles grasas
+- Recomendada para todas las edades y pieles grasas
+- Poder antioxidante, aporta luminosidad al rostro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
