@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marrón Chocolate Converse 1Q112 TC A/S SP OX  Größe Schuhe Damen:EUR 37'
-date: 2022-03-15 15:37:09
+date: 2022-03-25 06:46:51
 image: 'https://m.media-amazon.com/images/I/41cAumyFvsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B000PI6W8Q/?tag=tolees-21'
 descuento: '4.63'
-average: '39.632'
+average: '41.6645454545455'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
