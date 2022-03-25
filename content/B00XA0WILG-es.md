@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso
-- Con deliciosos trozos de galleta con pepitas de chocolate y relleno cremoso, para una exquisita combinación de texturas y sabores
 - Chocolate con leche y Chips Ahoy de la marca Milka, en una tableta de 100 g
 - Alérgenos: Contiene leche, trigo, soja, almendras y avellanas, puede contener otros frutos de cáscara
 - Conservar en lugar fresco y seco
+- Con deliciosos trozos de galleta con pepitas de chocolate y relleno cremoso, para una exquisita combinación de texturas y sabores
+- Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
