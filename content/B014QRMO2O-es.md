@@ -31,7 +31,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Con protección contra rayos UVA SPF 15. Resistente al sudor, a la humedad y al agua
 - Textura ligera, cubre las imperfecciones, sin obstruir los poros. Cobertura media/alta
 - Piel sin brillos e hidratada con un acabado mate que dura hasta 24H
-- Evita la aparición de grietas, proporcionando un adecuado confort en la piel
 - Adecuada para piel mixta/grasa. Fórmula libre de aceites y fragancias, oil free
+- Evita la aparición de grietas, proporcionando un adecuado confort en la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
