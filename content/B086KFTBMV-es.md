@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Magic Party  450g'
-date: 2022-03-13 16:21:01
+date: 2022-03-27 08:45:39
 image: 'https://m.media-amazon.com/images/I/514bH35s7vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B086KFTBMV/?tag=tolees-21'
 descuento: '49.32'
-average: '4.035'
+average: '4.05'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mix de tus piezas preferidas con irresistible sabor a frutas
-- Envueltas individualmente
-- Contiene 18 mini bolsitas
 - ‎Almacenar en un sitio seco y oscuro
+- Envueltas individualmente
 - Surtido de caramelos de goma
+- Mix de tus piezas preferidas con irresistible sabor a frutas
+- Contiene 18 mini bolsitas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
