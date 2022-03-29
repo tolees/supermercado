@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El cepillo esencial para conseguir una limpieza diaria
-- Vibra cada 30 segundos para avisarte de que cambies la zona que te estás cepillando
 - Tipo de fuente de energía: batería
+- Vibra cada 30 segundos para avisarte de que cambies la zona que te estás cepillando
 - Contenido: 1 mango de cepillo de dientes, 1 cabezal CrossAction
 - Elimina más placa que un cepillo manual normal
 

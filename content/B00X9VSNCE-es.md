@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dermatológicamente probado: con PH neutro para todos los tipos de piel
-- Contiene 148 toallitas
-- Desechable por el WC
 - Complemento de tu Scottex seco para una higiene adecuada
+- Desechable por el WC
+- Contiene 148 toallitas
 - Enriquecido con vitamina E
+- Dermatológicamente probado: con PH neutro para todos los tipos de piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
