@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La bebida adecuada para divertirse con amigos, en casa o on-the-go
-- Proteger del sol
 - No congelar
 - Con zero azúcares
+- Proteger del sol
+- La bebida adecuada para divertirse con amigos, en casa o on-the-go
 - Bebida carbonatada embotellada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
