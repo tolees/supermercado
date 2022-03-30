@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 1 mes de maduración en tinajas de barro centenarias
 - 100 % Tempranillo
-- 100% Divertido
-- Vino ecológico
 - Maceración carbónica
+- Vino ecológico
 - 0% Preocupaciones
+- 100% Divertido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

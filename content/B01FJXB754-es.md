@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepsi Max 330ml - Refresco de Cola con Zero Azúcar  Pack de 9'
-date: 2022-03-19 16:35:55
+date: 2022-03-30 19:37:25
 image: 'https://m.media-amazon.com/images/I/51tG33a5CnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Alimentación y bebidas','Café, té y bebidas','Refrescos con gas','Re
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89
-comparePrice: 4.89 EUR
+comparePrice: 5.49 EUR
 prodname: 'Pepsi Max 330ml - Refresco de Cola con Zero Azúcar  Pack de 9'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pepsi'
 buyurl: 'https://www.amazon.es/dp/B01FJXB754/?tag=tolees-21'
-descuento: '0.00'
-average: '5.09416666666667'
+descuento: '10.93'
+average: '5.08864864864865'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Zero azúcar
 - Bebida refrescante aromatizada con edulcorantes
-- Paquete
 - Conservar en lugar limpio, fresco y seco
+- Paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})
