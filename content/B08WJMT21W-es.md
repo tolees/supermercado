@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Magno Gel de Ducha  650ml'
-date: 2022-03-29 08:48:28
+date: 2022-03-30 11:59:19
 image: 'https://m.media-amazon.com/images/I/316KrC3s6WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Magno'
 buyurl: 'https://www.amazon.es/dp/B08WJMT21W/?tag=tolees-21'
 descuento: '28.37'
-average: '2.77714285714285'
+average: '2.74249999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
