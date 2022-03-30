@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para todo tipo de piel y apto para uso diario
 - 6 Botellas x 400 ml
 - Aplicar el gel en las palmas de las manos húmedas o en una esponja, masajear y enjuagar
 - Dermatológicamente probado
 - 2 x Manteca de Karité, 2 x Leche de almendra y extracto de naranja, 2 x Sal marina y extracto de menta
+- Para todo tipo de piel y apto para uso diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})
