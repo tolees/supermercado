@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Allows dosing, for half loads or short cycles
 - Anti-grease - removes even the most stubborn oil residues
 - Easy to dissolve for impeccable cleaning even on short cycles
+- Allows dosing, for half loads or short cycles
 - Soaking effect that removes burnt grease stains without the need for pre-treatment
 - Somat Gel with Deep Clean Technology that penetrates and helps remove dry and stubborn dirt
 

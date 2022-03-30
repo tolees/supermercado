@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Gran absorción
 - Con esponja de poliuretano de distintos colores
 - Estropajos de fibra verde
-- Gran absorción
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

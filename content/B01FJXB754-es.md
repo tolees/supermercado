@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zero azúcar
 - Bebida refrescante aromatizada con edulcorantes
-- Conservar en lugar limpio, fresco y seco
 - Paquete
+- Zero azúcar
+- Conservar en lugar limpio, fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
