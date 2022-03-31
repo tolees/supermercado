@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Guardar en un lugar seco y oscuro
 - Recomendable servir en copa de balón con mucho hielo y una rodaja de lima o limón verde
-- Elaborada a partir de 12 botánicos
 - Método de elaboración artesanal
+- Guardar en un lugar seco y oscuro
+- Elaborada a partir de 12 botánicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
