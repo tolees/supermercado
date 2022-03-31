@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Jabon Liq Manos Palmolive 300+Rc Lh/Mi
 - Productos para el higiene y aseo, tanto para hombres como para mujeres.
+- Jabon Liq Manos Palmolive 300+Rc Lh/Mi
 - La mejor calidad en productos de cuidado personal.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
