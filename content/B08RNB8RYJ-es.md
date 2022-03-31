@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- IDEAL PARA VIAJES: todo el cuerpo de Oclean Air 2 pesa solo 98 g, lo cual es súper liviano y ultraportátil. Fácil de llevar en el camino. (Estuche de viaje no incluido)
-- Cepillo de dientes ultra silencioso: tecnología innovadora de reducción de ruido de tono puro. Impulsado por tecnología de señal ultrasónica de 2.000 Hz, el motor cancela el ruido y ofrece una experiencia de cepillado silenciosa y alegre al usarlo.
 - Carga rápida: se carga mediante un puerto USB magnético, se carga completamente durante aproximadamente 2,5 horas y ofrece una duración de batería de aproximadamente 30 días. El puerto USB es compatible con cualquier cargador (no incluido) o dispositivo con puertos USB. La interfaz ideal y el estuche de viaje le permiten llevar este cepillo de dientes recargable a todas partes.
 - Alta calidad: los cabezales de los cepillos de dientes utilizan filamentos DuPont Tynex y Pedex de grado médico. Cada sección transversal de los filamentos tiene forma de diamante para ofrecer una limpieza profunda y completa.
 - Fácil de usar: Air 2 tiene 2 modos de cepillado integrados. Simplemente presione brevemente el botón para encender / apagar el cepillo de dientes, o presione prolongadamente durante 2 segundos para cambiar la intensidad. Se apaga automáticamente después de dos minutos de cepillado recomendado por el dentista.
+- IDEAL PARA VIAJES: todo el cuerpo de Oclean Air 2 pesa solo 98 g, lo cual es súper liviano y ultraportátil. Fácil de llevar en el camino. (Estuche de viaje no incluido)
+- Cepillo de dientes ultra silencioso: tecnología innovadora de reducción de ruido de tono puro. Impulsado por tecnología de señal ultrasónica de 2.000 Hz, el motor cancela el ruido y ofrece una experiencia de cepillado silenciosa y alegre al usarlo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
