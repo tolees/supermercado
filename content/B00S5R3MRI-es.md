@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- A partir de 3 años
 - Con variante de juego para niños mayores de 4/5 años
 - Alimentar a los animales y descubrir lo que les gusta
 - Con bonitas ilustraciones de animales
-- A partir de 3 años
 - Duración del juego: aprox. 15 minutos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
