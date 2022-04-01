@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente
 - Soy 100% Cacao Natural, el único ingrediente que hay en este envase. Sin Azúcares Añadidos, Sin Aditivos ni Tratamientos Químicos.
-- Sin gluten; mantener en lugar fresco y seco
 - Soy muy versátil. Mézclame con leche, bebidas vegetales o batidos. Espolvoréame en el café, yogur o fruta fresca. Añádeme como ingrediente en postres, pasteles y helados
-- 5 envases autocierre zip de 250 gramos; tengo larga caducidad
+- Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente
 - Vengo del cacaotero, el árbol del cacao. Me recogen a mano y secan al sol para despues tostar y secar mis semillas.
+- 5 envases autocierre zip de 250 gramos; tengo larga caducidad
+- Sin gluten; mantener en lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mejor juntos; Utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito y libre de caspa
 - Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo, con beneficios adicionales de hidratación
 - Champú H&S bueno para el planeta: botella reciclable, 40% envase plástico reciclado (sin incluir el tapón y en función de las instalaciones de reciclaje)
-- Mejor juntos; Utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito y libre de caspa
-- Hasta 72 horas de protección frente a la caspa, la sequedad y el picor del cuero cabelludo (caspa visible, con uso regular; picor consecuencia de la caspa)
-- El champú anticaspa Citrus Fresh limpia el pelo graso y el cuero cabelludo aceitoso dejando un aroma cítrico duradero y sensación de frescura
 - Combate la causa principal de la caspa, dejando un pelo totalmente libre de caspa en hombres y mujeres, probado clínicamente (con uso regular)
+- El champú anticaspa Citrus Fresh limpia el pelo graso y el cuero cabelludo aceitoso dejando un aroma cítrico duradero y sensación de frescura
+- Hasta 72 horas de protección frente a la caspa, la sequedad y el picor del cuero cabelludo (caspa visible, con uso regular; picor consecuencia de la caspa)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
