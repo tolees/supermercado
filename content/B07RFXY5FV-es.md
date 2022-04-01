@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alto contenido de fibra
-- Los niños pequeños se pueden atragantar con los frutos secos
-- Envasado en atmósfera protectora para mantener su frescura
 - Apto para dietas vegetarianas y veganas
+- Envasado en atmósfera protectora para mantener su frescura
 - Puede contener ocasionalmente trozos de cáscara
+- Los niños pequeños se pueden atragantar con los frutos secos
 - Fuente de vitamina E
 - Cacahuetes tostados y salados
 

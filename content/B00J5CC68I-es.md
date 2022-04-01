@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The London N°1 - The London Nº1 - Ginebra Premium - 1000 ml'
-date: 2022-03-31 08:47:26
+date: 2022-04-01 15:16:09
 image: 'https://m.media-amazon.com/images/I/31GhGXebJLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'The London N°1'
 buyurl: 'https://www.amazon.es/dp/B00J5CC68I/?tag=tolees-21'
 descuento: '34.19'
-average: '26.5199999999999'
+average: '26.4692307692307'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
