@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cerveza negra estilo Múnich, elaborada con 3 tipos de maltas diferentes: torrefactas, caramelo y pilsen.
+- Pack de 24 latas 33cl.
 - 100% Ingredientes naturales.
 - Alc. 5,9% vol.
-- Pack de 24 latas 33cl.
+- Cerveza negra estilo Múnich, elaborada con 3 tipos de maltas diferentes: torrefactas, caramelo y pilsen.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

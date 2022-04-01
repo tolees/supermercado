@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Champú sin colorantes, ftalatos, sulfatos, alcohol y jabón
 - Fórmula hipoalergénica y con pH equilibrado, ¡ideal para el cabello del bebé!
-- Champú probado por pediatras y dermatólogos
 - Champú para bebés que deja el pelo suave, brillante e hidratado
 - Ideal también para niños y adultos
+- Champú probado por pediatras y dermatólogos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

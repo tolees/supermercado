@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes: agua, malta de cebada, lúpulo y levadura. 100 ml: 351 kj, 84 kcal
+- Cerveza estilo lager de color rubio oro, con notas afrutadas y ligero amargor final; el resultado es una cerveza refrescante con sabor 100% malta de cebada
 - Producto que combina tradición e innovación
 - Alc. 5,0% vol
-- Cerveza estilo lager de color rubio oro, con notas afrutadas y ligero amargor final; el resultado es una cerveza refrescante con sabor 100% malta de cebada
+- Ingredientes: agua, malta de cebada, lúpulo y levadura. 100 ml: 351 kj, 84 kcal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
