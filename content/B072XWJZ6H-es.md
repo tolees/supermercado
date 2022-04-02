@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nomen Arroz Sushi Nomen 0 5 Kg 500gr'
-date: 2022-04-01 19:20:34
+date: 2022-04-02 22:26:53
 image: 'https://m.media-amazon.com/images/I/41QNz1qFp2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- País de origen: españa
-- Arroz redondo
-- De la marca: Nomen
 - Ingredientes: arroz 100%
+- País de origen: españa
+- De la marca: Nomen
+- Arroz redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
