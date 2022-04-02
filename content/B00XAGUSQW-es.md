@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de la marca SAN
 - Suavizante para la ropa
 - Te ofrece 6 semanas de fragancia
+- Producto de la marca SAN
 - De alta calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
