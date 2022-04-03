@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Lasting Finish Matte by Kate Barra De Labios Tono 101 - 4 gr'
-date: 2022-04-02 16:55:22
+date: 2022-04-03 18:15:44
 image: 'https://m.media-amazon.com/images/I/31nSMu7WTTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rimmel London'
 buyurl: 'https://www.amazon.es/dp/B00ARQRRS0/?tag=tolees-21'
 descuento: '59.49'
-average: '3.32625'
+average: '3.27666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología Color Protect para proteger el color
-- Fórmula enriquecida con polvo de rubí
 - Color mate aterciopelado
-- Color intenso que dura hasta 24 horas
+- Fórmula enriquecida con polvo de rubí
 - Colección de labiales diseñados por Kate Moss
+- Tecnología Color Protect para proteger el color
+- Color intenso que dura hasta 24 horas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
