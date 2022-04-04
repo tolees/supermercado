@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ADIDAS desodorante masculino cool&dry 6 en 1 roll on 50 ml'
-date: 2022-04-03 18:31:57
+date: 2022-04-04 19:51:19
 image: 'https://m.media-amazon.com/images/I/31UKd8ydelL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
