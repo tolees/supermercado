@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cola Cao - ColaCao Original: con Cacao Natural - Formato Ahorro - 7 1kg'
-date: 2022-04-02 14:37:06
+date: 2022-04-05 09:52:51
 image: 'https://m.media-amazon.com/images/I/51WCPl0z9IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cola Cao'
 buyurl: 'https://www.amazon.es/dp/B083KHCRMB/?tag=tolees-21'
 descuento: '15.01'
-average: '24.8470588235293'
+average: '24.876111111111'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alérgenos: contiene trigo y cebada. mantener en lugar fresco y seco.
-- 507 raciones en su estuche de 7,1kg (contiene 4 bolsas).
 - El colacao de siempre, eso tan tuyo. la mezcla de sus ingredientes se realiza de manera natural y sin añadir aditivos. ideal para cualquier momento: desayuno, merienda, cena o como snack.
+- 507 raciones en su estuche de 7,1kg (contiene 4 bolsas).
 - Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente
+- Alérgenos: contiene trigo y cebada. mantener en lugar fresco y seco.
 - Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
