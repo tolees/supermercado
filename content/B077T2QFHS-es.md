@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chicles refrescantes sin azúcar con sabor a fresa con lima
 - Formato pack de 16 envases individuales de chicles tipo gragea rellena de líquido
-- Trident Max ofrece combinaciones de sabores intensos con texturas crujientes
 - Conservar en lugar fresco y seco
 - Alérgenos: Sin azúcar, con edulcorantes. Contiene sorbitol y una fuente de fenilalanina
+- Chicles refrescantes sin azúcar con sabor a fresa con lima
+- Trident Max ofrece combinaciones de sabores intensos con texturas crujientes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

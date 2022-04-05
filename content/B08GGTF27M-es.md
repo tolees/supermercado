@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnson s Baby - Johnson s Pure Protect - Jabón de manos  300 ml'
-date: 2022-04-03 19:10:21
+date: 2022-04-05 14:21:31
 image: 'https://m.media-amazon.com/images/I/41TSmPF0qrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Johnsons Baby'
 buyurl: 'https://www.amazon.es/dp/B08GGTF27M/?tag=tolees-21'
 descuento: '31.44'
-average: '2.02'
+average: '2.03'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hipoalergénico y con pH equilibrado
 - Jabón de manos sin sulfatos, colorantes, ftalatos, alcohol ni jabón
-- Jabón de manos para niños que deja la piel limpia y con aspecto saludable
-- Formulado con miel, té verde y extracto de rooibos
 - Probado por pediatras y dermatólogos
+- Hipoalergénico y con pH equilibrado
+- Formulado con miel, té verde y extracto de rooibos
+- Jabón de manos para niños que deja la piel limpia y con aspecto saludable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
