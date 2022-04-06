@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desodorante que ofrece 48 horas de protección antitranspirante
-- Rexona te impulsa para que disfrutes del movimiento y que nada te detenga
 - Desodorante antintranspirante de secado rápido para mujer
-- Rexona Woman Desodorante Antitranspirante Aloe Vera 200ml
 - Elaborado con tecnología motionsense que se activa con el movimiento
+- Rexona te impulsa para que disfrutes del movimiento y que nada te detenga
 - Desodorante antitranspirante en spray 0% alcohol
+- Rexona Woman Desodorante Antitranspirante Aloe Vera 200ml
+- Desodorante que ofrece 48 horas de protección antitranspirante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
