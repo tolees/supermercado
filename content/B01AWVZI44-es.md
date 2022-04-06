@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño subtil de la rosa rosada con los bordes del detalle del oro
 - Mezclar y combinar con otros artículos en nuestra gama verdaderamente deliciosa
-- Perfecto para fiestas de té o fiestas de jardín de verano
 - Cada paquete contiene 20 servilletas
+- Diseño subtil de la rosa rosada con los bordes del detalle del oro
 - Deliciosas servilletas con bordes horadados con un sabor vintage
+- Perfecto para fiestas de té o fiestas de jardín de verano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
