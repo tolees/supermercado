@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Opción ideal para los amantes del chocolate
 - Deliciosa barra de chocolate con un sabor muy rico
 - Crea un chocolate rico y refinado de sabor intenso y textura elegante
+- Opción ideal para los amantes del chocolate
 - Ideal para regalar o para ti mismo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
