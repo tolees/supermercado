@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gin Mare - Ginebra Premium Mediterránea con Botánicos Naturales  Botella de 1750 ml'
-date: 2022-04-04 07:03:42
+date: 2022-04-07 14:43:49
 image: 'https://m.media-amazon.com/images/I/41QGPleJtoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01BP4AE6Y-es Gin Mare - Ginebra Premium Mediterránea con Botánicos...'
 sku: 'B01BP4AE6Y-es'
 tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Ginebras','gin mare','ginebra', ]
-actualPrice: 53.27 EUR
+actualPrice: 50.44 EUR
 currency: EUR
-price: 53.27
+price: 50.44
 comparePrice: 63.78 EUR
 prodname: 'Gin Mare - Ginebra Premium Mediterránea con Botánicos Naturales  Botella de 1750 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Gin Mare'
 buyurl: 'https://www.amazon.es/dp/B01BP4AE6Y/?tag=tolees-21'
-descuento: '16.48'
-average: '53.7475'
+descuento: '20.92'
+average: '53.086'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
