@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rehidrata las zonas más secas del cabello; efecto anti-encrespamiento duradero sin uso del secador; rizos definidos, disciplinados e hidratados
-- El acondicionador Rizos Pro de Syoss es adecuado para cabellos rizados
-- Cabello como recién salido de la peluquería
 - Las nuevas fórmulas de Syoss combinan ingredientes naturales inspirados en los principios de belleza japoneses con la tecnología AMINO COMPLEX, que refuerza el cabello desde el interior
 - Acondicionador para un cabello como recién salido de la peluquería, adecuado cada día; definición e hidratación óptimas; cabello disciplinado
+- Cabello como recién salido de la peluquería
 - Modo de empleo: aplicar sobre el cabello mojado y aclarar con abundante agua
+- Rehidrata las zonas más secas del cabello; efecto anti-encrespamiento duradero sin uso del secador; rizos definidos, disciplinados e hidratados
+- El acondicionador Rizos Pro de Syoss es adecuado para cabellos rizados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
