@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SOTYA - SOTYA Chitosán + Té verde + Vitamina C 100 cápsulas 600mg'
-date: 2022-04-08 19:20:19
+date: 2022-04-09 20:00:58
 image: 'https://m.media-amazon.com/images/I/41ZdyRaRpRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sotya'
 buyurl: 'https://www.amazon.es/dp/B00PYACKJA/?tag=tolees-21'
 descuento: '34.97'
-average: '4.315'
+average: '4.11'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De la marca Sotya
-- Favorece la circulación sanguínea y la diuresis.
-- Protege el corazón y las arterias.
 - Capaz de absorber la grasa ingerida.
 - Disminuye los niveles de colesterol.
+- Favorece la circulación sanguínea y la diuresis.
+- Protege el corazón y las arterias.
+- De la marca Sotya
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
