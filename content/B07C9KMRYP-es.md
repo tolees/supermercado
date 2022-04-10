@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scottex Jumbo Papel de Cocina - 6 rollos'
-date: 2022-04-01 09:17:23
+date: 2022-04-10 17:19:39
 image: 'https://m.media-amazon.com/images/I/415vog3dzGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Scottex'
 buyurl: 'https://www.amazon.es/dp/B07C9KMRYP/?tag=tolees-21'
 descuento: '30.97'
-average: '16.5166666666667'
+average: '16.47625'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puede con todo
-- 6 rollos
-- Eficacia multiusos
 - Ideal para todas las tareas del hogar
+- Puede con todo
+- Eficacia multiusos
+- 6 rollos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
