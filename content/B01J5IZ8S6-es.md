@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alergenos: pescado
-- Fabricado en Galicia
-- Una vez abierto, consevar en el frigorifico y consumir en 24 horas
-- Peso neto: 900g Peso neto escurrido: 650g
 - Ingredientes: atún, aceite de girasol y sal
+- Fabricado en Galicia
+- Peso neto: 900g Peso neto escurrido: 650g
+- Una vez abierto, consevar en el frigorifico y consumir en 24 horas
+- Alergenos: pescado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
