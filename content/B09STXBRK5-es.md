@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepsi Max Lima  Zero Azúcar  330ml - Pack de 24 latas'
-date: 2022-04-05 18:18:09
+date: 2022-04-10 19:10:30
 image: 'https://m.media-amazon.com/images/I/51L4NRETC1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
