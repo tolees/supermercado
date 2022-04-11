@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ayudan a regular el sistema nervioso eliminando la ansiedad
 - Diurético y depurativo
-- Aporte adicional de nutrientes en estados carenciales
+- Ayudan a regular el sistema nervioso eliminando la ansiedad
 - Alimento complementario recomendado en dietas de adelgazamiento
+- Aporte adicional de nutrientes en estados carenciales
 - De la marca Sotya
 
 [🛒 Aquí!!!]({{< param buyurl >}})
