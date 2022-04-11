@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Detergente lavadora con fragancia intensa
 - Para un resultado óptimo, combínalo con las perlas lavadora perfumadas para la ropa de Lenor Unstoppables
 - Limpieza profunda; eficaz en frío (incluso a 30ºC); resultados increíbles con una sola cápsula de detergente lavadora concentrado
-- Detergente lavadora con fragancia intensa
 - El recubrimiento de la cápsula se disuelve totalmente al entrar en contacto con el agua
 - Depositar la cápsula en el tambor de la lavadora antes de la ropa
 

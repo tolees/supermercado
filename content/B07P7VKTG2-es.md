@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dove  Crema de Manos  Té Matcha Ritual Energizante 75ml - Pack de 6'
-date: 2022-04-01 09:43:46
+date: 2022-04-11 19:13:37
 image: 'https://m.media-amazon.com/images/I/41rRtwrBinL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dove'
 buyurl: 'https://www.amazon.es/dp/B07P7VKTG2/?tag=tolees-21'
 descuento: '39.76'
-average: '9.66333333333333'
+average: '9.4975'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
