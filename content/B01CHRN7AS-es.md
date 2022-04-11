@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pata Negra Reserva Vino Tinto D.O Valdepeñas - Caja de 6 Botellas x 750 ml'
-date: 2022-04-08 19:35:31
+date: 2022-04-11 07:19:38
 image: 'https://m.media-amazon.com/images/I/51HNtPtnb3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01CHRN7AS-es Pata Negra Reserva Vino Tinto D.O Valdepeñas - Caja de 6...'
 sku: 'B01CHRN7AS-es'
 tags: [ 'Alimentación y bebidas','Cervezas, vinos y licores','Vinos','Vinos tintos','pata negra','tinto','vino', ]
-actualPrice: 21.0 EUR
+actualPrice: 14.88 EUR
 currency: EUR
-price: 21.0
+price: 14.88
 comparePrice: 27.1 EUR
 prodname: 'Pata Negra Reserva Vino Tinto D.O Valdepeñas - Caja de 6 Botellas x 750 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pata Negra'
 buyurl: 'https://www.amazon.es/dp/B01CHRN7AS/?tag=tolees-21'
-descuento: '22.51'
-average: '16.326'
+descuento: '45.09'
+average: '16.2703846153846'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de uva: Elaborado con una selección de uvas de la variedad Tempranillo; tras la fermentación se guarda en barricas de roble americano y francés donde permanece durante 12 meses
+- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 18 ºC y conservarlo en un lugar fresco y seco
 - Aroma: Presenta un perfil aromático intenso y complejo de moca, casis y ciruela además de notas de caja de puros
 - Maridaje: Este vino tinto es perfecto para acompañar con carne a la brasa como una paletilla de cordero con patatas a las hierbas provenzales o con un surtido de quesos
 - Apariencia: Vino tinto brillante de color rojo rubí
+- Tipo de uva: Elaborado con una selección de uvas de la variedad Tempranillo; tras la fermentación se guarda en barricas de roble americano y francés donde permanece durante 12 meses
 - Gusto: En boca es redondo e intenso, con buena estructura y taninos aterciopelados; deja un sabor a fruta negra y moca con un retrogusto tostado
-- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 18 ºC y conservarlo en un lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
