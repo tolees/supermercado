@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Sagra Sin Gluten. Alc. 5 0% Vol. Caja con 12 botellas de 330 ml'
-date: 2022-04-01 08:45:58
+date: 2022-04-12 14:40:09
 image: 'https://m.media-amazon.com/images/I/51bFZuiMddL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cerveza estilo lager de color rubio oro, con notas afrutadas y ligero amargor final; el resultado es una cerveza refrescante con sabor 100% malta de cebada
-- Producto que combina tradición e innovación
-- Alc. 5,0% vol
 - Ingredientes: agua, malta de cebada, lúpulo y levadura. 100 ml: 351 kj, 84 kcal
+- Alc. 5,0% vol
+- Producto que combina tradición e innovación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
