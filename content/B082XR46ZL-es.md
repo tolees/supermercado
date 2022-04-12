@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula con micro fibras que se adhieren a tus cejas en una pasada
-- Extensiones de cejas en stick
 - Aplica Brow Extensions a lo largo de la ceja con pequeños trazos insistiendo en aquellas zonas más despobladas; Peina con un cepillo para difuminar y conseguir un acabado natural
-- Maybelline New York Brow Extensions Stick de Cejas
+- Extensiones de cejas en stick
 - Enmarca tu mirada: Cejas rellenas y tupidas al instante
+- Maybelline New York Brow Extensions Stick de Cejas
+- Fórmula con micro fibras que se adhieren a tus cejas en una pasada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
