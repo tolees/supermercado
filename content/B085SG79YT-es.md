@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bourjois Velvet Ink Lip Barra De Labios  Tono 009  3.5 Ml'
-date: 2022-04-11 13:50:03
+date: 2022-04-12 16:20:36
 image: 'https://m.media-amazon.com/images/I/41Zxj2UA+1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplicador fino y súper preciso para delinear y rellenar
 - Sensación de comodidad y acabado velvet
-- Colores súper intensos
 - Fórmula con pigmentos de tinta mate
 - Efecto tattoo y transferproof hasta 24H
+- Colores súper intensos
+- Aplicador fino y súper preciso para delinear y rellenar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
