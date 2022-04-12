@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amstel Oro Cerveza - Caja de 24 Latas x 330 ml - Total: 7.92 L'
-date: 2022-04-04 14:03:25
+date: 2022-04-12 19:16:09
 image: 'https://m.media-amazon.com/images/I/512ECz2O8WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amstel'
 buyurl: 'https://www.amazon.es/dp/B07B18TFZ8/?tag=tolees-21'
 descuento: '16.42'
-average: '13.750754716981'
+average: '13.7525925925925'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Consumirla entre 2 y 4 grados C para obtener sus máximas cualidades
-- De color dorado oscuro y espuma cremosa De cuerpo medio y amargor suave
-- Cerveza estilo lager especial tostada
-- Maltas tostadas en 3 tiempos: secado, tostación y golpe de fuego
 - Ingredientes: agua tratada, 100% con mexcla de maltas de cebadas claras y oscuras, lúpulo y exclusiva levadura Amstel
+- De color dorado oscuro y espuma cremosa De cuerpo medio y amargor suave
+- Maltas tostadas en 3 tiempos: secado, tostación y golpe de fuego
+- Cerveza estilo lager especial tostada
+- Consumirla entre 2 y 4 grados C para obtener sus máximas cualidades
 
 [🛒 Aquí!!!]({{< param buyurl >}})

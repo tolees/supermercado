@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tanqueray Nº TEN Ginebra 700 ml con Estuche de Regalo'
-date: 2022-03-31 23:16:18
+date: 2022-04-12 19:13:49
 image: 'https://m.media-amazon.com/images/I/51uiaul8I9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Una ginebra adecuada para un gin tonic equilibrado y una base para martinis y cócteles
-- Destilado en pequeños lotes con cítricos frescos, flores de manzanilla y otros botánicos cosechados a mano como el enebro
-- El gin tonic definitivo, adecuado para regalar o para disfrutar con amigos y familiares
 - Este producto es la única ginebra del prestigioso y mundialmente aclamado San Francisco Spirits Hall of Fame
+- El gin tonic definitivo, adecuado para regalar o para disfrutar con amigos y familiares
+- Destilado en pequeños lotes con cítricos frescos, flores de manzanilla y otros botánicos cosechados a mano como el enebro
 - Con estuche de regalo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
