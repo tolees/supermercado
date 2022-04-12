@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Milka Chocolate con Leche Cubierta de Crujiente Galleta  87g'
-date: 2022-04-11 14:38:35
+date: 2022-04-12 21:09:30
 image: 'https://m.media-amazon.com/images/I/41ti5ueYNpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Milka'
 buyurl: 'https://www.amazon.es/dp/B00XA0YW4M/?tag=tolees-21'
 descuento: '0.00'
-average: '1.005'
+average: '1.00363636363636'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
