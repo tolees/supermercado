@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PACK DE REGALO - Idea de regalo óptima para hombre de Navidad, cumpleaños y ocasiones especiales
-- SET DE BAÑO - Incluye: un desodorante bodyspray para hombre de 150ml y un eau de toilette de 100ml
 - DESODORANTE BODYSPRAY - Con tecnología Dual Action: elimina el mal olor, fragancia irresistible Dark Temptation con aroma a chocolate negro
-- NECESER - Bolsa de Aseo Organizador de Baño Axe Dark Temptation
+- PACK DE REGALO - Idea de regalo óptima para hombre de Navidad, cumpleaños y ocasiones especiales
 - AXE DARK TEMPTATION - Disfruta de la fragancia Dark Temptation, dulce y sutil con una mezcla de chocolate caliente, ámbar, pimienta roja y un toque de especias que te ayudará a volverte tan irresistible como el chocolate
+- NECESER - Bolsa de Aseo Organizador de Baño Axe Dark Temptation
+- SET DE BAÑO - Incluye: un desodorante bodyspray para hombre de 150ml y un eau de toilette de 100ml
 - EAU DE TOILETTE - Fragancia ganadora que añade un último toque a tu estilo desenfadado con un delicioso y cálido aroma a chocolate intenso, ámbar y pimienta roja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
