@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Baileys Chocolat Luxe  licor de crema de whisky irlandesa  500 ml'
-date: 2022-04-04 12:59:04
+date: 2022-04-13 10:09:27
 image: 'https://m.media-amazon.com/images/I/31Pxbq57jtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00F0SJRG0-es Baileys Chocolat Luxe licor de crema de whisky irlandesa...'
 sku: 'B00F0SJRG0-es'
-tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Licores','baileys','whisky', ]
+tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Licores','baileys','es','whisky', ]
 actualPrice: 13.93 EUR
 currency: EUR
 price: 13.93
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BAILEYS'
 buyurl: 'https://www.amazon.es/dp/B00F0SJRG0/?tag=tolees-21'
 descuento: '18.01'
-average: '13.8067999999999'
+average: '13.8115384615384'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Baileys Chocolat Luxe, la suavidad de una crema whisky irlandesa fusionada con el delicioso chocolate belga auténtico; es chocolate líquido
-- Tras probar 800 recetas diferentes con Baileys Original Irish Cream y chocolate, Baileys Chocolat Luxe se desarrolló durante tres años y contiene 30 gramos de chocolate belga en cada botella
-- Sírvelo con hielo y una frambuesa fresca para obtener una presentación digna de una obra rococó
-- Graduación alcohólica: 15,7 %
-- Un lujoso capricho de cacao amargo, ciruelas y con el delicioso toque de caramelo del Baileys Original
 - Un licor que tiene la firma del destacado científico Anthony Wilson en su receta
+- Graduación alcohólica: 15,7 %
+- Sírvelo con hielo y una frambuesa fresca para obtener una presentación digna de una obra rococó
+- Baileys Chocolat Luxe, la suavidad de una crema whisky irlandesa fusionada con el delicioso chocolate belga auténtico; es chocolate líquido
+- Un lujoso capricho de cacao amargo, ciruelas y con el delicioso toque de caramelo del Baileys Original
+- Tras probar 800 recetas diferentes con Baileys Original Irish Cream y chocolate, Baileys Chocolat Luxe se desarrolló durante tres años y contiene 30 gramos de chocolate belga en cada botella
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

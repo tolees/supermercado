@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Amstel Radler Cerveza  Pack de 24 x 33cl'
-date: 2022-04-06 11:55:52
+title: 'Amstel radler limon cerveza pack 24 latas 33cl - 7920 ml'
+date: 2022-04-13 10:31:00
 image: 'https://m.media-amazon.com/images/I/51ZwmvJ5PeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07CPYVZ8S-es Amstel Radler Cerveza Pack de 24 x 33cl'
+slug: 'B07CPYVZ8S-es Amstel radler limon cerveza pack 24 latas 33cl - 7920 ml'
 sku: 'B07CPYVZ8S-es'
-tags: [ 'Alimentación y bebidas','Cervezas','Cervezas, vinos y licores','amstel','cerveza', ]
-actualPrice: 12.24 EUR
+tags: [ 'Alimentación y bebidas','Cervezas','Cervezas, vinos y licores','amstel','cerveza','es', ]
+actualPrice: 19.65 EUR
 currency: EUR
-price: 12.24
-comparePrice: 15.7 EUR
-prodname: 'Amstel Radler Cerveza  Pack de 24 x 33cl'
+price: 19.65
+comparePrice: 19.65 EUR
+prodname: 'Amstel radler limon cerveza pack 24 latas 33cl - 7920 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Amstel'
 buyurl: 'https://www.amazon.es/dp/B07CPYVZ8S/?tag=tolees-21'
-descuento: '22.04'
-average: '11.12'
+descuento: '0.00'
+average: '13.9633333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El producto debera servirse entre 0 y 3C para obtener sus cualidades organolepticas
 - Conservar el producto en un lugar limpio, seco y bien ventilado
+- El producto debera servirse entre 0 y 3C para obtener sus cualidades organolepticas
 - Cerveza tipo lager mezcla
-- Con zumo natural de limón
 - Pack de 24 x 33cl
+- Con zumo natural de limón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
