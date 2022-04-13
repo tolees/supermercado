@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dermatológicamente testado e hipoalergénico. Sin fosfatos, ftalatos ni adición de conservantes
-- Una botella de 1.5 litros sirve para 30 lavados. Concentrado 50 mililitros de dosificación para 4,5 kg de ropa seca
 - La fórmula libre de microplásticos contiene Jabón Natural, componente conocido por su eficacia natural y suavidad para la ropa y la piel
-- Este detergente es apto para todo tipo de tejidos menos lana y seda
+- Una botella de 1.5 litros sirve para 30 lavados. Concentrado 50 mililitros de dosificación para 4,5 kg de ropa seca
 - Este detergente líquido concentrado deja la ropa limpia e impecable en un lavado eficaz y suave, a 20ºC – 95ºC. Apto para lavados a mano
+- Este detergente es apto para todo tipo de tejidos menos lana y seda
+- Dermatológicamente testado e hipoalergénico. Sin fosfatos, ftalatos ni adición de conservantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

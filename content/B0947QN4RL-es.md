@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Una botella de 1.5 litros sirve para 30 lavados. Concentrado 50 mililitros de dosificación para 4,5 kg de ropa seca
-- Este detergente líquido concentrado deja la ropa limpia e impecable en un lavado eficaz y suave, a 20ºC – 95ºC
-- La fórmula libre de microplásticos contiene Aloe Vera, componente conocido por sus efectos dermo-protectores. Sin agentes blanqueantes que ayudan a mantener y conservar los colores de los tejidos
 - Este detergente es apto para todo tipo de tejidos menos lana y seda
 - Dermatológicamente testado e hipoalergénico sin conservantes añadidos
+- Este detergente líquido concentrado deja la ropa limpia e impecable en un lavado eficaz y suave, a 20ºC – 95ºC
+- La fórmula libre de microplásticos contiene Aloe Vera, componente conocido por sus efectos dermo-protectores. Sin agentes blanqueantes que ayudan a mantener y conservar los colores de los tejidos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
