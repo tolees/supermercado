@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Somat Excellence Gel Anti-Grasa 50 Dosis  pack de 4  total: 200 lavados   detergente lavavajillas desengrasante  lavavajilla líquido automático en botella  jabón para platos con desengrasantes activos'
-date: 2022-03-30 19:35:52
+date: 2022-04-13 08:48:13
 image: 'https://m.media-amazon.com/images/I/51hB7msEt3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07NW4KJ1T-es Somat Excellence Gel Anti-Grasa 50 Dosis pack de 4 total:...'
 sku: 'B07NW4KJ1T-es'
 tags: [ 'Cuidado y limpieza del hogar','Lavavajillas','Salud y cuidado personal','detergente','jabón','somat', ]
-actualPrice: 27.17 EUR
+actualPrice: 20.0 EUR
 currency: EUR
-price: 27.17
-comparePrice: 33.46 EUR
+price: 20.0
+comparePrice: 35.4 EUR
 prodname: 'Somat Excellence Gel Anti-Grasa 50 Dosis  pack de 4  total: 200 lavados   detergente lavavajillas desengrasante  lavavajilla líquido automático en botella  jabón para platos con desengrasantes activos'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Somat'
 buyurl: 'https://www.amazon.es/dp/B07NW4KJ1T/?tag=tolees-21'
-descuento: '18.80'
-average: '31.4245454545455'
+descuento: '43.50'
+average: '30.2184615384615'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Anti-grease - removes even the most stubborn oil residues
-- Easy to dissolve for impeccable cleaning even on short cycles
-- Allows dosing, for half loads or short cycles
-- Soaking effect that removes burnt grease stains without the need for pre-treatment
-- Somat Gel with Deep Clean Technology that penetrates and helps remove dry and stubborn dirt
+- Dos veces más brillo: Gracias a su eficaz fórmula, este potente lavavajillas Somat consigue que, tras el lavado, la vajilla tenga hasta dos veces más brillo*
+- Limpieza profunda: Este lavavajillas detergente combina dos fórmulas, por lo que ofrece una fuerte acción desengrasante y un gran poder contra la suciedad incrustada
+- 0% residuos: El jabón lavavajillas se disuelve inmediatamente incluso en el ciclo ecológico a baja temperatura; así los platos quedan limpios y radiantes, sin residuos
+- Adiós a la grasa: El lavavajillas líquido tiene desengrasantes activos que penetran eficazmente en la grasa, por lo que garantiza una vajilla brillante con cada lavado
+- Fácil dosificación: Somat lavavajillas durará más con la dosis adecuada: se usan 18 ml para platos poco sucios y 28 ml para platos medianamente sucios o muy sucios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

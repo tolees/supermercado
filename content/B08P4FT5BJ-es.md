@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Sagra Radler. Cerveza Radler con limón alc. 2 8% Vol. Caja con 12 botellas de 330 ml'
-date: 2022-04-02 14:47:25
+date: 2022-04-13 07:43:25
 image: 'https://m.media-amazon.com/images/I/51esJFQcNCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - de la marca: La Sagra
-- alc. 2.8% vol.
 - ingredientes: agua, malta de cebada y de trigo, lúpulo, levadura, zumo de limón, aroma natural de limón y semillas de cilantro
+- alc. 2.8% vol.
 - cerveza que fusiona de una cerveza artesanal con zumo de limón y aroma natural de limón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
