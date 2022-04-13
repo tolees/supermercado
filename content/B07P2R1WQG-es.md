@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil Uso: Luce pelazo en 1 Minuto gracias al sistema Shake&GO! Agita, Pulveriza, Masajea y sal a comerte el mundo.
-- Champú Seco para cabellos encrespado o rizados: Gracias a su fórmula enriquecida con queratina fortalecedora este champú consigue revitalizar tu cabello, protegerlo frente al calor, el daño y es una solución rápida para alargar el tiempo entre lavados y lucir un pelo con aspecto limpio y un gran olor.
 - Nuestra nueva formula invisible no deja residuo y hace que tu cabello se sienta superligero y manejable.
-- Con el Champú Seco especial para reparar cabello dañado y fortalecerlo Damage Control de Batiste, consigue proteger tu melena con su queratina fortalecedora y luce pelazo que se vea limpio, fresco, con un extra de cuerpo y textura. ¡Nueva formula invisible!
+- Champú Seco para cabellos encrespado o rizados: Gracias a su fórmula enriquecida con queratina fortalecedora este champú consigue revitalizar tu cabello, protegerlo frente al calor, el daño y es una solución rápida para alargar el tiempo entre lavados y lucir un pelo con aspecto limpio y un gran olor.
 - Ecofriendly: En Batiste mimamos a la tierra como a ti, los Champús para Cabello de Batiste se elaboran con gases GLP en sustitución de gases químicos que dañan la capa de Ozono, y por supuesto libre de sulfatos.
+- Fácil Uso: Luce pelazo en 1 Minuto gracias al sistema Shake&GO! Agita, Pulveriza, Masajea y sal a comerte el mundo.
+- Con el Champú Seco especial para reparar cabello dañado y fortalecerlo Damage Control de Batiste, consigue proteger tu melena con su queratina fortalecedora y luce pelazo que se vea limpio, fresco, con un extra de cuerpo y textura. ¡Nueva formula invisible!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
