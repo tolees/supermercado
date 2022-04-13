@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Poderosa acción limpiadora que elimina la grasa al instante
 - Nuestra fórmula respeta la piel por lo que no es necesario usar guantes
-- Fairy lavavajillas líquido ultra concentrado
-- Aroma Naranja. Limpio y fresco
 - Espuma abundante con una sola gota y aclarado fácil
+- Aroma Naranja. Limpio y fresco
+- Fairy lavavajillas líquido ultra concentrado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
