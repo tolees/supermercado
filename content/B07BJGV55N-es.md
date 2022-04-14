@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborada con aceites 100% naturaless y apta para todo tipo de pieles
-- Hidrata la piel en profundidad
-- Globalmente Dove no testa en animales
 - Dove Loción Karité Cuidado Envolvente 400ml
 - Suave fragancia de vainilla que envuelve tus sentidos
+- Elaborada con aceites 100% naturaless y apta para todo tipo de pieles
+- Globalmente Dove no testa en animales
 - Su fórmula ayuda a dejar la piel hidratada y suave
+- Hidrata la piel en profundidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Instrucciones para su uso adecuado: Listo para comer
-- Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso. Conservar en lugar fresco y seco
-- Información de alérgenos: Contiene leche, trigo y soja, puede contener otros frutos de cáscara
 - Su suave relleno en mousse contrasta de forma deliciosa con la textura del chocolate con leche
+- Instrucciones para su uso adecuado: Listo para comer
+- Información de alérgenos: Contiene leche, trigo y soja, puede contener otros frutos de cáscara
+- Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso. Conservar en lugar fresco y seco
 - Bombones cubiertos de chocolate con leche y rellenas de mousse de la marca milka, en una caja de 165 g
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

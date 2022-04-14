@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Gillette BlueII Plus Maquinillas Desechables para Hombre x15'
-date: 2022-04-07 13:40:15
+date: 2022-04-14 21:01:21
 image: 'https://m.media-amazon.com/images/I/51moSPwnJDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07LGD6BB7-es Gillette BlueII Plus Maquinillas Desechables para Hombre x15'
 sku: 'B07LGD6BB7-es'
-tags: [ 'Afeitado manual','Afeitado manual de hombre','Afeitado y depilación','Belleza','Maquinillas de afeitar para hombre en Afeitado manual','gillette', ]
+tags: [ 'Afeitado manual','Afeitado manual de hombre','Afeitado y depilación','Belleza','Maquinillas de afeitar para hombre en Afeitado manual','gillette','🇪🇸', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

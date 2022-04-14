@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alérgenos: contiene pescado.
-- Garantía de atún aleta amarilla (yellowfin).
-- Fuente natural de omega-3.
 - Atún claro en aceite de oliva en conserva con abrefácil. Pack 6 latas de 106 gr.
 - Alto contenido de proteínas.
+- Garantía de atún aleta amarilla (yellowfin).
+- Fuente natural de omega-3.
 - Información de alérgenos: fish
+- Alérgenos: contiene pescado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
