@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Pasta de dientes con flúor que aporta un triple beneficio
 - Previene el mal aliento
-- Protección anticaries probada
 - Consigue dientes más blancos
+- Protección anticaries probada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
