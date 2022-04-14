@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Palette Naturals se aplica sobre el cabello seco, no previamente lavado
 - La crema colorante con ingredientes de origen natural y su equilibrada selección de pigmentos de color mantienen los reflejos naturales del cabello
-- Coloración permanente con manteca de karité y leche de avena para un color rubio increíblemente natural y un cuidado intensivo del cabello; perfecta cobertura de canas
 - El tratamiento de cuidado post-coloración, con un 96% de ingredientes de origen natural, contiene leche de avena que nutre profundamente el cabello dejándolo brillante
-- Coloración permanente que proporciona un 100% de cobertura de canas y color natural AHORA SIN AMONIACO
 - Antes de la aplicación, lee las instrucciones de seguridad y modo de empleo y realiza siempre la prueba de aviso de alergia
+- Coloración permanente con manteca de karité y leche de avena para un color rubio increíblemente natural y un cuidado intensivo del cabello; perfecta cobertura de canas
+- Palette Naturals se aplica sobre el cabello seco, no previamente lavado
 - Fórmula vegana, sin amoníaco, libre de parabenos* y siliconas, 93% biodegradable y envase hecho con materiales reciclados y/o reciclables
+- Coloración permanente que proporciona un 100% de cobertura de canas y color natural AHORA SIN AMONIACO
 
 [🛒 Aquí!!!]({{< param buyurl >}})
