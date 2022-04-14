@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco, seco, alejado de olores y protegido de la luz solar
+- Sin gluten
 - Temperatura ideal de conservación: 2ºC - 8ºC
 - Chocolate con Stevia
-- Sin gluten
 - Sin Grasas Trans
+- Conservar en lugar fresco, seco, alejado de olores y protegido de la luz solar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
