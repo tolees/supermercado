@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- España
 - Avena, leche
-- Azúcar, agua, harina de arroz hidratada (10%), aceite de girasol alto oleico, harina de avena sin gluten (7%); Puede contener leche
 - Base vegetal de avena y arroz para repostería
+- España
+- Azúcar, agua, harina de arroz hidratada (10%), aceite de girasol alto oleico, harina de avena sin gluten (7%); Puede contener leche
 
 [🛒 Aquí!!!]({{< param buyurl >}})
