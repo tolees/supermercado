@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Bourjois Velvet Ink Lip Barra De Labios  Tono 009  3.5 Ml'
-date: 2022-04-12 16:20:36
+date: 2022-04-15 11:10:40
 image: 'https://m.media-amazon.com/images/I/41Zxj2UA+1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B085SG79YT-es Bourjois Velvet Ink Lip Barra De Labios Tono 009 3.5 Ml'
 sku: 'B085SG79YT-es'
-tags: [ 'Belleza','Maquillaje','Maquillajes labiales','Pintalabios','bourjois', ]
-actualPrice: 6.59 EUR
+tags: [ 'Belleza','Maquillaje','Maquillajes labiales','Pintalabios','bourjois','🇪🇸', ]
+actualPrice: 4.95 EUR
 currency: EUR
-price: 6.59
+price: 4.95
 comparePrice: 8.9 EUR
 prodname: 'Bourjois Velvet Ink Lip Barra De Labios  Tono 009  3.5 Ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Bourjois'
 buyurl: 'https://www.amazon.es/dp/B085SG79YT/?tag=tolees-21'
-descuento: '25.96'
-average: '6.59'
+descuento: '44.38'
+average: '6.04333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sensación de comodidad y acabado velvet
+- Aplicador fino y súper preciso para delinear y rellenar
 - Fórmula con pigmentos de tinta mate
 - Efecto tattoo y transferproof hasta 24H
 - Colores súper intensos
-- Aplicador fino y súper preciso para delinear y rellenar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

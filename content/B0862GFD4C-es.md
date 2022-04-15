@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Textura ligera y no pegajosa que se absorbe al instante y deja una sensación mate en la piel
-- Fórmula con ácido hialurónico que hidrata durante 24 horas y protege al instante contra los rayos UVB y UVA
-- Desarrollada para el rostro y el delicado contorno de los ojos, con una fórmula suave y sin perfume
 - Ayuda a prevenir la aparición de manchas y arrugas en el rostro y protege contra la contaminación y los efectos nocivos de los infrarrojos
 - Crema facial de protección solar muy alta SPF50+ indicada para todo tipo de pieles, incluso las más sensibles
+- Desarrollada para el rostro y el delicado contorno de los ojos, con una fórmula suave y sin perfume
+- Textura ligera y no pegajosa que se absorbe al instante y deja una sensación mate en la piel
+- Fórmula con ácido hialurónico que hidrata durante 24 horas y protege al instante contra los rayos UVB y UVA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
