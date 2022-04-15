@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Triple Acción Menta Original Pasta de Dientes  2 x 75ml'
-date: 2022-04-14 07:48:53
+date: 2022-04-15 19:10:16
 image: 'https://m.media-amazon.com/images/I/51NjMyNYp8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Colgate'
 buyurl: 'https://www.amazon.es/dp/B00XDOT92A/?tag=tolees-21'
 descuento: '26.83'
-average: '2.47687499999999'
+average: '2.46545454545454'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pasta de dientes con flúor que aporta un triple beneficio
 - Previene el mal aliento
 - Consigue dientes más blancos
 - Protección anticaries probada
+- Pasta de dientes con flúor que aporta un triple beneficio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
