@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Finish Classic Original - Pastillas para el Lavavajillas  Formato Megapack  171 pastillas'
-date: 2022-04-12 08:39:08
+date: 2022-04-15 15:08:24
 image: 'https://m.media-amazon.com/images/I/41yVpo6V9tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B084LGV7WP-es Finish Classic Original - Pastillas para el Lavavajillas...'
 sku: 'B084LGV7WP-es'
-tags: [ 'Cuidado y limpieza del hogar','Lavavajillas','Salud y cuidado personal','finish', ]
+tags: [ 'Cuidado y limpieza del hogar','Lavavajillas','Salud y cuidado personal','finish','🇪🇸', ]
 actualPrice: 17.85 EUR
 currency: EUR
 price: 17.85
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Finish'
 buyurl: 'https://www.amazon.es/dp/B084LGV7WP/?tag=tolees-21'
 descuento: '28.57'
-average: '19.1870192307692'
+average: '19.1742857142857'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

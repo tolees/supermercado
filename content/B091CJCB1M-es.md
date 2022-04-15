@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Red Bull
-- Cada orden viene con 24 botellas de Organics Bitter Lemon
-- Ingredientes: Agua, Azúcar**, Zumo de Limón Concentrado** (1,3%), Dióxido de Carbono, Aroma Natural de Naranja, de Lima y de Quassia.
 - **de Agricultura Ecológica
-- Bio
 - Organics
+- Cada orden viene con 24 botellas de Organics Bitter Lemon
+- Bio
+- Red Bull
+- Ingredientes: Agua, Azúcar**, Zumo de Limón Concentrado** (1,3%), Dióxido de Carbono, Aroma Natural de Naranja, de Lima y de Quassia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
