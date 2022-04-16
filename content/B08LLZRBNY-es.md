@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en lugar fresco y seco
 - Chocolate blanco relleno de galletas Oreo y crema de la marca Milka, en una tableta de 100 g
-- Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso
+- Conservar en lugar fresco y seco
 - Con deliciosas galletas de cacao tipo sándwich rellenas de crema, para una exquisita combinación de texturas y sabores
 - Alérgenos: Contiene leche, trigo y soja, puede contener otros frutos de cáscara
+- Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
