@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conservar en lugar fresco y seco. Proteger del calor
-- Galletas con abundantes chips de chocolate que disfrutarás en cada bocado
 - Alérgenos: contiene gluten, leche y soja
 - Chips ahoy originales, en un pack de 20 paquetes de 40 gramos cada uno
+- Conservar en lugar fresco y seco. Proteger del calor
 - Textura crujiente irresistible, adecuada para disfrutar en meriendas o desayunos
+- Galletas con abundantes chips de chocolate que disfrutarás en cada bocado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
