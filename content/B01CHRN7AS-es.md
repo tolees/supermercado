@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Maridaje: Este vino tinto es perfecto para acompañar con carne a la brasa como una paletilla de cordero con patatas a las hierbas provenzales o con un surtido de quesos
-- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 18 ºC y conservarlo en un lugar fresco y seco
 - Tipo de uva: Elaborado con una selección de uvas de la variedad Tempranillo; tras la fermentación se guarda en barricas de roble americano y francés donde permanece durante 12 meses
-- Apariencia: Vino tinto brillante de color rojo rubí
 - Aroma: Presenta un perfil aromático intenso y complejo de moca, casis y ciruela además de notas de caja de puros
+- Apariencia: Vino tinto brillante de color rojo rubí
 - Gusto: En boca es redondo e intenso, con buena estructura y taninos aterciopelados; deja un sabor a fruta negra y moca con un retrogusto tostado
+- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 18 ºC y conservarlo en un lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
