@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula dermatológicamente probada y 0% alcohol que respeta el pH de la piel
 - Desodorante roll-on para hombre - 50 ml
-- Fórmula Cool & Care desarrollada para cuidar tu piel y ayudarte a mantenerte fresca durante todo el día
 - Fórmula innovadora 6 en 1: antiolor, antihumedad, antibacteriano, extra frescor, anti-manchas blancas, anti-manchas amarillas
 - Hasta 48h de protección contra la humedad y el olor
+- Fórmula dermatológicamente probada y 0% alcohol que respeta el pH de la piel
+- Fórmula Cool & Care desarrollada para cuidar tu piel y ayudarte a mantenerte fresca durante todo el día
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
