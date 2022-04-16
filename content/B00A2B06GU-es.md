@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mejillones de las Rías Gallegas
-- Mejillones, aceite de girasol, vinagre de vino, sal y aroma natural
-- Denominación de Origen Protegida
 - Una vez abierto conservar en el frigorífico y consumir en 24 horas
 - Una vez abierto se debe mantenerse refrigerado
+- Denominación de Origen Protegida
+- Mejillones, aceite de girasol, vinagre de vino, sal y aroma natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

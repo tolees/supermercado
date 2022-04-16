@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborado tradicionalmente con leche extra y cacao
 - Información de alérgenos: milk
-- Ingredientes: Azúcar, jarabe de glucosa, LECHE entera en polvo (13,6%) cacao bajo en grasa (4%) mantequilla, aceite de coco, emulsionante: lecitinas de girasol, sabor natural de cacao, chocolate (0,1%)
-- Sin colorantes ni conservantes
 - Tradicionalmente cocinado con los mejores ingredientes
 - Ideal para viajes
+- Ingredientes: Azúcar, jarabe de glucosa, LECHE entera en polvo (13,6%) cacao bajo en grasa (4%) mantequilla, aceite de coco, emulsionante: lecitinas de girasol, sabor natural de cacao, chocolate (0,1%)
 - Mastica de caramelo suave envuelto individualmente con chocolate
+- Elaborado tradicionalmente con leche extra y cacao
 - Instrucciones para su uso adecuado: Antes de disfrutar: abrir la bolsa, desenvolver el caramelo y luego: disfrutar; le deseamos buen apetito; por favor, disfrute con moderación y asegúrese de una dieta equilibrada
+- Sin colorantes ni conservantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

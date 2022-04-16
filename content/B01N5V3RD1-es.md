@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fórmula ligera con aloe vera.
+- Suave con la piel y dermatológicamente probado.
+- Piel visiblemente más suave.
 - Cuida de forma intensiva sin engrasar.
 - Desarrollada especialmente para las necesidades de las pieles sensibles.
-- Piel visiblemente más suave.
-- Suave con la piel y dermatológicamente probado.
-- Fórmula ligera con aloe vera.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

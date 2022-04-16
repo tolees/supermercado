@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Limpia siempre con agua limpia gracias al sistema de doble tanque
 - Aspira las partículas, el pelo y los líquidos a fondo
-- Potencia: 400 W
 - Vileda JetClean - Limpiador de suelos duros - aspira, mopa y seca suelos en un solo paso
 - Rodillo giratorio de microfibra y rayas azules de fuerza que elimina incluso la suciedad más incrustada
-- Limpia siempre con agua limpia gracias al sistema de doble tanque
+- Potencia: 400 W
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
