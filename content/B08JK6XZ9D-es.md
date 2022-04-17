@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cafe de especialidad Tostado Artesanalmente en Madrid - España
-- Notas de cata: Floral - Frutos secos - Muy dulce
-- Tueste medio
+- Cafe en grano natural
+- Arabica
 - Proceso de cosecha: Lavado
 - Región: Huila
+- Notas de cata: Floral - Frutos secos - Muy dulce
 - País: Colombia
-- Arabica
+- Cafe de especialidad Tostado Artesanalmente en Madrid - España
+- Tueste medio
 - 1700 mt de Altitud
 - Variedad Caturra
-- Cafe en grano natural
 
 [🛒 Comprar!!!]({{< param buyurl >}})

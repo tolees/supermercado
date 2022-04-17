@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana Cápsulas de Café con Leche sin Lactosa  4 x 16 cápsulas'
-date: 2022-04-16 15:01:33
+date: 2022-04-17 15:19:28
 image: 'https://m.media-amazon.com/images/I/51UUAPKI+AS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Producto 100% natural y sin E-s artificiales
+- Conservar en lugar fresco y seco
+- Origen de la leche: España
 - Cápsulas de café con leche
 - Realizado con leche sin lactosa
-- Producto 100% natural y sin E-s artificiales
-- Origen de la leche: España
-- Conservar en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

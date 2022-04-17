@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cápsulas de aluminio, compatibles con máquinas nespresso(r), marca no relacionada con global coffee industries s. a.
 - Ingredientes: café, intensidad 9
 - Alérgenos: sin gluten ni frutos secos
-- Cápsulas de aluminio, compatibles con máquinas nespresso(r), marca no relacionada con global coffee industries s. a.
 - producto de alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
