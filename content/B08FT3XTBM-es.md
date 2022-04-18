@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - LARGA TRADICIÓN: La ESPAÑOLA es una de las primeras marcas de aceites de oliva de España, con presencia desde 1840.
-- SABOR INCREÍBLE: Los Aceites de La Española son conocidos por su gusto afrutado y bien equilibrado.
-- 100% CALIDAD: Aceite de Oliva Virgen Extra obtenido directamente de olivos españoles de los que se recogen olivas de calidad premium.
-- MARIDAJES: Ideal para ensaladas, como ingrediente principal de aderezos, carnes blancas, salsas saludables o como un toque especial para tu plato favorito.
 - PRENSADO EN FRÍO: El proceso de prensado en frío supone la obtención de un aceite de oliva más fresco y sabroso, que mantiene todas sus propiedades.
+- MARIDAJES: Ideal para ensaladas, como ingrediente principal de aderezos, carnes blancas, salsas saludables o como un toque especial para tu plato favorito.
+- 100% CALIDAD: Aceite de Oliva Virgen Extra obtenido directamente de olivos españoles de los que se recogen olivas de calidad premium.
+- SABOR INCREÍBLE: Los Aceites de La Española son conocidos por su gusto afrutado y bien equilibrado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

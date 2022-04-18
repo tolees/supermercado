@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Salsa de tomate frito sin aditivos ni conservantes y sin gluten
-- Tomate frito con sabor 100% natural
 - Tomates de cultivo local procedentes de las Vegas del Guadiana (Extremadura)
-- Salsa de tomate frito Solís para la base de tus recetas favoritas: almejas a la marinera, paella o empanada de atún o acompañar tus platos de pasta, arroz, albóndigas, etc
 - Formato en brick reciclable
+- Salsa de tomate frito Solís para la base de tus recetas favoritas: almejas a la marinera, paella o empanada de atún o acompañar tus platos de pasta, arroz, albóndigas, etc
+- Tomate frito con sabor 100% natural
 - Formatos disponibles: frasco cristal; brick y lata
 
 [🛒 Visítala!!!]({{< param buyurl >}})

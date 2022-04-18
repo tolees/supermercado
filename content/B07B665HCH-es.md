@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Chocolate con leche y galletas Oreo de la marca Milka, en una tableta de 100 g
 - Con deliciosas galletas de cacao tipo sándwich rellenas de crema, para una exquisita combinación de texturas y sabores
-- Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso
 - Alérgenos: Contiene leche, trigo y soja, puede contener otros frutos de cáscara
 - Conservar en lugar fresco y seco
+- Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
