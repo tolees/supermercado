@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desenreda al instante, hidrata completamente el cabello normal a seco. Los cabellos están hidratados con ligereza y más brillantes.
-- Máscara multiusos con aloe vera. Hidratante. Para cabello normal o seco. Fórmula vegana: sin componentes de origen animal o derivado.
-- Desenreda en cabello mojado para hidratar. En mascarilla, sobre el cabello mojado, deja reposar 3 minutos y enjuagar. Cuidado sin aclarado, sobre las longitudes de tu cabello seco o mojado.
 - Vegan 98% fórmula biodegradable. Probado dermatológicamente. Aceites vegetales. Sin silicona para un tacto natural.
+- Desenreda al instante, hidrata completamente el cabello normal a seco. Los cabellos están hidratados con ligereza y más brillantes.
+- Desenreda en cabello mojado para hidratar. En mascarilla, sobre el cabello mojado, deja reposar 3 minutos y enjuagar. Cuidado sin aclarado, sobre las longitudes de tu cabello seco o mojado.
+- Máscara multiusos con aloe vera. Hidratante. Para cabello normal o seco. Fórmula vegana: sin componentes de origen animal o derivado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

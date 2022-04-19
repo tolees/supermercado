@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tipo de uva: Elaborado con uvas Tinta del País, Merlot y Cabernet Sauvignon, tras la maceración, la crianza se realiza en barricas de roble americano y francés durante 24 meses, posteriormente permanece 12 meses en botella.
 - Apariencia: Vino tinto de color intenso rojo picota de capa alta.
+- Maridaje: Este vino combina muy bien con carnes rojas y asados.
 - Aroma: Perfil aromático limpio donde se perciben notas de frutos silvestres, toques de vainilla y torrefactos de una madera bien ensamblada.
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos consumirlo entre los 16ºC y 18ºC.
 - Gusto: En boca es redondo, sedoso y amplio, con un retrogusto afrutado, tiene un tanino dulce, elegante y persistente.
-- Maridaje: Este vino combina muy bien con carnes rojas y asados.
-- Tipo de uva: Elaborado con uvas Tinta del País, Merlot y Cabernet Sauvignon, tras la maceración, la crianza se realiza en barricas de roble americano y francés durante 24 meses, posteriormente permanece 12 meses en botella.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
