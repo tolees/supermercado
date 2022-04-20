@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los complementos alimenticios no deben ser usados como sustitutos de una dieta equilibrada
 - Las vitaminas C, D y el zinc contribuyen al funcionamiento normal del sistema inmunitario
-- Con vitaminas C y E, que contribuyen a la protección de las células frente al daño oxidativo. Con vitamina A, que contribuye al mantenimiento de la piel en condiciones normales
 - Multivitaminas sabor a naranja. 3 envases de 30 gominolas cada uno. 90 unidades que proporcionan un mes y medio de tratamiento
 - Complemento alimenticio para adultos en gominola formulado con nutrientes esenciales importantes para el mantenimiento de todo el organismo y para ayudar a satisfacer tus necesidades nutricionales
+- Con vitaminas C y E, que contribuyen a la protección de las células frente al daño oxidativo. Con vitamina A, que contribuye al mantenimiento de la piel en condiciones normales
+- Los complementos alimenticios no deben ser usados como sustitutos de una dieta equilibrada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
