@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botella 100% reciclable
-- Descubre el resto de detergentes y limpialavadoras de Colon para una colada óptima
-- Fórmula original con la fragancia fresca y duradera de Nenuco que te transportará a tu infancia y al mundo de los bebés
-- Apto para ropa blanca y de color, limpieza profunda incluso con agua fría para una colada limpia y fresca
 - Detergente para la lavadora en formato gel con fragancia Nenuco
+- Descubre el resto de detergentes y limpialavadoras de Colon para una colada óptima
+- Apto para ropa blanca y de color, limpieza profunda incluso con agua fría para una colada limpia y fresca
+- Botella 100% reciclable
+- Fórmula original con la fragancia fresca y duradera de Nenuco que te transportará a tu infancia y al mundo de los bebés
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
