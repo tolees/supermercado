@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Jinzu Ginebra  700ml'
-date: 2022-04-13 10:29:13
+date: 2022-04-22 11:15:42
 image: 'https://m.media-amazon.com/images/I/31N5ldzw3gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00PA8YFL2-es Jinzu Ginebra 700ml'
 sku: 'B00PA8YFL2-es'
-tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Ginebras','es','ginebra','jinzu', ]
-actualPrice: 24.3 EUR
+tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Ginebras','ginebra','jinzu','🇪🇸', ]
+actualPrice: 24.31 EUR
 currency: EUR
-price: 24.3
+price: 24.31
 comparePrice: 34.99 EUR
 prodname: 'Jinzu Ginebra  700ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Jinzu'
 buyurl: 'https://www.amazon.es/dp/B00PA8YFL2/?tag=tolees-21'
-descuento: '30.55'
-average: '29.0833333333333'
+descuento: '30.52'
+average: '28.4014285714285'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jinzu is a super-premium gin offering a unique taste experience for consumers in search of depth and discovery
-- Jinzu is distilled in traditional copper pot still and finished with a touch of distilled sake
-- Fresh juniper taste invigorated with zesty citrus and delicate hints of cherry blossom flavour, finished with smooth sake
-- Jinzu is a marriage of British gin with the delicate flavour of cherry blossom and yuzu citrus fruit, finished with smooth Japanese sake
-- Enjoy Jinzu in a gin and tonic garnished with a slice of green apple
-- Jinzu gin was created by British bartender Dee Davies, inspired by her journey to Japan and a lifelong passion for experimenting with flavour
+- Disfrute de un gin-tonic con Jinzu y tónica, decorado con una rodaja de manzana verde
+- La ginebra Jinzu combina las tradiciones británica y japonesa para crear un licor interesante
+- Jinzu es una creación de la camarera Dee Davies, inspirada en su viaje a Japón y en su pasión por experimentar con los sabores
+- Jinzu se destila en un alambique de cobre tradicional y se mezcla posteriormente con un poco de sake destilado
+- Sabor a enebro fresco con cítricos y delicadas notas de flor de cerezo, con un suave acabado a sake
 
 [🛒 Visítala!!!]({{< param buyurl >}})

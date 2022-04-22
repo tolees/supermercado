@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No contiene aromas artificiales
+- Se disuelve tanto en agua fría como caliente
 - La melisatiene un acción sedante suave
+- No contiene aromas artificiales
 - Las flores de la tila poseen una acción tranquilizante
 - Ayuda para conciliar un sueño tranquilo, agradable y reparador
-- Se disuelve tanto en agua fría como caliente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
