@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Marca: Garnier
 - Incluye waterproof y fortalece las pestañas sin dejar sensación grasa
-- Enriquecido con arginina de origen natural
 - Elimina de forma suave y eficaz el maquillaje
+- Enriquecido con arginina de origen natural
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

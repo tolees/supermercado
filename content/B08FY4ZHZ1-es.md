@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Método de pesca: cerco; ver especie y zona de pesca en la lata
+- Lata individuales, con tapa fácil apertura
 - Ingredientes: Ingredientes: Atún claro (especie: ver lata) (pescado) aceite de girasol y sal
+- Lata ideal para consumo individual
 - Instrucciones para su uso adecuado: Mantener en lugar fresco y seco
 - País de origen: España, producto natural sin conservantes ni colorantes
-- Método de pesca: cerco; ver especie y zona de pesca en la lata
 - Conserva de atún en aceite de girasol
 - Advertencia de seguridad: Una vez abierto consumir en su totalidad
-- Lata individuales, con tapa fácil apertura
-- Lata ideal para consumo individual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

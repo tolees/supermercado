@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caldo de Pollo bajo en grasa y calorías
-- Sin colorantes artificiales entre sus ingredientes
-- Caldo Líquido de la Abuela Knorr Pollo 1 litro
-- Caldo de pollo líquido con aceite de oliva virgen extra
-- Caldo estilo casero sin conservantes
 - Brick de cartón de origen sostenible
+- Caldo estilo casero sin conservantes
+- Caldo de Pollo bajo en grasa y calorías
+- Caldo Líquido de la Abuela Knorr Pollo 1 litro
+- Sin colorantes artificiales entre sus ingredientes
+- Caldo de pollo líquido con aceite de oliva virgen extra
 
 [🛒 Comprar!!!]({{< param buyurl >}})
