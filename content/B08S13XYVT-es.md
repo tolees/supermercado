@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Coosur - Aceite de Oliva Variedad Hojiblanca  1 Litro'
-date: 2022-04-17 07:01:36
+date: 2022-04-23 22:43:36
 image: 'https://m.media-amazon.com/images/I/31Ud3BmnlwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aceite de oliva virgen extra hojiblanca.
 - País de origen: España
 - Libre de alérgenos.
+- Aceite de oliva virgen extra hojiblanca.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
