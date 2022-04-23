@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Azúcar, pasta de cacao, grasa vegetal (palma y palmiste), manteca de cacao, pasta de avellanas (5%), cubitos de almendras tostada (4%), lactosuero en polvo (leche), cacao desgrasado en polvo, emulgente: lecitina de soja, aromas.
 - Chocolatíssimo Puro. Bombones de exquisito chocolate Puro. 250 Gramos.
-- Bombones de chocolate puro rellenos de praliné de avellana con trozos de almendra.
 - Cacao: 52 % mínimo en el chocolate. Relleno: 50%
 - Selección exclusiva de cacao premium por nuestros maestros chocolateros.
+- Bombones de chocolate puro rellenos de praliné de avellana con trozos de almendra.
+- Azúcar, pasta de cacao, grasa vegetal (palma y palmiste), manteca de cacao, pasta de avellanas (5%), cubitos de almendras tostada (4%), lactosuero en polvo (leche), cacao desgrasado en polvo, emulgente: lecitina de soja, aromas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

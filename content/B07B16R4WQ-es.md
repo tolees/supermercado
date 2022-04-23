@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Papillas elaboradas a partir de cereales 100% naturales, seleccionados especialmente para la alimentación infantil
-- Papilla de 8 cereales Nestlé con un delicioso sabor a cacao que le encantará a tu bebé
 - Sin aceite de palma y sin azúcares añadidos Contiene los naturalmente presentes
 - Con BL y Hierro+, que contribuye a su desarrollo cognitivo normal
-- Cereales infantiles de fácil disolución, sin grumos
+- Papillas elaboradas a partir de cereales 100% naturales, seleccionados especialmente para la alimentación infantil
 - Con Hierro, Zinc y vitaminas A y C, que ayudan a la función normal del sistema inmunitario
+- Papilla de 8 cereales Nestlé con un delicioso sabor a cacao que le encantará a tu bebé
+- Cereales infantiles de fácil disolución, sin grumos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
