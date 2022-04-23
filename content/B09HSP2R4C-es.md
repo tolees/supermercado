@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantener en zona seca entre 5º y 20º C
-- Filtrada en frío en cuatro tiempos
-- Sabor fresco
 - Miller Genuine Draft, cerveza lager norteamericana alc. 4,7% vol.
+- Sabor fresco
+- Filtrada en frío en cuatro tiempos
+- Mantener en zona seca entre 5º y 20º C
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para adultos y niños a partir de 6 años.
 - Producto resistente
 - Marca: NOVARTIS C. H.
 - 100% agua de mar isotónica y estéril
+- Para adultos y niños a partir de 6 años.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
