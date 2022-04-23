@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo - Mini Tropifrutti - Caramelos de goma - 1 kg - [pack de 2]'
-date: 2022-04-20 22:12:18
+date: 2022-04-22 22:22:40
 image: 'https://m.media-amazon.com/images/I/51bxBKAyUnS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B01KTLC2M8/?tag=tolees-21'
 descuento: '0.00'
-average: '11.32'
+average: '10.58'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en lugar fresco y seco
 - Irresistible sabor a frutas tropicales
+- Conservar en lugar fresco y seco
 - Contenido de 1 kg
 - Deliciosas piezas en forma de mini frutas tropicales
 
