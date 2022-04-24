@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dermatológicamente comprobado
 - Máxima protección antitranspirante 48h sin irritaciones
+- Dermatológicamente comprobado
 - 0% Alcohol
 
 [🛒 Visítala!!!]({{< param buyurl >}})
