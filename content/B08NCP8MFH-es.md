@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De color dorado brillante, espuma blanca consistente; de cuerpo medio y aromas frescos y cítricos; destaca su equilibrio entre un amargor suave y matices de malta que otorgan una gran bebestibilidad
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 - 5.5% de alcohol en volumen y sin gluten
 - Cerveza tipo laguer Especial
 - Ingredientes naturales: Agua, malta de cebada, maíz, levadura y lúpulo
+- De color dorado brillante, espuma blanca consistente; de cuerpo medio y aromas frescos y cítricos; destaca su equilibrio entre un amargor suave y matices de malta que otorgan una gran bebestibilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
