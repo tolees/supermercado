@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Formulado con Pro-Moisture Complex; apto para uso diario
-- Nutre progresivamente con uso regular
-- Desenreda al instante y optimiza la docilidad
 - Champú y acondicionador que nutren para lograr cabello 5 veces más suave en solo un lavado, comparado con un champú sin acondicionador
+- Desenreda al instante y optimiza la docilidad
+- Nutre progresivamente con uso regular
 - Ayuda a proteger al cabello normal del maltrato y desgaste diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
