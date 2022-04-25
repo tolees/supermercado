@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para óptimos resultados, utilice este champú sin sulfatos junto con el resto de productos de la gama de Biotina y Colágeno de OGX.
 - El colágeno ayuda a combatir los radicales libres que afectan la textura, el crecimiento y el espesor del cabello
-- Contiene proteína de trigo hidrolizada, la cual aumenta la capacidad del cabello para retener la hidratación y le añade volumen y cuerpo
-- El Champú Biotina y Colágeno de OGX está compuesto de una fórmula óptima con biotina y colágeno, que ayudan a dar volumen, textura, y un aspecto bonito a cualquier tipo de pelo, mente al pelo fino
 - La Biotina o vitamina B7 favorece el crecimiento y la formación de las células, ayudando a reducir la caída del pelo
+- Para óptimos resultados, utilice este champú sin sulfatos junto con el resto de productos de la gama de Biotina y Colágeno de OGX.
+- El Champú Biotina y Colágeno de OGX está compuesto de una fórmula óptima con biotina y colágeno, que ayudan a dar volumen, textura, y un aspecto bonito a cualquier tipo de pelo, mente al pelo fino
+- Contiene proteína de trigo hidrolizada, la cual aumenta la capacidad del cabello para retener la hidratación y le añade volumen y cuerpo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
