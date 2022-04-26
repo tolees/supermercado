@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Tanqueray Nº TEN Ginebra 700 ml con Estuche de Regalo'
-date: 2022-04-12 19:13:49
+date: 2022-04-26 00:08:44
 image: 'https://m.media-amazon.com/images/I/51uiaul8I9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09D48TTGP-es Tanqueray Nº TEN Ginebra 700 ml con Estuche de Regalo'
 sku: 'B09D48TTGP-es'
-tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Ginebras','ginebra','tanqueray', ]
+tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Ginebras','ginebra','tanqueray','🇪🇸', ]
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una ginebra adecuada para un gin tonic equilibrado y una base para martinis y cócteles
 - Este producto es la única ginebra del prestigioso y mundialmente aclamado San Francisco Spirits Hall of Fame
+- Con estuche de regalo
 - El gin tonic definitivo, adecuado para regalar o para disfrutar con amigos y familiares
 - Destilado en pequeños lotes con cítricos frescos, flores de manzanilla y otros botánicos cosechados a mano como el enebro
-- Con estuche de regalo
+- Una ginebra adecuada para un gin tonic equilibrado y una base para martinis y cócteles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
