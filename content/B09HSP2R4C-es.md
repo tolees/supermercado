@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cerveza Miller Genuine Draft  caja de 24 botellas de 330 ml 33 CL'
-date: 2022-04-23 13:40:41
+date: 2022-04-26 13:52:36
 image: 'https://m.media-amazon.com/images/I/41st9WPuYuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Miller Genuine Draft, cerveza lager norteamericana alc. 4,7% vol.
 - Sabor fresco
-- Filtrada en frío en cuatro tiempos
+- Miller Genuine Draft, cerveza lager norteamericana alc. 4,7% vol.
 - Mantener en zona seca entre 5º y 20º C
+- Filtrada en frío en cuatro tiempos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elimina la suciedad
 - Formato sostenible. Menos plástico en su producción, menos emisiones y en un práctico envase reutilizable
 - Fáciles de transportar y de almacenar. Los packs son menos pesados y más cómodos…ocuparán menos en tu bolsa de la compra y en casa
+- Elimina la suciedad
 - Experto en color
 - Protege los colores
 
