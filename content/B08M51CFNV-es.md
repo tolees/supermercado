@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conocidos alrededor del mundo, M&M’s son un dulce original y exclusivo, la M impresa en cada gragea asegura la calidad de cada uno de los chocolates en su interior.
-- Un placer para disfrutar como parte de una dieta equilibrada
 - Un perfecto y original contraste de texturas, cremoso chocolate y crujiente cáscara con un centro de cacahuete. Su cáscara exterior permite que el chocolate se derrita en tu boca, no en tu mano.
 - Su tamaño es perfecto para compartir y disfrutar con los tuyos: son capaces de levantarte el ánimo, gracias a su dinámico formato y sus diversos colores.
+- Un placer para disfrutar como parte de una dieta equilibrada
 - Sabroso cacahuete y verdadero chocolate con leche, rodeado por una colorida cáscara fina y crujiente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

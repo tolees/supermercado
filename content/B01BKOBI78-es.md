@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Tipo de piel: normal
 - Desodorante roll-on antimanchas blancas
-- Ingredientes: Aqua, Aluminum Chlorohydrate, Glycerin, PPG-15 Stearyl Ether, Steareth-2, Cyclomethicone, Steareth-21, Parfum, Dimethicone, Caprylyl Glycol, Talc, BHT.
 - Protección eficaz durante 24h
 - Actúa contra las bacterias causantes del mal olor
+- Ingredientes: Aqua, Aluminum Chlorohydrate, Glycerin, PPG-15 Stearyl Ether, Steareth-2, Cyclomethicone, Steareth-21, Parfum, Dimethicone, Caprylyl Glycol, Talc, BHT.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

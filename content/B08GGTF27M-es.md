@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jabón de manos sin sulfatos, colorantes, ftalatos, alcohol ni jabón
-- Jabón de manos para niños que deja la piel limpia y con aspecto saludable
-- Probado por pediatras y dermatólogos
 - Hipoalergénico y con pH equilibrado
 - Formulado con miel, té verde y extracto de rooibos
+- Jabón de manos para niños que deja la piel limpia y con aspecto saludable
+- Probado por pediatras y dermatólogos
+- Jabón de manos sin sulfatos, colorantes, ftalatos, alcohol ni jabón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
