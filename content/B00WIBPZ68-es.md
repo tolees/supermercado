@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Enjuague bucal para el sangrado de encías, sin alcohol, que ayuda a eliminar la placa bacteriana y a mantener unas encías sanas
-- Pack unitario con tubo 500 ml
-- Ayuda a eliminar la placa bacteriana que no llega a eliminar el cepillado ayudando a prevenir los problemas de encías, así como su reaparición
 - Diseñado para ser delicado con las encías y está científicamente probado que ayuda a mantener las encías y los dientes sanos
+- Ayuda a eliminar la placa bacteriana que no llega a eliminar el cepillado ayudando a prevenir los problemas de encías, así como su reaparición
+- Enjuague bucal para el sangrado de encías, sin alcohol, que ayuda a eliminar la placa bacteriana y a mantener unas encías sanas
 - Protege contra el mail aliento, usando a diario un colutorio para el cuidado de las encías
+- Pack unitario con tubo 500 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
