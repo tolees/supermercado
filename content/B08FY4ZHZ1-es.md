@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Campos Conservas De Atún En Aceite De Girasol  80 g'
-date: 2022-04-22 19:49:54
+date: 2022-04-28 16:39:03
 image: 'https://m.media-amazon.com/images/I/51KOr2ID2iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Instrucciones para su uso adecuado: Mantener en lugar fresco y seco
+- Conserva de atún en aceite de girasol
 - Método de pesca: cerco; ver especie y zona de pesca en la lata
 - Lata individuales, con tapa fácil apertura
 - Ingredientes: Ingredientes: Atún claro (especie: ver lata) (pescado) aceite de girasol y sal
-- Lata ideal para consumo individual
-- Instrucciones para su uso adecuado: Mantener en lugar fresco y seco
 - País de origen: España, producto natural sin conservantes ni colorantes
-- Conserva de atún en aceite de girasol
+- Lata ideal para consumo individual
 - Advertencia de seguridad: Una vez abierto consumir en su totalidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
