@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'Heineken Silver Cerveza Pack 24 latas x 330 ml - 7920 ml'
-date: 2022-04-22 10:28:33
+title: 'Heineken Silver Cerveza Lager Pack Lata  24 x 33cl'
+date: 2022-04-28 08:56:29
 image: 'https://m.media-amazon.com/images/I/51A-tjiIQfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09SQ9TBSK-es Heineken Silver Cerveza Pack 24 latas x 330 ml - 7920 ml'
+slug: 'B09SQ9TBSK-es Heineken Silver Cerveza Lager Pack Lata 24 x 33cl'
 sku: 'B09SQ9TBSK-es'
 tags: [ 'Alimentación y bebidas','Cervezas','Cervezas, vinos y licores','cerveza','heineken','🇪🇸', ]
 actualPrice: 14.07 EUR
 currency: EUR
 price: 14.07
 comparePrice: 16.56 EUR
-prodname: 'Heineken Silver Cerveza Pack 24 latas x 330 ml - 7920 ml'
+prodname: 'Heineken Silver Cerveza Lager Pack Lata  24 x 33cl'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Heineken'
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 4% de alcohol en volumen
-- Elaborada a -1ºC
-- De color rubio pálido, se caracteriza por su sabor suave, con un ligero aroma afrutado,
 - Ingredientes naturales: agua, levadura, malta de cebada y lúpulo
+- 4% de alcohol en volumen
+- De color rubio pálido, se caracteriza por su sabor suave, con un ligero aroma afrutado,
+- Elaborada a -1ºC
 - Cerveza tipo laguer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
