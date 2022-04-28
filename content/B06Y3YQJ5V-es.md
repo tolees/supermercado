@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- País de origen: España, producto natural sin conservantes ni colorantes
-- Bolsa hermética o pouch en aceite de girasol, con reducida cantidad de líquido de cobertura y mínimo envase de desperdicio
-- Conserva de atún en aceite de girasol
-- Alto contenido en proteína, proteína barata, ideal para deportistas
 - Método de pesca: cerco, ver especie y zona de pesca en la lata
+- Conserva de atún en aceite de girasol
 - Bolsa o pouch de 500 g para un consumo de volumen, especial hostelería
+- País de origen: España, producto natural sin conservantes ni colorantes
+- Alto contenido en proteína, proteína barata, ideal para deportistas
+- Bolsa hermética o pouch en aceite de girasol, con reducida cantidad de líquido de cobertura y mínimo envase de desperdicio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
