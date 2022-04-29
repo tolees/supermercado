@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Método de pesca: cerco, ver especie y zona de pesca en la lata
 - Bolsa hermética o pouch en aceite de girasol, con reducida cantidad de líquido de cobertura y mínimo envase de desperdicio
 - País de origen: España, producto natural sin conservantes ni colorantes
-- Método de pesca: cerco, ver especie y zona de pesca en la lata
-- Bolsa o pouch de 500 g para un consumo de volumen, especial hostelería
 - Conserva de atún en aceite de girasol
+- Bolsa o pouch de 500 g para un consumo de volumen, especial hostelería
 - Alto contenido en proteína, proteína barata, ideal para deportistas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

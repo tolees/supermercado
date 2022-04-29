@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TASSIMO L Or Café Latte Macchiato - 5 paquetes de 8 unidades  Total 40 unidades '
-date: 2022-04-28 10:38:12
+date: 2022-04-29 19:11:52
 image: 'https://m.media-amazon.com/images/I/41DWmO2Ke8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tassimo'
 buyurl: 'https://www.amazon.es/dp/B01M5CYXU7/?tag=tolees-21'
 descuento: '0.00'
-average: '24.5033333333333'
+average: '28.375'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Envasado en paquetes de 8 unidades
+- Formato tipo discos
 - Café Tassimo LOR Cappuccino de aroma intensa
 - Café molido de tueste natural
 - Cápsulas compatibles con cafeteras Tassimo Bosch
-- Formato tipo discos
+- Envasado en paquetes de 8 unidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})

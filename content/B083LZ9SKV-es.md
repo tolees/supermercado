@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Veranza - Vino Tinto - Pack 6 botellas 75cl'
-date: 2022-04-27 14:21:42
+date: 2022-04-29 20:34:03
 image: 'https://m.media-amazon.com/images/I/51zPFokfhzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'VERANZA'
 buyurl: 'https://www.amazon.es/dp/B083LZ9SKV/?tag=tolees-21'
 descuento: '24.75'
-average: '15.48'
+average: '15.4366666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nota de cata (vista): Nítido y brillante; De intenso rojo oscuro con reflejos granates
-- Nota de cata (boca): Vivo, de suaves taninos, muy agradable en boca; Destacan las notas a frutos del sotobosque; Suaves toques tostados. Cuerpo medio, persistente y de final agradable
-- Varietales: Tempranillo y Cabernet Sauvignon
 - Nota de cata (nariz): Aroma franco e intenso; Muy frutal, del tipo frutos rojos y arándanos; Ligeros toques especiados y tostados
+- Varietales: Tempranillo y Cabernet Sauvignon
+- Nota de cata (vista): Nítido y brillante; De intenso rojo oscuro con reflejos granates
 - Temperatura óptima de servicio: 16-18 °
+- Nota de cata (boca): Vivo, de suaves taninos, muy agradable en boca; Destacan las notas a frutos del sotobosque; Suaves toques tostados. Cuerpo medio, persistente y de final agradable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
