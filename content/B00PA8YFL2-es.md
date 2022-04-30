@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jinzu Ginebra  700ml'
-date: 2022-04-27 14:21:48
+date: 2022-04-30 07:38:30
 image: 'https://m.media-amazon.com/images/I/31N5ldzw3gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jinzu'
 buyurl: 'https://www.amazon.es/dp/B00PA8YFL2/?tag=tolees-21'
 descuento: '30.52'
-average: '27.4922222222221'
+average: '27.1739999999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jinzu se destila en un alambique de cobre tradicional y se mezcla posteriormente con un poco de sake destilado
-- La ginebra Jinzu combina las tradiciones británica y japonesa para crear un licor interesante
+- Sabor a enebro fresco con cítricos y delicadas notas de flor de cerezo, con un suave acabado a sake
 - Jinzu es una creación de la camarera Dee Davies, inspirada en su viaje a Japón y en su pasión por experimentar con los sabores
 - Disfrute de un gin-tonic con Jinzu y tónica, decorado con una rodaja de manzana verde
-- Sabor a enebro fresco con cítricos y delicadas notas de flor de cerezo, con un suave acabado a sake
+- La ginebra Jinzu combina las tradiciones británica y japonesa para crear un licor interesante
+- Jinzu se destila en un alambique de cobre tradicional y se mezcla posteriormente con un poco de sake destilado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

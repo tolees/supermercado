@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desperados Cerveza Mojito Pack Lata  25 x 50cl'
-date: 2022-04-27 14:21:05
+date: 2022-04-30 07:38:27
 image: 'https://m.media-amazon.com/images/I/612+a1akUIS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Desperados'
 buyurl: 'https://www.amazon.es/dp/B091NV5R1T/?tag=tolees-21'
 descuento: '33.15'
-average: '27.36625'
+average: '27.2133333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consumirla directamente de la botella entre 2° y 4°C para obtener sus máximas cualidades
-- Ingredientes: Agua, malta de cebada, jarabe de glucosa, azúcar, extracto de lúpulo, regulador de la acidez: ácido cítrico, aromatizante (50% de tequila, 14% extracto de menta, 1% extracto de lima)
-- Cerveza innovadora de tipo Lager aromatizada con tequila, menta y limón verde
-- Desperados Mojito con la frescura frutal del famoso Mojito, te transportara directamente a las noches caribeñas; refrescante y de cuerpo ligero
 - Con 5.9% de alcohol en volumen
+- Desperados Mojito con la frescura frutal del famoso Mojito, te transportara directamente a las noches caribeñas; refrescante y de cuerpo ligero
+- Consumirla directamente de la botella entre 2° y 4°C para obtener sus máximas cualidades
+- Cerveza innovadora de tipo Lager aromatizada con tequila, menta y limón verde
+- Ingredientes: Agua, malta de cebada, jarabe de glucosa, azúcar, extracto de lúpulo, regulador de la acidez: ácido cítrico, aromatizante (50% de tequila, 14% extracto de menta, 1% extracto de lima)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
