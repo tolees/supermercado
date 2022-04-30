@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elaborado en Italia con uvas italianas
-- 100 % natural sin espesantes, azúcares añadidos, color caramelo, tinturas, saborizantes ni ingredientes adicionales
 - Perfecto para aderezar platos de carne de cerdo, verduras, tortillas y guisos con cebolla. Pruébalo con mayonesa y otras salsas suaves
 - Ingredientes: zumo de manzana concentrado, vinagre de manzana y aromas naturales
+- 100 % natural sin espesantes, azúcares añadidos, color caramelo, tinturas, saborizantes ni ingredientes adicionales
 - Envejecido en barricas de madera para mejorar el sabor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

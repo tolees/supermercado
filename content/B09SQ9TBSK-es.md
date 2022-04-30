@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heineken Silver Cerveza Lager Pack Lata  24 x 33cl'
-date: 2022-04-29 09:38:36
+date: 2022-04-30 19:45:22
 image: 'https://m.media-amazon.com/images/I/51A-tjiIQfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Elaborada a -1ºC
+- Ingredientes naturales: agua, levadura, malta de cebada y lúpulo
+- Cerveza tipo laguer
 - De color rubio pálido, se caracteriza por su sabor suave, con un ligero aroma afrutado,
 - 4% de alcohol en volumen
-- Ingredientes naturales: agua, levadura, malta de cebada y lúpulo
-- Elaborada a -1ºC
-- Cerveza tipo laguer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
