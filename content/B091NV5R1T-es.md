@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con 5.9% de alcohol en volumen
-- Desperados Mojito con la frescura frutal del famoso Mojito, te transportara directamente a las noches caribeñas; refrescante y de cuerpo ligero
-- Consumirla directamente de la botella entre 2° y 4°C para obtener sus máximas cualidades
-- Cerveza innovadora de tipo Lager aromatizada con tequila, menta y limón verde
 - Ingredientes: Agua, malta de cebada, jarabe de glucosa, azúcar, extracto de lúpulo, regulador de la acidez: ácido cítrico, aromatizante (50% de tequila, 14% extracto de menta, 1% extracto de lima)
+- Cerveza innovadora de tipo Lager aromatizada con tequila, menta y limón verde
+- Consumirla directamente de la botella entre 2° y 4°C para obtener sus máximas cualidades
+- Desperados Mojito con la frescura frutal del famoso Mojito, te transportara directamente a las noches caribeñas; refrescante y de cuerpo ligero
+- Con 5.9% de alcohol en volumen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes:malta de cebada, jarabe de azúcar, maltosa, lúpulo, exclusiva levadura sol.
 - Consumirla entre 0° y 3°c para obtener sus máximas cualidades
 - De color amarillo pálido pajizo y espuma blanca consistente, con un toque cítrico en su aroma. muy bebestible y refrescante
+- Ingredientes:malta de cebada, jarabe de azúcar, maltosa, lúpulo, exclusiva levadura sol.
 - De la marca: Sol
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
