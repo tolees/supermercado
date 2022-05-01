@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Haribo  Favoritos Red&White 90g.'
-date: 2022-04-18 19:50:58
+title: 'Haribo Favoritos Red and White Geles Dulces  90g'
+date: 2022-05-01 18:49:21
 image: 'https://m.media-amazon.com/images/I/51uI6bjN8cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00XAPEEH2-es Haribo Favoritos Red&White 90g.'
+slug: 'B00XAPEEH2-es Haribo Favoritos Red and White Geles Dulces 90g'
 sku: 'B00XAPEEH2-es'
 tags: [ 'Alimentación y bebidas','Dulces, chocolates y chicles','Golosinas','Snacks y dulces','haribo','🇪🇸', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0
 comparePrice: 1.07 EUR
-prodname: 'Haribo  Favoritos Red&White 90g.'
+prodname: 'Haribo Favoritos Red and White Geles Dulces  90g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B00XAPEEH2/?tag=tolees-21'
 descuento: '6.54'
-average: '0.994'
+average: '0.994545454545455'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mantener en lugar fresco y seco
-- Mix de las piezas mas clásicas para los amantes del regaliz rojo
-- Geles dulces
-- Sabor a fresa
+- Están de color rojo y blanco
+- Conservar en un lugar fresco y seco
+- Surtido de geles dulces
+- Es un dulce para toda la familia
+- Con sabor a fresa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BUENO PARA TI Y PARA EL PLANETA: 0 % siliconas, 0 % aceites minerales, 0 % colorantes y frasco reciclable (excluyendo el tapón) hecho con plástico 100 % reciclado (excluyendo el tapón)
 - CHAMPÚ CON FÓRMULA SUPERIOR: con la mezcla de nutrientes Pro-V y el complejo micelar para purificar y revitalizar el cabello desde la raíz hasta las puntas
-- El champú Micelar de Pantene limpia el cabello de impurezas en profundidad; para un cabello fresco, suelto y lleno de energía desde la raiz a las puntas
 - Purifica suavemente el cabello sin dejarlo áspero; la fórmula Pro-V hidrata y revitaliza el cabello al mismo tiempo, eliminando la grasa desde la raíz
+- BUENO PARA TI Y PARA EL PLANETA: 0 % siliconas, 0 % aceites minerales, 0 % colorantes y frasco reciclable (excluyendo el tapón) hecho con plástico 100 % reciclado (excluyendo el tapón)
+- El champú Micelar de Pantene limpia el cabello de impurezas en profundidad; para un cabello fresco, suelto y lleno de energía desde la raiz a las puntas
 - TIPO DE CABELLO: Este champú Pantene es para cabello graso y apagado; está probado por el Instituto Vitamínico Suizo, una de las autoridades con mas reconocimiento en cuanto a eficacia de vitaminas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
