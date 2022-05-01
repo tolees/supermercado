@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección solar muy alta, resistente al agua, se recomienda su aplicación antes de la exposición al sol, con reaplicaciones periódicas para obtener una total protección frente a los rayos UVA Y UVB
 - Protector Solar en spray de 200 ml con textura muy ligera para una aplicación fácil, con acabado invisible, no graso y agradable.
 - Protección solar SPF30, una protección alta contra las quemaduras solares que además contribuye a paliar el envejecimiento de la piel. Indicado para pieles claras y primeras exposiciones al sol.
+- Protección solar muy alta, resistente al agua, se recomienda su aplicación antes de la exposición al sol, con reaplicaciones periódicas para obtener una total protección frente a los rayos UVA Y UVB
 - Dermatológicamente testado para una exposición solar más segura
 - Su fórmula muy ligera aporta extra hidratación contra los efectos envejecedores del sol sin engrasar
 
