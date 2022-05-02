@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Favoritos Red and White Geles Dulces  90g'
-date: 2022-05-01 18:49:21
+date: 2022-05-02 19:50:46
 image: 'https://m.media-amazon.com/images/I/51uI6bjN8cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B00XAPEEH2/?tag=tolees-21'
 descuento: '6.54'
-average: '0.994545454545455'
+average: '0.995'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Están de color rojo y blanco
-- Conservar en un lugar fresco y seco
-- Surtido de geles dulces
 - Es un dulce para toda la familia
+- Surtido de geles dulces
+- Conservar en un lugar fresco y seco
 - Con sabor a fresa
+- Están de color rojo y blanco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

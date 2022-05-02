@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fragancia pomelo y menta marroquí, mezcla aromática que recuerda a la menta escondida en los jardines de Marruecos
-- Spray ambientador Botanica by Air Wick con ingredientes de fragancias naturales y producido de forma sostenible
-- Botellas fabricadas con hasta un 99% de plástico reciclado
 - Producto final sin testar en animales, libre de acetona, colorantes, ftalatos, propelente
+- Botellas fabricadas con hasta un 99% de plástico reciclado
+- Spray ambientador Botanica by Air Wick con ingredientes de fragancias naturales y producido de forma sostenible
+- Fragancia pomelo y menta marroquí, mezcla aromática que recuerda a la menta escondida en los jardines de Marruecos
 - Descubre el resto de fragancias y ambientadores de Botanica by Air Wick
 
 [🛒 Visítala!!!]({{< param buyurl >}})
