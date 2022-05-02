@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lo que obtienes:Vasos de vidrio de doble pared Glastal 4x120ml(capacidad de uso recomendada 100ml),debido a la artesanía soplada a mano, la capacidad de cada vaso varía del 5% al 10%.Una garantía de 18 meses sin preocupaciones y nuestro amable servicio al cliente.
-- Buena elección de regalos:El aspecto simple pero elegante ofrece un buen aspecto de su mesa y le brinda una maravillosa experiencia a la hora del café.Sería un regalo atractivo para familiares y amigos.
 - Hecho a mano:Gracias a la mano de obra de alta calidad y la experiencia de los sopladores de vidrio,el vidrio es maravillosamente ligero,claro y suave para un uso fácil y agradable.
 - Capacidad:Capacidad total 120ml,recomendamos llenar la taza con 100ml de líquido cómodamente.Una elección perfecta para espresso,té,postres.Debido a la artesanía soplada a mano,la capacidad de cada taza varía del 5% al 10% (aproximadamente 108-130ml).
 - Doble pared:Sin riesgo de quemaduras en los dedos con bebidas calientes;tampoco se forma condensación en la superficie del vidrio con bebidas frías.Importante: se recomienda lavarse las manos para un mejor mantenimiento.
+- Buena elección de regalos:El aspecto simple pero elegante ofrece un buen aspecto de su mesa y le brinda una maravillosa experiencia a la hora del café.Sería un regalo atractivo para familiares y amigos.
+- Lo que obtienes:Vasos de vidrio de doble pared Glastal 4x120ml(capacidad de uso recomendada 100ml),debido a la artesanía soplada a mano, la capacidad de cada vaso varía del 5% al 10%.Una garantía de 18 meses sin preocupaciones y nuestro amable servicio al cliente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
