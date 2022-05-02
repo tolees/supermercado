@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FUEGO VALYRIO Licor Verde - 700 ml'
-date: 2022-04-27 19:46:39
+date: 2022-05-02 21:28:38
 image: 'https://m.media-amazon.com/images/I/41p4x1uOq9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'FUEGO VALYRIO'
 buyurl: 'https://www.amazon.es/dp/B073WLG8JZ/?tag=tolees-21'
 descuento: '19.85'
-average: '14.6365079365079'
+average: '14.65703125'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

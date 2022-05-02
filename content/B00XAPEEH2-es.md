@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Es un dulce para toda la familia
-- Surtido de geles dulces
-- Conservar en un lugar fresco y seco
 - Con sabor a fresa
 - Están de color rojo y blanco
+- Surtido de geles dulces
+- Conservar en un lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
