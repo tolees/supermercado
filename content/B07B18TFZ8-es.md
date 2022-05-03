@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Maltas tostadas en 3 tiempos: secado, tostación y golpe de fuego
-- Cerveza estilo lager especial tostada
 - Consumirla entre 2 y 4 grados C para obtener sus máximas cualidades
 - Ingredientes: agua tratada, 100% con mexcla de maltas de cebadas claras y oscuras, lúpulo y exclusiva levadura Amstel
 - De color dorado oscuro y espuma cremosa De cuerpo medio y amargor suave
+- Cerveza estilo lager especial tostada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
