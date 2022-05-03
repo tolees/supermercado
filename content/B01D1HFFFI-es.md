@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Colorete en polvo para dar color y definición
+- Paleta con 3 pasos para contouring
 - Polvo iluminador para resaltar mejillas, cejas, frente, barbilla y nariz
 - Tipo de piel: piel normal
-- Paleta con 3 pasos para contouring
 - Tipo de piel: Piel normal
-- Colorete en polvo para dar color y definición
 - Fácil de desmaquillar
 - Sombreador para contornear la nariz y la mandíbula
 
