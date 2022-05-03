@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pre base de maquillaje matificante Infalible
 - Prepara la piel para aplicar el maquillaje, alisando los poros
 - Textura gel transparente ligero de rápida absorción
-- Pre base de maquillaje matificante Infalible
 - Permite que el maquillaje aguante intacto por más tiempo
 - Aplicar por todo el rostro en movimientos circulares para preparar y alisar la superficie de la piel
 

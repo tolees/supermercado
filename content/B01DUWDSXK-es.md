@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- relleno crema sabor albaricoque
-- con cobertura cacao
-- Bizcocho Enrollado
 - Contiene Huevos y/o productos a base de huevos
 - Bizcocho albaricoque
+- relleno crema sabor albaricoque
+- Bizcocho Enrollado
+- con cobertura cacao
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
