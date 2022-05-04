@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes: agua, semillas de MOSTAZA, vinagre de alcohol, vinagre de malta (de la cCEBADA), azúcar, sal, miel, especias, aromatizante, astabilizador (Goma Xantana), Eetracto de pimentón
-- Alérgenos: Gluten y Mostaza
-- Ideal para carnes y pesacados
-- Sin colorantes, saborizantes ni conservantes artificiales.
-- Salsa mostaza americana con sabor suave
 - Apto para vegetarianos
 - Una vez abierto conservar en frigorífico
+- Alérgenos: Gluten y Mostaza
+- Sin colorantes, saborizantes ni conservantes artificiales.
+- Ideal para carnes y pesacados
+- Ingredientes: agua, semillas de MOSTAZA, vinagre de alcohol, vinagre de malta (de la cCEBADA), azúcar, sal, miel, especias, aromatizante, astabilizador (Goma Xantana), Eetracto de pimentón
+- Salsa mostaza americana con sabor suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
