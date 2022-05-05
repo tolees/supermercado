@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ingredientes: Ingredientes: jarabe de glucosa, azúcar, agua, gelatina, yogur en polvo (leche), acidulantes: e330, e270, gelificante: pectina, corrector de acidez: e325, aromas, agentes de recubrimiento: e901, e903, aceite vegetal (palma, coco), colorantes: ver sello; advertencia de seguridad: No es apropiado para menores de 3 años; especialidad: Vegetariano
-- FORMATO: 1 Bolsa - 1Kg
 - INFORMACIÓN NUTRICIONAL: Valor Energético 1.418KJ, Energia: 334Kcal. Grasas 0,2g, Saturadas: 0,1g. Hidratos de carbono: 77g, Azúcares: 57g. Proteínas 6g. Sal: 0,20g
+- TIPO DE PRODUCTO: Surtido de deliciosas chucherias brillo. Compuesto por ositos, coca colas, regaliz, huevo y beso de chuche, entre otras.
+- FORMATO: 1 Bolsa - 1Kg
 - Fini Golosinas es la marca líder española en la venta de caramelos de gelatina, marshmallow y regaliz. Ha hecho de la calidad, la innovación y la diversión su identidad, logrando productos únicos.
 - Alérgenos: Gluten y Leche (Posible Contaminación Cruzada)
-- TIPO DE PRODUCTO: Surtido de deliciosas chucherias brillo. Compuesto por ositos, coca colas, regaliz, huevo y beso de chuche, entre otras.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
