@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Boca ancha de 8 x 8 cm para poder introducir frutas y verduras ENTERAS, como manzanas y naranjas.
-- Material libre de tóxicos BPA Free TRITAN.
-- ¡Ahora puedes hacer tus zumos de fruta y verduras en menos de 5 minutos! Extracción rápida y limpieza más fácil.
-- Tecnología COLD PRESS y EPT (Enzyme Protection Technology), máxima cantidad de nutrientes, vitaminas y enzimas en tu zumo ¡garantizado!
 - Garantía DE POR VIDA en el motor y 5 años en componentes. Incluye libro de recetas en ESPAÑOL y manual de instrucciones en inglés (español disponible en PDF).
+- Boca ancha de 8 x 8 cm para poder introducir frutas y verduras ENTERAS, como manzanas y naranjas.
+- Tecnología COLD PRESS y EPT (Enzyme Protection Technology), máxima cantidad de nutrientes, vitaminas y enzimas en tu zumo ¡garantizado!
+- ¡Ahora puedes hacer tus zumos de fruta y verduras en menos de 5 minutos! Extracción rápida y limpieza más fácil.
+- Material libre de tóxicos BPA Free TRITAN.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
