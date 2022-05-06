@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con aceite de salvado de arroz que protege de los radicales libres
+- Aceite de jojoba y almendra dulce que hidrata y mejora la salud de la piel
 - Con manteca de karité y cera de abejas para nutrir la piel y reducir los signos visibles del envejecimiento
 - Reduce las manchas y unifica el tono de la piel
-- Aceite de jojoba y almendra dulce que hidrata y mejora la salud de la piel
-- Con aceite de salvado de arroz que protege de los radicales libres
 - Hidrata y devuelve al rostro la luminosidad; para todo tipo de pieles
 
 [🛒 Visítala!!!]({{< param buyurl >}})
