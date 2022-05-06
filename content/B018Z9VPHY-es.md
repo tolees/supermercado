@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Formato:50ml
 - Libre de parabenos y Sin Alcohol
 - Aporta 24 horas de frescor
-- Testado dermatológicamente
 - Desodorante Roll-on con acción antiperspirante.
+- Testado dermatológicamente
+- Formato:50ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})
