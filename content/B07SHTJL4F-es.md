@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOM Love - Ginebra Premium - 700 ml'
-date: 2022-04-26 18:12:30
+date: 2022-05-06 11:25:29
 image: 'https://m.media-amazon.com/images/I/41hYcfZMsoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MOM'
 buyurl: 'https://www.amazon.es/dp/B07SHTJL4F/?tag=tolees-21'
 descuento: '33.46'
-average: '11.7009523809524'
+average: '11.6481818181818'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOM Rocks - Ginebra Premium - 700 ml'
-date: 2022-04-26 18:12:09
+date: 2022-05-06 11:21:11
 image: 'https://m.media-amazon.com/images/I/41F-CRFCk3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MOM'
 buyurl: 'https://www.amazon.es/dp/B082VSRFXC/?tag=tolees-21'
 descuento: '4.01'
-average: '11.1155555555556'
+average: '11.0580000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

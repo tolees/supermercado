@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aún teniendo una textura ligera, permite una alta cobertura mate.
-- Prueba la base de maquillaje de larga duración y textura ligera de la familia Infalible de LOréal París.
 - Porque no tienes que ser infalibles, tu maquillaje lo es por ti.
-- Ahora con su nueva fórmula antioxidande con VITAMICA C, que mejora la apariencia de la piel en 28 días.
 - También la protege contra la polución y contra el Sol con su SPF 25.
+- Prueba la base de maquillaje de larga duración y textura ligera de la familia Infalible de LOréal París.
+- Ahora con su nueva fórmula antioxidande con VITAMICA C, que mejora la apariencia de la piel en 28 días.
+- Aún teniendo una textura ligera, permite una alta cobertura mate.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
