@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formato de 750 ml
 - Perfuma con una agradable fragancia: Marine
 - Efecto inmediato
+- Formato de 750 ml
 - Con lejía y espuma limpiadora
 - Limpia, desinfecta, neutralizar el mal olor y dejar una agradable fragancia en su inodoro
 
