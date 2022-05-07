@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Secado rápido para tus axilas
-- Tecnología antimanchas
-- 0% alcohol
-- Desodorante Antitranspirante Duplo Rexona Men Invisible Ice 200ml 2x
 - Tecnología motionsense que se activa con el movimiento
+- Desodorante Antitranspirante Duplo Rexona Men Invisible Ice 200ml 2x
+- Tecnología antimanchas
+- Secado rápido para tus axilas
+- 0% alcohol
 - Protección antitranspirante por hasta 48 horas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
