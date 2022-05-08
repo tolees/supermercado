@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Veranza - Vino Tinto - Pack 6 botellas 75cl'
-date: 2022-04-29 20:34:03
+date: 2022-05-08 20:27:24
 image: 'https://m.media-amazon.com/images/I/51zPFokfhzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B083LZ9SKV-es Veranza - Vino Tinto - Pack 6 botellas 75cl'
 sku: 'B083LZ9SKV-es'
 tags: [ 'Alimentación y bebidas','Cervezas, vinos y licores','Vinos','Vinos tintos','tinto','veranza','vino','🇪🇸', ]
-actualPrice: 15.35 EUR
+actualPrice: 20.94 EUR
 currency: EUR
-price: 15.35
-comparePrice: 20.4 EUR
+price: 20.94
+comparePrice: 20.94 EUR
 prodname: 'Veranza - Vino Tinto - Pack 6 botellas 75cl'
 country: 'es'
 flag: '🇪🇸'
 brand: 'VERANZA'
 buyurl: 'https://www.amazon.es/dp/B083LZ9SKV/?tag=tolees-21'
-descuento: '24.75'
-average: '15.4366666666667'
+descuento: '0.00'
+average: '16.8125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nota de cata (nariz): Aroma franco e intenso; Muy frutal, del tipo frutos rojos y arándanos; Ligeros toques especiados y tostados
 - Varietales: Tempranillo y Cabernet Sauvignon
-- Nota de cata (vista): Nítido y brillante; De intenso rojo oscuro con reflejos granates
 - Temperatura óptima de servicio: 16-18 °
+- Nota de cata (vista): Nítido y brillante; De intenso rojo oscuro con reflejos granates
 - Nota de cata (boca): Vivo, de suaves taninos, muy agradable en boca; Destacan las notas a frutos del sotobosque; Suaves toques tostados. Cuerpo medio, persistente y de final agradable
+- Nota de cata (nariz): Aroma franco e intenso; Muy frutal, del tipo frutos rojos y arándanos; Ligeros toques especiados y tostados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
