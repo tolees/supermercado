@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con monodosis y cápsulas de Nescafé, Nespresso y Lavazza.
+- Está hecho de metal de color negro y plateado. Tamaño: 36 x 28 x 7,5 cm de altura.
 - Tenlo todo en su sitio.Ya no tendrás que hurgar entre los cajones de la cocina para encontrar cápsulas ocultas u olvidadas.Desde ahora puedes ahorrar espacio y mantener todo en orden con el recipiente extraíble portacápsulas para cápsulas y monodosis.
+- Compatible con monodosis y cápsulas de Nescafé, Nespresso y Lavazza.
 - Con soportes antideslizantes. Se adapta perfectamente a la encimera de la cocina o a cualquier mueble.
 - Con una cubierta superior para apoyar la cafetera, el cajón puede contener hasta 40 cápsulas y un gran número de monodosis (la cantidad depende del tamaño).
-- Está hecho de metal de color negro y plateado. Tamaño: 36 x 28 x 7,5 cm de altura.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
