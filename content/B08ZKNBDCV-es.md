@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Detergente lavadora con efecto suavizante y fragancia intensa
+- Depositar la cápsula en el tambor de la lavadora antes de la ropa
 - El recubrimiento de la cápsula se disuelve totalmente al entrar en contacto con el agua
 - Limpieza profunda; eficaz en frío (incluso a 30ºC); resultados increíbles con una sola cápsula de detergente lavadora concentrado
 - Para un resultado óptimo, combínalo con Lenor UNstoppables perlas lavadora perfumadas para la ropa
-- Detergente lavadora con efecto suavizante y fragancia intensa
-- Depositar la cápsula en el tambor de la lavadora antes de la ropa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
