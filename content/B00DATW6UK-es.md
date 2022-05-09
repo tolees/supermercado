@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Testada dermatológicamente con una equilibrada fórmula de pH
 - Gel de ducha formulado con Pro-Vitamin B5 para revitalizar tu cuerpo
+- Testada dermatológicamente con una equilibrada fórmula de pH
 - Adecuado para uso diario
 - Contiene notas de menta aromática y limón, mezcladas con madera de cedro y almizcle
 - Fórmula 3 en 1 multibeneficio: hidrata tu cuerpo, limpia tu rostro y acondiciona tu cabello
