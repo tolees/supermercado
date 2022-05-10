@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SOLIS Tomate Frito Brick - Tomate sin gluten - 350 g'
-date: 2022-05-09 14:54:57
+date: 2022-05-10 21:27:37
 image: 'https://m.media-amazon.com/images/I/51WWJQ-P+-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Solis'
 buyurl: 'https://www.amazon.es/dp/B082VV7FNC/?tag=tolees-21'
 descuento: '0.00'
-average: '0.599473684210526'
+average: '0.600769230769231'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Salsa de tomate frito Solís para la base de tus recetas favoritas: almejas a la marinera, paella o empanada de atún o acompañar tus platos de pasta, arroz, albóndigas, etc
-- Salsa de tomate frito sin aditivos ni conservantes y sin gluten
-- Tomate frito con sabor 100% natural
 - Formatos disponibles: frasco cristal; brick y lata
+- Salsa de tomate frito sin aditivos ni conservantes y sin gluten
 - Formato en brick reciclable
+- Tomate frito con sabor 100% natural
 - Tomates de cultivo local procedentes de las Vegas del Guadiana (Extremadura)
+- Salsa de tomate frito Solís para la base de tus recetas favoritas: almejas a la marinera, paella o empanada de atún o acompañar tus platos de pasta, arroz, albóndigas, etc
 
 [🛒 Visítala!!!]({{< param buyurl >}})
