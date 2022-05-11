@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sutilmente dulce con un ligero toque amargo, muy sedoso de paso fácil, ligero y buen recuerdo final, que lo hace inimitable por su sabor único y exquisito
-- Color rojo rubí con matices de color teja, sus inconfundibles aromas y sabor a base de hierbas aperitivas, estimula y refresca
 - Elaborado con la perfecta combinación de hierbas aromáticas totalmente naturales, con una maceración marcada y elegante, ligeramente balsámico
+- Color rojo rubí con matices de color teja, sus inconfundibles aromas y sabor a base de hierbas aperitivas, estimula y refresca
+- Sutilmente dulce con un ligero toque amargo, muy sedoso de paso fácil, ligero y buen recuerdo final, que lo hace inimitable por su sabor único y exquisito
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
