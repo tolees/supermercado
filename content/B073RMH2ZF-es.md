@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Whisky nacional envejecido durante ocho años, de color ámbar dorado y aspecto ligero
-- La calidad de las materias primas y su envejecimiento durante 8 años en barricas de roble americano, le confieren un sabor suave y redondo que lo convierte en un producto 100 % español creado para los amantes del buen whisky
-- Es ideal para disfrutar en buena compañía, solo o con ginger ale y una rodaja de naranja. Si lo bebes solo, siempre en vaso bajo y mucho hielo
 - En nariz percibimos intensos aromas florales, notas de especias, ahumados, hierba fresca, toques de miel y brezo
 - En paladar es suave y cremoso, se percibe la turba con vainilla, mazapán, manzana y cítricos; tiene un final agridulce, largo y suave
+- La calidad de las materias primas y su envejecimiento durante 8 años en barricas de roble americano, le confieren un sabor suave y redondo que lo convierte en un producto 100 % español creado para los amantes del buen whisky
+- Es ideal para disfrutar en buena compañía, solo o con ginger ale y una rodaja de naranja. Si lo bebes solo, siempre en vaso bajo y mucho hielo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
