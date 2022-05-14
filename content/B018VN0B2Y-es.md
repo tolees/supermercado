@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Proteger de la luz solar y de olores agresivos
-- Conservar en lugar limpio, fresco y seco
 - No congelar
+- Conservar en lugar limpio, fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
