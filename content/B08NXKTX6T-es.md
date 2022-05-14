@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cerveza Carlsberg Caja de 24 latas de 33cl.-Cerveza Pilsner Lager'
-date: 2022-05-13 14:59:25
+date: 2022-05-14 17:27:36
 image: 'https://m.media-amazon.com/images/I/41G6q37wi+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
