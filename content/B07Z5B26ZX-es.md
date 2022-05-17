@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- auténticas partículas de oro
 - manteca de karité, coco, extracto de rosa rugosa
-- Cremosidad y suavidad
 - otorga a la piel un delicado brillo junto a la increíble suavidad en su limpieza
+- auténticas partículas de oro
+- Cremosidad y suavidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

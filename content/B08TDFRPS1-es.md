@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alérgenos: leche
-- Conservar en un lugar fresco y seco. Una vez abierto conservar refrigerado y consumir antes de 48h
 - Leche parcialmente desnatada (0.9% materia grasa) (88%), puré de fresa (5%), azúcar moreno de caña integral (2.6%), aroma natural. Sin Gluten
+- Alérgenos: leche
 - España
+- Conservar en un lugar fresco y seco. Una vez abierto conservar refrigerado y consumir antes de 48h
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
