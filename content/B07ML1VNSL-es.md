@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GIFT READY: We package our product in a gift ready item taking trouble of choosing and appropriate gift for family or friend. We even remove the headaches of repackaging it for most part, The best gift for Valentines Day, Christmas, Mothers Day, Birthday, Family day, Party, etc
-- PLEASANT ENVIRONMENT: The essential oils when used through oil diffusers fills your space with pleasant fragrance be it your office, yoga room or your home. There is no better feeling than walking into or living a home that smells welcoming
 - SATISFACTION GUARANTEED: We thrive in building a strong customer base based on trust and satisfaction. If for any reason you are not happy with the product we offer free exchange or refund
-- VARIETY COLLECTION: The bundle of 8 bottles caries a carefully chosen scents of Frankincense, Lavender, Tea Tree, Sweet Orange, Peppermint, Cinnamon, Pine needle, Rosemary . These essential oils are known to passively address various ailments than just fragrance
+- PLEASANT ENVIRONMENT: The essential oils when used through oil diffusers fills your space with pleasant fragrance be it your office, yoga room or your home. There is no better feeling than walking into or living a home that smells welcoming
 - ORGANIC & NATURAL: These essential oils are made of natural plants and as organic and organic product can get. Each of these oils have essential properties of upliftment, euphoric,soothing,refreshing, stimulating the mind and body
+- VARIETY COLLECTION: The bundle of 8 bottles caries a carefully chosen scents of Frankincense, Lavender, Tea Tree, Sweet Orange, Peppermint, Cinnamon, Pine needle, Rosemary . These essential oils are known to passively address various ailments than just fragrance
+- GIFT READY: We package our product in a gift ready item taking trouble of choosing and appropriate gift for family or friend. We even remove the headaches of repackaging it for most part, The best gift for Valentines Day, Christmas, Mothers Day, Birthday, Family day, Party, etc
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

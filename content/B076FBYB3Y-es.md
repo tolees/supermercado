@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservación y esterilización natural al baño María
-- No incluye aceite de palma, almidón, ni sal añadida. Tampoco conservantes ni colorantes
-- Alimento a base de verduras, pollo y arroz para bebés a partir de 6 meses
 - Descubre la amplia gama de Hero Solo: ingredientes ECO y nada más
+- Alimento a base de verduras, pollo y arroz para bebés a partir de 6 meses
+- No incluye aceite de palma, almidón, ni sal añadida. Tampoco conservantes ni colorantes
 - Elaborado con ingredientes 100% naturales de la mejor calidad, tal y como lo harías tú en casa
+- Conservación y esterilización natural al baño María
 
 [🛒 Aquí!!!]({{< param buyurl >}})

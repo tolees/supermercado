@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: Wella
 - Tratamiento capilar Peluquería unisex
+- Marca: Wella
 - Tratamiento capilar Wella
 
 [🛒 Comprar!!!]({{< param buyurl >}})
