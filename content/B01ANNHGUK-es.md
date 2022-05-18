@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacional Desde 1849 Mini Cookies  Chocolate  120 Gramos'
-date: 2022-05-15 17:43:08
+date: 2022-05-18 09:51:02
 image: 'https://m.media-amazon.com/images/I/51Di0iKHQsS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nacional Desde 1849'
 buyurl: 'https://www.amazon.es/dp/B01ANNHGUK/?tag=tolees-21'
 descuento: '0.00'
-average: '0.99'
+average: '1.03285714285714'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- País de origen: Portugal
+- Con pepitas de chocolate
 - Marca: Nacional Desde 1849
 - Formato mini
-- Con pepitas de chocolate
-- País de origen: Portugal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
