@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gin Puerto de Indias - Edición Limitada San Valentín - Gin de Fresa Premium - Ginebra Sabor Fresa Premium - Ginebra Strawberry - 70 cl - 37.5%'
-date: 2022-05-17 09:03:23
+date: 2022-05-18 16:31:31
 image: 'https://m.media-amazon.com/images/I/419h3LN8y1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Puerto de Indias'
 buyurl: 'https://www.amazon.es/dp/B08TNX3FDN/?tag=tolees-21'
 descuento: '15.10'
-average: '14.3845454545454'
+average: '14.3239130434782'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sabor: Ginebra de fresas naturales, con un sabor suave y dulce
+- En nariz: Inconfundible aroma a fresas naturales de Huelva
 - La botella de Puerto de Indias celebra el amor con esta edición especial Love Edition
 - A la vista: Color brillante salmón
-- En nariz: Inconfundible aroma a fresas naturales de Huelva
+- Sabor: Ginebra de fresas naturales, con un sabor suave y dulce
 - Nota de cata: inconfundible aroma a fresas naturales con amplios matices de fresa y enebro con ligeros toques cítricos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
