@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de aperitivo de maíz frito con sabor a barbacoa
-- Conservar en lugar fresco y seco
 - Bolsa de 115 g
+- Conservar en lugar fresco y seco
 - Envasado atmósfera protectora
+- Producto de aperitivo de maíz frito con sabor a barbacoa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
