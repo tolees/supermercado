@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fortalece el esmalte
 - Elimina eficazmente la placa bacteriana
 - Proporciona aliento fresco
+- Fortalece el esmalte
 - Ayuda a combatir las caries
 - Enjuague bucal con flúor y triple acción
 
