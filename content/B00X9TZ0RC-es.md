@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'GARNIER DELIAL Sensitive Advanced - Leche Solar para Pieles Claras  Sensibles e Intolerantes al Sol  IP50+  Multicolor - 300 ml'
-date: 2022-05-17 11:16:15
-image: 'https://m.media-amazon.com/images/I/31153wwv0vL._SL500_._SL400_.jpg'
+date: 2022-05-22 14:05:43
+image: 'https://m.media-amazon.com/images/I/411CxXOcIgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00X9TZ0RC-es GARNIER DELIAL Sensitive Advanced - Leche Solar para...'
 sku: 'B00X9TZ0RC-es'
 tags: [ 'Belleza','Filtros solares','Filtros solares corporales','Productos para el cuidado de la piel','Protectores solares y bronceado','garnier','🇪🇸', ]
-actualPrice: 10.39 EUR
+actualPrice: 8.79 EUR
 currency: EUR
-price: 10.39
+price: 8.79
 comparePrice: 14.94 EUR
 prodname: 'GARNIER DELIAL Sensitive Advanced - Leche Solar para Pieles Claras  Sensibles e Intolerantes al Sol  IP50+  Multicolor - 300 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Garnier'
 buyurl: 'https://www.amazon.es/dp/B00X9TZ0RC/?tag=tolees-21'
-descuento: '30.46'
-average: '9.62884615384614'
+descuento: '41.16'
+average: '9.61301886792451'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
