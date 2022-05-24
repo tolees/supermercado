@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tamaño 6 cm
+- Juego de 6 tazas de café con platillos de 90 cc.
 - Estilo rústico italiano.
 - Gres
 - Material resistente.
 - Apto para lavavajillas y microondas.
-- Juego de 6 tazas de café con platillos de 90 cc.
+- Tamaño 6 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
