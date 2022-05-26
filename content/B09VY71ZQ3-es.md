@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contribuye al buen funcionamiento del sistema inmunitario gracias a su contenido en vitamina C. Además contiene vitaminas del grupo B, que ayudan a disminuir el cansancio y la fatiga
 - Complemento alimenticio completo con vitaminas y minerales, especialmente formulado para satisfacer las necesidades nutricionales de las mujeres
+- Contribuye al buen funcionamiento del sistema inmunitario gracias a su contenido en vitamina C. Además contiene vitaminas del grupo B, que ayudan a disminuir el cansancio y la fatiga
 - Envase de 180 comprimidos para 6 meses de uso. Los complementos alimenticios no deben ser usados como sustitutos de una dieta equilibrada
 - Multivitaminas sin gluten, lactosa, azúcar y fructosa
 - Contiene zinc, que ayuda al mantenimiento de la piel, el cabello y las uñas en condiciones normales. También contiene calcio, que ayuda al mantenimiento de los huesos en condiciones normales

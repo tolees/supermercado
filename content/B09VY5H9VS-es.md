@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene vitaminas del tipo B y hierro, que ayudan a disminuir el cansancio y la fatiga, y vitamina C y zinc, que contribuyen al funcionamiento normal del sistema inmunitario
-- Complemento alimenticio completo, con vitaminas y minerales, especialmente formulado para ayudar a hacer frente a los cambios en las necesidades nutricionales tras la menopausia
 - Multivitaminas sin gluten, lactosa, azúcar y fructosa
 - Contiene calcio para el mantenimiento de los huesos en condiciones normales
 - Envase de 180 comprimidos para 6 mes de uso. Los complementos alimenticios no deben ser usados como sustitutos de una dieta equilibrada
+- Complemento alimenticio completo, con vitaminas y minerales, especialmente formulado para ayudar a hacer frente a los cambios en las necesidades nutricionales tras la menopausia
+- Contiene vitaminas del tipo B y hierro, que ayudan a disminuir el cansancio y la fatiga, y vitamina C y zinc, que contribuyen al funcionamiento normal del sistema inmunitario
 
 [🛒 Comprar!!!]({{< param buyurl >}})

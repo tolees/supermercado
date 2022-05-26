@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BENEFICIOS ANTI INFLAMATORIOS DE la CÚRCUMA - la combinación con Piperina procedente de la pimienta negra contribuye a aumentar la absorción de la cúrcuma y su actividad antiinflamatoria debido a que inhibe la formación de prostaglandinas.
-- FITOTERAPIA: SALUD a TRAVÉS DE LAS PLANTAS - Arkocápsulas es la gama especialista de Arkopharma en fitoterapia, convirtiéndose en el mejor aliado de la medicina natural gracias al empleo del Totum de la planta: mayor sinergia de acción y biodisponibilidad de la planta.
-- Información de alérgenos: mustard free
-- PROPIEDADES PARA TRATAR DOLORES ARTICULARES - Útil para personas con dolores debido a inflamación como artritis, esguinces, túnel carpiano e incluso dolor menstrual.
-- PRODUCTOS 100% NATURALES Y BIO - Sin solventes, pesticidas, conservantes, colorantes, dióxido de titanio, alergenos, purificación/ionización, ni silicio. Con excipientes 100% naturales y certificación BIO.
 - AYUDA a la FLEXIBILIDAD ARTICULAR - Arkocápsulas Cúrcuma Bio a base de Cúrcuma y Pimienta Negra contribuye a la flexibilidad y el bienestar articular. la Cúrcuma también posee una importante acción antioxidante.
+- BENEFICIOS ANTI INFLAMATORIOS DE la CÚRCUMA - la combinación con Piperina procedente de la pimienta negra contribuye a aumentar la absorción de la cúrcuma y su actividad antiinflamatoria debido a que inhibe la formación de prostaglandinas.
+- PROPIEDADES PARA TRATAR DOLORES ARTICULARES - Útil para personas con dolores debido a inflamación como artritis, esguinces, túnel carpiano e incluso dolor menstrual.
+- Información de alérgenos: mustard free
+- PRODUCTOS 100% NATURALES Y BIO - Sin solventes, pesticidas, conservantes, colorantes, dióxido de titanio, alergenos, purificación/ionización, ni silicio. Con excipientes 100% naturales y certificación BIO.
+- FITOTERAPIA: SALUD a TRAVÉS DE LAS PLANTAS - Arkocápsulas es la gama especialista de Arkopharma en fitoterapia, convirtiéndose en el mejor aliado de la medicina natural gracias al empleo del Totum de la planta: mayor sinergia de acción y biodisponibilidad de la planta.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Son adecuados para personalizar con los toppings que te gustan para disfrutar cómo te apetezca (si se añaden toppings dejan de tener validez los valores nutricionales)
-- Muy fáciles de preparar: sólo hay que mezclar 200 ml de leche desnatada con 4 dosificadores rasos (35g) y agitar o remover durante 30 segundos
-- Aportan todos los nutrientes de una comida, para cumplir tu objetivo de manera nutricionalmente responsable
-- Smoothies sustitutivos de avena, sabor manzana, que ayudan a perder peso de manera eficaz y controlar tu línea de manera fácil y segura
 - Cada Smoothie aporta 202 kcal
+- Muy fáciles de preparar: sólo hay que mezclar 200 ml de leche desnatada con 4 dosificadores rasos (35g) y agitar o remover durante 30 segundos
+- Smoothies sustitutivos de avena, sabor manzana, que ayudan a perder peso de manera eficaz y controlar tu línea de manera fácil y segura
+- Aportan todos los nutrientes de una comida, para cumplir tu objetivo de manera nutricionalmente responsable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

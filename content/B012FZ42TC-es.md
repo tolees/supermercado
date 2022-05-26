@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tienen una alta resistencia a la rotura
 - El paquete contiene cuatro unidades
-- Copas para el vino hechas de cristal
 - Son aptas para lavavajillas
+- Copas para el vino hechas de cristal
+- Tienen una alta resistencia a la rotura
 
 [🛒 Visítala!!!]({{< param buyurl >}})

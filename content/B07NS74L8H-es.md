@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esta crema de BiManán sustituye la proteína animal por la vegetal para todas aquellas personas que quieran incrementar la proteína vegetal en su día a día
-- Cremas sustitutivas de sabor avena con cacao y pepitas de chocolate, que ayudan a perder peso de manera eficaz y controlar tu línea de manera fácil y segura
-- 1 crema equivale a una comida y proporciona 204 kcal
-- Alto contenido en proteínas vegetales y fibra; Sin Gluten
 - Elaboradas con proteínas de origen vegetal, con cacao y pepitas de chocolate
+- Esta crema de BiManán sustituye la proteína animal por la vegetal para todas aquellas personas que quieran incrementar la proteína vegetal en su día a día
+- Alto contenido en proteínas vegetales y fibra; Sin Gluten
+- 1 crema equivale a una comida y proporciona 204 kcal
+- Cremas sustitutivas de sabor avena con cacao y pepitas de chocolate, que ayudan a perder peso de manera eficaz y controlar tu línea de manera fácil y segura
 
 [🛒 Aquí!!!]({{< param buyurl >}})

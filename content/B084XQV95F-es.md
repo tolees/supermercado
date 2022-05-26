@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control de los Sofocos - Ayuda a reducir los sofocos, los sudores nocturnos y los cambios de humor
-- Contiene una exclusiva mezcla de extractos de orifen natural, vitaminas y minerales
-- NO CONTIENE: estrógenos, soja o conservantes
 - Hinchazon abdominal - Ayuda a quemar la grasa y a aliviar la hinchazón abdominal
 - Apto para un uso prolongado
+- Control de los Sofocos - Ayuda a reducir los sofocos, los sudores nocturnos y los cambios de humor
+- NO CONTIENE: estrógenos, soja o conservantes
+- Contiene una exclusiva mezcla de extractos de orifen natural, vitaminas y minerales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
