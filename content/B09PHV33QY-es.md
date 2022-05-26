@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Babaria - Desodorante rollon 0% sales aluminio - Desodorante pieles sensibles - Antitranspirante - 50 ml'
-date: 2022-05-24 21:09:29
+date: 2022-05-26 19:36:10
 image: 'https://m.media-amazon.com/images/I/21bsMT4ktDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Antitranspirante, 0% Alcohol.
 - Aplicar sobre las axilas, una vez estén limpias y secas. Interrumpir el uso si aparecen irritaciones. Dejar secar antes de vestirse.
+- Antitranspirante, 0% Alcohol.
 - Formulado sin sales de aluminio ni alcohol, especialmente indicado para pieles sensibles.
 - Babaria desodorante pieles sensibles.
 - Protege la sudoración eficazmente durante 48h.
