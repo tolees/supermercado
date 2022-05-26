@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Coca-Cola Light Sin cafeína - Refresco de cola sin azúcar  sin calorías - lata 330 ml'
-date: 2022-05-25 05:55:43
+date: 2022-05-26 07:05:55
 image: 'https://m.media-amazon.com/images/I/41C9o9M5tFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Coca-Cola'
 buyurl: 'https://www.amazon.es/dp/B00XA0FP84/?tag=tolees-21'
 descuento: '10.77'
-average: '0.676666666666667'
+average: '0.6525'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Refresco sin cafeína
 - Muy refrescante y con el sabor inconfundible de Coca-Cola Light
-- Refresco sin azúcar y sin calorías
-- Envase 100% reciclable (contenedor amarillo)
 - Coca-Cola lata 330 ml adecuado para disfrutarla en cualquier momento, lugar y ocasión
 - Toma tu refresco frío con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
+- Refresco sin cafeína
+- Refresco sin azúcar y sin calorías
+- Envase 100% reciclable (contenedor amarillo)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
