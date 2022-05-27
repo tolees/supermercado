@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con aloe vera y manteca de karité calmantes.Dermatológicamente testado
-- Este producto no es adecuado para personas diabéticas o con problemas circulatorios
 - 3 tubos de 75 ml
 - Proporciona hidratación y valiosas sustancias para el cuidado de la piel de los pies
-- Cuidado intensivo
+- Con aloe vera y manteca de karité calmantes.Dermatológicamente testado
 - Contiene una mezcla de alfa hidroxiácidos (ácido cítrico, ácido tartárico y ácido láctico) combinada con ácido salicílico
+- Este producto no es adecuado para personas diabéticas o con problemas circulatorios
+- Cuidado intensivo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
