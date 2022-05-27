@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Confitura extra de fresa con un sabor natural e intenso de calidad Hero
-- Elaborada con solo 4 ingredientes base; fresas de nuestras huertas, azúcar sin glucosa, pectina natural de fruta y zumo de limón sin ácido cítrico
-- Sin gluten, vegano, sin conservantes y sin colorantes
-- Conservación y esterilización natural al baño María
 - Descubre las deliciosas confituras elaboradas con las mejores frutas de calidad Hero
+- Elaborada con solo 4 ingredientes base; fresas de nuestras huertas, azúcar sin glucosa, pectina natural de fruta y zumo de limón sin ácido cítrico
+- Confitura extra de fresa con un sabor natural e intenso de calidad Hero
+- Conservación y esterilización natural al baño María
+- Sin gluten, vegano, sin conservantes y sin colorantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

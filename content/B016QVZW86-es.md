@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ayuda a reparar la piel, incluso después del depilado
-- Contiene 1/4 de crema hidratante
-- 48 horas de protección
 - Con aceite nutritivo 100% natural
-- Testado dermatológicamente
+- Contiene 1/4 de crema hidratante
 - Globalmente Dove no testa en animales en ningún lugar del mundo
+- Testado dermatológicamente
+- Ayuda a reparar la piel, incluso después del depilado
+- 48 horas de protección
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
