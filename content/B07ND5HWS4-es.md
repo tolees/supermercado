@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño moderno y limpio
-- Composición fresca y seductora de composición fragante
 - Accesorio de fragancia asequible para los días de verano, primavera y otoño
+- Composición fresca y seductora de composición fragante
+- Diseño moderno y limpio
 - Es una ducha directa con agua, polvo, flores y acordes aromáticos cítricos en primer plano
 - Fue compilado por la perfumista Patricia Bilodeau
 
