@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elena Detergente para lavadora  adecuado para ropa blanca y de color  formato polvo - 135 dosis'
-date: 2022-05-26 18:40:19
+date: 2022-05-29 15:37:10
 image: 'https://m.media-amazon.com/images/I/510SkCg6zsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Elena'
 buyurl: 'https://www.amazon.es/dp/B00XAEBZP2/?tag=tolees-21'
 descuento: '36.94'
-average: '14.2555172413793'
+average: '14.1942045454545'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Poder antimanchas testado en 101 manchas
 - Elena, la eficacia que sorprende
-- Detergente para la lavadora en formato polvo
 - Apto para ropa blanca y de color
+- Detergente para la lavadora en formato polvo
+- Poder antimanchas testado en 101 manchas
 - Eficaz en agua fría y ciclos cortos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
