@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aplicación: Seguir el contorno de los labios con el aplicador para dibujar la boca, luego aplicar la textura generosamente en el centro de los labios
-- Pintalabios líquido mate de larga duración, color concentrado de pigmentos de alta intensidad para un resultado ultrasaturado
-- Contenido: 1 x tinta de labios líquida mate de LOréal Paris, tinta: I rebelde, berenjena (104), capacidad de 7 ml
-- Resultados: labios de color intenso y acabado mate
 - Aplicador caligráfico con caricia extremadamente precisa y flexible, contorno de labios dibujado en una sola pasada, película ultrafina y textura de segunda piel, comodidad garantizada todo el día
+- Pintalabios líquido mate de larga duración, color concentrado de pigmentos de alta intensidad para un resultado ultrasaturado
+- Resultados: labios de color intenso y acabado mate
+- Contenido: 1 x tinta de labios líquida mate de LOréal Paris, tinta: I rebelde, berenjena (104), capacidad de 7 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
