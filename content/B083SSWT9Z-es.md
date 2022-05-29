@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids CLASSIC BATWING INFANT HAT  BODYSUIT  BOOTIE SET 3PC 0019 Canastilla para bebés y niños pequeños Fairy Tale para Bebé-Niñas'
-date: 2022-05-21 19:42:21
+date: 2022-05-29 07:04:27
 image: 'https://m.media-amazon.com/images/I/318pj5MnScL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
