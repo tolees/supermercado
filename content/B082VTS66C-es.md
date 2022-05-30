@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo - Funky Mix - Surtido de golosinas - 100 g'
-date: 2022-05-24 21:05:22
+date: 2022-05-30 21:23:14
 image: 'https://m.media-amazon.com/images/I/51dXY8+QzqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B082VTS66C/?tag=tolees-21'
 descuento: '6.54'
-average: '0.985757575757577'
+average: '0.986176470588237'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin colorantes y conservantes
 - Tienen varios sabores
-- Surtido de golosinas de 100 g
 - Se deben mantener en lugar fresco y seco
+- Sin colorantes y conservantes
+- Surtido de golosinas de 100 g
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
