@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ColaCao 0% Azúcares añadidos - 300g'
-date: 2022-05-29 23:01:30
+date: 2022-05-31 13:14:41
 image: 'https://m.media-amazon.com/images/I/513UjJqCrML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ColaCao'
 buyurl: 'https://www.amazon.es/dp/B003XUM5GQ/?tag=tolees-21'
 descuento: '32.95'
-average: '2.63888888888889'
+average: '2.609'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alérgenos: contiene trigo, cebada y soja. Mantener en lugar fresco y seco.
 - Con cacao natural recolectado a mano; secado al sol; tostado y prensado; mezclado de forma tradicional con el resto de ingredientes.
 - Disfruta de todo el sabor y sin azúcares añadidos en cualquier momento: desayuno, merienda, cena o como snack.
-- Con cacao certificado UTZ. Al comprar cacao UTZ, ColaCao apoya el cultivo sostenible de cacao. Los agricultores certificados por UTZ implementan mejores prácticas agrícolas, con respeto a la gente y al planeta.
 - 40 raciones en su envase de 300 gramos.
+- Alérgenos: contiene trigo, cebada y soja. Mantener en lugar fresco y seco.
+- Con cacao certificado UTZ. Al comprar cacao UTZ, ColaCao apoya el cultivo sostenible de cacao. Los agricultores certificados por UTZ implementan mejores prácticas agrícolas, con respeto a la gente y al planeta.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
