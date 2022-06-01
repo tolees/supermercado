@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Enriquecido con ingredientes que cuidan la piel
-- Pruébalo y descubrirás un suave y cremoso jabón de tocador que cuida y suaviza tus manos
 - Con más de 30 años de historia sigue siendo un placer diario
 - El clásico jabón de manos negro con espuma blanca y perfume óptimo del mercado
 - Una fragancia exclusiva y permanente, única en el mundo
+- Enriquecido con ingredientes que cuidan la piel
+- Pruébalo y descubrirás un suave y cremoso jabón de tocador que cuida y suaviza tus manos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
