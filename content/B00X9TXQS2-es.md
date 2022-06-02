@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Crema BB Sun con SPF 50 para cara y escote con un color natural que ilumina y unifica el tono
-- Previene la aparición de arrugas y manchas causadas por el sol
 - Como resultado, tu piel se verá unificada, radiante y protegida
-- Protección muy alta contra los efectos dañinos de los rayos UVA y UVB
 - Fórmula enriquecida con vitamina E, que tiene propiedades antioxidantes, y con un acabado hidratante 24 horas
+- Protección muy alta contra los efectos dañinos de los rayos UVA y UVB
+- Previene la aparición de arrugas y manchas causadas por el sol
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Limpia sus manos especialmente suavemente
-- Ayuda a mantener el contenido de humedad natural de la piel
 - Con 1/4 crema hidratante
+- Ayuda a mantener el contenido de humedad natural de la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
