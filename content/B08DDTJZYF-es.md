@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apta para todo tipo de cafeteras
-- Crema dorada y color cálido y con toques de chocolate
 - Un café rico, con sabor redondo y de gran cuerpo
-- Arábica y Robusta, tostado medio con delicada intensidad
+- Crema dorada y color cálido y con toques de chocolate
 - Con un aroma inconfundible que le da energía
+- Arábica y Robusta, tostado medio con delicada intensidad
+- Apta para todo tipo de cafeteras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
