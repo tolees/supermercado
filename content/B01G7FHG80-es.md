@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cantidad de artículos 24 Unidades
 - Especialidad vegetariana
+- Cantidad de artículos 24 Unidades
 - Country string Reino Unido
 - Una lata de 250 ml de Red Bull Sugarfree contiene 80 mg de cafeína, aproximadamente la misma cantidad que en una taza de café hecho en casa.
 - Nota. El embalaje puede variar
