@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Catunambú - Cápsulas de aluminio de café Ristretto compatibles Nespresso  20 cápsulas '
-date: 2022-05-25 15:15:28
+date: 2022-06-03 08:44:01
 image: 'https://m.media-amazon.com/images/I/418rKJ80HWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Catunambú'
 buyurl: 'https://www.amazon.es/dp/B08Z4VSFV9/?tag=tolees-21'
 descuento: '19.24'
-average: '3.45'
+average: '3.41285714285714'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes: café, intensidad 9
-- Alérgenos: sin gluten ni frutos secos
 - Cápsulas de aluminio, compatibles con máquinas nespresso(r), marca no relacionada con global coffee industries s. a.
 - producto de alta calidad
+- Alérgenos: sin gluten ni frutos secos
+- Ingredientes: café, intensidad 9
 
 [🛒 Comprar!!!]({{< param buyurl >}})
