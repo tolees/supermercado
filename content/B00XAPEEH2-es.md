@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mix de tus piezas favoritas de regaliz rojo: Ladrillos, Balla-Balla, Discos, Mega torcidas
-- Conservar en lugar fresco y seco
 - Geles dulces
+- Conservar en lugar fresco y seco
+- Mix de tus piezas favoritas de regaliz rojo: Ladrillos, Balla-Balla, Discos, Mega torcidas
 - Sin recubrimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
