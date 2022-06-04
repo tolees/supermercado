@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pelo limpio, más fuerte, brillante y fresco, visiblemente más sano
-- Para pelo normal
 - El champú Fructis Fuerza y Brillo 2-en-1 limpia, fortifica y tonifica la fibra del cabello desde la raíz, para un pelo visiblemente más fuerte y sano
 - Formulado con esencia de pomelo y vitaminas B3 y B6
+- Pelo limpio, más fuerte, brillante y fresco, visiblemente más sano
+- Para pelo normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

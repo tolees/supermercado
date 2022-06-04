@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - De hueso fino y largo y pezuña negra, nuestro jamón posee unas propiedades organolépticas únicas: a la vista su intenso color rojo-cereza con su veteado de grasa intramuscular fluida y brillante, un aroma que perdura y un bouquet incomparable al paladar.
-- Jamón de pata fina. Grasa entre dorada y rosácea de consistencia blanda y untuosa. Carne con variación de tonalidades desde rojo, con numerosas infiltraciones de grasa veteada brillante que se funde en el paladar. Su sabor es suave y delicado, ligeramente dulce en el ataque, sorprendiendo la untuosidad de su grasa fundiéndose en el paladar de forma sublime.
 - Jamón Ibérico Gran Reserva (6-7 kg) Guijuelo Salamanca Su sabor es suave y delicado, ligeramente dulce en el ataque, sorprendiendo la untuosidad de su grasa fundiéndose en el paladar de forma sublime.
 - En Pura Raza nuestros jamones destacan por su caracter noble y exquisito. Su proceso de elaboración mínima es de dos años, ya que se les deja reposar sin prisa en nuestras bodegas.
+- Jamón de pata fina. Grasa entre dorada y rosácea de consistencia blanda y untuosa. Carne con variación de tonalidades desde rojo, con numerosas infiltraciones de grasa veteada brillante que se funde en el paladar. Su sabor es suave y delicado, ligeramente dulce en el ataque, sorprendiendo la untuosidad de su grasa fundiéndose en el paladar de forma sublime.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

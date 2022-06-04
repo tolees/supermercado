@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar el producto en un lugar limpio, seco y bien ventilado
-- Cerveza tipo lager mezcla
-- Pack de 24 x 33cl
-- El producto debera servirse entre 0 y 3C para obtener sus cualidades organolepticas
 - Con zumo natural de limón
+- El producto debera servirse entre 0 y 3C para obtener sus cualidades organolepticas
+- Conservar el producto en un lugar limpio, seco y bien ventilado
+- Pack de 24 x 33cl
+- Cerveza tipo lager mezcla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
