@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- PROTEGE LA LAVADORA para obtener un funcionamiento óptimo de la máquina
+- USO: una vez al mes en un ciclo vacío sin detergente ni ropa
 - LIMPIA LAS PARTES INTERNAS de tu lavadora y elimina los residuos de suciedad y detergente
 - FÓRMULA BIODEGRADABLE, contiene ingredientes que pueden descomponerse naturalmente en componentes orgánicos o inorgánicos más pequeños
-- PROTEGE LA LAVADORA para obtener un funcionamiento óptimo de la máquina
 - ELIMINA EL MAL OLOR, dejando un aroma agradable y fresco en la lavadora
 - Colon limpialavadoras limpia y elimina los malos olores de la lavadora
-- USO: una vez al mes en un ciclo vacío sin detergente ni ropa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
