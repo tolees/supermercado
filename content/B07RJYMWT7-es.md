@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pack ahorro XXL
-- Brillo superior en tu vajilla
 - Pastillas para el lavavajillas
-- Eliminan todo tipo de residuos
 - No necesitas prelavar los platos antes de meterlos en el lavaplatos
+- Brillo superior en tu vajilla
+- Eliminan todo tipo de residuos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
