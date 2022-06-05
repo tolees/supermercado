@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sh! - H&S Nutre & Cuida Champú Anticaspa 255ml x6'
-date: 2022-06-01 17:37:27
+date: 2022-06-05 10:52:10
 image: 'https://m.media-amazon.com/images/I/51YoWCDxIFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sh!'
 buyurl: 'https://www.amazon.es/dp/B09H7MQSXP/?tag=tolees-21'
 descuento: '2.66'
-average: '13.784'
+average: '13.8083333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hasta 72 horas de protección frente a la caspa, la sequedad y el picor (caspa visible, con uso regular; picor debido a la caspa)
-- Combate la causa principal de la caspa para un pelo totalmente libre de caspa, probado clínicamente (con uso regular)
 - Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo
+- Combate la causa principal de la caspa para un pelo totalmente libre de caspa, probado clínicamente (con uso regular)
 - El champú anticaspa con lavanda Nutre & Cuida limpia a la vez que nutre el pelo y el cuero cabelludo en profundidad
+- Hasta 72 horas de protección frente a la caspa, la sequedad y el picor (caspa visible, con uso regular; picor debido a la caspa)
 - Mejor juntos. Utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito
 
 [🛒 Visítala!!!]({{< param buyurl >}})
