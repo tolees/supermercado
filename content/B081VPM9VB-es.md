@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Alc. 5,0% vol.
+- Producto de alto calidad
 - Contenido de alcohol (alc/vol): 5.0 percent_by_volume
 - Cerveza rubia, ligera y muy aromática. Con sabor y aroma a frutas, y amargor refrescante y floral
 - Ingredientes: agua, malta de cebada, cebada, lúpulo y levadura.
-- Alc. 5,0% vol.
-- Producto de alto calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
