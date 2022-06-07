@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- De la marca Sotya
 - Disminuye los niveles de colesterol.
-- Favorece la circulación sanguínea y la diuresis.
 - Capaz de absorber la grasa ingerida.
 - Protege el corazón y las arterias.
-- De la marca Sotya
+- Favorece la circulación sanguínea y la diuresis.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
