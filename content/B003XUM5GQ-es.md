@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de todo el sabor y sin azúcares añadidos en cualquier momento: desayuno, merienda, cena o como snack.
-- 40 raciones en su envase de 300 gramos.
-- Con cacao natural recolectado a mano; secado al sol; tostado y prensado; mezclado de forma tradicional con el resto de ingredientes.
 - Con cacao certificado UTZ. Al comprar cacao UTZ, ColaCao apoya el cultivo sostenible de cacao. Los agricultores certificados por UTZ implementan mejores prácticas agrícolas, con respeto a la gente y al planeta.
 - Alérgenos: contiene trigo, cebada y soja. Mantener en lugar fresco y seco.
+- Con cacao natural recolectado a mano; secado al sol; tostado y prensado; mezclado de forma tradicional con el resto de ingredientes.
+- 40 raciones en su envase de 300 gramos.
+- Disfruta de todo el sabor y sin azúcares añadidos en cualquier momento: desayuno, merienda, cena o como snack.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
