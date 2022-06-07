@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un equilibrio perfecto entre cuerpo y notas especiadas. El café ideal para cualquier hora del día
-- MIRAR Crema ámbar y color oscuro - AROMA Notas especiadas - SABOR Redondo y envolvente
-- Crema e Gusto Classico es un blend suave y envolvente de la excelente variedad Arábica de Brasil y la Robusta del sudeste asiático
 - Arábica y Robusta, tostado oscuro, media intensidad (7)
+- Un equilibrio perfecto entre cuerpo y notas especiadas. El café ideal para cualquier hora del día
+- Crema e Gusto Classico es un blend suave y envolvente de la excelente variedad Arábica de Brasil y la Robusta del sudeste asiático
+- MIRAR Crema ámbar y color oscuro - AROMA Notas especiadas - SABOR Redondo y envolvente
 - Lavazza café molido Crema e Gusto Classico, 250 g
 
 [🛒 Aquí!!!]({{< param buyurl >}})
