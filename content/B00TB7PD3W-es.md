@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en lugar fresco y seco
-- Fórmula mejorada; disfruta aún más de la crujiente galleta de trigo y la crema de chocolate
-- alérgenos: soja, huevos, leche, frutos de cáscara, harina de trigo.
-- Galleta tipo sándwich rellena de crema de chocolate con leche
 - Práctico sistema de abre y cierra, que ayuda a una mejor conservación
 - Información de alérgenos: cereals_containing_gluten
+- alérgenos: soja, huevos, leche, frutos de cáscara, harina de trigo.
+- Galleta tipo sándwich rellena de crema de chocolate con leche
+- Fórmula mejorada; disfruta aún más de la crujiente galleta de trigo y la crema de chocolate
+- Conservar en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

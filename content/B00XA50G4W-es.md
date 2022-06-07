@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Conservar en lugar seco
-- Proteger del calor
-- Contiene Gluten o presencia de cereales que contienen gluten
 - Crujientes galletas doradas
+- Contiene Gluten o presencia de cereales que contienen gluten
+- Proteger del calor
 
 [🛒 Comprar!!!]({{< param buyurl >}})

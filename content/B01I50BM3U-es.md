@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fabricado en Italia.
 - Galletas con confeti de manzana.
 - Fabricante: Barilla G y R. Fratelli.
-- Fabricado en Italia.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

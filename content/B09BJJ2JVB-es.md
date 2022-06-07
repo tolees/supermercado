@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ✔️ CALIDAD SUPREMA | Pieza redonda y fina de color tostado y con trocitos de chocolate por encima.
-- 📅 FECHA DE CONSUMO PREFERENTE y condiciones de CONSERVACIÓN | 12 meses. Almacenar bien cerrado en lugar fresco, seco y alejado de los rayos directos del sol y otras fuentes de calor.
+- 🇪🇸 PRODUCIDOS EN ESPAÑA | Estos dulces han sido producidos en España.
 - Contiene 80 galletas.
 - 🍪 Galleta chokis con chips de chocolate, muy crujientes y con un delicioso sabor a chocolate
-- 🇪🇸 PRODUCIDOS EN ESPAÑA | Estos dulces han sido producidos en España.
+- 📅 FECHA DE CONSUMO PREFERENTE y condiciones de CONSERVACIÓN | 12 meses. Almacenar bien cerrado en lugar fresco, seco y alejado de los rayos directos del sol y otras fuentes de calor.
+- ✔️ CALIDAD SUPREMA | Pieza redonda y fina de color tostado y con trocitos de chocolate por encima.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

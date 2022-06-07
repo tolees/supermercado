@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estas deliciosas galletas son una fuente de fibra, el mejor desayuno para los más pequeños.
 - Fabricado por Galletas Gullón.
 - Las mini galletas Dibus Sharkies de Gullón, con forma de tiburón y sabor a chocolate.
-- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
+- Estas deliciosas galletas son una fuente de fibra, el mejor desayuno para los más pequeños.
 - No contienen lactosa ni proteínas de leche, tampoco huevo ni frutos secos.
+- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

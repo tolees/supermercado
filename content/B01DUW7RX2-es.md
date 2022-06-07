@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alérgenos: contiene gluten, leche y soja
+- Las clásicas galletas integrales Marie Lu en su formato original, un desayuno saludable y delicioso para toda la familia
 - Fuente de fibra con un 66% de cereales, para un desayuno saludable
 - Conservar en lugar fresco y seco
-- Las clásicas galletas integrales Marie Lu en su formato original, un desayuno saludable y delicioso para toda la familia
+- Alérgenos: contiene gluten, leche y soja
 - Tus galletas de siempre ahora aún mejor, gracias a nuestro Compromiso Harmony
 
 [🛒 Visítala!!!]({{< param buyurl >}})

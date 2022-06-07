@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alérgenos: huevos, leche, frutos de cáscara, harina de trigo
-- Conservar en lugar fresco y seco
 - Su textura crujiente e inimitable sabor a chocolate con leche son de otra galaxia
+- Alérgenos: huevos, leche, frutos de cáscara, harina de trigo
 - Galletas con delicioso chocolate con leche en forma de estrella
 - Práctico formato de 6 paquetes para llevar, ideal para la merienda
+- Conservar en lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Deliciosa mezcla de cereales, premiada con la distinción Sabor del Año 2018
-- Las clásicas galletas Digestive en su versión original, con más de un 68% de cereales
-- Alérgenos: contiene gluten, leche y soja
 - Conservar en lugar fresco y seco
 - Fuente de fibra con aceite de girasol alto oleico, para un desayuno saludable
+- Alérgenos: contiene gluten, leche y soja
+- Las clásicas galletas Digestive en su versión original, con más de un 68% de cereales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

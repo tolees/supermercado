@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Combina la galleta crujiente con la suavidad de la crema de chocolate
 - Conservar en lugar fresco y seco
-- Formato de 3 paquetes con un práctico sistema de abre y cierra, que ayuda a una mejor conservación
 - Alérgenos: soja, huevos, leche, frutos de cáscara, harina de trigo
+- Combina la galleta crujiente con la suavidad de la crema de chocolate
+- Formato de 3 paquetes con un práctico sistema de abre y cierra, que ayuda a una mejor conservación
 - Las clásicas galletas Príncipe con el doble de relleno de chocolate con leche
 
 [🛒 Comprar!!!]({{< param buyurl >}})

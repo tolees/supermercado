@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formato en bolsa de 600 g para que toda la familia pueda disfrutar de su dulce e irresistible sabor
-- Galletas de desayuno con chocolate y 5 cereales, adecuadas para el desayuno y la merienda
 - Enriquecidas con vitaminas y minerales, una opción saludable de alimentación
 - Conservar en lugar fresco y seco
+- Galletas de desayuno con chocolate y 5 cereales, adecuadas para el desayuno y la merienda
 - Alérgenos: huevos, leche, harina de trigo, soja
+- Formato en bolsa de 600 g para que toda la familia pueda disfrutar de su dulce e irresistible sabor
 
 [🛒 Visítala!!!]({{< param buyurl >}})
