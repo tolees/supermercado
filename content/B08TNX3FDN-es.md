@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En nariz: Inconfundible aroma a fresas naturales de Huelva
-- Sabor: Ginebra de fresas naturales, con un sabor suave y dulce
 - A la vista: Color brillante salmón
-- La botella de Puerto de Indias celebra el amor con esta edición especial Love Edition
+- Sabor: Ginebra de fresas naturales, con un sabor suave y dulce
 - Nota de cata: inconfundible aroma a fresas naturales con amplios matices de fresa y enebro con ligeros toques cítricos
+- En nariz: Inconfundible aroma a fresas naturales de Huelva
+- La botella de Puerto de Indias celebra el amor con esta edición especial Love Edition
 
 [🛒 Aquí!!!]({{< param buyurl >}})
