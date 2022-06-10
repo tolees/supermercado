@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Magno Marine te envuelve con una fragancia tonificante y refrescante que evoca las sensaciones del mar
-- Aplicar sobre la piel previamente mojada y masajear con las manos o con la ayuda de una esponja; aclarar con abundante agua
-- Disfruta del frescor del mar durante cualquier época del año
-- Un gel de ducha con un agradable frescor que gracias a su rica fórmula con extracto de Ginkgo regenera y revitaliza la piel dejándola suave
 - Con una base de ámbar, notas frutales y florales, proporciona una sensación de frescor marino
+- Aplicar sobre la piel previamente mojada y masajear con las manos o con la ayuda de una esponja; aclarar con abundante agua
+- Magno Marine te envuelve con una fragancia tonificante y refrescante que evoca las sensaciones del mar
+- Un gel de ducha con un agradable frescor que gracias a su rica fórmula con extracto de Ginkgo regenera y revitaliza la piel dejándola suave
+- Disfruta del frescor del mar durante cualquier época del año
 
 [🛒 Comprar!!!]({{< param buyurl >}})

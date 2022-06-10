@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TIERRA DE SABOR harina de fuerza zamorana paquete 1 Kg'
-date: 2022-06-05 10:20:57
+date: 2022-06-10 01:16:05
 image: 'https://m.media-amazon.com/images/I/51EEZy7rkQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

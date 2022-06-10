@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hankey Bannister Blended Scotch Whisky - 700 ml'
-date: 2022-06-01 13:33:50
+date: 2022-06-10 01:44:59
 image: 'https://m.media-amazon.com/images/I/31DL7dC6O5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hankey Bannister'
 buyurl: 'https://www.amazon.es/dp/B006WOT74S/?tag=tolees-21'
 descuento: '31.13'
-average: '12.2833333333333'
+average: '11.95'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PALADAR: una mezcla ligera, sutil, limpia, dulce y especiada con tonos melosos y un final agradable y duradero.
-- NARIZ: un aroma ligero con un sabor aromático que le da profundidad.
 - COLOR: caramelo cremoso con un tono dorado.
+- NARIZ: un aroma ligero con un sabor aromático que le da profundidad.
+- PALADAR: una mezcla ligera, sutil, limpia, dulce y especiada con tonos melosos y un final agradable y duradero.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

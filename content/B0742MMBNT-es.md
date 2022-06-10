@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alérgenos: contiene gluten, leche y soja
 - Textura crujiente irresistible, adecuada para disfrutar en meriendas o desayunos
+- Alérgenos: contiene gluten, leche y soja
 - Conservar en lugar fresco y seco. Proteger del calor
-- Chips ahoy originales, en un pack de 20 paquetes de 40 gramos cada uno
 - Galletas con abundantes chips de chocolate que disfrutarás en cada bocado
+- Chips ahoy originales, en un pack de 20 paquetes de 40 gramos cada uno
 
 [🛒 Visítala!!!]({{< param buyurl >}})

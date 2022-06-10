@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dixan Gel Adiós al Separar Total 3+1  Detergente Líquido para Lavadora  30 lavados  pack de 4  total: 120 lavados   jabón líquido para la ropa de color  Limpieza  luminosidad y frescor'
-date: 2022-06-03 08:44:49
+date: 2022-06-10 01:59:59
 image: 'https://m.media-amazon.com/images/I/41b4T5bKcML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07L33KKMQ-es Dixan Gel Adiós al Separar Total 3+1 Detergente Líquido...'
 sku: 'B07L33KKMQ-es'
 tags: [ 'Cuidado y limpieza del hogar','Detergente líquido para textiles','Productos para la lavandería','Salud y cuidado personal','detergente','dixan','jabón','🇪🇸', ]
-actualPrice: 17.75 EUR
+actualPrice: 19.55 EUR
 currency: EUR
-price: 17.75
-comparePrice: 19.25 EUR
+price: 19.55
+comparePrice: 20.85 EUR
 prodname: 'Dixan Gel Adiós al Separar Total 3+1  Detergente Líquido para Lavadora  30 lavados  pack de 4  total: 120 lavados   jabón líquido para la ropa de color  Limpieza  luminosidad y frescor'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Dixan'
 buyurl: 'https://www.amazon.es/dp/B07L33KKMQ/?tag=tolees-21'
-descuento: '7.79'
-average: '20.574084507042'
+descuento: '6.24'
+average: '20.5692990654203'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

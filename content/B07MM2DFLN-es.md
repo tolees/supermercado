@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PATO Active Clean Colgador para Inodoro  Frescor Intenso  Perfuma y Desinfecta  Aroma   duo Pack  2 Unidades  [todos los Aromas]  J308511  Marine  150 ml'
-date: 2022-06-02 10:53:28
+date: 2022-06-10 01:10:48
 image: 'https://m.media-amazon.com/images/I/51HkmcCuCGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PATO'
 buyurl: 'https://www.amazon.es/dp/B07MM2DFLN/?tag=tolees-21'
 descuento: '0.00'
-average: '1.79463235294121'
+average: '1.79415647921764'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

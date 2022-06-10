@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para todo tipo de utilización doméstica
-- Tamaño extra XXL
 - 1 rollo
 - Rollo de cocina blanco
+- Tamaño extra XXL
+- Ideal para todo tipo de utilización doméstica
 - 2 capas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
