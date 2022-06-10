@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza Café Molido Crema e Gusto Classico 250 g'
-date: 2022-06-07 17:43:48
+date: 2022-06-09 23:27:41
 image: 'https://m.media-amazon.com/images/I/41A6s9HXx7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lavazza'
 buyurl: 'https://www.amazon.es/dp/B08L43NDKK/?tag=tolees-21'
 descuento: '5.26'
-average: '2.53399999999999'
+average: '2.55047619047618'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Arábica y Robusta, tostado oscuro, media intensidad (7)
-- Un equilibrio perfecto entre cuerpo y notas especiadas. El café ideal para cualquier hora del día
-- Crema e Gusto Classico es un blend suave y envolvente de la excelente variedad Arábica de Brasil y la Robusta del sudeste asiático
-- MIRAR Crema ámbar y color oscuro - AROMA Notas especiadas - SABOR Redondo y envolvente
 - Lavazza café molido Crema e Gusto Classico, 250 g
+- Un equilibrio perfecto entre cuerpo y notas especiadas. El café ideal para cualquier hora del día
+- MIRAR Crema ámbar y color oscuro - AROMA Notas especiadas - SABOR Redondo y envolvente
+- Crema e Gusto Classico es un blend suave y envolvente de la excelente variedad Arábica de Brasil y la Robusta del sudeste asiático
 
 [🛒 Aquí!!!]({{< param buyurl >}})

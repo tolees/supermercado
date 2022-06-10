@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fifty Pounds Ginebra - 700 ml'
-date: 2022-06-07 09:27:55
+date: 2022-06-09 23:58:02
 image: 'https://m.media-amazon.com/images/I/317ysclR8zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fifty Pounds'
 buyurl: 'https://www.amazon.es/dp/B004EXON0W/?tag=tolees-21'
 descuento: '24.23'
-average: '16.9033333333333'
+average: '16.908'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

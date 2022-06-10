@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepsi Max Refresco De Cola Sin Azúcar  Botella  12 x 500 ml'
-date: 2022-06-03 08:23:23
+date: 2022-06-09 23:30:20
 image: 'https://m.media-amazon.com/images/I/51gZcc9S+5S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepsi'
 buyurl: 'https://www.amazon.es/dp/B08VPBSYT5/?tag=tolees-21'
 descuento: '19.05'
-average: '10.5383333333333'
+average: '10.49'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Con zero azúcares
 - Proteger del sol
+- La bebida adecuada para divertirse con amigos, en casa o on-the-go
 - No congelar
 - Bebida carbonatada embotellada
-- La bebida adecuada para divertirse con amigos, en casa o on-the-go
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
