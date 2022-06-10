@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La crema de día antiarrugas Lift+ Botology minimiza la aparición de las líneas de expresión para alisar tu piel ayudando a la prevención de arrugas permanentes
+- (*Marca registrada usada bajo licencia de Givaudan)
 - El sérum Regenerador regenera tu piel y relaja tu mente, acción antiarrugas avanzada con activos botánicos encapsulados y aroma relajante con tecnología DreamscentzTM*: una combinación de aceites esenciales que ayuda a relajar la mente y/o mejorar la calidad del sueño
 - La crema de día antiarrugas Reduce arrugas visibles en 4 semanas; Hidrata, suaviza y reafirma la piel
 - Neceser compuesto de dos productos estrella de la gama Botology que reduce arrugas en 4 semanas
-- (*Marca registrada usada bajo licencia de Givaudan)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

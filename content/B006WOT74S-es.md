@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - COLOR: caramelo cremoso con un tono dorado.
-- NARIZ: un aroma ligero con un sabor aromático que le da profundidad.
 - PALADAR: una mezcla ligera, sutil, limpia, dulce y especiada con tonos melosos y un final agradable y duradero.
+- NARIZ: un aroma ligero con un sabor aromático que le da profundidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

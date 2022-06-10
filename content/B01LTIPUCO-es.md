@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TASSIMO L Or Café Fortissimo - 5 paquetes de 16 cápsulas: Total 80 unidades'
-date: 2022-06-01 11:13:03
+date: 2022-06-10 02:32:34
 image: 'https://m.media-amazon.com/images/I/41uy-A5sIvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tassimo'
 buyurl: 'https://www.amazon.es/dp/B01LTIPUCO/?tag=tolees-21'
 descuento: '16.53'
-average: '23.811111111111'
+average: '23.9299999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El café intenso y de gran cuerpo FORTISSIMO mezcla aromas embriagadores y especiados con la intensidad de los granos de café Arábica y Robusta tostados para ofrecer una experiencia de sabor especialmente estimulante
-- Intensidad 10
 - Cápsulas compatibles con cafeteras Tassimo Bosch
+- Intensidad 10
+- El café intenso y de gran cuerpo FORTISSIMO mezcla aromas embriagadores y especiados con la intensidad de los granos de café Arábica y Robusta tostados para ofrecer una experiencia de sabor especialmente estimulante
 - Peso neto 1 paquete: 124.8 g (Peso 5 paquetes: 624 g)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
