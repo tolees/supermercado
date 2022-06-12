@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nuestras patatas se seleccionan, se fríen Artesanalmente con el mejor Aceite de Girasol hasta dejarlas muy crujientes y luego le damos el punto justo de sal.
+- Nuestras Patatas Fritas están hechas con el mejor aceite de Girasol y tras un estricto proceso de selección y calidad, hacen de estás un manjar inigualable.
 - Patatas Fritas Gourmet fritas con el mejor aceite de girasol. Elaboradas Artesanalmente. Selección mediterránea.
 - Producto sin conservantes ni aditivos.
 - Conservar en lugar fresco y seco.
-- Nuestras Patatas Fritas están hechas con el mejor aceite de Girasol y tras un estricto proceso de selección y calidad, hacen de estás un manjar inigualable.
+- Nuestras patatas se seleccionan, se fríen Artesanalmente con el mejor Aceite de Girasol hasta dejarlas muy crujientes y luego le damos el punto justo de sal.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
