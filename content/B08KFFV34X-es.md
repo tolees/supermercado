@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Mega Torcidas Regaliz  1 x 160 g'
-date: 2022-06-04 22:04:40
+date: 2022-06-11 22:20:42
 image: 'https://m.media-amazon.com/images/I/51GxqBscd0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B08KFFV34X/?tag=tolees-21'
 descuento: '0.00'
-average: '1.635'
+average: '1.63'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Piezas en forma de stick largos de regaliz negro; con un 3% de extracto de regaliz
 - Apto para vegetarianos
+- Piezas en forma de stick largos de regaliz negro; con un 3% de extracto de regaliz
 - Dulces de regaliz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
