@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Variedad: Tempranillo con graduación de 13.5º
+- Temperatura de servicio: 16 - 18ºC.
+- Capacidad: 1 botella de 1500 ml
 - Nota de cata: Presenta en copa un color cereza brillante limpio, con borde granate. En nariz mantiene la frescura de la fruta, apreciándose la vainilla y los aromas más emblemáticos del roble tostado. En boca es sedoso y persistente presentado sabores especiados bien ensamblados. Redondo, frutal y equilibrado.
 - Maridaje: Versátil de maridar con carnes, pescador, quesos o ibéricos
-- Capacidad: 1 botella de 1500 ml
-- Temperatura de servicio: 16 - 18ºC.
+- Variedad: Tempranillo con graduación de 13.5º
 
 [🛒 Comprar!!!]({{< param buyurl >}})
