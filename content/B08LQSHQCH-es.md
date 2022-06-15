@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AROMA: Intensos aromas a frutas negras compotadas (mora y ciruela), en armonía con tonos a madera de roble especiados (clavo y vainilla) y un fondo de sotobosque
-- Vino tinto rioja crianza que cuenta con 3 medallas de plata: Challenge International du Vin, IWSC y Mundial de Tempranillos
 - Variedad de uva: 100% tempranillo
-- BOCA: Gran equilibrio y frescura, donde las sensaciones se funden en un gusto sedoso y pulido, con taninos vivos muy integrados y un final armonioso aromático
-- COLOR: Rojo rubí intenso
 - CRIANZA: Crianza de 12 meses en barricas de roble Americano
+- COLOR: Rojo rubí intenso
+- Vino tinto rioja crianza que cuenta con 3 medallas de plata: Challenge International du Vin, IWSC y Mundial de Tempranillos
+- BOCA: Gran equilibrio y frescura, donde las sensaciones se funden en un gusto sedoso y pulido, con taninos vivos muy integrados y un final armonioso aromático
+- AROMA: Intensos aromas a frutas negras compotadas (mora y ciruela), en armonía con tonos a madera de roble especiados (clavo y vainilla) y un fondo de sotobosque
 
 [🛒 Aquí!!!]({{< param buyurl >}})
