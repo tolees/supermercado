@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se puede usar sola o como base para sombras en polvo
 - Color resistente al agua
-- No hace pliegues y es fácil de trabajar
+- Se puede usar sola o como base para sombras en polvo
 - Permite una duración 24 horas
+- No hace pliegues y es fácil de trabajar
 - La tecnología gel-crema de es el resultado de una fórmula con pigmentos y gel ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

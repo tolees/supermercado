@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El champú Sebamed Protector de Color también protege frente a los efectos de la radiación UVA
-- Los ingredientes hidratantes y acondicionadores revitalizan el cabello, añadiendo cuerpo y brillo
-- Champú protector del color ideal para cabellos teniños o con mechas, limpia el cabello con suavidad aportando protección al color y brillo
 - Fórmula con proteína de trigo que ayuda a proteger el cabello frágil y seco tras la decoloración capilar para teñir
+- El champú Sebamed Protector de Color también protege frente a los efectos de la radiación UVA
+- Champú protector del color ideal para cabellos teniños o con mechas, limpia el cabello con suavidad aportando protección al color y brillo
 - Aplicar sobre el cabello húmedo y mojado masajeando hasta crear espuma. Aclarar abundantemente con agua para engjuagar después del lavado
+- Los ingredientes hidratantes y acondicionadores revitalizan el cabello, añadiendo cuerpo y brillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
