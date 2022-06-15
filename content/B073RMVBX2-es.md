@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jägermeister Licor de Hierbas - 700 ml'
-date: 2022-06-09 23:36:24
+date: 2022-06-15 18:13:05
 image: 'https://m.media-amazon.com/images/I/41umIpgHLeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jägermeister'
 buyurl: 'https://www.amazon.es/dp/B073RMVBX2/?tag=tolees-21'
 descuento: '11.69'
-average: '11.5914285714285'
+average: '11.6046666666666'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tipo crema
+- Contiene 35% vol. Alcohol
 - Ingredientes: alcohol, azúcar, extractos de hierbas
 - Capacidad 700 ml
-- Contiene 35% vol. Alcohol
-- Tipo crema
 
 [🛒 Visítala!!!]({{< param buyurl >}})

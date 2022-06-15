@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dispensación controlada y rentable
-- Paquete de 3 unidades
-- Color blanco
 - Alta capacidad, fácil de rellenar y sencillo de mantener
+- Dispensación controlada y rentable
+- Color blanco
+- Paquete de 3 unidades
 - Dispensadores de jabón de 1 L
 
 [🛒 Aquí!!!]({{< param buyurl >}})

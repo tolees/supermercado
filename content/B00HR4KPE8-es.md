@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% sin jabón ni agentes alcalinos
-- Pastilla limpiadora sin jabón para una limpieza en profundidad, sin resecar
-- Diseñado y especialmente indicado para la piel sensible y problemática
 - Piel tersa: la estructura molecular del producto para el cuidado de la piel reproduce la molécula de azúcar natural de la piel
+- Pastilla limpiadora sin jabón para una limpieza en profundidad, sin resecar
+- 100% sin jabón ni agentes alcalinos
+- Diseñado y especialmente indicado para la piel sensible y problemática
 
 [🛒 Aquí!!!]({{< param buyurl >}})

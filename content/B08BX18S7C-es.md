@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PIRÁMIDE OLFATIVA: Notas de salida: limón y menta; Notas de corazón: piña, hojas violeta y romero; Notas de fondo: sales marinas, musgo y ámbar
-- ESTUCHE DE REGALO: el estuche incluye un perfume masculino de 100 ml repleto de chispa y vitalidad y un desodorante antitranspirante en spray de 200 ml
 - TENDENCIA OLFATIVA: oriental floral
+- ESTUCHE DE REGALO: el estuche incluye un perfume masculino de 100 ml repleto de chispa y vitalidad y un desodorante antitranspirante en spray de 200 ml
 - MASCULINO Y ENÉRGICO: un perfume de hombre de carácter valiente, con tonos florales y frescos que empujan a vivir
+- PIRÁMIDE OLFATIVA: Notas de salida: limón y menta; Notas de corazón: piña, hojas violeta y romero; Notas de fondo: sales marinas, musgo y ámbar
 - ESENCIA DURADERA: los productos de este estuche desprenden una esencia que persiste en la piel, una fragancia de larga duración para que te acompañe en tu día a día
 
 [🛒 Visítala!!!]({{< param buyurl >}})
