@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bodegas Alavesas – Vino Tinto Crianza 2019 Denominación de Origen Calificada Rioja  Variedad Tempranillo  12 meses en barrica – Caja de 6 botellas x 750 ml – Total: 4500 ml'
-date: 2022-06-09 01:27:22
+date: 2022-06-15 07:50:26
 image: 'https://m.media-amazon.com/images/I/41QNkZ54Q-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- COLOR: Rojo rubí intenso
 - AROMA: Intensos aromas a frutas negras compotadas (mora y ciruela), en armonía con tonos a madera de roble especiados (clavo y vainilla) y un fondo de sotobosque
 - Vino tinto rioja crianza que cuenta con 3 medallas de plata: Challenge International du Vin, IWSC y Mundial de Tempranillos
 - Variedad de uva: 100% tempranillo
 - BOCA: Gran equilibrio y frescura, donde las sensaciones se funden en un gusto sedoso y pulido, con taninos vivos muy integrados y un final armonioso aromático
+- COLOR: Rojo rubí intenso
 - CRIANZA: Crianza de 12 meses en barricas de roble Americano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
