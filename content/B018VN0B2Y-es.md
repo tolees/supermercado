@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rockstar Original  Bebida Energética  500ml'
-date: 2022-06-13 07:39:33
+date: 2022-06-16 19:42:33
 image: 'https://m.media-amazon.com/images/I/41rUMgXktsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conservar en lugar limpio, fresco y seco
 - Proteger de la luz solar y de olores agresivos
 - No congelar
+- Conservar en lugar limpio, fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
