@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicar sobre las axilas, una vez estén limpias y secas. Interrumpir el uso si aparecen irritaciones. Dejar secar antes de vestirse.
-- Protege la sudoración eficazmente durante 48h.
-- Formulado sin sales de aluminio ni alcohol, especialmente indicado para pieles sensibles.
 - Antitranspirante, 0% Alcohol.
+- Aplicar sobre las axilas, una vez estén limpias y secas. Interrumpir el uso si aparecen irritaciones. Dejar secar antes de vestirse.
 - Babaria desodorante pieles sensibles.
+- Formulado sin sales de aluminio ni alcohol, especialmente indicado para pieles sensibles.
+- Protege la sudoración eficazmente durante 48h.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
