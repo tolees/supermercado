@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 🍉 SABOR: Gominolas pica pica en forma de tajadas con delicioso sabor a sandía
+- 🎉 GOMINOLAS: Bolsa de caramelos de goma de 1000 gr. Bolsa de gomis de un 1kg
 - 💯 FINI: Marca líder en España con las mas altas puntuaciones en certificaciones y seguridad alimentaria del sector. La calidad, innovación y diversión están entre sus principales pilares para crear productos únicos
 - 🪅 CARAMELOS BLANDOS: Nuestros chuches son la opción perfecta para fiestas de cumpleaños, navidad, halloween u otras ocasiones especiales. Chucherias y gominolas ideales para un regalo original
-- 🎉 GOMINOLAS: Bolsa de caramelos de goma de 1000 gr. Bolsa de gomis de un 1kg
 - 🍡 BENEFICIOS: Nuestro paquete de golosinas han sido elaboradas sin OGM, sin lguten y sin grasas, por lo cual son ideales para personas con dietas especiales. Fabricado en una fabrica que maneja derivados LÁCTEOS
-- 🍉 SABOR: Gominolas pica pica en forma de tajadas con delicioso sabor a sandía
 
 [🛒 Visítala!!!]({{< param buyurl >}})
