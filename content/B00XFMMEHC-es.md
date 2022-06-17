@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Granini Selección Mix  Mango y Naranja  1L'
-date: 2022-06-04 17:20:58
-image: 'https://m.media-amazon.com/images/I/41Zldw6vuyL._SL500_._SL400_.jpg'
+date: 2022-06-17 18:46:20
+image: 'https://m.media-amazon.com/images/I/31G88ClR1sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una vez abierto se debe conservar en el frigorífico
-- Se recomienda consumir en 3 - 4 días
 - Con un contenido de fruta de 43%
+- Se recomienda consumir en 3 - 4 días
 - Néctar de frutas con valor energético de 52 Kcal por 100 ml
+- Una vez abierto se debe conservar en el frigorífico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
