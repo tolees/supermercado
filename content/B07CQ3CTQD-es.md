@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ELABORACIÓN DE ESTRELLA DE GALICIA Elaborada a partir de un mosto específico, en el único centro de producción de Hijos de Rivera, en A Coruña. Los Maestros Cerveceros emplean en la fabricación de La Estrella de Galicia aproximadamente un mes de trabajo, el 50% del cual se dedica a su guarda en frio.
-- Aromas que recuerdan a la malta pilsen y a la corteza de pan
-- Materias primas Agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), lúpulo Sladek. Levadura seleccionada Hijos de Rivera.
+- Temperatura de servicio 4-5ºC
+- Apariencia Cerveza de color dorado claro., muy transparente.
 - Alcohol 4,7% Amargor 25 EBU Color 8 EB
 - La Estrella de Galicia Cerveza - Pack de 24 botellas x 330 ml
-- La Estrella de Galicia cuenta con un color dorado brillante y un generoso giste blanco. Aroma equilibrado entre las maltas y lúpulos, que predominan aportando notas frescas y florales. Bien carbonatada y con cuerpo ligero. Amargor moderado y persistente, una cerveza muy fácil de beber.
-- Clasificación Tipo German Pils
+- Aromas que recuerdan a la malta pilsen y a la corteza de pan
+- Materias primas Agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), lúpulo Sladek. Levadura seleccionada Hijos de Rivera.
 - Sabor Muy equilibrada, en boca es dulce y amarga por igual.
-- Apariencia Cerveza de color dorado claro., muy transparente.
-- Temperatura de servicio 4-5ºC
+- Clasificación Tipo German Pils
+- La Estrella de Galicia cuenta con un color dorado brillante y un generoso giste blanco. Aroma equilibrado entre las maltas y lúpulos, que predominan aportando notas frescas y florales. Bien carbonatada y con cuerpo ligero. Amargor moderado y persistente, una cerveza muy fácil de beber.
+- ELABORACIÓN DE ESTRELLA DE GALICIA Elaborada a partir de un mosto específico, en el único centro de producción de Hijos de Rivera, en A Coruña. Los Maestros Cerveceros emplean en la fabricación de La Estrella de Galicia aproximadamente un mes de trabajo, el 50% del cual se dedica a su guarda en frio.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

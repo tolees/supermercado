@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Hecho en Italia. 3x16 cápsulas (24 porciones)
+- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
+- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
 - No apto para alérgicos a la soja ni para celíacos, debido al método de producción
 - Utilizar primero la cápsula de cacao y posteriormente la cápsula de leche
-- Conservar en un lugar fresco y seco
 - Cacao y leche en polvo azucarada en cápsulas
-- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
-- Hecho en Italia. 3x16 cápsulas (24 porciones)
 - Receta mejorada
-- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
+- Conservar en un lugar fresco y seco
 - Dulce y chocolateado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
