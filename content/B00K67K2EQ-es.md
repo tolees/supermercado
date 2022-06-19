@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cepillo alta costura de Máxima Precisión 408 púas extra finas0,5mm DiámetroBase rígida
 - Fórmula con aceites de cuidado para suavizar e hidratar
-- Cubre delicamente tus pestañas para una aplicación más suave
 - Sutil fragrancia floral delicada y suave para una experencia sensorial óptima
+- Cubre delicamente tus pestañas para una aplicación más suave
+- Cepillo alta costura de Máxima Precisión 408 púas extra finas0,5mm DiámetroBase rígida
 - Un millon de pestañas y un volumen extremo, sin grumos para cautivar con la mirada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
