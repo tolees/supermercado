@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Santa Ana Santa Ana  Patatas de Churrería  150g'
-date: 2022-06-15 18:14:34
+date: 2022-06-19 06:37:36
 image: 'https://m.media-amazon.com/images/I/51x9LsZa1hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Santa Ana'
 buyurl: 'https://www.amazon.es/dp/B084KCDGJF/?tag=tolees-21'
 descuento: '30.25'
-average: '0.955000000000005'
+average: '0.948421052631584'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sabor sal
-- Gran calidad
-- Ideal para picar
-- Realizadas con solo patatas, aceite y sal
 - Patatas fritas de bolsa
+- Sabor sal
+- Ideal para picar
+- Gran calidad
+- Realizadas con solo patatas, aceite y sal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
