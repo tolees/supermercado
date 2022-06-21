@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sabor menta original
-- Aliento fresco: Previene el mal aliento
 - Ayuda a prevenir la caries: Protección anticaries probada
-- Cuidado avanzado: Pasta de dientes con flúor que aporta un triple beneficio
 - Ayuda a eliminar las manchas de la superficie: Consigue dientes más blancos
+- Cuidado avanzado: Pasta de dientes con flúor que aporta un triple beneficio
+- Aliento fresco: Previene el mal aliento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
