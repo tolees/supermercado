@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Género: Unisex Adulto
-- Texturas: Loción
 - Tipo de Piel: Todo Tipo de Pieles
+- Texturas: Loción
+- Género: Unisex Adulto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
