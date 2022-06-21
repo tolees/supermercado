@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El ColaCao de siempre, eso tan tuyo. con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos. Ideal para cualquier momento: desayuno, merienda, cena o como snack
-- Información de alérgenos: cereals containing gluten
 - 228 raciones en su formato ahorro de 2 bolsas de 1,6kg refill, que cuenta con un 85% menos de plástico que un bote.
-- Alérgenos: contiene trigo y cebada. Mantener en lugar fresco y seco.
-- Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos.
 - Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y.
+- El ColaCao de siempre, eso tan tuyo. con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos. Ideal para cualquier momento: desayuno, merienda, cena o como snack
+- Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos.
+- Alérgenos: contiene trigo y cebada. Mantener en lugar fresco y seco.
+- Información de alérgenos: cereals containing gluten
 
 [🛒 Aquí!!!]({{< param buyurl >}})

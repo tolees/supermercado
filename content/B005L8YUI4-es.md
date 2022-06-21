@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuenta con ajuste individual del grado de molienda - de grueso a extra fino
-- Con una carcasa de plástico de alto brillo superior con una aplicación decorativa de acero inoxidable
 - Dispone de 2 discos abrasivos de alta calidad hechos de acero
+- Cuenta con ajuste individual del grado de molienda - de grueso a extra fino
 - Tiene un botón de encendido-apagado y un botón giratorio para 2 - 12 dosis de café
 - Viene con un recipiente de polvo desmontable
+- Con una carcasa de plástico de alto brillo superior con una aplicación decorativa de acero inoxidable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
