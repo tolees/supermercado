@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De la marca: Paul Mitchell
 - Hidratante
+- De la marca: Paul Mitchell
 - Producto de alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
