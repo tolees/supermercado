@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- L: 45 l: 32 h: 0.5
 - Contacto alimentaria
+- L: 45 l: 32 h: 0.5
 - Plástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
