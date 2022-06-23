@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Excelente hidratante diario para todo el cuerpo y gran protector de la piel. Imprescindible Gel Post Depilación.
+- Aplicar como mascarilla Facial . Suaviza y revitaliza la piel agrietada, expuesta al sol y reseca, a su vez ayuda a las pieles normales a retener su hidratación
 - Un gel diferente, con una textura que se absorbe rapidamente - no contiene espesantes pero un extracto de Algas Marinas remineralizante y rico en oligo-elementos.
 - Ideal para la piel, con acné, arrugas, antiedad y manchas. Aplicar siempre Gel de Aloe Vera sobre las áreas depiladas.
 - Gel puro por su alto contenido en jugo fresco Aloe Vera que actúa como excelente dermoprotector ejerciendo sobre la piel una profunda acción hidratante. Oxigena, suaviza, da brillo y favorece la regeneración cutánea.
-- Aplicar como mascarilla Facial . Suaviza y revitaliza la piel agrietada, expuesta al sol y reseca, a su vez ayuda a las pieles normales a retener su hidratación
-- Excelente hidratante diario para todo el cuerpo y gran protector de la piel. Imprescindible Gel Post Depilación.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
