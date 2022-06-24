@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Famous Grouse Whisky Escoces  40% - 1000 ml'
-date: 2022-06-22 14:27:55
+date: 2022-06-24 14:00:08
 image: 'https://m.media-amazon.com/images/I/31njpWdBv2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'The Famous Grouse'
 buyurl: 'https://www.amazon.es/dp/B004AWD3GC/?tag=tolees-21'
 descuento: '20.34'
-average: '13.5733333333333'
+average: '13.655'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gusto: Sabor medio completo, maduro, frutiness de Speyside
-- Aroma: Roble bien equilibrado, Jerez con un toque cítrico.
-- NOTA: El embalaje puede variar!
 - Terminar: Buena longitud, limpio, medio seco
+- NOTA: El embalaje puede variar!
+- Gusto: Sabor medio completo, maduro, frutiness de Speyside
 - Apariencia: Completo, dorado, claro y brillante
+- Aroma: Roble bien equilibrado, Jerez con un toque cítrico.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
