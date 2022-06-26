@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Protección de la piel. Suavidad
-- Ultra-hidratación (nueva fórmula con 20% de urea)
 - Acción regeneradora
 - Cuidado diario para zonas agrietadas y dañadas
+- Ultra-hidratación (nueva fórmula con 20% de urea)
+- Protección de la piel. Suavidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
