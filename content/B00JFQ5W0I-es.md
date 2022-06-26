@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rueda blanca instantánea: la pasta de dientes Colgate Max White Optic combina blanqueadores ópticos y partículas de limpieza que eliminan la placa y las manchas de los dientes para que los dientes sean visiblemente más blancos.
-- Aplicación: cepille los dientes a fondo dos veces al día, al menos dos minutos o como lo recomienda un médico. No recomendado para niños menores de 7 años.
-- Global Oral Health Expert: en la mayoría de los países del mundo, la marca Colgate desarrolla productos de higiene bucal innovadores y eficaces para una sonrisa radiante y una buena salud bucal.
 - Una sonrisa brillante: gracias a su fórmula avanzada con efectos clínicamente demostrados, Colgate Max White Optic limpia eficazmente los dientes y los hace más blancos al instante para una sonrisa radiante cada día.
 - Limpieza eficaz de los dientes: esta pasta de dientes ofrece una excelente protección contra la placa y protege así la higiene bucal óptima.
+- Aplicación: cepille los dientes a fondo dos veces al día, al menos dos minutos o como lo recomienda un médico. No recomendado para niños menores de 7 años.
+- Global Oral Health Expert: en la mayoría de los países del mundo, la marca Colgate desarrolla productos de higiene bucal innovadores y eficaces para una sonrisa radiante y una buena salud bucal.
+- Rueda blanca instantánea: la pasta de dientes Colgate Max White Optic combina blanqueadores ópticos y partículas de limpieza que eliminan la placa y las manchas de los dientes para que los dientes sean visiblemente más blancos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
