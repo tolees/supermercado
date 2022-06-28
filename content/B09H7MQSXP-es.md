@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hasta 72 horas de protección frente a la caspa, la sequedad y el picor (caspa visible, con uso regular; picor debido a la caspa)
-- El champú anticaspa con lavanda Nutre & Cuida limpia a la vez que nutre el pelo y el cuero cabelludo en profundidad
-- Combate la causa principal de la caspa para un pelo totalmente libre de caspa, probado clínicamente (con uso regular)
-- Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo
 - Mejor juntos. Utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito
+- El champú anticaspa con lavanda Nutre & Cuida limpia a la vez que nutre el pelo y el cuero cabelludo en profundidad
+- Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo
+- Combate la causa principal de la caspa para un pelo totalmente libre de caspa, probado clínicamente (con uso regular)
+- Hasta 72 horas de protección frente a la caspa, la sequedad y el picor (caspa visible, con uso regular; picor debido a la caspa)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Babaria gel de ducha piel atópica 600ml set 2 piezas 2018
 - Babaria babaria gel de ducha piel atópica 600ml set 2 piezas 2018
 - Los mejores productos para tu cuidado personal, para tu bienestar, y para la higiene personal.
-- Babaria gel de ducha piel atópica 600ml set 2 piezas 2018
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

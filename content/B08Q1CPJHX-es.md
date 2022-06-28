@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Respeta la piel y respeta el planeta
 - sin alérgenos, sin alcohol, sin colorantes
-- Contiene piedra de alumbre un ingrediente activo de origen natural
 - Testado dermatológicamente
 - 24h de protección eficaz contra el mal olor
-- Respeta la piel y respeta el planeta
+- Contiene piedra de alumbre un ingrediente activo de origen natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
