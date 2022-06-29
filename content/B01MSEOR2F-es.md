@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Varietales: Verdejo y Viura
 - Nota de cata (nariz): Vino intenso donde predominan los aromas varietales del Verdejo (hierbabuena, hinojo), con un fondo de cítricos y frutas tropicales (mango)
-- Nota de cata (boca): Un vino de gran frescura, que se muestra agradable y expresivo en boca
 - Verdejo, D.O.Ca. Rueda
 - Maridaje: Para disfrutar con arroces, mariscos, carpaccios o platos especiados
-- Varietales: Verdejo y Viura
+- Nota de cata (boca): Un vino de gran frescura, que se muestra agradable y expresivo en boca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
