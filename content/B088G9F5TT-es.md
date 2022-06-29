@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resultados visibles: las imperfecciones son reducidas visiblemente; Con un uso regular se corrige la tonalidad del rostro; Se mejora la absorción e hidratación de la piel
-- Permite exfoliar y limpiar la piel en profundidad de una forma delicada gracias a su textura mousse
-- Peeling Mousse Purify combina activos botánicos (semillas de chía) y dermatológicos (pantenol) garantizando una alta tolerancia cutánea
-- Un Peeling Mousse suave con semillas de Chía y con un 81% ingredientes de origen natural (incluyendo agua)
 - Para todo tipo de piel; Especialmente pensada para pieles mixtas y grasas, con tendencia a la aparición de impurezas
+- Permite exfoliar y limpiar la piel en profundidad de una forma delicada gracias a su textura mousse
+- Un Peeling Mousse suave con semillas de Chía y con un 81% ingredientes de origen natural (incluyendo agua)
+- Resultados visibles: las imperfecciones son reducidas visiblemente; Con un uso regular se corrige la tonalidad del rostro; Se mejora la absorción e hidratación de la piel
+- Peeling Mousse Purify combina activos botánicos (semillas de chía) y dermatológicos (pantenol) garantizando una alta tolerancia cutánea
 - Exfoliantes naturales sin microplásticos; Las párticulas exfoliantes son semillas de albaricoque y semillas de chía
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
