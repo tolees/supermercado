@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes naturales: agua, levadura, malta de cebada y lúpulo
-- Cerveza tipo laguer
-- De color rubio pálido, se caracteriza por su sabor suave, con un ligero aroma afrutado,
-- Elaborada a -1ºC
 - 4% de alcohol en volumen
+- Ingredientes naturales: agua, levadura, malta de cebada y lúpulo
+- De color rubio pálido, se caracteriza por su sabor suave, con un ligero aroma afrutado,
+- Cerveza tipo laguer
+- Elaborada a -1ºC
 
 [🛒 Comprar!!!]({{< param buyurl >}})

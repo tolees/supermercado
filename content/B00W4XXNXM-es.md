@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - COMPLETO: incluye 1kg de suero en polvo (33 porciones). Cada porción contiene 22-23g de proteína sin gluten y sin trigo. Bébelo en los siguientes 30 minutos después del ejercicio.
 - PROTEÍNA EN POLVO: el preparado contiene una mezcla de aislado y concentrado de proteína de suero de leche de alta calidad con un delicioso sabor a fresa.
+- CALIDAD SIS: Science in Sport dispone de un prestigioso equipo de investigación que trabaja estrechamente con atletas de alto rendimiento para llegar a la excelencia en la nutrición deportiva.
 - RÁPIDA DIGESTIÓN: la proteína contribuye al crecimiento y mantenimiento de la masa muscular con una ingesta baja en carbohidratos y grasas.
 - MEJORA TU RENDIMIENTO: Science In Sport te ofrece con este suplemento una nutrición deportiva superior usada por medallistas olímpicos desde 1992 para ayudarte a entrenar y recuperarte mejor.
-- CALIDAD SIS: Science in Sport dispone de un prestigioso equipo de investigación que trabaja estrechamente con atletas de alto rendimiento para llegar a la excelencia en la nutrición deportiva.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

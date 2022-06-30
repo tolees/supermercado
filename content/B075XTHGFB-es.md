@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contenido de envío: 1x dispensador de jabón retro blanco
-- Botella vacía de la bomba para el jabón también se puede usar como un práctico dispensador de detergente - combinable con otros accesorios de baño axentia de la serie retro
-- Dosificador de jabón líquido con bomba cromada se ve particularmente noble y lujoso - con amplia apertura que permite de rellenar fácilmente este dispensador
 - Dispensador de jabón hecho de vidrio de alta calidad blanco con un aspecto vintage moderno - ideal para un almacenamiento exacto y una dosificación fácil de jabón líquido
 - Dimensiones (diámetro x altura): aproximativo diámetro 6, 5 x 18, 5 cm, peso: aproximativo 280 g, capacidad: aproximativo 350 ml - lavar se las manos es un placer con este dispensador que despacha la cantidad justa de jabón
+- Botella vacía de la bomba para el jabón también se puede usar como un práctico dispensador de detergente - combinable con otros accesorios de baño axentia de la serie retro
+- Dosificador de jabón líquido con bomba cromada se ve particularmente noble y lujoso - con amplia apertura que permite de rellenar fácilmente este dispensador
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

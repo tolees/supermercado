@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Eau de Toilette 150 ml.
-- Con toques cítricos, madera, flor del jazmín y un toque de Laurel.
 - Fabricado por Instituto Español, expertos perfumistas desde 1903.
-- Gran durabilidad.
 - Un perfume masculino y refrescante.
+- Con toques cítricos, madera, flor del jazmín y un toque de Laurel.
+- Gran durabilidad.
+- Eau de Toilette 150 ml.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

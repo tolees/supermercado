@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Contenido de 1 kg
-- Conservar en lugar fresco y seco
 - Irresistible sabor a frutas tropicales
+- Conservar en lugar fresco y seco
 - Deliciosas piezas en forma de mini frutas tropicales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
