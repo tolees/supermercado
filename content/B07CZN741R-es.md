@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Damm - Cerveza Negra Bock-Damm  Pack de 24 Latas 33cl | Cerveza Negra Estilo Múnich  Elaborada con Maltas Tostadas  100% Ingredientes Naturales  Original y de Alta Calidad Formato Lata'
-date: 2022-06-29 14:33:35
+date: 2022-06-30 18:16:12
 image: 'https://m.media-amazon.com/images/I/41nMYrbwcRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Damm'
 buyurl: 'https://www.amazon.es/dp/B07CZN741R/?tag=tolees-21'
 descuento: '30.47'
-average: '13.205'
+average: '13.2533333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alc. 5,9% vol.
-- Cerveza negra estilo Múnich, elaborada con 3 tipos de maltas diferentes: torrefactas, caramelo y pilsen.
 - 100% Ingredientes naturales.
+- Cerveza negra estilo Múnich, elaborada con 3 tipos de maltas diferentes: torrefactas, caramelo y pilsen.
 - Pack de 24 latas 33cl.
+- Alc. 5,9% vol.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
