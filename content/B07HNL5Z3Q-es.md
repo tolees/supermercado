@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Respeta el planeta con el frasco fabricado con un 25% de plástico reciclado (no incluye el tapón)
 - Champú con aceite de argán
 - Diseñado por expertos
-- Respeta la piel con pH equilibrado y antioxidantes
 - Intensa hidratación y piel limpia, apta para cabellos teñidos
-- Respeta el planeta con el frasco fabricado con un 25% de plástico reciclado (no incluye el tapón)
 - Dermatológicamente probado
+- Respeta la piel con pH equilibrado y antioxidantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
