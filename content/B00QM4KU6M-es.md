@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bach Viña Extrísima - Vino Blanco Semidulce - Caja 6 botellas 75cl'
-date: 2022-06-30 08:47:43
+date: 2022-07-01 19:35:36
 image: 'https://m.media-amazon.com/images/I/51Z6-3kjG1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nota de cata (vista): Amarillo brillante con reflejos dorados
-- Varietales: Xarel·lo y Macabeo
-- Nota de cata (nariz): aromas a miel, orejones, vainilla, piel de naranja de confitada,con notas especias dulces y frutos secos
-- Nota de cata (boca): Envolvente y dulce con sabores a frutas confitadas, miel con notas
 - Se espera alcance su máxima evolución en dos años, manteniéndose en buen estado durante 5 años; Temperatura óptima de servicio: 8-12° C
+- Nota de cata (vista): Amarillo brillante con reflejos dorados
+- Nota de cata (boca): Envolvente y dulce con sabores a frutas confitadas, miel con notas
+- Nota de cata (nariz): aromas a miel, orejones, vainilla, piel de naranja de confitada,con notas especias dulces y frutos secos
+- Varietales: Xarel·lo y Macabeo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
