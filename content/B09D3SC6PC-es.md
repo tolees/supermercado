@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnnie Walker Black Label Whisky Escocés - Edición Limitada 200 Aniversario - 700 ml'
-date: 2022-06-29 16:06:05
+date: 2022-07-01 13:55:53
 image: 'https://m.media-amazon.com/images/I/31YCuSyhv4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Un whisky para compartir en cualquier ocasión
-- Sabores ricos, afrutados y picantes equilibrarse con las notas de toffee, suave y cremosa, con un acabado ahumado
 - Creado usando solo whiskies de mínimo 12 años de añejamiento de los 4 rincones de Escocia
-- Se debe conservar en un lugar fresco y seco
 - Edicion limitada 200 años
+- Sabores ricos, afrutados y picantes equilibrarse con las notas de toffee, suave y cremosa, con un acabado ahumado
+- Se debe conservar en un lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

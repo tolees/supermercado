@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heineken Silver Cerveza Lager Pack Lata  24 x 33cl'
-date: 2022-06-30 12:39:04
+date: 2022-07-01 13:58:26
 image: 'https://m.media-amazon.com/images/I/51Zod4vbZPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Heineken'
 buyurl: 'https://www.amazon.es/dp/B09SQ9TBSK/?tag=tolees-21'
 descuento: '17.99'
-average: '14.035'
+average: '14.01'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 4% de alcohol en volumen
 - Ingredientes naturales: agua, levadura, malta de cebada y lúpulo
-- De color rubio pálido, se caracteriza por su sabor suave, con un ligero aroma afrutado,
-- Cerveza tipo laguer
 - Elaborada a -1ºC
+- Cerveza tipo laguer
+- 4% de alcohol en volumen
+- De color rubio pálido, se caracteriza por su sabor suave, con un ligero aroma afrutado,
 
 [🛒 Comprar!!!]({{< param buyurl >}})
