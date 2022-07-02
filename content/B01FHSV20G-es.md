@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin soja
 - Sin proteína láctea
-- Sin gluten
 - Ingredientes naturales y ecológicos
+- Sin soja
+- Sin gluten
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

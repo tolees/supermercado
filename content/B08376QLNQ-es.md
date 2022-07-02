@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad óptima
 - Contiene 43 kcal por tortita
-- Snack con sabor miel y mostaza
 - Pack de aproximadamente 13 tortitas
+- Producto de calidad óptima
+- Snack con sabor miel y mostaza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
