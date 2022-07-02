@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Altura total de la fuente con chocolate: 40 cm
+- Desmontable
 - Pies con altura regulable
 - Control independiente del motor y de la base calefactada
-- Altura total de la fuente con chocolate: 40 cm
 - Base principal de 21,5 cm de diámetro
-- Desmontable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
