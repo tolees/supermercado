@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Café Lavazza en cápsulas compatibles con máquinas Nespresso
 - Le asegura una extracción perfecta para una calidad de café Lavazza incomparable y una espuma cremosa y dorada
-- Notas amaderadas
+- Café Lavazza en cápsulas compatibles con máquinas Nespresso
 - Envasadas en atmósfera protegida
+- Notas amaderadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

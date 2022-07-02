@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heineken Cerveza Lager Barril Torp Pack  5 x 2L'
-date: 2022-06-29 15:58:37
+date: 2022-07-02 21:26:47
 image: 'https://m.media-amazon.com/images/I/414Fe0-7AqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Heineken'
 buyurl: 'https://www.amazon.es/dp/B01DU9G5BK/?tag=tolees-21'
 descuento: '26.99'
-average: '28.8707692307693'
+average: '28.8271212121213'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
+- La única que reposa en tanques horizontales durante 28 días para proporcionar la presión perfecta a la levadura
 - El embalaje puede variar
 - De color amarillo brillante y espuma blanca intensa. Con aroma frutal, con ligero sabor dulce y amargor suave
 - Ingredientes Naturales: Agua, malta de cebada, lúpulo y la levadura tipo A única de Heineken
-- La única que reposa en tanques horizontales durante 28 días para proporcionar la presión perfecta a la levadura
-- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
