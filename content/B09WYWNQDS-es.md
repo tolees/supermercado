@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bombay Ginebra Citrón Pressé  70cl'
-date: 2022-07-02 09:41:27
+date: 2022-07-03 17:01:06
 image: 'https://m.media-amazon.com/images/I/41ZGSDq2ORL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ginebra vibrante y aromática con sabor a fragante limón respaldada por las notas clásicas de Bombay Dry Gin
+- Rica sensación de dulzura en la nariz que se equilibra con la nitidez del limón y respaldan las notas de enebro y cilantro
 - Sabrosa y aromática ginebra que casa armoniosamente todos sus ingredientes y botánicos para ofrecer un sabor más profundo
 - Intenso estallido de limón fresco y jugoso que cubre el paladar con una dulzura redondeada
-- Rica sensación de dulzura en la nariz que se equilibra con la nitidez del limón y respaldan las notas de enebro y cilantro
 - Notas finales prolongadas y sabrosas donde el sabor refrescante del limón continúa evolucionando
-- Ginebra vibrante y aromática con sabor a fragante limón respaldada por las notas clásicas de Bombay Dry Gin
 
 [🛒 Comprar!!!]({{< param buyurl >}})
