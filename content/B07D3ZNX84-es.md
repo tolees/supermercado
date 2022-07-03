@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Es dorada y brillante, con burbujas finas y abundantes. Suave, con densas notas de cereales tostados y eminentemente fresca.
 - Elaborada mediante procedimiento tradicional de maduración lenta con un mínimo de 2 semanas de guarda que asegura la elevada calidad del producto.
 - Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
-- Es dorada y brillante, con burbujas finas y abundantes. Suave, con densas notas de cereales tostados y eminentemente fresca.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
