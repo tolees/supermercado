@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las cápsulas LOr de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso
-- 200 cápsulas repartidas en 10 paquetes de 20 cápsulas cada uno; Peso neto de 1 paquete: 104 g; Total 10 paquetes = 1040 gr
 - Con LOr Barista Selection, disfruta de una experiencia con cuerpo desde el primer sorbo, seguida de un sabor duradero e intenso con notas de café tostado y chocolate; intensidad 13
 - Los artistas del café de LOr mezclan granos de arábica de calidad para ofrecerte un café espresso de carácter intenso y pronunciado
+- Las cápsulas LOr de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso
 - Intensidad 13
+- 200 cápsulas repartidas en 10 paquetes de 20 cápsulas cada uno; Peso neto de 1 paquete: 104 g; Total 10 paquetes = 1040 gr
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
