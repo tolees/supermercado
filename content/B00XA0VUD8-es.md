@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formato de 3 paquetes con un práctico sistema de abre y cierra, que ayuda a una mejor conservación
 - Conservar en lugar fresco y seco
-- Galleta tipo sándwich rellena de crema de chocolate con leche
-- Fórmula mejorada; disfruta aún más de la crujiente galleta de trigo y la crema de chocolate
 - Alérgenos: soja, huevos, leche, frutos de cáscara, harina de trigo
+- Fórmula mejorada; disfruta aún más de la crujiente galleta de trigo y la crema de chocolate
+- Galleta tipo sándwich rellena de crema de chocolate con leche
+- Formato de 3 paquetes con un práctico sistema de abre y cierra, que ayuda a una mejor conservación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
