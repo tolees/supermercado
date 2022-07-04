@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pack regalo con productos Baby Sebamed ideal para bebés recién nacidos: Contiene Sebamed Baby Gel Baño Extrasuave 200ml El compuesto activo limpiador extra suave ofrece una elevada tolerabilidad cutánea para una limpieza diaria sumamente cuidadosa de la delicada piel de los recién nacidos. 100 % sin jabón ni agentes alcalinos
 - Contiene Baby Sebamed Leche Corporal 400ml: El eficiente complejo humectante y emoliente se absorbe rápidamente para una protección suave de la delicada piel del bebé frente a la sequedad.Adecuado para el cuidado de la delicada piel del bebé después del lavado o el baño
 - Contiene Baby Sebamed Crema Balsámica 50ml: Prevención de la dermatitis del pañal y estimulación del proceso de curación
-- El efecto regenerador del escualeno asociado al unto sebáceo ofrece el respaldo lipídico que precisa la piel de un bebé. Con alantoína en su formulación, que deja la piel suave y lisa
+- Pack regalo con productos Baby Sebamed ideal para bebés recién nacidos: Contiene Sebamed Baby Gel Baño Extrasuave 200ml El compuesto activo limpiador extra suave ofrece una elevada tolerabilidad cutánea para una limpieza diaria sumamente cuidadosa de la delicada piel de los recién nacidos. 100 % sin jabón ni agentes alcalinos
 - Cuidado intensivo y protección para la delicada piel del bebé. También recomendado para áreas de gran rozadura (codos, rodillas). Para la cara, la zona genitoanal y todo el cuerpo
+- El efecto regenerador del escualeno asociado al unto sebáceo ofrece el respaldo lipídico que precisa la piel de un bebé. Con alantoína en su formulación, que deja la piel suave y lisa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

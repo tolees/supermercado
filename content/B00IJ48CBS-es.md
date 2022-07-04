@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cantarranas Verdejo  Vino Blanco D. O Rueda - 6 Botellas de 750 ml -  Total: 4.5 Lt  BODEGA CUATRO RAYAS'
-date: 2022-07-02 12:44:52
+date: 2022-07-04 12:40:38
 image: 'https://m.media-amazon.com/images/I/51kglxZ18eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En Nariz es Limpio y Amplio, de Aromas Tostados y de Fruta Madura con Notas de Boj
-- Vino Joven Color Amarillo Pajizo con Reflejos Verdosos, Brillante
-- Maridaje: Pescados y Carnes a la Parrilla
 - Verdejo En Botellas de 750 ml (75Cl) - Pack de 6
 - Vino Blanco de Graduación: 13.5º
+- En Nariz es Limpio y Amplio, de Aromas Tostados y de Fruta Madura con Notas de Boj
+- Maridaje: Pescados y Carnes a la Parrilla
+- Vino Joven Color Amarillo Pajizo con Reflejos Verdosos, Brillante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
