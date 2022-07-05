@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Estrella Levante Verna - Cerveza con limón  caja de 24 latas 33cl'
-date: 2022-06-29 17:11:25
+date: 2022-07-05 10:49:36
 image: 'https://m.media-amazon.com/images/I/41LVChgPAeS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Estrella Levante'
 buyurl: 'https://www.amazon.es/dp/B096TCLXQN/?tag=tolees-21'
 descuento: '17.46'
-average: '10.965'
+average: '11.14'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborada en la fábrica de Murcia donde cuenta con su propia maltería
-- Servir frio
 - Elaborada con cebadas procedentes de Albacete y Murcia
 - ‎Almacenar en un sitio seco o fresco
 - Maltas y cervezas de Murcia desde 1963
+- Elaborada en la fábrica de Murcia donde cuenta con su propia maltería
+- Servir frio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
