@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L OR Espresso Café en Grano Colombia  4 x 500g'
-date: 2022-07-04 11:24:08
+date: 2022-07-05 13:37:00
 image: 'https://m.media-amazon.com/images/I/41VsD9KmQ0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LOR'
 buyurl: 'https://www.amazon.es/dp/B08NFRH68Z/?tag=tolees-21'
 descuento: '30.01'
-average: '22.06'
+average: '22.2516666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
