@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heinz salsa Mostaza Americana Suave envase 220ml Vegetariana'
-date: 2022-07-01 18:50:30
+date: 2022-07-06 15:53:43
 image: 'https://m.media-amazon.com/images/I/41pREhxFDBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HEINZ'
 buyurl: 'https://www.amazon.es/dp/B01MSFK4QZ/?tag=tolees-21'
 descuento: '0.00'
-average: '1.65833333333333'
+average: '1.66285714285714'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una vez abierto conservar en frigorífico
-- Ideal para carnes y pesacados
-- Ingredientes: agua, semillas de MOSTAZA, vinagre de alcohol, vinagre de malta (de la cCEBADA), azúcar, sal, miel, especias, aromatizante, astabilizador (Goma Xantana), Eetracto de pimentón
-- Apto para vegetarianos
-- Sin colorantes, saborizantes ni conservantes artificiales.
-- Salsa mostaza americana con sabor suave
 - Alérgenos: Gluten y Mostaza
+- Apto para vegetarianos
+- Una vez abierto conservar en frigorífico
+- Ingredientes: agua, semillas de MOSTAZA, vinagre de alcohol, vinagre de malta (de la cCEBADA), azúcar, sal, miel, especias, aromatizante, astabilizador (Goma Xantana), Eetracto de pimentón
+- Sin colorantes, saborizantes ni conservantes artificiales.
+- Ideal para carnes y pesacados
+- Salsa mostaza americana con sabor suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
