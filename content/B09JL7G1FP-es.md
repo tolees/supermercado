@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONTIENE:Galletas Gullon con chocolate y tipo Oreo.Tableta choco,chocobolas, cacahuetes,mix colores,wafer
-- DATE UN CAPRICHO Y SIENTETE FELIZ. Empaquetado de forma individual para llevar en cualquier sitio
-- PRECIOSA CAJA de regalo con un creativo y exclusivo diseño para sorprender a tu familia y amigos
 - SELECCIÓN de marcas del la más alta calidad con un delicioso sabor para enamorar a niños y adultos
+- CONTIENE:Galletas Gullon con chocolate y tipo Oreo.Tableta choco,chocobolas, cacahuetes,mix colores,wafer
+- PRECIOSA CAJA de regalo con un creativo y exclusivo diseño para sorprender a tu familia y amigos
+- DATE UN CAPRICHO Y SIENTETE FELIZ. Empaquetado de forma individual para llevar en cualquier sitio
 - DEVOLUCIÓN GARANTIZADA si no está satisfecho con su compra.Garantía solo aplicable al vendedor oficial
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

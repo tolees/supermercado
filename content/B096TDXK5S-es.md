@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oro Tostada - Cerveza sin filtrar  caja de 24 latas 33cl'
-date: 2022-07-03 17:03:07
+date: 2022-07-06 10:10:19
 image: 'https://m.media-amazon.com/images/I/41zxT3B1y3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Oro'
 buyurl: 'https://www.amazon.es/dp/B096TDXK5S/?tag=tolees-21'
 descuento: '23.00'
-average: '14.244'
+average: '14.1183333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Agua, Malta de cebada, Arroz, Lúpulo; Contiene gluten
+- ‎Almacenar en un sitio seco o fresco
 - Origen: fundada en Bilbao en 1912; con su propia liturgia al ser una cerveza sin filtrar; para servirla, hay que verterla cuidadosamente dejando un poco de cerveza en la botella
 - España
-- ‎Almacenar en un sitio seco o fresco
-- Agua, Malta de cebada, Arroz, Lúpulo; Contiene gluten
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
