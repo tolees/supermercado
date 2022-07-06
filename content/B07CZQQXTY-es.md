@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Keler Cerveza - Paquete de 24 x 330 ml  total de 7920 ml'
-date: 2022-07-01 08:42:06
+date: 2022-07-06 13:08:44
 image: 'https://m.media-amazon.com/images/I/41kQtkJOENL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cerveza con una guarda mínima de 3 semanas
-- Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
 - Donostia- San Sebastián. Se elabora con cereales de primera calidad y sigue un exhaustivo proceso de fabricación.
+- Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
