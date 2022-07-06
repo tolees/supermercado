@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Café en grano de tueste natural
-- Con toques de miel y cítricos
 - Aptos para ser utilizado en máquinas superautomáticas de grano
-- Tiene notas de regaliz y cereza
 - Elaborado con café arabica
+- Café en grano de tueste natural
+- Tiene notas de regaliz y cereza
+- Con toques de miel y cítricos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

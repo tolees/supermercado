@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No contiene alcohol etílico
 - Testado dermatológicamente
 - Desodorante roll-on antitranspirante para los hombres
+- No contiene alcohol etílico
 - Mantiene la piel sana y protegida durante 48h
 
 [🛒 Aquí!!!]({{< param buyurl >}})
