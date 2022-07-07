@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- REVITALIZA tus encías para unos dientes firmemente protegidos día tras día
+- PROTEGE TUS ENCÍAS: la fórmula de nuestro dentífrico reduce las bacterias en la línea de las encías
+- FORTALECE LAS ENCÍAS. El dentífrico Colgate Encías Revitalizante está clínicamente probado para fortalecer tus encías y aumentar su resistencia con un uso dos veces al día
 - CUIDADO DIARIO: la fórmula única y delicada del dentífrico Colgate Encías Revitalizante contiene minerales y extracto de ginseng y es segura para su uso diario
 - CONTIENE FLÚOR: Su fórmula también contiene flúor para combatir la caries y la placa a diario
-- FORTALECE LAS ENCÍAS. El dentífrico Colgate Encías Revitalizante está clínicamente probado para fortalecer tus encías y aumentar su resistencia con un uso dos veces al día
-- PROTEGE TUS ENCÍAS: la fórmula de nuestro dentífrico reduce las bacterias en la línea de las encías
-- REVITALIZA tus encías para unos dientes firmemente protegidos día tras día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
