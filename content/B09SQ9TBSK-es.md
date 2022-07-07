@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cerveza tipo laguer
-- Elaborada a -1ºC
 - De color rubio pálido, se caracteriza por su sabor suave, con un ligero aroma afrutado,
 - 4% de alcohol en volumen
 - Ingredientes naturales: agua, levadura, malta de cebada y lúpulo
+- Elaborada a -1ºC
 
 [🛒 Comprar!!!]({{< param buyurl >}})

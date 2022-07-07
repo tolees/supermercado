@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - A diferencia del aceite de oliva refinado, el aceite de oliva virgen solo ha sido elaborado a través de procesos mecánicos
-- Libre de alérgenos
 - País de origen: España
+- Libre de alérgenos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
