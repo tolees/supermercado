@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Terapia de color para tu cabello castaño
 - Limpia profundamente y aporta pigmentos para evitar subtonos anaranjados
 - Ideal para cabellos castaños y chocolates
 - Champu Azul Anti-Anaranjado
-- Terapia de color para tu cabello castaño
 - Sin sal, sulfato ni parabenos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
