@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ruffles Jamon Patatas Fritas  150g'
-date: 2022-07-06 17:21:52
+date: 2022-07-08 05:21:17
 image: 'https://m.media-amazon.com/images/I/51niIeTdAuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ruffles'
 buyurl: 'https://www.amazon.es/dp/B084LCBGHR/?tag=tolees-21'
 descuento: '23.67'
-average: '1.3435294117647'
+average: '1.34055555555555'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Patatas fritas
 - Contiene leche y sus derivados, soja y sus derivados
 - Bolsa de 160g
-- Patatas fritas
 - Sabor Jamon
 
 [🛒 Comprar!!!]({{< param buyurl >}})
