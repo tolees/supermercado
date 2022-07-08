@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cápsulas compatibles con Nespresso* (*No registrado en Amazon EU S.a.r.l.). No compatibles con las cafeteras Nespresso Vertuo. Asegúrese siempre de seguir las instrucciones del fabricante de la cafetera.
 - El café tiene una acidez bien redondeada con una dulzura equilibrada y mucho cuerpo.
+- El aluminio permite que nuestras cápsulas sean perfectamente herméticas y garantiza una óptima conservación del aroma y del sabor del café
+- 80 cápsulas de aluminio: 4 x 20 cápsulas
+- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
 - Café de Colombia. Tostado y envasado en Bélgica
 - 100 % arábica
 - Intensidad: 5/5
-- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
-- El aluminio permite que nuestras cápsulas sean perfectamente herméticas y garantiza una óptima conservación del aroma y del sabor del café
-- 80 cápsulas de aluminio: 4 x 20 cápsulas
-- Cápsulas compatibles con Nespresso* (*No registrado en Amazon EU S.a.r.l.). No compatibles con las cafeteras Nespresso Vertuo. Asegúrese siempre de seguir las instrucciones del fabricante de la cafetera.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bandeja de 20 unidades
 - Aptas para veganos
 - Sin lactosa
+- Bandeja de 20 unidades
 - Palmeritas de hojaldre crujiente elaboradas siguiendo la receta tradicional
 
 [🛒 Comprar!!!]({{< param buyurl >}})

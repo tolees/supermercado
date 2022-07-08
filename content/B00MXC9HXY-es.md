@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido 3 unidades
 - Es un lote de productos de limpieza personal
+- Contenido 3 unidades
 - Lote de productos de baño de marca Lida
 - Baño e higiene personal
 - Producto pensado para uso unisex

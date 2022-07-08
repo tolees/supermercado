@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fuente de fibra
-- Disfruta de estos crujientes anacardos tostados y con sal en cualquier momento del día, como parte de una dieta equilibrada
-- Paquete de 2
-- No apto para alérgicos a otros frutos de cáscara y los cacahuetes, ni para celíacos, debido al método de producción
 - Apto para dietas vegetarianas y veganas
+- Paquete de 2
+- Fuente de fibra
+- No apto para alérgicos a otros frutos de cáscara y los cacahuetes, ni para celíacos, debido al método de producción
+- Disfruta de estos crujientes anacardos tostados y con sal en cualquier momento del día, como parte de una dieta equilibrada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

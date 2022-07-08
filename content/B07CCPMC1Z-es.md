@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin sal añadida, ingredients naturales
-- Contiene estos ingredients: mango deshidratado, agente conservante (dióxido de azufre)
 - Rico en fibra
 - Apto para dietas vegetarianas y veganas
+- Contiene estos ingredients: mango deshidratado, agente conservante (dióxido de azufre)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

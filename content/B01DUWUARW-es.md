@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El preferido de los jovenes y de esos adultos nostálgicos
+- Un postre perfecto
 - Delicioso bizcocho relleno de crema con una riquisima capa de mermelada de fresa
 - Se debe conservar en un lugar fresco y seco
 - Advertencia alergénica: contiene soja, trigo, leche y huevo
-- El preferido de los jovenes y de esos adultos nostálgicos
-- Un postre perfecto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

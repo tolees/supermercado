@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - optimo para hoteles, B & BS y las casas de huéspedes
-- Cumple con REACH
 - Agradablemente perfumado
+- Cumple con REACH
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
