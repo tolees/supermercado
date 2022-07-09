@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- LICORES1 Cava VEGAMAR PRIVÉE 18 Brut Nature Reserva1 Vino Tinto D.O. Ribera del Duero TARSUS Reserva1 Vino Tinto D.O. Ribera del Duero MARQUÉS DE BURGOS Crianza
 - CONSERVAS Y OTROS1 Caja de Cartón decorada y con asa (43x35x11 cm)
 - CHARCUTERÍA1 Pieza Entera Queso Curado 450 g aprox. GRAN CAPITÁN1 Lomito Cabecero Ibérico 500 g aprox. MONTEHONFRÍA (Salamanca)1 Salchichón 100% Ibérico de Bellota 225 g aprox. BEHER (Guijuelo)1 Chorizo 100% Ibérico de Bellota 225 g aprox. BEHER (Guijuelo)LICORES1 Cava VEGAMAR PRIVÉE 18 Brut Nature Reserva1 Vino Tinto D.O. Ribera del Duero TARSUS Reserva1 Vino Tinto D.O. Ribera del Duero MARQUÉS DE BURGOS CrianzaCONSERVAS Y OTROS1 Caja de Cartón decorada y con asa (43x35x11 cm)
-- LICORES1 Cava VEGAMAR PRIVÉE 18 Brut Nature Reserva1 Vino Tinto D.O. Ribera del Duero TARSUS Reserva1 Vino Tinto D.O. Ribera del Duero MARQUÉS DE BURGOS Crianza
 - Cualquier producto podrá ser sustituido, en caso de rotura de stock, por otro de igual valor y/o características
 
 [🛒 Aquí!!!]({{< param buyurl >}})

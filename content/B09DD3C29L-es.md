@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ✅ Date un capricho y disfruta de un increíble momento con una copa de vino acompañado del surtido de patés y cremas junto a los rizaditos de pan Guapo
-- ✅ Pack Gourmet: Paté Ibérico 110g, Paté al Pedro Ximénez 110g, Paté a las finas hierbas 110g, Crema de Boletus a la trufa negra 110g, Crema de queso de cabra 110g, Crema de queso de oveja 110g y Aceite de oliva virgen extra VR
-- ✅ Nuestro Pack Gourmet es perfecto para disfrutar un increíble picoteo en cualquier lugar. Prepara unas tapas de forma rápida y sencilla y disfruta de una magnifica velada.
 - ✅ Vino tinto Reyes D.O. Jumilla 75cl, Rizaditos de pan Guapo 35 gramos y Rizaditos de Pan Guapo Integral de 35 gramos
+- ✅ Nuestro Pack Gourmet es perfecto para disfrutar un increíble picoteo en cualquier lugar. Prepara unas tapas de forma rápida y sencilla y disfruta de una magnifica velada.
 - ✅ Estamos siempre a tu disposición para ofrecerte un servicio de atención al cliente profesional. En caso de que hubiera algún problema te ofreceremos una solución en menos de 24 horas.
+- ✅ Pack Gourmet: Paté Ibérico 110g, Paté al Pedro Ximénez 110g, Paté a las finas hierbas 110g, Crema de Boletus a la trufa negra 110g, Crema de queso de cabra 110g, Crema de queso de oveja 110g y Aceite de oliva virgen extra VR
+- ✅ Date un capricho y disfruta de un increíble momento con una copa de vino acompañado del surtido de patés y cremas junto a los rizaditos de pan Guapo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

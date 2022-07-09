@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes: Atun claro, aceite de oliva y sal.
 - Vuelca facil.
-- Alta calidad
 - País de origen: España
+- Alta calidad
+- Ingredientes: Atun claro, aceite de oliva y sal.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

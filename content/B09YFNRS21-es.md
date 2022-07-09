@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🍫 HAPPY HIPPO (3 unidades): la galleta divertida y con forma de hipopótamo ideal para los más pequeños. Escoge entre la dos variedades que rellenan su barquillo: leche y avellanas o leche y cacao.
+- 🍫 KINDER JOY (2 unidades): Dos crujientes bolitas cubiertas de cacao en una suave crema de leche la convierten en la merienda ideal.
+- 🍫 OREO ORIGINAL (3 unidades): Galletas de cacao rellenas de una deliciosa crema, en cada paquete podemos encontrar 6 unidades.
 - 🍫 NUTELLA ( 15 gr x 4 unidades): u sabor auténtico de avellanas y cacao, irresistible por su cremosidad única.
 - 🍫 NUTELLA B-READY (2 unidades): disfruta del sabor único de Nutella envuelto en una crujiente galleta de barquillo.
 - 🍫 KINDER BUENO CHOCOLATE BLANCO (3 unidades): Barritas de crujiente barquillo con relleno de leche y avellanas, recubiertas de una fina capa de chocolate blanco. ¡Totalmente irresistibles en cualquier momento del día!
-- 🍫 KINDER JOY (2 unidades): Dos crujientes bolitas cubiertas de cacao en una suave crema de leche la convierten en la merienda ideal.
-- 🍫 OREO ORIGINAL (3 unidades): Galletas de cacao rellenas de una deliciosa crema, en cada paquete podemos encontrar 6 unidades.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

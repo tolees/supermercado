@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Botella con plástico 100% reciclado, de calidad alimentaria y reciclable
-- Fórmula testada en condiciones de vida marina demostrando que no tiene un impacto perjudicial en el medio marino
 - Base 94% biodegradable
+- Fórmula testada en condiciones de vida marina demostrando que no tiene un impacto perjudicial en el medio marino
 - Piel protegida contra los rayos UVA y UVB, 0% Octocrileno
 - Garnier Delial Leche Protectora SPF 50 fórmula biodegradable 94% respetuosa con la vida marina 
+- Botella con plástico 100% reciclado, de calidad alimentaria y reciclable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

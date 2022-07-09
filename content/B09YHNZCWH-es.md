@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes de las chocolatinas: azúcar, manteca de cacao, leche en polvo, pasta de cacao, emulgente (lecitina de soja) y aroma (vainilla). Cacao: 32% mínimo. Puede contener trazas de frutos de cáscara.
-- Mensajes de las chocolatinas: varios mensajes motivadores.
-- La parte trasera del packaging cuenta con una pieza de texto rellenable por la persona que lo regala, incrementando así la experiencia regalo.
-- Caja de 20 chocolatinas de chocolate con leche, de 4 gr cada una, que imita el formato de un libro, cuya portada tiene un mensaje de amistad, así como cada una de las 20 chocolatinas de su interior.
 - Producto sin gluten.
+- La parte trasera del packaging cuenta con una pieza de texto rellenable por la persona que lo regala, incrementando así la experiencia regalo.
+- Mensajes de las chocolatinas: varios mensajes motivadores.
+- Ingredientes de las chocolatinas: azúcar, manteca de cacao, leche en polvo, pasta de cacao, emulgente (lecitina de soja) y aroma (vainilla). Cacao: 32% mínimo. Puede contener trazas de frutos de cáscara.
+- Caja de 20 chocolatinas de chocolate con leche, de 4 gr cada una, que imita el formato de un libro, cuya portada tiene un mensaje de amistad, así como cada una de las 20 chocolatinas de su interior.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

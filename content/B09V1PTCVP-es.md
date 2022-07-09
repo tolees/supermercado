@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VARIEDAD: aceite de oliva virgen extra monovarietal, elaborado 100% con aceitunas de la variedad Hojiblanca recolectadas principalmente en Málaga, Córdoba y Sevilla
 - SELECCIÓN DCOOP: aceite español procedente de la cosecha de miles de pequeños agricultores que forman la cooperativa Dcoop
 - MARIDAJE: las cualidades organolépticas de este aceite lo hacen ideal para la elaboración de cualquier tipo de plato, desde guisos o asados hasta fritos
-- FORMATO: envasado en botella PET oscura de 3 litros que preserva mejor las propiedades del producto, tapón de rosca; práctico y versátil para todo tipo de usos en cocina
+- VARIEDAD: aceite de oliva virgen extra monovarietal, elaborado 100% con aceitunas de la variedad Hojiblanca recolectadas principalmente en Málaga, Córdoba y Sevilla
 - NOTA de CATA: frutado, versátil y equilibrado; la entrada en boca marca su fuerte personalidad con un sabor auténtico, complejo y persistente
+- FORMATO: envasado en botella PET oscura de 3 litros que preserva mejor las propiedades del producto, tapón de rosca; práctico y versátil para todo tipo de usos en cocina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

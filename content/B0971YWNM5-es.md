@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - TÉ VERDE: se utiliza en cosmética por sus efectos dermatológicos y terapéuticos. Antioxidante, anticancerígeno y antibiótico.
-- JABÓN ÁRBOL DE TÉ: con base de aceite de oliva y té verde indicado para pieles con acné, hongos o bacterias. Ayuda a eliminar el mal olor corporal.
-- CICATRIZANTE Y BACTERICIDA: ayuda a mejorar el acné y reduce el exceso de grasa. Deja la piel fresca y limpia.
-- JABON ARTESANO: Hecho a mano en España con ingredientes orgánicos 100% de origen vegetal. Apto para piel grasa, sensible, seca o mixta, restaura el pH neutro de la piel. Uso para ducha y desmaquillante natural.
 - JABÓN BIODEGRADABLE: es un producto ZERO WASTE / RESIDUO CERO libre de plásticos con un envase totalmente biodegradable y compostable. Sin ingredientes sintéticos, ni detergentes agresivos, ni sustancias con alérgenos.
+- JABÓN ÁRBOL DE TÉ: con base de aceite de oliva y té verde indicado para pieles con acné, hongos o bacterias. Ayuda a eliminar el mal olor corporal.
+- JABON ARTESANO: Hecho a mano en España con ingredientes orgánicos 100% de origen vegetal. Apto para piel grasa, sensible, seca o mixta, restaura el pH neutro de la piel. Uso para ducha y desmaquillante natural.
+- CICATRIZANTE Y BACTERICIDA: ayuda a mejorar el acné y reduce el exceso de grasa. Deja la piel fresca y limpia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Desde hace más de 40 años, Villa Guelfa selecciona y embala las cestas de Navidad cuidadosamente
-- Cesta de Navidad con especialidades gastronómicas y de repostería de alta calidad ✔️
-- 🎁 Idea de regalo clásica, útil y muy apreciada, ideal para empleados, familiares y amigos
 - Contenedor: cesta rectangular de mimbre barnizado; la cesta tiene capacidad para 21 productos ❗
+- Cesta de Navidad con especialidades gastronómicas y de repostería de alta calidad ✔️
+- Desde hace más de 40 años, Villa Guelfa selecciona y embala las cestas de Navidad cuidadosamente
+- 🎁 Idea de regalo clásica, útil y muy apreciada, ideal para empleados, familiares y amigos
 - Las marcas y los productos son cuidadosamente seleccionados para crear una cesta especial 🎁
 
 [🛒 Visítala!!!]({{< param buyurl >}})

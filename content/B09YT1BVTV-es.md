@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MADE IN SPAIN: Toda nuestra repostería tiene origen en Abiego (Huesca), cumpliendo los más estrictos controles de calidad.
+- REPOSTERÍA DE ALTA CALIDAD: Nuestra bollería y dulces son el perfecto acompañante para tus desayunos, almuerzos y meriendas.
 - DESAYUNO IDEAL. Nuestros bizcochos serán la perfecta combinación para un desayuno con bollería y dulces. Idóneo para disfrutarlas día a día o hacer un desayuno sorpresa a esa persona tan especial.
 - Harina de trigo, azúcar, huevo líquido pasteurizado, aceite de girasol, humectantes (glicerol, sorbitol), leche pasteurizada, miel, jarabe de glucosa y fructoas, gasificantes (bicarbonato sódico, difosfato disódico), conservador E-200, corrector de acidez E-330 y aroma.
-- REPOSTERÍA DE ALTA CALIDAD: Nuestra bollería y dulces son el perfecto acompañante para tus desayunos, almuerzos y meriendas.
+- MADE IN SPAIN: Toda nuestra repostería tiene origen en Abiego (Huesca), cumpliendo los más estrictos controles de calidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

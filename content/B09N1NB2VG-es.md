@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CHARCUTERÍA1 Paleta Loncheada 50% Ibérica 100 g CÉSAR NIETO (Guijuelo)1 Salchichón Ibérico de Bellota 250 g aprox. MONTELUZ1 Chorizo Ibérico de Bellota 250 g aprox. MONTELUZ1 Sobrasada Ibérica 250 g MONTEHONFRÍA (Salamanca)
 - LICORES1 Vermouth Rouge ¡OH LALA! Añejo Criado en Roble 75 cl1 Crema de Orujo PANIZO 50 cl1 Cava CODORNIU CLÁSICO Brut Nature1 Vino Tinto D.O. Rioja AÑARES Crianza Bodegas Olarra1 Vino Tinto SOCA Reserva Grupo Bodegas Olarra1 Vino Blanco HUELLA de Verdejo VEGAMAR
-- Cualquier producto podrá ser sustituido, en caso de rotura de stock, por otro de igual valor y/o características
 - *No incluye decoración
 - CONSERVAS Y OTROS1 Estuche Paté Ibérico con Cerezas 70 g IBERITOS1 Estuche Paté Ibérico Pedro Ximénez con Pasas 70 g IBERITOS1 Caja de Cartón decorada y con asa (50x37x11 cm)
+- CHARCUTERÍA1 Paleta Loncheada 50% Ibérica 100 g CÉSAR NIETO (Guijuelo)1 Salchichón Ibérico de Bellota 250 g aprox. MONTELUZ1 Chorizo Ibérico de Bellota 250 g aprox. MONTELUZ1 Sobrasada Ibérica 250 g MONTEHONFRÍA (Salamanca)
+- Cualquier producto podrá ser sustituido, en caso de rotura de stock, por otro de igual valor y/o características
 - TURRONES Y DULCES1 Turrón Jijona Etiqueta Blanca 150 g ANTIU XIXONA1 Turrón Crocant con Frutos Secos Etiqueta Negra 150 g ANTIU XIXONA1 Bombones Surtidos 95 g LACASA1 Surtido Mantecados y Polvorones 300 g EL SANTO1 Neulas Bañadas al Cacao 55 g MUNDO BARQUILLO
 
 [🛒 Visítala!!!]({{< param buyurl >}})

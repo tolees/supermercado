@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ALÉRGENOS: Sin aceite de palma
-- MADE IN SPAIN: Toda nuestra repostería tiene origen en Abiego (Huesca), cumpliendo los más estrictos controles de calidad.
-- INGREDIENTES: Harina de trigo, azúcar, huevos, aceite de girasol, cacao en polvo, leche en polvo, harina de maiz, glucosa, sorbitol, gasificante (E-450, E-500ii), conservador (E-200, E-281) y aromas.
-- DESAYUNO IDEAL. Nuestros bizcochos de chocolate serán la perfecta combinación para un desayuno con bollería y dulces. Idóneo para disfrutarlas día a día o hacer un desayuno sorpresa a esa persona tan especial.
 - REPOSTERÍA DE ALTA CALIDAD: Nuestra bollería y dulces son el perfecto acompañante para tus desayunos, almuerzos y meriendas.
+- DESAYUNO IDEAL. Nuestros bizcochos de chocolate serán la perfecta combinación para un desayuno con bollería y dulces. Idóneo para disfrutarlas día a día o hacer un desayuno sorpresa a esa persona tan especial.
+- MADE IN SPAIN: Toda nuestra repostería tiene origen en Abiego (Huesca), cumpliendo los más estrictos controles de calidad.
+- ALÉRGENOS: Sin aceite de palma
+- INGREDIENTES: Harina de trigo, azúcar, huevos, aceite de girasol, cacao en polvo, leche en polvo, harina de maiz, glucosa, sorbitol, gasificante (E-450, E-500ii), conservador (E-200, E-281) y aromas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
