@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elizabeth Arden Provocative Eau de Parfum 100 ml'
-date: 2022-07-07 18:32:49
+date: 2022-07-08 22:21:43
 image: 'https://m.media-amazon.com/images/I/41eJo0gL0pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B000C1Z4UI-es Elizabeth Arden Provocative Eau de Parfum 100 ml'
 sku: 'B000C1Z4UI-es'
 tags: [ 'Agua de perfume para mujeres','Belleza','Fragancias para mujeres','Perfumes y fragancias','arden','elizabeth','elizabeth arden','🇪🇸', ]
-actualPrice: 21.7 EUR
+actualPrice: 22.0 EUR
 currency: EUR
-price: 21.7
-comparePrice: 21.7 EUR
+price: 22.0
+comparePrice: 22.0 EUR
 prodname: 'Elizabeth Arden Provocative Eau de Parfum 100 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Elizabeth Arden'
 buyurl: 'https://www.amazon.es/dp/B000C1Z4UI/?tag=tolees-21'
 descuento: '0.00'
-average: '17.0925324675326'
+average: '17.1241935483872'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

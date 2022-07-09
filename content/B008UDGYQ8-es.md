@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana - Leche UHT Entera - 1 L'
-date: 2022-07-07 18:34:50
+date: 2022-07-08 22:29:43
 image: 'https://m.media-amazon.com/images/I/41GMURMGUML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Central Lechera Asturiana'
 buyurl: 'https://www.amazon.es/dp/B008UDGYQ8/?tag=tolees-21'
 descuento: '0.00'
-average: '2.534'
+average: '2.57545454545455'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Peso neto de 1 L
 - Contiene Leche o derivados de la leche (lactosa)
 - Una vez abierto conservar en el frigorifico
-- Peso neto de 1 L
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnnie Walker Red Label Whisky Escocés - Edición Limitada 200 Aniversario - 700 ml'
-date: 2022-06-30 09:26:13
+date: 2022-07-08 21:11:02
 image: 'https://m.media-amazon.com/images/I/31aqILDQOUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Johnnie Walker'
 buyurl: 'https://www.amazon.es/dp/B09D3T3Y5Q/?tag=tolees-21'
 descuento: '23.60'
-average: '13.02'
+average: '13.004'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Edicion limitada 200 años
-- Chispeante y especiado, con una explosión de sabores vibrantes y ahumados
-- Contiene hasta 35 whiskies diferentes seleccionados de las mejores destilerías de Escocia
-- Versátil y con un atractivo universal, tiene un sabor acentuado y lleno de carácter
 - Disfrútelo en vaso alto con hielo y ginger ale
+- Chispeante y especiado, con una explosión de sabores vibrantes y ahumados
+- Versátil y con un atractivo universal, tiene un sabor acentuado y lleno de carácter
+- Contiene hasta 35 whiskies diferentes seleccionados de las mejores destilerías de Escocia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

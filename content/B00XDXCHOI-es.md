@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moussel Jabón de Manos Classique Original 300ml'
-date: 2022-07-07 17:39:17
+date: 2022-07-08 22:47:09
 image: 'https://m.media-amazon.com/images/I/41nBe-ZQh8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¿Nuestro consejo? No te apresures, canta y ¡pásatelo bien!
 - Una fragancia única, llena de placer
 - Lávate las manos en su abundante espuma y resérvate ese ratito de positividad cada día
+- ¿Nuestro consejo? No te apresures, canta y ¡pásatelo bien!
 - Jabón de Manos Moussel Classique Original 300ml
 - Textura suave y cremosa que ayuda a mantener la tersura natural de tu piel
 - ¡Alegría en tus manos!
