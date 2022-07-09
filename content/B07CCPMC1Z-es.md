@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - Happy Belly Mango deshidratado  100 g  Paquete de 7 '
-date: 2022-07-08 05:56:04
+date: 2022-07-09 16:40:41
 image: 'https://m.media-amazon.com/images/I/516kiREu9EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin sal añadida, ingredients naturales
-- Rico en fibra
-- Apto para dietas vegetarianas y veganas
 - Contiene estos ingredients: mango deshidratado, agente conservante (dióxido de azufre)
+- Rico en fibra
+- Sin sal añadida, ingredients naturales
+- Apto para dietas vegetarianas y veganas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
