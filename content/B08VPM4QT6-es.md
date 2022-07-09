@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvo Atun Claro Ac. Oliva Vuelca Fácil  3 x 65 Gramos'
-date: 2022-07-07 17:59:52
+date: 2022-07-09 17:40:45
 image: 'https://m.media-amazon.com/images/I/41mOYYlhHtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- País de origen: España
 - Ingredientes: Atun claro, aceite de oliva y sal.
-- Alta calidad
 - Vuelca facil.
+- Alta calidad
+- País de origen: España
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

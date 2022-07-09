@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes: pera deshidratada, piña deshidratada, ciruela deshidratada, albaricoque deshidratado, manzana deshidratada, agente conservante (dióxido de azufre, sorbato potásico), regulador de acidez: ácido cítrico.
 - Una alternativa sabrosa para el aperitivo
+- Ingredientes: pera deshidratada, piña deshidratada, ciruela deshidratada, albaricoque deshidratado, manzana deshidratada, agente conservante (dióxido de azufre, sorbato potásico), regulador de acidez: ácido cítrico.
 - Apto para dietas vegetarianas y veganas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

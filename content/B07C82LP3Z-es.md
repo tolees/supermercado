@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ⚡️Fabricado en España.
-- ⚡️Ayuda a retirar las pecas y manchas del rostro y el cuerpo por su propiedad Antimanchas. Ayuda a retirar células muertas de granos y espinillas
-- ⚡️Instrucciones de uso: Mojar el rostro o todo el cuerpo y dar un suave masaje con el jabón. Con la espuma resultante puede tomar baño normalmente, aclarar y secar suavemente con una toalla.
-- ⚡️ Jabón exfoliante aclarador formulado con ingredientes de máxima eficacia.Limpia las impurezas y células muertas y ayuda a eliminar los granos, las espinillas aclarando la piel de forma apropiada. Contiene ingredientes naturales de plantas, polvo de semilla de albaricoque y agentes aclarantes. Exfolia las células muertas de la primera capa de la piel. La textura de su piel se muestra radiante y suave.
 - ⚡️Hecho con principios activos de origen natural.Para una limpieza diaria más profunda. Deja la piel limpia y preparada para la aplicación de cualquier otro tratamiento o crema.
+- ⚡️ Jabón exfoliante aclarador formulado con ingredientes de máxima eficacia.Limpia las impurezas y células muertas y ayuda a eliminar los granos, las espinillas aclarando la piel de forma apropiada. Contiene ingredientes naturales de plantas, polvo de semilla de albaricoque y agentes aclarantes. Exfolia las células muertas de la primera capa de la piel. La textura de su piel se muestra radiante y suave.
+- ⚡️Instrucciones de uso: Mojar el rostro o todo el cuerpo y dar un suave masaje con el jabón. Con la espuma resultante puede tomar baño normalmente, aclarar y secar suavemente con una toalla.
+- ⚡️Ayuda a retirar las pecas y manchas del rostro y el cuerpo por su propiedad Antimanchas. Ayuda a retirar células muertas de granos y espinillas
+- ⚡️Fabricado en España.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

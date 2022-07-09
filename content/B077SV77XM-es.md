@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de pastelería y repostería
+- Contiene huevo, leche y soja
 - Napolitanas de chocolate de la marca Dulcesol
 - Elaboradas con huevos frescos
-- Contiene huevo, leche y soja
+- Producto de pastelería y repostería
 - 5 unidades envasadas individualmente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

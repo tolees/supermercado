@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Antienvejecimiento y Antipolución. Con poder anti-arrugas gracias a las propiedades de los Silanoles
-- Producto para uso durante los 365 días del año.
 - Crema Facial Solar Factor de Protección Muy Alta.
-- El Aloe Vera tiene propiedades cicatrizantes, regeneradoras, es hidratante y antiinflamatorio.
+- Antienvejecimiento y Antipolución. Con poder anti-arrugas gracias a las propiedades de los Silanoles
 - Protección UVA (causantes del envejecimiento prematuro de la piel) , UVB (causantes del eritema solar- quemaduras), INFRARROJOS (provoca daños en el ADN y formación de radicales libres, causando envejecimiento cutáneo).
+- El Aloe Vera tiene propiedades cicatrizantes, regeneradoras, es hidratante y antiinflamatorio.
+- Producto para uso durante los 365 días del año.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

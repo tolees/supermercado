@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ayuda a la digestión
-- Antiácido natural
-- Suplemento Alimenticio
 - Complemento alimenticio natural, calidad certificada
+- Suplemento Alimenticio
+- Antiácido natural
+- Ayuda a la digestión
 
 [🛒 Aquí!!!]({{< param buyurl >}})

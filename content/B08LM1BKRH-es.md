@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cada paquete contiene aproximadamente 8 raciones
+- El jengibre confitado acompaña a la perfección chocolate y frutas
+- Paquete de 6 (6 x 200 g)
 - Apto para dietas vegetarianas y veganas
 - Tentempié dulce, ligeramente picante y chicloso para disfrutar en cualquier momento del día
-- Paquete de 6 (6 x 200 g)
-- Cada paquete contiene aproximadamente 8 raciones
 - Envasado en atmósfera protectora para mantener la frescura
-- El jengibre confitado acompaña a la perfección chocolate y frutas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

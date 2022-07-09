@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Elaboradas con un alto contenido de fruta (75 %) y sin pectinas, gluten, colorantes, saborizantes ni conservantes artificiales
-- Paquete de 3: 180 g x 3 (cada paquete contiene 9 raciones)
-- Estas extraordinarias mermeladas y confituras han llegado para mejorar tus desayunos, dar un toque de frescura a tus aperitivos o añadir un sabor afrutado a cualquiera de tus deliciosas creaciones
 - Cocinadas de forma moderada y con cuidado para conservar toda la intensidad de sabor, la frescura y los aromas de la fruta: un producto «casero» que se convierte en un delicioso capricho comercial
-- Mermeladas y confituras con los característicos trocitos de fruta y un sabor excepcional
+- Paquete de 3: 180 g x 3 (cada paquete contiene 9 raciones)
 - Surtido de mermelada extra de mezcla de frutas, mermelada extra de frambuesa y mermelada extra de fresa
+- Mermeladas y confituras con los característicos trocitos de fruta y un sabor excepcional
 - Aptas para dietas vegetarianas y veganas
+- Estas extraordinarias mermeladas y confituras han llegado para mejorar tus desayunos, dar un toque de frescura a tus aperitivos o añadir un sabor afrutado a cualquiera de tus deliciosas creaciones
 - El botón de seguridad salta cuando se rompe el sello
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Envasado en atmósfera protectora para mantener su frescura Con cierre
-- Puede contener fragmentos del hueso de la fruta
-- Alto contenido de fibra
-- Envase de 4: 4 x 300gr
 - Nuestros orejones de albaricoque contienen el sabor afrutado intenso de los albaricoques, conservados por desecación bajo el sol de Turquía. Son excelentes para dietas, como ingrediente para repostería o como ingrediente en muesli o yogur
 - No apto para alérgicos a los frutos de cáscara debido al método de producción
+- Puede contener fragmentos del hueso de la fruta
+- Envasado en atmósfera protectora para mantener su frescura Con cierre
 - Apto para dietas vegetarianas y veganas
+- Alto contenido de fibra
+- Envase de 4: 4 x 300gr
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

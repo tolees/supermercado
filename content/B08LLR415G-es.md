@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Envase de 4: 4 x 300gr
-- Puede contener fragmentos del hueso de la fruta
-- No apto para alérgicos a los frutos de cáscara debido al método de producción
 - Envasado en atmósfera protectora para mantener su frescura Con cierre
-- Apto para dietas vegetarianas y veganas
+- No apto para alérgicos a los frutos de cáscara debido al método de producción
+- Puede contener fragmentos del hueso de la fruta
 - Alto contenido de fibra. Disfrútelo como bocadillo o como parte de su desayuno o cocina
+- Apto para dietas vegetarianas y veganas
+- Envase de 4: 4 x 300gr
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

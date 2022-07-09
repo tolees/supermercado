@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 2kg (1kg+1kg),Sin SLS (Sodium Lauryl Sulfate)
+- Vegetarianos y Veganos
 - Todos los productos de la marca Forbury están fabricados por los mismos fabricantes de productos Forbury Direct. La nueva marca ha sido creada para optimizar las capacidades de envío y aumentar nuestras ofertas en línea. Con el relanzamiento de nuestra marca y la reestructuración estratégica, podemos llevar productos al mercado más rápido y reducir los precios. Por favor, apóyenos y deje su opinión.
 - Basa para jabón blanco de fundir y verter
-- Vegetarianos y Veganos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

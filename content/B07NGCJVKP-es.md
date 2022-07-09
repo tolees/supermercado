@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Únicamente para uso externo
 - Dermatológicamente probad
 - Jabón líquido para manos
-- 4 Botellas x 500ml
-- Por alta demanda, puede haber variaciones de formato: 4 envases con dispensador o 2 envases con dispensador y 2 envases de repuesto. Trabajamos para volver al formato original lo antes posible
-- Protege la piel contra la sequedad excesiva, dejando las manos nutridas y suaves
 - Aplicar en las manos húmedas, jabonar y enjuagar bien
-- En caso de contacto con los ojos, lavar bien con agua
-- Con miel y proteínas de leche
 - Fórmula cuidado hidratante a la leche y miel
+- Por alta demanda, puede haber variaciones de formato: 4 envases con dispensador o 2 envases con dispensador y 2 envases de repuesto. Trabajamos para volver al formato original lo antes posible
+- En caso de contacto con los ojos, lavar bien con agua
+- 4 Botellas x 500ml
+- Únicamente para uso externo
+- Protege la piel contra la sequedad excesiva, dejando las manos nutridas y suaves
+- Con miel y proteínas de leche
 
 [🛒 Visítala!!!]({{< param buyurl >}})

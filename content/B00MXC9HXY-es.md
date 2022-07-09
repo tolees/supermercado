@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Baño e higiene personal
 - Contenido 3 unidades
-- Lote de productos de baño de marca Lida
 - Es un lote de productos de limpieza personal
 - Producto pensado para uso unisex
+- Baño e higiene personal
+- Lote de productos de baño de marca Lida
 
 [🛒 Comprar!!!]({{< param buyurl >}})

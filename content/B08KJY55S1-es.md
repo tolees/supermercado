@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EXCELENCIA EN LA COSMÉTICA - Siempre hemos estado a la vanguardia de la innovación y hemos marcado algunas de las tendencias más populares, fomentando la diversidad en la industria de la belleza
 - TODO LO QUE NECESITAS - Esta paleta es perfecta para llevarla en tu bolso a todas partes y maquillarte rápidamente. Essentials Makeup is My Art incluye 5 brochas para los ojos
 - VALOR DEL PRODUCTO - Siempre hemos controlado la seguridad de nuestros productos y hemos estado comprometidos con la calidad. También tomamos decisiones responsables para un futuro más sostenible
-- EL SECRETO DE TU FABULOSO LOOK - Asegúrate de tener los accesorios adecuados para crear tus looks favoritos. Una selección de pinceles de ojos para la cara para conseguir el maquillaje perfecto
+- EXCELENCIA EN LA COSMÉTICA - Siempre hemos estado a la vanguardia de la innovación y hemos marcado algunas de las tendencias más populares, fomentando la diversidad en la industria de la belleza
 - UN REGALO ESPECIAL PARA TUS AMIGAS - Un estuche llamativo y gran calidad para un set súper completo: el regalo perfecto para las amantes de la belleza que quieren llevar todo lo que necesitan
+- EL SECRETO DE TU FABULOSO LOOK - Asegúrate de tener los accesorios adecuados para crear tus looks favoritos. Una selección de pinceles de ojos para la cara para conseguir el maquillaje perfecto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
