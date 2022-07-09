@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Old El Paso Sazonador para Guacamole  20g'
-date: 2022-07-02 20:56:29
+date: 2022-07-09 09:39:55
 image: 'https://m.media-amazon.com/images/I/51GrAqV4D+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Old El Paso'
 buyurl: 'https://www.amazon.es/dp/B00AHD2K5S/?tag=tolees-21'
 descuento: '5.38'
-average: '1.03514285714285'
+average: '1.04055555555555'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin conservantes
 - Machaca dos aguacates maduros y añade el sazonador
 - 3-4 porciones
+- Sin conservantes
 - Listo en 5 minutos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

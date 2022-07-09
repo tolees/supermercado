@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana Leche Semidesnatada  6 x 1L'
-date: 2022-07-07 19:00:20
+date: 2022-07-09 08:54:25
 image: 'https://m.media-amazon.com/images/I/61+wUvxHKtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Central Lechera Asturiana'
 buyurl: 'https://www.amazon.es/dp/B01ITRIBGU/?tag=tolees-21'
 descuento: '3.01'
-average: '10.7472131147542'
+average: '10.7447385620916'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rico en vitamina D
-- Leche de vaca semidesnatada conservando los valores nutricionales necesarios
-- Fuente de potasio
 - Almacenar en lugar fresco y seco
 - Fuente de calcio
+- Rico en vitamina D
+- Fuente de potasio
+- Leche de vaca semidesnatada conservando los valores nutricionales necesarios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sempio - Gochujang Pasta de soja con chile Coreano Chili Paste Sin Gluten Gluten free 250g'
-date: 2022-07-07 16:54:57
+date: 2022-07-09 09:48:21
 image: 'https://m.media-amazon.com/images/I/41sGo3JFPXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana - Leche en polvo - Entera - 1 kg'
-date: 2022-07-07 18:54:58
+date: 2022-07-09 09:09:48
 image: 'https://m.media-amazon.com/images/I/51HaHUfcJfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
