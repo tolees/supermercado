@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Purina Felix Gelatina comida para gatos'
-date: 2022-07-09 17:16:03
+date: 2022-07-11 15:55:49
 image: 'https://m.media-amazon.com/images/I/41Ks-aQdngL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08WSYSQVL-es Purina Felix Gelatina comida para gatos'
 sku: 'B08WSYSQVL-es'
 tags: [ 'Artículos para gatos','Comida húmeda para gatos','Comida para gatos','Productos para mascotas','purina','purina felix','🇪🇸', ]
-actualPrice: 23.75 EUR
+actualPrice: 15.99 EUR
 currency: EUR
-price: 23.75
+price: 15.99
 comparePrice: 23.75 EUR
 prodname: 'Purina Felix Gelatina comida para gatos'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Purina Felix'
 buyurl: 'https://www.amazon.es/dp/B08WSYSQVL/?tag=tolees-21'
-descuento: '0.00'
-average: '23.75'
+descuento: '32.67'
+average: '21.1633333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% completo y equilibrado Vitaminas D & E Fuente de Ácidos Grasos Omega 6
-- Fuente de Ácidos Grasos Omega 6
 - Elaborado con ingredientes de calidad
 - Sin aromatizantes artificiales añadidos Sin conservantes artificiales añadidos
+- Fuente de Ácidos Grasos Omega 6
+- 100% completo y equilibrado Vitaminas D & E Fuente de Ácidos Grasos Omega 6
 
 [🛒 Aquí!!!]({{< param buyurl >}})
