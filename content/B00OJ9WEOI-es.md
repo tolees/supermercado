@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Arábica 100% de Costa Rica. Matices de caramelo y dulce de leche.
-- Un sabor dulce con matices de malta: tu café perfecto durante el día.
-- El 5% de las ventas fue donado a Free the Bears Charity, fundación protectora de osos en peligro que ha rescatado a más de 950 osos y opera santuarios para osos en todo el sureste asiático.
-- Apto para todas las cafeteras y máquinas de café.
 - Intensidad: 3 (Medio tostado)
+- Apto para todas las cafeteras y máquinas de café.
+- Arábica 100% de Costa Rica. Matices de caramelo y dulce de leche.
+- El 5% de las ventas fue donado a Free the Bears Charity, fundación protectora de osos en peligro que ha rescatado a más de 950 osos y opera santuarios para osos en todo el sureste asiático.
+- Un sabor dulce con matices de malta: tu café perfecto durante el día.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rockstar Original  Bebida Energética  500ml'
-date: 2022-07-03 11:06:50
+date: 2022-07-11 19:31:35
 image: 'https://m.media-amazon.com/images/I/41rUMgXktsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rockstar'
 buyurl: 'https://www.amazon.es/dp/B018VN0B2Y/?tag=tolees-21'
 descuento: '34.11'
-average: '0.95'
+average: '0.925'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
