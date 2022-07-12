@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado para adultos y niños a partir de 6 años
 - Ayuda a limpiar, hidratar y aliviar la congestión nasal, ideal para la limpieza nasal diaria de toda la familia
-- Spray nasal de agua de mar 100% natural indicado para la limpieza diaria, que alivia la congestión nasal y aporta hidratación
 - Pack unitario con envase de 20 ml
+- Spray nasal de agua de mar 100% natural indicado para la limpieza diaria, que alivia la congestión nasal y aporta hidratación
 - Contiene agua de mar hipertónica combinada con aceite de eucalipto y extracto natural de menta
+- Adecuado para adultos y niños a partir de 6 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
