@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ECOBRT Acrílico LED Lámpara de Espejo de Baño 62cm Lámpara de Baño IP44 Lámpara de Baño Lámpara de Pared Lámpara de Abrazadera 4000K Blanco Neutral Luz de Maquillaje Lámpara de Superficie.'
-date: 2022-06-30 14:09:17
+date: 2022-07-12 00:37:37
 image: 'https://m.media-amazon.com/images/I/21hmeOW0bEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 👌Material: Cuerpo de acero inoxidable de calidad con superficie de recubrimiento, durable no se oxida y, todo el tiempo brillante. Cubierta acrílica de alta transmisión de luz, la luz es suave y no deslumbrante.
-- 👌Servicio: 100% de garantía de calidad. La luz natural suave protege los ojos y no contiene mercurio, plomo, rayos UV o calor. Se puede utilizar para el baño, el vestidor, el escaparate, el baño de mujeres, etc.
-- 👌Instalación: cableado, certificado CE. No hay enchufe ni interruptor en las luces. Los accesorios de montaje están bien empaquetados en el paquete.
-- 👌Seguridad: La fuente de alimentación de este aplique de baño ha sido protegida por la electricidad. Los puntos de soldadura de la luz y el lugar donde hay posibilidad de fugas están hechos de pintura aislante y no hay fugas.
 - 👌Especificación: tamaño: 62L x 4.5W x 8.5H cm; voltaje: 220V; color de la luz: 4000-4500K; potencia: 13W. El LED ahorra hasta un 80% de energía, bajo consumo.
+- 👌Instalación: cableado, certificado CE. No hay enchufe ni interruptor en las luces. Los accesorios de montaje están bien empaquetados en el paquete.
+- 👌Servicio: 100% de garantía de calidad. La luz natural suave protege los ojos y no contiene mercurio, plomo, rayos UV o calor. Se puede utilizar para el baño, el vestidor, el escaparate, el baño de mujeres, etc.
+- 👌Seguridad: La fuente de alimentación de este aplique de baño ha sido protegida por la electricidad. Los puntos de soldadura de la luz y el lugar donde hay posibilidad de fugas están hechos de pintura aislante y no hay fugas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
