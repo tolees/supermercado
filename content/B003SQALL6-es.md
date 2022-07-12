@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La acción del acelerador del bronceado permitirá estar moreno durante más tiempo. Testado dermatológicamente. No testado en animales
-- Producto que sigue la nueva recomendación Europea para productos solares, protegiendo frente a los rayos UVB (causantes del eritema solar-quemaduras) y a los rayos UVA (causantes del envejecimiento prematuro de la piel). Resistente al agua.
-- El Aceite de Zanahoria se utiliza como bronceador. El acelerador del bronceado es un precursor del bronceado
 - Aceite Bronceador. Protección Baja
+- El Aceite de Zanahoria se utiliza como bronceador. El acelerador del bronceado es un precursor del bronceado
+- Producto que sigue la nueva recomendación Europea para productos solares, protegiendo frente a los rayos UVB (causantes del eritema solar-quemaduras) y a los rayos UVA (causantes del envejecimiento prematuro de la piel). Resistente al agua.
 - Activos: Aceite de Zanahoria, Filtros Solares y Acelerador del Bronceado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
