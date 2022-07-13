@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moussel Jabón de Manos Classique Original 300ml - Pack de 6'
-date: 2022-07-09 08:43:52
+date: 2022-07-13 21:58:36
 image: 'https://m.media-amazon.com/images/I/41dcQVCoSjS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Baño e higiene personal','Belleza','Jabónes de manos','Limpieza perso
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2
-comparePrice: 11.94 EUR
+comparePrice: 10.2 EUR
 prodname: 'Moussel Jabón de Manos Classique Original 300ml - Pack de 6'
 country: 'es'
 flag: '🇪🇸'
 brand: 'MOUSSEL'
 buyurl: 'https://www.amazon.es/dp/B0767GSTH4/?tag=tolees-21'
-descuento: '14.57'
-average: '9.63296819787986'
+descuento: '0.00'
+average: '9.6349647887324'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lávate las manos en su abundante espuma y resérvate ese ratito de positividad cada día
-- Una fragancia única, llena de placer
 - Jabón de Manos Moussel Classique Original 300ml
 - Textura suave y cremosa que ayuda a mantener la tersura natural de tu piel
+- Lávate las manos en su abundante espuma y resérvate ese ratito de positividad cada día
+- Una fragancia única, llena de placer
 - ¡Alegría en tus manos!
 - ¿Nuestro consejo? No te apresures, canta y ¡pásatelo bien!
 
