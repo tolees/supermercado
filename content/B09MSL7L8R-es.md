@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - producto 1: Su extraordinaria delicadeza te hará sentir la suavidad y el frescor más puro en tu ropa durante más tiempo.
-- producto 1: Estimula tus sentidos con ASEVI SENSITIF, el nuevo suavizante concentrado que proporciona a tu ropa una agradable sensación de pureza y delicadeza.
-- producto 1: Indicado para cualquier tipo de tejido y lavado, tanto a mano como a máquina.
 - producto 2: Gracias a su fórmula, podrás sentir la suavidad y frescura de la ropa recién lavada durante más tiempo.
 - producto 2: Descubre el nuevo suavizante concentrado ASEVI AZUL y disfruta de su frescor intenso en tu ropa.
+- producto 1: Estimula tus sentidos con ASEVI SENSITIF, el nuevo suavizante concentrado que proporciona a tu ropa una agradable sensación de pureza y delicadeza.
 - producto 1: Su fórmula, hipoalergénica y testada dermatológicamente, minimiza riesgos de alergias e irritaciones de la piel.
+- producto 1: Indicado para cualquier tipo de tejido y lavado, tanto a mano como a máquina.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
