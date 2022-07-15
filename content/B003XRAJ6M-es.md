@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un aroma limpio y refrescante
-- Jabón para manos suaves y protegidas
-- Para todo tipo de pieles
-- Testado dermatológicamente
 - Formato:500ml
+- Testado dermatológicamente
+- Para todo tipo de pieles
+- Jabón para manos suaves y protegidas
+- Un aroma limpio y refrescante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
