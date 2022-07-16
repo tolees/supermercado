@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Libre de parabenos; dermatológicamente testado; crea mucha espuma
-- Género; unisex; adulto e infantil
 - Gel de baño y ducha 720 ml; no testado en animales; vegano; fabricación íntegra en España
 - Gel de baño y ducha nutriente, aporta gran suavidad a la piel dejándola muy perfumada
 - Tipo de piel: Normal
 - Gel muy perfumado; perfume de caramelo; exquisita y dulce fragancia
+- Género; unisex; adulto e infantil
+- Libre de parabenos; dermatológicamente testado; crea mucha espuma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
