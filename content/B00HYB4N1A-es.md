@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Edad: Entre 36 y 50 años /, Más de 50 años
 - Tipo de Piel: Seca
 - Producto de la marca Skeyndor
 - Tratamiento: Noche y Día
+- Edad: Entre 36 y 50 años /, Más de 50 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
