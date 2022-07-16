@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Envase de 2: 2 x 500g
 - Cada paquete contiene aproximadamente 16 porciones
-- Naturalmente alto contenido de vitamina E: 100g de avellanas contienen 15mg Vitamina E
-- No apto para alérgicos a otros frutos de cáscara y a los cacahuetes, debido al método de producción
 - Avellanas tostadas
-- Envasado en Italia
 - Envasado en atmósfera protectora para mantener su frescura. Una vez abierto, conservar en un recipiente hermético
-- Nutrición (por100 g): Valor energético 673kcal; Grasas 62,4g; Hidratos de carbono 8,2g; Proteínas 15g; Fibra alimentaria 9,4g
-- Advertencia: Puede contener ocasionalmente trozos de cáscara. Los niños pequeños se pueden atragantar con los frutos secos
+- No apto para alérgicos a otros frutos de cáscara y a los cacahuetes, debido al método de producción
 - Alto contenido de fibra - Apto para dietas vegetarianas y veganas
+- Envasado en Italia
+- Envase de 2: 2 x 500g
+- Advertencia: Puede contener ocasionalmente trozos de cáscara. Los niños pequeños se pueden atragantar con los frutos secos
+- Nutrición (por100 g): Valor energético 673kcal; Grasas 62,4g; Hidratos de carbono 8,2g; Proteínas 15g; Fibra alimentaria 9,4g
+- Naturalmente alto contenido de vitamina E: 100g de avellanas contienen 15mg Vitamina E
 
 [🛒 Visítala!!!]({{< param buyurl >}})

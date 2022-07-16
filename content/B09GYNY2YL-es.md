@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- producto 1: Envase de 2: 2 x 500g
-- producto 1: Naturalmente alto contenido de vitamina E: 100g de avellanas contienen 15mg Vitamina E
-- producto 1: Avellanas tostadas
-- producto 2: Advertencia: puede contener traza de cáscara de fruto seco.
-- producto 2: Los anacardos enteros de Happy Belly tienen un delicado aroma y una firme textura que les dan un sabor de gran riqueza.
 - producto 2: Estos anacardos enteros de calidad suprema son al natural y sin sal.
+- producto 1: Naturalmente alto contenido de vitamina E: 100g de avellanas contienen 15mg Vitamina E
+- producto 1: Envase de 2: 2 x 500g
+- producto 2: Los anacardos enteros de Happy Belly tienen un delicado aroma y una firme textura que les dan un sabor de gran riqueza.
 - producto 1: Cada paquete contiene aproximadamente 16 porciones
+- producto 2: Advertencia: puede contener traza de cáscara de fruto seco.
+- producto 1: Avellanas tostadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
