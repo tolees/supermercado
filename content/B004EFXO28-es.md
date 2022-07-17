@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cabezales intercambiables
+- Interruptor combinado de encendido apagado
 - Cabezal de limpieza flexisoft compacto y redondo que rodea cada diente mientras las puntas interdentales llegan hasta el fondo de las áreas de difícil acceso
 - Sistema de limpieza bucal con 9600 oscilaciones por minuto
 - Diseño ergonómico con empuñadura suave de goma
-- Interruptor combinado de encendido apagado
+- Cabezales intercambiables
 
 [🛒 Aquí!!!]({{< param buyurl >}})
