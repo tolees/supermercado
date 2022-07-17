@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colon Higiene - Detergente para Lavadora con Activos Higiénicos y Elimina Olores  Adecuado para Ropa Blanca y de Color  Formato Gel  40 Dosis'
-date: 2022-07-15 13:56:49
+date: 2022-07-17 14:19:14
 image: 'https://m.media-amazon.com/images/I/41AsWUw8YLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Colon'
 buyurl: 'https://www.amazon.es/dp/B07N1TJLJY/?tag=tolees-21'
 descuento: '20.22'
-average: '7.14959999999999'
+average: '7.20846153846153'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
