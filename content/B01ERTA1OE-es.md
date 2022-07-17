@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vega de la Reina - Vega Reina Verdejo D.O. Rueda Vino Blanco - 750 ml'
-date: 2022-07-15 14:52:09
+date: 2022-07-16 22:04:39
 image: 'https://m.media-amazon.com/images/I/3134-jnFeFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tipo de uva: 100% Tempranillo
 - Origen: D.O. Rueda
 - Temperatura de servicio: entre 7º y 9ºC
-- Capacidad: 750 ml.
 - Maridaje: Ideal para acompañar pescados, mariscos, aperitivos, arroces y carnes blancas.
-- Tipo de uva: 100% Tempranillo
+- Capacidad: 750 ml.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

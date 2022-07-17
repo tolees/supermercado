@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ORLANDO Tomate Frito Clásico Brik 350g sin gluten'
-date: 2022-07-15 16:00:27
+date: 2022-07-16 21:11:33
 image: 'https://m.media-amazon.com/images/I/41-P34y4GkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ORLANDO'
 buyurl: 'https://www.amazon.es/dp/B007TY7GWU/?tag=tolees-21'
 descuento: '0.00'
-average: '0.679'
+average: '0.688181818181818'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Sin Gluten
 - Apto para Vegetarianos y Veganos
 - Listo para consumir
-- Sin trozos
-- Ingredientes: Tomate (160 g por 100 g de tomate frito), aceite de girasol (3,4%) (sofrito con cebolla y ajos frescos), azúcar, almidón modificado de maíz y sal
 - Una vez abierto conservar en frigorífico
+- Ingredientes: Tomate (160 g por 100 g de tomate frito), aceite de girasol (3,4%) (sofrito con cebolla y ajos frescos), azúcar, almidón modificado de maíz y sal
 - Sin conservantes
-- Sin Gluten
+- Sin trozos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
