@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Toda la gama es apta para lavavajillas y microondas, por lo que es fácil de limpiar y ideal para el uso diario.
-- Gracias a la encantadora forma ligeramente cuadrada de porcelana delicada y sin embargo muy resistente, este juego de vajilla destaca con un bonito brillo.
-- La vajilla de porcelana sin patrón invita a una bonita decoración con alimentos
-- Este juego de 30 piezas consta de 6 tazas de café de 200 ml, 6 platos de café de 15 cm, 6 platos de postre de 19 cm, 6 platos hondos de 21,5 cm y 6 platos llanos de 25 cm
 - Enni: vajilla especial, divertida y imaginativa de porcelana
+- Gracias a la encantadora forma ligeramente cuadrada de porcelana delicada y sin embargo muy resistente, este juego de vajilla destaca con un bonito brillo.
+- Toda la gama es apta para lavavajillas y microondas, por lo que es fácil de limpiar y ideal para el uso diario.
+- Este juego de 30 piezas consta de 6 tazas de café de 200 ml, 6 platos de café de 15 cm, 6 platos de postre de 19 cm, 6 platos hondos de 21,5 cm y 6 platos llanos de 25 cm
+- La vajilla de porcelana sin patrón invita a una bonita decoración con alimentos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

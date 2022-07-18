@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Diseño elegante
+- Producto de calidad óptima
 - Limpieza suave y profunda de la piel sensible y problemátic
 - Sin jabón ni agentes alcalinos
-- Producto de calidad óptima
-- Diseño elegante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
