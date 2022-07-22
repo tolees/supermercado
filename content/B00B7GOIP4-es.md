@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Croquetas con una forma especial y el sistema DentaDefense para ayudar a mantener los dientes limpios y sanos
-- L-carnitina para ayudar a controlar el peso
-- Fuentes naturales de omega 6 y 3 para favorecer una piel sana y un pelaje radiante ; Cúrcuma, fuente natural de antioxidantes
-- Mezcla de fibras adaptada con prebióticos (FOS), MOS y pulpa de remolacha para favorecer una digestión sana
 - Glucosamina para ayudar a mantener sanas las articulaciones y calcio para ayudar a mantener los huesos fuertes
+- Fuentes naturales de omega 6 y 3 para favorecer una piel sana y un pelaje radiante ; Cúrcuma, fuente natural de antioxidantes
+- Croquetas con una forma especial y el sistema DentaDefense para ayudar a mantener los dientes limpios y sanos
+- Mezcla de fibras adaptada con prebióticos (FOS), MOS y pulpa de remolacha para favorecer una digestión sana
+- L-carnitina para ayudar a controlar el peso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

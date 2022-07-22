@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cerveza Red Ale Temperatura recomendada 4-5 grados
-- Cerveza 1906 Una fusión beer de inspiración irlandesa, cerveza mezcla de cuatro maltas y cuatro lúpulos que dan lugar a una red ale gallega con alma céltica
-- Cerveza Galician Irish Apariencia: de color cobre con reflejos rubí. Espuma cremosa de color beige
-- Cerveza Clasificación: fusion beer
-- Cerveza de 5% Alcohol. Mantener en lugar fresco y seco
-- Cerveza de Ingredientes: agua de la ciudad de a coruña, cuatro tipos de malta (pale ale, carared, carahell, trigo malteado torrefactado), cuatro lúpulos (nugget, sladek, admiral y provoak) y nuestra levadura safale s-04 de fermentis
-- Cerveza 1906 GALICIAN IRISH RED ALE PACK 24 BOTELLAS DE 33 CL
-- Cerveza Galician Irish Apariencia: de color cobre con reflejos rubí. Espuma cremosa de color beige.
 - Cerveza Red Ale pack de cerveza de 24 Botellas individuales de 33cl
+- Cerveza Galician Irish Apariencia: de color cobre con reflejos rubí. Espuma cremosa de color beige
+- Cerveza de 5% Alcohol. Mantener en lugar fresco y seco
+- Cerveza 1906 Una fusión beer de inspiración irlandesa, cerveza mezcla de cuatro maltas y cuatro lúpulos que dan lugar a una red ale gallega con alma céltica
+- Cerveza Galician Irish Apariencia: de color cobre con reflejos rubí. Espuma cremosa de color beige.
+- Cerveza Clasificación: fusion beer
+- Cerveza de Ingredientes: agua de la ciudad de a coruña, cuatro tipos de malta (pale ale, carared, carahell, trigo malteado torrefactado), cuatro lúpulos (nugget, sladek, admiral y provoak) y nuestra levadura safale s-04 de fermentis
+- Cerveza Red Ale Temperatura recomendada 4-5 grados
+- Cerveza 1906 GALICIAN IRISH RED ALE PACK 24 BOTELLAS DE 33 CL
 - Cerveza de Aroma: limpio, maltoso, que recuerda a las avellanas y al tofe
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
