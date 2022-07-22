@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Galletas recubiertas de chocolate blanco
-- Ideal como snack
-- Contienen chips de chocolate negro
 - Están elaboradas sin aceite de palma
 - Se pueden servir como tal con leche
+- Ideal como snack
+- Contienen chips de chocolate negro
+- Galletas recubiertas de chocolate blanco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
