@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corrige y neutraliza el enrojecimiento de la piel
-- El efecto refrescante del primer calma y restaura la piel
-- Primer corrector del color y refrescante
-- Suaviza la textura del rostro para dejar una piel uniforme
-- Tipo de piel: Normal
 - Contiene ácido hialurónico y vitaminas A, B5, C, D y e
+- El efecto refrescante del primer calma y restaura la piel
+- Tipo de piel: Normal
+- Suaviza la textura del rostro para dejar una piel uniforme
+- Corrige y neutraliza el enrojecimiento de la piel
+- Primer corrector del color y refrescante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
