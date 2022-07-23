@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Eternity - Eau De Toilette Para Hombre  One size  50 ml'
-date: 2022-07-22 16:41:17
+date: 2022-07-23 17:28:51
 image: 'https://m.media-amazon.com/images/I/41MyuaPlxYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B0742BNKB1/?tag=tolees-21'
 descuento: '13.80'
-average: '25.5866666666667'
+average: '25.4375'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
