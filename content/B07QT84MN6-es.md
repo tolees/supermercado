@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar una nuez del producto sobre el cabello húmedo o seco, sin aclarar, antes de aplicar la plancha o el secador
+- Anti-humedad y anti-encrespamiento sin apelmazar durante 72 horas incluso con un 80% de humedad
 - Fórmula enriquecida con aceite de argán natural y keratina vegetal líquida
 - Crema de peinado sin aclarado para cabellos rebeldes o difíciles de alisar
 - Alisa, hidrata, aporta brillo, suaviza el pelo al instante y protege la fibra capilar para un liso duradero sin encrespamiento
-- Anti-humedad y anti-encrespamiento sin apelmazar durante 72 horas incluso con un 80% de humedad
+- Aplicar una nuez del producto sobre el cabello húmedo o seco, sin aclarar, antes de aplicar la plancha o el secador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
