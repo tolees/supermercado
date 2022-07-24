@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE - Ultra Blue  Estuche Regalo Hombre  Pack de 2 Piezas  Perfume 100 ml + Desodorante en Spray 200 ml '
-date: 2022-07-17 14:00:24
+date: 2022-07-24 18:37:50
 image: 'https://m.media-amazon.com/images/I/41nj4HPjyoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B08BX18S7C/?tag=tolees-21'
 descuento: '20.00'
-average: '11.81'
+average: '11.835'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - PIRÁMIDE OLFATIVA: Notas de salida: limón y menta; Notas de corazón: piña, hojas violeta y romero; Notas de fondo: sales marinas, musgo y ámbar
 - ESENCIA DURADERA: los productos de este estuche desprenden una esencia que persiste en la piel, una fragancia de larga duración para que te acompañe en tu día a día
+- TENDENCIA OLFATIVA: oriental floral
 - MASCULINO Y ENÉRGICO: un perfume de hombre de carácter valiente, con tonos florales y frescos que empujan a vivir
 - ESTUCHE DE REGALO: el estuche incluye un perfume masculino de 100 ml repleto de chispa y vitalidad y un desodorante en spray de 200 ml
-- TENDENCIA OLFATIVA: oriental floral
 
 [🛒 Visítala!!!]({{< param buyurl >}})

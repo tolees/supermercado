@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cacao (70%) (Cacao desgrasado en polvo, cacao), azúcar, almidón modificado, emulgente: lecitina de soja, estabilizador: goma guar, aromas (leche).
 - Chocolate sin Glúten. Apto para celíacos.
 - Para tomar con leche o con tu bebida vegetal favorita, es nuestra receta más gourmet, única y exquisita. Con más cacao que los productos convencionales y una tabla nutricional mucho más interesante.
-- Para los amantes de los altos porcentajes que buscan los matices fuertes y amargos del cacao. Descubre el verdadero sabor del cacao.
 - Cacao soluble Negro Intenso 70%. 300 Gramos.
+- Cacao (70%) (Cacao desgrasado en polvo, cacao), azúcar, almidón modificado, emulgente: lecitina de soja, estabilizador: goma guar, aromas (leche).
+- Para los amantes de los altos porcentajes que buscan los matices fuertes y amargos del cacao. Descubre el verdadero sabor del cacao.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
