@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Babaria- Champú de Cebolla Antioxisante, 700 ml
-- Estimulante del crecimiento capilar
-- Para todo tipo de cabellos
 - Sin olor, sin lágrimas y sin parabenos
 - propiedades antioxidantes, purificantes, antiirritantes, de protección del color del cabello y estimulantes del crecimiento capilar.
+- Para todo tipo de cabellos
+- Estimulante del crecimiento capilar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
