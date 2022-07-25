@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aplicador duo para crear múltiples looks para un acabado preciso
-- 12 sombras complementarias perfectas para hacer contouring
 - Todo en uno, sombra de ojos, delineador y iluminador
+- 12 sombras complementarias perfectas para hacer contouring
 - Perfecto para esculpir, sombrear y definir
 - Color intenso para todos los tonos de piel
 
