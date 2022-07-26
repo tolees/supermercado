@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tipo de producto - Leche neutralizante
-- Marca - Schwarzkopf
 - Género - Unisex
+- Marca - Schwarzkopf
 
 [🛒 Aquí!!!]({{< param buyurl >}})
