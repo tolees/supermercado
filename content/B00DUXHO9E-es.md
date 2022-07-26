@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El diseño de la botella que contiene este ron es una réplica de las botellas de ron victorianas, con dos asas laterales. El color negro oscuro está inspirado en el negro de la tinta misteriosa con la que, según la leyenda, el Kraken cubría a su presa.
-- Cata: El Ron Especiado Kraken es de un color profundo y oscuro. En nariz, aparecen notas golosas de pasas, caramelo, regaliz, vainilla, caramelo de cola y alcohol dulce. En boca se presenta un poco más rebelde, tras unas amables notas dulces introductorias, se va abriendo suavemente hacia equilibrados matices avainillados, cítricos de naranja dulce, de nuez moscada, canela y toque de madera.
 - Kraken Rum tiene una inconfundible personalidad gracias a sus once especias exóticas entre las que encontramos la canela, el jengibre y el clavo. El diseño de la botella que contiene este ron es una réplica de las botellas de ron victorianas, con dos asas laterales. El color negro oscuro está inspirado en el negro de la tinta misteriosa con la que, según la leyenda, el Kraken cubría a su presa.
-- Kraken es el primer Ron Spiced importado del Caribe mezclado con más de once especias secretas. Llamado así por una bestia marina de mito y leyenda, el Ron kraken es fuerte, rico, negro y liso.
+- El diseño de la botella que contiene este ron es una réplica de las botellas de ron victorianas, con dos asas laterales. El color negro oscuro está inspirado en el negro de la tinta misteriosa con la que, según la leyenda, el Kraken cubría a su presa.
 - Ron Kraken Black Spiced es importado desde el Caribe y envejecido en barricas de roble entre doce y veinticuatro meses.
+- Cata: El Ron Especiado Kraken es de un color profundo y oscuro. En nariz, aparecen notas golosas de pasas, caramelo, regaliz, vainilla, caramelo de cola y alcohol dulce. En boca se presenta un poco más rebelde, tras unas amables notas dulces introductorias, se va abriendo suavemente hacia equilibrados matices avainillados, cítricos de naranja dulce, de nuez moscada, canela y toque de madera.
+- Kraken es el primer Ron Spiced importado del Caribe mezclado con más de once especias secretas. Llamado así por una bestia marina de mito y leyenda, el Ron kraken es fuerte, rico, negro y liso.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
