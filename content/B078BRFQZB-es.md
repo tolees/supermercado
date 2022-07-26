@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Su fórmula se derrite suavemente para una aplicación adictiva
 - Color fucsia lacado ultra-pigmentado
 - Brillo de alta intensidad
+- Su fórmula se derrite suavemente para una aplicación adictiva
 
 [🛒 Aquí!!!]({{< param buyurl >}})

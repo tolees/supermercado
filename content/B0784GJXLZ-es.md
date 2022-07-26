@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Brillo de alta intensidad
 - Su fórmula se derrite suavemente para una aplicación adictiva
+- Brillo de alta intensidad
 - Color rojo lacado ultra-pigmentado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
