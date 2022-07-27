@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cerveza Estrella Galicia Especial - Pack botellines 24 x 25 cl
-- Para los más expertos en cerveza, Estrella Galicia Especial tiene un amargor de 25 EBU, color 9 EBC, ESP 13ºP
-- Cerveza Estrella Galicia, Pack 24 botellines. Estrella Galicia Cerveza Especial - Pack botellines 24 x 25 cl
-- Cerveza Estrella Galicia Especial El maridaje ideal: Quesos frescos, verduras y hortalizas frías, setas, pescados blancos y carnes
 - Cerveza La temperatura de servicio de los botellines de estrella Galicia es de 4-5ºC y contiene una graduación de alcohol del 5,5%
-- Cerveza Especial Materias primas de esta cerveza: Agua de A Coruña, maltas pilsen y tostada, lúpulos Nugget Perle Hallertau y levadura selección HdR
+- Cerveza Estrella Galicia Especial - Pack botellines 24 x 25 cl
+- Cerveza Estrella Galicia, Pack 24 botellines. Estrella Galicia Cerveza Especial - Pack botellines 24 x 25 cl
+- Para los más expertos en cerveza, Estrella Galicia Especial tiene un amargor de 25 EBU, color 9 EBC, ESP 13ºP
 - Cerveza gallega con clasificación Lager especial y color dorado brillante
+- Cerveza Estrella Galicia Especial El maridaje ideal: Quesos frescos, verduras y hortalizas frías, setas, pescados blancos y carnes
+- Cerveza Especial Materias primas de esta cerveza: Agua de A Coruña, maltas pilsen y tostada, lúpulos Nugget Perle Hallertau y levadura selección HdR
 
 [🛒 Comprar!!!]({{< param buyurl >}})

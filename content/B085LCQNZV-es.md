@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cápsulas 100 % reciclables depositándolas en nuestros puntos de recogida Nescafé Dolce Gusto
 - Este delicioso café con leche despertará tus sentidos gracias a su intenso sabor que, combinado con la suavidad de la leche, te generará una experiencia de café cremosa e intensa
-- Cápsulas de café inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Nuestros expertos creadores de café han mezclado café Robusta del sur de Asia con el punto justo de leche que le aportara suavidad a la taza
+- Cápsulas de café inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
+- Cápsulas 100 % reciclables depositándolas en nuestros puntos de recogida Nescafé Dolce Gusto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
