@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fórmula testada en condiciones de vida marina demostrando que no tiene un impacto perjudicial en el medio marino
 - Protección solar SPF 30, 0% Octocrileno
 - Botella con plástico 100% reciclado de calidad alimentaria y reciclable
 - Garnier Delial Leche Protectora Ecodiseñada SPF 30  
 - Base 94% biodegradable
+- Fórmula testada en condiciones de vida marina demostrando que no tiene un impacto perjudicial en el medio marino
 
 [🛒 Aquí!!!]({{< param buyurl >}})
