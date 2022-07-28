@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nuestro gel de ducha contiene un exclusivo complejo prebiótico y postbiótico, así como una combinación única de nutrientes para la piel que favorecen su microbioma
+- La nueva fórmula avanzada del gel de ducha con microbioma nutre las bacterias buenas de la piel y ataca las malas
 - Nuestro gel de ducha, con 0% de sulfatos, está diseñado especialmente para las pieles reactivas y con tendencia atópica, ya que alivia el picor y combate los brotes de piel seca
 - Mejora su barrera natural y la hidratación: la inclusión de lípidos y emolientes da a su piel un impulso extra de nutrición
 - Los productos Sanex trabajan de forma activa con tu piel para promover sus funciones naturales, mantener tu piel cuidada y sana es fácil con el nuevo Gel de Ducha Sanex BiomeProtect Atopiderm Nutri Repair
-- La nueva fórmula avanzada del gel de ducha con microbioma nutre las bacterias buenas de la piel y ataca las malas
+- Nuestro gel de ducha contiene un exclusivo complejo prebiótico y postbiótico, así como una combinación única de nutrientes para la piel que favorecen su microbioma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
