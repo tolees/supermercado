@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye: 1 champú, 1 acondicionador, 1 espray de cuidado Wunderkur y una máscara de ojos de calor MegRhythm
-- Acondicionador: reparación inmediata, suavidad y protección duradera contra daños en el cabello
-- Champú: nutre y repara visiblemente el cabello seco, dañado por el calor y rebelde
-- Tipo de cabello: estropeado, rebelde, dañado. Serie de reparación de John Frieda Frizz Ease Wunder. Ideal como set de regalo
 - Espray de cuidado: nutre y desenreda tu cabello para una suavidad notable
+- Champú: nutre y repara visiblemente el cabello seco, dañado por el calor y rebelde
+- Incluye: 1 champú, 1 acondicionador, 1 espray de cuidado Wunderkur y una máscara de ojos de calor MegRhythm
+- Tipo de cabello: estropeado, rebelde, dañado. Serie de reparación de John Frieda Frizz Ease Wunder. Ideal como set de regalo
+- Acondicionador: reparación inmediata, suavidad y protección duradera contra daños en el cabello
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
