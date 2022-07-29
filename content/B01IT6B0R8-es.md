@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Coosur - Aceite de Oliva - Libre de alérgenos - Botella 1 L'
-date: 2022-07-16 13:38:37
+date: 2022-07-29 11:40:29
 image: 'https://m.media-amazon.com/images/I/31DhNP17q8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Producto adecuado para cocinar en plancha, guisos, o fritos
-- Apto para consumir de modo directo
-- País de origen: España
 - Aceite obtenido a partir de la mezcla de aceite de oliva virgen y aceite refinado
+- País de origen: España
+- Apto para consumir de modo directo
 - Acidez máxima: 1°
 
 [🛒 Aquí!!!]({{< param buyurl >}})
