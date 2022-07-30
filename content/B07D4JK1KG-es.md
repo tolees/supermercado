@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En contacto con el agua, los ingredientes activos de las tiras purificantes se adhieren a las impurezas y las eliminan dejando la piel limpia
-- Contienen agentes sebo-reguladores; Reducen y purifican los poros
-- Las tiras purificantes eliminan rápida y eficazmente impurezas y puntos negros de la frente, la nariz y la barbilla
-- Las tiras limpiadoras purificantes de Diadermine son adecuadas para pieles normales y mixtas
 - Resultados visibles: reduce y purifica los poros inmediatamente; Limpieza profunda para una piel más suave y lisa
+- Contienen agentes sebo-reguladores; Reducen y purifican los poros
+- En contacto con el agua, los ingredientes activos de las tiras purificantes se adhieren a las impurezas y las eliminan dejando la piel limpia
+- Las tiras limpiadoras purificantes de Diadermine son adecuadas para pieles normales y mixtas
+- Las tiras purificantes eliminan rápida y eficazmente impurezas y puntos negros de la frente, la nariz y la barbilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
