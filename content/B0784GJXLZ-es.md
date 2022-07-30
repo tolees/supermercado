@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oreal Paris - L Oréal Paris Make-up designer Barra de Labios Color Riche Shine  Tono Rojo 350 Insanesation'
-date: 2022-07-26 07:07:00
+date: 2022-07-30 02:09:51
 image: 'https://m.media-amazon.com/images/I/21zS19mA1iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LOreal Paris'
 buyurl: 'https://www.amazon.es/dp/B0784GJXLZ/?tag=tolees-21'
 descuento: '51.72'
-average: '6.59666666666667'
+average: '6.6975'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Color rojo lacado ultra-pigmentado
 - Su fórmula se derrite suavemente para una aplicación adictiva
 - Brillo de alta intensidad
-- Color rojo lacado ultra-pigmentado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
