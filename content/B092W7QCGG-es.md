@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esmalte de uñas para una manicura rápida
-- Resultado ultrarrápido, limpio, cuidado y brillante
 - Fórmula en gel de secado rápido que se seca en 50 segundos
+- Resultado ultrarrápido, limpio, cuidado y brillante
+- Esmalte de uñas para una manicura rápida
 - Pincel con efecto abanico que se adapta al tamaño de cada uña
 - La fórmula en gel monocapa infundida con silicona da a las uñas la curva óptima
 
