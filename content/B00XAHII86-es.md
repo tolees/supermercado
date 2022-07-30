@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Champú iluminador muy suave con extracto de manzanilla
-- Formato: 600ml
 - Otorga a los cabellos unos reflejos claros y luminosos
 - Formulado con manzanilla, conocida por sus propiedades suavizantes
 - Testado dermatológicamente
+- Formato: 600ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
