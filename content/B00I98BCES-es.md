@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Pasta de Dientes Protección Caries  75ml'
-date: 2022-07-29 16:21:23
+date: 2022-07-30 21:31:09
 image: 'https://m.media-amazon.com/images/I/51XMLqQVmTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Colgate'
 buyurl: 'https://www.amazon.es/dp/B00I98BCES/?tag=tolees-21'
 descuento: '15.15'
-average: '1.57910112359552'
+average: '1.57711111111113'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para dientes fuertes
-- Protección contra la caries
-- Fantástico sabor menta
 - Siéntete cómodo con aliento fresco
+- Protección contra la caries
+- Para dientes fuertes
+- Fantástico sabor menta
 - Contiene flúor activo y calcio líquido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
