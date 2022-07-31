@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para el cabello: Normal
-- Sin parabenos
 - Unidad de medida: mililitro
-- Sin sulfatos
 - Fórmula libre de sal
+- Sin parabenos
+- Para el cabello: Normal
+- Sin sulfatos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
