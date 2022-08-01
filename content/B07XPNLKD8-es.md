@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RITUALS Aceite Corporal Brillante de The Ritual of Karma  con Loto Sagrado y Té Blanco - Propiedades Hidratantes y Refrescantes con Activador del Bronceado y Partículas Minerales Brillantes'
-date: 2022-07-29 16:01:06
+date: 2022-08-01 10:31:44
 image: 'https://m.media-amazon.com/images/I/41-RFI5zXgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Aceites corporales','Belleza','Hidratantes corporales','Productos para 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
-comparePrice: 23.8 EUR
+comparePrice: 23.73 EUR
 prodname: 'RITUALS Aceite Corporal Brillante de The Ritual of Karma  con Loto Sagrado y Té Blanco - Propiedades Hidratantes y Refrescantes con Activador del Bronceado y Partículas Minerales Brillantes'
 country: 'es'
 flag: '🇪🇸'
 brand: 'RITUALS'
 buyurl: 'https://www.amazon.es/dp/B07XPNLKD8/?tag=tolees-21'
-descuento: '16.01'
+descuento: '15.76'
 average: '19.99'
 ---
 
