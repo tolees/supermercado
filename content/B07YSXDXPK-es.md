@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula sin sulfatos, sales o parabenos.
-- Acondiciona el cabello aportando pigmentos anti-anaranjados.
-- No Abrasivo, Anti-Naranja para un mejor cuidado de tu. cabello
-- Proporciona suavidad y otorga un color vibrante.
 - Tratamiento y terapia de color para el cabello castaño.
+- Fórmula sin sulfatos, sales o parabenos.
+- Proporciona suavidad y otorga un color vibrante.
+- No Abrasivo, Anti-Naranja para un mejor cuidado de tu. cabello
+- Acondiciona el cabello aportando pigmentos anti-anaranjados.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

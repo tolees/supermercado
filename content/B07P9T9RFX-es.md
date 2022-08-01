@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ENERGY-MECH 500ml DECOTOPIA
 - Este envase contiene 500 mililitros
 - Productos para tu cuidado personal a tu alcance, de la mano de los mejores proveedores por un módico precio
+- ENERGY-MECH 500ml DECOTOPIA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
