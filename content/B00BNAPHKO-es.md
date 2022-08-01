@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clinique 35117 - Loción anti-imperfecciones'
-date: 2022-07-29 10:11:50
+date: 2022-07-31 22:13:33
 image: 'https://m.media-amazon.com/images/I/41r9yHgtN3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clinique'
 buyurl: 'https://www.amazon.es/dp/B00BNAPHKO/?tag=tolees-21'
 descuento: '44.43'
-average: '20.39'
+average: '19.702'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: Locion anti-imperfecciones
 - Productos de belleza y el cuidado personal
 - Marca: Clinique
+- Tipo de producto: Locion anti-imperfecciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
