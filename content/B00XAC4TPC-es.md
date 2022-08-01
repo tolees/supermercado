@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Triple Acción Enjuague Bucal  500ml'
-date: 2022-07-25 19:20:51
+date: 2022-08-01 15:59:28
 image: 'https://m.media-amazon.com/images/I/41sA2YwahiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Colgate'
 buyurl: 'https://www.amazon.es/dp/B00XAC4TPC/?tag=tolees-21'
 descuento: '18.39'
-average: '2.80806451612902'
+average: '2.80365079365078'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proporciona aliento fresco
-- Ayuda a combatir las caries
 - Fortalece el esmalte
 - Elimina eficazmente la placa bacteriana
 - Enjuague bucal con flúor y triple acción
+- Proporciona aliento fresco
+- Ayuda a combatir las caries
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una gran fuente de vitamina D óptimo para el crecimiento
-- Nesquik el instantáneo
 - Este pack contiene 6 bolsa de 1.2 Kg
 - Prepara el óptimo vaso de leche con Nesquik y ¡Dale un Like a la leche!
+- Nesquik el instantáneo
+- Una gran fuente de vitamina D óptimo para el crecimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
