@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Irresistible comida para cada día
-- Contiene ácidos grasos Omega 6 para ayudar a tu gato a vivir una vida saludable y feliz
-- Felix Party Mix son deliciosos y saludables snacks llenos de aromas, sabores y apetecibles texturas que le encantarán a tu gato
 - Felix Party Mix contiene proteínas, vitaminas para una vida activa y saludable
-- Ingredientes con los que realmente te puedes sentir a gusto
+- Contiene ácidos grasos Omega 6 para ayudar a tu gato a vivir una vida saludable y feliz
+- Irresistible comida para cada día
 - Vitaminas y minerales que contribuyen en una vida saludable, la vitalidad y la felicidad de tu gato
+- Ingredientes con los que realmente te puedes sentir a gusto
+- Felix Party Mix son deliciosos y saludables snacks llenos de aromas, sabores y apetecibles texturas que le encantarán a tu gato
 
 [🛒 Comprar!!!]({{< param buyurl >}})
