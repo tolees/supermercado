@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para Vegetarianos y Veganos
 - Sin trozos
-- Sin Gluten
-- Listo para consumir
-- Una vez abierto conservar en frigorífico
 - Sin conservantes
+- Sin Gluten
+- Una vez abierto conservar en frigorífico
 - Ingredientes: Tomate (160 g por 100 g de tomate frito), aceite de girasol (3,4%) (sofrito con cebolla y ajos frescos), azúcar, almidón modificado de maíz y sal
+- Listo para consumir
+- Apto para Vegetarianos y Veganos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
