@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Té frío Verde con Hierba Buena compuesto de dos aromáticas plantas (hierbabuena y regaliz)
-- Para todos esos días que no tienes tiempo de preparar un desayuno tranquilo
-- 18 bolsitas en envueltas herméticas e individuales con triple capa HS
 - Sin azucares añadidos ni edulcorantes
+- Té frío Verde con Hierba Buena compuesto de dos aromáticas plantas (hierbabuena y regaliz)
+- 18 bolsitas en envueltas herméticas e individuales con triple capa HS
+- Para todos esos días que no tienes tiempo de preparar un desayuno tranquilo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
