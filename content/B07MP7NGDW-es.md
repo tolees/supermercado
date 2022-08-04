@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Aplicar top coat para sellar el color, hidratar y proporcionar brillo
+- Resistente a besos y roces ¡no deja rastro, ni mancha
+- Bálsamo hidratante que ofrece un acabado brillante y suave
 - Color intenso inalterable hasta 16 horas
 - Aplicar color y mantener los labios separados hasta su secado
-- Aplicar top coat para sellar el color, hidratar y proporcionar brillo
-- Bálsamo hidratante que ofrece un acabado brillante y suave
-- Resistente a besos y roces ¡no deja rastro, ni mancha
 
 [🛒 Visítala!!!]({{< param buyurl >}})

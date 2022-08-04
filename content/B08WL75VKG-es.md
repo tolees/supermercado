@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zumo de Melocotón y Uva Sin azúcares añadidos Pack 6 x 1L Granini 100% Fruta
-- Zumo de melocotón y uva 100% natural hecho a partir de zumo de frutas con Vitaminas antioxidantes
-- Zumo de melocotón y uva con un contenido de fruta de 100%
 - Zumo 100% fruta, beneficios digestivos, diuréticos y antioxidantes
+- Zumo de melocotón y uva 100% natural hecho a partir de zumo de frutas con Vitaminas antioxidantes
+- Zumo de Melocotón y Uva Sin azúcares añadidos Pack 6 x 1L Granini 100% Fruta
+- Zumo de melocotón y uva con un contenido de fruta de 100%
 - Zumo de frutas en formato PET 1L. Agitar antes de usar, una vez abierto conservar en el frigorífico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
