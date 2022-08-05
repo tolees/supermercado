@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo fresones super 1 unidad x 1kg'
-date: 2022-07-26 13:09:16
+date: 2022-08-05 08:30:17
 image: 'https://m.media-amazon.com/images/I/514k9H+B7XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B00XAP6ZTC/?tag=tolees-21'
 descuento: '0.00'
-average: '5.98545454545455'
+average: '5.9325'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
 - Deliciosas piezas con forma de la icónica fresa
-- Caramelos de goma
 - Disfruta de su intenso sabor a fresa
+- Caramelos de goma
+- Conservar en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
