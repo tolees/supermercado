@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skeyndor Essential Crema Hidratante - 50 ml'
-date: 2022-08-01 11:00:43
+date: 2022-08-05 20:08:34
 image: 'https://m.media-amazon.com/images/I/31Ko7kLOm+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skeyndor'
 buyurl: 'https://www.amazon.es/dp/B00B09MF3U/?tag=tolees-21'
 descuento: '30.08'
-average: '24.2433333333333'
+average: '24.6257142857143'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
