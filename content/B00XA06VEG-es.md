@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Scottex utiliza fibras certificadas FSC de fuentes responsables para cuidar del medio ambiente
-- Textura absorbente y resistente
 - Envase reciclable
+- Textura absorbente y resistente
+- Scottex utiliza fibras certificadas FSC de fuentes responsables para cuidar del medio ambiente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
