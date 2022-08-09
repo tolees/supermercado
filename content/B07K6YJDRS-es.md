@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aporta relleno, volumen y cohesión a la piel Textura suave y ligera
-- Formato: 30ml
 - Babaria- Ácido Hialurónico, 30 ml
+- Formato: 30ml
 - Para todo tipo de piel
+- Aporta relleno, volumen y cohesión a la piel Textura suave y ligera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
