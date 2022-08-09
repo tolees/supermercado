@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Peso del Producto: 100 Mililitros
-- Perfumeria Mujer
 - Perfumes y fragancias : Agua de tocador para mujeres
+- Perfumeria Mujer
 
 [🛒 Aquí!!!]({{< param buyurl >}})

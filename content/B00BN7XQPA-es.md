@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto está indicado tanto para mujeres como para hombres
-- De la marca Instituto Español
 - Contiene 500 ml
+- De la marca Instituto Español
+- Este producto está indicado tanto para mujeres como para hombres
 
 [🛒 Visítala!!!]({{< param buyurl >}})
