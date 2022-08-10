@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Acondicionador
+- Marca Wella Professionals
 - Descubre nuestro mejor acondicionador de nutrición profunda Invigo Nutri-Enrich
 - Diseñado para tratar el cabello seco y dañado
-- Marca Wella Professionals
-- Acondicionador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
