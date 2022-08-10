@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Origen: DOC Rioja
-- Graduación: 14% vol.
 - Color rubí oscuro. Aroma de frambuesa y confitura de cerezas. Aterciopelado en boca con un tanino delicioso y suave.
-- Marida bien con carne de caza, a la plancha, asada o estofada, pasta y quesos de oveja. .
+- Origen: DOC Rioja
 - Puede disfrutarlo desde ahora, bien conservado aguantará 2-10 años.
+- Marida bien con carne de caza, a la plancha, asada o estofada, pasta y quesos de oveja. .
+- Graduación: 14% vol.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
