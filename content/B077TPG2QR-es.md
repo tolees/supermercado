@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Carnes y subproductos animales (de los cuales pollo 4%), Cereales, Pescados y subproductos de pescado (salmón 4%) Sustancias minerales, azúcares
-- Por eso Gourmet Gold ha creado Bocaditos en Salsa, sabrosas recetas para mimar su sofisticado paladar con una experiencia diferente de sabor en cada comida
-- Elaborado con ingredientes seleccionados de calidad
-- Tu gato es un verdadero experto y le gusta probar diferentes texturas y sabores cada día
 - Tiernos trocitos con carnes o pescados dulcemente cocinados en una deliciosa salsa para ofrecer a tu gato el placer de un fabuloso y rico sabor
+- Por eso Gourmet Gold ha creado Bocaditos en Salsa, sabrosas recetas para mimar su sofisticado paladar con una experiencia diferente de sabor en cada comida
+- Tu gato es un verdadero experto y le gusta probar diferentes texturas y sabores cada día
+- Elaborado con ingredientes seleccionados de calidad
+- Carnes y subproductos animales (de los cuales pollo 4%), Cereales, Pescados y subproductos de pescado (salmón 4%) Sustancias minerales, azúcares
 
 [🛒 Visítala!!!]({{< param buyurl >}})
