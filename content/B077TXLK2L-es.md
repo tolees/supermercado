@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sabrosa y delicada. Muy refrescante y suave. Su paso por boca se caracteriza el recuerdo de los cereales ligeramente tostados.
 - NOTA: El embalaje puede variar!
+- Sabrosa y delicada. Muy refrescante y suave. Su paso por boca se caracteriza el recuerdo de los cereales ligeramente tostados.
 - Alc. 4,6% vol.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
