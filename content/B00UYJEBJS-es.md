@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London 60 Seconds Super Shine Esmalte de Uñas Tono 300 Glaston-Berry - 34 gr'
-date: 2022-08-10 10:33:20
+date: 2022-08-11 14:01:19
 image: 'https://m.media-amazon.com/images/I/31kftcWc4VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rimmel London'
 buyurl: 'https://www.amazon.es/dp/B00UYJEBJS/?tag=tolees-21'
 descuento: '24.62'
-average: '1.5556'
+average: '1.55346153846154'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Esmalte de uñas de secado rápido
-- Alto impacto de color y acabado ultra brillante
-- Tecnología 3 en 1: base, color y top coat glossy
 - Cada pasada proporciona una base de color y un acabado protector brillante
+- Tecnología 3 en 1: base, color y top coat glossy
 - Con cepillo diseñado para una aplicación rápida y uniforme
+- Alto impacto de color y acabado ultra brillante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
