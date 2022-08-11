@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Perfecto como un regalo
 - Color: caoba. Nariz: Ligera, notas de coco tostado, vainilla, higos. Sabor: Suave, miel, chocolate negro. Final: Larga duración, ligeramente picante. El Flor de Caña 7 años Gran Reserva es perfecto para cócteles o puedes disfrutarlo con hielo o puro.
+- Perfecto como un regalo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
