@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Patatas Fritas con sal. Elaboradas Artesanalmente. Selección de los productos utilizados  buena patata  frita en el mejor aceite nacional  y con el punto de sal. Alfonso Torres. 50 Gr.'
-date: 2022-07-29 21:31:12
+date: 2022-08-12 19:40:48
 image: 'https://m.media-amazon.com/images/I/41VdenP87QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

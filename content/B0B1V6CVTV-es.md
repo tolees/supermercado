@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grefusa - Grefutubo Palomita BBQ 115G'
-date: 2022-08-11 13:06:45
+date: 2022-08-12 19:12:00
 image: 'https://m.media-amazon.com/images/I/41pzAb8cmhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cereales 80%
-- Producto de alta calidad
-- Grefutubo Palomita BBQ 115G
 - Marca: Grefusa
+- Grefutubo Palomita BBQ 115G
+- Producto de alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
