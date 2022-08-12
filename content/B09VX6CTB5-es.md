@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ligeresa Salsa en Tarro Original Pack Ahorro 425ml x2'
-date: 2022-08-10 16:45:16
+date: 2022-08-12 17:15:17
 image: 'https://m.media-amazon.com/images/I/41cqnxg5-vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin conservantes
-- Ligeresa Original en Tarro Pack Ahorro 425ml x2
-- Apto para vegetarianos; 55% menos de calorías que la mayonesa por reducción de aceite
 - Fuente natural de Omega 3
 - Sin lactosa
+- Sin conservantes
+- Apto para vegetarianos; 55% menos de calorías que la mayonesa por reducción de aceite
+- Ligeresa Original en Tarro Pack Ahorro 425ml x2
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
