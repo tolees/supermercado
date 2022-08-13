@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de su intenso sabor a fresa
-- Caramelos de goma
 - Deliciosas piezas con forma de la icónica fresa
+- Disfruta de su intenso sabor a fresa
 - Conservar en lugar fresco y seco
+- Caramelos de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
