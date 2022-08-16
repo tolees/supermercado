@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gloss ! Make up & accessoires - Rituals Set de Regalo Mujer | Set Bano perfuma Chocolate | Regalo Cumpleaños Mujer y Mama | Set Regalo Mujer | Regalo Navidad | Cesta Belleza Cuidado y Bienestar | CHOCOLAT'
-date: 2022-08-12 22:30:59
+date: 2022-08-16 20:01:09
 image: 'https://m.media-amazon.com/images/I/41qKAyWF51L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gloss ! Make up & accessoires'
 buyurl: 'https://www.amazon.es/dp/B002C3CDAI/?tag=tolees-21'
 descuento: '0.00'
-average: '15.3691803278688'
+average: '15.411304347826'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
