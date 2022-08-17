@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desarrollado con dermatología y probado dermatológicamente. Reduce el enrojecimiento y la hinchazón
 - RESISTENCIA A LARGO PLAZO Liberación patentada de ingredientes activos para una humedad duradera
+- Sin perfume y no comedogénico. Cuida la zona sensible de los ojos
 - TEXTURA APROPIADA Enriquecida con ácido hialurónico. No se pega, no se engrasa
 - CONSTRUYENDO Tres ceramidas esenciales de origen vegetal para fortalecer la barrera de protección de la piel
-- Sin perfume y no comedogénico. Cuida la zona sensible de los ojos
+- Desarrollado con dermatología y probado dermatológicamente. Reduce el enrojecimiento y la hinchazón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

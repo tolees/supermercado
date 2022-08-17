@@ -29,14 +29,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Aromas que recuerdan a la malta pilsen y a la corteza de pan
-- La Estrella de Galicia cuenta con un color dorado brillante y un generoso giste blanco. Aroma equilibrado entre las maltas y lúpulos, que predominan aportando notas frescas y florales. Bien carbonatada y con cuerpo ligero. Amargor moderado y persistente, una cerveza muy fácil de beber.
 - Temperatura de servicio 4-5ºC
-- Apariencia Cerveza de color dorado claro., muy transparente.
-- Clasificación Tipo German Pils
 - Materias primas Agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), lúpulo Sladek. Levadura seleccionada Hijos de Rivera.
-- Sabor Muy equilibrada, en boca es dulce y amarga por igual.
-- ELABORACIÓN DE ESTRELLA DE GALICIA Elaborada a partir de un mosto específico, en el único centro de producción de Hijos de Rivera, en A Coruña. Los Maestros Cerveceros emplean en la fabricación de La Estrella de Galicia aproximadamente un mes de trabajo, el 50% del cual se dedica a su guarda en frio.
-- La Estrella de Galicia Cerveza - Pack de 24 botellas x 330 ml
 - Alcohol 4,7% Amargor 25 EBU Color 8 EB
+- ELABORACIÓN DE ESTRELLA DE GALICIA Elaborada a partir de un mosto específico, en el único centro de producción de Hijos de Rivera, en A Coruña. Los Maestros Cerveceros emplean en la fabricación de La Estrella de Galicia aproximadamente un mes de trabajo, el 50% del cual se dedica a su guarda en frio.
+- Clasificación Tipo German Pils
+- La Estrella de Galicia cuenta con un color dorado brillante y un generoso giste blanco. Aroma equilibrado entre las maltas y lúpulos, que predominan aportando notas frescas y florales. Bien carbonatada y con cuerpo ligero. Amargor moderado y persistente, una cerveza muy fácil de beber.
+- Sabor Muy equilibrada, en boca es dulce y amarga por igual.
+- La Estrella de Galicia Cerveza - Pack de 24 botellas x 330 ml
+- Apariencia Cerveza de color dorado claro., muy transparente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
