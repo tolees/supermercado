@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- No contiene aromas artificiales
 - Tiene una composición con calcio
 - Es una tableta de chocolate con leche
-- No contiene aromas artificiales
 - Una tableta contiene 5 porciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
