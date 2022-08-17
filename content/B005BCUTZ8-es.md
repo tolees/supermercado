@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vino Tinto D.O. Rioja Montecillo Reserva  75cl'
-date: 2022-08-15 09:42:05
+date: 2022-08-17 12:23:23
 image: 'https://m.media-amazon.com/images/I/31hxxeMt2dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Montecillo'
 buyurl: 'https://www.amazon.es/dp/B005BCUTZ8/?tag=tolees-21'
 descuento: '15.29'
-average: '8.98333333333333'
+average: '8.72857142857143'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TEMPERATURA DE SERVICIO: 18ºC
 - AROMA Y GUSTO: Notas especiadas, vainilla y frutos negros combinados con matices de regaliz y menta. Buena estructura y taninos elegantes con largo postgusto
 - ARMONÍAS Y SERVICIO Para acompañar con la carne roja al grill o en barbacoa, todo tipo de guisos, incluídos platos ligeramente picantes. Es un vino fresco y con cierta potencia, por lo que también marida a la perfección con un amplio espectro de quesos
+- TEMPERATURA DE SERVICIO: 18ºC
 - COLOR: Limpio y brillante. Rojo cereza intenso con ribete rojizo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
