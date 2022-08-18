@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Maxibox Surtido de Caramelos de Goma  600g'
-date: 2022-08-17 16:14:01
+date: 2022-08-18 17:40:34
 image: 'https://m.media-amazon.com/images/I/418yKNghC7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B01ER531HM/?tag=tolees-21'
 descuento: '5.90'
-average: '3.93285714285714'
+average: '3.94'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Apto para compartir
 - Mezcla de diferentes piezas cubiertas de azúcar
 - Irresistible mezcla de sabores
 - Mantener en lugar fresco y seco
-- Apto para compartir
 - Surtido de caramelos de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
