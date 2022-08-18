@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Descripción detallada más abajo
 - Formulado con ácido l-láctico biológico (ph=4.7); dermatológicamente testado
-- Formato 200ml
 - Indicado para la higiene íntima diaria: hipoalergénico, no contiene jabón ni sustancias alcalinas.
+- Formato 200ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
