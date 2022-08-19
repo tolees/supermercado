@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Refresca y protege contra los olores
 - Minimiza el riesgo de reacciones alérgicas
 - Indicado para mujer adulta y joven pre-adolescente
-- Sin parabenos, gluten ni colorantes
 - Restablece el equilibrio natural de la mucosa
-- Refresca y protege contra los olores
+- Sin parabenos, gluten ni colorantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

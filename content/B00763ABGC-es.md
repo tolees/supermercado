@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Proporciona 96 horas de protección duradera
-- Controla la sudoración excesiva y el mal olor; No es necesario volver a aplicar, incluso con sudoración intensa
 - Rexona protección antitranspirante
 - 3 veces más eficaz que un antitranspirante básico
+- Proporciona 96 horas de protección duradera
+- Controla la sudoración excesiva y el mal olor; No es necesario volver a aplicar, incluso con sudoración intensa
 - Dermatológicamente testado para un uso diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})
