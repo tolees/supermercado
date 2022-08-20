@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Envase reciclable
 - 48 horas de protección
-- Globalmente Dove no testa en animales en ningún lugar del mundo
 - Contiene 1/4 de crema hidratante
 - Ayuda a reparar la piel, incluso después del depilado
+- Envase reciclable
 - Con aceite nutritivo 100% natural
+- Globalmente Dove no testa en animales en ningún lugar del mundo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entrada muy fresca y sabrosa, carácter cítrico junto con un toque amargo y dulzor que recuerda la uva fresca
 - Aromas a vainilla, menta y toques cítricos.
 - Color pálido y brillante, limpio y glicérico
+- Entrada muy fresca y sabrosa, carácter cítrico junto con un toque amargo y dulzor que recuerda la uva fresca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
