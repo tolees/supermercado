@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Batiste Tropical Coconut Exotic Dry Shampoo Champú  Ad1161   Incoloro  Aromatic  200 Mililitros'
-date: 2022-08-18 07:31:40
+date: 2022-08-20 14:09:20
 image: 'https://m.media-amazon.com/images/I/41RiID7sExL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Modelo 1260-27511
-- Tipo de piel: Normal
-- De la marca Batiste
 - Producto de alta calidad
+- De la marca Batiste
+- Tipo de piel: Normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
