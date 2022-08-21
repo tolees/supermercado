@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para un cabello gris brillante.
 - Aplicación directa y fácil.
 - Resiste hasta 8 lavados de cabello.
 - Resultados en 2 minutos.
+- Para un cabello gris brillante.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

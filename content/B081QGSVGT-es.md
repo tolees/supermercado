@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar una pequeña cantidad de la parte superior del pómulo y rodeando el ojo
 - Reduce las patas de gallo, las arrugas y las líneas de expresión para que tu piel se revitalice
+- Aplicar una pequeña cantidad de la parte superior del pómulo y rodeando el ojo
 - Usar diariamente para mejores resultados
 - Podrás lucir un aspecto joven durante más tiempo
 
