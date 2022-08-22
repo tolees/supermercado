@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula sin lejía, puedes utilizarla tanto en la ropa blanca como en la ropa de color e incluso en la negra ya que respeta los colores sin decolorar las prendas.
-- Quitamanchas prelavado, que elimina las manchas de vino, café, frutas, té mermeladas, vinagre, bebidas gaseosas y tomate, así como los olores de sudor y humedades.
 - Pulveriza el producto directamente sobre la mancha y déjalo actuar durante 5 minutos, evitando que se seque en la prenda. A continuación, lava la prenda como lo harías normalmente.
-- Respeta los tejidos y está testada dermatológicamente.
 - Máxima eficacia eliminando las manchas incluso en lavados cortos y agua fría.
+- Respeta los tejidos y está testada dermatológicamente.
+- Fórmula sin lejía, puedes utilizarla tanto en la ropa blanca como en la ropa de color e incluso en la negra ya que respeta los colores sin decolorar las prendas.
 - Gracias a su cómodo pulverizador podrás aplicar el producto fácilmente sobre la mancha localizada, utilizando únicamente la dosis que necesites
+- Quitamanchas prelavado, que elimina las manchas de vino, café, frutas, té mermeladas, vinagre, bebidas gaseosas y tomate, así como los olores de sudor y humedades.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
