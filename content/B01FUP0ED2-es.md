@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto: Tratamiento corporal
 - Marca: Instituto Español
 - Género: Unisex Adulto
+- Tipo de producto: Tratamiento corporal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
