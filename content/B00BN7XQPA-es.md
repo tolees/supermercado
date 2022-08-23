@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español Gel Baño y Ducha para Piel Atópica - 500 ml'
-date: 2022-08-09 08:01:04
+date: 2022-08-23 17:55:19
 image: 'https://m.media-amazon.com/images/I/419fDYj9W0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B00BN7XQPA/?tag=tolees-21'
 descuento: '24.76'
-average: '3.93666666666667'
+average: '3.94'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
