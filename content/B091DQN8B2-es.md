@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pack de tres unidades de 75 ml cada una; Dos cepillados al día; Cartón reciclable
 - Contiene flúor, para proteger contra las caries
-- Ayuda a eliminar la acumulación de placa y a mantener las encías sanas
-- Pasta de dientes que ofrece protección duradera frente a la sensibilidad dental
+- Pack de tres unidades de 75 ml cada una; Dos cepillados al día; Cartón reciclable
 - Elimina las manchas para ayudar a recuperar el blanco natural de los dientes
+- Pasta de dientes que ofrece protección duradera frente a la sensibilidad dental
+- Ayuda a eliminar la acumulación de placa y a mantener las encías sanas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
