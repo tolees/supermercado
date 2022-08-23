@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAMPOS Conserva De Atún Claro Pack De 6 Latas  80 g - Pack de 6'
-date: 2022-08-22 09:14:34
+date: 2022-08-23 10:15:09
 image: 'https://m.media-amazon.com/images/I/31CT7PsYG-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'CAMPOS'
 buyurl: 'https://www.amazon.es/dp/B00XDNC3SI/?tag=tolees-21'
 descuento: '32.52'
-average: '4.51777777777779'
+average: '4.48100000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - País de origen: España, producto natural sin conservantes ni colorantes
-- Lata ideal para consumo individual
-- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - Pack de 6 latas individuales de 80 g, con tapa fácil apertura
+- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
+- Lata ideal para consumo individual
 - Conserva de atún claro en aceite de oliva
 
 [🛒 Aquí!!!]({{< param buyurl >}})
