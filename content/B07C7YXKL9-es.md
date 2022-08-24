@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Innovagoods- Mini Dispensador Automático De Caramelos Y Frutos Secos  Multicolor  IGS IG11396 '
-date: 2022-08-20 10:33:46
+date: 2022-08-24 14:13:26
 image: 'https://m.media-amazon.com/images/I/51rGrtyGHoS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Almacenamiento de alimentos','Almacenamiento de cocina y despensa','Dis
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9
-comparePrice: 14.9 EUR
+comparePrice: 18.93 EUR
 prodname: 'Innovagoods- Mini Dispensador Automático De Caramelos Y Frutos Secos  Multicolor  IGS IG11396 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'InnovaGoods'
 buyurl: 'https://www.amazon.es/dp/B07C7YXKL9/?tag=tolees-21'
-descuento: '0.00'
-average: '14.9257142857143'
+descuento: '21.29'
+average: '14.9225'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
