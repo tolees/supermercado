@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con pantenol, que regenera la piel
-- Los hidratantes naturales alantoína y pentavitina dejan la piel suave y tersa
-- Sin jabón ni agentes alcalinos
-- Clínicamente probado como cuidado de la piel complementario al tratamiento para infecciones cutáneas, acné, eccema atópico, psoriasis, dermatitis por contacto, micosis cutánea
-- Recomendado para la piel normal o grasa
-- Adecuado para la limpieza facial y corporal
 - Limpieza suave y profunda de la piel sensible y problemátic
+- Con pantenol, que regenera la piel
+- Clínicamente probado como cuidado de la piel complementario al tratamiento para infecciones cutáneas, acné, eccema atópico, psoriasis, dermatitis por contacto, micosis cutánea
+- Los hidratantes naturales alantoína y pentavitina dejan la piel suave y tersa
+- Adecuado para la limpieza facial y corporal
+- Sin jabón ni agentes alcalinos
+- Recomendado para la piel normal o grasa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
