@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Medidas: 10x7,5x7,5 cm  Material: nylon
-- Contiene un gel refrigerante especial que, una vez congelado, mantiene la temperatura largo tiempo y se mantiene flexible.
-- Enfría tus bebidas en menos de 5 minutos y las mantiene frescas durante horas.
 - Con forma de pingüino.
 - Ideal para latas o botellas.
+- Contiene un gel refrigerante especial que, una vez congelado, mantiene la temperatura largo tiempo y se mantiene flexible.
+- Enfría tus bebidas en menos de 5 minutos y las mantiene frescas durante horas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
