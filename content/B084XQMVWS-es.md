@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dormir bien por la noche - Ayuda a: aliviar los sudores nocturnos, a conciliar el sueño, a tener un sueño reparador y a despertarte bien descansada
-- Contiene una exclusiva mezcla de extractos de orifen natural, vitaminas y minerales
 - Control de los Sofocos - Ayuda a reducir los sofocos, los cambios de humor y la irritabilidad
-- NO CONTIENE: estrógenos, soja o conservantes
 - Apto para un uso prolongado
+- Contiene una exclusiva mezcla de extractos de orifen natural, vitaminas y minerales
+- Dormir bien por la noche - Ayuda a: aliviar los sudores nocturnos, a conciliar el sueño, a tener un sueño reparador y a despertarte bien descansada
+- NO CONTIENE: estrógenos, soja o conservantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
