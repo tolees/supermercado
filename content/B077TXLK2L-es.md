@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Damm - Xibeca Cerveza - Pack de 24 Latas 33cl'
-date: 2022-08-23 14:50:52
+date: 2022-08-25 10:52:13
 image: 'https://m.media-amazon.com/images/I/41jsDrBINNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Damm'
 buyurl: 'https://www.amazon.es/dp/B077TXLK2L/?tag=tolees-21'
 descuento: '17.92'
-average: '9.87142857142857'
+average: '9.86875'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- NOTA: El embalaje puede variar!
-- Sabrosa y delicada. Muy refrescante y suave. Su paso por boca se caracteriza el recuerdo de los cereales ligeramente tostados.
 - Alc. 4,6% vol.
+- Sabrosa y delicada. Muy refrescante y suave. Su paso por boca se caracteriza el recuerdo de los cereales ligeramente tostados.
+- NOTA: El embalaje puede variar!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
