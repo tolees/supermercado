@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Envasado en atmósfera protectora para mantener su frescura. Conservar en un lugar fresco y seco
-- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
-- El café en este producto proviene de fincas certificadas Rainforest Alliance
-- Gracias al aluminio, nuestras cápsulas resultan perfectamente herméticas y garantizan una óptima conservación del aroma y sabor del café
-- Nespresso es una marca registrada por Nestlé Nespresso S.A
-- Café de fuera de la UE. Tostado y envasado en Bélgica
-- Apto para dietas vegetarianas y veganas
-- 85% Arabica- 15% Robusta. Intensidad: 5/5
 - Notas de cacao, especias y pimienta, tueste fuerte, duradero, toque de acidez
+- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
+- Gracias al aluminio, nuestras cápsulas resultan perfectamente herméticas y garantizan una óptima conservación del aroma y sabor del café
+- El café en este producto proviene de fincas certificadas Rainforest Alliance
+- Café de fuera de la UE. Tostado y envasado en Bélgica
+- 85% Arabica- 15% Robusta. Intensidad: 5/5
+- Apto para dietas vegetarianas y veganas
+- Envasado en atmósfera protectora para mantener su frescura. Conservar en un lugar fresco y seco
+- Nespresso es una marca registrada por Nestlé Nespresso S.A
 - Cápsulas Ristretto. El envase contiene 1 x 20 (20) porciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
