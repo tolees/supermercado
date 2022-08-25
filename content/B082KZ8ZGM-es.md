@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Piel fresca y sin brillo en cualquier momento
 - Rodillo facial reutilizable, generando menos residuos que las toallitas secantes para piel grasa
-- Combate el exceso de grasa facial y el brillo con facilidad gracias a este roll-on absorbente hecho con piedra volcánica
-- Compacto para caber perfectamente en el bolso o bolsillo
 - Absorbe el exceso de grasa facial y brillos al instante
+- Compacto para caber perfectamente en el bolso o bolsillo
+- Combate el exceso de grasa facial y el brillo con facilidad gracias a este roll-on absorbente hecho con piedra volcánica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

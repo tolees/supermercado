@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ayuda a mantener la estabilidad emocional, siendo muy útil en casos de estrés temporal.
 - Dosificación: Dosis de mantenimiento: 2 cápsulas al día. Dosis de refuerzo: 4 cápsulas al día, en dos tomas.
 - Gracias a la sinergia entre sus componentes, ayuda al organismo a gestionar mejor el estrés y a mantener la estabilidad emocional y el bienestar físico y mental.
 - Ayuda a mantener el bienestar físico y mental, y contribuyen a la sensación de relajación. La Manzanilla ayuda también a mantener un sueño saludable.
+- Ayuda a mantener la estabilidad emocional, siendo muy útil en casos de estrés temporal.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
