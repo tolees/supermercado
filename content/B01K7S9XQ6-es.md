@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Skin Active - Agua Micelar Clásica para pieles normales todo en uno – 400 ml'
-date: 2022-08-19 07:09:48
+date: 2022-08-26 15:07:21
 image: 'https://m.media-amazon.com/images/I/31SIvFu+xNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Garnier'
 buyurl: 'https://www.amazon.es/dp/B01K7S9XQ6/?tag=tolees-21'
 descuento: '9.18'
-average: '3.22'
+average: '3.63'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
