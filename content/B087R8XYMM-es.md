@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- NUEVA FRAGANCIA AVANZADA Alpecin Black viene con una nueva fragancia, especialmente desarrollada para el hombre moderno. Su cabello obtendrá inmediatamente un mejor agarre y podrá ser perfectamente peinado.
-- INVESTIGACIÓN DE ALPECIN Alpecin es la marca de cuidado del cabello más vendida para la prevención de la caída del cabello en hombres en Alemania (*Nielsen) con eficacia científica probada.
+- RUTINA DIARIA PARA EL CABELLO Estimula las raíces del cabello durante el lavado. La cafeína penetra en los folículos pilosos en tan solo 120 segundos y fortalece el pelo fino y debilitado.
 - APLICACIÓN Utilice diariamente el champú anticaida hombre Alpecin. Deje actuar sobre el cuero cabelludo durante al menos 2 minutos, para obtener mejores resultados luego enjuague bien.
 - TRATAMIENTO SIN SILICONA Para nuestro champú anticaida hombre hemos evitado deliberadamente las siliconas suavizantes para facilitar el peinado.
-- RUTINA DIARIA PARA EL CABELLO Estimula las raíces del cabello durante el lavado. La cafeína penetra en los folículos pilosos en tan solo 120 segundos y fortalece el pelo fino y debilitado.
+- NUEVA FRAGANCIA AVANZADA Alpecin Black viene con una nueva fragancia, especialmente desarrollada para el hombre moderno. Su cabello obtendrá inmediatamente un mejor agarre y podrá ser perfectamente peinado.
+- INVESTIGACIÓN DE ALPECIN Alpecin es la marca de cuidado del cabello más vendida para la prevención de la caída del cabello en hombres en Alemania (*Nielsen) con eficacia científica probada.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
