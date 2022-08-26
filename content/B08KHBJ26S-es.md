@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Product 1: El estuche de vapor incluye bandeja multifunción
 - Product 1: Estuche de vapor tamaño para 1, 2 personas
-- Product 2: Capacidad: 800 ml
-- Product 1: El libro contiene tablas para cada ingrediente, cantidades, potencia del microondas, tiempo… + una receta deliciosa
-- Product 2: SpanishOmelette es un molde para realizar de una forma fácil y cómoda, elaboraciones redondas que necesiten de una cocción a doble cara
-- Product 1: Tu guía completa con más de 70 recetas
 - Product 2: Ideal para cocinar deliciosas tortillas de patatas, frittatas y mucho más
+- Product 1: El libro contiene tablas para cada ingrediente, cantidades, potencia del microondas, tiempo… + una receta deliciosa
+- Product 1: El estuche de vapor incluye bandeja multifunción
 - Product 2: Para uso en microondas
+- Product 2: Capacidad: 800 ml
+- Product 1: Tu guía completa con más de 70 recetas
+- Product 2: SpanishOmelette es un molde para realizar de una forma fácil y cómoda, elaboraciones redondas que necesiten de una cocción a doble cara
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✅ EFECTO VIGORIZANTE: Nuestro Vigor HM contribuye a mejorar el rendimiento y la vitalidad masculina y femenina, proporcionándote una mayor resistencia física e incrementando la calidad de las relaciones de pareja. Además, tu apetito sensual se potenciará.
-- ✅ USO RECOMENDADO: Te aconsejamos consumir 4 cápsulas diarias, durante al menos un periodo de 90 días. Toma 2 con el desayuno y 2 con la comida. Debes conservar tu suplemento en un lugar fresco y seco, manteniendo siempre el envase cerrado y evitando que la temperatura ambiente se sitúe por encima de los 29º C.
 - ✅ INGREDIENTES NATURALES: Formulado a base de vitaminas (B3 y B6), extractos de maca andina, aminoácidos (l-arginina base) y minerales (zinc y magnesio), este complejo vitamínico te ayudará a disminuir el cansancio y la fatiga, aumentando la pasión y la vitalidad en pareja.
-- ✅ ¿QUÉ ES LA LIBIDO?: Libido, no líbido, es el término que utilizamos para referirnos al deseo e impulso hacia nuestra pareja. Se suele reconocer en la fase apetitiva de un individuo y varía según el género, ya que los niveles de la libido en los hombres suelen ser bastante constantes, mientras que las mujeres experimentan más cambios debido al ciclo menstrual.
+- ✅ EFECTO VIGORIZANTE: Nuestro Vigor HM contribuye a mejorar el rendimiento y la vitalidad masculina y femenina, proporcionándote una mayor resistencia física e incrementando la calidad de las relaciones de pareja. Además, tu apetito sensual se potenciará.
 - ✅ GARANTÍA DE CALIDAD: En Vecos estamos especializados en la elaboración y comercialización de complementos alimenticios. Todos nuestros productos están fabricados en nuestros laboratorios profesionales, dotados de instalaciones de gran calidad. De esta manera, te garantizamos un servicio seguro y fiable.
+- ✅ ¿QUÉ ES LA LIBIDO?: Libido, no líbido, es el término que utilizamos para referirnos al deseo e impulso hacia nuestra pareja. Se suele reconocer en la fase apetitiva de un individuo y varía según el género, ya que los niveles de la libido en los hombres suelen ser bastante constantes, mientras que las mujeres experimentan más cambios debido al ciclo menstrual.
+- ✅ USO RECOMENDADO: Te aconsejamos consumir 4 cápsulas diarias, durante al menos un periodo de 90 días. Toma 2 con el desayuno y 2 con la comida. Debes conservar tu suplemento en un lugar fresco y seco, manteniendo siempre el envase cerrado y evitando que la temperatura ambiente se sitúe por encima de los 29º C.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

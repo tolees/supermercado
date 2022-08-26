@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Enriquecido con extracto de Caléndula y Bisabolol; hipoalergénico
 - Formulado con un pH 8 alcalino suave
 - Higiene íntima externa durante el tratamiento de las infecciones vaginales por hongos
 - Ayuda a calmar el picor, la escozor y la irritación
+- Enriquecido con extracto de Caléndula y Bisabolol; hipoalergénico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
