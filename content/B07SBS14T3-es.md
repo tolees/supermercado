@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El Compromiso Fructis: fórmulas testadas bajo control dermatológico, envases con un 50% de plástico reciclado, 100% reciclables y producidos en fábricas comprometidas con el desarrollo sostenible
+- Consigue unos rizos definidos y adecuadamente contorneados, incluso sin secador; 96h anti-encrespamiento incluso con un 80% de humedad
 - Aplicar una nuez del producto sobre el cabello húmedo o seco, sin aclarar; dejar secar al aire
 - Formulado con aceite de pistacho y pectina de fruta
 - Crema sin aclarado para cabellos rizados u ondulados
-- Consigue unos rizos definidos y adecuadamente contorneados, incluso sin secador; 96h anti-encrespamiento incluso con un 80% de humedad
+- El Compromiso Fructis: fórmulas testadas bajo control dermatológico, envases con un 50% de plástico reciclado, 100% reciclables y producidos en fábricas comprometidas con el desarrollo sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
