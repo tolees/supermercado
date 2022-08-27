@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Jazmín de medianoche - una fragancia sutil y elegante que le ayudará a relajarse después de un largo día - volver a casa con una vela aromática relajante hace que todo sea más brillante.
-- En comparación con las velas de parafina o de cera de abeja, las velas de cera de soja arden a un ritmo más lento y requieren menos aire. La combustión de las velas de cera de soja NO produce hollín.
 - El aroma adecuado puede hacer que una habitación parezca más fresca, limpia y acogedora. Las velas perfumadas de cera de soja ofrecen una forma sencilla de aromatizar su espacio de forma natural.
 - Las velas perfumadas de la Colección Hogar han sido creadas por nuestros perfumistas con los mejores ingredientes posibles: cera de soja, los mejores aceites esenciales y mechas de algodón limpias.
+- En comparación con las velas de parafina o de cera de abeja, las velas de cera de soja arden a un ritmo más lento y requieren menos aire. La combustión de las velas de cera de soja NO produce hollín.
 - Encienda una vela y huela un delicioso aroma que aportará calidez y confort a su hogar, creará una atmósfera de amor y armonía y añadirá una nota de romanticismo a su rutina diaria.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

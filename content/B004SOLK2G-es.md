@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Contiene hasta 35 whiskies diferentes seleccionados de las destilerías más singulares de Escocia
-- Disfrútalo en vaso alto con hielo y ginger ale
-- Chispeante y especiado, con una explosión de sabores vibrantes y ahumados
-- El whisky escocés blended aceptado y reconocido
 - Johnnie Walker Red Label, un whisky querido desde 1820 y galardonado en más de treinta ocasiones
+- Disfrútalo en vaso alto con hielo y ginger ale
+- El whisky escocés blended aceptado y reconocido
+- Chispeante y especiado, con una explosión de sabores vibrantes y ahumados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
