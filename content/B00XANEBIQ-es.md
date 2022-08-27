@@ -31,7 +31,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Dentífrico con flúor y sabor a menta
 - Previenen la aparición de sarro
 - Pasta dentífrica con aceleradores del blanqueamiento que eliminan las manchas
-- Su uso continuado ayuda a mantener unos dientes más blancos durante más tiempo
 - Ayuda a tener unos dientes más blancos, en una semana
+- Su uso continuado ayuda a mantener unos dientes más blancos durante más tiempo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
