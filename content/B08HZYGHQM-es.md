@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicar una nuez del producto sobre el cabello húmedo o seco, sin aclarar, Dejar secar al aire
-- Pack de 3 cremas sin aclarado para cabellos rizados u ondulados con aceite de pistacho y pectina, Aporta cuerpo y movimiento a los rizos sin necesidad de usar secador
-- Contenido: 3 x Crema Sin Aclarado Nutri Rizos Secado al Aire Garnier Fructis, 400ml
 - Rizos definidos y nutridos que recuperan su elasticidad natural y rebote, Sin acartonamiento ni apelmazar, 96h anti-encrespamiento incluso con un 80% de humedad
 - Fórmula con activos fortificantes de frutas y plantas, vitaminas B3 y B6 y derivado de proteína de limón, Dermatológicamente testado, Envase con un 25% de plástico reciclado y 100% reciclable
+- Aplicar una nuez del producto sobre el cabello húmedo o seco, sin aclarar, Dejar secar al aire
+- Contenido: 3 x Crema Sin Aclarado Nutri Rizos Secado al Aire Garnier Fructis, 400ml
+- Pack de 3 cremas sin aclarado para cabellos rizados u ondulados con aceite de pistacho y pectina, Aporta cuerpo y movimiento a los rizos sin necesidad de usar secador
 
 [🛒 Aquí!!!]({{< param buyurl >}})
