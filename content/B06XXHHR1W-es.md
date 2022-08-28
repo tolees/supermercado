@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ingredientes respetuosos y de calidad
-- Elimina los esmaltes y geles permanentes Formato: 200ml
 - Acetona 100% pura
+- Elimina los esmaltes y geles permanentes Formato: 200ml
 - Rápido y fácil
 - Babaria - Quitaesmalte para Uñas de Gel con Acetona 2O0ml
 
