@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Galletas con delicioso chocolate blanco en forma de estrella
 - Conservar en lugar fresco y seco
 - Alérgenos: huevos, leche, frutos de cáscara, harina de trigo
 - Su textura crujiente e inimitable sabor a chocolate blanco son de otra galaxia
+- Galletas con delicioso chocolate blanco en forma de estrella
 - Práctico formato de 6 paquetes para llevar, ideal para la merienda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
