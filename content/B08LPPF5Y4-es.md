@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DYC Doble Roble Whisky Edición Limitada 40%  700ml'
-date: 2022-08-22 06:09:54
+date: 2022-08-29 10:19:40
 image: 'https://m.media-amazon.com/images/I/41yzyZF58AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DYC'
 buyurl: 'https://www.amazon.es/dp/B08LPPF5Y4/?tag=tolees-21'
 descuento: '14.57'
-average: '24.9024137931033'
+average: '24.8656666666665'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Single malt de doble envejecimiento en barricas de roble, recogido en una edición limitada y numerada de unas 12.000 botellas
+- Procedencia: United States
+- El segundo envejecimiento permite que el líquido desarrolle un nivel aún más profundo de caramelo y roble intenso y especiado
+- Tipo de alcohol: Whiskey
+- Como servir: Optimo para tomar solo, con hielo o combinado
 - Está elaborado para ser degustado con tranquilidad y dedicación; para ello se recomienda beberlo solo, en vaso bajo y lentamente
 - DYC Doble Roble es una edición limitada que contribuye al cuidado de nuestro entorno más cercano con la reforestación de 1.000 robles en toda España
-- Procedencia: United States
 - DYC Doble Roble pertenece a la exclusiva Colección Maestros Destiladores: whiskies de origen artesanal creados por los maestros destiladores de DYC
-- Como servir: Optimo para tomar solo, con hielo o combinado
-- Tipo de alcohol: Whiskey
 - Contenido de alcohol (alc/vol): 40.0 percent by volume
-- El segundo envejecimiento permite que el líquido desarrolle un nivel aún más profundo de caramelo y roble intenso y especiado
-- Single malt de doble envejecimiento en barricas de roble, recogido en una edición limitada y numerada de unas 12.000 botellas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
