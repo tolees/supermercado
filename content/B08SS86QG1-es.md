@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Enriquecida con Agua de Rosas realza la luminosidad de las pieles apagadas y sensibles
--  Garnier Skin Active Agua Micelar con Agua de Rosas para Piel Apagada y Sensible. Desmaquilla, Limpia e Ilumina en un solo gesto. Apto para Rostro, Labios y Ojos - 400ml
 - Apto para todo tipo de pieles, incluso sensibles
+-  Garnier Skin Active Agua Micelar con Agua de Rosas para Piel Apagada y Sensible. Desmaquilla, Limpia e Ilumina en un solo gesto. Apto para Rostro, Labios y Ojos - 400ml
+- Aplicar en el rostro con la ayuda de un algodón sin necesidad de frotar
 - Sus micelas capturan el maquillaje e impurezas como un imán
 - Limpia, desmaquilla y realza la luminosidad del rostro en un solo paso
-- Aplicar en el rostro con la ayuda de un algodón sin necesidad de frotar
+- Enriquecida con Agua de Rosas realza la luminosidad de las pieles apagadas y sensibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
