@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- facilita el peinado y el uso de la plancha
-- Unidades: 150.0
-- Número de items: 1
-- Unidad de medida: mililitro
-- Tipo de piel: Normal
-- Para el cabello: Para todos los tipos de cabello
 - efecto desenredante
+- facilita el peinado y el uso de la plancha
+- Unidad de medida: mililitro
+- Número de items: 1
+- Unidades: 150.0
+- Tipo de piel: Normal
 - repara el cabello seco y dañado
+- Para el cabello: Para todos los tipos de cabello
 - brillo y control del encrespado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

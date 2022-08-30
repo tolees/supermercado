@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Lápiz de ojos efecto tatuaje semi-permanente
+- Resiste roces, agua y sudor con intensidad tattoo
 - El resultado: trazo con intensidad tattoo que no se mueve, no se borra y es waterproof
 - Textura cremosa para una aplicación más fácil tanto en la linea de pestañas como en la linea de agua
 - Aplicar tanto en la linea de agua como linea de pestañas, dejar secar 30 segundos para que la linea se fije; requiere sacar la punta y se desmaquilla con agua micelar
-- Resiste roces, agua y sudor con intensidad tattoo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
