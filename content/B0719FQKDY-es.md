@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Limpia la piel en profundidad para ayudar a reducir los granos y puntos negros. Su fórmula de gel purifica la piel y la aviva para tener un cutis fresco y luminoso.
 - Fragancia de pomelo rosa refrescante.
 - Tecnología patentada Microclimat.
-- Limpia la piel en profundidad para ayudar a reducir los granos y puntos negros. Su fórmula de gel purifica la piel y la aviva para tener un cutis fresco y luminoso.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
