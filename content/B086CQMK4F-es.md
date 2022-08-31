@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resistente al agua, Long Lasting Stick Eyeshadow proporciona tonos de color vibrantes, puros y espléndidos
-- Sombra de ojos en barra: fijación extrema para un color intenso y esfumable
 - La aplicación es sencilla y cómoda gracias a la barra redondeada especial y a su textura ultrasuave y ligera
-- Una vez fijado, el color se mantiene uniforme y radiante hasta ocho horas, sin rayas y sin correrse
+- Resistente al agua, Long Lasting Stick Eyeshadow proporciona tonos de color vibrantes, puros y espléndidos
 - La fórmula cremosa garantiza una capacidad de esfumatura extrema del producto, inmediatamente después de la aplicación
+- Sombra de ojos en barra: fijación extrema para un color intenso y esfumable
+- Una vez fijado, el color se mantiene uniforme y radiante hasta ocho horas, sin rayas y sin correrse
 
 [🛒 Comprar!!!]({{< param buyurl >}})

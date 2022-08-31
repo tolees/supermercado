@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CHAMPÚ+GEL: limpia suavemente el cuerpo mientras combate la caspa y deja una sensación de limpieza y frescor libre de caspa
 - CHAMPÚ PREVENCIÓN CAÍDA*: con cafeína, pelo más fuerte** *caída relacionada con la caspa y/o la rotura capilar. **fortaleza contra los daños causados por el peinado, vs. champú sin acondicionador
+- CHAMPÚ+GEL: limpia suavemente el cuerpo mientras combate la caspa y deja una sensación de limpieza y frescor libre de caspa
 - CHAMPÚS: h&s 7 EN 1 TECNOLOGÍA MULTIPODER: Combate múltiples síntomas de la caspa a la vez
 - CHAMPÚ+GEL: h&s Limpieza Profunda con Carbón y Mentol elimina la suciedad con un torbellino refrescante que proporciona una sensación de frescor y limpieza
 - CHAMPÚ+GEL: fórmula probada dermatológicamente y clínicamente probada, eficaz contra la descamación y suave con la piel
