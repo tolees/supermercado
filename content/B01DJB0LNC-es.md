@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiñe poco a poco las pestañas tras cada aplicación gracias a sus colorantes naturales
-- Tinte natural no irritable que intensifica el color de tus pestañas en cada aplicación
-- Resultados visibles a partir de la segunda semana de aplicación
-- Volumen natural gracias al cepillo cónico que llega a todas las pestañas
 - Volumen y tinte progresivo
+- Volumen natural gracias al cepillo cónico que llega a todas las pestañas
+- Tinte natural no irritable que intensifica el color de tus pestañas en cada aplicación
+- Tiñe poco a poco las pestañas tras cada aplicación gracias a sus colorantes naturales
+- Resultados visibles a partir de la segunda semana de aplicación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
