@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 100% Arábica de América Central y del Sur, con un nivel 8 de intensidad y tueste ligero
 - 100 cápsulas de aluminio compatibles con las máquinas Nespresso*. *Lavazza no está respaldada o patrocinada por Nespresso
 - Para un delicado espresso con notas florales y afrutadas
-- 100% Arábica de América Central y del Sur, con un nivel 8 de intensidad y tueste ligero
-- Una sinfonía de cafés arábica mezclados por expertos cafeteros para crear un café para verdaderos conocedores. Una receta refinada para un sabor óptimo
 - Todas las emisiones de CO2 relacionadas con el ciclo de vida de las cápsulas de aluminio de Lavazza se compensan con iniciativas de lucha contra el cambio climático
+- Una sinfonía de cafés arábica mezclados por expertos cafeteros para crear un café para verdaderos conocedores. Una receta refinada para un sabor óptimo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
