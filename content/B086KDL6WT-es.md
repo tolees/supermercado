@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Listerine Enjuague Bucal Protección Dientes y Encías  Pack de 2 x 1000 ml'
-date: 2022-08-27 07:46:29
+date: 2022-08-31 10:02:47
 image: 'https://m.media-amazon.com/images/I/51Rl0DVx9HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B086KDL6WT-es Listerine Enjuague Bucal Protección Dientes y Encías Pack...'
 sku: 'B086KDL6WT-es'
 tags: [ 'Cuidado bucal','Enjuagues bucales','Salud y cuidado personal','bucal','enjuague','listerine','🇪🇸', ]
-actualPrice: 9.95 EUR
+actualPrice: 9.69 EUR
 currency: EUR
-price: 9.95
-comparePrice: 13.6 EUR
+price: 9.69
+comparePrice: 9.95 EUR
 prodname: 'Listerine Enjuague Bucal Protección Dientes y Encías  Pack de 2 x 1000 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Listerine'
 buyurl: 'https://www.amazon.es/dp/B086KDL6WT/?tag=tolees-21'
-descuento: '26.84'
-average: '11.0980263157894'
+descuento: '2.61'
+average: '11.061923076923'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

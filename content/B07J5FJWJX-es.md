@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Air Wick Freshmatic - Recambios de ambientador spray automático  esencia para casa con aroma a Lirio de Luna y Satén de Seda - pack de 6'
-date: 2022-08-21 21:16:29
-image: 'https://m.media-amazon.com/images/I/51eECkddDzL._SL500_._SL400_.jpg'
+date: 2022-08-31 09:53:40
+image: 'https://m.media-amazon.com/images/I/51exiBUPN7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07J5FJWJX-es Air Wick Freshmatic - Recambios de ambientador spray...'
 sku: 'B07J5FJWJX-es'
 tags: [ 'Ambientadores de hogar','Decoración del hogar','Fragancias para el hogar','Hogar y cocina','air','air wick','wick','🇪🇸', ]
-actualPrice: 16.8 EUR
+actualPrice: 15.36 EUR
 currency: EUR
-price: 16.8
+price: 15.36
 comparePrice: 24.92 EUR
 prodname: 'Air Wick Freshmatic - Recambios de ambientador spray automático  esencia para casa con aroma a Lirio de Luna y Satén de Seda - pack de 6'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Air Wick'
 buyurl: 'https://www.amazon.es/dp/B07J5FJWJX/?tag=tolees-21'
-descuento: '32.58'
-average: '15.5134'
+descuento: '38.36'
+average: '15.5103921568627'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- AMBIENTADOR SPRAY AUTOMÁTICO: pack de 6 recambios para el ambientador automático Air Wick Freshmatic
 - ELIMINA OLORES: gracias a su tecnología Odor Stop, elimina los malos olores y perfuma tu hogar de forma continua
 - DISEÑO ELEGANTE Y PORTÁTIL: podrás utilizarlo en cualquier rincón de tu casa como el baño o el salón, dándole un toque aún más sofisticado a tu hogar
-- LARGA DURACIÓN: con cada recambio conseguirás hasta 70 días de fragancia
-- AMBIENTADOR SPRAY AUTOMÁTICO: pack de 6 recambios para el ambientador automático Air Wick Freshmatic
 - NIVELES DE INTENSIDAD REGULABLES: elige entre tres niveles de intensidad para conseguir tu nivel de fragancia deseada
 - FRAGANCIA LIRIO DE LUNA Y SATÉN DE SEDA: una lujosa combinación de lirios, rosas y peonias envueltas en suaves notas de vainilla
+- LARGA DURACIÓN: con cada recambio conseguirás hasta 70 días de fragancia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
