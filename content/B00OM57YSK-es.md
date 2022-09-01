@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heineken Cerveza Lager  2 x 5000ml'
-date: 2022-08-30 05:26:55
+date: 2022-09-01 18:11:00
 image: 'https://m.media-amazon.com/images/I/412i9XSCDvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Heineken'
 buyurl: 'https://www.amazon.es/dp/B00OM57YSK/?tag=tolees-21'
 descuento: '19.43'
-average: '27.4980555555556'
+average: '27.5113513513514'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es ideal para fiestas
+- Elaborada con agua, malta de cebada y lúpulo
 - Se recomienda consumirla fría
 - Con aroma frutal, ligero sabor dulce y amargor suave
-- Elaborada con agua, malta de cebada y lúpulo
+- Es ideal para fiestas
 - Tiene un color amarillo brillante y espuma blanca intensa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
