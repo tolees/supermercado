@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Colonia Halloween con fragancia floral-semioriental para mujeres
+- La mujer Halloween puede ser al mismo tiempo inocente y seductora, cautivándonos con su misteriosa dualidad
 - Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 - Vaporizador de 100ml
 - Las notas de salida son violetas, aroma de los mares de Alaska, lima verde y banana de Bokhol; las de corazón Magnolia de Casablanca, Muguet Tuberosa y un toque de pimienta rosa de la isla de Aruba; las de fondo sándalo de Misora, incienso de Djouba, mirra de Taba y vainilla de Madagascar
-- Colonia Halloween con fragancia floral-semioriental para mujeres
-- La mujer Halloween puede ser al mismo tiempo inocente y seductora, cautivándonos con su misteriosa dualidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

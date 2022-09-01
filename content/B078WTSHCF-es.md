@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish Powerball Power All in 1 Pastillas para el lavavajillas todo en 1 - Pack ahorro 110 pastillas'
-date: 2022-08-29 12:01:37
+date: 2022-09-01 16:17:07
 image: 'https://m.media-amazon.com/images/I/51Ujq+zJyML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Finish'
 buyurl: 'https://www.amazon.es/dp/B078WTSHCF/?tag=tolees-21'
 descuento: '23.36'
-average: '19.2031002331006'
+average: '19.2013953488376'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
