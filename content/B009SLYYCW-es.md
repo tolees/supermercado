@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Una mezcla idónea, creación personal del maestro mezclador Jim Beveridge que celebra el arte del mezclado
+- Un whisky escocés que ha sido premiado en multitud de ocasiones por su equilibrio de sabores, que aportan algo especial a cada celebración
 - Se aprecia en todo su esplendor en un Gold & Apple Highball: en un vaso alto con hielo, verter 50 ml de Gold Label Reserve, 75 ml de zumo de manzana, 75 ml de soda, y decorar con una rodaja de manzana
 - Graduación alcohólica: 40 %
-- Una mezcla idónea, creación personal del maestro mezclador Jim Beveridge que celebra el arte del mezclado
 - Elaborado con whiskies de gran lujo de malta y grano de toda Escocia, seleccionados por su carácter dulce y notas de miel
-- Un whisky escocés que ha sido premiado en multitud de ocasiones por su equilibrio de sabores, que aportan algo especial a cada celebración
 - Fruta y vainilla intensas, notas amaderadas dulces y especiadas y un toque ahumado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
