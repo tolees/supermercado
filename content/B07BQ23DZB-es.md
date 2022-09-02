@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tiene 15 ajustes de tamaño de molido fino y grueso
-- Molinillo de café cónico de acero inoxidable
-- Ruleta giratoria para seleccionar el tiempo de molido, de 10 a 50 sec.
 - Potencia: 150 W
 - Depósito de granos máximo de 300 gr
+- Ruleta giratoria para seleccionar el tiempo de molido, de 10 a 50 sec.
+- Molinillo de café cónico de acero inoxidable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
