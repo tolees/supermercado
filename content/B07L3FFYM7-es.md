@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Este champú purificante nutre tu cabello y le deja un aspecto renovado y balanceado
-- Purifica tu cabello con el champú de Carbón Detox de OGX y elimina los residuos de otros productos como el fijador o el champú seco
-- Este champú está enriquecido con carbón de coco y arcilla caolinita, los cuales dejan el cabello limpio, sedoso e hidratado
-- Para mejores resultados, utiliza este champú con el resto de productos de la gama de Carbón Detox de OGX
 - Hidrata y limpia intensamente el cabello sin dejar una sensación de pesadez o falta de vigor
+- Purifica tu cabello con el champú de Carbón Detox de OGX y elimina los residuos de otros productos como el fijador o el champú seco
+- Para mejores resultados, utiliza este champú con el resto de productos de la gama de Carbón Detox de OGX
+- Este champú está enriquecido con carbón de coco y arcilla caolinita, los cuales dejan el cabello limpio, sedoso e hidratado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
