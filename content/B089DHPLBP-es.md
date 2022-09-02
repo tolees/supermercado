@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alergenos: cacahuete, frutos de cáscara, leche, soja, granos de sésamo
-- Snack elaborado con aceite de girasol
+- Palitos de pan con semillas de girasol y aceite de oliva
 - Pais de origenes España
 - Conservar en lugar fresco y seco
-- Palitos de pan con semillas de girasol y aceite de oliva
+- Alergenos: cacahuete, frutos de cáscara, leche, soja, granos de sésamo
+- Snack elaborado con aceite de girasol
 
 [🛒 Comprar!!!]({{< param buyurl >}})
