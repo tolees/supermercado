@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gasa de absorción de gran grosor
-- Mantienen la herida en las mejores condiciones posibles para su rápida curación
-- Mantener alejado de la luz solar directa – Conservar en un lugar fresco y seco
-- Los apósitos están dermatológicamente testados, son superadhesivos, tienen una almohadilla de pura gasa antiadherente, un soporte de tejido no tejido para pieles sensibles
-- 6 paquetes de 7 unidades
 - Hipoalergénico, suave y transpirable, reduce el riesgo de infección
+- Mantienen la herida en las mejores condiciones posibles para su rápida curación
+- 6 paquetes de 7 unidades
+- Los apósitos están dermatológicamente testados, son superadhesivos, tienen una almohadilla de pura gasa antiadherente, un soporte de tejido no tejido para pieles sensibles
+- Mantener alejado de la luz solar directa – Conservar en un lugar fresco y seco
+- Gasa de absorción de gran grosor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
