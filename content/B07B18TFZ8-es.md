@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amstel Oro Cerveza Tostada Pack Lata  24 x 33cl'
-date: 2022-09-03 19:15:24
+date: 2022-09-04 20:11:21
 image: 'https://m.media-amazon.com/images/I/51GSsmakR9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amstel'
 buyurl: 'https://www.amazon.es/dp/B07B18TFZ8/?tag=tolees-21'
 descuento: '19.24'
-average: '13.8011594202898'
+average: '13.7922857142857'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ingredientes: agua tratada, 100% con mexcla de maltas de cebadas claras y oscuras, lúpulo y exclusiva levadura Amstel
 - Consumirla entre 2 y 4 grados C para obtener sus máximas cualidades
-- De color dorado oscuro y espuma cremosa De cuerpo medio y amargor suave
 - Maltas tostadas en 3 tiempos: secado, tostación y golpe de fuego
+- De color dorado oscuro y espuma cremosa De cuerpo medio y amargor suave
+- Ingredientes: agua tratada, 100% con mexcla de maltas de cebadas claras y oscuras, lúpulo y exclusiva levadura Amstel
 - Cerveza estilo lager especial tostada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
