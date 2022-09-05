@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cereales integrales como ingrediente número 1
 - Sin aceite de palma
 - Elaborado con vitaminas, minerales y con el sabor de siempre al auténtico chocolate CHOCAPIC
-- Cereales integrales como ingrediente número 1
 
 [🛒 Comprar!!!]({{< param buyurl >}})
