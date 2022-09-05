@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con delicados aromas a fruta blanca, plátano y manzana
-- Está compuesta por una combinación de Pilsen y malta tostada
-- Temperatura óptima de servicio es 4-6°C
-- Elaborado con un coupage de lúpulos que aportan un fondo floral y un amargor moderado
 - Tiene un color dorado brillante con una espuma cremosa y consistente
+- Temperatura óptima de servicio es 4-6°C
+- Está compuesta por una combinación de Pilsen y malta tostada
+- Con delicados aromas a fruta blanca, plátano y manzana
+- Elaborado con un coupage de lúpulos que aportan un fondo floral y un amargor moderado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
