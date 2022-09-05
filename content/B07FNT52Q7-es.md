@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Detergente Asevi Colores 52 dosis'
-date: 2022-08-26 11:55:22
+date: 2022-09-05 16:25:21
 image: 'https://m.media-amazon.com/images/I/41dlhRrnOJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Asevi'
 buyurl: 'https://www.amazon.es/dp/B07FNT52Q7/?tag=tolees-21'
 descuento: '23.12'
-average: '4.2878947368421'
+average: '4.283'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fija y protege los colores como nuevos
-- Detergente liquido concentrado
-- Detergente para la ropa de color, la cual fija y protege los colores como nuevos y previene la transferencia de color; descubre la intensa frescura de su perfume; no necesita prelavado
 - Previene la transferencia de colores
+- Detergente para la ropa de color, la cual fija y protege los colores como nuevos y previene la transferencia de color; descubre la intensa frescura de su perfume; no necesita prelavado
+- Detergente liquido concentrado
+- Fija y protege los colores como nuevos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
