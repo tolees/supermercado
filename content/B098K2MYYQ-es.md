@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PROTECCIÓN SUPERIOR - Elimina la placa bacteriana eficazmente y proporciona una protección 24 horas al día
-- 0% ALCOHOL - No contiene alcohol etílico
-- ALIENTO FRESCO - Su sensación de frescura agradable que dura diez veces más que un simple cepillado
 - CUIDADO AVANZADO - Contiene flúor para proteger contra la caries
+- 0% ALCOHOL - No contiene alcohol etílico
+- PROTECCIÓN SUPERIOR - Elimina la placa bacteriana eficazmente y proporciona una protección 24 horas al día
+- ALIENTO FRESCO - Su sensación de frescura agradable que dura diez veces más que un simple cepillado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
