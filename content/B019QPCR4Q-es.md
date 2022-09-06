@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOM - Ginebra Premium - 700 ml'
-date: 2022-09-01 10:47:29
+date: 2022-09-06 10:34:21
 image: 'https://m.media-amazon.com/images/I/41ITZOmElhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MOM'
 buyurl: 'https://www.amazon.es/dp/B019QPCR4Q/?tag=tolees-21'
 descuento: '19.96'
-average: '16.7182051282051'
+average: '16.70025'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Maridaje: Servir en copa de balón, decorado con brocheta de amarena, dotandolo de un tono rosa suabe y natural.
-- Sabor: Vibrante gusto a frutos rojos y suave final.
 - Disfrutaremos de una copa llamativa y sofisticada con un sabor dulce y un final amargo.
 - Color: Ginebra Rosa elaborada con frutos rojos y exótios ingredientes botánicos
+- Sabor: Vibrante gusto a frutos rojos y suave final.
 - Olor: Gran personalidad al infusionarla con frutos rojos tras cuatro destilaciones
+- Maridaje: Servir en copa de balón, decorado con brocheta de amarena, dotandolo de un tono rosa suabe y natural.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
