@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOUSSEL gel de ducha clásico formato viaje bote 60 ml'
-date: 2022-08-29 18:41:00
+date: 2022-09-07 14:53:55
 image: 'https://m.media-amazon.com/images/I/51JZ7pyKH4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MOUSSEL'
 buyurl: 'https://www.amazon.es/dp/B07LGCCTDK/?tag=tolees-21'
 descuento: '0.00'
-average: '1.0203448275862'
+average: '1.02133333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
