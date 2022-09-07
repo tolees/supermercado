@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor óptimo: Selección de ingredientes de alta palatabilidad
-- Efecto saciante: Mezcla de fibras vegetales
-- Pelo brillante y piel cuidada: Ácidos grasos omega-3 y omega-6, biotina y zinc
-- Control de las bolas de pelo: Elevado contenido en fibra que ayuda a reducir la formación de bolas de pelo, favoreciendo la eliminación de pelo con las heces
 - Control del peso: Nivel moderado de grasas y calorías, con fibra y L-carnitina
+- Efecto saciante: Mezcla de fibras vegetales
+- Control de las bolas de pelo: Elevado contenido en fibra que ayuda a reducir la formación de bolas de pelo, favoreciendo la eliminación de pelo con las heces
+- Sabor óptimo: Selección de ingredientes de alta palatabilidad
+- Pelo brillante y piel cuidada: Ácidos grasos omega-3 y omega-6, biotina y zinc
 - Pienso para Gatos Esterilizados: Contiene pavo y otros ingredientes para prevenir las bolas de pelo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tras su uso, tu cabello estará mas nutrido, reparado y visiblemente más sano.
-- Nuestro pack rutina esta potenciado por el poder natural de miel que repara el cabello en profundidad.
-- Aplicar el Champú sobre el cabello mojado y aclarar. Después, utilizar el Acondicionador y aclarar. Finalmente para conseguir una hidratación más intensa, aplicar la mascarilla. Dejar actuar 5 minutos y aclarar.
 - Contenido: 1 x Garnier Original Remedies Champú Tesoros de Miel+ 1x Acondicionador + 1 x Mascarilla
+- Nuestro pack rutina esta potenciado por el poder natural de miel que repara el cabello en profundidad.
+- Tras su uso, tu cabello estará mas nutrido, reparado y visiblemente más sano.
+- Aplicar el Champú sobre el cabello mojado y aclarar. Después, utilizar el Acondicionador y aclarar. Finalmente para conseguir una hidratación más intensa, aplicar la mascarilla. Dejar actuar 5 minutos y aclarar.
 - Descubre el poder reparador de la miel con el Pack Rutina Original Remedies Tesoros de Miel enriquecido con vitaminas para un cabello más sano de raíz a puntas. *Test instrumental, champú + acondicionador.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
