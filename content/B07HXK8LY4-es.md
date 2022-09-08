@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NYX Professional Makeup Paleta de sombra de ojos Swear By It Eye Shadow Palette  Tonos fríos y cálidos  Acabado mate  satinado y metalizado  40 Colores'
-date: 2022-08-31 09:01:55
+date: 2022-09-08 10:07:34
 image: 'https://m.media-amazon.com/images/I/51-Tmix3BvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NYX PROFESSIONAL MAKEUP'
 buyurl: 'https://www.amazon.es/dp/B07HXK8LY4/?tag=tolees-21'
 descuento: '25.22'
-average: '28.8073333333335'
+average: '28.7035483870969'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
