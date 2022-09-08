@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Provocalips Labial Líquido  Tono 220 Lazy Daze - 7 m'
-date: 2022-09-07 03:06:04
+date: 2022-09-08 04:11:20
 image: 'https://m.media-amazon.com/images/I/31fNyYiLFbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rimmel London'
 buyurl: 'https://www.amazon.es/dp/B07MRGJ33B/?tag=tolees-21'
 descuento: '38.98'
-average: '5.03131578947368'
+average: '5.05623376623376'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
