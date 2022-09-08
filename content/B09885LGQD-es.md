@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gin Puerto de Indias - Edición Limitada Feria - Gin de Fresa Premium - Ginebra Sabor Fresa Premium - Ginebra Strawberry - 70 cl - 37.5%'
-date: 2022-09-04 20:49:25
+date: 2022-09-08 14:03:30
 image: 'https://m.media-amazon.com/images/I/41QUtXdtGMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Puerto de Indias'
 buyurl: 'https://www.amazon.es/dp/B09885LGQD/?tag=tolees-21'
 descuento: '16.49'
-average: '13.57125'
+average: '13.5433333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La icónica botella de Puerto de Indias se tiñe de rojo para celebrar el amor por las ferias
-- Ginebra premium Puerto de Indias con sabor de fresas naturales. Una ginebra en la que se mezclan la esencia de las fresas y una cuidadosa selección de ingredientes que completan y perfilan el producto
-- El objetivo de esta edición limitada es vivir la esencia de las Ferias junto al sabor de la Ginebra de Puerto de Indias
-- Nota de cata: inconfundible aroma a fresas naturales con amplios matices de fresa y enebro con ligeros toques cítricos.
 - Sabor obtenido del procesamiento de fresas y enebro
+- Nota de cata: inconfundible aroma a fresas naturales con amplios matices de fresa y enebro con ligeros toques cítricos.
+- El objetivo de esta edición limitada es vivir la esencia de las Ferias junto al sabor de la Ginebra de Puerto de Indias
+- Ginebra premium Puerto de Indias con sabor de fresas naturales. Una ginebra en la que se mezclan la esencia de las fresas y una cuidadosa selección de ingredientes que completan y perfilan el producto
+- La icónica botella de Puerto de Indias se tiñe de rojo para celebrar el amor por las ferias
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

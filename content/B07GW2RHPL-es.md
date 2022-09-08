@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diadermine Pack de 3 x 6 Strips Purifiants Anti Points Noirs/Impuretés'
-date: 2022-09-07 11:02:17
+date: 2022-09-08 14:33:17
 image: 'https://m.media-amazon.com/images/I/51rD8M5dz8S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Resultados visibles: los poros son inmediatamente purifiés y resserrés. Su piel es clara y dulce.
+- Deja que el strippa actuar 10 a 15 minutos, hasta que se seca. Limpie suavemente en empezando por los extremos. Utilice los trips 2 a 3 veces por semana.
 - Los laboratorios Diadermine han desarrollado los trips purifiants para retirar rápida y eficazmente las impurezas y puntos negros de la zona T.
 - Instrucciones de uso: limpia perfectamente tu cara y, a continuación, mouillez la zona en la que desea aplicar el strippa (frente, nariz o barbilla).
-- Deja que el strippa actuar 10 a 15 minutos, hasta que se seca. Limpie suavemente en empezando por los extremos. Utilice los trips 2 a 3 veces por semana.
 - Aplique la parte brillante del strippa sobre la zona seleccionada. Alisa el strippa y presionar el durante 4 segundos para asegurar un buen contacto con la piel.
-- Resultados visibles: los poros son inmediatamente purifiés y resserrés. Su piel es clara y dulce.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

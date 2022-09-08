@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lea las instrucciones de uso antes de utilizar el producto
 - *Donación válida del 14 de octubre de 2019 hasta el 20 de octubre de 2019 en los pedidos Vendidos y enviados por Amazon.
-- Paranix Spray con aceite mineral 96% y dimeticona 4%. Paranix Protect con su fórmula con IR3535 y extractos naturales de plantas ha sido clínicamente testada y repele los piojos de forma eficaz
 - Paranix Spray elimina piojos y liendres en 1 sola aplicación mientras que Paranix Protect proporciona una protección inmediata durante todo el día contra piojos, para que no se produzca una reinfestación
+- Paranix Spray con aceite mineral 96% y dimeticona 4%. Paranix Protect con su fórmula con IR3535 y extractos naturales de plantas ha sido clínicamente testada y repele los piojos de forma eficaz
+- Lea las instrucciones de uso antes de utilizar el producto
 - Eficacia testada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
