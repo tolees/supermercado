@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 4.00581E+12
-- Cuerpo Nivea
 - Cosmetica para el mejor cuidado de la piel y el cabello Imprescindible en tu cuidado personal
+- Cuerpo Nivea
 
 [🛒 Aquí!!!]({{< param buyurl >}})
