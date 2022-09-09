@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Anti-sequedad
-- Calma el picor
-- Nombre de la fragancia: Almond
-- Protección e Hidratación para Pieles Atópicas
-- Regenera las defensas naturales
 - Alivia la irritación
+- Anti-sequedad
+- Regenera las defensas naturales
+- Nombre de la fragancia: Almond
+- Calma el picor
+- Protección e Hidratación para Pieles Atópicas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
