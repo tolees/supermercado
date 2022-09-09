@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alimento complementario en forma de barrita con tres capas de semillas, frutas y sustancias minerales
-- Logran que el canario tenga que picar el palito de madera y esforzarse por obtener su alimento como lo haría en la naturaleza
-- Sin azúcar
-- Horneadas tres veces sobre un palito de madera con sabor a miel y sésamo
 - Desarrollado con la ayuda de veterinarios y expertos en aves
+- Horneadas tres veces sobre un palito de madera con sabor a miel y sésamo
+- Logran que el canario tenga que picar el palito de madera y esforzarse por obtener su alimento como lo haría en la naturaleza
+- Alimento complementario en forma de barrita con tres capas de semillas, frutas y sustancias minerales
+- Sin azúcar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
