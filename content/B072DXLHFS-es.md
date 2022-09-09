@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CÓMO APLICARLO: Aplicar generosamente sobre el rostro después del tratamiento o crema habitual diariamente por la mañana. También se puede utilizar como crema hidratante de prevención en manchas con elevado factor de protección y color
 - Crema de color anti-manchas con protección muy alta frente las radiaciones UVA, UVB, HEV e Infrarrojos. A través de una combinación de filtros de amplio espectro. Para una óptima protección diaria. Recomendado para todas las pieles para protegerse, en especial personas que están en un tratamiento anti-manchas.
-- CON UN TOQUE DE COLOR: Con color-adapt system, un toque de color que se adapta al tono de cada piel y difumina sus defectos. Resistente al agua. Sin parabenos. Perfume hipoalergénico. Con acabado mate, aterciopelado y bronceado natural.
-- EFICACIA: Marca cosmética 100% especializada en anti-manchas blancas y oscuras, cremas antiedad, despigmentantes y productos para pigmentar la piel en caso de hipopigmentación. Todos nuestros productos de Bella Aurora se han testado dermatológica y oftalmológicamente y han demostrado su eficacia bajo estudio multi-étnico.
 - ANTI-MANCHAS Y ANTI-EDAD: Su formulación incluye activos anti-manchas que atenúan las manchas existentes y previenen la aparición de nuevas consiguiendo una piel uniforme y sin imperfecciones. Protege y repara el ADN de las células dañadas, previniendo el envejecimiento prematuro de la piel.
+- EFICACIA: Marca cosmética 100% especializada en anti-manchas blancas y oscuras, cremas antiedad, despigmentantes y productos para pigmentar la piel en caso de hipopigmentación. Todos nuestros productos de Bella Aurora se han testado dermatológica y oftalmológicamente y han demostrado su eficacia bajo estudio multi-étnico.
+- CÓMO APLICARLO: Aplicar generosamente sobre el rostro después del tratamiento o crema habitual diariamente por la mañana. También se puede utilizar como crema hidratante de prevención en manchas con elevado factor de protección y color
+- CON UN TOQUE DE COLOR: Con color-adapt system, un toque de color que se adapta al tono de cada piel y difumina sus defectos. Resistente al agua. Sin parabenos. Perfume hipoalergénico. Con acabado mate, aterciopelado y bronceado natural.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
