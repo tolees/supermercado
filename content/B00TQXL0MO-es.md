@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Sonicare Serie 2 HX6231/01 - Cepillo de dientes electrico  1 cabezal  cargador  Color Blanco'
-date: 2022-09-09 10:11:13
+date: 2022-09-10 14:37:53
 image: 'https://m.media-amazon.com/images/I/41YIvJhDOHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B00TQXL0MO/?tag=tolees-21'
 descuento: '40.19'
-average: '32.1102777777778'
+average: '32.0505405405406'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
