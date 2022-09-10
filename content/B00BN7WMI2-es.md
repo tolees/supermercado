@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español Gel de Baño Aloe Vera - 1250 ML'
-date: 2022-08-30 20:01:58
+date: 2022-09-10 19:20:35
 image: 'https://m.media-amazon.com/images/I/41wSwGI2-pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B00BN7WMI2/?tag=tolees-21'
 descuento: '46.03'
-average: '1.89909090909091'
+average: '1.905'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De la marca Instituto Español
 - Este producto está indicado tanto para mujeres como hombres
+- De la marca Instituto Español
 
 [🛒 Visítala!!!]({{< param buyurl >}})

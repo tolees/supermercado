@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para un resultado óptimo combínalo con el bálsamo
 - Gel de afeitar transparente para barba con té blanco y aceite de argán
-- Deja una sensación de suavidad y tersura en la piel
 - Gel refrescante limpiador para barba y rostro con agua de coco, aceite de argán y aceite de aguacate
+- Deja una sensación de suavidad y tersura en la piel
+- Para un resultado óptimo combínalo con el bálsamo
 - Aceite para barba a base de ingredientes naturales de origen vegetal, argán, jojoba, aguacate, semillas de macadamia y almendra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatibilidad con la piel dermatológicamente comprobada
 - Se absorbe rápidamente, dejando una sensación de frescor en la piel
 - Su fórmula ligera con aceite de oliva permite una absorción rápida y proporciona una agradable sensación de frescor a la piel hidratándola intensamente y dejándola suave y sedosa
 - Crema hidratante intensiva de todo uso que aporta la sensación más refrescante
+- Compatibilidad con la piel dermatológicamente comprobada
 - Esta crema de uso diario de Nivea es ideal para el cuidado y la protección de cara, cuerpo y manos y adecuada a todos los tipos de piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

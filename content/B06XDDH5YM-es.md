@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El champú Fructis Pure Fresh Agua de Coco, fortifica la fibra tras cada aplicación, purifica el cuero cabelludo y aporta hidratación de largos a puntas; Para pelo normal, con raíces grasas y puntas secas
-- 360 ml
 - Formulado con agua de coco y agentes purificantes
 - El Compromiso Fructis: fórmulas testadas bajo control dermatológico, envases con un 50% de plástico reciclado, 100% reciclables y producidos en fábricas comprometidas con el desarrollo sostenible
+- 360 ml
 - Aplicar sobre cabello mojado, masajear suavemente el cuero cabelludo y después aclarar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
