@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Efecto calmante – Este desmaquillante limpiador de ojos ha sido desarrollado para la piel sensible del contorno de ojos y proporciona un efecto calmante.
 - Cuidado facial – Este producto elimina el maquillaje rápida y suavemente, sin esfuerzo y sin necesidad de frotar. Además, no contiene perfume.
-- Contenido del envío – NIVEA Desmaquillador de Ojos Doble Acción, limpieza rápida y suave del contorno de los ojos, 1 x 125 ml, botella.
-- Fórmula eficaz – Enriquecido con extracto de aciano, este producto desmaquillante de ojos elimina el maquillaje de larga duración y la máscara waterproof.
 - Desmaquillador bifásico – Gracias a su fórmula bifásica, este limpiador facial desmaquilla los ojos de manera eficaz al tiempo que protege las pestañas.
+- Fórmula eficaz – Enriquecido con extracto de aciano, este producto desmaquillante de ojos elimina el maquillaje de larga duración y la máscara waterproof.
+- Contenido del envío – NIVEA Desmaquillador de Ojos Doble Acción, limpieza rápida y suave del contorno de los ojos, 1 x 125 ml, botella.
+- Efecto calmante – Este desmaquillante limpiador de ojos ha sido desarrollado para la piel sensible del contorno de ojos y proporciona un efecto calmante.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

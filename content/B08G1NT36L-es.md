@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Efecto de tinta líquida
 - Cantidad: 5 ml
 - Pintalabios mate de una duración óptima
+- Efecto de tinta líquida
 - Marca del producto: Maybelline New York
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
