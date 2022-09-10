@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London - Rimmel - Máscara de pestañas Lash Accelerator Endless'
-date: 2022-09-08 18:54:13
+date: 2022-09-10 12:01:20
 image: 'https://m.media-amazon.com/images/I/31q2TlDUPNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
