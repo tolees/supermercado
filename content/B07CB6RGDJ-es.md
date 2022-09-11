@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Envase de 30 comprimidos para 1 mes de uso. Los complementos alimenticios no deben ser usados como sustitutos de una dieta equilibrada.
-- Multivitaminas sin gluten, sin azúcar y sin lactosa.
-- Complemento alimenticio completo, con vitaminas y minerales, que ayudan a reforzar tu rendimiento físico e intelectual. Para adultos.
 - Contiene vitaminas del tipo B, que contribuyen al metabolismo energético normal, y vitamina C, que contribuye al funcionamiento normal del sistema inmunitario.
+- Complemento alimenticio completo, con vitaminas y minerales, que ayudan a reforzar tu rendimiento físico e intelectual. Para adultos.
 - Contiene dos plantas naturales, ginseng, que ayuda a mantener el rendimiento físico, y ginko biloba, que ayuda a mantener la memoria y favorece la concentración en condiciones normales.
+- Multivitaminas sin gluten, sin azúcar y sin lactosa.
+- Envase de 30 comprimidos para 1 mes de uso. Los complementos alimenticios no deben ser usados como sustitutos de una dieta equilibrada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
