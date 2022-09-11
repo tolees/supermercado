@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resista a cualquier agente externo
-- Sin dañar el cabello
 - Impide que el volumen baje
+- Sin dañar el cabello
 - Fija el cabello dejándolo flexible
+- Resista a cualquier agente externo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
