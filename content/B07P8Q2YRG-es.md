@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Factor Solar de Protección muy alto: +50 SPF, para pieles sensibles, claras o muy claras. Dermatológicamente testado para una exposición solar más segura.
 - Bruma facial en spray de 75 ml con textura muy ligera para una aplicación fácil, incluso sobre el maquillaje, con acabado invisible, no graso y agradable.
-- Protección solar muy alta, resistente al agua, se recomienda su aplicación antes de la exposición al sol, con reaplicaciones periódicas para obtener una total protección frente a los rayos UVA Y UVB, luz azul e infrarrojos.
 - Su fórmula muy suave 0% alcohol está especialmente indicada para pieles sensibles o muy sensibles, aportando extra hidratación contra los efectos envejecedores del sol.
+- Protección solar muy alta, resistente al agua, se recomienda su aplicación antes de la exposición al sol, con reaplicaciones periódicas para obtener una total protección frente a los rayos UVA Y UVB, luz azul e infrarrojos.
 - Agitar bien antes de usar. Aplicar 20 minutos antes de la exposición al sol, durante aproximadamente un minuto, con pulverizaciones cortas a una distancia de 15 centímetros de forma uniforme sobre la piel, asegurándonos de cubrir toda la superficie expuesta al sol. Para mantener una protección eficaz, repita la aplicación del producto, especialmente tras bañarse, secarse o transpirar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
