@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 📝 Puedes Escribir una Felicitación y la Pondremos Dentro de La Caja.
 - 🍫 🍭 En el Lote Encontrarás 5 Kinder Hippos, 4 Kinder Bueno, 6 Kinder Chocolate Maxi, 4 Bolsas de Gominolas Haribo Surtidas, 1 de Conguitos. (Si algún producto no hubiese se sustituirá por otro de Kinder o Haribo)
-- ✅ La Caja va Decorada con una Bonita Ilustración de Chuches.
 - 🎁 Preciosa Caja Para Regalo con 4 Bolsas de Chuches Haribo y 1 Conguitos y Muchos Chocolates Kinder Variados. Un Regalo que Encantará a Niños y Mayores.
+- ✅ La Caja va Decorada con una Bonita Ilustración de Chuches.
 - 🎁 Es un Regalo Ideal Para Navidad, Cumpleaños, Aniversarios, Amigo Invisible o Tener un detalle con Alguien Especial.
+- 📝 Puedes Escribir una Felicitación y la Pondremos Dentro de La Caja.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
