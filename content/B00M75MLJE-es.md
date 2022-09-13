@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alivia al instante los labios secos y agrietados, así como la zona alrededor de la nariz
 - Con Glicerina y emolientes nutritivos, desde la primera aplicación hidrata y repara intensamente
-- Este bálsamo calmante de rápida absorción no deja residuos blancos ni sensación pegajosa
+- Alivia al instante los labios secos y agrietados, así como la zona alrededor de la nariz
 - Aplicar con un dedo en los labios y en la zona alrededor de la nariz
+- Este bálsamo calmante de rápida absorción no deja residuos blancos ni sensación pegajosa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
