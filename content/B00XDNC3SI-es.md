@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de 6 latas individuales de 80 g, con tapa fácil apertura
-- Conserva de atún claro en aceite de oliva
 - Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - Lata ideal para consumo individual
+- Conserva de atún claro en aceite de oliva
 - País de origen: España, producto natural sin conservantes ni colorantes
+- Pack de 6 latas individuales de 80 g, con tapa fácil apertura
 
 [🛒 Aquí!!!]({{< param buyurl >}})

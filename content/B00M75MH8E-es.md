@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Bálsamo Hidratación Profunda Cara y Cuerpo  Piel Seca  2 Tarros de 300ml'
-date: 2022-09-12 10:07:40
+date: 2022-09-13 13:11:58
 image: 'https://m.media-amazon.com/images/I/51k4eST96aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Neutrogena'
 buyurl: 'https://www.amazon.es/dp/B00M75MH8E/?tag=tolees-21'
 descuento: '21.83'
-average: '11.1153333333333'
+average: '10.9825'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 300 ml.
-- Bálsamo Corpo+F13130:I13147ral
 - 2 Unidades
+- Bálsamo Corpo+F13130:I13147ral
 - facil de usar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
