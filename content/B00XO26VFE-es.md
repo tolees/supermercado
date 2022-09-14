@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ana María Lajusticia - Ana Maria Lajusticia - Aceite de hígado de bacalao – 90 perlas aporte de VITAMINAS D  A y E y ácidos grasos omega 3. Envase para 30 días de tratamiento.'
-date: 2022-09-13 19:43:13
+date: 2022-09-14 19:56:51
 image: 'https://m.media-amazon.com/images/I/41TOlJMjPaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ana María Lajusticia'
 buyurl: 'https://www.amazon.es/dp/B00XO26VFE/?tag=tolees-21'
 descuento: '27.65'
-average: '5.58962962962964'
+average: '5.58250000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aporte de Vitamina D, A, E y Omega 3
 - Problemas de piel y toda clase de mucosas
-- Indicado para el control del colesterol y placas de ateroma. Estados de raquitismo, ceguera nocturna y cataratas.
 - Se recomienda en invierno cuando la producción de vitamina D a través del sol es menor.
+- Indicado para el control del colesterol y placas de ateroma. Estados de raquitismo, ceguera nocturna y cataratas.
+- Aporte de Vitamina D, A, E y Omega 3
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
