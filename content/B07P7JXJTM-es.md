@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Paris - L Oréal Men Expert - Hydra Energetic gel limpiador energizante para hombres - 100 ml'
-date: 2022-09-13 10:02:26
+date: 2022-09-14 11:33:21
 image: 'https://m.media-amazon.com/images/I/418222zNY2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LOréal Paris'
 buyurl: 'https://www.amazon.es/dp/B07P7JXJTM/?tag=tolees-21'
 descuento: '24.37'
-average: '4.57571428571427'
+average: '4.5736111111111'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

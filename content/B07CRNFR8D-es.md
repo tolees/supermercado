@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Hydro Boost  Loción corporal - 400 ml.'
-date: 2022-09-12 10:25:34
+date: 2022-09-14 12:30:17
 image: 'https://m.media-amazon.com/images/I/41c86CajFXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Neutrogena'
 buyurl: 'https://www.amazon.es/dp/B07CRNFR8D/?tag=tolees-21'
 descuento: '26.00'
-average: '6.44756756756758'
+average: '6.40153846153847'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
