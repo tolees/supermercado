@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ingredientes: Mezcla vegetal, mejillon, aceite e girasol, vinagre de vino y sal
 - Fabricado en Galicia
 - Alergenos: moluscos
 - una vez abierto, consevar en el frigorifico y consumir en 24 horas
-- Ingredientes: Mezcla vegetal, mejillon, aceite e girasol, vinagre de vino y sal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
