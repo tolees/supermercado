@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cerveza Reserva Especial Ingredientes: agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), maíz y lúpulo Perle Hallertau. Levadura seleccionada Hijos de Rivera
-- Cerveza 1906 Reserva Especial - Paquete de 24 latas de 330 ml – Bebida alcohólica 6,5% de volumen en alcohol – Cerveza en lata Para una Inmensa Minoría, La Milnueve – Maltas tostadas – Hijos de Rivera
-- Cerveza 1906 Aromas a malta tostada con suaves notas de caramelo y café. El lúpulo aparece en nariz con ligeros matices florales y herbales
 - Cerveza Estrella Galicia Toda nuestra herencia resumida en una cerveza extraordinaria. Maltas tostadas, lúpulo aromático y una guarda prolongada para crear un sabor y aroma con carácter único
+- Cerveza 1906 Aromas a malta tostada con suaves notas de caramelo y café. El lúpulo aparece en nariz con ligeros matices florales y herbales
 - Cerveza Temperatura recomendada 5-6 grados. Mantener en lugar fresco y seco
+- Cerveza 1906 Reserva Especial - Paquete de 24 latas de 330 ml – Bebida alcohólica 6,5% de volumen en alcohol – Cerveza en lata Para una Inmensa Minoría, La Milnueve – Maltas tostadas – Hijos de Rivera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
