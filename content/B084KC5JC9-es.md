@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lay S Patatas Fritas Vinagreta  150g'
-date: 2022-09-06 19:10:52
+date: 2022-09-15 20:18:37
 image: 'https://m.media-amazon.com/images/I/510QFuMBaJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LayS'
 buyurl: 'https://www.amazon.es/dp/B084KC5JC9/?tag=tolees-21'
 descuento: '8.28'
-average: '1.54833333333334'
+average: '1.54846153846154'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Realizada por una receta clásica
 - Sabor original y la personalidad del vinagre
-- Almacenar en un sitio seco y oscuro
 - Sin gluten
+- Realizada por una receta clásica
+- Almacenar en un sitio seco y oscuro
 - Bolsa de patatas fritas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
