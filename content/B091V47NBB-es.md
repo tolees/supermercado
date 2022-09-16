@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Una textura y un sabor exquisito
-- Con el toque justo de aceite
-- Rico en potasio
 - Atun enlatado
+- Rico en potasio
+- Con el toque justo de aceite
 - Perfecto para una comida rápida
 
 [🛒 Visítala!!!]({{< param buyurl >}})

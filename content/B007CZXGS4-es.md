@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HECHO DE INGREDIENTES NATURALES: nuestro Gel Limpiador Purificante de Neem se compone del ingrediente natural clave: Neem, que es no solo una hierba natural y tradicional sino también conocida por sus propiedades purificantes y antibacterianas.
-- GARANTIZADO SIN SLS / SLES Y FTALATOS: El limpiador de Neem de Himalaya ha sido fabricado sin estos químicos dañinos que pueden causar irritación y daño a tu piel sensible.
 - AYUDA A CONTROLAR EL ACNÉ Y LAS PIMPLAS: Probado dermatológicamente y disfrutado por todos, elimina suavemente todas las impurezas de la piel, previene la recurrencia del acné y las espinillas, y se usa como un lavado facial para la piel grasa mediante sus propiedades antibacterianas.
 - FORMULACIÓN HERBARIA SIN JABON: El limpiador de Neem de Himalaya se ha hecho sin jabón, el cual es común en los productos de salud y belleza. Este limpiador orgánico es la opción más inteligente, más limpia y más suave para calmar, nutrir, purificar y proteger tu piel.
+- GARANTIZADO SIN SLS / SLES Y FTALATOS: El limpiador de Neem de Himalaya ha sido fabricado sin estos químicos dañinos que pueden causar irritación y daño a tu piel sensible.
+- HECHO DE INGREDIENTES NATURALES: nuestro Gel Limpiador Purificante de Neem se compone del ingrediente natural clave: Neem, que es no solo una hierba natural y tradicional sino también conocida por sus propiedades purificantes y antibacterianas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
