@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'COOSUR - Aceite de Oliva Intenso. El Aceite de los Maestros. Garrafa 5 L'
-date: 2022-09-15 14:41:39
+date: 2022-09-16 17:21:39
 image: 'https://m.media-amazon.com/images/I/41wZLf1aA5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'COOSUR'
 buyurl: 'https://www.amazon.es/dp/B08ND8J6Y5/?tag=tolees-21'
 descuento: '17.92'
-average: '19.0146153846154'
+average: '18.9457142857143'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mantener en un lugar fresco y seco
-- Producto sometido a estrictos controles de calidad
 - Libre de alérgenos
+- Producto sometido a estrictos controles de calidad
+- Mantener en un lugar fresco y seco
 - Obtenido a partir de la mezcla de aceite de oliva virgen y aceite refinado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

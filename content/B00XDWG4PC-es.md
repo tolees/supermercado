@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eudermin Crema de Manos Protectora  30ml'
-date: 2022-09-07 05:56:55
+date: 2022-09-16 16:47:03
 image: 'https://m.media-amazon.com/images/I/41MURlqPFIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Eudermin'
 buyurl: 'https://www.amazon.es/dp/B00XDWG4PC/?tag=tolees-21'
 descuento: '0.00'
-average: '0.938717948717949'
+average: '0.94025'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

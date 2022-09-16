@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Delicioso para toda la familia! Con edulcorante extraído de la planta estevia.
-- Cacao natural 100% sostenible certificado por RainForest Alliance.
 - NESQUIK 0% AZÚCARES AÑADIDOS, con el irresistible sabor del Nesquik de siempre.
+- Cacao natural 100% sostenible certificado por RainForest Alliance.
+- ¡Delicioso para toda la familia! Con edulcorante extraído de la planta estevia.
 - Nesquik 0% Azúcares con avena natural. Inspirando elecciones responsables de manera divertida. Hecho con cacao natural 100% sostenible.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
