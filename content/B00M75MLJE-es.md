@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Bálsamo Nariz y Labios Reparación Inmediata Fórmula Noruega  15 ml'
-date: 2022-09-14 19:55:22
+date: 2022-09-16 10:29:47
 image: 'https://m.media-amazon.com/images/I/41M4zZQkwGS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Neutrogena'
 buyurl: 'https://www.amazon.es/dp/B00M75MLJE/?tag=tolees-21'
 descuento: '2.65'
-average: '5.60294117647059'
+average: '5.55722222222222'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
