@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fantástico sabor menta
 - Siéntete cómodo con aliento fresco
 - Contiene flúor activo y calcio líquido
-- Protección contra la caries
 - Dientes fuertes
+- Fantástico sabor menta
+- Protección contra la caries
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

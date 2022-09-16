@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplicar sobre las axilas, una vez estén limpias y secas. Interrumpir el uso si aparecen irritaciones. Dejar secar antes de vestirse.
 - Protege la sudoración eficazmente durante 48h.
-- Antitranspirante, 0% Alcohol.
 - Babaria desodorante antimanchas.
+- Aplicar sobre las axilas, una vez estén limpias y secas. Interrumpir el uso si aparecen irritaciones. Dejar secar antes de vestirse.
+- Antitranspirante, 0% Alcohol.
 - Gracias a su concentración en Vitamina B3, ayuda a reducir manchas en la piel y a regular la producción de sebo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
