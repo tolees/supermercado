@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Avena 100% Natural
-- Elasticidad, Suavidad y Humectación
 - Para Cuerpo y Manos
+- Elasticidad, Suavidad y Humectación
 - En Formato Bolsillo
+- Avena 100% Natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en un lugar fresco y seco
-- No contiene gluten
-- Con sabor ligeramente agrio
-- Tiene un práctico envase
 - Es un producto vegan
+- Tiene un práctico envase
+- Conservar en un lugar fresco y seco
+- Con sabor ligeramente agrio
+- No contiene gluten
 
 [🛒 Aquí!!!]({{< param buyurl >}})
