@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York Lifter Gloss hidratación duradera y labios rellenos 004 Silk - 480 g'
-date: 2022-09-12 11:55:07
+date: 2022-09-17 07:41:13
 image: 'https://m.media-amazon.com/images/I/41hphGxDs0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B082XRRPK9-es Maybelline New York Lifter Gloss hidratación duradera y...'
 sku: 'B082XRRPK9-es'
 tags: [ 'Belleza','Brillos labiales','Maquillaje','Maquillajes labiales','maybelline','maybelline new york','🇪🇸', ]
-actualPrice: 6.95 EUR
+actualPrice: 6.97 EUR
 currency: EUR
-price: 6.95
+price: 6.97
 comparePrice: 13.95 EUR
 prodname: 'Maybelline New York Lifter Gloss hidratación duradera y labios rellenos 004 Silk - 480 g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Maybelline New York'
 buyurl: 'https://www.amazon.es/dp/B082XRRPK9/?tag=tolees-21'
-descuento: '50.18'
-average: '7.63'
+descuento: '50.04'
+average: '7.465'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
