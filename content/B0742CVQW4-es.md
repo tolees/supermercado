@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Dibuja una línea fina sobre el ojo para una mirada más intensa
+- Color de alta intensidad para un impacto instantáneo
 - Fórmula suave y cremosa para una fácil aplicación
 - Resistente al agua
 - Dermatológicamente y oftalmológicamente probado
-- Color de alta intensidad para un impacto instantáneo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
