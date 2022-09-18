@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepsi MAX 330ml - Refresco de Cola con Zero Azúcar - Pack de 12'
-date: 2022-09-15 20:05:57
+date: 2022-09-18 17:50:20
 image: 'https://m.media-amazon.com/images/I/41lLQANVWpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No congelar
+- Bebida refrescante
 - Máxima calidad
 - Proteger de la luz solar y de olores agresivos
+- No congelar
 - Conservar en lugar limpio, fresco y seco
-- Bebida refrescante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
