@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Choco Bom Gullón - Galletas Chocobom chocolate blanco 100g'
-date: 2022-09-14 15:10:30
+date: 2022-09-18 14:33:23
 image: 'https://m.media-amazon.com/images/I/41Oy2+DgLYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Alimentación y bebidas','Aperitivos','Galletas de Panadería','Panader
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99
-comparePrice: 1.45 EUR
+comparePrice: 0.99 EUR
 prodname: 'Choco Bom Gullón - Galletas Chocobom chocolate blanco 100g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Gullón'
 buyurl: 'https://www.amazon.es/dp/B00XAOD7GC/?tag=tolees-21'
-descuento: '31.72'
-average: '0.994'
+descuento: '0.00'
+average: '0.993333333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Galletas recubiertas de chocolate blanco
-- Se pueden servir como tal con leche
-- Contienen chips de chocolate negro
 - Ideal como snack
+- Contienen chips de chocolate negro
 - Están elaboradas sin aceite de palma
+- Se pueden servir como tal con leche
 
 [🛒 Visítala!!!]({{< param buyurl >}})
