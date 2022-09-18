@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Hasta 72 horas de protección frente a la caspa, la sequedad y el picor (caspa visible, con uso regular; picor debido a la caspa)
-- Bueno para el planeta: botella reciclable (sin incluir el tapón y en función de las instalaciones de reciclaje)
-- Combate la causa principal de la caspa para un pelo totalmente libre de caspa, probado clínicamente (con uso regular)
 - El Todo En Uno anticaspa Menthol Fresh limpia en profundidad dejando una fresca sensación de mentol
 - Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo
-- Principal marca de champú del mundo (cálculo de P&G basado en las ventas externas anuales de la categoría de champú)
 - Mejor juntos. Utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito
+- Combate la causa principal de la caspa para un pelo totalmente libre de caspa, probado clínicamente (con uso regular)
+- Bueno para el planeta: botella reciclable (sin incluir el tapón y en función de las instalaciones de reciclaje)
+- Principal marca de champú del mundo (cálculo de P&G basado en las ventas externas anuales de la categoría de champú)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
