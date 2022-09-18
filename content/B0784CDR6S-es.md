@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 2 rollos
+- 1 rollo XXL = 3 rollos estándar
+- Doble Capa
 - Con extra absorción, para una mayor eficacia en cada uso
 - Rollo de Cocina Blancos
-- 2 rollos
-- Doble Capa
-- 1 rollo XXL = 3 rollos estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
