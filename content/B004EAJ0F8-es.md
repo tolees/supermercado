@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Aromas de hierbas y especias con ligeras indicaciones balsámicas
-- La nariz revela aromas deliciosos de bayas de enebro y aromas balsámicos
 - Suave pero muy aromático con notas balsámicas de calidad
 - Se presenta en un luminoso, pálido pero brillante color azulado aguamarina
+- La nariz revela aromas deliciosos de bayas de enebro y aromas balsámicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 🌾 ¿Qué diferencia el kit todo grano de otros? Vas a elaborar con la mejor malta del mundo, tal y como ya lo hacen muchos cerveceros nacionales e internacionales. Además, el lúpulo en pellet permite una mejor conservación. ¿Resultado? Elabora tal y como lo haría un profesional.
+- 🍺 Con el kit IPA Cervezanía podrás elaborar una cerveza fresca, ligera, espumosa, de color ambarino y sabor afrutado, con aroma y amargor extras gracias a su elevada dosis de lúpulo. Alcohol estimado Alc. 4,7% Vol.
 - 📦 El kit Cervezanía contiene todo lo necesario para la elaboración de cerveza artesana en casa, tal como lo harías en una fábrica profesional. Vas a necesitar además botellines, usando unos reciclados, o adquiriendo un pack de botellines y chapas. Recuerda esterilizarlos bien.
 - 🎁 El regalo perfecto para los aficionados a la cerveza artesana, la cocina, las manualidades o el concepto DIY. Compra tu kit para hacer cerveza artesana, y comienza mañana mismo a disfrutar de tu nueva afición. 🎯 El regalo más original.
 - 🍺 8 sencillos pasos, sin conocimientos previos. Incluye un manual con todos los pasos a seguir, que deberás leer bien previamente. ⚒️ Materiales reutilizables. Sigue elaborando cerveza artesana con las recargas de materias primas.
-- 🍺 Con el kit IPA Cervezanía podrás elaborar una cerveza fresca, ligera, espumosa, de color ambarino y sabor afrutado, con aroma y amargor extras gracias a su elevada dosis de lúpulo. Alcohol estimado Alc. 4,7% Vol.
-- 🌾 ¿Qué diferencia el kit todo grano de otros? Vas a elaborar con la mejor malta del mundo, tal y como ya lo hacen muchos cerveceros nacionales e internacionales. Además, el lúpulo en pellet permite una mejor conservación. ¿Resultado? Elabora tal y como lo haría un profesional.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

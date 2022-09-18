@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fácil de utilizar: Rociar las plantas infestadas de manera uniforme hasta que se humedezcan visiblemente, Rociar por la mañana temprano o en las últimas horas de la tarde, Información sobre la cantidad utilizada en la parte posterior del envase
-- Producto listo para usar, Aplicar únicamente en su totalidad, Concentración aprobada, No perjudicial para las abejas, Almacenar en el envase original en lugar fresco, seco y sin riesgo de heladas, Deposite los envases en el contenedor de reciclaje
 - Contenido: 1 x COMPO Bio Insecticida Stop, Insecticida para hortícolas y plantas aromáticas, Apto para agricultura ecológica, 750 ml
+- Producto listo para usar, Aplicar únicamente en su totalidad, Concentración aprobada, No perjudicial para las abejas, Almacenar en el envase original en lugar fresco, seco y sin riesgo de heladas, Deposite los envases en el contenedor de reciclaje
 - Simple y efectivo: Eliminación fiable y rápida de las plagas de jardín, balcón, terraza o invernadero, Aceite de colza como ingrediente activo, Ideal para agricultura ecológica
 - Insecticida y acaricida que actúa por contacto e ingestión, Combate un amplio espectro de plagas: arañas, ácaros, cochinillas, mosca blanca, trips, plagas especiales, etc, Protección ideal para frutas, verduras y plantas aromáticas
 
