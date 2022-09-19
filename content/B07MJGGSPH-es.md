@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalla digital con visualización de la hora
-- Búsqueda y memorización de emisoras de radio
-- Reproducción en tu radio fm mp3 de tu música almacenada en tu llave usb o tu tarjeta micro sd
 - Función sleep: permite un apagado automático de la radio; función snooze: repetición de la alarma
 - Tuner digital fm; función despertador (buzzer o radio)
+- Pantalla digital con visualización de la hora
+- Reproducción en tu radio fm mp3 de tu música almacenada en tu llave usb o tu tarjeta micro sd
+- Búsqueda y memorización de emisoras de radio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
