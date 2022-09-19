@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin azúcares añadidos
-- Receta completa y equilibrada
 - Elaborado con auténtica carne y pescado
-- Textura de paté suave
+- Sin azúcares añadidos
 - Ingredientes naturales, recetas sin cereales
+- Receta completa y equilibrada
+- Textura de paté suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
