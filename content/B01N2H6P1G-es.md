@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hellmann s Salsa Brava Bocabajo  250ml  Pack de 8'
-date: 2022-09-05 12:11:51
+date: 2022-09-19 07:50:10
 image: 'https://m.media-amazon.com/images/I/51xbeJlHcoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hellmanns'
 buyurl: 'https://www.amazon.es/dp/B01N2H6P1G/?tag=tolees-21'
 descuento: '9.14'
-average: '8.31888888888889'
+average: '8.55052631578948'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Botella 100% reciclable
 - ​Sin gluten​
 - Marca número 1 en ventas total categoría mayonesa, ketchup y salsas frías en España. Fuente externa
+- Sin conservantes​
 - Vegetariano
 - Tapea con el auténtico sabor Hellmann’s; dale un toque picante a tus patatas con nuestra salsa brava
-- Botella 100% reciclable
-- Sin conservantes​
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
