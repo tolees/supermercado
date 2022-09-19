@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Botella 100% reciclable
-- ​Sin gluten​
-- Marca número 1 en ventas total categoría mayonesa, ketchup y salsas frías en España. Fuente externa
 - Sin conservantes​
-- Vegetariano
+- ​Sin gluten​
 - Tapea con el auténtico sabor Hellmann’s; dale un toque picante a tus patatas con nuestra salsa brava
+- Marca número 1 en ventas total categoría mayonesa, ketchup y salsas frías en España. Fuente externa
+- Vegetariano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

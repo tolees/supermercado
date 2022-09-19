@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Casi siempre el picor y las costras desaparecen desde la primera.aplicación siendo visible que el pelaje deja de caerse y que este recobra la hidratación normal..
-- pH adaptado.
 - Apto para uso frecuente.
 - Se caracteriza por su capacidad de aliviar los picores.ocasionales (prurito), y otras molestias relacionadas con pequeñas irritaciones, sarpullidos, roces.y picaduras de insectos.
+- Casi siempre el picor y las costras desaparecen desde la primera.aplicación siendo visible que el pelaje deja de caerse y que este recobra la hidratación normal..
+- pH adaptado.
 - Champú de máxima calidad con Aceite.Esencial de Árbol de Té.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
