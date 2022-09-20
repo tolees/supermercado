@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acción desengrasante para eliminar los restos de comida más incrustados
-- Es eficaz frente a las manchas difíciles, incluso con el agua más dura
-- Actúa a bajas temperaturas también
-- Pastillas para el lavavajillas todo en uno
 - Pastilla con doble capa
+- Es eficaz frente a las manchas difíciles, incluso con el agua más dura
+- Pastillas para el lavavajillas todo en uno
+- Acción desengrasante para eliminar los restos de comida más incrustados
+- Actúa a bajas temperaturas también
 
 [🛒 Visítala!!!]({{< param buyurl >}})
