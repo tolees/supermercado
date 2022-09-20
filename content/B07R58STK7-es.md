@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Unifica el tono del cabello secándose en segundos. No mancha la ropa
+- Resistente a la humedad, resistente a la lluvia
 - Farmatint Stop Raíces es un Spray Retocador que cubre las raíces y el 100% de las canas al instante
 - Sin amoníaco
 - Se elimina con el primer lavado
-- Resistente a la humedad, resistente a la lluvia
-- Unifica el tono del cabello secándose en segundos. No mancha la ropa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
