@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'H&S Menthol Fresh Todo En Uno Champú Anticaspa y Acondicionador  6 x 300 ml'
-date: 2022-09-18 14:46:24
+date: 2022-09-20 07:34:56
 image: 'https://m.media-amazon.com/images/I/517Wm+WjbZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'H&S'
 buyurl: 'https://www.amazon.es/dp/B08YGBBKBZ/?tag=tolees-21'
 descuento: '12.82'
-average: '21.2345454545455'
+average: '21.2041666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hasta 72 horas de protección frente a la caspa, la sequedad y el picor (caspa visible, con uso regular; picor debido a la caspa)
-- El Todo En Uno anticaspa Menthol Fresh limpia en profundidad dejando una fresca sensación de mentol
-- Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo
 - Mejor juntos. Utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito
-- Combate la causa principal de la caspa para un pelo totalmente libre de caspa, probado clínicamente (con uso regular)
+- El Todo En Uno anticaspa Menthol Fresh limpia en profundidad dejando una fresca sensación de mentol
 - Bueno para el planeta: botella reciclable (sin incluir el tapón y en función de las instalaciones de reciclaje)
 - Principal marca de champú del mundo (cálculo de P&G basado en las ventas externas anuales de la categoría de champú)
+- Combate la causa principal de la caspa para un pelo totalmente libre de caspa, probado clínicamente (con uso regular)
+- Hasta 72 horas de protección frente a la caspa, la sequedad y el picor (caspa visible, con uso regular; picor debido a la caspa)
+- Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
