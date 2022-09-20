@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Viene envasado como polvo compacto de 20 ml
-- Da un acabado mate al tiempo que mantiene el resplandor natural de su piel
-- Disponible en varios tonos de color
 - Asegura una cobertura perfecta para un acabado impecable
 - Puede ser utilizado como una imprimación sobre una crema hidratante o como todo-en-uno-maquillaje
+- Viene envasado como polvo compacto de 20 ml
+- Disponible en varios tonos de color
+- Da un acabado mate al tiempo que mantiene el resplandor natural de su piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

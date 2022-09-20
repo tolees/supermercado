@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gel de baño formulado con 87% de ingredientes de origen natural
 - Gel de ducha relajante con botella hecha con plástico 100% reciclado
-- Gel de ducha envolvente con fragancia cautivadora e irresistible de chocolate que dura todo el día
-- Dermatológicamente testado​
-- Ayuda a combatir las bacterias que causan el mal olor
 - Gel de ducha para hombre 3 en 1 que limpia el cuerpo, cara y cabello
+- Gel de ducha envolvente con fragancia cautivadora e irresistible de chocolate que dura todo el día
+- Ayuda a combatir las bacterias que causan el mal olor
+- Gel de baño formulado con 87% de ingredientes de origen natural
+- Dermatológicamente testado​
 
 [🛒 Aquí!!!]({{< param buyurl >}})
