@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nestlé Kat Dark 70% - 41.5g'
-date: 2022-09-18 05:11:37
+date: 2022-09-21 07:08:36
 image: 'https://m.media-amazon.com/images/I/41mVtX4LjsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Nestlé
 - NESTLÉ KAT chocolate Dark 70%
-- Alta calidad
 - 41.5g
+- Alta calidad
+- Marca: Nestlé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
