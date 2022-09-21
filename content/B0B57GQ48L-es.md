@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ColaCao - Cola Cao Original  con Cacao Natural  2.5Kg  Amplificador Pantalla '
-date: 2022-09-14 20:32:27
+date: 2022-09-21 08:10:25
 image: 'https://m.media-amazon.com/images/I/51c9dqDmnCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bebida instantánea en polvo
 - No contiene aditivos
-- Conservar en un lugar fresco y seco
 - Ideal para toda la familia
+- Bebida instantánea en polvo
 - Con cacao natural
+- Conservar en un lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
