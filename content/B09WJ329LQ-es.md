@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PANELA PULVERIZADA: Nuestra panela es un azúcar puro, con un sabor único y especial que recuerda al de la miel. Se encuentra en formato compacto, para que elijas la cantidad exacta que necesites en tus elaboraciones. ¡Dale sabor a tu día a día!
 - SOBRE NOSOTROS: En Gourmet Latino te ofrecemos una amplia gama de productos de origen Latinoamericano siguiendo las técnicas artesanales de cultivo. Descubre nuestros snacks, batidos de avena, panela y bocadillos y deléitate con sus sabores.
-- MÚLTIPLES BENEFICIOS: Este producto destaca por tener grandes propiedades nutricionales y te aportará una dosis extra de energía. La combinación de minerales y vitaminas contribuirá a fortalecer los huesos y a una mejor recuperación muscular.
 - 100% NATURAL Y SIN REFINAR: La panela se extrae a partir de la caña de azúcar y no sigue ningún proceso de refinado. Por ello, es un producto rico en vitaminas y minerales y mantiene todas sus propiedades nutricionales.
+- MÚLTIPLES BENEFICIOS: Este producto destaca por tener grandes propiedades nutricionales y te aportará una dosis extra de energía. La combinación de minerales y vitaminas contribuirá a fortalecer los huesos y a una mejor recuperación muscular.
+- PANELA PULVERIZADA: Nuestra panela es un azúcar puro, con un sabor único y especial que recuerda al de la miel. Se encuentra en formato compacto, para que elijas la cantidad exacta que necesites en tus elaboraciones. ¡Dale sabor a tu día a día!
 - IDEAL PARA REPOSTERÍA: Este producto se utiliza tanto en recetas dulces como para endulzar tus bebidas favoritas. Es azúcar puro, natural, sin químicos y gracias a él podrás preparar unas deliciosas tartas, bizcochos, mermeladas o galletas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

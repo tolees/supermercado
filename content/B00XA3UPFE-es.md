@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con un exquisito aroma tradicional y casero
-- Producto sin gluten
-- Una vez abierto conservar en frigorífico
 - Elaborado con tomates cuidadosamente cosechados
+- Una vez abierto conservar en frigorífico
+- Producto sin gluten
 - Apto para cualquier comida o plato
 
 [🛒 Aquí!!!]({{< param buyurl >}})

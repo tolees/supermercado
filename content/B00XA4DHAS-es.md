@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Dale ese sabor tan especial a tus patatas
 - Salsa elaborada a base de tomate que otorga sabores intensos y especiales a tus comidas
+- Atrévete con el sabor intenso de la Salsa Brava Prima
 - Ingredientes: Tomate, jarabe de glucosa-fructosa, vinagre, sal, almidón modificado, aroma, acidulante (ácido cítrico), estabilizantes (goma guar y goma garrofín), conservadores (sorbato potásico y benzoato sódico) y potenciador del sabor (E-621). Sin gluten, sin lactosa y apta para veganos
 - Formato 320gr
-- Atrévete con el sabor intenso de la Salsa Brava Prima
 
 [🛒 Comprar!!!]({{< param buyurl >}})

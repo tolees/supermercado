@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ayuda a normalizar la producción excesiva de sebo para un efecto anti-brillo en la zona T (frente-nariz-mentón)
-- Día tras día, la piel está más hidratada y aparece purificada, opacificada y menos brillante justo donde se necesita
-- Ayuda a mejorar y mantener la hidratación de la piel
-- Indicada para pieles mixtas o grasas de cualquier edad
 - Crema-gel de textura fresca y ultra-ligera que se derrite al contacto con la piel
+- Ayuda a mejorar y mantener la hidratación de la piel
+- Día tras día, la piel está más hidratada y aparece purificada, opacificada y menos brillante justo donde se necesita
+- Indicada para pieles mixtas o grasas de cualquier edad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
