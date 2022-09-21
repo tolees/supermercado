@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- con la fragancia para hombres que quieren sentirse seguros en cualquier situación
-- La exquisita fragancia de Old Spice te hará inolvidable, como si fueras el centro del mundo
 - Y en la de tu padre
+- La exquisita fragancia de Old Spice te hará inolvidable, como si fueras el centro del mundo
+- con la fragancia para hombres que quieren sentirse seguros en cualquier situación
 - Confía en la decisión de tu abuelo con esta fantástica eau de toilette
 
 [🛒 Aquí!!!]({{< param buyurl >}})
