@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvo Atún Claro en Aceite de Oliva Virgen Extra  3 x 60g'
-date: 2022-09-20 09:15:39
+date: 2022-09-21 14:29:34
 image: 'https://m.media-amazon.com/images/I/31Y6amoN2dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvo'
 buyurl: 'https://www.amazon.es/dp/B091V47NBB/?tag=tolees-21'
 descuento: '26.08'
-average: '2.69846153846154'
+average: '2.71428571428572'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Rico en potasio
+- Perfecto para una comida rápida
 - Una textura y un sabor exquisito
 - Con el toque justo de aceite
 - Atun enlatado
-- Perfecto para una comida rápida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
