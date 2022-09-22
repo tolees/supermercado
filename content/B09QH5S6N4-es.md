@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Contenido del envío – NIVEA Naturally Clean Limpiador Facial Sólido, Bálsamo Desmaquillador, 99% de origen natural, cero plástico, 1 x 75 g, pastilla.
+- Piel suave – Esta pastilla limpiadora facial respeta el pH natural de la piel y la limpia en profundidad para que esté naturalmente suave y bonita.
 - Sostenible – Estos limpiadores faciales sin jabón y sin microplásticos son 100% biodegradables. Además, el envase es de papel totalmente reciclable.
 - 99% natural – La fórmula vegana de este limpiador NIVEA contiene un 99% de ingredientes de origen natural y está enriquecida con extracto de té negro.
-- Piel suave – Esta pastilla limpiadora facial respeta el pH natural de la piel y la limpia en profundidad para que esté naturalmente suave y bonita.
 - Limpiador sólido – Este limpiador natural viene en un práctico formato en pastilla. ¡Es nuestro primer limpiador facial sólido y está certificado!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
