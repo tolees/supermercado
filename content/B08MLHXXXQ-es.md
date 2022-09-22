@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contenido de alcohol (alc/vol): 0.0 percent by volume
+- Cerveza Estrella Galicia 0,0 Tostada - Pack de 24 botellines x 250 ml - Total: 6 L
 - Cerveza Estrella Galicia Temperatura recomendada 4-5 grados
-- Cerveza con Ingredientes: Agua de la ciudad de a Coruña, coupage de cuatro maltas con diferentes grados de tueste. Lúpulos Nugget y Sladek. Levadura seleccionada Hijos de Rivera
-- Cerveza 0,0 Mantener en lugar fresco y seco
-- Cerveza 0,0 tostada con un sabor pleno. El blend de maltas y los lúpulos empleados suman a su carácter sabroso, equilibrado y refrescante. Todo el poder de una cerveza de Estrella Galicia, pero sin nada de alcohol. ¿Aromas artificiales? Cero, solo ingredientes naturales
 - Cerveza sin alochol Dominan los sabores de las maltas, bien equilibrados por la presencia de los lúpulos. Un suave dulzor inicial con ligeras notas ácidas, prolongado regusto amargo y final seco
+- Cerveza 0,0 tostada con un sabor pleno. El blend de maltas y los lúpulos empleados suman a su carácter sabroso, equilibrado y refrescante. Todo el poder de una cerveza de Estrella Galicia, pero sin nada de alcohol. ¿Aromas artificiales? Cero, solo ingredientes naturales
 - Cerveza de Capacidad: 6 L
 - Cerveza sin alcohol donde dominan los sabores de las maltas, bien equilibrados por la presencia de los lúpulos. Un suave dulzor inicial con ligeras notas ácidas, prolongado regusto amargo y final seco
-- Cerveza Estrella Galicia 0,0 Tostada - Pack de 24 botellines x 250 ml - Total: 6 L
+- Cerveza 0,0 Mantener en lugar fresco y seco
+- Contenido de alcohol (alc/vol): 0.0 percent by volume
 - Cerveza Botellas individuales
+- Cerveza con Ingredientes: Agua de la ciudad de a Coruña, coupage de cuatro maltas con diferentes grados de tueste. Lúpulos Nugget y Sladek. Levadura seleccionada Hijos de Rivera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

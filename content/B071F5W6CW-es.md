@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Evita la reaparición de puntos negros
 - Desarrollado con dermatólogos
 - Contiene microperlas
 - Desincrusta los poros y ayuda a eliminar los puntos negros
-- Evita la reaparición de puntos negros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
