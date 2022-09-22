@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Añair en el cajetín de la lavadora junto con el detergente
 - Elimina las manchas más rebeldes y difíciles a la primera, ahora también en agua fría
 - Especial para ropa de color, también apto para ropa de color
 - Quitamanchas para ropa en formato polvo, sin lejía, añadir junto con el detergente para ropa habitual en cada lavado
-- Añair en el cajetín de la lavadora junto con el detergente
 - En formato polvo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
