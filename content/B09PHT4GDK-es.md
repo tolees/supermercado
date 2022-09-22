@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Desde la primera aplicación sentirás tus axilas más suaves y cuidadas. Además, se seca rápidamente al aplicarlo
 - Protege de la sudoración eficazmente, además, está especialmente indicado para evitar manchas blancas y amarillas en la ropa
-- Su fórmula incluye activos como la Vitamina B3, un agente desodorante y Clorohidrato de Aluminio. Además, no contiene alcohol
-- Desodorante en Roll-on unisex, para una protección total de la sudoración durante 48h, ayudando a reducir las manchas en la piel y a regular la producción de sebo
 - Aplicar sobre las axilas, una vez estén limpias y secas. Interrumpir el uso si aparecen irritaciones. Dejar secar antes de vestirse
+- Desodorante en Roll-on unisex, para una protección total de la sudoración durante 48h, ayudando a reducir las manchas en la piel y a regular la producción de sebo
+- Su fórmula incluye activos como la Vitamina B3, un agente desodorante y Clorohidrato de Aluminio. Además, no contiene alcohol
 
 [🛒 Comprar!!!]({{< param buyurl >}})
