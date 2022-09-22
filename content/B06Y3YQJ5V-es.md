@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAMPOS Conserva de atún en aceite de girasol  pouch/ bolsa de 500 gr'
-date: 2022-09-20 08:10:13
+date: 2022-09-22 19:53:51
 image: 'https://m.media-amazon.com/images/I/51WCaJKD4IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'CAMPOS'
 buyurl: 'https://www.amazon.es/dp/B06Y3YQJ5V/?tag=tolees-21'
 descuento: '0.00'
-average: '4.01654205607479'
+average: '4.02555555555558'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bolsa o pouch de 500 g para un consumo de volumen, especial hostelería
 - Alto contenido en proteína, proteína barata, ideal para deportistas
 - Conserva de atún en aceite de girasol
 - Método de pesca: cerco, ver especie y zona de pesca en la lata
-- Bolsa o pouch de 500 g para un consumo de volumen, especial hostelería
 - País de origen: España, producto natural sin conservantes ni colorantes
 - Bolsa hermética o pouch en aceite de girasol, con reducida cantidad de líquido de cobertura y mínimo envase de desperdicio
 
