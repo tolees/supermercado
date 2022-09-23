@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- No contiene etanol
 - Restaura el pH natural de la piel
 - Protección eficaz durante 48h
-- No contiene etanol
 - Combate la causa del mal olor
 - Desodorante roll-on con micro talc, antitranspirante
 
