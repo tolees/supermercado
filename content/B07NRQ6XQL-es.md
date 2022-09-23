@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Campos Conserva De Atún En Tomate  80 g - Pack de 3'
-date: 2022-09-20 08:30:22
+date: 2022-09-23 18:30:16
 image: 'https://m.media-amazon.com/images/I/41YuXeqM9AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Campos'
 buyurl: 'https://www.amazon.es/dp/B07NRQ6XQL/?tag=tolees-21'
 descuento: '0.00'
-average: '2.28166666666666'
+average: '2.31307692307692'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - País de origen: españa, producto natural sin conservantes ni colorantes
 - Lata ideal para consumo individual
-- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - Pack de 3 latas individuales, con tapa fácil apertura
 - Atún en deliciosa salsa de tomate
+- Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Black Edition  1 x 100 gr'
-date: 2022-09-18 17:10:35
+date: 2022-09-23 17:50:17
 image: 'https://m.media-amazon.com/images/I/51N10uXmv1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B09MGS1JRN/?tag=tolees-21'
 descuento: '4.76'
-average: '1.0075'
+average: '1.00666666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

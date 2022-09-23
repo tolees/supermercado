@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección eficaz del cabello durante el tratamiento térmico
-- Adecuado para todo tipo de cabello
 - Alisa las fibras capilares
+- Adecuado para todo tipo de cabello
 - Combate el encrespamiento
 - Crema con efecto lifting y relleno protector de calor para el cabello
+- Protección eficaz del cabello durante el tratamiento térmico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

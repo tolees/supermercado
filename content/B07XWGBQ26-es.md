@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Quitamanchas para ropa en formato polvo, sin lejía, añadir junto con el detergente para ropa habitual en cada lavado
 - En formato polvo
 - Añair en el cajetín de la lavadora junto con el detergente
+- Quitamanchas para ropa en formato polvo, sin lejía, añadir junto con el detergente para ropa habitual en cada lavado
 - Especial para ropa de color, también apto para ropa de color
 - Elimina las manchas más rebeldes y difíciles a la primera, ahora también en agua fría
 

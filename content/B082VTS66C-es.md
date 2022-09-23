@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin colorantes y conservantes
-- Surtido de golosinas de 100 g
 - Se deben mantener en lugar fresco y seco
 - Tienen varios sabores
+- Surtido de golosinas de 100 g
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

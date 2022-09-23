@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuidadosamente elaborado con ingredientes naturales
-- Con vitamina E para favorecer las defensas naturales
-- Contiene DHA, presente de forma natural en la leche materna, para ayudar a mantener el desarrollo
 - Sin colorantes, sabores artificiales ni conservantes artificiales añadidos
+- Contiene DHA, presente de forma natural en la leche materna, para ayudar a mantener el desarrollo
+- Con vitamina E para favorecer las defensas naturales
+- Cuidadosamente elaborado con ingredientes naturales
 - Con prebióticos naturales para favorecer una digestión saludable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
