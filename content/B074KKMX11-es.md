@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pastillas lavavajillas todo en uno, con un gran poder de limpieza que elimina inlcuso la grasa incrustada a la primera sin necesidad de prelavar los platos, ahorrando agua y energía.
 - Contienen sal que garantiza un aclarado optimo a la vez que protege el cristal y la plata, combatiendo la opacidad acumulada con el tiempo recuperando su brillo original
-- Ayudan a prevenir la acumulación de grasa en el sistema de drenaje, en los filtros y en el brazo rociador descomponiendo los restos de comida más difíciles
 - Monodosis listas para usar sin necesidad de retirar el envoltorio y mantinen un aroma limpio y fresco en el lavavajillas
+- Ayudan a prevenir la acumulación de grasa en el sistema de drenaje, en los filtros y en el brazo rociador descomponiendo los restos de comida más difíciles
+- Pastillas lavavajillas todo en uno, con un gran poder de limpieza que elimina inlcuso la grasa incrustada a la primera sin necesidad de prelavar los platos, ahorrando agua y energía.
 - Cápsulas con 3 cámaras de líquido que se disuelven rápidamente hasta en temperaturas bajas y ciclos cortos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
