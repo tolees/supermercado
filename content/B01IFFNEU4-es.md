@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ecológica, vegana y sin gluten.
 - Procede de mosto fresco de manzana y no de concentrado.
-- Contenido de alcohol 4.1%.
-- Servir fría.
 - Sidra gallega, elaborada con manzanas ecológicas 100% gallegas de más de 150 cultivadores autóctonos.
+- Contenido de alcohol 4.1%.
+- Ecológica, vegana y sin gluten.
+- Servir fría.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
