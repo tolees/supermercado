@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- h&s Sport, con una intensa Esencia de Sándalo, elimina el sudor y la suciedad tras el ejercicio, para que te relajes y recargues energías
-- h&s Anticaspa champú y gel de ducha para pelo, cuerpo y cara
-- Limpia suavemente el cuerpo mientras combate la caspa y deja una sensación de limpieza y frescor libre de caspa
-- Fórmula probada dermatológicamente y clínicamente probada, eficaz contra la descamación y suave con la piel
 - El primer gel de ducha anticaspa de h&s, el champú n.º 1 del mundo
+- Limpia suavemente el cuerpo mientras combate la caspa y deja una sensación de limpieza y frescor libre de caspa
+- h&s Sport, con una intensa Esencia de Sándalo, elimina el sudor y la suciedad tras el ejercicio, para que te relajes y recargues energías
+- Fórmula probada dermatológicamente y clínicamente probada, eficaz contra la descamación y suave con la piel
+- h&s Anticaspa champú y gel de ducha para pelo, cuerpo y cara
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Limpia profundamente el cabello.
 - Nutre el cabello dañado por alisados, planchados o uso de la secadora.
-- Libre de sal y sulfatos.
 - Formulada con aceite de macadamia.
+- Libre de sal y sulfatos.
 - Hidrata las fibras capilares.
+- Limpia profundamente el cabello.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
