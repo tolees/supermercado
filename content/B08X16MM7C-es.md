@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAFÉ fortaleza – desde 1885 - - Café Fortaleza - Cápsulas Etiopía Compatibles con Caffitaly - Pack 25 x 2 - Total 50 cápsulas'
-date: 2022-09-15 07:10:55
+date: 2022-09-25 09:23:53
 image: 'https://m.media-amazon.com/images/I/4120SJ8nAEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
