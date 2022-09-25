@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo - Mega Torcidas  Sabor Regaliz  200 gr'
-date: 2022-09-13 20:07:35
+date: 2022-09-25 21:56:12
 image: 'https://m.media-amazon.com/images/I/41KQqDSK1qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B082VTHD4Y/?tag=tolees-21'
 descuento: '21.50'
-average: '1.51636363636364'
+average: '1.53'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dulces de regaliz
-- Irresistible sabor a regaliz
 - 200 gr
 - Deliciosas piezas de regaliz en forma de stick
+- Dulces de regaliz
+- Irresistible sabor a regaliz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
