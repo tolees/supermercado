@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una ginebra galardonada en multitud de ocasiones idónea para la elaboración de un gin-tonic equilibrado y como base para cócteles
 - La ginebra más influyente según The World’s Top 50 Best Bars
+- Una ginebra galardonada en multitud de ocasiones idónea para la elaboración de un gin-tonic equilibrado y como base para cócteles
+- Equilibrio entre el enebro refrescante, el cilantro picante, la angélica aromática y el regaliz dulce que ofrece una base clásica para cócteles
 - Sus sabores particulares se disfrutan especialmente con tónica, mucho hielo y una rodaja de lima
 - Tanqueray London Dry se destila cuatro veces para alcanzar su suavidad absoluta y permitir que las notas de los cuatros botánicos clásicos en una ginebra brillen: enebro, cilantro, angélica y regaliz
-- Equilibrio entre el enebro refrescante, el cilantro picante, la angélica aromática y el regaliz dulce que ofrece una base clásica para cócteles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
