@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Go-Tan - Salsa Sriracha Mayo  Condimento con toque Picante  Mezcla Sriracha y Mayonesa - 215ml'
-date: 2022-09-14 14:51:57
+date: 2022-09-26 08:10:12
 image: 'https://m.media-amazon.com/images/I/31YbyulCMIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Go-Tan'
 buyurl: 'https://www.amazon.es/dp/B086QZ9KB9/?tag=tolees-21'
 descuento: '19.18'
-average: '2.92285714285714'
+average: '2.92625'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Envase: 215ml
+- Hoy en día es el nombre genérico que se emplea en Tailandia para denominar a una salsa picante. Como condimento para dar un toque picante a cualquier plato, realizar salsas o dip.
 - Salsa muy popular debido a su sabor picante y aroma característico.
 - Alérgenos: Apto para Veganos y Vegetarianos
-- Envase: 215ml
 - Ingredientes: Chile rojo 54%, azúcar, ajo, sal, agua, acidulantes (ácido acético, ácido cítrico), potenciador de sabor (glutamato monosódico), conservante (benzoato de sodio).
-- Hoy en día es el nombre genérico que se emplea en Tailandia para denominar a una salsa picante. Como condimento para dar un toque picante a cualquier plato, realizar salsas o dip.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

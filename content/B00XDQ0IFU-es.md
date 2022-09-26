@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gullón Galletas Chocolate Dibus Mini  250g'
-date: 2022-09-23 17:10:28
+date: 2022-09-26 07:57:30
 image: 'https://m.media-amazon.com/images/I/517XlCf8e5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gullón'
 buyurl: 'https://www.amazon.es/dp/B00XDQ0IFU/?tag=tolees-21'
 descuento: '13.19'
-average: '1.24861111111111'
+average: '1.25315068493151'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alto contenido en hierro y vitaminas B, D y E.
-- No contienen lactosa ni proteínas de leche, tampoco huevo ni frutos secos.
-- Estas deliciosas galletas son fuente calcio y Vitamina A, el mejor desayuno para los más pequeños.
 - Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico. Fabricado por Galletas Gullón.
+- Estas deliciosas galletas son fuente calcio y Vitamina A, el mejor desayuno para los más pequeños.
 - Las mini galletas Dibus de Gullón multicereales y sabor a chocolate.
+- No contienen lactosa ni proteínas de leche, tampoco huevo ni frutos secos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
