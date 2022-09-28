@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Shaver Series 5000 Wet & Dry S5579/50 Afeitadora eléctrica + L Oréal Men Expert Crema Hidratante Anti-Fatiga 24h Hydra Energetic  Aporta Energía  Formato 100 ml'
-date: 2022-09-27 09:41:57
+date: 2022-09-28 10:01:57
 image: 'https://m.media-amazon.com/images/I/41npef4dKyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B0B22JLWMX/?tag=tolees-21'
 descuento: '27.80'
-average: '101.94'
+average: '102.59'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
