@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crema de cuidado corporal con poderes calmantes e hidratantes para pieles normales, secas y sensibles
-- Resultado: hasta 10 capas de la epidermis hidratadas durante 48 horas, absorción rápida y acabado no graso
-- Aplicación: aplicar diariamente sobre el busto, los brazos y las piernas masajeando con movimientos circulares para hacer penetrar el cuidado en la piel
-- Fórmula con extracto de aloe vera altamente concentrado en nutrientes hidratantes y magnesio relajante, fórmula vegana compuesta de ingredientes al 96% de origen natural y aprobada por Cruelty Free Internacional
 - Contenido: 1 crema corporal relajante Garnier Body Superfood, aloe vera y magnesio, 380 ml
+- Aplicación: aplicar diariamente sobre el busto, los brazos y las piernas masajeando con movimientos circulares para hacer penetrar el cuidado en la piel
+- Crema de cuidado corporal con poderes calmantes e hidratantes para pieles normales, secas y sensibles
+- Fórmula con extracto de aloe vera altamente concentrado en nutrientes hidratantes y magnesio relajante, fórmula vegana compuesta de ingredientes al 96% de origen natural y aprobada por Cruelty Free Internacional
+- Resultado: hasta 10 capas de la epidermis hidratadas durante 48 horas, absorción rápida y acabado no graso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
