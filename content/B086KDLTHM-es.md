@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido del envío: 2 x Listerine, Enjuague Bucal Menthol Sabor Suave de 1000ml, para el uso diario
 - Fórmula basada en aceites esenciales con flúor y sin alcohol que proporciona 24 horas de protección contra la placa
-- Su fórmula, clínicamente probada, asegura que hasta un 97% de la eliminación de bacterias que forman la placa dental: alcanza los lugares a los que el cepillo no llega
-- Gracias a su contenido en flúor, fortalece los dientes y los protege contra las caries
 - Listerine Mentol Sabor Suave produce la tranquilidad de un aliento fresco duradero
+- Gracias a su contenido en flúor, fortalece los dientes y los protege contra las caries
+- Contenido del envío: 2 x Listerine, Enjuague Bucal Menthol Sabor Suave de 1000ml, para el uso diario
+- Su fórmula, clínicamente probada, asegura que hasta un 97% de la eliminación de bacterias que forman la placa dental: alcanza los lugares a los que el cepillo no llega
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
