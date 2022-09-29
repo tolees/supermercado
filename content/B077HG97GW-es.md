@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con aceite de oliva
-- De una textura fina
 - Viene en un embalaje reciclable
-- Adecuado para bebés mayores de 6 meses
+- De una textura fina
+- Con aceite de oliva
 - Tarrito con verduras, lubina y merluza
+- Adecuado para bebés mayores de 6 meses
 
 [🛒 Visítala!!!]({{< param buyurl >}})
