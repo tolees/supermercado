@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descubre la aventura con este mix de divertidas formas
 - Gran variedad de colores y sabores frutales
 - Conservar en lugar fresco y seco
+- Descubre la aventura con este mix de divertidas formas
 - Caramelos de goma de distintos sabores y colores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
