@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Zagal Sobrasada de Mallorca Picante Al Vacío  200g  Pack de 1'
-date: 2022-09-18 17:30:31
+date: 2022-09-30 15:35:35
 image: 'https://m.media-amazon.com/images/I/51xPJ0JiAqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'El Zagal'
 buyurl: 'https://www.amazon.es/dp/B06XT4KK54/?tag=tolees-21'
 descuento: '3.40'
-average: '1.88863636363636'
+average: '1.89304347826087'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
