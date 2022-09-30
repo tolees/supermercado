@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aroma: lupulado suave
+- Alcohol: 5.2%
 - De color dorado y espuma firme
 - Temperatura de consumo: 4-6 ˚C
-- Alcohol: 5.2%
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
