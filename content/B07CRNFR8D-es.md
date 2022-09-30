@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Indicada para piel normal
+- Preserva la hidratación de la piel ayudando a crear una reserva de hidratación que se libera progresivamente cuando la piel lo necesita
 - Refrescante, ligera y no grasa
 - Hidrata al instante y de forma continua
-- Preserva la hidratación de la piel ayudando a crear una reserva de hidratación que se libera progresivamente cuando la piel lo necesita
-- Indicada para piel normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
