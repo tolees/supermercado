@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ‎Mantener en lugar fresco y seco
-- Sin gluten y sin lactosa
-- Aptas para compartir
 - Patatas fritas listas para disfrutar
 - Envasado en atmósfera protectora
+- Aptas para compartir
+- Sin gluten y sin lactosa
+- ‎Mantener en lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})

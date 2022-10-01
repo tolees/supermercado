@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tanqueray London Dry Gin & Tonic es una bebida preparada elaborada con ginebra Tanqueray London Dry y tónica lista para disfrutar en casa
-- Lista para servir con hielo y disfrutar
 - Sólo 190 calorías por botella
-- Una bebida que te permite disfrutar de una copa de calidad en casa, como si hubiese sido preparada por un bartender experto
 - Pack de 12 botellas de vidrio de 275 ml con tapón de rosca
+- Lista para servir con hielo y disfrutar
+- Una bebida que te permite disfrutar de una copa de calidad en casa, como si hubiese sido preparada por un bartender experto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La tecnología exclusiva de Old Spice evita que la fragancia desaparezca a lo largo del día, para que huelas bien hasta que vuelvas a casa
 - La exquisita fragancia de Old Spice te hará inolvidable, como si fueras el centro del mundo
+- La tecnología exclusiva de Old Spice evita que la fragancia desaparezca a lo largo del día, para que huelas bien hasta que vuelvas a casa
 - El desodorante Old Spice dura todo el día, porque se suele tener el mismo cuerpo para todo el día
-- El desodorante Old Spice es como un campo de fuerza que repele las marcas blancas y las manchas amarillentas
 - El empaque puede variar
+- El desodorante Old Spice es como un campo de fuerza que repele las marcas blancas y las manchas amarillentas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
