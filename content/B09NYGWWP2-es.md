@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Keter Cool Bar - Mesa nevera para exterior  45 latas  de 50 x 41 x 50 cm  color crema y chocolate  Normal  2022'
-date: 2022-09-30 09:46:11
+date: 2022-10-01 11:14:36
 image: 'https://m.media-amazon.com/images/I/218VkaMumDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Keter'
 buyurl: 'https://www.amazon.es/dp/B09NYGWWP2/?tag=tolees-21'
 descuento: '21.75'
-average: '69.7544444444444'
+average: '68.374'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

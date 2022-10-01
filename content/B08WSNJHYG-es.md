@@ -29,14 +29,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 100% Arabica. Intensidad: 4/5
-- Apto para dietas vegetarianas y veganas
-- Cápsulas Espresso. El envase contiene 1 x 20 (20) porciones
 - Envasado en atmósfera protectora para mantener su frescura. Conservar en un lugar fresco y seco
-- Café de fuera de la UE. Tostado y envasado en Bélgica
-- Nespresso es una marca registrada por Nestlé Nespresso S.A
-- El café en este producto proviene de fincas certificadas Rainforest Alliance
 - Espresso intenso con acidez equilibrada, y notas de tierra y avellana
-- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
+- El café en este producto proviene de fincas certificadas Rainforest Alliance
 - Gracias al aluminio, nuestras cápsulas resultan perfectamente herméticas y garantizan una óptima conservación del aroma y sabor del café
+- Cápsulas Espresso. El envase contiene 1 x 20 (20) porciones
+- Apto para dietas vegetarianas y veganas
+- Nespresso es una marca registrada por Nestlé Nespresso S.A
+- Café de fuera de la UE. Tostado y envasado en Bélgica
+- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

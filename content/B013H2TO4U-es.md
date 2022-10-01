@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regalo perfecto para ofrecer en cumpleaños, cenas, navidad, día del padre y otras ocasiones especiales.
+- Disfrute con hielo o utilícelo para preparar cócteles como Old Fashioned, Chivas Sour o Extra Sangria
 - Un intenso y rico whisky escocés de 13 años madurado selectivamente en barricas de jerez oloroso de primer llenado
 - Rica y dulce con notas de peras maduras, caramelo de vainilla y canela.
-- Disfrute con hielo o utilícelo para preparar cócteles como Old Fashioned, Chivas Sour o Extra Sangria
+- Regalo perfecto para ofrecer en cumpleaños, cenas, navidad, día del padre y otras ocasiones especiales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
