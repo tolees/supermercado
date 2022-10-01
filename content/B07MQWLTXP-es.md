@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Antimanchas – Este desodorante NIVEA protege contra las manchas blancas en la ropa oscura y reduce la aparición de manchas amarillas en la ropa blanca.
 - Contenido del envío – NIVEA Black & White Invisible Silky Smooth Spray, desodorante para prevenir las manchas en la ropa, cuidado suave después de la depilación, pack de 6, 6 x 200 ml, spray.
 - Piel sedosa – Por su fórmula con acondicionadores de la piel y 0% alcohol etílico, este spray desodorante deja una sensación suave y aterciopelada en la piel.
+- Antimanchas – Este desodorante NIVEA protege contra las manchas blancas en la ropa oscura y reduce la aparición de manchas amarillas en la ropa blanca.
 - Cuidado suave – Para disfrutar de una piel cuidada en todo momento, este desodorante suave cuida, acondiciona y calma la piel incluso después de la depilación.
 - Desodorante 48h – Este desodorante sin alcohol aporta 48 horas de protección contra el sudor y el mal olor. Además, está dermatológicamente comprobado.
 

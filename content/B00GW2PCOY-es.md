@@ -31,7 +31,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Ron de color dorado
 - Se destila de 3 maneras diferentes
 - Ideal para mezclar o disfrutar solo
-- Elaborado de forma artesanal
 - Sabor suave e inconfundible que obtiene de una mezcla especial de siete tipos de ron diferentes
+- Elaborado de forma artesanal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
