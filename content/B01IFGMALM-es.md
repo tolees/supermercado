@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Crema de Manos Reparadora para Grietas  2x75ml'
-date: 2022-09-26 00:40:26
+date: 2022-09-30 21:23:00
 image: 'https://m.media-amazon.com/images/I/51rVl-9hYeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Neutrogena'
 buyurl: 'https://www.amazon.es/dp/B01IFGMALM/?tag=tolees-21'
 descuento: '17.50'
-average: '9.0242857142857'
+average: '9.03254716981131'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La fórmula contiene glicerina que nutre, repara y protege la piel
-- Nutre, protege y repara manos secas y estropeadas
-- La vaselina contenida hidrata y suaviza
 - La dimeticona proporciona una absorción inmediata
+- La vaselina contenida hidrata y suaviza
+- Nutre, protege y repara manos secas y estropeadas
+- La fórmula contiene glicerina que nutre, repara y protege la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
