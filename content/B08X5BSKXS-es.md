@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hasta 36 horas en solo dos pasos
 - Lápiz de ojos efecto tatuaje semipermanente; acabado Smokey
 - Aplica con su aplicador automático donde desees
+- Hasta 36 horas en solo dos pasos
 - Tattoo Liner Smokey viene con un sacapuntas incorporado dentro del final de la esponja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
