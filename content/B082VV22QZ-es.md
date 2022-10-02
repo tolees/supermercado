@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mexifoods Tortillas de Trigo  370g'
-date: 2022-09-26 09:29:26
+date: 2022-10-02 19:10:21
 image: 'https://m.media-amazon.com/images/I/512AFIrYY3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mexifoods'
 buyurl: 'https://www.amazon.es/dp/B082VV22QZ/?tag=tolees-21'
 descuento: '5.50'
-average: '1.426'
+average: '1.455'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- País de origen: España
-- Ingredientes: Harina de TRIGO (56%), agua, aceite vegetal (aceite girasol alto oleico)
-- Alérgenos: harina de trigo, cereales que contienen gluten
 - Mantener en un lugar fresco y seco
+- País de origen: España
+- Alérgenos: harina de trigo, cereales que contienen gluten
+- Ingredientes: Harina de TRIGO (56%), agua, aceite vegetal (aceite girasol alto oleico)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
