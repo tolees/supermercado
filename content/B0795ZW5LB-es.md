@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Malfy Naranja Ginebra Premium - 700 ml'
-date: 2022-10-01 08:43:10
+date: 2022-10-02 13:25:30
 image: 'https://m.media-amazon.com/images/I/414Fvp4Q80L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Malfy'
 buyurl: 'https://www.amazon.es/dp/B0795ZW5LB/?tag=tolees-21'
 descuento: '14.99'
-average: '18.7875'
+average: '18.874'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sin gluten
 - Color: sangre naranja-rojo
+- Acabado: larga duración, ligeramente vainilla, pomelo
 - Sabor: suave aterciopelado, enebro, naranja sanguina, notas de hierbas, cítricos
 - Nariz: bayas de enebro picantes, naranjas, notas de cítricos
-- Acabado: larga duración, ligeramente vainilla, pomelo
-- Sin gluten
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

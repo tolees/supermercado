@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ColaCao 0% Azúcares añadidos con Fibra - 300g'
-date: 2022-10-01 12:35:41
+date: 2022-10-02 13:25:27
 image: 'https://m.media-amazon.com/images/I/51txG8jOQTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de todo el sabor, sin azúcares añadidos y con fibra en cualquier momento: desayuno, merienda, cena o como snack.
 - Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente.
-- Alérgenos: contiene trigo, cebada y soja. Mantener en lugar fresco y seco.
 - Con cacao natural recolectado a mano; secado al sol; tostado y prensado; mezclado de forma tradicional con el resto de ingredientes.
 - 40 raciones en su envase de 300 gramos.
+- Disfruta de todo el sabor, sin azúcares añadidos y con fibra en cualquier momento: desayuno, merienda, cena o como snack.
+- Alérgenos: contiene trigo, cebada y soja. Mantener en lugar fresco y seco.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
