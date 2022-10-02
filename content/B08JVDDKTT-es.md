@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- “Cervezas el Turia” se fundó en Valencia en 1935. Entre todas las variedades de la cervecera, Turia Märzen consiguió perdurar en el tiempo gracias a su carácter genuino.
 - La malta tostada, que se obtiene de un proceso similar al de la torrefacción del café, aporta el color ámbar con reflejos rojizos tan característico de esta cerveza.
 - Alcohol 5,4 vol.
-- “Cervezas el Turia” se fundó en Valencia en 1935. Entre todas las variedades de la cervecera, Turia Märzen consiguió perdurar en el tiempo gracias a su carácter genuino.
+- Turia es fresca, con un toque amargo y cítrico.
 - Pack de 24 latas 33cl.
 - El hecho de ser una cerveza tostada no significa que sea una cerveza fuerte. Al igual que al tostar una rebanada de pan, este pasa a tener un sabor distinto pero no por ello más fuerte, con la cerveza sucede lo mismo.
-- Turia es fresca, con un toque amargo y cítrico.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
