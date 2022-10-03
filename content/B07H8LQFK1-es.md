@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kellogg s Extra Chocolate de Leche  375 g'
-date: 2022-10-01 17:54:14
+date: 2022-10-03 15:33:43
 image: 'https://m.media-amazon.com/images/I/51a95QqGmnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Alimentación y bebidas','Cereales para tomar en frío','Cereales y mue
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99
-comparePrice: 3.3 EUR
+comparePrice: 1.99 EUR
 prodname: 'Kellogg s Extra Chocolate de Leche  375 g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Kelloggs'
 buyurl: 'https://www.amazon.es/dp/B07H8LQFK1/?tag=tolees-21'
-descuento: '39.70'
+descuento: '0.00'
 average: '1.99'
 ---
 

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cerveza tipo Ale y estilo de trigo Alemana, originaria de Múnich
-- De fermentación óptima, con un sabor afrutado y natural que le da un carácter especialmente refrescante
-- Ingredientes naturales: agua, 60% trigo malteado, 40% malta de cebada, lúpulos seleccionados y levadura Paulaner
 - Cerveza turbia por la presencia de levadura, de color dorado con una tonalidad blanquecina
 - Con 5.5% de alcohol en volumen
+- Ingredientes naturales: agua, 60% trigo malteado, 40% malta de cebada, lúpulos seleccionados y levadura Paulaner
+- De fermentación óptima, con un sabor afrutado y natural que le da un carácter especialmente refrescante
+- Cerveza tipo Ale y estilo de trigo Alemana, originaria de Múnich
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
