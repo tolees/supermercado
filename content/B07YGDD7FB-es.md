@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Selección de granos de café de gran calidad; arábica y robusta
+- Cápsulas inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Descubre más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
 - Café gourmet seleccionando los orígenes de óptima calidad con el inconfundible sabor nescafé dolce gusto
 - Cápsulas de café Dolce Gusto Espresso Intenso Descafeinado
-- Cápsulas inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
+- Selección de granos de café de gran calidad; arábica y robusta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
