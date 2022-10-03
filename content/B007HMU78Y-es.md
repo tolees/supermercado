@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mascara de pestañas Maquillaje Mujer
-- Maybelline - M (5021044013332)
 - Mascara de pestañas Maybelline
+- Maybelline - M (5021044013332)
+- Mascara de pestañas Maquillaje Mujer
 
 [🛒 Aquí!!!]({{< param buyurl >}})

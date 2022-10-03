@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOM Love - Ginebra Premium - 700 ml'
-date: 2022-10-01 10:42:19
+date: 2022-10-03 14:00:36
 image: 'https://m.media-amazon.com/images/I/41hYcfZMsoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vi
 actualPrice: 10.15 EUR
 currency: EUR
 price: 10.15
-comparePrice: 12.4 EUR
+comparePrice: 15.84 EUR
 prodname: 'MOM Love - Ginebra Premium - 700 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'MOM'
 buyurl: 'https://www.amazon.es/dp/B07SHTJL4F/?tag=tolees-21'
-descuento: '18.15'
-average: '11.6773076923077'
+descuento: '35.92'
+average: '11.6207407407407'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño: 700 ml
-- Conservar en lugar seco, sin iluminación directa
-- Notas delicadas de fresa y un suave final
 - Porcentaje de alcohol: 37.5%
+- Notas delicadas de fresa y un suave final
+- Conservar en lugar seco, sin iluminación directa
+- Tamaño: 700 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

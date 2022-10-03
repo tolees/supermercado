@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Respetan las zonas sensibles que merecen una atención particular.
-- Producto desarrollado para el cuidado delicado de la zona íntima.
-- Su base suave y su textura cremosa aseguran una higiene óptima.
-- Testado bajo control ginecológico
 - Respetuoso con el Ph íntimo
+- Respetan las zonas sensibles que merecen una atención particular.
+- Testado bajo control ginecológico
+- Su base suave y su textura cremosa aseguran una higiene óptima.
+- Producto desarrollado para el cuidado delicado de la zona íntima.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
