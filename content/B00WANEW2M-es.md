@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Babaria- Leche corporal hidratante Aceite de Oliva  400 ml'
-date: 2022-09-26 12:09:15
+date: 2022-10-03 07:20:05
 image: 'https://m.media-amazon.com/images/I/21WrzlYb0jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Género : mujer
 - Marca : Nivea
 - Tipo de producto: leche corporal
-- Género : mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
