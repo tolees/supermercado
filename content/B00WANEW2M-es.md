@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Babaria- Leche corporal hidratante Aceite de Oliva  400 ml'
-date: 2022-10-03 07:20:05
+date: 2022-10-04 15:21:10
 image: 'https://m.media-amazon.com/images/I/21WrzlYb0jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
