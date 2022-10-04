@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Keler Cerveza - Paquete de 24 x 330 ml  total de 7920 ml'
-date: 2022-10-01 06:00:12
+date: 2022-10-04 12:07:09
 image: 'https://m.media-amazon.com/images/I/41kQtkJOENL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'KELER'
 buyurl: 'https://www.amazon.es/dp/B07CZQQXTY/?tag=tolees-21'
 descuento: '25.00'
-average: '12.505'
+average: '12.236'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cerveza con una guarda mínima de 3 semanas
 - Donostia- San Sebastián. Se elabora con cereales de primera calidad y sigue un exhaustivo proceso de fabricación.
 - Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
+- Cerveza con una guarda mínima de 3 semanas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
