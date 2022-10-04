@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chocolate con 100% aromas naturales
-- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
-- Deliciosa tableta de chocolate con leche extrafino y almendras
-- El único con un gran vaso de leche fresca recogida en los valles de Cantabria
 - Esta caja contiene 28 tabletas con leche y almendras
+- Deliciosa tableta de chocolate con leche extrafino y almendras
+- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
 - Un sabor único e inolvidable que apasiona a toda la familia
+- El único con un gran vaso de leche fresca recogida en los valles de Cantabria
+- Chocolate con 100% aromas naturales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
