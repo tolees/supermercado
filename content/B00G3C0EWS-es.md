@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Police To Be The King - Eau de Toilette  125 ml'
-date: 2022-10-03 12:17:12
+date: 2022-10-04 18:41:07
 image: 'https://m.media-amazon.com/images/I/41vcWtP9o8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Notas de fondo de notas amaderadas, resinas, haba tonka y flor de azahar del naranjo
+- Notas de corazón de abrótano, madera de cachemira, ámbar y lavanda
 - Notas de salida de limón, cedro, hoja de laurel, cardamomo y nuez moscada
 - Cantidad del producto de 125 ml
-- Notas de corazón de abrótano, madera de cachemira, ámbar y lavanda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

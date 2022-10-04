@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Triple Action  Pasta de Dientes Anticaries  Frescor a Menta  Pack 2 Uds x 75ml'
-date: 2022-09-24 14:01:16
+date: 2022-10-04 19:11:57
 image: 'https://m.media-amazon.com/images/I/51NjMyNYp8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Colgate'
 buyurl: 'https://www.amazon.es/dp/B00XDOT92A/?tag=tolees-21'
 descuento: '21.60'
-average: '2.49999999999999'
+average: '2.49358974358973'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ayuda a eliminar las manchas de la superficie
+- Protección anticaries probada
 - Pasta de dientes con flúor que aporta un triple beneficio
 - Previene el mal aliento
-- Protección anticaries probada
-- Ayuda a eliminar las manchas de la superficie
 - Consigue dientes más blancos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
