@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amstel Cerveza Radler  24 x 330ml'
-date: 2022-10-04 06:54:35
+date: 2022-10-05 13:18:55
 image: 'https://m.media-amazon.com/images/I/51ZwmvJ5PeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amstel'
 buyurl: 'https://www.amazon.es/dp/B07CPYVZ8S/?tag=tolees-21'
 descuento: '15.94'
-average: '14.2577777777778'
+average: '14.224'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con zumo natural de limón
+- Conservar el producto en un lugar limpio, seco y bien ventilado
 - Caja para compartir
+- Con zumo natural de limón
 - El producto debera servirse entre 0 y 3C para obtener sus cualidades
 - Cerveza tipo lager mezcla
-- Conservar el producto en un lugar limpio, seco y bien ventilado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
