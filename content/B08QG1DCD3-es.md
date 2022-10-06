@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nescafé Dolce Gusto Café LATTE MACCHIATO CARAMEL - Pack de 3 x 16 cápsulas - Total: 48 Cápsulas'
-date: 2022-10-03 11:11:44
+date: 2022-10-06 16:58:23
 image: 'https://m.media-amazon.com/images/I/51ihQeGvDAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nescafé Dolce Gusto'
 buyurl: 'https://www.amazon.es/dp/B08QG1DCD3/?tag=tolees-21'
 descuento: '15.00'
-average: '12.2666666666667'
+average: '12.15'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
