@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bonka Café Molido Puro Colombia 250 g - 8 paquetes'
-date: 2022-10-05 13:08:18
+date: 2022-10-06 14:01:05
 image: 'https://m.media-amazon.com/images/I/51+g5Vf5c6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bonka'
 buyurl: 'https://www.amazon.es/dp/B079ZYJXZ2/?tag=tolees-21'
 descuento: '34.67'
-average: '18.18'
+average: '18.535'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 1 unidad contiene 8 paquetes de café molido puro colombia 250 g
-- Este café molido colombiano contiene solo café arábica, el de óptima calidad; la producción de café colombiana está considerada una de las mejores del mundo ya que una parte importante está englobada en una denominación de origen que vela por la calidad del producto
-- Bonka Molido Puro Colombia pertenece a la gama Premium de Bonka; cabe recordar que la gama Premium Bonka está certificada por Rainforest Alliance, un organismo que avala la conservación de los ecosistemas y la mejora de la calidad de vida de los productores y su comunidad
-- Bonka fomenta las buenas prácticas en el cultivo del café promoviendo una agricultura responsable y sostenible; Bonka Café cumple con todos los estándares de sostenibilidad
-- Café de cultivo sostenible
+- Bonka fomenta las buenas prácticas en el cultivo del café promoviendo una agricultura responsable y sostenible. Gama Premium está certificada con el sello Rainforest Alliance, un organismo que avala la conservación de los ecosistemas y la mejora de la calidad de vida de los productores y de su comunidad
+- Tostado en España, Para uso en máquinas de café automáticas y otras máquinas de café
+- Este Café de Colombia con denominación de origen se cultiva a 2000 metros de altitud, el clima ideal para la cosecha del cafeto.
+- Contiene 8 paquetes de 250g
+- Conservar en un lugar limpio fresco y seco
+- Un café suave de cuerpo medio y aromático 100% arábica. De tueste equilibrado que conserva un sabor persistente en el paladar con sutiles notas cítricas
+- Intensidad 8/12
 
 [🛒 Visítala!!!]({{< param buyurl >}})
