@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOM Rocks - Ginebra Premium - 700 ml'
-date: 2022-10-02 20:33:27
+date: 2022-10-07 17:30:50
 image: 'https://m.media-amazon.com/images/I/41F-CRFCk3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MOM'
 buyurl: 'https://www.amazon.es/dp/B082VSRFXC/?tag=tolees-21'
 descuento: '24.54'
-average: '10.9025'
+average: '10.8188888888889'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contenido de alcohol: 37.5%
-- Notas aromáticas de enebro y coriandro
 - Para disfrutar de una ginebra a la vez clásica y atrevida
 - Recomendamos servir como Gin & Tonic con twist de lima y un toque de pimienta negra
+- Contenido de alcohol: 37.5%
+- Notas aromáticas de enebro y coriandro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
