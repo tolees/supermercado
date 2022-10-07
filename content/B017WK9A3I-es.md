@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TULIPA?N NEGRO - Tulipán Negro Gel de Baño Fresa y Nata  Rosa  Dulce  650 Mililitros'
-date: 2022-10-02 17:24:13
+date: 2022-10-07 19:20:31
 image: 'https://m.media-amazon.com/images/I/41lMXhoR+oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TULIPA?N NEGRO'
 buyurl: 'https://www.amazon.es/dp/B017WK9A3I/?tag=tolees-21'
 descuento: '24.62'
-average: '1.49000000000002'
+average: '1.49032786885248'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
