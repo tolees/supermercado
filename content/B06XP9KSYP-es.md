@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gel Higiene Intima Femenina - Odor Block - Instituto Español 300 ML'
-date: 2022-10-04 19:08:07
+date: 2022-10-08 19:49:30
 image: 'https://m.media-amazon.com/images/I/31MT4X+oiXS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Higiene íntima','Jabón para la higiene íntima','Salud y cuidado pers
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99
-comparePrice: 5.32 EUR
+comparePrice: 1.99 EUR
 prodname: 'Gel Higiene Intima Femenina - Odor Block - Instituto Español 300 ML'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B06XP9KSYP/?tag=tolees-21'
-descuento: '62.59'
-average: '1.97142857142858'
+descuento: '0.00'
+average: '1.97186046511629'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lucha contra la sequedad
 - Para adultos y adolescentes
-- Previene infecciones
 - Neutraliza el olor
+- Lucha contra la sequedad
 - Ginecológicamente testado
+- Previene infecciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
