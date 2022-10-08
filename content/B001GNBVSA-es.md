@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Max Factor  Base de maquillaje - 1 unidad'
-date: 2022-10-06 19:35:56
+date: 2022-10-08 07:04:56
 image: 'https://m.media-amazon.com/images/I/31VEAqHBmML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Max Factor'
 buyurl: 'https://www.amazon.es/dp/B001GNBVSA/?tag=tolees-21'
 descuento: '27.73'
-average: '4.275'
+average: '4.16'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PANSTIK 025 FAIR (0000050884483)
 - Base de maquillaje Maquillaje Mujer
+- PANSTIK 025 FAIR (0000050884483)
 - Base de maquillaje Max Factor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
