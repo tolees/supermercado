@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PACK X4 Old Spice Deep Sea Desodorante en Barra para Hombres  50 ml'
-date: 2022-10-06 08:30:03
+date: 2022-10-08 14:20:20
 image: 'https://m.media-amazon.com/images/I/51yYAusXYaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Old Spice'
 buyurl: 'https://www.amazon.es/dp/B08J4VWMDK/?tag=tolees-21'
 descuento: '2.65'
-average: '7.75761904761904'
+average: '7.75545454545454'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
