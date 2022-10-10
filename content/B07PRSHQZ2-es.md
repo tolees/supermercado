@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The London Nº1 - Ginebra con estuche de madera  700 ml'
-date: 2022-10-02 14:20:07
+date: 2022-10-10 11:55:39
 image: 'https://m.media-amazon.com/images/I/41ph9i2UawL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suave pero muy aromática, con notas bálsamicas de calidad
-- Capacidad: 70CL
 - Luminoso color azulado turquesa, pálido y brillante
-- Ideal para combinar con tónica
+- Capacidad: 70CL
+- Suave pero muy aromática, con notas bálsamicas de calidad
 - Muestras agradables de aromas de bayas de enebro y hierbas
+- Ideal para combinar con tónica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
