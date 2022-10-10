@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuada para hamburguesas, patatas fritas y sándwiches
-- Sin gluten
-- Apto para veganos y vegetarianos
 - Sin colorantes, saborizantes ni conservantes artificiales.
 - Alta calidad
+- Apto para veganos y vegetarianos
+- Adecuada para hamburguesas, patatas fritas y sándwiches
+- Sin gluten
 
 [🛒 Visítala!!!]({{< param buyurl >}})
