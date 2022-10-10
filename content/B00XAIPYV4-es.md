@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Especial piel atópica
 - Calma el picor
 - No irrita
-- Acción anti-sequedad
 - Hipoalergénico
-- Especial piel atópica
+- Acción anti-sequedad
 - Regenera progresivamente la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
