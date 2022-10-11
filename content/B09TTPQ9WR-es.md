@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tarrina de 550 gramos formato ahorro; receta sin aceite de palma y sin gluten
 - Dulce y sabrosa perfecta para adultos y para niños, para desayuno, merienda o tentempié; perfecto para familias y para recetas de repostería
-- Nocilla Chocoleche es para aquellos que quieren disfrutar de todo, que les cuesta más elegir, o simplemente, que les gustan los dos sabores por igual; es fuente de calcio, contiene cacao natural y no contiene gluten
 - Información de alérgenos: milk
 - Alérgenos: Este producto contiene leche, avellanas y soja y puede contener frutos de cáscara; mantener fuera del frigorífico, en lugar fresco y seco
 - Nocillear es convertir un alimento rico en algo aún más delicioso, añadiendo Nocilla para crear un momento de felicidad de la buena y sin aceite de palma
-- Tarrina de 550 gramos formato ahorro; receta sin aceite de palma y sin gluten
+- Nocilla Chocoleche es para aquellos que quieren disfrutar de todo, que les cuesta más elegir, o simplemente, que les gustan los dos sabores por igual; es fuente de calcio, contiene cacao natural y no contiene gluten
 
 [🛒 Comprar!!!]({{< param buyurl >}})
