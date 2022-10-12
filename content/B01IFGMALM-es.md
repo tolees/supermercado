@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nail care - cuticle oils
 - Products by Neutrogena
+- Nail care - cuticle oils
 - Beauty products
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
