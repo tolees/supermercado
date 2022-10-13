@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Paquete de 100 Cápsulas
 - *Lavazza , *A Modo Mio , *Lavazza A Modo Mio , *Espresso Point y *Lavazza Espresso Point son marcas propiedad de Luigi Lavazza S.p.A. . Caffè Borbone Srl es un productor independiente no vinculado a Luigi Lavazza S.p.A.. Las cápsulas Caffè Borbone son compatibles con máquinas de café de uso doméstico Lavazza Espresso Point – Lavazza A Modo Mio .
-- Compatibles con las Cafeteras Lavazza* A Modo Mio*
 - Mezcla Descafeinada
+- Paquete de 100 Cápsulas
+- Compatibles con las Cafeteras Lavazza* A Modo Mio*
 
 [🛒 Aquí!!!]({{< param buyurl >}})
