@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Comprometidos desde 1989 en no realizar test en animales, está dermatológicamente testado
 - Champú alisante e hidrante con extractos naturales, que limpia y nutre en profundidad los cabellos más difíciles y rebeldes
-- Formulado con Aceite de Coco, conocido por su poder altamente suavizante y alisante, consigue un cabello ultra-nutrido y lleno de vitalidad
+- Comprometidos desde 1989 en no realizar test en animales, está dermatológicamente testado
 - En Garnier ayudamos a la conservación del medio ambiente apostando por un envase 100% reciclable
 - Consigue, gracias a la Manteca de Cacao y sus activos libres de silicona, que el pelo rebelde se vea mucho más liso, disciplinadoy limpio durante más tiempo
+- Formulado con Aceite de Coco, conocido por su poder altamente suavizante y alisante, consigue un cabello ultra-nutrido y lleno de vitalidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
