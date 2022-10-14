@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnson s Baby Champú Camomila  ideal para toda la familia - 3 x 300 ml'
-date: 2022-10-03 07:15:15
+date: 2022-10-14 20:47:00
 image: 'https://m.media-amazon.com/images/I/51iCxRcC3oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Baño','Bebé','Champú para bebé','Higiene y cuidado','champú','john
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75
-comparePrice: 6.57 EUR
+comparePrice: 4.47 EUR
 prodname: 'Johnson s Baby Champú Camomila  ideal para toda la familia - 3 x 300 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Johnsons Baby'
 buyurl: 'https://www.amazon.es/dp/B07RZKQH9V/?tag=tolees-21'
-descuento: '42.92'
-average: '4.77375'
+descuento: '16.11'
+average: '4.6121052631579'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
