@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Denominación de Origen Rueda.
 - Aroma: En nariz es intenso y amplio, con notas cítricas.
 - Apariencia: Color amarillo pajizo verdoso, limpio y brillante.
-- Maridaje: aperitivos, postres, pastas, pescados, mariscos y foie.
-- Denominación de Origen Rueda.
 - Gusto: En boca es untuoso y redondo con un final dulce y goloso.
+- Maridaje: aperitivos, postres, pastas, pescados, mariscos y foie.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
