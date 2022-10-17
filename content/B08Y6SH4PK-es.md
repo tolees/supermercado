@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acaba con las imperfecciones de las pieles masculinas, Purifica, exfolia y reduce los granos
 - Contenido: 1 x Gel Antigranos Pure Carbon 3 en 1 para pieles masculinas de LOréal Men Expert, 100 ml
-- Fórmula de textura gel enriquecida con minerales volcánicos con propiedades absorbentes y ácido salicílico con efecto exfoliante
 - Aplicar por la mañana o por la noche sobre el rostro húmedo, masajear el producto y aclarar con abundante agua, Para óptimos resultados, combinar con la crema Cuidado Diario Antigranos Pure Carbon de LOréal Men Expert
+- Acaba con las imperfecciones de las pieles masculinas, Purifica, exfolia y reduce los granos
+- Fórmula de textura gel enriquecida con minerales volcánicos con propiedades absorbentes y ácido salicílico con efecto exfoliante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
