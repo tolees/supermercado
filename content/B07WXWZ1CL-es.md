@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Favoritos Red Pica  1 x 150 g'
-date: 2022-10-10 07:10:18
+date: 2022-10-18 12:45:27
 image: 'https://m.media-amazon.com/images/I/51g2d3zmDxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B07WXWZ1CL/?tag=tolees-21'
 descuento: '24.58'
-average: '1.164'
+average: '1.18090909090909'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
 - Geles dulces
-- Mix de tus piezas favoritas de regaliz rojo: Ladrillos y Balla-Balla con sabor a fresa y nata
 - Con recubrimiento pica
+- Conservar en lugar fresco y seco
+- Mix de tus piezas favoritas de regaliz rojo: Ladrillos y Balla-Balla con sabor a fresa y nata
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
