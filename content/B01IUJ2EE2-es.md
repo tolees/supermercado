@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecha con aceite de girasol
-- Sin conservantes o colorantes
-- Conservar en lugar fresco y seco
 - Se puede utilizar en una variedad de preparaciones
 - Lista para consumir
+- Hecha con aceite de girasol
+- Conservar en lugar fresco y seco
+- Sin conservantes o colorantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
