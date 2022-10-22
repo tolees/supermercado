@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Género: Unisex Adulto
-- Marca: Instituto Español
 - Tipo de producto: Champú
+- Marca: Instituto Español
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
