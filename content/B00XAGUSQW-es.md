@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'San Suavizante Concentrado Radiante  60 Lavados - 1440 ml'
-date: 2022-10-22 06:20:58
+date: 2022-10-23 11:38:48
 image: 'https://m.media-amazon.com/images/I/31ns4qMwJ+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAN'
 buyurl: 'https://www.amazon.es/dp/B00XAGUSQW/?tag=tolees-21'
 descuento: '11.05'
-average: '1.77666666666667'
+average: '1.755'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De alta calidad
-- Te ofrece 6 semanas de fragancia
 - Producto de la marca SAN
 - Suavizante para la ropa
+- De alta calidad
+- Te ofrece 6 semanas de fragancia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
