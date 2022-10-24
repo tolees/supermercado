@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Finish es la marca recomendada por los principales fabricantes de lavavajillas
-- ÚSALO MIENTRAS LAVAS TUS PLATOS: úsalo una vez al mes con el lavavajillas lleno, no hace falta un lavado adicional, puedes añadir la pastilla en el fondo del lavavajillas lleno, con un ciclo de lavado ordinario
-- LAVAVAJILLAS LIMPIO: elimina la suciedad oculta, la grasa y la cal en filtro, brazos aspersores y tuberías y otras partes internas del lavavajillas
 - LAVAVAJILLAS HIGIÉNICO Y SIN MAL OLOR: el resultado es un lavavajillas higiénicamente limpio sin malos olores y profundamente más limpio, para una vajilla más limpia
 - FINISH LIMPIAMÁQUINAS PASTILLAS: limpia en profundidad el lavavajillas y elimina el mal olor proporcionando un lavado higiénico mientras lavas tus platos
+- ÚSALO MIENTRAS LAVAS TUS PLATOS: úsalo una vez al mes con el lavavajillas lleno, no hace falta un lavado adicional, puedes añadir la pastilla en el fondo del lavavajillas lleno, con un ciclo de lavado ordinario
+- LAVAVAJILLAS LIMPIO: elimina la suciedad oculta, la grasa y la cal en filtro, brazos aspersores y tuberías y otras partes internas del lavavajillas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
