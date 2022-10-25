@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orlando Tomate Frito Clásico  350g'
-date: 2022-10-24 19:40:46
+date: 2022-10-25 19:57:56
 image: 'https://m.media-amazon.com/images/I/41-P34y4GkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ORLANDO'
 buyurl: 'https://www.amazon.es/dp/B007TY7GWU/?tag=tolees-21'
 descuento: '5.95'
-average: '0.718666666666667'
+average: '0.723125'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin conservantes ni gluten
-- Tiene un sabor tradicional y casero
-- Formato fácil, listo para cocinar
-- Conservar en lugar fresco y seco
 - Con consistencia homogénea, sin grumos
+- Tiene un sabor tradicional y casero
+- Conservar en lugar fresco y seco
+- Formato fácil, listo para cocinar
+- Sin conservantes ni gluten
 
 [🛒 Visítala!!!]({{< param buyurl >}})
