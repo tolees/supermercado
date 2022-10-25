@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ORLANDO Tomate Frito Brik 4 x 350g sin gluten'
-date: 2022-10-16 18:20:28
+date: 2022-10-25 15:10:23
 image: 'https://m.media-amazon.com/images/I/4180lOSIj+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin trozos
-- Apto para Vegetarianos y Veganos
-- Listo para consumir
-- Ingredientes: Tomate (160 g por 100 g de tomate frito), aceite de girasol (3,4%) (sofrito con cebolla y ajos frescos), azúcar, almidón modificado de maíz y sal
 - Sin Gluten
+- Listo para consumir
+- Sin trozos
 - Sin conservantes
+- Ingredientes: Tomate (160 g por 100 g de tomate frito), aceite de girasol (3,4%) (sofrito con cebolla y ajos frescos), azúcar, almidón modificado de maíz y sal
 - Una vez abierto conservar en frigorífico
+- Apto para Vegetarianos y Veganos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
