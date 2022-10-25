@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con consistencia homogénea, sin grumos
+- Sin conservantes ni gluten
+- Formato fácil, listo para cocinar
 - Tiene un sabor tradicional y casero
 - Conservar en lugar fresco y seco
-- Formato fácil, listo para cocinar
-- Sin conservantes ni gluten
 
 [🛒 Visítala!!!]({{< param buyurl >}})

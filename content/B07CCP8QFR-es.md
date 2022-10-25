@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para los más pequeños
 - Ingredientes naturales bajo en grasas, rico en vitamina D y con hierro
 - Cereal de arroz inflado
+- Para los más pequeños
 
 [🛒 Aquí!!!]({{< param buyurl >}})
