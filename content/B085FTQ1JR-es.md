@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Flor de Caña Ron de 5 Años  700ml'
-date: 2022-10-18 16:46:15
+date: 2022-10-25 06:49:25
 image: 'https://m.media-amazon.com/images/I/319L4TEzElL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un ron premium de 5 años producido de manera sostenible y con cero contenido de azúcar
-- Naturalmente añejado sin ingredientes artificiales
-- Es libre de gluten y está certificado kosher
 - Es producido cumpliendo con más de 300 rigurosos estándares laborales, sociales y ambientales
+- Es libre de gluten y está certificado kosher
+- Naturalmente añejado sin ingredientes artificiales
+- Un ron premium de 5 años producido de manera sostenible y con cero contenido de azúcar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
