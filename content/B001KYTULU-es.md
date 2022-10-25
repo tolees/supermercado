@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfilador de Ojos Kajal para el contorno interno y externo del ojo
-- Color intenso, fórmula blanda y suave para look ahumado
-- Testada dermatológica y oftalmológicamente
-- Look de ojos ahumados fácil con Soft Kohl
 - Fórmula hasta 12 horas de duración
+- Look de ojos ahumados fácil con Soft Kohl
+- Perfilador de Ojos Kajal para el contorno interno y externo del ojo
+- Testada dermatológica y oftalmológicamente
+- Color intenso, fórmula blanda y suave para look ahumado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
