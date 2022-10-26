@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Intensa concentración de color de tinta
+- Acabado mate
 - Maybelline Pintalabios líquido de tinta mate Superstay
 - Disponible en 23 tonos
-- Intensa concentración de color de tinta
 - Uso impecable de 16 horas
-- Acabado mate
 
 [🛒 Comprar!!!]({{< param buyurl >}})
