@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicar masajeando el pelo durante 1-3 minutos y aclarar con abundante agua, Usar una vez por semana alternando con el champú Elvive Color Vive, Utilizar guantes apropiados
-- Contenido: 3 x LOreal Paris Elvive Color Vive Champús Violeta Matizador, Cada envase contiene 200 ml, Total: 800 ml
 - Fórmula con pigmentos violeta y filtros UV, En caso de contacto con los ojos lavar inmediatamente con abundante agua, Envase de plástico 100% reciclado y 100% reciclable
-- Champú Matizador anti-efecto anaranjado para pelo con mechas, rubio, decolorado o gris, De uso exclusivo como matizador del color del cabello
 - Limpia con suavidad y neutraliza al instante el tono anaranjado y amarillento no deseado, Desde el primer uso aporta resultados que permiten lucir un cabello más brillante, cuidado y con un tono sublime
+- Contenido: 3 x LOreal Paris Elvive Color Vive Champús Violeta Matizador, Cada envase contiene 200 ml, Total: 800 ml
+- Aplicar masajeando el pelo durante 1-3 minutos y aclarar con abundante agua, Usar una vez por semana alternando con el champú Elvive Color Vive, Utilizar guantes apropiados
+- Champú Matizador anti-efecto anaranjado para pelo con mechas, rubio, decolorado o gris, De uso exclusivo como matizador del color del cabello
 
 [🛒 Aquí!!!]({{< param buyurl >}})
