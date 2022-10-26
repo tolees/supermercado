@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Recomendada para todas las edades y para pieles secas y/o sensibles.
 - Recomendada para todo tipo de pieles
-- Hidratación profunda dándole volumen y disminuyendo la flacidez
 - Aporta a la piel la máxima hidratación
 - Utilización mañana y noche
+- Hidratación profunda dándole volumen y disminuyendo la flacidez
+- Recomendada para todas las edades y para pieles secas y/o sensibles.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

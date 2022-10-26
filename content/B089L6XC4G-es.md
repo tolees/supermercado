@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Martini Aperitivo Fiero  750ml'
-date: 2022-10-17 09:59:29
+date: 2022-10-26 12:04:32
 image: 'https://m.media-amazon.com/images/I/41Cec0SYoqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Martini'
 buyurl: 'https://www.amazon.es/dp/B089L6XC4G/?tag=tolees-21'
 descuento: '8.49'
-average: '8.8875'
+average: '8.706'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Aperitivo moderno con aromas y colores 100% naturales
-- Su composición es adecuada para la asociación con tónica porque permite una alianza perfecta con la quinina. Para un cocktail ligero, fresco y largo a consumir en cualquier momento del año
-- Color rojo anaranjado
 - El nuevo aperitivo vermouth de la familia Martini con sabor a naranja amarga. Elaborado con naranjas del país, cortadas a mano, lo cual bridan a Martini Fiero toda la riqueza de sus notas cítricas
 - Maceración lenta de una mezcla de vinos blancos finos y botánicos, incluida la piel de naranja, durante 2 meses
+- Color rojo anaranjado
+- Su composición es adecuada para la asociación con tónica porque permite una alianza perfecta con la quinina. Para un cocktail ligero, fresco y largo a consumir en cualquier momento del año
 
 [🛒 Comprar!!!]({{< param buyurl >}})
