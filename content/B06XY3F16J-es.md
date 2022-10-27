@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elimina los gérmenes que quedan después del cepillado y previene la placa, una de las principales causas de la gingivitis
-- Fortalece el esmalte dental incluso en los lugares más difíciles de alcanzar para ayudar a prevenir las caries
 - Proporciona un aliento fresco
 - Refresca el aliento con sabor a té verde natural
+- Fortalece el esmalte dental incluso en los lugares más difíciles de alcanzar para ayudar a prevenir las caries
+- Elimina los gérmenes que quedan después del cepillado y previene la placa, una de las principales causas de la gingivitis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
