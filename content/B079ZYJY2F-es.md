@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Deliciosa tableta de chocolate con leche Nestle Extrafino con almendras
 - Un chocolate cremoso, suave y dulce, hecho con leche recogida diariamente de la cornisa Cantábrica
 - 100% Cacao de cultivo sostenible seleccionado a través de Nestle Cocoa Plan, certificado Rainforest
-- Nestle Extrafino se produce desde 1966 en La Penilla, Cantabria siguiendo un proceso tradicional
 - Un chocolate cremoso, suave y dulce, hecho con leche recogida diariamente de la cornisa Cantábrica
+- Nestle Extrafino se produce desde 1966 en La Penilla, Cantabria siguiendo un proceso tradicional
+- Deliciosa tableta de chocolate con leche Nestle Extrafino con almendras
 
 [🛒 Visítala!!!]({{< param buyurl >}})
