@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Oil Control & Long Lasting】Its excellent at oil control , long-Wearing Smooth Silica Bead Powder helps absorb sweat and sebum for long-lasting wear without a darkening effect. This hydrating foundation is more than 12-hour lasting perfect make-up and good oil-water balance.
-- 【Concealer & Moisturizing】Perfect Coverage Micro Cover Pigment helps cover flaws to create a cleaner complexion .The hydrating formula make the BB cream moisturizing and correct uneven tone of your skin. Its perfect concealing effect can cover fine lines and wrinkles on your face conceal fine pores.
-- 【Multiple Skin-Nourishing】Contains a variety of natural skin care plant ingredients, extracts such as trehalose, rhodiola, etc. can moisturize the skin and brighten the skin tone.
 - 【Cojín de aire de hongo pequeño】 Cada caja BB Cream incluye un cabezal de hongo, maquillaje fácil de aplicar, 360 ° sin callejones sin salida, el soplo tridimensional fino y suave se hinchará cuando se exponga al agua, que es más adecuado para toda la cara.
 - 【Easily Apply Makeup】The skin-friendly elastic bionic film, soft bionic film pressed out evenly smooth BB cream.Elastic mushroom puff, take powder evenly.It helps cover flaws to create a cleaner complexion.
+- 【Multiple Skin-Nourishing】Contains a variety of natural skin care plant ingredients, extracts such as trehalose, rhodiola, etc. can moisturize the skin and brighten the skin tone.
+- 【Concealer & Moisturizing】Perfect Coverage Micro Cover Pigment helps cover flaws to create a cleaner complexion .The hydrating formula make the BB cream moisturizing and correct uneven tone of your skin. Its perfect concealing effect can cover fine lines and wrinkles on your face conceal fine pores.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
