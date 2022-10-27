@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para endulzar bebidas
-- Conservar en un lugar fresco y seco
 - Viene envuelto individualmente
-- Fácil de usar
 - Azúcar blanco granulado
+- Adecuado para endulzar bebidas
+- Fácil de usar
+- Conservar en un lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
