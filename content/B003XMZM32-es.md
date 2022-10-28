@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Flor Elixir Secadoras Suavizante Acondicionador  430g'
-date: 2022-10-27 08:40:03
+date: 2022-10-28 10:33:17
 image: 'https://m.media-amazon.com/images/I/41TJF8u9PnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Flor'
 buyurl: 'https://www.amazon.es/dp/B003XMZM32/?tag=tolees-21'
 descuento: '67.85'
-average: '3.7625'
+average: '3.62615384615385'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
