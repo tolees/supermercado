@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Flintronic Taza de Viaje  450ml Termo Doble Pared De Aislamiento  Termo de Café  Versión Mejorada Frasco de Vacío de Acero Inoxidabl 316  Pantalla LED Táctil Inteligente con Temperatura  Negro'
-date: 2022-10-19 09:21:28
+date: 2022-10-28 07:56:17
 image: 'https://m.media-amazon.com/images/I/41y5Xv69DRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'flintronic'
 buyurl: 'https://www.amazon.es/dp/B08LQJW9J5/?tag=tolees-21'
 descuento: '0.00'
-average: '17.99'
+average: '18.19'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
