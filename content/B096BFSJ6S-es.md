@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin azúcares añadidos, contienen azúcares naturalmente presentes
+- Forma y textura adaptadas a su edad
 - Sin aceite de palma
+- Sin azúcares añadidos, contienen azúcares naturalmente presentes
 - Snacks de cereales para bebés desde 8 meses
 - Horneados, no fritos
-- Forma y textura adaptadas a su edad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
