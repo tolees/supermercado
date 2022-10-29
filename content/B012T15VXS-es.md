@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Limpia y purifica
-- Suaviza la piel
 - Exfolia delicadamente
+- Suaviza la piel
+- Limpia y purifica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -31,7 +31,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Mejor servido frío o con hielo
 - Ideal para fiestas, comidas y celebraciones grandes y pequeñas y todos los días
 - Refresco con sabor a cola bajo en calorías con edulcorantes
-- Apto para veganos, vegetarianos, es un refresco espumoso bajo en calorías
 - El golpe duradero de caramelo y vainilla y el sabor intenso de una Pepsi normal
+- Apto para veganos, vegetarianos, es un refresco espumoso bajo en calorías
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
