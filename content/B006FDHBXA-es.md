@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de la marca santiveri
 - Producto Para El Cuidado Y Bienestar De Tu Cuerpo
 - Elaborado con productos naturales
+- Producto de la marca santiveri
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

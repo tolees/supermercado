@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CLINIANS HYDRA PLUS gel limpiador facial exfoliante activo purificante para pieles mixtas o grasas  con Agua de Pepino y Té Verde  150 mL'
-date: 2022-10-28 18:30:06
+date: 2022-10-29 18:40:23
 image: 'https://m.media-amazon.com/images/I/41ox6WuJ9gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
