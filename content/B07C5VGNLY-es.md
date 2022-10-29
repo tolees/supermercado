@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desarrollado con dermatología y probado dermatológicamente. Protección contra los rayos UVA y UVB diarios con SPF 25
-- CONSTRUYENDO Tres ceramidas esenciales de origen vegetal para fortalecer la barrera de protección de la piel
-- RESISTENCIA A LARGO PLAZO Liberación patentada de ingredientes activos para una humedad duradera
 - Sin perfume y no comedogénico. Fácil de esparcir y de rápida absorción
+- Desarrollado con dermatología y probado dermatológicamente. Protección contra los rayos UVA y UVB diarios con SPF 25
+- RESISTENCIA A LARGO PLAZO Liberación patentada de ingredientes activos para una humedad duradera
+- CONSTRUYENDO Tres ceramidas esenciales de origen vegetal para fortalecer la barrera de protección de la piel
 - TEXTURA APROPIADA Enriquecida con ácido hialurónico. No se pega, no se engrasa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
