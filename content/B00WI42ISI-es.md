@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forma de cultivo: en semillero hasta que la planta tenga cierto grosor. Después trasplantar a un marco de 40x10 cm
-- Preparar bien el suelo y con una capa superficial fina (2 cm)
-- Siembra: de Septiembre a Marzo
-- Cosecha: a partir de 150 Días
 - Color amarilla paja, buena conservación. Buscar las fincas más fértiles y que no sean arcillosas
+- Forma de cultivo: en semillero hasta que la planta tenga cierto grosor. Después trasplantar a un marco de 40x10 cm
+- Cosecha: a partir de 150 Días
+- Siembra: de Septiembre a Marzo
+- Preparar bien el suelo y con una capa superficial fina (2 cm)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
