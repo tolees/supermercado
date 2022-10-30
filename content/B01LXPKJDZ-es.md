@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elimina las imperfecciones
 - Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
-- Desincrusta los puntos negros
 - Previene de su aparición
+- Desincrusta los puntos negros
+- Elimina las imperfecciones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
