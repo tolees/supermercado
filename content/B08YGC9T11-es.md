@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para un pelo suave y disciplinado
 - Champú Adiós Frizz con biotina, extracto de cactus y aceite de argán
-- Champú Pantene Pro-V Miracles con un complejo resistente a la humedad
 - Testado por el Swiss Vitamin Institute
 - Ayuda a prevenir el encrespamiento antes de que aparezca. Para equilibrar la hidratación
+- Para un pelo suave y disciplinado
+- Champú Pantene Pro-V Miracles con un complejo resistente a la humedad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
