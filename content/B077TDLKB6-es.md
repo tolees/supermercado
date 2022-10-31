@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene una acción hidratante ha sido diseñado para promover el bienestar, la tranquilidad y el equilibrio
-- Compatible con juguetes de silicona, ayuda a explorar territorios sensoriales y proporciona alegrías aún más intensas
-- El Control Exotic Escape no mancha, se puede ingerir en pequeñas cantidades y es compatible con el uso de preservativos
-- La magia de una noche caribeña envuelve los momentos de pasión gracias a Exotic Escape, el gel de masaje 2 en 1 con un aroma exótico como las frutas de América del Sur
-- Es a base de agua e hipoalergénico, sin parabenos y sin fenoxietanol
-- Botella de 200 ml para un uso frecuente
 - Una buena elección para masajes sensuales en todo el cuerpo gracias a su textura suave y sedosa
+- Tiene una acción hidratante ha sido diseñado para promover el bienestar, la tranquilidad y el equilibrio
+- Botella de 200 ml para un uso frecuente
+- La magia de una noche caribeña envuelve los momentos de pasión gracias a Exotic Escape, el gel de masaje 2 en 1 con un aroma exótico como las frutas de América del Sur
+- Compatible con juguetes de silicona, ayuda a explorar territorios sensoriales y proporciona alegrías aún más intensas
+- Es a base de agua e hipoalergénico, sin parabenos y sin fenoxietanol
+- El Control Exotic Escape no mancha, se puede ingerir en pequeñas cantidades y es compatible con el uso de preservativos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

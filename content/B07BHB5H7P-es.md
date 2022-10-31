@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Dibuja una línea fina sobre el ojo para una mirada más intensa
-- Fórmula suave y cremosa para una fácil aplicación
 - Dermatológicamente y oftalmológicamente probado
-- Resistente al agua
 - Color de alta intensidad para un impacto instantáneo
+- Resistente al agua
+- Fórmula suave y cremosa para una fácil aplicación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Combate la grasa y la causa principal de la caspa para un pelo totalmente libre de caspa (con uso regular)
 - El champú anticaspa no contiene siliconas, es de pH equilibrado y está reforzado con antioxidantes
-- El desintoxicante de cuero cabelludo enriquecido con minerales marinos está diseñado para purificar los poros del cuero cabelludo
 - Limpieza profunda de los poros para conseguir hasta 72 horas de protección anticaspa* (* caspa visible, con uso regular)
 - Mejor juntos, utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito
+- El desintoxicante de cuero cabelludo enriquecido con minerales marinos está diseñado para purificar los poros del cuero cabelludo
+- Combate la grasa y la causa principal de la caspa para un pelo totalmente libre de caspa (con uso regular)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
