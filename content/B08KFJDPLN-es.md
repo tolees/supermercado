@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mantener en lugar fresco
-- Combinación de piezas de diferentes texturas y sabores
 - Mix de caramelos de goma
-- Incluye: ositos de oro, huevo, fresones, balla-balla duo y balla-balla fresa
 - Para compartir
+- Combinación de piezas de diferentes texturas y sabores
+- Incluye: ositos de oro, huevo, fresones, balla-balla duo y balla-balla fresa
+- Mantener en lugar fresco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
