@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bourjois Always Fabulous Corrector  Tono 200 - 6 ml'
-date: 2022-10-28 17:06:28
+date: 2022-10-30 21:11:16
 image: 'https://m.media-amazon.com/images/I/41NCIqMwPRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula resistente de larga duración
-- Acabado terciopelo
 - Alta cobertura
-- Con ácido hialurónico que aporta hidratación a la piel durante todo el día
+- Acabado terciopelo
+- Fórmula resistente de larga duración
 - SPF 20 y vitamina E
+- Con ácido hialurónico que aporta hidratación a la piel durante todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})
