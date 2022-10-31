@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Funky Mix  1kg'
-date: 2022-10-26 09:19:20
+date: 2022-10-31 00:48:43
 image: 'https://m.media-amazon.com/images/I/51ArctZ497L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B08KFJDPLN/?tag=tolees-21'
 descuento: '24.37'
-average: '6.49062499999999'
+average: '6.49588235294117'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mix de caramelos de goma
-- Combinación de piezas de diferentes texturas y sabores
 - Mantener en lugar fresco
+- Combinación de piezas de diferentes texturas y sabores
+- Mix de caramelos de goma
 - Incluye: ositos de oro, huevo, fresones, balla-balla duo y balla-balla fresa
 - Para compartir
 
