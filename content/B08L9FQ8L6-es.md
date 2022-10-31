@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fórmula con lavanda 100% natural
-- Botella enrollable con un 50% menos de plástico
 - Transforma la piel seca en una piel hidratada y visiblemente más suave durante 48 horas
-- Para piel seca
+- Botella enrollable con un 50% menos de plástico
 - 98% de ingredientes de origen natural
+- Para piel seca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
