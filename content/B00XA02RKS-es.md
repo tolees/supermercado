@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mezcla de escocés refinado
-- Con un color dorado claro
-- Un aroma característico de brezo y un toque de especial
 - Añejados durante varios años en barricas
+- Un aroma característico de brezo y un toque de especial
+- Mezcla de escocés refinado
 - Notas de chocolate, manzana roja y vainilla
+- Con un color dorado claro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
