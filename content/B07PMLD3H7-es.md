@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ginebra Premium Nordés - Pack de 2 botellas de 70 cl + 6 Vasos'
-date: 2022-10-31 12:25:20
+date: 2022-11-01 13:20:42
 image: 'https://m.media-amazon.com/images/I/41IGC4elzqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nordés'
 buyurl: 'https://www.amazon.es/dp/B07PMLD3H7/?tag=tolees-21'
 descuento: '15.00'
-average: '42.393'
+average: '42.4027272727273'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 6 vasos de regalo para que puedas disfrutar Nordés de forma perfecta.
+- Perfecto para regalo, celebraciones especiales, o para disfrutar de una copa agradable en buena compañía
 - Ginebra gallega, fresca y aromática. Una ginebra afrutada con toques balsámicos
 - Su característica botella blanca está inspirada en la cerámica gallega de Sargadelos, elaborada tradicionalmente de manera artesanal
-- Perfecto para regalo, celebraciones especiales, o para disfrutar de una copa agradable en buena compañía
-- 6 vasos de regalo para que puedas disfrutar Nordés de forma perfecta.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
