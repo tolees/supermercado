@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cerveza de tipo lager aromatizada con limonada
-- Con 0.9% de alcohol en volumen
 - Cerveza con espuma fina, aroma de flores cítricas, sabor dulce y suave que la hace muy fácil de beber y muy refrescante
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 - Ingredientes: agua, malta pilsen, lúpulo, azúcar líquido y aroma de limón y la exclusiva levadura cruzcampo
+- Con 0.9% de alcohol en volumen
+- Cerveza de tipo lager aromatizada con limonada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
