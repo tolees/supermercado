@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula nutritiva y suavizante complementaria al champú de cebolla Th Pharma.
-- De uso diario, no deja olor residual y contiene 700 ml
 - Estimula el crecimiento del cabello y proporciona un brillo infinito y volumen extra
 - Mascarilla de Cebolla Roja indicada para todo tipo de cabellos
+- Fórmula nutritiva y suavizante complementaria al champú de cebolla Th Pharma.
 - Potencia los efectos del extracto de cebolla y facilita el desenredado y peinado
+- De uso diario, no deja olor residual y contiene 700 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
