@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cruzcampo Shandy Cerveza Limón Pack Lata  24 x 33cl'
-date: 2022-10-31 14:03:39
+date: 2022-11-02 17:50:23
 image: 'https://m.media-amazon.com/images/I/51VZtpFW-7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Shandy'
 buyurl: 'https://www.amazon.es/dp/B07PM7WVLL/?tag=tolees-21'
 descuento: '16.68'
-average: '12.7925'
+average: '12.8583333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cerveza con espuma fina, aroma de flores cítricas, sabor dulce y suave que la hace muy fácil de beber y muy refrescante
-- Con 0.9% de alcohol en volumen
 - Cerveza de tipo lager aromatizada con limonada
-- Ingredientes: agua, malta pilsen, lúpulo, azúcar líquido y aroma de limón y la exclusiva levadura cruzcampo
+- Con 0.9% de alcohol en volumen
+- Cerveza con espuma fina, aroma de flores cítricas, sabor dulce y suave que la hace muy fácil de beber y muy refrescante
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
+- Ingredientes: agua, malta pilsen, lúpulo, azúcar líquido y aroma de limón y la exclusiva levadura cruzcampo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
