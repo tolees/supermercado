@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Proporciona una fragancia refrescante
-- Tipo de piel: Normal
-- Elimina la grasa dejando el cabello limpio, acondicionado, brillante y suave
 - Deja la piel suave y tersa
+- Elimina la grasa dejando el cabello limpio, acondicionado, brillante y suave
+- Tipo de piel: Normal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
