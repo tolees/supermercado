@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejidos blancos, oscuros y de colores: Ideal para limpiar camisas de trabajo, uniformes escolares, blusas, camisetas, fundas de almohada, ropa de cama y ropa deportiva; usar antes de cada lavado
-- Ropa impecablemente limpia: Fórmula de prelavado indicada para eliminar manchas sin blanqueador; adecuada para lavadoras y para lavar a mano artículos más delicados.
 - Información útil: Pulveriza sobre las manchas; deja actuar unos 30 minutos sin dejar secar el líquido; finalmente introduce la ropa en la lavadora o lávala según las instrucciones de la prenda
+- Ropa impecablemente limpia: Fórmula de prelavado indicada para eliminar manchas sin blanqueador; adecuada para lavadoras y para lavar a mano artículos más delicados.
+- Tejidos blancos, oscuros y de colores: Ideal para limpiar camisas de trabajo, uniformes escolares, blusas, camisetas, fundas de almohada, ropa de cama y ropa deportiva; usar antes de cada lavado
 - Quitamanchas HG: Poderosa fórmula para eliminar las manchas amarillas causadas por el sudor y los desodorantes de las axilas de tus camisas, camisetas y ropa de cama
 - Rápido y efectivo: Las manchas amarillentas de los tejidos provocadas por sudor y desodorantes no se pueden eliminar con detergentes habituales pero nuestro quitamanchas las hará desaparecer
 

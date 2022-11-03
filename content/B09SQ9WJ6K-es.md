@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heineken Silver Cerveza Lager Caja 4 Pack Botella  6 x25cl'
-date: 2022-11-01 19:10:32
+date: 2022-11-03 14:47:35
 image: 'https://m.media-amazon.com/images/I/51AoEVXTGwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - De color rubio pálido, se caracteriza por su sabor suave, con un ligero aroma afrutado,
-- Ingredientes naturales: agua, levadura, malta de cebada y lúpulo
 - Elaborada a -1ºC
 - 4% de alcohol en volumen
 - Cerveza tipo laguer
+- Ingredientes naturales: agua, levadura, malta de cebada y lúpulo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
