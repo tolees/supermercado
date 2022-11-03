@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Nota de cata (nariz): Frutos rojos (frambuesa), flores de violetas yregaliz propios de los varietales y especias con cierto recuerdo torrefacto (vainilla, coco)
 - Nota de cata (vista): Color granate-cereza de intensidad media y destellos violáceos
-- Nota de cata (boca): Se trata de un vino con entrada en boca amable, con tanino ligero, muy pulido; balanceado y con recuerdos frutales y una persistencia intermedia
 - Varietales: Tempranillo y Garnacha
+- Nota de cata (boca): Se trata de un vino con entrada en boca amable, con tanino ligero, muy pulido; balanceado y con recuerdos frutales y una persistencia intermedia
 - Estuche regalo 4 botellas 75cl
 
 [🛒 Visítala!!!]({{< param buyurl >}})

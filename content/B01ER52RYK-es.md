@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Starmix Caramelos de Goma - 275 gr'
-date: 2022-11-02 18:20:21
+date: 2022-11-03 18:38:03
 image: 'https://m.media-amazon.com/images/I/51IsRdwHw8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mix de sabores y colores
-- Conservar en lugar fresco y seco
-- Caramelos de goma
 - Delicioso mix de diferentes piezas: Huevos, Corazón, Anillos, Happy cola y Ositos de Oro
+- Caramelos de goma
+- Conservar en lugar fresco y seco
+- Mix de sabores y colores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
