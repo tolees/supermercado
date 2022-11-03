@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Base de maquillaje de cobertura media que proporciona un acabado luminoso y antifatiga
-- Apto para todo tipo de pieles, especialmente para pieles secas
 - Con polvos matificantes que proporcionan un aspecto suave y luminoso
+- Apto para todo tipo de pieles, especialmente para pieles secas
 - Contiene derivados de ácido hialurónico que proporciona hasta 16 de hidratación
 - Fórmula antiedad con una combinación de vitamina C con efecto antifatiga, vitamina E con acción antioxidante y vitamina B5 que tonifica la piel
 
