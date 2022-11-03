@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Der-Franz - Café mezcla de Arábica y Robusta  Tostado  Granos Enteros Aromatizados con Vainilla Natural  Certificación UTZ  en Grano  3 x 500 g'
-date: 2022-10-31 14:00:55
+date: 2022-11-03 08:36:14
 image: 'https://m.media-amazon.com/images/I/51dgVv3yeSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Der-Franz'
 buyurl: 'https://www.amazon.es/dp/B07Y5JKPZS/?tag=tolees-21'
 descuento: '32.10'
-average: '11.965'
+average: '12.0325'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
