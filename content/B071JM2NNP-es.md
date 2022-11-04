@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfruta de whiskies adecuados: Almacena y sirve tu bebida preferida con un estilo elegante con este juego de decantador y vasos de 5 piezas
 - Tu bebida se mantendrá ala perfección: El decantador cuenta con un sello de silicona para crear un cierre hermético; esto evita que el whisky se evapore o se deteriore cuando esté almacenado
-- El juego incluye: Un decantador de whisky de vidrio de 900 ml (1½ pt), lo suficientemente grande para una botella estándar de whisky, y 4 vasos Old Fashioned
+- Disfruta de whiskies adecuados: Almacena y sirve tu bebida preferida con un estilo elegante con este juego de decantador y vasos de 5 piezas
 - Un regalo estupendo: Este juego viene en la elegante caja regalo de BarCraft, e inlcuye una receta del cóctel Old Fashioned
 - Un decantador sofisticado: Los detalles tradicionales de vidrio tallado hacen que este juego de whisky quede elegante en cualquier habitación
+- El juego incluye: Un decantador de whisky de vidrio de 900 ml (1½ pt), lo suficientemente grande para una botella estándar de whisky, y 4 vasos Old Fashioned
 
 [🛒 Visítala!!!]({{< param buyurl >}})

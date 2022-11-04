@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jabón líquido en formato de 750 ml
-- Ph neutro
-- Gel de Baño y Ducha con fórmula muy suave de Ph Neutro, que puede ser usado a diario con seguridad, ya que ha sido dermatológicamente testado.
 - Sin parabenos
+- Ph neutro
+- Jabón líquido en formato de 750 ml
+- Gel de Baño y Ducha con fórmula muy suave de Ph Neutro, que puede ser usado a diario con seguridad, ya que ha sido dermatológicamente testado.
 - Sin colorantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
