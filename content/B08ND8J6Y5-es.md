@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Libre de alérgenos
 - Producto sometido a estrictos controles de calidad
-- Mantener en un lugar fresco y seco
 - Obtenido a partir de la mezcla de aceite de oliva virgen y aceite refinado
+- Libre de alérgenos
+- Mantener en un lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
