@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pata Negra Crianza Vino Tinto D.O Valdepeñas - Caja de 6 Botellas x 750 ml'
-date: 2022-11-04 16:06:55
+date: 2022-11-05 21:16:28
 image: 'https://m.media-amazon.com/images/I/51KLdIQb-1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pata Negra'
 buyurl: 'https://www.amazon.es/dp/B00O224XBO/?tag=tolees-21'
 descuento: '15.69'
-average: '16.7933333333333'
+average: '16.758'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apariencia: Vino tinto de color rojo picota cubierto, con ribete violáceo, limpio y brillante.
-- Gusto: En boca manifiesta buena estructura, es suave y redondo; Se muestra claramente frutal, persistente, largo y con un postgusto tostado.
 - Maridaje: Este vino combina muy bien con todo tipo de pescados al horno, lasañas y risotto de hongos.
+- Gusto: En boca manifiesta buena estructura, es suave y redondo; Se muestra claramente frutal, persistente, largo y con un postgusto tostado.
+- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos servir entre 14ºC y 16ºC.
+- Apariencia: Vino tinto de color rojo picota cubierto, con ribete violáceo, limpio y brillante.
 - Tipo de uva: Elaborado a base de uva Tempranillo y tras la fermentación maloláctica, se lleva a barricas de roble francés donde permanece durante 6 meses; Trascurrido este tiempo es envasado y criado en botella
 - Aroma: Perfil aromático con notas ahumadas bien integradas con frutas varietales; Se intuye también un fondo de vainilla propio de la buena crianza en barrica
-- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos servir entre 14ºC y 16ºC.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
