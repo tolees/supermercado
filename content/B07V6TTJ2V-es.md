@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es un esmalte de uñas de larga duración que utiliza el sistema de color en gel de dos pasos
-- El esmalte le da a las uñas un color de gel intenso y brillo sin ensuciar ni dañar
-- No hay salones ni lámparas UV requerido
-- Una capa superior de gel duradero brinda un acabado de alto brillo para un uso duradero
 - Fácil de aplicar y quitar
+- El esmalte le da a las uñas un color de gel intenso y brillo sin ensuciar ni dañar
+- Es un esmalte de uñas de larga duración que utiliza el sistema de color en gel de dos pasos
+- Una capa superior de gel duradero brinda un acabado de alto brillo para un uso duradero
+- No hay salones ni lámparas UV requerido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
