@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las notas olfativas principales de este producto son fresco naturaleza y floral.
 - De la marca Angel Schlesser.
 - Este producto está indicado para hombres.
 - Contiene 125 ml.
+- Las notas olfativas principales de este producto son fresco naturaleza y floral.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
