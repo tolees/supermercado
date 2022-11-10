@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ana María Lajusticia - Ana Maria Lajusticia - Triptófano con melatonina + magnesio + VIT B6 – 60 comprimidos. Induce al sueño y mejora la calidad del sueño. Apto para veganos. Envase para 30 días de tratamiento.'
-date: 2022-10-30 09:00:35
+date: 2022-11-10 13:21:40
 image: 'https://m.media-amazon.com/images/I/41C7Y9C04EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ana María Lajusticia'
 buyurl: 'https://www.amazon.es/dp/B076CGCBR4/?tag=tolees-21'
 descuento: '28.75'
-average: '9.63945652173908'
+average: '9.64585106382974'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El triptófano actúa como precursor de la serotonina, un neurotransmisor implicado en la regulación del estado anímico, el estrés, y el descanso.
-- El magnesio contribuye a disminuir el cansancio y la fatiga.
-- Los aminoácidos son imprescindibles para muchos de los procesos de nuestro metabolismo
 - El L-triptófano es un aminoácido esencial, lo que significa que nuestro organismo no puede producirlo por sí mismo y debe ser adoptado de manera exógena al organismo.
+- El triptófano actúa como precursor de la serotonina, un neurotransmisor implicado en la regulación del estado anímico, el estrés, y el descanso.
 - La melatonina es una hormona que mejora la calidad del sueño y refuerza el sistema inmunológico. El triptófano con magnesio y vitamina B6, ayuda a la producción de esta dentro del organismo.
+- Los aminoácidos son imprescindibles para muchos de los procesos de nuestro metabolismo
+- El magnesio contribuye a disminuir el cansancio y la fatiga.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
