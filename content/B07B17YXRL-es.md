@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta caja contiene 25 tabletas de chocolate con dulce de leche de 120g
-- Exquisita tableta rellena con una receta que te envolverá
 - Un sabor único e inolvidable que apasiona a toda la familia
+- Esta caja contiene 25 tabletas de chocolate con dulce de leche de 120g
 - Deliciosa tableta de chocolate con leche extrafino rellena de cremoso dulce de leche
+- Exquisita tableta rellena con una receta que te envolverá
 - Chocolate con 100% aromas naturales
 - 100% cacao de cultivo sostenible seleccionado a través de NM21:Q21ESTLE Cocoa Plan Certificado UTZ
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Calme Curcuma - Espuma limpiadora facial  1 botella dosificadora de 150 ml'
-date: 2022-11-09 12:00:30
+date: 2022-11-10 15:54:32
 image: 'https://m.media-amazon.com/images/I/41pAfBo6HUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - La espuma limpiadora Calme Curcuma elimina las impurezas, el exceso de grasa y el maquillaje de la piel con suavidad
 - 1 frasco dosificador de 150 ml.
-- Su fórmula no grasa y no comedogénica se enjuaga fácilmente sin dejar residuos
 - Especialmente adecuada para pieles sensibles con imperfecciones gracias a sus propiedades calmantes
+- Su fórmula no grasa y no comedogénica se enjuaga fácilmente sin dejar residuos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
