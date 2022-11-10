@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en lugar fresco y seco
-- Chocolate con leche de la marca Milka, en una tableta clásica de 125 g
-- La versión clásica del chocolate Milka, delicioso por sí solo o acompañado de tus aperitivos favoritos
-- Alérgenos: Contiene leche, soja y avellanas, puede contener otros frutos de cáscara y trigo
 - Elaborado con 100% leche de los Alpes, que aporta una textura suave con un sabor intenso
+- Chocolate con leche de la marca Milka, en una tableta clásica de 125 g
+- Alérgenos: Contiene leche, soja y avellanas, puede contener otros frutos de cáscara y trigo
+- La versión clásica del chocolate Milka, delicioso por sí solo o acompañado de tus aperitivos favoritos
+- Conservar en lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
