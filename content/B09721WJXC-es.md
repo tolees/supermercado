@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grefusa Snatt S Palitos con Pipas  4 x 40g'
-date: 2022-11-04 22:40:17
+date: 2022-11-16 08:13:23
 image: 'https://m.media-amazon.com/images/I/51khdeWnWCS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Grefusa'
 buyurl: 'https://www.amazon.es/dp/B09721WJXC/?tag=tolees-21'
 descuento: '0.00'
-average: '2.41'
+average: '2.43'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pais de origenes España
 - Snack elaborado con aceite de girasol
+- Palitos de pan con semillas de girasol y aceite de oliva
+- Pais de origenes España
 - Conservar en lugar fresco y seco
 - Alergenos: cacahuetes, frutos de cáscara, leche, soja, trigo
-- Palitos de pan con semillas de girasol y aceite de oliva
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
