@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- (7640163970029)
-- Hombres Bentley
 - Agua de perfume para hombres Perfumes y fragancias Hombre
+- Hombres Bentley
+- (7640163970029)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Genérico - Kit Barba Cuidado para Hombres - Regalo San Valentin Hombre  Set de Afeitado y Recorte Incluye Maquinilla de Afeitar  Aceite  Crema Barba  Champú  Cepillo de Cerdas  Peine'
-date: 2022-11-09 09:00:09
+date: 2022-11-16 20:46:50
 image: 'https://m.media-amazon.com/images/I/51oju+Ny3ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Genérico'
 buyurl: 'https://www.amazon.es/dp/B09K7VMTNJ/?tag=tolees-21'
 descuento: '0.00'
-average: '23.72'
+average: '23.845'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
