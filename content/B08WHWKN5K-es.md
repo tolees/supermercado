@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nuestra crema de chocolate orgánica Fabalous es una deliciosa combinación de avellanas, cacao y garbanzos. Esta crema de chocolate se puede disfrutar sin sentir culpa, ya que utilizamos un 57% menos de azúcar y un 81% más de proteínas que la marca líder.
-- Fabalous es 100% vegetal, ya que no se utilizan lácteos y además no contiene aceite de palma, gluten y soja.
-- Perfecto para usar sobre panqueques o tostadas para un desayuno indulgente, o simplemente tomalo directamente del frasco, sin culpa.
 - Ganador de el Nourish Awards 2021.
+- Fabalous es 100% vegetal, ya que no se utilizan lácteos y además no contiene aceite de palma, gluten y soja.
+- Nuestra crema de chocolate orgánica Fabalous es una deliciosa combinación de avellanas, cacao y garbanzos. Esta crema de chocolate se puede disfrutar sin sentir culpa, ya que utilizamos un 57% menos de azúcar y un 81% más de proteínas que la marca líder.
+- Perfecto para usar sobre panqueques o tostadas para un desayuno indulgente, o simplemente tomalo directamente del frasco, sin culpa.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
