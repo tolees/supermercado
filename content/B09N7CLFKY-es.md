@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bajo en azúcar (mezclado con agua) e sin gluten
-- Apto para vegetarianos
-- 25 g de proteína de suero de leche de calidad superior por porción
-- Cada porción contiene 5,8–6,1 g de aminoácidos ramificados, incluidos 2,6–2,7 g del importante aminoácido L-leucina, según el sabor
 - Sometido a pruebas efectuadas por “Informed Choice” para descartar la existencia de substancias prohibidas, con el fin de brindar la garantía necesaria para los deportistas y ofrecer la calidad de producto más elevada
+- Cada porción contiene 5,8–6,1 g de aminoácidos ramificados, incluidos 2,6–2,7 g del importante aminoácido L-leucina, según el sabor
+- Apto para vegetarianos
+- Bajo en azúcar (mezclado con agua) e sin gluten
+- 25 g de proteína de suero de leche de calidad superior por porción
 
 [🛒 Visítala!!!]({{< param buyurl >}})
