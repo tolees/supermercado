@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huesitos - Tableta de Chocolate Blanco con inclusiones de Barquillo relleno de Cacao y Galleta. Chocolate Blanco con Crujiente Barquillo y Galleta - Tableta de 125 Gramos'
-date: 2022-11-17 06:31:16
+date: 2022-11-18 06:33:36
 image: 'https://m.media-amazon.com/images/I/41DdaTf5NPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Huesitos'
 buyurl: 'https://www.amazon.es/dp/B09GVNB894/?tag=tolees-21'
 descuento: '18.87'
-average: '1.437'
+average: '1.42363636363636'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Azúcar, manteca de cacao, leche desnatada en polvo, lactosuero en polvo (leche), harina de trigo (gluten), mantequilla concentrada (leche), grasa vegetal (palma y palmiste), pasta de cacao, cacao desgrasado en polvo, almidón de trigo (gluten), malta de trigo en polvo (gluten), sirope de azúcar caramelizado, emulsionante: lecitina de soja, gasificante: bicarbonato de sodio, sal, aromas.
-- Contiene leche, gluten y soja.
 - Un snack perfecto con la deliciosa mezcla de Choco Blanco, Galleta y Barquillo relleno de Cacao.
+- Contiene leche, gluten y soja.
+- Azúcar, manteca de cacao, leche desnatada en polvo, lactosuero en polvo (leche), harina de trigo (gluten), mantequilla concentrada (leche), grasa vegetal (palma y palmiste), pasta de cacao, cacao desgrasado en polvo, almidón de trigo (gluten), malta de trigo en polvo (gluten), sirope de azúcar caramelizado, emulsionante: lecitina de soja, gasificante: bicarbonato de sodio, sal, aromas.
 - Tableta de Chocolate Blanco con deliciosos trocitos de Barquillo relleno de Cacao Valor y Galleta. 125 Gramos.
 - Molde distintivo del tradicional Huesitos con la combinación de Barquillo y Galleta.
 
