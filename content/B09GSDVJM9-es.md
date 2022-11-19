@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cia&Co - Lote envuelto para Regalo con +45 Dulces Variados y 500 grs de Chuches Sin Gluten. Con Tarjeta Dedicada Personalizada y Regalices  Caramelos  Kit Kat  Mars  Huesitos  Twix  y Golosinas para Regalo'
-date: 2022-11-18 04:03:37
+date: 2022-11-19 04:14:04
 image: 'https://m.media-amazon.com/images/I/614Wi8Y30mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cia&Co'
 buyurl: 'https://www.amazon.es/dp/B09GSDVJM9/?tag=tolees-21'
 descuento: '20.40'
-average: '17.5357142857143'
+average: '17.31875'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
