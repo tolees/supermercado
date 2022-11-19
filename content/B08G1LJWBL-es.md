@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York Superstay Matte Ink - Pintalabios Líquido Mate  260 Hazelnut Hypnotizer  5 ml'
-date: 2022-11-17 12:14:25
+date: 2022-11-18 21:06:12
 image: 'https://m.media-amazon.com/images/I/217lu4nKb9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08G1LJWBL-es Maybelline New York Superstay Matte Ink - Pintalabios...'
 sku: 'B08G1LJWBL-es'
 tags: [ 'Belleza','Maquillaje','Maquillajes labiales','Pintalabios','maybelline','maybelline new york','🇪🇸', ]
-actualPrice: 5.9 EUR
+actualPrice: 6.75 EUR
 currency: EUR
-price: 5.9
+price: 6.75
 comparePrice: 9.99 EUR
 prodname: 'Maybelline New York Superstay Matte Ink - Pintalabios Líquido Mate  260 Hazelnut Hypnotizer  5 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Maybelline New York'
 buyurl: 'https://www.amazon.es/dp/B08G1LJWBL/?tag=tolees-21'
-descuento: '40.94'
-average: '6.45625'
+descuento: '32.43'
+average: '6.48888888888889'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
