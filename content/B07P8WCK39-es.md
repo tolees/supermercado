@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Aroma agradable, juvenil y a la vez muy elegante
+- Una fragancia fresca y delicada, como una canción divertida con un aroma dulce
 - Con notas de mandarina, lavanda y menta de albahaca
 - Esencia fresca y floral
 - Eau de toilette para mujer - 200 ml
-- Una fragancia fresca y delicada, como una canción divertida con un aroma dulce
 
 [🛒 Comprar!!!]({{< param buyurl >}})
