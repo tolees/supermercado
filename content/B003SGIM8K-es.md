@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Elaboración artesanal
-- Sin conservantes ni colorantes
 - Deliciosa crema de chocolate blanco para untar
+- Sin conservantes ni colorantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

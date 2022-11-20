@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LARGA DURACIÓN: con cada recambio conseguirás hasta 70 días de fragancia
-- DISEÑO ELEGANTE Y PORTÁTIL: podrás utilizarlo en cualquier rincón de tu casa como el baño o el salón, dándole un toque aún más sofisticado a tu hogar
-- FRAGANCIA LIRIO DE LUNA Y SATÉN DE SEDA: una lujosa combinación de lirios, rosas y peonias envueltas en suaves notas de vainilla
-- NIVELES DE INTENSIDAD REGULABLES: elige entre tres niveles de intensidad para conseguir tu nivel de fragancia deseada
-- AMBIENTADOR SPRAY AUTOMÁTICO: pack de 6 recambios para el ambientador automático Air Wick Freshmatic
 - ELIMINA OLORES: gracias a su tecnología Odor Stop, elimina los malos olores y perfuma tu hogar de forma continua
+- FRAGANCIA LIRIO DE LUNA Y SATÉN DE SEDA: una lujosa combinación de lirios, rosas y peonias envueltas en suaves notas de vainilla
+- DISEÑO ELEGANTE Y PORTÁTIL: podrás utilizarlo en cualquier rincón de tu casa como el baño o el salón, dándole un toque aún más sofisticado a tu hogar
+- NIVELES DE INTENSIDAD REGULABLES: elige entre tres niveles de intensidad para conseguir tu nivel de fragancia deseada
+- LARGA DURACIÓN: con cada recambio conseguirás hasta 70 días de fragancia
+- AMBIENTADOR SPRAY AUTOMÁTICO: pack de 6 recambios para el ambientador automático Air Wick Freshmatic
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

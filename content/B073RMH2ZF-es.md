@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - En boca es suave y cremoso, se percibe la turba con vainilla, mazapán, manzana y cítricos
-- Es ideal para disfrutar en buena compañía, solo o con ginger ale y una rodaja de naranja
 - De color ámbar dorado y apariencia ligera
-- En nariz percibimos intensos aromas florales, notas especiadas, ahumados, hierba fresca, toques de miel y brezo
 - Envejecido durante 8 años en barricas de roble americano
+- En nariz percibimos intensos aromas florales, notas especiadas, ahumados, hierba fresca, toques de miel y brezo
+- Es ideal para disfrutar en buena compañía, solo o con ginger ale y una rodaja de naranja
 
 [🛒 Visítala!!!]({{< param buyurl >}})
