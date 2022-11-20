@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un sabor único e inolvidable que apasiona a toda la familia
 - Chocolate con 100% aromas naturales
-- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
 - Deliciosa tableta de chocolate con leche, con un relleno único
+- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
 - Esta caja contiene 25 tabletas de chocolate con tres chocolates 120g
+- Un sabor único e inolvidable que apasiona a toda la familia
 - Deliciosa tableta de chocolate con leche extrafino relleno de tres chocolates
 
 [🛒 Comprar!!!]({{< param buyurl >}})
