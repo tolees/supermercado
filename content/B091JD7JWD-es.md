@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FLOR CANELA DESIGN - Colgantes Mujer diseño unico  Collar Largo Hecho a Mano. Bisutería Accesorio de moda. Regalos para Mujer  53 cm AC-00010'
-date: 2022-11-19 22:47:50
+date: 2022-11-20 23:02:36
 image: 'https://m.media-amazon.com/images/I/31H1Y2fEy5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
