@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RITUALS Cesta Regalo del Ritual of Mehr  Tamaño Mediano - Con Naranja Dulce y Madera de Cedro - Propiedades Energizantes y Estimulantes con Vitamina C'
-date: 2022-11-20 04:51:06
+date: 2022-11-21 05:01:53
 image: 'https://m.media-amazon.com/images/I/311tYiqbBxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'RITUALS'
 buyurl: 'https://www.amazon.es/dp/B09CV9DBXX/?tag=tolees-21'
 descuento: '20.00'
-average: '31.41'
+average: '30.2466666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
