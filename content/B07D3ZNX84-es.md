@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Victoria Cerveza - Paquete de 24 x 330 ml - Total: 7920 ml'
-date: 2022-11-21 08:53:12
+date: 2022-11-22 11:31:25
 image: 'https://m.media-amazon.com/images/I/4142B5D-W1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Victoria'
 buyurl: 'https://www.amazon.es/dp/B07D3ZNX84/?tag=tolees-21'
 descuento: '17.54'
-average: '12.39'
+average: '12.3607894736842'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
