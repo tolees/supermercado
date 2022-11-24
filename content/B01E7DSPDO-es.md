@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lagavulin 8  whisky escocés single malt  700 ml'
-date: 2022-11-18 06:06:25
+date: 2022-11-24 13:47:11
 image: 'https://m.media-amazon.com/images/I/41oZAytnapL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LAGAVULIN'
 buyurl: 'https://www.amazon.es/dp/B01E7DSPDO/?tag=tolees-21'
 descuento: '30.40'
-average: '51.56'
+average: '50.6133333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con un color dorado, en nariz se aprecia su ligereza, frescura y las notas a chocolate con leche, limón y marítimas; con toques de carbón, menta y chocolate negro en boca, y paladar ahumado y duradero
 - Su destilación se realiza en alambiques de pera de cobre
-- Un whisky que siempre aprecia ser servido solo o con hielo
 - Graduación alcohólica: 48 %
 - Un producto de gran profundidad y personalidad que rinde homenaje a la crítica del afamado periodista y cronista de whiskies, Alfred Barnard
+- Un whisky que siempre aprecia ser servido solo o con hielo
 - Tras el éxito del año pasado, Lagavulin 8 vuelve por demanda popular
-- Con un color dorado, en nariz se aprecia su ligereza, frescura y las notas a chocolate con leche, limón y marítimas; con toques de carbón, menta y chocolate negro en boca, y paladar ahumado y duradero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
