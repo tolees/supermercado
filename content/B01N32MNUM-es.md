@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ginebra Premium Nordés - 1 botella 1L'
-date: 2022-11-24 17:33:18
+date: 2022-11-25 17:53:26
 image: 'https://m.media-amazon.com/images/I/418o8kZj48L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nordés'
 buyurl: 'https://www.amazon.es/dp/B01N32MNUM/?tag=tolees-21'
 descuento: '21.91'
-average: '26.3989285714287'
+average: '26.3503448275863'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
