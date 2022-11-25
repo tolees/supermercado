@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contenido de alcohol: 40% alcohol
-- Laborada mediante un proceso lento y cuidado
 - Adecuada para regalo y celebraciones
+- Laborada mediante un proceso lento y cuidado
 - Botella inspirada en la cerámica gallega de Sargadelos
+- Contenido de alcohol: 40% alcohol
 
 [🛒 Visítala!!!]({{< param buyurl >}})
