@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mahou 5 Estrellas - Cerveza Dorada Lager  Pack de 24 Latas x 25 cl - 5 5 % Volumen de Alcohol'
-date: 2022-11-20 12:37:25
+date: 2022-11-25 04:01:19
 image: 'https://m.media-amazon.com/images/I/51Opo1Dxe5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mahou'
 buyurl: 'https://www.amazon.es/dp/B09H39QJZR/?tag=tolees-21'
 descuento: '24.05'
-average: '10.79'
+average: '10.7633333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
