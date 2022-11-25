@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este whisky es para aquellos que han entrado en el mundo del whisky, pero no han encontrado una marca favorita, porque ninguna se ajusta a su estilo de vida.
-- En boca da paso a sabores dulces y notas sutiles de cacao, fusionados con matices de madera. Con un final que se hace eterno en boca.
-- Se recomienda tomar en las rocas, o en un cóctel con 50ml de Seagrams Whisky, 250ml de tu mixer favorito, un twist de lima, servido en una copa con mucho hielo.
-- De color ámbar y oro profundo. En nariz una primera sensación a fruta madura como melocotón y albaricoque, para después emerger unas notas cítricas como cáscara de naranja, aromas a vainilla y canela, y sutiles notas tostadas y ahumadas.
 - Seagrams Whisky mantiena la fuerza del whisky escocés pero con todos los beneficios del bourbon americano.
+- De color ámbar y oro profundo. En nariz una primera sensación a fruta madura como melocotón y albaricoque, para después emerger unas notas cítricas como cáscara de naranja, aromas a vainilla y canela, y sutiles notas tostadas y ahumadas.
+- Este whisky es para aquellos que han entrado en el mundo del whisky, pero no han encontrado una marca favorita, porque ninguna se ajusta a su estilo de vida.
+- Se recomienda tomar en las rocas, o en un cóctel con 50ml de Seagrams Whisky, 250ml de tu mixer favorito, un twist de lima, servido en una copa con mucho hielo.
+- En boca da paso a sabores dulces y notas sutiles de cacao, fusionados con matices de madera. Con un final que se hace eterno en boca.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
