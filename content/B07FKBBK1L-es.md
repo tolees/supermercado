@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Ayuda a reponer las ceramidas naturales de la piel para reforzar la barrera de hidratación de la piel
 - Mejora la apariencia del tono y elasticidad de la piel
-- Mejora el colágeno natural de la piel para reducir visiblemente las líneas y arrugas
 - Promueve el alisamiento de las arrugas
+- Mejora el colágeno natural de la piel para reducir visiblemente las líneas y arrugas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

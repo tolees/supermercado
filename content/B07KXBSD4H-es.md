@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tomar 1 vial al día
 - Indicada en adultos y niños mayores de 14 años
+- Tomar 1 vial al día
+- Aporta energía extra y favorece el rendimiento físico e intelectual
 - Con ingredientes de origen natural; sin gluten; sin lactosa
 - Ingredientes: Agua, Extracto de frutas (algarroba, uva y manzana), jalea real liofilizada, ácido L-ascórbico (vitamina C), extracto seco de raíz de ginseng (Panax ginseng), acetato de tocoferol (vitamina E), L-lisina, L-glutamina, conservante: sorbato potástico, aroma de piña, acidulante, ácido cítrico, nicotinamida (vitamina B3), gluconato de zinc, D-pantotenato de calcio (vitamina B5), acetato de retinol (vitamina A), clorohidrato de piridoxina (vitamina B6), riboflavina (vitamina B2), clorohidrato de tiamina (vitamina B1), ácido fólico (vitamina B9), D-biotina, selenito sódico, colecalciferol (vitamina D), cianocobalamina (vitamina B12).
-- Aporta energía extra y favorece el rendimiento físico e intelectual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
