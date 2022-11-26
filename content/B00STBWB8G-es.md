@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oreal Paris Men Expert - Cuidado hidratante anti-arrugas de expresión Stop Arrugas  50 ml'
-date: 2022-11-24 10:24:28
+date: 2022-11-25 21:15:10
 image: 'https://m.media-amazon.com/images/I/41A3pF6FhkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LOreal Paris Men Expert'
 buyurl: 'https://www.amazon.es/dp/B00STBWB8G/?tag=tolees-21'
 descuento: '62.83'
-average: '7.29622950819672'
+average: '7.28645161290322'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
