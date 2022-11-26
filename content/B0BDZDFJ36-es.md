@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con cereales integrales
 - 0% azúcares añadidos; contiene los naturalmente presentes
-- Nuestros cereales provienen de cultivos sostenibles para bebés
-- Cada ración de cereales Nestlé (preparada con Nidina 3) aporta el 50% de hierro necesario diario para ayudar a un desarrollo cognitivo normal
 - Con cacao natural, así tu peque podrá disfrutar de una experiencia de sabor a cacao
+- Nuestros cereales provienen de cultivos sostenibles para bebés
+- Con cereales integrales
+- Cada ración de cereales Nestlé (preparada con Nidina 3) aporta el 50% de hierro necesario diario para ayudar a un desarrollo cognitivo normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
