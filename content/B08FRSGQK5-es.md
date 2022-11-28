@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Café de Ruanda. Tostado y envasado en Bélgica
-- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
+- Apto para dietas vegetarianas y veganas
 - Un café 100 % arábica suave y delicado, con un ligero final ácido y cultivado en Ruanda, la tierra de las mil colinas
 - 100 % Arábica. Intensidad: 4/5
+- Café de Ruanda. Tostado y envasado en Bélgica
 - 80 cápsulas: 4 x 20 cápsulas
-- Apto para dietas vegetarianas y veganas
+- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
