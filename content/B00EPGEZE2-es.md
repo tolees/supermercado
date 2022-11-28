@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Agua de perfume
 - Un hogar de fragancias contemporáneas
-- 125 ml
 - Mezclado con la más alta calidad de ingredientes raros y lujosos procedentes
+- 125 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
