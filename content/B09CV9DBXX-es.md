@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Kit Regalo de Lujo: Este juego de baño y ducha es ideal como regalo especial para ti, o como regalo de cumpleaños y fiestas para tus seres queridos, o simplemente para hacerles saber que te acuerdas de ellos
-- Ingredientes que Iluminan: Los exclusivos componentes de este estuche regalo contienen naranja dulce que embellece la piel. Es rica en vitamina C, y se sabe que ayuda a vigorizar la piel con un brillo saludable
 - The Ritual of Mehr: Inspirado en el sol, este cofre de regalo de artículos de aseo mejora el estado de ánimo y vigoriza el alma. Celebra la alegría que llega desde la intensa y brillante energía del sol, y orienta esa vitalidad hacia tu vida
 - Aroma Energizante: Este set regalo presenta una nota cítrica de ralladura de bergamota, matices aromáticos de pimienta blanca y cardamomo, un corazón floral de jazmín, la frescura del té blanco y un fondo de madera de cedro, nuez moscada y almizcle
+- Kit Regalo de Lujo: Este juego de baño y ducha es ideal como regalo especial para ti, o como regalo de cumpleaños y fiestas para tus seres queridos, o simplemente para hacerles saber que te acuerdas de ellos
+- Ingredientes que Iluminan: Los exclusivos componentes de este estuche regalo contienen naranja dulce que embellece la piel. Es rica en vitamina C, y se sabe que ayuda a vigorizar la piel con un brillo saludable
 - Completa el Ritual: Este maravilloso set de baño y ducha de tamaño mediano contiene una espuma de ducha, un exfoliante corporal, una crema corporal y un ambientador. Descubre The Ritual of Mehr al completo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
