@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De alta calidad
-- Energizante, refrescante y vivificante
-- Con una infusión de una mezcla de miel real y extracto de té verde fragante
 - Ayuda a calmar y acondicionar la piel seca
+- De alta calidad
+- Con una infusión de una mezcla de miel real y extracto de té verde fragante
+- Energizante, refrescante y vivificante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
