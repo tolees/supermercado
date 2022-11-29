@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hacienda Ortigosa  Aceite de oliva  Virgen extra  - 3l.'
-date: 2022-11-21 07:30:28
+date: 2022-11-29 15:30:42
 image: 'https://m.media-amazon.com/images/I/51oI8fwX5pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% Zumo de fruta
-- 100% variedad arbequina
 - Extracción en frío
 - Tiene un sabor almendrado, muy dulce y agradable
+- 100% Zumo de fruta
+- 100% variedad arbequina
 - Producción propia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
