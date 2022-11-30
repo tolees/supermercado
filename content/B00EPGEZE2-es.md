@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 125 ml
-- Un hogar de fragancias contemporáneas
 - Mezclado con la más alta calidad de ingredientes raros y lujosos procedentes
+- Un hogar de fragancias contemporáneas
 - Agua de perfume
+- 125 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
