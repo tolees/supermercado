@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Licor43 Chocolate es ideal después de la comida o cena como postre para disfrutar con amigos o familiares. Para darte un capricho, para elaborar recetas culinarias y para hacer cocktails
 - CREA POSTRES. Es un aliado perfecto para recetas de cocina a la hora de crear postres, diseñar nuevos cócteles… Una bebida única y especial
 - DESCRIPTOR SENSORIAL. De perfil complejo pero armónico, con un color chocolate con leche oscuro y cremoso, con reflejos dorados. Intensas notas de cacao con un ligero toque ácido que aporta frescura al aroma dulce y a vainilla. La textura del chocolate añade intensidad a esta sensación de notar como se derrite un bombón en tu boca
+- Licor43 Chocolate es ideal después de la comida o cena como postre para disfrutar con amigos o familiares. Para darte un capricho, para elaborar recetas culinarias y para hacer cocktails
 - CACAO 100 % SOSTENIBLE. Inspirado en la mejor tradición chocolatera española para crear una bebida que combina el característico sabor de Licor 43 Original con chocolate elaborado a partir de cacao 100% sostenible
 - DELICIA PARA EL PALADAR. Licor 43 Chocolate es una tentación para el paladar, donde se unen ligeros tonos ácidos y sutiles tonalidades florales cacao formando un perfecto equilibrio con los matices de Licor 43
 
