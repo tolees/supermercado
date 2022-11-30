@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Duron - Durón – Vino Tinto Crianza 2018 Denominación de Origen Ribera del Duero  Variedad Tinta del País  12 meses en barrica – Caja de 6 botellas x 750 ml – Total: 4500 ml'
-date: 2022-11-27 09:19:11
+date: 2022-11-30 00:00:13
 image: 'https://m.media-amazon.com/images/I/413UQXGG9jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Duron'
 buyurl: 'https://www.amazon.es/dp/B08BZTVMW4/?tag=tolees-21'
 descuento: '0.00'
-average: '46.118'
+average: '46.216875'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Variedad de uva: 100% Tinta del país
+- COLOR: Limpio y brillante, tonalidades rojo picota con ribetes color rubí.
+- CRIANZA: Crianza de 12 meses en barrica de roble americano y francés
 - BOCA: Equilibrado, sabroso, redondo y estructurado. Largo, con taninos muy pulidos y notable persistencia aromática.
 - AROMA: Varietales a frutos negros (mora), matices especiados y de madera de roble bien integrados.
-- CRIANZA: Crianza de 12 meses en barrica de roble americano y francés
-- COLOR: Limpio y brillante, tonalidades rojo picota con ribetes color rubí.
+- Variedad de uva: 100% Tinta del país
 
 [🛒 Comprar!!!]({{< param buyurl >}})
