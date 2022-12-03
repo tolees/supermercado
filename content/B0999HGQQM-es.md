@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Qué obtengo: Este trío de champú, acondicionador y mascarilla púrpura contiene 1 champú (237 ml), 1 acondicionador (237 ml) y 1 mascarilla (200 ml). Este increíble set combina toda nuestra gama principal, ¡empaquetada en una impresionante caja de regalo!
-- Belleza eco-responsable: BOLD UNIQ se esfuerza por ofrecerte opciones de belleza sostenibles. Estamos orgullosos de ser libres de parabenos y sulfatos. Estamos aprobados por PETA como libres de crueldad y 100% veganos. Y eso no es todo, nuestros frascos y tarros están hechos de plástico reciclado post-consumo.
 - Mascarilla capilar púrpura: Una mascarilla capilar pigmentada que levantará y potenciará tu cabello apagado. Disfruta de los beneficios hidratantes de esta mascarilla púrpura y tus mechones lisos, sedosos y brillantes serán tuyos, con una sola aplicación.
+- Qué obtengo: Este trío de champú, acondicionador y mascarilla púrpura contiene 1 champú (237 ml), 1 acondicionador (237 ml) y 1 mascarilla (200 ml). Este increíble set combina toda nuestra gama principal, ¡empaquetada en una impresionante caja de regalo!
 - Champú violeta: Con un poder púrpura excepcional, este champú matiza cualquier color amarillo de tu cabello. Conseguirás un color fresco desde la comodidad de tu casa. Puede usarse a diario para mantener un aspecto elegante y plateado, o cada pocos lavados para refrescar el color natural que te gusta.
 - Acondicionador violeta: ¡Este acondicionador hidratante hace maravillas en el cabello rubio! Su naturaleza nutritiva lo convierte en el remedio perfecto para la potencia de nuestro champú. Con una textura rica y lujosa, este acondicionador completará tu look.
+- Belleza eco-responsable: BOLD UNIQ se esfuerza por ofrecerte opciones de belleza sostenibles. Estamos orgullosos de ser libres de parabenos y sulfatos. Estamos aprobados por PETA como libres de crueldad y 100% veganos. Y eso no es todo, nuestros frascos y tarros están hechos de plástico reciclado post-consumo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
