@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Charrier Parfums Caja Luxe Top Ten De 10 Eau De Parfum En Miniaturas Color Rojo 52 7 ml'
-date: 2022-12-02 23:02:05
+date: 2022-12-03 23:21:44
 image: 'https://m.media-amazon.com/images/I/51BoiLJazYS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B008KZBAII-es Charrier Parfums Caja Luxe Top Ten De 10 Eau De Parfum En...'
 sku: 'B008KZBAII-es'
 tags: [ 'Agua de perfume para mujeres','Belleza','Fragancias para mujeres','Perfumes y fragancias','charrier parfums','de','eau','parfum','🇪🇸', ]
-actualPrice: 19.71 EUR
+actualPrice: 19.67 EUR
 currency: EUR
-price: 19.71
-comparePrice: 21.29 EUR
+price: 19.67
+comparePrice: 21.45 EUR
 prodname: 'Charrier Parfums Caja Luxe Top Ten De 10 Eau De Parfum En Miniaturas Color Rojo 52 7 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'CHARRIER PARFUMS'
 buyurl: 'https://www.amazon.es/dp/B008KZBAII/?tag=tolees-21'
-descuento: '7.42'
-average: '19.2819255663432'
+descuento: '8.30'
+average: '19.2825525040389'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
