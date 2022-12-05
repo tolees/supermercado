@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Información de alérgenos: Milk
-- Alérgenos: leche, grasa láctea, avellanas, almendras, frutos de cáscara y gluten
-- Ingredientes: Azúcar, cacao, manteca de cacao, jarabe de glucosa, jarabe de glucosa y fructosa, LECHE, grasa LÁCTEA, pasta de AVELLANAS, humectante (sorbitol) LECHE condensada (LECHE, azúcar) suero de LECHE en polvo, habas de cacao tostadas, ALMENDRAS, trocitos de AVELLANAS, emulgente (lecitina de girasol) trocitos de frambuesa, sal, estabilizante (invertasa) aromas naturales de vainilla, aromas naturales. Puede contener otros FRUTOS DE CÁSCARA y GLUTEN
-- País de origen: España
-- Rico sabor
-- Instrucciones para su uso adecuado: Te recomendamos que siempre leas las etiquetas, advertencias e instrucciones del embalaje del producto antes de utilizarlo o consumirlo, ya que podrás encontrar información más detallada y actualizada sobre el mismo
 - Muy útil para ti y tu hogar
+- Alérgenos: leche, grasa láctea, avellanas, almendras, frutos de cáscara y gluten
+- Rico sabor
+- Ingredientes: Azúcar, cacao, manteca de cacao, jarabe de glucosa, jarabe de glucosa y fructosa, LECHE, grasa LÁCTEA, pasta de AVELLANAS, humectante (sorbitol) LECHE condensada (LECHE, azúcar) suero de LECHE en polvo, habas de cacao tostadas, ALMENDRAS, trocitos de AVELLANAS, emulgente (lecitina de girasol) trocitos de frambuesa, sal, estabilizante (invertasa) aromas naturales de vainilla, aromas naturales. Puede contener otros FRUTOS DE CÁSCARA y GLUTEN
+- Información de alérgenos: Milk
+- Instrucciones para su uso adecuado: Te recomendamos que siempre leas las etiquetas, advertencias e instrucciones del embalaje del producto antes de utilizarlo o consumirlo, ya que podrás encontrar información más detallada y actualizada sobre el mismo
+- País de origen: España
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
