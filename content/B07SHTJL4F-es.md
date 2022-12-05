@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOM Love - Ginebra Premium - Elaborada con Fresas - 700 ml'
-date: 2022-11-29 23:59:32
+date: 2022-12-05 11:03:05
 image: 'https://m.media-amazon.com/images/I/41hYcfZMsoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07SHTJL4F-es MOM Love - Ginebra Premium - Elaborada con Fresas - 700 ml'
 sku: 'B07SHTJL4F-es'
 tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Ginebras','ginebra','mom','🇪🇸', ]
-actualPrice: 12.4 EUR
+actualPrice: 10.54 EUR
 currency: EUR
-price: 12.4
+price: 10.54
 comparePrice: 12.4 EUR
 prodname: 'MOM Love - Ginebra Premium - Elaborada con Fresas - 700 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'MOM'
 buyurl: 'https://www.amazon.es/dp/B07SHTJL4F/?tag=tolees-21'
-descuento: '0.00'
-average: '11.6744827586207'
+descuento: '15.00'
+average: '11.6366666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Porcentaje de alcohol: 37.5%
-- Notas delicadas de fresa y un suave final
 - Tamaño: 700 ml
+- Notas delicadas de fresa y un suave final
 - Conservar en lugar seco, sin iluminación directa
+- Porcentaje de alcohol: 37.5%
 
 [🛒 Comprar!!!]({{< param buyurl >}})

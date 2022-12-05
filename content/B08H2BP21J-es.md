@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jordan* - Jordan ® | Step 2 | Cepillo de dientes para niños de 3 a 5 años | 4 unidades'
-date: 2022-11-30 07:00:05
+date: 2022-12-05 10:58:52
 image: 'https://m.media-amazon.com/images/I/51yxwZr01oS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jordan*'
 buyurl: 'https://www.amazon.es/dp/B08H2BP21J/?tag=tolees-21'
 descuento: '0.00'
-average: '9.07333333333333'
+average: '9.28'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
