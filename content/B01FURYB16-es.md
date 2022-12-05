@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español Avena Crema Hidratante Corporal - 50 ML'
-date: 2022-11-26 21:17:36
+date: 2022-12-04 20:48:02
 image: 'https://m.media-amazon.com/images/I/31X5D5Dwu7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B01FURYB16/?tag=tolees-21'
 descuento: '0.00'
-average: '1.00040000000001'
+average: '1.00039215686275'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para Cuerpo y Manos
 - Avena 100% Natural
 - En Formato Bolsillo
 - Elasticidad, Suavidad y Humectación
-- Para Cuerpo y Manos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
