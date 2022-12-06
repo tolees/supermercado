@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 90.% de ingredientes de origen natural (.agua purificada y materiales con ingredientes de origen natural poco procesados)
-- El champú con aceite de argán de Marruecos ayuda a recuperar la suavidad del cabello
 - Este champú tiene un 0.% de parafinas, colorantes y siliconas
 - pH equilibrado y seguro para cabellos teñidos
+- 90.% de ingredientes de origen natural (.agua purificada y materiales con ingredientes de origen natural poco procesados)
 - En asociación con El Real Jardín Botánico de Kew, una autoridad mundial líder en botánica que avala los productos realmente vegetales
+- El champú con aceite de argán de Marruecos ayuda a recuperar la suavidad del cabello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
