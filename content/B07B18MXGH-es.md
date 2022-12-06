@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con 2 % de alcohol en volumen
+- Cerveza hecha con Cruzcampo Especial, zumo natural de limón suave y con el punto cítrico ideal; doblemente refrescante
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 - Ingredientes Naturales: Agua, malta de cebada, maiz, levadura, lúpulo y extracto de lúpulo y zumo natural de limón
-- Cerveza hecha con Cruzcampo Especial, zumo natural de limón suave y con el punto cítrico ideal; doblemente refrescante
+- Con 2 % de alcohol en volumen
 - Bebida muy refrescante, con sabor agradable, sabores cítricos, dulzor moderado y fácil de beber; de apariencia turbia y espuma blanca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
