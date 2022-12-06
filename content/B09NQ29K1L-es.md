@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CeilSong Vintage colgante luz 3 luces E27 base industrial lámpara colgante montaje negro metal sombra colgante luces placa de montaje en pared de 85 cm para cocina isla comedor pasillo café bar'
-date: 2022-12-03 20:16:28
+date: 2022-12-06 21:01:30
 image: 'https://m.media-amazon.com/images/I/31n8oIyKWiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El paquete incluye un manual de usuario de instalación que le ayudará con una instalación sencilla. Nota: lea atentamente los consejos de cuidado del manual del usuario antes de realizar la instalación.
-- la Lámpara de techo E27 de base media es compatible con una variedad de tipos de bombillas, LED, CFL, Edison, o incandescente, etc. Hasta 40 W máximo. Bombilla no incluida
 - cable bastante largo, pero se puede acortar. El cable flexible mide unos 150 cm.
+- la Lámpara de techo E27 de base media es compatible con una variedad de tipos de bombillas, LED, CFL, Edison, o incandescente, etc. Hasta 40 W máximo. Bombilla no incluida
 - Muy bonitos apliques, son muy sencillos, así como extremadamente simple de montar.
+- El paquete incluye un manual de usuario de instalación que le ayudará con una instalación sencilla. Nota: lea atentamente los consejos de cuidado del manual del usuario antes de realizar la instalación.
 - El Lámpara de techo de montaje está hecho y pintado a mano, lo que permite que esta iluminación de funcione de forma estable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
