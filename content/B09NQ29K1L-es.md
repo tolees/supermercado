@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - cable bastante largo, pero se puede acortar. El cable flexible mide unos 150 cm.
-- la Lámpara de techo E27 de base media es compatible con una variedad de tipos de bombillas, LED, CFL, Edison, o incandescente, etc. Hasta 40 W máximo. Bombilla no incluida
-- Muy bonitos apliques, son muy sencillos, así como extremadamente simple de montar.
 - El paquete incluye un manual de usuario de instalación que le ayudará con una instalación sencilla. Nota: lea atentamente los consejos de cuidado del manual del usuario antes de realizar la instalación.
+- Muy bonitos apliques, son muy sencillos, así como extremadamente simple de montar.
+- la Lámpara de techo E27 de base media es compatible con una variedad de tipos de bombillas, LED, CFL, Edison, o incandescente, etc. Hasta 40 W máximo. Bombilla no incluida
 - El Lámpara de techo de montaje está hecho y pintado a mano, lo que permite que esta iluminación de funcione de forma estable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
