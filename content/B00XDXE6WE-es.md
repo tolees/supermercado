@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Se absorbe rápidamente sin dejar una sensación grasa y pegajosa
-- La nueva fórmula sin alcohol de la Loción After Shave Sensitive Cool, refresca y alivia la piel después del afeitado
 - Combina las conocidas propiedades calmantes de la Camomila con Coolact 10 y el Extracto de Alga Marina
+- La nueva fórmula sin alcohol de la Loción After Shave Sensitive Cool, refresca y alivia la piel después del afeitado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

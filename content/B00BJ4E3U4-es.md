@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Single Grape
-- Red Wine
 - Tempranillo
+- Red Wine
+- Single Grape
 - 75cl
 
 [🛒 Comprar!!!]({{< param buyurl >}})

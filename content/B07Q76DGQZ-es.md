@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Su delicioso relleno de textura crujiente contrasta de forma deliciosa con el chocolate con leche
+- Chocolate con leche de la marca Milka relleno de trocitos de la clásica galleta Oreo, en formato tableta de 100 g
 - Alérgenos: Contiene leche, trigo y soja, puede contener otros frutos de cáscara
 - Elaborado con 100% leche de los Alpes y cacao puro, que aporta un sabor más intenso
 - Conservar en lugar fresco y seco
-- Su delicioso relleno de textura crujiente contrasta de forma deliciosa con el chocolate con leche
-- Chocolate con leche de la marca Milka relleno de trocitos de la clásica galleta Oreo, en formato tableta de 100 g
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
