@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Old Spice Booster Antitranspirante Y Desodorante En Barra para Hombres 3 x 50 ml  Total 150 ml '
-date: 2022-12-07 17:32:11
+date: 2022-12-08 19:30:57
 image: 'https://m.media-amazon.com/images/I/51h1L1fXHkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Old Spice'
 buyurl: 'https://www.amazon.es/dp/B08ZZF23MR/?tag=tolees-21'
 descuento: '30.13'
-average: '7.58866666666667'
+average: '7.550625'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
