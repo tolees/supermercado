@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sunsilk Champú y Acondicionador 2 in 1  250 ml'
-date: 2022-11-28 22:40:19
+date: 2022-12-09 14:45:02
 image: 'https://m.media-amazon.com/images/I/31ZWvwtO4aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lunga Durata
-- Pulizia Donna
 - Igiene Della Persona
+- Pulizia Donna
+- Lunga Durata
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
