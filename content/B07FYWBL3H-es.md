@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Valores de nutrición por barrita: 194kcal (Proteínas 19,5g; Hidratos de carbono 18g; Fibra alimentaria 8,5g; Grasas: 5,4g)
+- Sabor delicioso- snack relleno de proteína para usar sobre la marcha
 - Este producto está eleborado con aceite de palma obtenido de manera sostenible. El fabricante es miembro certificado de la Rountable on Sustainable Palm Oil (RSPO)
 - Atención: Un consumo excesivo puede producir efectos laxantes
-- Menos que 2g azúcar y menos que 19g de hidratos de carbono por barrita
 - Barrita de proteínas sabor cacahuete con una capa de caramelo y cobertura sabor chocolate con leche, con edulcorantes
+- Valores de nutrición por barrita: 194kcal (Proteínas 19,5g; Hidratos de carbono 18g; Fibra alimentaria 8,5g; Grasas: 5,4g)
 - No apto para alérgicos a los frutos de cáscara, los cacahuetes y el huevo, debido al método de producción
-- Sabor delicioso- snack relleno de proteína para usar sobre la marcha
+- Menos que 2g azúcar y menos que 19g de hidratos de carbono por barrita
 - Alto contenido de proteínas, que contribuyen a que aumente la masa muscular. Mas de 19g de proteínas y solo 194 calorías por barrita
 - Pack de 12 (12x60g)
 
