@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beefeater London Dry Ginebra - 700 ml'
-date: 2022-12-02 17:26:27
+date: 2022-12-10 14:20:55
 image: 'https://m.media-amazon.com/images/I/31SZEayW4iS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Beefeater'
 buyurl: 'https://www.amazon.es/dp/B00XA02NMA/?tag=tolees-21'
 descuento: '20.84'
-average: '11.86875'
+average: '11.8333333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De color cristalino
 - Apto como regalo
-- Sabor y carácter de enebro fuerte equilibrado con notas de cítricos de limón y naranja
 - Ideal con hielo o en cócteles
+- Sabor y carácter de enebro fuerte equilibrado con notas de cítricos de limón y naranja
+- De color cristalino
 - Con notas cítricas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
