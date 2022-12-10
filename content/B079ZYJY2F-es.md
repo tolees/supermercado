@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un chocolate cremoso, suave y dulce, hecho con leche recogida diariamente de la cornisa Cantábrica
 - Nestle Extrafino se produce desde 1966 en La Penilla, Cantabria siguiendo un proceso tradicional
-- 100% Cacao de cultivo sostenible seleccionado a través de Nestle Cocoa Plan, certificado Rainforest
 - Un chocolate cremoso, suave y dulce, hecho con leche recogida diariamente de la cornisa Cantábrica
+- Un chocolate cremoso, suave y dulce, hecho con leche recogida diariamente de la cornisa Cantábrica
+- 100% Cacao de cultivo sostenible seleccionado a través de Nestle Cocoa Plan, certificado Rainforest
 - Deliciosa tableta de chocolate con leche Nestle Extrafino con almendras
 
 [🛒 Visítala!!!]({{< param buyurl >}})
