@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Perfecto para regalo, celebraciones especiales
+- Nordés debe su nombre al viento del nordeste que en Galicia anuncia el buen tiempo.
+- Su característica botella blanca está inspirada en la cerámica gallega de Sargadelos, elaborada tradicionalmente de manera artesanal.
 - Una ginebra afrutada con toques balsámicos
 - Ginebra gallega, fresca y aromática
-- Perfecto para regalo, celebraciones especiales
-- Su característica botella blanca está inspirada en la cerámica gallega de Sargadelos, elaborada tradicionalmente de manera artesanal.
 - Formato especial 3L
-- Nordés debe su nombre al viento del nordeste que en Galicia anuncia el buen tiempo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
