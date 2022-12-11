@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El condimento ideal para mejorar tus recetas
-- En formato familiar
-- La esencia de la dieta mediterránea
 - Aceite de oliva virgen extra
 - Rico en antioxidantes
+- En formato familiar
+- La esencia de la dieta mediterránea
+- El condimento ideal para mejorar tus recetas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

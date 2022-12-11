@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula compuesta de 2 tipos de ácidos hialurónicos: Macro para hidratar y alisar la superficie de la piel y Micro para rellenar las arrugas en profundidad
-- Fórmula compuesta de 2 tipos de ácidos hialurónicos: macro para hidratar y alisar la superficie de la piel y micro para rellenar las arrugas Incluye el serum antiarrugas con 1,5% de ácido hialurónico, que devuelve la hidratación para conseguir una piel de aspecto joven
-- Incluye también la crema día antienvejecimiento con ácido hialurónico para restaurar el volumen del rostro y rellenar las arrugas
 - Este conjunto de la gama Revitalift Filler es adecuado para tu rutina facial de mañana
 - Este pack de la gama Revitalift Filler es perfecto para tu rutina facial de mañana. Incluye el serum anti-arrugas con 1,5% de ácido hialurónico puro, que devuelve la hidratación para conseguir una piel con más volumen, flexible y de aspecto joven. Incluye también la crema día anti-edad con ácido hialurónico puro para restaurar el volumen del rostro y rellenar las arrugas. Incluye 7 muestras del Serum Retinol Revitalift Laser, para que completes tu rutina por las noches durante una semana
+- Fórmula compuesta de 2 tipos de ácidos hialurónicos: macro para hidratar y alisar la superficie de la piel y micro para rellenar las arrugas Incluye el serum antiarrugas con 1,5% de ácido hialurónico, que devuelve la hidratación para conseguir una piel de aspecto joven
+- Incluye también la crema día antienvejecimiento con ácido hialurónico para restaurar el volumen del rostro y rellenar las arrugas
+- Fórmula compuesta de 2 tipos de ácidos hialurónicos: Macro para hidratar y alisar la superficie de la piel y Micro para rellenar las arrugas en profundidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
