@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ingredientes naturales: Agua, malta de cebada, maíz y lúpulo
-- Cerveza tipo lager Especial con 5.5% de alcohol en volumen y sin gluten
 - Cerveza dorada, brillante y con espuma blanca consistente; de cuerpo medio y aromas frescos y cítricos; destaca su equilibrio entre un amargor suave y matices de malta
 - Consumir entre 0° y 3°C para obtener sus máximas cualidades; ‎conservar el producto en un lugar limpio, seco y bien ventilado entre 5º y 15ºC
+- Cerveza tipo lager Especial con 5.5% de alcohol en volumen y sin gluten
 - Pack de 24 latas de cerveza de 33cl
 
 [🛒 Aquí!!!]({{< param buyurl >}})

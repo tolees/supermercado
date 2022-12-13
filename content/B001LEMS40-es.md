@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vitakraft - Cat Stick Mini  Snack para Gatos  Barritas de Pato y Conejo - envase de 3 sticks de 6 g  18 g.'
-date: 2022-12-09 20:40:42
+date: 2022-12-13 14:38:24
 image: 'https://m.media-amazon.com/images/I/51vJnwpZqyS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vitakraft'
 buyurl: 'https://www.amazon.es/dp/B001LEMS40/?tag=tolees-21'
 descuento: '13.91'
-average: '1.001'
+average: '1.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alimento complementario en forma de sabrosas baritas con más del 95% del contenido en carne de pato y conejo.
 - Envase con 3 unidades independientemente envasadas que mantiene su sabor y aroma por más tiempo
 - Recomendación de empleo: 1 - 2 barritas por día. Puede suministrarse la barrita entera o repartirla en trocitos de forma ocasional
+- Alimento complementario en forma de sabrosas baritas con más del 95% del contenido en carne de pato y conejo.
 - Receta sin azúcar, colorantes, conservantes añadidos ni potenciadores artificiales del sabor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
