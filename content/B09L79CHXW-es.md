@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun Recortadora de Barba 10 en 1  Máquina Cortar Pelo  Cortapelos Hombre para Cara  Pelo  Orejas  Nariz y Cuerpo con Tecnología Autosense y Maquinilla Gillette  8 Accesorios  7 MGK7320  Negro/Plata'
-date: 2022-12-12 10:12:24
+date: 2022-12-13 17:21:13
 image: 'https://m.media-amazon.com/images/I/51OH9E+SHmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Braun'
 buyurl: 'https://www.amazon.es/dp/B09L79CHXW/?tag=tolees-21'
 descuento: '41.87'
-average: '56.3528571428571'
+average: '55.9286666666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
