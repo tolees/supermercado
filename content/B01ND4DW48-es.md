@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ✨ Fórmula única con múltiples beneficios - Hidrata, iguala el tono, revive el brillo, corrige imperfecciones, reduce los poros, suaviza la textura de la piel, ayuda a mejorar las manchas de la piel, las líneas finas y las arrugas de la piel, protegiéndola día tras día
+- ✨ Cobertura Ligera con protección solar - Iguala el color de la piel, ilumina el cutis y corrige las manchas e imperfecciones de la piel. Aplique suavemente sobre la piel y extienda para lograr la cobertura deseada
 - ✨ Ingredientes activos - Ácido hialurónico, alantoína, extracto de granada, vitamina E y pigmentos minerales. Protegen de los rayos UVA Y UVB
 - ✨ Hidrata y suaviza la piel - Controla el exceso de grasa, mejora la textura de la piel, controla el exceso de aceites y reduce el tamaño de los poros. Con protección solar SPF15
-- ✨ Cobertura Ligera con protección solar - Iguala el color de la piel, ilumina el cutis y corrige las manchas e imperfecciones de la piel. Aplique suavemente sobre la piel y extienda para lograr la cobertura deseada
 - ✨ Calidad de marca fabricada con 💛 en España - Fabricado en España bajo los más altos y estrictos estándares de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
