@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alta calidad
-- Estas cápsulas se han aprobado expresamente para máquinas Nespresso, así que adelante, hazte con ellas
 - Y puede reciclarse eternamente, por lo que podemos elegir lo que es bueno para nuestro planeta y un buen sabor al mismo tiempo
 - Usamos cápsulas de aluminio reciclado para capturar este buen sabor porque el aluminio protege el frescor y los aromas de tu café;
 - Descubre NESCAFÉ Farmers Origins
+- Estas cápsulas se han aprobado expresamente para máquinas Nespresso, así que adelante, hazte con ellas
+- Alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

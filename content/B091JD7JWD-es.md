@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cordón de Antelina Cuero Antialérgico.
 - Viene en un bonito envoltorio de regalo. Y hace que la presentación sea mucho más fácil para ti.
 - Doble Cordón Regulable.
+- Cordón de Antelina Cuero Antialérgico.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Consigue momentos únicos en familia alrededor de la mesa estas Navidades con los Amatllons, bombones únicos. Descubre nuestra gran selección elaborada para los paladares más sofisticados.
-- Presentada en caja metálica perfecta para regalar. Contiene 6 unidades de cada variedad: Chocolate Negro 70% Cacao con naranja, Chocolate con Leche con Frambuesa y Chocolate Blanco con zumo de Limón.
 - Caja de bombones de Chocolate Flors rellenos de deliciosa fruta surtido de 3 variedades. Una combinación perfecta y equilibrada diseñada por nuestros maestro chocolateros.
+- Presentada en caja metálica perfecta para regalar. Contiene 6 unidades de cada variedad: Chocolate Negro 70% Cacao con naranja, Chocolate con Leche con Frambuesa y Chocolate Blanco con zumo de Limón.
 - Nuestros chocolates, en sus diferentes formatos, son la idea perfecta para regalar. Un regalo original y sofisiticado para parejas y amigos, en cualquier ocasión o época del año.
 - Fabricado íntegramente en España. En Choocolates Ametlller utilizamos ingredientes de calidad. Elaborados principalmente con Azúcar, Manteca de cacao, Mermelada de Frutas, Leche en polvo, Leticina de Soja y Aroma (Vainilla)
 
