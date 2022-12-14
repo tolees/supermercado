@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para todo tipo de ropa y tejidos que elimina las mancha
-- Está testada dermatológicamente
-- Se puede utilizar como potenciador del lavado
 - Eliminana las manchas incluso en lavados cortos y agua fría
 - Fórmula sin lejía
+- Está testada dermatológicamente
+- Para todo tipo de ropa y tejidos que elimina las mancha
+- Se puede utilizar como potenciador del lavado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
