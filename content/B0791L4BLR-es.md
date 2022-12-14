@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Para cabello seco y dañado, y para después de tratamientos de peluquería
 - Regenera activamente el cabello dañado
-- Protege el cabello contra la sequedad y restaura su aspecto saludable y su suavidad
 - Resultados notables después de la primera aplicación
+- Protege el cabello contra la sequedad y restaura su aspecto saludable y su suavidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
