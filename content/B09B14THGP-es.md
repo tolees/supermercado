@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Notas de corazón: Tostada, Frutal
-- Notas de salida: Gourmand, Fresa, Frutal
-- Dulce y exquisito aroma a azúcar, a nube de algodón
 - Contiene 50 ml. Dermatológicamente testada
 - Notas de fondo: Gourmand, Frutal
+- Dulce y exquisito aroma a azúcar, a nube de algodón
+- Notas de salida: Gourmand, Fresa, Frutal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
