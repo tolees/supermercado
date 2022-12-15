@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mahou Clásica Cerveza Dorada Lager  24 x 33cl'
-date: 2022-12-13 17:19:17
+date: 2022-12-15 17:24:22
 image: 'https://m.media-amazon.com/images/I/41dzo1sgeSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mahou'
 buyurl: 'https://www.amazon.es/dp/B0711RMXF6/?tag=tolees-21'
 descuento: '14.66'
-average: '14.266'
+average: '13.8866666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mahou cerveza clásica, pack de 24 latas de 33 centilitros con 4.8% de alcohol.
-- Destaca su aroma de intensidad media-alta; su carácter pilsen le otorga un ligero aroma frutal con sutiles notas florales de lúpulo.
 - Para un mayor disfrute se recomienda consumir entre 4º y 6º C.
+- Destaca su aroma de intensidad media-alta; su carácter pilsen le otorga un ligero aroma frutal con sutiles notas florales de lúpulo.
 - La primera Mahou de la historia está elaborada a partir de una combinación de agua, lúpulo, maíz y maltas pilsen de distinto origen, manteniendo su receta original de 1890.
 - Una de las cervezas más representativas, de aspecto dorado y reluciente con espuma consistente. Cerveza Pale Lager, con un sabor ligeramente amargo, en boca es suave y de cuerpo moderado, resultando muy refrescante.
+- Mahou cerveza clásica, pack de 24 latas de 33 centilitros con 4.8% de alcohol.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
