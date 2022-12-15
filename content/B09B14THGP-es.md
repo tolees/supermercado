@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eau De Toilette Tulipán Negro Gourmand Nube De Algodón 50 ml'
-date: 2022-12-08 11:33:41
+date: 2022-12-15 08:54:38
 image: 'https://m.media-amazon.com/images/I/419hzd5sYlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Notas de corazón: Tostada, Frutal
+- Notas de salida: Gourmand, Fresa, Frutal
 - Dulce y exquisito aroma a azúcar, a nube de algodón
 - Contiene 50 ml. Dermatológicamente testada
-- Notas de salida: Gourmand, Fresa, Frutal
-- Notas de corazón: Tostada, Frutal
 - Notas de fondo: Gourmand, Frutal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
