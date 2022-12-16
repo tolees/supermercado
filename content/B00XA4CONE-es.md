@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pago del Cielo Celeste Roble  Vino Tinto - 6 botellas de 75 cl  Total: 4500 ml'
-date: 2022-12-13 16:55:49
+date: 2022-12-16 07:29:28
 image: 'https://m.media-amazon.com/images/I/316YGZ3AXkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pago del Cielo'
 buyurl: 'https://www.amazon.es/dp/B00XA4CONE/?tag=tolees-21'
 descuento: '23.53'
-average: '40.1706666666667'
+average: '40.0975'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color cereza oscuro y bien cubierto. Intenso aroma de frutos negros (cerezas), con un fino matiz ahumado.
-- Puede disfrutarlo desde ahora, bien conservado aguantará 3-5 años.
 - Origen: DO Ribera del Duero
-- Para recetas con carnes, cordero asado, todo tipo de aves, estofados y guisos. Servir entre 14-16ºC.
 - Graduación: 13,5% vol.
+- Puede disfrutarlo desde ahora, bien conservado aguantará 3-5 años.
+- Color cereza oscuro y bien cubierto. Intenso aroma de frutos negros (cerezas), con un fino matiz ahumado.
+- Para recetas con carnes, cordero asado, todo tipo de aves, estofados y guisos. Servir entre 14-16ºC.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
