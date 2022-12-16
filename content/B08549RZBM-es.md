@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pensado para las personas que deseen explorar whiskies con notas ahumadas que recuerden al abrigo del mar
 - Parte de la serie de whiskies escoceses de las 4 principales regiones productoras de whisky de escocia
 - Producto de alta calidad
 - Notas de cata: presenta un aroma ligeramente especiado
-- Pensado para las personas que deseen explorar whiskies con notas ahumadas que recuerden al abrigo del mar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
