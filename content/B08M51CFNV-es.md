@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'M&Ms - M&M s Peanuts Snack de Cacahuete y Chocolate con Leche  Chuches y Regalo Navidad  y Reyes Magos  1kg '
-date: 2022-12-10 14:50:39
+date: 2022-12-17 16:15:10
 image: 'https://m.media-amazon.com/images/I/51HDcUrmmXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'M&Ms'
 buyurl: 'https://www.amazon.es/dp/B08M51CFNV/?tag=tolees-21'
 descuento: '0.00'
-average: '10.4602777777775'
+average: '10.4329729729727'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un sabor dulce
-- Conservar en lugar fresco y seco
 - Cubiertas con una cáscara crujiente
 - Ideal para compartir
 - Cacahuetes recubiertos en chocolate
+- Con un sabor dulce
+- Conservar en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
