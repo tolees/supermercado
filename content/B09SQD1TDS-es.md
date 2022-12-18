@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Alemania
 - Chocolate con leche (34,4%) [azúcar, manteca de cacao, leche en polvo (5,3%), cacao, grasas vegetales (palma, shea), suero de leche en polvo, emulgente (lecitinas), extracto de vainilla], grasa de palma, harina de trigo, azúcar, suero de leche en polvo, cacao desgrasado (1,1%), leche desnatada en polvo (1,1%), gasificantes (bicarbonato amónico, carbonatos de sodio), maltodextrina, emulgentes (lecitinas, e476), sal; puede contener cacahuete, frutos secos y soja
 - Leche, trigo, cacahuete, frutos secos, soja
-- Alemania
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
