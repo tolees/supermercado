@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Licor de endrinas con raíces milenarias del País Vasco
-- Regusto agradable anisado, frutal y meloso.
 - Producto 100 % natural, elaborado al estilo tradicional
+- Licor de endrinas con raíces milenarias del País Vasco
 - En boca ensamble con recuerdos de frutas rojas y bayas silvestres, algo amargo, con equilibrio entre dulzor y acidez.
+- Regusto agradable anisado, frutal y meloso.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
