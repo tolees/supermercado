@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnnie Walker Black Label Edición Limitada 2022  whisky escocés de mezcla  700 ml'
-date: 2022-12-12 17:58:56
+date: 2022-12-19 16:28:26
 image: 'https://m.media-amazon.com/images/I/31Koj6ibmjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disfruta de Johnnie Walker Black Label Icons Edición Limitada 2022 en un Johnnie & Ginger Highball: 50 ml de nuestro whisky, 150 ml de ginger ale, y decora con una rodaja de jengibre y anís estrellado
 - El final de este Johnnie Walker Black Label Icons Edición Limitada 2022 es dulce, envuelto en un cálido humo
 - Elaborado para iluminar los momentos de celebración, este whisky es el regalo idóneo para aquellos cuyos pasos inspiran los tuyos
-- Un regalo idóneo de Navidad para los amantes de los whiskies de mezcla
-- Aspecto: rico brillo dorado; en nariz: fruta dulce, vainilla y especias, con un toque ahumado; en boca: sabor intenso de fruta dulce y especias
 - Un líquido redondo y de gran sabor con el que es posible degustar el rico y complejo arte de elaborar whiskies de mezcla
+- Aspecto: rico brillo dorado; en nariz: fruta dulce, vainilla y especias, con un toque ahumado; en boca: sabor intenso de fruta dulce y especias
+- Disfruta de Johnnie Walker Black Label Icons Edición Limitada 2022 en un Johnnie & Ginger Highball: 50 ml de nuestro whisky, 150 ml de ginger ale, y decora con una rodaja de jengibre y anís estrellado
+- Un regalo idóneo de Navidad para los amantes de los whiskies de mezcla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
