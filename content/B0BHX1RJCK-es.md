@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ginebra Premium Nordés - Pack Exclusivo Botella 70 cl + Vaso + Jigger de regalo'
-date: 2022-12-18 22:15:23
+date: 2022-12-19 22:30:32
 image: 'https://m.media-amazon.com/images/I/51pqvIEUwDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nordés'
 buyurl: 'https://www.amazon.es/dp/B0BHX1RJCK/?tag=tolees-21'
 descuento: '20.05'
-average: '20.38'
+average: '20.3133333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Su receta única, utiliza además 11 botánicos naturales , 6 de ellos gallegos, que le otorgan su carácter fresco y equilibrado.
+- Nordés es una ginebra gallega que, como el viento que inspira su nombre, viene a refrescar el mundo de las ginebras premium
 - Uno de los secretos de nordés reside en la uva albariño, corazón y alma de su destilado.
 - Como servir: se recomienda tomar nordes en gin tonic, con tonica neutra y decorado con una brocheta de uva blanca para resaltar los aromas propios de la ginebra.
-- Nordés es una ginebra gallega que, como el viento que inspira su nombre, viene a refrescar el mundo de las ginebras premium
-- Su receta única, utiliza además 11 botánicos naturales , 6 de ellos gallegos, que le otorgan su carácter fresco y equilibrado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
