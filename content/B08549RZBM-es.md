@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnnie Walker - Black Label Islay Origin  Blended Scotch Whisky  Edición Limitada - 1000 ml'
-date: 2022-12-16 17:56:09
+date: 2022-12-20 14:10:29
 image: 'https://m.media-amazon.com/images/I/41cGf-AsIfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Johnnie Walker'
 buyurl: 'https://www.amazon.es/dp/B08549RZBM/?tag=tolees-21'
 descuento: '32.93'
-average: '32.552'
+average: '32.1566666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pensado para las personas que deseen explorar whiskies con notas ahumadas que recuerden al abrigo del mar
 - Parte de la serie de whiskies escoceses de las 4 principales regiones productoras de whisky de escocia
 - Producto de alta calidad
 - Notas de cata: presenta un aroma ligeramente especiado
+- Pensado para las personas que deseen explorar whiskies con notas ahumadas que recuerden al abrigo del mar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
