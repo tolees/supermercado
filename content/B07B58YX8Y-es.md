@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con ligeras notas aromáticas y afrutadas de lúpulo y limpios matices de malta, así como un suave aroma a levadura fresca. En boca es ligeramente dulce y balanceada, cuerpo medio, amargor ligero y final fresco. La mezcla es sometida a un proceso de doble fermentación y reposa entre virutas de madera de Haya, lo que llamamos “Beechwood Aging” proceso auténtico de Budweiser.
-- Cerveza estilo American Lager con 5,0% de grado alcohólico
 - Pack de 24 botellines de 25 centilitros cada uno de Budweiser American Lager, con 4,8% de alcohol.
-- Elaborada con la mejor malta de cebada, seleccionada entre 2.500 variedades de EE.UU y Canadá, y una mezcla de variedades de lúpulo de primera calidad, seleccionados entre más de 1.600 variedades en Alemania y EE.UU. El agua proviene de un manantial, siendo pura y limpia. La levadura es el secreto del sabor inconfundible, desde 1876 se utiliza la misma cepa. Y el arroz, el ingrediente más importante, principalmente por su sabor fresco.
 - Para un mayor disfrute, se recomienda consumir entre 3º y 6º grados.
+- Cerveza estilo American Lager con 5,0% de grado alcohólico
+- Con ligeras notas aromáticas y afrutadas de lúpulo y limpios matices de malta, así como un suave aroma a levadura fresca. En boca es ligeramente dulce y balanceada, cuerpo medio, amargor ligero y final fresco. La mezcla es sometida a un proceso de doble fermentación y reposa entre virutas de madera de Haya, lo que llamamos “Beechwood Aging” proceso auténtico de Budweiser.
+- Elaborada con la mejor malta de cebada, seleccionada entre 2.500 variedades de EE.UU y Canadá, y una mezcla de variedades de lúpulo de primera calidad, seleccionados entre más de 1.600 variedades en Alemania y EE.UU. El agua proviene de un manantial, siendo pura y limpia. La levadura es el secreto del sabor inconfundible, desde 1876 se utiliza la misma cepa. Y el arroz, el ingrediente más importante, principalmente por su sabor fresco.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
