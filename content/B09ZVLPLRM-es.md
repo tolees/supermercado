@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fragancia llena de placer
 - Relaja tu mente
 - 100% limpiadores de origen natural
-- Gel de Ducha Moussel Relajante con Lavanda 650ml
+- Fragancia llena de placer
 - Envuélvete en su abundante espuma y resérvate ese ratito de positividad cada día
+- Gel de Ducha Moussel Relajante con Lavanda 650ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

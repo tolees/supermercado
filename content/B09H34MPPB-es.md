@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Modo de empleo: Por la mañana, aplicar la Crema Hidratante Redensificante Antiarrugas SPF15y por las noches, aplicar la Crema Reparadora Antiarrugas. Aplicar en rostro, cuello y escote siempre desde el interior hacia afuera.
-- Crema Reparadora Antiarrugas: Tratamiento diseñado para reducir las arrugas profundas. Actúa a nivel celular, reactivando los procesos de producción de colágeno y borrando las líneas de expresión generadas por el estrés.
-- Crema Hidratante Redensificante: Tratamiento ultra-hidratante diseñado para proteger la piel contra cualquier daño. la piel adquiere una textura uniforme, firme y luminosa. Corrige las arrugas profundas e incrementa la producción de colágeno.Efecto lifting inmediato. con SPF 15. Hidratación 24 horas.
 - Proteccion solar: 15.0 sun protection factor
 - Ideal para todo tipo de pieles, especialmente secas y sensibles, con síntomas de envejecimiento como arrugas.
+- Crema Hidratante Redensificante: Tratamiento ultra-hidratante diseñado para proteger la piel contra cualquier daño. la piel adquiere una textura uniforme, firme y luminosa. Corrige las arrugas profundas e incrementa la producción de colágeno.Efecto lifting inmediato. con SPF 15. Hidratación 24 horas.
+- Crema Reparadora Antiarrugas: Tratamiento diseñado para reducir las arrugas profundas. Actúa a nivel celular, reactivando los procesos de producción de colágeno y borrando las líneas de expresión generadas por el estrés.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
