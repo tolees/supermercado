@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Listerine Advanced White Sabor Suave  Menta   Pack de 2 x 1000 ml'
-date: 2022-12-19 17:44:00
+date: 2022-12-21 08:04:15
 image: 'https://m.media-amazon.com/images/I/51NGi27ZjoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Listerine'
 buyurl: 'https://www.amazon.es/dp/B086KGPC5L/?tag=tolees-21'
 descuento: '10.07'
-average: '11.0170212765959'
+average: '11.0422916666668'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
