@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chivas Regal 18 Años Whisky Escocés de Mezcla Premium  700ml'
-date: 2022-12-19 09:12:03
+date: 2022-12-22 03:12:58
 image: 'https://m.media-amazon.com/images/I/41-QvH71yZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Chivas Regal'
 buyurl: 'https://www.amazon.es/dp/B001P4SF0C/?tag=tolees-21'
 descuento: '25.93'
-average: '47.7775'
+average: '47.7838461538462'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,13 +29,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Acabado: larga duración, afrutado
-- Como servir: Serve at room temperature
 - Sabor: aterciopelado, floral, chocolate negro, toques de humo dulce y suave
-- Nariz: rica, notas de fruta seca, caramelo, chocolate negro
-- Contenido de alcohol (alc/vol): 40.0 percent by volume
 - Tipo de alcohol: Whiskey
 - Perfecto como un regalo
 - Procedencia: Scotland
+- Como servir: Serve at room temperature
+- Contenido de alcohol (alc/vol): 40.0 percent by volume
+- Nariz: rica, notas de fruta seca, caramelo, chocolate negro
 - Color: oro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
