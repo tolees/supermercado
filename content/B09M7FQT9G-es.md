@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ANNA DE CODORNIU - Estuche regalo 2 Cavas Anna de Codorníu + 1 Vino tinto Legaris Roble  DO Ribera del Duero - 3 botellas 75cl'
-date: 2022-12-14 15:32:50
+date: 2022-12-21 21:20:33
 image: 'https://m.media-amazon.com/images/I/31J5YyocGtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cava Anna de Codorníu Brut - DO Cava
-- Varietales cava: Chardonnay 70%, Parellada 15%, Xarel·lo-Macabeo 15%
-- Varietales vino tinto: 100% Tinto Fino (Tempranillo)
 - Vino tinto Legaris Roble - DO Ribera del Duero
 - Estuche regalo 3 botellas 75cl (2 cavas + 1 vino tinto)
+- Varietales cava: Chardonnay 70%, Parellada 15%, Xarel·lo-Macabeo 15%
+- Cava Anna de Codorníu Brut - DO Cava
+- Varietales vino tinto: 100% Tinto Fino (Tempranillo)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
