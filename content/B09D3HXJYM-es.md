@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE - 150 Blue Wave  Perfume Hombre  Colonia Nike Blue Wave  Perfumada y en Formato Spray  Eau de Toilette  Fresca y Acuática  Colonia Versátil y de Larga Duración - 250 ml'
-date: 2022-12-08 11:30:24
+date: 2022-12-22 19:57:27
 image: 'https://m.media-amazon.com/images/I/31RW8zra-7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - FRAGANCIA ÚNICA: Nike 150 Blue Wave es un perfume masculino con una belleza universal e irresistible. ¡Es una fuerza de la naturaleza en estado puro! Viene en un frasco de 250 mililitros.
-- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, mandarina, grosella negra y limón; Notas de corazón: notas marinas, lavanda, romero y lentisco; Notas de fondo: ámbar y almizcle.
-- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
-- VERSÁTIL Y MASCULINO: Un agua de colonia, para hombres, que como el mar desprende tempestad y calma, y se amolda a todos los hombres. Es la contraposición de momentos, hermosos pero inmensos.
 - TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia fresca acuática, que rinde homenaje a la naturaleza y, sobre todo, a una de sus fuerzas más puras, el mar y sus olas.
+- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, mandarina, grosella negra y limón; Notas de corazón: notas marinas, lavanda, romero y lentisco; Notas de fondo: ámbar y almizcle.
+- VERSÁTIL Y MASCULINO: Un agua de colonia, para hombres, que como el mar desprende tempestad y calma, y se amolda a todos los hombres. Es la contraposición de momentos, hermosos pero inmensos.
+- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
 
 [🛒 Aquí!!!]({{< param buyurl >}})
