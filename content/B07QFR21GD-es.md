@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Catunambú - Cápsulas de café Cortado compatibles Dolce Gusto | Pack de 3  48 cápsulas '
-date: 2022-12-10 23:01:19
+date: 2022-12-23 19:17:08
 image: 'https://m.media-amazon.com/images/I/41JmqqDmYWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes: café
-- Una vez abierto, conservar en lugar fresco y seco
-- Alérgenos: Leche
 - País de origen: España
+- Alérgenos: Leche
+- Una vez abierto, conservar en lugar fresco y seco
+- Ingredientes: café
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
