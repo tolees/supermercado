@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Confía en la decisión de tu abuelo con esta fantástica eau de toilette
+- Y en la de tu padre
 - La exquisita fragancia de Old Spice te hará inolvidable, como si fueras el centro del mundo
 - Con la fragancia para hombres que quieren sentirse seguros en cualquier situación
-- Y en la de tu padre
+- Confía en la decisión de tu abuelo con esta fantástica eau de toilette
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
