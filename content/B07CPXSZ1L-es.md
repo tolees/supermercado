@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amstel Radler 0 0 Cerveza Limon Sin Alcohol Pack Lata  24 x 33cl'
-date: 2022-12-22 11:22:32
+date: 2022-12-24 05:24:52
 image: 'https://m.media-amazon.com/images/I/51fTCj3igrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amstel'
 buyurl: 'https://www.amazon.es/dp/B07CPXSZ1L/?tag=tolees-21'
 descuento: '0.00'
-average: '14.111'
+average: '14.2354545454545'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cerveza tipo lager mezcla
-- Con zumo natural de limón
 - Tiene sabor dulce y suave
+- Con zumo natural de limón
 - Pack de 24 x 33 cl
+- Cerveza tipo lager mezcla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
