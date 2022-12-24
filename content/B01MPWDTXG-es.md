@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Purina Felix Party Mix Original  Snack  premio para Gato con Pollo  Higado y Pavo  8 bolsas de 60g'
-date: 2022-12-18 19:09:11
+date: 2022-12-24 13:48:47
 image: 'https://m.media-amazon.com/images/I/510F8pr5BwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Felix'
 buyurl: 'https://www.amazon.es/dp/B01MPWDTXG/?tag=tolees-21'
 descuento: '21.82'
-average: '9.43666666666667'
+average: '9.56285714285715'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
