@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Purifica los poros en profundidad.
-- Contiene ácido hialurónico y zinc purificante.
 - Pieles mixtas con imperfecciones.
+- Contiene ácido hialurónico y zinc purificante.
 - Elimina el sebo y las imperfecciones.
+- Purifica los poros en profundidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
