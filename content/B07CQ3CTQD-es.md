@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La Estrella de Galicia Cerveza - Pack de 24 botellas x 330 ml
-- Alcohol 4,7% Amargor 25 EBU Color 8 EB
-- La Estrella de Galicia cuenta con un color dorado brillante y un generoso giste blanco. Aroma equilibrado entre las maltas y lúpulos, que predominan aportando notas frescas y florales. Bien carbonatada y con cuerpo ligero. Amargor moderado y persistente, una cerveza muy fácil de beber.
-- Apariencia Cerveza de color dorado claro., muy transparente.
-- Temperatura de servicio 4-5ºC
-- Materias primas Agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), lúpulo Sladek. Levadura seleccionada Hijos de Rivera.
-- Aromas que recuerdan a la malta pilsen y a la corteza de pan
-- Clasificación Tipo German Pils
-- Sabor Muy equilibrada, en boca es dulce y amarga por igual.
 - ELABORACIÓN DE ESTRELLA DE GALICIA Elaborada a partir de un mosto específico, en el único centro de producción de Hijos de Rivera, en A Coruña. Los Maestros Cerveceros emplean en la fabricación de La Estrella de Galicia aproximadamente un mes de trabajo, el 50% del cual se dedica a su guarda en frio.
+- Materias primas Agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), lúpulo Sladek. Levadura seleccionada Hijos de Rivera.
+- La Estrella de Galicia cuenta con un color dorado brillante y un generoso giste blanco. Aroma equilibrado entre las maltas y lúpulos, que predominan aportando notas frescas y florales. Bien carbonatada y con cuerpo ligero. Amargor moderado y persistente, una cerveza muy fácil de beber.
+- Sabor Muy equilibrada, en boca es dulce y amarga por igual.
+- Alcohol 4,7% Amargor 25 EBU Color 8 EB
+- La Estrella de Galicia Cerveza - Pack de 24 botellas x 330 ml
+- Clasificación Tipo German Pils
+- Temperatura de servicio 4-5ºC
+- Apariencia Cerveza de color dorado claro., muy transparente.
+- Aromas que recuerdan a la malta pilsen y a la corteza de pan
 
 [🛒 Aquí!!!]({{< param buyurl >}})

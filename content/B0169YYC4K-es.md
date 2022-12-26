@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Polvo translúcido microfino que crea un efecto de enfoque suave a medida que establece el maquillaje.
-- Descripción del paquete: 6 g.
-- Número de porciones:
-- Tipo de unidad: Cada
 - Tamaño de la porción:
+- Tipo de unidad: Cada
+- Número de porciones:
+- Descripción del paquete: 6 g.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
