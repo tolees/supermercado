@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dove Jabón Pastilla 100 g - Pack de 2'
-date: 2022-12-16 07:36:15
+date: 2022-12-26 12:50:23
 image: 'https://m.media-amazon.com/images/I/41L56wYpahL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
