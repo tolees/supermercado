@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los orificios de ventilación en la tapa le permiten insertar un termómetro para medir la temperatura del agua en cualquier momento, también puede extraer el vapor de manera efectiva para evitar quemarse al destapar
-- El pico largo de cuello de cisne está diseñado para un flujo de agua lento y preciso, de modo que pueda extraer lo suficiente y garantice el sabor puro del café.
 - Diseño de apariencia exquisita y moderna, es un buen regalo para los amantes del café por goteo.
 - Hecho de material de acero inoxidable 304 con superficie pulida, seguro, suave, antioxidante y duradero en uso.
+- Los orificios de ventilación en la tapa le permiten insertar un termómetro para medir la temperatura del agua en cualquier momento, también puede extraer el vapor de manera efectiva para evitar quemarse al destapar
 - El mango de madera y el mango de la tapa son anti-quemaduras y cómodos de agarrar.
+- El pico largo de cuello de cisne está diseñado para un flujo de agua lento y preciso, de modo que pueda extraer lo suficiente y garantice el sabor puro del café.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

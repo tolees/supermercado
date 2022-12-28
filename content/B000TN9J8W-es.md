@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paul Mitchell - John Paul Pet Oatmeal Dog Conditioning Rinse'
-date: 2022-12-26 14:02:25
+date: 2022-12-28 11:00:08
 image: 'https://m.media-amazon.com/images/I/41t89lnoRbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Paul Mitchell'
 buyurl: 'https://www.amazon.es/dp/B000TN9J8W/?tag=tolees-21'
 descuento: '7.19'
-average: '15.585'
+average: '15.6833333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
