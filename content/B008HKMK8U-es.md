@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brockman s ginebra botella 70 cl'
-date: 2022-12-16 15:27:07
+date: 2022-12-28 18:25:39
 image: 'https://m.media-amazon.com/images/I/41vFxCFjECL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B008HKMK8U-es Brockman s ginebra botella 70 cl'
 sku: 'B008HKMK8U-es'
 tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vinos y licores','Ginebras','brockmans','ginebra','🇪🇸', ]
-actualPrice: 22.27 EUR
+actualPrice: 28.5 EUR
 currency: EUR
-price: 22.27
-comparePrice: 29.9 EUR
+price: 28.5
+comparePrice: 35.0 EUR
 prodname: 'Brockman s ginebra botella 70 cl'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Brockmans'
 buyurl: 'https://www.amazon.es/dp/B008HKMK8U/?tag=tolees-21'
-descuento: '25.52'
-average: '25.9669565217391'
+descuento: '18.57'
+average: '25.9203999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esta ginebra es adecuada para mezclar con tónica o ginger
 - Color: claro
-- Sabor: bayas de enebro, arándanos, moras, cáscara de naranja
+- Esta ginebra es adecuada para mezclar con tónica o ginger
 - Adecuado como un regalo
+- Sabor: bayas de enebro, arándanos, moras, cáscara de naranja
 
 [🛒 Aquí!!!]({{< param buyurl >}})
