@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ideal para tomar con Ginger Beer y una rodaja de limón
+- Ideal para tomar con Ginger Beer y una rodaja de limón
+- Whisky de 8 años equilibrado y suave
+- Notas de brezo y miel, incorporando suaves notas florales, complejas notas de madera con sándalo y suculento luchee
 - Whisky Blended Escocés de 8 años extra suave
+- Notas de brezo y miel, incorporando suaves notas florales, complejas notas de madera con sándalo y suculento luchee
 - Whisky Blended Escocés de 8 años extra suave
 - Acabado en barricas de roble Mizunara
-- Ideal para tomar con Ginger Beer y una rodaja de limón
-- Notas de brezo y miel, incorporando suaves notas florales, complejas notas de madera con sándalo y suculento luchee
-- Notas de brezo y miel, incorporando suaves notas florales, complejas notas de madera con sándalo y suculento luchee
 - Acabado en barricas de roble Mizunara
 - Whisky de 8 años equilibrado y suave
-- Whisky de 8 años equilibrado y suave
-- Ideal para tomar con Ginger Beer y una rodaja de limón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
