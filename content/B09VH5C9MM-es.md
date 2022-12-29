@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dewar s Botella de Whisky 8 Años Japanese Smooth  70cl'
-date: 2022-12-28 07:55:21
+date: 2022-12-29 09:11:17
 image: 'https://m.media-amazon.com/images/I/31qJymQnH5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para tomar con Ginger Beer y una rodaja de limón
-- Ideal para tomar con Ginger Beer y una rodaja de limón
 - Whisky de 8 años equilibrado y suave
-- Notas de brezo y miel, incorporando suaves notas florales, complejas notas de madera con sándalo y suculento luchee
-- Whisky Blended Escocés de 8 años extra suave
-- Notas de brezo y miel, incorporando suaves notas florales, complejas notas de madera con sándalo y suculento luchee
-- Whisky Blended Escocés de 8 años extra suave
-- Acabado en barricas de roble Mizunara
 - Acabado en barricas de roble Mizunara
 - Whisky de 8 años equilibrado y suave
+- Notas de brezo y miel, incorporando suaves notas florales, complejas notas de madera con sándalo y suculento luchee
+- Acabado en barricas de roble Mizunara
+- Whisky Blended Escocés de 8 años extra suave
+- Notas de brezo y miel, incorporando suaves notas florales, complejas notas de madera con sándalo y suculento luchee
+- Ideal para tomar con Ginger Beer y una rodaja de limón
+- Whisky Blended Escocés de 8 años extra suave
+- Ideal para tomar con Ginger Beer y una rodaja de limón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
