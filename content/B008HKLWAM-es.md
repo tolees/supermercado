@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Apto para regalar
-- Ideal con hielo o en cócteles
 - Sin aditivos
 - Con toques de cáscara de naranja y canela
+- Ideal con hielo o en cócteles
 - Color transparente y claro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

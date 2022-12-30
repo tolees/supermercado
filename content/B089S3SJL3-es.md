@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Duron - Durón – Vino Tinto Crianza 2017 Denominación de Origen Calificada Rioja  Variedad Tempranillo  12 meses en barrica – Caja de 6 botellas x 750 ml – Total: 4500 ml'
-date: 2022-12-27 20:00:51
+date: 2022-12-30 10:00:40
 image: 'https://m.media-amazon.com/images/I/4139NYNV2RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- BOCA: Fresco en boca, equilibrado, sabroso, con un buen paso sin perder ritmo, terminando con sensaciones de taninos muy pulidos y placenteras sensaciones aromáticas que permanecen en boca
-- COLOR: Ofrece un bonito color rubí-cereza de buena intensidad
-- CRIANZA: 12 meses en barricas de roble americano
 - Variedad de uva: 100% tempranillo
+- BOCA: Fresco en boca, equilibrado, sabroso, con un buen paso sin perder ritmo, terminando con sensaciones de taninos muy pulidos y placenteras sensaciones aromáticas que permanecen en boca
+- CRIANZA: 12 meses en barricas de roble americano
+- COLOR: Ofrece un bonito color rubí-cereza de buena intensidad
 - AROMA: En nariz dominan las frutas rojas (cassis y grosella) y en un segundo plano negras (mora), especiado (clavo y pimienta)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
