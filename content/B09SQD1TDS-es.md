@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SOCIETE DES PRODUITS NESTLE S.A. - Nestle Extrafino Snack Chocolate Con Leche 30 x34 g'
-date: 2022-12-18 10:50:20
+date: 2022-12-30 17:11:41
 image: 'https://m.media-amazon.com/images/I/51ofiNtO8fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SOCIETE DES PRODUITS NESTLE S.A.'
 buyurl: 'https://www.amazon.es/dp/B09SQD1TDS/?tag=tolees-21'
 descuento: '0.00'
-average: '16.0'
+average: '14.0233333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alemania
 - Chocolate con leche (34,4%) [azúcar, manteca de cacao, leche en polvo (5,3%), cacao, grasas vegetales (palma, shea), suero de leche en polvo, emulgente (lecitinas), extracto de vainilla], grasa de palma, harina de trigo, azúcar, suero de leche en polvo, cacao desgrasado (1,1%), leche desnatada en polvo (1,1%), gasificantes (bicarbonato amónico, carbonatos de sodio), maltodextrina, emulgentes (lecitinas, e476), sal; puede contener cacahuete, frutos secos y soja
 - Leche, trigo, cacahuete, frutos secos, soja
+- Alemania
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

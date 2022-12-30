@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ginebra Nordés 70cl Ed. Exclusiva Xacobeo 40º'
-date: 2022-12-26 22:21:54
+date: 2022-12-30 17:24:39
 image: 'https://m.media-amazon.com/images/I/21szSaJ4fcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nordés'
 buyurl: 'https://www.amazon.es/dp/B09JGWCCXQ/?tag=tolees-21'
 descuento: '21.33'
-average: '20.0883333333333'
+average: '20.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido de alcohol (alc/vol): 40.0 percent by volume
-- Se trata de un diseño que además homenajea a la naturaleza del Camino y de Galicia en general, con especial hincapié en los botánicos del bosque gallego con los que se elabora Nordés.
-- Un diseño único inspirado en el Camino de Santiago que incorpora elementos visuales vinculados a esta experiencia única.
-- Una ginebra Premium perfecta para regalo, para celebraciones especiales, o para disfrutar de una copa agradable en buena compañía.
 - Su receta única, se realiza con 11 botánicos naturales, 6 de ellos gallegos, que le otorgan su carácter fresco y equilibrado.
+- Se trata de un diseño que además homenajea a la naturaleza del Camino y de Galicia en general, con especial hincapié en los botánicos del bosque gallego con los que se elabora Nordés.
+- Una ginebra Premium perfecta para regalo, para celebraciones especiales, o para disfrutar de una copa agradable en buena compañía.
 - Con el sabor de siempre y haciendo un homenaje a su origen, Nordés presenta la nueva Edición Exclusiva Año Xacobeo.
+- Contenido de alcohol (alc/vol): 40.0 percent by volume
+- Un diseño único inspirado en el Camino de Santiago que incorpora elementos visuales vinculados a esta experiencia única.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
