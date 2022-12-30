@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Pintalabios efecto vinilo de larga duración Superstay Vinyl Ink de Maybelline New York
 - Contenido: 1x Maybelline New York, Pintalabios efecto Vinilo Superstay Vinyl Ink, Vinilo fijo, Larga Duración, Tono 50 Wicked
+- Agita antes de aplicar para activar la fórmula; ¡Sella el Vinilo e tus labios!
 - Su aplicador biselado de alta pecisión aporta máximo color y brillo en una sola pasada
 - Su fórmula vegana de tinta líquida y su tecnología vinilo fijo han sido diseñados para conseguir 16H de color y brillo
-- Agita antes de aplicar para activar la fórmula; ¡Sella el Vinilo e tus labios!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

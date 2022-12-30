@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Variedad de uva: 100% tempranillo
 - BOCA: Fresco en boca, equilibrado, sabroso, con un buen paso sin perder ritmo, terminando con sensaciones de taninos muy pulidos y placenteras sensaciones aromáticas que permanecen en boca
-- CRIANZA: 12 meses en barricas de roble americano
-- COLOR: Ofrece un bonito color rubí-cereza de buena intensidad
 - AROMA: En nariz dominan las frutas rojas (cassis y grosella) y en un segundo plano negras (mora), especiado (clavo y pimienta)
+- COLOR: Ofrece un bonito color rubí-cereza de buena intensidad
+- CRIANZA: 12 meses en barricas de roble americano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
