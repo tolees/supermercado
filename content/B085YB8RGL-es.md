@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Renueva la piel eliminando suavemente las células muertas e impurezas.
-- Prepara la piel multiplicando la absorción y la eficacia de los tratamientos corporales posteriores.
 - Exfoliante con acción reductora de triple acción.
-- Combate las grasas acumuladas gracias a su acción reductora.
 - Con partículas de Cáscara de Coco, Aceites de Café y Té Verde, Meadowfoam, Bisabolol y Cardo Mariano.
+- Prepara la piel multiplicando la absorción y la eficacia de los tratamientos corporales posteriores.
+- Renueva la piel eliminando suavemente las células muertas e impurezas.
+- Combate las grasas acumuladas gracias a su acción reductora.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

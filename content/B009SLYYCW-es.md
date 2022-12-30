@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnnie Walker Gold Label Reserve  whisky escocés blended  700 ml'
-date: 2022-12-24 17:27:03
+date: 2022-12-30 19:15:14
 image: 'https://m.media-amazon.com/images/I/41qzQ8OXr-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Johnnie Walker'
 buyurl: 'https://www.amazon.es/dp/B009SLYYCW/?tag=tolees-21'
 descuento: '21.30'
-average: '30.9690909090909'
+average: '31.2208333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Graduación alcohólica: 40 %
-- Una mezcla idónea, creación personal del maestro mezclador Jim Beveridge que celebra el arte del mezclado
 - Un whisky escocés que ha sido premiado en multitud de ocasiones por su equilibrio de sabores, que aportan algo especial a cada celebración
 - Fruta y vainilla intensas, notas amaderadas dulces y especiadas y un toque ahumado
+- Graduación alcohólica: 40 %
+- Una mezcla idónea, creación personal del maestro mezclador Jim Beveridge que celebra el arte del mezclado
 - Elaborado con whiskies de gran lujo de malta y grano de toda Escocia, seleccionados por su carácter dulce y notas de miel
 - Se aprecia en todo su esplendor en un Gold & Apple Highball: en un vaso alto con hielo, verter 50 ml de Gold Label Reserve, 75 ml de zumo de manzana, 75 ml de soda, y decorar con una rodaja de manzana
 
