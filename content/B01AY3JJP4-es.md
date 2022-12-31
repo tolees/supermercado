@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Damm - Cerveza Estrella Damm  Caja de 24 Latas 33cl | Cerveza Lager Mediterránea  Receta Original 1876  100% Ingredientes Naturales  en Lata'
-date: 2022-12-21 21:21:26
+date: 2022-12-31 18:52:45
 image: 'https://m.media-amazon.com/images/I/41vFTs+a2aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Damm'
 buyurl: 'https://www.amazon.es/dp/B01AY3JJP4/?tag=tolees-21'
 descuento: '16.65'
-average: '13.4694594594594'
+average: '13.4813157894736'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Número de items: 1
-- Estrella damm se elabora utilizando la receta original de 1876 resultado de la combinación de malta de cebada, arroz y lúpulo, 100% ingredientes naturales.
-- Contenido de alcohol (alc/vol): 5.4 percent_by_volume
-- Como servir: consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su caracter refrescante.
-- Volumen: 7920.0 milliliters
-- Es una cerveza versátil, ligera, refrescante y con un aroma limpio y respetuoso con la cebada.
-- Sin aditivos, ni conservantes, ni sulfitos añadidos.
-- Volumen paquete: 7.92 liters; tipo de alcohol: lagers
-- Procedencia: spain
 - Unidades: 7920.0
+- Estrella damm se elabora utilizando la receta original de 1876 resultado de la combinación de malta de cebada, arroz y lúpulo, 100% ingredientes naturales.
+- Sin aditivos, ni conservantes, ni sulfitos añadidos.
+- Contenido de alcohol (alc/vol): 5.4 percent_by_volume
+- Es una cerveza versátil, ligera, refrescante y con un aroma limpio y respetuoso con la cebada.
+- Número de items: 1
+- Volumen: 7920.0 milliliters
+- Volumen paquete: 7.92 liters; tipo de alcohol: lagers
+- Como servir: consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su caracter refrescante.
+- Procedencia: spain
 
 [🛒 Comprar!!!]({{< param buyurl >}})
