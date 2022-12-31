@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Monodosis listas para usar sin necesidad de retirar el envoltorio
+- Contienen sal que garantiza un aclarado completo a la vez que protege el cristal y la plata
 - Pastillas lavavajillas, limpieza que elimina la grasa incrustada a la primera
 - Mantinen un aroma limpio y fresco en el lavavajillas
 - Poderosa acción limpiadora con líquido quitagrasas que garantiza un acabado optimo
-- Contienen sal que garantiza un aclarado completo a la vez que protege el cristal y la plata
-- Monodosis listas para usar sin necesidad de retirar el envoltorio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
