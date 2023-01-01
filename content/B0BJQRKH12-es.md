@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Da a tu ropa una agradable fragancia
-- Deja tu colada limpia y fresca
 - Básico, la elección económica de Ariel
+- Deja tu colada limpia y fresca
+- Da a tu ropa una agradable fragancia
 - Un práctico detergente líquido con una fragancia fresca e intensa
 - Te ofrece lo necesario para eliminar las manchas causantes de malos olores
 
