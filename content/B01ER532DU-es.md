@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Maxibox Surtido de Golosinas  600g'
-date: 2022-12-26 09:50:30
+date: 2023-01-02 10:50:40
 image: 'https://m.media-amazon.com/images/I/51VcV+N-HxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B01ER532DU/?tag=tolees-21'
 descuento: '17.45'
-average: '3.71636363636365'
+average: '3.71000000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene trigo
-- Mix de caramelos de goma
 - Producto de España
 - Combinación de piezas de diferentes texturas y sabores
 - Incluye: ositos de oro, huevo, fresones, balla-balla duo y balla-balla fresa
+- Mix de caramelos de goma
+- Contiene trigo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
