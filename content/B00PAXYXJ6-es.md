@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Absorbe la grasa como si fuera un imán
 - La intensa espuma permite lavar de forma rápida y sencilla todo tipo de platos
 - La botella de 375 ml ofrece 240 lavados
+- Absorbe la grasa como si fuera un imán
 - Puede usarse directamente sobre la esponja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
