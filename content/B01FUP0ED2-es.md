@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Deja la piel suave
 - Crema reparadora para piel seca
+- Tiene una fórmula con 10% de urea
+- Deja la piel suave
 - Se puede usar en toto el cuerpo
 - La piel se va a mantener hidratada durante más tiempo
-- Tiene una fórmula con 10% de urea
 
 [🛒 Visítala!!!]({{< param buyurl >}})

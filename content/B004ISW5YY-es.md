@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene a su vez aceite de aguacate, que actúa como hidratante mientras suaviza las cutículas del pelo, y manteca de cacao, que restaura y mantiene la hidratación del cabello
+- El aceite de coco en este champú repara el cabello dañado y ayuda a prevenir la quiebra, fortaleciéndolo desde la raíz
+- Para óptimos resultados, utiliza este champú sin sulfatos junto con el resto de productos de la gama de Keratina Brasileña de OGX
 - Esta fórmula viene repleta de beneficios para tu cabello y es óptimo para limpiar en profundidad tu cabello y para que luzca santo y luminoso
 - El Champú de Keratina Brasileña contiene una fórmula enriquecida con aceite de coco y keratina, la cual es óptimo para fortalecer y dar suavidad al pelo ondulado o con rizos
-- Para óptimos resultados, utiliza este champú sin sulfatos junto con el resto de productos de la gama de Keratina Brasileña de OGX
-- El aceite de coco en este champú repara el cabello dañado y ayuda a prevenir la quiebra, fortaleciéndolo desde la raíz
+- Contiene a su vez aceite de aguacate, que actúa como hidratante mientras suaviza las cutículas del pelo, y manteca de cacao, que restaura y mantiene la hidratación del cabello
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
