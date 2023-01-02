@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fórmula sin lejía
-- Está testada dermatológicamente
-- Se puede utilizar como potenciador del lavado
 - Para todo tipo de ropa y tejidos que elimina las mancha
+- Se puede utilizar como potenciador del lavado
 - Eliminana las manchas incluso en lavados cortos y agua fría
+- Está testada dermatológicamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
