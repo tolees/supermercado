@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Delicioso mix de diferentes piezas: ladrillos fresa-nata, fresón, tricorazón, ositos de oro
 - Surtido de golosinas
 - Irresistible mix de sabores
-- Delicioso mix de diferentes piezas: ladrillos fresa-nata, fresón, tricorazón, ositos de oro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
