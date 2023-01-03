@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ElPozo Legado Ibérico Maletín de Jamón de Cebo Ibérico  15 x 60g'
-date: 2022-12-22 18:49:03
+date: 2023-01-03 19:04:09
 image: 'https://m.media-amazon.com/images/I/41fo29leZhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ElPozo'
 buyurl: 'https://www.amazon.es/dp/B08HRN69XF/?tag=tolees-21'
 descuento: '23.73'
-average: '45.765'
+average: '45.7061538461538'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cortado en medias lonchas con separador, listo para consumir.
-- 15 sobres de 60 gramos cada uno (900 gramos total)
-- Jamón de Cebo Ibérico, 50% raza ibérica (Certificado por CERTICALIDAD S.L.)
-- Sobres envasados al vacío que contribuyen a una mejor conservación del sabor.
-- Sin Gluten, Sin Lactosa
 - Alto oleico, Proteínas de alta calidad
+- Jamón de Cebo Ibérico, 50% raza ibérica (Certificado por CERTICALIDAD S.L.)
+- 15 sobres de 60 gramos cada uno (900 gramos total)
+- Sin Gluten, Sin Lactosa
+- Cortado en medias lonchas con separador, listo para consumir.
+- Sobres envasados al vacío que contribuyen a una mejor conservación del sabor.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
