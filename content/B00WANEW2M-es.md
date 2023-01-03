@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Marca : Nivea
-- Tipo de producto: leche corporal
 - Género : mujer
+- Tipo de producto: leche corporal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
