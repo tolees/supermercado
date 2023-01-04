@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ginebra Premium Nordés - 1 botella 1L'
-date: 2022-12-27 16:59:43
+date: 2023-01-04 10:29:53
 image: 'https://m.media-amazon.com/images/I/418o8kZj48L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nordés'
 buyurl: 'https://www.amazon.es/dp/B01N32MNUM/?tag=tolees-21'
 descuento: '21.91'
-average: '26.515142857143'
+average: '26.4727777777779'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Botella inspirada en la cerámica gallega de Sargadelos
-- Contenido de alcohol: 40% alcohol
 - Adecuada para regalo y celebraciones
+- Contenido de alcohol: 40% alcohol
+- Botella inspirada en la cerámica gallega de Sargadelos
 - Laborada mediante un proceso lento y cuidado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

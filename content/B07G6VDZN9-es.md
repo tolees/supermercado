@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nutre, hidrata y ayuda a reducir los signos de la edad en la piel, generando una sensación de bienestar inmediata
-- También incluye Manteca de Moringa, que es un superalimento, y Vitamina E
-- Contiene Aceite de Semillas de Cannabis, que es rico en ácidos grasos esenciales, vitaminas y aminoácidos
 - Aplicar en rostro, cuello, por la noche, dando un suave masaje hasta su completa absorción. También puede repetirse la aplicación por el día
 - Crema facial nutritiva e hidratante con aceite de semillas de Cannabis, especialmente formulada para pieles sensibles
+- También incluye Manteca de Moringa, que es un superalimento, y Vitamina E
+- Contiene Aceite de Semillas de Cannabis, que es rico en ácidos grasos esenciales, vitaminas y aminoácidos
+- Nutre, hidrata y ayuda a reducir los signos de la edad en la piel, generando una sensación de bienestar inmediata
 
 [🛒 Comprar!!!]({{< param buyurl >}})
