@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oreal Paris Dermo Expertise - L Oréal Paris Crema de Día Anti-Edad Intensiva Revitalift Láser  Con Pro- Xylane Concrentrado  Corrige arrugas  retexturiza la piel y remodela el rostro  50 ml'
-date: 2022-12-31 16:53:27
+date: 2023-01-04 07:35:29
 image: 'https://m.media-amazon.com/images/I/31ciMh2CDLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LOreal Paris Dermo Expertise'
 buyurl: 'https://www.amazon.es/dp/B00X9WDJBI/?tag=tolees-21'
 descuento: '49.82'
-average: '11.0037735849056'
+average: '11.0035185185185'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

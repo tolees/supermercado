@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnnie Walker Gold Edición Especial 70cl'
-date: 2022-12-21 12:57:46
+date: 2023-01-04 07:26:36
 image: 'https://m.media-amazon.com/images/I/31nnF14uqqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Alimentación y bebidas','Bebidas espirituosas y licores','Cervezas, vi
 actualPrice: 37.52 EUR
 currency: EUR
 price: 37.52
-comparePrice: 46.9 EUR
+comparePrice: 48.0 EUR
 prodname: 'Johnnie Walker Gold Edición Especial 70cl'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Johnnie Walker'
 buyurl: 'https://www.amazon.es/dp/B0BHF48G7C/?tag=tolees-21'
-descuento: '20.00'
+descuento: '21.83'
 average: '37.52'
 ---
 
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Elaborado con whiskies de gran lujo de malta y grano de toda Escocia, seleccionados por su carácter dulce y notas de miel
-- Un whisky escocés que ha sido premiado en multitud de ocasiones por su equilibrio de sabores, que aportan algo especial a cada celebración
 - Una mezcla idónea, creación personal del maestro mezclador Jim Beveridge que celebra el arte del mezclado
 - Johnnie Walker Gold en una botella única de Edición Especial
+- Un whisky escocés que ha sido premiado en multitud de ocasiones por su equilibrio de sabores, que aportan algo especial a cada celebración
 
 [🛒 Visítala!!!]({{< param buyurl >}})

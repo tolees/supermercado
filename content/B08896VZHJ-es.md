@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Sagra Bohemia Cerveza Lager estilo Pilsener -pack 24 latas x 330 ml - Total: 7920 ml'
-date: 2022-12-30 16:11:49
+date: 2023-01-04 07:27:43
 image: 'https://m.media-amazon.com/images/I/51KOwID6SmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'La Sagra'
 buyurl: 'https://www.amazon.es/dp/B08896VZHJ/?tag=tolees-21'
 descuento: '18.69'
-average: '13.8866666666667'
+average: '13.8776'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alcohol: 5.2%
 - Aroma: lupulado suave
-- Temperatura de consumo: 4-6 ˚C
+- Alcohol: 5.2%
 - De color dorado y espuma firme
+- Temperatura de consumo: 4-6 ˚C
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
