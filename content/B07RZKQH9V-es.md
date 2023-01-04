@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Champú sin colorantes, ftalatos, sulfatos, alcohol ni jabón
 - Deja el pelo limpio y con aspecto saludable
-- Champú de camomila hipoalergénico y con pH equilibrado
 - Nuestra fórmula No Llores Más evita las lágrimas y es tan suave en los ojos como el agua más pura.
 - Ideal para toda la familia
+- Champú de camomila hipoalergénico y con pH equilibrado
+- Champú sin colorantes, ftalatos, sulfatos, alcohol ni jabón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

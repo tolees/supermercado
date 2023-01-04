@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sistema de polímeros dual que ayuda a fijar las pestañas, aumenta su longitud y consigue un efecto lifting
 - Tres beneficios en un solo producto: volumen extremo, longitud infinita y efecto lifting
-- Cepillo transformable. Fórmula ovalada para atrapar y esculpir mejor las pestañas
-- Sistema espesante de arcillas y cera que aportan un extra de volumen
 - Efecto 3D
+- Cepillo transformable. Fórmula ovalada para atrapar y esculpir mejor las pestañas
+- Sistema de polímeros dual que ayuda a fijar las pestañas, aumenta su longitud y consigue un efecto lifting
+- Sistema espesante de arcillas y cera que aportan un extra de volumen
 
 [🛒 Aquí!!!]({{< param buyurl >}})
