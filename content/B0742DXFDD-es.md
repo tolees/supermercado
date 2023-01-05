@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dispone de un pincel que se desliza adecuadamente en la uña
 - Para color de alto brillo y antidesgaste hasta 10 días
-- En botella de 8 ml
 - Con una fórmula de secado rápido en menos de 60 segundos
+- En botella de 8 ml
+- Dispone de un pincel que se desliza adecuadamente en la uña
 
 [🛒 Visítala!!!]({{< param buyurl >}})
