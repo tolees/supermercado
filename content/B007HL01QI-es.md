@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Max Factor
-- Tipo de producto: Lapiz de labios
 - Género: Mujer
 - Ayuda a prevenir el sangrado de los labiales
+- Tipo de producto: Lapiz de labios
+- Marca: Max Factor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
