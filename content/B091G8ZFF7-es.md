@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Varios orígenes: Brasil o Argentina/España.
-- Ingredientes: CACAHUETES, pipas, pasa sultana y bolitas y estrelllas multicereales
 - Conservar en lugar limpio, fresco y seco.
 - Alérgenos: Puede contener trazas de otros frutos de cáscara, leche, soja y derivados
+- Ingredientes: CACAHUETES, pipas, pasa sultana y bolitas y estrelllas multicereales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Professionnel - L’Oréal Professionnel | Pack Champú Reconstructor + Mascarilla + Aceite para cabellos secos y dañados  Absolut Repair  SERIE EXPERT  Champú 300 ml + Mascarilla 250 ml + Aceite 90 ml'
-date: 2023-01-04 10:27:19
+date: 2023-01-05 12:00:34
 image: 'https://m.media-amazon.com/images/I/419WmgC+BxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

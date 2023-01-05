@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formato: 2x 72 gummies (144). 1x bote Sabor frutos del bosque y 1x bote Sabor manga y plátano.
 - Sin saborizantes artificiales, colorantes, edulcorantes, conservantes, sin lactosa, sin gluten. Sabor natural de mango, plátano y frutos del bosque.
-- Tomar una gummy 30 minutos antes de irse a dormir. Gracias a sus ingredientes naturales, se pueden tomar a diario.
 - No superar la dosis diaria recomendada. Mantener fuera del alcance de los niños menores de 3 años.
 - Contiene 1 mg de Melatonina pura, regulando el ciclo natural del sueño, e 1.4 mg de Vitamina B6, Valeriana, Camomila y Lavanda que ayudan a conciliar el sueño de forma natural y rápida.
 - Pastillas para dormir que ayuda a conciliar el sueño rápidamente, regulando el ciclo natural del sueño. Sin sentirte somnoliento al despertar, sin crear dependencia.
+- Tomar una gummy 30 minutos antes de irse a dormir. Gracias a sus ingredientes naturales, se pueden tomar a diario.
+- Formato: 2x 72 gummies (144). 1x bote Sabor frutos del bosque y 1x bote Sabor manga y plátano.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
