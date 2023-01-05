@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una galleta ideal para tomar con tu té o café con una textura crujiente y un chocolate cremoso, óptimo para picar entre horas
-- Saborea el paraíso con este producto elaborado en canarias y entregado a la comodidad de tu puerta
-- Deliciosa galleta rectangular combinada con una suave y cremosa mini tableta de chocolate con leche tirma
-- Un snack vegetariano (no contiene huevo); hechas para regalar y compartir; conservar en un lugar fresco y seco
 - Las chocogalletas vienen empaquetadas en una bandeja de plástico, resistente a la humedad, con 4 divisores y 2 galletas en cada divisor (8 galletas por paquete)
+- Saborea el paraíso con este producto elaborado en canarias y entregado a la comodidad de tu puerta
+- Un snack vegetariano (no contiene huevo); hechas para regalar y compartir; conservar en un lugar fresco y seco
+- Deliciosa galleta rectangular combinada con una suave y cremosa mini tableta de chocolate con leche tirma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
