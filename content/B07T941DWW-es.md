@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vileda Tabla Neo  Acero  Espuma y algodón  Azul  Largo'
-date: 2023-01-04 15:13:29
+date: 2023-01-06 17:33:57
 image: 'https://m.media-amazon.com/images/I/31ZWf-dEnnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vileda'
 buyurl: 'https://www.amazon.es/dp/B07T941DWW/?tag=tolees-21'
 descuento: '22.68'
-average: '27.445'
+average: '27.936'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

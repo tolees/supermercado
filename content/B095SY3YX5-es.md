@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La acción purificante del Eucalipto, normaliza el exceso de secreciones sebáceas acumuladas en el cabello dejando una melena más suelta y con menos peso
 - Libre de sulfatos, parabenos y colorantes. Dermatológicamente testado
 - Género; Unisex. Adulto.
 - No testado en animales. Vegano. Fabricación íntegra en España
+- La acción purificante del Eucalipto, normaliza el exceso de secreciones sebáceas acumuladas en el cabello dejando una melena más suelta y con menos peso
 - Limpieza suave, eficaz y respetuosa del cuero cabelludo. Cremosa espuma.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
