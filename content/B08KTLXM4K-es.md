@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tonificación diaria para el cabello rubio platino y gris/plateado - Sabemos que el cabello rubio puede ser difícil. Este acondicionador sin aclarado de color púrpura fue diseñado para eliminar estos problemas. Asociamos niveles suaves de pigmentos púrpura con un tratamiento acondicionador.
-- Prolonga el tiempo entre las visitas al salón - Todos queremos mantener nuestro acabado fresco de salón y con el uso regular, este acondicionador púrpura sin aclarado ayudará a equilibrar tu color reduciendo los tonos amarillos para preservar sus radiantes mechones rubios.
 - Fórmula nutritiva - Una fórmula hidratante que encapsula los activos de la manteca de karité y el aceite de girasol con el pantenol y la alantoína de alta tecnología. Esta innovadora mezcla hace maravillas en el cabello seco, realzando el brillo natural. ¿Qué más se puede necesitar?
 - Belleza eco-responsable - Este spray ha sido diseñado para mantener la salud del cabello y lo mejor es que en BOLD UNIQ estamos orgullosos de ser libres de parabenos y sulfatos, de estar aprobados por PETA como libres de crueldad y 100% veganos. Además, nuestros tarros están hechos de plástico reciclado.
+- Tonificación diaria para el cabello rubio platino y gris/plateado - Sabemos que el cabello rubio puede ser difícil. Este acondicionador sin aclarado de color púrpura fue diseñado para eliminar estos problemas. Asociamos niveles suaves de pigmentos púrpura con un tratamiento acondicionador.
 - Cuida tu cabello - Este producto no sólo tonifica suavemente tu cabello, sino que también actúa para desenredar los mechones. Tiene una fórmula rica en emolientes para hacer frente a los tirones, minimizando la rotura y fomentando el crecimiento y la reparación natural del cabello.
+- Prolonga el tiempo entre las visitas al salón - Todos queremos mantener nuestro acabado fresco de salón y con el uso regular, este acondicionador púrpura sin aclarado ayudará a equilibrar tu color reduciendo los tonos amarillos para preservar sus radiantes mechones rubios.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
