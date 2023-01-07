@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fifty Pounds Gin London Dry Gin 43 5% Vol. 0 7l'
-date: 2022-12-30 14:14:32
+date: 2023-01-07 08:02:22
 image: 'https://m.media-amazon.com/images/I/317ysclR8zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fifty Pounds'
 buyurl: 'https://www.amazon.es/dp/B004EXON0W/?tag=tolees-21'
 descuento: '23.56'
-average: '17.0936363636364'
+average: '17.2483333333334'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Nariz: enebro, notas florales, frutas cítricas
 - Adecuado como regalo
-- Color: claro
 - Producto de calidad
+- Color: claro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
