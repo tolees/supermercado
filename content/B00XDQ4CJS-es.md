@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aceite de girasol, agua, vinagre de alcohol, azúcar, suero de leche en polvo, mango, cebola,albaricoque, curry (contiene apio y mostaza), sal, almidón modificado, especia,acidulante (ácido cítrico),espesante (goma xantana), colorante (betacaroteno)
 - Realza el sabor de tus platos con un toque dulce y ligeramente picante inspirado en la cocina india
 - Salsa afrutada con mango y sazonada con el sabor del curry. El paquete puede variar.
+- Aceite de girasol, agua, vinagre de alcohol, azúcar, suero de leche en polvo, mango, cebola,albaricoque, curry (contiene apio y mostaza), sal, almidón modificado, especia,acidulante (ácido cítrico),espesante (goma xantana), colorante (betacaroteno)
 - Adecuada para platos con pollo, cerdo y verduras
 - Alérgenos: Apio, Mostaza y Leche y sus derivados
 
