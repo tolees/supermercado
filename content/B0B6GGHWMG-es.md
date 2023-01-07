@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: cosméticos veganos
 - Espejo integrado
-- Contenido: 45 sombras de ojos 12 brillo de labios en crema 6 rubores 2 iluminadores 2 barras de labios 2 brillos de labios con aplicador 2 lápices de contorno de labios 1 x 10 uds. Set de brocha/aplicador 1 x espejo incorporado
 - Maletín de maquillaje completo con aspecto de cuero negro: 45 sombras de ojos, 12 brillos de labios, 6 coloretes, 2 resaltador, 2 barras de labios, 2 brillos de labios, 2 delineadores de labios, 6 aplicadores dobles, 3 pinceles de labios, 1 brocha plana para polvos
+- Contenido: 45 sombras de ojos 12 brillo de labios en crema 6 rubores 2 iluminadores 2 barras de labios 2 brillos de labios con aplicador 2 lápices de contorno de labios 1 x 10 uds. Set de brocha/aplicador 1 x espejo incorporado
+- Contenido: cosméticos veganos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
