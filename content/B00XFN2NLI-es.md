@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sabor de mayonesa clásica
-- Sin gluten ni derivados lácteos
 - País de origen: España
-- Máxima calidad
+- Sin gluten ni derivados lácteos
 - Menos de la mitad de calorías que una mayonesa
+- Sabor de mayonesa clásica
+- Máxima calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
