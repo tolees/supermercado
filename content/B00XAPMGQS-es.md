@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo - Fresones Pica - Caramelos de goma - 1 kg'
-date: 2023-01-07 16:59:03
+date: 2023-01-08 19:01:15
 image: 'https://m.media-amazon.com/images/I/516qzwyxHtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B00XAPMGQS/?tag=tolees-21'
 descuento: '47.87'
-average: '8.2'
+average: '7.375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
 - Deliciosas piezas con forma de la icónica fresa
+- Conservar en lugar fresco y seco
 - Disfruta de su intenso sabor a fresa con recubrimiento pica
 - Caramelos de goma
 
