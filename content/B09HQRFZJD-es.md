@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Champú sólido perfecto para cabellos con caspa. Su potente acción elimina la descamación y controla la producción de sebo.
-- Modo de uso: frota la pastilla por tu cabello y masajea para hacer espuma como harías con tu champú habitual. Aclara con abundante agua y disfruta de un cabello brillante, fortalecido y limpio durante más tiempo.
-- Champú Solido Anticaspa. Pardo Natur | Elimina la descamación | Ingredientes naturales | 60 gr
-- Fórmula con ingredientes naturales, vegana, biodegradable, sin parabenos ni siliconas.
 - Formato sólido y sin plásticos = máximo ahorro y respeto al medio ambiente.
+- Modo de uso: frota la pastilla por tu cabello y masajea para hacer espuma como harías con tu champú habitual. Aclara con abundante agua y disfruta de un cabello brillante, fortalecido y limpio durante más tiempo.
+- Fórmula con ingredientes naturales, vegana, biodegradable, sin parabenos ni siliconas.
+- Champú Solido Anticaspa. Pardo Natur | Elimina la descamación | Ingredientes naturales | 60 gr
 
 [🛒 Comprar!!!]({{< param buyurl >}})

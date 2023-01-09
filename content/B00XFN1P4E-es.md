@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ayuda a mantener el pelo y la piel brillantes del gato
+- Con nivel moderado de grasas y calorías para mantener el peso
 - Apto para gatos esterilizados
 - Elaborado sin azúcares añadidos, conservantes ni colorantes
 - Elaborado con prebióticos naturales para proteger la flora intestinal
-- Ayuda a mantener el pelo y la piel brillantes del gato
-- Con nivel moderado de grasas y calorías para mantener el peso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
