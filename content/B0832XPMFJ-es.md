@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Edulcorante Granulado se disuelve como el azúcar, otorga Volumen, Textura y dulzor a tus recetas, Excelente para hornear en Repostería, y puede ser consumido en la alimentación por Diabéticos, Veganos, Vegetarianos y Celíacos.
 - Eritritol 100% Natural, Edulcorante Zero Calorías, Sin Carbohidratos Activos, No eleva el índice Glucémico, Certificado no transgénico, se obtiene mediante fermentación.
+- Edulcorante Granulado se disuelve como el azúcar, otorga Volumen, Textura y dulzor a tus recetas, Excelente para hornear en Repostería, y puede ser consumido en la alimentación por Diabéticos, Veganos, Vegetarianos y Celíacos.
 - Usado en dietas Cetogénicas, y por Deportistas. Empaquetado en Bolsa con Zip de 1 Kg para facilitar el uso en tus comidas y bebidas favoritas, Calientes o Frias living your healthy Life
-- Sabor fresco 70% de poder endulzante del azúcar, 130 gramos de Eritritol endulzan como 100 gramos de azúcar, no deja regusto amargo asociado con otros edulcorantes, como la stevia o el Monk fruit .
 - Eritritol puro zero calorías 100% natural 🌿 que se encuentra en la fruta y los alimentos. 130 gramos de eritritol proporcionan el poder edulcorante de 100 gramos de azúcar.
+- Sabor fresco 70% de poder endulzante del azúcar, 130 gramos de Eritritol endulzan como 100 gramos de azúcar, no deja regusto amargo asociado con otros edulcorantes, como la stevia o el Monk fruit .
 
 [🛒 Visítala!!!]({{< param buyurl >}})
