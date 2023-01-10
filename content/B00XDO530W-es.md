@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ballantine s Finest Whisky Escocés de Mezcla  1L'
-date: 2023-01-09 12:38:37
+date: 2023-01-10 12:57:06
 image: 'https://m.media-amazon.com/images/I/41iMSKWXGzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ballantines'
 buyurl: 'https://www.amazon.es/dp/B00XDO530W/?tag=tolees-21'
 descuento: '26.55'
-average: '14.458275862069'
+average: '14.4096666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Todos los ingredientes son añejados durante varios años en barricas de gran calidad
-- ‎Conservar alejada de luces intensas y en lugares con temperatura fresca y constante, en posición vertical
-- Tiene un sabor especial con notas de chocolate, manzana roja y vainilla
 - Whiskey con un aroma característico de brezo y un toque de especial
 - Whisky escocés de mezcla, refinado y elegante
+- Todos los ingredientes son añejados durante varios años en barricas de gran calidad
+- Tiene un sabor especial con notas de chocolate, manzana roja y vainilla
+- ‎Conservar alejada de luces intensas y en lugares con temperatura fresca y constante, en posición vertical
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
