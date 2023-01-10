@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Hidratante
-- De la marca: Paul Mitchell
 - Producto de alta calidad
+- De la marca: Paul Mitchell
 
 [🛒 Visítala!!!]({{< param buyurl >}})
