@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Felipe II Bebida Espirituosa elaborada a base de brandy de jerez 30º - 70 cl'
-date: 2023-01-08 14:30:14
+date: 2023-01-11 15:11:18
 image: 'https://m.media-amazon.com/images/I/3106GI2WJPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Paladar suave y aterciopelado, persistente; ligeramente abocado
+- Color ámbar con ribetes ligeramente rojizos; brillante, transparente; luminoso
 - De intensidad aromática media, con notas de buen destilado y enriquecido por finas notas de frutos secos e higos; elegante matiz de madera de roble con notas de vainilla y bombón
 - Graduación alcohólica: 30%Vol
-- Color ámbar con ribetes ligeramente rojizos; brillante, transparente; luminoso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
