@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Chocolate con leche cubierto de galletas
 - Tiene un sabor dulce y salado a la vez
-- Ideal para toda la famila
-- La textura es crujiente
 - Conservar en lugar fresco y seco
+- La textura es crujiente
+- Ideal para toda la famila
 
 [🛒 Comprar!!!]({{< param buyurl >}})
