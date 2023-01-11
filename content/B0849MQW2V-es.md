@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nutre de forma natural los cabellos finos y/o dañados.
-- Estimula el crecimiento y reduce la caída del cabello desde los primeros lavados. Incrementa la circulación sanguínea, regula y controla la secreción sebácea y la alopecia.
-- Limpia el cabello en profundidad eficaz y suavemente con agentes de origen 100% vegetal, libre de sulfatos y alcohol; permitiendo un uso frecuente en cuero cabelludo sensible.
 - Retrasa notablemente la repetición del lavado, manteniendo el pelo limpio y brillante durante mas tiempo
-- Fortalece y protege el pelo de roturas de forma natural. Aumenta la densidad, grosor, volumen y salud del cabello débil o envejecido.
+- Estimula el crecimiento y reduce la caída del cabello desde los primeros lavados. Incrementa la circulación sanguínea, regula y controla la secreción sebácea y la alopecia.
+- Nutre de forma natural los cabellos finos y/o dañados.
 - Regula eficazmente la secreción sebácea.
+- Limpia el cabello en profundidad eficaz y suavemente con agentes de origen 100% vegetal, libre de sulfatos y alcohol; permitiendo un uso frecuente en cuero cabelludo sensible.
+- Fortalece y protege el pelo de roturas de forma natural. Aumenta la densidad, grosor, volumen y salud del cabello débil o envejecido.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
