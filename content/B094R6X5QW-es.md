@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KERASTASE - Kérastase | Curl Manifesto  Champú Cremoso para Rizos  Para Pelo Ondulado  Rizado o Afro  Bain Hydratation Douceur  250 ml'
-date: 2023-01-08 11:29:20
+date: 2023-01-11 09:01:19
 image: 'https://m.media-amazon.com/images/I/31Z4pwxzGJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Limpia con suavidad el cuero cabelludo y el cabello. Los activos de su poderosa fórmula eliminan las impurezas y la acumulación de productos de peinado
 - Bain Hydratation Douceur de la gama Curl Manifesto es un champú hidratante que define y refuerza el pelo ondulado, rizado o afro. Formulado con miel de manuka hidratante y ceramida fortalecedora para enriquecer el cabello al instante. Fórmula sin sulfatos para un tacto natural
+- Limpia con suavidad el cuero cabelludo y el cabello. Los activos de su poderosa fórmula eliminan las impurezas y la acumulación de productos de peinado
 - Aplicar sobre cabello húmedo. Distribuir en forma de estrella en el cuero cabelludo, masajeando para generar espuma y liberar las notas aromáticas, mientras se distribuye al resto del cabello. Emulsionar y aclarar. Para un mejor resultado combinar con el resto de la gama Curl Manifesto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
