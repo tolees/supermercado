@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Delicioso sabor: extracción óptima de los aceites del café gracias a sus microperforaciones AromaPor
-- Sabor equilibrado: tiempo de filtrado equilibrado gracias al espacio entre las microperforaciones
-- Para preparar un delicioso café rico en aromas, No altera el sabor, Diseñado para cafeteras de filtro, Ajuste perfecto a portafiltros de tamaño 1x6
-- Resistente al rasgado, Biodegradable, Certificado FSC
 - Contenido: 40 Filtros de café Melitta Original, Marrón, Tamaño 1x6, Peso: 150 g
+- Delicioso sabor: extracción óptima de los aceites del café gracias a sus microperforaciones AromaPor
+- Para preparar un delicioso café rico en aromas, No altera el sabor, Diseñado para cafeteras de filtro, Ajuste perfecto a portafiltros de tamaño 1x6
+- Sabor equilibrado: tiempo de filtrado equilibrado gracias al espacio entre las microperforaciones
+- Resistente al rasgado, Biodegradable, Certificado FSC
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Happy Time  1 x 150 g'
-date: 2023-01-02 17:50:15
+date: 2023-01-11 10:15:01
 image: 'https://m.media-amazon.com/images/I/51-O3yfgUdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B08M1CPBZN/?tag=tolees-21'
 descuento: '22.35'
-average: '1.3125'
+average: '1.31846153846154'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Delicioso mix de diferentes piezas: ladrillos fresa-nata, fresón, tricorazón, ositos de oro
-- Surtido de golosinas
 - Irresistible mix de sabores
+- Surtido de golosinas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

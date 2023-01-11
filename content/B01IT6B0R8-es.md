@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Apto para consumir de modo directo
+- Aceite obtenido a partir de la mezcla de aceite de oliva virgen y aceite refinado
+- Producto adecuado para cocinar en plancha, guisos, o fritos
 - País de origen: España
 - Acidez máxima: 1°
-- Aceite obtenido a partir de la mezcla de aceite de oliva virgen y aceite refinado
-- Apto para consumir de modo directo
-- Producto adecuado para cocinar en plancha, guisos, o fritos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
