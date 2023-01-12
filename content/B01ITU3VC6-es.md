@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Refresco con sabor a cola bajo en calorías con edulcorantes
 - Apto para veganos, vegetarianos, es un refresco espumoso bajo en calorías
+- El golpe duradero de caramelo y vainilla y el sabor intenso de una Pepsi normal
 - Ideal para fiestas, comidas y celebraciones grandes y pequeñas y todos los días
 - Mejor servido frío o con hielo
-- El golpe duradero de caramelo y vainilla y el sabor intenso de una Pepsi normal
+- Refresco con sabor a cola bajo en calorías con edulcorantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

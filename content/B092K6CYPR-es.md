@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
-- Tattoo Liner Smokey viene con un sacapuntas incorporado dentro de la esponja difuminadora
-- Lápiz de ojos efecto tatuaje semi-permanente
-- Acabado Smokey
 - Aplica con su aplicador automático donde desees
+- Lápiz de ojos efecto tatuaje semi-permanente
+- Tattoo Liner Smokey viene con un sacapuntas incorporado dentro de la esponja difuminadora
+- Acabado Smokey
+- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
