@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vibrante y elegante, las notas superiores de pomelo, cilantro y albahaca revelan la firma oriental picante de la fragancia
 - Las notas cálidas y picantes de jengibre y cardamomo se combinan con la encantadora y dulce flor de naranja, cautivadora con su masculinidad
 - Está encerrado en un flacon elegante de tonos oscuros acabados con una tapa de metal negra brillante
+- Vibrante y elegante, las notas superiores de pomelo, cilantro y albahaca revelan la firma oriental picante de la fragancia
 - Una base de tabaco rico, intenso, notas ambery sensuales y cedro cálido crea una impresión profunda y duradera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
