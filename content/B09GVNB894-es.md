@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Contiene leche, gluten y soja.
-- Un snack perfecto con la deliciosa mezcla de Choco Blanco, Galleta y Barquillo relleno de Cacao.
 - Molde distintivo del tradicional Huesitos con la combinación de Barquillo y Galleta.
-- Azúcar, manteca de cacao, leche desnatada en polvo, lactosuero en polvo (leche), harina de trigo (gluten), mantequilla concentrada (leche), grasa vegetal (palma y palmiste), pasta de cacao, cacao desgrasado en polvo, almidón de trigo (gluten), malta de trigo en polvo (gluten), sirope de azúcar caramelizado, emulsionante: lecitina de soja, gasificante: bicarbonato de sodio, sal, aromas.
+- Un snack perfecto con la deliciosa mezcla de Choco Blanco, Galleta y Barquillo relleno de Cacao.
 - Tableta de Chocolate Blanco con deliciosos trocitos de Barquillo relleno de Cacao Valor y Galleta. 125 Gramos.
+- Azúcar, manteca de cacao, leche desnatada en polvo, lactosuero en polvo (leche), harina de trigo (gluten), mantequilla concentrada (leche), grasa vegetal (palma y palmiste), pasta de cacao, cacao desgrasado en polvo, almidón de trigo (gluten), malta de trigo en polvo (gluten), sirope de azúcar caramelizado, emulsionante: lecitina de soja, gasificante: bicarbonato de sodio, sal, aromas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
