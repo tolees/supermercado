@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 90 monodosis: 5 paquetes x 18 monodosis
-- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
-- Intensidad: 5/5
-- 70 % arábica, 30 % robusta
 - Tostado y envasado en Bélgica
+- 90 monodosis: 5 paquetes x 18 monodosis
+- 70 % arábica, 30 % robusta
 - Intenso y fuerte
+- Intensidad: 5/5
+- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
 - Monodosis de café compatibles con Senseo (*No registrado en Amazon EU S.a.r.l.). Asegúrese siempre de seguir las instrucciones del fabricante de la cafetera.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
