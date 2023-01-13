@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Variedad de uva: 100% Tinta del país
-- CRIANZA: Crianza de 12 meses en barrica de roble americano y francés
 - COLOR: Limpio y brillante, tonalidades rojo picota con ribetes color rubí.
+- CRIANZA: Crianza de 12 meses en barrica de roble americano y francés
 - AROMA: Varietales a frutos negros (mora), matices especiados y de madera de roble bien integrados.
 - BOCA: Equilibrado, sabroso, redondo y estructurado. Largo, con taninos muy pulidos y notable persistencia aromática.
+- Variedad de uva: 100% Tinta del país
 
 [🛒 Comprar!!!]({{< param buyurl >}})
