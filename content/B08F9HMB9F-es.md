@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El tacto es ligero y de rápida absorción. El resultado inmediato es una sensación de frescor y protección cutánea
-- Crema facial para hombres con un potente efecto antiedad que reduce las arrugas y manchas del rostro
 - Aplicar mañana y noche sobre la piel limpia de rostro y cuello
-- Con Vitamina B3 para un efecto antioxidante y protección frente al envejecimiento prematuro provocado por la luz azul emitida por los dispositivos electrónicos
 - Formulada con Aceite de Semilla de Cannabis y Ácido Hialurónico, aporta una hidratación natural a la piel y controla la secreción de grasa
+- Crema facial para hombres con un potente efecto antiedad que reduce las arrugas y manchas del rostro
+- Con Vitamina B3 para un efecto antioxidante y protección frente al envejecimiento prematuro provocado por la luz azul emitida por los dispositivos electrónicos
+- El tacto es ligero y de rápida absorción. El resultado inmediato es una sensación de frescor y protección cutánea
 
 [🛒 Comprar!!!]({{< param buyurl >}})
