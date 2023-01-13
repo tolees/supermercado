@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¿CÓMO TOMAR? Tomar 1 perla al día desde al menos un mes antes de la concepción y hasta tres meses después de esta. No superar la dosis diaria recomendada. Mantener fuera del alcance de los niños más pequeños. Guardar en un lugar fresco y seco.
-- DESARROLLO CEREBRAL Y VISUAL DEL FETO: Gracias al alto contenido de DHA, un ácido graso esencial de la serie omega-3 que te aporta los requerimientos necesarios de esta etapa.
-- ¿PARA QUIÉN? Indicado para la etapa preconcepcional, mujeres embarazadas o que estén en periodo de lactancia.
 - ¿QUÉ ES? DONNAplus Embarazo es un complemento alimenticio pensado para el embarazo con un alto contenido en DHA, hierro aminoquelado, yodo, vitaminas, minerales y un alto contenido de ácido fólico. *Los complementos alimenticios no deben sustituir una dieta variada y equilibrada y un estilo de vida saludable.
+- DESARROLLO CEREBRAL Y VISUAL DEL FETO: Gracias al alto contenido de DHA, un ácido graso esencial de la serie omega-3 que te aporta los requerimientos necesarios de esta etapa.
+- ¿CÓMO TOMAR? Tomar 1 perla al día desde al menos un mes antes de la concepción y hasta tres meses después de esta. No superar la dosis diaria recomendada. Mantener fuera del alcance de los niños más pequeños. Guardar en un lugar fresco y seco.
 - VITAMINAS, MINERALES Y ÁCIDO FÓLICO: Con 11 vitaminas, 5 minerales y ácido fólico para reducir el factor de riesgo de defectos del tubo neural del feto en desarrollo.
+- ¿PARA QUIÉN? Indicado para la etapa preconcepcional, mujeres embarazadas o que estén en periodo de lactancia.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
