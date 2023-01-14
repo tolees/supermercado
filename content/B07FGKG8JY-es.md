@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El cepillo de dientes eléctrico esencial para conseguir una limpieza diaria
 - Vibra cada 30 segundos para avisarte de que cambies la zona que te estás cepillando
-- Contenido: 1 mango de cepillo de dientes, 2 cabezales de recambio
+- El cepillo de dientes eléctrico esencial para conseguir una limpieza diaria
 - Elimina más placa que un cepillo de dientes manual normal
+- Contenido: 1 mango de cepillo de dientes, 2 cabezales de recambio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

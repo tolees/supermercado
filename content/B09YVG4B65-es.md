@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5 en 1 – El agua micelar hidratante NIVEA MicellAIR aporta 5 beneficio a la piel, ya que desmaquilla, limpia, hidrata, purifica y refresca la piel.
-- Fórmula vegana – Esta agua limpiadora micelar no tiene ingredientes de origen animal. La botella es de un 96% material reciclado (excepto tapón y etiqueta).
-- Contenido del envío – NIVEA MicellAIR Skin Breathe Agua Micelar Piel Seca/Sensible, agua micelar facial con aceite de almendras, pack de 2, 2 x 400 ml, botella.
-- Piel oxigenada – Al tener el mismo pH que el agua, esta agua micelar limpiadora con su fórmula sin perfumes hidrata y oxigena la piel respetando su manto ácido.
 - Elimina las impurezas – Para tener una piel limpia y cuidada, el agua desmaquillante micelar elimina las impurezas como el maquillaje y la suciedad de la piel.
+- Piel oxigenada – Al tener el mismo pH que el agua, esta agua micelar limpiadora con su fórmula sin perfumes hidrata y oxigena la piel respetando su manto ácido.
+- Contenido del envío – NIVEA MicellAIR Skin Breathe Agua Micelar Piel Seca/Sensible, agua micelar facial con aceite de almendras, pack de 2, 2 x 400 ml, botella.
+- Fórmula vegana – Esta agua limpiadora micelar no tiene ingredientes de origen animal. La botella es de un 96% material reciclado (excepto tapón y etiqueta).
+- 5 en 1 – El agua micelar hidratante NIVEA MicellAIR aporta 5 beneficio a la piel, ya que desmaquilla, limpia, hidrata, purifica y refresca la piel.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
