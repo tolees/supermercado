@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para un pelo suave y disciplinado
 - Champú Pantene Pro-V Miracles con un complejo resistente a la humedad
 - Ayuda a prevenir el encrespamiento antes de que aparezca. Para equilibrar la hidratación
-- Testado por el Swiss Vitamin Institute
+- Para un pelo suave y disciplinado
 - la Ampolla Concentrada Frizz Resist con biotina para el cabello encrespado
+- Testado por el Swiss Vitamin Institute
 
 [🛒 Comprar!!!]({{< param buyurl >}})

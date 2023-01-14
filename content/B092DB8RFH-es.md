@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza Café en Grano Tostado Crema e Gusto  Café Espresso Arábica y Robusta  Paquete de 1 Kg'
-date: 2023-01-12 08:01:19
+date: 2023-01-14 12:24:48
 image: 'https://m.media-amazon.com/images/I/41fc4J2Ym+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lavazza'
 buyurl: 'https://www.amazon.es/dp/B092DB8RFH/?tag=tolees-21'
 descuento: '22.28'
-average: '13.1016666666667'
+average: '13.17'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AROMÁTICO: Sabor redondo y envolvente con notas aromáticas especiadas. El café ideal para cualquier hora del día
 - CALIDAD LAVAZZA: Una mezcla de café en grano suave y envolvente de la excelente variedad Arábica de Brasil y Robusta del Sudeste Asiático
-- ASPECTO: Crema dorada y color cálido - AROMA: notas de chocolate - SABOR: persistente y equilibrado
-- NATURAL: No Torrefacto. En el envase aparece la palabra en italiano torrefatto que en español significa tostado
-- ENVASE: Café Lavazza en grano Crema e Gusto, paquete de 1 kg
 - MEZCLA: Arábica y Robusta - Tueste: Oscuro - Intensidad: 8 Media intensa
+- AROMÁTICO: Sabor redondo y envolvente con notas aromáticas especiadas. El café ideal para cualquier hora del día
+- ENVASE: Café Lavazza en grano Crema e Gusto, paquete de 1 kg
+- NATURAL: No Torrefacto. En el envase aparece la palabra en italiano torrefatto que en español significa tostado
+- ASPECTO: Crema dorada y color cálido - AROMA: notas de chocolate - SABOR: persistente y equilibrado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

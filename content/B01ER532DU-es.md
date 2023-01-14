@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Maxibox Surtido de Golosinas  600g'
-date: 2023-01-02 10:50:40
+date: 2023-01-14 12:20:20
 image: 'https://m.media-amazon.com/images/I/51VcV+N-HxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01ER532DU-es Haribo Maxibox Surtido de Golosinas 600g'
 sku: 'B01ER532DU-es'
 tags: [ 'Alimentación y bebidas','Dulces, chocolates y chicles','Golosinas','Snacks y dulces','haribo','🇪🇸', ]
-actualPrice: 3.5 EUR
+actualPrice: 3.99 EUR
 currency: EUR
-price: 3.5
+price: 3.99
 comparePrice: 4.24 EUR
 prodname: 'Haribo Maxibox Surtido de Golosinas  600g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B01ER532DU/?tag=tolees-21'
-descuento: '17.45'
-average: '3.71000000000001'
+descuento: '5.90'
+average: '3.71800000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Producto de España
-- Combinación de piezas de diferentes texturas y sabores
-- Incluye: ositos de oro, huevo, fresones, balla-balla duo y balla-balla fresa
-- Mix de caramelos de goma
 - Contiene trigo
+- Incluye: ositos de oro, huevo, fresones, balla-balla duo y balla-balla fresa
+- Combinación de piezas de diferentes texturas y sabores
+- Mix de caramelos de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
