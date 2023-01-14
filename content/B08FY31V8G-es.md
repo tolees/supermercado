@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Campos Conservas De Atún Claro En Aceite De Oliva  750 g'
-date: 2022-12-31 10:50:26
+date: 2023-01-14 21:01:02
 image: 'https://m.media-amazon.com/images/I/4192j9e6AmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Campos'
 buyurl: 'https://www.amazon.es/dp/B08FY31V8G/?tag=tolees-21'
 descuento: '10.22'
-average: '7.84083333333334'
+average: '7.8523076923077'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lata de 750 g para un consumo de volumen, especial hostelería. inluye tapa de plástico para cerrar una vez abierto
-- Ingredientes: Ingredientes: Atún claro (especie: ver lata) (pescado) aceite de oliva y sal
 - Información de alérgenos: fish
-- País de origen: españa, producto natural sin conservantes ni colorantes
-- Instrucciones para su uso adecuado: Mantener en lugar fresco y seco
-- Conserva de atún claro en aceite de oliva tapa easy-peel, abré ras
-- Advertencia de seguridad: Una vez abierto consumir en su totalidad
 - En aceite de oliva, gran corte de pescado
+- Conserva de atún claro en aceite de oliva tapa easy-peel, abré ras
 - Método de pesca: cerco. ver especie y zona de pesca en la lata
+- Lata de 750 g para un consumo de volumen, especial hostelería. inluye tapa de plástico para cerrar una vez abierto
+- País de origen: españa, producto natural sin conservantes ni colorantes
+- Advertencia de seguridad: Una vez abierto consumir en su totalidad
+- Ingredientes: Ingredientes: Atún claro (especie: ver lata) (pescado) aceite de oliva y sal
+- Instrucciones para su uso adecuado: Mantener en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
