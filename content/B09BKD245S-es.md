@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- <i>😍- Crea un regalo personalizado diseñado para la persona a la que quieras regalar, disfruta de una experiencia personal, única y exclusiva. Le encantará recibir un detalle tan exclusivo pensado por y para esta persona- Añade la imagen y/o el texto que desees y nosotros montamos tu taza personalizada.</i>
 - <i>📦 -Tamaño ideal- El tamaño de esta taza de porcelana es 8x10x12 y su capacidad de 330 ml. Café, té, bolígrafos, tus mejores recuerdos o lo que quieras. La puedes utilizar de diferentes maneras, tu imaginación es el límite. Cuenta con las medidas habituales para tomar un café o una infusión, por tanto, es válida como taza de café o taza de té. Un complemento de menaje clásico en todos los hogares.</i>
-- <i>🎁 -Original, minimalista y divertido- </i>Es el regalo perfecto para comenzar el día con energía. Preparada para regalar, viene con su packaging para protegerla y perfecta para sorprender.</i>
-- <i>😎 -Acabado Espectacular- Impresión por sublimación, la imagen se integra en la propia taza. Con esta técnica garantizamos una calidad premium, los colores permanecen vivos e intensos durante toda su vida útil, garantizando así, la durabilidad del diseño tras los lavados.</i>
-- <i>☕ -Taza de porcelana calidad premium- Taza de diseño propio de porcelana resistente y elegante. Dura tanto como el recuerdo de los buenos momentos.</i>
 - <i>💗 - La taza personalizada es apta para microondas y resistente al lavavajillas. Estampado resistente a los arañazos.</i>
+- <i>☕ -Taza de porcelana calidad premium- Taza de diseño propio de porcelana resistente y elegante. Dura tanto como el recuerdo de los buenos momentos.</i>
+- <i>😍- Crea un regalo personalizado diseñado para la persona a la que quieras regalar, disfruta de una experiencia personal, única y exclusiva. Le encantará recibir un detalle tan exclusivo pensado por y para esta persona- Añade la imagen y/o el texto que desees y nosotros montamos tu taza personalizada.</i>
+- <i>😎 -Acabado Espectacular- Impresión por sublimación, la imagen se integra en la propia taza. Con esta técnica garantizamos una calidad premium, los colores permanecen vivos e intensos durante toda su vida útil, garantizando así, la durabilidad del diseño tras los lavados.</i>
+- <i>🎁 -Original, minimalista y divertido- </i>Es el regalo perfecto para comenzar el día con energía. Preparada para regalar, viene con su packaging para protegerla y perfecta para sorprender.</i>
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
