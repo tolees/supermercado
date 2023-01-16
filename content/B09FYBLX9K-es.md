@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pata Negra Roble - Vino Tinto D.O La Marcha  Edicion Fauna Ibérica - Caja de 6 Botellas x 750 ml'
-date: 2023-01-13 09:01:54
+date: 2023-01-16 16:22:41
 image: 'https://m.media-amazon.com/images/I/510TURjXFLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de uva: Tempranillo, Cabernet Sauvignon, Petit verdot
 - Gusto: Sabroso y equilibrado con retrogusto equilibrado
-- Contenido de alcohol (alc/vol): 13.5 percent by volume
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 14°C y conservarlo en un lugar fresco y seco
-- Apariencia: Color cereza rojo oscuro, con ribete morado.
 - Aroma: Intensos aromas de bayas negras y rojas, integradas perfectamente con notas tostadas y especiadas de barrica.
+- Contenido de alcohol (alc/vol): 13.5 percent by volume
+- Tipo de uva: Tempranillo, Cabernet Sauvignon, Petit verdot
+- Apariencia: Color cereza rojo oscuro, con ribete morado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B09FYBLX9K{{</world>}}
