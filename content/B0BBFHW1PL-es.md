@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GEBETTER - Kit Regalo Mujer 1*Bolso Neceser Cartera Mano + 1*Tarjeta + 1*sobre Kraft  Bolsa Aseo Estuche con Frase Motivadora para Maquillaje Cosmético Viaje Multiuso Navidad Cumpleaños  Lona Negro 23x16 cm'
-date: 2023-01-15 17:42:22
+date: 2023-01-17 06:14:11
 image: 'https://m.media-amazon.com/images/I/41vFdkcE4DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -35,3 +35,4 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - 👝 Práctico con Cremallera: el neceser puede ser también como billetera o monedero; está lleno de ánimo y con la tarjeta y el sobre, sirven como recuerdo o regalo para amigas, compañeras de clase, colegas de trabajo, etc.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0BBFHW1PL{{</world>}}
