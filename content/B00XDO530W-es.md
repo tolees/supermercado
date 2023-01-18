@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ballantine s Finest Whisky Escocés de Mezcla  1L'
-date: 2023-01-13 14:58:52
+date: 2023-01-18 09:11:52
 image: 'https://m.media-amazon.com/images/I/41iMSKWXGzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ‎Conservar alejada de luces intensas y en lugares con temperatura fresca y constante, en posición vertical
-- Tiene un sabor especial con notas de chocolate, manzana roja y vainilla
-- Whisky escocés de mezcla, refinado y elegante
-- Todos los ingredientes son añejados durante varios años en barricas de gran calidad
-- Whiskey con un aroma característico de brezo y un toque de especial
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B00XDO530W{{</world>}}
