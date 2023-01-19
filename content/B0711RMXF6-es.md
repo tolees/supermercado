@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para un mayor disfrute se recomienda consumir entre 4º y 6º C.
-- Destaca su aroma de intensidad media-alta; su carácter pilsen le otorga un ligero aroma frutal con sutiles notas florales de lúpulo.
 - La primera Mahou de la historia está elaborada a partir de una combinación de agua, lúpulo, maíz y maltas pilsen de distinto origen, manteniendo su receta original de 1890.
+- Para un mayor disfrute se recomienda consumir entre 4º y 6º C.
 - Una de las cervezas más representativas, de aspecto dorado y reluciente con espuma consistente. Cerveza Pale Lager, con un sabor ligeramente amargo, en boca es suave y de cuerpo moderado, resultando muy refrescante.
+- Destaca su aroma de intensidad media-alta; su carácter pilsen le otorga un ligero aroma frutal con sutiles notas florales de lúpulo.
 - Mahou cerveza clásica, pack de 24 latas de 33 centilitros con 4.8% de alcohol.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
