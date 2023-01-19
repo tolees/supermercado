@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La sombras de ojos brillantes también tiene un cierto efecto de modificación. La sombra de ojos brillante mejorará enormemente el efecto de todo el maquillaje.
-- Las partículas de brillo en los ojos aumentan la saturación, haciendo que los ojos se vean más tridimensionales. Si se usa para la noche, hará que los ojos sean más brillantes en la oscuridad y se convertirá en el foco de glamour.
 - Sombra de ojos liquida,mantiene de forma duradera un maquillaje de ojos encantador y exquisito.Desmaquillador completo, sin residuos.
 - Las sombras de ojos de 12 colores satisfacen las necesidades individuales. Diferentes estilos de maquillaje combinan con diferentes colores de lápiz labial.
+- La sombras de ojos brillantes también tiene un cierto efecto de modificación. La sombra de ojos brillante mejorará enormemente el efecto de todo el maquillaje.
+- Las partículas de brillo en los ojos aumentan la saturación, haciendo que los ojos se vean más tridimensionales. Si se usa para la noche, hará que los ojos sean más brillantes en la oscuridad y se convertirá en el foco de glamour.
 - El brillo de la sombra de ojos de diamante es más brillante que la sombra de ojos general, lo que hace que los ojos brillen con más estilo.La sombra de ojos líquida es más natural que el polvo de sombra de ojos, contacto natural con la piel, efecto de maquillaje de ojos impecable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

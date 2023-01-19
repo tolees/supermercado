@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corazón: muguet, gardenia y miel
-- Salida: naranja sanguina, limón, manzana y mandarina
 - Perfume para mujer en frasco de 150 ml
+- Salida: naranja sanguina, limón, manzana y mandarina
+- Corazón: muguet, gardenia y miel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07JBK2D49{{</world>}}
