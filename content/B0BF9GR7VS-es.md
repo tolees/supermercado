@@ -29,13 +29,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - producto 2: Sin azúcar, sin calorías, sin colorantes.
-- producto 1: Free Damm Limón, con limones maduros y limas ácidas.
-- producto 2: Un refresco versátil, e ideal para tomar sólo, o combinar con tu mixer favorito.
-- producto 1: Cuerpo y frescura en cada sorbo.
-- producto 2: Descubre el delicioso sabor a lima limón sin azúcar de 7up Free.
 - producto 2: 24 latas x 330 ml, el pack perfecto para compartir el sabor de 7up Free con amigos o familia.
-- producto 1: La primera cerveza sin alcohol 0,0% con limón.
 - producto 1: Pack de 24 latas 33cl.
+- producto 2: Descubre el delicioso sabor a lima limón sin azúcar de 7up Free.
+- producto 1: La primera cerveza sin alcohol 0,0% con limón.
+- producto 1: Free Damm Limón, con limones maduros y limas ácidas.
+- producto 1: Cuerpo y frescura en cada sorbo.
+- producto 2: Un refresco versátil, e ideal para tomar sólo, o combinar con tu mixer favorito.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BF9GR7VS{{</world>}}

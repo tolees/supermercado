@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Acción regeneradora
 - Zonas secas y agrietadas
-- No grasa, de rápida absorción
 - Nueva fórmula 20% para una Ultra-hidratación
+- No grasa, de rápida absorción
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01CS5KK22{{</world>}}
