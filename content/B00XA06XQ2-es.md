@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scottex Sensitive Papel Higiénico Seco 6 rollos'
-date: 2023-01-13 20:09:49
+date: 2023-01-19 14:50:38
 image: 'https://m.media-amazon.com/images/I/51ZEvSFS09L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Scottex'
 buyurl: 'https://www.amazon.es/dp/B00XA06XQ2/?tag=tolees-21'
 descuento: '14.25'
-average: '2.82'
+average: '2.906'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -35,3 +35,4 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Envase 100% reciclable y hecho con 30% de plástico reciclable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B00XA06XQ2{{</world>}}
