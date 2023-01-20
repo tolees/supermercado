@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elimina sin esfuerzo el maquillaje y extrae la suciedad de rostro, labios y ojos en un solo gesto y sin aclarado
-- Limpiador suave que extrae la suciedad y las impurezas sin secar la piel
 - Limpia cara, ojos y los labios con la ayuda de un algodón y sin aclarar
 - Agua micelar clásica todo en uno
 - Fórmula suave y sin perfume, adecuada para todo tipo de pieles, incluso las más sensibles
+- Limpiador suave que extrae la suciedad y las impurezas sin secar la piel
+- Elimina sin esfuerzo el maquillaje y extrae la suciedad de rostro, labios y ojos en un solo gesto y sin aclarado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01K7S9XQ6{{</world>}}
