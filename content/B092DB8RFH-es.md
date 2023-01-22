@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza Café en Grano Tostado Crema e Gusto  Café Espresso Arábica y Robusta  Paquete de 1 Kg'
-date: 2023-01-14 12:24:48
+date: 2023-01-22 09:11:28
 image: 'https://m.media-amazon.com/images/I/41fc4J2Ym+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lavazza'
 buyurl: 'https://www.amazon.es/dp/B092DB8RFH/?tag=tolees-21'
 descuento: '22.28'
-average: '13.17'
+average: '13.2793333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- NATURAL: No Torrefacto. En el envase aparece la palabra en italiano torrefatto que en español significa tostado
+- ENVASE: Café Lavazza en grano Crema e Gusto, paquete de 1 kg
+- AROMÁTICO: Sabor redondo y envolvente con notas aromáticas especiadas. El café ideal para cualquier hora del día
 - CALIDAD LAVAZZA: Una mezcla de café en grano suave y envolvente de la excelente variedad Arábica de Brasil y Robusta del Sudeste Asiático
 - MEZCLA: Arábica y Robusta - Tueste: Oscuro - Intensidad: 8 Media intensa
-- AROMÁTICO: Sabor redondo y envolvente con notas aromáticas especiadas. El café ideal para cualquier hora del día
-- ENVASE: Café Lavazza en grano Crema e Gusto, paquete de 1 kg
-- NATURAL: No Torrefacto. En el envase aparece la palabra en italiano torrefatto que en español significa tostado
 - ASPECTO: Crema dorada y color cálido - AROMA: notas de chocolate - SABOR: persistente y equilibrado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B092DB8RFH{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hasta 16 horas de duración sin retoques
 - Define y esculpe con la cera, rellena e intensifca con el polvo y amplia la mirada con el iluminador
+- Hasta 16 horas de duración sin retoques
 - El kit perfecto para unas cejas naturales
 - Paleta de cejas 3 en 1 para un diseño y definición fácil de tus cejas
 - Aplicador de doble punta con una brocha y un cepillo
