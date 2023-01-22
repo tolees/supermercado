@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tómatelo por la mañana o entre horas porque ya sabes que en poco tiempo está listo
-- Se disuelve rápidamente en leche caliente y en leche fría, para que hagas eso tan tuyo ahora sin grumos
-- 71 raciones en su envase de 1kg, formato ahorro en su envase refill: 85% menos de plástico que un bote
 - Alérgenos: contiene trigo y soja; mantener en lugar fresco y seco
 - Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente.
+- Se disuelve rápidamente en leche caliente y en leche fría, para que hagas eso tan tuyo ahora sin grumos
+- Tómatelo por la mañana o entre horas porque ya sabes que en poco tiempo está listo
+- 71 raciones en su envase de 1kg, formato ahorro en su envase refill: 85% menos de plástico que un bote
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ITRZEYC{{</world>}}
