@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asevi Suavizante Concentrado  60 Dosis  Azul  1500 Mililitros'
-date: 2023-01-16 10:50:22
+date: 2023-01-23 16:02:29
 image: 'https://m.media-amazon.com/images/I/41auedqUDlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Asevi'
 buyurl: 'https://www.amazon.es/dp/B00L2IQM60/?tag=tolees-21'
 descuento: '0.00'
-average: '1.96714285714286'
+average: '1.97689655172414'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
