@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto 2: Con notas cítricas
-- producto 1: Disfruta de la Ballantines Finest dedicada al videojuego Borderlands, en la que toma protagonismo Moxxi, la camarera amada por la comunidad
 - producto 1: El color dorado claro y el sabor de este whiskey blended escocés provienen de la mezcla de whiskies de malta y cereales cuidadosamente seleccionados; es un whisky con un aroma característico de brezo
+- producto 2: De color cristalino
 - producto 1: Ballantine’s Finest es un whisky escocés de mezcla, refinado y elegante; todos los ingredientes son añejados durante varios años en barricas de calidad
 - producto 2: Sabor y carácter de enebro fuerte equilibrado con notas de cítricos de limón y naranja
 - producto 2: Ideal con hielo o en cócteles
+- producto 2: Con notas cítricas
+- producto 1: Disfruta de la Ballantines Finest dedicada al videojuego Borderlands, en la que toma protagonismo Moxxi, la camarera amada por la comunidad
 - producto 1: Tiene un sabor con notas de chocolate, manzana roja y vainilla, y su final sofisticado deja una sensación equilibrada y una textura floral
-- producto 2: De color cristalino
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BF9F676L{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Textura crujiente irresistible, adecuada para disfrutar en meriendas o desayunos
-- Conservar en lugar fresco y seco. Proteger del calor
+- Alérgenos: contiene gluten, leche y soja
 - Chips ahoy originales, en una estuche de 400 g
 - Galletas con abundantes chips de chocolate que disfrutarás en cada bocado
-- Alérgenos: contiene gluten, leche y soja
+- Conservar en lugar fresco y seco. Proteger del calor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01EAEKBBO{{</world>}}
