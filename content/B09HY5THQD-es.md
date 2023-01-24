@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 300 ML CAPACIDAD: El pulverizador de aceite tiene una capacidad de 300 ml lo que supone no tener que rellenar la botella cada 2x3. Además, el spray aceite de cocina tiene una válvula al fondo de succiona el vinagre / aceite / limón.
+- NIEBLA FINA: El dispensador de aceite en Spray dispara en forma de niebla fina consiguiendo repartir el aceite de forma uniforme en la sartén, ensalada, horneados, tostada…
 - SATISFACCIÓN: Desde ActivoTex trabajamos para que nuestros clientes se sientan satisfechos con nuestros productos. Si por alguna razón no estás satisfecho nuestro pulverizador de aceite de oliva, por favor, contacta con nosotros para que te ayudemos a buscar la mejor solución.
 - VÁLVULA DE SUCCIÓN POLIVALENTE: ¿Cansado de que los sprays de aceite no funcionen cuando aún queda aceite? Gracias a la nueva tecnología de válvula polivalente conseguimos terminar el aceite del pulverizador hasta casi la última gota.
-- NIEBLA FINA: El dispensador de aceite en Spray dispara en forma de niebla fina consiguiendo repartir el aceite de forma uniforme en la sartén, ensalada, horneados, tostada…
 - LIBRE DE BPA: La botella para aceite está certificada a nivel EUROPEO y EEUU, por lo que está 100% libre de BPA y es apto para estar en contacto con alimentos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
