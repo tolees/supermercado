@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Blanton s Bourbon Original Whiskey  1 x 0.7L '
-date: 2023-01-18 21:11:24
+date: 2023-01-26 08:31:45
 image: 'https://m.media-amazon.com/images/I/41MCgL+oKoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Blantons'
 buyurl: 'https://www.amazon.es/dp/B005IZX04A/?tag=tolees-21'
 descuento: '11.01'
-average: '93.1357142857143'
+average: '93.51875'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Como servir: Servir solo con hielo
 - Lugar de origen: Kentucky – usa
-- Color: ámbar tostado
-- Contenido de alcohol (alc/vol.) : 46.5 percent by volume
-- Paladar: el perfil de sabor es dulce, con notas de cítricos y roble
 - Nariz: cremoso aroma de vainilla recubierto de toffe, especias tostadas, clavo, la nuez moscada o la canela
 - Procedencia: Americano
+- Paladar: el perfil de sabor es dulce, con notas de cítricos y roble
+- Como servir: Servir solo con hielo
+- Contenido de alcohol (alc/vol.) : 46.5 percent by volume
+- Color: ámbar tostado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B005IZX04A{{</world>}}
