@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Whisky escocés de mezcla, refinado y elegante
-- Whiskey con un aroma característico de brezo y un toque de especial
 - ‎Conservar alejada de luces intensas y en lugares con temperatura fresca y constante, en posición vertical
 - Tiene un sabor especial con notas de chocolate, manzana roja y vainilla
+- Whisky escocés de mezcla, refinado y elegante
+- Whiskey con un aroma característico de brezo y un toque de especial
 - Todos los ingredientes son añejados durante varios años en barricas de gran calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
