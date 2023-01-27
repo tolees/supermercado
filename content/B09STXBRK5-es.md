@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepsi Max Lima  Zero Azúcar  330ml - Pack de 24 latas'
-date: 2023-01-23 05:03:15
+date: 2023-01-27 06:30:56
 image: 'https://m.media-amazon.com/images/I/51L4NRETC1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09STXBRK5-es Pepsi Max Lima Zero Azúcar 330ml - Pack de 24 latas'
 sku: 'B09STXBRK5-es'
 tags: [ 'Alimentación y bebidas','Café, té y bebidas','Refrescos con gas','Refrescos de cola','azúcar','pepsi','🇪🇸', ]
-actualPrice: 13.44 EUR
+actualPrice: 14.16 EUR
 currency: EUR
-price: 13.44
+price: 14.16
 comparePrice: 15.36 EUR
 prodname: 'Pepsi Max Lima  Zero Azúcar  330ml - Pack de 24 latas'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pepsi'
 buyurl: 'https://www.amazon.es/dp/B09STXBRK5/?tag=tolees-21'
-descuento: '12.50'
-average: '13.08'
+descuento: '7.81'
+average: '13.1630769230769'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Con 0 azúcar
 - Bebida refrescante con gas
-- Conservar en un lugar fresco y seco
-- Tiene sabor a imón
 - Ideal con hielo
+- Tiene sabor a imón
+- Conservar en un lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09STXBRK5{{</world>}}
