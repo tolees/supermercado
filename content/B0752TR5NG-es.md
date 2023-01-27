@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En la parte alta de la pirámide encontramos jengibre; como nota media cuenta con nardos y en la base permanece sándalo.
-- Twilly hermes de hermes, es una “eau de perfume”
-- El frasco es de cristal transparente con un lazo anudado de colores y el tapón negro. la perfumista es christine nagel.
-- Para todos los días
 - Pertenece a la familia aromática floral para mujer, que fue lanzada en 2017
+- El frasco es de cristal transparente con un lazo anudado de colores y el tapón negro. la perfumista es christine nagel.
+- Twilly hermes de hermes, es una “eau de perfume”
+- Para todos los días
+- En la parte alta de la pirámide encontramos jengibre; como nota media cuenta con nardos y en la base permanece sándalo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0752TR5NG{{</world>}}
