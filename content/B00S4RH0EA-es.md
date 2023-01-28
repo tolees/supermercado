@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vermouth Rojo Artesano Cruz Conde 700ML.'
-date: 2023-01-26 16:25:59
+date: 2023-01-28 09:47:01
 image: 'https://m.media-amazon.com/images/I/41-mS7Rdm8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cruz Conde'
 buyurl: 'https://www.amazon.es/dp/B00S4RH0EA/?tag=tolees-21'
 descuento: '37.64'
-average: '4.84545454545455'
+average: '4.81583333333334'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vermouth artesano español
+- Intenso e aromático, en boca es suave y aterciopelado. Muy equilibrado en acidez y amargor con postgusto muy largo.
 - Graduación alcohólica de 15%. Variedad de la uva: 100% Pedro Ximenez.
 - Ideal sólo con hielo y con una rodaja de naranja.
-- Intenso e aromático, en boca es suave y aterciopelado. Muy equilibrado en acidez y amargor con postgusto muy largo.
 - Elaborado a partir de vino Oloroso de Montilla-Moriles y aromatizado mediante una compleja maceración de hierbas y especias.
+- Vermouth artesano español
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00S4RH0EA{{</world>}}
