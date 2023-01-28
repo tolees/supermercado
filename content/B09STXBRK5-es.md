@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepsi Max Lima  Zero Azúcar  330ml - Pack de 24 latas'
-date: 2023-01-27 06:30:56
+date: 2023-01-28 06:32:08
 image: 'https://m.media-amazon.com/images/I/51L4NRETC1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepsi'
 buyurl: 'https://www.amazon.es/dp/B09STXBRK5/?tag=tolees-21'
 descuento: '7.81'
-average: '13.1630769230769'
+average: '13.2342857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con 0 azúcar
-- Bebida refrescante con gas
-- Ideal con hielo
 - Tiene sabor a imón
 - Conservar en un lugar fresco y seco
+- Bebida refrescante con gas
+- Ideal con hielo
+- Con 0 azúcar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09STXBRK5{{</world>}}
