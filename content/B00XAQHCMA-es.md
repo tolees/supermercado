@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Principe - Príncipe Original Galletas Sandwich Rellenas de Crema de Chocolate con Leche 300g - Pack de 24'
+date: 2024-02-23 17:02:15
+image: 'https://m.media-amazon.com/images/I/51OX71k+EpL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00XAQHCMA-es Principe - Príncipe Original Galletas Sandwich Rellenas de...'
+sku: 'B00XAQHCMA-es'
+tags: [ 'Alimentación y bebidas','Alimentación y bebidas Outlet','Arborist Merchandising Root','Chocolates, galletas y caramelos','Galletas de Panadería','Mondelez Snacks','Panadería y bollería','Self Service','Special Features Stores','chocolate','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_0','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_1301','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_1801','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_6801','principe','🇪🇸', ]
+actualPrice: 34.51 EUR
+currency: EUR
+price: 34.51
+comparePrice: 48.24 EUR
+prodname: 'Principe - Príncipe Original Galletas Sandwich Rellenas de Crema de Chocolate con Leche 300g - Pack de 24'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Principe'
+buyurl: 'https://www.amazon.es/dp/B00XAQHCMA/?tag=tolees-21'
+descuento: '28.46'
+average: '30.5586666666666'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Príncipe se ha convertido en un símbolo de nuestras meriendas, y continúa compartiendo su pasión por el mundo con las clásicas galletas de toda la vida rellenas con una deliciosa crema de chocolate, para que disfrutemos de un dulce descanso en cualquier momento. Su único diseño fue creado como homenaje al príncipe real de Bélgica, y desde 1947 nos acompaña en los momentos más dulces y divertidos del día.
+- La galletas Príncipe Original ricas en cereales y fibra, con un cremoso sabor a chocolate en su interior, crean la explosión de sabor favorita de los niños. Ideal para meriendas infantiles, snacks o para disfrutar de un delicioso desayuno, las galletas Príncipe son las galletas de toda la vida que hacen que los más peques de la casa vivan su infancia a tope.
+- Las galletas Príncipe Original son excelentes para servir solas o con leche, para compartir en fiestas con familia y amigos, desayunos, meriendas escolares o mezclarlas con tu receta de postre favorita. Atrévete y experimenta usándolas en múltiples recetas y postres como tartas, batidos o muffins. La galleta preferida por los niños ahora también con un formato abre fácil.
+- Desde hace más de 100 años, Príncipe se ha caracterizado por el exquisito sabor de su chocolate y la calidad de su galleta. Nuestro compromiso es seguir ofreciendo deliciosas galletas con la mejor calidad del trigo a la misma vez que garantizamos el menor impacto en nuestro planeta, para que los más pequeños puedan seguir viviendo su infancia a tope.
+- Clásicas galletas Príncipe Original tipo sandwich con textura crujiente y rellenas de delicioso chocolate con leche. El pack grande de galletas Príncipe Original contiene 24 paquetes individuales de 300g en formato rollo ideal para llevar a cualquier parte y disfrutar de Príncipe en cualquier momento del día.
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B00XAQHCMA{{</world>}}
