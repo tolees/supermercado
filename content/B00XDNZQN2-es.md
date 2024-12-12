@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Coca-Cola Sabor Original - Refresco de cola - Pack 4 botellas 2L'
+date: 2024-10-17 20:50:39
+image: 'https://m.media-amazon.com/images/I/41RhNBE4NIL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00XDNZQN2-es Coca-Cola Sabor Original - Refresco de cola - Pack 4...'
+sku: 'B00XDNZQN2-es'
+tags: [ 'coca-cola','🇪🇸', ]
+actualPrice: 6.92 EUR
+currency: EUR
+price: 6.92
+comparePrice: 7.88 EUR
+prodname: 'Coca-Cola Sabor Original - Refresco de cola - Pack 4 botellas 2L'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B00XDNZQN2/?tag=tolees-21'
+descuento: '12.18'
+average: '6.91923076923077'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Nos preocupa el medio ambiente tanto como a tu, por eso nuestros envases son 100% reciclables, tíralos al contenedor amarillo
+- Te recomendamos tomar tu Coca Cola fría con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
+- Disfruta de Coca-Cola Original en cualquier momento, incluso en casa
+- Disfruta con el refrescante sabor de toda la vida de Coca-Cola Original .
+- El pack incluye 12 latas de 33cl de Coca-Cola Original.
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B00XDNZQN2{{</world>}}
