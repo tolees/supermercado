@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca: RIMMEL
 - Ofrece una cobertura óptima
 - Fácil de aplicar
 - Apto para todo tipo de piel
+- Marca: RIMMEL
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09N2YTGCX{{</world>}}

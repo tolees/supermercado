@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 0
 - Cosmética Corporal
 - Ingredientes: Aqua, Glycerin, Cetearyl Alcohol, Ethylhexylglycerin, Palmitic Acid, Stearic Acid, Sodium Cetearyl Sulfate, Sodium Sulfate, Phenoxyethanol.
+- 0
 - NEUTROGENA CREMA DE MANOS 50 ML. CONCENTRADA SIN P
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de ingredientes de calidad
 - Marca del producto: Clinique
+- Hecho de ingredientes de calidad
 - Apto para un regalo
 - Para uso diario
 

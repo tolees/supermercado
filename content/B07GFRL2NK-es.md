@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- La vitamina B ayuda a conseguir un alto rendimiento a lo largo del día y es idónea para afrontar una actividad física
 - Extractos naturales: Vitamina B, nueces y almendras
-- Gel de baño nutritivo con esencia exquisita de nueces y leche de almendras.
 - Cuidado extra hidratante para una piel en forma.
 - CrueltyFree
-- La vitamina B ayuda a conseguir un alto rendimiento a lo largo del día y es idónea para afrontar una actividad física
+- Gel de baño nutritivo con esencia exquisita de nueces y leche de almendras.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07GFRL2NK{{</world>}}

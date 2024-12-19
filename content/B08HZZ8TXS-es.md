@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Nuestra tecnología insta bounce agrega una definición perfecta al cabello naturalmente rizado o con permanente, dejándolo bajo control
 - Volumen 350 ml
 - De la marca ProYou Care
-- Nuestra tecnología insta bounce agrega una definición perfecta al cabello naturalmente rizado o con permanente, dejándolo bajo control
 - Definición definitiva y hidratación
 
 [🛒 Aquí!!!]({{< param buyurl >}})

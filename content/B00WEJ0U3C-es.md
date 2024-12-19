@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Proporciona horas de hidratación
 - Estimula la producción de colágeno
 - La piel se vuelve visiblemente más suave, elástica y flexible
-- Proporciona horas de hidratación
 - Ayuda a recuperar la elasticidad de tu piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

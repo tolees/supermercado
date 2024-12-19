@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
 - VARIEDAD: Esta selección de café Lavazza está elaborada con café Arábica y Robusta procedente principalmente de Brasil y Suramérica
+- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
+- NOTAS AROMÁTICAS: Qualità Rossa es caracterizado por toques de chocolate y frutos secos, para un café de una redondez extraordinaria, con un aroma único y un gran cuerpo
 - QUALITÀ ROSSA: El placer de un buen café Lavazza que las familias italianas siempre quieren tener a mano a la hora de la pausa. Con un aroma inconfundible que le da energía renovada y crea momentos mágicos
 - INTENSIDAD: La intensidad 5 y el tueste medio brindan un color cálido a este café, para un espresso con una espuma dorada y un sabor completo y prolongado
-- NOTAS AROMÁTICAS: Qualità Rossa es caracterizado por toques de chocolate y frutos secos, para un café de una redondez extraordinaria, con un aroma único y un gran cuerpo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B002PM23YC{{</world>}}

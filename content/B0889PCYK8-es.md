@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Elimina la placa bacteriana
+- Deja un alineto fresco
 - Contien flúor
 - Apto para uso diario
-- Deja un alineto fresco
 - Con un aroma fresco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - INGREDIENTES NATURALES: Elaboramos esta deliciosa bebida a base de agua. Este producto es 100% natural, libre de gluten y apto para consumo vegano.
-- MÚLTIPLES BENEFICIOS: el agua con gas ayuda a la digestión, esta bebida estimula la secreción de jugos gástricos y mejora el movimiento intestinal.
-- MEZCLA Y DISFRUTA: Combina esta bebida con otras y crea cócteles deliciosos, sabrosos y más saludables. Déjate llevar por su primer sabor dulce y su toque final, ¡te encantará!
 - SOBRE NOSOTROS: En Borsec estamos especializados en la elaboración de bebidas naturales. Somos una empresa que nos preocupamos por la protección de los recursos naturales. ¡Bueno para ti, bueno para el planeta!
 - BEBIDA REFRESCANTE : Nuestra agua con gas no contiene aromas ni colorantes artificiales. Es ideal para refrescarte en los calurosos días de verano.
+- MEZCLA Y DISFRUTA: Combina esta bebida con otras y crea cócteles deliciosos, sabrosos y más saludables. Déjate llevar por su primer sabor dulce y su toque final, ¡te encantará!
+- MÚLTIPLES BENEFICIOS: el agua con gas ayuda a la digestión, esta bebida estimula la secreción de jugos gástricos y mejora el movimiento intestinal.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00HFIX5PC{{</world>}}

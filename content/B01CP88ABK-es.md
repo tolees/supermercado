@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Un snack vegetariano (no contiene huevo). Hechas para regalar y compartir
 - Un producto Español, hecho en España. Saborea el paraíso con este producto elaborado en Canarias y entregado a la comodidad de tu puerta
-- Cada ambrosía mide 12.5cm - un tamaño óptimo para llevarlas contigo y disfrutarlas en cualquier momento del día: entre horas, de postre o para la merienda, en el trabajo o de viaje.
 - Esta caja lleva 35 ambrosías envueltas individualmente que ayudan a mantenerlas frescas.
+- Cada ambrosía mide 12.5cm - un tamaño óptimo para llevarlas contigo y disfrutarlas en cualquier momento del día: entre horas, de postre o para la merienda, en el trabajo o de viaje.
 - Crujiente ambrosía rellena de crema y bañada en una suave, rica y cremosa capa de chocolate blanco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

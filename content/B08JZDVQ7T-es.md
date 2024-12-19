@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de aplicar
-- Producto de calidad óptima
 - Mascarilla hidratante intensiva
+- Producto de calidad óptima
+- Fácil de aplicar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08JZDVQ7T{{</world>}}

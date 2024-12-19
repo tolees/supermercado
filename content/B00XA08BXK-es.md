@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con vitamina B6, B3 y ácido fólico
+- Contiene trigo, soja, leche
 - Ricas en fibra
 - Mantener en lugar fresco y seco
-- Contiene trigo, soja, leche
 - Sin aromas ni conservantes artificiales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

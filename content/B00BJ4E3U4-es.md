@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Graduación: 13,5% vol.
-- Origen: DO Catalunya
 - Intensos aromas de frutas negras y del bosque, con sutiles notas vegetales y especiadas.
 - Puede disfrutarlo desde ahora, bien conservado aguantará 5-8 años.
+- Graduación: 13,5% vol.
+- Origen: DO Catalunya
 - Ideal para acompañar carnes asadas, platos con base de salsa de tomate o con la tradicional paella.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

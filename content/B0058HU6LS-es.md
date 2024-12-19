@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este vermut dulce elaborado a partir de vinos tintos es ligero, equilibrado y de color escarlata
 - Una botella de 150 cl de MARTINI Rosso Vermouth Aperitivo
-- Un vermut rojo dulce cuyo corazón es una selección de hierbas regionales
+- Este vermut dulce elaborado a partir de vinos tintos es ligero, equilibrado y de color escarlata
 - Mejor servido solo, con hielo o en cócteles italianos clásicos y bebidas alcohólicas
 - Acompañe este aperitivo con bocados ricos y salados como mortadela y queso pecorino para mejorar la experiencia gustativa
+- Un vermut rojo dulce cuyo corazón es una selección de hierbas regionales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0058HU6LS{{</world>}}

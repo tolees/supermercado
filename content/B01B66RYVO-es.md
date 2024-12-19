@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca - Nivea
 - Tipo de producto - Protector solar crema SPF30
+- Marca - Nivea
 - Género - Unisex
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

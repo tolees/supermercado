@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Creando Momentos Royal desde 1863, ayudándote a preparar postres deliciosos que te traen de vuelta a tu infancia. Royal contigo.
 - Ideal para endulzar tus momentos en familia con irresistibles galletas y bizcochos, perfecto también para uso en hostelería.
-- Bote de preparado en polvo de 900 gramos, ideal para hostelería y uso frecuente.
 - Añade a tus mezclas para conseguir que tus creaciones queden tiernas y esponjosas.
+- Bote de preparado en polvo de 900 gramos, ideal para hostelería y uso frecuente.
 - Royal Baking Powder, la levadura química clásica en polvo con gasificantes para hornear. Ideal para conseguir bizcochos tiernos y esponjosos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

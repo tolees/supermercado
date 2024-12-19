@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fortifica la estructura del cabello
 - Brand: Revlon Professional ProYou Care
 - Revitaliza el cabello quebradizo, mantiene la densidad del cabello e hidrata el cuero cabelludo y el cabello
-- Fortifica la estructura del cabello
 - Volumen 72 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})

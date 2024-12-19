@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Las galletas Chip Choco de Gullón son una fuente de fibra acompañada de pepitas de chocolate.
 - Fabricado por Galletas Gullón.
-- Sin azúcares y su delicioso sabor, se convierten en la opción perfecta cualquier momento.
 - Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
+- Sin azúcares y su delicioso sabor, se convierten en la opción perfecta cualquier momento.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B009MWW1Y0{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de calidad óptima
 - Jabon natural
-- Diseño elegante, producto útil y práctico
+- Producto de calidad óptima
 - Rosa Mosqueta
+- Diseño elegante, producto útil y práctico
 - Cuida tu salud de la mano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

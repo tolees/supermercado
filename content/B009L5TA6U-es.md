@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: multicolor
-- Ecológico
-- Detergente enzimático
 - Suelo
+- Detergente enzimático
+- Ecológico
+- Color: multicolor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B009L5TA6U{{</world>}}
