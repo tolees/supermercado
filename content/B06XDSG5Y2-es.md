@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfruta de un resultado natural y lleno de matices, ya sea una coloración o sólo unos retoques para lucir una melena fabulosa y llena de vida
 - Color Sensation es la primera coloración permanente y reutilizable especialmente diseñada para utilizar con bol y pincel
-- Consigue hasta un 100% de cobertura de canas, con un tono intenso e impecable, ya que el Aceite de Rosa consigue un cabello sedoso y suave
 - De fácil aplicación, disfruta en casa de una coloración óptima, precisa y de hasta 6 semanas de duración
+- Consigue hasta un 100% de cobertura de canas, con un tono intenso e impecable, ya que el Aceite de Rosa consigue un cabello sedoso y suave
+- Disfruta de un resultado natural y lleno de matices, ya sea una coloración o sólo unos retoques para lucir una melena fabulosa y llena de vida
 - Fórmula elaborada con pigmentos intensos y enriquecidos con nácar que reflejan la luz de una forma natural para conseguir un eficaz tono rubio platino ceniza
 
 [🛒 Visítala!!!]({{< param buyurl >}})

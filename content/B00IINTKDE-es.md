@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tipo de Piel: Todo Tipo de Pieles
 - Protección SPF: Alta SPF 30 - SPF 50 +
-- Texturas: Leche
 - Acerca de este producto
+- Texturas: Leche
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IINTKDE{{</world>}}

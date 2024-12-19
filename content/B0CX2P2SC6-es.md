@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - FEMENINO Y PRIMAVERAL: Un perfume para mujeres que evoca el amor irresistible y que te conquistará con su olor a ricas notas flores y frutales, ideal para mujeres originales.
-- PIRÁMIDE OLFATIVA: Notas de salida: azahar, kiwi, sandía y jazmín; Notas de corazón: jazmín y nardo; Notas de fondo: sándalo, ámbar y almizcle blanco.
+- PERFUME: Colonia femenina con un carácter amoroso, que te traslada directamente a un paisaje primaveral, a una caricia dulce y adorable de un amor cálido e inolvidable. Frasco con vaporizador.
 - TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia afrutada floral ambarada ideal para personas optimistas, colaboradoras y originales.
 - DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más.
-- PERFUME: Colonia femenina con un carácter amoroso, que te traslada directamente a un paisaje primaveral, a una caricia dulce y adorable de un amor cálido e inolvidable. Frasco con vaporizador.
+- PIRÁMIDE OLFATIVA: Notas de salida: azahar, kiwi, sandía y jazmín; Notas de corazón: jazmín y nardo; Notas de fondo: sándalo, ámbar y almizcle blanco.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CX2P2SC6{{</world>}}

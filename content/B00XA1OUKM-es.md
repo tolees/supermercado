@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aroma de fresa y enebro
-- Apto como regalo
-- A la vista destaca por su claridad y color rosa
-- En nariz tiene notas de especias ácidas
 - Elaborado en destilerías tradicionales de Andalucía
+- Aroma de fresa y enebro
+- A la vista destaca por su claridad y color rosa
+- Apto como regalo
+- En nariz tiene notas de especias ácidas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA1OUKM{{</world>}}

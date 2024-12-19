@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CACAO NATURAL DE COLACAO: Con pepitas de chocolate únicas en cada bocado y una cobertura que recuerda a los grumitos de ColaCao, dándole ese toque tan especial.
-- PRÁCTICO FORMATO PARA LLEVAR: Llévalas contigo donde quieras; cada paquete contiene 157 gramos de minigalletas, perfectas para disfrutar en cualquier momento.
 - MINIGALLETAS CON PEPITAS DE CHOCOLATE Y COBERTURA DE COLACAO: Deliciosas minigalletas cubiertas con el inconfundible sabor de ColaCao y pepitas de chocolate.
+- CACAO NATURAL DE COLACAO: Con pepitas de chocolate únicas en cada bocado y una cobertura que recuerda a los grumitos de ColaCao, dándole ese toque tan especial.
 - SABOR AUTÉNTICO DE COLACAO: La cobertura de ColaCao hace que cada galleta tenga el inconfundible sabor del cacao tradicional con una textura única.
+- PRÁCTICO FORMATO PARA LLEVAR: Llévalas contigo donde quieras; cada paquete contiene 157 gramos de minigalletas, perfectas para disfrutar en cualquier momento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQTQ67P4{{</world>}}

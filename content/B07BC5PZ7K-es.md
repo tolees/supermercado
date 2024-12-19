@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Textura suave y ligera hace que el producto sea fácil de aplicar
 - Proporciona un brillo natural a la piel
 - Iluminador color champagne que aporta brillo y color a todos los tonos de piel
-- Textura suave y ligera hace que el producto sea fácil de aplicar
 - Aplicado en las partes apropiadas de la cara ayuda a conseguir un aspecto radiante
 - Ayuda a resaltar el rostro y esculpirlo a través de la técnica strobing
 

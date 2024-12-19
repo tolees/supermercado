@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acondicionador reparador con el poder regenerador de la Papaya, que limpia en profundidad y desenreda con rapidez el pelo dañado
-- Su textura fundente te ayuda a desenredar e hidratar tu cabello mientras consigues un pelo saludable con un aclarado rápido
 - Con un 98% de ingredientes de origen natural, es el primer acondicionador con fórmula vegana, sin siliconas ni sulfatos, para una sensación natural
-- Ayudamos al medio ambiente apostando por un envase reciclable y la utilización de un 95% de material biodegradable
 - Comprometidos desde 1989 en no realizar test en animales, está dermatológicamente testado
+- Acondicionador reparador con el poder regenerador de la Papaya, que limpia en profundidad y desenreda con rapidez el pelo dañado
+- Ayudamos al medio ambiente apostando por un envase reciclable y la utilización de un 95% de material biodegradable
+- Su textura fundente te ayuda a desenredar e hidratar tu cabello mientras consigues un pelo saludable con un aclarado rápido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07CF4J4JR{{</world>}}

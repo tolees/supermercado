@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PIEL PROTEGIDA Y LUMINOSA: XPERTSUN Urban, protector solar facial de textura fluida y sedosa y de rápida absorción, ofrece un acabado sin brillos y es una extraordinaria base para la posterior aplicación de maquillaje; el resultado es una piel protegida y luminosa que preserva la juventud y belleza natural de la piel
-- MODO DE USO: Aplicar este protector solar generosamente sobre la piel seca unos 30 minutos antes de la exposición solar; para mejores resultados, se recomienda reaplicar cada 2 horas o después de cada baño
 - COMPONENTES: Este protector solar facial SFP 50+ contiene una exclusiva combinación de Filtros físicos y químicos encapsulados y filtros fotodérmicos: 2% NEØCLAIR-PRO (péptido biomimético multifuncional); con acción antienvejecimiento y protección antiradicalaria; ayuda a prevenir las manchas y el daño del ADN celular
+- MODO DE USO: Aplicar este protector solar generosamente sobre la piel seca unos 30 minutos antes de la exposición solar; para mejores resultados, se recomienda reaplicar cada 2 horas o después de cada baño
 - PROTECCIÓN FOTODÉRMICA: XPERTSUN Urban SFP 50+, ofrece una asociación sinérgica de filtros solares «convencionales» con filtros fotodérmicos de defensa interna, activos centrados en reducir los efectos biológicos/ inmunológicos protegiendo el metabolismo celular e inhibiendo procesos inflamatorios y degenerativos cuyo resultado conocemos con el envejecimiento fotoinducido; no sólo protege y repara del daño solar, también repara a nivel celular las fotolesiones que modifican el aspecto cutáneo
 - ACCIÓN ANTIEDAD Y ANTI-POLUCIÓN: XPERTSUN Urban es un protector solar facial de uso diario específicamente formulado para proteger la piel de las radiaciones solares y del daño oxidativo inducido por la polución en entornos urbanos, ayudando a prevenir y revertir los signos del fotoenvejecimiento y fatiga en la piel todos los días del año; protección solar muy alta: SPF 50+ UVB UVA; resistente al agua; apta para todo tipo de pieles; contenido: 50ml
+- PIEL PROTEGIDA Y LUMINOSA: XPERTSUN Urban, protector solar facial de textura fluida y sedosa y de rápida absorción, ofrece un acabado sin brillos y es una extraordinaria base para la posterior aplicación de maquillaje; el resultado es una piel protegida y luminosa que preserva la juventud y belleza natural de la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B094NGFWJZ{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Volumen: 1300 ml
-- Ofrece una solución universal para la limpieza y el cuidado del suelo
 - Limpieza eficaz de todas las superficies
+- Ofrece una solución universal para la limpieza y el cuidado del suelo
+- Volumen: 1300 ml
 - Elimina la suciedad y la grasa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

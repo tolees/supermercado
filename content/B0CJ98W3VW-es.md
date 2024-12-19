@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fanta Sandía con Zero Azúcares Añadidos en un conveniente pack de 6 botellas de 1,25 litros
 - Bebida refrescante sabor Sandía
+- Fanta Sandía con Zero Azúcares Añadidos en un conveniente pack de 6 botellas de 1,25 litros
 - Para disfrutar con amigos
 - Mantener en lugar oscuro o refrigerado
 

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - No congelar
-- Evitar el contacto directo con suelo
 - Conservar en lugar limpio, fresco seco
+- Evitar el contacto directo con suelo
 - Proteger de la luz solar y olores agresivos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contribuye a la reparación del daño solar acumulado a nivel celular
 - Contiene ácido hialurónico que mejora la elasticidad e hidratación de la piel
 - Para el uso diario con triple acción: protege, repara y revierte
 - Fórmula que protege la piel de la polución urbana
+- Contribuye a la reparación del daño solar acumulado a nivel celular
 - No irrita los ojos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

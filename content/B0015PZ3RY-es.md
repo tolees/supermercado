@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pollo fresco como fuente natural de proteínas para construir músculos fuertes y magros
+- Calcio para ayudar al desarrollo óseo; Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos
 - DHA para estimular la capacidad de aprendizaje de los cachorros; Prebióticos FOS, MOS y pulpa de remolacha para favorecer una digestión sana
 - Vitaminas E y C, antioxidantes para reforzar el sistema inmunitario
-- Calcio para ayudar al desarrollo óseo; Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos
-- Pollo fresco como fuente natural de proteínas para construir músculos fuertes y magros
 - Una forma de croqueta especial con DentaDefense para mantener los dientes limpios y sanos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

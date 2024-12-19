@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con electricidad 100 % renovable
 - Sin rayaduras
+- Fabricado con electricidad 100 % renovable
 - Hasta un 100 % de poder desengrasante
 - Fácil de aclarar
 

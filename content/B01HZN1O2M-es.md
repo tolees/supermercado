@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dermatológicamete testado
-- Mejora la hidratación de la piel
 - Piel más suave y lisa
+- Mejora la hidratación de la piel
 - Cuidado de la piel y el cabello
+- Dermatológicamete testado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01HZN1O2M{{</world>}}

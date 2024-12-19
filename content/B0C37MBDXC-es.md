@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para disfrutar en cualquier momento del día, lugar y ocasión
 - Es una bebida dulce
 - No contiene azúcar
+- Para disfrutar en cualquier momento del día, lugar y ocasión
 - Bebida refrescante con sabor a cola
 - Se recomienda servir frio
 

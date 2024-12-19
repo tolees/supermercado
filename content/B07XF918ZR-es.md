@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca del producto: Lattafa
 - Para uso diario
 - Apto para un regalo
+- Marca del producto: Lattafa
 - Hecho de ingredientes de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

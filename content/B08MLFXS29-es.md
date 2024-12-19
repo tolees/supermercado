@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack de cervezas lager premium cuyo sabor amargo equilibra el alto grado alcohólico y su ligero postgusto picante. Se recomienda su consumo entre 5 y 6º
-- La Cerveza 1906 Red Vintage ha sido galardonada con numerosos premios internacionales por su calidad excepcional, incluyendo la medalla de oro en el World Beer Challenge
-- Elaborada con agua de la ciudad de A Coruña, MALTA pilsen y tostada, maíz, LÚPULO Nugget y LEVADURA seleccionada. Alc 8% vol
 - De color oro viejo intenso y brillante. Aromaticamente se percibe el balance hacia las maltas, con agradables notas dulces, a caramelo
+- Elaborada con agua de la ciudad de A Coruña, MALTA pilsen y tostada, maíz, LÚPULO Nugget y LEVADURA seleccionada. Alc 8% vol
+- Pack de cervezas lager premium cuyo sabor amargo equilibra el alto grado alcohólico y su ligero postgusto picante. Se recomienda su consumo entre 5 y 6º
 - Es una cerveza roja con notas tostadas y maltosas, que marida bien con alimentos como quesos azules, pulpos y calamares, pescados ahumados y una gran variedad de carnes
+- La Cerveza 1906 Red Vintage ha sido galardonada con numerosos premios internacionales por su calidad excepcional, incluyendo la medalla de oro en el World Beer Challenge
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08MLFXS29{{</world>}}

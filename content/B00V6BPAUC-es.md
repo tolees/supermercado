@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PROTECCIÓN 360°: crema solar facial con Fernblock+, filtros específicos y activos reparadores y antioxidantes, protege frente a las 4 radiaciones (UVB, UVA, Visible e Infrarrojo), neutraliza y repara el daño solar
-- NO PEGAJOSO: protector solar de amplio espectro para una piel sana, suave y radiante, de uso diario
 - TESTADO: fotoprotección avanzada testada bajo control dermatológico y oftalmológico, ¡disfruta del sol sin preocupaciones!
+- NO PEGAJOSO: protector solar de amplio espectro para una piel sana, suave y radiante, de uso diario
 - FÓRMULA LIGERA: textura gel para una fácil aplicación, libre de aceites deja la piel lisa y sin brillos, con tacto seco dry touch; no comedogénica
 - ACCIÓN MATIFICANTE: protector solar facial para pieles grasas o con tendencia acneica, con activos de doble acción matificante y seborreguladora, para un acabado mate al momento
 
