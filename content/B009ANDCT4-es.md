@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Productos de belleza e higene personal para hombres y mujeres de todas las edades.
 - La belleza más deasada a tu alcanze con los mejores productos del mercado al mejor .
+- Productos de belleza e higene personal para hombres y mujeres de todas las edades.
 - Anti-Blemish Solutions Clarifying Lotion 200 Ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

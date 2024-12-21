@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🚴‍♂️ USO: Bebida energética perfecta para entrenamientos y competiciones, ideal para antes, durante y después de ejercicios de una duración inferior a 90´
-- 💯 EXTRA: Bebida isotónica sin ázucar, sin lactosa, sin gluten, sin aceite de palma, no contiene azúcares y no modificado genéticamente. Apta para veganos y sin gluten. Bajo aporte de kcal
-- 🏋️‍♀️ COMBINALO: Si necesitas mas sales minerales puedes combinarlo con 1 cápsula de Salts Electrolytes o si necesitas mas energía lo puedes combinar con 1-2 Energy Gels
-- ✅ APORTES - AMILOPECTINA: Sirve como fuente de energía, permitiendo un vaciado gástrico y una recarga de glucógenos mas rápida que fuentes convencionale
-- 🧾 INSTRUCCIONES: Verter 1,5 cucharadas (20g) de producto con el dosificador incluido en el interior en 500ml de agua y agitar
-- 🧾 INFORMACIÓN NUTRICIONAL: Disponible en la descripción del producto o la sección de imágenes
-- ✅ APORTES - SALES MINERALES: El isótonico garantiza un nivel de sales minerales adecuado para evitar la deshidratación
 - ✅ APORTES - BETA-ALANINA: La beta alanina inhibe el ácido láctico permitiendo retrasar la aparición de la fatiga
+- 💯 EXTRA: Bebida isotónica sin ázucar, sin lactosa, sin gluten, sin aceite de palma, no contiene azúcares y no modificado genéticamente. Apta para veganos y sin gluten. Bajo aporte de kcal
+- 🧾 INSTRUCCIONES: Verter 1,5 cucharadas (20g) de producto con el dosificador incluido en el interior en 500ml de agua y agitar
+- ✅ APORTES - SALES MINERALES: El isótonico garantiza un nivel de sales minerales adecuado para evitar la deshidratación
+- 🚴‍♂️ USO: Bebida energética perfecta para entrenamientos y competiciones, ideal para antes, durante y después de ejercicios de una duración inferior a 90´
+- 🧾 INFORMACIÓN NUTRICIONAL: Disponible en la descripción del producto o la sección de imágenes
+- ✅ APORTES - AMILOPECTINA: Sirve como fuente de energía, permitiendo un vaciado gástrico y una recarga de glucógenos mas rápida que fuentes convencionale
 - 🚴‍♂️ DESCRIPCIÓN: Bebida Isotónica en polvo a base de Hidratos de carbono, vitaminas, minerales y Beta-Alanina. Con edulcorante
+- 🏋️‍♀️ COMBINALO: Si necesitas mas sales minerales puedes combinarlo con 1 cápsula de Salts Electrolytes o si necesitas mas energía lo puedes combinar con 1-2 Energy Gels
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074QSS7P9{{</world>}}

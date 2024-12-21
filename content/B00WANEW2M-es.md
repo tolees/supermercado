@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Género : mujer
 - Marca : Nivea
 - Tipo de producto: leche corporal
+- Género : mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00WANEW2M{{</world>}}

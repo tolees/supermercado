@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Unidad de medida: unidad
-- Producto adecuado para sus necesidades diarias
+- Producto que combina tradición e innovación
+- Unidades: 1.0
 - Producto que ofrece alta calidad durante su uso
 - Gel pieles atopicas 100 ml
-- Unidades: 1.0
-- Producto que combina tradición e innovación
+- Producto adecuado para sus necesidades diarias
+- Unidad de medida: unidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07Q2Z2HK8{{</world>}}

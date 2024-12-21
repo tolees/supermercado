@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para disfrutar en cualquier momento.
 - Envuelto individualmente.
+- Ideal para disfrutar en cualquier momento.
 - Delicioso regalo y autoregalo.
 - Bombón relleno con deliciosa crema de cacahuetes y barquillo crujiente, cubierto de chocolate con leche.
 

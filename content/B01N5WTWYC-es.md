@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: agua de colonia
 - Marca : ADOLFO DOMINGUEZ
+- Tipo de producto: agua de colonia
 - Género : mujer
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

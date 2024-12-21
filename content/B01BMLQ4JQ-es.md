@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Atenúa gradualmente el color morado o pigmentado de las ojeras.
 - Disminuye visiblemente el volumen de bolsas y ojeras.
+- Testado dermatológica y oftalmológicamente.
 - Aporta luminosidad y mejora la elasticidad y firmeza de la piel.
 - Apto para todo tipo de piel.
-- Testado dermatológica y oftalmológicamente.
-- Atenúa gradualmente el color morado o pigmentado de las ojeras.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01BMLQ4JQ{{</world>}}

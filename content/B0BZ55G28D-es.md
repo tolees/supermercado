@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Old Spice Captain, con aroma a mar abierto, sándalo y notas cítricas, te hará inolvidable: te convertirás prácticamente en el centro del universo
+- Espuma suave que elimina profundamente la suciedad y los malos olores
 - La frescura duradera que todos quieren
 - Gracias a su poder 3 en 1, sirve tanto para el rostro y el cuerpo como para el pelo
-- Espuma suave que elimina profundamente la suciedad y los malos olores
+- Old Spice Captain, con aroma a mar abierto, sándalo y notas cítricas, te hará inolvidable: te convertirás prácticamente en el centro del universo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BZ55G28D{{</world>}}

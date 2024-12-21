@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puleva una costumbre muy sana
 - El calcio y la vitamina D contribuyen al desarrollo normal de los huesos
+- Puleva una costumbre muy sana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HTBC6UE{{</world>}}

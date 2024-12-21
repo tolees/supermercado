@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Fórmula sin aluminio
 - Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
-- Sutil y sofisticada fragancia que combina frescas notas de bergamota, romero y cedro.
-- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
 - Con Tecnología Dual Action: Elimina el mal olor, fragancias irresistibles.
+- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
+- Sutil y sofisticada fragancia que combina frescas notas de bergamota, romero y cedro.
 - ¡Prueba toda la gama Axe!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

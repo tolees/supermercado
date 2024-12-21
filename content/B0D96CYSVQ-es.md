@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descubre una Ginebra única y refrescante, con un inconfundible sabor a Mango.
-- En nariz: Destacan las notas frutales de Mango subrayadas por finos recuerdos a enebro.
-- A la vista: Esta Ginebra se presenta con un tono anaranjado, reminiscente del propio mango en su punto de madurez. Su claridad es notable, con destellos brillantes que reflejan la luz.
-- ¿Cómo tomarla?: Combínala con refresco de lima limón, tónica o refresco de limón acompañada de hielo y rodajas de lima.
-- En boca: La dulzura jugosa del Mango es la estrella indiscutible en el paladar. Su frescura es notable, como si se estuviera saboreando la fruta recién cortada. Esta dulzura se equilibra con una base de enebro suave con otros botánicos que aportan un toque de picor y complejidad al perfil de sabor.
 - Puerto de Indias y el verano se fusionan en este increíble sabor: Mango
+- A la vista: Esta Ginebra se presenta con un tono anaranjado, reminiscente del propio mango en su punto de madurez. Su claridad es notable, con destellos brillantes que reflejan la luz.
+- En nariz: Destacan las notas frutales de Mango subrayadas por finos recuerdos a enebro.
+- En boca: La dulzura jugosa del Mango es la estrella indiscutible en el paladar. Su frescura es notable, como si se estuviera saboreando la fruta recién cortada. Esta dulzura se equilibra con una base de enebro suave con otros botánicos que aportan un toque de picor y complejidad al perfil de sabor.
+- ¿Cómo tomarla?: Combínala con refresco de lima limón, tónica o refresco de limón acompañada de hielo y rodajas de lima.
+- Descubre una Ginebra única y refrescante, con un inconfundible sabor a Mango.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D96CYSVQ{{</world>}}

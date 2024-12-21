@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El diseño de doble uso: una cabeza es rotulador y la otra es la sombra que puede satisfacer sus necesidades diferentes.
-- De usos múltiples: se puede utilizar para cubrir las ojeras, líneas de estatuto, surco lagrimal, etc y también se puede utilizar paramodificar su atractivo elegante de los labios, la nariz, la clavícula, etc.
-- Todo tipo de piel: las fórmulas suaves son perfectos para la mayoría de tipos de piel que van de grasa o seca o sensible a la combinación.
 - Adecuado para toda la piel: es disponible en 2 combinaciones de sombra diferentes para adaptarse a cada tono de la piel, incluyendo uno color universal.
+- Todo tipo de piel: las fórmulas suaves son perfectos para la mayoría de tipos de piel que van de grasa o seca o sensible a la combinación.
+- De usos múltiples: se puede utilizar para cubrir las ojeras, líneas de estatuto, surco lagrimal, etc y también se puede utilizar paramodificar su atractivo elegante de los labios, la nariz, la clavícula, etc.
+- El diseño de doble uso: una cabeza es rotulador y la otra es la sombra que puede satisfacer sus necesidades diferentes.
 - Calidad confiable: hecho con la ejecución exquisita, delicada textura suave, fácil de estirar, frotis simple, fácil de maquillaje.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

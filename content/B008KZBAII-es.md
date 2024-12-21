@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 100 % fabricado en Francia por Charrier Parfums, perfumado desde 1888
-- Caja de regalo – un perfume para cada momento – un perfume para cada gusto.
 - Caja de regalo con 10 Eau de Parfum en miniaturas.
+- Caja de regalo – un perfume para cada momento – un perfume para cada gusto.
 - Una selección de fragancias diferentes y refinadas, modernas o tradicionales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

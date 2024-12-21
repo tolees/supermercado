@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alérgenos: trigo, apio. Puede contener trazas de leche, soja, huevo, mostaza y sésamo.
 - Nestle
+- Alérgenos: trigo, apio. Puede contener trazas de leche, soja, huevo, mostaza y sésamo.
 - Ingredientes: fideos orientales (93,7%): harina de trigo, aceite de girasol, gluten de trigo, sal, corrector de acidez (carbonato potásico), estabilizante (polifosfato sódico)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

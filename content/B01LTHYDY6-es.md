@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alérgenos: TRIGO.
-- Producto tradicional de la cocina italiana, una vez cocido se puede degustar caliente acompañado de alguna salsa o frio, en ensaladas.
-- Pasta alimenticia a base de sémola integral de trigo duro en forma de hélices.
 - Ingredientes: Sémola integral de TRIGO duro (origen UE y fuera UE).
+- Pasta alimenticia a base de sémola integral de trigo duro en forma de hélices.
+- Producto tradicional de la cocina italiana, una vez cocido se puede degustar caliente acompañado de alguna salsa o frio, en ensaladas.
+- Alérgenos: TRIGO.
 - Cocción al dente en 10 minutos.
 - Fuente de fibra.
 
