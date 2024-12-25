@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cacahuetes recubiertos en chocolate
 - El paquete puede variar
-- Cubiertas con una cáscara crujiente
+- Cacahuetes recubiertos en chocolate
 - Ideal para compartir
-- Con un sabor dulce
 - Conservar en lugar fresco y seco
+- Con un sabor dulce
+- Cubiertas con una cáscara crujiente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Q54JRD1{{</world>}}

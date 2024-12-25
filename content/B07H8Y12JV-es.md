@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Su fórmula contiene primer para proporcionar hasta 12 horas de duración
-- Incluye un espejo giratorio para retoques rápidos sobre la marcha
-- Contiene un aplicador de doble punta: una suave para combinar las combras y otra precisa para delinear o definir
 - Contiene 8 tonos luminosos, intenso y modernos
+- Incluye un espejo giratorio para retoques rápidos sobre la marcha
+- Su fórmula contiene primer para proporcionar hasta 12 horas de duración
+- Contiene un aplicador de doble punta: una suave para combinar las combras y otra precisa para delinear o definir
 - Paleta de 8 sombras para crear un ahumado perfecto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

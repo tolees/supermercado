@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Notas de salida: Floral, Violeta, Notas verdes
-- Dulce, cremoso y floral aroma a caramelos de flor de violeta, todo un placer para los sentidos
 - Contiene 50 ml. Dermatológicamente testada
+- Dulce, cremoso y floral aroma a caramelos de flor de violeta, todo un placer para los sentidos
 - Notas de corazón: Acuoso, Cosmético, Floral
 - Notas de fondo: Iris, Caramelo
 - Unidades: 1.0

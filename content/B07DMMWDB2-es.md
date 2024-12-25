@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuidarse y sentirse bien nunca había sido tan fácil.
-- Los mejores productos de higiene para tu día a día.
 - Solar aloe vera spf50 leche lote 2 pz
+- Los mejores productos de higiene para tu día a día.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DMMWDB2{{</world>}}

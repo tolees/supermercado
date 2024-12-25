@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Definición definitiva y hidratación
 - Volumen 350 ml
 - De la marca ProYou Care
-- Definición definitiva y hidratación
 - Nuestra tecnología insta bounce agrega una definición perfecta al cabello naturalmente rizado o con permanente, dejándolo bajo control
 
 [🛒 Aquí!!!]({{< param buyurl >}})

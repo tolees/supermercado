@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Resistente al agua
+- Dibuja una línea fina sobre el ojo para una mirada más intensa
 - Fórmula suave y cremosa para una fácil aplicación
 - Dermatológicamente y oftalmológicamente probado
-- Dibuja una línea fina sobre el ojo para una mirada más intensa
 - Color de alta intensidad para un impacto instantáneo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

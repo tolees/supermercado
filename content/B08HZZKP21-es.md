@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Obtén hidratación instantánea y de larga duración con esta amplia gama enriquecida con nuestro sistema provitamina B5
 - Una formula de limpieza profunda especial para cabello seco
 - Volumen 1000 ml
+- Obtén hidratación instantánea y de larga duración con esta amplia gama enriquecida con nuestro sistema provitamina B5
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HZZKP21{{</world>}}

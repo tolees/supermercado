@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pensamos en nuestros consumidores celíacos, por eso apostamos por un producto sin gluten
+- Cacao natural obtenido de forma sostenible, certificado por Rainforest Alliance
 - Bolsa 100% reciclable
 - Disfruta con el delicioso sabor a chocolate NESQUIK Instantáneo
-- Pensamos en nuestros consumidores celíacos, por eso apostamos por un producto sin gluten
 - Con vitamina D, un nutriente esencial que ayuda al sistema inmunológico y aumenta la absorción de calcio, para unos huesos sanos y fuertes
-- Cacao natural obtenido de forma sostenible, certificado por Rainforest Alliance
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XA3YSSY{{</world>}}

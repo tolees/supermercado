@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% ingredientes naturales
 - Paquete de 2 x 160 gr
 - Conservar en lugar fresco y seco
 - Muy crujiente
 - Eleva el sabor de tus ensaladas
+- 100% ingredientes naturales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUWZAVI{{</world>}}

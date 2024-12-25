@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🧾 INSTRUCCIONES: Verter 1,5 cucharadas (20g) de producto con el dosificador incluido en el interior en 500ml de agua y agitar
 - 🧾 INFORMACIÓN NUTRICIONAL: Disponible en la descripción del producto o la sección de imágenes
-- 💯 EXTRA: Bebida isotónica sin ázucar, sin lactosa, sin gluten, sin aceite de palma, no contiene azúcares y no modificado genéticamente. Apta para veganos y sin gluten. Bajo aporte de kcal
-- 🚴‍♂️ USO: Bebida energética perfecta para entrenamientos y competiciones, ideal para antes, durante y después de ejercicios de una duración inferior a 90´
-- 🏋️‍♀️ COMBINALO: Si necesitas mas sales minerales puedes combinarlo con 1 cápsula de Salts Electrolytes o si necesitas mas energía lo puedes combinar con 1-2 Energy Gels
-- 🚴‍♂️ DESCRIPCIÓN: Bebida Isotónica en polvo a base de Hidratos de carbono, vitaminas, minerales y Beta-Alanina. Con edulcorante
-- ✅ APORTES - BETA-ALANINA: La beta alanina inhibe el ácido láctico permitiendo retrasar la aparición de la fatiga
-- ✅ APORTES - AMILOPECTINA: Sirve como fuente de energía, permitiendo un vaciado gástrico y una recarga de glucógenos mas rápida que fuentes convencionale
 - ✅ APORTES - SALES MINERALES: El isótonico garantiza un nivel de sales minerales adecuado para evitar la deshidratación
+- 💯 EXTRA: Bebida isotónica sin ázucar, sin lactosa, sin gluten, sin aceite de palma, no contiene azúcares y no modificado genéticamente. Apta para veganos y sin gluten. Bajo aporte de kcal
+- 🚴‍♂️ DESCRIPCIÓN: Bebida Isotónica en polvo a base de Hidratos de carbono, vitaminas, minerales y Beta-Alanina. Con edulcorante
+- 🏋️‍♀️ COMBINALO: Si necesitas mas sales minerales puedes combinarlo con 1 cápsula de Salts Electrolytes o si necesitas mas energía lo puedes combinar con 1-2 Energy Gels
+- 🧾 INSTRUCCIONES: Verter 1,5 cucharadas (20g) de producto con el dosificador incluido en el interior en 500ml de agua y agitar
+- 🚴‍♂️ USO: Bebida energética perfecta para entrenamientos y competiciones, ideal para antes, durante y después de ejercicios de una duración inferior a 90´
+- ✅ APORTES - AMILOPECTINA: Sirve como fuente de energía, permitiendo un vaciado gástrico y una recarga de glucógenos mas rápida que fuentes convencionale
+- ✅ APORTES - BETA-ALANINA: La beta alanina inhibe el ácido láctico permitiendo retrasar la aparición de la fatiga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074QSS7P9{{</world>}}

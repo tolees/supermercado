@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: Revlon Professional ProYou
-- Volumen 500 ml
 - Restaura la vitalidad del cabello con este tratamiento intensivo
+- Marca: Revlon Professional ProYou
 - Revlon Professional ProYou Mascarilla Reparadora
+- Volumen 500 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HZWMCF3{{</world>}}

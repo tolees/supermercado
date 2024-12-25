@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado rico y persistente
 - Aroma a hierbas silvestres, brezo, miel y frutas del bosque
 - Se trata de un whisky con una reputación de calidad, con su corazón firmemente ubicado en Speyside
-- Paladar equilibrado y cremoso con toques de miel, vainilla, avellana y caramelo
 - La mezcla de Chivas Regal 12 años: suave, rica y generosa
+- Acabado rico y persistente
+- Paladar equilibrado y cremoso con toques de miel, vainilla, avellana y caramelo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07LBLT6J1{{</world>}}
