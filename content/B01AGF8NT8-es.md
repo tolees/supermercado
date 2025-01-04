@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Realizada con ingredientes naturales
-- Ideal para servir fría
-- Cerveza brillante con aspecto dorado
 - Sabor suave y buen equilibrio en boca
+- Cerveza brillante con aspecto dorado
 - Con espuma cremosa
+- Ideal para servir fría
+- Realizada con ingredientes naturales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01AGF8NT8{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- En boca se presenta suave con surgentes toques frutales y sabrosos taninos
 - Envejecido 12 meses en barrica de roble americano
-- De color rojo cereza, con aromas a frutos maduros
-- Perfecto junto a platos de carne de res, cordero, ternera y aves
 - Se puede usar para cocinar
+- Perfecto junto a platos de carne de res, cordero, ternera y aves
+- De color rojo cereza, con aromas a frutos maduros
+- En boca se presenta suave con surgentes toques frutales y sabrosos taninos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00QAA7TPI{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin aromas ni conservantes artificiales
+- Con vitamina B6, B3 y ácido fólico
 - Mantener en lugar fresco y seco
 - Ricas en fibra
-- Con vitamina B6, B3 y ácido fólico
+- Sin aromas ni conservantes artificiales
 - Contiene trigo, soja, leche
 
 [🛒 Aquí!!!]({{< param buyurl >}})

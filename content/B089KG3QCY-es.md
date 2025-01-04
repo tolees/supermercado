@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Complejo dermo reparador con ingredientes de origen natural
-- Testado dermatológicamente
-- Con almendras y jalea real
 - Deja las manos limpias, suaves, nutridas y delicadamente perfumadas
+- Testado dermatológicamente
+- Complejo dermo reparador con ingredientes de origen natural
+- Con almendras y jalea real
 - Jabón de manos nutritivo con protección total contra agentes externos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
