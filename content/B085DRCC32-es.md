@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un vino blanco afrutado
-- Elaborado con dos de las variedades blancas con más historia del Mediterráneo
 - Amarillo brillante, limpio con matices grises
+- Elaborado con dos de las variedades blancas con más historia del Mediterráneo
 - Fresco, expresivo y lleno de matices
+- Un vino blanco afrutado
 - Suave, afrutado y elegante
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con cacao natural
 - El embalaje puede variar!
 - Ideal para toda la familia
-- Conservar en un lugar fresco y seco
+- Con cacao natural
 - Bebida instantánea en polvo, No contiene aditivos
+- Conservar en un lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B57GQ48L{{</world>}}

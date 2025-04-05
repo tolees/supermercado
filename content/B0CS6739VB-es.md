@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DERMATOLÓGICAMENTE PROBADO: Indicado para todo tipo de pieles.
-- Cómo usarlo: Distribuir en las manos mojadas, enjabonar y aclarar abundantemente
-- 2 RECAMBIOS DE 1000 ml: Un 70 % menos de empaquetado que al comprar los botes
 - NEUTRALIZA LOS OLORES: Jabón de limpieza que neutraliza olores y deja una fragancia refrescantes de limón y menta. Apto para su uso en la cocina.
 - FÓRMULA DE CUIDADO HUMECTANTE: Protege la piel de la sequedad excesiva, dejando las manos nutridas y suaves.
+- 2 RECAMBIOS DE 1000 ml: Un 70 % menos de empaquetado que al comprar los botes
+- Cómo usarlo: Distribuir en las manos mojadas, enjabonar y aclarar abundantemente
+- DERMATOLÓGICAMENTE PROBADO: Indicado para todo tipo de pieles.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CS6739VB{{</world>}}

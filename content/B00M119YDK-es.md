@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Caramelos de goma con sabor a frutas con 1.6% de zumo de frutas a partir de concentrado
-- Figuras de ositos de oro
 - Mantener en lugar fresco y seco
+- Figuras de ositos de oro
 - Peso neto de 100 gramos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

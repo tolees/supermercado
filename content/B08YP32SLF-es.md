@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nuestros chocolates son el regalo perfecto para parejas, amigos o familiares para regalar en cualquier ocasión o época del año. Si estabas buscando como sorprenderlos, ¡Aquí lo tienes!
 - Antiu Xixona Chocolates es una marca con experiencia en la fabricación y elaboración de chocolates y dulces desde 1863. La tradición y calidad para obtener un excepcional e inconfundible sabor.
+- Nuestros chocolates son el regalo perfecto para parejas, amigos o familiares para regalar en cualquier ocasión o época del año. Si estabas buscando como sorprenderlos, ¡Aquí lo tienes!
+- Chocolate Premium Negro con Almendras Extrafino de Antiu Xixona, un chocolate con un gran aroma y un sabor equilibrado y único. Elaborados en nuestras fabricas con el mayor cariño y delicadeza.
 - Fabricado, elaborado y envasado en España, concretamente en Jijona (Alicante). En Antiu Xixona apostamos por ingredientes de calidad.
 - En la fabricación de nuestros productos no utilizamos aceite de palma. Los Chocolates Antiu Xixona Premium no contienen gluten, por lo que son aptos para celiacos.
-- Chocolate Premium Negro con Almendras Extrafino de Antiu Xixona, un chocolate con un gran aroma y un sabor equilibrado y único. Elaborados en nuestras fabricas con el mayor cariño y delicadeza.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08YP32SLF{{</world>}}

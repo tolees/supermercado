@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Yamamoto Nutrition ISO-FUJI es un complemento alimenticio a base de proteínas de suero de leche
 - Las proteínas contribuyen al crecimiento y mantenimiento de la masa muscular
+- Yamamoto Nutrition ISO-FUJI es un complemento alimenticio a base de proteínas de suero de leche
 - Las proteínas de suero son de alto valor biológico y contienen, de forma natural, aminoácidos de cadena ramificada (BCAA)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

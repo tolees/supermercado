@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Perfecto chupito
 - Capacidad
 - Un licor explosivo a base de auténtico whisky canadiense, canela y chili.
-- Perfecto chupito
 - Producto que combina tradición e innovación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

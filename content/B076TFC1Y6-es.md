@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con filete de pollo tierno en salsa
 - Comida húmeda para gatos jóvenes < 1 año
 - Sin cereales añadidos, azúcar, colorantes y conservantes artificiales y sabores artificiales
+- Con filete de pollo tierno en salsa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076TFC1Y6{{</world>}}

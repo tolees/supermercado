@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Uso Versátil: Ideal no solo para preparar una taza tradicional de té matcha, sino también perfecto para lattes, batidos y deliciosas tartas.
-- Producción Auténtica: Cultivado a la sombra y molido en piedra, nuestro matcha se destaca con un color verde vibrante y un aroma fresco, diferenciándose de la competencia.
-- Sabor Galardonado: Orgulloso ganador del premio "Great Taste" de 1 estrella en el Reino Unido, lo que asegura su inigualable sabor y calidad.
-- Lattes Revolucionarios: Los lattes hechos con este matcha son absolutamente deliciosos y marcan la diferencia.
 - Matcha de Grado Premium: Procedente de la prestigiosa región de Kagoshima en Japón, nuestro Té Verde Matcha Japonés garantiza una experiencia de calidad superior.
+- Lattes Revolucionarios: Los lattes hechos con este matcha son absolutamente deliciosos y marcan la diferencia.
+- Producción Auténtica: Cultivado a la sombra y molido en piedra, nuestro matcha se destaca con un color verde vibrante y un aroma fresco, diferenciándose de la competencia.
+- Uso Versátil: Ideal no solo para preparar una taza tradicional de té matcha, sino también perfecto para lattes, batidos y deliciosas tartas.
+- Sabor Galardonado: Orgulloso ganador del premio "Great Taste" de 1 estrella en el Reino Unido, lo que asegura su inigualable sabor y calidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06XTYYYJ8{{</world>}}

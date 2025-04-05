@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100 cápsulas monodosis de 7,3 g empaquetadas individualmente en atmósfera protectora
-- Marca: Kimbo
 - Fabricado en Italia
+- Marca: Kimbo
+- 100 cápsulas monodosis de 7,3 g empaquetadas individualmente en atmósfera protectora
 - Aroma intenso, sabor decidido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

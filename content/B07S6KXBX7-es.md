@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligero, para que pueda llevarlo en su bolso
 - Un equilibrio óptimo entre la necesidad del cliente y un merecido mimo
+- Ligero, para que pueda llevarlo en su bolso
 - Idea de regalo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

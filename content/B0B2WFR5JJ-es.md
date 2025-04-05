@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se presenta en PACK DE 6 BOTELLAS de 1 litro
-- NUEVA BEBIDA de Puleva que combina la calidad de su leche con una exquisita selección de cafés arábica y robusta
 - Disfruta de un buen CAFÉ con LECHE CORTADO de la manera más fácil, con mayor intensidad de sabor a café.
+- NUEVA BEBIDA de Puleva que combina la calidad de su leche con una exquisita selección de cafés arábica y robusta
+- Se presenta en PACK DE 6 BOTELLAS de 1 litro
 - Disfruta de tu café con leche cortado LISTO PARA TOMAR, frio o caliente.
 - Leche parcialmente DESNATADA con café, y con VITAMINAS A y D
 

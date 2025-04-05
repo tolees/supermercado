@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con aroma frutal, ligero sabor dulce y amargor suave
-- Se recomienda consumirla fría
-- Elaborada con agua, malta de cebada y lúpulo
 - Tiene un color amarillo brillante y espuma blanca intensa
+- Se recomienda consumirla fría
 - Es ideal para fiestas
+- Elaborada con agua, malta de cebada y lúpulo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00OM57YSK{{</world>}}

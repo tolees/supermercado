@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sin gluten.
 - Disfruta de la experiencia más intensa de Nesquik con Nesquik Intenso 100% cacao.
 - Cacao natural obtenido 100 % de forma sostenible, certificado por la Rainforest Alliance.
-- Sin gluten.
 - ¡Lata y tapa 100% reciclables!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

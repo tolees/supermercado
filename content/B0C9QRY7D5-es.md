@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Surtido de 3 bombones de chocolate. Dos bombones con cobertura de chocolate con leche y uno de chocolate blanco. Aprox 15 bombones.
-- Se fabrica en La Penilla (Cantabria).
 - Para que los más jovenes también disfruten de los bombones
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest Alliance.
+- Se fabrica en La Penilla (Cantabria).
 - Característico sabor a crujiente galleta Jungly y Dinosaurus
+- Surtido de 3 bombones de chocolate. Dos bombones con cobertura de chocolate con leche y uno de chocolate blanco. Aprox 15 bombones.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9QRY7D5{{</world>}}

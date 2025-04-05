@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cada unidad de esta bebida energética contiene extractos de hoja de salvia y raíz de ortiga, y 250 mg de PerforMelon Boost, una fuente concentrada de fitoquímicos de la sandía.
-- La bebida deportiva ON, con 175 mg de cafeína para ayudar a agudizar su estado de alerta y concentración**, tiene 1,5 g de beta-alanina (aminoácido no esencial) por botella
-- Tómalo 30 minutos antes del entrenamiento; la ingesta recomendada es de 1 al día
-- El Impulso de Energía Pre Entrenamiento Gold Standard de Optimum Nutrition, un trago rápido y perfecto para beber antes del entrenamiento que aumenta tu concentración y energía**
 - No se requiere agitador: un suplemento alimenticio pre entrenamiento ideal para beber en dos sabrosos sabores: Bayas Mixtas o Lima Limón
 - El complemento de gimnasio y entrenamiento ON con vitaminas B6 y B12 que contribuyen al normal metabolismo energético y a la reducción del cansancio y la fatiga*
+- El Impulso de Energía Pre Entrenamiento Gold Standard de Optimum Nutrition, un trago rápido y perfecto para beber antes del entrenamiento que aumenta tu concentración y energía**
 - *Fuente: REGLAMENTO DE LA COMISIÓN (UE) Nº 432/2012 de 16 de mayo de 2012. **Fuente: EFSA Journal 2011;9(4):2054 24
+- Tómalo 30 minutos antes del entrenamiento; la ingesta recomendada es de 1 al día
+- La bebida deportiva ON, con 175 mg de cafeína para ayudar a agudizar su estado de alerta y concentración**, tiene 1,5 g de beta-alanina (aminoácido no esencial) por botella
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VVWB3ZT{{</world>}}

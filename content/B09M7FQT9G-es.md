@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estuche regalo 3 botellas 75cl (2 cavas + 1 vino tinto)
-- Varietales vino tinto: 100% Tinto Fino (Tempranillo)
-- Cava Anna de Codorníu Brut - DO Cava
 - Varietales cava: Chardonnay 70%, Parellada 15%, Xarel·lo-Macabeo 15%
+- Varietales vino tinto: 100% Tinto Fino (Tempranillo)
+- Estuche regalo 3 botellas 75cl (2 cavas + 1 vino tinto)
 - Vino tinto Legaris Roble - DO Ribera del Duero
+- Cava Anna de Codorníu Brut - DO Cava
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09M7FQT9G{{</world>}}

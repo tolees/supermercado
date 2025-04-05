@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caramelos de goma
 - Conservar en lugar fresco y seco
 - Deliciosas piezas redondeadas recubiertas de azúcar
+- Caramelos de goma
 - Sabor a fresa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

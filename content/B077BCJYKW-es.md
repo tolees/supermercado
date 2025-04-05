@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- NOTAS AROMÁTICAS: ¡Tierra! for Planet es un café caracterizado por notas aromáticas de frutas tropicales y flores, para un espresso de sabor suave, floral y afrutado
 - VARIEDAD: Este café 100% Arábica es biológico, recolectado a mano y cuenta con la certificación Rainforest Alliance. Procede de África y América Central y del Sur, donde Lavazza enseña a los agricultores a controlar los efectos del cambio climático
-- El término italiano “torrefatto” que aparece en el envase original significa “tostado” y no se refiere de ninguna manera a una variedad de café torrefacto
-- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
 - INTENSIDAD: El tueste ligero y el nivel de intensidad 6/10 confieren a este café biológico un aroma delicado, para un espresso dorado
-- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
+- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
+- NOTAS AROMÁTICAS: ¡Tierra! for Planet es un café caracterizado por notas aromáticas de frutas tropicales y flores, para un espresso de sabor suave, floral y afrutado
 - ¡TIERRA! FOR PLANET: Explora las maravillas de la naturaleza con este café biológico Lavazza. Ideal para máquina de café espresso o automática
+- El término italiano “torrefatto” que aparece en el envase original significa “tostado” y no se refiere de ninguna manera a una variedad de café torrefacto
+- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B077BCJYKW{{</world>}}

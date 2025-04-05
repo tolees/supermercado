@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cápsulas de aluminio, compatibles con cafeteras Nespresso(r), marca no relacionada con Global Coffee Industries S.A.
 - Ingredientes: café, intensidad 9
+- Cápsulas de aluminio, compatibles con cafeteras Nespresso(r), marca no relacionada con Global Coffee Industries S.A.
 - Alérgenos: sin gluten ni frutos secos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

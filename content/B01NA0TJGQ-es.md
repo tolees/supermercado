@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un delicioso relleno de leche y su textura suave y cremosa, hacen de estas barritas el descanso más tierno y delicioso del día.
+- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
 - Milka es un producto tradicional. Por ello, desde hace más de 100 años utilizamos exclusivamente leche de la región de los Alpes para nuestro chocolate. Comprobamos cada litro de leche que recibimos de nuestros proveedores para aseguramos de que proviene al 100% de los valles y altos valles de los Alpes y la región subalpina.
 - Las mini barritas Milka Milkinis de tierno chocolate con leche de los Alpes rellenos de deliciosa crema láctea, son excelentes para disfrutar con familia y amigos, para picar como snack o en meriendas escolares para los niños.
-- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
 - Las 8 mini barritas de chocolate Milka Milkinis vienen embasadas invidualmente, ideales para un dulce descanso y aptas para llevar a cualquier parte.
+- Con un delicioso relleno de leche y su textura suave y cremosa, hacen de estas barritas el descanso más tierno y delicioso del día.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01NA0TJGQ{{</world>}}

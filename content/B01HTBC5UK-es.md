@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un sabor agradable
 - Una vez abierto, conservar en frigorífico
+- Viene en un envase reciclable
+- Con un sabor agradable
 - Adecuado para toda la familia
 - Contiene vitaminas A y D
-- Viene en un envase reciclable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HTBC5UK{{</world>}}

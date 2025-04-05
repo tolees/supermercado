@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - NOTAS AROMÁTICAS: Espresso Maestro Ristretto es caracterizado por notas de chocolate y caramelo, para un café intenso y de gran cuerpo
+- ESPRESSO MAESTRO RISTRETTO: Un café Lavazza corto pero intenso. Descubre toda la intensidad que puede caber en una taza pequeña. 10 cápsulas de aluminio compatibles con las máquinas Nespresso*. *Lavazza no está respaldada o patrocinada por Nespresso
 - INTENSIDAD: La intensidad 12 y el tueste oscuro brindan un sabor equilibrado a este café, para un espresso ristretto de 25 ml
 - LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
-- ESPRESSO MAESTRO RISTRETTO: Un café Lavazza corto pero intenso. Descubre toda la intensidad que puede caber en una taza pequeña. 10 cápsulas de aluminio compatibles con las máquinas Nespresso*. *Lavazza no está respaldada o patrocinada por Nespresso
 - VARIEDAD: Esta selección de café Lavazza está elaborada con café Arábica y Robusta procedente de Centro y Sudamérica, de Asia y de África
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una bebida sana y sabrosa para los niños
-- Sin colorantes
-- Disfruta todo el sabor de la receta original
 - Batido de chocolate embotellado
+- Sin colorantes
+- Una bebida sana y sabrosa para los niños
+- Disfruta todo el sabor de la receta original
 - Rico en vitamina D
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

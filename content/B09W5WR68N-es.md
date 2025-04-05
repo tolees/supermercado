@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - VALORES NUTRICIONALES: Valor energético (1,312 kJ / 309 kcal), Grasas (0.0 g), Saturadas (0.0 g), Hidratos de carbono (77.20 g), Azúcares (77.20 g), Fructosa (60.0 g), Proteínas (0.0 g), Sal (0.0 g).
-- MODO DE EMPLEO: Producto apto para ser consumido directamente o para ser utilizado como ingrediente en preparaciones culinarias.
 - CONSUMO ADECUADO: Este producto puede ser consumido por cualquier grupo poblacional excepto por aquellos con alergias o intolerancias recogidas en la tabla de alérgenos.
-- PRODUCTO ECOLÓGICO: El sirope ecológico de agave es un endulzante natural, perfecto para sustituir al azúcar refinado. Procede de las hojas de agave, una planta parecida al aloe vera, tiene un gran poder endulzante. Es un producto sin gluten y ecológico, por lo que para su elaboración y extracción no se ha dañado el medio ambiente ni utilizado pesticidas ni herbicidas. Este envase de 900 ml será perfecto para tenerlo en casa siempre a mano.
 - INGREDIENTES: Sirope de agave*. *Ingrediente procedente de la Agricultura Ecológica.
+- PRODUCTO ECOLÓGICO: El sirope ecológico de agave es un endulzante natural, perfecto para sustituir al azúcar refinado. Procede de las hojas de agave, una planta parecida al aloe vera, tiene un gran poder endulzante. Es un producto sin gluten y ecológico, por lo que para su elaboración y extracción no se ha dañado el medio ambiente ni utilizado pesticidas ni herbicidas. Este envase de 900 ml será perfecto para tenerlo en casa siempre a mano.
+- MODO DE EMPLEO: Producto apto para ser consumido directamente o para ser utilizado como ingrediente en preparaciones culinarias.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09W5WR68N{{</world>}}

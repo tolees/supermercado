@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho solo con ingredientes naturales
 - El sabor es ligero y refrescante
 - C.C. DAMM S.L. C/ del Rosselló, 515, LEixample, 08025 Barcelona, Espana
 - En nariz es limpio con sutiles notas de cebada
+- Hecho solo con ingredientes naturales
 - La temperatura de servicio recomendada es de 4-6°C
 - El color es amarillo brillante con una espuma blanca consistente
 

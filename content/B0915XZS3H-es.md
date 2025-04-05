@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- D.O. Rueda
 - Amarillo pajizo, con tonos verdes, vivo
-- Volumen en boca, muy untuoso, acidez equilibrada, persistente y largo. Combina perfectamente con pescado y marisco fresco, pasta, arroces y carnes blancas.
-- 100 % Verdejo
 - Crianza sobre lías
+- Volumen en boca, muy untuoso, acidez equilibrada, persistente y largo. Combina perfectamente con pescado y marisco fresco, pasta, arroces y carnes blancas.
 - Intensidad aromática alta, fresco, agradable
+- D.O. Rueda
+- 100 % Verdejo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0915XZS3H{{</world>}}

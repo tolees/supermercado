@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una fragancia masculina que mantiene la síntesis perfecta entre la atracción por lo innato de lo clásico y el anhelo natural por el estilo contemporáneo. Esta es la personalidad del hombre actual.
 - Aromático fougère
+- Una fragancia masculina que mantiene la síntesis perfecta entre la atracción por lo innato de lo clásico y el anhelo natural por el estilo contemporáneo. Esta es la personalidad del hombre actual.
 - Ingredientes seleccionados
 - Brand: Instituto Español
 

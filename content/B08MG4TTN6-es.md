@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Unidad de medida: gramo
+- Fabricado en españa por galletas gullón
 - Información de alérgenos: wheat
-- Las galletas maría dorada gullón de siempre, con todo su sabor, sin azúcares
+- Prueba el desayuno más completo con las galletas maría diet nature con alto contenido en fibra
 - Unidades: 400.0
 - Sin aceite de palma; producto elaborado con aceite de girasol alto oleico
-- Fabricado en españa por galletas gullón
-- Prueba el desayuno más completo con las galletas maría diet nature con alto contenido en fibra
+- Unidad de medida: gramo
+- Las galletas maría dorada gullón de siempre, con todo su sabor, sin azúcares
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08MG4TTN6{{</world>}}

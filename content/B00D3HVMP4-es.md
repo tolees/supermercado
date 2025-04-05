@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fortalece los dientes para prevenir la aparición de caries
 - Previene el sarro para ayudar a mantener el blanco natural de los dientes
 - Reduce la placa incluso por debajo de la línea de las encías
+- Fortalece los dientes para prevenir la aparición de caries
 - Protege durante 24 horas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

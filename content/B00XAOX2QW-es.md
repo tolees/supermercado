@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formato bolsa de 1 kilogramo de caramelos sueltos con un refrescante sabor a menta sin azúcar
-- Caramelos duros refrescantes, con sabor a menta sin azúcar
 - Un consumo excesivo puede producir efectos laxantes. Contiene una fuente de fenilalanina
+- Caramelos duros refrescantes, con sabor a menta sin azúcar
+- Formato bolsa de 1 kilogramo de caramelos sueltos con un refrescante sabor a menta sin azúcar
 - Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
 - Conservar en lugar fresco y seco
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 3 meses de protección contra pulgas, garrapatas y mosquitos
 - Champú limpiador y repelente para perros y gatos
-- Contiene extractos naturales de plantas y buenos repelentes como son el Piretro vegetal, el extracto natural de Margosa y el Lavandín.
 - Respeta el PH de la piel de la mascota
+- Contiene extractos naturales de plantas y buenos repelentes como son el Piretro vegetal, el extracto natural de Margosa y el Lavandín.
+- 3 meses de protección contra pulgas, garrapatas y mosquitos
 - De acción immediata, repele pulgas, garrapatas y mosquitos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

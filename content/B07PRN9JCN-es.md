@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sello Cosmos Natura de Ecocert
 - 99% Ingredientes de Origen Natural
-- Apto para Veganos
 - 24h de Protección y Nutrición
+- Apto para Veganos
+- Sello Cosmos Natura de Ecocert
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PRN9JCN{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene Dioxido de azúfre y sulfitos
 - Peso neto de 750 ml
+- Contiene Dioxido de azúfre y sulfitos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DWBXD1G{{</world>}}

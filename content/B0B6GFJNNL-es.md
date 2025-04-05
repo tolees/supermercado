@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espejo integrado en la tapa
-- Aletas extensibles lateralmente y cajón integrado
 - Contenido: cosméticos veganos; juego de maquillaje en una robusta caja de tapa dura; 16 sombras de ojos, 8 crema de brillo corporal, 8 brillos de labios, 3 coloretes, 2 polvos faciales, 1 borla de polvos; 1 pincel pequeño para colorete, 1 pincel pequeño para labios y 1 aplicador doble
 - Alas extraíbles hacia un lado y cajón integrado
+- Espejo integrado en la tapa
+- Aletas extensibles lateralmente y cajón integrado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6GFJNNL{{</world>}}

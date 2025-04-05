@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tomar 1 stick diario diluido en medio litro de agua para ir bebiendo durante el día.
-- Ayuda a quemar las grasas.
-- Ayuda a mantener un vientre plano.
-- Sin Gluten. Sin Lactosa
 - Ayuda a eliminar las toxinas del organismo.
+- Sin Gluten. Sin Lactosa
+- Ayuda a quemar las grasas.
+- Tomar 1 stick diario diluido en medio litro de agua para ir bebiendo durante el día.
+- Ayuda a mantener un vientre plano.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07659WWQV{{</world>}}

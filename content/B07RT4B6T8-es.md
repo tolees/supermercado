@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Contenido del envío: 1x Neutrogena Skin Detox Mascarilla de Arcilla Purificante 2en1 con ácido glicólico y no comedogénico/testado dermatológicamente/150 ml
+- Fórmula de limpieza facial para todo tipo de pieles con ácido glicólico y arcilla que purifica y actúa sobre el 100% de las toxinas sin resecar la piel
 - Limpieza en profundidad y un cutis radiante todo en uno; su fórmula elimina con suavidad la suciedad de la piel detoxificando impurezas y contaminantes
 - Limpia y detoxifica tu piel con el tratamiento completo DETOX de Neutrogena, para una tez radiante y juvenil
-- Fórmula de limpieza facial para todo tipo de pieles con ácido glicólico y arcilla que purifica y actúa sobre el 100% de las toxinas sin resecar la piel
-- Contenido del envío: 1x Neutrogena Skin Detox Mascarilla de Arcilla Purificante 2en1 con ácido glicólico y no comedogénico/testado dermatológicamente/150 ml
 - Limpiador diario y mascarilla para todo tipo de piel; al usar como limpiador, humedecer la cara y aclarar con agua y como mascarilla, aplicar y dejar secar durante 1 min
 
 [🛒 Aquí!!!]({{< param buyurl >}})

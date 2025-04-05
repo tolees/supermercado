@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 90% de leche, 30% menos de azúcar y sin edulcorantes
-- Para disfrutarlo en cualquier lugar gracias a su envase especial
 - Fuente de calcio, vitaminas d y proteínas
+- Para disfrutarlo en cualquier lugar gracias a su envase especial
+- 90% de leche, 30% menos de azúcar y sin edulcorantes
 - Batidos de vainilla con leche parcialmente desnatada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

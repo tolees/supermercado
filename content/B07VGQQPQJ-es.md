@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Familia olfativa: oriental amaderada
 - Incluye: eau de toilette + gel de ducha + after shave
-- Salida fresca y especiada
 - Nombre de la fragancia: Fresh
 - Corazón amaderado
+- Salida fresca y especiada
+- Familia olfativa: oriental amaderada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VGQQPQJ{{</world>}}

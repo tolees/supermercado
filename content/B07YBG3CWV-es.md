@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- De textura suave
+- Sin gluten
 - Potito de pollo y ternera con judías verdes y zanahoria
 - Hecho con ingrediente naturales
-- Sin gluten
 - Para bebés a partir de 6 meses
-- De textura suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07YBG3CWV{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Fuente de Ácidos Grasos Omega 6
 - 100 percent completo y equilibrado Vitaminas D and E Fuente de Ácidos Grasos Omega 6
 - Sin aromatizantes artificiales añadidos Sin conservantes artificiales añadidos
-- Fuente de Ácidos Grasos Omega 6
 - Elaborado con ingredientes de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

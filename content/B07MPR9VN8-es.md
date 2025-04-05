@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - SUGERENCIA DE PRESENTACIÓN: Los momentos magistrales se pueden preparar con vasos de chupito en el congelador. Para brindar, vierta 2 cl de Jägermeister helado en un vaso y disfrute mejor del chupito con los amigos.
 - OCASIÓN: Ya sea para celebrarlo en casa, de camino a la fiesta o en la discoteca. Jägermeister siempre está contigo y hace que tus momentos sean inolvidables, porque tenemos el tamaño de botella perfecto para cada ocasión.
 - MADURADO EN BARRICAS: Los maestros no se crean de la noche a la mañana, ni siquiera nuestro Jägermeister. Para poder disfrutar de las mejores noches con él, su elixir madura durante varios meses en barricas de roble. Sólo entonces despliega su sabor legendario y único.
-- VOLUMEN DE SUMINISTRO: 1 x 1l Jägermeister, 35% Vol., imprescindible en el bar de cualquier casa. Perfecto como regalo de fiesta y recuerdo. A partir de 18 años.
 - ORIGEN: Jägermeister el original de Wolfenbüttel. El Jägermeister Herbal Liqueur Shot helado combina 56 hierbas naturales, flores, raíces y frutas de todo el mundo y siempre ha formado parte de todas las fiestas.
+- VOLUMEN DE SUMINISTRO: 1 x 1l Jägermeister, 35% Vol., imprescindible en el bar de cualquier casa. Perfecto como regalo de fiesta y recuerdo. A partir de 18 años.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07MPR9VN8{{</world>}}

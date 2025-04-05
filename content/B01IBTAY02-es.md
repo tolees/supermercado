@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - PELLINI ESPRESSO BIO: Café Pellini tostado y molido para cafetera en un paquete de 250g. Un auténtico Espresso, ¡como en un cafetería!
-- NOTAS AROMÁTICAS: Aroma perfumado y refinado con notas de pomelo, galleta y miel. Intensidad 5/9
 - COMPOSICIÓN: Mezcla de calidades de Arabica 100% provenientes de cultivos biológicos de la zona tropical. Un proyecto de bioética industrial para el consumo consciente
 - TUESTE: Tueste medio, intensidad 6/9. El café se enfría naturalmente con aire, se deja reposar en silos especiales antes de ser envasado
 - CULTIVO ECOLÓGICO: El cuidado del cultivo ecológico otorga a Pellini Bio superioridad en aroma y sabor. Mezcla pensada para convertir un ritual diario en un Espresso de ensueño
+- NOTAS AROMÁTICAS: Aroma perfumado y refinado con notas de pomelo, galleta y miel. Intensidad 5/9
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01IBTAY02{{</world>}}

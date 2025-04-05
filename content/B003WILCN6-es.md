@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Maridaje: Sublime con aperitivos de marisco, pescado y patés;
-- Variedades: Moscatel y gewürztraminer;
 - Origen: DO Catalunya, España;
+- Variedades: Moscatel y gewürztraminer;
+- Maridaje: Sublime con aperitivos de marisco, pescado y patés;
 - Graduación: 12 %;
 - Elaborado por: FAMILIA TORRES;
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con menos grasa y buen sabor
 - Adecuado para una dieta equilibrada
-- Conservar en lugar fresco y seco
+- Con menos grasa y buen sabor
 - Con vitaminas K, D y B12
+- Conservar en lugar fresco y seco
 - Bebida con fuente de calcio
 
 [🛒 Visítala!!!]({{< param buyurl >}})

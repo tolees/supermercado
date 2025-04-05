@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Isdin SA, Provencais 33 Barcelona 08019, Spain
 - Cápsulas de triple acción para prevenir la caída del pelo y estimular el crecimiento del mismo: anclaje, crecimiento, fuerza Anclaje: Ayuda a evitar la regresión del folículo piloso y contribuyea reducir la secreción sebácea gracias a la Serenoa Repens Crecimiento: Contribuye a una normal síntesis de proteínas como la queratina, fundamental para el crecimiento del pelo Fuerza: Contribuye a la regulación de la actividad hormonal gracias a la vitamina B6 y al mantenimiento normal del cabello por su contenido en Biotina Pelo más sano y fuerte a partir de los 3 meses
+- Isdin SA, Provencais 33 Barcelona 08019, Spain
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BN1SAZG{{</world>}}

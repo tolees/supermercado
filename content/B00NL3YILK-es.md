@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Seleccionado por el célebre chef Alberto Chicote
-- Formato botella 500 ml
 - Aceite de Oliva Virgen Extra Coupage
+- Formato botella 500 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00NL3YILK{{</world>}}

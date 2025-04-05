@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cerveza Sin Gluten certificada con la enseña de la Espiga Barrada.
-- Producto que combina tradición e innovación
-- Ingredientes: agua, malta de cebada, lúpulo y levadura. 100 ml: 351 kj, 84 kcal
-- Cerveza Lager SIN GLUTEN. Alc. 5,0% vol
-- Cerveza estilo lager de color rubio oro, con notas afrutadas y ligero amargor final; el resultado es una cerveza refrescante con sabor 100% malta de cebada
 - Caja de 12 botellas de 33cl
+- Cerveza estilo lager de color rubio oro, con notas afrutadas y ligero amargor final; el resultado es una cerveza refrescante con sabor 100% malta de cebada
+- Producto que combina tradición e innovación
+- Cerveza Lager SIN GLUTEN. Alc. 5,0% vol
+- Ingredientes: agua, malta de cebada, lúpulo y levadura. 100 ml: 351 kj, 84 kcal
+- Cerveza Sin Gluten certificada con la enseña de la Espiga Barrada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08P4FFYJ6{{</world>}}

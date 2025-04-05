@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La pureza y la cuidada selección de los frutos garantizan una máxima intensidad tanto en el sabor como en las propiedades naturales
-- 20 bolsitas en envueltas herméticas e individuales con triple capa HS
 - Infusión de Tomillo (Thymus vulgaris) con Salvia (Salvia officinalis), Hinojo (Foeniculum vulgare) y Hierba Luisa (Lippia citriodora)
+- 20 bolsitas en envueltas herméticas e individuales con triple capa HS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DKPWOMS{{</world>}}

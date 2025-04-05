@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Granos de café
-- Lavazza Qualità Rossa
 - Paquete económico de 50 galletas de loto
+- Lavazza Qualità Rossa
 - Bolsas de 1 kg
+- Granos de café
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B015NPNSDM{{</world>}}

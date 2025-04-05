@@ -30,10 +30,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Gusto: En boca es fresco y afrutado donde se repiten los mismos aromas percibidos en nariz; un vino refrescante, fácil de beber que invita a repetir
 - Maridaje: Aperitivos, aceitunas, tapas, arroces
-- Aroma: Nariz jovial e intensa con un perfil de pera, albaricoque y notas florales
-- Apariencia: Color amarillo pajizo brillante con tonos verdosos
-- Consumo: Temperatura óptima de servicio: 8 - 10º C
 - Tipo de uva: Airén 100%
+- Apariencia: Color amarillo pajizo brillante con tonos verdosos
+- Aroma: Nariz jovial e intensa con un perfil de pera, albaricoque y notas florales
+- Consumo: Temperatura óptima de servicio: 8 - 10º C
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00M6ON92O{{</world>}}

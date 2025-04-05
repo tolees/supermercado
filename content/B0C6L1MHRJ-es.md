@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - BENEFICIOS: Las enzimas Thera-blend están formuladas para una actividad óptima en los distintos pH del sistema digestivo, desde los ambientes ácidos de la parte baja del estómago hasta el pH más neutro de nuestros intestinos
-- ENZYMEDICA: Desde 25 años, Enzymedica produce enzimas digestivas y complementos de salud que ayudan a su cuerpo a digerir mejor los alimentos y a mejorar su salud en general
-- BOOST DE ENERGÍA: Gracias a sus enzimas de acción rápida, esta fórmula ayuda a reducir la fatiga y a aumentar la absorción de nutrientes. Una cápsula con cada comida proporciona potentes enzimas para la digestión
 - CALIDAD: Este producto no contiene productos lácteos, ni gluten, ni soja, es kosher, no contiene OGM y es vegano. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta variada y equilibrada y un estilo de vida saludable
+- BOOST DE ENERGÍA: Gracias a sus enzimas de acción rápida, esta fórmula ayuda a reducir la fatiga y a aumentar la absorción de nutrientes. Una cápsula con cada comida proporciona potentes enzimas para la digestión
+- ENZYMEDICA: Desde 25 años, Enzymedica produce enzimas digestivas y complementos de salud que ayudan a su cuerpo a digerir mejor los alimentos y a mejorar su salud en general
 - DIGEST GOLD: Este complemento alimenticio reduce la hinchazón ocasional, los gases y la irregularidad, disminuyendo la demanda energética del proceso digestivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

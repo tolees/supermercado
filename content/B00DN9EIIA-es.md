@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles del envío: Werther’s Original caramelos de textura cremosa con nata fresca sin azúcar y sin gluten, un regalo especial para todas las generaciones, 1 kg
-- Textura cremosa: Disfruta al máximo de un sabor suave e intenso, gracias a la cremosa textura de los irresistibles caramelos Werther’s Original. ¡Increíblemente buenos!
-- Deliciosos ingredientes de repostería: Nata fresca, mantequilla de calidad y mucho amor, atención y tiempo; esto es lo que hace que Werther’s Original sea tan especial
 - Caramelos clásicos: El sabor de Werthers Original siempre ha recordado a la infancia. Hoy, la gama también cuenta con nuevas variedades de toffee, caramelo y chocolate
 - Sin azúcar ni gluten: Werther’s Original no contiene azúcar ni gluten para que puedas continuar disfrutando de una forma más saludable del delicioso sabor tradicional de toda la vida
+- Detalles del envío: Werther’s Original caramelos de textura cremosa con nata fresca sin azúcar y sin gluten, un regalo especial para todas las generaciones, 1 kg
+- Deliciosos ingredientes de repostería: Nata fresca, mantequilla de calidad y mucho amor, atención y tiempo; esto es lo que hace que Werther’s Original sea tan especial
+- Textura cremosa: Disfruta al máximo de un sabor suave e intenso, gracias a la cremosa textura de los irresistibles caramelos Werther’s Original. ¡Increíblemente buenos!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DN9EIIA{{</world>}}

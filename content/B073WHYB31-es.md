@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Extractos vegetales
 - País de origen: España
+- Extractos vegetales
 - Fabricado en una empresa, que tambien manipula derivados lacteos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

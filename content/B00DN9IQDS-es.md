@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para casi todos los platos
-- Salsa soja
-- Contiene trigo
-- Perfecta para sushi
 - Deliciosa y sabrosa
+- Salsa soja
+- Perfecta para sushi
+- Para casi todos los platos
+- Contiene trigo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DN9IQDS{{</world>}}

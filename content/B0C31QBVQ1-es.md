@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ANACAPS REACTIV complemento alimenticio 30 cápsulas
 - Parafarmacia
-- Alimentación
 - 0
+- Alimentación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C31QBVQ1{{</world>}}

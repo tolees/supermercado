@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su cepillo cónico y flexible alcanza todas tus pestañas, hasta las más cortas
 - Máscara de pestañas diseñada para conseguir una longitud sin límites y un volumen redefinido para lucir unas pestañas con altura, ahora con más color que nunca
-- Fórmula infusionada con extracto de bambú para unas pestañas sin apelmazar y sin grumos
+- Su cepillo cónico y flexible alcanza todas tus pestañas, hasta las más cortas
 - Modo de empleo: Aplica la máscara desde la raíz hasta las puntas con movimientos ascendentes en zig-zag para repartir su fórmula colorida en todas las pestañas por igual
+- Fórmula infusionada con extracto de bambú para unas pestañas sin apelmazar y sin grumos
 - El resultado: Pestañas llamativas con una longitud sin límites y volumen redefinido, sin apelmazar y sin grumos; y ahora en 3 tonos épicos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

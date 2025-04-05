@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de usar
 - Buen producto con excelente calidad
+- Fácil de usar
 - Marca: PUMA
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin sal añadida, ingredients naturales
 - Contiene avellanas, anacardos, nueces y almendras blanqueadas
+- Sin sal añadida, ingredients naturales
 - Rico en fibra
 - Apto para dietas vegetarianas y veganas
 

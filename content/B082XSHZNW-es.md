@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espejo incorporado para retoques durante todo el día
-- Color intenso
 - Aplicación de tacto de seda creando una película fina y cómoda
 - Respeta la luminosidad del color
 - Formulación de óptima calidad
+- Color intenso
+- Espejo incorporado para retoques durante todo el día
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082XSHZNW{{</world>}}

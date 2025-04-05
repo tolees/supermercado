@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- D.o.ca. Rioja
 - Rioja alta
 - Crianza de 26 meses en barrica y 36 meses en botella
 - 100% tempranillo
-- D.o.ca. Rioja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B003OVSA04{{</world>}}

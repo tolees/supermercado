@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Laca Pantene Pro-V que fija tu cabello y lo protege de las agresiones diarias
-- Aceite para el cabello Pantene Pro-V sin aclarado que protege de las agresiones diarias. Para puntas abiertas
-- Este spray ayuda a restaurar el cabello seco y hace que esté más fuerte y sano
-- Tratamiento capilar nutritivo en aceite para un cabello fuerte y brillante. Ayuda a fijar tu peinado
 - El spray Pantene Pro-V sin aclarado deja el cabello flexible, manejable y fácil de peinar
+- Tratamiento capilar nutritivo en aceite para un cabello fuerte y brillante. Ayuda a fijar tu peinado
+- Aceite para el cabello Pantene Pro-V sin aclarado que protege de las agresiones diarias. Para puntas abiertas
+- Laca Pantene Pro-V que fija tu cabello y lo protege de las agresiones diarias
+- Este spray ayuda a restaurar el cabello seco y hace que esté más fuerte y sano
 - Laca con aceite de jojoba. Nivel de fijación 5, tacto suave y sin sensación pegajosa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

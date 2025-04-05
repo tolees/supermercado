@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Maltería propia: lo que permite controlar el proceso de elaboración
 - Caja cerveza
-- Punta Este es la cerveza tostada de Estrella de Levante
-- Tueste optimo: los maestros malteros logran que la cebada alcance el tueste optimo
 - Aroma y sabor característicos: el tueste optimo es la clave del aroma y el sabor característicos de Punta Este
+- Maltería propia: lo que permite controlar el proceso de elaboración
+- Tueste optimo: los maestros malteros logran que la cebada alcance el tueste optimo
+- Punta Este es la cerveza tostada de Estrella de Levante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CBKT8Z22{{</world>}}

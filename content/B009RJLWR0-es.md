@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de piel: sensible
-- 30.0 mililitro
-- Max factor
 - Producto cosmético de alta calidad.
 - De un fabricante de renombre
+- Tipo de piel: sensible
+- Max factor
+- 30.0 mililitro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B009RJLWR0{{</world>}}

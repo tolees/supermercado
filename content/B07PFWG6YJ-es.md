@@ -30,10 +30,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Amargor refrescante y floral
 - Cerveza de estilo Blonde Ale. Alc. 5,4% vol.
-- Rubia, con cuerpo denso
+- Alta fermentación
 - Caja de 24 botellas de 33cl
 - Sabor y aroma a frutas
-- Alta fermentación
+- Rubia, con cuerpo denso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PFWG6YJ{{</world>}}

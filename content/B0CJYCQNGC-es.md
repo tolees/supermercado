@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entre los ingredientes de esta ginebra destacan sus 9 extractos naturales como el enebro, la cáscara de naranja de Sevilla, la piel de limón, la raíz de regaliz, almendra y la raíz de angélica
-- Destilada en el corazón de Londres, Beefeater London Dry Gin mantiene la receta tradicional desde 1819
-- La ginebra Beefeater London Dry se destaca por su sabor y carácter de enebro fuerte equilibrado con notas de cítricos de limón y naranja
-- Beefeater London Dry Ginebra se recomienda preparar en un gin tonic con tónica y un twist de limón
 - Disfruta con este pack que incluye una botella de Beefeater London Dry Gin y una cabina estilo londinense
+- Destilada en el corazón de Londres, Beefeater London Dry Gin mantiene la receta tradicional desde 1819
+- Entre los ingredientes de esta ginebra destacan sus 9 extractos naturales como el enebro, la cáscara de naranja de Sevilla, la piel de limón, la raíz de regaliz, almendra y la raíz de angélica
+- Beefeater London Dry Ginebra se recomienda preparar en un gin tonic con tónica y un twist de limón
+- La ginebra Beefeater London Dry se destaca por su sabor y carácter de enebro fuerte equilibrado con notas de cítricos de limón y naranja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJYCQNGC{{</world>}}

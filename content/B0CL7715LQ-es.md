@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Axe Black Remixed Gel de Ducha 250ml​.
-- Este pack neceser incluye los siguientes productos:​
-- ¡Prueba toda la gama de productos masculinos Axe!
-- Axe Black Remixed Desodorante Body Spray BZRP 150ml.
-- Productos para la higiene y cuidado personal del hombre.
 - Axe Black After Shave 100ml.
+- Productos para la higiene y cuidado personal del hombre.
+- Este pack neceser incluye los siguientes productos:​
+- Axe Black Remixed Gel de Ducha 250ml​.
+- Axe Black Remixed Desodorante Body Spray BZRP 150ml.
+- ¡Prueba toda la gama de productos masculinos Axe!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL7715LQ{{</world>}}

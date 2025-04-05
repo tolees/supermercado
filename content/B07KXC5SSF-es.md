@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con ingredientes de origen natural
+- Mantiene y refuerza las defensas
 - Épocas de gran actividad física o mental
 - La equinácea ayuda a las defensas
-- Mantiene y refuerza las defensas
-- Con ingredientes de origen natural
 - Sin gluten y sin lactosa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

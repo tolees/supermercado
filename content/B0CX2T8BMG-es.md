@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LIVE BOLDLY CON REVLON: El maquillaje de larga duración de Revlon ofrece una gama de sombras de ojos, delineadores, colores de labios mates o brillantes y mucho más. Crea cualquier look que te apetezca: de día a dramático, de día a noche, de la semana al fin de semana
-- A PRUEBA DE MANCHAS
-- DURACIÓN DE HASTA 24 HORAS: Su cepillo cónico con fibras flexibles amplifica cada pestaña para una longitud similar a una extensión de pestañas y una definición que duran hasta 24 horas.
 - PESTAÑAS 2 VECES MÁS LARGAS: Longitud similar a una extensión. Duración intensa.
+- LIVE BOLDLY CON REVLON: El maquillaje de larga duración de Revlon ofrece una gama de sombras de ojos, delineadores, colores de labios mates o brillantes y mucho más. Crea cualquier look que te apetezca: de día a dramático, de día a noche, de la semana al fin de semana
+- DURACIÓN DE HASTA 24 HORAS: Su cepillo cónico con fibras flexibles amplifica cada pestaña para una longitud similar a una extensión de pestañas y una definición que duran hasta 24 horas.
+- A PRUEBA DE MANCHAS
 - 2 EN 1 SÉRUM + MÁSCARA DE PESTAÑAS: Infusionada con Pro Vitamina B5, nutre y mejora la condición de las pestañas con el tiempo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

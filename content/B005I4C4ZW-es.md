@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes: Water (Aqua), PVP/VA Copolymer, PVP, Quillaja Saponara Bark Extract, Panax Ginseng Root Extract, Salvia Officinalis (Sage) Leaves Extract, Allantoin, Panthenol (Provitamin B5), Carbomer, Nonoxynol-10, Propylene Glycol, Triethanolamine, Tetrasodium EDTA, P
 - Para el cabello: Normal
+- Ingredientes: Water (Aqua), PVP/VA Copolymer, PVP, Quillaja Saponara Bark Extract, Panax Ginseng Root Extract, Salvia Officinalis (Sage) Leaves Extract, Allantoin, Panthenol (Provitamin B5), Carbomer, Nonoxynol-10, Propylene Glycol, Triethanolamine, Tetrasodium EDTA, P
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B005I4C4ZW{{</world>}}

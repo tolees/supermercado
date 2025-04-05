@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Flocos de maíz sin azúcar
+- Contiene vitaminas
 - Información de alérgenos: cereals containing gluten
 - País de origen: Portugal
-- Contiene vitaminas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08LQY2PPS{{</world>}}

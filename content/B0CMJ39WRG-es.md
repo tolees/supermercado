@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Detergente Liquido Básico para el lavado diario de todo tipo de ropa.
-- DETERGENTE LIQUIDO BÁSICO 21 Lavados
 - Eficiente y económico
+- DETERGENTE LIQUIDO BÁSICO 21 Lavados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CMJ39WRG{{</world>}}

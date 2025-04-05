@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calma el picor
-- Hipoalergénico
 - La siguiente información se aplica a cada unidad del paquete
 - Acción anti-sequedad
-- No irrita
 - hipoalergénico
+- Calma el picor
 - Especial piel atópica
 - Regenera progresivamente la piel
+- No irrita
+- Hipoalergénico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPF8RV67{{</world>}}

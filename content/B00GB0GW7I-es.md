@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Paleta de 5 sombras
-- Úsalas en húmedo o en seco
 - Fáciles de difuminar; De larga duración
 - Ni transfiere ni apelmaza
+- Úsalas en húmedo o en seco
+- Paleta de 5 sombras
 - Colores de alta pigmentación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

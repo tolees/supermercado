@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Conservar en lugar fresco y seco
 - Sabor intenso y refrescante
 - Chicles refrescantes sin azúcar
-- Consumir demasiados puede generar efectos laxantes
 - Para cuidar tu salud dental
+- Consumir demasiados puede generar efectos laxantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IUOEXMI{{</world>}}

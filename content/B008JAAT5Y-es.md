@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Monkey 47 es una ginebra premium preparada con 47 productos botánicos que provienen de la Selva Negra
 - Monkey 47 es una opción óptima para tomar en un Gin-tonic en copa de balón de cristal fino deleitando los sentidos con sus aromas cítricos, de frutos rojos ácidos y notas picantes, sin invadir con condimentos para disfrutar la explosión de sabores
+- Monkey 47 es una ginebra premium preparada con 47 productos botánicos que provienen de la Selva Negra
 - Es la ginebra que utiliza mayor número de ingredientes en su receta, con tres destilaciones y una maceración en recipientes de barro tradicionales
 - Tiene un sabor complejo, que combina notas de pimientas y flores como jazmín y saúco, con toques cítricos y de frutos rojos. Es una combinación exótica de notas dulces con toques amargos
 

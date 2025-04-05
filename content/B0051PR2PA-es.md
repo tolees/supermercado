@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca: Geniol
-- Género: Unisex Adulto
 - Tipo de Cabello: Todo Tipo de Cabello
+- Género: Unisex Adulto
+- Marca: Geniol
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0051PR2PA{{</world>}}

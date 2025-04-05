@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desarrrollo saludable de las funciones vitales gracias al perfil de nutrientes adaptado a la fase de crecimiento
 - Salmón Ingrediente #1
-- Ayuda a mantener el desarrollo de cerebro y de la vista gracias a DHA
 - Hecho con plástico reciclado
+- Ayuda a mantener el desarrollo de cerebro y de la vista gracias a DHA
+- Desarrrollo saludable de las funciones vitales gracias al perfil de nutrientes adaptado a la fase de crecimiento
 - Ayuda a mantener piel y pelaje saludables gracias a los ácidos grasos Omega 3 y 6
 
 [🛒 Aquí!!!]({{< param buyurl >}})

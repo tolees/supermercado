@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: tratamiento capilar
-- Para el cabello: normal
 - Marca: Schwarzkopf
 - Tipo de piel: normal
+- Tipo de producto: tratamiento capilar
+- Para el cabello: normal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0015APMKW{{</world>}}

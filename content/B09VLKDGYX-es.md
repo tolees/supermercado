@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PROPIEDADES: La vitamina B6 favorece el funcionamiento normal del sistema inmunitario, mientras que los 32 g de hidratos de carbono contribuyen al mantenimiento de la masa muscular
-- ENERVIT: Formulamos y desarrollamos soluciones nutricionales y suplementarias con un objetivo claro: mejorar la calidad de vida de nuestros usuarios
-- BARRITA DE CACAO: Barrita energética de apoyo para las salidas más largas. Con 32 g de hidratos de carbono y 20% de proteínas
 - CONSUMO: Se recomienda consumir 1-2 barritas al día. Durante la actividad deportiva consume dos medias raciones (60 g), acompañadas de una ingesta adecuada de agua
+- BARRITA DE CACAO: Barrita energética de apoyo para las salidas más largas. Con 32 g de hidratos de carbono y 20% de proteínas
+- PROPIEDADES: La vitamina B6 favorece el funcionamiento normal del sistema inmunitario, mientras que los 32 g de hidratos de carbono contribuyen al mantenimiento de la masa muscular
 - BENEFICIOS: Fórmula diseñada para aguantar largas distancias con una fórmula que combina carbohidratos y proteínas (en una proporción de 3:1), vitaminas y minerales
+- ENERVIT: Formulamos y desarrollamos soluciones nutricionales y suplementarias con un objetivo claro: mejorar la calidad de vida de nuestros usuarios
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VLKDGYX{{</world>}}

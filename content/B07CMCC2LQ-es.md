@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Crema anti-manchas – Esta crema facial con protección solar ayuda a combatir y prevenir las manchas de pigmentación inducidas por la radiación solar.
 - Protector solar 50 – Gracias al FP50 y a la protección UVA/UVB, la crema facial solar protege de las quemaduras solares y previene el envejecimiento prematuro.
 - Fórmula ligera – La textura ligera de este protector facial solar deja en la piel facial una sensación suave, sedosa y libre de residuos blancos.
+- Crema anti-manchas – Esta crema facial con protección solar ayuda a combatir y prevenir las manchas de pigmentación inducidas por la radiación solar.
 - Crema facial antiedad – Con su fórmula con coenzima Q10, esta crema solar facial previene y combate la aparición de líneas y arrugas en la piel del rostro.
 - Contenido del envío – NIVEA SUN Protección Facial UV Anti-edad & Anti-manchas FP50, protección solar alta, 1 x 50 ml, tubo.
 

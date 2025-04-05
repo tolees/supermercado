@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color: Marrón
-- Nestea Limón sin aúcar Pack 2x1,5L
 - Marca: Nestea
+- Nestea Limón sin aúcar Pack 2x1,5L
 - Calidad muy alta
+- Color: Marrón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B1QLD7B7{{</world>}}

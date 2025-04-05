@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clinique Superbalanced Makeup CN 70 Vanilla 30 ml
-- Alta calidad
 - Brand: Clinique
+- Alta calidad
+- Clinique Superbalanced Makeup CN 70 Vanilla 30 ml
 - Ingredientes seleccionados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

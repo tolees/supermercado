@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- tapeta de 3 botones
-- Logotipos de socios de Red Bull Racing en el frente, la espalda y la manga
 - Gráfico de toro en la parte trasera
+- Logotipos de socios de Red Bull Racing en el frente, la espalda y la manga
+- tapeta de 3 botones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QMPRHMX{{</world>}}

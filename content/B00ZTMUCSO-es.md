@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BEBIDA VEGETAL: Nuestra bebida vegetal de almendra destaca porque está perfeccionada con un poco de sirope agave. Así, conseguimos el suave, delicioso y dulce sabor que le caracteriza. Además, es el acompañante ideal para seguir una dieta saludable.
-- SOBRE NOSOTROS: ISOLA BIO nace con el objetivo de ayudarte a conseguir una alimentación vegetal y saludable. Somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 - MÚLTIPLES BENEFICIOS: La almendra es un fruto seco con alto contenido en proteínas, calcio, carbohidratos y vitaminas. Como resultado, te proporcionará una dosis extra de energía y un potente efecto antioxidante.
+- BEBIDA VEGETAL: Nuestra bebida vegetal de almendra destaca porque está perfeccionada con un poco de sirope agave. Así, conseguimos el suave, delicioso y dulce sabor que le caracteriza. Además, es el acompañante ideal para seguir una dieta saludable.
 - MEZCLA Y DISFRUTA: Toma nuestra bebida vegetal en los desayunos, tanto fría como caliente. Puedes consumirla sola, en smoothies, con café, infusiones, cereales, mueslis o copos. Incluso en cremas o sopas. ¡Hay un sinfín de posibilidades!
+- SOBRE NOSOTROS: ISOLA BIO nace con el objetivo de ayudarte a conseguir una alimentación vegetal y saludable. Somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ZTMUCSO{{</world>}}

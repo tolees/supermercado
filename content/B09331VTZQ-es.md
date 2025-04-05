@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aplicar sobre el cuero cabelludo y masajear suavemente sin aclarar. Puede usarse a diario
-- Loción que refresca y calma el picor así como las molestias ocasionadas por la aparición de caspa en el cabello
-- También contiene lima y menta dulce que refrescan, calman y alivian la sensación de picor, aportando una agradable sensación de bienestar
-- Su fórmula vegana con Zinc y Queratina favorece la síntesis de colágeno en el bulbo del cuero cabelludo
 - Esta loción hidratante dejará tu cabello fresco, fortalecido y brillante. Es ideal para el cabello con caspa seca o grasa
+- También contiene lima y menta dulce que refrescan, calman y alivian la sensación de picor, aportando una agradable sensación de bienestar
+- Loción que refresca y calma el picor así como las molestias ocasionadas por la aparición de caspa en el cabello
+- Su fórmula vegana con Zinc y Queratina favorece la síntesis de colágeno en el bulbo del cuero cabelludo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09331VTZQ{{</world>}}

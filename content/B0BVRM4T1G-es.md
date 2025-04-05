@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El regalo optimo
-- Fragancia oriental floral
 - Aroma amaderado y especiado, es inconfundible y tradicional
-- Set Pret a Porter para mujer
 - Contiene Eau de Toilette 50 ml y Body Spray 200 ml
+- Fragancia oriental floral
+- El regalo optimo
+- Set Pret a Porter para mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVRM4T1G{{</world>}}

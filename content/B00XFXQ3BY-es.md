@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Para perros adultos de todas las razas.
 - 100 % sin cereales (Grain-Free) & sin azúcar
-- Comida semihúmeda (18 % humedad residual) adecuado para perros con intolerancias alimentarias
 - Incluye plátano como proveedor de carbohidratos de alta calidad.
+- Comida semihúmeda (18 % humedad residual) adecuado para perros con intolerancias alimentarias
 - Gran cantidad de pollo fresco (60 %) como única fuente de proteína animal (Single-Protein)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

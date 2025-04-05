@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para conseguir el look y definición deseado
 - Fijación fuerte con brillo medio
 - Fija el peinado
-- Para conseguir el look y definición deseado
 - Sin dañar el cabello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

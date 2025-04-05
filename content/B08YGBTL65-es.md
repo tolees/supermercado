@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cabello y planeta nutridos: botella 100 % reciclada y reciclable, excepto el tapón
-- Belleza responsable: vegano y respetuoso con los animales, certificado por PETA. No contiene siliconas. Seguro para el pelo teñido
 - Esencias vegetales: champú con fresa, menta y aloe puros
+- Champú purificante e hidratante: purifica las raíces e hidrata las puntas, mostrando la belleza natural del pelo
 - 2 veces más nutrición en un solo uso. Alimenta tu pelo con antioxidantes y nutrientes de origen vegetal
 - 97 % de origen natural (84 % de agua purificada y 13 % de ingredientes de origen natural) y el 3 % restante para proporcionar una buena experiencia de uso
-- Champú purificante e hidratante: purifica las raíces e hidrata las puntas, mostrando la belleza natural del pelo
+- Belleza responsable: vegano y respetuoso con los animales, certificado por PETA. No contiene siliconas. Seguro para el pelo teñido
+- Cabello y planeta nutridos: botella 100 % reciclada y reciclable, excepto el tapón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08YGBTL65{{</world>}}

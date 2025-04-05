@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Utilizar como un regalo o recompensa en cualquier momento o bien como parte de una dieta equilibrada
-- La siguiente información se aplica a cada unidad del paquete
 - El perro debe ser supervisado en todo momento mientras se alimenta
 - Snack de filete de pollo enrollado en un canuto, entretiene a nuestro perro a la vez que cuida de sus dientes y encías
+- La siguiente información se aplica a cada unidad del paquete
+- Utilizar como un regalo o recompensa en cualquier momento o bien como parte de una dieta equilibrada
 - 13 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jabón sólido con glicerina para cara, manos y cuerpo
-- Hidrata profundamente la piel
 - Ingredientes de origen natural, sin sulfatos ni parabenos
+- Hidrata profundamente la piel
 - Es un producto testado dermatológicamente
 - Fórmula vegana, biodegradable y sin microplásticos
+- Jabón sólido con glicerina para cara, manos y cuerpo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4PTLWFJ{{</world>}}

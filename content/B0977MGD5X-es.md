@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pestañas largas y definidas
 - Cepillo con forma para envolver todas las pestañas y dejalas definidas
 - Fórmula con tecnología FULL STRETCH
+- Pestañas largas y definidas
 - Efecto profesional de extensión de pestañas al instante
 - A prueba de roces, fácil de quitar y sin grumos
 

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rollos de cocina formato gigarrollo
-- Máxima absorción y resistencia, para una limpieza perfecta
-- Papel blanco decorado de 2 capas
 - 6 gigarrollos en total
+- Rollos de cocina formato gigarrollo
+- Papel blanco decorado de 2 capas
+- Máxima absorción y resistencia, para una limpieza perfecta
 - Diámetro del rollo: 200mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

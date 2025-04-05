@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin aclarado
-- Protege contra: rotura, rayos UV, calor, daño mecánico y encrespamiento
 - Sérum delicado en crema
+- Cabello sano, reluciente y sedoso
+- Todo tipo de cabello
+- Protege al instante el cabello dañado
 - Sérum protector Ultimate Repair
 - Combínalo con el champú, el acondicionador y el spray de tratamiento Ultimate Repair de Wella Professionals
-- Protege al instante el cabello dañado
-- Todo tipo de cabello
-- Cabello sano, reluciente y sedoso
+- Protege contra: rotura, rayos UV, calor, daño mecánico y encrespamiento
+- Sin aclarado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C49VV9SY{{</world>}}

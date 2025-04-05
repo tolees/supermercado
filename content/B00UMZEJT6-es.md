@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin azúcar
-- Rico en zumo de frutas; con aromas naturales
-- Sabor mora
 - Con extracto de hojas de Stevia
+- Sabor mora
+- Rico en zumo de frutas; con aromas naturales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00UMZEJT6{{</world>}}

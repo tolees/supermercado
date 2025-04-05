@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Prueba Villa Ascenti Classico: vierte en un tumbler lleno de hielo 50 ml de nuestra ginebra, 50 ml de Prosecco, 50 ml de refresco y un golpe de jarabe de azúcar; decora con uvas y hierbas frescas
 - De calidad y de sabor distintivo, presenta las notas secas y aromáticas del enebro toscano, el sabor fresco de la menta y del tomillo, así como el suave dulzor de las uvas Moscato
 - Para mantener el sabor fresco y aterciopelado de Villa Ascenti, destilamos las hierbas a las pocas horas de la cosecha
-- Prueba Villa Ascenti Classico: vierte en un tumbler lleno de hielo 50 ml de nuestra ginebra, 50 ml de Prosecco, 50 ml de refresco y un golpe de jarabe de azúcar; decora con uvas y hierbas frescas
-- Ginebra italiana de elaboración artesanal, que se produce en su totalidad con ingredientes naturales procedentes de las colinas del Piamonte
 - En nariz es complejo con una nota seca, mientras que, en el paladar comienza seco y herbáceo para evolucionar a cáscara de limón y bergamota, y terminar con un final de uvas Moscato
+- Ginebra italiana de elaboración artesanal, que se produce en su totalidad con ingredientes naturales procedentes de las colinas del Piamonte
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07QVGFWDP{{</world>}}

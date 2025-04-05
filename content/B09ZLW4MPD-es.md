@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado con ingredientes que puedes pronunciar y que a tus papilas gustativas les encantará.
-- Centrándose en ingredientes de calidad increíble y cuidadosamente obtenidos, nuestro chocolate OG es un poco diferente.
 - La textura rica pero cremosa de nuestro chocolate OG no solo aumentará de nivel tu día, sino que te dejará preguntándote cómo puedes poner más en tus manos.
 - El jefe final de todos los chocolates.
+- Fabricado con ingredientes que puedes pronunciar y que a tus papilas gustativas les encantará.
+- Centrándose en ingredientes de calidad increíble y cuidadosamente obtenidos, nuestro chocolate OG es un poco diferente.
 - Con solo 4 ingredientes básicos, todas nuestras barras son 100% a base de plantas con cacao y son increíblemente deliciosas de principio a fin.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

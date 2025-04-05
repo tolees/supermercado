@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ángulo óptimo de 16 grados para limpiar entre los dientes en profundidad y eliminar la placa
-- Eliminación de la placa y encías más sanas hasta un 100 % más que con un cepillo de dientes manual normal
-- Los dentistas recomiendan substituir el cabezal cada 3 meses para una mejor limpieza
-- El óptimo cepillo Oral-B para la limpieza de toda la boca (sin incluir Oral-B iO)
-- De la marca n.º 1 recomendada por dentistas de todo el mundo
-- Gracias a la tecnología CleanMaximiser, los filamentos verdes se vuelven amarillas cuando llega el momento de reemplazar el cabezal
 - Número de cabezales de cepillo de dientes incluidos en este pack: 6
+- El óptimo cepillo Oral-B para la limpieza de toda la boca (sin incluir Oral-B iO)
+- Ángulo óptimo de 16 grados para limpiar entre los dientes en profundidad y eliminar la placa
+- Gracias a la tecnología CleanMaximiser, los filamentos verdes se vuelven amarillas cuando llega el momento de reemplazar el cabezal
+- De la marca n.º 1 recomendada por dentistas de todo el mundo
+- Los dentistas recomiendan substituir el cabezal cada 3 meses para una mejor limpieza
+- Eliminación de la placa y encías más sanas hasta un 100 % más que con un cepillo de dientes manual normal
 - Compatible con todos los mangos Oral-B, excepto Pulsonic e iO
 
 [🛒 Aquí!!!]({{< param buyurl >}})

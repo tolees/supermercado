@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crianza de 6 meses en barricas y 6 meses en botella
-- Color cereza con ribete púrpura, limpio y brillante
 - Nariz expresiva y potente
+- Crianza de 6 meses en barricas y 6 meses en botella
 - Sabor intenso, afrutado, tostado, con taninos redondos y buen final
 - Elaborado con uvas de la variedad Tempranillo
+- Color cereza con ribete púrpura, limpio y brillante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B003UV1RKS{{</world>}}

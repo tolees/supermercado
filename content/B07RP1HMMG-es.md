@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de óptima calidad
 - Gama confiable
+- Producto de óptima calidad
 - Producto duradero
 - Hecho con atención al detalle
 - Producto que combina tradición y creatividad

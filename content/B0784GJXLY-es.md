@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Barra de labios con brillo intenso para el maquillaje de día y de noche
-- Hidrata y cuida los labios
+- Color rosa lacado pigmentado
 - Los labios tienen un aspecto pleno y sano
 - Tiene pigmentación duradera
-- Color rosa lacado pigmentado
+- Hidrata y cuida los labios
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0784GJXLY{{</world>}}

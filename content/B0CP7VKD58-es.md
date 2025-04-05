@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- REPARA LOS DAÑOS DE 7 DÍAS: En tal solo 8 horas y con este tratamiento te despertarás con un pelo más suave, visiblemente reparado y con un brillo saludable
-- TRATAMIENTO CAPILAR HIDRATANTE DÚO. Utilízalo junto con el Sérum Hidratación de día para una rutina capilar completa. Despiértate con un pelo hidratado, más suave y visiblemente reparado
-- HIDRATACIÓN Y BRILLO: Enriquecido con ácido hialurónico que hidrata el pelo y le aporta movimiento y volumen
 - HIDRATACIÓN PROFUNDA PARA EL PELO SECO Y DAÑADO: El sérum de noche es ideal para el pelo teñido, con mechas, decolorado y tratado con keratina
 - DISEÑADA POR EXPERTOS: Nuestra fórmula única e innovadora es el resultado de 75 años de investigación científica en Pro-V. Ha sido certificada por el Instituto Vitamínico Suizo, un organismo de renombre mundial en eficacia vitamínica
+- HIDRATACIÓN Y BRILLO: Enriquecido con ácido hialurónico que hidrata el pelo y le aporta movimiento y volumen
+- REPARA LOS DAÑOS DE 7 DÍAS: En tal solo 8 horas y con este tratamiento te despertarás con un pelo más suave, visiblemente reparado y con un brillo saludable
+- TRATAMIENTO CAPILAR HIDRATANTE DÚO. Utilízalo junto con el Sérum Hidratación de día para una rutina capilar completa. Despiértate con un pelo hidratado, más suave y visiblemente reparado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP7VKD58{{</world>}}

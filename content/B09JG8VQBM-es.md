@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🌺【Fragancia de larga duración】: Cada vela perfumada pesa 2,5 onzas y cada lata tiene un tiempo de combustión de 16-18 horas. Cuando la vela arde, toda la habitación se llena de una leve fragancia, creando una atmósfera agradable y aliviando el estrés y la fatiga.
-- 🌼 【Juego de 8 velas perfumadas】: Esta caja de regalo de velas contiene 8 aromas: jazmín, romero, rosa, bergamota, fresa, limón, gardenia, menta. Experimente una fragancia diferente, relaje su cuerpo y mente y alivie el estrés.
 - 🌺【Cera de soja 100%】: Las velas de aromaterapia están hechas de cera de soja segura y respetuosa con el medio ambiente. La vela se quema más limpia y uniformemente, sin humo negro, y tiene el efecto de calmar los nervios, purificar el aire y eliminar los olores.
+- 🌼 【Juego de 8 velas perfumadas】: Esta caja de regalo de velas contiene 8 aromas: jazmín, romero, rosa, bergamota, fresa, limón, gardenia, menta. Experimente una fragancia diferente, relaje su cuerpo y mente y alivie el estrés.
+- 🌺【Fragancia de larga duración】: Cada vela perfumada pesa 2,5 onzas y cada lata tiene un tiempo de combustión de 16-18 horas. Cuando la vela arde, toda la habitación se llena de una leve fragancia, creando una atmósfera agradable y aliviando el estrés y la fatiga.
 - 🌺【Regalo perfecto】: Las velas de aromaterapia son excelentes regalos para inauguración de la casa, fiestas, bodas, aniversarios, día del padre, día de la madre, cumpleaños y Acción de Gracias. Muy adecuado para cocina, sala de estar, dormitorio, baño, sala de yoga, oficina, etc.
 - 🌼 【Vela portátil】: Las velas de aromaterapia son fáciles de transportar, adecuadas para viajes cortos y actividades al aire libre. La vela está decorada con hermosos diseños. Después de usar la vela, puede usar la caja como adorno o sostener plantas, pequeños adornos y llaves.
 

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Auténtico artículo artesanal de pasta italiana
-- Puede cortar 48 agujeros cuadrados para ravioli; cada uno es de 25 x 25 mm
-- 100% fabricado en Italia
 - Importado por Tomson Hospitality
+- 100% fabricado en Italia
+- Puede cortar 48 agujeros cuadrados para ravioli; cada uno es de 25 x 25 mm
 - Rodillo giratorio de madera de haya natural
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

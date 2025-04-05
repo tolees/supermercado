@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- País de origen: portugal
-- Producto que combina tradición e innovación
 - Contiene vitaminas
+- Producto que combina tradición e innovación
+- País de origen: portugal
 - Pétalos de chocolate
 
 [🛒 Visítala!!!]({{< param buyurl >}})

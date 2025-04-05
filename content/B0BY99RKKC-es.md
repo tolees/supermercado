@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Consumirla entre 0° y 2°C para obtener sus máximas cualidades
+- Ingredientes: agua, MALTA DE CEBADA, maíz y lúpulo
+- Color rubio y espuma blanca; aroma y sabor intenso con notas a melocotón, plátano y especiados
 - Gran personalidad aportada por la levadura usada en su fabricación; amargor bajo-medio; cuerpo medio
 - Cerveza tipo Low Alcohol 2.4% de alcohol en volumen
-- Color rubio y espuma blanca; aroma y sabor intenso con notas a melocotón, plátano y especiados
-- Ingredientes: agua, MALTA DE CEBADA, maíz y lúpulo
-- Consumirla entre 0° y 2°C para obtener sus máximas cualidades
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BY99RKKC{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ACCIÓN EMOLIENTE: la combinación del aceite de oliva y el aceite de almendras dulces dentro de esta crema facial hidratan, nutren y aportan luminosidad para que tu piel se vea y sienta saludable.
-- ESTUDIO CLÍNICO INSTRUMENTAL: Realizado en voluntarios con resultados después de 8 semanas. El 100% mostró mejora en la suavidad y producción de sebo del piel y un 95% una reducción de los poros.
 - LIGERA: la textura tipo sorbete de esta crema hidratante, es ultraligera y de rápida absorción, proporciona suavidad y una sensación calmante a la piel sin tener una sensación de grasa en el rostro
+- ESTUDIO CLÍNICO INSTRUMENTAL: Realizado en voluntarios con resultados después de 8 semanas. El 100% mostró mejora en la suavidad y producción de sebo del piel y un 95% una reducción de los poros.
 - CON NIACINAMIDA: crema facial de efecto calmante e hidratante que asegura una piel fresca y jugosa. ¡Un imprescindible en tu rutina de skincare! Utiliza The Orange Vit C antes para una piel radiante.
+- ACCIÓN EMOLIENTE: la combinación del aceite de oliva y el aceite de almendras dulces dentro de esta crema facial hidratan, nutren y aportan luminosidad para que tu piel se vea y sienta saludable.
 - PARA TODO TIPO DE PIELES: tanto si tienes la piel seca, como grasa, mixta, sensible o madura, esta crema es lo suficientemente suave y eficaz como para proporcionar resultados sorprendentes.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

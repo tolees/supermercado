@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vitaminas
 - Nuestro colágeno proviene de pescado y es hidroliza
-- Muy convenable
+- Vitaminas
 - Incluye Calcio y Magnesio
+- Muy convenable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075SCGM75{{</world>}}

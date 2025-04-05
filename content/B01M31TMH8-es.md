@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bajo contenido en sal
-- Sin proteína láctea
 - Sin azúcares añadidos
+- Sin proteína láctea
+- Bajo contenido en sal
 - Sin gluten
 
 [🛒 Aquí!!!]({{< param buyurl >}})

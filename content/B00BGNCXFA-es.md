@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tus mejores aliados de belleza e higiene a la hora de arreglarte para diferentes ocasiones.
-- Vanilla Edt Vapo 100 Ml
 - Los mejores productos de belleza y perfumería para sentirte bien contigo mismo en todo momento.
+- Vanilla Edt Vapo 100 Ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BGNCXFA{{</world>}}

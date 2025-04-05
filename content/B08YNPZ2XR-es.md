@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% completo y equilibrado Vitaminas D & E Fuente de Ácidos Grasos Omega 6
 - Elaborado con ingredientes de calidad
+- 100% completo y equilibrado Vitaminas D & E Fuente de Ácidos Grasos Omega 6
 - Sin aromatizantes artificiales añadidos Sin conservantes artificiales añadidos
 - Fuente de Ácidos Grasos Omega 6
 

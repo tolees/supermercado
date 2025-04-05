@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego de brochas de maquillaje: Las brochas de maquillaje incluyen una brocha para base, sombra de ojos, colorete, corrector, etc., que se puede usar tanto con polvos como con cosméticos en crema.
-- Esponja de maquillaje: Esponja de belleza sin látex con forma de lágrima. Utiliza la parte inferior plana para la frente y las mejillas, y el extremo puntiagudo para las zonas más pequeñas.
-- Nota: no mojes los mangos, porque el pegamento se puede debilitar.
-- Materiales de gran calidad: cerdas de fibras sintéticas sedosas de alta calidad, mangos de madera natural y juntas de metal que satisfacen las diferentes necesidades de principiantes y profesionales al mismo tiempo.
 - Ideal para regalo: esta versión viene con una funda negra, disponible como set de regalo para mujer. De calidad y apariencia perfectas, un regalo perfecto para las vacaciones, el día de San Valentín, Día de la Madre y Navidad.
+- Juego de brochas de maquillaje: Las brochas de maquillaje incluyen una brocha para base, sombra de ojos, colorete, corrector, etc., que se puede usar tanto con polvos como con cosméticos en crema.
+- Materiales de gran calidad: cerdas de fibras sintéticas sedosas de alta calidad, mangos de madera natural y juntas de metal que satisfacen las diferentes necesidades de principiantes y profesionales al mismo tiempo.
+- Nota: no mojes los mangos, porque el pegamento se puede debilitar.
+- Esponja de maquillaje: Esponja de belleza sin látex con forma de lágrima. Utiliza la parte inferior plana para la frente y las mejillas, y el extremo puntiagudo para las zonas más pequeñas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XXJLD4X{{</world>}}

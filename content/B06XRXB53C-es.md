@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Delineado de alta precisión waterproof
-- Su fórmula de larga duración líquida y suave, aporta un color extremadamente intenso que define el ojo para una mirada intensa que dura todo el día
 - Eyeliner de trazo definido e intenso gracias a su pincel flexible y a su fórmula INK
-- Su pincel ultra preciso permite delinear desde líneas simples hasta delineados expertos
+- Su fórmula de larga duración líquida y suave, aporta un color extremadamente intenso que define el ojo para una mirada intensa que dura todo el día
 - Empieza dibujando el trazo desde el interior del ojo hacia el exterior, aumentando el grosor de éste paulatinamente
+- Su pincel ultra preciso permite delinear desde líneas simples hasta delineados expertos
+- Delineado de alta precisión waterproof
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06XRXB53C{{</world>}}

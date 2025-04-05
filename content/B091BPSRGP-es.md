@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
 - Alérgenos: Sin azúcar, con edulcorantes. Contiene sorbitol y una fuente de fenilalanina
-- Formato pack de 24 envases de chicles sueltos tipo gragea rellena
 - Chicles refrescantes sin azúcar con sabor a menta de powder
+- Formato pack de 24 envases de chicles sueltos tipo gragea rellena
 - Sabor intenso y refrescante que cuida tu aliento y tu salud dental
+- Conservar en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091BPSRGP{{</world>}}

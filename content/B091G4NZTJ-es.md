@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alérgenos: Puede contener trazas de cacahuetes, otros frutos de cáscara, soja leche y derivados.
-- Ingredientes: Piñones
 - País de origen de materia prima: China
 - Conservar en lugar limpio, fresco y seco.
+- Ingredientes: Piñones
+- Alérgenos: Puede contener trazas de cacahuetes, otros frutos de cáscara, soja leche y derivados.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B091G4NZTJ{{</world>}}

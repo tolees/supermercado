@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ENERVIT: Desarrollamos productos y suplementos nutricionales e innovadores para mejorar la calidad de vida de nuestros usuarios ES-ENERVIT NUTRITION, S.L. Alfonso Gómez 45A 28037 Madrid - España
 - CRISPY COOKIE TREAT: Barrita proteica baja en azúcar, con 20 g de proteínas y bañada en chocolate con leche. Sabor a galleta. Sin gluten BENEFICIOS: Alto aporte proteico apto para cualquier persona. Idóneo para quienes lleven una dieta baja en azúcar o deseen limitar su consumo de azúcar PROPIEDADES: Gracias a sus 20 g de proteínas, ofrece un aporte proteico elevado, apto para todos los públicos. Ideal si sigues una dieta sin azúcar o deseas reducir tu consumo de azúcar CONSUMO: Se recomiendan 1-2 barritas al día. Su consumo debe integrarse en una dieta variada y equilibrada, así como en un estilo de vida saludable
+- ENERVIT: Desarrollamos productos y suplementos nutricionales e innovadores para mejorar la calidad de vida de nuestros usuarios ES-ENERVIT NUTRITION, S.L. Alfonso Gómez 45A 28037 Madrid - España
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VLH19RL{{</world>}}

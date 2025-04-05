@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Información alérgenos: Fabricado en una instalación que procesa proteínas de leche, soja, huevos, pescado y gluten.
 - Valor cada 100gr: Valor energético, 100 g, 20Kcal/84Kj | Grasas, 100 g, 0 g | - De las cuales saturadas, 100 g, 0 g | Hidratos de Carbono, 100 g, 4,8 g | - De los cuales azúcares, 100 g, 0,8 g | Fibra, 100 g, 0 g | Proteína, 100 g, 0,1 g | Sal, 100 g, 0,29 g
 - Los siropes zero combinan muy bien ya sea en vuestros postres fitness (tortitas, gachas, panes, muffings…) como añadidos al café, yogur, helado, queso fresco… En definitiva, en todo aquello en lo que usabais siropes convencionales. Para la elaboración de bollería, masas de pizza, panes, bizcochos… recomendamos nuestros productos 100% a base de cereales como Whole Instant Oats, Whole Oat Flakes e Instant Rice Flour. Los siropes zero combinan muy bien ya sea en vuestros postres fitness (tortitas,
-- Ingredientes: Agua, edulcorantes (eritritol, maltitol, sucralosa), almidón modificado de maiz, estabilizantes (E401, E415), aromas (contiene lácteos), colorante (E160), sal, acidulante (ácido láctico) y conservante: benzoato sódico.
 - Valor por dosis: Valor energético, 100 g, 20Kcal/84Kj | Grasas, 100 g, 0 g | - De las cuales saturadas, 100 g, 0 g | Hidratos de Carbono, 100 g, 4,8 g | - De los cuales azúcares, 100 g, 0,8 g | Fibra, 100 g, 0 g | Proteína, 100 g, 0,1 g | Sal, 100 g, 0,29 g
+- Ingredientes: Agua, edulcorantes (eritritol, maltitol, sucralosa), almidón modificado de maiz, estabilizantes (E401, E415), aromas (contiene lácteos), colorante (E160), sal, acidulante (ácido láctico) y conservante: benzoato sódico.
+- Información alérgenos: Fabricado en una instalación que procesa proteínas de leche, soja, huevos, pescado y gluten.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CV83ZSSY{{</world>}}

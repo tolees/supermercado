@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🌿 Tueste Artesanal - El tueste es uno de los elementos que más influyen en la calidad y el sabor del café. Nuestros expertos tostadores tuestan cada día para asegurar la frescura del café
-- 🌱 Ingredientes - Café en Grano Natural, 100% Arábica
-- ✅ Más información en el código QR de la parte trasera del paquete
-- 🌎 Origen único Colombia - Todos los granos de café provienen de la finca Cadefihuila en la región de Huila, aportando una personalidad única basada en las características de este terreno
-- ♻️ Café Responsable - Tanto con las personas como con el planeta. Esto requiere que sepamos de dónde proviene nuestro café, cómo se cultiva y quién está detrás de cada grano
-- ⭐ Café de Especialidad - Café colombiano de alta calidad, con 84 puntos SCA (Specialty Coffee Association). Se distingue por su aroma, sabor, personalidad, carácter distintivo y ausencia de defectos
 - 💚 Notas de Cata - Este café de Colombia se caracteriza por su fragancia floral, una buena base de cacao y panela, un cuerpo cremoso y un toque cítrico que recuerda al limón. Acidez y dulzor equilibrados
+- 🌱 Ingredientes - Café en Grano Natural, 100% Arábica
+- 🌿 Tueste Artesanal - El tueste es uno de los elementos que más influyen en la calidad y el sabor del café. Nuestros expertos tostadores tuestan cada día para asegurar la frescura del café
+- ✅ Más información en el código QR de la parte trasera del paquete
+- ♻️ Café Responsable - Tanto con las personas como con el planeta. Esto requiere que sepamos de dónde proviene nuestro café, cómo se cultiva y quién está detrás de cada grano
+- 🌎 Origen único Colombia - Todos los granos de café provienen de la finca Cadefihuila en la región de Huila, aportando una personalidad única basada en las características de este terreno
+- ⭐ Café de Especialidad - Café colombiano de alta calidad, con 84 puntos SCA (Specialty Coffee Association). Se distingue por su aroma, sabor, personalidad, carácter distintivo y ausencia de defectos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08J3S5ZRB{{</world>}}

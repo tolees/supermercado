@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cocktail de frutos secos y productos de aperitivo con sabor a barbacoa
-- Snack elaborado con aceite de girasol
-- Alergenos: cacahuetes, frutos de cáscara, leche, soja, trigo
 - Conservar en lugar fresco y seco
+- Cocktail de frutos secos y productos de aperitivo con sabor a barbacoa
+- Alergenos: cacahuetes, frutos de cáscara, leche, soja, trigo
 - Pais origen: España
+- Snack elaborado con aceite de girasol
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B091Q8N3QB{{</world>}}

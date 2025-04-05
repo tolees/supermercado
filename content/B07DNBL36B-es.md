@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cerveza turbia sin filtrar
 - Afrutado toque cítrico y ligero y especiado aroma a trigo
-- Sutil dulzor debido a la utilización de naranja Valencia en su elaboración
-- La cerveza artesanal más vendida del mundo
 - Cerveza artesanal de estilo Belgian White
+- Cerveza turbia sin filtrar
+- La cerveza artesanal más vendida del mundo
+- Sutil dulzor debido a la utilización de naranja Valencia en su elaboración
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DNBL36B{{</world>}}

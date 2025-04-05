@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con aceite de oliva
-- Viene en un embalaje reciclable
-- Adecuado para bebés mayores de 6 meses
 - De una textura fina
 - Tarrito 100% ecológico con sabor a guisito de alubias
+- Con aceite de oliva
+- Adecuado para bebés mayores de 6 meses
+- Viene en un embalaje reciclable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B077HGFB23{{</world>}}

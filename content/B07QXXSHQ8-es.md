@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fuente de vitamina E, alto contenido de fibra
 - NOTA: Los cacahuetes están tostados y salados (no fritos). Este proceso específico implica el uso de una sal en polvo muy fina que crea las manchas blancas en los cacahuetes. Por tanto, no se trata de un defecto del producto.
 - Apto para dietas vegetarianas y veganas
 - Envasado en atmósfera protectora para mantener su frescura
+- Fuente de vitamina E, alto contenido de fibra
 - Puede contener ocasionalmente trozos de cáscara
 
 [🛒 Aquí!!!]({{< param buyurl >}})

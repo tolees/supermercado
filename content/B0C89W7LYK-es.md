@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin sal ni azúcares añadidos, contiene azúcares naturalmente presentes.
-- Ricos en calcio, hierro, zinc y vitamina B1.
 - Sin aceite de palma.
+- Ricos en calcio, hierro, zinc y vitamina B1.
+- Sin sal ni azúcares añadidos, contiene azúcares naturalmente presentes.
 - Sin colorantes ni conservantes, según la legislación vigente
 - Delicioso snack de maíz y fresa.
 

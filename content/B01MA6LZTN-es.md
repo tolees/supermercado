@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Desde hace más de 60 años, disfruta con Litoral de nuestra cocina tradicional
-- Garbanzos cocinados con un sofrito de ingredientes naturales
 - Nunca perdamos nuestras buenas costumbres
+- Garbanzos cocinados con un sofrito de ingredientes naturales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MA6LZTN{{</world>}}

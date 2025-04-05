@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sencillo de aplicar
 - Peso: 300 gr
 - Producto de maquillaje de la marca Max Factor
+- Sencillo de aplicar
 - Material de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

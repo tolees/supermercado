@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los granos de café ecológico cuidadosamente seleccionados (70 % arábica y 30 % robusta) garantizan una crema perfecta y suave, así como un sabor fuerte, auténticamente italiano, matizado por un ligero toque amargo
-- La opción perfecta para el ristretto, el espresso o el cappucino
-- Ristretto: 20 ml; espresso: 30 ml; cappucino: 180 ml
 - Tostado con toda la pasión y la experiencia de la tradición vienesa desde 1929, y con un sabor matizado y sutil gracias al largo tueste de tambor
 - Granos enteros tostados con 5/5 de intensidad, 5/5 de tueste, 1/5 de acidez; incluye robusta para un sabor pleno al estilo italiano
+- Los granos de café ecológico cuidadosamente seleccionados (70 % arábica y 30 % robusta) garantizan una crema perfecta y suave, así como un sabor fuerte, auténticamente italiano, matizado por un ligero toque amargo
+- Ristretto: 20 ml; espresso: 30 ml; cappucino: 180 ml
+- La opción perfecta para el ristretto, el espresso o el cappucino
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B095JB2MY5{{</world>}}

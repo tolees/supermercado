@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Libre de sales y sulfatos.
+- Fortalece el cabello.
 - Reduce el encrespamiento.
 - Evita la sequedad, protege, hidrata, nutre y aporta brillo y suavidad.
-- Fortalece el cabello.
 - El oro liquido para el cabello. Limpia en profundidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

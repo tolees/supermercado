@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Envase 100% reciclable
 - 200 ml
+- Envase 100% reciclable
 - Tratamiento de Aceite en Crema que nutre intensamente sin apelmazar el pelo, dejándolo suave y ligero
-- Tratamiento capilar aceite en crema altamente nutritiva para el pelo reseco y sensibilizado, nutre intensamente sin apelmazar
 - Formulado con Aceite de Oliva rico en ácidos grasos y Vitamina E, se usa desde la antigüedad por sus propiedades altamente nutritivas, suavizantes y reparadoras
+- Tratamiento capilar aceite en crema altamente nutritiva para el pelo reseco y sensibilizado, nutre intensamente sin apelmazar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00X9UE5EA{{</world>}}

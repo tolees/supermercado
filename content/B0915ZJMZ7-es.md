@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Afrutado
 - Equilibrio entre un verdejo clásico y un verdejo moderno
 - D.O Rueda
 - Fondo de fruta tropical e intensidad aromática alta
+- Afrutado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0915ZJMZ7{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se puede servir para cualquier ocasión
 - Adecuado como regalo
+- Se puede servir para cualquier ocasión
 - Producto de calidad
 - Color: claro
 

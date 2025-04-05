@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hidrata intensamente la piel durante todo el día
 - Calma la piel irritada después del afeitado
+- Hidrata intensamente la piel durante todo el día
 - Fórmula refrescante
 - Hydra energetic gel limpiador efecto hielo conseguirá limpiar y purificar tu piel sin dañarla
 

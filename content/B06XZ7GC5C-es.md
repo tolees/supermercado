@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ANTI-INSECTOS: Champú anti-insectos para perros y gatos con ingredientes de origen natural: Margosa, Geraniol y Lavandino que actúan como repelentes para que tu mascota este libre de insectos.
-- ELIMINA LOS INSECTOS: Elimina durante el proceso de lavado todos los insectos presentes en la piel y en el pelaje (pulgas, garrapatas, chinches y ácaros).
 - CHAMPÚ EN ESPUMA: El champú en espuma, es fácil y cómodo de utilizar. Se aplica el producto y luego se cepilla al animal para extenderlo por todo su cuerpo.
 - MODO DE EMPLEO: Aplicar la espuma al animal por partes y no todo de una vez. Dejar actuar unos instantes, pasar un paño seco y cepillar.
 - Ph adaptado a la piel de perros y gatos que permite un uso frecuente del producto.
+- ANTI-INSECTOS: Champú anti-insectos para perros y gatos con ingredientes de origen natural: Margosa, Geraniol y Lavandino que actúan como repelentes para que tu mascota este libre de insectos.
+- ELIMINA LOS INSECTOS: Elimina durante el proceso de lavado todos los insectos presentes en la piel y en el pelaje (pulgas, garrapatas, chinches y ácaros).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XZ7GC5C{{</world>}}

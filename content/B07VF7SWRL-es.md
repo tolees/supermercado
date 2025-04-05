@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De textura fina
-- Adecuado para bebés mayores de 6 meses
 - Viene en un embalaje reciclable
 - Conservar en un lugar fresco y seco
+- Adecuado para bebés mayores de 6 meses
+- De textura fina
 - Tarrito 100% ecológico con sabor a brócoli, cordero y chirivía
 
 [🛒 Visítala!!!]({{< param buyurl >}})

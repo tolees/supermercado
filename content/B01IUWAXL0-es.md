@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin gluten
-- Una cuidada selección de sabores vegetales
 - Patatas fritas con aromas vegetales
+- Sin gluten
 - Envasado en atmosfera protectora
+- Una cuidada selección de sabores vegetales
 - Sin aceite de palma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

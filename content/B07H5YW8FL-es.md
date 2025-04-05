@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Peso neto de 4 x 250 gramos
-- Adecuada para cafetera express
 - Asado natural
+- Adecuada para cafetera express
+- Peso neto de 4 x 250 gramos
 - Tipo: café molido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

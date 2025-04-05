@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Barras de proteína bajas en azúcar: estos sabrosos snacks proteicos tienen menos de 1 gr de azúcar por barrita, un snack alto en proteínas que el cuerpo asimila con mayor facilidad procesando energía al instante
-- Importante: Para ver la Fecha de Caducidad, por favor consultela impresa en el exterior del envase.
+- Snacks proteicos cookies and cream: incluye un paquete de barras de proteína por 12 PhD Nutrition Smart Bar, cada barra de 64 gr sabor cookies and cream que aporta 20 gr de proteína por porción
 - Snacks ricos en proteínas: las barras nutricionales aportan 20 gr de proteínas por porción para disfrutar de deliciosos snacks proteicos y complementar tu dieta en cualquier momento del día o del entrenamiento
+- Barras de proteína bajas en azúcar: estos sabrosos snacks proteicos tienen menos de 1 gr de azúcar por barrita, un snack alto en proteínas que el cuerpo asimila con mayor facilidad procesando energía al instante
 - Barras de proteína con el mejor sabor: las deliciosas barritas proteicas súper blandas con un centro de proteínas de caramelo son crujientes pero suaves a la mordida tienen cobertura de chocolate y delicioso sabor a frambuesa
 - Barritas proteicas nutricionales y sanas: las barritas proteicas, además de ser altas en nutrientes, son bastante sanas, están hechas sin aceite de palma y son ideales para tomar antes, durante y después del entrenamiento
-- Snacks proteicos cookies and cream: incluye un paquete de barras de proteína por 12 PhD Nutrition Smart Bar, cada barra de 64 gr sabor cookies and cream que aporta 20 gr de proteína por porción
+- Importante: Para ver la Fecha de Caducidad, por favor consultela impresa en el exterior del envase.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B06XT1K7LS{{</world>}}

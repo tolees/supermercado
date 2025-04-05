@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Importado y distribuido por: Brown-Forman Spain S.L.U. Plaza de Cataluña 5, 08002 Barcelona, España.
 - Gracias al proceso único de elaboración del whiskey hacen de Jack Daniels un Tennessee Whiskey suave en el paladar, muy distinto de un bourbon Jack Daniels Tennessee Whiskey Old No.7 se somete a un filtrado gota a gota a través de tres metros de carbón de arce sacarino y se madura en barricas de roble ensambladas a mano Sugerencia de preparación: Jack Daniels con cola, limonada Lynchburg Sabor y final: intenso y especiado, con matices de naranja, azúcar moreno y especias, roble intenso y manzana seca
+- Importado y distribuido por: Brown-Forman Spain S.L.U. Plaza de Cataluña 5, 08002 Barcelona, España.
 - Aroma: dulce, intenso y sutil, muy claros, de vainilla. El ahumado del filtrado con carbón vegetal se matiza muy bien en su sabor Jack Daniel es el icono de marca con estatus de culto, se ha producido en la destilería registrada más antigua de América desde 1866. El de Jack Daniel se puede disfrutar solo, en las rocas o en una mezcla. Gota a gota, el fuego se filtra a través de una capa de carbón de un metro de espesor, haciendo que su sabor sea inconfundiblemente redondo, suave y característico. Es la variedad más conocida de Whiskey. Se madura durante cuatro años en barricas de roble americano tostado, lo que le da ese color tan característico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

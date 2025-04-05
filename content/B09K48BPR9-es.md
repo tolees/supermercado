@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡CONÓCENOS! Risso ofrece soluciones culinarias para profesionales de la cocina: salsas, aderezos y vinagretas, mixes vegetales, margarinas y grasas para freír. ¡Creados para satisfacer todas las necesidades que un chef pueda tener en su día a día!
-- TOQUE DE ESPECIAS Y DULCE : Destaca por su excelente cremosidad y su sabor auténtico. Está elaborada con trocitos de cebollas dando un toque crujiente, dulce y especiado a tus recetas. Cuenta con hasta 8 meses de vida útil antes de que caduque.
 - INGREDIENTES SELECCIONADOS: Para crear Hannibal hemos trabajado al detalle hasta conseguir una innovadora salsa, elaborada a base de materias primas de excelente calidad, que le aportan ese sabor intenso y especiado del que estamos tan orgullosos.
 - LA SALSA DE LOS PROFESIONALES: Nuestra salsa Hannibal es tu nueva aliada para crear recetas las recetas más deliciosas. Utilízala en tu día a día para acompañar toda clase de finger food, carnes o pescados. ¡Crea sabores y sensaciones únicas!
+- ¡CONÓCENOS! Risso ofrece soluciones culinarias para profesionales de la cocina: salsas, aderezos y vinagretas, mixes vegetales, margarinas y grasas para freír. ¡Creados para satisfacer todas las necesidades que un chef pueda tener en su día a día!
+- TOQUE DE ESPECIAS Y DULCE : Destaca por su excelente cremosidad y su sabor auténtico. Está elaborada con trocitos de cebollas dando un toque crujiente, dulce y especiado a tus recetas. Cuenta con hasta 8 meses de vida útil antes de que caduque.
 - IDEAL PARA ACOMPAÑAR: ¡Es la opción perfecta si quieres usar productos sin gluten para acompañar cualquier tipo de comida vegetariana o asiática! Conseguirás obtener unos sabrosos y exquisitos platos, dignos de los más prestigiosos restaurantes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

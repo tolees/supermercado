@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Natural y ecológica: nuestra taza de té está hecha con materiales naturales, incluyendo cerámica y bambú, y es ecológica, por lo que es una opción sostenible para tu ritual de hora del té.
-- Diseño versátil para cualquier té de hojas sueltas: nuestro juego de tazas de té es perfecto para preparar y disfrutar de cualquier variedad de té de hojas sueltas. Ya sea que prefieras hierbas, negro, verde o cualquier otro tipo de té, nuestro versátil diseño mejorará tu experiencia de té.
 - Eleva tu experiencia de té: disfruta de los sabores y aromas completos de tus tés favoritos de hojas sueltas con nuestra taza de té de cerámica premium e infusor de acero inoxidable 304 extraíble. El posavasos de bambú incluido añade un toque natural a tu ritual de hora del té, mientras protege tus superficies de daños por calor.
 - Regalo perfecto para los amantes del té: nuestro bonito y funcional juego de tazas de té es el regalo perfecto para cualquier amante del té en cualquier ocasión. Muestra a tus amigos, familiares o a ti mismo que te importa dando el regalo de una deliciosa y relajante experiencia de té.
+- Diseño versátil para cualquier té de hojas sueltas: nuestro juego de tazas de té es perfecto para preparar y disfrutar de cualquier variedad de té de hojas sueltas. Ya sea que prefieras hierbas, negro, verde o cualquier otro tipo de té, nuestro versátil diseño mejorará tu experiencia de té.
+- Natural y ecológica: nuestra taza de té está hecha con materiales naturales, incluyendo cerámica y bambú, y es ecológica, por lo que es una opción sostenible para tu ritual de hora del té.
 - Seguro, duradero y práctico: fabricado con cerámica de alta calidad, nuestra taza de té es apta para lavavajillas y microondas, por lo que es fácil de limpiar y recalentar. Además, la tapa incluida mantiene tu té caliente durante más tiempo, por lo que puedes saborear cada sorbo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

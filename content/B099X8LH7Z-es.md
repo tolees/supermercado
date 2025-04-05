@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Crema hidratante para el contorno de ojos sin perfume; usa la crema para el contorno de ojos con retinol a diario para mejorar visiblemente
-- La crema suavizante para el contorno de los ojos hidrata la piel con mejoras visibles en las líneas de expresión y las arrugas
-- La crema para el contorno de ojos se ha diseñado específicamente para la noche, cuando la piel es más receptiva
 - Crema para el contorno de ojos con la fórmula más potente de retinoide + vitamina B3 de Olay
 - Crema contorno de ojos hidratante de retinol con un 40 % más de ingredientes hidratantes; recupera la luminosidad de la mirada con la crema para ojos
 - Dale a tu mirada una luminosidad radiante con la crema para el contorno de ojos Olay Retinol24 MAX
+- Crema hidratante para el contorno de ojos sin perfume; usa la crema para el contorno de ojos con retinol a diario para mejorar visiblemente
+- La crema para el contorno de ojos se ha diseñado específicamente para la noche, cuando la piel es más receptiva
+- La crema suavizante para el contorno de los ojos hidrata la piel con mejoras visibles en las líneas de expresión y las arrugas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B099X8LH7Z{{</world>}}

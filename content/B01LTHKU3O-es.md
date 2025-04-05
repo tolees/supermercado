@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Lápiz de ojos de la marca Max factor
+- Color: Gris
 - Material de calidad
 - Peso: 200 gr
-- Color: Gris
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01LTHKU3O{{</world>}}

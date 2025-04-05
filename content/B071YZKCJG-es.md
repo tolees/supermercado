@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Finos cortes con carnes o pescados preparados en una deliciosa salsa para una excelente comida
-- Gourmet Mon Petit está presentado en un pequeño sobre de 50g, por lo que cada una de las comidas de tu gato pueden ser servidas de manera fresca para que se lo coma todo de una vez, lo que significa más disfrute y variedad para él, y sin dejarte sobras
 - Contiene vitaminas y minerales que contribuyen en una vida saludable, la vitalidad y la felicidad de tu gato
+- Finos cortes con carnes o pescados preparados en una deliciosa salsa para una excelente comida
 - Gourmet Mon Petit es una gama de exquisitas recetas de Gourmet especialmente desarrolladas para que tu gato disfrute de una amplia variedad de sabores en su justa medida
+- Gourmet Mon Petit está presentado en un pequeño sobre de 50g, por lo que cada una de las comidas de tu gato pueden ser servidas de manera fresca para que se lo coma todo de una vez, lo que significa más disfrute y variedad para él, y sin dejarte sobras
 - Elaborado con ingredientes seleccionados de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

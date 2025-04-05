@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contorno de ojos antiedad con aceite de oliva BIO para una mirada más hidratada, lisa y luminosa, Prepara la piel para el maquillaje
-- Atenúa y alisa líneas de expresión, Disminuye la apariencia de ojeras, Hidrata intensamente la piel para un tono más homogéneo, Calma y descongestiona
 - Fórmula enriquecida con aceite de oliva BIO rico en polifenoles y la flor de aciano BIO descongestionante, Textura no pegajosa
-- Aplicar mañana y noche efectuando ligeros masajes alisadores del interior hacia el exterior del contorno de los ojos
+- Atenúa y alisa líneas de expresión, Disminuye la apariencia de ojeras, Hidrata intensamente la piel para un tono más homogéneo, Calma y descongestiona
 - Contenido: 1 x Contorno de Ojos Anti-edad con Aceite de Oliva BIO La Provençale Bio, 15 ml
+- Contorno de ojos antiedad con aceite de oliva BIO para una mirada más hidratada, lisa y luminosa, Prepara la piel para el maquillaje
+- Aplicar mañana y noche efectuando ligeros masajes alisadores del interior hacia el exterior del contorno de los ojos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08G97ZV1L{{</world>}}

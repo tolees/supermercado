@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrecemos alimentos sin cereales para gatos en todas las etapas de la vida, desde golosinas hasta alimento seco y húmedo, todos elaborados con ingredientes naturales. Encontrarás también cenas ecológicas
-- Ahora hemos actualizado nuestros envases, con nueva información y materiales reciclables. Comprueba las instrucciones en los envases. Ten en cuenta que, durante este período de transición, es posible que recibas diferentes tipos de envases
 - Aquí, en Lily’s Kitchen, elaboramos comida de verdad con ingredientes de fuentes responsables y carne y vísceras recién preparadas, para ofrecer a tu mascota alimentos saludables y naturales. Solo lo mejor para tu familia peluda
-- Como B Corp, estamos comprometidos con nuestro objetivo de ser totalmente reciclables en 2025. Para conocer nuestras iniciativas sostenibles y cómo utilizamos nuestra empresa como fuerza para hacer el bien, visita la tienda de nuestra marca
-- Con una textura suave y delicada, cada uno de nuestros patés de alimento para gato está elaborado con ingredientes saludables y naturales, y resulta adecuado tanto para gatos de vida en el interior como el exterior.
+- Ahora hemos actualizado nuestros envases, con nueva información y materiales reciclables. Comprueba las instrucciones en los envases. Ten en cuenta que, durante este período de transición, es posible que recibas diferentes tipos de envases
 - Nuestras cenas de paté para gatos están elaboradas con carne recién preparada, pescado y vísceras, sin azúcares ni saborizantes artificiales añadidos. Cada receta sin cereales proporciona una nutrición completa. Para gatos de más de 6 meses
+- Como B Corp, estamos comprometidos con nuestro objetivo de ser totalmente reciclables en 2025. Para conocer nuestras iniciativas sostenibles y cómo utilizamos nuestra empresa como fuerza para hacer el bien, visita la tienda de nuestra marca
+- Ofrecemos alimentos sin cereales para gatos en todas las etapas de la vida, desde golosinas hasta alimento seco y húmedo, todos elaborados con ingredientes naturales. Encontrarás también cenas ecológicas
+- Con una textura suave y delicada, cada uno de nuestros patés de alimento para gato está elaborado con ingredientes saludables y naturales, y resulta adecuado tanto para gatos de vida en el interior como el exterior.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B071RTL5PK{{</world>}}

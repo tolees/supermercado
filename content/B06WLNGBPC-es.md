@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Confiere a tu pelo un brillo sano y bonito y aporta suavidad.
 - Combate inmediatamente los signos de daños en el cabello para aportar suavidad y brillo.
-- Para cabello dañado.
+- Confiere a tu pelo un brillo sano y bonito y aporta suavidad.
 - Ayuda a restaurar la resistencia de tu pelo contra los daños del peinado y protege contra la aparición de puntas abiertas.
+- Para cabello dañado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06WLNGBPC{{</world>}}

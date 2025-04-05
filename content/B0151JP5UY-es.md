@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene cero soja agregada
-- Con aminoácidos clave y enzimas digestivas adicionales
-- Disponible en varios sabores: es ideal para mezclar con tus comidas y bebidas favoritas a cualquier hora del día
-- Laboratiorio probado: Fabricado en una instalación certificada GMP, libre de OGM
 - Mezcla de concentrado de suero de leche y aislado, 22 g de proteína por porción
+- Disponible en varios sabores: es ideal para mezclar con tus comidas y bebidas favoritas a cualquier hora del día
+- Con aminoácidos clave y enzimas digestivas adicionales
+- Contiene cero soja agregada
+- Laboratiorio probado: Fabricado en una instalación certificada GMP, libre de OGM
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0151JP5UY{{</world>}}

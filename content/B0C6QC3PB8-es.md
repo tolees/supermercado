@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Productos de Cuidado de la piel para unisex adulto
-- Crema corporal PALMOLIVE SAP.BUSTA 500 AQUARI de Palmolive
 - Los productos de la marca Palmolive están pensados para ti y tu bienestar
+- Crema corporal PALMOLIVE SAP.BUSTA 500 AQUARI de Palmolive
+- Productos de Cuidado de la piel para unisex adulto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C6QC3PB8{{</world>}}

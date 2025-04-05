@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Un pimentón lujoso, tradicionalmente producido, ahumado y seco se mezcla con nuestra querida sal marina Messolonghi usando un método , para crear una de las sales más deliciosas disponibles.
+- NO se añaden aromas de humo artificial
 - Fumar En Frio Natural
 - Todo natural, sin refinar.
-- NO se añaden aromas de humo artificial
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08FTP7Q21{{</world>}}

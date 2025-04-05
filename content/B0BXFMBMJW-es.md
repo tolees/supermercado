@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fortalecedor de uñas con proteína de trigo y calcio
-- Tono rosa
-- Combínalo con el sérum de tratamiento Repair Mode de OPI
-- Refuerza la uña con la construcción de capas
 - Endurece las uñas
-- Fortalece y protege las uñas contra el desconchado, la descamación y la rotura
-- Fortalecedor de uñas Nail Envy
 - Uñas de aspecto sano y vibrante
+- Tono rosa
+- Refuerza la uña con la construcción de capas
+- Fortalece y protege las uñas contra el desconchado, la descamación y la rotura
+- Combínalo con el sérum de tratamiento Repair Mode de OPI
+- Fortalecedor de uñas Nail Envy
+- Fortalecedor de uñas con proteína de trigo y calcio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXFMBMJW{{</world>}}

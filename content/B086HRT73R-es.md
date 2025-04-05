@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 94 % de origen natural (agua purificada e ingredientes de origen natural poco procesados)
-- Acondicionador sin sulfatos
 - En asociación con el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
+- Acondicionador sin sulfatos
+- 94 % de origen natural (agua purificada e ingredientes de origen natural poco procesados)
 - Acondicionador con aloe intenso y hemp que ayuda a devolver la suavidad al cabello
 - Con pH equilibrado y seguro para pelo teñido
 

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CON AMINOÁCIDOS RAMIFICADOS (BCAA) Y AMINOÁCIDOS ESENCIALES (EEAA) : El preparado en polvo Isostar para bebida rica en proteínas tiene un 45% de AAEE, de los cuales un 22% son BCAA además del resto de aminoácidos esenciales.
-- WHEY PROTEIN: La fórmula que te ofrece Isostar en polvo contiene un 90% de pura Whey Protein. La proteína contribuye al mantenimiento y aumento de la masa muscular.
-- PARTE DE UNA DIETA EQUILIBRADA: Incorpora este preparado de bebidas a tu alimentación. Isostar es ideal como parte de una dieta variada, equilibrada y un estilo de vida saludable.
 - FÁCIL DE CONSUMIR: Diluir 30 g de polvo (4 dosificadores) en 220 ml de agua o de leche. Los expertos en nutrición de Isostar recomiendan consumir Isostar Whey Protein entre 30 minutos y 3 horas después del ejercicio, durante la fase de recuperación.
 - SABOR CHOCOLATE: Este producto de Isostar en polvo contiene cacao en polvo desgrasado 7% y proteínas de suero con las que recuperarse después de hacer ejercicio será más fácil que nunca. No te pierdas este preparado con delicioso sabor chocolate.
+- PARTE DE UNA DIETA EQUILIBRADA: Incorpora este preparado de bebidas a tu alimentación. Isostar es ideal como parte de una dieta variada, equilibrada y un estilo de vida saludable.
+- CON AMINOÁCIDOS RAMIFICADOS (BCAA) Y AMINOÁCIDOS ESENCIALES (EEAA) : El preparado en polvo Isostar para bebida rica en proteínas tiene un 45% de AAEE, de los cuales un 22% son BCAA además del resto de aminoácidos esenciales.
+- WHEY PROTEIN: La fórmula que te ofrece Isostar en polvo contiene un 90% de pura Whey Protein. La proteína contribuye al mantenimiento y aumento de la masa muscular.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07ZQBT3J8{{</world>}}

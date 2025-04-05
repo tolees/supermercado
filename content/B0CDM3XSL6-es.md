@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MODO DE EMPLEO: ¡Prepara una deliciosa ensalada de tofu! Corta el tofu en daditos y sazónalo con tus especias favoritas. Combínalo con una base de ensalada o verduras de temporada y aliña a tu gusto para disfrutar de una comida nutritiva y saludable.
 - APTO PARA VEGANOS: Nuestro tofu es ideal para quienes siguen una dieta vegana gracias a su elaboración sin ingredientes de origen animal, como la leche o el huevo. Además, tampoco contiene gluten, siendo apto para personas intolerantes o alérgicas.
+- MODO DE EMPLEO: ¡Prepara una deliciosa ensalada de tofu! Corta el tofu en daditos y sazónalo con tus especias favoritas. Combínalo con una base de ensalada o verduras de temporada y aliña a tu gusto para disfrutar de una comida nutritiva y saludable.
+- MÚLTIPLES BENEFICIOS: Es una gran fuente de ácidos grasos omega-3, magnesio y proteínas esenciales para mantener una buena salud ósea, muscular y cardiovascular. Asimismo, te servirá de gran utilidad para realizar tus actividades diarias con energía.
 - SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 - INGREDIENTES NATURALES: Este tofu está elaborado con ingredientes vegetales procedentes de cultivo ecológico. Su composición la forman el agua, la salsa de soja, el cloruro de magnesio (nigari) y el koji.
-- MÚLTIPLES BENEFICIOS: Es una gran fuente de ácidos grasos omega-3, magnesio y proteínas esenciales para mantener una buena salud ósea, muscular y cardiovascular. Asimismo, te servirá de gran utilidad para realizar tus actividades diarias con energía.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CDM3XSL6{{</world>}}

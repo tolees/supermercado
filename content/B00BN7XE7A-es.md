@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfume suave y discreto
-- Suavidad demostrada clínicamente
 - Formulado con ácido l-láctico biológico
-- Proporciona una sensación refrescante y nutritiva
 - Con lactoserum revitalizante
+- Suavidad demostrada clínicamente
+- Perfume suave y discreto
+- Proporciona una sensación refrescante y nutritiva
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00BN7XE7A{{</world>}}

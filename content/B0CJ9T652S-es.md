@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sabor agradable
-- Sensación de hidratación
 - Bebida refrescante
+- Sensación de hidratación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CJ9T652S{{</world>}}

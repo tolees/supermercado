@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con hierro que ayuda al desarrollo cognitivo normal
-- Sin aceite de palma y con galleta maría
 - Con 13 vitaminas
+- Sin aceite de palma y con galleta maría
 - NESTLÉ JUNIOR Crecimiento Galleta adaptada a las necesidades de los niños a partir de 3 años
 - Leche enriquecida con calcio, que ayuda al desarrollo normal de los huesos
+- Con hierro que ayuda al desarrollo cognitivo normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B079ZYK7N1{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuenta con extracto de Pro-mololin
-- El producto acelera el bronceado
 - Es resistente al agua
+- El producto acelera el bronceado
 - Con una fórmula sedosa que protege e hidrata la piel
 - Contiene un sistema de filtro UVA-UVB
 

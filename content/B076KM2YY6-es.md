@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborado con uvas de la variedad Tempranillo
-- Color intenso color rojo picota
-- Nariz elegante, con fruta roja y negra madura
 - Sabor muy equilibrado y con taninos redondos
 - Crianza 6 meses en barricas nuevas de roble francés y posteriormente 12 meses en botella
+- Color intenso color rojo picota
+- Elaborado con uvas de la variedad Tempranillo
+- Nariz elegante, con fruta roja y negra madura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076KM2YY6{{</world>}}

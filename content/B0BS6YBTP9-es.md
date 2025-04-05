@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hackett - Pantalón marrón para hombre
 - Hackett - Pantalón de algodón para hombre
+- Hackett - Pantalón marrón para hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS6YBTP9{{</world>}}

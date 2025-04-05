@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Viene con envoltorio protector. Formato lata de 400g, incluye 20 galletas.
-- Sin conservantes, sin colorantes, sin saborizantes artificiales, sin aceite de palma y sin GMO. Apto para vegetarianos.
 - Receta original y sin alterar desde 1888. Fabricadas con ingredientes 100% franceses de alta calidad.
-- Diseño del empaque inspirado en el pintor checo y artista decorativo, Alfons Mucha.
 - Galletas tipo cookies de mantequilla pura y chips de chocolate.
+- Diseño del empaque inspirado en el pintor checo y artista decorativo, Alfons Mucha.
+- Sin conservantes, sin colorantes, sin saborizantes artificiales, sin aceite de palma y sin GMO. Apto para vegetarianos.
+- Viene con envoltorio protector. Formato lata de 400g, incluye 20 galletas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KB1R49C{{</world>}}

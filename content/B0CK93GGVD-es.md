@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Interruptores intercambiables en caliente: el teclado mecánico utiliza un estilo clásico de máquina de escribir combinado con tecnología de teclado de interruptor azul intercambiable en caliente de primera calidad. Acelere la escritura y disfrute de la sensación de clic de una antigua máquina de escribir Royal.
 - 3 modos: el teclado mecánico se puede conectar en modos con cable tipo C, Bluetooth y 2,4 Ghz, lo que hace que el teclado 80 por ciento TKL esté bien conectado y sea compatible.
-- Perilla de control de volumen: el teclado mecánico está equipado con 1 perilla de control de volumen, la perilla de la esquina superior derecha controla el nivel de volumen del dispositivo. Ahora, con el teclado de máquina de escribir inalámbrico, ya no necesitas salir de la pantalla del juego para ajustar el volumen.
 - Modo BT, amplia compatibilidad: almacene hasta 3 dispositivos en modo BT, lo que le permite cambiar entre tabletas, computadoras portátiles y teléfonos. Compatible con Windows, OS X, Android y IOS, etc.
 - Interruptores mecánicos: el teclado de máquina de escribir retro cuenta con verdaderos interruptores mecánicos azules. La retroalimentación táctil y un sonido de clic nítido pueden brindarle una excelente experiencia de juego y escritura.
+- Perilla de control de volumen: el teclado mecánico está equipado con 1 perilla de control de volumen, la perilla de la esquina superior derecha controla el nivel de volumen del dispositivo. Ahora, con el teclado de máquina de escribir inalámbrico, ya no necesitas salir de la pantalla del juego para ajustar el volumen.
+- Interruptores intercambiables en caliente: el teclado mecánico utiliza un estilo clásico de máquina de escribir combinado con tecnología de teclado de interruptor azul intercambiable en caliente de primera calidad. Acelere la escritura y disfrute de la sensación de clic de una antigua máquina de escribir Royal.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CK93GGVD{{</world>}}

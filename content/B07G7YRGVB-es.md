@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - CREMA ANTIMANCHAS FACIAL: Cuenta con extracto de la flor de peonía del Monte Jiri, células madre de Granada y activos anti-manchas que actuán como despigmentante y tienen propiedades antioxidantes y calmantes
-- TEXTURA: La crema Bella Aurora tiene un tono blanco porcelana, con una textura ligera y fresca con acabado mate. Su fragancia combina notas florales que recuerdan a narciso, rosa y mimosa
-- MODO DE USO: Aplicar una pequeña cantidad sobre rostro, cuello y escote con la piel limpia o después del serum, realizando un suave masaje hasta su completa absorción
 - CREMA ANTIEDAD: Atenúa arrugas y líneas de expresión, mejora la elasticidad y consigue una piel más fresca, tonificada y saludable. lumina el cutis, revitaliza y reduce la sensación de cansancio en el rostro. Hidrata de forma inmediata y en profundida
+- MODO DE USO: Aplicar una pequeña cantidad sobre rostro, cuello y escote con la piel limpia o después del serum, realizando un suave masaje hasta su completa absorción
+- TEXTURA: La crema Bella Aurora tiene un tono blanco porcelana, con una textura ligera y fresca con acabado mate. Su fragancia combina notas florales que recuerdan a narciso, rosa y mimosa
 - PARA PIELES MIXTAS-GRASAS: Para pieles mixtas-grasas a partir de 40 años sometidas a un elevado nivel de estrés, debido a su exposición a contaminantes ambientales y a la radiación UV, responsables de la aparición de los signos de la edad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

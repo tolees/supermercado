@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Arábica Lavado y natural y Robusta
-- Producto especial para cafeteras de émbolo, Melita o italiana
 - Sabor elegante con matices herbales
 - Para Cafeteras Italiana, de émbolo o malita
+- Producto especial para cafeteras de émbolo, Melita o italiana
+- Arábica Lavado y natural y Robusta
 - Intensidad 7
 
 [🛒 Visítala!!!]({{< param buyurl >}})

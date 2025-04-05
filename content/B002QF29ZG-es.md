@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dimensiones: 21,5 x 11 x h2 cm
 - Colección: Bimbi - Designer: Guzzini Lab-Raffaele Gerardi
-- Producto de optimo calidad
 - Official Guzzini Product – Fabricado en Italia desde 1912
+- Dimensiones: 21,5 x 11 x h2 cm
+- Producto de optimo calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B002QF29ZG{{</world>}}

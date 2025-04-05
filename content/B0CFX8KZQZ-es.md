@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Instrucciones para su uso adecuado: Mantener en lugar fresco y seco
-- País de origen: España, producto natural sin conservantes ni colorantes
 - Lata ideal para consumo individual
 - Conserva de atún claro de pesca responsable APR en aceite de oliva
-- Ingredientes: Ingredientes: Atún claro (especie: ver lata) (pescado) aceite de oliva y sal
 - Información de alérgenos: fish
-- Pack de 4 latas individuales de 80 g, con tapa fácil apertura
-- Método de pesca: cerco. ver especie y zona de pesca en la lata
 - La siguiente información se aplica a cada unidad del paquete
+- Método de pesca: cerco. ver especie y zona de pesca en la lata
+- País de origen: España, producto natural sin conservantes ni colorantes
 - Advertencia de seguridad: Una vez abierto consumir en su totalidad
+- Ingredientes: Ingredientes: Atún claro (especie: ver lata) (pescado) aceite de oliva y sal
+- Instrucciones para su uso adecuado: Mantener en lugar fresco y seco
+- Pack de 4 latas individuales de 80 g, con tapa fácil apertura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CFX8KZQZ{{</world>}}

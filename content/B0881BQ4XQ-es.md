@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sabor: Originaria de México con una agradable y suave mezcla de dulzura y amargor, y una abundante y compacta espuma. La cerveza ideal para ocasiones especiales por su sabor único. Textura sedosa y una peculiar acidez, que transmiten una sensación refrescante.
 - Aroma: Se perciben sensaciones a manzana, frutas rojas y plátano, y unos agradables sabores a caramelo tostado
+- Sabor: Originaria de México con una agradable y suave mezcla de dulzura y amargor, y una abundante y compacta espuma. La cerveza ideal para ocasiones especiales por su sabor único. Textura sedosa y una peculiar acidez, que transmiten una sensación refrescante.
+- Pack de 24 botellas de 355 ml cada una de Negra Modelo, con 5% de alcohol. Para un mayor disfrute, se recomienda consumir entre 8º y 12º C
 - Negra Modelo, mejor conocida como La crema de la cerveza, es una cerveza tipo Dunkel Munich que ofrece un sabor equilibrado y un delicado aroma a malta oscura, caramelo y lúpulo
 - Aspecto: Cerveza de color cobrizo claro, brillante en apariencia y con una espuma cremosa y elegante. Tiene un perfil de marcados aromas afrutados y maltosos
-- Pack de 24 botellas de 355 ml cada una de Negra Modelo, con 5% de alcohol. Para un mayor disfrute, se recomienda consumir entre 8º y 12º C
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0881BQ4XQ{{</world>}}

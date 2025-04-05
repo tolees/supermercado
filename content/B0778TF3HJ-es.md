@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- UNA EXPERIENCIA FRESCA: Obtén una explosión de frescor natural cada vez que te cepilles los dientes con la pasta de dientes Colgate Natural Extracts BIO Limón & Cítricos
+- ACEITES PUROS: Esta pasta de dientes de sabor intenso despertará tus papilas gustativas gracias a su sabor orgánico que proviene del aceite de limón puro
+- CERTIFICADO ORGÁNICO: Esta pasta de dientes ecológica ha recibido la certificación Cosmos Organic de Ecocert
 - FRESCURA AFRUTADA: Experimenta el frescor de la fruta cada vez que se cepille con esta pasta de dientes orgánica
 - INGREDIENTES DE ORIGEN NATURAL: Esta pasta de dientes ecológica tiene un 99.7% de ingredientes de origen natural
-- CERTIFICADO ORGÁNICO: Esta pasta de dientes ecológica ha recibido la certificación Cosmos Organic de Ecocert
-- ACEITES PUROS: Esta pasta de dientes de sabor intenso despertará tus papilas gustativas gracias a su sabor orgánico que proviene del aceite de limón puro
+- UNA EXPERIENCIA FRESCA: Obtén una explosión de frescor natural cada vez que te cepilles los dientes con la pasta de dientes Colgate Natural Extracts BIO Limón & Cítricos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0778TF3HJ{{</world>}}

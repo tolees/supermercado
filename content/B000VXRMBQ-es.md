@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Este producto está indicado para hSombras.
 - De la marca Guy Laroche.
 - Contiene 30 ml.
 - Las notas olfativas principales de este producto son especiado y cítrico.
-- Este producto está indicado para hSombras.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000VXRMBQ{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuidado de la piel EQUILIBRA DEO SPRAY GENTLE 75 ML de EQUILIBRA
-- Productos de Cuidado de la piel para Unisex adulto
 - Los productos de la marca EQUILIBRA están fabricados con ingredientes de la mejor calidad.
+- Productos de Cuidado de la piel para Unisex adulto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ZM980VA{{</world>}}

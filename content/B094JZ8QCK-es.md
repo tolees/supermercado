@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- INCORPORA COLÁGENO NATURAL: El colágeno de su fórmula revitaliza, hidrata y recupera el aspecto sano y natural del pelaje. Además, proporciona firmeza y elasticidad.
+- MODO DE EMPLEO: Humedecer el pelaje con abundante agua tibia. Aplicar el champú en cuello, lomo, manos y patas. Masajear hasta conseguir una abundante y cremosa espuma y dejar actuar unos instantes. Aclarar y dejar que el perro se sacuda. Secar con toalla.
 - PERROS BLANCOS y CLAROS: Champú de calidad para perros de colores blancos y tonos claros (Caniche, West Highland terrier, Sky Terrier)
 - MENFORSAN: En Menforsan nos preocupamos por la salud de los animales y el cuidado del planeta, por lo que creamos productos naturales vegan friendly de la mejor calidad.
-- MODO DE EMPLEO: Humedecer el pelaje con abundante agua tibia. Aplicar el champú en cuello, lomo, manos y patas. Masajear hasta conseguir una abundante y cremosa espuma y dejar actuar unos instantes. Aclarar y dejar que el perro se sacuda. Secar con toalla.
+- INCORPORA COLÁGENO NATURAL: El colágeno de su fórmula revitaliza, hidrata y recupera el aspecto sano y natural del pelaje. Además, proporciona firmeza y elasticidad.
 - INTENSIFICA Y REALZA EL BRILLO: Quita las anti-estéticas manchas grises y amarillas de los pelajes blancos intensificando y realzando el brillo y el color de manera natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})

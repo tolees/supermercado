@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dientes más blancos
+- Dientes más fuertes
 - Con Flúor y Minerales que son suaves con el esmalte
 - Pasta dental
+- Dientes más blancos
 - Protección anticaries
-- Dientes más fuertes
 - Dentifrico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

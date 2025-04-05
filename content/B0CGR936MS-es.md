@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 🏋️‍♀️ ALTO CONTENIDO EN PROTEÍNA. 28g de proteína por cada 100g.
 - 🔎INGREDIENTES. Pasta de cacao, concentrado de proteína de suero de leche (26%), edulcorante: maltitols (maltitol, steviol glycosides, dio de , manteca de cacao, fibra de achicoria, emulgentes: (lecitina (soja) y E476), edulcorante: glucósidos de esteviol procedentes de estevia y aroma.
-- "🧳FORMATO “ON-THE-GO”: Cada minitableta contiene 30g y son ideales para media mañana, en el gimnasio o llevarlas contigo a cualquier lugar."
-- "❤️DELICIOSO chocolate negro, 51% de cacao, con proteína. Perfecto para seguir disfrutando del placer y al mismo tiempo cuidarse."
 - ✅SIN GLUTEN. Perfecto para celiacos.
+- "❤️DELICIOSO chocolate negro, 51% de cacao, con proteína. Perfecto para seguir disfrutando del placer y al mismo tiempo cuidarse."
+- "🧳FORMATO “ON-THE-GO”: Cada minitableta contiene 30g y son ideales para media mañana, en el gimnasio o llevarlas contigo a cualquier lugar."
 - 🍫0% AZÚCARES AÑADIDOS. Sólo contine azúcares naturalmente presentes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

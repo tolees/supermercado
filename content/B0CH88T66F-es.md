@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto 1: Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente
-- producto 1: Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos.
+- producto 2: La bebida está hecha de cacao natural
 - producto 2: El producto no contiene azúcar añadido
 - producto 1: 507 raciones en su estuche de 7,1kg (contiene 4 bolsas).
+- producto 1: Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos.
+- producto 1: Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente
 - producto 1: El colacao de siempre, eso tan tuyo. la mezcla de sus ingredientes se realiza de manera natural y sin añadir aditivos. ideal para cualquier momento: desayuno, merienda, cena o como snack.
 - producto 2: El envase contiene polvo de cacao para 213 raciones
-- producto 2: La bebida está hecha de cacao natural
 - producto 2: Ideal para el desayuno o en cualquier momento del día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

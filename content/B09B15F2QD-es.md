@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Dulce e intenso aroma a fresa y nata, todo un sueño
-- Notas de fondo: Vainilla, gourmand, Azúcar
-- Notas de corazón: bizcocho, fresa dulce, frutos rojos
 - Contiene 50 ml. Dermatológicamente testada
-- Notas de salida: Nata lácteo
+- Notas de fondo: Vainilla, gourmand, Azúcar
 - Nombre de la fragancia: Afrutado
+- Notas de corazón: bizcocho, fresa dulce, frutos rojos
+- Notas de salida: Nata lácteo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09B15F2QD{{</world>}}

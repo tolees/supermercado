@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aprieta los poros y matifica la piel en solo 60 segundos
-- Para piel grasa
 - Proporciona una limpieza profunda que desobstruye los poros y reequilibra el aceite
+- Para piel grasa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07WK6TKRW{{</world>}}

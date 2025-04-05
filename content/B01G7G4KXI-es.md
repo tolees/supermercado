@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Proporciona un aliento fresco.
 - Este producto ayuda al cuidado higiénico de la dentatura de tu perro.
-- Dentrífico para perros con sabor a fresa, perfecta para limpiar y eliminar los microbios y gérmenes de la boca de tu mascota.
 - Ayuda a prevenir la placa y el sarro.
+- Dentrífico para perros con sabor a fresa, perfecta para limpiar y eliminar los microbios y gérmenes de la boca de tu mascota.
 - Tamaño: 100 gramos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

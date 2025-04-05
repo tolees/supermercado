@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alivia la tirantez, nutre y rehidrata durante 24 horas
-- Fórmula con aloe vera natural, activo hidratante enriquecido con vitaminas y minerales, conocido por sus propiedades calmantes y protectoras
 - Refresca la piel y mantiene sus niveles naturales de hidratación después de la exposición solar
 - Leche hidratante y calmante indicada para aplicar después de la exposición solar
+- Fórmula con aloe vera natural, activo hidratante enriquecido con vitaminas y minerales, conocido por sus propiedades calmantes y protectoras
+- Alivia la tirantez, nutre y rehidrata durante 24 horas
 - Textura no grasa ni pegajosa que se absorbe fácilmente en la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

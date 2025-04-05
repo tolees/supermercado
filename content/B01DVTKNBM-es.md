@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CARBOHIDRATOS COMPLEJOS: Junto con la Harina integral nuestros Protein pancakes contienen la combinación patentada ModCarb, lo que proporciona un 40% de carbohidratos complejos que nos permite obtener además un producto bajo en azúcares.
+- PROTEÍNA DE ALTO VALOR BIOLÓGICO: Nuestra fórmula permite un aporte óptimo de aminoácidos esenciales, debido a que combina harina de avena integral junto a las mejores fuentes de proteínas: suero, huevo y leche.
 - PROTEIN PANCAKE de Weider, compañía global pionera en nutrición deportiva y especializada con más de 83 años ofreciendo calidad e innovación.
 - CUIDA TU SALUD: Dirigido todo tipo de público, especialmente para todas aquellas personas que se preocupan por su bienestar y que necesiten un aporte extra de proteínas. Puedes realizar unas ricas tortitas con un delicioso sabor,en 2 minutos, son muy faciles de preparar.
-- PROTEÍNA DE ALTO VALOR BIOLÓGICO: Nuestra fórmula permite un aporte óptimo de aminoácidos esenciales, debido a que combina harina de avena integral junto a las mejores fuentes de proteínas: suero, huevo y leche.
 - RICAS EN PROTEÍNAS: Contiene un 35% de proteina frente al 22% otras marcas, esto se traduce en más proteinas y menos carbohidratos.
+- CARBOHIDRATOS COMPLEJOS: Junto con la Harina integral nuestros Protein pancakes contienen la combinación patentada ModCarb, lo que proporciona un 40% de carbohidratos complejos que nos permite obtener además un producto bajo en azúcares.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DVTKNBM{{</world>}}

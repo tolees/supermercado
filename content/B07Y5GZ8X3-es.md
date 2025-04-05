@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tostado con pasión y siguiendo la experta tradición vienesa desde 1929; suavemente aromatizado con un tostado de tambor a largo plazo
 - Granos de café cuidadosamente seleccionados (60 % arábica, 40 % robusta) para una mezcla perfectamente equilibrada: no demasiado fuerte, con la acidez suficiente, y con un sabor dulce de avellana natural
-- Todas nuestras variedades tienen la certificación UTZ como parte de Rainforest Alliance; llevamos la sostenibilidad y la responsabilidad medioambiental en nuestro corazón
-- Café Der-Franz con sabor a avellana natural: café tostado en granos enteros; intensidad 3 de 5; tostado 4 de 5; acidez 1 de 5; mezcla perfecta para Ristretto, Espresso, Lungo o Cappuccino
 - Granos Enteros Aromatizados con Avellana Natural
+- Café Der-Franz con sabor a avellana natural: café tostado en granos enteros; intensidad 3 de 5; tostado 4 de 5; acidez 1 de 5; mezcla perfecta para Ristretto, Espresso, Lungo o Cappuccino
+- Todas nuestras variedades tienen la certificación UTZ como parte de Rainforest Alliance; llevamos la sostenibilidad y la responsabilidad medioambiental en nuestro corazón
+- Tostado con pasión y siguiendo la experta tradición vienesa desde 1929; suavemente aromatizado con un tostado de tambor a largo plazo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07Y5GZ8X3{{</world>}}

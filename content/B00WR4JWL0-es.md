@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No enjuaga la cara, los ojos y los labios
 - Purifica, limpia y elimina en un solo gesto
 - Partículas de limpieza activa que actúan como imanes
+- No enjuaga la cara, los ojos y los labios
 - Captura el exceso de maquillaje, impurezas y sebo en la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

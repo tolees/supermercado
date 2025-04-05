@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Office Products 22021229-05 Bolsas de basura para oficis, fáciles de colocar y de llevar
-- Tamaño: 57 x 70 cm
-- Grosor de la película: 20 μm
-- Capacidad: 60 litros
 - Color: . Color: .
+- Grosor de la película: 20 μm
+- Office Products 22021229-05 Bolsas de basura para oficis, fáciles de colocar y de llevar
+- Capacidad: 60 litros
+- Tamaño: 57 x 70 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08H2GCHJ4{{</world>}}

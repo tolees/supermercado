@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene ingredientes para el cuidado de la piel: aloe activo, vitamina E y extracto de cactus
-- Aplicar el acondicionador con un ligero masaje sobre el cabello y el cuero cabelludo, dejando que la fórmula hidratante actúe durante unos minutos antes de aclarar
 - Nutre el cabello y el cuero cabelludo secos para un pelo con movimiento y sin caspa*. * Caspa visible, con un uso regular
 - Acondicionador hidratante para el cabello y el cuero cabelludo
+- Contiene ingredientes para el cuidado de la piel: aloe activo, vitamina E y extracto de cactus
 - Proporciona la máxima hidratación para el cabello y el cuero cabelludo. Para mejores resultados, usar con el champú DERMAXPRO
+- Aplicar el acondicionador con un ligero masaje sobre el cabello y el cuero cabelludo, dejando que la fórmula hidratante actúe durante unos minutos antes de aclarar
 - Con un ingrediente activo clínicamente probado: la piroctona olamina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

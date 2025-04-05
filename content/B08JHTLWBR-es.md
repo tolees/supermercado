@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lata y tapa 100% reciclables
 - Con vitamina D, un nutriente esencial que ayuda al sistema inmunológico y aumenta la absorción de calcio, para unos huesos sanos y fuertes
-- Disfruta con el delicioso sabor a chocolate NESQUIK Instantáneo
-- Pensamos en nuestros consumidores celíacos, por eso apostamos por un producto sin gluten
 - Cacao natural obtenido de forma sostenible, certificado por Rainforest Alliance
+- Pensamos en nuestros consumidores celíacos, por eso apostamos por un producto sin gluten
+- Disfruta con el delicioso sabor a chocolate NESQUIK Instantáneo
+- Lata y tapa 100% reciclables
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08JHTLWBR{{</world>}}

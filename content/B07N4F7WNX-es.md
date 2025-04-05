@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con enzimas que eliminan las proteínas de la leche
-- Se aclara con facilidad, por lo que no deja residuos.
-- Ingredientes: Tensioactivos aniónicos menos del 5%, Tensioactivos no iónicos menos del 5%. Contiene: Enzimas, Potassium Sorbate (Sorbato potásico), Formic Acid (Ácido fórmico). *% incorporando el agua.
-- Pack de 3 botellas de detergente limpia biberones de 500 ml para biberones y tetinas. Hemos cambiado el envase de nuestro detergente, puede que recibas un producto con un envase diferente al de la imagen.
-- Dermatológicamente testado, presenta muy buena compatibilidad cutánea.
-- Textura gel que mejora la dosificación sin desperdiciar producto.
 - Limpia en profundidad los restos de leche, papilla y zumo, así como los restos de comida de la vajilla infantil. Indicado también para el lavado profundo de extractores de leche y otros accesorios como chupetes, mordedores o sonajeros.
-- Sin perfumes. Sin fosfatos. Sin colorantes. Sin glicoles. Sin trietanolamina.
 - Formato de cada botella de limpiabiberones y tetinas: 500 ml
 - Formulado con 96% de ingredientes de origen naturales. Testado deratológicamente.
+- Pack de 3 botellas de detergente limpia biberones de 500 ml para biberones y tetinas. Hemos cambiado el envase de nuestro detergente, puede que recibas un producto con un envase diferente al de la imagen.
+- Sin perfumes. Sin fosfatos. Sin colorantes. Sin glicoles. Sin trietanolamina.
+- Con enzimas que eliminan las proteínas de la leche
+- Textura gel que mejora la dosificación sin desperdiciar producto.
+- Se aclara con facilidad, por lo que no deja residuos.
+- Ingredientes: Tensioactivos aniónicos menos del 5%, Tensioactivos no iónicos menos del 5%. Contiene: Enzimas, Potassium Sorbate (Sorbato potásico), Formic Acid (Ácido fórmico). *% incorporando el agua.
+- Dermatológicamente testado, presenta muy buena compatibilidad cutánea.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07N4F7WNX{{</world>}}

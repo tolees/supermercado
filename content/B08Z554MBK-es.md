@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con aceites esenciales y extractos vegetales
-- Cuida tu piel
-- Abundante espuma para una limpieza eficaz
 - Limpia en profundidad
-- Jabón de manos Moussel Limpieza+ 300ml
 - Inspirado en los mejores ingredientes de la naturaleza
+- Cuida tu piel
+- Con aceites esenciales y extractos vegetales
+- Jabón de manos Moussel Limpieza+ 300ml
+- Abundante espuma para una limpieza eficaz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08Z554MBK{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cantidad: 1 unidad
-- Género: mujer
-- Marca: Max Factor
 - Tipo de producto: colorete
+- Marca: Max Factor
+- Género: mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B017BCL39Q{{</world>}}

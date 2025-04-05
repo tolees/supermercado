@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CERTIFICADO RAINFOREST ALLIANCE: El café que obtenemos para este producto está certificado por Rainforest Alliance, lo que significa que no solo sabe bien, también es bueno. Con cada compra, está ayudando a cientos de agricultores y sus familias en todo el mundo, además, también está aportando su granito de arena a la selva tropical: beba mejor, hágalo mejor
+- Cafe de colombia. Tostado y envasado en Bélgica
 - 2 paquetes: 2 x 500g, total 1kg
 - Apto para todas las preparaciones dependiendo de la molienda. Expreso = bien. Filtro = medio. Moka italiano = medio. Cafetera = gruesa
-- Cafe de colombia. Tostado y envasado en Bélgica
-- 100 % Arábica
 - Intensidad: 4/5
 - El café tiene una acidez bien redondeada con dulzura equilibrada y cuerpo completo
+- CERTIFICADO RAINFOREST ALLIANCE: El café que obtenemos para este producto está certificado por Rainforest Alliance, lo que significa que no solo sabe bien, también es bueno. Con cada compra, está ayudando a cientos de agricultores y sus familias en todo el mundo, además, también está aportando su granito de arena a la selva tropical: beba mejor, hágalo mejor
+- 100 % Arábica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHSRPJMJ{{</world>}}

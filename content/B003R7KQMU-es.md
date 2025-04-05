@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Procedencia: RUMANIA
 - Sabor: Único
-- Especialidad: Sin trigo
 - Plumas sammills sin gluten (macarrones)
+- Especialidad: Sin trigo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B003R7KQMU{{</world>}}

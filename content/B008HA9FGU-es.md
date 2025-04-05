@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Blanqueamiento instantáneo
 - Para uso diario
 - Sabor suave en tu boca
+- Blanqueamiento instantáneo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B008HA9FGU{{</world>}}

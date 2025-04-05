@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Perfume fresco y duradero
 - Fórmula concentrada con enzimas proactivas con gran poder antimanchas, que limpia y protege la ropa, aumentando la blancura y luminosidad de los tejidos Apto para ciclos cortos y lavados a bajas temperaturas
 - Máxima blancura y luminosidad en tu ropa Eficaz en ropa blanca y de color
-- Jabón 100% natural para toda la familia
 - Detergente líquido para el lavado de ropa a mano o a máquina Hasta 50 lavados
+- Jabón 100% natural para toda la familia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09ZV6TLJX{{</world>}}

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Conservar en lugar fresco y seco
 - Producto envasado en atmósfera protectora
+- Sin colorantes artificiales
 - Patatas fritas con sal
 - Edición gourmet
-- Sin colorantes artificiales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XDQPBX4{{</world>}}

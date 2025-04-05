@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SABOR ÚNICO SIN AZÚCAR: Todo el sabor de nuestra bebida de Avena, ahora sin azúcar.
-- 100% CULTIVO LOCAL: La única bebida de Avena con Avena 100% cultivada en España, concretamente de Castilla y León, Aragón y Navarra.
 - INFORMACIÓN NUTRICIONAL. Sin azúcar. Alto contenido en Calcio y vitamina D. Fuente de vitamina B12.
-- INGREDIENTES: Agua, avena (9 %), fibra, aceite de girasol, fostato tricálcico, estabilizante (goma gellan), aroma, sal y vitaminas D, B12.
 - IDEAL PARA: Para tomar desayuno, acompañarlo con tu café favorito, o como snack durante el día.
+- SABOR ÚNICO SIN AZÚCAR: Todo el sabor de nuestra bebida de Avena, ahora sin azúcar.
+- INGREDIENTES: Agua, avena (9 %), fibra, aceite de girasol, fostato tricálcico, estabilizante (goma gellan), aroma, sal y vitaminas D, B12.
+- 100% CULTIVO LOCAL: La única bebida de Avena con Avena 100% cultivada en España, concretamente de Castilla y León, Aragón y Navarra.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B18QNKB9{{</world>}}

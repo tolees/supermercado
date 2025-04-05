@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Destacan los aromas frutales (manzana Granny Smith) y florales como la verbena, con notas dulces a almendra fresca
+- Equilibrado, fresco, cremoso y de prolongado recuerdo
 - Consumir frío (entra 6- 8C); si es necesario, enfriar durante un par de horas en una cubitera con agua, sal y hielo; evitar enfriamientos bruscos en el congelador; se puede almacenar verticalmente
 - Amarillo pálido con burbuja muy fina y persistente
-- Equilibrado, fresco, cremoso y de prolongado recuerdo
 - Varietales: macabeo-Xarel-lo-Parellada
-- Destacan los aromas frutales (manzana Granny Smith) y florales como la verbena, con notas dulces a almendra fresca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08Q1M7CJS{{</world>}}

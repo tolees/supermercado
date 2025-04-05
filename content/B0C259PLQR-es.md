@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Champú Antiencrespamiento de la marca IDC Institute
-- Medidas: 4 x 16 x 4 centímetros
 - Referencia del fabricante: S05105497
+- Medidas: 4 x 16 x 4 centímetros
 - ¡Si quieres mejorar tu imagen y realzar la belleza de tu cabello!
 - Color: multicolor
 

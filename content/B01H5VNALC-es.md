@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 300 ml
+- Formulado con Leche de Avena, conocida por sus virtudes de ciudado y protección del cabello; y con Crema de Arroz, utilizada en el cuidado de las pieles delicadas y conocida por calmar y suavizar el cuero cabelludo sensible
 - Aplicar sobre cabello mojado después del champú, masajeando de largos a puntas. Dejar actuar de 2 a 3 minutos y luego aclarar
 - La Mascarilla Capilar hidrata, da brillo y calma el cuero cabelludo, protegiendo y reduciendo la sensación de picor en tu pelo
-- Formulado con Leche de Avena, conocida por sus virtudes de ciudado y protección del cabello; y con Crema de Arroz, utilizada en el cuidado de las pieles delicadas y conocida por calmar y suavizar el cuero cabelludo sensible
-- 300 ml
 - Envase 100% reciclable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

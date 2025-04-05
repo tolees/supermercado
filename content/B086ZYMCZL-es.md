@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene betaglucanos, es un tipo de fibra soluble que se encuentra de forma natural en la avena ayudando al organismo a disminuir los niveles de colesterol en sangre y el índice glucémico, mejorando el control del azúcar
-- Envasado en atmósfera protectora.
 - Térmicamente tratada. Lista para consumir sin necesidad de cocción. Para añadir directamente a batidos, yogures, cremas, etc. Atrévete con bizcochos, panes, galletas, batidos o todo lo que imagines de la manera más nutritiva
+- Envasado en atmósfera protectora.
+- Contiene betaglucanos, es un tipo de fibra soluble que se encuentra de forma natural en la avena ayudando al organismo a disminuir los niveles de colesterol en sangre y el índice glucémico, mejorando el control del azúcar
 - Alto contenido en fibra y fuente de proteínas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

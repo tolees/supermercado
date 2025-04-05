@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aussie se enorgullece de ser una marca libre de crueldad animal certificada por PETA
-- Con A de Aussie, de Australia, de ingredientes Auténticos y de Asombrosa Actitud Australiana
-- Para pelo seco y apagado que necesita nutrición y brillo
 - Con extractos de Semilla de Cáñamo Australiano y Ciruela Salvaje
+- Aussie se enorgullece de ser una marca libre de crueldad animal certificada por PETA
+- Para pelo seco y apagado que necesita nutrición y brillo
 - Acondicionador para pelo decolorado, rubio y plateado
+- Con A de Aussie, de Australia, de ingredientes Auténticos y de Asombrosa Actitud Australiana
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TWPZT99{{</world>}}

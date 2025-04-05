@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PROTEÍNAS: con proteínas y calcio que contribuyen al mantenimiento y funcionamiento normal de los músculos
+- HMB: cada toma contiene 1.5 g de CaHMB
 - 27 VITAMINAS Y MINERALES: complemento alimenticio en polvo que contiene 27 vitaminas y minerales, incluyendo vitamina C que apoya el sistema inmunitario; las vitaminas B2, B6, B12 y ácido pantoténico contribuyen a la reducción del cansancio y la fatiga
 - Sin gluten y APTO PARA INTOLERANTES A LA LACTOSA
-- HMB: cada toma contiene 1.5 g de CaHMB
-- SABOR: delicioso sabor a vainilla
+- PROTEÍNAS: con proteínas y calcio que contribuyen al mantenimiento y funcionamiento normal de los músculos
 - CALCIO Y VITAMINA D: con calcio y vitamina D que contribuyen al funcionamiento normal de músculos y huesos
+- SABOR: delicioso sabor a vainilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00P2HM32Y{{</world>}}

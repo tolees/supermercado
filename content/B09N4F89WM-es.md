@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Fórmula patentada con memoria Memory Curl que mantiene la curvatura congelada y su cepillo Curl NBounce ha sido desarrollado para reforzar esa curvatura, Retirar con Agua Micelar
 - Máscara de pestañas Colossal de hasta 24H de duración para unas pestañas en bucle y una curvatura a todo volumen
-- Aplicar desde la raíz hasta las puntas en zig zag para repartir la fórmula entre las pestañas, repetir hasta 2 veces más girando el cepillo para potenciar la curvatura
 - Pestañas rizadas al instante, sin grumos, con una curvatura a todo volumen y selladas para mantenerse a lo largo de las horas
 - Contenido: 1x Maybelline New York, Máscara de Pestañas para Sellar el Rizo al instante, Colossal Curl Bounce, Turn it Up, Tono Very Black, 9.5 ml
+- Aplicar desde la raíz hasta las puntas en zig zag para repartir la fórmula entre las pestañas, repetir hasta 2 veces más girando el cepillo para potenciar la curvatura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09N4F89WM{{</world>}}

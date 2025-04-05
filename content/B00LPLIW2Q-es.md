@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - De la marca Instituto Español
-- Este producto está indicado tanto para mujeres como para hombres
 - Contiene 750 ml
+- Este producto está indicado tanto para mujeres como para hombres
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00LPLIW2Q{{</world>}}

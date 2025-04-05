@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Con espuma cremosa
 - Elaborada según una receta tradicional
-- Sabor agradable y buen equilibrio en boca
-- Contiene una gran cantidad de malta y maíz
 - Ideal para servir fría
+- Contiene una gran cantidad de malta y maíz
+- Sabor agradable y buen equilibrio en boca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CZQQXTY{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sombra de ojos suave que no cuartea
+- No cuartea ni pliega en todo el día
 - Una textura suave que difumina como un sueño
 - Con primer integrado para el párpado
+- Sombra de ojos suave que no cuartea
 - Para un color construible que puedas controlar
-- No cuartea ni pliega en todo el día
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PX3KYPS{{</world>}}

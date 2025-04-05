@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tres productos mezclables diseñados para usarse solos, juntos o unos sobre otros
-- Glam Attack: Para usar como color, aplicar en las áreas del rostro que se quieran amplificar
 - RIP Lip Liner: Para usarlo como delineador, dibujar dentro o fuera del contorno de los labios
 - Le Riot Lip Gloss: Para usarlo como brillo, usar el aplicador sobre los labios desnudos
+- Glam Attack: Para usar como color, aplicar en las áreas del rostro que se quieran amplificar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07RV929VT{{</world>}}

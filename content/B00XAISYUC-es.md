@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fue desarrollada especialmente para hombres
 - Agua de colonia concentrada
 - Combina acordes agrestes con un fondo amaderado
 - Con notas de musk blanco
-- Fue desarrollada especialmente para hombres
 - Ofrece un aroma masculino y refrescante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

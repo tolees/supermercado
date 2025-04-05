@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este producto está indicado para mujeres.
 - De la marca Givenchy.
 - Las notas olfativas principales de este producto son floral y afrutado.
+- Este producto está indicado para mujeres.
 - Contiene 100 ml.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

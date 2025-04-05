@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- DELICIOSO POSTRE - Perfectas para disfrutarlas como postre, acompañadas de una taza de café caliente. Puede añadirse una galleta de coco al helado para una deliciosa combinación. Perfectas para servir con una tabla de quesos. Llévalas contigo vayas donde vayas. Ideal para el recreo en el colegio o de picnic.
+- HECHO EN ESPAÑA - Fabricado de forma local en las islas Canarias. Tirma es una marca española con más de 80 años de experiencia en el mercado de los productos de confitería. Entre su gama de productos de gran calidad, destacan las ambrosías, uno de los dulces más típicos de Canarias.
 - TEXTURA CRUJIENTE - Galletas suaves y crujientes, de delicioso sabor a coco y cubiertas con una fina capa de chocolate. Estas galletas son aptas para personas vegetarianas, ya que están elaboradas sin huevo.
 - FORMATO INDIVIDUAL - La caja contiene 6 packs envasados individualmente, con 4 galletas cada uno. Un formato perfecto para llevarlo en el bolso o la mochila y comerlas en cualquier momento con la mayor comodidad.
 - CHOCOLATE Y COCO - Deliciosas galletas de coco bañadas en chocolate con leche, para una combinación irresistible de sabores que nunca pasa de moda. Perfectas para desayunar o para tomar el té.
-- DELICIOSO POSTRE - Perfectas para disfrutarlas como postre, acompañadas de una taza de café caliente. Puede añadirse una galleta de coco al helado para una deliciosa combinación. Perfectas para servir con una tabla de quesos. Llévalas contigo vayas donde vayas. Ideal para el recreo en el colegio o de picnic.
-- HECHO EN ESPAÑA - Fabricado de forma local en las islas Canarias. Tirma es una marca española con más de 80 años de experiencia en el mercado de los productos de confitería. Entre su gama de productos de gran calidad, destacan las ambrosías, uno de los dulces más típicos de Canarias.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B098F4N9DY{{</world>}}

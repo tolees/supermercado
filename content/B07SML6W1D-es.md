@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para pieles sensibles y secas que no toleran productos clásicos de higiene
+- Ph neutro que mantiene el ph fisiológico de la piel
 - Se enjuaga con agua y no deja residuos, ideal para el rostro y el cuerpo
 - No comedogénico
-- Ph neutro que mantiene el ph fisiológico de la piel
 - Limpia con suavidad sin irritar y aporta hidratación
+- Adecuado para pieles sensibles y secas que no toleran productos clásicos de higiene
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SML6W1D{{</world>}}

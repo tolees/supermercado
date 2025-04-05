@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Glucemia “boderline”: útil en todas las situaciones con valores de glucemia límite, incluso en el embarazo.
 - 30 comprimidos. Sin gluten - Apto para veganos - Naturalmente sin lactosa
-- Complemento alimenticio a base de Gymnena, Canelo, Morera blanca, Patata dulce y Cromo
 - Gymnema, Canelo, Morera y Patata contribuyen al metabolismo de carbohidratos
 - Triple acción: mantiene los niveles normales de glucosa en sangre, limita la absorción de nutrientes y regula el metabolismo de los hidratos de carbono
+- Complemento alimenticio a base de Gymnena, Canelo, Morera blanca, Patata dulce y Cromo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BDOO0V6{{</world>}}

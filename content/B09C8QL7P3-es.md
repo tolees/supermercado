@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La combinación con extracto de Cola de Caballo crea una sinergia que reafirma y protege la piel.
 - Fórmula exclusiva basada en Aloe Vera y Vitamina E, que aportan propiedades antioxidantes y regeneradoras a la piel.
 - Para todo tipo de pieles, incluso las más sensibles.
-- La combinación con extracto de Cola de Caballo crea una sinergia que reafirma y protege la piel.
 - Leche corporal de Babaria que reafirma y protege la piel.
 - Especialmente indicado para pieles flácidas.
 

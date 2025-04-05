@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ideales para acompañar con verduras salteadas o con una sopa
-- Vegetariano
-- Los beneficios más conocidos de este producto es que ayuda a la pérdida de peso, disminución del colesterol, control de la diabetes y la regulación gastrointestinal.
 - País de origen: China
+- Los beneficios más conocidos de este producto es que ayuda a la pérdida de peso, disminución del colesterol, control de la diabetes y la regulación gastrointestinal.
 - La siguiente información se aplica a cada unidad del paquete
 - Vegano
+- Vegetariano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN2RLTP1{{</world>}}

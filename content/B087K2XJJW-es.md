@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Condición física óptima: Nivel de proteínas y calorías adaptado a su nivel de actividad
 - Pelo brillante y piel cuidada: Ácidos grasos omega-3 y omega-6, biotina y zinc
 - Dientes y huesos fuertes: Contribuye a mantener unos dientes y huesos fuertes gracias a los minerales y la vitamina D
-- Pienso para perros adultos medianos y grandes (+10kg)
+- Condición física óptima: Nivel de proteínas y calorías adaptado a su nivel de actividad
 - Contribuye a una buena digestión: Gracias a su receta que contiene fibras como la pulpa de remolacha
+- Pienso para perros adultos medianos y grandes (+10kg)
 - Con ingredientes de calidad adecuada: Con ingredientes seleccionados de calidad adecuada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

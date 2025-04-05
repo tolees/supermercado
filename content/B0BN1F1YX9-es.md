@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Textura cremosa
-- Bálsamo con color, hidratante y nutritivo
 - Fórmula vegana, clean y fabricado con ingredientes reciclados y reciclables
+- Bálsamo con color, hidratante y nutritivo
 - Color jugoso y brillante
 - Cobertura ligera que se adapta al color natural de tus labios
+- Textura cremosa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BN1F1YX9{{</world>}}

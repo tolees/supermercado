@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: poliuretano
-- Peso en kg: 0,89
 - Volumen en litros: 11,4
-- Serie: Noelle
 - Dimensiones: 26 x 34 x 13 cm
+- Material: poliuretano
+- Serie: Noelle
+- Peso en kg: 0,89
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS55DDDT{{</world>}}

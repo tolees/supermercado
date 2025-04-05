@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🪴INGREDIENTES PROCEDENTES DE AGRICULTURA ECOLÓGICA: El 20,61 % del total de los ingredientes procede de la Agricultura Ecológica. El 97,41% del total es de origen natural. COSMOS ORGANIC certificado por Ecocert Greenlife. VEGANO
 - 🔝FÓRMULA SUAVE Y DELICADA: La fórmula de Drasanvi Gel Íntimo es suave y está libre de jabones agresivos, respetando el pH natural de la piel y evitando irritaciones, ideal para uso diario. A base de aloe vera ecológico, extracto de caléndula ecológico, extracto de olivo ecológico, aceite esencial de árbol de té ecológico, aceite esencial de lavanda ecológico, aceite esencial de geranio ecológico y extracto de hamamelis
-- 💧 MODO DE USO: Uso externo. Aplicar sobre la zona a limpiar, previamente humedecida con agua. Aclarar con abundante agua y secar bien la zona
-- 🌿 MARCA DRASANVI: Compañía española especializada a nivel nacional e internacional en el desarrollo, distribución y comercialización de Suplementos Alimenticios, Nutrición Deportiva, Alimentación Bio y Cosmética Eco. Nuestra dedicación a la calidad está respaldada por las certificaciones ISO 9001 y 14001, garantizando que cumplimos con rigurosos estándares internacionales en gestión de calidad y medio ambiente. En Drasanvi, ofrecemos productos de la más alta calidad de manera sostenible
 - 🌹EQUILIBRIO NATURAL : Enriquecido con prebióticos, el gel intimo ayuda a mantener el equilibrio de la flora vaginal, previniendo desequilibrios y proporcionando una sensación de frescura duradera
 - 🌸 HIGIENE Y PROTECCION AVANZADA: El Gel íntimo de Drasanvi, refresca y nutre intensamente la piel, ayudando a recuperar la vitalidad natural de nuestra dermis. Además, tiene funciones calmantes, reparadoras y protectoras
+- 🌿 MARCA DRASANVI: Compañía española especializada a nivel nacional e internacional en el desarrollo, distribución y comercialización de Suplementos Alimenticios, Nutrición Deportiva, Alimentación Bio y Cosmética Eco. Nuestra dedicación a la calidad está respaldada por las certificaciones ISO 9001 y 14001, garantizando que cumplimos con rigurosos estándares internacionales en gestión de calidad y medio ambiente. En Drasanvi, ofrecemos productos de la más alta calidad de manera sostenible
+- 🪴INGREDIENTES PROCEDENTES DE AGRICULTURA ECOLÓGICA: El 20,61 % del total de los ingredientes procede de la Agricultura Ecológica. El 97,41% del total es de origen natural. COSMOS ORGANIC certificado por Ecocert Greenlife. VEGANO
+- 💧 MODO DE USO: Uso externo. Aplicar sobre la zona a limpiar, previamente humedecida con agua. Aclarar con abundante agua y secar bien la zona
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TSPZ1CK{{</world>}}

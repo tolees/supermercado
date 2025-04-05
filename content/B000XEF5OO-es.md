@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- It is recommended for daytime wear.
 - Launched by the design house of Moschino in the year 2004
+- It is recommended for daytime wear.
 - This floral woody musk fragrance has a blend of fresh flowers, lily of the valley, bulrush, tea rose, cinnamon, musk, and cedar notes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

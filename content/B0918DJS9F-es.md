@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se recomienda usar después del champú y acondicionador de la misma gama. Separar en mechonesy aplicar en la raíz en las zonas donde se desea mayor elevación.
 - Spray voluminizador antigravedad enriquecido con Intra-Cyclane y con ácido salicílico para aportar un volumen de vértigo de raíz a puntas. Eleva el pelo desde la raíz para un brillo y un efecto de volumen duradero.
 - Para un aumento visible del volumen. Aporta cuerpo al cabello.
+- Se recomienda usar después del champú y acondicionador de la misma gama. Separar en mechonesy aplicar en la raíz en las zonas donde se desea mayor elevación.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0918DJS9F{{</world>}}

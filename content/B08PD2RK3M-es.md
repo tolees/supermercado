@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lo Zoccolaio Barolo DOCG Riserva Ravera en Estuche de Madera - Vino Tinto Italiano
-- Bouquet: intenso y complejo pero delicado y etéreo al mismo tiempo
-- Sabor: cálido, completo y seco
-- Contenido de alcohol (alc/vol): 14.5 percent by volume
-- Uvas: Nebbiolo
 - Color: rojo granate con tonos naranja ladrillo que se intensifican con el tiempo
+- Lo Zoccolaio Barolo DOCG Riserva Ravera en Estuche de Madera - Vino Tinto Italiano
+- Uvas: Nebbiolo
+- Sabor: cálido, completo y seco
+- Bouquet: intenso y complejo pero delicado y etéreo al mismo tiempo
+- Contenido de alcohol (alc/vol): 14.5 percent by volume
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PD2RK3M{{</world>}}

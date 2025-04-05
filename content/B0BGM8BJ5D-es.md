@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Una auténtica delicia navideña perfecta para compartir!
+- Sin gluten; Sin colorantes ni conservantes; Sin aceite de palma
 - ¡Déjate conquistar por el contraste entre suave y crujiente!
 - Barra artesanal de Turrón friable con Avellanas del Piamonte IGP, relleno de Gianduja y cubierto de Chocolate
-- Sin gluten; Sin colorantes ni conservantes; Sin aceite de palma
+- ¡Una auténtica delicia navideña perfecta para compartir!
 - Elaborado en Italia según la regla del «Buono Buonissimo» (ingredientes naturales, con menos azúcares y sin aditivos artificiales)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

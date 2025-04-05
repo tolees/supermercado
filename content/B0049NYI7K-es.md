@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Si quieres darle un capricho a alguien, regálale el licor de crema celebrado del mundo
-- Licor de crema de whisky irlandesa con sutiles toques vainilla y chocolate; el ingrediente idóneo para cualquier ocasión, ya sea en un bizcocho o postre, en un cóctel o solo con hielo
+- Desde octubre de 2022, Baileys es una empresa certificada B Corp, resultado de su fuerte compromiso para crear una economía más inclusiva, regenerativa y equitativa para las personas y el planeta
 - Baileys Original tardó cuatro años en alcanzar la perfección, para erigirse como la combinación de whisky irlandés de triple destilación y nata fresca irlandesa de primera calidad
 - Textura suave sedosa, intensos aromas de vainilla y chocolate y un final cremoso
 - Disfrútalo solo con hielo o añádelo a tu café; evita mezclarlo con cítricos o bebidas ácidas
-- Desde octubre de 2022, Baileys es una empresa certificada B Corp, resultado de su fuerte compromiso para crear una economía más inclusiva, regenerativa y equitativa para las personas y el planeta
+- Si quieres darle un capricho a alguien, regálale el licor de crema celebrado del mundo
+- Licor de crema de whisky irlandesa con sutiles toques vainilla y chocolate; el ingrediente idóneo para cualquier ocasión, ya sea en un bizcocho o postre, en un cóctel o solo con hielo
 - Baileys Irish Cream es un licor de crema de whisky que ha sido galardonado año tras año desde 2003 en la San Francisco World Spirits Competition; acumula más medallas que cualquiera de sus competidores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

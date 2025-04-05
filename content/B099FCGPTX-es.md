@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Fabricado en el Reino Unido: todas las pinturas faciales Snazaroo se fabrican en el Reino Unido utilizando sólo ingredientes aprobados totalmente compatibles con la Administración de Alimentos y Medicamentos de los Estados Unidos (FDA) y las regulaciones de juguetes y cosméticos, y no son tóxicas
 - Fácil de seguir: se incluye una guía de pintura facial que incluye diseños que se pueden lograr en 3 sencillos pasos; este kit también incluye plantillas fáciles de seguir para optimizar la transformación cada vez
 - Adecuado para pieles sensibles: las pinturas faciales Snazaroo están especialmente formuladas para ser amigables con la piel delicada y no tienen fragancias; todas las pinturas faciales Snazaroo han sido revisadas por un profesional independiente de dermatología y toxicologistas profesionales
-- Lavable: las pinturas faciales Snazaroo son a base de agua; esto hace que sean tan fáciles de quitar como de poner; simplemente con jabón y agua tibia o una toallita; no hay necesidad de frotar o usar productos agresivos
 - Unicornios y mariposas: a tu hijo le encantará saltar de nube a nube como un unicornio mágico o llegar al cielo como una mariposa aleteante; el kit de pintura facial de unicornios y mariposas tiene una mezcla de colores pastel, brillantes y metálicos que realmente cobran vida
+- Lavable: las pinturas faciales Snazaroo son a base de agua; esto hace que sean tan fáciles de quitar como de poner; simplemente con jabón y agua tibia o una toallita; no hay necesidad de frotar o usar productos agresivos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099FCGPTX{{</world>}}

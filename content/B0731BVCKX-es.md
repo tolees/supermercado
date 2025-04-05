@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología infrarrojos que neutraliza hasta un 98% los rayos UV
-- Combate las líneas expresión primeras arrugas
 - Crema arrugas
+- Combate las líneas expresión primeras arrugas
+- Tecnología infrarrojos que neutraliza hasta un 98% los rayos UV
 - Crema hidratante y protectora de uso diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

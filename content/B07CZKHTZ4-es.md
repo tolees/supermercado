@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caja con 24 alfajores de chocolate negro (24x50gr).
 - Bañados con chocolate negro.
 - Ideales para el desayuno, la merienda o como postre.
 - Rellenos con dulce de leche Mardel.
+- Caja con 24 alfajores de chocolate negro (24x50gr).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07CZKHTZ4{{</world>}}

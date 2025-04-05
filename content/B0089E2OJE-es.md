@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ideal como regalo
-- Sabor intenso de miel y final de frutos secos
-- Se puede beber seco
 - Se puede usar para preparar cócteles
+- Sabor intenso de miel y final de frutos secos
 - Tiene un color dorado
+- Se puede beber seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0089E2OJE{{</world>}}

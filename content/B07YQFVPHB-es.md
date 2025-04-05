@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Desmaquillador para limpieza de maquillaje resistente al agua y de larga duración
 - Elimina fácilmente los restos de maquillaje sin dejar una película grasa
 - Apto para usuarios de lentes de contacto
+- Desmaquillador para limpieza de maquillaje resistente al agua y de larga duración
 - Enriquecido con aceites naturales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Alto contenido proteínico: 16 g de proteínas por cada barrita
+- Máx. 1,2 g de azúcar por cada barrita
 - Contenido reducido de hidratos de carbono: contiene un 30 % menos de hidratos de carbono que las barritas de chocolate tradicionales
 - Con dos cremosas capas de proteínas y un ligero crocante
-- Máx. 1,2 g de azúcar por cada barrita
-- Alto contenido proteínico: 16 g de proteínas por cada barrita
 - Sin aceite de palma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

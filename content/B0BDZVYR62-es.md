@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Personaliza la intensidad de la fragancia según la cantidad de perlas que uses
 - Pueden añadirse a todas las coladas con todo tipo de tejidos
-- Perlas de perfume para la colada con un frescor suave y duradero
 - Perlas Lenor Cotton Fresh con 0 percent de tintes
+- Personaliza la intensidad de la fragancia según la cantidad de perlas que uses
+- Perlas de perfume para la colada con un frescor suave y duradero
 - Botella de plástico 100 percent reciclado, (excepto el dosificador, el tapón de rosca y la cubierta)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

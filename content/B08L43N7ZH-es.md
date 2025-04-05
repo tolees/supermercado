@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De textura crujiente
-- Conservar en un lugar fresco y seco
 - Con sabor Original
+- De textura crujiente
 - Ideal para compartir
+- Conservar en un lugar fresco y seco
 - Hecho de maíz
 
 [🛒 Visítala!!!]({{< param buyurl >}})

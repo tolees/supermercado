@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color y comodidad
-- Se desliza suavemente y su aplicación es precisa
 - Dura hasta 10 horas
+- Se desliza suavemente y su aplicación es precisa
 - Brinda un color de alto impacto
+- Color y comodidad
 - Textura cremosa y ligera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

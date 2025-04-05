@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aplicador de gran precisión para dar color a los labios con una sola pasada
-- Cuenta con el certificado halal
-- Apto para veganos, sin ingredientes de origen animal
-- Usa el perfilador para dar volumen y definir los labios
 - Barra de labios con fórmula líquida y pigmentos de larga duración para un color uniforme y una fijación duradera
+- Cuenta con el certificado halal
+- Usa el perfilador para dar volumen y definir los labios
+- Apto para veganos, sin ingredientes de origen animal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08DB1PC1D{{</world>}}

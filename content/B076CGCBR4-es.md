@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El triptófano actúa como precursor de la serotonina, un neurotransmisor implicado en la regulación del estado anímico, el estrés, y el descanso.
-- El magnesio contribuye a disminuir el cansancio y la fatiga.
 - Los aminoácidos son imprescindibles para muchos de los procesos de nuestro metabolismo
+- El triptófano actúa como precursor de la serotonina, un neurotransmisor implicado en la regulación del estado anímico, el estrés, y el descanso.
 - C/ Nau Santa Maria, 1 Bajos - 08017 Barcelona (Espana)
 - El L-triptófano es un aminoácido esencial, lo que significa que nuestro organismo no puede producirlo por sí mismo y debe ser adoptado de manera exógena al organismo.
 - La melatonina es una hormona que mejora la calidad del sueño y refuerza el sistema inmunológico. El triptófano con magnesio y vitamina B6, ayuda a la producción de esta dentro del organismo.
+- El magnesio contribuye a disminuir el cansancio y la fatiga.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B076CGCBR4{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - Ajuste regular
+- Tiene detalles distintivos de la marca
 - Un acogedor gorro con un puño plegable y un par de botines con puños en el tobillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FORMATO INDIVIDUAL - Envasado en formato monodosis, en cómodos paquetes individuales ideales para llevar en el bolso o la mochila, y perfectos para compartir. Gracias a su envase individual, cada mini tableta se mantiene fresca hasta el momento de su consumo, para que puedas llevarlas contigo y disfrutarlas en cualquier momento.
 - IDEAS PARA REGALAR Y SERVIR - El perfecto capricho durante el café matutino, para satisfacer las ganas de dulce por la tarde o acompañando una tabla de quesos. Puede añadirse un trozo de tableta de chocolate negro al helado, o añadir virutas a su chocolate caliente. Ideal para un Calendario de Adviento navideño y para una cesta de regalo de chocolate negro.
-- SIN GLUTEN Y VEGANO - Chocolate negro certificado sin gluten al 85%, apto para personas con intolerancia al gluten. 100% vegetal, ideal para una dieta vegana y vegetariana.
+- FORMATO INDIVIDUAL - Envasado en formato monodosis, en cómodos paquetes individuales ideales para llevar en el bolso o la mochila, y perfectos para compartir. Gracias a su envase individual, cada mini tableta se mantiene fresca hasta el momento de su consumo, para que puedas llevarlas contigo y disfrutarlas en cualquier momento.
 - HECHO EN ESPAÑA - Fabricado localmente en las Islas Canarias. Tirma es una marca española con más de 80 años de experiencia en el mercado de la confitería. Entre su gama de productos de alta calidad destacan las ambrosías, uno de los dulces más típicos de Canarias.
 - CHOCOLATE NEGRO - Disfruta del mejor chocolate negro, de textura cremosa y sabor intenso, con un 85% de cacao. Cada bolsa contiene 18 mini barritas de chocolate negro al 85%, de 10g cada una, que constan de 3 onzas de chocolate negro rectangulares, lo que facilita su rotura en trozos del tamaño de un bocado para disfrutar (¡o compartir!). Date un capricho con estas mini chocolatinas individuales, perfectas como postre o para las pausas del café.
+- SIN GLUTEN Y VEGANO - Chocolate negro certificado sin gluten al 85%, apto para personas con intolerancia al gluten. 100% vegetal, ideal para una dieta vegana y vegetariana.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08NQY8R7R{{</world>}}

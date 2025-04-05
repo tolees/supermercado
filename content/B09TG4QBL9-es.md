@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Garnier pack bb cream matificante tono medio para pieles mixtas a grasas
 - Agua micelar para todo tipo de pieles, fórmula hipoalergénica 400 ml
+- Garnier pack bb cream matificante tono medio para pieles mixtas a grasas
 - Protección solar spf25 y ácido hialurónico, extracto de aloe vera y pigmentos minerales 50 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

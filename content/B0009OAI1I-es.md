@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Notas de salida: deliciosa frambuesa, bergamota italiana y fresia
-- Notas de corazón: azahar, rosa y pétalos de jazmín
 - Personalidad de la fragancia: femenina, brillante, joven y sofisticada
 - Notas de fondo: ámbar, sándalo y almizcle suave
+- Notas de corazón: azahar, rosa y pétalos de jazmín
+- Notas de salida: deliciosa frambuesa, bergamota italiana y fresia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0009OAI1I{{</world>}}

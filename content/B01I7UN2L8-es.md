@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Género - Mujer
 - Tipo de producto - Base de maquillaje
 - Marca - CEDIB PARIS
+- Género - Mujer
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01I7UN2L8{{</world>}}

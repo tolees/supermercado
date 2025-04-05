@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 【4】 Estos moldes son aptos para microondas, horno, nevera, congelador y lavavajillas.
 - 【2】 Incluye 2 piezas de molde de silicona. Vienen con formas de conejito y huevo de Pascua.
-- 【3】 Tienen un rango de temperatura de trabajo de -40°C a 230°C.
 - 【5】 Perfecto para hacer deliciosos dulces, gelatinas, postres, muffins, etc.
+- 【3】 Tienen un rango de temperatura de trabajo de -40°C a 230°C.
 - 【1】 Nuestro molde de chocolate está hecho de silicona de grado alimenticio. Flexible y antiadherente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

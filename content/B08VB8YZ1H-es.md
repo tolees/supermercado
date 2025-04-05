@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con fibra (inulina) para favorecer la digestibilidad. Con valiosas proteínas para unos músculos fuertes
-- El producto contiene "azúcares variados", derivados del sirope de caramelo utilizado como fuente natural de color (0,15%); no se han añadido otros azúcares
-- IMPORTANTE: Asegúrese de que haya siempre disponible agua limpia y fresca. Todo alimento nuevo debe introducirse gradualmente a lo largo de un período de entre 1 a 2 semanas.Consulte la "Guía de alimentación de transición" a la izquierda
-- Contiene todas las vitaminas y minerales esenciales para mantener a su perro en una condición excelente. Sin colorantes, conservantes ni antioxidantes; sin soja, cebada ni productos lácteos añadidos
 - El envase contiene 12 porciones: 3 x bocaditos con vacuno y verduras; 3 x bocaditos con pollo y verduras; 3 x bocaditos con carne de ave y cordero; 3 x bocaditos con vacuno y pollo. Todos en salsa
-- Divida cada bolsa en 2 comidas al día. Las madres embarazadas y en lactancia pueden necesitar hasta 4 veces más. Asegúrese siempre de que haya agua potable disponible
 - Comida para perros adultos: nutrición 100% completa y equilibrada Diseñada por nutricionistas de animales y revisada por veterinarios
+- Contiene todas las vitaminas y minerales esenciales para mantener a su perro en una condición excelente. Sin colorantes, conservantes ni antioxidantes; sin soja, cebada ni productos lácteos añadidos
 - Con vitamina D3 para mejorar la salud de los huesos y dientes; con vitamina E para ayudar a mantener una buena función inmunológica
+- Con fibra (inulina) para favorecer la digestibilidad. Con valiosas proteínas para unos músculos fuertes
+- IMPORTANTE: Asegúrese de que haya siempre disponible agua limpia y fresca. Todo alimento nuevo debe introducirse gradualmente a lo largo de un período de entre 1 a 2 semanas.Consulte la "Guía de alimentación de transición" a la izquierda
+- Divida cada bolsa en 2 comidas al día. Las madres embarazadas y en lactancia pueden necesitar hasta 4 veces más. Asegúrese siempre de que haya agua potable disponible
+- El producto contiene "azúcares variados", derivados del sirope de caramelo utilizado como fuente natural de color (0,15%); no se han añadido otros azúcares
 - Carne y derivados cárnicos 38% (incluido un mínimo de 4% de la proteína mencionada). Carne y derivados de origen animal aptos para el consumo humano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

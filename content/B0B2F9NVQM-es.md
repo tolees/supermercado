@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con avena integrale y chocolate negro
-- Conservar en un lugar fresco y seco
-- Listos para consmuir
-- Granolas crujientes vegetarianas
 - Ideales con leche
+- Conservar en un lugar fresco y seco
+- Granolas crujientes vegetarianas
+- Listos para consmuir
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2F9NVQM{{</world>}}

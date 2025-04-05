@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Textura suave que se funde fácilmente con la piel
 - Fórmula ligera
-- Efecto recién aplicado durante todo el día
 - Larga duración
+- Efecto recién aplicado durante todo el día
+- Textura suave que se funde fácilmente con la piel
 - Colorete pigmentado para marcar el pómulo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sensación de limpieza y frescor polar. Efecto blanqueante
-- Protección de dientes y encías
-- No testado en animales. Vegano. Fabricación íntegra en España
-- Fórmula antiséptica ultra fresca. Elimina la placa bacteriana
-- Combate los gérmenes causantes del mal aliento
-- Género; Unisex. Adulto y adolescente
 - Intensa sensación de frescor en tu boca
+- Sensación de limpieza y frescor polar. Efecto blanqueante
+- Fórmula antiséptica ultra fresca. Elimina la placa bacteriana
+- Género; Unisex. Adulto y adolescente
+- No testado en animales. Vegano. Fabricación íntegra en España
+- Protección de dientes y encías
+- Combate los gérmenes causantes del mal aliento
 - La limpieza más refrescante para una boca más limpia
 
 [🛒 Visítala!!!]({{< param buyurl >}})

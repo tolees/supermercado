@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - La piel queda bien limpia, húmeda y flexible
 - Cuidarse y sentirse bien nunca había sido tan fácil
-- Elimina suavemente el maquillaje y las impurezas
 - Pruébala e incorpórala a tu ritual de limpieza diario
+- Elimina suavemente el maquillaje y las impurezas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B004HIMWT8{{</world>}}

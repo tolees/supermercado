@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Geles dulces
-- Mantener en lugar fresco y seco
 - Deliciosas piezas largas en forma de stick de regaliz rojo
+- Geles dulces
 - Con un irresistible sabor a fresa
+- Mantener en lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BXTG4TX{{</world>}}

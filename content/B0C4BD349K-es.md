@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Descubre el resto de la gama de barritas proteicas
 - Con 0% azúcares añadidos; esta barrita deportiva de 50 gramos es fácil de transportar para ser consumida disfrutando de todo su sabor
-- Esta deliciosa barrita tiene un alto contenido en proteínas, extraídas del suero de soja y proteínas de la leche, que ayudan al desarrollo y la conservación de masa muscular
 - Corny Protein con deliciosos sabor a chocolate y vainilla es tu barrita optima para complementar con tu entrenamiento deportivo, con un 0% de azúcares añadidos
+- Descubre el resto de la gama de barritas proteicas
+- Esta deliciosa barrita tiene un alto contenido en proteínas, extraídas del suero de soja y proteínas de la leche, que ayudan al desarrollo y la conservación de masa muscular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4BD349K{{</world>}}

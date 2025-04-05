@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De color cobre con reflejos rubí, su espuma cremosa es de color beige. En nariz su aroma es limpio y maltoso, que recuerda a las avellanas y al tofe
-- Pack de cervezas premium con sabor moderadamente tostado, con recuerdos a bizcocho, frutos secos y ligeramente ﬂoral. Con regusto amargo y fácil de beber. Se recomienda su consumo a 6º
-- La Cerveza 1906 Galician Irish Red Ale ha sido galardonada con numerosos premios internacionales gracias a su calidad excepcional y su sabor inconfundible. Prueba una hoy y descubre por qué es una de las cervezas más reconocidas del mundo
-- Su sabor moderadamente tostado con regusto amargo, permite el maridaje con una variedad de alimentos, como marisco y sushi, carnes de cerdo o postres que tengan como base el caramelo, el chocolate y el plátano
 - Elaborada con agua de la ciudad de A Coruña, MALTAS Pale Ale, Carared, Carahell, TRIGO malteado torrefactado, LÚPULOS Nugget, Sladek, Admiral y Provoak y nuestra LEVADURA SafAle S-04 de Fermentis. Alc 5% vol
+- La Cerveza 1906 Galician Irish Red Ale ha sido galardonada con numerosos premios internacionales gracias a su calidad excepcional y su sabor inconfundible. Prueba una hoy y descubre por qué es una de las cervezas más reconocidas del mundo
+- Pack de cervezas premium con sabor moderadamente tostado, con recuerdos a bizcocho, frutos secos y ligeramente ﬂoral. Con regusto amargo y fácil de beber. Se recomienda su consumo a 6º
+- De color cobre con reflejos rubí, su espuma cremosa es de color beige. En nariz su aroma es limpio y maltoso, que recuerda a las avellanas y al tofe
+- Su sabor moderadamente tostado con regusto amargo, permite el maridaje con una variedad de alimentos, como marisco y sushi, carnes de cerdo o postres que tengan como base el caramelo, el chocolate y el plátano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08NCG1NBN{{</world>}}

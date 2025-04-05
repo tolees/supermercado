@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 18 monodosis de crema de untar de jamón york para poder preparar unos ricos snacks o de picoteo para antes de comidas o cenas
-- Formato - monodosis
-- Producto elaborado de forma artesanal y listo para consumir
-- No contiene gluten | No contiene OGM | Alérgenos: derivados de leche y soja
 - Crema de jamón york de Iberitos | Fabricado en España
+- Formato - monodosis
+- No contiene gluten | No contiene OGM | Alérgenos: derivados de leche y soja
+- Producto elaborado de forma artesanal y listo para consumir
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0743G9FDW{{</world>}}

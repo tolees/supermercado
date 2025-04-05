@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cestas: lleva dos cestas apilables transparentes donde se colocan los alimentos que se van a cocinar. Además, también incluye un recipiente para arroz o salsas y un soporte con rejilla para la cocción de huevos
-- Vaporera para una cocina sana: la cocina al vapor permite conservar todas las propiedades y vitaminas de los alimentos y, además, mantiene el sabor de todos ellos
-- Depósito: tiene un depósito donde se coloca el agua que permite la cocina al vapor, cabe medio litro de agua
-- Indicador: lleva un indicador luminoso que nos permite identificar cuándo está o no conectada la cocina al vapor
 - Temporizador: cuenta con un temporizador de 60 minutos, por lo que dependiendo del alimento lo pondremos más o menos minutos
+- Indicador: lleva un indicador luminoso que nos permite identificar cuándo está o no conectada la cocina al vapor
+- Cestas: lleva dos cestas apilables transparentes donde se colocan los alimentos que se van a cocinar. Además, también incluye un recipiente para arroz o salsas y un soporte con rejilla para la cocción de huevos
+- Depósito: tiene un depósito donde se coloca el agua que permite la cocina al vapor, cabe medio litro de agua
+- Vaporera para una cocina sana: la cocina al vapor permite conservar todas las propiedades y vitaminas de los alimentos y, además, mantiene el sabor de todos ellos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HPXWRHP{{</world>}}

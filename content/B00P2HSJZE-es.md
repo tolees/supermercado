@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El paquete contiene 2 botellas de 200 ml cada una. Ofrece un suministro suficiente para un uso prolongado y constante.
 - Enriquecido con ácido Lláctico biológico, beneficia con una sensación refrescante, nutritiva y mantiene la zona libre de molestias diariamente.
 - Multiuso: apto para usar en la ducha o en el baño como jabón líquido en la mucosa externa, proporcionando comodidad e higiene en todo momento.
+- El paquete contiene 2 botellas de 200 ml cada una. Ofrece un suministro suficiente para un uso prolongado y constante.
 - De fácil uso: solo aplique el gel, enjabone y luego aclare con abundante agua. Un método de cuidado personal simple pero efectivo.
 - Lactacyd Íntimo Gel de Higiene Íntima Diario: Un producto de alta calidad diseñado para la protección diaria de la vagina.
 

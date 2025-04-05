@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Colorete facial
 - Sencillo de aplicar
 - Productos para tu cuidado personal, para tu bienestar y para la higiene personal
-- Colorete facial
 - Material de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

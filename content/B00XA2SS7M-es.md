@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Conservar en un lugar fresco y seco
+- Sin tratamientos químicos ni aditivos
 - Con cacao natural recolectado a mano y secado al sol
 - Tiene un sabor dulce
-- Sin tratamientos químicos ni aditivos
-- Conservar en un lugar fresco y seco
 - Fácil y rápido de preparar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

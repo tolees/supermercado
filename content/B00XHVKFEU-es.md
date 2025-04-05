@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Perfecto como un regalo
-- Color: claro
 - Acabado: Larga duración, suave, dulce, seco
+- Color: claro
 - Nariz: Fresco, afrutado, notas de cítricos
 - Sabor: floral, notas de enebro, violeta, cáscara de naranja
 

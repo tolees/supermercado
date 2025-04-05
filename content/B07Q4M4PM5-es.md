@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin conservantes
 - Sin gluten
+- Sin conservantes
 - Sin trigo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

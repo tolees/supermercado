@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deliciosos sabores con una agradable consistencia ligera
-- Sin aceite de palma
 - Alto contenido proteínico: 50 % de proteína
+- Sin aceite de palma
+- Deliciosos sabores con una agradable consistencia ligera
 - Máx. 0,8 g de azúcar por cada barrita
 - Contenido reducido de hidratos de carbono: contiene un 30 % menos de hidratos de carbono que las barritas de chocolate tradicionales
 

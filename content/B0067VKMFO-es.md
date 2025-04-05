@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Delinea un trazo a ras de las pestañas superiores terminando con el rabillo del ojo
 - Formato rotulador. No se corre, no mancha y es Waterproof
-- Punta precisa de 0.4mm de grosor, permite una buena precisión para conseguir un trazo definido
 - Oftalmológicamente probado y adecuado para ojos sensibles y usuarios de lentes de contacto
+- Punta precisa de 0.4mm de grosor, permite una buena precisión para conseguir un trazo definido
+- Delinea un trazo a ras de las pestañas superiores terminando con el rabillo del ojo
 - Eyeliner rotulador con punta precisa y duración 24h
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Belleza responsable: vegano y respetuoso con los animales, certificado por PETA. No contiene siliconas. Seguro para el pelo teñido
 - 95 % de origen natural (73 % de agua purificada y 22 % de ingredientes de origen natural) y el 5 % restante para proporcionar una buena experiencia de uso
 - 2 veces más nutrición en un solo uso. Alimenta tu pelo con antioxidantes y nutrientes de origen vegetal
-- Belleza responsable: vegano y respetuoso con los animales, certificado por PETA. No contiene siliconas. Seguro para el pelo teñido
-- Esencias vegetales: champú con coco y aloe puros
 - Cabello y planeta nutridos: botella 100 % reciclada y reciclable, excepto el tapón
+- Esencias vegetales: champú con coco y aloe puros
 - Champú hidratante: ayuda a hidratar el pelo dañado suavizando y mostrando su belleza natural
 
 [🛒 Comprar!!!]({{< param buyurl >}})

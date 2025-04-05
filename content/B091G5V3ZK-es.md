@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en lugar limpio, fresco y seco.
 - Alérgenos: Puede contener trazas de otros frutos de cáscara, leche, soja y derivados
-- Ingredientes: CACAHUETES y deliciosos frutos secos tex mex y bbq.
 - Varios orígenes: Argentina/España/Perú
+- Conservar en lugar limpio, fresco y seco.
+- Ingredientes: CACAHUETES y deliciosos frutos secos tex mex y bbq.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B091G5V3ZK{{</world>}}

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Aroma: Dulce y suave con un rastro de mandarina y lima
 - Auchentoshan es el whisky Single Malt escocés de triple destilación. Hasta la última fota es destilada 3 veces
-- Sabor: A jengibre, ligeramente seco con un agradable regusto a nuez
 - Se disfruta solo, sobre hielo o incluso con cerveza de jengibre y una rodaja de naranja
+- Sabor: A jengibre, ligeramente seco con un agradable regusto a nuez
 - Madurado por un mínimo de 12 años en dos clases de barricas distintas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

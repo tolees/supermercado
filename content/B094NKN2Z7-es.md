@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Nota de cata: inconfundible aroma a fresas naturales con amplios matices de fresa y enebro con ligeros toques cítricos. Final: suave y fresco a la vez.
+- Volumen: 1 Litro. Graduación: 37.5 %
 - Ginebra rosa premium de fresa Puerto de Indias
 - Sabor obtenido del procesamiento de fresas y enebro
-- Volumen: 1 Litro. Graduación: 37.5 %
 - Envase de vidrio
-- Nota de cata: inconfundible aroma a fresas naturales con amplios matices de fresa y enebro con ligeros toques cítricos. Final: suave y fresco a la vez.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B094NKN2Z7{{</world>}}

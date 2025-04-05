@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cumple una función de protección al crear una barrera física que aporta un entorno desfavorable para la proliferación de hongos
-- Reduce el picor y la irritación
-- Aplicación fácil e higiénica. Eficacia probada clínicamente
 - Se debe tener en cuenta que el uso irregular o la interrupción prematura del tratamiento aumentará la probabilidad de que los síntomas reaparezcan
+- Reduce el picor y la irritación
 - Para prevenir el olor desagradable de los pies
+- Cumple una función de protección al crear una barrera física que aporta un entorno desfavorable para la proliferación de hongos
 - Para el tratamiento de infecciones fúngicas del pie (pie de atleta/tinea pedis)
+- Aplicación fácil e higiénica. Eficacia probada clínicamente
 - La aplicación del líquido es mediante pulverización, lo que elimina la necesidad de rozar la zona afectada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

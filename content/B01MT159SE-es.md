@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cocina oriental en tu hogar
-- Un producto de calidad marca CAPUTO
 - Sabor asiático
+- Un producto de calidad marca CAPUTO
+- Cocina oriental en tu hogar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MT159SE{{</world>}}

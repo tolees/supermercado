@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ¿COMO TOMARLO? · 5 cl de Puerto De Indias Sweet Melon. · 20 cl de tu refresco de lima limón o tónica. · Rodaja de lima. · Hielo.
 - NARIZ: en nariz predomina claramente a melón y enebro.
-- GIN PUERTO DE INDIAS MELÓN.
-- ELABORACIÓN: Llena tu copa con hielo y gira para enfriar la copa, desecha el agua restante. Añade la ginebra Puerto de Indias Sweet Melon y vierte el refresco mientras remueves suavemente con una cuchara. Finalmente decora con una rodaja de lima… ¡Y a disfrutar!
 - FINAL: Suave y fresco a la vez
 - VISTA: percibimos un color verde con brillos y con reflejos verdes
-- ¿COMO TOMARLO? · 5 cl de Puerto De Indias Sweet Melon. · 20 cl de tu refresco de lima limón o tónica. · Rodaja de lima. · Hielo.
+- GIN PUERTO DE INDIAS MELÓN.
+- ELABORACIÓN: Llena tu copa con hielo y gira para enfriar la copa, desecha el agua restante. Añade la ginebra Puerto de Indias Sweet Melon y vierte el refresco mientras remueves suavemente con una cuchara. Finalmente decora con una rodaja de lima… ¡Y a disfrutar!
 - BOCA: sabor a melón seguido de una evolución cítrica con un final dulce y fresco.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

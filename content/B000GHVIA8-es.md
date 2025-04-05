@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perfumes y fragancias agua de tocador para hombres
 - Marca: Montblanc
+- Perfumes y fragancias agua de tocador para hombres
 - Producto de alta calidad, fabricado en españa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

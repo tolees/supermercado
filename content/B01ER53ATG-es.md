@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Deliciosas y esponjosas nubes
 - Espumas dulces
 - Cásicas piezas súper blandas y suaves en forma de tubo
-- Deliciosas y esponjosas nubes
 - Sabor a fresa-nata
 
 [🛒 Aquí!!!]({{< param buyurl >}})

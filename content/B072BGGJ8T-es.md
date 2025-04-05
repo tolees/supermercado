@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- País de origen: España
 - Tortilla de maíz, harina de maíz(47%), agua, sal, estabilizantes: (E466, E412), conservadores (E282, E202). Corrector de acidez E296. Envasado atmosfera protectora.
-- Alérgenos: puede contener trazas de gluten y soja
 - Mantener en un lugar fresco y seco
+- País de origen: España
+- Alérgenos: puede contener trazas de gluten y soja
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B072BGGJ8T{{</world>}}

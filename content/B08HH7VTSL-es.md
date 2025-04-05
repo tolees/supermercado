@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - This woody spicy fragrance has a blend of cranberry, amber, coffee, grapefruit, woody notes, lemon, saffron, and sage notes
-- Launched by the design house of ralph lauren in the year of 2013
 - It is long lasting fragrance.
+- Launched by the design house of ralph lauren in the year of 2013
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08HH7VTSL{{</world>}}

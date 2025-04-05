@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dos hojas con revestimiento en cromo
 - Hojas de larga duración
+- Dos hojas con revestimiento en cromo
 - Maquinilla desechable para hombre
 - Cabezal fijo
 

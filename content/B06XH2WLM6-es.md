@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PERFECTO – Portafiltro de café con diseño atemporal, muy buena velocidad de flujo del café, despliegue a la perfección del aroma, para el disfrute individual del café
-- MANUAL – Accesorio de filtro de café para el café hecho a mano, tamaño 4, 13,5 cm de diámetro, 9,5 cm de altura aproximadamente
 - CLÁSICO – El filtro de café de porcelana Moritz & Moritz, de calidad probada, porcelana refractaria, esmalte blanco, resistente a los arañazos, sin sabor
+- PERFECTO – Portafiltro de café con diseño atemporal, muy buena velocidad de flujo del café, despliegue a la perfección del aroma, para el disfrute individual del café
 - ENCANTADOR – Nuevo placer del café con el encanto de los viejos tiempos, indispensable para los gourmets del café
+- MANUAL – Accesorio de filtro de café para el café hecho a mano, tamaño 4, 13,5 cm de diámetro, 9,5 cm de altura aproximadamente
 - SENCILLO – Nuestro filtro de café se puede lavar en el lavavajillas, es fácil de usar y se limpia rápidamente y sin complicaciones para también a mano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

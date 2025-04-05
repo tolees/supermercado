@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Formulado con L-Triptófano, ácido gamma-aminobutírico, magnesio y vitamina B6, que contribuyen al funcionamiento normal del sistema nervioso y ayudan a reducir la fatiga y el cansancio
-- Magnesio 60.8mg 16% Vitamina B6 3,45mg 246%
-- Para sofocos diurnos intensos, tomar dos cápsulas al día por la mañana. Para sofocos y dificultades para conciliar el sueño, tomar 1 cápsula por la mañana y otra por la noche
+- Mecanismo de acción serotoninérgico. No hormonal, no fitoestrogénico. Sin gluten
 - DERMOFARM S.A.U. Leonardo da Vinci 16-22, 08191 Rubí (Barcelona)
+- Para sofocos diurnos intensos, tomar dos cápsulas al día por la mañana. Para sofocos y dificultades para conciliar el sueño, tomar 1 cápsula por la mañana y otra por la noche
+- Magnesio 60.8mg 16% Vitamina B6 3,45mg 246%
 - Producen una rápida disminución de los sofocos y los síntomas asociados a la menopausia, como la sudoración, palpitaciones, ansiedad y alteración del estado de ánimo
 - Complemento alimenticio oral para la rápida disminución de los sofocos durante la menopausia
-- Mecanismo de acción serotoninérgico. No hormonal, no fitoestrogénico. Sin gluten
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B074KF3TYK{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Prepara tus platos mejicanos preferidos
+- Plato estrella de la cocina Tex-Mex
 - Delicioso chili con carne
 - Receta mejicana
-- Plato estrella de la cocina Tex-Mex
 - Práctico y fácil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene fibra y vitaminas
-- Lista para servir
-- Está hecho con ingredientes frescos y naturales
-- Ideal para cualquier momento del día
-- Una vez abierto, consevar en el frigorifico
 - El producto tiene una nueva receta
+- Contiene fibra y vitaminas
+- Ideal para cualquier momento del día
+- Está hecho con ingredientes frescos y naturales
+- Lista para servir
+- Una vez abierto, consevar en el frigorifico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B095KNRPH6{{</world>}}

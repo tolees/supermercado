@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas: 10 x 7 x 30 cm
 - Fregona con tiras extra absorbentes y resistentes
+- Medidas: 10 x 7 x 30 cm
 - Cabezal universal adaptable a los palos Tatay y a los palos de rosca de otras marcas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

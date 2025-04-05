@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 😍Su Cremosidad te sorprenderá
-- ❤️ DESCUBRE la intensidad del Chocolate Negro Cremosso 70% Cacao y Naranja
-- 💯Sabor intenso a Cacao
 - 🔎 Pasta de cacao, manteca de cacao, preparado de naranja, (pure de manzana, zumo de naranja, jarabe de fructosa y glucos, azúcar, (glicerol), fibra cítrica, aceite vegetal de girasol, gelificante, corrector de acidez,, aroma natural de naranja, colorante y antioxidante., cacao desgrasado en polvo, pasta de ALMENDRA (6%), MANTEQUILLA concrentrada (LECHE), aromas. Puede contender: AVELLANA y Soja.Cacao: 70%
+- 💯Sabor intenso a Cacao
+- ❤️ DESCUBRE la intensidad del Chocolate Negro Cremosso 70% Cacao y Naranja
+- 😍Su Cremosidad te sorprenderá
 - 🍫 Tableta de Chocolate con formato más fino
 
 [🛒 Comprar!!!]({{< param buyurl >}})

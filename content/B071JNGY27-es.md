@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Producto sostenible: En Jae promovemos un modelo de agricultura sostenible, nuestras conservas viven un proceso de producción con mínimo desperdicio.
 - Pack de 6 latas con tapa abrefácil, contiene 500gr de peso escurrido de Garbanzos cocidos conservados en agua, sal y antioxidantes.
-- Nuestros garbanzos cocidos son perfectos para disfrutar de esa deliciosa legumbre mediterranea típica de la gastronomía españa. Con su práctica presentación, cuidar tu salud nunca fue tan fácil.
 - Garbanzos cocidos en conserva, 100% naturales; ricos en vitaminas y antioxidantes. Conservan la frescura del campo y su delicioso sabor. Elaborado en Navarra, España.
+- Nuestros garbanzos cocidos son perfectos para disfrutar de esa deliciosa legumbre mediterranea típica de la gastronomía españa. Con su práctica presentación, cuidar tu salud nunca fue tan fácil.
 - Si de garbanzos se trata, Jae es el mejor. Hemos traído del campo a tu mesa las mejores conservas con el increíble sabor y frescura de la huerta, para disfrutar en cualquier momento.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

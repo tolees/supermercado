@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una botella de 175 cl de Dewars White Label Blended Scotch Whisky
-- Blended Scotch Whisky de doble envejecimiento, acabado en barricas de roble especialmente seleccionadas para conseguir una mayor suavidad en una bebida espirituosa bien redondeada
-- Dewars es el Blended Scotch Whisky más premiado del mundo
-- Blended Scotch Whisky de cuerpo medio con notas de dulce de vainilla, humo, toffee, miel de brezo y roble
 - Disfrute de este Whisky solo, con hielo o en un cóctel como un Old Fashioned o un Dewars Whisky Highball, o regale una botella de Whisky
+- Una botella de 175 cl de Dewars White Label Blended Scotch Whisky
+- Blended Scotch Whisky de cuerpo medio con notas de dulce de vainilla, humo, toffee, miel de brezo y roble
+- Dewars es el Blended Scotch Whisky más premiado del mundo
+- Blended Scotch Whisky de doble envejecimiento, acabado en barricas de roble especialmente seleccionadas para conseguir una mayor suavidad en una bebida espirituosa bien redondeada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B006K6WEOI{{</world>}}

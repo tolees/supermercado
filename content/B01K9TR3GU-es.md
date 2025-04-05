@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Saludable y sabroso, este alimento húmedo natural proporciona una nutrición completa y todos los beneficios que tu felino necesita. Utilizamos carne y vísceras recién preparadas y apetitosas, por lo que no necesitamos saborizantes artificiales
-- Como B Corp, estamos comprometidos con nuestro objetivo de ser totalmente reciclables en 2025. Para conocer nuestras iniciativas sostenibles y cómo utilizamos nuestra empresa como fuerza para hacer el bien, visita la tienda de nuestra marca
 - Para más alimentos naturales y saludables para gatos, descubre nuestra gama de patés con certificado ecológico o los Sabrosos trocitos en salsa. Recetas elaboradas con ingredientes naturales, para la nutrición completa de gatos de interior y exterior
+- Como B Corp, estamos comprometidos con nuestro objetivo de ser totalmente reciclables en 2025. Para conocer nuestras iniciativas sostenibles y cómo utilizamos nuestra empresa como fuerza para hacer el bien, visita la tienda de nuestra marca
 - Aquí, en Lily’s Kitchen, elaboramos comida de verdad con ingredientes de fuentes responsables y carne y vísceras recién preparadas, para ofrecer a tu mascota alimentos saludables y naturales. Solo lo mejor para tu familia peluda
 - La bandeja de paté de pollo es nuestro alimento estrella para gatos. Receta suave sin cereales elaborada con carne y vísceras recién preparadas. Formulada por expertos, sin azúcares ni saborizantes artificiales añadidos. Para gatos de más de 6 meses
+- Saludable y sabroso, este alimento húmedo natural proporciona una nutrición completa y todos los beneficios que tu felino necesita. Utilizamos carne y vísceras recién preparadas y apetitosas, por lo que no necesitamos saborizantes artificiales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01K9TR3GU{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corrector de ojeras e imperfecciones en barra
 - Es dermatológicamente comprobado
 - Corrector que se mezcla para camuflar cualquier imperfección de la piel
+- Corrector de ojeras e imperfecciones en barra
 - Da a la tez una apariencia suave y uniforme
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

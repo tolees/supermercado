@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Enriquecida con un 1% de Glicoamina, esta crema sin aclarado de alta protección elimina el metal* del cabello y lo protege de nuevos depósitos de partículas, para evitar la rotura y el cambio de color
 - La Crema profesional de alta protección Metal Detox protege el cabello contra los daños inducidos por los rayos UV, la oxidación, el cepillado y el calor hasta 230°C*. *Test instrumental después de 10 aplicaciones
+- Enriquecida con un 1% de Glicoamina, esta crema sin aclarado de alta protección elimina el metal* del cabello y lo protege de nuevos depósitos de partículas, para evitar la rotura y el cambio de color
 - Aplicar diariamente sobre el cabello húmedo, secado con toalla. Empezar con 1-2 pulsaciones y repartir uniformemente de medios a puntas. Añadir más cantidad según sea necesario. No aclarar. Secar con secador o al aire.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

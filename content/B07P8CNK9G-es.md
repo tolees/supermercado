@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FORMATO IDEAL Para llevar o con poco espacio en la mesa
-- INGREDIENTES DE GRAN CALIDAD Huevos de gallinas camperas y tomates cultivados de forma sostenible
 - FORMATO INDIVIDUAL Higiénico y cómodo gracias a su fácil apertura
 - Sin gluten
+- FORMATO IDEAL Para llevar o con poco espacio en la mesa
+- INGREDIENTES DE GRAN CALIDAD Huevos de gallinas camperas y tomates cultivados de forma sostenible
 - Para uso profesional
 
 [🛒 Comprar!!!]({{< param buyurl >}})

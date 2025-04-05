@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colección Finity Hollywood inspirada en la magia de Hollywood de la época dorada
-- Aplicación sencilla
 - Llega con 6 nuevos tonos y 2 top coat
 - Nailfinity es uno de los componentes de la colección
+- Aplicación sencilla
 - Es un esmalte de uñas de efecto gel y alto brillo
+- Colección Finity Hollywood inspirada en la magia de Hollywood de la época dorada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLGVH1MC{{</world>}}

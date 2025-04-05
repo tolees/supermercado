@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Refresco de limón
+- Conservar en lugar limpio, fresco y seco
+- Evitar el contacto directo con el suelo
 - Proteger de la luz solar y de olores agresivos
 - No congelar
-- Conservar en lugar limpio, fresco y seco
-- Refresco de limón
-- Evitar el contacto directo con el suelo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B018VMZNHI{{</world>}}

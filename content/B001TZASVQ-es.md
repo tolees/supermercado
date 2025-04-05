@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para disfrutar sólo con hielo, con agua o en formato cóctel con un refrescante Horses Neck.
 - Graduación: 51,4% vol.
-- Potente y firme. Especiado. Con notas de madera. Recuerdos de fruta madura, manzana caramelizada y flores. Final largo.
 - Origen: Miyagikyo/Yoichi
+- Potente y firme. Especiado. Con notas de madera. Recuerdos de fruta madura, manzana caramelizada y flores. Final largo.
 - Ideal para combinar con quesos curados, comidas grasas y chocolates.
+- Para disfrutar sólo con hielo, con agua o en formato cóctel con un refrescante Horses Neck.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001TZASVQ{{</world>}}

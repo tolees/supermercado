@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sobres individuales
 - Dimensión de la toallita: 19x13,5cm
 - Perfume de Limón
+- Sobres individuales
 - 20 Toallitas
 - Evitar el contacto con los ojos, mantener alejado del alcance de los niños
 

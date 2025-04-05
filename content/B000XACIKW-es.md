@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Las proteínas de calidad adecuada favorecen un crecimiento sano, la mezcla optimizada de nutrientes favorece la resiliencia y la digestión
-- Mezcla de tres tipos de escamas seleccionados para una alimentación variada, equilibrada y sana
 - Fácilmente digerible para agua transparente y de calidad
 - Las escamas, fáciles de comer y muy digeribles, favorecen agua limpia y cristalina; la fácil distribución en el agua las hace especialmente adecuadas para peces tímidos, pequeños y jóvenes
+- Mezcla de tres tipos de escamas seleccionados para una alimentación variada, equilibrada y sana
 - La receta con ingredientes naturales de calidad adecuada se elabora sin añadir colorantes ni conservantes, volumen de suministro: 1x Tetra Pond Flakes bolsa de 4 L
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

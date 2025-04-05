@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Control y brillo
-- Brand: Revlon Professional ProYou
-- Tecnología instalast prolonga cualquier look con la máxima estructura y fijación, añadiendo brillo y evitando la acumulación, ya que se cepilla fácilmente
 - Volumen 750 ml
+- Control y brillo
+- Tecnología instalast prolonga cualquier look con la máxima estructura y fijación, añadiendo brillo y evitando la acumulación, ya que se cepilla fácilmente
+- Brand: Revlon Professional ProYou
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HZYGSGL{{</world>}}

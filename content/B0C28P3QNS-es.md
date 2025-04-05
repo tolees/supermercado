@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El DESODORANTE Old Spice es como un campo de fuerza que repele las marcas blancas y las manchas amarillentas
-- GEL DE DUCHA: gracias a su poder 3 en 1, sirve tanto para el rostro y el cuerpo como para el pelo
+- GEL DE DUCHA: con aroma a mar abierto, sándalo y notas cítricas, te hará inolvidable: te convertirás prácticamente en el centro del universo
 - GEL DE DUCHA: espuma suave que elimina profundamente la suciedad y los malos olores
 - La exquisita fragancia del DESODORANTE Old Spice te hará inolvidable, como si fueras el centro del mundo
-- GEL DE DUCHA: con aroma a mar abierto, sándalo y notas cítricas, te hará inolvidable: te convertirás prácticamente en el centro del universo
+- GEL DE DUCHA: gracias a su poder 3 en 1, sirve tanto para el rostro y el cuerpo como para el pelo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C28P3QNS{{</world>}}

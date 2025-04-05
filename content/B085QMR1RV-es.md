@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No requiere calentamiento
-- Mantener fuera del frigorífico, en lugar fresco y seco
 - Ideal para decorar postres, café o frutas
 - Sin aceite de palma y sin gluten
+- No requiere calentamiento
+- Mantener fuera del frigorífico, en lugar fresco y seco
 - Está elaborado con cacao natural de alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

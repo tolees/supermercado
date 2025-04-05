@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- No hay nada mejor que picotear con Bicentury
+- No frito
 - Mini tortitas sabor Mediterráneo (7unidades)
 - Cada caja contiene 7 bolsas
-- No frito
-- No hay nada mejor que picotear con Bicentury
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWN9YNJ1{{</world>}}

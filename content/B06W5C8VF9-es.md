@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dove no testa en animales en ningún lugar del mundo
+- Aroma a té verde y pepino; dermatológicamente testado
+- Ayuda a reparar la piel de la irritación, incluso después del depilado. 0% alcohol
 - Desodorante antitranspirante con 1/4 de crema hidratante con aceite nutritivo 100% natural
 - Desodorante Antitranspirante Roll On Dove Pepino 50ml
-- Aroma a té verde y pepino; dermatológicamente testado
+- Dove no testa en animales en ningún lugar del mundo
 - Protección 48h
-- Ayuda a reparar la piel de la irritación, incluso después del depilado. 0% alcohol
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06W5C8VF9{{</world>}}

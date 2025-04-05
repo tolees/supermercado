@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes: agua, aceite de girasol, almidón modificado, edulcorante (maltitol), QUESO fundido, sal, acidulante (ácido láctico), estabilizante (goma xantana), aroma (QUESO cheddar), colorante (betacaroteno), conservador (sorbato potásico) y antioxidante (EDTA)
 - Salsa cheddar Prima cero sin azúcar
-- Formato: 260g
 - Ideal para darle un toque diferente a tus nachos, burritos, hamburguesas, pastas e incluso para platos más elaborados.
 - Pruébalo en frío o caliente.
+- Ingredientes: agua, aceite de girasol, almidón modificado, edulcorante (maltitol), QUESO fundido, sal, acidulante (ácido láctico), estabilizante (goma xantana), aroma (QUESO cheddar), colorante (betacaroteno), conservador (sorbato potásico) y antioxidante (EDTA)
+- Formato: 260g
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY2KDHH6{{</world>}}

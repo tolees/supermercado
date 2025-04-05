@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Caramelos de mantequilla y nata fresca sin azúcar, y suave sabor a chocolate
+- Caramelos de mantequilla y nata fresca sin azúcar, y suave sabor a chocolate
 - Contiene leche y derivados
 - Sin gluten
-- Caramelos de mantequilla y nata fresca sin azúcar, y suave sabor a chocolate
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07K1MR2GP{{</world>}}

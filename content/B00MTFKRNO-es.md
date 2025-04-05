@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Adecuado como aperitivo, con diferentes tipos de platos
 - Tiene un aroma intenso con notas herbáceas y especiadas
-- De color caoba con reflejos anaranjados
 - Se recomienda servir frío
+- De color caoba con reflejos anaranjados
 - Largo post gusto levemente amargo e intenso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

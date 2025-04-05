@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se aprecia en todo su esplendor en un Gold and Apple Highball: en un vaso alto con hielo, verter 50 ml de Gold Label Reserve, 75 ml de zumo de manzana, 75 ml de soda, y decorar con una rodaja de manzana
-- Fruta y vainilla intensas, notas amaderadas dulces y especiadas y un toque ahumado
-- Johnnie Walker es una marca de whisky con más de 200 años de historia; su eslogan ha sido acuñado en todas partes para inspirar el progreso y el coraje ante la adversidad: Keep Walking; nuestras variedades incluyen desde las etiquetas clásicas hasta las mezclas más exclusivas en ediciones limitadas
-- Un whisky escocés que ha sido premiado en multitud de ocasiones por su equilibrio de sabores, que aportan algo especial a cada celebración
-- Elaborado con whiskies de gran lujo de malta y grano de toda Escocia, seleccionados por su carácter dulce y notas de miel
-- Graduación alcohólica: 40 percent
 - Una mezcla idónea, creación personal del maestro mezclador Jim Beveridge que celebra el arte del mezclado
+- Fruta y vainilla intensas, notas amaderadas dulces y especiadas y un toque ahumado
+- Elaborado con whiskies de gran lujo de malta y grano de toda Escocia, seleccionados por su carácter dulce y notas de miel
+- Se aprecia en todo su esplendor en un Gold and Apple Highball: en un vaso alto con hielo, verter 50 ml de Gold Label Reserve, 75 ml de zumo de manzana, 75 ml de soda, y decorar con una rodaja de manzana
+- Johnnie Walker es una marca de whisky con más de 200 años de historia; su eslogan ha sido acuñado en todas partes para inspirar el progreso y el coraje ante la adversidad: Keep Walking; nuestras variedades incluyen desde las etiquetas clásicas hasta las mezclas más exclusivas en ediciones limitadas
+- Graduación alcohólica: 40 percent
+- Un whisky escocés que ha sido premiado en multitud de ocasiones por su equilibrio de sabores, que aportan algo especial a cada celebración
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009SLYYCW{{</world>}}

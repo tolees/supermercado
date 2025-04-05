@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuidado de día hidratante.
-- Con aloe vera.
 - Cuidado suave, bueno para la piel.
+- Con aloe vera.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B081DHX2MD{{</world>}}

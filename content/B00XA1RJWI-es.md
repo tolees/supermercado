@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PURO NATURAL: café de excelente calidad, único, tueste natural de aroma intenso herbal y afrutado, con final largo y persistente
-- ARÁBICA 100%: café en grano compuesto principalmente por arábicas, centroamericanos y brasileños seleccionados meticulosamente
-- SABOR DURADERO: café natural en grano de sabor elegante y agradable, de intensidad media-baja 5/13, lleno de matices
 - FORMATO: bolsa de 1kg con válvula unidireccional para mantener sus cualidades organolépticas; apto para cualquier cafetera, según el tamaño del molido
+- ARÁBICA 100%: café en grano compuesto principalmente por arábicas, centroamericanos y brasileños seleccionados meticulosamente
+- PURO NATURAL: café de excelente calidad, único, tueste natural de aroma intenso herbal y afrutado, con final largo y persistente
 - CALIDAD SUPERIOR: un café Fortaleza en grano de calidad suprema para los amantes del café, ideal para empezar la mañana o la tarde
+- SABOR DURADERO: café natural en grano de sabor elegante y agradable, de intensidad media-baja 5/13, lleno de matices
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA1RJWI{{</world>}}

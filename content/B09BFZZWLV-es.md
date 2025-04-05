@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 99% fórmula biodegradable ​
-- Dove Cuida y Protege Jabón de Manos con Dosificador Jabón de manos hidratante​
-- Limpia en profundidad​
-- Para nutrir y proteger las manos​
 - Limpieza Eficaz​
 - Fórmula especial enriquecida con una mezcla única de 5 hidratantes​. Fórmula especial enriquecida con una mezcla única de 5 hidratantes​
+- Limpia en profundidad​
+- 99% fórmula biodegradable ​
+- Dove Cuida y Protege Jabón de Manos con Dosificador Jabón de manos hidratante​
+- Para nutrir y proteger las manos​
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BFZZWLV{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Graba una dedicatoria o felicitación y envíala a tu persona especial que podrá visualizarla escaneando el Qr del estuche de su bebida favorita
 - Disfruta de esta Edición Especial PARA REGALAR de Monkey 47 con vídeo dedicatoria
 - En la landing se puede distinguir quien es la persona que va a ver el video, si el receptor, a quien ha enviado el video
 - Crea tu mensaje escaneando el codigo QR de tu estuche o pincha en el enlace que has recibido por mail después de tu compra y graba tu video dedicatoria
-- Graba una dedicatoria o felicitación y envíala a tu persona especial que podrá visualizarla escaneando el Qr del estuche de su bebida favorita
 - De esta manera puedes o darselo en mano o enviarselo directamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

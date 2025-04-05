@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - con vitamina C
-- snacks de hueso con pollo
 - Sin Gluten
 - contenido en carne 59 %
+- snacks de hueso con pollo
 - en bolsa con autocierre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

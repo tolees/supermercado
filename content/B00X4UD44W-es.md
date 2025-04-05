@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Productos de Perfumes y fragancias para Mujer
 - Los productos de la marca CORINE DE FARME están fabricados con ingredientes de la mejor calidad.
 - Perfumes y fragancias CORINE DE F. FROZEN EDT 30 ML de CORINE DE FARME
-- Productos de Perfumes y fragancias para Mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X4UD44W{{</world>}}

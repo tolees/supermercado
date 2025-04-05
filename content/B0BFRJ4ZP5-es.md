@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - De absorción rápida: esta crema facial ultraligera se absorbe rápidamente sin dejar la piel grasienta ni pegajosa
-- Reciclable: envase fabricado con material reciclable infinitamente
 - Sensación transpirable: formulada pensando en la piel, sin alcohol ni colorantes
+- Reciclable: envase fabricado con material reciclable infinitamente
 - Hidratación duradera: lleva vitamina B3 para hidratar al instante la piel y fortalecer la barrera de hidratación con el paso del tiempo
 - Fragancia ligera y refrescante: combina madera de cedro y cáscara de naranja para crear un sofisticado aroma masculino
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Eficacia comprobada, -66% granitos, -32% apariencia de marcas residuales de acné, -31% poros visibles* *Estudio clínico 34 individuos, 8 semanas
+- Contenido : 1x Crema Fluida Mate Invisible Diaria Anti-UV & Anti-imperfecciones, Garnier Pure Active, 40 ml
 - Aplicación: Aplicar todas las mañanas como crema hidratante o como complemento de la crema habitual antes del maquillaje
 - Fórmula enriquecida con Niacinamida que suaviza y alisa la piel, y BHA (Ácido salicílico) que reduce el sebo y las imperfecciones, sin ingredientes ni derivados de origen animal, No testada en animales
-- Contenido : 1x Crema Fluida Mate Invisible Diaria Anti-UV & Anti-imperfecciones, Garnier Pure Active, 40 ml
+- Eficacia comprobada, -66% granitos, -32% apariencia de marcas residuales de acné, -31% poros visibles* *Estudio clínico 34 individuos, 8 semanas
 - Crema Fluida Anti-UV de alta protección FPS50+, para proteger la piel de los rayos UVB, UVA y UVA largos durante todo el día y corregir las imperfecciones, para pieles grasas con tendencia acneica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

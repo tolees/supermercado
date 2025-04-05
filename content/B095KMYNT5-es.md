@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología 3 en 1: base, color y top coat glossy
-- Cada pasada proporciona una base de color y un acabado protector brillante
 - Con cepillo diseñado para una aplicación rápida y uniforme
+- Cada pasada proporciona una base de color y un acabado protector brillante
+- Tecnología 3 en 1: base, color y top coat glossy
 - Esmalte de uñas de secado rápido
 - Buen impacto de color y acabado brillante
 

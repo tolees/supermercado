@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Una vez abierto conservar en un recipiente hermético
 - Café molido de tueste natural
+- Se puede servir solo o con leche
 - Ideal para el desayuno o una pausa durante el día
 - Fácil y rápido de preparar
-- Se puede servir solo o con leche
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GGTF25W{{</world>}}

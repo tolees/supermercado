@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Maridaje: Este vino tinto es perfecto para acompañar con carne a la brasa como una paletilla de cordero con patatas a las hierbas provenzales o con un surtido de quesos
+- Gusto: En boca es redondo e intenso, con buena estructura y taninos aterciopelados; deja un sabor a fruta negra y moca con un retrogusto tostado
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 18 ºC y conservarlo en un lugar fresco y seco
 - Apariencia: Vino tinto brillante de color rojo rubí
-- Gusto: En boca es redondo e intenso, con buena estructura y taninos aterciopelados; deja un sabor a fruta negra y moca con un retrogusto tostado
 - Aroma: Presenta un perfil aromático intenso y complejo de moca, casis y ciruela además de notas de caja de puros
+- Maridaje: Este vino tinto es perfecto para acompañar con carne a la brasa como una paletilla de cordero con patatas a las hierbas provenzales o con un surtido de quesos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01CHRN7AS{{</world>}}

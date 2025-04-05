@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Inhibe el riesgo de adhesión bacteriana Restablece el equilibrio de la piel gracias a sus propiedades emolientes
 - Su uso diario ayuda a evitar nuevos brotes y alarga el período libre de lesiones
+- Inhibe el riesgo de adhesión bacteriana Restablece el equilibrio de la piel gracias a sus propiedades emolientes
 - Ayuda a reforzar la función barrera Hidrata en profundidad, ayudando a aliviar el picor y la irritación gracias a su contenido de Laureth-9 y Niacina mida
 
 [🛒 Aquí!!!]({{< param buyurl >}})

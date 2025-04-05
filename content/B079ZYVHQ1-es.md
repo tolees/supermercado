@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El acompañamiento adecuado para tus platos o para preparar recetas más elaboradas
-- Puré de patata sin gluten, sin conservantes ni colorantes
-- 8 raciones de puré natural (2 bolsas)
 - Receta rápida y fácil: puré de patata listo en 7 minutos
+- 8 raciones de puré natural (2 bolsas)
+- Puré de patata sin gluten, sin conservantes ni colorantes
 - Disfruta del clásico puré de patatas natural de Maggi
+- El acompañamiento adecuado para tus platos o para preparar recetas más elaboradas
 - Puré de patata para preparar al fuego o al microondas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

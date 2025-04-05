@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los laboratorios de L’Oréal Paris han formulado esta crema con Fracciones AA de Colágeno y SPF30 para reducir el descolgamiento en las pieles de mujeres maduras
 - De la marca LOréal Paris
+- Los laboratorios de L’Oréal Paris han formulado esta crema con Fracciones AA de Colágeno y SPF30 para reducir el descolgamiento en las pieles de mujeres maduras
 - El colágeno, el principal componente estructural de la piel, disminuye después de la menopausia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

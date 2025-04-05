@@ -31,9 +31,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Apariencia: Brillante color cereza con ribete morado.
 - Consumo: Recomendamos servir este Señorío de los Llanos Cosecha a una temperatura entre 12 y 14ºC.
 - Tipo de uva: Tempranillo, tinto cosecha.
+- Gusto: Volumen y equilibrio con taninos suaves que lo hacen muy agradable y fácil de beber.
 - Maridaje: Señorío de los Llanos Cosecha Tinto acompaña bien muchas comidas, especialmente adecuado para segundos de carne.
 - Aroma: Intensos aromas primarios de frutas del bosque con algunas notas lácticas.
-- Gusto: Volumen y equilibrio con taninos suaves que lo hacen muy agradable y fácil de beber.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DMZBNQ0{{</world>}}

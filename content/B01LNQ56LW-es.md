@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Proporciona una hidratación intensa al cabello
-- Su fórmula rica y ligera se adapta a los cabellos desvitalizados
-- Champú apto para cabello seco
 - Deja el cabello brillante
+- Champú apto para cabello seco
+- Su fórmula rica y ligera se adapta a los cabellos desvitalizados
 - Fórmula con aceites de flores preciosas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

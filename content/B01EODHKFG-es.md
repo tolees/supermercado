@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CREMA ANTIMANCHAS FACIAL: Formulada con filtros solares de amplio espectro microencapsulados y con potentes activos despigmentantes que tratan las manchas existentes y evitan la aparición de nuevas. Máxima protección celular
 - TEXTURA: La crema antimanchas Bella Aurora tiene un tono blanco sutil, con una textura ligera de rápida absorción y acabado mate. Su fragancia incluye notas florales y afrutadas que se mezclan con aromas dulces
-- PROTECCIÓN TOTAL: Con extracto de curcumina y thermus thermophillus ferment que potencian la luminosidad y tienen efecto calmante y antioxidante. Protección SPF50+ Protección UVA + UVB + Luz visible (HEV) + Infrarrojos (IR)
 - MODO DE USO: Aplicar generosamente sobre todo el rostro, cuello y escote como último paso en la rutina facial y/o antes de la exposición solar. Renovar regularmente. Evitar exposiciones prolongadas al sol un cuando se utilice un protector solar
+- PROTECCIÓN TOTAL: Con extracto de curcumina y thermus thermophillus ferment que potencian la luminosidad y tienen efecto calmante y antioxidante. Protección SPF50+ Protección UVA + UVB + Luz visible (HEV) + Infrarrojos (IR)
 - PARA PIELES MIXTA-GRASA: Protector solar facial ideal para pieles con tendencia mixta-grasa. Evita el daño solar en tu cara y protégete de nuevas manchas, mientras atenuas las existentes
+- CREMA ANTIMANCHAS FACIAL: Formulada con filtros solares de amplio espectro microencapsulados y con potentes activos despigmentantes que tratan las manchas existentes y evitan la aparición de nuevas. Máxima protección celular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01EODHKFG{{</world>}}

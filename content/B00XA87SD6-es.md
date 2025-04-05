@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborado con un alto contenido en zumo de frutas
+- Conservar en lugar fresco y seco
 - La recomendación de servir es fría o con hielo
 - Tiene un alto contenido de vitamina C
-- Conservar en lugar fresco y seco
 - Es bajo en calorías y con intenso sabor a naranja
+- Elaborado con un alto contenido en zumo de frutas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA87SD6{{</world>}}

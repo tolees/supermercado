@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: Multicolor
-- Referencia: S7197518
-- Medidas: 24,6 x 17,1 x 9,3 centímetros
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Cepillo de Dientes Eléctrico de la marca Oral-B
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Referencia: S7197518
+- Color: Multicolor
+- Medidas: 24,6 x 17,1 x 9,3 centímetros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C6MH8FTW{{</world>}}

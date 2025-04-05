@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consume una ración al día (30 gramos, 3/4 del dosificador) con 250 ml de agua. Consume una ración después del entrenamiento en los días que hagas ejercicios y a cualquier hora en los días de descanso.
 - Bajo contenido de azúcar, sin gluten*, sin aceite de palma (*Sin gluten, en conformidad con la normativa de la Unión Europea.)
 - La proteína de suero lácteo que contiene 100% Whey Protein* Professional contribuye a aumentar y mantener la masa muscular y a conservar un sistema óseo normal**. Lo que son los ladrillos en las obras, son las proteínas para nosotros. (*La proteína procede al 100% de suero lácteo. **Afirmaciones científicamente comprobadas, autorizadas por la EFSA, Autoridad Europea de Seguridad Alimentaria.)
 - Amplia gama de sabores
+- Consume una ración al día (30 gramos, 3/4 del dosificador) con 250 ml de agua. Consume una ración después del entrenamiento en los días que hagas ejercicios y a cualquier hora en los días de descanso.
 - Este producto incorpora también aminoácidos añadidos –leucina, glutamina, arginina y taurina–, además de los aminoácidos que componen las proteínas. Finalmente, incorpora enzimas que apoyan la degradación de las proteínas, como la papaína y la bromelaína.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

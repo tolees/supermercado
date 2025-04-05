@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mascarilla de pelo
 - Cuidado del cabello
+- Mascarilla de pelo
 - Productos para el cuidado del cabello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes: Agua del Montseny, avena (22%)* ,cacao (1,3%), avellana tostada (0,7%), carbonato cálcico, alga Chondrus Crispus, vitamina D. *de agricultura ecológica
 - Bebida 100% vegetal, sin lactosa, sin aditivos, hecha con Agua del parque natural del Montseny
 - Bajo contenido en grasas
-- Muy bajo contenido de sal que ayuda a mantener la tensión arterial normal
 - Directamente de la nevera para refrescarse e hidratarse, su consumo ayuda a alcanzar la ingesta mínima diaria de 2 L de agua
+- Ingredientes: Agua del Montseny, avena (22%)* ,cacao (1,3%), avellana tostada (0,7%), carbonato cálcico, alga Chondrus Crispus, vitamina D. *de agricultura ecológica
+- Muy bajo contenido de sal que ayuda a mantener la tensión arterial normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B071HT24CQ{{</world>}}

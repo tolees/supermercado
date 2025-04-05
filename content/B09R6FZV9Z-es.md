@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - No superar la dosis diaria recomendada. Mantener fuera del alcance de los niños menores de 3 años.
+- Contiene 1 mg de Melatonina pura, regulando el ciclo natural del sueño, e 1.4 mg de Vitamina B6, Valeriana, Camomila y Lavanda que ayudan a conciliar el sueño de forma natural y rápida.
 - Formato: 2x 72 gummies (144)
+- Sin saborizantes artificiales, colorantes, edulcorantes, conservantes, sin lactosa, sin gluten. Sabor natural a frutos del bosque.
 - Pastillas para dormir que ayuda a conciliar el sueño rápidamente, regulando el ciclo natural del sueño. Sin sentirte somnoliento al despertar, sin crear dependencia.
 - Tomar una gummy 30 minutos antes de irse a dormir. Gracias a sus ingredientes naturales, se pueden tomar a diario.
-- Contiene 1 mg de Melatonina pura, regulando el ciclo natural del sueño, e 1.4 mg de Vitamina B6, Valeriana, Camomila y Lavanda que ayudan a conciliar el sueño de forma natural y rápida.
-- Sin saborizantes artificiales, colorantes, edulcorantes, conservantes, sin lactosa, sin gluten. Sabor natural a frutos del bosque.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09R6FZV9Z{{</world>}}

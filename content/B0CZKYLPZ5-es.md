@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colorete Líquido Ligero: Formulado para ser ligero e hidratante, adecuado para todos los tonos y tipos de piel.
 - Versátil y Universal: Diseñado para adaptarse a todos los tonos de piel, desde los más claros hasta los más oscuros.
 - Fácil de Aplicar: Su fórmula ligera permite una aplicación suave y fácil, ideal para uso diario.
 - Larga Duración: Este colorete líquido ofrece un color duradero que se mantiene fresco y vibrante durante todo el día.
 - Hidratante y Nutritivo: Enriquecido con ingredientes hidratantes que nutren la piel mientras proporcionan un color vibrante.
+- Colorete Líquido Ligero: Formulado para ser ligero e hidratante, adecuado para todos los tonos y tipos de piel.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZKYLPZ5{{</world>}}

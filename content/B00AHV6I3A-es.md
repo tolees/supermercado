@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Jabón de aceite corporal creado para todas las pieles y para toda la familia.
-- Restablece la hidratación de la piel y aportan un bienestar inmediato
-- Con más de un 40% de aceites emolientes y reparadores
 - Fórmula concentrada sin agua; con omega 3, 6 y 9
-- Para todo tipo de piel. Especialmente indicado en piel seca o con tendencia atópica
 - Formulado sin agua (syndet)
+- Con más de un 40% de aceites emolientes y reparadores
+- Jabón de aceite corporal creado para todas las pieles y para toda la familia.
 - Alivia rápidamente la sensación de tirantez y el picor
+- Para todo tipo de piel. Especialmente indicado en piel seca o con tendencia atópica
+- Restablece la hidratación de la piel y aportan un bienestar inmediato
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00AHV6I3A{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Somos una empresa familiar, cajas diseñadas y hechas con ternura. 🌟
-- Incluye: Tableta Milka chocolate con caramelo 100gr, Kinder Bueno blanco, Lacasitos, Oreo Bañadas blancas, Nutella, Mini Milka y Mini Toblerone. 🍫
-- Síguenos en Instagram: @imperialcoast.es
 - Sorprende con originalidad y diversión, perfectas para hacer un regalo divertido y original. 🎁
+- Síguenos en Instagram: @imperialcoast.es
+- Incluye: Tableta Milka chocolate con caramelo 100gr, Kinder Bueno blanco, Lacasitos, Oreo Bañadas blancas, Nutella, Mini Milka y Mini Toblerone. 🍫
 - Empaquetadas con cariño por la Fundación Amas, una ONG que apoya el talento de personas con discapacidad intelectual. ❤️
 
 [🛒 Aquí!!!]({{< param buyurl >}})

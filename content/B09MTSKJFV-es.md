@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LA PROTECCIÓN ANTICASPA MÁS AVANZADA de h&s: 7 beneficios en 1 botella para la protección del cuero cabelludo y un pelo espectacular
-- DESARROLLADO POR EXPERTOS: dermatológicamente testado y clínicamente probado
 - FÓRMULA PREVENCIÓN CAÍDA*: con cafeína, pelo más fuerte***caída relacionada con la caspa y/o la rotura capilar.**fortaleza contra los daños causados por el peinado, vs. champú sin acondicionador
-- h&s 7en1 TECNOLOGÍA MULTIPODER: Combate múltiples síntomas de la caspa a la vez
-- BUENO PARA EL PLANETA: El 40% del plástico usado para fabricar este envase es reciclado, excluyendo el tapón y el fajín
 - 7 BENEFICIOS EN 1 BOTELLA: hasta 72H de protección anticaspa*, equilibra el cuero cabelludo, controla la grasa, limpia, combate el picor** y alivia el cuero cabelludo**. *caspa visible, con uso regular.**relacionado con la caspa, con uso regular
+- LA PROTECCIÓN ANTICASPA MÁS AVANZADA de h&s: 7 beneficios en 1 botella para la protección del cuero cabelludo y un pelo espectacular
+- BUENO PARA EL PLANETA: El 40% del plástico usado para fabricar este envase es reciclado, excluyendo el tapón y el fajín
+- DESARROLLADO POR EXPERTOS: dermatológicamente testado y clínicamente probado
+- h&s 7en1 TECNOLOGÍA MULTIPODER: Combate múltiples síntomas de la caspa a la vez
 - MARCA DE CHAMPÚ Nº1 DEL MUNDO (cálculo de P&G basado en las ventas externas anuales de la categoría de champú)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

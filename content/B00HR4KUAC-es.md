@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Champú Ultrasuave 400ml para cuero cabelludo sensible.
-- Con agentes vegetales: Aporta volumen y brillo natural al cabello.
+- Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
 - pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
 - Limpieza delicada: Ideal para cabello normal a seco, sin irritar.
-- Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
+- Champú Ultrasuave 400ml para cuero cabelludo sensible.
+- Con agentes vegetales: Aporta volumen y brillo natural al cabello.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00HR4KUAC{{</world>}}

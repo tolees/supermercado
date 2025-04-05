@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bombones 100% aromas naturales
+- 100% cacao de cultivo sostenible
 - Bombones especialmente pensados para regalar
 - 11 variedades distintas de bombones
-- Bombones 100% aromas naturales
 - Con leche fresca
-- 100% cacao de cultivo sostenible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XA0O74C{{</world>}}

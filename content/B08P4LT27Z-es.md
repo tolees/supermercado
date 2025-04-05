@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dosis diaria: Adultos: Anadir 1 cacito (30g) a 200ml de agua o leche y mezclar bien. Tomar 1 cacito al dia.
 - Sabor chocolate blanco - 1kg Alto contenido de proteínas Las proteínas contribuyen a conservar y a que aumente la masa muscular Este envase contiene 33 porciones
+- Dosis diaria: Adultos: Anadir 1 cacito (30g) a 200ml de agua o leche y mezclar bien. Tomar 1 cacito al dia.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08P4LT27Z{{</world>}}

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Loción diaria que hidrata, elimina escamas y reduce las rojeces de la Piel de Personas con Psoriasis
 - Fórmula específica con efecto queratorregulador, que reduce las escamas
-- Flexibiliza, normaliza e hidrata la piel y ayuda a reducir el picor
 - Loción de textura rica y emoliente, fácil y cómoda de extender
+- Flexibiliza, normaliza e hidrata la piel y ayuda a reducir el picor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CHK3H7V1{{</world>}}

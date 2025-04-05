@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de usar
-- Un producto de calidad
-- Producto de cuidado personal
 - Marca: Garnier Garnier
+- Un producto de calidad
+- Fácil de usar
+- Producto de cuidado personal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NCQBBJQ{{</world>}}

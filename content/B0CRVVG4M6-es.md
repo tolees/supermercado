@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VEGANO Y LIBRE DE CRUELDAD: Estas bases no contienen ingredientes de origen animal; todos los productos de Revolution Beauty han sido aprobados por PETA como libres de pruebas en animales
+- DISPONIBLE EN 20 TONOS: F3 es para tonos de piel claros con un subtono frío; encuentra tu tono óptimo entre las 20 opciones disponibles, adaptadas a todos los tipos de piel y desde los tonos claros hasta los profundos
+- CONTIENE ÁCIDO HIALURÓNICO: Con el hidratante Ácido Hialurónico para una piel suave y flexible, y Péptidos para impulsar el Colágeno que trabaja para reafirmar, iluminar e hidratar la piel durante su uso
 - LIGERA Y TRANSPIRABLE: El suero transpirable y ligero se desliza para una sensación imperceptible, proporcionando un radiante acabado satinado que difumina imperfecciones mientras deja brillar tu piel
 - COBERTURA CLARA A MEDIA: Esta base de suero que cuida la piel te brinda una piel suave como la seda y ligera como el aire; la fórmula de cobertura clara a media se puede aplicar de manera sutil para una cobertura discreta o intensificarla para lograr ese efecto de segunda piel
-- CONTIENE ÁCIDO HIALURÓNICO: Con el hidratante Ácido Hialurónico para una piel suave y flexible, y Péptidos para impulsar el Colágeno que trabaja para reafirmar, iluminar e hidratar la piel durante su uso
-- DISPONIBLE EN 20 TONOS: F3 es para tonos de piel claros con un subtono frío; encuentra tu tono óptimo entre las 20 opciones disponibles, adaptadas a todos los tipos de piel y desde los tonos claros hasta los profundos
+- VEGANO Y LIBRE DE CRUELDAD: Estas bases no contienen ingredientes de origen animal; todos los productos de Revolution Beauty han sido aprobados por PETA como libres de pruebas en animales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRVVG4M6{{</world>}}

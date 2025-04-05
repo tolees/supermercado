@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Producto que combina tradición e innovación
 - Boca con entrada amable, densa y larga muy fresca y frutosa, donde sobresalen de nuevo el pomelo amargo, cítricos tropicales y regaliz rojo, retrogusto a hierbas de maceración y pomelo amargo
 - Nariz de intensidad alta con notas acentuadas de regaliz rojo, hierbas, frescas y mentolados sobre fondo marcado pomelo amargo y petalos de rosa y cítricos tropicales
-- Producto que combina tradición e innovación
 - Color rojo guinda electrico con ribetes violaceos. limpido y brillante, capa media alta muy viva y brillante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

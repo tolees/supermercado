@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Indicado para la higiene íntima diaria: hipoalergénico, no contiene jabón ni sustancias alcalinas
-- Lea las instrucciones de uso antes de utilizar el producto
 - Formato 400ml
+- Indicado para la higiene íntima diaria: hipoalergénico, no contiene jabón ni sustancias alcalinas
 - Formulado con Ácido L-Láctico biológico (pH=4.7). Dermatológicamente testado
+- Lea las instrucciones de uso antes de utilizar el producto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00BN7XGBO{{</world>}}

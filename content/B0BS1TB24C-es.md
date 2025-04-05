@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Perfecto para Cócteles Creativos: Ideal para cócteles con notas florals - mézclalo con tónica, agrégalo a un spritz de ginebra, o disfrútalo simplemente con hielo para resaltar sus sabores refrescantes
 - Aromático y Sabroso: Ofrece un delicioso buqué de flores exuberantes y enebro dulce, con sutiles toques de verdor herbáceo, creando una experiencia de gin equilibrada y fragante
-- Hermosa Presentación para Regalo: Presentado en una botella encantadora y distintiva, Hendricks Flora Adora es un regalo considerado para los amantes del gin y cualquier persona que disfrute explorando licores únicos y de alta calidad.
-- Elaborado por Maestros Destiladores: De las hábiles manos de Lesley Gracie, la maestra destiladora de Hendricks, este gin encarna la creatividad y la precisión, capturando la esencia de un jardín en flor en cada botella
 - Infusión Floral Encantadora: Una ginebra única inspirada en las flores del jardín, Hendricks Flora Adora combina los botánicos característicos de Hendricks con cautivadoras notas florales para un toque fresco y vibrante
+- Perfecto para Cócteles Creativos: Ideal para cócteles con notas florals - mézclalo con tónica, agrégalo a un spritz de ginebra, o disfrútalo simplemente con hielo para resaltar sus sabores refrescantes
+- Elaborado por Maestros Destiladores: De las hábiles manos de Lesley Gracie, la maestra destiladora de Hendricks, este gin encarna la creatividad y la precisión, capturando la esencia de un jardín en flor en cada botella
+- Hermosa Presentación para Regalo: Presentado en una botella encantadora y distintiva, Hendricks Flora Adora es un regalo considerado para los amantes del gin y cualquier persona que disfrute explorando licores únicos y de alta calidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS1TB24C{{</world>}}

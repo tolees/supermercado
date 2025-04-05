@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ingredientes: Sardinas, aceite de girasol, pepinillo, zanahoria, cebollita, especias, cayena (0,1%), laurel y sal
 - Elaboradas de forma artesanal, con ingredientes naturales y colocadas en la lata manualmente
 - Óptimos para un aperitivo gourmet
 - Garantía Cuca desde 1932
-- Ingredientes: Sardinas, aceite de girasol, pepinillo, zanahoria, cebollita, especias, cayena (0,1%), laurel y sal
 - Sardinas capturadas con las artes de pesca tradicionales en el Atlántico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

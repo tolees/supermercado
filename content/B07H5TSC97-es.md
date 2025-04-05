@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
 - Sabor Intenso - Potente - Notable
+- Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
 - Intensidad 12
 - Peso neto (1 paquete): 104 g; paquete de 4 X2 0
 - Un tostado intenso de granos de café, finamente molidos para revelar una mezcla profunda junto con un toque amargo a cacao

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - producto de alta calidad
 - fácil de utilisar
-- ideal para cocina
 - pinza ensalada primavera
+- ideal para cocina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B002VDZ9SC{{</world>}}

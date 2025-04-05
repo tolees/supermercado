@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - FINAL: dulce, cítrico y fresco a la vez.
-- BOCA: evolución cítrica con un final dulce y fresco.
 - GIN PUERTO DE INDIAS LIMÓN.
 - ¿COMO TOMARLA? · 5 cl de Puerto De Indias Sweet Lemonberry. · 20 cl de tu refresco de limón o tónica. · Rodaja de lima y fresa laminada. · Hielo.
-- VISTA: percibimos un color amarillo pálido con algunas lágrimas de color verde.
 - NARIZ: predomina las notas a mora y fresa con un frescor cítrico.
+- VISTA: percibimos un color amarillo pálido con algunas lágrimas de color verde.
 - ELABORACION: Llena tu copa con hielo y gira para enfriar la copa, desecha el agua restante. Añade la ginebra Puerto de Indias Lemonberry y vierte el refresco mientras remueves suavemente con una cuchara. Finalmente decora con una rodaja de lima y láminas de fresa… ¡Y a disfrutar!
+- BOCA: evolución cítrica con un final dulce y fresco.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN96GYPL{{</world>}}

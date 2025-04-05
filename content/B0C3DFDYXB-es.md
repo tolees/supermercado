@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formato: 18 x 100 servilletas biodegradables de papel Colhogar Pure Natural; disponible también en papel higiénico, papel cocina, cajas de pañuelos y faciales; color: natural, 1800 servilletas
 - Tomando en cuenta el medio ambiente y tu piel: las servilletas Colohogar Pure Natural son suaves con tu piel y hechas con fibras biodegradables; libres de fragancias, colorantes y de alérgenos
+- Formato: 18 x 100 servilletas biodegradables de papel Colhogar Pure Natural; disponible también en papel higiénico, papel cocina, cajas de pañuelos y faciales; color: natural, 1800 servilletas
 - El packaging está hecho con un mínimo de 30% de plástico reciclado y es reciclable; Colhogar te cuida a ti y al medio ambiente
 - Servilletas biodegradables: hechos con fibras biodegradables que proceden de fuentes naturales, sin blanquear y que mantienen gran parte de las propiedades y colores naturales del papel
 

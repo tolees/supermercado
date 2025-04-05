@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado íntegramente en España. En Chocolates Amatller utilizamos ingredientes de calidad.
-- Caja metálica de diseño. En su interior encuentra el chocolate más intenso y aromático. Hojas finas de chocolate negro 70% Cacao con Sal.
-- Chocolates Amatller es una marca con experiencia en la fabricación y artesanía del chocolate desde 1800. La tradición y el I+D para obetener el mejor sabor y textura en nuestros productos.
 - Un regalo original para los chocolateros amantes de los altos porcentajes de cacao.
+- Caja metálica de diseño. En su interior encuentra el chocolate más intenso y aromático. Hojas finas de chocolate negro 70% Cacao con Sal.
+- Fabricado íntegramente en España. En Chocolates Amatller utilizamos ingredientes de calidad.
 - Nuestras cajas de bombones en formato fojas finas están disponibles en chocolate con leche, chocolate blanco con fresas, chocolate 70% cacao con sal y más
-- Nuestros chocolates, en sus diferentes formatos, son la idea perfecta para regalar. Un regalo original y sofisiticado para parejas y amigos, en cualquier ocasión o época del año.
 - Chocolate Gourmet especial para los paladares más exigentes. Elaborados en nuestra fábrica desde el proceso de selección y tostado del grano, de la haba de cacao directo a tu hogar.
+- Chocolates Amatller es una marca con experiencia en la fabricación y artesanía del chocolate desde 1800. La tradición y el I+D para obetener el mejor sabor y textura en nuestros productos.
+- Nuestros chocolates, en sus diferentes formatos, son la idea perfecta para regalar. Un regalo original y sofisiticado para parejas y amigos, en cualquier ocasión o época del año.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SJHQQD2{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Garantía Cuca desde 1932
-- Ingredientes: Sardinillas, tomate y sal.
 - Elaboradas de forma artesanal, con ingredientes naturales y colocadas en la lata manualmente
+- Garantía Cuca desde 1932
 - Ideales para un aperitivo gourmet
+- Ingredientes: Sardinillas, tomate y sal.
 - Sardinillas capturadas con las artes de pesca tradicionales en el Atlántico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

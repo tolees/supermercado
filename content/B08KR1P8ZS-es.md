@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ELIMINA EL MAL OLOR DE LA ROPA: ropa fresca y libre de malos olores, higiene y protección eficaz en tu colada
+- ELIMINA VIRUS, HONGOS Y EL 99,9% DE BACTERIAS: Ayuda a prevenir la propagación de bacterias como la Salmonella Typhimurium, Escherichia coli, Enterococcus hirae, Staphyococcus aureus, Pseudomonas aeruginosa; Elimina hongos como Candida Albicans, Trichophyton mentagrophytes, Trichophyton rubrum. Elimina virus como Virus de la gastroenteritis transmisible y virus sincitial respiratorio humano
+- DERMATOLÓGICAMENTE TESTADO: es apto para ropa de bebé y la ropa de toda la familia
+- En Lysol llevamos más de 130 años protegiendo los hogares de todo el mundo
 - SIN LEJÍA NI FOSFATOS: no daña la ropa, lo puedes utilizar para ropa de cama, toallas, ropa de deporte, interior, pijamas, entre otros, tanto blanca como de color
 - DESINFECTANTE TEXTIL PARA LA ROPA: añádelo en el cajetín del suavizante de la lavadora
-- En Lysol llevamos más de 130 años protegiendo los hogares de todo el mundo
-- DERMATOLÓGICAMENTE TESTADO: es apto para ropa de bebé y la ropa de toda la familia
-- ELIMINA VIRUS, HONGOS Y EL 99,9% DE BACTERIAS: Ayuda a prevenir la propagación de bacterias como la Salmonella Typhimurium, Escherichia coli, Enterococcus hirae, Staphyococcus aureus, Pseudomonas aeruginosa; Elimina hongos como Candida Albicans, Trichophyton mentagrophytes, Trichophyton rubrum. Elimina virus como Virus de la gastroenteritis transmisible y virus sincitial respiratorio humano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KR1P8ZS{{</world>}}

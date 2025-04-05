@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Eficaz contra las manchas mas dificiles
-- Ideal para limpiar todo tipo de superficies.
-- Jabon natural en pasta. Jabon Potasico
 - Jabon concentrado, respetuoso con el medio ambiente y los tejidos
 - Perfume hipoalergenico
+- Eficaz contra las manchas mas dificiles
+- Jabon natural en pasta. Jabon Potasico
 - Elaborado con productos naturales
+- Ideal para limpiar todo tipo de superficies.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7S212ZH{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfruta con el refrescante sabor de toda la vida de Coca-Cola Original..
-- Disfruta de Coca-Cola Original en cualquier momento, incluso en casa.
 - Te recomendamos tomar tu Coca Cola fría con hielo y una rodaja de lima o limón para disfrutar de todo su sabor.
 - Nos preocupa el medio ambiente tanto como a tu, por eso nuestros envases son 100% reciclables, tíralos al contenedor amarillo.
+- Disfruta con el refrescante sabor de toda la vida de Coca-Cola Original..
+- Disfruta de Coca-Cola Original en cualquier momento, incluso en casa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07H4XZ7MH{{</world>}}

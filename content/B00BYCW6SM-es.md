@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto no testado en animales
 - Fórmula testada dermatológicamente
+- Producto no testado en animales
 - Fragancia fresca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

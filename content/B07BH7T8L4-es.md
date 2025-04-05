@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Base de maquillaje maquillaje mujer
-- Base de maquillaje makeup revolution
 - Mur fast base stick foundation f1 6.2 ml
+- Base de maquillaje makeup revolution
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BH7T8L4{{</world>}}

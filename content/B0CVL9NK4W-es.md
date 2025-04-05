@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Champú: Su fórmula sin sulfatos, enriquecida con ácido glicólico, sella la cutícula y repara la fibra capilar, logrando un brillo duradero
-- Tratamiento: Su fórmula sella la cutícula y proporciona un boost de brillo a tu pelo; aplica el tratamiento sobre el pelo húmedo de medios a puntas y aclara tras 5 minutos
-- Acondicionador: Tras lavar el pelo con el champú sin sulfatos de Glycolic Gloss, aplica el acondicionador de medios a puntas y deja actuar durante 3 minutos antes de aclarar
-- Contenido: 1 x LOréal Paris Elvive Champú Glycolic Gloss Con Ácido Glicólico sin suldatos Cabello Suave Y Brillante y 1 x LOréal Paris Elvive Acondicionador Glycolic Gloss Con Ácido Glicólico Cabello Suave Y Brillante y 1 x LOréal Paris Elvive Tratamiento 5 Min; glycolic Gloss Con Ácido Glicólico Cabello Suave Y Brillante
 - Pack de LOréal Paris Elvive Glycolic Gloss Cabello, la rutina que transforma tu pelo por dentro para que brilles por fuera
+- Tratamiento: Su fórmula sella la cutícula y proporciona un boost de brillo a tu pelo; aplica el tratamiento sobre el pelo húmedo de medios a puntas y aclara tras 5 minutos
+- Champú: Su fórmula sin sulfatos, enriquecida con ácido glicólico, sella la cutícula y repara la fibra capilar, logrando un brillo duradero
+- Contenido: 1 x LOréal Paris Elvive Champú Glycolic Gloss Con Ácido Glicólico sin suldatos Cabello Suave Y Brillante y 1 x LOréal Paris Elvive Acondicionador Glycolic Gloss Con Ácido Glicólico Cabello Suave Y Brillante y 1 x LOréal Paris Elvive Tratamiento 5 Min; glycolic Gloss Con Ácido Glicólico Cabello Suave Y Brillante
+- Acondicionador: Tras lavar el pelo con el champú sin sulfatos de Glycolic Gloss, aplica el acondicionador de medios a puntas y deja actuar durante 3 minutos antes de aclarar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CVL9NK4W{{</world>}}

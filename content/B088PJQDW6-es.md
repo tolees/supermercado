@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- País de Origen: España
+- Conservar en lugar fresco y seco. Una vez abierto el envase debe conservarse en frío, siendo aconsejable su consumo en los dos ó tres días siguientes.
 - Puleva: bienestar para disfrutar de la vida.
 - Única fórmula con Omega 3 DHA + Hierro, nutrientes esenciales para el desarrollo físico, visual e intelectual.
-- Conservar en lugar fresco y seco. Una vez abierto el envase debe conservarse en frío, siendo aconsejable su consumo en los dos ó tres días siguientes.
-- País de Origen: España
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B088PJQDW6{{</world>}}

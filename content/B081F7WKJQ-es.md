@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- RED BULL
 - 100% Algodón
+- RED BULL
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B081F7WKJQ{{</world>}}

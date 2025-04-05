@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Base de maquillaje Superstay Skin Tint enriquecida con Vitamina C* (*derivado de la Vitamina C) para un acabado natural y larga duración hasta 24H
 - Su fórmula enriquecida con Vitamina C (*derivado de la Vitamina C) unifica el rostro y aporta luminosidad para un acabado natural y luminoso
+- Base de maquillaje Superstay Skin Tint enriquecida con Vitamina C* (*derivado de la Vitamina C) para un acabado natural y larga duración hasta 24H
 - Contenido: 1x Maybelline New York, Superstay Skin Tint, Base de maquillaje enriquecida con Vitamina C, Hasta 24H, Acabado luminoso, Tono 03, 30 ml
 - Gracias a sus pigmentos efecto segunda piel, cubre las imperfecciones y manchas dejando un tono uniforme en la piel
 - Modo de empleo: Agita bien el frasco, aplica unas gotas con los dedos o con una esponja para difuminar en la piel; Aplica más producto para lograr una cobertura media

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los gránulos se ablandan enseguida y se hunden lentamente, por lo que resultan idóneos para peces que se alimentan en la región media del acuario
 - Elaborado con una combinación de más de 40 materias primas de gran calidad
 - Alimento completo en forma de minigránulos muy finos para peces ornamentales de agua dulce pequeños
-- Más prebióticos que ayudan a mejorar las funciones corporales y la conversión alimenticia
 - La fórmula BioActive mantiene un sistema inmunitario sano
+- Más prebióticos que ayudan a mejorar las funciones corporales y la conversión alimenticia
+- Los gránulos se ablandan enseguida y se hunden lentamente, por lo que resultan idóneos para peces que se alimentan en la región media del acuario
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000LXV0AK{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Agua optima para acompañar tus comidas
-- Sabor elegante y sofisticado, un icono del estilo de vida italiano
 - Agua Mineral Natural con Gas
 - Agua premium S; pellegrino procedente del Manantial en Italia
+- Sabor elegante y sofisticado, un icono del estilo de vida italiano
+- Agua optima para acompañar tus comidas
 - Contiene 4 packs de 6 botellas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

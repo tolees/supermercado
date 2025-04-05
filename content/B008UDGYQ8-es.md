@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Peso neto de 1 L
 - Contiene Leche o derivados de la leche (lactosa)
 - Una vez abierto conservar en el frigorifico
+- Peso neto de 1 L
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008UDGYQ8{{</world>}}

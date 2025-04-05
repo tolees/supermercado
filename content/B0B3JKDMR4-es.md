@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tómalo combinado con refresco o solo con hielo
+- Tiene un color ámbar dorado
+- Aroma equilibrado y afrutado con notas de manzana y pera suave con canela, seguido de una sensación ligera de humo
 - La mezcla de 100 Pipers Whisky Blended Escocés se compone de una selección de más de 30 whiskies de mayor añejamiento y con distintos perfiles de sabor
 - Sabor dulce afrutado, pera afrutada entremezclada con naranja cítrica, mermelada rica y melón dulce maduro
-- Aroma equilibrado y afrutado con notas de manzana y pera suave con canela, seguido de una sensación ligera de humo
-- Tiene un color ámbar dorado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3JKDMR4{{</world>}}

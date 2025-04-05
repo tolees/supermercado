@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🌡️ Temperatura de servicio: 16 - 18°C.
-- ⚜️ Capacidad: 6 botellas de 750 ml
 - 🍽 Maridaje: Versátil y fácil de maridar con carnes, pescados, quesos o ibéricos
-- 🍇 Variedad: 100% Tinta del país con graduación de 14°
+- ⚜️ Capacidad: 6 botellas de 750 ml
+- 🌡️ Temperatura de servicio: 16 - 18°C.
 - 🗨 Nota de cata: Rojo picota, muy brillante con ribete granate de capa alta subrayado con tonos morados. Lagrima abundante y tintada. con mucha intensidad aromática. Se impone con cierta autoridad rasgos de frutas rojas y acompotadas sobre matices minerales y ahumados. Muy envolvente y sutiles notas de coco, moca y balsámico. En boca muy elegante y aterciopelada debido a su agradable esqueleto de taninos dulces que le aporta un sedoso y largo paso por boca y una gran expresividad. Deja en el recuerdo una rica gama de aromas en la que la mineralizad se combina con la fruta.
+- 🍇 Variedad: 100% Tinta del país con graduación de 14°
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09LVPFNF2{{</world>}}

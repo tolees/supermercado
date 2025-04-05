@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se recomienda cepillar los dientes de 2 a 3 veces al día, preferentemente tras cada comida y antes de ir a dormir.
-- Aporta un extra de frescor gracias a su fórmula.
-- Refresca las encías durante y después del cepillado.
 - Mejora considerablemente tu higiene bucal.
+- Refresca las encías durante y después del cepillado.
+- Aporta un extra de frescor gracias a su fórmula.
+- Se recomienda cepillar los dientes de 2 a 3 veces al día, preferentemente tras cada comida y antes de ir a dormir.
 - Sabor suave.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

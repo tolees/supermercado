@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Higiene profunda
 - Elimina malos olores de la ropa
+- Higiene profunda
 - Quitamanchas para la ropa en formato Pastilla para lavadora
 - Fáciles de usar: añade una pastilla en el tambor vacío de la lavadora, añade la ropa y el detergente, y listo
 - Evita desteñidos

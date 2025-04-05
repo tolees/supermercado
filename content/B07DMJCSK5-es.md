@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Piloto informador de cambio de cabezal
 - Elige entre los 3 modos diferentes de cepillado
-- Seguro y cuidadoso en las zonas sensibles como encías u ortodoncias
 - Mango y cabezales inteligentes conectados entre sí
+- Seguro y cuidadoso en las zonas sensibles como encías u ortodoncias
+- Piloto informador de cambio de cabezal
 - Te avisa cuando haces demasiada presión
 - Dientes blancos en solo una semana
 

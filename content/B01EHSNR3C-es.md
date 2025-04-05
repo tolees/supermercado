@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con vitaminas E, B6 y D3, que alivian la sequedad cutánea, reducen la irritabilidad y favorecen la fijación de calcio en los huesos
-- Sin gluten y sin lactosa. Tomar 1 cápsula al día acompañada de un vaso de agua
-- Indicado para tratar los síntomas asociados con la menopausia: sofocos, sequedad, irritabilidad, cambios de humor, conciliación de sueño, falta de calcio, etc
-- Complemento alimenticio a base de vegetales y vitaminas, rico en isoflavonas de soja, que ayudan a paliar los síntomas habituales durante los periodos de perimenopausia y menopausia
 - Formulado con isoflavonas de soja, que contrarrestan los síntomas asociados con el climaterio
+- Sin gluten y sin lactosa. Tomar 1 cápsula al día acompañada de un vaso de agua
+- Complemento alimenticio a base de vegetales y vitaminas, rico en isoflavonas de soja, que ayudan a paliar los síntomas habituales durante los periodos de perimenopausia y menopausia
+- Indicado para tratar los síntomas asociados con la menopausia: sofocos, sequedad, irritabilidad, cambios de humor, conciliación de sueño, falta de calcio, etc
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01EHSNR3C{{</world>}}

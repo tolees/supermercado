@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Enriquecido con elixir fijador del colorfiltros UVA UVB
 - Especial para cabellos teñidos o con mechas
 - Champú protector, nutre, protege y fija el color
 - Ideal para proteger, nutrir los cabellos teñidos y prolongar la intensidad del color
+- Enriquecido con elixir fijador del colorfiltros UVA UVB
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CF4BHG2{{</world>}}

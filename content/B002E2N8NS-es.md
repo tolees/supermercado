@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El licor de capas de café de Sheridan se separa en dos mitades de una botella. Uno contiene licor de café-chocolate, el otro licor de vainilla-crema. Al servir, los dos ingredientes se mezclan en una proporción de 2:1 (café:vainilla) a través de un caño especial. Disfrute del Licor de Capas de Café de Sheridan en hielo.
 - Perfecto como un regalo
+- El licor de capas de café de Sheridan se separa en dos mitades de una botella. Uno contiene licor de café-chocolate, el otro licor de vainilla-crema. Al servir, los dos ingredientes se mezclan en una proporción de 2:1 (café:vainilla) a través de un caño especial. Disfrute del Licor de Capas de Café de Sheridan en hielo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B002E2N8NS{{</world>}}

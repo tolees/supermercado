@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Products by Paranix
 - Lice treatments: shampoos & rinses
 - Beauty products
+- Products by Paranix
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00KP7PUE4{{</world>}}

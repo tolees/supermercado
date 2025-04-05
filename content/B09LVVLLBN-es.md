@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Conservar en un lugar fresco y seco
 - En nariz es potente
 - Color dorado pálido
-- Conservar en un lugar fresco y seco
-- Es adecuado como regalo
 - Con un sabor fresco, cítrico y exótico
+- Es adecuado como regalo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09LVVLLBN{{</world>}}

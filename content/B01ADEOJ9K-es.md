@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula sin jabón.
-- Gel-champú syndet para bebé Suavinex sin jabón, 750ml.
-- 88% ingredientes de origen natural.
-- Ingredientes: ácidos grasos derivados de la oliva, tensoactivos suaves, manzanilla/camomila y provitamina b5 (pantenol).
-- Clínicamente testado bajo control dermatológico, oftalmológico y pediátrico.
-- Apto para pieles sensibles.
 - Limpia de forma especialmente suave piel y cabello. Ideal para recién nacidos.
+- Apto para pieles sensibles.
+- Ingredientes: ácidos grasos derivados de la oliva, tensoactivos suaves, manzanilla/camomila y provitamina b5 (pantenol).
+- Gel-champú syndet para bebé Suavinex sin jabón, 750ml.
+- Clínicamente testado bajo control dermatológico, oftalmológico y pediátrico.
 - No pica en los ojos.
+- Fórmula sin jabón.
+- 88% ingredientes de origen natural.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01ADEOJ9K{{</world>}}

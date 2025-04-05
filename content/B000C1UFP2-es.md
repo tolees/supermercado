@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene 100 ml.
-- Las notas olfativas principales de este producto son especiado y cítrico.
 - De la marca Guy Laroche.
+- Las notas olfativas principales de este producto son especiado y cítrico.
 - Este producto está indicado para hSombras.
+- Contiene 100 ml.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000C1UFP2{{</world>}}

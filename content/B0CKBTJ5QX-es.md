@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fórmula: cuida tus labios gracias a su aceite de argán y ácido hialurónico, ofreciendo una sensación de hidratación durante todo el día
 - Resultado: 16 horas de acabado mate con volumen y sensación de hidratación todo el día
 - El labial Color Riche de L´Oréal Paris en acabado mate empolvado
-- Fórmula: cuida tus labios gracias a su aceite de argán y ácido hialurónico, ofreciendo una sensación de hidratación durante todo el día
-- Aplicar desde el centro de los labios e ir extendiendo hacia los lados
 - 1x LOréal Paris barra de labios color Riche Nudes of Worth Mate tono 601 NUDE RESILIENT
+- Aplicar desde el centro de los labios e ir extendiendo hacia los lados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKBTJ5QX{{</world>}}

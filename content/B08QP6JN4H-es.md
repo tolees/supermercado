@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- RECICLABLE, tanto el frasco de vidrio como la tapa
 - CON ACEITES ESENCIALES, el aceite esencial de magnolia se extrae responsablemente en Yannun, a la parte Este del Himalaya y se mezcla delicadamente con vainilla
-- VELA AROMÁTICA PERFUMADA con aceites esenciales y producida de forma sostenible
-- DECORATIVA, diseño apto para cualquier rincón del hogar
 - Descubre el resto de fragancias y ambientadores de Botanica by Air Wick
+- DECORATIVA, diseño apto para cualquier rincón del hogar
+- RECICLABLE, tanto el frasco de vidrio como la tapa
+- VELA AROMÁTICA PERFUMADA con aceites esenciales y producida de forma sostenible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08QP6JN4H{{</world>}}

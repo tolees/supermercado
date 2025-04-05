@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Set completo para decoración con cariño de tarros de mermelada
-- Cordel de fibra natural que puede cortarse
-- 10 gomas elásticas
-- 10 manteles de algodón con borde curvado
 - 10 tarjetas de felicitación con agujero
+- Set completo para decoración con cariño de tarros de mermelada
+- 10 gomas elásticas
 - 10 pegatinas autoadhesivas
+- 10 manteles de algodón con borde curvado
+- Cordel de fibra natural que puede cortarse
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00U8MBETQ{{</world>}}

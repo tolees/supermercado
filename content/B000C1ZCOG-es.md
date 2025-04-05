@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cantidad por paquete: 1 pieza
-- Adecuado para uso personal y también para regalar
 - Perfume para mujer
-- Las notas altas de violetas y duraznos abren los sentidos
 - Las notas medias son sandías, lirio de los valles y fresia
+- Adecuado para uso personal y también para regalar
+- Las notas altas de violetas y duraznos abren los sentidos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000C1ZCOG{{</world>}}

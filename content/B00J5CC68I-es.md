@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Olor: Muestras agradables de aromas de bayas de enebro y de hierbas balsámicas, con el alcohol muy bien integrado, resultando elegante y limpia.
-- Color: Luminoso color azulado aguamarina, pálido y brillante.
 - Sabor: Especiada y balsámica con larga y fresca persistencia. Es delicada y untuosa en la entrada, con un paso seco y fino de boca por la buena destilación. Suave pero muy aromática, con notas balsámicas de calidad. Muy equilibrada en su conjunto, con un final largo y sensual.
 - Combinaciones: Ideal para combinar con tónica. Por su composición y aroma, el resultado es un gin-tonic fino y delicado, con placenteras y refrescantes notas de enebro y hierbas balsámicas, mientras que en la boca tiene un paso suntuoso y delicado, con fuerza y finura a la vez, con un elegante amargor que compensa el dulzor de la tónica y un final redondo y largo de marcada elegancia.
 - Servicio: Servir en vaso alto y ancho con mucho hielo y una rodaja de lima o limón verde. Verter la tónica poco a poco por el borde, evitando que caiga de un golpe, para que no pierda fuerza el combinado.
+- Color: Luminoso color azulado aguamarina, pálido y brillante.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00J5CC68I{{</world>}}

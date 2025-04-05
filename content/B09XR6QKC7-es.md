@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- El Pack para disfrutar del sol, la playa, la piscina y un sinfín de actividades bajo el sol, y ¡Es que puedes compartirlo o usarlo únicamente para ti!
+- Empieza a tomar el sol antes de que llegue verano con protección SPF50, para que tu piel empiece a absorber esos primeros rayos y empiece a coger color y energía
+- Cuando acabes el envase de SPF50, empieza a combinar el intensificador del bronceado con nuestro espectacular aceite bronceador con protección SPF30.
 - Perfecto para broncear, proteger e hidratar la piel.
 - 4 productos: Intensificador del bronceado Bloody Mary, Aceite bronceador SPF30 California Surfer, Protector Solar SPF 50 Tropical Breeze y la crema hidratante After Fun.
-- Empieza a tomar el sol antes de que llegue verano con protección SPF50, para que tu piel empiece a absorber esos primeros rayos y empiece a coger color y energía
-- El Pack para disfrutar del sol, la playa, la piscina y un sinfín de actividades bajo el sol, y ¡Es que puedes compartirlo o usarlo únicamente para ti!
-- Cuando acabes el envase de SPF50, empieza a combinar el intensificador del bronceado con nuestro espectacular aceite bronceador con protección SPF30.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09XR6QKC7{{</world>}}

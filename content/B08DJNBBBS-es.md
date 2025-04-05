@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 100 % Arroz Jazmín de rano largo
 - Ideal para utilizar como guarnición para el curry u otros platos de la cocina asiática
 - El arroz jazmín es el arroz aromático por excelencia y uno de los ingredientes más importantes de la exquisitia cocina tailandesa
-- 100 % Arroz Jazmín de rano largo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08DJNBBBS{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Notas a levadura y lúpulo; Muy refrescante, especial para las altas temperaturas del sur
-- Temperatura recomendada: 4 a 6º
 - Una cerveza de color ámbar claro brillante con una espuma persistente y pálida
 - Por favor tenga en cuenta que el empaque puede variar
 - Alcohol 4,6 vol
+- Temperatura recomendada: 4 a 6º
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BH8NBW5{{</world>}}

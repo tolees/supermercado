@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Grageas de delicioso chocolate con leche cubiertas de una crujiente capa de azúcar en 8 colores diferentes.
-- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado UTZ.
 - ¡Nuevo envoltorio de papel!
-- Contiene 6 porciones de Smarties.
 - ¡Unbox the imagination!
+- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado UTZ.
+- Contiene 6 porciones de Smarties.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5RR2JNP{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 40 porcentaje en volumen
 - ‎Apto para vegetarianos
 - Perfecto como un regalo
+- 40 porcentaje en volumen
 - Sabor ahumado
 - Colo dorado
 

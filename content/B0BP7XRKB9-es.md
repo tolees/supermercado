@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Axe Desodorante Aerosol 72h Aqua Bergamot para Hombre Fragancia Sabio y Enebro 150ml
-- Fragancia Premium Sabio y Enebro
-- Infinitamente reciclable
-- Libre de aluminio
-- No testado en animales (PETA Approved)
 - Aerosol hasta 72h para que te sientas fresco durante todo el día
+- Fragancia Premium Sabio y Enebro
+- No testado en animales (PETA Approved)
+- Libre de aluminio
+- Axe Desodorante Aerosol 72h Aqua Bergamot para Hombre Fragancia Sabio y Enebro 150ml
+- Infinitamente reciclable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BP7XRKB9{{</world>}}

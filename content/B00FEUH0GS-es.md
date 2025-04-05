@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Refresco americano
 - Sin cafeína con un intenso sabor a uva
 - Pack 12 latas Fanta sabor Uva
+- Refresco americano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FEUH0GS{{</world>}}

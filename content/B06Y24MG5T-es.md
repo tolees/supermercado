@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ETIQUETAS EXCLUSIVAS: Sin colorantes, sin conservantes y sin edulcorantes. Contiene Pescado. Apto para celiacos
 - POTENTE ANTIOXIDANTE: Contiene Vitamina C natural que favorece la formación del colágeno y ayuda a proteger las células contra el estrés oxidativo y a formar colágeno, esencial para la belleza de la piel.
 - SALUD DE LA PIEL: El ácido hialurónico es un buen complemento para atenuar las señales de envejecimiento y contribuir a mantener la piel flexible
-- OLIGOELEMENTOS ESENCIALES PARA EL ORGANISMO: Contiene 375 mg de Magnesio por dosis diaria que contribuye a la síntesis proteica normal y a la correcta contracción muscular. Ayuda a disminuir el cansancio y la fatiga.
-- CONTIENE AMINOACIDOS ESENCIALES: Collmar Colágeno Magnesio proviene de peces e incluye un alto porcentaje de aminoácidos esenciales. Se asimila mas fácilmente que otras fuentes de colágeno que provienen de animales terrestres
-- MARCA DRASANVI: Compañía Española especializada a nivel nacional e internacional en el desarrollo, distribución y comercialización de suplementos alimenticios, nutrición deportiva, alimentación bio y cosmética ecológica
 - PROPIEDADES ANTIINFLAMATORIAS: La acción de la cúrcuma contribuye a aliviar los dolores musculares y articulares. Alto porcentaje de Curcumina soluble para mejor absorción.
-- ALTO CONTENIDO EN COLÁGENO MARINO: Aporta 10 Gr de colágeno puro por dosis de Colágeno Marino Tipo I de bajo peso molecular que favorece la asimilación en el organismo para una acción óptima. Se asimila mas fácilmente que otras fuentes de colágeno que provienen de animales terrestres.
-- FÁCIL DE USAR/TOMAR: Tomar 2 cacitos dosificadores al dia mezclados con un vaso de agua o zumo. Fácil disolución y agradable sabor vainilla
+- OLIGOELEMENTOS ESENCIALES PARA EL ORGANISMO: Contiene 375 mg de Magnesio por dosis diaria que contribuye a la síntesis proteica normal y a la correcta contracción muscular. Ayuda a disminuir el cansancio y la fatiga.
 - FÓRMULA CON CÚRCUMA COMPLETA PARA LOS HUESOS, CARTILAGOS Y PIEL: Colágeno Marino Hidrolizado enzimáticamente que ayuda al funcionamiento normal de cartílagos, huesos y piel.Complemento alimenticio a base de colágeno, plantas, minerales y ácido hialurónico
+- FÁCIL DE USAR/TOMAR: Tomar 2 cacitos dosificadores al dia mezclados con un vaso de agua o zumo. Fácil disolución y agradable sabor vainilla
+- ALTO CONTENIDO EN COLÁGENO MARINO: Aporta 10 Gr de colágeno puro por dosis de Colágeno Marino Tipo I de bajo peso molecular que favorece la asimilación en el organismo para una acción óptima. Se asimila mas fácilmente que otras fuentes de colágeno que provienen de animales terrestres.
+- ETIQUETAS EXCLUSIVAS: Sin colorantes, sin conservantes y sin edulcorantes. Contiene Pescado. Apto para celiacos
+- MARCA DRASANVI: Compañía Española especializada a nivel nacional e internacional en el desarrollo, distribución y comercialización de suplementos alimenticios, nutrición deportiva, alimentación bio y cosmética ecológica
+- CONTIENE AMINOACIDOS ESENCIALES: Collmar Colágeno Magnesio proviene de peces e incluye un alto porcentaje de aminoácidos esenciales. Se asimila mas fácilmente que otras fuentes de colágeno que provienen de animales terrestres
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06Y24MG5T{{</world>}}

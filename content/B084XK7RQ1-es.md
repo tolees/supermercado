@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contiene vitamina e, poderoso antioxidante que previene el envejecimiento
 - Estabilizador del ph gracias a sus ácidos grasos
 - Alto contenido en grasas omega, que aporta un extra de hidratación por su poder humectante
-- Contiene vitamina e, poderoso antioxidante que previene el envejecimiento
 - Posee antioxidantes que protegen frente a la radiación diaria y polución ambiental
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

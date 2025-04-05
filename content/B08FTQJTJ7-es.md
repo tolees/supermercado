@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- En una bolsa con cierre
-- En una ensaladera grande, combine la cebolla, las aceitunas, los pimientos, los tomates, el pepino y el queso. Mezclar con el aceite de oliva y 1 cucharada de nuestra "Ensalada Mix" y está lista.
 - 100% Natural
+- En una bolsa con cierre
 - No contiene aditivos químicos.
+- En una ensaladera grande, combine la cebolla, las aceitunas, los pimientos, los tomates, el pepino y el queso. Mezclar con el aceite de oliva y 1 cucharada de nuestra "Ensalada Mix" y está lista.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08FTQJTJ7{{</world>}}

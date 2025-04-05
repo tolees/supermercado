@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cepillo de base biológica fabricado con fibras 100% biológicas
-- Resistente al agua
 - Fabricado con un 99% de ingredientes de origen natural
+- Resistente al agua
+- Cepillo de base biológica fabricado con fibras 100% biológicas
 - Sin perfumes
 - Envase fabricado con materiales reciclados
 

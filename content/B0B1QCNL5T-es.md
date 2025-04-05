@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnologia antitransferencia de colores: Ahorra en lavados mezclando ropa blanca y de color!
-- BAG in BOX: El formato más sostenible del mercado. -75% de plástico respecto a una botella convencional. Cartón FSC. Dispnesador anti-goteo
-- Nuestro detergente es de formulación concentrada, con lo que transportamos menos agua y más materia activa.
 - DETERGENTE LÍQUIDO para todo tipo de prendas y colores. Efectivo en agua fría
+- Nuestro detergente es de formulación concentrada, con lo que transportamos menos agua y más materia activa.
+- BAG in BOX: El formato más sostenible del mercado. -75% de plástico respecto a una botella convencional. Cartón FSC. Dispnesador anti-goteo
+- Tecnologia antitransferencia de colores: Ahorra en lavados mezclando ropa blanca y de color!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1QCNL5T{{</world>}}

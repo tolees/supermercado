@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Preparar bien el suelo y con una capa superficial fina (2 cm
-- Cosecha: a partir de 150 Días
 - Forma de cultivo: en semillero hasta que la planta tenga cierto grosor. Después trasplantar a un marco de 40x10 cm
+- Preparar bien el suelo y con una capa superficial fina (2 cm
 - Grande, globosa y color blanco plateado. Tierna. Buscar las fincas más fértiles y que no sean arcillosas
+- Cosecha: a partir de 150 Días
 - Siembra: de Septiembre a Febrero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

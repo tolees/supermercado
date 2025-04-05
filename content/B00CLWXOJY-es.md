@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Batiste
 - Género: Mujer
-- Nombre de la fragancia: Fresh
 - Tipo de producto: Champú
+- Nombre de la fragancia: Fresh
+- Marca: Batiste
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CLWXOJY{{</world>}}

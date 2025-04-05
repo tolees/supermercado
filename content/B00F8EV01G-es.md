@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El pack incluye 2 botellas de 2 litros cada una de Coca-Cola Original.
 - Disfruta con el refrescante sabor de toda la vida de Coca-Cola Original .
-- Te recomendamos tomar tu Coca Cola fría con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
+- El pack incluye 2 botellas de 2 litros cada una de Coca-Cola Original.
 - Nos preocupa el medio ambiente tanto como a tu, por eso nuestros envases son 100% reciclables, tíralos al contenedor amarillo
+- Te recomendamos tomar tu Coca Cola fría con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
 - Disfruta de Coca-Cola Original en cualquier momento, incluso en casa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

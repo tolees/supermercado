@@ -30,10 +30,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Atún claro de pesca responsable (APR) certificado AENOR CONFORM
 - Conserva de atún claro de pesca responsable APR en aceite de oliva
+- Pack de 6 latas individuales de 80 g, con tapa fácil apertura
+- Lata ideal para consumo individual
 - Método de pesca: cerco. Ver especie y zona de pesca en la lata.
 - País de origen: España, producto natural sin conservantes ni colorantes
-- Lata ideal para consumo individual
-- Pack de 6 latas individuales de 80 g, con tapa fácil apertura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XDNC3SI{{</world>}}

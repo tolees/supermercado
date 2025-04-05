@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula hidratante ligera que no obstruye los poros
-- Ideal como base de maquillaje: mantiene el maquillaje 2 veces más**
-- La crema refresca la piel del rostro y la prepara para el cuidado posterior
-- Contiene un 90 % de ingredientes de origen natural
-- Proporciona hidratación de 24 horas, sin sensación pegajosa en la piel
 - Crema facial de gel con ácido hialurónico y pepino
+- Fórmula hidratante ligera que no obstruye los poros
+- La crema refresca la piel del rostro y la prepara para el cuidado posterior
+- Ideal como base de maquillaje: mantiene el maquillaje 2 veces más**
+- Proporciona hidratación de 24 horas, sin sensación pegajosa en la piel
+- Contiene un 90 % de ingredientes de origen natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09D46WKVL{{</world>}}

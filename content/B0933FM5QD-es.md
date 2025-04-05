@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Con vitamnia B6 y D3
 - Ayuda a aliviar los sofocos y la sudoración nocturna
-- Sin estrógenos, soja o conservantes
 - Apto para uso prolongado
+- Sin estrógenos, soja o conservantes
 - Con extractos de origen natural
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

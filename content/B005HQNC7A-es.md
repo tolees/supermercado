@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Desde 1795 se produce según una receta invariable y madura durante cuatro años
-- Jim Beam es un compañero para cócteles y tragos largos
 - Es durante este período que adquiere su sabor ligero y polifacético, lo que lo hace tan popular, especialmente entre los hombres jóvenes
+- Jim Beam es un compañero para cócteles y tragos largos
+- Desde 1795 se produce según una receta invariable y madura durante cuatro años
 - Volumen de líquido: 1.75 L
 
 [🛒 Visítala!!!]({{< param buyurl >}})

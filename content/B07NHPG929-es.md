@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LIMPIEZA PROFUNDA Y REFRESCANTE: Nuestro jabón de ducha está especialmente formulado para limpiar la piel en profundidad, eliminando suciedad, grasa e impurezas. Disfruta de una ducha rejuvenecedora que dejará tu piel fresca, limpia y tonificada.
-- Sumérgete en el refrescante aroma de la madera de cedro mientras disfrutas de una ducha nutritiva y de una limpieza profunda
-- VIGORIZANTE AROMA A MADERA DE CEDRO: Sumérgete en el refrescante y terroso aroma de la madera de cedro con nuestro jabón de cuerpo. Experimenta una ducha revitalizante que te aportará energía para afrontar la jornada. APTO PARA VEGANOS + SIN CRUELDAD ANIMAL 🌿 HECHO EN EL REINO UNIDO 🇬🇧
-- INGREDIENTES NATURALES PARA NUTRIR LA PIEL: Enriquecido con ingredientes naturales como la L-arginina y el aceite del árbol del té, nuestro gel de cuerpo nutre e hidrata la piel, favoreciendo un cutis sano e hidratado. SIN SULFATOS Y SIN CRUELDAD ANIMAL: Creemos en un cuidado de la piel ético y responsable. Nuestro gel de ducha hidratante de cedro no contiene parabenos y es apto para veganos. Siéntete seguro sabiendo que estás usando un producto acorde a tus valores.
 - ENVASE HECHO CON PLÁSTICOS RECICLADOS POSCONSUMO (PCR): El envase de todos nuestros productos en formato tubo o botella está hecho de plásticos reciclados posconsumo, lo que significa que le damos una segunda vida al plástico. Estos envases no solo están hechos de plásticos reciclados, también se pueden reciclar al 100% sin necesidad de quitar etiquetas ni tapas.
+- Sumérgete en el refrescante aroma de la madera de cedro mientras disfrutas de una ducha nutritiva y de una limpieza profunda
+- INGREDIENTES NATURALES PARA NUTRIR LA PIEL: Enriquecido con ingredientes naturales como la L-arginina y el aceite del árbol del té, nuestro gel de cuerpo nutre e hidrata la piel, favoreciendo un cutis sano e hidratado. SIN SULFATOS Y SIN CRUELDAD ANIMAL: Creemos en un cuidado de la piel ético y responsable. Nuestro gel de ducha hidratante de cedro no contiene parabenos y es apto para veganos. Siéntete seguro sabiendo que estás usando un producto acorde a tus valores.
+- VIGORIZANTE AROMA A MADERA DE CEDRO: Sumérgete en el refrescante y terroso aroma de la madera de cedro con nuestro jabón de cuerpo. Experimenta una ducha revitalizante que te aportará energía para afrontar la jornada. APTO PARA VEGANOS + SIN CRUELDAD ANIMAL 🌿 HECHO EN EL REINO UNIDO 🇬🇧
+- LIMPIEZA PROFUNDA Y REFRESCANTE: Nuestro jabón de ducha está especialmente formulado para limpiar la piel en profundidad, eliminando suciedad, grasa e impurezas. Disfruta de una ducha rejuvenecedora que dejará tu piel fresca, limpia y tonificada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NHPG929{{</world>}}

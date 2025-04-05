@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - IDEAL PARA BRICOLAJE. El aceite con fragancia de vainilla es versátil para proyectos de bricolaje. Añada aceites esenciales de vainilla para bombas de baño, lociones corporales, fabricación de jabón, fabricación de velas o haga un roll on de perfume, perfume de aceite de vainilla para mujer o úselo como aceite de perfume.
 - ADVERTENCIA DE SEGURIDAD - Sólo para uso externo. Si no es para aromaterapia, diluir con un aceite portador. Frote una pequeña cantidad diluida en el interior de la zona del codo para comprobar si hay alguna reacción alérgica antes de usarla. Suspenda su uso si se produce alguna reacción alérgica. Mantener fuera del alcance de los animales domésticos. Evitar el contacto con los ojos, mantener fuera del alcance de los niños. Si está embarazada, consulte con su médico antes de usarlo.
-- ACEITE ESENCIAL DE VAINILLA PARA DIFUSOR. El aceite de vainilla para difusor es popular en aromaterapia por su fragancia. Añade aceite de vainilla para difusor a los difusores para el hogar o úsalo como aceite de perfume de vainilla para una mayor relajación.
 - Aumentar el amor y la pasión - La vainilla es principalmente para el estado de ánimo, ya que este aroma es conocido por impartir sentimientos de paz, comodidad y satisfacción,La vainilla puede tener una influencia maravillosamente calmante en la mente. El olor de la vainilla tiende a desencadenar recuerdos felices, lo que puede elevar el estado de ánimo y promover una sensación general de bienestar.
 - Sólo para uso externo.Se recomienda realizar una prueba cutánea antes de utilizar cualquier aceite esencial nuevo.Los niños, así como las personas embarazadas o en período de lactancia, deben consultar a su médico de cabecera antes de utilizar aceites esenciales.
+- ACEITE ESENCIAL DE VAINILLA PARA DIFUSOR. El aceite de vainilla para difusor es popular en aromaterapia por su fragancia. Añade aceite de vainilla para difusor a los difusores para el hogar o úsalo como aceite de perfume de vainilla para una mayor relajación.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWDDQS1M{{</world>}}

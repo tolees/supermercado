@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Producto pensado para hombres
 - Es una fragancia creada por Jean Paul Gaultier con notas frescas
-- Perfume con fragancia intensa y duradera
 - Contenido 75 ml
 - Agua de tocador de marca Jean Paul Gaultier
-- Producto pensado para hombres
+- Perfume con fragancia intensa y duradera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0743HLFH5{{</world>}}

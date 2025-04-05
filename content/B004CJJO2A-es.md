@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bain Volumifique es un champú corporizante que aporta volumen y ligereza al cabello normal o fino con falta de volumen. Gracias a la combinación del sistema Ampliflex y el Intra-Cylane, envuelve el cabello para darle relieve
-- Aplicar el champú sobre el cuero cabelludo. Emulsionar, masajear y repartir por la melena. Aclarar con agua abundante y volver a aplicar el champú
 - Expande la fibra capilar para un volumen potenciado y consigue un efecto amplificante al contacto con el agua aportando brillo desde la raíz hasta las puntas
+- Aplicar el champú sobre el cuero cabelludo. Emulsionar, masajear y repartir por la melena. Aclarar con agua abundante y volver a aplicar el champú
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B004CJJO2A{{</world>}}

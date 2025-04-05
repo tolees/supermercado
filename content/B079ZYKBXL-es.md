@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cada estuche contiene, aproximadamente, 13 porciones de 30 g
-- Sin aceite de palma, ni colorantes, ni aromas artificiales
-- Son fuente de fibra y tienen vitaminas del grupo B, calcio, hierro y ácido fólico
 - Cereales integrales como ingrediente principal
+- Son fuente de fibra y tienen vitaminas del grupo B, calcio, hierro y ácido fólico
+- Sin aceite de palma, ni colorantes, ni aromas artificiales
+- Cada estuche contiene, aproximadamente, 13 porciones de 30 g
 - Deliciosos cereales con sabor a chocolate y caramelo para que empieces el día a lo grande
 
 [🛒 Comprar!!!]({{< param buyurl >}})

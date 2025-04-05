@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: Instituto Español
 - Producto de alta calidad
-- resistente y con diseño funcional
 - Resistente y con diseño funcional
+- Marca: Instituto Español
+- resistente y con diseño funcional
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06XYW4TNJ{{</world>}}

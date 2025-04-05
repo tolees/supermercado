@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fortalece el cabello
 - Evita la resequedad, protege, hidrata, nutre y aporta brillo y suavidad
-- Acondiciona el cabello. Contiene oro liquido para el pelo
-- Para el cabello: Natural; Unidades: 1000.0
-- Prolonga el efecto de los tratamientos de alisado y coloración
 - Libre de sales ni sulfatos
+- Fortalece el cabello
+- Acondiciona el cabello. Contiene oro liquido para el pelo
+- Prolonga el efecto de los tratamientos de alisado y coloración
+- Para el cabello: Natural; Unidades: 1000.0
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01I2Y2BZ2{{</world>}}

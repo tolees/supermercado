@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Previene infecciones
-- Neutraliza el olor
-- Ginecológicamente testado
 - Lucha contra la sequedad
 - Para adultos y adolescentes
+- Ginecológicamente testado
+- Previene infecciones
+- Neutraliza el olor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06XP9KSYP{{</world>}}

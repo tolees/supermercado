@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 🏆 [ ALTA DOSIS ] Cada cápsula aporta 1000mg de L-Carnitina L-Tartrato. Ayuda a alcanzar la dosis diaria recomendada de 3 gramos de producto → Con tan solo 3 tomas diarias.
-- 🌿 [ CARNITINA VEGANA ] Recubrimiento de la cápsula vegetal, ¡Sin Gelatinas!. La materia prima y el ingrediente principal también son vegetales → Es un complemento alimenticio apto para personas que siguen una dieta vegana o vegetariana.
-- ☀️ [ FABRICACIÓN EN ESPAÑA ] Fabricado en laboratorio certificado con IFS. Sin OGM (Organismos Modificados Genéticamente). Buenas prácticas de fabricación (GMP). NO Contiene → Gluten, Pescado, Lactosa, Lácteos, Soja, Frutos Secos, Huevo.
-- 🚀 [ ¿CÓMO TOMAR? ] Se recomienda tomar la dosis diaria compuesta por 3 cápsulas vegetales. Aunque el momento de la ingesta no es relevante, para evitar olvido → Tómalas junto a las comidas.
 - 🔝 [ CARNITINA CARNIPURE ] Complemento alimenticio en cápsulas vegetales en la forma de L-Carnitina de mayor biodisponibilidad empleando la Materia Prima Carnipure (de la empresa suiza Lonza) → ¡Máxima garantía de pureza y calidad!
+- 🚀 [ ¿CÓMO TOMAR? ] Se recomienda tomar la dosis diaria compuesta por 3 cápsulas vegetales. Aunque el momento de la ingesta no es relevante, para evitar olvido → Tómalas junto a las comidas.
+- ☀️ [ FABRICACIÓN EN ESPAÑA ] Fabricado en laboratorio certificado con IFS. Sin OGM (Organismos Modificados Genéticamente). Buenas prácticas de fabricación (GMP). NO Contiene → Gluten, Pescado, Lactosa, Lácteos, Soja, Frutos Secos, Huevo.
+- 🌿 [ CARNITINA VEGANA ] Recubrimiento de la cápsula vegetal, ¡Sin Gelatinas!. La materia prima y el ingrediente principal también son vegetales → Es un complemento alimenticio apto para personas que siguen una dieta vegana o vegetariana.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0781VSWX9{{</world>}}

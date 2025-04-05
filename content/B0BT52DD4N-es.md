@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido: 1x Garnier Fructis Hair Drink Banana, Agua lamelar instantánea, Acondicionador líquido, Para cabello seco, Volumen: 200ml
 - Después de lavar el cabello, aplique el tratamiento lamelar Hair Drink sobre el cabello húmedo, masaje los largos y deje actuar durante 10 segundos.
 - Cabello 10 veces más nutrido*** y más brillante sin encrespamiento. Acondiciona el cabello. Proporciona al cabello un brillo efecto espejo
-- Fórmula 97% de origen natural* mezclada con banana, Contiene láminas ultrafinas, Sin siliconas para un tacto natural, Fórmula vegana
+- Contenido: 1x Garnier Fructis Hair Drink Banana, Agua lamelar instantánea, Acondicionador líquido, Para cabello seco, Volumen: 200ml
 - Acondicionador líquido ultraligero con tecnología lamelar para el cabello seco y sin brillo. Tratamiento capilar que transforma el cabello en 10 segundos
+- Fórmula 97% de origen natural* mezclada con banana, Contiene láminas ultrafinas, Sin siliconas para un tacto natural, Fórmula vegana
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BT52DD4N{{</world>}}

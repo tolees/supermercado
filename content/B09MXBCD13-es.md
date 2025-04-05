@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con cremallera
 - Este producto es original Levis
+- Con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09MXBCD13{{</world>}}

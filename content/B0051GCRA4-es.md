@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EL MEJOR COMPAÑERO PARA TU CAFÉ. Para llevar fuera de casa y tomarlo como premio después de la comida o tomarlos como un snack gourmet a cualquier hora del día
-- Contiene 300 galletas envueltas individualmente
-- PERFECTAS PARA ALMACENAR en la despensa de casa o para tenerlo a mano en la oficina como snacks para los empleados
 - LOTUS BISCOFF ES UNA GALLETA ÚNICA, sorprendentemente crujiente con un bocado y con un sabor diferente. Su textura única caramelizada encanta a todo el mundo
+- Contiene 300 galletas envueltas individualmente
+- EL MEJOR COMPAÑERO PARA TU CAFÉ. Para llevar fuera de casa y tomarlo como premio después de la comida o tomarlos como un snack gourmet a cualquier hora del día
+- PERFECTAS PARA ALMACENAR en la despensa de casa o para tenerlo a mano en la oficina como snacks para los empleados
 - UN PUÑADO DE INGREDIENTES NATURALES. Nuestras galletas son aptas para veganos, hechas con aceite de palma de plantaciones sostenibles y certificadas. No tienen colorantes o aromas artificiales, y sin conservantes. Una receta única desde 1932. Hechas en Bélgica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

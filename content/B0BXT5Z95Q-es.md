@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Rico y suave, con sutiles notas afrutadas
-- Apto para una dieta vegetariana y vegana
-- 4 x 36 cápsulas
-- Sigue siempre las instrucciones del fabricante de la cafetera
-- Certificado Rainforest Alliance: El café que obtenemos para este producto tiene la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también hace el bien. Con cada taza apoyas a cientos de agricultores y sus familias en todo el mundo y haces algo bueno por la selva tropical. Buen café por una buena causa
 - Intensidad 3/5
+- Certificado Rainforest Alliance: El café que obtenemos para este producto tiene la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también hace el bien. Con cada taza apoyas a cientos de agricultores y sus familias en todo el mundo y haces algo bueno por la selva tropical. Buen café por una buena causa
+- 4 x 36 cápsulas
+- Apto para una dieta vegetariana y vegana
+- Sigue siempre las instrucciones del fabricante de la cafetera
 - Cápsulas de café Crema 100 % Arábica
 - Senseo no tiene ninguna relación con Amazon. Envasado en atmósfera modificada
 - Envasado en Bélgica

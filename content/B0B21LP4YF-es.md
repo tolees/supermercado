@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Proteger de la luz solar y de olores agresivos
 - Tiene contenido elevado de cafeína
-- Realizado con niacina y vitaminas B6 y B12
 - Bebida energética sin azúcar sabor mandarina
 - Con una burbuja fina y duradera
+- Realizado con niacina y vitaminas B6 y B12
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B21LP4YF{{</world>}}
