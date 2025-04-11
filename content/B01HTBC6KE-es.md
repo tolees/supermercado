@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para cualquier edad
-- Leche con vitamina D, K y B12
-- Una vez abierto se debe mantener refrigerado
 - Producto de España
+- Una vez abierto se debe mantener refrigerado
+- Leche con vitamina D, K y B12
+- Ideal para cualquier edad
 - Fuente de fósforo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

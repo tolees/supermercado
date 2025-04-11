@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Triple complejo proteico que contiene proteínas de soja, arroz y quinoa; las proteínas contribuyen al mantenimiento de la masa muscular; apto para vegetarianos (7); no contiene edulcorantes ni colorantes.
-- FUERZA Y ENERGÍA: Las proteínas para mantener la masa muscular, el calcio y la vitamina D para ayudar al funcionamiento normal de los músculos y a mantener los huesos en condiciones normales y, las vitaminas B2, B6, B12 y ácido pantoténico contribuyen a la reducción del cansancio y la fatiga
 - SABOR: Delicioso sabor a Almendra.
 - DEFENSAS: Vitamina C que contribuye a la función normal del sistema inmunitario.
+- FUERZA Y ENERGÍA: Las proteínas para mantener la masa muscular, el calcio y la vitamina D para ayudar al funcionamiento normal de los músculos y a mantener los huesos en condiciones normales y, las vitaminas B2, B6, B12 y ácido pantoténico contribuyen a la reducción del cansancio y la fatiga
 - HMB(6): cada toma de 230 ml contiene 0,74 g de CaHMB, equivalente a 0,59g de HMB.
+- Triple complejo proteico que contiene proteínas de soja, arroz y quinoa; las proteínas contribuyen al mantenimiento de la masa muscular; apto para vegetarianos (7); no contiene edulcorantes ni colorantes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGLD1XL1{{</world>}}

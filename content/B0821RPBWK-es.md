@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paso 4: Aplicar la Crema de Peinar AfroHair para terminar. No aclarar.
 - Paso 1: Lave el cabello con el Champú AfroHair y masajee desde el cuero cabelludo hasta las puntas. Aclarar.
-- Paso 2: Aplicar la Mascarilla AfroHair y dejarla aplicada durante 10 minutos. Aclarar.
+- Paso 4: Aplicar la Crema de Peinar AfroHair para terminar. No aclarar.
 - Paso 3: Aplicar el Acondicionador AfroHair y dejar aplicado durante 2 minutos. Aclarar.
+- Paso 2: Aplicar la Mascarilla AfroHair y dejarla aplicada durante 10 minutos. Aclarar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0821RPBWK{{</world>}}

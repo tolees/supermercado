@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- IDEAL PARA: Nitro Pro mejora el aumento de óxido nítrico y es efectivo en periodos de alta carga o competición, tomando 400 mg de nitratos antes del ejercicio durante períodos de 3 a 7 días consecutivos
-- BENEFICIOS: Con la toma de nitratos se consigue un aumento del óxido nítrico que actúa como vasodilatador ensanchando los vasos sanguíneos y consiguiendo un mayor flujo de sangre a los músculos, mejorando así el rendimiento físico. Además el óxido nítrico en la sangre actúa como un regulador de la actividad del sistema inmunitario, el cerebro, las arterias, el hígado, el páncreas, el útero y los pulmones
 - COMPLEMENTO ALIMENTICIO: Nitro Pro únicamente formulado con concentrado de remolacha y extracto seco de remolacha aporta 400 mg de nitratos por toma de manera natural y sin añadidos químicos
+- BENEFICIOS: Con la toma de nitratos se consigue un aumento del óxido nítrico que actúa como vasodilatador ensanchando los vasos sanguíneos y consiguiendo un mayor flujo de sangre a los músculos, mejorando así el rendimiento físico. Además el óxido nítrico en la sangre actúa como un regulador de la actividad del sistema inmunitario, el cerebro, las arterias, el hígado, el páncreas, el útero y los pulmones
+- IDEAL PARA: Nitro Pro mejora el aumento de óxido nítrico y es efectivo en periodos de alta carga o competición, tomando 400 mg de nitratos antes del ejercicio durante períodos de 3 a 7 días consecutivos
 - PRODUCTO VEGANO: Nitro Pro es un producto vegano, vegetariano y paleo. Además, no contiene gluten, cafeína o azúcares añadidos
 - MODO DE USO: Disolver una monodosis en 150-200 ml de agua y agitar, tomar 2-3 horas antes del ejercicio mínimo 3 días y máximo 7 días en semanas de alta carga o competición
 

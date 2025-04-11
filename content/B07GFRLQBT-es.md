@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Extractos naturales: vitamina A, melón y leche orgánica
-- CrueltyFree
 - Para una piel siempre hidratada, suave y elástica. Una ducha energizante para una piel en forma
 - Gel de baño nutritivo con extracto dulce y envolvente de melón, enriquecido con proteínas de leche
+- CrueltyFree
+- Extractos naturales: vitamina A, melón y leche orgánica
 - La vitamina A ayuda a mejorar la resistencia de la piel y la mantiene con aspecto joven y saludable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

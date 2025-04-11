@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 💤FÓRMULA 2 EN 1: Gominolas melatonina 1,9 mg para dormir plácidamente con VITAMINA B6 que contribuye al funcionamiento normal del sistema nervioso, a la función psicológica normal y a disminuir el cansancio y la fatiga. Un cóctel perfecto para tu descanso. Rico sabor Cereza
 - 🌿 MARCA DRASANVI: Compañía española especializada a nivel nacional e internacional en el desarrollo, distribución y comercialización de suplementos alimenticios, nutrición deportiva, alimentación bio y cosmética ecológica
-- 😴BENEFICIOS DE LA MELATONINA: Regulación del sueño y la vigiilia. Tomar melatonina gominolas al acostarse, participa en nuestro reloj biológico ayudandonos a disminuir el tiempo necesario para conciliar el sueño. Las gominolas de Melatonina de Drasanvi no tienen azúcar y saben a Cereza
 - ⁉️ CUANDO TOMAR MELATONINA: En trastornos del sueño, problemas al conciliar el sueño, cambios de zona horaria, trabajos por turnos o problemas de ritmo circadiano. Ayuda a conciliar el sueño más rápido manteniendo un ciclo de sueño mas regular. 1 Gominola al día 1 hora antes de acostarse
+- 😴BENEFICIOS DE LA MELATONINA: Regulación del sueño y la vigiilia. Tomar melatonina gominolas al acostarse, participa en nuestro reloj biológico ayudandonos a disminuir el tiempo necesario para conciliar el sueño. Las gominolas de Melatonina de Drasanvi no tienen azúcar y saben a Cereza
 - 🍬GOMINOLAS MELATONINA: La Melatonina es una hormona natural producida por la glándula pineal en el cerebro que juega un papel importante en la regulación de los ciclos de sueño-vigilia. Su producción aumenta en la oscuridad y disminuye en presencia de luz. La melatonina también está disponible como suplemento, en este caso en formato gominola con un rico sabor a Cereza con 1,9 mg de melatonina por unidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

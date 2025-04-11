@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplicar sobre los labios limpios y repasar si fuese necesario. Sensación temporal de hormigueo tras la aplicación. Puedes combinarlo con el perfilador labial Line Loud para un efecto de volumen total
-- Volumen, brillo y alta pigmentación para unos labios de color intenso en una sola pasada. Disponible en 18 tonos
 - Gloss labial con efecto relleno para aportar un volumen instantáneo y duradero a los labios
 - Fórmula vegana. Enriquecido con jengibre picante para una sensación de volumen extremo duradera. No aplicar en labios dañados o sensibles
+- Volumen, brillo y alta pigmentación para unos labios de color intenso en una sola pasada. Disponible en 18 tonos
+- Aplicar sobre los labios limpios y repasar si fuese necesario. Sensación temporal de hormigueo tras la aplicación. Puedes combinarlo con el perfilador labial Line Loud para un efecto de volumen total
 - Contenido: 1x NYX Professional Makeup Duck Plump, Brillo de Labios Efecto Volumen Instantáneo, Con Jengibre Picante, Fórmula Vegana, 6,8 ml, Tono: Cherry Spice
 
 [🛒 Visítala!!!]({{< param buyurl >}})

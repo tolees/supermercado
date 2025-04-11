@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Crea tu labio mate en 7 tonos -llevables
-- Una combinación de colores vivos y un suave efecto satinado, dejando en los labios un efecto aterciopelado
-- La fórmula mate está impregnada de aceites y mantecas para una sensación de hidratación aterciopelada
 - Acabado satinado mate suave
+- La fórmula mate está impregnada de aceites y mantecas para una sensación de hidratación aterciopelada
+- Una combinación de colores vivos y un suave efecto satinado, dejando en los labios un efecto aterciopelado
 - El color se desliza suavemente a través de los labios
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cascará blanca con rayas oscuras
 - Forma de cultivo por directamente sobre el terreno elegido
 - Variedad hibrida de girasol para consumo
-- Cascará blanca con rayas oscuras
 - Se siembra de marzo a mayo y cosecha en septiembre u octubre
 
 [🛒 Comprar!!!]({{< param buyurl >}})

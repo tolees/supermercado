@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en lugar fresco y seco
-- Ideal para el desayuno o una pausa durante el día
-- Es descafeinado
 - Café soluble con magnesio
+- Es descafeinado
+- Conservar en lugar fresco y seco
 - Viene en un contenedor 100% reciclable
+- Ideal para el desayuno o una pausa durante el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XACN2L4{{</world>}}

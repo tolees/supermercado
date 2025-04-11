@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Contiene 1/4 de crema hidratante Dove, lo que cuida tus manos mientras las lavas
+- Viene en una presentación de 500 ml con tapa para facilitar el rellenado
 - Dove Care & Protect es un jabón líquido diseñado para mujeres
 - Limpia eficientemente la piel y elimina todas las impurezas
-- Viene en una presentación de 500 ml con tapa para facilitar el rellenado
 - Deja las manos higiénicamente limpias
 
 [🛒 Comprar!!!]({{< param buyurl >}})

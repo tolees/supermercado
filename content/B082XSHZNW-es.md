@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color intenso
 - Formulación de óptima calidad
 - Respeta la luminosidad del color
+- Color intenso
 - Espejo incorporado para retoques durante todo el día
 - Aplicación de tacto de seda creando una película fina y cómoda
 

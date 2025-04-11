@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fórmula enriquecida con pigmentos suaves para un resultado intenso desde la primera pasada
-- Hipoalergénico, fórmula agradable para los ojos enriquecida con cera natural y vitamina E
-- Khôl y delineador de ojos 2 en 1 que enfatiza perfectamente la mirada
 - Color intenso y ahumado con una fácil y suave aplicación
+- Khôl y delineador de ojos 2 en 1 que enfatiza perfectamente la mirada
+- Hipoalergénico, fórmula agradable para los ojos enriquecida con cera natural y vitamina E
+- Fórmula enriquecida con pigmentos suaves para un resultado intenso desde la primera pasada
 - Hasta 16 horas de duración
 
 [🛒 Aquí!!!]({{< param buyurl >}})

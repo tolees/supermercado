@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
-- Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
-- Receta bajo en grasa
 - Legumbres de cultivo local, cuidadosamente seleccionadas y acompañadas de su sofrito
+- Receta bajo en grasa
+- Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
+- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
 - Comida española fácil de preparar: al baño maria, en cazo o al microondas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

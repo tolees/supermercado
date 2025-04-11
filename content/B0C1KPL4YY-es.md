@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con Vitaminas C y D que contribuyen a la función normal del sistema inmunitario
 - Con Hierro, Zinc
 - Con DHA; la ingesta de ácido docosahexaenoico (DHA) contribuye al desarrollo visual normal de los niños hasta los 12 meses de edad; el efecto beneficioso se obtiene con una dosis diaria de 100 mg de DHA
+- Con Vitaminas C y D que contribuyen a la función normal del sistema inmunitario
 - Leche de continuación, desde los 6 meses
 
 [🛒 Comprar!!!]({{< param buyurl >}})

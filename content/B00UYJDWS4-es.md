@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Enriquecido con aceite de argán y vitamina E para un look revitalizante
 - Sensación de comodidad, nada pegajoso
+- Enriquecido con aceite de argán y vitamina E para un look revitalizante
 - Acabado preciso con efecto 3D
-- Duración de hasta 6H
 - Labios más brillantes y luminosos
+- Duración de hasta 6H
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00UYJDWS4{{</world>}}

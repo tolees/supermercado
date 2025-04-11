@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Mascarilla alisadora intensa para cabello grueso, rebelde, indisciplinado o alisado. Enriquecida con Keratina y aceites de Kukui y Onagra. Protege del encrespamiento, purificando y suavizando el cabello. El tratamiento ideal para conseguir disciplinar el cabello rebelde.
-- Para un alisado intenso y un cabello sin encrespamiento. Protege del encrespamiento y suaviza el cabello.
 - Usar de 1 a 2 veces por semana. Aplicar en medios y puntas, no en raíces. Dejar actuar 2-3 minutos y después aclarar.
+- Para un alisado intenso y un cabello sin encrespamiento. Protege del encrespamiento y suaviza el cabello.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0918CJCVL{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contiene Eau de Toilette 50 ml y Body Spray 200 ml
 - Fragancia oriental floral
-- Aroma amaderado y especiado, es inconfundible y tradicional
 - El regalo optimo
 - Set Pret a Porter para mujer
-- Contiene Eau de Toilette 50 ml y Body Spray 200 ml
+- Aroma amaderado y especiado, es inconfundible y tradicional
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVRM4T1G{{</world>}}

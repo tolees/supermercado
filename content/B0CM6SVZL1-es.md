@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🌀 DETERGENTE FLOTA | EFICACIA: Incluso en lavados cortos o agua fría con una pequeña dosificación
 - 👚 MANTIENE Y PROTEGE: la ropa blanca y de color aportando la máxima suavidad en tus prendas y evitando la electricidad estática y el daño que ocasiona el lavado
+- 🌀 DETERGENTE FLOTA | EFICACIA: Incluso en lavados cortos o agua fría con una pequeña dosificación
 - 👚 COLADA IMPECABLE: Limpieza total gracias a las potentes encimas de Flota Active Plus, antimanchas, antiolores y protección y brillo gracias al suavizante SAN
 - 👚 APTO PARA PRENDAS DELICADAS: medias, ropa interior, prendas de baño, ropita de bebé, etc
 - 🌸 SUAVIZANTE SAN | FRESCOR Y FRAGANCIA duradera, gracias a la selección exhaustiva de expertos perfumistas

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Consigue unas pestañas con volumen y longitud espectacular, unos labios impecables y una mirada súper natural.
 - LOreal Paris es la marca de cosméticos líder en todo el mundo que acerca lo mejor de la belleza del lujo a todos, ahora con sus exclusivos cofres de maquillaje.
-- Contenido del Cofre LOréal París: 1 x Máscara de Pestañas Lash Paradise + 1x Labial Color Riche + 1x Mini Liner Le Khol
 - ¿Cuál es la rutina a seguir? Aplica la máscara sobre tus pestañas realizando movimientos de zigzag, luego aplica el mini liner sobre tus ojos y termina usando el labial de Color Riche. Usa esta rutina diariamente.
+- Contenido del Cofre LOréal París: 1 x Máscara de Pestañas Lash Paradise + 1x Labial Color Riche + 1x Mini Liner Le Khol
+- Consigue unas pestañas con volumen y longitud espectacular, unos labios impecables y una mirada súper natural.
 - Descubre el nuevo Cofre LOréal París que incluye una máscara de pestañas voluminizadora Lash Paradise con aceite de ricino para cuidar tus pestañas, un labial mate de Color Riche en tono nude rosado y un mini liner Le Khôl negro. El kit perfecto para conseguir un look natural para todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

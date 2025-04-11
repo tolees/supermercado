@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esponjas de maquillaje Real Techniques
 - Producto de alta calidad
+- Esponjas de maquillaje Real Techniques
 - Real Techniques Miracle Complexion Sponge 1stuk
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ALTAMENTE DIGERIBLE: desde el punto de vista nutricional, su fórmula fue aprobada por el Departamento de Ciencias médicas veterinarias - Alma Mater Studiorum Universidad de Bolonia
-- CRUELTY FREE: no se realizan pruebas invasivas en los animales para la producción de los piensos. Sin conservantes ni colorantes adicionales.
-- ECOSOSTENIBILIDAD: Trazabilidad completa. El origen y los procesos de elaboración de la materia prima utilizada para la producción de los alimentos se controlan constantemente.
 - COMPOSICIÓN: ingredientes naturales al 100%, sin conservantes ni colorantes adicionales; cocción al vapor, elaboración a mano, en gelatina.
+- ECOSOSTENIBILIDAD: Trazabilidad completa. El origen y los procesos de elaboración de la materia prima utilizada para la producción de los alimentos se controlan constantemente.
+- CRUELTY FREE: no se realizan pruebas invasivas en los animales para la producción de los piensos. Sin conservantes ni colorantes adicionales.
 - SCHESIR DOG: ideal para perros adultoses un alimento completo y equilibrado que pertenece a la línea comida húmeda.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

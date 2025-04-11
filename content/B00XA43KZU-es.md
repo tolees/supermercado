@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Neutraliza olores y perfuma tu hogar
 - Una fragancia suave y cálida inspirada en el frescor que el suavizante FLOR deja en tu ropa recién lavanda
+- Neutraliza olores y perfuma tu hogar
 - Elije tres niveles de intensidad para conseguir tu nivel de fragancia ideal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

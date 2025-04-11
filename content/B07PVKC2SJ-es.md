@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Gel muy perfumado Coco. Exótica fragancia
 - Género; Unisex. Adulto e infantil
 - No testado en animales. Vegano. Fabricación íntegra en España
-- Gel muy perfumado Coco. Exótica fragancia
 - Gel de baño y ducha nutriente, aporta gran suavidad a la piel dejándola muy perfumada
 - Libre de Parabenos. Dermatológicamente testado. Vegano. Crea mucha espuma
 

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fácil de aplicar
-- Marca: Garnier
-- Aporta en una hora, un bronceado dorado y uniforme, sin marcas durante 1 semana
 - Hidrata y broncea la piel de manera natural
+- Aporta en una hora, un bronceado dorado y uniforme, sin marcas durante 1 semana
+- Marca: Garnier
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09WNH6PDD{{</world>}}

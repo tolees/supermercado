@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incomparable carácter moderno brit-chic
-- Esmalte reactivo aplicado a mano
-- Cada taza y platillo es un ejemplar único
 - Juego de tazas vintage
+- Cada taza y platillo es un ejemplar único
+- Esmalte reactivo aplicado a mano
 - Aptos para microondas y lavavajillas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

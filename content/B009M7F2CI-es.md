@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ron 12 años, color caoba con reflejos dorados, de densa lágrima y rico en aromas
 - Graduación: 40º
+- Ron 12 años, color caoba con reflejos dorados, de densa lágrima y rico en aromas
 - Capacidad: 70 cl
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cabello y planeta nutridos: botella 100 % reciclada y reciclable, excepto el tapón
-- Esencias vegetales: champú con coco y aloe puros
+- 2 veces más nutrición en un solo uso. Alimenta tu pelo con antioxidantes y nutrientes de origen vegetal
 - 95 % de origen natural (73 % de agua purificada y 22 % de ingredientes de origen natural) y el 5 % restante para proporcionar una buena experiencia de uso
 - Belleza responsable: vegano y respetuoso con los animales, certificado por PETA. No contiene siliconas. Seguro para el pelo teñido
 - Champú hidratante: ayuda a hidratar el pelo dañado suavizando y mostrando su belleza natural
-- 2 veces más nutrición en un solo uso. Alimenta tu pelo con antioxidantes y nutrientes de origen vegetal
+- Cabello y planeta nutridos: botella 100 % reciclada y reciclable, excepto el tapón
+- Esencias vegetales: champú con coco y aloe puros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08YG8BD4H{{</world>}}

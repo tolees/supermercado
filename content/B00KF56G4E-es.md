@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colo dorado
+- Perfecto como un regalo
 - ‎Apto para vegetarianos
 - Sabor ahumado
+- Colo dorado
 - 40 porcentaje en volumen
-- Perfecto como un regalo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00KF56G4E{{</world>}}

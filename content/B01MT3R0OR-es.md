@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Spray automático portable y elegante
-- Funciona con una sola pila
-- Con una fragancia fresca y ligera
-- El ambalaje puede variar
 - Dispinible con tres niveles de intensidad
+- Funciona con una sola pila
+- El ambalaje puede variar
+- Spray automático portable y elegante
+- Con una fragancia fresca y ligera
 - Elimina olores y perfuma de forma continua hasta 70 días
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

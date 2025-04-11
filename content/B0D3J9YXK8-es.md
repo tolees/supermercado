@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La filtración y embotellado, llevados a cabo con los estándares más rigurosos, dan vida al tesoro que es el aceite DobleJjota
 - Frutal suave
 - Expresiones aromáticas y gustativas que encantan, con un equilibrio entre amargor y picante que persiste en el paladar
+- La filtración y embotellado, llevados a cabo con los estándares más rigurosos, dan vida al tesoro que es el aceite DobleJjota
 - Cada botella de DOBLE JJOTA, lleva el aroma a aceituna verde, con toques herbáceos y sabores a fruta fresca, almendras y hojas de olivo, creando una experiencia sensorial única
 - Amargo ligero y elegante picante
 - La extracción se convierte en danza. La centrifugación separa el oro líquido del agua, depositándolo en tanques de acero inoxidable

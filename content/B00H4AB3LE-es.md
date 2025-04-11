@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Especial para pieles atópicas
 - Control dermatológico y ginecológico
-- Sin parabenos, minimiza las reacciones alérgicas
-- Uso diario para piel atópica
 - Higiene íntima femenina
+- Uso diario para piel atópica
+- Especial para pieles atópicas
+- Sin parabenos, minimiza las reacciones alérgicas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00H4AB3LE{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cerveza weissbier 0,0, elaborada según la tradición bávara, con una espuma densa y blanca. Es la cerveza sin alcohol de Franziskaner, y gracias a su característico y tradicional sabor afrutado y especiado, la Franziskaner Sin es una gran alternativa para aquellas ocasiones en las que prefieras no consumir alcohol.
-- Aroma: Cerveza Franziskaner Alcoholfrei es de perfil potente y complejo que recuerdan al plátano o a especias de clavo, junto a otras notas maltosas de caramelo con recuerdos a frutas pasas
-- Sabor: Cerveza Franziskaner Alcoholfrei sin alcohol tiene cuerpo y con un punto de acidez, muy bien equilibrado. Tiene un perfil marcadamente maltoso con sabores a mosto, cereal tostado y caramelo, con un fondo sutilmente afrutado. En boca es ligera de cuerpo, de bajo amargor, sedosa y con un final de delicado dulzor
-- Pack de 12 botellas x 50 cl de Franziskaner Alcoholfrei, con 0.5% de alcohol. La cerveza Franziskaner Weizenbier Alcoholfrei, es la alternativa perfecta a la cerveza de trigo pero sin alcohol. Gracias a su característico y tradicional sabor afrutado y especiado y a su espuma densa y blanca, esta cerveza te encantará y te hará disfrutar de cada trago. Para un mayor disfrute, se recomienda consumir a 3º C
 - Apariencia: Cerveza de color castaño, de ligera turbidez por la levadura en suspensión, aspecto brillante y con una espuma muy cremosa
+- Aroma: Cerveza Franziskaner Alcoholfrei es de perfil potente y complejo que recuerdan al plátano o a especias de clavo, junto a otras notas maltosas de caramelo con recuerdos a frutas pasas
+- Pack de 12 botellas x 50 cl de Franziskaner Alcoholfrei, con 0.5% de alcohol. La cerveza Franziskaner Weizenbier Alcoholfrei, es la alternativa perfecta a la cerveza de trigo pero sin alcohol. Gracias a su característico y tradicional sabor afrutado y especiado y a su espuma densa y blanca, esta cerveza te encantará y te hará disfrutar de cada trago. Para un mayor disfrute, se recomienda consumir a 3º C
+- Sabor: Cerveza Franziskaner Alcoholfrei sin alcohol tiene cuerpo y con un punto de acidez, muy bien equilibrado. Tiene un perfil marcadamente maltoso con sabores a mosto, cereal tostado y caramelo, con un fondo sutilmente afrutado. En boca es ligera de cuerpo, de bajo amargor, sedosa y con un final de delicado dulzor
+- Cerveza weissbier 0,0, elaborada según la tradición bávara, con una espuma densa y blanca. Es la cerveza sin alcohol de Franziskaner, y gracias a su característico y tradicional sabor afrutado y especiado, la Franziskaner Sin es una gran alternativa para aquellas ocasiones en las que prefieras no consumir alcohol.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B071JV6YP8{{</world>}}

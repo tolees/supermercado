@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Elaborado con solo cinco ingredientes
 - Apto para celíacos, veganos y vegetarianos
 - Optima para hamburguesas, patatas fritas y sándwiches
-- Elaborado con solo cinco ingredientes
 - Sin colorantes, saborizantes ni conservantes artificiales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

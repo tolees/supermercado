@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 4.5º
 - Méjicana
 - 792cl
-- 4.5º
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07B4QCM9S{{</world>}}

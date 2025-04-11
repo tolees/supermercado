@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 12 sombras complementarias perfectas para hacer contouring
-- Color intenso para todos los tonos de piel
 - Todo en uno, sombra de ojos, delineador y iluminador
+- Color intenso para todos los tonos de piel
+- Para el cabello: Normal
+- Tipo de piel: Normal
 - Perfecto para esculpir, sombrear y definir
 - Aplicador duo para crear múltiples looks para un acabado preciso
-- Tipo de piel: Normal
-- Para el cabello: Normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B073WYXK64{{</world>}}

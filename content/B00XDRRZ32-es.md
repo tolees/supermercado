@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Compuesto por fibras recicladas, contribuye a mejorar el proceso de tratamiento de residuos
-- Lavable a máquina, máximo 60ºC
-- Fibra azul especial que no raya para superficies delicadas
 - Esponja de celulosa vegetal super absorbente (absorbe hasta 15 veces su propio peso en agua)
+- Fibra azul especial que no raya para superficies delicadas
+- Lavable a máquina, máximo 60ºC
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XDRRZ32{{</world>}}

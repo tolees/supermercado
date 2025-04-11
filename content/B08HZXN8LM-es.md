@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Para el cabello: fino
-- Volumen 250 ml
 - Nuestra formula con tecnología volume boost brinda cuerpo y definición a cualquier estilo
 - Levanta y controla
+- Volumen 250 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HZXN8LM{{</world>}}

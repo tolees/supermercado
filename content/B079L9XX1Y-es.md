@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuida las manos con valioso aceite de almendras
 - pH neutro para la piel
-- Protege contra la desecación
 - Tolerancia cutánea dermatológicamente probada
+- Cuida las manos con valioso aceite de almendras
+- Protege contra la desecación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B079L9XX1Y{{</world>}}

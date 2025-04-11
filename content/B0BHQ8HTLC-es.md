@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Productos de belleza de la marca Neutrogena
-- Referencia: S0595017
 - Color: multicolor
+- Productos de belleza de la marca Neutrogena
 - Medidas: 3,5 x 2,5 x 12 centímetros
+- Referencia: S0595017
 - ¡Si buscas calidad al mejor precio no sigas buscando!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

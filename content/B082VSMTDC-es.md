@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de Bolivia. Conservar en un lugar fresco y seco
 - Apto para dietas vegetarianas y veganas
-- Fuente de fibra
 - Nueces de Brasil,sin sal, para disfrutar como refrigerio en cualquier momento del día o para cocinar
-- Alto contenido de selenio
-- Paquete de 7
 - No apto para alérgicos a otros frutos de cáscara y los cacahuetes, ni para celíacos, debido al método de producción
+- Producto de Bolivia. Conservar en un lugar fresco y seco
+- Fuente de fibra
+- Paquete de 7
+- Alto contenido de selenio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082VSMTDC{{</world>}}

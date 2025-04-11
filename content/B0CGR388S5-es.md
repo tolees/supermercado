@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Item package dimensions : 52.56 inches
 - Room type : Sala de estar
-- Item shape : Rectangular
-- Top.material : Madera de ingeniería
 - Item package dimensions : 52.56 inches
 - Top.material : Madera de ingeniería
-- Item package dimensions : 52.56 inches
-- Item shape : Rectangular
+- Top.material : Madera de ingeniería
 - Room type : Sala de estar
+- Item shape : Rectangular
+- Item shape : Rectangular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGR388S5{{</world>}}

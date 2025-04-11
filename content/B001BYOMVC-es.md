@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidados para la piel
 - Fácil dosificación
+- Cuidados para la piel
 - Óptimo para utilizar en viajes.
 - Espuma aromática que neutraliza los malos olores
 - Elimina los olores y limpia suavemente el pelaje

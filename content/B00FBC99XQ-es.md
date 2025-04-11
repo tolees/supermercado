@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sabor es suave y rico, con la dulzura de la miel
+- Se puede servir solo, con hielo o en una gama de bebidas y cócteles
 - De color ámbar cálido
 - Rico aroma afrutado con toques de pera y naranja
 - Acabado de manera selectiva en barricas de roble Mizunara japonés
-- Sabor es suave y rico, con la dulzura de la miel
-- Se puede servir solo, con hielo o en una gama de bebidas y cócteles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00FBC99XQ{{</world>}}

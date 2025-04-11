@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Elaborado 100% con uvas de la variedad Verdejo
-- Es un vino muy fresco
 - Criado durante 3 meses sobre lías finas
-- De color amarillo pajizo con reflejos verdosos
 - Ideal con platos de pescados blancos, atún, sushi, arroces con marisco, paella, pasta, comida asiática, pollo o quesos
+- De color amarillo pajizo con reflejos verdosos
+- Es un vino muy fresco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B2DRNDPP{{</world>}}

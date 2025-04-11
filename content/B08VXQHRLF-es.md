@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Limpian impurezas, costras y maquillaje presentes en los párpados y la piel sin irritar los ojos ni agredir las capas superiores de la epidermis
+- Están formuladas y testadas para presentar unas características con alto poder limpiador y una máxima tolerancia a nivel dermatológico y ocular
 - Indicadas para la higiene diaria de los párpados, pestañas y borde palpebral, antes y después de cualquier procedimiento oftálmico, para pieles sensibles y ocular infantil (bebés y niños)
 - Brand: Care +
-- Están formuladas y testadas para presentar unas características con alto poder limpiador y una máxima tolerancia a nivel dermatológico y ocular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VXQHRLF{{</world>}}

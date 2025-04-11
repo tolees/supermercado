@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se debe conservar en un lugar fresco y seco
 - Pan rebanada al estilo artesano
+- Se debe conservar en un lugar fresco y seco
 - Extra gruesa y una textura doble tierna
 - Ideales tostadas o en sándwiches
 - Adecuado para toda la familia

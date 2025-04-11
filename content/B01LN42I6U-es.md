@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puede disfrutarlo desde ahora, bien conservado aguantará 8 años.
-- Origen: Elemento Penedès
 - Excelente con carnes rojas, especialmente si están acompañadas de salsas a base de especias como la pimienta verde.
 - Graduación: 14,5% vol.
+- Origen: Elemento Penedès
+- Puede disfrutarlo desde ahora, bien conservado aguantará 8 años.
 - Rojo cereza. En nariz compota de fruta roja sobre tostados. Cuerpo medio-alto, elegante y complejo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

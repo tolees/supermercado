@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Graduación: 13,5% vol.
-- Perfecto con carnes estofadas y de caza, las paellas de carne y los quesos semicurados. Servir a 14°-15°C.
-- Puede disfrutarlo desde ahora, bien conservado aguantará 5-8 años.
 - Cosecha puede variar
-- Origen: DO Catalunya
 - Delicioso aroma de frutos rojos con una nota especiada (pimienta negra). En boca es cálido, firme, con una fina acidez.
+- Puede disfrutarlo desde ahora, bien conservado aguantará 5-8 años.
+- Origen: DO Catalunya
+- Perfecto con carnes estofadas y de caza, las paellas de carne y los quesos semicurados. Servir a 14°-15°C.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00GFL8CKS{{</world>}}

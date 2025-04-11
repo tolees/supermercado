@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Frutos estrechos y alargados, con carne delgada y dulce, con piel fina que es apreciada para su utilización como pimiento frito
-- Se siembra de enero a abril en semilleros, ya sea en el suelo o en bandejas
-- Se trasplanta cuando las plantas alcancen 15-20 cm
 - Cosecha a partir de 5 o 6 meses
+- Se trasplanta cuando las plantas alcancen 15-20 cm
+- Se siembra de enero a abril en semilleros, ya sea en el suelo o en bandejas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00WI4IYKY{{</world>}}

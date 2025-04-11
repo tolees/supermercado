@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pasta de dientes con zeolitas naturales
-- 15% Zeolita natural
-- sabor menta limón
-- Ingredientes de origen 100% natural
 - Los ingredientes son biodegradables.
+- sabor menta limón
+- 15% Zeolita natural
+- Ingredientes de origen 100% natural
+- Pasta de dientes con zeolitas naturales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMGW26GD{{</world>}}

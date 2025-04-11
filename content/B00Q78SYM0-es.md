@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- age range description: todas las etapas de la vida
-- Recomendado para todo tipo de razas especialmente para el lavado frecuente de gatos de.exposición y de pelajes exóticos largos y densos.(angora, persa).
-- Facilita el peinado y reduce la electricidad estática durante el proceso del cepillado.
-- Champú de máxima calidad para gatos con una.fórmula muy suave que nutre, suaviza y protege el pelaje manteniéndolo brillante y.sedoso
 - pH neutro.
+- Champú de máxima calidad para gatos con una.fórmula muy suave que nutre, suaviza y protege el pelaje manteniéndolo brillante y.sedoso
+- Recomendado para todo tipo de razas especialmente para el lavado frecuente de gatos de.exposición y de pelajes exóticos largos y densos.(angora, persa).
+- age range description: todas las etapas de la vida
+- Facilita el peinado y reduce la electricidad estática durante el proceso del cepillado.
 - MODO DE EMPLEO: Aplicar el champú y frotar todo el.cuerpo, sobre todo en la cola, las patas y el vientre. Aclarar y envolver.con una toalla. Secar con secador de aire caliente si lo tolera.y cepillar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

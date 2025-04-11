@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Medidas: 11,5 x 12 x 11,5 centímetros
-- Color: Multicolor
-- Coloración Permanente en Crema de la marca Garnier
-- Referencia: S05121555
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Color: Multicolor
+- Referencia: S05121555
+- Coloración Permanente en Crema de la marca Garnier
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CXJGMFN4{{</world>}}

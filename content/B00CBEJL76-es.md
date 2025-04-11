@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En deliciosos sabores
-- 100% de proteína de caseína
 - con agregado de L-glutamina, taurina y enzimas digestivas
+- 100% de proteína de caseína
+- En deliciosos sabores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CBEJL76{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
 - Sabor a Fresa-nata
-- Caramelos de goma
 - Deliciosas piezas redondeadas de color rosa y recubiertas de azúcar
+- Conservar en lugar fresco y seco
+- Caramelos de goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAQRBXK{{</world>}}

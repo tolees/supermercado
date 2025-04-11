@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor y final: delicadas notas de vainilla y caramelo al principio que dan paso a matices intensos de pimienta. Final agradable y persistente con un color ámbar oscuro con destellos de bronce
 - En Jack Daniels se ciñen al más alto nivel el momento de elaborar y seleccionar Jack Daniel Single Barrel
-- Cada barril de Jack Daniels Whiskey se selecciona a mano por su sabor único, buscando un sabor profundo y sofisticado, y notas de roble tostado, vainilla y caramelo
-- Jack Daniels Single Barrel procede de una barrica única seleccionada a mano de forma individual por el maestro destilador de Jack Daniels y su equipo de maestros catadores por su sabor único, suave y aromático
+- Sabor y final: delicadas notas de vainilla y caramelo al principio que dan paso a matices intensos de pimienta. Final agradable y persistente con un color ámbar oscuro con destellos de bronce
 - El ambalaje puede variar
+- Cada barril de Jack Daniels Whiskey se selecciona a mano por su sabor único, buscando un sabor profundo y sofisticado, y notas de roble tostado, vainilla y caramelo
 - Sugerencia de preparación: Jack Daniels Single Barrel con hielo
 - Aroma de Jack Daniels Single Barrel Whiskey: frutas maduras combinadas con notas de roble ligeramente tostadas. Muy rico en matices aromáticos
 - Las grandes variaciones de temperatura que experimentan las partes más altas de las bodegas de Jack Daniels, a lo largo del año, dan como resultado unas barricas en las que se desarrolla un whiskey de un sabor inusualmente atrevido e intenso
+- Jack Daniels Single Barrel procede de una barrica única seleccionada a mano de forma individual por el maestro destilador de Jack Daniels y su equipo de maestros catadores por su sabor único, suave y aromático
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08L94VP1R{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descubre el buen sabor de las cápsulas de café NESCAFÉ Farmers Origins - Colombia Espresso
-- Las cápsulas de aluminio pueden reciclarse eternamente; el aluminio preserva la frescura del café y mantiene al planeta feliz
-- En la tierra de los múltiples ríos, sube a las montañas para conocer a los caficultores colombianos que se han hecho un nombre con sus deliciosos cafés
 - Estas cápsulas se han aprobado expresamente para máquinas Nespresso, así que adelante, hazte con ellas
+- Descubre el buen sabor de las cápsulas de café NESCAFÉ Farmers Origins - Colombia Espresso
+- En la tierra de los múltiples ríos, sube a las montañas para conocer a los caficultores colombianos que se han hecho un nombre con sus deliciosos cafés
 - Este café espresso de intensidad 6 te brinda una muestra del clásico carácter afrutado del café de Colombia
+- Las cápsulas de aluminio pueden reciclarse eternamente; el aluminio preserva la frescura del café y mantiene al planeta feliz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B8SQNQQS{{</world>}}

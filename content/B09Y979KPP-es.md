@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- PROTECCIÓN INMUNITARIA. Con FOS (Fructooligosacáridos), Vitamina E y Selenio
 - SALUD DEL PELO Y PIEL. Con Omega 3 y 6, Zinc, Cobre, Biotina y Vitamina A y E. SALUD DENTAL. Reduce el sarro dental y protege de la caries
 - SALUD HUESOS Y ARTICULACIONES. Balance óptimo de Calcio, Fósforo, Magnesio y Vitamina D3
 - INGREDIENTES NATURALES. Pienso Premium para perros adultos de razas pequeñas, a base de pollo, arroz e ingredientes naturales de gran calidad. Sin aromatizantes ni colorantes artificiales
-- PROTECCIÓN INMUNITARIA. Con FOS (Fructooligosacáridos), Vitamina E y Selenio
 - ALTA APETENCIA Y DIGESTIBILIDAD. Elaborado con un alto contenido en carne como fuente de proteínas de alto valor biológico que aportan una gran apetencia y digestibilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Un tueste intenso de STARBUCKS hecho con granos de café 100% Arábica
 - Prepáralo en casa con tu máquina NESCAFÉ Dolce Gusto
+- Potencia tu rutina con STARBUCKS Pumpkin Spice Latte de NESCAFÉ DOLCE GUSTO
 - Disfruta del sabor de un café con sabores cremosos y especiados
 - Prepara una deliciosa taza con solo pulsar un botón
-- Un tueste intenso de STARBUCKS hecho con granos de café 100% Arábica
-- Potencia tu rutina con STARBUCKS Pumpkin Spice Latte de NESCAFÉ DOLCE GUSTO
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D96KKV2D{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - SABOR: delicioso sabor a vainilla
-- Sin gluten y APTO PARA INTOLERANTES A LA LACTOSA
 - CALCIO Y VITAMINA D: con calcio y vitamina D que contribuyen al funcionamiento normal de músculos y huesos
 - 27 VITAMINAS Y MINERALES: complemento alimenticio en polvo que contiene 27 vitaminas y minerales, incluyendo vitamina C que apoya el sistema inmunitario; las vitaminas B2, B6, B12 y ácido pantoténico contribuyen a la reducción del cansancio y la fatiga
+- Sin gluten y APTO PARA INTOLERANTES A LA LACTOSA
 - PROTEÍNAS: con proteínas y calcio que contribuyen al mantenimiento y funcionamiento normal de los músculos
 - HMB: cada toma contiene 1.5 g de CaHMB
 

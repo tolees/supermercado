@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto especial para cafeteras de émbolo, Melita o italiana
 - Sabor elegante con matices herbales
+- Producto especial para cafeteras de émbolo, Melita o italiana
 - Intensidad 7/10
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

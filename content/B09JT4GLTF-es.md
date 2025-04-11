@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nota de cata (nariz): Se aprecian notas cítricas y de fruta tropical junto a más complejos aromas de crianza (tostados, brioche) que enriquecen la paleta aromática
-- Recomendamos consumirlo frío (entre 5°C y 8°C) en el periodo de un año y medio conservado en condiciones no superiores a 20°C una vez comprado
 - Contenido de alcohol (alc/vol): 11.5 percent by volume
+- Nota de cata (boca): Se trata de un cava cremoso, amplio y persistente
+- Recomendamos consumirlo frío (entre 5°C y 8°C) en el periodo de un año y medio conservado en condiciones no superiores a 20°C una vez comprado
 - Varietales: 70% Chardonnay, 15% Parellada, 15% Xarel·lo y Macabeo
 - Nota de cata (vista): Se aprecia un color amarillo brillante con reflejos verdosos. De burbuja fina y persistente que forma un continuo rosario
-- Nota de cata (boca): Se trata de un cava cremoso, amplio y persistente
+- Nota de cata (nariz): Se aprecian notas cítricas y de fruta tropical junto a más complejos aromas de crianza (tostados, brioche) que enriquecen la paleta aromática
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JT4GLTF{{</world>}}

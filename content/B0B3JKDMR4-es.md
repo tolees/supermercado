@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La mezcla de 100 Pipers Whisky Blended Escocés se compone de una selección de más de 30 whiskies de mayor añejamiento y con distintos perfiles de sabor
 - Aroma equilibrado y afrutado con notas de manzana y pera suave con canela, seguido de una sensación ligera de humo
 - Sabor dulce afrutado, pera afrutada entremezclada con naranja cítrica, mermelada rica y melón dulce maduro
+- La mezcla de 100 Pipers Whisky Blended Escocés se compone de una selección de más de 30 whiskies de mayor añejamiento y con distintos perfiles de sabor
 - Tómalo combinado con refresco o solo con hielo
 - Tiene un color ámbar dorado
 

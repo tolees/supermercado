@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CÓMO PREPARAR - Calienta el agua hasta que hierva. Pon una bolsita en la taza y vierte el agua. Tapa la taza para que la mezcla libere su fragancia y sabor. Deja la bolsita en el agua de 3 a 5 minutos, o si lo prefieres, no la saques.
-- SUPERALIMENTO - La Infusión de Jengibre con Té Matcha es una de las favoritas de la gama Hornimans de tés e infusiones con los súperalimentos que están más de moda, como Açai, Fruta de Dragón o Lavanda, ¡elige tu favorita!
-- REFUERZA LAS DEFENSAS - El jengibre es una raíz que actúa como refuerzo de las defensas naturales de tu cuerpo y ayuda a controlar la inflamación. Además, el Té Matcha fortalece el sistema inmunitario, reduce el estrés y ayuda a eliminar líquidos.
-- JENGIBRE, TÉ MATCHA, REGALIZ*, MANZANA Y NARANJA - Combina la textura jugosa, picante y distintiva del Jengibre, con el toque ácido y dulzón de la naranja. (*Las personas que padezcan hipertensión deben evitar un consumo excesivo).
 - BENEFICIOS PARA EL ORGANISMO - El jengibre es una raíz que actúa como refuerzo de las defensas naturales de tu cuerpo y ayuda a controlar la inflamación.
+- JENGIBRE, TÉ MATCHA, REGALIZ*, MANZANA Y NARANJA - Combina la textura jugosa, picante y distintiva del Jengibre, con el toque ácido y dulzón de la naranja. (*Las personas que padezcan hipertensión deben evitar un consumo excesivo).
+- SUPERALIMENTO - La Infusión de Jengibre con Té Matcha es una de las favoritas de la gama Hornimans de tés e infusiones con los súperalimentos que están más de moda, como Açai, Fruta de Dragón o Lavanda, ¡elige tu favorita!
+- CÓMO PREPARAR - Calienta el agua hasta que hierva. Pon una bolsita en la taza y vierte el agua. Tapa la taza para que la mezcla libere su fragancia y sabor. Deja la bolsita en el agua de 3 a 5 minutos, o si lo prefieres, no la saques.
+- REFUERZA LAS DEFENSAS - El jengibre es una raíz que actúa como refuerzo de las defensas naturales de tu cuerpo y ayuda a controlar la inflamación. Además, el Té Matcha fortalece el sistema inmunitario, reduce el estrés y ayuda a eliminar líquidos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00KT4FZ2U{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jabón sólido anti granitos con carbón y ácido salicílico
+- Adecuado para rostro, cuello y espalda
 - Elimina las impurezas y los granitos del rostro y cuerpo
 - Producto de 110 g
-- Adecuado para rostro, cuello y espalda
+- Jabón sólido anti granitos con carbón y ácido salicílico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B094DT2MKZ{{</world>}}

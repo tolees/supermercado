@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Garnier Olia coloración permanente con aceites florales de origen natural
-- Coloración permanente potenciada por 60% de aceite; cuidado intenso, no reseca
 - Sin amoniaco para un olor agradable y respeto del cuero cabelludo
+- Coloración permanente potenciada por 60% de aceite; cuidado intenso, no reseca
 - Aumenta visiblemente la calidad del cabello,100 % cobertura de canas y óptima eficacia del color
 
 [🛒 Visítala!!!]({{< param buyurl >}})

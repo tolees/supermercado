@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ambarino intenso, de aspecto claro y brillante, embotellado con su color natural, sin aditivos
-- Para disfrutar de sus cualidades óptimas se recomienda degustarlo solo, con hielo o con agua
 - Paso suave y evocador con un final largo, mantiene el estilo clásico con su caracter afrutado y dulce, incluyendo un toque especial apimentado
+- Para disfrutar de sus cualidades óptimas se recomienda degustarlo solo, con hielo o con agua
+- Ambarino intenso, de aspecto claro y brillante, embotellado con su color natural, sin aditivos
 - Elaborado en Glenrothes, Escocia, sigue un exclusivo proceso de destilación y envejecimiento durante 12 años en barricas de roble añejadas en Jerez
 - Destacan las notas aromáticas frutales del plátano, melón y limón con recuerdos especiados de canela y vainilla
 

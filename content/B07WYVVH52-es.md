@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - GOFIO DE MAÍZ: Este producto es el resultado del tueste lento del maíz de origen ecológico y su posterior molienda. Se trata de un alimento con un alto valor nutricional, rico en minerales y apto para veganos.
-- MÚLTIPLES BENEFICIOS: Nuestro gofio de maíz es una excelente fuente de proteínas vegetales gracias a su contenido en fibra y magnesio. Además, ayuda a controlar los niveles de azúcar en sangre, proporciona un efecto saciante y energizante.
 - SOBRE NOSOTROS: Nacimos en 1957 en Canarias y nos dedicamos a mejorar los procesos de fabricación del gofio, sin utilizar conservantes ni colorantes y garantizando una experiencia auténtica y saludable para nuestros consumidores.
-- MODO DE EMPLEO: Añadir 2 o 3 cucharadas a la bebida que consideres y remover hasta su completa disolución. Si quieres, puedes añadir endulzante al gusto para darle más sabor. Para una textura más espesa, puedes añadir más cantidad de gofio.
+- MÚLTIPLES BENEFICIOS: Nuestro gofio de maíz es una excelente fuente de proteínas vegetales gracias a su contenido en fibra y magnesio. Además, ayuda a controlar los niveles de azúcar en sangre, proporciona un efecto saciante y energizante.
 - GRAN VERSATILIDAD: Tiene una textura en polvo fino que se disuelve fácilmente en frío o caliente. Es ideal para agregar a bebidas como café o té, y se puede utilizar en recetas dulces y saladas, siendo un complemento versátil para tus desayunos.
+- MODO DE EMPLEO: Añadir 2 o 3 cucharadas a la bebida que consideres y remover hasta su completa disolución. Si quieres, puedes añadir endulzante al gusto para darle más sabor. Para una textura más espesa, puedes añadir más cantidad de gofio.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07WYVVH52{{</world>}}

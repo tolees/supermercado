@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gel de ducha que nutre la piel en profundidad y ayuda a restaurar la barrera natural de la piel
-- Gel de ducha hecho con botella de plástico 100% reciclado; dermatológicamente testado; globalmente Dove no testa en animales
 - Gel de ducha nutritivo para las pieles secas o muy secas
+- Gel de ducha que nutre la piel en profundidad y ayuda a restaurar la barrera natural de la piel
 - Gel de ducha que deja la piel más suave y tersa después de una sola ducha
 - Gel de ducha formulado con hidratantes naturales y sin sulfatos SLES
+- Gel de ducha hecho con botella de plástico 100% reciclado; dermatológicamente testado; globalmente Dove no testa en animales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RPKF3H2{{</world>}}

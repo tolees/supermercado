@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color amarillo brillante con reflejos verdosos
-- Se encuentra en un momento óptimo de consumo, la temperatura optima de servicio es entre 10-12
-- Varietales: Chardonnay, Sauvignon Blanc, Albariño y Xarel-lo
-- Aroma intenso a cítricos, como las limas, fruta de hueso y un toque tropical de pomelo y mango
 - Optimo equilibrio entre frescura y dulzor; entrada agradable, elegantes notas cítricas y de nectarina en boca, y un final más tropical, persistente e intenso
+- Varietales: Chardonnay, Sauvignon Blanc, Albariño y Xarel-lo
+- Color amarillo brillante con reflejos verdosos
+- Aroma intenso a cítricos, como las limas, fruta de hueso y un toque tropical de pomelo y mango
+- Se encuentra en un momento óptimo de consumo, la temperatura optima de servicio es entre 10-12
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BFRFSH5{{</world>}}

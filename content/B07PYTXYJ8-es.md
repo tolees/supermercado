@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Trident Max ofrece combinaciones de sabores intensos con texturas crujientes
-- Alérgenos: Sin azúcar, con edulcorantes. Contiene sorbitol y una fuente de fenilalanina
-- ES Chicle con edulcorantes, sin azúcar. Sabor a frambuesa y limón. Ingredientes: Edulcorantes (sorbitol, maltitoles, xilitol, isomaltosa, sucralosa, acesulfamo K), Goma base, Aromas, Acidulantes (ácido málico, ácido cítrico), Colorantes (antocianinas, curcumina), Emulgentes (lecitinas, E 472a), Humectante (triacetina).
 - Formato pack de 12 envases individuales de chicles tipo gragea rellena de powder
+- Alérgenos: Sin azúcar, con edulcorantes. Contiene sorbitol y una fuente de fenilalanina
+- Trident Max ofrece combinaciones de sabores intensos con texturas crujientes
+- ES Chicle con edulcorantes, sin azúcar. Sabor a frambuesa y limón. Ingredientes: Edulcorantes (sorbitol, maltitoles, xilitol, isomaltosa, sucralosa, acesulfamo K), Goma base, Aromas, Acidulantes (ácido málico, ácido cítrico), Colorantes (antocianinas, curcumina), Emulgentes (lecitinas, E 472a), Humectante (triacetina).
 - Conservar en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

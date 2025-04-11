@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cubierto con Aceite de Oliva. Sin aditivos, 100% natural.
-- Pescado durante la costera del Cantábrico.
 - Elaborado de forma artesanal por Conservas Serrats. Empresa conservera desde 1890.
+- Pescado durante la costera del Cantábrico.
 - Ingredientes: Bonito del Norte (pescado), aceite de oliva, sal.
-- Bonito del Norte fresco del Cantábrico.
 - Lata litografiada estilo clásico de 68g.
+- Cubierto con Aceite de Oliva. Sin aditivos, 100% natural.
+- Bonito del Norte fresco del Cantábrico.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MTW5L6U{{</world>}}

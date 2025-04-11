@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bain Décalcifiant Réparateur es un champú reparador descalcificante para cabello dañado. Un champú con doble acción reparadora que actúa por dentro y por fuera para liberar el cabello de la acumulación de calcio y reconectar los enlaces de queratina dañados.
-- Aplicar Concentré Décalcifiant Ultra-Réparateur sobre el cabello húmedo y dejar actuar durante 5 minutos. A continuación, aplicar Bain Décalcifiant Réparateur, masajear, emulsionar y aclarar abundantemente. Continúe la rutina con Fondant o con Masque Première.
 - Este champú actúa desde la superficie gracias a su doble acción reparadora que descalcifica y repara la fibra en profundidad. El cabello queda reparado y recrea el 99% de su fuerza original. Recupera su brillo y suavidad.
+- Aplicar Concentré Décalcifiant Ultra-Réparateur sobre el cabello húmedo y dejar actuar durante 5 minutos. A continuación, aplicar Bain Décalcifiant Réparateur, masajear, emulsionar y aclarar abundantemente. Continúe la rutina con Fondant o con Masque Première.
+- Bain Décalcifiant Réparateur es un champú reparador descalcificante para cabello dañado. Un champú con doble acción reparadora que actúa por dentro y por fuera para liberar el cabello de la acumulación de calcio y reconectar los enlaces de queratina dañados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPF76WMC{{</world>}}

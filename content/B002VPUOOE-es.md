@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Chispeante y especiado, con una explosión de sabores vibrantes y ahumados
-- Contiene hasta 35 whiskies diferentes seleccionados de las destilerías más singulares de Escocia
 - El whisky escocés blended aceptado y reconocido en todo el planeta
-- Johnnie Walker es una marca de whisky con más de 200 años de historia; su eslogan ha sido acuñado en todas partes para inspirar el progreso y el coraje ante la adversidad: Keep Walking; nuestras variedades incluyen desde las etiquetas clásicas hasta las mezclas más exclusivas en ediciones limitadas
-- Johnnie Walker Red Label, un whisky querido desde 1820 y galardonado en más de treinta ocasiones
 - Disfrútalo en vaso alto con hielo y ginger ale
+- Johnnie Walker es una marca de whisky con más de 200 años de historia; su eslogan ha sido acuñado en todas partes para inspirar el progreso y el coraje ante la adversidad: Keep Walking; nuestras variedades incluyen desde las etiquetas clásicas hasta las mezclas más exclusivas en ediciones limitadas
+- Contiene hasta 35 whiskies diferentes seleccionados de las destilerías más singulares de Escocia
+- Johnnie Walker Red Label, un whisky querido desde 1820 y galardonado en más de treinta ocasiones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002VPUOOE{{</world>}}

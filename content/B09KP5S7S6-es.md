@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado en Italia
 - Aroma intenso, sabor decidido
+- Fabricado en Italia
 - Marca: Kimbo
 - 100 cápsulas monodosis de 7,3 g empaquetadas individualmente en atmósfera protectora
 

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- En gel para el lavado de ropa
 - Pensado para todo tipo de aguas y temperaturas
 - Especialmente indicado para usar con agua fría
-- En gel para el lavado de ropa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IVHRBHS{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sus notas superiores son burbujas de granadina así como el nenufar es su nota del corazón y las notas bases son de ámbar
-- Fragancia afrutada y floral
 - Para mujeres que disfrutan de su belleza con una elegancia natural
 - Eau de Toilette para mujer 50 ml
+- Sus notas superiores son burbujas de granadina así como el nenufar es su nota del corazón y las notas bases son de ámbar
 - Inspirada en el estilo de vida brasileño
+- Fragancia afrutada y floral
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00I8LCM90{{</world>}}

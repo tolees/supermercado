@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LIMPIEZA SENCILLA: La grasa sobrante cae en el colector de grasa apto para lavavajillas. Todos los componentes del grill están hechos de acero inoxidable y son desmontables y aptos para lavavajillas, lo que facilita enormemente su limpieza.
-- FÁCIL DE MOVER: Gracias a sus reducidas dimensiones, de aproximadamente 30 x 45 x 35 cm y a su peso de 6,5 kg, es fácil de transportar y guardar. Además, la rejilla vertical Kebap Master dispone de patas antideslizantes para una sujeción segura.
 - ROTACIÓN DE 360 °: Pollo a la brasa, kebab o los tracidionales Gyros griegos se preparan sin esfuerzo en el asador giratorio 360°. Sólo necesitas ensartar el producto en el pincho para disfrutar de un delicioso plato de carne de estilo oriental.
-- RENDIMIENTO: La parrilla giratoria vertical OneConcept Kebap Master, con una potencia máxima de 1800 W, es la manera perfecta de disfrutar del sabor incomparable del pollo asado o platos de carne al estilo kebab y Gyros sin salir de casa.
+- LIMPIEZA SENCILLA: La grasa sobrante cae en el colector de grasa apto para lavavajillas. Todos los componentes del grill están hechos de acero inoxidable y son desmontables y aptos para lavavajillas, lo que facilita enormemente su limpieza.
 - BARBACOA SALUDABLE: El control giratorio situado en el frontal permite seleccionar el tiempo de cocción de la parrilla giratoria oneConcept. Gracias a su posición vertical, la carne pierde su grasa con un resultado de platos más ligeros y saludables.
+- RENDIMIENTO: La parrilla giratoria vertical OneConcept Kebap Master, con una potencia máxima de 1800 W, es la manera perfecta de disfrutar del sabor incomparable del pollo asado o platos de carne al estilo kebab y Gyros sin salir de casa.
+- FÁCIL DE MOVER: Gracias a sus reducidas dimensiones, de aproximadamente 30 x 45 x 35 cm y a su peso de 6,5 kg, es fácil de transportar y guardar. Además, la rejilla vertical Kebap Master dispone de patas antideslizantes para una sujeción segura.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01EL6I8JI{{</world>}}

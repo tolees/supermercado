@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sutil y sofisticada fragancia que combina frescas notas de bergamota, romero y cedro.
-- 48h de protección contra el mal olor
-- ¡Prueba toda la nueva gama Axe!
 - Combate el mal olor, fragancias irresistibles
-- X2 Secado más rápido
 - Aplicación sencilla, siéntete fresco y ligero con cada aplicación.
+- Sutil y sofisticada fragancia que combina frescas notas de bergamota, romero y cedro.
+- X2 Secado más rápido
+- ¡Prueba toda la nueva gama Axe!
+- 48h de protección contra el mal olor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09N9QLPWV{{</world>}}

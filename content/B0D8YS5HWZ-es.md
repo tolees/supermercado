@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sugerimos usarlo antes (como adobo), durante la cocción, para frotar antes de asar o simplemente para terminar un plato. Utilice 1 o 2 pellizcos por cada 200g de alimento.
 - ¡Añade un toque cítrico y aromático a tus platos con Thai Green Curry de The Pinch! Picante, esta mezcla tailandesa es 100% natural y sin sal. ¡Saborea esta explosión de sabores!
-- Pruébalo con proteínas animales con pollo al curry, pescado a la parrilla, mariscos, fideos con camarones, estofado de cerdo, arroz frito con ternera y cordero a la parrilla con salsa picante.
+- Sugerimos usarlo antes (como adobo), durante la cocción, para frotar antes de asar o simplemente para terminar un plato. Utilice 1 o 2 pellizcos por cada 200g de alimento.
 - Para la cocina vegetal te sugerimos noodles de setas, legumbres, coliflor a la plancha, tofu salteado, sopa tailandesa con leche de coco y quinoa con verdura.
 - Thai Green Curry de Pinch se compone de Cebolla, pimiento verde, ajo, jengibre tailandés, semilla de cilantro, cilantro, limoncillo, comino, hoja de lima, lima y pimienta blanca. ¡Experimente los sabores de la sorprendente cocina tailandesa!
+- Pruébalo con proteínas animales con pollo al curry, pescado a la parrilla, mariscos, fideos con camarones, estofado de cerdo, arroz frito con ternera y cordero a la parrilla con salsa picante.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D8YS5HWZ{{</world>}}

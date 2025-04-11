@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula con propiedades fortalecedoras y que protege tu uña de las agresiones formulada con algas
 - Sin fragancias
-- Elaborado con un 77% de ingredientes de origen natural (patata y maíz) y un 75% de ingredientes de origen bio
+- Fórmula con propiedades fortalecedoras y que protege tu uña de las agresiones formulada con algas
 - Duración hasta 5 días
+- Elaborado con un 77% de ingredientes de origen natural (patata y maíz) y un 75% de ingredientes de origen bio
 - Envase fabricado con materiales reciclados
 
 [🛒 Visítala!!!]({{< param buyurl >}})

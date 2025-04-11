@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Barritas Raw para todos los públicos: aptas para quién practica deportes como el ciclismo, fútbol, tenis, etc., que requiere de un gran aporte energético, pero también se puede consumir como snack saludable por parte de cualquier persona que consuma productos realfooding 🌱
+- Barritas 100% Naturales - Ingredientes Base de nuestras protein bars: Dátiles, Clara de huevo deshidratada (Albumina de huevo) y Almendras tostadas. No son barritas sustitutivas de comida pero sí complementarias 🌿
+- Barritas de Proteína - Barras con alto contenido proteico (más del 18% en cada una de nuestras barritas). Ideal para quién busca complementar su aporte diario proteico de forma natural 💪
 - Snack Saludable para todos - Apto para quién practica deportes como el ciclismo, fútbol, tenis, gym..., que requiere de un gran aporte energético, pero también apto para cualquier persona que quiera consumir productos realfooding (100% naturales) 🚴‍♂️🎾⚽🤸‍♂️
 - Barritas Sin Azúcares Añadidos Ni Edulcorantes (ZERO "PORQUERÍAS") - sólo contiene azúcares naturalente presentes en sus ingredientes, la mayoría aportados por parte del dátil 🚫
-- Barritas de Proteína - Barras con alto contenido proteico (más del 18% en cada una de nuestras barritas). Ideal para quién busca complementar su aporte diario proteico de forma natural 💪
-- Barritas 100% Naturales - Ingredientes Base de nuestras protein bars: Dátiles, Clara de huevo deshidratada (Albumina de huevo) y Almendras tostadas. No son barritas sustitutivas de comida pero sí complementarias 🌿
-- Barritas Raw para todos los públicos: aptas para quién practica deportes como el ciclismo, fútbol, tenis, etc., que requiere de un gran aporte energético, pero también se puede consumir como snack saludable por parte de cualquier persona que consuma productos realfooding 🌱
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKF1SL8X{{</world>}}

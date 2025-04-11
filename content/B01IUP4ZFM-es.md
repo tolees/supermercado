@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ayuda a controlar la función renal: Ayuda a controlar la carga renal gracias a su moderado nivel de fósforo
-- Condición corporal: Nivel de proteínas y calorías adaptado a su nivel de actividad moderado
 - Pienso para gatos sénior (+10 años)
 - Sabor adecuado: Selección de ingredientes de alta palatabilidad
-- Contribuye al mantenimiento de las barreras y defensas naturales: Gracias a omega-6, biotina, zinc y vitaminas C, D y E
+- Ayuda a controlar la función renal: Ayuda a controlar la carga renal gracias a su moderado nivel de fósforo
 - Ayuda a mantener la masa muscular: Gracias a las proteínas de calidad adecuada
+- Contribuye al mantenimiento de las barreras y defensas naturales: Gracias a omega-6, biotina, zinc y vitaminas C, D y E
+- Condición corporal: Nivel de proteínas y calorías adaptado a su nivel de actividad moderado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01IUP4ZFM{{</world>}}

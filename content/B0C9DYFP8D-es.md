@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bebida refrescante con cero azúcares y cero calorías
-- Sabor ácido, muy refrescante y con la genuina burbuja Schweppes. Un refresco lleno de matices con un sabor equilibrado
-- Refresco cítrico con un sabor intenso a naranja y muy refrescante
 - Ideal para consumirla sola o mezclada con ginebra con mucho hielo y una rodaja de naranja. Perfecta para cualquier momento del día. En tu aperitivo en el bar, con los amigos después del trabajo y con tu copa los fines de semana
 - El refresco de naranja Schweppes contiene 100% de aromas naturales
+- Refresco cítrico con un sabor intenso a naranja y muy refrescante
+- Sabor ácido, muy refrescante y con la genuina burbuja Schweppes. Un refresco lleno de matices con un sabor equilibrado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9DYFP8D{{</world>}}

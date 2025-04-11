@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con aceite florales
 - Fácil de aplicar
 - Fórmula potencia el color hasta el interior
-- Con aceite florales
 - No contiene amoniaco
 - 100% cobertura de cañas
 

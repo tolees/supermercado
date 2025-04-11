@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Alimento completo para gatos adultos.
+- Peso: 24 x 85 g.
 - Línea Gourmet Gold: una gran variedad.
 - Paquete de 24 unidades.
-- Peso: 24 x 85 g.
-- Alimento completo para gatos adultos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M9ERVX6{{</world>}}

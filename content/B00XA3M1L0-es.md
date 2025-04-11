@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una fuente de proteínas limpias de grasa
-- Cuida tu ingesta de sal sin renunciar al óptimo sabor
 - Se debe conservar en un lugar fresco y seco
-- Óptimo para toda la familia
 - Atún claro al natural bajo en sal
+- Óptimo para toda la familia
+- Cuida tu ingesta de sal sin renunciar al óptimo sabor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA3M1L0{{</world>}}

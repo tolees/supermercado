@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservación y esterilización natural al baño María
+- Elaborado con ingredientes 100% naturales de la mejor calidad, tal y como lo harías tú en casa
 - Descubre la amplia gama de Hero Solo: ingredientes ECO y nada más
 - Alimento a base de puré de frutas para bebés a partir de 4 meses
-- Elaborado con ingredientes 100% naturales de la mejor calidad, tal y como lo harías tú en casa
+- Conservación y esterilización natural al baño María
 - No incluye aceite de palma, almidón, ni azúcar añadido. Tampoco conservantes ni colorantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

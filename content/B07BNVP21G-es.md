@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Apto para dietas vegetarianas y veganas
 - Sin sal añadida, ingredients naturales
-- Rico en fibra
 - Contiene avellanas, anacardos, nueces y almendras blanqueadas
+- Rico en fibra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BNVP21G{{</world>}}

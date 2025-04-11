@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una mezcla perfecta durante el aperitivo o como picoteo
 - Bolsa de frutos secos mezclados de 195 gramos
-- Tentempie idóneo para fiestas de cumpleaños infantiles o para compartir entre amigos
 - Snack sin aceite de palma
+- Tentempie idóneo para fiestas de cumpleaños infantiles o para compartir entre amigos
+- Una mezcla perfecta durante el aperitivo o como picoteo
 - Fuente de fibra sin conservantes ni colorantes artificiales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

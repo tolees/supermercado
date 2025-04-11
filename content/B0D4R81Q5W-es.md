@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almeja de Carril
 - Conserva de Pescado/Marisco
+- Almeja de Carril
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4R81Q5W{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula ligera y no grasa
+- Globalmente Dove no testa en animales
+- Dove Loción Corporal Hidronutrición 400ml
+- Testado dermatológicamente; loción corporal apta para todo tipo de pieles
 - Diseñada con el Sérum Restaura Ceramidas que fortalece la barrera natural de la piel y ayuda a retener la hidratación
 - Hidrata la piel en profundidad para dejarla nutrida y cuidada
-- Testado dermatológicamente; loción corporal apta para todo tipo de pieles
-- Dove Loción Corporal Hidronutrición 400ml
-- Globalmente Dove no testa en animales
+- Fórmula ligera y no grasa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BJGBS9M{{</world>}}

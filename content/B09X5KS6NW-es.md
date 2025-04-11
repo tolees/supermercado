@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidratación duradera
-- Sin Sulfatos SLES y suave con el microbioma. Botella de plástico reciclado; Globalmente Dove no testa en animales
 - Hidratantes naturales de la piel
 - Limpiadores de origen natural
 - Piel suave y cuidada después de una sola ducha
+- Sin Sulfatos SLES y suave con el microbioma. Botella de plástico reciclado; Globalmente Dove no testa en animales
+- Hidratación duradera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09X5KS6NW{{</world>}}

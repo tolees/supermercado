@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hasta un 100 % de cabello sin caspa (caspa visible con un uso regular)
-- Microbiome Protect actúa sobre la raíz de la caspa, ayudando a prevenirla y a calmar el cuero cabelludo
-- El champú y acondicionador 2 en 1 ideal para hombres y mujeres de cualquier tipo de cabello
 - La botella hecha de plástico 100 % reciclado (sin incluir el tapón, los colorantes y los aditivos) y es reciclable (sin incluir el tapón y dependiendo de las instalaciones de reciclaje)
 - Esta fórmula clínicamente probada y dermatológicamente testada tiene un pH equilibrado con un 0 % de parabenos, fosfatos o parafinas
+- Microbiome Protect actúa sobre la raíz de la caspa, ayudando a prevenirla y a calmar el cuero cabelludo
+- Hasta un 100 % de cabello sin caspa (caspa visible con un uso regular)
 - El champú y acondicionador anticaspa 2in1 Classic Clean refresca e hidrata al instante, perfecto para el uso diario
+- El champú y acondicionador 2 en 1 ideal para hombres y mujeres de cualquier tipo de cabello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BG94R6NQ{{</world>}}

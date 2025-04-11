@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desodorante muy perfumado y fresco. Aloe Vera y jojoba.
-- Género; Unisex. Adulto/ adolescente.
 - Desodorante en aerosol 200 ml. No testado en animales. Vegano. Fabricación íntegra en España.
 - El Desodorante Aloe Vera de Tulipán Negro en aerosol suaviza la piel y ofrece una intensa protección durante todo el día que aumentará tu confianza.
 - 0% Alcohol. Libre de Sales de aluminio, parabenos y colorantes. Dermatológicamente testado.
+- Desodorante muy perfumado y fresco. Aloe Vera y jojoba.
+- Género; Unisex. Adulto/ adolescente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XDDNSPT{{</world>}}

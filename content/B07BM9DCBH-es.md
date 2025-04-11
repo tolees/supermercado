@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sin siliconas y sin colores artificiales
-- Reparación frente al daño por rotura
 - Formula con aceite de coco y aloe vera
 - Proporciona hidratación y una suavidad duradera
+- Reparación frente al daño por rotura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BM9DCBH{{</world>}}

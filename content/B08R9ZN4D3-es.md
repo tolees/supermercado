@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suavidad en tu ropa y sensación de suavidad en la piel
 - Botella 100% reciclable
 - Suavizante concentrado para la ropa con aroma a melocotón y cítricos
+- Suavidad en tu ropa y sensación de suavidad en la piel
 - Sensación de fragancia duradera gracias a las micro cápsulas de liberación prolongada de fragancia
 - Efecto antiestático sobre las fibras
 

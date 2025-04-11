@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Viene en un embalaje reciclable
-- De textura fina
-- Conservar en un lugar fresco y seco
 - Adecuado para bebés mayores de 10 meses
 - Tarrito 100% ecológico con sabor a lenteja roja y quinoa
+- Conservar en un lugar fresco y seco
+- De textura fina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VD5BTX8{{</world>}}

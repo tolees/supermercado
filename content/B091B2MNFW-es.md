@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ✔️ Consérvese en sitio fresco, seco y aislado del suelo. Una vez abierto el envase conservar en lugar fresco y protegido de la luz.
-- ✔️ Formato: 500 g
-- ✔️ Ingredientes: Harina de coco* (100%). *Ingrediente procedente de la Agricultura Ecológica.
 - ✔️ Harina de coco ecológica SIN GLUTEN
 - ✔️ Características: Bio 100% vegetal - Sin lactosa - Sin gluten - Sin azúcares añadidos - Sin soja - Sin huevo - Sin proteína láctea - Sin frutos secos
+- ✔️ Consérvese en sitio fresco, seco y aislado del suelo. Una vez abierto el envase conservar en lugar fresco y protegido de la luz.
+- ✔️ Ingredientes: Harina de coco* (100%). *Ingrediente procedente de la Agricultura Ecológica.
+- ✔️ Formato: 500 g
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B091B2MNFW{{</world>}}

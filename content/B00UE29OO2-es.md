@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Evita la resequedad, protege, hidrata, nutre y aporta brillo y suavidad.
-- Prolonga el efecto de los tratamientos de alisado y coloración.
-- Libre de sales ni sulfatos.
 - Acondiciona el cabello. Contiene oro líquido para el pelo.
+- Evita la resequedad, protege, hidrata, nutre y aporta brillo y suavidad.
+- Libre de sales ni sulfatos.
 - Fortalece el cabello.
+- Prolonga el efecto de los tratamientos de alisado y coloración.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00UE29OO2{{</world>}}

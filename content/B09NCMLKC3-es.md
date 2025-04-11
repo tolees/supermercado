@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto para el cuidado del cabello
-- Apto para el uso diario
 - Marca: Fructis
+- Apto para el uso diario
+- Producto para el cuidado del cabello
 - El producto es fabricado con ingredientes de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TESTADO EN LABORATORIO: Calidad superior desarrollada por nutricionistas - según las más estrictas normas de calidad - ISO 9001, HACCP y GMP - Envase PET desechable.
-- 100% VEGETAL: Proteína en polvo sabor a Marzapán sin lactosa, sin gluten, proteína de leche, aspartamo, aceite de palma, gelatina, suero de leche y sin ingeniería genética - halal - ideal para la nutrición vegetariana y vegana
-- DESARROLLO MUSCULAR: Bajo en grasas y azúcares - sin sal ni azúcares añadidos - bebida proteica ideal para una dieta baja en carbohidratos y grasas - proteína de soja vegana multicompuesta.
-- PROTEÍNAS EN POLVO Marzapán 1000g: alto contenido en proteínas (más del 80% de proteínas), contribuye al desarrollo de la masa muscular - mezcla de proteínas vegetales de alto valor biológico.
 - MÁS QUE UN BATIDO: ideal para cocinar y hornear - recomendamos 1-2 batidos de proteínas con agua al día - ideal inmediatamente después del entrenamiento
+- 100% VEGETAL: Proteína en polvo sabor a Marzapán sin lactosa, sin gluten, proteína de leche, aspartamo, aceite de palma, gelatina, suero de leche y sin ingeniería genética - halal - ideal para la nutrición vegetariana y vegana
+- PROTEÍNAS EN POLVO Marzapán 1000g: alto contenido en proteínas (más del 80% de proteínas), contribuye al desarrollo de la masa muscular - mezcla de proteínas vegetales de alto valor biológico.
+- DESARROLLO MUSCULAR: Bajo en grasas y azúcares - sin sal ni azúcares añadidos - bebida proteica ideal para una dieta baja en carbohidratos y grasas - proteína de soja vegana multicompuesta.
+- TESTADO EN LABORATORIO: Calidad superior desarrollada por nutricionistas - según las más estrictas normas de calidad - ISO 9001, HACCP y GMP - Envase PET desechable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00PP51JR8{{</world>}}

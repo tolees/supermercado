@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - PROPIEDADES - La guayaba es una fruta tropical con un alto contenido en vitamina C y en antioxidantes, así como un importante aporte de fibra que ayuda al correcto funcionamiento del aparato digestivo.
-- HECHO EN ESPAÑA - Fabricado de forma local en las islas Canarias. Tirma es una marca española con más de 80 años de experiencia en el mercado de los productos de confitería. Entre su gama de productos de gran calidad, destacan las ambrosías, uno de los dulces más típicos de Canarias.
 - SIN GLUTEN Y VEGANO - Producto certificado gluten free, apto para personas con intolerancia al gluten. 100% vegetal, ideal para una dieta vegana y vegetariana.
-- DISFRUTA EN TODO MOMENTO - Disfruta de esta jalea de guayaba de diferentes maneras: con una tostada por la mañana, sirve cubos de queso y palitos de pasta de guayaba en tu cóctel u hornea fáciles pastelitos con guayaba.
 - TEXTURA CREMOSA - Disfruta de la dulce y sabrosa crema de guayaba de Tirma, con una textura perfecta para untar y acompañar tus tostadas. Su sabor es ideal para combinarla con queso, frutos secos o endulzar bocadillos y empanadillas. Presentación en 3 barquetas de 100g.
+- HECHO EN ESPAÑA - Fabricado de forma local en las islas Canarias. Tirma es una marca española con más de 80 años de experiencia en el mercado de los productos de confitería. Entre su gama de productos de gran calidad, destacan las ambrosías, uno de los dulces más típicos de Canarias.
+- DISFRUTA EN TODO MOMENTO - Disfruta de esta jalea de guayaba de diferentes maneras: con una tostada por la mañana, sirve cubos de queso y palitos de pasta de guayaba en tu cóctel u hornea fáciles pastelitos con guayaba.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0944DQPCM{{</world>}}

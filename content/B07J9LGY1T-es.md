@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tratamiento para el cabello teñido, dañado, con pérdida de densidad
-- Completa tu rutina NIOXIN de 3 pasos con el champú y tratamiento anticaída
-- Fortalece, nutre y repara el cabello
-- PASO 2 DE 3
-- Cabello más denso y restaura la hidratación del cabello teñido
-- Refuerza e hidrata el pelo
 - Aporta hidratación y protege el color
+- PASO 2 DE 3
+- Fortalece, nutre y repara el cabello
+- Cabello más denso y restaura la hidratación del cabello teñido
+- Completa tu rutina NIOXIN de 3 pasos con el champú y tratamiento anticaída
+- Refuerza e hidrata el pelo
+- Tratamiento para el cabello teñido, dañado, con pérdida de densidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07J9LGY1T{{</world>}}

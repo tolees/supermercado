@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tecnología sónica avanzada: Las potentes vibraciones de las cerdas impulsan las microburbujas en profundidad entre los dientes y a lo largo de la línea de las encías para una experiencia refrescante.
-- Incluye: 2 mangos de cepillo de la serie 3100 (HX3673/13), 2 cabezales de cepillo estándar C1 ProResults, 2 cargadores, manual de usuario y 2 garantías
 - Este cepillo dental eléctrico utiliza una batería de iones de litio que ofrece 14 días** de rendimiento constante.
+- Incluye: 2 mangos de cepillo de la serie 3100 (HX3673/13), 2 cabezales de cepillo estándar C1 ProResults, 2 cargadores, manual de usuario y 2 garantías
+- Tecnología sónica avanzada: Las potentes vibraciones de las cerdas impulsan las microburbujas en profundidad entre los dientes y a lo largo de la línea de las encías para una experiencia refrescante.
 - Elimina la placa dental tres veces mejor*: Se ha demostrado clínicamente que el cepillo dental eléctrico Sonicare con tecnología sónica avanzada elimina hasta 3 veces mejor* la placa que un cepillo dental manual.
 - Protege tus encías: El sensor de presión integrado detecta automáticamente la presión que se aplica, te avisa y reduce las vibraciones del cepillo dental automáticamente para ayudar a proteger las encías.
 

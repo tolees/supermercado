@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Color ámbar radiante y cálido
-- Con aromas de hierbas silvestres, brezo, miel y frutas
+- Whisky escocés mezcla de diferentes whiskys de malta y grano madurado durante mínimo 12 años
 - Pack edición limitada de dos botellas de Chivas Regal 12 años y 6 vasos Chivas de REGALO
 - De textura cremosa en el paladar
-- Whisky escocés mezcla de diferentes whiskys de malta y grano madurado durante mínimo 12 años
+- Con aromas de hierbas silvestres, brezo, miel y frutas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D1VXN39Z{{</world>}}

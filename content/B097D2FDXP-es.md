@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - SATISFACCIÓN DEL CLIENTE - Nos responsabilizamos al 100% de todos los productos para mascotas de nuestra marca. Si tiene alguna pregunta, haremos todo lo posible para resolverla... ¡Contáctenos!
-- Eficaz: Champú para perros con dermatitis contiene extracto de hierba de limón natural, que elimina eficazmente los ácaros, inhibe los hongos y las bacterias y alivia la picazón en la piel de las mascotas y otros problemas.No afectará la eficacia de otros productos para pulgas y garrapatas
 - Aroma natural:Champú Desodorante con aroma natural de leche y avena, no estimula el sentido del olfato de la mascota y elimina eficazmente el olor
+- Eficaz: Champú para perros con dermatitis contiene extracto de hierba de limón natural, que elimina eficazmente los ácaros, inhibe los hongos y las bacterias y alivia la picazón en la piel de las mascotas y otros problemas.No afectará la eficacia de otros productos para pulgas y garrapatas
 - Nueva actualización: 500 ml de gran capacidad, más adecuada para uso familiar. Al presionar el cabezal de la bomba, la dosificación se puede controlar mejor, es fácil de usar, no es necesario diluir
 - Ingredientes suaves: Champú Vegano Perros sin ingredientes irritantes como alcohol,silicona,sls,paraben.El Champú para perros sensibles también es adecuado para pieles delicadas, demasiado secas, muy sensibles o irritadas. PH adaptado, Apto para uso frecuente
 

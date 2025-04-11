@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alérgenos: sin gluten ni frutos secos
 - Cápsulas de aluminio, compatibles con cafeteras Nespresso(r), marca no relacionada con Global Coffee Industries S.A.
+- Alérgenos: sin gluten ni frutos secos
 - Ingredientes: café, intensidad 9
 
 [🛒 Comprar!!!]({{< param buyurl >}})

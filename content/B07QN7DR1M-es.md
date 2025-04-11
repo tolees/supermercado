@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborado con tecnología motionsense que se activa con el movimiento
 - Desodorante en Spray 0% alcohol
+- Elaborado con tecnología motionsense que se activa con el movimiento
 - Rexona te impulsa para que disfrutes del movimiento y que nada te detenga
-- Rexona Men Desodorante Antitranspirante Cobalt Dry 200ml
-- Desodorante para hombre de secado rápido
 - Desodorante antitranspirante que ofrece la mayor protección por hasta 48 horas
+- Desodorante para hombre de secado rápido
+- Rexona Men Desodorante Antitranspirante Cobalt Dry 200ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07QN7DR1M{{</world>}}

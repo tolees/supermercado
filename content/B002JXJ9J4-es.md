@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fecha lanzamiento: 2007
 - Familias Olfativas: Cítrica, Floral, Frutal
 - Diseñadores: Shyamala Maisondieu y Michel Girard
+- Fecha lanzamiento: 2007
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B002JXJ9J4{{</world>}}

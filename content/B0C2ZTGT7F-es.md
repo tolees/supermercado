@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PATÉ DE MEJILLONES: Paté de mejillones Espinaler en aceite de girasol y especias. Ideal para canapés y tostaditas. Todo el sabor del mar en un bocado.
 - RUEDA: Vino 100% Verdejo con DO Rueda. Macerado en frío, JUANITA CALAMIDAD, es un vino elegante y de alta gama en el que se manifiesta la complejidad y la finura que la uva verdeja le otorga.
+- PATÉ DE MEJILLONES: Paté de mejillones Espinaler en aceite de girasol y especias. Ideal para canapés y tostaditas. Todo el sabor del mar en un bocado.
 - PATÉ DE CARBACHO: Disfruta del delicioso paté de cabracho hecho con los mejores ingredientes y sorprende a tus sentidos con su sabor excepcional.
-- DESCUBRE TODA NUESTRA GAMA DE CONSERVAS y LOTES para REGALAR: visita nuestra tienda para conocer más sobre nuestras almejas, berberechos, navajas, sardinillas, mejillones y zamburiñas.
 - PATÉ DE PULPO: Experimenta el intenso sabor del paté de pulpo al ajillo, elaborado con ingredientes seleccionados para una experiencia gastronómica inigualable
+- DESCUBRE TODA NUESTRA GAMA DE CONSERVAS y LOTES para REGALAR: visita nuestra tienda para conocer más sobre nuestras almejas, berberechos, navajas, sardinillas, mejillones y zamburiñas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2ZTGT7F{{</world>}}

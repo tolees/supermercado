@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VEGANA, SIN GLUTEN Y SIN AZÚCARES AÑADIDOS - Ingredientes 100% Naturales para conseguir una infusión dulce y ahumada.
-- CÓMO PREPARAR - Calienta el agua hasta que hierva. Pon una bolsita en la taza y vierte el agua. Tapa la taza para que la mezcla libere su fragancia y sabor. Deja la bolsita en el agua de 3 a 5 minutos, o si lo prefieres, no la saques.
-- INFUSIONES CLÁSICAS - Son las infusiones que nos han acompañado siempre, a lo largo de nuestras vidas. Infusiones sencillas y sin adornos, salvo ese toque especial ocasional, del anís o la miel.
 - BENEFICIOS PARA EL ORGANISMO - La manzanilla tiene una acción antioxidante y antiinflamatoria y el anís aporta propiedades que mejoran el sistema digestivo.
 - MANZANILLA Y ANÍS - Una infusión ligera y aromática, con texturas dulces y ahumadas. Única y tradicional, pero popular.
+- INFUSIONES CLÁSICAS - Son las infusiones que nos han acompañado siempre, a lo largo de nuestras vidas. Infusiones sencillas y sin adornos, salvo ese toque especial ocasional, del anís o la miel.
+- CÓMO PREPARAR - Calienta el agua hasta que hierva. Pon una bolsita en la taza y vierte el agua. Tapa la taza para que la mezcla libere su fragancia y sabor. Deja la bolsita en el agua de 3 a 5 minutos, o si lo prefieres, no la saques.
+- VEGANA, SIN GLUTEN Y SIN AZÚCARES AÑADIDOS - Ingredientes 100% Naturales para conseguir una infusión dulce y ahumada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LXPKYXT{{</world>}}

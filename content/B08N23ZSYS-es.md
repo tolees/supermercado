@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La exquisita fragancia de Old Spice te hará inolvidable, como si fueras el centro del mundo
-- Limpieza legendaria para hombres legendarios
 - Sumérgete en el poder de Old Spice. Gel de ducha Old Spice. Poder. Deseado por todos
 - Espuma refrescante que elimina la suciedad y el mal olor
+- Limpieza legendaria para hombres legendarios
+- La exquisita fragancia de Old Spice te hará inolvidable, como si fueras el centro del mundo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08N23ZSYS{{</world>}}

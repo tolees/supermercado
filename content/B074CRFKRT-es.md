@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto halal
 - No testado en animales
-- Innovadora fórmula con textura "sponge"
-- Laboratorio y fabricante certificado según las normas: iso 9001, iso 14001, iso 22716, aenor i + d + i y certificación halal
+- Producto halal
 - Fabricado con agua tratada: descalcificada
+- Laboratorio y fabricante certificado según las normas: iso 9001, iso 14001, iso 22716, aenor i + d + i y certificación halal
 - Champú potencia dor del color y brillo capilar formulado sin sulfatos, sin colorantes, sin mit, sin parabenos y sin siliconas
+- Innovadora fórmula con textura "sponge"
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074CRFKRT{{</world>}}

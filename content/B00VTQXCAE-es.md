@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dercos Champú tratamiento anti-caspa de la marca Vichy
-- Dercos Champú tratamiento anti-caspa para Mujer
 - De la marca Vichy
 - Un producto único y exclusivo de la marca Vichy
+- Dercos Champú tratamiento anti-caspa de la marca Vichy
+- Dercos Champú tratamiento anti-caspa para Mujer
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00VTQXCAE{{</world>}}

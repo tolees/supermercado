@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - - Taza de cerámica con mensaje de amor divertido.
-- - Mensaje: Lo que está más bueno de este café eres tu.
-- - Capacidad: 280ml.
 - - Perfecta para regalo.
+- - Capacidad: 280ml.
+- - Mensaje: Lo que está más bueno de este café eres tu.
 - - Apto para microondas y lavavajillas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

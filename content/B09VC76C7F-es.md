@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El champú Miracle Serum de Pantene Rizos Definidos limpia suavemente a la vez que transforma las ondas encrespadas y rebeldes en rizos definidos, brillantes y llenos de vida
-- Producto capilar Pantene probado por el Instituto Vitamínico Suizo
-- BUENO PARA TI Y PARA EL PLANETA: botella reciclable (excepto el tapón)
-- La fórmula de champú más lujosa y rica de Pantene aporta a los rizos encrespados y rebeldes la nutrición excepcional que necesitan y se merecen
-- TIPO DE CABELLO: este champú Pantene es para rizos encrespados y rebeldes
 - INSTRUCCIONES DE USO DEL CHAMPÚ: masajea hasta generar espuma, deja que actúe en el cabello durante un minuto y acláralo bien
+- BUENO PARA TI Y PARA EL PLANETA: botella reciclable (excepto el tapón)
+- Producto capilar Pantene probado por el Instituto Vitamínico Suizo
+- TIPO DE CABELLO: este champú Pantene es para rizos encrespados y rebeldes
+- La fórmula de champú más lujosa y rica de Pantene aporta a los rizos encrespados y rebeldes la nutrición excepcional que necesitan y se merecen
+- El champú Miracle Serum de Pantene Rizos Definidos limpia suavemente a la vez que transforma las ondas encrespadas y rebeldes en rizos definidos, brillantes y llenos de vida
 - LA EFICACIA DE UN SÉRUM EN UN CHAMPÚ. Mezcla Pro-V enriquecida con nutrientes de sérum: Pro-V + lípidos fortalecedores + antioxidantes protectores + aceite de ricino
 
 [🛒 Visítala!!!]({{< param buyurl >}})

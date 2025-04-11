@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Captura y envuelve cada pestaña para hacerlas más gruesas sin dejar grumos
 - Fórmula con aceite de argán que fortalece y nutre las pestañas una a una
-- Cepillo flexible de silicona que abraza las pestañas definiendolas desde la raíz a las puntas
-- Definidas y acondicionadas.Waterpoof
 - Mirada natural y ligera
+- Definidas y acondicionadas.Waterpoof
+- Cepillo flexible de silicona que abraza las pestañas definiendolas desde la raíz a las puntas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00UYJDAN6{{</world>}}

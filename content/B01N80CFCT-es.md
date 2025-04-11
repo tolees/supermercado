@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mascarilla capilar que alisa y nutre, controlando el encrespamiento para conseguir un pelo naturalmente liso, suelto y suave
 - Aplicar sobre cabello mojado después del champú, masajeando de largos a puntas. Dejar actuar de 2 a 3 minutos y luego aclarar
+- 300 ml
 - Envase 100 percent reciclable
 - Formulado con: Aceite de coco por sus virtudes hidratantes y alisadoras y manteca de cacao por sus propiedades nutritivas y suavizantes
-- Mascarilla capilar que alisa y nutre, controlando el encrespamiento para conseguir un pelo naturalmente liso, suelto y suave
-- 300 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N80CFCT{{</world>}}

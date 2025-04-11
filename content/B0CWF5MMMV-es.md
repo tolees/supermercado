@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Mini cubo de metal: mano de obra exquisita, tiene un diseño exquisito.
 - Almacenamiento de hielo: tratamiento pulido, sin decoloración, que tiene una vida útil más larga.
-- Cubo para cubitos de hielo: está hecho de material de hierro grueso, que es fuerte y duradero, no es fácil de dañar.
 - Soporte para refrigerios: puede llenar el cubo con cubitos de hielo a voluntad para enfriar su cerveza, bebidas, cócteles, etc.
+- Cubo para cubitos de hielo: está hecho de material de hierro grueso, que es fuerte y duradero, no es fácil de dañar.
 - Macetero blanco: puede ser para almacenar patatas fritas, pollo frito, cubitos de hielo para congelar jugos, bebidas, cócteles, cerveza,
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

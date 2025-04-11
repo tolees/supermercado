@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para perros sobrepesados de todas las razas
-- Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
-- Sin trigo & sin azúcar
 - Extractos de mejillones para fortalecer cartílagos, articulaciones y huesos
+- Sin trigo & sin azúcar
 - Muy reducido en energía (sólo un 6 % de grasa) y con fibras dietéticas para un control efectivo del peso
+- Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01EQZBNBO{{</world>}}

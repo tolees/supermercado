@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Croquetas con una forma especial y el sistema DentaDefense para ayudar a mantener los dientes limpios y sanos
-- L-carnitina para ayudar a controlar el peso
 - Espinacas, fuente natural de hierro; Fuentes naturales de omega 6 y 3 para favorecer una piel sana y un pelaje radiante
-- Prebióticos FOS y pulpa de remolacha para favorecer una digestión saludable
+- L-carnitina para ayudar a controlar el peso
 - Glucosamina para ayudar a mantener sanas las articulaciones y calcio para ayudar a mantener los huesos fuertes
+- Prebióticos FOS y pulpa de remolacha para favorecer una digestión saludable
+- Croquetas con una forma especial y el sistema DentaDefense para ayudar a mantener los dientes limpios y sanos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01G6QBQUE{{</world>}}

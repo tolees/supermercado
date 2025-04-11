@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin proteína láctea
-- Sin gluten
 - 6 x 1 Kg
 - Sin huevo
+- Sin gluten
+- Sin proteína láctea
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HXCPNNT{{</world>}}

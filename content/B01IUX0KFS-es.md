@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con recubrimiento de azúcar
-- Apto para vegetarianos
-- Caramelos de goma sabor frutas
 - Sabores: Fresa, naranja, manzana, frambuesa, limón y piña
+- Caramelos de goma sabor frutas
+- Apto para vegetarianos
+- Con recubrimiento de azúcar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IUX0KFS{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Producto de alta calidad
-- Gel de baño Bioderma
 - Bioderma Atoderm Huile De Douche 1liter
+- Gel de baño Bioderma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ZY65OSI{{</world>}}

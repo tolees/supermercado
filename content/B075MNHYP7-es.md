@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Textura no grasa y no pegajosa
+- Se aplica en la cara, el cuerpo y las manos
 - Un cuidado 3 en 1 con perfume masculino
 - Cómodo de usar
-- Se aplica en la cara, el cuerpo y las manos
-- Textura no grasa y no pegajosa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B075MNHYP7{{</world>}}

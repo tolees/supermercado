@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mangas hasta el codo
-- Las modelos miden 178 cm y llevan una talla S y XXL
-- Ajuste regular: acompaña el movimiento, ni muy suelto ni muy ajustado
-- Bajo asimétrico
-- Botones funcionales
-- La talla S de esta blusa mide 68 cm de largo y la talla XXL, 74 cm
 - Fabricado en tejido tencel lyocell de peso medio, suave y no elástico
+- Bajo asimétrico
+- Mangas hasta el codo
+- Ajuste regular: acompaña el movimiento, ni muy suelto ni muy ajustado
+- Las modelos miden 178 cm y llevan una talla S y XXL
+- La talla S de esta blusa mide 68 cm de largo y la talla XXL, 74 cm
+- Botones funcionales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B4SMZ2DB{{</world>}}

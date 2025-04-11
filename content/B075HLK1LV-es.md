@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Adecuado para recién nacidos
 - Loción corporal hidratante para pieles sensibles
-- Testado pediátrico y dermatológico
 - Con activos naturales
 - Sin parabenos y alérgenos
-- Adecuado para recién nacidos
+- Testado pediátrico y dermatológico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B075HLK1LV{{</world>}}

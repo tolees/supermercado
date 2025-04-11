@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nuestro colágeno proviene de pescado y es hidroliza
 - Incluye Calcio y Magnesio
-- Muy convenable
+- Nuestro colágeno proviene de pescado y es hidroliza
 - Vitaminas
+- Muy convenable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075SCGM75{{</world>}}

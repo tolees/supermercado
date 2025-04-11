@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vitanatur Equilibrium (1) es un complemento alimenticio con ingredientes que ayudan a la adaptación frente a situaciones de estrés (1) y a mantener un buen estado de ánimo (1)
-- Modo de empleo: Tomar 2 comprimidos al día, un comprimido con el desayuno y un comprimido con la comida
 - También contiene magnesio, que contribuye a la función psicológica normal (1) y al funcionamiento normal del sistema nervioso (1)
 - Las vitaminas B1, B3, B6, B8, B9 y B12 contribuyen a una función psicológica normal (1), mientras que las vitaminas B1, B2, B3, B6, B8 y B12 contribuyen al funcionamiento normal del sistema nervioso (1)
 - Formulado con azafrán, que ayuda a mantener un buen estado de ánimo (1), rodiola, que ayuda al organismo a adaptarse al estrés emocional y al esfuerzo físico (1) y triptófano, un aminoácido esencial que no se puede obtener de la dieta y es necesario para la síntesis de serotonina (1)
+- Vitanatur Equilibrium (1) es un complemento alimenticio con ingredientes que ayudan a la adaptación frente a situaciones de estrés (1) y a mantener un buen estado de ánimo (1)
+- Modo de empleo: Tomar 2 comprimidos al día, un comprimido con el desayuno y un comprimido con la comida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DN9N6CE{{</world>}}

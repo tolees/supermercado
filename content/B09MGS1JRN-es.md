@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en un lugar fresco y seco
-- Tienen un sabor dulce
 - Ideales como postre
-- Caramelos negros con interior coloreado
+- Tienen un sabor dulce
 - De diferentes formas
+- Caramelos negros con interior coloreado
+- Conservar en un lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MGS1JRN{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Son fuente de fibra, no contienen aceite de palma, ni colorantes, ni aromas artificiales
-- Cereales Nestlé Fitness Fuente de Fibra
 - Deliciosos copos de trigo integral, arroz y avena integral, recubiertos de chocolate negro 36 %
-- Brindan ENERGÍA NUTRITIVA en el desayuno
-- Distribuido por: NESTLÉ ESPAÑA, S.A. c/Clara Campoamor, n° 2 08950 Esplugues de Llobregat (Barcelona) Por cuenta de: CEREAL PARTNERS ESPAÑA, A.E.I.E.
+- Cereales Nestlé Fitness Fuente de Fibra
 - Cereales integrales con vitaminas del grupo B (B2, B3, B5 y B6) que contribuyen al metabolismo energético normal
+- Distribuido por: NESTLÉ ESPAÑA, S.A. c/Clara Campoamor, n° 2 08950 Esplugues de Llobregat (Barcelona) Por cuenta de: CEREAL PARTNERS ESPAÑA, A.E.I.E.
+- Brindan ENERGÍA NUTRITIVA en el desayuno
+- Son fuente de fibra, no contienen aceite de palma, ni colorantes, ni aromas artificiales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09D7ZC6MH{{</world>}}

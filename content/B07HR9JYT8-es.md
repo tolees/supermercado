@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Adecuado como regalo
 - Final redondeado con un toque de mantequilla
+- Notas de compota de manzanas rojas
 - Sabor suave y afrutado
 - Color ámbar oscuro
-- Notas de compota de manzanas rojas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07HR9JYT8{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mantener en un lugar fresco y seco
-- Marca: Kalios
 - Formato: Cristal, 90 gramos
 - Ingredientes: Aceitunas Kalamata y Aceite de Oliva Virgen Extra
+- Mantener en un lugar fresco y seco
 - País de origen: Grecia
+- Marca: Kalios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01F4K8AG6{{</world>}}

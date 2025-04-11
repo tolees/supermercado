@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descripción detallada más abajo.
 - Formato 250ml
+- Descripción detallada más abajo.
 - Formulado con Ácido L-Láctico biológico (pH=3.5). Sin perfume
 - Sin jabón. Dermatológicamente testado
 

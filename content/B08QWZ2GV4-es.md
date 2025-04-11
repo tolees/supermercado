@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - De color ámbar oscuro con reflejos anaranjados
 - Tiene un aroma intenso con notas herbáceas y especiadas, equilibrado en boca y largo postgusto
-- Formato ideal para compartir con amigos o familia
 - Adecuado como aperitivo, con diferentes tipos de platos
+- Formato ideal para compartir con amigos o familia
 - Se elabora siguiendo un minucioso proceso de elaboración, desde la selección de ingredientes hasta el embotellado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

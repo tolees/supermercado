@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proteína en Gel que ayuda a reparar el cabello y activar su colágeno natural, compuesto por un 91.2% de ingredientes naturales.
 - Contiene: Extracto de Jengibre, Proteína de Trigo, Aceite de Ricino, Vitamina E, Aceite del Salvado de Arroz, Aceite de Jojoba.
-- Activa la producción de colágeno natural.
+- Proteína en Gel que ayuda a reparar el cabello y activar su colágeno natural, compuesto por un 91.2% de ingredientes naturales.
 - Libre de sulfatos, alcohol, parabenos y sales.
+- Activa la producción de colágeno natural.
 - Restaura la hebra capilar y estimula su crecimiento, devolviendo la vida al cabello dejándolo sano, fuerte y suave.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

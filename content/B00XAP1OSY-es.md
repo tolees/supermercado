@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conservar en lugar fresco y seco
-- Deliciosas piezas con forma de ostras de mar
 - Mix de sabores
 - Caramelos de goma
+- Deliciosas piezas con forma de ostras de mar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAP1OSY{{</world>}}

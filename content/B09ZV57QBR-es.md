@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Aceite en spray hidratante ligero: Suaviza e hidrata al instante el pelo muy seco, y no deja residuos grasos
 - Mascarilla co nutrientes vegetales: La fórmula de Essences of Life contiene leche de coco y esencias vegetales
+- Champú hidratante: 2 veces más nutrición en un solo uso. Alimenta tu pelo con antioxidantes y nutrientes de origen vegetal
 - Mascarilla hidratante: tratamiento capilar que hidrata el pelo seco y controla el pelo encrespado
 - Aceite con un delicioso aroma: Déjate mimar por la fragancia cremosa y cálida que aporta a tu pelo ese aroma fresco como recién salido de la ducha
-- Champú hidratante: 2 veces más nutrición en un solo uso. Alimenta tu pelo con antioxidantes y nutrientes de origen vegetal
 - Champú hidratante: ayuda a hidratar el pelo dañado suavizando y mostrando su belleza natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Todos los caramelos y chicles vienen protegidos individualmente
-- Caramelo masticable Fruittella sabores surtidos, Chicle Center Shock mix sabores
+- Chupa Chups Caramelo con palo (XXL con chicle Fresa, Mini Cola, Crazy Dips Fresa con pica pica)
 - Caramelo comprimido Look-o-Look Dextrosa (forma Reloj y Collar), Golosinas Ácidas Cereza
 - Optima para llevar en la mochila, fiestas de cumpleaños y piñatas
-- Chupa Chups Caramelo con palo (XXL con chicle Fresa, Mini Cola, Crazy Dips Fresa con pica pica)
+- Caramelo masticable Fruittella sabores surtidos, Chicle Center Shock mix sabores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CL5W35R{{</world>}}

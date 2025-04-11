@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Doble pared: Sin riesgo de quemaduras en los dedos con bebidas calientes, tampoco se forma condensación en la superficie del vidrio con bebidas frías. Importante: se recomienda lavarse las manos para un mejor mantenimiento.
 - Soplado a mano: Gracias a la mano de obra de alta calidad y la experiencia de los sopladores de vidrio, el vidrio es maravillosamente ligero, claro y suave para un uso fácil y agradable.
+- Doble pared: Sin riesgo de quemaduras en los dedos con bebidas calientes, tampoco se forma condensación en la superficie del vidrio con bebidas frías. Importante: se recomienda lavarse las manos para un mejor mantenimiento.
 - Aspecto simple y elegante: Línea simple y fluida,vidrio cristalino que es una buena vista en su mesa. Una opción perfecta para café, té, postres y más.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

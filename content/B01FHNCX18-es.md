@@ -29,13 +29,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Conservar protegido de la luz, en ambiente fresco y seco.
-- Modo de empleo: Producto apto para ser consumido directamente o para ser utilizado como ingrediente en preparaciones culinarias.
 - Ingredientes: 100% Aceite de semillas de lino ecológico. Este producto es elaborado en la misma línea de envasado que aceites de soja, frutos secos y sésamo.
-- Conservar protegido de la luz, en ambiente fresco y seco.
 - Advertencia de seguridad: No necesita refigeración
 - Aceite de Lino Bio es apto para veganos y celiacos. Sin azúcares añadidos y rico en Omega-3. Cuidamos de ti con ingredientes naturales y ecológicos.
 - Producto apto para ser consumido directamente o para ser utilizado como ingrediente en preparaciones culinarias. ¡No te quedes sin probarlo!
+- Modo de empleo: Producto apto para ser consumido directamente o para ser utilizado como ingrediente en preparaciones culinarias.
 - Producto apto para ser consumido directamente o para ser utilizado como ingrediente en preparaciones culinarias. ¡No te quedes sin probarlo!
+- Conservar protegido de la luz, en ambiente fresco y seco.
 - Aceite de Lino Bio es apto para veganos y celiacos. Sin azúcares añadidos y rico en Omega-3. Cuidamos de ti con ingredientes naturales y ecológicos.
 - Modo de empleo: Producto apto para ser consumido directamente o para ser utilizado como ingrediente en preparaciones culinarias.
 

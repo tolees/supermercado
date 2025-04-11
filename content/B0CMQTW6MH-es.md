@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Limpieza sencilla. La cuchilla desmontable está fabricada en acero inoxidable de RSG Solingen
-- Ajuste continuo del grosor de corte de 0 a 15 mm
 - Para corte fino o grueso. El espesor de corte se puede ajustar con una precisión de 0 a 15 mm
+- Limpieza sencilla. La cuchilla desmontable está fabricada en acero inoxidable de RSG Solingen
 - Cabe en cualquier cocina. La placa de la base plegable permite guardar el cortador universal de forma compacta. Incluye almacenamiento de cables
+- Ajuste continuo del grosor de corte de 0 a 15 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMQTW6MH{{</world>}}

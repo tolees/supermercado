@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Solo ingredientes declarados aptos para el consumo humano, pero no destinados al consumo humano por motivos comerciales.
-- Receta muy sabrosa que te permite satisfacer incluso a los gatos más exigentes.
-- El acrónimo HFC certifica el origen de los ingredientes utilizados en la receta y que originalmente eran aptos para el consumo humano.
-- Sin rellenos, espesantes, aditivos artificiales, colorantes ni vitaminas sintéticas. Libre de crueldad animal
 - Alimento natural totalmente giratorio, completo y equilibrado para tu querido gato.
+- Solo ingredientes declarados aptos para el consumo humano, pero no destinados al consumo humano por motivos comerciales.
+- El acrónimo HFC certifica el origen de los ingredientes utilizados en la receta y que originalmente eran aptos para el consumo humano.
+- Receta muy sabrosa que te permite satisfacer incluso a los gatos más exigentes.
+- Sin rellenos, espesantes, aditivos artificiales, colorantes ni vitaminas sintéticas. Libre de crueldad animal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00MY4O48O{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 178 raciones en su formato ahorro de 2,5kg (contiene 2 bolsas en su interior).
+- Alérgenos: contiene trigo y soja. Mantener en lugar fresco y seco.
 - Gratis un Smartwatch Sport
+- 178 raciones en su formato ahorro de 2,5kg (contiene 2 bolsas en su interior).
 - Con cacao certificado UTZ. Al comprar cacao UTZ, ColaCao apoya el cultivo sostenible de cacao. Los agricultores certificados por UTZ implementan mejores prácticas agrícolas, con respeto a la gente y al planeta.
 - Es el ColaCao Instantáneo que se disuelve ¡en un visto y no visto! En leche caliente y en leche fría. Para que hagas eso tan tuyo ahora sin grumos. Tómatelo por la mañana o entre horas porque ya sabes que en un pim pam está listo.
-- Alérgenos: contiene trigo y soja. Mantener en lugar fresco y seco.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B59NBJ81{{</world>}}

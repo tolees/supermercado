@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LOréal Paris Elvive Bond Repair, la revolución de la reparación capilar. Nuestra nueva rutina de reparación profunda que regenera a nivel molecular la fibra capilar desde el interior. Para todo tipo de cabello dañado
 - Pre-champú rescate: el paso Nº1 y producto estrella de nuestra rutina de reparación capilar, consigue un 82 percent más de enlaces capilares reconstruidos y un 98 percent menos de rotura
-- Un tratamiento intensivo con aclarado para utilizar antes del champú, que brinda el nivel más profundo de reparación capilar. SIN SULFATOS
-- Por primera vez, nuestra formula enriquecida con Ácido Cítrico penetra hasta el interior de la fibra para regenerar a nivel molecular los enlaces capilares rotos
 - Aplicar abundantemente sobre el cabello húmedo, desde el cuero cabelludo hasta las puntas, hasta que se encuentre completamente impregnado. Dejar actuar durante 5 minutos y después aclarar
+- Por primera vez, nuestra formula enriquecida con Ácido Cítrico penetra hasta el interior de la fibra para regenerar a nivel molecular los enlaces capilares rotos
+- Un tratamiento intensivo con aclarado para utilizar antes del champú, que brinda el nivel más profundo de reparación capilar. SIN SULFATOS
+- LOréal Paris Elvive Bond Repair, la revolución de la reparación capilar. Nuestra nueva rutina de reparación profunda que regenera a nivel molecular la fibra capilar desde el interior. Para todo tipo de cabello dañado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BRCS77D4{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Multipack de 3 unidades, la caja contiene 18 lotes
-- Certificado RainForest Alliance
+- Tableta de chocolate con leche y galleta Jungly.
 - Certificado RainForest Alliance
 - Tableta de chocolate con leche y galleta Jungly.
 - Multipack de 3 unidades, la caja contiene 18 lotes
-- Tableta de chocolate con leche y galleta Jungly.
+- Certificado RainForest Alliance
+- Multipack de 3 unidades, la caja contiene 18 lotes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BFXJP12M{{</world>}}

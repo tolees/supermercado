@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin gluten; Sin colorantes ni conservantes; Sin aceite de palma
-- La combinación perfecta entre dulce y salado, untuoso y crujiente, acompañada de una copa de vino espumoso
 - Tableta de Chocolate Blanco con Avellanas del Piamonte IGP, Almendras y Pistachos ligeramente salados en su interior
+- La combinación perfecta entre dulce y salado, untuoso y crujiente, acompañada de una copa de vino espumoso
+- Sin gluten; Sin colorantes ni conservantes; Sin aceite de palma
 - Se presenta en un envoltorio especial que conserva la frescura y en el interior de una elegante caja
 - Elaborado en Italia según la regla del «Buono Buonissimo» (ingredientes naturales, con menos azúcares y sin aditivos artificiales)
 

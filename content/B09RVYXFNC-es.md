@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado en una fábrica certificada de cero residuos. Botella fabricada con plástico 100% PCR y tapón con plástico PCR al 50%
-- Apto para veganos
-- Testado dermatológicamente para pieles sensibles
-- Elaborado con ingredientes biodegradables a base de plantas
-- Fragancia Apple Blossom & Almond
-- Reduce el consumo de plásticos con este formato rellenable de suavizante líquido de 5L.
-- Ayuda a reducir la electricidad estática
-- ECOVER Suavizante para Ropa gracias elaborado con aceite de colza de origen europeo y sin aceite de palma suaviza y ayuda a cuidar la ropa. Desde 1989, hemos apostado por la nececidad de reutilizar en toda Europa para reducir los residuos de plástico. El plástico es el último producto que deberíamos tirar. Desde formatos para casa de 5 litros a instaurar puestos de rellenado, es el momento de reutilizar y unirse a la “ERA LA SOSTENIBILIDAD”.
 - No testado en animales
+- Elaborado con ingredientes biodegradables a base de plantas
+- Testado dermatológicamente para pieles sensibles
+- Ayuda a reducir la electricidad estática
+- Fragancia Apple Blossom & Almond
+- ECOVER Suavizante para Ropa gracias elaborado con aceite de colza de origen europeo y sin aceite de palma suaviza y ayuda a cuidar la ropa. Desde 1989, hemos apostado por la nececidad de reutilizar en toda Europa para reducir los residuos de plástico. El plástico es el último producto que deberíamos tirar. Desde formatos para casa de 5 litros a instaurar puestos de rellenado, es el momento de reutilizar y unirse a la “ERA LA SOSTENIBILIDAD”.
 - Consejos de utilización: Conservar entre 5 °C y 25 °C. No apto para seda. No usar en textiles ignífugos. No vertir directamente sobre la tela. 1 tapón = 40 ml Carga estándar (4-5 kg) Suave = 30 ml. Extra suave = 60 ml (2 x 30 ml)
+- Apto para veganos
+- Fabricado en una fábrica certificada de cero residuos. Botella fabricada con plástico 100% PCR y tapón con plástico PCR al 50%
+- Reduce el consumo de plásticos con este formato rellenable de suavizante líquido de 5L.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RVYXFNC{{</world>}}

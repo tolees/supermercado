@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un chocolate cremoso, suave y dulce, hecho con leche recogida diariamente de la cornisa Cantábrica
 - Producimos Nestlé fino desde 1966 en La Penilla, Cantabria, siguiendo un proceso tradicional
-- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest
-- Delicioso chocolate con leche NESTLÉ fino con relleno cremoso y trocitos de galleta Filipinos Blanco
 - Relleno de Galleta Filipinos Blanco
+- Un chocolate cremoso, suave y dulce, hecho con leche recogida diariamente de la cornisa Cantábrica
+- Delicioso chocolate con leche NESTLÉ fino con relleno cremoso y trocitos de galleta Filipinos Blanco
+- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CDGXLD15{{</world>}}

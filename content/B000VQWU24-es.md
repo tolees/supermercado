@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 4m
-- Con agujero europeo
 - En bolsa
 - Alambre de cobre
+- Con agujero europeo
+- 4m
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000VQWU24{{</world>}}

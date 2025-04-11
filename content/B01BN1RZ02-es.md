@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Sin gluten, sin lactosa.
 - Complemento alimenticio con ingredientes para mantener el cabello y las uñas saludables.
 - Con Zinc y vitamina C, que contribuyen a la protección de las células frente al daño oxidativo.
-- Sin gluten, sin lactosa.
 - 180 cápsulas duras.
 - Contiene extractos de Equisetum arvense que contribuye al bienestar del cabello.
 

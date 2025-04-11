@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fuente de fibra
 - Sin aceite de palma y sin conservantes ni colorantes artificiales
 - Elaborados con jamón y tomate
 - Snacks horneados con ingredientes naturales
+- Fuente de fibra
 - Un snack para fiestas y cumpleaños
 
 [🛒 Aquí!!!]({{< param buyurl >}})

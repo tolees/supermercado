@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Set de cristalería: desde vino tinto hasta aperol spritz y gin tonic, este set de 4 piezas de Villeroy & Boch añade a cada bebida un toque especial
 - Calidad premium: robusta copa gourmet de cristal brillante, sabor neutral, resistente y apta para el lavavajillas
 - Volumen de suministro: 4 x copas para vino tinto rose garden (200 ml) de Villeroy & Boch, material: cristal (número de art.: 11-3725-8110)
+- Set de cristalería: desde vino tinto hasta aperol spritz y gin tonic, este set de 4 piezas de Villeroy & Boch añade a cada bebida un toque especial
 - Sugerencia de regalo: las copas se entregan en una caja de cartón, por lo que este set es bueno como regalo para el día de la madre, san valentín, cumpleaños o la fiesta de inauguración de una casa
 - Uso versátil: estas románticas copas no sólo dan protagonismo a su bebida favorita, sino que también son auténticas maravillas en materia de decoración y almacenamiento
 

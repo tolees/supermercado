@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SENSACIÓN DE ALIVIO: Nuestro Digest Gases, por su contenido en alcaravea, te ayudará a disminuir las flatulencias. Además, al regular el proceso digestivo, dejarás de sentir la sensación de pesadez o hinchazón.
-- PROPIEDADES RELAJANTES: Su composición cuenta con una combinación exclusiva de plantas que te ayudarán a combatir el vientre hinchado. Y, su alto contenido en alcaravea te proporcionará un potente efecto calmante, ideal para reducir los espasmos.
-- INGREDIENTES NATURALES: Elaborado a base de alcaravea, hinojo, coriandro y anís verde, este suplemento se presenta en cápsulas para disolver en el agua. Todos los componentes han sido cuidadosamente seleccionados y cumplen los estándares de calidad.
-- MODO DE EMPLEO: Recomendamos como máximo la ingesta diaria de 6 comprimidos, repartidas en las principales comidas. Es aconsejable disolver las cápsulas en un vaso de agua fría o caliente para obtener una agradable bebida de plantas aromáticas.
 - ELABORADOS DIETETICOS, S.A.U. C/Salvador Espriu n 32 Pol. ind. Sur 08754 El Papiol (Barcelona)
 - SOBRE NOSOTROS: Naturaleza, tradición y pasión por ayudar a los demás fueron el impulso que en 1985 nos llevó a crear Eladiet. Actualmente, somos líderes en la elaboración de complementos alimenticios naturales cuyo objetivo es mejorar tu bienestar.
+- INGREDIENTES NATURALES: Elaborado a base de alcaravea, hinojo, coriandro y anís verde, este suplemento se presenta en cápsulas para disolver en el agua. Todos los componentes han sido cuidadosamente seleccionados y cumplen los estándares de calidad.
+- MODO DE EMPLEO: Recomendamos como máximo la ingesta diaria de 6 comprimidos, repartidas en las principales comidas. Es aconsejable disolver las cápsulas en un vaso de agua fría o caliente para obtener una agradable bebida de plantas aromáticas.
+- PROPIEDADES RELAJANTES: Su composición cuenta con una combinación exclusiva de plantas que te ayudarán a combatir el vientre hinchado. Y, su alto contenido en alcaravea te proporcionará un potente efecto calmante, ideal para reducir los espasmos.
+- SENSACIÓN DE ALIVIO: Nuestro Digest Gases, por su contenido en alcaravea, te ayudará a disminuir las flatulencias. Además, al regular el proceso digestivo, dejarás de sentir la sensación de pesadez o hinchazón.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DN9M24C{{</world>}}

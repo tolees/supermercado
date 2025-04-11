@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Galletas rellenas de crema de chocolate
-- Ideal como snack
 - No contienen gluten
+- Ideal como snack
 - Tienen un alto contenido de fibra
+- Galletas rellenas de crema de chocolate
 - Es un producto apto para vegetarianos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

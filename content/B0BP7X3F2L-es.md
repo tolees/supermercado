@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Axe Desodorante Aerosol 72h Blue Lavander para Hombre Fragancia Menta y Ámbar 150ml
 - Fragancia Premium Menta y Ámbar
 - Infinitamente reciclable
 - Aerosol hasta 72h para que te sientas fresco durante todo el día
 - Libre de aluminio
 - No testado en animales (PETA Approved)
-- Axe Desodorante Aerosol 72h Blue Lavander para Hombre Fragancia Menta y Ámbar 150ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BP7X3F2L{{</world>}}

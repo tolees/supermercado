@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MÁQUINA DE DISEÑO Y COMPACTO: 15 cm de ancho, 28 cm de altura, 37 cm de profundidad
-- PALANCA DE SELECCIÓN para bebida fría o caliente
+- Depósito XL 1,2L transparente y extraíble de fácil acceso con tapa totalmente extraíble para facilitar el mantenimiento y el llenado
 - 15 BARES DE PRESIÓN para tener éxito en todas las bebidas, desde el espresso hasta las bebidas lácteas, frías o calientes
 - Reparabilidad 15 años, 2 años de garantía
-- Depósito XL 1,2L transparente y extraíble de fácil acceso con tapa totalmente extraíble para facilitar el mantenimiento y el llenado
 - 3 posiciones de la puerta de la taza, sistema "Lift and Click" extraíble y ajustable para tazas pequeñas, tazas grandes y taza de viaje
 - Modo de ahorro de energía: la máquina se pone en espera después de 5 minutos de inactividad
+- MÁQUINA DE DISEÑO Y COMPACTO: 15 cm de ancho, 28 cm de altura, 37 cm de profundidad
+- PALANCA DE SELECCIÓN para bebida fría o caliente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07GBDY1KK{{</world>}}

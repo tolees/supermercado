@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zumo de piña como principal ingrediente, con efectos diuréticos, antisépticos y desintoxicantes
 - Granini - Néctar de Piña a partir de Zumo de Piña Pack 12 x 330ml Clásicos
-- Néctar con zumo de piña con un contenido óptimo de fruta para que su sabor y textura sea así de buena
-- Néctar de piña a partir de zumo de piña, rica en vitaminas A y C
+- Zumo de piña como principal ingrediente, con efectos diuréticos, antisépticos y desintoxicantes
 - Néctar con zumo de frutas concentrado en formato PET 330ml. Agitar antes de usar, una vez abierto conservar en el frigorífico
+- Néctar de piña a partir de zumo de piña, rica en vitaminas A y C
+- Néctar con zumo de piña con un contenido óptimo de fruta para que su sabor y textura sea así de buena
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CNH91Y8Z{{</world>}}

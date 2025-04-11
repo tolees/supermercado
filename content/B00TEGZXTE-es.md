@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cantidad por paquete: 6 unidades.
 - Altura: 13 cm.
-- Material: cristal.
 - Contenido: 16 cl.
+- Cantidad por paquete: 6 unidades.
+- Material: cristal.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TEGZXTE{{</world>}}

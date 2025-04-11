@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Envuélvete en su abundante espuma; Resérvate ese ratito de positividad cada día
-- Unidades: 737.0
-- Gel de Ducha Moussel Classique Original 650ml
-- Una textura suave y cremosa que mantiene la tersura natural de tu piel
 - Canta en la ducha
+- Envuélvete en su abundante espuma; Resérvate ese ratito de positividad cada día
 - Una fragancia llena de placer que es óptima e inimitable para tu piel
+- Una textura suave y cremosa que mantiene la tersura natural de tu piel
+- Gel de Ducha Moussel Classique Original 650ml
+- Unidades: 737.0
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09ZPNMHY5{{</world>}}

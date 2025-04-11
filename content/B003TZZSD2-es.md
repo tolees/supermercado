@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Utilizar 1 o 2 veces por semana. Alternar con un champú suave. Uso externo. Evitar el contacto con los ojos.
-- Alivia los picores más intensos. Su fórmula sin alcohol y no irritante calma y proporciona un alivio duradero del cuero cabelludo.
-- Reduce la caspa desde la primera semana de uso
 - En caso de contacto, enjuagar con abundante agua. En caso de irritación, espaciar los champús o detener el uso.
 - Para ayudar a combatir la caspa, este producto contiene ácido salicílico purificante y piroctona olamina sin alcohol
+- Alivia los picores más intensos. Su fórmula sin alcohol y no irritante calma y proporciona un alivio duradero del cuero cabelludo.
+- Utilizar 1 o 2 veces por semana. Alternar con un champú suave. Uso externo. Evitar el contacto con los ojos.
+- Reduce la caspa desde la primera semana de uso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B003TZZSD2{{</world>}}

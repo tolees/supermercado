@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su crema dorada y densa es persistente. Su expresión aromática pura recuerda amablemente las especias orientales, con interesantes perfumes de vainilla y pimienta negra
-- Conservabilidad: 36 meses a partir de la fecha de su producción. Modo de conservación: conservar en un lugar fresco y seco, lejos de fuentes de calor y humedad
-- Una mezcla suave y delicadamente aromática, para un café cremoso como el del bar
 - El proceso de tueste lento garantiza su sabor redondo y perfume intenso, que exaltan las propiedades organolépticas de cada origen de café
 - Cápsulas compatibles con las máquinas para uso doméstico Nescafé Dolce Gusto. Cápsulas que cuentan con preciados orígenes, atentamente seleccionados y tostados para prepara el café espresso italiano
+- Una mezcla suave y delicadamente aromática, para un café cremoso como el del bar
+- Su crema dorada y densa es persistente. Su expresión aromática pura recuerda amablemente las especias orientales, con interesantes perfumes de vainilla y pimienta negra
+- Conservabilidad: 36 meses a partir de la fecha de su producción. Modo de conservación: conservar en un lugar fresco y seco, lejos de fuentes de calor y humedad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZLT85TH{{</world>}}

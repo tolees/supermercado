@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¿Para quién? | Colnatur Complex Maracuyá con Cúrcuma es ideal para personas que quieran cuidar sus Músculos, Huesos, Articulaciones, Encías, Dientes y Piel. Especialmente personas que realicen ejercicio físico moderado o que se sientan cansadas o fatigadas. Mujeres a partir de la premenopausia.
+- NUEVO PACKAGING, MISMA FÓRMULA | El cambio de packaging no comporta ningún cambio a nivel de fórmula ni composición. SIN GRASAS, SIN AZÚCARES, SIN GLUTEN | Colágeno Natural en polvo con proteínas, Vitamina C, Magnesio, Ácido Hialurónico y Cúrcuma. IMPORTANTE | No apto para fenilcetonúricos ni intolerantes al magnesio, se aconseja no sobrepasar la dosis diaria recomendada, mantener fuera del alcance de los niños, un consumo excesivo puede producir efectos laxantes.
+- Beneficios | Indicado para combatir el dolor, inflamación y la regeneración muscular, gracias a la Vitamina C, que participa en la producción de colágeno. Además, las proteínas contribuyen a conservar la masa muscular y al mantenimiento de los huesos y articulaciones.
 - Modo de Empleo | Tomar 12,5 gramos diarios de Colágeno (el contenido entero del dosificador). Disolver en un mínimo de 150 ml de: agua, leche (sola o con café, cacao…), bebidas vegetales y otros líquidos, o yogur.
 - Contenido del bote | El bote contiene 250 gramos de Proteína de Colágeno Hidrolizada en Polvo. Envase para 20 días.
-- Beneficios | Indicado para combatir el dolor, inflamación y la regeneración muscular, gracias a la Vitamina C, que participa en la producción de colágeno. Además, las proteínas contribuyen a conservar la masa muscular y al mantenimiento de los huesos y articulaciones.
-- NUEVO PACKAGING, MISMA FÓRMULA | El cambio de packaging no comporta ningún cambio a nivel de fórmula ni composición. SIN GRASAS, SIN AZÚCARES, SIN GLUTEN | Colágeno Natural en polvo con proteínas, Vitamina C, Magnesio, Ácido Hialurónico y Cúrcuma. IMPORTANTE | No apto para fenilcetonúricos ni intolerantes al magnesio, se aconseja no sobrepasar la dosis diaria recomendada, mantener fuera del alcance de los niños, un consumo excesivo puede producir efectos laxantes.
+- ¿Para quién? | Colnatur Complex Maracuyá con Cúrcuma es ideal para personas que quieran cuidar sus Músculos, Huesos, Articulaciones, Encías, Dientes y Piel. Especialmente personas que realicen ejercicio físico moderado o que se sientan cansadas o fatigadas. Mujeres a partir de la premenopausia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YVK25FS{{</world>}}

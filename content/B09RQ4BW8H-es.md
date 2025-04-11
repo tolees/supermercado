@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ROMPAMOS LAS REGLAS: ¡come todo lo que quieras! A diferencia del resto de chocolates sin azúcar del mercado, Chocolicious es el único chocolate sin azúcar ni edulcorantes como esteviol o maltitol. ¡Cambiemos el mundo bocado a bocado!
 - SIN TRUCOS: tableta de chocolate sin azúcar, sin edulcorantes, sin aromas, aditivos ni colorantes artificiales, sin aceite de palma ni girasol. La alternativa sana para niños y adultos amantes del chocolate. ¡Salvemos la naturaleza comiéndonosla!
+- ROMPAMOS LAS REGLAS: ¡come todo lo que quieras! A diferencia del resto de chocolates sin azúcar del mercado, Chocolicious es el único chocolate sin azúcar ni edulcorantes como esteviol o maltitol. ¡Cambiemos el mundo bocado a bocado!
 - SABOR DE SIEMPRE: sin azúcares, sin edulcorantes, sin tonterías. Nuestra tableta de cacao endulzada con fibra prebiótica de achicoria tiene el sabor de tu chocolate de siempre. Tómala sola, en meriendas, desayunos o para repostería
-- FIBRA DE ACHICORIA: la fibra de achicoria es el alimento del intestino, que ayuda a la renovación de la flora intestinal y mejora la digestión. Entre sus otros beneficios están disminuir el azúcar en sangre, aumentar la saciedad y la pérdida de peso
 - SABOR DELICIOSO: una tableta de chocolate con leche con el sabor de siempre, pero elaborada solo con ingredientes 100% naturales, sin los aditivos alimentarios perjudiciales de ahora. Love at first bite!
+- FIBRA DE ACHICORIA: la fibra de achicoria es el alimento del intestino, que ayuda a la renovación de la flora intestinal y mejora la digestión. Entre sus otros beneficios están disminuir el azúcar en sangre, aumentar la saciedad y la pérdida de peso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09RQ4BW8H{{</world>}}

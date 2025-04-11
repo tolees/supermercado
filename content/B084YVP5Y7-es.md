@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hidratación continua y protección UVA/ UVB con índice SPF 10
-- Hipoalergénico y resistente al agua gracias a su fórmula enriquecida con vitaminas C y E
-- Recomendado por la Asociación Contra el Cáncer de Piel
-- Exclusiva fragancia tropical con aroma de coco y papaya
 - Pack de 3x Aceite seco bronceador en bruma que facilita su aplicación y mejora la absorción de la piel
+- Exclusiva fragancia tropical con aroma de coco y papaya
+- Hipoalergénico y resistente al agua gracias a su fórmula enriquecida con vitaminas C y E
+- Hidratación continua y protección UVA/ UVB con índice SPF 10
+- Recomendado por la Asociación Contra el Cáncer de Piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B084YVP5Y7{{</world>}}

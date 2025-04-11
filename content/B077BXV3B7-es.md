@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🚴‍♂️ IDEAL PARA: Regular las contracciones y calambres musculares, al igual que retrasa la fatiga. Gracias al extracto de jengibre ayuda a mejorar la digestión
-- 💯 EXTRA: Pastillas de sales minerales sin gluten, sin azúcar, sin aceite de palma, sin cafeína, sin sulfitos, Non GMO y aptas para veganos
 - 🚴‍♂️ BENEFICIOS: Evita la deshidratación mejorando la absorción de agua e hidratando el organismo. Mantiene los niveles de sales óptimos durante entrenamientos de larga duración
 - 🚴‍♂️ APORTES: Cada toma aporta Sodio (250mg), Magnesio (18mg), Potasio (54mg), Jengibre (50mg), Vitamina D y Vitamina B6
+- 🚴‍♂️ IDEAL PARA: Regular las contracciones y calambres musculares, al igual que retrasa la fatiga. Gracias al extracto de jengibre ayuda a mejorar la digestión
 - 🚴‍♂️ Hidratación a base de sales minerales, vitaminas y un extra de jengibre. Ideal para mantener el rendimiento en deportes como running, ciclismo, etc
+- 💯 EXTRA: Pastillas de sales minerales sin gluten, sin azúcar, sin aceite de palma, sin cafeína, sin sulfitos, Non GMO y aptas para veganos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B077BXV3B7{{</world>}}

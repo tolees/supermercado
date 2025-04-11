@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - No obstruye los poros.
 - Este producto contiene 40 ml de Dúo De Crema Y Suero De Día 7 En 1 - SPF 20
-- SPF 20 de amplio espectro brinda protección UVA / UVB en una fórmula no grasa.
-- Fórmula de rápida absorción.
 - Exfolia para mejorar la renovación natural de la superficie de la piel para una piel de aspecto más saludable.
+- Fórmula de rápida absorción.
+- SPF 20 de amplio espectro brinda protección UVA / UVB en una fórmula no grasa.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B018AWFBLW{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gran cantidad de aves de corral frescas (25 %) como fuente de proteína de alta calidad
 - Extractos de mejillones para fortalecer cartílagos, articulaciones y huesos
+- Gran cantidad de aves de corral frescas (25 %) como fuente de proteína de alta calidad
 - Para perros adultos de todas las razas con actividad normal
-- Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
 - Sin trigo & sin azúcar
+- Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01EQZB13E{{</world>}}

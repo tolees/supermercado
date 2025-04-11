@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con ácido hialurónicoico
-- Tipo de piel: piel seca
-- Aplicar mañana y noche
 - La zona de los ojos se humedece, se reduce la hinchazón y se ocultan los anillos de los ojos
+- Tipo de piel: piel seca
+- Con ácido hialurónicoico
+- Aplicar mañana y noche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B087MSH6TP{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Contenido del envío: molinillo de café profesional DeLonghi KG 89
 - Control mediante pulsador de encendido/apagado
+- Capacidad de la tolva de granos: 120 g
 - Tolva de granos transparente y extraíble
 - Cepillo de limpieza integrado
-- Contenido del envío: molinillo de café profesional DeLonghi KG 89
-- Capacidad de la tolva de granos: 120 g
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002OHDBQ2{{</world>}}

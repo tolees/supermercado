@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una fragancia enérgica que irradia luz y vida
-- Aire de Sevilla Chic
 - Muy alta calidad
 - Marca: Instituto Español
+- Una fragancia enérgica que irradia luz y vida
+- Aire de Sevilla Chic
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BCWW9DX7{{</world>}}

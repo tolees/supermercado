@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - OTRO ENVASE práctico
 - ESTIMULACIÓN DE SUS SENTIDOS: gracias a su característico olor y a tus mimos que tanto le gustan
-- FRAGANCIA ORIGINAL CON MENOS ALCOHOL: selección de ingredientes que hacen de ella una fragancia especial
-- SENSACIÓN DE BIENESTAR: fragancia original que ofrece una sensación de bienestar en el cuidado diario del bebé y de toda la familia
 - NO RESECA: no reseca la delicada piel del bebé
+- SENSACIÓN DE BIENESTAR: fragancia original que ofrece una sensación de bienestar en el cuidado diario del bebé y de toda la familia
+- FRAGANCIA ORIGINAL CON MENOS ALCOHOL: selección de ingredientes que hacen de ella una fragancia especial
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BT2LSQCJ{{</world>}}

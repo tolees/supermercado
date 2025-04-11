@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Warning: Excessive consumption may produce laxative effects
-- 12-pack (12 x 60g)
-- High in protein which contributes to a growth in muscle mass. Delivers over 19g of protein with 192 calories per serving
+- Delicious tasting – protein packed snack for use on the go
 - This product is made with certified sustainable palm oil. The supplier of this product is an Roundtable on Sustainable Palm Oil (RSPO) certified manufacturer
+- Warning: Excessive consumption may produce laxative effects
+- Not suitable for Nut, Peanut and Egg allergy sufferers due to manufacturing methods
+- Nutritional Value per bar: 192kcal (Protein: 19.6g, Carbohydrates: 19g; Fibre: 8.5g; Fat: 5.2g)
+- High in protein which contributes to a growth in muscle mass. Delivers over 19g of protein with 192 calories per serving
 - Chocolate Fudge Flavour Protein Bar with a Layer of Chocolate Flavour Caramel and a Dark Chocolate Flavour Coating with Sweeteners
 - Less than 1g sugar & less than 20g of carbohydrates per bar
-- Nutritional Value per bar: 192kcal (Protein: 19.6g, Carbohydrates: 19g; Fibre: 8.5g; Fat: 5.2g)
-- Delicious tasting – protein packed snack for use on the go
-- Not suitable for Nut, Peanut and Egg allergy sufferers due to manufacturing methods
+- 12-pack (12 x 60g)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FYZK1W8{{</world>}}

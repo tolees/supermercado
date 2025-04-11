@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es una cerveza muy versátil que marida bien con una amplia variedad de alimentos. Prueba a maridarla con verduras y hortalizas, pescados azules, mariscos al vapor y carnes de ave especiadas, como pollo al curry
 - Pack de cervezas lager sin alcohol donde dominan los sabores de las maltas. El dulzor inicial cede su sitio a un amargor tostado balanceado por una ligera nota ácida. Se recomienda su consumo entre 5 y 6º
+- De color negro con reflejos cobrizos y rubí. Su aroma inicial a maltas tostadas que recuerdan a ahumados, madera y café, abre las puertas a sutiles notas de caramelo y cacao
 - Forma parte de Estrella Galicia, que ha recibido premios internacionales como el World Beer Award, el International Beer Challenge y el Brussels Beer Challenge, que reconocen la calidad y sabor de las cervezas, además de la dedicación a la innovación y excelencia en la elaboración
 - Elaborada con agua de la ciudad de A Coruña, MALTAS de CEBADA Pilsen, Dark, Caramel y Black, LÚPULOS Nugget y Sladek y LEVADURA seleccionada. Alc 0% vol
-- De color negro con reflejos cobrizos y rubí. Su aroma inicial a maltas tostadas que recuerdan a ahumados, madera y café, abre las puertas a sutiles notas de caramelo y cacao
+- Es una cerveza muy versátil que marida bien con una amplia variedad de alimentos. Prueba a maridarla con verduras y hortalizas, pescados azules, mariscos al vapor y carnes de ave especiadas, como pollo al curry
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09965PBGQ{{</world>}}

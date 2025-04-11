@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apariencia: Vino tinto de color intenso rojo picota de capa alta.
 - Aroma: Perfil aromático limpio donde se perciben notas de frutos silvestres, toques de vainilla y torrefactos de una madera bien ensamblada.
-- Tipo de uva: Elaborado con uvas Tinta del País, Merlot y Cabernet Sauvignon, tras la maceración, la crianza se realiza en barricas de roble americano y francés durante 24 meses, posteriormente permanece 12 meses en botella.
-- Maridaje: Este vino combina muy bien con carnes rojas y asados.
-- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos consumirlo entre los 16ºC y 18ºC.
 - Gusto: En boca es redondo, sedoso y amplio, con un retrogusto afrutado, tiene un tanino dulce, elegante y persistente.
+- Apariencia: Vino tinto de color intenso rojo picota de capa alta.
+- Tipo de uva: Elaborado con uvas Tinta del País, Merlot y Cabernet Sauvignon, tras la maceración, la crianza se realiza en barricas de roble americano y francés durante 24 meses, posteriormente permanece 12 meses en botella.
+- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos consumirlo entre los 16ºC y 18ºC.
+- Maridaje: Este vino combina muy bien con carnes rojas y asados.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00M6ON2XK{{</world>}}

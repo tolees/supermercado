@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El gel Skin-Protect crea una película para proteger la piel y reducir la irritación
 - special Pack Intuition Complete - Mango y 4 cabezales
 - Cinco hojas para un afeitado cómodo y preciso
 - Paquete 100% reciclable
+- El gel Skin-Protect crea una película para proteger la piel y reducir la irritación
 - Cabezal flexible para poder llegar a las zonas más difíciles
 
 [🛒 Visítala!!!]({{< param buyurl >}})

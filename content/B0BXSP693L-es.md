@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detergente práctico líquido con una fragancia a jabon de siempre
-- Detergente liquido Básico, la elección económica de Lagarto
+- Envase reciclable
 - Elimina los malos olores
 - Cuida los tejidos de la ropa
 - Deja la colada limpia y fresca.
-- Envase reciclable
+- Detergente práctico líquido con una fragancia a jabon de siempre
+- Detergente liquido Básico, la elección económica de Lagarto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BXSP693L{{</world>}}

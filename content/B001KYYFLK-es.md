@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Unidad de medida: mililitro
-- Contiene 125 ml
-- Número de items: 1
-- Unidades: 125.0
-- De la marca lancaster
-- Ingredientes: aqua, aluminium chlorohydrate, ceteraryl alcohol, capric triglyceride, propylene glycol, bht, citral, citronellol, coumarin, eugenol, evernia prunastri extract, geraniol, hexyl cinnamal, limonele, linalool, tocopherol, parfum
-- Este producto está indicado para mujeres
 - Tipo de piel: Todo tipo de pieles
+- Unidades: 125.0
+- Contiene 125 ml
+- Ingredientes: aqua, aluminium chlorohydrate, ceteraryl alcohol, capric triglyceride, propylene glycol, bht, citral, citronellol, coumarin, eugenol, evernia prunastri extract, geraniol, hexyl cinnamal, limonele, linalool, tocopherol, parfum
+- Unidad de medida: mililitro
+- Este producto está indicado para mujeres
+- Número de items: 1
+- De la marca lancaster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001KYYFLK{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfruta con el refrescante sabor original de Coca-Cola sin azúcar
-- Te recomendamos tomar tu Coca Cola fría con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
-- El pack incluye 24 latas de 33cl de Coca-Cola Zero.
-- Disfruta de Coca-Cola Zero en cualquier momento, incluso en casa
 - Nos preocupa el medio ambiente tanto como a tu, por eso nuestros envases son 100% reciclables, tíralos al contenedor amarillo
+- Disfruta con el refrescante sabor original de Coca-Cola sin azúcar
+- Disfruta de Coca-Cola Zero en cualquier momento, incluso en casa
+- El pack incluye 24 latas de 33cl de Coca-Cola Zero.
+- Te recomendamos tomar tu Coca Cola fría con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B007C7KGKI{{</world>}}

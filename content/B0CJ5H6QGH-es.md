@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1x LOréal Paris Barra de Labios Color Riche Nudes of Worth Satinado tono 601 WORTH IT
 - Aplicar desde el centro de los labios e ir extendiendo hacia los lados
 - Combina una cremosidad inigualable para un acabado satinado; su fórmula contiene una asociación de aceite de Argán y Vitamina E
 - Nuestro icónico labial Color Riche llega con 6 nuevos tonos nudes con textura satinada, para todos los tipos de piel
 - Resultados: Labios visiblemente hidratados, alisados, suaves y protegidos de forma duradera
+- Contenido: 1x LOréal Paris Barra de Labios Color Riche Nudes of Worth Satinado tono 601 WORTH IT
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJ5H6QGH{{</world>}}

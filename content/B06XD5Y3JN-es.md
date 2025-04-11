@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El paquete puede variar
-- Fue elaborada para el cabello dañado
 - Deja el cabello reparado, brillante y saneado hasta las puntas
+- Fue elaborada para el cabello dañado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06XD5Y3JN{{</world>}}

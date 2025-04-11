@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tableta de chocolate negro 70% Nestlé sin azúcares añadidos; optimo para que disfrutes del chocolate sin remordimientos!
-- Esta caja contiene 16 tabletas de chocolate negro sin azúcar
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLÉ Cocoa Plan
+- Esta caja contiene 16 tabletas de chocolate negro sin azúcar
+- Tableta de chocolate negro 70% Nestlé sin azúcares añadidos; optimo para que disfrutes del chocolate sin remordimientos!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B45XWLZ4{{</world>}}

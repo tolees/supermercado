@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ideal para cocinar deliciosas tortillas de patatas, frittatas y mucho más
+- Para uso en microondas
 - Capacidad: 800 ml
 - SpanishOmelette es un molde para realizar de una forma fácil y cómoda, elaboraciones redondas que necesiten de una cocción a doble cara
-- Para uso en microondas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FDRFS20{{</world>}}

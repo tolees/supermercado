@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gluten. Fabricado en una empresa, que también manipula derivados lácteos
-- Azúcar, jarabe de glucosa, agua, gelatina, dextrosa, acidulante: E330, gelificante: pectina, acidulante: E270, corrector de acidez: E325, aromas, almidón de trigo (gluten), colorantes: ver sello.
 - País de origen: España
+- Azúcar, jarabe de glucosa, agua, gelatina, dextrosa, acidulante: E330, gelificante: pectina, acidulante: E270, corrector de acidez: E325, aromas, almidón de trigo (gluten), colorantes: ver sello.
+- Gluten. Fabricado en una empresa, que también manipula derivados lácteos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00LCUHFRI{{</world>}}

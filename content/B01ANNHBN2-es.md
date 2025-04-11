@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pétalos de chocolate
+- Contiene vitaminas
 - País de origen: portugal
 - Producto que combina tradición e innovación
-- Contiene vitaminas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01ANNHBN2{{</world>}}

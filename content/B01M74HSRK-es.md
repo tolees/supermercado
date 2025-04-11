@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ibéricos Recién Cortados: Los loncheados los hacemos al momento que el cliente hace el pedido, para que le llegue a casa con la máxima frescura. No tenemos nada almacenado. Todo lo cortamos y envasamos el mismo día y a usted le llega al día siguiente.
-- 4 paquetes de 100 gr. cada uno. Total 400gr.
-- Jamón cortado en tapas a cuchillo por un maestro cortador.
 - Los paquetes traen un disco de cartón dorado para sólo tener que abrir el paquete y ponerlo en la mesa.
+- Jamón cortado en tapas a cuchillo por un maestro cortador.
 - Lote Loncheado Ibérico. Jamón Ibérico, Lomo Ibérico, Chorizo Ibérico, Salchichón Ibérico.
+- 4 paquetes de 100 gr. cada uno. Total 400gr.
+- Ibéricos Recién Cortados: Los loncheados los hacemos al momento que el cliente hace el pedido, para que le llegue a casa con la máxima frescura. No tenemos nada almacenado. Todo lo cortamos y envasamos el mismo día y a usted le llega al día siguiente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01M74HSRK{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Turrón de chocolate con frutos secos. Calidad Suprema.
-- Fabricado en La Penilla, España.
-- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan.
-- Llegan las navidades y con ellas los turrones NESTLÉ, prueba todas sus deliciosas variedades!
 - Turrón con cobertura de chocolate NESTLÉ Extrafino.
+- Fabricado en La Penilla, España.
+- Llegan las navidades y con ellas los turrones NESTLÉ, prueba todas sus deliciosas variedades!
+- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan.
+- Turrón de chocolate con frutos secos. Calidad Suprema.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9QT1SCX{{</world>}}

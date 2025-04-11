@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con una combinación de 6 HMOs, también presentes en la leche materna, que alimentan las bacterias buenas para una microbiota sana
-- DUAL PROBIOTIC: Con los probióticos Bífidus lactis & Bífidus infantis, naturalmente presentes en bebés alimentados con leche materna
-- Nestlé NAN SUPREMEPRO 2 ofrece una nutrición adaptada a las necesidades crecientes de los bebés a partir de 6 meses
-- Con SINERGITY, una combinación única de probióticos y HMOs - La fórmula de mayor desarrollo basada en las investigaciones de Nestlé sobre inmunidad, digestión y metabolismo, que son claves para la salud futura
 - GENTLE OPTIPRO: un proceso tecnológico patentado para conseguir una mezcla optimizada de proteínas adaptadas
+- Con una combinación de 6 HMOs, también presentes en la leche materna, que alimentan las bacterias buenas para una microbiota sana
+- Con SINERGITY, una combinación única de probióticos y HMOs - La fórmula de mayor desarrollo basada en las investigaciones de Nestlé sobre inmunidad, digestión y metabolismo, que son claves para la salud futura
+- Nestlé NAN SUPREMEPRO 2 ofrece una nutrición adaptada a las necesidades crecientes de los bebés a partir de 6 meses
+- DUAL PROBIOTIC: Con los probióticos Bífidus lactis & Bífidus infantis, naturalmente presentes en bebés alimentados con leche materna
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B078NXGQW1{{</world>}}

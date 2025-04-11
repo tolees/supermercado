@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Look punkie
 - Unisex
-- Refleja tu personalidad
 - Fijación completa
 - Look desenfadado
+- Refleja tu personalidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B002CB56SG{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Crueltyfree
-- Extractos naturales: aceite de macadamia y moringa.
-- Champú Max Repair para cabellos dañados, con aceite de macadamia. Nutre, repara y protege tu cabello para un resultado "WOW"
-- La macadamia es un extra de hidratación que previene, cuida y repara el cabello.
 - 0% Siliconas-Keratina Vegetal-Antipolución
+- Crueltyfree
+- La macadamia es un extra de hidratación que previene, cuida y repara el cabello.
+- Champú Max Repair para cabellos dañados, con aceite de macadamia. Nutre, repara y protege tu cabello para un resultado "WOW"
+- Extractos naturales: aceite de macadamia y moringa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082SC7GYC{{</world>}}

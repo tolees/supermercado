@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Limpiadores de origen natural​. 0% sulfatos SLES​.
 - Contiene una mezcla única de 3 hidratantes para tu piel.
 - Botella hecha de plástico 100%. Fórmula 97% biodegradable​.
-- Globalmente Dove no testa en animales​. Fórmula vegana​. Dermatológicamente testado​.
 - Gel de Ducha Nutritivo de aceite de argán para una piel suave e hidratada desde la primera ducha​.
+- Globalmente Dove no testa en animales​. Fórmula vegana​. Dermatológicamente testado​.
 - Gel de ducha con nueva fórmula: Hidratación más duradera.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para limpiar todo tipo de superficies.
-- Perfume hipoalergenico
+- Elaborado con productos naturales
 - Jabon natural en pasta. Jabon Potasico
 - Jabon concentrado, respetuoso con el medio ambiente y los tejidos
-- Elaborado con productos naturales
+- Perfume hipoalergenico
+- Ideal para limpiar todo tipo de superficies.
 - Eficaz contra las manchas mas dificiles
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad óptima
 - Bolígrafo de gel altamente pigmentado
+- Producto de calidad óptima
 - Adecuado para ojos sensibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

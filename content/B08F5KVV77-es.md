@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sopa fácil y caldo nutritivo: Como base para caldos, caldo paella, sopas, sopa miso, salsas, batidos.
-- Rico en colágeno: 3,7g de colágeno por porción. Se recomiendan de 1 a 3 porciones diarias.
-- Caldo de huesos concentrado: 44 porciones de caldo de huesos de carne ecologica en un vaso. Caldo carne criada en pastos y alimentada con hierba.
-- Preparado con sólo 3 ingredientes: Caldo de huesos de res, sal y agua. Sin alérgenos. Sin plantas de sombra nocturna. Sin aditivos. Sin gluten. Rico en JARMINO colageno.
 - Keto, Paleo & Leaky Gut health: Se disuelven en agua caliente y bebida o como base para sopas y salsas.
+- Preparado con sólo 3 ingredientes: Caldo de huesos de res, sal y agua. Sin alérgenos. Sin plantas de sombra nocturna. Sin aditivos. Sin gluten. Rico en JARMINO colageno.
+- Rico en colágeno: 3,7g de colágeno por porción. Se recomiendan de 1 a 3 porciones diarias.
+- Sopa fácil y caldo nutritivo: Como base para caldos, caldo paella, sopas, sopa miso, salsas, batidos.
+- Caldo de huesos concentrado: 44 porciones de caldo de huesos de carne ecologica en un vaso. Caldo carne criada en pastos y alimentada con hierba.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08F5KVV77{{</world>}}

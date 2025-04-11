@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Deja la piel nutrida, firme y radiante
-- Para todo tipo de pieles
 - Ofrece una hidratación intensa
+- Para todo tipo de pieles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BLNS5YI{{</world>}}

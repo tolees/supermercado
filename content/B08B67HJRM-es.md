@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Complejo dermo reparador con ingredientes de origen natural
 - Con pomelo y limón verde
 - Testado dermatológicamente
+- Complejo dermo reparador con ingredientes de origen natural
 - Ayuda a eliminar los olores desagradables
 - Deja las manos limpias, suaves, nutridas y delicadamente perfumadas
 

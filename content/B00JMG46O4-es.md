@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Espuma ultraduradera con cada gota
-- Disponible en dos refrescantes fragancias para elegir: el aroma clásico Original y perfume de Limón
 - Suave con la piel; no es necesario utilizar guantes
-- Su fórmula concentrada actúa inmediatamente contra la grasa para dejar los platos limpios y relucientes
+- Disponible en dos refrescantes fragancias para elegir: el aroma clásico Original y perfume de Limón
 - Limpieza eficaz; elimina los restos de grasa por completo
+- Espuma ultraduradera con cada gota
+- Su fórmula concentrada actúa inmediatamente contra la grasa para dejar los platos limpios y relucientes
 - Sin dejar en remojo, sin grasa, sin dificultad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

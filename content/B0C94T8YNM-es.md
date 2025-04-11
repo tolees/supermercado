@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- suaviza la piel rugosa y deshidratada por cambios de clima
-- El Bálsamo Protector para Labios Eight Hour es práctico y fácil de usar. Este tratamiento hidrata, suaviza y acondiciona los labios dañados y secos.
-- El Cuidado Hidratante Intenso para Manos Eight Hour alivia la sensación de sequedad y las grietas. Tus manos vuelven a ser hermosas y suaves.
 - Calma, protege, repara, hidrata y suaviza las pieles secas y sensibles.
+- El Cuidado Hidratante Intenso para Manos Eight Hour alivia la sensación de sequedad y las grietas. Tus manos vuelven a ser hermosas y suaves.
+- El Bálsamo Protector para Labios Eight Hour es práctico y fácil de usar. Este tratamiento hidrata, suaviza y acondiciona los labios dañados y secos.
+- suaviza la piel rugosa y deshidratada por cambios de clima
 - El Bálsamo Protector Labial SPF 15, práctico y fácil, este cuidado hidrata, suaviza y acondiciona los labios dañados y secos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

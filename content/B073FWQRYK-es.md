@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Disponible en varios colores
 - Color de un lápiz labial
-- Suave como un bálsamo labial
 - Con acabado de alto brillo y ilusión de plenitud
+- Suave como un bálsamo labial
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B073FWQRYK{{</world>}}

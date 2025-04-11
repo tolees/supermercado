@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ha ganado más medallas de oro por su excelencia que ningún otro whisky de calidad, incluidos seis Gran Oro en los premios Monde Selection
-- Mezcla singular de whiskies escoceses de malta y grano con una sinfonía de sabores
-- Johnnie Walker es una marca de whisky con más de 200 años de historia; su eslogan ha sido acuñado en todas partes para inspirar el progreso y el coraje ante la adversidad: Keep Walking; nuestras variedades incluyen desde las etiquetas clásicas hasta las mezclas más exclusivas en ediciones limitadas
 - La manera idónea de saborearlo es solo, refrescando el paladar con agua fría
-- Equilibrado con notas de chocolate negro y un aroma final floral, especiado, ahumado y meloso
+- Mezcla singular de whiskies escoceses de malta y grano con una sinfonía de sabores
+- Ha ganado más medallas de oro por su excelencia que ningún otro whisky de calidad, incluidos seis Gran Oro en los premios Monde Selection
 - La joya de la corona de la casa Walker, Johnnie Walker Blue Label es una mezcla singular elaborada con algunos de los whiskies escoceses más raros de Escoci
+- Johnnie Walker es una marca de whisky con más de 200 años de historia; su eslogan ha sido acuñado en todas partes para inspirar el progreso y el coraje ante la adversidad: Keep Walking; nuestras variedades incluyen desde las etiquetas clásicas hasta las mezclas más exclusivas en ediciones limitadas
+- Equilibrado con notas de chocolate negro y un aroma final floral, especiado, ahumado y meloso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B009RUKXT2{{</world>}}

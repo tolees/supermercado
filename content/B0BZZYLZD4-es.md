@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 1- Märzen 50cl / Tipo: Lager - Notas de cata: Sabores y aromas a cereales. Cuerpo pronunciado con notas de caramelo. El amargor final en boca se equilibra con el cuerpo y una alta graduación alcohólica del 6%.
 - 🍻 La botella también destaca por la diferencia, al haber optado por un formato de 50 centilitros con apertura basculante que garantiza un peculiar efecto sonoro al abrir y que incita a la celebración y al buen rollo, también sirve para el recuerdo y la reutilización.
 - 1- APA (American Pale Ale) / Tipo: ALE - Notas de cata: Aromas afrutados característicos del estilo, cítricos y maracuyá. Cuerpo leve y suave. La amargura final es persistente para equilibrar com los aromas fuertes de la fruta y dejar una sensación de frescura.
+- 1- Märzen 50cl / Tipo: Lager - Notas de cata: Sabores y aromas a cereales. Cuerpo pronunciado con notas de caramelo. El amargor final en boca se equilibra con el cuerpo y una alta graduación alcohólica del 6%.
 - Medalla de Oro, International Beer Challenge 2022 - Voted Silver, Concours International de Lyon 2023 - Medalla de Oro (Mejor Cerveza Portuguesa en Competición)
 - 1- Doppelbock 50cl / Tipo: Lager - Notas de cata: Cerveza densa de cuerpo pronunciado y sabores algo endulzados. La amargura final en la boca equilibra com el cuerpo y el grado de alcohol elevado de 8%.
 

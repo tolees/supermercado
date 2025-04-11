@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos.
-- El ColaCao de siempre, eso tan tuyo. Con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos. Ideal para cualquier momento: desayuno, merienda, cena o como snack
-- 22 raciones en su envase de 310 gramos.
-- Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente
 - Alérgenos: contiene TRIGO y CEBADA. Mantener en lugar fresco y seco.
+- Su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos.
+- 22 raciones en su envase de 310 gramos.
+- El ColaCao de siempre, eso tan tuyo. Con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos. Ideal para cualquier momento: desayuno, merienda, cena o como snack
+- Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JGQJRWQ{{</world>}}

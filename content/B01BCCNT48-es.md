@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🔝 [ MACA ANDINA CÁPSULAS ] Complemento alimenticio en cápsulas vegetales a base de Extracto Seco de Raíces de Maca (Lepidium meyenii Walp) con vitamina B12 + Minerales (Selenio y Zinc) → 120 Tomas por Envase.
-- 🚀 [ 10X VECES MÁS CONCENTRADO ] Cada cápsula vegetal equivale a 5 gramos de Raices de Maca→ 500mg de Extracto de Maca por Dosis Diaria = 1 Cápsula.
 - 🏆 [ MACA NEGRA y AMARILLA ] En HSN empleamos una materia prima de máxima calidad, con las variantes más valoradas por sus características funcionales→ Maca Amarilla y Maca Negra.
-- ☀️ [ FABRICACIÓN EN ESPAÑA ] Fabricado en laboratorio certificado con IFS. Sin OGM (Organismos Modificados Genéticamente). Buenas prácticas de fabricación (GMP). NO Contiene → Gluten, Pescado, Soja, Frutos Secos, Huevo.
+- 🔝 [ MACA ANDINA CÁPSULAS ] Complemento alimenticio en cápsulas vegetales a base de Extracto Seco de Raíces de Maca (Lepidium meyenii Walp) con vitamina B12 + Minerales (Selenio y Zinc) → 120 Tomas por Envase.
 - 🌿 [ 100% VEGAN ] Sin agentes de recubrimiento de origen animal. La materia prima y todos los ingredientes son vegetales → Extracto de Maca Andina (10:1) es un producto completamente apto para vegetarianos y veganos.
+- ☀️ [ FABRICACIÓN EN ESPAÑA ] Fabricado en laboratorio certificado con IFS. Sin OGM (Organismos Modificados Genéticamente). Buenas prácticas de fabricación (GMP). NO Contiene → Gluten, Pescado, Soja, Frutos Secos, Huevo.
+- 🚀 [ 10X VECES MÁS CONCENTRADO ] Cada cápsula vegetal equivale a 5 gramos de Raices de Maca→ 500mg de Extracto de Maca por Dosis Diaria = 1 Cápsula.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01BCCNT48{{</world>}}

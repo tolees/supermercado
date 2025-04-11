@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No contienen alcohol y tienen pH neutro, careciendo de efectos irritantes y evitando que el perro estornude después de su aplicación
+- Respeta la piel y las propiedades olfativas del animal
+- Aplicar después del baño en área del cuello y del lomo
 - Agua de colonia fresh para perros creada para proporcionar después del baño un olor fresco y un intenso efecto desodorante muy agradable
 - Características especiales: Fácil de usar
-- Aplicar después del baño en área del cuello y del lomo
-- Respeta la piel y las propiedades olfativas del animal
+- No contienen alcohol y tienen pH neutro, careciendo de efectos irritantes y evitando que el perro estornude después de su aplicación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00Q78SK1K{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CALIDAD - En Healthy Fusion Pet Line, marca oficial del Laboratorio Fersa Ibérica, nos comprometemos con la salud de tu mascota. Ofrecemos la calidad en toda nuestra gama de productos, fabricados todos en nuestros propios laboratorios españoles bajo todos los controles y certificados sanitarios correspondientes
-- FORMATO GOMINOLAS - A tu perro no le costará tomárselo, gracias a su formato gummis con sabor a arándanos, evitando así la incomodidad o contratiempos al darle las pastillas o tratamientos
 - POTENTE ANTIINFLAMATORIO- Gracias a la combinación de ingredientes naturales como la cúrcuma, condroitina, colágeno, MSM, magnesio y colágeno disminuye el dolor y la inflamación de tu mascota, lubricando sus articulaciones, previniendo su desgaste y promoviendo el bienestar de tu mascota
+- CALIDAD - En Healthy Fusion Pet Line, marca oficial del Laboratorio Fersa Ibérica, nos comprometemos con la salud de tu mascota. Ofrecemos la calidad en toda nuestra gama de productos, fabricados todos en nuestros propios laboratorios españoles bajo todos los controles y certificados sanitarios correspondientes
 - PROTEGE LAS ARTICULACIONES DE TU PERRO Y GATO- Artipets es un suplemento natural formulado para ayudar a mantener la salud de las articulaciones, huesos y cartílagos de tu mascota, aportando energía, resistencia articular y agilidad, favoreciendo así, su bienestar
+- FORMATO GOMINOLAS - A tu perro no le costará tomárselo, gracias a su formato gummis con sabor a arándanos, evitando así la incomodidad o contratiempos al darle las pastillas o tratamientos
 - ALIVIA LOS DOLORES DE TU MASCOTA - Desde Fersa Ibérica sabemos lo importante que es la salud y el bienestar de tu mascota, por ello, hemos creado el complemento ideal indicado para dolores de articulaciones, cojera, dificultad de movimiento, calambres o dolores ligados a la edad, así como artrosis, artritis o displasia de cadera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

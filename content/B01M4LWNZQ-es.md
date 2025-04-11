@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin gluten
-- Sin colorantes ni conservantes
 - Mermelada gluten
 - Fruta seleccionada en la última campaña
+- Sin colorantes ni conservantes
 - Mermelada de temporada higos
+- Sin gluten
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01M4LWNZQ{{</world>}}

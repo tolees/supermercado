@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EDT de marca Montblanc
 - El frasco de color negro es simple y viril coronado por un tapón metalizado en tonalidad plateada
-- Notas de salida son la lavanda, la bergamota, la piña y el cedrón que encierran un corazón de cumarina, musgo de roble, gernanio, rosa, manzana roja y frutos secos ocultando un fondo de sándalo y haba tonka
+- EDT de marca Montblanc
 - La fragancia perfecta para un hombre que quiera convertirse en leyenda
+- Notas de salida son la lavanda, la bergamota, la piña y el cedrón que encierran un corazón de cumarina, musgo de roble, gernanio, rosa, manzana roja y frutos secos ocultando un fondo de sándalo y haba tonka
 - Olivier Pescheux es el creador de este elegante aroma masculino
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

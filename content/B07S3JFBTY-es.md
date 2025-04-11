@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dos hojas con revestimiento en cromo
-- Cabezal fijo
 - Hojas de larga duración
+- Cabezal fijo
 - Maquinilla desechable para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

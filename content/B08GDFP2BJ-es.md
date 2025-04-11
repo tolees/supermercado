@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Los principales beneficios de la soja son su alto contenido en proteínas, vitaminas, minerales y fibra insoluble. Esto hace que la soja sea excepcionalmente saludable.
-- Sin embargo, esa lista es sólo los alimentos, todavía hay salsa de soja, harina de soja, proteína vegetal texturada, leche de soja y mucho más!
-- Miso: una pasta de soja fermentada que se utiliza como un saborizante, popular en la cocina asiática. Tempeh - una especialidad indonesia típicamente hecha por cocinar y descascarillarse frijoles de soja
-- Esta es sólo la punta del iceberg sin embargo, lo más importante (y muy afortunadamente para nosotros) puede tomar cualquier sabor que se produzca, siendo preparado en una cantidad aparentemente infinita de diferentes maneras
 - Los frijoles de soja son, naturales, libres de OMG, buenos para veganos, no lácteos y no tiene azúcar añadido.
+- Miso: una pasta de soja fermentada que se utiliza como un saborizante, popular en la cocina asiática. Tempeh - una especialidad indonesia típicamente hecha por cocinar y descascarillarse frijoles de soja
+- Sin embargo, esa lista es sólo los alimentos, todavía hay salsa de soja, harina de soja, proteína vegetal texturada, leche de soja y mucho más!
+- Esta es sólo la punta del iceberg sin embargo, lo más importante (y muy afortunadamente para nosotros) puede tomar cualquier sabor que se produzca, siendo preparado en una cantidad aparentemente infinita de diferentes maneras
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08GDFP2BJ{{</world>}}

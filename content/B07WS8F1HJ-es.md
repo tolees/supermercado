@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apreciadas por su textura cremosa y su distintivo aroma y sabor; Renunciamos deliberadamente a la adición artificial de azúcar refinado en nuestros productos. El contenido de azúcar que aparece en la información nutricional se refiere al contenido de azúcar natural de la fruta.
-- Ideales para añadir a muchos platos, ensaladas o a los cereales del desayuno
 - Gran fuente de proteínas y energía, las avellanas son ideales para deportistas, vegetarianos y veganos; Las frutas y los frutos secos bio son productos naturales cuyo sabor puede variar ligeramente debido a las condiciones de crecimiento derivadas del clima y las circunstancias regionales. En el caso de los frutos secos, la proporción de sustancia amarga también puede variar de manera natural.
 - Sabor natural sin sal añadida. 5 bolsas de 100 g para tener siempre un tentempié a mano
+- Ideales para añadir a muchos platos, ensaladas o a los cereales del desayuno
+- Apreciadas por su textura cremosa y su distintivo aroma y sabor; Renunciamos deliberadamente a la adición artificial de azúcar refinado en nuestros productos. El contenido de azúcar que aparece en la información nutricional se refiere al contenido de azúcar natural de la fruta.
 - Nueces de macadamia ecológicas. Aptos para veganos, sin gluten, lactosa ni OMG; Puesto que no utilizamos aditivos, aromas, sulfitos o similares, nuestros productos presentan un color diferente al producto de base. Sin embargo, esto no afecta al sabor ni a la calidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

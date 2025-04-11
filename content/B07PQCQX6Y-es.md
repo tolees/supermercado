@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ⚫Diseñado con ventanas transparentes, que le permiten controlar fácilmente la capacidad del jabón.
-- ⚫Marcado con las palabras de gel de ducha y champú para una fácil distinción, también es adecuado para jabón líquido, desinfectante de manos, loción, etc.
 - ⚫Hecho de material resistente de ABS, resistente a la corrosión y al óxido.
+- ⚫Marcado con las palabras de gel de ducha y champú para una fácil distinción, también es adecuado para jabón líquido, desinfectante de manos, loción, etc.
+- ⚫Diseñado con ventanas transparentes, que le permiten controlar fácilmente la capacidad del jabón.
 - ⚫Dispensador manual de jabón de doble cabezal, cada botella tiene una capacidad de 300 ml y dispensa 0,8 ml de jabón cada vez.
 - ⚫Estilo montado en la pared y tamaño compacto, fácil de instalar, perfecto para hoteles, oficinas, hogares, centros de salud, etc. La botella y la boquilla se pueden sacar y separar para rellenar y limpiar fácilmente.
 

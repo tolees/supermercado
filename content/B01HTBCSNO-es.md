@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con Omega 3
 - Leche de crecimiento y desarrollo con cereales
+- Con Omega 3
 - ‎Almacenar en un sitio fresco y seco
 - Con vitaminas A, C y D
 - Contiene: leche, cereales con gluten

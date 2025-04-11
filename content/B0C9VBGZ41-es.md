@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almo Nature Es la marca activista 100% propiedad de la Fundación Capellino: Cada vez que compras nuestros alimentos, apoyas el activismo generado por la Reintegration Economy y contribuye a la protección de la biodiversidad.
-- El húmedo tiene una función hidratante indispensable porque el gato bebe poco espontáneamente. Además, cuando el húmedo es de calidad HFC, además de hidratar, aporta proteínas nobles y altamente digeribles en cantidades significativas.
-- Ingredientes cocinados al vapor para mantener intactas las propiedades organolépticas y no dispersar los minerales y las vitaminas, aumentando así el valor nutricional de los alimentos. El caldo de cocción contribuye de forma natural a mejorar la ingesta diaria de líquidos, importantes para la correcta hidratación del organismo del gato.
-- Sin gluten: el único cereal presente en la receta es el arroz, naturalmente libre de gluten
 - Las recetas de HFC se preparan con ingredientes originalmente aptos para el consumo humano, ahora alimento para su gato para una palatabilidad natural sin aditivos químicos ni aromatizantes.
+- Ingredientes cocinados al vapor para mantener intactas las propiedades organolépticas y no dispersar los minerales y las vitaminas, aumentando así el valor nutricional de los alimentos. El caldo de cocción contribuye de forma natural a mejorar la ingesta diaria de líquidos, importantes para la correcta hidratación del organismo del gato.
+- El húmedo tiene una función hidratante indispensable porque el gato bebe poco espontáneamente. Además, cuando el húmedo es de calidad HFC, además de hidratar, aporta proteínas nobles y altamente digeribles en cantidades significativas.
+- Almo Nature Es la marca activista 100% propiedad de la Fundación Capellino: Cada vez que compras nuestros alimentos, apoyas el activismo generado por la Reintegration Economy y contribuye a la protección de la biodiversidad.
+- Sin gluten: el único cereal presente en la receta es el arroz, naturalmente libre de gluten
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9VBGZ41{{</world>}}

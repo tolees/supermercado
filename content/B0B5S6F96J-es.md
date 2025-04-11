@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cada referencia con una marcada personalidad propia
-- Crema Andalusi Arroz con Leche
 - Brinda a sus consumidores experiencias únicas
+- Cada referencia con una marcada personalidad propia
 - Andalusí Beverages ofrece un amplio abanico de variedades de ginebras, vodkas, licores y anises
+- Crema Andalusi Arroz con Leche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5S6F96J{{</world>}}

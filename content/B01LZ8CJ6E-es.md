@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las bases de jabón de cristal son ideales para fabricantes, marcas y aficionados caseros. Simplemente Fundir, Mezclar, Verter, Crear.
 - Base de Jabón para fundir y verter de origen vegetal. El cristal de Avena y Karité se hace usando Avena natural y Manteca de Karité nutritiva. Esta base de jabón se utiliza para la fabricación de pastillas de jabón opacas sólidas, con Avena exfoliante suspendida. Reconocida por sus propiedades calmantes y emolientes, la Manteca de Karité es un ingrediente cada vez más popular debido a sus propiedades superiores para el cuidado de la piel.
-- El cristal de Avena y Karité no contiene Polietilenglicol ni parabenos y ofrece una fantástica sensación en la piel, combinando las propiedades exfoliantes de la Avena con la untuosidad de la Manteca de Karité.
 - Uso: Con un bloque de 1 Kg se pueden hacer entre 10 - 20 jabones, dependiendo del tamaño de la pastilla de jabón que quiera hacer.
+- El cristal de Avena y Karité no contiene Polietilenglicol ni parabenos y ofrece una fantástica sensación en la piel, combinando las propiedades exfoliantes de la Avena con la untuosidad de la Manteca de Karité.
+- Las bases de jabón de cristal son ideales para fabricantes, marcas y aficionados caseros. Simplemente Fundir, Mezclar, Verter, Crear.
 - Base de Jabón para Fundir y Verter - Avena y Manteca de Karité 1 Kg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

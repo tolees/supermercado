@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto fue creado con atención al detalle
-- Los mejores productos para el cuidado y la salud personal
 - Nuestra calidad es lo que nos recomienda
+- Los mejores productos para el cuidado y la salud personal
+- Este producto fue creado con atención al detalle
 - Explora nuestra gama de productos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

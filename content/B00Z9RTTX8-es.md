@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Scholl
 - 3024087
+- Scholl
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00Z9RTTX8{{</world>}}

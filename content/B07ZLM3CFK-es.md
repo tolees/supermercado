@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cápsulas compatibles con las máquinas para uso doméstico Nescafé Dolce Gusto. Cápsulas que cuentan con preciados orígenes, atentamente seleccionados y tostados para prepara el café espresso italiano
 - La mezcla Descafeinado contiene un porcentaje mínimo de cafeína (cafeína no superior a 0,10%), para que todos puedan disfrutar de una excelente taza de café
-- Su intensa cremosidad broncínea, de larga duración, exalta su característico sabor a chocolate amargo típico de los cafés africanos
 - Una mezcla ligera y aromática que cuenta con cafés Arábica y Robusta oportunamente descafeinados
 - Conservabilidad: 36 meses a partir de la fecha de su producción. Modo de conservación: conservar en un lugar fresco y seco, lejos de fuentes de calor y humedad
+- Cápsulas compatibles con las máquinas para uso doméstico Nescafé Dolce Gusto. Cápsulas que cuentan con preciados orígenes, atentamente seleccionados y tostados para prepara el café espresso italiano
+- Su intensa cremosidad broncínea, de larga duración, exalta su característico sabor a chocolate amargo típico de los cafés africanos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07ZLM3CFK{{</world>}}

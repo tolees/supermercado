@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cerveza tipo lager
 - De color rubio pálido, se caracteriza por su sabor suave, con un ligero aroma afrutado
-- 4% de alcohol en volumen
 - Marca: Heineken
+- Cerveza tipo lager
+- 4% de alcohol en volumen
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09SQ9TBSK{{</world>}}

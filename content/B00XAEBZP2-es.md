@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para ropa blanca y de color
-- Detergente para la lavadora en formato polvo
-- Elena, la eficacia que sorprende
 - Poder antimanchas testado en 101 manchas
+- Detergente para la lavadora en formato polvo
+- Apto para ropa blanca y de color
+- Elena, la eficacia que sorprende
 - Eficaz en agua fría y ciclos cortos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

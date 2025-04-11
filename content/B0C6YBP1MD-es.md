@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cepillo curvo que alarga y eleva con efecto lifting hasta 25 grados
-- Fijación duradera
 - Eleva y mantiene intactas las pestañas hasta 24 horas
-- Cuida las pestañas gracias al pantenol y a la vitamina E
+- Fijación duradera
 - Máscara de pestañas 2000 Calorie Pro Stylist
+- Cuida las pestañas gracias al pantenol y a la vitamina E
+- Cepillo curvo que alarga y eleva con efecto lifting hasta 25 grados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6YBP1MD{{</world>}}

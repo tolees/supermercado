@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- TÉ CON ESPECIAS DE CÚRCUMA: conocida popularmente como la "hierba mágica", la cúrcuma es una hierba que se ha utilizado ampliamente en la India durante miles de años, principalmente como especia culinaria. Una rica hierba dorada con un sabor increíble.
 - ÉTICOS, DIRECTOS Y DE COMERCIO JUSTO, VERDADERO - Nuestro innovador modelo de cadena de suministro le asegura que obtendrá la taza de té más fresca y nuestros agricultores obtendrán un mejor precio por sus productos. El 1% de nuestros ingresos se redirige a la educación de los hijos de nuestros productores de té. Nuestros agricultores, como cualquier otro padre, desean que su progenie tenga una vida mejor que ellos. Nosotros en VAHDAM Teas con nuestra iniciativa social, TEAch Me, simplemente des
 - INGREDIENTES REALES: polvo de cúrcuma, extractos de limoncillo, extractos de bergamota, canela, jengibre, cardamomo, pimienta. Mejor servido con leche caliente.
-- TÉ CON ESPECIAS DE CÚRCUMA: conocida popularmente como la "hierba mágica", la cúrcuma es una hierba que se ha utilizado ampliamente en la India durante miles de años, principalmente como especia culinaria. Una rica hierba dorada con un sabor increíble.
 - UNA MARCA CON MIL MILLONES DE SUEÑOS: establecida en la India por un empresario de té de 4a generación de 23 años, VAHDAM Teas es una marca de té galardonada e integrada verticalmente que ofrece las hojas de té más frescas del mundo a más de 100 países, de origen directamente de los mejores jardines de té de la India. La industria del té es uno de los mayores empleadores de mano de obra en la India. Una exitosa marca local ayuda a empoderar a millones de estos trabajadores del té a largo plazo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

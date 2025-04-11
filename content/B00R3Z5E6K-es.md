@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hímedo, fresco y tan delicioso
-- Libre de aceite de palma y gluten
-- Ingredientes: Azúcar, jarabe de glucosa, LECHE entera en polvo (15,5%) Mantequilla (4%) sabor
-- Información de alérgenos: milk
-- Excelente calidad que se puede degustar
-- Instrucciones para su uso adecuado: Antes de disfrutar: abrir la bolsa, desenvolver el caramelo y luego: disfrutar. le deseamos buen apetito. Por favor, disfrute con moderación y asegúrese de una dieta equilibrada
 - Mastica de caramelo suave envuelto individualmente
+- Ingredientes: Azúcar, jarabe de glucosa, LECHE entera en polvo (15,5%) Mantequilla (4%) sabor
 - Hecho tradicionalmente con leche extra y mantequilla
+- Información de alérgenos: milk
+- Instrucciones para su uso adecuado: Antes de disfrutar: abrir la bolsa, desenvolver el caramelo y luego: disfrutar. le deseamos buen apetito. Por favor, disfrute con moderación y asegúrese de una dieta equilibrada
+- Libre de aceite de palma y gluten
+- Excelente calidad que se puede degustar
+- Hímedo, fresco y tan delicioso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00R3Z5E6K{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho con verduras de primera calidad, sin gluten y con un alto contenido en ﬁbra.
+- Siguiendo los patrones de la dieta mediterránea, muy bajos en grasa .
 - Producto esterilizado.Aseguramiento de la esterilidad comercial. Conservación a temperatura ambiente. No exponer a la acción directa del sol.
 - Cocinado con productos de la huerta, con mucho cariño, como todos nuestros platos.
-- Siguiendo los patrones de la dieta mediterránea, muy bajos en grasa .
+- Hecho con verduras de primera calidad, sin gluten y con un alto contenido en ﬁbra.
 - Un plato típico manchego que podrás disfrutar en un par de minutos al microondas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

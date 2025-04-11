@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pienso acuoso para perros. Proporción extraalta de carne. Vitaminas y minerales importantes. Sin cereales
 - Renunciamos a: Gluten y soja, Conservantes sintéticos, lactosa, azúcar
+- ver artículos individuales
 - Para nuestras comidas, empleamos mayoritariamente ingredientes procedentes de granjas regionales; criados y cultivados con mucho amor
 - MjAMjAM - porque es sabroso
-- Pienso acuoso para perros. Proporción extraalta de carne. Vitaminas y minerales importantes. Sin cereales
-- ver artículos individuales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07D19R2LX{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Maridaje: Carnes blancas, pescado, mariscos, arroces, y pastas. Cocinas asiáticas, tempuras, verduras a la plancha, aperitivos como anchoas, berberechos, salpicón de pulpo, etc.
-- D.O. Costers del Segre
 - Nota de cata (vista): Brillante, amarillo pajizo con reflejos verdosos
+- D.O. Costers del Segre
 - Varietales: Albariño 100%
 - Nota de cata (boca): Vino amplio, lleno de textura y de carácter continental. Sensación fresca a principio de boca, con una media boca más voluminosa y un final largo y refrescante
+- Maridaje: Carnes blancas, pescado, mariscos, arroces, y pastas. Cocinas asiáticas, tempuras, verduras a la plancha, aperitivos como anchoas, berberechos, salpicón de pulpo, etc.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08X6Q7VP9{{</world>}}

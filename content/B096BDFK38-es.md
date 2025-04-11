@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cereales enriquecidos con vitaminas, hierro y calcio
 - Sin aceite de palma, sin colorantes, ni aromas artificiales
 - Cereales integrales con irresistible sabor a canela
+- Cereales enriquecidos con vitaminas, hierro y calcio
 - Cada paquete de cereales contiene aproximadamente 12 porciones de 30g
 
 [🛒 Aquí!!!]({{< param buyurl >}})

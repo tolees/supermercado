@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Botella elaborada con 25% de material reciclado
-- Tómala bien fría con hielo y una rodaja de limón para disfrutar al máximo de todo su sabor
-- Sabor Limón
-- Bebida baja en calorías
-- Con gas
 - Multipack de 2 botellas de 2 litros, es el formato perfecto para darle un toque cítrico a los momentos con amigos
-- Fanta Limón, una deliciosa bebida refrescante con un 6% de zumo de limón
 - Envase 100% reciclable (contenedor amarillo)
+- Sabor Limón
+- Tómala bien fría con hielo y una rodaja de limón para disfrutar al máximo de todo su sabor
+- Con gas
+- Fanta Limón, una deliciosa bebida refrescante con un 6% de zumo de limón
+- Botella elaborada con 25% de material reciclado
+- Bebida baja en calorías
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01LZNW709{{</world>}}

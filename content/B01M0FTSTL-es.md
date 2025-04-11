@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es ligera y proporciona un cutis terso
 - Tiene una gran cobertura pero deja un aspecto muy natural
-- Cubre las imperfecciones hasta 24 horas y matifica la piel
-- Base de maquillaje liquido
 - Cuenta con una larga duración
+- Es ligera y proporciona un cutis terso
+- Base de maquillaje liquido
+- Cubre las imperfecciones hasta 24 horas y matifica la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M0FTSTL{{</world>}}

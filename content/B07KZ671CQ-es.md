@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Raciones por envase: 33
 - Ingredientes de excelente calidad
-- Each serving contains 23.0g of Protein
-- Apto para vegetarianos
 - PBN - Paquete de proteína de suero de leche en polvo, 1 kg (chocolate - maní)
+- Raciones por envase: 33
+- Apto para vegetarianos
+- Each serving contains 23.0g of Protein
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KZ671CQ{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para un resultado óptimo, utiliza los productos de la rutina Gotas de Brillo, en la cual puedes lavar el cabello con este Champú, después aplicar el Acondicionador y aclarar con agua para finalizar la rutina al peinar con el Acondicionador en Spray de la gama
+- El Champú Gotas de Brillo está diseñado para el cabello de los niños, ya que su fórmula minimiza el riesgo de alergias, es suave y deja un cabello sedoso y de aspecto saludable
+- El Champú Gotas de Brillo de Johnson’s Baby está diseñado para potenciar el brillo natural y dejar un cabello suave, saludable y sedoso al momento de peinar
 - Este Champú está enriquecido con aceite de argán y proteínas de seda y ha sido desarrollado con dermatólogos, es hipoalergénico y tiene PH equilibrado, por lo que es adecuado para usarse en el cabello de los niños
 - El Champú no contiene colorantes, ftalatos, sulfatos, alcohol, ni jabón y tiene una fórmula No Llores Más que evita las lágrimas y es suave en los ojos, por lo que el baño será una actividad agradable
-- El Champú Gotas de Brillo de Johnson’s Baby está diseñado para potenciar el brillo natural y dejar un cabello suave, saludable y sedoso al momento de peinar
-- El Champú Gotas de Brillo está diseñado para el cabello de los niños, ya que su fórmula minimiza el riesgo de alergias, es suave y deja un cabello sedoso y de aspecto saludable
+- Para un resultado óptimo, utiliza los productos de la rutina Gotas de Brillo, en la cual puedes lavar el cabello con este Champú, después aplicar el Acondicionador y aclarar con agua para finalizar la rutina al peinar con el Acondicionador en Spray de la gama
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07S7MYDGC{{</world>}}

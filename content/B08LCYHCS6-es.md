@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conservar en un lugar fresco y seco
-- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest Alliance
-- Descubre un mini chocolate Kit Kat Festive en cada ventana
 - Calendario de Adviento: figuritas Kit Kat
+- Descubre un mini chocolate Kit Kat Festive en cada ventana
+- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest Alliance
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08LCYHCS6{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 300 días de duración de la batería
-- Disponible en 7 colores de moda
 - Incluido 2 cabezales de cepillo y 2 estuches para cabezales de cepillo
+- 300 días de duración de la batería
 - Hasta 37.000 pinceladas vibrantes por minuto
+- Disponible en 7 colores de moda
 - 3 modos de cepillado, temporizador de intervalos y resistente al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Champú con aloe intenso y hemp que ayuda a devolver la suavidad al cabello
-- Champú sin sulfatos
-- En asociación con el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
-- con pH equilibrado y seguro para pelo teñido
 - Para el cabello: Tratado de color
+- Champú sin sulfatos
+- con pH equilibrado y seguro para pelo teñido
 - 94 % De Origen Natural (Agua Purificada e Ingredientes De Origen Natural Poco Procesados)
+- En asociación con el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
+- Champú con aloe intenso y hemp que ayuda a devolver la suavidad al cabello
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B086HSB7Z3{{</world>}}

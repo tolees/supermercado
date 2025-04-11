@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ESENCIA DURADERA: una fragancia cuya esencia persiste en la piel, una colonia de larga duración para que te acompañe en tu día a día
+- FRAGANCIA ÚNICA: un desodorante masculino repleto de chispa y vitalidad, concebido para empujarte a vivir tus mejores experiencias
 - PIRÁMIDE OLFATIVA: Notas de salida: limón y menta; Notas de corazón: piña, hojas violeta y romero; Notas de fondo: sales marinas, musgo y ámbar
 - MASCULINO Y ENÉRGICO: un perfume de hombre de carácter valiente, con tonos florales y frescos que empujan a vivir
-- FRAGANCIA ÚNICA: un desodorante masculino repleto de chispa y vitalidad, concebido para empujarte a vivir tus mejores experiencias
-- ESENCIA DURADERA: una fragancia cuya esencia persiste en la piel, una colonia de larga duración para que te acompañe en tu día a día
 - TENDENCIA OLFATIVA: oriental floral
 
 [🛒 Comprar!!!]({{< param buyurl >}})

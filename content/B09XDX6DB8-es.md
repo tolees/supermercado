@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Nutrición complementaria para cada día
-- Favorece la salud de la piel, el brillo y la suavidad del pelo
 - PRO PLAN Skin&Coat+ nutre la piel y el pelaje de tu gato desde el interior gracias a su contenido en nutrientes esenciales tales como ácidos grasos omega 3 y 6 procedentes del salmón noruego, aceite de semillas de lino y vitamina E, y está científicamente diseñado para apoyar una piel saludable (hidratación y firmeza) y un pelaje brillante
+- Favorece la salud de la piel, el brillo y la suavidad del pelo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09XDX6DB8{{</world>}}

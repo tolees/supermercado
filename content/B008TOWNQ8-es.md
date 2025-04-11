@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ayuda a mantener la masa muscular: alto contenido en proteínas de calidad
-- Alimento completo y equilibrado para perros adultos medianos (10-30kg) de 12 meses a 7 años
 - Con antioxidantes: vitaminas E y C que ayudan a neutralizar los radicales libres
 - Fácil digestión: ingredientes altamente digestibles
+- Ayuda a mantener la masa muscular: alto contenido en proteínas de calidad
+- Alimento completo y equilibrado para perros adultos medianos (10-30kg) de 12 meses a 7 años
 - Cuidado de la piel y el pelo: gracias a los ácidos grasos omega 3 y omega 6 y al zinc
 
 [🛒 Aquí!!!]({{< param buyurl >}})

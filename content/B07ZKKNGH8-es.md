@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En boca: redondo con un intenso sabor afrutado y toques de cítricos y enebro
-- En nariz: afrutado con aromas a melocotón y un olor de fondo a naranja y enebro que combina con el inconfundible olor avainillado del saúco
-- Ginebra Premium Puerto de Indias de melocotón. VOL 70cl
-- A la vista: color melocotón atardecer
-- ¿Cómo tomarla? Combínala con tónica o 7up y añade una rodaja de naranja
-- Puerto de Indias es la marca de la primera ginebra de fresas que inspiró una nueva categoría
-- Sabor: Ginebra de melocotón con toques cítricos
-- Final: enérgico y refrescante a la vez
 - Una ginebra con armonía y personalidad propia en la que se mezclan el melocotón, la flor de sauco y la naranja para hacerte descubrir nuevas sensaciones
+- En boca: redondo con un intenso sabor afrutado y toques de cítricos y enebro
+- A la vista: color melocotón atardecer
+- Final: enérgico y refrescante a la vez
+- Sabor: Ginebra de melocotón con toques cítricos
+- En nariz: afrutado con aromas a melocotón y un olor de fondo a naranja y enebro que combina con el inconfundible olor avainillado del saúco
+- Puerto de Indias es la marca de la primera ginebra de fresas que inspiró una nueva categoría
+- ¿Cómo tomarla? Combínala con tónica o 7up y añade una rodaja de naranja
+- Ginebra Premium Puerto de Indias de melocotón. VOL 70cl
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07ZKKNGH8{{</world>}}

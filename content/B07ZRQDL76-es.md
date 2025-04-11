@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
-- Eficaz contra caspa grasa: Sebamed Champú Anticaspa 400ml limpia y elimina caspa.
-- Con Piroctone Olamine para un cabello sano y libre de caspa.
 - Fórmula suave: Reduce el picor e irritación del cuero cabelludo sensibilizado.
+- Con Piroctone Olamine para un cabello sano y libre de caspa.
+- Eficaz contra caspa grasa: Sebamed Champú Anticaspa 400ml limpia y elimina caspa.
 - Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

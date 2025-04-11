@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Crema de jamón york de Iberitos | Fabricado en España
 - No contiene gluten | No contiene OGM | Alérgenos: derivados de leche y soja
-- Producto elaborado de forma artesanal y listo para consumir
 - Formato - monodosis
 - 18 monodosis de crema de untar de jamón york para poder preparar unos ricos snacks o de picoteo para antes de comidas o cenas
+- Producto elaborado de forma artesanal y listo para consumir
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0743G9FDW{{</world>}}

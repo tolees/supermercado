@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PROTEÍNAS: con proteínas y calcio que contribuyen al mantenimiento y funcionamiento normal de los músculos
-- Sin gluten y APTO PARA INTOLERANTES A LA LACTOSA
+- 27 VITAMINAS Y MINERALES: complemento alimenticio en polvo que contiene 27 vitaminas y minerales, incluyendo vitamina C que apoya el sistema inmunitario; las vitaminas B2, B6, B12 y ácido pantoténico contribuyen a la reducción del cansancio y la fatiga
 - HMB: cada toma contiene 1.5 g de CaHMB
+- Sin gluten y APTO PARA INTOLERANTES A LA LACTOSA
 - SABOR: delicioso sabor a chocolate
 - CALCIO Y VITAMINA D: con calcio y vitamina D que contribuyen al funcionamiento normal de músculos y huesos
-- 27 VITAMINAS Y MINERALES: complemento alimenticio en polvo que contiene 27 vitaminas y minerales, incluyendo vitamina C que apoya el sistema inmunitario; las vitaminas B2, B6, B12 y ácido pantoténico contribuyen a la reducción del cansancio y la fatiga
+- PROTEÍNAS: con proteínas y calcio que contribuyen al mantenimiento y funcionamiento normal de los músculos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01F5FD0ZG{{</world>}}

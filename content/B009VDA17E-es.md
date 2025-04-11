@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ACOMPAÑA TUS MEJORES VELADAS: Gracias a su composición esta exquisita bebida es ideal para degustarla fría o con hielo y disfrutar de los mejores aperitivos
 - NOTAS DE CATA: De color rojo profundo, en nariz presenta un aroma dulce equilibrado, con notas de vino, hierbas y especias que le confieren ese carácter tan especial
 - TUS MEJORES CÓCTELES: Carpano Classico está además considerado un vermut único por los barmans profesionales y el ingrediente esencial para crear el cóctel perfecto
 - AUTÉNTICO VERMUT: Carpano es el clásico vermut italiano, nacido de la mano de Fratelli Branca, un auténtico vermut de Torino con tres versiones diferentes: Rosso, Dry y Bianco
-- ACOMPAÑA TUS MEJORES VELADAS: Gracias a su composición esta exquisita bebida es ideal para degustarla fría o con hielo y disfrutar de los mejores aperitivos
 - RESULTADO DE UNA GRAN COMBINACIÓN: Este vermouth es el resultado de una combinación perfecta, precisa y cuidada entre los mejores vinos italianos con cortezas, raíces y hierbas que provienen de distintos rincones del mundo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

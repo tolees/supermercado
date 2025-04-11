@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alto contenido de fibra
-- Sin azúcares añadidos, contiene azúcares naturalmente presentes
 - Paquete de 2 x 500g
+- Sin azúcares añadidos, contiene azúcares naturalmente presentes
+- Alto contenido de fibra
 - Apto para dietas vegetarianas y veganas
 - Las bayas de Goji son una fuente de proteínas; disfrútalas en tu desayuno o úsalas para elaborar deliciosos snacks
 - No apto para alérgicos a otros frutos de cáscara debido al método de producción

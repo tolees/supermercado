@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Deliciosos trozos de atún en aceite de oliva, un ingrediente perfecto para la ensalada nizarda o para un sándwich de atún.
+- Versátiles y fáciles de utilizar.
+- Perfectos con verduras a la parrilla o al vapor, como acompañamiento con unas gotas de limón o vinagre balsámico para un extra de sabor.
 - Fuente de ácidos grasos omega 3, bajo contenido en sal
 - Envase hermético fácil de almacenar y apilable.
-- Perfectos con verduras a la parrilla o al vapor, como acompañamiento con unas gotas de limón o vinagre balsámico para un extra de sabor.
-- Versátiles y fáciles de utilizar.
 - Alto contenido en proteínas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

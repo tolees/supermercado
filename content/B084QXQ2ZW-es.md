@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nature Blessed es un aceite de oliva virgen extra de alta calidad que puede utilizarse en cualquier plato y que proporciona un placer de sabor único. Forma parte de la cocina y la cultura mediterráneas. Se puede utilizar en crudo en ensaladas, comidas cocinadas y en platos refinados.
-- Recibimos el fruto de la aceituna virgen que la naturaleza nos ofrece generosamente y lo convertimos en un aceite de oliva virgen extra refinado y poco ácido, de gran valor nutricional y un escudo de salud para nuestro organismo.
-- Acidez ≥ 0,2%
 - Variedad de aceituna griega: Koroneiki de Creta
 - Premio de plata en los Specialist Awards 2021 y 2 estrellas en los Great Taste Awards London 2020 por su calidad y sabor.
+- Acidez ≥ 0,2%
+- Recibimos el fruto de la aceituna virgen que la naturaleza nos ofrece generosamente y lo convertimos en un aceite de oliva virgen extra refinado y poco ácido, de gran valor nutricional y un escudo de salud para nuestro organismo.
+- Nature Blessed es un aceite de oliva virgen extra de alta calidad que puede utilizarse en cualquier plato y que proporciona un placer de sabor único. Forma parte de la cocina y la cultura mediterráneas. Se puede utilizar en crudo en ensaladas, comidas cocinadas y en platos refinados.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B084QXQ2ZW{{</world>}}

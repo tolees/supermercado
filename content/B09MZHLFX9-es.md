@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto 1: Alcohol 5,5%, Amargor 25 EBU, Color 9 EBC
-- Producto 2: Vasos de cerveza pack de 6 vasos de caña 25 cl Estrella Galicia, aptos para lavavajillas
-- Producto 1: Este clásico de las cervecerías, para cualquier momento del día; una cerveza fresca, en tu casa y con el vaso de la resistencia
 - Producto 1: Cerveza de color dorado que parte de una selección de maltas y lúpulo amargos y su proceso de cocción, fermentación y maduración transcurre a lo largo de más de 20 días
+- Producto 2: Vasos de cerveza pack de 6 vasos de caña 25 cl Estrella Galicia, aptos para lavavajillas
+- Producto 1: Alcohol 5,5%, Amargor 25 EBU, Color 9 EBC
+- Producto 1: Este clásico de las cervecerías, para cualquier momento del día; una cerveza fresca, en tu casa y con el vaso de la resistencia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MZHLFX9{{</world>}}

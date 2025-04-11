@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carbón activado: Gel de ducha de limpieza profunda para hombre con carbón activado
-- DERMATOLÓGICAMENTE PROBADO: Indicado para todo tipo de pieles.
-- Cómo usarlo: Aplicar el gel en las palmas húmedas o una esponja, luego masajear y aclarar
 - PAQUETE DE 2 X 500 ML DE JABÓN DE DUCHA
+- Carbón activado: Gel de ducha de limpieza profunda para hombre con carbón activado
+- Cómo usarlo: Aplicar el gel en las palmas húmedas o una esponja, luego masajear y aclarar
+- DERMATOLÓGICAMENTE PROBADO: Indicado para todo tipo de pieles.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CS654CY1{{</world>}}

@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 2 paquetes: 2 x 1 kg, total 2 kg
-- IMPORTANTE: Puede variar el color del embalaje del producto
-- Tostado y envasado en Bélgica
 - CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
 - Intensidad: 3/5
 - 100 % arábica
-- Envasado en atmósfera protectora para mantener la frescura
+- IMPORTANTE: Puede variar el color del embalaje del producto
 - Adecuado para todas las preparaciones dependiendo de la molienda. Expreso = fina. Filtro = media. Italiana = media. Émbolo = gruesa
+- Envasado en atmósfera protectora para mantener la frescura
+- 2 paquetes: 2 x 1 kg, total 2 kg
+- Tostado y envasado en Bélgica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07CGXZMT3{{</world>}}

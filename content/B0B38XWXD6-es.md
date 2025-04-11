@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CARAMELOS - Encuentra tus personajes favoritos inspirados por los caramelos Jolly Rancher, Hot Tamales, Hersheys Kisses, Smarties, Whoppers, Mike & Ikes, Chupa Chups, Dum Dums, Pez y Peeps. Estos BBs son de lo más dulce y les encanta divertirse
-- SORPRESA DE AGUA - ¡Alimenta o baña a tu BB para disfrutar de una sorpresa de agua! ¿El color de tu muñeca cambiará con el agua fría o con el agua caliente? ¿O llorará, escupirá o hará pipí? Habrá que bañar a tu BB para averiguarlo
-- EMBALAJE RESPETUOSO - Presentamos a las muñecas LOL Surprise Loves Mini Sweets en nuestra BOLA DE PAPEL respetuosa del medio ambiente. Un nuevo aspecto de la marca LOL Surprise que reduce los residuos y es respetuoso del planeta
 - 8 SORPRESAS - Descubre 8 sorpresas para revelar todas las formas de jugar, incluyendo LOL Surprise Loves Mini Sweets en el embalaje de la bola de papel, el atuendo, los zapatos, la botella, el bolso, 2 accesorios y una pegatina
 - UN GRAN REGALO - Las muñecas LOL Surprise fomentan la imaginación y despiertan la creatividad, por lo que son un gran regalo para los cumpleaños y otras ocasiones especiales para los niños y niñas a partir de 4 años
+- SORPRESA DE AGUA - ¡Alimenta o baña a tu BB para disfrutar de una sorpresa de agua! ¿El color de tu muñeca cambiará con el agua fría o con el agua caliente? ¿O llorará, escupirá o hará pipí? Habrá que bañar a tu BB para averiguarlo
+- EMBALAJE RESPETUOSO - Presentamos a las muñecas LOL Surprise Loves Mini Sweets en nuestra BOLA DE PAPEL respetuosa del medio ambiente. Un nuevo aspecto de la marca LOL Surprise que reduce los residuos y es respetuoso del planeta
 - COLECCIONA TODAS - ¡Colecciona las 10 nuevas muñecas LOL Surprise Loves Mini Sweets y completa tu colección de muñecas de caramelo!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

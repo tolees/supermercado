@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Lavaza
 - cafe italiano
 - paquete de 3000 gramos
-- Lavaza
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B073RHWMS9{{</world>}}

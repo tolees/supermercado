@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Snack adecuado para picotear o dipear
-- Mantener en lugar fresco y seco
 - Con forma triangular para acompañar con la salsa que prefieras
-- Aperitivo listo para disfrutar en cualquier momento
+- Mantener en lugar fresco y seco
 - Con intenso sabor y rompedor crujido
+- Aperitivo listo para disfrutar en cualquier momento
 - La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

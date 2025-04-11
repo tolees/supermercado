@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una mezca clásica, que nace de la unión entre café Arábica y Robusta, para un café equilibrado, fuerte y de sabor inconfundible
-- Cápsulas compatibles con las máquinas para uso doméstico Nescafé Dolce Gusto. Cápsulas que cuentan con preciados orígenes, atentamente seleccionados y tostados para prepara el café espresso italiano
-- Los perfumes intensos de Robusta le confieren a la mezcla un intenso color avellana y un sabor de carácter
 - Conservabilidad: 36 meses a partir de la fecha de su producción. Modo de conservación: conservar en un lugar fresco y seco, lejos de fuentes de calor y humedad
 - Su intensa cremosidad broncínea, de larga duración, exalta su característico sabor a chocolate amargo típico de los cafés africanos. Su regusto prolongado recuerda notas sabrosas de almendras tostadas con tonos ligeramente especiados
+- Una mezca clásica, que nace de la unión entre café Arábica y Robusta, para un café equilibrado, fuerte y de sabor inconfundible
+- Los perfumes intensos de Robusta le confieren a la mezcla un intenso color avellana y un sabor de carácter
+- Cápsulas compatibles con las máquinas para uso doméstico Nescafé Dolce Gusto. Cápsulas que cuentan con preciados orígenes, atentamente seleccionados y tostados para prepara el café espresso italiano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZLSMG85{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CREMA CORPORAL BEPANTHOL DERMA: Tiene una textura enriquecida para calmar la sensación de picor, suavizar y aportar un extra de hidratación a la piel muy seca y sensible.
-- LOCIÓN CORPORAL REPARADORA: Fórmula enriquecida con el innovador Repair Complex, que actúa directamente en la raíz de la sequedad para un cambio profundo y duradero.
 - APLICAR GENEROSAMENTE SOBRE TODO EL CUERPO CADA DÍA tantas veces como sea necesario.
 - CREMA CORPORAL HIDRATANTE: Hidratación inmediata y duradera, hasta 48 horas. Protege frente a la sequedad recurrente, para toda la familia.
+- CREMA CORPORAL BEPANTHOL DERMA: Tiene una textura enriquecida para calmar la sensación de picor, suavizar y aportar un extra de hidratación a la piel muy seca y sensible.
+- LOCIÓN CORPORAL REPARADORA: Fórmula enriquecida con el innovador Repair Complex, que actúa directamente en la raíz de la sequedad para un cambio profundo y duradero.
 - 90% INGREDIENTES NATURALES: Dermatológicamente testado sin perfumes y sin colorantes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

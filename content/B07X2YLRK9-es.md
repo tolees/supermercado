@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
-- Con un toque de flores y frutos secos, un óptimo equilibrio y una gran complejidad
-- Cápsulas de café de STARBUCKS de NESPRESSO, equilibrado y con notas a frutos secos
 - Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Este café 100 % Colombia tiene un sabor intenso, un sabor espléndido y un regusto único de frutos secos
+- Con un toque de flores y frutos secos, un óptimo equilibrio y una gran complejidad
+- Cápsulas de café de STARBUCKS de NESPRESSO, equilibrado y con notas a frutos secos
+- Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07X2YLRK9{{</world>}}

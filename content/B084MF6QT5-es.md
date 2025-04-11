@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Olor intenso y duradero
-- Adecuada para día o noche
 - Fragancia femenina
+- Adecuada para día o noche
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B084MF6QT5{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ideal para todo tipo de piel, especialmente indicado para piel sensible y alérgica
-- Gel de baño emulsión sin jabón
 - Con el pH 5.5 de la piel sana
+- Gel de baño emulsión sin jabón
 - 100% libre de agentes alcalinos
 - Es un producto dermatológicamente testado
 

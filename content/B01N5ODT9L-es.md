@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Desnatada
-- Leche UHT
 - Tradicional
+- Leche UHT
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01N5ODT9L{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SIN GLUTEN. NO CONTIENE TRIGO, DERIVADOS LÁCTEOS, SOJA NI LEVADURA. ESTÁ FORMULADO SIN AROMAS ARTIFICIALES.
+- Vegetarianos Veganos
 - Ester-C es una marca registrada de The Ester-C Company
 - Fructosa Reguladores de acidez (ácido málico, ácido cítrico) Maltodextrina Aromas (aroma natural de naranja, aroma natural) Agente antiaglomerante (dióxido de silicio) Edulcorante (glucósidos de esteviol) Color (beta caroteno)
-- Vegetarianos Veganos
+- SIN GLUTEN. NO CONTIENE TRIGO, DERIVADOS LÁCTEOS, SOJA NI LEVADURA. ESTÁ FORMULADO SIN AROMAS ARTIFICIALES.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09M7B2LKH{{</world>}}

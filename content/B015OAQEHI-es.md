@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Nombre de la fragancia: Aromatic
+- Género: Unisex Adulto
 - Ingredientes: Aceites naturales
 - Tipo de Piel: Seca
-- Género: Unisex Adulto
 - Texturas: Leche
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

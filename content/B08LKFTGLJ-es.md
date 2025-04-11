@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Producto de calidad óptima
-- Producto que combina tradición e innovación
 - Elección cuidadosa para las necesidades diarias
+- Producto que combina tradición e innovación
 - Clinique even better concealer 03 cn 28
 
 [🛒 Aquí!!!]({{< param buyurl >}})

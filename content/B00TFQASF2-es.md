@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Explora nuestra gama de productos
-- Sombra de ojos makeup revolution
-- Mur ultra blush palette sugar and spice 13g
 - Sombra de ojos maquillaje mujer
+- Sombra de ojos makeup revolution
+- Explora nuestra gama de productos
+- Mur ultra blush palette sugar and spice 13g
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00TFQASF2{{</world>}}

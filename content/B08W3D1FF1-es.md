@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vino fresco y afrutado, con aromas cítricos.
 - Elaborado con uva blanca Verdejo, procedente de viñedos de producción ecológica
 - Crianza sobre lías de 5 meses
 - Vino Blanco Ecológico D.O. Rueda
+- Vino fresco y afrutado, con aromas cítricos.
 - Certificación ecológica y vegana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

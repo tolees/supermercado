@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Alto contenido en pigmentos para un mayor acabado mate aterciopelado
 - Contiene polímeros seleccionados para la adherencia óptima a la piel
 - Color intenso, mate, y semipermanente
-- Alto contenido en pigmentos para un mayor acabado mate aterciopelado
-- A prueba de besos y roces
 - Fórmula con aceite de coco y vitamina E para proteger los labios
+- A prueba de besos y roces
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0718WTZHG{{</world>}}

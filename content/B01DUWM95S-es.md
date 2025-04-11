@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin colorantes, saborizantes o conservantes artificiales
-- Elaborado con un 50% menos de azúcar y sal
-- Alérgenos: Apio
 - Apto para celíacos, veganos y vegetarianos
+- Sin colorantes, saborizantes o conservantes artificiales
+- Alérgenos: Apio
+- Elaborado con un 50% menos de azúcar y sal
 - Optima para hamburguesas, patatas fritas y sándwiches
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

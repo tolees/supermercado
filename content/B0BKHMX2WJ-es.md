@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aceite con esencias vegetales: Fórmula enriquecida con semillas de cáñamo y aloe vera de cultivo sostenible. 100 % de nutrición. No contiene siliconas
-- Aceite en spray ligero para el control del encrespamiento: Suaviza al instante el pelo seco para reducir el encrespamiento y hacerlo manejable, y no deja residuos grasos
-- Acondicionador con aloe intenso y hemp que ayuda a devolver la suavidad al cabello. Acondicionador sin sulfatos. Con pH equilibrado y seguro para pelo teñido
 - Champú con aloe intenso y hemp que ayuda a devolver la suavidad al cabello. 94 % de origen natural (agua purificada e ingredientes de origen natural poco procesados)
+- Acondicionador con aloe intenso y hemp que ayuda a devolver la suavidad al cabello. Acondicionador sin sulfatos. Con pH equilibrado y seguro para pelo teñido
+- Aceite en spray ligero para el control del encrespamiento: Suaviza al instante el pelo seco para reducir el encrespamiento y hacerlo manejable, y no deja residuos grasos
+- Aceite con esencias vegetales: Fórmula enriquecida con semillas de cáñamo y aloe vera de cultivo sostenible. 100 % de nutrición. No contiene siliconas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BKHMX2WJ{{</world>}}

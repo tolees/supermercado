@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El pack Only Curls de champú y mascarilla para pelo rizado contiene ingredientes de alta calidad como el extracto de Aloe Barbadensis y el Aceite de Argán. Modo de empleo: Primero aplicamos el Champú Only Curls sobre el cabello mojado y masajeamos el cuero cabelludo y terminamos aclarando con agua. Tras el uso del champú aplicamos de medios a puntas la Mascarilla Only Curl, dejamos actuar de 2 a 3 minutos y aclaramos con abundante agua
-- Este champú está diseñado específicamente para cabellos ondulados o rizados, y su fórmula enriquecida con leche de coco y pistacho, lo convierte en la elección perfecta para mantener la salud y la belleza del cabello. Además de reducir el encrespamiento, este champú aporta suavidad y manejabilidad al cabello, ayudando a mantener la forma natural de las ondas o rizos
-- La mascarilla define y controla los rizos además de hidratarlos. Al controlar los rizos, logra que esten más sueltos y definidos, consiguiendo más soltura. Además, gracias a su acción Antifrizz, mantiene el cabello rizado encrespado bajo control, dando lugar a unos rizos mucho más manejables
-- Champú Only Curls, define e hidrata los cabellos ondulados o rizados. Su tecnología Flex Style, contiene aminoácidos y aporta al cabello mayor elasticidad e hidratación, combatiendo el encrespamiento
 - La mascarilla Only Curls propociona una hidaratación profunda y duradera que restaura la humedad esencial tanto en el cabello ondulado como rizado, obteniendo suavidad y flexibilidad y dejando a un lado la preocupación por la sequedad
+- Este champú está diseñado específicamente para cabellos ondulados o rizados, y su fórmula enriquecida con leche de coco y pistacho, lo convierte en la elección perfecta para mantener la salud y la belleza del cabello. Además de reducir el encrespamiento, este champú aporta suavidad y manejabilidad al cabello, ayudando a mantener la forma natural de las ondas o rizos
+- Champú Only Curls, define e hidrata los cabellos ondulados o rizados. Su tecnología Flex Style, contiene aminoácidos y aporta al cabello mayor elasticidad e hidratación, combatiendo el encrespamiento
+- La mascarilla define y controla los rizos además de hidratarlos. Al controlar los rizos, logra que esten más sueltos y definidos, consiguiendo más soltura. Además, gracias a su acción Antifrizz, mantiene el cabello rizado encrespado bajo control, dando lugar a unos rizos mucho más manejables
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B12MH9SY{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- En nariz podemos apreciar un perfil aromático dulce, con matices de brezo y miel, todo ello ahumado con notas de turba
-- Para disfrutar de todas sus cualidades sin adulterar, recomendamos consumir solo o con hielo
 - Elaborado con cebada malteada con turba y madurado en barricas de Jerez; este proceso contribuye a conseguir sus notas dulces y especiadas con un sutil toque ahumado
 - Whisky Escocés de color ámbar y aspecto reluciente, con carácter fresco e intenso
+- En nariz podemos apreciar un perfil aromático dulce, con matices de brezo y miel, todo ello ahumado con notas de turba
 - En paladar es redondo, dulce con notas ahumadas y malta con cuerpo; tiene un final sugerente, con notas de brezo y un sutil tono ahumado
+- Para disfrutar de todas sus cualidades sin adulterar, recomendamos consumir solo o con hielo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00E0EWFL4{{</world>}}

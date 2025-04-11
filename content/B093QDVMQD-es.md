@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - VOLUMEN DE ENTREGA: 1 x 4 sticks GimCat Sticks pavo y conejo - Hecho en Austria
-- GimCat Sticks son snacks deliciosos y suaves para gatos, tienen un alto contenido de carne así como una palatabilidad especialmente alta en los gatos
 - Los sticks envasados individualmente ofrecen una comida siempre fresca y se pueden romper y trocear fácilmente
+- GimCat Sticks son snacks deliciosos y suaves para gatos, tienen un alto contenido de carne así como una palatabilidad especialmente alta en los gatos
 - RECETA: Sin cereales ni azúcar añadido
 - COMPOSICIÓN: Carnes y subproductos animales (95 %, 26 % de pavo y 14 % de conejo), levaduras, sustancias minerales.
 

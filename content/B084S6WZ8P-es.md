@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- producto 1: Porcentaje de alcohol: 37.5%
 - producto 1: Notas delicadas de fresa y un suave final
-- producto 2: Recomendamos servir como Gin & Tonic con twist de lima y un toque de pimienta negra
-- producto 2: Notas aromáticas de enebro y coriandro
-- producto 1: Conservar en lugar seco, sin iluminación directa
-- producto 2: Contenido de alcohol: 37.5%
-- producto 1: Tamaño: 700 ml
+- producto 1: Porcentaje de alcohol: 37.5%
 - producto 2: Para disfrutar de una ginebra a la vez clásica y atrevida
+- producto 2: Recomendamos servir como Gin & Tonic con twist de lima y un toque de pimienta negra
+- producto 2: Contenido de alcohol: 37.5%
+- producto 1: Conservar en lugar seco, sin iluminación directa
+- producto 2: Notas aromáticas de enebro y coriandro
+- producto 1: Tamaño: 700 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B084S6WZ8P{{</world>}}

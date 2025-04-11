@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- OMEGA 3 VEGETAL: 100% a base de aceite de algas: los peces contienen naturalmente omega 3s porque consumen microalgas, proporcionando una abundante fuente de ácidos grasos omega 3. Obtén omega 3s saludables para la salud directamente desde la fuente con este suplemento de algas apto para veganos y vegetarianos de omega 3.
-- DHA - EPA Vegetal: La mejor forma natural de dar a su cuerpo lo que necesita sin infringir su estilo de vida con nuestra alta concentración de DHA y EPA de Omega 3 procedente de algas 100% natural y sostenible. Además enriquecida con vitamina E.
-- CALIDAD PREMIUM: Nuestro aceite de algas no contiene ninguno de los contaminantes que se encuentran en el aceite de pescado, tales como sustancias peligrosas como metales pesados, PCBs y dioxinas.
-- GARANTIA: Para garantizar la alta calidad de nuestros productos, no usamos las cápsulas habituales de gelatina blanda, sino cápsulas veganas extremadamente estables. VEGAGENO utiliza aceites naturales en cápsulas veganas, libres de gelatina animal.
 - OMEGA 3 de Algas marinas veganas de origen sostenible: proporciona Alta concentración 600 mg DHA y 300mg EPA por Dosis Diaria.
+- GARANTIA: Para garantizar la alta calidad de nuestros productos, no usamos las cápsulas habituales de gelatina blanda, sino cápsulas veganas extremadamente estables. VEGAGENO utiliza aceites naturales en cápsulas veganas, libres de gelatina animal.
+- OMEGA 3 VEGETAL: 100% a base de aceite de algas: los peces contienen naturalmente omega 3s porque consumen microalgas, proporcionando una abundante fuente de ácidos grasos omega 3. Obtén omega 3s saludables para la salud directamente desde la fuente con este suplemento de algas apto para veganos y vegetarianos de omega 3.
+- CALIDAD PREMIUM: Nuestro aceite de algas no contiene ninguno de los contaminantes que se encuentran en el aceite de pescado, tales como sustancias peligrosas como metales pesados, PCBs y dioxinas.
+- DHA - EPA Vegetal: La mejor forma natural de dar a su cuerpo lo que necesita sin infringir su estilo de vida con nuestra alta concentración de DHA y EPA de Omega 3 procedente de algas 100% natural y sostenible. Además enriquecida con vitamina E.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B8F2TFZ8{{</world>}}

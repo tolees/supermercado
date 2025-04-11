@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin gluten
 - Contenido : 1 X 152 GR
+- Saquitos de sopa instantánea Miso
 - Refinar al gusto con tofu, algas, salsa de pescado u otras verduras
 - Producto de Japón
-- Saquitos de sopa instantánea Miso
+- Sin gluten
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B099PYQFS7{{</world>}}

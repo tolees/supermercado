@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin OGM y apto para veganos
-- Crudo, sin pasteurizar y con fermentación natural
-- Elaborado artesanalmente con manzanas prensadas en frío recogidas a mano
 - Explora nuestra gama de productos y disfruta de tu estilo
+- Crudo, sin pasteurizar y con fermentación natural
+- Sin OGM y apto para veganos
+- Elaborado artesanalmente con manzanas prensadas en frío recogidas a mano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HL81JHT{{</world>}}

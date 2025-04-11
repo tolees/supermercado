@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Delicioso chili con carne
 - Prepara tus platos mejicanos preferidos
-- Práctico y fácil
 - Plato estrella de la cocina Tex-Mex
+- Práctico y fácil
+- Delicioso chili con carne
 - Receta mejicana
 
 [🛒 Aquí!!!]({{< param buyurl >}})

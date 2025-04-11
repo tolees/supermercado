@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para que los más jovenes también disfruten de los bombones
-- 14 bombones Nestlé Extrafino Dinosaurus envueltos individualmente.
 - Este bombón se fabrica en La Penilla, España.
+- Para que los más jovenes también disfruten de los bombones
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest Alliance.
 - Un relleno cremoso con trocitos de galleta DINOSAURUS cubierto de chocolate con leche NESTLÉ EXTRAFINO.
+- 14 bombones Nestlé Extrafino Dinosaurus envueltos individualmente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9QTCWLM{{</world>}}

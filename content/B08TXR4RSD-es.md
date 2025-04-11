@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regenera y renueva visiblemente la piel
-- No graso. No obstruye los poros
-- Diseñado para que sus ingredientes actúen en profundidad en la piel
-- Producto sin aluminio, sin tintes sintéticos, sin parafina, sin aceite mineral, sin aceite mineral, sin soja, sin talco, sin acetona
-- Fórmula Complex II de Olay con aminopéptidos y vitamina B3
-- Hidrata, reafirma y renueva la piel al instante
 - Muy ligero al tacto con un acabado liso y mate
+- Producto sin aluminio, sin tintes sintéticos, sin parafina, sin aceite mineral, sin aceite mineral, sin soja, sin talco, sin acetona
+- No graso. No obstruye los poros
+- Fórmula Complex II de Olay con aminopéptidos y vitamina B3
+- Diseñado para que sus ingredientes actúen en profundidad en la piel
+- Hidrata, reafirma y renueva la piel al instante
+- Regenera y renueva visiblemente la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08TXR4RSD{{</world>}}

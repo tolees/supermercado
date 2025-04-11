@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aroma fresco y aromático para después del entreno
 - Botella reciclada
+- Gel de ducha con fórmula 3 en 1: para cuerpo, cabello y rostro
 - Fórmula optimizada, ahora más clean y vegana
 - Dermatológicamente testado
-- Gel de ducha con fórmula 3 en 1: para cuerpo, cabello y rostro
+- Aroma fresco y aromático para después del entreno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN8FVY1Y{{</world>}}

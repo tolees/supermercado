@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest Alliance.
-- Hay cuatro modelos disponibles, coleccionalos todos!
 - Materiales Reciclables.
-- Recorta tú máscara y coloca la cuerda elástica del interior.
+- Hay cuatro modelos disponibles, coleccionalos todos!
 - Este pack contiene 3 chocolatinas Extrafino de 20g y 3 barritas Nestle Extrafino de 18g
+- Recorta tú máscara y coloca la cuerda elástica del interior.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB4PRBTS{{</world>}}

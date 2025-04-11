@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caramelos de goma sabor frutas.
-- De 5 sabores y colores diferentes en una misma bolsa.
 - Mantener en lugar fresco y seco.
+- De 5 sabores y colores diferentes en una misma bolsa.
+- Caramelos de goma sabor frutas.
 - OSITOS DE ORO, el original, ahora recubiertos de azúcar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

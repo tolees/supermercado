@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ayuda a mantener un tracto urinario saludable gracias a los minerales equilibrados
-- Ayuda a mantener piel y pelaje saludables gracias a los ácidos grasos Omega 3 y 6
-- Control de peso soportado por un ratio más alto de proteína
-- Hecho con plástico reciclado
 - Formulado para ayudar a mantener un metabolismo saludable en gatos esterilizados/castrados
+- Control de peso soportado por un ratio más alto de proteína
+- Ayuda a mantener piel y pelaje saludables gracias a los ácidos grasos Omega 3 y 6
+- Ayuda a mantener un tracto urinario saludable gracias a los minerales equilibrados
+- Hecho con plástico reciclado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHF75MHQ{{</world>}}

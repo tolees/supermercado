@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De la marca Ferrari.
-- Contiene 125 ml.
 - Este producto está indicado para hSombras.
+- Contiene 125 ml.
 - Las notas olfativas principales de este producto son fresco acuático, cítrico y oriental.
+- De la marca Ferrari.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00COFP8Y2{{</world>}}

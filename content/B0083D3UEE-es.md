@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sardinas en aceite de oliva
+- Se debe conservar en un lugar fresco y seco
+- Óptimo para toda la familia
 - Una óptima opción para convertir cualquier momento en una ocasión especial
 - Ricas en calcio y proteínas, así como ácidos grasos y Omega 3
-- Óptimo para toda la familia
-- Se debe conservar en un lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0083D3UEE{{</world>}}

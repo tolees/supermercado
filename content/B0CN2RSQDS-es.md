@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formulado con ingredientes de origen natural, como extractos de aloe vera y té verde, con propiedades hidratantes
-- Deja las manos limpias, suaves, hidratadas y delicadamente perfumadas
 - La siguiente información se aplica a cada unidad del paquete
 - Preserva la hidratación natural de la piel gracias a un rico complejo lipídico similar al que conforma la estructura de nuestra epidermis; Fórmula probada dermatológica y clínicamente
 - Jabón de manos hidratante con protección total contra agentes externos
+- Deja las manos limpias, suaves, hidratadas y delicadamente perfumadas
+- Formulado con ingredientes de origen natural, como extractos de aloe vera y té verde, con propiedades hidratantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CN2RSQDS{{</world>}}

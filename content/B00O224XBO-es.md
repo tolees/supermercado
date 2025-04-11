@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de uva: Elaborado a base de uva Tempranillo y tras la fermentación maloláctica, se lleva a barricas de roble francés donde permanece durante 6 meses; Trascurrido este tiempo es envasado y criado en botella
+- Apariencia: Vino tinto de color rojo picota cubierto, con ribete violáceo, limpio y brillante.
 - Gusto: En boca manifiesta buena estructura, es suave y redondo; Se muestra claramente frutal, persistente, largo y con un postgusto tostado.
 - Maridaje: Este vino combina muy bien con todo tipo de pescados al horno, lasañas y risotto de hongos.
+- Tipo de uva: Elaborado a base de uva Tempranillo y tras la fermentación maloláctica, se lleva a barricas de roble francés donde permanece durante 6 meses; Trascurrido este tiempo es envasado y criado en botella
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos servir entre 14ºC y 16ºC.
-- Apariencia: Vino tinto de color rojo picota cubierto, con ribete violáceo, limpio y brillante.
 - Aroma: Perfil aromático con notas ahumadas bien integradas con frutas varietales; Se intuye también un fondo de vainilla propio de la buena crianza en barrica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

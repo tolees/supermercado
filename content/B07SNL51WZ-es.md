@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Snack en forma de macarrón, con carne de pollo. 100% natural.
-- Suministrar como un premio en cualquier momento, dentro de una dieta equilibrada.
 - Cantidad: 100 gr
-- Los perros deben estar bajo supervisión mientras comen. Mantener en lugar fresco y seco. Suministrar siempre agua en abundancia.
+- Snack en forma de macarrón, con carne de pollo. 100% natural.
 - Con un alto contenido en proteína animal y con pocas grasas (Producto Light). Alimento complementario para su perro, muy rico en nutrientes.
+- Los perros deben estar bajo supervisión mientras comen. Mantener en lugar fresco y seco. Suministrar siempre agua en abundancia.
+- Suministrar como un premio en cualquier momento, dentro de una dieta equilibrada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SNL51WZ{{</world>}}

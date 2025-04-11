@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acción rápida y duradera gracias a la liberación inmediata de melatonina (1mg)
 - El efecto beneficioso se obtiene con una ingesta de 1mg de melatonina poco antes de irse a dormir
-- Larga duración gracias a la liberación prolongada de melatonina restante (0,9mg)
-- Melatonina 1,9mg
 - Reduce el tiempo para conciliar el sueño
+- Acción rápida y duradera gracias a la liberación inmediata de melatonina (1mg)
+- Melatonina 1,9mg
+- Larga duración gracias a la liberación prolongada de melatonina restante (0,9mg)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WEOP4Z6{{</world>}}

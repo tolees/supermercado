@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con sabor a kétchup
-- Conservar en un lugar fresco y seco
 - Ideal como snack
-- Sin gluten
 - Elaboradas a base de patatas
+- Conservar en un lugar fresco y seco
+- Con sabor a kétchup
+- Sin gluten
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUXXOEM{{</world>}}

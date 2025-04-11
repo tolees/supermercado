@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fórmula potencia el color hasta el interior
-- Con aceite florales
-- No contiene amoniaco
-- 100% cobertura de cañas
 - Fácil de aplicar
+- Fórmula potencia el color hasta el interior
+- 100% cobertura de cañas
+- No contiene amoniaco
+- Con aceite florales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00X9TVDC8{{</world>}}

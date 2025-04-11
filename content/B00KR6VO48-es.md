@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CAFÉ 100% CERTIFICADO: Las cápsulas L’OR Espresso son elaboradas con café obtenido de fincas Rainforest Alliance que contribuye a mejorar la vida de los agricultores.
 - 20 PAQUETES DE 10 CÁPSULAS - 200 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts).
-- INTENSIDAD 10 - Café molido de tueste natural con aromas a cacao y caramelo oscuro.
-- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 - AFFRUTADO Y ESPECIADO - La mezcla da como resultado un café con notas afrutadas y especias suaves pero llenas de sabor.
+- INTENSIDAD 10 - Café molido de tueste natural con aromas a cacao y caramelo oscuro.
+- CAFÉ 100% CERTIFICADO: Las cápsulas L’OR Espresso son elaboradas con café obtenido de fincas Rainforest Alliance que contribuye a mejorar la vida de los agricultores.
+- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00KR6VO48{{</world>}}

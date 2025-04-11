@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack 100 Percentage reciclable
 - Suavizante concentrado para la ropa ecológico con ingredientes de origen natural y agradable fragancia a flor de naranjo y hojas cítricas
 - Fragancia duradera en tus prendas gracias a sus aceites esenciales con aroma a flor de naranjo y hojas cítricas
 - Puedes utilizarlo en la lavadora para la ropa de toda la familia, incluso la ropa de tu bebé
+- Pack 100 Percentage reciclable
 - Apto para pieles sensibles; no deja químicos abrasivos en la ropa que puedan causar una reacción adversa en pieles sensibles; dermatológicamente testado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

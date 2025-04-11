@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de piel: normal
 - Tipo de producto: tratamiento capilar
+- Tipo de piel: normal
 - Para el cabello: normal
 - Marca: Schwarzkopf
 

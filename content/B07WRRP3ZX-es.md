@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Deliciosas piezas largas en forma de stick
-- Conservar en lugar fresco y seco
-- Ctra. Girona-Banyoles, Km. 14, 17844 Cornellà del Terri, Girona, Espana
-- Con intenso sabor a cereza
 - Ctra. Girona-Banyoles, Km. 14, 17844 Cornellà del Terri, Girona, Espana
 - Geles dulces
+- Con intenso sabor a cereza
+- Deliciosas piezas largas en forma de stick
+- Ctra. Girona-Banyoles, Km. 14, 17844 Cornellà del Terri, Girona, Espana
+- Conservar en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WRRP3ZX{{</world>}}

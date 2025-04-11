@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bebida refrescante con gas
+- Es elaborada sin azúcar
+- No contiene cafeína
 - Ideal con hielo y limón
 - Conservar en un lugar fresco y seco
-- Es elaborada sin azúcar
-- Bebida refrescante con gas
-- No contiene cafeína
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NSRYJWD{{</world>}}

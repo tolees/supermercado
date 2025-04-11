@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cáscara de semilla de Psyllium ecológico molida. Alto contenido de fibra, sin azúcares, bajo contenido de grasa.
-- Psyllium contiene alto contenido en fibra. Ideal para disfrutar de un desayuno sano y equilibrado. ¡No te quedes sin probarlo!
-- Conservar el envase cerrado en un lugar fresco y seco.
 - Ingredientes: Psyllium (100%) (Plantago ovata) molido. Ingrediente procedente de la agricultura ecológica. Este producto se manipula en una planta donde se fabrican frutos secos, soja y sésamo.
+- Cáscara de semilla de Psyllium ecológico molida. Alto contenido de fibra, sin azúcares, bajo contenido de grasa.
 - Modo de empleo: Puede tomarse mezclando una cucharadita en agua, zumos o batidos. Asimismo, puede utilizarse en la elaboración de masas sin gluten para pan, bizcochos y repostería en general ya que aporta estructura y esponjosidad.
+- Conservar el envase cerrado en un lugar fresco y seco.
+- Psyllium contiene alto contenido en fibra. Ideal para disfrutar de un desayuno sano y equilibrado. ¡No te quedes sin probarlo!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08M771LBG{{</world>}}

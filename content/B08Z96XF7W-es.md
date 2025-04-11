@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vegano
 - Vino fresco con marcado carácter mediterráneo
-- En boca la entrada es agradable, con acidez refrescante, sedoso y con persistencia en el paladar. En el retrogusto aparecen aromas frutales muy intensos que hacen que el vino sea muy goloso y sápido
-- Aromas a fruta blanca y tropical con toques cítricos.
 - Combinación ideal para aperitivos, ensaladas mediterráneas, ceviches, pescados magros, pulpo a la feira, mariscos y arroces.
+- Aromas a fruta blanca y tropical con toques cítricos.
+- En boca la entrada es agradable, con acidez refrescante, sedoso y con persistencia en el paladar. En el retrogusto aparecen aromas frutales muy intensos que hacen que el vino sea muy goloso y sápido
+- Vegano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08Z96XF7W{{</world>}}

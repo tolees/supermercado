@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- D.O RIBERA DEL DUERO
-- MATARROMERA RESERVA
+- BODEGA MATARROMERA
 - BOTELLA VINO 75 cl
 - VINO TINTO RESERVA
-- BODEGA MATARROMERA
+- MATARROMERA RESERVA
+- D.O RIBERA DEL DUERO
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00K54NEU4{{</world>}}

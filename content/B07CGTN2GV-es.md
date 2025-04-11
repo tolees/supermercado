@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se seca rápidamente y proporciona larga duración
-- Labial líquido de larga duración y acabado mate
 - Color rojo nude
+- Se seca rápidamente y proporciona larga duración
 - Fragancia irresistible a chocolate
+- Labial líquido de larga duración y acabado mate
 - Alta pigmentación y fácil de aplicar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- producto 1: Gusto: en boca es amplio, con profunda carga de suaves taninos, persistente y muy conjuntado en su estructura
-- producto 2: Con aromas de frutosidad y notas dulces
 - producto 2: De color rojo picota de alta intensidad
-- producto 1: Tipo de uva: elaborado a base de uva tinta del país; su maceración es larga, de 25 a 30 días y con una estancia en barrica de 90 días
-- producto 2: En boca es maduro, pleno de matices y con un paso intenso
 - producto 1: Aroma: en nariz expresa recuerdos frutales en equilibrio con aromas terciarios de madera nueva de roble
-- producto 1: Apariencia: vino tinto de color cereza intenso, mantiene un tono vivo y limpio
+- producto 1: Gusto: en boca es amplio, con profunda carga de suaves taninos, persistente y muy conjuntado en su estructura
 - producto 2: Elaborado a base de uvas Tinta del País
+- producto 2: En boca es maduro, pleno de matices y con un paso intenso
+- producto 1: Tipo de uva: elaborado a base de uva tinta del país; su maceración es larga, de 25 a 30 días y con una estancia en barrica de 90 días
+- producto 1: Apariencia: vino tinto de color cereza intenso, mantiene un tono vivo y limpio
+- producto 2: Con aromas de frutosidad y notas dulces
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BM37Q3ZL{{</world>}}

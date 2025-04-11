@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin Gluten y sin conservantes
 - Listo para consumir
 - Adecuado para preparar una variedad de recetas
+- Sin Gluten y sin conservantes
 - Una vez abierto conservar en frigorífico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

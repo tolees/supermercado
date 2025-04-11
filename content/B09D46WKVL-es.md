@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crema facial de gel con ácido hialurónico y pepino
 - La crema refresca la piel del rostro y la prepara para el cuidado posterior
+- Proporciona hidratación de 24 horas, sin sensación pegajosa en la piel
+- Crema facial de gel con ácido hialurónico y pepino
 - Ideal como base de maquillaje: mantiene el maquillaje 2 veces más**
 - Fórmula hidratante ligera que no obstruye los poros
 - Contiene un 90 % de ingredientes de origen natural
-- Proporciona hidratación de 24 horas, sin sensación pegajosa en la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09D46WKVL{{</world>}}

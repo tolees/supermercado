@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - *Nespresso es una marca registrada de Société des Produits Nestlé S.A.. Segafredo Zanetti S.p.a. es un productor independiente no vinculado a Société des Produits Nestlé S.A.. La compatibilidad de las cápsulas Segafredo Zanetti está diseñada para su uso con máquinas de café Nespresso para uso doméstico
-- Línea de aluminio: este material garantiza una barrera que sella herméticamente las cápsulas y asegura una perfecta conservación del aroma y sabor
 - Cápsulas compatibles con los siguientes modelos de máquinas de café Nespresso: Citiz, Pixie, Inissia, Essenza, Lattissima, U, Umilk, Prodigio, Maestria. Siempre seguir las instrucciones del fabricante de la máquina de café
 - Calidad del Café Segafredo en cápsulas compatibles con máquinas domésticas. Siempre seguir las instrucciones del fabricante de la máquina de café
+- Línea de aluminio: este material garantiza una barrera que sella herméticamente las cápsulas y asegura una perfecta conservación del aroma y sabor
 - Muy alta intensidad: café con cuerpo muy consistente, sabor decidido y corpulento. Tostado medio. Empaque de 100 cápsulas divididas en 10 cajas de 10 unidades cada una
 
 [🛒 Aquí!!!]({{< param buyurl >}})

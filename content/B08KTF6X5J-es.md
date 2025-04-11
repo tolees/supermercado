@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- PIRÁMIDE OLFATIVA: Notas de salida: almendra, bergamota, cardamomo y elemi; Notas de corazón: canela, ciruela, clavo y cuero; Notas de fondo: tonka, ládano, pachulí y sándalo.
 - TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia amaderada oriental que rinde homenaje a lo misterioso y sofisiticado, a lo no habitual. Ideal para hombre alegres, divertidos, llenos de vitalidad y simpatía.
+- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
 - ESTUCHE DE REGALO: Spagnolo Agua Fresca es un estuche masculino con un carácter desenfadado y dinámico, que captura la esencial de masculinidad desde el frescor y la robustez. El pack incluye una colonia y un desodorante.
 - CLÁSICO Y MASCULINO: Un perfume para hombres clásicos pero actuales, que te empujará a brillar por tu buen gusto. ¡La masculinidad del perfume se percibe desde el inicio!
-- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
-- PIRÁMIDE OLFATIVA: Notas de salida: almendra, bergamota, cardamomo y elemi; Notas de corazón: canela, ciruela, clavo y cuero; Notas de fondo: tonka, ládano, pachulí y sándalo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08KTF6X5J{{</world>}}

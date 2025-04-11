@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una receta sabrosa con proteínas de alta calidad
-- Comida para perros adultos: nutrición 100% completa y equilibrada
-- Sin soja, cebada ni productos lácteos añadidos
-- Diseñada por nutricionistas de animales y revisada por veterinarios
-- Con biotina, zinc y salmón: una fuente natural de Omega 3 para mantener la piel y el cabello sanos
-- Conservar en un lugar fresco, seco y oscuro. Una vez abierto, volver a sellar lo más hermético posible
-- Sin aromas, colores o conservantes artificiales
-- Prebióticos naturales para mejorar la digestión sensible
-- Con glucosamina y condroitina para mejorar las articulaciones; Con taurina para tener la vista y el corazón saludables
 - Con salmón fresco; carne y derivados animales: aprox. un 27%
+- Comida para perros adultos: nutrición 100% completa y equilibrada
+- Prebióticos naturales para mejorar la digestión sensible
+- Conservar en un lugar fresco, seco y oscuro. Una vez abierto, volver a sellar lo más hermético posible
+- Diseñada por nutricionistas de animales y revisada por veterinarios
+- Sin aromas, colores o conservantes artificiales
+- Con glucosamina y condroitina para mejorar las articulaciones; Con taurina para tener la vista y el corazón saludables
+- Sin soja, cebada ni productos lácteos añadidos
+- Una receta sabrosa con proteínas de alta calidad
+- Con biotina, zinc y salmón: una fuente natural de Omega 3 para mantener la piel y el cabello sanos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07HXLKML1{{</world>}}

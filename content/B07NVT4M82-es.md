@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ayuda a sus defensas: con vitamina D que contribuye al buen funcionamiento del sistema inmunitario de los niños
 - Sabor a vainilla: A los niños les encanta su sabor (2)
 - Ayúdale a crecer fuerte y sano: los ácidos grasos esenciales son necesarios para el crecimiento y el desarrollo normales de los niños (1)
+- Ayuda a sus defensas: con vitamina D que contribuye al buen funcionamiento del sistema inmunitario de los niños
 - Apoya su atención y memoria: el hierro ayuda al desarrollo cognitivo normal de los niños
 - Complementa su nutrición: Pediasure contiene nutrientes de los 5 grupos de alimentos como proteínas, 27 vitaminas y minerales
 

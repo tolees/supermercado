@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sabor: Etéreo, rico, picante y bien equilibrado
 - Aroma: Intenso, rico y elegante con aromas de fruta madura
 - Sugerencia de servicio: Excelente con platos a base de carne, caza y queso sazonado
 - Uva: Merlot
-- Sabor: Etéreo, rico, picante y bien equilibrado
 - Color: rojo rubí con tonos violáceos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

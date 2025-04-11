@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hidratación y limpieza profunda
-- Para Piel Secas
-- Fomenta la Luminosidad de la Piel
 - Función Barrera que Activa el Sistema Inmune
+- Fomenta la Luminosidad de la Piel
+- Para Piel Secas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BN7XF1U{{</world>}}

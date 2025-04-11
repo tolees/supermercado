@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para uso profesional
-- INGREDIENTES DE GRAN CALIDAD Huevos de gallinas camperas y tomates cultivados de forma sostenible
 - Sin gluten
+- INGREDIENTES DE GRAN CALIDAD Huevos de gallinas camperas y tomates cultivados de forma sostenible
+- Para uso profesional
 - FORMATO IDEAL Para llevar o con poco espacio en la mesa
 - FORMATO INDIVIDUAL Higiénico y cómodo gracias a su fácil apertura
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- No contiene aditivos químicos.
 - 100% Natural
 - En una ensaladera grande, combine la cebolla, las aceitunas, los pimientos, los tomates, el pepino y el queso. Mezclar con el aceite de oliva y 1 cucharada de nuestra "Ensalada Mix" y está lista.
-- No contiene aditivos químicos.
 - En una bolsa con cierre
 
 [🛒 Visítala!!!]({{< param buyurl >}})

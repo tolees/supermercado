@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Clinique (0020714612764)
 - Cuerpo Clinique
+- Clinique (0020714612764)
 - Crema Corporal Cuidado De La Piel Hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

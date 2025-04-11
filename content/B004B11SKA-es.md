@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aromas afrutados a naranja de naranja dulce y melocotón
-- Se puede usar para preparar cócteles
-- De color dorado
-- Notas de mazapán y nueces
 - Toques de rico y suave chocolate con naranja
+- Notas de mazapán y nueces
+- De color dorado
+- Se puede usar para preparar cócteles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004B11SKA{{</world>}}

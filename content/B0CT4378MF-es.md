@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin aditivos
-- Producido en intalaciones GMP
 - Sin sabor
 - Sin Gluten
+- Producido en intalaciones GMP
 - 200 Mesh
+- Sin aditivos
 - 100% Pura Creatina Monohidrato
 
 [🛒 Aquí!!!]({{< param buyurl >}})

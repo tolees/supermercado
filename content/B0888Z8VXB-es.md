@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ayuda a preservar el crecimiento del cabello y a prevenir su caída
 - La estructura del cabello mejora con un mejor agarre
+- Ayuda a preservar el crecimiento del cabello y a prevenir su caída
 - Estimula el cabello durante el lavado
 - El cabello fino se vuelve más fuerte y se puede peinar mejor
 - Basado en la omisión intencionada de suavizantes

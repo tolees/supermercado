@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para pelo seco y apagado que necesita nutrición y brillo
-- Con A de Aussie, de Australia, de ingredientes Auténticos y de Asombrosa Actitud Australiana
-- Acondicionador para pelo decolorado, rubio y plateado
 - Aussie se enorgullece de ser una marca libre de crueldad animal certificada por PETA
+- Acondicionador para pelo decolorado, rubio y plateado
 - Con extractos de Semilla de Cáñamo Australiano y Ciruela Salvaje
+- Con A de Aussie, de Australia, de ingredientes Auténticos y de Asombrosa Actitud Australiana
+- Para pelo seco y apagado que necesita nutrición y brillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TWPZT99{{</world>}}

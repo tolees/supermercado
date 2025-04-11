@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - TEXTURA CRUJENTE - Barquillos crujientes rellenos de crema de cacao y recubiertos de cremoso chocolate blanco. La caja contiene 14 barritas de barquillo envasadas individualmente para poder disfrutarlas en cualquier momento.
 - IDEAS PARA REGALAR Y SERVIR - Perfectas para disfrutarlas como postre, acompañadas de una taza de café caliente. Puede añadirse un trozo de barquillo de chocolate blanco al helado para una deliciosa combinación. Ideal para regalar en Halloween, y con el tamaño perfecto para llenar los calcetines de Navidad.
-- ENVASADAS INDIVIDUALMENTE - Envasadas en formato monodosis, en cómodos paquetes individuales ideales para llevar en el bolso o en la mochila, perfectas para compartir. Gracias a su envasado individual, cada barrita conserva toda su frescura hasta el momento de consumirla, para llevarlas contigo y disfrutarlas en cualquier momento.
 - HECHO EN ESPAÑA - Fabricado localmente en las Islas Canarias. Tirma es una marca española con más de 80 años de experiencia en el mercado de la confitería. Disponible en una gran variedad de deliciosos sabores y formatos, descubre el sabor de Tirma.
 - VEGETARIANO - Snack apto para vegetarianos, ya que está elaborado sin huevo. ¡Disfruta de estos snacks en cualquier momento del día!
+- ENVASADAS INDIVIDUALMENTE - Envasadas en formato monodosis, en cómodos paquetes individuales ideales para llevar en el bolso o en la mochila, perfectas para compartir. Gracias a su envasado individual, cada barrita conserva toda su frescura hasta el momento de consumirla, para llevarlas contigo y disfrutarlas en cualquier momento.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B016SH1MYQ{{</world>}}

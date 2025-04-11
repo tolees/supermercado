@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- No recomendado para niños ni mujeres embarazadas o en periodo de lactancia.
 - Proteger de la luz solar y de olores agresivos.
 - No congelar. Conservar en lugar fresco, seco y limpio.
-- No recomendado para niños ni mujeres embarazadas o en periodo de lactancia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086WQSQVM{{</world>}}

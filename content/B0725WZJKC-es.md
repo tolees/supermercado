@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Producto bajo en carbohidratos
 - ‎Almacenar en lugar fresco y seco
+- Sólo abrir y listo
 - Fuente natural de Omega3
 - Pais de origen: Francia
-- Sólo abrir y listo
-- Producto bajo en carbohidratos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0725WZJKC{{</world>}}

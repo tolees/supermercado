@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin gluten
-- Ideal para postres
 - Fácil de fundir
+- Ideal para postres
 - Tableta de chocolate negro
+- Sin gluten
 - Conservar en un lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

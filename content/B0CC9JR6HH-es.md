@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una vez abierto conservar en el frigorífico
-- Es un producto vegano
 - Adecuado con muchos platos, especialmente carnes y ensaladas
-- Listo para consumir
+- Es un producto vegano
 - Sin azúcar ni huevos
+- Una vez abierto conservar en el frigorífico
+- Listo para consumir
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CC9JR6HH{{</world>}}

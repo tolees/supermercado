@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Extrae los puntos negros
 - Acción anti-marcas y anti-manchas
 - Con fibras ultra suaves
-- Contiene 2% de ácido salicílico
+- Extrae los puntos negros
 - Desobstruye los poros el profundidad
+- Contiene 2% de ácido salicílico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X9TQEOA{{</world>}}

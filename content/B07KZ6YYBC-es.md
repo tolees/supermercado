@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para dietas vegetarianas.
-- Amazon EU SARL, 38 avenue John F. Kennedy, L-1855 Luxembourg
-- Sabor Chocolate - 2.27kg
-- Las proteínas contribuyen a conservar y a que aumente la masa muscular
-- El embalaje es 100% recyclable
-- Todas las declaraciones de propiedades saludables y nutricionales han sido verificadas por la Autoridad Europea de Seguridad Alimentaria – EFSA
 - Este envase contiene 75 porciones
+- Las proteínas contribuyen a conservar y a que aumente la masa muscular
+- Sabor Chocolate - 2.27kg
+- Apto para dietas vegetarianas.
+- Todas las declaraciones de propiedades saludables y nutricionales han sido verificadas por la Autoridad Europea de Seguridad Alimentaria – EFSA
+- El embalaje es 100% recyclable
+- Amazon EU SARL, 38 avenue John F. Kennedy, L-1855 Luxembourg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KZ6YYBC{{</world>}}

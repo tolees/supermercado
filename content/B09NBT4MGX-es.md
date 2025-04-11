@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para la elaboración de los jabones, no se utiliza aceite de palma y se trata de un producto biodegradable.
-- Los jabones de la cesta son elegidos al azar, permitiéndote disfrutar de diferentes aromas. Un regalo original para el Día de la Madre, Navidad, cumpleaños...
 - Cesta Regalo de Jabones Artesanales, 5 de ellos elaborados a base de aceite de oliva enriquecido y 1 elaborado a base de glicerina vegetal.
+- Los jabones de la cesta son elegidos al azar, permitiéndote disfrutar de diferentes aromas. Un regalo original para el Día de la Madre, Navidad, cumpleaños...
 - Cada jabón se elabora artesanalemente con aceite de oliva o glicerina vegetal y diferentes ingredientes de origen natural , que le aportan al jabón diferentes cualidades y aromas.
 - Incluye: Cesta de madera con 6 jabones artesanales de 45 gramos con aromas surtidos.
+- Para la elaboración de los jabones, no se utiliza aceite de palma y se trata de un producto biodegradable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NBT4MGX{{</world>}}

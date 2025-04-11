@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La formulación evita la contaminación del cepillo aplicador
-- Limar la superficie de la uña una vez a la semana puede acelerar el tratamiento. El envase de 10 ml contiene la cantidad necesaria para un tratamiento medio de 26 semanas
-- Eficacia probada clínicamente
-- Mata los hongos de la superficie en 20 segundos
-- Dependiendo de la gravedad de la afección, se podrían ver mejoras en tan solo 2 semanas, aunque el tratamiento de las infecciones por hongos en las uñas puede llevar meses
 - La composición incluye urea, aceite de hoja de melaleuca alternifolia (aceite de árbol de té) y ácido láctico
+- Dependiendo de la gravedad de la afección, se podrían ver mejoras en tan solo 2 semanas, aunque el tratamiento de las infecciones por hongos en las uñas puede llevar meses
+- Eficacia probada clínicamente
+- La formulación evita la contaminación del cepillo aplicador
+- Mata los hongos de la superficie en 20 segundos
+- Limar la superficie de la uña una vez a la semana puede acelerar el tratamiento. El envase de 10 ml contiene la cantidad necesaria para un tratamiento medio de 26 semanas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09WW3WSQD{{</world>}}

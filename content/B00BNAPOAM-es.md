@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONSEJOS DE USO Aplicar generosamente en las zonas que necesitan protección antes de la exposición al sol. Utilízalo sobre la marcha para retocar puntos vulnerables como los labios, la nariz y las mejillas, las puntas y los lóbulos de las orejas, los hombros, etc
-- FILTRO SOLAR EFICAZ Su eficaz filtro solar SPF 50 protege contra los efectos quemantes y envejecedores de los rayos UVA y UVB, promoviendo una piel de aspecto más saludable. La barra ligera de máxima protección se desliza suavemente e invisiblemente para una fácil aplicación con una sola mano
 - RESISTENTE Y NO COMEDOGÉNICO Este stick solar es resistente al agua y a la transpiración, garantizando una protección duradera incluso durante actividades al aire libre. Además, es no comedogénico, lo que significa que no obstruirá los poros de la piel, permitiendo que respire libremente mientras permanece protegida del sol
+- FILTRO SOLAR EFICAZ Su eficaz filtro solar SPF 50 protege contra los efectos quemantes y envejecedores de los rayos UVA y UVB, promoviendo una piel de aspecto más saludable. La barra ligera de máxima protección se desliza suavemente e invisiblemente para una fácil aplicación con una sola mano
 - PROTECTOR SOLAR EIGHT HOUR combina los legendarios beneficios de Eight Hour Cream con una intensa protección solar diseñada específicamente para las zonas sensibles y sobreexpuestas, como los labios, la nariz, los lóbulos de las orejas e incluso las cicatrices. Ya sea en la playa en verano o en las pistas de esquí en invierno, este producto es imprescindible para disfrutar del sol durante todo el año
+- CONSEJOS DE USO Aplicar generosamente en las zonas que necesitan protección antes de la exposición al sol. Utilízalo sobre la marcha para retocar puntos vulnerables como los labios, la nariz y las mejillas, las puntas y los lóbulos de las orejas, los hombros, etc
 - RECOMENDACIONES Combina con el resto de bálsamos, cremas y Aceites de Eight Hour para mantener tu piel hidratada, aliviada y protegida en todo momento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

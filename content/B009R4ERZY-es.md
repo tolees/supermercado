@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se entrega en una bolsa segura y protegida contra cualquier golpe.
 - Producto de calidad, con posibilidad de devolución de 30 días desde la entrega del artículo
+- Se entrega en una bolsa segura y protegida contra cualquier golpe.
 - Producto para animales
 - Lata de 85 g
 

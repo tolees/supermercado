@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una vez abierto conservar en el frigorífico
-- Fabricado sin colorantes, conservantes ni sabores artificiales
 - Contiene nutrientes que ayudarán al bebé a crecer
+- Una vez abierto conservar en el frigorífico
 - Con un ligero y fresco sabor a fresa
+- Fabricado sin colorantes, conservantes ni sabores artificiales
 - Es una fuente natural de calcio
 
 [🛒 Comprar!!!]({{< param buyurl >}})

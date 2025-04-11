@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Posee antioxidantes que protegen frente a la radiación diaria y polución ambiental
 - Alto contenido en grasas omega, que aporta un extra de hidratación por su poder humectante
 - Estabilizador del ph gracias a sus ácidos grasos
+- Posee antioxidantes que protegen frente a la radiación diaria y polución ambiental
 - Contiene vitamina e, poderoso antioxidante que previene el envejecimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

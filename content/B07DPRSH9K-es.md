@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de producto - Mascarilla
 - Marca - Wella
 - Género - Mujer
+- Tipo de producto - Mascarilla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07DPRSH9K{{</world>}}

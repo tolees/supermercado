@@ -30,10 +30,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - MODO DE EMPLEO: Aplicar directamente sobre el pelaje seco de la mascota empolvando la zona a limpiar y evitando el contacto con los ojos. Masajear a fondo desde la punta del pelo hasta la piel para que el producto se adhiera y cepillar vigorosamente.
 - ELIMINA LOS OLORES: su fórmula contiene tensioactivos naturales que eliminan el mal olor desodorizando e higienizando el pelaje.
-- CHAMPÚ EN POLVO: Champú en polvo para roedores, conejos y hurones indicado para el mantenimiento y la higiene del pelaje sin la utilización de agua.
 - USO EN: Recomendado para su uso para cachorros, animales convalecientes, en gestación, muy ancianos, con miedo al agua o para la limpieza en los duros días del invierno cuando el baño habitual no es muy indicado.
 - Rango de edad: todas las etapas de la vida
 - EXTRACTO DE MARGOSA Y GERANIOL: Contiene extracto de margosa y geraniol, insecticida naturales, que previenen y repelen todo tipo de insectos, pulgas, garrapatas mosquitos y ácaros.
+- CHAMPÚ EN POLVO: Champú en polvo para roedores, conejos y hurones indicado para el mantenimiento y la higiene del pelaje sin la utilización de agua.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09NRQVFG8{{</world>}}

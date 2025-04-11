@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capacidad de 70 cl
-- Sabor con toque cítrico y fresco aportado por la lima, el pomelo, la cáscara de naranja y limón y cilantro
-- Envase de vidrio
-- Ginebra Puerto de Indias Classic Gin, 70 cl
 - Ginebra Premium de carácter corpulento, intenso y cítrico, que aporta al paladar un toque muy fresco.
+- Capacidad de 70 cl
+- Envase de vidrio
+- Sabor con toque cítrico y fresco aportado por la lima, el pomelo, la cáscara de naranja y limón y cilantro
+- Ginebra Puerto de Indias Classic Gin, 70 cl
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B014E7UHRU{{</world>}}

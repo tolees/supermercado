@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aliento fresco: Pasta de dientes con una banda refrescante para una sensación extra de frescura
 - Formato: Pack de 12 unidades de 75 mililitros
+- Aliento fresco: Pasta de dientes con una banda refrescante para una sensación extra de frescura
 - Dientes más blancos: Elimina las manchas de la superficie
 - Ayuda a prevenir caries: Protección anticaries probada
 

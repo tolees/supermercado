@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Deliciosas piezas en forma de lagartones con sabor a frutas
 - Con recubrimiento de azúcar
+- Deliciosas piezas en forma de lagartones con sabor a frutas
 - Conservar en lugar fresco y seco
 - Caramelos de goma
 

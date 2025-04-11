@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los pigmentos de color aseguran un resultado natural
-- La fórmula gel-crema es de aplicación sedosa y cómoda de llevar
 - Colorete líquido Cheek Heat
+- La fórmula gel-crema es de aplicación sedosa y cómoda de llevar
 - Fórmula ligera a base de agua
+- Los pigmentos de color aseguran un resultado natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0816PX8DL{{</world>}}

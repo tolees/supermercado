@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenar en lugar fresco y seco
-- Fuente de potasio
-- Fuente de calcio
 - Rico en vitamina D
 - Leche de vaca semidesnatada conservando los valores nutricionales necesarios
+- Fuente de potasio
+- Fuente de calcio
+- Almacenar en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ITRIBGU{{</world>}}

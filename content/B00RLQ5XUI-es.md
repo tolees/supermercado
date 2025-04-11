@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hasta 70 días de frescor, disfruta de un aroma duradero y consistente para tu hogar
+- Fragancia Lirio de Luna y Satén de Seda, descubre una lujosa combinación de lirios, rosas y peonias envueltas en suaves notas de vainilla
 - Recambio para ambientador spray automático Air Wick Freshmatic
 - El ambalaje puede variar
-- Fragancia Lirio de Luna y Satén de Seda, descubre una lujosa combinación de lirios, rosas y peonias envueltas en suaves notas de vainilla
+- Hasta 70 días de frescor, disfruta de un aroma duradero y consistente para tu hogar
 - Descubre el resto de fragancias Air Wick Freshmatic
 - Elige entre tres niveles de intensidad para conseguir tu nivel de fragancia deseada
 

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con almendras y jalea real
 - Jabón de manos nutritivo con protección total contra agentes externos
 - Deja las manos limpias, suaves, nutridas y delicadamente perfumadas
-- Con almendras y jalea real
 - Complejo dermo reparador con ingredientes de origen natural
 - Testado dermatológicamente
 

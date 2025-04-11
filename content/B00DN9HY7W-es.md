@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - SIN GRASA DE PALMA Y CON MUY BAJO CONTENIDO DE SAL: Elaborados con grasa vegetal de coco. Su muy bajo contenido de sal es muy conveniente para personas que deben controlar la ingesta de este mineral.
 - CONSERVACIÓN: Mantener en lugar fresco y seco. Una vez abierto cerrar bien el paquete.
 - TEXTURA CRUJIENTE: Deliciosa oblea crujiente rellena de suaves capas de crema de coco. Perfectos como postre, desayuno o merienda.
-- VEGANO: Producto apto para veganos, elaborado sin ingredientes de origen animal. No contiene lactosa ni huevo.
 - SIN AZÚCAR AÑADIDO: Contienen solo los azúcares naturalmente presentes en los ingredientes. Endulzados con edulcorante.
+- VEGANO: Producto apto para veganos, elaborado sin ingredientes de origen animal. No contiene lactosa ni huevo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00DN9HY7W{{</world>}}

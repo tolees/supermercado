@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La receta de la inconfundible ginebra Tanqueray London Dry Gin se remonta a 1830, cuando Charles Tanqueray creó el equilibrio adecuado entre cuatro botánicos: el enebro refrescante, la angélica aromática, el cilantro picante y el regaliz dulce; es la síntesis de ingenio, tradición y dedicación
-- Tanqueray Flor de Sevilla se elabora con naranjas de Sevilla y flores de azahar, además de los cuatro botánicos de nuestra ginebra London Dry
-- Una ginebra elaborada con naranjas de Sevilla y flores de azahar con un sabor cítrico, afrutado y chispeante
-- Aprecia el delicioso aroma a cítircos y piel de naranja, y saborea las notas equilibradas de enebro, naranja, vainilla y especias
-- Adecuada para disfrutar en un gin-tonic con tónica de lujo, mucho hielo y una rodaja de naranja exprimida sobre la mezcla y usada como aderezo
 - Graduación alcohólica: 41,3 %
+- Una ginebra elaborada con naranjas de Sevilla y flores de azahar con un sabor cítrico, afrutado y chispeante
+- La receta de la inconfundible ginebra Tanqueray London Dry Gin se remonta a 1830, cuando Charles Tanqueray creó el equilibrio adecuado entre cuatro botánicos: el enebro refrescante, la angélica aromática, el cilantro picante y el regaliz dulce; es la síntesis de ingenio, tradición y dedicación
+- Adecuada para disfrutar en un gin-tonic con tónica de lujo, mucho hielo y una rodaja de naranja exprimida sobre la mezcla y usada como aderezo
 - Tanqueray Flor de Sevilla es ganadora de plata y bronce en la San Francisco World Spirits Competiton en 2019 y 2020 respectivamente
+- Tanqueray Flor de Sevilla se elabora con naranjas de Sevilla y flores de azahar, además de los cuatro botánicos de nuestra ginebra London Dry
+- Aprecia el delicioso aroma a cítircos y piel de naranja, y saborea las notas equilibradas de enebro, naranja, vainilla y especias
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07C8NJV9P{{</world>}}

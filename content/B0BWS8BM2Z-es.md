@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- EL PRIMER LATTE HIDRATANTE DEL MUNDO: Siéntete hidratado y energizado con esta mezcla patentada de electrolitos, vitaminas, minerales y café orgánico 100% auténtico e importado de fuente única
-- BAJO EN CALORÍAS Y CARBOHIDRATOS: un cremoso café con leche de 20 calorías y sólo 1 gramo de azúcar, con la energía de un espresso y los electrolitos de 4 litros de agua
-- KETO, VEGANO Y SIN LÁCTEOS: disfruta de un café con leche orgánico de HALO sin sentirte culpable, ya que está lleno de energía e hidrata más rápido que el agua por sí sola
 - SÍRVELO, BÁTELO, BÉBELO: combina un sobre con 250-500 ml de agua fría, agita vigorosamente y disfruta de un delicioso café con leche en cualquier momento y lugar
+- EL PRIMER LATTE HIDRATANTE DEL MUNDO: Siéntete hidratado y energizado con esta mezcla patentada de electrolitos, vitaminas, minerales y café orgánico 100% auténtico e importado de fuente única
+- KETO, VEGANO Y SIN LÁCTEOS: disfruta de un café con leche orgánico de HALO sin sentirte culpable, ya que está lleno de energía e hidrata más rápido que el agua por sí sola
 - CAFÉ REALMENTE HIDRATANTE: potencia tu cuerpo y fortalece tus defensas con esta solución de vitaminas esenciales B1, B3, B6, B12 y C, superpotenciada con electrolitos y minerales como zinc y magnesio
+- BAJO EN CALORÍAS Y CARBOHIDRATOS: un cremoso café con leche de 20 calorías y sólo 1 gramo de azúcar, con la energía de un espresso y los electrolitos de 4 litros de agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BWS8BM2Z{{</world>}}

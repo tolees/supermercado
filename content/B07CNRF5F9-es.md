@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Es una cerveza muy versátil que marida bien con una amplia variedad de alimentos, como quesos frescos, verduras y hortalizas frías, mariscos y pescados blancos
-- Forma parte de Estrella Galicia, que ha recibido premios internacionales como el World Beer Award, el International Beer Challenge y el Brussels Beer Challenge, que reconocen la calidad y sabor de las cervezas, además de la dedicación a la innovación y excelencia en la elaboración
-- Cerveza lager sin alcohol con un gran equilibrio entre el sabor de las maltas y lúpulos, resultando en una cerveza compleja y muy refrescante. Se recomienda su consumo entre 4 y 5º
-- De color amarillo dorado intenso. Su aroma recuerda a las maltas empleadas en la elaboración del mosto cervecero, con sutiles notas florales y lupuladas
 - Elaborada con agua de la ciudad de A Coruña, MALTAS de tipo Pilsen y tostada, LÚPULOS Nugget y Perle Hallertau y LEVADURA seleccionada. Alc 0% vol
+- Cerveza lager sin alcohol con un gran equilibrio entre el sabor de las maltas y lúpulos, resultando en una cerveza compleja y muy refrescante. Se recomienda su consumo entre 4 y 5º
+- Forma parte de Estrella Galicia, que ha recibido premios internacionales como el World Beer Award, el International Beer Challenge y el Brussels Beer Challenge, que reconocen la calidad y sabor de las cervezas, además de la dedicación a la innovación y excelencia en la elaboración
+- Es una cerveza muy versátil que marida bien con una amplia variedad de alimentos, como quesos frescos, verduras y hortalizas frías, mariscos y pescados blancos
+- De color amarillo dorado intenso. Su aroma recuerda a las maltas empleadas en la elaboración del mosto cervecero, con sutiles notas florales y lupuladas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07CNRF5F9{{</world>}}

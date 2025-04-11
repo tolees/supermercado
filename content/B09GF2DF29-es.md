@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Como máximo 1,3 g de azúcar por barrita
 - Sin aceite de palma
 - Contenido reducido de hidratos de carbono
 - Con una deliciosa capa extra con sabor a caramelo
 - Alto contenido en proteínas: 20 g de proteínas por barrita (correspondiente al 40% de proteínas)
-- Como máximo 1,3 g de azúcar por barrita
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09GF2DF29{{</world>}}

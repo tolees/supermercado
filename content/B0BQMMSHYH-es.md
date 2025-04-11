@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consume una ración al día (30 gramos, 3/4 del dosificador) con 250 ml de agua. Consume una ración después del entrenamiento en los días que hagas ejercicios y a cualquier hora en los días de descanso.
-- Bajo contenido de azúcar, sin gluten*, sin aceite de palma (*Sin gluten, en conformidad con la normativa de la Unión Europea.)
 - Amplia gama de sabores
+- Bajo contenido de azúcar, sin gluten*, sin aceite de palma (*Sin gluten, en conformidad con la normativa de la Unión Europea.)
+- Consume una ración al día (30 gramos, 3/4 del dosificador) con 250 ml de agua. Consume una ración después del entrenamiento en los días que hagas ejercicios y a cualquier hora en los días de descanso.
 - Este producto incorpora también aminoácidos añadidos –leucina, glutamina, arginina y taurina–, además de los aminoácidos que componen las proteínas. Finalmente, incorpora enzimas que apoyan la degradación de las proteínas, como la papaína y la bromelaína.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

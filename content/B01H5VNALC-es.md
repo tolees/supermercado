@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Envase 100% reciclable
 - Formulado con Leche de Avena, conocida por sus virtudes de ciudado y protección del cabello; y con Crema de Arroz, utilizada en el cuidado de las pieles delicadas y conocida por calmar y suavizar el cuero cabelludo sensible
 - La Mascarilla Capilar hidrata, da brillo y calma el cuero cabelludo, protegiendo y reduciendo la sensación de picor en tu pelo
-- Aplicar sobre cabello mojado después del champú, masajeando de largos a puntas. Dejar actuar de 2 a 3 minutos y luego aclarar
+- Envase 100% reciclable
 - 300 ml
+- Aplicar sobre cabello mojado después del champú, masajeando de largos a puntas. Dejar actuar de 2 a 3 minutos y luego aclarar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01H5VNALC{{</world>}}

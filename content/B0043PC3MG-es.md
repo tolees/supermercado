@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - D.O.Ca Rioja, Rioja Alta
-- Tempranillo 85%, Garnacha 10% y Graciano 5%.
 - Montecillo Crianza es un Rioja clásico, complejo y equilibrado perfecto para disfrutar en cualquier ocasión.
 - Ideal con guisos, embutidos y todo tipo de carnes y asados propios de la dieta mediterránea.
+- Tempranillo 85%, Garnacha 10% y Graciano 5%.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0043PC3MG{{</world>}}

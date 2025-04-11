@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Debido a su color claro y sabor suave, la proteína de guisante puede ser añadida a cualquier alimento sin alterar apenas sus cualidades sensoriales.
-- Ingredientes procedentes de Agricultura Ecológica. Este producto se fabrica en una planta donde se manipulan frutos secos y soja
 - Concentrado de proteína ecológica de guisante al 80% en polvo.
+- Debido a su color claro y sabor suave, la proteína de guisante puede ser añadida a cualquier alimento sin alterar apenas sus cualidades sensoriales.
 - Mezclar un par de cucharadas soperas (20-25 g) en un vaso de su bebida favorita o añadir a batidos, smoothies, yogures, etc. Además, debido a su excelente comportamiento en cocina, es ideal para preparar salsas, postres y productos horneados y de repostería.
 - Almacenar en lugar fresco y seco, preferentemente protegido del aire y de la luz.
+- Ingredientes procedentes de Agricultura Ecológica. Este producto se fabrica en una planta donde se manipulan frutos secos y soja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B095DD8M6T{{</world>}}

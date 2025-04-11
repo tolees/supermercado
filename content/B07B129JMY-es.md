@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
-- Tómate un respiro y recarga pilas con KIT KAT, donde y cuando quieras
 - Contiene 24 packs de bolsas de KITKAT (12 x 200 g)
-- 4 deliciosas barritas de crujiente galleta recubierta de suave chocolate con leche
+- Tómate un respiro y recarga pilas con KIT KAT, donde y cuando quieras
 - 100% aromas naturales
+- 4 deliciosas barritas de crujiente galleta recubierta de suave chocolate con leche
+- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
 - Nestlé KitKat chocolate con leche, la mejor excusa para tomarse un RESPIRO
 
 [🛒 Comprar!!!]({{< param buyurl >}})

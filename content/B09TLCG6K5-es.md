@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ESPRESSO MAESTRO: Saboree el auténtico espresso, disfrute de la obra maestra italiana, con esta selección especial de café en grano. Espresso sostenible, bio y de alta calidad. Un homenaje a Luigi Lavazza, el inventor del arte de la mezcla
+- INTENSIDAD: El tueste medio, lento y suave, y el nivel de intensidad 9/10 confieren a este café un sabor equilibrado y aromático, para un espresso con un color dorado
 - LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
 - El término italiano “torrefatto” que aparece en el envase original significa “tostado” y no se refiere de ninguna manera a una variedad de café torrefacto
-- INTENSIDAD: El tueste medio, lento y suave, y el nivel de intensidad 9/10 confieren a este café un sabor equilibrado y aromático, para un espresso con un color dorado
-- NOTAS AROMÁTICAS: Espresso Maestro es una selección de café caracterizada por notas aromáticas de frutos secos y chocolate y se elabora imitando las técnicas empleadas en la droguería de Luigi, para producir el resultado perfecto en taza
-- VARIEDAD: Espresso Maestro se compone de una selección de café orgánico de alta calidad procedente de México, mezclado con finos Arábicas y Robustas procedentes de África y Sudamérica
 - CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
+- NOTAS AROMÁTICAS: Espresso Maestro es una selección de café caracterizada por notas aromáticas de frutos secos y chocolate y se elabora imitando las técnicas empleadas en la droguería de Luigi, para producir el resultado perfecto en taza
+- ESPRESSO MAESTRO: Saboree el auténtico espresso, disfrute de la obra maestra italiana, con esta selección especial de café en grano. Espresso sostenible, bio y de alta calidad. Un homenaje a Luigi Lavazza, el inventor del arte de la mezcla
+- VARIEDAD: Espresso Maestro se compone de una selección de café orgánico de alta calidad procedente de México, mezclado con finos Arábicas y Robustas procedentes de África y Sudamérica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09TLCG6K5{{</world>}}

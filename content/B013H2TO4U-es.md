@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se puede usar para preparar cócteles
-- Rica y dulce con notas de peras maduras, caramelo de vainilla y canela
-- Con un final prolongado y agradable
 - Tono oscuro con un cálido brillo ámbar
+- Con un final prolongado y agradable
 - Un intenso y rico whisky escocés de 13 años madurado selectivamente en barricas de jerez oloroso de primer llenado
+- Rica y dulce con notas de peras maduras, caramelo de vainilla y canela
+- Se puede usar para preparar cócteles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B013H2TO4U{{</world>}}

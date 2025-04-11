@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Máscara de pestañas que da volumen y definición durante 16 horas
 - Libre de parabenos y apta para ojos sensibles y usuarias de lentes de contacto
 - Su fórmula negra perlada proporciona volumen sin grumos
 - Viene con un espejo de aumento X3 que fácilita la aplicación
+- Máscara de pestañas que da volumen y definición durante 16 horas
 - El cepillo con cerdas largas y cortas atrapa cada pestaña
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

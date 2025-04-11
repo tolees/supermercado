@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alimento complementario para perros adultos
-- Bajo en grasa. Sin Cereales
-- Con kelp, una fuente natural de vitaminas y minerales
-- Componentes analíticos: Proteína 18,5 %, Contenido de grasa 2,7 %, Materia inorgánica 6 %, Humedad 19 %, Fibra bruta 2,3 %. Valor energético: 268 kcal por 100 g
 - Enriquecido con vitaminas y minerales
-- Ayuda a reducir la formación de placa dental
 - Fabricado en España
 - Contenido del paquete: 8 x 56g
+- Componentes analíticos: Proteína 18,5 %, Contenido de grasa 2,7 %, Materia inorgánica 6 %, Humedad 19 %, Fibra bruta 2,3 %. Valor energético: 268 kcal por 100 g
+- Bajo en grasa. Sin Cereales
+- Ayuda a reducir la formación de placa dental
 - Con frutas: contiene extractos cítricos ricos en bioflavonoides y manzana como una fuente de antioxidantes naturales
+- Alimento complementario para perros adultos
+- Con kelp, una fuente natural de vitaminas y minerales
 - Guardar en un lugar fresco, seco y oscuro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

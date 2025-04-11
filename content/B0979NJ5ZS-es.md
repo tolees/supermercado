@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - INSOMNIO: La melatonina te ayuda a regular el ciclo del sueño, ayudandote a descansar mientras duermes.
 - ¿CUÁNDO TOMARLA?: Tomala 30 minutos antes de irte a la cama
-- MELATONIN GUMMIES de Weider, compañía global pionera en nutrición deportiva y especializada con más de 83 años ofreciendo calidad e innovación.
 - SIN ALÉRGENOS: Nuestras gominolas no contienen alérgenos. Se fabrican con los más altos estandares de calidad.
 - JET-LAG: La melatonina es tu mejor aliada para esos viajes largos en los que tanto te cuesta coger el sueño. ¡Con nuestras gominolas de melatonina eso ya no será un problema!
+- MELATONIN GUMMIES de Weider, compañía global pionera en nutrición deportiva y especializada con más de 83 años ofreciendo calidad e innovación.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0979NJ5ZS{{</world>}}

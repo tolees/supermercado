@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Bajo en carbohidratos
 - Ingredientes: atún claro, aceite de oliva y sal
+- Sin gluten
 - Pais de origen: España
 - Certificación responsable por aenor
-- Sin gluten
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01IU8ZP8A{{</world>}}

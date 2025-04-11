@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplícalo en la barba hasta formar una espuma y aclara
-- Aplica una capa fina en las áreas que vas a afeitar y perfilar, afeita y aclara
 - Gel de afeitar transparente para barba con té blanco y aceite de argán
-- Hidrata la piel seca bajo la barba
-- Aplica unas gotas al día (más en barbas más largas) sobre la palma de la mano y, a continuación, aplica el tratamiento en la barba y la piel
 - Limpia e hidrata el pelo del rostro y deja una sensación de limpieza y frescura en tu piel todo el día
 - Este gel que no hace espuma conserva la transparencia durante el afeitado para que puedas perfilarte con precisión todos los días
-- Gel refrescante limpiador para barba y rostro con agua de coco, aceite de argán y aceite de aguacate
+- Hidrata la piel seca bajo la barba
+- Aplica unas gotas al día (más en barbas más largas) sobre la palma de la mano y, a continuación, aplica el tratamiento en la barba y la piel
+- Aplica una capa fina en las áreas que vas a afeitar y perfilar, afeita y aclara
 - Aceite que suaviza el pelo de la barba
+- Gel refrescante limpiador para barba y rostro con agua de coco, aceite de argán y aceite de aguacate
+- Aplícalo en la barba hasta formar una espuma y aclara
 - Diseñado para que logres el estilo facial que desees; especialmente formulado para afeitarse y perfilar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

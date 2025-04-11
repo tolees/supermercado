@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene una textura fundente que calca tu tono y subtono para un resultado natural
 - Ofrece hidratación continua y duradera 24 horas
-- Marca: LOreal Paris
 - Resultado, un tono sublime, unificado a medida
+- Marca: LOreal Paris
+- Tiene una textura fundente que calca tu tono y subtono para un resultado natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B015JB2VAQ{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con sabor a jamón y queso
-- Auténticas patatas fritas
-- Para disfrutar en cualquier momento
 - Ideal como snack
+- Para disfrutar en cualquier momento
+- Auténticas patatas fritas
 - Apto para toda la familia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

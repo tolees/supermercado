@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cerveza artesanal de estilo Belgian White
-- Cerveza turbia sin filtrar
 - Sutil dulzor debido a la utilización de naranja Valencia en su elaboración
+- Cerveza turbia sin filtrar
+- Cerveza artesanal de estilo Belgian White
 - Afrutado toque cítrico y ligero y especiado aroma a trigo
 - La cerveza artesanal más vendida del mundo
 

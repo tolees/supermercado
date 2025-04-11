@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elimina sin esfuerzo el maquillaje y extrae la suciedad de rostro, labios y ojos
 - Limpiador suave que extrae la suciedad y las impurezas sin secar la piel
+- Elimina sin esfuerzo el maquillaje y extrae la suciedad de rostro, labios y ojos
 - Agua micelar clásica todo en uno, formato viaje
 - Adecuada para todo tipo de pieles, incluso las más sensibles
 - Fórmula suave y sin perfume

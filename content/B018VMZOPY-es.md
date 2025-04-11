@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ‎Mantener en lugar fresco y seco
-- Paquete de 9 unidades
 - Evitar el contacto directo con el suelo
+- ‎Mantener en lugar fresco y seco
 - Proteger de la luz solar y de olores agresivos
+- Paquete de 9 unidades
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B018VMZOPY{{</world>}}
