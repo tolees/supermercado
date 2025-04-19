@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Es posible que reciba este producto con un embalaje antiguo, ya que estamos en transición hacia un nuevo diseño. Excepto por el diseño, el producto es completamente el mismo
 - El romero es una hierba medicinal que se ha utilizado desde la antigüedad
 - Famoso por sus características antisépticas y fortalecientes, así como por su capacidad para aumentar la circulación sanguínea
-- Urtekram está certificado para 100% cosmética natural de puramente vegetal ingredientes. la valiosa extracto bio se en casa Urtekram fabricado y el producto terminado más calidad
 - Certificado por Ecocert Cosmos Organic, Vegan y Cruelty Free. Bio. 100% libre de silicona, libre de parafina, libre de aceite bruto. Fabricado y diseñado en Dinamarca
-- Es posible que reciba este producto con un embalaje antiguo, ya que estamos en transición hacia un nuevo diseño. Excepto por el diseño, el producto es completamente el mismo
+- Urtekram está certificado para 100% cosmética natural de puramente vegetal ingredientes. la valiosa extracto bio se en casa Urtekram fabricado y el producto terminado más calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07GBC5SYV{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Volumen en boca, muy untuoso, acidez equilibrada, persistente y largo. Combina perfectamente con pescado y marisco fresco, pasta, arroces y carnes blancas.
-- 100 % Verdejo
+- Intensidad aromática alta, fresco, agradable
 - Crianza sobre lías
+- 100 % Verdejo
+- Volumen en boca, muy untuoso, acidez equilibrada, persistente y largo. Combina perfectamente con pescado y marisco fresco, pasta, arroces y carnes blancas.
 - Amarillo pajizo, con tonos verdes, vivo
 - D.O. Rueda
-- Intensidad aromática alta, fresco, agradable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0915XZS3H{{</world>}}

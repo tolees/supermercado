@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ponemos en valor la necesidad de encontrar la igualdad en las universidades, centros de estudio, organizaciones y empresas para que el sistema premie a todos por igual y permita avanzar de la misma manera a hombres y mujeres.
-- El techo de cristal es una barrera invisible que encuentran las mujeres a la hora de conseguir un ascenso en su trabajo, independientemente de sus logros. Obstáculos difíciles de atravesar como los estereotipos de género o la conciliación familiar.
 - Edición especial en el Día de la Mujer “The Breaking Bottle”, con la que alzamos la voz contra el techo de cristal.
+- El techo de cristal es una barrera invisible que encuentran las mujeres a la hora de conseguir un ascenso en su trabajo, independientemente de sus logros. Obstáculos difíciles de atravesar como los estereotipos de género o la conciliación familiar.
 - Todos los beneficios irán destinados al programa WOW UP de la Fundación CESUR y sus proyectos de emprendimiento femenino que luchan por romper el techo de cristal.
 - La botella se presenta con un vidrio de efecto craquelado y cambia su sello habitual por un espejo en el que mirarse, tomar conciencia de las barreras invisibles a las que se enfrentan muchas profesionales y romper entre todos la injusticia del techo de cristal.
+- Ponemos en valor la necesidad de encontrar la igualdad en las universidades, centros de estudio, organizaciones y empresas para que el sistema premie a todos por igual y permita avanzar de la misma manera a hombres y mujeres.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVRGLDZB{{</world>}}

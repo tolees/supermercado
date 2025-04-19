@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Instrucciones para su uso adecuado: Mantener en lugar fresco y seco
-- Lata de 750 g para un consumo de volumen, especial hostelería. inluye tapa de plástico para cerrar una vez abierto
-- Método de pesca: cerco. ver especie y zona de pesca en la lata
+- Conserva de atún claro en aceite de oliva tapa easy-peel, abré ras
 - Advertencia de seguridad: Una vez abierto consumir en su totalidad
 - Información de alérgenos: fish
-- En aceite de oliva, gran corte de pescado
+- Método de pesca: cerco. ver especie y zona de pesca en la lata
 - Ingredientes: Ingredientes: Atún claro (especie: ver lata) (pescado) aceite de oliva y sal
-- Conserva de atún claro en aceite de oliva tapa easy-peel, abré ras
 - País de origen: españa, producto natural sin conservantes ni colorantes
+- En aceite de oliva, gran corte de pescado
+- Lata de 750 g para un consumo de volumen, especial hostelería. inluye tapa de plástico para cerrar una vez abierto
+- Instrucciones para su uso adecuado: Mantener en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FY31V8G{{</world>}}

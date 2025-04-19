@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con Aloe Vera 100% natural.
-- Textura suave y cremosa.
 - Gel de ducha purificante.
+- Textura suave y cremosa.
 - Abundate espuma.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

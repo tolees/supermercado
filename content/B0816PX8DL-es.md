@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fórmula ligera a base de agua
 - Colorete líquido Cheek Heat
+- Fórmula ligera a base de agua
 - Los pigmentos de color aseguran un resultado natural
 - La fórmula gel-crema es de aplicación sedosa y cómoda de llevar
 

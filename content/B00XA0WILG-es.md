@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Milka es un producto tradicional. Por ello, desde hace más de 100 años utilizamos exclusivamente leche de la región de los Alpes para nuestro chocolate. Comprobamos cada litro de leche que recibimos de nuestros proveedores para aseguramos de que proviene al 100% de los valles y altos valles de los Alpes y la región subalpina.
-- Con un su sabrosa combinación del clásico sabor a Chips Ahoy! y el chocolate más suave, hacen de estos trozos de chocolate el descanso más tierno y delicioso del día. Excelentes para disfrutar con familia y amigos, desayunos, postres o en meriendas escolares para los niños.
 - La tableta de chocolate con leche Milka acompañada de las deliciosas galletas Chips Ahoy! con pepitas de chocolate y un cremoso relleno, crean la perfecta combinación para servir como un irresistible tentempié, para picar como snack o para disfrutar de un dulce descanso.
-- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
 - Desde 1964, las galletas Chips Ahoy! están llenas de chispas de chocolate horneadas en cada bocado, para proporcionar la cantidad perfecta de textura y crujido. Chips Ahoy! nos da en cada cookie un trozo de felicidad repleto de pepitas de chocolate y un riquísimo sabor.
+- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
+- Con un su sabrosa combinación del clásico sabor a Chips Ahoy! y el chocolate más suave, hacen de estos trozos de chocolate el descanso más tierno y delicioso del día. Excelentes para disfrutar con familia y amigos, desayunos, postres o en meriendas escolares para los niños.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA0WILG{{</world>}}

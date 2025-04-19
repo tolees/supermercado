@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ginebra premium Puerto de Indias con sabor de fresas naturales. Una ginebra en la que se mezclan la esencia de las fresas y una cuidadosa selección de ingredientes que completan y perfilan el producto
 - Nota de cata: inconfundible aroma a fresas naturales con amplios matices de fresa y enebro con ligeros toques cítricos.
 - La icónica botella de Puerto de Indias se tiñe de rojo para celebrar el amor por las ferias
-- Sabor obtenido del procesamiento de fresas y enebro
 - El objetivo de esta edición limitada es vivir la esencia de las Ferias junto al sabor de la Ginebra de Puerto de Indias
+- Ginebra premium Puerto de Indias con sabor de fresas naturales. Una ginebra en la que se mezclan la esencia de las fresas y una cuidadosa selección de ingredientes que completan y perfilan el producto
+- Sabor obtenido del procesamiento de fresas y enebro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09885LGQD{{</world>}}

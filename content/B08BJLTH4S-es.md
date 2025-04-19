@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rollos de Cocina 100% Reciclados, Blancos y de 2 Capas
-- Paquete de 2 rollos XXL (equivalentes a 5 rollos estándar), de 100 servicios cada uno
-- Certificados FSC y EcoLabel
 - Envueltos en papel reciclable y biodegradable en vez de plástico
+- Paquete de 2 rollos XXL (equivalentes a 5 rollos estándar), de 100 servicios cada uno
+- Rollos de Cocina 100% Reciclados, Blancos y de 2 Capas
+- Certificados FSC y EcoLabel
 - Sin perfumes ni tintas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

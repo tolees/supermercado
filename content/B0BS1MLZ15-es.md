@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con protección total contra agentes externos
-- Este jabón mantiene la hidratación natural de la piel
-- Deja las manos limpias
 - Está formulado con ingredientes de origen natural
+- Este jabón mantiene la hidratación natural de la piel
+- Con protección total contra agentes externos
+- Deja las manos limpias
 - Contiene extractos de aloe vera y té verde
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

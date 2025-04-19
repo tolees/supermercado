@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula con aceite de argán que fortalece y nutre las pestañas una a una
 - Mirada natural y ligera
-- Definidas y acondicionadas.Waterpoof
+- Fórmula con aceite de argán que fortalece y nutre las pestañas una a una
 - Cepillo flexible de silicona que abraza las pestañas definiendolas desde la raíz a las puntas
+- Definidas y acondicionadas.Waterpoof
 - Captura y envuelve cada pestaña para hacerlas más gruesas sin dejar grumos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

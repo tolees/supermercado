@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La única que reposa en tanques horizontales durante 28 días para proporcionar la presión perfecta a la levadura
-- Ingredientes Naturales: Agua, malta de cebada, lúpulo y la levadura tipo A única de Heineken
-- El embalaje puede variar
-- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
-- Mantener en un zona seca, limpia
 - De color amarillo brillante y espuma blanca intensa. Con aroma frutal, con ligero sabor dulce y amargor suave
+- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
+- La única que reposa en tanques horizontales durante 28 días para proporcionar la presión perfecta a la levadura
+- El embalaje puede variar
+- Mantener en un zona seca, limpia
+- Ingredientes Naturales: Agua, malta de cebada, lúpulo y la levadura tipo A única de Heineken
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DU9G5BK{{</world>}}

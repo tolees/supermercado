@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Es un producto ecologico
-- Con aceite de oliva extra
 - No contiene gluten
+- Con aceite de oliva extra
+- Es un producto ecologico
 - Sin azúcares añadidos
 - De textura crujiente
 

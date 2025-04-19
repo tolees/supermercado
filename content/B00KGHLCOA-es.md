@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Kallos lab 35 signature hair conditioner 500 ml
-- Kallos lab 35 signature hair conditioner 500 mlkallos
 - Productos para tu cuidado personal, para tu bienestar, y para la higiene personal.
+- Kallos lab 35 signature hair conditioner 500 mlkallos
+- Kallos lab 35 signature hair conditioner 500 ml
 - Producto que combina tradición e innovación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

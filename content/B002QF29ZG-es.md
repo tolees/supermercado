@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de optimo calidad
 - Official Guzzini Product – Fabricado en Italia desde 1912
 - Dimensiones: 21,5 x 11 x h2 cm
+- Producto de optimo calidad
 - Colección: Bimbi - Designer: Guzzini Lab-Raffaele Gerardi
 
 [🛒 Comprar!!!]({{< param buyurl >}})

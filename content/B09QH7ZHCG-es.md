@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Deja el cabello hidratado
-- Apto para cabello deshidratado
 - Mascarilla capilar con ácido hialurónico
+- Apto para cabello deshidratado
+- Deja el cabello hidratado
 - Aporta hidratación hasta por 72 horas
 - No apelmaza el pelo
 

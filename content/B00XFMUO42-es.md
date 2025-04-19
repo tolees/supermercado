@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Agitar antes de servir
-- Con pulpa de fruta
-- Se debe conservar en un lugar fresco y seco
-- País de origen: España
 - Zumo de Piña, Manzana y Uva
+- Se debe conservar en un lugar fresco y seco
+- Con pulpa de fruta
+- País de origen: España
+- Agitar antes de servir
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XFMUO42{{</world>}}

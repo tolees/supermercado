@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para el cabello: Normal
 - facil de usar
-- Dimensiones del producto: 9,3 x 9,3 x 22 cm
 - producto de higiene para tu día a día.
+- Para el cabello: Normal
+- Dimensiones del producto: 9,3 x 9,3 x 22 cm
 - 1000 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

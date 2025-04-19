@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El artículo es el mismo, pero el embalaje puede variar
 - Alcance de entrega y detalles — NIVEA Tarro de crema (150 ml), cuidado clásico para todo tipo de piel con el original NIVEA Fragancia, número de artículo 80104
+- El artículo es el mismo, pero el embalaje puede variar
 - NIVEA Cream — La lata azul para toda la familia La NIVEA La crema nutre y protege todos los tipos de piel, en todas las edades y en cualquier ocasión
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nariz elegante, con fruta roja y negra madura
 - Elaborado con uvas de la variedad Tempranillo
+- Nariz elegante, con fruta roja y negra madura
 - Color intenso color rojo picota
 - Sabor muy equilibrado y con taninos redondos
 - Crianza 6 meses en barricas nuevas de roble francés y posteriormente 12 meses en botella

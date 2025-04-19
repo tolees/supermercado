@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🎊 IDEAL PARA: Fiestas de cumpleaños, San Valentín, Halloween, fiestas temáticas u otras ocasiones especiales. Nuestras piruletas mini corazón pintalenguas también son perfectas para incluirlas en piñatas y candy bar
-- 🍓 SABOR FRAMBUESA: Las piruletas mini corazón de Cerdán tienen un característico e inconfundible sabor a frambuesa, una auténtica delicia para el paladar de niños y adultos. Perfectas para compartir con amigos y familiares
 - 💯 CARAMELOS CERDÁN: Es una empresa familiar líder en Europa en la fabricación de caramelo duro con una amplia gama de productos para niños y adultos. Fundada en 1914, lleva más 100 años endulzando paladares por todo el mundo
-- 🚫 LIBRE DE ALÉRGENOS: Nuestros caramelos se fabrican en una fábrica que combina las más modernas tecnologías con la imaginación y el cuidado artesanal; sin gluten, lactosa, huevo, trazas de pescado o frutos secos
 - 💙 PIRULETA MINI CORAZÓN PINTALENGUAS: Clásica piruleta de corazón con sabor a frambuesa. Elaborada con colorantes naturales, libre de alérgenos y apta para veganos. Cada estuche contiene 200 piruletas
+- 🎊 IDEAL PARA: Fiestas de cumpleaños, San Valentín, Halloween, fiestas temáticas u otras ocasiones especiales. Nuestras piruletas mini corazón pintalenguas también son perfectas para incluirlas en piñatas y candy bar
+- 🚫 LIBRE DE ALÉRGENOS: Nuestros caramelos se fabrican en una fábrica que combina las más modernas tecnologías con la imaginación y el cuidado artesanal; sin gluten, lactosa, huevo, trazas de pescado o frutos secos
+- 🍓 SABOR FRAMBUESA: Las piruletas mini corazón de Cerdán tienen un característico e inconfundible sabor a frambuesa, una auténtica delicia para el paladar de niños y adultos. Perfectas para compartir con amigos y familiares
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0871X6ZHK{{</world>}}

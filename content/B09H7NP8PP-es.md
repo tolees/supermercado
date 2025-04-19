@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Contenido del envío – NIVEA MEN Sensitive Pro Ultra-Calming Crema Facial Hidratante, crema ligera de rápida absorción, apta para pieles sensibles, 1 x 75 ml, tubo.
+- Cuida el planeta – Para cuidar tu piel y también el planeta, esta crema NIVEA MEN no contiene microplásticos y viene en una caja de material 90% reciclado.
 - Fórmula vegana – La fórmula enriquecida de esta crema hidratante facial contiene aceite de cáñamo 100% orgánico y vitamina E para una piel de aspecto más sano.
 - Crema calmante – La crema facial NIVEA MEN tiene un efecto ultracalmante en el rostro y es apta para todo tipo de pieles, incluso para piel con barba.
 - Piel hidratada – Esta crema para la cara hidrata la piel al instante durante 24 horas y minimiza la sequedad, las irritaciones y las líneas de expresión.
-- Cuida el planeta – Para cuidar tu piel y también el planeta, esta crema NIVEA MEN no contiene microplásticos y viene en una caja de material 90% reciclado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09H7NP8PP{{</world>}}

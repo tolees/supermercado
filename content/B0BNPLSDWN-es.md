@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SEGURO CON EL ESMALTE: Este dentífrico blanqueante con tecnología de corrección del color es seguro con el esmalte para un uso diario
 - SONRISA MÁS BLANCA: Consigue unos dientes más blancos al instante* al cepillarte los dientes con el dentífrico blanqueador Colgate Max White Purple Reveal.
+- SEGURO CON EL ESMALTE: Este dentífrico blanqueante con tecnología de corrección del color es seguro con el esmalte para un uso diario
 - LO QUE OBTENDRÁ: Incluye cuatro (4) pastas dentales Max White Purple Reveal blanqueadoras con Tecnología de corrección óptica del color
 - TECNOLOGÍA ÓPTICA DE CORRECCIÓN DEL COLOR: Está clínicamente probado que este dentífrico blanqueante morado corrige al instante* los tonos amarillos. Inspirada en los champús de color morado que utilizan la ciencia del color que consigue que el morado anule inmediatamente el amarillo. *El efecto es temporal
 - ELIMINA LAS MANCHAS SUPERFICIALES: Esta pasta de dientes blanqueadora que actua al instante*, tiene una eficacia clínicamente probada para eliminar hasta el 100% de las manchas superficiales causadas por comida y bebida** **(Tras dos semanas de uso continuado)

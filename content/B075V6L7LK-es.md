@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Champú de JOANNA PROFESSIONAL
 - Redescubre la belleza que hay en ti
 - Los productos de la marca JOANNA PROFESSIONAL están fabricados con ingredientes de primera calidad
-- Champú de JOANNA PROFESSIONAL
 - Productos de Cuidado del cabello para Mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})

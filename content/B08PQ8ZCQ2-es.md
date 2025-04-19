@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pack de 24 botellas de 33 cl cada unal, de Cerveza Stella Artois con 5% de alcohol. Stella Artois es una cerveza premium lager de sabor agradable y suave con un punto de amargor. Es una cerveza muy equilibrada y es la premium pale lager belga más vendida del mundo. Para un mayor disfrute consumir entre 3º y 5º C
+- Está elaborada siguiendo una tradición artesana de más de 600 años y con origen en Lovaina, Bélgica. sus ingredientes son: agua, maltas de bajo tueste donde se reconocen en el amargor ligero y en los sutiles aromas maltosos; maíz, levadura lager y lúpulo variedad Saaz para dar aroma, junto con una combinación de lúpulos amargos para dar amargor, y que además le aporta ese color dorado, claro y cristalino y ese sabor suave tan característico
 - Sabor: Un final medio malteado y crujiente revela el sabor pleno y agradablemente amargo por el que se conoce a Stella Artois. Es una cerveza muy equilibrada
+- Pack de 24 botellas de 33 cl cada unal, de Cerveza Stella Artois con 5% de alcohol. Stella Artois es una cerveza premium lager de sabor agradable y suave con un punto de amargor. Es una cerveza muy equilibrada y es la premium pale lager belga más vendida del mundo. Para un mayor disfrute consumir entre 3º y 5º C
 - Aroma: cerveza Stella Artois con perfil aromático equilibrado, donde las moderadas notas a frutas blancas y de cereal resaltan ligeramente sobre el aroma herbal del lúpulo
 - Apariencia: Cerveza Stella Artois es de color claro y brillante y con una espuma blanca, cremosa y consistente
-- Está elaborada siguiendo una tradición artesana de más de 600 años y con origen en Lovaina, Bélgica. sus ingredientes son: agua, maltas de bajo tueste donde se reconocen en el amargor ligero y en los sutiles aromas maltosos; maíz, levadura lager y lúpulo variedad Saaz para dar aroma, junto con una combinación de lúpulos amargos para dar amargor, y que además le aporta ese color dorado, claro y cristalino y ese sabor suave tan característico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08PQ8ZCQ2{{</world>}}

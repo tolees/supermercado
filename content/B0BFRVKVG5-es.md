@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad
-- Marca: Glass Canned Wines
 - Vino blanco en lata
+- Marca: Glass Canned Wines
+- Producto de calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BFRVKVG5{{</world>}}

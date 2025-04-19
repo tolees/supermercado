@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con sabor Original
-- Hecho de maíz
-- Ideal para compartir
 - De textura crujiente
+- Ideal para compartir
+- Hecho de maíz
 - Conservar en un lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

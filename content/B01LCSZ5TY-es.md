@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con aroma inconfundible Moussel
-- A base de aceites esenciales
 - Textura gel
+- A base de aceites esenciales
 - Deja tus manos suaves y perfumadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

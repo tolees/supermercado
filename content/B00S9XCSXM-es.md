@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BOD NIVEA CREMA SOFT 300 ML (4005808515615)
 - Cuerpo Nivea
 - Crema corporal Cuidado de la piel Unisex adulto
+- BOD NIVEA CREMA SOFT 300 ML (4005808515615)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00S9XCSXM{{</world>}}

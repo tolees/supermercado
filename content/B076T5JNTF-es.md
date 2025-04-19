@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SNACK DE CARNE - Golosina natural para perros y con alto contenido de carne, como recompensa especial para perros pequeños de hasta 10 kg
 - COMPOSICIÓN - Carne de pollo (43%), cordero (4,5%), arroz, cloruro potásico
-- VOLUMEN DE ENTREGA: 18 latas 150g GimDog Little Darling Pure Delight, pollo con cordero, snack rico en proteínas, con ave
 - DUO ANIMAL PROTEIN - Jugosos trozos de carne a base de dos fuentes de proteínas animales en deliciosa gelatina
+- SNACK DE CARNE - Golosina natural para perros y con alto contenido de carne, como recompensa especial para perros pequeños de hasta 10 kg
 - RECETA - Alimento complementario sin gluten, sin colorantes ni conservantes, así como sin azúcar añadido
+- VOLUMEN DE ENTREGA: 18 latas 150g GimDog Little Darling Pure Delight, pollo con cordero, snack rico en proteínas, con ave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B076T5JNTF{{</world>}}

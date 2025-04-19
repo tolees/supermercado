@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color ámbar oscuro
 - Notas de compota de manzanas rojas
-- Final redondeado con un toque de mantequilla
-- Adecuado como regalo
+- Color ámbar oscuro
 - Sabor suave y afrutado
+- Adecuado como regalo
+- Final redondeado con un toque de mantequilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07HR9JYT8{{</world>}}

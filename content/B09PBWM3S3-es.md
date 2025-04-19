@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para todo tipo de cabello que busque una radiancia duradera
 - Hidratará y suavizará el cabello dejándolo brillante y delicadamente perfumado
 - Sienta la textura envolvente del champú dorado transparente de Orofluido
+- Para todo tipo de cabello que busque una radiancia duradera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09PBWM3S3{{</world>}}

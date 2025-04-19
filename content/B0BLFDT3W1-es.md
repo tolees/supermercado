@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cero daño para el cabello
-- Transforma tu look, en 10 minutos
-- Mascarilla que deposita particulas de color para mantener o transformar tu color en casa
-- Tratamiento para usar en casa
-- Mascarilla de color hidratante
-- Coloración temporal
 - Úsalo después del champú Color Motion o Fusion de Wella Professionals
+- Transforma tu look, en 10 minutos
+- Tratamiento para usar en casa
+- Cero daño para el cabello
+- Coloración temporal
+- Mascarilla de color hidratante
+- Mascarilla que deposita particulas de color para mantener o transformar tu color en casa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLFDT3W1{{</world>}}

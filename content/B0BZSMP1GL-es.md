@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Combate los microorganismos responsables de la formación de la caspa, evita la acumulación de sebo y elimina la caspa del cuero cabelludo
-- Baño Pureté Anticaspa de la gama Symbiose, es un champú purificador y calmante para cuero cabelludo graso y sensible. Su fórmula espumosa enriquecida con Piroctona Olamina y Ácido Salicílico elimina la caspa, calma el cuero cabelludo y reduce los picores
 - Combate los microorganismos responsables de la formación de la caspa, evita la acumulación de sebo y elimina la caspa del cuero cabelludo
+- Baño Pureté Anticaspa de la gama Symbiose, es un champú purificador y calmante para cuero cabelludo graso y sensible. Su fórmula espumosa enriquecida con Piroctona Olamina y Ácido Salicílico elimina la caspa, calma el cuero cabelludo y reduce los picores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZSMP1GL{{</world>}}

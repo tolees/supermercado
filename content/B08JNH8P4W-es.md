@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Amazing avocado and citrus scent
-- Avocado extract nourishes and repairs hair
 - Korean beauty inspired hair masks
 - Like a face mask for your hair
 - Ridiculously adorable avocado hair cap
+- Amazing avocado and citrus scent
+- Avocado extract nourishes and repairs hair
 - Bear Fruits Hair mask for up to 30 minute treatment
 - Deep conditioning treatment
 

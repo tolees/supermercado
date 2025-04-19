@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- En nariz y boca: Armonía de fragancias y sabores extremadamente placenteros
-- Cinco Jotas es jamón de bellota 100% ibérico procede de una cuidada selección de cerdos criados en libertad en las hermosas dehesas del Suroeste Peninsular
-- La pieza tiene forma estilizada, apreciándose el recubrimiento externo de mohos y levaduras
-- Al tacto: untuoso y con la resistencia justa
 - Al corte: brillante de color intenso, entre rosáceo y rojo
+- Al tacto: untuoso y con la resistencia justa
+- En nariz y boca: Armonía de fragancias y sabores extremadamente placenteros
+- La pieza tiene forma estilizada, apreciándose el recubrimiento externo de mohos y levaduras
+- Cinco Jotas es jamón de bellota 100% ibérico procede de una cuidada selección de cerdos criados en libertad en las hermosas dehesas del Suroeste Peninsular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B087NC34SC{{</world>}}

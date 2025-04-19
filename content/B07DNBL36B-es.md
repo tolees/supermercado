@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La cerveza artesanal más vendida del mundo
-- Sutil dulzor debido a la utilización de naranja Valencia en su elaboración
 - Cerveza artesanal de estilo Belgian White
+- Sutil dulzor debido a la utilización de naranja Valencia en su elaboración
+- La cerveza artesanal más vendida del mundo
 - Afrutado toque cítrico y ligero y especiado aroma a trigo
 - Cerveza turbia sin filtrar
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 【Quema duradera y completa】 El juego de regalo de vela perfumada contiene 60 g / cada cera de soja, tiempo de combustión: 15-20 horas / pieza. Las velas aportan un aroma dulce y suave, crean un ambiente agradable y calman tu mente. No importa cuánto tiempo arda, el olor no se perderá.
 - 【Lata portátil y reutilizable】 Las velas perfumadas colocan una vela de hojalata portátil que se puede llevar a cualquier lugar con usted, después de que la vela se haya quemado por completo, puede reutilizar la lata como decoración para almacenar algunos de sus artículos favoritos, como plantas, pequeños adornos, llaves o joyas, etc., o regalarlas a los niños.
 - 【Set de regalo con 8 velas aromáticas set de regalo】 El set de regalo de velas en este set de regalo contiene 8 aromas: lavanda / mango arroz pegajoso / sal marina y salvia y madera flotante / té verde osmanthus / clavo de arándano / flor de naranjo mexicano / pomelo dulce / whisky de café. Relaje su cuerpo y déjese sentir como si estuviera en un campo de flores. Ideal para yoga, baños, reuniones, oficina, spa, etc.
-- 【Quema duradera y completa】 El juego de regalo de vela perfumada contiene 60 g / cada cera de soja, tiempo de combustión: 15-20 horas / pieza. Las velas aportan un aroma dulce y suave, crean un ambiente agradable y calman tu mente. No importa cuánto tiempo arda, el olor no se perderá.
 - 【Cera de soja 100% ecológica】 Los juegos de regalo de velas perfumadas están hechos de cera de soja naturalmente biodegradable y ecológica + 7% de aceites esenciales + mecha de algodón sin plomo. Las velas se queman más limpias sin humo negro, se queman de manera más uniforme y son más saludables de usar.
 - 【Garantía de satisfacción del 100% y regalo ideal】 El juego de regalo de vela se considera un regalo más exclusivo con el corazón para Navidad, amigos, mujeres, familia, cumpleaños, Navidad, aniversario, boda, día de San Valentín, día de la madre o cualquier otro día festivo.
 

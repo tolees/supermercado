@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Producto que combina tradición e innovación
-- Un licor explosivo a base de auténtico whisky canadiense, canela y chili.
 - Capacidad
 - Perfecto chupito
+- Un licor explosivo a base de auténtico whisky canadiense, canela y chili.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08SNDWBK2{{</world>}}

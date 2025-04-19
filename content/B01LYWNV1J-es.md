@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CREMOSO. Ligero y cremoso, inspirado en la receta de la horchata tradicional de Valencia. Los delicados y dulces sabores mediterráneos de Licor 43 se funden con la chufa, las especias y los cítricos.
 - LIGERO. Compuesto de botánicos y cítricos mediterráneos fusionados a la perfección, logrando su sensación sedosa y ligera en el paladar. Es la alternativa perfecta a los licores de crema.
-- Prueba Licor 43 Horchata con hielo, y saborea nuevas experiencias.
 - APTO PARA VEGANOS Y CELIACOS. Es un licor ligero y cremoso, apto para dietas veganas y celiacos, libre de lactosa y sin gluten. No contiene leche ni sub productos de leche animal.Contiene un 16% de alcohol
 - Prueba Licor 43 Horchata con hielo, y saborea nuevas experiencias.
+- CREMOSO. Ligero y cremoso, inspirado en la receta de la horchata tradicional de Valencia. Los delicados y dulces sabores mediterráneos de Licor 43 se funden con la chufa, las especias y los cítricos.
 - CON HORCHATA VALENCIANA. Licor 43 Horchata es la fusión de la esencia de Licor 43 Original con la horchata tradicional de Valencia. Botella 700ml
+- Prueba Licor 43 Horchata con hielo, y saborea nuevas experiencias.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LYWNV1J{{</world>}}

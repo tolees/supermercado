@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Complemento alimenticio de 100 gr
 - Vitaminas y minerales adecuados para la madre y el lactante
 - Número de modelo del producto: 8.47E+12
+- Complemento alimenticio de 100 gr
 - facil de usar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

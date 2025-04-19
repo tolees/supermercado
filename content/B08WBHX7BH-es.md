@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Moldea y define tus labios
-- Consigue unos labios suaves y flexibles
-- Los tonos combinan con las barras de labios Colour Elixir
 - Perfilador de labios firme que se siente suave en su aplicación
+- Los tonos combinan con las barras de labios Colour Elixir
+- Consigue unos labios suaves y flexibles
 - Formato en lápiz fácil de aplicar
+- Moldea y define tus labios
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08WBHX7BH{{</world>}}

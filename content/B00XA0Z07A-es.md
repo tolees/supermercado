@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las galletas LU, presentes desde hace más de 170 años, siguen compartiendo su pasión por los ingredientes finos y las galletas originales y distintivas, con la ambición de hacer las galletas más deliciosas del mundo.
 - Milka es un producto tradicional. Por ello, desde hace más de 100 años utilizamos exclusivamente leche de la región de los Alpes para nuestro chocolate. Comprobamos cada litro de leche que recibimos de nuestros proveedores para aseguramos de que proviene al 100% de los valles y altos valles de los Alpes y la región subalpina.
-- La tableta de chocolate Milka acompañada de la deliciosa galleta LU, crean la perfecta combinación para servir como un irresistible tentempié, para picar como snack o para disfrutar de un dulce descanso.
-- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
 - Con su sabrosa combinación de crujiente galleta LU y el chocolate con leche Milka más suave, hacen de estos trozos de chocolate el descanso más tierno y delicioso del día. Excelentes para disfrutar con familia y amigos, desayunos, postres o en meriendas escolares para los niños.
+- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
+- Las galletas LU, presentes desde hace más de 170 años, siguen compartiendo su pasión por los ingredientes finos y las galletas originales y distintivas, con la ambición de hacer las galletas más deliciosas del mundo.
+- La tableta de chocolate Milka acompañada de la deliciosa galleta LU, crean la perfecta combinación para servir como un irresistible tentempié, para picar como snack o para disfrutar de un dulce descanso.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XA0Z07A{{</world>}}

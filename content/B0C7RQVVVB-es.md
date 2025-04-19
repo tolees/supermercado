@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sin colorantes artificiales añadidos
-- Sabor a pollo, hígado y pavo
-- Contiene proteínas, vitaminas y ácidos grasos Omega 6
 - Elaborado con ingredientes de calidad
+- Contiene proteínas, vitaminas y ácidos grasos Omega 6
+- Sabor a pollo, hígado y pavo
 - Una irresistible y colorida mezcla de jugosos snacks
 
 [🛒 Visítala!!!]({{< param buyurl >}})

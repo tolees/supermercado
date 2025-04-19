@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 😍Su Cremosidad te sorprenderá
-- 💯Sabor intenso a Cacao
 - ❤️ DESCUBRE la intensidad del Chocolate Negro Cremosso 75% Cacao
 - 🍫 Tableta de Chocolate con formato más fino
 - 🔎 Pasta de cacao, manteca de cacao, azúcar, pasta de ALMENDRA (7%), MANTEQUILLA concentrada (LECHE), cacao desgrasado en polvo, aroma. Puede contener: AVELLANA y SOJA. Cacao: 70% minimo en el chocolate
+- 😍Su Cremosidad te sorprenderá
+- 💯Sabor intenso a Cacao
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CH8BRW9S{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Red Bull Racing Logotipos de pareja en la parte delantera, trasera y manga
-- Gráfico toro en la parte trasera
 - Solapa de 3 botones
+- Gráfico toro en la parte trasera
+- Red Bull Racing Logotipos de pareja en la parte delantera, trasera y manga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QMQFQ39{{</world>}}

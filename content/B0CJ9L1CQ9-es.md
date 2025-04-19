@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sprite Sin Azúcar - Refresco de Lima-Limón sin azúcar y sin calorías - Lata 330 ml, Pack de 24
 - Bebida baja en calorías. Con un 70% menos de azúcar que otros refrescos con sabor a Lima-Limón
+- Sprite Sin Azúcar - Refresco de Lima-Limón sin azúcar y sin calorías - Lata 330 ml, Pack de 24
 - Toma tu refresco con hielo y una rodaja de lima, para dejarte llevar por su poder refrescante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

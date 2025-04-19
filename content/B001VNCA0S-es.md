@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La fórmula patentada Liquid Lash cubre las pestañas de la raíz a la punta.
-- sin descamación no mancha duplica tu volumen de grosor
 - Nuestra fórmula duplica el grosor del volumen y la apariencia de las pestañas descubiertas.
 - De la raíz a la punta para un impacto de pestañas falsas.
+- sin descamación no mancha duplica tu volumen de grosor
+- La fórmula patentada Liquid Lash cubre las pestañas de la raíz a la punta.
 - Máscara de pestañas con pincel duplica la apariencia del tamaño de las pestañas frente a las pestañas descubiertas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

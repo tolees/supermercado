@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- País de origen: portugal
-- Producto de alta calidad
 - Pequeñas bolas de chocolate
+- Producto de alta calidad
 - Contiene vitaminas
+- País de origen: portugal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LQVPM13{{</world>}}

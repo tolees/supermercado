@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Extra absorción y resistencia, lo que las hace mucho más duraderas durante su uso
-- 1.350 servilletas blancas de 2 capas, perfectas para cualquier ocasión
-- 18 prácticos paquetes de 75 servilletas cada uno
 - Tamaño grande: 39x39cm (19,5x19,5cm estando plegada)
+- 18 prácticos paquetes de 75 servilletas cada uno
+- 1.350 servilletas blancas de 2 capas, perfectas para cualquier ocasión
 - Calidad premium y con tacto delicado y suave, substitutivas de las de tela
 
 [🛒 Comprar!!!]({{< param buyurl >}})

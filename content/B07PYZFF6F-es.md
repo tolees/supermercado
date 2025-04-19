@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Productos para el cuidado del cabello
 - Mascarilla de pelo
 - Cuidado del cabello
+- Productos para el cuidado del cabello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PYZFF6F{{</world>}}

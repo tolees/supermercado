@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crema hidratante y protectora de uso diario
 - Crema arrugas
 - Combate las líneas expresión primeras arrugas
 - Tecnología infrarrojos que neutraliza hasta un 98% los rayos UV
+- Crema hidratante y protectora de uso diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0731BVCKX{{</world>}}

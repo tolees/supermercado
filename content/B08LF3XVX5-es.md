@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene una aroma de fruta
 - Marca: Torres
-- Grado alcohólico: 13.5% vol.
 - Vino blanco
+- Grado alcohólico: 13.5% vol.
+- Tiene una aroma de fruta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08LF3XVX5{{</world>}}

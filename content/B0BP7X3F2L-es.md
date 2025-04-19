@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Fragancia Premium Menta y Ámbar
+- Libre de aluminio
 - Infinitamente reciclable
 - Aerosol hasta 72h para que te sientas fresco durante todo el día
-- Fragancia Premium Menta y Ámbar
-- No testado en animales (PETA Approved)
-- Libre de aluminio
 - Axe Desodorante Aerosol 72h Blue Lavander para Hombre Fragancia Menta y Ámbar 150ml
+- No testado en animales (PETA Approved)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BP7X3F2L{{</world>}}

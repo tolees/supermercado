@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con menos grasa y buen sabor
-- Con vitaminas K, D y B12
 - Conservar en lugar fresco y seco
+- Con vitaminas K, D y B12
 - Adecuado para una dieta equilibrada
 - Bebida con fuente de calcio
 

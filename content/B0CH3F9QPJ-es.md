@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CrueltyFree
 - Cuidado extra hidratante para una piel en forma.
+- CrueltyFree
 - La vitamina B ayuda a conseguir un alto rendimiento a lo largo del día y es idónea para afrontar una actividad física.
-- La siguiente información se aplica a cada unidad del paquete
 - Jabón de manos nutritivo con esencia exquisita de nueces y leche de almendras.
+- La siguiente información se aplica a cada unidad del paquete
 - Extractos naturales: nueces y almendras
 
 [🛒 Comprar!!!]({{< param buyurl >}})

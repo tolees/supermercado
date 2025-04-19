@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incorporación de piel de naranja y semillas de cilantro
-- Final refrescante y floral
-- Cuerpo suave y cremoso
 - Caja de 12 botellas de 33cl
 - Sabor afrutado y toques cítricos
 - Cerveza de estilo Blanca de Trigo. Alc. 5,2% vol.
+- Incorporación de piel de naranja y semillas de cilantro
+- Cuerpo suave y cremoso
+- Final refrescante y floral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PH21SXM{{</world>}}

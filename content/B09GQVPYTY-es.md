@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido del envío: 1 Listerine naturals enjuague bucal x 500 ml
-- Ayuda a restaurar el esmalte y mata el 99,9% de los gérmenes del mal aliento
-- 99% naturally derived using ISO 16128 average cumulative volume, water included
 - Este enjuague bucal 99% de origen natural * ayuda a limpiar toda la boca en lugares donde el cepillado puede pasar por alto
+- 99% naturally derived using ISO 16128 average cumulative volume, water included
+- Ayuda a restaurar el esmalte y mata el 99,9% de los gérmenes del mal aliento
+- Contenido del envío: 1 Listerine naturals enjuague bucal x 500 ml
 - Este enjuague bucal reparador de esmalte ayuda a remineralizar y reparar el esmalte dental debilitado para una mejor protección de la caries
 
 [🛒 Comprar!!!]({{< param buyurl >}})

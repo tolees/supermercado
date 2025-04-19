@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborada con cebadas procedentes de Albacete y Murcia
 - Maltas y cervezas de Murcia desde 1963
-- Elaborada en la fábrica de Murcia donde cuenta con su propia maltería
-- Servir frio
 - ‎Almacenar en un sitio seco o fresco
+- Servir frio
+- Elaborada en la fábrica de Murcia donde cuenta con su propia maltería
+- Elaborada con cebadas procedentes de Albacete y Murcia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096TCLXQN{{</world>}}

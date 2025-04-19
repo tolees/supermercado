@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un producto de calidad marca MAMA
 - Cocina oriental en tu hogar
+- Un producto de calidad marca MAMA
 - Sabor asiático
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detergente en formato gel para el lavavajillas sin perfume, colorantes, conservantes
-- Con certificado ecológico Ecolabel
 - Gel de rápida disolución, incluso en ciclos cortos
 - Con la misma eficacia que los geles Finish All in 1 Max
 - Finish es la marca recomendada por los principales fabricantes de lavavajillas
+- Con certificado ecológico Ecolabel
+- Detergente en formato gel para el lavavajillas sin perfume, colorantes, conservantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YVLTQHG{{</world>}}

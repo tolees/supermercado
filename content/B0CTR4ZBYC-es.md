@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rutina facial. Nuestros productos no contienen parabenos, SLS y están libres de colores y fragancias sintéticas o artificales
-- Todos los productos contienen ingredientes de origen natural y vegano y están certificados como ‘Cruelty Free’
-- Kit Facial Masculino que contiene: Limpiador Facial + Gel de Afeitado + Crema Hidratante + Neceser de Tela Sostenible
 - Crema Hidratante: Óptima hidratación para la piel del rostro con propiedades antioxidantes gracias al Té Verde y la vitamina E
 - Gel de Afeitado: Provee un afeitado suave gracias a sus 8 aceites esenciales, el Aloe Vera y la Jojoba
+- Todos los productos contienen ingredientes de origen natural y vegano y están certificados como ‘Cruelty Free’
+- Kit Facial Masculino que contiene: Limpiador Facial + Gel de Afeitado + Crema Hidratante + Neceser de Tela Sostenible
 - Limpiador Facial: Elimina las impurezas y el exceso de grasa del rostro; fragancia limón, lima, madera de cedro
+- Rutina facial. Nuestros productos no contienen parabenos, SLS y están libres de colores y fragancias sintéticas o artificales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CTR4ZBYC{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alto contenido en proteínas
-- Sírvelos con patatas al horno sazonadas con hierbas y una ensalada verde.
 - Fuente de ácidos grasos omega 3, bajo contenido en sal
+- Sírvelos con patatas al horno sazonadas con hierbas y una ensalada verde.
 - Deliciosos trozos de atún en aceite de girasol, para servir en ensaladas, en una crujiente baguette o con una patata asada.
 - Versátiles y fáciles de utilizar.
+- Alto contenido en proteínas
 - Envase hermético fácil de almacenar y apilable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

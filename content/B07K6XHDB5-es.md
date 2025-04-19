@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SÉRUM ANTIEDAD MUJER Y HOMBRE: Contiene ingredientes que reducen arrugas y líneas de expresión, por lo que además de iluminar tu piel, el serum de vitamina c es un producto antiedad y antienvejecimiento fantástico.
 - EFECTO LUMINOSIDAD Y ANTIEDAD - la vitamina c facial de Babaria no solo proporciona luminosidad a tu piel, si no que también contiene ácido hialurónico y colágeno vegano. Tu skincare utilizando este serum, no solo mejora significativamente la elasticidad y firmeza de la piel, facialitando el cuidado facial mujer total.
 - VITAMINA C SERUM FACIAL - Contiene una potente mezcla de Vitamina C y E, aprovechando lo mejor de los ingredientes veganos para un cuidado facial mujer de la piel ético y efectivo.
+- SÉRUM ANTIEDAD MUJER Y HOMBRE: Contiene ingredientes que reducen arrugas y líneas de expresión, por lo que además de iluminar tu piel, el serum de vitamina c es un producto antiedad y antienvejecimiento fantástico.
 - APLICACIÓN SENCILLA: La vitamina C puede aplicarse diariamente en rostro, cuello y escote. Simplemente masajea unas gotas suavemente hasta su completa absorción, evitando el contacto con los ojos. SKINCARE TIP: Si aplicas vitamina c por la mañana, en empollas, serum o crema facial, incluye un solar para evitar las manchas en la piel.
 - SERUM FACIAL VEGANO Y TESTADO DERMATOLÓGICAMENTE - En Babaria te ofrecemos un gran surtido de productos de cuidado facial mujer formulados con ingredientes naturales, queremos que tu skincare sea cuidadoso con el medio en ambiente. El serum de vitamina C es 100% vegano y está testado dermatológicamente.
 

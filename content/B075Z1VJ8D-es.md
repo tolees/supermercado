@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color exterior rosa e interior blanco
-- Con forma de corazón
 - Saltar al comienzo de la galería de imágenes Los CORAZON SOFT PIKA son caramelos de goma de color Rosa con un exterior crujiente y un interior súper esponjoso sabor a Fresa. Recubiertos de Pica. ¡Momentos Haribo que te hacen feliz!
 - Interior de espuma súper blanda y cobertura de pica
+- Con forma de corazón
+- Color exterior rosa e interior blanco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B075Z1VJ8D{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SIN ALÉRGENOS: Nuestras gominolas no contienen alérgenos. Se fabrican con los más altos estandares de calidad.
 - JET-LAG: La melatonina es tu mejor aliada para esos viajes largos en los que tanto te cuesta coger el sueño. ¡Con nuestras gominolas de melatonina eso ya no será un problema!
 - MELATONIN GUMMIES + ANTIFAZ & TAPONES de Weider, compañía global pionera en nutrición deportiva y especializada con más de 83 años ofreciendo calidad e innovación.
+- SIN ALÉRGENOS: Nuestras gominolas no contienen alérgenos. Se fabrican con los más altos estandares de calidad.
 - ¿CUÁNDO TOMARLA?: Tomala 30 minutos antes de irte a la cama
 - INSOMNIO: La melatonina te ayuda a regular el ciclo del sueño, ayudandote a descansar mientras duermes. Además, el antifaz y tapones incluidos te ayudarán a aislarte de la luz y del ruido que tan frecuentemente nos impiden tener un sueño profundo y recuperador.
 

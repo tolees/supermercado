@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado como un regalo
 - Marca: Osborne
-- Sabor: suave, miel, chocolate negro
 - Contenido de alcohol: 40% vol.
+- Adecuado como un regalo
+- Sabor: suave, miel, chocolate negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00KATMPA4{{</world>}}

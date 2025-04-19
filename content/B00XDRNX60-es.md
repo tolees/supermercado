@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se debe conservar en lugar fresco y seco
-- Patatas fritas
-- Envasados en atmósfera protectora
 - Gran sabor
 - No contiene gluten
+- Envasados en atmósfera protectora
+- Patatas fritas
+- Se debe conservar en lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDRNX60{{</world>}}

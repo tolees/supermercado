@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De color cereza intenso con borde granate
-- Elaborado con uvas de la variedad Tempranillo
 - Ideal con platos de caza, carnes rojas o de ternera
 - Con uns buena acidez
+- Elaborado con uvas de la variedad Tempranillo
 - En nariz es complejo con notas de fruta madura y cacao fino
+- De color cereza intenso con borde granate
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09V84YX8C{{</world>}}

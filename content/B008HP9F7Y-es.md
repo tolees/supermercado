@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El color es ámbar
 - Conservar en un lugar fresco y seco
+- El color es ámbar
+- Apto como regalo para una ocasión especial
 - Se puede servir solo o como base para cócteles
 - En la boca es con cuerpo y toques de humo de madera dulce
-- Apto como regalo para una ocasión especial
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B008HP9F7Y{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para piel sensible y atópica, testado dermatológicamente, hipoalergénico: formulado para minimizar el riesgo de alergias
-- Protección muy alta (SPF50+) UVA & UVB
-- Fórmula con la mayoría de ingredientes biodegradables y/o inorgánicos
-- Tipo de piel: seca
 - Resistente al agua
+- Apto para piel sensible y atópica, testado dermatológicamente, hipoalergénico: formulado para minimizar el riesgo de alergias
+- Tipo de piel: seca
 - Con Vitamina E de acción antioxidante que evita la formación de radicales libres
+- Fórmula con la mayoría de ingredientes biodegradables y/o inorgánicos
+- Protección muy alta (SPF50+) UVA & UVB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00J5G2Q1Q{{</world>}}

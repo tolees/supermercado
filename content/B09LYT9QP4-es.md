@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- APOSTAMOS POR LA CALIDAD: Contamos con una amplia gama de productos 100% naturales que dan soluciones reales. Estamos especializados en el desarrollo, y distribución de suplementos nutricionales y alimentos dietéticos en Europa, por eso nuestra marca cuenta con todos los registros sanitarios necesarios. Marca registrada.
-- ANTIINFLAMATORIA Y ANTIOXIDANTE: La curcumina reduce la producción de mediadores de la inflamación y los radicales libres, lo que hace que se le atribuyan propiedades antioxidantes y antiinflamatorias
 - MAXIMA CONCENTRACIÓN: Contamos con una concentración de cúrcuma ecológica por cápsula de 745mg con una concentración de curcumina del 95% , combinamos la fórmula con jengibre y pimienta negra que favorece la absorción de la curcumina haciéndola más efectiva.
 - JENGIBRE Y PIMIENTA NEGRA: reforzamos nuestra fórmula con pimienta negra ecológica concentrada con pimienta negra ecológica para potenciar los beneficios de la cúrcuma. El jengibre es ideal para estimular el metabolismo y favorecer las digestiones.
+- ANTIINFLAMATORIA Y ANTIOXIDANTE: La curcumina reduce la producción de mediadores de la inflamación y los radicales libres, lo que hace que se le atribuyan propiedades antioxidantes y antiinflamatorias
+- APOSTAMOS POR LA CALIDAD: Contamos con una amplia gama de productos 100% naturales que dan soluciones reales. Estamos especializados en el desarrollo, y distribución de suplementos nutricionales y alimentos dietéticos en Europa, por eso nuestra marca cuenta con todos los registros sanitarios necesarios. Marca registrada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09LYT9QP4{{</world>}}

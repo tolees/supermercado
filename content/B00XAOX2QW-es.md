@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conservar en lugar fresco y seco
 - Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
-- Caramelos duros refrescantes, con sabor a menta sin azúcar
 - Un consumo excesivo puede producir efectos laxantes. Contiene una fuente de fenilalanina
+- Caramelos duros refrescantes, con sabor a menta sin azúcar
+- Conservar en lugar fresco y seco
 - Formato bolsa de 1 kilogramo de caramelos sueltos con un refrescante sabor a menta sin azúcar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

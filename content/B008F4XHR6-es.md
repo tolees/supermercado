@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crema 1x82 ml + Balsamo 2x40 ml
-- Para que cada dia te sientas unica.
 - Glatt 1
+- Para que cada dia te sientas unica.
 - Tu imagen nos importa, por eso te ofrecemos los mejores productos.
+- Crema 1x82 ml + Balsamo 2x40 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B008F4XHR6{{</world>}}

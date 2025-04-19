@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Envasado en atmósfera protectora para mantener su frescura
+- Puede contener ocasionalmente trozos de cáscara
+- NOTA: Los cacahuetes están tostados y salados (no fritos). Este proceso específico implica el uso de una sal en polvo muy fina que crea las manchas blancas en los cacahuetes. Por tanto, no se trata de un defecto del producto.
 - Apto para dietas vegetarianas y veganas
 - Fuente de vitamina E, alto contenido de fibra
-- NOTA: Los cacahuetes están tostados y salados (no fritos). Este proceso específico implica el uso de una sal en polvo muy fina que crea las manchas blancas en los cacahuetes. Por tanto, no se trata de un defecto del producto.
-- Puede contener ocasionalmente trozos de cáscara
+- Envasado en atmósfera protectora para mantener su frescura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07QXXSHQ8{{</world>}}

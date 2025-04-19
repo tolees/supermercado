@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborado con ingredientes griegos de manera artesanal, garantizando un sabor y experiencia inigualable.
-- Barrita de wafer bañado y recubierto de chocolate con leche y relleno con una suave crema de mantequilla 100% de cacahuete.
-- Pack incluye: 3 barritas de 45g cada una.
-- Cada barrita tiene 3 capas de obleas crujientes y 2 capas de crema de cacahuete.
 - Ideales para cualquier ocasión: antojo, regalo, snack o postre, con los que podrás endulzar cualquier momento cotidiano y volverlo muy especial.
+- Cada barrita tiene 3 capas de obleas crujientes y 2 capas de crema de cacahuete.
+- Elaborado con ingredientes griegos de manera artesanal, garantizando un sabor y experiencia inigualable.
+- Pack incluye: 3 barritas de 45g cada una.
+- Barrita de wafer bañado y recubierto de chocolate con leche y relleno con una suave crema de mantequilla 100% de cacahuete.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B094RFBWQ6{{</world>}}

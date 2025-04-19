@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Comida española fácil de preparar: al baño maria, en cazo o al microondas
 - 100% Ingredientes Naturales sin gluten, ni aditivos
 - Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
 - Selecto embutido elaborado en Asturias
+- Comida española fácil de preparar: al baño maria, en cazo o al microondas
 - Disponible en formato lata
 
 [🛒 Comprar!!!]({{< param buyurl >}})

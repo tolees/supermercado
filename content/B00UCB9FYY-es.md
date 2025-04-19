@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Perfecto para superficies duras y lavables.
-- Deja los suelos limpios, relucientes y con un perfume fresco.
-- Acaba con la suciedad, las marcas de jabón y la grasa.
 - Una solución universal para todo el hogar
+- Deja los suelos limpios, relucientes y con un perfume fresco.
+- Perfecto para superficies duras y lavables.
+- Acaba con la suciedad, las marcas de jabón y la grasa.
 - Gran poder de limpieza Don Limpio.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

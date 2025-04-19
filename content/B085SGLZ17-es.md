@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sensación de comodidad y acabado velvet
 - Efecto tattoo y transferproof hasta 24H
 - Fórmula con pigmentos de tinta mate
+- Sensación de comodidad y acabado velvet
 - Aplicador fino y súper preciso para delinear y rellenar
 - Colores súper intensos
 

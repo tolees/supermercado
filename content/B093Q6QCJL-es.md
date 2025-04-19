@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gel multiusos – Este gel NIVEA MEN hidrata en profundidad durante 24 horas la piel del rostro, el cuerpo y las manos. Además, es apto para todo tipo de piel.
 - Contenido del envío – NIVEA MEN Fresh, gel de manos, cuerpo y rostro para hidratar y refrescar la piel, 1 x 75 ml, lata.
-- Sensación refrescante – Gracias a su fórmula con menta acuática 100% natural, este gel hidratante corporal y facial refresca la piel al instante.
+- Gel multiusos – Este gel NIVEA MEN hidrata en profundidad durante 24 horas la piel del rostro, el cuerpo y las manos. Además, es apto para todo tipo de piel.
 - Sostenibilidad – Esta lata NIVEA MEN también cuida el planeta, porque todo el envase, excepto la tapa, está hecho con un 75% de plástico PET reciclado.
 - Rápida absorción – La textura de este gel para hombre es muy ligera y no grasa, por lo que se aplica con facilidad y la piel la absorbe rápidamente.
+- Sensación refrescante – Gracias a su fórmula con menta acuática 100% natural, este gel hidratante corporal y facial refresca la piel al instante.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B093Q6QCJL{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Formato: bolsa de 200 unidades.
 - Deliciosas bolitas de caramelo de goma grageadas con pasta de azúcar y con intenso sabor a cereza.
 - Producto sin gluten apto para celíacos. Libre de frutos secos, soja y derivados. Puede contener trazas de leche.
-- Formato: bolsa de 200 unidades.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08L2KKW7V{{</world>}}

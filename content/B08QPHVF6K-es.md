@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Írvase muy frío, para tomar solo en chupito o en copa ancha con hielo
-- Carajillo de Anis ofrece un color caoba oscuro, intenso y brillante
 - Los aromas de Anís del Mono se expresan en perfecta armonía con notas de café suave y tostado, ofreciendo una seductora complejidad
-- Graduación alcohólica: 26%Vol
 - Paladar suave, untuoso, persistente, en el que las notas de anís y café se enriquecen mutuamente para culminar en un final largo y placentero
+- Carajillo de Anis ofrece un color caoba oscuro, intenso y brillante
+- Graduación alcohólica: 26%Vol
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QPHVF6K{{</world>}}

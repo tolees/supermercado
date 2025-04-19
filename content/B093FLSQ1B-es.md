@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Valeli. Cesta de cerveza Estrella Galicia, 1906 Reserva Especial y Tinta Vintage con frutos secos y snacks. Regalo perfecto: para él, amigo, fiesta, cumpleaños, padre...
 - Tamaño: Juego de 9 piezas
+- Valeli. Cesta de cerveza Estrella Galicia, 1906 Reserva Especial y Tinta Vintage con frutos secos y snacks. Regalo perfecto: para él, amigo, fiesta, cumpleaños, padre...
 - Marca: VALELI
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

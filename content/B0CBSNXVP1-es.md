@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- POR 100g de PRODUCTO: 10 kcal, <0.1g de Grasa, 1.2g de Carbohidratos, 0g de Azúcar, 2.8g de Fibra, <0.1g de Proteina, 0.05g de Sal.
-- FLORA INTESTINAL: El Konjac es capaz de absorber grandes cantidades de agua, lo cual permite que sea fermentado y digerido correctamente por las bacterias intestinales, regulando así todo el proceso digestivo.
 - PACK 6x ESPAGUETTI KONJAC: Deliciosos noodles hechos a base de konjac, una planta asiática que hace que tus platos sean extremadamente bajos en calorías.
-- PÉRDIDA DE PESO: El Konjac ayuda a reducir la ingesta de calorías, lo cual potencia el mantenimiento o reducción del peso corporal.
+- FLORA INTESTINAL: El Konjac es capaz de absorber grandes cantidades de agua, lo cual permite que sea fermentado y digerido correctamente por las bacterias intestinales, regulando así todo el proceso digestivo.
+- POR 100g de PRODUCTO: 10 kcal, <0.1g de Grasa, 1.2g de Carbohidratos, 0g de Azúcar, 2.8g de Fibra, <0.1g de Proteina, 0.05g de Sal.
 - CONTROLA AZÚCARES: Konjac está compuesto 100% de fibra soluble, la cua ayuda a controlar la absorción de los hidratos de carbono y azúcares, evitando así los picos de azúcar, contribuyento a mantener niveles de azúcar normales.
+- PÉRDIDA DE PESO: El Konjac ayuda a reducir la ingesta de calorías, lo cual potencia el mantenimiento o reducción del peso corporal.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBSNXVP1{{</world>}}

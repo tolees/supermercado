@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene una fórmula ultraligera
-- Con control de brillo durante todo el día, es realmente matificante
-- Tiene un acabado en polvo mate de terciopelo
 - Número de modelo: 34856804504
+- Tiene una fórmula ultraligera
+- Tiene un acabado en polvo mate de terciopelo
+- Con control de brillo durante todo el día, es realmente matificante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07VGF44TC{{</world>}}

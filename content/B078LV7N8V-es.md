@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El pintalabios mate extremo para un color ultra saturado
+- La fórmula contiene dos veces pigmentos matificantes, para un acabado ultra mate; el néctar de miel hace que no reseque y deja un color uniforme en una pasada
 - Acabado uniforme y sensacional
 - No cuartea
-- La fórmula contiene dos veces pigmentos matificantes, para un acabado ultra mate; el néctar de miel hace que no reseque y deja un color uniforme en una pasada
 - Fórmula hiperpigmentada
-- El pintalabios mate extremo para un color ultra saturado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B078LV7N8V{{</world>}}

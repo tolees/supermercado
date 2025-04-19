@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Eco-responsable - Protector solar respetuoso con la piel y con el planeta. Envase biobasado, provinente de la caña de azúcar de origen sostenible
-- Fotoprotección específica - Con vitamina E, Niacinamida, Extracto de te verde, Alfa Bisabolol, DNA Repair Complex para una acción antioxidante y un sistema filtrante que ofrece un espectro de protección UVB-UVA
-- Textura ligera - Fotoprotector hidratante y resistente al agua, garantiza una máxima ligerecia y cosmeticidad que se absorbe rápidamente
 - Seguridad dermatológica - Hipoalergénico, no comedogénico, sin colorantes ni derivados del trigo, testado en 5 metales pesados (Níquel, Cobalto, Cromo, Paladio y Mercurio).
+- Fotoprotección específica - Con vitamina E, Niacinamida, Extracto de te verde, Alfa Bisabolol, DNA Repair Complex para una acción antioxidante y un sistema filtrante que ofrece un espectro de protección UVB-UVA
 - Emulsión fluida de muy altra fotoprotección para pieles propensas al eritema y a la formación de manchas. Crema solar anti-imperfecciones para pieles con brillos y tendencia acneica.
+- Eco-responsable - Protector solar respetuoso con la piel y con el planeta. Envase biobasado, provinente de la caña de azúcar de origen sostenible
+- Textura ligera - Fotoprotector hidratante y resistente al agua, garantiza una máxima ligerecia y cosmeticidad que se absorbe rápidamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09VY5SL1X{{</world>}}

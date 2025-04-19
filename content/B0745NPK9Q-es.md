@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aporta Cabello brillante y sano
-- El cuidado evolucionado Pantene Pro-V fórmula
 - Ayuda a proteger su coloreados Cabello Styling daños
+- El cuidado evolucionado Pantene Pro-V fórmula
+- Aporta Cabello brillante y sano
 - El cuidado intensivo ayuda a signos de daños en el cabello en sólo 2 minutos a luchar contra
 
 [🛒 Comprar!!!]({{< param buyurl >}})

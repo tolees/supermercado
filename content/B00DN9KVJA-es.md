@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Los mejores productos para el hogar
-- Fabricante: santiveri
 - Sal marina yodada
+- Fabricante: santiveri
 - Peso: 1 kg
 
 [🛒 Comprar!!!]({{< param buyurl >}})

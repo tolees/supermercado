@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aplícalo en la barba hasta formar una espuma y aclara
-- Aceite para barba a base de ingredientes naturales de origen vegetal de argán, jojoba, aguacate, semillas de macadamia y almendra
 - Aplica unas gotas al día (más en barbas más largas) sobre la palma de la mano y, a continuación, aplica el tratamiento en la barba y la piel
-- Gel refrescante limpiador para barba y rostro con agua de coco, aceite de argán y aceite de aguacate
 - Para un resultado óptimo combínalo con el bálsamo
+- Gel refrescante limpiador para barba y rostro con agua de coco, aceite de argán y aceite de aguacate
+- Aceite para barba a base de ingredientes naturales de origen vegetal de argán, jojoba, aguacate, semillas de macadamia y almendra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HHB6M1N{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Buena calidad
 - Fácil de usar
 - Ofrece un resultado óptimo
+- Buena calidad
 - Es un regalo adecuado en cualquier momento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

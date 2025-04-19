@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bruma nutritiva enriquecida con biotina
 - Spray para el cabello de protección frente al calor
-- Spray texturizante para el cabello Pantene Pro-V sin aclarado para un cabello más grueso y con más volumen
+- Bruma nutritiva enriquecida con biotina
 - Fortalece el cabello y aumenta su volumen en un solo uso, sin dejar sensación pegajosa
+- Spray texturizante para el cabello Pantene Pro-V sin aclarado para un cabello más grueso y con más volumen
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BPT9WWZC{{</world>}}

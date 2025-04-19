@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Elaborada con cera natural, extraída directamente de plantas y flores naturales
-- Vela aromática antitabaco, elimina el olor a tabaco y funciona como ambientador para el hogar
 - Exquisita fragancia afrutada con aceites esenciales
-- Con las fragancias Air Wick tu hogar se siente en el aire
+- Vela aromática antitabaco, elimina el olor a tabaco y funciona como ambientador para el hogar
 - Fragancia que dura hasta el último instante
+- Con las fragancias Air Wick tu hogar se siente en el aire
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082BQ27ZP{{</world>}}

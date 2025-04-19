@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Funciona como una placa de conmutación cuando se monta a la parte inferior de una jaula DSLR.
 - Esta placa de fácil está equipado con varios agujeros roscados (espaciamiento de 1/4 "3/8" m3 M4) en 9 mm.
-- El paquete incluye: 1 x 1/4 "tornillo de trípode, 1 x placa de conmutación
+- Funciona como una placa de conmutación cuando se monta a la parte inferior de una jaula DSLR.
 - Puede fijarse sobre barras de railblocks, ajusta y corto.
+- El paquete incluye: 1 x 1/4 "tornillo de trípode, 1 x placa de conmutación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0799KHNS6{{</world>}}

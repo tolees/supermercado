@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Recambio para ambientador spray automático Air Wick Freshmatic
-- Fragancia hasta 70 días
 - Fragancia flor
+- Fragancia hasta 70 días
+- Recambio para ambientador spray automático Air Wick Freshmatic
 - Elige entre tres niveles de intensidad para conseguir tu nivel de fragancia deseada
 - Elimina olores y perfuma tu hogar de forma continua hasta 70 días con un diseño elegante y portable
 

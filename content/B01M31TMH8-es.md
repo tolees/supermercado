@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sin azúcares añadidos
+- Bajo contenido en sal
 - Sin proteína láctea
 - Sin gluten
-- Bajo contenido en sal
-- Sin azúcares añadidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01M31TMH8{{</world>}}

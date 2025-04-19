@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Envasado en atmósfera protectora para mantener su frescura
-- Tostado: velocidad media, color oscuro
-- Tostado en Bélgica. Envasado en Bélgica (BE) o Italia (IT), ver localización de la planta junto al lote en la cara frontal del envase
 - Intensidad 8/10 - Medio Fuerte
+- Tostado en Bélgica. Envasado en Bélgica (BE) o Italia (IT), ver localización de la planta junto al lote en la cara frontal del envase
 - Certificado Rainforest Alliance. Obtenga más información en ra.org
-- Apto para dietas vegetarianas y veganas
+- Tostado: velocidad media, color oscuro
 - Cápsulas compatibles con Nespresso* - Porción recomendada: 25ml de ristretto
+- Envasado en atmósfera protectora para mantener su frescura
+- Apto para dietas vegetarianas y veganas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BHSRPJN4{{</world>}}

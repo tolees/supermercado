@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mezcla Roja
 - Compatibles E.S.E. dm 44
 - E.S.E. son marcas registradas por el consorcio EASY SERVING ESPRESSO; la producción de estas monodosis es independiente, no está vinculada ni directa ni indirectamente a EASY SERVING ESPRESSO
-- Paquete de 150 Monodosis Compostables
 - EL PACKAGING PODRÍA VARIAR: Caffè Borbone está adoptando un envase cada vez más sostenible para la elaboración del café en bolsitas; así, como resultado del constante compromiso de investigación y desarrollo del departamento de calidad y control, se ha adoptado recientemente un material para su envoltorio que se puede reciclar junto con el papel sin que varíe la calidad ni el gusto de la mezcla de café
-- Mezcla Roja
+- Paquete de 150 Monodosis Compostables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MSUK566{{</world>}}

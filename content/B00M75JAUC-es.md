@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Proporciona un efecto matificante, con toque seco, adecuado para la piel normal, mixta y grasa
+- Reduce los brillos no deseados de la piel
 - Hidrata e ilumina la piel
 - Resistente al agua
-- Reduce los brillos no deseados de la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00M75JAUC{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gel transparente ultraligero, eﬁcaz también sobre piel mojada (baño y sudor), adecuado zonas pilosas especial brazos y piernas, cuero cabelludo
 - Envase portable, aceptado en cabina
-- Probado dermatológicamente, libre de aceite, fórmula con la mayoría de ingredientes biodegradables y/o inorgánicos
-- Apto para todo tipo de deportes y condiciones, recuerda el uso de fotoprotector incluso en los días nublados y en el agua
 - Efecto refrescante inmediato, ayuda a equilibrar la temperatura corporal durante el ejercicio, muy resistente al agua y resistente al sudor
+- Probado dermatológicamente, libre de aceite, fórmula con la mayoría de ingredientes biodegradables y/o inorgánicos
+- Gel transparente ultraligero, eﬁcaz también sobre piel mojada (baño y sudor), adecuado zonas pilosas especial brazos y piernas, cuero cabelludo
+- Apto para todo tipo de deportes y condiciones, recuerda el uso de fotoprotector incluso en los días nublados y en el agua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ID51M5Q{{</world>}}

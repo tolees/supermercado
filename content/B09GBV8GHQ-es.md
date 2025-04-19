@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuidado preventivo del cabello de niños mayores de tres años
-- Facilita el peinado de los más pequeños, reduciendo los enredos y tirones a la vez que ayuda a prevenir de sorpresas indeseadas en sus cabellos.
-- Sin sulfatos Sin sal Sin colorantes Sin parabenos Vegano
-- No pica en los ojos
 - Con aceite Árbol de Té y aceite esencial de limón
+- Facilita el peinado de los más pequeños, reduciendo los enredos y tirones a la vez que ayuda a prevenir de sorpresas indeseadas en sus cabellos.
+- Cuidado preventivo del cabello de niños mayores de tres años
+- No pica en los ojos
+- Sin sulfatos Sin sal Sin colorantes Sin parabenos Vegano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09GBV8GHQ{{</world>}}

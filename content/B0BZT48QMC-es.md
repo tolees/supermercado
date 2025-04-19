@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Conservar en lugar fresco y seco
 - Sabor a fresa
 - Deliciosas piezas redondeadas recubiertas de azúcar
-- Conservar en lugar fresco y seco
 - Caramelos de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pelo limpio, más fuerte, brillante y fresco, visiblemente más sano; olor a esencia de pomelo
 - GARNIER Fructis Pack de 2 Champús Fuerza y Brillo 1 L para Cabello normal
+- Pelo limpio, más fuerte, brillante y fresco, visiblemente más sano; olor a esencia de pomelo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D3M3L4ZJ{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Galletas tipo cookies de mantequilla pura y chips de chocolate.
-- Receta original y sin alterar desde 1888. Fabricadas con ingredientes 100% franceses de alta calidad.
-- Diseño del empaque inspirado en el pintor checo y artista decorativo, Alfons Mucha.
 - Viene con envoltorio protector. Formato lata de 400g, incluye 20 galletas.
+- Receta original y sin alterar desde 1888. Fabricadas con ingredientes 100% franceses de alta calidad.
+- Galletas tipo cookies de mantequilla pura y chips de chocolate.
 - Sin conservantes, sin colorantes, sin saborizantes artificiales, sin aceite de palma y sin GMO. Apto para vegetarianos.
+- Diseño del empaque inspirado en el pintor checo y artista decorativo, Alfons Mucha.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KB1R49C{{</world>}}

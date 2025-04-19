@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con más de 60 años a las espaldas, Chupa Chups es el caramelo favorito de todas las generaciones. Y siempre con los ingredientes de la mejor calidad. ¡Simplemente imprescindibles!
-- Ideal para cualquier ocasión y evento: en clase, en el parque, en la oficina, en casa, en fiestas y entre horas. Para compartir, regalar y disfrutar solo o en compañía.
-- Descubre más sobre este y otros productos de Chupa Chups más abajo.
-- En Chupa Chups pensamos en ti. Trabajamos cada día para ofrecerte caramelos y golosinas más saludables. ¡Que nada te quite la oportunidad de divertirte! Este producto es SIN GLUTEN.
-- Tubo de caramelos con palo Chupa Chups de sabores surtidos: fresa, nata/fresa, cola, sandía, cereza y naranja. El producto contiene 100x12 gr. de caramelos con palo. El producto contiene el elemento para la colocación de los Chupa Chups en la parte superior.
 - Nuestro caramelo con palo Chupa Chups es práctico e higiénico. Lo puedes llevar en el bolsillo, en la mochila, en el bolso. ¡Diviértete y disfrútalo!
+- Con más de 60 años a las espaldas, Chupa Chups es el caramelo favorito de todas las generaciones. Y siempre con los ingredientes de la mejor calidad. ¡Simplemente imprescindibles!
+- Descubre más sobre este y otros productos de Chupa Chups más abajo.
+- Tubo de caramelos con palo Chupa Chups de sabores surtidos: fresa, nata/fresa, cola, sandía, cereza y naranja. El producto contiene 100x12 gr. de caramelos con palo. El producto contiene el elemento para la colocación de los Chupa Chups en la parte superior.
+- En Chupa Chups pensamos en ti. Trabajamos cada día para ofrecerte caramelos y golosinas más saludables. ¡Que nada te quite la oportunidad de divertirte! Este producto es SIN GLUTEN.
+- Ideal para cualquier ocasión y evento: en clase, en el parque, en la oficina, en casa, en fiestas y entre horas. Para compartir, regalar y disfrutar solo o en compañía.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07GX1MT16{{</world>}}

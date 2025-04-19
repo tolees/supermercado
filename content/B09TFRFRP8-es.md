@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Te ayuda a disfrutar de tu estilo
 - Explora nuestra gama de productos
-- Diseñado para mantener la intensidad del color y proteger el cabello teñido, coloreado o con mechas
 - Descubre nuestro mejor champú de protección del color Invigo Color Brilliance para cabello fino o normal
+- Diseñado para mantener la intensidad del color y proteger el cabello teñido, coloreado o con mechas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09TFRFRP8{{</world>}}

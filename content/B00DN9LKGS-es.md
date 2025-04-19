@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 136 AÑOS DE HISTORIA: Santiveri es una empresa pionera en España en el ámbito naturista y de la dietética natural. Nació en 1885 de la mano de su fundador y creador, Jaime Santiveri Piniés, pionero e impulsor del comercio de productos dietéticos y naturales en nuestro país
-- Mast-Lax, mezcla de plantas troceadas para masticar. También contiene hibisco y hierbabuena
-- ¿Cuándo y cómo? Viajes, nervios, cambios de hábitos y de dieta pueden afectar a tu regularidad intestinal. Tomar 1 cucharadita (750 mg) de este preparado antes de acostarse, masticándolo antes de tragar
 - La solución a tus problemas de tránsito intestinal. Complemento alimenticio a base de plantas. Con sen, que ayuda a la regularidad intestinal
 - Ingredientes por dosis diaria (1 cucharadita = 750 mg): 637,5 mg de Sen, 56,25 mg de Hibisco y 56,25 mg de Hierbabuena
+- ¿Cuándo y cómo? Viajes, nervios, cambios de hábitos y de dieta pueden afectar a tu regularidad intestinal. Tomar 1 cucharadita (750 mg) de este preparado antes de acostarse, masticándolo antes de tragar
+- Mast-Lax, mezcla de plantas troceadas para masticar. También contiene hibisco y hierbabuena
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DN9LKGS{{</world>}}

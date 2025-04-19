@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calentar y listo para tomar
 - Tiene la tradicional textura espesa del chocolate a la taza
+- Calentar y listo para tomar
 - Disfruta del auténtico sabor a chocolate a la taza tradicional
 - Sin gluten
 

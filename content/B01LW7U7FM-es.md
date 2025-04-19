@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El café de las mejores cafeterías en casa
-- Café Natural en grano (4x250g)
 - Café recién tostado envasado en atmósfera protegida N²
-- Envase de 250g con válvula unidireccional
 - Selección de cafés de alta calidad procedentes de las mejores plantaciones del mundo
+- Envase de 250g con válvula unidireccional
+- Café Natural en grano (4x250g)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01LW7U7FM{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Piel en serraje hidrofugado de 1,8 mm y teramida SL
-- Impermeable
 - Flexión frontal CFS de máxima comodidad
+- Impermeable
 - Sistema de acolchado HFS para una perfecta sujeción
 - Suela flexible
 

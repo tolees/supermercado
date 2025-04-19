@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rico en zumo de frutas; con aromas naturales
 - Con extracto de hojas de Stevia
+- Rico en zumo de frutas; con aromas naturales
 - Sabor mora
 - Sin azúcar
 

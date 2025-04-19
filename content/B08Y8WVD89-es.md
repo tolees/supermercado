@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Snack Natural Para Perros
 - Sin Cereales Ni Azúcar
-- Monoproteína
-- 96,8 % Di Filetto Di Petto Di Anatra, Amido Di Patate
 - Hecho en Alemania
+- 96,8 % Di Filetto Di Petto Di Anatra, Amido Di Patate
+- Monoproteína
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08Y8WVD89{{</world>}}

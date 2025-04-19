@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Propolis extracto sin alcohol 50 ml drasanvi
-- Cuida tu salud de la mano de Drasanvi
 - 0
+- Cuida tu salud de la mano de Drasanvi
 - Cuidarse nunca fue tan fácil gracias a nuestros productos.
+- Propolis extracto sin alcohol 50 ml drasanvi
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00PYAP2Q8{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tipo de Piel: Todo Tipo de Pieles
-- Formato: Dosificador
 - Texturas: Gel
+- Formato: Dosificador
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00BN7WO7Q{{</world>}}

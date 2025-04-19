@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Óptimo para utilizar en viajes.
-- Elimina los olores y limpia suavemente el pelaje
-- Espuma aromática que neutraliza los malos olores
 - Fácil dosificación
+- Elimina los olores y limpia suavemente el pelaje
+- Óptimo para utilizar en viajes.
+- Espuma aromática que neutraliza los malos olores
 - Cuidados para la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

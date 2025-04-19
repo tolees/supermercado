@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% cacao de cultivo sostenible seleccionado a través de Nestle cocoa plan
 - Hemos hecho un relanzamiento de la gama de chocolate negro y ha dejado de ser “Nestlé Extrafino” para pasar a ser “Nestlé Dark”, por lo que podrías recibir una versión diferente a la visible en las imágenes. El contenido es igual, solamente cambia el packaging
-- Tableta con un cacao cremoso y fundente, adecuado para los paladares mas intensos; Hecho con habas de cacao de calidad gracias a la distribución de 15.5 millones de plantas de alto rendimiento
+- 100% cacao de cultivo sostenible seleccionado a través de Nestle cocoa plan
 - Azúcar, cacao, manteca de cacao, emulgente (lecitina de girasol), aroma natural de vainilla; Puede contener leche y frutos de cáscara; Cacao: 49% mínimo; Sin gluten
+- Tableta con un cacao cremoso y fundente, adecuado para los paladares mas intensos; Hecho con habas de cacao de calidad gracias a la distribución de 15.5 millones de plantas de alto rendimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08JHSCRHN{{</world>}}

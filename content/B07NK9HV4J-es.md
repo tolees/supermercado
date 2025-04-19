@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Combines UVA/UVB sun filters and Calmanelle - a distinct shield complex proven to help strengthen skins resilience(in vitro Testing)
-- Specially developed with dermatologists to protect sun-sensitive skin
 - The water resistant lotion, absorbs quickly and provides hours of moisturisation and helps prevent skin from peeling
 - Model number: 96860
+- Specially developed with dermatologists to protect sun-sensitive skin
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NK9HV4J{{</world>}}

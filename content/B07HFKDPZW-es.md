@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Dientes más blancos tras 7 días de cepillado, al eliminar las manchas superficiales
+- Sabor menta limpia
 - Enjuague bucal sin alcohol para no producir sensación de ardor
 - Protección frente a futuras manchas
-- Sabor menta limpia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HFKDPZW{{</world>}}

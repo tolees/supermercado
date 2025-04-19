@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HIDRATACIÓN INTENSA: De sus propiedades destaca la sandía, la manteca de karité y el extracto de aguacate, que ayudan a evitar la deshidratación de la piel, manteniéndola suave y elástica durante más tiempo.
-- INGREDIENTES NATURALES: A la combinación de ingredientes, se suman los extractos de almendra dulce, sandía, gránulos de azúcar y vitamina C, que contribuyen a nutrir e iluminar la piel.
-- TREE HUT: Nuestra especialidad son los exfoliantes corporales, y por eso trabajamos cada día en nuestras fórmulas naturales para ofrecerte productos de calidad, que se adaptan a todo tipo de pieles.
-- FÁCIL APLICACIÓN: Recomendamos aplicar durante el baño, realizando pequeños masajes. De esta manera, la piel húmeda absorbe las propiedades nutritivas del producto de forma más eficaz y podrás limpiarlo fácilmente.
 - EXFOLIA Y NUTRE LA PIEL: Nuestro exfoliante corporal ha sido elaborado para ayudar a mantener la piel revitalizada. Aporta nutrientes ricos en aceites naturales, así como un dulce aroma a frutas que hará la experiencia un gusto para los sentidos.
+- FÁCIL APLICACIÓN: Recomendamos aplicar durante el baño, realizando pequeños masajes. De esta manera, la piel húmeda absorbe las propiedades nutritivas del producto de forma más eficaz y podrás limpiarlo fácilmente.
+- INGREDIENTES NATURALES: A la combinación de ingredientes, se suman los extractos de almendra dulce, sandía, gránulos de azúcar y vitamina C, que contribuyen a nutrir e iluminar la piel.
+- HIDRATACIÓN INTENSA: De sus propiedades destaca la sandía, la manteca de karité y el extracto de aguacate, que ayudan a evitar la deshidratación de la piel, manteniéndola suave y elástica durante más tiempo.
+- TREE HUT: Nuestra especialidad son los exfoliantes corporales, y por eso trabajamos cada día en nuestras fórmulas naturales para ofrecerte productos de calidad, que se adaptan a todo tipo de pieles.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08Y5X8GJ9{{</world>}}

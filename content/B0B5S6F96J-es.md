@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Brinda a sus consumidores experiencias únicas
 - Cada referencia con una marcada personalidad propia
-- Andalusí Beverages ofrece un amplio abanico de variedades de ginebras, vodkas, licores y anises
+- Brinda a sus consumidores experiencias únicas
 - Crema Andalusi Arroz con Leche
+- Andalusí Beverages ofrece un amplio abanico de variedades de ginebras, vodkas, licores y anises
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5S6F96J{{</world>}}

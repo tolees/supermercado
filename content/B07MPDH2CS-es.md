@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - VEGANO: Hecho de ingredientes orgánicos, puramente Natural, Sin Sulfitos, Sin Parabenos, para cualquier tipo de piel, no testeado en animales.
-- TRIPLE MOLIDO FRANCÉS: Estas barras de jabón de triple molido generan una espuma lujosa que brillará sobre su cuerpo dejando su piel lisa y más suave que antes.
 - EXFOLIANTE: La Arcilla Verde y el Barro del Mar Muerto se combinan para eliminar la piel muerta y suavizar la piel.
-- REVITALIZANTE: El Barro del Mar Muerto hidrata, nutre y revitaliza la piel cansada y dañada.
+- TRIPLE MOLIDO FRANCÉS: Estas barras de jabón de triple molido generan una espuma lujosa que brillará sobre su cuerpo dejando su piel lisa y más suave que antes.
 - PURIFICANTE: La Arcilla Verde absorbe los excesos de grasa y limpian con profundidad cada poro para tratar el acné.
+- REVITALIZANTE: El Barro del Mar Muerto hidrata, nutre y revitaliza la piel cansada y dañada.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MPDH2CS{{</world>}}

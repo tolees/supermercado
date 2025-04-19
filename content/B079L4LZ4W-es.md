@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Exterior ergonómico que facilita el agarre y control
-- Resistente a los roces
 - Un Kajal que no mancha, tonos intensamente ahumados
 - Resistente al agua
+- Resistente a los roces
 - Fórmula súper duradera que se desliza fácilmente sobre el párpado y la línea de agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})

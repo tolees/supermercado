@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Efecto brillo visible al instante.
-- Fórmula vegana cruelty free con un 97% de ingredientes de origen animal.
-- La crema corporal Garnier body superfood mango + vitamina C para pieles secas y apagadas ofrece:
 - Aplica Garnier Body Superfood Crema Corporal Hidratante con Mango y Vitamina C sobre la piel limpia y seca.
 - Una dosis diaria de superalimentos e ingredientes activos para que tu piel luzca sana, hidratada y luminosa durante el año.
+- Fórmula vegana cruelty free con un 97% de ingredientes de origen animal.
+- Efecto brillo visible al instante.
+- La crema corporal Garnier body superfood mango + vitamina C para pieles secas y apagadas ofrece:
 - 48H de hidratación llegando hasta 10 capas de la dermis y con una rápida absorción.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - El detergente en polvo Purox Universal es un eficiente detergente universal fabricado según los estándares de calidad alemanes.
 - ¡Con un paquete grande de 10 kilogramos podrás realizar hasta 122 lavados efectivos!
-- Amigable con el medio ambiente
 - Elimina la suciedad y deja un olor agradable.
+- Amigable con el medio ambiente
 - Tecnología de lavado de primera clase
 
 [🛒 Comprar!!!]({{< param buyurl >}})

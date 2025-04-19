@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula hidratante e impermeable, se llena de manera uniforme sin dejar grumos
-- Efectos y beneficios: un resultado natural o intenso según tus necesidades
-- Tenga en cuenta que el producto se suministra sin ningún tipo de precinto.
-- Máscara impermeable ScandalEyes Volume on Demand con máscara de volumen modular e impermeable
 - Aplicación: el aplicador de cerdas onduladas captura todas las pestañas y define todas las pestañas
+- Tenga en cuenta que el producto se suministra sin ningún tipo de precinto.
+- Fórmula hidratante e impermeable, se llena de manera uniforme sin dejar grumos
+- Máscara impermeable ScandalEyes Volume on Demand con máscara de volumen modular e impermeable
+- Efectos y beneficios: un resultado natural o intenso según tus necesidades
 - Color negro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

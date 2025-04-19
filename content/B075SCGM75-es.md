@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vitaminas
 - Muy convenable
+- Vitaminas
 - Incluye Calcio y Magnesio
 - Nuestro colágeno proviene de pescado y es hidroliza
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Etiqueta Ecológica Europea (Ecolabel)
-- Color Crudo (Kraft)
-- 90 Servilletas de 2 capas
-- Certificados FSC
 - Tamaño Cóctel (22x22cm servilleta abierta)
+- Etiqueta Ecológica Europea (Ecolabel)
+- Certificados FSC
+- 90 Servilletas de 2 capas
+- Color Crudo (Kraft)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08BJQF1VR{{</world>}}

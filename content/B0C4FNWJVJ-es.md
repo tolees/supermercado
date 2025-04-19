@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con tan solo una capsula al día luce piel radiante, cabello saludable y uñas más fuertes!
-- Ingredientes naturales
 - Colageno marino hidrolizado, zinc, levadura de cerveza, glucomato de hierro,acido folico,biotina,levadura de selenio ,vitamina A vitaminas grupo B, C y E
+- Ingredientes naturales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4FNWJVJ{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revlon Super Lustrous Lipstick 674
 - Coloración permanente de larga duración
+- Revlon Super Lustrous Lipstick 674
 - Lipstick 674
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apto para dietas vegetarianas y veganas
-- Envasado en atmósfera protectora para mantener su frescura
 - No apto para alérgicos a otros frutos de cáscara y los cacahuetes, ni para celíacos, debido al método de producción
 - Nueces de macadamia crudas y sin sal para picar en cualquier momento del día
+- Envasado en atmósfera protectora para mantener su frescura
 - Paquete de 7 x 100 g
+- Apto para dietas vegetarianas y veganas
 - Alto contenido de fibra
 
 [🛒 Comprar!!!]({{< param buyurl >}})

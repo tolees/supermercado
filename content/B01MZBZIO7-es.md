@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Recambio para ambientador automtico
+- De larga duracin, hasta 2 meses de fragancia, cada recambio contiene 2400 sprayadas
 - Delicada y suave fragancia floral
 - Perfuma tu hogar y contrarresta los olores
-- De larga duracin, hasta 2 meses de fragancia, cada recambio contiene 2400 sprayadas
-- Recambio para ambientador automtico
 - Formato: 250 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La máscara de pestañas transparente de gel fija y estiliza con precisión las cejas
 - Esence Easy & WOW Brow Set Medium, Set de cejas, maquillaje, regalos para mujeres, vegano, sin micropartículas de plástico, sin perfume, 1 unidad (3 unidades)
-- Lápiz de cejas resistente al agua para dibujar vello y el polvo de cejas rellena las cejas
 - Sin acetona, vegano, sin micropartículas plásticas, sin perfume, sin parabenos, nanopartículas
+- La máscara de pestañas transparente de gel fija y estiliza con precisión las cejas
+- Lápiz de cejas resistente al agua para dibujar vello y el polvo de cejas rellena las cejas
 - Decimos no a los ensayos con animales. Cosnova está listado internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

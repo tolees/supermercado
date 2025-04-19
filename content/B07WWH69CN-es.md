@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El delicioso sabor y aroma del chocolate en una pequeña cápsula de 14 gramos
-- Práctico paquete de 48 cápsulas
-- Visite nuestra BRAND STORE para descubrir toda la selección NOTE DESPRESSO: enlace directo debajo del título del producto
-- Exclusivamente Compatibles con cafeteras de cápsulas NESCAFÉ* DOLCE GUSTO* (* No registrado en Amazon EU S.a.r.l.)
-- Dosis recomendada de agua 150 ml
 - Hechos en Italia
+- Práctico paquete de 48 cápsulas
+- Exclusivamente Compatibles con cafeteras de cápsulas NESCAFÉ* DOLCE GUSTO* (* No registrado en Amazon EU S.a.r.l.)
+- Visite nuestra BRAND STORE para descubrir toda la selección NOTE DESPRESSO: enlace directo debajo del título del producto
+- El delicioso sabor y aroma del chocolate en una pequeña cápsula de 14 gramos
+- Dosis recomendada de agua 150 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07WWH69CN{{</world>}}

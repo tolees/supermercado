@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se utiliza en pediculosis ya que crea un ambiente poco favorable para el crecimiento de piojos; tiene propiedades antiinflamatorias, calmantes e hidratantes
-- Champú preventivo junior con aceite de árbol del té, es un champú que posee un efecto antiséptico triple, ya que actúa contra bacterias, hongos y virus
 - Modo de empleo: aplicar dos o tres veces a la semana
 - Sin parabenos; puede utilizarse en niños a partir de 3 años
+- Se utiliza en pediculosis ya que crea un ambiente poco favorable para el crecimiento de piojos; tiene propiedades antiinflamatorias, calmantes e hidratantes
+- Champú preventivo junior con aceite de árbol del té, es un champú que posee un efecto antiséptico triple, ya que actúa contra bacterias, hongos y virus
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XO2IF2Q{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Práctico y fácil
-- Prepara tus platos mejicanos preferidos
 - Plato estrella de la cocina Tex-Mex
-- Receta mejicana
+- Prepara tus platos mejicanos preferidos
 - Delicioso chili con carne
+- Receta mejicana
+- Práctico y fácil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098TSXTYJ{{</world>}}

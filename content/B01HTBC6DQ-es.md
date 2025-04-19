@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para desayuno
-- Ideal para toda la familia
-- ok
-- Se puede usar para preparar dulces
 - Contiene vitaminas A y D
+- ok
+- Ideal para desayuno
 - Listo para consumir
+- Se puede usar para preparar dulces
+- Ideal para toda la familia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HTBC6DQ{{</world>}}

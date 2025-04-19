@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Variedad de uva: 90% tempranillo, 10% graciano
 - COLOR: Rojo picota
-- CRIANZA: Crianza de 13 meses en barricas de roble americano
 - BOCA: suave y sedosa con sensaciones frescas de fruta madura, acompañadas con notas balsámicas y tostados. Un vino muy equilibrado con un final persistente.
+- CRIANZA: Crianza de 13 meses en barricas de roble americano
+- Variedad de uva: 90% tempranillo, 10% graciano
 - AROMA: Intensos aromas de confitura de fresa y orejones, junto a especiados de pimienta, vainilla y balsámicos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

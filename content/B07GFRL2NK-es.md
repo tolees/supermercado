@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Gel de baño nutritivo con esencia exquisita de nueces y leche de almendras.
-- Extractos naturales: Vitamina B, nueces y almendras
 - CrueltyFree
+- Extractos naturales: Vitamina B, nueces y almendras
 - Cuidado extra hidratante para una piel en forma.
 - La vitamina B ayuda a conseguir un alto rendimiento a lo largo del día y es idónea para afrontar una actividad física
 

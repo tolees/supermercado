@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Gel intenso y muy perfumado caramelos de violeta.
-- Gel de baño y ducha 650 ml. No testado en animales. Vegano. Fabricación íntegra en españa.
 - Género; unisex. Adulto e infantil.
-- Gel de baño y ducha extra relajación, aporta hidratación a la piel y una intensa sensación de bienestar dejándola sutilmente perfumada.
 - Libre de parabenos. Dermatológicamente testado. Vegano. Crea mucha espuma.
+- Gel de baño y ducha 650 ml. No testado en animales. Vegano. Fabricación íntegra en españa.
+- Gel de baño y ducha extra relajación, aporta hidratación a la piel y una intensa sensación de bienestar dejándola sutilmente perfumada.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08MGNGSLY{{</world>}}

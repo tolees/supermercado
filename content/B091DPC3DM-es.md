@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma una capa protectora con la pasta de dientes de Sensodyne Repair & Protect sobre las áreas sensibles de los dientes para ayudar a protegerlos del dolor
-- Pack de 4 unidades de 75 ml para cuatro meses de tratamiento
-- Ayuda a eliminar las manchas para restaurar el blanco natural de los dientes con la pasta de dientes blaqueantes de Sensodyne Repair & Protect
 - Con dos cepillados al día con tu cepillo de dientes Sensodyne y tu pasta Repair & Protect, está clínicamente probado para una protección duradera contra la hipersensibilidad dental
+- Forma una capa protectora con la pasta de dientes de Sensodyne Repair & Protect sobre las áreas sensibles de los dientes para ayudar a protegerlos del dolor
+- Ayuda a eliminar las manchas para restaurar el blanco natural de los dientes con la pasta de dientes blaqueantes de Sensodyne Repair & Protect
+- Pack de 4 unidades de 75 ml para cuatro meses de tratamiento
 - Pasta de dientes Sensodyne Repair & Protect con flúor de uso diario para aliviar la sensibilidad dental
 
 [🛒 Aquí!!!]({{< param buyurl >}})

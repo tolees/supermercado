@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para adultos y niños a partir de 3 años. Facilidad de uso. Se aplica con el ojo cerrado. Muy adecuado para personas con dificultad para abrir el ojo como niños y ancianos
-- Alivia la irritación, el picor y el enrojecimiento de los ojos, indicado en el tratamiento de los ojos irritados y rojos causado por polen, polvo, pelos de mascotas, maquillaje, alteración de la capa lipídica del borde del párpado, es decir, Blefaritis o condiciones ambientales como viento, exposición al sol o polución
-- Restaura la película hidrolipídica lagrimal y tiene un efecto calmante y refrescante, aliviando las molestias de los ojos. Restablece la adecuada función visual
 - Se puede utilizar con maquillaje resistente al agua
+- Apto para adultos y niños a partir de 3 años. Facilidad de uso. Se aplica con el ojo cerrado. Muy adecuado para personas con dificultad para abrir el ojo como niños y ancianos
+- Restaura la película hidrolipídica lagrimal y tiene un efecto calmante y refrescante, aliviando las molestias de los ojos. Restablece la adecuada función visual
 - Hace que el uso de lentes de contacto sea más cómodo durante el día. Un mismo envase puede usarlo varias personas sin riesgo de contaminación
+- Alivia la irritación, el picor y el enrojecimiento de los ojos, indicado en el tratamiento de los ojos irritados y rojos causado por polen, polvo, pelos de mascotas, maquillaje, alteración de la capa lipídica del borde del párpado, es decir, Blefaritis o condiciones ambientales como viento, exposición al sol o polución
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZWL875P{{</world>}}

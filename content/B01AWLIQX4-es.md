@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aromas florales frescos
-- Con notas cítricas fuertes
 - Ideal con platos de ostras al estilo del sudoeste
+- Con notas cítricas fuertes
+- Aromas florales frescos
 - Bebida de aspecto claro
 - Ideal para preparar cócteles
 

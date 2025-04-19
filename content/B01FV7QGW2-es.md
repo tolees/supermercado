@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fórmula enriquecida con filtros UV
-- Ha sido especialmente desarrollado para proteger el brillo del color
-- Nutre intensamente el cabello
-- Elaborado para cabellos teñidos o con mechas
 - Con peonía roja
+- Nutre intensamente el cabello
+- Ha sido especialmente desarrollado para proteger el brillo del color
+- Elaborado para cabellos teñidos o con mechas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01FV7QGW2{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alérgenos: Contiene cacahuetes. Puede contener trazas de frutos de cáscara,soja, leche y derivados.
+- Ingredientes: CACAHUETES, aceite de girasol alto oleico, sal, pimenton picante, cayena molida y antioxidantes
 - Conservar en lugar limpio, fresco y seco. Mantener alejado de la acción de la luz solar.
 - País de Origen: España/Francia/India/Brasil/Argentina
-- Ingredientes: CACAHUETES, aceite de girasol alto oleico, sal, pimenton picante, cayena molida y antioxidantes
+- Alérgenos: Contiene cacahuetes. Puede contener trazas de frutos de cáscara,soja, leche y derivados.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B091G4S9XQ{{</world>}}

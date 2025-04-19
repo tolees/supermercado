@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
-- ESPRESSO BARISTA PERFETTO: El café en grano natural tostado Lavazza que te hace sentir como un verdadero barista. Prepára tu café con máquina de café espresso o automática y disfruta del auténtico espresso italiano
 - VARIEDAD: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente de América Central y del Sur
-- NOTAS AROMÁTICAS: Espresso Barista Perfetto es un café caracterizado por notas aromáticas florales, para un sabor aromático y redondo
+- ESPRESSO BARISTA PERFETTO: El café en grano natural tostado Lavazza que te hace sentir como un verdadero barista. Prepára tu café con máquina de café espresso o automática y disfruta del auténtico espresso italiano
 - CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
-- El término italiano “torrefatto” que aparece en el envase original significa “tostado” y no se refiere de ninguna manera a una variedad de café torrefacto
 - INTENSIDAD: La intensidad 6/10 y el tueste medio, realizado en tambor con un ciclo largo especial, brindan una textura cremosa y un sabor aromático a este café en grano natural
+- El término italiano “torrefatto” que aparece en el envase original significa “tostado” y no se refiere de ninguna manera a una variedad de café torrefacto
+- NOTAS AROMÁTICAS: Espresso Barista Perfetto es un café caracterizado por notas aromáticas florales, para un sabor aromático y redondo
+- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B002V86PEY{{</world>}}

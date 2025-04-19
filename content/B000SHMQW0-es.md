@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su sabor INTENSO destaca por sus envolventes notas de cacao y frutos secos, un ligero gusto amargo y un cuerpo consistente
+- Gracias a su perfume intenso, el café molido illy es la promesa de una emocionante experiencia de degustación desde el momento en que abres la lata
 - Gracias al proceso de presurización, los aromas de esta mezcla se conservan en la lata illy, donde se refinan y exaltan con el tiempo
+- Su sabor INTENSO destaca por sus envolventes notas de cacao y frutos secos, un ligero gusto amargo y un cuerpo consistente
 - Café molido para espresso Tueste INTENSO, illy mezcla 100% Arábica, sabor intenso y con cuerpo
 - Diseñado con un nivel de molienda específico para la preparación del espresso, te permite crear el café que más te gusta con el ritual que más prefieres
-- Gracias a su perfume intenso, el café molido illy es la promesa de una emocionante experiencia de degustación desde el momento en que abres la lata
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000SHMQW0{{</world>}}

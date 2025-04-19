@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color intenso y brillante
 - Su fórmula proporciona optima hidratación y suavidad durante 24 horas
-- La barra de labios Colour Elixir de Priyanka
 - Aplícalo para un color pigmentado con un acabado de larga duración
+- La barra de labios Colour Elixir de Priyanka
+- Color intenso y brillante
 - Contiene ingredientes saludables como aceite de aguacate, aceite de coco, manteca de karité y extracto de hoja de aloe
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

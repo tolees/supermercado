@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Crema corporal hidratante que aporta una sensación de calma y confort gracias a las propiedades antiinflamatorias de la regaliz y la calendula. Es ideal para las pieles atopicas.
+- KALENDAE HidraCalm Atopic 400 ml Organica - Loción emoliente relipidizante indicada para el cuidado diario de la piel seca, sensible y con tendencia atopica. Hidrata de forma duradera, reduce la sequedad de la piel, restaura la barrera cutánea y previenen el picor en la piel atopica.
 - Crema piel atopica con una formualcion orgánica unica de alta tolerancia libre de Alcohol. Hipoalergénico. Ideal para toda la familia. Testado bajo control dermatológico. Aplicar sobre la piel libre de brotes y eccema.
 - 99.5% de ingredientes de origen natural. Aceites 100% de origen vegetal. Sin parabenos ni fenoxietanol. Formula 100% vegana, no testado en animales.
-- Crema corporal hidratante que aporta una sensación de calma y confort gracias a las propiedades antiinflamatorias de la regaliz y la calendula. Es ideal para las pieles atopicas.
 - La manteca de karite y los ácidos grasos esenciales omega 3 y 6 nutren en profundidad y ayudan a fortalecer la barrera cutánea, reparando la piel. Unido a la estimulación de la síntesis de colágeno por parte de los fitoesteroles de la calendula, se consigue una protección óptima de la piel ante agresiones externas.
-- KALENDAE HidraCalm Atopic 400 ml Organica - Loción emoliente relipidizante indicada para el cuidado diario de la piel seca, sensible y con tendencia atopica. Hidrata de forma duradera, reduce la sequedad de la piel, restaura la barrera cutánea y previenen el picor en la piel atopica.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHZTBCGF{{</world>}}

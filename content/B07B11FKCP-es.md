@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cider: bebida natural procedente del zumo fermentado de manzana
+- 4.5% de alcohol en volumen y sin gluten
 - La combinación óptima de manzanas dulces y ácidas
+- Cider: bebida natural procedente del zumo fermentado de manzana
 - Ingredientes: zumo de manzana concentrado con glucosa, agua, jarabe de glucosa y fructosa, colorante caramelo natural, acidulante acido málico, gasificante dióxido de carbono, antioxidante metabisulfito potásico, y aroma natural
 - Ladrón de manzanas se disfruta con 3 hielos y una rodaja de limón; no se escancia
-- 4.5% de alcohol en volumen y sin gluten
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07B11FKCP{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborados con queso y hierbas aromáticas
 - Snacks horneados con ingredientes naturales
-- Sin aceite de palma y sin conservantes ni colorantes artificiales
 - Fuente de fibra
 - Un snack para fiestas y cumpleaños
+- Sin aceite de palma y sin conservantes ni colorantes artificiales
+- Elaborados con queso y hierbas aromáticas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZ1TLRNB{{</world>}}

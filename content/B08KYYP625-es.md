@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El champú Hidratante Jean y Len está desarrollado para cabellos secos, sin brillo y dañados y proporciona una melena suave con un brillo natural. Fabricado cuidadosamente en Alemania
-- El cuidado capilar para cabellos muy secos mejora la estructura y aporta hidratación al cabello. La fragancia de romero y jengibre mima tus sentidos con cada lavado del cabello
-- Contenido del envío: 1 x 300 ml Jean&Len Champú Hidratación Romero y Jengibre, mima el cabello seco, aroma-fresco, unisex, sin parabenos ni siliconas
-- La fórmula de cuidado con un potente compuesto de glicerina vegetal, betaína y avena negra limpia cuida notablemente el cabello
 - Sin Gedøns: para nosotros, Gedøns son ingredientes a los que Len renuncia personalmente sin problemas: el producto no tiene siliconas, parabenos ni microplásticos, dermatológicamente testado
+- El cuidado capilar para cabellos muy secos mejora la estructura y aporta hidratación al cabello. La fragancia de romero y jengibre mima tus sentidos con cada lavado del cabello
+- La fórmula de cuidado con un potente compuesto de glicerina vegetal, betaína y avena negra limpia cuida notablemente el cabello
+- Contenido del envío: 1 x 300 ml Jean&Len Champú Hidratación Romero y Jengibre, mima el cabello seco, aroma-fresco, unisex, sin parabenos ni siliconas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08KYYP625{{</world>}}

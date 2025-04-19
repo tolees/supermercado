@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🚫🌿 SIN ACEITE DE PALMA: Elaborada sin aceite de palma, manteniendo su delicioso sabor con ingredientes de calidad.
-- ⚠️🌰🥛 ALÉRGENOS Y CONSERVACIÓN: Contiene leche, avellanas y soja. Consérvala en un lugar fresco y seco para mantener su sabor y textura perfectos. ¡Nocillea y disfruta! 🥰
-- 💪🥄 NUTRICIÓN: Fuente de calcio, SIN GLUTEN y perfecta para toda la familia. Úsala para untar, rellenar postres o dar un toque especial a tus creaciones culinarias. ¡Convierte tus recetas en delicias!
-- 🥛✨ FORMATO AHORRO: Tarrina de 850g, ideal para desayunos, meriendas o como ingrediente estrella en tus recetas dulces. Formato familiar.
 - 🍫 NOCILLA ORIGINAL: La clásica crema de cacao con avellanas, con textura cremosa y sabor inconfundible, perfecta para untar, mezclar o disfrutar a cucharadas en cualquier momento.
+- ⚠️🌰🥛 ALÉRGENOS Y CONSERVACIÓN: Contiene leche, avellanas y soja. Consérvala en un lugar fresco y seco para mantener su sabor y textura perfectos. ¡Nocillea y disfruta! 🥰
+- 🥛✨ FORMATO AHORRO: Tarrina de 850g, ideal para desayunos, meriendas o como ingrediente estrella en tus recetas dulces. Formato familiar.
+- 🚫🌿 SIN ACEITE DE PALMA: Elaborada sin aceite de palma, manteniendo su delicioso sabor con ingredientes de calidad.
+- 💪🥄 NUTRICIÓN: Fuente de calcio, SIN GLUTEN y perfecta para toda la familia. Úsala para untar, rellenar postres o dar un toque especial a tus creaciones culinarias. ¡Convierte tus recetas en delicias!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWHJNZMX{{</world>}}

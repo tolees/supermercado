@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- h&s Limpieza Profunda con Carbón y Mentol elimina la suciedad con un torbellino refrescante que proporciona una sensación de frescor y limpieza
 - Fórmula probada dermatológicamente y clínicamente probada, eficaz contra la descamación y suave con la piel
+- h&s Limpieza Profunda con Carbón y Mentol elimina la suciedad con un torbellino refrescante que proporciona una sensación de frescor y limpieza
 - Limpia suavemente el cuerpo mientras combate la caspa y deja una sensación de limpieza y frescor libre de caspa
-- El primer gel de ducha anticaspa de h&s, el champú n.º 1 del mundo
 - h&s Anticaspa champú y gel de ducha para pelo, cuerpo y cara
+- El primer gel de ducha anticaspa de h&s, el champú n.º 1 del mundo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09H7M9DGW{{</world>}}

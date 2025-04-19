@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Esta mascarilla capilar es vegana (fórmula vegana: sin ingredientes o subproductos derivados de animales)
 - Reciclable (depende de las instalaciones de reciclaje)
-- Para el pelo dañado que necesita una reparación urgente
 - Aussie SOS Mascarilla capilar hidratante con ingredientes botánicos australianos auténticos
+- Para el pelo dañado que necesita una reparación urgente
 - PETA reconoce a Aussie como libre de maltrato animal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

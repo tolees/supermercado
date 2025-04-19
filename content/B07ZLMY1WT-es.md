@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cápsulas compatibles con las máquinas para uso doméstico Nescafé Dolce Gusto. Cápsulas que cuentan con preciados orígenes, atentamente seleccionados y tostados para prepara el café espresso italiano
-- Conservabilidad: 24 meses a partir de la fecha de su producción. Modo de conservación: conservar en un lugar fresco y seco, lejos de fuentes de calor y humedad
-- Una mezcla de carácter fuerte y decidido. Un aroma intenso y perfumado con notas especiadas, típicas de los cafés de origen Robusta, de cuerpo rico y persistente con matices ligeramente amargos
-- Conservabilidad: 36 meses a partir de la fecha de su producción. Modo de conservación: conservar en un lugar fresco y seco, lejos de fuentes de calor y humedad
 - El extracto presenta una crema bien densa, persistente y con tonalidades pardo-ámbar
+- Cápsulas compatibles con las máquinas para uso doméstico Nescafé Dolce Gusto. Cápsulas que cuentan con preciados orígenes, atentamente seleccionados y tostados para prepara el café espresso italiano
+- Una mezcla de carácter fuerte y decidido. Un aroma intenso y perfumado con notas especiadas, típicas de los cafés de origen Robusta, de cuerpo rico y persistente con matices ligeramente amargos
+- Conservabilidad: 24 meses a partir de la fecha de su producción. Modo de conservación: conservar en un lugar fresco y seco, lejos de fuentes de calor y humedad
+- Conservabilidad: 36 meses a partir de la fecha de su producción. Modo de conservación: conservar en un lugar fresco y seco, lejos de fuentes de calor y humedad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZLMY1WT{{</world>}}

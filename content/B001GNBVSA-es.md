@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material de calidad
-- Producto de maquillaje de la marca Max Factor
 - Ofrece un resultado óptimo y adecuado
+- Producto de maquillaje de la marca Max Factor
 - Sencillo de aplicar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

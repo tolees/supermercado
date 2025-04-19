@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Brillo óptimo y poder de limpieza
-- Gracias a su rápida disolución, elimina las manchas más difíciles, ofreciendo resultados óptimos incluso en ciclos cortos
-- Gel para el lavavajillas con brillo y protección todo en uno
 - Protege contra la corrosión del cristal
+- Gracias a su rápida disolución, elimina las manchas más difíciles, ofreciendo resultados óptimos incluso en ciclos cortos
+- Brillo óptimo y poder de limpieza
+- Gel para el lavavajillas con brillo y protección todo en uno
 - Finish es la marca recomendada por los principales fabricantes de lavavajillas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

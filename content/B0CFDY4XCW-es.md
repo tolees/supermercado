@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema de control de temperatura inteligente NTC con 2 termostatos separados, controlando la temperatura del café expreso y la congelación por separado, por lo que el botón de café y espuma de leche puede alcanzar el estado ideal.
 - Sistema de presión de 20 bares: bomba de alta presión de 20 bar que puede proporcionar una extracción rápida y estable que hace que el espresso sea más fragrante y rico en crema.
-- Advanced THERMOBLOCK FAST HEATING -Advanced 1350W Big Power Thermoblock Fast Heating System can continue to make espresso or froth milk. You can enjoy making a good kind of coffee in 45 seconds.
+- Sistema de control de temperatura inteligente NTC con 2 termostatos separados, controlando la temperatura del café expreso y la congelación por separado, por lo que el botón de café y espuma de leche puede alcanzar el estado ideal.
 - Incluye 1 máquina de espresso, 1 filtro portafiltro, 1 funnel de disparo, 1 funnel de 2 disparos, 1 cuchara, 1 manual de usuario (idioma español no garantizado). (La pintura de leche no está incluida).
+- Advanced THERMOBLOCK FAST HEATING -Advanced 1350W Big Power Thermoblock Fast Heating System can continue to make espresso or froth milk. You can enjoy making a good kind of coffee in 45 seconds.
 - ADJUSTABLE ESPRESSO AMOUNT-There are three functions for you to choose: One shot, Double Shoots, or Manual-Control the number of coffee by yourself.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

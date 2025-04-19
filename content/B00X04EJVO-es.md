@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Polvo para ganar masa en 5 variedades: Batido de Chocolate, Mantequilla de Cacahuete Chocolate, Galletas y Crema, Batido de Fresa y Helado de Vainilla
-- Mezcla 1 medida (37 g) con 120 - 150 ml de agua fría
-- * Fuente: REGLAMENTO DE LA COMISIÓN (UE) Nº 432/2012 de 16 de mayo de 2012
-- BSN suplemento para entrenamiento con aminoácidos BCAA y L-Arginina; fácil de mezclar que permite crear rápidamente sabrosas bebidas deportivas, batidos y batidos de proteínas
-- BSN Syntha 6 Edge, una proteína en polvo muy eficaz utilizada por atletas y entusiastas del gimnasio de todo el mundo, maximiza los efectos de las sesiones de entrenamiento y las rutinas de ejercicio
 - La proteína en polvo de primera calidad que proporciona todos los beneficios de Syntha-6 aunque con un perfil de macronutrientes mejorado
+- * Fuente: REGLAMENTO DE LA COMISIÓN (UE) Nº 432/2012 de 16 de mayo de 2012
+- BSN Syntha 6 Edge, una proteína en polvo muy eficaz utilizada por atletas y entusiastas del gimnasio de todo el mundo, maximiza los efectos de las sesiones de entrenamiento y las rutinas de ejercicio
+- Polvo para ganar masa en 5 variedades: Batido de Chocolate, Mantequilla de Cacahuete Chocolate, Galletas y Crema, Batido de Fresa y Helado de Vainilla
 - Este suplemento de proteína en polvo es bajo en azúcar y contiene 24 gramos de proteína en cada porción para promover la ganancia de masa muscular y el mantenimiento de los músculos*
+- BSN suplemento para entrenamiento con aminoácidos BCAA y L-Arginina; fácil de mezclar que permite crear rápidamente sabrosas bebidas deportivas, batidos y batidos de proteínas
+- Mezcla 1 medida (37 g) con 120 - 150 ml de agua fría
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X04EJVO{{</world>}}

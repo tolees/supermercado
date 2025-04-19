@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado en Italia
 - Marca: Ralph Lauren
 - Producto de alta calidad
+- Fabricado en Italia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B008MF2SP0{{</world>}}

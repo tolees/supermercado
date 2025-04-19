@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Genera un aspecto saludable. Acabado de peluquería
+- Globalmente TRESemmé no testa en animales
 - Acondicionador que nutre el cabello seco y dañado​
+- Genera un aspecto saludable. Acabado de peluquería
 - Formulado con vitamina E, proporciona vitalidad y suavidad​
 - Acondicionador TRESemmé Intensa Hidratación localiza las zonas más secas de tu pelo y restablece la hidratación
-- Globalmente TRESemmé no testa en animales
 - Devuelve la hidratación al mismo tiempo que lo fortalece​
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

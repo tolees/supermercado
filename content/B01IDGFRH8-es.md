@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- RUTINA DIARIA PARA EL CABELLO La cafeína activa las raíces del crecimiento del cabello, zinc y niacina las fortalecen y así el cabello se vuelve saludable, fuerte y abundante.
-- TRATAMIENTO SIN SILICONA Para nuestro champú anticaida hombre hemos evitado deliberadamente las siliconas suavizantes para facilitar el peinado. Alpecin Cafeina Liquida deja una ligera y fresca sensación de hormigueo en el cuero cabelludo.
-- INVESTIGACIÓN DE ALPECIN Alpecin es la marca de cuidado del cabello más vendida para la prevención de la caída del cabello en hombres en Alemania (*Nielsen) con eficacia científica probada.
-- APLICACIÓN Utilice diariamente el champu para la caida de pelo y dejar en el cuero cabelludo durante al menos 2 minutos. Aplicar Alpecin Liquid sobre el cuero cabelludo seco o secado con toalla con una punta dosificadora y masajear, no enjuagar.
 - PREVIENE LA PÉRDIDA DE CABELLO Con su fórmula única y el complejo de cafeína, zinc y niacina, Alpecin Champú Cafeína C1 y Cafeína Liquida apoya el crecimiento natural del cabello.
+- APLICACIÓN Utilice diariamente el champu para la caida de pelo y dejar en el cuero cabelludo durante al menos 2 minutos. Aplicar Alpecin Liquid sobre el cuero cabelludo seco o secado con toalla con una punta dosificadora y masajear, no enjuagar.
+- TRATAMIENTO SIN SILICONA Para nuestro champú anticaida hombre hemos evitado deliberadamente las siliconas suavizantes para facilitar el peinado. Alpecin Cafeina Liquida deja una ligera y fresca sensación de hormigueo en el cuero cabelludo.
+- RUTINA DIARIA PARA EL CABELLO La cafeína activa las raíces del crecimiento del cabello, zinc y niacina las fortalecen y así el cabello se vuelve saludable, fuerte y abundante.
+- INVESTIGACIÓN DE ALPECIN Alpecin es la marca de cuidado del cabello más vendida para la prevención de la caída del cabello en hombres en Alemania (*Nielsen) con eficacia científica probada.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01IDGFRH8{{</world>}}

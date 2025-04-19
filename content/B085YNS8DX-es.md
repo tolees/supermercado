@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contribuyen al funcionamiento normal del sistema inmune
 - Sin gluten, lactosa y sin azúcares añadidos
+- Contribuyen al funcionamiento normal del sistema inmune
 - Conservar en lugar fresco y seco
 - Crema de arroz nutritiva y sabrosa para bebés a partir de los 4 meses
 - Contiene fibras, vitaminas, calcio, hierro y zinc

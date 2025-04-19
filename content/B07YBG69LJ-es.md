@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las notas de salida son limón, bergamota y naranja; las de corazón de enebro, lavanda, rosa y acordes vegetales; las de fondo madera de gaiac, musgo y almizcle
 - Colonia El Ganso con fragancia cítrica almizclada para hombres
-- Ideada para esos héroes optimistas y naturales que siempre ven el vaso medio lleno. Esos que sin ser el chico perfecto, poseen ese no-se-qué que los hace completamente irresistibles
 - Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
+- Ideada para esos héroes optimistas y naturales que siempre ven el vaso medio lleno. Esos que sin ser el chico perfecto, poseen ese no-se-qué que los hace completamente irresistibles
+- Las notas de salida son limón, bergamota y naranja; las de corazón de enebro, lavanda, rosa y acordes vegetales; las de fondo madera de gaiac, musgo y almizcle
 - Vaporizador de 125ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

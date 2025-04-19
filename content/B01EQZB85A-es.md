@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contiene aparte de Carne de aves de corral, pescado de alta calidad como proveedor de proteína importante
-- Extractos de mejillones para fortalecer cartílagos, articulaciones y huesos
-- Sin trigo & sin azúcar
-- Gran porción de ácidos grasos insaturados para el bienestar del pelo y la piel
 - Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
+- Sin trigo & sin azúcar
+- Extractos de mejillones para fortalecer cartílagos, articulaciones y huesos
+- Gran porción de ácidos grasos insaturados para el bienestar del pelo y la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01EQZB85A{{</world>}}

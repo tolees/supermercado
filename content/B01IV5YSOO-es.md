@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GALLETAS CRUJIENTES: Una exquisita barra de chocolate con leche colocada cuidadosamente sobre nuestras galletas crujientes. La consistencia suave de nuestro chocolate combinada con el crujido en cada mordisco seguramente te conquistará.
+- INSTRUCCIONES A SEGUIR: Mordisquee los bordes de chocolate y bañe la galleta en una taza de té o café. ¡Es la galleta perfecta!
+- DELICIA VEGETARIANA: Una galleta de chocolate sin huevo elaborada con los mejores ingredientes, libres de modificaciones genéticas. Perfecta para una dieta vegetariana, es reconocida por sorprender a los invitados con una taza caliente de café o té.
 - EMBALAJE PRÁCTICO: Las galletas vienen en una bandeja ligera de plástico, con 4 separadores y 2 galletas en cada separador (8 por paquete).
 - HECHO EN ESPAÑA - Elaborado en las Islas Canarias. Tirma es una marca española con más de 80 años de experiencia en el mercado de la confitería. Disponible en una gran variedad de deliciosos sabores y formatos, descubre el sabor de Tirma.
-- DELICIA VEGETARIANA: Una galleta de chocolate sin huevo elaborada con los mejores ingredientes, libres de modificaciones genéticas. Perfecta para una dieta vegetariana, es reconocida por sorprender a los invitados con una taza caliente de café o té.
-- INSTRUCCIONES A SEGUIR: Mordisquee los bordes de chocolate y bañe la galleta en una taza de té o café. ¡Es la galleta perfecta!
+- GALLETAS CRUJIENTES: Una exquisita barra de chocolate con leche colocada cuidadosamente sobre nuestras galletas crujientes. La consistencia suave de nuestro chocolate combinada con el crujido en cada mordisco seguramente te conquistará.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IV5YSOO{{</world>}}

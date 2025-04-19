@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Una caja con 12 dulces veganos respetuosos con el medio ambiente. Cada galleta viene en un pequeño envoltorio que es ideal como tentempié rápido para tus viajes, para el desayuno o para el café de la tarde en la oficina. Es la mejor forma de tomar un tentempié sin remordimientos. Apto para dietas libres de soja y trigo.
+- Con certificación biológica y vegana. Los ingredientes básicos de nuestras galletas son la avena sin gluten y los anacardos. La lenta absorción de la avena y las grasas saludables de los anacardos son una combinación que garantiza una nutrición equilibrada y saciante.
+- Valores nutricionales (por 50 g): Energía - 987kj/237kcal, Grasas - 13 g (de las cuales Saturadas - 7 g); Carbohidratos Totales - 22 g (de los cuales Azúcares - 10 g); Fibra - 4,3 g; Proteínas - 5,5 g; Sal - 0,02 g.
 - Las galardonadas galletas veganas Kookie Cat se elaboran en nuestra fábrica de última generación, que reúne todos los requisitos para la elaboración de alimentos ecológicos. Aplicamos los más altos estándares de calidad en la producción, las materias primas y el envasado.
 - Ingredientes: avena sin gluten, néctar de flor de coco, ANACARDOS, coco desecado, aceite de coco, virutas de coco, chía (4,2%), aceite de limón (0,1%), sal.
-- Valores nutricionales (por 50 g): Energía - 987kj/237kcal, Grasas - 13 g (de las cuales Saturadas - 7 g); Carbohidratos Totales - 22 g (de los cuales Azúcares - 10 g); Fibra - 4,3 g; Proteínas - 5,5 g; Sal - 0,02 g.
-- Con certificación biológica y vegana. Los ingredientes básicos de nuestras galletas son la avena sin gluten y los anacardos. La lenta absorción de la avena y las grasas saludables de los anacardos son una combinación que garantiza una nutrición equilibrada y saciante.
-- Una caja con 12 dulces veganos respetuosos con el medio ambiente. Cada galleta viene en un pequeño envoltorio que es ideal como tentempié rápido para tus viajes, para el desayuno o para el café de la tarde en la oficina. Es la mejor forma de tomar un tentempié sin remordimientos. Apto para dietas libres de soja y trigo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B075W67NFF{{</world>}}

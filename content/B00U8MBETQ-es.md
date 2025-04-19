@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cordel de fibra natural que puede cortarse
-- 10 tarjetas de felicitación con agujero
 - 10 manteles de algodón con borde curvado
+- Cordel de fibra natural que puede cortarse
 - 10 gomas elásticas
-- Set completo para decoración con cariño de tarros de mermelada
 - 10 pegatinas autoadhesivas
+- Set completo para decoración con cariño de tarros de mermelada
+- 10 tarjetas de felicitación con agujero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00U8MBETQ{{</world>}}

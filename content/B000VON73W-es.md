@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las notas olfativas principales de este producto son oriental y floral.
 - De la marca Calvin Klein.
+- Las notas olfativas principales de este producto son oriental y floral.
 - Este producto está indicado para mujeres.
 - Contiene 150 ml.
 

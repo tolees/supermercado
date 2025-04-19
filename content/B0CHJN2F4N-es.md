@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Formato/Añada Comercializada actualmente por el productor
 - Ginebra
-- Caja de 3 Botellas de 70 cl
+- Formato/Añada Comercializada actualmente por el productor
 - Producto de Reino Unido
+- Caja de 3 Botellas de 70 cl
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CHJN2F4N{{</world>}}

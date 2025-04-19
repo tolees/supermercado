@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Coloración sin amoniaco
 - Cobertura óptima de los cabellos blancos
+- Coloración sin amoniaco
 - Nutrición intensa: cabellos voluptuosos, como renovados
 - Color centelleante lleno de reflejos
 - Duración hasta 28 lavados

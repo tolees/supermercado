@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Elaborado con ingredientes 100% naturales de la mejor calidad, tal y como lo harías tú en casa
+- Descubre el resto de recetas elaboradas con el equilibrio nutricional específico para cada etapa
 - Alimento infantil a partir de los 8 meses
 - Conservación y esterilización natural al baño María
-- Descubre el resto de recetas elaboradas con el equilibrio nutricional específico para cada etapa
 - No incluye aceite de palma, almidón, ni sal añadida. Tampoco conservantes ni colorantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

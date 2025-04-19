@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto 1: Tiene un aroma ligeramente dulce con un toque a vainilla
-- producto 2: Seagrams Dry Gin es una ginebra premium de doble destilación en alambiques de más de 100 años de antigüedad
-- producto 2: Seagrams Dry Gin mantiene un sabor clásico combinando las notas de enebro con toques herbáceos
-- producto 1: Bebe Ballantines Finest Whisky como tú quieras: solo, on the rocks, combinado o en cocktail (Cola, Ginger Ale)
 - producto 2: Junto a la destilación de grano 100% americano, y la mezcla de finos y botánicos, obtenemos una ginebra premium
 - producto 1: Un sabor equilibrado y redondo. Regusto fresco y floral que crea un brillo redondeado
+- producto 1: Tiene un aroma ligeramente dulce con un toque a vainilla
 - producto 1: Color dorado claro, notas dulces y sutiles de chocolate con leche, vainilla y manzana roja
+- producto 1: Bebe Ballantines Finest Whisky como tú quieras: solo, on the rocks, combinado o en cocktail (Cola, Ginger Ale)
+- producto 2: Seagrams Dry Gin mantiene un sabor clásico combinando las notas de enebro con toques herbáceos
 - producto 2: Seagrams Dry Gin posee un ligero color oro y un aroma suave a cítricos, botánicos y hierbas de tocador
+- producto 2: Seagrams Dry Gin es una ginebra premium de doble destilación en alambiques de más de 100 años de antigüedad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYZ536FJ{{</world>}}

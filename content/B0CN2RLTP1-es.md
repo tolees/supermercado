@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Vegetariano
-- La siguiente información se aplica a cada unidad del paquete
 - Vegano
 - País de origen: China
 - Los beneficios más conocidos de este producto es que ayuda a la pérdida de peso, disminución del colesterol, control de la diabetes y la regulación gastrointestinal.
+- La siguiente información se aplica a cada unidad del paquete
 - Ideales para acompañar con verduras salteadas o con una sopa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

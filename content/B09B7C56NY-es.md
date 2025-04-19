@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VARIEDAD: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente de Centro y Sudamérica
-- ESPRESSO MAESTRO CLASSICO: Pura excelencia. 100 cápsulas de aluminio compatibles con las máquinas Nespresso*. *Lavazza no está respaldada o patrocinada por Nespresso
 - INTENSIDAD: La intensidad 9 y el tueste medio-oscuro brindan un sabor equilibrado a este café, para un espresso inolvidable
 - LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
+- VARIEDAD: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente de Centro y Sudamérica
 - NOTAS AROMÁTICAS: Espresso Maestro Classico es caracterizado por toques de cereales y galletas, para un café dulce y equilibrado, con una pizca de acidez
+- ESPRESSO MAESTRO CLASSICO: Pura excelencia. 100 cápsulas de aluminio compatibles con las máquinas Nespresso*. *Lavazza no está respaldada o patrocinada por Nespresso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09B7C56NY{{</world>}}

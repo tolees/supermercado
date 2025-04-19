@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ingredientes Naturales: Agua, cebada malteada, jarabe de glucosa, azúcar, lúpulo, ácido cítrico, sabores (75% del tequila)
-- Refrescante y de cuerpo ligero con 5.9% de alcohol en volumen
-- De color amarillo dorado, limpio y transparente con una espuma abierta y efímera
-- Cerveza de tipo Lager aromatizada con tequila; una combinación de cerveza rubia refrescante y ligera con un puntito picante y cítrico para conseguir la mezcla óptima
 - Consumirla directamente de la botella entre 2 y 4 grados para obtener sus óptimas cualidades
+- De color amarillo dorado, limpio y transparente con una espuma abierta y efímera
+- Refrescante y de cuerpo ligero con 5.9% de alcohol en volumen
+- Cerveza de tipo Lager aromatizada con tequila; una combinación de cerveza rubia refrescante y ligera con un puntito picante y cítrico para conseguir la mezcla óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CNQ9M6L{{</world>}}

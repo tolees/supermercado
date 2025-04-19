@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las proteínas contribuyen al crecimiento y mantenimiento de la masa muscular
-- Las proteínas de suero son de alto valor biológico y contienen, de forma natural, aminoácidos de cadena ramificada (BCAA)
 - Yamamoto Nutrition ISO-FUJI es un complemento alimenticio a base de proteínas de suero de leche
+- Las proteínas de suero son de alto valor biológico y contienen, de forma natural, aminoácidos de cadena ramificada (BCAA)
+- Las proteínas contribuyen al crecimiento y mantenimiento de la masa muscular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XSNSL6G{{</world>}}

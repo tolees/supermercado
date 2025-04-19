@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El ABC del cabello sano: repara, hidrata y progete. Aporta mayor protección de puentes y un cabello más resistente, x11 veces más suave, brillante y protegido ante el encrespamiento
 - Usar como sistema completo con el acondicionador Acidic Bonding Concentrate. Aplicar sobre cabello húmedo, hacer espuma y aclarar. Seguir con el acondicionador de Acidic Bonding Concentrate. En caso de contacto con los ojos, aclarar inmediatamente.
+- El ABC del cabello sano: repara, hidrata y progete. Aporta mayor protección de puentes y un cabello más resistente, x11 veces más suave, brillante y protegido ante el encrespamiento
 - Champú sin sulfatos, una solución profesional para reparar, proteger, transformar y nutrir el cabello. Recomendado para todo tipo de cabellos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cereales con vitaminas de grupo B y hierro
 - Cereales sin aromas artificiales
 - Si lo tuyo es el chocolate, te encantarán estas crujientes almohadillas de arroz, avena y trigo
+- Cereales con vitaminas de grupo B y hierro
 - Cereales de arroz, avena y trigo con sabor a chocolate con leche y con delicioso relleno fundido con chocolate y avellanas
 - Cereales sin colorantes artificiales
 

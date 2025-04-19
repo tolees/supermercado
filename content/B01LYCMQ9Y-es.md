@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula que no se seca, cómoda de llevar, sensación de ingravidez
 - Ofrece un color mate y duradero
+- Fórmula que no se seca, cómoda de llevar, sensación de ingravidez
 - Viene envasado en barra de 3.4 gramos
 - Empapa labios en humedad hidratante
 

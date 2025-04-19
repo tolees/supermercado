@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de Johnnie Walker Black Label Sherry Finish solo o con hielo; también es adecuado para acompañar frutos secos o chocolate en la sobremesa o como base para cócteles como el Old Fashioned
 - Johnnie Walker Black Label Sherry Finish ofrece todos los aromas y matices del Black Label, así como la dulzura de los higos y de las ciruelas, gracias a la crianza en barricas de jerez
 - Johnnie Walker Black Label Sherry Finish es el regalo idóneo para aquellos que quieren saborear algo especial
-- Añejado en barricas de jerez, ofrece una verdadera explosión de sabores
+- Disfruta de Johnnie Walker Black Label Sherry Finish solo o con hielo; también es adecuado para acompañar frutos secos o chocolate en la sobremesa o como base para cócteles como el Old Fashioned
 - Johnnie Walker es una marca de whisky con más de 200 años de historia; su eslogan ha sido acuñado en todas partes para inspirar el progreso y el coraje ante la adversidad: Keep Walking; nuestras variedades incluyen desde las etiquetas clásicas hasta las mezclas más exclusivas en ediciones limitadas
+- Añejado en barricas de jerez, ofrece una verdadera explosión de sabores
 - Whisky escocés de mezcla suave, envejecido durante al menos doce años, tiene un sabor vibrante y con cuerpo, y una maduración adicional en barricas de jerez, que le confiere las notas dulces
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

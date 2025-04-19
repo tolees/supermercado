@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El regalo óptimo de Airwick: velas para todas las estaciones y ocasiones
+- Peonía y Pera de Anjou: rodajas de pera jugosa se rocían con dulces pétalos de peonía
 - Disponible en los siguientes sabores: Vainilla francesa y Coco tostado, Peonía y Pera de Anjou
 - Adecuado para usar en toda la casa: esta vela es óptima para usar en el dormitorio, la sala de estar e incluso en el baño; crea el ambiente óptimo con Airwick
-- Peonía y Pera de Anjou: rodajas de pera jugosa se rocían con dulces pétalos de peonía
 - Larga duración: óptima fragancia desde la primera hasta la última quema; velas premium duran hasta 40 horas y le brindan horas de fragancia
 
 [🛒 Aquí!!!]({{< param buyurl >}})

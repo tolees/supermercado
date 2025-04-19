@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ¿QUÉ ES LA CANELA DE CEILÁN?: Se trata de una especia con muchos más beneficios que la canela convencional. Caracterizada por su color café más claro y por tener una textura y sabor suave con un aroma intenso, la canela de ceilán es esencial para mejorar multitud de molestias digestivas.
+- CAREFOOD, UNA VIDA MÁS SANA: Carefood nace de la búsqueda del cuidado del medioambiente y la necesidad de ofrecer alimentos 100% naturales. Somos "la comida que te cuida", y por eso te guiamos para ayudarte a ti y a tu familia a llevar una vida saludable, a la par que protegemos el planeta.
 - MÚLTIPLES BENEFICIOS: La canela de ceilán es conocida por su efecto termogénico, por lo que es perfecta para acelerar el metabolismo y ayudarte a controlar el peso. Por otro lado, ayuda a disminuir los niveles de glucosa, a liberar tus vías respiratorias y a mejorar tu digestión.
 - CANELA 100% ORGÁNICA: Nuestra canela de ceilán en polvo procede de agricultura ecológica para que disfrutes de un producto totalmente natural. Es apta para veganos, no contiene gluten ni aditivos y es libre de pesticidas. Y si todo esto te parece poco, ¡no se ha modificado genéticamente!
 - ¿CÓMO TOMARLA?: Podrás añadirla a tus postres favoritos o espolvorearla sobre el café, ya que añade un punto de dulzura sin perder los matices. Si quieres encontrar un exquisito contraste de sabores, la canela de ceilán es un condimento perfecto para platos cocinados con carne. Y para el resto de guisos, debes tener muy presente el tiempo de cocción.
-- CAREFOOD, UNA VIDA MÁS SANA: Carefood nace de la búsqueda del cuidado del medioambiente y la necesidad de ofrecer alimentos 100% naturales. Somos "la comida que te cuida", y por eso te guiamos para ayudarte a ti y a tu familia a llevar una vida saludable, a la par que protegemos el planeta.
-- ¿QUÉ ES LA CANELA DE CEILÁN?: Se trata de una especia con muchos más beneficios que la canela convencional. Caracterizada por su color café más claro y por tener una textura y sabor suave con un aroma intenso, la canela de ceilán es esencial para mejorar multitud de molestias digestivas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08F5B7WW4{{</world>}}

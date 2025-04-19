@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Su innovadora fórmula en comprimidos RETARD facilita la liberación prolongada y sostenida de ashwagandha y melatonina durante toda la noche (8 horas) según el estudio de disolución realizado por el Instituto Universitario de Ciencia y Tecnología de Barcelona.
-- Para el estrés del día y sueño de noche.
 - Epaplus Sleepcare Melatonina Retard Balance es un complemento alimenticio a base de melatonina (1,98 mg), ashwagandha, triptófano, vitaminas y minerales
+- Para el estrés del día y sueño de noche.
 - La ashwagandha, puede contribuir a mantener el balance emocional y ayudar al organismo a lidiar con el estrés del día.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

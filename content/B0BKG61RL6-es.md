@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fuerza : 9 - FUERTE
-- Tostado y envasado en Bélgica
+- Cápsulas compatibles con Nespresso (*Nespresso no registrado en Amazon EU S.a.r.l.) No compatible con máquinas Nespresso Vertuo. Siga siempre las instrucciones del fabricante de la máquina
+- El café tiene un carácter intenso, tiene cuerpo y tiene un sabor firme
 - 100% Robusta
+- Tostado y envasado en Bélgica
+- Fuerza : 9 - FUERTE
 - CERTIFICADO RAINFOREST ALLIANCE: El café que obtenemos para este producto está certificado por Rainforest Alliance, lo que significa que no solo sabe bien, también es bueno. Con cada compra, está ayudando a cientos de agricultores y sus familias en todo el mundo, además, también está aportando su granito de arena a la selva tropical: beba mejor, hágalo mejor
 - 100 cápsulas: 2 paquetes x 50
-- El café tiene un carácter intenso, tiene cuerpo y tiene un sabor firme
-- Cápsulas compatibles con Nespresso (*Nespresso no registrado en Amazon EU S.a.r.l.) No compatible con máquinas Nespresso Vertuo. Siga siempre las instrucciones del fabricante de la máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKG61RL6{{</world>}}

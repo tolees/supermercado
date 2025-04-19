@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las servilletas Fato miden 24x24 cm y están dobladas en 1/4
-- Aporta un toque de estilo y da color a su mesa. Sea cual sea tu estilo, Fato lo hace único
-- Ideal para un aperitivo con amigos en casa, así como en lugares públicos. Perfectas como posavasos o como acompañamiento de buffets y aperitivos
-- El paquete contiene 100 servilletas de papel de 2 capas. Papel con certificación FSC que garantiza el cumplimiento de estrictas normas medioambientales: perfecto para ti y para el planeta
 - Una amplia gama de colores que permite elegir la servilleta ideal para cada ocasión a juego con la decoración o el tema de la velada: colores enérgicos y brillantes o discretos y refinados
+- El paquete contiene 100 servilletas de papel de 2 capas. Papel con certificación FSC que garantiza el cumplimiento de estrictas normas medioambientales: perfecto para ti y para el planeta
+- Aporta un toque de estilo y da color a su mesa. Sea cual sea tu estilo, Fato lo hace único
+- Las servilletas Fato miden 24x24 cm y están dobladas en 1/4
+- Ideal para un aperitivo con amigos en casa, así como en lugares públicos. Perfectas como posavasos o como acompañamiento de buffets y aperitivos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B092VNKKBG{{</world>}}

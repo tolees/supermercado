@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rlaborado con con hierbas naturales
-- Notas de hierbabuena, mentol sobre fondo de camomila
-- Tiene un color amarillo intenso con reflejos verdosos
 - Con aroma y sabor dulce
 - Adecuado como regalo
+- Rlaborado con con hierbas naturales
+- Tiene un color amarillo intenso con reflejos verdosos
+- Notas de hierbabuena, mentol sobre fondo de camomila
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ENMYEDU{{</world>}}

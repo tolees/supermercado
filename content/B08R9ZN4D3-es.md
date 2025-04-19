@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Efecto antiestático sobre las fibras
-- Sensación de fragancia duradera gracias a las micro cápsulas de liberación prolongada de fragancia
-- Botella 100% reciclable
 - Suavidad en tu ropa y sensación de suavidad en la piel
+- Efecto antiestático sobre las fibras
+- Botella 100% reciclable
+- Sensación de fragancia duradera gracias a las micro cápsulas de liberación prolongada de fragancia
 - Suavizante concentrado para la ropa con aroma a melocotón y cítricos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

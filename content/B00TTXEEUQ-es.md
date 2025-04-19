@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal uso diario: Fórmula segura para la higiene de pieles sensibles.
-- Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
-- pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
-- Limpieza para piel sensible: Jabón Sebamed 100g, sin alcalinos, mantiene pH.
 - Sin conservantes: Protege manto ácido, barrera cutánea natural.
+- Ideal uso diario: Fórmula segura para la higiene de pieles sensibles.
+- Limpieza para piel sensible: Jabón Sebamed 100g, sin alcalinos, mantiene pH.
+- pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
+- Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TTXEEUQ{{</world>}}

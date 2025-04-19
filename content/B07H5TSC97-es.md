@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un tostado intenso de granos de café, finamente molidos para revelar una mezcla profunda junto con un toque amargo a cacao
 - Sabor Intenso - Potente - Notable
-- Intensidad 12
 - Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
+- Un tostado intenso de granos de café, finamente molidos para revelar una mezcla profunda junto con un toque amargo a cacao
+- Intensidad 12
 - Peso neto (1 paquete): 104 g; paquete de 4 X2 0
 
 [🛒 Visítala!!!]({{< param buyurl >}})

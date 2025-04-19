@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MODO DE EMPLEO: Aplicar una pequeña cantidad de crema en la zona de piel afectada, previamente limpia y desinfectada, extender uniformemente con cuidado.
 - PH ADAPTADO: Diseñado por veterinarios con fórmula exclusiva para la piel del perro y gato. Producto apto para uso frecuente.
-- CALMANTE: Hidrata, calma y alivia la piel dañada, irritada, quemada o inflamada, calma los picores producidos por sarpullidos alérgicos, irritaciones cutáneas y picaduras de insectos.
-- DERMOPROTECTORA: Crema dermoprotectora de almohadillas y nariz con Aloe Vera natural indicado para el cuidado de la piel y la cicatrización de heridas en perros y gatos.
 - Aplicar dos o tres veces al día. Antes de aplicar la crema debe asegurarse que la herida o zona afectada esté totalmente limpia.
+- MODO DE EMPLEO: Aplicar una pequeña cantidad de crema en la zona de piel afectada, previamente limpia y desinfectada, extender uniformemente con cuidado.
+- DERMOPROTECTORA: Crema dermoprotectora de almohadillas y nariz con Aloe Vera natural indicado para el cuidado de la piel y la cicatrización de heridas en perros y gatos.
+- CALMANTE: Hidrata, calma y alivia la piel dañada, irritada, quemada o inflamada, calma los picores producidos por sarpullidos alérgicos, irritaciones cutáneas y picaduras de insectos.
 - AYUDA a CICATRIZAR HERIDAS: Potencia la cicatrización de manera natural de pequeñas heridas. pH fisiológico adaptado a la piel de perros y gatos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

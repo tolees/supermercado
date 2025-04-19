@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- INTENSIDAD: La intensidad 7 y el tueste medio brindan un sabor equilibrado a este café, para un espresso ristretto de 25 ml
-- ESPRESSO MAESTRO DEK: Un café Lavazza ligero como una suave brisa. 10 cápsulas de aluminio compatibles con las máquinas Nespresso*. *Lavazza no está respaldada o patrocinada por Nespresso
-- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
 - NOTAS AROMÁTICAS: Espresso Maestro Ristretto es caracterizado por notas predominantes de frutos secos y un regusto de chocolate ligero, para un café redondo y equilibrado
+- INTENSIDAD: La intensidad 7 y el tueste medio brindan un sabor equilibrado a este café, para un espresso ristretto de 25 ml
+- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
 - VARIEDAD: Esta selección de café Lavazza está elaborada con café Arábica y Robusta procedente de Sudamérica y del Sudeste asiático
+- ESPRESSO MAESTRO DEK: Un café Lavazza ligero como una suave brisa. 10 cápsulas de aluminio compatibles con las máquinas Nespresso*. *Lavazza no está respaldada o patrocinada por Nespresso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09F3PB2GT{{</world>}}

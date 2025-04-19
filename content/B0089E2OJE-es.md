@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene un color dorado
-- Sabor intenso de miel y final de frutos secos
 - Se puede usar para preparar cócteles
-- Se puede beber seco
 - Ideal como regalo
+- Sabor intenso de miel y final de frutos secos
+- Tiene un color dorado
+- Se puede beber seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0089E2OJE{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin gluten: perfecto para personas con intolerancia o sensibilidad al gluten.
 - No OMG: garantizamos que nuestro orégano liofilizado no contiene organismos modificados genéticamente.
 - Orégano liofilizado de Super Garden: 100% puro y natural, sin aditivos ni conservantes añadidos.
 - Sin azúcares ni aditivos artificiales: una opción saludable para sazonar tus platos favoritos.
+- Sin gluten: perfecto para personas con intolerancia o sensibilidad al gluten.
 - Apto para veganos: disfruta del sabor auténtico del orégano sin ingredientes de origen animal.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

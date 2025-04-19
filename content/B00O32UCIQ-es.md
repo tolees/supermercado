@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula enriquecida con un 25% de pigmentos lacados que proporcionan color e intensidad
 - Textura suave y fundente que proporciona unos labios aterciopelados
+- Fórmula enriquecida con un 25% de pigmentos lacados que proporcionan color e intensidad
 - Hasta 24 horas de duración, sin sensación de sequedad
 - Contiene aceites esenciales que dan a los labios una sensación natural y saludable
 - Para el cabello: Normal

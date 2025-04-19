@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Su complejo antibacteriano ayuda a reducir y prevenir la formación de placa evitando así las caries y la inflamación de las encías
 - Su fórmula con flúor ayuda también a reducir y prevenir eficazmente las caries
+- Adecuado si quieres una triple acción en tu boca con el sabor original de Licor del Polo
 - Elimina el mal aliento dejando una boca fresca y limpia durante más tiempo
 - El enjuague Triple Acción actúa en la boca para ofrecer, 3 soluciones en un solo uso: Anticaries, Antiplaca y 100% Frescor
-- Adecuado si quieres una triple acción en tu boca con el sabor original de Licor del Polo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NRFGFV1{{</world>}}

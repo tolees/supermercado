@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Malfy Limón es un gin para brindar en compañía en cualquier momento del día; la botella y el cierre se fabrican con cristal y madera de roble italianos
 - Malfy es una ginebra clásica con un toque Mediterráneo que te transportará hasta la misma costa Amalfitana en cada sorbo
 - Malfy es una ginebra italiana muy refrescante y moderna; se fabrica en la destilería Torino, en Moncalieri, fundada en 1906
-- Malfy Limón es un gin para brindar en compañía en cualquier momento del día; la botella y el cierre se fabrican con cristal y madera de roble italianos
 - Malfy Rosa es una ginebra italiana fiel a los botánicos de su tierra, destaca por las Uvas de Sicilia que predominan en su receta
 - Malfy Naranja destaca por el color sangre naranja - rojo
 

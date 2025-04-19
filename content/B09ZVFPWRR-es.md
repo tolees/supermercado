@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fragancia llena de placer
-- 100% limpiadores de origen natural
 - Gel de Ducha Moussel Revitalizante con Lima y Menta 650ml
 - Despierta tu energía
+- 100% limpiadores de origen natural
 - Envuélvete en su abundante espuma y resérvate ese ratito de positividad cada día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

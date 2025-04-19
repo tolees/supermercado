@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vino Blanco Ecológico D.O. Rueda
-- Elaborado con uva blanca Verdejo, procedente de viñedos de producción ecológica
-- Certificación ecológica y vegana
 - Crianza sobre lías de 5 meses
 - Vino fresco y afrutado, con aromas cítricos.
+- Elaborado con uva blanca Verdejo, procedente de viñedos de producción ecológica
+- Certificación ecológica y vegana
+- Vino Blanco Ecológico D.O. Rueda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08W3D1FF1{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con agua de coco y agentes purificantes
-- Para cabello suave, sano e hidratado; cuero cabelludo purificado
 - Para raíces grasas, puntas secas, sin siliconas y sin parabenos
+- Para cabello suave, sano e hidratado; cuero cabelludo purificado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B073VL5XJF{{</world>}}

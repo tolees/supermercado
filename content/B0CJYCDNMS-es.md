@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Madurado en barricas de roble americano que anteriormente han contenido whisky americano
-- Posee un color oro cálido; en nariz, representa una explosión de fruta fresca con jugosa manzana roja, grosella negra y ralladura de limón, complementada con notas dulces de vainilla, toffee y un toque a nueces
+- Whisky mezclado, elaborado en Escocia a partir de cebada malteada y grano
 - Disfruta con este pack que incluye Ballantines 10 años y un vaso de regalo
 - Dulce y cremoso en boca; notas de tarta de manzana casera y natillas de vainilla, entrelazadas con cuajada de limón, caramelo y toffee; posee un retro gusto dulce y suave
-- Whisky mezclado, elaborado en Escocia a partir de cebada malteada y grano
+- Madurado en barricas de roble americano que anteriormente han contenido whisky americano
+- Posee un color oro cálido; en nariz, representa una explosión de fruta fresca con jugosa manzana roja, grosella negra y ralladura de limón, complementada con notas dulces de vainilla, toffee y un toque a nueces
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJYCDNMS{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ÁCIDOS GRASOS Y VITAMINAS | Fuente de Omega 3 (EPA y DHA) de origen marino y Omega 6 (GLA) de origen vegetal y Vitaminas D y E.
 - NUEVO PACKAGING, MISMA FÓRMULA | El cambio de packaging no comporta ningún cambio a nivel de fórmula ni composición. PARA EL NORMAL FUNCIONAMIENTO DEL CEREBRO | OmegaKids es un complemento alimenticio fuente de ácidos grasos Omega 3, Omega 6 y Vitaminas D y E para el normal funcionamiento del cerebro de los niños.
+- ¿PARA QUIÉN? | Para aquellos niños y niñas mayores de 5 años que necesiten asegurar un aporte adecuado de ácidos grasos omega 3, omega 6 y vitaminas D y E en casos de necesidades orgánicas o estados carenciales.
+- ÁCIDOS GRASOS Y VITAMINAS | Fuente de Omega 3 (EPA y DHA) de origen marino y Omega 6 (GLA) de origen vegetal y Vitaminas D y E.
 - ADVERTENCIAS | Los complementos alimenticios no deben sustituir una dieta variada y equilibrada y un estilo de vida saludable. No superar la dosis diaria recomendada. Mantener fuera del alcance de los niños más pequeños. Conservar en un lugar fresco y seco. Una vez abierto, conservar en el frigorífico durante un periodo máximo de 2 meses.
 - ¿CÓMO ADMINISTRAR? | Se presenta en frasco de 100 ml en formato líquido con rico sabor a limón para administrar vía oral con un tapón dispensador. Se recomienda tomar 2 ml al día con las comidas. *Si es la primera vez, tomando OmegaKids, tomar 4 ml al día durante 12 semanas.
-- ¿PARA QUIÉN? | Para aquellos niños y niñas mayores de 5 años que necesiten asegurar un aporte adecuado de ácidos grasos omega 3, omega 6 y vitaminas D y E en casos de necesidades orgánicas o estados carenciales.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00TTWZ0X2{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cosmetics Female
 - Cuidado de la piel
 - Loción corporal 200 gramos
+- Cosmetics Female
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0011MJKH0{{</world>}}

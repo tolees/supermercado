@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% fabricado en Italia
-- Auténtico artículo artesanal de pasta italiana
 - Rodillo giratorio de madera de haya natural
 - Puede cortar 48 agujeros cuadrados para ravioli; cada uno es de 25 x 25 mm
+- Auténtico artículo artesanal de pasta italiana
 - Importado por Tomson Hospitality
+- 100% fabricado en Italia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00B1BTH0G{{</world>}}

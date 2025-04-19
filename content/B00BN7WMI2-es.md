@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto está indicado tanto para mujeres como hombres
 - De la marca Instituto Español
+- Este producto está indicado tanto para mujeres como hombres
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00BN7WMI2{{</world>}}

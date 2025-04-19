@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Información nutricional: producto apto para vegetarianos. Contiene leche, trigo, soja y avellanas. Podría contener otros frutos secos. No contiene colorantes ni conservantes artificiales.
-- Endulza tu día: es la caja perfecta para los descansos en el trabajo, para compartir en reuniones o convertir cualquier ocasión en una delicia chocolatera.
-- Mondelez France SAS, 6 Avenue Réaumur, CS 50014, 92142 Clamart Cedex.
-- Contenidos del envío: 1 caja de 10 tabletas de 100 g (2 de cada variedad)
 - Caja de tabletas Milka: descubre el surtido de los mejores sabores Milka (con Leche, Avellana troceada, Cremoso con leche, Oreo, Caramelo), en una preciosa caja de 10 tabletas.
+- Mondelez France SAS, 6 Avenue Réaumur, CS 50014, 92142 Clamart Cedex.
+- Información nutricional: producto apto para vegetarianos. Contiene leche, trigo, soja y avellanas. Podría contener otros frutos secos. No contiene colorantes ni conservantes artificiales.
+- Contenidos del envío: 1 caja de 10 tabletas de 100 g (2 de cada variedad)
+- Endulza tu día: es la caja perfecta para los descansos en el trabajo, para compartir en reuniones o convertir cualquier ocasión en una delicia chocolatera.
 - Compartir es vivir: exhibe esta selección de tabletas en fiestas o en reuniones para ofrecer una sorpresa deliciosa al paladar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 TAMAÑOS DE TAZA CON APAGADO AUTOMÁTICO: Espresso (40 ml), café largo (110 ml); longitud de taza personalizable
-- Frecuencia: 50/60 Hz
-- MODO DE AHORRO DE ENERGÍA: la máquina cambia automáticamente al modo de espera después de 9 minutos de uso
-- 19 BARES DE PRESIÓN: la garantía de un espresso de calidad profesional
 - BANDEJA DE GOTEO y BANDEJA DE CÁPSULAS USADAS (para 9-11 cápsulas) SEPARADAS: para una mejor higiene
-- PRECALENTAMIENTO RÁPIDO: 25 segundos
+- MODO DE AHORRO DE ENERGÍA: la máquina cambia automáticamente al modo de espera después de 9 minutos de uso
+- 2 TAMAÑOS DE TAZA CON APAGADO AUTOMÁTICO: Espresso (40 ml), café largo (110 ml); longitud de taza personalizable
+- 19 BARES DE PRESIÓN: la garantía de un espresso de calidad profesional
 - 15 años de reparabilidad, 2 años de garantía
 - DEPÓSITO DE AGUA EXTRAÍBLE: 0.7 L
+- PRECALENTAMIENTO RÁPIDO: 25 segundos
+- Frecuencia: 50/60 Hz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IRWKB70{{</world>}}

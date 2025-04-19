@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Estuche que contiene 3 miniaturas: 1 botella 5cl Carlos I, 1 botella 5cl Carlos I Amontillado, 1 botella 5cl Carlos I Pedro Ximénez
 - Recomendación de consumo: Servir en un vaso bajo con una o dos piedras de hielo para apreciar todos sus aromas y disfrutar de las peculiaridades de cada uno de estos destilados. También perfectos para consumir combinados, en trago largo o en coctelería.
-- Carlos I es un Brandy de Jerez Solera Gran Reserva elaborado en El Puerto de Santa María, el marco de Jerez.
 - Envejecido en botas de Jerez, las afamadas “Sherry casks”, de roble americano, que previamente contuvieron los mejores vinos de Jerez de Bodegas Osborne.
+- Carlos I es un Brandy de Jerez Solera Gran Reserva elaborado en El Puerto de Santa María, el marco de Jerez.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6KQQPQR{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pelo brillante y piel sana: Con ácidos grasos esenciales
 - 100% Completo y Equilibrado
 - Agilidad: Nivel óptimo de proteínas
+- Pelo brillante y piel sana: Con ácidos grasos esenciales
 - Huesos y dientes fuertes: Con vitaminas y minerales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

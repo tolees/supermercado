@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 0
 - De la marca Ducray
 - DUCRAY
+- 0
 - 3118130
 
 [🛒 Visítala!!!]({{< param buyurl >}})

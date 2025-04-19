@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Llévatelas contigo dónde quieras; cada paquete contiene 100 gr de minigalletas
 - Con el cacao natural de ColaCao. Lleva deliciosas pepitas, cada una diferente.
 - La cobertura está hecha de ColaCao, por eso sabe a grumitos, lo mejor de ColaCao.
-- Alérgenos: trigo, leche y soja
 - Minigalletas con pepitas de chocolate y cobertura con ColaCao
+- Alérgenos: trigo, leche y soja
+- Llévatelas contigo dónde quieras; cada paquete contiene 100 gr de minigalletas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQTP5DN2{{</world>}}

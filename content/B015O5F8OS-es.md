@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Judías en deliciosa salsa de tomate, alto en fibras y proteína
+- Plato preparado listo para comer
 - Apto para celíacos, veganos y vegetarianos
 - Sin colorantes, saborizantes ni conservantes artificiales
-- Plato preparado listo para comer
+- Judías en deliciosa salsa de tomate, alto en fibras y proteína
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B015O5F8OS{{</world>}}

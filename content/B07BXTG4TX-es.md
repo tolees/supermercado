@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un irresistible sabor a fresa
 - Geles dulces
 - Mantener en lugar fresco y seco
+- Con un irresistible sabor a fresa
 - Deliciosas piezas largas en forma de stick de regaliz rojo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

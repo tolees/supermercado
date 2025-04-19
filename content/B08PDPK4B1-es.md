@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona un alto impacto de color
-- Para definir y exaltar los ojos
 - Crea una película elástica
+- Proporciona un alto impacto de color
 - Delineador deslizante para un look de duración
 - Resistente al agua
+- Para definir y exaltar los ojos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PDPK4B1{{</world>}}

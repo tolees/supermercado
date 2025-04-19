@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- País de Origen: España
 - Sabor yogur con avena y frutos rojos
 - Alto en fibra
 - Elaborada con aceite de girasol alto oleico
-- País de Origen: España
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XDPGAG2{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🍬 CARAMELOS RELLENOS DE SODA FIN FAN FUN: C aramelos rellenos. Sin gluten y libre de alérgenos. Estuche de 225 unidades
-- 🚫 LIBRE DE ALÉRGENOS: Nuestros caramelos se fabrican en una fábrica que combina las más modernas tecnologías con la imaginación y el cuidado artesanal; sin gluten, sin lactosa
-- 🎃 IDEAL PARA: Fiestas de cumpleaños, Navidad, Halloween, fiestas temáticas u otras ocasiones especiales.
-- 💯 CARAMELOS CERDÁN: Es una empresa familiar líder en Europa en la fabricación de caramelo duro con una amplia gama de productos para niños y adultos. Fundada en 1914, lleva más 100 años endulzando paladares por todo el mundo
 - 🍋🍊 SABOR LIMÓN, NARANJA Y COLA: Los caramelos con palo rellenos soda tienen un característico e inconfundible sabor a limón, naranaja y cola, una auténtica delicia para el paladar de niños y adultos. Perfectos para compartir con amigos y familiares
+- 🚫 LIBRE DE ALÉRGENOS: Nuestros caramelos se fabrican en una fábrica que combina las más modernas tecnologías con la imaginación y el cuidado artesanal; sin gluten, sin lactosa
+- 🍬 CARAMELOS RELLENOS DE SODA FIN FAN FUN: C aramelos rellenos. Sin gluten y libre de alérgenos. Estuche de 225 unidades
+- 💯 CARAMELOS CERDÁN: Es una empresa familiar líder en Europa en la fabricación de caramelo duro con una amplia gama de productos para niños y adultos. Fundada en 1914, lleva más 100 años endulzando paladares por todo el mundo
+- 🎃 IDEAL PARA: Fiestas de cumpleaños, Navidad, Halloween, fiestas temáticas u otras ocasiones especiales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C349CZVK{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una rutina completa que calma y nutre el pelo con el cuero cabelludio sensible gracias al poder calmante de la leche de avena
 - El pack incluye champú, acondicionador y mascarilla para devolver a tu pelo la hidratación y suavidad que necesita
+- Una rutina completa que calma y nutre el pelo con el cuero cabelludio sensible gracias al poder calmante de la leche de avena
 - Descubre el pack original remedies délicatesse de avena
 
 [🛒 Aquí!!!]({{< param buyurl >}})

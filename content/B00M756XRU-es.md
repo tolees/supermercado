@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🍍 EXTRACTO DE PIÑA: Mejora la digestión y reduce la inflamación.
-- 🌳 EXTRACTO DE GROSELLA NEGRA: Contribuye a una menor deshidratación.
+- 💊 Cápsulas para la recuperación de la energía y la vitalidad.
 - 💪🏼 AYUDA A DISMINUIR EL CANSANCIO Y LA FATIGA y contribuye a un buen metabolismo energético, de las proteínas y del glucógeno gracias a la Vitamina B6.
 - 🌷 EXTRACTO DE ALCACHOFA: Hepatoprotector y proporciona menor dolor de cabeza por metabolitos tóxico.
-- 🟢 CONTRIBUYE AL BUEN METABOLISMO ENERGÉTICO gracias a la Vitamina B1.
-- 🧬 LA FÓRMULA DE RESALIM PLUS se encuentra cuidadosamente estudiada y desarrollada, con una selectiva búsqueda de ingredientes, incluyéndose extracto de piña con 1800 GDU*/g de bromelina (* Unidades digestivas de gelatina), extracto de alcachofa con un 5% de cinarina y un 3% de ácidos clorogénicos, extracto de grosella negra con un 10% de antocianósidos y extracto de arándano con un 15% de antocianidinas. Esta fórmula está enriquecida con vitaminas B1 y B6.
-- 🍇EXTRACTO DE ARÁNDANO: Menor daño en el estómago e intestino delgado. Menor producción de ácido gástrico.
-- 💊 Cápsulas para la recuperación de la energía y la vitalidad.
 - 😎 RESALIM PLUS es un complemento alimenticio que ayuda a metabolizar bebidas y alimentos.
+- 🧬 LA FÓRMULA DE RESALIM PLUS se encuentra cuidadosamente estudiada y desarrollada, con una selectiva búsqueda de ingredientes, incluyéndose extracto de piña con 1800 GDU*/g de bromelina (* Unidades digestivas de gelatina), extracto de alcachofa con un 5% de cinarina y un 3% de ácidos clorogénicos, extracto de grosella negra con un 10% de antocianósidos y extracto de arándano con un 15% de antocianidinas. Esta fórmula está enriquecida con vitaminas B1 y B6.
+- 🍍 EXTRACTO DE PIÑA: Mejora la digestión y reduce la inflamación.
+- 🟢 CONTRIBUYE AL BUEN METABOLISMO ENERGÉTICO gracias a la Vitamina B1.
+- 🌳 EXTRACTO DE GROSELLA NEGRA: Contribuye a una menor deshidratación.
+- 🍇EXTRACTO DE ARÁNDANO: Menor daño en el estómago e intestino delgado. Menor producción de ácido gástrico.
 - 😜 MODO DE EMPLEO: Consumir dos cápsulas al día antes de un consumo excesivo. Utilizar siempre como complemento de una dieta variada y equilibrada y un estilo de vida saludable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

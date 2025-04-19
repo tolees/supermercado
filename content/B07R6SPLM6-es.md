@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Intensidad 7/10
-- Sabor elegante con matices herbales
 - Producto especial para cafeteras de émbolo, Melita o italiana
+- Sabor elegante con matices herbales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07R6SPLM6{{</world>}}

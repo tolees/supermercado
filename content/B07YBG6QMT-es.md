@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Preparación: al abrir el potito oirá un "pop", garantía de la calidad del Potito. Una vez abierto, caliente al baño maría o en el microondas sin tapa. Remueva y compruebe la temperatura antes de dárselo al niño. No añada sal. Una vez abierto se conserva 24 horas en el frigorífico. Presérvese del sol
-- Sin Almidones, sin Sal Añadida, sin Colorantes ni Conservantes. Sín Gluten, huevo, leche, aromas y especias
 - El producto cumple con el Reglamento 609/2013 relativo a los alimentos destinados a lactantes y niños de corta edad, los alimentos para usos médicos especiales y los sustitutivos de la dieta completa para el control de peso
+- Sin Almidones, sin Sal Añadida, sin Colorantes ni Conservantes. Sín Gluten, huevo, leche, aromas y especias
 - Ingredientes: Agua de cocción, Tomates 23%, Patatas 18%, Ternera 8%, Arroz, Cebolla, Aceite de oliva virgen extra 2%
 - Nutribén Potitos Tomates patatitas y ternera es un alimento infantil destinado a niños a partir del 6º mes de edad
+- Preparación: al abrir el potito oirá un "pop", garantía de la calidad del Potito. Una vez abierto, caliente al baño maría o en el microondas sin tapa. Remueva y compruebe la temperatura antes de dárselo al niño. No añada sal. Una vez abierto se conserva 24 horas en el frigorífico. Presérvese del sol
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YBG6QMT{{</world>}}

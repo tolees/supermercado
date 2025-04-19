@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cereales integrales con vitaminas del grupo B (B2, B3, B5 y B6) que contribuyen al metabolismo energético normal
-- Deliciosos copos de trigo integral, arroz y avena integral, recubiertos de chocolate negro 36 %
-- Distribuido por: NESTLÉ ESPAÑA, S.A. c/Clara Campoamor, n° 2 08950 Esplugues de Llobregat (Barcelona) Por cuenta de: CEREAL PARTNERS ESPAÑA, A.E.I.E.
-- Brindan ENERGÍA NUTRITIVA en el desayuno
 - Cereales Nestlé Fitness Fuente de Fibra
+- Distribuido por: NESTLÉ ESPAÑA, S.A. c/Clara Campoamor, n° 2 08950 Esplugues de Llobregat (Barcelona) Por cuenta de: CEREAL PARTNERS ESPAÑA, A.E.I.E.
 - Son fuente de fibra, no contienen aceite de palma, ni colorantes, ni aromas artificiales
+- Brindan ENERGÍA NUTRITIVA en el desayuno
+- Deliciosos copos de trigo integral, arroz y avena integral, recubiertos de chocolate negro 36 %
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09D7ZC6MH{{</world>}}

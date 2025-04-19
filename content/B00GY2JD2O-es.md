@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ayuda a regular el tránsito intestinal
-- Complemento alimenticio
-- Bote de 130 g
 - Hojas de sen, aromas de hibisco, regaliz y menta
+- Bote de 130 g
+- Complemento alimenticio
+- Ayuda a regular el tránsito intestinal
 - Recomendación de uso: antes de acostarse, masticar la cantidad equivalente a media cucharada de café y tragar si es necesario con agua, o preparar infusión
 
 [🛒 Visítala!!!]({{< param buyurl >}})

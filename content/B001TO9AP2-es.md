@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La botella puede ser diferente
 - Bushmills Original
 - Licores
+- La botella puede ser diferente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B001TO9AP2{{</world>}}

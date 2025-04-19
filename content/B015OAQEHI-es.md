@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Género: Unisex Adulto
-- Ingredientes: Aceites naturales
-- Texturas: Leche
-- Tipo de Piel: Seca
 - Nombre de la fragancia: Aromatic
+- Texturas: Leche
+- Ingredientes: Aceites naturales
+- Tipo de Piel: Seca
+- Género: Unisex Adulto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B015OAQEHI{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [MEDIDAS] 34 x 28,5 x 30,5cm. 14L de capacidad
-- [SISTEMA SPIDER] Sistema de escurrido a presión, que permite escurrir más sin esfuerzo, más rápido y sin salpicaduras
-- [LIBRE DE BPA] Hecho de polipropileno
-- [FABRICADO EN ESPAÑA] por la prestigiosa marca Tatay
 - [EVITA SALPICADURAS] Escurridor con doble funcionalidad, Incluye un CUELLO alrededor del escurridor para ayudar en la inserción de la fregona y a contener los posibles derrames por los laterales e incorpora un CARRIL en la base del cuello levantado para recoger el agua.
+- [MEDIDAS] 34 x 28,5 x 30,5cm. 14L de capacidad
+- [LIBRE DE BPA] Hecho de polipropileno
+- [SISTEMA SPIDER] Sistema de escurrido a presión, que permite escurrir más sin esfuerzo, más rápido y sin salpicaduras
+- [FABRICADO EN ESPAÑA] por la prestigiosa marca Tatay
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B096G5ZQMK{{</world>}}

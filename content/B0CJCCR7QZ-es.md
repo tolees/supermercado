@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Base de maquillaje que incorpora serum
-- Textura sedosa y jugosa
 - Cobertura media para el rostro
-- Compuesta por 82% de ingredientes naturales, con vitaminas C, E y B5 y extracto de arándonos rojos
+- Textura sedosa y jugosa
 - Tonifica la piel, restaura la flexibilidad, proporciona un brillo saludable y aumenta la hidratación
+- Base de maquillaje que incorpora serum
+- Compuesta por 82% de ingredientes naturales, con vitaminas C, E y B5 y extracto de arándonos rojos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CJCCR7QZ{{</world>}}

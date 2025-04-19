@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- C.C. Damm S.L., Rosselló 515, 08025 Barcelona, Spain.
 - La primera cerveza sin alcohol 0,0% con limón. Free Damm Limón, con limones maduros y limas ácidas. Cuerpo y frescura en cada sorbo. Pack de 24 latas 33cl.
+- C.C. Damm S.L., Rosselló 515, 08025 Barcelona, Spain.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01B1FI2PC{{</world>}}

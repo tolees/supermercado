@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bolsa de patatas fritas
+- Realizada por una receta clásica
 - Sin gluten
 - Sabor original y la personalidad del vinagre
-- Realizada por una receta clásica
-- Bolsa de patatas fritas
 - Almacenar en un sitio seco y oscuro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

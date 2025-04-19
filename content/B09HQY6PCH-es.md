@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta bolsa contiene 15 figuritas Kit Kat Halloween
-- Cacao sostenible certificado por RainForest Alliance
-- Descubre la bolsa de Kit Kat Halloween
-- Tómate un break, tómate un Kit Kat
 - Disfruta de Halloween con Kit Kat
+- Tómate un break, tómate un Kit Kat
+- Descubre la bolsa de Kit Kat Halloween
+- Cacao sostenible certificado por RainForest Alliance
+- Esta bolsa contiene 15 figuritas Kit Kat Halloween
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HQY6PCH{{</world>}}

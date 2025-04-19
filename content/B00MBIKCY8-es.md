@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apto para agua dulce y salada
 - Producto de alta calidad
 - Contenido: 1 l
+- Apto para agua dulce y salada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00MBIKCY8{{</world>}}

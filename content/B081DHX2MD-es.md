@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con aloe vera.
 - Cuidado suave, bueno para la piel.
+- Con aloe vera.
 - Cuidado de día hidratante.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

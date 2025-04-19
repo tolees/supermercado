@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para el pelo dañado que necesita una reparación urgente
-- Reciclable (depende de las instalaciones de reciclaje)
 - Superalimento Supercargado Superpelo
-- Aussie SOS Mascarilla capilar de reparación supercargada con ingredientes botánicos australianos auténticos
-- Esta mascarilla capilar es vegana (fórmula vegana: sin ingredientes o subproductos derivados de animales)
 - PETA reconoce a Aussie como libre de maltrato animal
+- Reciclable (depende de las instalaciones de reciclaje)
+- Para el pelo dañado que necesita una reparación urgente
+- Esta mascarilla capilar es vegana (fórmula vegana: sin ingredientes o subproductos derivados de animales)
+- Aussie SOS Mascarilla capilar de reparación supercargada con ingredientes botánicos australianos auténticos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09B7SW8LW{{</world>}}

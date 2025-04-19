@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De colores y sabores diferentes
 - De textura gomosa
 - Ideal para compartir
-- Sin colorantes artificiales
+- De colores y sabores diferentes
 - Conservar en un lugar fresco y seco
+- Sin colorantes artificiales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08L9FP79H{{</world>}}

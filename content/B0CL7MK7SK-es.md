@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene una mezcla única de 3 hidratantes para tu piel.
-- Gel de ducha con nueva fórmula: Hidratación más duradera.
+- Botella hecha de plástico 100%. Fórmula 97% biodegradable​.
 - Limpiadores de origen natural​. 0% sulfatos SLES​.
 - Globalmente Dove no testa en animales​. Fórmula vegana​. Dermatológicamente testado​.
-- Botella hecha de plástico 100%. Fórmula 97% biodegradable​.
+- Gel de ducha con nueva fórmula: Hidratación más duradera.
+- Contiene una mezcla única de 3 hidratantes para tu piel.
 - Gel de Ducha Nutritivo de aceite de argán para una piel suave e hidratada desde la primera ducha​.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

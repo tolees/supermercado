@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Aplicar sobre las manos secas y extender el spray entre las manos durante 30 segundos. Se recomienda evitar la aplicación en zonas sensibles de la piel. Mantener alejado del calor
 - El Spray de manos antiséptico de algodón de Babaria, protege tus manos de posibles virus y bacterias. Evita la sequedad extrema o el agrietamiento en tus manos gracias a que contiene 70% de alcohol
-- Está compuesto a base de un 98% de ingredientes naturales, lo que permite que sea respetuoso con la piel, aportando un aroma floral único
 - Está formulado con algodón y rosa mosqueta, que protegen la piel mientras la cuidan aportando hidratación y nutrientes. Además, te ayudarán a conseguir ese tacto sedoso en las manos
 - Es ligero, de rápida absorción y sin aclarado. Asegura la eficacia de la eliminación del 99,9% de las bacterias y virus según las normas EN 13727 y EN 14481
-- Aplicar sobre las manos secas y extender el spray entre las manos durante 30 segundos. Se recomienda evitar la aplicación en zonas sensibles de la piel. Mantener alejado del calor
+- Está compuesto a base de un 98% de ingredientes naturales, lo que permite que sea respetuoso con la piel, aportando un aroma floral único
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08G4XNSL4{{</world>}}

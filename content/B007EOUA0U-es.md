@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suave
-- Abre un paquete de nachos, destapa la salsa y moja
-- También óptimo para tus fajitas y burritos
 - Tomate, cebolla y pimientos
+- Suave
+- También óptimo para tus fajitas y burritos
 - Apta para vegetarianos
+- Abre un paquete de nachos, destapa la salsa y moja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B007EOUA0U{{</world>}}

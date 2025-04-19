@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Fácil de absorber】 La loción solar es fácil de aplicar y se absorbe rápidamente, sin residuos blancos y protección solar instantánea.
-- 【Protección Inmediata】Protector solar de textura ligera, resistente al agua, Anti-UVA/UVB en altura, Anti-sequedad por frío y viento
 - 【Adecuado para todo tipo de piel】El protector solar sin perfume es adecuado para todo tipo de pieles adultas, incluida la piel sensible.
 - 【Uso】 Aplicar generosa y uniformemente antes de la exposición al sol. El uso de una cantidad menor reduce en gran medida el nivel de protección.
 - 【Crema solar de alta protección】Esta crema facial y corporal spf 90 es eficaz contra uva, uvb. su fórmula fotoestable es resistente al agua y a la transpiración, recuerda reaplicar con frecuencia, sobre todo si haces deporte o sales del agua
+- 【Fácil de absorber】 La loción solar es fácil de aplicar y se absorbe rápidamente, sin residuos blancos y protección solar instantánea.
+- 【Protección Inmediata】Protector solar de textura ligera, resistente al agua, Anti-UVA/UVB en altura, Anti-sequedad por frío y viento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWDDCNJS{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fácil de usar
-- Producto de cuidado personal
 - Marca: CLINIQUE CLINIQUE
+- Producto de cuidado personal
 - Un producto de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

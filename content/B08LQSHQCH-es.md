@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- COLOR: Rojo rubí intenso
-- BOCA: Gran equilibrio y frescura, donde las sensaciones se funden en un gusto sedoso y pulido, con taninos vivos muy integrados y un final armonioso aromático
 - Variedad de uva: 100% tempranillo
+- BOCA: Gran equilibrio y frescura, donde las sensaciones se funden en un gusto sedoso y pulido, con taninos vivos muy integrados y un final armonioso aromático
+- COLOR: Rojo rubí intenso
 - CRIANZA: Crianza de 12 meses en barricas de roble Americano
 - AROMA: Intensos aromas a frutas negras compotadas (mora y ciruela), en armonía con tonos a madera de roble especiados (clavo y vainilla) y un fondo de sotobosque
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elaborado en Glenrothes, Escocia, sigue un exclusivo proceso de destilación y envejecimiento durante 12 años en barricas de roble añejadas en Jerez
-- Ambarino intenso, de aspecto claro y brillante, embotellado con su color natural, sin aditivos
-- Para disfrutar de sus cualidades óptimas se recomienda degustarlo solo, con hielo o con agua
-- Destacan las notas aromáticas frutales del plátano, melón y limón con recuerdos especiados de canela y vainilla
 - Paso suave y evocador con un final largo, mantiene el estilo clásico con su caracter afrutado y dulce, incluyendo un toque especial apimentado
+- Ambarino intenso, de aspecto claro y brillante, embotellado con su color natural, sin aditivos
+- Destacan las notas aromáticas frutales del plátano, melón y limón con recuerdos especiados de canela y vainilla
+- Elaborado en Glenrothes, Escocia, sigue un exclusivo proceso de destilación y envejecimiento durante 12 años en barricas de roble añejadas en Jerez
+- Para disfrutar de sus cualidades óptimas se recomienda degustarlo solo, con hielo o con agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07H9WRDWM{{</world>}}

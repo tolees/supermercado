@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 💜 Vegano y Libre de Crueldad Animal: Nuestras sombras de ojos brillantes son 100 % veganas y no han sido probadas en animales. Es segura y no irritante.
-- 💜 Fácil De Aplicar: Se puede aplicar con los dedos o con una brocha para sombra de ojos, para un maquillaje de ojos suave y sin arrugas.
-- 💜 Hidratante: Enriquecida con vitamina E, la excelente cremosidad es apta para todo tipo de pieles, especialmente las secas y ásperas.
 - 💜 Color Natural: Ricos colores naturales y hermosos con efecto brillo para que tus ojos brillen.
 - 💜 Multiusos: Se puede usar en los ojos, la cara y todas las partes del cuerpo, no solo como sombra de ojos sino también como iluminador.
+- 💜 Hidratante: Enriquecida con vitamina E, la excelente cremosidad es apta para todo tipo de pieles, especialmente las secas y ásperas.
+- 💜 Fácil De Aplicar: Se puede aplicar con los dedos o con una brocha para sombra de ojos, para un maquillaje de ojos suave y sin arrugas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JCPK9TT{{</world>}}

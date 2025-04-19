@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% VEGANO: Nuestro Acido Alfa Lipoico (ALA) con Biotina se obtiene respetando el medio ambiente. El producto es apto para Veganos y Vegetarianos porque utilizamos una cubierta de cápsula vegana (no a base de gelatina) y ningún otro ingrediente de origen animal.
-- MÁXIMO AHORRO: Con una cápsula por día, Suministro para 8 meses (240 cápsulas). Para nuestras cápsulas de ALA solo utilizamos materia prima premium de alta calidad.
 - BENEFICIOS: El ácido alfa lipoico ayuda a mantener los niveles sanos de azúcar cuando se utiliza como parte de la Dieta, fomentando la absorción de glucosa por las células del cuerpo especialmente en los músculos, donde promueve la energía. Contribuye a reducir el estrés oxidativo: como antioxidante natural frente al envejecimiento y permite neutralizar los radicales libres.
 - FORMULA PREMIUM: Enriquecida con BIOTINA que aumenta la máxima absorción de los bioactivos del Ácido Alfa Lipoico, además de promover la salud del hígado, los nervios, la piel ,el cabello, uñas y proteger contra los radicales libres. El ácido alfa lipoico ha sido llamado el antioxidante universal debido a su capacidad para actuar tanto extracelularmente como en la célula, y puede aumentar los niveles de glutatión.
+- 100% VEGANO: Nuestro Acido Alfa Lipoico (ALA) con Biotina se obtiene respetando el medio ambiente. El producto es apto para Veganos y Vegetarianos porque utilizamos una cubierta de cápsula vegana (no a base de gelatina) y ningún otro ingrediente de origen animal.
+- MÁXIMO AHORRO: Con una cápsula por día, Suministro para 8 meses (240 cápsulas). Para nuestras cápsulas de ALA solo utilizamos materia prima premium de alta calidad.
 - VEGAGENO: Todos nuestros productos están sujetos a estrictos controles. Pruebas constantes por laboratorios analíticos. Cumplen con la normativa de la UE. Sin gluten, sin dioxidos, y NON GMO (non-GMO).
 
 [🛒 Comprar!!!]({{< param buyurl >}})

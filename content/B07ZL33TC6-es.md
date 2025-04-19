@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece una limpieza profunda con blanqueamiento óptico
+- La fragancia es fresca y duradera
 - Contiene un tensioactivo con efecto antimanchas
 - Protege y repara las fibras
-- La fragancia es fresca y duradera
+- Ofrece una limpieza profunda con blanqueamiento óptico
 - Penetra en las fibras para eliminar las manchas más difíciles desde el interior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

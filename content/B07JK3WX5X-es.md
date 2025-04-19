@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BEXIDENT PACK BLANQ. COLUTORIO 20% ISDIN
 - Parafarmacia
 - 0
+- BEXIDENT PACK BLANQ. COLUTORIO 20% ISDIN
 - Higiene
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

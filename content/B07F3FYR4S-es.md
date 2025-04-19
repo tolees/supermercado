@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
 - Caramelos duros Halls con sabor a miel y limón; Con edulcorantes, sin azúcar
 - Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
-- Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
 - Conservar en lugar fresco y seco
+- Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07F3FYR4S{{</world>}}

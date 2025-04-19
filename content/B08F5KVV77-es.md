@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Caldo de huesos concentrado: 44 porciones de caldo de huesos de carne ecologica en un vaso. Caldo carne criada en pastos y alimentada con hierba.
 - Sopa fácil y caldo nutritivo: Como base para caldos, caldo paella, sopas, sopa miso, salsas, batidos.
-- Keto, Paleo & Leaky Gut health: Se disuelven en agua caliente y bebida o como base para sopas y salsas.
 - Rico en colágeno: 3,7g de colágeno por porción. Se recomiendan de 1 a 3 porciones diarias.
+- Keto, Paleo & Leaky Gut health: Se disuelven en agua caliente y bebida o como base para sopas y salsas.
+- Caldo de huesos concentrado: 44 porciones de caldo de huesos de carne ecologica en un vaso. Caldo carne criada en pastos y alimentada con hierba.
 - Preparado con sólo 3 ingredientes: Caldo de huesos de res, sal y agua. Sin alérgenos. Sin plantas de sombra nocturna. Sin aditivos. Sin gluten. Rico en JARMINO colageno.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

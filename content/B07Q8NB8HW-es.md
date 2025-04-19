@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Aplicar la ampolla, masajeando hasta su completa absorción y aplicar directamente el maquillaje
-- Efecto lifting inmediato y prolongado
 - "atenúa las arrugas y líneas de expresión con acción instantánea"
+- Efecto lifting inmediato y prolongado
 - Uso tópico; para todo tipo de pieles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

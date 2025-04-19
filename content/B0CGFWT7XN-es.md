@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Labios con más volumen: se desliza suavemente para minimizar las líneas y conseguir unos labios suaves y con más volumen.
-- Color de lujo: Elaborado con pigmentos microfinos para conseguir unos tonos de barra de labios ricos en color pero ligeros al tacto.
 - Varios tonos icónicos: Exprésate con una amplia gama de tonos en dos sofisticados acabados: cremoso y perlado.
-- Confort exquisito: Formulado con un 80% de ingredientes acondicionadores.
 - La combinación perfecta de color de alto impacto en una fórmula superhidratante.
+- Color de lujo: Elaborado con pigmentos microfinos para conseguir unos tonos de barra de labios ricos en color pero ligeros al tacto.
+- Confort exquisito: Formulado con un 80% de ingredientes acondicionadores.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CGFWT7XN{{</world>}}

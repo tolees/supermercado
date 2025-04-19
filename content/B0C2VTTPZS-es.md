@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Moussel Gel de Ducha Classique Ecopack 650 ml
 - Moussel convierte la ducha diaria en un placentero recuerdo del baño de toda la vida. Su inconfundible aroma suave y de gran personalidad y su generosa espuma, aportan cada día frescor y bienestar a toda la familia.
 - Moussel, de textura cremosa y suave, a base de aceites esenciales, cuida y mantiene la tersura e hidratación natural de tu piel.
+- Moussel Gel de Ducha Classique Ecopack 650 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2VTTPZS{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- REFRESCA PARA CALMAR: Su fórmula refrescante ayuda a reducir el ardor y la irritación del afeitado, refrescando para calmar la piel durante el afeitado, todo con una fragancia masculina
-- MÁS LUBRICANTES, MÁS PROTECCIÓN: La fórmula de Gillette Series tiene lubricantes adicionales* que ayudan a que las maquinillas de afeitar se deslicen suave y cómodamente *comparados con la espuma de afeitar Gillette Classic
-- LOS ALIADOS PERFECTOS: Saca el máximo partido a tu afeitado con la gama completa de productos Gillette Series, formulada específicamente para ayudar a reducir la irritación tras el afeitado
 - FÓRMULA CON ALOE VERA: La espuma de afeitar calmante Gillette Series ayuda a proteger la piel sensible de la irritación provocada por el afeitado
+- MÁS LUBRICANTES, MÁS PROTECCIÓN: La fórmula de Gillette Series tiene lubricantes adicionales* que ayudan a que las maquinillas de afeitar se deslicen suave y cómodamente *comparados con la espuma de afeitar Gillette Classic
+- REFRESCA PARA CALMAR: Su fórmula refrescante ayuda a reducir el ardor y la irritación del afeitado, refrescando para calmar la piel durante el afeitado, todo con una fragancia masculina
+- LOS ALIADOS PERFECTOS: Saca el máximo partido a tu afeitado con la gama completa de productos Gillette Series, formulada específicamente para ayudar a reducir la irritación tras el afeitado
 - PROTECCIÓN COMPLETA CONTRA LA IRRITACIÓN: La gama Gillette Series ayuda a proteger la piel sensible de las señales de irritación tras el afeitado: cortes, ardor, escozor, enrojecimiento y tirantez
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

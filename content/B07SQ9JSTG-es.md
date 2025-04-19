@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho con ingrediente naturales
-- Para bebés a partir de 6 meses
-- Sin gluten
 - Potito de pollo con guisantes y zanahoria
 - De textura suave
+- Sin gluten
+- Hecho con ingrediente naturales
+- Para bebés a partir de 6 meses
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07SQ9JSTG{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ORIGEN: Mezcla de granos de café creada a partir de los mejores cafés Arábica de América y Robusta Asiáticos
 - CALIDAD DELTA CAFÉS: La combinación perfecta de granos que provienen de las mejores regiones productoras de café del mundo y del arte del tostado
 - CAFÉ EN GRANO: Café en grano entero elaborado con un tueste natural y lento que le da un extra de personalidad y elegancia
 - PERFIL SENSORIAL: Café espresso con aromas embriagadores de fruta madura, aroma 8/10, cuerpo 8/10,acidez 7/10 e intensidad 8/11
-- ORIGEN: Mezcla de granos de café creada a partir de los mejores cafés Arábica de América y Robusta Asiáticos
 - COMPATIBLE: Paquete de 2 unidades de 1 Kg para máquinas de café automáticas y molinillos de café
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

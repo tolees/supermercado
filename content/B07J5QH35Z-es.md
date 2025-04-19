@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Eficacia en agua fría y ciclos cortos
-- Limpieza profunda y extra frescor gracias al aroma característico de Nenuco
 - Las cápsulas de detergente para la ropa te permiten utilizar la dosis óptima para tu colada
+- Eficacia en agua fría y ciclos cortos
 - Apto para ropa blanca y de color, no daña los tejidos y deja una fragancia fresca en tu ropa
+- Limpieza profunda y extra frescor gracias al aroma característico de Nenuco
 - Detergente para lavadora en formato cápsula con fragancia Nenuco y acción todo en 1
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

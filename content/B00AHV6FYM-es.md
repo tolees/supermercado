@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con agradable perfume
 - Indicada para hidratar la piel seca, rugosa o descamada
-- Crema nutritiva que aporta hidratación y sensación de confort inmediato
-- La Urea estable y Aceite de Soja aportan suavidad a la piel
 - Textura ligera de rápida absorción
+- Con agradable perfume
+- La Urea estable y Aceite de Soja aportan suavidad a la piel
+- Crema nutritiva que aporta hidratación y sensación de confort inmediato
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AHV6FYM{{</world>}}

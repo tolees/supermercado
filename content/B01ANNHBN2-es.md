@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene vitaminas
 - País de origen: portugal
+- Contiene vitaminas
 - Producto que combina tradición e innovación
 - Pétalos de chocolate
 

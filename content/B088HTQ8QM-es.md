@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calma la irritación, evita la descamación e hidrata en profundidad.
-- Prolonga el bronceado.
-- Para pieles atópica y sensibles.
 - Combate los efectos de los rayos UV, el aire seco y el sobrecalentamiento de la piel.
+- Calma la irritación, evita la descamación e hidrata en profundidad.
+- Para pieles atópica y sensibles.
+- Prolonga el bronceado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088HTQ8QM{{</world>}}

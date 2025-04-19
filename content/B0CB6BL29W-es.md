@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 5. Satisfacción garantizada: Satisfecho o devolución de dinero en 30 días. Si tienes más preguntas sobre el filamento, estamos siempre a tu disposición.
-- 1. Bobina de 1 kg de filamento ABS de 1,75 mm (+/-0,03 mm) en embalaje al vacío.
 - 3. Temperatura de presión: 210 ℃ - 250 ℃ (410ºF - 482ºF), temperatura de la cama: 100 ℃ - 120 ℃ (212ºF-248ºF)
 - 2. Sin impurezas, sin obstrucción
 - 4. El ABS tiene las características de baja densidad y buena elasticidad, es más suave que el PLA y es muy adecuado para la construcción mecánica
+- 1. Bobina de 1 kg de filamento ABS de 1,75 mm (+/-0,03 mm) en embalaje al vacío.
+- 5. Satisfacción garantizada: Satisfecho o devolución de dinero en 30 días. Si tienes más preguntas sobre el filamento, estamos siempre a tu disposición.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB6BL29W{{</world>}}

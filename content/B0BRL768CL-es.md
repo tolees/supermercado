@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 214 raciones en su formato ahorro de 2 bolsas de 1,5kg refill, que cuenta con un 85% menos de plástico que un bote.
 - su sabor y característicos grumitos se deben al origen de su cacao natural y porque no contiene aditivos.
-- Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente.
+- 214 raciones en su formato ahorro de 2 bolsas de 1,5kg refill, que cuenta con un 85% menos de plástico que un bote.
 - El ColaCao de siempre, eso tan tuyo. Con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos. Ideal para cualquier momento: desayuno, merienda, cena o como snack
+- Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente.
 - Alérgenos: contiene trigo y cebada. Mantener en lugar fresco y seco.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

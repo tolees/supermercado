@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Surtido de caramelos de goma en bolsa de 1 kg
 - Todas las gomitas son tamaño mini de unos 3 cm de largo la más grande
 - El surtido contiene, entre otros, botellitas de cola, ositos, huevos, moras, ranas
 - Delicioso mix de diferentes piezas recubiertas de pica
-- Surtido de caramelos de goma en bolsa de 1 kg
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAP0HEG{{</world>}}

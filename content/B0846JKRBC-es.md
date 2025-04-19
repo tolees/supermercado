@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- CLORURO DE SODIO: Conocido conmúmente como sal, es fundamental para mantener el equilibrio electrolítico de los líquidos corporales. También se utiliza para saborizar y conservar los alimentos
 - PRODUCTO VEGANO: Producto vegano y sin gluten. Tiene una vida útil de 1 año en las condiciones de almacenado especificadas. Conservar en el envase bien cerrado y en un lugar fresco, seco y oscuro
+- AHORA INGREDISSIMO: Tradíssimo ahora es Ingredíssimo. Mismo producto y misma calidad. Simplemente, otro nombre con el que nos sentimos y os sentiréis más identificados. Más de 45 años de experiencia
 - DOSIS ORIENTATIVA: La dosis individual ideal es de 5-8 g de cloruro de calcio por litro de agua. Diluir la cantidad a utilizar con agua fría en un recipiente. Después agitar y añadir alginato
 - APLICACIÓN: Esta disolución se usa para esferificación directa, en la cual se consigue elaborar una esfera líquida por dentro, tipo caviar, pero que sigue gelificando lentamente
-- CLORURO DE SODIO: Conocido conmúmente como sal, es fundamental para mantener el equilibrio electrolítico de los líquidos corporales. También se utiliza para saborizar y conservar los alimentos
-- AHORA INGREDISSIMO: Tradíssimo ahora es Ingredíssimo. Mismo producto y misma calidad. Simplemente, otro nombre con el que nos sentimos y os sentiréis más identificados. Más de 45 años de experiencia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0846JKRBC{{</world>}}

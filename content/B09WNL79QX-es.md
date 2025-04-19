@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Enriquecido con Aloe Vera de fuentes sostenibles para hidratar la piel
-- Fórmula con base 90% biodegradable, mas respetuosa con la vida marina. Envase hecho con plástico reciclado
 - Especialmente formulado para proteger la delicada piel de los niños frente a los rayos UVA, UVB, previniendo de las quemaduras solares y los daños a largo plazo en la piel
+- Fórmula con base 90% biodegradable, mas respetuosa con la vida marina. Envase hecho con plástico reciclado
 - Marca: Garnier
 
 [🛒 Comprar!!!]({{< param buyurl >}})

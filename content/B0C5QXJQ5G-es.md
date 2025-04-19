@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Delicioso sabor a chocolate y galleta KitKat ahora en el desayuno
 - Have a break, have a KitKat cereales
-- Explosión de sabor a chocolate KitKat
 - Crujiente cereal integral y delicioso sabor a galleta KitKat
+- Explosión de sabor a chocolate KitKat
+- Delicioso sabor a chocolate y galleta KitKat ahora en el desayuno
 - KitKat cereales, con cacao de origen sostenible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

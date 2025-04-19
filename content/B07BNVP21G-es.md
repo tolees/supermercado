@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rico en fibra
-- Contiene avellanas, anacardos, nueces y almendras blanqueadas
 - Sin sal añadida, ingredients naturales
+- Contiene avellanas, anacardos, nueces y almendras blanqueadas
+- Rico en fibra
 - Apto para dietas vegetarianas y veganas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

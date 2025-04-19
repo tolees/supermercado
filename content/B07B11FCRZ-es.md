@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La única que reposa en tanques horizontales durante 28 días para proporcionar la presión perfecta a la levadura
-- De color amarillo brillante y espuma blanca intensa. Con aroma frutal, con ligero sabor dulce y amargor suave
 - Ingredientes Naturales: Agua, malta de cebada, lúpulo y la levadura tipo A única de Heineken
-- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
+- De color amarillo brillante y espuma blanca intensa. Con aroma frutal, con ligero sabor dulce y amargor suave
 - Cerveza tipo y estilo Lager, con 5 percent de alcohol en volumen
+- La única que reposa en tanques horizontales durante 28 días para proporcionar la presión perfecta a la levadura
+- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07B11FCRZ{{</world>}}

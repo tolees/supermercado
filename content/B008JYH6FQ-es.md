@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Liner de punta de flitro preciso y modulable.
-- Delineador de ojos con punta de fieltro.
-- Delineado intenso y duradero.
 - Fácil de desmaquillar.
 - Punta flexible que facilita la aplicación.
+- Delineado intenso y duradero.
+- Liner de punta de flitro preciso y modulable.
+- Delineador de ojos con punta de fieltro.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B008JYH6FQ{{</world>}}

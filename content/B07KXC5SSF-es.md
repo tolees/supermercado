@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La equinácea ayuda a las defensas
-- Épocas de gran actividad física o mental
-- Con ingredientes de origen natural
 - Sin gluten y sin lactosa
 - Mantiene y refuerza las defensas
+- Épocas de gran actividad física o mental
+- Con ingredientes de origen natural
+- La equinácea ayuda a las defensas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KXC5SSF{{</world>}}

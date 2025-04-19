@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ↕️ |DE TAMAÑO REDUCIDO, LIGERA Y COMPACTA | Tamaño 26,8x11x26 cm. Apta para distintos tamaños de vajilla, desde tacita de espresso a un tazón
-- ☕ | CAFETERA ESPRESS MULTICÁPSULA | Apta para preparar café en todos sus formatos, sea molido o de cualquier tipo de cápsula. Con 19 bares de presión y 1450W, consigue un café con todo el aroma y sabor de siempre.
-- ⚪ |COLORES | Disponible en varios colores.
-- 📱 |PROGRAMABLE | Puedes programarla para elegir cómo de largo o corto quieres tu café. Depósito transparente de 600ml de capacidad, para que puedas ver en todo momento si necesita agua.
 - 🧽 | FÁCIL DE LIMPIAR | Se limpia pasando una bayeta. Las piezas no eléctricas son lavables y aptas para el lavavajillas. Y sobre todo, es una cafetera espress multicápsulas que está libre de BPA y otros tóxicos.
+- 📱 |PROGRAMABLE | Puedes programarla para elegir cómo de largo o corto quieres tu café. Depósito transparente de 600ml de capacidad, para que puedas ver en todo momento si necesita agua.
+- ⚪ |COLORES | Disponible en varios colores.
+- ☕ | CAFETERA ESPRESS MULTICÁPSULA | Apta para preparar café en todos sus formatos, sea molido o de cualquier tipo de cápsula. Con 19 bares de presión y 1450W, consigue un café con todo el aroma y sabor de siempre.
+- ↕️ |DE TAMAÑO REDUCIDO, LIGERA Y COMPACTA | Tamaño 26,8x11x26 cm. Apta para distintos tamaños de vajilla, desde tacita de espresso a un tazón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B095WKS1GC{{</world>}}

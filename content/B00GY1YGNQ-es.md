@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Controla los brillos y ayuda a reducir los granitos
-- Probado dermatológicamente; no sensibilizante
 - Los productos Acniben con Zincamida, regularizan el exceso de sebo y brillo, ayudan a minimizar las imperfecciones y rojeces cutáneas con suavidad
-- Ayuda a reducir las imperfecciones y matifica la piel
+- Probado dermatológicamente; no sensibilizante
 - Gel crema facial para la seborregulación y cuidado diario de las pieles grasas y con tendencia acnéica
+- Controla los brillos y ayuda a reducir los granitos
+- Ayuda a reducir las imperfecciones y matifica la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00GY1YGNQ{{</world>}}

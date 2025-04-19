@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desmaquilla, limpia y suaviza todo el rostro: cara, ojos, labios
 - Fórmula suave sin perfume adecuada para todo tipo de pieles, incluso las sensibles
-- Sin aclarar
+- Desmaquilla, limpia y suaviza todo el rostro: cara, ojos, labios
 - Con micelas que actúan como imanes para capturar la suciedad
+- Sin aclarar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00X9U0N5K{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para 8/10 muslitos de pollo o un pollo entero
 - Fácil, práctico y limpio de preparar
-- 1 bolsa de especias para el horno con condimento sazonador para preparar pollo asado a la barbacoa
 - Con ingredientes que conoces: cebolla, tomate, mejorana y pimienta negra
-- Cocina una deliciosa receta al horno sin añadir aceite
 - Para que tus recetas de carne (pollo, costillas…) o pescado (salmón, merluza…) al horno te queden jugosas y sabrosas
+- Para 8/10 muslitos de pollo o un pollo entero
+- Cocina una deliciosa receta al horno sin añadir aceite
+- 1 bolsa de especias para el horno con condimento sazonador para preparar pollo asado a la barbacoa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079ZYKLBP{{</world>}}

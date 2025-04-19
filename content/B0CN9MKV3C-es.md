@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nueva Fórmula, con nuevo formato y modo de empleo | DONNAplus Embarazo es un complemento alimenticio para la etapa preconcepcional, durante embarazo y lactancia con un alto contenido en DHA, hierro, zinc, yodo, vitaminas, minerales y un alto contenido de ácido fólico.
-- DESARROLLO CEREBRAL Y VISUAL DEL FETO Y LACTANTE | gracias al alto contenido de DHA, un ácido graso poliinsaturado de la serie Omega-3 que te aporta los requerimientos necesarios de esta etapa
 - VITAMINAS, MINERALES Y ÁCIDO FÓLICO | Con 10 vitaminas, 5 minerales y ácido fólico para reducir el factor de riesgo de defectos del tubo neural del feto en desarrollo y disminuir la sensación de cansancio y fatiga.
+- DESARROLLO CEREBRAL Y VISUAL DEL FETO Y LACTANTE | gracias al alto contenido de DHA, un ácido graso poliinsaturado de la serie Omega-3 que te aporta los requerimientos necesarios de esta etapa
+- Nueva Fórmula, con nuevo formato y modo de empleo | DONNAplus Embarazo es un complemento alimenticio para la etapa preconcepcional, durante embarazo y lactancia con un alto contenido en DHA, hierro, zinc, yodo, vitaminas, minerales y un alto contenido de ácido fólico.
 - ¿PARA QUIÉN? | indicado para la etapa preconcepcional (planificación del embarazo), durante embarazo y lactancia. Los complementos alimenticios no deben sustituir una dieta variada y equilibrada y un estilo de vida saludable.
 - CÓMO TOMAR | tomar 1 perla y 1 cápsula dura al día; no superar la dosis diaria recomendada; mantener fuera del alcance de los niños más pequeños; guardar en un lugar fresco y seco
 

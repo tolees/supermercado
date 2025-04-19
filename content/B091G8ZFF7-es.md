@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ingredientes: CACAHUETE frito, Maiz frito, Pipas fritas, Pasas, Estrella BBQ (semola de maiz, sémola de arroz, azucar, aceite girasol, aroma barbacoa (aromas, aroma de humo, maltodextrina , sal, potenciado es del sabor E-621, E-635)), aceite girasol, sal.
 - Conservar en lugar limpio, fresco y seco.
 - Alérgenos: Puede contener trazas de otros frutos de cáscara, leche, soja y derivados Varios orígenes: Brasil o Argentina/España.
-- Ingredientes: CACAHUETE frito, Maiz frito, Pipas fritas, Pasas, Estrella BBQ (semola de maiz, sémola de arroz, azucar, aceite girasol, aroma barbacoa (aromas, aroma de humo, maltodextrina , sal, potenciado es del sabor E-621, E-635)), aceite girasol, sal.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B091G8ZFF7{{</world>}}

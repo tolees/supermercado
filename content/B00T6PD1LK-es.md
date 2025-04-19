@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuida de tu belleza con los productos que mejor se adapten a ti.
 - Clinique beyond perfecting fdt 04 creamw
+- Cuida de tu belleza con los productos que mejor se adapten a ti.
 - Tu cuidado íntimo y personal de la mano de los mejores productos del mercado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

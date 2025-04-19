@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aperitivo listo para disfrutar en cualquier momento
 - Mantener en lugar fresco y seco
-- Con intenso sabor y rompedor crujido
+- Aperitivo listo para disfrutar en cualquier momento
 - Snack adecuado para picotear o dipear
 - Con forma triangular para acompañar con la salsa que prefieras
+- Con intenso sabor y rompedor crujido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01LYEYYA4{{</world>}}

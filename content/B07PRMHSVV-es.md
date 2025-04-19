@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con burbuja fina
-- Con un sabor seco con un punto ácido
 - Una combinación óptima de manzanas dulces y ácidas
 - No contiene gluten
+- Con un sabor seco con un punto ácido
 - Cider de manzanas verde
+- Con burbuja fina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PRMHSVV{{</world>}}

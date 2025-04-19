@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ENERVIT: Desarrollamos productos y suplementos nutricionales e innovadores para mejorar la calidad de vida de nuestros usuarios
 - BENEFICIOS: Indicado para después de los entrenamientos. La vitamina D, la vitamina B6 y la tiamina refuerzan el mantenimiento de la función muscular y el metabolismo proteico y glucogénico
-- BARRA PROTEICA 38% CHOCO ORANGE: Barrita proteica baja en azúcar con suave relleno de naranja y cobertura de chocolate negro. Con 15 g de proteínas y mezcla de vitaminas. Sin gluten
-- CONSUMO: Se recomiendan 1-2 barritas al día en función de la actividad y considerando otras fuentes de proteínas en la dieta. Se debe acompañar de una ingesta adecuada de agua
 - PROPIEDADES: Contribuye al correcto metabolismo proteico y a la reducción del cansancio y la fatiga. Cada barrita contiene tan sólo 0,6 g de azúcar
+- BARRA PROTEICA 38% CHOCO ORANGE: Barrita proteica baja en azúcar con suave relleno de naranja y cobertura de chocolate negro. Con 15 g de proteínas y mezcla de vitaminas. Sin gluten
+- ENERVIT: Desarrollamos productos y suplementos nutricionales e innovadores para mejorar la calidad de vida de nuestros usuarios
+- CONSUMO: Se recomiendan 1-2 barritas al día en función de la actividad y considerando otras fuentes de proteínas en la dieta. Se debe acompañar de una ingesta adecuada de agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BHWBQ2BX{{</world>}}

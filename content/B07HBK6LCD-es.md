@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pienso acuoso para gatos. Proporción extraalta de carne. Vitaminas y minerales importantes. Sin cereales
-- Para nuestras comidas, empleamos mayoritariamente ingredientes procedentes de granjas regionales; criados y cultivados con mucho amor
 - ver artículos individuales
-- Renunciamos a: Gluten y soja, Conservantes sintéticos, lactosa, azúcar
+- Pienso acuoso para gatos. Proporción extraalta de carne. Vitaminas y minerales importantes. Sin cereales
 - MjAMjAM - porque es sabroso
+- Para nuestras comidas, empleamos mayoritariamente ingredientes procedentes de granjas regionales; criados y cultivados con mucho amor
+- Renunciamos a: Gluten y soja, Conservantes sintéticos, lactosa, azúcar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07HBK6LCD{{</world>}}

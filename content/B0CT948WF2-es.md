@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Contiene proteínas, vitaminas y ácidos grasos Omega 6
 - Sin Colorantes Artificiales Añadidos
 - 1kcal en promedio
 - Sabor a Salmón y Trucha
-- Contiene proteínas, vitaminas y ácidos grasos Omega 6
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CT948WF2{{</world>}}

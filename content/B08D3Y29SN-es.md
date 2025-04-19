@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color rojo guinda electrico con ribetes violaceos. limpido y brillante, capa media alta muy viva y brillante
-- Nariz de intensidad alta con notas acentuadas de regaliz rojo, hierbas, frescas y mentolados sobre fondo marcado pomelo amargo y petalos de rosa y cítricos tropicales
-- Boca con entrada amable, densa y larga muy fresca y frutosa, donde sobresalen de nuevo el pomelo amargo, cítricos tropicales y regaliz rojo, retrogusto a hierbas de maceración y pomelo amargo
 - Producto que combina tradición e innovación
+- Color rojo guinda electrico con ribetes violaceos. limpido y brillante, capa media alta muy viva y brillante
+- Boca con entrada amable, densa y larga muy fresca y frutosa, donde sobresalen de nuevo el pomelo amargo, cítricos tropicales y regaliz rojo, retrogusto a hierbas de maceración y pomelo amargo
+- Nariz de intensidad alta con notas acentuadas de regaliz rojo, hierbas, frescas y mentolados sobre fondo marcado pomelo amargo y petalos de rosa y cítricos tropicales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08D3Y29SN{{</world>}}

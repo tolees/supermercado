@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Maquinilla desechable para hombre
 - Cabezal fijo
+- Maquinilla desechable para hombre
 - Hojas de larga duración
 - Dos hojas con revestimiento en cromo
 

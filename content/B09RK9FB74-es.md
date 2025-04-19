@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🍇 Variedad:Chardonnay con graduación de 11.5º
-- ⚜️ Capacidad: 6 botellas de 750 ml
-- 🌡️ Temperatura de servicio: 7 - 8ºC.
-- 🗨 Nota de cata: Este vino muestra un color amarillo pajizo y aromas a piña y cítricos, propios de la uva Chardonnay cultivada en zona fría. En boca predomina el dulzor junto con una sorprendente y vibrante frescura.
 - 🍽 Maridaje: Es un excelente acompañante para entrantes y aperitivos, para una tabla de quesos, frutas o postres.
+- 🌡️ Temperatura de servicio: 7 - 8ºC.
+- ⚜️ Capacidad: 6 botellas de 750 ml
+- 🗨 Nota de cata: Este vino muestra un color amarillo pajizo y aromas a piña y cítricos, propios de la uva Chardonnay cultivada en zona fría. En boca predomina el dulzor junto con una sorprendente y vibrante frescura.
+- 🍇 Variedad:Chardonnay con graduación de 11.5º
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RK9FB74{{</world>}}

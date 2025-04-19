@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2.Low irritation: No added stimulating ingredients, using a variety of natural extracts as the main ingredient, no irritation, use with confidence
-- 3.Mayor duración: el tiempo de injerto después de usar líquido de limpieza es dos veces mayor que el tiempo de mantenimiento de las pestañas injertadas sin líquido de limpieza
 - 4.Diseño de la prensa: el cabezal de la bomba del líquido de limpieza está especialmente diseñado para extruir la espuma directamente, lo que es más conveniente que el líquido de limpieza común
 - 1.Mejora la viscosidad del pegamento: FADLASH Limpiador de extensión de pestañas, elimina limpiamente las secreciones y aceites alrededor de las pestañas y los ojos, ayudando a que el pegamento sea más viscoso. Vida útil: 12 meses.
+- 2.Low irritation: No added stimulating ingredients, using a variety of natural extracts as the main ingredient, no irritation, use with confidence
 - 5.Razones para la selección: la espuma limpiadora tiene una textura suave, no frota la piel y las pestañas en exceso, puede proteger bien la piel y las pestañas y no pierde la capacidad de limpieza suavemente
+- 3.Mayor duración: el tiempo de injerto después de usar líquido de limpieza es dos veces mayor que el tiempo de mantenimiento de las pestañas injertadas sin líquido de limpieza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0896WHYLB{{</world>}}

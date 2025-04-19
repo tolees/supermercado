@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Huesos siempre fuertes
 - Contiene Leche o derivados de la leche (lactosa)
 - Ninguna lo fija mejor con vit. D y K
+- Huesos siempre fuertes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA85CQQ{{</world>}}

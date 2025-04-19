@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fórmula optimizada, ahora más clean y vegana
-- Esencia fresca y aromática
-- Fragancia 48 horas de duración
 - Envase de aluminio ligero; hecho con materiales reciclados
 - Dermatológicamente testado
+- Fragancia 48 horas de duración
+- Esencia fresca y aromática
+- Fórmula optimizada, ahora más clean y vegana
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN8GHHWN{{</world>}}

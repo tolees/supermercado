@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alérgenos: cereales, gluten
-- Mantener en un lugar fresco y seco
-- Cada caja contiene 14 packs de 8 tortillas.
-- 100% Integral
 - País de origen: España
+- Alérgenos: cereales, gluten
+- Cada caja contiene 14 packs de 8 tortillas.
+- Mantener en un lugar fresco y seco
+- 100% Integral
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KL8GVBW{{</world>}}

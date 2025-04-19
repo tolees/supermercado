@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Café espresso, ristretto o lungo: con este café podrás preparar un espresso, café negro corto que se disfruta solo o con base de leche como el capuchino o el latte; un ristretto, una versión más concentrada de un espresso, con menos agua y la misma cantidad de café; o un café lungo, la misma cantidad de café pero el doble de agua que un espresso
-- Intensidad 6: café en grano 100 % arábica de tueste natural con sabor dulce y tostado
 - Marcilla recomienda: una vez abierto el paquete, después de su utilización, guárdalo en un recipiente hermético en un lugar fresco y seco
 - 1 paquete de 400 grams: café en grano listo para ser molido en tu máquina de café superautomática (o en tu molinillo de café); una vez molido, podrá ser utilizado en cualquier cafetera
+- Café espresso, ristretto o lungo: con este café podrás preparar un espresso, café negro corto que se disfruta solo o con base de leche como el capuchino o el latte; un ristretto, una versión más concentrada de un espresso, con menos agua y la misma cantidad de café; o un café lungo, la misma cantidad de café pero el doble de agua que un espresso
+- Intensidad 6: café en grano 100 % arábica de tueste natural con sabor dulce y tostado
 - Dulce y tostado: la mezcla de estos graños y su proceso de tueste confieren al café un aroma suave pero duradero con notas a caramelo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

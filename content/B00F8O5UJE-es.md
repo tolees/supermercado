@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una vez abierto conservar en frigorífico
-- Adecuado para preparar una variedad de recetas
-- Sin Gluten y sin conservantes
 - Listo para consumir
+- Adecuado para preparar una variedad de recetas
+- Una vez abierto conservar en frigorífico
+- Sin Gluten y sin conservantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00F8O5UJE{{</world>}}

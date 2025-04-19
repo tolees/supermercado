@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Certificada sin gluten
 - Reciclar directamente en el contenedor orgánico y volver a la naturaleza en forma de abono
 - Ingredientes procedentes de agricultura ecológica
-- La harina 100% de quinoa real es el ingrediente perfecto para preparar pasteles, bizcochos o galletas sin gluten
+- Certificada sin gluten
 - En envase 100% compostable sin plástico
+- La harina 100% de quinoa real es el ingrediente perfecto para preparar pasteles, bizcochos o galletas sin gluten
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B018KABLHW{{</world>}}

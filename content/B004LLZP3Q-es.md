@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se recomienda servir frío
-- Ideal como regalo para cualquier ocasión
-- Ginebra con infusiones de rosas y pepino
 - Con un postgusto especial gracias a las notas cítricas.
+- Se recomienda servir frío
+- Ginebra con infusiones de rosas y pepino
+- Ideal como regalo para cualquier ocasión
 - Se puede consumir solo o en cócteles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

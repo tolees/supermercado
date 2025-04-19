@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
-- Extractos de mejillones para fortalecer cartílagos, articulaciones y huesos
 - Para perros adultos de todas las razas con actividad normal
 - Gran cantidad de aves de corral frescas (25 %) como fuente de proteína de alta calidad
 - Sin trigo & sin azúcar
+- Extractos de mejillones para fortalecer cartílagos, articulaciones y huesos
+- Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01EQZB13E{{</world>}}

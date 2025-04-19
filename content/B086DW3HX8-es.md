@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formula diseñada a prueba de contacto y besos
-- Labial de larga duración que incluye una fórmula con una base flexible
-- Formula permanente anti descamación
 - Dos pasos para un color de labios óptimo; labial líquido de larga duración, bálsamo hidratante labial
+- Formula permanente anti descamación
+- Formula diseñada a prueba de contacto y besos
 - 24 H De Color Impactante
+- Labial de larga duración que incluye una fórmula con una base flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B086DW3HX8{{</world>}}

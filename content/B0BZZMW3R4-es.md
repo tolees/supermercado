@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A la vista: Percibimos un color verde con brillos. Si miramos al trasluz encontramos unas lágrimas redondeadas y untuosas con reflejos verdes.
-- Sabor: Ginebra de melón, suave y dulce. ¿Cómo tomarla? Combínala con refresco de lima limón, tónica o refresco de limón acompañada de hielo y rodajas de lima.
-- En boca: Lo primero que nos invade es un potente sabor a melón, seguido de una evolución levemente cítrica con un final dulce y fresco. En nariz: destacan las notas frutales de melón subrayadas por finos recuerdos a enebro.
 - Esta sorprendente ginebra recoge el dulce sabor del melón en su punto de madurez perfecto, que se une a las bayas de enebro aportando notas suaves a la vez que intensas, dando lugar a un sabor único que persiste en el paladar. El dulzor de esta fruta combinado con sabores cítricos da lugar a un sabor cálido y aterciopelado.
+- Sabor: Ginebra de melón, suave y dulce. ¿Cómo tomarla? Combínala con refresco de lima limón, tónica o refresco de limón acompañada de hielo y rodajas de lima.
 - Puerto de Indias y el verano se fusionan en este increíble sabor: Sweet Melon.
+- A la vista: Percibimos un color verde con brillos. Si miramos al trasluz encontramos unas lágrimas redondeadas y untuosas con reflejos verdes.
+- En boca: Lo primero que nos invade es un potente sabor a melón, seguido de una evolución levemente cítrica con un final dulce y fresco. En nariz: destacan las notas frutales de melón subrayadas por finos recuerdos a enebro.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZZMW3R4{{</world>}}

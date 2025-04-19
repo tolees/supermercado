@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - No frito
-- Cada caja contiene 7 bolsas
-- Mini Tortitas con lenteja roja y champiñones
 - El placer de picotear con Bicentury
+- Mini Tortitas con lenteja roja y champiñones
+- Cada caja contiene 7 bolsas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPJGRM5N{{</world>}}

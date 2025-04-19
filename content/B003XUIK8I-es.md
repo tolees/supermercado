@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CERTIFICACIÓN DE SOSTENIBILIDAD: Cacao con certificación UTZ, que apoya el cultivo sostenible y el respeto por el medio ambiente.
+- PROCESO TRADICIONAL DEL CACAO: Cacao natural recolectado a mano, secado al sol, tostado, prensado y mezclado de manera tradicional.
 - CANTIDAD Y PORCIONES: El envase de 770 gramos ofrece 55 raciones, lo que lo convierte en una opción ideal para disfrutar durante un largo periodo de tiempo. Cada porción está diseñada para ofrecer un equilibrio perfecto entre sabor y nutrición, sin comprometer la calidad.
 - EFICIENTE: El ColaCao se disuelve rápidamente, tanto en leche caliente como fría. Disfruta de tu bebida sin grumos, para que puedas saborear tu momento de manera única y personalizada.
-- PROCESO TRADICIONAL DEL CACAO: Cacao natural recolectado a mano, secado al sol, tostado, prensado y mezclado de manera tradicional.
 - PLACER Y NUTRICIÓN: Disfruta de un equilibrio perfecto entre sabor y beneficios nutricionales con el cacao natural que se mantiene fiel a sus raíces y a tus necesidades.
+- CERTIFICACIÓN DE SOSTENIBILIDAD: Cacao con certificación UTZ, que apoya el cultivo sostenible y el respeto por el medio ambiente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003XUIK8I{{</world>}}

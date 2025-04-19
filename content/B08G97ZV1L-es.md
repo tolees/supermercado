@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar mañana y noche efectuando ligeros masajes alisadores del interior hacia el exterior del contorno de los ojos
 - Contorno de ojos antiedad con aceite de oliva BIO para una mirada más hidratada, lisa y luminosa, Prepara la piel para el maquillaje
+- Aplicar mañana y noche efectuando ligeros masajes alisadores del interior hacia el exterior del contorno de los ojos
 - Contenido: 1 x Contorno de Ojos Anti-edad con Aceite de Oliva BIO La Provençale Bio, 15 ml
 - Atenúa y alisa líneas de expresión, Disminuye la apariencia de ojeras, Hidrata intensamente la piel para un tono más homogéneo, Calma y descongestiona
 - Fórmula enriquecida con aceite de oliva BIO rico en polifenoles y la flor de aciano BIO descongestionante, Textura no pegajosa

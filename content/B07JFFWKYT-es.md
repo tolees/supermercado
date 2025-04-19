@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- envíos rápidos.
-- 4 tarros en miniatura de 30 g
 - Productos gourmet Extremadura
 - Se presenta en caja de cartón negra, con una frase a ambos lados del estuche (ojo, frase no personalizable)
 - vino tinto de 37.5 cl (Cristal)
+- envíos rápidos.
+- 4 tarros en miniatura de 30 g
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JFFWKYT{{</world>}}

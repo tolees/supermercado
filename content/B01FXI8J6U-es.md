@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de llevar en los viajes
 - Limpia los dientes llegando hasta los dientes de atrás
 - Ayuda Ayuda a mantener los dientes sanos
+- Fácil de llevar en los viajes
 - Limpiador de lengua
 - Elimina la placa bacteriana
 

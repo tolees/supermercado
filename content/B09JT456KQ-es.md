@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consumir frío (entre 5 C y 8 C); si es necesario, enfriar durante dos o tres horas en una cubitera con agua, sal y hielo; evitar enfriamientos bruscos en el congelador
-- Es óptimo como aperitivo o como acompañamiento de pescado azul o arroces; también un excelente cava para tapas o fritos de pescado
-- Varietales: 50% Garnacha, 25% Monastrell, 25% Trepat
 - Aromas a frutos rojos, mermeladas y casís complementados por suaves notas de bollería y levadura fruto de su crianza en contacto con las levaduras
+- Es óptimo como aperitivo o como acompañamiento de pescado azul o arroces; también un excelente cava para tapas o fritos de pescado
+- Consumir frío (entre 5 C y 8 C); si es necesario, enfriar durante dos o tres horas en una cubitera con agua, sal y hielo; evitar enfriamientos bruscos en el congelador
+- Varietales: 50% Garnacha, 25% Monastrell, 25% Trepat
 - Tonalidades rosadas de media intensidad y burbujas finas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

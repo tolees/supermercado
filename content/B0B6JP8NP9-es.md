@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de llevar a cualquier parte
-- De textura crujiente
-- Conservar en un lugar fresco y seco
-- Ideal como snack
 - Patatas fritas con sabor solomillo de ternera
+- Ideal como snack
+- Fácil de llevar a cualquier parte
+- Conservar en un lugar fresco y seco
+- De textura crujiente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6JP8NP9{{</world>}}

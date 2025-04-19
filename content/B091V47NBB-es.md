@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuado para toda la familia
 - Atún claro ligero en aceite de oliva virgen extra
 - Se debe conservar en un lugar fresco y seco
 - El primer atún claro con la mitad de grasa
 - Mantiene todo su sabor y jugosidad gracias a su toque justo de aceite
+- Adecuado para toda la familia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B091V47NBB{{</world>}}

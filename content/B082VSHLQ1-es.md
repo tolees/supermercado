@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Las bayas de Goji son una fuente de proteínas; disfrútalas en tu desayuno o úsalas para elaborar deliciosos snacks
+- Apto para dietas vegetarianas y veganas
+- Sin azúcares añadidos, contiene azúcares naturalmente presentes
 - Alto contenido de fibra
 - No apto para alérgicos a otros frutos de cáscara debido al método de producción
 - Paquete de 2 x 500g
-- Apto para dietas vegetarianas y veganas
-- Sin azúcares añadidos, contiene azúcares naturalmente presentes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082VSHLQ1{{</world>}}

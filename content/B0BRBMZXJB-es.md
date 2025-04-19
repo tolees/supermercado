@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con tecnología de cambio de color: Este dentífrico se vuelve azul mientras te cepillas
-- Pack de 12 unidades
 - Obtén una protección completa para tus dientes y toda tu boca al cepillarte con la pasta de dientes Colgate Total Efecto Visible
 - Esta pasta de dientes anticaries también revitaliza tus encías, reduce el sarro, blanquea, protege los dientes sensibles y refresca tu aliento para que sonrías con confianza
+- Pack de 12 unidades
 - Con su fórmula que contiene duo zinc y arginina, este dentífrico con flúor proporciona 24 horas de protección antibacteriana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

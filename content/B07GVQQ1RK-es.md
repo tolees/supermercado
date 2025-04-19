@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Extractos naturales: melocotón y pomelo
+- CrueltyFree
 - Aporta una hidratación fresh para una piel elástica y en forma.
 - La vitamina C activa las defensas y ayuda a frenar el envejecimiento prematuro de la piel.
 - Jabón de manos nutritivo con refrescante extracto de frutas cítricas y melocotón.
-- Extractos naturales: melocotón y pomelo
-- CrueltyFree
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07GVQQ1RK{{</world>}}

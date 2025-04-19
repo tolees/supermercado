@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- APLICACI¨N AMPLIA: la acci¨n de un solo golpe extrae un sif¨n sin perturbar los sedimentos. Perfecto para embotellar bebidas carbonatadas como cerveza y sidra.
-- TUBO TRANSPARENTE - Tubo de pl¨stico transparente para ver el l¨ªquido durante la transferencia. Le permite controlar la dispensaci¨n, ?haga que el embotellado sea un trabajo de un solo hombre!
-- DISE?O DE CARACTER¨ªSTICAS - Dise?ado para minimizar la recogida de sedimentos durante la transferencia. Simplemente inserte el sif¨n autom¨tico en su fermentador, bombee el tubo central y se iniciar¨ el sif¨n.
 - HERRAMIENTA PR¨CTICA: el sif¨n autom¨tico es una de las mejores compras que puede hacer como nuevo cervecero casero. Precisi¨n dise?ada para un funcionamiento suave y sin fugas.
+- TUBO TRANSPARENTE - Tubo de pl¨stico transparente para ver el l¨ªquido durante la transferencia. Le permite controlar la dispensaci¨n, ?haga que el embotellado sea un trabajo de un solo hombre!
+- APLICACI¨N AMPLIA: la acci¨n de un solo golpe extrae un sif¨n sin perturbar los sedimentos. Perfecto para embotellar bebidas carbonatadas como cerveza y sidra.
+- DISE?O DE CARACTER¨ªSTICAS - Dise?ado para minimizar la recogida de sedimentos durante la transferencia. Simplemente inserte el sif¨n autom¨tico en su fermentador, bombee el tubo central y se iniciar¨ el sif¨n.
 - F¨CIL DE MANTENER: despu¨¦s de su uso, el sif¨n se desmonta f¨cilmente para su limpieza. Este tubo encajar¨ perfectamente en bastones, grifos y llenadores de botellas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

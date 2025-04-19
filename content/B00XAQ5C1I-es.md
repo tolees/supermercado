@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes: jarabe de glucosa, azúcar, gelatina, agua, humectante: e420, acidulantes: e330, e270, corrector de acidez: e325, aromas, agentes de recubrimiento: e901, e903, colorantes: ver sello
 - País de origen: España
 - Fabricado en una empresa, que tambien manipula derivados lacteos
+- Ingredientes: jarabe de glucosa, azúcar, gelatina, agua, humectante: e420, acidulantes: e330, e270, corrector de acidez: e325, aromas, agentes de recubrimiento: e901, e903, colorantes: ver sello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAQ5C1I{{</world>}}

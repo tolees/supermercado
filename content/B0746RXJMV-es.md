@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Paquete de 24 rollos decorados
-- Rollos de cocina con diseños coloridos y variados
 - Papel blanco decorado y absorbente
-- 40 servicios por rollo
+- Rollos de cocina con diseños coloridos y variados
 - Decoraciones aleatorias, ¡descúbrelas!
+- 40 servicios por rollo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0746RXJMV{{</world>}}

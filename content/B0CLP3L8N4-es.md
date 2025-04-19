@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Esta edición rinde homenaje a dos mujeres pioneras del mundo del whisky, Helen Cumming y su nuera Elisabeth, quienes hace 200 años, en 1824, asumieron el mando de la destilería y sentaron las bases de la marca Cardhu como la conocemos hoy
-- Cardhu 200 es un whisky de edición especial que celebra los 200 años de historia de una de las destilerías más antiguas de Speyside; 1824 – 2024
-- Este whisky escocés single malt ha madurado exclusivamente en barricas de vino durante 12 años aportándole una nueva dimensión a este Cardhu
-- Los aromas a frutos rojos, manzana horneada y azúcar glaseada se combinan con unas notas dulces en boca con toques de canela, azúcar morena y chocolate negro y culminan en un final sedoso y agradable
 - Con agua, los sabores se vuelven más intensos
+- Cardhu 200 es un whisky de edición especial que celebra los 200 años de historia de una de las destilerías más antiguas de Speyside; 1824 – 2024
+- Los aromas a frutos rojos, manzana horneada y azúcar glaseada se combinan con unas notas dulces en boca con toques de canela, azúcar morena y chocolate negro y culminan en un final sedoso y agradable
+- Este whisky escocés single malt ha madurado exclusivamente en barricas de vino durante 12 años aportándole una nueva dimensión a este Cardhu
+- Esta edición rinde homenaje a dos mujeres pioneras del mundo del whisky, Helen Cumming y su nuera Elisabeth, quienes hace 200 años, en 1824, asumieron el mando de la destilería y sentaron las bases de la marca Cardhu como la conocemos hoy
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CLP3L8N4{{</world>}}

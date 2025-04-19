@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Apto tanto para vegetarianos como para veganos
+- Envasado en un atmósfera protectora
 - Sin gluten
 - Semillas de lino marrón de Agricultura Ecológica
-- Envasado en un atmósfera protectora
-- Apto tanto para vegetarianos como para veganos
 - Es fuente de proteína, Omega 3 y fibra
 
 [🛒 Visítala!!!]({{< param buyurl >}})

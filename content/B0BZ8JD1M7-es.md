@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 75% de Carne y pescados Frescos. 25% de verduras, frutas y hierbas medicinales. Alimento completo para todo tipo de perros adultos. Altisima apetencia. Los perros siempre eligen Fresh frente a otros alimentos.
 - Solo ingredientes naturales de proximidad y sostenibles.
+- Sin Gluten, sin harina de carne, sin colorantes ni sabores artificiales.
 - Cocinado al vapor. Prensado en frío. No extrusionado.
 - Alta digestibilidad. Menos cantidad de heces.
-- Sin Gluten, sin harina de carne, sin colorantes ni sabores artificiales.
-- 75% de Carne y pescados Frescos. 25% de verduras, frutas y hierbas medicinales. Alimento completo para todo tipo de perros adultos. Altisima apetencia. Los perros siempre eligen Fresh frente a otros alimentos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZ8JD1M7{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detergente para la lavadora en formato gel líquido
-- Elena, la eficacia que sorprende
-- Apto para ropa blanca y de color
 - Poder antimanchas testado en 101 manchas
+- Apto para ropa blanca y de color
+- Elena, la eficacia que sorprende
+- Detergente para la lavadora en formato gel líquido
 - Eficaz en agua fría y ciclos cortos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

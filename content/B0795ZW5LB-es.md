@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor: suave aterciopelado, enebro, naranja sanguina, notas de hierbas, cítricos
 - Acabado: larga duración, ligeramente vainilla, pomelo
-- Sin gluten
 - Nariz: bayas de enebro picantes, naranjas, notas de cítricos
+- Sin gluten
 - Color: sangre naranja-rojo
+- Sabor: suave aterciopelado, enebro, naranja sanguina, notas de hierbas, cítricos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0795ZW5LB{{</world>}}

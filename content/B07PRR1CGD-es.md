@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nos preocupa el medio ambiente tanto como a tu, por eso nuestros envases son 100% reciclables, tíralos al contenedor amarillo
+- Disfruta de Coca-Cola Sin caféina ni azúcar en cualquier momento, incluso en casa
 - Disfruta con el refrescante sabor original de Coca-Cola sin azúcar ni cafeína
 - El pack incluye 24 latas de 33cl de Coca-Cola Zero Zero
 - Te recomendamos tomar tu Coca Cola fría con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
-- Disfruta de Coca-Cola Sin caféina ni azúcar en cualquier momento, incluso en casa
+- Nos preocupa el medio ambiente tanto como a tu, por eso nuestros envases son 100% reciclables, tíralos al contenedor amarillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PRR1CGD{{</world>}}

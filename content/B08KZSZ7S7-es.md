@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SIN AZÚCARES AÑADIDOS - Galletas dietéticas sin azúcares añadidos, para disfrutar del chocolate sin comprometer tu salud. Una alternativa sana y sabrosa a las galletas de chocolate tradicionales, para que disfrutes cuidándote sin renunciar al sabor.
 - TEXTURA CRUJIENTE - Galletas ligeras y crujientes cubiertas con una capa de chocolate negro al 70% de cacao, un snack ideal para disfrutar en cualquier momento del día y para compartir. Perfectas para llevar en el bolso o la mochila, ya que vienen envueltas individualmente.
-- ALMACENAMIENTO - Se recomienda almacenar en un lugar fresco y seco, entre 16 y 20°C y sin exposición directa a la luz solar. La temperatura de almacenamiento no debe superar los 26°C durante un largo periodo de tiempo, para que las características del producto no se vean afectadas.
-- BAJO EN CALORÍAS - Con sólo 80 kcal por galleta, las Tirma BeZero son el tentempié perfecto para quienes están a dieta o quieren reducir su consumo de calorías sin renunciar al chocolate. Cada caja contiene 6 galletas sin azúcar envueltas individualmente para que puedas llevarlas a todas partes.
+- SIN AZÚCARES AÑADIDOS - Galletas dietéticas sin azúcares añadidos, para disfrutar del chocolate sin comprometer tu salud. Una alternativa sana y sabrosa a las galletas de chocolate tradicionales, para que disfrutes cuidándote sin renunciar al sabor.
 - HECHO EN ESPAÑA - Fabricado localmente en las Islas Canarias. Tirma es una marca española con más de 80 años de experiencia en el mercado de la confitería. Disponibles también con chocolate negro, ¡descubre el sabor de Tirma!
+- BAJO EN CALORÍAS - Con sólo 80 kcal por galleta, las Tirma BeZero son el tentempié perfecto para quienes están a dieta o quieren reducir su consumo de calorías sin renunciar al chocolate. Cada caja contiene 6 galletas sin azúcar envueltas individualmente para que puedas llevarlas a todas partes.
+- ALMACENAMIENTO - Se recomienda almacenar en un lugar fresco y seco, entre 16 y 20°C y sin exposición directa a la luz solar. La temperatura de almacenamiento no debe superar los 26°C durante un largo periodo de tiempo, para que las características del producto no se vean afectadas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KZSZ7S7{{</world>}}

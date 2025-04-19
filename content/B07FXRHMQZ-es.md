@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MODO DE EMPLEO: La panela es el jugo que se extrae de la caña de azúcar, cristalizado sólo por evaporación. Utilícelo para endulzar cualquier bebida, yogur, batido o en sus recetas de repostería
 - VALORES NUTRICIONALES: Valor energético (1,598 kJ / 376 kcal), Hidratos de carbono (94.00 g), Azúcares (94.00 g)
-- PRODUCTO ECOLÓGICO: La panela ecológica NaturGreen es azúcar más puro y natural. Está compuesta por el jugo de caña de azúcar cristalizado, convirtiéndose en una fuente energética principal. La panela contiene 5 veces más minerales que el azúcar moreno y 50 veces más minerales que el azúcar blanco
 - FORMATO: Pack 12 unidades de 500 g
+- MODO DE EMPLEO: La panela es el jugo que se extrae de la caña de azúcar, cristalizado sólo por evaporación. Utilícelo para endulzar cualquier bebida, yogur, batido o en sus recetas de repostería
 - INGREDIENTES: Jugo de caña de azúcar cristalizado (100%) *Ingredientes procedentes de la Agricultura Ecológica
+- PRODUCTO ECOLÓGICO: La panela ecológica NaturGreen es azúcar más puro y natural. Está compuesta por el jugo de caña de azúcar cristalizado, convirtiéndose en una fuente energética principal. La panela contiene 5 veces más minerales que el azúcar moreno y 50 veces más minerales que el azúcar blanco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FXRHMQZ{{</world>}}

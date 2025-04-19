@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BENEFICIOS: Mantiene el equilibrio natural del cuero cabelludo y deja el cabello limpio, suelto, luminoso y sin encrespamiento. También es apto para cueros cabelludos sensibles
-- INGREDIENTES NATURALES: Su fórmula contiene extracto Bio de Caléndula, Keratina vegetal y Pro-vitamina B5. Libre SLS, SLES o sulfatos de cualquier tipo, Silicona, Colorantes, Parabenos, PEGs ni Cocamide DEA
 - MODO DE USO: Aplicar sobre el cabello mojado, repartiendo con las manos por todo el cuero cabelludo. Masajear hasta producir espuma abundante y enjuagar con agua templada
-- Con más de 40 años de experiencia en el sector de la belleza natural y una filosofía de trabajo que respeta el medio ambiente, NaturVital ofrece los beneficios que brinda la naturaleza mediante los mejores productos
+- INGREDIENTES NATURALES: Su fórmula contiene extracto Bio de Caléndula, Keratina vegetal y Pro-vitamina B5. Libre SLS, SLES o sulfatos de cualquier tipo, Silicona, Colorantes, Parabenos, PEGs ni Cocamide DEA
 - CHAMPÚ ORGANIC SALON: Champú sin sulfatos y sin sal añadida, especialmente indicado para el uso frecuente y para cabellos dañados, con tratamiento de keratina o alisado, moldeado o permanente
+- Con más de 40 años de experiencia en el sector de la belleza natural y una filosofía de trabajo que respeta el medio ambiente, NaturVital ofrece los beneficios que brinda la naturaleza mediante los mejores productos
+- BENEFICIOS: Mantiene el equilibrio natural del cuero cabelludo y deja el cabello limpio, suelto, luminoso y sin encrespamiento. También es apto para cueros cabelludos sensibles
 - CHAMPÚ UNISEX: Apto para hombres y mujeres con tratamientos de alisado, rizos o dañados. También es adecuado para cabellos teñidos o con mechas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

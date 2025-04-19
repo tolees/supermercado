@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 🔎 INGREDIENTES. Pasta de cacao, concentrado de proteína de suero de leche (25%), edulcorante: maltitol, manteca de cacao, fibra de achicoria, crujiente de proteína (6%) (proteína de guisante, copos de patata, almidón de patata)s de patata, almidón de patata)4%), a butter, fibre (inulin), , almendras (4%), emulgentes (lecitina (soja) y E476), edulcorante: glucósidos de esteviol procedentes de estevias (maltitol, steviol glycosides, dio de y aroma.
 - "🧳FORMATO “ON-THE-GO”: Cada minitableta contiene 27g y son ideales para media mañana, en el gimnasio o llevarlas contigo a cualquier lugar."
 - 🍫0% AZÚCARES AÑADIDOS. Sólo contine azúcares naturalmente presentes.
-- 🏋️‍♀️ ALTO CONTENIDO EN PROTEÍNA. 29g de proteína por cada 100g.
-- 🔎 INGREDIENTES. Pasta de cacao, concentrado de proteína de suero de leche (25%), edulcorante: maltitol, manteca de cacao, fibra de achicoria, crujiente de proteína (6%) (proteína de guisante, copos de patata, almidón de patata)s de patata, almidón de patata)4%), a butter, fibre (inulin), , almendras (4%), emulgentes (lecitina (soja) y E476), edulcorante: glucósidos de esteviol procedentes de estevias (maltitol, steviol glycosides, dio de y aroma.
 - ✅SIN GLUTEN. Perfecto para celiacos
 - "❤️DELICIOSO chocolate negro con proteína y almendras. Perfecto para seguir disfrutando del placer y al mismo tiempo cuidarse."
+- 🏋️‍♀️ ALTO CONTENIDO EN PROTEÍNA. 29g de proteína por cada 100g.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGRBM4W1{{</world>}}

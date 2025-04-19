@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Delicioso surtido de 44 bombones de chocolate con leche, negro y blanco de excelente calidad Bombones 100% aromas naturales
-- Estuche de Nestle Caja Roja 400g con 11 variedades distintas de bombones
-- Los bombones Caja Roja son óptimas para cualquier ocasión: regalar, compartir en eventos o para celebrar el día a día y darse un capricho
 - Nestle Caja Roja se fabrica en La Penilla (Cantabria), con leche fresca recogida diariamente en la cornisa cantábrica
+- Delicioso surtido de 44 bombones de chocolate con leche, negro y blanco de excelente calidad Bombones 100% aromas naturales
 - Bombones especialmente pensados para regalar, con Caja Roja siempre quedas bien en cualquier celebración
+- Los bombones Caja Roja son óptimas para cualquier ocasión: regalar, compartir en eventos o para celebrar el día a día y darse un capricho
+- Estuche de Nestle Caja Roja 400g con 11 variedades distintas de bombones
 - 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

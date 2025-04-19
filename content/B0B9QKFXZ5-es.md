@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Productos de arroz de pura calidad
 - Bun Tuoei: fideos de arroz fresco
+- Productos de arroz de pura calidad
 - Consiste en un 87% de arroz puro
 - Elaborado con arroz vietnamita
 

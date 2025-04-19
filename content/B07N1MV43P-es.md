@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Protector labial con protección muy alta (SPF 50+).
 - Protege los labios de las agresiones externas (viento, sol...), hidratándolos y nutriéndolos intensamente.
 - SPF 50+
 - Testado dermatológicamente
+- Protector labial con protección muy alta (SPF 50+).
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07N1MV43P{{</world>}}

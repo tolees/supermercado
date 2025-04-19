@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Facilita el peinado del cabello rizado
-- Textura transformadora de gel a aceite
-- Proporciona una nutrición adicional para unos rizos llenos de vida
-- Fórmula de aceite de origen 95 percent natural
 - Cumple con el Método Curly Girl
+- Facilita el peinado del cabello rizado
+- Proporciona una nutrición adicional para unos rizos llenos de vida
+- Textura transformadora de gel a aceite
+- Fórmula de aceite de origen 95 percent natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09YVKC6TC{{</world>}}

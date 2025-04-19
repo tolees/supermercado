@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proteger de la luz solar y de olores agresivos
-- Ideal para fiestas
-- Aperitivos con cheddar y cebolla
-- Crujiente y sabroso
 - Conservar en lugar fresco y seco
+- Ideal para fiestas
+- Proteger de la luz solar y de olores agresivos
+- Crujiente y sabroso
+- Aperitivos con cheddar y cebolla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075GMFXJD{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- CALMA Y REPARA: Contiene extracto de arroz violeta, que ejerce un efecto calmante y antioxidante; sus proteínas protegen de las agresiones externas, reparando, acondicionando y aumentando la elasticidad del cabello
+- PERFECCIONA EL COLOR DEL CABELLO: El Champú Matizador Violeta de Clearé Institute contiene pigmentos neutralizadores que se fijan al cabello para eliminar los tonos anaranjados y amarillentos
 - TRATAMIENTO MATIZADOR VIOLETA: Indicado para mujeres y hombres con problemas de tonos indeseados. 96,6% de Ingredientes Naturales; fórmula sin parabenos, siliconas, sulfatos SLS, SLES, mineral oil, ni fenoxietanol; apto para el Método Curly; apto para veganos; Cruelty Free; 400ml
 - CÓMO APLICAR: Es necesario el uso de guantes, al ser de color morado; humedecer el cabello y retirar el exceso de agua; aplicar pequeñas cantidades e ir masajeando bien todo el cabello, raíces, medios y puntas; añadir una pequeña cantidad de agua y emulsionar; esperar de 2 a 5 minutos y aclarar con abundante agua; lo puede emplear tantas veces como necesite; para mujeres y hombres
-- PERFECCIONA EL COLOR DEL CABELLO: El Champú Matizador Violeta de Clearé Institute contiene pigmentos neutralizadores que se fijan al cabello para eliminar los tonos anaranjados y amarillentos
-- CALMA Y REPARA: Contiene extracto de arroz violeta, que ejerce un efecto calmante y antioxidante; sus proteínas protegen de las agresiones externas, reparando, acondicionando y aumentando la elasticidad del cabello
 - REPARA Y REDUCE EL ENCRESPAMIENTO: Formulado con proteínas de Baobab, responsables de la recuperación instantánea del cabello dañado por ataques químicos y envejecido por el paso del tiempo; reduce el encrespamiento, rejuvenece, y deja el cabello más suave y con más brillo; además, protege el pelo de la radiación ultravioleta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

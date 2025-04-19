@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección completa contra: Caries, placa, sarro y problemas de encías.
-- Sabor fresa
 - Fórmula con 1450 ppm de flúor para unos dientes fuertes y sanos.
+- Sabor fresa
+- Protección completa contra: Caries, placa, sarro y problemas de encías.
 - Desarrollado para niños mayores de 6 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

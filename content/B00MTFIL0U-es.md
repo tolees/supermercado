@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tiene un sabor frutal suave con notas de naranja y chocolate
+- De color limpio y brillante
 - Con toques de cítricos
 - Escocés blended envejecido 12 años
 - Apto como regalo
-- De color limpio y brillante
-- Tiene un sabor frutal suave con notas de naranja y chocolate
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MTFIL0U{{</world>}}

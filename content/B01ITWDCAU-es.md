@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nescafé utiliza un proceso de desafinación natural solo con agua, que preserva el aroma y sabor del café, sin otros productos químicos
 - Café descafeinado de tueste intenso
+- Nescafé utiliza un proceso de desafinación natural solo con agua, que preserva el aroma y sabor del café, sin otros productos químicos
 - Perfil equilibrado y con ligero sabor a tostado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

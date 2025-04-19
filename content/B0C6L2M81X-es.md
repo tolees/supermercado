@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CALIDAD: Este producto no contiene productos lácteos, ni gluten, ni soja, ni OGM y es vegetariano. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta variada y equilibrada y un estilo de vida saludable
+- ENZYMEDICA: Desde 25 años, Enzymedica produce enzimas digestivas y complementos de salud que ayudan a su cuerpo a digerir mejor los alimentos y a mejorar su salud en general
 - POTENCIA: Contiene más de 10 mil millones de UFC que crean una barrera protectora, apoyando un microbioma saludable
 - BENEFICIOS: Gracias a sus 8 cepas probióticas diversas, este complemento alimenticio potencia la digestión saludable, la regularidad y la función inmunitaria
 - PRO-BIO: Este complemento alimenticio promueve un intestino sano y una digestión óptima. Estas cápsulas de administración específica protegen los probióticos y ayudan a reducir la hinchazón, los gases, la irregularidad y la indigestión
-- ENZYMEDICA: Desde 25 años, Enzymedica produce enzimas digestivas y complementos de salud que ayudan a su cuerpo a digerir mejor los alimentos y a mejorar su salud en general
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6L2M81X{{</world>}}

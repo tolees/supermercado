@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color: Negro
-- Cantidad: 8 ml
 - Material de calidad
 - Máscara para pestañas
+- Cantidad: 8 ml
+- Color: Negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001V9LB4I{{</world>}}

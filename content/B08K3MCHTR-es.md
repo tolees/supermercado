@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Peso del paquete: 8,16 kilogramos
+- Sin conservantes artificiales añadidos
 - Sin sabores artificiales añadidos
 - Completo alimento para gatos adultos
 - Ofrecer a tu gato una delicada sensación de refinamiento
-- Sin conservantes artificiales añadidos
 - Sin colorantes artificiales añadidos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espuma ultraduradera con cada gota
 - Suave con la piel; no es necesario utilizar guantes
+- Espuma ultraduradera con cada gota
 - Limpieza eficaz; elimina los restos de grasa por completo
 - Deja tus platos limpios y relucientes, mientras que protege la esponja contra el desarrollo de bacterias hasta 24 horas
 

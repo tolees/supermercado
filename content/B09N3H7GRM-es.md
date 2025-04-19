@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sometido a pruebas efectuadas por Informed Choice para descartar la existencia de substancias prohibidas, con el fin de brindar la certeza necesaria para los deportistas y ofrecer la calidad de producto más elevada
-- 44 g de aislado de proteínas de suero de leche por porción; cada porción contiene 5,6–5,8 g de aminoácidos ramificados, incluidos 2,6–2,7 g del importante aminoácido L-leucina, según el sabor
-- ISO100 HYDROLYZED es una combinación de aislado de proteínas hidrolizadas de suero y de aislado de proteínas de suero: la fórmula de DYMATIZE; mediante hidrólisis enzimática, se divide la proteína de suero de leche en cadenas de aminoácidos, por lo que se digiere con facilidad
 - Sin azúcares, ni grasas y menos de 116 kcal por porción (si se mezcla con agua); sin gluten; apto para vegetarianos
+- Sometido a pruebas efectuadas por Informed Choice para descartar la existencia de substancias prohibidas, con el fin de brindar la certeza necesaria para los deportistas y ofrecer la calidad de producto más elevada
+- ISO100 HYDROLYZED es una combinación de aislado de proteínas hidrolizadas de suero y de aislado de proteínas de suero: la fórmula de DYMATIZE; mediante hidrólisis enzimática, se divide la proteína de suero de leche en cadenas de aminoácidos, por lo que se digiere con facilidad
 - ISO100 HYDROLYZED es la opción óptima para tomar después, o incluso antes, de entrenamientos intensivos; sin azúcares ni grasas, con menos de 116 kcal por porción (si se mezcla con agua)
+- 44 g de aislado de proteínas de suero de leche por porción; cada porción contiene 5,6–5,8 g de aminoácidos ramificados, incluidos 2,6–2,7 g del importante aminoácido L-leucina, según el sabor
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09N3H7GRM{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Patatas fritas
-- Conservar en lugar fresco y seco
+- Un vez abierto consumir antes de 7 días
 - Crujilentes y con un gran sabor
 - Sin gluten
-- Un vez abierto consumir antes de 7 días
+- Patatas fritas
+- Conservar en lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B014WKCWYK{{</world>}}

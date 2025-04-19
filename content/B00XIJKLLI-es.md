@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con un sabor refrescante
 - Batido de leche con chocolate
 - Elaborado con verdaderos trocitos de cacao
 - Almacenar en lugar fresco y seco
-- Con un sabor refrescante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XIJKLLI{{</world>}}

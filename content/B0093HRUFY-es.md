@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aroma Jack Daniels Tennessee Whiskey Old No.7: dulce, intenso, de vainilla
-- Jack Daniels Tennessee Whiskey Old No.7 se somete a un filtrado gota a gota a través de tres metros de carbón de arce sacarino y se madura en barricas de roble ensambladas a mano
-- Sabor y final: intenso y especiado, con matices de naranja, azúcar moreno y especias, roble intenso y manzana seca
-- Whiskey Jack Daniels se somete a un filtrado gota a gota a través de tres metros de carbón de arce sacarino y se madura en barricas de roble ensambladas a mano
 - Gracias al proceso único de elaboración del whiskey hacen de Jack Daniels un Tennessee Whiskey suave en el paladar, muy distinto de un bourbon
+- Sabor y final: intenso y especiado, con matices de naranja, azúcar moreno y especias, roble intenso y manzana seca
+- Aroma Jack Daniels Tennessee Whiskey Old No.7: dulce, intenso, de vainilla
 - Sugerencia de preparación: Jack Daniels con cola, limonada Lynchburg. Servir: a temperatura ambiente
 - El éxito de Whiskey Jack Daniels se debe al método de elaboración exclusivo del famoso old no. 7 con los mejores ingredientes como maíz, centeno y malta de cebada, así como agua libre de hierro
+- Jack Daniels Tennessee Whiskey Old No.7 se somete a un filtrado gota a gota a través de tres metros de carbón de arce sacarino y se madura en barricas de roble ensambladas a mano
+- Whiskey Jack Daniels se somete a un filtrado gota a gota a través de tres metros de carbón de arce sacarino y se madura en barricas de roble ensambladas a mano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0093HRUFY{{</world>}}

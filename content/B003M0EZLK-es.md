@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavanda
 - Recambio Fresh Matic
+- Lavanda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B003M0EZLK{{</world>}}

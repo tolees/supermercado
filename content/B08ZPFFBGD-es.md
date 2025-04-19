@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Su fórmula contiene protección solar SPF 16
-- Fórmula resistente al agua y fácil de aplicar
-- Complementa tu piel con matices neutros para un bronceado óptimo sin sol
 - Hasta 10 horas de duración
+- Complementa tu piel con matices neutros para un bronceado óptimo sin sol
+- Fórmula resistente al agua y fácil de aplicar
 - Es un bronceador de piel de aspecto natural que le da a tu rostro un brillo bañado por el sol
 
 [🛒 Aquí!!!]({{< param buyurl >}})

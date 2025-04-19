@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pintalabios líquido efecto vinilo de larga duración, ultra cómodo y sin manchas, dura 16 horas*. *Prueba de consumo con 109 voluntarios.
 - Pintalabios líquido efecto vinilo.
+- Pintalabios líquido efecto vinilo de larga duración, ultra cómodo y sin manchas, dura 16 horas*. *Prueba de consumo con 109 voluntarios.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CK8M7CCL{{</world>}}

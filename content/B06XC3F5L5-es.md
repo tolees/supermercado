@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin necesidad de añadir aceite
+- Para añadir a 1 pollo u 8 muslitos
 - Contiene bolsa y condimentos
 - Puede contener gluten, huevos, leche, soja, apio y pescado
-- Para añadir a 1 pollo u 8 muslitos
+- Sin necesidad de añadir aceite
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XC3F5L5{{</world>}}

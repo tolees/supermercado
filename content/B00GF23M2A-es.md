@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bioderma
 - ATODERM gel de ducha 100 ml
+- Bioderma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00GF23M2A{{</world>}}

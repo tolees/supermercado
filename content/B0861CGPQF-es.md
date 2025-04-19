@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mezclado con un licor elaborado con manzanas reales
-- Una bebida elaborada naturalmente suave con un final refrescante
 - Se disfruta optimo como un refrescante trago largo, con una tónica y una rodaja de manzana y limón bien frío, o simplemente con hielo
+- Una bebida elaborada naturalmente suave con un final refrescante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0861CGPQF{{</world>}}

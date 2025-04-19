@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: Don Algodon
 - Familias Olfativas: Especiada, Aromática
+- Marca: Don Algodon
 - Fecha Lanzamiento: 1993
 
 [🛒 Aquí!!!]({{< param buyurl >}})

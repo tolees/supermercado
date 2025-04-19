@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Conservar en lugar fresco y seco
 - Pais origen: España
 - Alergenos: cacahuetes, frutos de cáscara, leche, soja, trigo
 - Snack elaborado con aceite de girasol
-- Conservar en lugar fresco y seco
 - Cocktail de frutos secos y productos de aperitivo con sabor a barbacoa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

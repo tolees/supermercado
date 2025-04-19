@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ideal en cualquier momento como snack
+- Sin azúcares añadidos
 - Sin aceite de palma
 - Solo 67 kcal por barrita
-- Sin azúcares añadidos
 - Barritas de chocolate con 32% de cereal de grano completo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

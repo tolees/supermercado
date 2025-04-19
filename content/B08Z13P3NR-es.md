@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cata: Las notas de melocotón y frutas de verano hacen de esta ginebra una experiencia dulce y afrutada para tu paladar.
-- Maison Villevert, creadora de productos premium como G’Vine Gin, La Quintinye Vermouth Royal o Nouaison Gin, entre otros, presenta esta nueva referencia suave y delicada sin aditivos, ni colorantes y sin gluten.
 - La Ginebra June Melocotón by GVine es un Gin con Aroma a Melocotón y Frutas de Verano ideal para la elaboración de cócteles.
 - La Ginebra June es destilada, infusionada y creada en los viñedos de Cognac, Francia. Saborea una nueva experiencia fresca y suave con June Melocotón.
+- Cata: Las notas de melocotón y frutas de verano hacen de esta ginebra una experiencia dulce y afrutada para tu paladar.
 - Perfect Serve: Llenar un vaso largo con hielo, verter 6 cl de June y añadir tónica premium. Decorar con uvas rojas y perfumar con un spray June.
+- Maison Villevert, creadora de productos premium como G’Vine Gin, La Quintinye Vermouth Royal o Nouaison Gin, entre otros, presenta esta nueva referencia suave y delicada sin aditivos, ni colorantes y sin gluten.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Z13P3NR{{</world>}}

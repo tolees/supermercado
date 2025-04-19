@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El perro debe ser supervisado en todo momento mientras se alimenta
-- 13 cm
 - Snack de filete de pollo enrollado en un canuto, entretiene a nuestro perro a la vez que cuida de sus dientes y encías
 - La siguiente información se aplica a cada unidad del paquete
 - Utilizar como un regalo o recompensa en cualquier momento o bien como parte de una dieta equilibrada
+- El perro debe ser supervisado en todo momento mientras se alimenta
+- 13 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CN2RL67R{{</world>}}

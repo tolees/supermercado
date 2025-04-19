@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Te facilita la obtencion más rendimiento deportivo
 - De la marca Sotya
-- No contiene ingredientes de origen animal
 - No contiene lactosa
 - En proteína de soja aislada garantizado IP (identidad preservada)
+- Te facilita la obtencion más rendimiento deportivo
+- No contiene ingredientes de origen animal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DN9K11I{{</world>}}

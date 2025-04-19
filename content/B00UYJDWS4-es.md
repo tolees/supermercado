@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sensación de comodidad, nada pegajoso
-- Duración de hasta 6H
-- Acabado preciso con efecto 3D
 - Labios más brillantes y luminosos
+- Duración de hasta 6H
+- Sensación de comodidad, nada pegajoso
+- Acabado preciso con efecto 3D
 - Enriquecido con aceite de argán y vitamina E para un look revitalizante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

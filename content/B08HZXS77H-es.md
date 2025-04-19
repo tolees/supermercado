@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Probado oftalmológicamente y adecuado para usuarios de lentes de contacto
 - La máscara de pestañas Divine Lashes de Max Factor proporciona un volumen divinamente suave, capa tras capa con una fórmula batida cremosa y un cepillo suave que crea una aplicación sin grumos
-- Enriquecida con pantenol amante de las pestañas, la fórmula rica es a prueba de manchas y sin escamas
 - Cepillo de fibra suave para una aplicación suave y delicada
+- Enriquecida con pantenol amante de las pestañas, la fórmula rica es a prueba de manchas y sin escamas
+- Probado oftalmológicamente y adecuado para usuarios de lentes de contacto
 - La máscara proporciona un volumen divinamente suave, capa tras capa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

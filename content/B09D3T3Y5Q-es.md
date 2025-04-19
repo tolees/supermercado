@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene hasta 35 whiskies diferentes seleccionados de las mejores destilerías de Escocia
 - Edicion limitada 200 años
+- Contiene hasta 35 whiskies diferentes seleccionados de las mejores destilerías de Escocia
 - Disfrútelo en vaso alto con hielo y ginger ale
 - Chispeante y especiado, con una explosión de sabores vibrantes y ahumados
 - Versátil y con un atractivo universal, tiene un sabor acentuado y lleno de carácter

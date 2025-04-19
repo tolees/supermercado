@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este Café de Colombia con denominación de origen se cultiva a 2000 metros de altitud, el clima optima para la cosecha del cafeto
-- Para uso en cafetera italiana y otras máquinas de café
 - Conservar en un lugar limpio fresco y seco
-- Intensidad 8/12. Un café suave de cuerpo medio y aromático 100% arábica. De tueste equilibrado que conserva un sabor persistente en el paladar con sutiles notas cítricas
-- Contiene 8 paquetes de 250g
 - Bonka fomenta las buenas prácticas en el cultivo del café promoviendo una agricultura responsable y sostenible. Nuestra gama Premium está certificada con el sello Rainforest Alliance, un organismo que avala la conservación de los ecosistemas y de la calidad de vida de los productores y de su comunidad
+- Para uso en cafetera italiana y otras máquinas de café
+- Contiene 8 paquetes de 250g
+- Este Café de Colombia con denominación de origen se cultiva a 2000 metros de altitud, el clima optima para la cosecha del cafeto
+- Intensidad 8/12. Un café suave de cuerpo medio y aromático 100% arábica. De tueste equilibrado que conserva un sabor persistente en el paladar con sutiles notas cítricas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B079ZYJXZ2{{</world>}}

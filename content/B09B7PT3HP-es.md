@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aussie SOS Save My Lengths! aceite para pelo 3 en 1 con aceites de aguacate y nuez de macadamia australianos
 - Desenreda, desencrespa y arregla las puntas abiertas. El aceite es bueno
-- Para el pelo dañado que necesita una reparación urgente
 - PETA reconoce a Aussie como libre de maltrato animal
+- Aussie SOS Save My Lengths! aceite para pelo 3 en 1 con aceites de aguacate y nuez de macadamia australianos
+- Para el pelo dañado que necesita una reparación urgente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09B7PT3HP{{</world>}}

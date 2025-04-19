@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El Sérum facial diario Mejora visiblemente la elasticidad de la piel y la reafirma notablemente
 - Penetra profundamente en la superficie de la piel
-- Formulado con vitamina B3 y aminopéptidos, dos potentes ingredientes para el cuidado de la piel
 - Crema facial diaria que renueva visiblemente la luminosidad de la piel
 - textura sedosa y suave para pieles de secas a mixtas
+- Formulado con vitamina B3 y aminopéptidos, dos potentes ingredientes para el cuidado de la piel
 - Formulado con vitamina B3 y aminopéptidos, dos potentes ingredientes para el cuidado de la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

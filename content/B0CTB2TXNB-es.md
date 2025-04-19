@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - [COSECHA TEMPRANA]: Extraido de las olivas mas frescas.
 - [ORIGEN ESPAÑOL]: Las aceitunas son cultivadas en los olivares familiares de Valverde Bolívar, ubicados en los Montes Orientales de Granada
-- [VARIEDAD PICUAL]: este varietal le da al aceite cuerpo y un distintivo sabor
 - [SABOR FRUTADO]: Su sabor frutado ofrece la sensacion de frescura y a su vez le da un equilibrio a la mezcla.
+- [VARIEDAD PICUAL]: este varietal le da al aceite cuerpo y un distintivo sabor
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CTB2TXNB{{</world>}}

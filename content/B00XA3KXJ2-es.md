@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una buena opción para elaborar comidas o cenas sencillas
 - Adecuado para toda la familia
+- Una buena opción para elaborar comidas o cenas sencillas
 - Atún claro en aceite de girasol
-- Se debe conservar en un lugar fresco y seco
 - Una forma diferente de disfrutar el atún y su característico sabor
+- Se debe conservar en un lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XA3KXJ2{{</world>}}
