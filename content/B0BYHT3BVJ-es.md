@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Recibe el nombre de Nordés por el viento mítico que presagia la llegada del buen tiempo en Galicia, Nordés Vermouth Blanco conmemora esta tierra de la costa atlántica, conocida desde hace mucho tiempo por su rica gastronomía
+- Cómo tomar Nordes Vermut blanco: Disfrútalo en un vaso bajo con dos cubitos de hielo grandes y una brocheta de uva blanca
 - Un sabor único y diferente gracias a su carácter a base de vino; una cuidada selección de uvas y botánicos, como salvia, el laurel o el hinojo, consagrados en el folclore local, vienen juntos para crear un vermut verdaderamente singular, refrescante, suave y aromático
 - A la vista: Atractivo color amarillo pálido y reflejos verdosos; a la nariz: óptimas notas herbáceas y saladas; a la boca: Un delicado sabor amargo y picante, para terminar con un final suave y elegante
-- Cómo tomar Nordes Vermut blanco: Disfrútalo en un vaso bajo con dos cubitos de hielo grandes y una brocheta de uva blanca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BYHT3BVJ{{</world>}}

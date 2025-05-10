@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Sin aceite de palma
 - De textura crujiente
-- Ideal como snack
 - No contiene conservantes ni colorantes artificiales
 - Snack de patata con forma de osito
+- Ideal como snack
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BD8TM2GG{{</world>}}
