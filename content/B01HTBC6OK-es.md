@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Respetamos el medioambiente y el bienestar de las vacas
-- Para que cuides de ti y de tu entorno
 - Comprometidos con la leche ecológica desde 15 años
+- Respetamos el medioambiente y el bienestar de las vacas
 - Leche originaria de ecogranjas certificadas que garantizan su procedencia ecológica
+- Para que cuides de ti y de tu entorno
 - Con todas las propiedades nutricionales de la leche y el mejor sabor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

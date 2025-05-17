@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Caramelo de goma de sabores frutales: piña, limón, naranja, manzana y fresa. Su cómodo envoltorio individual lo hace ideal para disfrutar en cualquier momento y lugar.
-- Formato: bolsa de 1 kg.
 - Producto sin gluten apto para celíacos. Libre de: frutos secos, soja y derivados. Puede contener trazas de leche.
+- Formato: bolsa de 1 kg.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01GHGWDY6{{</world>}}
