@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Una vez abierto conservar en el frigorifico
 - Especialidad: Bajo en grasas; ingredientes: Leche UHT Semidesnatada de vaca; lACTOSA; información de alérgenos: milk; instrucciones para su uso adecuado: Puede ingerirse directamente; no requiere de preparación previa
-- Contiene Leche o derivados de la leche (lactosa)
 - Peso neto de 1 L
+- Contiene Leche o derivados de la leche (lactosa)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00N2FVB6M{{</world>}}

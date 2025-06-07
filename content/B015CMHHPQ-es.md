@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cobertura media para un acabado natural
-- Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior para mezclarla con el tono de tu piel
 - Hidrata y oculta las imperciones, poros y ojeras
+- Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior para mezclarla con el tono de tu piel
 - Indicado para piel seca o mixta
 - Piel perfecta, cobertura media
 

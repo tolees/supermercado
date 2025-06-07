@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bourjois Contour Clubbing  Delineador de Ojos.Tono 41 Black Party  1.2 gr'
-date: 2025-06-04 15:43:27
+date: 2025-06-07 10:15:20
 image: 'https://m.media-amazon.com/images/I/31R5jYQ0AFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bourjois'
 buyurl: 'https://www.amazon.es/dp/B001PR0X0Y/?tag=tolees-21'
 descuento: '0.00'
-average: '5.83355555555555'
+average: '5.92304347826086'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Disponible en 3 acabados: semi mate, brillante y metalizado
-- Fórmula resistene al agua a prueba de roces
 - Puede utilizarse como liner o sombra de ojos
-- Lápiz de ojos resistente al agua de color vibrante
 - Textura ultra suave enriquecida con vitamina E y con aceite de joboba
+- Lápiz de ojos resistente al agua de color vibrante
+- Fórmula resistene al agua a prueba de roces
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001PR0X0Y{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los pañuelos Scottex están fabricados con papel certificado FSC (procedente de fuentes gestionadas de forma responsable)
 - Dermatológicamente probado
+- Los pañuelos Scottex están fabricados con papel certificado FSC (procedente de fuentes gestionadas de forma responsable)
 - Diseñado para ayudar a proteger la nariz de enrojecimiento en los periodos más congestionados como los resfriados y gripe
 - Calmante y emoliente
 

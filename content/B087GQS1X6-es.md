@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una bonita idea para regalar: sorprenda a sus seres queridos con este set de cuatro copas para vino blanco, todos sus invitados quedarán encantados
-- Vaso de cristal de buena calidad: limpiar los vasos de cristal a mano, no se recomienda el lavavajillas
 - Volumen de suministro: 1 set de copas para vino tinto manufacture rock de Villeroy & Boch, 4 piezas, 380 ml, peso: 700 g (número de artículo 11-3798-8110)
+- Vaso de cristal de buena calidad: limpiar los vasos de cristal a mano, no se recomienda el lavavajillas
+- Una bonita idea para regalar: sorprenda a sus seres queridos con este set de cuatro copas para vino blanco, todos sus invitados quedarán encantados
 - Para los expertos en vino: disfrute de un buen vino tinto a última hora de la tarde, servido con estilo en estas copas de cristal de diseño sofisticado
 - Para su mesa: refresque su mesa con estas copas negras para vino y disfrute de su excepcional diseño
 

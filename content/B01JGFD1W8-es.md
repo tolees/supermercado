@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Delineador de ojos con punta de fieltro ultrafina
-- Punta flexible que facilita la aplicación
 - Fácil de desmaquillar
 - Delineado preciso, intenso y duradero
+- Punta flexible que facilita la aplicación
+- Delineador de ojos con punta de fieltro ultrafina
 - Liner de punta de fieltro ultrafina para una mayor precisioón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

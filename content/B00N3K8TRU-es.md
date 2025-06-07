@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sabor suave y refrescante en el paladar. Larios Dry Gin es una ginebra con cuerpo que presenta un equilibrio de los elementos botánicos con un toque de dulzura
-- Elaborada a partir de un proceso de dos destilaciones de enebro salvaje y una selección de ingredientes naturales
-- Posee los aromas propios de la ginebra: bayas de enebro salvaje que se unen a los cítricos más refrescantes: limón y naranja del Mediterráneo
 - Para disfrutar de su refrescante sabor se recomienda tomarla en una copa con abundante hielo acompañada de tónica
+- Posee los aromas propios de la ginebra: bayas de enebro salvaje que se unen a los cítricos más refrescantes: limón y naranja del Mediterráneo
 - Ginebra de aspecto cristalino y brillante
+- Elaborada a partir de un proceso de dos destilaciones de enebro salvaje y una selección de ingredientes naturales
+- Sabor suave y refrescante en el paladar. Larios Dry Gin es una ginebra con cuerpo que presenta un equilibrio de los elementos botánicos con un toque de dulzura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00N3K8TRU{{</world>}}

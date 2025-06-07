@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es un producto de Garnier
 - Tipo de producto: toallitas autobronceadores
+- Es un producto de Garnier
 - Fácil de aplicar, no deja rayas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

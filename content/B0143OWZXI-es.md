@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Es una bebida elaborada según una receta tradicional
 - Ideal para cócteles
 - Se puede servir con hielo
+- Es una bebida elaborada según una receta tradicional
 - Es de color transparente y brillante
 - Con notas de plantas botánicas
 

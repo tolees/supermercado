@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Crema de día
+- Combate las arrugas
 - Efecto hidratante y nutritivo
 - Para pieles maduras
-- Combate las arrugas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01H5VOAOI{{</world>}}

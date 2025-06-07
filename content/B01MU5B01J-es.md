@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contiene sal que protege el filtro del lavavajillas y ayuda a proteger la plata y el cristal
-- Gracias a su fácil disolución, ofrece resultados óptimos incluso en ciclos cortos
 - Protege contra la corrosión del cristal
 - Mantiene el brillo de la vajilla lavado tras lavado
+- Gracias a su fácil disolución, ofrece resultados óptimos incluso en ciclos cortos
 - Finish Gel para el lavavajillas con su rápida disolución aporta la limpieza y el brillo que necesitas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

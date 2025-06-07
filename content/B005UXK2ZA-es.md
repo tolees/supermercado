@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La flor de azahar es la gran protagonista
-- Nacida en Málaga
 - Aroma floral y elegante
+- La flor de azahar es la gran protagonista
 - Ginebra Premium mediterránea de fascinante calidad
 - Combinación exótica de 12 botánicos naturales
+- Nacida en Málaga
 - Sabor agradable, amargo, picante y refrescante
 
 [🛒 Visítala!!!]({{< param buyurl >}})

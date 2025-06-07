@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Fotoprotector facial de fase acuosa para niños, hidratación intensa y absorción inmediata; apto para piel atópica
 - ALTA PROTECCIÓN UV: Evaluada clínicamente en laboratorio y en condiciones reales de alta radiación solar
-- TOLERANCIA ÓPTIMA: Textura ligera que no deja residuo; para todo tipo de pieles
-- NO IRRITA EN LOS OJOS: Evaluado bajo control oftalmológico
 - WET SKIN: Puede aplicarse sobre la piel húmeda; Fórmula con la mayoría de ingredientes biodegradables y, o inorgánicos
+- NO IRRITA EN LOS OJOS: Evaluado bajo control oftalmológico
+- TOLERANCIA ÓPTIMA: Textura ligera que no deja residuo; para todo tipo de pieles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06Y6BKQHR{{</world>}}

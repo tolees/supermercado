@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto elaborado con aceite de girasol alto oleico
-- Adecuado para desayunos ligeros
 - Conservar en lugar fresco y seco
 - Apto para diabéticos o personas que quieran reducir la ingesta de azúcar
+- Adecuado para desayunos ligeros
+- Producto elaborado con aceite de girasol alto oleico
 - Producto con alto contenido en fibra
 
 [🛒 Comprar!!!]({{< param buyurl >}})

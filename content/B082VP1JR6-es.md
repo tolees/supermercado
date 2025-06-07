@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La fórmula con ácido salicílico combate las espinillas y garantiza una piel más limpia y saludable.
-- Este limpiador para el rostro de Neutrogena promueve la eliminación y prevención de impurezas y espinillas incluso en poros muy profundos, para una agradable sensación en la piel.
-- Este limpiador se ha desarrollado con dermatólogos. Dermatológicamente probado.
-- Incluye: 2 limpiadores Visibly Clear de 200 ml de Neutrogena. Especialmente adecuados para pieles con espinillas.
 - Este limpiador para el rostro penetra en los poros y elimina de forma eficaz la suciedad y los residuos que acaban obstruyendo los poros.
+- Incluye: 2 limpiadores Visibly Clear de 200 ml de Neutrogena. Especialmente adecuados para pieles con espinillas.
+- La fórmula con ácido salicílico combate las espinillas y garantiza una piel más limpia y saludable.
+- Este limpiador se ha desarrollado con dermatólogos. Dermatológicamente probado.
+- Este limpiador para el rostro de Neutrogena promueve la eliminación y prevención de impurezas y espinillas incluso en poros muy profundos, para una agradable sensación en la piel.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082VP1JR6{{</world>}}

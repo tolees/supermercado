@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tiene un perfume marino
 - Con una espuma activa
 - Con un olor fresco
 - Limpia el inodoro
-- Tiene un perfume marino
 - Fácil de usar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

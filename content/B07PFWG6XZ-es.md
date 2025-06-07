@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cerveza de estilo Barley Wine. Alc. 10,4% vol.
 - Notas a caramelo, café y manzana
+- Cuádruple malta, balanceada
 - Primera cerveza española diseñada para acompañar cualquier plato, especialmente los postres
 - Color y aroma a chocolate
-- Cuádruple malta, balanceada
 - Caja de 12 botellas de 33cl
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
