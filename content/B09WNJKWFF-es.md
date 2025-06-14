@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Especialmente formulado para proteger la delicada piel de los niños frente a los rayos UVA, UVB, previniendo de las quemaduras solares y los daños a largo plazo en la piel.
-- Muy Alta Protección SPF50. Muy Resistente al Agua y Anti Arena.
 - Garnier Delial Spray Protector Eco-Diseñado para Niños de Nemo
+- Muy Alta Protección SPF50. Muy Resistente al Agua y Anti Arena.
 - Enriquecido con Aloe Vera- 150ML. Fórmula con base 90% biodegradable, mas respetuosa con la vida marina. Envase hecho con plástico reciclado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

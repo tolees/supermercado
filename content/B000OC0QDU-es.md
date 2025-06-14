@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color seductor e irrestible hasta 24 horas
-- Para el cabello: Normal
 - Usa el bálsamo top-coat durante el día para mantener los labios hidratados y brillantes
+- Color seductor e irrestible hasta 24 horas
 - Aplicador en forma de curva para adaptarse a la forma del labio
-- Labial permante de larga duración en dos pasos
 - 2 Pasos: una bálsamo con color inalterable y top-coat para dar brillo a los labios
+- Labial permante de larga duración en dos pasos
+- Para el cabello: Normal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000OC0QDU{{</world>}}

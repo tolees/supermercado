@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [Triple acción] Con cáscara sagrada y sen, que contribuyen al mantenimiento de un tránsito intestinal normal. Con hinojo, que ayuda en las flatulencias. Con 200:1 de gel interno de aloe vera (sin aloína) y vitamina A, que contribuyen al mantenimiento de las mucosas en condiciones normales
-- [LaxAloe Protect] Complemento alimenticio triple acción a base de cáscara sagrada, sen, hinojo, aloe y vitamina A, que contribuyen a mantener la regularidad intestinal. Es vegano, y no contiene gluten, lactosa, frutos de cáscara, soja, ni huevo
 - [Regulador intestinal natural para hombres y mujeres] Adecuado para desequilibrios provocados por viajes, nervios, cambios de hábitos y de dieta que pueden afectar a la regularidad intestinal
-- [Recomendaciones] No superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta variada y equilibrada. Mantener fuera del alcance de los niños más pequeños
+- [Triple acción] Con cáscara sagrada y sen, que contribuyen al mantenimiento de un tránsito intestinal normal. Con hinojo, que ayuda en las flatulencias. Con 200:1 de gel interno de aloe vera (sin aloína) y vitamina A, que contribuyen al mantenimiento de las mucosas en condiciones normales
 - [Modo de empleo] Tomar de 1 a 2 cápsulas al día, preferiblemente juntas antes de acostarse
+- [Recomendaciones] No superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta variada y equilibrada. Mantener fuera del alcance de los niños más pequeños
+- [LaxAloe Protect] Complemento alimenticio triple acción a base de cáscara sagrada, sen, hinojo, aloe y vitamina A, que contribuyen a mantener la regularidad intestinal. Es vegano, y no contiene gluten, lactosa, frutos de cáscara, soja, ni huevo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B095XCLN6N{{</world>}}

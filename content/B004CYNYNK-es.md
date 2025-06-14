@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal como regalo
-- Se puede beber seco pero también en combinación con cócteles
 - Esto whisky es filtrado dos veces
+- Ideal como regalo
 - Presenta aromas delicados de vainilla dulce y azúcar moreno con notas sirope de arce y cítricos
 - Doblemente suavizado
+- Se puede beber seco pero también en combinación con cócteles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004CYNYNK{{</world>}}

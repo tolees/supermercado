@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tiene un perfume marino
-- Limpia el inodoro
 - Fácil de usar
 - Con una espuma activa
+- Limpia el inodoro
 - Con un olor fresco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fomenta la salud y la vitalidad y realza los espléndidos colores
-- Mezcla de escamas óptimamente equilibrada para una alimentación variada
 - Con la fórmula Clean & Clear Water: mejora la conversión de alimentos y reduce la excreción de los peces para obtener un agua de acuario limpia y clara
+- Mezcla de escamas óptimamente equilibrada para una alimentación variada
+- Fomenta la salud y la vitalidad y realza los espléndidos colores
 - Contiene todos los nutrientes y constituyentes importantes así como elementos traza
 - Para una larga vida de los peces con salud
 

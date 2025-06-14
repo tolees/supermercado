@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bebida refrescante con gas
+- Conservar en un lugar fresco y seco
+- Ideal con hielo
 - Tiene sabor a imón
 - Con 0 azúcar
-- Bebida refrescante con gas
-- Ideal con hielo
-- Conservar en un lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09SVB5C12{{</world>}}

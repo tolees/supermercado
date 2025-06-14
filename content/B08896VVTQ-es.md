@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 3 botellas de 330 ml de La Sagra Bohemia Lager, una lager desarrollada por nuestro maestro cervecero en Republica Checa
-- 3 botellas de 330 ml de Miller Genuine Draft, una lager con cuatro destilaciones en frío. El sabor de la cerveza de barril en botella 3 botellas de 330 ml de Staropramen Premium, una lager checa de estilo Pilsener. La cerveza de Praga
 - Contenido de alcohol: Coors 4%; Staropramen Premium 5%; La Sagra Bohemia Lager 5.2%; Miller Genuine Draft 4.7 % Pack 12 botellas de cerveza Lager 3 botellas de 330 ml de Coors, una de las lagers más vendida en el mundo
+- 3 botellas de 330 ml de Miller Genuine Draft, una lager con cuatro destilaciones en frío. El sabor de la cerveza de barril en botella 3 botellas de 330 ml de Staropramen Premium, una lager checa de estilo Pilsener. La cerveza de Praga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08896VVTQ{{</world>}}

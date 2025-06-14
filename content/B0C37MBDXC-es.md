@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Se recomienda servir frio
 - Bebida refrescante con sabor a cola
 - No contiene azúcar
-- Se recomienda servir frio
 - Es una bebida dulce
 - Para disfrutar en cualquier momento del día, lugar y ocasión
 

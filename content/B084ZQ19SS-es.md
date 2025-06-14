@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MASCULINO Y AROMÁTICO: un perfume que nace de una explosión cítrica y floral que despierta los sentidos y da a esta fragancia un carácter único propio de una gran ciudad
-- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, flor de naranjo y mandarina; Notas de corazón: jazmín, lavanda, rosa y violeta; Notas de fondo: almizcle, madera de cedro, pachulí y sándalo
-- LARGA DURACIÓN: una fragancia cuya esencia persiste en la piel, una colonia de larga duración para que te acompañe en tu día a día
-- FRAGANCIA ÚNICA: una colonia que representa a la perfección el espíritu de Nueva York, la ciudad global, con su intensidad y fuerza. Un aroma único que despertará todos tus sentidos . Frasco con vaporizador.
 - TENDENCIA OLFATIVA: Este perfume masculino tiene una tendencia aromática fresca, que rinde homenaje a los hombres nobles y con fuerza ¡Déjate emocionar!
+- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, flor de naranjo y mandarina; Notas de corazón: jazmín, lavanda, rosa y violeta; Notas de fondo: almizcle, madera de cedro, pachulí y sándalo
+- MASCULINO Y AROMÁTICO: un perfume que nace de una explosión cítrica y floral que despierta los sentidos y da a esta fragancia un carácter único propio de una gran ciudad
+- FRAGANCIA ÚNICA: una colonia que representa a la perfección el espíritu de Nueva York, la ciudad global, con su intensidad y fuerza. Un aroma único que despertará todos tus sentidos . Frasco con vaporizador.
+- LARGA DURACIÓN: una fragancia cuya esencia persiste en la piel, una colonia de larga duración para que te acompañe en tu día a día
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084ZQ19SS{{</world>}}

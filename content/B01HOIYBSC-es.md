@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para consumirla sola o mezclada con alcohol con mucho hielo y una rodaja de limón
-- Sabor amargo, muy refrescante y con la genuina burbuja Schweppes
 - Bebida refrescante con cero azúcares y cero calorías
-- La tónica Schweppes está elaborada según la receta original
 - Tónica Schweppes, disfruta su sabor único y refrescante en cualquier momento del día
+- Sabor amargo, muy refrescante y con la genuina burbuja Schweppes
+- La tónica Schweppes está elaborada según la receta original
+- Ideal para consumirla sola o mezclada con alcohol con mucho hielo y una rodaja de limón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HOIYBSC{{</world>}}

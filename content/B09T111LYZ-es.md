@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contiene nutrientes esenciales y es fuente de calcio y vitaminas B2, B12 y D2
-- No contiene gluten ni lactosa, por lo que es apto para personas celíacas e intolerantes al lácteo
 - Sin azúcares, ni colorantes ni conservantes, y baja en grasas saturadas
+- No contiene gluten ni lactosa, por lo que es apto para personas celíacas e intolerantes al lácteo
 - Es 100% natural y vegetal, para contribuir a un planeta sostenible
 - Bebida de almendras sin azúcar con calcio y vitaminas añadidas
 

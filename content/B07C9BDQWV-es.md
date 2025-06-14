@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una máscara waterproof diseñada para llevar tus pestañas hasta el paraíso
 - Apto incluso para los ojos más sensibles
-- Ofrece un volumen instantáneo con una aplicación ligera y suave
 - Aplica el pre base y posteriormente la máscara de pestañas Paradise
+- Ofrece un volumen instantáneo con una aplicación ligera y suave
+- Una máscara waterproof diseñada para llevar tus pestañas hasta el paraíso
 - Su fórmula con aceite de ricino, y su cepillo con fibras rectas y onduladas permite conseguir una mirada de alto impacto de una sola pasada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

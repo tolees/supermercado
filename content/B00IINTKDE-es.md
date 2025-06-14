@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acerca de este producto
 - Tipo de Piel: Todo Tipo de Pieles
+- Acerca de este producto
 - Protección SPF: Alta SPF 30 - SPF 50 +
 - Texturas: Leche
 
