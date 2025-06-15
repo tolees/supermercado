@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantener en lugar fresco y seco
-- Facil de usar
 - Contiene gluten o presencia de cereales que contienen gluten
 - Origen: españa
+- Mantener en lugar fresco y seco
+- Facil de usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XA2E9FM{{</world>}}

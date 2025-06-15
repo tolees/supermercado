@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Enriquecido con antioxidantes y vitamina E
-- Color fabuloso al instante
-- Hidratación y brillo en una pasada
 - Una mezcla con un 60% de emolientes, agentes acondicionadores, antioxidantes y vitamina E
+- Hidratación y brillo en una pasada
+- Color fabuloso al instante
 - Hidrata activamente para unos labios más suaves y con volumen (comparado con labios sin maquillar)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

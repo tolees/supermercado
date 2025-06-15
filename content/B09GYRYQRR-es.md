@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - SISTEMA LATTECREMA: Sistema patentado de espumado de leche para obtener una espuma cremosa para crear un buen capuchino; limpieza automática a través del dial de control
-- FÁCIL DE USAR: Gran pantalla TFT en color; selecciona cualquier especialidad de café con sólo pulsar un botón
 - FÁCIL LIMPIEZA: El grupo infusor es compacto y requiere poco mantenimiento y puede extraerse completamente de la cafetera, lo que facilita la limpieza del interior de la máquina
+- FÁCIL DE USAR: Gran pantalla TFT en color; selecciona cualquier especialidad de café con sólo pulsar un botón
 - FUNCIÓN ESPECIAL: Si tienes invitados, no tienes que recurrir al café de filtro; la función de cafetera garantiza la preparación de hasta 6 tazas de café con sólo pulsar un botón
 - MOLINILLO DE ALTA CALIDAD: El molinillo cónico de 13 etapas se puede ajustar individualmente; caben 300 g de café en grano en el depósito; la máquina automática también es adecuada para el uso de café molido
 

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Es dorada y brillante, con burbujas finas y abundantes. Suave, con densas notas de cereales tostados y eminentemente fresca.
+- Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
 - Las Märzenbiers o cervezas de marzo se elaboraban de esta manera para poder soportar las altas temperaturas del verano y llegar a la Oktoberfest con un sabor excepcional.
 - Se diferencia del resto de cervezas por su exclusivo método de elaboración con doble cantidad de malta que le da un mayor cuerpo y sabor.
-- Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
 - NOTA: El embalaje puede variar!
-- Es dorada y brillante, con burbujas finas y abundantes. Suave, con densas notas de cereales tostados y eminentemente fresca.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01AGF8NT8{{</world>}}

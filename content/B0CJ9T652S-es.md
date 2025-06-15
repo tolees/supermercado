@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este pack contiene 6 botellas de 1,5 litros cada una, por lo que es adecuado para compartir con amigos o familiares o para refrescarte después de una actividad física
-- Aquarius presenta su Bebida Refrescante Zero Azúcar Sabor Naranja, una opción para mantenerse hidratado y refrescado en cualquier momento del día
-- Aquarius Zero Azúcar Naranja es una bebida refrescante y sin azúcar, rica en vitaminas y minerales, que ayuda a mantener una hidratación eficaz
 - Esta bebida sin azúcar está enriquecida con vitaminas y minerales esenciales como vitamina C, magnesio, zinc y selenio, que contribuyen al funcionamiento normal del organismo
+- Aquarius presenta su Bebida Refrescante Zero Azúcar Sabor Naranja, una opción para mantenerse hidratado y refrescado en cualquier momento del día
+- Este pack contiene 6 botellas de 1,5 litros cada una, por lo que es adecuado para compartir con amigos o familiares o para refrescarte después de una actividad física
+- Aquarius Zero Azúcar Naranja es una bebida refrescante y sin azúcar, rica en vitaminas y minerales, que ayuda a mantener una hidratación eficaz
 - Aquarius Zero Azúcar Naranja son su capacidad de proporcionar hidratación efectiva gracias a su contenido de agua y electrolitos, y ser una fuente de fenilalanina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

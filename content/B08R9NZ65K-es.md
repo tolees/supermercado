@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fórmula sin aluminio
-- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
-- ¡Prueba toda la nueva gama Axe!
 - Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
 - Con Tecnología Dual Action: Elimina el mal olor, fragancias irresistibles.
+- ¡Prueba toda la nueva gama Axe!
+- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
 - Fragancia Dark Temptation con aroma a chocolate negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

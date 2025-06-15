@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Doble V es un whisky blended español que mezcla los whiskies de grano y malta
 - Doble V te invita a vivir la vida al doble
-- Radiante y luminoso, con notas de vainilla, roble tostado, manzana caramelizada y un ligero ahumado
 - Con un sabor suave y lleno de carácter, es óptimo para ser combinado con lo que quieras
+- Radiante y luminoso, con notas de vainilla, roble tostado, manzana caramelizada y un ligero ahumado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08K3XB4QN{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Comprometidos con el abastecimiento ético de café al 100 % en colaboración con Conservation International
-- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
-- Café de grano entero de STARBUCKS con intensas notas a caramelo
 - Intenso y con un toque de caramelo, este café es el que más empleamos para nuestro latte
 - Los cafés de tostado intenso de STARBUCKS tienen más intensidad y carácter
+- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
+- Café de grano entero de STARBUCKS con intensas notas a caramelo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08SXFT17F{{</world>}}

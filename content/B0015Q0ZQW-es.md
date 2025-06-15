@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Vitaminas E y C, antioxidantes para reforzar el sistema inmunitario; L-Carnitina para controlar el peso
 - Prebióticos FOS y pulpa de remolacha para favorecer una digestión sana; Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos
 - Pollo fresco y rico en proteínas para una musculatura fuerte y magra
-- Vitaminas E y C, antioxidantes para reforzar el sistema inmunitario; L-Carnitina para controlar el peso
 - Calcio y glucosamina para unos huesos y articulaciones saludables; Vitaminas E y C, antioxidantes para reforzar el sistema inmunitario
 - Una forma de croqueta con DentaDefense para mantener los dientes limpios y sanos
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Potenciador de fragancia para el lavado con Sándalo y cítricos aromas envueltos en notas florales
-- Tu colada siempre fresca hasta doce semanas después de haberla guardado
 - Las perlas del potenciador de fragancia para el lavado de Lenor Unstoppables están disponibles en diferentes aromas y tamaños
 - Pueden añadirse a todas las coladas con todo tipo de tejidos
+- Tu colada siempre fresca hasta doce semanas después de haberla guardado
+- Potenciador de fragancia para el lavado con Sándalo y cítricos aromas envueltos en notas florales
 - Personaliza la intensidad de la fragancia con la cantidad de perlas que desees utilizar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

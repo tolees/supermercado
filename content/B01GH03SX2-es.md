@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tecnología Color Protect para proteger el color
 - Color nude, labio hidratado
 - Colección de labiales diseñados por Kate Moss
-- Refleja la luz como nunca antes gracias a su exclusivo complejo de pigmentos Black Diamond
 - Color intenso hasta 8 horas
-- Tecnología Color Protect para proteger el color
+- Refleja la luz como nunca antes gracias a su exclusivo complejo de pigmentos Black Diamond
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01GH03SX2{{</world>}}

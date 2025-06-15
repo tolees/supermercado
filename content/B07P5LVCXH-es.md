@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protege la piel del rostro y del cuerpo frente a la exposición al sol.
-- Garnier Delial FPS30 Bruma Protectora con Textura Invisible, ofrece un bronceado uniforme y luminoso invisible en todos los tonos de piel, de secado rápido y resistente al agua.
 - Agita antes de usar. Antes de la exposición solar, aplique generosamente una capa homogénea y deje secar. Reaplica con frecuencia para mantener la protección, sobre todo después de haber nadado, transpirado o secado con una toalla. Evitar el contacto con los ojos. En caso de contacto con los ojos, aclara inmediatamente con abundante agua.
+- Garnier Delial FPS30 Bruma Protectora con Textura Invisible, ofrece un bronceado uniforme y luminoso invisible en todos los tonos de piel, de secado rápido y resistente al agua.
+- Protege la piel del rostro y del cuerpo frente a la exposición al sol.
 - 0% alcohol* *Sin alcohol etílico
 - Posee una textura ligera de bruma y unifica el bronceado.
 

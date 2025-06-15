@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1906 Reserva Especial: de color ámbar brillante y aroma a malta tostada con suaves notas de caramelo y café. Sabor complejo y equilibrado, con notas tostadas y un amargor bien integrado. Maridaje con carnes al horno o a la brasa, quesos ahumados, pescados azules o verduras y hortalizas. Consumir a 5 y 6º
-- 1906 Reserva Especial: elaborada con agua de la ciudad de A Coruña, MALTAS pilsen y tostada, LÚPULO Perle Hallertau aromático, LEVADURA seleccionada y una guarda prolongada para crear un sabor y aroma con carácter único. Alc 6.5% vol
 - Estrella Galicia Especial: de color dorado brillante y aroma a cebada y malta con notas tostadas. Sabor ligero con matices muy marcados de lúpulo. Maridaje con quesos frescos, verduras y hortalizas frías, setas, pescados blancos y carnes. Consumir a 4 y 5º
-- Pack de cervezas, incluye 1 pack de Estrella Galicia Especial y 1 de 1906 Reserva Especial. Este combinado es ideal para regalar y disfrutar de una mezcla entre lo tradicional y lo moderno
+- 1906 Reserva Especial: elaborada con agua de la ciudad de A Coruña, MALTAS pilsen y tostada, LÚPULO Perle Hallertau aromático, LEVADURA seleccionada y una guarda prolongada para crear un sabor y aroma con carácter único. Alc 6.5% vol
 - Estrella Galicia Especial: elaborada con agua de la ciudad de A Coruña, MALTAS pilsen y tostada, maíz, LÚPULO Nugget y Perle Hallertau y LEVADURA seleccionada. Alc 5.5% vol
+- Pack de cervezas, incluye 1 pack de Estrella Galicia Especial y 1 de 1906 Reserva Especial. Este combinado es ideal para regalar y disfrutar de una mezcla entre lo tradicional y lo moderno
+- 1906 Reserva Especial: de color ámbar brillante y aroma a malta tostada con suaves notas de caramelo y café. Sabor complejo y equilibrado, con notas tostadas y un amargor bien integrado. Maridaje con carnes al horno o a la brasa, quesos ahumados, pescados azules o verduras y hortalizas. Consumir a 5 y 6º
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSKS3D5F{{</world>}}
