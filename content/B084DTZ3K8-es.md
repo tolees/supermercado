@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuadas para premiar a tu perrito en momentos especiales
-- Hasta 5 unidades al dia por cada 10kg de peso
 - Snacks saludables y sabrosos adaptados para perros de todos los tamaños y edades
-- Bocaditos de pollo liofilizados para una conservación de nutrientes
 - 100% Pollo
+- Hasta 5 unidades al dia por cada 10kg de peso
+- Bocaditos de pollo liofilizados para una conservación de nutrientes
+- Adecuadas para premiar a tu perrito en momentos especiales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B084DTZ3K8{{</world>}}

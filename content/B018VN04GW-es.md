@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proteger de la luz solar y de olores agresivos
-- Máxima calidad
-- La bebida adecuada para divertirse con amigos, en casa o on-the-go
 - Combínalo con tus patatas fritas Lays, Ruffles o Doritos favoritos para el momento óptimo para picar
+- Proteger de la luz solar y de olores agresivos
+- La bebida adecuada para divertirse con amigos, en casa o on-the-go
+- Máxima calidad
 - Cola carbonatada baja en calorías que tiene solo 1 caloría por lata
 
 [🛒 Comprar!!!]({{< param buyurl >}})

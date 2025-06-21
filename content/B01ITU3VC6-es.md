@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Refresco con sabor a cola
-- Tiene un bajo contenido calórico
-- Ideal con hielo
-- Hecho con edulcorantes
 - Conservar en un lugar fresco y seco
+- Hecho con edulcorantes
+- Ideal con hielo
+- Tiene un bajo contenido calórico
+- Refresco con sabor a cola
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ITU3VC6{{</world>}}

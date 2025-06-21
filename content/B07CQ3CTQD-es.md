@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma parte de Estrella Galicia, que ha recibido premios internacionales como el World Beer Award, el International Beer Challenge y el Brussels Beer Challenge, que reconocen la calidad y sabor de las cervezas, además de la dedicación a la innovación y excelencia en la elaboración
-- Elaborada con agua de la ciudad de A Coruña, MALTAS Pilsen y tostada de CEBADA, LÚPULO Sladek y LEVADURA seleccionada. Alc 4.7% vol
 - De color dorado claro muy transparente y un aroma balanceado por el aporte de las maltas y de los lúpulos. Dominan estos últimos, aportando matices frescos, florales, y sutiles notas herbales y afrutadas
+- Elaborada con agua de la ciudad de A Coruña, MALTAS Pilsen y tostada de CEBADA, LÚPULO Sladek y LEVADURA seleccionada. Alc 4.7% vol
 - Es una cerveza lager premium de sabor dulce y amargo, que marida bien con quesos grasos, pescados, especias y frutas desecadas
+- Forma parte de Estrella Galicia, que ha recibido premios internacionales como el World Beer Award, el International Beer Challenge y el Brussels Beer Challenge, que reconocen la calidad y sabor de las cervezas, además de la dedicación a la innovación y excelencia en la elaboración
 - Pack de cervezas lager con un sabor dulce y amargo por igual. Maltosa, ligeramente lupulada y floral, con sutiles notas frescas y un agradable postgusto dulce. Se recomienda su consumo entre 4 y 5º
 
 [🛒 Aquí!!!]({{< param buyurl >}})

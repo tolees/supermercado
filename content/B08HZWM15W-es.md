@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Brand: Revlon Professional ProYou
 - Volumen 350 ml
-- Mejora el brillo y prolonga el color de alta definición
 - Formula acondicionadora que ayuda a desenredar
+- Mejora el brillo y prolonga el color de alta definición
+- Brand: Revlon Professional ProYou
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HZWM15W{{</world>}}

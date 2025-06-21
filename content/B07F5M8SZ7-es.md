@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- DELTA CAFÉS ESPRESSO BAR: Es una Bebida estimulante para los sentidos, perfecta para el inicio de las mañanas
 - ORIGEN: Tiene su origen en las regiones cafeteras de Centroamérica mezclado con la robusta Africana para obtener un café con gran cuerpo
 - COMPATIBLE: Paquete de 1 unidad de 1 Kg para máquinas de café automáticas y molinillos de café
 - PERFIL SENSORIAL: Elaborado en base a un 50% café Torrefacto y un 50% de origen natural, Aroma 5/10, Cuerpo 9/10, Acidez 5/10, Intensidad 9/10
-- DELTA CAFÉS ESPRESSO BAR: Es una Bebida estimulante para los sentidos, perfecta para el inicio de las mañanas
 - CALIDAD DELTA CAFÉS: La combinación perfecta de productos provenientes de todas parte del mundo para traerte la mejor calidad de café y bebidas calientes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

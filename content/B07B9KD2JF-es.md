@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONSEJO DEL EXPERTO: aplícalo generosamente sobre la piel seca o húmeda, media hora antes de la exposición al sol; vuelve a aplicarlo cada 2 horas, así como después de sudar, nadar o secarse con una toalla; reducir esta cantidad reduce el factor de protección
 - Te puede interesar Apto para todo tipo de pieles, coloreadas, no comedogénicas; hipoalergénicas; formuladas para minimizar el riesgo de alergias, ser amigables; testado dermatológica y oftalmológicamente
 - El paquete puede variar
+- CONSEJO DEL EXPERTO: aplícalo generosamente sobre la piel seca o húmeda, media hora antes de la exposición al sol; vuelve a aplicarlo cada 2 horas, así como después de sudar, nadar o secarse con una toalla; reducir esta cantidad reduce el factor de protección
 - Beneficios: cobertura natural que oculta las imperfecciones y unifica el tono; disponible en 3 tonos: claro, medio y bronce, SPF 50, evaluado clínicamente en el laboratorio y en condiciones reales de alta radiación solar
 - ¿QUÉ ES? Fusion Water Color Medium es un protector solar de color ultraligero de uso diario que, además de garantizar una alta protección contra las radiaciones UVB y UVA, proporciona una cobertura natural con un efecto atractivo; no irrita los ojos
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula con Provitamina B5 hidratenate
-- Ojos más intensos y brillantes, pestañas negras impactantes
 - Recupera el impacto de tus pestañas, efecto mirada negra intensa
-- Máscara de pestañas que aporta mayor vulumen, mayor grosor, mayor longitud y mayor definición
+- Ojos más intensos y brillantes, pestañas negras impactantes
 - Pigmentos raven que ayudan a intensifican el brillo natural de tus ojos
+- Máscara de pestañas que aporta mayor vulumen, mayor grosor, mayor longitud y mayor definición
+- Fórmula con Provitamina B5 hidratenate
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081SWBLMJ{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para piel normal o seca
-- Con protección total contra agentes externos
-- Aplicar el producto durante la ducha y por todo el cuerpo
 - Tiene un efecto hidratante
+- Aplicar el producto durante la ducha y por todo el cuerpo
 - Gel de ducha nutritivo e hidratante
+- Con protección total contra agentes externos
+- Para piel normal o seca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BYDYJ4N7{{</world>}}

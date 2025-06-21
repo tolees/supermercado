@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 capas, papel 100% reciclado
 - Certificado con la etiqueta ecológica Europea
-- Rollo de cocina blanco
 - 2 rollos dobles por paquete
+- 2 capas, papel 100% reciclado
 - Rollo doble
+- Rollo de cocina blanco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AXX15UI{{</world>}}

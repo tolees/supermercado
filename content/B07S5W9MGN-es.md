@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en un lugar fresco y seco
 - Caja con barritas de cacahuetes, almendras y chocolate
 - Están envueltos individualmente
+- Conservar en un lugar fresco y seco
 - Ideales como un postre
 - Tienen un sabor dulce
 

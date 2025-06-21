@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fecha Lanzamiento: 1996
 - Familias Olfativas: Oriental, Fougère
 - Familia olfativa: Oriental Fougère.
-- Fecha Lanzamiento: 1996
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000NVFM0E{{</world>}}

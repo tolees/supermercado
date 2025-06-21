@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ayuda a eliminar los olores desagradables
-- Testado dermatológicamente
-- Con pomelo y limón verde
 - Complejo dermo reparador con ingredientes de origen natural
+- Testado dermatológicamente
+- Ayuda a eliminar los olores desagradables
+- Con pomelo y limón verde
 - Deja las manos limpias, suaves, nutridas y delicadamente perfumadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

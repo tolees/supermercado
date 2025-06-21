@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Contenido de 100 ml
 - Se suministra con un cepillo de densidad máxima del 50% más grande
-- Fórmula de Supersize con 3 x 3 x colágeno y queratina
 - Captura y da volumen a todas las pestañas
+- Fórmula de Supersize con 3 x 3 x colágeno y queratina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0060ML9MA{{</world>}}

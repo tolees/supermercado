@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cacao obtenido de forma sostenible gracias al Cocoa Plan
 - Cacao soluble sin gluten
-- Se puede preparar en leche caliente o fría
-- Chocolatea tu leche al instante con NESQUIK Original!
 - Llévate tu NESQUIK a cualquier parte con el formato en sobre!
-- Hecha con 100% ingredientes naturales
+- Chocolatea tu leche al instante con NESQUIK Original!
+- Se puede preparar en leche caliente o fría
 - Certificado Rainforest Alliance
+- Cacao obtenido de forma sostenible gracias al Cocoa Plan
+- Hecha con 100% ingredientes naturales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08XKK2RNZ{{</world>}}

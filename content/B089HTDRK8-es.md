@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Acondicionador con tecnología "wet-feel" que hace que tu cabello se sienta hidratado durante el lavado
-- Acondicionador con ácido hialurónico, que ayuda a mantener la hidratación del cabello al restaurar el escudo protector natural del cabello​
-- Acondicionador con arcilla de caolín, conocida por absorber el sebo del cabello y combatir la producción excesiva de aceite
 - Globalmente TRESemmé no testa en animales
+- Acondicionador con ácido hialurónico, que ayuda a mantener la hidratación del cabello al restaurar el escudo protector natural del cabello​
+- Acondicionador con tecnología "wet-feel" que hace que tu cabello se sienta hidratado durante el lavado
+- Acondicionador con arcilla de caolín, conocida por absorber el sebo del cabello y combatir la producción excesiva de aceite
 - Fórmula ligera, para un cabello hidratado, suave y sin apelmazar; Limpia y purifica tu cabello con la gama de productos para el cabello TRESemmé Hidrata y Purifica​
 - Acondicionador que limpia profundamente y purifica el cabello graso, reteniendo la hidratación​
 

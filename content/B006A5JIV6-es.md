@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Vierte una pequeña cantidad de jabón en tus manos y masajea su cuerpo y cabello previamente humedecidos. Aclarar con abundante agua
 - No pica los ojos y es biodegradable. Sin sulfatos. Testada bajo control pediátrico, y dermatológico
-- La piel infantil es sensible, delicada y necesita ayuda para desarrollarse correctamente. Denenes refuerza las defensas de la piel gracias a sus exclusivas fórmulas eco-enriquecidas para ayudar a su óptima maduración
 - El Gel Champú Denenes Original eco-enriquecida con Karité y Petit Grain, refuerza las defensas de la piel. Además, ayuda a mantener la suavidad natural de la piel aportando máxima hidratación y cuidado
+- La piel infantil es sensible, delicada y necesita ayuda para desarrollarse correctamente. Denenes refuerza las defensas de la piel gracias a sus exclusivas fórmulas eco-enriquecidas para ayudar a su óptima maduración
 - Su fórmula es biodegradable y contiene un 93% de ingredientes de origen natural (Según norma ISO: 16128)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

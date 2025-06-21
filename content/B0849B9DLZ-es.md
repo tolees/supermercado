@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Proporciona una protección flexible y ligera que deja un tacto sedoso en la piel. Apto para todo tipo de piel, incluso piel atópica.
-- Alta protección solar corporal transparente en spray para la piel de los niños a partir de 6 meses de edad.
 - Su fórmula Wet Skin facilita la aplicación en piel húmeda sin dejar residuo blanco.
-- Tiene una muy alta resistencia al agua y se absorbe de forma inmediata.
+- Alta protección solar corporal transparente en spray para la piel de los niños a partir de 6 meses de edad.
 - Formulado con extracto de siempreviva que ayuda a calmar y a reforzar la función barrera de la piel.
+- Tiene una muy alta resistencia al agua y se absorbe de forma inmediata.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0849B9DLZ{{</world>}}

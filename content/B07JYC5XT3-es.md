@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ideal para cualquier ocasión y evento, para compartir y regalar
+- Con ingredientes de la mejor calidad
 - Bolsa de caramelos con palo de sabores surtidos
 - Práctico e higiénico
 - No contiene gluten
-- Con ingredientes de la mejor calidad
-- Ideal para cualquier ocasión y evento, para compartir y regalar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JYC5XT3{{</world>}}

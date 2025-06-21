@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mix de tus piezas preferidas con irresistible sabor a frutas
 - Surtido de caramelos de goma
 - Contiene 18 mini bolsitas
-- Mix de tus piezas preferidas con irresistible sabor a frutas
 - ‎Almacenar en un sitio seco y oscuro
 - Envueltas individualmente
 

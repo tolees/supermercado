@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Contiene aceite de argán y vitamina E
+- Cómodo de llevar gracias a su efecto de bálsamo, no es pegajoso
 - Su aplicador es suave y preciso, de fácil aplicación
 - Gloss que proporciona 24h de hidratación y brillo duradero
-- Cómodo de llevar gracias a su efecto de bálsamo, no es pegajoso
 - Disponible en 9 distintos tonos ponibles: claros o de cobertura más alta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

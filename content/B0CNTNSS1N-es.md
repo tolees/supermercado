@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Agua micelar Garnier Skinactive Orgullo Agua Micelar Todo En 1 de Garnier
 - Los productos de la marca Garnier están pensados para ti y tu bienestar
+- Agua micelar Garnier Skinactive Orgullo Agua Micelar Todo En 1 de Garnier
 - Productos de Cuidado de la piel para Unisex adulto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

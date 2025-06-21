@@ -32,8 +32,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Para una piel siempre hidratada, suave y elástica.
 - La vitamina A ayuda a mejorar la resistencia de la piel y la mantiene con aspecto joven y saludable.
 - Extractos naturales: melón y leche orgánica
-- La siguiente información se aplica a cada unidad del paquete
 - El paquete puede variar
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CH2H75QR{{</world>}}

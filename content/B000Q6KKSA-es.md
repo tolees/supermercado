@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuada para día o noche
 - Fragancia amaderada con matices florales
+- Adecuada para día o noche
 - Olor intenso y duradero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los sticks con forma de gusano permiten una alimentación adaptada a la especie
-- Alta digestibilidad para el agua limpia
-- La fórmula, elaborada con ingredientes naturales, está desarrollada para reducir los olores desagradables del tanque
 - Alimento premium equilibrado y rico en nutrientes para tortugas acuáticas
 - Caparazones sanos y huesos fuertes gracias a una óptima proporción calcio-fósforo
+- La fórmula, elaborada con ingredientes naturales, está desarrollada para reducir los olores desagradables del tanque
+- Alta digestibilidad para el agua limpia
+- Los sticks con forma de gusano permiten una alimentación adaptada a la especie
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000LXUXNU{{</world>}}
