@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - INTENSIDAD 8: Café en grano 100 % arábica de tueste natural con toques de miel y cítricos.
 - 1 PAQUETE DE 500 GRAMOS: 500 gramos de café en grano perfecto para ser molido en tu máquina de café superautomática. Una vez molido, podrá ser utilizado en cualquier cafetera.
+- CAFÉ ESPRESSO, RISTRETTO O LUNGO: Con este café podrás preparar un espresso, café negro corto que se disfruta solo o con base de leche como el capuchino o el latte. Un ristretto, una versión más concentrada de un espresso, con menos agua y la misma cantidad de café. O un café lungo, la misma cantidad de café pero el doble de agua que un espresso.
 - COMPLEJO Y CON CUERPO: Perfecta combinación de los granos de arábica más selectos del mundo.
 - CAFÉ SOSTENIBLE: Trabajamos junto a UTZ (Rainforest Alliance) para asegurarnos de que cada variedad de café L’OR se elabora con granos de café de la mas alta calidad y promoviendo prácticas sostenibles.
-- CAFÉ ESPRESSO, RISTRETTO O LUNGO: Con este café podrás preparar un espresso, café negro corto que se disfruta solo o con base de leche como el capuchino o el latte. Un ristretto, una versión más concentrada de un espresso, con menos agua y la misma cantidad de café. O un café lungo, la misma cantidad de café pero el doble de agua que un espresso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3CF2Q3D{{</world>}}

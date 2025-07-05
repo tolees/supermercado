@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Available in 9 different shades.
 - Formula infused with Black Diamonds, reflects light like never before.
 - Captures all the flair, edge and timelessness of Kate’s unique look.
+- Available in 9 different shades.
 - The 1st Lipstick collection created by Kate Moss High intensity colour for up to 8 hours.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

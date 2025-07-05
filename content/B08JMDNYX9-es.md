@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De textura gomosa
 - Ideal para compartir
+- De textura gomosa
 - Conservar en un lugar fresco y seco
 - De colores y sabores diferentes
 - De diferentes formas

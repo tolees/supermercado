@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para una piel siempre hidratada, suave y elástica. Una ducha energizante para una piel en forma
 - Extractos naturales: vitamina A, melón y leche orgánica
+- CrueltyFree
+- Para una piel siempre hidratada, suave y elástica. Una ducha energizante para una piel en forma
+- La siguiente información se aplica a cada unidad del paquete
 - La vitamina A ayuda a mejorar la resistencia de la piel y la mantiene con aspecto joven y saludable
 - Gel de baño nutritivo con extracto dulce y envolvente de melón, enriquecido con proteínas de leche
-- La siguiente información se aplica a cada unidad del paquete
-- CrueltyFree
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DN6VRZSF{{</world>}}

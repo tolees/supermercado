@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene flúor, para proteger contra las caries
-- Elimina las manchas para ayudar a recuperar el blanco natural de los dientes.
-- Ayuda a eliminar la acumulación de placa y a mantener las encías sanas.
 - Pasta de dientes que ofrece protección duradera frente a la sensibilidad dental.
+- Ayuda a eliminar la acumulación de placa y a mantener las encías sanas.
+- Elimina las manchas para ayudar a recuperar el blanco natural de los dientes.
+- Contiene flúor, para proteger contra las caries
 - Pack de 4 tubos de 75 ml. Cartón reciclable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

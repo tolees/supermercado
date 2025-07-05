@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pañuelos blancos
-- Muy suaves
 - 80 pañuelos por caja
+- Muy suaves
 - Dimensión pañuelo 21.5 x 22.5 cm
 - 2 capas
 

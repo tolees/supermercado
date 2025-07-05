@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido: 1 x LOreal Paris Elvive Aceite Extraordinario de Coco, Cantidad: 100 ml
 - Cabello nutrido, hidratado y con un brillo infinito, Disciplina cabellos rizados y encrespados, Transformación inmediata para un pelo suave y sedoso
-- Aplica de medios a puntas en el pelo seco o húmedo, Puede ser utilizado después de lavar el cabello, antes de peinarlo o como toque final para controlar cabellos rebeldes
 - Fórmula ligera enriquecida con aceite de coco para una nutrición intensa, Fragancia a coco muy agradable y duradera, Elaborado a base de aceites naturales
+- Contenido: 1 x LOreal Paris Elvive Aceite Extraordinario de Coco, Cantidad: 100 ml
+- Aplica de medios a puntas en el pelo seco o húmedo, Puede ser utilizado después de lavar el cabello, antes de peinarlo o como toque final para controlar cabellos rebeldes
 - Aceite extraordinario de coco para pelos normales a secos, Nutrición ligera con un brillo irresistible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

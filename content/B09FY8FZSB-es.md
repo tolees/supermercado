@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elaborado con un 94% de ingredientes de origen natural
 - Sin perfumes
+- Elaborado con un 94% de ingredientes de origen natural
 - De larga duración, no se apelmaza y controla la aparición de brillos
 - Probado por dermatólogos; apto para pieles sensibles
 - Envase fabricado con materiales reciclados

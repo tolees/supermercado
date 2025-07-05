@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La Crema de Champiñones Knorr es una deliciosa receta que gusta a todos y que hará de tus comidas en familia todo un éxito
 - Alimenta a tu familia con una deliciosa crema y todos quedarán satisfechos
+- La Crema de Champiñones Knorr es una deliciosa receta que gusta a todos y que hará de tus comidas en familia todo un éxito
 - Rinde 10 litros
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

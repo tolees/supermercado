@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los mejores productos de higiene para tu día a día.
 - Cuidarse y sentirse bien nunca había sido tan fácil.
+- Los mejores productos de higiene para tu día a día.
 - All about eyes rich 15 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Marca del producto: Clinique
-- Para uso diario
 - Apto para un regalo
+- Para uso diario
 - Hecho de ingredientes de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

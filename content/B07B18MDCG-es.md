@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bebida natural procedente del zumo fermentado de manzana
+- La combinación óptima de manzanas dulces y ácidas
 - Sabor equilibrado a manzana y aroma dulce afrutado
 - Se puede disfrutar mejor con 3 hielos y una rodaja de limón
-- La combinación óptima de manzanas dulces y ácidas
-- Bebida natural procedente del zumo fermentado de manzana
 - 4.5 porcentaje en volumen de alcohol
 
 [🛒 Aquí!!!]({{< param buyurl >}})

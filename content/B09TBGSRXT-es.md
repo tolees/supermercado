@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disfruta del exquisito sabor y la calidad de las conservas de pescado Isabel con este pack de Atún claro en aceite de oliva.
-- Este pack ahorro incluye 5 estuches con 3 latas de 65gr cada uno, ideal para tener siempre a mano en tu despensa.
 - Isabel es sinónimo de tradición y calidad en conservas de pescado, garantizando productos frescos y deliciosos en cada lata. Nuestro atún cuenta con garantia HALAL.
 - El Atún claro en aceite de oliva Isabel es una fuente rica en proteínas y omega-3, perfecto para una dieta saludable y balanceada.
+- Este pack ahorro incluye 5 estuches con 3 latas de 65gr cada uno, ideal para tener siempre a mano en tu despensa.
+- Disfruta del exquisito sabor y la calidad de las conservas de pescado Isabel con este pack de Atún claro en aceite de oliva.
 - Las latas de 65gr son perfectas para llevar al trabajo, la escuela o para preparar ensaladas, sándwiches y más, ofreciendo conveniencia y sabor en cualquier lugar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

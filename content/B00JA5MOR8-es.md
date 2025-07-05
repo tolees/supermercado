@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tipo de Piel: Todo Tipo de Pieles
+- Para el cabello: normal
 - Tipo de piel: seca
 - Género: Unisex Adulto
-- Para el cabello: normal
 - Texturas: Loción
 
 [🛒 Aquí!!!]({{< param buyurl >}})

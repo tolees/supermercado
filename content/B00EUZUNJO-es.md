@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polvos translucidos ligeros que iluminan y suavizan la piel
-- Para una tez impecable, suave y natural
 - Tez luminosa
-- Estos icónicos polvos vienen en una preciosa cajita vintage
+- Polvos translucidos ligeros que iluminan y suavizan la piel
 - Contiene polvos de sílice que bridan una piel suave y aterciopelada
+- Para una tez impecable, suave y natural
+- Estos icónicos polvos vienen en una preciosa cajita vintage
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00EUZUNJO{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Enjevecido en botas de roble que previamente contuvieron nuestros más selectos vinos de Jerez, olorosos y amontillados.
+- A la nariz, se despliegan aromas de maderas nobles, con notas de nuez, higo y avellana.
 - Medallas de Oro y Plata en diversas competiciones internacionales
 - En paladar es extremadamente sedoso, con un final lujoso y sofisticado.
+- Enjevecido en botas de roble que previamente contuvieron nuestros más selectos vinos de Jerez, olorosos y amontillados.
 - El exclusivo sistema de envejecimiento de Criaderas y Solera, proceso artesanal que combina arte y experiencia, garantiza un brandy de extraordinaria calidad y complejidad aromática.
-- A la nariz, se despliegan aromas de maderas nobles, con notas de nuez, higo y avellana.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MXL14UT{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% Malta
-- DISTRIBUIDA POR: Heineken España, S.A. Avda. de Andalucía 1, Sevilla.
-- Contiene gluten
 - Conservar el producto en un lugar limpio, seco y bien ventilado
+- 100% Malta
 - Cerveza tipo lager y estilo rubia
+- Contiene gluten
+- DISTRIBUIDA POR: Heineken España, S.A. Avda. de Andalucía 1, Sevilla.
 - Almacenar preferiblemente entre 5 y 15C, evitando temperaturas superiores a 25C
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

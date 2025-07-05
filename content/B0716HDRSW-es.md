@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deliciosas piezas en forma de ladrillos recubiertos de pica
 - Irresistible sabor a fresa-nata
+- Deliciosas piezas en forma de ladrillos recubiertos de pica
 - De la marca Haribo
 - Geles dulces sabor fresa
 

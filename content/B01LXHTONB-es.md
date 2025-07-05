@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes: Fresa, azúcar, gelificante (pectina de cítricos), zumo de limón y zumo de sauco a partir de concentrado. Elaborado con 50g de fruta por 100g
 - Formato pack de 4 unidades de 350 g
+- Ingredientes: Fresa, azúcar, gelificante (pectina de cítricos), zumo de limón y zumo de sauco a partir de concentrado. Elaborado con 50g de fruta por 100g
+- Elaborado con ingredientes de calidad Hero seleccionados especialmente durante la última cosecha y conservando todo su sabor envasados al baño maría de la manera más tradicional sin necesidad de otros aditivos
 - Las mermeladas de Temporada de Hero se caracterizan por estar hechas de frutos de temporada seleccionados en la última cosecha y con ingredientes 100% naturales; Son ideales para diferentes tipos de postres y recetas
 - Sin conservantes ni colorantes, solo fruta de temporada
-- Elaborado con ingredientes de calidad Hero seleccionados especialmente durante la última cosecha y conservando todo su sabor envasados al baño maría de la manera más tradicional sin necesidad de otros aditivos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LXHTONB{{</world>}}
