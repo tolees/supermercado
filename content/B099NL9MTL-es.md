@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Su fórmula permite que la piel respire mientras corrige las imperfecciones
 - Contiene SPF 25 para proteger la piel
+- Su fórmula permite que la piel respire mientras corrige las imperfecciones
 - Formulado con ácido hialurónico, pigmentos minerales y aloe vera
 - Para pieles mixtas a grasas
 

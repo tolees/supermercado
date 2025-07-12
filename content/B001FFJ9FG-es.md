@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- RECUPERACIÓN ÓPTIMA: ideal para rellenar los depósitos de energía y reponer las reservas de cara a recuperar mejor entre sesiones de entrenamiento de larga duración o de alta carga.
 - TOTAL RECOVERY de Victory Endurance, marca especializada de Weider, compañía internacional, pionera y especializada en nutrición deportiva, con más de 85 años ofreciendo calidad e innovación.
-- COMO Y CUANDO TOMAR: Mezclar 50 g de polvo (3/4 medida de cazo) con 300 ml de agua. Para asegurar una recuperación óptima, tomar una dosis inmediatamente después del ejercicio.
+- RECUPERACIÓN ÓPTIMA: ideal para rellenar los depósitos de energía y reponer las reservas de cara a recuperar mejor entre sesiones de entrenamiento de larga duración o de alta carga.
 - INGREDIENTES DE CALIDAD: Cada uno de sus componentes ha sido seleccionado y probado científicamente. Con un ratio perfecto de Proteínas, Hidratos de carbono, Glutamina, Aminoácidos (BCAA), Electrolitos y Vitaminas.
+- COMO Y CUANDO TOMAR: Mezclar 50 g de polvo (3/4 medida de cazo) con 300 ml de agua. Para asegurar una recuperación óptima, tomar una dosis inmediatamente después del ejercicio.
 - AMPLIA GAMA DE DELICIOSOS SABORES: Total Recovery está disponible en diferentes formatos y sabores. Sandía, Chocolate, Banana, Naranja, Summer berries… ¿Cuál es tu favorito?
 
 [🛒 Comprar!!!]({{< param buyurl >}})

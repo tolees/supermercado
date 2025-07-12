@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con ingredientes de origen natural; sin gluten; sin lactosa. 0% azúcares añadidos
-- Para un aporte extra de energía
 - Favore el rendimiento intelectual, concentración y memoria
 - Contiene jalea real, 7 vitaminas, aminoácidos y ginkgo biloba
+- Para un aporte extra de energía
 - Indicada en adultos y niños mayores de 14 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

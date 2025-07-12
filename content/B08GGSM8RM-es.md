@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pastilla de jabon natural de 400gr
-- Eficaz contra las manchas dificiles
 - Producto excepcional para pieles delicadas
 - Respetuoso con el medio ambiente
+- Pastilla de jabon natural de 400gr
+- Eficaz contra las manchas dificiles
 - Lagarto, más que un jabón, es un ritual
 
 [🛒 Aquí!!!]({{< param buyurl >}})

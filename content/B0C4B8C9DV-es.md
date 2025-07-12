@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El sabor con el doble de tamaño: más cereales tostados, más salted caramel
-- Disfruta de este sabor de barrita de cereales: caramelo salado
 - Entra y descubre el resto de la gama de barritas de cereales
+- Disfruta de este sabor de barrita de cereales: caramelo salado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4B8C9DV{{</world>}}

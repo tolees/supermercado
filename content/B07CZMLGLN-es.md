@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un equilibrio de ligereza, sabor y frescura.
 - Elaborada con cebadas malteadas en nuestra factoría.
 - Acentuado aroma a lúpulo fresco con un final ligero y refrescante.
+- Un equilibrio de ligereza, sabor y frescura.
 - Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

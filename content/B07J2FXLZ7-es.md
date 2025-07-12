@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Decoración en relieve
 - 140cm
+- Decoración en relieve
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07J2FXLZ7{{</world>}}

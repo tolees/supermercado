@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Descripción olfativa fresa nata: salida donde predominan las notas refrescantes de fresa junto con acordes de lácteos cremosos; cuerpo apetecible de fresas acompañadas por notas de pastelería; fondo donde predominan la dulce vainilla y el caramelo
 - Jabón de manos fresa nata en formato gel y con textura mousse de 250 ml; cremosidad, limpieza e hidratación con aloe vera
 - Modo de empleo: dosificar el gel espuma, frotar las manos y aclarar con agua
-- Pack de 4 jabones de 250 ml cada uno
 - El jabón de manos fresa nata de the fruit company en formato gel mousse, te encantará gracias a la cremosidad de su fórmula y la dulzura su aroma; parecerá que te estás lavando las manos con nata
-- Descripción olfativa fresa nata: salida donde predominan las notas refrescantes de fresa junto con acordes de lácteos cremosos; cuerpo apetecible de fresas acompañadas por notas de pastelería; fondo donde predominan la dulce vainilla y el caramelo
+- Pack de 4 jabones de 250 ml cada uno
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09888LNVN{{</world>}}

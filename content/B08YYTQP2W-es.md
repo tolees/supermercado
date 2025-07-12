@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición Interior: Otros Materiales
 - Disfruta De Los Mejores Zapatos De La Marca: Igor
-- Composición Exterior:
 - Si no sabes cuál es tu talla, te recomendamos: Selecciona tu talla habitual
+- Composición Exterior:
 - Estación: Verano
+- Composición Interior: Otros Materiales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08YYTQP2W{{</world>}}

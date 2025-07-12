@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- LOreal Infallible Matte FX brillo 006 disturbia (50498)
 - Brillo de labios maquillaje mujer
 - Brillo De Labios LOreal
-- LOreal Infallible Matte FX brillo 006 disturbia (50498)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B017DB28LM{{</world>}}

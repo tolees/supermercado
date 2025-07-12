@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La base todo en uno única para una base impecable
-- Perfectamente uniforme, piel radiante al instante
-- Cobertura completa duradera
-- La esponja incorporada para una aplicación sin esfuerzo y sin complicaciones en movimiento
 - Un acabado completo en 1 paso, sin necesidad de corrector y polvo
+- La esponja incorporada para una aplicación sin esfuerzo y sin complicaciones en movimiento
+- La base todo en uno única para una base impecable
+- Cobertura completa duradera
+- Perfectamente uniforme, piel radiante al instante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07JHP1K81{{</world>}}

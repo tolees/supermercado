@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Contiene 75 ml
-- Las notas olfativas principales de este producto son especiado, fresco acuático y fresco naturaleza
-- Este producto está indicado para hombre
 - De la marca Davidoff
+- Este producto está indicado para hombre
+- Las notas olfativas principales de este producto son especiado, fresco acuático y fresco naturaleza
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0009OAHBY{{</world>}}

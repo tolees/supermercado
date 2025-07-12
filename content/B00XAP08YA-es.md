@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Irresistible sabor a cola
-- Caramelos de goma
 - Deliciosas piezas en forma de mini cola
+- Caramelos de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XAP08YA{{</world>}}

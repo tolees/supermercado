@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ☑️ INGREDIENTES CUIDADOSAMENTE SELECCIONADOS: Hecho con ingredientes de calidad para apoyar sus objetivos de fitness.
-- ⚠️ PRECAUCIÓN Y DOSIFICACIÓN: Sólo para adultos, no recomendado durante el embarazo o para aquellos con condiciones médicas. Tomar una ración con 300 ml de agua 30 minutos antes del entrenamiento.
-- 💧 REFRESCANTE L-CARNITINA BEBIDA EN POLVO: Mantente hidratado con esta bebida en polvo con sabor a té helado de limón, ¡perfecta para un refrescante impulso antes del entrenamiento!
 - 🌿 VEGANO Y SIN GLUTEN: ¡Disfruta de un suplemento versátil que se alinea con tus preferencias y objetivos dietéticos!
+- ☑️ INGREDIENTES CUIDADOSAMENTE SELECCIONADOS: Hecho con ingredientes de calidad para apoyar sus objetivos de fitness.
+- 💧 REFRESCANTE L-CARNITINA BEBIDA EN POLVO: Mantente hidratado con esta bebida en polvo con sabor a té helado de limón, ¡perfecta para un refrescante impulso antes del entrenamiento!
+- ⚠️ PRECAUCIÓN Y DOSIFICACIÓN: Sólo para adultos, no recomendado durante el embarazo o para aquellos con condiciones médicas. Tomar una ración con 300 ml de agua 30 minutos antes del entrenamiento.
 - 🚀 METABOLISMO Y APOYO ENERGÉTICO: Cada porción proporciona 2,000mg de L-carnitina y contiene zinc contribuye al metabolismo normal de los ácidos grasos y el cromo contribuye al mantenimiento de los niveles normales de glucosa en la sangre.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

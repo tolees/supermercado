@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Limpia, desmaquilla y nutre en un solo gesto, Apto para labios, rostro y ojos, Sin acabado graso
 - Agua Micelar en Aceite, limpia, desmaquilla y nutre, Eficaz contra el maquillaje waterproof y de larga duración
 - Fórmula eficaz que combina la acción de las micelas con el aceite de argán, Acabado no graso adecuado para todo tipo de pieles, Testado oftalmológicamente y dermatológicamente
 - Agitar para fusionar con el aceite, Humedecer un algodón y pasar por el rostro, Para disolver el maquillaje de ojos y labios dejar reposar el algodón unos segundos, No requiere de aclarado
 - Contenido: 2 x Agua Micelar en Aceite Garnier Skin Active, 400 ml + 1 x Agua Micelar en Aceite Garnier Skin Active, 100 ml
-- Limpia, desmaquilla y nutre en un solo gesto, Apto para labios, rostro y ojos, Sin acabado graso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08L4K6RR1{{</world>}}

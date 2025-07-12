@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Olfatomológicamente testada: ideal para gente que usa lentillas
-- El cepillo especial de Max Factor cuenta con un 50% más de cerdas para separar eficazmente las pestañas
 - Fórmula patentada que da volumen desde la ráiz hasta las puntas.
+- El cepillo especial de Max Factor cuenta con un 50% más de cerdas para separar eficazmente las pestañas
 - Máscara que aporta efecto pestañas postizas
 - Con el nivel óptimo de viscosidad, no deja grumos ni mancha.
 

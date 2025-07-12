@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Una vez abierto mantener refrigerado
-- Deliciosa salsa soja con un toque dulce
 - Perfecta para ensaladas, marinar carnes y más
 - Apto para veganos y vegetarianos
+- Deliciosa salsa soja con un toque dulce
 - Hecho después de la receta original
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Neutrogena presenta neutrogena hidratacion profunda ps 400ml modelo 96030
-- Producto de belleza
 - Utilizar con dedicación
+- Producto de belleza
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZJSDBWF{{</world>}}

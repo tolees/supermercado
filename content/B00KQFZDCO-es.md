@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reduce las durezas en 7 días y suaviza y alisa la piel
-- Absorción rápida y textura no grasa y sin perfume
-- Clínicamente comprobado que reduce las durezas y la piel endurecida de tus pies
 - Aplicar Scholl Crema Durezas 2 veces al día sobre la piel endurecida mediante un suave masaje, incidiendo sobre los talones y la planta de los pies
+- Absorción rápida y textura no grasa y sin perfume
+- Reduce las durezas en 7 días y suaviza y alisa la piel
+- Clínicamente comprobado que reduce las durezas y la piel endurecida de tus pies
 - Combate las durezas de los talones, laterales y planta del pie
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

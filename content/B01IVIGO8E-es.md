@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los mejores productos para tu cuidado personal y de la casa.
 - Lavavaj Fairy 780 Ml Original Duplo
+- Los mejores productos para tu cuidado personal y de la casa.
 - Calidad y precio nunca antes tan irresistibles.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

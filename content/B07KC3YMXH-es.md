@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Como tomar Sueño Complet: 1 comprimido al día 30 minutos antes de acostarse
 - La primera capa de liberación inmediata contiene melatonina, que contribuye a reducir el tiempo necesario para conciliar el sueño
 - Sin gluten, sin lactosa, sin azúcares añadidos, vegano
+- Como tomar Sueño Complet: 1 comprimido al día 30 minutos antes de acostarse
 - La segunda capa de liberación prolongada contiene Valeriana que ayuda a mantener un sueño natural, Melisa, Pasiflora, Vitamina B6 que contribuye al funcionamiento normal del sistema nervioso y Zinc
 - Mini comprimido bicapa para una doble acción
 

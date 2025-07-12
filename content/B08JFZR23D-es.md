@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LACER: Lacer, que nació en 1949, tiene el propósito de mejorar la salud de las personas cada día, cuidando de su bienestar. Porque nos importa la salud integral y del planeta, siempre con calidad y rigurosidad en nuestra actuación
 - MODO DE USO: Aplicar sobre el cepillo dental y cepillar durante un mínimo de 2 minutos para obtener una limpieza óptima. Uso después de cada comida.
 - USO DIARIO: Protección diaria para los dientes con triple acción integral. Prevención del sangrado de encías, reducción de la sensibilidad dental y protección contra la caries
 - PASTA DENTÍFRICA: Dentífrico con espumantes suaves y con óptimo poder de limpieza y arrastre para realizar la correcta limpieza dental diaria. Contiene ingredientes activos que ayudan a proteger y tonificar las encías
+- LACER: Lacer, que nació en 1949, tiene el propósito de mejorar la salud de las personas cada día, cuidando de su bienestar. Porque nos importa la salud integral y del planeta, siempre con calidad y rigurosidad en nuestra actuación
 - TRIPLE ACCIÓN: Proporciona protección bucodental integral de dientes y encías, al tener una triple acción. Previene el sangrado de encías, reduce la sensibilidad dental y protege contra la caries
 
 [🛒 Aquí!!!]({{< param buyurl >}})

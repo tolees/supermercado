@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los productos de la marca Capitán América están fabricados con ingredientes de la mejor calidad.
 - Baño e higiene personal Jabon Manos 500Ml.Con Dosificador de Capitán América
+- Los productos de la marca Capitán América están fabricados con ingredientes de la mejor calidad.
 - Productos de Baño e higiene personal para Unisex Adulto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

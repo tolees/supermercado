@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- VARIEDAD: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente de América Central y del Sur
-- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
-- El término italiano “torrefatto” que aparece en el envase original significa “tostado” y no se refiere de ninguna manera a una variedad de café torrefacto
 - ESPRESSO BARISTA PERFETTO: El café en grano natural tostado Lavazza que te hace sentir como un verdadero barista. Prepára tu café con máquina de café espresso o automática y disfruta del auténtico espresso italiano
-- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
-- INTENSIDAD: La intensidad 6/10 y el tueste medio, realizado en tambor con un ciclo largo especial, brindan una textura cremosa y un sabor aromático a este café en grano natural
 - NOTAS AROMÁTICAS: Espresso Barista Perfetto es un café caracterizado por notas aromáticas florales, para un sabor aromático y redondo
+- INTENSIDAD: La intensidad 6/10 y el tueste medio, realizado en tambor con un ciclo largo especial, brindan una textura cremosa y un sabor aromático a este café en grano natural
+- VARIEDAD: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente de América Central y del Sur
+- El término italiano “torrefatto” que aparece en el envase original significa “tostado” y no se refiere de ninguna manera a una variedad de café torrefacto
+- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
+- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BT277MQX{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Loción para masaje Bienestar Mujer
 - Masaje y relajación Neutrogena
+- Loción para masaje Bienestar Mujer
 - (3574660504163)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

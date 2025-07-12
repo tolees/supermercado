@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 69kcal por Tortita
-- Cada paquete contiene 4 Sobres con 2 Tortitas en cada uno
 - Tortita de arroz integral con chocolate negro sin azúcars añadidos (14unidades)
 - Cada caja contiene 14 paquetes
+- Cada paquete contiene 4 Sobres con 2 Tortitas en cada uno
+- 69kcal por Tortita
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BWNDC1R8{{</world>}}

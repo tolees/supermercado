@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Aplicador duo para crear múltiples looks para un acabado preciso
 - Todo en uno, sombra de ojos, delineador y iluminador
-- Fórmula ultra suave; color intenso para todos los tonos de piel
-- 12 sombras complementarias perfectas para hacer contouring
 - Perfecto para esculpir, sombrear y definir
+- 12 sombras complementarias perfectas para hacer contouring
+- Fórmula ultra suave; color intenso para todos los tonos de piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FH3P7QK{{</world>}}

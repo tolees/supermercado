@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conservar en un lugar fresco y seco
-- Selección de turrones clásicos
 - Vienen envueltos individualmente
+- Selección de turrones clásicos
 - Con 4 sabores diferentes
+- Conservar en un lugar fresco y seco
 - Ideal para compartir
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Sin aditivos
 - Con cacao natural
 - Conservar en un lugar fresco y seco
-- Sin aditivos
-- Fácil de preparar
 - Contiene un despertador con luz
+- Fácil de preparar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BLSPK7VP{{</world>}}

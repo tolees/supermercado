@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Temperatura de servicio:16º a 18ºC
-- Se recomienda un consumo responsible
-- Volumen de 700 ml
 - Con graduación de 36º
+- Se recomienda un consumo responsible
+- Temperatura de servicio:16º a 18ºC
+- Volumen de 700 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B071GNY7DG{{</world>}}

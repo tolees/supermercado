@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Comprometidos desde 1989 en no realizar test en animales, está dermatológicamente testado
-- Consigue, gracias a sus extractos naturales y sus activos libres de silicona, que el pelo rebelde se vea mucho más disciplinado, más limpio y sin escrespamiento durante más tiempo
 - Formulado con Aceite de Aguacate y Manteca de Karité, consiguen con su poder altamente suavizante y nutritivo un cabello mucho más brillante, sano y suave
+- Consigue, gracias a sus extractos naturales y sus activos libres de silicona, que el pelo rebelde se vea mucho más disciplinado, más limpio y sin escrespamiento durante más tiempo
 - Champú nutritivo y anti-encrespamiento que limpia e hidrata en profundidad sin apelmazar y disciplina los cabellos más rebeldes y difíciles de controlar
+- Comprometidos desde 1989 en no realizar test en animales, está dermatológicamente testado
 - En Garnier ayudamos a la conservación del medio ambiente apostando por un envase 100% reciclable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

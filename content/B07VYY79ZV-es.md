@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Pelo brillante y piel cuidada: Ácidos grasos omega-3 y omega-6, biotina y zinc
-- Mantiene su vitalidad: Gracias a las proteínas, vitaminas y minerales
-- Contribuye al mantenimiento de las barreras y defensas naturales: Gracias a omega-6, biotina, zinc y vitaminas C, D y E
-- Ayuda a reducir la formación de sarro: Gracias a su combinación de minerales y al tamaño especial de las croquetas
-- Pienso para perros adultos pequeños (hasta 10kg)
 - Croqueta adaptada
+- Pienso para perros adultos pequeños (hasta 10kg)
+- Ayuda a reducir la formación de sarro: Gracias a su combinación de minerales y al tamaño especial de las croquetas
+- Contribuye al mantenimiento de las barreras y defensas naturales: Gracias a omega-6, biotina, zinc y vitaminas C, D y E
+- Mantiene su vitalidad: Gracias a las proteínas, vitaminas y minerales
 - Fácil de digerir: Pollo y arroz, fuentes de proteínas e hidratos de carbono de fácil digestión
 
 [🛒 Comprar!!!]({{< param buyurl >}})

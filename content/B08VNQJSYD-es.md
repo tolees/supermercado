@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de 7 ml
 - Cuenta con ácido hialurónico que proporciona un acabado con labios rellenos
+- Producto de 7 ml
 - Un labial con brillo de larga duración con efecto voluminizador
 - Contiene colágeno que da forma por 24 horas
 

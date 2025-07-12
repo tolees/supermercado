@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Advertencia de seguridad: Orear antes de consumir; cortar en biselado y servir a temperatura ambiente; una vez abierto mantener refrigerado y consumir antes de 30 días
 - Instrucciones para su uso adecuado: Orear antes de consumir; cortar en biselado y servir a temperatura ambiente; una vez abierto mantener refrigerado y consumir antes de 30 días
-- Este chorizo de bellota 100 % ibérico está elaborado con la carne de la ganadería propia de sánchez romero carvajal, criada en libertad
 - Las piezas de carne son seleccionadas a partir de los magros como los cortes de paleta el aliño, elaborado según la receta de jabugo
+- Este chorizo de bellota 100 % ibérico está elaborado con la carne de la ganadería propia de sánchez romero carvajal, criada en libertad
 - Curado de forma tradicional, el resultado es una textura que funde en boca
+- Advertencia de seguridad: Orear antes de consumir; cortar en biselado y servir a temperatura ambiente; una vez abierto mantener refrigerado y consumir antes de 30 días
 - Ingredientes: Carne de cerdo 100 % ibérico, sal marina, pimentón, especias, dextrina, dextrosa, corrector de la acidez (Citrato trisódico) colorante (Ácido carmínico) conservadores (Nitrato de potasio y Nitrito sódico) antioxidante (Ascorbato de sodio)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

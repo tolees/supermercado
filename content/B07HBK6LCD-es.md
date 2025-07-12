@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MjAMjAM - porque es sabroso
-- Para nuestras comidas, empleamos mayoritariamente ingredientes procedentes de granjas regionales; criados y cultivados con mucho amor
 - Pienso acuoso para gatos. Proporción extraalta de carne. Vitaminas y minerales importantes. Sin cereales
 - Renunciamos a: Gluten y soja, Conservantes sintéticos, lactosa, azúcar
 - ver artículos individuales
+- Para nuestras comidas, empleamos mayoritariamente ingredientes procedentes de granjas regionales; criados y cultivados con mucho amor
+- MjAMjAM - porque es sabroso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07HBK6LCD{{</world>}}

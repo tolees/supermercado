@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gusto: Entrada en boca agradable e intensa. con denotación afrutada y a madera de barrica de roble frances.
-- Tipo de uva: Tempranillo
-- Aroma: Intenso y Complejo, con aromas de frutos rojos y negros.
-- Contenido de alcohol (alc/vol): 13.5 percent by volume
-- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 14°C y conservarlo en un lugar fresco y seco
 - Apariencia: Color rojo picota muy intenso, limpio y brillante
+- Tipo de uva: Tempranillo
+- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 14°C y conservarlo en un lugar fresco y seco
+- Aroma: Intenso y Complejo, con aromas de frutos rojos y negros.
+- Gusto: Entrada en boca agradable e intensa. con denotación afrutada y a madera de barrica de roble frances.
+- Contenido de alcohol (alc/vol): 13.5 percent by volume
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09FYBXS1V{{</world>}}

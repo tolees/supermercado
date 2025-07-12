@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conservar en lugar fresco y seco
-- El paquete puede variar
-- Cubiertas con una cáscara crujiente
-- Cacahuetes recubiertos en chocolate
-- Con un sabor dulce
 - Ideal para compartir
+- Cubiertas con una cáscara crujiente
+- Con un sabor dulce
+- El paquete puede variar
+- Cacahuetes recubiertos en chocolate
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Q54JRD1{{</world>}}

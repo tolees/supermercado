@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con un sabor dulce
-- Ideal para el desayuno
 - Se puede usar para postres
-- Crema de avellanas y cacao para untar
+- Ideal para el desayuno
 - Conservar en lugar fresco y seco
+- Crema de avellanas y cacao para untar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003VYVVHS{{</world>}}

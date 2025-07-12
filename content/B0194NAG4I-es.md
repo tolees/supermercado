@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Testado dermatológicamente
 - Adultos y adolescentes
-- Para uso diario de la zona íntima
-- Respeta el ph natural
 - Previene infecciones
+- Respeta el ph natural
+- Para uso diario de la zona íntima
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0194NAG4I{{</world>}}

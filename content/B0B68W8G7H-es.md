@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cerveza tipo lager Especial con 5.5% de alcohol en volumen y sin gluten
-- Cerveza dorada, brillante y con espuma blanca consistente; de cuerpo medio y aromas frescos y cítricos; destaca su equilibrio entre un amargor suave y matices de malta
-- Consumir entre 0° y 3°C para obtener sus máximas cualidades; ‎conservar el producto en un lugar limpio, seco y bien ventilado entre 5º y 15ºC
 - INGREDIENTES: AGUA, MALTA DE CEBADA, MAÍZ, LÚPULO Y EXTRACTO DE LÚPULO
 - Pack de 4 cajas de cerveza; 6 botellas de 20cl en cada caja
+- Consumir entre 0° y 3°C para obtener sus máximas cualidades; ‎conservar el producto en un lugar limpio, seco y bien ventilado entre 5º y 15ºC
+- Cerveza dorada, brillante y con espuma blanca consistente; de cuerpo medio y aromas frescos y cítricos; destaca su equilibrio entre un amargor suave y matices de malta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B68W8G7H{{</world>}}

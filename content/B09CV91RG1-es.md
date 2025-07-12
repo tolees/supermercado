@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una botella de 70 cl de whisky escocés Dewars French Smooth 8 Year Old Blended Scotch Whisky
-- Whisky escocés con un equilibrio de fruta dulce y especias, con manzanas verdes asadas y sidra de barril que contrarrestan las generosas dosis de canela y nuez moscada
-- Disfruta de este whisky solo, con hielo o en un cóctel como un Old Fashioned o un Coconut Highball, o regale una botella de Dewar´s French Smooth
 - Dewars es el Blended Scotch Whisky más premiado del mundo
+- Una botella de 70 cl de whisky escocés Dewars French Smooth 8 Year Old Blended Scotch Whisky
+- Disfruta de este whisky solo, con hielo o en un cóctel como un Old Fashioned o un Coconut Highball, o regale una botella de Dewar´s French Smooth
+- Whisky escocés con un equilibrio de fruta dulce y especias, con manzanas verdes asadas y sidra de barril que contrarrestan las generosas dosis de canela y nuez moscada
 - Whisky de mezcla de doble envejecimiento acabado en barricas de calvados (aguardiente de manzana)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con pigmentos negros para lograr un color negro más intenso, para conseguir una mirada más abierta y ojos más brillantes
 - Mega volumen, ahora más intenso
-- Longitud y definición optima
-- Aplicación suave y apara para ojos sensibles
 - Sensación ligera
+- Longitud y definición optima
+- Con pigmentos negros para lograr un color negro más intenso, para conseguir una mirada más abierta y ojos más brillantes
+- Aplicación suave y apara para ojos sensibles
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7WKZZFB{{</world>}}

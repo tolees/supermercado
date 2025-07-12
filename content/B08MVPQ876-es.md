@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entre sus botánicos destacan: enebro de italia, cilantro de la república checa, raíz de angélica, nuez moscada, canela y piel de naranjas españolas
-- Unidades: 1.0
-- Es un gin con un ligero color oro, y un aroma suave a cítricos, botánicos y hierbas de tocador
-- Contenido de alcohol (alc/vol): 40.0 percent_by_volume
-- Es una ginebra premium obtenida a través de la destilación de grano 100% americano
-- Seagrams dry gin nace de la mezcla y la doble destilación en frío de finos y exóticos botánicos, junto a los alcoholes más neutros en alambiques centenarios
-- Mantiene un sabor clásico que combina notas de enebro con toques herbáceos
 - Como servir: para saborear al maximo este gin, se recomienda servir con hielo, tonica y un twist de limon
-- Procedencia: united states
+- Mantiene un sabor clásico que combina notas de enebro con toques herbáceos
+- Es un gin con un ligero color oro, y un aroma suave a cítricos, botánicos y hierbas de tocador
+- Unidades: 1.0
+- Contenido de alcohol (alc/vol): 40.0 percent_by_volume
+- Seagrams dry gin nace de la mezcla y la doble destilación en frío de finos y exóticos botánicos, junto a los alcoholes más neutros en alambiques centenarios
+- Es una ginebra premium obtenida a través de la destilación de grano 100% americano
 - Volumen: 1.0 liters; tipo de alcohol: gins
+- Procedencia: united states
+- Entre sus botánicos destacan: enebro de italia, cilantro de la república checa, raíz de angélica, nuez moscada, canela y piel de naranjas españolas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08MVPQ876{{</world>}}

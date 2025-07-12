@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Armonioso y bien estructurado con un placentero retrogusto
+- Con un toque elegante a roble
 - Brillante color rojo rubí
 - Aromas de dulces e intensas grosellas negras
-- Con un toque elegante a roble
+- Armonioso y bien estructurado con un placentero retrogusto
 - Un claro ejemplo de un vino actual
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes: Garbanzo cocido 40% (garbanzo, agua) (origen fuera de la UE), Tahina (pasta de semillas de SÉSAMO) 30%, agua, sal, corrector de acidez: ácido cítrico
-- Alérgenos: Sésamo
-- Pruébalo con vegetales, chips, como acompañamientos de carnes y pescados, o en sándwiches
-- Sin conservantes, rico en Tahina 30%, 100% Natural, sin Gluten y apto para veganos
 - Delicioso dip de garbanzos con sésamo para disfrutar del auténtico sabor de Próximo Oriente
+- Pruébalo con vegetales, chips, como acompañamientos de carnes y pescados, o en sándwiches
+- Alérgenos: Sésamo
+- Sin conservantes, rico en Tahina 30%, 100% Natural, sin Gluten y apto para veganos
+- Ingredientes: Garbanzo cocido 40% (garbanzo, agua) (origen fuera de la UE), Tahina (pasta de semillas de SÉSAMO) 30%, agua, sal, corrector de acidez: ácido cítrico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0898DYY9Q{{</world>}}

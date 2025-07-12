@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - SALT EFERVESCENTS de Victory Endurance perteneciente a Weider, compañía global pionera en nutrición deportiva y especializada con más de 83 años ofreciendo calidad e innovación.
 - BENEFICIOS: Evita la deshidratación al mejorar la absorción de agua y mantiene los niveles de sales óptimos en entrenamientos incluso de larga duración.
-- MODO DE EMPLEO: Disolver 2 tabletas en 500ml de agua y consumir preferiblemente cada hora de actividad física.
-- COMODIDAD: Fácil disolución, refrecante y en formato compacto en forma de tabletas listas para disolver en agua o bebidas deportivas.
 - ALÉRGENOS: Apto par veganos, sin gluten y sin lactosa.
+- COMODIDAD: Fácil disolución, refrecante y en formato compacto en forma de tabletas listas para disolver en agua o bebidas deportivas.
+- MODO DE EMPLEO: Disolver 2 tabletas en 500ml de agua y consumir preferiblemente cada hora de actividad física.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07J5YR1VT{{</world>}}

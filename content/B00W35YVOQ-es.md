@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protector solar facial de uso diario con un factor de protección elevado contra los daños solares.
-- Para pieles grasas y con tendencia acneica.
-- Proporciona un tacto seco matificante de larga duración y un efecto antibrillos.
-- Tiene una textura ultraligera y de rápida absorción con un acabado de tacto seco.
 - Reduce el exceso de sebo con acción antibrillos hasta 8 horas.
+- Para pieles grasas y con tendencia acneica.
+- Tiene una textura ultraligera y de rápida absorción con un acabado de tacto seco.
+- Protector solar facial de uso diario con un factor de protección elevado contra los daños solares.
+- Proporciona un tacto seco matificante de larga duración y un efecto antibrillos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00W35YVOQ{{</world>}}

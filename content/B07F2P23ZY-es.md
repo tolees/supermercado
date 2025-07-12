@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ideales como aperitivo o para picar entre horas
-- Conservar en un lugar fresco y seco
 - Sabor jamón ibérico
+- Conservar en un lugar fresco y seco
 - Bolsa de tortitas de maíz
 - Crujientes y deliciosas
 

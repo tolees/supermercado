@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Máscara que aporta pestañas más espesas y voluminosas
-- Fórmula con pigmentos hiper-negros para unas pestañas de alto impacto.
 - Secado rápido
 - Fácil de desmaquillar con agua y jabón
+- Máscara que aporta pestañas más espesas y voluminosas
+- Fórmula con pigmentos hiper-negros para unas pestañas de alto impacto.
 - Oftalmológicamente testado, apto para usuarios de lentillas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

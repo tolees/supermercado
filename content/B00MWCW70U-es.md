@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido del envío – NIVEA Body Milk Nutritivo, leche corporal hidratante y nutritiva para pieles secas o muy secas, compatibilidad con la piel dermatológicamente comprobada, 1 x 625 ml
 - Hidratación intensiva – Esta leche hidratante corporal nutre intensamente la piel durante 72 horas, dejando la piel suave y con un aspecto saludable con cada aplicación
 - Fórmula mejorada – Esta crema corporal está infusionada con ácido hialurónico puro, aceite de almendras y sérum de nutrición profunda, para un cuidado corporal intensivo
+- Contenido del envío – NIVEA Body Milk Nutritivo, leche corporal hidratante y nutritiva para pieles secas o muy secas, compatibilidad con la piel dermatológicamente comprobada, 1 x 625 ml
 - Piel muy seca – Especialmente formulada para el cuidado de la piel seca o muy seca, esta crema para el cuerpo deja la piel más saludable con cada aplicación
 - Textura ligera – Esta crema nutritiva tiene una textura no grasa y de rápida absorción, para dejar tu piel visiblemente más suave y tersa tras cada aplicación
 

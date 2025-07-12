@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No testado en animales; vegano; fabricación íntegra en españa
-- Intenso perfume a fresas y cerezas; intensa y dulce fragancia
-- Libre de parabenos; dermatológicamente testado; crea mucha espuma
-- Género; unisex; adulto e infantil
 - Ingredientes: Aqua (Water); sodium Laureth Sulfate; sodium Chloride; cocamide DEA; cocamidopropyl Betaine; glycol Distearate; cocamide MEA; parfum (Fragrance); polyquaternium-7; pEG-7 Glyceryl Cocoate; sodium Benzoate; potassium Sorbate; glycerin; propylene Glycol; fragaria Ananassa Fruit Extract; prunus Avium Fruit Extract; guar Hydroxypropyltrimonium Chloride; pEG-55 Propylene Glycol Oleate; tetrasodium EDTA; citric Acid; c.I. 18050
 - Gel de baño y ducha pura pasión, aporta vitaminas beneficiosas para el cuidado de la piel, dejándola muy perfumada
+- No testado en animales; vegano; fabricación íntegra en españa
+- Género; unisex; adulto e infantil
+- Libre de parabenos; dermatológicamente testado; crea mucha espuma
+- Intenso perfume a fresas y cerezas; intensa y dulce fragancia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08MGNGSLN{{</world>}}

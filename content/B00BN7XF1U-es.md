@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidratación y limpieza profunda
 - Función Barrera que Activa el Sistema Inmune
+- Hidratación y limpieza profunda
 - Fomenta la Luminosidad de la Piel
 - Para Piel Secas
 

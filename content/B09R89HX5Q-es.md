@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fórmula Bifásica: 50% Fase de Aceite y 50% Fase de agua enriquecida con Aloe Vera Ecológico para una máxima frescura, ligereza e hidratación durante 8 horas
 - Gama de protección solar con doble beneficio: 1)Protege la piel de los daños solares causados por los rayos UVB y Uva y 2) Refresca e hidrata gracias a su fresca textura
+- Agitar antes de usar para homogeneizar el producto y aplicar antes de la exposición al sol aplicando generosamente con movimientos circulares por todo el cuerpo, Volver a aplicar frecuentemente
 - Spray Protector Facial y corporal de acabado transparente y rápida absorción, IP30 para bloquear la exposición al sol y para hidratar todo tipo de pieles
 - Contenido: 1x Garnier Delial, Spray Protector Solar Transparente de Alta Protección para Cuerpo y Rostro con Aloe Vera, UV Water, IP30, 150 ml
-- Fórmula Bifásica: 50% Fase de Aceite y 50% Fase de agua enriquecida con Aloe Vera Ecológico para una máxima frescura, ligereza e hidratación durante 8 horas
-- Agitar antes de usar para homogeneizar el producto y aplicar antes de la exposición al sol aplicando generosamente con movimientos circulares por todo el cuerpo, Volver a aplicar frecuentemente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09R89HX5Q{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto acondicionador
 - Agradable sensación en el pelo
 - Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
+- Producto acondicionador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KFG1NN4{{</world>}}

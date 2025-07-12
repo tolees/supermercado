@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Interior relleno de chocolate en espirales
-- Con cacao sostenible
-- Deliciosas y crujientes
 - Delicioso sabor del chocolate con leche cadbury
+- Con cacao sostenible
+- Interior relleno de chocolate en espirales
+- Deliciosas y crujientes
 - Almacenar en un sitio seco y oscuro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

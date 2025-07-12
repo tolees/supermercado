@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Color intenso hasta 8 horas
 - Refleja la luz como nunca antes gracias a su exclusivo complejo de pigmentos Black Diamond
 - Color nude, labio hidratado
-- Color intenso hasta 8 horas
 - Colección de labiales diseñados por Kate Moss
 - Tecnología Color Protect para proteger el color
 

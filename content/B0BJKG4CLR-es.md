@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Formato barril de 42g lleno con gominolas de cerveza de mantequilla. ¡Arriba las Copas con la bebida mágica más icónica!
-- Cerveza de mantequilla, la bebida más querida del mundo mágico, ¡ahora disponible en un caramelo masticable en forma de jarra!
 - Caramelos con forma de judía distintiva y con sabores surtidos de principio a fin, tanto en el centro como en la cubierta ligeramente crujiente.
 - Las gominolas sabor a cerveza de mantequilla (butterbeer) no contienen alcohol. Conservar en un lugar fresco y seco.
+- Cerveza de mantequilla, la bebida más querida del mundo mágico, ¡ahora disponible en un caramelo masticable en forma de jarra!
+- Formato barril de 42g lleno con gominolas de cerveza de mantequilla. ¡Arriba las Copas con la bebida mágica más icónica!
 - Dulces creados por Jelly Belly inspirados en el mundo Harry Potter, con el mismo sabor que las servidas en Las Tres Escobas (Three Broomsticks TM).
 
 [🛒 Comprar!!!]({{< param buyurl >}})

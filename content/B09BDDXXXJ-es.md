@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ideal para cualquier ocasión y evento
-- Este producto es sin gluten y contiene zumo de limón y aromas naturales
 - El producto contiene 150 gramos de gominolas margaritas
 - Bolsa de margaritas de sabores a cereza, melocotón, pera, mora y naranja
+- Este producto es sin gluten y contiene zumo de limón y aromas naturales
 - Formato práctico e higiénico que puedes llevar en el bolsillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

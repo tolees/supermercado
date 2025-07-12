@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estimula el cabello durante el lavado
-- Basado en la omisión intencionada de suavizantes
 - La estructura del cabello mejora con un mejor agarre
+- Estimula el cabello durante el lavado
 - El cabello fino se vuelve más fuerte y se puede peinar mejor
+- Basado en la omisión intencionada de suavizantes
 - Ayuda a preservar el crecimiento del cabello y a prevenir su caída
 
 [🛒 Aquí!!!]({{< param buyurl >}})

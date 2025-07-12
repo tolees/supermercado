@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mascarillas capilares inspiradas en las rutinas de belleza coreanas
 - Tratamiento acondicionador intensivo
-- El aceite de argán y el aloe vera suavizan y alisan el pelo
-- Mascarilla capilar Bear Fruits para un tratamiento capilar de hasta 30 minutos
 - Como una mascarilla facial pero para el pelo
+- El aceite de argán y el aloe vera suavizan y alisan el pelo
 - Aroma sorprendente y estimulante
+- Mascarilla capilar Bear Fruits para un tratamiento capilar de hasta 30 minutos
+- Mascarillas capilares inspiradas en las rutinas de belleza coreanas
 - Gorro de ducha flamenco ridículamente adorable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

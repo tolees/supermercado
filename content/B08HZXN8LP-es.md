@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- volumen 400 ml
-- nuestra formula instalast proporciona un acabado flexible y fijación, añadiendo brillo y volumen
 - para un control duradero y definido
+- volumen 400 ml
 - Producto de alto calidad
+- nuestra formula instalast proporciona un acabado flexible y fijación, añadiendo brillo y volumen
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HZXN8LP{{</world>}}

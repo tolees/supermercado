@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Los componentes solo están disponibles dentro de este pack
-- 100% café
-- Café soluble fácil de preparar: se disuelve en agua o leche
 - Café soluble con todo el aroma y todo el sabor gracias a la exquisita selección de nuestros granos de café y delicado tueste.
+- Café soluble fácil de preparar: se disuelve en agua o leche
 - Un frasco de 200g equivale a 100 tazas aproximadamente y uno de 275g a 137 tazas.
+- 100% café
 - Empieza cada mañana con el mejor desayuno con un café solo o café con leche.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

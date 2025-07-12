@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Protector Labial con protección alta (SPF 30) para labios hipersensibles al sol
 - Protección Alta UVB y UVA, para unos labios siempre perfectos
 - Gracias a su contenido en Ácidos Grasos nutre en profundidad sin engrasar
-- Protector Labial con protección alta (SPF 30) para labios hipersensibles al sol
 - Protege los labios de la oxidación gracias a su contenido en Vitamina E
 - Ayuda a la regeneración de los labios muy sensibles al sol gracias a la Rosa Mosqueta
 

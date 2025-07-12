@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aceite de Ducha Isdin Ureadin Calm 200 ml'
-date: 2025-06-18 11:51:40
+date: 2025-07-12 02:29:02
 image: 'https://m.media-amazon.com/images/I/31U8UYTKjzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ISDIN'
 buyurl: 'https://www.amazon.es/dp/B07ZP11PC1/?tag=tolees-21'
 descuento: '0.00'
-average: '8.92959999999999'
+average: '9.41999999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

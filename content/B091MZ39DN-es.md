@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Medalla de oro en Portugal Wine Trophy 2019
+- Vino tinto afrutado y de gran calidad
 - Óptimo con carnes a la brasa, guisos con salsas y quesos grasos
 - Vino chileno elaborado con uva Cabernet Sauvignon procedente de zonas próximas a la cordillera Andina
-- Vino tinto afrutado y de gran calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B091MZ39DN{{</world>}}

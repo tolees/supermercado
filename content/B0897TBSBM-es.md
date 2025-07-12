@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Una ginebra Bramble con los colores y los sabores que le otorga una infusión de fruta 100 % natural, sin azúcares añadidos ni esencias artificiales; óptimo para preparar cócteles creatives
-- Disfruta del clásico G&T, pero con un toque refrescante: sírvelo con hielo y unas gotas de limón; o si quieres un cóctel más creativo, pruébalo con un Bramble clásico, la bebida con la que todo empezó
 - La ginebra Bombay Bramble es una explosión del sabor 100 % natural de las moras y frambuesas recién cosechadas
 - Remueve la creatividad y regala Bombay Bramble, una Bombay Sapphire Dry Gin con un toque afrutado
+- Disfruta del clásico G&T, pero con un toque refrescante: sírvelo con hielo y unas gotas de limón; o si quieres un cóctel más creativo, pruébalo con un Bramble clásico, la bebida con la que todo empezó
 - Ginebra aromatizada con notas evidentes de frutos rojos de verano, complementados con intenso enebro y especias verdes para un final suavemente seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

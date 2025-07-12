@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DIMENSIONES Y MATERIAL: El material del decantador de whisky grabado en Globo es hecho de cristal y el estande de madera. El peso del globo de la jarra de vidrio es de 400 gramos, el peso de los vasos de whisky es de 240 gramos. Las dimensiones del set de whisky son 20 × 12 × 22 cm.
 - CONJUNTO DE GLOBO CON NAVE AUTÉNTICA: El Decantador de Whisky con forma de globo está hecho a mano con un hermoso barco dentro de la jarra para darle a tu whisky un gran toque. El set Decantador de Whiskey es increíble con el mundo bellamente pintado en el globo y en los vasos.
-- VASOS Y SOPORTE DE MADERA INCLUIDOS: la jarra de Whisky grabado en Globo se levanta mediante un soporte de madera que le permite girar la decantador como un globo real. Además, los dos vasos de whisky se incluyen con la jarra de whisky.
+- DIMENSIONES Y MATERIAL: El material del decantador de whisky grabado en Globo es hecho de cristal y el estande de madera. El peso del globo de la jarra de vidrio es de 400 gramos, el peso de los vasos de whisky es de 240 gramos. Las dimensiones del set de whisky son 20 × 12 × 22 cm.
 - DECANTADOR DE WHISKY HECHO A MANO: este decantador de whisky hecho a mano tiene la forma de un globo real especialmente hecho para verter su vaso de whisky, ron o coñac. La jarra de Whiskey en un forma de Globo viene con un soporte de madera en un empaque lujoso y 2 vasos de whisky el globo grabado.
+- VASOS Y SOPORTE DE MADERA INCLUIDOS: la jarra de Whisky grabado en Globo se levanta mediante un soporte de madera que le permite girar la decantador como un globo real. Además, los dos vasos de whisky se incluyen con la jarra de whisky.
 - REGALO IDEAL WHISKY: este Set Decantador de Globo viene en un empaque de MikaMax diseñado con una apariencia de lujo disponible en cuatro idiomas. El set Globe Decanter es un set de regalo de whisky ideal para regalar como regalo original. NOTA: EL WHISKY NO ESTÁ INCLUIDO CON EL PRODUCTO.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

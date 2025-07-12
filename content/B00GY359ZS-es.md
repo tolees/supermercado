@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene nutrientes que ayudarán al bebé a crecer
+- Una vez abierto conservar en el frigorífico
 - Es una fuente natural de calcio
 - Con un ligero y fresco sabor a plátano
 - Fabricado sin colorantes, conservantes ni sabores artificiales
-- Una vez abierto conservar en el frigorífico
+- Contiene nutrientes que ayudarán al bebé a crecer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00GY359ZS{{</world>}}

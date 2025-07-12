@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Refresco sin azúcares añadidos y sin calorías; contiene los azúcares naturalmente presentes en el zumo de naranja.
 - Refresco con un 4% de zumo de naranja.
 - Toma tu refresco solo o mezclado, bien frío con mucho hielo y una rodaja de naranja.
-- Deliciosa bebida refrescante con gas sabor Naranja.
 - Fanta Pack de 2 botellas de 2 litros para que disfrute toda la familia.
+- Refresco sin azúcares añadidos y sin calorías; contiene los azúcares naturalmente presentes en el zumo de naranja.
+- Deliciosa bebida refrescante con gas sabor Naranja.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZJPR1DY{{</world>}}

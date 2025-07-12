@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aporta hidratación a la piel
 - Piel fresca, hidratada y visiblemente más elástica
+- Aporta hidratación a la piel
 - Actuar entre 15 y 30 minutos
 - Elaborada con una fórmula hidratante de 100 % hidrogel y enriquecida con ácido hialurónico
 

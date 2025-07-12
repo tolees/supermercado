@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin grumos ni descamación; suave de aplicar y secado rápido
-- Levanta y estira las pestañas hasta 20 grados
 - Fórmula ligera, está enriquecida con vitamina C y phytocycle de naranja; brinda una apariencia fresca y revitalizada
-- Deja las pestañas fortalecidas y protegidas
 - Máscara Volume Glamour Volumateur de Bourjois da volumen a tu mirada
+- Deja las pestañas fortalecidas y protegidas
+- Levanta y estira las pestañas hasta 20 grados
+- Sin grumos ni descamación; suave de aplicar y secado rápido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CR6S2Y29{{</world>}}

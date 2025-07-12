@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bebida energética con ginseng
 - Con una burbuja fina y duradera
-- Proteger de la luz solar y de olores agresivos
 - Tiene contenido elevado de cafeína
+- Proteger de la luz solar y de olores agresivos
+- Bebida energética con ginseng
 - Realizado con niacina y vitaminas B6 y B12
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

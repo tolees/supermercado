@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Golosinas en forma de moras recubiertas de bolitas de caramelo.
 - Producto sin gluten apto para celíacos. Puede contener yrazas de leche.
+- Golosinas en forma de moras recubiertas de bolitas de caramelo.
 - Formato: bolsa de 1 kg. Cada bolsa contiene 645 unidades.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

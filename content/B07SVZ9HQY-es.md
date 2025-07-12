@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Un corrector mate que combina con tu piel a la perfección
-- No obstruye los poros
 - Cobertura total con acabado mate
+- No obstruye los poros
 - Neutraliza y camufla las imperfecciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

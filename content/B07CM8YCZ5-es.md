@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fórmula hidratante – Esta crema facial con protector solar y con la inconfundible fragancia de NIVEA SUN hidrata intensivamente y es ideal para un uso diario.
-- Contenido del envío – NIVEA SUN Protección Facial UV Control de Brillos FP50, 0% sensación pegajosa, 1 x 50 ml, tubo.
 - No pegajosa – La textura ligera de este protector solar facial proporciona a la piel del rostro una sensación no grasa, no pegajosa e invisible.
 - Efecto matificante – La fórmula de este protector facial solar tiene un efecto matificante instantáneo y absorbe el exceso de grasa de la superficie cutánea.
+- Contenido del envío – NIVEA SUN Protección Facial UV Control de Brillos FP50, 0% sensación pegajosa, 1 x 50 ml, tubo.
 - Protector solar 50 – Esta crema facial solar con FP50, protección UVA/UVB y derivados naturales antioxidantes protege la piel de los rayos solares.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

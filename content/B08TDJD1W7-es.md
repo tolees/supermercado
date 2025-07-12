@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apta para piel normal, seca y grasa
-- Prueba Olay a diario durante 28 días; Experimenta una transformación real de la piel
-- Protección ligera SPF30 con un acabado mate No pegajoso
-- Hidrata y redensifica la piel para darle un aspecto más firme y luminoso
-- Los productos Olay se crean en colaboración con más de 8000 mujeres al año
 - El resultado: una piel lisa y jugosa, protegida y sin brillos
+- Hidrata y redensifica la piel para darle un aspecto más firme y luminoso
+- Prueba Olay a diario durante 28 días; Experimenta una transformación real de la piel
+- Apta para piel normal, seca y grasa
+- Protección ligera SPF30 con un acabado mate No pegajoso
+- Los productos Olay se crean en colaboración con más de 8000 mujeres al año
 - Fórmula enriquecida con péptidos y vitamina B3
 
 [🛒 Visítala!!!]({{< param buyurl >}})

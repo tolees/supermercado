@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Mezcla de cafés arábica y robusta y el punto justo de cacao
 - Con vitamina A y D
 - Listo para servir
 - Bebida láctea con café y cacao
 - Se puede beber frío o caliente
-- Mezcla de cafés arábica y robusta y el punto justo de cacao
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07QTC8NXC{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Género: mujer.
-- Crema hidratante Nivea
-- Crema hidratante Nivea.
 - Ref. 44948.
+- Género: mujer.
+- Crema hidratante Nivea.
+- Crema hidratante Nivea
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01J7RUTLQ{{</world>}}

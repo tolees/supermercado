@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mayonesa elaborada siguiendo la receta tradicional con huevos de gallinas criadas en suelo origen España. Sin gluten, sin lactosa.
 - Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
+- Elaboración 100% tradicional
+- Mayonesa elaborada siguiendo la receta tradicional con huevos de gallinas criadas en suelo origen España. Sin gluten, sin lactosa.
 - Ideal para dar sabor a tus platos y ensaladas
 - Misma receta ahora en un nuevo envase con papel reciclable al contenedor azul
-- Elaboración 100% tradicional
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMGS5DXF{{</world>}}

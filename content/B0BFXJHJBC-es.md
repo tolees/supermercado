@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tableta de Chocolate con Leche rellena de Avellana y Caramelo
 - Descubre la gama Nestlé Extrafino Xtreme
-- Nuevos sabores fruto de la combinación de 3 capas, creando una experiencia buena
+- Descubre la gama Nestlé Extrafino Xtreme
+- Tableta de Chocolate con Leche rellena de Avellana y Caramelo
+- Extrafino Xtreme, Delicioso chocolate relleno con múltiples capas de placer
 - Nuevos sabores fruto de la combinación de 3 capas, creando una experiencia buena
 - Extrafino Xtreme, Delicioso chocolate relleno con múltiples capas de placer
+- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
 - Tableta de Chocolate con Leche rellena de Avellana y Caramelo
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
-- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
-- Extrafino Xtreme, Delicioso chocolate relleno con múltiples capas de placer
-- Descubre la gama Nestlé Extrafino Xtreme
+- Nuevos sabores fruto de la combinación de 3 capas, creando una experiencia buena
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BFXJHJBC{{</world>}}

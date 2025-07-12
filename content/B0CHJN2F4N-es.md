@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Producto de Reino Unido
-- Ginebra
-- Caja de 3 Botellas de 70 cl
 - Formato/Añada Comercializada actualmente por el productor
+- Caja de 3 Botellas de 70 cl
+- Ginebra
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CHJN2F4N{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para tus postres
-- Puede contener Huevos y/o productos a base de huevos
 - Te ayudan preparar de forma rápida y sencilla deliciosos platos
+- Puede contener Huevos y/o productos a base de huevos
+- Ideal para tus postres
 - Sabor vainilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})

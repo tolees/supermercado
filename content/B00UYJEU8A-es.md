@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hasta 6 horas de color, brillo e hidratación
-- Color brillante, labios suaves
 - Con un aplicador preciso para una fácil aplicación
 - Tecnología "Gloss Lock" que da un brillo elevado y duradero
+- Hasta 6 horas de color, brillo e hidratación
+- Color brillante, labios suaves
 - Fórmula con aceite de argán y vitamina E que ayuda a la hidratación
 
 [🛒 Aquí!!!]({{< param buyurl >}})

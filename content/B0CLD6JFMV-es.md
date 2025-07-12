@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin Sulfatos**. Sin perfume. Protege la barrera de la piel. **Sin tensioactivos sulfatados.
-- Aplicar dos veces al día. Masajear suavemente sobre la piel mojada. Aclarar. En caso de contacto con los ojos, lávense inmediata y abundantemente con agua.
-- Descubre la gama Pure Active de Garnier, tu mejor aliada para pieles con imperfecciones que limpia y purifica la piel.
-- Garnier Pure Active Gel Limpiador Hidratante facial enriquecido con Ácido Hialurónico, Ceramida y Arcilla, elimina las impurezas y minimiza la apariencia de los poros y la textura irregular mientras protege la barrera de la piel.
 - Resultados probados*: - Inmediatamente después del 1er uso: Sensación de piel calmada (100%) - Elimina suciedad, grasa, impurezas y maquillaje (96%) - Después de 2 semanas: Textura de la piel más suave (96%). - Sensación de piel más hidratada (96%). - Apariencia de piel renovada y más luminosa (98%) - Poros visiblemente reducidos (85%). *Autoevaluación, 60 mujeres.
+- Aplicar dos veces al día. Masajear suavemente sobre la piel mojada. Aclarar. En caso de contacto con los ojos, lávense inmediata y abundantemente con agua.
+- Garnier Pure Active Gel Limpiador Hidratante facial enriquecido con Ácido Hialurónico, Ceramida y Arcilla, elimina las impurezas y minimiza la apariencia de los poros y la textura irregular mientras protege la barrera de la piel.
+- Descubre la gama Pure Active de Garnier, tu mejor aliada para pieles con imperfecciones que limpia y purifica la piel.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLD6JFMV{{</world>}}

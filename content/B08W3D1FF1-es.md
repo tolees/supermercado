@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crianza sobre lías de 5 meses
-- Certificación ecológica y vegana
 - Vino fresco y afrutado, con aromas cítricos.
+- Certificación ecológica y vegana
 - Vino Blanco Ecológico D.O. Rueda
+- Crianza sobre lías de 5 meses
 - Elaborado con uva blanca Verdejo, procedente de viñedos de producción ecológica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

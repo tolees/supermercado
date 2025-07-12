@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dermatológicamente testado, pH Equilibrado, libre de alcohol y colorantes, libre de fragancias, formulación suave y delicado para la piel; Hecho con un 98% de agua, 100% fibras de celulosa, Scottex utiliza fibras certificadas FSC de fuentes responsables para cuidar del medio ambiente
-- Papel higiénico húmedo biodegradable (1) y sin plástico (2); (1) Biodegradable en agua según los estándares OECD – 301B/311; (2) Con respecto al producto. 100%* desechable por el WC (con un uso adecuado del producto); Envase hecho con 30% de plástico reciclado, excluyendo el cierre; Cierre protector de humedad; Envase 100% reciclable – verificar localmente
 - El papel higiénico húmedo Scottex es desechable por el inodoro y biodegradable; El complemento adrcuado para sentirte limpio y fresco; En tu rutina diaria, utilízalo junto al papel higiénico seco Scottex para una mejor sensación de limpieza
+- Papel higiénico húmedo biodegradable (1) y sin plástico (2); (1) Biodegradable en agua según los estándares OECD – 301B/311; (2) Con respecto al producto. 100%* desechable por el WC (con un uso adecuado del producto); Envase hecho con 30% de plástico reciclado, excluyendo el cierre; Cierre protector de humedad; Envase 100% reciclable – verificar localmente
+- Dermatológicamente testado, pH Equilibrado, libre de alcohol y colorantes, libre de fragancias, formulación suave y delicado para la piel; Hecho con un 98% de agua, 100% fibras de celulosa, Scottex utiliza fibras certificadas FSC de fuentes responsables para cuidar del medio ambiente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CVRWMM45{{</world>}}

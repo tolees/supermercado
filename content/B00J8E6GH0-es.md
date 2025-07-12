@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: Tratamiento corporal
 - Alta calidad
+- Tipo de producto: Tratamiento corporal
 - Brand: Instituto Español
 - Género: Unisex Adulto
 

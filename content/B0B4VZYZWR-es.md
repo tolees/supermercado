@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Seguro: Nuestra Pintura corporal a base de aceite no tóxico formulado para ser seguro y suave en la piel. El material respetuoso con la piel es seguro tanto para niños como para adultos
-- Multicolor: UCANBE Pintura facial viene en 20 colores de alta pigmentación para cubrir la piel perfectamente y crear un look único, tanto para la cara como para el cuerpo, tiene una cobertura de color más rica que los cosméticos ordinarios
-- Cómodo: Nuestra pintura facial tiene una textura cremosa con una fórmula húmeda y semiblanda que resulta cómoda sobre la piel y que debe fijarse con polvos fijadores para conseguir un acabado intransferible y unos resultados más duraderos
 - Fácil de usar: Nuestra pintura facial se aplica simplemente sobre el rostro o el cuerpo con un pincel o una esponja, los colores se pueden mezclar y para retirar la pintura basta con pasar un paño con aceite de oliva o un desmaquillante profesional resistente al agua
+- Cómodo: Nuestra pintura facial tiene una textura cremosa con una fórmula húmeda y semiblanda que resulta cómoda sobre la piel y que debe fijarse con polvos fijadores para conseguir un acabado intransferible y unos resultados más duraderos
+- Multicolor: UCANBE Pintura facial viene en 20 colores de alta pigmentación para cubrir la piel perfectamente y crear un look único, tanto para la cara como para el cuerpo, tiene una cobertura de color más rica que los cosméticos ordinarios
 - Versátil: Nuestra Pintura facial profesional para maquillaje de fiestas temáticas, carnavales, Halloween, cumpleaños, espectáculos, ideal para crear un look único
 
 [🛒 Comprar!!!]({{< param buyurl >}})

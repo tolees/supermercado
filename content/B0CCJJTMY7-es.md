@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Fuente de proteínas
 - Puede contener ocasionalmente trozos de cáscara
-- 200g, Paquete de 7
 - Alto contenido de fibra
 - Los niños pequeños se pueden atragantar con los frutos secos
-- Fuente de proteínas
-- No apto para alérgicos a otros frutos de cáscara y a los cacahuetes, debido al método de producción
 - Apto para dietas vegetarianas y veganas
+- 200g, Paquete de 7
+- No apto para alérgicos a otros frutos de cáscara y a los cacahuetes, debido al método de producción
 - Envasado en atmósfera protectora para mantener su frescura
 
 [🛒 Visítala!!!]({{< param buyurl >}})

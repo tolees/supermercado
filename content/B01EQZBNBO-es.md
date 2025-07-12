@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Extractos de mejillones para fortalecer cartílagos, articulaciones y huesos
-- Sin trigo & sin azúcar
-- Para perros sobrepesados de todas las razas
-- Muy reducido en energía (sólo un 6 % de grasa) y con fibras dietéticas para un control efectivo del peso
 - Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
+- Extractos de mejillones para fortalecer cartílagos, articulaciones y huesos
+- Para perros sobrepesados de todas las razas
+- Sin trigo & sin azúcar
+- Muy reducido en energía (sólo un 6 % de grasa) y con fibras dietéticas para un control efectivo del peso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01EQZBNBO{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alimento completo y equilibrado para perros adultos grandes (+30kg) de 15 meses a 6 años
-- Fácil digestión: ingredientes altamente digestibles
-- Función cardíaca: con taurina que contribuye al correcto funcionamiento del músculo cardíaco
 - Apoyo de las articulaciones: combinación sinérgica de condroitina y glucosamina para ayudar a mantener el cartílago articular
+- Función cardíaca: con taurina que contribuye al correcto funcionamiento del músculo cardíaco
+- Fácil digestión: ingredientes altamente digestibles
 - Cuidado de la piel y el pelo: gracias a los ácidos grasos omega 3 y omega 6 y al zinc
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

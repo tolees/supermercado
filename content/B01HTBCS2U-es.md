@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene menos grasa
-- Se puede servir como tal, con cereales o en café
 - Apta para niños y adultos intolerantes a la lactosa
 - Tiene un aporte de vitaminas
+- Se puede servir como tal, con cereales o en café
+- Contiene menos grasa
 - Leche semidesnatada sin lactosa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

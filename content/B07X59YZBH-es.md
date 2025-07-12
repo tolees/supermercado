@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apto especial para pescados y verduras, aunque también combina con postres
-- Botella de 750 ml envuelta en papel dorado
-- Con aceitunas Taggiasca monocultivo, recogidas y prensadas en frío de manera local
-- Envuelto para proteger el aceite de la oxidación y conservar su sabor natural
 - Visite nuestra BRAND STORE para descubrir toda la selección Le Terre di Colombo; enlace directo debajo del título del producto
 - Aroma sutil con notas dulces de almendra y fruta deshidratada
+- Con aceitunas Taggiasca monocultivo, recogidas y prensadas en frío de manera local
+- Apto especial para pescados y verduras, aunque también combina con postres
+- Envuelto para proteger el aceite de la oxidación y conservar su sabor natural
+- Botella de 750 ml envuelta en papel dorado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07X59YZBH{{</world>}}

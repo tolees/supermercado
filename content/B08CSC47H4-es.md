@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Café Intermezzo Linea Le Classiche de Segafredo Zanetti: mezcla de Robusta con carácter y Arabica Sudamericano para un equilibrio perfecto
 - El Café en Grano Intermezzo de la línea Le Classiche de Segafredo Zanetti es adecuado, con diferentes grados de molienda, para máquinas automáticas, tradicionales y cafeteras moka
-- Paquete conserva aroma: la válvula especial permite envasar el café recién tostado y molido para mantener todas las componentes aromáticas más preciadas dentro del paquete
 - Línea Clásica: el Café Intermezzo de Segafredo Zanetti se caracteriza por su intenso, decidido y corpulento sabor, con aromas a almendra
 - Muy alta intensidad: café con cuerpo muy consistente. Tostado oscuro. Ideal para aquellos que no renuncian a los aromas originales de los antiguos sabores
+- Paquete conserva aroma: la válvula especial permite envasar el café recién tostado y molido para mantener todas las componentes aromáticas más preciadas dentro del paquete
+- Café Intermezzo Linea Le Classiche de Segafredo Zanetti: mezcla de Robusta con carácter y Arabica Sudamericano para un equilibrio perfecto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08CSC47H4{{</world>}}

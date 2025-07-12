@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Refuerza huesos y defensas: La vitamina D favorece la absorción del calcio, mientras la vitamina A apoya la visión y la piel.
-- Pensada para todas las edades: Ideal para niños en crecimiento, adultos activos y embarazadas.
-- Sin gluten ni azúcares añadidos: Solo lo esencial: leche entera con el sabor de siempre y los nutrientes que necesitas.
 - Nutrición completa en cada vaso: Con vitaminas A y D, proteínas y calcio para el cuidado diario de toda la familia.
+- Pensada para todas las edades: Ideal para niños en crecimiento, adultos activos y embarazadas.
+- Refuerza huesos y defensas: La vitamina D favorece la absorción del calcio, mientras la vitamina A apoya la visión y la piel.
+- Sin gluten ni azúcares añadidos: Solo lo esencial: leche entera con el sabor de siempre y los nutrientes que necesitas.
 - Puleva, marca referente en calidad láctea, con décadas cuidando de la salud nutricional en los hogares.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

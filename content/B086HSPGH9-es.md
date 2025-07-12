@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para el cabello: Tratado de color
+- En asociación con el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
 - Con pH equilibrado y seguro para pelo teñido
 - Champú con aloe intenso y mango que ayuda a hidratar el cabello
 - 93 % De Origen Natural (Agua Purificada E Ingredientes De Origen Natural Poco Procesados)
-- En asociación con el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
+- Para el cabello: Tratado de color
 - Champú sin sulfatos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

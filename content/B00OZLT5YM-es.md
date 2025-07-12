@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con minerales, aceite de jojoba bio, provitamina B5 y pigmentos luminosos hidrata, ilumina, uniforma, corrige y protege la cara
 - Crema de uso diurno
 - Humectante de piel
+- Con minerales, aceite de jojoba bio, provitamina B5 y pigmentos luminosos hidrata, ilumina, uniforma, corrige y protege la cara
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00OZLT5YM{{</world>}}

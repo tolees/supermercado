@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Alto en fibra
 - País de Origen: España
 - Elaborada con aceite de girasol alto oleico
-- Alto en fibra
 - Sabor yogur con avena y frutos rojos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

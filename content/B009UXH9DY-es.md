@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Es ideal para cócteles
-- Formato para compartir con amigos o familia
 - Tiene un aroma intenso y un regusto agradable
+- Formato para compartir con amigos o familia
 - Licor de whisky canadiense con infusión de canela
 - Se sirve en chupitos muy fríos
 

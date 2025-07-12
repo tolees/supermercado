@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ayúdale a crecer fuerte y sano: los ácidos grasos esenciales son necesarios para el crecimiento y el desarrollo normales de los niños (1)
-- Sabor a chocolate: A los niños les encanta su sabo (2)
 - Apoya su atención y memoria: el hierro ayuda al desarrollo cognitivo normal de los niños
 - Ayuda a sus defensas: con vitamina D que contribuye al buen funcionamiento del sistema inmunitario de los niños
+- Ayúdale a crecer fuerte y sano: los ácidos grasos esenciales son necesarios para el crecimiento y el desarrollo normales de los niños (1)
+- Sabor a chocolate: A los niños les encanta su sabo (2)
 - Complementa su nutrición: Pediasure contiene nutrientes de los 5 grupos de alimentos como proteínas, 27 vitaminas y minerales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

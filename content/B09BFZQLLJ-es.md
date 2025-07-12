@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bueno poder aclarante
-- Aplique el producto sobre el cabello seco sin lavar; masajee el producto sobre su cabello y deje actuar 30 minutos; añada una pequeña cantidad de agua sobre el cabello y masajee de ; aclare abundantemente el cabello
 - La coloración permanente sin amoniaco con aceites florarles naturales potenciadores del color hasta 100% cobertura de canas
 - Rubio luminoso de larga duración
+- Aplique el producto sobre el cabello seco sin lavar; masajee el producto sobre su cabello y deje actuar 30 minutos; añada una pequeña cantidad de agua sobre el cabello y masajee de ; aclare abundantemente el cabello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BFZQLLJ{{</world>}}

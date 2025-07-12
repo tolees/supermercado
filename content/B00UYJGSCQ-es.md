@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esmalte de uñas de secado rápido
 - Con cepillo diseñado para una aplicación rápida y uniforme
 - Alto impacto de color y acabado ultra brillante
+- Esmalte de uñas de secado rápido
 - Cada pasada proporciona una base de color y un acabado protector brillante
 - Tecnología 3 en 1: base, color y top coat glossy
 

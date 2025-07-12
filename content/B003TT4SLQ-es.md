@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Royal Flan con Caramelo, preparado en polvo perfecto para un postre delicioso, rápido y fácil de preparar
 - Ideal para culminar tus celebraciones familiares con un postre que te llevará a la infancia
 - Postre rápido y sencillo, simplemente mezcla el preparado en polvo con leche, añade el caramelo, refrigera y disfruta
 - Creando Momentos Royal desde 1863, ayudándote a preparar postres deliciosos que te traen de vuelta a tu infancia. Royal contigo
+- Royal Flan con Caramelo, preparado en polvo perfecto para un postre delicioso, rápido y fácil de preparar
 - Pack de preparado en polvo. Incluye un sobre de 186 gramos y un sobre de caramelo líquido, ideal para 8 raciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

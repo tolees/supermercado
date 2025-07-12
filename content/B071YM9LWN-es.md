@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene polímeros seleccionado para la adherencia óptima de la piel
-- Alto contenido en pigmentos para un mayor acabado mate aterciopelado
-- A prueba de besos y roces
-- Fórmula con aceite de coco y vitamina E para proteger los labios
 - Color intenso, mate, y semipermanente
+- A prueba de besos y roces
+- Alto contenido en pigmentos para un mayor acabado mate aterciopelado
+- Contiene polímeros seleccionado para la adherencia óptima de la piel
+- Fórmula con aceite de coco y vitamina E para proteger los labios
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B071YM9LWN{{</world>}}

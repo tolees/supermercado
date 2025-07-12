@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Prepare la famosa ensalada griega mezclando tomates frescos, pepino, queso feta y las aceitunas Throuba. Termine cubriendo con aceite de oliva griego y orégano.
+- ¡Deliciosas y adoradas aceitunas Throuba! Una de las variedades de aceituna más extendidas en Grecia, única por su capacidad de madurar y brotar en el árbol antes de la recolección. También puede comerse directamente del olivo. Su color negro azabache es el resultado de una maduración natural sin añadidos artificiales.
+- Producto 100% natural | Productos 100% griegos | Sin sal | Sin aditivos | Apto para vegetarianos
 - Ricas en polifenoles, grasas saludables y fibra. Son una gran fuente de energía, vitaminas y antioxidantes.
 - Pruebe este delicioso regalo mediterráneo en un plato con queso amarillo y pan fresco acompañado de ouzo o cerveza. ¡Disfrute de este Meze griego en buena compañía!
-- Producto 100% natural | Productos 100% griegos | Sin sal | Sin aditivos | Apto para vegetarianos
-- ¡Deliciosas y adoradas aceitunas Throuba! Una de las variedades de aceituna más extendidas en Grecia, única por su capacidad de madurar y brotar en el árbol antes de la recolección. También puede comerse directamente del olivo. Su color negro azabache es el resultado de una maduración natural sin añadidos artificiales.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08F8QCM2C{{</world>}}

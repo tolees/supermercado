@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sin Jabón, sin colorantes, sin ftalatos. Bajo en sulfatos
-- Hidro-Genesse Gel de ducha
 - Hidro cream aporta las vitaminas, proteínas, minerales y lípidos que tu piel necesita para mantenerse hidratada y cuidada
-- Uso diario
 - Ayuda a relajarse y alivia el estrés diario
+- Uso diario
+- Hidro-Genesse Gel de ducha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B076QHKBB4{{</world>}}

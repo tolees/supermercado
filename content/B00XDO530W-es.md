@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Regusto fresco y floral que crea un brillo redondeado
-- Un sabor equilibrado de sabores dulces
 - Se puede usar para preparar cócteles
 - Tiene un aroma ligeramente dulce con un toque a vainilla
+- Un sabor equilibrado de sabores dulces
 - Color dorado claro, notas dulces y sutiles de chocolate con leche, vainilla y manzana roja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

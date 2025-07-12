@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Graduación: 12 %;
+- Elaborado por: FAMILIA TORRES;
+- La siguiente información se aplica a cada unidad del paquete
+- Variedades: Moscatel y gewürztraminer;
 - Origen: DO Catalunya, España;
 - Maridaje: Sublime con aperitivos de marisco, pescado y patés;
-- Variedades: Moscatel y gewürztraminer;
-- Elaborado por: FAMILIA TORRES;
-- Graduación: 12 %;
-- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CH2K8SW7{{</world>}}

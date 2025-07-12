@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No modifica la personalidad ni el nivel de energía del animal
-- Con Complejo Calmante Calostro, L-Triptófano y Vitamina B1
 - Calmapet es la alternativa segura, eficaz y sin efectos secundarios, que ayuda a la estabilidad emocional del perro de cualquier raza y edad.
+- No modifica la personalidad ni el nivel de energía del animal
 - Se puede administrar de manera puntual o de forma continuada. En casos puntuales, su efecto es visible a las 2 horas de la toma, aunque depende de la respuesta bioquímica del animal.
+- Con Complejo Calmante Calostro, L-Triptófano y Vitamina B1
 - Alimento complementario en formato soft chew de alta palatabilidad, que facilita la adaptación del animal al factor estresante, mejorando su bienestar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

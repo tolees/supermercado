@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ayuda a reparar la piel de la irritación, incluso después del depilado; desodorante roll-on 0% alcohol
 - Desodorante Antitranspirante Roll-On Dove Advanced Care Original 50 ml
-- Protección 48 horas
 - Desodorante Dove Antitranspirante con nuestra fórmula Advanced Care y Tecnología Triple Hidratante
+- Protección 48 horas
+- Ayuda a reparar la piel de la irritación, incluso después del depilado; desodorante roll-on 0% alcohol
 - Fragancia fresca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

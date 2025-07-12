@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia aromática-fresca, que rinde homenaje al oro, el más preciado, elegante y majestuoso de los metales, símbolo del sol... ¡Cómo este perfume!
-- FRAGANCIA ÚNICA: Nike Gold Edition es un perfume masculino con un carácter elegante y majestuoso que te empujará a disfrutar de los aromas más exquisitos y divinos. Viene en tres frascos vaporizadores de 30 mililitros cada uno
 - PIRÁMIDE OLFATIVA: Notas de salida: limón, pomelo, pimienta rosa y nuez moscada; Notas de corazón: madera de cedro, vetiver, jengibre y jazmín; Notas de fondo: pachulí, incienso, sándalo y ládano
-- PODEROSO Y MASCULINO: Un agua de colonia, para hombres, muy fresco y con una gran variedad de aromas que se fusionan con tus sentidos. Como el sol, esta colonia es sinónimo de pureza, valor y realeza.
 - ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
+- TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia aromática-fresca, que rinde homenaje al oro, el más preciado, elegante y majestuoso de los metales, símbolo del sol... ¡Cómo este perfume!
+- PODEROSO Y MASCULINO: Un agua de colonia, para hombres, muy fresco y con una gran variedad de aromas que se fusionan con tus sentidos. Como el sol, esta colonia es sinónimo de pureza, valor y realeza.
+- FRAGANCIA ÚNICA: Nike Gold Edition es un perfume masculino con un carácter elegante y majestuoso que te empujará a disfrutar de los aromas más exquisitos y divinos. Viene en tres frascos vaporizadores de 30 mililitros cada uno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLHV4G1S{{</world>}}

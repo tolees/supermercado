@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Distribución equitativa
 - Para estilos inmediatos y duraderos que necesitan un agarre fuerte
 - Fácil de peinar
+- Distribución equitativa
 - No deja residuos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

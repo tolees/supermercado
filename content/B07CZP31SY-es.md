@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Podemos definir Daura como el sabor de "la cerveza de siempre", ya que se elabora con su principal ingrediente: malta de cebada.
-- Daura fue lanzada en 2006. Desde entonces ha recibido numerosos premios de prestigiosos certámenes internacionales, siendo reconocida como la mejor cerveza sin gluten del mundo.
-- Pack de 24 latas 33cl.
-- Contiene menos de 3 ppm (muy por debajo de los 20 permitidos en el Codex Alimentarius para los celíacos).
-- La cerveza sin gluten más premiada del mundo por su sabor.
 - Alc. 5,4% vol.
+- Contiene menos de 3 ppm (muy por debajo de los 20 permitidos en el Codex Alimentarius para los celíacos).
+- Podemos definir Daura como el sabor de "la cerveza de siempre", ya que se elabora con su principal ingrediente: malta de cebada.
+- Pack de 24 latas 33cl.
+- La cerveza sin gluten más premiada del mundo por su sabor.
+- Daura fue lanzada en 2006. Desde entonces ha recibido numerosos premios de prestigiosos certámenes internacionales, siendo reconocida como la mejor cerveza sin gluten del mundo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CZP31SY{{</world>}}

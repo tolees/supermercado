@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Sin sensación de talco o aspereza en la piel
 - Difumina y suaviza para obtener un acabado de velo sedoso indetectable
-- Su aplicación es muy cómoda gracias a su fórmula microfina
 - Polvos translúcidos matificantes fijadores de maquillaje
+- Su aplicación es muy cómoda gracias a su fórmula microfina
 - Aportan una fijación duradera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Nuestro Champú Reparador, potenciado con un 2% de concentrado reparador con Keratina XS, revive instantáneamente el pelo dañado
 - Nuestros envases están producidos con plástico 100% reciclado y son 100% reciclables
-- Pelo frágil, Enredado, Deshidratado, Se te rompe, Puntas abiertas: 5 PROBLEMAS, 1 SOLUCIÓN
 - Consigue un pelo hasta 100% reparado en sólo 5 días; RETO5DÍAS
+- Pelo frágil, Enredado, Deshidratado, Se te rompe, Puntas abiertas: 5 PROBLEMAS, 1 SOLUCIÓN
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LNQ5VLC{{</world>}}

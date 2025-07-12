@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en lugar fresco y seco
 - Cubiertas con una cáscara crujiente
-- Ideal para compartir
 - Con un sabor dulce
 - Chocolate rodeado por una colorida cobertura fina y crujiente.
+- Conservar en lugar fresco y seco
+- Ideal para compartir
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01EMLMT9M{{</world>}}

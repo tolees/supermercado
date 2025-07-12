@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Cera de soja natural】: 100% cera de soja, un producto natural con combustión ultra limpia, baja contracción y ligera fragancia. 1000 g de cera de soja son suficientes para hacer muchas velas.
+- 【5 aceites aromáticos y 5 colorantes】: los aromas incluyen rosa, limón, primavera, lavanda y vainilla. Uso de materias primas naturales, sin olor acre. Puede personalizar a su gusto.
 - 【Moldes de velas de alta calidad】: A diferencia de otros productos, los moldes de vela de Anpro utilizan una tecnología especial que permite que la vela se deslice fácilmente fuera del molde de vela sin dañar la vela durante el proceso de fabricación.
+- 【Cera de soja natural】: 100% cera de soja, un producto natural con combustión ultra limpia, baja contracción y ligera fragancia. 1000 g de cera de soja son suficientes para hacer muchas velas.
 - 【Kit de fabricación de velas para principiantes e intermedios】: Este kit de fabricación de velas es adecuado para todos los niveles y contiene todo lo que necesitas para empezar a fabricar velas perfumadas caseras. No es necesario comprar accesorios adicionales y las instrucciones detalladas son esenciales para los principiantes para ofrecer una experiencia perfecta de fabricación de velas.
 - 【Juego completo de fabricación de velas】: El kit de vela para hacer yo mismo adulto contiene 4 x 250 g de cera de soja, 1 jarra de acero inoxidable de 900 ml, 1 cuchara de mezcla, 1 termómetro, 3 cajas de velas de fantasía, 3 cajas de velas plateadas. 5 aceites perfumados, 6 bolsas de regalo, 10 bloques de coloración, 6 placas de fijación de la mecha, 2 pegatinas de bricolaje, 3 etiquetas, 50 mechas de vela, 1 manual de instrucciones (idioma español no garantizado). Muy adecuado para principiantes "
-- 【5 aceites aromáticos y 5 colorantes】: los aromas incluyen rosa, limón, primavera, lavanda y vainilla. Uso de materias primas naturales, sin olor acre. Puede personalizar a su gusto.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09GFMDBZP{{</world>}}

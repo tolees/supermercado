@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en lugar fresco y seco
-- Edición gourmet
-- Sin colorantes artificiales
 - Patatas fritas con sal
+- Edición gourmet
+- Conservar en lugar fresco y seco
+- Sin colorantes artificiales
 - Producto envasado en atmósfera protectora
 
 [🛒 Comprar!!!]({{< param buyurl >}})

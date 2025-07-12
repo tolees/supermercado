@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene vitamina D, K y B12
-- Una vez abierto se debe mantener refrigerado
-- Producto de España
 - Ideal para cualquier edad
+- Producto de España
+- Una vez abierto se debe mantener refrigerado
+- Contiene vitamina D, K y B12
 - Leche semidesnatada con calcio
 
 [🛒 Visítala!!!]({{< param buyurl >}})

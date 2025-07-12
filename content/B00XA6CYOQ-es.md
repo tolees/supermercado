@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Eficaz contra las manchas
+- Directo al cajetín: Disolución Total
+- A la Lavadora.... y Punto !
+- Protección de los Colores en la colada
 - Paquete con 4 lavados (8 pastillas)
 - Cada dosis se compone de 2 pastillas empaquetadas
-- Directo al cajetín: Disolución Total
-- Protección de los Colores en la colada
-- A la Lavadora.... y Punto !
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA6CYOQ{{</world>}}

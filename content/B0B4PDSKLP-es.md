@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CARBO BOOST GEL de Victory Endurance, perteneciente a Weider, compañía global pionera en nutrición deportiva y especializada con más de 83 años ofreciendo calidad e innovación
 - CON BCAAs 2:1:1 + SODIO: Además, Carbo Boost Gel contiene sodio, para compensar la perdida en el sudor durante el ejercicio, así como aminoacidos ramificados esenciales, contribuyendo al crecimiento y recuperación musular
-- SIN ALÉRGENOS: Carbo Boost Gel está sin gluten y totalmente apto para vegano; disponible en 3 sabores: neutro, manzana verde, café (con cafeina); un producto para todos los públicos!
 - ENERGÍA INMEDIATA & DURADERA: Carbo Boost Gel es la combinación optimo de hidratos de carbono complejos (lentos) y simples (rápidos), con hasta 50g/gel, que proporciona la energía necesaria para el ejercicio físico prolongado, además de reducir calambres y reponer, de forma inmediata, la pérdida de electrolitos
 - ¡LLÉVATELO CONTIGO A TODAS PARTES!: Gracias a su formato y tamaño práctico, puedes tomarlo dónde y cuando quieras; no requiere ninguna preparación! Gracias a su formato de gel, es facíl de tomar. (recomendado tomar 30-45 min antes del ejercicio)
+- SIN ALÉRGENOS: Carbo Boost Gel está sin gluten y totalmente apto para vegano; disponible en 3 sabores: neutro, manzana verde, café (con cafeina); un producto para todos los públicos!
+- CARBO BOOST GEL de Victory Endurance, perteneciente a Weider, compañía global pionera en nutrición deportiva y especializada con más de 83 años ofreciendo calidad e innovación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4PDSKLP{{</world>}}

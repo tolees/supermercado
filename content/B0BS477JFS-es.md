@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - BOMBONES! ¡Combina los tallos de pompón para crear el pelaje de tu peluche! ¡Todo dulce y colorido!
 - ¡DESBORRA los tallos Pompones para un pelaje suave y colorido!
-- FUNCIÓN ÚNICA: ¡Su cuerno cambia de color con el calor de tus manos! ¡Descubre el Conejo, el Lama o el León!
-- Edad: para niños a partir de 3 años.
 - CONJUNTO & CREA tus propias pelusas!
+- Edad: para niños a partir de 3 años.
+- FUNCIÓN ÚNICA: ¡Su cuerno cambia de color con el calor de tus manos! ¡Descubre el Conejo, el Lama o el León!
 - ACCESORIOS: Pon el toque final con los accesorios para personalizar tus pompones Lovers!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

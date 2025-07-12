@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 🌷Nutritivo e Hidratante: El labial Oulac, con su fórmula enriquecida con Manteca de Karité, Ácido Hialurónico y Aceite de Rosa de Damasco, hidrata profundamente tus labios. Brinda una comodidad duradera y conserva su suavidad natural, combatiendo la sequedad.
 - 🌷100% Vegano y Sin Gluten: Certificado y aprobado por PETA, nuestra marca respeta a los animales y no realiza pruebas. Nuestro producto, de alta calidad, saludable y seguro, garantiza una experiencia de uso con total confianza.
-- 🌷Altamente Pigmentado: Oulac Sensual Glow Rich Crème Rouge à Lèvres ofrece colores ultra saturados en un solo gesto, con una cobertura de media a alta que proporciona tonos ricos y vibrantes.
 - 🌷Acabado Satinado: Un acabado satinado combinado con una textura cremosa. La aplicación ultraligera ofrece una sensación fundente y suave como el terciopelo, para una comodidad pura y duradera.
+- 🌷Altamente Pigmentado: Oulac Sensual Glow Rich Crème Rouge à Lèvres ofrece colores ultra saturados en un solo gesto, con una cobertura de media a alta que proporciona tonos ricos y vibrantes.
 - 🌷Amplia Gama de Tonos: Desde suaves nude hasta clásicos rojos, con un toque satinado. Su textura cremosa y delicada es adecuada para todos los tipos de piel. Los tonos naturales son ideales para uso regular.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

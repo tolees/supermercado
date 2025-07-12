@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rápido y fácil de preparar
-- Fabricado en Italia
 - Tubos de pasta Penne Rigate hechos de trigo duro
+- Fabricado en Italia
 - Perfecto con tus recetas favoritas de pasta italiana
+- Rápido y fácil de preparar
 - Forma tubular para contener más salsa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

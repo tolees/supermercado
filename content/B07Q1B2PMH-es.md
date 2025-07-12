@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MEDIDAS - 140 cm de largo x 200 cm de ancho. Único e versátil. HECHO EN TURQUIA.
-- CREA – Una mesa maravillosa y distinguida para disfrutar junto a su familia y amigos.
 - PERFECTO – Para cualquier ocasión en casa, fiesta, hotel, restaurant, café, cocina, comedor.
+- CREA – Una mesa maravillosa y distinguida para disfrutar junto a su familia y amigos.
+- MEDIDAS - 140 cm de largo x 200 cm de ancho. Único e versátil. HECHO EN TURQUIA.
 - MATERIAL – Tela 100% Polyester con acabado satinado y bordes cosidos a mano.
 - APTO LAVADORA – Con agua fría. Fácil de Limpiar. Durable para uso Exterior e Interior.
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente al agua
 - Reduce los brillos no deseados de la piel
+- Resistente al agua
 - Hidrata e ilumina la piel
 - Proporciona un efecto matificante, con toque seco, adecuado para la piel normal, mixta y grasa
 

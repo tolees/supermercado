@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fórmula fácil de aplicar que se desliza sin esfuerzo
+- Enriquecida con ingredientes acondicionadores
 - Sombras de Ojos color de óptimo impacto al instante
 - A prueba de manchas, ni pliegues; no deja restos
 - Formula sin perfume, no testeada en animales y vegana
-- Enriquecida con ingredientes acondicionadores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQRGCDPN{{</world>}}

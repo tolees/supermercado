@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Medidas: 3 x 7 x 7,5 centímetros
-- Champú Sólido de la marca Garnier
-- Color: multicolor
 - ¡Si quieres mejorar tu imagen y realzar la belleza de tu cabello!
+- Color: multicolor
+- Champú Sólido de la marca Garnier
 - Referencia del fabricante: S05109516
+- Medidas: 3 x 7 x 7,5 centímetros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C257QWDZ{{</world>}}

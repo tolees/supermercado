@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se debe conservar en un lugar fresco y seco
-- Óptimo para toda la familia
 - Todos los beneficios y propiedades del pescado azul
-- Sardinas en aceite de oliva bajas en sal
+- Óptimo para toda la familia
+- Se debe conservar en un lugar fresco y seco
 - Cuida tu ingesta de sal sin renunciar al óptimo sabor
+- Sardinas en aceite de oliva bajas en sal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IU8E50Y{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula sin aluminio
-- ¡Prueba toda la nueva gama Axe!
-- Fragancia Dark Temptation con aroma a chocolate negro
-- Combate el mal olor, fragancias irresistibles
 - Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
 - Antitranspirante: huele irresistible durante 48 horas
+- Combate el mal olor, fragancias irresistibles
+- Fórmula sin aluminio
+- Fragancia Dark Temptation con aroma a chocolate negro
+- ¡Prueba toda la nueva gama Axe!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08R9NZFZZ{{</world>}}

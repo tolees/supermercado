@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lagarto Escamas Hipoalergénicas 400 Gr
 - Muy cuidadoso con los tejidos
+- Lagarto Escamas Hipoalergénicas 400 Gr
 - Producto que combina tradición con innovación
-- Producto respetuoso con le medio ambiente
 - Elimina las manchas más difíciles
+- Producto respetuoso con le medio ambiente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08DS9NQQR{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- cuenta con el control y certificación de la producción ecológica.
 - y ahora, ¡también sin lactosa!
 - proviene de granjas ecológicas.
-- cuenta con el control y certificación de la producción ecológica.
 - puleva: bienestar para disfrutar de la vida.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
