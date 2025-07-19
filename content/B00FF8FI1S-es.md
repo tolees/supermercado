@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Es ideal para disfrutar en buena compañía, solo o con ginger ale y una rodaja de naranja
 - Envejecido durante 8 años en barricas de roble americano
 - En nariz percibimos intensos aromas florales, notas especiadas, ahumados
-- De color ámbar dorado y apariencia ligera
 - En boca es suave y cremoso, se percibe la turba con vainilla, mazapán, manzana y cítricos
+- De color ámbar dorado y apariencia ligera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FF8FI1S{{</world>}}

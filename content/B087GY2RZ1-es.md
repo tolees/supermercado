@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este protector con textura ligera y no grasa ayuda a corregir las imperfecciones gracias a su toque de color, que unifica la piel aportando un tono natural. Efecto de buena cara al instante. Además, gracias al exclusivo Cellular Defense, fortalece las defensas antioxidantes de la piel a la vez que previene las quemaduras solares
-- Su eficacia ha sido clínicamente probada. Fórmula mejorada biodegradable, vegana y con una botella 100% reciclable. Ofrece resultados visibles en tan solo 4 semanas. No Comedogénico
-- Fluido de protección solar SPF50+ que protege de las quemaduras solares y refuerza las defensas antioxidantes de la piel, previniendo la aparición de manchas
 - La nueva generación de post solares, gracias a su fórmula con viteox 80 protege tu rostro de los rayos UVA, UVB e Infrarrojos. Enriquecido también con Cellular Protect Complex
+- Su eficacia ha sido clínicamente probada. Fórmula mejorada biodegradable, vegana y con una botella 100% reciclable. Ofrece resultados visibles en tan solo 4 semanas. No Comedogénico
+- Este protector con textura ligera y no grasa ayuda a corregir las imperfecciones gracias a su toque de color, que unifica la piel aportando un tono natural. Efecto de buena cara al instante. Además, gracias al exclusivo Cellular Defense, fortalece las defensas antioxidantes de la piel a la vez que previene las quemaduras solares
+- Fluido de protección solar SPF50+ que protege de las quemaduras solares y refuerza las defensas antioxidantes de la piel, previniendo la aparición de manchas
 - Su combinación con Ecran Aftersun Antimanchas sérum reparador 50ml consigue prevenir y reducir las manchas en tan solo 4 semanas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

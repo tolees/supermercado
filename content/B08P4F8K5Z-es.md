@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 6 botellas de Coors. Alc.4,0 percent Vol. La receta de las montañas rocosas en estados unidos y un proceso de fermentación logran un sabor puro y ligero que resulta muy refrescante
 - Dirección Comercial: Av. de la Industria 155A, Numancia de la Sagra (Toledo). España.
+- 6 botellas de Miller genuine draft. Alc. 4,7 percent vol. Miller genuine draft nació como la cerveza de barril envasada y filtrada en frío
+- 6 botellas de Staropramen Premium. Alc. 5,0 percent vol. Staropramen es una cerveza Premium de tipo pilsner, la cerveza característica de Praga, producida según la tradición checa
 - Caja de 24 botellas de 33cl
 - Pack 24 botellas de 4 variedades de Lagers del mundo
-- 6 botellas de Staropramen Premium. Alc. 5,0 percent vol. Staropramen es una cerveza Premium de tipo pilsner, la cerveza característica de Praga, producida según la tradición checa
+- 6 botellas de Coors. Alc.4,0 percent Vol. La receta de las montañas rocosas en estados unidos y un proceso de fermentación logran un sabor puro y ligero que resulta muy refrescante
 - 6 botellas de La Sagra Lager. Alc. 5,2 percent vol. Resultado de la fusión del saber hacer de nuestros maestros cerveceros con el proceso tradicional de elaboración checo
-- 6 botellas de Miller genuine draft. Alc. 4,7 percent vol. Miller genuine draft nació como la cerveza de barril envasada y filtrada en frío
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08P4F8K5Z{{</world>}}

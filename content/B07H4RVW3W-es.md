@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Carga en el desayuno la energía que necesitas para empezar el día con las deliciosas y originales Galletas María
 - País de origen: España
 - Tómalas como más te gustan: solas, bañadas en leche, acompañando tu yogur favorito
+- Carga en el desayuno la energía que necesitas para empezar el día con las deliciosas y originales Galletas María
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07H4RVW3W{{</world>}}

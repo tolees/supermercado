@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Adecuado para polvo de espresso molido (1 o 2 tazas) o cápsulas E.S.E predosificadas. -
-- Función agua caliente.
 - Almacenamiento de accesorios para filtros incluido en la entrega. (Para 1 o 2 tazas y para el uso de cápsulas E.S.E.) -
-- Portafiltros profesional con acabado de aluminio. 2 termostatos separados para controlar la temperatura del agua y el vapor
 - Sistema Cappuccino: la boquilla espumadora de leche mezcla vapor, aire y leche para obtener una espuma especialmente cremosa para un capuchino perfecto.
+- Función agua caliente.
+- Portafiltros profesional con acabado de aluminio. 2 termostatos separados para controlar la temperatura del agua y el vapor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B013GDEAI0{{</world>}}

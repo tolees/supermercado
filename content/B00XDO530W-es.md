@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Regusto fresco y floral que crea un brillo redondeado
 - Tiene un aroma ligeramente dulce con un toque a vainilla
 - Color dorado claro, notas dulces y sutiles de chocolate con leche, vainilla y manzana roja
-- Regusto fresco y floral que crea un brillo redondeado
 - Se puede usar para preparar cócteles
 - Un sabor equilibrado de sabores dulces
 

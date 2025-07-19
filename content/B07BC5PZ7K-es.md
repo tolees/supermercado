@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ayuda a resaltar el rostro y esculpirlo a través de la técnica strobing
 - Iluminador color champagne que aporta brillo y color a todos los tonos de piel
 - Proporciona un brillo natural a la piel
-- Ayuda a resaltar el rostro y esculpirlo a través de la técnica strobing
 - Textura suave y ligera hace que el producto sea fácil de aplicar
 - Aplicado en las partes apropiadas de la cara ayuda a conseguir un aspecto radiante
 

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Acondiciona el cabello y protege las fibras capilares
-- Complemento para los tratamientos farmacológicos del cuero cabelludo seborreico
 - Elimina la caspa más resistente, previene su aparición y alivia el picor
+- Complemento para los tratamientos farmacológicos del cuero cabelludo seborreico
 - Probado dermatológicamente, deja el cabello suave y fácil de peinar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

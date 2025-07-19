@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Nota de cata (vista): Color rojo intenso con ribetes azulados. Muy brillante y nítido.
 - Nota de cata (nariz): Presenta un amplio abanico de frutos rojos, ciruela, notas balsámicas, especiadas y toques de cedro.
 - Se recomienda su consumo durante el año posterior a la cosecha. Serv ir entre 16 y 18ºC.
 - Nota de cata (boca): Entrada suave, envolvente, con grato recuerdo a fruta confitada. Equilibrado, cálido, con taninos suaves y buena persistencia.
 - Varietales: Cabernet Sauvignon, Merlot, Tempranillo
-- Nota de cata (vista): Color rojo intenso con ribetes azulados. Muy brillante y nítido.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09HS7R43Z{{</world>}}

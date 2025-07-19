@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Brand: Revlon Professional ProYou
 - Limpia el cabello rizado y ondulado dejándolo hidratado
-- Nuestra tecnología insta bounce te ayudará a definir las ondas y los rizos, aumentando la hidratación y el brillo en los cabellos con curvas u ondulados
+- Brand: Revlon Professional ProYou
 - Volumen 1000 ml
+- Nuestra tecnología insta bounce te ayudará a definir las ondas y los rizos, aumentando la hidratación y el brillo en los cabellos con curvas u ondulados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HZZPT1W{{</world>}}

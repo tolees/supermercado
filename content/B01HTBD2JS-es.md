@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los batidos Puleva se realizan a partir de leche de primera calidad, por lo que constituyen un alimento de alto valor nutritivo
-- Aportan proteínas, hidratos de carbono y calcio. Complemento ideal para media mañana y merienda
 - Batido Chocolate Minibrick Pack 30 unidades
+- Aportan proteínas, hidratos de carbono y calcio. Complemento ideal para media mañana y merienda
+- Los batidos Puleva se realizan a partir de leche de primera calidad, por lo que constituyen un alimento de alto valor nutritivo
 - Elaboración con base en leche semidesnatada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

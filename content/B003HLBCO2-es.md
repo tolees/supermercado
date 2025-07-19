@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONSEJOS DE USO: Aplica la crema generosamente sobre la piel limpia y seca, masajeando suavemente hasta que se absorba completamente, úsala diariamente, preferiblemente después del baño o la ducha
-- GREEN TEA LOCIÓN CORPORAL: Esta sedosa crema hidratante combina el máximo cuidado, una hidratación intensiva y una fragancia vigorizante: los ingredientes naturales, en combinación con el refrescante extracto de té verde, garantizan una textura de la piel nutrida y suave y una fragancia agradablemente revitalizante durante todo el día
 - CUIDA TU PIEL: Esta sedosa loción corporal nutre, calma y fortalece la piel seca gracias al fragante extracto de té verde, la miel y la manteca de karité, dejándola delicadamente perfumada
-- RECOMENDACIONES: Para complementar tu rutina de cuidado con Green Tea Eau, prueba el resto de lociones y fragancias de Green Tea; disfruta de una experiencia sensorial completa con la frescura revitalizante del té verde
 - NATURAL Y AFRUTADO: Las notas de salida afrutadas se complementan con notas de corazón especiadas y se completan con intensas notas de fondo
+- GREEN TEA LOCIÓN CORPORAL: Esta sedosa crema hidratante combina el máximo cuidado, una hidratación intensiva y una fragancia vigorizante: los ingredientes naturales, en combinación con el refrescante extracto de té verde, garantizan una textura de la piel nutrida y suave y una fragancia agradablemente revitalizante durante todo el día
+- CONSEJOS DE USO: Aplica la crema generosamente sobre la piel limpia y seca, masajeando suavemente hasta que se absorba completamente, úsala diariamente, preferiblemente después del baño o la ducha
+- RECOMENDACIONES: Para complementar tu rutina de cuidado con Green Tea Eau, prueba el resto de lociones y fragancias de Green Tea; disfruta de una experiencia sensorial completa con la frescura revitalizante del té verde
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B003HLBCO2{{</world>}}

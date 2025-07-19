@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Comodidad
-- Textura cremosa y suave
-- Tecnología Color Protect para un color inalterable
-- Color intenso
 - Larga duración, hasta 8h
+- Textura cremosa y suave
+- Comodidad
+- Color intenso
+- Tecnología Color Protect para un color inalterable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09ZYTDVK3{{</world>}}

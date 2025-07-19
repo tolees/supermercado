@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sabor: En boca la cerveza lata Mahou clásica tiene fuerza, consistencia y es muy equilibrada, con un amargor moderado y ligera acidez. Cerveza sabrosa y con un buen balance gustativo que se mantiene en el paladar
 - Aroma: Con un aroma principal afrutado suave y fresco, a plátano y manzana, la cerveza clásica de Mahou tiene también cierta fragancia seca y un toque a levadura, donde se aprecian notas florales del lúpulo al beber
-- ¿Preparado para pasarte el juego, jugador? Esta edición limitada de Mahou Cinco Estrellas y Mahou Clásica han sido creadas para llevar la experiencia de El Juego del Calamar más allá de la pantalla. Elige tu bando y ¡que empiece el juego!
 - Pack de 12 latas de 33 cl de Mahou Clásica Edición Limitada El juego del calamar, con 5,5% de alcohol. Disfruta del sabor de tu Mahou Clásica sirviéndola a una temperatura de 5-6º C para saborear todos y cada uno de sus clásicos matices
 - Apariencia: Cerveza dorada Mahou clásica de aspecto brillante, color dorado y una espuma cremosa y consistente
+- ¿Preparado para pasarte el juego, jugador? Esta edición limitada de Mahou Cinco Estrellas y Mahou Clásica han sido creadas para llevar la experiencia de El Juego del Calamar más allá de la pantalla. Elige tu bando y ¡que empiece el juego!
+- Sabor: En boca la cerveza lata Mahou clásica tiene fuerza, consistencia y es muy equilibrada, con un amargor moderado y ligera acidez. Cerveza sabrosa y con un buen balance gustativo que se mantiene en el paladar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XDNU52O{{</world>}}

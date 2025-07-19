@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De color dorado tenue brillante, con una espuma densa blanca
-- Obtenida mediante un proceso de baja fermentación
 - Ingredientes: agua, malta de cebada, maiz, lúpulo y la exclusiva levadura Moretti
+- Obtenida mediante un proceso de baja fermentación
+- De color dorado tenue brillante, con una espuma densa blanca
 - Consumirla entre 2 y 4 grados C para obtener sus máximas cualidades
 
 [🛒 Comprar!!!]({{< param buyurl >}})

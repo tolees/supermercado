@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Nota! El embalaje puede variar.
-- Coladas mixtas: Gracias a la tecnología antitransferencia de colores, el detergente en líquido te permitirá lavar la ropa en una misma colada, evitando los accidentes de decoloración.
 - Limpia y protege: Gracias a sus fórmulas específicas, estos detergentes para lavadoras protegen y recuperan los colores apagados, devolviendo el brillo de tus prendas favoritas.
-- Elimina la suciedad: El detergente para ropa de color Micolor Oscuros Intensos elimina la suciedad de tus prendas cuidando los colores como ningún otro.
 - Envío: Micolor Gel Oscuros Intensos, detergente para ropa de color oscuro con tecnología de reparación de fibras, máxima fragancia y sin colorantes añadidos, detergente para lavadora, pack de 4, 112 lavados en total.
 - Repara las fibras y recupera los oscuros: Gracias a su tecnología Repair Complex, este detergente para ropa de color, lava y cuida los tejidos, evitando el progresivo blanqueo de las prendas oscuras. Además, su fórmula permite la reparación de fibras dañadas para que los colores negros y oscuros vuelvan a brillar.
+- ¡Nota! El embalaje puede variar.
+- Elimina la suciedad: El detergente para ropa de color Micolor Oscuros Intensos elimina la suciedad de tus prendas cuidando los colores como ningún otro.
+- Coladas mixtas: Gracias a la tecnología antitransferencia de colores, el detergente en líquido te permitirá lavar la ropa en una misma colada, evitando los accidentes de decoloración.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RMVQSYS{{</world>}}

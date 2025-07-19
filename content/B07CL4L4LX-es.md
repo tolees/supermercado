@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cosméticos femeninos
-- Fundación 30 mililitros
 - Maquillaje
+- Fundación 30 mililitros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07CL4L4LX{{</world>}}

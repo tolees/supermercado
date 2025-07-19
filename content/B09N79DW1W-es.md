@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Globalmente TRESemmé no testa en animales
 - Acondicionador que nutre el cabello seco y dañado​
+- Acondicionador TRESemmé Intensa Hidratación localiza las zonas más secas de tu pelo y restablece la hidratación
 - Devuelve la hidratación al mismo tiempo que lo fortalece​
 - Genera un aspecto saludable. Acabado de peluquería
-- Acondicionador TRESemmé Intensa Hidratación localiza las zonas más secas de tu pelo y restablece la hidratación
-- Globalmente TRESemmé no testa en animales
 - Formulado con vitamina E, proporciona vitalidad y suavidad​
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

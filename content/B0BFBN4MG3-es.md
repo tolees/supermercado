@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las cápsulas altamente solubles se disuelven rápido
-- Ayuda a evitar la acumulación de grasa en el lavavajillas y limpia la grasa del filtro
 - Mantiene un aroma limpio y fresco en tu lavavajillas
 - Las cápsulas Fairy Platinum eliminan incluso la grasa más incrustada a la primera
+- Ayuda a evitar la acumulación de grasa en el lavavajillas y limpia la grasa del filtro
+- Las cápsulas altamente solubles se disuelven rápido
 - Incorpora sal y ayuda al aclarado, también protege el cristal y la plata
 
 [🛒 Aquí!!!]({{< param buyurl >}})

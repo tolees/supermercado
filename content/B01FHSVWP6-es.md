@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin proteína láctea
+- Sin gluten
 - Sin soja
 - Bajo contenido en sal
-- Sin gluten
 - Ingredientes naturales y ecológicos
+- Sin proteína láctea
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01FHSVWP6{{</world>}}

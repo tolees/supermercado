@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En asociación con el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
 - Acondicionador sin sulfatos
 - 94 % de origen natural (agua purificada e ingredientes de origen natural poco procesados)
 - Con pH equilibrado y seguro para pelo teñido
 - Acondicionador con aloe intenso y hemp que ayuda a devolver la suavidad al cabello
+- En asociación con el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B086HRT73R{{</world>}}

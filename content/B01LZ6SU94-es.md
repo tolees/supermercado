@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cara Neutrogena
 - Mascarilla exfoliante y limpiadora para la cara Cuidado de la piel Hombre
+- Cara Neutrogena
 - (3574661288307)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

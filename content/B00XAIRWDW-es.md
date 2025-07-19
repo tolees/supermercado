@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aroma Natural y Agradable
-- Aceite de Argán 100% natural
 - Revitaliza tus sentidos
+- Aceite de Argán 100% natural
+- Aroma Natural y Agradable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAIRWDW{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mascarilla para el pelo, para los rizos encrespados y rebeldes
 - El sérum Pantene Miracle refuerza el cabello dañado desde dentro dejándolo 3 veces más fuerte, a 3 niveles de profundidad
 - El champú Miracle Serum de Pantene Rizos Definidos limpia suavemente y transforma las ondas encrespadas y rebeldes en rizos definidos, brillantes
+- Mascarilla para el pelo, para los rizos encrespados y rebeldes
 - Crema hidratante sin aclarado que mantiene el pelo suave y brillante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

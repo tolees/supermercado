@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplicador duo para crear múltiples looks para un acabado preciso
-- Perfecto para esculpir, sombrear y definir
-- Tipo de piel: Normal
-- Todo en uno, sombra de ojos, delineador y iluminador
-- Para el cabello: Normal
 - Color intenso para todos los tonos de piel
+- Para el cabello: Normal
+- Perfecto para esculpir, sombrear y definir
+- Todo en uno, sombra de ojos, delineador y iluminador
 - 12 sombras complementarias perfectas para hacer contouring
+- Aplicador duo para crear múltiples looks para un acabado preciso
+- Tipo de piel: Normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B073WYXK64{{</world>}}

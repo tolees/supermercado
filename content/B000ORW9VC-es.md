@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Limpieza personal
-- facil de usar
-- Tipo de piel: Todas
-- Dimensiones del producto: 17 x 8 x 12 cm
 - Jabon Redondo 3 X 100 Gr Sets
+- Dimensiones del producto: 17 x 8 x 12 cm
+- facil de usar
+- Limpieza personal
+- Tipo de piel: Todas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000ORW9VC{{</world>}}

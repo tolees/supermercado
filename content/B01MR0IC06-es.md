@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elaborada con ingredientes específicos y adaptados para bebés
+- Elaborada a base de fruta y leche
 - Tiene un práctico formato: bolsita listo para llevar
 - Para bebés a partir de los cuatro meses
-- Elaborada a base de fruta y leche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MR0IC06{{</world>}}

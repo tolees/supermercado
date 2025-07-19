@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fanta Limón ofrece un sabor refrescante y vibrante a Limón que deleitará tu paladar.
-- Puedes disfrutar de Fanta Limón fría directamente de la botella o utilizarla como base para cócteles y combinados.
 - Fanta Limón es conocida por su delicioso sabor a Limón, ofreciendo una refrescante bebida para disfrutar en cualquier momento. Pack de 4 botellas de vidrio de 200ml.
+- Puedes disfrutar de Fanta Limón fría directamente de la botella o utilizarla como base para cócteles y combinados.
+- Fanta Limón ofrece un sabor refrescante y vibrante a Limón que deleitará tu paladar.
 - pack de 4 botellas de vidrio de 200ml de fanta limón.
 - Fanta Limón se puede combinar con una variedad de alimentos y snacks, como pizzas, hamburguesas, nachos, y más, añadiendo un toque de frescura y sabor a tus comidas.
 

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una ginebra en la que se mezclan la esencia de las moras y una cuidadosa selección de ingredientes que completan y perfilan el producto
 - Puerto de Indias Mora se viste de fiesta para celebrar la Feria de Abril
-- Sabor: Ginebra de mora, suave y dulce
 - A la vista: apariencia translúcida
+- Sabor: Ginebra de mora, suave y dulce
+- Una ginebra en la que se mezclan la esencia de las moras y una cuidadosa selección de ingredientes que completan y perfilan el producto
 - La violeta aporta a esta ginebra Premium de Puerto de Indias inconfundibles notas florales, suaves y aterciopeladas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

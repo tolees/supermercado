@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar generosamente sobre el cabello húmedo, después de aclarar el champú
-- Suaviza el pelo instante y protege la fibra capilar para un pelo liso duradero y controlado
 - Indicada para cabellos rebeldes y difíciles de alisar
+- Suaviza el pelo instante y protege la fibra capilar para un pelo liso duradero y controlado
+- Aplicar generosamente sobre el cabello húmedo, después de aclarar el champú
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XDFTQ1R{{</world>}}

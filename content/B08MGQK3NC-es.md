@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Género; Unisex. Adulto e infantil.
-- No testado en animales. Vegano. Fabricación íntegra en España.
 - Gel de baño y ducha nutriente, aporta gran suavidad a la piel dejándola muy perfumada.
-- Perfume de fresa con nata. Exquisita y Dulce Fragancia
 - Libre de parabenos. Dermatológicamente testado. Crea mucha espuma.
+- No testado en animales. Vegano. Fabricación íntegra en España.
+- Género; Unisex. Adulto e infantil.
+- Perfume de fresa con nata. Exquisita y Dulce Fragancia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08MGQK3NC{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuidado extra hidratante para una piel en forma.
 - Jabón de manos nutritivo con esencia exquisita de nueces y leche de almendras.
+- Extractos naturales: nueces y almendras
 - La vitamina B ayuda a conseguir un alto rendimiento a lo largo del día y es idónea para afrontar una actividad física.
 - CrueltyFree
-- Extractos naturales: nueces y almendras
-- Cuidado extra hidratante para una piel en forma.
 - La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})

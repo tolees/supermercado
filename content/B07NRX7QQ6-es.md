@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con L-carnitina para favorecer el metabolismo de las grasas
 - IAMS alimento seco con pollo fresco para gatos adultos y de edad avanzada es 100 % completo y equilibrado; contiene un 84 % de proteína animal (del total de proteínas)
 - Contiene una mezcla de fibras adecuada, con prebióticos y pulpa de remolacha, para una digestión sana
-- Favorece la pérdida y el control de peso; óptimamente indicado para gatos esterilizados
 - Alimento seco sin trigo (elaborado en una planta que procesa trigo); sin saborizantes artificiales, sin colorantes, sin OGM ni ingredientes de relleno
+- Favorece la pérdida y el control de peso; óptimamente indicado para gatos esterilizados
+- Con L-carnitina para favorecer el metabolismo de las grasas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NRX7QQ6{{</world>}}

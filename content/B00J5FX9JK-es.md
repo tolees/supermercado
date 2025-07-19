@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ayuda a la regeneración de la piel y reestablece la función barrera
 - Con ácido hialurónico, que repara, protege e hidrata en profundidad
+- Ayuda a la regeneración de la piel y reestablece la función barrera
 - Bálsamo Labial reparador en tarro, para labios, nariz y zona perioral
 - Hidrata y nutre en profundidad, para unos labios suaves y cuidados
 

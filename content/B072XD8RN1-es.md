@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Osborne
-- Adecuado como un regalo
-- Contenido de alcohol: 37.5% vol.
 - Sabor: baya, fruta seca, agrios
+- Contenido de alcohol: 37.5% vol.
+- Adecuado como un regalo
+- Marca: Osborne
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B072XD8RN1{{</world>}}

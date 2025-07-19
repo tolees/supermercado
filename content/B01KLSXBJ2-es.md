@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- VARIEDAD: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente de África y Centro y Sudamérica
 - INTENSIDAD: La intensidad 5 y el tueste medio brindan un color cálido a este café, para un espresso con una espuma dorada
-- ESPRESSO ITALIANO CLASSICO: El café en grano natural Lavazza ideal para un espresso definitivo para disfrutar a cualquier hora del día. Ideal para utilizar con máquina de café espresso
 - CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
+- VARIEDAD: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente de África y Centro y Sudamérica
+- ESPRESSO ITALIANO CLASSICO: El café en grano natural Lavazza ideal para un espresso definitivo para disfrutar a cualquier hora del día. Ideal para utilizar con máquina de café espresso
 - NOTAS AROMÁTICAS: Espresso Italiano Classico es caracterizado por notas aromáticas de caramelo y chocolate, para un café espresso con un sabor suave y rico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

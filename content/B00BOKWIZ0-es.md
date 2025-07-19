@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin alcohol.
 - Ideal para usar después del afeitado.
 - No deja marcas blancas.
 - Alta eficiencia, protección antitranspirante de 48 horas.
+- Sin alcohol.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BOKWIZ0{{</world>}}

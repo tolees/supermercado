@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Aceite en spray seco que protege como una loción
 - Resistente al agua
 - Protege, hidrata, cuida y suaviza la piel
-- Aceite en spray seco que protege como una loción
 - No testado en animales
 - Fórmulas ligeras con antioxidantes, vitaminas y extractos naturales
 

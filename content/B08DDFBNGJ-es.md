@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - CHAMPU SIN SULFATOS y sin siliconas, Acondicionador sin sulfatos
-- INGREDIENTES: Aloe Puro y Hemp que hidratan profundamente y ayudan a devolver la suavidad al cabello
-- PH equilibrado y seguro para pelo teñido
 - CERTIFICADO por el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
 - 94% DE ORIGEN NATURAL (agua purificada e ingredientes de origen natural poco procesados)
+- PH equilibrado y seguro para pelo teñido
+- INGREDIENTES: Aloe Puro y Hemp que hidratan profundamente y ayudan a devolver la suavidad al cabello
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08DDFBNGJ{{</world>}}

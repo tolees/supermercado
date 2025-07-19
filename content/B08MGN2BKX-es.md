@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- No testado en animales. Vegano. Fabricación íntegra en España.
+- Género; Unisex. Adulto e infantil.
+- Gel muy perfumado. Perfume fresco. Con olor a limpio.
 - Gel de baño y ducha Aloe Vera, limpia suavemente, hidrata. refresca y tonifica la piel sin riesgo de irritaciones.
 - Libre de parabenos y colorantes. Dermatológicamente testado. Crea mucha espuma.
-- Gel muy perfumado. Perfume fresco. Con olor a limpio.
-- Género; Unisex. Adulto e infantil.
-- No testado en animales. Vegano. Fabricación íntegra en España.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08MGN2BKX{{</world>}}

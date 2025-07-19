@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sombras de Ojos color de óptimo impacto al instante
+- Formula sin perfume, no testeada en animales y vegana
 - A prueba de manchas, ni pliegues; no deja restos
 - Enriquecida con ingredientes acondicionadores
 - Fórmula fácil de aplicar que se desliza sin esfuerzo
-- Formula sin perfume, no testeada en animales y vegana
-- Sombras de Ojos color de óptimo impacto al instante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQRGCDPN{{</world>}}

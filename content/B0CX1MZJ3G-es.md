@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Champú Glicolic Gloss sin sulfatos de L´Oréal Paris es una experiencia de cuidado que restaurará la luminosidad de tu melena​
 - Ingredientes: 2% Gloss complex con ácido glicólico; sin sulfatos
 - Aplicación: aplica y masajea el pelo, para después aclarar; para optimos resultados, completa tu rutina con el acondicionador y el tratamiento laminado 5 min Glycolic Gloss
-- Champú Glicolic Gloss sin sulfatos de L´Oréal Paris es una experiencia de cuidado que restaurará la luminosidad de tu melena​
 - Resultados: una tranformacion para tu pelo x2 mas brillo, que dura hasta 5 lavados 88% mas sedoso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

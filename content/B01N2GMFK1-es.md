@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batido de chocolate embotellado
 - Disfruta todo el sabor de la receta original
 - Rico en vitamina D
 - Sin colorantes
+- Batido de chocolate embotellado
 - Una bebida sana y sabrosa para los niños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

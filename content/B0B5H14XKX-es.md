@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La botella está hecha de plástico 100% reciclado (excepto la tapa, colorantes y aditivos)
-- Champú anticaspa con hasta un 100% de protección contra la caspa para el cabello y el cuero cabelludo (caspa visible, con uso regular)
-- Limpia tu cabello y mantiene fresco y hidratado
 - La fórmula protege el microbioma, nuestro sistema natural de autoprotección del cuero cabelludo y garantiza un equilibrio equilibrado para el cabello libre de caspa (caspa visible, con uso regular)
+- Limpia tu cabello y mantiene fresco y hidratado
+- La botella está hecha de plástico 100% reciclado (excepto la tapa, colorantes y aditivos)
 - Dermatológicamente probado y clínicamente confirmado: para uso diario
+- Champú anticaspa con hasta un 100% de protección contra la caspa para el cabello y el cuero cabelludo (caspa visible, con uso regular)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B5H14XKX{{</world>}}

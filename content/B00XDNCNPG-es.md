@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sabor delicado y refinado
 - Mantener en un lugar fresco y seco
 - Contenido en omega 3
-- Sabor delicado y refinado
 - Conserva de atún en aceite de girasol
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

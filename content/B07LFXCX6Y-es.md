@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Chocolate no incluido
-- A partir de los 7 años
-- Incluye numerosos accesorios: prensa de chocolate, molde para tabletas, hojas de embalaje…
-- 20 recetas propuestas en el folleto ilustrado incluido
 - Sigue las recetas incluidas para preparar tus propias tabletas, piruletas, y más
+- A partir de los 7 años
+- 20 recetas propuestas en el folleto ilustrado incluido
+- Incluye numerosos accesorios: prensa de chocolate, molde para tabletas, hojas de embalaje…
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07LFXCX6Y{{</world>}}

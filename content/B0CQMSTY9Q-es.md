@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Máscara de pestañas alargadora con un complejo de biotina que refuerza las estructuras de queratina
-- La máscara de pestañas con sérum de Rimmel
-- Consigue unas pestañas visiblemente revitalizadas en una sola pasada
-- Cepillo preciso para un look de pestañas con volumen
 - Fórmula a prueba de borrones y grumos
+- Cepillo preciso para un look de pestañas con volumen
+- Consigue unas pestañas visiblemente revitalizadas en una sola pasada
+- La máscara de pestañas con sérum de Rimmel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQMSTY9Q{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nutritivo: este tónico facial para el cuidado barba está formulado con ingredientes naturales que refrescan, tonifican y alivian la piel después del afeitado.
-- Hidratante: la loción para el cuidado facial hombre con aceite de eucalipto y mentol proporciona alivio instantáneo, hidrata la piel y le aporta flexibilidad.
-- Ritual del afeitado: el aftershave Proraso es ideal para el uso diario y completa el ritual del afeitado, aliviando rápidamente la irritación de la piel.
-- Un referente en el mundo del afeitado: Proraso es la elección de los barberos desde 1948. Productos para la barba y el afeitado probados dermatológicamente.
 - Fórmula tradicional: esta loción para el cuidado barba hombre no contiene parabenos, ftalatos, siliconas, aceites minerales ni lauril sulfato sódico o SLS.
+- Un referente en el mundo del afeitado: Proraso es la elección de los barberos desde 1948. Productos para la barba y el afeitado probados dermatológicamente.
+- Hidratante: la loción para el cuidado facial hombre con aceite de eucalipto y mentol proporciona alivio instantáneo, hidrata la piel y le aporta flexibilidad.
+- Nutritivo: este tónico facial para el cuidado barba está formulado con ingredientes naturales que refrescan, tonifican y alivian la piel después del afeitado.
+- Ritual del afeitado: el aftershave Proraso es ideal para el uso diario y completa el ritual del afeitado, aliviando rápidamente la irritación de la piel.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BEJGXUC{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con notas de musk blanco
 - Fue desarrollada especialmente para hombres
 - Combina acordes agrestes con un fondo amaderado
+- Con notas de musk blanco
 - Ofrece un aroma masculino y refrescante
 - Agua de colonia concentrada
 

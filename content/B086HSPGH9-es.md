@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Champú con aloe intenso y mango que ayuda a hidratar el cabello
 - 93 % De Origen Natural (Agua Purificada E Ingredientes De Origen Natural Poco Procesados)
 - Con pH equilibrado y seguro para pelo teñido
 - Champú sin sulfatos
-- Para el cabello: Tratado de color
 - En asociación con el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
+- Champú con aloe intenso y mango que ayuda a hidratar el cabello
+- Para el cabello: Tratado de color
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B086HSPGH9{{</world>}}

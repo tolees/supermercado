@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Nutre e hidrata el cabello
-- Limpia el cabello en profundidad
 - Proporciona una agradable sensación de frescor
+- Limpia el cabello en profundidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B082XQWJ9G{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Un Kajal que no mancha, tonos intensamente ahumados
-- Fórmula súper duradera que se desliza fácilmente sobre el párpado y la línea de agua
 - Resistente a los roces
+- Fórmula súper duradera que se desliza fácilmente sobre el párpado y la línea de agua
 - Resistente al agua
 - Exterior ergonómico que facilita el agarre y control
 

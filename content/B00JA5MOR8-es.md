@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de Piel: Todo Tipo de Pieles
-- Texturas: Loción
 - Tipo de piel: seca
-- Género: Unisex Adulto
+- Texturas: Loción
 - Para el cabello: normal
+- Género: Unisex Adulto
+- Tipo de Piel: Todo Tipo de Pieles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00JA5MOR8{{</world>}}

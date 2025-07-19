@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Construye un volumen capas por capas para crear un look natural o una mirada intensa
 - Fórmula acondicionadora
 - Refresca la última capa cuando se aplica la máscara para conseguir un volumen sin grupo
 - Su Cepillo Captura, Separa Y Cubre Cada Pestaña Para Darles Un Volumen Máximo
+- Construye un volumen capas por capas para crear un look natural o una mirada intensa
 - Mascara de pestañas Rimmel Volume on Demand
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La mejor elección para cualquier momento del día, para los más salados.
 - Las mini galletas saladas de Gullón, con todo el sabor de siempre.
 - Fabricado por Galletas Gullón.
+- La mejor elección para cualquier momento del día, para los más salados.
 - Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
 - Disfruta de su delicioso sabor.
 

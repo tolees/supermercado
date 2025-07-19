@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Obtén hidratación instantánea y de larga duración con esta amplia gama enriquecida con nuestro sistema provitamina B5
 - Proporciona hidratación, brillo, y suavidad
+- Obtén hidratación instantánea y de larga duración con esta amplia gama enriquecida con nuestro sistema provitamina B5
 - Volumen 500 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

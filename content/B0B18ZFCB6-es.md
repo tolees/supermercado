@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin alcohol
-- Para compartir
 - Clásica bebida de KAS sin azúcar
-- Bebida refrescante amarga
 - País de origen: España
+- Sin alcohol
+- Bebida refrescante amarga
+- Para compartir
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B18ZFCB6{{</world>}}

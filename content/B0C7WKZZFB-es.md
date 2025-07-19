@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplicación suave y apara para ojos sensibles
-- Sensación ligera
 - Longitud y definición optima
-- Mega volumen, ahora más intenso
+- Aplicación suave y apara para ojos sensibles
 - Con pigmentos negros para lograr un color negro más intenso, para conseguir una mirada más abierta y ojos más brillantes
+- Sensación ligera
+- Mega volumen, ahora más intenso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7WKZZFB{{</world>}}

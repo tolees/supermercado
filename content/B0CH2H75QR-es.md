@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para una piel siempre hidratada, suave y elástica.
-- La siguiente información se aplica a cada unidad del paquete
-- Jabón de manos nutritivo con extracto dulce y envolvente de melón y enriquecido con proteínas de leche.
-- Extractos naturales: melón y leche orgánica
-- El paquete puede variar
 - La vitamina A ayuda a mejorar la resistencia de la piel y la mantiene con aspecto joven y saludable.
+- La siguiente información se aplica a cada unidad del paquete
+- El paquete puede variar
+- Extractos naturales: melón y leche orgánica
+- Jabón de manos nutritivo con extracto dulce y envolvente de melón y enriquecido con proteínas de leche.
+- Para una piel siempre hidratada, suave y elástica.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CH2H75QR{{</world>}}

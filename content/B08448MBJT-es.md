@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin gluten, libre de lácteos y de lactosa, y libre de OGM
-- Tecnología Quadplant que proporciona supernutrientes de origen vegetal
-- Combinación de CUATRO proteínas premium: Aislado de proteína de guisante, aislado de proteína de soja, proteína de semilla de calabaza, proteína de arroz integral
-- Envase de cartón resellable
-- Contiene la cantidad de 21 g de proteína de origen vegetal por dosis
 - Batido de proteínas vegano suave y cremoso
+- Tecnología Quadplant que proporciona supernutrientes de origen vegetal
+- Sin gluten, libre de lácteos y de lactosa, y libre de OGM
+- Contiene la cantidad de 21 g de proteína de origen vegetal por dosis
+- Envase de cartón resellable
+- Combinación de CUATRO proteínas premium: Aislado de proteína de guisante, aislado de proteína de soja, proteína de semilla de calabaza, proteína de arroz integral
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08448MBJT{{</world>}}

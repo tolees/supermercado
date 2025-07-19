@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ayuda a la inmunidad de tu bebé; Con hierro y vitaminas A, C y D que ayudan al normal funcionamiento del sistema inmunitario
-- Con el probiótico L.reuteri, naturalmente presente en la leche materna
-- NAN SUPREMEpro 1 es la última fórmula, diseñada por expertos para contribuir al desarrollo de tu bebé en los primeros meses de vida
-- GENTLE OPTIPRO: un proceso tecnológico patentado para conseguir una mezcla optimizada de proteínas adaptadas
 - Con una combinación de 5 HMOs, también presentes en la leche materna, que alimentan las bacterias buenas para una microbiota sana
+- NAN SUPREMEpro 1 es la última fórmula, diseñada por expertos para contribuir al desarrollo de tu bebé en los primeros meses de vida
+- Con el probiótico L.reuteri, naturalmente presente en la leche materna
+- Ayuda a la inmunidad de tu bebé; Con hierro y vitaminas A, C y D que ayudan al normal funcionamiento del sistema inmunitario
 - Las investigaciones de NESTLÉ se centran en tres pilares claves que son: inmunidad, desarrollo cognitivo y metabolismo
+- GENTLE OPTIPRO: un proceso tecnológico patentado para conseguir una mezcla optimizada de proteínas adaptadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B078NXGQW1{{</world>}}

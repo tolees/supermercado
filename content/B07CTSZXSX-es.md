@@ -30,11 +30,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
 - 4 paquetes: 4 x 250 g, total 1 kg
-- Tostado y envasado en Italia
+- 65 % arábica, 35 % robusta
 - Adecuado para cafeteras de expreso. Use aproximadamente 1 cucharadita por taza
 - Intensidad: 4/5
+- Tostado y envasado en Italia
 - Una mezcla equilibrada, con mucho cuerpo y notas de chocolate negro y caramelo
-- 65 % arábica, 35 % robusta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CTSZXSX{{</world>}}

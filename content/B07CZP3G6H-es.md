@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El sabor es ligero y refrescante
-- La temperatura de servicio recomendada es de 4-6°C
-- El color es amarillo brillante con una espuma blanca consistente
 - C.C. DAMM S.L. C/ del Rosselló, 515, LEixample, 08025 Barcelona, Espana
+- La temperatura de servicio recomendada es de 4-6°C
 - Hecho solo con ingredientes naturales
 - En nariz es limpio con sutiles notas de cebada
+- El color es amarillo brillante con una espuma blanca consistente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CZP3G6H{{</world>}}

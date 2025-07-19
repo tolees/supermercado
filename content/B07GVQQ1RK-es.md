@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Extractos naturales: melocotón y pomelo
-- La vitamina C activa las defensas y ayuda a frenar el envejecimiento prematuro de la piel.
 - Jabón de manos nutritivo con refrescante extracto de frutas cítricas y melocotón.
+- La vitamina C activa las defensas y ayuda a frenar el envejecimiento prematuro de la piel.
 - CrueltyFree
+- Extractos naturales: melocotón y pomelo
 - Aporta una hidratación fresh para una piel elástica y en forma.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

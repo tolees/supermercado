@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - En paladar es cremosa y fresca
+- De color rojo
 - Expresivo en nariz
 - Aromas de canela y clavo
-- De color rojo
 - Fórmula de hierbas de vermut rojo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

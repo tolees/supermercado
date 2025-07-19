@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 95 % De origen natural (73 % de agua purificada y 22 % de ingredientes de origen natural) y el 5 % para proporcionar una buena experiencia de uso
 - Belleza responsable: vegano y respetuoso con los animales, certificado por PETA; No contiene siliconas, Seguro para el pelo teñido
+- 95 % De origen natural (73 % de agua purificada y 22 % de ingredientes de origen natural) y el 5 % para proporcionar una buena experiencia de uso
 - Acondicionador hidratante: ayuda a hidratar el pelo dañado suavizando y mostrando su belleza natural
 - Champú hidratante: ayuda a hidratar el pelo dañado suavizando y mostrando su belleza natural
 

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con concentrado de color para peces con bellas tonalidades
+- Contiene prebióticos para mejorar la digestión
 - Ayuda reducir los residuos y la contaminación del agua
 - Cuidadoso proceso de elaboración a baja temperatura para mantener su alto valor nutritivo y la estabilidad de sus vitaminas
 - Alimento completo nutritivo para una dieta óptima
-- Contiene prebióticos para mejorar la digestión
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003TL1YO8{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula con pH 5,5 y Aceite de Oliva para respetar y proteger la barrera cutánea.
-- Gel de baño Sebamed 1L, suave para pieles secas y sensibles, sin jabón. Limpieza sin resecar.
-- Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
-- Enriquecido con Pantenol, hidrata y ayuda a reparar la piel seca sensible.
 - pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
+- Enriquecido con Pantenol, hidrata y ayuda a reparar la piel seca sensible.
+- Gel de baño Sebamed 1L, suave para pieles secas y sensibles, sin jabón. Limpieza sin resecar.
+- Fórmula con pH 5,5 y Aceite de Oliva para respetar y proteger la barrera cutánea.
+- Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00ENDH64I{{</world>}}

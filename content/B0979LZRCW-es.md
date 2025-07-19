@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Paleta de ojos, con 8 tonos
 - Nueva fórmula suave y cremosa
-- Aplicador de doble punta
 - 4 acabados y infinitos looks
+- Aplicador de doble punta
 - Gama de tonos: desde los neutros a los brillantes y desde los claros a los profundos
+- Paleta de ojos, con 8 tonos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0979LZRCW{{</world>}}

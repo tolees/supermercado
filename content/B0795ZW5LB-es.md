@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado: larga duración, ligeramente vainilla, pomelo
-- Sabor: suave aterciopelado, enebro, naranja sanguina, notas de hierbas, cítricos
 - Nariz: bayas de enebro picantes, naranjas, notas de cítricos
+- Sabor: suave aterciopelado, enebro, naranja sanguina, notas de hierbas, cítricos
+- Acabado: larga duración, ligeramente vainilla, pomelo
 - Sin gluten
 - Color: sangre naranja-rojo
 

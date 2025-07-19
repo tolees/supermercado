@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Gloss que proporciona 24h de hidratación y brillo duradero
 - Su aplicador es suave y preciso, de fácil aplicación
-- Disponible en 9 distintos tonos ponibles: claros o de cobertura más alta
 - Contiene aceite de argán y vitamina E
 - Cómodo de llevar gracias a su efecto de bálsamo, no es pegajoso
+- Disponible en 9 distintos tonos ponibles: claros o de cobertura más alta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B097QGP7B3{{</world>}}

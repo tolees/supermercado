@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Ahora más grandes!
 - Conservar en lugar fresco y seco
-- Dulces de regaliz
-- Intenso sabor a regaliz negro
 - Disfruta en casa de la alegría y diversión en cualquier momento
+- Dulces de regaliz
+- ¡Ahora más grandes!
+- Intenso sabor a regaliz negro
 - Las chuches de toda la vida
 - Deliciosas piezas largas en forma de stick
 

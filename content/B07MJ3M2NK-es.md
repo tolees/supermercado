@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - HECHO EN ESPAÑA - Fabricado localmente en las Islas Canarias. Tirma es una marca española con más de 80 años de experiencia en el mercado de la confitería. Disponible en una gran variedad de deliciosos sabores y formatos, descubre el sabor de Tirma.
 - VEGETARIANO - Snack apto para vegetarianos, ya que está elaborado sin huevo. Barritas keto friendly bajas en carbohidratos, ¡disfruta de estos snacks en cualquier momento del día!
+- TEXTURA CRUJENTE - Barquillos crujientes rellenos de crema de cacao y recubiertos de cremoso chocolate negro al 70%. El pack contiene 3 barritas de chocolate negro al 70%, envueltas individualmente para que puedas llevarlos fácilmente en tu bolso o mochila.
 - IDEAS PARA REGALAR Y SERVIR - Perfectas para disfrutarlas como postre, acompañadas de una taza de café caliente. Puede añadirse un trozo de barquillo de chocolate negro al helado para una deliciosa combinación. Ideal para regalar en Halloween, y con el tamaño perfecto para llenar los calcetines de Navidad.
 - SIN AZÚCARES AÑADIDOS - Estos barquillos de chocolate no contienen azúcares añadidos, lo que los convierte en una alternativa sabrosa y más saludable que las chocolatinas tradicionales. Son aptos para diabéticos.
-- TEXTURA CRUJENTE - Barquillos crujientes rellenos de crema de cacao y recubiertos de cremoso chocolate negro al 70%. El pack contiene 3 barritas de chocolate negro al 70%, envueltas individualmente para que puedas llevarlos fácilmente en tu bolso o mochila.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MJ3M2NK{{</world>}}

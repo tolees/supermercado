@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para COCINAR; elabora recetas saludables y deliciosas con IDEAL
 - Formato en brick de 525ml, idónea para una bechamel rápida y cremosa
-- Descubre una gran variedad de cremas y salsas ligeras, y más de 345 recetas en la página web de Nestlé Cocina
+- Para COCINAR; elabora recetas saludables y deliciosas con IDEAL
 - Con solamente un 4% de Materia Grasa, prepara platos y salsas ligeras con la leche evaporada Ideal
+- Descubre una gran variedad de cremas y salsas ligeras, y más de 345 recetas en la página web de Nestlé Cocina
 - Leche evaporada, parcialmente desnatada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

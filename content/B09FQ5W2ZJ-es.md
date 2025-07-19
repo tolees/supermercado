@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de Polonia
-- Papillas para bebé
-- Sin sal añadida
 - A partir de 6 meses
 - Sin conservantes
+- Sin sal añadida
+- Producto de Polonia
+- Papillas para bebé
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09FQ5W2ZJ{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En asociación con el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
-- 94 % De Origen Natural (Agua Purificada e Ingredientes De Origen Natural Poco Procesados)
-- Para el cabello: Tratado de color
 - con pH equilibrado y seguro para pelo teñido
-- Champú sin sulfatos
 - Champú con aloe intenso y hemp que ayuda a devolver la suavidad al cabello
+- En asociación con el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
+- Para el cabello: Tratado de color
+- Champú sin sulfatos
+- 94 % De Origen Natural (Agua Purificada e Ingredientes De Origen Natural Poco Procesados)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B086HSB7Z3{{</world>}}

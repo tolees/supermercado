@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alimento húmedo, muy palatable y sin cereales (gluten-free). 75% carne fresca, 25% vegetales, caldo y hierbas aromáticas.
-- Albóndigas con salsa a base de pavo, brócoli y calabaza, entre sus ingredientes principales.
 - Alimento completo para perros adultos de más de un año, que promueve una buena digestion.
+- Alimento húmedo, muy palatable y sin cereales (gluten-free). 75% carne fresca, 25% vegetales, caldo y hierbas aromáticas.
 - Pack de 6 unidades. Latas de 400g.
+- Albóndigas con salsa a base de pavo, brócoli y calabaza, entre sus ingredientes principales.
 - Cocido a baja temperatura. Sin colorantes, conservantes ni sabores artificiales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

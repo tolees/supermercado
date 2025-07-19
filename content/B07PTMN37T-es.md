@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aporta luminosidad y mejora la flexibilidad y elasticidad de la piel.
 - Gracias al Natural Tan Booster, potencia en un 63% el bronceado natural de la piel.
 - De secado inmediato y resistente al agua.
 - Apto para todo tipo de piel, incluso piel atópica
+- Aporta luminosidad y mejora la flexibilidad y elasticidad de la piel.
 - Alto factor de protección UVB/UVA SPF 30 y antioxidantes que protegen la piel y evitan el daño solar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

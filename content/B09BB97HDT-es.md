@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- NEUTROGENA CREMA DE MANOS 50 ML. CONCENTRADA SIN P
-- Ingredientes: Aqua, Glycerin, Cetearyl Alcohol, Ethylhexylglycerin, Palmitic Acid, Stearic Acid, Sodium Cetearyl Sulfate, Sodium Sulfate, Phenoxyethanol.
-- 0
 - Cosmética Corporal
+- 0
+- Ingredientes: Aqua, Glycerin, Cetearyl Alcohol, Ethylhexylglycerin, Palmitic Acid, Stearic Acid, Sodium Cetearyl Sulfate, Sodium Sulfate, Phenoxyethanol.
+- NEUTROGENA CREMA DE MANOS 50 ML. CONCENTRADA SIN P
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09BB97HDT{{</world>}}

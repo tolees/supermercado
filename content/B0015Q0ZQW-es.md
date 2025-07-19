@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una forma de croqueta con DentaDefense para mantener los dientes limpios y sanos
-- Pollo fresco y rico en proteínas para una musculatura fuerte y magra
 - Vitaminas E y C, antioxidantes para reforzar el sistema inmunitario; L-Carnitina para controlar el peso
+- Una forma de croqueta con DentaDefense para mantener los dientes limpios y sanos
 - Prebióticos FOS y pulpa de remolacha para favorecer una digestión sana; Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos
+- Pollo fresco y rico en proteínas para una musculatura fuerte y magra
 - Calcio y glucosamina para unos huesos y articulaciones saludables; Vitaminas E y C, antioxidantes para reforzar el sistema inmunitario
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

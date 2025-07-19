@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 🗨 Nota de cata: Estamos ante un vino tinto tempranillo intenso y fresco, con buena acidez. Además, puedes detectar en él delicados aromas de cereza y fruta roja, combinados con moka y cacao, y un final balsámico.
 - ⚜️ Capacidad:Botella de 750 ml
-- 🌡️ Temperatura de servicio: 14 - 16ºC.
 - 🍽 Maridaje: perfecto para carnes rojas a la parrilla, embutidos y quesos curados
+- 🌡️ Temperatura de servicio: 14 - 16ºC.
 - 🍇 Variedad: Tempranillo alta montaña con graduación de 13º
 
 [🛒 Comprar!!!]({{< param buyurl >}})

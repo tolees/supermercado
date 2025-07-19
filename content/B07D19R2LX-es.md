@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para nuestras comidas, empleamos mayoritariamente ingredientes procedentes de granjas regionales; criados y cultivados con mucho amor
+- MjAMjAM - porque es sabroso
 - ver artículos individuales
 - Pienso acuoso para perros. Proporción extraalta de carne. Vitaminas y minerales importantes. Sin cereales
+- Para nuestras comidas, empleamos mayoritariamente ingredientes procedentes de granjas regionales; criados y cultivados con mucho amor
 - Renunciamos a: Gluten y soja, Conservantes sintéticos, lactosa, azúcar
-- MjAMjAM - porque es sabroso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07D19R2LX{{</world>}}

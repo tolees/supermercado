@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CALIDAD SUPERIOR: un café Fortaleza en grano de calidad suprema para los amantes del café, ideal para empezar la mañana o la tarde
-- FORMATO: 3 bolsas de 0,5 kg con válvula unidireccional para mantener sus cualidades organolépticas; apto para cualquier cafetera, según el tamaño del molido
 - PURO NATURAL: café de excelente calidad, único, tueste natural de aroma intenso herbal y afrutado, con final largo y persistente
 - ARÁBICA 100%: café en grano compuesto principalmente por arábicas, centroamericanos y brasileños seleccionados meticulosamente
 - SABOR DURADERO: café natural en grano de sabor elegante y agradable, de intensidad media-baja 5/13, lleno de matices
+- FORMATO: 3 bolsas de 0,5 kg con válvula unidireccional para mantener sus cualidades organolépticas; apto para cualquier cafetera, según el tamaño del molido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MXLMPRZ{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - VEGANO Y SIN GLUTEN: El polvo deportivo de electrolitos, con delicioso sabor tropical, está hecho con ingredientes de alta calidad, es vegano y sin gluten.
-- EQUILIBRIO DE ELECTROLITOS: Al sudar se pierden electrolitos importantes. Este polvo de bebida repone estos minerales después del deporte y ayuda a regular la función muscular y nerviosa.
 - HIDRATACIÓN A TRAVÉS DEL SODIO: El polvo de electrolitos está enriquecido con sodio. Este mineral estimula la hidratación y mantiene el equilibrio hídrico del cuerpo.
-- POLVO ENERGÉTICO PARA DEPORTISTAS: Potenciador de energía que suministra carbohidratos y asegura rendimiento prolongado en entrenamientos y competiciones. La bebida ideal para atletas de resistencia.
 - SIS SCIENCE IN SPORT: Science in Sport es pionero en la nutrición deportiva. Desde 1992 colaboramos con institutos de investigación, atletas de élite y científicos deportivos.
+- POLVO ENERGÉTICO PARA DEPORTISTAS: Potenciador de energía que suministra carbohidratos y asegura rendimiento prolongado en entrenamientos y competiciones. La bebida ideal para atletas de resistencia.
+- EQUILIBRIO DE ELECTROLITOS: Al sudar se pierden electrolitos importantes. Este polvo de bebida repone estos minerales después del deporte y ayuda a regular la función muscular y nerviosa.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B002FOHFW0{{</world>}}

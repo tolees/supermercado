@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Disfruta del momento con MARTINI Fiero
-- Vermut italiano elaborado con una mezcla de vinos blancos, ingredientes botánicos y naranjas dulces españolas cortadas a mano
 - Vermut rojo dulce de sabor y color refrescantes y atrevidos
-- Sirva este vermut dulce como aperitivo, o utilícelo en una variedad de cócteles como un Fiero and Tonic
 - Una botella de 75 cl de MARTINI Fiero Vermouth Aperitivo
+- Vermut italiano elaborado con una mezcla de vinos blancos, ingredientes botánicos y naranjas dulces españolas cortadas a mano
+- Sirva este vermut dulce como aperitivo, o utilícelo en una variedad de cócteles como un Fiero and Tonic
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089L6XC4G{{</world>}}

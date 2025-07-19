@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Viene envasado en barra de 3.4 gramos
-- Empapa labios en humedad hidratante
 - Ofrece un color mate y duradero
 - Fórmula que no se seca, cómoda de llevar, sensación de ingravidez
+- Viene envasado en barra de 3.4 gramos
+- Empapa labios en humedad hidratante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01LYCMQ9Y{{</world>}}

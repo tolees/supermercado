@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La receta se matiza con la incorporación de 11 botánicos naturales, macerados por separado, de los cuales 6 son gallegos, y le otorgan su característico sabor fresco, suave y equilibrado; su nombre se inspira en el viento Nordés que anuncia el buen tiempo en Galicia y trae consigo buenas vibraciones
 - Botella inspirada en la cerámica gallega de Sargadelos
-- Nordés es una ginebra Premium gallega elaborada mediante un proceso lento y muy cuidado; en su elaboración se utiliza una porción de uva albariño de la que se obtiene el aguardiente de vino, alma del producto
-- NOTA DE CATA: A la VISTA: Transparente y brillante; a la NARIZ: Ginebra aromática, con delicados aromas de fruta blanca, en armonía con notas balsámicas de menta, eucalipto y laurel, acompañados de un sutil toque de enebro; a la BOCA: Notas frescas y frutales, con recuerdos de laurel y enebro
 - Ginebra Premium nacional Nordés Gin 700 ml con Pack de Vaso cristal transparente Nordés de regalo
+- NOTA DE CATA: A la VISTA: Transparente y brillante; a la NARIZ: Ginebra aromática, con delicados aromas de fruta blanca, en armonía con notas balsámicas de menta, eucalipto y laurel, acompañados de un sutil toque de enebro; a la BOCA: Notas frescas y frutales, con recuerdos de laurel y enebro
+- La receta se matiza con la incorporación de 11 botánicos naturales, macerados por separado, de los cuales 6 son gallegos, y le otorgan su característico sabor fresco, suave y equilibrado; su nombre se inspira en el viento Nordés que anuncia el buen tiempo en Galicia y trae consigo buenas vibraciones
+- Nordés es una ginebra Premium gallega elaborada mediante un proceso lento y muy cuidado; en su elaboración se utiliza una porción de uva albariño de la que se obtiene el aguardiente de vino, alma del producto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BYHRNP7M{{</world>}}

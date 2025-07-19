@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cepillo con forma para envolver todas las pestañas y dejalas definidas
+- Efecto profesional de extensión de pestañas al instante
 - Pestañas largas y definidas
 - Fórmula con tecnología FULL STRETCH
-- Efecto profesional de extensión de pestañas al instante
 - A prueba de roces, fácil de quitar y sin grumos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

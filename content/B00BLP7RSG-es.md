@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sabor vainilla
 - Ideal para tus postres
+- Sabor vainilla
 - Puede contener Huevos y/o productos a base de huevos
 - Te ayudan preparar de forma rápida y sencilla deliciosos platos
 

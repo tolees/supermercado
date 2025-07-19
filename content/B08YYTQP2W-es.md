@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Disfruta De Los Mejores Zapatos De La Marca: Igor
-- Estación: Verano
 - Si no sabes cuál es tu talla, te recomendamos: Selecciona tu talla habitual
-- Composición Interior: Otros Materiales
+- Estación: Verano
 - Composición Exterior:
+- Composición Interior: Otros Materiales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08YYTQP2W{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tonifica y reafirma la piel
-- Tiene una textura no grasa
-- Contiene extracto de alga marina y phyto-cafeina
 - Estimula la síntesis de colágeno
+- Tiene una textura no grasa
+- Tonifica y reafirma la piel
+- Contiene extracto de alga marina y phyto-cafeina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X9UICYE{{</world>}}

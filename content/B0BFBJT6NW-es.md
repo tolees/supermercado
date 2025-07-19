@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Eficacia en el agua de lavado: cada gota actúa de forma prolongada para dejar los platos limpios y sin manchas
 - Potencia antigrasa: lava los platos rápidamente y sin esfuerzo
+- Eficacia en el agua de lavado: cada gota actúa de forma prolongada para dejar los platos limpios y sin manchas
 - Sin perfumes ni colorantes
 - 99 % de ingredientes biodegradables (excepto agua y sales no orgánicas)
 - Dermatológicamente probado: no irrita las manos

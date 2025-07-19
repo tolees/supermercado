@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Ayudan a fijar la base de maquillaje a la piel para una mayor duración
 - Proporcionan un acabado mate durante más de 12 horas
 - Polvos compactos que matifican la piel y aportan un acabado natural
-- Controlan los brillos y difuminan los poros, reduciéndolos visiblemente
 - Indicados especialmente para pieles normales y grasas
+- Controlan los brillos y difuminan los poros, reduciéndolos visiblemente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076SJCCMP{{</world>}}

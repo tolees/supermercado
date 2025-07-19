@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sabor Coca-Cola. Zero calorías y cafeína
 - Zero: sin claorías. cafeína. Con edulcorantes. Contiene una fuente de fenilalanina
+- Sabor Coca-Cola. Zero calorías y cafeína
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00C8CM8SK{{</world>}}

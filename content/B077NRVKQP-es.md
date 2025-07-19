@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- COMPOSICIÓN🌿: 97 % mazorca de maíz, 3 % almidón de maíz nativo. El 100 % son productos naturales procedentes de la industria agrícola transformados en lecho para gatos.
 - ¡CONFIANZA EN SANICAT! 🐾 Sanicat es una marca líder con mas de 65 años de experiencia fabricando una arena natural respetuosa con los gatos, los hogares y el planeta."
-- ¡MATERIALES 100% NATURALES Y RECICLADOS! 🌱 El lecho aglomerante Recycled Corn Cob de Sanicat está hecho de mazorca de maíz, lo que lo convierte en una opción sostenible y respetuosa con el medio ambiente. Elaborada a partir de residuos de producción vegetal de la industria agrícola.
-- ¡COMPACTA Y ALTA ABSORCIÓN! 💦 Gracias a su capacidad de absorción, este producto es ideal para mantener la bandeja de tu gato limpia y seca durante más tiempo.
 - ¡CONTROL NATURAL DE OLORES! 👃🏼 El Recycled Corn Cob de Sanicat ayuda a controlar los olores de forma natural, manteniendo el ambiente fresco y agradable para tu gato y para ti.
+- COMPOSICIÓN🌿: 97 % mazorca de maíz, 3 % almidón de maíz nativo. El 100 % son productos naturales procedentes de la industria agrícola transformados en lecho para gatos.
+- ¡COMPACTA Y ALTA ABSORCIÓN! 💦 Gracias a su capacidad de absorción, este producto es ideal para mantener la bandeja de tu gato limpia y seca durante más tiempo.
+- ¡MATERIALES 100% NATURALES Y RECICLADOS! 🌱 El lecho aglomerante Recycled Corn Cob de Sanicat está hecho de mazorca de maíz, lo que lo convierte en una opción sostenible y respetuosa con el medio ambiente. Elaborada a partir de residuos de producción vegetal de la industria agrícola.
 - ¡FÁCIL DE USAR! 🙌🏼 Este lecho es fácil de usar y de limpiar debido a su poder aglomerante, lo que te ahorrará tiempo y esfuerzo en el cuidado de la bandeja de tu gato. ¡MAS LIGERO! 🙌🏼 Este lecho es mas ligero lo que facilita el transporte, su uso y el almacenaje
 
 [🛒 Visítala!!!]({{< param buyurl >}})

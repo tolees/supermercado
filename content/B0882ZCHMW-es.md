@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 🗾 Cultivado de forma ecológica y sostenible en los campos de té de Uji, Kyoto. Cosechadas manualmente en las estaciones de otoño, molidas en molinos de piedra para obtener una mejor textura, aroma y un sabor de máxima pureza.
-- 🧘🏽 Té Matcha 100 % Ecológico de Uji, Japón. Un poderoso antioxidante que proporciona energía, acelera el metabolismo y ayuda a controlar los niveles de azúcar en sangre. Sin colorantes, conservantes ni azúcar.
 - 🍵 De sabor puro e intenso. Perfecto para amantes del matcha y gourmets. Ideal para tomarlo con agua o leche avena, almendras, soja, arroz o vaca.
+- 🧘🏽 Té Matcha 100 % Ecológico de Uji, Japón. Un poderoso antioxidante que proporciona energía, acelera el metabolismo y ayuda a controlar los niveles de azúcar en sangre. Sin colorantes, conservantes ni azúcar.
 - ♻️ Para Matcha & CO la calidad y la sostenibilidad van de la mano, todos nuestros productos contienen el sello de certificado ecológico, por lo que no utilizamos, pesticidas, ni colorantes ni conservantes, las plantas utilizadas para este té matcha no están modificadas genéticamente (GMO’s). Los envases son 100% reciclables.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

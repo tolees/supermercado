@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- distribuido por: Brown-Fornan Spain S.L.U. Plaza de Catalunya 5, 08002 Barcelona, Espana
 - Tiene un aroma especial y está elaborado con ingredientes cuidadosamente seleccionados Se puede utilizar para preparar cócteles con limón o Cola Viene en un elegante frasco fácil de guardar Es una bebida dedicada a los adultos Conservar en un lugar fresco y seco
+- distribuido por: Brown-Fornan Spain S.L.U. Plaza de Catalunya 5, 08002 Barcelona, Espana
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NJP2LCT{{</world>}}

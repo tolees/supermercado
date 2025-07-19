@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula enriquecida con ceramida Protect, textura líquida que no grasa
-- Agitar bien y aplicar inmediatamente antes de tomar el sol, volver a aplicar con frecuencia y abundantemente para mantener la protección solar, especialmente después de sudar o mojar
 - Protege contra los rayos UVB, UVA, UVA, contaminación y las influencias urbanas externas, protege la función de barrera de la piel, la fortalece
 - El sérum facial Super UV está pensado para el uso diario, se vuelve invisible en la piel inmediatamente después de la aplicación, ideal como base de maquillaje y también para zonas de barba
+- Fórmula enriquecida con ceramida Protect, textura líquida que no grasa
+- Agitar bien y aplicar inmediatamente antes de tomar el sol, volver a aplicar con frecuencia y abundantemente para mantener la protección solar, especialmente después de sudar o mojar
 - Contenido: 1 sérum facial invisible Garnier Super UV para todo tipo de pieles, UPF 50+, de rápida absorción con ceramida Protect, Ambre Solaire 30 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

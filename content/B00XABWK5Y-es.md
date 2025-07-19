@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin gluten y sin lactosa
+- Pastilla de caldo de carne Knorr
 - Con un toque de aceite de oliva virgen extra
 - Sin conservantes
 - Doble Caldo Knorr Carne 24 Pastillas
-- Pastilla de caldo de carne Knorr
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XABWK5Y{{</world>}}

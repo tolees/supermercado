@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Like a face mask for your hair
-- Deep conditioning treatment
 - Amazing avocado and citrus scent
+- Avocado extract nourishes and repairs hair
+- Ridiculously adorable avocado hair cap
 - Bear Fruits Hair mask for up to 30 minute treatment
 - Korean beauty inspired hair masks
-- Ridiculously adorable avocado hair cap
-- Avocado extract nourishes and repairs hair
+- Deep conditioning treatment
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JNH8P4W{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MODO DE EMPLEO: Aplicar generosa y uniformemente 30 minutos antes de la exposición al sol. Reaplicar frecuentemente, al menos cada 2 horas, después de secarse con la toalla, cada baño o actividad deportiva.
-- FILTROS SOLARES: la crema para el sol contiene filtros solares FPS30 para proporcionar una protección efectiva contra los efectos dañinos de los rayos UVA y UVB.
 - RESISTENTE AL AGUA: esta crema corporal en spray resiste al agua lo que la convierte en el complemento ideal para cuidar de tu piel en verano.
-- DOS FORMATOS: este spray está disponible en formato spray y en crema para que elijas el que mejor se ajusta a tus necesidades. Es perfecto para preparar la piel para la exposición al sol y protegerla y cuidarla de forma completa.
+- FILTROS SOLARES: la crema para el sol contiene filtros solares FPS30 para proporcionar una protección efectiva contra los efectos dañinos de los rayos UVA y UVB.
+- MODO DE EMPLEO: Aplicar generosa y uniformemente 30 minutos antes de la exposición al sol. Reaplicar frecuentemente, al menos cada 2 horas, después de secarse con la toalla, cada baño o actividad deportiva.
 - CONTIENE: con vitamina C y E que ayuda a mantener el nivel óptimo de hidratación en la piel y favorece un bronceado uniforme y bonito.
+- DOS FORMATOS: este spray está disponible en formato spray y en crema para que elijas el que mejor se ajusta a tus necesidades. Es perfecto para preparar la piel para la exposición al sol y protegerla y cuidarla de forma completa.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00YTSHKNE{{</world>}}

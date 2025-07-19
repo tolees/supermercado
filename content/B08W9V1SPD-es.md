@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contorno de ojos
 - Crema antiarrugas, corrector de ojos y una imprimación suavizante
+- Contorno de ojos
 - Humectante de piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

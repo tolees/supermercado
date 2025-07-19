@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: Calvin Klein
 - Tip del producto: perfumes
 - Be eau de toilette vapo
+- Marca: Calvin Klein
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0001YOGL4{{</world>}}

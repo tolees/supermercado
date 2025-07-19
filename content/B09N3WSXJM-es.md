@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Puede contener trazas de alegría
 - Regalo de alegria, ideal para esa persona que aprecias o para ti mismo.
-- Aterciopelado
 - Suave
 - Vino tinto espectacular capaz de maridar hasta solo
+- Aterciopelado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09N3WSXJM{{</world>}}

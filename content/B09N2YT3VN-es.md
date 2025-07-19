@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Icónico polvo compacto de Max Factor
 - Óptima para cualquier tipo de piel
-- Cobertura media modulable
 - Con partículas que reflejan la luz, para una acabado sutilmente luminoso
+- Cobertura media modulable
 - Maquillaje en polvo de acabado mate y aterciopelado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

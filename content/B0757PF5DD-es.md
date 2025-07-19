@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Botella PEHD con tapón de rosca
-- Con Calcio, Fosforo y Vitaminas D, K, B12,
 - Bebida láctea VitaCalcio sin lactosa
+- Con Calcio, Fosforo y Vitaminas D, K, B12,
 - Bebida con leche semidesnatada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

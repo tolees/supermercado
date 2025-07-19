@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Fácil de aplicar en párpados, mejillas y labios
 - Fórmula nutritiva e hidratante
 - Fórmula 100% vegana, respetuosas con los animales y con el planeta, libre de fragancias, aceites e ingredientes de origen animal
-- Fácil de aplicar en párpados, mejillas y labios
 - Para un color construible que puedes controlar, añade capas para intensidad
 - Descubre los 5 tonos disponibles
 

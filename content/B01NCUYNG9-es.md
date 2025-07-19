@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ingredientes activos: el ácido oleanólico, la vitamina B3, el ácido hialurónico, la provitamina B5, la vitamina e y C, filtros UVA y UVB y los pigmentos minerales estabilizantes
-- TONO NATURAL
 - la línea para pieles mixtas y/o grasas, hidrata, regenera, deja la piel uniforme y alisa a la vez que calma las irritaciones
+- TONO NATURAL
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01NCUYNG9{{</world>}}

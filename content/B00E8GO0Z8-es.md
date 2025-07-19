@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Capacidad: 70 cl
 - Licor con cuerpo y gran intensidad aromática con notas dulces.
 - Graduación: 24º
-- Capacidad: 70 cl
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00E8GO0Z8{{</world>}}

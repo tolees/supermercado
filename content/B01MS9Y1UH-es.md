@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puede contener FRUTOS DE CÁSCARA y TRIGO
-- La exquisita fusión de la fruta y el chocolate, creada por los maestros chocolateros de Lindt
 - El snack ideal para saborear en cualquier momento
+- La exquisita fusión de la fruta y el chocolate, creada por los maestros chocolateros de Lindt
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MS9Y1UH{{</world>}}

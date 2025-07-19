@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con extracto de Pomelo y aceite de Aguacate.
-- Con Polifenoles naturales y Urea 10%. pH 5.5
-- Formulado con ingredientes que limpian la piel de forma eficaz y segura.
 - Jabón de manos con polifenoles naturales
+- Formulado con ingredientes que limpian la piel de forma eficaz y segura.
+- Con Polifenoles naturales y Urea 10%. pH 5.5
+- Con extracto de Pomelo y aceite de Aguacate.
 - Combinación ideal en fórmula de activos para conseguir una acción ultra hidratante y reducir la pérdida de agua.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

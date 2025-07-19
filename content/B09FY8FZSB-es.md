@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Envase fabricado con materiales reciclados
 - Elaborado con un 94% de ingredientes de origen natural
-- Sin perfumes
+- Envase fabricado con materiales reciclados
 - De larga duración, no se apelmaza y controla la aparición de brillos
+- Sin perfumes
 - Probado por dermatólogos; apto para pieles sensibles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

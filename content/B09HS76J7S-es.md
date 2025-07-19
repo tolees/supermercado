@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Varietales: Verdejo y Viura
+- Temperatura óptima de servicio: 8-10 ºC.
+- Nota de cata (vista): Amarillo pálido con tonos verdosos, vivaces y brillantes.
 - Nota de cata (boca): Entrada suave y amable con un avance amplio y sabroso.
 - Nota de cata (nariz): Intensidad aromática alta. Recuerdos a piel de cítricos, hinojo y fruta blanca.
-- Nota de cata (vista): Amarillo pálido con tonos verdosos, vivaces y brillantes.
-- Temperatura óptima de servicio: 8-10 ºC.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09HS76J7S{{</world>}}
