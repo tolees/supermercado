@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Marca: Elizabeth Arden
 - Productos de belleza y el cuidado personal
 - Tipo de producto: Agua de colonia
-- Marca: Elizabeth Arden
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0009OAI0Y{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Un blanco para disfrutar con arroces, mariscos, carpaccios, verduras en menestra, wok o témpura
-- Vino intenso donde predominan los aromas varietales del Verdejo (hierbabuena, hinojo), con un fondo de cítricos y frutas tropicales (mango)
+- Un vino de gran frescura, que se muestra agradable y expresivo en boca
 - Varietales: 90% Verdejo y 10% Viura
 - Temperatura óptima de servicio: 8-10 C
-- Un vino de gran frescura, que se muestra agradable y expresivo en boca
+- Vino intenso donde predominan los aromas varietales del Verdejo (hierbabuena, hinojo), con un fondo de cítricos y frutas tropicales (mango)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09BFR3S8W{{</world>}}

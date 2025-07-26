@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin conservantes ni colorantes, solo fruta de temporada
-- Ingredientes: Melocotón, azúcar, gelificante (pectina de cítricos), zumo de limón a partir de concentrado y antioxidante (ác. l-ascórbico). Elaborado con 50g de fruta por 100g
 - Las mermeladas de Temporada de Hero se caracterizan por estar hechas de frutos de temporada seleccionados en la última cosecha y con ingredientes 100% naturales; Son optimo para diferentes tipos de postres y recetas
 - Formato pack de 4 unidades de 350 g
 - Elaborado con ingredientes de calidad Hero seleccionados especialmente durante la última cosecha y conservando todo su sabor envasados al baño maría de la manera más tradicional sin necesidad de otros aditivos
+- Ingredientes: Melocotón, azúcar, gelificante (pectina de cítricos), zumo de limón a partir de concentrado y antioxidante (ác. l-ascórbico). Elaborado con 50g de fruta por 100g
+- Sin conservantes ni colorantes, solo fruta de temporada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LWIN890{{</world>}}

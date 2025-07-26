@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Limpia incluso la grasa del filtro; contra la cal, utiliza fairy limpia máquinas
-- Fairy es la opción recomendada de limpieza para eliminar la grasa más incrustada a la primera
-- Mantiene un aroma limpio y fresco en tu lavavajillas
 - Ayuda a prevenir la acumulación de grasa en el sistema de drenaje, en los filtros y en el brazo rociador
+- Mantiene un aroma limpio y fresco en tu lavavajillas
+- Fairy es la opción recomendada de limpieza para eliminar la grasa más incrustada a la primera
 - Incorpora sal y ayuda al aclarado, al igual que protege el cristal y la plata
+- Limpia incluso la grasa del filtro; contra la cal, utiliza fairy limpia máquinas
 - Cápsulas de lavavajillas fairy platinum todo en 1
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

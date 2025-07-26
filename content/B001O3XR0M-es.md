@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Referencia - 42311
 - Género - Mujer
+- Referencia - 42311
 - Loción aftersun - Nivea
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

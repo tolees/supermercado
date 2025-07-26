@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Potencia la elasticidad de la piel
 - La crema Woman Isdin antiestrías previene y reduce la aparición de estrías.
 - Ayuda a la prevención y atenuación de estrías en el embarazo, etapas de crecimiento, estrias asociadas a la prática de deporte o por cambos agudos de masa corporal.
-- Potencia la elasticidad de la piel
 - Hidratación Intensa de rápida absorción en la piel.
 - Formulada con ingredientes naturales que respetan tu piel: Aceite de Rosa mosqueta, triterpenos de Centella asíatica, Vitamina E y Manteca de Shorea
 

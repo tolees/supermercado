@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dispensador de jabón recargable ideal para baño, cocina y aseo para huéspedes
-- Impreso con ornamentos plateados
+- Medidas (ancho x altura x profundidad): 8 x 16,5 x 9 cm
 - De cerámica de alta calidad en elegante color blanco
 - Capacidad de llenado: 400 ml de jabón líquido, loción de baño o detergente
-- Medidas (ancho x altura x profundidad): 8 x 16,5 x 9 cm
+- Impreso con ornamentos plateados
+- Dispensador de jabón recargable ideal para baño, cocina y aseo para huéspedes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06XSVJ4CX{{</world>}}

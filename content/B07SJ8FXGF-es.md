@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con un alto contenido en proteína animal y con pocas grasas (Producto Light).
-- Snack de patata y carne de pollo enrollada. 100% natural.
 - Cantidad: 100 gr
 - Suministrar como un premio en cualquier momento, dentro de una dieta equilibrada.
+- Snack de patata y carne de pollo enrollada. 100% natural.
+- Con un alto contenido en proteína animal y con pocas grasas (Producto Light).
 - Alimento complementario para su perro, muy rico en nutrientes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

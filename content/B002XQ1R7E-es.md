@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Perfumes y fragancias
 - Agua de tocador para hombres 100 mililitros
 - Perfumería hombre
-- Perfumes y fragancias
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002XQ1R7E{{</world>}}

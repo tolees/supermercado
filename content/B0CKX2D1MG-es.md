@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Productos de protección de la piel para Unisex Adulto
 - Cremas - Tratamientos día - Hidratantes SMART CLINICAL REPAIR wrinkle corecting cream lim. ed. 75 ml de CLINIQUE
+- Productos de protección de la piel para Unisex Adulto
 - Los productos de la marca CLINIQUE están pensados para ti y tu bienestar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

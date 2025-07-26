@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sensación de suavidad en el pelo
 - Tipo mascarilla
+- Sensación de suavidad en el pelo
 - Producto acondicionador
 
 [🛒 Visítala!!!]({{< param buyurl >}})

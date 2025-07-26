@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La mezcla de fibras adecuada, con prebióticos y pulpa de remolacha aporta una digestión sana / Alimento seco sin trigo (elaborado en una planta que procesa trigo); sin saborizantes artificiales, sin colorantes, sin OGM ni ingredientes de relleno
-- Bolsas reciclables: Las bolsas están fabricadas con polietileno (PE) monomaterial; las bolsas monomateriales pueden asignarse más fácilmente al flujo de materiales de envasado ligeros mediante sistemas de clasificación y pueden reutilizarse como "materia prima" para plásticos
 - Contiene una combinación de antioxidantes con vitamina E para ayudar al sistema inmunitario
+- Bolsas reciclables: Las bolsas están fabricadas con polietileno (PE) monomaterial; las bolsas monomateriales pueden asignarse más fácilmente al flujo de materiales de envasado ligeros mediante sistemas de clasificación y pueden reutilizarse como "materia prima" para plásticos
 - IAMS alimento seco con pollo fresco para gatos adultos es 100 % completo y equilibrado; contiene un 87 % de proteína animal (del total de proteínas)
 - La fórmula está enriquecida con omega 3 y 6 para una piel sana y un pelo brillante y incluye taurina para contribuir a mantener fuerte el músculo cardíaco
 

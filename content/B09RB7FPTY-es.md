@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protege frente al daño oxidativo.
-- Ayuda a mantener los niveles de colesterol.
-- Reduce la absorción del colesterol exógeno (a través de los alimentos que comemos).
-- Complemento alimenticio vegetal.
 - Controla la formación del colesterol endógeno (el que sintetiza nuestro organismo).
+- Ayuda a mantener los niveles de colesterol.
+- Complemento alimenticio vegetal.
+- Reduce la absorción del colesterol exógeno (a través de los alimentos que comemos).
+- Protege frente al daño oxidativo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RB7FPTY{{</world>}}

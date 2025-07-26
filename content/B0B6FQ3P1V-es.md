@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin conservantes ni colorantes, según la legislación vigente
+- Sin azúcares añadidos; contiene azúcares naturalmente presentes
 - 100% fruta
 - Ingredientes 100% orgánicos
-- Sin azúcares añadidos; contiene azúcares naturalmente presentes
 - Sin gluten
+- Sin conservantes ni colorantes, según la legislación vigente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6FQ3P1V{{</world>}}

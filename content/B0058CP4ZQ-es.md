@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Consigue un delineado glamuroso con el mínimo esfuerzo
-- Fórmula resistente, no transfiere ni mancha
 - Consigue una mirada de escándalo
 - Delineador de color intenso que dura horas y horas
+- Fórmula resistente, no transfiere ni mancha
+- Consigue un delineado glamuroso con el mínimo esfuerzo
 - Su aplicador preciso ayuda a definir una línea perfecta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

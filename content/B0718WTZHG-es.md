@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene polímeros seleccionados para la adherencia óptima a la piel
+- A prueba de besos y roces
 - Alto contenido en pigmentos para un mayor acabado mate aterciopelado
 - Fórmula con aceite de coco y vitamina E para proteger los labios
 - Color intenso, mate, y semipermanente
-- A prueba de besos y roces
+- Contiene polímeros seleccionados para la adherencia óptima a la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0718WTZHG{{</world>}}

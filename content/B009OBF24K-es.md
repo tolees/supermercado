@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de lavar
 - Apto para lavavajillas
+- Fácil de lavar
 - 12-Premium Porcelain
 
 [🛒 Comprar!!!]({{< param buyurl >}})

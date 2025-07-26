@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Apto para todo tipo de piel
+- Fácil de aplicar
 - Marca: CLINIQUE
 - Ofrece una cobertura óptima
-- Fácil de aplicar
-- Apto para todo tipo de piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08X7F8SV8{{</world>}}

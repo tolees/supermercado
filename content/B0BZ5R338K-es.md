@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Decoracion de tartas en forma de flores y hojas - Flores de color amarillo y hojas de color verde de alta calidad idóneas para decorar pasteles de cumpleaños, bautizo o de boda
 - Figuras de azúcar de sabor neutro, perfectamente combinables con tartas de chocolate, tartas de queso, carrot cakes, bizcochos o magdalenas sin que distorsione su sabor | Sin gluten, sin lactosa y sin proteinas de leche
-- Decoración sencilla de usar - Tanto para reposteros principiantes como para reposteros profesionales, con un resultado elegante y bonito en poco tiempo
 - Figuras de azucar para tartas - Adorna todo tipo de pasteles, muffins o tartas, ya sean caseras o compradas, para darles un toque floral y personal que enamorará a cualquiera
+- Decoración sencilla de usar - Tanto para reposteros principiantes como para reposteros profesionales, con un resultado elegante y bonito en poco tiempo
+- Decoracion de tartas en forma de flores y hojas - Flores de color amarillo y hojas de color verde de alta calidad idóneas para decorar pasteles de cumpleaños, bautizo o de boda
 - Decoración comestible - Adornos comestibles para tartas en forma de bonitas flores y hojas 100% comestibles para que no te tengas que preocupar de retirarlas de la tarta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

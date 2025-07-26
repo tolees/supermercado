@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo 1260-27511
 - Producto de alta calidad
+- Modelo 1260-27511
+- El ambalaje puede variar
 - De la marca Batiste
 - Tipo de piel: Normal
-- El ambalaje puede variar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00C44KUDC{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin aceite de palma.
 - Leche infantil con DHA (Omega 3).
-- Con hierro que favorece el desarrollo cognitivo normal.
 - Con calcio y vitamina D que favorecen el normal crecimiento de los huesos.
+- Sin aceite de palma.
+- Con hierro que favorece el desarrollo cognitivo normal.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09W2ZYM6Q{{</world>}}

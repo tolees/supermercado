@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Ideal para los amantes de la cremosidad de un café fuerte y estructurado, de sabor intenso y con matices especiados
 - El café Espresso Casa te permite saborear cómodamente en tu casa un espresso cremoso y de sabor intenso, como el del bar, gracias a su molienda fina
+- Conservabilidad: 24 meses a partir de la fecha de su producción. Modo de conservación: conservar en un lugar fresco y seco, lejos de fuentes de calor y humedad
 - El envasado al vacío conserva el café fresco y aromático
 - Una perfecta armonía entre aroma y cuerpo, con un aroma único e intenso de regusto chocolateado agradable
-- Conservabilidad: 24 meses a partir de la fecha de su producción. Modo de conservación: conservar en un lugar fresco y seco, lejos de fuentes de calor y humedad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00X4F3LSG{{</world>}}

@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nota de cata (vista): Color rojo picota con destellos violáceos.
-- Nota de cata (boca): suave, equilibrado y fresco. con buena estructura y taninos suaves.
 - Varietales: Tempranillo 100%
-- Varietales: tempranillo 100%
 - Nota de cata (boca): Suave, equilibrado y fresco. Con buena estructura y taninos suaves.
-- Maridaje: armoniza perfectamente con platos suaves como arroces, quesos, patés, guisos, verduras, pescados… además de los platos típicos que maridan tradicionalmente con los vinos tintos de crianza.
-- Crianza, d.o.ca. rioja
-- Nota de cata (nariz): Intensidad aromática alta. Violetas, frutos negros y regaliz con matices a vainilla y torrefactos.
 - Temperatura óptima de servicio: 17 ºC. No precisa decantación.
+- Crianza, d.o.ca. rioja
+- Nota de cata (boca): suave, equilibrado y fresco. con buena estructura y taninos suaves.
+- Maridaje: armoniza perfectamente con platos suaves como arroces, quesos, patés, guisos, verduras, pescados… además de los platos típicos que maridan tradicionalmente con los vinos tintos de crianza.
 - Nota de cata (vista): color rojo picota con destellos violáceos.
+- Nota de cata (nariz): Intensidad aromática alta. Violetas, frutos negros y regaliz con matices a vainilla y torrefactos.
+- Varietales: tempranillo 100%
+- Nota de cata (vista): Color rojo picota con destellos violáceos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08Q1G2FNF{{</world>}}

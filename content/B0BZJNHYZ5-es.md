@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Agita la Crema solar facial antes de usar, aplícala en el rostro y renueva frecuentemente y de forma abundante para mantener la protección (sobre todo después del baño, transpirar o secarse con la toalla.) Para el cuerpo, antes de la exposición solar, aplica el spray corporal generosamente y extiende de manera homogénea y uniforme con movimientos circulares para cubrir bien las zonas expuestas. Finalmente, después de la exposición solar aplica el After Sun sobre la piel limpia para lograr un efecto calmante e hidratante.
 - Garnier Delial Spray Protector SPF50 270 ML. Muy alta protección contra los rayos UVB, UVA, y UVA largos, previniendo instantáneamente quemaduras solares y daños a largo plazo en la piel. Nuestra fórmula no tiene perfume y está testada bajo control pediátrico. Creada con tecnología Ceramide Protect que mantiene la piel hidratada y la función barrera de la piel intacta.
 - Garnier Delial Sensitive Advanced Crema Facial Super UV Fluid con Ácido Hialurónico SPF50 40ML. Su textura ultra-ligera se absorbe al instante. Su fórmula con Ácido Hialurónico hidrata durante 24H y deja una sensación mate en la piel. Ideal para prevenir manchas solares y combatir la contaminación.
 - Garnier Delial Pack Verano contiene:
 - Garnier Delial After Sun Leche Calmante Rostro y Cuerpo para Hidratar la Piel después de la Exposición Solar - 400ML. Esta fórmula está enriquecida con Aloe Vera de fuentes sostenibles para nutrir y calmar la piel durante 24H con un acabado ligero y no graso.
-- Agita la Crema solar facial antes de usar, aplícala en el rostro y renueva frecuentemente y de forma abundante para mantener la protección (sobre todo después del baño, transpirar o secarse con la toalla.) Para el cuerpo, antes de la exposición solar, aplica el spray corporal generosamente y extiende de manera homogénea y uniforme con movimientos circulares para cubrir bien las zonas expuestas. Finalmente, después de la exposición solar aplica el After Sun sobre la piel limpia para lograr un efecto calmante e hidratante.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZJNHYZ5{{</world>}}

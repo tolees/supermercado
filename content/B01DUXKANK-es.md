@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Textura ligera que penetra rápidamente
 - Con ocho aceites esenciales
-- Revitaliza e ilumina la piel
 - Contiene colágeno que proporciona hidratación
+- Revitaliza e ilumina la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUXKANK{{</world>}}

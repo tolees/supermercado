@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GARANTÍA 2 AÑOS UNLIMITED: nuestras bombillas con certificación CE y RoHS, larga vida, Nuevo reemplazo o reembolso disponible con 2 años de garantía Por favor.
 - APLICACIÓN AMPLIA: perfecta para su uso en cocinas, salas, dormitorios, baños y pasillos en la mesa y lámparas de pie, accesorios colgantes o accesorios para el techo, crear un ambiente acogedor y brillante color blanco cálido similar a bombillas halógenas.
-- Alto índice de reproducción de color (CRI> 85): ofrecen luz más vibrante y natural, con protección contra sobrecarga, protección contra cortocircuitos y protección contra sobretemperatura.
-- INSTALACIÓN RÁPIDA Y FÁCIL: base Estándar E27, encendido instantáneo sin retraso. El tiempo de calentamiento es menos de 0.5 segundos. Sin zumbidos o parpadeos en absoluto!
 - BAJO CONSUMO: Una maíz bombilla E27 LED de 16W pueden reemplazar una bombilla tradicional de 120W 150W. Eficiencia energética A+, podrá ahorrar hasta un 85% en su consumo energético comparación con un foco halógeno comparable.
+- GARANTÍA 2 AÑOS UNLIMITED: nuestras bombillas con certificación CE y RoHS, larga vida, Nuevo reemplazo o reembolso disponible con 2 años de garantía Por favor.
+- INSTALACIÓN RÁPIDA Y FÁCIL: base Estándar E27, encendido instantáneo sin retraso. El tiempo de calentamiento es menos de 0.5 segundos. Sin zumbidos o parpadeos en absoluto!
+- Alto índice de reproducción de color (CRI> 85): ofrecen luz más vibrante y natural, con protección contra sobrecarga, protección contra cortocircuitos y protección contra sobretemperatura.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HN8VGF6{{</world>}}

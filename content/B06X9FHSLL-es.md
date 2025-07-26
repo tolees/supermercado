@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Probado dermatológicamente; no sensibilizante
-- Spray corporal de secado rápido que penetra en los poros y ayuda a controlar el exceso de grasa
 - Recomendado para piel grasa y con tendencia acnéica en el tercio superior del tórax; espalda y pecho
-- Bomba de aplicación 360º
 - Renueva las células de la superficie de la piel por medio de la exfoliación gracias a la acción del ácido salicílico y el ácido glicólico
+- Spray corporal de secado rápido que penetra en los poros y ayuda a controlar el exceso de grasa
+- Bomba de aplicación 360º
+- Probado dermatológicamente; no sensibilizante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06X9FHSLL{{</world>}}

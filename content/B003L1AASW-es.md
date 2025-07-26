@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - No testado en animales
-- Protege, hidrata, cuida y suaviza la piel
 - Fórmulas ligeras con antioxidantes, vitaminas y extractos naturales
-- Resistente al agua
 - Aceite en spray seco que protege como una loción
+- Protege, hidrata, cuida y suaviza la piel
+- Resistente al agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B003L1AASW{{</world>}}

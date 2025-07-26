@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perfecto para tomar como chupito frío
-- Graduación: 25º
 - Libera tus noches más épicas
+- Graduación: 25º
+- Perfecto para tomar como chupito frío
 - Agítalo para desatar su efecto "fuego"
 - Licor especiado con canela y picanta
 

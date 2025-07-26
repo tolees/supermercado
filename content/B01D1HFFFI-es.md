@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sombreador para contornear la nariz y la mandíbula
+- Colorete en polvo para dar color y definición
 - Fácil de desmaquillar
+- Sombreador para contornear la nariz y la mandíbula
 - Tipo de piel: piel normal
 - Paleta con 3 pasos para contouring
 - Tipo de piel: Piel normal
-- Colorete en polvo para dar color y definición
 - Polvo iluminador para resaltar mejillas, cejas, frente, barbilla y nariz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

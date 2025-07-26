@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La capa de PVA le otorga una mejor capacidad de absorción tanto en seco como en húmedo
-- No usar con lejía ni suavizantes
 - Bayeta 100% microfibras para un mayor poder de limpieza
 - El relieve en forma de aspas evita la fricción con la superficie para reducir es esfuerzo en cada pasada
 - Lavar con colores similares (hasta 60º C)
+- No usar con lejía ni suavizantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LXHUTC1{{</world>}}

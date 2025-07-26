@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Look desenfadado
-- Refleja tu personalidad
 - Unisex
-- Look punkie
 - Fijación completa
+- Look desenfadado
+- Look punkie
+- Refleja tu personalidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B002CB56SG{{</world>}}

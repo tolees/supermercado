@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - [EFICAZ PROTECCIÓN Y PREVENCIÓN ANTICASPA. Hasta 100% de protección anticaspa*, clínicamente probado. *caspa visible, con uso regular
-- ENVASE RECICLADO. Botella completamente reciclable, hecha con un 100% de plástico reciclado (excepto tapón, colorantes y aditivos)
-- DERMATOLÓGICAMENTE TESTADO Champú diario ideal para hombres y mujeres y para todo tipo de pelo y cuero cabelludo
-- PELO SUAVE Y BONITO Esta fórmula contiene un 25% más de agentes acondicionadores con respecto al champú Head & Shoulders normal, para un pelo limpio y suave
 - BOTELLA CON DISPENSADOR Disfruta de tu champú preferido durante más tiempo y contribuye a reducir residuos con nuestras botellas de 1 litro. Girar el dispensador para abrirlo]
 - FÓRMULA MICROBIOME BALANCE que actúa sobre la causa principal de la caspa, respetando el pH y equilibrando el microbioma del cuero cabelludo
+- PELO SUAVE Y BONITO Esta fórmula contiene un 25% más de agentes acondicionadores con respecto al champú Head & Shoulders normal, para un pelo limpio y suave
 - ÚSALO A DIARIO PARA MEJORES RESULTADOS Lavado tras lavado, mejora la hidratación y reduce los problemas del cuero cabelludo, eliminando la caspa
+- DERMATOLÓGICAMENTE TESTADO Champú diario ideal para hombres y mujeres y para todo tipo de pelo y cuero cabelludo
+- ENVASE RECICLADO. Botella completamente reciclable, hecha con un 100% de plástico reciclado (excepto tapón, colorantes y aditivos)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRHJX86R{{</world>}}

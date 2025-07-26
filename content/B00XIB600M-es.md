@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polvo blanco con granos azules y copos de jabón verde
-- La formulación se potencia mediante la acción de enzimas
 - La formulación con oxígeno activado es eficaz en suciedad y manchas difíciles (vino, café, frutas)
 - Polvo detergente para lavado manual y automático
+- Polvo blanco con granos azules y copos de jabón verde
+- La formulación se potencia mediante la acción de enzimas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XIB600M{{</world>}}

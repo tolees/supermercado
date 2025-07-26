@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Enriquecido con suaves aceites hidrantes y pigmentos ricos en color que proporcionan un acabado aterciopelado
 - Acabado suave y voluminoso sin sensación de sequedad
-- La punta en forma de lágrima permite una fácil aplicación
+- Enriquecido con suaves aceites hidrantes y pigmentos ricos en color que proporcionan un acabado aterciopelado
 - Barra de labios de larga duración con un intenso acabado mate
+- La punta en forma de lágrima permite una fácil aplicación
 - Hasta 24 horas de duración, sin sensación de sequedad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con la fórmula bi-fase enriquecida con extractos de flordaliso se garantiza una doble acción
-- Elimina eficazmente el maquillaje resistente al agua y de larga duración.
 - Garantiza la delicada limpieza de la zona del contorno de ojos y la protección de las pestañas.
+- Elimina eficazmente el maquillaje resistente al agua y de larga duración.
 - Ideal también para ojos sensibles.
 - Protege las pestañas del debilitamiento
 

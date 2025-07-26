@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ginebra Premium mediterránea de fascinante calidad
-- Sabor agradable, amargo, picante y refrescante
-- La flor de azahar es la gran protagonista
 - Combinación exótica de 12 botánicos naturales
+- La flor de azahar es la gran protagonista
 - Nacida en Málaga
+- Sabor agradable, amargo, picante y refrescante
+- Ginebra Premium mediterránea de fascinante calidad
 - Aroma floral y elegante
 
 [🛒 Visítala!!!]({{< param buyurl >}})

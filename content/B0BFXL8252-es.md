@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- * ¿Estás preparado para la experiencia más Xtreme de Nestlé Extrafino?
-- * Extrafino Xtreme, Delicioso chocolate relleno con múltiples capas de placer
-- * Descubre la nueva gama Nestlé Extrafino Xtreme
 - * Nuevos sabores fruto de la combinación de 3 capas, creando una experiencia única
 - * Tableta de Chocolate con Leche rellena de Avellana y Caramelo
+- * Extrafino Xtreme, Delicioso chocolate relleno con múltiples capas de placer
+- * ¿Estás preparado para la experiencia más Xtreme de Nestlé Extrafino?
+- * Descubre la nueva gama Nestlé Extrafino Xtreme
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BFXL8252{{</world>}}

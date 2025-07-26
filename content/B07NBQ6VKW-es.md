@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ultra Volumen al instante
+- Testado dermatológica y oftalmológicamente
 - Dermatológica y oftalmológicamente testado
 - Eleva y despliega tus pestañas de lado a lado
 - Larga duración, fácil de desmaquillar
-- Testado dermatológica y oftalmológicamente
+- Ultra Volumen al instante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NBQ6VKW{{</world>}}

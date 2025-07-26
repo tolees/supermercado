@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - 🌱 Producto ecológico y natural, ideal para aquellos que buscan un cuidado personal respetuoso con el medio ambiente. Nuestro gel de ducha, jabón de baño y champú es una opción perfecta para una higiene completa que limpia, purifica y protege tu piel de forma natural
 - 🚿 Reduce la sudoración excesiva y ayuda a eliminar el olor corporal y de los pies. Su fórmula desinfectante y desodorante te mantiene fresco y limpio todo el día, mientras que su textura de gel de ducha desodorante proporciona una sensación de limpieza profunda
-- 💁‍♀️ Cuida tu piel y cabello con nuestro producto multifuncional. Es perfecto para pieles sensibles y delicadas, así como para cabellos grasos, ya que ayuda a regular el sebo. Además, su contenido en gel de árbol de té y aloe vera cara proporciona beneficios hidratantes y calmantes
 - 🌿 Descubre la purificación profunda con nuestro gel de ducha, jabón de baño y champú. Este producto 3en1 te ofrece una solución completa para tu higiene diaria, combatiendo el olor corporal y limpiando tu piel y cabello en profundidad con su fórmula de aceites esenciales concentrados
+- 💁‍♀️ Cuida tu piel y cabello con nuestro producto multifuncional. Es perfecto para pieles sensibles y delicadas, así como para cabellos grasos, ya que ayuda a regular el sebo. Además, su contenido en gel de árbol de té y aloe vera cara proporciona beneficios hidratantes y calmantes
 - 🏊 Ideal para aquellos que frecuentan el gimnasio o la piscina y están en contacto con agentes externos que pueden ser perjudiciales para la piel. Su fórmula con aceite de almendra y aloe vera puro proporciona una protección antibacteriana y desodorante, manteniendo tu piel fresca y saludable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

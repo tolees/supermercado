@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin gluten
 - Apta para vegetarianos
-- Elaborada con aceite sostenible, huevos de calidad y vinagre de vino blanco
-- Ingredientes de gran calidad
 - Sabor inconfundible
+- Sin gluten
+- Ingredientes de gran calidad
+- Elaborada con aceite sostenible, huevos de calidad y vinagre de vino blanco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA75MHG{{</world>}}

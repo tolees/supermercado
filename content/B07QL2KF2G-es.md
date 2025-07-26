@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Eficacia clínica probada.
-- Fórmula biodegradable y estuche reciclable.
 - Gracias a su exclusiva fórmula con vitEox 80, protege contra las quemaduras solares y refuerza las defensas antioxidantes de la piel.No pica en los ojos.
-- Ecran Sunnique Antimanchas facial FPS 50+ 50ml.
 - Protección UVB + UVA y del efecto de los infrarrojos.
+- Fórmula biodegradable y estuche reciclable.
+- Ecran Sunnique Antimanchas facial FPS 50+ 50ml.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07QL2KF2G{{</world>}}

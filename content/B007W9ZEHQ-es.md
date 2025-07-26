@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado para tu higiene
 - Material de calidad
 - Producto de belleza
+- Adecuado para tu higiene
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B007W9ZEHQ{{</world>}}

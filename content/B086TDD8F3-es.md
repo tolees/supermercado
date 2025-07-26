@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Consigue un look más premium
 - Amplia gama de tonos y acabados
-- Fórmula que dura hasta 24H y WTP
 - Aplicador de trazo súper preciso
 - Color intenso
+- Fórmula que dura hasta 24H y WTP
+- Consigue un look más premium
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B086TDD8F3{{</world>}}

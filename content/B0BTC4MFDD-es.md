@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene SPF 20 para proteger tu piel de sol
-- La fórmula SPF20 ayuda a proteger la piel de los dañinos rayos UVA y UVB del sol, junto a la luz azul.
-- La nueva fórmula avanzada es resistente al agua, a la humedad y al clima.
 - La fórmula vegana proporciona un acabado aerógrafo liso e impecable.
+- Contiene SPF 20 para proteger tu piel de sol
+- La nueva fórmula avanzada es resistente al agua, a la humedad y al clima.
+- La fórmula SPF20 ayuda a proteger la piel de los dañinos rayos UVA y UVB del sol, junto a la luz azul.
 - Una base líquida 3 en 1 que también funciona como primer y corrector para ofrecer hasta 30h de acabado natural.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

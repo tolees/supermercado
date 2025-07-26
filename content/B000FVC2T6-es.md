@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- de color verde
-- Diseñado por Stefano Giovannoni
-- Portarrollos de cocina
 - Dimensiones : 20cm x 30.5cm x 16.5cm
-- En ABS , PP y surlyn
+- de color verde
+- Portarrollos de cocina
+- Diseñado por Stefano Giovannoni
 - Bunny & Carrot
+- En ABS , PP y surlyn
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000FVC2T6{{</world>}}

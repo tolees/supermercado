@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sin colorantes ni aromas artificiales
 - Contiene harina de avena integral
 - Avena tostada en crujientes granolas, sorprendentemente ricas
-- Contiene gluten o presencia de cereales que contienen gluten
-- Sin colorantes ni aromas artificiales
 - Conservar en lugar fresco y seco
+- Contiene gluten o presencia de cereales que contienen gluten
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUX6Q6U{{</world>}}

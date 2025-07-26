@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compromiso Lactovit; activos 100% naturales de la leche y altamente biodegradables, mejorando la reciclabilidad de nuestros envases y cuidando del medio ambiente
-- Su fórmula patentada con Microcápsulas Lactoprotect, controla el sudor y el mal olor de forma delicada minimizando el riesgo de irritaciones
 - Su tecnología te ofrece máxima protección contra la transpiración durante 48h cuidando tu piel día a día gracias a los componentes de la leche.
 - Formulado con PROTEIN CALCIUM, que refuerza y nutre la piel para mantenerla fuerte y joven. Piel más hidratada, elástica y firme. Una piel fuerte es el secreto de una piel joven
+- Compromiso Lactovit; activos 100% naturales de la leche y altamente biodegradables, mejorando la reciclabilidad de nuestros envases y cuidando del medio ambiente
+- Su fórmula patentada con Microcápsulas Lactoprotect, controla el sudor y el mal olor de forma delicada minimizando el riesgo de irritaciones
 - Desodorante extra eficaz en Roll-on, para una protección inteligente durante 48h, descubre el equilibrio ideal entre eficacia y cuidado. Desde el primer uso, sentirás tus axilas más suaves y cuidadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene un color cristalino
 - Es ligero, suave y refrescante
-- Es perfecto para mezclar
-- Es destilado y mezclado para ser un suave y natural licor de ron
 - Con notas de coco y vainilla
+- Es destilado y mezclado para ser un suave y natural licor de ron
+- Es perfecto para mezclar
+- Tiene un color cristalino
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075RPLRT5{{</world>}}

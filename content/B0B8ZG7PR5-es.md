@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fácil de aplicar
 - Deslizamiento fácil
 - Para un maquillaje óptimo
-- Fácil de aplicar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B8ZG7PR5{{</world>}}

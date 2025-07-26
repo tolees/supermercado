@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con un alto contenido en proteína animal y con pocas grasas (Producto Light). Alimento complementario para su perro, muy rico en nutrientes.
-- Mantener en lugar fresco y seco. Suministrar siempre agua en abundancia.
-- Cantidad: 100 gr
-- Snack en forma de sandwich, con carne de pollo. 100% natural.
 - Suministrar como un premio en cualquier momento, dentro de una dieta equilibrada. Los perros deben estar bajo supervisión mientras comen.
+- Snack en forma de sandwich, con carne de pollo. 100% natural.
+- Cantidad: 100 gr
+- Mantener en lugar fresco y seco. Suministrar siempre agua en abundancia.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SLFNXLY{{</world>}}

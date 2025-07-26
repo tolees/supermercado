@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La ginebra premium Malfy se fabrica en la destilería Torino, en Moncalieri, a las afueras de la ciudad de Torino; fue fundada en 1906
-- Malfy Limón es un gin premium para brindar en compañía en cualquier momento del día; la botella y el cierre se fabrican con cristal y madera de roble italianos
-- Ligero color oro
-- Aroma suave a cítricos, botánicos y hierbas de tocador
-- Malfy es una ginebra italiana premium muy refrescante y moderna; Malfy Limón se elabora a partir de una destilación tradicional de una alta calidad
 - Junto a la destilación de grano 100% americano, obtenemos una ginebra Premium
+- Malfy es una ginebra italiana premium muy refrescante y moderna; Malfy Limón se elabora a partir de una destilación tradicional de una alta calidad
+- Aroma suave a cítricos, botánicos y hierbas de tocador
+- La ginebra premium Malfy se fabrica en la destilería Torino, en Moncalieri, a las afueras de la ciudad de Torino; fue fundada en 1906
+- Ligero color oro
+- Malfy Limón es un gin premium para brindar en compañía en cualquier momento del día; la botella y el cierre se fabrican con cristal y madera de roble italianos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKHXV41S{{</world>}}

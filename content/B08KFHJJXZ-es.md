@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sencillo de aplicar
 - Adecuado para el cuidado de tu piel
 - Producto de belleza
+- Sencillo de aplicar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KFHJJXZ{{</world>}}

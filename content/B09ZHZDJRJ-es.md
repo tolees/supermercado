@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dermatológicamente testado
 - No contiene alérgenos
 - Limpiador para biberones, tetinas o vajilla infantil sin colorantes, residuos ni perfume
 - Bomba dosificadora para aplicar cómodamente
+- Dermatológicamente testado
 - Limpia cualquier resto de leche o cualquier otro líquido con facilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

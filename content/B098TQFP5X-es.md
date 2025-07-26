@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
 - Comida española fácil de preparar: al baño maria, en cazo o al microondas
-- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
 - Receta de Lentejas Pardina Ecológicas con su sofrito
+- Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
+- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
 - Receta ecológica con legumbres de alta calidad y de cultivo local
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

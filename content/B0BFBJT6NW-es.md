@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin perfumes ni colorantes
-- 99 % de ingredientes biodegradables (excepto agua y sales no orgánicas)
 - Dermatológicamente probado: no irrita las manos
 - Potencia antigrasa: lava los platos rápidamente y sin esfuerzo
+- Sin perfumes ni colorantes
+- 99 % de ingredientes biodegradables (excepto agua y sales no orgánicas)
 - Eficacia en el agua de lavado: cada gota actúa de forma prolongada para dejar los platos limpios y sin manchas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para cabellos grasos
+- Para cabellos grasos
 - Con Keratina en formato 650 ml+100ml
-- Para cabellos grasos
-- Para cabellos grasos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDNULGE{{</world>}}

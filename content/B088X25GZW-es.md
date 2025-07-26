@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Expresivo en nariz
 - De color rojo
 - Aromas de canela y clavo
-- En paladar es cremosa y fresca
+- Expresivo en nariz
 - Fórmula de hierbas de vermut rojo
+- En paladar es cremosa y fresca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B088X25GZW{{</world>}}

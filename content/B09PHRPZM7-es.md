@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cocktail frutos secos y productos de aperitivo
-- De textura crujiente
 - Fuente de fibra
 - No contiene aceite de palma
+- De textura crujiente
+- Cocktail frutos secos y productos de aperitivo
 - Sin conservantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

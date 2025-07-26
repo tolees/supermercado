@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Nota! Apto para bebés a partir de 4 meses. Para bebés de +4 meses el contenido se disuelve en el biberón, para bebés de +8 meses se puede administrar sin disolver.
 - ¡Nota! ¡El embalaje puede variar!
-- Complemento nutritivo ideal en el inicio de la alimentación complementaria
-- Contienen calcio, necesario para el crecimiento y desarrollo normal de los huesos
 - Elaboradas con maíz, cereal muy nutritivo que por su naturaleza no contiene gluten
+- Contienen calcio, necesario para el crecimiento y desarrollo normal de los huesos
+- ¡Nota! Apto para bebés a partir de 4 meses. Para bebés de +4 meses el contenido se disuelve en el biberón, para bebés de +8 meses se puede administrar sin disolver.
+- Complemento nutritivo ideal en el inicio de la alimentación complementaria
 - Con hierro que contribuye al desarrollo cognitivo normal de los niños
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
+- Receta de Garbanzos Pedrosillano Ecológicos con su sofrito
 - Comida española fácil de preparar: al baño maria, en cazo o al microondas
 - Receta ecológica con legumbres de alta calidad y de cultivo local
-- Receta de Garbanzos Pedrosillano Ecológicos con su sofrito
-- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
 - Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

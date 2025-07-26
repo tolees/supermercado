@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con jabón 100% biodegradable hecho con aceite de fuentes sostenibles
-- Mantienen su forma durante el uso y tienen fragancia a limón
-- Compuestos por un 85% de fibras de acero recicladas
 - Son eficaces y libres de ingredientes de origen natural
+- Compuestos por un 85% de fibras de acero recicladas
+- Mantienen su forma durante el uso y tienen fragancia a limón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071DPBDGQ{{</world>}}

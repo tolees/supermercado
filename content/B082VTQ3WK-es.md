@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alto contenido ácidos Grasos Omega3
 - Pack 3 x 80 g
+- Alto contenido ácidos Grasos Omega3
 - Contiene Pescado y/o productos a base de pescados
 - no tiene café
 

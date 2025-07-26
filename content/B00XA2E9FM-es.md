@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantener en lugar fresco y seco
 - Origen: españa
+- Mantener en lugar fresco y seco
 - Facil de usar
 - Contiene gluten o presencia de cereales que contienen gluten
 

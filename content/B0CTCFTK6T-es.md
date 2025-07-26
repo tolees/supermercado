@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Chocolate con leche, relleno con cacao desgrasado, cereales crujientes, galleta en polvo y trocitos de galleta
-- Formato Bolsa, contiene 8 figuritas
+- Contiene mini figuritas de chocolate con leche cremoso con una oblea crujiente y relleno de chocolate con leche
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
 - Tómate un respiro con Kit Kat
-- Contiene mini figuritas de chocolate con leche cremoso con una oblea crujiente y relleno de chocolate con leche
+- Formato Bolsa, contiene 8 figuritas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTCFTK6T{{</world>}}

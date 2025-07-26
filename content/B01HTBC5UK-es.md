@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contiene vitaminas A y D
+- Con un sabor agradable
 - Viene en un envase reciclable
 - Adecuado para toda la familia
 - Una vez abierto, conservar en frigorífico
-- Contiene vitaminas A y D
-- Con un sabor agradable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HTBC5UK{{</world>}}

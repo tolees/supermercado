@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recomendado para dar volumen, definir y alargar los pestañas
+- El rímel extra 3D Lash da aspecto de pestañas multidimensional
 - Con un volumen de 8 ml
 - El cepillo 3D captura las pestañas de la raíz a la punta
-- El rímel extra 3D Lash da aspecto de pestañas multidimensional
+- Recomendado para dar volumen, definir y alargar los pestañas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MGK9Q0C{{</world>}}

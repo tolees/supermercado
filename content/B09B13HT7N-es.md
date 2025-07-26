@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Notas de salida: Coco, Manzana, Acuosa
-- Dulce y exótico perfume a coco
-- Contiene 50 ml. Dermatológicamente testada
 - Notas de fondo: Heliotropo, Leche, Almizclada
+- Contiene 50 ml. Dermatológicamente testada
+- Dulce y exótico perfume a coco
 - Notas de corazón: Violeta, Notas Cremosas y Solares
 
 [🛒 Visítala!!!]({{< param buyurl >}})

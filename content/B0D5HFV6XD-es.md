@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- MEZCLA Y DISFRUTA: toma nuestra bebida vegetal en los desayunos, tanto fría como caliente; puedes consumirla sola, en smoothies, con café, infusiones, cereales, mueslis o copos; incluso en cremas o sopas; hay un sinfín de posibilidades
+- NOSOTROS: ISOLA PLUS nace con el objetivo de ayudarte a conseguir una alimentación vegetal y saludable; somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental; bueno para ti, bueno para el planeta
 - FUENTE DE CALCIO: nuestra bebida de avena está enriquecida con el alga lithothamnium calcareum convirtiendo esta deliciosa bebida en una fuente natural de calcio extra para tu cuerpo
 - MÚLTIPLES BENEFICIOS: gracias a su alto contenido en carbohidratos, fibra, vitaminas y minerales, la avena te ayudará a regular el tránsito intestinal y el nivel de glucosa en sangre; además, ejerce un marcado efecto antioxidante
-- MEZCLA Y DISFRUTA: toma nuestra bebida vegetal en los desayunos, tanto fría como caliente; puedes consumirla sola, en smoothies, con café, infusiones, cereales, mueslis o copos; incluso en cremas o sopas; hay un sinfín de posibilidades
 - BEBIDA VEGETAL: nuestra bebida vegetal de avena se caracteriza por no tener azúcares añadidos y por ser muy aromática y nutritiva; se convertirá en tu mejor aliado para crear recetas en la cocina
-- NOSOTROS: ISOLA PLUS nace con el objetivo de ayudarte a conseguir una alimentación vegetal y saludable; somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental; bueno para ti, bueno para el planeta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5HFV6XD{{</world>}}

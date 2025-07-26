@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se puede servir solo o con leche
 - Ideal para el desayuno o una pausa durante el día
-- Café molido con un sabor intenso
 - Fácil y rápido de preparar
+- Se puede servir solo o con leche
+- Café molido con un sabor intenso
 - Conservar en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

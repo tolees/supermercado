@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Elaborado por: FAMILIA TORRES;
 - Variedades: Tempranillo y cabernet sauvignon;
 - Maridaje: Ideal para carnes, quesos cremosos y la paella;
 - Origen: DO Catalunya, España;
 - Graduación: 13.5 %;
-- Elaborado por: FAMILIA TORRES;
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00BJ4E3U4{{</world>}}

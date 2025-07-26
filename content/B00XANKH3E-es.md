@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tómate un respiro y recarga pilas con KitKat Chunky, donde y cuando quieras
-- Delicioso surtido de 11 bombones de chocolate con leche, negro y blanco de excelente calidad Bombones 100% aromas naturales
-- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
-- Bombones especialmente pensados para regalar, con Caja Roja siempre quedas bien en cualquier celebración
 - Esta caja contiene 12 estuches de Nestle Caja Roja 100 g
+- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
+- Delicioso surtido de 11 bombones de chocolate con leche, negro y blanco de excelente calidad Bombones 100% aromas naturales
+- Bombones especialmente pensados para regalar, con Caja Roja siempre quedas bien en cualquier celebración
 - Los bombones Caja Roja son óptimas para cualquier ocasión: regalar, compartir en eventos o para celebrar el día a día y darse un capricho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

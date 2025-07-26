@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos
-- Vitaminas E y C antioxidantes para ayudar al sistema inmune; Sin sabores artificiales, sin colorantes, sin OGM
 - Prebióticos FOS y pulpa de remolacha para favorecer una digestión saludable
-- Glucosamina y condroitina para ayudar a mantener las articulaciones sanas y una movilidad activa
+- Vitaminas E y C antioxidantes para ayudar al sistema inmune; Sin sabores artificiales, sin colorantes, sin OGM
 - L-carnitina para ayudarle a mantener un peso ideal
+- Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos
+- Glucosamina y condroitina para ayudar a mantener las articulaciones sanas y una movilidad activa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07CVDY154{{</world>}}

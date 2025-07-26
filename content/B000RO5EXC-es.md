@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Este producto está indicado para mujeres.
 - De la marca Nivea.
 - Este producto está indicado para todo tipo de pieles.
-- Este producto está indicado para mujeres.
 - Contiene 200 ml.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

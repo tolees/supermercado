@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puede contener trazas de alegría
-- Regalo de alegria, ideal para esa persona que aprecias o para ti mismo.
-- Vino tinto espectacular capaz de maridar hasta solo
-- Aterciopelado
 - Suave
+- Regalo de alegria, ideal para esa persona que aprecias o para ti mismo.
+- Aterciopelado
+- Puede contener trazas de alegría
+- Vino tinto espectacular capaz de maridar hasta solo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09LSD6VM3{{</world>}}

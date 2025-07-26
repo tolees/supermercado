@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Exterior ergonómico que facilita el agarre y control
-- Un Kajal que no mancha, tonos intensamente ahumados
+- Resistente a los roces
 - Fórmula súper duradera que se desliza fácilmente sobre el párpado y la línea de agua
 - Resistente al agua
-- Resistente a los roces
+- Un Kajal que no mancha, tonos intensamente ahumados
+- Exterior ergonómico que facilita el agarre y control
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079L18WTW{{</world>}}

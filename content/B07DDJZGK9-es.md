@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MEZCLA DE CHOCOLATE CETO esta es una manera perfecta de probar algunos de nuestros chocolates de una manera inteligente
 - 100% SIN GLUTEN Completamente sin gluten ni trigo que se transforma en azúcar en tu cuerpo
 - SIN AZÚCAR añadido : nuestros deliciosos low carb chocolates no necesitan azúcar refinada que no es saludable para tener un sabor dulce y delicioso.
 - ADECUADO PARA Personas que hacen dieta Keto, LCHF, bajo en carbohidratos y para diabéticos así como para aquellos que en general quieren reducir el azúcar y edulcorantes que aumentan su nivel de azúcar en la sangre
+- MEZCLA DE CHOCOLATE CETO esta es una manera perfecta de probar algunos de nuestros chocolates de una manera inteligente
 - LOW CARB SNACK perfecto esta barrita es un gran y práctico bocadillo, en la oficina, para llevar contigo en el camino, o simplemente entre descansos durante el día.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

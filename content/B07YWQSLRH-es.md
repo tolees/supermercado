@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Con activos fortificantes de frutas
 - Enriquecida con vitaminas B3 y B6
-- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
 - Contiene derivado de proteína de limón
+- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
 - Ideal pelo rizado u ondulado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

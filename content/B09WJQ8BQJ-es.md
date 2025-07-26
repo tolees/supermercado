@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cereales sin colorantes artificiales
+- Cereales sin aromas artificiales
 - Cereales de arroz, avena y trigo con sabor leche y cubiertas con galleta de chocolate
 - Cereales con vitaminas de grupo B y hierro
-- Cereales sin aromas artificiales
 - Si lo tuyo es el chocolate y el sabor leche, te encantarán estas crujientes almohadillas de arroz, avena y trigo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

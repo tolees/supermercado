@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No obstruye los poros
-- Ideal para todo tipo de pieles
 - Un corrector mate que combina con tu piel a la perfección
+- Ideal para todo tipo de pieles
+- No obstruye los poros
 - Neutraliza y camufla las imperfecciones
 - Cobertura total con acabado mate
 

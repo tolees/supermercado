@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
 - Pigmentos vibrantes de acabado mate para unos labios de impacto durante todo el día
-- Pintalabios líquido mate permanente
+- Tan ligero que no notarás que lo llevas puesto
 - Textura ultra ligera para una sensación de labios desnudos, como no si llevases labial puesto
 - Disponible en 12 tonos mate permanentes
-- Tan ligero que no notarás que lo llevas puesto
+- Pintalabios líquido mate permanente
+- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07KMQYZZG{{</world>}}

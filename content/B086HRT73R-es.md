@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 94 % de origen natural (agua purificada e ingredientes de origen natural poco procesados)
 - Acondicionador con aloe intenso y hemp que ayuda a devolver la suavidad al cabello
 - Acondicionador sin sulfatos
 - Con pH equilibrado y seguro para pelo teñido
 - En asociación con el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
-- 94 % de origen natural (agua purificada e ingredientes de origen natural poco procesados)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B086HRT73R{{</world>}}

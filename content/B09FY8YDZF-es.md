@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Probado por dermatólogos; apto para pieles sensibles
 - Sin perfumes
-- De larga duración, no se apelmaza y controla la aparición de brillos
 - Elaborado con un 94% de ingredientes de origen natural
+- De larga duración, no se apelmaza y controla la aparición de brillos
 - Envase fabricado con materiales reciclados
 
 [🛒 Aquí!!!]({{< param buyurl >}})

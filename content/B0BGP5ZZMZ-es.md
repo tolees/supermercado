@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ADIÓS A LOS PELOS DE PUNTA: Una ropa limpia y con buen aroma es una gran tarjeta de visita. Pero, ¿y si, además, es suave como la seda? El suavizante Asevi aporta ese extra de delicadeza, previene las arrugas en la ropa y elimina la electricidad estática de las prendas para que la única chispa que haya sea la tuya.
 - TU ROPA, SUPERSUAVE: Nuestro suavizante para la ropa está especialmente formulado para aportar un extra de suavidad a todos tus tejidos sin dañarlos. Incluso si eres una persona un poco cactus, seguro que te encanta que tu ropa esté suave como la seda. Con Asevi Suavizante Puro Frescor tu ropa de cama estará esponjosa como una nube, las toallas serán mucho más agradables al tacto y ¡hasta tus vaqueros se sentirán como un pijama!
+- ASÍ SOMOS: En Asevi, los clientes sois nuestra razón de ser, y lleva siendo así desde nuestros inicios en Xàbia (Alacant) en 1952. Como empresa familiar especializada en productos de limpieza y cuidado del hogar, estamos dedicados a crear ambientes limpios y frescos, con un firme compromiso con la sostenibilidad. En Asevi trabajamos cada día para ofrecerte productos de calidad, siempre enfocados en la tecnología y la innovación.
 - USO Y DOSIFICACIÓN: El genio de la lámpara quizás te conceda 3 deseos, pero Asevi te garantiza 84 lavados, que es mucho más práctico. Tan sencillo como añadir el suavizante en el cajetín de la lavadora dependiendo de cómo de intensa y suave quieras tu ropa y ¡deja el resto en manos de Asevi para una colada con un olor a limpio irresistible!
 - AROMA DURADERO: ¿Ropa como nueva y además oliendo de maravilla? Sí, por favor. Gracias a su formulación delicada y concentrada, el suavizante de Asevi te garantiza un aroma fresco y duradero sin comprometer el cuidado y duración de tus prendas, incluso las más delicadas.
-- ASÍ SOMOS: En Asevi, los clientes sois nuestra razón de ser, y lleva siendo así desde nuestros inicios en Xàbia (Alacant) en 1952. Como empresa familiar especializada en productos de limpieza y cuidado del hogar, estamos dedicados a crear ambientes limpios y frescos, con un firme compromiso con la sostenibilidad. En Asevi trabajamos cada día para ofrecerte productos de calidad, siempre enfocados en la tecnología y la innovación.
+- ADIÓS A LOS PELOS DE PUNTA: Una ropa limpia y con buen aroma es una gran tarjeta de visita. Pero, ¿y si, además, es suave como la seda? El suavizante Asevi aporta ese extra de delicadeza, previene las arrugas en la ropa y elimina la electricidad estática de las prendas para que la única chispa que haya sea la tuya.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGP5ZZMZ{{</world>}}

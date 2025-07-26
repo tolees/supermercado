@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MÚLTIPLES BENEFICIOS: Esta harina es una excelente fuente de nutrientes esenciales para mantener una buena salud y bienestar corporal general. Además, es fácilmente digerible y colabora en el correcto funcionamiento del sistema digestivo.
-- APTA PARA VEGANOS: Nuestra harina de trigo sarraceno es apta para el consumo vegano ya que no contiene ingredientes de origen animal y es perfecta para la elaboración de todo tipo de alimentos veganos y vegetarianos.
-- SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 - INGREDIENTES NATURALES: Aparte de la harina de trigo sarraceno de cultivo ecológico, contiene gluten y puede incluir trazas de sésamo, soja y frutos secos.
+- SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
+- APTA PARA VEGANOS: Nuestra harina de trigo sarraceno es apta para el consumo vegano ya que no contiene ingredientes de origen animal y es perfecta para la elaboración de todo tipo de alimentos veganos y vegetarianos.
+- MÚLTIPLES BENEFICIOS: Esta harina es una excelente fuente de nutrientes esenciales para mantener una buena salud y bienestar corporal general. Además, es fácilmente digerible y colabora en el correcto funcionamiento del sistema digestivo.
 - MODO DE EMPLEO: Ideal para elaborar panes, bizcochos, bechamel, papillas o para la preparación de diferentes masas. También se puede agregar a batidos, papillas o para espesar sopas y guisos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

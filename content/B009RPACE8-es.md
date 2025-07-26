@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Volumen de suministro: NIVEA SUN Protect y Bronze Sun Spray (200 ml), protección UVA/UVB, número de artículo: 85445
 - Protección hidratante: el spray de crema hidratante NIVEA ofrece una protección eficaz contra la exposición al sol con su filtro UVA/UVB altamente eficaz
 - Cómo aplicar: aplicar antes de la exposición al sol con una capa visible antes de frotar, dejar secar y luego volver a aplicar para garantizar una cobertura adecuada; volver a aplicar con frecuencia
+- Volumen de suministro: NIVEA SUN Protect y Bronze Sun Spray (200 ml), protección UVA/UVB, número de artículo: 85445
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B009RPACE8{{</world>}}

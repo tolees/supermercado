@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La tecnología exclusiva de Old Spice evita que la fragancia desaparezca a lo largo del día, para que huelas bien hasta que vuelvas a casa
-- El Antitranspirante y Desodorante Old Spice Para Hombres es tan fuerte que podría secar un río entero durante 48 horas
 - El gel Clear es el Abraham Lincoln de los antitranspirantes
+- El Antitranspirante y Desodorante Old Spice Para Hombres es tan fuerte que podría secar un río entero durante 48 horas
 - La exquisita fragancia de Old Spice te hará inolvidable, como si fueras el centro del mundo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

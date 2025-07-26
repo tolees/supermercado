@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Protege contra las quemaduras solares y evita la aparicion de manchas provocadas por la radiación del sol; previene arrugas y suaviza los signos de expresión en la piel
+- Con un acabado no graso y formulado con 6% de [Glicerina + Vitamina E], protege la piel y fija el maquillaje.
 - La fórmula de la Delial Sensitive Advanced Facial es adecuada para todo tipo de pieles, incluso las más sensibles
 - Posee una textura ligera y no grasa de acabado invisible en la piel. Puede ser aplicada antes del maquillaje o reaplicada sobre él, y no deja residuos en la piel.
-- Con un acabado no graso y formulado con 6% de [Glicerina + Vitamina E], protege la piel y fija el maquillaje.
-- Protege contra las quemaduras solares y evita la aparicion de manchas provocadas por la radiación del sol; previene arrugas y suaviza los signos de expresión en la piel
 - Muy alta protección solar facial contra los efectos dañinos de los rayos UVA, UVB y UVA largos; protege contra los efectos de los infrarrojos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

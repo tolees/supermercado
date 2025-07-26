@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De textura gomosa
-- Conservar en un lugar fresco y seco
 - De colores y sabores diferentes
+- De textura gomosa
 - Sin colorantes artificiales
+- Conservar en un lugar fresco y seco
 - Ideal para compartir
 
 [🛒 Comprar!!!]({{< param buyurl >}})

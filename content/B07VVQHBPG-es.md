@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El aceite de oliva ha ganado varios premios internacionales y tiene un sabor afrutado
-- Nuestro aceite de oliva de calidad exquisita es el más adecuado como aliño o salsa y, por supuesto, también se puede añadir a las salsas o ensaladas.
-- El valioso aceite en calidad de vegetal crudo tiene un alto contenido de ácidos grasos insaturados y es también vegano y sin gluten.
-- Sin potenciadores de sabor, aromas, rellenos o conservantes
 - El aceite prensado en frío también es maravillosamente adecuado como aceite cosmético natural. Se puede aplicar puro o mezclado con otros ingredientes
+- El valioso aceite en calidad de vegetal crudo tiene un alto contenido de ácidos grasos insaturados y es también vegano y sin gluten.
+- Nuestro aceite de oliva de calidad exquisita es el más adecuado como aliño o salsa y, por supuesto, también se puede añadir a las salsas o ensaladas.
+- Sin potenciadores de sabor, aromas, rellenos o conservantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VVQHBPG{{</world>}}

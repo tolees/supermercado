@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en un lugar fresco y seco
-- Pera en mitades en almibar
 - Fabricado en Italia
 - Apto para dietas vegetarianas y veganas
+- Conservar en un lugar fresco y seco
+- Pera en mitades en almibar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8VCGD11{{</world>}}

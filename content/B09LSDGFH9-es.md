@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regalo de alegria, ideal para esa persona que aprecias o para ti mismo.
 - Aterciopelado
+- Regalo de alegria, ideal para esa persona que aprecias o para ti mismo.
 - Puede contener trazas de alegría
 - Suave
 - Vino tinto espectacular capaz de maridar hasta solo

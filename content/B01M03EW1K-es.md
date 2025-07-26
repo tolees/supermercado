@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cocina oriental en tu hogar
-- Sabor asiático
 - Un producto de calidad marca MILO
+- Sabor asiático
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M03EW1K{{</world>}}

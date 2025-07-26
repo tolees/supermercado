@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Su textura suave, sedosa acompaña muy bien las notas amargas del chocolate negro, y los aromas del Tequila redondean y equilibran el conjunto en un final largo y placentero
-- Tiene un color a café oscuro y contiene un agradable aroma a chocolate, avellana tostada, vainilla y notas de Tequila
+- La elaboración del Tequila Olmeca se caracteriza por sus métodos tradicionales como la destilación en alambiques de cobre
 - Tequila Olmeca fue creado en 1967, y se produce en la Destilería Colonial de Jalisco, México bajo el cuidado del Maestro Tequilero Jesús Hernández
 - Tras el maravilloso y untuoso aroma a chocolate negro, cacao natural, avellanas tostadas y vanilla, se desprenden y revelan los matices del auténtico Tequila
-- La elaboración del Tequila Olmeca se caracteriza por sus métodos tradicionales como la destilación en alambiques de cobre
+- Tiene un color a café oscuro y contiene un agradable aroma a chocolate, avellana tostada, vainilla y notas de Tequila
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00BP9O3YY{{</world>}}

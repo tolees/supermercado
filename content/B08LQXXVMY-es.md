@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - País de origen: Portugal
-- Cereales de trigo e maíz
 - Instrucciones para su uso adecuado: Después de abrirlo, plegar el paquete y cerrar bien la caja, para mantener los cereales crujientes
 - Contiene pepitas de chocolate
+- Cereales de trigo e maíz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LQXXVMY{{</world>}}

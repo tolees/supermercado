@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calidad adecuada de la bebida garantizada por el fabricante
 - Sabor equilibrado, fuerte y duradero
+- Calidad adecuada de la bebida garantizada por el fabricante
 - Aterciopelado y ligeramente dulce
 - Madurado en barricas de roble americano
 

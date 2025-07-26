@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Baileys Irish Cream es el licor de crema de whisky irlandesa aclamado del mundo; date un capricho con recetas tan novedosas como las Torrijas con Baileys o el Flat White Martini; en 2022, Baileys obtuvo la certificación B Corp gracias a nuestro compromiso con nuestras comunidades y el planeta
 - Puede disfrutarse solo con hielo o puede añadirse a cafés, helados, postres o cócteles para crear deliciosos caprichos
-- De textura aterciopelada, intensos aromas de vainilla y chocolate y con un final cremoso, es una deliciosa combinación de nata y whisky irlandeses auténticos
 - Baileys Original Irish Cream gana en su categoría año tras año, desde 2003, en la San Francisco World Spirits Competition
 - Baileys Original Irish Cream es apto para regalar, siendo el licor de crema irlandesa pionero y popular
 - Con raíces en las tradiciones irlandesas, tardó cuatro años en alcanzar la perfección
-- Baileys Irish Cream es el licor de crema de whisky irlandesa aclamado del mundo; date un capricho con recetas tan novedosas como las Torrijas con Baileys o el Flat White Martini; en 2022, Baileys obtuvo la certificación B Corp gracias a nuestro compromiso con nuestras comunidades y el planeta
+- De textura aterciopelada, intensos aromas de vainilla y chocolate y con un final cremoso, es una deliciosa combinación de nata y whisky irlandeses auténticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B004EAJ1P2{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para compartir
 - De textura gomosa
 - Surtido de golosinas
-- Conservar en un lugar fresco y seco
 - De diferentes formas
+- Conservar en un lugar fresco y seco
+- Ideal para compartir
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08M1CRF8C{{</world>}}
