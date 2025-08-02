@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ♻ PIEDRAS REUTILIZABLES - Lava las piedras después de usarlas y congélalas de nuevo para tu próximo momento de disfrute
-- ⭐ CALIDAD WHISISKEY - Disfruta de momentos especiales con nuestros exclusivos sets de accesorios para whisky!
 - 🍺 MANTIENE EL SABOR - Las piedras de whisky no se derriten ni alteran el sabor. ¡Tu bebida se mantiene pura en sabor!
 - 🎁 IDEA DE REGALO #1 - El regalo perfecto para los verdaderos amantes del whisky
+- ⭐ CALIDAD WHISISKEY - Disfruta de momentos especiales con nuestros exclusivos sets de accesorios para whisky!
+- ♻ PIEDRAS REUTILIZABLES - Lava las piedras después de usarlas y congélalas de nuevo para tu próximo momento de disfrute
 - ✅ SET COMPLETO - 12 Piedras de whisky - Bolsa de terciopelo - Pinzas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

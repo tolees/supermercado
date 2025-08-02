@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bebida refrescante de extracto de té con zumo de limón
-- Conservar en un lugar fresco y seco
 - No contiene azúcar
 - Ideal con hielo
+- Conservar en un lugar fresco y seco
 - Se puede utilizar en cócteles
 
 [🛒 Visítala!!!]({{< param buyurl >}})

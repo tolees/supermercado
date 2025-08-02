@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuada para todo tipo de pieles, incluso las más sensibles
-- Fórmula suave y sin perfume
-- Limpiador suave que extrae la suciedad y las impurezas sin secar la piel
 - Agua micelar clásica todo en uno, formato viaje
+- Limpiador suave que extrae la suciedad y las impurezas sin secar la piel
+- Fórmula suave y sin perfume
+- Adecuada para todo tipo de pieles, incluso las más sensibles
 - Elimina sin esfuerzo el maquillaje y extrae la suciedad de rostro, labios y ojos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

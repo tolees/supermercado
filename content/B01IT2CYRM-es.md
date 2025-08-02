@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este aceite viene con un tapón antigoteo para controlar mejor la cantidad de aceite en tus platos, permitiendo que el cocinar y aliñar sea mucho más fácil y práctico
 - El aceite de oliva Virgen Extra es obtenido sin emplear procedimientos químicos ni refinamientos y destaca por sus calidad superior. Tiene bajo contenido en ácidos grasos poliinsaturados y aporta ácido oleico y antioxidantes
 - Es un aceite de oliva virgen extra muy apreciado por ser equilibrado, con sabor de gran fuerza y cuerpo y aroma que recuerda a la higuera española. Este aceite es ideal para aderezar guisos y aves
 - Viene en formato de botella de RPET de 1 litro y está inspirada en los arcos de la Mezquita de Córdoba, nuestra botella de plástico es un icono en las cocinas españolas
+- Este aceite viene con un tapón antigoteo para controlar mejor la cantidad de aceite en tus platos, permitiendo que el cocinar y aliñar sea mucho más fácil y práctico
 - Aceite de oliva Virgen Extra obtenido directamente del zumo natural de aceitunas de aceitunas de excepcional calidad y solo mediante procedimientos mecánicos. Tiene notas de sabor de hojas frescas y verduras, dando como resultado un sabor agradable, con un toque de amargor fresco al final
 
 [🛒 Visítala!!!]({{< param buyurl >}})

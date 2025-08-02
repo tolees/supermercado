@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La correcta nutrición de los perros es la clave para que tengan huesos sanos, una buena digestión, un pelaje y una piel saludables y unas defensas naturales fuertes
 - A tu perro le encantarán sus dos sabores, con Pollo o con Cordero
 - Comida desarrollada por nuestros veterinarios y nutricionistas del centro Waltham, que garantiza una dieta completa para tu perro
+- La correcta nutrición de los perros es la clave para que tengan huesos sanos, una buena digestión, un pelaje y una piel saludables y unas defensas naturales fuertes
 - No contiene colorantes artificiales, ni aromas ni conservantes
 - Deliciosa comida húmeda en gelatina para perros, desarrollada para una dieta completa y equilibrada
 

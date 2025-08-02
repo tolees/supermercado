@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Macedonia de frutas en zumo de uva a partir de concentrado
-- Apto para dietas vegetarianas y veganas
 - Conservar en un lugar fresco y seco
 - Envasado en Italia
+- Apto para dietas vegetarianas y veganas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C66MJXP6{{</world>}}

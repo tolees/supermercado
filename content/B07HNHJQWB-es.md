@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ariel básico es la opción económica de ariel
 - Suciedad fuera, superprecio
+- Ariel básico es la opción económica de ariel
 - Deja tu colada limpia y fresca
 - Te ofrece lo necesario para eliminar las manchas causantes de malos olores
 

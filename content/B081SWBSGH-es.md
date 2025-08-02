@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Delinedaor liquido waterproof, a prueba de manchas, transferencia y coloración
-- Flujo de tinta fresca ultra-black
-- Pigmentos intensos que permanecesn solos o sobre sombra de ojos para un impacto más intenso
-- Eyeliner liquido ultra negro, impacto total
 - Punta súper suave y fácil de controlar
+- Pigmentos intensos que permanecesn solos o sobre sombra de ojos para un impacto más intenso
+- Delinedaor liquido waterproof, a prueba de manchas, transferencia y coloración
+- Eyeliner liquido ultra negro, impacto total
+- Flujo de tinta fresca ultra-black
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081SWBSGH{{</world>}}

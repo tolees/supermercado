@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Refill disponible. Reduce el consumo de plásticos rellenando tu botella con el formato de 5L.
-- Fabricado en una fábrica certificada de cero residuos. Botella fabricada con plástico 100% PCR y tapón con plástico PCR al 50%
+- Consejos de utilización: Conservar entre 5 °C y 25 °C. No apto para seda. No usar en textiles ignífugos. No vertir directamente sobre la tela. 1 tapón = 40 ml Carga estándar (4-5 kg) Suave = 30 ml. Extra suave = 60 ml (2 x 30 ml)
+- No testado en animales
+- ECOVER Detergente Líquido Universal contiene ingredientes activos a base de plantas para ayudar que tu ropa dure más. Lucha contra las manchas difíciles, y reviven los colores y el brillo. Elimina las pelusas de las fibras de algodón después de varios lavados.
 - Elaborado con ingredientes biodegradables a base de plantas
 - Fragancia Honeysuckle & Jasmine
-- Elimina las manchas para que tus prendas duren más tiempo
-- Combate las manchas y el blanqueamiento, ayudando a que la ropa dure más tiempo
+- Fabricado en una fábrica certificada de cero residuos. Botella fabricada con plástico 100% PCR y tapón con plástico PCR al 50%
 - Apto para veganos
-- No testado en animales
-- Consejos de utilización: Conservar entre 5 °C y 25 °C. No apto para seda. No usar en textiles ignífugos. No vertir directamente sobre la tela. 1 tapón = 40 ml Carga estándar (4-5 kg) Suave = 30 ml. Extra suave = 60 ml (2 x 30 ml)
-- ECOVER Detergente Líquido Universal contiene ingredientes activos a base de plantas para ayudar que tu ropa dure más. Lucha contra las manchas difíciles, y reviven los colores y el brillo. Elimina las pelusas de las fibras de algodón después de varios lavados.
+- Combate las manchas y el blanqueamiento, ayudando a que la ropa dure más tiempo
+- Refill disponible. Reduce el consumo de plásticos rellenando tu botella con el formato de 5L.
+- Elimina las manchas para que tus prendas duren más tiempo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RVYWV9K{{</world>}}

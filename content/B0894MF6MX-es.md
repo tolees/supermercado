@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 💪 ENRIQUECIDO CON SILICIO, VITAMINA C Y ACEITE DE OLIVA EXTRA: Además, a la Vitamina D3 y K2 de Nutralie se le añaden los beneficios de la vitamina C, el silicio y el aceite de oliva virgen extra.
+- ⭐ CALIDAD Y SATISFACCIÓN GARANTIZADA: Nuestra Vitamina D3+K2 ha sido elaborada bajo un proceso controlado y certificado mediante los más estrictos protocolos de calidad, desde el origen hasta el producto final.
 - 🌱 VITAMINA D3 Y K2: La fórmula de la Vitamina D3+K2 de Nutralie está pensada especialmente para aprovechar la perfecta complementación de las ventajas de ambas vitaminas juntas. También, a la Vitamina D3 y K2 de Nutralie se le añaden los beneficios del silicio.
 - 🧡 SISTEMA INMUNITARIO, HUESOS Y MÚSCULOS: Individualmente, la vitamina D contribuye al funcionamiento normal del sistema inmunitario y al funcionamiento normal de los músculos. La vitamina D, junto con la K y la C, contribuye al mantenimiento de los huesos en condiciones normales. Estas son propiedades saludables avaladas por la Autoridad Europea de Seguridad Alimentaria (EFSA).
-- ⭐ CALIDAD Y SATISFACCIÓN GARANTIZADA: Nuestra Vitamina D3+K2 ha sido elaborada bajo un proceso controlado y certificado mediante los más estrictos protocolos de calidad, desde el origen hasta el producto final.
+- 💪 ENRIQUECIDO CON SILICIO, VITAMINA C Y ACEITE DE OLIVA EXTRA: Además, a la Vitamina D3 y K2 de Nutralie se le añaden los beneficios de la vitamina C, el silicio y el aceite de oliva virgen extra.
 - 🔝 VITAMINA D ALTA DOSIS 10000 UI: La vitamina D3 o colecalciferol es una vitamina importante para el organismo y proviene en mayor parte de los rayos solares UVB. La vitamina K2 o menaquinona es una vitamina escasa en nuestra dieta, pero igual de relevante que la D3. La alta dosis de la D3 (10.000 UI) y la efectividad de la K2 convierten a la vitamina D3+K2 de Nutralie en un potente producto.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

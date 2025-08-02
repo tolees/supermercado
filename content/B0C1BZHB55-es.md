@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para bebés a partir de 6 meses
 - Consumir directamente, no añadir sal o azúcar
+- Para bebés a partir de 6 meses
 - Una vez abierto el envase, se conserva 24 horas en el frigorífico
 - El envase se debe guardar en lugar fresco y seco
 - Sin aceite de palma ni almidones

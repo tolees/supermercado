@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FÁCIL DE USAR: Para calmar el cabello seco, aplica el champú micelar de hidratación sobre el cabello húmedo, masajea suavemente y luego aclara bien
-- SALUD DEL CUERO CABELLUDO: Formulado con ingredientes para el cuidado de la piel, el champú hidratante respeta, equilibra y protege el microbioma del cuero cabelludo
 - CONTROL DEL FRIZZ: El champú para cabellos secos suaviza el cabello, aporta brillo y reduce el frizz
+- SALUD DEL CUERO CABELLUDO: Formulado con ingredientes para el cuidado de la piel, el champú hidratante respeta, equilibra y protege el microbioma del cuero cabelludo
+- FÁCIL DE USAR: Para calmar el cabello seco, aplica el champú micelar de hidratación sobre el cabello húmedo, masajea suavemente y luego aclara bien
 - REVLON PROFESSIONAL: Además del Champú Micelar Hidratación RE/START, descubre toda nuestra gama RE/START que combina ingredientes para el cuidado de la piel con soluciones avanzadas para el cuidado del cabello
 - INFUSIÓN DE HUMEDAD: Con una infusión de pro vitamina B5, el champú que equilibra el cuero cabelludo bloquea la humedad en la fibra capilar con una mayor retención de agua para una máxima hidratación
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Consigue una tez sin brillos y de aspecto soleado
-- 2 tonos para cualquier tipo de piel con aromas complementarios: caramelo y chocolate
 - Dale un aspecto radiante a tu piel con un acabado sin brillos
+- 2 tonos para cualquier tipo de piel con aromas complementarios: caramelo y chocolate
 - Textura agradable y delicada que deja la piel suave
+- Consigue una tez sin brillos y de aspecto soleado
 - Polvos bronceadores de textura ligera que imitan el bronceado natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Textura cremosa y acabado de un brillo intenso
+- Óptimo para cualquier ocasión y disponible en varios tonos de color
 - Fórmula nutritiva de larga duración enriquecida con pigmentos puros de colores
 - Ofrece una sensación de hidratación y confort para los labios sin congelación o secado
-- Óptimo para cualquier ocasión y disponible en varios tonos de color
-- Textura cremosa y acabado de un brillo intenso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00UHOQMM4{{</world>}}

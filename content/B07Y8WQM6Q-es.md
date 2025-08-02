@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta cobertura con acabado aterciopelado
 - Protege la piel (contiene vitamina E y SPF 20)
-- Hidratación todo el día gracias al ácido hialurónico de su fórmula
 - Proporciona máxima duración y comodidad
+- Alta cobertura con acabado aterciopelado
+- Hidratación todo el día gracias al ácido hialurónico de su fórmula
 - 24 horas de resistencia, a prueba de toda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

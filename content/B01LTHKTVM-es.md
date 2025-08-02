@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colores de alta pigmentación
-- Paleta de 5 sombras
 - Ni transfiere ni apelmaza
-- Úsalas en húmedo o en seco
 - Fáciles de difuminar; De larga duración
+- Colores de alta pigmentación
+- Úsalas en húmedo o en seco
+- Paleta de 5 sombras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LTHKTVM{{</world>}}

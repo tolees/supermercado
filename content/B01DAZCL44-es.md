@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peso: 7 Kg aprox.
 - Jamón Serrano de Bodega.
+- Peso: 7 Kg aprox.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01DAZCL44{{</world>}}

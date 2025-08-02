@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SOBRE NOSOTROS: Ecocesta nació con una misión clara: dar visibilidad a la alimentación de origen vegetal y hacerla accesible a cualquier consumidor. ¡Disfruta de una forma de alimentarse más saludable sin renunciar al sabor y al alcance de todos!
-- SIN GLUTEN: Se trata de un complemento totalmente saludable, libre de gluten, con bajo contenido en azúcares y apto para veganos. Su alto contenido en hidratos de carbono y fitonutrientes te proporcionará una dosis extra de energía.
-- MÚLTIPLES BENEFICIOS: El arroz integral, la chía y la quinoa son fuente de vitaminas, minerales y fibra. Como resultado, te proporcionarán un efecto antioxidante y te ayudarán a controlar los niveles de azúcar en sangre y el tránsito intestinal.
 - TORTITAS DE ARROZ INTEGRAL: Nuestras deliciosas y crujientes tortas de arroz integral con chía y quinoa destacan por tener un alto poder nutritivo. Podrás disfrutarlas solas, como alternativa al pan o como base para canapés dulces o salados.
+- MÚLTIPLES BENEFICIOS: El arroz integral, la chía y la quinoa son fuente de vitaminas, minerales y fibra. Como resultado, te proporcionarán un efecto antioxidante y te ayudarán a controlar los niveles de azúcar en sangre y el tránsito intestinal.
+- SOBRE NOSOTROS: Ecocesta nació con una misión clara: dar visibilidad a la alimentación de origen vegetal y hacerla accesible a cualquier consumidor. ¡Disfruta de una forma de alimentarse más saludable sin renunciar al sabor y al alcance de todos!
 - IDEAL PARA PICAR ENTRE HORAS: Estas tortitas te aportarán un potente efecto saciante y son el alimento perfecto para consumirlas en cualquier momento del día. Además, son compatibles con todo tipo de dietas, para que todo el mundo pueda disfrutarlas.
+- SIN GLUTEN: Se trata de un complemento totalmente saludable, libre de gluten, con bajo contenido en azúcares y apto para veganos. Su alto contenido en hidratos de carbono y fitonutrientes te proporcionará una dosis extra de energía.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6Y11J5S{{</world>}}

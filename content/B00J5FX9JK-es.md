@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bálsamo Labial reparador en tarro, para labios, nariz y zona perioral
-- Con ácido hialurónico, que repara, protege e hidrata en profundidad
 - Hidrata y nutre en profundidad, para unos labios suaves y cuidados
+- Con ácido hialurónico, que repara, protege e hidrata en profundidad
 - Ayuda a la regeneración de la piel y reestablece la función barrera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

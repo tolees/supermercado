@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cabello intensamente hidratado, vivo y suave durante más tiempo
 - 3en1: Como acondicionador sobre pelo húmedo para desenredar, Como mascarilla: dejar actuar 1-3 min; Para nutrir o como tratamiento sin aclarado para prolongar la nutrición
-- Fórmula 96% de origen natural, vegana y sin siliconas, Dermatológicamente testado, Envase con 50% de plástico reciclado
-- Contenido: 1x Garnier Fructis Hair Food Mascarilla de Sandía Revitalizante, 390 ml
 - Mascarilla ligera como un acondicionador, intensiva como una mascarilla y eficaz como un tratamiento
+- Contenido: 1x Garnier Fructis Hair Food Mascarilla de Sandía Revitalizante, 390 ml
+- Fórmula 96% de origen natural, vegana y sin siliconas, Dermatológicamente testado, Envase con 50% de plástico reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08SS461RJ{{</world>}}

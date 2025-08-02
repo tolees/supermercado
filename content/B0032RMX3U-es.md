@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color duradero
 - Fácil de aplicar
+- Color duradero
 - Producto de calidad óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})

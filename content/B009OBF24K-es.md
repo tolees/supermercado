@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 12-Premium Porcelain
 - Apto para lavavajillas
 - Fácil de lavar
+- 12-Premium Porcelain
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009OBF24K{{</world>}}

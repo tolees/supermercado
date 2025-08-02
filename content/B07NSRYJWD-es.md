@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conservar en un lugar fresco y seco
 - Bebida refrescante con gas
 - Ideal con hielo y limón
+- Conservar en un lugar fresco y seco
 - Es elaborada sin azúcar
 - No contiene cafeína
 

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La filtración y embotellado, llevados a cabo con los estándares más rigurosos, dan vida al tesoro que es el aceite DobleJjota
-- La extracción se convierte en danza. La centrifugación separa el oro líquido del agua, depositándolo en tanques de acero inoxidable
-- Amargo ligero y elegante picante
-- Cada botella de DOBLE JJOTA, lleva el aroma a aceituna verde, con toques herbáceos y sabores a fruta fresca, almendras y hojas de olivo, creando una experiencia sensorial única
-- Expresiones aromáticas y gustativas que encantan, con un equilibrio entre amargor y picante que persiste en el paladar
 - Frutal suave
+- La extracción se convierte en danza. La centrifugación separa el oro líquido del agua, depositándolo en tanques de acero inoxidable
+- La filtración y embotellado, llevados a cabo con los estándares más rigurosos, dan vida al tesoro que es el aceite DobleJjota
+- Amargo ligero y elegante picante
+- Expresiones aromáticas y gustativas que encantan, con un equilibrio entre amargor y picante que persiste en el paladar
+- Cada botella de DOBLE JJOTA, lleva el aroma a aceituna verde, con toques herbáceos y sabores a fruta fresca, almendras y hojas de olivo, creando una experiencia sensorial única
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D3J9YXK8{{</world>}}

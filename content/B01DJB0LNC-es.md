@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Vive el look londinense! Rimmel Londres es la certeza de tener siempre un estilo cool, irreverente, impredecible y en constante evolución. Rimmel No busca la perfección y no quiere intimidar. Es como Londres: joven, ecléctico, metropolitano y vanguardista. Una expresión sin reglas, real y accesible.
-- Efectos y beneficios: si se usa a diario, esta máscara no solo hace que las pestañas sean más voluminosas y gruesas, sino que las oscurece gradualmente
-- Aplicación: el cepillo cónico captura incluso las pestañas más cortas
 - Fórmula - Textura cremosa enriquecida con tinte natural
+- Efectos y beneficios: si se usa a diario, esta máscara no solo hace que las pestañas sean más voluminosas y gruesas, sino que las oscurece gradualmente
+- ¡Vive el look londinense! Rimmel Londres es la certeza de tener siempre un estilo cool, irreverente, impredecible y en constante evolución. Rimmel No busca la perfección y no quiere intimidar. Es como Londres: joven, ecléctico, metropolitano y vanguardista. Una expresión sin reglas, real y accesible.
+- Aplicación: el cepillo cónico captura incluso las pestañas más cortas
 - WonderFull Volume Colourist: una máscara que da volumen a las pestañas y las oscurece al teñirlas gradualmente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

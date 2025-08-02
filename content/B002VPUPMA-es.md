@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- LICOR DE NARANJA: este triple seco francés está elaborado a base de cáscaras de naranja dulces y amargas destiladas con métodos tradicionales. Presenta un color cristalino que se vuelve opalescente cuando se mezcla o entra en contacto con el hielo.
-- NOTAS DE SABOR: presenta un espectro de más de 40 notas aromáticas gracias a una compleja mezcla de esencias de pieles de naranja. En boca cuenta con un equilibrio perfecto entre amargura y dulzura. Convirtiéndose en toda una oda a la naranja.
 - EN TUS CÓCTELES FAVORITOS: el Cointreau es una bebida que sirve de base a más de 350 cócteles. En ellos, el licor sirve como intensificador que ayuda a desvelar los demás ingredientes a la vez que aporta equilibrio, profundidad y frescura a la mezcla.
 - INGREDIENTES NATURALES: la receta del Cointreau solo cuenta con 4 ingredientes. Este licor se obtiene de la destilación de naranjas de variedades y procedencia diversas, tanto dulces como amargas, a lo que se le añade agua pura, alcohol neutro y azúcar.
+- LICOR DE NARANJA: este triple seco francés está elaborado a base de cáscaras de naranja dulces y amargas destiladas con métodos tradicionales. Presenta un color cristalino que se vuelve opalescente cuando se mezcla o entra en contacto con el hielo.
+- NOTAS DE SABOR: presenta un espectro de más de 40 notas aromáticas gracias a una compleja mezcla de esencias de pieles de naranja. En boca cuenta con un equilibrio perfecto entre amargura y dulzura. Convirtiéndose en toda una oda a la naranja.
 - ACOMPAÑA TUS MEJORES VELADAS: gracias a su equilibrado sabor, esta bebida espirituosa es ideal para degustarla sola, con hielo, para elaborar postres o para hacer tus cócteles favoritos tales como un buen Cosmopolitan o el clásico Margarita.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

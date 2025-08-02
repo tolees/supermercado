@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- El Crujiente Barquillo de Huesitos con cobertura de delicioso Choco Blanco 37% y relleno de cremosa Nata.
 - Contiene leche, gluten y soja.
 - Snack dulce perfecto para los amantes del chocolate blanco, llévalo contigo.
 - Pack de 36 Barritas de Barquillo cubierto de Chocolate Blanco con relleno de Nata, 36 x 20 Gramos.
-- El Crujiente Barquillo de Huesitos con cobertura de delicioso Choco Blanco 37% y relleno de cremosa Nata.
 - Cobertura blanca 37% (Azúcar, grasa vegetal (palma y palmiste), leche en polvo (5%), emulgente: lecitina de soja, colorante: beta caroteno (E-160a) y aroma), azúcar, leche desnatada en polvo (13%), grasa vegetal de palma, harina de trigo (gluten), emulgente: lecitina de soja, gasificante: bicarbonato de sodio y aromas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

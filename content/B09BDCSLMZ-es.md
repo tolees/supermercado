@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene doble abertura para la correcta dosificación sin tocar el producto para asigurar la máxima seguridad y frescura; disfruta de poder compartir los caramelos más sabrosos
-- Si hay algo que caracteriza a Smint Tin es el golpe de frescor duradero de sus potentes caramelos comprimidos en formato triangular bicapa
-- El envase práctico para llevar en el coche, bolso o mochila; fácil de usar y listo para darte ese golpe de frescor y sabor que necesitas
-- Disfruta de un frescor duradero con un delicioso sabor en una lata moderna y práctica; Smint es un producto sin azúcar y sin gluten
-- Para llevar siempre contigo y para cualquier ocasión: antes de una cita o reunión, después de una comida o un café, en el coche o en su escritorio
 - Ingredientes: Edulcorantes (sorbitol, aspartamo, sucralosa, acesulfamo K) acidulantes (ácido málico, ácido cítrico, ácido tartárico) antiaglomerante (sales magnésicas de ácidos grasos) aromas, vitamina C (ácido L-ascórbico) aceite totalmente hidrogenado de girasol, colorante (carmín). Instrucciones para su uso adecuado: Listo para el consumo.
+- Disfruta de un frescor duradero con un delicioso sabor en una lata moderna y práctica; Smint es un producto sin azúcar y sin gluten
+- Si hay algo que caracteriza a Smint Tin es el golpe de frescor duradero de sus potentes caramelos comprimidos en formato triangular bicapa
+- Tiene doble abertura para la correcta dosificación sin tocar el producto para asigurar la máxima seguridad y frescura; disfruta de poder compartir los caramelos más sabrosos
+- Para llevar siempre contigo y para cualquier ocasión: antes de una cita o reunión, después de una comida o un café, en el coche o en su escritorio
+- El envase práctico para llevar en el coche, bolso o mochila; fácil de usar y listo para darte ese golpe de frescor y sabor que necesitas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BDCSLMZ{{</world>}}

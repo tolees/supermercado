@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Exclusivo en Amazon
 - Dientes brillantes: Esta pasta de dientes con flúor para aliento fresco ayuda a mantener los dientes blancos
 - Combate las caries: Esta pasta de dientes blanqueadora no solo refresca y limpia, sino que también ayuda a combatir la caries
+- Exclusivo en Amazon
 - Aliento súper fresco: Una nueva dimensión de frescura te espera cada vez que utilices la pasta de dientes Colgate Max Fresh
 - Frescor duradero: Esta pasta de dientes que proporciona un aliento fresco ha sido enriquecida con una explosión de cristales refrescantes y una tecnología FreshFX; proporciona una sensación de frescor que dura diez veces más (en comparación a un dentífrico convencional con flúor)
 

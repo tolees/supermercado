@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tolerancia cutánea dermatológicamente probada
 - Protege contra la desecación
 - Cuida las manos con valioso aceite de almendras
-- Tolerancia cutánea dermatológicamente probada
 - pH neutro para la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

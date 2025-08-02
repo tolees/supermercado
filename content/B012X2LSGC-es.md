@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca: Revlon
 - Tipo de Cabello: Todo Tipo de Cabello
+- Marca: Revlon
 - Género: Mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})

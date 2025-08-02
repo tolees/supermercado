@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Una fórmula apta para minimizar el riesgo de reacciones cutanées debidos al sol.
-- responsabilisez su niño con la nueva fórmula Nivea protêt & Play.
 - Una protección fps50 + ideal para pieles sensibles.
+- responsabilisez su niño con la nueva fórmula Nivea protêt & Play.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07KRQHX2M{{</world>}}

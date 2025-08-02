@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Personaliza la intensidad de la fragancia con la cantidad de perlas que desees utilizar
-- Mayor frescura en cada lavado
-- El potenciador de fragancia Lenor Unstoppables está disponible en diferentes aromas
 - Potenciador de fragancia para la colada que hace estallar notas frescas aldehídicas de color verde para una limpieza tradicional aromática y profunda
+- El potenciador de fragancia Lenor Unstoppables está disponible en diferentes aromas
+- Mayor frescura en cada lavado
+- Personaliza la intensidad de la fragancia con la cantidad de perlas que desees utilizar
 - Vierte las perlas directamente en el tambor vacío antes de la colada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

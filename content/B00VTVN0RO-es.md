@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TAMAÑO: La tetera de 700 ml contiene suficiente té para llenar aproximadamente dos tazas de tamaño medio.
-- AISLADO: El marco de plástico de la tetera, el mango y el vaso de vidrio son resistentes al calor, lo que mantiene el té caliente durante más tiempo mientras se infunde y lo protege mientras lo sirve.
 - CALIDAD GARANTIZADA: La Café Olé La tetera de uso diario está cubierta por una garantía del fabricante de 2 años.
+- TAMAÑO: La tetera de 700 ml contiene suficiente té para llenar aproximadamente dos tazas de tamaño medio.
 - CESTA DE INFUSOR EXTRAÍBLE: La canasta de infusor de acero inoxidable sale de la tetera cuando está listo para servir, lo que evita que las hojas de té sueltas entren en su taza para una bebida más suave en general.
+- AISLADO: El marco de plástico de la tetera, el mango y el vaso de vidrio son resistentes al calor, lo que mantiene el té caliente durante más tiempo mientras se infunde y lo protege mientras lo sirve.
 - DURADERO: La tetera está diseñada para soportar un uso diario frecuente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

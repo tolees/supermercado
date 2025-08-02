@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuidado Especializado: Diseñado específicamente para pieles maduras, secas y dañadas, este jabón ofrece un cuidado completo y rejuvenecedor, restaurando la vitalidad y luminosidad de tu piel.
 - Aroma Relajante: Disfruta de la tranquilidad y relajación que proporciona el aroma reconfortante del aceite esencial de lavanda y el perfume de Patchouli, que te transportará a un estado de bienestar.
 - Propiedades Cicatrizantes: La mantequilla de cacao presente en la fórmula ayuda a promover la cicatrización de la piel, reduciendo la apariencia de cicatrices y marcas, para una piel más uniforme y saludable.
+- Cuidado Especializado: Diseñado específicamente para pieles maduras, secas y dañadas, este jabón ofrece un cuidado completo y rejuvenecedor, restaurando la vitalidad y luminosidad de tu piel.
 - Artesanal y Único: Cada lote de nuestro jabón es elaborado a mano con amor y dedicación, lo que garantiza una calidad excepcional y una experiencia única en cada uso.
 - Hidratación Intensa: Enriquecido con aceites vegetales nutritivos y mantequilla de cacao, este jabón proporciona una hidratación profunda y duradera, dejando tu piel suave, tersa y radiante.
 

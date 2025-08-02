@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BRILLO: La espuma cremosa del champú anticaspa hidrata en profundidad dejando el cabello radiante
-- FÁCIL DE USAR: Aplicar el champú para cuero cabelludo escamoso sobre el cabello húmedo, masajear suavemente y aclarar con abundante agua
-- SALUD DEL CUERO CABELLUDO: Especialmente formulado con ingredientes para el cuidado de la piel, el champú anticaspa ayuda a equilibrar el microbioma del cuero cabelludo para obtener el máximo confort y protección
 - ADIÓS A LA CASPA: El champú micelar contiene ingredientes activos que reducen y previenen la aparición de la caspa para que el cabello tenga un aspecto saludable
+- SALUD DEL CUERO CABELLUDO: Especialmente formulado con ingredientes para el cuidado de la piel, el champú anticaspa ayuda a equilibrar el microbioma del cuero cabelludo para obtener el máximo confort y protección
+- FÁCIL DE USAR: Aplicar el champú para cuero cabelludo escamoso sobre el cabello húmedo, masajear suavemente y aclarar con abundante agua
+- BRILLO: La espuma cremosa del champú anticaspa hidrata en profundidad dejando el cabello radiante
 - REVLON PROFESSIONAL: Además del champú micelar purificador RE/START Balance, descubra toda nuestra gama RE/START que combina ingredientes para el cuidado de la piel con soluciones avanzadas para el cuidado del cabello
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Género: Mujer
-- Tipo de producto: Agua de colonia
 - Marca: Revlon
+- Tipo de producto: Agua de colonia
+- Género: Mujer
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000E7SSI0{{</world>}}

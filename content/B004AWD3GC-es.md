@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apariencia: Completo, dorado, claro y brillante
-- NOTA: El embalaje puede variar!
-- Aroma: Roble bien equilibrado, Jerez con un toque cítrico.
-- Terminar: Buena longitud, limpio, medio seco
 - Gusto: Sabor medio completo, maduro, frutiness de Speyside
+- NOTA: El embalaje puede variar!
+- Terminar: Buena longitud, limpio, medio seco
+- Aroma: Roble bien equilibrado, Jerez con un toque cítrico.
+- Apariencia: Completo, dorado, claro y brillante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B004AWD3GC{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resistente al agua
-- Resistente a los roces
-- Fórmula súper duradera que se desliza fácilmente sobre el párpado y la línea de agua
 - Un Kajal que no mancha, tonos intensamente ahumados
+- Fórmula súper duradera que se desliza fácilmente sobre el párpado y la línea de agua
+- Resistente a los roces
+- Resistente al agua
 - Exterior ergonómico que facilita el agarre y control
 
 [🛒 Aquí!!!]({{< param buyurl >}})

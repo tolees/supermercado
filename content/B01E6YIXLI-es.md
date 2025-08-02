@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin colorantes, aromas ni espesantes artificiales
-- Apto para vegetarianos
 - Optima para ensaladilla rusa, pasteles y huevos rellenos
 - Cremosa mayonesa elaborada únicamente con huevos camperos
+- Sin colorantes, aromas ni espesantes artificiales
+- Apto para vegetarianos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01E6YIXLI{{</world>}}

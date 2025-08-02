@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ginebra con infusiones de rosas y pepino
-- Se puede consumir solo o en cócteles
 - Con un postgusto especial gracias a las notas cítricas.
-- Ideal como regalo para cualquier ocasión
+- Se puede consumir solo o en cócteles
 - Se recomienda servir frío
+- Ideal como regalo para cualquier ocasión
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B004LLZP3Q{{</world>}}

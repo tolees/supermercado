@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fotoprotector facial ligero de uso diario con triple acción anti-fotoenvejecimiento: protege, repara y revierte
-- Alta protección SPF50, UVA y UVB
 - Protege y revitaliza la piel gracias a la acción antioxidante de Chlorella Maris
+- Alta protección SPF50, UVA y UVB
 - PROTEGE UV y POLLUTION: Alta protección que ayuda a prevenir el daño solar; fórmula que protege la piel de la polución urbana
 
 [🛒 Aquí!!!]({{< param buyurl >}})

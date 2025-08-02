@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Complementa tu piel con matices neutros para un bronceado óptimo sin sol
 - Hasta 10 horas de duración
-- Su fórmula contiene protección solar SPF 18
 - Es un bronceador de piel de aspecto natural que le da a tu rostro un brillo bañado por el sol
 - Fórmula resistente al agua y fácil de aplicar
+- Su fórmula contiene protección solar SPF 18
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08ZPGVKK7{{</world>}}

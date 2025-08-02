@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Composición: 35% viura 30% sauvignon blanc 35% tempranillo blanco
+- En boca es untuoso, elegante y fresco. Acidez armónica, destellos de fruta blanca con notas de pastelería. Final largo y glicérico con una madera protagonista
 - Perfecto para acompañar pescados ahumados, carnes blancas, foie, carnes a la plancha, quesos maduros, arroces y platos de la cocina asiática
 - Limpio y brillante, llamativo color amarillo pálido con reflejos limón
-- En boca es untuoso, elegante y fresco. Acidez armónica, destellos de fruta blanca con notas de pastelería. Final largo y glicérico con una madera protagonista
-- Composición: 35% viura 30% sauvignon blanc 35% tempranillo blanco
 - Noble y elegante, con notas marcadas de flores blancas, dulces notas balsámicas y a pan tostado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

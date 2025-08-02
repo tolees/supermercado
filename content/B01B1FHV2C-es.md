@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ⭐DAMM CERVEZAS - Fundada en 1876, la intencionalidad de Damm es unir la pasión por sus productos y por el territorio para mejorar los momentos de disfrute de las personas.
 - 🍺ESTRELLA DAMM - Cerveza dorada con 5,4% de alcohol, caracterizada por su sabor suave, con espuma consistente y ligeramente amarga, para experimentar un sabor refrescante.
-- ❄️FORMATO Y CONSUMO - Pack de 24 latas de 50 cl. Consumirla entre unos 4-6ºC para poder disfrutar de su sabor y carácter refrescante.
 - 🍃 DOBLE MALTA - Dorada con tonalidades ambarinas y algunos reflejos verdosos. Es limpia y brillante, su espuma es de color crudo y de larga presencia. Las notas de torrefacto dan personalidad a la percepción final. Su carbónico está integrado y lleva el paladar de densas notas a cereales tostados.
 - 🌾 AROMA LIMPIO- Es una cerveza versátil, ligera, refrescante y con un aroma limpio y respetuoso con la cebada.
-- ⭐DAMM CERVEZAS - Fundada en 1876, la intencionalidad de Damm es unir la pasión por sus productos y por el territorio para mejorar los momentos de disfrute de las personas.
+- ❄️FORMATO Y CONSUMO - Pack de 24 latas de 50 cl. Consumirla entre unos 4-6ºC para poder disfrutar de su sabor y carácter refrescante.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01B1FHV2C{{</world>}}

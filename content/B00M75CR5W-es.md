@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Modo de empleo: Tomar 4 gotas antes de acostarse preferiblemente cada día a la misma hora. Gotas directamente en la boca o diluidas en bebida.
+- La Melatonina contribuye a disminuir el tiempo necesario para conciliar el sueño.
 - No consumir durante el embarazo y/o lactancia.
 - Composición: Melatonina 1mg, Manzanilla 3.2mg, Melisa 2mg.
-- La Melatonina contribuye a disminuir el tiempo necesario para conciliar el sueño.
-- Modo de empleo: Tomar 4 gotas antes de acostarse preferiblemente cada día a la misma hora. Gotas directamente en la boca o diluidas en bebida.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00M75CR5W{{</world>}}

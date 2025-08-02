@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Color: Negro
-- Ofrece un resultado óptimo y adecuado
 - Máscara para pestañas
 - Material de calidad
+- Ofrece un resultado óptimo y adecuado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01LTHN2WA{{</world>}}

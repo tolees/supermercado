@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Garnier Delial FPS30 Spray Invisible Protector con Textura Invisible.
-- Con su tacto seco y su alta resistencia al agua.
-- Posee una textura ligera en spray y unifica el bronceado.
 - Protege la piel frente a la exposición al sol.
+- Garnier Delial FPS30 Spray Invisible Protector con Textura Invisible.
+- Posee una textura ligera en spray y unifica el bronceado.
+- Con su tacto seco y su alta resistencia al agua.
 - Ofrece un bronceado uniforme y luminoso invisible en todos los tonos de piel.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

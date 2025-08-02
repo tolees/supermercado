@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Labios hidratados y protegidos del sol
-- Con un increíble olor y una textura cremosa
-- Protección Alta con SPF 30
 - Bálsamo labial protector de rayos UVA/UVB
+- Protección Alta con SPF 30
+- Con un increíble olor y una textura cremosa
 - Sabor Tropical
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Fragancia Nenuco, llena tu hogar de este aroma fresco y ligero que te transportará al mundo de los bebés
 - Elige entre tres niveles de intensidad para conseguir tu nivel de fragancia deseada
-- Descubre el resto de fragancias Air Wick Freshmatic
 - Elimina olores y perfuma tu hogar de forma continua con un diseño elegante y portable
+- Descubre el resto de fragancias Air Wick Freshmatic
 - Recambio triple para ambientador spray automático Air Wick Freshmatic
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

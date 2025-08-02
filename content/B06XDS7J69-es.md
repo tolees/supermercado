@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hidratación intensa para la piel
 - Agradable sensación en la piel
 - Humectante de piel
+- Hidratación intensa para la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06XDS7J69{{</world>}}

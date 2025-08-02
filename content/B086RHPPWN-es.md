@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✳️ Cuidado de la piel y el cabello. Ideal para el tratamiento de pieles sensibles y delicadas, así como para la reducción del sebo en cabellos grasos.
-- ✳️ Ideal para quienes frecuentan el gimnasio, la piscina pública, las duchas y los baños y entran en contacto con agentes externos que pueden ser perjudiciales para nuestra piel.
-- ✳️ Ideal para pieles grasas, ya que ayuda a regular y controlar la producción de sebo, regulando el pH de la piel.
 - ✳️ Reduce la sudoración excesiva y, por lo tanto, también ayuda a eliminar el olor corporal y de los pies.
+- ✳️ Ideal para pieles grasas, ya que ayuda a regular y controlar la producción de sebo, regulando el pH de la piel.
+- ✳️ Ideal para quienes frecuentan el gimnasio, la piscina pública, las duchas y los baños y entran en contacto con agentes externos que pueden ser perjudiciales para nuestra piel.
+- ✳️ Cuidado de la piel y el cabello. Ideal para el tratamiento de pieles sensibles y delicadas, así como para la reducción del sebo en cabellos grasos.
 - ✳️ 3en1 - Gel de ducha, jabón de baño y champú elaborados con una combinación de aceites esenciales concentrados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

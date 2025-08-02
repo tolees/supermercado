@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfecto como un regalo
 - Color: oro. Nariz: dulce, cítrico. Sabor: Suave, cremoso, lima, vainilla. Acabado: Larga duración, seco. El fabricante recomienda la bebida "Samba de las Tierras Altas", aquí la bebida espirituosa se sirve con limonada, hielo y dos rodajas de lima.
+- Perfecto como un regalo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTK7WJFR{{</world>}}

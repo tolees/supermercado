@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Es limpio y brillante
-- En nariz la gama de frutos rojos, como la frambuesa y la cereza
-- Vino tinto de la D.O. Ribera
 - De color rojo cereza
+- En nariz la gama de frutos rojos, como la frambuesa y la cereza
+- Es limpio y brillante
+- Vino tinto de la D.O. Ribera
 - Conservar en lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})

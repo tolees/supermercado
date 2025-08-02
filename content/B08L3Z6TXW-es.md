@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fuente Omega3
 - Fuente Ácidos Grasos Omega3
+- Fuente Omega3
 - Contiene Pescado y/o productos a base de pescados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

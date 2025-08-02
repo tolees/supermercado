@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - A prueba de manchas, ni pliegues; no deja restos
-- Formula sin perfume, no testeada en animales y vegana
-- Enriquecida con ingredientes acondicionadores
-- Fórmula fácil de aplicar que se desliza sin esfuerzo
 - Sombras de Ojos color de óptimo impacto al instante
+- Fórmula fácil de aplicar que se desliza sin esfuerzo
+- Enriquecida con ingredientes acondicionadores
+- Formula sin perfume, no testeada en animales y vegana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQRGCDPN{{</world>}}

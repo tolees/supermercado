@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Máximo impacto y cuidado con su fórmula negro carbón
 - Enriquecida con Keratina
-- Aplica la máscara de pestañas desde la raíz hasta las puntas con movimientos en zig-zag para separar e intensificar las pestañas
+- Máximo impacto y cuidado con su fórmula negro carbón
 - Cepillo con efecto multiplicador, captura y define todas las pestañas, dándoles volumen una a una
+- Aplica la máscara de pestañas desde la raíz hasta las puntas con movimientos en zig-zag para separar e intensificar las pestañas
 - Volumen y longitud efecto pestañas postizas con un color extremo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

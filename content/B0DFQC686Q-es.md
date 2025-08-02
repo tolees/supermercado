@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pasta dentífrica blanqueadora avanzada
 - Pasta dentífrica con sabor a hierbabuena fresca
 - Probada clínicamente y diseñada profesionalmente
-- 24 horas de prevención contra manchas superficiales con dos cepillados al día
 - Tubo reciclable; más información en el sitio web de Oral-B
-- Pasta dentífrica blanqueadora avanzada
+- 24 horas de prevención contra manchas superficiales con dos cepillados al día
 - Elimina hasta el 100% de las manchas superficiales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

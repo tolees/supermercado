@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tonifica y reafirma la piel
 - Estimula la síntesis de colágeno
+- Tonifica y reafirma la piel
 - Tiene una textura no grasa
 - Contiene extracto de alga marina y phyto-cafeina
 

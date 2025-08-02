@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resultado óptimo
 - Fácil de aplicar
 - Mascarilla para el cabello
+- Resultado óptimo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08K4SLKZ8{{</world>}}

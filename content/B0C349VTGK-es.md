@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 💯 CARAMELOS CERDÁN: Es una empresa familiar líder en Europa en la fabricación de caramelo duro con una amplia gama de productos para niños y adultos. Fundada en 1914, lleva más 100 años endulzando paladares por todo el mundo
+- 🍬 CARAMELOS RELLENOS DE SODA: Tiras de 5 caramelos rellenos. Sin gluten y libre de alérgenos. Tarro de 200 unidades (40 tiras de 5 caramelos)
+- 🍬 SABORES VARIADOS: Los caramelos rellenos de soda de Cerdán tienen diferentes sabores: fresa, cola y frutas del bosque. Una auténtica delicia para el paladar de niños y adultos. Perfectos para compartir con amigos y familiares
 - 🎊 IDEAL PARA: Fiestas de cumpleaños, Navidad, Halloween, fiestas temáticas u otras ocasiones especiales. Nuestros caramelos con palo Frozen Pop también son perfectos para incluirlas en piñatas y candy bar
 - 🚫 LIBRE DE ALÉRGENOS: Nuestros caramelos se fabrican en una fábrica que combina las más modernas tecnologías con la imaginación y el cuidado artesanal; sin gluten, lactosa, huevo, trazas de pescado o frutos secos
-- 💯 CARAMELOS CERDÁN: Es una empresa familiar líder en Europa en la fabricación de caramelo duro con una amplia gama de productos para niños y adultos. Fundada en 1914, lleva más 100 años endulzando paladares por todo el mundo
-- 🍬 SABORES VARIADOS: Los caramelos rellenos de soda de Cerdán tienen diferentes sabores: fresa, cola y frutas del bosque. Una auténtica delicia para el paladar de niños y adultos. Perfectos para compartir con amigos y familiares
-- 🍬 CARAMELOS RELLENOS DE SODA: Tiras de 5 caramelos rellenos. Sin gluten y libre de alérgenos. Tarro de 200 unidades (40 tiras de 5 caramelos)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C349VTGK{{</world>}}

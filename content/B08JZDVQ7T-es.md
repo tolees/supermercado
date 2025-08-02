@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mascarilla hidratante intensiva
 - Producto de calidad óptima
+- Mascarilla hidratante intensiva
 - Fácil de aplicar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

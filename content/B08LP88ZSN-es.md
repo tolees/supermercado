@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Grasa láctea, leche
 - Conservar en un lugar fresco y seco
-- Azúcar, cacao, jarabe de glucosa, manteca de cacao, grasa láctea, leche desnatada en polvo, suero de leche en polvo, aroma natural de naranja, estabilizante, emulgente, sal
 - País de origen: España
+- Grasa láctea, leche
+- Azúcar, cacao, jarabe de glucosa, manteca de cacao, grasa láctea, leche desnatada en polvo, suero de leche en polvo, aroma natural de naranja, estabilizante, emulgente, sal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LP88ZSN{{</world>}}

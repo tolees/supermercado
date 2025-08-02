@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Bebida de vino y zumo de uva
-- Realizada con endulcorantes
-- Color granate claro y brillante en apariencia
-- Aromas dulces sobre una base de jugo de uva roja
 - Refrescante y sabroso, con un postgusto a limón
+- Aromas dulces sobre una base de jugo de uva roja
+- Color granate claro y brillante en apariencia
+- La siguiente información se aplica a cada unidad del paquete
+- Realizada con endulcorantes
+- Bebida de vino y zumo de uva
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CPF8HTPK{{</world>}}

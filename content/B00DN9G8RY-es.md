@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puede contener trazas de soja, sésamo y altramuces.
-- Alto contenido en proteínas
-- Procedente de agricultura ecológica
 - Largo proceso de levitación para una masa más esponjosa
+- Procedente de agricultura ecológica
+- Alto contenido en proteínas
+- Puede contener trazas de soja, sésamo y altramuces.
 - Ideal para elaborar masas de panadería o repostería
 
 [🛒 Aquí!!!]({{< param buyurl >}})

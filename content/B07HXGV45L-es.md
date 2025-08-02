@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con glucosamina y condroitina para mejorar las articulaciones; Con taurina para tener la vista y el corazón saludables
 - Con biotina, zinc y salmón: una fuente natural de Omega 3 para mantener la piel y el cabello sanos
-- Sin aromas, colorantes ni conservantes artificiales
-- Conservar en un lugar fresco, seco y oscuro. Una vez abierto, volver a sellar lo más hermético posible
-- Comida para gatos adultos: nutrición 100% completa y equilibrada
-- Prebióticos naturales para mejorar la digestión sensible
 - Sin soja, cebada ni productos lácteos añadidos
-- Una receta sabrosa con proteínas de alta calidad
 - Diseñada por nutricionistas de animales y revisada por veterinarios
+- Conservar en un lugar fresco, seco y oscuro. Una vez abierto, volver a sellar lo más hermético posible
+- Con glucosamina y condroitina para mejorar las articulaciones; Con taurina para tener la vista y el corazón saludables
+- Comida para gatos adultos: nutrición 100% completa y equilibrada
+- Una receta sabrosa con proteínas de alta calidad
+- Prebióticos naturales para mejorar la digestión sensible
+- Sin aromas, colorantes ni conservantes artificiales
 - Con salmón fresco; carne y derivados animales: aprox. un 28%
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

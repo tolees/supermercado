@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conservar en lugar fresco y seco
-- Avena tostada en crujientes granolas, sorprendentemente ricas
 - Contiene gluten o presencia de cereales que contienen gluten
+- Avena tostada en crujientes granolas, sorprendentemente ricas
 - Contiene harina de avena integral
 - Sin colorantes ni aromas artificiales
 

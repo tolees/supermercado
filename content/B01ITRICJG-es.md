@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Viene en un moderno envase de cartón
+- Con todo su valor energético y proteínico
 - 100% natural
 - Para los que se cuidan sin obsesiones y sin renunciar al sabo
-- Con todo su valor energético y proteínico
-- Viene en un moderno envase de cartón
 - Contiene leche o derivados de la leche, lactosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

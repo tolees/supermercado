@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Caja de 24 latas de La Sagra Original Lager 33cl + toalla de playa
 - Toalla de playa de regalo
 - Disfruta de la esta cerveza este verano
-- Caja de 24 latas de La Sagra Original Lager 33cl + toalla de playa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D7QJNSYF{{</world>}}

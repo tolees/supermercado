@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aroma White Bouquet, rodéate con la delicada fragancia floral de White Bouquet, inspirado en el fresco aroma de las flores blancas recién cortadas
-- Elige entre los diferentes niveles de intensidad para conseguir tu nivel de fragancia adecuada
-- Descubre el resto de fragancias Air Wick Eléctrico con aceites esenciales
 - Pack de recambios para ambientador difusor eléctrico Air Wick
+- Aroma White Bouquet, rodéate con la delicada fragancia floral de White Bouquet, inspirado en el fresco aroma de las flores blancas recién cortadas
+- Descubre el resto de fragancias Air Wick Eléctrico con aceites esenciales
+- Elige entre los diferentes niveles de intensidad para conseguir tu nivel de fragancia adecuada
 - Disfruta de un aroma duradero y consistente para tu hogar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

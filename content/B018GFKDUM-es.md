@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Viene en un embalaje reciclable
 - De una textura fina
-- Sin gluten
 - Tarrito 100% ecológico con sabor a pavo y verduras
+- Sin gluten
 - Adecuado para bebés mayores de 6 meses
+- Viene en un embalaje reciclable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B018GFKDUM{{</world>}}

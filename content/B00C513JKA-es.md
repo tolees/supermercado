@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elaborado sin azúcares añadidos
 - Con un alto contenido en calcio
 - Conservar en un lugar fresco y seco
 - Hecho con ingredientes 100% bio
+- Elaborado sin azúcares añadidos
 - Bebida rápida y sabrosa para cualquier momento del día
 
 [🛒 Aquí!!!]({{< param buyurl >}})

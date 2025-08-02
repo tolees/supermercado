@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Infinite Bronze es la protección solar embellecedora híbrida y con color de Lancaster
 - Su tecnología Full Light protege de los rayos UVB y UVA, así como de la luz visible y los rayos infrarrojos, mientras que el ácido hialurónico hidrata intensamente la piel
 - Tu piel revela un brillo natural duradero e impecable
+- Infinite Bronze es la protección solar embellecedora híbrida y con color de Lancaster
 - Infinite Bronze Tinted Protection Sunlight Cream SPF30 es una base de maquillaje luminosa que unifica y broncea la piel, al tiempo que difuminará visiblemente las imperfecciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

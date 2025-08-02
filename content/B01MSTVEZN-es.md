@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
 - Comida española fácil de preparar: al baño maria, en cazo o al microondas
 - Ingredientes 100 percent naturales, sin gluten, sin colorantes ni conservantes
+- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
 - Fuente de fibra
 - Selecto embutido elaborado en Asturias, embutido 100 percent local
 

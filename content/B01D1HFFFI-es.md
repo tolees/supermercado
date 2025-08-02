@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Colorete en polvo para dar color y definición
+- Fácil de desmaquillar
 - Tipo de piel: Piel normal
+- Paleta con 3 pasos para contouring
+- Polvo iluminador para resaltar mejillas, cejas, frente, barbilla y nariz
 - Sombreador para contornear la nariz y la mandíbula
 - Tipo de piel: piel normal
-- Paleta con 3 pasos para contouring
-- Fácil de desmaquillar
-- Polvo iluminador para resaltar mejillas, cejas, frente, barbilla y nariz
-- Colorete en polvo para dar color y definición
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01D1HFFFI{{</world>}}

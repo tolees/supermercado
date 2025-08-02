@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Volumen 72 ml
 - Revitaliza el cabello quebradizo, mantiene la densidad del cabello e hidrata el cuero cabelludo y el cabello
 - Brand: Revlon Professional ProYou Care
-- Volumen 72 ml
 - Fortifica la estructura del cabello
 
 [🛒 Aquí!!!]({{< param buyurl >}})

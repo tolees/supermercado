@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ingredientes: Tomate (170 g por 100 g de tomate frito), aceite de oliva virgen extra (3,5%) (sofrito con cebolla y ajos frescos), azúcar, sal y fibra
 - Apto para Vegetarianos y Veganos
 - Sin trozos
 - Sin Gluten y sin conservantes
 - Una vez abierto conservar en frigorífico
-- Ingredientes: Tomate (170 g por 100 g de tomate frito), aceite de oliva virgen extra (3,5%) (sofrito con cebolla y ajos frescos), azúcar, sal y fibra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B088TYCBM1{{</world>}}

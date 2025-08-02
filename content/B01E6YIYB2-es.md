@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Apto para vegetarianos
+- Sin colorantes, aromas ni espesantes artificiales
 - Cremosa mayonesa elaborada únicamente con huevos camperos
 - Optima para patatas fritas, pescado y verduras
-- Sin colorantes, aromas ni espesantes artificiales
-- Apto para vegetarianos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01E6YIYB2{{</world>}}

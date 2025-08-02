@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cobertura media modulable
-- Maquillaje en polvo de acabado mate y aterciopelado
 - Con partículas que reflejan la luz, para una acabado sutilmente luminoso
 - Óptima para cualquier tipo de piel
+- Cobertura media modulable
+- Maquillaje en polvo de acabado mate y aterciopelado
 - Icónico polvo compacto de Max Factor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

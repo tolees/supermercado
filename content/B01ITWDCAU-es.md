@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfil equilibrado y con ligero sabor a tostado
 - Nescafé utiliza un proceso de desafinación natural solo con agua, que preserva el aroma y sabor del café, sin otros productos químicos
 - Café descafeinado de tueste intenso
+- Perfil equilibrado y con ligero sabor a tostado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ITWDCAU{{</world>}}

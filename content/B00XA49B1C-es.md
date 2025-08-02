@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aroma e intenso sabor crujiente en cada onza gracias a sus Almendras Mediterráneas Enteras.
-- Exclusivo Chocolate Valor con Leche con Almendras. Creado por nuestros maestros Chocolateros de Valor con algunos de los Mejores cacaos del Mundo.
-- Chocolate Puro con Almendras Apto para Celiacos. Sin Gluten.
 - Azúcar, almendra (25%), manteca de cacao, pasta de cacao, leche en polvo, lactosuero en polvo (leche), emulgente: lecitina de soja, aromas. Puede contener trazas de avellana. Mantener en un lugar fresco y seco a temperatura controlada entre 16ºC y 18ºC
 - Tableta de Chocolate Puro con Almendras Enteras. 250 Gramos.
+- Exclusivo Chocolate Valor con Leche con Almendras. Creado por nuestros maestros Chocolateros de Valor con algunos de los Mejores cacaos del Mundo.
+- Aroma e intenso sabor crujiente en cada onza gracias a sus Almendras Mediterráneas Enteras.
+- Chocolate Puro con Almendras Apto para Celiacos. Sin Gluten.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA49B1C{{</world>}}

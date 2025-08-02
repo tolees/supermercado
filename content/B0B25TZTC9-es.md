@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El jabón líquido de Lida aporta a la piel todo el cuidado e hidratación que necesita. Además de utilizar ingredientes naturales en todas sus formulaciones, elimina todos aquellos componentes que pueden resultar perjudiciales para la piel
 - La gama Glicerina protege e hidrata la piel. Gracias a sus propiedad humectantes, está indicada para todo tipo de pieles, especialmente aquellas con tendencia seca
-- El jabón de glicerina natural Lida tiene propiedades humectantes, que ayudan a mantener una buena hidratación de la piel. También es antibacteriano y contribuye a reparar y regenerar la piel
-- Lida elabora desde hace décadas toda su gama de productos de forma artesanal con ingredientes naturales. Algo que caracteriza a esta marca es la unión entre tradición y vanguardia que dan como resultado una línea de cuidado e higiene corporal a base de glicerina apta para todo tipo de pieles, incluso las más delicadas.
 - Lida es un jabón 100% natural de glicerina vegetal que proporciona una hidratación intensiva para tu piel. Elaborado de manera tradicional con ingredientes de origen natural, Lida limpia la piel sin resecar y la deja suave, tersa y con un aspecto saludable
+- Lida elabora desde hace décadas toda su gama de productos de forma artesanal con ingredientes naturales. Algo que caracteriza a esta marca es la unión entre tradición y vanguardia que dan como resultado una línea de cuidado e higiene corporal a base de glicerina apta para todo tipo de pieles, incluso las más delicadas.
+- El jabón líquido de Lida aporta a la piel todo el cuidado e hidratación que necesita. Además de utilizar ingredientes naturales en todas sus formulaciones, elimina todos aquellos componentes que pueden resultar perjudiciales para la piel
+- El jabón de glicerina natural Lida tiene propiedades humectantes, que ayudan a mantener una buena hidratación de la piel. También es antibacteriano y contribuye a reparar y regenerar la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B25TZTC9{{</world>}}

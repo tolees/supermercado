@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una barrita energética 100% natural inspirada en la dieta paleolítica.
-- Cardiovascular, Energia (fatiga), Peso (adelgazamiento, corta-hambre)
 - CRO PALEO BAR * 6 paleo barritas x 40 g
+- Cardiovascular, Energia (fatiga), Peso (adelgazamiento, corta-hambre)
+- Una barrita energética 100% natural inspirada en la dieta paleolítica.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DWEC710{{</world>}}

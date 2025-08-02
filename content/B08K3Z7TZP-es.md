@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aromas florales a azahar y matices a frutas tropicales como la piña o el melocotón
-- Contenido de alcohol (alc/vol): 11.6 percent_by_volume
 - Amplio con un postgusto muy afrutado
-- Como servir: servir entre 6- 8 c
-- Color amarillo pálido muy brillante y limpio
-- Volumen: 0.75 liters
-- Excelente acidez que lo hace muy refrescante
 - Volumen paquete: 4500.0 milliliters; tipo de alcohol: white wines
+- Volumen: 0.75 liters
 - Unidades: 6.0
+- Excelente acidez que lo hace muy refrescante
+- Contenido de alcohol (alc/vol): 11.6 percent_by_volume
+- Color amarillo pálido muy brillante y limpio
 - Procedencia: spain
+- Aromas florales a azahar y matices a frutas tropicales como la piña o el melocotón
+- Como servir: servir entre 6- 8 c
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08K3Z7TZP{{</world>}}

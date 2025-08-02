@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Leche de crecimiento líquida
 - Paquete de 6 unidades
-- Aporta omega 3 y hierro que son esenciales para el desarrollo físico, visual e intelectual del niño
 - Con vitaminas A, C y D
+- Aporta omega 3 y hierro que son esenciales para el desarrollo físico, visual e intelectual del niño
+- Leche de crecimiento líquida
 - Producto sin azúcar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

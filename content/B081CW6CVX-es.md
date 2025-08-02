@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suavizante para ropa ecológico con ingredientes de origen botánico y agradable fragancia a jazmín y lavanda
-- Envases respetuosos con el medio ambiente; pack 100 % reciclable y fabricado con hasta un 50 % de material reciclado
 - Apto para pieles sensibles; no deja químicos abrasivos en la ropa que puedan causar una reacción adversa en pieles sensibles; dermatológicamente testado
-- Formulado con un 92 % de ingredientes de origen natural y 0 % colorantes
+- Suavizante para ropa ecológico con ingredientes de origen botánico y agradable fragancia a jazmín y lavanda
 - Fragancia duradera en tus prendas gracias a sus aceites esenciales con aroma a jazmín fresco y lavanda silvestre
+- Formulado con un 92 % de ingredientes de origen natural y 0 % colorantes
+- Envases respetuosos con el medio ambiente; pack 100 % reciclable y fabricado con hasta un 50 % de material reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081CW6CVX{{</world>}}

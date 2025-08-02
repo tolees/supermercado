@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Captura y envuelve cada pestaña para hacerlas más gruesas sin dejar grumos
-- Definidas y acondicionadas.Negro intenso
-- Mirada natural y ligera
 - Fórmula con aceite de argán que fortalece y nutre las pestañas una a una
 - Cepillo flexible de silicona que abraza las pestañas definiendolas desde la raíz a las puntas
+- Definidas y acondicionadas.Negro intenso
+- Mirada natural y ligera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MGKALDS{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal pelo rizado u ondulado
-- Contiene derivado de proteína de limón
 - Con activos fortificantes de frutas
+- Contiene derivado de proteína de limón
+- Ideal pelo rizado u ondulado
 - Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
 - Enriquecida con vitaminas B3 y B6
 

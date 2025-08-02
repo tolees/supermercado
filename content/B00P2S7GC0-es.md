@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con productos naturales y nutritivos
 - Para bebés a partir de los 4 meses
 - Elaborada con la mejor selección de frutas
-- Con productos naturales y nutritivos
 - Preparado de manera natural y casera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

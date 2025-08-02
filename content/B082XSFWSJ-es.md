@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Espejo incorporado para retoques durante todo el día
 - Nueva fórmula Best in class: formulación altamente avanzada
 - Aplicación de tacto de seda creando una película fina y cómoda
-- Respeta la luminosidad del color
 - Color intenso
+- Respeta la luminosidad del color
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082XSFWSJ{{</world>}}

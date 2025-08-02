@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Elimina las marcas de jabón y la cal
-- Limpio y reluciente
 - Tecnología antigoteo
+- Limpio y reluciente
 - Botella reciclable
 - Fabricado con electricidad 100 % renovable
 

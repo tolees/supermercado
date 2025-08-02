@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suave
-- Aterciopelado
 - Vino tinto espectacular capaz de maridar hasta solo
 - Regalo de alegria, ideal para esa persona que aprecias o para ti mismo.
+- Aterciopelado
 - Puede contener trazas de alegría
 
 [🛒 Comprar!!!]({{< param buyurl >}})

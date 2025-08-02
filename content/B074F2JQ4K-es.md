@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- QUÉ ES: Sleepeel Gotas es un complemento alimenticio compuesto por una combinación de melatonina, pasiflora, melisa, zinc y vitamina B6 que actúan durante toda la noche para ayudar a conciliar el sueño de forma más rápida y mantenerlo, favoreciendo el descanso reparador. Sin gluten ni lactosa. Apto para veganos
 - MELATONINA: Es una hormona que sintetizamos de forma natural en nuestro cerebro. Además de tener un papel regulador en el ritmo sueño-vigilia, es un potente antioxidante que evita el envejecimiento prematuro y regula el sistema inmune y la temperatura corporal. Un descanso sano favorece un buen estado de ánimo, evita el estrés, proporciona energía, protege el corazón y favorece un correcto metabolismo
 - Laboratorios Heel España, 5.A.U. C/Madroño, s/n. 28770 Colmenar Viejo (Madrid)
-- CÓMODA POSOLOGÍA: Con pipeta de dosificación. Tomar 0.5ml entre 1/2 y 1 hora antes de ir a dormir. Ideal para niños mayores de 3 años y personas con problemas para tragar pastillas. Para edades inferiores consulte con su médico o farmacéutico
+- QUÉ ES: Sleepeel Gotas es un complemento alimenticio compuesto por una combinación de melatonina, pasiflora, melisa, zinc y vitamina B6 que actúan durante toda la noche para ayudar a conciliar el sueño de forma más rápida y mantenerlo, favoreciendo el descanso reparador. Sin gluten ni lactosa. Apto para veganos
 - CÓMO ACTÚA: La dosis efectiva de melatonina contribuye a disminuir el tiempo necesario para iniciar el sueño. La pasiflora contribuye a reducir los despertares nocturnos. La melisa favorece un estado de relajación adecuado. La vitamina B6 contribuye a la reducción del cansancio y la fatiga. No tiene efectos secundarios ni efecto resaca. No produce dependencia ni habituación. Apto para su uso de forma prolongada
+- CÓMODA POSOLOGÍA: Con pipeta de dosificación. Tomar 0.5ml entre 1/2 y 1 hora antes de ir a dormir. Ideal para niños mayores de 3 años y personas con problemas para tragar pastillas. Para edades inferiores consulte con su médico o farmacéutico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074F2JQ4K{{</world>}}

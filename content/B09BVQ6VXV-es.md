@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La fórmula del complejo de vitamina B ayuda a fortalecer la barrera natural de la piel al mantener la hidratación y no dejar entrar los irritantes
 - Fórmula ligera para sensación cómoda y no grasa
 - Fragancia exclusiva con notas de bergamota, geranio y madera de cedro para una barba con aroma excelente
-- La fórmula del complejo de vitamina B ayuda a fortalecer la barrera natural de la piel al mantener la hidratación y no dejar entrar los irritantes
-- Hidrata la barba y el rostro para ayudar a aliviar el picor y la descamación de la piel seca
 - King C. Gillette, Ganadora del Premio Producto del Año 2022
+- Hidrata la barba y el rostro para ayudar a aliviar el picor y la descamación de la piel seca
 - Hidrata y acondiciona el pelo de la barba para suavizar y alisar la barba de 3 días áspera y erizada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

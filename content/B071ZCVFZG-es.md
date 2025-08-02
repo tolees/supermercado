@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para veganos
-- Fabricado en una fábrica certificada de cero residuos
-- Adecuado para prendas blancas y que no destiñen. Utiliza ECOVER lana y seda para tejidos delicados. No dejes que el producto se seque en la ropa. Consulta siempre las instrucciones de lavado de la prenda. Apto para 30-60 °C. Acabados ignífugos: nunca remojar ni lavar a más de 50 °C. 1 tapón = 40 ml Carga estándar (4-5kg ) - Agua Blanda-Media = 50ml (2x 25ml) Carga más grande ( 6x8kg ), carga más sucia/ agua dura =70ml (2 x 35ml)
-- Reduce el consumo de plásticos con este formato rellenable de detergente líquido de 5L.
 - Elaborado con ingredientes biodegradables a base de plantas
-- No testado en animales
-- Fragancia Honeysuckle & Jasmine
-- Combate las manchas ayudando a que la ropa dure más tiempo
-- Elimina las manchas para que tus prendas duren más tiempo
+- Fabricado en una fábrica certificada de cero residuos
 - ECOVER Detergente Líquido Universal contiene ingredientes activos a base de plantas para ayudar que tu ropa dure más. Lucha contra las manchas difíciles, y reviven los colores y el brillo. Elimina las pelusas de las fibras de algodón después de varios lavados.
+- Combate las manchas ayudando a que la ropa dure más tiempo
+- Adecuado para prendas blancas y que no destiñen. Utiliza ECOVER lana y seda para tejidos delicados. No dejes que el producto se seque en la ropa. Consulta siempre las instrucciones de lavado de la prenda. Apto para 30-60 °C. Acabados ignífugos: nunca remojar ni lavar a más de 50 °C. 1 tapón = 40 ml Carga estándar (4-5kg ) - Agua Blanda-Media = 50ml (2x 25ml) Carga más grande ( 6x8kg ), carga más sucia/ agua dura =70ml (2 x 35ml)
+- Apto para veganos
+- Elimina las manchas para que tus prendas duren más tiempo
+- No testado en animales
+- Reduce el consumo de plásticos con este formato rellenable de detergente líquido de 5L.
+- Fragancia Honeysuckle & Jasmine
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071ZCVFZG{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para una limpieza que inspira: elimina bacterias y placa
 - Con 3 modos de limpieza: limpieza diaria, abrillantado y sensible
+- Para una limpieza que inspira: elimina bacterias y placa
 - Limpieza profunda y encías sanas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

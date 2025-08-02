@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Con auténtica galleta TOSTA RICA.
 - Un chocolate cremoso, suave y dulce, hecho con leche recogida diariamente de la cornisa Cantábrica.
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest.
-- Delicioso chocolate con leche NESTLÉ EXTRAFINO con relleno cremoso y trocitos de galleta TOSTA RICA
 - Producimos Nestlé Extrafino desde 1966 en La Penilla, Cantabria, siguiendo un proceso tradicional.
+- Delicioso chocolate con leche NESTLÉ EXTRAFINO con relleno cremoso y trocitos de galleta TOSTA RICA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5RS98H5{{</world>}}

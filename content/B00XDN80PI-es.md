@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborados con harina de trigo de gran calidad y con ingredientes seleccionados.
-- Contiene gluten.
 - Conservar en lugar fresco y seco.
 - Sin conservantes ni colorantes artificiales.
-- Bocadillo con sabor a carne.
+- Elaborados con harina de trigo de gran calidad y con ingredientes seleccionados.
+- Contiene gluten.
 - El embalaje puede variar.
+- Bocadillo con sabor a carne.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDN80PI{{</world>}}

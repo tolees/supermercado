@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cómo preparar una taza de cappuccino óptima: 1) Poner 3 cucharaditas (14g) en una taza; 2) Añadir 150ml de agua caliente o leche, no hirviendo; 3) Remover bien; 4) Esperar 30 segundos y a disfrutar
 - Envasado en España
 - Mezcla de café instantáneo con azúcar, leche desnatada en polvo y cacao desgrasado en polvo
 - Este envase contiene aproximadamente 14 porciones
 - Conservar en un lugar fresco y seco; tapar después de usar; consumir preferentemente antes del: ver base del envase
-- Cómo preparar una taza de cappuccino óptima: 1) Poner 3 cucharaditas (14g) en una taza; 2) Añadir 150ml de agua caliente o leche, no hirviendo; 3) Remover bien; 4) Esperar 30 segundos y a disfrutar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1RGTY2H{{</world>}}

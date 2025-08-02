@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack Ahorro: Desodorante Aerosol Protección Avanzada 72h Rexona Invisible Aqua Antitranspirante para mujer 200ml x2
-- Protección imparable contra el sudor y el mal olor
-- Desodorante antitranspirante con tecnología Motionsense que se activa con el movimiento
 - Elige tu protección en cada momento; rexona no te abandona
+- Protección imparable contra el sudor y el mal olor
+- Pack Ahorro: Desodorante Aerosol Protección Avanzada 72h Rexona Invisible Aqua Antitranspirante para mujer 200ml x2
+- Desodorante antitranspirante con tecnología Motionsense que se activa con el movimiento
 - Desodorante en aerosol con fórmula que brinda 72 horas de protección
 - Desodorante antitranspirante con Nonstop Protection
 

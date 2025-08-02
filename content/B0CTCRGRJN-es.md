@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los estudios clínicos confirman la alta eficacia y la excelente tolerancia cutánea de las pieles sensibles.
-- Aplicar sobre el rostro en cantidad suficiente antes de tomar el sol. Omita el área alrededor de sus ojos.
-- Reduce visiblemente las arrugas del rostro y escote.
 - Apto para todo tipo de pieles.
+- Aplicar sobre el rostro en cantidad suficiente antes de tomar el sol. Omita el área alrededor de sus ojos.
+- Los estudios clínicos confirman la alta eficacia y la excelente tolerancia cutánea de las pieles sensibles.
+- Reduce visiblemente las arrugas del rostro y escote.
 - Probado y aprobado dermatológicamente y clínicamente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

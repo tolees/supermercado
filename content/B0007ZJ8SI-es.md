@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Durómetro 80: el rodillo de goma sintética ofrece la firmeza necesaria para aplicaciones de tallado ligero o pegado
 - Uso con cualquier sustrato de alivio: ideal para uso con linóleo, bloque suave o corte de madera
+- Durómetro 80: el rodillo de goma sintética ofrece la firmeza necesaria para aplicaciones de tallado ligero o pegado
 - Mango de plástico duradero: cuenta con un fuerte mango de agarre cómodo
 - Brasier de goma dura: ideal para aplicaciones de tallado ligero
 - Fácil de limpiar: el rodillo se puede cambiar o quitar rápida y fácilmente

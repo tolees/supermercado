@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Preciso como un perfilador
-- Color intenso y alta cobertura en una sola pasada
 - Labial mate, intenso, preciso y de larga duración
+- Color intenso y alta cobertura en una sola pasada
 - Confort extremo con su textura suave y aterciopelada
 - En formato jumbo, ideal para perfilar tus labios
 

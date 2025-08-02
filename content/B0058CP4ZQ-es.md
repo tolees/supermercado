@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Su aplicador preciso ayuda a definir una línea perfecta
-- Fórmula resistente, no transfiere ni mancha
-- Consigue una mirada de escándalo
-- Delineador de color intenso que dura horas y horas
 - Consigue un delineado glamuroso con el mínimo esfuerzo
+- Delineador de color intenso que dura horas y horas
+- Su aplicador preciso ayuda a definir una línea perfecta
+- Consigue una mirada de escándalo
+- Fórmula resistente, no transfiere ni mancha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0058CP4ZQ{{</world>}}

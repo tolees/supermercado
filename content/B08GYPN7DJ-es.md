@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Beber con moderación
 - Bebida de vino
 - Regina Viarum es vino y paisaje, la suma del saber hacer de su gente, el equilibrio óptimo que captura la esencia de la Viticultura de Montaña a orillas del río Sil
+- Beber con moderación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08GYPN7DJ{{</world>}}

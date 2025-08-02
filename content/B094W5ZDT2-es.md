@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es un whisky premium con ricos aromas frutales y una fragancia de flores de otoño. La combinación de los elegantes aromas de vainilla dulce y roble seco se realzan con sutiles notas de jerez y humo.
-- Este rico y complejo whisky de malta tiene una crianza de 21 años en barricas de roble.
-- El whisky escocés Royal Salute 21 años es adecuado para consumir solo o con hielo y disfrutar del dulce aroma de vainilla mezclado con roble tostado y notas afrutadas.
 - Es un whisky de sabor suave y fresco, con delicadas notas de mermelada de naranjas dulces y peras frescas, que se unen con toques de avellana y nueces, y un sutil ahumado.
+- El whisky escocés Royal Salute 21 años es adecuado para consumir solo o con hielo y disfrutar del dulce aroma de vainilla mezclado con roble tostado y notas afrutadas.
 - Disfruta estas navidades con la edición Limitada de Royal Salute 21 años Chinese New Year Edition
+- Este rico y complejo whisky de malta tiene una crianza de 21 años en barricas de roble.
+- Es un whisky premium con ricos aromas frutales y una fragancia de flores de otoño. La combinación de los elegantes aromas de vainilla dulce y roble seco se realzan con sutiles notas de jerez y humo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B094W5ZDT2{{</world>}}

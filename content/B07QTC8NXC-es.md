@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con vitamina A y D
 - Se puede beber frío o caliente
+- Con vitamina A y D
+- Bebida láctea con café y cacao
 - Mezcla de cafés arábica y robusta y el punto justo de cacao
 - Listo para servir
-- Bebida láctea con café y cacao
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07QTC8NXC{{</world>}}

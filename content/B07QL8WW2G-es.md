@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Desodorante en aerosol para hombre con 0% alcohol
-- Secado rápido
-- Rexona Men Desodorante Antitranspirante Invisible Ice 200ml
 - Desodorante antitranspirante que ofrece la mayor protección por hasta 48 horas
+- Rexona Men Desodorante Antitranspirante Invisible Ice 200ml
+- Desodorante en aerosol para hombre con 0% alcohol
 - Elaborado con tecnología motionsense que se activa con el movimiento
+- Secado rápido
 - Desodorante invisible con tecnología antimanchas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

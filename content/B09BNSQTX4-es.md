@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CONSERVACIÓN: guardar en un lugar fresco y oscuro, idealmente entre 18 y 24°C. Puede guardarse en el frigorífico, pero dentro de un recipiente hermético para conservar toda su gama de sabores
-- FUNDADA EN 1927 gracias al tesón de María Rojas que, siendo viuda, se hizo cargo del negocio familiar. Fueron los clientes quienes crearon la marca al referirse a sus dulces como los "de la viuda"
-- BOMBONES: estos bombones de chocolate de España son absolutamente increíbles. Tienen el tamaño perfecto para tomarlos de un bocado y sus sabores son de calidad superior
 - CREATIONS DARK SELECTION: selección de delicados bombones con un 70% de cacao. Disfruta de la singularidad de cada receta: almendra, naranja, café y chocolate intenso. 100% Fabricado en España
+- CONSERVACIÓN: guardar en un lugar fresco y oscuro, idealmente entre 18 y 24°C. Puede guardarse en el frigorífico, pero dentro de un recipiente hermético para conservar toda su gama de sabores
+- BOMBONES: estos bombones de chocolate de España son absolutamente increíbles. Tienen el tamaño perfecto para tomarlos de un bocado y sus sabores son de calidad superior
+- FUNDADA EN 1927 gracias al tesón de María Rojas que, siendo viuda, se hizo cargo del negocio familiar. Fueron los clientes quienes crearon la marca al referirse a sus dulces como los "de la viuda"
 - PERFECTO PARA CUALQUIER OCASIÓN: estos bombones son el postre perfecto para cualquier ocasión y disfrutar de bombones de alta calidad, además, son un excelente regalo en cualquier cesta de Navidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

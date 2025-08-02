@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Deliciosos trozos de atún en aceite de girasol, para servir en ensaladas, en una crujiente baguette o con una patata asada.
-- Versátiles y fáciles de utilizar.
 - Envase hermético fácil de almacenar y apilable.
 - Sírvelos con patatas al horno sazonadas con hierbas y una ensalada verde.
 - Alto contenido en proteínas
+- Deliciosos trozos de atún en aceite de girasol, para servir en ensaladas, en una crujiente baguette o con una patata asada.
+- Versátiles y fáciles de utilizar.
 - Fuente de ácidos grasos omega 3, bajo contenido en sal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

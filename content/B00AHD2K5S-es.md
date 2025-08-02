@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin conservantes
-- Machaca dos aguacates maduros y añade el sazonador
-- Listo en 5 minutos
 - 3-4 porciones
+- Machaca dos aguacates maduros y añade el sazonador
+- Sin conservantes
+- Listo en 5 minutos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AHD2K5S{{</world>}}
