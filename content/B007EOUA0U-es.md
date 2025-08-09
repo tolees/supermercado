@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Abre un paquete de nachos, destapa la salsa y moja
 - Suave
+- Abre un paquete de nachos, destapa la salsa y moja
 - Tomate, cebolla y pimientos
 - También óptimo para tus fajitas y burritos
 - Apta para vegetarianos

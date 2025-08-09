@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Sabías que. El zumo de naranja suele ser el primer sabor a fruta que prueban los bebés, y supone a partir de los 5 meses el único aporte complementario de vitamina C a la dieta, entre otros nutrientes
 - Zumo de fruta 100% fruta fresca exprimida
-- Producto que no pasa por cámaras y que proviene directamente del campo
-- Alguna de las propiedades de la naranja: Muy alto contenido en vitamina C, flavonoides y beta-caroteno ( sustancias antioxidantes)
-- Conoce la gama completa de Zumos Ecológicos 100% exprimidos de Ékolo
 - No procede de concentrado, sin Agua ni Azúcar añadido
+- Producto que no pasa por cámaras y que proviene directamente del campo
+- Conoce la gama completa de Zumos Ecológicos 100% exprimidos de Ékolo
+- Alguna de las propiedades de la naranja: Muy alto contenido en vitamina C, flavonoides y beta-caroteno ( sustancias antioxidantes)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0815HQFRM{{</world>}}

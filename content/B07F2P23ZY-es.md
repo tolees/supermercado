@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsa de tortitas de maíz
-- Sabor jamón ibérico
 - Ideales como aperitivo o para picar entre horas
-- Conservar en un lugar fresco y seco
 - Crujientes y deliciosas
+- Bolsa de tortitas de maíz
+- Conservar en un lugar fresco y seco
+- Sabor jamón ibérico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07F2P23ZY{{</world>}}

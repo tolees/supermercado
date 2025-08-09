@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ni transfiere ni apelmaza
 - Paleta de 5 sombras
-- Colores de alta pigmentación
 - Fáciles de difuminar; De larga duración
 - Úsalas en húmedo o en seco
+- Ni transfiere ni apelmaza
+- Colores de alta pigmentación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00GB0GW7I{{</world>}}

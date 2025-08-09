@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para dietas vegetarianas y veganas
-- Envasado en Alemania
 - Conservar en un lugar fresco y seco
 - Cacahuetes fritos recubiertos sabor pimentón
+- Apto para dietas vegetarianas y veganas
 - Este envase contiene aproximadamente 5 porciones
+- Envasado en Alemania
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HN1XLKK{{</world>}}

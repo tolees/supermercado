@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin amoniaco ni siliconas
 - Fórmula vegana compuesta de aceites de flores naturales y arcilla blanca
 - Tratamiento decolorante capilar que garantiza hasta 4 niveles de aclaramiento, dejando el cabello más claro y sedoso con un aspecto natural
+- Sin amoniaco ni siliconas
 - El kit contiene: 2 packs de tratamiento decolorante Garnier Olia Highlights para cabello rubio
 - Mezcla el revelador con el polvo hasta obtener una consistencia suave. Aplicar sobre el cabello con las manos y dejar actuar durante 30 minutos para un resultado natural, o 45 minutos para un resultado más visible
 

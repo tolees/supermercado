@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño del producto: 13 x 15 x 10 cm
-- Marca: garnier
 - Tipo de producto: limpiadores y exfoliantes faciales
+- Marca: garnier
+- Tamaño del producto: 13 x 15 x 10 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07B6SHD4H{{</world>}}

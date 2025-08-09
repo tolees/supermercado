@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descubre el desodorante en aerosol para hombre Axe Fine Fragrance Collection Black Vanilla 150 ml
 - Disfruta de 72 horas de frescor y huele irresistible con nuestra nueva gama de bodyspray
+- Descubre el desodorante en aerosol para hombre Axe Fine Fragrance Collection Black Vanilla 150 ml
 - Axe Black Vanilla tiene una fragancia de Naranja y Sándalo que aporta una sensación de frescura moderna​
 
 [🛒 Aquí!!!]({{< param buyurl >}})

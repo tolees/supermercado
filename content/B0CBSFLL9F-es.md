@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Descubre la figuritas Jungly
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
-- Figuritas de chocolate con leche con galleta Junlgly
+- Descubre la figuritas Jungly
 - Esta bolsa contiene un minimo de 14 figuritas de animales Jungly
+- Figuritas de chocolate con leche con galleta Junlgly
 - Figuritas de chocolate con leche con galleta Junlgly
 
 [🛒 Comprar!!!]({{< param buyurl >}})

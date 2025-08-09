@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene vitamina D
-- Eficaz porque al ser 0% lactosa es más digestiva
 - Origen de España
-- Conservar en lugar fresco y seco
+- Contiene vitamina D
 - Leche semidesnatada de vaca
+- Eficaz porque al ser 0% lactosa es más digestiva
+- Conservar en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ITRI2T6{{</world>}}

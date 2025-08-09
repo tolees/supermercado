@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caja 6 unidades Brik Slim 1L, leche vegetal almendra, arroz y avena
 - Conservar en lugar fresco y seco. Una vez abierto el envase, debe conservarse en frío, siendo aconsejable su consumo en los 3 días siguientes.
+- Caja 6 unidades Brik Slim 1L, leche vegetal almendra, arroz y avena
 - MIX ALMENDRA, AVENA Y ARROZ Descubre nuestra nueva receta inspirada en la dieta mediterránea Ideal para acompañar tu desayuno ya que ofrece el equilibrio perfecto entre: un delicioso sabor y el aporte nutricional que nos ofrecen los mejores ingredientes de la dieta mediterránea. 0% Azúcar añadido
 
 [🛒 Comprar!!!]({{< param buyurl >}})

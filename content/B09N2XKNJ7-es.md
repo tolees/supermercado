@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula Vegana
-- Cobertura media y ligera pero que dura todo el día
-- Estilo más adecuado para: female
 - Controla los brillos sin secar la piel
 - a prueba de sudor y resistente al agua
+- Cobertura media y ligera pero que dura todo el día
+- Fórmula Vegana
+- Estilo más adecuado para: female
 - Apto para pieles sensibles y no obstruye poros. Dermatológicamente testado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se puede servir para cualquier ocasión
-- Color: claro
 - Producto de calidad
 - Adecuado como regalo
+- Color: claro
+- Se puede servir para cualquier ocasión
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009T4BKEI{{</world>}}

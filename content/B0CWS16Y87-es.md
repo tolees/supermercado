@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Acabado transparente no pegajoso con larga duración hasta 24h
 - Gel fijador de cejas, para un look de cejas esculpidas, naturales y duraderas
-- Aplicación: esculpe tus cejas con el cepillo incorporado hasta darles la forma deseada
-- Contenido: 1 x Maybelline New York gel fijador de cejas Superlock
 - Cejas esculpidas y peinadas al instante
+- Contenido: 1 x Maybelline New York gel fijador de cejas Superlock
+- Aplicación: esculpe tus cejas con el cepillo incorporado hasta darles la forma deseada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CWS16Y87{{</world>}}

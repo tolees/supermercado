@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cada caja viene con 12 x Multipacks de comida húmeda salmón y pollo 4*85 gr
 - Ingredientes de Alta Calidad
 - Control de Peso y Nutrición Adaptada
-- Cada caja viene con 12 x Multipacks de comida húmeda salmón y pollo 4*85 gr
 - Alimento Completo y Equilibrado
 - Sin Conservantes ni Colorantes Añadidos
 

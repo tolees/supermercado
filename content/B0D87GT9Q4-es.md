@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tejido de alto rendimiento
-- Diseño transpirable
 - Ajuste atlético
+- Diseño transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D87GT9Q4{{</world>}}

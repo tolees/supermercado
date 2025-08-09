@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Carbonell Gran Selección es un aceite de oliva virgen extra con un perfil de sabor muy especial, creado con las variedades españolas Picual y Hojiblanca en diferentes proporciones
 - Está especialmente recomendado para un uso en frío, ya sea para aliñar ensaladas o para añadir un toque extra de sabor a las salsas. También lo puedes usar en sopas, guisos, marinados y carnes
-- Este aceite viene con un tapón antigoteo para controlar mejor la cantidad de aceite en tus platos, permitiendo que el cocinar y aliñar sea mucho más fácil y práctico
 - Viene en formato de botella de vidrio de 750 ml inspirada en los arcos de la Mezquita de Córdoba
+- Este aceite viene con un tapón antigoteo para controlar mejor la cantidad de aceite en tus platos, permitiendo que el cocinar y aliñar sea mucho más fácil y práctico
 - Este aceite presenta un agradable sabor afrutado maduro, con recuerdos de aceituna madura, con entrada en la boca dulce, untuoso y con un grato recuerdo almendrado que lo hace ideal para disfrutar en crudo y ensalzar los platos
+- Carbonell Gran Selección es un aceite de oliva virgen extra con un perfil de sabor muy especial, creado con las variedades españolas Picual y Hojiblanca en diferentes proporciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XA8LKVC{{</world>}}

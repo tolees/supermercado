@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplicación sencilla. Absorción instantánea Sin residuos Sin decoloración de las uñas
-- Se recomienda utilizar el cepillo humedecido para cepillar todo el contorno de las uñas y las cutículas. Con movimientos longitudinales, cepille toda la superficie de la uña de adentro hacia afuera. Si es posible, cepilla también la parte inferior de las uñas con el cepillo
 - Protección: endurece las uñas y mejora la resiliencia
 - Cuidado: suaviza la superficie de la uña y promueve el crecimiento de la uña
 - Uñas perfectas en un clic
+- Se recomienda utilizar el cepillo humedecido para cepillar todo el contorno de las uñas y las cutículas. Con movimientos longitudinales, cepille toda la superficie de la uña de adentro hacia afuera. Si es posible, cepilla también la parte inferior de las uñas con el cepillo
+- Aplicación sencilla. Absorción instantánea Sin residuos Sin decoloración de las uñas
 - Reparador: hidrata las uñas y las cutículas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

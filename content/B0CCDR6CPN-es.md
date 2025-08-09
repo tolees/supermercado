@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FORMATO FAMILIAR DE 6 LATAS. Dispón de las latas de atún en aceite de oliva Albo en formato familiar compuesto por seis unidades de 240 gramos cada una. Para que no falte en casa.
-- CONSERVAS ALBO, DESDE 1869. En Albo llevamos más de 150 años dedicados a elaborar conservas de pescado y marisco, así como platos preparados que aportan a tu dieta alimentos de calidad y con un gran sabor. Nuestro secreto reside en seleccionar las materias primas y tratarlas con el mayor cuidado y cariño posible para mantener sus cualidades nutricionales y organolépticas.
-- IDÓNEO PARA TAPAS Y ENSALADAS. El atún Albo es 100% lomo y se nota en su textura carnosa y firme, su sabor fresco y delicioso para disfrutarlo solo, en ensaladas o recetas llenas de sabor.
-- RICO EN OMEGA 3, PROTEÍNAS Y VITAMINAS. El atún Albo en aceite de oliva es un producto naturalmente sin gluten, rico en fósforo y vitamina B3, y una fuente saludable de ácidos grasos omega 3 y proteínas de alto nivel biológico.
 - ATÚN CLARO EN ACEITE DE OLIVA. El atún claro de Albo se elabora con 100% lomo de atunes de tamaño mediano, testados con alta frecuencia para garantizar niveles de mercurio muy por debajo de la recomendación de AESAN. Se congelan solamente una vez al salir del mar, lo que evita la pérdida de nutrientes y la formación de microcristales. Toda una garantía de sabor y textura.
+- FORMATO FAMILIAR DE 6 LATAS. Dispón de las latas de atún en aceite de oliva Albo en formato familiar compuesto por seis unidades de 240 gramos cada una. Para que no falte en casa.
+- RICO EN OMEGA 3, PROTEÍNAS Y VITAMINAS. El atún Albo en aceite de oliva es un producto naturalmente sin gluten, rico en fósforo y vitamina B3, y una fuente saludable de ácidos grasos omega 3 y proteínas de alto nivel biológico.
+- IDÓNEO PARA TAPAS Y ENSALADAS. El atún Albo es 100% lomo y se nota en su textura carnosa y firme, su sabor fresco y delicioso para disfrutarlo solo, en ensaladas o recetas llenas de sabor.
+- CONSERVAS ALBO, DESDE 1869. En Albo llevamos más de 150 años dedicados a elaborar conservas de pescado y marisco, así como platos preparados que aportan a tu dieta alimentos de calidad y con un gran sabor. Nuestro secreto reside en seleccionar las materias primas y tratarlas con el mayor cuidado y cariño posible para mantener sus cualidades nutricionales y organolépticas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCDR6CPN{{</world>}}

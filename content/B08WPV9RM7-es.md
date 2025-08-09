@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONTROL DE TEMPERATURA ACTIVO: Thermoblock de alto rendimiento que garantiza la temperatura óptima para la preparación del café; Los ajustes de la temperatura sacan todo el sabor de los granos
 - SISTEMA DE COMPACTACIÓN INTELIGENTE: basta con activar la palanca para ejercer la presión adecuada, sin fallos ni manchar; Todo sucede dentro de la máquina
 - MY LATTE ART: un sistema de calentamiento específico para la leche que garantiza un gran rendimiento del vapor; Se puede texturizar la leche manualmente utilizando la varilla de vapor My LatteArt
+- CONTROL DE TEMPERATURA ACTIVO: Thermoblock de alto rendimiento que garantiza la temperatura óptima para la preparación del café; Los ajustes de la temperatura sacan todo el sabor de los granos
 - TECNOLOGÍA DE MOLIENDA CON SENSOR: el avanzado molinillo está equipado con dos sensores para ofrecer la dosis de café exacta; Ajustes de molienda para diferentes tipos de granos de café
 - PREINFUSIÓN DINÁMICA: la duración se adapta a la densidad de la dosis de café con el fin de garantizar que toda la superficie se humedezca de manera uniforme y suave para asegurar la mejor extracción
 

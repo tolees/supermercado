@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dulces de regaliz
-- 200 gr
 - Deliciosas piezas de regaliz en forma de stick
 - Irresistible sabor a regaliz
+- Dulces de regaliz
+- 200 gr
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B082VTHD4Y{{</world>}}

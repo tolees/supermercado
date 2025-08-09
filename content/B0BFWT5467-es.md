@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca: Glass Canned Wines
-- Producto de calidad
 - Vino tinto en lata
+- Producto de calidad
+- Marca: Glass Canned Wines
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BFWT5467{{</world>}}

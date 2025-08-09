@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece 96 horas de protección contra la transpiración y el mal olor, incluso en momentos de mayor esfuerzo
-- Disfruta del movimiento y que nada te detenga
-- Desodorante Antitranspirante Rexona para mujer, Maximum Protection Clean Scent 100ml en formato Aerosol
 - Ofrece mayor protección contra las manchas de sudor
+- Desodorante Antitranspirante Rexona para mujer, Maximum Protection Clean Scent 100ml en formato Aerosol
+- Disfruta del movimiento y que nada te detenga
+- Ofrece 96 horas de protección contra la transpiración y el mal olor, incluso en momentos de mayor esfuerzo
 - Desodorante 3 veces más eficaz contra el olor que otros desodorantes básicos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

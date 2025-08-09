@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con Nutriscore B
-- Con un auténtico sabor a brownie
-- Textura crujiente y delicioso chocolate
 - Un cereal con delicioso sabor a brownie
+- Con Nutriscore B
+- Textura crujiente y delicioso chocolate
+- Con un auténtico sabor a brownie
 - Con cereal integral
 
 [🛒 Aquí!!!]({{< param buyurl >}})

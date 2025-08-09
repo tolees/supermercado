@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Bolsa de caramelos con palo de sabores surtidos
 - Práctico e higiénico
-- Con ingredientes de la mejor calidad
 - Ideal para cualquier ocasión y evento, para compartir y regalar
+- Con ingredientes de la mejor calidad
 - No contiene gluten
 
 [🛒 Aquí!!!]({{< param buyurl >}})

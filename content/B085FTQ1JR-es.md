@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un ron premium añejado durante 5 años, de cuerpo medio y un increíble color caoba brillante
-- Aroma fresco con notas de frutos rojos, caramelo y ciruela
-- Una de las primeras marcas globales de destilados en recibir la certificación de sostenibilidad Fair Trade
-- Puede disfrutarse con jugos de frutas tropicales o sodas
 - Un sabor con notas a vainilla intensa, frutas tropicales y chocolate, con un acabo seco y liviano
+- Puede disfrutarse con jugos de frutas tropicales o sodas
+- Un ron premium añejado durante 5 años, de cuerpo medio y un increíble color caoba brillante
+- Una de las primeras marcas globales de destilados en recibir la certificación de sostenibilidad Fair Trade
+- Aroma fresco con notas de frutos rojos, caramelo y ciruela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B085FTQ1JR{{</world>}}

@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - 👚 ROPA BLANCA: protege los blancos de tus sábanas, toallas, y prendas, aportando luminosidad y un olor fresco
 - 🌀 AROMA FRESCO Y DURADERO, MUY VALORADO
+- Envase fabricado con mas del 80% producto reciclado
 - 🌀 EFICACIA: Incluso en lavados cortos o a baja temperatura
 - 🌀 COLADA IMPECABLE: Limpieza total, antimanchas y antiolores
-- Envase fabricado con mas del 80% producto reciclado
 - ✋🏻 APTO PARA LAVAR A MANO: prendas delicadas como medias, ropa interior, prendas de baño, etc
 
 [🛒 Aquí!!!]({{< param buyurl >}})

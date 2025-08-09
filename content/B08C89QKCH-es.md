@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No contiene lejía
-- Elimina olores desagradables
-- Está seguro para colores y telas
 - Apto para utilizar junto a detergente en la lavadora
+- No contiene lejía
+- Está seguro para colores y telas
+- Elimina olores desagradables
 - Ofrece una higiene profunda en prendas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botella reciclable
-- Para madera y mármol
-- PH seguro en superficies delicadas
 - Limpieza + cuidado
+- Botella reciclable
+- PH seguro en superficies delicadas
+- Para madera y mármol
 - Fabricado con electricidad 100 % renovable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

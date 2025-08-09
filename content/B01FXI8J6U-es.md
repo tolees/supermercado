@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Limpia los dientes llegando hasta los dientes de atrás
-- Elimina la placa bacteriana
 - Limpiador de lengua
 - Fácil de llevar en los viajes
+- Elimina la placa bacteriana
+- Limpia los dientes llegando hasta los dientes de atrás
 - Ayuda Ayuda a mantener los dientes sanos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

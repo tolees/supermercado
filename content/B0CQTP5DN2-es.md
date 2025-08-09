@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🤎 CON PEPITAS DE CHOCOLATE: La combinación perfecta de crujiente galleta, suave cobertura de cacao y deliciosas pepitas de chocolate.
 - 🍪 MINIGALLETAS CRUJIENTES CON COBERTURA DE COLACAO: Pequeñas y deliciosas minicookies con pepitas de chocolate, cubiertas con el inconfundible sabor de ColaCao.
+- 🌍 CACAO NATURAL DE COLACAO: El auténtico cacao de ColaCao en cada bocado, con su textura única y el toque especial de los grumitos.
+- 🤎 CON PEPITAS DE CHOCOLATE: La combinación perfecta de crujiente galleta, suave cobertura de cacao y deliciosas pepitas de chocolate.
 - 🎒 PRÁCTICO FORMATO PARA LLEVAR: Su tamaño y envase de 100g las hacen ideales para disfrutar en cualquier momento y lugar.
 - 🏡 SABOR IRRESISTIBLE PARA TODOS: Un snack ideal para disfrutar solo o compartir con familia y amigos.
-- 🌍 CACAO NATURAL DE COLACAO: El auténtico cacao de ColaCao en cada bocado, con su textura única y el toque especial de los grumitos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQTP5DN2{{</world>}}

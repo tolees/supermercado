@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TONO NATURAL
-- la línea para piel normal, seca y/o sensible, hidrata, regenera, unifica y alisa la piel, además de calmar las irritaciones
 - Ingredientes activos: el ácido hialurónico, la provitamina B5, la vitamina e y la Caesalpinia Spinosa
+- la línea para piel normal, seca y/o sensible, hidrata, regenera, unifica y alisa la piel, además de calmar las irritaciones
+- TONO NATURAL
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07H5Z1G5R{{</world>}}

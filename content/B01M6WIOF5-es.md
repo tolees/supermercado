@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Decoraciones Aleatorias
-- Pack de 3 unidades
 - Rollo de Cocina Doble
 - Ideal para cocinar
+- Decoraciones Aleatorias
+- Pack de 3 unidades
 - Super absorvente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

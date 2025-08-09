@@ -33,8 +33,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Base de Maquilhagem Fluida Even Better Clinique CN52-neutral (30 ml)
 - Base de Maquilhagem Fluida Even Better Clinique CN52-neutral (30 ml)
 - Base de Maquilhagem Fluida Even Better Clinique CN52-neutral (30 ml)
-- Unidad de medida: unidad
 - Unidades: 1.0
+- Unidad de medida: unidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08X7FDQSJ{{</world>}}

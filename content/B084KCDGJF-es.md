@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gran calidad
 - Realizadas con solo patatas, aceite y sal
 - Sabor sal
+- Gran calidad
 - Patatas fritas de bolsa
 - Ideal para picar
 

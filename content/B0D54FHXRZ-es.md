@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pack de edición limitada de una botella de Seagrams Dry Gin con dos miniaturas
 - Ligero color oro
 - Sabor clásico combinando las notas de enebro con toques herbáceos
 - Aroma suave a cítricos, botánicos y hierbas de tocador
 - Doble destilación en frío de finos y botánicos
-- Pack de edición limitada de una botella de Seagrams Dry Gin con dos miniaturas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D54FHXRZ{{</world>}}

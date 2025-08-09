@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Formulado con un 95% de ingredientes naturales
 - Uso versátil que permite aplicarlo solo, debajo o mezclado con la base de maquillaje
-- Hidrata, ilumina y revitaliza las pieles apagadas y secas
 - Miracle pure serum, un tratamiento de cuidado de la piel
+- Hidrata, ilumina y revitaliza las pieles apagadas y secas
 - Fórmula vegana con ingredientes activos como la vitamina c, niacina mida y el ácido hialurónico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

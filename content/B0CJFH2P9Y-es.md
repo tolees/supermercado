@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Testado Dermatológicamente y Libre de fragancias y colorantes
 - Scottex utiliza fibras certificadas FSC de fuentes responsables para cuidar del medio ambiente y es 100% desechable por el WC
 - En tu rutina diaria, incluye el papel higiénico húmedo Scottex para una mayor higiene y sensación de frescor
 - Papel higiénico húmedo hecho con 100% fibras naturales, sin plástico y biodegradable
+- Testado Dermatológicamente y Libre de fragancias y colorantes
 - Formulado con agua micelar y vitamina E
 - PH Neutro para el mejor cuidado de tu piel
 

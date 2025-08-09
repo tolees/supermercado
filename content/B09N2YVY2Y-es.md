@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cobertura media y ligera pero que dura todo el día
 - Controla los brillos sin secar la piel
-- Fórmula Vegana
-- Apto para pieles sensibles y no obstruye poros. Dermatológicamente testado
+- Cobertura media y ligera pero que dura todo el día
 - A prueba de sudor y resistente al agua
+- Apto para pieles sensibles y no obstruye poros. Dermatológicamente testado
+- Fórmula Vegana
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09N2YVY2Y{{</world>}}

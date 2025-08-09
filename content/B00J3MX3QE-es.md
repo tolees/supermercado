@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Se recomienda servir frío
+- Ideal con platos de pescado y marisco
 - En boca es suave, untuoso y con cierta frutosidad
 - Color alimonado con reflejos dorados
 - Sabor fresco y aromático
-- Se recomienda servir frío
-- Ideal con platos de pescado y marisco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00J3MX3QE{{</world>}}

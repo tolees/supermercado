@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Explora plenamente sus cualidades al servirla entre 2 y 4 grados Celsius. Cada sorbo es una prueba palpable de la excelencia en sabor y frescura que solo Amstel Radler Tostada 00 puede ofrecer.
-- Experimenta la comodidad en cada sorbo con nuestro práctico pack de 24 latas de 33cl.
-- Esta cerveza Radler es el resultado de la armoniosa unión entre la cerveza Amstel y una bebida refrescante de zumos de limón, logrando un carácter cítrico único y sin contenido alcohólico. Con su color oscuro y distintiva espuma blanca, es una propuesta única en su clase.
-- Esta Cerveza Especial ofrece una experiencia sin alcohol al 100%, especialmente concebida para quienes desean sabores suaves en cualquier momento del día.
-- El resultado es una bebida extremadamente refrescante que nace de la fusión de la cerveza tostada con un toque ácido de limón y lima, proporcionando un sabor intenso y renovado.
 - Elaborada con ingredientes de la más alta calidad, incluyendo agua tratada, una combinación 100% de maltas de cebada, lúpulo, la exclusiva levadura Amstel y auténtico zumo de limón.
 - Amstel Radler Tostada 00 ofrece una alternativa perfecta para aquellos amantes de las cervezas con limón que no desean renunciar al cuerpo y sabor de una cerveza tostada, mientras disfrutan de la opción refrescante de una 0,0.
+- Esta Cerveza Especial ofrece una experiencia sin alcohol al 100%, especialmente concebida para quienes desean sabores suaves en cualquier momento del día.
+- Esta cerveza Radler es el resultado de la armoniosa unión entre la cerveza Amstel y una bebida refrescante de zumos de limón, logrando un carácter cítrico único y sin contenido alcohólico. Con su color oscuro y distintiva espuma blanca, es una propuesta única en su clase.
+- Explora plenamente sus cualidades al servirla entre 2 y 4 grados Celsius. Cada sorbo es una prueba palpable de la excelencia en sabor y frescura que solo Amstel Radler Tostada 00 puede ofrecer.
+- Experimenta la comodidad en cada sorbo con nuestro práctico pack de 24 latas de 33cl.
+- El resultado es una bebida extremadamente refrescante que nace de la fusión de la cerveza tostada con un toque ácido de limón y lima, proporcionando un sabor intenso y renovado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08NZWWSN7{{</world>}}

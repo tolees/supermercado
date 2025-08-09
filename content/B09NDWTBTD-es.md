@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Es una herramienta útil para preparar café; se puede utilizar repetidamente
-- Reutilizable y Lavable: La cuchara se puede lavar y utilizar repetidamente, garantizando un uso prolongado y sostenible.
 - Capacidad Precisa: Cada cucharada de café en polvo tiene un peso de aproximadamente 8-10g, satisfaciendo tus necesidades de medida.
+- Reutilizable y Lavable: La cuchara se puede lavar y utilizar repetidamente, garantizando un uso prolongado y sostenible.
+- Es una herramienta útil para preparar café; se puede utilizar repetidamente
 - Alta Calidad: Fabricada en plástico, esta cuchara es inodora, saludable, segura y no tóxica.
 - Uso Multifuncional: Ideal para tomar café en polvo y presionar el polvo, facilitando la preparación del café.
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 96% ingredientes de origen natural, el 4% restante ofrece la sensorialidad y buena conservación de la fórmula
-- Para pieles sensibles
 - con antioxidante de origen natural, para proteger la piel de las agresiones externas
 - Reduce la tirantez, hidrata la piel y le aporta suavidad y jugosidad
 - Crema hidratante calmante con agua de rosas
+- Para pieles sensibles
+- 96% ingredientes de origen natural, el 4% restante ofrece la sensorialidad y buena conservación de la fórmula
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IF4LH00{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Uso recomendado para mayores de 12 años.
 - El Colágeno y el Magnesio ayudan a mantener las articulaciones en forma y los músculos sanos para una vida activa.
-- Modo de empleo: Tomar una cucharada de 12,5g (un cacito) al día diluido en un vaso de (200ml) de agua, zumo, té u otro liquido que te apetezca.
-- Complemento alimenticio que ayuda a reforzar las articulaciones, los músculos y la piel.
 - Composición: Colágeno 10g, Ácido Hialurónico 25mg, Magnesio 375mg, Vitamina C 12mg y TetraSod 10mg.
+- Complemento alimenticio que ayuda a reforzar las articulaciones, los músculos y la piel.
+- Uso recomendado para mayores de 12 años.
+- Modo de empleo: Tomar una cucharada de 12,5g (un cacito) al día diluido en un vaso de (200ml) de agua, zumo, té u otro liquido que te apetezca.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00W5OR1PQ{{</world>}}

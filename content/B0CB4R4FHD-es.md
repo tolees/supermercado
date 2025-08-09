@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Listo para consumir
 - Conservar en un lugar fresco y seco
+- Listo para consumir
+- Este envase contiene 1 porción
 - Filetes de caballa del sur sin piel y sin espinas en salsa de tomate
 - Una vez abierto, pasar el contenido a un recipiente no metálico, tapar y mantener refrigerado, y consumir en 2 días
-- Este envase contiene 1 porción
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB4R4FHD{{</world>}}

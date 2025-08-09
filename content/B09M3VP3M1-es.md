@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fortalece activamente los dientes remineralizando el esmalte
 - 24 horas de protección contra la placa con dos cepillados al día
 - Con sabor a menta y anís para un aliento fresco
 - Unique Stannous Complex Technology. Desarrollada con dentistas
+- Fortalece activamente los dientes remineralizando el esmalte
 - Limpia en profundidad gracias a su fórmula exclusiva con cristales disueltos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

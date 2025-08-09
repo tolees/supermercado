@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un claro ejemplo de un vino actual
 - Brillante color rojo rubí
 - Armonioso y bien estructurado con un placentero retrogusto
+- Un claro ejemplo de un vino actual
 - Con un toque elegante a roble
 - Aromas de dulces e intensas grosellas negras
 

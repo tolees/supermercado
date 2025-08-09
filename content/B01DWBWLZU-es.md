@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - El vino blanco de mesa de toda la vida
 - Refrescante acidez con buen equilibrio, las notas afrutadas vuelven en el retrogusto
 - Contiene dioxido de azúfre y sulfitos
-- Ligero, equilibrado y ácido, con un contraste al final, ligeramente amargo
 - Aromas frutales de manzana verde, frutas de hueso maduras y cítricos
+- Ligero, equilibrado y ácido, con un contraste al final, ligeramente amargo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DWBWLZU{{</world>}}

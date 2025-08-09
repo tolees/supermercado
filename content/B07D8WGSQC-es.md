@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de alta calidad
 - Productos para tu cuidado personal, para tu bienestar, y para la higiene personal
+- Producto de alta calidad
 - Rimmel London Stay Satin Brillo Barra De Labios Líquida 210 It Girl 5.5 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})

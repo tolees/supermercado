@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Delicioso chocolate con leche Nestlé Extrafino con relleno cremoso y trocitos de galleta dinosauros
-- Un chocolate cremoso, suave y dulce, hecho con leche recogida diariamente de la cornisa Cantábrica
-- Producido Nestlé Extrafino desde 1966 en La Penilla, Cantabria, siguiendo un proceso tradicional
 - Con galleta dinosauros
+- Producido Nestlé Extrafino desde 1966 en La Penilla, Cantabria, siguiendo un proceso tradicional
+- Un chocolate cremoso, suave y dulce, hecho con leche recogida diariamente de la cornisa Cantábrica
 - 100% Cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan; certificado Rainforest
 
 [🛒 Aquí!!!]({{< param buyurl >}})

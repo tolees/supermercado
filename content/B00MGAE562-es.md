@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Aporta volumen a tus pestañas
-- Fácil de aplicar
 - Producto de calidad óptima
+- Fácil de aplicar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00MGAE562{{</world>}}

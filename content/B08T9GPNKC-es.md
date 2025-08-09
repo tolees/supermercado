@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PACK 24 LATAS. 80 gr por lata.
-- INGREDIENTES NATURALES. Latas gourmet elaboradas con ingredientes de gran calidad. Incluye: 56,25%. Salmón 3,75%, Agua 38,56%.
 - GRAIN & GLUTEN FREE. No incluye cereales, por lo que es un alimento perfecto para gatos celíacos o para dietas en las que se quiere evitar el cereal.
+- PACK 24 LATAS. 80 gr por lata.
 - AYUDA A LA HIDRATACIÓN. Es un alimento complementario al pienso que aporta líquido a los gatos, muy necesario para el buen funcionamiento renal.
+- INGREDIENTES NATURALES. Latas gourmet elaboradas con ingredientes de gran calidad. Incluye: 56,25%. Salmón 3,75%, Agua 38,56%.
 - COMIDA PREMIUM. Latas de atún blanco y salmón en salsa, con un gran sabor, que proporcionan todos los nutrientes que tu gato necesita.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

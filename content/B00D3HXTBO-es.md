@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Incrementa la producción de péptidos antimicrobianos (AMPs), que son la primera línea de defensa de la piel, gracias a la acción de L-isoleucina
 - Prevención, cuidado y reducción de los principales síntomas visibles de la dermatitis atópica facial: picor, sequedad, descamación, eritema y edema cutáneo
-- Restaura la barrera cutánea
 - Único con doble protección activa del sistema de defensa cutáneo
+- Restaura la barrera cutánea
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00D3HXTBO{{</world>}}

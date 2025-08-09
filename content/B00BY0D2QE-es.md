@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Trata la totalidad de la fibra capilar
 - Realiza una cobertura completa de los cabellos blancos
 - Cuenta con un sistema de alta tenacidad para un mejor mantenimiento del reflejo
+- Trata la totalidad de la fibra capilar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00BY0D2QE{{</world>}}

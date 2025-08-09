@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Es un producto indispensable para tintes permanentes y semipermanentes.
 - Asegura una cobertura y un aclarado de varios tonos
 - Emulsión activadora que contiene ingredientes para la protección del color
-- Es un producto indispensable para tintes permanentes y semipermanentes.
 - Ayuda a conseguir una cobertura uniforme
 
 [🛒 Comprar!!!]({{< param buyurl >}})

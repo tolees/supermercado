@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Tipo de pelo: Seco
 - revlon Eq Hydro nutritive Desenredante conditioner - odżywka nawilż. 200 ml revlon eq hydro nutritive detangling conditioner - odżyw nut 200 ml 8432225076126 16, 99
 - Número de artículos: 1
-- Número de unidades: 200.0
 - Número de unidades: mililitro
+- Número de unidades: 200.0
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07GNW416Y{{</world>}}

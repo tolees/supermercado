@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alérgenos: Apio, Mostaza y Leche y sus derivados
-- Realza el sabor de tus platos con un toque dulce y ligeramente picante inspirado en la cocina india
-- Optima para platos con pollo, cerdo y verduras
-- Salsa afrutada con mango y sazonada con el sabor del curry
 - Perfecta para platos con pollo, cerdo y verduras
+- Salsa afrutada con mango y sazonada con el sabor del curry
+- Alérgenos: Apio, Mostaza y Leche y sus derivados
+- Optima para platos con pollo, cerdo y verduras
+- Realza el sabor de tus platos con un toque dulce y ligeramente picante inspirado en la cocina india
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XDQ4CJS{{</world>}}

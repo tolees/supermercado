@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Si lo tuyo es el chocolate y el sabor leche, te encantarán estas crujientes almohadillas de arroz, avena y trigo
+- Cereales con vitaminas de grupo B y hierro
 - Cereales sin colorantes artificiales
 - Cereales sin aromas artificiales
-- Cereales con vitaminas de grupo B y hierro
-- Si lo tuyo es el chocolate y el sabor leche, te encantarán estas crujientes almohadillas de arroz, avena y trigo
 - Cereales de arroz, avena y trigo con sabor leche y cubiertas con galleta de chocolate
 
 [🛒 Aquí!!!]({{< param buyurl >}})

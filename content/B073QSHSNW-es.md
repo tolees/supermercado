@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Su textura fina fluida permite aplicar y extender el producto con facilidad
-- Corrector líquido para camuflar imperfecciones y reducir la apariencia de bolsas y ojeras
-- El producto se funde con la piel dejando un acabado natural y uniforme
 - Con aplicador suave y flexible para una mejor aplicación mucho más precisa
+- El producto se funde con la piel dejando un acabado natural y uniforme
+- Corrector líquido para camuflar imperfecciones y reducir la apariencia de bolsas y ojeras
 - Disponible en 10 tonos para adaptarse a todos los tipos de piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

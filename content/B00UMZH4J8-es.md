@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ingredientes naturales y ecológicos
 - Sin frutos secos
-- Sin proteína láctea
-- Sin gluten
 - Sin azúcares añadidos
+- Sin proteína láctea
+- Ingredientes naturales y ecológicos
+- Sin gluten
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00UMZH4J8{{</world>}}

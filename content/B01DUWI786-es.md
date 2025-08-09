@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tus fajitas listas para 3-4 amigos en tan solo 15 minutos
 - Añade el pollo, los pimientos y la cebolla y cocínalo. Una vez cocinado, rellena tu tortilla y añade un poco de salsa. ¡empieza la fiesta mexicana!
-- Apto para vegetarianos
-- Mezcla de cayena, pimiento, ajo y jengribre
 - Suave y sin conservantes
+- Mezcla de cayena, pimiento, ajo y jengribre
+- Apto para vegetarianos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUWI786{{</world>}}

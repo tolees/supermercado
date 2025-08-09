@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Envasado atmósfera protectora
+- Conservar en lugar fresco y seco
+- Ideal para compartir
 - Aperitivo de maíz frito con sabor a barbacoa
 - Perfecto como snack
-- Ideal para compartir
-- Conservar en lugar fresco y seco
+- Envasado atmósfera protectora
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B018VNJ3M8{{</world>}}

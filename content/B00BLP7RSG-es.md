@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Te ayudan preparar de forma rápida y sencilla deliciosos platos
+- Sabor vainilla
 - Ideal para tus postres
 - Puede contener Huevos y/o productos a base de huevos
-- Sabor vainilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00BLP7RSG{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para compartir
-- Snack de patatas
 - Ideal para llevar de picnic
+- Snack de patatas
+- Apto para compartir
 - Envasado en atmósfera protectora
 - Crujiente y salado
 

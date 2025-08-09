@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🍽 Maridaje: Buen acompañante de caza, carnes rojas y ternenera.
 - ⚜️ Capacidad: 3 botella de 750 ml
-- 🌡️ Temperatura de servicio: 16 - 18ºC.
 - 🗨 Nota de cata: Color cereza intenso con borde granate. En nariz, aroma potente , complejo, fruta madura y cacao fino. En boca carnoso, potente, aterciopelado, con taninos maduros y una buena acidez.
+- 🍽 Maridaje: Buen acompañante de caza, carnes rojas y ternenera.
+- 🌡️ Temperatura de servicio: 16 - 18ºC.
 - 🍇 Variedad: Tempranillo con graduación de 13.5º
 
 [🛒 Aquí!!!]({{< param buyurl >}})

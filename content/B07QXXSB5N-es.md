@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- No apto para alérgicos a otros frutos de cáscara y a los cacahuetes, debido al método de producción
+- Ingredientes: Pistachos (98 %), sal marina (2 %)
+- Pistachos tostados y salados con cáscara
+- Envasado en atmósfera protectora para mantener su frescura. Una vez abierto, conservar en un recipiente hermético
+- Envase de 2: 2 x 500g
 - Alto contenido de fibra - Apto para dietas vegetarianas y veganas
 - Envasado en Italia
-- No apto para alérgicos a otros frutos de cáscara y a los cacahuetes, debido al método de producción
-- Cada paquete contiene aproximadamente 8 porciones
-- Pistachos tostados y salados con cáscara
-- Ingredientes: Pistachos (98 %), sal marina (2 %)
 - Advertencia: Los niños pequeños se pueden atragantar con los frutos secos
+- Cada paquete contiene aproximadamente 8 porciones
 - Nutrición (por100 g sin cáscara): Valor energético 577kcal; Grasas 44,9g; Hidratos de carbono 17,6g; Proteínas 20,6g; Fibra alimentaria 10g
-- Envase de 2: 2 x 500g
-- Envasado en atmósfera protectora para mantener su frescura. Una vez abierto, conservar en un recipiente hermético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07QXXSB5N{{</world>}}

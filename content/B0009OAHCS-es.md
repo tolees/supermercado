@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto pensado para mujeres
 - Marca - Davidoff
+- Producto pensado para mujeres
 - Tipo de producto - Agua de colonia
 
 [🛒 Comprar!!!]({{< param buyurl >}})

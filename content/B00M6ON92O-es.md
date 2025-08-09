@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de uva: Airén 100%
+- Apariencia: Color amarillo pajizo brillante con tonos verdosos
 - Consumo: Temperatura óptima de servicio: 8 - 10º C
+- Tipo de uva: Airén 100%
 - Aroma: Nariz jovial e intensa con un perfil de pera, albaricoque y notas florales
 - Gusto: En boca es fresco y afrutado donde se repiten los mismos aromas percibidos en nariz; un vino refrescante, fácil de beber que invita a repetir
-- Apariencia: Color amarillo pajizo brillante con tonos verdosos
 - Maridaje: Aperitivos, aceitunas, tapas, arroces
 
 [🛒 Visítala!!!]({{< param buyurl >}})

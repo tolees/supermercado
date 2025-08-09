@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene 50 ml. Dermatológicamente testada
-- Unidades: 1.0
 - Notas de fondo: Iris, Caramelo
 - Dulce, cremoso y floral aroma a caramelos de flor de violeta, todo un placer para los sentidos
 - Notas de salida: Floral, Violeta, Notas verdes
+- Contiene 50 ml. Dermatológicamente testada
+- Unidades: 1.0
 - Notas de corazón: Acuoso, Cosmético, Floral
 
 [🛒 Aquí!!!]({{< param buyurl >}})

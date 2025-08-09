@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - BARRITA DE SNACK SALUDABLE HECHA CON AVENA: no se parece en nada a las típicas barritas deportivas, proteicas o nutritivas. Es una barrita de cereales clásica reinventada para personas activas. ¡Dándote energía duradera para seguir adelante!
 - CONTIENE 16 BARRITAS DE AVENA CON PROTEÍNA: envueltas individualmente, perfectas para abastecer tu despensa en casa o tener una a mano en el trabajo. ¡Solo tienes que elegir tu sabor favorito!
-- PROTEÍNA VEGETAL: cada barrita contiene 9 g de proteína de origen vegetal, es una gran fuente de fibra, vegana y sin gluten. El snack saludable, nutritivo y saciante perfecto con avena.
 - SNACK IDEAL para personas activas, amantes del deporte y del fitness y respetuosas con su cuerpo. Tamaño perfecto para bolsos, mochilas o simplemente como snack de avena proteico para llevar.
 - HECHO CON DELICIOSOS INGREDIENTES NATURALES: cubierto con una capa superior de cobertura con sabor a chocolate, transformando la avena en un sabor profundo y satisfactorio. Sabores disponibles: Biscoff, Avena Cacao, Caramelo Salado, Crema de Cacahuete o Chocolate Blanco y Frambuesa.
+- PROTEÍNA VEGETAL: cada barrita contiene 9 g de proteína de origen vegetal, es una gran fuente de fibra, vegana y sin gluten. El snack saludable, nutritivo y saciante perfecto con avena.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1Z5RH5T{{</world>}}

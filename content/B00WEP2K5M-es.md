@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Modo de empleo: Se deben tomar 1 o 2 sticks al día de este complemento alimenticio con sabor a fresa, según las necesidades de cada persona
 - Los complementos alimenticios no deben utilizarse como sustituto de una dieta variada y equilibrada y un modo de vida sano. Mantener el producto fuera del alcance de los niños más pequeños. No superar la dosis diaria recomendada
+- La solución Gluc Up 15 se presenta en sticks de 30 ml que contienen exactamente 15 gramos de glucosa en forma de solución concentrada lista para su consumo
 - Gracias a su práctico formato en stick, tienes una manera fácil y sencilla para tenerlas siempre a mano y estar preparado para que el bajón no te pille por sorpresa
 - Gluc Up 15 es un complemento alimenticio a base de glucosa, específico para las bajadas de glucosa
-- La solución Gluc Up 15 se presenta en sticks de 30 ml que contienen exactamente 15 gramos de glucosa en forma de solución concentrada lista para su consumo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WEP2K5M{{</world>}}

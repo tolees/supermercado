@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Conservar en lugar fresco y seco
 - Cereales variados en raciones individuales
 - La siguiente información se aplica a cada unidad del paquete
-- Ideal para el desayuno
 - Se pueden llevar a cualquier parte
-- Conservar en lugar fresco y seco
+- Ideal para el desayuno
 - Un producto especial para niños
 
 [🛒 Aquí!!!]({{< param buyurl >}})

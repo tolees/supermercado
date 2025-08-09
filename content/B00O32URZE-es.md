@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfilador de Labios de larga duración con textura fundente y cremosa
-- Hasta 12 horas de larga duración sin retoques
-- Tonos fundentes y acordes a las barras de labios de Bourjois
 - Textura suave y cremosa que se desliza fácilmente sobre los labios
 - Enriquecido con manteca de Karité y esencia de uva
+- Hasta 12 horas de larga duración sin retoques
+- Perfilador de Labios de larga duración con textura fundente y cremosa
+- Tonos fundentes y acordes a las barras de labios de Bourjois
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00O32URZE{{</world>}}

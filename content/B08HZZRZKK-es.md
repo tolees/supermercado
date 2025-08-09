@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuerpo y Definición
 - Producto que combina tradición e innovación
+- Cuerpo y Definición
 - Nuestra formula con tecnología volume boost brinda cuerpo y definición a cualquier estilo
 - Volumen 350 ml
 

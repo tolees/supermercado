@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Elimina las manchas visibles y no visibles respetando los tejidos, ya sea ropa blanca o de color
 - La siguiente información se aplica a cada unidad del paquete
-- Descubre el resto de productos Vanish para eliminar las manchas en la ropa, cortinas y alfombras
 - Quitamanchas para la ropa sin lejía en formato gel, apto para utilizar junto al detergente en la lavadora
+- Descubre el resto de productos Vanish para eliminar las manchas en la ropa, cortinas y alfombras
 - Su fórmula Oxi Action elimina las manchas más difíciles a la primera, incluso en agua fría y ciclos de lavado cortos
 - Resultados óptimos a la primera en ropa de color; solo tienes que añadirlo junto con el detergente de lavadora
 

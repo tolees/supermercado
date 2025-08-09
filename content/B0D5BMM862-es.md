@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
 - Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
-- Comida española fácil de preparar: al baño maria, en cazo o al microondas
 - Dos Latas de Fabada Asturiana con selecto embutido elaborado en Asturias (Morcilla y chorizo Asturiano)
+- Comida española fácil de preparar: al baño maria, en cazo o al microondas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D5BMM862{{</world>}}

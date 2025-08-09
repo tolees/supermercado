@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Punta de alta precisión en forma de gota
-- Hasta 10 horas de duración
-- Barra de labios acabado satinado
-- Alta concentración en pigmentos
 - Con aceite de Marula: hidrata, nutre y cuida los labios
+- Alta concentración en pigmentos
+- Barra de labios acabado satinado
+- Hasta 10 horas de duración
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07H8RRYWT{{</world>}}

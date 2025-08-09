@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Descubre la auténtica esencia de la cerveza sin alcohol con nuestra receta 100% malta y 0% alcohol. Una experiencia sensorial única te espera.
-- Disfrútala en un cómodo pack de latas de cerveza de 24 x 33cl.
-- Se recomienda servir el producto entre 2 y 4C para obtener sus maximas cualidades organolepticas.
-- Elaborada con ingredientes naturales: agua, malta de cebada, lúpulo y la levadura Amstel.
-- Amstel 00 se crea a través de una evaporación lenta y natural del alcohol, resaltando los sabores y la esencia de la malta de cebada. Su frescura y naturalidad se mantienen intactas.
-- Con 00% de alcohol en volumen es perfecta para disfrutarla en cualquier momento del día.
 - La cerveza Amstel sin alcohol tiene un color dorado y una espuma blanca consistente, y destaca por su aroma a plantas aromáticas y sabor con matices dulces y ligeramente amargos.
+- Amstel 00 se crea a través de una evaporación lenta y natural del alcohol, resaltando los sabores y la esencia de la malta de cebada. Su frescura y naturalidad se mantienen intactas.
+- Se recomienda servir el producto entre 2 y 4C para obtener sus maximas cualidades organolepticas.
+- Con 00% de alcohol en volumen es perfecta para disfrutarla en cualquier momento del día.
+- Elaborada con ingredientes naturales: agua, malta de cebada, lúpulo y la levadura Amstel.
+- Disfrútala en un cómodo pack de latas de cerveza de 24 x 33cl.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07B12YVDC{{</world>}}

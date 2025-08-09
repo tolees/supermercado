@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pura, ligera e intensa.
 - Disfruta del romanticismo y la picardía con su exclusiva fragancia.
+- Gran durabilidad.
+- Pura, ligera e intensa.
 - Eau de Toilette 150 ml.
 - Aroma exquisito y sensual.
-- Gran durabilidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XYXVKMQ{{</world>}}

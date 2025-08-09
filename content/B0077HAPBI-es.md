@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Perfilador líquido con trazo fino de color negro
-- Aplicación fácil y rápida en una sola pasada
-- Gracias a la punta de alta precisión dibuja un trazo preciso, intenso y modulable
 - Forma ergonómica que se adapta a la forma de tu ojo
 - Punta de pluma extra fina para conseguir un trazo más delicado y elegante
+- Aplicación fácil y rápida en una sola pasada
+- Gracias a la punta de alta precisión dibuja un trazo preciso, intenso y modulable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0077HAPBI{{</world>}}

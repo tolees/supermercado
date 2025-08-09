@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula Pro-V, testada por el Swiss Vitamin Institute
 - Empaque puede variar
+- Fórmula Pro-V, testada por el Swiss Vitamin Institute
 - Úsalo en cada lavado para transformar el pelo dañado en un pelo más brillante y fuerte
 - Acondicionador que se absorbe instantáneamente en el pelo y ayuda a acondicionarlo sin apelmazar
 - Acondicionador Suave & Liso para pelo encrespado y rebelde

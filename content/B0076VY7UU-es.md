@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Producto pensado para cualquier persona, ya sea hombre o mujer,
-- Marca - Lancaster
 - Tipo de producto - Protector solar
+- Marca - Lancaster
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0076VY7UU{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Este producto está indicado para mujeres.
+- De la marca Vanderbilt.
 - Las notas olfativas principales de este producto son floral y afrutado.
 - Contiene 100 ml.
-- De la marca Vanderbilt.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000E7YKGE{{</world>}}

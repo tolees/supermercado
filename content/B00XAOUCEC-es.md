@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Se debe conservar en un lugar fresco y seco
 - Indicada para la preparación de alimentos infantiles
 - Agua mineral natural de mineralización muy débil
-- Se debe conservar en un lugar fresco y seco
 - Residuo seco 28mg/l
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

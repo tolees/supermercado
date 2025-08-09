@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Certificado gluten free, apto para dietas celiacas
-- Sin leche
 - Contiene huevo. Puede contener trazas de cacahuetes, soja y otros frutos de cáscara.
 - Rellenas de crema de cacao
+- Certificado gluten free, apto para dietas celiacas
 - Elaborado con ingredientes procedentes de agricultura ecológica
+- Sin leche
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01MYA2AUN{{</world>}}

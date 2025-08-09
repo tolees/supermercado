@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SABOR ÚNICO. La mermelada de ciruela con anís Santa Teresa será la magia para que tus desayunos y meriendas no pasen desapercibidos.
-- INGREDIENTES NATURALES. La mermelada de toda la vida, con un nuevo gusto que te sorprenderá. Sin aditivos y sin conservantes. Sin gluten.
+- SANTA TERESA. En Santa Teresa llevamos desde el año 1860 enfocados en crear productos de excelente calidad. Comenzamos fabricando y comercializando las auténticas y originales Yemas de Santa Teresa. La receta se ha transmitido de forma idéntica de padres a hijos desde hace más de 160 años y hoy en día sigue siendo el principal referente gastronómico de la ciudad de Ávila.
 - FRUTA PARA UNTAR. Fruta para untar, preparada con todo el esmero para ofrecerte un producto gourmet de categoría.
 - TARRO DE CRISTAL PARA MEJOR CONSERVACIÓN. Mermelada de Ciruela con Anís Santa Teresa en tarro de cristal de 240 gr. Una vez abierto conservar en frío entre 0 y 5 ºC.
-- SANTA TERESA. En Santa Teresa llevamos desde el año 1860 enfocados en crear productos de excelente calidad. Comenzamos fabricando y comercializando las auténticas y originales Yemas de Santa Teresa. La receta se ha transmitido de forma idéntica de padres a hijos desde hace más de 160 años y hoy en día sigue siendo el principal referente gastronómico de la ciudad de Ávila.
+- INGREDIENTES NATURALES. La mermelada de toda la vida, con un nuevo gusto que te sorprenderá. Sin aditivos y sin conservantes. Sin gluten.
+- SABOR ÚNICO. La mermelada de ciruela con anís Santa Teresa será la magia para que tus desayunos y meriendas no pasen desapercibidos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B077T5JCZ6{{</world>}}

@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- A la vista: apariencia translúcida
-- Puerto de Indias es la marca de la primera ginebra de fresas que inspiró la categoría de la ginebra rosa
-- ¿Cómo tomarla? Combínala con refresco de lima limón y decora con canela y mora.
 - Sabor: Ginebra de mora, suave y dulce
-- Una ginebra en la que se mezclan la esencia de las moras y una cuidadosa selección de ingredientes que completan y perfilan el producto
-- NOTA: El vaso NO está incluido.
 - La violeta aporta a esta ginebra Premium de Puerto de Indias inconfundibles notas florales, suaves y aterciopeladas junto a la canela, que aparece en esta composición para dar un sabor fragante y cálido con detalles dulces y toques amargos
 - Ginebra Premium Puerto de Indias de mora. VOL 70cl
+- NOTA: El vaso NO está incluido.
+- A la vista: apariencia translúcida
+- ¿Cómo tomarla? Combínala con refresco de lima limón y decora con canela y mora.
+- Puerto de Indias es la marca de la primera ginebra de fresas que inspiró la categoría de la ginebra rosa
+- Una ginebra en la que se mezclan la esencia de las moras y una cuidadosa selección de ingredientes que completan y perfilan el producto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B096BGKP7B{{</world>}}

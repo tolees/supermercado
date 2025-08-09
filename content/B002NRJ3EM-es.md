@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- L-carnitina y taurina natural para favorecer un corazón sano; prebióticos y pulpa de remolacha para favorecer una digestión sana
 - Fuentes naturales de omega 6 y 3 para una piel y un pelo sanos
+- L-carnitina y taurina natural para favorecer un corazón sano; prebióticos y pulpa de remolacha para favorecer una digestión sana
 - Nivel óptimo de vitamina E y betacaroteno para contribuir a reforzar las defensas naturales
 - Proteína para desarrollar una musculatura fuerte
 - Una forma de croqueta especial con DentaDefense para mantener los dientes limpios y sanos

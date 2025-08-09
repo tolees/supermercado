@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tiene un efecto hidratante
 - Aplicar el producto durante la ducha y por todo el cuerpo
 - Contiene lactobacillus F
-- Gel de ducha para piel normales y sensible
-- Tiene un efecto hidratante
 - Con protein calcium
+- Gel de ducha para piel normales y sensible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BYDX17C4{{</world>}}

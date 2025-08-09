@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regula el colesterol
-- Delicioso sabor a leche
 - 1 vaso te aporta el 50% de Omega 3
+- Delicioso sabor a leche
+- Regula el colesterol
 - Los ácidos grasos Omega 3 ayudan a tener un corazón sano
 - Único lácteo con Omega 3, que incorpora ácido oleico
 

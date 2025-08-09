@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Agua de perfume para mujer
 - Adecuada para el uso diario
+- Agua de perfume para mujer
 - Olor fresco durante todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

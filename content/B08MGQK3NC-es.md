@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - No testado en animales. Vegano. Fabricación íntegra en España.
+- Gel de baño y ducha nutriente, aporta gran suavidad a la piel dejándola muy perfumada.
 - Libre de parabenos. Dermatológicamente testado. Crea mucha espuma.
 - Género; Unisex. Adulto e infantil.
-- Gel de baño y ducha nutriente, aporta gran suavidad a la piel dejándola muy perfumada.
 - Perfume de fresa con nata. Exquisita y Dulce Fragancia
 
 [🛒 Aquí!!!]({{< param buyurl >}})

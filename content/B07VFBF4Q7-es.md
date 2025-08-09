@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Liigereza y confortable
+- Piel suave
+- Difumina las imperfecciones
 - Fórmula cobertura total
 - Controla los brillos gracias a su tecnología polvo de triple balance
-- Piel suave
-- Liigereza y confortable
-- Difumina las imperfecciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VFBF4Q7{{</world>}}

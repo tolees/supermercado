@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Disfrútala en un cómodo pack de latas de 24 x 33cl.
-- Elaborada con un proceso natural, disfruta de la cerveza más emblemática del mundo vayas donde vayas.
-- Con un 5% de alcohol en volumen, las latas de Heineken Original te brindan su gran sabor y cuerpo.
-- Consumirla entre 0° y 3°C para obtener sus máximas cualidades.
-- Descubre Heineken Original, elaborada para ser la mejor desde 1983.
 - Heineken Original, una emblemática cerveza color amarillo brillante y una espuma blanca consistente. Con sabor equilibrado y un final fresco y amargo que la convierte en la ideal para cualquier situación.
+- Con un 5% de alcohol en volumen, las latas de Heineken Original te brindan su gran sabor y cuerpo.
+- Elaborada con un proceso natural, disfruta de la cerveza más emblemática del mundo vayas donde vayas.
+- Descubre Heineken Original, elaborada para ser la mejor desde 1983.
+- Consumirla entre 0° y 3°C para obtener sus máximas cualidades.
 - Elaborada con: agua, malta de cebada y lúpulo junto a la exclusiva levadura-A de Heineken.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

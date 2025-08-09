@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Prevención de bolas de pelo: mezcla de fibras adaptada, con pulpa de remolacha, para reducir las bolas de pelo
 - Digestión sana: mezcla de fibras adaptada, con prebióticos y pulpa de remolacha, ayuda a mejorar la salud digestiva del gato
-- Sistema inmunitario resistente: enriquecido con antioxidantes para reforzar el sistema inmunitario; Corazón sano: taurina para el corazón
 - Nota: el embalaje puede variar! Peso saludable: formulado para gatos con tipos de cuerpo distintos; Salud del sistema urinario: formulado para favorecer un tracto urinario saludable
+- Sistema inmunitario resistente: enriquecido con antioxidantes para reforzar el sistema inmunitario; Corazón sano: taurina para el corazón
 - Músculos fuertes: formulado con proteínas de alta calidad para ayudar a su gato a mantener los músculos fuertes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

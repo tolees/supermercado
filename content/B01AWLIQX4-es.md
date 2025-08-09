@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para preparar cócteles
+- Con notas cítricas fuertes
 - Ideal con platos de ostras al estilo del sudoeste
 - Bebida de aspecto claro
 - Aromas florales frescos
-- Con notas cítricas fuertes
+- Ideal para preparar cócteles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01AWLIQX4{{</world>}}

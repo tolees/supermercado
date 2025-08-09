@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Se debe conservar en un lugar fresco y seco
-- Una forma diferente de disfrutar el atún y su característico sabor
-- Adecuado para toda la familia
-- Atún claro en aceite de girasol
 - Una buena opción para elaborar comidas o cenas sencillas
+- Adecuado para toda la familia
+- Una forma diferente de disfrutar el atún y su característico sabor
+- Atún claro en aceite de girasol
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XA3KXJ2{{</world>}}

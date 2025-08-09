@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - una vez abierto, consevar en el frigorifico y consumir en 24 horas
+- Ingredientes: atun claro, aceite de oliva (6%) y sal
 - Fabricado en Galicia
 - Alergenos: pescado
-- Ingredientes: atun claro, aceite de oliva (6%) y sal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M5JFZ1U{{</world>}}

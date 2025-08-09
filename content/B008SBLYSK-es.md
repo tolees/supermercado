@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Notas de salida: bergamota, piña y frambuesa.
 - Familia olfativa: Floral Frutal.
 - Notas de corazón: jazmín, lirio de los valles, violeta y peonía.
+- Notas de salida: bergamota, piña y frambuesa.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008SBLYSK{{</world>}}

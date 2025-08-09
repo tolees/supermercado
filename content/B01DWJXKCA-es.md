@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cestas de malla de filtro / infusor de acero inoxidable
-- Marcos aislados
 - Vaso de vidrio resistentes al calor
+- Marcos aislados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DWJXKCA{{</world>}}

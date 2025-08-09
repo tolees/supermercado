@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ✅ SIN ADITIVOS: Los smilitos se caracterizan por ser snacks para bebés sin aditivos, sin sal, sin azúcares añadidos, SIN trazas de leche de vaca, SIN químicos, SIN GLUTEN y SIN HUEVO. Y gracias a su textura se deshacen en la boca. Puede contener TRAZAS DE SOJA.
-- 🍓 SNACK DE FRESA Y PLÁTANO 100% ECOLÓGICO: Los smilitos de Smileat son unos divertidos gusanitos 100% hechos a base de maíz horneado y aceite de oliva virgen extra, con sabor a fresa y a plátano. 1 bolsa de 25 gramos cada una.
 - ♻️ ENVASADO 100% RECICLABLE: Los Smilitos tienen un envase reciclable al 100%. Es más sostenible y asegura que los Smilitos estén frescos, guarden y conserven todo el sabor y la textura durante 8 meses desde que los fabricamos.
-- 👍 FABRICADO EN ESPAÑA: Estos Smilitos están fabricados en Navarra con amor y cariño. Elaboramos nuestros productos priorizando ingredientes de productores locales, ayudando y cuidando a los agricultores y personas que trabajan en las fábricas locales.
+- 🍓 SNACK DE FRESA Y PLÁTANO 100% ECOLÓGICO: Los smilitos de Smileat son unos divertidos gusanitos 100% hechos a base de maíz horneado y aceite de oliva virgen extra, con sabor a fresa y a plátano. 1 bolsa de 25 gramos cada una.
 - 👶 PARA LOS MÁS PEQUEÑOS: Hemos apostado por crear la mejor gama de snacks ecológicos saludables, porque el ocio y la diversión es la mejor forma de cuidar y hacer feliz a los más peques. Lo pueden consumir bebés, a partir de los 6 meses
+- 👍 FABRICADO EN ESPAÑA: Estos Smilitos están fabricados en Navarra con amor y cariño. Elaboramos nuestros productos priorizando ingredientes de productores locales, ayudando y cuidando a los agricultores y personas que trabajan en las fábricas locales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN1MKFGN{{</world>}}
