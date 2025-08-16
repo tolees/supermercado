@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Dirige a tus hombres para ganar el control de Nueva York recogiendo cajas, eliminando rivales, descubriendo topos, y denunciando a la fiscalía a tu oponente.
 - MOB: La Gran Manzana es un emocionante juego de mesa competitivo para dos jugadores en partidas de 35-40 minutos.
 - Juego de control de área muy divertido con una temática grandiosa que se integra perfectamente en la mecánica de juego”…
-- Dirige a tus hombres para ganar el control de Nueva York recogiendo cajas, eliminando rivales, descubriendo topos, y denunciando a la fiscalía a tu oponente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09D81VP4W{{</world>}}

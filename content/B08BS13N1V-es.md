@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Temperatura de servicio: 16-18 ºC.
 - Maridaje: Un vino para acompañar solomillo de ternera, asados y caza, y también para beber solo.
-- Capacidad: Botella de 750 ml
 - Nota de cata: Profundo color púrpura con un perfil brillante. En nariz cuenta con aromas de bayas maduras y fragancias de violetas y rosas, pinceladas de especies y vainilla de fondo.Complejo, elegante y muy largo. Es equilibrado, rico en matices, amplio, muy frutal y con unos taninos suaves perfectamente ensamblados.
+- Capacidad: Botella de 750 ml
 - Variedad: Tempranillo, Graciano, Garnacha Tinta, Mazuelo, Viura, Malvasía y Garnacha Blanca con graduación de 14 º
+- Temperatura de servicio: 16-18 ºC.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08BS13N1V{{</world>}}

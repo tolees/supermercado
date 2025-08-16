@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AROMAS ICÓNICOS AUSTRALIaños: Aromas deliciosos, divertidos y exuberantes con notas de fresa, naranja y vainilla, para un pelo que huela de maravilla
 - ENRIQUECIDO CON ACEITE DE NUEZ DE MACADAMIA AUSTRALIANA, este champú deja tu pelo increíblemente hidratado, ¡porque tu pelo merece un capricho tan como tú!
-- CRUELTY FREE: Aussie is recognized by PETA as a CrueltyFree brand against animal testing
 - HIDRATA Y REPARA: Lleva tu pelo seco y dañado a un viaje al otro lado del mundo con este champú hidratante que revive y restaura tus mechones
+- CRUELTY FREE: Aussie is recognized by PETA as a CrueltyFree brand against animal testing
+- AROMAS ICÓNICOS AUSTRALIaños: Aromas deliciosos, divertidos y exuberantes con notas de fresa, naranja y vainilla, para un pelo que huela de maravilla
 - PARA MEJORES RESULTADOS (¿qué otro tipo?), úsalo con el Acondicionador Aussie Miracle Moist o el Acondicionador Profundo 3 Minute Miracle
 
 [🛒 Aquí!!!]({{< param buyurl >}})

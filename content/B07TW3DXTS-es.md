@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Disponible en ocho tonos
+- Acabado mate empolvado
 - Textura cremosa e hidratante para el máximo confort
 - Aceites nutritivos
 - Ocho tonos nude delicados para favorecer a todos los tonos de piel
-- Acabado mate empolvado
-- Disponible en ocho tonos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07TW3DXTS{{</world>}}

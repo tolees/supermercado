@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Minimiza las arrugas visiblemente
 - Crema antiarrugas doble accion
+- Minimiza las arrugas visiblemente
 - Reafirma la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

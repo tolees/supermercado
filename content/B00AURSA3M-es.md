@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Advertencia de seguridad: Todos los publicos
-- Ingredientes: Harina de trigo, chocolate negro sin azúcares (pasta de cacao, edulcorante (maltitol) manteca de cacao, materia grasa láctea anhidra (leche) emulgente (lecitina de girasol)) edulcorante (maltitol) aceite vegetal (aceite girasol alto oleico) salvado de trigo, oligofructosa, gasificantes (carbonato ácido de sodio, carbonato ácido de amonio) sal, aroma; puede contener trazas de soja y frutos secos
 - Sin azúcar y con un alto contenido en fibra, la combinación perfecta para disfrutar
-- Galletas digestive con cobertura de chocolate negro
 - Procedencia: ESPAÑA
-- Especialidad: Sin azúcares añadidos
-- Fabricado por galletas gullón
+- Advertencia de seguridad: Todos los publicos
 - Instrucciones para su uso adecuado: Todos los publicos
-- Las galletas perfectas para darte un capricho entre horas
+- Fabricado por galletas gullón
+- Galletas digestive con cobertura de chocolate negro
 - Sin aceite de palma; producto elaborado con aceite de girasol alto oleico
+- Ingredientes: Harina de trigo, chocolate negro sin azúcares (pasta de cacao, edulcorante (maltitol) manteca de cacao, materia grasa láctea anhidra (leche) emulgente (lecitina de girasol)) edulcorante (maltitol) aceite vegetal (aceite girasol alto oleico) salvado de trigo, oligofructosa, gasificantes (carbonato ácido de sodio, carbonato ácido de amonio) sal, aroma; puede contener trazas de soja y frutos secos
+- Especialidad: Sin azúcares añadidos
+- Las galletas perfectas para darte un capricho entre horas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00AURSA3M{{</world>}}

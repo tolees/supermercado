@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Género : mujer
 - Tipo de producto: base de maquillaje
+- Género : mujer
 - Marca : Clinique
 
 [🛒 Visítala!!!]({{< param buyurl >}})

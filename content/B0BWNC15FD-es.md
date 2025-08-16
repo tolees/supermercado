@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 46Kcal por Tortita
-- Tortitas de maíz sabor tomate (8unidades)
-- Cada pack contiene aproximadamente 13 tortitas
 - Cada caja contiene 8 packs
+- Cada pack contiene aproximadamente 13 tortitas
+- Tortitas de maíz sabor tomate (8unidades)
+- 46Kcal por Tortita
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWNC15FD{{</world>}}

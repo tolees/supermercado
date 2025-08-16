@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bioderma Photoderm MAX Color SPF50, garantiza la máxima protección para las pieles intolerantes al sol. Protege contra en envejecimiento prematuro y la oxidación celular. Actúa contra los efectos negativos de los rayos UVB/UVA. Tiene un toque de
-- Parafarmacia
 - 0
+- Parafarmacia
+- Bioderma Photoderm MAX Color SPF50, garantiza la máxima protección para las pieles intolerantes al sol. Protege contra en envejecimiento prematuro y la oxidación celular. Actúa contra los efectos negativos de los rayos UVB/UVA. Tiene un toque de
 - Maquillaje
 
 [🛒 Comprar!!!]({{< param buyurl >}})

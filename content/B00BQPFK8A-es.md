@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Refleja la luz como nunca antes gracias a su exclusivo complejo de pigmentos reflectantes
-- Color intenso, labio hidratado
-- Colección de labiales
-- Color intenso hasta 8 horas
 - Captura el estilo y el look único
+- Colección de labiales
+- Color intenso, labio hidratado
+- Color intenso hasta 8 horas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00BQPFK8A{{</world>}}

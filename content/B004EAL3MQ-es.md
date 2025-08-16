@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: Elegante color caoba con matices de oro viejo. Olor: Aromas de roble noble y oloroso. Sabor: Ligeramente dulce y cálido en boca, amargura equilibrada y un acabado balsámico. Servicio: Lepanto es un digestivo excelente, un brandy noble y natural, perfecto para disfrutar solo, tranquilamente, apreciando la complejidad de los aromas en cada copa. Envejecimiento: Envejecido en botas de roble americano previamente envinadas más de 12 años, 9 de los cuales con Tio Pepe (Sherry Cask) seguidos por otros 3 en botas de Matusalem VORS (Sherry Cask), siguiendo el sistema tradicional de criaderas y solera.
 - BODEGA GONZÁLEZ BYASS JEREZ, S.L.U. M.M. GONZALEZ, 12 JEREZ - SPAIN
+- Color: Elegante color caoba con matices de oro viejo. Olor: Aromas de roble noble y oloroso. Sabor: Ligeramente dulce y cálido en boca, amargura equilibrada y un acabado balsámico. Servicio: Lepanto es un digestivo excelente, un brandy noble y natural, perfecto para disfrutar solo, tranquilamente, apreciando la complejidad de los aromas en cada copa. Envejecimiento: Envejecido en botas de roble americano previamente envinadas más de 12 años, 9 de los cuales con Tio Pepe (Sherry Cask) seguidos por otros 3 en botas de Matusalem VORS (Sherry Cask), siguiendo el sistema tradicional de criaderas y solera.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B004EAL3MQ{{</world>}}

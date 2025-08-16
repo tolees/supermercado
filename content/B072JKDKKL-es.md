@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Proteger de la luz solar y de olores agresivos
 - Bebida refrescante aromatizada con endulcolantes
-- Contiene fenilalanina
 - Ideal para compartir
+- Proteger de la luz solar y de olores agresivos
+- Contiene fenilalanina
 - Para la mejor experiencia, agregue hielo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

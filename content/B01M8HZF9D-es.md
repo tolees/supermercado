@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 100% proteína natural de origen vegetal
-- Contiene tan sólo 0.6 g de grasa y 0.2 g de carbohidratos
-- Sin lácteos, sin gluten y sin trigo
-- Mezcla de cinco fuentes de proteína vegana - proteína de soja, proteína de guisante, proteína de semilla de calabaza, proteína de girasol, proteína de arroz integral
 - Alto en proteínas: hasta 25g de proteína por porción
+- Sin lácteos, sin gluten y sin trigo
+- Contiene tan sólo 0.6 g de grasa y 0.2 g de carbohidratos
+- Mezcla de cinco fuentes de proteína vegana - proteína de soja, proteína de guisante, proteína de semilla de calabaza, proteína de girasol, proteína de arroz integral
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01M8HZF9D{{</world>}}

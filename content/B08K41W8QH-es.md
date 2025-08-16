@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Como servir: Servir a temperatura ambiente
-- Aromas de dulces e intensas grosellas negras
-- Una estructura integrada de taninos y una acidez bien equilibrada
 - El paquete puede variar
+- Como servir: Servir a temperatura ambiente
+- Una estructura integrada de taninos y una acidez bien equilibrada
+- Aromas de dulces e intensas grosellas negras
 - Rojo rubí brillante en colour
 
 [🛒 Aquí!!!]({{< param buyurl >}})

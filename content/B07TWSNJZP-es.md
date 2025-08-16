@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuando apliques el perfume, no lo frotes
 - Guarda el perfume en un lugar fresco
-- Aplica perfume en aquellas zonas del cuerpo donde late el pulso: las muñecas, las clavículas, detrás de las orejas, o en la parte posterior del codo
 - No perfumar la ropa para evitar manchas irreparables en ésta
+- Aplica perfume en aquellas zonas del cuerpo donde late el pulso: las muñecas, las clavículas, detrás de las orejas, o en la parte posterior del codo
+- Cuando apliques el perfume, no lo frotes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TWSNJZP{{</world>}}

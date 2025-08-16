@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A la vista: Esta Ginebra se presenta con un tono anaranjado, reminiscente del propio mango en su punto de madurez. Su claridad es notable, con destellos brillantes que reflejan la luz.
 - En nariz: Destacan las notas frutales de Mango subrayadas por finos recuerdos a enebro.
+- A la vista: Esta Ginebra se presenta con un tono anaranjado, reminiscente del propio mango en su punto de madurez. Su claridad es notable, con destellos brillantes que reflejan la luz.
 - Descubre una Ginebra única y refrescante, con un inconfundible sabor a Mango.
 - ¿Cómo tomarla?: Combínala con refresco de lima limón, tónica o refresco de limón acompañada de hielo y rodajas de lima.
 - Puerto de Indias y el verano se fusionan en este increíble sabor: Mango

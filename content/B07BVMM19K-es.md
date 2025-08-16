@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Especialmente resistente al grabado es premium porcelana extra robusto, ligero percutir considera que es sin más de natural apta para lavavajillas y microondas
 - Contenido del envío: 1 x Villeroy & Boch New Cottage Basic de té platillo, vajilla porcelana de alta calidad Premium en color blanco, 16 cm
-- Ricos usted galletas, pequeñas delicias y más para té en esta práctica platillo
 - New Cottage está con diseño transparente y puro para un nuevo estilo rústico de la fina terrallende tiene una forma suave orgánicos y ajusta para un sueño relajado de comer y festivas
+- Ricos usted galletas, pequeñas delicias y más para té en esta práctica platillo
 - Se pueden combinar con Mariefleur Gris y Mariefleur de Villeroy & Boch
 
 [🛒 Comprar!!!]({{< param buyurl >}})

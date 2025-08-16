@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto apto para la piel seca
 - Fácil de usar
 - Un producto de calidad
+- Producto apto para la piel seca
 - Actúa de forma eficaz
 
 [🛒 Comprar!!!]({{< param buyurl >}})

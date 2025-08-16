@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor: floral, notas de enebro, violeta, cáscara de naranja
-- Perfecto como un regalo
 - Nariz: Fresco, afrutado, notas de cítricos
+- Sabor: floral, notas de enebro, violeta, cáscara de naranja
 - Acabado: Larga duración, suave, dulce, seco
 - Color: claro
+- Perfecto como un regalo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XHVKFEU{{</world>}}

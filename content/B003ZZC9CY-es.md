@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Con una textura tánica agradable
 - Vino tinto de color rubí intenso con capa media alta brillante
-- El embalaje puede variar
-- Con sabor suave y sabroso
 - Tiene toques frutales, de bayas rojas con perfumes de vainilla y especias
+- Con sabor suave y sabroso
+- El embalaje puede variar
 - Adecuado para acompañar asados, parilladas, ahumados y quesos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

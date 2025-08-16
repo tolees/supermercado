@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Inspiración Alhambra: Inspirada en recetas clásicas alemanas, esta cerveza ofrece matices únicos gracias a su proceso de fermentación lenta.
-- Pack de 24 latas de 33 cl de cerveza Alhambra lager especial, lupulación y sabor equilibrados.
-- Sabor: Balance perfecto entre amargor suave pero con sensación de cuerpo y muy equilibrada. La persistencia es fina, ligeramente dulce con acabado seco, que la hace refrescante.
 - Apariencia: Cerveza lata de color dorado, brillante y con una espuma cremosa y consistente.
+- Sabor: Balance perfecto entre amargor suave pero con sensación de cuerpo y muy equilibrada. La persistencia es fina, ligeramente dulce con acabado seco, que la hace refrescante.
+- Pack de 24 latas de 33 cl de cerveza Alhambra lager especial, lupulación y sabor equilibrados.
 - Aroma: La fragancia aromática tiene un perfil seco con suaves notas afrutadas y un reflejo a levadura. Los aromas de lúpulo son leves aunque florales y se intensifican al tragar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

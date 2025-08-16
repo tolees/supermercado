@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Resistente al agua
 - Dermatológicamente testado No comedogénico
-- Protege e hidrata la piel del rostro, proporciona confort y se absorbe rápidamente sin dejar rastros
 - Textura de crema ligera e imperceptible, dermatológicamente testada e hidratante, superagradable en la piel
+- Protege e hidrata la piel del rostro, proporciona confort y se absorbe rápidamente sin dejar rastros
 - Fórmula enriquecida con ácido hialurónico y niacinamida
 
 [🛒 Aquí!!!]({{< param buyurl >}})

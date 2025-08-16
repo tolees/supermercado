@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 💯 CALIDAD Y SATISFACCIÓN GARANTIZADA: Complementos alimenticios naturales de alta calidad, elaborados bajo estrictos controles y procesos certificados. Fabricados en Eladiet S.A.U., C/ Salvador Espriu 32, Pol. Ind. Sur, 08754 El Papiol (Barcelona).
-- 🌿 CON MELATONINA, VALERIANA, PASIFLORA & VITAMINAS: La melatonina contribuye a disminuir el tiempo necesario para conciliar el sueño, la valeriana ayuda a mantener el sueño natural, la amapola de california contribuye a la óptima relajación y mejora la calidad del sueño natural. Además se añaden los beneficios de la vitamina B3 y B6, que ayudan a disminuir el cansancio y la fatiga, a la vez que contribuyen al funcionamiento normal del sistema nervioso (EFSA).
-- 🌟 SOBRE NOSOTROS: ELADIET nació en 1985 con la pasión por la naturaleza, la tradición y ayudar a los demás. Hoy, somos líderes en complementos alimenticios naturales para mejorar tu bienestar.
-- 💤 DOBLE ACCIÓN PARA DORMIR RÁPIDAMENTE Y MANTENER EL SUEÑO PROLONGADO Complemento alimenticio Bicapa con 2 fases de liberación. La primera capa, de efecto inmediato, reduce el tiempo necesario para conciliar el sueño. La segunda capa, de efecto prolongado, ayuda a mantener el sueño natural, la relajación óptima y mejora la calidad del sueño natural.
 - 😴 DORMIR BIEN, SUEÑO E INSOMNIO: Nuestro Buenas Noches es un complemento alimenticio que contribuye a regular y mejorar el la calidad del sueño y del descanso. Su efecto calmante te ayudará a conseguir un momento de reposo óptimo.
+- 🌟 SOBRE NOSOTROS: ELADIET nació en 1985 con la pasión por la naturaleza, la tradición y ayudar a los demás. Hoy, somos líderes en complementos alimenticios naturales para mejorar tu bienestar.
+- 💯 CALIDAD Y SATISFACCIÓN GARANTIZADA: Complementos alimenticios naturales de alta calidad, elaborados bajo estrictos controles y procesos certificados. Fabricados en Eladiet S.A.U., C/ Salvador Espriu 32, Pol. Ind. Sur, 08754 El Papiol (Barcelona).
+- 💤 DOBLE ACCIÓN PARA DORMIR RÁPIDAMENTE Y MANTENER EL SUEÑO PROLONGADO Complemento alimenticio Bicapa con 2 fases de liberación. La primera capa, de efecto inmediato, reduce el tiempo necesario para conciliar el sueño. La segunda capa, de efecto prolongado, ayuda a mantener el sueño natural, la relajación óptima y mejora la calidad del sueño natural.
+- 🌿 CON MELATONINA, VALERIANA, PASIFLORA & VITAMINAS: La melatonina contribuye a disminuir el tiempo necesario para conciliar el sueño, la valeriana ayuda a mantener el sueño natural, la amapola de california contribuye a la óptima relajación y mejora la calidad del sueño natural. Además se añaden los beneficios de la vitamina B3 y B6, que ayudan a disminuir el cansancio y la fatiga, a la vez que contribuyen al funcionamiento normal del sistema nervioso (EFSA).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06WWN7FL5{{</world>}}

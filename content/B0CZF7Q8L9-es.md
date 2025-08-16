@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 7 beneficios en uno que ayudan a mantener la piel joven y radiante
-- El paquete puede variar
-- La siguiente información se aplica a cada unidad del paquete
 - Nuestra protección UV más potente dentro de la gama Total Effects, SPF 30
+- 7 beneficios en uno que ayudan a mantener la piel joven y radiante
 - Nuestra fórmula con complejo de VitaNiacina enriquecida con vitaminas B3, C y E ayuda a favorecer la renovación de la superficie de la piel
 - De rápida absorción, fórmula no grasa
+- El paquete puede variar
+- La siguiente información se aplica a cada unidad del paquete
 - Ayuda a mantener la piel joven y radiante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

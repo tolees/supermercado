@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Olor fresco durante todo el día
-- Adecuada para el uso diario
 - Agua de perfume para mujer
+- Adecuada para el uso diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000C1Z4UI{{</world>}}

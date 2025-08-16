@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dimensiones: 6x44cm; lavar a mano y secar muy bien
-- Aplicación: excelente para amasar fondant, masa, etc…; ideal para conseguir una para de pizza fina y uniforme; accesorio indispensable para los amantes de la repostería y pastelería
 - Material: Madera de haya
+- Aplicación: excelente para amasar fondant, masa, etc…; ideal para conseguir una para de pizza fina y uniforme; accesorio indispensable para los amantes de la repostería y pastelería
 - Práctico: El rodillo es muy suave y los mangos laterales se agarran con firmeza, asegurando un movimiento suave y evitando tensión innecesaria de la muñeca, haciendo que sea un accesorio muy cómodo de manejar
 - Incluye: 1x rodillo de amasar
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Controles cuántas canas se reducen de forma suave y gradual
 - Aspecto natural gracias a su tecnología biomimética
+- Controles cuántas canas se reducen de forma suave y gradual
 - Para cabello de cualquier color
 - Limpia y revitaliza el cabello
 

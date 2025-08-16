@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este vino marida bien con jamón, quesos no muy curados, guisos con salsas no muy especiadas, legumbres cocidas o guisadas, aves, carnes rojas, carnes a la parrilla y asados.
-- Vino fresco, frutal con agradable entrada en boca, recordando frutos rojos entremezclados con aromas de la madera, a coco y vainilla
-- Este crianza destaca por su gran versatilidad. Con la esencia más pura de un Rioja y con los más altos estándares de calidad. Su elegante estilo y acabado, hacen de este estuche el regalo perfecto en ocasiones especiales
 - En boca es amplio, persistente y con carácter, deja clara la calidad de los frutos elaborados
+- Este vino marida bien con jamón, quesos no muy curados, guisos con salsas no muy especiadas, legumbres cocidas o guisadas, aves, carnes rojas, carnes a la parrilla y asados.
+- Este crianza destaca por su gran versatilidad. Con la esencia más pura de un Rioja y con los más altos estándares de calidad. Su elegante estilo y acabado, hacen de este estuche el regalo perfecto en ocasiones especiales
 - Caja estuche de 3 botellas de 750 ml de Marqués de Riscal - Vino tinto Arienzo D.O.Ca. Rioja
+- Vino fresco, frutal con agradable entrada en boca, recordando frutos rojos entremezclados con aromas de la madera, a coco y vainilla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0914FZYVK{{</world>}}

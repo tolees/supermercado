@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cantidad: 100 gr
 - Suministrar como un premio en cualquier momento, dentro de una dieta equilibrada. Los perros deben estar bajo supervisión mientras comen.
+- Mantener en lugar fresco y seco. Suministrar siempre agua en abundancia.
 - Con un alto contenido en proteína animal y con pocas grasas (Producto Light). Alimento complementario para su perro, muy rico en nutrientes.
 - Snack en forma de sandwich, con carne de pollo. 100% natural.
-- Mantener en lugar fresco y seco. Suministrar siempre agua en abundancia.
-- Cantidad: 100 gr
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SLFNXLY{{</world>}}

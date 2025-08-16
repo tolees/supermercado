@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🐑MEJORA LA CALIDA DEL SUEÑO: La Melatonina es una hormona que de manera natural es segregada por la hipófisis y regulada por la presencia de luz. Esta hormona se relaciona con el control del reloj biológico, sueño-vigilia
 - 🌙 BENEFICIOS DE LA MELATONINA | Duerme más rápido y combate el jet lag , ✔ Favorece un sueño reparador: La melatonina ayuda a reducir el tiempo necesario para conciliar el sueño. ✔ Alivia el jet lag: Contribuye a restablecer el ritmo circadiano tras viajes largos. ✔ Regulación natural del sueño: La melatonina pura es Ideal para quienes tienen dificultades para dormir
+- 🐑MEJORA LA CALIDA DEL SUEÑO: La Melatonina es una hormona que de manera natural es segregada por la hipófisis y regulada por la presencia de luz. Esta hormona se relaciona con el control del reloj biológico, sueño-vigilia
 - 🍬MELATONINA GOMINOLAS: Gominola elaborada a base de pectinia de frutas y Melatonina de 1,9 mg, Melatonina pura en cada gominola con rico sabor a ciruela
 - 😋FÁCIL DE TOMAR: Tomar 1 gominola de melatonina , preferiblemente, una hora antes de acostarse
 - 🌀GUMMIES MELATONINA: Su principal función es regular y controlar el ciclo del sueño, pero también es un poderoso antioxidantes que ayuda a reforzar el sistema inmunológico y estimular la secreción de hormonas

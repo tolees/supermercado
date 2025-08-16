@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Jugar con pomperos ayuda al desarrollo de la capacidad para soplar, perfecciona el control de la respiración y fomenta la coordinación entre manos y vista
-- Cada pompero tiene capacidad para 60 mililitros de agua/jabón
-- Pomperos de colores rojo, verde, naranja y amarillo; cada pompero mide 4 x 4 x 11.5 cm
 - Dos tamaños diferentes para hacer pompas: diámetro de 3 cm (círculo grande) y diámetro de 1.7 cm (círculo pequeño)
 - Se envían 36 pomperos en su caja display
+- Pomperos de colores rojo, verde, naranja y amarillo; cada pompero mide 4 x 4 x 11.5 cm
+- Cada pompero tiene capacidad para 60 mililitros de agua/jabón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B007PF5JVI{{</world>}}

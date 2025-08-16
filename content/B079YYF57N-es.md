@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Regusto fresco y floral que crea un brillo redondeado
-- Color dorado claro, notas dulces y sutiles de chocolate con leche, vainilla y manzana roja
-- Ligeramente dulce con un toque a vainilla
-- Bebe Ballantines Finest Whisky como tú quieras: solo, on the rocks, combinado o en cocktail
 - Tiene un aroma ligeramente dulce con un toque a vainilla
+- Ligeramente dulce con un toque a vainilla
+- Color dorado claro, notas dulces y sutiles de chocolate con leche, vainilla y manzana roja
+- Bebe Ballantines Finest Whisky como tú quieras: solo, on the rocks, combinado o en cocktail
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B079YYF57N{{</world>}}

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - 🌿 Jabón antibacterial, un potente limpiador facial que elimina impurezas y bacterias, ayudando a prevenir brotes de acné y manteniendo la piel fresca y saludable. Ideal para uso diario en todo tipo de pieles, proporcionando una limpieza profunda sin irritar.
 - 🌿 Jabon natural y ecológico, elaborado de forma artesanal con ingredientes biodegradables y sostenibles. Ideal para quienes buscan productos amigables con el medio ambiente, sin químicos agresivos y con un impacto mínimo en la naturaleza. Perfecto para el cuidado de la piel y del planeta.
-- 🌿 Pastilla de jabon natural diseñada para combatir el acne de manera efectiva, formulada con ingredientes naturales como carbon activado y sal de los Himalayas, que ayudan a desintoxicar la piel, absorber el exceso de grasa y exfoliar suavemente, previniendo futuros brotes. Deja la piel limpia, suave y equilibrada, ideal para uso diario en pieles propensas al acne.
 - 🌿 Jabon Natural para acne juvenil, especialmente formulado para reducir y prevenir puntos negros nariz y otras áreas propensas. Limpia profundamente los poros, eliminando el exceso de grasa y las impurezas, ayudando a mantener una piel libre de imperfecciones. ❤️
+- 🌿 Pastilla de jabon natural diseñada para combatir el acne de manera efectiva, formulada con ingredientes naturales como carbon activado y sal de los Himalayas, que ayudan a desintoxicar la piel, absorber el exceso de grasa y exfoliar suavemente, previniendo futuros brotes. Deja la piel limpia, suave y equilibrada, ideal para uso diario en pieles propensas al acne.
 - 🌿 Jabon de manos, cara y cuerpo con acción exfoliante corporal suave, ideal para eliminar impurezas y células muertas, dejando la piel facial y corporal limpia y suave al tacto. Formulado para uso diario, aporta una limpieza profunda sin resecar la piel.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

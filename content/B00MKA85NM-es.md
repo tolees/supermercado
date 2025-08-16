@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Finish Abrillantador para el lavavajillas acelera el secado de tu vajilla y deja un resultado brillante, incluso en plástico
 - BRILLO: Vajilla más brillante y sin manchas
 - Uso: Rellena regularmente el dispensador del abrillantador en el lavaplatos
 - PROTECCIÓN: Evita las marcas y gotas de agua, los residuos o depósitos en la vajilla y los restos de cal
+- Finish Abrillantador para el lavavajillas acelera el secado de tu vajilla y deja un resultado brillante, incluso en plástico
 - El ambalaje puede variar
 - SECADO: Vajilla seca, sin marcas, incluso tus tápers, ya no hace falta que los seques a mano
 

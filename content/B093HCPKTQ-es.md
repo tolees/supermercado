@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para piel con imperfecciones
-- Jabón de carbón para cara, espalda y cuello
 - Adecuado para hombres y mujeres de 18 a 35 años
+- Jabón de carbón para cara, espalda y cuello
+- Para piel con imperfecciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093HCPKTQ{{</world>}}

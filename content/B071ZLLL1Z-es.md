@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- EXCELENCIA EN LA ELABORACIÓN. Nuestra pequeña, pero moderna almazara, nos permite controlar en todo momento el proceso de extracción aplicando siempre parámetros por encima de los estándares definidos para la extracción de Aceite de Oliva Virgen Extra.
 - OLIVARES DE CULTIVO TRADICIONAL. Nuestros olivares recuperados, dispersos en pequeñas parcelas en plena Sierra de Altomira,son en su totalidad de cultivo ecológico y de una variedad única y autóctona de la comarca.natural de la Alcarria: la variedad Verdeja o Castellana.
 - COSECHA TEMPRANA. El aceite se elabora con la aceituna en envero, en este momento se consiguen aceites más frescos y limpios, sus niveles de polifenoles son más altos lo que se traduce en mejores atributos organolépticos, así como beneficios para nuestra salud.
-- EXCELENCIA EN LA ELABORACIÓN. Nuestra pequeña, pero moderna almazara, nos permite controlar en todo momento el proceso de extracción aplicando siempre parámetros por encima de los estándares definidos para la extracción de Aceite de Oliva Virgen Extra.
 - SU SABOR. Aceite fresco en nariz y limpio en boca, frutado medio con notas intensas de la tomatera y toques de almendra, Su amargor y picor moderado permiten resaltar el sabor de los platos usándolo en crudo y en cocina no alteran el resultado final del plato.
 - UN ZUMO FRESCO. La aceituna recogida siempre al vuelo se moltura en el mismo día de recolección, el fruto llega a la almazara intacto lo que permite unos niveles de acidez extremadamente bajos entorno al 0,1%
 

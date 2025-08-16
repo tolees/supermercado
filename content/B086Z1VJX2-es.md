@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - *La marca no pertenece a Gruppo Gimoka ni a sus empresas afiliadas
 - 6 gramos de café en cada cápsula; compacidad, volúmenes y prensado de las cápsulas de café interiores
 - Mezcla de cremoso: una mezcla suave, equilibrada y de cuerpo medio con 70% arábica
-- 50 Cápsulas compatibles para Cafetera Nespresso* Professional Business Zenius y Gemini
 - 100% compatibilidad en toda la gama de máquinas originales del sistema Nespresso* Business Solutions
+- 50 Cápsulas compatibles para Cafetera Nespresso* Professional Business Zenius y Gemini
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B086Z1VJX2{{</world>}}

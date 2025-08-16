@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De la marca Clinique
+- Alta calidad
 - Género: mujer
 - Tipo de producto: base de maquillaje
-- Alta calidad
+- De la marca Clinique
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B071JV4ZBS{{</world>}}

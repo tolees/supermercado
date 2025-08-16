@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 80 pañuelos por caja
+- Pañuelos blancos
 - Muy suaves
 - 2 capas
-- Pañuelos blancos
 - Dimensión pañuelo 21.5 x 22.5 cm
-- 80 pañuelos por caja
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00APNI7CK{{</world>}}

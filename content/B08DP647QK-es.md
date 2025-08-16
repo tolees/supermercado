@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La taza termo anti-derrames cuenta con una tapa ajustada con un tapón en rosca que permanece en su sitio sobre la taza mientras bebe.
-- Las bebidas se conservan calientes durante 4 horas o frías durante 8 horas en la taza termo para el café para llevar.
 - Gracias a su formato compacto la pequeña taza aislante se ajusta a prácticamente cualquier portavasos
+- Las bebidas se conservan calientes durante 4 horas o frías durante 8 horas en la taza termo para el café para llevar.
+- La taza termo anti-derrames cuenta con una tapa ajustada con un tapón en rosca que permanece en su sitio sobre la taza mientras bebe.
 - La taza aislante de Mepal es el vaso ideal de termo para el café para llevar
 - Contenido: 375 ml Altura: 17,8 cm. Diámetro: 8,4 cm.
 

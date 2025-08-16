@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona una alta protección solar frente a la radiación UVB/UVA.
-- Especialmente formulado para la piel frágil de los más pequeños.
 - Protege frente a la radiación UV indirecta.
+- Especialmente formulado para la piel frágil de los más pequeños.
+- Proporciona una alta protección solar frente a la radiación UVB/UVA.
 - Se absorbe rápidamente y tiene una alta resistencia al agua.
 - Fotoprotector fluido para el rostro y el cuerpo de niños y bebés con filtros 100% minerales.
 

@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ayuda a las articulaciones: Glucosamina y condroitina para ayudar a las articulaciones
-- Ayuda a la digestión: Con una selección de hierbas aromáticas naturales que ayudan a la digestión
-- Elaborado con ingredientes naturales*: Sin saborizantes, colorantes ni conservantes artificiales añadidos
-- Receta premium con 65 % de pollo
-- Hipoalergénico: Fuente única de proteína animal (pollo). Sin trigo, maíz, soja, huevo, lactosa ni gluten añadido
-- Revisado por veterinarios: Desarrollado por nutricionistas de mascotas y revisado por veterinarios
 - Alimento completo para gatos sénior de 7 años en adelante
+- Revisado por veterinarios: Desarrollado por nutricionistas de mascotas y revisado por veterinarios
+- Ayuda a las articulaciones: Glucosamina y condroitina para ayudar a las articulaciones
+- Receta premium con 65 % de pollo
+- Elaborado con ingredientes naturales*: Sin saborizantes, colorantes ni conservantes artificiales añadidos
 - Pollo fresco deshuesado: Delicioso para tu gato. Elaborado con pollo fresco deshuesado
+- Hipoalergénico: Fuente única de proteína animal (pollo). Sin trigo, maíz, soja, huevo, lactosa ni gluten añadido
 - Ayuda a mantener un pelo y piel sanos: Biotina y zinc para ayudar a mantener un pelo y piel sanos
+- Ayuda a la digestión: Con una selección de hierbas aromáticas naturales que ayudan a la digestión
 - Vista y corazón saludables: Taurina y caléndula para favorecer una vista y corazón saludables
 
 [🛒 Visítala!!!]({{< param buyurl >}})

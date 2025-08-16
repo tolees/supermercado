@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Repara y refuerza la barrera protectora de la piel.
 - Fórmula con un 97% de ingredientes de origen natural.
 - Hidrata hasta 10 capas de la epidermis.
-- Para pieles extra secas, hidratación durante 48H.
-- Repara y refuerza la barrera protectora de la piel.
-- Con Cacao y Ceramidas en una crema de absorción rápida.
 - Con envases reciclados y reciclables. Garnier aprobada por Cruelty-Free International.
+- Para pieles extra secas, hidratación durante 48H.
+- Con Cacao y Ceramidas en una crema de absorción rápida.
 - Garnier Body Superfood Pack Crema Corporal Reparadora con Cacao y Ceramida para pieles extra secas Hidratación 48 horas 2x380ML
 
 [🛒 Aquí!!!]({{< param buyurl >}})

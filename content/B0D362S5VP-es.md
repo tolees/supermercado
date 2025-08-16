@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas: 11,5 x 11,5 x 12 centímetros
-- Coloración Permanente de la marca Garnier
 - Referencia: S05122116
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Coloración Permanente de la marca Garnier
+- Medidas: 11,5 x 11,5 x 12 centímetros
 - Color: Multicolor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

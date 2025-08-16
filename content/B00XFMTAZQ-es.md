@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bebida refrescante sin azúcar
 - Es adecuado para personas que desean seguir una dieta baja en calorías
+- Bebida refrescante sin azúcar
 - El producto representa una botella de nectar de melocotón
-- Contiene un 50% menos calorías que néctar tradicional
 - Elaborada de melocotón
+- Contiene un 50% menos calorías que néctar tradicional
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XFMTAZQ{{</world>}}

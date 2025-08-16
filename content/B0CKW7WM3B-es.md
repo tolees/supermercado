@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- [TEMPERATURA PERFECTA] Gracias al termostato ajustable del LVS26 de H.Koenig podrás mantener tu botella a la temperatura que quieras durante toda una noche.
 - [DIMENSIONES] el refrigerador de la botella tiene el tamaño perfecto, no ocupa espacio en la mesa. Además, el enfriador de vino puede acomodar una botella con un diámetro de hasta 9 cm, lo que le permitirá no tener problemas para elegir su botella.
+- [TEMPERATURA PERFECTA] Gracias al termostato ajustable del LVS26 de H.Koenig podrás mantener tu botella a la temperatura que quieras durante toda una noche.
 - [CONTROLE DIGITAL] El panel táctil le permite un uso sencillo y moderno.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

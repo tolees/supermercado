@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de maquillaje de la marca Max Factor
 - Sencillo de aplicar
+- Producto de maquillaje de la marca Max Factor
 - Ofrece un resultado óptimo y adecuado
 - Material de calidad
 

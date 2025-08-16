@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lata reciclable
-- Solución culinaria para hacer postres y cafés con un sabor inimitable y cremoso
-- Esta caja contiene 6 botes de 387 g
 - Para repostería
+- Lata reciclable
+- Esta caja contiene 6 botes de 387 g
+- Solución culinaria para hacer postres y cafés con un sabor inimitable y cremoso
 - Leche condensada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

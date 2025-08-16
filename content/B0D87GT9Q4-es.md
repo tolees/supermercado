@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste atlético
 - Tejido de alto rendimiento
+- Ajuste atlético
 - Diseño transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

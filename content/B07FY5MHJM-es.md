@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin gluten
-- Producto sin lactosa
-- Bajo índice glucémico y sal
 - Ingredientes procedentes de la agricultura ecológica
+- Bajo índice glucémico y sal
+- Producto sin lactosa
+- Sin gluten
 - Procede de las hojas de agave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

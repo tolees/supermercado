@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Adecuado como un regalo
 - Color: ámbar
 - Acabado de larga duración
-- Adecuado como un regalo
 - Aroma: fresco, dulce, especiado, miel, caramelo, canela, clavo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

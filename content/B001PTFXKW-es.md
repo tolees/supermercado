@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crema hidratante
-- 75 ml 2,5 oz.
-- Diferencia visible
-- Elizabeth Arden
 - Complejo de crema hidratante refinadora
+- Elizabeth Arden
+- 75 ml 2,5 oz.
+- Crema hidratante
+- Diferencia visible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001PTFXKW{{</world>}}

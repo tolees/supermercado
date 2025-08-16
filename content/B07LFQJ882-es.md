@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Envuelto individualmente.
 - Delicioso regalo y autoregalo.
+- Envuelto individualmente.
 - Bombón relleno con deliciosa crema de cacahuetes y barquillo crujiente, cubierto de chocolate con leche.
 - Ideal para disfrutar en cualquier momento.
 

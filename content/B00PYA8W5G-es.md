@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modo de empleo:1 comprimido al día
 - Menopausia
+- Modo de empleo:1 comprimido al día
 - fácil de usar
 - 60 Cápsulas
 

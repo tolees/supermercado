@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para tus ensaladas, carnes y pescados
 - Una receta con más de 125 años de historia
+- Ideal para tus ensaladas, carnes y pescados
 - Jugo Maggi - ideal para realzar y dar sabor a tus platos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

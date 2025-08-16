@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Irresistible turrón de chocolate blanco, relleno cremoso y galleta
 - Turrón Jungly, elaborado con ingrediente de máxima calidad.
 - Característico sabor a crujiente galleta.
 - Se fabrica en La Penilla, con leche recogida diariamente en la cornisa cantábrica.
-- Irresistible turrón de chocolate blanco, relleno cremoso y galleta
 - Estas navidades vuelve la diversión con Turrón Jungly.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

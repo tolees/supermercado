@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Raciones por envase: 33
 - Ingredientes de excelente calidad
 - Apto para veganos
 - PBN - Paquete de proteínas para veganos, 1 kg (sabor chocolate con avellanas)
-- Raciones por envase: 33
 - Cada ración contiene 19,6 g de proteína
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

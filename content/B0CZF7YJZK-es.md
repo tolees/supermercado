@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Listo para servir
 - La siguiente información se aplica a cada unidad del paquete
 - Conservar en un lugar fresco y seco
 - Sin gluten
-- Listo para servir
 - En formato pelotazos
 - Ideal para toda la familia
 

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Protección solar óptima FPS 50+ contra rayos UVB y UVA
+- Aplicar diariamente sobre el rostro limpio.
 - Se vuelve invisible tras su aplicación
 - Producto hipoalergénico; no comedogénico; sin perfumes; test sensorial comparando esta fórmula con 7 protecciones diarias
-- Aplicar diariamente sobre el rostro limpio.
 - Textura más fluida que una protección facial clásica. No grasa y no deja marcas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

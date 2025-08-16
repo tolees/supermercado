@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en un lugar fresco y seco
-- Bebida rápida y sabrosa para cualquier momento del día
 - Elaborado sin azúcares añadidos
 - Hecho con ingredientes 100% bio
+- Bebida rápida y sabrosa para cualquier momento del día
 - Con un alto contenido en calcio
+- Conservar en un lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00C513JKA{{</world>}}

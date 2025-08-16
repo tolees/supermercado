@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regina Viarum es vino y paisaje, la suma del saber hacer de su gente, el equilibrio perfecto que captura la esencia de la Viticultura de Montaña a orillas del río Sil
 - Beber con moderación
 - Bebida de vino
+- Regina Viarum es vino y paisaje, la suma del saber hacer de su gente, el equilibrio perfecto que captura la esencia de la Viticultura de Montaña a orillas del río Sil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CDLPVVX5{{</world>}}

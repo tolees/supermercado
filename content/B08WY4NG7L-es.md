@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detergente para la ropa certificado con la etiqueta ecológica de la Unión Europea y el certificado Leaping Bunny que no contiene ingredientes de origen animal y nunca ha sido testado en animales​
-- Detergente para lavadora ecológico líquido hecho con ingredientes 95% de origen vegetal
-- ​Producto de limpieza altamente eficaz, sin colorantes, sin fragancias sintéticas, sin blanqueadores ópticos
 - Dermatológicamente testado
+- Detergente para lavadora ecológico líquido hecho con ingredientes 95% de origen vegetal
+- Detergente para la ropa certificado con la etiqueta ecológica de la Unión Europea y el certificado Leaping Bunny que no contiene ingredientes de origen animal y nunca ha sido testado en animales​
 - Envases respetuosos con el medio ambiente; pack 100 % reciclable y fabricado con plástico reciclado
 - Detergente líquido para la lavadora, sin fragancia, adecuado para pieles sensibles ya que no deja químicos abrasivos en la ropa
+- ​Producto de limpieza altamente eficaz, sin colorantes, sin fragancias sintéticas, sin blanqueadores ópticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08WY4NG7L{{</world>}}

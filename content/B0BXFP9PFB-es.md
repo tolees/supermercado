@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [CUIDA TU SALUD]: NO Produce Caries, Perfecto Para Dietas Cetogenicas, Paleo, Keto, Cándida, Vegana Y Especiales Para Deportistas
-- [ENDULZANTE NATURAL]: El Eritritol Es Un Edulcorante Natural, Que Se Produce A Partir De La Maduración En Algunas Frutas O Por Fermentación Con Levaduras.- Reemplazo Ideal del Azúcar, Sacarina, Stevia, Etc. Con Excelente Sabor, Idéntico Al Azúcar.-
-- [ENVASE RECICLABLE]: Desde Natura Wassy Colaboramos Con El Cuidado Del Medio Ambiente, Nuestro Envase Es 100% Reciclable Y Con Cierre Hermético Para Larga Duración, Una Vez Abierto Conservar En Lugar Fresco Y Seco.-
 - [0 CALORIAS]: Zero Calorías, Sin Carbohidratos Activos, Nuestro Eritritol No Varia Los Niveles De Glucosa, Por Lo Tanto Es Ideal Para Diabéticos, Apto Vegano, Vegetarianos y Celiacos, Con Excelente Sabor Similar Al Azúcar.-
 - [FORMA DE USO]: Se Utiliza Para Endulzar Tanto En Frio Como En Caliente (Zumos, Batidos, Café, Bebidas Vegetales, Etc) Excelente Manera De Endulzar Tus Recetas De Repostería Y Pastelería. 75% Poder Endulzante Del Azúcar.-
+- [ENVASE RECICLABLE]: Desde Natura Wassy Colaboramos Con El Cuidado Del Medio Ambiente, Nuestro Envase Es 100% Reciclable Y Con Cierre Hermético Para Larga Duración, Una Vez Abierto Conservar En Lugar Fresco Y Seco.-
+- [ENDULZANTE NATURAL]: El Eritritol Es Un Edulcorante Natural, Que Se Produce A Partir De La Maduración En Algunas Frutas O Por Fermentación Con Levaduras.- Reemplazo Ideal del Azúcar, Sacarina, Stevia, Etc. Con Excelente Sabor, Idéntico Al Azúcar.-
+- [CUIDA TU SALUD]: NO Produce Caries, Perfecto Para Dietas Cetogenicas, Paleo, Keto, Cándida, Vegana Y Especiales Para Deportistas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BXFP9PFB{{</world>}}

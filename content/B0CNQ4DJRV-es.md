@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula ligera y no pegajosa, Acabado satinado, Dermatológicamente testado
-- Spray fijador Infaillible, Maquillaje fijado y sin transferencia en 3 segundos, Acabado fresco y luminoso
-- Resultados: Mantiene el maquillaje hasta 36 horas, Resistente al agua y al sudor, No transfiere ni mancha*
 - Consejos de aplicación: Mantener a 30 cm del rostro, cerrar los ojos y la boca, agitar bien y pulverizar con movimientos circulares para asegurar una aplicación uniforme.
+- Resultados: Mantiene el maquillaje hasta 36 horas, Resistente al agua y al sudor, No transfiere ni mancha*
+- Spray fijador Infaillible, Maquillaje fijado y sin transferencia en 3 segundos, Acabado fresco y luminoso
+- Fórmula ligera y no pegajosa, Acabado satinado, Dermatológicamente testado
 - Contenido: 1x LOréal Paris Spray Fijador de Maquillaje, Se mantiene hasta 36 horas, Acabado Satinado, 80 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

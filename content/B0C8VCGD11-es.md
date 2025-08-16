@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para dietas vegetarianas y veganas
 - Fabricado en Italia
 - Pera en mitades en almibar
+- Apto para dietas vegetarianas y veganas
 - Conservar en un lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

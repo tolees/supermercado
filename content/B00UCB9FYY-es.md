@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una solución universal para todo el hogar
-- Gran poder de limpieza Don Limpio.
-- Acaba con la suciedad, las marcas de jabón y la grasa.
 - Deja los suelos limpios, relucientes y con un perfume fresco.
+- Una solución universal para todo el hogar
+- Acaba con la suciedad, las marcas de jabón y la grasa.
+- Gran poder de limpieza Don Limpio.
 - Perfecto para superficies duras y lavables.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

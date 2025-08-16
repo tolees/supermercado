@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disponible en varios tonos, desde clásicos atemporales hasta los más trendy con efectos particulares
-- Fórmula de secado rápido y de larga duración
 - Esmalte de uñas
+- Fórmula de secado rápido y de larga duración
+- Disponible en varios tonos, desde clásicos atemporales hasta los más trendy con efectos particulares
 - Color intenso y brillante
 - El pincel se adapta a cada tamaño de uña, aplicación fácil y optima
 

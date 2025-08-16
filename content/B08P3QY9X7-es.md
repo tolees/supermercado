@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de piel: seca
-- Protección: extracto único de flor de tilo que refuerza la barrera protectora natural de la piel. Hace que la piel sea lisa de forma natural y agradable al tacto.
-- En YOPE es nuestra pasión y nuestro hobby, cuidarse del planeta y su seguridad. El embalaje de todos los productos es reciclado y reciclable. la composición es vegana y está certificada sin crueldad
-- Natural: la receta se ha fabricado en un 98% de ingredientes naturales de la más alta calidad. Creemos que lo bueno está en la naturaleza, en resumen, solo encontrarás lo que es necesario para la piel. Algunos de los ingredientes están certificados por EcoCert.
 - Humedad: una mezcla de semillas de lino, caléndula y manzanilla, que calma y regenera perfectamente la irritación de la piel. El alto contenido en glicerina vegetal proporciona humedad, elasticidad y suavidad a las manos.
+- Protección: extracto único de flor de tilo que refuerza la barrera protectora natural de la piel. Hace que la piel sea lisa de forma natural y agradable al tacto.
+- Tipo de piel: seca
+- Natural: la receta se ha fabricado en un 98% de ingredientes naturales de la más alta calidad. Creemos que lo bueno está en la naturaleza, en resumen, solo encontrarás lo que es necesario para la piel. Algunos de los ingredientes están certificados por EcoCert.
 - Fragancia única: aroma floral y cálido que te lleva a un lugar lleno de flores que se calientan con el sol. El producto no solo cuida el estado de la piel, sino que también estimula los sentidos de manera que el lavado de manos diario sea un placer puro.
+- En YOPE es nuestra pasión y nuestro hobby, cuidarse del planeta y su seguridad. El embalaje de todos los productos es reciclado y reciclable. la composición es vegana y está certificada sin crueldad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08P3QY9X7{{</world>}}

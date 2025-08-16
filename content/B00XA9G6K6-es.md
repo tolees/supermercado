@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal con hielo
-- Muy armonioso en aroma
 - Es suave al paladar
 - Adecuado como regalo
 - De color rojo vivo
+- Ideal con hielo
+- Muy armonioso en aroma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA9G6K6{{</world>}}

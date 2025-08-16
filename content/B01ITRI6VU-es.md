@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bebida láctea con fibra
 - Se presenta en pack de 6 unidades
+- Apta para celiacos
 - Realizada con ingredientes 100% naturales
 - Baja en grasa
-- Apta para celiacos
-- Bebida láctea con fibra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ITRI6VU{{</world>}}

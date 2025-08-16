@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resultado óptimo
 - Fácil de aplicar
+- Resultado óptimo
 - Mascarilla para el cabello
 
 [🛒 Aquí!!!]({{< param buyurl >}})

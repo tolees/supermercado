@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Visite nuestra BRAND STORE para descubrir toda la selección Le Terre di Colombo; enlace directo debajo del título del producto
+- Afrutado y aromático con un sutil regusto a almendra
 - El color oscuro de la botella protege el aceite de la oxidación y conserva su sabor natural
 - Cultivado y prensado en frío en Italia con aceitunas de la zona
 - Apto especial para verduras, hortalizas y sopas
-- Visite nuestra BRAND STORE para descubrir toda la selección Le Terre di Colombo; enlace directo debajo del título del producto
-- Afrutado y aromático con un sutil regusto a almendra
 - Botella de 2 litros con estrías y tapón mecánico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Versátil y fácil de utilizar.
 - Envase hermético fácil de almacenar y apilable.
-- Fuente de ácidos grasos omega 3, bajo contenido en sal
-- Lomo de atún al natural, perfecto para recetas de pasta, como los macarrones con atún y tomate.
 - Añádelo como ingrediente para pizzas o elabora una ensalada deliciosa y saludable.
+- Fuente de ácidos grasos omega 3, bajo contenido en sal
 - Alto contenido en proteínas
+- Lomo de atún al natural, perfecto para recetas de pasta, como los macarrones con atún y tomate.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B096ZT9NJQ{{</world>}}

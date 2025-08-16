@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- - Taza de cerámica con mensaje de amor divertido.
+- - Apto para microondas y lavavajillas.
 - - Capacidad: 280ml.
 - - Perfecta para regalo.
 - - Mensaje: Lo que está más bueno de este café eres tu.
-- - Apto para microondas y lavavajillas.
+- - Taza de cerámica con mensaje de amor divertido.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09Q3FLJFW{{</world>}}

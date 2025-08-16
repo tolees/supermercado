@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Botella de 750 ml envuelta en papel dorado
 - Aroma sutil con notas dulces de almendra y fruta deshidratada
+- Botella de 750 ml envuelta en papel dorado
 - Apto especial para pescados y verduras, aunque también combina con postres
 - Visite nuestra BRAND STORE para descubrir toda la selección Le Terre di Colombo; enlace directo debajo del título del producto
-- Con aceitunas Taggiasca monocultivo, recogidas y prensadas en frío de manera local
 - Envuelto para proteger el aceite de la oxidación y conservar su sabor natural
+- Con aceitunas Taggiasca monocultivo, recogidas y prensadas en frío de manera local
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07X59YZBH{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tratamiento de Aceite en Crema que nutre intensamente sin apelmazar el pelo, dejándolo suave y ligero
 - 200 ml
 - Tratamiento capilar aceite en crema altamente nutritiva para el pelo reseco y sensibilizado, nutre intensamente sin apelmazar
-- Formulado con Aceite de Oliva rico en ácidos grasos y Vitamina E, se usa desde la antigüedad por sus propiedades altamente nutritivas, suavizantes y reparadoras
 - Envase 100% reciclable
+- Formulado con Aceite de Oliva rico en ácidos grasos y Vitamina E, se usa desde la antigüedad por sus propiedades altamente nutritivas, suavizantes y reparadoras
+- Tratamiento de Aceite en Crema que nutre intensamente sin apelmazar el pelo, dejándolo suave y ligero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00X9UE5EA{{</world>}}

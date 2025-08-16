@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MODO DE EMPLEO: Aplicar sobre las zonas a proteger en zonas con pelaje escaso como el abdomen, las orejas, hocico, parpados, labios o en la zona trasera superior de razas con pelajes claros o sin pelo. Renovar la aplicación a las dos horas de exposición solar para asegurar una máxima protección.
-- El embalaje puede variar
 - MÁXIMA PROTECCIÓN:Crema solar con factor de protección 50 para hidratar y proteger las partes más sensibles de la piel de nuestro perro y gato de las peligrosas radiaciones UVA y UVB.
+- El embalaje puede variar
 - HIDRATA Y PROTEGE: La crema solar Menforsan protege de los rayos del sol pero además hidrata las zonas sin pelo de tu perro o gato.
 - RESISTENTE AL AGUA: Esta crema solar es resistente al agua.
+- MODO DE EMPLEO: Aplicar sobre las zonas a proteger en zonas con pelaje escaso como el abdomen, las orejas, hocico, parpados, labios o en la zona trasera superior de razas con pelajes claros o sin pelo. Renovar la aplicación a las dos horas de exposición solar para asegurar una máxima protección.
 - pH NEUTRO: Su fórmula ha sido diseñada exclusivamente para uso en perros y gatos por lo que se puede usar frecuentemente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Garnier colección de regalo mascarillas faciales x5 con Ácido Hialurónico para rostro y ojos. Contiene: Tissue Mask Hydra Bomb Revitalizante, Tissue Mask Black Pure Charcoal Detox, Tissue Mask Calmante Hidratante, Tissue Mask Matificante y Tissue Mask Ojos Anti-Ojeras.
-- Aprobado por cruelty free international
 - Aplicar sobre la piel limpia dejar actuar durante 15 minutos. Retirar y masajear cuidadosamente el rostro. Hasta 3 veces por semana!
+- Aprobado por cruelty free international
 - Fórmulas veganas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

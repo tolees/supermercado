@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aperitivo de maíz frito con sabor a barbacoa
 - Perfecto como snack
-- Ideal para compartir
-- Envasado atmósfera protectora
 - Conservar en lugar fresco y seco
+- Aperitivo de maíz frito con sabor a barbacoa
+- Envasado atmósfera protectora
+- Ideal para compartir
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B018VNJ3M8{{</world>}}

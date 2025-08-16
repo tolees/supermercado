@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Envasado en Italia
 - Apto para dietas vegetarianas y veganas
 - Melocoton en mitades en zumo de manzana a partir de concentrado
+- Envasado en Italia
 - Conservar en un lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})

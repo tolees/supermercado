@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con protein calcium
 - Tiene un efecto hidratante
-- Contiene lactobacillus F
-- Aplicar el producto durante la ducha y por todo el cuerpo
+- Con protein calcium
 - Gel de ducha para piel normales y sensible
+- Aplicar el producto durante la ducha y por todo el cuerpo
+- Contiene lactobacillus F
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BYDX17C4{{</world>}}

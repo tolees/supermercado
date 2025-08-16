@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en un lugar fresco y seco
 - Envasado en Italia
+- Conservar en un lugar fresco y seco
 - Macedonia de frutas en zumo de uva a partir de concentrado
 - Apto para dietas vegetarianas y veganas
 

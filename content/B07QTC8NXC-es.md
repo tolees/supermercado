@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bebida láctea con café y cacao
 - Con vitamina A y D
-- Listo para servir
 - Mezcla de cafés arábica y robusta y el punto justo de cacao
+- Bebida láctea con café y cacao
+- Listo para servir
 - Se puede beber frío o caliente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

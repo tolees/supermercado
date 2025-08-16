@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Master´s Gin ha sido reconocida como la Mejor Ginebra del Mundo en 3 de los certámenes de destilados más prestigiosos a nivel mundial: San Francisco World Spirit Competition, New York World Wine and Spirit Competition y China Wine Spirits Awards.
-- Servir en copa de balón o vaso ancho. Añadir 3 4 cubitos de hielo, remover para enfriar el vaso. Servir 5cl de Masters Gin y añadir piel de naranja. Completar con tónica (20cl). Deslizar piel de naranja por los bordes de la copa o vaso.
 - Destilada con alcoholes de grano y una cuidadosa selección de plantas aromáticas que dan como resultado una ginebra suave y muy aromática, con amplios recuerdos balsámicos y cítricos.
 - En su elaboración destacan 5 botánicos; Piel de naranjas valencianas (dulces y amargas), limón, enebro, coriandro y cardamomo. Todos ellos destilados de forma individual.
 - Es una ginebra tridestilada de alta calidad, siguiendo el método London Dry Gin. Destilada con alcoholes de grano y una selección de plantas aromáticas.
+- Master´s Gin ha sido reconocida como la Mejor Ginebra del Mundo en 3 de los certámenes de destilados más prestigiosos a nivel mundial: San Francisco World Spirit Competition, New York World Wine and Spirit Competition y China Wine Spirits Awards.
+- Servir en copa de balón o vaso ancho. Añadir 3 4 cubitos de hielo, remover para enfriar el vaso. Servir 5cl de Masters Gin y añadir piel de naranja. Completar con tónica (20cl). Deslizar piel de naranja por los bordes de la copa o vaso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B009T4BY3U{{</world>}}

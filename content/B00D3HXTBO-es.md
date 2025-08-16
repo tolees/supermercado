@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Restaura la barrera cutánea
 - Único con doble protección activa del sistema de defensa cutáneo
 - Prevención, cuidado y reducción de los principales síntomas visibles de la dermatitis atópica facial: picor, sequedad, descamación, eritema y edema cutáneo
+- Restaura la barrera cutánea
 - Incrementa la producción de péptidos antimicrobianos (AMPs), que son la primera línea de defensa de la piel, gracias a la acción de L-isoleucina
 
 [🛒 Aquí!!!]({{< param buyurl >}})

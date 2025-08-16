@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil y rápido de preparar
-- Conservar en lugar fresco y seco
-- Se pueden servir solo o con leche
 - Café molido con notas florales y afrutadas
+- Se pueden servir solo o con leche
+- Conservar en lugar fresco y seco
 - Hecho de granos de café 100% arábica
+- Fácil y rápido de preparar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01C5Q0AJ2{{</world>}}

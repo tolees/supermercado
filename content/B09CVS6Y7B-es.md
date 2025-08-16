@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una botella de 50 cl de Dewars Double Double 27 Year Old Blended Scotch Whisky con Caja de Regalo
 - Disfruta de este Whisky solo o con hielo, o regale una botella
-- Doble-doble añejamiento para lograr la máxima suavidad mediante un proceso de envejecimiento en 4 etapas y acabado en barricas de jerez Palo Cortado
-- Scotch Whisky embotellado en pequeños lotes con aromas florales y cítricos, frutas almibaradas y un sutiles especias de vainilla, y notas de sabor a sirope y miel
 - Forma parte de la serie de doble-doble añejamiento que ha recibido medallas de oro de todo el mundo
+- Scotch Whisky embotellado en pequeños lotes con aromas florales y cítricos, frutas almibaradas y un sutiles especias de vainilla, y notas de sabor a sirope y miel
+- Una botella de 50 cl de Dewars Double Double 27 Year Old Blended Scotch Whisky con Caja de Regalo
+- Doble-doble añejamiento para lograr la máxima suavidad mediante un proceso de envejecimiento en 4 etapas y acabado en barricas de jerez Palo Cortado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09CVS6Y7B{{</world>}}

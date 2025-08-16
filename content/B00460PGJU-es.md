@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tous Touch Eau De Toilette Spray - 100ml/3.4oz
 - 3.4 oz.
+- Tous Touch Eau De Toilette Spray - 100ml/3.4oz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00460PGJU{{</world>}}

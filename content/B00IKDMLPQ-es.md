@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gel cristalino Fix Max
 - Se usa una dosis del tamaño de una mandarina
+- Gel cristalino Fix Max
 - Acompañado de una fragancia fresca
 - Fijación fuerte y sin residuos
 

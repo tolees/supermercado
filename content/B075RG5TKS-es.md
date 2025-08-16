@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su textura, ultraligera y no grasa, es ideal para usar como base antes del maquillaje
-- El Fluido Hidratante Hydro Boost Urban Protect SPF 25 refuerza la hidratación para fortalecer la barrera cutánea y protegerla de la contaminación y de los perjudiciales rayos UVB y UVA
-- Su tecnología Helioplex con SPF 25 ofrece mayor protección contra los perjudiciales rayos UVB y UVA causantes del envejecimiento prematuro; contiene Vitamina C ayuda a proteger la piel de los daños causados por la contaminación preservando su luminosidad
 - Su fórmula hidratante, con ácido hialurónico, preserva y fortalece la barrera cutánea día tras día para defenderla activamente de las agresiones diarias
+- Su textura, ultraligera y no grasa, es ideal para usar como base antes del maquillaje
+- Su tecnología Helioplex con SPF 25 ofrece mayor protección contra los perjudiciales rayos UVB y UVA causantes del envejecimiento prematuro; contiene Vitamina C ayuda a proteger la piel de los daños causados por la contaminación preservando su luminosidad
+- El Fluido Hidratante Hydro Boost Urban Protect SPF 25 refuerza la hidratación para fortalecer la barrera cutánea y protegerla de la contaminación y de los perjudiciales rayos UVB y UVA
 - Descubre toda la gama Hydro Boost de Neutrogena para cuerpo, manos y rostro, y convierte la hidratación en una parte esencial de tu rutina diaria
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

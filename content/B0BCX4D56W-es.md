@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula Vegana sin ingredientes o derivados de origen animal.
 - Aplicar el Serum Negro sobre el rostro limpio y masajear suavemente en la piel. Utilizar por la mañana y por la noche como sérum diário o aplicar directamente sobre las manchas. Evita el contorno de los ojos
+- Fórmula Vegana sin ingredientes o derivados de origen animal.
 - Nuestro 1er sérum negro unisex con una concentración de 4% [NIACINAMIDA + AHA + BHA], reduce los granos, la aparência de marcas y imperfecciones, para una piel con una apariencia más lisa y uniforme
-- Oficialmente aprobado por Cruelty Free international
 - Resultados clínicamente probados visibles en 28 días. - Tras el 1er uso, piel más suave y lisa - En 7 días, textura de la piel parece refinada y el tono más uniforme, - Después de 28 días los granos, los puntos negros, las rojeces y imperfecciones parecen visiblemente reducidos. Eficacia comprobada** **Autoevaluación en 155 personas
+- Oficialmente aprobado por Cruelty Free international
 - Descubre el nuevo Serum Negro Anti-Imperfecciones con Niacinamida+AHA+BHA de Garnier Pure Active y di adiós a las imperfecciones de la piel, los granos y los puntos negros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

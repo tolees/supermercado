@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes: atun claro, aceite de oliva (6%) y sal
 - Alergenos: pescado
 - Fabricado en Galicia
+- Ingredientes: atun claro, aceite de oliva (6%) y sal
 - una vez abierto, consevar en el frigorifico y consumir en 24 horas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

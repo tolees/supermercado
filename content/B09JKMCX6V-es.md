@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aroma: Intensa fragancia alcohólica, donde se perciben notas cítricas y florales del lúpulo, que se intensifican en cada trago de cerveza Mahou Maestra Lager tostada. Destacan también los afrutados y los aromas tostados y a caramelo de la malta
 - Cerveza premium español Mahou Maestra Doble Lúpulo es un homenaje a los maestros cerveceros de hoy. Más de 125 años de experiencia y saber, inspiran hoy a los Maestros cerveceros de Mahou para crear esta cerveza tostada, de doble lúpulo, con gran cuerpo y sabor intenso
-- Pack de 24 latas de 33 cl de cerveza Mahou Maestra Doble Lúpulo una cerveza artesanal especial y brillante, tostada y gran cuerpo, sabor intenso y espuma cremosa y consistente. 7,5% Vol. De alcohol. Se recomienda tomar entre 4º y 6º C
-- Apariencia: Cerveza Mahou maestra de color ámbar intenso resultado del grado mayor de tueste de las maltas, de aspecto brillante y espuma cremosa y consistente con reflejos anaranjados, aportándole jovialidad y elegancia
 - Sabor: De entrada la cerveza lata Mahou maestra doble lúpulo es apasionada, con cuerpo intenso, pleno y con cierta sequedad. El amargo es de intensidad moderada, resultando una cerveza con un buen equilibrio en boca y un dulzor ligero
+- Apariencia: Cerveza Mahou maestra de color ámbar intenso resultado del grado mayor de tueste de las maltas, de aspecto brillante y espuma cremosa y consistente con reflejos anaranjados, aportándole jovialidad y elegancia
+- Aroma: Intensa fragancia alcohólica, donde se perciben notas cítricas y florales del lúpulo, que se intensifican en cada trago de cerveza Mahou Maestra Lager tostada. Destacan también los afrutados y los aromas tostados y a caramelo de la malta
+- Pack de 24 latas de 33 cl de cerveza Mahou Maestra Doble Lúpulo una cerveza artesanal especial y brillante, tostada y gran cuerpo, sabor intenso y espuma cremosa y consistente. 7,5% Vol. De alcohol. Se recomienda tomar entre 4º y 6º C
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09JKMCX6V{{</world>}}

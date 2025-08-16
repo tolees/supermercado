@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El sabor es ligero y refrescante
-- En nariz es limpio con sutiles notas de cebada
 - Hecho solo con ingredientes naturales
+- El sabor es ligero y refrescante
 - La temperatura de servicio recomendada es de 4-6°C
+- En nariz es limpio con sutiles notas de cebada
 - C.C. DAMM S.L. C/ del Rosselló, 515, LEixample, 08025 Barcelona, Espana
 - El color es amarillo brillante con una espuma blanca consistente
 

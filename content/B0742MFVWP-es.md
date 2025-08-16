@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Milka Bubbly leche
-- Chocolate con burbujas y chocolate
-- Puede contener trigo y frutos de cáscara arbóreos, contiene leche, avellanas, soja
 - Chocolate con leche de los alpes aireado
+- Puede contener trigo y frutos de cáscara arbóreos, contiene leche, avellanas, soja
+- Chocolate con burbujas y chocolate
 - Mantener en un lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

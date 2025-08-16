@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desodorante roll-on con fórmula que brinda 72 horas de protección​
 - Rexona Advanced Protection desodorante antitranspirante roll-on Cobalt Dry para hombre 50 ml​
+- Desodorante roll-on con fórmula que brinda 72 horas de protección​
 - Desodorante antitranspirante con Nonstop Protection​
 - Desodorante antitranspirante con tecnología Motionsense que se activa con el movimiento
 - Protección imparable contra el sudor y el mal olor​

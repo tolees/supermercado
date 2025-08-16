@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tensioactivo ligero de glutamato de cocoílo para espuma cremosa.
+- Limpieza profunda y cuidadosa con Pantenol, Vitamina E y aminoácidos.
 - Fórmula sin conservantes, protege el manto ácido de la piel.
 - pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
 - Sebamed 150g, pastilla suave sin jabón para pieles sensibles, sin agentes alcalinos.
-- Tensioactivo ligero de glutamato de cocoílo para espuma cremosa.
-- Limpieza profunda y cuidadosa con Pantenol, Vitamina E y aminoácidos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00HR4KPE8{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¿Eres más de arrancar tus mañanas con un delicioso café? Traemos la combinación perfecta para ello: El mix de almendra, avena y arroz con el toque ideal de café para comenzar tu día con energía, los nutrientes necesarios y sin renunciar a un sabor delicioso.
-- Mix vegetal Santal con café brik 1L – Caja de 6 litros
 - Conservar en lugar fresco y seco. Una vez abierto el envase, debe conservarse en frío, siendo aconsejable su consumo en los 3 días siguientes.
+- Mix vegetal Santal con café brik 1L – Caja de 6 litros
+- ¿Eres más de arrancar tus mañanas con un delicioso café? Traemos la combinación perfecta para ello: El mix de almendra, avena y arroz con el toque ideal de café para comenzar tu día con energía, los nutrientes necesarios y sin renunciar a un sabor delicioso.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZLLXKH9{{</world>}}

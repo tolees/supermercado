@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - NOTAS DE FONDO: almizcle, abelmosco, abedul
-- CONSEJOS DE USO: Rociar la fragancia en las áreas donde la piel es más fina: muñecas, detrás de las orejas, parte delantera de los codos
+- NOTAS DE SALIDA: mandarina, menta, manzanilla
 - DESCUBRE TODA LA COLECCIÓN: Prueba la colección de fragancias Green Tea de Elizabeth Arden y descubre tu favorita
 - NOTAS DE CORAZÒN: magnolia, té, lavanda
-- NOTAS DE SALIDA: mandarina, menta, manzanilla
+- CONSEJOS DE USO: Rociar la fragancia en las áreas donde la piel es más fina: muñecas, detrás de las orejas, parte delantera de los codos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003HFFRFI{{</world>}}

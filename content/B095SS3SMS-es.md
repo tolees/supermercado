@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las almendras sicilianas se caracterizan por sucáscara gruesa y leñosa, que protege el fruto, conservando inalterable su calidad.
-- En su elaboración se sigue la receta tradicional, que se consigue macerando en alcohol almendras sicilianas. su personalidad única se debe a la utilización de almendras sicilianas, con su piel incluida. Contiene un 30% de alcohol.
 - A la vista, Amaretto Villa Massa posee un color nacarado con un resplandor cobrizo brillante. al olfato se percibe el aroma a la almedra, con toques de amargor con recuerdos a mazapán. al paladar se nota dulce y suave, con notas de vainilla, cereza y cacao.
-- Amaretto Villa Massa es un licor a base de almendras sicilianas que se produce según una antigua receta de familia.
 - Disfruta de este suave y dulce licor con hielo después de comer y déjate trasladar a un jardín mediterráneo.
+- En su elaboración se sigue la receta tradicional, que se consigue macerando en alcohol almendras sicilianas. su personalidad única se debe a la utilización de almendras sicilianas, con su piel incluida. Contiene un 30% de alcohol.
+- Las almendras sicilianas se caracterizan por sucáscara gruesa y leñosa, que protege el fruto, conservando inalterable su calidad.
+- Amaretto Villa Massa es un licor a base de almendras sicilianas que se produce según una antigua receta de familia.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B095SS3SMS{{</world>}}

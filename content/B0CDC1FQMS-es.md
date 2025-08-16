@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Multivitaminas Multicentrum mujer 50+ es un complemento alimenticio que no contiene gluten, ni lactosa, ni azúcar ni fructosa
+- Contiene vitaminas del tipo B y hierro, que ayudan a disminuir el cansancio y la fatiga, y vitamina C y zinc, que contribuyen al funcionamiento normal del sistema inmunitario
+- Después de cada uso, asegúrese de que el bote se encuentra cerrado y guardado dentro de su caja, en un lugar seco y a una temperatura inferior a 25ºC
 - Nuevo envase de 100 comprimidos de Multicentrum mujer 50+: Complemento alimenticio completo, con vitaminas y minerales, especialmente formulado para ayudar a hacer frente a los cambios en las necesidades nutricionales tras la menopausia
 - Multicentrum mujer 50+ contiene calcio para el mantenimiento de los huesos en condiciones normales
-- Después de cada uso, asegúrese de que el bote se encuentra cerrado y guardado dentro de su caja, en un lugar seco y a una temperatura inferior a 25ºC
-- Contiene vitaminas del tipo B y hierro, que ayudan a disminuir el cansancio y la fatiga, y vitamina C y zinc, que contribuyen al funcionamiento normal del sistema inmunitario
 - Los complementos alimenticios no deben ser usados como sustitutos de una dieta equilibrada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

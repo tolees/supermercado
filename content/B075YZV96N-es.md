@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Interior de espuma súper blanda y cobertura de azúcar
 - Con forma de corazónColor exterior rojo e interior blanco
-- 4 Bolsas de 1kg - aprox: 165 piezas cada
 - Caramelos de goma
+- 4 Bolsas de 1kg - aprox: 165 piezas cada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B075YZV96N{{</world>}}
