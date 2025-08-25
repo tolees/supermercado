@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Puede contener Huevos y/o productos a base de huevos
 - Sabor vainilla
 - Te ayudan preparar de forma rápida y sencilla deliciosos platos
 - Ideal para tus postres
-- Puede contener Huevos y/o productos a base de huevos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00BLP7RSG{{</world>}}

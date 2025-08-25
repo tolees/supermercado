@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto listo para su consumo
-- Mantener en un lugar fresco y seco
 - Granjas propias y de proximidad
-- España
+- Mantener en un lugar fresco y seco
 - Sin gluten
+- España
+- Producto listo para su consumo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YQYCHHK{{</world>}}

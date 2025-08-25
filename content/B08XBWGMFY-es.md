@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Luz indicadora de temperatura
-- Con temporizador de 60 minutos
 - Apta para lavavajillas
 - Con un sistema patentado de bandejas apilables sobre la base
+- Luz indicadora de temperatura
+- Con temporizador de 60 minutos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XBWGMFY{{</world>}}

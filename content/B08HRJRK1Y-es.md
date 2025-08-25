@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FÓRMULA ACUOSA ULTRALIGERA: protector solar facial de absorción inmediata, no comedogénica, para una piel sana, suave y radiante
-- PROTECCIÓN 360°: crema solar facial con Fernblock+, filtros específicos y activos reparadores y antioxidantes, protege frente a las 4 radiaciones (UVB, UVA, Visible e Infrarrojo), neutraliza y repara el daño solar
-- TESTADO: fotoprotección avanzada testada bajo control dermatológico y oftalmológico, testado en pieles sensibles, ¡disfruta del sol sin preocupaciones!
 - HIDRATACIÓN PROLONGADA: para todo tipo de pieles, incluso sensibles; su sistema hidratante de liberación prolongada permite mantener hidratada la piel durante y tras la exposición solar
+- PROTECCIÓN 360°: crema solar facial con Fernblock+, filtros específicos y activos reparadores y antioxidantes, protege frente a las 4 radiaciones (UVB, UVA, Visible e Infrarrojo), neutraliza y repara el daño solar
+- FÓRMULA ACUOSA ULTRALIGERA: protector solar facial de absorción inmediata, no comedogénica, para una piel sana, suave y radiante
+- TESTADO: fotoprotección avanzada testada bajo control dermatológico y oftalmológico, testado en pieles sensibles, ¡disfruta del sol sin preocupaciones!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HRJRK1Y{{</world>}}

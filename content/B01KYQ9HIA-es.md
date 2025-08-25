@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Champú hidratante impregnado con aceite de argán
 - Deja el cabello fuerte, suave y brillante
-- Sistema de cuidado del cabello con surfactante sin sulfatos
+- Champú hidratante impregnado con aceite de argán
 - Ayuda a restaurar y fortalecer todo tipo de cabello
+- Sistema de cuidado del cabello con surfactante sin sulfatos
 - Apto para viajes y aeropuertos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

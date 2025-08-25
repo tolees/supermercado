@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Disponible en 9 distintos tonos ponibles: claros o de cobertura más alta
+- Contiene aceite de argán y vitamina E
 - Gloss que proporciona 24h de hidratación y brillo duradero
 - Su aplicador es suave y preciso, de fácil aplicación
-- Contiene aceite de argán y vitamina E
 - Cómodo de llevar gracias a su efecto de bálsamo, no es pegajoso
 
 [🛒 Visítala!!!]({{< param buyurl >}})

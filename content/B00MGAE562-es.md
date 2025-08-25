@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aporta volumen a tus pestañas
 - Producto de calidad óptima
+- Aporta volumen a tus pestañas
 - Fácil de aplicar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

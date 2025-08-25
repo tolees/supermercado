@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Funciona eficazmente sin ser grasoso.
-- Spray para proteger la piel de los rayos del sol.
 - Ligero y no pegajoso en la piel.
+- Spray para proteger la piel de los rayos del sol.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZ4TN1T2{{</world>}}

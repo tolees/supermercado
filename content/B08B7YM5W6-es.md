@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Clinique
+- Clinique
 - Anti imperfecciones concentrado de CLINIQUE
-- Clinique
-- Clinique
 - Clinique
 - Clinique
 

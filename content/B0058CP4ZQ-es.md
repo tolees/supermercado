@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Su aplicador preciso ayuda a definir una línea perfecta
 - Fórmula resistente, no transfiere ni mancha
 - Consigue una mirada de escándalo
-- Su aplicador preciso ayuda a definir una línea perfecta
 - Consigue un delineado glamuroso con el mínimo esfuerzo
 - Delineador de color intenso que dura horas y horas
 

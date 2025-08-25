@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De cerámica de alta calidad en elegante color blanco
-- Capacidad de llenado: 400 ml de jabón líquido, loción de baño o detergente
 - Impreso con ornamentos plateados
+- Capacidad de llenado: 400 ml de jabón líquido, loción de baño o detergente
+- De cerámica de alta calidad en elegante color blanco
 - Dispensador de jabón recargable ideal para baño, cocina y aseo para huéspedes
 - Medidas (ancho x altura x profundidad): 8 x 16,5 x 9 cm
 

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Limpia la piel con suavidad
 - Tiene un agradable aroma
 - Nutre e hidrata
-- Limpia la piel con suavidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KHLBCMG{{</world>}}

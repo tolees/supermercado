@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De Comapa
 - De calidad
+- De Comapa
 - Comidas de España
 
 [🛒 Comprar!!!]({{< param buyurl >}})

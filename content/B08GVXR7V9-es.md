@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - No se adhiere a las patas de tu gato y tampoco al pelaje.
 - Soluble y de fácil desecho, 100% biodegradable
-- Control de olores: la arena se aglomera rápidamente y deja así los olores desagradables retenidos.
 - Libre de polvo por lo que es una excelente opción para gatos y personas con alergias
+- Control de olores: la arena se aglomera rápidamente y deja así los olores desagradables retenidos.
 - Forma pelotas duras que no se pegan a la caja de arena o a la pala. Esto hace que sea fácil de recoger y limpiar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

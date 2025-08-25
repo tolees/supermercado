@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% VERDEJO. Sorprende por su marcado carácter herbal y floral, frente al resto de la D.O. que mantiene notas más tropicales y anisadas. Maceración prefermentativa en frío, generando así una mayor liberación de aromas varietales. Durante todo el proceso de elaboración se trabaja con gases inertes lo que permite preservar los vinos, evitar el contacto con el oxígeno y lograr una mayor longevidad
-- REGALO: Estuche de vino regalo gourmet para los paladares más exquisitos. Caja de vino ideal para regalar, cesta de navidad, regalos de empresa, regalo del día del padre, aniversarios
 - TIPO de UVA. 100% Tempranillo, con alma y frutosidad. Fruto de una variedad pura de tempranillo riojano, cosecha de 2018, se obtiene este vino único y de gran carácter
-- NOTA DE CATA VERDEJO: Vino de color amarillo verdoso, intensidad media, limpio, brillante y con presencia de lágrima. Intenso en nariz con aromas de jazmín, fruta blanca, anís, cítricos y notas de laurel, hinojo y hierba seca. En boca es fresco, con presencia de acidez y largo, en perfecto equilibrio alcohólico. En retronasal aparecen de nuevo cítricos y florales.
+- REGALO: Estuche de vino regalo gourmet para los paladares más exquisitos. Caja de vino ideal para regalar, cesta de navidad, regalos de empresa, regalo del día del padre, aniversarios
+- 100% VERDEJO. Sorprende por su marcado carácter herbal y floral, frente al resto de la D.O. que mantiene notas más tropicales y anisadas. Maceración prefermentativa en frío, generando así una mayor liberación de aromas varietales. Durante todo el proceso de elaboración se trabaja con gases inertes lo que permite preservar los vinos, evitar el contacto con el oxígeno y lograr una mayor longevidad
 - NOTA DE CATA CRIANZA. Rojo granate, con aromas de fruta negra fresca como la mora y la zarzamora, regaliz y notas dulces de nuez moscada. En paladar es intenso
+- NOTA DE CATA VERDEJO: Vino de color amarillo verdoso, intensidad media, limpio, brillante y con presencia de lágrima. Intenso en nariz con aromas de jazmín, fruta blanca, anís, cítricos y notas de laurel, hinojo y hierba seca. En boca es fresco, con presencia de acidez y largo, en perfecto equilibrio alcohólico. En retronasal aparecen de nuevo cítricos y florales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C7LQFC8N{{</world>}}

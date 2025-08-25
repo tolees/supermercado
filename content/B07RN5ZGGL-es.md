@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HIDRATANTE E INVISIBLE: protector solar para cuerpo y cara de niños y bebés, hidrata la piel sin efecto blanqueante, fácil de extender
-- TESTADO: fotoprotección avanzada testada en pieles sensibles y atópicas bajo control pediátrico, dermatológico y oftalmológico
-- FILTROS 100% MINERALES: fórmula de alta tolerancia, con filtros exclusivamente minerales y activos específicos para cuidar la barrera de la piel desde los 3 meses de edad
-- PROTECCIÓN 360°: con Fernblock(R)+ filtros específicos y activos reparadores y antioxidantes, protege frente a las 4 radiaciones, neutraliza y repara el daño solar
 - ULTRALIGERA Y RESISTENTE: crema solar corporal y facial con fórmula ultrafluida, muy resistente al agua y a la arena, no pica en los ojos
+- HIDRATANTE E INVISIBLE: protector solar para cuerpo y cara de niños y bebés, hidrata la piel sin efecto blanqueante, fácil de extender
+- PROTECCIÓN 360°: con Fernblock(R)+ filtros específicos y activos reparadores y antioxidantes, protege frente a las 4 radiaciones, neutraliza y repara el daño solar
+- FILTROS 100% MINERALES: fórmula de alta tolerancia, con filtros exclusivamente minerales y activos específicos para cuidar la barrera de la piel desde los 3 meses de edad
+- TESTADO: fotoprotección avanzada testada en pieles sensibles y atópicas bajo control pediátrico, dermatológico y oftalmológico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RN5ZGGL{{</world>}}

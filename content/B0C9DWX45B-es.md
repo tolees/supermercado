@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sabor ácido, muy refrescante y con la genuina burbuja Schweppes. Un refresco lleno de matices con un sabor equilibrado
-- El refresco de limón Schweppes contiene 100% de aromas naturales
-- Refresco cítrico con un sabor intenso a limón y muy refrescante
 - Bebida refrescante baja en calorías. Schweppes Limón tiene un contenido bajo en calorías
 - Ideal para consumirla sola o mezclada con alcohol con mucho hielo y una rodaja de limón. Perfecta para cualquier momento del día. En tu aperitivo en el bar, con los amigos después del trabajo y con tu copa los fines de semana
+- El refresco de limón Schweppes contiene 100% de aromas naturales
+- Refresco cítrico con un sabor intenso a limón y muy refrescante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9DWX45B{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elaborado con los mejores ingredientes
+- Ideal para disfrutarlo con amigos o acompañado de una taza de buen café
 - La siguiente información se aplica a cada unidad del paquete
 - Con un fuerte aroma y intenso sabor a cacao
-- Ideal para disfrutarlo con amigos o acompañado de una taza de buen café
 - Disfruta de un placer para los sentidos con un chocolate vegano finísimo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene HMO 2´FL, el oligosacárido estructuralmente idéntico al más abundante en la leche materna
-- Contiene Bífidus lactis, una bifidobacteria que forma parte de la flora intestinal - Este probiotico está avalado por numerosos estudios cientificos
-- NIDINA 2 tiene también Vitaminas C y D que contribuyen a la función normal del sistema inmunitario - Además contiene Hierro y Zinc
 - Además incorpora DHA - La ingesta de ácido docosahexaenoico (DHA) contribuye al desarrollo visual normal de los niños hasta los 12 meses de edad - El efecto beneficioso se obtiene con una dosis diaria de 100 mg de DHA
+- NIDINA 2 tiene también Vitaminas C y D que contribuyen a la función normal del sistema inmunitario - Además contiene Hierro y Zinc
+- Contiene HMO 2´FL, el oligosacárido estructuralmente idéntico al más abundante en la leche materna
 - Nestlé NIDINA 2 es una formula infantil PROTECT PLUS indicada para bebés desde los 6 meses
+- Contiene Bífidus lactis, una bifidobacteria que forma parte de la flora intestinal - Este probiotico está avalado por numerosos estudios cientificos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00ISP69JK{{</world>}}

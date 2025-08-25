@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de la marca Santiveri
-- Instrucciones para su uso adecuado: Conservar en un lugar fresco y seco; Advertencia de seguridad: Conservar en un lugar fresco y seco
-- Estuche de 250 gramos.
 - Elaborado con productos naturales
-- Producto Para El Cuidado Y Bienestar De Tu Cuerpo
 - Marca: Santiveri.
+- Instrucciones para su uso adecuado: Conservar en un lugar fresco y seco; Advertencia de seguridad: Conservar en un lugar fresco y seco
+- Producto Para El Cuidado Y Bienestar De Tu Cuerpo
+- Producto de la marca Santiveri
+- Estuche de 250 gramos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00DN9GXO2{{</world>}}

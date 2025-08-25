@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Combate las imperfecciones y reduce las marcas
+- Sin parabenos
 - Para pieles mixtas
 - Purifica, desincrusta y matifica la piel
-- Sin parabenos
-- Combate las imperfecciones y reduce las marcas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X9TPC9S{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tiene una textura cremosa
+- Listo para servir
 - Ideal con hielo
 - Adecuado como regalo
-- Listo para servir
-- Tiene una textura cremosa
 - De sabor dulce
 
 [🛒 Aquí!!!]({{< param buyurl >}})

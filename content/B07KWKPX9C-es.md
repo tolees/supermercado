@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Probado oftálmico
-- Purifica la piel en profundidad
 - Formula sin alcohol y perfume
+- Purifica la piel en profundidad
 - Elimina incluso el maquillaje resistente al agua
+- Probado oftálmico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KWKPX9C{{</world>}}

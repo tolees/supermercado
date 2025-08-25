@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MODO DE USO: Si lo usas como ingrediente: usar 3 gramos (1 cucharadita) por cada 100g de comida. Si lo usas como Topping: ¡Espolvorea al gusto!
-- INGREDIENTES: Harina de maíz, sal y aromas.
-- NUEVO ENVASE: para que puedas ahorrar espacio en la cocina y con dispensador que hará que utilizar esté sazonador sea toda una experiencia
 - MODO DE CONSERVACIÓN: En un lugar fresco (máximo a 20ºC) y seco, protegido de fuentes de luz. De esta forma se garantiza que el producto conserve todas suspropiedades como mínimo durante 24 meses desde la fecha de envasado.
+- INGREDIENTES: Harina de maíz, sal y aromas.
 - EXCELENTE CALIDAD: Sin aditivos, ni alérgenos y 100% Vegetal. Nuestras especias y sazonadores están creadas con material prima de excelente calidad y siguen un riguroso control de calidad, para que disfrutes de todo el aroma y sabor.
+- NUEVO ENVASE: para que puedas ahorrar espacio en la cocina y con dispensador que hará que utilizar esté sazonador sea toda una experiencia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DT7KDQ5L{{</world>}}

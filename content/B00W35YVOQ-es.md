@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para pieles grasas y con tendencia acneica.
-- Reduce el exceso de sebo con acción antibrillos hasta 8 horas.
 - Tiene una textura ultraligera y de rápida absorción con un acabado de tacto seco.
 - Proporciona un tacto seco matificante de larga duración y un efecto antibrillos.
+- Para pieles grasas y con tendencia acneica.
+- Reduce el exceso de sebo con acción antibrillos hasta 8 horas.
 - Protector solar facial de uso diario con un factor de protección elevado contra los daños solares.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

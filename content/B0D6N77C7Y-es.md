@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- con estampado y con el bajo redondeado
 - Blusa de manga corta con volante
 - con cuello redondo con abertura en el escote con lazo con borlas
+- con estampado y con el bajo redondeado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6N77C7Y{{</world>}}

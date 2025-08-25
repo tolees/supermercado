@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Previene infecciones
-- Adultos y adolescentes
 - Para uso diario de la zona íntima
 - Testado dermatológicamente
+- Adultos y adolescentes
 - Respeta el ph natural
 
 [🛒 Comprar!!!]({{< param buyurl >}})

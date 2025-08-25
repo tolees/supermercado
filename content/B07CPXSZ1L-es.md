@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con zumo natural de limón
 - Tiene sabor dulce y suave
-- Pack de 24 x 33 cl
 - Cerveza tipo lager mezcla
+- Pack de 24 x 33 cl
+- Con zumo natural de limón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CPXSZ1L{{</world>}}

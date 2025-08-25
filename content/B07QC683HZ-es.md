@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mejora la hidratación de la piel
 - Cuidado de la piel y el cabello
-- Piel más suave y lisa
 - Dermatológicamete testado
+- Piel más suave y lisa
+- Mejora la hidratación de la piel
 - Con colágeno y lipo-proteínas naturales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

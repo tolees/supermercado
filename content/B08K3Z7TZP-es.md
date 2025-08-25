@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Amplio con un postgusto muy afrutado
-- Volumen: 0.75 liters
+- Unidades: 6.0
 - Procedencia: spain
 - Excelente acidez que lo hace muy refrescante
-- Como servir: servir entre 6- 8 c
-- Contenido de alcohol (alc/vol): 11.6 percent_by_volume
-- Volumen paquete: 4500.0 milliliters; tipo de alcohol: white wines
-- Aromas florales a azahar y matices a frutas tropicales como la piña o el melocotón
 - Color amarillo pálido muy brillante y limpio
-- Unidades: 6.0
+- Amplio con un postgusto muy afrutado
+- Aromas florales a azahar y matices a frutas tropicales como la piña o el melocotón
+- Contenido de alcohol (alc/vol): 11.6 percent_by_volume
+- Volumen: 0.75 liters
+- Como servir: servir entre 6- 8 c
+- Volumen paquete: 4500.0 milliliters; tipo de alcohol: white wines
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08K3Z7TZP{{</world>}}

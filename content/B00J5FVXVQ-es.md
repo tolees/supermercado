@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Inhibe la formación de biofilm y produce una acción antiplaca
-- Coadyuvante en tratamiento de gingivitis y periodontitis
 - Potente acción antiséptica gracias a la acción de la Clorhexidina al 0,2%
+- Coadyuvante en tratamiento de gingivitis y periodontitis
 - Eficacia clínicamente probada; Sin Gluten
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

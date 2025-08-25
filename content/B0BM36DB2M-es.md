@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- producto 1: Tiene un 40% menos kcal que el vino
-- producto 1: Bebida natural de manzana
-- producto 2: 0,0% de alcohol en volumen
 - producto 2: Con aroma a plantas aromáticas y sabor con matices dulces y ligeramente amargos
-- producto 2: De color dorado, con una espuma blanca consistente
+- producto 2: 0,0% de alcohol en volumen
 - producto 1: No contiene gluten.
-- producto 1: Naturalmente refrescante
+- producto 2: De color dorado, con una espuma blanca consistente
 - producto 2: Cerveza tipo Lager y estilo rubia, 100% Malta
+- producto 1: Bebida natural de manzana
+- producto 1: Naturalmente refrescante
+- producto 1: Tiene un 40% menos kcal que el vino
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BM36DB2M{{</world>}}

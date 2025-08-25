@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- CONTRA EL INSOMNIO: La melatonina ayuda a regular el ciclo del sueño, ayudándote a descansar mientras duermes.
+- MELATONIN GUMMIES de Weider, compañía global pionera en nutrición deportiva y especializada con más de 85 años ofreciendo calidad e innovación.
 - ¿CUÁNDO TOMARLA?: Se recomienda tomar una gominola (=1mg de melatonina) 30 minutos antes de ir a la cama.
 - SIN AZÚCAR, SIN GLUTEN: Las gominolas no contienen ni azúcar ni gluten, y se fabrican con los más altos estandares de calidad.
-- MELATONIN GUMMIES de Weider, compañía global pionera en nutrición deportiva y especializada con más de 85 años ofreciendo calidad e innovación.
-- CONTRA EL INSOMNIO: La melatonina ayuda a regular el ciclo del sueño, ayudándote a descansar mientras duermes.
 - CONTRA EL JET-LAG: La melatonina es tu mejor aliada para esos viajes largos en los que tanto te cuesta coger el sueño. ¡Con nuestras gominolas de melatonina eso ya no será un problema!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

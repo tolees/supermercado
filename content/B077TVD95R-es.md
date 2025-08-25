@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Listo para consumir
-- Se puede usar para preparar postres
 - Con un sabor fresco
 - No contiene lactosa
+- Se puede usar para preparar postres
 - Ideal para toda la familia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

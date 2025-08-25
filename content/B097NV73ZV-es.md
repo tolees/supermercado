@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Proteger de la luz solar y de olores agresivos.
+- Evitar el contacto directo con el suelo.
 - No congelar
 - Proteger de la luz solar y de olores agresivos.
-- Evitar el contacto directo con el suelo.
+- Proteger de la luz solar y de olores agresivos.
 - No congelar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporte ventilado para un secado rápido
 - Se desmonta para fácil itar la limpieza
 - Base antideslizante
 - Apto para guardar cepillos de dientes eléctricos o con pilas y tubos de pasta de dientes
+- Soporte ventilado para un secado rápido
 - Acabado en acero inoxidable con un revestimiento antihuellas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DELICIOSAMENTE RAW - Fruta y frutos secos prensados en frío
-- SIN AZÚCARES AÑADIDOS - sólo contiene azúcares naturales de la fruta
-- EL SNACK PERFECTO - Empaquetado individualmente para llevar en bolsos; mochilas; lunchboxes o para formatos on-the-go
 - INGREDIENTES 100% NATURALES - Sin gluten, sin lácteos, vegano, raw, fuente de fibra, sin conservantes, sin colorantes añadidos
+- DELICIOSAMENTE RAW - Fruta y frutos secos prensados en frío
+- EL SNACK PERFECTO - Empaquetado individualmente para llevar en bolsos; mochilas; lunchboxes o para formatos on-the-go
+- SIN AZÚCARES AÑADIDOS - sólo contiene azúcares naturales de la fruta
 - VEGANO - Para todos; incluidos los veganos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

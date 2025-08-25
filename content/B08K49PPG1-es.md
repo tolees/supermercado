@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esmalte de uñas
 - Aplicación suave
-- Color y acabado brillante
 - Secado rápido, 45 segundos
+- Esmalte de uñas
+- Color y acabado brillante
 - Pincel de aplicación y acabado óptimos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

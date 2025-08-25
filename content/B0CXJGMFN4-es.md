@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Referencia: S05121555
-- Coloración Permanente en Crema de la marca Garnier
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Color: Multicolor
+- Coloración Permanente en Crema de la marca Garnier
 - Medidas: 11,5 x 12 x 11,5 centímetros
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Referencia: S05121555
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CXJGMFN4{{</world>}}

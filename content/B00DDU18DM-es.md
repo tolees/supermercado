@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Refleja la luz como nunca antes gracias a su exclusivo complejo de pigmentos reflectantes
-- Captura el estilo y el look único de Kate Moss
 - Color intenso hasta 8 horas
+- Captura el estilo y el look único de Kate Moss
 - Colección de labiales diseñados por Kate Moss
+- Refleja la luz como nunca antes gracias a su exclusivo complejo de pigmentos reflectantes
 - Color intenso, labio hidratado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

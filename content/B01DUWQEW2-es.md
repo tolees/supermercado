@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las clásicas galletas MarieLu en formato familiar, para que nunca te falten y toda la familia pueda disfrutar su increible sabor
 - Conservar en lugar fresco y seco. Alérgenos: contiene gluten, leche y soja
 - Perfectas para disfrutar con un vaso de leche o bebida vegetal, en el desayuno, merienda o como tentempié
+- Las clásicas galletas MarieLu en formato familiar, para que nunca te falten y toda la familia pueda disfrutar su increible sabor
 - Estas galletas son una deliciosa fuente de fibra con un 60% de cereales, para un desayuno saludable
 - Tus galletas de siempre ahora aún mejor, gracias a nuestro Compromiso Harmony
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca, Byly
-- Género, Unisex
 - Byly es un nombre de marca reconocido
+- Género, Unisex
+- Marca, Byly
 - Tipo de producto, Lote 2 piezas desodorante spray
 
 [🛒 Visítala!!!]({{< param buyurl >}})

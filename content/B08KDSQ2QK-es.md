@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Mascarilla intensiva regeneradora para cabello dañado
-- Unidad del producto: 500 ml
 - Máscara para cabello dañado fortalece el cabello debilitado, excelente producto de belleza para cabello suave
+- Unidad del producto: 500 ml
 - Deja un brillo sedoso y de alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

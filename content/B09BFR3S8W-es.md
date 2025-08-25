@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Temperatura óptima de servicio: 8-10 C
-- Vino intenso donde predominan los aromas varietales del Verdejo (hierbabuena, hinojo), con un fondo de cítricos y frutas tropicales (mango)
 - Un blanco para disfrutar con arroces, mariscos, carpaccios, verduras en menestra, wok o témpura
 - Varietales: 90% Verdejo y 10% Viura
+- Vino intenso donde predominan los aromas varietales del Verdejo (hierbabuena, hinojo), con un fondo de cítricos y frutas tropicales (mango)
 - Un vino de gran frescura, que se muestra agradable y expresivo en boca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

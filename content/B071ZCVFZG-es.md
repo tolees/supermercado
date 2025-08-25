@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elimina las manchas para que tus prendas duren más tiempo
-- Reduce el consumo de plásticos con este formato rellenable de detergente líquido de 5L.
 - Adecuado para prendas blancas y que no destiñen. Utiliza ECOVER lana y seda para tejidos delicados. No dejes que el producto se seque en la ropa. Consulta siempre las instrucciones de lavado de la prenda. Apto para 30-60 °C. Acabados ignífugos: nunca remojar ni lavar a más de 50 °C. 1 tapón = 40 ml Carga estándar (4-5kg ) - Agua Blanda-Media = 50ml (2x 25ml) Carga más grande ( 6x8kg ), carga más sucia/ agua dura =70ml (2 x 35ml)
-- No testado en animales
-- Fragancia Honeysuckle & Jasmine
-- Apto para veganos
 - Combate las manchas ayudando a que la ropa dure más tiempo
-- Fabricado en una fábrica certificada de cero residuos
-- Elaborado con ingredientes biodegradables a base de plantas
+- Reduce el consumo de plásticos con este formato rellenable de detergente líquido de 5L.
 - ECOVER Detergente Líquido Universal contiene ingredientes activos a base de plantas para ayudar que tu ropa dure más. Lucha contra las manchas difíciles, y reviven los colores y el brillo. Elimina las pelusas de las fibras de algodón después de varios lavados.
+- Fragancia Honeysuckle & Jasmine
+- Elimina las manchas para que tus prendas duren más tiempo
+- Elaborado con ingredientes biodegradables a base de plantas
+- Fabricado en una fábrica certificada de cero residuos
+- Apto para veganos
+- No testado en animales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071ZCVFZG{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tomar una gummy 30 minutos antes de irse a dormir. Gracias a sus ingredientes naturales, se pueden tomar a diario.
 - No superar la dosis diaria recomendada. Mantener fuera del alcance de los niños menores de 3 años.
+- Tomar una gummy 30 minutos antes de irse a dormir. Gracias a sus ingredientes naturales, se pueden tomar a diario.
 - Sin saborizantes artificiales, colorantes, edulcorantes, conservantes, sin lactosa, sin gluten. Sabor natural a frutos del bosque.
 - Pastillas para dormir que ayuda a conciliar el sueño rápidamente, regulando el ciclo natural del sueño. Sin sentirte somnoliento al despertar, sin crear dependencia.
 - Formato: 72 gummies + Cajita de viaje

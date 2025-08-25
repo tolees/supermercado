@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Este jabón preserva la hidratación natural de la piel
 - Deja las manos limpias
+- Con almendras y jalea real
 - Deja las manos hidratadas
 - Con protección total contra agentes externos
-- Con almendras y jalea real
-- Este jabón preserva la hidratación natural de la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZQD5S9P{{</world>}}

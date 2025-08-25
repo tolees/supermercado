@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Aromas de dulces e intensas grosellas negras
-- Un claro ejemplo de un vino actual
 - Con un toque elegante a roble
-- Brillante color rojo rubí
 - Armonioso y bien estructurado con un placentero retrogusto
+- Brillante color rojo rubí
+- Un claro ejemplo de un vino actual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08K3ZHM19{{</world>}}

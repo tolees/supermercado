@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La botella puede ser diferente
 - Licores
+- La botella puede ser diferente
 - Bushmills Original
 
 [🛒 Visítala!!!]({{< param buyurl >}})

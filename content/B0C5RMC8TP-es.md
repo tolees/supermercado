@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ¡Lata y tapa 100% reciclables!
-- Cacao natural obtenido 100 % de forma sostenible, certificado por la Rainforest Alliance.
 - Sin gluten.
+- Cacao natural obtenido 100 % de forma sostenible, certificado por la Rainforest Alliance.
 - Disfruta de la experiencia más intensa de Nesquik con Nesquik Intenso 100% cacao.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

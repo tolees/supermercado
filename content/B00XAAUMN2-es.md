@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El sabor es de barbacoa original con especias suaves
-- Conservar en lugar fresco y seco
-- Preparación rápida y fácil en 15 minutos
 - Incluye tortillas, paquete de condimentos y salsa
 - El producto está hecho sin conservantes
+- Preparación rápida y fácil en 15 minutos
+- Conservar en lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XAAUMN2{{</world>}}

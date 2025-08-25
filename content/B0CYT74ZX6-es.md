@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 0,0 % de alcohol en volumen
-- Color ámbar brillante, espuma compacta y cremosa, aroma intenso y agradable que le aporta el tueste de la malta; con cuerpo y amargo moderado
 - Cerveza 100% malta
-- Ingredientes Naturales: Agua, malta de cebada, levadura, lúpulo y extracto de lúpulo
 - Consumirla entre 0° y 3°C para obtener sus óptimas cualidades
+- Color ámbar brillante, espuma compacta y cremosa, aroma intenso y agradable que le aporta el tueste de la malta; con cuerpo y amargo moderado
+- Ingredientes Naturales: Agua, malta de cebada, levadura, lúpulo y extracto de lúpulo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYT74ZX6{{</world>}}

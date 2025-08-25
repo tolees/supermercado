@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Globalmente Dove no testa en animales
-- Loción Corporal Coco Ritual Restaurador 400ml
 - La fórmula se absorbe en tu piel rápidamente, dejándola suave y bonita
-- Loción corporal apta para todo tipo de pieles; botella 100% plástico reciclado
-- Su fórmula contiene aceite de coco y leche de almendras
+- Loción Corporal Coco Ritual Restaurador 400ml
 - Hidrata profundamente la piel
+- Su fórmula contiene aceite de coco y leche de almendras
+- Loción corporal apta para todo tipo de pieles; botella 100% plástico reciclado
+- Globalmente Dove no testa en animales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BJGJ6H1{{</world>}}

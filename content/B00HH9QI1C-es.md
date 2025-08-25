@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Permite transformar desinfectantes y detergentes en una potente espuma para facilitar la limpieza y desinfección de todas las superficies externas
+- Recipiente de 0,6 l de capacidad
 - Compatible con las hidrolimpiadoras de Kärcher y adecuado para vehículos, porches acristalados, muebles de jardín, fachadas, escaleras, caravanas, caminos, muros, persianas, terrazas, entradas, etc
 - Boquilla de espuma FJ 6 para limpiar con espuma y sin esfuerzo superficies de todo tipo: pintura, vidrio o piedra.
-- Recipiente de 0,6 l de capacidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00HH9QI1C{{</world>}}

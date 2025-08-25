@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caramelos de goma en forma de ositos recubiertos de azúcar
 - Irresistible sabor a frutas
+- Caramelos de goma en forma de ositos recubiertos de azúcar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08JZJP1Y1{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula de fibras de alta duración
 - Contiene un aplicador mini talla ultra preciso que ayuda a realizar una aplicación precisa
-- Aspecto natural y sensación ligera
+- Fórmula de fibras de alta duración
 - Muy fácil de utilizar y de retirar
+- Aspecto natural y sensación ligera
 - Genera un efecto volumen, cejas más intensas y definidas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

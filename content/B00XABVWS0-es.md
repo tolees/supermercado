@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - De textura cremosa
-- Listo para servir
 - Elaborada con verduras frescas
 - Sin colorantes ni conservantes
+- Listo para servir
 - Es un producto natural
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

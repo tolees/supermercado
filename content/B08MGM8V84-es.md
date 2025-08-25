@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Género; Unisex. Adulto e infantil.
-- Libre de parabenos. Dermatológicamente testado. Crea mucha espuma.
-- Gel muy perfumado con perfume de algodón de azúcar de feria. Exquisita y Dulce Fragancia.
-- No testado en animales. Vegano. Fabricación íntegra en España
 - Gel de baño y ducha nutriente, aporta gran suavidad a la piel dejándola muy perfumada.
+- Libre de parabenos. Dermatológicamente testado. Crea mucha espuma.
+- No testado en animales. Vegano. Fabricación íntegra en España
+- Género; Unisex. Adulto e infantil.
+- Gel muy perfumado con perfume de algodón de azúcar de feria. Exquisita y Dulce Fragancia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08MGM8V84{{</world>}}

@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No testado en animales
-- Fragancia Honeysuckle & Jasmine
-- Elaborado con ingredientes biodegradables a base de plantas
-- Elimina las manchas para que tus prendas duren más tiempo
-- Combate las manchas y el blanqueamiento, ayudando a que la ropa dure más tiempo
-- ECOVER Detergente Líquido Universal contiene ingredientes activos a base de plantas para ayudar que tu ropa dure más. Lucha contra las manchas difíciles, y reviven los colores y el brillo. Elimina las pelusas de las fibras de algodón después de varios lavados.
-- Refill disponible. Reduce el consumo de plásticos rellenando tu botella con el formato de 5L.
-- Fabricado en una fábrica certificada de cero residuos. Botella fabricada con plástico 100% PCR y tapón con plástico PCR al 50%
-- Apto para veganos
 - Consejos de utilización: Conservar entre 5 °C y 25 °C. No apto para seda. No usar en textiles ignífugos. No vertir directamente sobre la tela. 1 tapón = 40 ml Carga estándar (4-5 kg) Suave = 30 ml. Extra suave = 60 ml (2 x 30 ml)
+- No testado en animales
+- Elaborado con ingredientes biodegradables a base de plantas
+- Combate las manchas y el blanqueamiento, ayudando a que la ropa dure más tiempo
+- Elimina las manchas para que tus prendas duren más tiempo
+- Fabricado en una fábrica certificada de cero residuos. Botella fabricada con plástico 100% PCR y tapón con plástico PCR al 50%
+- Refill disponible. Reduce el consumo de plásticos rellenando tu botella con el formato de 5L.
+- Apto para veganos
+- Fragancia Honeysuckle & Jasmine
+- ECOVER Detergente Líquido Universal contiene ingredientes activos a base de plantas para ayudar que tu ropa dure más. Lucha contra las manchas difíciles, y reviven los colores y el brillo. Elimina las pelusas de las fibras de algodón después de varios lavados.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RVYWV9K{{</world>}}

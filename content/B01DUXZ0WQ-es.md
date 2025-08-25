@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elena, la eficacia que sorprende
 - Detergente para la lavadora hipoalergénico en formato gel líquido
-- Eficaz en agua fría y ciclos cortos
-- Apto para ropa blanca y de color
 - Poder antimanchas testado en 101 manchas
+- Elena, la eficacia que sorprende
+- Apto para ropa blanca y de color
+- Eficaz en agua fría y ciclos cortos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUXZ0WQ{{</world>}}

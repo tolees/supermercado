@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sabor a jamón en cada bocado
-- Auténticas patatas fritas
 - Conservar en un lugar fresco y seco
+- Sabor a jamón en cada bocado
 - Ideal como snack
+- Auténticas patatas fritas
 - Bueno para casa o fuera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

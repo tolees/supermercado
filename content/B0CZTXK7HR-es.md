@@ -29,13 +29,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Maridaje ideal para carnes asadas, cordero, cerdo o ternera. Guisos y estofados, piezas de caza mayor, quesos curados.
-- Color rojo cereza oscuro, intenso, con ribete granate.
-- Aroma intenso, con toque a frutas negras, notas tostadas y lácteas, especias. Complejo y elegante.
-- En boca es un vino potente, sabor intenso, afrutado, tostado y especiado, con taninos redondeados, buena acidez, buena estructura y con final muy largo.
-- La temperatura de servicio recomendada es de 14 - 17ºC. Es un vino elegante y completo, elaborado para disfrutar, puede evolucionar favorablemente durante los próximos 7 - 10 años.
 - Crianza de al menos 18 meses en roble Francés y mínimo 42 meses en botella.
-- Variedad de uva 100% Tempranillo
+- La temperatura de servicio recomendada es de 14 - 17ºC. Es un vino elegante y completo, elaborado para disfrutar, puede evolucionar favorablemente durante los próximos 7 - 10 años.
+- Color rojo cereza oscuro, intenso, con ribete granate.
+- En boca es un vino potente, sabor intenso, afrutado, tostado y especiado, con taninos redondeados, buena acidez, buena estructura y con final muy largo.
+- Aroma intenso, con toque a frutas negras, notas tostadas y lácteas, especias. Complejo y elegante.
 - Vino Tinto DO Ribera del Duero
+- Variedad de uva 100% Tempranillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZTXK7HR{{</world>}}

@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Sabor: Balance perfecto entre amargor suave pero con sensación de cuerpo y muy equilibrada. La persistencia es fina, ligeramente dulce con acabado seco, que la hace refrescante.
 - Inspiración Alhambra: Inspirada en recetas clásicas alemanas, esta cerveza ofrece matices únicos gracias a su proceso de fermentación lenta.
+- Aroma: La fragancia aromática tiene un perfil seco con suaves notas afrutadas y un reflejo a levadura. Los aromas de lúpulo son leves aunque florales y se intensifican al tragar.
 - Apariencia: Cerveza dorada, brillante y con una espuma cremosa y consistente.
 - Pack de 24 botellines de 25 cl cl de cerveza Alhambra lager especial, lupulación y sabor equilibrados.
-- Aroma: La fragancia aromática tiene un perfil seco con suaves notas afrutadas y un reflejo a levadura. Los aromas de lúpulo son leves aunque florales y se intensifican al tragar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KX8FTHT{{</world>}}

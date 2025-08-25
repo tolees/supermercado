@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pastillas de la marca Fairy
-- Color: Multicolor
-- Medidas: 6 x 20 x 24 centímetros
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Medidas: 6 x 20 x 24 centímetros
+- Color: Multicolor
 - Referencia: S05128629
+- Pastillas de la marca Fairy
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DV9MNWMX{{</world>}}

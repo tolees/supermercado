@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se desmaquilla con un quitaesmalte con acetona
 - Esmalte de uñas de acabado gel
 - Secado luz ambiental, no se precisa de lámpara de luz UV. Hasta 14 días de duración
 - Aplicar 2 capas de color de Super Gel, seguido de la capa de Super Gel Top Coat para un acabado perfecto
+- Se desmaquilla con un quitaesmalte con acetona
 - Sistema de gel color patentado en dos pasos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

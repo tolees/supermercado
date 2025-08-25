@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Te recomendamos tomar tu Coca Cola fría con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
-- Disfruta con el refrescante sabor de toda la vida de Coca-Cola Original .
+- El pack incluye 12 latas de 33cl de Coca-Cola Original.
 - Disfruta de Coca-Cola Original en cualquier momento, incluso en casa
 - Nos preocupa el medio ambiente tanto como a tu, por eso nuestros envases son 100% reciclables, tíralos al contenedor amarillo
-- El pack incluye 12 latas de 33cl de Coca-Cola Original.
+- Disfruta con el refrescante sabor de toda la vida de Coca-Cola Original .
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XDNZQN2{{</world>}}

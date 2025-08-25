@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La posición extendida del cepillo alarga las pestañas
-- Apta para personas que usan lentes de contacto y ojos sensiibles
-- La posición rotada del cepillo intensifca y da volumen a las pestañas
 - Probada por oftalmólogos
+- La posición rotada del cepillo intensifca y da volumen a las pestañas
+- Apta para personas que usan lentes de contacto y ojos sensiibles
 - Máscara de pestañas con un cepillo con dos posiciones que hace que las pestañas sean más largas y voluminosas
+- La posición extendida del cepillo alarga las pestañas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09TPC8RSB{{</world>}}

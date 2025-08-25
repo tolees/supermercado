@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ACCIÓN BLANQUEADORA: Ayudar a eliminar las manchas superficiales de los dientes causadas por el consumo de alimentos y bebidas como el café, el té, el vino y otros, devolviendo a los dientes su color natural, brillo y suavidad
 - MODO DE USO: Aplicar sobre el cepillo dental y cepillar durante un mínimo de 2 minutos para obtener una limpieza óptima. Uso después de cada comida
-- LACER: Lacer, que nació en 1949, tiene el propósito de mejorar la salud de las personas cada día, cuidando de su bienestar. Porque nos importa la salud integral y del planeta, siempre con calidad y rigurosidad en nuestra actuación
 - FORMULADO CON: El contenido en fluor y xilitol refuerza el esmalte y proporciona una acción preventiva de caries. El citrato potásico previene la sensibilidad dental. La vitamina E y pantenol aportan protección a las encías
 - PASTA DENTÍFRICA: Elimina las manchas dentales; previene y elimina la placa bacteriana. Previene la aparición de sarro y sensibilidad dental. Protege las encías y previene contra la caries.
-- ACCIÓN BLANQUEADORA: Ayudar a eliminar las manchas superficiales de los dientes causadas por el consumo de alimentos y bebidas como el café, el té, el vino y otros, devolviendo a los dientes su color natural, brillo y suavidad
+- LACER: Lacer, que nació en 1949, tiene el propósito de mejorar la salud de las personas cada día, cuidando de su bienestar. Porque nos importa la salud integral y del planeta, siempre con calidad y rigurosidad en nuestra actuación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00PYDB5SY{{</world>}}

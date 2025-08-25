@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CREMA HIDRATANTE FACIAL MUJER: Crema facial mujer con Acido Glicolico encapsulado en liposomas, que favorece la penetración y eficacia del activo. Efecto antiarrugas e hidratante. Renueva y regenera la piel del rostro
-- ACIDO GLICOLICO: Formulada con Ácido Glicólico, Bisabolol, extracto de raíz de Jengibre, Esteroles y Vitamina E. Despigmentante facial que uniforma el tono de la piel.
-- ANTIMANCHAS, ANTIEDAD Y RENUEVA LA PIEL: Esta crema facial calma, previene irritaciones y fortalece la barrera cutánea. Además, tiene un efecto antimanchas, proporcionando un tono uniforme.
 - USO DÍA Y NOCHE - 50ML: Aplicar la crema facial sobre la piel limpia del rostro, cuello y escote en la skincare de noche, masajear suavemente hasta su completa absorción. Evitar el contacto con los ojos.
+- CREMA HIDRATANTE FACIAL MUJER: Crema facial mujer con Acido Glicolico encapsulado en liposomas, que favorece la penetración y eficacia del activo. Efecto antiarrugas e hidratante. Renueva y regenera la piel del rostro
+- ANTIMANCHAS, ANTIEDAD Y RENUEVA LA PIEL: Esta crema facial calma, previene irritaciones y fortalece la barrera cutánea. Además, tiene un efecto antimanchas, proporcionando un tono uniforme.
+- ACIDO GLICOLICO: Formulada con Ácido Glicólico, Bisabolol, extracto de raíz de Jengibre, Esteroles y Vitamina E. Despigmentante facial que uniforma el tono de la piel.
 - HIDRATACIÓN INTENSA: Además, es una crema hidratante facial mujer que proporciona una profunda hidratación y un efecto antioxidante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

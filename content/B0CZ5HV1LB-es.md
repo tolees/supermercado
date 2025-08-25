@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de aplicar
 - Para un maquillaje óptimo
+- Fácil de aplicar
 - Maquillaje para el rostro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

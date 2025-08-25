@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Complemento alimenticio a base de vegetales y vitaminas, rico en isoflavonas de soja, que ayudan a paliar los síntomas habituales durante los periodos de perimenopausia y menopausia
-- Con vitaminas E, B6 y D3, que alivian la sequedad cutánea, reducen la irritabilidad y favorecen la fijación de calcio en los huesos
+- Sin gluten y sin lactosa. Tomar 1 cápsula al día acompañada de un vaso de agua
 - Extracto de SOJA 150 mg; isoflavonas 60 mg; extracto de lúpulo 85 mg; 8-prenilnaringenina (8-PN) 0,13 mg; aceite de onagra 15 mg; ácido γ-linolénico 1,35 mg; extracto de rosa centifolia 12,5 mg; Vitamina E 12 mg α-TE 100%; Vitamina D 5,0 µg 100%; Vitamina B6 1,4 mg 100%
 - Indicado para tratar los síntomas asociados con la menopausia: sofocos, sequedad, irritabilidad, cambios de humor, conciliación de sueño, falta de calcio, etc
+- Complemento alimenticio a base de vegetales y vitaminas, rico en isoflavonas de soja, que ayudan a paliar los síntomas habituales durante los periodos de perimenopausia y menopausia
 - Formulado con isoflavonas de soja, que contrarrestan los síntomas asociados con el climaterio
-- Sin gluten y sin lactosa. Tomar 1 cápsula al día acompañada de un vaso de agua
+- Con vitaminas E, B6 y D3, que alivian la sequedad cutánea, reducen la irritabilidad y favorecen la fijación de calcio en los huesos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01EHSNR3C{{</world>}}

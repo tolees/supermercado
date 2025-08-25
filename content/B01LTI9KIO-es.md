@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alimento principal para loros, con valiosos cereales y semillas
-- Somos líderes del mercado en bocadillos para perros 2023
-- En bolsa de aroma refrescante resellable
 - Renunciamos a la adición de azúcar y sabores artificiales, colorantes y conservantes
+- Somos líderes del mercado en bocadillos para perros 2023
+- Alimento principal para loros, con valiosos cereales y semillas
+- En bolsa de aroma refrescante resellable
 - Contiene vitaminas, minerales y oligoelementos esenciales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

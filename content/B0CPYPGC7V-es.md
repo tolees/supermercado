@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Base en polvo Always Fabulous con fórmula optimizada
 - Nos encanta que estés radiante durante todo el día y por eso esta cobertura es de 24 horas
 - Para una piel mate y un acabado natural
-- Incluye Fotoprotección solar 20; es resistente al agua y anti-polución
 - Producto está enrriquecido con ácido hilaurónico
+- Incluye Fotoprotección solar 20; es resistente al agua y anti-polución
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPYPGC7V{{</world>}}

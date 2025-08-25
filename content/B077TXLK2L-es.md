@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elaborada según una receta tradicional
 - Sabor agradable y buen equilibrio en boca
-- Ideal para servir fría
+- Elaborada según una receta tradicional
 - Cerveza brillante con aspecto dorado
 - Con espuma cremosa
+- Ideal para servir fría
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B077TXLK2L{{</world>}}

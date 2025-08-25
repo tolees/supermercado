@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ácidos esenciales
-- Aporta hidratación a la piel
-- Vitamina E
 - Contiene antioxidantes
+- Vitamina E
+- Aporta hidratación a la piel
+- Ácidos esenciales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09Q59RV4N{{</world>}}

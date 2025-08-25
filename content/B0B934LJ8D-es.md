@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- producto 1: Indicado para mujeres que sufren relaciones dolorosas debido a la cambios hormonales, menopausia, por el uso de tampones, periodos de estrés, tratamientos farmacológicos etc
-- producto 1: Mantiene la zona íntima suave e hidratada, no altera la integridad del preservativo
 - producto 1: Gel lubricante íntimo que alivia la deshidratación vaginal y favorece las relaciones sexuales dolorosas y que cursan con sequedad
+- producto 2: Hidratante vulvo-vaginal para la falta de lubricación y para la dispareunia, el dolor durante las relaciones sexuales
 - producto 1: Misma textura y filancia a las secreciones vaginales naturales
 - producto 2: Indicado para la sequedad causada por menopausia, atrofia vaginal, disminución del funcionamiento ovárico, tratamiento con antidepresivos o por el estilo de vida (estrés, tabaco, alcohol, etc)
-- producto 2: Producto de calidad
-- producto 2: Hidratante vulvo-vaginal para la falta de lubricación y para la dispareunia, el dolor durante las relaciones sexuales
+- producto 1: Indicado para mujeres que sufren relaciones dolorosas debido a la cambios hormonales, menopausia, por el uso de tampones, periodos de estrés, tratamientos farmacológicos etc
 - producto 2: Formulado con ácido hialurónico, estearato de sacarosa y glicerina, activos que combaten los síntomas de la sequedad, picor, irritación, escozor y atrofia vaginal
+- producto 2: Producto de calidad
+- producto 1: Mantiene la zona íntima suave e hidratada, no altera la integridad del preservativo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B934LJ8D{{</world>}}

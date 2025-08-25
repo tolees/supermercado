@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El pack incluye 4 botellas de 2 litros de Coca-Cola Zero Zero
-- Disfruta con el refrescante sabor original de Coca-Cola sin azúcar
 - Nos preocupa el medio ambiente tanto como a tu, por eso nuestros envases son 100% reciclables, tíralos al contenedor amarillo
 - Te recomendamos tomar tu Coca Cola fría con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
+- Disfruta con el refrescante sabor original de Coca-Cola sin azúcar
+- El pack incluye 4 botellas de 2 litros de Coca-Cola Zero Zero
 - Disfruta de Coca-Cola Zero en cualquier momento, incluso en casa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

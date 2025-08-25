@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido del paquete: 6 x 180g
-- Con kelp, una fuente natural de vitaminas y minerales
-- Guardar en un lugar fresco, seco y oscuro
 - Alimento complementario para perros adultos
+- Contenido del paquete: 6 x 180g
+- Con frutas: contiene extractos cítricos ricos en bioflavonoides y manzana como una fuente de antioxidantes naturales
+- Componentes analíticos: Proteína 18,5 %, Contenido de grasa 2,7 %, Materia inorgánica 6 %, Humedad 19 %, Fibra bruta 2,3 % .Valor energético: 268 kcal por 100 g
 - Fabricado en España
 - Bajo en grasa. Sin Cereales
-- Con frutas: contiene extractos cítricos ricos en bioflavonoides y manzana como una fuente de antioxidantes naturales
-- Enriquecido con vitaminas y minerales
 - Ayuda a reducir la formación de placa dental
-- Componentes analíticos: Proteína 18,5 %, Contenido de grasa 2,7 %, Materia inorgánica 6 %, Humedad 19 %, Fibra bruta 2,3 % .Valor energético: 268 kcal por 100 g
+- Con kelp, una fuente natural de vitaminas y minerales
+- Guardar en un lugar fresco, seco y oscuro
+- Enriquecido con vitaminas y minerales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07V6G9X1Y{{</world>}}

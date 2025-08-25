@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bebida de fresa hecha a partir de zumo de fresa, dulce sabor y aroma con todas sus propiedades
-- Bebida con zumo de fresa con un contenido de fruta de 40%. Este es el contenido óptimo de fruta para que su sabor y textura sea así de buena
-- Bebida con zumo de frutas concentrado en formato PET 750ml Agitar antes de usar, una vez abierto conservar en el frigorífico
-- Zumo de fresa como principal ingrediente, rica en minerales, potasio, calcio, fósforo y hierro
 - Zumos Pago - Bebida de Fresa a partir de Zumo de fresa Pack 6 x 750ml Especialidades
+- Bebida con zumo de fresa con un contenido de fruta de 40%. Este es el contenido óptimo de fruta para que su sabor y textura sea así de buena
+- Zumo de fresa como principal ingrediente, rica en minerales, potasio, calcio, fósforo y hierro
+- Bebida de fresa hecha a partir de zumo de fresa, dulce sabor y aroma con todas sus propiedades
+- Bebida con zumo de frutas concentrado en formato PET 750ml Agitar antes de usar, una vez abierto conservar en el frigorífico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6GQBWTX{{</world>}}

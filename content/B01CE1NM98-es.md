@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Johnnie Walker es una marca de whisky con más de 200 años de historia; su eslogan ha sido acuñado en todas partes para inspirar el progreso y el coraje ante la adversidad: Keep Walking. Nuestras variedades incluyen desde las etiquetas clásicas hasta las mezclas más exclusivas en ediciones limitadas Doble oro y mejor whisky de mezcla escocés en San Francisco World Spirits Competition Un whisky escocés blended elaborado a partir whiskies de malta envejecidos al menos 15 años Una mezcla equilibrada elaborada con whiskies entre los que se encuentran Talisker, Cragganmore, Linkwood y Caol Ila Aromas a hierba y fruta con humo de leña, pimienta, vainilla y sándalo Para disfrutarlo solo o con hielo
 - 27 Agiou Thoma Street, Agios Thomas, 151 24 Marousi Attica Greece
+- Johnnie Walker es una marca de whisky con más de 200 años de historia; su eslogan ha sido acuñado en todas partes para inspirar el progreso y el coraje ante la adversidad: Keep Walking. Nuestras variedades incluyen desde las etiquetas clásicas hasta las mezclas más exclusivas en ediciones limitadas Doble oro y mejor whisky de mezcla escocés en San Francisco World Spirits Competition Un whisky escocés blended elaborado a partir whiskies de malta envejecidos al menos 15 años Una mezcla equilibrada elaborada con whiskies entre los que se encuentran Talisker, Cragganmore, Linkwood y Caol Ila Aromas a hierba y fruta con humo de leña, pimienta, vainilla y sándalo Para disfrutarlo solo o con hielo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01CE1NM98{{</world>}}

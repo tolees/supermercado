@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cantidad: 750 ml
 - Producto de belleza
 - Material de calidad
-- Cantidad: 750 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08JZHJ7JN{{</world>}}

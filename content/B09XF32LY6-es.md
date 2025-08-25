@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fragancia afrutada: el cuidado de la ducha mima la piel y los sentidos con su espléndido aroma afrutado a fruta de la pasión y una espuma aterciopelada.
+- Piel y medio ambiente: por amor a la piel y el medio ambiente, la fórmula contiene 0% microplásticos y es 99% biodegradable*. La botella** está hecha de un 97% de plástico reciclado.
 - Contenido y detalles: gel de ducha NIVEA Passion Fruit (250 ml), cuidado de la piel sedosa con aceite monoi y vitaminas, gel de ducha hidratante, número de artículo 80853
 - Pasion Fruit – El gel de ducha NIVEA limpia y nutre suavemente la piel, dejando una sensación de piel pura y saludable – para una hidratación intensa.
 - PH neutro para la piel: gracias a su fórmula de pH neutro con vitaminas C & E y aceites, el gel de ducha hidratante proporciona una sensación suave en la piel.
-- Piel y medio ambiente: por amor a la piel y el medio ambiente, la fórmula contiene 0% microplásticos y es 99% biodegradable*. La botella** está hecha de un 97% de plástico reciclado.
+- Fragancia afrutada: el cuidado de la ducha mima la piel y los sentidos con su espléndido aroma afrutado a fruta de la pasión y una espuma aterciopelada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XF32LY6{{</world>}}

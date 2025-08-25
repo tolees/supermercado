@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sabor a fresa-nata
-- Cásicas piezas súper blandas y suaves en forma de tubo
-- Espumas dulces
 - Deliciosas y esponjosas nubes
+- Sabor a fresa-nata
+- Espumas dulces
+- Cásicas piezas súper blandas y suaves en forma de tubo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01ER53ATG{{</world>}}

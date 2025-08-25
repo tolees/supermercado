@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar sobre cabello húmedo. Distribuir en forma de estrella en el cuero cabelludo, masajeando para generar espuma y liberar las notas aromáticas, mientras se distribuye al resto del cabello. Emulsionar y aclarar. Para un mejor resultado combinar con el acondicionador Cicaflash o la mascarilla Ultra-Violet de Blond Absolu
 - Bain Lumière de Blond Absolu está diseñado para limpiar suavemente e iluminar los reflejos del cabello rubio con mechas o decolorado. Enriquecido con ácido hialurónico y flor de edelweiss, refuerza la fibra en profundidad, la protege de las agresiones externas y aporta flexibilidad y brillo
+- Aplicar sobre cabello húmedo. Distribuir en forma de estrella en el cuero cabelludo, masajeando para generar espuma y liberar las notas aromáticas, mientras se distribuye al resto del cabello. Emulsionar y aclarar. Para un mejor resultado combinar con el acondicionador Cicaflash o la mascarilla Ultra-Violet de Blond Absolu
 - Repara e hidrata la fibra capilar para evitar la rotura, dejando una sensación ligera e iluminando los tonos rubios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

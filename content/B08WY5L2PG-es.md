@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
-- ¡Prueba toda la gama Axe!
 - Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
 - Fórmula sin aluminio
+- ¡Prueba toda la gama Axe!
+- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
 - Con Tecnología Dual Action: Elimina el mal olor, fragancias irresistibles.
 - Clásica, sofisticada a la vez que adictiva fragancia, Axe Apollo se caracteriza por notas frescas de frutas verdes, sándalo y salvia para que huelas muy rico.
 

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con una fácil apertura
-- Tiene un contenido de vitaminas y minerales
-- Atún claro en aceite de oliva virgen
-- Conservar en lugar fresco y seco
 - Se puede utilizar en ensaladas o pasta
+- Conservar en lugar fresco y seco
+- Atún claro en aceite de oliva virgen
+- Tiene un contenido de vitaminas y minerales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA30CG6{{</world>}}

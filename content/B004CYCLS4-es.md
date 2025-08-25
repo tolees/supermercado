@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El color es amarillo con reflejos dorados
-- En boca es dulce y suave
+- Ideañ solo con hielo o como ingrediente para cócteles
 - En nariz predominan las notas de vainilla y cítricos
 - Adecuado como regalo
-- Ideañ solo con hielo o como ingrediente para cócteles
+- El color es amarillo con reflejos dorados
+- En boca es dulce y suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004CYCLS4{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apta para niños y adultos intolerantes a la lactosa
 - Mas fácil de coger, abrir y servir
 - Fuente de vitaminas
+- Apta para niños y adultos intolerantes a la lactosa
 - Leche facil de digerir
 - Sin lactosa
 

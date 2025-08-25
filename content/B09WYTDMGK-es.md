@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mascarilla capilar para pelo apagado y encrespado
 - Testada por el Swiss Vitamin Institute
+- Mascarilla capilar para pelo apagado y encrespado
 - Hasta 72 horas de brillo y suavidad en el pelo con un solo uso
 - Cura intensiva para controlar el encrespamiento y lucir un pelo suave y sedoso
 

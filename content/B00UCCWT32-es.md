@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para todo tipo de prendas incluso las más delicadas
 - Gior Detergente Líquido para Lavadoras para ropa Blanca y ropa de Color
 - Envase de 24 + 6 Lavados
+- Para todo tipo de prendas incluso las más delicadas
 - No daña los colores y consigue unos blancos brillantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

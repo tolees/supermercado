@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Respetuoso con el medio ambiente
 - Producto excepcional para pieles delicadas
 - Eficaz contra las manchas dificiles
-- Lagarto, más que un jabón, es un ritual
 - Pastilla de jabon natural de 400gr
+- Lagarto, más que un jabón, es un ritual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08GGSM8RM{{</world>}}

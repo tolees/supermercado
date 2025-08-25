@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🍺 ORO TOSTADA - Cerveza sin filtrar con un marcado color cobrizo y un sabor complejo. Destaca por sus intensos aromas a nuez y pan de especias, con notas de cacao amargo y melocotón seco, que la hacen ligeramente amarga y muy agradable al paladar.
-- ⭐ ORIGEN Y TRADICIÓN - Fundada en Bilbao en 1912, Oro Tostada trae consigo una rica historia y tradición cervecera. Su elaboración sin filtrar y su liturgia de servicio hacen de cada sorbo una experiencia única, uniendo la pasión por la cerveza con el disfrute de momentos especiales.
-- ❄️ FORMATO Y CONSUMO - Caja de 24 latas de 330 ml cada una. Para disfrutar plenamente de sus cualidades, se recomienda servirla cuidadosamente, dejando un poco de cerveza en la botella y almacenarla en un sitio seco o fresco.
 - 🌾 AROMA COMPLEJO - Se caracteriza por un aroma profundo y complejo, con toques de nuez, pan de especias, cacao amargo y melocotón seco, ofreciendo una experiencia gustativa rica y ligeramente amarga. Es ideal para acompañar platos robustos y sabrosos.
 - 🍃 ELABORACIÓN ARTESANAL - Hecha con agua, malta de cebada, arroz, lúpulo y contiene gluten. Este proceso de elaboración no filtra la levadura, lo que le confiere más cuerpo y sabor, además de una sensación sedosa, fluida y refrescante, manteniendo la levadura en suspensión para un aspecto velado característico de las cervezas sin filtrar
+- ⭐ ORIGEN Y TRADICIÓN - Fundada en Bilbao en 1912, Oro Tostada trae consigo una rica historia y tradición cervecera. Su elaboración sin filtrar y su liturgia de servicio hacen de cada sorbo una experiencia única, uniendo la pasión por la cerveza con el disfrute de momentos especiales.
+- ❄️ FORMATO Y CONSUMO - Caja de 24 latas de 330 ml cada una. Para disfrutar plenamente de sus cualidades, se recomienda servirla cuidadosamente, dejando un poco de cerveza en la botella y almacenarla en un sitio seco o fresco.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B096TDXK5S{{</world>}}

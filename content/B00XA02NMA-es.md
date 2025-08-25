@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se recomienda su consumo en Gin Tonic: 60 ml de Beefeater London; Tónica; Hielo; Piel de limón o lima
-- Tiene un sabor con matices afrutados de pera, notas frescas y herbales. La entrada en el paladar es nítida y definitiva. Seco y equilibrado botánicamente, su final es una bomba de enebro
 - La complejidad de la receta de Beefeater produce una ginebra multidimensional en carácter y, al mismo tiempo, equilibrada y completa
+- Se recomienda su consumo en Gin Tonic: 60 ml de Beefeater London; Tónica; Hielo; Piel de limón o lima
 - Color blanco platino
 - Aroma sutil y cítrico con elementos botánicos, cáscaras de naranja y limón, cilantro y almendras
+- Tiene un sabor con matices afrutados de pera, notas frescas y herbales. La entrada en el paladar es nítida y definitiva. Seco y equilibrado botánicamente, su final es una bomba de enebro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XA02NMA{{</world>}}

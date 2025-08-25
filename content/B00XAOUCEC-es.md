@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Residuo seco 28mg/l
 - Indicada para la preparación de alimentos infantiles
 - Se debe conservar en un lugar fresco y seco
 - Agua mineral natural de mineralización muy débil
-- Residuo seco 28mg/l
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAOUCEC{{</world>}}

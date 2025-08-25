@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El Aceite de Menta calma y alivia los músculos cansados y doloridos.
-- TRIPLE MOLIDO FRANCÉS: Estas barras de jabón de triple molido generan una espuma lujosa que brillará sobre su cuerpo dejando su piel lisa y más suave que antes.
 - ACLARA LA PIEL: El Aceite de Menta ajusta la producción de grasas resultando en una piel clara y fresca.
+- El Aceite de Menta calma y alivia los músculos cansados y doloridos.
 - VEGANO: Hecho de ingredientes orgánicos, puramente Natural, Sin Sulfitos, Sin Parabenos, para cualquier tipo de piel, no testeado en animales. Hecho en USA
+- TRIPLE MOLIDO FRANCÉS: Estas barras de jabón de triple molido generan una espuma lujosa que brillará sobre su cuerpo dejando su piel lisa y más suave que antes.
 - ULTRA PURIFICANTE: El Carbón de Coco Activo limpia profundamente cada poro para combatir las espinillas y manchas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

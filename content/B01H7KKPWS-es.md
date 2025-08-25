@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- IDEAL PARA COCINAR: Lo puedes utilizar para rebozar, para elaborar repostería, pan o galletas y para preparar pakoras, uno de los platos típicos de la india. Para repostería se recomienda mezclar con otras harinas para que la masa suba.
 - SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 - AUMENTA TU ENERGÍA: Al ser rica en carbohidratos y proteínas, nuestra harina orgánica te proporcionará una dosis extra de energía y te ayudará a disminuir los síntomas de cansancio. Además, no contiene lactosa, conservantes ni colorantes añadidos.
 - MÚLTIPLES BENEFICIOS: Gracias a su alto contenido en fibra, vitaminas y minerales, los garbanzos te ayudarán a regular el tránsito intestinal y el nivel de glucosa en sangre. Además, estimula el funcionamiento del sistema nervioso.
-- IDEAL PARA COCINAR: Lo puedes utilizar para rebozar, para elaborar repostería, pan o galletas y para preparar pakoras, uno de los platos típicos de la india. Para repostería se recomienda mezclar con otras harinas para que la masa suba.
 - HARINA DE GARBANZO ECOLÓGICA: El garbanzo es una de las legumbres más equilibradas en nutrientes. Nuestra harina destaca por su alto valor nutritivo, energético y por ser el sustituto perfecto del huevo en las tortillas de patata.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

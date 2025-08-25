@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- producto 2: Leche de vaca semidesnatada conservando los valores nutricionales necesarios
-- producto 2: Rico en vitamina D
-- producto 2: Fuente de potasio
-- producto 1: 100% natural
 - producto 1: Contiene leche o derivados de la leche, lactosa
-- producto 1: Para los que se cuidan sin obsesiones y sin renunciar al sabo
 - producto 2: Fuente de calcio
+- producto 2: Fuente de potasio
+- producto 2: Rico en vitamina D
+- producto 1: 100% natural
+- producto 1: Para los que se cuidan sin obsesiones y sin renunciar al sabo
+- producto 2: Leche de vaca semidesnatada conservando los valores nutricionales necesarios
 - producto 1: Con todo su valor energético y proteínico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

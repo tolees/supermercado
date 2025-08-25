@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Agítalo para desatar su efecto "fuego"
 - Licor especiado con canela y picanta
-- Libera tus noches más épicas
 - Perfecto para tomar como chupito frío
+- Libera tus noches más épicas
+- Agítalo para desatar su efecto "fuego"
 - Graduación: 25º
 
 [🛒 Aquí!!!]({{< param buyurl >}})

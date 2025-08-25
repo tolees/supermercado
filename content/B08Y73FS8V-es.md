@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin cereales: con carbohidratos alternativos (boniato, garbanzos y guisantes)
-- Embalaje reciclable
-- Alto contenido de proteínas: carne deshuesada como ingrediente principal
-- Sin colorantes, conservantes ni aromas artificiales; ingredientes con trazabilidad garantizada desde el origen
-- Pelaje brillate y piel sana: Omega 3 y 6 y zinc que contribuyen a un pelaje brillante y una piel cuidada
-- Comida completa y equilibrada para gatos adultos
 - Óptima condición física: Nivel equilibrado de proteínas de alta calidad y calorías que ayudan a mantener la masa muscular y el nivel de actividad
+- Alto contenido de proteínas: carne deshuesada como ingrediente principal
+- Comida completa y equilibrada para gatos adultos
+- Sin colorantes, conservantes ni aromas artificiales; ingredientes con trazabilidad garantizada desde el origen
+- Sin cereales: con carbohidratos alternativos (boniato, garbanzos y guisantes)
+- Pelaje brillate y piel sana: Omega 3 y 6 y zinc que contribuyen a un pelaje brillante y una piel cuidada
+- Embalaje reciclable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Y73FS8V{{</world>}}

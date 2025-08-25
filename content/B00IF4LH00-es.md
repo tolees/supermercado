@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 96% ingredientes de origen natural, el 4% restante ofrece la sensorialidad y buena conservación de la fórmula
-- Crema hidratante calmante con agua de rosas
 - Reduce la tirantez, hidrata la piel y le aporta suavidad y jugosidad
+- Crema hidratante calmante con agua de rosas
+- 96% ingredientes de origen natural, el 4% restante ofrece la sensorialidad y buena conservación de la fórmula
 - con antioxidante de origen natural, para proteger la piel de las agresiones externas
 - Para pieles sensibles
 

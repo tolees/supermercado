@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Puede contener trazas de alegría
-- Vino tinto espectacular capaz de maridar hasta solo
 - Suave
+- Vino tinto espectacular capaz de maridar hasta solo
 - Aterciopelado
 - Regalo de alegria, ideal para esa persona que aprecias o para ti mismo.
 

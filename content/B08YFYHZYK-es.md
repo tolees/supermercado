@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Piel hidratada, nutrida y bien protegida contra rayos UVA y UVB, Resistente al agua
 - Leche con protección solar SPF 30 para proteger tu piel de los rayos UV, Fórmula eco-diseñada respetuosa con la vida marina
+- Piel hidratada, nutrida y bien protegida contra rayos UVA y UVB, Resistente al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YFYHZYK{{</world>}}

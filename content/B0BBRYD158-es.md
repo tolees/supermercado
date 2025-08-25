@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En boca es fresco y jugoso/masticable. Con buena acidez y frutas negras como arándanos, ciruelas y cerezas. De taninos suaves y redondeados, pero cuerpo ligero. El final es más bien balsámico, con algunas hierbas frescas mediterráneas.
 - Vegano
-- En nariz se percibe la fruta negra madura como cerezas y moras. Un toque especiado de vainilla y caramelo, regaliz y madera joven de cedro.
 - Vino fresco con marcado carácter mediterráneo
+- En boca es fresco y jugoso/masticable. Con buena acidez y frutas negras como arándanos, ciruelas y cerezas. De taninos suaves y redondeados, pero cuerpo ligero. El final es más bien balsámico, con algunas hierbas frescas mediterráneas.
+- En nariz se percibe la fruta negra madura como cerezas y moras. Un toque especiado de vainilla y caramelo, regaliz y madera joven de cedro.
 - De color rojo burdeos con reflejos violáceos de intensidad media. Lagrimas finas ligeramente coloreadas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

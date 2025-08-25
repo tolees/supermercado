@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MANIFESTAR LA GRANDEZA: Agitar, remover o simplemente beber: ideal para quienes no necesitan muchas palabras para disfrutar de una gran bebida.
-- VOLUMEN DE SUMINISTRO: 1 x 1,75l Jägermeister, 35% vol., imprescindible en el bar de cualquier casa. Perfecto como regalo de fiesta y recuerdo. A partir de 18 años.
+- ORIGEN: Jägermeister el original de Wolfenbüttel. El Jägermeister Herbal Liqueur Shot helado combina 56 hierbas naturales, flores, raíces y frutas de todo el mundo y siempre ha formado parte de todas las fiestas.
 - OCASIÓN: Nuestras botellas de Jägermeister son perfectas para cada ocasión y hacen que cada momento sea inolvidable. Ya sea para celebrar fiestas en casa, en discotecas o como regalo de cumpleaños.
 - SUGERENCIA DE PRESENTACIÓN: Los momentos magistrales se pueden preparar con vasos de chupito en el congelador. Para brindar, vierta 2 cl de Jägermeister helado en un vaso y disfrute mejor del chupito con los amigos.
-- ORIGEN: Jägermeister el original de Wolfenbüttel. El Jägermeister Herbal Liqueur Shot helado combina 56 hierbas naturales, flores, raíces y frutas de todo el mundo y siempre ha formado parte de todas las fiestas.
+- MANIFESTAR LA GRANDEZA: Agitar, remover o simplemente beber: ideal para quienes no necesitan muchas palabras para disfrutar de una gran bebida.
+- VOLUMEN DE SUMINISTRO: 1 x 1,75l Jägermeister, 35% vol., imprescindible en el bar de cualquier casa. Perfecto como regalo de fiesta y recuerdo. A partir de 18 años.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09F96MSJL{{</world>}}

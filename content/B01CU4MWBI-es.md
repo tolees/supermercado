@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cara Nivea
-- ESPUMA AFE NIVEA 200 ML (8412300817028)
 - Cara Nivea
+- ESPUMA AFE NIVEA 200 ML (8412300817028)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01CU4MWBI{{</world>}}

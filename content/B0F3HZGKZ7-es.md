@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las ruffles de siempre con sabor jamón
 - Bolsa en formato familiar de 243 gramos
+- Las ruffles de siempre con sabor jamón
 - Snack de patatas fritas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

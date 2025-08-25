@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Luce un acabado mate por más de 12 horas
-- Matifica tu piel
-- Fija la base de maquillaje a tu piel para una mayor duración
 - Para pieles normales y grasas
+- Fija la base de maquillaje a tu piel para una mayor duración
+- Matifica tu piel
 - Controlla brillos y borra poros
+- Luce un acabado mate por más de 12 horas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XGJJN66{{</world>}}

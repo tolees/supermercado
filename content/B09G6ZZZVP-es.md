@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Nutrición de calidad para ayudar a fortalecer el sistema inmunitario; taurina para promover la salud del corazón y de la vista
 - Alimento húmedo 100 % completo y equilibrado para gatos de edad avanzada (a partir de 7 años)
+- Colección tierra y mar en salsa con dos recetas sabrosas: 6 x pollo y 6 x arenque y atún
 - Alcance de la entrega: 12 x 85 g IAMS Delights Senior Land & Sea Collection en salsa; sin saborizantes artificiales, sin colorantes, sin OGM ni ingredientes de relleno
 - Vitaminas y minerales para mantener los huesos fuertes; proteína animal de calidad para unos músculos fuertes
-- Colección tierra y mar en salsa con dos recetas sabrosas: 6 x pollo y 6 x arenque y atún
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09G6ZZZVP{{</world>}}

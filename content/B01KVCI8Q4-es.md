@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplicación fácil
 - Es un iluminador en stick cremoso que marca y realza facciones iluminándolas
-- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
 - Textura cremosa en formato stic
+- Aplicación fácil
+- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
 - Efecto buena cara inmediato
 
 [🛒 Comprar!!!]({{< param buyurl >}})

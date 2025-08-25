@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ropa sin manchas, limpia y con un plus de luminosidad
+- Extra luminosidad en tus prendas blancas y de color
 - Poder quitamanchas incluso en agua fría
 - Detergente para la lavadora formato polvo
-- Extra luminosidad en tus prendas blancas y de color
-- Ropa sin manchas, limpia y con un plus de luminosidad
 - Descubre el resto de detergentes y limpialavadoras de Colon
 
 [🛒 Aquí!!!]({{< param buyurl >}})
