@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Varietales vino tinto: 100% Tinto Fino (Tempranillo)
-- Vino blanco Lgearis Verdejo - DO Rueda
-- Varietales vino blanco: 100% Verdejo
-- Vino tinto Legaris Roble - DO Ribera del Duero
 - Estuche regalo Legaris: 3 botellas 75cl (2 vinos tintos + 1 vino blanco)
+- Vino tinto Legaris Roble - DO Ribera del Duero
+- Varietales vino blanco: 100% Verdejo
+- Vino blanco Lgearis Verdejo - DO Rueda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09M7J2ZJV{{</world>}}

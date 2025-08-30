@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Un sabor equilibrado de sabores dulces
-- Edición con Borderladns Moxxi
-- Color dorado claro, notas dulces y sutiles de chocolate con leche, vainilla y manzana roja
-- Ligeramente dulce con un toque a vainilla
 - Regusto fresco y floral que crea un brillo redondeado
+- Ligeramente dulce con un toque a vainilla
+- Color dorado claro, notas dulces y sutiles de chocolate con leche, vainilla y manzana roja
+- Edición con Borderladns Moxxi
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CD7P53RD{{</world>}}

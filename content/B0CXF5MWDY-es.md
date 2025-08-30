@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Referencia: S05120792
-- Color: Multicolor
 - Medidas: 7.7 x 18.3 x 4.6 centímetros
+- Color: Multicolor
 - Champú de la marca Garnier
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

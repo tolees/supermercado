@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- SOBRE NOSOTROS: Naturaleza, tradición y pasión por ayudar a los demás fueron el impulso que en 1985 nos llevó a crear Eladiet. Actualmente, somos líderes en la elaboración de complementos alimenticios naturales cuyo objetivo es mejorar tu bienestar.
 - INGREDIENTES: Por cantidad máxima diaria (2,13 ml – 75 gotas) VRN* ES fruto de Anís verde (750 mg); EF hojas de Orégano (520 mg); EF fruto de Alcaravea (300 mg); EF fruto de Cardo Mariano (205 mg); EF hojas de Menta (200 mg); EF flor de Manzanilla (200 mg); EF hojas de Melisa (100 mg); EF sumidad florida de Mejorana (100 mg); EF raíz de Regaliz (10 mg); Biotina (Vitamina B8) (50 µg 100%*VRN: Valor de Referencia de Nutrientes.
-- MODO DE EMPLEO: Tomar de 20 a 25 gotas tres veces al día, antes o durante las comidas, disueltoen 100 ml de líquido. Agitar antes de usar inclinar levemente el frasco hasta su correcta dosificación.
 - CUIDA TUS DIGESTIONES: Ayuda al alivio de múltiples molestias digestivas como puede ser dolor abdominal, hinchazon o digestiones pesadas.
 - ​𝗚𝗢𝗧𝗔𝗦 𝗖𝗢𝗡 𝗜𝗡𝗚𝗥𝗘𝗗𝗜𝗘𝗡𝗧𝗘𝗦 𝗡𝗔𝗧𝗨𝗥𝗔𝗟𝗘𝗦: MultiActive es un complemento alimenticio a base de Anís verde, Orégano, Alcaravea, Cardo mariano, Menta, Manzanilla, Melisa, Mejorana, Regaliz, Biotina (Vit.B8) que te ayuda al bienestar digestivo.
-- SOBRE NOSOTROS: Naturaleza, tradición y pasión por ayudar a los demás fueron el impulso que en 1985 nos llevó a crear Eladiet. Actualmente, somos líderes en la elaboración de complementos alimenticios naturales cuyo objetivo es mejorar tu bienestar.
+- MODO DE EMPLEO: Tomar de 20 a 25 gotas tres veces al día, antes o durante las comidas, disueltoen 100 ml de líquido. Agitar antes de usar inclinar levemente el frasco hasta su correcta dosificación.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CVLZKGW5{{</world>}}

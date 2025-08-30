@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para todo tipo de superficies
 - 42 rollos (3 rollos por pack)
+- Para todo tipo de superficies
 - Ahorrarás tiempo y dedicación en las tareas del hogar
 - Con la calidad de Scottex
 

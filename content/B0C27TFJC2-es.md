@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para cualquier ocasión y evento: en clase, en el parque, en la oficina, en casa, en fiestas y entre horas. Para compartir, regalar y disfrutar solo o en compañía
-- 12 bolsas de caramelos con palo Chupa Chups Milky. Sabores vainilla, frambuesa-vainilla, cacao-vainilla y fresa-nata
-- Caramelos y golosinas más saludables. ¡Que nada te quite la oportunidad de divertirte! Este producto es SIN GLUTEN, con colorantes naturales y el palo de papel.
 - Chupa Chups es el caramelo favorito de todas las generaciones. Y siempre con los ingredientes de la mejor calidad. ¡Simplemente imprescindibles!
+- 12 bolsas de caramelos con palo Chupa Chups Milky. Sabores vainilla, frambuesa-vainilla, cacao-vainilla y fresa-nata
+- Ideal para cualquier ocasión y evento: en clase, en el parque, en la oficina, en casa, en fiestas y entre horas. Para compartir, regalar y disfrutar solo o en compañía
+- Caramelos y golosinas más saludables. ¡Que nada te quite la oportunidad de divertirte! Este producto es SIN GLUTEN, con colorantes naturales y el palo de papel.
 - Sabores surtidos: vainilla, frambuesa-vainilla, cacao-vainilla y fresa-nata
 
 [🛒 Visítala!!!]({{< param buyurl >}})

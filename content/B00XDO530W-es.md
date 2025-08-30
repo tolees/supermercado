@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color dorado claro, notas dulces y sutiles de chocolate con leche, vainilla y manzana roja
 - Un sabor equilibrado de sabores dulces
 - Tiene un aroma ligeramente dulce con un toque a vainilla
-- Se puede usar para preparar cócteles
+- Color dorado claro, notas dulces y sutiles de chocolate con leche, vainilla y manzana roja
 - Regusto fresco y floral que crea un brillo redondeado
+- Se puede usar para preparar cócteles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDO530W{{</world>}}

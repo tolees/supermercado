@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sabores: Fresa, Frambuesa, Manzana, Naranja, Limón y Piña
-- Caramelos de goma sabor frutas
 - Ositos de Oro, los clásicos del mercado.
+- Caramelos de goma sabor frutas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01IUWYSD4{{</world>}}

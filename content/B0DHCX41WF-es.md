@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alcanza todas las pestañas, desde las más largas hasta las más cortas
-- Pestañas llamativas con una longitud de vértigo y volumen sin apelmazar y sin grumos, Color verde
 - Fórmula ligera con extracto de bambú y Cepillo cónico
 - Aplica la máscara desde la raíz hasta las puntas moviendo el cepillo en zig-zag y de manera ascendente para una repartición equilibrada en cada pestaña
+- Pestañas llamativas con una longitud de vértigo y volumen sin apelmazar y sin grumos, Color verde
+- Alcanza todas las pestañas, desde las más largas hasta las más cortas
 - Máscara de pestañas diseñada para dar una longitud sin límites y un volumen redefinido para lucir unas pestañas con altura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

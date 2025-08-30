@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disponible en 9 distintos tonos ponibles: claros o de cobertura más alta
 - Su aplicador es suave y preciso, de fácil aplicación
+- Disponible en 9 distintos tonos ponibles: claros o de cobertura más alta
 - Contiene aceite de argán y vitamina E
 - Gloss que proporciona 24h de hidratación y brillo duradero
 - Cómodo de llevar gracias a su efecto de bálsamo, no es pegajoso

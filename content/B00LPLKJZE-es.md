@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MODO DE USO: Emulsionar con agua y limpiar la piel del rostro, día y noche, antes del tratamiento. También se puede aplicar en manos y cuerpo.
-- TODO TIPO DE PIEL: El jabón de belleza Sérénité en pastilla ofrece una calidad inigualable desde sus orígenes. Una receta tradicional que se ha mantenido con el paso de los años. Limpia el rostro con suavidad sin agredir la piel
-- TEXTURA: Solida con un tono blanco algodón. Aroma empolvado y limpio con notas florales que recuerda a jazmín y rosa. Sérénité, la esencia clásica de Bella Aurora en una fragancia suave y discreta.
 - REVITALIZA: Con glicerina que revitaliza la piel nutriéndola y mejorando su textura, manteniendo la hidratación natural de la piel, dejando la piel suave y sedosa
+- MODO DE USO: Emulsionar con agua y limpiar la piel del rostro, día y noche, antes del tratamiento. También se puede aplicar en manos y cuerpo.
+- TEXTURA: Solida con un tono blanco algodón. Aroma empolvado y limpio con notas florales que recuerda a jazmín y rosa. Sérénité, la esencia clásica de Bella Aurora en una fragancia suave y discreta.
 - ANTIMANCHAS: Retira los restos de impurezas, contaminación y maquillaje, limpia a fondo los poros y prepara el cutis para una mejor absorción del tratamiento posterior. Tras su aplicación, deja la piel fresca, limpia, sedosa y sin sensación de tirantez
+- TODO TIPO DE PIEL: El jabón de belleza Sérénité en pastilla ofrece una calidad inigualable desde sus orígenes. Una receta tradicional que se ha mantenido con el paso de los años. Limpia el rostro con suavidad sin agredir la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00LPLKJZE{{</world>}}

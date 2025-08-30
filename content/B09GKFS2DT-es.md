@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ADVERTENCIA | Consultar con el médico o farmacéutico en caso de uso concomitante de un tratamiento para la depresión. No usar en caso de embarazo. Sin azúcares añadidos, sin lactosa. Apto para veganos. No superar la dosis diaria recomendada. Mantener fuera del alcance de los niños más pequeños. Guardar en un lugar fresco y seco.
+- ¿PARA QUIÉN? | Especialmente indicado para mujeres con niveles de ansiedad leves y moderados que sufren un estrés como reacción fisiológica normal del día a día.
 - ¿CÓMO TOMAR? | Tomar 2 cápsulas al día. Pueden tomarse en 1 sola toma o bien separadas, una por la mañana y otra al mediodía. Se recomienda tomar el producto de forma continuada durante un mínimo de 2 meses, aunque los efectos se pueden percibir según el individuo, en las primeras semanas de su consumo.
+- ADVERTENCIA | Consultar con el médico o farmacéutico en caso de uso concomitante de un tratamiento para la depresión. No usar en caso de embarazo. Sin azúcares añadidos, sin lactosa. Apto para veganos. No superar la dosis diaria recomendada. Mantener fuera del alcance de los niños más pequeños. Guardar en un lugar fresco y seco.
 - ¿QUÉ ES? | Es un complemento alimenticio a base de Azafrán, Ashwagandha, Triptófano y Vitamina B6 que contribuye al estado de relajación y al bienestar físico y mental, ayudando a mantener el buen humor. *Los complementos alimenticios no deben sustituir una dieta variada y equilibrada y un estilo de vida saludable.
 - ¿CÓMO ACTÚA? | Este complemento compuesto por extracto de plantas como el Azafrán o Ashwagandha, el Triptófano y la Vitamina B6 pueden mejorar de manera natural el estado de ánimo, el estrés y la ansiedad.
-- ¿PARA QUIÉN? | Especialmente indicado para mujeres con niveles de ansiedad leves y moderados que sufren un estrés como reacción fisiológica normal del día a día.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09GKFS2DT{{</world>}}

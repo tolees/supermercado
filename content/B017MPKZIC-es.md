@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Directamente de la nevera para refrescarse e hidratarse, su consumo ayuda a alcanzar la ingesta mínima diaria de 2 L de agua
-- Bajo contenido en sal, que ayuda a mantener una tensión arterial normal
-- Bebida 100% vegetal, sin lactosa, sin aditivos, hecha con Agua del parque natural del Montseny
 - Ingredientes: Agua del Montseny, avena (15%)*. *de agricultura ecológica
+- Directamente de la nevera para refrescarse e hidratarse, su consumo ayuda a alcanzar la ingesta mínima diaria de 2 L de agua
+- Bebida 100% vegetal, sin lactosa, sin aditivos, hecha con Agua del parque natural del Montseny
+- Bajo contenido en sal, que ayuda a mantener una tensión arterial normal
 - Bajo contenido en grasas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Color: Multicolor
 - Pastillas de la marca Fairy
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Referencia: S05128629
+- Color: Multicolor
 - Medidas: 6 x 20 x 24 centímetros
 
 [🛒 Comprar!!!]({{< param buyurl >}})

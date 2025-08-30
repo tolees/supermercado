@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con Piroctone Olamine para un cabello sano y libre de caspa.
+- pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
 - Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
 - Fórmula suave: Reduce el picor e irritación del cuero cabelludo sensibilizado.
 - Eficaz contra caspa grasa: Sebamed Champú Anticaspa 400ml limpia y elimina caspa.
-- pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZRQDL76{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
-- Milka es un producto tradicional. Por ello, desde hace más de 100 años utilizamos exclusivamente leche de la región de los Alpes para nuestro chocolate. Comprobamos cada litro de leche que recibimos de nuestros proveedores para aseguramos de que proviene al 100% de los valles y altos valles de los Alpes y la región subalpina.
-- Con una sabrosa combinación de galleta de barquillo de textura crocante, el intenso sabor de cacao de las finas capas y el recubrimiento de chocolate blanco Milka más suave, hacen de estas galletas el descanso más tierno y dulce del día.
-- Las galletas barquillo Milka rellenas delicioso de cacao y cubierto de tierno chocolate blanco de los Alpes, son excelentes para disfrutar y compartir con familia y amigos, en desayunos, postres, para picar como snack o en meriendas escolares para los niños.
 - Las 6 galletas circulares Milka Choco Wafer de triple crujiente barquillo con doble capa de fina crema de cacao y cubierto de chocolate blanco de los Alpes, son ideales para un dulce tentempié, perfectas para servir solas o con leche, o para acompañar al café o té.
+- Milka es un producto tradicional. Por ello, desde hace más de 100 años utilizamos exclusivamente leche de la región de los Alpes para nuestro chocolate. Comprobamos cada litro de leche que recibimos de nuestros proveedores para aseguramos de que proviene al 100% de los valles y altos valles de los Alpes y la región subalpina.
+- Las galletas barquillo Milka rellenas delicioso de cacao y cubierto de tierno chocolate blanco de los Alpes, son excelentes para disfrutar y compartir con familia y amigos, en desayunos, postres, para picar como snack o en meriendas escolares para los niños.
+- Con una sabrosa combinación de galleta de barquillo de textura crocante, el intenso sabor de cacao de las finas capas y el recubrimiento de chocolate blanco Milka más suave, hacen de estas galletas el descanso más tierno y dulce del día.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0042AVZ9E{{</world>}}

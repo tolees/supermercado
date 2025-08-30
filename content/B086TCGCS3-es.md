@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color intenso
-- Aplicador de trazo súper preciso
-- Amplia gama de tonos y acabados
 - Fórmula que dura hasta 24H y WTP
+- Amplia gama de tonos y acabados
 - Consigue un look más premium
+- Aplicador de trazo súper preciso
+- Color intenso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B086TCGCS3{{</world>}}

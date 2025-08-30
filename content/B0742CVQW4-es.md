@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dibuja una línea fina sobre el ojo para una mirada más intensa
 - Resistente al agua
+- Dibuja una línea fina sobre el ojo para una mirada más intensa
 - Color de alta intensidad para un impacto instantáneo
 - Dermatológicamente y oftalmológicamente probado
 - Fórmula suave y cremosa para una fácil aplicación

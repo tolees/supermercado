@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Contiene un 96% de ingredientes de origen natural
-- Se lava con suavidad y su fragancia natural deja la piel sana, flexible y suave.
 - Elaborado con aceites 100% vegetales, sin parabenos ni grasas animales, este jabón líquido de Marsella está enriquecido con glicerina por sus propiedades hidratantes.
+- Se lava con suavidad y su fragancia natural deja la piel sana, flexible y suave.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09ZBSGN43{{</world>}}

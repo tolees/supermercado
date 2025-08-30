@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido reducido de hidratos de carbono: contiene un 30 % menos de hidratos de carbono que las barritas de chocolate tradicionales
-- Sin aceite de palma
-- Máx. 0,8 g de azúcar por cada barrita
-- Deliciosos sabores con una agradable consistencia ligera
 - Alto contenido proteínico: 50 % de proteína
+- Contenido reducido de hidratos de carbono: contiene un 30 % menos de hidratos de carbono que las barritas de chocolate tradicionales
+- Máx. 0,8 g de azúcar por cada barrita
+- Sin aceite de palma
+- Deliciosos sabores con una agradable consistencia ligera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09H7BYLB6{{</world>}}

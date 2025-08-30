@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud y definición máxima
-- Sensación ultraligera
-- Mega volumen
 - Resistente al agua
+- Mega volumen
+- Sensación ultraligera
+- Longitud y definición máxima
 - Aplicación ultrasuave y apta para ojos sensibles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

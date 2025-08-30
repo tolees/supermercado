@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Taquitos redondos sabor fresa con relleno sabor nata
-- Geles dulces sabor fresa
 - Con recubrimiento pica
+- Geles dulces sabor fresa
 - Producto de la marca HARIBO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

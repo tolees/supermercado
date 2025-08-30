@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Las galletas Fontaneda Yayitas con pepitas de chocolate y cacao son óptimas para un dulce desayuno, óptimas para servir solas o con leche, o para acompañar al café o té; el producto tiene un formato de bolsa que permite disfrutarlas de manera cómoda en cualquier momento y lugar
 - Fontaneda es un producto tradicional y de calidad español; por ello, desde hace más de 140 años desde Fontaneda nos comprometemos a utilizar exclusivamente ingredientes de calidad en nuestros productos, creando sabores que acompañan nuestros desayunos día a día; desde 1881, Fontaneda sigue compartiendo su pasión e ilusión por las clásicas galletas y bizcochos, para que podamos seguir disfrutando del lado dulce de la vida, porque en Fontaneda cuidando lo nuestro, cuidamos de ti
+- Las galletas Fontaneda Yayitas de crujiente textura y deliciosas pepitas de chocolate y cacao, son óptimas para disfrutar y compartir con familia y amigos, en desayunos, postres, para picar como snack o en meriendas escolares para los niños
 - La sabrosa combinación de galleta Fontaneda Yayitas, cacao y pepitas de chocolate, hacen de estas galletas el descanso más tierno y dulce del día; atrévete y experimenta con las galletas con chocolate Fontaneda también en múltiples recetas de repostería o acompañando a tus postres favoritos
 - El trigo es el ingrediente principal de nuestros bizcochos, y en Fontaneda nos aseguramos de que nuestro trigo cumpla con el Compromiso Harmony; este compromiso se basa en el cultivo local de trigo que sea sostenible con el medio ambiente y la protección de la biodiversidad en nuestro país, evitando el uso de pesticidas y fertilizantes, preservando el agua y los suelos, así como reduciendo la emisión de dióxido de carbono
-- Las galletas Fontaneda Yayitas de crujiente textura y deliciosas pepitas de chocolate y cacao, son óptimas para disfrutar y compartir con familia y amigos, en desayunos, postres, para picar como snack o en meriendas escolares para los niños
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA50CZ0{{</world>}}

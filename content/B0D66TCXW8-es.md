@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fórmula enriquecida con ácido hialurónico
 - Protege la piel del cuerpo, la hidrata, proporciona confort y no engrasa
 - Dermatológicamente testado No comedogénico
 - Textura de crema envolvente, sensorial y ligera, dermatológicamente testada y con acción hidratante*, superagradable en la piel
-- Fórmula enriquecida con ácido hialurónico
 - Resistente al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})

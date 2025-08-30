@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - No contiene sustancias grasas y logra un efecto mate
 - No obstruye los poros, se extiende suavemente y no seca la piel
-- Reduce la visibilidad de los poros
 - Se adapta al tono y a la textura de la piel
+- Reduce la visibilidad de los poros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B015U4FKJG{{</world>}}

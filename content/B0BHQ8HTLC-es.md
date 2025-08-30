@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas: 3,5 x 2,5 x 12 centímetros
-- Productos de belleza de la marca Neutrogena
 - Referencia: S0595017
+- Productos de belleza de la marca Neutrogena
 - ¡Si buscas calidad al mejor precio no sigas buscando!
+- Medidas: 3,5 x 2,5 x 12 centímetros
 - Color: multicolor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

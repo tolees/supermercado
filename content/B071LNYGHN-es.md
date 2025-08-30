@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes hidratantes
 - Disponible en 8 tonos llenos de color
+- Brillo en una sola pasada y de larga duración
+- Ingredientes hidratantes
 - Textura miel
 - Alta densidad de pigmentos para un color intenso
-- Brillo en una sola pasada y de larga duración
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071LNYGHN{{</world>}}

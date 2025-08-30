@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SOBRE NOSOTROS: Ecocesta nació con una misión clara: dar visibilidad a la alimentación de origen vegetal. Somos empresa BCorp certificada y cumplimos con los más altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
-- BEBIDA VEGETAL: Delicioso sabor, bajo contenido en sal y un potente efecto saciante, estas son las principales características de nuestra bebida vegetal de almendra y chocolate. Además, es el acompañante perfecto para seguir una dieta saludable.
-- MEZCLA Y DISFRUTA: Nuestra bebida vegetal es idónea para los desayunos de los más pequeños de la casa. Podrán tomarla tanto fría como caliente, con cereales, mueslis o copos. ¡Tendrán un sinfín de posibilidades!
 - MÚLTIPLES BENEFICIOS: La almendra es un fruto seco con alto contenido en proteínas, calcio, carbohidratos y vitaminas. Como resultado, proporcionarán una dosis extra de energía y un potente efecto antioxidante.
+- MEZCLA Y DISFRUTA: Nuestra bebida vegetal es idónea para los desayunos de los más pequeños de la casa. Podrán tomarla tanto fría como caliente, con cereales, mueslis o copos. ¡Tendrán un sinfín de posibilidades!
+- SOBRE NOSOTROS: Ecocesta nació con una misión clara: dar visibilidad a la alimentación de origen vegetal. Somos empresa BCorp certificada y cumplimos con los más altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 - INGREDIENTES NATURALES: Elaborado a partir de agua, almendra (2,2 %), azúcar de caña, almidón de arroz, cacao en polvo desgrasado (1,2 %), chocolate (1%) y sal marina, este producto es apto para veganos. Además, no contiene ni huevo ni lactosa.
+- BEBIDA VEGETAL: Delicioso sabor, bajo contenido en sal y un potente efecto saciante, estas son las principales características de nuestra bebida vegetal de almendra y chocolate. Además, es el acompañante perfecto para seguir una dieta saludable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09B2PYWN6{{</world>}}

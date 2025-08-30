@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El producto no contiene azúcar añadido
-- Ideal para el desayuno o en cualquier momento del día
 - La bebida está hecha de cacao natural
+- El producto no contiene azúcar añadido
+- Ingredientes: cacao desgrasado natural (42%), maltodextrina, crema de cereal kola-malteado [harina de TRIGO, extracto de malta de CEBADA, aroma natural( extracto de nuez de cola)], fibra, sales minerales(calcio, fósforo), emulgente (lecitina de girasol), antiaglomerante (fosfato tricálcico), aromas, edulcorantes (acesulfamo K, sucralosa), sal.
+- Ideal para el desayuno o en cualquier momento del día
 - El envase contiene polvo de cacao para 213 raciones
 - Conservar a temperatura ambiente en lugar fresco y seco
-- Ingredientes: cacao desgrasado natural (42%), maltodextrina, crema de cereal kola-malteado [harina de TRIGO, extracto de malta de CEBADA, aroma natural( extracto de nuez de cola)], fibra, sales minerales(calcio, fósforo), emulgente (lecitina de girasol), antiaglomerante (fosfato tricálcico), aromas, edulcorantes (acesulfamo K, sucralosa), sal.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08YH21ZP2{{</world>}}

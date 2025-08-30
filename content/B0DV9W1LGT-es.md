@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Referencia: S05128039
 - Medidas: 9 x 26,4 x 17 centímetros
 - Set de la marca Nivea
 - Color: Multicolor
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Referencia: S05128039
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DV9W1LGT{{</world>}}

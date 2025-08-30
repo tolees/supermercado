@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho de material de calidad
 - Deo control+ deo crema 24h isdin
+- Hecho de material de calidad
 - Creado con atención al detalle
 - Producto útil y práctico
 - Producto de calidad óptima

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- COLORANTE LIPOSOLUBLE: Nuestros colorantes liposolubles Super Color están especialmente formulados para mezclarse fácilmente con grasas y aceites, tales como mantequilla, merengue suizo, chocolate, masas de tartas, ganaches y pastas de azúcar.
 - CONSEJOS DE CONSERVACIÓN: Para una adecuada conservación del producto es imprescindible que éste se mantenga cerrado y se conserve en su envase y caja original durante su almacenamiento. Proteger de la luz del sol y no exponer a temperaturas mayores de 50°C.
 - EXPERTOS EN DEKORACIÓN: En Dekora tenemos un objetivo, estar presentes en todos los momentos especiales de la vida, esos que nos llenan de alegría y que celebramos con tanta ilusión. Por ello te ponemos a disposición un gran catálogo de decoraciones de repostería para los eventos especiales que marcan tu vida. Con productos aptos para veganos y para personas con intolerancias y alergias, Dekora tiene el diseño que necesitas en cada ocasión.
-- COLORANTE CONCENTRADO ALIMENTARIO: Este colorante líquido es concentrado, por lo que con poca cantidad conseguirás un color vibrante y profesional. Apto para uso alimentario, AZ (Azo Free) y totalmente seguro, es una manera fácil y sencilla de darle a tus tartas y cupcakes un toque personal y único, ¡sin complicaciones!
-- COLORANTE LIPOSOLUBLE: Nuestros colorantes liposolubles Super Color están especialmente formulados para mezclarse fácilmente con grasas y aceites, tales como mantequilla, merengue suizo, chocolate, masas de tartas, ganaches y pastas de azúcar.
 - FÁCIL DE USAR: Agita el producto bien antes de usar y viértelo directamente sobre el producto a colorear o aplícalo con un pincel. Ideal para dar un toque de color a tu repostería, pastelería o a cualquier tipo de alimento.
+- COLORANTE CONCENTRADO ALIMENTARIO: Este colorante líquido es concentrado, por lo que con poca cantidad conseguirás un color vibrante y profesional. Apto para uso alimentario, AZ (Azo Free) y totalmente seguro, es una manera fácil y sencilla de darle a tus tartas y cupcakes un toque personal y único, ¡sin complicaciones!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNTV5HMW{{</world>}}

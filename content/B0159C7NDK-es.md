@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- En boca muestra un moderado dulzor, equilibrado por su fresca acidez, con toques de hierbas y finas notas balsámicas.
-- Procede principalmente de la destilación del bagazo de las uvas albariño, a las que se le incorporan hierbas aromáticas en las calderas de los alambiques. El destilado obtenido se macera con otra serie de hierbas que aportan sabor y color.
-- La temperatura ideal de servicio se sitúa entre los 0 y los 5ºC.
 - Atractivo color amarillo verdoso muy intenso, brillante a la vista, limpio y muy herbáceo en la nariz, donde despliega notas anisadas con recuerdos de tomillo, té y manzanilla que le aportan complejidad y gran amplitud aromática.
+- La temperatura ideal de servicio se sitúa entre los 0 y los 5ºC.
+- Procede principalmente de la destilación del bagazo de las uvas albariño, a las que se le incorporan hierbas aromáticas en las calderas de los alambiques. El destilado obtenido se macera con otra serie de hierbas que aportan sabor y color.
 - Licor de hierbas Mar de Frases es un licor Premium que conserva la manera de hacer y toda la tradición de la elaboración de Orujos Gallegos.
+- En boca muestra un moderado dulzor, equilibrado por su fresca acidez, con toques de hierbas y finas notas balsámicas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0159C7NDK{{</world>}}

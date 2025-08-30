@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño elegante y creativo
-- Código de barras: 0192333054802
-- Marca: Clinique
 - Producto de calidad
+- Código de barras: 0192333054802
+- Diseño elegante y creativo
+- Marca: Clinique
 - Calidad óptima para los requisitos del cliente
 - Producto útil y práctico
 

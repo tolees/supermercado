@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Notas afrutadas
-- Muy equilibrada entre amargor, cuerpo afrutado y aroma cítrico
-- 70 IBUS de amargor
 - Cerveza de estilo IPA. Alc. 7,2% vol.
+- Notas afrutadas
+- 70 IBUS de amargor
+- Muy equilibrada entre amargor, cuerpo afrutado y aroma cítrico
 - Potente, de trago largo y refrescante
 - Caja de 12 botellas de 33cl
 

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fórmula enriquecida con aceite de Argán
-- Pestañas curvadas, con volumen intenso y efecto ojos abiertos
-- Máscara de pestañas
-- Cepillo de "abrazo" de fibra, atrapa y extiende las pestañas una por una
 - Fácil y cómoda aplicación
+- Máscara de pestañas
+- Fórmula enriquecida con aceite de Argán
+- Cepillo de "abrazo" de fibra, atrapa y extiende las pestañas una por una
+- Pestañas curvadas, con volumen intenso y efecto ojos abiertos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YG3NV3V{{</world>}}

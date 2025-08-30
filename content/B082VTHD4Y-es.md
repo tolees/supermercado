@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Dulces de regaliz
-- Deliciosas piezas de regaliz en forma de stick
-- Irresistible sabor a regaliz
 - 200 gr
+- Irresistible sabor a regaliz
+- Deliciosas piezas de regaliz en forma de stick
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B082VTHD4Y{{</world>}}

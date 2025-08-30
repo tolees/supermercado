@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Los mejores productos para cuidar tu piel y mantenerla en perfecto estado
 - OZOAQUA pastilla jabon de ozono 100gr
 - De la mano de las marcas pioneras en el mercado
-- Los mejores productos para cuidar tu piel y mantenerla en perfecto estado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B077LXM5QH{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Salsa sin conservantes ni colorantes
 - Axe eau de toilette ice chill 100ml
+- Salsa sin conservantes ni colorantes
 - Elaborada con ingredientes de calidad que le aportan su sabor casero optimo
 - Salsa apta para vegetarianos optima para tu ensaladilla rusa o como acompañamiento de carnes, pescado frito, merluza, ensalada de pasta o en cualquiera de tus platos favoritos
 - Salsa con un 30% menos de sal que la media y similares del mercado

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De diferentes formas
-- De textura gomosa
 - Conservar en un lugar fresco y seco
+- De textura gomosa
+- De diferentes formas
 - Ideal para compartir
 - Surtido de golosinas
 

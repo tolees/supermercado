@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Devuelve la hidratación al mismo tiempo que lo fortalece​
-- Globalmente TRESemmé no testa en animales
-- Genera un aspecto saludable; acabado de peluquería
-- Acondicionador que nutre el cabello seco y dañado​
-- Formulado con vitamina E, proporciona vitalidad y suavidad​
 - Acondicionador TRESemmé Intensa Hidratación localiza las zonas más secas de tu pelo y restablece la hidratación
+- Acondicionador que nutre el cabello seco y dañado​
+- Genera un aspecto saludable; acabado de peluquería
+- Formulado con vitamina E, proporciona vitalidad y suavidad​
+- Globalmente TRESemmé no testa en animales
+- Devuelve la hidratación al mismo tiempo que lo fortalece​
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XIKV2Q0{{</world>}}

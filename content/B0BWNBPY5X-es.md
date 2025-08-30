@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tortitas de arroz con Chocolate Blanco y trocitos de avellanas (14unidades)
 - 84kcal por Tortita
 - Cada caja contiene 14 paquetes
-- Tortitas de arroz con Chocolate Blanco y trocitos de avellanas (14unidades)
 - Cada paquete contiene 4 Sobres con 2 Tortitas en cada uno
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

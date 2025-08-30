@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Libre de sales ni sulfatos.
 - Recupera la luminosidad, sedosidad y brillo del cabello.
-- Especial para cabellos secos, maltratados y con procesos químicos.
 - Nutre el cabello dañado por procesos químicos y ambientales.
+- Especial para cabellos secos, maltratados y con procesos químicos.
 - Sella las cutículas de las fibras capilares.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

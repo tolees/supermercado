@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 3 peines para una versatilidad total: barba de 3 días, corta o larga
 - Con láminas afiladas que duran toda la vida
-- Recortadora de barba King C. Gillette con 3 peines intercambiables para todo tipo de barbas
 - 50 minutos de autonomía con una carga completa
+- Recortadora de barba King C. Gillette con 3 peines intercambiables para todo tipo de barbas
 - Fácil de limpiar bajo el agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})

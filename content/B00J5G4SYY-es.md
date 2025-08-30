@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Un producto de calidad
 - Producto apto para la piel seca
 - Actúa de forma eficaz
-- Un producto de calidad
 - Fácil de usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

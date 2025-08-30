@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONSERVACIÓN ▪︎ Sin abrir debe guardarse en lugares frescos y secos alejados de fuentes de luz y calor. Una vez abierto conservar refrigerado sin llegar a temperaturas de +2ºC y consumir en un mes
-- PACK REGALO ▪︎ Un ingrediente ideal para aportar un toque de sabor y aroma a tus platos. Lleva tus platos al siguiente nivel con este ingrediente nacido en las cocinas de los mejores chefs ahora listo para usarlo en tus recetas
 - CAVIAROLI ▪︎ Es una explosión de sabor que recoge la intensidad y el aroma de aceites de calidad y denominación de origen. Un producto estrella de restaurantes de alto nivel que ha nacido en las cocinas de los mejores chefs
 - GOURMET ▪︎ Pack de 3 sabores de perlas de aceite: aceite de oliva virgen extra de la variedad Arbequina, guindilla y albahaca. Esferas de aproximadamente 4-5 milímetros de diámetro, con aceite de oliva en su interior líquido que estallan en la boca cuando las muerdes
+- PACK REGALO ▪︎ Un ingrediente ideal para aportar un toque de sabor y aroma a tus platos. Lleva tus platos al siguiente nivel con este ingrediente nacido en las cocinas de los mejores chefs ahora listo para usarlo en tus recetas
 - SUGERENCIAS ▪︎ Usar para el decorando de anchoas, o sardinas, en cremas y verduras, en ensaladas de tomate y queso, con todo tipo de mariscos, en pizzas y pastas, en arrozes e incluso con chocolates y helados y sorbetes cítricos. Apto para dietas veganas y vegetarianas
+- CONSERVACIÓN ▪︎ Sin abrir debe guardarse en lugares frescos y secos alejados de fuentes de luz y calor. Una vez abierto conservar refrigerado sin llegar a temperaturas de +2ºC y consumir en un mes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B072M2S7DJ{{</world>}}

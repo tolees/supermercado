@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Granos cuidadosamente seleccionados (70 % arábica, 30 % robusta) para obtener el café perfecto, suave y cremoso, con el auténtico sabor italiano, fuerte y ligeramente amargo.
-- Todas nuestras variedades tienen la certificación UTZ como parte de Rainforest Alliance; llevamos la sostenibilidad y la responsabilidad medioambiental en nuestro corazón
 - Mezcla perfecta para Ristretto, Espresso o Cappuccino
 - Der-Franz Espresso: café tostado en granos enteros; intensidad 5 de 5; tostado 5 de 5; acidez 1 de 5; con robusta, un imprescindible para el auténtico Espresso italiano
+- Granos cuidadosamente seleccionados (70 % arábica, 30 % robusta) para obtener el café perfecto, suave y cremoso, con el auténtico sabor italiano, fuerte y ligeramente amargo.
 - Tostado con pasión y siguiendo la experta tradición vienesa desde 1929; suavemente aromatizado con un tostado de tambor a largo plazo
+- Todas nuestras variedades tienen la certificación UTZ como parte de Rainforest Alliance; llevamos la sostenibilidad y la responsabilidad medioambiental en nuestro corazón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07Y5JY2NB{{</world>}}

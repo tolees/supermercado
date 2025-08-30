@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Formulado con agua micelar y vitamina E
-- Testado Dermatológicamente y Libre de fragancias y colorantes
 - Papel higiénico húmedo hecho con 100% fibras naturales, sin plástico y biodegradable
-- PH Neutro para el mejor cuidado de tu piel
+- Testado Dermatológicamente y Libre de fragancias y colorantes
 - Scottex utiliza fibras certificadas FSC de fuentes responsables para cuidar del medio ambiente y es 100% desechable por el WC
+- PH Neutro para el mejor cuidado de tu piel
+- Formulado con agua micelar y vitamina E
 - En tu rutina diaria, incluye el papel higiénico húmedo Scottex para una mayor higiene y sensación de frescor
 
 [🛒 Comprar!!!]({{< param buyurl >}})

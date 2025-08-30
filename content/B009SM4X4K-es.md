@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¿CÓMO DOSIFICAR? | Hasta 2 meses- 1 Cucharilla de café colmada en 50 ml de agua. 2 a 6 meses- 1 cucharilla de postre colmada en 50 a 100 ml. Hasta 1 año- 2 cucharillas de postre colmadas en 100 ml. 1 a 8 años- 1 ó 2 cucharadas soperas colmadas en taza o vaso(200 ml). Más de 8 años- 2 ó 3 cucharadas soperas colmadas en taza o vaso.
-- IDEAL PARA EL ESTREÑIMIENTO CRÓNICO O AGUDO | Debido a su elevado contenido en fibra alimentaria soluble y su aporte de ácidos grasos de cadena corta favorece la hidratación de las heces, ablandándolas y facilitando su eliminación.
-- ¿CÓMO PREPARAR? | Disolver en agua fría o caliente o añadir a la bebida habitual, como puede ser zumo de fruta, o leche. Puede tomarse diariamente de 1 a 3 veces al día.
 - SIN GLUTEN Y SIN AZÚCARES AÑADIDOS | Blevit L no contiene Gluten ni Aromas Artificiales ni Sacarosa.
+- ¿CÓMO PREPARAR? | Disolver en agua fría o caliente o añadir a la bebida habitual, como puede ser zumo de fruta, o leche. Puede tomarse diariamente de 1 a 3 veces al día.
+- IDEAL PARA EL ESTREÑIMIENTO CRÓNICO O AGUDO | Debido a su elevado contenido en fibra alimentaria soluble y su aporte de ácidos grasos de cadena corta favorece la hidratación de las heces, ablandándolas y facilitando su eliminación.
+- ¿CÓMO DOSIFICAR? | Hasta 2 meses- 1 Cucharilla de café colmada en 50 ml de agua. 2 a 6 meses- 1 cucharilla de postre colmada en 50 a 100 ml. Hasta 1 año- 2 cucharillas de postre colmadas en 100 ml. 1 a 8 años- 1 ó 2 cucharadas soperas colmadas en taza o vaso(200 ml). Más de 8 años- 2 ó 3 cucharadas soperas colmadas en taza o vaso.
 - ¿QUIÉN PUEDE TOMAR BLEVIT L? | Lactantes, niños, adolescentes y adultos, incluidas las embarazadas, para ayudar con molestias típicas del embarazo como el estreñimiento. Se aconseja consumir después de las comidas o entre tomas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

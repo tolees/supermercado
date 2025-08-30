@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sienta la textura envolvente del champú dorado transparente de Orofluido
 - Para todo tipo de cabello que busque una radiancia duradera
+- Sienta la textura envolvente del champú dorado transparente de Orofluido
 - Hidratará y suavizará el cabello dejándolo brillante y delicadamente perfumado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

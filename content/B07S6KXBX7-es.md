@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Idea de regalo
 - Un equilibrio óptimo entre la necesidad del cliente y un merecido mimo
+- Idea de regalo
 - Ligero, para que pueda llevarlo en su bolso
 
 [🛒 Visítala!!!]({{< param buyurl >}})

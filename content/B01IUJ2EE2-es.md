@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Sin conservantes ni colorantes
+- Elaborada con ingredientes de gran calidad que le aportan su sabor casero único
 - Con un 30% menos de sal que la media de las salsas mayonesa y similares del mercado
 - Calvé Sabor Casero en Tarro 430ml
-- Sin conservantes ni colorantes
 - Apta para vegetarianos
-- Elaborada con ingredientes de gran calidad que le aportan su sabor casero único
 - Conquistando las mesas de las familias españolas desde hace generaciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- SABOR ARANDANO: Las manos con pica soda de Cerdán tienen un característico e inconfundible sabor a arandono, una auténtica delicia para el paladar de niños y adultos. Perfectos para compartir con amigos y familiares
 - 💯 CARAMELOS CERDÁN: Es una empresa familiar líder en Europa en la fabricación de caramelo duro con una amplia gama de productos para niños y adultos. Fundada en 1914, lleva más 100 años endulzando paladares por todo el mundo
-- 🎊 IDEAL PARA: Fiestas de cumpleaños, Navidad, Halloween, fiestas temáticas u otras ocasiones especiales. Nuestros Sobres Pica Soda también son perfectos para incluirlos en piñatas y candy bar
 - 🍭 MANOS PICA SODA: Piruleta con forma de mano sabor de arandano con soda. Elaborada con colorantes naturales, libre de alérgenos y apta para veganos. Cada estuche contiene 40 unidades
 - 🚫 LIBRE DE ALÉRGENOS: Nuestros caramelos se fabrican en una fábrica que combina las más modernas tecnologías con la imaginación y el cuidado artesanal; sin gluten, lactosa, huevo, trazas de pescado o frutos secos
-- SABOR ARANDANO: Las manos con pica soda de Cerdán tienen un característico e inconfundible sabor a arandono, una auténtica delicia para el paladar de niños y adultos. Perfectos para compartir con amigos y familiares
+- 🎊 IDEAL PARA: Fiestas de cumpleaños, Navidad, Halloween, fiestas temáticas u otras ocasiones especiales. Nuestros Sobres Pica Soda también son perfectos para incluirlos en piñatas y candy bar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CHJHNVZW{{</world>}}

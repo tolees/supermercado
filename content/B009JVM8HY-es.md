@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para el desayuno
-- Con textura esponjosas y crujientes
 - Conservar en un lugar fresco y seco
+- Adecuado para el desayuno
 - Ideal para toda la familia
+- Con textura esponjosas y crujientes
 - Se puede consumir con leche
 
 [🛒 Aquí!!!]({{< param buyurl >}})

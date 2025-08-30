@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece un resultado óptimo y adecuado
 - Producto de la marca Lancaster
 - Productos de cuidado de la piel para mujer
+- Ofrece un resultado óptimo y adecuado
 - Material de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

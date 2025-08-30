@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 21 pastillas de caldo de pollo deshidratado
 - Disfruta de un consomé o de una intensa sopa de ave
-- Para que tus recetas se recuerden por su intenso y delicioso sabor
 - Para un litro de caldo, disolver 2 pastillas en 1 litro de agua hirviendo
+- Para que tus recetas se recuerden por su intenso y delicioso sabor
 - Optimo para enriquecer guisos, arroz, pasta, sazonar ensaladas y carnes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

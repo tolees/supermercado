@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La fórmula con repador de enlaces + 5 aminoácidos repara 2 años de daños* y rellena las capas moleculares del cabello**. El cabello está más fuerte (+94% de fuerza***) con mayor elasticidad, movimiento****, y +85% de suavidad***.
-- Restaura la fuerza, la elasticidad y el movimiento del cabello**** y rellena las capas moleculares****.
 - Aplicar uniformemente sobre el cabello secado con toalla. Dejar actuar de 1 a 2 minutos y aclarar abundantemente.
+- Restaura la fuerza, la elasticidad y el movimiento del cabello**** y rellena las capas moleculares****.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D7NZ3N7P{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% Arábica, tostado medio, delicada intensidad (6)
+- Creado para los conocedores de los grandes arábicas, el Lavazza Club es el resultado de un blend de alta calidad, creado con granos de arábica de América del Sur
 - MIRAR Crema dorada y color cálido - AROMA Notas de frutos secos - SABOR Equilibrado con aromas ricos
 - El tueste lento, combinado con los conocimientos de Lavazza, tiene como resultado un café excepcional
-- Creado para los conocedores de los grandes arábicas, el Lavazza Club es el resultado de un blend de alta calidad, creado con granos de arábica de América del Sur
+- 100% Arábica, tostado medio, delicada intensidad (6)
 - Lavazza café molido para cafetera Club, paquete de 3 latas x 250 g (total 0,75 kg)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

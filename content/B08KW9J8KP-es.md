@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🍹 SUGERENCIA DE SERVICIO: En combinación con una tónica seca, KAIZA 5 GIN se distingue claramente de la diversidad internacional de ginebras. Su valor de reconocimiento es incomparable.
-- 🧊 SERVICIO PERFECTO: KAIZA 5 Gin es ideal para mezclar en cócteles, long drinks o clásicamente con agua tónica. Por su equilibrada aromaticidad es incluso un placer puro con hielo. Tu perfecto KAIZA 5 GIN TONIC: 5 cl KAIZA 5 Gin 15 cl Agua tónica Cáscara de pomelo Frambuesas Cubitos de hielo
-- 🔄 COMPOSICIÓN: Los 5 botánicos principales de KAIZA 5 GIN son grosella negra, enebro, pomelo, raíz de angélica y cilantro. La aclamada ginebra sudafricana con los más altos galardones destaca por su singular y sobresaliente perfil de sabor. Ideal para cualquier cata, degustación de ginebra y grandes eventos.
-- 🎁 REGALO: No solo un regalo para hombres, sino el mejor regalo para mujeres, porque con su noble diseño, etiqueta de alta calidad, medallas doradas en la botella y brillantes ojos de tigre, KAIZA Gin siempre convence. Como regalo sorpresa, de cumpleaños o Navidad - la ginebra perfecta para amantes del gin y un gran regalo para cualquier ocasión.
-- 📝 DESCRIPCIÓN: KAIZA 5 GIN, el nuevo London Dry Gin de Ciudad del Cabo, Sudáfrica. La cautivadora fragancia de grosella negra despierta el deseo del primer sorbo. Fresco, suave y exótico en boca, su aroma se despliega. Un placer incluso puro.
 - 🏅 PREMIOS: World Gin Awards 2021, 2022, 2023 y 2024 - Mejor Sabor Sudafricano, SA Global Spirits Masters Oro 2023, Asia Spirits Challenge 2023, Craft Gin Awards Oro 2019 y 2020, SA Craft Gin Awards Doble Oro 2021, San Francisco World Spirits Competition Oro 2018, SIP Awards Oro 2017, The Spirits Business - The Gin Masters Oro 2017
+- 🔄 COMPOSICIÓN: Los 5 botánicos principales de KAIZA 5 GIN son grosella negra, enebro, pomelo, raíz de angélica y cilantro. La aclamada ginebra sudafricana con los más altos galardones destaca por su singular y sobresaliente perfil de sabor. Ideal para cualquier cata, degustación de ginebra y grandes eventos.
+- 🧊 SERVICIO PERFECTO: KAIZA 5 Gin es ideal para mezclar en cócteles, long drinks o clásicamente con agua tónica. Por su equilibrada aromaticidad es incluso un placer puro con hielo. Tu perfecto KAIZA 5 GIN TONIC: 5 cl KAIZA 5 Gin 15 cl Agua tónica Cáscara de pomelo Frambuesas Cubitos de hielo
+- 📝 DESCRIPCIÓN: KAIZA 5 GIN, el nuevo London Dry Gin de Ciudad del Cabo, Sudáfrica. La cautivadora fragancia de grosella negra despierta el deseo del primer sorbo. Fresco, suave y exótico en boca, su aroma se despliega. Un placer incluso puro.
+- 🍹 SUGERENCIA DE SERVICIO: En combinación con una tónica seca, KAIZA 5 GIN se distingue claramente de la diversidad internacional de ginebras. Su valor de reconocimiento es incomparable.
+- 🎁 REGALO: No solo un regalo para hombres, sino el mejor regalo para mujeres, porque con su noble diseño, etiqueta de alta calidad, medallas doradas en la botella y brillantes ojos de tigre, KAIZA Gin siempre convence. Como regalo sorpresa, de cumpleaños o Navidad - la ginebra perfecta para amantes del gin y un gran regalo para cualquier ocasión.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KW9J8KP{{</world>}}

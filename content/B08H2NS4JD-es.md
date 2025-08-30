@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fairy lavavajillas líquido ultra concentrado
+- Aroma limpio y fresco; Premio a la Innovación 2021*
 - Espuma abundante con una sola gota y aclarado fácil que ayuda a ahorrar agua, tiempo y energía gracias a su gran rendimiento hasta en temperaturas frías
 - Nuestra fórmula respeta la piel por lo que no es necesario usar guantes
-- Aroma limpio y fresco; Premio a la Innovación 2021*
-- Fairy lavavajillas líquido ultra concentrado
 - Producto de limpieza con acción limpiadora que elimina la grasa al instante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

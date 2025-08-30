@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Axe Desodorante Men para Hombre Bodyspray Dark Temptation 35ml
 - Fórmula sin aluminio
-- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
-- Fragancia Dark Temptation con aroma a chocolate negro
+- Axe Desodorante Men para Hombre Bodyspray Dark Temptation 35ml
 - Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
+- Fragancia Dark Temptation con aroma a chocolate negro
+- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
 - Con Tecnología Dual Action: Elimina el mal olor, fragancias irresistibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})

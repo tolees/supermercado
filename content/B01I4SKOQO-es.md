@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - ENVASE: el envase contiene 200 ml de protector solar en formato crema, para proteger la piel del sol.
 - PREVIENE DE MANCHAS: gracias a su composición, la crema para el sol previene la formación de manchas y arrugas en la piel y también la protege del envejecimiento.
-- MODO DE EMPLEO: Aplicar generosa y uniformemente 30 minutos antes de la exposición al sol. Reaplicar frecuentemente, al menos cada 2 horas, después de secarse con la toalla, cada baño o actividad deportiva. Para preparar, proteger y cuidar la piel
 - RESISTENTE AL AGUA: la crema solar atópica es ideal para proteger la piel de los efectos adversos del sol en las pieles más sensibles, además al ser resistente al agua podrás entrar y salir del mar o piscina y estar siempre protegido.
 - FILTROS SOLARES: la crema para el sol para pieles atópicas contiene filtros solares FPS50+ para proporcionar una protección efectiva contra los efectos dañinos de los rayos UVA y UVB.
+- MODO DE EMPLEO: Aplicar generosa y uniformemente 30 minutos antes de la exposición al sol. Reaplicar frecuentemente, al menos cada 2 horas, después de secarse con la toalla, cada baño o actividad deportiva. Para preparar, proteger y cuidar la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01I4SKOQO{{</world>}}

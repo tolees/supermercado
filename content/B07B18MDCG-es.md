@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sabor equilibrado a manzana y aroma dulce afrutado
-- Se puede disfrutar mejor con 3 hielos y una rodaja de limón
 - Bebida natural procedente del zumo fermentado de manzana
+- Se puede disfrutar mejor con 3 hielos y una rodaja de limón
+- Sabor equilibrado a manzana y aroma dulce afrutado
 - 4.5 porcentaje en volumen de alcohol
 - La combinación óptima de manzanas dulces y ácidas
 

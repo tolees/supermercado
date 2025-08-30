@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Adecuado para acompañar asados, parilladas, ahumados y quesos
-- El embalaje puede variar
-- Vino tinto de color rubí intenso con capa media alta brillante
-- Tiene toques frutales, de bayas rojas con perfumes de vainilla y especias
 - Con una textura tánica agradable
+- El embalaje puede variar
+- Tiene toques frutales, de bayas rojas con perfumes de vainilla y especias
+- Vino tinto de color rubí intenso con capa media alta brillante
 - Con sabor suave y sabroso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

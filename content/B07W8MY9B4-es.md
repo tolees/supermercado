@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una vez abierto conservar en un recipiente hermético
 - Se puede servir solo o con leche
 - Café en grano de tueste natural
+- Una vez abierto conservar en un recipiente hermético
 - Ideal para el desayuno o una pausa durante el día
 - Fácil y rápido de preparar
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producción ecológica
 - Procedente de comercio justo
-- Certificado sin gluten
 - Fuente de proteína vegetal
+- Certificado sin gluten
+- Producción ecológica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B081NJ8F3J{{</world>}}

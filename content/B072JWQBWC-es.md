@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- País de origen: España
-- Variedades: Hojiblanca y Picudo
 - Ingredientes: aceite de oliva de categoría superior obtenido directamente de aceitunas y sólo mediante procedimientos mecánicos
+- Variedades: Hojiblanca y Picudo
+- País de origen: España
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B072JWQBWC{{</world>}}

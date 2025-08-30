@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aromas de canela y clavo
-- Fórmula de hierbas de vermut rojo
 - En paladar es cremosa y fresca
+- Fórmula de hierbas de vermut rojo
+- Aromas de canela y clavo
 - De color rojo
 - Expresivo en nariz
 

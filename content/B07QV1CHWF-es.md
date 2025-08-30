@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Beber antes, durante y después del entrenamiento
 - Postes para mantener el nivel de resistencia en ejercicios que requieren una resistencia prolongada
 - Bebida isotónica refrescante deportiva sabor cítrico
+- Beber antes, durante y después del entrenamiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07QV1CHWF{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con su cepillo consigue unas pestañas uniformemente separadas
-- Infundido con 4 lujosos aceites nutritivos: argán, maracuyá, marula y camelia
 - Consigue unas pestañas de apariencia suave y acondicionada
 - Máscara de pestañas de larga duración, sin grumos y fácil de quitar
+- Infundido con 4 lujosos aceites nutritivos: argán, maracuyá, marula y camelia
+- Con su cepillo consigue unas pestañas uniformemente separadas
 - Máscara de pestañas que ofrece un volumen definido al instante - 100% de 121 mujeres estuvieron de acuerdo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

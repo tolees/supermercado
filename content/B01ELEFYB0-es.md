@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
+- Sin trigo & Sin azúcar
 - Contiene a parte de aves de corral, salmón como fuentes de proteína de alta calidad.
 - Extractos de mejillones para fortalecer cartílagos, articulaciones y huesos
-- Sin trigo & Sin azúcar
-- Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
 - Con calostro que fortalece el sistema inmunitaria del perro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

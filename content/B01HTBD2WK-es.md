@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Paquete de 6 unidades
-- Producto sin azúcar
 - Aporta omega 3 y hierro que son esenciales para el desarrollo físico, visual e intelectual del niño
-- Leche de crecimiento líquida
 - Con vitaminas A, C y D
+- Producto sin azúcar
+- Paquete de 6 unidades
+- Leche de crecimiento líquida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01HTBD2WK{{</world>}}

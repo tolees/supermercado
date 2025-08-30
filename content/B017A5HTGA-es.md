@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Red Bull
 - La fórmula de Red Bull Energy Drink contiene una combinación única de ingredientes de alta calidad: Cafeína, Taurina, Vitaminas del grupo B, Sacarosa, Glucosa y Agua del manantial de los Alpes
+- Red Bull
 - Revitaliza Cuerpo y Mente
 - Red Bull Energy Drink es una bebida funcional que da alas cuando las necesitas
 

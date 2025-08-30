@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 💚 SMILEAT: nacimos para revolucionar la alimentación infantil y lo seguimos haciendo con cada producto. Como la primera marca B-Corp en alimentación infantil ecológica de España, en Smileat trabajamos para crear un impacto positivo en el mundo, ofreciendo productos ricos y responsables que cuidan de los más pequeños, del planeta y de su futuro.
-- 🌱 SMILEAT CACHITOS CON TROCITOS: Los CA-CHI-TOS Smileat están elaborados con trocitos más grandes y una consistencia ideal para estimular la masticación. Facilita la transición hacia alimentos sólidos y promoviendo una alimentación más autónoma.
 - 👶 APTO PARA PEQUES DESDE +10 MESES: especialmente formulado para la introducción de nuevos sabores y texturas en la dieta del peque. Perfectos para acompañarlos en esta etapa llena de movimiento y descubrimientos.
-- 🤱 CONFIANZA EN CADA ELECCIÓN: en Smileat nos comprometemos con la sostenibilidad y la transparencia, utilizando ingredientes ecológicos y promoviendo prácticas responsables que cuidan del planeta y del futuro de nuestros peques.
 - 🌿 INGREDIENTES DE CALIDAD: contiene verduras seleccionadas y aceite de oliva virgen extra. Sin azúcar añadido, contiene azúcares naturalmente presentes en los alimentos, sin sal añadida, sin gluten, sin leche y sin huevos, adaptándose a diversas necesidades alimentarias.
+- 🤱 CONFIANZA EN CADA ELECCIÓN: en Smileat nos comprometemos con la sostenibilidad y la transparencia, utilizando ingredientes ecológicos y promoviendo prácticas responsables que cuidan del planeta y del futuro de nuestros peques.
+- 🌱 SMILEAT CACHITOS CON TROCITOS: Los CA-CHI-TOS Smileat están elaborados con trocitos más grandes y una consistencia ideal para estimular la masticación. Facilita la transición hacia alimentos sólidos y promoviendo una alimentación más autónoma.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08VDD5GPR{{</world>}}

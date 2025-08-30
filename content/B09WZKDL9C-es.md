@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- FEMENINA Y REBELDE: Un agua de colonia, para mujeres, con elementos explosivos y dulces que la convierten en la perfecta colonia para ellas. ¡Acaparará todos tus sentidos!
 - AROMA DE MUJER: Nike Ultra Pink es un perfume femenino con un carácter insurgente y con vitalidad, concebida para empujarte a vivir tus mejores experiencias. Viene un pack de 2 frascos vaporizadores de 100 y 30 mililitros.
+- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
 - PIRÁMIDE OLFATIVA: Notas de salida: grosella negra, pimienta rosa y pera; Notas de corazón: jazmín, rosa, coco y caramelo; Notas de fondo: benjuí, vainilla, heliotropo y pachulí
 - TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia oriental gourmand, que rinde homenaje a todas las mujeres indomables y con muchas ganas de vivir, que buscan retos y todo lo que nos emciona y revoluciona.
-- FEMENINA Y REBELDE: Un agua de colonia, para mujeres, con elementos explosivos y dulces que la convierten en la perfecta colonia para ellas. ¡Acaparará todos tus sentidos!
-- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09WZKDL9C{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calidad adecuada de la bebida garantizada por el fabricante
 - Aterciopelado y ligeramente dulce
 - Sabor equilibrado, fuerte y duradero
+- Calidad adecuada de la bebida garantizada por el fabricante
 - Madurado en barricas de roble americano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sin gluten, sin lactosa.
-- Con Zinc y vitamina C, que contribuyen a la protección de las células frente al daño oxidativo.
-- Contiene extractos de Equisetum arvense que contribuye al bienestar del cabello.
 - Complemento alimenticio con ingredientes para mantener el cabello y las uñas saludables.
+- Contiene extractos de Equisetum arvense que contribuye al bienestar del cabello.
+- Con Zinc y vitamina C, que contribuyen a la protección de las células frente al daño oxidativo.
 - 180 cápsulas duras.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NIDINA 3 contiene más vitamina D y más Hierro que la leche de vaca
-- NIDINA 3 tiene también Vitaminas C y D que contribuyen a la función normal del sistema inmunitario - Además contiene Hierro y Zinc
 - NIDINA ha acompañado a cinco generaciones de bebés ayudandolos a proporcionarles una nutrición adecuada en cada etapa de su desarrollo
 - Contiene Bífidus lactis, una bifidobacteria que forma parte de la flora intestinal - Este probiotico está avalado por numerosos estudios cientificos
+- NIDINA 3 contiene más vitamina D y más Hierro que la leche de vaca
 - Nestlé NIDINA 3 es una formula infantil PROTECT PLUS indicada para niños desde los 12 meses - A partir del año los niños todavia tienen necesidades nutricionales especiales, por eso a partir de los 12 meses es recomendable que los niños tomen 2 vasos (1/2 litro) de una leche especialmente adaptada para niños
+- NIDINA 3 tiene también Vitaminas C y D que contribuyen a la función normal del sistema inmunitario - Además contiene Hierro y Zinc
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ISP6BVG{{</world>}}

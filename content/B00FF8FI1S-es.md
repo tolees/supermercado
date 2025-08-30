@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es ideal para disfrutar en buena compañía, solo o con ginger ale y una rodaja de naranja
-- De color ámbar dorado y apariencia ligera
 - En nariz percibimos intensos aromas florales, notas especiadas, ahumados
 - En boca es suave y cremoso, se percibe la turba con vainilla, mazapán, manzana y cítricos
+- Es ideal para disfrutar en buena compañía, solo o con ginger ale y una rodaja de naranja
 - Envejecido durante 8 años en barricas de roble americano
+- De color ámbar dorado y apariencia ligera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FF8FI1S{{</world>}}

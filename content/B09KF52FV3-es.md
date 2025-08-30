@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con relieve: licorera de cristal de diseño moderno y vasos que hacen juego, perfectos para gin o ron
 - Para licores: kit para servir alcoholes de todo tipo como brandi, whisky, jerez o ron con estilo
 - Set: 4 vasos de whisky y 1 decantador de cristal con tapa. Perfecto para organizar una cata en casa
 - Regalo: el juego de botella y vasos es ideal para amantes del whisky y viene en en una elegante caja
 - Detalles: vasos de cristal aptos para lavavajillas. Decantador de 800 ml aprox. y vasos de 300 ml
-- Con relieve: licorera de cristal de diseño moderno y vasos que hacen juego, perfectos para gin o ron
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09KF52FV3{{</world>}}

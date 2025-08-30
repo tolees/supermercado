@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Productos para tu cuidado personal a tu alcance, de la mano de los mejores proveedores por un módico precio
-- BIENESTAR PREBIOPRO 30cap ACTIVA
 - Este envase contiene 30 cápsulas
+- BIENESTAR PREBIOPRO 30cap ACTIVA
+- Productos para tu cuidado personal a tu alcance, de la mano de los mejores proveedores por un módico precio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0098H1VLI{{</world>}}

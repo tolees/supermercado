@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 🧾 INFORMACIÓN NUTRICIONAL: Disponible en la descripción del producto o la sección de imágenes
 - 🏋️‍♀️ COMBINALO: Si necesitas mas sales minerales puedes combinarlo con 1 cápsula de Salts Electrolytes o si necesitas mas energía lo puedes combinar con 1-2 Energy Gels
-- ✅ APORTES - AMILOPECTINA: Sirve como fuente de energía, permitiendo un vaciado gástrico y una recarga de glucógenos mas rápida que fuentes convencionale
 - ✅ APORTES - BETA-ALANINA: La beta alanina inhibe el ácido láctico permitiendo retrasar la aparición de la fatiga
-- ✅ APORTES - SALES MINERALES: El isótonico garantiza un nivel de sales minerales adecuado para evitar la deshidratación
 - 🚴‍♂️ USO: Bebida Isotónica perfecto para entrenamientos y competiciones, ideal para antes, durante y después de ejercicios de una duración inferior a 90´
 - 🧾 INSTRUCCIONES: Disolver 1,5 cazos (20g) de producto con 500ml de agua y agitar. Consumir con regularidad en pequeñas dosis de 150ml cada 15/20 minutos, durante y después del ejercicio.
-- 🚴‍♂️ DESCRIPCIÓN: Bebida energética en polvo a base de Hidratos de carbono, vitaminas, minerales y Beta-Alanina. Con edulcorante
-- 🧾 INFORMACIÓN NUTRICIONAL: Disponible en la descripción del producto o la sección de imágenes
+- ✅ APORTES - AMILOPECTINA: Sirve como fuente de energía, permitiendo un vaciado gástrico y una recarga de glucógenos mas rápida que fuentes convencionale
 - 💯 EXTRA: Bebida isotónica sin ázucar, sin lactosa, sin gluten, sin aceite de palma, no contiene azúcares y no modificado genéticamente. Apta para veganos y sin gluten. Bajo aporte de kcal
+- 🚴‍♂️ DESCRIPCIÓN: Bebida energética en polvo a base de Hidratos de carbono, vitaminas, minerales y Beta-Alanina. Con edulcorante
+- ✅ APORTES - SALES MINERALES: El isótonico garantiza un nivel de sales minerales adecuado para evitar la deshidratación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074QSS7P9{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sabor: Varios
-- Uvas: Barbera-Nebbiolo-Merlot-Cabernet Sauvignon
 - Perfume: Varios
+- Sabor: Varios
 - Maridajes: se puede servir con grandes platos de carnes rojas y quesos añejados, también puede hacer después de la cena agradable
+- Uvas: Barbera-Nebbiolo-Merlot-Cabernet Sauvignon
 - Color: rojos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con intenso sabor a frutos rojos
 - Deliciosas piezas en forma de moras y frambuesa
 - Conservar en lugar fresco y seco
-- Con intenso sabor a frutos rojos
 - Caramelos de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

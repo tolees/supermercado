@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - A PRUEBA DE MANCHAS
-- PESTAÑAS 2 VECES MÁS LARGAS: Longitud similar a una extensión. Duración intensa.
-- 2 EN 1 SÉRUM + MÁSCARA DE PESTAÑAS: Infusionada con Pro Vitamina B5, nutre y mejora la condición de las pestañas con el tiempo.
-- DURACIÓN DE HASTA 24 HORAS: Su cepillo cónico con fibras flexibles amplifica cada pestaña para una longitud similar a una extensión de pestañas y una definición que duran hasta 24 horas.
 - LIVE BOLDLY CON REVLON: El maquillaje de larga duración de Revlon ofrece una gama de sombras de ojos, delineadores, colores de labios mates o brillantes y mucho más. Crea cualquier look que te apetezca: de día a dramático, de día a noche, de la semana al fin de semana
+- PESTAÑAS 2 VECES MÁS LARGAS: Longitud similar a una extensión. Duración intensa.
+- DURACIÓN DE HASTA 24 HORAS: Su cepillo cónico con fibras flexibles amplifica cada pestaña para una longitud similar a una extensión de pestañas y una definición que duran hasta 24 horas.
+- 2 EN 1 SÉRUM + MÁSCARA DE PESTAÑAS: Infusionada con Pro Vitamina B5, nutre y mejora la condición de las pestañas con el tiempo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CX2T8BMG{{</world>}}

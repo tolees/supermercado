@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Este producto está indicado para todo tipo de pieles.
+- Contiene 200 ml.
 - Ofrece una protección solar alta 11-30.
 - Este producto está indicado para mujeres.
-- Contiene 200 ml.
 - De la marca Nivea.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

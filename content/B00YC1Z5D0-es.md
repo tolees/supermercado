@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado en una empresa, que tambien manipula derivados lacteos
 - Ingredientes: azúcar, jarabe de glucosa, almidón, agua, maltodextrina, acidulantes: e330, e270, corrector de acidez: e325, estabilizante: goma arábiga, aromas, agentes de recubrimiento: e901, e903, colorantes: ver sello
+- Fabricado en una empresa, que tambien manipula derivados lacteos
 - País de origen: España
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

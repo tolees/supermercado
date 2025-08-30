@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de calidad
 - Producto de belleza
+- Material de calidad
 - Adecuado para tu higiene
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sus minerales, yodo y otros oligoelementos favorecen el metabolismo
-- Alimento completo con mezcla de semillas y granos de primera calidad para dar como alimento principal a los canarios
-- Naturalmente sin colorantes ni conservantes, sin aromas artificiales y sin azúcar
-- Desarrollado con la ayuda de veterinarios y expertos en aves
 - Sus vitaminas esenciales previenen cualquier síntoma de ciencia alimentaria y sus beta-glucanos fortalecen el sistema inmunológico
+- Desarrollado con la ayuda de veterinarios y expertos en aves
+- Naturalmente sin colorantes ni conservantes, sin aromas artificiales y sin azúcar
+- Alimento completo con mezcla de semillas y granos de primera calidad para dar como alimento principal a los canarios
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00BL8APVO{{</world>}}
