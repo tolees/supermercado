@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La segunda capa de liberación prolongada contiene Valeriana que ayuda a mantener un sueño natural, Melisa, Pasiflora, Vitamina B6 que contribuye al funcionamiento normal del sistema nervioso y Zinc
+- Mini comprimido bicapa para una doble acción
 - Como tomar Sueño Complet: 1 comprimido al día 30 minutos antes de acostarse
 - Sin gluten, sin lactosa, sin azúcares añadidos, vegano
 - La primera capa de liberación inmediata contiene melatonina, que contribuye a reducir el tiempo necesario para conciliar el sueño
-- Mini comprimido bicapa para una doble acción
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KC3YMXH{{</world>}}

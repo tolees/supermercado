@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene huevo. Puede contener trazas de cacahuetes, soja y otros frutos de cáscara.
-- Elaborado con ingredientes procedentes de agricultura ecológica
 - Sin leche
 - Certificado gluten free, apto para dietas celiacas
 - Rellenas de crema de cacao
+- Elaborado con ingredientes procedentes de agricultura ecológica
+- Contiene huevo. Puede contener trazas de cacahuetes, soja y otros frutos de cáscara.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01MYA2AUN{{</world>}}

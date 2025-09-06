@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- País de origen: España
 - Sin gluten, sin lactosa
 - Jugoso y sabroso filete de pechuga 100% de pavo en conserva con agua y sal
-- País de origen: España
 - Mantener en un lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

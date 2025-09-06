@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de dos botellas de Chivas Regal 18 años y 6 vasos Ballantines de REGALO
 - Acabado de larga duración, afrutado
 - Con notas de fruta seca, caramelo, chocolate negro
 - Sabor aterciopelado, floral, chocolate negro, toques de humo dulce y suave
+- Pack de dos botellas de Chivas Regal 18 años y 6 vasos Ballantines de REGALO
 - De color ámbar intenso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

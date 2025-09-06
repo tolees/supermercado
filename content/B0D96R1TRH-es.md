@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🍃 BIENESTAR NATURAL: Eleva tu bienestar con nuestro té frutos del bosque, con su sabor frutal, y flores uo cítricos con un poco de ácido. Este es un te cargado de antioxidantes naturales que apoyan tu salud y te hacen sentir mejor.
-- 🌿 EMBALAJE ECOLÓGICO: Contribuye al cuidado del planeta con nuestro embalaje resellable y ecológico, que no solo preserva la frescura de tu té sino que también reduce tu huella ambiental.
-- 🛺 GARANTÍA DE DEVOLUCIÓN: En FRISAFRAN nos enorgullece ofrecer una garantía de devolución de 14 días en todos nuestros productos Si tienes alguna pregunta o necesitas ayuda con cualquiera de nuestros productos, nuestro amable servicio de atención al cliente estará encantado de asistirte
 - ☕ SIN TEÍNA, MÁS RELAX: Disfruta de la tranquilidad sin los efectos de la teína con nuestro té de frutos del bosque 100% natural, perfecto para momentos de relajación y calma ya que por ser rico en vitaminas, induce a la relajación y el sueño profundo.
+- 🍃 BIENESTAR NATURAL: Eleva tu bienestar con nuestro té frutos del bosque, con su sabor frutal, y flores uo cítricos con un poco de ácido. Este es un te cargado de antioxidantes naturales que apoyan tu salud y te hacen sentir mejor.
 - 🌺 SABOR EXQUISITO: Nuestro té de Infusión frutas del bosque con manzana, hibisco, escaramujo, naranja te deleitará con su sabor excepcionalmente refrescante y afrutado, convirtiendo cada sorbo en una experiencia deliciosa.
+- 🛺 GARANTÍA DE DEVOLUCIÓN: En FRISAFRAN nos enorgullece ofrecer una garantía de devolución de 14 días en todos nuestros productos Si tienes alguna pregunta o necesitas ayuda con cualquiera de nuestros productos, nuestro amable servicio de atención al cliente estará encantado de asistirte
+- 🌿 EMBALAJE ECOLÓGICO: Contribuye al cuidado del planeta con nuestro embalaje resellable y ecológico, que no solo preserva la frescura de tu té sino que también reduce tu huella ambiental.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D96R1TRH{{</world>}}

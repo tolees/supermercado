@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pack de 24 botellas de 33 cl de cerveza Mahou Reserva, una cerveza Extra Dorada, fácil de beber, que homenajea los pequeños placeres de la vida, con 6,3%vol. Recomendación de temperatura de servicio de 6-9ºC
-- Sabor: En boca se percibe una textura de cuerpo notable, amargor moderado y agradable persistencia
-- Mahou Reserva es una cerveza inspirada en las “Helles Bock” de la Escuela Alemana. Cerveza de sabor único, con ingredientes especialmente seleccionados: la malta Munich proporciona matices acaramelados y los lúpulos americanos en late hopping aportan un refinado aroma
-- Aroma: Su perfil aromático es equilibrado, dónde los aromas a plátano y manzana roja, se entremezclan con los delicados sabores de las maltas tostadas , dando paso a notas herbales del lúpulo, y todo ello envuelto en una delicada fragancia alcohólica
 - Aspecto: Cerveza extra dorada de color dorado intenso, aspecto brillante, con crema suntuosa y persistente
+- Mahou Reserva es una cerveza inspirada en las “Helles Bock” de la Escuela Alemana. Cerveza de sabor único, con ingredientes especialmente seleccionados: la malta Munich proporciona matices acaramelados y los lúpulos americanos en late hopping aportan un refinado aroma
+- Sabor: En boca se percibe una textura de cuerpo notable, amargor moderado y agradable persistencia
+- Pack de 24 botellas de 33 cl de cerveza Mahou Reserva, una cerveza Extra Dorada, fácil de beber, que homenajea los pequeños placeres de la vida, con 6,3%vol. Recomendación de temperatura de servicio de 6-9ºC
+- Aroma: Su perfil aromático es equilibrado, dónde los aromas a plátano y manzana roja, se entremezclan con los delicados sabores de las maltas tostadas , dando paso a notas herbales del lúpulo, y todo ello envuelto en una delicada fragancia alcohólica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DT724VG1{{</world>}}

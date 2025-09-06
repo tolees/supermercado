@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🔍 Pureza probada en laboratorio: la seguridad de todos nosotros es nuestra máxima prioridad, por eso Alpha Foods se somete a los procedimientos de control más exhaustivos. No fabricamos productos industriales en masa, sino que mezclamos todos nuestros polvos en pequeños lotes en una moderna planta de producción de acuerdo con las normas de calidad más exigentes. Todos los productos se basan en materias primas certificadas de acuerdo con la normativa vigente de la UE.
-- 💌Desarrollado en California y, como todos los productos de Alpha Foods, fabricado en Alemania en instalaciones de última generación con los más altos estándares de calidad.
 - ♻️Decimos adiós a los scoops: por el bien del medio ambiente, en el futuro ya no incluiremos una cuchara dosificadora en nuestros envases, ¡No te preocupes! te ayudaremos con métodos de dosificación alternativos. La transición está ocurriendo gradualmente, por lo que tus productos Alpha Foods pueden llegar actualmente con o sin cuchara / scoop.
 - 💫 Proteína vegetal: Solo utilizamos proteínas de origen vegetal, usando como base principal la proteína de Soja, Guisantes amarillos y arroz integral, además estos preparados proteícos están complementados con semillas germinadas de: cáñamo, girasol, calabaza y lino. Todas germinadas para obtener una proteína en polvo muy completa, compleja y de alta biodisponibilidad.
+- 🔍 Pureza probada en laboratorio: la seguridad de todos nosotros es nuestra máxima prioridad, por eso Alpha Foods se somete a los procedimientos de control más exhaustivos. No fabricamos productos industriales en masa, sino que mezclamos todos nuestros polvos en pequeños lotes en una moderna planta de producción de acuerdo con las normas de calidad más exigentes. Todos los productos se basan en materias primas certificadas de acuerdo con la normativa vigente de la UE.
+- 💌Desarrollado en California y, como todos los productos de Alpha Foods, fabricado en Alemania en instalaciones de última generación con los más altos estándares de calidad.
 - 🥧Naturalmente delicioso: refinado con auténtica vainilla y un toque de la mejor canela de Ceilán. Nuestra proteína en polvo es excelente en batidos de proteínas, pero también se puede utilizar en otras recetas. Remover bien (preferiblemente en agua caliente) para evitar grumos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

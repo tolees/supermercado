@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Consumir entre 0° y 3°C para obtener sus máximas cualidades; ‎conservar el producto en un lugar limpio, seco y bien ventilado entre 5º y 15ºC
-- INGREDIENTES: AGUA, MALTA DE CEBADA, MAÍZ, LÚPULO Y EXTRACTO DE LÚPULO
 - Cerveza tipo lager Especial con 5.5% de alcohol en volumen y sin gluten
+- Consumir entre 0° y 3°C para obtener sus máximas cualidades; ‎conservar el producto en un lugar limpio, seco y bien ventilado entre 5º y 15ºC
 - Cerveza dorada, brillante y con espuma blanca consistente; de cuerpo medio y aromas frescos y cítricos; destaca su equilibrio entre un amargor suave y matices de malta
+- INGREDIENTES: AGUA, MALTA DE CEBADA, MAÍZ, LÚPULO Y EXTRACTO DE LÚPULO
 - Pack de 4 cajas de cerveza; 6 botellas de 20cl en cada caja
 
 [🛒 Visítala!!!]({{< param buyurl >}})

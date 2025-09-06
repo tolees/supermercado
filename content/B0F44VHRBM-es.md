@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🌸Nueva Cápsula concentrada con forma redonda. Limpieza profunda gracias a la cavidad azul, fuerte poder quitamanchas y antiolores para ropa blanca y de color gracias a la combinación de activos
 - 🌸Perfume duradero y protector de colores y fibras, desarrollado a partir de una combinación de flores y un toque fresco
 - 🌸Detergente apto para ropa de bebé y pieles delicadas
+- 🌸Nueva Cápsula concentrada con forma redonda. Limpieza profunda gracias a la cavidad azul, fuerte poder quitamanchas y antiolores para ropa blanca y de color gracias a la combinación de activos
 - ♻️Se reduce la cantidad de plástico en cada film hidrosoluble. Perfume elaborado con esencias naturales e ingredientes activos biodegradables en su fórmula
 - 🌸Detergente para la lavadora en formato cápsulas tricámara solubles y perfumadas de fácil uso ¡Directo al tambor de la lavadora y punto!
 

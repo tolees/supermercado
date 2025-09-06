@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Consejos de utilización: Conservar entre 5 °C y 25 °C. No apto para seda. No usar en textiles ignífugos. No vertir directamente sobre la tela. 1 tapón = 40 ml Carga estándar (4-5 kg) Suave = 30 ml. Extra suave = 60 ml (2 x 30 ml)
-- Refill disponible. Reduce el consumo de plásticos rellenando tu botella con el formato de 5L.
-- No testado en animales
 - ECOVER Detergente Líquido Universal contiene ingredientes activos a base de plantas para ayudar que tu ropa dure más. Lucha contra las manchas difíciles, y reviven los colores y el brillo. Elimina las pelusas de las fibras de algodón después de varios lavados.
-- Fabricado en una fábrica certificada de cero residuos. Botella fabricada con plástico 100% PCR y tapón con plástico PCR al 50%
 - Elaborado con ingredientes biodegradables a base de plantas
-- Fragancia Honeysuckle & Jasmine
-- Apto para veganos
+- Fabricado en una fábrica certificada de cero residuos. Botella fabricada con plástico 100% PCR y tapón con plástico PCR al 50%
 - Combate las manchas y el blanqueamiento, ayudando a que la ropa dure más tiempo
+- Apto para veganos
+- No testado en animales
+- Fragancia Honeysuckle & Jasmine
+- Refill disponible. Reduce el consumo de plásticos rellenando tu botella con el formato de 5L.
+- Consejos de utilización: Conservar entre 5 °C y 25 °C. No apto para seda. No usar en textiles ignífugos. No vertir directamente sobre la tela. 1 tapón = 40 ml Carga estándar (4-5 kg) Suave = 30 ml. Extra suave = 60 ml (2 x 30 ml)
 - Elimina las manchas para que tus prendas duren más tiempo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

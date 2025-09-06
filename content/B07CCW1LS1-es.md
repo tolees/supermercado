@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidado e higiene
-- Scottex utiliza fibras certificadas FSC de fuentes responsables para cuidar del medio ambiente
-- Envase 100% reciclable (por favor verificar localmente)
-- 100% desechable por el WC
-- Complemento de tu Scottex seco para su higiene
-- Dermatológicamente testado, libre de alcohol y colorantes
 - Con efecto calmante Aloe Vera y PH equilibrado
+- Scottex utiliza fibras certificadas FSC de fuentes responsables para cuidar del medio ambiente
+- 100% desechable por el WC
+- Dermatológicamente testado, libre de alcohol y colorantes
+- Complemento de tu Scottex seco para su higiene
+- Cuidado e higiene
+- Envase 100% reciclable (por favor verificar localmente)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CCW1LS1{{</world>}}

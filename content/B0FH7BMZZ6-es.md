@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No pegajoso, no graso. No comedogénico.
-- Testado bajo control dermatológico. Apto para pieles sensibles.
-- Acabado invisible, no deja marcas blancas. No pegajoso, no graso. No comedogénico.
-- El nuevo fluido protector de barrera cutánea con [ácido hialurónico + glicerina].
 - Protección de la barrera cutánea, 24 horas de hidratación y muy alta protección FPS 50+.
+- Acabado invisible, no deja marcas blancas. No pegajoso, no graso. No comedogénico.
+- No pegajoso, no graso. No comedogénico.
+- El nuevo fluido protector de barrera cutánea con [ácido hialurónico + glicerina].
+- Testado bajo control dermatológico. Apto para pieles sensibles.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FH7BMZZ6{{</world>}}

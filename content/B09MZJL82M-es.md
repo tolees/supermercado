@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Consumir frío (entre 6º-8ºC); si es necesario, enfriar durante un par de horas en una cubitera con agua, sal y hielo; evitar enfriamientos bruscos en el congelador
 - Nota de cata (boca): buena acidez y equilibrio en boca; es fresco y alegre
-- Varietales: Chardonnay y Xarel
 - Nota de cata (vista): color rosa pálido con finas burbujas
 - Nota de cata (nariz): aromas florales(hibiscus) y afrutados (cereza y granada)
+- Varietales: Chardonnay y Xarel
+- Consumir frío (entre 6º-8ºC); si es necesario, enfriar durante un par de horas en una cubitera con agua, sal y hielo; evitar enfriamientos bruscos en el congelador
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09MZJL82M{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Útil para tratar problemas de tos y dolor de garganta
 - Una fuente de vitamina E y vitamina K
 - Contiene calcio, zinc, potasio y fósforo
-- Jarabe De Algarrobo Se Utiliza Como Un Jarabe Natural Para Las Calles Respiratorias
 - Rico en fibra
+- Útil para tratar problemas de tos y dolor de garganta
+- Jarabe De Algarrobo Se Utiliza Como Un Jarabe Natural Para Las Calles Respiratorias
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B075WY6JNH{{</world>}}

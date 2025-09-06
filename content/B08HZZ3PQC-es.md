@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Control y Brillo
 - Tecnología instalast prolonga cualquier look con la máxima estructura y fijación, añadiendo brillo y evitando la acumulación, ya que se cepilla fácilmente
+- Control y Brillo
 - Volumen 500 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})

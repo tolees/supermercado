@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con protección total contra agentes externos
 - Con fragancia a pomelo y limón
-- Deja las manos hidratadas y ligeramente perfumadas
-- Deja las manos limpias
+- Con protección total contra agentes externos
 - Este jabón mantiene la hidratación natural de la piel
+- Deja las manos limpias
+- Deja las manos hidratadas y ligeramente perfumadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZQGTC4R{{</world>}}

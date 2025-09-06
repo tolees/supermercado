@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto De Alta Calidad
 - Marca Neutrogena
+- Producto De Alta Calidad
 - Loción
 - Este Perfume Crea Alrededor De La Persona Que Lo Lleva Un Aire De Sensualidad
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- RÁPIDA DISOLUCIÓN: se disuelve de manera rápida para ofrecerte resultados óptimos incluso en ciclos cortos del lavaplatos
-- Finish es la marca recomendada por los principales fabricantes de lavavajillas
-- GEL PARA EL LAVAVAJILLAS concentrado con limón desengrasante todo en uno
 - LIMÓN DESENGRASANTE: para combatir los residuos grasientos y obtener resultados óptimos
+- Finish es la marca recomendada por los principales fabricantes de lavavajillas
+- RÁPIDA DISOLUCIÓN: se disuelve de manera rápida para ofrecerte resultados óptimos incluso en ciclos cortos del lavaplatos
+- GEL PARA EL LAVAVAJILLAS concentrado con limón desengrasante todo en uno
 - VAJILLA LIMPIA Y BRILLANTE, sin restos de grasa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

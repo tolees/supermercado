@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Disfruta con alegría y diversión en cualquier momento
-- Mix de distintas piezas en una misma bolsa
-- Surtido de golosinas
 - Ositos de oro, fresón, huevo, balla-balla fresa y balla-balla duo
+- Surtido de golosinas
+- Mix de distintas piezas en una misma bolsa
 - Variedad multicolor para grandes y pequeños
 
 [🛒 Visítala!!!]({{< param buyurl >}})

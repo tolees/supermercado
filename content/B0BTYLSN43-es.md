@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apto para toda la familia
 - Con un toque de canela y azúcar granulado
 - Ideal para acompañar el café
 - De textura crujiente
+- Apto para toda la familia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTYLSN43{{</world>}}

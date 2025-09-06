@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - RICO EN PROTEÍNAS Y VITAMINAS. El atún Albo en aceite de girasol es un producto naturalmente sin gluten, rico en fósforo y vitamina B3, y una fuente saludable de ácidos grasos omega 3 y proteínas de alto nivel biológico.
 - CONSERVAS ALBO, DESDE 1869. En Albo llevamos más de 150 años dedicados a elaborar conservas de pescado y marisco, así como platos preparados que aportan a tu dieta alimentos de calidad y con un gran sabor. Nuestro secreto reside en seleccionar las materias primas y tratarlas con el mayor cuidado y cariño posible para mantener sus cualidades nutricionales y organolépticas.
-- IDÓNEO PARA TAPAS Y ENSALADAS. El atún Albo es tan fresco que puedes comértelo solo, en una tapa o agregarlo a una ensalada. Cada bocado estará lleno de sabor.
-- ATÚN CLARO EN ACEITE DE GIRASOL. El atún claro de Albo se elabora con 100% lomo de atunes de tamaño mediano, testados con alta frecuencia para garantizar niveles de mercurio muy por debajo de la recomendación de AESAN. Se congelan solamente una vez al salir del mar, lo que evita la pérdida de nutrientes y la formación de microcristales.
 - PRÁCTICO FORMATO TRIPACK. Dispón de las latas de atún en aceite de girasol Albo en un práctico formato de 3 latas de una porción de 70 gramos cada una, idóneo para apreciar el lomo de atún claro con sus lascas y su firmeza.
+- ATÚN CLARO EN ACEITE DE GIRASOL. El atún claro de Albo se elabora con 100% lomo de atunes de tamaño mediano, testados con alta frecuencia para garantizar niveles de mercurio muy por debajo de la recomendación de AESAN. Se congelan solamente una vez al salir del mar, lo que evita la pérdida de nutrientes y la formación de microcristales.
+- IDÓNEO PARA TAPAS Y ENSALADAS. El atún Albo es tan fresco que puedes comértelo solo, en una tapa o agregarlo a una ensalada. Cada bocado estará lleno de sabor.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5RVH494{{</world>}}

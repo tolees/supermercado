@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descubre las intensas notas de caramelo de illy Arabica Selection Brasil Cerrado Mineiro, nuestro primer café certificado regenagri 100% de agricultura regenerativa.
-- Además de proteger los territorios donde se produce el café, regeneramos los recursos de la tierra, del agua y de la biodiversidad.
-- En la región de Cerrado Mineiro, seleccionamos únicamente cultivos certificados regenagri para este producto. Este programa contempla el futuro de la tierra y de la gente que habita en ella desde una perspectiva regenerativa.
-- Para añadir más valor al café que tanto te gusta, cuidamos el grano del que procede. Y, antes que eso, el suelo donde lo cultivamos. Por eso, hemos adoptado la agricultura regenerativa, para regenerar los recursos de la tierra
 - Las notas de caramelo te arrastrarán a una marea de sabor hacia Cerrado Mineiro, donde cultivamos nuestro primer café Arabica Selection certificado 100% de agricultura regenerativa.
+- Además de proteger los territorios donde se produce el café, regeneramos los recursos de la tierra, del agua y de la biodiversidad.
+- Para añadir más valor al café que tanto te gusta, cuidamos el grano del que procede. Y, antes que eso, el suelo donde lo cultivamos. Por eso, hemos adoptado la agricultura regenerativa, para regenerar los recursos de la tierra
+- Descubre las intensas notas de caramelo de illy Arabica Selection Brasil Cerrado Mineiro, nuestro primer café certificado regenagri 100% de agricultura regenerativa.
+- En la región de Cerrado Mineiro, seleccionamos únicamente cultivos certificados regenagri para este producto. Este programa contempla el futuro de la tierra y de la gente que habita en ella desde una perspectiva regenerativa.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CHF9Q58S{{</world>}}

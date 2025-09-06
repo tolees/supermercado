@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ideal para ropa interior, ropa de deporte, ropa de bebés y niños, textiles del hogar, ropa en contacto con personas enfermas, ropa delicada que no se puede lavar a altas temperaturas y textiles lavables en contacto con mascotas.
-- No mancha la ropa. Apto para todo tipo de tejidos y colores (ropa blanca y de color).
-- Desinfecta incluso en agua fría y acaba con las bacterias, como S. aureus o E. coli, hongos y virus envueltos.
 - Sanytol Desinfectante Textil sin lejía elimina el 99,9% de gérmenes (bacterias, virus envueltos y hongos).
+- No mancha la ropa. Apto para todo tipo de tejidos y colores (ropa blanca y de color).
 - Elimina de raíz los gérmenes que provocan el mal olor en los textiles, dejando un agradable y duradero perfume en la colada.
+- Desinfecta incluso en agua fría y acaba con las bacterias, como S. aureus o E. coli, hongos y virus envueltos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0828BDWPP{{</world>}}

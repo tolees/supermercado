@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crema Gel antienvejecimiento hidratante
 - Indicado especialmente para pieles mixtas
 - Ácido glicólico libre y liposomado
+- Crema Gel antienvejecimiento hidratante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004PGVU6I{{</world>}}

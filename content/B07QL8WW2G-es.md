@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elaborado con tecnología motionsense que se activa con el movimiento
 - Desodorante invisible con tecnología antimanchas
+- Elaborado con tecnología motionsense que se activa con el movimiento
 - Rexona Men Desodorante Antitranspirante Invisible Ice 200ml
 - Secado rápido
 - Desodorante en aerosol para hombre con 0% alcohol

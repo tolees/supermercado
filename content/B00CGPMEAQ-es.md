@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es adecuado para cabellos grises, aclarados y decolorados
 - No deja el cuero cabelludo irritado o seco
+- Es adecuado para cabellos grises, aclarados y decolorados
 - Champú que ayuda a atenuar los reflejos amarillos
 - El producto contiene pigmentos violetas
 

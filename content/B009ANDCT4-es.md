@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Anti-Blemish Solutions Clarifying Lotion 200 Ml
 - Productos de belleza e higene personal para hombres y mujeres de todas las edades.
+- Anti-Blemish Solutions Clarifying Lotion 200 Ml
 - La belleza más deasada a tu alcanze con los mejores productos del mercado al mejor .
 
 [🛒 Comprar!!!]({{< param buyurl >}})

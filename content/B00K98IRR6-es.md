@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona suavidad al cabello
 - Marca: REVLON
+- Proporciona suavidad al cabello
 - Deja el cabello fácil de peinar y manejable
 - Sin sulfatos
 

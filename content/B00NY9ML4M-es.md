@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Productos de Maquillaje para Mujer
 - Redescubre la belleza que hay en ti
 - Sombra de ojos Colorstay Looks Book de Revlon
 - Los productos de la marca Revlon están fabricados con ingredientes de primera calidad
-- Productos de Maquillaje para Mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00NY9ML4M{{</world>}}

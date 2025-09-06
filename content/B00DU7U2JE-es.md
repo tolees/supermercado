@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Consumir el contenido del envase en el momento de abrirlo
 - ‎Conservar en un entorno seco y al abrigo de temperaturas extremas
+- Consumir el contenido del envase en el momento de abrirlo
 - Alto en proteínas y bajo en grasas y calorías
 - Sólo ingredientes naturales
 - Saludable y nutritivo

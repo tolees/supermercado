@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Se utilizan prácticas sostenibles respectuosas con el medio ambiente; hay responsabilidad con el consumo del agua, un bien escaso en el planeta
+- Esta salsa de tomate frito Estilo Casero es versátil y deliciosa; para cocinar empanada de atún, como base de tus recetas favoritas, arroz, almejas a la marinera, albóndigas y paella
 - Tomate frito sin gluten y sin aditivos ni conservantes
 - En Solís se trabaja con agricultores de las Vegas del Guadiana, Extremadura, que generación tras generación cuidan de los tomates
-- Esta salsa de tomate frito Estilo Casero es versátil y deliciosa; para cocinar empanada de atún, como base de tus recetas favoritas, arroz, almejas a la marinera, albóndigas y paella
 - SOLÍS una marca que ofrece la calidad y el sabor especial
-- Se utilizan prácticas sostenibles respectuosas con el medio ambiente; hay responsabilidad con el consumo del agua, un bien escaso en el planeta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00TG8PCIC{{</world>}}

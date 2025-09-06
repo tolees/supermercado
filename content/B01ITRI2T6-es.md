@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Origen de España
+- Leche semidesnatada de vaca
 - Conservar en lugar fresco y seco
 - Eficaz porque al ser 0% lactosa es más digestiva
-- Leche semidesnatada de vaca
 - Contiene vitamina D
-- Origen de España
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ITRI2T6{{</world>}}

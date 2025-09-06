@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- También contiene vitamina B6 y magnesio, que contribuyen al funcionamiento normal del sistema nervioso y a reducir la fatiga y el cansancio
+- Ayuda a la disminución de los sofocos y los síntomas asociados a la menopausia como palpitaciones, ansiedad y alteración del estado de ánimo y del ciclo sueño vigilia o insomnio
 - Contiene Melatonina, reconocida por su acción para conciliar el sueño, y extracto de lúpulo, que contribuye a disminuir la tensión, inquietud e irritabilidad
 - Tomar una cápsula al día antes de acostarse con un gran vaso de agua
-- Leonardo da Vinci 16-18 | 08191 Rubi (Barcelona)
 - Complemento alimenticio indicado para contribuir a mejorar el bienestar de la mujer durante el período de menopausia
-- Ayuda a la disminución de los sofocos y los síntomas asociados a la menopausia como palpitaciones, ansiedad y alteración del estado de ánimo y del ciclo sueño vigilia o insomnio
-- También contiene vitamina B6 y magnesio, que contribuyen al funcionamiento normal del sistema nervioso y a reducir la fatiga y el cansancio
+- Leonardo da Vinci 16-18 | 08191 Rubi (Barcelona)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091DTK86M{{</world>}}

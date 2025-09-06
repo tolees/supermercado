@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- APLICACIÓN: excelente para elaborar patelitos pequeños ; apto para lavavajillas, calidad testada en las cocinas de dr oetker con más de 100 años de experiencia asegurando calidad y éxito
 - DIMENSIONES: aprox. 30 x 17,5 x 4,5 cm
 - MATERIAL: silicona platinium de alta calidad
-- APLICACIÓN: excelente para elaborar patelitos pequeños ; apto para lavavajillas, calidad testada en las cocinas de dr oetker con más de 100 años de experiencia asegurando calidad y éxito
 - INCLUYE: 1 x bandeja mini moldes calidad dr oetker
 - PRÁCTICO: resistente desde -40ºc hasta 230ºc; se desmolda fácilmente por lo que no hay necesidad de untar el molde previamente con aceite, aerosoles, spray o poner papel de horno; apto para horno, microondas, congelador y refrigerador
 

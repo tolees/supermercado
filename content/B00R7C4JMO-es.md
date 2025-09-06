@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nota de cata (nariz): Presenta aromas de fruta negra muy madura, bien integrados con matices tostados y balsámicos de su permanencia en barrica.
-- Nota de cata (boca): Vino amplio, equilibrado, elegante y con largo postgusto.
 - Nota de cata (vista): Color rojo picota de intensidad muy alta con tonos violáceos.
+- Nota de cata (nariz): Presenta aromas de fruta negra muy madura, bien integrados con matices tostados y balsámicos de su permanencia en barrica.
 - "Aconsejamos la decantación de este vino para el mejor disfrute y expresión de sus cualidades organolépticas. La temperatura de consumo recomendada es de 16 ºC. Es un vino para disfrutar, si bien puede evolucionar favorablemente en los próximos 6-7 años."
 - Varietales: Tempranillo y Cabernet Sauvignon
+- Nota de cata (boca): Vino amplio, equilibrado, elegante y con largo postgusto.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00R7C4JMO{{</world>}}

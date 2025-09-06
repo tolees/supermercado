@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sabor agradable y buen equilibrio en boca
 - Elaborada según una receta tradicional
 - Con espuma cremosa
-- Sabor agradable y buen equilibrio en boca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08W48G5DF{{</world>}}

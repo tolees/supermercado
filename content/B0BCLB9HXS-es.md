@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para un lavado más intenso, mételo en la lavadora una vez a la semana
 - Humedece un disco desmaquillante con Agua Micelar de Garnier para desmaquillar y limpiar tu piel
+- Para un lavado más intenso, mételo en la lavadora una vez a la semana
 - Fácil de lavar: lávalo a mano con agua y jabón después de cada uso
 - Estíralo para secarlo
 

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene Omega 3 DHA y hierro que contribuye al desarrollo cognitivo normal.
 - Con 13 vitaminas, entre ellas Vitamina D que contribuye al buen funcionamiento del sistema inmunitario.
-- NESTLÉ NATIVA Crecimiento 3 Original, adaptada a las necesidades de los niños a partir de 1 año. Pack de 6 unidades de 1 L de leche líquida para bebés.
 - Leche de crecimiento líquida enriquecida con calcio, que ayuda al desarrollo normal de los huesos.
+- Contiene Omega 3 DHA y hierro que contribuye al desarrollo cognitivo normal.
+- NESTLÉ NATIVA Crecimiento 3 Original, adaptada a las necesidades de los niños a partir de 1 año. Pack de 6 unidades de 1 L de leche líquida para bebés.
 - Sin azúcar añadido y ¡con un delicioso sabor que le encantará!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

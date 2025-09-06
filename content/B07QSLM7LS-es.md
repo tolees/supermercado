@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Rexona Woman Desodorante Antitranspirante Invisible Black&White 200ml
 - Desodorante 0% alcohol para mujer
-- Elaborado con tecnología motionsense que se activa con el movimiento
 - Desodorante antitranspirante de secado rápido
+- Elaborado con tecnología motionsense que se activa con el movimiento
 - Desodorante invisible con tecnología antimanchas
 - Desodorante que ofrece 48 horas de protección antitranspirante
 

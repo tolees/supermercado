@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los mejores productos de higiene para tu día a día.
 - Men super energizer anti fatigue spf40 48 ml
+- Los mejores productos de higiene para tu día a día.
 - Cuidarse y sentirse bien nunca había sido tan fácil.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

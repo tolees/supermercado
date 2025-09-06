@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espesa la barba para conseguir una barba abundante de raíz a puntas. Úsalo a diario para mantener el espesor; aplica de 3 a 5 dosis a la barba, masajéala y deja que se seque
-- Infusionado con el aroma característico de King C. Gillette, con notas de sándalo, cedro, bergamota, semillas de cardamomo y mandarina
-- Espesante de barba King C. Gillette para una barba visiblemente uniforme en 14 días
 - Fórmula ligera sin sensación grasa.
+- Espesante de barba King C. Gillette para una barba visiblemente uniforme en 14 días
+- Espesa la barba para conseguir una barba abundante de raíz a puntas. Úsalo a diario para mantener el espesor; aplica de 3 a 5 dosis a la barba, masajéala y deja que se seque
+- Hidrata la piel seca bajo la barba
+- Infusionado con el aroma característico de King C. Gillette, con notas de sándalo, cedro, bergamota, semillas de cardamomo y mandarina
+- Gel refrescante limpiador para barba y rostro con agua de coco, aceite de argán y aceite de aguacate
 - Aceite que suaviza el pelo de la barba
 - Limpia e hidrata el pelo del rostro y deja una sensación de limpieza y frescura en tu piel todo el día. Aplícalo en la barba hasta formar una espuma y aclara
-- Gel refrescante limpiador para barba y rostro con agua de coco, aceite de argán y aceite de aguacate
-- Hidrata la piel seca bajo la barba
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJ333M5J{{</world>}}

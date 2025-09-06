@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de alcohol: Liquors
-- Afrutado y untuoso licor artesanal
-- Volumen: 0.7 liters
 - Procedencia: Spain
+- Se elabora bajo el método de maceración artesanal
+- Volumen: 0.7 liters
 - Licor artesanal elaborado con camomila de Menorca
 - Sabor anisado donde destacan las notas de la camomila
-- Se elabora bajo el método de maceración artesanal
+- Afrutado y untuoso licor artesanal
 - Contenido de alcohol (alc/vol.): 30.0 porcentaje por volumen
+- Tipo de alcohol: Liquors
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HSQMY23{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en un lugar fresco y seco
 - Se puede consumir con leche
-- Con textura esponjosas y crujientes
 - Adecuado para el desayuno
+- Conservar en un lugar fresco y seco
+- Con textura esponjosas y crujientes
 - Ideal para toda la familia
 
 [🛒 Aquí!!!]({{< param buyurl >}})

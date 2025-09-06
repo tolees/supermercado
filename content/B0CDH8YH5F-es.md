@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aquafresh Active White contiene protección 3 en 1 para toda la familia: Dientes fuertes, Limpieza Activa y Aliento fresco
-- El dentífrico blanqueador de Aquafresh Active White actúa contra las caries, ayuda a limpiar los dientes y refresca el aliento
-- Pack 4 tubos de 125 ml cada uno de Aquafresh Active White, para una duración aproximada de 8 meses, estimando el uso de 1.3g en cada cepillado y 2 veces al día
-- Gracias a su formulación, Aquafresh Active White con flúor proporciona un aliento fresco para dientes sanos y limpios
 - Aquafresh Active White pasta de dientes blanquea tus dientes, dejando tus dientes limpios y brillantes
+- Pack 4 tubos de 125 ml cada uno de Aquafresh Active White, para una duración aproximada de 8 meses, estimando el uso de 1.3g en cada cepillado y 2 veces al día
+- El dentífrico blanqueador de Aquafresh Active White actúa contra las caries, ayuda a limpiar los dientes y refresca el aliento
+- Aquafresh Active White contiene protección 3 en 1 para toda la familia: Dientes fuertes, Limpieza Activa y Aliento fresco
+- Gracias a su formulación, Aquafresh Active White con flúor proporciona un aliento fresco para dientes sanos y limpios
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CDH8YH5F{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Guy Laroche Fidji 3 4 oz Eau de Toilette Spray Perfume Fragancia para Mujer
-- 101 ml
 - Tipo de producto: PERSONAL FRAGANCIA
 - Guy Laroche
+- 101 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01I9CVVLM{{</world>}}

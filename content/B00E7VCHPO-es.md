@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de piel: piel grasa y piel mixta
-- Producto para el cuidado diario de la piel que deja la piel hidratada
 - Contiene 96% ingredientes naturales
+- Producto para el cuidado diario de la piel que deja la piel hidratada
 - Libre de parabenos, siliconas y colorantes artificiales
+- Tipo de piel: piel grasa y piel mixta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00E7VCHPO{{</world>}}

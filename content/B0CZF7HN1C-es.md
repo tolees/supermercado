@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para disfrutar en cualquier momento
-- La siguiente información se aplica a cada unidad del paquete
 - Con sabor a jamón y queso
-- Ideal como snack
+- La siguiente información se aplica a cada unidad del paquete
 - Apto para toda la familia
+- Para disfrutar en cualquier momento
+- Ideal como snack
 - Auténticas patatas fritas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

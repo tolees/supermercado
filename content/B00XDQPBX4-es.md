@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Patatas fritas con sal
-- Producto envasado en atmósfera protectora
-- Conservar en lugar fresco y seco
 - Sin colorantes artificiales
+- Conservar en lugar fresco y seco
+- Producto envasado en atmósfera protectora
 - Edición gourmet
 
 [🛒 Comprar!!!]({{< param buyurl >}})

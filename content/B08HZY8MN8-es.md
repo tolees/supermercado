@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Volumen 500 ml
-- Flexidad y Volumen
 - Nuestra tecnología instalast prolonga cualquier look con la máxima estructura y fijación, añadiendo brillo y evitando la acumulación, ya que se cepilla fácilmente
+- Flexidad y Volumen
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HZY8MN8{{</world>}}

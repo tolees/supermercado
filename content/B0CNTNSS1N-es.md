@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los productos de la marca Garnier están pensados para ti y tu bienestar
 - Productos de Cuidado de la piel para Unisex adulto
+- Los productos de la marca Garnier están pensados para ti y tu bienestar
 - Agua micelar Garnier Skinactive Orgullo Agua Micelar Todo En 1 de Garnier
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

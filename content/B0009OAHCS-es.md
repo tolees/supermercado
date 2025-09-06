@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de producto - Agua de colonia
 - Marca - Davidoff
+- Tipo de producto - Agua de colonia
 - Producto pensado para mujeres
 
 [🛒 Comprar!!!]({{< param buyurl >}})

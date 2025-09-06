@@ -32,8 +32,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - El paquete puede variar
 - Cubiertas con una cáscara crujiente
 - Conservar en lugar fresco y seco
-- Ideal para compartir
 - Cacahuetes recubiertos en chocolate
+- Ideal para compartir
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Q54JRD1{{</world>}}

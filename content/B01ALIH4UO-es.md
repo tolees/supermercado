@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Carraca 1/4" reversible
 - Material resistente y duradero
+- Carraca 1/4" reversible
 - Fácil de usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

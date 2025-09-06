@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alta densidad de pigmentos para un color intenso
+- Disponible en 8 tonos llenos de color
 - Textura miel
 - Ingredientes hidratantes
 - Brillo en una sola pasada y de larga duración
-- Disponible en 8 tonos llenos de color
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071LNYGHN{{</world>}}

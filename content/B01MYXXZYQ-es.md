@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Milka Choco Biscuits Galletas con Chocolate con Leche de los Alpes 150g'
-date: 2025-08-27 02:37:00
+date: 2025-09-05 08:16:33
 image: 'https://m.media-amazon.com/images/I/41kUUbqSsyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Milka'
 buyurl: 'https://www.amazon.es/dp/B01MYXXZYQ/?tag=tolees-21'
 descuento: '0.00'
-average: '5.28176470588235'
+average: '5.56684210526316'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

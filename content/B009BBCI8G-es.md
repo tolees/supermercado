@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado como regalo
-- Listo para servir
-- De sabor dulce
 - Ideal con hielo
 - Tiene una textura cremosa
+- Listo para servir
+- Adecuado como regalo
+- De sabor dulce
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B009BBCI8G{{</world>}}

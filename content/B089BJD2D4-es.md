@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No congelar.
-- Proteger de la luz solar y de olores agresivos.
+- Disfrútalo con hielo y una rodaja de limón.
 - Bebida refrescante con 4% de zumo de naranja.
-- Evitar el contacto directo con el suelo.
+- Proteger de la luz solar y de olores agresivos.
+- Pack de 24 latas x 330 ml.
+- No congelar.
 - Kas comienza a elaborarse en 1956 como un refresco con intenso sabor cítrico a limón con gas.
 - Conservar en lugar limpio, fresco y seco.
-- Disfrútalo con hielo y una rodaja de limón.
-- Pack de 24 latas x 330 ml.
+- Evitar el contacto directo con el suelo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089BJD2D4{{</world>}}

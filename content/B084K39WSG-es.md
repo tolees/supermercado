@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Todo tipo de cabello
-- Para reducir la fragilidad del cabello
 - Para cabello largo
+- Para reducir la fragilidad del cabello
+- Todo tipo de cabello
 - Sérum anti encrespamiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

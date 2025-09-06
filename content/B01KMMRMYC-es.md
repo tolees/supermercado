@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ☀️ [ FABRICACIÓN EN ESPAÑA ] Fabricado en laboratorio certificado con IFS. Sin OGM (Organismos Modificados Genéticamente). Buenas prácticas de fabricación (GMP). NO Contiene → Gluten, Pescado, Lactosa, Lácteos, Soja, Frutos Secos, Huevo.
 - 🔝 [ GINKGO BILOBA CAPSULAS ] Complemento alimenticio a base de extracto seco de las hojas de la planta Ginkgo biloba L que aporta 120mg por cápsula vegetal → Ginkgo Biloba aumenta el rendimiento cognitivo.
-- 🏆 [ GINKGO BILOBA 6000 MG ] Alta concentración cada 120mg de una cápsula equivalen → 6000mg de polvo de hojas de la planta.
 - 🚀 [ 50X VECES MÁS CONCENTRADO ] Estandarizado con alto aporta de los principios activos → 24% Glicósidos de Flavona y 6% Lactonas de Terpeno.
+- ☀️ [ FABRICACIÓN EN ESPAÑA ] Fabricado en laboratorio certificado con IFS. Sin OGM (Organismos Modificados Genéticamente). Buenas prácticas de fabricación (GMP). NO Contiene → Gluten, Pescado, Lactosa, Lácteos, Soja, Frutos Secos, Huevo.
+- 🏆 [ GINKGO BILOBA 6000 MG ] Alta concentración cada 120mg de una cápsula equivalen → 6000mg de polvo de hojas de la planta.
 - 🌿 [ 100% VEGAN ] Complemento alimenticio apto para personas que siguen una dieta vegana o vegetariana → Sin recubrimiento de la cápsula de origen animal.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

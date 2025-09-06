@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Arroz Vermicelli Guilin (L) de la marca Viet Nam.
 - Calidad premium.
-- De la marca Viet Nam.
 - País de origen: Vietnam.
 - Volumen: 1 x 300 gramos.
+- De la marca Viet Nam.
+- Arroz Vermicelli Guilin (L) de la marca Viet Nam.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08N651BHT{{</world>}}

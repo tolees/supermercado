@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formulación de óptima calidad
-- Aplicación de tacto de seda creando una película fina y cómoda
 - Espejo incorporado para retoques durante todo el día
+- Formulación de óptima calidad
 - Respeta la luminosidad del color
+- Aplicación de tacto de seda creando una película fina y cómoda
 - Color intenso
 
 [🛒 Visítala!!!]({{< param buyurl >}})

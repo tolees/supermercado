@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este envase de H&S está hecho de plástico 100 % reciclado (excluyendo el tapón y las tintas) y es reciclable (excluyendo el tapón y según las instalaciones de reciclaje)
-- Champú y envase transparentes para una limpieza profunda y una nueva sensación de frescor
-- Un cabello hasta un 100 % libre de caspa (caspa visible, con un uso regular)
-- Champú anticaspa purificante para calmar el picor, enriquecido con hierbabuena
 - Esta fórmula no contiene siliconas, tiene un pH equilibrado y cuenta con antioxidantes
+- Este envase de H&S está hecho de plástico 100 % reciclado (excluyendo el tapón y las tintas) y es reciclable (excluyendo el tapón y según las instalaciones de reciclaje)
+- Un cabello hasta un 100 % libre de caspa (caspa visible, con un uso regular)
+- Champú y envase transparentes para una limpieza profunda y una nueva sensación de frescor
+- Champú anticaspa purificante para calmar el picor, enriquecido con hierbabuena
 - Champú ideal para hombres y mujeres con cuero cabelludo y cabello graso y con picores
 
 [🛒 Comprar!!!]({{< param buyurl >}})

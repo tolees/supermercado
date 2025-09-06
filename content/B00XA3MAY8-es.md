@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se debe conservar en un lugar fresco y seco
 - Una fuente óptima de proteínas limpias de grasa
 - Nuestro atún más sabroso con el toque justo de agua
+- Se debe conservar en un lugar fresco y seco
 - Atún claro al natural
 - Adecuado para toda la familia
 

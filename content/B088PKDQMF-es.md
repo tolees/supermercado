@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una vez abierto el envase debe conservarse en frío, siendo aconsejable su consumo en los 2 ó 3 días siguientes
-- Delicosa y saludable, suave, sedosa y aromática leche de almendra de Santal
-- Bebidas deliciosas, con envase Sostenible bio-based, 100% vegetales y saludables sin azúcar
 - Conservar en lugar fresco y seco
+- Delicosa y saludable, suave, sedosa y aromática leche de almendra de Santal
+- Una vez abierto el envase debe conservarse en frío, siendo aconsejable su consumo en los 2 ó 3 días siguientes
+- Bebidas deliciosas, con envase Sostenible bio-based, 100% vegetales y saludables sin azúcar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088PKDQMF{{</world>}}

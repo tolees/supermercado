@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene prebióticos naturales para una digestión sana
-- Comida húmeda nutricionalmente completa sin cereales para perros - especial para perros senior 8 años +
 - Repleto de frutas y vegetales saludables además de una mezcla de ingredientes botánicos
+- Comida húmeda nutricionalmente completa sin cereales para perros - especial para perros senior 8 años +
+- Contiene prebióticos naturales para una digestión sana
 - Sin subproductos, conservantes o relleno - todo natural y sano
 - Elaborado con un 60% de pavo y un 4% arándanos
 

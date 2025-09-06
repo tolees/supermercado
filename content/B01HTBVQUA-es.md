@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formato práctico y sostenible: Pack familiar de 6 briks de 1 L en envase reciclable. Conservar en lugar fresco. Consumir en un máximo de 3 días tras su apertura..
-- Nutrición esencial para toda la familia: Leche entera natural rica en calcio, fósforo y proteínas. Aporta la energía y nutrientes que tu cuerpo necesita cada día.
-- Sin gluten y sin azúcares añadidos: Leche entera natural, fuente de calcio y proteínas. Apta para dietas equilibradas y comprometida con el bienestar animal.
 - Recomendada para todas las edades: Apta para niños, adolescentes, embarazadas, madres lactantes y personas mayores.
+- Nutrición esencial para toda la familia: Leche entera natural rica en calcio, fósforo y proteínas. Aporta la energía y nutrientes que tu cuerpo necesita cada día.
+- Formato práctico y sostenible: Pack familiar de 6 briks de 1 L en envase reciclable. Conservar en lugar fresco. Consumir en un máximo de 3 días tras su apertura..
+- Sin gluten y sin azúcares añadidos: Leche entera natural, fuente de calcio y proteínas. Apta para dietas equilibradas y comprometida con el bienestar animal.
 - Compromiso con el bienestar animal: Elaborada en Galicia con leche seleccionada bajo estándares de Bienestar Animal.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

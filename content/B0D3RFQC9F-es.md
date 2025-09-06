@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en un lugar fresco y seco
 - Este envase contiene aproximadamente 5 porciones
 - Apto para dietas vegetarianas
-- Envasado en Alemania
 - Producto de aperitivo frito con sabor a pimentón
+- Envasado en Alemania
+- Conservar en un lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D3RFQC9F{{</world>}}

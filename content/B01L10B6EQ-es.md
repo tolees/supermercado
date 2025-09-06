@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los mejores productos de belleza y perfumería para sentirte bien contigo mismo en todo momento.
 - Tus mejores aliados de belleza e higiene a la hora de arreglarte para diferentes ocasiones.
+- Los mejores productos de belleza y perfumería para sentirte bien contigo mismo en todo momento.
 - Pop Liquid Matte Lip Colour + Primer #05-Sweetheart Pop 6 Ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

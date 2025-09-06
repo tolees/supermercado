@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Dos simples pasos: color y cobertura
+- Esmalte de uñas
 - Resultados de manicura de salón sin salir de casa
 - Fórmula con aceites vegetales
-- Esmalte de uñas
-- Dos simples pasos: color y cobertura
 - Acabado gel 3D que dura hasta 14 días
 
 [🛒 Aquí!!!]({{< param buyurl >}})

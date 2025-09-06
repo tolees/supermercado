@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- APTO PARA TODO TIPO DE CABELLOS: Mascarilla pelo rizado y liso donde su fórmula ligera y no grasa la hace perfecta para cualquier tipo de cabello, desde liso hasta rizado, proporcionando cuidado sin apelmazar.
-- CABELLO FUERTE Y PROTEGIDO: Mascarilla capilar que mantiene el pelo fuerte y sano, reduciendo el quiebre y protegiéndolo frente a agresiones diarias, ideal para mantener un cabello saludable a largo plazo con esta mascarilla reparadora cabello.
-- REESTRUCTURA Y FORTALECE LA FIBRA CAPILAR: Mascarilla pelo que ayuda a reparar el daño causado por factores externos como el calor, la contaminación o tratamientos químicos, reforzando el cabello desde la raíz hasta las puntas es una mascarilla pelo seco y dañado.
 - MASCARILLA HIDRATANTE CABELLO: Gracias ala Cebolla, esta mascarilla pelo actúa como un hidratante natural, penetrando en la fibra capilar para restaurar la humedad y evitar la sequedad.
+- REESTRUCTURA Y FORTALECE LA FIBRA CAPILAR: Mascarilla pelo que ayuda a reparar el daño causado por factores externos como el calor, la contaminación o tratamientos químicos, reforzando el cabello desde la raíz hasta las puntas es una mascarilla pelo seco y dañado.
+- CABELLO FUERTE Y PROTEGIDO: Mascarilla capilar que mantiene el pelo fuerte y sano, reduciendo el quiebre y protegiéndolo frente a agresiones diarias, ideal para mantener un cabello saludable a largo plazo con esta mascarilla reparadora cabello.
+- APTO PARA TODO TIPO DE CABELLOS: Mascarilla pelo rizado y liso donde su fórmula ligera y no grasa la hace perfecta para cualquier tipo de cabello, desde liso hasta rizado, proporcionando cuidado sin apelmazar.
 - BRILLO Y SUAVIDAD SEDOSA: Mascarilla pelo hidratante donde su fórmula enriquecida aporta brillo y suavidad, dejando el cabello más manejable, sedoso al tacto y con un aspecto saludable con esta mascarilla capilar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

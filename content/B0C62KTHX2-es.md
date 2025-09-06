@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sensación de suavidad en el pelo
-- Tipo mascarilla
 - Producto acondicionador
+- Tipo mascarilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C62KTHX2{{</world>}}

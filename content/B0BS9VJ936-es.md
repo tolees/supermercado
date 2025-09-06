@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elaborado con 5 cereales
+- De textura esponjosa
 - Ideal para toda la familia
 - Sin azúcar añadido
-- De textura esponjosa
 - Con aceite de oliva
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

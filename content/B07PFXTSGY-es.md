@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Graduación: 40% vol.
-- Ideal para tomar con aperitivos y entrantes.
 - Origen: Miyagikyo/Yoichi
+- Ideal para tomar con aperitivos y entrantes.
 - Suave. Cereales, malta, toffee, frutos secos tostados con vainilla. Un ligero toque de turba que perdura en la boca.
+- Graduación: 40% vol.
 - Para disfrutar sólo con hielo, con agua o en formato trago largo con Ginger Ale. .
 
 [🛒 Visítala!!!]({{< param buyurl >}})

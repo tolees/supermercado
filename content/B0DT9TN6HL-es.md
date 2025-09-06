@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Snack con sabor a carne.
 - Elaborados con harina de trigo de gran calidad y con ingredientes seleccionados.
 - Contiene gluten.
-- Sin conservantes ni colorantes artificiales.
-- Snack con sabor a carne.
 - Conservar en lugar fresco y seco.
+- Sin conservantes ni colorantes artificiales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DT9TN6HL{{</world>}}

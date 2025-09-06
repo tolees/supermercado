@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Envases Tetra Pack reciclables cuya producción consume menos energía que la de otros tipos de envases.
-- SIN cereales, soja, gluten, conservantes, aromatizantes ni colorantes artificiales.
 - Delicioso y sabroso guiso con alto contenido en carne, naturalmente rico en taurina.
 - Alto contenido en humedad, que ayuda a mantener hidratado a tu felino.
+- Envases Tetra Pack reciclables cuya producción consume menos energía que la de otros tipos de envases.
+- SIN cereales, soja, gluten, conservantes, aromatizantes ni colorantes artificiales.
 - Envase de 95 g que se puede volver a cerrar y fabricados con un 70% de cartón renovable con certificación FSC
 
 [🛒 Aquí!!!]({{< param buyurl >}})

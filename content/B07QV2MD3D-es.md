@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
-- Spray Fijador con partículas creadoras de un film ultra flexible que permite prolongar la duración de tu maquillaje con micro polvo matificante para el control de brillos
 - Fija la duración de tu maquillaje; acabado mate, libre de brillos
 - Tu maquillaje como recién aplicado todo el día, con el spray fijador Lasting Fix
+- Spray Fijador con partículas creadoras de un film ultra flexible que permite prolongar la duración de tu maquillaje con micro polvo matificante para el control de brillos
+- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07QV2MD3D{{</world>}}

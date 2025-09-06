@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin trigo & Sin azúcar
-- Contiene a parte de aves de corral, salmón como fuentes de proteína de alta calidad.
 - Con calostro que fortalece el sistema inmunitaria del perro
+- Sin trigo & Sin azúcar
 - Extractos de mejillones para fortalecer cartílagos, articulaciones y huesos
+- Contiene a parte de aves de corral, salmón como fuentes de proteína de alta calidad.
 - Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

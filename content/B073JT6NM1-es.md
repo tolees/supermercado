@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Chocolate con leche delicioso, con granitos de arroz inflado para un toque crujiente
-- Contiene una carta del mundo mágico de Harry Potter para coleccionar
 - ¡Saborea las Ranas del universo Harry Potter!
+- Contiene una carta del mundo mágico de Harry Potter para coleccionar
 - ¡Come esta chocorana rapido, antes que salte a la boca de otra persona!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

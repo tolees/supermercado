@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicación ultrasuave y apta para ojos sensibles
 - Mega volumen
-- Sensación ultraligera
 - Longitud y definición máxima
+- Aplicación ultrasuave y apta para ojos sensibles
+- Sensación ultraligera
 - Resistente al agua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vitaminas E y C antioxidantes para ayudar al sistema inmune; Sin sabores artificiales, sin colorantes, sin OGM
 - Prebióticos FOS y pulpa de remolacha para favorecer una digestión saludable
+- Vitaminas E y C antioxidantes para ayudar al sistema inmune; Sin sabores artificiales, sin colorantes, sin OGM
 - Glucosamina y condroitina para ayudar a mantener las articulaciones sanas y una movilidad activa
 - Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos
 - L-carnitina para ayudarle a mantener un peso ideal

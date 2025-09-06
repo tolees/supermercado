@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - BASE LÍQUIDA Y COBERTURA MODULABLE: Cobertura media modulable para un resultado personalizado
-- HIDRATACIÓN INTENSA: 80% de crema hidratante y ácido hialurónico para una piel hidratada
-- 29 TONOS DISPONIBLES: El 99.5% de las personas encuentran su tono ideal (*test de consumidor en 211 mujeres)
-- ACABADO LUMINOSO Y NATURAL: Resultados impecables que se ajustan al tono y a a la textura de tu piel
 - CONTENIDO: 1x LOréal Paris Accord Parfait Base de Maquillaje - Tono 6N
+- ACABADO LUMINOSO Y NATURAL: Resultados impecables que se ajustan al tono y a a la textura de tu piel
+- 29 TONOS DISPONIBLES: El 99.5% de las personas encuentran su tono ideal (*test de consumidor en 211 mujeres)
+- HIDRATACIÓN INTENSA: 80% de crema hidratante y ácido hialurónico para una piel hidratada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B015GYRFJS{{</world>}}

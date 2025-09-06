@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con una textura crujiente
-- No contienen gluten
 - Ideales para compartir con amigos
+- No contienen gluten
 - Tortillas redondas hechas de harina de maíz
 - Sin conservantes
 

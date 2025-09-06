@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Surtido de caramelos con forma de Dinos y sabor PICA.
 - Un clásico recubierto de pica, para disfrutar sobre todo los más pequeños de la casa. Prueba sus diferentes sabores: manzana y naranja, limón y cola, fresa y grosella negra.
+- Surtido de caramelos con forma de Dinos y sabor PICA.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CP9KPLB5{{</world>}}

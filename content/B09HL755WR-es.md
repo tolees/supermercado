@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Toma tu bebida bien fría para disfrutar de su sabor
 - Este refresco energético contiene taurina + guaraná + vitaminas B. Las vitaminas B6 y B12 puede contribuir a la disminuir el cansancio y la fatiga y al metabolismo energético normal
-- Bebida energética carbonatada con cafeína. La cafeína puede contribuir a aumentar la concentración y el estado de alerta
 - Burn Energy Original, bebida energética con una fórmula energética única con un sabor suave y refresante. Alimentará tu fuego!
+- Bebida energética carbonatada con cafeína. La cafeína puede contribuir a aumentar la concentración y el estado de alerta
+- Toma tu bebida bien fría para disfrutar de su sabor
 - Burn sabor original pack 4 latas de 500 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

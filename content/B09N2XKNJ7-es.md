@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cobertura media y ligera pero que dura todo el día
-- a prueba de sudor y resistente al agua
-- Apto para pieles sensibles y no obstruye poros. Dermatológicamente testado
 - Fórmula Vegana
+- Apto para pieles sensibles y no obstruye poros. Dermatológicamente testado
+- a prueba de sudor y resistente al agua
 - Estilo más adecuado para: female
 - Controla los brillos sin secar la piel
 

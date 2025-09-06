@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Caja especial (aprox. 19 x 19 x 8 cm) de plástico, resellable
 - 10 productos de confitería retro premium diferentes, en Embalaje individual
-- CAPTAIN PLAY Caja Regalo Caramelo Retro 1kg
 - perfecto como Chuches y Golosinas para Halloween, Relleno de Candy Bar, Cesta Regalo de Navidad y Regalo des Pascua
+- CAPTAIN PLAY Caja Regalo Caramelo Retro 1kg
 - ideal como Chuches Compleaños, Chuches Piñata, Cesta regalo de Dulces
 
 [🛒 Aquí!!!]({{< param buyurl >}})

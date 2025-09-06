@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
-- Ideal para dar sabor a tus platos y ensaladas
-- Misma receta ahora envasada en botella 25% reciclada
 - Elaboración 100% tradicional
 - Mayonesa elaborada siguiendo la receta tradicional con huevos de gallinas criadas en suelo origen España. Sin gluten, sin lactosa.
+- Ideal para dar sabor a tus platos y ensaladas
+- Misma receta ahora envasada en botella 25% reciclada
+- Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BMGT8QZM{{</world>}}

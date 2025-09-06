@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con la fórmula BioActive patentada; para una larga vida de los peces con salud
-- Los peces ingieren los granulados por completo
 - Aseguran una nutrición integral y variada
+- Los peces ingieren los granulados por completo
 - Fomenta la salud y la vitalidad y realza los espléndidos colores
 
 [🛒 Aquí!!!]({{< param buyurl >}})

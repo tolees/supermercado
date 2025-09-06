@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rico en fibra naturalmente presente
-- Sin colores y sabores artificiales
 - Consevar en un lugar fresco y seco
 - Con avena 100% integrale
+- Sin colores y sabores artificiales
+- Rico en fibra naturalmente presente
 - Con sabor a café y chocolate
 
 [🛒 Aquí!!!]({{< param buyurl >}})

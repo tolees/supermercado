@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Proteger de la luz solar y olores agresivos.
 - Evitar el contacto directo con suelo.
-- No congelar.
 - Conservar en lugar limpio, fresco seco.
+- Proteger de la luz solar y olores agresivos.
 - El embalaje puede variar.
+- No congelar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003TSVYAK{{</world>}}

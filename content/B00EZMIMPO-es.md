@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Gigarrollo
 - 100% papel reciclado Certificado con la Etiqueta Ecológica Europea
 - Equivalente a 10 Rollos de Cocina
-- 2 capas extra absorbentes
 - Papel de cocina y multiusos blanco
+- 2 capas extra absorbentes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00EZMIMPO{{</world>}}

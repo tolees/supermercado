@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Textura cremosa y ligera
-- Brinda un color de alto impacto
 - Dura hasta 10 horas
-- Se desliza suavemente y su aplicación es precisa
 - Color y comodidad
+- Brinda un color de alto impacto
+- Se desliza suavemente y su aplicación es precisa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07RF213NT{{</world>}}

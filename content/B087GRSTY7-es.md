@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Refuerza el sistema inmunitario - Contiene 100% de su RDA de Vitamina C
-- Alto contenido proteico, alto contenido en fibra y bajo en azúcar - sólo 0.3g por porción
-- Extremadamente versátil - Puedes tomarlo junto con tus batidos para un impulso nutritivo y delicioso
 - Reduce el cansancio y la fatiga
+- Refuerza el sistema inmunitario - Contiene 100% de su RDA de Vitamina C
+- Extremadamente versátil - Puedes tomarlo junto con tus batidos para un impulso nutritivo y delicioso
+- Alto contenido proteico, alto contenido en fibra y bajo en azúcar - sólo 0.3g por porción
 - Contiene 20 superalimentos diferentes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

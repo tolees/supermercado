@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tamaño medio (33x33cm servilleta abierta)
+- 20 Servilletas
 - 3 Capas
 - Impresas con tintas al agua, no tóxicas
-- 20 Servilletas
 - Ultradecorada
-- Tamaño medio (33x33cm servilleta abierta)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BJQCJSD{{</world>}}

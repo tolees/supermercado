@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exclusiva fragancia tropical con aroma de coco y papaya
-- Bronceado profundo y dorado para una piel suave y brillante
-- Formato: 200 ml
-- Intenso bronceado para una hidratación que dura todo el día
-- Fórmula enriquecida con vitaminas c y e para una protección eficaz contra los rayos uva / uv
-- Aceite bronceador de hawaiian tropic
 - Sin protección: spf 0
+- Formato: 200 ml
+- Bronceado profundo y dorado para una piel suave y brillante
+- Fórmula enriquecida con vitaminas c y e para una protección eficaz contra los rayos uva / uv
+- Exclusiva fragancia tropical con aroma de coco y papaya
+- Intenso bronceado para una hidratación que dura todo el día
+- Aceite bronceador de hawaiian tropic
 - Hipoalergénico y resistente al agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

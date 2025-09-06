@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fórmula a prueba de roces, no mancha ni se transfiere
-- No comedogénico; no obstruye los poros
-- Libre de aceites, adecuado para todo tipo de pieles
 - Cobertura líquida de larga duración
+- No comedogénico; no obstruye los poros
+- Fórmula a prueba de roces, no mancha ni se transfiere
+- Libre de aceites, adecuado para todo tipo de pieles
 - Cobertura alta, acabado luminoso y natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- País de origen: Italia
 - Marca: Martelli
 - Ingredientes: sémola de trigo duro
 - Mantener en un lugar fresco y seco
-- País de origen: Italia
 - Receta original
 
 [🛒 Visítala!!!]({{< param buyurl >}})

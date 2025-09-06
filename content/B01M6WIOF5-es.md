@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Rollo de Cocina Doble
 - Pack de 3 unidades
-- Super absorvente
 - Ideal para cocinar
+- Super absorvente
 - Decoraciones Aleatorias
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

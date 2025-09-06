@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detergente para la lavadora en formato gel con fragancia Nenuco
-- Descubre el resto de detergentes y limpialavadoras de Colon para una colada optima
 - Limpieza profunda incluso en agua fría, sin manchas, apto para ropa blanca y de color
 - Botella 100% reciclable
+- Detergente para la lavadora en formato gel con fragancia Nenuco
+- Descubre el resto de detergentes y limpialavadoras de Colon para una colada optima
 - Fórmula original con la fragancia fresca y duradera de Nenuco que te transportará a tu infancia y al mundo de los bebés
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

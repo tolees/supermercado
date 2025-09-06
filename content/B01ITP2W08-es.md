@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Leche corporal reafirmante con cafeína pura que actúa sobre la piel donde más lo necesita, dándole un aspecto más firme, luminoso y saludable desde su primera aplicación
-- Producto pensado para uso unisex
-- Contenido 500 ml
 - Cuidado de la piel de todo el cuerpo
+- Leche corporal reafirmante con cafeína pura que actúa sobre la piel donde más lo necesita, dándole un aspecto más firme, luminoso y saludable desde su primera aplicación
+- Contenido 500 ml
+- Producto pensado para uso unisex
 - Crema corporal de marca Lactovit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
