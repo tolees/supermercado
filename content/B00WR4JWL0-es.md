@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Purifica, limpia y elimina en un solo gesto
-- Captura el exceso de maquillaje, impurezas y sebo en la piel
 - No enjuaga la cara, los ojos y los labios
+- Purifica, limpia y elimina en un solo gesto
 - Partículas de limpieza activa que actúan como imanes
+- Captura el exceso de maquillaje, impurezas y sebo en la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WR4JWL0{{</world>}}

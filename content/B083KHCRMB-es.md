@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 🔥 ELABORACIÓN TRADICIONAL: Siguiendo un proceso artesanal que conserva la esencia del cacao, desde su recolección manual hasta su tueste y prensado.
-- 🌍 COMPROMISO CON LA SOSTENIBILIDAD: Cacao con certificación UTZ, garantizando prácticas de cultivo responsables con el medio ambiente y las comunidades productoras.
 - 🍫 CACAO NATURAL Y SIN ADITIVOS: Elaborado con cacao 100% natural, sin conservantes ni aditivos, manteniendo su sabor original y su textura característica.
 - ☕ TEXTURA ÚNICA CON GRUMITOS: Al ser cacao natural, conserva su característica textura con grumitos, aportando una experiencia auténtica y deliciosa en cada sorbo.
+- 🌍 COMPROMISO CON LA SOSTENIBILIDAD: Cacao con certificación UTZ, garantizando prácticas de cultivo responsables con el medio ambiente y las comunidades productoras.
 - 📦 FORMATO AHORRO DE 7,1 KG: Gran envase ideal para disfrutar del auténtico sabor de ColaCao durante mucho tiempo, perfecto para familias grandes o para quienes buscan un suministro duradero.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

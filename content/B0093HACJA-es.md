@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Leche solar contiene un complejo con cactus que mantiene los niveles de humedad natural del sol de la piel
 - Protector solar con sistema de filtración que protege de forma fiable contra los rayos UVA/UVB
 - No grasa y que se absorbe rápidamente
+- Leche solar contiene un complejo con cactus que mantiene los niveles de humedad natural del sol de la piel
 - Cuenta con buena resistencia al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})

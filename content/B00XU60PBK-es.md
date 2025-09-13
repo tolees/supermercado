@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplícatela regularmente sobre el rostro limpio y disfruta de una piel radiante
-- Adecuado para pieles maduras ya que reduce visiblemente las líneas finas y las arrugas en la cara
 - Revitaliza la piel del rostro y le devuelve su aspecto radiante
+- Adecuado para pieles maduras ya que reduce visiblemente las líneas finas y las arrugas en la cara
+- Aplícatela regularmente sobre el rostro limpio y disfruta de una piel radiante
 - Hidrata la piel en profundidad y aporta una placentera sensación de suavidad
 - Fortalece la resistencia de la piel madura contra la secuencia y aporta un confort duradero
 

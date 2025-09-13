@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Evita la rotura y mantén tu color perfecto con la gama Metal Detox, que previene los daños de tu cabello y aporta un brillo duradero.
 - Aplicar uniformemente sobre el cabello mojado. Emulsionar hasta obtener una rica espuma. Aclarar. A continuación, aplicar la mascarilla Metal Detox para un resultado óptimo.
 - Enriquecido con Glicoamina, este champú elimina el metal para evitar la rotura y mantener tu color perfecto. Su textura cremosa y sin sulfatos* suavemente limpia la fibra. El cabello queda intensamente nutrido, e instantáneamente más fuerte, más brillante, saludable. Su textura ultra cremosa limpia suavemente la fibra y elimina la acumulación de partículas metálicas. *Sin tensioactivos sulfatados.
+- Evita la rotura y mantén tu color perfecto con la gama Metal Detox, que previene los daños de tu cabello y aporta un brillo duradero.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CS6MXF5Q{{</world>}}

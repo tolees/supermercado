@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Origen: DO Catalunya, España;
-- Graduación: 13.5 %;
 - Elaborado por: FAMILIA TORRES;
 - Variedades: Tempranillo y cabernet sauvignon;
+- Graduación: 13.5 %;
+- Origen: DO Catalunya, España;
 - Maridaje: Ideal para carnes, quesos cremosos y la paella;
 
 [🛒 Comprar!!!]({{< param buyurl >}})

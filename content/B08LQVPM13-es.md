@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Contiene vitaminas
 - Pequeñas bolas de chocolate
-- País de origen: portugal
 - Producto de alta calidad
+- País de origen: portugal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LQVPM13{{</world>}}

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto 1: NOTA: El embalaje puede variar!
-- producto 2: Es una cerveza versátil, ligera, refrescante y con un aroma limpio y respetuoso con la cebada.
-- producto 2: Unidades: 7920.0
-- producto 2: Estrella damm se elabora utilizando la receta original de 1876 resultado de la combinación de malta de cebada, arroz y lúpulo, 100% ingredientes naturales.
-- producto 1: Sabrosa y delicada. Muy refrescante y suave. Su paso por boca se caracteriza el recuerdo de los cereales ligeramente tostados.
-- producto 2: Sin aditivos, ni conservantes, ni sulfitos añadidos.
 - producto 1: Alc. 4,6% vol.
+- producto 2: Unidades: 7920.0
+- producto 1: Sabrosa y delicada. Muy refrescante y suave. Su paso por boca se caracteriza el recuerdo de los cereales ligeramente tostados.
+- producto 1: NOTA: El embalaje puede variar!
+- producto 2: Estrella damm se elabora utilizando la receta original de 1876 resultado de la combinación de malta de cebada, arroz y lúpulo, 100% ingredientes naturales.
+- producto 2: Sin aditivos, ni conservantes, ni sulfitos añadidos.
+- producto 2: Es una cerveza versátil, ligera, refrescante y con un aroma limpio y respetuoso con la cebada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQ5Y6XLX{{</world>}}

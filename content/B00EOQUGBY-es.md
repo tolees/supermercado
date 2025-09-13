@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Elaborada con ingredientes naturales, nuestra comida húmeda para gatitos en gelatina contiene más carne de verdad y no contiene cereales, rellenos ni conservantes innecesarios, lo que la convierte en una opción más sana y nutritiva para su gato.
+- Sostenible, envases reciclables; nuestras latas de metal y envases de cartón pueden reciclarse completamente
 - EL EMBALAJE PUEDE VARIAR mientras hacemos la transición del antiguo al nuevo embalaje de marca
-- Fuente natural de Omega-3 y 6. Los ácidos grasos omega-3 y omega-6 son importantes para la salud general de los gatos, con beneficios potenciales que incluyen la promoción de un pelaje y una piel sanos, el apoyo a la salud del cerebro y los ojos, la promoción de la salud cardiovascular, el apoyo a la salud de las articulaciones y el apoyo al sistema inmunológico.
-- 55% Pechuga de Pollo - Alto contenido en proteínas y carne que favorece la musculatura magra y es rico en taurina natural. Sólo insistimos en utilizar únicamente ingredientes de la más alta calidad
 - Complementario y debe administrarse junto con un alimento seco completo y equilibrado para proporcionar a su gatito una dieta completa
 - El paquete contiene 16 sobres de 70 g de pollo con hígado de pollo
-- Sostenible, envases reciclables; nuestras latas de metal y envases de cartón pueden reciclarse completamente
-- Elaborada con ingredientes naturales, nuestra comida húmeda para gatitos en gelatina contiene más carne de verdad y no contiene cereales, rellenos ni conservantes innecesarios, lo que la convierte en una opción más sana y nutritiva para su gato.
+- 55% Pechuga de Pollo - Alto contenido en proteínas y carne que favorece la musculatura magra y es rico en taurina natural. Sólo insistimos en utilizar únicamente ingredientes de la más alta calidad
+- Fuente natural de Omega-3 y 6. Los ácidos grasos omega-3 y omega-6 son importantes para la salud general de los gatos, con beneficios potenciales que incluyen la promoción de un pelaje y una piel sanos, el apoyo a la salud del cerebro y los ojos, la promoción de la salud cardiovascular, el apoyo a la salud de las articulaciones y el apoyo al sistema inmunológico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00EOQUGBY{{</world>}}

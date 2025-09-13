@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Limpiador Desinfectante Multiusos eficaz contra bacterias, como S. aureus o E. coli, hongos y virus envueltos.
 - Apto para todo tipo de suelos y superficies, incluso delicadas como parquet, madera, mármol y acero inoxidable.
-- No desprende vapores, no mancha textiles, no daña superficies y está testado dermatológicamente. Sin fosfatos, ftalatos ni disruptores endocrinos.
 - Elimina los malos olores y deja un fresco aroma a Manzana.
+- No desprende vapores, no mancha textiles, no daña superficies y está testado dermatológicamente. Sin fosfatos, ftalatos ni disruptores endocrinos.
 - Limpia y desinfecta sin lejía y de una sola pasada todo tipo de superficies, eliminando el 99,9% de los gérmenes y neutralizando los alérgenos más comunes del hogar; ácaros de polvo, de gatos, esporas de moho y polen.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

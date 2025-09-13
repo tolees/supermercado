@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descubre más de 300 recetas rápidas y fáciles de postres en Nestlé Cocina
-- Óptimo para dietas Vegetarianas, sin gluten y Halal
-- Con la leche condensada La Lechera Dulce de Leche, tus postres serán más cremosos y sabrosos
 - Auténtico Dulce de Leche elaborado a través del proceso tradicional al baño María
 - La Lechera Dulce de Leche, perfecta para untar y hacer rellenos y coberturas
+- Con la leche condensada La Lechera Dulce de Leche, tus postres serán más cremosos y sabrosos
+- Óptimo para dietas Vegetarianas, sin gluten y Halal
+- Descubre más de 300 recetas rápidas y fáciles de postres en Nestlé Cocina
 - Recogida diaria de leche fresca de Galicia Sin aromas ni conservantes añadidos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

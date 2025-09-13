@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Variedad: Viura y Malvasia con graduación de 13°
-- Temperatura de servicio: 7°C - 8°C
-- Capacidad: 6 botellas de 750 ml
 - Contenido de alcohol (alc/vol): 13.0 percent by volume
-- Nota de cata:En nariz sorprende por su gran expresividad, con una atractiva gama de aromas exóticos, hierbas aromáticas y eneldo. En boca, perfecto equilibrio entre grado y acidez, fresco, largo.
+- Variedad: Viura y Malvasia con graduación de 13°
 - Maridaje: Muy fácil de tomar y apto para acompañar tanto mariscos como pescados a la plancha o al horno.
+- Capacidad: 6 botellas de 750 ml
+- Nota de cata:En nariz sorprende por su gran expresividad, con una atractiva gama de aromas exóticos, hierbas aromáticas y eneldo. En boca, perfecto equilibrio entre grado y acidez, fresco, largo.
+- Temperatura de servicio: 7°C - 8°C
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NMF7J1Q{{</world>}}

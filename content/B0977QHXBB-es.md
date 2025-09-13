@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Aporta brillo y suavidad sin dejar el pelo graso
 - Propiedades hidratantes
 - Champú de Coco/Biotina
 - Mantiene el pelo fuerte y sano gracias a la Biotina
-- Aporta brillo y suavidad sin dejar el pelo graso
 - Indicado para todo tipo de cabello
 
 [🛒 Visítala!!!]({{< param buyurl >}})

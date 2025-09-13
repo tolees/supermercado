@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gel de baño y ducha nutriente, aporta gran suavidad a la piel dejándola muy perfumada
-- Libre de Parabenos. Dermatológicamente testado. Vegano. Crea mucha espuma
 - No testado en animales. Vegano. Fabricación íntegra en España
+- Libre de Parabenos. Dermatológicamente testado. Vegano. Crea mucha espuma
+- Gel de baño y ducha nutriente, aporta gran suavidad a la piel dejándola muy perfumada
 - Género; Unisex. Adulto e infantil
 - Gel muy perfumado Coco. Exótica fragancia
 

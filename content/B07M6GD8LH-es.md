@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Previene las estrías
-- Enriquecida con Ácido Hialurónico
 - Atenúa las cicatrices
+- Enriquecida con Ácido Hialurónico
 - Regeneradora
+- Previene las estrías
 - Fórmula no grasa de rápida absorción
 
 [🛒 Aquí!!!]({{< param buyurl >}})

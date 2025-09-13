@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula biodegradable, contiene ingredientes que pueden descomponerse naturalmente en componentes orgánicos o inorgánicos más pequeños
-- Colon Limpialavadoras limpia, higieniza y elimina los malos olores de la lavadora
-- Protege la lavadora para obtener un funcionamiento óptimo de la máquina
 - Limpia las partes internas de tu lavadora y elimina los residuos de suciedad y detergente
+- Protege la lavadora para obtener un funcionamiento óptimo de la máquina
+- Colon Limpialavadoras limpia, higieniza y elimina los malos olores de la lavadora
+- Fórmula biodegradable, contiene ingredientes que pueden descomponerse naturalmente en componentes orgánicos o inorgánicos más pequeños
 - Elimina el mal olor, dejando un aroma agradable y fresco en la lavadora
 
 [🛒 Comprar!!!]({{< param buyurl >}})

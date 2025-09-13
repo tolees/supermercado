@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proteger de la luz solar y de olores agresivos
-- Evitar el contacto directo con el suelo
 - Conservar en lugar limpio, fresco y seco
+- Evitar el contacto directo con el suelo
+- Proteger de la luz solar y de olores agresivos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00X9ZPW0Q{{</world>}}

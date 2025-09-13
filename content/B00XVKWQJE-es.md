@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 70 Servilletas
-- Extra Suaves
 - Color Amarillo
+- Extra Suaves
+- 70 Servilletas
 - Tamaño Medio (32x30cm servilleta abierta)
 - 1 Capa
 

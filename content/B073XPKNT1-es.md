@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La caja contiene 12 latas de Red Bull Bebida Energética Regular 473ml
 - Revitaliza Cuerpo y Mente
+- La caja contiene 12 latas de Red Bull Bebida Energética Regular 473ml
 - Red Bull Energy Drink es una bebida óptima para cuando necesita un impulso
 - La fórmula de Red Bull Energy Drink contiene una combinación óptima de ingredientes de calidad: Cafeína, Taurina, Vitaminas del grupo B, Sacarosa, Glucosa y Agua del manantial de los Alpes
 

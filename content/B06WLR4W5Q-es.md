@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - con extracto de rosa, conocida por suavizar la piel y jazmín, conocido por proteger la piel
-- Limpia, desmaquilla, nutre
-- Por la mañana y por la noche, aplicar su textura fundente con un algodón sobre rostro y cuello; para una rutina completa, aplica después el tónico de Flores Delicadas
 - Para piel sensible, normal a seca
 - Para rostro, testado bajo control dermatológico
+- Por la mañana y por la noche, aplicar su textura fundente con un algodón sobre rostro y cuello; para una rutina completa, aplica después el tónico de Flores Delicadas
+- Limpia, desmaquilla, nutre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06WLR4W5Q{{</world>}}

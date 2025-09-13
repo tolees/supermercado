@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Veganas
 - Sin lactosa ni proteínas de la leche, sin frutos de cáscara y sin huevo.
+- Veganas
 - Deliciosas mini galletas infantiles para niños
 - Elaboradas con aceite de girasol alto oleico, sin aceite de palma.
 - Elaboradas en España por Galletas Gullón

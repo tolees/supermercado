@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fecha Lanzamiento: 2010
 - Familias Olfativas: Amaderada, Aromática
 - Diseñador: Aurelien Guichard
-- Fecha Lanzamiento: 2010
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B003X5KAA4{{</world>}}

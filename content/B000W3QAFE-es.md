@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sensación ligera
-- Base de maquillaje líquida
 - A prueba de roces, a prueba del día a día
+- Base de maquillaje líquida
 - No obstruye los poros
+- Sensación ligera
 - Sin aceite, sin fragancia
 
 [🛒 Aquí!!!]({{< param buyurl >}})

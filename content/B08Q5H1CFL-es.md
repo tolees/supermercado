@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiempo de germinación: 15 días
-- Una semilla cada 3 cm, 4 cm de profundidad
 - Fuera de marzo a junio, en filas de 30 cm de distancia
-- Sembrar bajo vidrio en enero-febrero
-- Rendimiento, muy adecuado para la congelación
 - Carouby (150 cm de alto) es una selección superior en términos de sabor
+- Sembrar bajo vidrio en enero-febrero
+- Una semilla cada 3 cm, 4 cm de profundidad
+- Rendimiento, muy adecuado para la congelación
+- Tiempo de germinación: 15 días
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Q5H1CFL{{</world>}}

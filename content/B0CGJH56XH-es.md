@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tratamiento de uñas que incluye Base y top coat, todo en uno
+- Acabado brillante y suave
 - Formula enriquecida con calcio para fortalecer las uñas
 - Secado rápido
+- Tratamiento de uñas que incluye Base y top coat, todo en uno
 - Complemento óptimo para unas uñas suaves, fuertes y brillantes
-- Acabado brillante y suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGJH56XH{{</world>}}

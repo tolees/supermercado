@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cereales Nestlé sin gluten, con vitaminas del grupo B
+- Cereales Nestle Go Free Chocolate, todo el sabor del cereal, sin gluten
 - ¡Cereales de chocolate sin gluten, para toda la familia!
 - Los cereales Go Free Chocolate para el desayuno, sin colorantes ni aromas artificiales
-- Cereales Nestle Go Free Chocolate, todo el sabor del cereal, sin gluten
-- Cereales Nestlé sin gluten, con vitaminas del grupo B
 - Deliciosos y crujientes copos de maíz sin gluten para tu desayuno
 
 [🛒 Comprar!!!]({{< param buyurl >}})

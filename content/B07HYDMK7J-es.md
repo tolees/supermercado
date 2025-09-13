@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para: Microondas, lavavajillas, nevera
-- Incluye recetario
+- Diseñado después de la investigación científica sobre la mejor manera de cocinar la quinoa y el arroz,realizado en colaboración con la fundación alícia
 - Su diseño permite servir directamente a la mesa
 - Muy rápido: no es necesario hervir agua primero; hasta 4 raciones en 12 minutos
-- Diseñado después de la investigación científica sobre la mejor manera de cocinar la quinoa y el arroz,realizado en colaboración con la fundación alícia
-- Nuevo diseño del colador/tapa para facilitar el drenaje del agua con quinoa y otros cereales pequeños
 - Incluye tabla de cocción para cereales y arroces en tendencia: quinoa, amaranto, trigo,mijo, bulgur, arroz integral
+- Nuevo diseño del colador/tapa para facilitar el drenaje del agua con quinoa y otros cereales pequeños
+- Apto para: Microondas, lavavajillas, nevera
+- Incluye recetario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HYDMK7J{{</world>}}

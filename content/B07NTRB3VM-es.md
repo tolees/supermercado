@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Máxima ligereza y ultra confortable
+- Fórmula cobertura total
 - Difumina las imperfecciones
 - Controla los brillos gracias a su tecnología polvo de triple balance
-- Fórmula cobertura total
 - Piel perfecta y suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

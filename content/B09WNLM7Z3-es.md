@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La bruma autobronceadora proporciona una capa ultra fina para una cobertura optima y uniforme
 - Marca: Garnier
+- La bruma autobronceadora proporciona una capa ultra fina para una cobertura optima y uniforme
 - Hidrata y broncea la piel de manera natural
 - Enriquecida con aceite albaricoque nutritivo, te aporta en 1H un bronceado dorado y uniforme sin marcas que dura hasta una semana
 

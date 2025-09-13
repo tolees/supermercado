@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Deliciosas piezas largas en forma de stick
-- Conservar en lugar fresco y seco
-- ¡Ahora más grandes!
-- Dulces de regaliz
 - Las chuches de toda la vida
-- Disfruta en casa de la alegría y diversión en cualquier momento
+- Deliciosas piezas largas en forma de stick
+- ¡Ahora más grandes!
 - Intenso sabor a regaliz negro
+- Conservar en lugar fresco y seco
+- Dulces de regaliz
+- Disfruta en casa de la alegría y diversión en cualquier momento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2ZMQDRF{{</world>}}

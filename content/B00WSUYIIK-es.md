@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto Para El Cuidado Y Bienestar De Tu Cuerpo
 - Jabon marsella cubo 500g le corvette
 - Producto de la marca la corvette
+- Producto Para El Cuidado Y Bienestar De Tu Cuerpo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WSUYIIK{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Soporte para esponja para fregadero: hecho de material moderado, muy seguro y apto para secadora.
-- Tabletas de lavandería: se descomponen rápidamente para una limpieza profunda, lavandería natural.
-- Lavandería: mejora el efecto de lavado sin dañar la ropa, jabones naturales.
 - Jabón de manos portátil: se disuelve rápidamente en agua sin dejar rastros, portátil.
+- Soporte para esponja para fregadero: hecho de material moderado, muy seguro y apto para secadora.
 - Jabón de manos de viaje: se resolverá instantáneamente cuando toque el agua, ropa de viaje.
+- Lavandería: mejora el efecto de lavado sin dañar la ropa, jabones naturales.
+- Tabletas de lavandería: se descomponen rápidamente para una limpieza profunda, lavandería natural.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DBMXKF9X{{</world>}}

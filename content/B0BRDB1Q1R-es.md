@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incorpora sal y ayuda al aclarado, también protege el cristal y la plata
-- Las cápsulas altamente soluble se disuelve rápido
 - Mantiene un aroma limpio y fresco en tu lavavajillas
 - Las cápsulas Fairy Original limpian a la primera y son efectivas incluso en grasa reseca
+- Las cápsulas altamente soluble se disuelve rápido
+- Incorpora sal y ayuda al aclarado, también protege el cristal y la plata
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRDB1Q1R{{</world>}}

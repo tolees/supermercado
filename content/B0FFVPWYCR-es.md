@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
-- FÓRMULA VEGANA ENRIQUECIDA CON SUPERALIMENTOS AUSTRALIANOS: Nuestra línea Aussie SOS es vegana, sin ingredientes o subproductos derivados de animales
 - ¿PELO SECO Y DAÑADO que necesita ayuda? ¡Estás en buenas manos! Los productos Aussie dejarán tu pelo increíblemente hidratado
+- La siguiente información se aplica a cada unidad del paquete
 - DI HOLA A UN PELO INCREÍBLEMENTE HIDRATADO. Desde el primer uso, tu pelo estará suave, liso e increíblemente hidratado
 - REPARA Y REVITALIZA: El acondicionador desenredante Aussie ayuda a reparar y revitalizar el pelo estresado
+- FÓRMULA VEGANA ENRIQUECIDA CON SUPERALIMENTOS AUSTRALIANOS: Nuestra línea Aussie SOS es vegana, sin ingredientes o subproductos derivados de animales
 - PARA UN RESCATE COMPLETO DEL PELO: sigue nuestra rutina con el champú y acondicionador Aussie SOS Repair & Revive para pelo seco y dañado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

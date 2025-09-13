@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - FINASTOPIC LOCION 60ML ISDIN (8429420095953)
-- Tratamiento capilar Peluquería Unisex adulto
 - Tratamiento capilar FINASTOPIC
+- Tratamiento capilar Peluquería Unisex adulto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B018KYWIY8{{</world>}}

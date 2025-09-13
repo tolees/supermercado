@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CÁPSULA DOBLE - La cápsula tiene un tamaño XXL para poder preparar dos tazas de café espresso simultáneamente o uno doble en una taza grande.
-- INTENSO Y TOSTADO - La mezcla da como resultado un sabor duradero con notas de café tostado y cacao negro.
 - 5 PAQUETES DE 10 CÁPSULAS - 50 Cápsulas dobles de Aluminio compatibles exclusivamente con las cafeteras L’Or Barista.
+- INTENSO Y TOSTADO - La mezcla da como resultado un sabor duradero con notas de café tostado y cacao negro.
 - Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 - INTENSIDAD 13 - Café molido de tueste natural con sabor intenso y pronunciado elaborado con granos de café Arábica.
+- CÁPSULA DOBLE - La cápsula tiene un tamaño XXL para poder preparar dos tazas de café espresso simultáneamente o uno doble en una taza grande.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00KH1KO4Y{{</world>}}

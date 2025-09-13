@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El suave color mate se siente lujoso, ¡y también lo hace el aplicador de pie!
 - Agradable fragancia a vainilla
+- El suave color mate se siente lujoso, ¡y también lo hace el aplicador de pie!
 - Fórmula de gel 100% libre de cera
 - Sensación hidratante y sedosa
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Receta compleja elaborada con 8 variedades de lúpulo: Nugget (Prades, Tarragona), Summit, Willamette, Citra, Centennial, Simcoe, Amarillo y Mosaic.
-- Alc. 6,6% vol.
-- IPA Mediterránea.
 - Un tipo de cerveza que marida perfectamente con comidas gustosas, como las nuevas generaciones de hamburguesas, carnes a la brasa y quesos azules.
 - Una cerveza intensa con notas de frutas tropicales y cítricos.
+- Alc. 6,6% vol.
+- IPA Mediterránea.
+- Receta compleja elaborada con 8 variedades de lúpulo: Nugget (Prades, Tarragona), Summit, Willamette, Citra, Centennial, Simcoe, Amarillo y Mosaic.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08L9YNWC1{{</world>}}

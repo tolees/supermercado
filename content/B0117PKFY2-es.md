@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Espumas dulces
+- Un aperitivo divertido para personas de todas las edades
 - Irresistible mix de sabores
 - Deliciosas y esponjosas nubes
-- Un aperitivo divertido para personas de todas las edades
 - Sin gluten
 
 [🛒 Visítala!!!]({{< param buyurl >}})

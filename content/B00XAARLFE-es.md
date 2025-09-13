@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fortalece tus dientes
 - Con Flúor y Calcio
-- Dentifrico
 - Pasta dental
 - Cepillándote los dientes dos veces al día
+- Dentifrico
 - Protección anticaries
-- Fortalece tus dientes
 - Para toda la familia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

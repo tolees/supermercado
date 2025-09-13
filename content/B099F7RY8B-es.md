@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Productos de Baño e higiene personal para Unisex Adulto
-- Baño e higiene personal Jabon Manos 500Ml.Con Dosificador de Capitán América
 - Los productos de la marca Capitán América están fabricados con ingredientes de la mejor calidad.
+- Baño e higiene personal Jabon Manos 500Ml.Con Dosificador de Capitán América
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B099F7RY8B{{</world>}}

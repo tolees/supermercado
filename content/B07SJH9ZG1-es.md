@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de porcelana; decoración navideña.
-- Apto para lavavajillas.
 - Capacidad: 90 cl, diámetro: 6 cm, altura: 5 cm, diámetro del plato: 10 cm, 5 cm.
+- Apto para lavavajillas.
+- Hecho de porcelana; decoración navideña.
 - Juego de 6 tazas de café con platillo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

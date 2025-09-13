@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ideal para toda la familia
-- Ideal para desayuno
 - ok
 - Listo para consumir
+- Ideal para desayuno
 - Se puede usar para preparar dulces
 - Contiene vitaminas A y D
 

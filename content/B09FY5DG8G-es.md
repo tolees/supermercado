@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hidrata y unifica la piel para que tenga un aspecto radiante y saludable; su fórmula ligera proporciona a la piel la hidratación que necesita
-- Contiene un complejo antioxidante con vitamina E, Pro-vitamina B5 y aloe vera
 - Envase fabricado con materiales reciclados
 - Elaborado con un 77% de ingredientes de origen natural
+- Hidrata y unifica la piel para que tenga un aspecto radiante y saludable; su fórmula ligera proporciona a la piel la hidratación que necesita
+- Contiene un complejo antioxidante con vitamina E, Pro-vitamina B5 y aloe vera
 - No comedogénico, probado por dermatólogos y apto para pieles sensibles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

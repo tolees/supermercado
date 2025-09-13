@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- INGREDIENTES DE ORIGEN NATURAL Elaborado con queso fresco (29,7%) y cheddar (24,6%), pimientos, ajo y chili. Sin aditivos artificiales ni conservantes, perfecto para picoteos rápidos y sabrosos
 - MARCA CON TRAYECTORIA SÓLIDA Producto de Iberitos, empresa española con alto compromiso con calidad y tradición. Presenta una alternativa versátil y original para enriquecer aperitivos y reuniones.
 - FORMATO PRÁCTICO Y COMPARTIDO Caja de 30 monodosis de 46gr cada una, ideal para servir en reuniones, eventos o como snack individual. Consigue la comodidad de un envase porción y disfruta sin desperdicio.
 - SABOR AUTÉNTICO Y PICANTE SUAVE Crema untuosa de queso cheddar con un toque de chile y pimentón agridulce. Ideal para dipear con chips, verduras u otros snacks y sorprender a tus invitados.
+- INGREDIENTES DE ORIGEN NATURAL Elaborado con queso fresco (29,7%) y cheddar (24,6%), pimientos, ajo y chili. Sin aditivos artificiales ni conservantes, perfecto para picoteos rápidos y sabrosos
 - FÁCIL DE SERVIR Y USAR Monodosis en tubo de aluminio, perfectas para llevar, decorar platos o servir en bandejas. Sin necesidad de mesa o cubiertos añade sabor y estilo a cualquier ocasión.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sistema de cuidado del cabello con surfactante sin sulfatos
-- Apto para viajes y aeropuertos
 - Ayuda a restaurar y fortalecer todo tipo de cabello
-- Deja el cabello fuerte, suave y brillante
 - Champú hidratante impregnado con aceite de argán
+- Apto para viajes y aeropuertos
+- Deja el cabello fuerte, suave y brillante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01KYQ9HIA{{</world>}}

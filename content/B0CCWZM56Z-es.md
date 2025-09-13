@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La mision PUR crea productos con ingredientes de calidad para ayudarte a realizar sustituciones sencillas que te faciliten las decisiones que tomas cada día para llevar un estilo de vida más saludable
-- Herbabuena: estas mentas sin azúcar son refrescantes y tienen un sabor a menta para refrescar tus papilas gustativas; mantén tu boca fresca con una ráfaga intensa del clásico sabor a hierbabuena
 - Mentas libres de alergenos: las mentas PUR están hechas justo para ti; los productos son veganos, sin transgénicos, sin azúcar, sin gluten, sin soja, sin frutos secos ni cacahuetes
+- Herbabuena: estas mentas sin azúcar son refrescantes y tienen un sabor a menta para refrescar tus papilas gustativas; mantén tu boca fresca con una ráfaga intensa del clásico sabor a hierbabuena
 - Despidete del aspartamo: edulcorado de manera natural con xilitol El xilitol es un alcohol de azúcar totalmente natural que se ve y sabe igual que el azúcar, pero tiene un 40 % menos de calorías
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

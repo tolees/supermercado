@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto dermatológicamente testado sin colorantes
-- Dosis: En caso de suciedad difícil puede ser aplicado directamente sobre las manchas para una eficaz acción penetrante
-- Acción: Eficaz contra la suciedad pero también delicado y suave, tanto en los tejidos como con la piel
 - Producto: Omino Bianco Jabón de Marsella es adecuado para el lavado a mano de la ropa incluso más delicada
+- Dosis: En caso de suciedad difícil puede ser aplicado directamente sobre las manchas para una eficaz acción penetrante
+- Producto dermatológicamente testado sin colorantes
+- Acción: Eficaz contra la suciedad pero también delicado y suave, tanto en los tejidos como con la piel
 - Fórmula: Pastilla de jabón 100% natural fabricada con ingredientes naturales y biodegradables que dejan un fresco perfume a limpieza
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

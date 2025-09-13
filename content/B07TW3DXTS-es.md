@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Textura cremosa e hidratante para el máximo confort
-- Ocho tonos nude delicados para favorecer a todos los tonos de piel
-- Aceites nutritivos
 - Disponible en ocho tonos
+- Ocho tonos nude delicados para favorecer a todos los tonos de piel
+- Textura cremosa e hidratante para el máximo confort
 - Acabado mate empolvado
+- Aceites nutritivos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07TW3DXTS{{</world>}}

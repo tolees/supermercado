@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Antitranspirante: huele irresistible durante 48 horas
 - Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
-- Combate el mal olor, fragancias irresistibles
+- Antitranspirante: huele irresistible durante 48 horas
 - Fórmula sin aluminio
 - ¡Prueba toda la nueva gama Axe!
+- Combate el mal olor, fragancias irresistibles
 - Fragancia Dark Temptation con aroma a chocolate negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Nota de cata (vista): Rojo granate profundo e intenso con matices púrpura
-- Nota de cata (nariz): Aromas profundos, elegantes y complejos; fruta negra y violetas sobre un fondo balsámico y mineral
 - Nota de cata (boca): carnoso, potente y estructurado; una entrada aterciopelada conduce a una sensación en boca equilibrada; amplio cuerpo y persistencia
-- Varietales: Garnacha tinta, Graciano, Maturana tinta, Tempranillo
+- Nota de cata (nariz): Aromas profundos, elegantes y complejos; fruta negra y violetas sobre un fondo balsámico y mineral
 - D.O.Ca; Rioja
+- Varietales: Garnacha tinta, Graciano, Maturana tinta, Tempranillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1HBKNFZ{{</world>}}

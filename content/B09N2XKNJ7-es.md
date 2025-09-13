@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para pieles sensibles y no obstruye poros. Dermatológicamente testado
-- Fórmula Vegana
-- Estilo más adecuado para: female
 - a prueba de sudor y resistente al agua
-- Controla los brillos sin secar la piel
+- Apto para pieles sensibles y no obstruye poros. Dermatológicamente testado
 - Cobertura media y ligera pero que dura todo el día
+- Controla los brillos sin secar la piel
+- Estilo más adecuado para: female
+- Fórmula Vegana
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09N2XKNJ7{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideañ solo con hielo o como ingrediente para cócteles
-- En boca es dulce y suave
-- En nariz predominan las notas de vainilla y cítricos
 - El color es amarillo con reflejos dorados
+- En boca es dulce y suave
+- Ideañ solo con hielo o como ingrediente para cócteles
+- En nariz predominan las notas de vainilla y cítricos
 - Adecuado como regalo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

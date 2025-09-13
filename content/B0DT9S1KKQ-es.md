@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Apto para compartir
 - Envasado en atmósfera protectora
+- Snack de patatas
 - Crujiente y salado
 - Ideal para llevar de picnic
-- Snack de patatas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DT9S1KKQ{{</world>}}

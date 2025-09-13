@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fragancias: Perfumes y colonias que ofrecen aromas únicos y atractivos.
-- Maquillaje: Bases, sombras, labiales y delineadores para realzar la belleza.
 - Accesorios de belleza: Brochas, esponjas y herramientas para la aplicación de maquillaje.
 - Cuidado de la piel: Hidratantes, limpiadores, exfoliantes y sérums para una piel saludable.
+- Maquillaje: Bases, sombras, labiales y delineadores para realzar la belleza.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B8ZG7PR5{{</world>}}

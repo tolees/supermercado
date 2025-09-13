@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lumi Glotion de L’Oréal Paris; potencia el brillo natural de tu piel para obtener una piel resplandeciente e hidratada con acabado natural
-- Consigue un efecto glow total aplicándolo solo, un brillo suave si lo aplicas antes de tu base favorita o glow localizado como iluminador si lo aplicas después de la base
-- Fórmula iluminadora para un acabado natural efecto glow; textura ligera fácil de aplicar; apta para pieles sensibles; dermatológicamente testada
 - Contenido: 1x LOréal Paris Lumi Glotion fórmula iluminadora Tono Deep
+- Consigue un efecto glow total aplicándolo solo, un brillo suave si lo aplicas antes de tu base favorita o glow localizado como iluminador si lo aplicas después de la base
+- Lumi Glotion de L’Oréal Paris; potencia el brillo natural de tu piel para obtener una piel resplandeciente e hidratada con acabado natural
+- Fórmula iluminadora para un acabado natural efecto glow; textura ligera fácil de aplicar; apta para pieles sensibles; dermatológicamente testada
 - Acabado glow; textura ligera fácil de aplicar; apta para pieles sensibles; dermatológicamente testada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

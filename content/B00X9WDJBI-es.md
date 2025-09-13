@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crema de día antiedad para todos los tipos de piel, Combate el 100% de los signos de la edad: arrugas - textura - color - firmeza
-- Aplicar la crema todos los días con movimientos ascendentes sobre la piel del rostro y cuello previamente limpios
 - Mejora la calidad de la piel y corrige las arrugas gracias a su alta concentración de activos antiedad, Triple acción: reduce arrugas, reafirma e ilumina
+- Aplicar la crema todos los días con movimientos ascendentes sobre la piel del rostro y cuello previamente limpios
+- Crema de día antiedad para todos los tipos de piel, Combate el 100% de los signos de la edad: arrugas - textura - color - firmeza
 - Formulada con vitamina C, Pro-Retinol y ácido hialurónico, Textura crema hidratante fina, sedosa y no grasa
 - Contenido: 1x LOréal Paris Revitalift Láser Crema Día, 50ml
 

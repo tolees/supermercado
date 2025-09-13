@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para toda la familia
 - Sin gluten
-- Listo para servir
-- Conservar en un lugar fresco y seco
 - La siguiente información se aplica a cada unidad del paquete
 - En formato pelotazos
+- Listo para servir
+- Ideal para toda la familia
+- Conservar en un lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZF7YJZK{{</world>}}

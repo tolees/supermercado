@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MODO DE EMPLEO: Aplicar generosa y uniformemente 30 minutos antes de la exposición al sol. Reaplicar frecuentemente, al menos cada 2 horas, después de secarse con la toalla, cada baño o actividad deportiva. Para mantener una piel sana y protegerla
-- PROTECCIÓN EFICAZ: el protector solar ofrece una protección completa del sol y sus efectos adversos y además, tiene un acabado seco.
 - FILTROS SOLARES: esta crema para el sol contiene filtros solares FPS50+ para proporcionar una protección efectiva contra los efectos dañinos de los rayos UVA y UVB.
 - ABSORCIÓN INMEDIATA: con una protección muy alta FPS50+ para que te mantengas protegido del sol y cuides de tu piel de la mejor forma.
 - CONTIENE: vitamina E con efecto antiinflamatorio y antienvejecimiento y vitamina C con capacidad antioxidante.
+- PROTECCIÓN EFICAZ: el protector solar ofrece una protección completa del sol y sus efectos adversos y además, tiene un acabado seco.
+- MODO DE EMPLEO: Aplicar generosa y uniformemente 30 minutos antes de la exposición al sol. Reaplicar frecuentemente, al menos cada 2 horas, después de secarse con la toalla, cada baño o actividad deportiva. Para mantener una piel sana y protegerla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09WRC6V9B{{</world>}}

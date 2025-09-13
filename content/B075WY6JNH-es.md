@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rico en fibra
-- Una fuente de vitamina E y vitamina K
 - Contiene calcio, zinc, potasio y fósforo
+- Una fuente de vitamina E y vitamina K
 - Jarabe De Algarrobo Se Utiliza Como Un Jarabe Natural Para Las Calles Respiratorias
 - Útil para tratar problemas de tos y dolor de garganta
+- Rico en fibra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B075WY6JNH{{</world>}}

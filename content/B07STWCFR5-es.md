@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cobertura total con acabado mate
+- Neutraliza y camufla las imperfecciones
 - No obstruye los poros
 - Un corrector mate que combina con tu piel a la perfección
 - Ideal para todo tipo de pieles
-- Neutraliza y camufla las imperfecciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07STWCFR5{{</world>}}

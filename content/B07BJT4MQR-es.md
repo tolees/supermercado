@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye: 6 cabezales de cepillado C3 Premium Plaque Defence
 - BrushSync: selecciona automáticamente el modo de cepillado óptimo y el nivel de intensidad.
-- Philips Sonicare: impulsa el agua entre los dientes y sus movimientos fragmentan y retiran la placa.
+- Incluye: 6 cabezales de cepillado C3 Premium Plaque Defence
 - Tecnología de limpieza adaptativa: disfruta de una limpieza personalizada con cada cepillado.
+- Philips Sonicare: impulsa el agua entre los dientes y sus movimientos fragmentan y retiran la placa.
 - Adiós a la placa: con su diseño flexible, elimina hasta 10 veces más placa de zonas inaccesibles*
 
 [🛒 Comprar!!!]({{< param buyurl >}})

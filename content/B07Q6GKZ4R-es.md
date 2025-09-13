@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para el control de la piel atópica
-- Hidrata la piel en profundidad
 - Ayuda a aliviar el picor y la irritación
 - Restablece el equilibrio de la piel por su capacidad emoliente
+- Para el control de la piel atópica
+- Hidrata la piel en profundidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07Q6GKZ4R{{</world>}}

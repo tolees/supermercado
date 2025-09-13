@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alta calidad
 - Ingredientes seleccionados
 - Brand: Clinique
+- Alta calidad
 - NEUTRAL CLINIQUE
 
 [🛒 Aquí!!!]({{< param buyurl >}})

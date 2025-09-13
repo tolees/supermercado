@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caramelos de goma
-- Irresistible mix de sabores
 - Deliciosas piezas en forma de caracoles
+- Irresistible mix de sabores
+- Caramelos de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01CP8QRD8{{</world>}}

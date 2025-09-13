@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nota de cata (vista): Color rojo picota con destellos violáceos.
-- Crianza, D.O.Ca. Rioja
-- Varietales: Tempranillo 100%
 - Maridaje: Armoniza perfectamente con platos suaves como arroces, quesos, patés, guisos, verduras, pescados… además de los platos típicos que maridan tradicionalmente con los vinos tintos de crianza.
+- Varietales: Tempranillo 100%
 - Nota de cata (boca): Suave, equilibrado y fresco. Con buena estructura y taninos suaves.
+- Crianza, D.O.Ca. Rioja
+- Nota de cata (vista): Color rojo picota con destellos violáceos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01LQG4XYU{{</world>}}

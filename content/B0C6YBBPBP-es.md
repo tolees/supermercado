@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Corrector líquido Multi Perfector de Max Factor, que disimula, ilumina y cubre
 - Aplicador de gran tamaño para una aplicación sencilla
-- Su fórmual es de cobertura media, suave y uniforme, y contiene pigmentos reflectantes de la luz
 - Es vegana, clean y con materiales reciclados y reciclables
+- Su fórmual es de cobertura media, suave y uniforme, y contiene pigmentos reflectantes de la luz
 - Hidrata hasta 24h, es ligera, resistente al agua y no apelmaza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

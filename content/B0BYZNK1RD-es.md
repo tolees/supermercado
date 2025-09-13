@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Nota de cata: vino blanco dulce de color dorado con notas de frutas exóticas, cítricos y miel.
-- Vino blanco dulce de la denominación Jurançon, en el extremo suroeste de Francia.
-- Región: vino blanco dulce del suroeste de Francia
 - Mezcla: variedades de uva típicas de la región, Gros Manseng y Petit Manseng.
 - Maridaje: un vino redondo y delicioso que combina perfectamente con foie gras o tarta de frutas.
+- Vino blanco dulce de la denominación Jurançon, en el extremo suroeste de Francia.
+- Región: vino blanco dulce del suroeste de Francia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYZNK1RD{{</world>}}

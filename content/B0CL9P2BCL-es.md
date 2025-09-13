@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 1 rollo
-- Tamaño extra XXL
-- La siguiente información se aplica a cada unidad del paquete
-- 2 capas
-- Ideal para todo tipo de utilización doméstica
 - Rollo de cocina blanco
+- Tamaño extra XXL
+- 2 capas
+- 1 rollo
+- La siguiente información se aplica a cada unidad del paquete
+- Ideal para todo tipo de utilización doméstica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL9P2BCL{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula no agotadora: sensación de ligereza con tecnología adapti-flex para mayor comodidad y flexibilidad
-- 9 tonos mate ilimitados: 9 vibrantes tonos mate diseñados pensando en todas las complexiones; encuentra tu subtono en la parte inferior del envase
-- No-budge matte, 100% vegan: un cómodo mate 24hr; ingredientes vegaños
 - Aplicación en un solo paso: el aplicador patentado se adapta a los labios y proporciona una capa suave de color vibrante, mientras que la punta afilada delinea los labios con una precisión controlada para una aplicación sin complicaciones
+- Fórmula no agotadora: sensación de ligereza con tecnología adapti-flex para mayor comodidad y flexibilidad
+- No-budge matte, 100% vegan: un cómodo mate 24hr; ingredientes vegaños
+- 9 tonos mate ilimitados: 9 vibrantes tonos mate diseñados pensando en todas las complexiones; encuentra tu subtono en la parte inferior del envase
 - Protege los labios: formulado con triple ácido hialurónico y extracto de arándano reciclado; apto para labios sensibles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

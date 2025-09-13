@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Libre de sal, sulfatos y parabenos
 - Revitaliza y reestructura el cabello desde la raíz
-- Fortalece y recupera el cabello
 - Devuelve elasticidad, hidratación y brillo al cabello
+- Fortalece y recupera el cabello
 - Acondiciona el cabello facilitando el peinado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

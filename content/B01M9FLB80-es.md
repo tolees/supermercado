@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto apto para ser consumido directamente o para ser utilizado como ingrediente en preparaciones culinarias. ¡No te quedes sin probarlo!
-- Modo de empleo: Producto apto para ser consumido directamente o para ser utilizado como ingrediente en preparaciones culinarias.
 - Ingredientes: Sirope de agave. Ingredientes procedentes de la Agricultura Ecológica.
+- Modo de empleo: Producto apto para ser consumido directamente o para ser utilizado como ingrediente en preparaciones culinarias.
 - Almacenar a en lugar fresco y seco (Tª< 25º C).
+- Producto apto para ser consumido directamente o para ser utilizado como ingrediente en preparaciones culinarias. ¡No te quedes sin probarlo!
 - El sirope ecológico de agave es un endulzante natural perfecto para sustituir al azúcar refinado. Procedede las hojas de agave, una planta parecida al aloe vera, tiene un gran poder endulzante.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

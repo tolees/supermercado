@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para cócteles
 - Se puede servir con hielo
-- Con notas de plantas botánicas
 - Es una bebida elaborada según una receta tradicional
 - Es de color transparente y brillante
+- Con notas de plantas botánicas
+- Ideal para cócteles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0143OWZXI{{</world>}}

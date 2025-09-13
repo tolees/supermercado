@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paleta Masterpiece contiene 8 tonos de sombras de ojos para un look nude glamuroso
+- Fórmula vegana que contiene un complejo potenciador con nutrientes beneficiosos para ti como extracto de bambú, biotina, péptidos y aceite de ricino
 - Fórmula suave y sedosa
+- Paleta Masterpiece contiene 8 tonos de sombras de ojos para un look nude glamuroso
 - Aplicador de doble punta para un difuminado suave y una definición precisa
 - Sombras de ojos modulables con acabados mates, brillantes y resplandecientes
-- Fórmula vegana que contiene un complejo potenciador con nutrientes beneficiosos para ti como extracto de bambú, biotina, péptidos y aceite de ricino
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0988BTL6T{{</world>}}

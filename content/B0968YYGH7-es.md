@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Comida para todas las etapas de la vida
+- Mantener en lugar fresco
 - Producto de forma paté
 - Todas las razas y tamaños
 - Con sabor pollo
-- Mantener en lugar fresco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0968YYGH7{{</world>}}

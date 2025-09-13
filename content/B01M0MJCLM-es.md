@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cereales variados en raciones individuales
+- Conservar en lugar fresco y seco
 - Se pueden llevar a cualquier parte
 - Un producto especial para niños
-- Conservar en lugar fresco y seco
+- Cereales variados en raciones individuales
 - Ideal para el desayuno
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Champú
-- Código de barras: 8432225114743
 - Marca Revlon
-- Deja el cabello con gran sensación de limpieza y frescor, sin grasa, con volumen y muy brillante
+- Código de barras: 8432225114743
+- Champú
 - Capacidad 1000 ml
+- Deja el cabello con gran sensación de limpieza y frescor, sin grasa, con volumen y muy brillante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08MPVVBQJ{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Procedente de agricultura ecológica
 - Largo proceso de levitación para una masa más esponjosa
 - Ideal para elaborar masas de panadería o repostería
-- Procedente de agricultura ecológica
 - Alto contenido en proteínas
 - Puede contener trazas de soja, sésamo y altramuces.
 

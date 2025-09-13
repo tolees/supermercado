@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Esmalte de uñas de acabado gel
-- No se necesita lámpara de luz UV; hasta 14 días de duración
 - Sistema de gel color patentado en dos pasos
-- Se desmaquilla con un quitaesmalte con acetona
 - Aplicar 2 capas de color de Super Gel, seguido de la capa de Super Gel Top Coat para un acabado óptimo
+- No se necesita lámpara de luz UV; hasta 14 días de duración
+- Esmalte de uñas de acabado gel
+- Se desmaquilla con un quitaesmalte con acetona
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0949GYNPH{{</world>}}

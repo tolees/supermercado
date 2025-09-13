@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Formato sostenible: La recarga que reduce un 80 % de plástico, una alternativa ecológica para rellenar tu limpiador multiusos habitual y consumir de forma más responsable
 - Eficacia: Actúa frente a bacterias como E. coli, virus como el Coronavirus o la gripe y hongos causantes de moho de los vegetales. Además, neutraliza alérgenos comunes del hogar
 - Limpieza profunda y segura: Elimina la suciedad y los malos olores, además de desinfectar sin lejía. No mancha ni daña textiles ni superficies delicadas como mármol, acero inoxidable o madera
 - Ideal para el uso diario: Perfecto para mantener la higiene en hogares con bebés, personas enfermas o mascotas
-- Formato sostenible: La recarga que reduce un 80 % de plástico, una alternativa ecológica para rellenar tu limpiador multiusos habitual y consumir de forma más responsable
 - Recarga limpiador desinfectante multiusos: Elimina el 99,9 % de gérmenes. Limpia en profundidad, desinfecta y neutraliza malos olores con un fresco aroma a eucaliptus
 
 [🛒 Comprar!!!]({{< param buyurl >}})

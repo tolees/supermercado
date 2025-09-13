@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sensación ligera, como si no llevaras nada
-- Color impactante
-- Cuida tus labios y los hidrata
 - Fórmula con pigmentos finos y tecnología Flex
+- Color impactante
+- Sensación ligera, como si no llevaras nada
+- Cuida tus labios y los hidrata
 - Contiene escolano, vitaminas A,E y C, y proteínas de seda
 
 [🛒 Aquí!!!]({{< param buyurl >}})

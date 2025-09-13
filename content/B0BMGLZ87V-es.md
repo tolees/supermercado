@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BOCA: suave y sedosa con sensaciones frescas de fruta madura, acompañadas con notas balsámicas y tostados. Un vino muy equilibrado con un final persistente.
-- COLOR: Rojo picota
-- AROMA: Intensos aromas de confitura de fresa y orejones, junto a especiados de pimienta, vainilla y balsámicos.
 - CRIANZA: Crianza de 13 meses en barricas de roble americano
+- BOCA: suave y sedosa con sensaciones frescas de fruta madura, acompañadas con notas balsámicas y tostados. Un vino muy equilibrado con un final persistente.
+- AROMA: Intensos aromas de confitura de fresa y orejones, junto a especiados de pimienta, vainilla y balsámicos.
 - Variedad de uva: 90% tempranillo, 10% graciano
+- COLOR: Rojo picota
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BMGLZ87V{{</world>}}

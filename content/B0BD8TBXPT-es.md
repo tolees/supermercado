@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ♻ -Funciona, indistintamente, con baterías (4 x C-LR14) y a red mediante conector jack 5,5 mm.
-- 🚾 -Indicado para colectividades y W.C. públicos de alta rotación. -Genera ahorro por la dosificación del jabón dispensado.
 - 🌎 [ ¿Quiénes somos? ]: Jofel es una empresa multinacional dedicada a la producción, comercialización y distribución de Sistemas y Equipos de Higiene y Limpieza Profesional, con más de 30 años de presencia en los mercados internacionales y con implantación en más de 80 países de los cinco continentes.
-- 🤲 -Dosificador óptico de jabón en gel con depósito rellenable. -Carcasa en ABS blanca de alta calidad. -Dispensa jabón por presentación de manos “non touch” para una higiene total.
+- 🚾 -Indicado para colectividades y W.C. públicos de alta rotación. -Genera ahorro por la dosificación del jabón dispensado.
+- ♻ -Funciona, indistintamente, con baterías (4 x C-LR14) y a red mediante conector jack 5,5 mm.
 - 📏 -Cerradura con llave y visor de control de carga. -Posibilidad de regular el tiempo de dosificación: 4 rangos -Posibilidad de regular el retardo entre cada dispensación: 4 rangos -Depósito de Polietileno de 1 Litro de capacidad. -Medidas: 254x127x99mm
+- 🤲 -Dosificador óptico de jabón en gel con depósito rellenable. -Carcasa en ABS blanca de alta calidad. -Dispensa jabón por presentación de manos “non touch” para una higiene total.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BD8TBXPT{{</world>}}

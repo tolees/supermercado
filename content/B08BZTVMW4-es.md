@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BOCA: Equilibrado, sabroso, redondo y estructurado. Largo, con taninos muy pulidos y notable persistencia aromática.
-- AROMA: Varietales a frutos negros (mora), matices especiados y de madera de roble bien integrados.
 - Variedad de uva: 100% Tempranillo
+- BOCA: Equilibrado, sabroso, redondo y estructurado. Largo, con taninos muy pulidos y notable persistencia aromática.
 - CRIANZA: Crianza de 13 meses en barrica de roble americano y francés
+- AROMA: Varietales a frutos negros (mora), matices especiados y de madera de roble bien integrados.
 - COLOR: Limpio y brillante, tonalidades rojo picota con ribetes color rubí.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

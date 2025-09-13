@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Género : mujer
 - Número de modelo del producto: 7220456000
 - 275ml
 - Tipo de producto: champú
-- Género : mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KDRAQX6{{</world>}}

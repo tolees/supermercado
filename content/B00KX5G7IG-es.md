@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Su nombre se inspira en el significado de Cardhu en gaélico y su distintivo color ámbar
-- Servir en una copa grande de balón solo o con un poco de agua; servido con hielo, Cardhu Amber Rock también despliega otros sabores afrutados desconocidos
-- Medalla de plata en el International Spirits Challenge 2015
-- Whisky escocés single malt de la región de Speyside
 - Es un whisky de cuerpo, complejo, con de notas de vainilla, cítricos y roble
+- Medalla de plata en el International Spirits Challenge 2015
+- Servir en una copa grande de balón solo o con un poco de agua; servido con hielo, Cardhu Amber Rock también despliega otros sabores afrutados desconocidos
+- Whisky escocés single malt de la región de Speyside
+- Su nombre se inspira en el significado de Cardhu en gaélico y su distintivo color ámbar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00KX5G7IG{{</world>}}

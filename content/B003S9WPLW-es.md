@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 100% aromas naturales
 - Paquete de 8 tabletas de chocolate con leche y cereales crujientes
 - 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
-- 100% aromas naturales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B003S9WPLW{{</world>}}

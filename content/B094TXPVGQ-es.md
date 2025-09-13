@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin perfume y sin alcohol
-- Tipo de piel: Normal
 - Aumenta la firmeza de la piel
 - Corrige tus arrugas
+- Tipo de piel: Normal
+- Sin perfume y sin alcohol
 - Crema con eficacia antiarrugas y firmeza apta para todo tipo de pieles, incluso sensible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

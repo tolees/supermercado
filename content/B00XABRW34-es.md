@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- De textura cremosa en el paladar
+- Whisky escocés mezcla de diferentes whiskys de malta y grano
 - Con aromas de hierbas silvestres, brezo, miel y frutas
 - Se madura durante un mínimo de 12 años
 - Color ámbar radiante y cálido
-- De textura cremosa en el paladar
-- Whisky escocés mezcla de diferentes whiskys de malta y grano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XABRW34{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gran sabor
 - Patatas fritas
 - No contiene gluten
+- Gran sabor
 - Se debe conservar en lugar fresco y seco
 - Envasados en atmósfera protectora
 

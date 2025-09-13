@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 4 packs de JABÓN DE MANOS de 500 ml: incluyen 2 dispensadores y 2 botellas de recambio
-- MIEL Y LECHE: Jabón suave limpiador e hidratante, con miel natural y proteínas de leche.
 - Cómo usarlo: Distribuir en las manos mojadas, enjabonar y aclarar abundantemente
-- DERMATOLÓGICAMENTE PROBADO: Indicado para todo tipo de pieles.
+- MIEL Y LECHE: Jabón suave limpiador e hidratante, con miel natural y proteínas de leche.
 - FÓRMULA DE CUIDADO HUMECTANTE: Protege la piel de la sequedad excesiva, dejando las manos nutridas y suaves.
+- DERMATOLÓGICAMENTE PROBADO: Indicado para todo tipo de pieles.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CS6FFLSS{{</world>}}

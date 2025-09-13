@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Respeta el pH natural de la piel
 - Dermatológicamente probado
 - 80% menos de plástico
 - Producto 100% italiano
+- Respeta el pH natural de la piel
 - Con antibaterico natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

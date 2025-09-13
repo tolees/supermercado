@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La latas son 100% reciclables
 - Servir muy frío o con hielo
+- La latas son 100% reciclables
 - Refresco con gas
 - No contiene azúcar
 - Ideal para comidas, fiestas y grandes o pequeñas celebraciones

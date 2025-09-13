@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Starbucks Blonde Roast suave y dulce
 - Cápsulas de café compatibles con cafeteras Nespresso
 - Disfruta de tus favoritos de Starbucks en casa
-- Cápsulas de café Starbucks de Nespresso, bayas secas con ricas notas de vainilla
 - Café 100 % arábica, una taza de café con un sabor profundo para disfrutar durante todo el día
+- Cápsulas de café Starbucks de Nespresso, bayas secas con ricas notas de vainilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CM6JMZJG{{</world>}}

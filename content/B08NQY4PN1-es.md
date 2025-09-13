@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jugoso y sabroso filete de pechuga 100% de pollo con conserva en aceite y vinagre
-- Mantener en un lugar fresco y seco
 - País de origen: España
-- Sin lactosa
+- Jugoso y sabroso filete de pechuga 100% de pollo con conserva en aceite y vinagre
 - Gluten free
+- Mantener en un lugar fresco y seco
+- Sin lactosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08NQY4PN1{{</world>}}

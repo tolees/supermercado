@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Elimina incluso el maquillaje resistente al agua
+- Formula sin alcohol y perfume
 - Probado oftálmico
 - Purifica la piel en profundidad
-- Formula sin alcohol y perfume
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KWKPX9C{{</world>}}

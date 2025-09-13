@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CAPTAIN PLAY Surtido de Caramelos con Golosinas y Chucherias
-- ideal como Chuches Compleaños, Chuches Piñata, Cesta regalo de Dulces
-- Dulces Party Box de 1 kg, sin chocolate, dulces empaquetados individualmente en una fantástica Party Box, apta para hasta 6 niños
 - con caramelos, gomitas, caramelos y piruletas, caja de fiesta con asa (aprox. 18 x 18 x 14 cm) de plástico, práctica, resellable para una frescura permanente
+- CAPTAIN PLAY Surtido de Caramelos con Golosinas y Chucherias
+- Dulces Party Box de 1 kg, sin chocolate, dulces empaquetados individualmente en una fantástica Party Box, apta para hasta 6 niños
+- ideal como Chuches Compleaños, Chuches Piñata, Cesta regalo de Dulces
 - perfecto como Chuches y Golosinas para Halloween, Relleno de Candy Bar, Cesta Regalo de Navidad y Regalo des Pascua
 
 [🛒 Visítala!!!]({{< param buyurl >}})

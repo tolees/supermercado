@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Información de alérgenos: fish
-- Marca: DON SIMON
-- Producto Listo Para El Consumo
 - Caldo de pescado
 - Elaborado Con Proceso Uht
+- Información de alérgenos: fish
+- Producto Listo Para El Consumo
+- Marca: DON SIMON
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01N64IBTA{{</world>}}

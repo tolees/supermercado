@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en lugar fresco y seco
 - Patatas aceite de palma y sal
+- Conservar en lugar fresco y seco
 - Envasado en atmósfera protectora
 
 [🛒 Comprar!!!]({{< param buyurl >}})

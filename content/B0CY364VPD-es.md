@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Hidratación Profunda: Su fórmula única ayuda a retener la humedad en la piel, proporcionando una hidratación profunda y duradera.
-- Elaborado con Ingredientes Naturales y Sostenibles: Nos enorgullece ofrecer un producto que utiliza ingredientes naturales y sostenibles, cuidando no solo tu piel sino también el medio ambiente.
-- Equilibrio de la Piel: Contribuye al equilibrio natural de la piel, regulando la producción de sebo y dejando la piel con un aspecto más saludable y radiante.
 - Purificación Natural: Nuestra argila cor de rosa es conocida por sus propiedades purificantes naturales, ayudando a eliminar impurezas y toxinas de la piel.
+- Equilibrio de la Piel: Contribuye al equilibrio natural de la piel, regulando la producción de sebo y dejando la piel con un aspecto más saludable y radiante.
+- Elaborado con Ingredientes Naturales y Sostenibles: Nos enorgullece ofrecer un producto que utiliza ingredientes naturales y sostenibles, cuidando no solo tu piel sino también el medio ambiente.
 - Suavidad y Nutrición: Enriquecida con minerales y oligoelementos, esta argila proporciona una suavidad única a la piel, al tiempo que la nutre profundamente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

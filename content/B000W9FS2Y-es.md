@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca: Revlon
 - Género: Mujer
 - Tipo de producto: Pintalabios
+- Marca: Revlon
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000W9FS2Y{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil y rápido de preparar
-- Café molido con notas florales y afrutadas
 - Conservar en lugar fresco y seco
+- Café molido con notas florales y afrutadas
+- Fácil y rápido de preparar
 - Se pueden servir solo o con leche
 - Hecho de granos de café 100% arábica
 

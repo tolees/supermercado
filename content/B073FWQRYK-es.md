@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Color de un lápiz labial
-- Disponible en varios colores
 - Suave como un bálsamo labial
+- Disponible en varios colores
 - Con acabado de alto brillo y ilusión de plenitud
 
 [🛒 Aquí!!!]({{< param buyurl >}})
