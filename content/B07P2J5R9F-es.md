@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No es graso, no mancha y es fácil de eliminar con agua
 - Gel lubricante Control Chocolate íntimo de base acuosa para la sequedad vaginal y genital
 - Botella de 75 ml para un más uso
-- Compatible con el uso del preservativo y con juguetes de silicona
-- Gel lubricante con aroma a Chocolate: la tentación en la que hay que caer; el complemento idóneo para cualquier relación
-- El contacto oral con el lubricante no supone un riesgo
 - El gel lubricante control es hidratante y no tiene ni azúcar ni gluten
+- No es graso, no mancha y es fácil de eliminar con agua
+- El contacto oral con el lubricante no supone un riesgo
+- Gel lubricante con aroma a Chocolate: la tentación en la que hay que caer; el complemento idóneo para cualquier relación
+- Compatible con el uso del preservativo y con juguetes de silicona
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07P2J5R9F{{</world>}}

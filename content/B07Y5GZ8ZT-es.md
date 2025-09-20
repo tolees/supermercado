@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Paquete de 2 x 500 g
 - Disolver 1-2 cucharaditas (18 g) en leche caliente
-- Chocolate blanco a la taza con un delicioso toque de vainilla
 - Disfrútalo en verano mezclado con leche fría y servido con hielo
+- Paquete de 2 x 500 g
+- Chocolate blanco a la taza con un delicioso toque de vainilla
 - Sabor suave y con cuerpo, con regusto a vainilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

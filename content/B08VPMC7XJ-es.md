@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tu nueva forma de consumir atún gracias al nuevo envase Vuelca Fácil
 - Adecuado para toda la familia
 - La combinación óptima, lo mejor del mar y lo mejor de la tierra
 - Se debe conservar en un lugar fresco y seco
-- Tu nueva forma de consumir atún gracias al nuevo envase Vuelca Fácil
 - Atún claro en aceite de oliva virgen extra
 
 [🛒 Visítala!!!]({{< param buyurl >}})

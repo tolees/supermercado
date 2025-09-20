@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El magnesio contribuye al equilibrio electrolítico y a la función psicológica normal, ayuda a disminuir el cansancio y la fatiga además de al mantenimiento de los huesos y músculos en condiciones normales.
-- Modo de Empleo: Tomar 1 comprimido al día, durante la comida y acompañado de un vaso de líquido.
-- No superar la dosis diaria expresamente recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta equilibrada.
 - Dosis Diaria Recomendada: 1 comprimido al día.
+- No superar la dosis diaria expresamente recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta equilibrada.
+- Modo de Empleo: Tomar 1 comprimido al día, durante la comida y acompañado de un vaso de líquido.
+- El magnesio contribuye al equilibrio electrolítico y a la función psicológica normal, ayuda a disminuir el cansancio y la fatiga además de al mantenimiento de los huesos y músculos en condiciones normales.
 - Es importante mantener una dieta equilibrada, variada y un estilo de vida saludable. Mantener fuera del alcance de los niños más pequeños.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

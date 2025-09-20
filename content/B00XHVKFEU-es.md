@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: claro
 - Sabor: floral, notas de enebro, violeta, cáscara de naranja
+- Color: claro
 - Acabado: Larga duración, suave, dulce, seco
 - Perfecto como un regalo
 - Nariz: Fresco, afrutado, notas de cítricos

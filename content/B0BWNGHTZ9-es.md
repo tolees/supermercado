@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 99 Kcal por unidad
 - Cada paquete contiene 6 unidades
+- 99 Kcal por unidad
 - Snack de cereales con chocolate negro, 8 Unidades
 - Cada caja contiene 8 paquetes
 

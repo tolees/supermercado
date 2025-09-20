@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Atún claro en aceite de girasol
+- Tu nueva forma de consumir atún gracias al nuevo envase Vuelca Fácil
 - Adecuado para toda la familia
 - Se debe conservar en un lugar fresco y seco
 - Mantiene todas las vitaminas y minerales del atún
-- Tu nueva forma de consumir atún gracias al nuevo envase Vuelca Fácil
-- Atún claro en aceite de girasol
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09H8DRS3F{{</world>}}

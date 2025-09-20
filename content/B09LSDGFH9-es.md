@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Regalo de alegria, ideal para esa persona que aprecias o para ti mismo.
+- Vino tinto espectacular capaz de maridar hasta solo
 - Puede contener trazas de alegría
 - Aterciopelado
-- Vino tinto espectacular capaz de maridar hasta solo
-- Regalo de alegria, ideal para esa persona que aprecias o para ti mismo.
 - Suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

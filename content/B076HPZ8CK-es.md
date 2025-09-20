@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Un abrazo intenso para los amantes del Gianduja y del Chocolate Negro
 - Elaborado en Italia según la regla del «Buono Buonissimo» (ingredientes naturales, con menos azúcares y sin aditivos artificiales)
 - Sin gluten; Sin colorantes ni conservantes; Sin aceite de palma
-- Un abrazo intenso para los amantes del Gianduja y del Chocolate Negro
 - Cremino de 3 capas: 2 capas de Chocolate Negro 75 % con Avellanas que encierran un corazón de Chocolate 56 % con pasta de Almendras
 - Se presenta en un envoltorio especial que conserva la frescura y en el interior de una elegante caja
 

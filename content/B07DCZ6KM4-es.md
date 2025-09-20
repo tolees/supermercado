@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantiene la piel hidratada y revitalizada, y una intensa sensación de frescor.
-- Descubre el Efecto Hielo combinado con el poder Energizante de la Vitamina C y la Hidratación que aporta el Ácido Hialurónico
 - Para un mayor efecto refrescante, ¡métela en la nevera!
 - Consigue un contorno de ojos visiblemente desfatigado, luminoso y fresco
 - Reduce las bolsas, Anti-Ojeras y Efecto Hielo 4ºC
+- Descubre el Efecto Hielo combinado con el poder Energizante de la Vitamina C y la Hidratación que aporta el Ácido Hialurónico
+- Mantiene la piel hidratada y revitalizada, y una intensa sensación de frescor.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07DCZ6KM4{{</world>}}

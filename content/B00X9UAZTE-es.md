@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Formulado con Aceite de Oliva rico en ácidos grasos y Vitamina E, se usa desde la antigüedad por sus propiedades altamente nutritivas, suavizantes y reparadoras
-- 250 ml
 - El Champú que nutre intensamente sin apelmazar, dejando un pelo intensamente nutrido, ligero y suave
+- 250 ml
+- Formulado con Aceite de Oliva rico en ácidos grasos y Vitamina E, se usa desde la antigüedad por sus propiedades altamente nutritivas, suavizantes y reparadoras
 - Envase 100% reciclable
 - Aplicar sobre cabello mojado, masajear suavemente el cuero cabelludo y después aclarar
 

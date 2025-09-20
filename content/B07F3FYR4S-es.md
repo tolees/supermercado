@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Conservar en lugar fresco y seco
-- Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
 - Caramelos duros Halls con sabor a miel y limón; Con edulcorantes, sin azúcar
-- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
 - Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
+- Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
+- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07F3FYR4S{{</world>}}

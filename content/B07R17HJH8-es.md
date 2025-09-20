@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- PIELES SENSIBLES Y ATÓPICAS: fotoprotección avanzada hipoalergénica, testado en pieles atópicas y sensibles, testada bajo control pediátrico y dermatológico
+- RESISTENTE AL AGUA: crema solar corporal para niños, con fórmula ultraligera, fácil de extender y de absorción inmediata, resistente al agua.
 - PROTECCIÓN 360°: con Fernblock(R) filtros específicos y activos reparadores y antioxidantes, protege frente a las 4 radiaciones, neutraliza y repara el daño solar
 - APLICACIÓN SENCILLA: loción solar en un cómodo formato de spray con pistola, para facilitar la aplicación en la piel de los niños
-- RESISTENTE AL AGUA: crema solar corporal para niños, con fórmula ultraligera, fácil de extender y de absorción inmediata, resistente al agua.
-- PIELES SENSIBLES Y ATÓPICAS: fotoprotección avanzada hipoalergénica, testado en pieles atópicas y sensibles, testada bajo control pediátrico y dermatológico
 - HIDRATANTE: protección solar con arginina y glicerina, que contribuyen a la hidratación y al buen estado de la función barrera de la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Irresistible mix de sabores
 - Surtido de golosinas
 - Delicioso mix de diferentes piezas
-- Irresistible mix de sabores
 - Contiene ositos de oro, fresón, colas, berries y corazones
 - ‎Almacenar en un sitio seco y oscuro
 

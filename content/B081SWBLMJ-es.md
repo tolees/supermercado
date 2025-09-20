@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pigmentos raven que ayudan a intensifican el brillo natural de tus ojos
 - Fórmula con Provitamina B5 hidratenate
+- Máscara de pestañas que aporta mayor vulumen, mayor grosor, mayor longitud y mayor definición
 - Recupera el impacto de tus pestañas, efecto mirada negra intensa
 - Ojos más intensos y brillantes, pestañas negras impactantes
-- Máscara de pestañas que aporta mayor vulumen, mayor grosor, mayor longitud y mayor definición
+- Pigmentos raven que ayudan a intensifican el brillo natural de tus ojos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081SWBLMJ{{</world>}}

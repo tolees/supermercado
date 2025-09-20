@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Sin leche
 - Elaborado con ingredientes procedentes de agricultura ecológica
+- Rellenas de crema de cacao
 - Contiene huevo. Puede contener trazas de cacahuetes, soja y otros frutos de cáscara.
 - Certificado gluten free, apto para dietas celiacas
-- Rellenas de crema de cacao
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01MYA2AUN{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mantener en lugar fresco y seco
 - Sin cafeína
-- Sin azúcares añadidos, aditivos ni tratamientos químicos
 - Cacao dergasado 100% natural
+- Sin azúcares añadidos, aditivos ni tratamientos químicos
+- Mantener en lugar fresco y seco
 - Sin leche
 
 [🛒 Aquí!!!]({{< param buyurl >}})

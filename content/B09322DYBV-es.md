@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fragancia floral para mujer
-- Pulverizar sobre la ropa o sobre la piel
 - Diseño de la botella elegante
+- Pulverizar sobre la ropa o sobre la piel
+- Fragancia floral para mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09322DYBV{{</world>}}

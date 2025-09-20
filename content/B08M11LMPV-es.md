@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pasta de moldear super ligera, elástica, maleable y sin gluten
-- Maxi caja de juego con pasta de modelar- OCEAN.
 - Colores brillantes y mezclables entre ellos
 - Se seca al aire. No necesita cocción y no ensucia las manos
+- Maxi caja de juego con pasta de modelar- OCEAN.
 - Una vez seca se puede colorear para hacer detalles. Reutilizable si se mezcla con agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

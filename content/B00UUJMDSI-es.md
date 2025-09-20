@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consumir frío (entra 6°- 8°C). Si es necesario, enfriar durante un par de horas en una cubitera con agua. sal y hielo. Evitar enfriamientos bruscos en el congelador. Se puede almacenar verticalmente
 - Varietales: Chardonnay 100 percent
-- Nota de cata (vista): Color amarillo pálido con reflejos dorados, limpio y brillante. De burbuja fina de rosarios continuos y una corona persistente en el tiempo
+- Consumir frío (entra 6°- 8°C). Si es necesario, enfriar durante un par de horas en una cubitera con agua. sal y hielo. Evitar enfriamientos bruscos en el congelador. Se puede almacenar verticalmente
 - Nota de cata (boca): Amplio, complejo, equilibrado y cremoso
+- Nota de cata (vista): Color amarillo pálido con reflejos dorados, limpio y brillante. De burbuja fina de rosarios continuos y una corona persistente en el tiempo
 - Nota de cata (nariz): Aparecen suaves notas de tostado, entremezcladas con frutas de primavera: melocotones y cerezas, sobre un fondo de brioche y frutos secos procedentes de la crianza sobre lías. Muy complejo, con notas elegantes y una amplitud aromática que mejora con el tiempo en copa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

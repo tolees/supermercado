@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Zona de captura: fao 27
 - Dunekacke & wilms nachf; gmbh & co; kg, 22041 hamburgo
-- Albo desde 1869 – sardinas en salsa picante
 - Método de captura: cintura
 - Fabricado en españa
-- Zona de captura: fao 27
+- Albo desde 1869 – sardinas en salsa picante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAAW6FE{{</world>}}

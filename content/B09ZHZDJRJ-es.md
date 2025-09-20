@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Limpiador para biberones, tetinas o vajilla infantil sin colorantes, residuos ni perfume
 - Limpia cualquier resto de leche o cualquier otro líquido con facilidad
 - Bomba dosificadora para aplicar cómodamente
+- Limpiador para biberones, tetinas o vajilla infantil sin colorantes, residuos ni perfume
 - Dermatológicamente testado
 - No contiene alérgenos
 

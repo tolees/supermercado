@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ingredientes: Glycerin
-- Tipo de piel: Sensible; Atopico
 - Tipo de producto: Leche corporal
+- Tipo de piel: Sensible; Atopico
+- Ingredientes: Glycerin
 - Género: Unisex Adulto
 - Marca: Instituto Español
 

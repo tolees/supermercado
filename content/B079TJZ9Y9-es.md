@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disponible en 11 tonos luminosos que se adaptan a todos los tonos de piel, ofreciendo acabados desde mate hasta satinado.
-- Diseño práctico con pincel y espejo incorporados, perfecto para llevar a cualquier parte.
 - Se funde en la piel de manera suave y natural, gracias a su exclusiva tecnología de horneado.
 - Proporciona un color duradero que se mantiene impecable durante 24 horas.
+- Disponible en 11 tonos luminosos que se adaptan a todos los tonos de piel, ofreciendo acabados desde mate hasta satinado.
+- Diseño práctico con pincel y espejo incorporados, perfecto para llevar a cualquier parte.
 - Enriquecido con extracto de rosa y pétalos calmantes, cuidando y nutriendo la piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

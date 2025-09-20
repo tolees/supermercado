@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Para piel normal o seca
 - Aplicar el producto durante la ducha y por todo el cuerpo
 - Tiene un efecto hidratante
-- Con protección total contra agentes externos
 - Gel de ducha nutritivo e hidratante
+- Con protección total contra agentes externos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYDWFYHV{{</world>}}

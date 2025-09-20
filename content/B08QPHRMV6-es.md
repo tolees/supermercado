@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paladar suave y aterciopelado, persistente; ligeramente abocado
-- De intensidad aromática media, con notas de buen destilado y enriquecido por finas notas de frutos secos e higos; elegante matiz de madera de roble con notas de vainilla y bombón
 - Graduación alcohólica: 30%Vol
 - Color ámbar con ribetes ligeramente rojizos; brillante, transparente; luminoso
+- De intensidad aromática media, con notas de buen destilado y enriquecido por finas notas de frutos secos e higos; elegante matiz de madera de roble con notas de vainilla y bombón
+- Paladar suave y aterciopelado, persistente; ligeramente abocado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QPHRMV6{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Deliciosas piezas en forma de lengua recubierto de pica
-- Geles dulces
-- Apto para veganos
 - Gran sabor
+- Apto para veganos
 - Irresistible sabor a fresa
+- Geles dulces
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XABDJL8{{</world>}}

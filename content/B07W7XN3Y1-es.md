@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- SOPORTE PARA NERVIOS Y MÚSCULOS: Electrolitos como el potasio, magnesio y calcio contribuyen a la función muscular normal. El potasio y el magnesio también son importantes para una función normal del sistema nervioso.
+- SIS SCIENCE IN SPORT: Science in Sport es pionero en la nutrición deportiva. Desde 1992 colaboramos con institutos de investigación, atletas de élite y científicos deportivos.
 - HIDRATACIÓN ÓPTIMA PARA UN RENDIMIENTO SUPERIOR: Tabletas de electrolitos con sodio para estimular la hidratación y mantener un equilibrio hídrico que prepara el cuerpo para el entrenamiento.
 - COMPLEJO DE INGREDIENTES VALIOSOS: Nuestras tabletas de electrolitos equilibran los electrolitos con minerales y vitaminas, ideales para quien practica deporte moderado o intensivo.
-- SIS SCIENCE IN SPORT: Science in Sport es pionero en la nutrición deportiva. Desde 1992 colaboramos con institutos de investigación, atletas de élite y científicos deportivos.
-- SOPORTE PARA NERVIOS Y MÚSCULOS: Electrolitos como el potasio, magnesio y calcio contribuyen a la función muscular normal. El potasio y el magnesio también son importantes para una función normal del sistema nervioso.
 - VEGANO Y SIN GLUTEN: Las tabletas deportivas de electrolitos, disponibles en 3 sabores, están hechas con ingredientes de alta calidad, son veganas y sin gluten. También están libres de transgénicos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

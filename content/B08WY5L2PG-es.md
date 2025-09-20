@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Clásica, sofisticada a la vez que adictiva fragancia, Axe Apollo se caracteriza por notas frescas de frutas verdes, sándalo y salvia para que huelas muy rico.
-- ¡Prueba toda la gama Axe!
 - Fórmula sin aluminio
 - Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
 - Con Tecnología Dual Action: Elimina el mal olor, fragancias irresistibles.
+- Clásica, sofisticada a la vez que adictiva fragancia, Axe Apollo se caracteriza por notas frescas de frutas verdes, sándalo y salvia para que huelas muy rico.
+- ¡Prueba toda la gama Axe!
 - Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
 
 [🛒 Visítala!!!]({{< param buyurl >}})

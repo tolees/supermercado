@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empaque puede variar
-- 5,6% de alcohol en volumen
-- De color rubio brillante y espuma blanca; destaca por su suave amargor, el dulce anisado de la malta y por su aroma frutal a manzana
 - Cerveza tipo Laguer Especial
-- Ingredientes Naturales: Agua, malta de cebada, maiz, levadura, lúpulo y extracto de lúpulo
+- Empaque puede variar
+- De color rubio brillante y espuma blanca; destaca por su suave amargor, el dulce anisado de la malta y por su aroma frutal a manzana
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
+- Ingredientes Naturales: Agua, malta de cebada, maiz, levadura, lúpulo y extracto de lúpulo
+- 5,6% de alcohol en volumen
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B085JD63CQ{{</world>}}

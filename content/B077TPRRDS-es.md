@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aporta una energía similar a la de la leche materna, ofreciendo la ingesta adecuada de de calcio y vitamina D y suficiente cinc, yodo, folato y vitamina E, para el correcto desarrollo del niño
-- El periodo crítico del desarrollo cerebral de un niño tiene lugar entre el último trimestre del embarazo y los 2 ó 3 años de edad
 - Junto con otros elementos nutricionales que, si bien no se consideran esenciales para el crecimiento, aportan un beneficio para la salud del niño como son la Colina, la Taurina o la L-carnitina
-- Tanto el Omega 3 DHA como el Hierro juegan un papel clave en este proceso de maduración del cerebro y de la retina del niño
 - Puleva Peques 2 es la leche de continuación líquida para bebé ya que aporta Omega 3 DHA + Hierro, que son nutrientes esenciales para el desarrollo físico, visual e intelectual del niño en esta etapa
+- Aporta una energía similar a la de la leche materna, ofreciendo la ingesta adecuada de de calcio y vitamina D y suficiente cinc, yodo, folato y vitamina E, para el correcto desarrollo del niño
+- Tanto el Omega 3 DHA como el Hierro juegan un papel clave en este proceso de maduración del cerebro y de la retina del niño
+- El periodo crítico del desarrollo cerebral de un niño tiene lugar entre el último trimestre del embarazo y los 2 ó 3 años de edad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B077TPRRDS{{</world>}}

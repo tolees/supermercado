@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - FPS 50: Ofrece alta protección UVA y UVB. Protege contra el envejecimiento cutáneo inducido por el sol.
-- Fragancia tropical ligera y delicada.
-- DERMATOLÓGICAMENTE PROBADO: Expónte al sol con total seguridad gracias a esta fórmula robusta y protectora.
-- DEJA UNA PIEL LUMINOSA: Gracias a ingredientes como la manteca de karité y la vitamina E.
 - ÉTICA: Vegano, no testado en animales.
+- DEJA UNA PIEL LUMINOSA: Gracias a ingredientes como la manteca de karité y la vitamina E.
+- DERMATOLÓGICAMENTE PROBADO: Expónte al sol con total seguridad gracias a esta fórmula robusta y protectora.
+- Fragancia tropical ligera y delicada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F1YX29R4{{</world>}}

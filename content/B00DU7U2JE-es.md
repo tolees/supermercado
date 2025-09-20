@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Saludable y nutritivo
+- Alto en proteínas y bajo en grasas y calorías
 - Consumir el contenido del envase en el momento de abrirlo
 - Sólo ingredientes naturales
 - ‎Conservar en un entorno seco y al abrigo de temperaturas extremas
-- Saludable y nutritivo
-- Alto en proteínas y bajo en grasas y calorías
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00DU7U2JE{{</world>}}

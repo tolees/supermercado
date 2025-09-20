@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Crianza, D.O.Ca. Rioja
+- Maridaje: Armoniza perfectamente con platos suaves como arroces, quesos, patés, guisos, verduras, pescados… además de los platos típicos que maridan tradicionalmente con los vinos tintos de crianza.
+- Nota de cata (boca): Suave, equilibrado y fresco. Con buena estructura y taninos suaves.
 - Varietales: Tempranillo 100%
 - Nota de cata (vista): Color rojo picota con destellos violáceos.
-- Nota de cata (boca): Suave, equilibrado y fresco. Con buena estructura y taninos suaves.
-- Maridaje: Armoniza perfectamente con platos suaves como arroces, quesos, patés, guisos, verduras, pescados… además de los platos típicos que maridan tradicionalmente con los vinos tintos de crianza.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01LQG4XYU{{</world>}}

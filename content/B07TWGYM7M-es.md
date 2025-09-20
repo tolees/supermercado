@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Jabón líquido con 24 horas de hidratación​
 - Tecnología humectante Micro-moisture​
 - Protege la piel frente a la sequedad​
-- Jabón líquido con 24 horas de hidratación​
 - Dove Gel de Ducha Clean Comfort care para hombres
 - Botella hecha de plástico 100% reciclado​
 - Gel de baño Dermatológicamente testado​

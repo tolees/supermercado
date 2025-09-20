@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rexona te impulsa para que disfrutes del movimiento y que nada te detenga
-- Elaborado con tecnología motionsense que se activa con el movimiento
-- Desodorante antitranspirante que ofrece la mayor protección por hasta 48 horas
-- Rexona Men Desodorante Antitranspirante Cobalt Dry Duplo 2x200ml
-- Desodorante Antitranspirante de secado rápido
 - Desodorante elaborado con 0% alcohol
+- Desodorante antitranspirante que ofrece la mayor protección por hasta 48 horas
+- Elaborado con tecnología motionsense que se activa con el movimiento
+- Desodorante Antitranspirante de secado rápido
+- Rexona Men Desodorante Antitranspirante Cobalt Dry Duplo 2x200ml
+- Rexona te impulsa para que disfrutes del movimiento y que nada te detenga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07RT5FG69{{</world>}}

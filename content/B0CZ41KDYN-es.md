@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología motionsense que se activa con el movimiento y te protege contra el sudor y el mal olor
-- Protección antitranspirante durante 48 horas con tecnología antimanchas
-- El envase del aerosol es más sostenible que reduce un 40% el plástico, un 33% el aluminio y un 33% el co2 equivalente
 - Desodorante invisible con tecnología antimanchas
+- Protección antitranspirante durante 48 horas con tecnología antimanchas
+- Tecnología motionsense que se activa con el movimiento y te protege contra el sudor y el mal olor
+- El envase del aerosol es más sostenible que reduce un 40% el plástico, un 33% el aluminio y un 33% el co2 equivalente
 - Desodorante aerosol protección original 48h Rexona invisible black & white antitranspirante para mujer 200ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

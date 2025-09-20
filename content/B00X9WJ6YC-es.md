@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Combínala con el Aceite Universal para unos resultados más visibles y una melena más cuidada
-- Aplicar en el cabello de medios a puntas, incidiendo en las puntas; dejar actuar durante 2-3 minutos y después aclarar
 - Fórmula enriquecida con aceite de jojoba, que aporta una nutrición intensa y un cuidado máximo a los cabellos secos, para una suavidad y un brillo óptimo
 - Mascarilla nutritiva que infunde un cuidado prodigioso para una nutrición profunda, sin apelmazar el cabello
+- Aplicar en el cabello de medios a puntas, incidiendo en las puntas; dejar actuar durante 2-3 minutos y después aclarar
+- Combínala con el Aceite Universal para unos resultados más visibles y una melena más cuidada
 - Nutre intensamente la fibra, revitalizando el cabello y aportando una suavidad infinita, que facilita el desenredado y evita el encrespamiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

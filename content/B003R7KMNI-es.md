@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tiene una fórmula resistente al agua, sudor e arena
-- Loción solar hidratante de 200 ml
 - Con factor de protección solar 50+
+- Loción solar hidratante de 200 ml
 - Ayuda a reducir el riesgo de reacciones alérgicas al sol
 
 [🛒 Visítala!!!]({{< param buyurl >}})

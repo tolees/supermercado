@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- INTENSIDAD: La intensidad 7 y el tueste oscuro brindan un color oscuro a este café, para un espresso con una crema ámbar
+- NOTAS AROMÁTICAS: Crema e Gusto Classico es caracterizado por notas aromáticas especiadas, para un café armonioso y cremoso con un sabor redondo y envolviente
 - VARIEDAD: Esta selección de café Lavazza está elaborada con café Arábica y Robusta procedente principalmente de Suramérica y del sudeste asiático
+- INTENSIDAD: La intensidad 7 y el tueste oscuro brindan un color oscuro a este café, para un espresso con una crema ámbar
+- CREMA E GUSTO CLASSICO: Un blend Lavazza suave y envolvente. Este café en grano natural es ideal máquina de café espresso, para cualquier hora del día
 - LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
 - El término italiano “torrefatto” que aparece en el envase original significa “tostado” y no se refiere de ninguna manera a una variedad de café torrefacto
-- NOTAS AROMÁTICAS: Crema e Gusto Classico es caracterizado por notas aromáticas especiadas, para un café armonioso y cremoso con un sabor redondo y envolviente
-- CREMA E GUSTO CLASSICO: Un blend Lavazza suave y envolvente. Este café en grano natural es ideal máquina de café espresso, para cualquier hora del día
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B092DB8RFH{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- With an adjustable timer function for even easier handling.
+- With conical grinder so that the grains are ground quickly, gently and evenly.
 - Borosilicate glass collection container is antistatic so that the fine coffee powder does not inadvertently disseminate.
 - 12 grinding settings: fine (for espresso) to coarse beans (ideal for French press).
-- With conical grinder so that the grains are ground quickly, gently and evenly.
 - This small space-saving device also allows larger quantities to be ground with its capacity of 220 grams.
-- With an adjustable timer function for even easier handling.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PM2H5QZ{{</world>}}

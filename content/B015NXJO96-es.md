@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Que tu mascota crezca sana y fuerte nunca había sido tan fácil
 - Los mejores productos para tu mascota
+- Que tu mascota crezca sana y fuerte nunca había sido tan fácil
 - Pro plan vet feline dm 5kg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

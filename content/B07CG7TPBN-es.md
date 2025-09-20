@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño elegante, producto útil y práctico
-- Jabon natural
 - Producto de calidad óptima
-- Rosa Mosqueta
+- Jabon natural
+- Diseño elegante, producto útil y práctico
 - Cuida tu salud de la mano
+- Rosa Mosqueta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CG7TPBN{{</world>}}

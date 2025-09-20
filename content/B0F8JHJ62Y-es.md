@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Este Sérum Nutritivo Multiusos nutre el pelo sin apelmazarlo.
+- Aceite Extraordinario Serum Nutritivo Multiusos con Aceite de Camellia y Marula para pelo seco.
 - Cabello nutrido, hidratado. x6 más de brillo* *Test instrumental rutina champú + aceite
 - Aplica 3-4 presiones de largos a puntas, en el pelo seco/húmedo. 1/ Antes del lavado, para una nutrición intensa sin apelmazar. 2/Después del lavado, mezclar con el acondicionador para +92% nutrición y 58% suavidad**. 3/ Antes del peinado, para una protección frente al calor de 230º. 4/ Como toque final. En caso de contacto con los ojos, lávese inmediata y abundantemente con agua. **Test instrumental con el uso del champú + mix acondicionador y aceite
 - Enriquecido con aceite de Camellia & Marula. x6 más brillo*.Test instrumental rutina champú + aceite.
-- Aceite Extraordinario Serum Nutritivo Multiusos con Aceite de Camellia y Marula para pelo seco.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F8JHJ62Y{{</world>}}

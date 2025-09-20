@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las chuches de toda la vida
-- Dulces de regaliz
 - Intenso sabor a regaliz negro
-- Disfruta en casa de la alegría y diversión en cualquier momento
 - Conservar en lugar fresco y seco
+- Las chuches de toda la vida
+- Disfruta en casa de la alegría y diversión en cualquier momento
+- Dulces de regaliz
 - ¡Ahora más grandes!
 - Deliciosas piezas largas en forma de stick
 

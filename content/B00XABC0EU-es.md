@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- En su fórmula secreta, se utiliza una base de vino blanco y más de 80 hierbas y plantas aromáticas
+- Se elabora siguiendo un proceso de producción artesanal, donde se cuidan todos los detalles, desde la selección de ingredientes hasta el embotellado
 - Yzaguirre Rosé es un aperitivo ligero, sofisticado y refrescante
 - De color rojo cereza, con brillos plateados, ofrece aromas a hierbas y caramelo, con un toque de menta
-- Se elabora siguiendo un proceso de producción artesanal, donde se cuidan todos los detalles, desde la selección de ingredientes hasta el embotellado
-- En su fórmula secreta, se utiliza una base de vino blanco y más de 80 hierbas y plantas aromáticas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XABC0EU{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Indicado para todo tipo de cabello
 - Propiedades hidratantes
-- Mantiene el pelo fuerte y sano gracias a la Biotina
-- Champú de Coco/Biotina
 - Aporta brillo y suavidad sin dejar el pelo graso
+- Champú de Coco/Biotina
+- Mantiene el pelo fuerte y sano gracias a la Biotina
+- Indicado para todo tipo de cabello
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0977QHXBB{{</world>}}

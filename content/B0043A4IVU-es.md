@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Berry Bross & Rudd: La empresa inglesa de gestión familiar comenzó siendo una comercializadora de vinos y licores y ha terminado siendo la creadora de una de las grandes ginebras de nuestra época.
 - La presentación de esta ginebra resalta, es por su cuidada y elegante presentación y la clásica botella con una réplica de una llave antigua incrustada en su frente.
-- Cata: Ginebra brillante, nítida y fresca, con un protagonismo marcado del enebro apoyado de la presencia de increíbles notas florales y el cálido y aromático cardamomo. Con abundante y enérgico cítrico y completado con el fresco picante del cilantro, finalizada con la vigorosa sequedad de la angélica.
 - La Ginebra Nº3 ha sido ganadora del concurso Best Spirits Award.
 - La ginebra Nº3 es una London Dry Gin seca, cítrica y compleja que cuenta con 6 botánicos en su elaboración con corte clásico y rotundo.
-- Berry Bross & Rudd: La empresa inglesa de gestión familiar comenzó siendo una comercializadora de vinos y licores y ha terminado siendo la creadora de una de las grandes ginebras de nuestra época.
+- Cata: Ginebra brillante, nítida y fresca, con un protagonismo marcado del enebro apoyado de la presencia de increíbles notas florales y el cálido y aromático cardamomo. Con abundante y enérgico cítrico y completado con el fresco picante del cilantro, finalizada con la vigorosa sequedad de la angélica.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0043A4IVU{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El champú Serioxyl Advanced ha sido formulado específicamente para cabello debilitado. Este gel ligero purifica suavemente y ayuda a proporcionar una sensación de densidad. El cabello adquiere volumen y brillo.
 - Enriquecido con Magnesio*, aporta textura a la fibra capilar. El cabello adquiere volumen y brillo *Sal de magnesio.
+- El champú Serioxyl Advanced ha sido formulado específicamente para cabello debilitado. Este gel ligero purifica suavemente y ayuda a proporcionar una sensación de densidad. El cabello adquiere volumen y brillo.
 - Aplicar uniformemente sobre el cuero cabelludo y el cabello húmedos. Emulsionar suavemente con las yemas de los dedos hasta que se forme una espuma ligera. Aclarar bien. En caso de contacto con los ojos, lávense inmediata y abundantemente con agua.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

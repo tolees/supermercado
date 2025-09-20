@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para el desayuno o una pausa durante el día
 - Se puede servir solo o con leche
-- Fácil y rápido de preparar
-- Conservar en lugar fresco y seco
 - Café molido con un sabor intenso
+- Conservar en lugar fresco y seco
+- Ideal para el desayuno o una pausa durante el día
+- Fácil y rápido de preparar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09FQ5G1XW{{</world>}}

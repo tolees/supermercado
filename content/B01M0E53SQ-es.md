@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se recomienda su consumo durante el año posterior a la cosecha Servir entre 8 y 10ºC
-- Varietales: Chardonnay, Xarel·lo, Moscato
 - Nota de cata (nariz): Aroma intenso que combina fruta amarilla y blanca (manzana, pera, piña y cítricos) con un sutil perfume floral
 - Nota de cata (vista): Color amarillo limón con reflejos verdosos intensos Muy brillante y nítido
+- Se recomienda su consumo durante el año posterior a la cosecha Servir entre 8 y 10ºC
 - Nota de cata (boca): Entrada en boca amplia, fresca y frutal (cítricos y fruta blanca) con gran intensidad Larga persistencia con una agradable nota final floral
+- Varietales: Chardonnay, Xarel·lo, Moscato
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01M0E53SQ{{</world>}}

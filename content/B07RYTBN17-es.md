@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Verdejo D.O. Rueda
 - MARIDAJE: pescado, marisco fresco y ensaladas templadas.
 - 👃🏻 En nariz es potente y fresco, con aromas a plátano y melocotón, así como heno fresco.
-- 👁 Amarillo pajizo con reflejos verdosos, brillante.
-- Verdejo D.O. Rueda
 - 👄 En boca es redondo y persistente, con notas de fruta de hueso.
+- 👁 Amarillo pajizo con reflejos verdosos, brillante.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RYTBN17{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aceite en spray – El ligero spray de aceite hidratante, formulado con aceite de coco y extracto de bambú, hidrata el pelo seco y lo deja suave y manejable con cada uso
-- Champú OGX– Apto para diferentes tipos y texturas de cabello, este champú reparador hidrata, fortalece y nutre el pelo seco y dañado, resaltando su fuerza natural
-- Sin ingredientes nocivos – Los productos de esta rutina de OGX no contienen parabenos, sulfatos, microperlas de plástico o ftalatos. Una experiencia sensorial sin ingredientes nocivos
 - Acondicionador hidratante – La fórmula nutritiva de este acondicionador con aceite y leche de coco y proteínas de claro de huevo agrega brillo y suavidad al cabello
+- Sin ingredientes nocivos – Los productos de esta rutina de OGX no contienen parabenos, sulfatos, microperlas de plástico o ftalatos. Una experiencia sensorial sin ingredientes nocivos
+- Aceite en spray – El ligero spray de aceite hidratante, formulado con aceite de coco y extracto de bambú, hidrata el pelo seco y lo deja suave y manejable con cada uso
 - Productos para el cabello seco – Este set de OGX con champú, mascarilla y aceite formulados con leche de coco devolverá la elasticidad a tu pelo, dejándolo hidratado
+- Champú OGX– Apto para diferentes tipos y texturas de cabello, este champú reparador hidrata, fortalece y nutre el pelo seco y dañado, resaltando su fuerza natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BFFLSW8N{{</world>}}

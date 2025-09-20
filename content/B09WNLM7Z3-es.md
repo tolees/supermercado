@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hidrata y broncea la piel de manera natural
 - Enriquecida con aceite albaricoque nutritivo, te aporta en 1H un bronceado dorado y uniforme sin marcas que dura hasta una semana
-- Marca: Garnier
+- Hidrata y broncea la piel de manera natural
 - La bruma autobronceadora proporciona una capa ultra fina para una cobertura optima y uniforme
+- Marca: Garnier
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09WNLM7Z3{{</world>}}

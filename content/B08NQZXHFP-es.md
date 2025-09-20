@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Gluten free
 - Sin lactosa
+- Especialidad: Bajo en carbohidratos; ingredientes: Ingredientes: Pechuga de pollo (90% 2), aceite de girasol (9% 1), aceite de oliva y sal; instrucciones para su uso adecuado: Una vez abierto, tapar y consumir preferentemente antes de 3 dias
 - Mantener en un lugar fresco y seco
 - País de origen: españa
-- Especialidad: Bajo en carbohidratos; ingredientes: Ingredientes: Pechuga de pollo (90% 2), aceite de girasol (9% 1), aceite de oliva y sal; instrucciones para su uso adecuado: Una vez abierto, tapar y consumir preferentemente antes de 3 dias
 - Jugoso y sabroso filete de pechuga 100% de pollo en conserva con aceite de girasol; se vende por caja completa de 12 uds
-- Gluten free
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08NQZXHFP{{</world>}}

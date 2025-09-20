@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Varietales: Cabernet Sauvignon, Tempranillo, Merlot y Syrah
-- La sensación en boca es sedosa, con un largo y elegante final
-- Aromas intensos a frutas rojas y negras, con predominio de cerezas, ciruelas y arándanos acompañados de notas especiadas, anisadas, chocolate y torrefactos
 - Color rojo picota brillante e intenso, con reflejos púrpura
+- Aromas intensos a frutas rojas y negras, con predominio de cerezas, ciruelas y arándanos acompañados de notas especiadas, anisadas, chocolate y torrefactos
 - Se encuentra en un momento óptimo de consumo, pero se desarrollará favorablemente en botella los próximos tres o cuatro años
+- La sensación en boca es sedosa, con un largo y elegante final
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008AFUZZW{{</world>}}

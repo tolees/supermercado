@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color: claro
 - Producto de calidad
 - Se puede servir para cualquier ocasión
+- Color: claro
 - Adecuado como regalo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

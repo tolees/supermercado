@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de la colección Revlon Eksperience
-- Sistema de cuidado que protege el pelo
 - Cantidad por paquete: 1 pieza
 - Producto para el cuidado personal
 - Para cabello seco y cabello dañado
+- Sistema de cuidado que protege el pelo
+- Producto de la colección Revlon Eksperience
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NNT6W2G{{</world>}}

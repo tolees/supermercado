@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Contien flúor
+- Elimina la placa bacteriana
 - Con un aroma fresco
 - Apto para uso diario
-- Elimina la placa bacteriana
-- Contien flúor
 - Deja un alineto fresco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

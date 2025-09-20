@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Crema corporal de marca Lactovit
-- Contenido 500 ml
 - Leche corporal reafirmante con cafeína pura que actúa sobre la piel donde más lo necesita, dándole un aspecto más firme, luminoso y saludable desde su primera aplicación
 - Cuidado de la piel de todo el cuerpo
+- Contenido 500 ml
+- Crema corporal de marca Lactovit
 - Producto pensado para uso unisex
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes naturales: Agua, malta de cebada, maíz, levadura y lúpulo
-- Cerveza Lager Especial sin filtrar y sin alcohol
 - Conservar en un lugar limpio, seco y bien ventilado entre 5° y 15°C
 - Cerveza sin filtrar según el método tradicional que conserva toda la levadura; gran cuerpo, sabor a malta caramelo y de amargor suave
 - Para consumirla (2° y 4°C) Girar la Lata (no agitar) para despertar la levadura en suspensión
+- Ingredientes naturales: Agua, malta de cebada, maíz, levadura y lúpulo
+- Cerveza Lager Especial sin filtrar y sin alcohol
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D31B8X4L{{</world>}}

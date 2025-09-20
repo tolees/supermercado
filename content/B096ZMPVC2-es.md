@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fuente de ácidos grasos omega 3, bajo contenido en sal
-- Deliciosos trozos de atún en aceite de girasol, para servir en ensaladas, en una crujiente baguette o con una patata asada.
-- Sírvelos con patatas al horno sazonadas con hierbas y una ensalada verde.
 - Envase hermético fácil de almacenar y apilable.
 - Versátiles y fáciles de utilizar.
+- Deliciosos trozos de atún en aceite de girasol, para servir en ensaladas, en una crujiente baguette o con una patata asada.
+- Sírvelos con patatas al horno sazonadas con hierbas y una ensalada verde.
+- Fuente de ácidos grasos omega 3, bajo contenido en sal
 - Alto contenido en proteínas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

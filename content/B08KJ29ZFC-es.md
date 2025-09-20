@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Las 10 galletas circulares Milka Choco Wafer de triple crujiente barquillo con doble capa de fina crema de cacao y cubierto de chocolate con leche de los Alpes, son ideales para un dulce tentempié, perfectas para servir solas o con leche, o para acompañar al café o té.
 - Milka es un producto tradicional. Por ello, desde hace más de 100 años utilizamos exclusivamente leche de la región de los Alpes para nuestro chocolate. Comprobamos cada litro de leche que recibimos de nuestros proveedores para aseguramos de que proviene al 100% de los valles y altos valles de los Alpes y la región subalpina.
-- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
 - El pack familiar en formato grande de las galletas barquillo Milka rellenas de delicioso de cacao y cubierto de tierno chocolate con leche de los Alpes, son excelentes para disfrutar y compartir con familia y amigos, en desayunos, postres, para picar como snack o en meriendas escolares para los niños.
 - Con una sabrosa combinación de galleta de barquillo de textura crocante, el intenso sabor de cacao de las finas capas y el recubrimiento de chocolate con leche Milka más suave, hacen de estas galletas el descanso más tierno y dulce del día.
+- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KJ29ZFC{{</world>}}

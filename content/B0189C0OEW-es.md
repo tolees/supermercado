@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en un lugar fresco y seco
-- En formato pelotazos
 - Listo para servir
-- Sin gluten
 - Ideal para toda la familia
+- Conservar en un lugar fresco y seco
+- Sin gluten
+- En formato pelotazos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0189C0OEW{{</world>}}

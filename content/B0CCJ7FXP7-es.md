@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- // VINO BLANCO: QUITADRAMAS Verdejo Ecológico 2022. Vino elaborado con un 85% “Verdejo” y un 15% Sauvignon. Uvas cultivadas bajo agricultura orgánica 100% certificada. Color amarillo pajizo con reflejos verdosos. Limpio y brillante. Aromas concentrados varietales y minerales, con notas de laurel e hinojo.
-- // NOSOTROS: Nuestra dehesa se encuentra afincado en Bobadilla del Campo. Toda la comarca de Guijuelo cuenta con unas condiciones especiales que la convierten en el enclave más adecuado para la industria jamonera. Su situación, la altura, los vientos y el clima favorecen tanto la cría del cerdo como la curación de los embutidos. Todo nuestro embutido, jamones y paletas se cura en secaderos naturales.
 - // CONTENIDO: Esta Cesta Gourmet incluye: 2 sobres Jamón Ibérico de Bellota Pata Negra de Guijuelo 100gr., 2 sobres de Lomo Ibérico de Bellota Pata Negra de Guijuelo 80 gr., 2 sobres de Chorizo Ibérico de Bellota Extra cular Pata Negra de Guijuelo 80 gr., 2 sobres de Salchichón Ibérico de Bellota Pata Negra de Guijuelo 80 gr., 1 botella de Vino QUITADRAMAS Verdejo Ecológico 2022.
 - // IBÉRICOS: Nuestra Cesta Gourmet ideal para regalar incluye una selección especial de nuestros mejores Ibéricos de Bellota. El mejor pack ideal como regalo de cumpleaños, celebraciones especiales, regalos originales... o simplemente, para degustarlo en su hogar y disfrutar con los suyos estos productos seleccionados. Cestas gourmet Ibéricos.
+- // VINO BLANCO: QUITADRAMAS Verdejo Ecológico 2022. Vino elaborado con un 85% “Verdejo” y un 15% Sauvignon. Uvas cultivadas bajo agricultura orgánica 100% certificada. Color amarillo pajizo con reflejos verdosos. Limpio y brillante. Aromas concentrados varietales y minerales, con notas de laurel e hinojo.
 - // PRESENTACIÓN: Nuestra Cesta Gourmet se presenta dentro una Caja Gourmet de cartón de alta calidad.
+- // NOSOTROS: Nuestra dehesa se encuentra afincado en Bobadilla del Campo. Toda la comarca de Guijuelo cuenta con unas condiciones especiales que la convierten en el enclave más adecuado para la industria jamonera. Su situación, la altura, los vientos y el clima favorecen tanto la cría del cerdo como la curación de los embutidos. Todo nuestro embutido, jamones y paletas se cura en secaderos naturales.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CCJ7FXP7{{</world>}}

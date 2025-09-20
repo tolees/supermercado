@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para el desayuno
-- Conservar en lugar fresco y seco
 - Crema de avellanas y cacao para untar
+- Conservar en lugar fresco y seco
+- Ideal para el desayuno
 - Con un sabor dulce
 - Se puede usar para postres
 

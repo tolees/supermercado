@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con graduación de 36º
-- Temperatura de servicio:16º a 18ºC
 - Volumen de 700 ml
+- Temperatura de servicio:16º a 18ºC
+- Con graduación de 36º
 - Se recomienda un consumo responsible
 
 [🛒 Visítala!!!]({{< param buyurl >}})

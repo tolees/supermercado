@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contiene gluten.
+- Elaborados con harina de trigo de gran calidad y con ingredientes seleccionados.
 - Sin conservantes ni colorantes artificiales.
 - Snack con sabor a carne.
-- Elaborados con harina de trigo de gran calidad y con ingredientes seleccionados.
-- Contiene gluten.
 - Conservar en lugar fresco y seco.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Chocolatea tu leche al instante con NESQUIK Original!
 - El cacao soluble instantáneo NESQUIK tiene una combinación exclusiva de vitaminas y minerales,
 - NESQUIK ORIGINAL ESTUCHE 5,5kg CACAO SOLUBLE INSTANTÁNEO
-- que complementa lo bueno de la leche y lo hace idóneo para un gran comienzo del día.
 - allergen information: soy
+- que complementa lo bueno de la leche y lo hace idóneo para un gran comienzo del día.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09RPT3RZP{{</world>}}

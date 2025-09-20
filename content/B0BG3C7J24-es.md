@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aceite de almendras dulces: hidratante y emoliente, este aceite calma y suaviza la piel delicada y seca. Rico en omega 6 y 9, es muy nutritivo para la piel, dejándola más flexible y suave, pero también más radiante.
+- Composición natural: este jabón está elaborado con aceites EcoCert y aceite de palma sostenible certificado por RSPO. 99,8 % de ingredientes de origen natural con un máximo de materias primas sin procesar y un alto valor añadido para la piel. Fórmula biodegradable.
+- Semillas de Amapola - Exfoliantes, limpiar suavemente la piel, eliminan las células muertas y eliminan las impurezas.
 - Miel orgánica de comercio justo: es hidratante, nutritiva, calmante, cicatrizante, suavizante, antiséptica y antioxidante. También cumple la función de conservante y vehículo para los demás ingredientes.
 - El jabón orgánico de miel con semillas de amapola de Bee Nature limpia y exfolia suavemente las células muertas y las impurezas. La miel hidrata y nutre la piel. Ideal tanto para el rostro como para el cuerpo. Se ofrece en caja de jabón.
-- Semillas de Amapola - Exfoliantes, limpiar suavemente la piel, eliminan las células muertas y eliminan las impurezas.
-- Composición natural: este jabón está elaborado con aceites EcoCert y aceite de palma sostenible certificado por RSPO. 99,8 % de ingredientes de origen natural con un máximo de materias primas sin procesar y un alto valor añadido para la piel. Fórmula biodegradable.
+- Aceite de almendras dulces: hidratante y emoliente, este aceite calma y suaviza la piel delicada y seca. Rico en omega 6 y 9, es muy nutritivo para la piel, dejándola más flexible y suave, pero también más radiante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BG3C7J24{{</world>}}

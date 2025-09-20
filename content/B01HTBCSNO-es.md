@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ‎Almacenar en un sitio fresco y seco
-- Leche de crecimiento y desarrollo con cereales
-- Con vitaminas A, C y D
 - Con Omega 3
 - Contiene: leche, cereales con gluten
+- Con vitaminas A, C y D
+- Leche de crecimiento y desarrollo con cereales
+- ‎Almacenar en un sitio fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HTBCSNO{{</world>}}

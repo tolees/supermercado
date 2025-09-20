@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Geles dulces sabor fresa.
 - Piezas en forma de stick largos de regaliz rojo.
 - Intenso sabor a fresa.
-- Geles dulces sabor fresa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01ER52IQC{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fibra verde
 - Sistema stop grasa
-- Formato xxl
+- Fibra verde
 - Producto de la marca Spontex
+- Formato xxl
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08FBSW6GN{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color intenso y luminoso con acabado satinado
-- Contornea y rellena la vez para un efecto volumen 3D
-- Aplicación fácil y precisa de una sola vez gracias a su punta plana con dos tonos
 - En una misma pasada perfila con el tono estrecho y rellena con el tono ancho
+- Color intenso y luminoso con acabado satinado
+- Aplicación fácil y precisa de una sola vez gracias a su punta plana con dos tonos
+- Contornea y rellena la vez para un efecto volumen 3D
 - Sin necesidad de afilar gracias a su mecanismo automático y giratorio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

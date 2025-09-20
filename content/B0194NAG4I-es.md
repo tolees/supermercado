@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Para uso diario de la zona íntima
-- Respeta el ph natural
 - Adultos y adolescentes
+- Respeta el ph natural
 - Testado dermatológicamente
 - Previene infecciones
 

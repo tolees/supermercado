@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Se puede combinar con la mayoría de las bebidas calientes
+- Apto para cualquier hora del día
 - Con un alto contenido en cereales y vitaminas
 - Conservar en un lugar fresco y seco
-- Apto para cualquier hora del día
-- Se puede combinar con la mayoría de las bebidas calientes
 - Elaborado con aceite de girasol alto oleico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

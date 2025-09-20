@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 💚 SMILEAT: nacimos para revolucionar la alimentación infantil y lo seguimos haciendo con cada producto. Como la primera marca B-Corp en alimentación infantil ecológica de España, en Smileat trabajamos para crear un impacto positivo en el mundo, ofreciendo productos ricos y responsables que cuidan de los más pequeños, del planeta y de su futuro.
-- 👶 APTO PARA PEQUES DESDE 6 MESES: especialmente formulado para la introducción de alimentos sólidos en la dieta del peque, este tarrito es adecuado desde los 6 meses, contribuyendo a una alimentación equilibrada desde temprana edad
 - 🤱 CONFIANZA EN CADA ELECCIÓN: en Smileat nos comprometemos con la sostenibilidad y la transparencia, utilizando ingredientes ecológicos y promoviendo prácticas responsables que cuidan del planeta y del futuro de nuestros peques.
-- 🍎 TARRITO DE FRUTAS ECOLÓGICAS: elaborado con frutas de Melocotón y Frambuesa. Cultivo ecológico, este producto ofrece una textura suave y homogénea, facilitando la alimentación de los más pequeños y ayudando en la introducción de nuevos sabores.
+- 👶 APTO PARA PEQUES DESDE 6 MESES: especialmente formulado para la introducción de alimentos sólidos en la dieta del peque, este tarrito es adecuado desde los 6 meses, contribuyendo a una alimentación equilibrada desde temprana edad
 - 🌿 INGREDIENTES DE CALIDAD: contiene frutas seleccionadas sin azúcar ni sal añadida, sin leche y sin huevos, adaptándose a diversas necesidades alimentarias y respetando el sabor original de las frutas.
+- 🍎 TARRITO DE FRUTAS ECOLÓGICAS: elaborado con frutas de Melocotón y Frambuesa. Cultivo ecológico, este producto ofrece una textura suave y homogénea, facilitando la alimentación de los más pequeños y ayudando en la introducción de nuevos sabores.
+- 💚 SMILEAT: nacimos para revolucionar la alimentación infantil y lo seguimos haciendo con cada producto. Como la primera marca B-Corp en alimentación infantil ecológica de España, en Smileat trabajamos para crear un impacto positivo en el mundo, ofreciendo productos ricos y responsables que cuidan de los más pequeños, del planeta y de su futuro.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VFBN787{{</world>}}

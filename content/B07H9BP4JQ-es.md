@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Revelador para tintes de pelo Cuidado del cabello Mujer
-- Coloración del cabello Revlon
 - (0309978695547)
+- Coloración del cabello Revlon
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07H9BP4JQ{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de piel: piel grasa y piel mixta
-- Libre de parabenos, siliconas y colorantes artificiales
 - Contiene 96% ingredientes naturales
+- Libre de parabenos, siliconas y colorantes artificiales
+- Tipo de piel: piel grasa y piel mixta
 - Producto para el cuidado diario de la piel que deja la piel hidratada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

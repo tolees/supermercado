@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: NATURGREEN
 - Los mejores productos para el hogar.
+- Marca: NATURGREEN
 - Producto fabricado con materiales resistentes
 - Ideal para regalar
 

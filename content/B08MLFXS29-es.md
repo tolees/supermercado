@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - INGREDIENTES SELECCIONADOS. Elaborada con agua de la ciudad de A Coruña, MALTA pilsen y tostada, maíz, LÚPULO Nugget y LEVADURA seleccionada. Alc 8% vol
-- PREMIADA INTERNACIONALMENTE. La Cerveza 1906 Red Vintage ha sido galardonada con numerosos premios internacionales por su calidad excepcional, incluyendo la medalla de oro en el World Beer Challenge
 - CERVEZA RED VINTAGE LA COLORADA. Pack de cervezas lager cuyo sabor amargo equilibra el alto grado alcohólico y su ligero postgusto picante. Se recomienda su consumo entre 5 y 6º
+- PREMIADA INTERNACIONALMENTE. La Cerveza 1906 Red Vintage ha sido galardonada con numerosos premios internacionales por su calidad excepcional, incluyendo la medalla de oro en el World Beer Challenge
 - AROMA INTENSO Y DULCE. De color oro viejo intenso y brillante. Aromaticamente se percibe el balance hacia las maltas, con agradables notas dulces, a caramelo
 - SABOR AUTÉNTICO. Es una cerveza roja con notas tostadas y maltosas, que marida bien con alimentos como quesos azules, pulpos y calamares, pescados ahumados y una gran variedad de carnes
 

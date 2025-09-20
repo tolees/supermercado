@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Pack de 24 botellas: 4 packs de 6 botellines de 355 mililitros cada uno de Corona Cerveza, de estilo Light Lager, la cerveza mexicana premium de importación nº 1 en más de 45 países y la más vendida desde 1925, con 4,5% de alcohol. Para un mayor disfrute se recomienda consumir entre 3º y 6º C
 - Aroma: La combinación de sus aromas ligeramente afrutados y con ligeras notas de levadura, invitan a disfrutar de la cerveza Corona una vez destapada
-- Cerveza Corona comenzó a elaborarse en México y casi un siglo después sigue produciéndose allí. Presente en más de 180 países y mundialmente conocida por su ritual de la lima, es la cerveza premium de importación nº1 en más de 45 países
 - Apariencia: Cerveza Corona de color claro, amarillo brillante, que junto con su espuma blanca forman la combinación perfecta convirtiendo a la cerveza Coronita en una cerveza cremosa y consistente
+- Cerveza Corona comenzó a elaborarse en México y casi un siglo después sigue produciéndose allí. Presente en más de 180 países y mundialmente conocida por su ritual de la lima, es la cerveza premium de importación nº1 en más de 45 países
 - Sabor: tiene el balance perfecto entre las cervezas europeas con mucho cuerpo y las ligeras. La cerveza Corona está elaborada con cebada malteada, arroz y/o maíz, lúpulo y levadura. Única y de gran calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

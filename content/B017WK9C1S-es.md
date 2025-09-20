@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Libre de Parabenos. Dermatológicamente testado. Crea mucha espuma
 - Gel muy perfumado a Caramelo. Exquisita y Dulce Fragancia
 - Gel de baño y ducha emoliente. Deliciosa sensación, aporta gran suavidad a la piel dejándola muy perfumada
-- Libre de Parabenos. Dermatológicamente testado. Crea mucha espuma
-- Género; Unisex. Adulto e infantil
 - Gel de baño y ducha 650 ml. No testado en animales. Vegano. Fabricación íntegra en España
+- Género; Unisex. Adulto e infantil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B017WK9C1S{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuerpo denso. Notas caramelizadas
-- Elaborada con 7 maltas de cebada
 - Cerveza de estilo Red Ale; Malt Beers
+- Elaborada con 7 maltas de cebada
 - De color rojo cobrizo
 - Gusto y aroma a frutas
+- Cuerpo denso. Notas caramelizadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07PFWGJ3G{{</world>}}
