@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Elaboradas en España por Galletas Gullón
+- Deliciosas mini galletas infantiles para niños
 - Sin lactosa ni proteínas de la leche, sin frutos de cáscara y sin huevo.
 - Elaboradas con aceite de girasol alto oleico, sin aceite de palma.
 - Veganas
-- Deliciosas mini galletas infantiles para niños
-- Elaboradas en España por Galletas Gullón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DM66Q3K9{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contiene a parte de aves de corral, salmón como fuentes de proteína de alta calidad.
+- Con calostro que fortalece el sistema inmunitaria del perro
 - Extractos de mejillones para fortalecer cartílagos, articulaciones y huesos
 - Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
-- Con calostro que fortalece el sistema inmunitaria del perro
 - Sin trigo & Sin azúcar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

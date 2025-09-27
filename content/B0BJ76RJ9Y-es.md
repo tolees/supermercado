@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Nocciolata no contiene aceite de palma, grasas hidrogenadas, saborizantes, conservantes ni colorantes, y tampoco contiene gluten.
 - Alérgenos: Avellanas, leche, soja, puede contener frutos secos.
-- Ingredientes: Azúcar de caña*, pasta de AVELLANAS* 17,6%, aceite de girasol*, LECHE desnatada en polvo*, cacao en polvo* 6,2%, manteca de cacao*, extracto de vainilla*, emulgente: lecitina de SOJA *Ecológico. (Todos los ingredientes provienen de agricultura ecológica).
 - Una receta armoniosa y equilibrada en sabor y textura, que incluye avellanas (variedad Tonda Romana), la más alta calidad de cacao y manteca de cacao, azúcar de caña, leche desnatada en polvo, aceite de girasol prensado en frío, lecitina de soja y extracto natural de vainilla borbón. Porciones por envase: aproximadamente 166 / 15 g = 3 cucharaditas.
 - Nocciolata es una pasta untable de cacao y avellana de cultivo orgánico, hecha de ingredientes cuidadosamente seleccionados. La utilización de materias primas de alta calidad y un procesamiento respetuoso convierte la Nocciolata en una deliciosa y cremosa pasta.
+- Ingredientes: Azúcar de caña*, pasta de AVELLANAS* 17,6%, aceite de girasol*, LECHE desnatada en polvo*, cacao en polvo* 6,2%, manteca de cacao*, extracto de vainilla*, emulgente: lecitina de SOJA *Ecológico. (Todos los ingredientes provienen de agricultura ecológica).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJ76RJ9Y{{</world>}}

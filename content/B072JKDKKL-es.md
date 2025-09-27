@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Ideal para compartir
 - Para la mejor experiencia, agregue hielo
-- Bebida refrescante aromatizada con endulcolantes
 - Proteger de la luz solar y de olores agresivos
+- Bebida refrescante aromatizada con endulcolantes
 - Contiene fenilalanina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

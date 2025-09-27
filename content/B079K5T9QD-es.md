@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de calidad óptima
-- Deo control+ deo crema 24h isdin
 - Hecho de material de calidad
 - Producto útil y práctico
+- Deo control+ deo crema 24h isdin
+- Producto de calidad óptima
 - Creado con atención al detalle
 
 [🛒 Comprar!!!]({{< param buyurl >}})

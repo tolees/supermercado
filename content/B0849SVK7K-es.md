@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 💀 𝗦𝗔𝗕𝗢𝗥 𝗥𝗜𝗖𝗢 𝗬 𝗜𝗡𝗖𝗢𝗠𝗣𝗔𝗥𝗔𝗕𝗟𝗘 - ¡Deléitate con uno de los cafés más fuertes del mundo! Nuestros granos de café expreso ofrecen un sabor con mucho cuerpo y fina crema.
-- 💀 𝗚𝗔𝗥𝗔𝗡𝗧Í𝗔 𝗗𝗘 𝗦𝗔𝗧𝗜𝗦𝗙𝗔𝗖𝗖𝗜Ó𝗡 - Estamos orgullosos de la calidad de nuestro café en grano. Si este café súper fuerte no cumple con tus expectativas, contáctanos.
-- 💀 𝗔𝗟𝗧𝗢 𝗖𝗢𝗡𝗧𝗘𝗡𝗜𝗗𝗢 𝗗𝗘 𝗖𝗔𝗙𝗘𝗜𝗡𝗔 –100% granos robusta con 534 mg por 100 ml de café para empezar el día con energía. Un expreso para cualquiera que busque un tiro rápido.
 - 💀 𝗚𝗥𝗔𝗡𝗢𝗦 𝗧𝗢𝗦𝗧𝗔𝗗𝗢𝗦 𝗦𝗨𝗔𝗩𝗘𝗠𝗘𝗡𝗧𝗘 - Nuestros café granos son tostados lentamente en Italia en pequeñas cantidades hasta que ácidos y sustancias amargas se descompongan. 100% sabor de café fuerte para espresso.
+- 💀 𝗔𝗟𝗧𝗢 𝗖𝗢𝗡𝗧𝗘𝗡𝗜𝗗𝗢 𝗗𝗘 𝗖𝗔𝗙𝗘𝗜𝗡𝗔 –100% granos robusta con 534 mg por 100 ml de café para empezar el día con energía. Un expreso para cualquiera que busque un tiro rápido.
 - 💀 𝗖𝗘𝗥𝗢 𝗔𝗗𝗜𝗧𝗜𝗩𝗢𝗦 𝗤𝗨Í𝗠𝗜𝗖𝗢𝗦 - Para asegurar los estándares más altos de pureza y calidad, no usamos ningún potenciador de sabor o aditivos en este café gourmet natural y vegano.
+- 💀 𝗚𝗔𝗥𝗔𝗡𝗧Í𝗔 𝗗𝗘 𝗦𝗔𝗧𝗜𝗦𝗙𝗔𝗖𝗖𝗜Ó𝗡 - Estamos orgullosos de la calidad de nuestro café en grano. Si este café súper fuerte no cumple con tus expectativas, contáctanos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0849SVK7K{{</world>}}

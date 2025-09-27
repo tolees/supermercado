@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula Sanex: Respeta la piel y respeta el planeta
-- Testado dermatológicamente
 - Cuidado superior: 24h de protección eficaz contra el mal olor
-- Fórmula que combina cuidado e higiene: Contiene piedra de alumbre un ingrediente activo de origen natural
 - Reducimos los ingredientes químicos innecesarios: Sin alérgenos, sin alcohol, sin colorantes
+- Fórmula Sanex: Respeta la piel y respeta el planeta
+- Fórmula que combina cuidado e higiene: Contiene piedra de alumbre un ingrediente activo de origen natural
+- Testado dermatológicamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Q1CPJHX{{</world>}}

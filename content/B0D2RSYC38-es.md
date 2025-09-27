@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alimento para perros con proteínas de alta calidad
-- Fácil de digerir
 - Gama exclusiva de Ultima
+- Fácil de digerir
+- Alimento para perros con proteínas de alta calidad
 - Ayuda a mantener su masa muscular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

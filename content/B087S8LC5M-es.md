@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Icono – desnudo en tonos naranjas
-- Perfecto para combinar con nuestros Satin Kiss Lipliners
 - Vegano y libre de crueldad
+- Perfecto para combinar con nuestros Satin Kiss Lipliners
 - Formulado para ser rico y cremoso con un acabado de terciopelo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

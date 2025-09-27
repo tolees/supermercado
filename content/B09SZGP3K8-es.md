@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de la marca Lancaster
 - Ofrece un resultado óptimo y adecuado
+- Producto de la marca Lancaster
 - Productos de cuidado de la piel para mujer
 - Material de calidad
 

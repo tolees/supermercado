@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para obtener los mejores resultados, continúa con el SÉRUM Nº3.
 - Después de utilizar el PRE-CHAMPÚ Nº0 y el CHAMPÚ Nº1, la MASCARILLA Nº2 del Método Rizos de Garnier Fructis se puede aplicar de dos maneras: 1. Como mascarilla con aclarado, aplicándola sobre los largos húmedos. 2. Como crema sin aclarado, aplicándola en las puntas húmedas o secas.
+- Para obtener los mejores resultados, continúa con el SÉRUM Nº3.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CXDZYDC9{{</world>}}

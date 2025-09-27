@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Hidratantes
-- Cremas
 - Bálsamo Reparador Corporal Neutrogena REPARACIÓN INTENSA 100 ml
+- Cremas
 - ¿Te gustaría tener la mejor línea de tratamientos estéticos en tu hogar con productos de calidad a buen precio? ¡Pues no te quedes sin Bálsamo Reparador Corporal Neutrogena REPARACIÓN INTENSA 100 ml ! Tipo: Dermocosmética Parafarmacia Característica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

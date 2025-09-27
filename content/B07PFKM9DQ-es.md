@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento integrado
-- Sacapuntas doble
 - Para lápices formato estándar y formato jumbo
+- Sacapuntas doble
+- Almacenamiento integrado
 - Práctico
 - Modelo preciso
 

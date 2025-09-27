@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Nuestro Acondicionador Reparador, potenciado con un 9% de concentrado reparador con Keratina XS, revive instantáneamente el pelo dañado
 - Nuestros envases están producidos con plástico 100% reciclado y son 100% reciclables
 - Consigue un pelo hasta 100% reparado en sólo 5 días; RETO5DÍAS
-- Nuestro Acondicionador Reparador, potenciado con un 9% de concentrado reparador con Keratina XS, revive instantáneamente el pelo dañado
 - Pelo frágil, Enredado, Deshidratado, Se te rompe, Puntas abiertas: 5 PROBLEMAS, 1 SOLUCIÓN
 
 [🛒 Aquí!!!]({{< param buyurl >}})

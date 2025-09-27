@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La historia de Caffè Mauro comenzó en 1949, cuando Demetrio Mauro, persiguiendo su pasión por el café, instaló la primera máquina tostadora en un pequeño almacén del puerto de Reggio Calabria. Comenzó a crear mezclas únicas, perfectas para momentos de convivencia y disfrute. Un café para la recepción que prepara una taza al estilo mediterráneo
 - Formato: 4 paquetes de 36 cápsulas, compatibles con Lavazza* A Modo Mio*.
 - Intensidad: 8/10
-- La historia de Caffè Mauro comenzó en 1949, cuando Demetrio Mauro, persiguiendo su pasión por el café, instaló la primera máquina tostadora en un pequeño almacén del puerto de Reggio Calabria. Comenzó a crear mezclas únicas, perfectas para momentos de convivencia y disfrute. Un café para la recepción que prepara una taza al estilo mediterráneo
-- Equilibrado y con cuerpo. Una mezcla redonda y con cuerpo, los sabores a chocolate están bien equilibrados con una acidez afrutada.
 - Emozione Mediterranea: mezclas de una tierra rodeada por el mar y besada por el sol. En Caffè Mauro, basta el tiempo de un café para sentirse como en casa. Un lento proceso de tueste cuenta el sabor de un ritual sincero que forma parte de nuestra forma de vida. Saborea el momento y disfruta de cada instante de calidad
+- Equilibrado y con cuerpo. Una mezcla redonda y con cuerpo, los sabores a chocolate están bien equilibrados con una acidez afrutada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D7MSVPZ1{{</world>}}

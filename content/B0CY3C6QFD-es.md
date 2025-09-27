@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🌿 Cicatrización Natural : Jabón corporal natural en pastilla. Ayuda a prevenir la psoriasis y el eczema. Excelente para pieles atópicas.❤️
-- 🌿 Pastilla de Jabón para Ducha: Versátil y suave, perfecto como jabón de manos, jabón para cara y cuerpo, e incluso para uso íntimo. Disfruta de una limpieza completa con una sola pastilla de jabón.
-- 🌿 Reducción de Inflamación: El aceite de Neem ayuda a calmarla irritación de la piel atopica. ❤️
 - 🌿 Jabón Antibacteriano Hidratante: Protege e hidrata tu piel con nuestro jabón bactericida. Ideal para el uso diario, especialmente en áreas como las axilas, este jabón antibacteriano ofrece una limpieza profunda y cuida tu piel.
+- 🌿 Cicatrización Natural : Jabón corporal natural en pastilla. Ayuda a prevenir la psoriasis y el eczema. Excelente para pieles atópicas.❤️
+- 🌿 Reducción de Inflamación: El aceite de Neem ayuda a calmarla irritación de la piel atopica. ❤️
 - 🌿 Pastilla de jabón natural : Descubre nuestro jabón biodegradable, ideal para camping y aventuras al aire libre. Cuida tu piel mientras ayudas a cuidar nuestro planeta con una opción respetuosa con el medio ambiente. 🌍
+- 🌿 Pastilla de Jabón para Ducha: Versátil y suave, perfecto como jabón de manos, jabón para cara y cuerpo, e incluso para uso íntimo. Disfruta de una limpieza completa con una sola pastilla de jabón.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY3C6QFD{{</world>}}

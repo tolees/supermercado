@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chips Ahoy en su formato mini, en 4 bolsitas individuales para poder llevar a cualquier parte
 - Galletas con chips de chocolate pequeñas y prácticas, del tamaño de un bocado
+- Conservar en lugar fresco y seco
 - Alérgenos: contiene gluten, leche y soja
 - Textura crujiente irresistible, adecuada para disfrutar en meriendas o desayunos
-- Conservar en lugar fresco y seco
+- Chips Ahoy en su formato mini, en 4 bolsitas individuales para poder llevar a cualquier parte
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009JVOVR4{{</world>}}

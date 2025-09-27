@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Mezcla: predominantemente Cabernet Sauvignon y Merlot.
+- Nota de cata: vino tinto de color intenso y delicado, con aromas de fruta negra muy madura y chocolate.
+- Un tinto chileno del boscoso valle de Curicó.
 - Maridaje: un vino tinto que combina bien con carnes rojas y platos especiados.
 - Región: vino tinto chileno producido al sur de Santiago, en el valle de Curicó, en los viñedos de Los Quintaos, cerca de la cordillera de los Andes.
-- Un tinto chileno del boscoso valle de Curicó.
-- Nota de cata: vino tinto de color intenso y delicado, con aromas de fruta negra muy madura y chocolate.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BYZNW9TV{{</world>}}

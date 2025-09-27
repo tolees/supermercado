@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De diferentes formas y colores
-- Conservar en un lugar fresco y seco
 - Ideales como postre
+- Conservar en un lugar fresco y seco
 - Surtido de caramelos de frutas
+- De diferentes formas y colores
 - Tienen un sabor dulce
 
 [🛒 Aquí!!!]({{< param buyurl >}})

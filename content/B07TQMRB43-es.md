@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuida de tu belleza con los productos que mejor se adapten a ti
 - Tu cuidado íntimo y personal de la mano de los mejores productos del mercado
+- Cuida de tu belleza con los productos que mejor se adapten a ti
 - Men maximum hydrator 72h 50 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})

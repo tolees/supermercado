@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Es perfecto para viajes con niños o a lugares donde no tienes a mano una forma rápida de lavado.
 - Práctico contenido de 100ml, apto para transportar en tu equipaje de mano tanto en el avión, como en el tren o en cualquiera de tus viajes.
-- Cuida tu ropa también fuera de casa con Norit Viaje
 - Ideal para lavar a mano prendas pequeñas: medias, ropa interior, prendas de baño, ropita del bebé y pañuelos o fulares.
+- Cuida tu ropa también fuera de casa con Norit Viaje
+- Es perfecto para viajes con niños o a lugares donde no tienes a mano una forma rápida de lavado.
 - De fácil aclarado, deja las prendas suaves y agradablemente perfumadas, como si las lavaras en casa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

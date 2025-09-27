@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en un lugar fresco y seco
-- Piezas en forma de divertidas frutas
 - De diferentes formas
-- Ideal para compartir
 - Caramelos de goma sabor frutas
+- Piezas en forma de divertidas frutas
+- Conservar en un lugar fresco y seco
+- Ideal para compartir
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08M1DXXR6{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rico en calcio, magnesio, zinc y vitaminas B12 y D: Contribuye al mantenimiento óseo, inmunidad y reducción del cansancio.
-- Alto contenido en proteínas funcionales: Cada vaso de 330 ml aporta 17g de proteína, ideal para apoyar la recuperación muscular y el bienestar diario.
 - Sin azúcares añadidos, 0% materia grasa: Una bebida láctea ligera, digestiva y adecuada para estilos de vida activos.
+- Alto contenido en proteínas funcionales: Cada vaso de 330 ml aporta 17g de proteína, ideal para apoyar la recuperación muscular y el bienestar diario.
+- Rico en calcio, magnesio, zinc y vitaminas B12 y D: Contribuye al mantenimiento óseo, inmunidad y reducción del cansancio.
 - Formato práctico y versátil: Pack de 6 briks de 1 litro, perfectos para desayunos, post-entrenamiento o como snack saludable.
 - Sabor auténtico a chocolate: Disfruta del placer del cacao con una textura suave y sin renunciar a tus objetivos nutricionales.
 

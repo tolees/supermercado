@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cada pasada proporciona una base de color y un acabado protector brillante
-- Con cepillo diseñado para una aplicación rápida y uniforme
-- Alto impacto de color y acabado ultra brillante
-- Esmalte de uñas de secado rápido
 - Tecnología 3 en 1: base, color y top coat glossy
+- Alto impacto de color y acabado ultra brillante
+- Con cepillo diseñado para una aplicación rápida y uniforme
+- Cada pasada proporciona una base de color y un acabado protector brillante
+- Esmalte de uñas de secado rápido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NXTGSZY{{</world>}}

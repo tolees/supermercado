@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fórmula clean y vegana
+- Óptimo bálsamo con color
 - Contiene vitamina C y E, manteca de karité y ácido hialurónico
 - Te sorprenderá su aroma óptima
-- Óptimo bálsamo con color
 - Compuesta por un 90 por Cientode ingredientes de origen natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gel de Ducha Hydra Energetic: Fórmula enriquecida con taurina para un efecto de energía en la piel; fragancia estimulante
 - Piel más fresca, hidratada y energética durante todo el día gracias a los productos de la gama Hydra Energetic y un cuerpo, rostro, cabello y piel más hidratada gracias al Gel de ducha de Pure Carbon
-- Crema Hydra Energetic: Cuidado hidratante diseñado para pieles con aspecto cansado; combate los 5 signos del cansancio para un efecto anti-fatiga 24H*
 - Gel de Ducha Pure Carbon: Fórmula enriquecida con carbón para 5 acciones en un solo gesto: cuerpo, cara, cabello, barba y hidratante; una fragancia fresca y intensa
+- Crema Hydra Energetic: Cuidado hidratante diseñado para pieles con aspecto cansado; combate los 5 signos del cansancio para un efecto anti-fatiga 24H*
+- Gel de Ducha Hydra Energetic: Fórmula enriquecida con taurina para un efecto de energía en la piel; fragancia estimulante
 - Descubre el pack de rutina para hombre que incluye: Gel de ducha Hydra Energetic, Gel de ducha Pure Carbon y Crema Hydra Energetic
 
 [🛒 Comprar!!!]({{< param buyurl >}})

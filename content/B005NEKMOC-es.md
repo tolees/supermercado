@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con notas florales, y un cremoso toque de roble
-- El acabado es duradero, refrescante y dulce
 - Se puede servir solo, con hielo o en una gama de bebidas y cócteles
-- Mezcla de whiskies añejados durante un mínimo de 12 años
 - Color miel dorado
+- Mezcla de whiskies añejados durante un mínimo de 12 años
+- El acabado es duradero, refrescante y dulce
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B005NEKMOC{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Testada por el Swiss Vitamin Institute
-- Cura intensiva que ayuda a combatir los signos del daño con 1 solo uso
 - Mascarilla capilar para pelo dañado y frágil
+- Cura intensiva que ayuda a combatir los signos del daño con 1 solo uso
 - Mascarilla capilar que ayuda a reparar el daño con 1 solo uso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

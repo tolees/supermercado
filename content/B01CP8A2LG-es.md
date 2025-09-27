@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conservar en lugar fresco y seco
 - Alérgenos: Sin azúcar, con edulcorantes. Contiene sorbitol y una fuente de fenilalanina
 - Formato pack de 16 envases individuales de chicles sueltos tipo gragea rellena de powder
 - 60 minutos de frescor en tu boca, para un aliento a hierbabuena fresco y duradero
+- Conservar en lugar fresco y seco
 - Único chicle sin azúcar que consigue que aguante el frescor en tu boca durante 60 minutos, sabor menta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

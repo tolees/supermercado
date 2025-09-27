@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De color rojo vivo
-- Ideal con hielo
 - Muy armonioso en aroma
+- Ideal con hielo
+- De color rojo vivo
 - Adecuado como regalo
 - Es suave al paladar
 

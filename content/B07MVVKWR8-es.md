@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cereales sin aceite de palma
+- Cereales sin colorantes ni edulcorantes artificiales
 - Cereales con Cacao
 - Cereales con -30% de azúcares en relación a la media de cereales de desayuno infantiles con sabor a chocolate
-- Cereales sin colorantes ni edulcorantes artificiales
+- Cereales sin aceite de palma
 - Los cereales Kelloggs Choco Krispies te harán empezar el día con un riquísimo y divertido desayuno
 
 [🛒 Aquí!!!]({{< param buyurl >}})

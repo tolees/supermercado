@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A la vista: óptimo color rojo cereza, único y diferente; a la nariz: Las notas de vino se combinan con notas cítricas y herbáceas; a la boca: Un final extraordinario, agradable y ligeramente amargo
-- Recibe el nombre de Nordés por el viento mítico que presagia la llegada del buen tiempo en Galicia, Nordés Vermouth Rojo conmemora esta tierra de la costa atlántica, conocida desde hace mucho tiempo por su rica gastronomía
 - Cómo tomar Nordes Vermut Rojo: Disfrútalo en un vaso bajo con dos cubitos de hielo grandes y una brocheta de uva tinta
+- A la vista: óptimo color rojo cereza, único y diferente; a la nariz: Las notas de vino se combinan con notas cítricas y herbáceas; a la boca: Un final extraordinario, agradable y ligeramente amargo
 - Un sabor único y diferente gracias a su carácter a base de vino; una cuidada selección de uvas y botánicos, como salvia, hierbaluisa y laurel, consagrados en el folclore local, vienen de la mano para crear un vermut verdaderamente singular, refrescante, suave y aromático
+- Recibe el nombre de Nordés por el viento mítico que presagia la llegada del buen tiempo en Galicia, Nordés Vermouth Rojo conmemora esta tierra de la costa atlántica, conocida desde hace mucho tiempo por su rica gastronomía
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYHV86QD{{</world>}}

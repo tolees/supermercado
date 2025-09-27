@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gracias al proceso único de elaboración del whiskey hacen de Jack Daniels un Tennessee Whiskey suave en el paladar, muy distinto de un bourbon
-- Sugerencia de preparación: Jack Daniels con cola
-- Además, se somete a un filtrado gota a gota a través de tres metros de carbón de arce sacarino y se madura en barricas de roble ensambladas a mano
 - Su éxito se debe al método de elaboración exclusivo del famoso Old No. 7 con los mejores ingredientes como el mejor maíz, centeno y malta de cebada, así como agua libre de hierro procedente del manantial de la cueva Spring Hollow
 - Sabor y final: intenso y especiado, con matices de naranja, azúcar moreno y especias, roble intenso y manzana seca
+- Sugerencia de preparación: Jack Daniels con cola
 - Sabor y final: intenso y especiado, con matices de naranja, azúcar moreno y especias, roble intenso y manzana seca. Aroma: dulce, intenso, de vainilla
 - Aroma: dulce, intenso y sutil, muy claros, de vainilla. El ahumado del filtrado con carbón vegetal se matiza muy bien en su sabor
 - Jack Daniels Tennessee Whiskey Old No.7 se somete a un filtrado gota a gota a través de tres metros de carbón de arce sacarino y se madura en barricas de roble ensambladas a mano
-- Sugerencia de preparación: Jack Daniels con cola
 - Gracias al proceso único de elaboración del whiskey hacen de Jack Daniels un Tennessee Whiskey suave en el paladar, muy distinto de un bourbon
+- Gracias al proceso único de elaboración del whiskey hacen de Jack Daniels un Tennessee Whiskey suave en el paladar, muy distinto de un bourbon
+- Sugerencia de preparación: Jack Daniels con cola
+- Además, se somete a un filtrado gota a gota a través de tres metros de carbón de arce sacarino y se madura en barricas de roble ensambladas a mano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RKD6JZY{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Fórmula sin sulfatos ni siliconas, a base de glicerina y semilla de hibisco para unas ondas y rizos perfectos y una hidratación de larga duración en las fibras más secas y para un refuerzo de la barrera lipídica
 - Champú para rizos y ondas Curl Expression, una crema que limpia suavemente el cabello mientras aporta hidratación intensa y duradera para unos rizos más saludables y fáciles de desenredar
 - Cada lavado, limpia tu cabello con esta crema limpiadora para hidratar sin aportar peso dejando el cabello listo para tratamientos. Úsalo si no tienes residuos o impurezas en el cabello. Es el champú perfecto para ondas abiertas y cabello fino.
-- Fórmula sin sulfatos ni siliconas, a base de glicerina y semilla de hibisco para unas ondas y rizos perfectos y una hidratación de larga duración en las fibras más secas y para un refuerzo de la barrera lipídica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09W6HW4M7{{</world>}}

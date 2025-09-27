@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - De Comapa
-- De calidad
 - Comidas de España
+- De calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BK9JFMN{{</world>}}

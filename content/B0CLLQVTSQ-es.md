@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COLOR: rojo Picota con ribetes granate
-- CRIANZA: Este vino permanece durante 16 meses en barrica de roble americano y francés
-- PREMIOS: Solar de Samaniego Crianza es un vino con reconocimiento internacional. Ha recibido el premio Medalla de Oro en el Mundial de Tempranillos 2022, la añada 2016 fue galardonada con medalla de Oro en el Mundial de Tempranillos celebrado en Bruselas. La añada 2015 recibió medalla de Oro en los premios Bacchus y Decanter
 - Variedad de uva: 79.5% Tempranillo y 20.5% Graciano
+- CRIANZA: Este vino permanece durante 16 meses en barrica de roble americano y francés
 - AROMA: fruta madura compotada y recuerdos de especiados como la vainilla, toffe, clavo y nuez de coco
+- PREMIOS: Solar de Samaniego Crianza es un vino con reconocimiento internacional. Ha recibido el premio Medalla de Oro en el Mundial de Tempranillos 2022, la añada 2016 fue galardonada con medalla de Oro en el Mundial de Tempranillos celebrado en Bruselas. La añada 2015 recibió medalla de Oro en los premios Bacchus y Decanter
+- COLOR: rojo Picota con ribetes granate
 - BOCA: sedoso y equilibrado en una agradable acidez, que resalta su carga frutal conjugada con los matices de su paso por barrica de calidad en largo postgusto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

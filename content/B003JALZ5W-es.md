@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Agregar a una alimentación sana y equilibrada
-- Barrita de cacahuete con proteína y carbohidratos de alta calidad y magnesio extra
-- Barrita energética rica en proteína para deportistas con un esfuerzo muscular intensivo
 - En 2 sabores, sin colorantes ni conservantes
+- Agregar a una alimentación sana y equilibrada
+- Barrita energética rica en proteína para deportistas con un esfuerzo muscular intensivo
+- Barrita de cacahuete con proteína y carbohidratos de alta calidad y magnesio extra
 - Suministra energía, apoya el metabolismo energético y es bien digerible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: Shea
 - El producto es fabricado con ingredientes de calidad
 - Apto para el uso diario
+- Marca: Shea
 - Producto para el cuidado del cabello
 
 [🛒 Aquí!!!]({{< param buyurl >}})

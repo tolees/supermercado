@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Disfrútalas donde quieras!
 - En prácticas bolsitas
+- ¡Disfrútalas donde quieras!
 - Nuevos Dinosaurus SIN GLUTEN
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

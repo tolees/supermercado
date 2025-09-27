@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La fórmula se absorbe en tu piel rápidamente, dejándola suave y bonita
+- Su fórmula contiene aceite de coco y leche de almendras
 - Loción Corporal Coco Ritual Restaurador 400ml
 - Loción corporal apta para todo tipo de pieles; botella 100% plástico reciclado
-- Su fórmula contiene aceite de coco y leche de almendras
 - Hidrata profundamente la piel
 - Globalmente Dove no testa en animales
 

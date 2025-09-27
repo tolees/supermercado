@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de calidad
 - Adecuado para regalar
+- Material de calidad
 - Cantidad: 0, 7 L
 
 [🛒 Comprar!!!]({{< param buyurl >}})

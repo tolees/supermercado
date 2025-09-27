@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color: Negro
 - Máscara para pestañas
+- Color: Negro
 - Ofrece un resultado óptimo y adecuado
 - Material de calidad
 

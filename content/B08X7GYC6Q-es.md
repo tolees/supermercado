@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Base
 - Marca Clinique
+- Base
 - Código de barras: 0192333077856
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

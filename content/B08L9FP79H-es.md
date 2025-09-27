@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Conservar en un lugar fresco y seco
-- De colores y sabores diferentes
 - Sin colorantes artificiales
 - De textura gomosa
+- De colores y sabores diferentes
 - Ideal para compartir
 
 [🛒 Comprar!!!]({{< param buyurl >}})

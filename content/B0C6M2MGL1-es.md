@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Biológica
 - Bolsas doypack para una buena conservación
-- Cultivado sin abonos ni pesticidas
 - Lenteja roja 500g
+- Biológica
+- Cultivado sin abonos ni pesticidas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6M2MGL1{{</world>}}

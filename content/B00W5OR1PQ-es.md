@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: Colágeno 10g, Ácido Hialurónico 25mg, Magnesio 375mg, Vitamina C 12mg y TetraSod 10mg.
 - Modo de empleo: Tomar una cucharada de 12,5g (un cacito) al día diluido en un vaso de (200ml) de agua, zumo, té u otro liquido que te apetezca.
-- Complemento alimenticio que ayuda a reforzar las articulaciones, los músculos y la piel.
+- Composición: Colágeno 10g, Ácido Hialurónico 25mg, Magnesio 375mg, Vitamina C 12mg y TetraSod 10mg.
 - Uso recomendado para mayores de 12 años.
+- Complemento alimenticio que ayuda a reforzar las articulaciones, los músculos y la piel.
 - El Colágeno y el Magnesio ayudan a mantener las articulaciones en forma y los músculos sanos para una vida activa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

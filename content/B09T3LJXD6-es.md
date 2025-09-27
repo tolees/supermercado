@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para prendas de varios materiales como algodón/lino/mezcla/fibra sintética
-- Fragancia de larga duración: Alta actividad superficial, limpieza simple y conveniente, fragancia de larga duración.
 - Seguro: es un agente fluorescente sin fósforo, sin adición de aluminio, seguro, más respetuoso con el medio ambiente.
 - Sin residuos: limpieza profunda, fácil de enjuagar, no deja residuos después del lavado, limpia y protege la ropa
 - Fragancia de larga duración: Alta actividad superficial, limpieza simple y conveniente, fragancia de larga duración.
 - Soluble en agua: las perlas de lavandería son solubles en agua, una perla de lavandería puede lavar de 6 a 10 prendas de vestir
+- Adecuado para prendas de varios materiales como algodón/lino/mezcla/fibra sintética
+- Fragancia de larga duración: Alta actividad superficial, limpieza simple y conveniente, fragancia de larga duración.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T3LJXD6{{</world>}}

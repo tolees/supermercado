@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Irresistible mix de sabores
-- Caramelos grageados
 - Deliciosas piezas redondeadas
+- Caramelos grageados
+- Irresistible mix de sabores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZT4YGQ2{{</world>}}

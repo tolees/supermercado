@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Nota de cata (boca): Gran estructura en boca, pero con taninos dulces y suaves que le confieren un amable recorrido en boca; Los aromas que se perciben son de fruta roja al punto de madurez, con notas de cacao y especias con final dulzón
+- Nota de cata (vista): Color rojo picota con irisaciones rubíes
 - Nota de cata (nariz): Aromas frescos y mentolados, toques de cacao y notas especiadas de nuez moscada y pimienta en un fondo de hinojo anisado; Fruta negra madura tipo ciruela y roja como grosella, toques de flores azules y piel de naranja seca
 - Se encuentra en un momento óptimo de consumo, pero se desarrollará favorablemente en botella los próximos tres o cuatro años; La temperatura recomendad de consumo sería entre 15 º y 18 ºC
 - Varietal: 100 % Tempranillo
-- Nota de cata (boca): Gran estructura en boca, pero con taninos dulces y suaves que le confieren un amable recorrido en boca; Los aromas que se perciben son de fruta roja al punto de madurez, con notas de cacao y especias con final dulzón
-- Nota de cata (vista): Color rojo picota con irisaciones rubíes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08WX66Y6P{{</world>}}

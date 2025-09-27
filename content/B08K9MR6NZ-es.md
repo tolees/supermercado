@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona una agradable sensación de frescor
 - Limpia el cabello en profundidad
+- Proporciona una agradable sensación de frescor
 - Nutre e hidrata el cabello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

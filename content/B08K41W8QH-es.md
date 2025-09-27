@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El paquete puede variar
 - Como servir: Servir a temperatura ambiente
+- El paquete puede variar
 - Rojo rubí brillante en colour
-- Una estructura integrada de taninos y una acidez bien equilibrada
 - Aromas de dulces e intensas grosellas negras
+- Una estructura integrada de taninos y una acidez bien equilibrada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08K41W8QH{{</world>}}

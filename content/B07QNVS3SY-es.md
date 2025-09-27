@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Brand: Rimmel London
 - Producto de calidad
+- Brand: Rimmel London
 - Diseño moderno y funcional
 
 [🛒 Aquí!!!]({{< param buyurl >}})

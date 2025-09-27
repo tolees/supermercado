@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fragancia a pepino y té verde
-- Ayuda a reparar la piel de la irritación, incluso después del depilado; 0% alcohol
-- Desodorante antitranspirante aerosol Dove advanced care pepino pack ahorro 2x200ml
 - Desodorante antitranspirante con nuestra fórmula advanced care y tecnología triple hidratante
+- Ayuda a reparar la piel de la irritación, incluso después del depilado; 0% alcohol
+- Fragancia a pepino y té verde
+- Desodorante antitranspirante aerosol Dove advanced care pepino pack ahorro 2x200ml
 - Protección 72h
 
 [🛒 Aquí!!!]({{< param buyurl >}})

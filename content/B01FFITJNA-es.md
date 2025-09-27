@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suave aroma
 - Dulce vainilla
+- Suave aroma
 - Jabón de manos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

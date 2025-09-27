@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nota de cata (vista): Color granate-cereza de intensidad media y destellos violáceos
 - Nota de cata (boca): Se trata de un vino con entrada en boca amable, con tanino ligero, muy pulido. Balanceado y con recuerdos frutales y una persistencia intermedia
-- Varietales: Tempranillo y Garnacha
 - Crianza, D.O.Ca. Rioja
+- Nota de cata (vista): Color granate-cereza de intensidad media y destellos violáceos
+- Varietales: Tempranillo y Garnacha
 - Maridaje: Combina con los quesos cremosos y los semicurados. Los embutidos, setas, platos de legumbres o una tortilla de patatas, además del clásico maridaje: platos de carne con un crianza de Rioja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

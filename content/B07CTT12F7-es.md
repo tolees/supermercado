@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 2 paquetes: 2 x 500 g, total 1 kg
 - Intensidad: 4/5
-- Una mezcla equilibrada, con mucho cuerpo y notas de chocolate negro y caramelo
-- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
-- Adecuado para todas las preparaciones dependiendo de la molienda. Expreso = fina. Filtro = media. Italiana = media. Émbolo = gruesa
-- 65 % arábica, 35 % robusta
 - Tostado y envasado en Italia
+- Adecuado para todas las preparaciones dependiendo de la molienda. Expreso = fina. Filtro = media. Italiana = media. Émbolo = gruesa
+- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
+- Una mezcla equilibrada, con mucho cuerpo y notas de chocolate negro y caramelo
+- 2 paquetes: 2 x 500 g, total 1 kg
+- 65 % arábica, 35 % robusta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CTT12F7{{</world>}}

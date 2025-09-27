@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con un toque de canela y azúcar granulado
 - De textura crujiente
+- Con un toque de canela y azúcar granulado
 - Ideal para acompañar el café
 - Apto para toda la familia
 

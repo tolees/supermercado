@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su textura es ligera y refrescante y de fácil absorción.
 - Apto para todo tipo de pieles.
-- Previene las manchas solares e hidrata durante 24 Horas.
-- Una leche solar de alta protección FPS50 que protege la piel de los rayos UVA y UBV. Su fórmula está enriquecida con Vitamina Cg.
+- Su textura es ligera y refrescante y de fácil absorción.
 - Se recomienda aplicar justo antes de la exposición solar y reaplicar con frecuencia, especialmente después de haberse bañado, haber transpirado o haberse secado con una toalla.
+- Una leche solar de alta protección FPS50 que protege la piel de los rayos UVA y UBV. Su fórmula está enriquecida con Vitamina Cg.
+- Previene las manchas solares e hidrata durante 24 Horas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FB11ZWRR{{</world>}}

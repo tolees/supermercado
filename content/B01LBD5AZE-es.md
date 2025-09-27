@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mejor servido solo o en bebidas alcohólicas como un cóctel MARTINI Bianco and Tonic
+- Acompañe este aperitivo con trozos de queso Grana Padano y pimientos rojos y amarillos dulces rociados con aceite de oliva para mejorar la experiencia
+- Vermut italiano que tiene una base única elaborada a partir de vinos blancos, como el Trebbiano
 - Este vermut blanco está adornado con un aroma de hierbas y flores
 - Una botella de 50 cl de MARTINI Bianco Vermouth Aperitivo
-- Vermut italiano que tiene una base única elaborada a partir de vinos blancos, como el Trebbiano
-- Acompañe este aperitivo con trozos de queso Grana Padano y pimientos rojos y amarillos dulces rociados con aceite de oliva para mejorar la experiencia
-- Mejor servido solo o en bebidas alcohólicas como un cóctel MARTINI Bianco and Tonic
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LBD5AZE{{</world>}}

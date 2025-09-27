@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dentifrico
-- Para toda la familia
 - Protección anticaries
 - Con Flúor y Calcio
-- Cepillándote los dientes dos veces al día
 - Fortalece tus dientes
+- Dentifrico
+- Para toda la familia
 - Pasta dental
+- Cepillándote los dientes dos veces al día
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAARLFE{{</world>}}

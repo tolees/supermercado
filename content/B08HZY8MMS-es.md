@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- champú reparador hecho para cabello dañado debido a coloración o herramientas de secado
-- volumen 1000 ml
-- marca: SEBAMED
 - Para tu cabello
+- champú reparador hecho para cabello dañado debido a coloración o herramientas de secado
+- marca: SEBAMED
+- volumen 1000 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HZY8MMS{{</world>}}

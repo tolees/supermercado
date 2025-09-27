@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con extracto de Pomelo y aceite de Aguacate.
-- Combinación ideal en fórmula de activos para conseguir una acción ultra hidratante y reducir la pérdida de agua.
 - Jabón de manos con polifenoles naturales
+- Combinación ideal en fórmula de activos para conseguir una acción ultra hidratante y reducir la pérdida de agua.
+- Con extracto de Pomelo y aceite de Aguacate.
 - Formulado con ingredientes que limpian la piel de forma eficaz y segura.
 - Con Polifenoles naturales y Urea 10%. pH 5.5
 

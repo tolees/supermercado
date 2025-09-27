@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
-- Café equilibrado e intenso con una textura de cacao
 - Seductora mezcla de granos con un toque de tostado italiano para obtener un café intenso, con carácter y dulzor
-- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Café molido de STARBUCKS, con un dulzor tostado y toques de cacao
+- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Los cafés de tostado intenso de STARBUCKS tienen más intensidad y carácter
+- Café equilibrado e intenso con una textura de cacao
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07X63KLL5{{</world>}}

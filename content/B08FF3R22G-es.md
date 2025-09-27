@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Tous LoveMe  Eau de Parfum para Mujer  Fragancia Floral Afrutada  30 ml con Vaporizador'
-date: 2025-08-09 10:38:19
+date: 2025-09-27 04:33:51
 image: 'https://m.media-amazon.com/images/I/41DNnuyMtTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08FF3R22G-es Tous LoveMe Eau de Parfum para Mujer Fragancia Floral...'
 sku: 'B08FF3R22G-es'
-tags: [ 'Agua de perfume para mujeres','Belleza','Fragancias para mujeres','Perfumes y fragancias','de','eau','parfum','tous','🇪🇸', ]
+tags: [ '9ed22afa-2efb-4171-8c99-31b8476ebf6d_0','9ed22afa-2efb-4171-8c99-31b8476ebf6d_1101','9ed22afa-2efb-4171-8c99-31b8476ebf6d_4701','9ed22afa-2efb-4171-8c99-31b8476ebf6d_5001','9ed22afa-2efb-4171-8c99-31b8476ebf6d_6401','9ed22afa-2efb-4171-8c99-31b8476ebf6d_9901','Agua de perfume para mujeres','Arborist Merchandising Root','Belleza','Esenciales del día a día: Belleza','Fragancias para mujeres','New arrivals in beauty','Novedades: Beleza','Perfumes y fragancias','Self Service','Special Features Stores','Top Brands Beauty Fragrances','Top Brands Beauty Selection','Top Brands Perfumes Selection','de','eau','parfum','top brands_beauty','tous','🇪🇸', ]
 actualPrice: 20.51 EUR
 currency: EUR
 price: 20.51
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TOUS'
 buyurl: 'https://www.amazon.es/dp/B08FF3R22G/?tag=tolees-21'
 descuento: '0.00'
-average: '20.3587272727271'
+average: '20.3640350877191'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Las notas de salida son pomelo rosa, pimienta rosa, lichi; las notas de corazón son peonia, rosa, jazmin; las notas de fondo son cedro, mousse cristal y acorde cahsmere
-- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
-- Perfume Tous con fragancia floral afrutada para mujeres
-- Tous LoveMe es un Eau de Parfum polifacético que se mueve entre la ternura y lo dinámico, entre la suavidad y lo intenso
 - Vaporizador de 30ml
+- Perfume Tous con fragancia floral afrutada para mujeres
+- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
+- Tous LoveMe es un Eau de Parfum polifacético que se mueve entre la ternura y lo dinámico, entre la suavidad y lo intenso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08FF3R22G{{</world>}}

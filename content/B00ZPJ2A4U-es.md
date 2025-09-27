@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Máscara de pestañas que da volumen y levanta las pestañas
+- Proporciona unas pestañas curvadas y gruesas sin grumos
 - El cepillo elevador máximiza las pestañas desde la primera pasada
 - Libre de parabenos y apta para ojos sensibles y usuarias de lentes de contacto
-- Proporciona unas pestañas curvadas y gruesas sin grumos
 - Fórmula resistente al agua que curva las pestañas manteniendo la flexibilidad sin endurecerlas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

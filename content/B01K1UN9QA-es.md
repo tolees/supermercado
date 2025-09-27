@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Si eres de los que sabe disfrutar del sabor más profundo y el aroma más envolvente, este es tu café, especialmente molido para que lo uses en tu cafetera tradicional o de filtro; porque sabemos que eres amante del café intenso
-- Mezcla
-- Café molido para cafetera tradicional o de filtro
 - Peso neto (1 paquete): 500 g
+- Café molido para cafetera tradicional o de filtro
+- Mezcla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01K1UN9QA{{</world>}}

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Hecho de ingredientes de calidad
 - Para uso diario
-- Marca del producto: Clinique
 - Apto para un regalo
+- Marca del producto: Clinique
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09SLMTLG1{{</world>}}

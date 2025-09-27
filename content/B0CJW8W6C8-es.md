@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PARA LAVADORA Y PARA LAVADO A MANO, PARA ROPA BLANCA O DE COLOR. Nuestras tiras de detergente para ropa son aptas para utilizar en lavadora o a mano, con agua caliente o agua fría y para ropa blanca o de color. Nuestro detergente en tiras puede disolverse en agua rápidamente en todas las condiciones.
-- APTO PARA PIELES SENSIBLES. Nuestro detergente tiene fórmula hipoalergénica neutra, PH neutro y sin parabenos. No es dañino para la ropa o la piel.
-- CRUELTY FREE Y VEGANO. Nuestro detergente en tiras es Vegano y Cruelty Free.
-- AYUDA AL MANTENIMIENTO DE TU LAVADORA. Nuestras tiras de detergente se disuelven completamente en el agua, tanto fría como caliente, por tanto no dejan ningún residuo por lo que ayudará al mantenimiento de tu lavadora.
 - 64 o 32 LAVADOS. Con un pack de nuestro detergente para ropa podrás hacer hasta 64 lavados, dependiendo de la carga y de la suciedad de la ropa. Cada caja contiene 32 tiras precortadas por la mitad para que puedas utilizar media tira o una tira completa en función del tipo de lavado.
-- MAS CÓMODO Y ECONÓMICO. Nuestra caja de detergente en tiras para 64 lavados pesa solo 100 gramos. ¿Cuánto dinero necesitarías gastar en detergente y suavizante para 64 lavados? ¿Cuánto ocupa y cuanto pesa un envase de plástico de detergente y otro de suavizante? Nuestro detergente en tiras, además de ayudarte a ganar espacio, te ayudará a ahorrar dinero en detergente y suavizante. Además gracias a su ligero peso, es perfecto para llevar de viaje.
+- APTO PARA PIELES SENSIBLES. Nuestro detergente tiene fórmula hipoalergénica neutra, PH neutro y sin parabenos. No es dañino para la ropa o la piel.
+- PARA LAVADORA Y PARA LAVADO A MANO, PARA ROPA BLANCA O DE COLOR. Nuestras tiras de detergente para ropa son aptas para utilizar en lavadora o a mano, con agua caliente o agua fría y para ropa blanca o de color. Nuestro detergente en tiras puede disolverse en agua rápidamente en todas las condiciones.
 - RESPETUOSO CON EL MEDIO AMBIENTE SIN RENUNCIAR A LA EFICACIA. Nuestro detergente en tiras es biodegradable y se disuelve en agua. A la vez nuestras tiras de detergente proporcionan máxima eficacia en el lavado. Limpia en profundidad y no contamina.
+- MAS CÓMODO Y ECONÓMICO. Nuestra caja de detergente en tiras para 64 lavados pesa solo 100 gramos. ¿Cuánto dinero necesitarías gastar en detergente y suavizante para 64 lavados? ¿Cuánto ocupa y cuanto pesa un envase de plástico de detergente y otro de suavizante? Nuestro detergente en tiras, además de ayudarte a ganar espacio, te ayudará a ahorrar dinero en detergente y suavizante. Además gracias a su ligero peso, es perfecto para llevar de viaje.
+- AYUDA AL MANTENIMIENTO DE TU LAVADORA. Nuestras tiras de detergente se disuelven completamente en el agua, tanto fría como caliente, por tanto no dejan ningún residuo por lo que ayudará al mantenimiento de tu lavadora.
 - DISPONIBLE SIN AROMA, CON AROMA A LAVANDA Y CON AROMA A BRISA OCEÁNICA.
+- CRUELTY FREE Y VEGANO. Nuestro detergente en tiras es Vegano y Cruelty Free.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJW8W6C8{{</world>}}

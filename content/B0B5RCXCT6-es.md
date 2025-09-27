@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Medidas: 2,5 x 2,5 x 6 centímetros
 - ¡Si te gusta lucir lo último en moda y complementos y los accesorios son vitales para el conjunto de tu imagen!
 - Color: multicolor
-- Medidas: 2,5 x 2,5 x 6 centímetros
 - Referencia: S05111977
 - Bronceador de la marca Essence
 

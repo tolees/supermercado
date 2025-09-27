@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vino tinto Gran Reserva, Denominación de Origen Valdepeñas
-- Maridaje ideal con carnes rojas, guisos, carnes de caza y quesos curados
-- Servir entre 18-20ºC. Se recomienda abrir la botella media hora antes de servir o decantar para disfrutar de todo su potencial
 - Elaborado con las mejores uvas Tempranillo de los viñedos propios de la familia Solis
+- Servir entre 18-20ºC. Se recomienda abrir la botella media hora antes de servir o decantar para disfrutar de todo su potencial
+- Maridaje ideal con carnes rojas, guisos, carnes de caza y quesos curados
+- Vino tinto Gran Reserva, Denominación de Origen Valdepeñas
 - Vino de una complejidad sobresaliente, debido a su larga crianza, con aromas de cuero, cacao y especias. En boca: perfecto equilibrio tánico que promete un gran potencial de envejecimiento. Entre los sabores destacan los frutos rojos como frambuesas y moras, vainilla y roble. Es potente y muy sabroso con un agradable y duradero posgusto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

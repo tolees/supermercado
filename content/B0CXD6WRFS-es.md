@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas: 5 x 15,9 x 5 centímetros
 - Tratamiento Capilar Alisador de la marca Garnier
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Color: Multicolor
+- Medidas: 5 x 15,9 x 5 centímetros
 - Referencia: S05120790
+- Color: Multicolor
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXD6WRFS{{</world>}}

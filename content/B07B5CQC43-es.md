@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin gluten
-- Con ingredientes de origen natural
-- Favorece la relajación y contribuye al inicio y al mantenimiento de la calidad normal del sueño
 - Complemento alimenticio con extractos de valeriana, pasiflora y espino blanco
 - Sin lactosa
+- Con ingredientes de origen natural
+- Sin gluten
+- Favorece la relajación y contribuye al inicio y al mantenimiento de la calidad normal del sueño
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07B5CQC43{{</world>}}

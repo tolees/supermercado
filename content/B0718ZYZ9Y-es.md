@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Textura estilo tela
-- Doble Capa
+- Dimensión extra, 39x39cm
 - Servilletas Blancas
 - 40 unidades
-- Dimensión extra, 39x39cm
+- Textura estilo tela
+- Doble Capa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0718ZYZ9Y{{</world>}}

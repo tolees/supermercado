@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tenemos el compromiso de proporcionarte alimentos de la más alta calidad
-- Sopa de rabo de buey, sin conservantes, sin colorantes artificiales, sin glutamato y baja en grasas
-- Contribuye a una alimentación llena de sabor y variedad
-- Sopa deshidratada variada y sabrosa, con sabor tradicional
-- Exquisita e inigualable sopa de rabo de buey elaborada con hortalizas procedentes de agricultura sostenible
 - Knorr Sopa de Rabo de Buey 71g
+- Exquisita e inigualable sopa de rabo de buey elaborada con hortalizas procedentes de agricultura sostenible
+- Contribuye a una alimentación llena de sabor y variedad
+- Tenemos el compromiso de proporcionarte alimentos de la más alta calidad
+- Sopa deshidratada variada y sabrosa, con sabor tradicional
+- Sopa de rabo de buey, sin conservantes, sin colorantes artificiales, sin glutamato y baja en grasas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MDP38S1{{</world>}}

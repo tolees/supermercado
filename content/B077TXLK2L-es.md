@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para servir fría
-- Con espuma cremosa
 - Elaborada según una receta tradicional
 - Cerveza brillante con aspecto dorado
+- Con espuma cremosa
 - Sabor agradable y buen equilibrio en boca
+- Ideal para servir fría
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B077TXLK2L{{</world>}}

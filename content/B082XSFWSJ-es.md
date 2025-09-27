@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Nueva fórmula Best in class: formulación altamente avanzada
 - Espejo incorporado para retoques durante todo el día
 - Aplicación de tacto de seda creando una película fina y cómoda
-- Nueva fórmula Best in class: formulación altamente avanzada
 - Respeta la luminosidad del color
 - Color intenso
 

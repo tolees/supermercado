@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gusto y aroma a frutas
 - Cuerpo denso. Notas caramelizadas
+- Gusto y aroma a frutas
+- De color rojo cobrizo
 - Elaborada con 7 maltas de cebada
 - Cerveza de estilo Red Ale; Malt Beers
-- De color rojo cobrizo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07PFWGJ3G{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmulas ligeras con antioxidantes, vitaminas y extractos naturales
 - Aceite en spray seco que protege como una loción
+- Fórmulas ligeras con antioxidantes, vitaminas y extractos naturales
+- No testado en animales
 - Protege, hidrata, cuida y suaviza la piel
 - Resistente al agua
-- No testado en animales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B003L1AASW{{</world>}}

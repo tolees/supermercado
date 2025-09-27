@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar el producto durante la ducha y por todo el cuerpo
 - Contiene lactourea
+- Aplicar el producto durante la ducha y por todo el cuerpo
 - Gel de ducha para piel extra seca
 - Con protein calcium
 - Tiene un efecto hidratante
