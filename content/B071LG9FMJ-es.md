@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hidrata la piel intensamente.
 - Para todo tipo de piel, incluso piel sensible. Oil Control: controla la oleosidad de la piel grasa.
-- Su fórmula con DNA Repairsomes ayuda a reparar el daño solar acumulado a nivel celular.
-- Alta protección solar facial en crema que protege la piel de la polución y de la radiación UVB/UVA.
 - Con Pep Q10 y Collagen Booster peptide, combate la pérdida de colágeno y ayuda a revertir los signos visibles del fotoenvejecimiento.
+- Alta protección solar facial en crema que protege la piel de la polución y de la radiación UVB/UVA.
+- Hidrata la piel intensamente.
+- Su fórmula con DNA Repairsomes ayuda a reparar el daño solar acumulado a nivel celular.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B071LG9FMJ{{</world>}}

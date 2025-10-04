@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado: Larga duración, suave, dulce, seco
 - Perfecto como un regalo
-- Nariz: Fresco, afrutado, notas de cítricos
+- Acabado: Larga duración, suave, dulce, seco
 - Sabor: floral, notas de enebro, violeta, cáscara de naranja
+- Nariz: Fresco, afrutado, notas de cítricos
 - Color: claro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

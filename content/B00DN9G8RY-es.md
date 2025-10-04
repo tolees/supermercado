@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Puede contener trazas de soja, sésamo y altramuces.
+- Ideal para elaborar masas de panadería o repostería
 - Largo proceso de levitación para una masa más esponjosa
 - Alto contenido en proteínas
-- Ideal para elaborar masas de panadería o repostería
 - Procedente de agricultura ecológica
-- Puede contener trazas de soja, sésamo y altramuces.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00DN9G8RY{{</world>}}

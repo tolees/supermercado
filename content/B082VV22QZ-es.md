@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alérgenos: harina de trigo, cereales que contienen gluten
-- Ingredientes: Harina de TRIGO (56%), agua, aceite vegetal (aceite girasol alto oleico)
-- Mantener en un lugar fresco y seco
 - País de origen: España
+- Alérgenos: harina de trigo, cereales que contienen gluten
+- Mantener en un lugar fresco y seco
+- Ingredientes: Harina de TRIGO (56%), agua, aceite vegetal (aceite girasol alto oleico)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082VV22QZ{{</world>}}

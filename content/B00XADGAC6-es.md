@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Elimina las manchas más difíciles incluso en agua fría
 - Ropa sin manchas, limpia y con un plus de luminosidad
 - Descubre el resto de detergentes y limpialavadoras de Colon
-- Detergente para la lavadora más quitamanchas para la lavadora formato gel
 - Extra luminosidad en tus prendas blancas y de color
+- Detergente para la lavadora más quitamanchas para la lavadora formato gel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XADGAC6{{</world>}}

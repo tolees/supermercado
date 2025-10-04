@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Conservar en lugar fresco y seco
-- Vino tinto de la D.O. Ribera
 - En nariz la gama de frutos rojos, como la frambuesa y la cereza
-- De color rojo cereza
 - Es limpio y brillante
+- Vino tinto de la D.O. Ribera
+- De color rojo cereza
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00G9BQIHS{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Envasado en atmósfera protectora
-- Crujiente y salado
 - Ideal para llevar de picnic
+- Crujiente y salado
 - Snack de patatas
 - Apto para compartir
 

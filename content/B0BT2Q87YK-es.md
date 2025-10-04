@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - FRAGANCIA ORIGINAL: con la fragancia original
-- ESTIMULACIÓN DE SUS SENTIDOS: gracias a su suave textura, olor y a tus mimos que tanto le gustan
+- CONSEJOS DE USO: Enjabona a tu bebé desde el cuello hasta los pies con un delicado masaje; aclara cuidadosamente su cuerpecito, dejando el cabello en último lugar para evitar que coja frío
 - HIGIENE DIARIA: suavidad y respeto por la higiene diaria de la delicada piel de tu bebé
 - DERMATOLÓGICAMENTE TESTADO: Su fórmula ha sido clínicamente testada bajo control dermatológico
-- CONSEJOS DE USO: Enjabona a tu bebé desde el cuello hasta los pies con un delicado masaje; aclara cuidadosamente su cuerpecito, dejando el cabello en último lugar para evitar que coja frío
+- ESTIMULACIÓN DE SUS SENTIDOS: gracias a su suave textura, olor y a tus mimos que tanto le gustan
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BT2Q87YK{{</world>}}

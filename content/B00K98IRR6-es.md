@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deja el cabello fácil de peinar y manejable
 - Proporciona suavidad al cabello
+- Deja el cabello fácil de peinar y manejable
 - Sin sulfatos
 - Marca: REVLON
 

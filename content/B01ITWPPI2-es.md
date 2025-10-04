@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es descafeinado
+- Ideal para el desayuno o una pausa durante el día
 - Conservar en lugar fresco y seco
 - Fácil y rápido de preparar
-- Ideal para el desayuno o una pausa durante el día
+- Es descafeinado
 - Se disuelve en agua o leche
 
 [🛒 Visítala!!!]({{< param buyurl >}})

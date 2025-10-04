@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mantener en un lugar fresco y seco
 - Puede contener trigo y frutos de cáscara arbóreos, contiene leche, avellanas, soja
 - Chocolate con burbujas y chocolate
-- Milka Bubbly leche
+- Mantener en un lugar fresco y seco
 - Chocolate con leche de los alpes aireado
+- Milka Bubbly leche
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0742MFVWP{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor intenso
-- Atrévete con el sabor intenso de la Salsa Brava PRIMA y dale ese sabor tan especial a tus patatas. Sin gluten.
 - Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
 - Misma receta ahora envasada en botella 100% reciclada
 - Ideal para dar sabor a tus patatas
+- Atrévete con el sabor intenso de la Salsa Brava PRIMA y dale ese sabor tan especial a tus patatas. Sin gluten.
+- Sabor intenso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMLS5LGY{{</world>}}

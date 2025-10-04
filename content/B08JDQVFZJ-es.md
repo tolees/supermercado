@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ingredientes: Agua de parque natural, Avena (12%), Aceite de Nabina, Carbonato Cálcico + Fosfato tricálcico, Sal marina
 - Pack de 6 x 1L
-- Textura cremosa perfecto para el café
-- Sin azúcares añadidos, sin aditivos, hecha con Agua del parque natural del Montseny
 - Bebida de Avena 100% vegetal para Baristas
+- Sin azúcares añadidos, sin aditivos, hecha con Agua del parque natural del Montseny
+- Textura cremosa perfecto para el café
+- Ingredientes: Agua de parque natural, Avena (12%), Aceite de Nabina, Carbonato Cálcico + Fosfato tricálcico, Sal marina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08JDQVFZJ{{</world>}}

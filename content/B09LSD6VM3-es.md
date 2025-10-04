@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Puede contener trazas de alegría
 - Suave
 - Regalo de alegria, ideal para esa persona que aprecias o para ti mismo.
-- Puede contener trazas de alegría
 - Aterciopelado
 - Vino tinto espectacular capaz de maridar hasta solo
 

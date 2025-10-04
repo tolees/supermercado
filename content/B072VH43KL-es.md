@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para cabellos medianos a largos. 4 años de garantía
 - ¡Nota! Enchufe británico. Si el dispositivo se sobrecalienta y luego tropeza con el termostato, la toma de aire puede bloquearse y necesita limpieza, además no trabajar la parte de toma de aire.
+- Ideal para cabellos medianos a largos. 4 años de garantía
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B072VH43KL{{</world>}}

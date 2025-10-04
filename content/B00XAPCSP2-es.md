@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Caramelos de goma.
 - De distintos colores y sabores.
+- Caramelos de goma.
 - Divertidas piezas con forma de largos gusanitos bicolor
 
 [🛒 Visítala!!!]({{< param buyurl >}})

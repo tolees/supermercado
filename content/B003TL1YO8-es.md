@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Contiene prebióticos para mejorar la digestión
 - Cuidadoso proceso de elaboración a baja temperatura para mantener su alto valor nutritivo y la estabilidad de sus vitaminas
-- Ayuda reducir los residuos y la contaminación del agua
 - Alimento completo nutritivo para una dieta óptima
+- Ayuda reducir los residuos y la contaminación del agua
 - Con concentrado de color para peces con bellas tonalidades
 
 [🛒 Aquí!!!]({{< param buyurl >}})

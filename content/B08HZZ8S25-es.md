@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Volumen 500 ml
 - Proporciona hidratación, brillo, y suavidad
+- Volumen 500 ml
 - Obtén hidratación instantánea y de larga duración con esta amplia gama enriquecida con nuestro sistema provitamina B5
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

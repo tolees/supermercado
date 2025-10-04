@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SABOR ÚNICO: Espectacular armonía de colores, todo el arco iris en un té verde, una explosión de sabores. ¡Irresistible tentación!
-- CONSERVACIÓN ÓPTIMA: Las latas son perfectas para conservar óptimamente el té ya que permite tenerlo almacenado en un sitio cerrado y seco de modo que mantiene íntegras sus texturas, aromas y propiedades
-- PIRÁMIDE DE MATERIAL COMPOSTABLE: Malla biodegradable compuesta a partir del azúcar de caña, con una bolsa mas grande que favorece una mejor circulación del agua a través de las hebras.
 - FRÍA O CALIENTE: recomendamos verter agua hirviendo sobre la pirámide y dejarla en infusión de 2 a 3 minutos. Es perfecta para tomarla fría, calentando y previamente infusionando o caliente recién infusionada.
+- PIRÁMIDE DE MATERIAL COMPOSTABLE: Malla biodegradable compuesta a partir del azúcar de caña, con una bolsa mas grande que favorece una mejor circulación del agua a través de las hebras.
+- CONSERVACIÓN ÓPTIMA: Las latas son perfectas para conservar óptimamente el té ya que permite tenerlo almacenado en un sitio cerrado y seco de modo que mantiene íntegras sus texturas, aromas y propiedades
+- SABOR ÚNICO: Espectacular armonía de colores, todo el arco iris en un té verde, una explosión de sabores. ¡Irresistible tentación!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09SZ77M7S{{</world>}}

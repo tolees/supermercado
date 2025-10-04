@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Pastilla de caldo de pescado
 - Caldo Pastilla Knorr Pescado 12 pastillas
+- Número 1 en ventas
 - Sin gluten
 - Sin colorantes
-- Número 1 en ventas
 - Con un toque de aceite de oliva virgen extra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

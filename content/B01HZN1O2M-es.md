@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dermatológicamete testado
 - Piel más suave y lisa
 - Cuidado de la piel y el cabello
+- Dermatológicamete testado
 - Mejora la hidratación de la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

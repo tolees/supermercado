@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para cabellos rizados que tienden al encrespamiento
 - Producto de calidad óptima
+- Para cabellos rizados que tienden al encrespamiento
 - Tratamiento sin aclarado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

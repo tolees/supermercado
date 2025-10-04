@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - De textura crujiente
+- Ideal para acompañar el café
 - Con un toque de canela y azúcar granulado
 - Apto para toda la familia
-- Ideal para acompañar el café
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTYLSN43{{</world>}}

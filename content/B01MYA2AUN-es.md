@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elaborado con ingredientes procedentes de agricultura ecológica
-- Certificado gluten free, apto para dietas celiacas
 - Rellenas de crema de cacao
 - Contiene huevo. Puede contener trazas de cacahuetes, soja y otros frutos de cáscara.
+- Certificado gluten free, apto para dietas celiacas
 - Sin leche
+- Elaborado con ingredientes procedentes de agricultura ecológica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01MYA2AUN{{</world>}}

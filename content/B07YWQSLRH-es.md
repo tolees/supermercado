@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene derivado de proteína de limón
-- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
 - Con activos fortificantes de frutas
+- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
+- Contiene derivado de proteína de limón
 - Enriquecida con vitaminas B3 y B6
 - Ideal pelo rizado u ondulado
 

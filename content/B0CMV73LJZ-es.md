@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ESTUCHE DE REGALO: Estuche femenino con un carácter atrayente, es dulce como el algodón de azúcar y meloso como un caramelo. El pack incluye un perfume, una crema de manos y un gel de baño. Colonia con vaporizador.
-- TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia oriental vainilla ideal para personas optimistas, colaboradoras y originales.
-- PIRÁMIDE OLFATIVA: Notas de salida: naranja siciliana, frambuesa y hojas de higuera; Notas de corazón: lirio del valle, regaliz y frutos rojos; Notas de fondo: vainilla y caramelo.
 - DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
+- TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia oriental vainilla ideal para personas optimistas, colaboradoras y originales.
+- ESTUCHE DE REGALO: Estuche femenino con un carácter atrayente, es dulce como el algodón de azúcar y meloso como un caramelo. El pack incluye un perfume, una crema de manos y un gel de baño. Colonia con vaporizador.
+- PIRÁMIDE OLFATIVA: Notas de salida: naranja siciliana, frambuesa y hojas de higuera; Notas de corazón: lirio del valle, regaliz y frutos rojos; Notas de fondo: vainilla y caramelo.
 - FEMENINO Y PRIMAVERAL: Un perfume para mujeres que evoca sensaciones deliciosas e irressitibles y que te envolverá en la más dulce de las fiestas, ideal para mujeres originales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

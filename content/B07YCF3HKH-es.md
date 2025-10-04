@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🌿 BOTÁNICOS INTENSIFICADOS: Conserva la esencia de Martin Miller’s Gin, pero con notas cítricas y de enebro más pronunciadas, resaltando su carácter fresco y vibrante.
+- 🏆 PRODUCCIÓN LIMITADA: De cada barrica de roble americano se producen aproximadamente 2,000 botellas numeradas de Martin Miller’s 9 Moons, garantizando una edición limitada.
 - 🛢 ENVEJECIMIENTO EN SISTEMA SOLERA VAT: La ginebra reposa en barricas seleccionadas, permitiendo una evolución gradual del sabor con una suavidad excepcional.
+- 🌿 BOTÁNICOS INTENSIFICADOS: Conserva la esencia de Martin Miller’s Gin, pero con notas cítricas y de enebro más pronunciadas, resaltando su carácter fresco y vibrante.
 - 🍦 TOQUE DE VAINILLA Y CREMOSIDAD: La madera de roble aporta sutiles matices dulces de vainilla y una textura sedosa que añade profundidad a cada sorbo.
 - 🍸 ORIGEN INNOVADOR DE NUEVA YORK: Inspirada por mixólogos neoyorquinos que descubrieron el potencial de envejecer Martin Miller’s Gin en barricas de roble, logrando un perfil característico.
-- 🏆 PRODUCCIÓN LIMITADA: De cada barrica de roble americano se producen aproximadamente 2,000 botellas numeradas de Martin Miller’s 9 Moons, garantizando una edición limitada.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07YCF3HKH{{</world>}}

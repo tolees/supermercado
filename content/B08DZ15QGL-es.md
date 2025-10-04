@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Temperatura de servicio: 14 - 16ºC.
 - Variedad: Tempranillo con graduación de 14º
-- Capacidad: 1 botella de 1500 ml
 - Maridaje: Combima bien con la caza, magret de pato y carnes rojas.
+- Capacidad: 1 botella de 1500 ml
 - Nota de cata: De intenso color picota, en nariz dominan aromas a frutas en mermelada y a maderas balsámicas con recuerdos a infusiones y té, coco, notas lácticas, cacao y especias. En boca cuenta con una gran estructura, sabroso, equilibrado y elegante.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

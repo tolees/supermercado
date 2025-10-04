@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Surtido de golosinas
-- Delicioso mix de diferentes piezas
 - Contiene ositos de oro, fresón, colas, berries y corazones
 - ‎Almacenar en un sitio seco y oscuro
+- Surtido de golosinas
+- Delicioso mix de diferentes piezas
 - Irresistible mix de sabores
 
 [🛒 Aquí!!!]({{< param buyurl >}})

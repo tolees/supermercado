@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Este es un aroma de primavera, frescura y energía
-- Diseño de la botella elegante
 - Alegre y femenina
+- Diseño de la botella elegante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C416ZR9J{{</world>}}

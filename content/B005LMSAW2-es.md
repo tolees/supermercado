@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sin efecto de máscara
-- No se acumula en las arrugas
 - Una fórmula no comedogénica que hidrata, repara y protege la piel a largo plazo
+- No se acumula en las arrugas
 - Una cobertura completa que ilumina la piel, cubriendo al mismo tiempo las imperfecciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

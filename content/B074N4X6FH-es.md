@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con aroma ligero, limpio y cítrico, con notas de cilantro y pomelo
 - Sabor suave y sedoso, refrescante cítrico de piel naranja y algo de violeta y salvia
-- Ginebra mediterránea destilada a partir de productos naturales
+- Con aroma ligero, limpio y cítrico, con notas de cilantro y pomelo
 - De color cristalino y brillante
+- Ginebra mediterránea destilada a partir de productos naturales
 - Perfecto para mezclar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Máscara para cabello dañado fortalece el cabello debilitado, excelente producto de belleza para cabello suave
 - Unidad del producto: 500 ml
+- Máscara para cabello dañado fortalece el cabello debilitado, excelente producto de belleza para cabello suave
 - Deja un brillo sedoso y de alta calidad
 - Mascarilla intensiva regeneradora para cabello dañado
 

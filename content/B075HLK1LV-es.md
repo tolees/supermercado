@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con activos naturales
 - Testado pediátrico y dermatológico
+- Con activos naturales
 - Loción corporal hidratante para pieles sensibles
 - Adecuado para recién nacidos
 - Sin parabenos y alérgenos

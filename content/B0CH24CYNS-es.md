@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cómoda, práctica y fácil de usar
+- La siguiente información se aplica a cada unidad del paquete
 - Protege eficazmente la piel
 - Apta para pieles sensibles
 - Hecho sin parabenos
 - Viene en un pequeño y conveniente formato roll on
-- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CH24CYNS{{</world>}}

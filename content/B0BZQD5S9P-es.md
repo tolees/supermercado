@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Deja las manos limpias
 - Con protección total contra agentes externos
-- Este jabón preserva la hidratación natural de la piel
 - Deja las manos hidratadas
+- Deja las manos limpias
+- Este jabón preserva la hidratación natural de la piel
 - Con almendras y jalea real
 
 [🛒 Comprar!!!]({{< param buyurl >}})

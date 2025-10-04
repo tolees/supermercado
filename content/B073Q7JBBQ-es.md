@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BRO NIVEA NECESER MINIS 12262 (4005900419996)
 - Neceser para maquillaje Utensilios y accesorios
+- BRO NIVEA NECESER MINIS 12262 (4005900419996)
 - Bolsas y estuches Nivea
 
 [🛒 Visítala!!!]({{< param buyurl >}})

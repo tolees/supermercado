@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Conservar en un lugar fresco y seco
+- Sabor naranja y menta
 - Edición limitada
 - País de origen: España
 - Alérgenos: grasa láctea y leche
-- Sabor naranja y menta
-- Conservar en un lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XY8B2QP{{</world>}}

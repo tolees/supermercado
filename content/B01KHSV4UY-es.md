@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Permite crear tonalidades e intensidades de color antes de su fijación
-- Intensidad de color en textura cremosa hasta 24 horas
-- Colorstay larga duración
 - Fácil y cómoda aplicación con cepillo incluido y Waterproof
+- Colorstay larga duración
+- Intensidad de color en textura cremosa hasta 24 horas
+- Permite crear tonalidades e intensidades de color antes de su fijación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01KHSV4UY{{</world>}}

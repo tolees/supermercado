@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Envase: 215 mililitros
 - Ideal como aderezo para acompañar en hamburgueses, sándwiches, patatas o tus platos favoritos
-- Salsa Sriracha mayo, es una salsa irresistible que combina lo mejor de la mayonesa con la salsa Sriracha, creando una salsa cremosa con el toque picante y característico de la Sriracha
 - Ingredientes: Aceite de nabina 45 percent, agua, salsa sriracha 20 percent (pimiento chile rojo, azúcar, ajo, sal, agua, acidulantes: ácido acético, ácido cítrico; potenciador del sabor: glutamato monosódico, conservante: benzoato de sodio), azúcar, vinagre, mostaza (agua, vinagre, semilla de MOSTAZA, azúcar, sal), sal, almidones modificados, acidulante: ácido láctico, HUEVO entero en polvo, conservantes: sorbato de potasio, benzoato de sodio; espesante: goma xantana, antioxidante: calcio-disodio-EDTA
 - Alérgenos: Mostaza, huevo
+- Salsa Sriracha mayo, es una salsa irresistible que combina lo mejor de la mayonesa con la salsa Sriracha, creando una salsa cremosa con el toque picante y característico de la Sriracha
+- Envase: 215 mililitros
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XR5YFFM{{</world>}}

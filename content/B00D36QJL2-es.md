@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfilador de ojos ultrasuave y delicado
 - Firme para definir correctamente el ojo
+- Mantiene la hidratación del delicado contorno de ojos
+- Perfilador de ojos ultrasuave y delicado
 - Suave y ligero para las zonas delicadas de los ojos
 - Puede usarse también como sombra para un efecto Smokey Eye
-- Mantiene la hidratación del delicado contorno de ojos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00D36QJL2{{</world>}}

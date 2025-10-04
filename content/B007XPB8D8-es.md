@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CUIDADO URINARIO: Combinación de minerales e ingredientes específicos para un pH óptimo de la orina.
-- FÁCIL DIGESTIÓN: Pavo, cebada e inmunoglobulinas que ayudan a la salud digestiva y del intestino.
-- ADVANCE Sterilized Adult es un alimento completo y equilibrado formulado específicamente para gatos adultos esterilizados. Tiene como ingredientes principales el pavo y la cebada.
-- CONTROL DE PESO: Con fibra y L-Carnitina. Reduce el nivel calórico del alimento y ayuda a metabolizar la grasa.
 - SALUD DENTAL: Con minerales especiales (pirofosfatos) que ayudan a prevenir la formación de sarro y favorecen el buen aliento.
+- ADVANCE Sterilized Adult es un alimento completo y equilibrado formulado específicamente para gatos adultos esterilizados. Tiene como ingredientes principales el pavo y la cebada.
+- CUIDADO URINARIO: Combinación de minerales e ingredientes específicos para un pH óptimo de la orina.
+- CONTROL DE PESO: Con fibra y L-Carnitina. Reduce el nivel calórico del alimento y ayuda a metabolizar la grasa.
+- FÁCIL DIGESTIÓN: Pavo, cebada e inmunoglobulinas que ayudan a la salud digestiva y del intestino.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B007XPB8D8{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Irresistible mix de sabores
 - Deliciosas piezas redondeadas
+- Irresistible mix de sabores
 - Caramelos grageados
 
 [🛒 Visítala!!!]({{< param buyurl >}})

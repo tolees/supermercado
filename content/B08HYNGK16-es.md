@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PARA CUALQUIER OCASIÓN: ¿Buscas crear looks de fantasía o dar un toque de color a tu cat eye habitual? Utiliza cada día el que mejor se adapte a tu estado de ánimo. ¡Tú decides!
 - VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, sin parabenos y sin crueldad animal.
-- PUNTA SÚPER PRECISA: punta fina y flexible de alta precisión para un delineado de ojos perfecto o atrévete con líneas finas y looks geométricos ¡Guárdalo boca abajo para un pincel saturado de color!
-- EYELINERS DE COLORES: delineadores líquidos de colores vibrantes y atrevidos. Nuestros eyeliners altamente pigmentados de acabado mate son ideales para todo tipo de pieles.
 - LARGA DURACIÓN: épicos eyeliners líquidos de 10h de duración para un maquillaje perfecto del día a la noche. Además, está formulado para ojos sensibles. ¡Sin duda un imprescindible!
+- EYELINERS DE COLORES: delineadores líquidos de colores vibrantes y atrevidos. Nuestros eyeliners altamente pigmentados de acabado mate son ideales para todo tipo de pieles.
+- PARA CUALQUIER OCASIÓN: ¿Buscas crear looks de fantasía o dar un toque de color a tu cat eye habitual? Utiliza cada día el que mejor se adapte a tu estado de ánimo. ¡Tú decides!
+- PUNTA SÚPER PRECISA: punta fina y flexible de alta precisión para un delineado de ojos perfecto o atrévete con líneas finas y looks geométricos ¡Guárdalo boca abajo para un pincel saturado de color!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HYNGK16{{</world>}}

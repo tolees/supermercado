@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El champú T/Gel para caspa seca de 250 ml de los laboratorios Neutrogena elimina la caspa desde el primer uso.
 - Su fórmula especialmente diseñada para cabellos secos repara dejando nutridos y protegidos. Adecuado para uso diario.
 - Aplicar sobre el cabello mojado, masajear el cuero cabelludo y luego enjuagar. Evitar el contacto con los ojos. En caso de contacto con los ojos, enjuagar con abundante agua.
+- El champú T/Gel para caspa seca de 250 ml de los laboratorios Neutrogena elimina la caspa desde el primer uso.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0826BVSVK{{</world>}}

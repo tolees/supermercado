@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La siguiente información se aplica a cada unidad del paquete
+- Realizada por una receta clásica
 - Sin gluten
 - Bolsa de patatas fritas
-- Realizada por una receta clásica
-- Sabor original y la personalidad del vinagre
 - Almacenar en un sitio seco y oscuro
-- La siguiente información se aplica a cada unidad del paquete
+- Sabor original y la personalidad del vinagre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FGK13XH3{{</world>}}

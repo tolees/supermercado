@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula líquida muy pigmentada que proporciona un look de ojos atrevido
-- Dermatológicamente y oftalmológicamente probado
 - El aplicador, con máximo control, ayuda a crear una línea uniforme y definida alrededor del contorno del ojo
+- Fórmula líquida muy pigmentada que proporciona un look de ojos atrevido
 - Delineador líquido con punta de fieltro de precisión
+- Dermatológicamente y oftalmológicamente probado
 - Resistente al agua y a prueba de roces
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

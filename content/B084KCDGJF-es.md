@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sabor sal
 - Ideal para picar
 - Realizadas con solo patatas, aceite y sal
-- Patatas fritas de bolsa
 - Gran calidad
-- Sabor sal
+- Patatas fritas de bolsa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084KCDGJF{{</world>}}

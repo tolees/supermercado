@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fragancia de larga duración para todo tipo de pieles
-- Marca del producto: adidas
 - Fragancia de mujer
 - Para uso diario
+- Fragancia de larga duración para todo tipo de pieles
+- Marca del producto: adidas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000NI4ZLE{{</world>}}

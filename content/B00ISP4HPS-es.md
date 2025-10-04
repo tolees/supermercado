@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene nutrientes que ayudarán al bebé a crecer
 - Es una fuente natural de calcio
-- Una vez abierto conservar en el frigorífico
 - Con un ligero y fresco sabor a fresa
 - Fabricado sin colorantes, conservantes ni sabores artificiales
+- Una vez abierto conservar en el frigorífico
+- Contiene nutrientes que ayudarán al bebé a crecer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00ISP4HPS{{</world>}}

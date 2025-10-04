@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Triple Capa
-- Impresas con tintas al agua, no tóxicas
 - 20 unidades
-- Servilletas decoradas de Navidad
 - Tamaño estándar, 33x33cm
+- Impresas con tintas al agua, no tóxicas
+- Servilletas decoradas de Navidad
+- Triple Capa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N49J0CV{{</world>}}

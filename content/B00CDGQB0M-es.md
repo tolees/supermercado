@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo entre los 6 y 8 ºC y conservarlo en en buenas condiciones de humedad
-- Gusto: En boca es sabroso y refrescante, abierto en boca, con un final persistente y un retrogusto afrutado
 - Maridaje: Este vino es adecuado para acompañar con platos ligeros como el marisco, pescado asado, sushi o anchoas
-- Tipo de uva: Elaborado con la selección de uvas Verdejo, una de las uvas blancas más reconocidas y que más gusta en nuestro país; la fermentación se hace en depósitos de acero inoxidable con un estricto control de temperatura entre 13 y 15 grados
 - Apariencia: Vino blanco color amarillo pálido y aspecto brillante con matices verdosos
+- Tipo de uva: Elaborado con la selección de uvas Verdejo, una de las uvas blancas más reconocidas y que más gusta en nuestro país; la fermentación se hace en depósitos de acero inoxidable con un estricto control de temperatura entre 13 y 15 grados
 - Aroma: Destacan los aromas varietales frescos con alta intensidad de piña, melón y maracuyá sobre un fondo de anís
+- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo entre los 6 y 8 ºC y conservarlo en en buenas condiciones de humedad
 - El paquete puede variar
+- Gusto: En boca es sabroso y refrescante, abierto en boca, con un final persistente y un retrogusto afrutado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CDGQB0M{{</world>}}

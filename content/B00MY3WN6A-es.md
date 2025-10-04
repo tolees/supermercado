@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
+- Ideal como snack
 - Disfrutar de ellos a todas horas y en cualquier lugar
 - Producto de aperitivo de maíz horneado
-- Ideal como snack
 - Puede contener lactosa
+- Conservar en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MY3WN6A{{</world>}}

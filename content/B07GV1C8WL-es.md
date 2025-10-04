@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto para el cuidado personal
 - Producto de calidad óptima
+- Producto para el cuidado personal
 - Agradable sensación en la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

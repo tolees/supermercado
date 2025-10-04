@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Combate las imperfecciones con esta rutina de 2 pasos, incluye: Serum Anti-Imperfecciones con 4% de Niacinamida, AHA y BHA: El poder del sérum negro, con una combinación de ingredientes seleccionados para reducir las imperfecciones y mantener una piel más lisa y uniforme
-- CARBÓN: Un ingrediente de origen natural conocido por ayudar a purificar y matificar la piel; NIACINAMIDA: conocida por aliviar la sensación de incomodidad. -44% Granitos* -41% Marcas de Acné**
 - *Test clínico en 37 personas, aplicación dos veces por día durante 21 días;**Contraste entre marcas residuales y zona sin manchas, Test clínico, 55 personas, aplicación dos veces al día durante 42 días
 - Crema Fluida UV Diaria y Anti-imperfecciones FPS50+; puede ser utilizada por la mañana como hidratante o aplicada encima de tu crema de día antes del maquillaje, proporcionando una defensa diaria contra los rayos UV; además, reduce en hasta un 66% en la aparición de granitos, un 32% en la apariencia de marcas de acné, y un 31% en la visibilidad de los poros
+- CARBÓN: Un ingrediente de origen natural conocido por ayudar a purificar y matificar la piel; NIACINAMIDA: conocida por aliviar la sensación de incomodidad. -44% Granitos* -41% Marcas de Acné**
 - El Sérum con Niacinamida Garnier Pure Active se compone de: AHA (Ácido Láctico): conocido por exfoliar la piel apagada y irregular; BHA (Ácido Salicílico): por ayudar a reducir los granos y los poros
 
 [🛒 Visítala!!!]({{< param buyurl >}})

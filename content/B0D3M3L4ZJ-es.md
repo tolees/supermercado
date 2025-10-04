@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Champú para cabellos
 - Agradable sensación en el pelo
+- Champú para cabellos
 - Fórmula nutritiva para cabellos dañados
 
 [🛒 Comprar!!!]({{< param buyurl >}})

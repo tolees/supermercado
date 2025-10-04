@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sin aceite de palma, ni colorantes, ni aromas artificiales
+- Son fuente de fibra y tienen vitaminas del grupo B, calcio, hierro y ácido fólico
 - Cada estuche contiene, aproximadamente, 12 porciones de 30 g
 - Los cereales de siempre, con el inconfundible sabor a CHOCAPIC
-- Son fuente de fibra y tienen vitaminas del grupo B, calcio, hierro y ácido fólico
-- Sin aceite de palma, ni colorantes, ni aromas artificiales
 - Cereales integrales como ingrediente principal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

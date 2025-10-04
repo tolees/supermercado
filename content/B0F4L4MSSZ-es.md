@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🌞 MODO DE EMPLEO: Agita antes de usar, aplica en rostro y cuerpo, incluyendo cuello, orejas y empeines. Absorbe hasta uniformidad. Reaplica cada 2h o tras baño o sudor.
 - ✨ BENEFICIOS: Origen 100% natural sin nanoparticulas, compuestos sintéticos ni filtros químicos . Nutre e hidrata la piel con ácido hialurónico mientras proteges tu piel con SPF 50 de amplio espectro contra UVA/UVB. Neutraliza y repara el daño solar con antioxidantes naturales además de proteger del fotoenvejecimiento.
+- 🌞 MODO DE EMPLEO: Agita antes de usar, aplica en rostro y cuerpo, incluyendo cuello, orejas y empeines. Absorbe hasta uniformidad. Reaplica cada 2h o tras baño o sudor.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4L4MSSZ{{</world>}}

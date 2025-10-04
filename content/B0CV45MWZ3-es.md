@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Isabel garantiza la sostenibilidad y trazabilidad de sus productos, asegurando prácticas de pesca responsables.
 - Isabel se destaca como una marca de confianza, comprometida con la excelencia y la sostenibilidad en cada producto.
-- Confía en la calidad de las conservas Isabel, una de las marcas de confianza más reconocidas en el mercado.
 - Disfruta con el auténtico sabor del atún en conserva Isabel, elaborado con ingredientes de la más alta calidad.
+- Isabel garantiza la sostenibilidad y trazabilidad de sus productos, asegurando prácticas de pesca responsables.
+- Confía en la calidad de las conservas Isabel, una de las marcas de confianza más reconocidas en el mercado.
 - Isabel ofrece conservas de casa que combinan tradición y modernidad, perfectas para cualquier plato.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

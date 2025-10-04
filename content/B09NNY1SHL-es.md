@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Penetra hasta 10 capas bajo la superficie de la piel para lograr una eficacia óptima
-- Piel claramente más luminosa en 1 día y un tono de piel más uniforme en 14 días
+- Sérum de día con vitamina C, AHA y Niacinamida
 - Hidratación instantánea durante 24 horas
 - Testado dermatológicamente, este sérum iluminador con vitamina C se ha diseñado sin colorantes sintéticos
-- Sérum de día con vitamina C, AHA y Niacinamida
+- Piel claramente más luminosa en 1 día y un tono de piel más uniforme en 14 días
 - Nuestro sérum con vitamina C con un ligero aroma cítrico se funde con la piel y no obstruye los poros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

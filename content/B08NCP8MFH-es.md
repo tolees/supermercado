@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La cerveza El Águila Dorada tiene un color rubio brillante, y una espuma blanca consistente, y destaca por la calidad de sus maltas caramelizadas y la mezcla de lúpulos Lemondrop y Perlé.
 - Elaborada con ingredientes naturales: agua, malta de cebada, maíz y lúpulo.
-- Consumirla entre 0° y 3°C para obtener sus máximas cualidades.
 - Disfrútala en un cómodo pack de latas de cerveza de 24 x 33cl.
-- 5,5% de alcohol en volumen, El Águila Dorada te ofrece un sabor característico de amargor suave. Perfecta para disfrutarla en cualquier momento del día.
 - La cerveza El Águila Dorada ofrece una experiencia cítrica muy refrescante, siendo un tipo de cerveza lager de cuerpo medio.
 - Saborea esta cerveza lager especial de aroma frutal y notras cítricas. La cerveza El Águila Dorada de baja fermentación regresa inspirada en su receta original añadiendo un toque actual.
+- Consumirla entre 0° y 3°C para obtener sus máximas cualidades.
+- 5,5% de alcohol en volumen, El Águila Dorada te ofrece un sabor característico de amargor suave. Perfecta para disfrutarla en cualquier momento del día.
+- La cerveza El Águila Dorada tiene un color rubio brillante, y una espuma blanca consistente, y destaca por la calidad de sus maltas caramelizadas y la mezcla de lúpulos Lemondrop y Perlé.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08NCP8MFH{{</world>}}

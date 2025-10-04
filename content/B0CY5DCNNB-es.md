@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - En prácticas bolsitas
-- Nuevos Dinosaurus SIN GLUTEN
 - ¡Disfrútalas donde quieras!
+- Nuevos Dinosaurus SIN GLUTEN
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY5DCNNB{{</world>}}

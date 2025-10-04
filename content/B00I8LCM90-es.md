@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Inspirada en el estilo de vida brasileño
 - Fragancia afrutada y floral
 - Sus notas superiores son burbujas de granadina así como el nenufar es su nota del corazón y las notas bases son de ámbar
-- Inspirada en el estilo de vida brasileño
 - Para mujeres que disfrutan de su belleza con una elegancia natural
 - Eau de Toilette para mujer 50 ml
 

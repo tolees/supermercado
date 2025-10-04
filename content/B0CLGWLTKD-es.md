@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Optima hidratación y cobertura en una sola aplicación
-- Fórmula antioxidante y vegana que funciona como un escudo para proteger la piel de la contaminación y de los rayos UVA UVB, gracias a su SPF 20
 - Disponible en distintos tonos
 - Descubre la base compacta Facefinity Compact Foundation
+- Optima hidratación y cobertura en una sola aplicación
+- Fórmula antioxidante y vegana que funciona como un escudo para proteger la piel de la contaminación y de los rayos UVA UVB, gracias a su SPF 20
 - Incorpora una esponja y espejo para una aplicación sencilla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

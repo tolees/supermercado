@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tenemos el compromiso de proporcionarte alimentos de calidad
-- Contribuye a una alimentación llena de sabor y variedad
 - Pasta carbonara hecha con ingredientes de agricultura sostenible
 - Pasta carbonara sin colorantes y sin glutamato añadido
+- Contribuye a una alimentación llena de sabor y variedad
+- Tenemos el compromiso de proporcionarte alimentos de calidad
 - Disfruta de un delicioso plato de pasta carbonara en menos de 5 minutos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

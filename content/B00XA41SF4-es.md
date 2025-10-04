@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantenga en un lugar fresco y seco
-- 10 veces más duradero
-- La fórmula de Flor está diseñada para liberar fragancia continuamente durante semanas
 - Formato profesional
+- Mantenga en un lugar fresco y seco
+- La fórmula de Flor está diseñada para liberar fragancia continuamente durante semanas
+- 10 veces más duradero
 - Suavizante concentrado fragancia Nenuco
 
 [🛒 Comprar!!!]({{< param buyurl >}})

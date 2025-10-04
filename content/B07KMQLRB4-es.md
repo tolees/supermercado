@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Marca: LOreal Paris
-- Color intenso y duradero
 - Fácil de aplicar
 - Textura suave
+- Color intenso y duradero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KMQLRB4{{</world>}}

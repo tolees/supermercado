@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vienen en prácticas bolsitas fáciles de llevar, perfectas para transportar en el bolso o la mochila, lo que hace que sean una opción perfecta para los momentos en que estás fuera de casa con tu peque
-- En Hero queremos seguir acompañando el desarrollo de tus niños, por eso lanzamos KIDS, una gama de snacks hechos especialmente para los peques de la casa, con lo bueno de la fruta y los cereales
-- Elaboradas a base de arroz, concentrado de zumo de manzanas, arándanos, fresas y cerezas, extracto de vainilla y tiamina. Son una fuente de Vitamina B1 y fibra, que contribuyen a una dieta equilibrada y saludable
 - Tortitas infantiles ricas y crujientes, sin sal añadida, aditivos, aceite de palma y sin gluten
+- En Hero queremos seguir acompañando el desarrollo de tus niños, por eso lanzamos KIDS, una gama de snacks hechos especialmente para los peques de la casa, con lo bueno de la fruta y los cereales
+- Vienen en prácticas bolsitas fáciles de llevar, perfectas para transportar en el bolso o la mochila, lo que hace que sean una opción perfecta para los momentos en que estás fuera de casa con tu peque
+- Elaboradas a base de arroz, concentrado de zumo de manzanas, arándanos, fresas y cerezas, extracto de vainilla y tiamina. Son una fuente de Vitamina B1 y fibra, que contribuyen a una dieta equilibrada y saludable
 - Fomentan la adopción de hábitos alimenticios saludables desde temprana edad, ya que son ideales para controlar las porciones y evitar opciones de snacks menos saludables
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Agitar hasta obtener un color homogéneo; con la ayuda de un algodón, aplicar sobre el rostro, ojos y labios sin aclarar
 - Su fórmula extrae la suciedad combinando la eficacia de las micelas con el agua de aciano, capturando las impurezas como un imán
 - Elimina sin esfuerzo el maquillaje de rostro, labios y ojos en un solo gesto y sin aclarado
-- Su fórmula no grasa adaptada para pieles y ojos sensibles, es recomendable para usuarios de lentillas
-- La siguiente información se aplica a cada unidad del paquete
 - Agua micelar especial para el cuidado de pieles y ojos sensibles
+- La siguiente información se aplica a cada unidad del paquete
+- Su fórmula no grasa adaptada para pieles y ojos sensibles, es recomendable para usuarios de lentillas
+- Agitar hasta obtener un color homogéneo; con la ayuda de un algodón, aplicar sobre el rostro, ojos y labios sin aclarar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP4WPWYH{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Género: Mujer
 - Tipo de producto: Tinte
+- Género: Mujer
 - Marca: Schwarzkopf
 
 [🛒 Comprar!!!]({{< param buyurl >}})

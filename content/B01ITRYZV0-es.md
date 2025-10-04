@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con cacao natural recolectado a mano; secado al sol; tostado y prensado; mezclado de forma tradicional con el resto de ingredientes.
 - Para elaborar ColaCao compramos el 100% del cacao certificado Rainforest Alliance, contribuyendo al cultivo del cacao sostenible, socialmente responsable y respetuoso con el medio ambiente.
-- Alérgenos: contiene trigo, cebada y soja. Mantener en lugar fresco y seco.
-- Disfruta de todo el sabor, sin azúcares añadidos y con fibra en cualquier momento: desayuno, merienda, cena o como snack.
 - 40 raciones en su envase de 300 gramos.
+- Disfruta de todo el sabor, sin azúcares añadidos y con fibra en cualquier momento: desayuno, merienda, cena o como snack.
+- Alérgenos: contiene trigo, cebada y soja. Mantener en lugar fresco y seco.
+- Con cacao natural recolectado a mano; secado al sol; tostado y prensado; mezclado de forma tradicional con el resto de ingredientes.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ITRYZV0{{</world>}}

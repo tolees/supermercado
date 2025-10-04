@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- País de origen: portugal
 - Contiene vitaminas
+- País de origen: portugal
 - Pequeñas bolas de chocolate
 - Producto de alta calidad
 

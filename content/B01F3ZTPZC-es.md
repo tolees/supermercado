@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los productos de esta marca están fabricados con materiales de óptima calidad
 - Cuidado de una crema
+- Los productos de esta marca están fabricados con materiales de óptima calidad
 - Rizos sensuales, definidos e hidratados
 - Definición de una espuma
 

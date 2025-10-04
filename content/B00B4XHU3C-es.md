@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Es bajo en grasas
-- Sin colorantes, aromatizantes o conservante artificiales
 - Con sabor a bacon
 - Tiene un contenido de vitaminas
+- Es bajo en grasas
+- Sin colorantes, aromatizantes o conservante artificiales
 - Con Omega 3 y 6
 
 [🛒 Aquí!!!]({{< param buyurl >}})

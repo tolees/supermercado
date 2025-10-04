@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FORMATO: 20 bolsitas de 2 gramos, envueltas en sobre protector. Consérvese en un lugar fresco y seco.
-- USO SALUDABLE: Disfruta de una bebida deliciosa y refrescante en menos de cinco minutos, además, no contiene ni azúcar ni calorías. Esta infusión no sustituye a una alimentación variada y equilibrada ni a una forma de vida sana.
-- BENEFICIOS: Tu compañera ideal en cada entrenamiento. Enriquecida con magnesio, que contribuye al funcionamiento normal de los músculos,
 - INGREDIENTES NATURALES: Manzanas (Malus domestica) 36%, citrato de magnesio, escaramujo (Rosa canina) 10,5%, raíz de achicoria (Cichorium intybus), hojas de estevia (Stevia rebaudiana), aroma a manzana, aroma a limón y corteza de limón (Citrus limon).
+- BENEFICIOS: Tu compañera ideal en cada entrenamiento. Enriquecida con magnesio, que contribuye al funcionamiento normal de los músculos,
+- USO SALUDABLE: Disfruta de una bebida deliciosa y refrescante en menos de cinco minutos, además, no contiene ni azúcar ni calorías. Esta infusión no sustituye a una alimentación variada y equilibrada ni a una forma de vida sana.
 - MODO DE EMPLEO: Verter agua fría (aprox. 15ºC) sobre la bolsita y dejar infusionar durante 5 minutos.
+- FORMATO: 20 bolsitas de 2 gramos, envueltas en sobre protector. Consérvese en un lugar fresco y seco.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F1Q2V97J{{</world>}}

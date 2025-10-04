@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para dar sabor a tus platos y ensaladas
 - Disfruta del delicioso sabor nuestra salsa ligera a la vez que cuidas tu figura con un 40% menos de calorías que nuestra mayonesa original. Sin gluten y sin lactosa.
 - Misma receta ahora envasada en botella 25% reciclada
+- Ideal para dar sabor a tus platos y ensaladas
 - Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
 - Sabor original, 40% menos calorías
 

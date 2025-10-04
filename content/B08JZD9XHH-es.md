@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Para cabello fino
 - Producto de calidad óptima
 - Fácil de aplicar
-- Para cabello fino
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JZD9XHH{{</world>}}

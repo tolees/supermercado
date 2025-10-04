@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jabón de Manos La Toja HIDROTERMAL 100 g 2 Unidades'
-date: 2025-09-17 20:44:41
+date: 2025-10-03 19:25:20
 image: 'https://m.media-amazon.com/images/I/41b1eyVXNEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'La Toja'
 buyurl: 'https://www.amazon.es/dp/B0CNTPG8P6/?tag=tolees-21'
 descuento: '0.00'
-average: '5.51153846153846'
+average: '5.08333333333334'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

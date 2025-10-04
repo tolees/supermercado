@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cerveza lata Mahou 0,0 Tostada permite disfrutar de toda la esencia de una cerveza estilo tostada. Con todo el sabor de las maltas tostadas y el perfil aromático y las notas iniciales de mosto y gusto a caramelo y café, perfecta para paladares exigentes. Bebida refrescante, Mahou 0,0 Tostada es una cerveza artesanal
-- Aroma: Con perfil aromático moderado a cereal y notas iniciales de mosto complementadas en retro nasal, con sabores a malta, caramelo y café. Los aromas de lúpulo de Mahou 0,0 tostada consuman esta cerveza
 - Sabor: En boca la cerveza Mahou 0,0 Tostada tiene carácter maltoso con sensaciones a mosto, grano y malta tostada al final, suave tanto en cuerpo como en amargor, ligeramente seca, con un regusto dulce y también se puede percibir un punto de acidez. Sabor de cerveza auténtico
+- Aroma: Con perfil aromático moderado a cereal y notas iniciales de mosto complementadas en retro nasal, con sabores a malta, caramelo y café. Los aromas de lúpulo de Mahou 0,0 tostada consuman esta cerveza
 - Pack 24 latas de 33 cl de Cerveza Mahou Tostada 0,0% alcohol, cerveza sin alcohol Amber Lager hecha para los que quieren disfrutar de una experiencia 100% cervecera y con sabor auténtico de cerveza. Para un mayor disfrute se recomienda consumir entre 4º y 6º C
+- Cerveza lata Mahou 0,0 Tostada permite disfrutar de toda la esencia de una cerveza estilo tostada. Con todo el sabor de las maltas tostadas y el perfil aromático y las notas iniciales de mosto y gusto a caramelo y café, perfecta para paladares exigentes. Bebida refrescante, Mahou 0,0 Tostada es una cerveza artesanal
 - Apariencia: Mahou Cerveza Tostada 0,0 de color tostado procedente de las maltas y con reflejos dorados oscuros o ámbar, de aspecto brillante y con una espuma densa, blanquecina y sabrosa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

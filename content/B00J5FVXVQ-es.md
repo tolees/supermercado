@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Eficacia clínicamente probada; Sin Gluten
 - Coadyuvante en tratamiento de gingivitis y periodontitis
+- Eficacia clínicamente probada; Sin Gluten
 - Inhibe la formación de biofilm y produce una acción antiplaca
 - Potente acción antiséptica gracias a la acción de la Clorhexidina al 0,2%
 

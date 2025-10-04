@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acondicionador hidratante: ayuda a hidratar el pelo dañado suavizando y mostrando su belleza natural
-- Champú hidratante: ayuda a hidratar el pelo dañado suavizando y mostrando su belleza natural
 - 95 % De origen natural (73 % de agua purificada y 22 % de ingredientes de origen natural) y el 5 % para proporcionar una buena experiencia de uso
+- Acondicionador hidratante: ayuda a hidratar el pelo dañado suavizando y mostrando su belleza natural
 - Belleza responsable: vegano y respetuoso con los animales, certificado por PETA; No contiene siliconas, Seguro para el pelo teñido
+- Champú hidratante: ayuda a hidratar el pelo dañado suavizando y mostrando su belleza natural
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CT5PW4TS{{</world>}}

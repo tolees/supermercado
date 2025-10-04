@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborado con arroz vietnamita
 - Bun Tuoei: fideos de arroz fresco
+- Elaborado con arroz vietnamita
 - Consiste en un 87% de arroz puro
 - Productos de arroz de pura calidad
 

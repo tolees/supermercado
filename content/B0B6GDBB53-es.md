@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - 24 sombras de ojos, 4 coloretes, 1 resaltador, 5 botes de brillos de labios, 4 brillos de labios, 2 polvo faciales, 1 kajal, 1 peine, juego de 8 brochas y aplicadores
 - Espejo integrado
-- Caja de maquillaje de optima calidad con 51 piezas
 - Contenido: cosméticos veganos;
+- Caja de maquillaje de optima calidad con 51 piezas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B6GDBB53{{</world>}}

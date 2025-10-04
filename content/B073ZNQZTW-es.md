@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nota de cata (nariz): Predominan los aromas varietales (manzana, cítricos, flor de almendro) entrelazados con los matices de la crianza (tostados, pan, bollería).
-- Nota de cata (boca): En boca es agradable, fresco y equilibrado.
 - Varietales: Macabeo-Xarel·lo-Parellada
 - Consumir frío (entra 6°- 8°C). Si es necesario, enfriar durante un par de horas en una cubitera con agua. sal y hielo. Evitar enfriamientos bruscos en el congelador. Se puede almacenar verticalmente.
+- Nota de cata (boca): En boca es agradable, fresco y equilibrado.
+- Nota de cata (nariz): Predominan los aromas varietales (manzana, cítricos, flor de almendro) entrelazados con los matices de la crianza (tostados, pan, bollería).
 - Nota de cata (vista): Brillante color amarillo pajizo. Burbuja fina y elegante que resalta la persistencia de su corona.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

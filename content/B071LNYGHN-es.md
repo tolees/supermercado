@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Brillo en una sola pasada y de larga duración
-- Ingredientes hidratantes
-- Textura miel
 - Disponible en 8 tonos llenos de color
+- Brillo en una sola pasada y de larga duración
+- Textura miel
 - Alta densidad de pigmentos para un color intenso
+- Ingredientes hidratantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071LNYGHN{{</world>}}

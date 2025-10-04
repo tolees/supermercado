@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Los esmaltes Masterpiece Xpress de Max Factor aportan color
 - Nuevos seis tonos de colores vibrantes
 - Su fórmula es de secado rápido en 60 segundos
-- Los esmaltes Masterpiece Xpress de Max Factor aportan color
 - Efecto brillo, una pasada, top coat y acabado
 - Aplicación es on-the-go y sin roturas
 

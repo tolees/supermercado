@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mantener en un lugar fresco y seco
 - Conserva de atún en aceite de girasol
+- Mantener en un lugar fresco y seco
 - Sabor delicado y refinado
 - Contenido en omega 3
 

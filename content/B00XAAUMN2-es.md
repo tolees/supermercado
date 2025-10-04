@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El producto está hecho sin conservantes
-- Conservar en lugar fresco y seco
 - El sabor es de barbacoa original con especias suaves
 - Incluye tortillas, paquete de condimentos y salsa
+- El producto está hecho sin conservantes
+- Conservar en lugar fresco y seco
 - Preparación rápida y fácil en 15 minutos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

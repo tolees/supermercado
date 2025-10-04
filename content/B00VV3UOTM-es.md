@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Limpia a fondo: el limpiador de poros Protect and Care Face Wash limpia tu piel y ayuda a eliminar las impurezas y el aceite sin dejar la piel seca
-- Fórmula de vitamina: la fórmula de limpieza facial con aloe vera y provitamina B5 refresca instantáneamente tu piel mientras protege la barrera natural de tu piel
-- Gel de cuidado: nuestro limpiador facial y barba cuida tu piel y está diseñado para eliminar a fondo la suciedad y el exceso de aceites sin secar la piel dejando limpia
 - Protege la piel: el lavado facial para hombre altamente protector y cuidado protege la barrera natural de tu piel y deja la piel con un aspecto claro y saludable
 - Refrescante profundo: el lavado facial de limpieza profunda recarga suavemente y refresca tu piel; limpiador facial para una piel profundamente limpia que se siente fresca y sin aceite
+- Fórmula de vitamina: la fórmula de limpieza facial con aloe vera y provitamina B5 refresca instantáneamente tu piel mientras protege la barrera natural de tu piel
+- Gel de cuidado: nuestro limpiador facial y barba cuida tu piel y está diseñado para eliminar a fondo la suciedad y el exceso de aceites sin secar la piel dejando limpia
+- Limpia a fondo: el limpiador de poros Protect and Care Face Wash limpia tu piel y ayuda a eliminar las impurezas y el aceite sin dejar la piel seca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00VV3UOTM{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ❄️FORMATO Y CONSUMO - Caja de 24 botellas de 33 cl, Inedit se presenta como la opción ideal para los amantes de la cerveza y la gastronomía, recomendándose su consumo a una temperatura fría para disfrutar de su perfil aromático y sabor.
-- 🌾 ESTILO Y CUERPO - Inedit combina cerveza de malta de cebada tradicional con cerveza de trigo al estilo Witbier, típico de Bélgica, conocido por su elaboración con trigo sin maltear que le otorga un cuerpo más pleno y una suavidad excepcional en boca.
-- 🍺INEDIT - Cerveza única de malta de cebada y trigo, aromatizada con especias y creada en 2008 por Ferran Adrià, el equipo de sumilleres de elBulli y los Maestros Cerveceros de Damm, diseñada para maridar perfectamente con la nueva gastronomía.
-- ⭐DAMM CERVEZAS - Fundada en 1876, la intencionalidad de Damm es unir la pasión por sus productos y por el territorio para mejorar los momentos de disfrute de las personas.
 - 🍃 COLABORACIÓN EXCLUSIVA - Innovador proyecto une la creatividad culinaria de Ferran Adrià y el equipo de elBulli con la tradición cervecera de Damm, resultando en una cerveza pensada especialmente para acompañar y realzar los sabores de la cocina moderna.
+- ⭐DAMM CERVEZAS - Fundada en 1876, la intencionalidad de Damm es unir la pasión por sus productos y por el territorio para mejorar los momentos de disfrute de las personas.
+- 🌾 ESTILO Y CUERPO - Inedit combina cerveza de malta de cebada tradicional con cerveza de trigo al estilo Witbier, típico de Bélgica, conocido por su elaboración con trigo sin maltear que le otorga un cuerpo más pleno y una suavidad excepcional en boca.
+- ❄️FORMATO Y CONSUMO - Caja de 24 botellas de 33 cl, Inedit se presenta como la opción ideal para los amantes de la cerveza y la gastronomía, recomendándose su consumo a una temperatura fría para disfrutar de su perfil aromático y sabor.
+- 🍺INEDIT - Cerveza única de malta de cebada y trigo, aromatizada con especias y creada en 2008 por Ferran Adrià, el equipo de sumilleres de elBulli y los Maestros Cerveceros de Damm, diseñada para maridar perfectamente con la nueva gastronomía.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07CZZVB4W{{</world>}}

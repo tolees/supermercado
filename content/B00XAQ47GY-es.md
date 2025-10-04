@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Realizada de ingredientes naturales
-- De color dorado claro, con una espuma blanca intensa
-- Consumirla entre 0°C y 3°C para disfrutar sus óptimas cualidades
 - Cerveza tipo lager y estilo rubia
 - Cuerpo ligero y final amargo
+- Consumirla entre 0°C y 3°C para disfrutar sus óptimas cualidades
+- De color dorado claro, con una espuma blanca intensa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XAQ47GY{{</world>}}

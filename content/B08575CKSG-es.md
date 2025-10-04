@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MASCULINO Y CAUTIVADOR: Un agua de colonia para hombre, equilibrada y armónica que resalta la masculinidad y la personalidad. Para jóvenes y hombres urbanos, independientes y seguros de sí mismos.
-- TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia amaderado-frutal, que rinde homenaje a los colores vivos de Nike Colors. ¡Realza el corazón y la masculinidad que llevas dentro!
-- PIRÁMIDE OLFATIVA: Notas de salida: ciruela, manzana, limón, geranio, bergamota y musgo; Notas de corazón: caoba, clavel y canela; Notas de fondo: sándalo, olivo, vainilla, cedro y vetiver
-- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
 - FRAGANCIA ÚNICA: Nike Indigo es un perfume masculino con un aroma chispeante y cálido, es una colonia suave que resaltará tu belleza. Viene en un frasco vaporizador de 200 mililitros.
+- PIRÁMIDE OLFATIVA: Notas de salida: ciruela, manzana, limón, geranio, bergamota y musgo; Notas de corazón: caoba, clavel y canela; Notas de fondo: sándalo, olivo, vainilla, cedro y vetiver
+- TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia amaderado-frutal, que rinde homenaje a los colores vivos de Nike Colors. ¡Realza el corazón y la masculinidad que llevas dentro!
+- MASCULINO Y CAUTIVADOR: Un agua de colonia para hombre, equilibrada y armónica que resalta la masculinidad y la personalidad. Para jóvenes y hombres urbanos, independientes y seguros de sí mismos.
+- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08575CKSG{{</world>}}

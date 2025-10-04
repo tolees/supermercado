@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Naturalmente sin lactosa y 100% vegetal.
-- ¡No necesita frío! Puede guardarse y consumirse a temperatura ambiente.
 - Con base de coco y plátano, adaptado para bebés. ¡Y con un delicioso sabor!
+- ¡No necesita frío! Puede guardarse y consumirse a temperatura ambiente.
+- Naturalmente sin lactosa y 100% vegetal.
 - Sin colorantes ni conservantes, según la legislación vigente. Sin aceite de palma y sin gluten.
 - Sin azúcares añadidos, contiene azúcares naturalmente presentes.
 

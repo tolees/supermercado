@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modo de empleo Introduce 1 cápsula directamente en el tambor de tu lavadora. Añade la ropa sucia. Elige un programa sin prelavado.
 - Cuida el planeta haciendo que tus prendas duren mucho tiempo, lavando en frío y reduciendo el planchado.
+- Modo de empleo Introduce 1 cápsula directamente en el tambor de tu lavadora. Añade la ropa sucia. Elige un programa sin prelavado.
 - ¡Experimenta la revolución en el cuidado de la ropa con nuestra innovadora fórmula! Fusionando la poderosa limpieza del detergente con la suavidad de nuestro suavizante, obtén resultados impecables con una sola cápsula, apta para todo tipo de tejidos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

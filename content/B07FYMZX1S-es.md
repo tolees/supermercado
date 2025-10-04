@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido 30 ml
 - Spray perfumador para el cabello
 - Agua de perfume
+- Contenido 30 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FYMZX1S{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ideales como snack o picoteo entre horas
-- Elaboradas en España por Galletas Gullón
 - Sin aceite de palma
 - Con deliciosas semillas de Quinoa y Chía
+- Elaboradas en España por Galletas Gullón
 - Elaboradas con aceite de girasol alto oleico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

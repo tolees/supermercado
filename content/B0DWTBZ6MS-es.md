@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Tecnología antigoteo
-- Limpio y reluciente
 - Botella reciclable
 - Elimina las marcas de jabón y la cal
+- La siguiente información se aplica a cada unidad del paquete
+- Limpio y reluciente
+- Tecnología antigoteo
 - Fabricado con electricidad 100 % renovable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

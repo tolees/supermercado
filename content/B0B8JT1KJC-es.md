@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula Vegana enriquecida con Bayas de Goji y Haloxyl que hidrata hasta 12 horas; no reseca ni cuartea
-- Modo de empleo: gira el aplicador en la dirección de las flechas hasta que la fórmula sea visible en la esponja (pueden ser necesarias varias vueltas en el primer uso); aplica directamente sobre la zona deseada y extiende según necesites
 - Borrador Corrector multiusos: borra ojeras y bolsas, corrige imperfecciones, ilumina la mirada, y define el rostro al instante
+- Fórmula Vegana enriquecida con Bayas de Goji y Haloxyl que hidrata hasta 12 horas; no reseca ni cuartea
 - Tip: puedes utilizarlo para corregir pequeños errores de maquillaje, o como primer para párpados y labios
+- Modo de empleo: gira el aplicador en la dirección de las flechas hasta que la fórmula sea visible en la esponja (pueden ser necesarias varias vueltas en el primer uso); aplica directamente sobre la zona deseada y extiende según necesites
 - Aplicador en esponja con miles de microfibras para una aplicación precisa y uniforme; resultado natural y cobertura modulable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

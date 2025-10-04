@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Máscara de pestañas Panorama All Night Black: ojos 1,4x visiblemente más grandes (*test instrumental, 30 voluntarias) y 24H de negro intenso que dura hasta la mañana siguiente.
-- Enriquecida con un 5 % de complejo stretchflex que envuelve y separa cada pestaña para crear volumen sin grumos.
-- Contenido: 1x LOréal Paris Máscara de Pestañas Panorama All Night Black - Color Negro.
 - Resultados: Volumen panorámico de la raíz a la punta.
+- Máscara de pestañas Panorama All Night Black: ojos 1,4x visiblemente más grandes (*test instrumental, 30 voluntarias) y 24H de negro intenso que dura hasta la mañana siguiente.
+- Contenido: 1x LOréal Paris Máscara de Pestañas Panorama All Night Black - Color Negro.
 - Modo de uso: 1. Aplica la máscara Panorama All Night Black desde la raíz hasta la punta de las pestañas haciendo movimientos en zigzag. Su cepillo cónico envuelve cada pestaña para crear volumen sin grumos. 2. Aplica más capas para conseguir un efecto de ojos más grandes y con mayor intensidad.
+- Enriquecida con un 5 % de complejo stretchflex que envuelve y separa cada pestaña para crear volumen sin grumos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHCZP2S1{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Men maximum hydrator 72h 50 ml
 - Cuida de tu belleza con los productos que mejor se adapten a ti
+- Men maximum hydrator 72h 50 ml
 - Tu cuidado íntimo y personal de la mano de los mejores productos del mercado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

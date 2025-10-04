@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Con notas dulces de vainilla, toffee y un toque a nueces
 - Pack de dos botellas de Ballantines Finest y 6 vasos Ballantines de REGALO
 - Madurado en barricas de roble americano durante más de 10 años
-- Es dulce y cremoso en boca
 - De color oro cálido
+- Es dulce y cremoso en boca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D2D89CK8{{</world>}}

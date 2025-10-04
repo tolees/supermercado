@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elaborado con un 60% de pavo y un 4% arándanos
 - Comida húmeda nutricionalmente completa sin cereales para perros - especial para perros senior 8 años +
 - Contiene prebióticos naturales para una digestión sana
+- Elaborado con un 60% de pavo y un 4% arándanos
 - Repleto de frutas y vegetales saludables además de una mezcla de ingredientes botánicos
 - Sin subproductos, conservantes o relleno - todo natural y sano
 

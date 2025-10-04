@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Servir muy frío o con hielo
-- Ideal para comidas, fiestas y grandes o pequeñas celebraciones
+- Refresco con gas
 - No contiene azúcar
 - La latas son 100% reciclables
-- Refresco con gas
+- Ideal para comidas, fiestas y grandes o pequeñas celebraciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099KVKQNV{{</world>}}

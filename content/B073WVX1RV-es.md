@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto 100% italiano
-- Dermatológicamente probado
-- Con antibaterico natural
-- 80% menos de plástico
 - Respeta el pH natural de la piel
+- Producto 100% italiano
+- Con antibaterico natural
+- Dermatológicamente probado
+- 80% menos de plástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B073WVX1RV{{</world>}}

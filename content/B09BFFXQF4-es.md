@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Notas aromáticas: estas cápsulas de café son ideales para un delicado espresso descafeinado, con notas aromáticas de frutas secas y chocolate
-- LAVAZZA: Lavazza Group trabaja en todos los sectores de la industria del café, ofreciendo productos de alta calidad, obtenidos a través de un modelo basado en la innovación, la pasión y la competencia
-- Composición: las cápsulas Espresso Dek de Lavazza están fabricadas con una mezcla de café Arabica y Robusta de América del Sur y Asia del Sur
-- INTENSIDAD: el delicado tostado y la intensidad 7/13 dan un sabor redondo y equilibrado a esta mezcla particular, para un café intenso y ligero, ideal para todos los amantes del descafeinado que buscan todo el sabor y el aroma clásico del café
 - Espresso Deck: el equilibrio entre fuerza y ligereza, en una mezcla de sabor auténtico. 100 cápsulas de aluminio compatibles con máquinas Nespresso* Original. *Lavazza no está afiliada a, ni promovida ni patrocinada por Nespresso
+- LAVAZZA: Lavazza Group trabaja en todos los sectores de la industria del café, ofreciendo productos de alta calidad, obtenidos a través de un modelo basado en la innovación, la pasión y la competencia
+- INTENSIDAD: el delicado tostado y la intensidad 7/13 dan un sabor redondo y equilibrado a esta mezcla particular, para un café intenso y ligero, ideal para todos los amantes del descafeinado que buscan todo el sabor y el aroma clásico del café
+- Composición: las cápsulas Espresso Dek de Lavazza están fabricadas con una mezcla de café Arabica y Robusta de América del Sur y Asia del Sur
+- Notas aromáticas: estas cápsulas de café son ideales para un delicado espresso descafeinado, con notas aromáticas de frutas secas y chocolate
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BFFXQF4{{</world>}}

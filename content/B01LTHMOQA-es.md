@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodo de usar
 - Textura no grasa y no pegajosa
-- Un cuidado 3 en 1 con perfume masculino
 - Se aplica en la cara, el cuerpo y las manos
+- Cómodo de usar
+- Un cuidado 3 en 1 con perfume masculino
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LTHMOQA{{</world>}}

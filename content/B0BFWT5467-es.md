@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vino tinto en lata
 - Producto de calidad
+- Vino tinto en lata
 - Marca: Glass Canned Wines
 
 [🛒 Visítala!!!]({{< param buyurl >}})

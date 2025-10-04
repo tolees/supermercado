@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Desodorante que ofrece 48 horas de protección antitranspirante
-- Desodorante 0% alcohol para mujer
 - Desodorante antitranspirante de secado rápido
 - Elaborado con tecnología motionsense que se activa con el movimiento
+- Desodorante que ofrece 48 horas de protección antitranspirante
+- Desodorante 0% alcohol para mujer
 - Rexona Woman Desodorante Antitranspirante Invisible Black&White 200ml
 - Desodorante invisible con tecnología antimanchas
 

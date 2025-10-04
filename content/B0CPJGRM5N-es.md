@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El placer de picotear con Bicentury
 - No frito
 - Cada caja contiene 7 bolsas
+- El placer de picotear con Bicentury
 - Mini Tortitas con lenteja roja y champiñones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

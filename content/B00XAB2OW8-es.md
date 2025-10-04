@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en lugar fresco y seco
+- Caramelos duros refrescantes sin azúcar, con sabor a mentol y eucalipto
 - Sabor original en un paquete de 4 envases individuales de 32 gramos cada uno
 - Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
+- Conservar en lugar fresco y seco
 - Un consumo excesivo puede producir efectos laxantes; contiene una fuente de fenilalanina
-- Caramelos duros refrescantes sin azúcar, con sabor a mentol y eucalipto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XAB2OW8{{</world>}}

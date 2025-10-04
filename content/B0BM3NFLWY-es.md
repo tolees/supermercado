@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- producto 2: Elaborada mediante procedimiento tradicional de maduración lenta con un mínimo de 2 semanas de guarda que asegura la elevada calidad del producto.
+- producto 2: Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
+- producto 2: Es dorada y brillante, con burbujas finas y abundantes. Suave, con densas notas de cereales tostados y eminentemente fresca.
 - producto 1: Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
 - producto 1: Cerveza con una guarda mínima de 3 semanas
-- producto 2: Es dorada y brillante, con burbujas finas y abundantes. Suave, con densas notas de cereales tostados y eminentemente fresca.
 - producto 1: Donostia- San Sebastián. Se elabora con cereales de primera calidad y sigue un exhaustivo proceso de fabricación.
-- producto 2: Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
+- producto 2: Elaborada mediante procedimiento tradicional de maduración lenta con un mínimo de 2 semanas de guarda que asegura la elevada calidad del producto.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BM3NFLWY{{</world>}}

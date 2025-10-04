@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - La tónica Schweppes está elaborada según la receta original con su exclusiva quinina natural y burbujas
 - Bebida refrescante elaborada 100% con ingredientes de origen natural
+- Sabor amargo, muy refrescante y con la genuina burbuja Schweppes
 - Ideal para consumirla sola o mezclada con alcohol con mucho hielo y una rodaja de limón. Perfecta para cualquier momento del día. En tu aperitivo en el bar, con los amigos después del trabajo y con tu gin tonic los fines de semana
 - Tónica Schweppes, disfruta su sabor único y refrescante en cualquier momento del día
-- Sabor amargo, muy refrescante y con la genuina burbuja Schweppes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DCG2KP97{{</world>}}

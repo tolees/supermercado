@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cantidad 15 ml
-- Producto de alta calidad de la marca Clinique
 - Tipo de piel: Normal
+- Producto de alta calidad de la marca Clinique
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RJ1D86V{{</world>}}

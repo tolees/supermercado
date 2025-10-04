@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pienso acuoso para gatos. Proporción extraalta de carne. Vitaminas y minerales importantes. Sin cereales
-- Renunciamos a: Gluten y soja, Conservantes sintéticos, lactosa, azúcar
 - MjAMjAM - porque es sabroso
-- Composición: 98,6 % de carne y vísceras (carne, corazón, hígado y mollejas de pollo), 0,5 % de minerales, 0,5 % de cáscaras de huevo desecadas, 0,4 % de aceite de salmón
 - Para nuestras comidas, empleamos mayoritariamente ingredientes procedentes de granjas regionales; criados y cultivados con mucho amor
+- Pienso acuoso para gatos. Proporción extraalta de carne. Vitaminas y minerales importantes. Sin cereales
+- Composición: 98,6 % de carne y vísceras (carne, corazón, hígado y mollejas de pollo), 0,5 % de minerales, 0,5 % de cáscaras de huevo desecadas, 0,4 % de aceite de salmón
+- Renunciamos a: Gluten y soja, Conservantes sintéticos, lactosa, azúcar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0821DF2PM{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Composición: Carne de ciervo 33,5%, carne de pavo, hígado, corazón 33,5%, caldo de carne 30%, arándanos 2%, cáscaras de huevo secas 0,5%, minerales 0,5%
 - El alimento completo y los snacks de MjAMjAM ofrecen una dieta adecuada para la especie, natural y orientada a las presas. Nuestro proveedor más importante: ¡la naturaleza!
 - El bienestar animal es nuestra máxima prioridad, por lo que evitamos colorantes y atrayentes, azúcar, gluten, cereales, soja, subproductos vegetales y conservantes sintéticos.
-- Composición: Carne de ciervo 33,5%, carne de pavo, hígado, corazón 33,5%, caldo de carne 30%, arándanos 2%, cáscaras de huevo secas 0,5%, minerales 0,5%
 - Para nuestras comidas utilizamos principalmente ingredientes que provienen de fincas regionales. Criadas o cultivadas con mucho cariño, están sujetas a los más estrictos controles de calidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
