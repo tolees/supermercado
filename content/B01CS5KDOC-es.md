@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Indicado para pieles atópicas
-- Cuero cabelludo sensible o con tendencia atópica
-- No irrita, calma el picor
 - Evita la descamación
+- No irrita, calma el picor
+- Cuero cabelludo sensible o con tendencia atópica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CS5KDOC{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- - PARA UN ESTILO DE VIDA ACTIVO - Bebidas de proteína para una comida antes del entrenamiento o como alternativa al polvo de proteína post entrenamiento. Hay muchas formas de disfrutar un batido de proteína Barebells.
 - - BATIDO DE PROTEÍNA CON SABOR A CHOCOLATE - Textura sedosa, sabor dulce y cremoso de chocolate. El chocolate es quizás el sabor de batido más icónico del mundo, un clásico que nos trae recuerdos de la infancia.
 - - DEJA EL SHAKER DE PROTEÍNA EN CASA - Con nuestro batido de proteína listo para beber, no hay necesidad de mezclar polvo de proteína con una botella shaker. ¡Simplemente lleva un batido de Barebells en su lugar!
+- - PARA UN ESTILO DE VIDA ACTIVO - Bebidas de proteína para una comida antes del entrenamiento o como alternativa al polvo de proteína post entrenamiento. Hay muchas formas de disfrutar un batido de proteína Barebells.
 - - DISEÑADO PARA CONSENTIR A NUESTRO NIÑO INTERIOR - ¡El hecho de que este batido de chocolate contenga 24g de proteína, no tenga azúcar añadida y sea sin lactosa es solo un bonus para adultos!
 - - LOS BATIDOS DE PROTEÍNA BAREBELLS son batidos bajos en calorías con menos de 200 calorías por porción. Con 24 gramos de proteína de suero por porción, son los snacks perfectos ricos en proteína para llevar.
 

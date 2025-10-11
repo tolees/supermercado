@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color cereza oscuro y bien cubierto. Intenso aroma de frutos negros (cerezas), con un fino matiz ahumado.
-- Para recetas con carnes, cordero asado, todo tipo de aves, estofados y guisos. Servir entre 14-16ºC.
 - Graduación: 13,5% vol.
+- Color cereza oscuro y bien cubierto. Intenso aroma de frutos negros (cerezas), con un fino matiz ahumado.
 - Origen: DO Ribera del Duero
+- Para recetas con carnes, cordero asado, todo tipo de aves, estofados y guisos. Servir entre 14-16ºC.
 - Puede disfrutarlo desde ahora, bien conservado aguantará 3-5 años.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

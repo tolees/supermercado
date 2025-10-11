@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dulce perfecto para compartir y conectar con otros haciendo de un sencillo momento, una anécdota inolvidable.
-- Deliciosas bolitas de Chocolate con Leche y un interior de crujiente leche malteada
-- Bolsa MaxiPack de 300g de Maltesers
 - Su tamaño lo convierte en el snack perfecto para compartir con amigos, compañeros de piso o en familia
+- Deliciosas bolitas de Chocolate con Leche y un interior de crujiente leche malteada
+- Dulce perfecto para compartir y conectar con otros haciendo de un sencillo momento, una anécdota inolvidable.
+- Bolsa MaxiPack de 300g de Maltesers
 - Snack apto para vegetarianos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

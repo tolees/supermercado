@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de usar
 - Producto de cuidado personal
 - Es un regalo adecuado en cualquier momento
+- Fácil de usar
 - Buena calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

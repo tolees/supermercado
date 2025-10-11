@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se puede beber seco pero también en combinación con cócteles
-- Presenta aromas delicados de vainilla dulce y azúcar moreno con notas sirope de arce y cítricos
-- Doblemente suavizado
 - Ideal como regalo
+- Presenta aromas delicados de vainilla dulce y azúcar moreno con notas sirope de arce y cítricos
+- Se puede beber seco pero también en combinación con cócteles
+- Doblemente suavizado
 - Esto whisky es filtrado dos veces
 
 [🛒 Comprar!!!]({{< param buyurl >}})

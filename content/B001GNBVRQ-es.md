@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Ayuda a ocultar pigmentaciones, capilares rotos, manchas y pequeñas imperfecciones
 - Ideal para todo tipo de pieles
-- Formato barra para una aplicación más rápida
 - Suaviza las líneas finas y las arrugas
+- Formato barra para una aplicación más rápida
 - Cobertura muy alta acabado suave e hidratado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

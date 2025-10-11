@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Enriquecida con vitamina c
 - Crema hidratante anti-fatiga
 - Con SPF15
-- Enriquecida con vitamina c
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VCSY249{{</world>}}

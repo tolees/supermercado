@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- De Comapa
 - Comidas de España
 - De calidad
-- De Comapa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BK9V1SW{{</world>}}

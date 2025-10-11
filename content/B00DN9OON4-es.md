@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Tomar de 1 a 2 viales al día, según edad (niños de 3 a 6 años: 1 vial, de 7 a 12 años: 2 viales) preferiblemente en ayunas, disuelto en un vaso de agua o zumo. Agitar antes de cada toma
 - Con Vitamina D, que contribuye al buen funcionamiento del sistema inmunitario de los niños. También es necesaria para el crecimiento y el desarrollo normales de los huesos de los niños
+- Contiene Equinácea, que ayuda a las defensas del organismo y a la inmunidad durante los resfriados. La fórmula se complementa con Vitamina C y Vitaminas del grupo B
 - Complemento alimenticio a base de Jalea real, Equinácea y vitaminas
 - No se debe superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta equilibrada. Es importante seguir una dieta variada y equilibrada y un estilo de vida saludable. Mantener fuera del alcance de los niños más pequeños Se recomienda beber 2 L de agua al día
-- Contiene Equinácea, que ayuda a las defensas del organismo y a la inmunidad durante los resfriados. La fórmula se complementa con Vitamina C y Vitaminas del grupo B
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DN9OON4{{</world>}}

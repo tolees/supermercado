@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🌱 Ingredientes naturales y de calidad: Solo los mejores ajos silvestres para un sabor superior.
-- 😋 Explora nuevos sabores: ¡Dale un toque de originalidad a tus platos con el pesto de ajo de oso salvaje!
-- 👩‍🍳 Preparación artesanal siciliana: Déjate conquistar por el auténtico sabor de la artesanía siciliana.
 - 🌿 Pesto de Ajo Salvaje Orsino: ¡Saborea la intensidad de la naturaleza salvaje en tu cocina!
+- 👩‍🍳 Preparación artesanal siciliana: Déjate conquistar por el auténtico sabor de la artesanía siciliana.
+- 😋 Explora nuevos sabores: ¡Dale un toque de originalidad a tus platos con el pesto de ajo de oso salvaje!
+- 🌱 Ingredientes naturales y de calidad: Solo los mejores ajos silvestres para un sabor superior.
 - 🍝 Versátil y delicioso: ¡El condimento perfecto para pasta, bruschetta y mucho más!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

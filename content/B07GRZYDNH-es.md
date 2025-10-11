@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Proporciona lo mejor del color mate, la hidratación, la comodidad y el poder de permanencia
 - Acabado mate aterciopelo
+- Proporciona lo mejor del color mate, la hidratación, la comodidad y el poder de permanencia
 - Color de alta intensidad
 - Máxima comodidad
 - Larga duración

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Testado dermatológica y ginecológicamente
 - Protege, limpia suavemente e hidrata la zona íntima, Gracias al pH fisiológico mantiene intacta la fisiología de la zona íntima
 - ISDIN Germisdin Intim Higiene Íntima es un gel suave de uso diario formulado con tensioactivos suaves para la higiene íntima de la piel más delicada
-- Testado dermatológica y ginecológicamente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BBJK95K{{</world>}}

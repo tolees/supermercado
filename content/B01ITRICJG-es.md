@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Para los que se cuidan sin obsesiones y sin renunciar al sabo
 - Con todo su valor energético y proteínico
-- Contiene leche o derivados de la leche, lactosa
 - Viene en un moderno envase de cartón
+- Contiene leche o derivados de la leche, lactosa
 - 100% natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

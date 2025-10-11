@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contiene 18 mini bolsitas
-- ‎Almacenar en un sitio seco y oscuro
-- Mix de tus piezas preferidas con irresistible sabor a frutas
-- Envueltas individualmente
 - Surtido de caramelos de goma
+- Mix de tus piezas preferidas con irresistible sabor a frutas
+- ‎Almacenar en un sitio seco y oscuro
+- Envueltas individualmente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086KFTBMV{{</world>}}

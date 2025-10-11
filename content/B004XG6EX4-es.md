@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Da un acabado atractivo en un sistema fácil de dos pasos
 - La capa superior hidratante sellos del color mientras que nutrir los labios, manteniéndolos húmedos
-- Hasta 8 horas de color e hidratación
 - Formulado con aceites hidratantes, este labial de larga duración no se cuartea ni se deshace
+- Hasta 8 horas de color e hidratación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004XG6EX4{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Marca: Skip
-- Detergente líquido de ropa para la lavadora
 - Proporciona una limpieza óptima de la ropa
+- Detergente líquido de ropa para la lavadora
 - Adecuado para 200 lavados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

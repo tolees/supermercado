@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cereales infantiles
-- Con vitamina D
 - Contiene 6 vitaminas del grupo B y hierro
+- Con vitamina D
+- Cereales infantiles
 - Producto de Reino Unido
 - Contiene gluten
 

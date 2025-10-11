@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ricas en fibra
+- Sin aromas ni conservantes artificiales
+- Con vitamina B6, B3 y ácido fólico
 - Mantener en lugar fresco
 - Contiene trigo
-- Sin aromas ni conservantes artificiales
-- Ricas en fibra
-- Con vitamina B6, B3 y ácido fólico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XA08Q3K{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apto para dietas vegetarianas y veganas
-- Nuestra bolsitas, aptas para mayores de 6 meses, no tienen trozos de comida, ofrecen un sabor intenso y serán el alimento favorito de tu pequeño
-- Todos nuestros deliciosos ingredientes son orgánicos
-- Envase de 6 x 90g
-- Puré de manzana, melocotón, plátano y pera ecológicos con harina de avena ecológica
-- Fáciles de transportar y flexibles para llevarlas a cualquier parte, vayas donde vayas
 - Agitar antes de abrir. Apretar la bolsita directamente sobre la cuchara. No coloque la bolsita en el microondas
+- Todos nuestros deliciosos ingredientes son orgánicos
+- Fáciles de transportar y flexibles para llevarlas a cualquier parte, vayas donde vayas
+- Puré de manzana, melocotón, plátano y pera ecológicos con harina de avena ecológica
+- Envase de 6 x 90g
+- Nuestra bolsitas, aptas para mayores de 6 meses, no tienen trozos de comida, ofrecen un sabor intenso y serán el alimento favorito de tu pequeño
+- Apto para dietas vegetarianas y veganas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09C96C4VP{{</world>}}

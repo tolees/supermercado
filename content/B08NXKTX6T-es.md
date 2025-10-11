@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ❄️FORMATO Y CONSUMO - Pack de 24 latas de 330 ml. Consumirla fría para poder disfrutar de su sabor y carácter refrescante.
+- 🍺 CARLSBERG - Cerveza dorada con 5% de alcohol, caracterizada por su sabor equilibrado, con notas frescas y amargas.
+- 🌾 SABOR LIGERO- Equilibrado, con notas frescas y amargas. Cerveza versátil que puede acompañar una variedad de comidas y aperitivos, como carnes a la parrilla, quesos y platos picantes.
 - 🍃RECETA ORIGINAL - Incluye cuatro ingredientes básicos: agua, malta de cebada, lúpulo y levadura cuidadosamente seleccionados y combinados en proporciones específicas para lograr el sabor característico y equilibrado de la cerveza.
 - ⭐MISIÓN- Contribuimos a mejorar la sociedad de cara al futuro haciendo que la fabricación de cerveza sea más sostenible, utilizando la ciencia para encontrar nuevas soluciones innovadoras que tengan un impacto positivo en la sociedad.
-- ❄️FORMATO Y CONSUMO - Pack de 24 latas de 330 ml. Consumirla fría para poder disfrutar de su sabor y carácter refrescante.
-- 🌾 SABOR LIGERO- Equilibrado, con notas frescas y amargas. Cerveza versátil que puede acompañar una variedad de comidas y aperitivos, como carnes a la parrilla, quesos y platos picantes.
-- 🍺 CARLSBERG - Cerveza dorada con 5% de alcohol, caracterizada por su sabor equilibrado, con notas frescas y amargas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08NXKTX6T{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- [Old Spice Deep Sea, con aroma a mar abierto, flores y notas cítricas, te hará inolvidable: te convertirás prácticamente en el centro del universo
 - Dile adiós a los malos olores durante 48 horas
 - La frescura duradera que todos quieren]
-- [Old Spice Deep Sea, con aroma a mar abierto, flores y notas cítricas, te hará inolvidable: te convertirás prácticamente en el centro del universo
 - Actúa como escudo protector contra las manchas blancas y amarillentas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

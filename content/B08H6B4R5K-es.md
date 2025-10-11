@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona una hidratación intensa y ayuda a mantener la función barrera de la piel.
-- Ayuda a reducir la apariencia del poro gracias al ingrediente PoreReducer, dando como resultado una tez más uniforme y radiante.
 - Aporta un efecto plump y ayuda a redensificar la piel, rellenando las arrugas.
 - Rápida absorción, no pegajoso, textura ligera y fresca, no comedogénico, testado dermatológicamente, testado en piel sensible.
+- Ayuda a reducir la apariencia del poro gracias al ingrediente PoreReducer, dando como resultado una tez más uniforme y radiante.
+- Proporciona una hidratación intensa y ayuda a mantener la función barrera de la piel.
 - Promueve una piel más tersa y firme mejorando visiblemente su tono y elasticidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

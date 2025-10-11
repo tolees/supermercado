@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsas doypack para una buena conservación
 - Lenteja roja 500g
 - Biológica
+- Bolsas doypack para una buena conservación
 - Cultivado sin abonos ni pesticidas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

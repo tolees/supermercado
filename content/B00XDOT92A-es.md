@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfruta de Colgate Triple Acción con sabor a menta
 - Consigue un aliento fresco: Previene el mal aliento
-- Ayuda a prevenir la caries: Protección anticaries probada
-- Ayuda a eliminar las manchas de la superficie: Consigue dientes más blancos
 - Cuidado avanzado: Pasta de dientes con flúor que aporta un triple beneficio
+- Disfruta de Colgate Triple Acción con sabor a menta
+- Ayuda a eliminar las manchas de la superficie: Consigue dientes más blancos
+- Ayuda a prevenir la caries: Protección anticaries probada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XDOT92A{{</world>}}

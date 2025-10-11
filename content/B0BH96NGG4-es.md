@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene un complejo antioxidante de vitaminas c, e y b5 para hidratar y cuidar la piel
-- 85% de ingredientes de origen natural
 - Embalaje creado a base de materiales reciclados
-- Proporciona un brillo natural y saludable al instante
+- 85% de ingredientes de origen natural
+- Contiene un complejo antioxidante de vitaminas c, e y b5 para hidratar y cuidar la piel
 - La base de maquillaje de Bourjois Healthy Mix Clean Foundation con una fórmula vegana
+- Proporciona un brillo natural y saludable al instante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BH96NGG4{{</world>}}

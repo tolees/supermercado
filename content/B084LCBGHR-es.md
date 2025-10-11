@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsa de 160gr
 - Patatas fritas
+- Bolsa de 160gr
 - Sabor Jamon
 
 [🛒 Comprar!!!]({{< param buyurl >}})

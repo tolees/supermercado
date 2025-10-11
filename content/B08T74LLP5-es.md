@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Contiene sólo los ingredientes necesarios
 - Mantiene la piel sana respetando el medio ambiente
 - Gel de ducha para pieles secas con hidratantes naturales
-- Fórmulas únicas que combinan cuidado e higiene
 - Testado dermatológicamente
+- Fórmulas únicas que combinan cuidado e higiene
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08T74LLP5{{</world>}}

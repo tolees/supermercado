@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - CONSEJOS DE DEGUSTACIÓN: Este whisky revela toda su riqueza aromática cuando se consume puro, a temperatura ambiente o enfriado con piedras de whisky. También puede ser utilizado en cócteles elaborados.
-- UN WHISKY TRIPLE MALT FRANCÉS: 100% francés y elogiado por la crítica a nivel internacional, Bellevoye Triple Malt Noir, envejecido en barrica nueva de roble de grano fino, es un auténtico embajador de la excelencia de los whiskies franceses.
 - LA MARCA BELLEVOYE: Aclamado por los conocedores más exigentes, el whisky Bellevoye se sirve en el Elíseo así como en los vuelos de Air France (Bellevoye Azul en clase ejecutiva y Bellevoye Rojo en primera clase).
-- EL WHISKY EN DETALLE: Este whisky triple malt ahumado a 45 ppm emana aromas de ceniza, pan tostado y moca. El paladar denso y suave evoluciona hacia un final largo y persistente con notas características de ahumado.
 - UNA CELEBRACIÓN AL WHISKY FRANCÉS: Descubre este whisky Triple Malt fabricado en Francia, una fusión única de tres whiskies de malta. BELLEVOYE incorpora a su producción estos whiskies de malta seleccionados de entre las joyas del whiskero francés.
+- UN WHISKY TRIPLE MALT FRANCÉS: 100% francés y elogiado por la crítica a nivel internacional, Bellevoye Triple Malt Noir, envejecido en barrica nueva de roble de grano fino, es un auténtico embajador de la excelencia de los whiskies franceses.
+- EL WHISKY EN DETALLE: Este whisky triple malt ahumado a 45 ppm emana aromas de ceniza, pan tostado y moca. El paladar denso y suave evoluciona hacia un final largo y persistente con notas características de ahumado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B076M9DTT7{{</world>}}

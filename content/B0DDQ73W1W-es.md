@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección de la piel. Suavidad
 - Acción regeneradora
+- Protección de la piel. Suavidad
 - La siguiente información se aplica a cada unidad del paquete
-- Ultra-hidratación (nueva fórmula con 20% de urea)
 - Cuidado diario para zonas agrietadas y dañadas
+- Ultra-hidratación (nueva fórmula con 20% de urea)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DDQ73W1W{{</world>}}

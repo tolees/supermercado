@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- tanino redondo y acidez equilibrada, de intenso sabor a fruta madura y torrefacto
+- Embutidos y quesos, carnes a la plancha, pastas y arroces con salsas de hongos.
 - aromas a fruta madura y toques ahumados
 - un vino de mayor complejidad aromática
-- Embutidos y quesos, carnes a la plancha, pastas y arroces con salsas de hongos.
-- tanino redondo y acidez equilibrada, de intenso sabor a fruta madura y torrefacto
 - notas de cacaos, vainillas, pimienta, y de manera más sutil aromas a hierbas balsámicas y mentoladas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contiene colágeno que proporciona hidratación
-- Revitaliza e ilumina la piel
 - Con ocho aceites esenciales
+- Revitaliza e ilumina la piel
 - Textura ligera que penetra rápidamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

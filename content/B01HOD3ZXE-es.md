@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El producto es fabricado con ingredientes de calidad
 - Marca: Shea
+- El producto es fabricado con ingredientes de calidad
 - Apto para el uso diario
 - Producto para el cuidado del cabello
 

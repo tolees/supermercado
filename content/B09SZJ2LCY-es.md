@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hidrata intensamente tu piel
 - Ayuda a desarrollar un bronceado dorado, uniforme y duradero
+- Hidrata intensamente tu piel
 - La fórmula no grasa se puede aplicar incluso sobre la piel húmeda
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lápiz de labios textura cremosa, color intenso, contorno más perfeccionado.
-- Contenido: 1 x LOréal Paris Color Riche Perfilador de labios 300 Le Rouge Paris
 - Modo de uso: Dibuja el contorno de tus labios con el perfilador de labios y rellenalos con las barras de labios de la gama Color Riche.
+- Contenido: 1 x LOréal Paris Color Riche Perfilador de labios 300 Le Rouge Paris
+- Lápiz de labios textura cremosa, color intenso, contorno más perfeccionado.
 - Perfilador de labios que perfecciona el contorno e intensifica el color de tu labial.
 - Beneficio: Evita que se corra el labial.
 

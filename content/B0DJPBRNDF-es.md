@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gel de ducha para la higiene diaria de toda la familia. Nutre y limpia suavemente, por lo que es adecuado para zonas íntimas. Con Niacinamida y Manteca de Karité. Para todo tipo de pieles, especialmente las sensibles y secas.
 - Aplicar mañana y/o noche una pequeña cantidad de gel para cada parte del cuerpo. Masajear suavemente y aclarar.
+- Gel de ducha para la higiene diaria de toda la familia. Nutre y limpia suavemente, por lo que es adecuado para zonas íntimas. Con Niacinamida y Manteca de Karité. Para todo tipo de pieles, especialmente las sensibles y secas.
 - Piel limpia, hidratada, calmada y protegida, con sensación de confort duradero. Textura espumosa suave.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

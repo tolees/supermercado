@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tonifica y rejuvenece
-- Relajante para piernas y pies
 - Mejora la apariencia de la piel incluso en varices
+- Relajante para piernas y pies
+- Tonifica y rejuvenece
 - Poder refrescante
 - Árnica 100% natural
 

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protege la piel del sol y del envejecimiento cutáneo prematuro.
-- Ayuda a minimizar el riesgo de reacciones cutáneas debidas al sol.
 - Proporciona una hidratación intensa y de larga duración.
+- Ayuda a minimizar el riesgo de reacciones cutáneas debidas al sol.
+- Protege la piel del sol y del envejecimiento cutáneo prematuro.
 - Cuida de los textiles: Fórmula innovadora. Las manchas debidas a los filtros UV se limpian más fácilmente, en comparación de las fórmulas anteriores.
 - Protección UVA/UVB altamente eficiente. Fórmula resistente al agua.
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con activos naturales
 - Sin parabenos y alérgenos
-- Loción corporal hidratante para pieles sensibles
+- Con activos naturales
 - Testado pediátrico y dermatológico
 - Adecuado para recién nacidos
+- Loción corporal hidratante para pieles sensibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B075HLK1LV{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos
-- Vitaminas E y C antioxidantes para ayudar al sistema inmune; Sin sabores artificiales, sin colorantes, sin OGM
 - Prebióticos FOS y pulpa de remolacha para favorecer una digestión saludable
+- Vitaminas E y C antioxidantes para ayudar al sistema inmune; Sin sabores artificiales, sin colorantes, sin OGM
 - Glucosamina y condroitina para ayudar a mantener las articulaciones sanas y una movilidad activa
 - L-carnitina para ayudarle a mantener un peso ideal
 

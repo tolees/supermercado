@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elaborado únicamente con cacao natural
-- Conservar en lugar fresco y seco
-- Ingredientes: cacao desgrasado natural (42%), maltodextrina, crema de cereal kola-malteado [harina de TRIGO, extracto de malta de CEBADA, aroma natural (extracto de nuez de cola)], fibra, sales minerales (calcio, fósforo), emulgente (lecitina de girasol), antiaglomerante (fosfato tricálcico), aromas, edulcorantes (acesulfamo K, sucralosa), sal.
-- El sabor es dulce y la textura es ligeramente espesa con una capa cremosa
 - No contiene azúcares añadidos
+- Conservar en lugar fresco y seco
+- El sabor es dulce y la textura es ligeramente espesa con una capa cremosa
+- Ingredientes: cacao desgrasado natural (42%), maltodextrina, crema de cereal kola-malteado [harina de TRIGO, extracto de malta de CEBADA, aroma natural (extracto de nuez de cola)], fibra, sales minerales (calcio, fósforo), emulgente (lecitina de girasol), antiaglomerante (fosfato tricálcico), aromas, edulcorantes (acesulfamo K, sucralosa), sal.
 - Preparación rápida y fácil con agua o leche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

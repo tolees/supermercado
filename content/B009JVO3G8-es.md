@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Conservar en un lugar fresco y seco
-- Adecuado para comidas y cenas
-- Con crema cremosa y galleta crujiente
 - Crema sabor a nata
+- Adecuado para comidas y cenas
 - Ideal como postre
+- Con crema cremosa y galleta crujiente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B009JVO3G8{{</world>}}

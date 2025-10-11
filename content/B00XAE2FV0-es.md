@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mejora tu experiencia de lavado con el abrillantador Finish para una vajilla seca y sin marcas de agua; para un lavavajillas limpio e higiénico y sin malos olores utiliza Finish Limpiamáquinas
-- Finish es la marca recomendada por los principales fabricantes de lavavajillas
-- Formato aroma Limón
 - Pack reciclable
+- Mejora tu experiencia de lavado con el abrillantador Finish para una vajilla seca y sin marcas de agua; para un lavavajillas limpio e higiénico y sin malos olores utiliza Finish Limpiamáquinas
+- Formato aroma Limón
+- Finish es la marca recomendada por los principales fabricantes de lavavajillas
 - Pastillas para el lavavajillas para una limpieza diaria
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

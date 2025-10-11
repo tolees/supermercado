@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se seca al aire. No necesita cocción y no ensucia las manos
 - Maxi caja de juego con pasta de modelar- OCEAN.
-- Una vez seca se puede colorear para hacer detalles. Reutilizable si se mezcla con agua
 - Pasta de moldear super ligera, elástica, maleable y sin gluten
+- Una vez seca se puede colorear para hacer detalles. Reutilizable si se mezcla con agua
+- Se seca al aire. No necesita cocción y no ensucia las manos
 - Colores brillantes y mezclables entre ellos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

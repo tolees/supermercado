@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Larga : cada vela de citronela al aire libre puede quemar durante 10-15 horas, el tiempo total de combustión es de hasta 80-120 horas.
 - Eficaz: el juego de 8 velas de aceite de citronela SUPERSUN puede alejar eficazmente los molestos sonidos del jardín.
 - Pure: nuestras velas de citronela con cubos ligeros están hechas de 100% vela de soja wah x, junto con la mecha de vela orgánica.
 - Regalo de verano: Las velas de citronela de jardín evitan eficazmente los molestos sonidos del verano cuando tienes actividades al aire libre, por ejemplo. camping, barbacoa, cena fuera de casa. También traen un ambiente bastante interior, por ejemplo. Hacer comida en la cocina, dormir.
-- Larga : cada vela de citronela al aire libre puede quemar durante 10-15 horas, el tiempo total de combustión es de hasta 80-120 horas.
 - Agradable fragancia: Estas velas perfumadas de citronela mezcladas con 5% de aceite esencial de citronela difunden una nota superior de cítricos verdes y una nota base de citronela, fresca pero nunca abrumadora.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

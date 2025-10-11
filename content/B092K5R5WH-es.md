@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El resultado: Acabado mate y sin brillos y un maquillaje con buen acabado
 - Fórmula con arcilla que borra poros y controla brillos durante todo el dia
-- Formato crema para un acabado mate y una aplicación sencilla y efica
 - Fit me Primer Mate es el primer paso antes del maquillaje diario para piel normal a grasa
+- El resultado: Acabado mate y sin brillos y un maquillaje con buen acabado
+- Formato crema para un acabado mate y una aplicación sencilla y efica
 - Modo de empleo: Aplicar con la piel limpia antes del maquillaje; distribuir por todo el rostro y dejar actuar unos segundos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

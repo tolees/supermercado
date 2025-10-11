@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Óptima duración; piel óptima hasta 35 horas
 - Óptima cobertura y sensación ligera
 - Fórmula clean y vegana
 - Resistente al sudor, calor y la humedad; con SPF20
+- Óptima duración; piel óptima hasta 35 horas
 - Formulada con ácido hialurónico, niacinamida y vitamina E, impulsa la hidratación de la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

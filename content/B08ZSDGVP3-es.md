@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- NUTRICIÓN EXPERTA diseñada para lactantes sanos desde el nacimiento, cuando la lactancia materna no sea posible, que ayuda al desarrollo saludable proporcionando unas bases sólidas para su futuro
 - 100% lactosa
+- NUTRICIÓN EXPERTA diseñada para lactantes sanos desde el nacimiento, cuando la lactancia materna no sea posible, que ayuda al desarrollo saludable proporcionando unas bases sólidas para su futuro
 - Con DHA, que contribuye al desarrollo visual y normal de los bebés hasta los 12 meses - El efecto beneficioso se consigue con una dosis diaria de 100mg de DHA
 - Con 5 HMO también presentes en la leche materna, que alimenta las bacterias buenas para una microbiota sana
 - Con el probiótico L.reuteri, naturalmente presente en la leche materna

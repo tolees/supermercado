@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DESCUBRE TODA LA COLECCIÓN: Prueba la colección de fragancias Green Tea de Elizabeth Arden y descubre tu favorita
 - CONSEJOS DE USO: Rociar la fragancia en las áreas donde la piel es más fina: muñecas, detrás de las orejas, parte delantera de los codos
 - NOTAS DE FONDO: almizcle, abelmosco, abedul
+- DESCUBRE TODA LA COLECCIÓN: Prueba la colección de fragancias Green Tea de Elizabeth Arden y descubre tu favorita
 - NOTAS DE SALIDA: mandarina, menta, manzanilla
 - NOTAS DE CORAZÒN: magnolia, té, lavanda
 

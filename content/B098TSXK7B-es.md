@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fideos orientales (93,7%): harina de TRIGO, aceite de girasol, sal, estabilizante (polifosfato sódico), GLUTEN de TRIGO, corrector de acidez (carbonato potásico). Condimento (6,3%): sal, almidón de maíz, azúcar, extracto de levadura (extracto de levadura, sal), aroma natural, especias (curry 0,44%, cúrcuma 0,06%, jengibre), aromas (contiene TRIGO), cebolla deshidratada, aceite de girasol, azúcar caramelizado.
 - Nestle
+- Fideos orientales (93,7%): harina de TRIGO, aceite de girasol, sal, estabilizante (polifosfato sódico), GLUTEN de TRIGO, corrector de acidez (carbonato potásico). Condimento (6,3%): sal, almidón de maíz, azúcar, extracto de levadura (extracto de levadura, sal), aroma natural, especias (curry 0,44%, cúrcuma 0,06%, jengibre), aromas (contiene TRIGO), cebolla deshidratada, aceite de girasol, azúcar caramelizado.
 - Alergenos: APIO, HUEVO, LECHE, MOSTAZA, SOJA y SÉSAMO AIPO, OVO, LÉITE, MOSTARDA, SOJA e SÉSAMO
 
 [🛒 Visítala!!!]({{< param buyurl >}})

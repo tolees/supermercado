@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color y aroma a chocolate
-- Cerveza de estilo Barley Wine. Alc. 10,4% vol.
-- Primera cerveza española diseñada para acompañar cualquier plato, especialmente los postres
+- Cuádruple malta, balanceada
 - Caja de 12 botellas de 33cl
 - Notas a caramelo, café y manzana
-- Cuádruple malta, balanceada
+- Primera cerveza española diseñada para acompañar cualquier plato, especialmente los postres
+- Color y aroma a chocolate
+- Cerveza de estilo Barley Wine. Alc. 10,4% vol.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PFWG6XZ{{</world>}}

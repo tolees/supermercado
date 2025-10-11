@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- OZOAQUA pastilla jabon de ozono 100gr
 - De la mano de las marcas pioneras en el mercado
+- OZOAQUA pastilla jabon de ozono 100gr
 - Los mejores productos para cuidar tu piel y mantenerla en perfecto estado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

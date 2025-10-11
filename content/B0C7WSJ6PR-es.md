@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Beber con moderación
 - Vino Tinto DO Toro 100% garnacha
 - Bebida de vino
-- Beber con moderación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C7WSJ6PR{{</world>}}

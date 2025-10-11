@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alérgenos: grasa láctea y leche
-- Edición limitada
 - Sabor naranja y menta
+- Edición limitada
+- Alérgenos: grasa láctea y leche
 - País de origen: España
 - Conservar en un lugar fresco y seco
 

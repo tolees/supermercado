@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PROPIEDADES: La barrita energética de naranja para cuando quieres darlo todo. A base de una mezcla de carbohidratos seleccionados (22gr), y bajo en grasas. Sin gluten
+- MODO DE USO: Durante el ejercicio físico intenso, consumir hasta 2 barritas cada hora
 - BENEFICIOS: Para momentos de máximo esfuerzo. Fórmula basada en una mezcla exclusiva de glucosa, fructosa y maltodextrina. Las vitaminas B1 y B6 contribuyen al metabolismo energético normal
 - BARRITA ENERGÉTICA: Te proporciona un verdadero impulso de carbohidratos para tus entrenamientos más exigentes y durante las competiciones. Con trozos de naranja
-- MODO DE USO: Durante el ejercicio físico intenso, consumir hasta 2 barritas cada hora
+- PROPIEDADES: La barrita energética de naranja para cuando quieres darlo todo. A base de una mezcla de carbohidratos seleccionados (22gr), y bajo en grasas. Sin gluten
 - ENERVIT: Formulamos y producimos soluciones nutricionales e innovadoras de integración con un objetivo preciso: ayudar a todas las personas a mejorar la calidad de sus vidas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

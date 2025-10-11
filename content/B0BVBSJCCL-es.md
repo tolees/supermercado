@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alta calidad – El producto cumple con los estándares de calidad alemanes y garantiza un lavado eficaz todos los días.
-- Dosificación práctica – El paquete contiene 20 cápsulas; simplemente coloca una en el tambor de la lavadora para cada ciclo de lavado.
 - Lavado eficiente – Las cápsulas Purox Universal son la elección ideal para lavar todo tipo de tejidos, tanto blancos como de colores.
+- Dosificación práctica – El paquete contiene 20 cápsulas; simplemente coloca una en el tambor de la lavadora para cada ciclo de lavado.
 - Concepto ecológico – Con respeto al medio ambiente, el producto no contiene fosfatos ni zeolitas.
 - Acción en dos fases – La fórmula concentrada en gel actúa en dos fases: elimina eficazmente las manchas y luego cuida los colores.
 

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin aromas, colorantes ni conservantes artificiales
 - Prebióticos naturales para mejorar la digestión sensible
-- Con biotina, zinc y salmón: una fuente natural de Omega 3 para mantener la piel y el cabello sanos
 - Con salmón fresco; carne y derivados animales: aprox. un 28%
-- Conservar en un lugar fresco, seco y oscuro. Una vez abierto, volver a sellar lo más hermético posible
-- Una receta sabrosa con proteínas de alta calidad
-- Con glucosamina y condroitina para mejorar las articulaciones; Con taurina para tener la vista y el corazón saludables
+- Con biotina, zinc y salmón: una fuente natural de Omega 3 para mantener la piel y el cabello sanos
 - Diseñada por nutricionistas de animales y revisada por veterinarios
+- Sin aromas, colorantes ni conservantes artificiales
+- Con glucosamina y condroitina para mejorar las articulaciones; Con taurina para tener la vista y el corazón saludables
+- Una receta sabrosa con proteínas de alta calidad
+- Conservar en un lugar fresco, seco y oscuro. Una vez abierto, volver a sellar lo más hermético posible
 - Sin soja, cebada ni productos lácteos añadidos
 - Comida para gatos adultos: nutrición 100% completa y equilibrada
 

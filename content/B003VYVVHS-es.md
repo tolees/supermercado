@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en lugar fresco y seco
-- Con un sabor dulce
 - Ideal para el desayuno
-- Se puede usar para postres
 - Crema de avellanas y cacao para untar
+- Se puede usar para postres
+- Con un sabor dulce
+- Conservar en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003VYVVHS{{</world>}}

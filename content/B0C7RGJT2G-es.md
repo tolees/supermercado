@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- CAFÉ SOSTENIBLE: Las cápsulas L’OR Espresso son elaboradas con café sostenible con certificado UTZ (Rainforest Alliance) que garantiza una Agricultura Sostenible.
+- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 - 100 CÁPSULAS - 100 Cápsulas simples de Aluminio compatibles con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts).
 - SABROSO E INTENSO - Café de alta calidad tostado lentamente dando lugar a un sabor y aroma únicos
 - INTENSIDAD 9 - Café 100% arábica y con origen de colombia delicadamente tostado
-- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
-- CAFÉ SOSTENIBLE: Las cápsulas L’OR Espresso son elaboradas con café sostenible con certificado UTZ (Rainforest Alliance) que garantiza una Agricultura Sostenible.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7RGJT2G{{</world>}}

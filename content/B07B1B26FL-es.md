@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes naturales: agua, mezcla de maltas pilsen y malta tostada y de lúpulos amargos y aromáticos y levadura exclusiva Cruzcampo
-- Cerveza tipo lager y estilo lager tostada. Maduración lenta en Bodega
-- De color oro viejo brillante y espuma densa. De cuerpo medio y amargor suave y agradable
 - Consumirla entre 2° y 4°C para obtener sus máximas cualidades
+- Cerveza tipo lager y estilo lager tostada. Maduración lenta en Bodega
 - 6,4% de alcohol en volumen
+- De color oro viejo brillante y espuma densa. De cuerpo medio y amargor suave y agradable
+- Ingredientes naturales: agua, mezcla de maltas pilsen y malta tostada y de lúpulos amargos y aromáticos y levadura exclusiva Cruzcampo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07B1B26FL{{</world>}}

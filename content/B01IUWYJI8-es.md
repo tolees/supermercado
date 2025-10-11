@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tienen un sabor dulce
-- Surtido de caramelos de frutas
-- De diferentes formas y colores
 - Ideales como postre
+- Surtido de caramelos de frutas
+- Tienen un sabor dulce
+- De diferentes formas y colores
 - Conservar en un lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

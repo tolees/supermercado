@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho sin parabenos
 - Cómoda, práctica y fácil de usar
-- Viene en un pequeño y conveniente formato roll on
 - Apta para pieles sensibles
+- Viene en un pequeño y conveniente formato roll on
+- Hecho sin parabenos
 - La siguiente información se aplica a cada unidad del paquete
 - Protege eficazmente la piel
 

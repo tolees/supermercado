@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Amarillo brillante, limpio con matices grises
-- Un vino blanco afrutado
-- Fresco, expresivo y lleno de matices
 - Elaborado con dos de las variedades blancas con más historia del Mediterráneo
+- Un vino blanco afrutado
+- Amarillo brillante, limpio con matices grises
+- Fresco, expresivo y lleno de matices
 - Suave, afrutado y elegante
 
 [🛒 Visítala!!!]({{< param buyurl >}})

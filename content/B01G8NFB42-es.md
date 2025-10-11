@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es hidratante y antiinflamatorio.
-- La Glicerina es un producto que retiene la humedad protegiendo las uñas.
-- Quitaesmalte Bababaria con aloe vera
 - Formato 200 ml
+- Es hidratante y antiinflamatorio.
+- Quitaesmalte Bababaria con aloe vera
+- La Glicerina es un producto que retiene la humedad protegiendo las uñas.
 - El Aloe Vera tiene propiedades cicatrizantes y regeneradoras.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

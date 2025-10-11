@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - mini
-- puppy
 - dental care
+- puppy
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00Y9SU1DA{{</world>}}

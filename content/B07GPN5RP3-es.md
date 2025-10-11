@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Crema Corporal Cuidado De La Piel Hombre
 - Cuerpo Clinique
 - Clinique (0020714612764)
+- Crema Corporal Cuidado De La Piel Hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07GPN5RP3{{</world>}}

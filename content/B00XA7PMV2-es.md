@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Arábica Lavado y Natural Descafeinado por métodos tradicionales
-- Para Cafeteras Italiana, de émbolo o malita
 - Intensidad 5
+- Para Cafeteras Italiana, de émbolo o malita
 - Producto especial para cafeteras de émbolo, Melita o italiana
 - Sabor fino, ligeramente afrutado
 

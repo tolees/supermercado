@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color de media intensidad y tono rojo amoratado, vivo y brillante
 - Muestra aromas a frutas rojas confitadas junto a notas refrescantes y de especias
-- Un vino muy bien estructurado, suave y fresco
+- Color de media intensidad y tono rojo amoratado, vivo y brillante
 - Entrada en boca potente y de gran personalidad
+- Un vino muy bien estructurado, suave y fresco
 - Postgusto persistente y muy agradable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

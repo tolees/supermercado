@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Conservar en lugar fresco y seco
 - Chicles refrescantes sin azúcar con sabor a melocotón y sandía
 - Formato pack de 12 envases individuales de chicles tipo gragea rellena de powder
 - Alérgenos: Sin azúcar, con edulcorantes. Contiene sorbitol y una fuente de fenilalanina
-- Conservar en lugar fresco y seco
 - Trident Max ofrece combinaciones de sabores intensos con texturas crujientes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MÚLTIPLES BENEFICIOS: Al ser un producto 2 en 1 que no necesita suavizante, este detergente dejará tu ropa suave y esponjosa de manera natural, con un aroma a lavanda. Además, su fórmula no contiene pictogramas.
-- SOBRE NOSOTROS: Biobel es una marca de Jabones Beltrán referente en la fabricación de jabones y detergentes para la limpieza y el cuidado de la ropa y del hogar. Disponemos de productos de calidad, eficaces y con certificación Ecocert.
 - MODO DE EMPLEO: Es aconsejable agitar antes de usar y lavar a baja temperatura. Para utilizarlo, es recomendable no sobrepasar la dosis indicada en la etiqueta del producto según el grado de suciedad y la dureza de la cal del agua.
-- INGREDIENTES NATURALES: Elaboramos nuestros detergentes líquidos con agua, jabón vegetal, tensioactivos de origen vegetal, alcohol vegetal, sales de carbonato y aceite esencial de lavanda. No contiene componentes etoxilados ni de origen animal.
+- MÚLTIPLES BENEFICIOS: Al ser un producto 2 en 1 que no necesita suavizante, este detergente dejará tu ropa suave y esponjosa de manera natural, con un aroma a lavanda. Además, su fórmula no contiene pictogramas.
 - DETERGENTE LÍQUIDO BIO: Hemos enriquecido nuestro detergente ecológico en formato líquido con jabón natural para cuidar y alargar la vida útil de tus prendas favoritas. ¡Es ideal para lavar en lavadora todo tipo de ropa!
+- SOBRE NOSOTROS: Biobel es una marca de Jabones Beltrán referente en la fabricación de jabones y detergentes para la limpieza y el cuidado de la ropa y del hogar. Disponemos de productos de calidad, eficaces y con certificación Ecocert.
+- INGREDIENTES NATURALES: Elaboramos nuestros detergentes líquidos con agua, jabón vegetal, tensioactivos de origen vegetal, alcohol vegetal, sales de carbonato y aceite esencial de lavanda. No contiene componentes etoxilados ni de origen animal.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IFFPBRI{{</world>}}

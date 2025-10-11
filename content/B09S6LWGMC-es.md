@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No contiene filtros químicos ni parabenos
-- 100% filtro mineral
-- Absorbe el exceso de grasa y proporciona un acabado mate
 - Se puede aplicar debajo o sobre el maquillaje o solo.
+- 100% filtro mineral
 - Con una fórmula ligera
+- No contiene filtros químicos ni parabenos
+- Absorbe el exceso de grasa y proporciona un acabado mate
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09S6LWGMC{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Patatas fritas
 - Sabor Jamon
 - Bolsa de 295gr
+- Patatas fritas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B084LCL3HZ{{</world>}}

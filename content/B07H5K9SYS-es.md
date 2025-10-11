@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Desarrollo cerebral saludable: Con DHA para favorecer el desarrollo cerebral saludable; Crecimiento sano: Minerales esenciales y vitamina D para favorecer unos huesos fuertes y un crecimiento sano
 - IAMS for Vitality con pollo fresco para gatitos es un alimento 100 percent completo y equilibrado que aporta vitalidad a su gatito
-- Dientes sanos: croquetas crujientes y niveles de minerales a medida para ayudar a reducir el sarro y lograr unos dientes sanos; Sin saborizantes artificiales, sin colorantes, sin OGM ni ingredientes de relleno
-- Nota: el embalaje puede variar
-- Ojos brillantes: Taurina y DHA para favorecer una visión sana; Piel y pelo sanos: contiene ácidos Omega 3 y 6 para mantener una piel y un pelo sanos
 - Digestión sana: mezcla de fibras adaptada, con prebióticos y pulpa de remolacha, para una digestión sana
+- Nota: el embalaje puede variar
+- Dientes sanos: croquetas crujientes y niveles de minerales a medida para ayudar a reducir el sarro y lograr unos dientes sanos; Sin saborizantes artificiales, sin colorantes, sin OGM ni ingredientes de relleno
+- Ojos brillantes: Taurina y DHA para favorecer una visión sana; Piel y pelo sanos: contiene ácidos Omega 3 y 6 para mantener una piel y un pelo sanos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07H5K9SYS{{</world>}}

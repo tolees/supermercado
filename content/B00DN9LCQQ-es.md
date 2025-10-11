@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Producto Para El Cuidado Y Bienestar De Tu Cuerpo
-- Producto de la marca BIOGRÁ
 - Productos frescos y naturales
+- Producto de la marca BIOGRÁ
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DN9LCQQ{{</world>}}

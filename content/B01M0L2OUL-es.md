@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SOBRE NOSOTROS: En Whole Earth estamos especializados en la elaboración de bebidas y alimentos naturales. Somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
-- BEBIDA REFRESCANTE ECOLÓGICA: Nuestra bebida de limón bio está hecha con el azúcar propio de las frutas cultivadas orgánicamente y no contiene aromas ni colorantes artificiales. Es el producto ideal para refrescarte en los calurosos días de verano.
-- MÚLTIPLES BENEFICIOS: El limón es una fruta que destaca por ser una rica fuente de vitaminas, flavonoides, ácido fólico y minerales. Como resultado, contribuye a prevenir el envejecimiento prematuro y a fortalecer el sistema inmunitario.
-- MEZCLA Y DISFRUTA: Combina esta bebida con otras y crea cócteles deliciosos, sabrosos y más saludables. Déjate llevar por su primer sabor dulce y su toque picante final, ¡te encantará!
 - INGREDIENTES NATURALES: Elaboramos esta deliciosa bebida a base de agua con gas, zumo de manzana, sirope de agave, zumo de limón y aroma natural. Este producto es 100% orgánico, libre de gluten y apto para consumo vegano.
+- SOBRE NOSOTROS: En Whole Earth estamos especializados en la elaboración de bebidas y alimentos naturales. Somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
+- MEZCLA Y DISFRUTA: Combina esta bebida con otras y crea cócteles deliciosos, sabrosos y más saludables. Déjate llevar por su primer sabor dulce y su toque picante final, ¡te encantará!
+- MÚLTIPLES BENEFICIOS: El limón es una fruta que destaca por ser una rica fuente de vitaminas, flavonoides, ácido fólico y minerales. Como resultado, contribuye a prevenir el envejecimiento prematuro y a fortalecer el sistema inmunitario.
+- BEBIDA REFRESCANTE ECOLÓGICA: Nuestra bebida de limón bio está hecha con el azúcar propio de las frutas cultivadas orgánicamente y no contiene aromas ni colorantes artificiales. Es el producto ideal para refrescarte en los calurosos días de verano.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01M0L2OUL{{</world>}}

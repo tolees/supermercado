@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dividir el cabello en 2 secciones y aplicar una presión por sección. Desenredar para distribuir y dejar actuar.
-- Esta mascarilla sin aclarado patentada, formulada con un Reparador de enlaces + 5 Aminoácidos, repara 2 años de daños, en un solo uso*. El cabello queda más fuerte y con movimiento**. Protección contra el calor hasta 230°C****.
 - Repara la estructura macromolecular***. La textura ligera penetra al instante y restaura la fuerza del cabello**.
+- Esta mascarilla sin aclarado patentada, formulada con un Reparador de enlaces + 5 Aminoácidos, repara 2 años de daños, en un solo uso*. El cabello queda más fuerte y con movimiento**. Protección contra el calor hasta 230°C****.
+- Dividir el cabello en 2 secciones y aplicar una presión por sección. Desenredar para distribuir y dejar actuar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DBZW4427{{</world>}}

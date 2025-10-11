@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acabado radiante e impecable
-- Prebase, potenciador de brillo e iluminador 3 en 4
 - Con biopéptidos, vitaminas C y E, revitaliza y nutre la piel
-- Viene con un gran aplicador de tacto suave para una aplicación fácil e impecable
+- Acabado radiante e impecable
 - Fórmula vegana
+- Prebase, potenciador de brillo e iluminador 3 en 4
+- Viene con un gran aplicador de tacto suave para una aplicación fácil e impecable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CRZ7ZHDS{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London 60 Seconds Super Shine Esmalte de Uñas  320 - Rapid Ruby'
-date: 2025-10-03 01:41:53
+date: 2025-10-11 09:58:54
 image: 'https://m.media-amazon.com/images/I/3138pb8R0US._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ '9ed22afa-2efb-4171-8c99-31b8476ebf6d_0','9ed22afa-2efb-4171-8c99-31b847
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75
-comparePrice: 2.87 EUR
+comparePrice: 1.75 EUR
 prodname: 'Rimmel London 60 Seconds Super Shine Esmalte de Uñas  320 - Rapid Ruby'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Rimmel London'
 buyurl: 'https://www.amazon.es/dp/B00UYJGSCQ/?tag=tolees-21'
-descuento: '39.02'
-average: '1.57739130434782'
+descuento: '0.00'
+average: '1.5912'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cada pasada proporciona una base de color y un acabado protector brillante
-- Esmalte de uñas de secado rápido
-- Alto impacto de color y acabado ultra brillante
 - Tecnología 3 en 1: base, color y top coat glossy
+- Alto impacto de color y acabado ultra brillante
+- Esmalte de uñas de secado rápido
+- Cada pasada proporciona una base de color y un acabado protector brillante
 - Con cepillo diseñado para una aplicación rápida y uniforme
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

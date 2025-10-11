@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Una cobertura completa que ilumina la piel, cubriendo al mismo tiempo las imperfecciones
 - Una fórmula no comedogénica que hidrata, repara y protege la piel a largo plazo
 - No se acumula en las arrugas
-- Una cobertura completa que ilumina la piel, cubriendo al mismo tiempo las imperfecciones
 - Sin efecto de máscara
 
 [🛒 Visítala!!!]({{< param buyurl >}})

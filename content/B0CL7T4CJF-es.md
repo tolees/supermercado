@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - materialFabricComposition: 60% Cotton, 20% Nylon, 20% Viscose
-- Regular Fit
-- V-Neck
-- Care Label:
 - Long Sleeves
+- Regular Fit
+- Care Label:
+- V-Neck
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL7T4CJF{{</world>}}

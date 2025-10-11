@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Distintos sabores y texturas.
-- Delicioso surtido de caramelos TOP.
 - Incluye referencias como: Ositos de Oro, Cerezas, Cola, Sandía y Balla Balla fresa.
+- Delicioso surtido de caramelos TOP.
+- Distintos sabores y texturas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BT21WFFY{{</world>}}

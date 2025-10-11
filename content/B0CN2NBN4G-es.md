@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
 - Gel de baño nutritivo con extracto refrescante de cítricos y melocotón
 - Extractos naturales de cítricos y melocotón
+- La siguiente información se aplica a cada unidad del paquete
 - Proporciona una humedad fresca para una piel flexible y en forma
 - La vitamina C activa las defensas y ayuda a frenar el envejecimiento prematuro de
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aloe vera 100% natural
+- Hidratación profunda
 - Regenerador natural
 - Para toda la familia
-- Hidratación profunda
+- Aloe vera 100% natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00BN7WMI2{{</world>}}

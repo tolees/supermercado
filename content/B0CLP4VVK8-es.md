@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Delicioso y sabroso guiso con alto contenido en carne, naturalmente rico en taurina.
-- Envase de 95 g que se puede volver a cerrar y fabricados con un 70% de cartón renovable con certificación FSC
-- Alto contenido en humedad, que ayuda a mantener hidratado a tu felino.
 - SIN cereales, soja, gluten, conservantes, aromatizantes ni colorantes artificiales.
+- Alto contenido en humedad, que ayuda a mantener hidratado a tu felino.
+- Envase de 95 g que se puede volver a cerrar y fabricados con un 70% de cartón renovable con certificación FSC
 - Envases Tetra Pack reciclables cuya producción consume menos energía que la de otros tipos de envases.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

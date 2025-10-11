@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ofrece una combinación óptima de color, cuidado y brillo
-- Brand: REVLON PROFESSIONAL
 - Una mezcla que combina ingredientes cosméticos con un sistema acondicionador, provitamina b5, aceite de semilla de uva y una selección de pigmentos iónicos
 - Coloración directa con tratamiento nutritivo para cabellos teñidos
+- Brand: REVLON PROFESSIONAL
+- Ofrece una combinación óptima de color, cuidado y brillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08JHV7HSQ{{</world>}}

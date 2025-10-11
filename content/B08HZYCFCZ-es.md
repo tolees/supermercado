@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Brand: Revlon Professional ProYou
 - Limpia suavemente el cabello débil y fino
-- Nuestras fórmulas con densipeptide fortalecen la estructura del cabello, revitalizan el cabello quebradizo, mantienen la densidad del cabello e hidratan el cuero cabelludo y el cabello
 - Volumen 350 ml
+- Nuestras fórmulas con densipeptide fortalecen la estructura del cabello, revitalizan el cabello quebradizo, mantienen la densidad del cabello e hidratan el cuero cabelludo y el cabello
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HZYCFCZ{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- APTO PARA PIELES SENSIBLES Y PRENDAS DELICADAS: medias, ropa interior, prendas de baño, ropita de bebé, etc
 - SAN PACÍFICO PACK DE 8: Proporciona a tus prendas un perfume duradero, fresco, floral y afrutado
-- Fragancia duradera con sólo un tapón 🌍 envase 100% reciclable
 - MANTIENE Y PROTEGE: la ropa blanca y de color aportando la máxima suavidad en tus prendas y evitando la electricidad estática y el daño que ocasiona el lavado
+- Fragancia duradera con sólo un tapón 🌍 envase 100% reciclable
+- APTO PARA PIELES SENSIBLES Y PRENDAS DELICADAS: medias, ropa interior, prendas de baño, ropita de bebé, etc
 - FRESCOR Y FRAGANCIA: duradera de hasta 20 días en tu ropa, gracias a la selección exhaustiva de las mejores esencias
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

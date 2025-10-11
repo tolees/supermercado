@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Triple acción - Listerine Naturals sabor suave reduce la placa eficazmente, previene la gingivitis y fortalece las encías, actuando por debajo de la línea de las encías
 - Fórmula biodegradable – Formulado con aceites esenciales, este colutorio vegano con ingredientes naturales combate la halitosis y ofrece un aliento fresco durante 24 h
-- Para una boca sana – Olvídate de caries y encías inflamadas y evita la formación de sarro con este enjuague bucal con mayor alcance que el cepillo y el hilo dental*
 - Detalles del envío: Listerine Naturals sabor suave, enjuague bucal vegano y biodegradable con sabor a menta, elimina el 99,9% de los gérmenes y mantiene la higiene dental, 1 x 500 ml
+- Para una boca sana – Olvídate de caries y encías inflamadas y evita la formación de sarro con este enjuague bucal con mayor alcance que el cepillo y el hilo dental*
 - Clínicamente probado – Recomendado por dentistas, Listerine proporciona una protección y limpieza dental clínicamente probadas para una limpieza bucal completa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

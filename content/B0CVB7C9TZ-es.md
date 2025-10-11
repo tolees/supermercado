@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Referencia: S05120796
-- Medidas: 2,7 x 4,7 x 15,7 centímetros
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Color: Multicolor
+- Referencia: S05120796
+- Medidas: 2,7 x 4,7 x 15,7 centímetros
 - Fluido Hidratante de la marca Garnier
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidrata y acondiciona el pelo de la barba para suavizar y alisar la barba de 3 días áspera y erizada
-- Hidrata la barba y el rostro para ayudar a aliviar el picor y la descamación de la piel seca
 - Fórmula ligera para sensación cómoda y no grasa
-- King C. Gillette, Ganadora del Premio Producto del Año 2022
+- Hidrata la barba y el rostro para ayudar a aliviar el picor y la descamación de la piel seca
 - La fórmula del complejo de vitamina B ayuda a fortalecer la barrera natural de la piel al mantener la hidratación y no dejar entrar los irritantes
 - Fragancia exclusiva con notas de bergamota, geranio y madera de cedro para una barba con aroma excelente
+- Hidrata y acondiciona el pelo de la barba para suavizar y alisar la barba de 3 días áspera y erizada
+- King C. Gillette, Ganadora del Premio Producto del Año 2022
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BVQ6VXV{{</world>}}

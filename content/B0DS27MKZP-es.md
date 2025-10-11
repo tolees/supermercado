@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No usar en superfícies delicadas
 - Pack de 5 estropajos
 - La siguiente información se aplica a cada unidad del paquete
 - Multiusos, ideales para la limpieza de la suciedad más incrustada y la grasa de tu vailla, además de las superfícies de la cocina
+- No usar en superfícies delicadas
 - Hechos de fibra verde con esponja de poliuretano de distintos colores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

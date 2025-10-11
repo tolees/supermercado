@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto elaborado con las mejores frutas Ideal para untar sobre pan y enriquecer desayunos y meriendas
+- Sin conservantes, sin colorantes y libre de alérgenos
 - Conservar en un lugar fresco y seco. Refrigerado una vez abierto.
 - Sin conservantes, sin colorantes y libre de alérgenos
-- Sin conservantes, sin colorantes y libre de alérgenos
+- Producto elaborado con las mejores frutas Ideal para untar sobre pan y enriquecer desayunos y meriendas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00M3WOY1O{{</world>}}

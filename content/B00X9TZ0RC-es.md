@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Antes de la exposición solar, aplicar generosamente y extender de manera homogénea y uniforme con movimientos circulares para cubrir bien las zonas expuestas. Reaplicar frecuentemente para mantener la protección sobre todo después de haber nadado, transpirado o secado con una toalla.
 - La innovadora tecnología Netlock crea una malla protectora en la piel, con una fórmula que es muy resistente al agua
+- 0% pegajoso, 0% graso.
 - Muy alta protección contra los rayos UVB, UVA, y UVA largos, previniendo instantáneamente quemaduras solares y daños a largo plazo en la piel.
 - Nuestra fórmula no tiene perfume y está testada bajo control pediátrico. Garnier apoya la Liga Europea contra el Cáncer.
-- 0% pegajoso, 0% graso.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00X9TZ0RC{{</world>}}

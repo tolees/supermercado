@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formato Bag in Box (o BIB) de 3 litros: a diferencia del cubi, puede conservarse hasta 8 semanas después de su apertura, lo que permite consumir Baron de Lestac Rouge en varias tandas y evitar cualquier desperdicio.
-- El Baron de Lestac rouge envejece en barricas de roble durante seis meses.
 - Color: granate oscuro con reflejos teja. Nariz: notas amaderadas y de frutos rojos. Boca: estructura fina, taninos suaves y armoniosos, finamente amaderado.
-- Región: vino tinto de Burdeos. Variedades de uva: Cabernet Franc y Cabernet Sauvignon.
+- El Baron de Lestac rouge envejece en barricas de roble durante seis meses.
 - Baron de Lestac es un vino rico con una personalidad única. Transmite todas las sutilezas del terruño bordelés a través de su selección de variedades de uva. Baron de Lestac, !eso es Burdeos!
+- Formato Bag in Box (o BIB) de 3 litros: a diferencia del cubi, puede conservarse hasta 8 semanas después de su apertura, lo que permite consumir Baron de Lestac Rouge en varias tandas y evitar cualquier desperdicio.
+- Región: vino tinto de Burdeos. Variedades de uva: Cabernet Franc y Cabernet Sauvignon.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RG7DWWH{{</world>}}

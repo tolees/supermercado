@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ramo de caramelos con palo Chupa Chups de sabores surtidos: fresa, manzana, limón, cereza, sandía y naranja. El producto contiene 19x12 gr. de caramelos con palo.
-- Con más de 60 años a las espaldas, Chupa Chups es el caramelo favorito de todas las generaciones. Y siempre con los ingredientes de la mejor calidad. ¡Simplemente imprescindibles!
 - Descubre más sobre este y otros productos de Chupa Chups más abajo.
+- Ramo de caramelos con palo Chupa Chups de sabores surtidos: fresa, manzana, limón, cereza, sandía y naranja. El producto contiene 19x12 gr. de caramelos con palo.
 - Nuestro caramelo con palo Chupa Chups es práctico e higiénico. Lo puedes llevar en el bolsillo, en la mochila, en el bolso. ¡Diviértete y disfrútalo!
 - En Chupa Chups pensamos en ti. Trabajamos cada día para ofrecerte caramelos y golosinas más saludables. ¡Que nada te quite la oportunidad de divertirte! Este producto es SIN GLUTEN.
+- Con más de 60 años a las espaldas, Chupa Chups es el caramelo favorito de todas las generaciones. Y siempre con los ingredientes de la mejor calidad. ¡Simplemente imprescindibles!
 - Ideal para cualquier ocasión y evento: en clase, en el parque, en la oficina, en casa, en fiestas y entre horas. Para compartir, regalar y disfrutar solo o en compañía.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

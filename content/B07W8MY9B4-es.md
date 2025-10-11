@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Café en grano de tueste natural
-- Ideal para el desayuno o una pausa durante el día
 - Fácil y rápido de preparar
+- Ideal para el desayuno o una pausa durante el día
 - Una vez abierto conservar en un recipiente hermético
 - Se puede servir solo o con leche
 

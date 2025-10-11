@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es suave al paladar
 - De color rojo vivo
 - Muy armonioso en aroma
 - Adecuado como regalo
+- Es suave al paladar
 - Ideal con hielo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

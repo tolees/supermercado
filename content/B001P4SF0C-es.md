@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sabor aterciopelado, floral, chocolate negro, toques de humo dulce y suave
-- De color ámbar intenso
 - Con notas de fruta seca, caramelo, chocolate negro
 - Acabado de larga duración, afrutado
 - Perfecto como un regalo
+- De color ámbar intenso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001P4SF0C{{</world>}}

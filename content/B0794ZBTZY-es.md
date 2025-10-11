@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes : pasta de cacao, azucar, cacao desgrasado en polvo, emulgente : lecitina de SOJA, aroma natural de vainilla. Puede contener: LECHE
+- Almacenar el producto en un ambiente limpio, seco (humedad relativa máx. 70%) y sin olores. Temperatura de almacenamiento 12-20ºc
 - Alérgenos: soja,leche,lactosa,aceite,vainillina,fructosa
 - País de origen: bélgica
-- Almacenar el producto en un ambiente limpio, seco (humedad relativa máx. 70%) y sin olores. Temperatura de almacenamiento 12-20ºc
+- Ingredientes : pasta de cacao, azucar, cacao desgrasado en polvo, emulgente : lecitina de SOJA, aroma natural de vainilla. Puede contener: LECHE
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0794ZBTZY{{</world>}}
