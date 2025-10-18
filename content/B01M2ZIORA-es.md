@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - No contiene colorantes artificiales, ni aromas ni conservantes
 - La correcta nutrición de los perros es la clave para que tengan huesos sanos, una buena digestión, un pelaje y una piel saludables y unas defensas naturales fuertes
-- Deliciosa comida húmeda en gelatina para perros, desarrollada para una dieta completa y equilibrada
 - A tu perro le encantarán sus dos sabores, con Pollo o con Cordero
+- Deliciosa comida húmeda en gelatina para perros, desarrollada para una dieta completa y equilibrada
 - Comida desarrollada por nuestros veterinarios y nutricionistas del centro Waltham, que garantiza una dieta completa para tu perro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

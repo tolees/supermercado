@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Contiene aceite de ricino
 - Es de la marca Elvive
-- El producto representa un champú
 - Tiene 300 ml
+- El producto representa un champú
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07GZNSVCQ{{</world>}}

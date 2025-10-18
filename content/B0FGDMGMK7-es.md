@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Informaciones de seguridad: No retire el tapón. Almacenar en un lugar fresco y seco. Limpiar y bloquear el tapón después de cada uso.
-- Uso recomendado con el método completo: Para mejores resultados, aplicar tras champú, acondicionador y mascarilla de la gama Liso Keratina.
-- Como usar: AGITAR ANTES DE USAR. Después de aplicar los pasos Nº1-3 del Método Liso Keratina, distribuir uniformement en el cabello húmedo. No aclarar. Secar con secador y después con la plancha para termofijar un liso duratedo.
 - Cubre el cabello con una capa protectora de calor y waterproof, para un liso duradero, sin encrespamiento y lleno de brillo.
+- Uso recomendado con el método completo: Para mejores resultados, aplicar tras champú, acondicionador y mascarilla de la gama Liso Keratina.
+- Informaciones de seguridad: No retire el tapón. Almacenar en un lugar fresco y seco. Limpiar y bloquear el tapón después de cada uso.
+- 10 días de liso y brillo, hasta 5 lavados: test instrumental después de la aplicación del sérum.
+- Como usar: AGITAR ANTES DE USAR. Después de aplicar los pasos Nº1-3 del Método Liso Keratina, distribuir uniformement en el cabello húmedo. No aclarar. Secar con secador y después con la plancha para termofijar un liso duratedo.
+- Sérum alisador activado por calor para hasta 10 días de Cabello Liso* (*test instrumental después de la aplicación del sérum).
 - Fórmula ligera sin aclarado: No apelmaza y se adapta a todo tipo de cabellos.
 - Paso 4 del método Liso Keratina para un alisado visible y duradero. Requiere el uso de plancha para fijar el alisado. Protección térmica hasta 230ºC* (*test instrumental)
-- 10 días de liso y brillo, hasta 5 lavados: test instrumental después de la aplicación del sérum.
-- Sérum alisador activado por calor para hasta 10 días de Cabello Liso* (*test instrumental después de la aplicación del sérum).
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FGDMGMK7{{</world>}}

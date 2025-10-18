@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula que combina cuidado e higiene. Contiene piedra de alumbre un ingrediente activo de origen natural
-- 48h de protección eficaz contra el mal olor
-- La fórmula Sanex respeta la piel y respeta el planeta
-- Reducimos los ingredientes químicos innecesarios: Sin alérgenos, sin alcohol, sin colorantes
 - Desodorante testado dermatológicamente
+- Fórmula que combina cuidado e higiene. Contiene piedra de alumbre un ingrediente activo de origen natural
+- Reducimos los ingredientes químicos innecesarios: Sin alérgenos, sin alcohol, sin colorantes
+- La fórmula Sanex respeta la piel y respeta el planeta
+- 48h de protección eficaz contra el mal olor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F9YHW6HY{{</world>}}

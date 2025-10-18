@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor aterciopelado, floral, chocolate negro, toques de humo dulce y suave
-- Con notas de fruta seca, caramelo, chocolate negro
 - De color ámbar intenso
+- Con notas de fruta seca, caramelo, chocolate negro
+- Sabor aterciopelado, floral, chocolate negro, toques de humo dulce y suave
 - Perfecto como un regalo
 - Acabado de larga duración, afrutado
 

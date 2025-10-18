@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De color ámbar intenso
-- Con notas de fruta seca, caramelo, chocolate negro
 - Acabado de larga duración, afrutado
 - Pack de dos botellas de Chivas Regal 18 años y 6 vasos Ballantines de REGALO
+- De color ámbar intenso
+- Con notas de fruta seca, caramelo, chocolate negro
 - Sabor aterciopelado, floral, chocolate negro, toques de humo dulce y suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

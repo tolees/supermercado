@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ORIGEN: Creado a partir de los granos más finos, el aroma dulce y afrutado recuerdan al calor de Brasil
 - COMPATIBLE: Paquete de 1 unidad de 220 g para máquinas de café automáticas y molinillos de café
-- CAFÉ ORIGEN BRASIL: Un café basado en una mezcla aromática y tropical, creada a partir de los granos más finos de este origen
-- CALIDAD DELTA CAFÉS: La combinación perfecta de granos provenientes de las mejores regiones productoras de café del mundo y del arte del tostado
 - PERFIL SENSORIAL: Café espresso rico en notas dulces con toques afrutados Aroma 7/10, Cuerpo 6/10, Acidez 5/10, Intensidad 6/10
+- CALIDAD DELTA CAFÉS: La combinación perfecta de granos provenientes de las mejores regiones productoras de café del mundo y del arte del tostado
+- CAFÉ ORIGEN BRASIL: Un café basado en una mezcla aromática y tropical, creada a partir de los granos más finos de este origen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07F8YMJ6R{{</world>}}

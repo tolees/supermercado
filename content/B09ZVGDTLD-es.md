@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Proporciona limpieza y protección con los 6 beneficios para una higiene bucal completa, reduciendo la placa y ayudando a prevenir las inflamaciones de las encías
 - Refuerza los dientes y combate las bacterias dando un aliento fresco durante mucho tiempo
-- Botella 100% reciclable. Contiene un 50% de plástico reciclado. Desechar la botella con la tapa. *Sin sello de seguridad.
 - Mantiene el blanco natural de los dientes
+- Botella 100% reciclable. Contiene un 50% de plástico reciclado. Desechar la botella con la tapa. *Sin sello de seguridad.
 - Gracias a la acción combinada de los aceites esenciales con fluoruro y cloruro de zinc, LISTERINE Total Care proporciona una limpieza profunda y una protección completa, ofreciendo 6 beneficios para una higiene bucal completa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

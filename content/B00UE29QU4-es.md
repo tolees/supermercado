@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nutre el cabello dañado por procesos químicos y ambientales.
-- Libre de sales ni sulfatos.
 - Sella las cutículas de las fibras capilares.
-- Recupera la luminosidad, sedosidad y brillo del cabello.
+- Libre de sales ni sulfatos.
+- Nutre el cabello dañado por procesos químicos y ambientales.
 - Especial para cabellos secos, maltratados y con procesos químicos.
+- Recupera la luminosidad, sedosidad y brillo del cabello.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00UE29QU4{{</world>}}

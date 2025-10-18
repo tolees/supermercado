@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Aperitivo de maíz
+- Sabor a mantequilla con forma de animales
 - Formato de 90 gramos, optimo tanto para compartir como para comer de manera individual
 - Vuelve la marca Matutano, para traer memorias y nuevos productos para toda la familia
-- Sabor a mantequilla con forma de animales
-- Aperitivo de maíz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F1N23ZGN{{</world>}}

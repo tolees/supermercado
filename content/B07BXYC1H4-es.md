@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Espumas dulces
-- De color rosa y blanco en el interior
 - Los clásicos marshamallows esponjosos en forma de tubo
 - Mantener en lugar fresco y seco
+- De color rosa y blanco en el interior
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BXYC1H4{{</world>}}

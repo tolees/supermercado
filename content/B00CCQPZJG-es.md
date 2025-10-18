@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fruto de los estudios realizados a lo largo de los años, de la elección de las variedades que lo componen y del uso de la mejor tecnología de vinificación en su producción.
 - Servir ente 9°C y 11°C
-- Variedades: Viosinho, Malvasia Fina, Gouveio, Códega, Arinto, Rabigato, Moscatel
 - Marida de maravilla con platos de pescado, marisco y carnes blancas, también ideal como aperitivo.
+- Variedades: Viosinho, Malvasia Fina, Gouveio, Códega, Arinto, Rabigato, Moscatel
+- Fruto de los estudios realizados a lo largo de los años, de la elección de las variedades que lo componen y del uso de la mejor tecnología de vinificación en su producción.
 - A día de hoy, Planalto es una de las mayores referencias de vino blanco de la Región del Douro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

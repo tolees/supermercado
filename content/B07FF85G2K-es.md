@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¿QUÉ ES? | Compuesto formado por cimicífuga, una planta de uso tradicional utilizada en caso de sofocos e irritabilidad. Por Melisa, para combatir la irritabilidad y mejorar la relajación, y Vitaminas K2, D3, B6, B9 y B12. *Los complementos alimenticios no deben sustituir una dieta variada y equilibrada y un estilo de vida saludable.
-- TRIPLE ACCIÓN | Su Acción Relax mejorar la irritabilidad, los sofocos, y te ayuda a dormir mejor. La Acción Osteo ayuda al mantenimiento de huesos. y Su Acción Energy te ayudará a disminuir el cansancio y la fatiga.
 - ¿CÓMO TOMAR? | Tomar una cápsula por la noche junto con un vaso de agua media hora antes de acostarse, como mínimo durante 8-12 semanas. No superar la dosis diaria recomendada. Mantener fuera del alcance de los niños más pequeños. Guardar en un lugar fresco y seco.
+- TRIPLE ACCIÓN | Su Acción Relax mejorar la irritabilidad, los sofocos, y te ayuda a dormir mejor. La Acción Osteo ayuda al mantenimiento de huesos. y Su Acción Energy te ayudará a disminuir el cansancio y la fatiga.
 - ¿PARA QUIÉN? | Indicado para mujeres en la menopausia que sientan sofocos, sudoración nocturna, problemas para dormir, irritabilidad, estrés y cambios de humor. Además, contribuye al mantenimiento normal de los huesos y dientes.
 - FORMATO | Caja con 30 comprimidos bicapa- Una capa amarilla de liberación inmediata y una azul de liberación sostenida a lo largo de la noche.
+- ¿QUÉ ES? | Compuesto formado por cimicífuga, una planta de uso tradicional utilizada en caso de sofocos e irritabilidad. Por Melisa, para combatir la irritabilidad y mejorar la relajación, y Vitaminas K2, D3, B6, B9 y B12. *Los complementos alimenticios no deben sustituir una dieta variada y equilibrada y un estilo de vida saludable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FF85G2K{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recambio triple para ambientador spray automático Air Wick Freshmatic
 - Fragancia Nenuco, llena tu hogar de este aroma fresco y ligero que te transportará al mundo de los bebés
-- Descubre el resto de fragancias Air Wick Freshmatic
 - Elige entre tres niveles de intensidad para conseguir tu nivel de fragancia deseada
+- Descubre el resto de fragancias Air Wick Freshmatic
+- Recambio triple para ambientador spray automático Air Wick Freshmatic
 - Elimina olores y perfuma tu hogar de forma continua con un diseño elegante y portable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

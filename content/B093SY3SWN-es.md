@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vino tinto
-- Creado con atención al detalle
-- Producto útil y práctico
-- Viñedo de más de 60 años
-- Producto de calidad óptima
 - Hecho de material de calidad
 - Variedad bobal
+- Creado con atención al detalle
+- Viñedo de más de 60 años
+- Vino tinto
+- Producto útil y práctico
+- Producto de calidad óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093SY3SWN{{</world>}}

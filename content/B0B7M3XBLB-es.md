@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- producto 1: Cerveza tipo Lager y estilo rubia, 100% Malta
-- producto 1: De color dorado, con una espuma blanca consistente
-- producto 2: Sabor característico a malta caramelo y de amargor suave por la mezcla de lúpulos lemondrop y Perlé
 - producto 2: Naturalmente turbia sin proceso de filtración según el método tradicional conservando toda la levadura de la cerveza
-- producto 2: Aroma frutal y notas cítricas
-- producto 1: 0,0% de alcohol en volumen
+- producto 2: Sabor característico a malta caramelo y de amargor suave por la mezcla de lúpulos lemondrop y Perlé
 - producto 1: Con aroma a plantas aromáticas y sabor con matices dulces y ligeramente amargos
+- producto 1: Cerveza tipo Lager y estilo rubia, 100% Malta
 - producto 2: Cerveza lager especial de baja fermentación; como recién salida del tanque
+- producto 1: 0,0% de alcohol en volumen
+- producto 1: De color dorado, con una espuma blanca consistente
+- producto 2: Aroma frutal y notas cítricas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B7M3XBLB{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Evitar el contacto directo con el suelo
 - Conservar en lugar limpio, fresco y seco
+- Evitar el contacto directo con el suelo
 - Proteger de la luz solar y de olores agresivos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

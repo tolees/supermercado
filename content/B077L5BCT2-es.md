@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colorete en polvo con una textura ultrafina que se funde con la piel
-- Resistente a romperse gracias al proceso de fabricación
 - Su fórmula de secado al horno en su elaboración permite una calidad de difuminado y adherencia único
+- Resistente a romperse gracias al proceso de fabricación
+- Colorete en polvo con una textura ultrafina que se funde con la piel
 - Con un sensual aroma a rosas
 - Viene con una brocha y un espejo incorporado
 

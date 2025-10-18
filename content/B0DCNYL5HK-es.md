@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gel de ducha hidratante: dale a tu piel el trato hidrante que necesita cada vez que te duches con el Gel de Ducha Sanex Neutro Hidratante
 - Tecnologia triple accion: la tecnología triple acción de nuestro gel de ducha trabaja hidratando la barrera natural de la piel, atrayendo la humedad de la piel y manteniendo la hidratación
 - Ingredientes esenciales: el gel de ducha está formulado con ingredientes esenciales y contiene 0% sulfatos*, 0% jabón y 0% colorantes; *no contiene tensioactivos a base de sulfatos
+- Gel de ducha hidratante: dale a tu piel el trato hidrante que necesita cada vez que te duches con el Gel de Ducha Sanex Neutro Hidratante
 - Respeta los procesos naturales: el gel de ducha vegano ha sido diseñado para respetar suavemente los procesos naturales de la piel
 - Hidratacion duradera: con Tecnología Triple Acción Hidratante, el gel de ducha ofrece la hidratación duradera que tu piel necesita
 

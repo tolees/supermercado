@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No contiene alérgenos
-- Bomba dosificadora para aplicar cómodamente
 - Limpia cualquier resto de leche o cualquier otro líquido con facilidad
+- Bomba dosificadora para aplicar cómodamente
+- No contiene alérgenos
 - Limpiador para biberones, tetinas o vajilla infantil sin colorantes, residuos ni perfume
 - Dermatológicamente testado
 

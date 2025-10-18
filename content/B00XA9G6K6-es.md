@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Es suave al paladar
-- Adecuado como regalo
-- Muy armonioso en aroma
 - De color rojo vivo
 - Ideal con hielo
+- Adecuado como regalo
+- Muy armonioso en aroma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA9G6K6{{</world>}}

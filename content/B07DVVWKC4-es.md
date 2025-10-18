@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Clinicamente testado; Sin gluten
 - El primer blanqueante dental con tecnología Pro-Whitening Tech, que genera una acción blanqueante, antimanchas y remineralizante fortaleciendo y protegiendo el esmalte
 - Previene la sensibilidad dental asociada al uso de blanqueantes
-- Clinicamente testado; Sin gluten
 - Remineralizante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

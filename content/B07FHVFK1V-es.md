@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Proporciona al cabello un color intenso
 - Oxidante en crema 20 Vol 6%
-- Cuida, protege y nutre el cabello
 - Cantidad: 900 ml
+- Cuida, protege y nutre el cabello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FHVFK1V{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ENERGÉTICO: Ya sea antes de hacer ejercicio o como un tentempié entre comidas, nuestra barrita te brinda el impulso necesario para seguir adelante, manteniéndote activo y enérgico durante más tiempo.
-- SIN AZÚCAR AÑADIDO: Disfruta del sabor a vainilla sin preocuparte por el exceso de azúcares añadidos ya que está elaborada sin azúcar añadido, ofreciéndote una opción saludable y sabrosa para que puedas disfrutar de una buena barrita
 - EQUILIBRADA: Nuestra barrita proteica es una opción nutricionalmente equilibrada. Al utilizar proteínas vegetales, es apta para vegetarianos y forma parte de una dieta balanceada. Conviértela en tu compañera diaria para mantener una alimentación saludable
+- SIN AZÚCAR AÑADIDO: Disfruta del sabor a vainilla sin preocuparte por el exceso de azúcares añadidos ya que está elaborada sin azúcar añadido, ofreciéndote una opción saludable y sabrosa para que puedas disfrutar de una buena barrita
+- ENERGÉTICO: Ya sea antes de hacer ejercicio o como un tentempié entre comidas, nuestra barrita te brinda el impulso necesario para seguir adelante, manteniéndote activo y enérgico durante más tiempo.
 - TASTE THE POWER: Disfruta de una explosión de sabor a vainilla con cada mordisco de nuestra barrita proteica, perfectamente combinada con proteína de leche y soja para un impulso energético duradero.
 - FUENTE DE PROTEÍNAS: Con un 30% de proteínas provenientes de leche y soja, proporciona un impulso nutritivo para el desarrollo muscular y la recuperación después del ejercicio. La mejor opción para los que buscan mantener una ingesta proteica adecuada
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin gluten
 - Cada pack contiene 4 barritas de 40g
-- Barrita de proteína con cacahuetes y almendras naturales con un toque de delicioso caramelo salado
+- Sin gluten
 - 10g de proteína por barrita
+- Barrita de proteína con cacahuetes y almendras naturales con un toque de delicioso caramelo salado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0799B3KBP{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Color: rojos
-- Perfume: Varios
 - Sabor: Varios
+- Perfume: Varios
 - Uvas: Barbera-Nebbiolo-Merlot-Cabernet Sauvignon
 - Maridajes: se puede servir con grandes platos de carnes rojas y quesos añejados, también puede hacer después de la cena agradable
 

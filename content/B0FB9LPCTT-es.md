@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PARA MEJORES RESULTADOS: Úsalo con el Acondicionador Aussie Bouncy Curls y añade un toque de nuestra crema para rizos sin aclarado para obtener esa hidratación extra
+- AROMAS ICÓNICOS DE AUSSIE: Deliciosos y exóticos aromas con notas de maracuyá, naranja y leche de coco, para un pelo que huele de maravilla
 - MEZCLA INCREÍBLES DE ACEITES: Enriquecido con una mezcla de aceites de Jojoba, Coco y Nuez de Macadamia australiana, este champú hidrata, refresca y aporta un brillo natural a tu pelo
 - APAGA LA SED DE TU PELO RIZADO: Champú suave y extra hidratante para pelo seco, ondulado y rizado
-- AROMAS ICÓNICOS DE AUSSIE: Deliciosos y exóticos aromas con notas de maracuyá, naranja y leche de coco, para un pelo que huele de maravilla
+- PARA MEJORES RESULTADOS: Úsalo con el Acondicionador Aussie Bouncy Curls y añade un toque de nuestra crema para rizos sin aclarado para obtener esa hidratación extra
 - Cruelty Free Y VEGANO: Aussie está reconocida por PETA como una marca Cruelty Free animal y, ¿adivina qué? ¡Este champú también es vegano!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

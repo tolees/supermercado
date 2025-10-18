@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La complejidad de la receta de Beefeater produce una ginebra multidimensional en carácter y, al mismo tiempo, equilibrada y completa
-- Color blanco platino
 - Aroma sutil y cítrico con elementos botánicos, cáscaras de naranja y limón, cilantro y almendras
+- Color blanco platino
 - Tiene un sabor con matices afrutados de pera, notas frescas y herbales; la entrada en el paladar es nítida y definitiva; seco y equilibrado botánicamente, su final es una bomba de enebro
 - Pack de dos botellas de Beefeater London Dry y 6 vasos Ballantines de regalo
 

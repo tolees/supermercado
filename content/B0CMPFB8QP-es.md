@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El colorete se presenta en acabado mate, para crear un aspecto natural, y en acabado metalizado, para añadir brillo al maquillaje
-- Dermatológicamente testado, no comedogénico
 - Las texturas de los productos son sedosas, suaves, fáciles de difuminar y extremadamente pigmentadas
 - Gracias al espejo integrado y al formato fino, es práctica y manejable, y adecuada para retocarse en cualquier parte
 - Perfecta para dar un toque de color y calentar la piel con un solo producto
+- Dermatológicamente testado, no comedogénico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CMPFB8QP{{</world>}}

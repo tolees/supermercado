@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se desliza suavemente y su aplicación es precisa
-- Textura cremosa y ligera
 - Dura hasta 10 horas
+- Se desliza suavemente y su aplicación es precisa
 - Brinda un color de alto impacto
+- Textura cremosa y ligera
 - Color y comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

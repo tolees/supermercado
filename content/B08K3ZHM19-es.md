@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Brillante color rojo rubí
-- Con un toque elegante a roble
 - Un claro ejemplo de un vino actual
+- Brillante color rojo rubí
 - Armonioso y bien estructurado con un placentero retrogusto
+- Con un toque elegante a roble
 - Aromas de dulces e intensas grosellas negras
 
 [🛒 Comprar!!!]({{< param buyurl >}})

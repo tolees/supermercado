@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Más brillo
 - Disolución rápida
 - 3 poderes activos (limpieza, brillo, fresco)
 - Con perfume de limón
-- Más brillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09TFZKK38{{</world>}}

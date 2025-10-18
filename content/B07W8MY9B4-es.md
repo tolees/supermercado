@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil y rápido de preparar
-- Una vez abierto conservar en un recipiente hermético
-- Ideal para el desayuno o una pausa durante el día
 - Café en grano de tueste natural
+- Una vez abierto conservar en un recipiente hermético
+- Fácil y rápido de preparar
+- Ideal para el desayuno o una pausa durante el día
 - Se puede servir solo o con leche
 
 [🛒 Comprar!!!]({{< param buyurl >}})

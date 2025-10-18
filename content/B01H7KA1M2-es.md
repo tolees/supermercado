@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONSERVACIÓN: Mantener en lugar fresco y seco. Cerrar bien la bolsa una vez abierta.
-- VEGANO: Producto apto para veganos, elaborado sin ingredientes de origen animal. Elaboradas con ingredientes naturales, sin colorantes ni conservantes.
-- SIN GLUTEN: Apto para personas con intolerancia al gluten o para quienes deseen reducir su consumo, gracias a sus ingredientes y a un estricto control en todo el proceso de fabricación. Certificado por el Sistema de Licencia Europeo con el símbolo ELS de la espiga barrada.
-- SIN GMO: El maíz utilizado es no transgénico (no ha sido modificado genéticamente).
 - BAJO EN GRASAS: Tienen un bajo contenido en grasas y en grasas saturadas. Produncto no frito. Muy ligeras, con solo 7 kcal por tortita, compatibles con dietas bajas en calorías.
+- SIN GMO: El maíz utilizado es no transgénico (no ha sido modificado genéticamente).
+- SIN GLUTEN: Apto para personas con intolerancia al gluten o para quienes deseen reducir su consumo, gracias a sus ingredientes y a un estricto control en todo el proceso de fabricación. Certificado por el Sistema de Licencia Europeo con el símbolo ELS de la espiga barrada.
+- VEGANO: Producto apto para veganos, elaborado sin ingredientes de origen animal. Elaboradas con ingredientes naturales, sin colorantes ni conservantes.
+- CONSERVACIÓN: Mantener en lugar fresco y seco. Cerrar bien la bolsa una vez abierta.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01H7KA1M2{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Champú que ayuda a atenuar los reflejos amarillos
 - Es adecuado para cabellos grises, aclarados y decolorados
 - No deja el cuero cabelludo irritado o seco
-- Champú que ayuda a atenuar los reflejos amarillos
 - El producto contiene pigmentos violetas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

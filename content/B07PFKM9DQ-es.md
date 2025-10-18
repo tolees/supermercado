@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo preciso
-- Práctico
-- Para lápices formato estándar y formato jumbo
 - Almacenamiento integrado
+- Modelo preciso
+- Para lápices formato estándar y formato jumbo
+- Práctico
 - Sacapuntas doble
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Compromiso Lactovit; activos 100% naturales de la leche y altamente biodegradables, mejorando la reciclabilidad de nuestros envases y cuidando del medio ambiente.
 - Formulado con 10% Urea ProLactic10 complejo exclusivo que impulsa la síntesis de colágeno y elastina para mantener la piel reparada y joven
 - Desde el primer día, notarás una piel más reparada, elástica y fuerte, además de disfrutar durante todo el día de su delicado perfume
-- Con su doble acción, aporta una hidratación intensiva y repara la barrera cutánea aumentado un +60% la producción de ceramidas, ofreciendo así una reparación superior a otros productos solo con urea.
 - Leche corporal reparadora con urea, para pieles secas y extra-secas que necesitan un extra de reparación
+- Con su doble acción, aporta una hidratación intensiva y repara la barrera cutánea aumentado un +60% la producción de ceramidas, ofreciendo así una reparación superior a otros productos solo con urea.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01GIA03EI{{</world>}}

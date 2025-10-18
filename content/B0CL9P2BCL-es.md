@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Rollo de cocina blanco
 - Ideal para todo tipo de utilización doméstica
-- 2 capas
-- 1 rollo
 - Tamaño extra XXL
+- Rollo de cocina blanco
+- 1 rollo
+- 2 capas
 - La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Visítala!!!]({{< param buyurl >}})

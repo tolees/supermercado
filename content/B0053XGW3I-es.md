@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sensaciones afrutadas muy equilibrado con una excelente acidez y frescura
 - Ideal para cualquier plato y ocasión
 - Frutas ácidas y los herbales
+- Sensaciones afrutadas muy equilibrado con una excelente acidez y frescura
 - Amarillo pálido brillante en color con irisaciones que evocan al oro blanco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

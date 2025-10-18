@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dermatologicamente testado para todo tipo de pieles, edades y de uso diario.
-- Elaborado con Glicerina, de efectos calmantes, y Aloe Vera, Avena y Aceite de oliva, que proporcionan cuidado y protección.
 - Jabón líquido de uso diario con dosificador y el aroma clásico de Álvarez Gómez.
+- Elaborado con Glicerina, de efectos calmantes, y Aloe Vera, Avena y Aceite de oliva, que proporcionan cuidado y protección.
 - Con un PH Neutro, está fabricado específicamente para evitar irritaciones y cuidar de la piel de toda la familia.
+- Dermatologicamente testado para todo tipo de pieles, edades y de uso diario.
 - De textura untuosa y muy cremosa, limpia tu piel a la vez que la deja muy suave y protegida.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

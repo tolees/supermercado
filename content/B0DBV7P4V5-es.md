@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sera un regalo original y delicioso para sorprender a tus seres queridos.
 - Este lote contiene dos huevos de 40 más un peluche colgable de regalo.
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest Alliance.
+- Sera un regalo original y delicioso para sorprender a tus seres queridos.
 - Disfruta del delicioso chocolate Extrafino y los crujientes y sabrosos SMARTIES
 - Hay 3 modelos de peluches para colgar coleccionables.
 

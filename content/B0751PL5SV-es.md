@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INTENSIDAD: La intensidad 5 y el tueste medio brindan un color cálido a este café, para un espresso con una espuma dorada
 - QUALITÀ ORO: La sinfonía perfecta para un sabor excepcional siempre, desde 1956. Este café molido natural Lavazza es ideal para máquina de café espresso
-- NOTAS AROMÁTICAS: Qualità Oro es caracterizado por notas aromáticas de frutas y flores, para un café espresso con un sabor intenso
 - VARIEDAD: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente principalmente de Centro y Sudamérica
 - CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
+- INTENSIDAD: La intensidad 5 y el tueste medio brindan un color cálido a este café, para un espresso con una espuma dorada
+- NOTAS AROMÁTICAS: Qualità Oro es caracterizado por notas aromáticas de frutas y flores, para un café espresso con un sabor intenso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0751PL5SV{{</world>}}

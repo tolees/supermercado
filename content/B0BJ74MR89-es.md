@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin alcohol etílico
 - Ayuda a proporcionar un brillo radiante a la piel
 - Fórmula con agua de rosas orgánica y ácido hialurónico
+- Sin alcohol etílico
 - Hidrata la piel de forma intensiva y duradera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

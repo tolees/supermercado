@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EFICAZ EN FRÍO: El detergente líquido de Ariel proporciona resultados impecables incluso en frío
+- PIDE TU TAPÓN DOSIFICADOR DE FORMA GRATUITA: por razones medioambientales, no todas las botellas cuentan con un tapón medidor, pero puedes pedirlo de forma gratuita en el sitio web ariel.info
+- ELIMINACIÓN DE MANCHAS Y MALOS OLORES EN 1 LAVADO: el detergente líquido Ariel elimina las manchas y los malos olores en un solo lavado
 - PRETRATA LAS MANCHAS: 1. Aplica una pequeña cantidad de detergente líquido Ariel sobre las manchas 2. Frota suavemente 3. Empieza el lavado
 - INSTRUCCIONES PARA MEJORES RESULTADOS: llena el tapón verde con detergente líquido Ariel según el nivel de llenado del tambor y colócalo en el tambor, encima de la ropa
-- ELIMINACIÓN DE MANCHAS Y MALOS OLORES EN 1 LAVADO: el detergente líquido Ariel elimina las manchas y los malos olores en un solo lavado
-- PIDE TU TAPÓN DOSIFICADOR DE FORMA GRATUITA: por razones medioambientales, no todas las botellas cuentan con un tapón medidor, pero puedes pedirlo de forma gratuita en el sitio web ariel.info
+- EFICAZ EN FRÍO: El detergente líquido de Ariel proporciona resultados impecables incluso en frío
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1DC6FDP{{</world>}}

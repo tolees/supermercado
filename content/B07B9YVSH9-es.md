@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Proporciona hasta 24 horas de piel hidratada
-- BB Cream antifatiga que se funde perfectamente con el tono de la piel y cubre las imperfecciones
 - Con una fragancia fresca y afrutada
+- BB Cream antifatiga que se funde perfectamente con el tono de la piel y cubre las imperfecciones
 - Fórmula ultraligera que permite que la piel respire y le da una sensación de piel desnuda
 - Enriquecida con vitaminas A, C, E y B5 que ayudan a reducir los signos de fatiga
 

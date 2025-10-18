@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% Completo y Equilibrado
 - Para un crecimiento saludable
+- 100% Completo y Equilibrado
 - Sin Colorantes, Aromatizantes o conservantes artificiales añadidos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

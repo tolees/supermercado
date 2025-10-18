@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Aptas para uso diario o como decoración
-- Tazas de café con plato
 - Diseño elegante con decoraciones
+- Tazas de café con plato
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CV7R52P7{{</world>}}

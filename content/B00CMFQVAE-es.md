@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Enriquecido con vitamina E
 - Se desliza fácilmente sobre los labios
 - Fórmula ligera
-- Enriquecido con vitamina E
 - Marca: Revlon
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

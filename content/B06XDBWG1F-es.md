@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Entrada muy suave y golosa
-- Color caoba con reflejos anaranjados, limpio y glicérico
-- Aromas a regaliz, toques cítricos y clavo
 - Sin gluten ni lactosa y con certificación vegana
+- Aromas a regaliz, toques cítricos y clavo
+- Color caoba con reflejos anaranjados, limpio y glicérico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XDBWG1F{{</world>}}

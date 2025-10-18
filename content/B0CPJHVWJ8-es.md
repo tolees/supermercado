@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Mini Tortitas sabor queso
 - Cada caja contiene 7 bolsas
 - No frito
 - El placer de picotear con Bicentury
-- Mini Tortitas sabor queso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CPJHVWJ8{{</world>}}

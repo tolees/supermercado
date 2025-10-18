@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caldo de carne reducido en cómodos cacitos que darán un sabor delicioso a tus platos
-- Los cacitos de caldo de Knorr están elaborados con ingredientes naturales y cocidos a fuego lento hasta reducirlos a un cacito
 - Tan solo 4 pequeños cacitos equivalen a 2 litros de caldo
+- Caldo de carne reducido en cómodos cacitos que darán un sabor delicioso a tus platos
 - Puedes disolver un cacito en una olla con 500ml de agua hirviendo o bien añadirlo directamente en la preparación de tus platos
+- Los cacitos de caldo de Knorr están elaborados con ingredientes naturales y cocidos a fuego lento hasta reducirlos a un cacito
 - Ingredientes naturales seleccionados, sin colorantes, sin glutamato, sin gluten y sin conservantes artificiales​
 
 [🛒 Comprar!!!]({{< param buyurl >}})

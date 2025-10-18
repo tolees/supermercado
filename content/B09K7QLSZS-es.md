@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Apto para lavavajillas, horno y microondas, muy resistente a golpes, golpes y roturas. Este juego de café te dará años de alegría
 - Exquisito juego de vajilla de café de 12 piezas para 4 personas de porcelana de hotel robusta, compuesto por 4 platos de postre (redondos de 20 cm de diámetro), 4 tazas de café (240 ml de volumen) y 4 platillos de café (15,5 cm de diámetro), color blanco cremoso
 - Al igual que toda la serie de vajilla "Prospero", este servicio de vajilla también se ha desarrollado para las altas exigencias de la gastronomía de lujo. Un detalle refinado son las tazas de café apilables
 - Este juego de café y té se puede combinar con otros juegos de la colección de vajilla de porcelana "Prospero" de la marca tradicional. MÄSER
-- Apto para lavavajillas, horno y microondas, muy resistente a golpes, golpes y roturas. Este juego de café te dará años de alegría
 - Textura en relieve táctil y envolvente en emocionante diseño retro, combinado con una decoración en espiral pintada a mano en las partes planas y un borde ocre irregular y brillante. Cada pieza de este juego de vajilla es única
 
 [🛒 Visítala!!!]({{< param buyurl >}})

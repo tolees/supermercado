@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🚴‍♂️ USO: Bebida Isotónica perfecto para entrenamientos y competiciones, ideal para antes, durante y después de ejercicios de una duración inferior a 90´
-- ✅ APORTES - AMILOPECTINA: Sirve como fuente de energía, permitiendo un vaciado gástrico y una recarga de glucógenos mas rápida que fuentes convencionale
-- 🚴‍♂️ DESCRIPCIÓN: Bebida energética en polvo a base de Hidratos de carbono, vitaminas, minerales y Beta-Alanina. Con edulcorante
-- ✅ APORTES - BETA-ALANINA: La beta alanina inhibe el ácido láctico permitiendo retrasar la aparición de la fatiga
-- 🏋️‍♀️ COMBINALO: Si necesitas mas sales minerales puedes combinarlo con 1 cápsula de Salts Electrolytes o si necesitas mas energía lo puedes combinar con 1-2 Energy Gels
-- 💯 EXTRA: Bebida isotónica sin ázucar, sin lactosa, sin gluten, sin aceite de palma, no contiene azúcares y no modificado genéticamente. Apta para veganos y sin gluten. Bajo aporte de kcal
-- 🧾 INSTRUCCIONES: Disolver 1,5 cazos (20g) de producto con 500ml de agua y agitar. Consumir con regularidad en pequeñas dosis de 150ml cada 15/20 minutos, durante y después del ejercicio.
-- 🧾 INFORMACIÓN NUTRICIONAL: Disponible en la descripción del producto o la sección de imágenes
 - ✅ APORTES - SALES MINERALES: El isótonico garantiza un nivel de sales minerales adecuado para evitar la deshidratación
+- 🧾 INFORMACIÓN NUTRICIONAL: Disponible en la descripción del producto o la sección de imágenes
+- 🚴‍♂️ DESCRIPCIÓN: Bebida energética en polvo a base de Hidratos de carbono, vitaminas, minerales y Beta-Alanina. Con edulcorante
+- 🚴‍♂️ USO: Bebida Isotónica perfecto para entrenamientos y competiciones, ideal para antes, durante y después de ejercicios de una duración inferior a 90´
+- 🏋️‍♀️ COMBINALO: Si necesitas mas sales minerales puedes combinarlo con 1 cápsula de Salts Electrolytes o si necesitas mas energía lo puedes combinar con 1-2 Energy Gels
+- ✅ APORTES - BETA-ALANINA: La beta alanina inhibe el ácido láctico permitiendo retrasar la aparición de la fatiga
+- 🧾 INSTRUCCIONES: Disolver 1,5 cazos (20g) de producto con 500ml de agua y agitar. Consumir con regularidad en pequeñas dosis de 150ml cada 15/20 minutos, durante y después del ejercicio.
+- 💯 EXTRA: Bebida isotónica sin ázucar, sin lactosa, sin gluten, sin aceite de palma, no contiene azúcares y no modificado genéticamente. Apta para veganos y sin gluten. Bajo aporte de kcal
+- ✅ APORTES - AMILOPECTINA: Sirve como fuente de energía, permitiendo un vaciado gástrico y una recarga de glucógenos mas rápida que fuentes convencionale
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074QSS7P9{{</world>}}

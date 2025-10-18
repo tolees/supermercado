@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gel de ducha 3 en 1 que limpia el cuerpo, cara y cabello
-- Gel de baño formulado con 87% de ingredientes de origen natural
 - Dermatológicamente testado​
+- Gel de ducha 3 en 1 que limpia el cuerpo, cara y cabello
 - Gel de ducha envolvente con fragancia cautivadora e irresistible de chocolate que dura todo el día
+- Gel de baño formulado con 87% de ingredientes de origen natural
 - Gel de ducha relajante con botella hecha con plástico 100% reciclado
 - Ayuda a combatir las bacterias que causan el mal olor
 

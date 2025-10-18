@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hidratación multicapa gracias a los 3 tipos de ácido hialurónico que incorpora.
+- Textura ultra ligera y de rápida absorción.
+- skin_type: Seca
 - Hidratación intensiva diaria facial para todo tipo de pieles incluso las más sensibles.
 - ingredients: Ácido hialurónico de alto peso molecular (HWHA) >1.590.000Da. Ácido hialurónico de bajo peso molecular (LWHA) encapsulado en liposomas (250.000-450.000Da) Ácido hialurónico de muy bajo peso molecular (VLWHA) encapsulado en liposomas. (<100.000 Da)
-- skin_type: Seca
-- Textura ultra ligera y de rápida absorción.
+- Hidratación multicapa gracias a los 3 tipos de ácido hialurónico que incorpora.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00A7JWKO8{{</world>}}

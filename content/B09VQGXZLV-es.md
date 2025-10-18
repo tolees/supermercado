@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Consumir muy fría
-- Con auténtico tequila mexicano
-- Con chocolate y crema fresca
-- Delicioso sabor
 - Perfecta para chupitos y cócteles
+- Delicioso sabor
+- Con chocolate y crema fresca
+- Con auténtico tequila mexicano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VQGXZLV{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Galleta suave y esponjosa
 - Ideal para repostería
 - Da a tus postres una textura y cremosidad de pastelería
-- Galleta suave y esponjosa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XA2NF4I{{</world>}}

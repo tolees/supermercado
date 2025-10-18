@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ayuda al sistema inmunitario ante agresiones externas, actúa como antioxidante antes los radicales libres que afectan a las células y ayuda a la formación normal de colágeno para el funcionamiento normal de la piel, encías y dientes
+- Tomar 1 comprimido al día disuelto en 200ml de agua preferiblemente por la mañana junto con el desayuno
 - Redoxon Extra Defensas es un complemento alimenticio con sabor a naranja para mayores de 12 años, especialmente formulado para ayudar al sistema inmunitario en sus 3 niveles de defensa: piel y mucosas, leucocitos y anticuerpos
 - Sin gluten
-- Tomar 1 comprimido al día disuelto en 200ml de agua preferiblemente por la mañana junto con el desayuno
+- Ayuda al sistema inmunitario ante agresiones externas, actúa como antioxidante antes los radicales libres que afectan a las células y ayuda a la formación normal de colágeno para el funcionamiento normal de la piel, encías y dientes
 - Este complejo vitamínico combina 1000mg de vitamina C, 10mg de Zinc y un extra de vitamina D
 
 [🛒 Visítala!!!]({{< param buyurl >}})

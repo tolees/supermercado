@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De color oro cálido
 - Madurado en barricas de roble americano durante más de 10 años
+- De color oro cálido
 - Es dulce y cremoso en boca
 - Con notas dulces de vainilla, toffee y un toque a nueces
 - Pack de dos botellas de Ballantines Finest y 6 vasos Ballantines de REGALO

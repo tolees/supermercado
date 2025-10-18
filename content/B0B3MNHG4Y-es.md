@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 Años De Garantia
-- Acro Inoxidable Y Plastico
 - 22 X 7,5 X 4 CM
+- Acro Inoxidable Y Plastico
+- 2 Años De Garantia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3MNHG4Y{{</world>}}

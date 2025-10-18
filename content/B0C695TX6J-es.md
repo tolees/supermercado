@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con electricidad 100 % renovable
-- Limpieza + cuidado
 - Para madera y mármol
+- Fabricado con electricidad 100 % renovable
 - PH seguro en superficies delicadas
 - Botella reciclable
+- Limpieza + cuidado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C695TX6J{{</world>}}

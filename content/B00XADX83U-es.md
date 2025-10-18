@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sensacion de suavidad en la piel
-- Suavizante para la ropa Flor con frescor superior
 - Hasta 200 días de frescor y suavidad
 - Facilita el planchado y evita la electricidad estática en las prendas
+- Suavizante para la ropa Flor con frescor superior
+- Sensacion de suavidad en la piel
 - Déjate envolver por la fragancia de brisa marina y disfruta de un momento de placer espumeante que hará que tu ropa esté fresca y suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- A la vista: Color brillante salmón
 - Sabor: Ginebra de fresas naturales, con un sabor suave y dulce
+- Nota de cata: inconfundible aroma a fresas naturales con amplios matices de fresa y enebro con ligeros toques cítricos
 - En nariz: Inconfundible aroma a fresas naturales
 - La botella de Puerto de Indias se llena de Orgullo y crea la primera edición ilimitada que lucha contra la LGTBIfobia 356 días al año. Nuestro orgullo no tiene límites. Esta edición tampoco.
-- A la vista: Color brillante salmón
-- Nota de cata: inconfundible aroma a fresas naturales con amplios matices de fresa y enebro con ligeros toques cítricos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B14Y8NDQ{{</world>}}

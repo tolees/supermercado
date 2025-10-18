@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La fórmula de Flor está diseñada para liberar fragancia continuamente durante semanas
 - Formato profesional
+- La fórmula de Flor está diseñada para liberar fragancia continuamente durante semanas
 - 10 veces más duradero
 - Mantenga en un lugar seco y fresco
 - Suavizante concentrado fragancia azul

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cerveza artesanal de estilo Pumpkin Ale. De cuerpo denso y aterciopelado, aroma intenso, dulce y afrutado.
 - Alta calidad
 - 6,1%
+- Cerveza artesanal de estilo Pumpkin Ale. De cuerpo denso y aterciopelado, aroma intenso, dulce y afrutado.
 - Brand: La Sagra
 
 [🛒 Visítala!!!]({{< param buyurl >}})

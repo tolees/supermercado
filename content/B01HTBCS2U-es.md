@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Contiene menos grasa
 - Leche semidesnatada sin lactosa
 - Se puede servir como tal, con cereales o en café
-- Contiene menos grasa
 - Tiene un aporte de vitaminas
 - Apta para niños y adultos intolerantes a la lactosa
 

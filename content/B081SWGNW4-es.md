@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ojos más brillantes y ligeros, pestañas negras impactantes.
 - Microfibras que aportan un mayor grosos, volumen y longitud
+- Pigmentos azules que maximizan la intensidad y profundidad del tono de la mascara
+- Ojos más brillantes y ligeros, pestañas negras impactantes.
 - Cepillo volumizante anti grupos para una mayor definición
 - Primer para maximizar el efecto de la máscara de pestañas
-- Pigmentos azules que maximizan la intensidad y profundidad del tono de la mascara
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B081SWGNW4{{</world>}}

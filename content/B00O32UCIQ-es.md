@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula enriquecida con un 25% de pigmentos lacados que proporcionan color e intensidad
-- Para el cabello: Normal
-- Labial líquido para un intenso acabado mate aterciopelado
-- Contiene aceites esenciales que dan a los labios una sensación natural y saludable
 - Textura suave y fundente que proporciona unos labios aterciopelados
+- Para el cabello: Normal
 - Hasta 24 horas de duración, sin sensación de sequedad
+- Contiene aceites esenciales que dan a los labios una sensación natural y saludable
+- Labial líquido para un intenso acabado mate aterciopelado
+- Fórmula enriquecida con un 25% de pigmentos lacados que proporcionan color e intensidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00O32UCIQ{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De color amarillo pajizo con tonalidades verdosas
-- Desprende aromas a frutas tropicales como la piña y el maracuyá
+- En nariz es muy expresivo
 - En boca es fresco, vivaz, untuoso y con notas cítricas
 - Su final es sabroso y largo
-- En nariz es muy expresivo
+- De color amarillo pajizo con tonalidades verdosas
+- Desprende aromas a frutas tropicales como la piña y el maracuyá
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08K3YLBMQ{{</world>}}

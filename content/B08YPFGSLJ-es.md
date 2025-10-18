@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de 24 latas
-- Bajo en calorías
 - Bebida refrescante de té negro con melocotón
-- Realizado con azúcar y extracto de la planta de stevia
+- Bajo en calorías
+- Pack de 24 latas
 - Beber muy frío
+- Realizado con azúcar y extracto de la planta de stevia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YPFGSLJ{{</world>}}

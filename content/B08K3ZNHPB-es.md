@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Un vino muy bien estructurado, suave y fresco
-- Postgusto persistente y muy agradable
 - Entrada en boca potente y de gran personalidad
+- Postgusto persistente y muy agradable
 - Muestra aromas a frutas rojas confitadas junto a notas refrescantes y de especias
 - Color de media intensidad y tono rojo amoratado, vivo y brillante
 

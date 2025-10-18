@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forma ergonómica que se adapta a la forma de tu ojo
+- Perfilador líquido con trazo fino de color negro
 - Punta de pluma extra fina para conseguir un trazo más delicado y elegante
 - Gracias a la punta de alta precisión dibuja un trazo preciso, intenso y modulable
-- Perfilador líquido con trazo fino de color negro
+- Forma ergonómica que se adapta a la forma de tu ojo
 - Aplicación fácil y rápida en una sola pasada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

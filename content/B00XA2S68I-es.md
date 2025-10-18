@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en un lugar fresco y seco
 - Elaborado con aceite de girasol alto oleico
 - Apto para cualquier hora del día
 - Con un alto contenido en cereales y vitaminas
+- Conservar en un lugar fresco y seco
 - Se puede combinar con la mayoría de las bebidas calientes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🎨 SOBRE ALPINO - Alpino es marca referente en el sector de la Papelería desde 1943. Tenemos una amplia variedad de material escolar y productos para manualidades: lápices de colores, rotuladores, ceras, plastilinas, maquillaje, actividades artísticas... ¡Descubre Nuestro Mundo de Color y Creatividad!
-- 🎨 DISTINTAS GAMAS - Alpino Fiesta es la gama de maquillaje para niños y adultos, pensada para disfrazarse o caracterizar a personajes. Perfecta para todo tipo de fiestas, disfraces, carnaval o halloween.
-- 🎨 CONTENIDO - Este set de pintura al agua para la cara incluye cuatro colores (blanco, rojo, plata , negro), un pincel para aplicar el maquillaje y una guía de ideas de uso, donde te sugiere distintos disfraces o diseños de pinta caras para niños.
 - 🎨 MODO DE USO - Maquillaje listo para usar, no necesita aplicar previamente base ni crema hidratante. Se lava con agua.
+- 🎨 CONTENIDO - Este set de pintura al agua para la cara incluye cuatro colores (blanco, rojo, plata , negro), un pincel para aplicar el maquillaje y una guía de ideas de uso, donde te sugiere distintos disfraces o diseños de pinta caras para niños.
+- 🎨 DISTINTAS GAMAS - Alpino Fiesta es la gama de maquillaje para niños y adultos, pensada para disfrazarse o caracterizar a personajes. Perfecta para todo tipo de fiestas, disfraces, carnaval o halloween.
+- 🎨 SOBRE ALPINO - Alpino es marca referente en el sector de la Papelería desde 1943. Tenemos una amplia variedad de material escolar y productos para manualidades: lápices de colores, rotuladores, ceras, plastilinas, maquillaje, actividades artísticas... ¡Descubre Nuestro Mundo de Color y Creatividad!
 - 🎨 PRODUCTO - Set de maquillaje líquido para la cara, con base de agua, de textura suave y ligera. Pintura facial testada dermatológicamente, por lo que es un producto cosmético que no irrita la piel.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

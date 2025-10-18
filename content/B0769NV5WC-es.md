@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En el rostro: refresca y puriﬁca cuidadosamente la piel
-- Barber Expert Champú 3 en 1: para la barba, el cabello y el rostro
-- En la barba: elimina restos de descamación, residuos y olores para una barba limpia y suave
 - En el cabello: limpia y suaviza el cabello, dejando el cuero cabelludo confortable
+- Barber Expert Champú 3 en 1: para la barba, el cabello y el rostro
+- En el rostro: refresca y puriﬁca cuidadosamente la piel
+- En la barba: elimina restos de descamación, residuos y olores para una barba limpia y suave
 - Usa diariamente con aclarado bajo la ducha, masajeando en la barba, cabello y rostro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Llévatelas donde quieras!
 - En prácticas bolsitas, ideal para merendar.
-- Las Chiquilín de siempre, ahora, ¡con chocolate!
+- ¡Llévatelas donde quieras!
 - Delicioso chocolate
+- Las Chiquilín de siempre, ahora, ¡con chocolate!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3J11LW3{{</world>}}

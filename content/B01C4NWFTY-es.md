@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cara Neutrogena
 - Mascarilla exfoliante y limpiadora para la cara Cuidado de la piel Unisex Adulto
+- Cara Neutrogena
 - (B115008)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

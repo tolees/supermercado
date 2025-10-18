@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Envasado en atmósfera protectora.
 - Alto contenido de fibra
+- Envasado en atmósfera protectora.
 - Apto para dietas vegetarianas y veganas.
 - Alto contenido de vitamina E
 

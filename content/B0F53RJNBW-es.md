@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rápidas, fáciles de preparar y con auténtico sabor asiático
 - Salsa para cocinar base soja
 - Disfruta del auténtico sabor asiático con MAGGI Teriyaki
+- Rápidas, fáciles de preparar y con auténtico sabor asiático
 - Salsa dulce y salada con un equilibrio perfecto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

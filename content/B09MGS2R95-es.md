@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
 - Gran variedad de colores y sabores frutales
+- Conservar en lugar fresco y seco
 - Caramelos de goma de distintos sabores y colores
 - Descubre la aventura con este mix de divertidas formas
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- un vino de mayor complejidad aromática
-- Embutidos y quesos, carnes a la plancha, pastas y arroces con salsas de hongos.
-- aromas a fruta madura y toques ahumados
-- notas de cacaos, vainillas, pimienta, y de manera más sutil aromas a hierbas balsámicas y mentoladas
 - tanino redondo y acidez equilibrada, de intenso sabor a fruta madura y torrefacto
+- notas de cacaos, vainillas, pimienta, y de manera más sutil aromas a hierbas balsámicas y mentoladas
+- aromas a fruta madura y toques ahumados
+- Embutidos y quesos, carnes a la plancha, pastas y arroces con salsas de hongos.
+- un vino de mayor complejidad aromática
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07W8BX91F{{</world>}}

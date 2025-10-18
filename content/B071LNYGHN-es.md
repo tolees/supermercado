@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta densidad de pigmentos para un color intenso
 - Disponible en 8 tonos llenos de color
+- Alta densidad de pigmentos para un color intenso
 - Textura miel
 - Brillo en una sola pasada y de larga duración
 - Ingredientes hidratantes

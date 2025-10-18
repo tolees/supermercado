@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Leche facil de digerir
-- Apta para niños y adultos intolerantes a la lactosa
 - Sin lactosa
+- Apta para niños y adultos intolerantes a la lactosa
+- Leche facil de digerir
 - Fuente de vitaminas
 - Mas fácil de coger, abrir y servir
 

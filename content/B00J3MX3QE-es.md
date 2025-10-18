@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sabor fresco y aromático
 - Color alimonado con reflejos dorados
-- En boca es suave, untuoso y con cierta frutosidad
 - Ideal con platos de pescado y marisco
+- Sabor fresco y aromático
+- En boca es suave, untuoso y con cierta frutosidad
 - Se recomienda servir frío
 
 [🛒 Aquí!!!]({{< param buyurl >}})

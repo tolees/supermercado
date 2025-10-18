@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Clinique
+- Clinique
+- Clinique
 - Anti imperfecciones concentrado de CLINIQUE
-- Clinique
-- Clinique
-- Clinique
 - Clinique
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ingredientes: Chipirones, aceite de oliva y sal.
-- Elaborados de forma artesanal, cuidadosa limpieza manual uno a uno y colocados en la lata
 - Chipirones capturados en los mejores caladeros respetando las formas de pesca tradicionales
+- Elaborados de forma artesanal, cuidadosa limpieza manual uno a uno y colocados en la lata
 - Acompañados por aceite de oliva se utilizan solamente ingredientes naturales
 - Garantía Cuca desde 1932
 

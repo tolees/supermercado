@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MODO DE EMPLEO: tomar 2 cápsulas al día con agua, preferentemente antes de las principales comidas. No superar la dosis diaria recomendada
-- ANTIESTRÉS: a esta planta también se le asocian propiedades antiestrés naturales, que favorecen la relajación y el descanso frente a estados de ansiedad y fatiga severa
-- ASHWAGANDHA: complemento alimenticio que aporta 600 mg de extracto seco de ashwagandha al día, una valiosa ayuda contra la fatiga física y mental
-- BIENESTAR: este complemento contribuye a la relajación y al bienestar mental gracias al extracto de raíz de ashwagandha de la marca KSM-67
 - CONCENTRADO: este suplemento contiene un extracto de raíz patentado KSM-66, con una alta concentración de withanólidos (5%), lactonas esteroides junto con alcaloides y otros constituyentes
+- MODO DE EMPLEO: tomar 2 cápsulas al día con agua, preferentemente antes de las principales comidas. No superar la dosis diaria recomendada
+- ASHWAGANDHA: complemento alimenticio que aporta 600 mg de extracto seco de ashwagandha al día, una valiosa ayuda contra la fatiga física y mental
+- ANTIESTRÉS: a esta planta también se le asocian propiedades antiestrés naturales, que favorecen la relajación y el descanso frente a estados de ansiedad y fatiga severa
+- BIENESTAR: este complemento contribuye a la relajación y al bienestar mental gracias al extracto de raíz de ashwagandha de la marca KSM-67
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B093XNVP2K{{</world>}}

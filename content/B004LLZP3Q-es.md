@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Se recomienda servir frío
+- Con un postgusto especial gracias a las notas cítricas.
 - Ideal como regalo para cualquier ocasión
 - Se puede consumir solo o en cócteles
-- Con un postgusto especial gracias a las notas cítricas.
-- Se recomienda servir frío
 - Ginebra con infusiones de rosas y pepino
 
 [🛒 Aquí!!!]({{< param buyurl >}})

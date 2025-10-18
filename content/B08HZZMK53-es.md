@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FÁCIL DE USAR: Aplique el acondicionador definidor de rizos de medios hasta las puntas, déjelo actuar durante 2 minutos y luego enjuague bien con abundante agua
-- INSTA BOUNCE: Con la ayuda del polímero de última generación, el acondicionador para cabello rizado mejora tus rizos y ondas con una definición inigualable
 - H2O INSTANTÁNEO: El acondicionador hidratante para cabello rizado acondiciona el cabello mientras le proporciona una infusión de humedad e hidratación
+- INSTA BOUNCE: Con la ayuda del polímero de última generación, el acondicionador para cabello rizado mejora tus rizos y ondas con una definición inigualable
+- FÁCIL DE USAR: Aplique el acondicionador definidor de rizos de medios hasta las puntas, déjelo actuar durante 2 minutos y luego enjuague bien con abundante agua
 - 100% PRO 100% TÚ: Descubra toda la colección REVLON PROFESSIONAL PRO YOU THE TWISTER para soluciones de cuidado del cabello que realzan los rizos
 - RIZOS DURADEROS: El acondicionador para cabello rizado u ondulado te mantiene en control de tus ondas y rizos, sin importar el clima, gracias a la retención de rizos en alta humedad
 

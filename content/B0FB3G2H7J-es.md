@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula hidratante que limpia suavemente la piel mientras aporta una sensación duradera de frescor y bienestar.
 - Fragancia Duradera: Disfruta de una experiencia sensorial única con un aroma floral envolvente que combina suavidad y un toque exótico, dejando la piel delicadamente perfumada durante horas.
+- Fórmula hidratante que limpia suavemente la piel mientras aporta una sensación duradera de frescor y bienestar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FB3G2H7J{{</world>}}

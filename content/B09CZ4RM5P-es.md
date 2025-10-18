@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conservar en lugar fresco y seco
-- Café soluble elaborado con granos de café tostados
-- Se disuelve en agua o leche
-- Fácil y rápido de preparar
 - Ideal para el desayuno o una pausa durante el día
+- Se disuelve en agua o leche
+- Café soluble elaborado con granos de café tostados
+- Fácil y rápido de preparar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09CZ4RM5P{{</world>}}

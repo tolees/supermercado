@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Atún claro en aceite de girasol
 - Mantiene todas las vitaminas y minerales del atún
-- Se debe conservar en un lugar fresco y seco
 - Tu nueva forma de consumir atún gracias al nuevo envase Vuelca Fácil
+- Se debe conservar en un lugar fresco y seco
+- Atún claro en aceite de girasol
 - Adecuado para toda la familia
 
 [🛒 Aquí!!!]({{< param buyurl >}})

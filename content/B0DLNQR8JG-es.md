@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ingrediente natural: hecho a mano: con aceite de palmiste, plátano, aceite de coco, mazorcas de cacao, karité crudo y otras fórmulas naturales, sin ningún químico dañino.
-- Adecuado para cualquier tipo de piel: nuestra fórmula es suave, se puede usar en cualquier tipo de piel, es perfecto para pieles sensibles y ayuda a calmar la piel seca. Siente el poder de la naturaleza original, otorgando juventud y vitalidad a la piel.
-- Barra de jabón negro africano crudo: el jabón negro africano es un remedio africano de siglos de antigüedad conocido por sus poderosas propiedades antioxidantes, que brindan beneficios tanto limpiadores como nutritivos a la piel. Para todo tipo de piel: rostro, cuerpo, cabello.
 - Nutritivo y antienvejecimiento: rico en vitaminas A, D, E y K, este jabón promueve la producción de colágeno, hidrata y equilibra la piel grasa mientras combate naturalmente el acné y los signos del envejecimiento.
+- Ingrediente natural: hecho a mano: con aceite de palmiste, plátano, aceite de coco, mazorcas de cacao, karité crudo y otras fórmulas naturales, sin ningún químico dañino.
+- Barra de jabón negro africano crudo: el jabón negro africano es un remedio africano de siglos de antigüedad conocido por sus poderosas propiedades antioxidantes, que brindan beneficios tanto limpiadores como nutritivos a la piel. Para todo tipo de piel: rostro, cuerpo, cabello.
+- Adecuado para cualquier tipo de piel: nuestra fórmula es suave, se puede usar en cualquier tipo de piel, es perfecto para pieles sensibles y ayuda a calmar la piel seca. Siente el poder de la naturaleza original, otorgando juventud y vitalidad a la piel.
 - Aclara las manchas oscuras: este jabón contiene ceniza de cáscara de plátano natural con una poderosa adsorción para eliminar las impurezas de la piel y aclarar las manchas oscuras, dejando su piel suave, firme, joven y radiante.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

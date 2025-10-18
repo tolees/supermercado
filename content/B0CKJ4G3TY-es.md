@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- DIENTES BLANCOS POR MÁS TIEMPO: diseñado para mantener sus dientes blancos más tiempo* al ofrecer una prevención duradera de las manchas*. *Protección contra manchas superficiales, con uso continuado.
 - PROTECCIÓN CONTRA LAS CARIES: Este enjuague bucal blanqueador de dientes le ofrece una protección efectiva contra las caries con flúor*** para ayudar a mantener sus dientes sanos. ***Protección contra la placa bacteriana con uso dos veces al día.
 - PREVIENE LA DECOLORACIÓN**: Nuestro enjuague bucal ayuda a prevenir la decoloración amarilla** para mantener sus dientes con un aspecto excelente. **Causado por manchas superficiales.
-- SONRISAS BRILLANTES: Date motivos para sonreír alegremente cuando te enjuagues con el enjuague bucal Colgate Max White Purple Reveal.
-- DIENTES BLANCOS POR MÁS TIEMPO: diseñado para mantener sus dientes blancos más tiempo* al ofrecer una prevención duradera de las manchas*. *Protección contra manchas superficiales, con uso continuado.
 - ENJUAGUE BUCAL SIN ALCOHOL: Nuestro enjuague bucal ha sido probado clínicamente por dentistas y contiene 0 % de alcohol. Esta fórmula no contiene etanol.
+- SONRISAS BRILLANTES: Date motivos para sonreír alegremente cuando te enjuagues con el enjuague bucal Colgate Max White Purple Reveal.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKJ4G3TY{{</world>}}

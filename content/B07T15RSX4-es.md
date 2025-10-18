@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Óptima frescura entre lavados
 - Vierte las perlas directamente en el tambor vacío antes de la colada
 - Personaliza la intensidad de la fragancia con la cantidad de perlas que desees utilizar
 - Potenciador de fragancia para el lavado con jugosos aromas cítricos envueltos en notas florales
-- Óptima frescura entre lavados
 - El potenciador de fragancia Lenor Unstoppables está disponible en diferentes aromas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

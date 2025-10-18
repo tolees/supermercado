@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se distribuye uniformemente por el cabello lavado y húmedo
 - Se usa una dosis del tamaño de una mandarina
 - Se agita bien el envase y se sostiene al revés
+- Se distribuye uniformemente por el cabello lavado y húmedo
 - Con filtro UV para aportar volumen máximo al cabello
 
 [🛒 Comprar!!!]({{< param buyurl >}})

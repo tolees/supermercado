@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Testado dermatológicamente.
 - Ayuda a aliviar la sensación de tirantez en la piel.
 - Proporciona una sensación duradera de suavidad y protección.
-- Testado dermatológicamente.
 - Hidrata la piel intensamente.
 - Rápida absorción.
 

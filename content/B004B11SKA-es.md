@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aromas afrutados a naranja de naranja dulce y melocotón
-- Notas de mazapán y nueces
 - Toques de rico y suave chocolate con naranja
 - De color dorado
+- Notas de mazapán y nueces
 - Se puede usar para preparar cócteles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

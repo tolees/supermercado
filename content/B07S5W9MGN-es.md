@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tienen un sabor dulce
 - Están envueltos individualmente
+- Tienen un sabor dulce
 - Conservar en un lugar fresco y seco
 - Ideales como un postre
 - Caja con barritas de cacahuetes, almendras y chocolate

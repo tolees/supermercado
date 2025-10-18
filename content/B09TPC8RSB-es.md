@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Probada por oftalmólogos
 - Apta para personas que usan lentes de contacto y ojos sensiibles
 - Máscara de pestañas con un cepillo con dos posiciones que hace que las pestañas sean más largas y voluminosas
-- La posición rotada del cepillo intensifca y da volumen a las pestañas
 - La posición extendida del cepillo alarga las pestañas
+- La posición rotada del cepillo intensifca y da volumen a las pestañas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09TPC8RSB{{</world>}}

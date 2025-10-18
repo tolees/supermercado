@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🍶|DEPOSITO DE LECHE| Válido para todo tipo de leches, incluso vegetales. Además, puedes seleccionar el volumen deseado según el tamaño de tu taza.
 - ☕​|CAFE MOLIDO| Se pueden utilizar para 1 o 2 tazas. Te recomendamos usar siempre café molido de tueste natural.
-- 💠|BANDEJA DE GOTEO AJUSTABLE| Cuenta con una bandeja de goteo ajustable a la proporción de la taza para preparar más cómodamente tu bebida.
-- ☕|PREPARA CAFÉS DE AUTOR| Te recomendamos usar siempre café molido de tueste natural. El café de mezcla, al estar tostado con azúcar, no es ideal para este tipo de cafeteras y acaba atascando los filtros con el tiempo.
 - ☕|SEMIAUTOMÁTICA| Tiene una bomba de alta presión de flujo estable con 20 bares y control de temperatura NTC, así que es perfecta para preparar café espresso, cappuccino y latte. Además, tiene una caldera de calentamiento instantáneo de acero inoxidable.
+- 💠|BANDEJA DE GOTEO AJUSTABLE| Cuenta con una bandeja de goteo ajustable a la proporción de la taza para preparar más cómodamente tu bebida.
+- 🍶|DEPOSITO DE LECHE| Válido para todo tipo de leches, incluso vegetales. Además, puedes seleccionar el volumen deseado según el tamaño de tu taza.
+- ☕|PREPARA CAFÉS DE AUTOR| Te recomendamos usar siempre café molido de tueste natural. El café de mezcla, al estar tostado con azúcar, no es ideal para este tipo de cafeteras y acaba atascando los filtros con el tiempo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B097NDR5HP{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- con agua purificada y glicerina
 - Sin perfume, sin alcohol, sin parabenos
-- Hipo alergénico, sin aclarado; testado bajo control dermatológico y oftalmológico
 - Para rostro, ojos y labios; para pieles sensibles, normales a secas
+- Hipo alergénico, sin aclarado; testado bajo control dermatológico y oftalmológico
 - Limpia y desmaquilla suavemente
+- con agua purificada y glicerina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06W5D44MP{{</world>}}

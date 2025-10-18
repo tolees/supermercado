@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene un sistema de filtro UVA-UVB
+- Es resistente al agua
 - El producto acelera el bronceado
 - Cuenta con extracto de Pro-mololin
-- Es resistente al agua
+- Contiene un sistema de filtro UVA-UVB
 - Con una fórmula sedosa que protege e hidrata la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
