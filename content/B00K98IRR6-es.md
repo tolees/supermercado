@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Marca: REVLON
 - Deja el cabello fácil de peinar y manejable
 - Sin sulfatos
 - Proporciona suavidad al cabello
-- Marca: REVLON
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00K98IRR6{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sabor: Suave, notas de vainilla, caramelo, ligero toque de especias
-- Color: Ámbar dorado
 - Aroma: Intenso, a cebada y vainilla, madera, ligero toque cítrico
+- Color: Ámbar dorado
 - Acabado: Ligero, complejo, toques de miel y frutas, sabor a malta y madera
+- Sabor: Suave, notas de vainilla, caramelo, ligero toque de especias
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09H3RW6H3{{</world>}}

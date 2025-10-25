@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Champú Reconstructor para pelo largo, dañado
-- Con aceite de ricino, keratina vegetal y vitaminas
 - Repara intensamente los largos
+- Con aceite de ricino, keratina vegetal y vitaminas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BRYY24D{{</world>}}

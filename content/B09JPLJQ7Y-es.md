@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 6,1%
-- Brand: La Sagra
-- Alta calidad
 - Cerveza artesanal de estilo Pumpkin Ale. De cuerpo denso y aterciopelado, aroma intenso, dulce y afrutado.
+- Brand: La Sagra
+- 6,1%
+- Alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09JPLJQ7Y{{</world>}}

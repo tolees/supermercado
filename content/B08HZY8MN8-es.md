@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nuestra tecnología instalast prolonga cualquier look con la máxima estructura y fijación, añadiendo brillo y evitando la acumulación, ya que se cepilla fácilmente
 - Flexidad y Volumen
+- Nuestra tecnología instalast prolonga cualquier look con la máxima estructura y fijación, añadiendo brillo y evitando la acumulación, ya que se cepilla fácilmente
 - Volumen 500 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})

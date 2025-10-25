@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Retrasa la formación de los productos finales de la glicación avanzada gracias a la acción de la carnosina.
 - Protege tu piel del daño oxidativo de los radicales libres originados por la polución. Promueve un rostro visiblemente más terso e hidratado
-- Apto para todo tipo de piel.
+- Retrasa la formación de los productos finales de la glicación avanzada gracias a la acción de la carnosina.
 - No comedogénico y testado dermatológicamente.
+- Apto para todo tipo de piel.
 - Hidrata y remodela el rostro gracias al ácido hialurónico reticulado y al Syn-Hycan.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

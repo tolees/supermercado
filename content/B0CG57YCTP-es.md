@@ -31,9 +31,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - producto 1: Relaja, tonifica y rejuvenece las piernas cansadas
 - producto 1: Mejora la apariencia de la piel, incluso en áreas de varices
 - producto 2: Aceite de Argán 100% natural
+- producto 2: Revitaliza tus sentidos
 - producto 1: Deja las piernas suaves y refrescadas
 - producto 2: Aroma Natural y Agradable
-- producto 2: Revitaliza tus sentidos
 - producto 1: Con extracto de flores de Árnica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

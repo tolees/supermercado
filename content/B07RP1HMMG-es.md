@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Les devuelve la elasticidad
-- Aporta un movimiento natural]
 - [Acondicionador de crema de peinado sin aclarado que te ayudará a controlar el encrespamiento durante 24 horas
+- Aporta un movimiento natural]
 - Nutre tus rizos en profundidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

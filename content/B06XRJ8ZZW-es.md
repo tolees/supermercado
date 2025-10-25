@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Magic Retouch - Spray marrón para retoque capilar - LOréal
-- Spray marrón para retoque capilar - Mujer
 - Envase de 75 ml
+- Spray marrón para retoque capilar - Mujer
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06XRJ8ZZW{{</world>}}

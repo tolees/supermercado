@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El vigorizante té verde orgánico en el corazón se sustenta sobre una base de sándalo australiano y almizcle reciclado
 - Se abre con refrescante bergamota italiana y deliciosa naranja sanguina para una intensidad audaz
+- El vigorizante té verde orgánico en el corazón se sustenta sobre una base de sándalo australiano y almizcle reciclado
 - Se presenta en un frasco reciclable con un acabado metálico translúcido moderno y una tapa plateada luminosa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

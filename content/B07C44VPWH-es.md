@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Champú peluquería mujer
-- Champú fanola
 - Fanola nutricare shampoo 1l
+- Champú fanola
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07C44VPWH{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sin colorantes artificiales
-- Sabores naturales
 - Volumen de visualización del artículo: 355,0 mililitros
+- Sabores naturales
 - Peso del artículo exhibido: 400,0 gramos
 - Apto para veganos
 

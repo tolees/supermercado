@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recomendación de empleo: 1 - 2 barritas por día. Puede suministrarse la barrita entera o repartirla en trocitos de forma ocasional
 - Receta sin azúcar, colorantes, conservantes añadidos ni potenciadores artificiales del sabor
 - Alimento complementario en forma de sabrosas baritas con más del 95% del contenido en carne de pato y conejo.
+- Recomendación de empleo: 1 - 2 barritas por día. Puede suministrarse la barrita entera o repartirla en trocitos de forma ocasional
 - Envase con 3 unidades independientemente envasadas que mantiene su sabor y aroma por más tiempo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

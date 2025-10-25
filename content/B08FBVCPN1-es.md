@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DEFENSA ANTIBACTERIANA: Nuestro dentífrico está diseñado para proporcionarte 24h de defensa antibacteriana reforzada para toda la boca (reducción superior de bacterias en dientes, lengua, mejillas y encías vs. otros dentífricos con flúor no antibacterianos, con uso continuado 2 veces al día durante 4 semanas).
-- REDUCCIÓN SUPERIOR DE BACTERIAS*: Ademas una reducción superior de bacterias en dientes, lengua, mejillas y encías*, nuestro dentífrico también te ofrece 24h de protección activa*. (*reducción superior de bacterias en dientes, lengua, mejillas y encías vs. otros dentífricos con flúor no antibacterianos, con uso continuado 2 veces al día durante 4 semanas).
 - SONRISAS FUERTES Y SANAS: Mantén tu sonrisa fuerte, sana y protegida cuando te cepilles con el dentífrico Colgate Total Original.
-- TECNOLOGÍA ANTIBACTERIANA: Esta pasta dental protege gracias a su exclusiva tecnología antibacteriana de doble zinc.
+- DEFENSA ANTIBACTERIANA: Nuestro dentífrico está diseñado para proporcionarte 24h de defensa antibacteriana reforzada para toda la boca (reducción superior de bacterias en dientes, lengua, mejillas y encías vs. otros dentífricos con flúor no antibacterianos, con uso continuado 2 veces al día durante 4 semanas).
 - 8 BENEFICIOS: Nuestra pasta de dientes ayuda a proteger contra las caries, la placa, el sarro y la sensibilidad, a la vez que protege las encías y el esmalte, y ayuda a blanquear los dientes y a tener un aliento fresco y seguro.
+- REDUCCIÓN SUPERIOR DE BACTERIAS*: Ademas una reducción superior de bacterias en dientes, lengua, mejillas y encías*, nuestro dentífrico también te ofrece 24h de protección activa*. (*reducción superior de bacterias en dientes, lengua, mejillas y encías vs. otros dentífricos con flúor no antibacterianos, con uso continuado 2 veces al día durante 4 semanas).
+- TECNOLOGÍA ANTIBACTERIANA: Esta pasta dental protege gracias a su exclusiva tecnología antibacteriana de doble zinc.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08FBVCPN1{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Capsulas  Versión Actual   1 x 1000 Gramos'
-date: 2025-10-22 10:17:11
+date: 2025-10-25 08:24:49
 image: 'https://m.media-amazon.com/images/I/51JvYWm-PSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tipo de Cabello: Todo Tipo de Cabello
 - Marca: Revlon
 - Género: Mujer
-- Tipo de Cabello: Todo Tipo de Cabello
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B012X2LSGC{{</world>}}

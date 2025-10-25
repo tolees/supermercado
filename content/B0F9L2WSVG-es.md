@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con probióticos: cada comprimido contiene 10 millones de probióticos (l; gasseri, b; bifidum, b; longum) seleccionados para llegar vivos al intestino
 - Ayuda al sistema inmunitario¹ desde el intestino²: complemento alimenticio multivitamínico para adultos con probióticos, minerales vitaminas para ayudar al intestino² y a las defensas naturales¹
 - Modo de uso: adultos (18+), 1 comprimido al día, fácil de tragar, durante o inmediatamente despúes de cualquier comida; no exceder la dosis diaria recomendada
 - Fórmula única 3 en 1: con 3 probióticos, 12 vitaminas y 7 minerales; las vitaminas B2, B3 y B7 ayudan al intestino² y la vitamina c, la vitamina d y el zinc contribuyen al funcionamiento normal del sistema inmunitario¹
+- Con probióticos: cada comprimido contiene 10 millones de probióticos (l; gasseri, b; bifidum, b; longum) seleccionados para llegar vivos al intestino
 - Contenido: 1x bion3 defense, complemento alimenticio multivitamínico con probióticos para ayudar al intestino² y al sistema inmunitario¹, 90 comprimidos, para 3 meses de uso
 
 [🛒 Visítala!!!]({{< param buyurl >}})

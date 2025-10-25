@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin aceite de palma y sin conservantes ni colorantes artificiales
-- Snacks horneados con ingredientes naturales
 - Elaborados con tomate y orégano
+- Snacks horneados con ingredientes naturales
 - Fuente de fibra
 - Un snack para fiestas y cumpleaños
 

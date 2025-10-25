@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ✅ EL OLIVAR: Nuestro olivar está compuesto por 19 hectáreas repartidos en la ladera de una colina y en la vega del río Cubilar. Las temperaturas son calurosas en verano y bajas durante las noches de invierno, pero no hay heladas. La tierra es algo arcillosa con un ph ácido, casi neutro.
-- ✅ COSECHA: Se cosechó entre la segunda y la tercera semana de noviembre de 2023, justo cuando la aceituna comenzaba a enverar.
 - ✅ EDICIÓN LIMITADA: Todas las botellas están numeradas. En la cosecha del 2023 hemos obtenido 1.655 botellas.
-- ✅ LA VARIEDAD DE ACEITUNA: Picual, una variedad seleccionada por lo apropiada para el terreno en donde se encuentra. Madura a finales de octubre, momento en donde decidimos comenzar con la recolección que dura unas dos semanas. Se recoge vibrando el árbol y la aceituna nunca toca el suelo.
 - ✅ El precio del pack es de 43€. Obtienes un ahorro del 10%.
-- ✅ CATA: El resultado es un aceite frutado, equilibrado, algo picante y ligeramente amargo. Este año, la Naturaleza ha querido que sea algo más suave que el año anterior.
 - ✅ ALMAZARA: Elaboramos el aceite sin que pase los 26 grados, mediante procesos mecánicos. Eso permite que el aceite obtenido sea de una muy alta calidad y preserve todos sus aromas.
+- ✅ COSECHA: Se cosechó entre la segunda y la tercera semana de noviembre de 2023, justo cuando la aceituna comenzaba a enverar.
+- ✅ CATA: El resultado es un aceite frutado, equilibrado, algo picante y ligeramente amargo. Este año, la Naturaleza ha querido que sea algo más suave que el año anterior.
+- ✅ LA VARIEDAD DE ACEITUNA: Picual, una variedad seleccionada por lo apropiada para el terreno en donde se encuentra. Madura a finales de octubre, momento en donde decidimos comenzar con la recolección que dura unas dos semanas. Se recoge vibrando el árbol y la aceituna nunca toca el suelo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D8N7SLLG{{</world>}}

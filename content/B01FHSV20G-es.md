@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Laboratorios Almond,S.L. Avda. Cab. Blancos, P. 18.2.B P.E. Cabecicos Blancos 30892 Librilla - Murcia (Spain)
-- Sin proteína láctea
-- Sin gluten
 - Sin soja
+- Sin proteína láctea
+- Laboratorios Almond,S.L. Avda. Cab. Blancos, P. 18.2.B P.E. Cabecicos Blancos 30892 Librilla - Murcia (Spain)
+- Sin gluten
 - Ingredientes naturales y ecológicos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color inalterable y brillo
 - Formúla con Permatone en el primer paso y brillo de labios en el segundo
-- Labial en dos pasos para un color inalterable durante 8 horas y el brillo de un gloss
 - Rica base de color de larga duración y topcoat de brillo
+- Labial en dos pasos para un color inalterable durante 8 horas y el brillo de un gloss
 - Fluido Dimethicone base suave y ligera
+- Color inalterable y brillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00GGHPX30{{</world>}}

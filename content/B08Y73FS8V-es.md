@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pelaje brillate y piel sana: Omega 3 y 6 y zinc que contribuyen a un pelaje brillante y una piel cuidada
 - Sin cereales: con carbohidratos alternativos (boniato, garbanzos y guisantes)
-- Sin colorantes, conservantes ni aromas artificiales; ingredientes con trazabilidad garantizada desde el origen
 - Comida completa y equilibrada para gatos adultos
+- Pelaje brillate y piel sana: Omega 3 y 6 y zinc que contribuyen a un pelaje brillante y una piel cuidada
 - Alto contenido de proteínas: carne deshuesada como ingrediente principal
 - Óptima condición física: Nivel equilibrado de proteínas de alta calidad y calorías que ayudan a mantener la masa muscular y el nivel de actividad
+- Sin colorantes, conservantes ni aromas artificiales; ingredientes con trazabilidad garantizada desde el origen
 - Embalaje reciclable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

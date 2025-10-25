@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FORMATO SQUIZZ ANTIGOTEO CON TAPÓN REGULABLE. Gracias a su práctico tapón regulable antigoteo, se trata de un formato más limpio, cómodo y preciso para el uso diario, ideal para usar directamente en ensaladas, tostadas o platos cocinados
-- ENVASE RECICLADO SOSTENIBLE. Diseñado en botella de plástico reciclado al 50%, en formato PET verde de 500 ml con diseño oscurecido para una mejor conservación del aceite de oliva
-- ORIGEN 100% ESPAÑOL. Nuestro AOVE ecológico está elaborado con aceitunas de origen nacional bajo estándares de calidad y sostenibilidad
 - DISEÑO ECO-FRIENDLY. Diseñado con etiqueta kraft y personaje ECO en colores naturales que reflejan nuestro compromiso con el medio ambiente
+- ENVASE RECICLADO SOSTENIBLE. Diseñado en botella de plástico reciclado al 50%, en formato PET verde de 500 ml con diseño oscurecido para una mejor conservación del aceite de oliva
+- FORMATO SQUIZZ ANTIGOTEO CON TAPÓN REGULABLE. Gracias a su práctico tapón regulable antigoteo, se trata de un formato más limpio, cómodo y preciso para el uso diario, ideal para usar directamente en ensaladas, tostadas o platos cocinados
+- ORIGEN 100% ESPAÑOL. Nuestro AOVE ecológico está elaborado con aceitunas de origen nacional bajo estándares de calidad y sostenibilidad
 - ACEITE DE OLIVA VIRGEN EXTRA ECOLÓGICO CERTIFICADO. Aceite de oliva virgen extra de cultivo ecológico, producido de manera sostenible en nuestra almazara de Mora (Toledo)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

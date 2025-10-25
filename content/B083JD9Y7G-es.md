@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- NATIVA SPA: Todo sobre una piel que atrae y energiza, que te hace sonreír en el espejo sin saber por qué. Te invitamos a experimentar la vida con tu cuerpo, piel y alma.
 - HIDRATANTE: El aceite corporal perfumado Nativa SPA proporciona una hidratación perfumada de larga duración, fácil de aplicar y esparcir, sin dejar la piel grasosa o pegajosa. Fórmula súper concentrada y rica en nutrientes que ilumina y rellena la piel.
-- MODO DE USO: En la ducha, después de lavarse el cuerpo, con la piel aún húmeda y en la ducha, aplicar el Aceite Hidratante Corporal con movimientos circulares. Entonces puedes optar por enjuagar o no.
+- NATIVA SPA: Todo sobre una piel que atrae y energiza, que te hace sonreír en el espejo sin saber por qué. Te invitamos a experimentar la vida con tu cuerpo, piel y alma.
 - CRUELTY FREE: Todos los productos O Boticário son cruelty free.
+- MODO DE USO: En la ducha, después de lavarse el cuerpo, con la piel aún húmeda y en la ducha, aplicar el Aceite Hidratante Corporal con movimientos circulares. Entonces puedes optar por enjuagar o no.
 - PODEROSO: Mantén tu piel hidratada, suave y tersa de la cabeza a los pies. Con gotas de quinua purificada que aumentan la hidratación, el aumento de la producción de colágeno evita la pérdida de elasticidad de la piel.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

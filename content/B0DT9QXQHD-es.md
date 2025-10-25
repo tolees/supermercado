@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Patatas fritas de bolsa
-- Sabor a sal
 - Patatas estilo churrería
+- Sabor a sal
+- Patatas fritas de bolsa
 - Realizadas con solo patatas, aceite y sal
 - Apto para compartir
 

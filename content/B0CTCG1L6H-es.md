@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una deliciosa figura Bunny de suave chocolate con leche, relleno de crujiente galleta y cereal
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado UTZ
-- Disfruta como nunca esta pascua con KITKAT Bunny con tus seres queridos
+- Una deliciosa figura Bunny de suave chocolate con leche, relleno de crujiente galleta y cereal
 - Esta Pascua tómate un respiro con KITKAT Bunny
+- Disfruta como nunca esta pascua con KITKAT Bunny con tus seres queridos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTCG1L6H{{</world>}}

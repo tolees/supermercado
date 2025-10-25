@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TEXTURA CREMOSA Y NATURAL: Recuerda a las natillas caseras, con una permanencia afrutada en boca. Su textura es suave, densa y deliciosa.
-- GRADUACIÓN PERFECTA: Contiene 16% de alcohol, ideal para disfrutar como digestivo o en sobremesas. El broche perfecto para cualquier comida.
 - SABOR AUTÉNTICO A ORUJO: Aromas suaves de vainilla y pasas que se combinan con el inconfundible sabor a aguardiente de orujo, presente en cada trago.
+- GRADUACIÓN PERFECTA: Contiene 16% de alcohol, ideal para disfrutar como digestivo o en sobremesas. El broche perfecto para cualquier comida.
 - SIN ADITIVOS NI CONSERVANTES: Elaborada con aguardientes 100% naturales, sin añadir productos químicos, lo que garantiza una experiencia pura y artesanal.
+- TEXTURA CREMOSA Y NATURAL: Recuerda a las natillas caseras, con una permanencia afrutada en boca. Su textura es suave, densa y deliciosa.
 - SUAVIDAD ARTESANAL: Elaborada con crema de leche de alta calidad y aguardientes naturales; textura suave y densa inspirada en natillas caseras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

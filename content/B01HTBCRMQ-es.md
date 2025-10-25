@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene menos grasa
 - Apta para niños y adultos intolerantes a la lactosa
 - Tiene un aporte de vitaminas
+- Contiene menos grasa
 - Se puede servir como tal, con cereales o en café
 - Leche sin lactosa facil de digerir
 

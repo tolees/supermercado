@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes de origen sostenible
-- Notas de salida: Coco con un toque salado, Delicia de Virutas de Coco, Semilla de Cilantro, Bergamota
-- Crema corporal con aroma cítrico, floral y afrutado
 - Notas de corazón Té verde Accord, Karmaflor, Mahonial, Petalia.
+- Notas de salida: Coco con un toque salado, Delicia de Virutas de Coco, Semilla de Cilantro, Bergamota
+- Ingredientes de origen sostenible
+- Crema corporal con aroma cítrico, floral y afrutado
 - Notas de fondo: Ámbar blanco, almizcle, musgo de roble Accord
 
 [🛒 Comprar!!!]({{< param buyurl >}})

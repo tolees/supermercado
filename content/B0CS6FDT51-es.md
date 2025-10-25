@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómo usarlo: Aplicar el gel en las palmas húmedas o una esponja, luego masajear y aclarar
-- PAQUETE DE 2 X 500 ML DE JABÓN DE DUCHA
 - LECHE DE ALMENDRAS Y NARANJA: Crema de ducha humectante que te cuida con su extracto de leche de almendras y naranja
+- PAQUETE DE 2 X 500 ML DE JABÓN DE DUCHA
+- Cómo usarlo: Aplicar el gel en las palmas húmedas o una esponja, luego masajear y aclarar
 - DERMATOLÓGICAMENTE PROBADO: Indicado para todo tipo de pieles.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

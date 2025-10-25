@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
-- Comida española fácil de preparar: al baño maria, en cazo o al microondas
-- Fabada Asturiana con 30% menos de grasa y sal
 - Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
+- Fabada Asturiana con 30% menos de grasa y sal
+- Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
 - Selecto embutido elaborado en Asturias, embutido 100% local
+- Comida española fácil de preparar: al baño maria, en cazo o al microondas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HHDMMQC{{</world>}}

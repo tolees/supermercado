@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Lápiz de cejas de punta fina
 - Hasta 10h de duración
 - Fórmula vegana, resistente al agua y a prueba de manchas
 - Define y rellena con precisión
-- Lápiz de cejas de punta fina
 - Crea trazos que simulan los pelos naturales de las cejas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

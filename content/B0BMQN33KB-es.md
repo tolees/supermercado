@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disfruta del delicioso sabor nuestra salsa ligera a la vez que cuidas tu figura con un 40% menos de calorías que nuestra mayonesa original. Sin gluten y sin lactosa.
-- Ideal para dar sabor a tus platos y ensaladas
-- Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
-- Misma receta ahora envasada en botella 25% reciclada
 - Sabor original, 40% menos calorías
+- Misma receta ahora envasada en botella 25% reciclada
+- Ideal para dar sabor a tus platos y ensaladas
+- Disfruta del delicioso sabor nuestra salsa ligera a la vez que cuidas tu figura con un 40% menos de calorías que nuestra mayonesa original. Sin gluten y sin lactosa.
+- Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BMQN33KB{{</world>}}

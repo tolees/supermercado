@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado como un regalo
-- Sabor: bayas de enebro, arándanos, moras, cáscara de naranja
 - Esta ginebra es adecuada para mezclar con tónica o ginger
+- Sabor: bayas de enebro, arándanos, moras, cáscara de naranja
+- Adecuado como un regalo
 - Color: claro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

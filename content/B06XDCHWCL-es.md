@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección UVA/UVB altamente eficiente. Fórmula resistente al agua.
-- Ayuda a minimizar el riesgo de reacciones cutáneas debidas al sol.
 - Cuida de los textiles: Fórmula innovadora. Las manchas debidas a los filtros UV se limpian más fácilmente, en comparación de las fórmulas anteriores.
+- Protección UVA/UVB altamente eficiente. Fórmula resistente al agua.
 - Proporciona una hidratación intensa y de larga duración.
+- Ayuda a minimizar el riesgo de reacciones cutáneas debidas al sol.
 - Protege la piel del sol y del envejecimiento cutáneo prematuro.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

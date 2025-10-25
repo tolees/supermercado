@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Variedad multicolor para grandes y pequeños
 - Piñas, la novedad más tropical. Descubre su textura única con un interior extra tierno.
+- Variedad multicolor para grandes y pequeños
 - Disfruta con alegría y diversión.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

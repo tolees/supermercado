@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CHAMPÚ DE USO DIARIO SIN SILICONAS: aceites minerales ni colorantes limpia suavemente tu pelo y le aporta nutrientes
-- BOTELLA CON DISPENSADOR: Obtén más cantidad del champú que tanto te gusta gracias a nuestras botellas, cómodas y sostenibles
 - Basta con tirar de la tapa para abrir el dispensador y disfrutar del producto de forma más duradera
+- CHAMPÚ DE USO DIARIO SIN SILICONAS: aceites minerales ni colorantes limpia suavemente tu pelo y le aporta nutrientes
 - PROTECCIÓN EN PELO DÉBIL: La fórmula con 50 % más de agentes protectores ayuda a reparar tu pelo
+- BOTELLA CON DISPENSADOR: Obtén más cantidad del champú que tanto te gusta gracias a nuestras botellas, cómodas y sostenibles
 - El champú Repara y Protege limpia tu pelo y se ve más sano. Un pelo hasta un 100 % más fuerte y más sano frente al desgaste del peinado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

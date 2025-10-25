@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este envase contiene aproximadamente 6 porciones
-- Envasado en Italia
-- Lentejas verdes categoría extra
-- Conservar en un lugar fresco, oscuro y seco
 - Apto para dietas vegetarianas y veganas
+- Envasado en Italia
+- Este envase contiene aproximadamente 6 porciones
+- Conservar en un lugar fresco, oscuro y seco
+- Lentejas verdes categoría extra
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CG9QN58V{{</world>}}

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - EQUILIBRIO EMOCIONAL: Ayuda a mantener el estado de ánimo positivo, contribuye al equilibrio emocional y ayuda a la relajación. Incluye 30 comprimidos
 - SOBRE NOSOTROS: Laboratorios Deiters trabaja desde 1945 para mejorar la calidad de vida de las personas. Somos una empresa de larga tradición farmacéutica, con un equipo profesional experimentado y dedicado a la innovación y calidad de nuestros productos.
-- COMPLEJO VITAMÍNICO: Animus es un complemento alimenticio en pastillas para mejorar el estado de ánimo, reducir los niveles de estrés y controlar los síntomas de la ansiedad
 - ¿CÓMO TOMARLO?: Se recomienda tomar 1 comprimido al día a cualquier hora durante el periodo de tiempo deseado. Gracias a su elaboración 100% natural no generan ningún tipo de dependencia
 - COMPRIMIDOS NATURALES: Son pastillas totalmente naturales; están elaboradas a partir de extracto de estigmas de azafrán y vitamina B6, que regulan el sistema nervioso controlando el desánimo, el estrés y la ansiedad
+- COMPLEJO VITAMÍNICO: Animus es un complemento alimenticio en pastillas para mejorar el estado de ánimo, reducir los niveles de estrés y controlar los síntomas de la ansiedad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06W5GND35{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conservar en un lugar fresco y seco
-- Calendario de Adviento: figuritas Kit Kat
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest Alliance
+- Calendario de Adviento: figuritas Kit Kat
 - Descubre un mini chocolate Kit Kat Festive en cada ventana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

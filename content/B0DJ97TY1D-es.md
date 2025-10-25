@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- FRAGANCIAS ICÓNICAS DE AUSSIE: aromas dulces y deliciosos que harán que tu pelo huela divinamente
 - MASCARILLA CAPILAR: ofrece una hidratación intensa para el pelo rizado y seco
 - CHAMPÚ: CUIDADO E HIDRATACIÓN: Champú de hidratación intensa para el pelo seco, grueso y rizado
-- FRAGANCIAS ICÓNICAS DE AUSSIE: aromas dulces y deliciosos que harán que tu pelo huela divinamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJ97TY1D{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Protección contra la caries
-- Siéntete cómodo con aliento fresco
 - Dientes fuertes
+- Siéntete cómodo con aliento fresco
 - Contiene flúor activo y calcio líquido
 - Fantástico sabor menta
 

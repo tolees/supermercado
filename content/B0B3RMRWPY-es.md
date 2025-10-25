@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Hasta 37.000 pinceladas vibrantes por minuto
 - 3 modos de cepillado, temporizador de intervalos y resistente al agua
-- Disponible en 7 colores de moda
 - Incluido 2 cabezales de cepillo y 2 estuches para cabezales de cepillo
+- Disponible en 7 colores de moda
 - 300 días de duración de la batería
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CANTIDAD Y PORCIONES: El envase de 2,5kg contiene dos bolsas y ofrece un total de 178 raciones, lo que lo convierte en una opción ideal para disfrutar durante un largo periodo de tiempo. Cada porción está diseñada para ofrecer un equilibrio perfecto entre sabor y nutrición, sin comprometer la calidad.
 - SABOR ÚNICO Y GRUMITOS: Su delicioso sabor y textura se deben a la calidad del cacao natural utilizado, sin aditivos, lo que lo hace inconfundible.
-- CACAO NATURAL: Elaborado con cacao natural, que se mezcla sin la necesidad de aditivos, conservando su sabor auténtico y los característicos grumitos.
 - PROCESO TRADICIONAL DEL CACAO: Cacao natural recolectado a mano, secado al sol, tostado, prensado y mezclado de manera tradicional.
+- CACAO NATURAL: Elaborado con cacao natural, que se mezcla sin la necesidad de aditivos, conservando su sabor auténtico y los característicos grumitos.
+- CANTIDAD Y PORCIONES: El envase de 2,5kg contiene dos bolsas y ofrece un total de 178 raciones, lo que lo convierte en una opción ideal para disfrutar durante un largo periodo de tiempo. Cada porción está diseñada para ofrecer un equilibrio perfecto entre sabor y nutrición, sin comprometer la calidad.
 - CACAO SOSTENIBLE CERTIFICADO: El cacao utilizado es 100% certificado por Rainforest Alliance, apoyando el cultivo sostenible y responsable con el medio ambiente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

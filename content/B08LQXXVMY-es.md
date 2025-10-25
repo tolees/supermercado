@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Instrucciones para su uso adecuado: Después de abrirlo, plegar el paquete y cerrar bien la caja, para mantener los cereales crujientes
+- País de origen: Portugal
 - Contiene pepitas de chocolate
 - Cereales de trigo e maíz
-- País de origen: Portugal
-- Instrucciones para su uso adecuado: Después de abrirlo, plegar el paquete y cerrar bien la caja, para mantener los cereales crujientes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LQXXVMY{{</world>}}

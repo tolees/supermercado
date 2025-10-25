@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cepillo de aplicación redondeado para una aplicación precisa
-- Fórmula de gel de larga duración
 - Dispone de una paleta de colores variada
+- Fórmula de gel de larga duración
 - Con tonos clásicos y en tendencia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

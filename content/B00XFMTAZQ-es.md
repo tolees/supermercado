@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene un 50% menos calorías que néctar tradicional
-- Elaborada de melocotón
 - Bebida refrescante sin azúcar
+- Elaborada de melocotón
 - El producto representa una botella de nectar de melocotón
 - Es adecuado para personas que desean seguir una dieta baja en calorías
+- Contiene un 50% menos calorías que néctar tradicional
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XFMTAZQ{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de aplicar
 - Producto de calidad óptima
+- Fácil de aplicar
 - Para cabello fino
 
 [🛒 Comprar!!!]({{< param buyurl >}})

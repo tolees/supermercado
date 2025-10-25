@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lomo de atún al natural, perfecto para recetas de pasta, como los macarrones con atún y tomate.
-- Alto contenido en proteínas
 - Añádelo como ingrediente para pizzas o elabora una ensalada deliciosa y saludable.
 - Fuente de ácidos grasos omega 3, bajo contenido en sal
-- Versátil y fácil de utilizar.
+- Alto contenido en proteínas
+- Lomo de atún al natural, perfecto para recetas de pasta, como los macarrones con atún y tomate.
 - Envase hermético fácil de almacenar y apilable.
+- Versátil y fácil de utilizar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B096ZT9NJQ{{</world>}}

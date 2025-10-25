@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseño funcional
 - Diseño elegante
 - Tejido de secado rápido
-- Diseño funcional
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D87GF3XR{{</world>}}

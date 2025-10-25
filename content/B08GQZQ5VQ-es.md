@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con tapón dosificador
-- Se utiliza en platos de judías, arroces, carnes y pescado; también se utiliza como colorante natural en salsas y sofritos
 - Sabor: Especia
-- Cúrcuma molida 425 gr
+- Con tapón dosificador
 - Aporta sabor dulzón, ligeramente picante y amargo muy utilizado en la cocina oriental; es un ingrediente esencial del curry
+- Cúrcuma molida 425 gr
+- Se utiliza en platos de judías, arroces, carnes y pescado; también se utiliza como colorante natural en salsas y sofritos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GQZQ5VQ{{</world>}}

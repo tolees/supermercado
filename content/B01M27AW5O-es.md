@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Insecticida formato fregasuelos de efecto preventivo
 - Repele y mata los insectos rastreros como hormigas, cucarachas, arañas
 - Prevención hasta 15 días
 - Aroma lavanda
-- Insecticida formato fregasuelos de efecto preventivo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M27AW5O{{</world>}}

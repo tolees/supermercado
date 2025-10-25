@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Beber muy frío
 - Pack de 24 latas
-- Bebida refrescante de té negro con melocotón
 - Realizado con azúcar y extracto de la planta de stevia
+- Bebida refrescante de té negro con melocotón
 - Bajo en calorías
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Agua mineral natural de mineralización muy débil
 - Residuo seco 28mg/l
 - Se debe conservar en un lugar fresco y seco
 - Indicada para la preparación de alimentos infantiles
-- Agua mineral natural de mineralización muy débil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAOUCEC{{</world>}}

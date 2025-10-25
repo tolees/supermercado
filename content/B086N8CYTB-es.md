@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Testado ginecológicamente y pH equilibrado
 - Su fórmula suave y sin jabón respeta tu pH íntimo natural
+- Testado ginecológicamente y pH equilibrado
 - Llévalas contigo a cualquier sitio
 - Frescor duradero en cualquier sitio
 

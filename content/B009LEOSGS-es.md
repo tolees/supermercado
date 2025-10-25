@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Castilla y León es una indicación geográfica protegida (IGP), utilizada para designar los vinos de la tierra elaborados con uvas producidas en la comunidad autónoma de Castilla y León, España
 - Óptimo para acompañar carne roja a la piedra. También se puede maridar con guisos con salsas potentes como las carrilladas ibéricas o el rabo de toro
 - Fruta fresca, frambuesa, sobre notas ligeramente minerales. Sutil, elegante y goloso
+- Castilla y León es una indicación geográfica protegida (IGP), utilizada para designar los vinos de la tierra elaborados con uvas producidas en la comunidad autónoma de Castilla y León, España
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009LEOSGS{{</world>}}

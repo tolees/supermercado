@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
-- Comida española fácil de preparar: al baño maria, en cazo o al microondas
-- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
-- Deliciosa receta ligera con legumbres y verduras
 - Receta 100% vegetal, baja en grasa
+- Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
+- Deliciosa receta ligera con legumbres y verduras
+- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
+- Comida española fácil de preparar: al baño maria, en cazo o al microondas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MCWE9UO{{</world>}}

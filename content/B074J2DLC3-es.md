@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - La fórmula está infundida con vitamina E y aceite de aguacate para, ademas del color, propiciar hidratacion perfecta
 - Extra sedoso e hidratante
 - Acabado satinado
-- Sin fragancia
 - Color que es realmente adictivo para usar; usamos pigmentos microfinos para crear tonos vibrantes con sensación ligera
+- Sin fragancia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B074J2DLC3{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - BB Cream Clásica, hidratante diario con color con tecnología todo en uno y Vitamina C, para un efecto buena cara al instante
 - Hidrata, Unifica, Corrige, Ilumina con Protección SPF 15
-- Contenido: 1 x BB Cream Clásica Perfeccionador Prodigioso para Pieles Normales Tono Medio con Vitamina C, Garnier SkinActive, 50 ml
 - Fórmula con extracto de pomelo y Vitamina C, conocido antioxidante, la fórmula reaviva la luminosidad natural de la piel
+- Contenido: 1 x BB Cream Clásica Perfeccionador Prodigioso para Pieles Normales Tono Medio con Vitamina C, Garnier SkinActive, 50 ml
 - Utilizar sobre la piel limpia y seca, Aplicar a diario sobre el rostro y el cuello, Masajear suavemente con movimientos circulares desde el centro del rostro hacia fuera y hacia arriba en el cuello
 
 [🛒 Visítala!!!]({{< param buyurl >}})

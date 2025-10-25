@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aromas frutales de manzana verde, frutas de hueso maduras y cítricos
-- Ligero, equilibrado y ácido, con un contraste al final, ligeramente amargo
 - El vino blanco de mesa de toda la vida
+- Ligero, equilibrado y ácido, con un contraste al final, ligeramente amargo
 - Refrescante acidez con buen equilibrio, las notas afrutadas vuelven en el retrogusto
 - Contiene dioxido de azúfre y sulfitos
 

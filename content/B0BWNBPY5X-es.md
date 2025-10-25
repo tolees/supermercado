@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cada paquete contiene 4 Sobres con 2 Tortitas en cada uno
+- Cada caja contiene 14 paquetes
 - 84kcal por Tortita
 - Tortitas de arroz con Chocolate Blanco y trocitos de avellanas (14unidades)
-- Cada caja contiene 14 paquetes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWNBPY5X{{</world>}}

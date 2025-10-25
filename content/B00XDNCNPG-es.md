@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conserva de atún en aceite de girasol
 - Sabor delicado y refinado
 - Contenido en omega 3
 - Mantener en un lugar fresco y seco
+- Conserva de atún en aceite de girasol
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDNCNPG{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con té verde
 - Para cabello normal con caspa, sin parabenos
+- Con té verde
 - Cabello libre de caspa y recupera el brillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

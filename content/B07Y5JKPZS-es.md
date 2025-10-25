@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 500 g (Paquete de 3)
-- Tostado con pasión y siguiendo la experta tradición vienesa desde 1929; suavemente aromatizado con un tostado de tambor a largo plazo
-- Granos de café cuidadosamente seleccionados (60 % arábica, 40 % robusta) para una mezcla perfectamente equilibrada: no demasiado fuerte, con la acidez suficiente, y con un sabor dulce de vainilla natural
-- Todas nuestras variedades tienen la certificación UTZ como parte de Rainforest Alliance; llevamos la sostenibilidad y la responsabilidad medioambiental en nuestro corazón
 - Café Der-Franz con sabor a vainilla natural: café tostado en granos enteros; intensidad 3 de 5; tostado 4 de 5; acidez 1 de 5; mezcla perfecta para Ristretto, Espresso, Lungo o Cappuccino
+- Tostado con pasión y siguiendo la experta tradición vienesa desde 1929; suavemente aromatizado con un tostado de tambor a largo plazo
+- Todas nuestras variedades tienen la certificación UTZ como parte de Rainforest Alliance; llevamos la sostenibilidad y la responsabilidad medioambiental en nuestro corazón
+- Granos de café cuidadosamente seleccionados (60 % arábica, 40 % robusta) para una mezcla perfectamente equilibrada: no demasiado fuerte, con la acidez suficiente, y con un sabor dulce de vainilla natural
+- 500 g (Paquete de 3)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Y5JKPZS{{</world>}}

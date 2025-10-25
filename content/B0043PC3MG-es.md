@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal con guisos, embutidos y todo tipo de carnes y asados propios de la dieta mediterránea
 - D.O.Ca Rioja, Rioja Alta.
+- Ideal con guisos, embutidos y todo tipo de carnes y asados propios de la dieta mediterránea
 - El embalaje puede variar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

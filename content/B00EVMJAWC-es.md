@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene leche y derivados
-- Deliciosas especialidades de chocolate
-- Chocolate con leche, negro, avellanas, praline
 - Barritas envueltas individualmente
+- Chocolate con leche, negro, avellanas, praline
+- Deliciosas especialidades de chocolate
+- Contiene leche y derivados
 - Chocolate con leche, negro, avellanas, praline
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

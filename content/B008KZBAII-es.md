@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caja de regalo con 10 Eau de Parfum en miniaturas.
+- Una selección de fragancias diferentes y refinadas, modernas o tradicionales.
 - 100 % fabricado en Francia por Charrier Parfums, perfumado desde 1888
 - Caja de regalo – un perfume para cada momento – un perfume para cada gusto.
-- Una selección de fragancias diferentes y refinadas, modernas o tradicionales.
+- Caja de regalo con 10 Eau de Parfum en miniaturas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008KZBAII{{</world>}}

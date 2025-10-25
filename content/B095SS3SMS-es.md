@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ALMENDRAS SICILIANAS SELECCIONADAS: Elaborado con almendras de cáscara gruesa y leñosa, maceradas con su piel para preservar todos sus aceites esenciales y ofrecer un sabor auténtico.
-- RECETA FAMILIAR ARTESANAL: Siguiendo una antigua tradición italiana, las almendras se infusionan lentamente en alcohol con azúcar, logrando un licor gourmet de carácter único.
 - SERVICIO Y MARIDAJE VERSÁTIL: Disfrútalo bien frío con hielo como digestivo, o úsalo en cócteles clásicos como el Amaretto Sour. Ideal para acompañar postres de chocolate y café.
+- RECETA FAMILIAR ARTESANAL: Siguiendo una antigua tradición italiana, las almendras se infusionan lentamente en alcohol con azúcar, logrando un licor gourmet de carácter único.
 - NOTA DE CATA ELEGANTE: Color nacarado con destellos cobrizos. Nariz intensa a almendra y mazapán con sutil amargor; en boca, textura suave y dulce con matices de vainilla, cereza y cacao.
 - ESENCIA DEL MEDITERRÁNEO: Cada sorbo transporta a un jardín siciliano gracias a sus aromas naturales, sin colorantes ni aromatizantes artificiales. Perfecto para compartir en sobremesas y celebraciones.
 

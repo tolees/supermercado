@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- OJOS Y LABIOS: Diviértete alternando los colores de la paleta de sombras; aplícalas sobre los párpados con las brochas incluídas en el kit, y usa el lápiz delineador de ojos para un delineado suave; luego aplica el delineador de lábios y rellena con el labial
+- PARA LAS UÑAS: Contiene también 4 esmaltes de uñas de secado rápido, una lima y separadores para realizar la pedicura cómodamente desde tu casa
 - PARA LAS UÑAS: Es muy fácil crear una manicura de salón desde la comodidad de tu casa; elige tu color favorito y extiéndelo sobre la uña con la brocha; deja secar por unos minutos y aplica una segunda capa si es necesario
 - KIT DE MAQUILLAJE: El icónico maletín Colour Delights contiene 16 sombras de ojos, 8 coloretes, 4 bronzers, 4 iluminadores, 3 pintalabios, 1 brillo de labios, 3 lápices labiales, 2 delineadores de ojos, y brochas par aplicar el maquillaje
-- PARA LAS UÑAS: Contiene también 4 esmaltes de uñas de secado rápido, una lima y separadores para realizar la pedicura cómodamente desde tu casa
-- OJOS Y LABIOS: Diviértete alternando los colores de la paleta de sombras; aplícalas sobre los párpados con las brochas incluídas en el kit, y usa el lápiz delineador de ojos para un delineado suave; luego aplica el delineador de lábios y rellena con el labial
 - PARA EL ROSTRO: Aplica el bronzer debajo de los pómulos, en el mentón y en la nariz para un contour definido, luego aplica el colorete sobre los pómulos, y termina con un poco de iluminador para dar brillo y luz a tu look
 
 [🛒 Comprar!!!]({{< param buyurl >}})

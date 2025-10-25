@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Complemento alimenticio con extractos de valeriana, pasiflora y espino blanco
-- Sin lactosa
-- Sin gluten
 - Favorece la relajación y contribuye al inicio y al mantenimiento de la calidad normal del sueño
+- Sin gluten
 - Con ingredientes de origen natural
+- Sin lactosa
+- Complemento alimenticio con extractos de valeriana, pasiflora y espino blanco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07B5CQC43{{</world>}}

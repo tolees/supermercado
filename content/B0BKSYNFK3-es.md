@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CUATRO PASOS PARA UN CABELLO DE SUEÑO 🍃✨: Desde el lavado hasta el cuidado final, cada producto tiene una acción específica. Juntos, ofrecen un cuidado inigualable.
 - EL PODER DE LA NATURALEZA PARA TU CABELLO 🌿💖: Keratina, aloe vera, aceite de argán... Tu cabello merece lo mejor de la naturaleza. Este trío utiliza el poder de la naturaleza para reparar, hidratar y proteger tu cabello.
 - UN CUIDADO COMPLETO PARA UNA TRANSFORMACIÓN 💎💁‍♀️: Con este pack completo, da una metamorfosis a tu cabello, dejándolo suave, liso y brillante.
-- CALIDAD Y RESPONSABILIDAD 🌍🚫: En Kerargan, elegimos ingredientes seguros para ti y el planeta. Nuestro pack está libre de sulfatos, GMO, aceites minerales y siliconas para el Champú. Para una belleza sin compromisos.
+- CUATRO PASOS PARA UN CABELLO DE SUEÑO 🍃✨: Desde el lavado hasta el cuidado final, cada producto tiene una acción específica. Juntos, ofrecen un cuidado inigualable.
 - UNA INVERSIÓN EN BELLEZA Y SALUD 💫🌸: Este kit es más que un cuidado, es una inversión en la salud de tu cabello.
+- CALIDAD Y RESPONSABILIDAD 🌍🚫: En Kerargan, elegimos ingredientes seguros para ti y el planeta. Nuestro pack está libre de sulfatos, GMO, aceites minerales y siliconas para el Champú. Para una belleza sin compromisos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BKSYNFK3{{</world>}}

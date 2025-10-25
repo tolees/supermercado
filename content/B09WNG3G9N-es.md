@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Marca: Garnier
 - Enriquecida con Aloe Vera para refrescar la piel
-- Spray protector solar transparente SPF 50 de secado rápido
 - Óptima protección transparente frente a los rayos UVA y UVB
+- Spray protector solar transparente SPF 50 de secado rápido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09WNG3G9N{{</world>}}

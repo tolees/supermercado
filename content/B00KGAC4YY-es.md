@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - En equilibrio con el pH de la piel
 - Su fórmula con Pro-vitamina y valiosos aceites nutritivos envuelve tu piel proporcionando sensación de hidratación y suavidad
-- Convierte tu ducha diaria en un momento lleno de placer y cuidado
 - Ingredientes y fragancia únicos
+- Convierte tu ducha diaria en un momento lleno de placer y cuidado
 - Dermatológicamente comprobado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

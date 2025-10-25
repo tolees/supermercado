@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Combinación ideal para aperitivos, ensaladas mediterráneas, ceviches, pescados magros, pulpo a la feira, mariscos y arroces.
-- Aromas a fruta blanca y tropical con toques cítricos.
 - En boca la entrada es agradable, con acidez refrescante, sedoso y con persistencia en el paladar. En el retrogusto aparecen aromas frutales muy intensos que hacen que el vino sea muy goloso y sápido
+- Combinación ideal para aperitivos, ensaladas mediterráneas, ceviches, pescados magros, pulpo a la feira, mariscos y arroces.
 - Vegano
+- Aromas a fruta blanca y tropical con toques cítricos.
 - Vino fresco con marcado carácter mediterráneo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

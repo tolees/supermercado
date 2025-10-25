@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
-- Contiene harina de avena integral
 - Sin colorantes ni aromas artificiales
+- Contiene harina de avena integral
+- Conservar en lugar fresco y seco
 - Avena tostada en crujientes granolas, sorprendentemente ricas
 - Contiene gluten o presencia de cereales que contienen gluten
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fragancia fresca, duradera, atemporal y muy familiar
-- Envase de 750 ml
-- Baja en alcohol
 - Para bebé y toda la familia
+- Fragancia fresca, duradera, atemporal y muy familiar
+- Baja en alcohol
+- Envase de 750 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XAISQC8{{</world>}}

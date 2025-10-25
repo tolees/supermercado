@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuidado de una crema
-- Rizos sensuales, definidos e hidratados
 - Los productos de esta marca están fabricados con materiales de óptima calidad
 - Definición de una espuma
+- Cuidado de una crema
+- Rizos sensuales, definidos e hidratados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01F3ZTPZC{{</world>}}

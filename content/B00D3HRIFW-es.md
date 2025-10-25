@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 0
-- Protección diaria para la piel altamente fotosensible; ayuda a prevenir alteraciones de pigmentación debidas al sol
 - Mejora la elasticidad de la piel y disminuye las arrugas gracias al ácido hialurónico; su textura Fusion Fluid se funde con tu piel
+- Protección diaria para la piel altamente fotosensible; ayuda a prevenir alteraciones de pigmentación debidas al sol
+- 0
 - Aplicar generosamente sobre la piel seca, media hora antes de la exposición solar y reaplicar cada 2 horas o bien tras transpirar, nadar o secarse con toalla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

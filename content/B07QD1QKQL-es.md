@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para pieles sensibles: la fórmula ligera y no grasa sin perfume proporciona una protección fiable y también está libre de colorantes y conservantes.
-- Aceite de aloe vera y jojoba: el práctico spray solar calma la piel gracias al aceite natural de aloe vera y jojoba.
-- Probado por pediatras: el spray protector solar extra resistente al agua calma la delicada piel de los niños y reduce el riesgo de irritación de la piel causada por el sol.
-- Práctico contenido: spray solar Nivea Sun Kids Schutz & Sensitiv en un paquete de 1, 1 botella de 200 ml, número de artículo 85847.
 - Muy alta protección: el spray solar Nivea Sun convence por su eficaz sistema de filtro UVA/UVB con factor de protección solar 50+, que protege de forma inmediata y fiable.
+- Práctico contenido: spray solar Nivea Sun Kids Schutz & Sensitiv en un paquete de 1, 1 botella de 200 ml, número de artículo 85847.
+- Para pieles sensibles: la fórmula ligera y no grasa sin perfume proporciona una protección fiable y también está libre de colorantes y conservantes.
+- Probado por pediatras: el spray protector solar extra resistente al agua calma la delicada piel de los niños y reduce el riesgo de irritación de la piel causada por el sol.
+- Aceite de aloe vera y jojoba: el práctico spray solar calma la piel gracias al aceite natural de aloe vera y jojoba.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07QD1QKQL{{</world>}}

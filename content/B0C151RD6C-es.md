@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PACK DE 3: este pack solar incluye un bronceador inmediato de 200 ml en formato crema, un protector solar corporal de 200 ml en formato crema y un aftersun Bronze+ de 400 ml en formato crema
-- PROTEGE TU PIEL: la emulsión bronceadora es ideal para mantener tu piel saludable y cuidarla, además al ser resistente al agua es el complemento perfecto para tu verano.
 - POTENCIADOR DE BRONCEADO: la crema bronceadora está elaborada específicamente para potenciar, facilitar e intensificar el bronceado corporal de forma inmediata.
+- PACK DE 3: este pack solar incluye un bronceador inmediato de 200 ml en formato crema, un protector solar corporal de 200 ml en formato crema y un aftersun Bronze+ de 400 ml en formato crema
 - CREMA AFTERSUN: esta crema reparadora para el cuerpo está específicamente desarrollada para pieles que hayan estado expuestas a los rayos del sol, aportando una sensación refrescante de forma inmediata y calmando la irritación e infamación de la piel
+- PROTEGE TU PIEL: la emulsión bronceadora es ideal para mantener tu piel saludable y cuidarla, además al ser resistente al agua es el complemento perfecto para tu verano.
 - CUIDADO SOLAR: estos productos son perfectos para preparar la piel para la exposición al sol y protegerla y cuidarla de forma completa. Para mantener una piel sana antes, durante y mediante de la exposición solar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

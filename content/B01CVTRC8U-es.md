@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 💧 VOLUMEN Y BRILLO NATURAL – Proporciona volumen y brillo al cabello, dejando un acabado suave y fácil de peinar.
 - 💪 IDEAL PARA CABELLO SECO O DELICADO – Apto para cabellos con porosidad media que necesitan una hidratación extra y cuidado intensivo.
 - 🧴 CONTENIDO EN KERATINA Y PROTEÍNAS DE LECHE DE CABRA – Ayuda a reparar la estructura capilar y a realzar los rizos naturales del cabello.
-- ✅ FORTALECE Y RECONSTRUYE EL CABELLO – Champú que revitaliza y fortalece el cabello seco, delicado o con porosidad media, mejorando su flexibilidad.
 - 🚫 NO APTO PARA VEGANOS – Contiene proteínas de leche de cabra, no recomendado para personas intolerantes a la lactosa.
+- 💧 VOLUMEN Y BRILLO NATURAL – Proporciona volumen y brillo al cabello, dejando un acabado suave y fácil de peinar.
+- ✅ FORTALECE Y RECONSTRUYE EL CABELLO – Champú que revitaliza y fortalece el cabello seco, delicado o con porosidad media, mejorando su flexibilidad.
 - 🍃 SIN SILICONAS, NI PARABENOS NI SLES – Fórmula libre de ingredientes no deseados, ideal para un cabello saludable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

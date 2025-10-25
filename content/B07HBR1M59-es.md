@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Prebióticos naturales para mejorar la digestión sensible
-- Con biotina, zinc y linaza: una fuente natural de Omega 3 para mantener la piel y el cabello sanos
+- Comida para perros adultos: nutrición 100% completa y equilibrada
 - Con glucosamina y condroitina para mejorar las articulaciones; Con taurina para tener la vista y el corazón saludables
-- Conservar en un lugar fresco, seco y oscuro. Una vez abierto, volver a sellar lo más hermético posible
 - Sin aromas, colores o conservantes artificiales
+- Con biotina, zinc y linaza: una fuente natural de Omega 3 para mantener la piel y el cabello sanos
+- Con pollo fresco; carne y derivados animales: aprox. un 30%
+- Prebióticos naturales para mejorar la digestión sensible
+- El ingrediente nº1: pollo
 - Diseñada por nutricionistas de animales y revisada por veterinarios
 - Sin soja, cebada ni productos lácteos. Receta sabrosa con proteínas de alta calidad
-- Comida para perros adultos: nutrición 100% completa y equilibrada
-- Con pollo fresco; carne y derivados animales: aprox. un 30%
-- El ingrediente nº1: pollo
+- Conservar en un lugar fresco, seco y oscuro. Una vez abierto, volver a sellar lo más hermético posible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07HBR1M59{{</world>}}

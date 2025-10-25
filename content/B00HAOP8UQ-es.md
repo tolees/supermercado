@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Este producto está indicado tanto para mujeres como para hombres
-- De la marca Calvin Klein
 - Las notas olfativas principales de este producto son amaderado, cítrico y floral
+- De la marca Calvin Klein
 - Es un regalo adecuado en cualquier momento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

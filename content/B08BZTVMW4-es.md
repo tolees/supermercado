@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Variedad de uva: 100% Tempranillo
+- CRIANZA: Crianza de 13 meses en barrica de roble americano y francés
 - BOCA: Equilibrado, sabroso, redondo y estructurado. Largo, con taninos muy pulidos y notable persistencia aromática.
 - AROMA: Varietales a frutos negros (mora), matices especiados y de madera de roble bien integrados.
 - COLOR: Limpio y brillante, tonalidades rojo picota con ribetes color rubí.
-- CRIANZA: Crianza de 13 meses en barrica de roble americano y francés
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08BZTVMW4{{</world>}}

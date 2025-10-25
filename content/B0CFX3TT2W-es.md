@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Con sabor a jamón y queso
 - Auténticas patatas fritas
+- La siguiente información se aplica a cada unidad del paquete
 - Para disfrutar en cualquier momento
 - Apto para toda la familia
-- La siguiente información se aplica a cada unidad del paquete
 - Ideal como snack
 
 [🛒 Visítala!!!]({{< param buyurl >}})

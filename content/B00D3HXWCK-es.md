@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicar el producto dos veces al día, por la mañana y al mediodía, sobre las zonas afectadas; en caso de exposición solar directa reaplique el producto cada 2 horas, adicionalmente, su uso continuado favorece el mecanismo de reparación natural del ADN
-- Deja sobre la piel un film protector con repairsomes que contiene fotoliasa encapsulada en liposomas y filtros UV que absorben, reflejan y dispersan las radiaciones solares
 - ADN reparones y filtros UV
 - Resistente al agua y textura fluida de fácil aplicación
+- Aplicar el producto dos veces al día, por la mañana y al mediodía, sobre las zonas afectadas; en caso de exposición solar directa reaplique el producto cada 2 horas, adicionalmente, su uso continuado favorece el mecanismo de reparación natural del ADN
+- Deja sobre la piel un film protector con repairsomes que contiene fotoliasa encapsulada en liposomas y filtros UV que absorben, reflejan y dispersan las radiaciones solares
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00D3HXWCK{{</world>}}

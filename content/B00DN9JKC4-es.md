@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - MODO DE EMPLEO: Se puede consumir directamente y según la cantidad deseada. Es un complemento ideal para agregar a tus recetas favoritas de todo tipo, ensaladas, salsas, pastas, entre otras.
+- APTA PARA VEGANOS: Esta levadura es apta para el consumo vegano, puesto que no contiene ingredientes de origen animal, tales como huevos, leche y lactosa. Tampoco contiene azúcares añadidos.
 - MÚLTIPLES BENEFICIOS: Nuestra levadura de cerveza es rica en vitaminas B, minerales y aminoácidos que contribuyen a fortalecer el sistema inmunológico, regula el azúcar en sangre y favorece el cuidado de la piel. Incluye propiedades probióticas.
 - INGREDIENTES NATURALES: Este alimento contiene únicamente levadura de cerveza. Incluye gluten y puede contener trazas de soja, sésamo, frutos secos y sulfitos. ¡Disfruta de un complemento saludable y nutritivo!
 - SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
-- APTA PARA VEGANOS: Esta levadura es apta para el consumo vegano, puesto que no contiene ingredientes de origen animal, tales como huevos, leche y lactosa. Tampoco contiene azúcares añadidos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DN9JKC4{{</world>}}

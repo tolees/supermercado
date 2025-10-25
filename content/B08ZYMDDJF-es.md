@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 🎊 IDEAL PARA: Fiestas de cumpleaños, Navidad, Halloween, fiestas temáticas u otras ocasiones especiales. Nuestros caramelos con palo rellenos de chicle también son perfectos para incluirlos en piñatas y candy bar
 - 💯 CARAMELOS CERDÁN: Es una empresa familiar líder en Europa en la fabricación de caramelo duro con una amplia gama de productos para niños y adultos. Fundada en 1914, lleva más 100 años endulzando paladares por todo el mundo
 - 🍹 SABOR MOJITO: Los caramelos con palo y pica pica sabor mojito rellenos de chicle de hierbabuena de Cerdán son una auténtica delicia para el paladar de niños y adultos. Perfectos para compartir con amigos y familiares
 - 🍭 CARAMELO CON PALO RAMZY F. GUM: Caramelo redondo con palo y pica pica sabor mojito relleno de chicle sabor hierbabuena. Elaborado con colorantes naturales, libre de alérgenos y apta para veganos. Cada bolsa contiene 200 caramelos con palo
 - 🚫 LIBRE DE ALÉRGENOS: Nuestros caramelos se fabrican en una fábrica que combina las más modernas tecnologías con la imaginación y el cuidado artesanal; sin gluten, lactosa, huevo, trazas de pescado o frutos secos
-- 🎊 IDEAL PARA: Fiestas de cumpleaños, Navidad, Halloween, fiestas temáticas u otras ocasiones especiales. Nuestros caramelos con palo rellenos de chicle también son perfectos para incluirlos en piñatas y candy bar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08ZYMDDJF{{</world>}}

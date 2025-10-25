@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Cuida tus labios y los hidrata
 - Contiene escolano, vitaminas A,E y C, y proteínas de seda
 - Color impactante
-- Fórmula con pigmentos finos y tecnología Flex
 - Sensación ligera, como si no llevaras nada
+- Fórmula con pigmentos finos y tecnología Flex
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HZWJ2F8{{</world>}}

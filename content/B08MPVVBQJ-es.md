@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca Revlon
-- Capacidad 1000 ml
 - Deja el cabello con gran sensación de limpieza y frescor, sin grasa, con volumen y muy brillante
-- Código de barras: 8432225114743
 - Champú
+- Código de barras: 8432225114743
+- Capacidad 1000 ml
+- Marca Revlon
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08MPVVBQJ{{</world>}}

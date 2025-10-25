@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DOS FORMATOS: esta crema está disponible en formato crema y en spray para que elijas el que mejor se ajusta a tus necesidades. Es perfecto para preparar la piel para la exposición al sol y protegerla y cuidarla de forma completa.
-- FILTROS SOLARES: la crema para el sol contiene filtros solares FPS15 para proporcionar una protección efectiva contra los efectos dañinos de los rayos UVA y UVB.
 - MODO DE EMPLEO: Aplicar generosa y uniformemente 30 minutos antes de la exposición al sol. Reaplicar frecuentemente, al menos cada 2 horas, después de secarse con la toalla, cada baño o actividad deportiva.
 - PROTEGE TU PIEL: la emulsión bronceadora es ideal para mantener tu piel saludable y cuidarla, además al ser resistente al agua es el complemento perfecto para tu verano.
+- DOS FORMATOS: esta crema está disponible en formato crema y en spray para que elijas el que mejor se ajusta a tus necesidades. Es perfecto para preparar la piel para la exposición al sol y protegerla y cuidarla de forma completa.
+- FILTROS SOLARES: la crema para el sol contiene filtros solares FPS15 para proporcionar una protección efectiva contra los efectos dañinos de los rayos UVA y UVB.
 - CONTIENE: con vitamina C y E que ayuda a mantener el nivel óptimo de hidratación en la piel y favorece un bronceado uniforme y bonito.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
