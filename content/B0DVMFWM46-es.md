@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acidez 5%
-- Clásico
-- Conservar en un lugar fresco, oscuro y seco
-- Este envase contiene aproximadamente 33 porciones
 - Envasado en Lituania
+- Este envase contiene aproximadamente 33 porciones
+- Conservar en un lugar fresco, oscuro y seco
+- Clásico
+- Acidez 5%
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVMFWM46{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Champú que nutre el cabello seco y dañado​
-- Diseñado con tecnología Micelar, limpia suavemente
-- Globalmente TRESemmé no testa en animales
-- Champú TRESemmé Intensa Hidratación localiza las zonas más secas de tu pelo y restablece la hidratación
-- Devuelve la hidratación al mismo tiempo que lo fortalece
 - Champú formulado con vitamina E, proporciona vitalidad y suavidad​; genera un aspecto saludable​ y un acabado de peluquería
+- Champú que nutre el cabello seco y dañado​
+- Champú TRESemmé Intensa Hidratación localiza las zonas más secas de tu pelo y restablece la hidratación
+- Globalmente TRESemmé no testa en animales
+- Devuelve la hidratación al mismo tiempo que lo fortalece
+- Diseñado con tecnología Micelar, limpia suavemente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XIKV6MK{{</world>}}

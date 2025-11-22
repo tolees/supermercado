@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con auténtica galleta Tosta Rica
-- Un chocolate cremoso, suave y dulce, hecho con leche recogida diariamente de la cornisa Cantábrica
-- Delicioso chocolate con leche Nestlé Extrafino con relleno cremoso y trocitos de galleta Tosta Rica
-- 100% Cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan; certificado Rainforest
 - Producido Nestlé Extrafino desde 1966 en La Penilla, Cantabria, siguiendo un proceso tradicional
+- Un chocolate cremoso, suave y dulce, hecho con leche recogida diariamente de la cornisa Cantábrica
+- Con auténtica galleta Tosta Rica
+- 100% Cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan; certificado Rainforest
+- Delicioso chocolate con leche Nestlé Extrafino con relleno cremoso y trocitos de galleta Tosta Rica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6YDLPZK{{</world>}}

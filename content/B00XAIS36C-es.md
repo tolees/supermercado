@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sensación de Limpieza e Hidratación
 - Gel de Baño con las proteínas de la Avena y la Leche
+- Sensación de Limpieza e Hidratación
 - Respeta el manto lipídico y limpia en profundidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

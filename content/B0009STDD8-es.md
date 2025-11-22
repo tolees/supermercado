@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de producto - Desodorante
 - Producto pensado para mujeres
+- Tipo de producto - Desodorante
 - Marca - Calvin Klein
 
 [🛒 Aquí!!!]({{< param buyurl >}})

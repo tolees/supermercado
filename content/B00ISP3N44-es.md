@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin aceite de palma
 - Con hierro que favorece el desarrollo cognitivo normal
-- Con calcio y vitamina D, que favorecen el normal crecimiento de los huesos
 - Con DHA - La ingesta de ácido docosahexaenoico (DHA) contribuye al desarrollo visual normal de los niños hasta los 12 meses de edad - El efecto beneficioso se obtiene con una dosis diaria de 100 mg de DHA
+- Sin aceite de palma
+- Con calcio y vitamina D, que favorecen el normal crecimiento de los huesos
 - Nestlé NATIVA 2 es una leche de continuación a partir de los 6 meses para su óptimo desarrollo - Fórmula infantil para bebés
 
 [🛒 Comprar!!!]({{< param buyurl >}})

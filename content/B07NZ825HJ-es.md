@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - No es graso, no mancha y es fácil de eliminar con agua
 - El contacto oral con el lubricante no supone un riesgo
-- Gel lubricante Control Nature íntimo de base silicona para la sequedad vaginal y genital
 - Gel lubricante nature: la búsqueda espontánea del placer; el complemento óptimo para cualquier relación
 - Compatible con el uso del preservativo, pero no debe emplearse con juguetes de silicona
 - Botella de 75 ml para un más uso
+- Gel lubricante Control Nature íntimo de base silicona para la sequedad vaginal y genital
 - El gel lubricante control es hidratante y no tiene ni azúcar ni gluten
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

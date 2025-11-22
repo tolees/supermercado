@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una irresistible combinación de tradición y sabor, con ingredientes de calidad y una textura exquisita que lo hacen estupendo para compartir en cualquier ocasión; Disfruta el sabor de la Navidad con Suchard
+- Combo exclusivo para compartir y regalar: disfruta de 2 irresistibles turrones Suchard con leche y arroz inflado + 1 caja de bombones GRATIS; el regalo por excelencia para estas fiestas
+- Estupendo para reuniones y celebraciones, este combo fue pensado para compartir con familia y amigos. Imprescindible para mesas navideñas, intercambios de regalos o simplemente para darte un gusto.
 - Elaboramos nuestros productos con cacao sostenible, obtenido a través de nuestro programa Cocoa Life; comprometidos con la sostenibilidad y la calidad
 - Sabor clásico de la navidad: Cada turrón y bombón están elaborados con el inconfundible chocolate con leche Suchard; textura crujiente, sabor suave y auténtico placer en cada bocado
-- Estupendo para reuniones y celebraciones, este combo fue pensado para compartir con familia y amigos. Imprescindible para mesas navideñas, intercambios de regalos o simplemente para darte un gusto.
-- Combo exclusivo para compartir y regalar: disfruta de 2 irresistibles turrones Suchard con leche y arroz inflado + 1 caja de bombones GRATIS; el regalo por excelencia para estas fiestas
+- Una irresistible combinación de tradición y sabor, con ingredientes de calidad y una textura exquisita que lo hacen estupendo para compartir en cualquier ocasión; Disfruta el sabor de la Navidad con Suchard
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FF2RJ599{{</world>}}

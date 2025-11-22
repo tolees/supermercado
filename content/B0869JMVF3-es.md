@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color intenso y duradero
-- Textura suave
 - Marca: LOreal Paris
 - Fácil de aplicar
+- Textura suave
+- Color intenso y duradero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0869JMVF3{{</world>}}

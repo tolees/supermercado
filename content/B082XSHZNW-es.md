@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplicación de tacto de seda creando una película fina y cómoda
 - Respeta la luminosidad del color
-- Color intenso
 - Formulación de óptima calidad
+- Color intenso
+- Aplicación de tacto de seda creando una película fina y cómoda
 - Espejo incorporado para retoques durante todo el día
 
 [🛒 Visítala!!!]({{< param buyurl >}})

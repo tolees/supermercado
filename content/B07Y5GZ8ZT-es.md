@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Disolver 1-2 cucharaditas (18 g) en leche caliente
+- Sabor suave y con cuerpo, con regusto a vainilla
 - Paquete de 2 x 500 g
 - Disfrútalo en verano mezclado con leche fría y servido con hielo
-- Sabor suave y con cuerpo, con regusto a vainilla
 - Chocolate blanco a la taza con un delicioso toque de vainilla
-- Disolver 1-2 cucharaditas (18 g) en leche caliente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07Y5GZ8ZT{{</world>}}

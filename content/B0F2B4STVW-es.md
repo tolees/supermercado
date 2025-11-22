@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mayor frescor: fórmula con x2 duración del frescor
-- Extra-fragancia: Mimosín Frescor Floral aporta a la ropa una óptima fragancia duradera con notas florales, con una base afrutada y refrescante de melocotón
-- Cuidado: ayuda a suavizar las fibras de tu ropa, dejándolas suaves
 - Mimosín es el suavizante que lleva cuidando tu ropa desde hace más de 40 años
+- Mayor frescor: fórmula con x2 duración del frescor
+- Cuidado: ayuda a suavizar las fibras de tu ropa, dejándolas suaves
 - Tecnología Stay Fresh: diseñado para preservar el aroma y liberar frescor cuando la ropa está recién lavada, en tu armario y durante su uso
+- Extra-fragancia: Mimosín Frescor Floral aporta a la ropa una óptima fragancia duradera con notas florales, con una base afrutada y refrescante de melocotón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F2B4STVW{{</world>}}

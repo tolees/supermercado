@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suaviza las líneas finas y las arrugas
-- Ideal para todo tipo de pieles
 - Cobertura muy alta acabado suave e hidratado.
 - Formato barra para una aplicación más rápida
+- Suaviza las líneas finas y las arrugas
+- Ideal para todo tipo de pieles
 - Ayuda a ocultar pigmentaciones, capilares rotos, manchas y pequeñas imperfecciones.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

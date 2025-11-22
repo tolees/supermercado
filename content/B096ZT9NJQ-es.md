@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Versátil y fácil de utilizar.
 - Alto contenido en proteínas
-- Fuente de ácidos grasos omega 3, bajo contenido en sal
 - Envase hermético fácil de almacenar y apilable.
+- Fuente de ácidos grasos omega 3, bajo contenido en sal
 - Añádelo como ingrediente para pizzas o elabora una ensalada deliciosa y saludable.
 - Lomo de atún al natural, perfecto para recetas de pasta, como los macarrones con atún y tomate.
 

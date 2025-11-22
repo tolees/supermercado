@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Olor refrescante
-- Restaura el brillo de su piel
 - Proporciona una piel suave y sedosa
+- Restaura el brillo de su piel
 - Aporta hidratación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

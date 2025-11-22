@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con más de 20 años de experiencia, Forte Pharma es especialista en complementos alimenticios de origen natural.
-- 1)La melatonina contribuye a disminuir el tiempo necesario para conciliar el sueño con un consumo de 1 mg (1000 μg) de melatonina antes de irse a dormir. (2)La amapola de California mejora la calidad del sueño
 - Tomar máximo 1 caramelo de goma al día, por la noche, media hora antes de acostarse
+- 1)La melatonina contribuye a disminuir el tiempo necesario para conciliar el sueño con un consumo de 1 mg (1000 μg) de melatonina antes de irse a dormir. (2)La amapola de California mejora la calidad del sueño
+- Con más de 20 años de experiencia, Forte Pharma es especialista en complementos alimenticios de origen natural.
 - Forté Noche Gummies es un complemento alimenticio con un doble efecto: 1 Gracias a la melatonina en alta dosis (1,9 mg) contribuye a disminuir el tiempo necesario para conciliar el sueño(1) 2 La amapola de california ayuda a reducir los despertares nocturnos y favorece el sueño(2) La fórmula se complementa con el neuromediador GABA (ácido gamaaminobutírico) naturalmente presente en el organismo y con la valeriana, melisa y tila. Un formato práctico, no necesita agua, con agradable saborna mora..
 - Forté Noche Gummies es un complemento alimenticio elaborado a ase de melatonina, GABA y reforzado con 4 plantas: amapola de California, valeriana, melisa y tila.
 

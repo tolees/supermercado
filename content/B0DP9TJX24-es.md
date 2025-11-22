@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 24 HORAS ANTIBACTERIANO: Con 24h de protección antibacteriana clínicamente probada y un sistema único que estabiliza el ingrediente activo preventivo, nuestra pasta de dientes de menta está diseñada para un rendimiento⁴ superior.
-- AYUDA CON 8 PROBLEMAS DE SALUD BUCODENTAL: Nuestro dentífrico ayuda con problemas de encías, placa, sarro, sensibilidad, erosión del esmalte, manchas superficiales, mal aliento y caries.
-- 15 VECES MÁS EFICAZ⁵: Cuando usas nuestra pasta de dientes junto con el Colutorio Colgate Total y el Cepillo de Dientes Colgate Total, ¡es 15 veces más eficaz combatiendo la causa principal de futuros problemas de salud bucodental⁵!
 - TECNOLOGÍA PREVENTIVA, PATENTADA² Y EFICAZ: Nuestra tecnología no sólo está patentada², sino que también es potente y preventiva para cuidar tu sonrisa.
 - PREVENCIÓN ACTIVA: Nuestra pasta de dientes Total Prevención Activa Blanqueadora, con su nueva fórmula, ha sido científicamente diseñada para combatir las causas principales* de los problemas más comunes de salud bucal antes de que aparezcan, y ayudar a eliminar las manchas superficiales.
+- AYUDA CON 8 PROBLEMAS DE SALUD BUCODENTAL: Nuestro dentífrico ayuda con problemas de encías, placa, sarro, sensibilidad, erosión del esmalte, manchas superficiales, mal aliento y caries.
+- 24 HORAS ANTIBACTERIANO: Con 24h de protección antibacteriana clínicamente probada y un sistema único que estabiliza el ingrediente activo preventivo, nuestra pasta de dientes de menta está diseñada para un rendimiento⁴ superior.
+- 15 VECES MÁS EFICAZ⁵: Cuando usas nuestra pasta de dientes junto con el Colutorio Colgate Total y el Cepillo de Dientes Colgate Total, ¡es 15 veces más eficaz combatiendo la causa principal de futuros problemas de salud bucodental⁵!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP9TJX24{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño: 1 máscara.
 - Nivea Urban Skin - Máscara de desintoxicación (1 máscara)
+- Tamaño: 1 máscara.
 - (El embalaje puede variar)
 - La primera máscara de hoja fácilmente biodegradable de NIVEA para desintoxicar tu piel. Para una piel de aspecto saludable que se siente limpia y refrescada.
 

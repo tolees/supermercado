@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para compartir con toda la família
-- Doble regalo en su interior: 1 semana de prueba gratuita PlayStation, 1 Kitkat bunny.
-- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest Alliance.
 - Deliciosos huevo de suave chocolate con leche, relleno de crujiente galleta y cereal.
+- Ideal para compartir con toda la família
+- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest Alliance.
+- Doble regalo en su interior: 1 semana de prueba gratuita PlayStation, 1 Kitkat bunny.
 - Huevo de Chocolate sin gluten.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

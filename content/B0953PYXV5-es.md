@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de alta calidad
 - De la marca Sanex
+- Producto de alta calidad
 - Empaque puede variar
-- Desinfectante, suave con las manos
 - Modelo Hygiene Protector
+- Desinfectante, suave con las manos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0953PYXV5{{</world>}}

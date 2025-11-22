@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso neto de 1 L
-- Especialidad: Bajo en grasas; ingredientes: Leche UHT Semidesnatada de vaca; lACTOSA; información de alérgenos: milk; instrucciones para su uso adecuado: Puede ingerirse directamente; no requiere de preparación previa
 - Contiene Leche o derivados de la leche (lactosa)
+- Especialidad: Bajo en grasas; ingredientes: Leche UHT Semidesnatada de vaca; lACTOSA; información de alérgenos: milk; instrucciones para su uso adecuado: Puede ingerirse directamente; no requiere de preparación previa
+- Peso neto de 1 L
 - Una vez abierto conservar en el frigorifico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

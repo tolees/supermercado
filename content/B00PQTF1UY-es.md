@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El aceite de oliva Virgen Extra es obtenido sin emplear procedimientos químicos ni refinamientos y destaca por sus calidad superior. Tiene bajo contenido en ácidos grasos poliinsaturados y aporta ácido oleico y antioxidantes
-- Viene en formato de lata de 5 litros. El aceite de oliva se puede congelar a temperaturas inferiores a 7ºC. Para conservarlo en su estado natural, guardarlo en un lugar seco y alejado de la luz
 - Aceite de oliva Virgen Extra obtenido directamente del zumo natural de aceitunas de excepcional calidad y solo mediante procedimientos mecánicos. Con agradable sabor frutado, entrada en boca equilibrado y con notas frutales y herbáceas. Ligero toque de amargor con un final exquisito
-- Este aceite viene con un tapón antigoteo para controlar mejor la cantidad de aceite en tus platos, permitiendo que el cocinar y aliñar sea mucho más fácil y práctico
+- Viene en formato de lata de 5 litros. El aceite de oliva se puede congelar a temperaturas inferiores a 7ºC. Para conservarlo en su estado natural, guardarlo en un lugar seco y alejado de la luz
 - Es un aceite de oliva virgen extra ideal para acompañar platos fríos, ya sea para aliñar ensaladas, ponerlo en tostas o para marinar, haciendo que combinen a la perfección
+- Este aceite viene con un tapón antigoteo para controlar mejor la cantidad de aceite en tus platos, permitiendo que el cocinar y aliñar sea mucho más fácil y práctico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00PQTF1UY{{</world>}}

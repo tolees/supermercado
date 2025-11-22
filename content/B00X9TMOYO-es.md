@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Textura ligera no grasa que se absorbe rápidamente, no deja manchas blancas y es resistente al agua
-- Acabado suave y sedoso, en un formato grande de 200 ml
-- Leche de protección solar hidratante con SPF 20, especialmente indicada para pieles morenas que se broncean fácilmente
-- Fórmula enriquecida con glicerina vegetal y manteca de karité para mantener la piel hidratada y evitar la sequedad producida por el sol
 - Protección media contra los efectos dañinos de los rayos UVA y UVB
+- Textura ligera no grasa que se absorbe rápidamente, no deja manchas blancas y es resistente al agua
+- Leche de protección solar hidratante con SPF 20, especialmente indicada para pieles morenas que se broncean fácilmente
+- Acabado suave y sedoso, en un formato grande de 200 ml
+- Fórmula enriquecida con glicerina vegetal y manteca de karité para mantener la piel hidratada y evitar la sequedad producida por el sol
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X9TMOYO{{</world>}}

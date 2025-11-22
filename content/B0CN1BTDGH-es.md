@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su mezcla equilibrada, dulzor moderado y aromas cítricos hacen que Cruz del Sur sea, como su nombre indica, óptima para el clima del sur
-- De apariencia turbia con espuma blanca
-- Consumirla directamente de la botella entre 2° y 4°C para obtener sus óptimas cualidades
-- Maridaje: Aperitivos, carnes blancas, pescados a la plancha, barbacoas y quesos poco curados
 - Cerveza tipo laguer
+- De apariencia turbia con espuma blanca
+- Su mezcla equilibrada, dulzor moderado y aromas cítricos hacen que Cruz del Sur sea, como su nombre indica, óptima para el clima del sur
+- Maridaje: Aperitivos, carnes blancas, pescados a la plancha, barbacoas y quesos poco curados
+- Consumirla directamente de la botella entre 2° y 4°C para obtener sus óptimas cualidades
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN1BTDGH{{</world>}}

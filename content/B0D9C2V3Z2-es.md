@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Teddy jacket
 - materialFabricComposition: Main fabric: 100% Polyester
 - Print
+- Teddy jacket
 - Regular Fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})

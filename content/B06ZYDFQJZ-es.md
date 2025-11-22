@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revlon ULTRA HD MATTE METALLIC 700 FLARE2, Hochwertiger Lippenstift von Profis gegossen
 - Coloración permanente de larga duración
+- Revlon ULTRA HD MATTE METALLIC 700 FLARE2, Hochwertiger Lippenstift von Profis gegossen
 - ULTRA HD MATTE METALLIC 700 FLARE2,
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

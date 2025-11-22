@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ingredientes: Puré de manzana 59%, puré de plátano 20%, puré de melocotón 10%, puré de pera 10%, zumo concentrado de naranja y vitamina C. Sin azúcares añadidos. Sin aceite de palma. Sin almidones
 - Preparación: Consumir directamente, no añadir sal o azúcar.
+- Ingredientes: Puré de manzana 59%, puré de plátano 20%, puré de melocotón 10%, puré de pera 10%, zumo concentrado de naranja y vitamina C. Sin azúcares añadidos. Sin aceite de palma. Sin almidones
 - Conservación: El envase se debe guardar en lugar fresco y seco. La calidad de este potito se garantiza durante los 3 años posteriores desde la fecha de producción siempre y cuando el almacenaje sea correcto. Una vez abierto el envase, se conserva 24 horas en el frigorífico
 - Este tarrito de 4 frutas se ha elaborado siguiendo las necesidades nutricionales de tu bebé. Es un Potito fabricado por un laboratorio farmacéutico garantizando la Seguridad Alimentaria
 - Nutribén Potito de 4 Frutas, Melocotón, Pera, Plátano y Manzana, alimentos de gran calidad en una dieta equilibrada y saludable. Para bebés a partir de 6 meses. Pack 6 unidades

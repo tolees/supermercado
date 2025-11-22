@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Elimina virus y bacterias
 - No contiene lejía
+- Elimina los residuos de aceite
 - Adecuado para el uso diario
 - Con aroma de mandarina y iris blanco
-- Elimina los residuos de aceite
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00A8PIKXG{{</world>}}

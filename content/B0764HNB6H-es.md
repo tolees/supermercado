@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Semillas de sésamo molidas* (42%), miel* (39%), pasta de cacao* (12%), cacao en polvo* (7%).
-- Puede contener trazas de cacahuetes y otros frutos de cáscara.
 - Italia
+- Puede contener trazas de cacahuetes y otros frutos de cáscara.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0764HNB6H{{</world>}}

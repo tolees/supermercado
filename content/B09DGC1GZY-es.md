@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Región: vino tinto del Valle del Ródano
-- Denominación: Côtes du Rhône
-- Vino certificado Terra Vitis: certificación reconocida por el Ministerio francés de Agricultura y Alimentación, que garantiza una viticultura responsable que protege la naturaleza
 - Variedades de uva: Garnacha y Syrah
 - Color: un maravilloso e intenso color rubí. Nariz: aromas de frutas rojas y flores de primavera. Boca: generoso, redondo y concentrado en fruta.
+- Vino certificado Terra Vitis: certificación reconocida por el Ministerio francés de Agricultura y Alimentación, que garantiza una viticultura responsable que protege la naturaleza
+- Región: vino tinto del Valle del Ródano
+- Denominación: Côtes du Rhône
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09DGC1GZY{{</world>}}

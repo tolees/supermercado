@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Envasado en atmósfera protectora
 - Patatas aceite de palma y sal
 - Conservar en lugar fresco y seco
+- Envasado en atmósfera protectora
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01IUW4C9Y{{</world>}}

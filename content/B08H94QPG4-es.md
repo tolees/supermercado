@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Maridajes: se puede servir con grandes platos de carnes rojas y quesos añejados, también puede hacer después de la cena agradable
 - Perfume: Varios
-- Color: rojos
-- Sabor: Varios
 - Uvas: Barbera-Nebbiolo-Merlot-Cabernet Sauvignon
+- Maridajes: se puede servir con grandes platos de carnes rojas y quesos añejados, también puede hacer después de la cena agradable
+- Sabor: Varios
+- Color: rojos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08H94QPG4{{</world>}}

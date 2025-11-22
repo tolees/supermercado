@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 32x30cm
-- Ideales para un uso cotidiano
 - Una capa
 - Servilletas Blancas
 - 200 unidades
+- 32x30cm
+- Ideales para un uso cotidiano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TWMVCMN{{</world>}}

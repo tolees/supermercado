@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Probada clínicamente y diseñada profesionalmente con dentistas
 - Protección 24 horas contra la placa con 2 cepillados al día
 - Caja y tubo reciclables
-- Pasta dentífrica con sabor a menta fresca
-- Fortalece activamente los dientes remineralizando el esmalte
+- Probada clínicamente y diseñada profesionalmente con dentistas
 - Forma un escudo protector contra la bacteria y los ácidos
+- Fortalece activamente los dientes remineralizando el esmalte
+- Pasta dentífrica con sabor a menta fresca
 - Proporciona una sensación de limpieza para toda la boca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

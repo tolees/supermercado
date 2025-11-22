@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protege la sudoración eficazmente durante 48h.
-- Antitranspirante, 0% Alcohol.
-- Aplicar sobre las axilas, una vez estén limpias y secas. Interrumpir el uso si aparecen irritaciones. Dejar secar antes de vestirse.
 - El Aloe Vera hidrata la piel y ayuda a disminuir las irritaciones.
+- Protege la sudoración eficazmente durante 48h.
+- Aplicar sobre las axilas, una vez estén limpias y secas. Interrumpir el uso si aparecen irritaciones. Dejar secar antes de vestirse.
+- Antitranspirante, 0% Alcohol.
 - Babaria desodorante roll on para mujer y hombre con Aloe Vera.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

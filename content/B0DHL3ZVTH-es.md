@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MATES CREMOSOS Y DESTELLOS PIGMENTADOS: Esta paleta de 18 tonos es libre de talco y está compuesta por destellos brillantes y tonos mates. Con las mismas texturas cremosas que nuestras paletas Forever Flawless.
-- LIBRE DE CRUELDAD Y VEGANO: Este producto de Revolution Beauty está formulado sin ingredientes de origen animal, lo que lo hace apto para veganos. Todos los productos de Revolution Beauty están respaldados por PETA como libres de pruebas en animales.
-- ESPEJO INCORPORADO: Encerrado en una lata duradera con diseño de espacio exterior verde y rosa, esta paleta contiene un espejo ideal para llevar y viajar.
-- CÓMO UTILIZAR: Aplique el color base en los párpados, difumine con el tono de su elección usando una brocha. Intensifique a lo largo del pliegue del ojo con el tono elegido. Añada toques de sombras brillantes para iluminar los ojos. Finalice con rímel y delineador para un look completo.
 - 18 TONOS PIGMENTADOS: Descubre la paleta Forever Flawless Astro Nova Green, una paleta futurista inspirada en el verde para looks de día y noche.
+- LIBRE DE CRUELDAD Y VEGANO: Este producto de Revolution Beauty está formulado sin ingredientes de origen animal, lo que lo hace apto para veganos. Todos los productos de Revolution Beauty están respaldados por PETA como libres de pruebas en animales.
+- MATES CREMOSOS Y DESTELLOS PIGMENTADOS: Esta paleta de 18 tonos es libre de talco y está compuesta por destellos brillantes y tonos mates. Con las mismas texturas cremosas que nuestras paletas Forever Flawless.
+- CÓMO UTILIZAR: Aplique el color base en los párpados, difumine con el tono de su elección usando una brocha. Intensifique a lo largo del pliegue del ojo con el tono elegido. Añada toques de sombras brillantes para iluminar los ojos. Finalice con rímel y delineador para un look completo.
+- ESPEJO INCORPORADO: Encerrado en una lata duradera con diseño de espacio exterior verde y rosa, esta paleta contiene un espejo ideal para llevar y viajar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHL3ZVTH{{</world>}}

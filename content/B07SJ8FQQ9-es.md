@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FÁCIL DE MASTICAR. Croquetas más crujientes y fáciles de masticar para favorecer la digestión de los perros mayores. Este alimento ha sido formulado por expertos veterinarios aportando a la mascota un alto contenido de proteínas frescas de origen animal que ayudaran a mantener un peso adecuado.
-- ALTA APETENCIA Y DIGESTIBILIDAD. Pienso para perros adultos. A partir de 7 años de edad y/o propensos a tener exceso de peso. A base de pollo y arroz. Formulado con ingredientes de gran calidad. Fácil de digerir y con un sabor exquisito.
 - SALUD HUESOS Y ARTICULACIONES. Gracias a la aportación de proteínas frescas se mejora el mantenimiento de la musculatura y fortalece los huesos. Dispone de un balance óptimo de calcio, fósforo, magnesio y vitamina D.
 - SALUD DENTAL. Reduce el depósito de sarro en la dentadura gracias a los fosfatos de sodio que estabilizan el calcio presente en la saliva.
+- FÁCIL DE MASTICAR. Croquetas más crujientes y fáciles de masticar para favorecer la digestión de los perros mayores. Este alimento ha sido formulado por expertos veterinarios aportando a la mascota un alto contenido de proteínas frescas de origen animal que ayudaran a mantener un peso adecuado.
+- ALTA APETENCIA Y DIGESTIBILIDAD. Pienso para perros adultos. A partir de 7 años de edad y/o propensos a tener exceso de peso. A base de pollo y arroz. Formulado con ingredientes de gran calidad. Fácil de digerir y con un sabor exquisito.
 - SALUD PELO Y PIEL. Formulado con ingredientes de gran calidad que constituyen la base para un perfecto mantenimiento. Con omega 3 y 6, Zinc, Cobre, Biotina y Vitaminas A y E. Ayuda a reducir los efectos del envejecimiento gracias al complejo sinérgico de antioxidantes naturales (tocoferoles).
 
 [🛒 Comprar!!!]({{< param buyurl >}})

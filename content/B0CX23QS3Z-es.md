@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PROTECCIÓN: Protege las fibras de las prendas y preserva el brillo del color
 - CUIDADO: Ayuda a suavizar las fibras de tu ropa, dejándolas suaves
-- Mimosín es el suavizante que lleva cuidando tu ropa desde hace más de 40 años
-- DURACIÓN: fórmula con x4 duración de la fragancia
+- PROTECCIÓN: Protege las fibras de las prendas y preserva el brillo del color
 - FRAGANCIA: Mimosín Origins Violeta Campestre aporta a la ropa una fragancia duradera con notas florales, con una aterciopelada base de vainilla
+- DURACIÓN: fórmula con x4 duración de la fragancia
+- Mimosín es el suavizante que lleva cuidando tu ropa desde hace más de 40 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CX23QS3Z{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Anaïs Anaïs de Cacharel es un agua de colonia para mujeres con aroma floral. Creada en 1978, es la primera fragancia de Cacharel, celebra el romanticismo y los sentimientos más puros del primer amor. Su aroma es una pirámide olfativa de notas florales.
 - Aromas cálidos y florales con fijación ideal para el día a día y sin resultar abrumador aportando unas notas de feminidad.
 - Para una mayor fijación, aplicar en la piel húmeda hidratada previamente. Después, vaporizar desde una distancia de al menos 15-20 centímetros en las zonas de pulso para mayor difusión. ¡Espere a que se seque antes de olerla! Aplicar perfume sobre la ropa, puede manchar, dañar y alterar el tejido.
-- Anaïs Anaïs de Cacharel es un agua de colonia para mujeres con aroma floral. Creada en 1978, es la primera fragancia de Cacharel, celebra el romanticismo y los sentimientos más puros del primer amor. Su aroma es una pirámide olfativa de notas florales.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000XE0DS2{{</world>}}

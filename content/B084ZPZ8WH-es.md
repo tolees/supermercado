@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Beber solo o mezclado, muy frio con mucho hielo
 - Pack 24 Botellas 50CL Fanta Limón sabor Regular
 - Viene en un contenedor 100% reciclable
 - Bebida carbonatada refrescante con sabor a limón
+- Beber solo o mezclado, muy frio con mucho hielo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B084ZPZ8WH{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene vitaminas A y D
-- ok
+- Se puede usar para preparar dulces
 - Listo para consumir
 - Ideal para toda la familia
-- Se puede usar para preparar dulces
+- Contiene vitaminas A y D
+- ok
 - Ideal para desayuno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sensación ligera
 - A prueba de roces, a prueba del día a día
-- Base de maquillaje líquida
-- No obstruye los poros
 - Tipo de piel: Sensible
+- No obstruye los poros
 - Sin aceite, sin fragancia
+- Sensación ligera
+- Base de maquillaje líquida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HZWHSCM{{</world>}}

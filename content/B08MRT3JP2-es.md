@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ¡Las sopas para niños más divertidas!
 - ¡Con más pasta y un 25% menos de sal!**
 - Una sopa elaborada sin conservantes*, sin colorantes y sin glutamato
 - Sopa Deshidratada Knorr de Letritas 82g
 - Sopa para niños en formato sobre
-- ¡Las sopas para niños más divertidas!
 - Sopa para niños elaborada con verduras frescas procedentes de la agricultura sostenible
 
 [🛒 Visítala!!!]({{< param buyurl >}})

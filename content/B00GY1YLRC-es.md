@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Hidrata intensamente la piel
 - Promueve la prolongación del bronceado.
-- Efecto calmante y refrescante: Calma, refresca y repara intensamente la piel tras la exposición solar devolviéndole su tersura y flexibilidad natural.
 - Apto para todo tipo de pieles.
+- Efecto calmante y refrescante: Calma, refresca y repara intensamente la piel tras la exposición solar devolviéndole su tersura y flexibilidad natural.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00GY1YLRC{{</world>}}

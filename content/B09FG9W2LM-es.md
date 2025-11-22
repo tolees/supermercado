@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Los productos de la marca CLINIQUE están fabricados con ingredientes de la mejor calidad.
-- Productos de Maquillaje para Unisex Adulto
 - Maquillaje Clinique Smart Clinical Repair Wrinkle Correcting Serum 30 ml de CLINIQUE
+- Productos de Maquillaje para Unisex Adulto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09FG9W2LM{{</world>}}

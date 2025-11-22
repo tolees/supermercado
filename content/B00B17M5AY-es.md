@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- KARCHER Jabón para carrocerías
 - Elija su vehículo en el selector para comprobar su compatibilidad con el producto.
+- KARCHER Jabón para carrocerías
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00B17M5AY{{</world>}}

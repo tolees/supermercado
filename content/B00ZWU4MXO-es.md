@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin pruebas en animales
-- Ingredientes 100% naturales
 - Comida húmeda de alta calidad
+- Ingredientes 100% naturales
+- Sin pruebas en animales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00ZWU4MXO{{</world>}}

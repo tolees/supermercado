@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los clásicos marshamallows esponjosos en forma de tubo
 - Espumas dulces
+- Los clásicos marshamallows esponjosos en forma de tubo
 - De color rosa y blanco en el interior
 - Mantener en lugar fresco y seco
 

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Consumir frío (entre 5 ºC y 8 ºC). Si es necesario, enfriar durante dos o tres horas en una cubitera con agua, sal y hielo. Evitar enfriamientos bruscos en el congelador. Se recomienda almacenar verticalmente.
-- Nota de cata (boca): Es un cava equilibrado, largo y con sabores delicados.
+- Nota de cata (vista): Se aprecia un color amarillo brillante con reflejos verdosos. De burbuja fina y persistente que forma un continuo rosario.
 - Varietales: 70 Chardonnay, 15% Parellada, 15% Xarel·lo y Macabeo.
 - Nota de cata (nariz): Se aprecian cítricos refrescantes acompañados de notas de miel, nueces, flor de almendro y manzanas.
-- Nota de cata (vista): Se aprecia un color amarillo brillante con reflejos verdosos. De burbuja fina y persistente que forma un continuo rosario.
+- Nota de cata (boca): Es un cava equilibrado, largo y con sabores delicados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DSYM6KL{{</world>}}

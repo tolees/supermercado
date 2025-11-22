@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tu piel da más energía y flotabilidad
 - Refrescante fragancia de cítricos y renueva el tacto no graso.
-- Reafirmar la piel Loción Corporal de Garnier bodytonic actúa como una Fruity cóctel de energía.
 - La loción proporciona la humedad para hasta 24h, mejora la estructura de la piel y alisa la piel visiblemente.
+- Reafirmar la piel Loción Corporal de Garnier bodytonic actúa como una Fruity cóctel de energía.
 - La fórmula de cafeína y algas hace que la piel más firme y más suave a diario.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

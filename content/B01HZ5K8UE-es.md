@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Se desliza por el cabello con suavidad y desenreda, seca y da volumen en la mitad de tiempo, el cepillo ovalado crea volumen en la raíz y ondula las puntas
-- 2 posiciones de calor y una de aire frío
 - Una herramienta de estilismo dos en uno que ofrece la potencia de un secador y el volumen de un moldeador
+- 2 posiciones de calor y una de aire frío
 - Con Ionic Technology para un secado más rápido y menores daños
 - Perfecto para media melena y pelo largo
 

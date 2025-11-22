@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con recubrimiento de azúcar
-- Mix de tus piezas favoritas: Blandositos, Plátanos, Besitos Nata-Fresa, Melocotones y Fresa-nata
 - Caramelos de goma
+- Mix de tus piezas favoritas: Blandositos, Plátanos, Besitos Nata-Fresa, Melocotones y Fresa-nata
+- Con recubrimiento de azúcar
 - Conservar en lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

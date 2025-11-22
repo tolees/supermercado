@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Fácil y rápido de preparar
 - Conservar en lugar fresco y seco
-- Café molido con notas florales y afrutadas
-- Hecho de granos de café 100% arábica
 - Se pueden servir solo o con leche
+- Hecho de granos de café 100% arábica
+- Café molido con notas florales y afrutadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01C5Q0AJ2{{</world>}}

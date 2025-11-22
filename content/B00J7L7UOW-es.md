@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Género - Unisex
-- Marca - Nivea
 - Tipo de producto - Protector solar SPF50
+- Marca - Nivea
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00J7L7UOW{{</world>}}

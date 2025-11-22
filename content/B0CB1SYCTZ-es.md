@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Una vez abierto, pasar el contenido a un recipiente no metálico, tapar y mantener refrigerado, y consumir en 2 días
 - Este envase contiene 6 porciones
 - Atún claro en aceite de girasol
-- Una vez abierto, pasar el contenido a un recipiente no metálico, tapar y mantener refrigerado, y consumir en 2 días
-- Puede contener espinas
 - Conservar en un lugar fresco y seco
+- Puede contener espinas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1SYCTZ{{</world>}}

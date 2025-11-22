@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin aceite de palma
 - Patatas fritas onduladas con sabor sal
+- Sin aceite de palma
 - Envasado en atmosfera protectora
 
 [🛒 Aquí!!!]({{< param buyurl >}})

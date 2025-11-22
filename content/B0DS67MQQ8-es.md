@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1. Fórmula profesional: Resultados de calidad de salón desde la comodidad de tu hogar.
 - Definición para rizos perfectos: Mejora la textura de tus rizos y proporciona una definición duradera.
-- Hidratación profunda: Fórmula avanzada que hidrata intensamente el cabello rizado y seco.
+- 1. Fórmula profesional: Resultados de calidad de salón desde la comodidad de tu hogar.
 - Control del encrespamiento: Combate el frizz y mantiene tus rizos en su lugar durante todo el día.
 - Pack práctico de 6 unidades: Ideal para mantener el cuidado regular de tu cabello rizado.
+- Hidratación profunda: Fórmula avanzada que hidrata intensamente el cabello rizado y seco.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DS67MQQ8{{</world>}}

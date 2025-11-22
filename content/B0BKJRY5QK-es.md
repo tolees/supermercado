@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aplicar una pequeña cantidad sobre las manos y frotar hasta formar espuma por 1 minuto. Aclarar con abundante agua
-- Jabón de manos con protección total contra agentes externos y con propiedades suavizantes e hidratantes
-- Este jabón mantiene la hidratación natural de la piel gracias a un complejo lipídico similar a la estructura de la epidermis
-- Deja las manos limpias, suaves, hidratadas y delicadamente perfumadas. Está testado dermatológica y clínicamente
 - Está formulado con ingredientes de origen natural, como extractos de Aloe Vera y Té Verde, que tienen propiedades hidratantes
+- Este jabón mantiene la hidratación natural de la piel gracias a un complejo lipídico similar a la estructura de la epidermis
+- Jabón de manos con protección total contra agentes externos y con propiedades suavizantes e hidratantes
+- Deja las manos limpias, suaves, hidratadas y delicadamente perfumadas. Está testado dermatológica y clínicamente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKJRY5QK{{</world>}}

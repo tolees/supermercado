@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Contenido: 1x Maybelline New York, Super Stay Teddy Tint, Tono: Kneehigh 55
 - Tecnología tinted con polímeros elásticos y polvos difuminados de larga duración y que no transfiere
 - Tinte de labios con textura suave como la de un peluche que dura hasta 12h, Para unos labios color mate difuminado y una sensación ligera y cómoda, Disponible en 8 tonos modulables para cada ocasión
-- 8 tonos exclusivos que resaltan sobre diferentes tonos de piel, 4 Formas de aplicar según el número de pasadas: difuminado, intenso, degradado y en mejillas
 - Aplicar en labios limpios y secos, Dejar secar para fijar el resultado
+- 8 tonos exclusivos que resaltan sobre diferentes tonos de piel, 4 Formas de aplicar según el número de pasadas: difuminado, intenso, degradado y en mejillas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHY4R8T8{{</world>}}

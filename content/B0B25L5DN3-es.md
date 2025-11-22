@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para ropa blanca, devuelve el blanco original a la ropa
-- Elimina las manchas a la primera
-- Quitamanchas para ropa en formato polvo, sin lejía, para añadir junto con el detergente para ropa habitual en cada lavado
 - Añair en el cajetín de la lavadora junto con el detergente
+- Quitamanchas para ropa en formato polvo, sin lejía, para añadir junto con el detergente para ropa habitual en cada lavado
+- Elimina las manchas a la primera
+- Para ropa blanca, devuelve el blanco original a la ropa
 - Para la mejor eficacia contra las manchas más difíciles prueba incluso en ciclos cortos, prueba el nuevo Vanish Gold
 
 [🛒 Aquí!!!]({{< param buyurl >}})

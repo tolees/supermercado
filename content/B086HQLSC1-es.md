@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRODUCTO NATURAL: El edulcorante Stevia Mr Poppers es un producto de origen natural de sabor muy parecido al azúcar, que sin embargo no deja el común regusto o sabor a edulcorante. Así, este endulzante sin calorías respeta el buen sabor de tus platos y postres. ¡Apenas notarás que no llevan azúcar!
-- DIENTES SANOS: Uno de los principales problemas del azúcar es el daño que produce en tu salud dental. Sin embargo, el endulzante sin azúcar Stevia es una alternativa saludable para tus dientes, ya que no produce prejuicios en tu dentadura. Disfruta de los sabores más dulces sin dañar tus dientes.
-- IDEAL PARA POSTRES: Que te guste la repostería no implica que tengas que tomar azúcar. Este endulzante natural es ideal para añadir a recetas de postres al horno, y que no varía el sabor a altas temperaturas. Además, puedes añadir la Stevia Mr. Poppers en bebidas como café o té para endulzarlos.
 - Amix Levante SL, C / Holanda n* 23, Almoradi 03160, Alicante
 - EDULCORANTE SIN CALORÍAS: El endulzante natural Stevia Mr. Poppers de Amix es un edulcorante 0% calorías. Es ideal para usarlo en tus platos y bebidas sin ganar calorías innecesarias ni azúcares que afectan al cuidado de tu cuerpo y salud. Podrás disfrutar de los sabores más dulces sin ganar peso.
 - APTO PARA DIABÉTICOS: Este endulzante no contiene azúcar, por lo que representa una buena alternativa para aquellas personas que sufren diabetes. Es apto para diabéticos ya que cuenta con un índice glucémico 0. Así, todo el mundo puede disfrutar del buen sabor en sus comidas y bebidas.
+- PRODUCTO NATURAL: El edulcorante Stevia Mr Poppers es un producto de origen natural de sabor muy parecido al azúcar, que sin embargo no deja el común regusto o sabor a edulcorante. Así, este endulzante sin calorías respeta el buen sabor de tus platos y postres. ¡Apenas notarás que no llevan azúcar!
+- DIENTES SANOS: Uno de los principales problemas del azúcar es el daño que produce en tu salud dental. Sin embargo, el endulzante sin azúcar Stevia es una alternativa saludable para tus dientes, ya que no produce prejuicios en tu dentadura. Disfruta de los sabores más dulces sin dañar tus dientes.
+- IDEAL PARA POSTRES: Que te guste la repostería no implica que tengas que tomar azúcar. Este endulzante natural es ideal para añadir a recetas de postres al horno, y que no varía el sabor a altas temperaturas. Además, puedes añadir la Stevia Mr. Poppers en bebidas como café o té para endulzarlos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086HQLSC1{{</world>}}

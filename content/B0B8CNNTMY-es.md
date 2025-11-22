@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Crea trazos que simulan los pelos naturales de las cejas
 - Define y rellena con precisión
+- Hasta 10h de duración
 - Fórmula vegana, resistente al agua y a prueba de manchas
 - Lápiz de cejas de punta fina
-- Crea trazos que simulan los pelos naturales de las cejas
-- Hasta 10h de duración
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B8CNNTMY{{</world>}}

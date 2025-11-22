@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- INGREDIENTES NATURALES: Elaborado a partir de agua, arroz, leche de caco, sal y aroma natural de coco, este producto es apto para veganos y libre de gluten. Además, no contiene lactosa ni azúcares añadidos, solo los naturalmente presentes.
-- MEZCLA Y DISFRUTA: Toma nuestra bebida vegetal en los desayunos, tanto fría como caliente. Puedes consumirla sola, en smoothies, con café, infusiones, cereales, mueslis o copos. Incluso en cremas o sopas. ¡Hay un sinfín de posibilidades!
 - MÚLTIPLES BENEFICIOS: El arroz y el coco son dos alimentos ricos en hidratos de carbono, fibra, vitaminas y minerales. Como resultado, es beneficioso para reforzar el sistema inmunitario, regular el tránsito intestinal y controlar tu peso.
-- SOBRE NOSOTROS: Ecocesta nació con una misión clara: dar visibilidad a la alimentación de origen vegetal. Somos empresa BCorp certificada y cumplimos con los más altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 - BEBIDA VEGETAL: Suave y delicioso sabor, bajo contenido en sal y un potente efecto saciante, estas son las principales características de nuestra bebida vegetal de arroz y coco. Además, es el acompañante perfecto para seguir una dieta saludable.
+- INGREDIENTES NATURALES: Elaborado a partir de agua, arroz, leche de caco, sal y aroma natural de coco, este producto es apto para veganos y libre de gluten. Además, no contiene lactosa ni azúcares añadidos, solo los naturalmente presentes.
+- SOBRE NOSOTROS: Ecocesta nació con una misión clara: dar visibilidad a la alimentación de origen vegetal. Somos empresa BCorp certificada y cumplimos con los más altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
+- MEZCLA Y DISFRUTA: Toma nuestra bebida vegetal en los desayunos, tanto fría como caliente. Puedes consumirla sola, en smoothies, con café, infusiones, cereales, mueslis o copos. Incluso en cremas o sopas. ¡Hay un sinfín de posibilidades!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08R6NX7LP{{</world>}}

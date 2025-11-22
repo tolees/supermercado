@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bote de té suelto: decorativo y práctico, este frasco sirve y almacena todo tipo de tés, azúcar, sal y pimienta, salsas o cualquiera de sus condimentos favoritos.
-- Tar jarra de té porcelana: la tapa está diseñada para polvo y húmeda. Seguro, saludable y ligero, conveniente de usar.
-- Jarrón de azúcar: el estilo clásico es un muy buen regalo para los amantes del té.
-- Tarro de cerámica de cocina a prueba de humedad, no absorbente, alta dureza, resistencia a la abrasión.
 - de té de cerámica: apariencia elegante del té se utiliza adorno de escritorio.
+- Jarrón de azúcar: el estilo clásico es un muy buen regalo para los amantes del té.
+- Tar jarra de té porcelana: la tapa está diseñada para polvo y húmeda. Seguro, saludable y ligero, conveniente de usar.
+- Tarro de cerámica de cocina a prueba de humedad, no absorbente, alta dureza, resistencia a la abrasión.
+- Bote de té suelto: decorativo y práctico, este frasco sirve y almacena todo tipo de tés, azúcar, sal y pimienta, salsas o cualquiera de sus condimentos favoritos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NYBNHXZ{{</world>}}

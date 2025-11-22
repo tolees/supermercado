@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - No aplicar el producto en prendas de seda, tejidos delicados ni prendas donde se indique lavar en seco. No aplicar sobre objetos metálicos como botones y cremalleras
-- Elimina las manchas amarillas, blanquecinas y cercos en las axilas. Es eficaz incluso contra aquellas más resecas e incrustadas: las manchas se van a la primera
-- En prendas de color, incluso claros, realizar una prueba de color: aplicar el producto en una zona no visible, dejar 5 min y aclarar. Si no ha cambiado el color, usar el producto en la zona a tratar
 - Gracias a su potente fórmula, este producto desincrusta la suciedad y recupera las prendas, ya que acaba con los olores persistentes y desagradables
+- En prendas de color, incluso claros, realizar una prueba de color: aplicar el producto en una zona no visible, dejar 5 min y aclarar. Si no ha cambiado el color, usar el producto en la zona a tratar
 - Se puede usar tanto como tratamiento de shock, para aquellas manchas más difíciles, como de forma diaria para un uso preventivo
+- Elimina las manchas amarillas, blanquecinas y cercos en las axilas. Es eficaz incluso contra aquellas más resecas e incrustadas: las manchas se van a la primera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTQ5XQ4G{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo 80-29011
 - Marca: Burberry
-- Género: mujer
+- Modelo 80-29011
 - Tipo de producto: agua de perfume
+- Género: mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01KK0O4LA{{</world>}}

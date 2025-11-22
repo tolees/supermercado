@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Es capaz de enamorar el paladar de cualquier consumidor del buen whisky
-- Cada sorbo de 100 Pipers Whisky Blended Escocés una sensación de amable calidez que, poco a poco, se torna ligeramente picante
-- Tiene un sabor suave y cremoso, acompañado por ligeros toques de vainilla y frutos secos
-- La mezcla de 100 Pipers Whisky Blended Escocés se compone de una selección de más de 30 whiskies de mayor añejamiento y con distintos perfiles de sabor
 - Tiene un color dorado intenso, en nariz presenta una sutil fragancia a roble, con notas a caramelo y en boca es de sabor complejo, armónico con cuerpo medio suave
+- Cada sorbo de 100 Pipers Whisky Blended Escocés una sensación de amable calidez que, poco a poco, se torna ligeramente picante
+- La mezcla de 100 Pipers Whisky Blended Escocés se compone de una selección de más de 30 whiskies de mayor añejamiento y con distintos perfiles de sabor
+- Es capaz de enamorar el paladar de cualquier consumidor del buen whisky
+- Tiene un sabor suave y cremoso, acompañado por ligeros toques de vainilla y frutos secos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B077JX8CRN{{</world>}}

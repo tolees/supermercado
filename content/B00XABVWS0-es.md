@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin colorantes ni conservantes
-- Elaborada con verduras frescas
-- Listo para servir
-- Es un producto natural
 - De textura cremosa
+- Listo para servir
+- Elaborada con verduras frescas
+- Es un producto natural
+- Sin colorantes ni conservantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XABVWS0{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Con un 80% ingredientes de origen natural,
 - Ayuda a aliviar el enrojecimiento y a reducir la aparición de rojeces e irritaciones.
-- Especialmente formulada para piel sensible y propensa al enrojecimiento.
 - Con vitamina E, Exo-P y VitA Tech, aporta protección antioxidante, antipolución y antiedad.
+- Especialmente formulada para piel sensible y propensa al enrojecimiento.
 - Con ácido hialurónico puro¹, hidrata la piel en profundidad para un rostro radiante y descansado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

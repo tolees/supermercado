@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de producto - Agua de colonia.
 - Prueba la Eau de Toilette Cool Water Woman de Davidoff. Descubre una fragancia femenina inspirada en la sensualidad del mar. Cool Water Woman, una irresistible celebración floral de la feminidad, la frescura y la seducción.
+- Tipo de producto - Agua de colonia.
 - Producto pensado para mujeres.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

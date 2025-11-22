@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Comida española fácil de preparar: al baño maria, en cazo o al microondas
 - Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
+- Comida española fácil de preparar: al baño maria, en cazo o al microondas
 - Fabada Asturiana con 30% menos de grasa y sal
 - Selecto embutido elaborado en Asturias, embutido 100% local
 - Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- cóctel.
 - Bar.
-- cristal
-- 500 ml.
 - Verde.
+- 500 ml.
+- cristal
+- cóctel.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NVKW77C{{</world>}}

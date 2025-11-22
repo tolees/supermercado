@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una dosis energizante que despierta la piel: el Red Pepper Super Sérum potencia instantáneamente el brillo natural de la piel. En la superficie, sus agentes exfoliantes de origen natural revelan un tono más unificado y luminoso, la promesa de un rostro tonificado
-- Productos no testados en animales, nuestra prioridad: Erborian nunca ha probado sus productos, ingredientes o materias primas en animales. Las materias primas de nuestros proveedores tampoco son nunca testadas en animales
 - Extracto de Pimiento: sin el componente picante llamado capsaicina, nuestra línea de pimiento aporta suavidad, confort y luminosidad a tu piel. Este ingrediente coreano se incorpora en un 80%. Un prebiótico ayuda a mantener el equilibrio cutáneo
 - Consejo de belleza: aplique una pequeña cantidad delicadamente en su rostro y cuello, por la mañana y por la noche. Una vez que el sérum se haya absorbido completamente en su piel, aplique su crema hidratante favorita. El sérum multiplicará sus efectos
 - Ilumina y unifica el tono desde la primera aplicación: este sérum iluminador ha sido probado en Francia durante 4 semanas y aprobado por un panel de personas con piel opaca y cansada. Resultado, una mejora en el brillo y la homogeneidad del tono
+- Productos no testados en animales, nuestra prioridad: Erborian nunca ha probado sus productos, ingredientes o materias primas en animales. Las materias primas de nuestros proveedores tampoco son nunca testadas en animales
+- Una dosis energizante que despierta la piel: el Red Pepper Super Sérum potencia instantáneamente el brillo natural de la piel. En la superficie, sus agentes exfoliantes de origen natural revelan un tono más unificado y luminoso, la promesa de un rostro tonificado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09VNFXQ7J{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Equipo en sinergia: Las vitaminas D3 y K2 trabajan juntas para ayudar a transportar y absorber el calcio para un saludable soporte óseo
 - Alta potencia: 4000UI (125mcg) de Vitamina D3 (colecalciferol), con 50mcg de menaquinona 7 obtenida de garbanzo fermentado
+- Equipo en sinergia: Las vitaminas D3 y K2 trabajan juntas para ayudar a transportar y absorber el calcio para un saludable soporte óseo
 - Fabricado por: Nutraceutical Corp. Salt Lake City, UT 84101 USA Distribuido en España por: SM Importador de Productos Dietéticos S.L. C/ Bruc, 99 08203 Sabadell (Barcelona) Tel. 937112870 www.smimport.com
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

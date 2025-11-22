@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sabor vegetal
 - Sin gluten
-- Deliciosos y para toda la familia
+- Sabor vegetal
 - Una cuidada selección de sabores vegetales
 - Con especies
+- Deliciosos y para toda la familia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084KC5XP9{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sandía y Fresa, Lima y Piña, Cereza y Cola. ¡Combínalos como quieras!
 - ¡Atrévete con los sabores más cool!
-- Disfruta con alegría y diversión en cualquier momento
-- COOL SODAS es el divertido mix de caramelos de goma de diferentes sabores y colores con forma de SODA, recubiertas de pica.
 - Variedad multicolor para grandes y pequeños
+- COOL SODAS es el divertido mix de caramelos de goma de diferentes sabores y colores con forma de SODA, recubiertas de pica.
+- Disfruta con alegría y diversión en cualquier momento
+- Sandía y Fresa, Lima y Piña, Cereza y Cola. ¡Combínalos como quieras!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CVL2VJXP{{</world>}}

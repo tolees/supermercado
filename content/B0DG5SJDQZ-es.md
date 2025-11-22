@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- HASTA 3 VECES MÁS HIDRATACIÓN Descubre nuestra mejor hidratación con nuestra rutina hidratante completa con aroma a coco. *Al usar champú y acondicionador sin aclarado o champú y mascarilla
 - MEJORA TU ESTADO DE ÁNIMO DE FORMA NATURAL. Sumérgete en el cálido y soleado aroma a coco y siente como recuperas tu equilibrio. Científicamente probado
 - FÓRMULA DE ORIGEN NATURAL EN UN 96% Con extracto de coco y certificado por los expertos en botánica del Real Jardín Botánico de Kew. No testado en animales, vegano y sin siliconas
-- HASTA 3 VECES MÁS HIDRATACIÓN Descubre nuestra mejor hidratación con nuestra rutina hidratante completa con aroma a coco. *Al usar champú y acondicionador sin aclarado o champú y mascarilla
-- LIMPIEZA PROFUNDA Sumérgete en un ambiente cálido y festivo con nuestras suaves mezclas
 - HIDRATA Y RELAJA Déjate llevar hasta los trópicos para una hidratación profunda del pelo seco
+- LIMPIEZA PROFUNDA Sumérgete en un ambiente cálido y festivo con nuestras suaves mezclas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DG5SJDQZ{{</world>}}

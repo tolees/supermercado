@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bálsamo reparador multipropósito que alivia, repara y protege la piel
 - Ha sido sometido a rigurosas pruebas dermatológicas para garantizar que sea adecuado incluso para la piel más sensible
 - Fórmula minimalista que no contiene fragancia o parabenos y no es comedogénica
+- Bálsamo reparador multipropósito que alivia, repara y protege la piel
 - Adecuado para piel agrietada y agrietada, praches secos o ásperos y erupciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

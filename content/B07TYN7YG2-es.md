@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Los productos de la marca Davidoff están fabricados con ingredientes de primera calidad
-- Productos de Perfumes y fragancias para Hombre
 - Agua de perfume para hombres Cool Water Intense - EDP - Volume: 125 ml de Davidoff
+- Productos de Perfumes y fragancias para Hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TYN7YG2{{</world>}}

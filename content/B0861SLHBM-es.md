@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hasta 8 veces más hidratacion, Desenreda e hidrata el cabello al instante y aporta brillo, El champú limpia sin resecar y el acondicionador desenreda sin apelmazar
-- Aplica el champú sobre cabello mojado y aclara, Después usa el acondicionador, masajea y aclara bien, Por último aplica la mascarilla con y sin aclarado para desenredar y nutrir
 - Pack de champú, acondicionador y mascarilla hidratantes para cabello seco, Fragancia de aloe vera
 - Contenido: 1x Garnier Hair Food Aloe Vera Champú 350 ml, 1x Garnier Hair Food Aloe Vera Acondicionador 350ml, 1x Garnier Hair Food Aloe Vera Mascarilla, 400 ml
+- Hasta 8 veces más hidratacion, Desenreda e hidrata el cabello al instante y aporta brillo, El champú limpia sin resecar y el acondicionador desenreda sin apelmazar
+- Aplica el champú sobre cabello mojado y aclara, Después usa el acondicionador, masajea y aclara bien, Por último aplica la mascarilla con y sin aclarado para desenredar y nutrir
 - Nueva fórmula vegana enriquecida con vitaminas C, E y F, 98% biodegradable, Sin siliconas, 96% de origen natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Conservar en un lugar fresco y seco
 - De textura gomosa
 - De diferentes formas
-- Conservar en un lugar fresco y seco
 - De colores y sabores diferentes
 - Ideal para compartir
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una fina capa de almendras en rodajas, cacahuetes cortados en cubitos tostados a la perfección y un rico chocolate negro se combinan para crear deliciosos aperitivos kosher OU-D.
 - Diez barritas sin gluten KIND THINS Nuts Sea Salt & Dark Chocolate de 21 g
+- Una fina capa de almendras en rodajas, cacahuetes cortados en cubitos tostados a la perfección y un rico chocolate negro se combinan para crear deliciosos aperitivos kosher OU-D.
 - Barras de nueces KIND THINS ricas en nutrientes hechas con almendras como el ingrediente n.º 1
 
 [🛒 Comprar!!!]({{< param buyurl >}})

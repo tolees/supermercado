@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Os nossos chocolates, nos seus diferentes formatos, são a ideia perfeita para oferecer. Um presente original e sofisiticado para casais e amigos, em qualquer ocasião ou época do ano. No fabrico dos nossos produtos, não utilizamos óleo de palma. Além disso, os chocolates Amatller não contêm glúten, tornando-o num chocolate adequado para celíacos.
 - Nuestros chocolates, en sus diferentes formatos, son la idea perfecta para regalar. Un regalo original y sofisiticado para parejas y amigos, en cualquier ocasión o época del año.
 - Chocolate Amatller es una marca con experiencia en la fabricación y artesanía del chocolate desde 1800. La tradición y el I+D para obtener un excepcional e inconfundible sabor.
 - Chocolate Amatller é uma marca com experiência na fabricação e artesanato de chocolate desde 1800. A tradição e o P & D para obter um sabor excecional e inconfundível. Chocolate Gourmet especial para os verdadeiros amantes de chocolate. Feito nas nossas fábricas desde o processo de seleção e torrefação de grãos, do feijão de cacau direto à sua casa.
-- Caixa de presente composta por: 1 tablet de chocolate preto 85% cacau origem ganana 1 tablet de chocolate preto 85% cacau origem do Equador 2 chocolate 70% cacau origens caixa de deliciosos Amatllons
-- Una cesta regalo completa y perfectamente diseñada para sorprender en ocasiones especiales. Un regalo original, único y dulce para satisfacer los paladares más sofisticados y exigentes.
-- Uma cesta de presente completa e perfeitamente projetada para surpreender em ocasiões especiais. Um presente original, único e doce para satisfazer os paladares mais sofisticados e exigentes. Fabricado inteiramente em Espanha. Na Amatller usamos apenas ingredientes de qualidade.
-- Caja regalo compuesta por: 1 Tableta de Chocolate Negro 85% Cacao origen Ghana + 1 Tableta de Chocolate Negro 85% cacao origen Ecuador + 2 Chocolatinas 70% Cacao Orígenes + Caja de deliciosos Amatllons
-- En la elaboración de nuestros productos no utilizamos aceite de palma. Además, los chocolates Amatller no contienen gluten, lo que lo convierten en un chocolate apto para celíacos.
 - Chocolate Gourmet especial para los verdaderos amantes del chocolate. Elaborados en nuestras fábricas desde el proceso de selección y tostado del grano, de la haba de cacao directo a tu hogar
-- Os nossos chocolates, nos seus diferentes formatos, são a ideia perfeita para oferecer. Um presente original e sofisiticado para casais e amigos, em qualquer ocasião ou época do ano. No fabrico dos nossos produtos, não utilizamos óleo de palma. Além disso, os chocolates Amatller não contêm glúten, tornando-o num chocolate adequado para celíacos.
+- Uma cesta de presente completa e perfeitamente projetada para surpreender em ocasiões especiais. Um presente original, único e doce para satisfazer os paladares mais sofisticados e exigentes. Fabricado inteiramente em Espanha. Na Amatller usamos apenas ingredientes de qualidade.
+- Una cesta regalo completa y perfectamente diseñada para sorprender en ocasiones especiales. Un regalo original, único y dulce para satisfacer los paladares más sofisticados y exigentes.
+- En la elaboración de nuestros productos no utilizamos aceite de palma. Además, los chocolates Amatller no contienen gluten, lo que lo convierten en un chocolate apto para celíacos.
+- Caixa de presente composta por: 1 tablet de chocolate preto 85% cacau origem ganana 1 tablet de chocolate preto 85% cacau origem do Equador 2 chocolate 70% cacau origens caixa de deliciosos Amatllons
+- Caja regalo compuesta por: 1 Tableta de Chocolate Negro 85% Cacao origen Ghana + 1 Tableta de Chocolate Negro 85% cacao origen Ecuador + 2 Chocolatinas 70% Cacao Orígenes + Caja de deliciosos Amatllons
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CX87NRP{{</world>}}

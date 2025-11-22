@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más.
+- PERFUME: Colonia femenina con un carácter atrayente, es dulce como el algodón de azúcar y meloso como un caramelo. Incluye un perfume de 150 ml. Frasco con vaporizador.
+- TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia oriental vainilla ideal para personas optimistas, colaboradoras y originales.
 - FEMENINO Y PRIMAVERAL: Un perfume para mujeres que evoca sensaciones deliciosas e irresistibles y que te envolverá en la más dulce de las fiestas, ideal para mujeres originales.
 - PIRÁMIDE OLFATIVA: Notas de salida: naranja siciliana, frambuesa y hojas de higuera; Notas de corazón: lirio del valle, regaliz y frutos rojos; Notas de fondo: vainilla y caramelo.
-- TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia oriental vainilla ideal para personas optimistas, colaboradoras y originales.
-- PERFUME: Colonia femenina con un carácter atrayente, es dulce como el algodón de azúcar y meloso como un caramelo. Incluye un perfume de 150 ml. Frasco con vaporizador.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNKGGZ1K{{</world>}}

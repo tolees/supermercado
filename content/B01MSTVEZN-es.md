@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes 100 percent naturales, sin gluten, sin colorantes ni conservantes
 - Comida española fácil de preparar: al baño maria, en cazo o al microondas
-- Selecto embutido elaborado en Asturias, embutido 100 percent local
 - Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
+- Ingredientes 100 percent naturales, sin gluten, sin colorantes ni conservantes
+- Selecto embutido elaborado en Asturias, embutido 100 percent local
 - Fuente de fibra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TÉ VERDE - nuestro té verde puro se compone de hojas y puntas de té de alta calidad con aromas cálidos y herbáceos y un carácter tostado dulce y relajante. El té ligero de color verde dorado se compone de té 100% natural sin aditivos.
-- FRESCO DEL JARDIN - nuestro té verde suelto está sellado fresco del jardín para preservar el sabor y el aroma. La preparación del té a granel es individual: juega con la cantidad de té y el tiempo de preparación y prepara el té según tu gusto.
 - ORIGEN - Nuestros maestros del té utilizan hojas de té verde Chun Mee de los jardines de té de las montañas Huang Shan, el "Triángulo Dorado" de China. Chun Mee significa "ceja preciosa" porque cuando las hojas de té se secan y se enrollan, se arquean.
 - COSECHA – Utilizamos las mejores hojas de té, recogidas a mano mediante métodos tradicionales. Estamos orgullosos de apoyar la Asociación de Comercio Ético (ETP) para una industria del té más justa, mejor y más sostenible para los trabajadores, los agricultores y el medio ambiente.
-- La siguiente información se aplica a cada unidad del paquete
 - TÉ CON PASIÓN - Nuestros maestros del té han estado desarrollando nuestras populares mezclas con pasión durante 4 generaciones. Queremos homenajear los jardines de té más exclusivos del mundo y presentarte diferentes sabores para despertar tu amor por el té también.
+- FRESCO DEL JARDIN - nuestro té verde suelto está sellado fresco del jardín para preservar el sabor y el aroma. La preparación del té a granel es individual: juega con la cantidad de té y el tiempo de preparación y prepara el té según tu gusto.
+- TÉ VERDE - nuestro té verde puro se compone de hojas y puntas de té de alta calidad con aromas cálidos y herbáceos y un carácter tostado dulce y relajante. El té ligero de color verde dorado se compone de té 100% natural sin aditivos.
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CH3J8XTL{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ideal para el desayuno o una pausa durante el día
-- Tiene un sabor intenso
 - Fácil y rápido de preparar
+- Tiene un sabor intenso
 - Se puede servir solo o con leche
 - Conservar en lugar fresco y seco
 

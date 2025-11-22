@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sin gluten, sin lactosa, ni derivados lácteos. CONSERVACIÓN: Mantener en lugar fresco y seco.
+- Producto de la marca Santiveri
+- Elaborado con productos naturales
 - MODO DE USO: Edulcorante para endulzar alimentos y bebidas, como sustituto del azúcar corriente (Sucralosa). 8 gotas de endulzante equivalen a 1 cucharadita de azúcar. Al ser un endulzante líquido es muy fácil disolverlo y mezclarlo con todo tipo de bebidas, ingredientes y preparados, incluso para cocinar, pues resiste el calor de la cocción.
 - SIN CALORÍAS: Es un producto sin aporte calórico (0% calorías) por lo que está indicado para dietas de control de peso, para las personas que desean controlar sus niveles de azúcar en sangre, diabéticos y para aquellos que quieren endulzar los alimentos sin azúcares ni calorías.
-- Producto de la marca Santiveri
-- Sin gluten, sin lactosa, ni derivados lácteos. CONSERVACIÓN: Mantener en lugar fresco y seco.
-- Elaborado con productos naturales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086QBGLDT{{</world>}}

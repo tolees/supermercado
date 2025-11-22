@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Protege e hidrata la piel
 - Se absorbe rápidamente sin dejar una sensación grasa y pegajosa
 - Viene en un recipiente conveniente y fácil de llevar
-- Protege e hidrata la piel
 - Combina las conocidas propiedades calmantes de la Camomila con Coolact 10 y el Extracto de Alga Marina
 - Refresca y calma la piel después del afeitado
 

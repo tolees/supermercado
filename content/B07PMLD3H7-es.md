@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ginebra Premium nacional Nordés Atlantic Galician Gin en un pack de 2 botellas de 70 cl y 4 vasos
+- Nordés es una ginebra gallega que, como el viento que inspira su nombre, viene a refrescar el mundo de las ginebras
 - Nordés gin tiene un sabor diferente que despierta los sentidos; su característico sabor combina matices afrutados con ligeros toques balsámicos
 - Uno de los secretos de Nordés reside en la uva Albariño, corazón y alma de su destilado
 - Su receta, utiliza además 11 botánicos naturales, 6 de ellos gallegos: salvia, salicornia, hierbaluisa, laurel, eucalipto y menta, que le otorgan su carácter fresco y equilibrado
-- Nordés es una ginebra gallega que, como el viento que inspira su nombre, viene a refrescar el mundo de las ginebras
-- Ginebra Premium nacional Nordés Atlantic Galician Gin en un pack de 2 botellas de 70 cl y 4 vasos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PMLD3H7{{</world>}}

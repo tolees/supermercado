@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para un cuidado adicional, combínalo con el resto de productos de nuestra línea Suave y Liso, para proporcionar suavidad y control del encrespamiento
 - Con la fórmula Pro-V y la tecnología Active Nutri-Plex limpia y nutre para conseguir un pelo más fuerte y sin encrespamiento
 - Con la fórmula Pro-V y la tecnología Active Nutri-Plex, este champú está diseñado para proteger los enlaces capilares y controlar el encrespamiento
+- Para un cuidado adicional, combínalo con el resto de productos de nuestra línea Suave y Liso, para proporcionar suavidad y control del encrespamiento
 - CHAMPÚ DE USO DIARIO SIN SILICONAS: Nuestro champú sin siliconas, aceites minerales ni colorantes limpia suavemente tu pelo y le aporta nutrientes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

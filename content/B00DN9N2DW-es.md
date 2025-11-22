@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La sustitución de dos de las comidas principales del día por un sustitutivo de la comida te ayudará a perder peso. La sustitución de una de las comidas principales del día por un sustitutivo de la comida te ayudará a mantener el peso perdido
+- Modo de empleo: vierte en un recipiente unos 200 ml de agua y añade el contenido del sobre. Remueve la mezcla hasta su completa disolución
 - Sustitutivo de comidas para el control del peso. 1 crema equivale a 1 comida y aporta 201 kcal. Irresistible sabor a chocolate y una textura suave y cremosa
 - Los sustitutivos de comidas para el control del peso deben consumirse dentro del marco de una dieta variada y equilibrada de bajo valor energético, junto con otros alimentos y un estilo de vida saludable
-- Modo de empleo: vierte en un recipiente unos 200 ml de agua y añade el contenido del sobre. Remueve la mezcla hasta su completa disolución
 - Los sustitutivos Biform contienen todos los nutrientes que tu cuerpo necesita para reemplazar una comida principal en el marco de una dieta hipocalórica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Licor especiado con canela y picanta
-- Perfecto para tomar como chupito frío
-- Graduación: 25º
 - Libera tus noches más épicas
 - Agítalo para desatar su efecto "fuego"
+- Graduación: 25º
+- Perfecto para tomar como chupito frío
+- Licor especiado con canela y picanta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B073WLG8JZ{{</world>}}

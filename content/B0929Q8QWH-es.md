@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La cosecha puede variar
 - Capacidad:0.7L
 - Marca: Macallan
+- La cosecha puede variar
 - Contenido de alcohol: 43%
 
 [🛒 Aquí!!!]({{< param buyurl >}})

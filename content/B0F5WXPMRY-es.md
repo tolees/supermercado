@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Brockmans ginebra botella 70 cl con vaso de Negroni de regalo
 - Con el proceso de destilación en la que las notas más tradicionales de la ginebra se combinan exquisitamente con la suave y equilibrada armonía creada por los arándanos azules y las moras; conseguimos una ginebra de sabor intensamente suave que se caracteriza por ser sensual, atrevida y diferente
+- Brockmans ginebra botella 70 cl con vaso de Negroni de regalo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F5WXPMRY{{</world>}}

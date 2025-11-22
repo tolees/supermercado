@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- INGREDIENTES QUE REPARAN LA PIEL: Con ingredientes adicionales que reparan la piel, nuestro anti-transpirante roll-on cuida la delicada piel de las axilas
 - PROTECCIÓN DE HASTA 48 HORAS: Nuestro anti-transpirante roll-on ha sido especialmente formulado para ofrecerte una protección eficaz contra el sudor y el mal olor de hasta 48 horas
 - FORMATO: Pack 6 unidades x 50ml
+- INGREDIENTES QUE REPARAN LA PIEL: Con ingredientes adicionales que reparan la piel, nuestro anti-transpirante roll-on cuida la delicada piel de las axilas
 - CUIDA LA PIEL: Este anti-transpirante roll-on ha sido dermatológicamente testado y restaura el pH natural de tu piel
 - CONFIANZA EN EL DÍA A DÍA: Obtén toda la confianza que el frescor te puede ofrecer cuando uses el Desodorante Anti-transpirante Sanex Dermo Active Freshness Roll-On
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gel para el lavavajillas limón desengrasante todo en uno
-- Brillo óptimo y poder de limpieza
 - Finish es la marca recomendada por los principales fabricantes de lavavajillas
+- Brillo óptimo y poder de limpieza
+- Gel para el lavavajillas limón desengrasante todo en uno
 - Gracias a su rápida disolución, ofrece resultados óptimos incluso en ciclos cortos
 - con limón desengrasante
 

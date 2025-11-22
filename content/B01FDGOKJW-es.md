@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma exclusiva octogonale
-- Capacidad 50 ml
 - Cuerpo hecho de ceramica
 - Dimensiones: 6.7 x Ø 6.5 cm
+- Forma exclusiva octogonale
+- Capacidad 50 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01FDGOKJW{{</world>}}

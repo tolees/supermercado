@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con una fórmula reparadora con Dexpantenol.
-- Mira en profundidad.
 - Calma y protege durante todo el día.
 - Alivia inmediatamente la sensación de tirantez de la piel, proporcionando un confort instantáneo.
+- Mira en profundidad.
+- Con una fórmula reparadora con Dexpantenol.
 - Enriquecido con aceites protectores.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

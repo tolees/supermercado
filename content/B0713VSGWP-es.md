@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Edulcorante liquido
-- sabor agradable
-- Stevia Gotas de chocolate blanco, galleta de mantequilla, pastel de manzana y canela, Sabor a galletas de chocolate y mantequilla de maní, tarta de queso
-- Edulcorante natural
 - sustituto del azúcar con sabor
+- Edulcorante natural
+- Stevia Gotas de chocolate blanco, galleta de mantequilla, pastel de manzana y canela, Sabor a galletas de chocolate y mantequilla de maní, tarta de queso
+- sabor agradable
+- Edulcorante liquido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0713VSGWP{{</world>}}

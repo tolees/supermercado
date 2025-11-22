@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TIPO DE PELO: este tratamiento capilar intensivo de Pantene es adecuado para reparar el pelo débil y dañado
-- POTENTE FÓRMULA con Pro-V, lípidos fortalecedores y antioxidantes protectores que nutren desde dentro y ayudan a reparar el pelo con signos visibles de daño* en tan solo 30 segundos. (*daño a la suavidad de la superficie del pelo)
-- Producto capilar testado por el Swiss Vitamin Institute
-- MODO DE USO: tras lavar con el champú, aplicar sobre el pelo mojado de medios a puntas. Dejar pasar al menos 30 segundos y aclarar
 - Descubre el poder reparador instantáneo de puntas con la forma activa más pequeña pero más rápida de Pantene
+- Producto capilar testado por el Swiss Vitamin Institute
+- POTENTE FÓRMULA con Pro-V, lípidos fortalecedores y antioxidantes protectores que nutren desde dentro y ayudan a reparar el pelo con signos visibles de daño* en tan solo 30 segundos. (*daño a la suavidad de la superficie del pelo)
+- MODO DE USO: tras lavar con el champú, aplicar sobre el pelo mojado de medios a puntas. Dejar pasar al menos 30 segundos y aclarar
+- TIPO DE PELO: este tratamiento capilar intensivo de Pantene es adecuado para reparar el pelo débil y dañado
 - Enriquecido con 3 nutrientes: péptido de colágeno + aceite de albaricoque + vitamina B7
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

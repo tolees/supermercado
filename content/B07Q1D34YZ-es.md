@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cerveza sin alcohol 0,0%
 - En la nueva receta, recuperamos los aromas que se perdían en la desalcoholización, consiguiendo todavía más sabor
-- Producto que combina tradición e innovación
 - Pack de 12 latas 33cl
+- Cerveza sin alcohol 0,0%
+- Producto que combina tradición e innovación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07Q1D34YZ{{</world>}}

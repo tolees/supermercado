@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
+- Con 0.9% de alcohol en volumen
 - Cerveza con espuma fina, aroma de flores cítricas, sabor dulce y suave que la hace muy fácil de beber y muy refrescante
 - Cerveza de tipo lager aromatizada con limonada
-- Con 0.9% de alcohol en volumen
+- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PM7WVLL{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Almacenar el producto en un ambiente limpio, seco (humedad relativa máx. 70%) y sin olores. Temperatura de almacenamiento 12-20ºc
-- País de origen: bélgica
 - Alérgenos: soja,leche,lactosa,aceite,vainillina,fructosa
+- País de origen: bélgica
 - Ingredientes : pasta de cacao, azucar, cacao desgrasado en polvo, emulgente : lecitina de SOJA, aroma natural de vainilla. Puede contener: LECHE
 
 [🛒 Comprar!!!]({{< param buyurl >}})

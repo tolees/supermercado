@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Caramelos de goma
 - Conservar en lugar fresco y seco
 - Mix de divertidas piezas
-- Caramelos de goma
 - De distintos colores y sabores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

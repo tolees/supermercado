@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 0% de residuos – El agua desmaquillante micelar elimina eficazmente maquillaje, impurezas y suciedad en unas pocas pasadas y sin necesidad de frotar.
+- Contenido del envío – NIVEA Agua Micelar Suave, aceite desmaquillante facial sin perfume, dermatológica y oftalmológicamente comprobada, bálsamo desmaquillante, 5 x 400 ml, botella.
+- NIVEA cuida de tu piel y del planeta – La botella del agua limpiadora micelar contiene material reciclado (excepto etiqueta, inserto y tapón) y su fórmula es biodegradable.
 - Fórmula suave – Con Amino Acid Complex y aceite de almendras, la fórmula de esta agua micelar limpiadora está enriquecida con Micelas limpiadoras y Aminoácidos.
 - 5 en 1 – Esta agua micelar hidratante NIVEA, especialmente formulada para piel seca o sensible, elimina el maquillaje, limpia, hidrata y suaviza la piel sin necesidad de frotar.
-- NIVEA cuida de tu piel y del planeta – La botella del agua limpiadora micelar contiene material reciclado (excepto etiqueta, inserto y tapón) y su fórmula es biodegradable.
-- Contenido del envío – NIVEA Agua Micelar Suave, aceite desmaquillante facial sin perfume, dermatológica y oftalmológicamente comprobada, bálsamo desmaquillante, 5 x 400 ml, botella.
-- 0% de residuos – El agua desmaquillante micelar elimina eficazmente maquillaje, impurezas y suciedad en unas pocas pasadas y sin necesidad de frotar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BDCWPKZ{{</world>}}

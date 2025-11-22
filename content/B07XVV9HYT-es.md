@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula hidratante, contiene aloe vera, esferas de relleno hialurónico
 - Siente tu labios hidratados y brillo deslumbrante
+- Fórmula hidratante, contiene aloe vera, esferas de relleno hialurónico
 - Se funde en los labios
 - Color y brillo deslumbrante para los labios
 

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Para uso profesional
-- Fácil de preparar
 - Versatilidad para preparar diversas recetas
-- Sin gluten
+- Fácil de preparar
 - Mousse deshidratado con sabor a Chocolate
+- Sin gluten
 - Cada caja contiene 3 sobres de 240g
 
 [🛒 Aquí!!!]({{< param buyurl >}})

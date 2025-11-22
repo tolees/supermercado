@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Su base acuosa y sus ingredientes de origen natural favorecen la hidratación de la piel.
+- Limpia con suavidad el maquillaje, incluso waterproof o resistente al agua y de larga duración, sin alterar la barrera cutánea.
 - Retira el maquillaje, incluso el resistente al agua y de larga duración.
 - Recomendado por maquilladores profesionales. Hipoalergénico, pH fisiológico. 0% alcohol, 0% perfume, 0% jabón.
-- Limpia con suavidad el maquillaje, incluso waterproof o resistente al agua y de larga duración, sin alterar la barrera cutánea.
+- Su base acuosa y sus ingredientes de origen natural favorecen la hidratación de la piel.
 - Limpia con suavidad, respetando la función barrera de la piel.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deliciosas piezas largas en forma de stick
+- Geles dulces
+- La siguiente información se aplica a cada unidad del paquete
 - Ctra. Girona-Banyoles, Km. 14, 17844 Cornellà del Terri, Girona, Espana
+- Con intenso sabor a cereza
+- Deliciosas piezas largas en forma de stick
 - Conservar en lugar fresco y seco
 - Ctra. Girona-Banyoles, Km. 14, 17844 Cornellà del Terri, Girona, Espana
-- La siguiente información se aplica a cada unidad del paquete
-- Con intenso sabor a cereza
-- Geles dulces
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN2LR6PX{{</world>}}

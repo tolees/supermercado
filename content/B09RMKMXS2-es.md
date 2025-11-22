@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con un 5,5% de alcohol en volumen, este tipo de cerveza es ideal para los que buscan una cerveza de gran cuerpo.
 - Elaborada según el método tradicional para conservar toda la levadura. Al no ser filtrada, se realza especialmente el carácter de sus lúpulos Perle y Lemondrop y se intensifican sus aromas, con notas afrutadas y cítricas.
 - Disfruta cómodamente de este pack de latas de cerveza de 10 x 33 cl.
-- Experimenta un sabor único a malta de cebada y caramelo, con un suave amargor.
 - Saborea tu libertad con El Águila Sin Filtrar. La cerveza sin filtrar perfecta para inconformistas.
+- Experimenta un sabor único a malta de cebada y caramelo, con un suave amargor.
+- Con un 5,5% de alcohol en volumen, este tipo de cerveza es ideal para los que buscan una cerveza de gran cuerpo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RMKMXS2{{</world>}}

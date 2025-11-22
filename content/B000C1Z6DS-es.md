@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Volumen del producto: 90 ml
 - Marca: Hugo Boss
+- Volumen del producto: 90 ml
 - Agua de perfume para mujeres
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

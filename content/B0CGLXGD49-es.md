@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Clínicamente probado
 - El pack contiene 2 unidades
-- La siguiente información se aplica a cada unidad del paquete
 - Contiene un sistema avanzado que elimina hasta el 100% de las manchas superficiales
-- Consigue un tono más blanco en una semana
 - Contiene aceleradores de blanqueamiento
+- Consigue un tono más blanco en una semana
+- Clínicamente probado
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CGLXGD49{{</world>}}

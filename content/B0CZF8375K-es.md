@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espuma abundante con una sola gota y aclarado fácil
 - Nuestra fórmula respeta la piel por lo que no es necesario usar guantes
-- La siguiente información se aplica a cada unidad del paquete
+- Espuma abundante con una sola gota y aclarado fácil
 - Fairy lavavajillas líquido ultra concentrado
+- La siguiente información se aplica a cada unidad del paquete
 - Aroma limpio y fresco
 - Poderosa acción limpiadora que elimina la grasa al instante
 

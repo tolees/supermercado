@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Notas de corazón: jazmín, lirio de los valles, violeta y peonía.
 - Familia olfativa: Floral Frutal.
 - Notas de salida: bergamota, piña y frambuesa.
+- Notas de corazón: jazmín, lirio de los valles, violeta y peonía.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008SBLYSK{{</world>}}

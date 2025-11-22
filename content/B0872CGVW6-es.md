@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hellmanns Salsa Barbacoa 430 ml
-- Con tomates cultivados de forma sostenible​
-- Óptimo con costillas a la brasa, alitas de pollo y hamburguesas
-- Sin colorantes artificiales​
-- Botella 100% reciclable y formato ahorro para toda la familia
 - Disfruta del auténtico sabor Hellmann’s en tus barbacoas
+- Sin colorantes artificiales​
+- Óptimo con costillas a la brasa, alitas de pollo y hamburguesas
+- Botella 100% reciclable y formato ahorro para toda la familia
+- Con tomates cultivados de forma sostenible​
+- Hellmanns Salsa Barbacoa 430 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0872CGVW6{{</world>}}

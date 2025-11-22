@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ayudamos al medio ambiente apostando por un envase reciclable y la utilización de un 95% de material biodegradable
-- Champú hidratante con el poder fundente del Aloe Vera, que nutre en profundidad y limpia el pelo normal sin apelmazar
 - Con un 98% de ingredientes de origen natural, es el primer champú con fórmula vegana, sin siliconas, para una sensación natural
 - Comprometidos desde 1989 en no realizar test en animales, está dermatológicamente testado
+- Champú hidratante con el poder fundente del Aloe Vera, que nutre en profundidad y limpia el pelo normal sin apelmazar
+- Ayudamos al medio ambiente apostando por un envase reciclable y la utilización de un 95% de material biodegradable
 - Su espuma suave te ayuda a limpiar, nutrir y no apelmazar tu cabello mientras lo hidratas en profundidad y consigues un pelo saludable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

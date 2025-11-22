@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Formato cómodo y fácil
+- Las FRESAS MIX son caramelos de goma con la clásica forma de fresa, con un interior súper esponjoso con intenso sabor. ¡Disfruta de un delicioso surtido de diferentes sabores a fresa en una misma bolsa! Sabor fresón, sabor fresa ácida y sabor mermelada de fresa.
 - Disfruta con alegría y diversión en cualquier momento
 - Variedad multicolor para grandes y pequeños
-- Las FRESAS MIX son caramelos de goma con la clásica forma de fresa, con un interior súper esponjoso con intenso sabor. ¡Disfruta de un delicioso surtido de diferentes sabores a fresa en una misma bolsa! Sabor fresón, sabor fresa ácida y sabor mermelada de fresa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DCG6YZTH{{</world>}}

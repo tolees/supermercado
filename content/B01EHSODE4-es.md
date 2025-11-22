@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Halls llegó a España en los años 70 convirtiéndose a día de hoy en el número uno de caramelos refrescantes en España
-- Disfruta de los beneficios de Halls, brindando un momento de doble frescor en tu garganta en cualquier momento
-- Con ingredientes de calidad, Halls garantiza un sabor intenso y delicioso; combinando el sabor a eucalipto sin azúcar con un toque refrescante
 - Cada paquete contiene 20 sticks de 32 g, diseñados para su fácil transporte, permitiendo degustarlos en cualquier ocasión, ya sea en el trabajo, en casa o mientras viajáis
+- Con ingredientes de calidad, Halls garantiza un sabor intenso y delicioso; combinando el sabor a eucalipto sin azúcar con un toque refrescante
+- Disfruta de los beneficios de Halls, brindando un momento de doble frescor en tu garganta en cualquier momento
+- Halls llegó a España en los años 70 convirtiéndose a día de hoy en el número uno de caramelos refrescantes en España
 - Halls Caramelos Refrescantes es la elección para quienes buscan un delicioso sabor a eucalipto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Irresistible mix de sabores
-- Deliciosas piezas redondeadas
 - Caramelos grageados
+- Deliciosas piezas redondeadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZT4YGQ2{{</world>}}

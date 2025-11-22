@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Auténticas patatas fritas
+- Ideal como snack
+- Conservar en un lugar fresco y seco
 - Sabor a jamón en cada bocado
 - Bueno para casa o fuera
-- Conservar en un lugar fresco y seco
-- Ideal como snack
-- Auténticas patatas fritas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07FSHQ9VR{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
+- Café de molido fino adecuado para cafetera italiana o máquinas de café espresso
 - Café molido de STARBUCKS con intensas notas a caramelo
 - Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
-- Café de molido fino adecuado para cafetera italiana o máquinas de café espresso
-- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
 - Los cafés de tostado intenso de STARBUCKS tienen intensidad y carácter
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

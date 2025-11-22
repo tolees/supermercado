@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
 - Garbanzos de cultivo local, de la Vega de Carmona
 - Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
-- Receta elaborada con aceite de oliva
 - Comida española fácil de preparar: al baño maria, en cazo o al microondas
+- Receta elaborada con aceite de oliva
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079ZYVHMJ{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta eficiencia, protección antitranspirante de 48 horas.
 - No deja marcas blancas.
+- Alta eficiencia, protección antitranspirante de 48 horas.
 - Sin alcohol.
 - Ideal para usar después del afeitado.
 

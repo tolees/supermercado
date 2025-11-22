@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
-- TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia amaderada oriental que rinde homenaje al fuego, uno de los elementos de la naturaleza que más fascina al ser humano. ¡Una fuerza de la naturaleza!
-- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, mandarina, pomelo y pimienta rosa; Notas de corazón: nuez moscada, cardamomo y canela; Notas de fondo: cedro, ámbar, vainilla y haba tonka.
-- VERSÁTIL Y MASCULINO: Un agua de colonia, para hombres, que inspirada en el fuego, desprende luz y calor, y se amolda a todos los hombres. ¡Sé la persona que fascina, como el fuego, a todo el mundo!
 - FRAGANCIA ÚNICA: Nike On Fire es un perfume masculino con una fuerza natural e inspirada en el fuego. Ideal para hombres con una belleza universal e irresistible. Frasco con vaporizador.
+- TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia amaderada oriental que rinde homenaje al fuego, uno de los elementos de la naturaleza que más fascina al ser humano. ¡Una fuerza de la naturaleza!
+- VERSÁTIL Y MASCULINO: Un agua de colonia, para hombres, que inspirada en el fuego, desprende luz y calor, y se amolda a todos los hombres. ¡Sé la persona que fascina, como el fuego, a todo el mundo!
+- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, mandarina, pomelo y pimienta rosa; Notas de corazón: nuez moscada, cardamomo y canela; Notas de fondo: cedro, ámbar, vainilla y haba tonka.
+- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09D3JC2DQ{{</world>}}

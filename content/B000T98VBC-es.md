@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un producto de la marca Olay
-- Producto pensado para cualquier persona, ya sea hombre o mujer
 - Fecha de caducidad: la fecha de caducidad de este producto está determinada por el símbolo del período posterior a la apertura (el símbolo está marcado por un cuadro con un número numérico seguido de la letra M para los meses). El símbolo indica que se recomienda utilizar el producto dentro de los X meses posteriores a la apertura.
+- Producto pensado para cualquier persona, ya sea hombre o mujer
+- Un producto de la marca Olay
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000T98VBC{{</world>}}
